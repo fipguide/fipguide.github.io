@@ -1,0 +1,11 @@
+<nav>
+  <ul class="top-level-menu">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Westeuropa</a></li>
+    <ul class="sub-menu">
+      <li *ngFor="let country of getCountriesForRegion('westerneurope')">
+        {{ country }}
+      </li>
+    </ul>
+  </ul>
+</nav>
