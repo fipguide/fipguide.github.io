@@ -1,0 +1,11 @@
+<div *ngIf="company">
+  <h2>{{ company.name }}</h2>
+  <p><strong>Eisenbahngesellschaft:</strong> {{ company.name }}</p>
+  <p><strong>Abkürzung:</strong> {{ company.abbreviation }}</p>
+  <p>
+    <strong>Allgemeine Informationen:</strong> {{ company.generalInformation }}
+  </p>
+</div>
+<div *ngIf="!company">
+  <p>Keine Firmendaten verfügbar.</p>
+</div>

@@ -1,0 +1,17 @@
+{
+  "countries": [
+    {
+      "name": "Belgien",
+      "insideEu": true,
+      "generalFipGuides": "Achtung in Belgien sprechen die Leute auch Deutsch. Also pass auf, was du sagt!\n",
+      "generalTravelGuides": "Die Strecke von Liege nach Brüssel ist zwar schnell, aber ständig geht was kaput, Leute fassen einem auf den Kopf oder man wird von Koffern erschlagen.\n",
+      "companys": [
+        {
+          "name": "Nationale Gesellschaft der Belgischen Eisenbahnen",
+          "abbreviation": "SNCB",
+          "generalInformation": "Die neuen Desiros sind toll. 😳\n"
+        }
+      ]
+    }
+  ]
+}
