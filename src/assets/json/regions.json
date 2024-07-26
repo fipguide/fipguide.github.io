@@ -1,0 +1,11 @@
+[
+  {
+    "region": "Westeuropa",
+    "countries": [
+      {
+        "name": "Belgien",
+        "$ref": "region/westerneurope/belgium.json"
+      }
+    ]
+  }
+]

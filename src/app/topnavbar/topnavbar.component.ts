@@ -1,6 +1,9 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import * as fipdata from '../../assets/json/out.json';
 import { CommonModule } from '@angular/common';
+import {AssetService} from "../service/asset.service";
+import {BehaviorSubject} from "rxjs";
+import {Region} from "../service/model/region";
 
 @Component({
   selector: 'app-topnavbar',
@@ -9,10 +12,14 @@ import { CommonModule } from '@angular/common';
   templateUrl: './topnavbar.component.html',
   styleUrl: './topnavbar.component.scss',
 })
-export class TopnavbarComponent {
-  public getCountriesForRegion(region: string): string[] {
-    return fipdata.countries
-      .filter((i) => i.region === region)
-      .map((foundCountry) => foundCountry.country);
+export class TopnavbarComponent implements OnInit {
+  regions$: BehaviorSubject<Region[]>;
+
+  constructor(private assets: AssetService) {
+    this.regions$ = assets.regions$;
   }
+
+  ngOnInit() {
+  }
+
 }

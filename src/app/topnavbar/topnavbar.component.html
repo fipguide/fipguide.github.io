@@ -1,11 +1,15 @@
 <nav>
   <ul class="top-level-menu">
     <li><a href="#">Home</a></li>
-    <li><a href="#">Westeuropa</a></li>
-    <ul class="sub-menu">
-      <li *ngFor="let country of getCountriesForRegion('westerneurope')">
-        {{ country }}
-      </li>
-    </ul>
+    @for (region of regions$ | async; track region) {
+      <li><a href="#">{{ region.region }}</a></li>
+      <ul class="sub-menu">
+        @for (country of region.countries; track country) {
+          <li>
+            <a href="#">{{ country.name }}</a>
+          </li>
+        }
+      </ul>
+    }
   </ul>
 </nav>
