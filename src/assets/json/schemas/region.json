@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "regions": {
+      "type": "array",
+      "minItems": 0,
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "region": {
+              "type": "string"
+            },
+            "countries": {
+              "type": "array",
+              "minItems": 0,
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "name",
+                    "path"
+                  ]
+                }
+              ],
+              "uniqueItems": true
+            }
+          },
+          "required": [
+            "region",
+            "countries"
+          ]
+        }
+      ],
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "regions"
+  ]
+}
