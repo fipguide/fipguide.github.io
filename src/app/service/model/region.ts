@@ -1,7 +1,7 @@
 export interface Region {
-  region: string
+  region: string;
   countries: {
-    name: string
-    '$ref': string
-  }[]
+    name: string;
+    path: string;
+  }[];
 }

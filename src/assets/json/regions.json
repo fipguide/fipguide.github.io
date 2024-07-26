@@ -1,10 +1,49 @@
 [
   {
+    "region": "Nordeuropa",
+    "countries": [
+      {
+        "name": "Dänemark",
+        "path": "denmark"
+      }
+    ]
+  },
+  {
     "region": "Westeuropa",
     "countries": [
       {
         "name": "Belgien",
-        "$ref": "region/westerneurope/belgium.json"
+        "path": "belgium"
+      },
+      {
+        "name": "Niederlande",
+        "path": "netherlands"
+      }
+    ]
+  },
+  {
+    "region": "Osteuropa",
+    "countries": [
+      {
+        "name": "Polen",
+        "path": "poland"
+      },
+      {
+        "name": "Ungarn",
+        "path": "hungary"
+      }
+    ]
+  },
+  {
+    "region": "Südeuropa",
+    "countries": [
+      {
+        "name": "Italien",
+        "path": "italy"
+      },
+      {
+        "name": "Spanien",
+        "path": "spain"
       }
     ]
   }
