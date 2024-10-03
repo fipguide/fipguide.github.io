@@ -1,32 +1,56 @@
-<nav>
-  <div class="navbar navbar-expand-lg bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">FIPGuide</a>
+<div class="d-flex flex-column flex-shrink-0 p-3 bg-white rounded" style="width: 250px;">
+  <div class="dropdown">
+    <button class="btn dropdown-toggle" type="button" id="countriesButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      {{ country?.name }}
+    </button>
+    <div class="dropdown-menu" aria-labelledby="countriesButton">
+      @for (countryName of []; track countryName) { <!-- TODO get available countries -->
+        <a class="dropdown-item" href="#">Action</a>
+      }
     </div>
   </div>
-  <div class="navbar navbar-expand-lg bg-light">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        @for (region of regions$ | async; track region) {
-          <li class="nav-item" ngbDropdown>
-            <a class="nav-link" href="#" role="button" ngbDropdownToggle>
-              {{ region.region }}
+  <hr>
+  <ul class="nav nav-pills flex-column mb-auto">
+    <li class="nav-item mb-2">
+      <span class="small">General</span>
+      <div>
+        <ul class="list-unstyled fw-normal pb-1">
+          <li>
+            <a class="link-dark rounded text-decoration-none" href="#">
+              General FIP Information
             </a>
-            <div class="dropdown-menu" ngbDropdownMenu>
-              @for (country of region.countries; track country) {
-                <a ngbDropdownItem href="#">{{ country.name }}</a>
-              }
+          </li>
+          <li>
+            <a class="link-dark rounded text-decoration-none" href="#">
+              General Travel Information
+            </a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class="nav-item mb-2">
+      <span class="small">Companies</span>
+      <div>
+        <ul class="list-unstyled ps-0">
+          @for (company of ["BahnA", "BahnB"]; track company) {
+          <li class="mb-1">
+            <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" [attr.data-bs-target]="'nav-collapse-'+company" aria-expanded="true">
+              {{ company }}
+            </button>
+            <div id="nav-collapse-{{company}}" class="collapse show">
+              <ul class="btn-toggle-nav list-unstyled fw-normal small">
+                <li> <!-- TODO extract from md -->
+                  <a class="link-dark rounded" href="#">Allgemeines</a>
+                  <a class="link-dark rounded" href="#">Besonderheiten</a>
+                  <a class="link-dark rounded" href="#">Zugkategorien und Reservierungen</a>
+                  <a class="link-dark rounded" href="#">Ticketkauf</a>
+                </li>
+              </ul>
             </div>
           </li>
-        }
-      </ul>
-    </div>
-  </div>
-</nav>
+          }
+        </ul>
+      </div>
+    </li>
+  </ul>
+</div>
