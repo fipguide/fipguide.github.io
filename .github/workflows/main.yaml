@@ -19,8 +19,8 @@ jobs:
       - name: Prepare and deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          NAME: len${{ secrets.NAME }}
+          NAME: ${{ secrets.NAME }}
           EMAIL: ${{ secrets.EMAIL }}
-        run: npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git cname=fip.rommeiss.de --name=$NAME --email=$EMAIL
+        run: npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname=fip.rommeiss.de --name=$NAME --email=$EMAIL
 
 
