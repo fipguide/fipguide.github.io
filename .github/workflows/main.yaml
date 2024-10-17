@@ -25,5 +25,5 @@ jobs:
         env:
           CI: true
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          NAME: ${{ secrets.NAME }}
-          EMAIL: ${{ secrets.EMAIL }}
+          NAME: len
+          EMAIL: lo
