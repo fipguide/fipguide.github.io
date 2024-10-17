@@ -24,7 +24,9 @@ jobs:
           NAME: ${{ secrets.NAME }}
           EMAIL: ${{ secrets.EMAIL }}
         run: |
-          npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname=fip.rommeiss.de --name=$NAME--email=$EMAIL
+          git config --global user.email $EMAIL
+          git config --global user.name $NAME
+          npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname=fip.rommeiss.de
 
 
 
