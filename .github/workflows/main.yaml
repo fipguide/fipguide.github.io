@@ -12,7 +12,7 @@ jobs:
       - name: Adding Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 20
+          node-version: 22
       - name: Install Dependencies
         run: npm install
       - name: Build Angular App
