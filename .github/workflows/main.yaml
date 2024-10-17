@@ -19,8 +19,10 @@ jobs:
         run: npm run build
       - name: Deploy to GitHub Pages
         run: |
-          npx ng deploy --cname fip.rommeiss.de --repo=https://github.com/fipguide/fipguide.github.io.git
+          npx ng deploy --cname fip.rommeiss.de --repo=https://github.com/fipguide/fipguide.github.io.git --name=$NAME --email=$EMAIL
+
         env:
           CI: true
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          NAME: ${{ secrets.NAME }}
+          EMAIL: ${{ secrets.EMAIL }}
