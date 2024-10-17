@@ -22,4 +22,4 @@ jobs:
           npx ng deploy --cname fip.rommeiss.de --repo=https://github.com/fipguide/fipguide.github.io.git
         env:
           CI: true
-          GH_TOKEN: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
