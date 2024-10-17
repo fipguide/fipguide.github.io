@@ -1,0 +1,56 @@
+<div class="d-flex flex-column flex-shrink-0 p-3 bg-white rounded" style="width: 250px;">
+  <div class="dropdown">
+    <button class="btn dropdown-toggle" type="button" id="countriesButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      {{ country?.name }}
+    </button>
+    <div class="dropdown-menu" aria-labelledby="countriesButton">
+      @for (countryName of []; track countryName) { <!-- TODO get available countries -->
+        <a class="dropdown-item" href="#">Action</a>
+      }
+    </div>
+  </div>
+  <hr>
+  <ul class="nav nav-pills flex-column mb-auto">
+    <li class="nav-item mb-2">
+      <span class="small">General</span>
+      <div>
+        <ul class="list-unstyled fw-normal pb-1">
+          <li>
+            <a class="link-dark rounded text-decoration-none" href="#">
+              General FIP Information
+            </a>
+          </li>
+          <li>
+            <a class="link-dark rounded text-decoration-none" href="#">
+              General Travel Information
+            </a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class="nav-item mb-2">
+      <span class="small">Companies</span>
+      <div>
+        <ul class="list-unstyled ps-0">
+          @for (company of ["BahnA", "BahnB"]; track company) {
+          <li class="mb-1">
+            <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" [attr.data-bs-target]="'nav-collapse-'+company" aria-expanded="true">
+              {{ company }}
+            </button>
+            <div id="nav-collapse-{{company}}" class="collapse show">
+              <ul class="btn-toggle-nav list-unstyled fw-normal small">
+                <li> <!-- TODO extract from md -->
+                  <a class="link-dark rounded" href="#">Allgemeines</a>
+                  <a class="link-dark rounded" href="#">Besonderheiten</a>
+                  <a class="link-dark rounded" href="#">Zugkategorien und Reservierungen</a>
+                  <a class="link-dark rounded" href="#">Ticketkauf</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          }
+        </ul>
+      </div>
+    </li>
+  </ul>
+</div>

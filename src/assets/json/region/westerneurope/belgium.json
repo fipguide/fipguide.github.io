@@ -1,0 +1,9 @@
+{
+  "name": "Belgien",
+  "insideEu": true,
+  "fipCompanies": [
+    "sncb",
+    "eurostar"
+  ],
+  "nonFipCompanies": []
+}
