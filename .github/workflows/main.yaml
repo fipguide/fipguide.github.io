@@ -22,6 +22,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NAME: ${{ secrets.NAME }}
           EMAIL: ${{ secrets.EMAIL }}
-        run: npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname=fip.rommeiss.de --name=$NAME--email=$EMAIL
+        run: |
+          echo $NAME
+          npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname=fip.rommeiss.de --name=$NAME--email=$EMAIL
 
 
