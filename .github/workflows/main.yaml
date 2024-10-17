@@ -22,8 +22,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NAME: ${{ secrets.NAME }}
           EMAIL: ${{ secrets.EMAIL }}
+          NEW_SECRET: ${{ secrets.NEW_SECRET }}
         run: |
           echo $TEST
-          npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname=fip.rommeiss.de --name=$NAME--email=$EMAIL
+          echo $NEW_SECRET
+
 
 
