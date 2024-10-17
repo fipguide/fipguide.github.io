@@ -1,4 +1,4 @@
-name: "Build and Deploy Website"
+name: pages-start-build
 on:
   push:
     branches:
