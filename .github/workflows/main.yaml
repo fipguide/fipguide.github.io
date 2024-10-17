@@ -22,12 +22,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NAME: len${{ secrets.NAME }}
           EMAIL: ${{ secrets.EMAIL }}
-        run: npm run ng -- deploy --base-href=/fipguide.github.io/ --name=$NAME --email=$EMAIL
-      - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name $NAME
-          git config --global user.email $EMAIL
-          npx ng deploy --cname fip.rommeiss.de --repo=https://github.com/fipguide/fipguide.github.io.git
-        env:
-          CI: true
+        run: npm run ng -- deploy --repo=https://github.com/fipguide/fipguide.github.io.git --base-href=/fipguide.github.io/ --name=$NAME --email=$EMAIL
+
 
