@@ -19,7 +19,7 @@ jobs:
         run: npm run build
       - name: Deploy to GitHub Pages
         run: |
-          ng deploy --cname fip.rommeiss.de
+          npx ng deploy --cname fip.rommeiss.de
         env:
           CI: true
           GH_TOKEN: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
