@@ -23,3 +23,4 @@ jobs:
         env:
           CI: true
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
