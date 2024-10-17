@@ -1,0 +1,26 @@
+name: Build and Deploy Website
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+    - name: Adding Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 22
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Build Angular App
+      run: npm run build
+    - name: Deploy to gh pages
+      run: |
+        ng deploy --repo=https://github.com/fipguide/fipguide.github.io.git --cname fip.rommeiss.de
+      env:
+        CI: true
+        GH_TOKEN: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
