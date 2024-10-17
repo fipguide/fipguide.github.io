@@ -7,16 +7,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-      - name: Adding Node.js
-        uses: actions/setup-node@v2
+steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v4
         with:
-          node-version: 22
-      - name: Install Dependencies
+          node-version: 20.x
+          cache: "npm"
+      - name: Install dependencies
         run: npm install
-      - name: Build Angular App
-        run: npm run build
+      - name: Prepare and deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NAME: len${{ secrets.NAME }}
+          EMAIL: ${{ secrets.EMAIL }}
+        run: npm run ng -- deploy --base-href=/fipguide.github.io/ --name=$NAME --email=$EMAIL
       - name: Deploy to GitHub Pages
         run: |
           git config --global user.name $NAME
@@ -24,6 +31,4 @@ jobs:
           npx ng deploy --cname fip.rommeiss.de --repo=https://github.com/fipguide/fipguide.github.io.git
         env:
           CI: true
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          NAME: len
-          EMAIL: lo
+
