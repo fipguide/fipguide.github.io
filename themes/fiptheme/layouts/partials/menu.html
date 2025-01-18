@@ -1,64 +1,41 @@
-{{- /*
-Renders a menu for the given menu ID.
-
-@context {page} page The current page.
-@context {string} menuID The menu ID.
-
-@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-*/}}
-
-{{- $page := .page }}
-{{- $menuID := .menuID }}
-
-{{- with index site.Menus $menuID }}
-  <nav>
-    <ul>
-      <!-- Dropdown für Beiträge -->
-       Add Logo Here
-      <li class="dropdown">
-        <a href="#" class="dropbtn">Länderauswahl</a>
-        <ul class="dropdown-content">
-          {{ range  where site.RegularPages ".Params.categories" "intersect" (slice "country") }}
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </li>
-      <!-- Standard-Menü -->
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-    </ul>
-  </nav>
-{{- end }}
-
-{{- define "partials/inline/menu/walk.html" }}
-  {{- $page := .page }}
-  {{- range .menuEntries }}
-    {{- $attrs := dict "href" .URL }}
-    {{- if $page.IsMenuCurrent .Menu . }}
-      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
-    {{- else if $page.HasMenuCurrent .Menu .}}
-      {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
-    {{- end }}
-    {{- $name := .Name }}
-    {{- with .Identifier }}
-      {{- with T . }}
-        {{- $name = . }}
-      {{- end }}
-    {{- end }}
+<nav class="o-nav">
+  <ul class="o-nav__items">
     <li>
-      <a
-        {{- range $k, $v := $attrs }}
-          {{- with $v }}
-            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-          {{- end }}
-        {{- end -}}
-      >{{ $name }}</a>
-      {{- with .Children }}
-        <ul>
-          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-        </ul>
-      {{- end }}
+      <ul>
+        <li class="o-nav__item">
+          <h1>
+            <a href="/startseite" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
+          </h1>
+        </li>
+        <li class="o-nav__item has-submenu">
+          <button href="…" aria-expanded="false">
+            Länderauswahl
+          </button>
+          <ul>
+            <li><a href="…">Belgien</a></li>
+            <li><a href="…">Slovakei</a></li>
+            <li><a href="…">Großbrittanien</a></li>
+          </ul>
+        </li>
+      </ul>
     </li>
-  {{- end }}
-{{- end }}
+    <li>
+      <ul>
+        <li class="o-nav__item">
+          <a href="/news">News</a>
+        </li>
+        <li class="o-nav__item">
+          <a href="/infos">Übergreifende Infos</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <button class="o-nav__item o-nav__menu-button" title="Menü öffnen">
+    Menü
+    <img
+      aria-hidden="true"
+      alt=""
+      src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="
+    >
+  </button>
+</nav>

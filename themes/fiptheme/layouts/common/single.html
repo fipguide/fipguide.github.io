@@ -1,0 +1,15 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    
+    {{ .Content }}
+    {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+    {{ with $related }}
+        <h3>See Also</h3>
+        <ul>
+        {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+        </ul>
+    {{ end }}
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

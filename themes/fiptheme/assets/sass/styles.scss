@@ -1,3 +1,16 @@
+html {
+  font-size: 10px;
+  color: #000;
+}
+
 body {
   background-color: $gray-300;
+}
+
+a {
+  color: #ec0016;
+
+  &:hover {
+    color: green;
+  }
 }
