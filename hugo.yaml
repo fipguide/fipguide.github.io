@@ -1,7 +1,18 @@
 baseURL: 'https://example.org/'
-languageCode: 'en-us'
 title: 'FIPGuide'
 theme: 'fiptheme'
+
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    languageName: "English"
+    languageCode: en
+    weight: 1
+  de:
+    languageName: "German"
+    languageCode: de
+    weight: 2
 
 module:
   mounts:
