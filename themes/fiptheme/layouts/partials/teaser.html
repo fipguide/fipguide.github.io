@@ -3,7 +3,7 @@
   <img class="m-teaser__image" src="{{ $image.RelPermalink }}" alt="">
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <div class="m-teaser__dateline"><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></div>
+  <time class="m-teaser__dateline" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   <h3 class="m-teaser__headline">{{ .Title }}</h3>
   <div class="m-teaser__text">
     {{ .Summary | truncate 100 }}

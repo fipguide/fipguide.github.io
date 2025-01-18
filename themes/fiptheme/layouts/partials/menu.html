@@ -1,3 +1,5 @@
+{{ $menuicon := resources.Get "images/menu.svg" }}
+
 <div class="container">
   <nav class="o-nav">
     <ul class="o-nav__items">
@@ -41,11 +43,7 @@
     </ul>
     <button class="o-nav__item o-nav__menu-button" title="Menü öffnen">
       Menü
-      <img
-        aria-hidden="true"
-        alt=""
-        src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="
-      >
+      <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
     </button>
   </nav>
 </div>
