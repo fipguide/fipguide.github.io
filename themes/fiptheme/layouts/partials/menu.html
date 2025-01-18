@@ -8,26 +8,34 @@
               <a href="/" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
             </h1>
           </li>
-          <li class="o-nav__item has-submenu">
+          <li class="o-nav__item has-submenu"> 
             <button href="…" aria-expanded="false">
               {{ T "countryselection" }}
             </button>
             <ul>
-              <li><a href="…">Belgien</a></li>
-              <li><a href="…">Slovakei</a></li>
-              <li><a href="…">Großbrittanien</a></li>
+              {{ range  where site.RegularPages "Section" "country"}}
+                <li>
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </li>
+              {{ end }}
             </ul>
           </li>
         </ul>
       </li>
       <li>
         <ul>
-          <li class="o-nav__item">
-            <a href="/news">News</a>
-          </li>
-          <li class="o-nav__item">
-            <a href="/infos">Übergreifende Infos</a>
-          </li>
+          {{ $news := site.GetPage "news" }}
+          {{ if $news }}
+              <li class="o-nav__item">
+                <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+              </li>
+          {{ end }}
+          {{ $informationPage := site.GetPage "generalInformation" }}
+          {{ if $informationPage }}
+            <li class="o-nav__item">
+              <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
+            </li>
+          {{ end }}
         </ul>
       </li>
     </ul>

@@ -2,5 +2,11 @@
     {{ partial "stage.html" }}
 <div class="container">
     {{ .Content }}
+    {{ T "country"}}:
+    {{ range  where site.RegularPages "Section" "country"}}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
 </div>
 {{ end }}
