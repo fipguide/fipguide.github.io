@@ -1,2 +1,4 @@
 countryselection: choose country
 country: country
+search-placeholder: Type in a country or train company
+search-button: Search

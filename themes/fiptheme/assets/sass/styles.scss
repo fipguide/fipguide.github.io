@@ -1,5 +1,5 @@
 html {
-  font-size: 62,5%;
+  font-size: 62.5%;
   color: #000;
 }
 
@@ -20,11 +20,8 @@ header {
   background-color: #fff;
 }
 
-main > .container {
+main > .container:not(.o-stage) {
   margin-top: 4rem;
-}
-
-main > .container {
   background-color: white;
   border-radius: 1rem;
   padding: 2rem;
