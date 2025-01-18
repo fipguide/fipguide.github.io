@@ -1,5 +1,12 @@
 <div class="row">
   <div class="col-12 text-center text-md-left">
-    <a class="m-4" href="{{ relref . "/imprint" }}">{{ .Title }}</a>
+    {{ $contactPage := site.GetPage "contact" }}
+    {{ if $contactPage }}
+        <a href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
+    {{ end }}
+    {{ $contactPage := site.GetPage "imprint" }}
+    {{ if $contactPage }}
+        <a href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
+    {{ end }}
   </div>
 </div>

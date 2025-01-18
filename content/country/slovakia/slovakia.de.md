@@ -4,7 +4,6 @@ author: "Willy"
 draft: false
 title: "Slowakei"
 country: "slovakia"
-categories: ["country"]
 ---
 
 # Slowakei

@@ -4,5 +4,4 @@ author: "Willy"
 draft: false
 title: "Belgien"
 country: "belgium"
-categories: ["country"]
 ---

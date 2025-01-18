@@ -8,15 +8,6 @@ module:
     - source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
       target: "assets/js/bootstrap.bundle.min.js"
 
-menus:
-    main:
-        - name: "News"
-          url: "#"
-          weight: 1
-        - name: "Übergreifende Infos"
-          url: "/about/"
-          weight: 2
-
 related:
  indices:
    - name: country
