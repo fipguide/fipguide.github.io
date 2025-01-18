@@ -1,6 +1,16 @@
 {{ define "main" }}
     {{ partial "stage.html" }}
-<div class="container">
-    {{ .Content }}
-</div>
+    <section class="container">
+        <div class="row">
+            {{ .Content }}
+        </div>
+    </section>
+    <section class="container">
+        <div class="row">
+            {{ partial "teaser.html" }}
+            {{ partial "teaser.html" }}
+            {{ partial "teaser.html" }}
+        </div>
+
+    </section>
 {{ end }}

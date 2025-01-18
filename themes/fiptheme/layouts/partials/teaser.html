@@ -1,0 +1,9 @@
+<a href="www.google.de" class="m-teaser col-12 col-md-4">
+  {{ $image := resources.Get "images/startpage.webp" }}
+  <img class="m-teaser__image" src="{{ $image.RelPermalink }}" alt="">
+  <div class="m-teaser__dateline">01.01.1970</div>
+  <h3 class="m-teaser__headline">Überraschende Neuigkeiten</h3>
+  <div class="m-teaser__text">
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+  </div>
+</a>
