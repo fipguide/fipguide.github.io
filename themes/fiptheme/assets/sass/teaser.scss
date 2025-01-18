@@ -1,8 +1,12 @@
-.o-stage img {
+.m-teaser {
+    text-decoration: none;
+    color: #000;
+}
+
+.m-teaser img {
     width: 100%;
-    aspect-ratio: 4/1;
-    max-width: 1320px;
-    border-radius: 0 0 1rem 1rem;
+    aspect-ratio: 16/9;
+    border-radius: 1rem;
 }
 
 .o-stage {

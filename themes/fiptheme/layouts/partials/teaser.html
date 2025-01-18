@@ -1,0 +1,9 @@
+<a href="{{ .RelPermalink }}" class="m-teaser col-12 col-md-4">
+  {{ $image := resources.Get "images/startpage.webp" }}
+  <img class="m-teaser__image" src="{{ $image.RelPermalink }}" alt="">
+  <div class="m-teaser__dateline">{{ .Date.Format "02.01.2006" }}</div>
+  <h3 class="m-teaser__headline">{{ .Title }}</h3>
+  <div class="m-teaser__text">
+    {{ .Summary | truncate 100 }}
+  </div>
+</a>

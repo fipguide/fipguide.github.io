@@ -1,12 +1,20 @@
 {{ define "main" }}
     {{ partial "stage.html" }}
-<div class="container">
-    {{ .Content }}
-    {{ T "country"}}:
-    {{ range  where site.RegularPages "Section" "country"}}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-  {{ end }}
-</div>
+    <section class="container">
+        <div class="row">
+            {{ .Content }}
+            {{ T "country"}}:
+            {{ range  where site.RegularPages "Section" "country"}}
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ end }}
+        </div>
+    </section>
+    <br>
+    <section class="container">
+        <div class="row">
+            {{ range first 3 (where site.RegularPages "Section" "news") }}
+                {{ partial "teaser.html" . }}
+            {{ end }}
+        </div>
+    </section>
 {{ end }}
