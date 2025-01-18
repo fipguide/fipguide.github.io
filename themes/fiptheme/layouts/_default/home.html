@@ -1,17 +1,16 @@
 {{ define "main" }}
     {{ partial "stage.html" }}
     <section class="container">
-        <div class="row">
             {{ .Content }}
             {{ T "country"}}:
             {{ range  where site.RegularPages "Section" "country"}}
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
             {{ end }}
-        </div>
     </section>
     <br>
     <section class="container">
         <div class="row">
+            <h3>Die neuesten Neuigkeiten 🔥</h3>
             {{ range first 3 (where site.RegularPages "Section" "news") }}
                 {{ partial "teaser.html" . }}
             {{ end }}
