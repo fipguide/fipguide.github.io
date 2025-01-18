@@ -1,0 +1,16 @@
+{
+  "insideEu": true,
+  "fipCompanys": [
+    {
+      "name": "Nationale Gesellschaft der Belgischen Eisenbahnen",
+      "abbreviation": "SNCB NMBS",
+      "path": "sncb"
+    },
+    {
+      "name": "Eurostar",
+      "abbreviation": "Eurostar",
+      "path": "eurostar"
+    }
+  ],
+  "nonFipCompanies": ["European Sleeper"]
+}

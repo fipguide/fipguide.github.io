@@ -1,0 +1,11 @@
+{
+  "insideEu": true,
+  "fipCompanys": [
+    {
+      "name": "Eisenbahnen der Slowakischen Republik",
+      "abbreviation": "ZSR",
+      "path": "zsr"
+    }
+  ],
+  "nonFipCompanies": ["RegioJet", "LeoExpress"]
+}
