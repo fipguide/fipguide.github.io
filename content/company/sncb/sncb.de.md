@@ -4,6 +4,8 @@ author: "Willy"
 draft: false
 title: "SNCB"
 categories: ["companies"]
+country:
+  - "belgium"
 ---
 
 # SNCB

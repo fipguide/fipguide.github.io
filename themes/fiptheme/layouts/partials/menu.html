@@ -18,7 +18,7 @@ Renders a menu for the given menu ID.
       <li class="dropdown">
         <a href="#" class="dropbtn">Länderauswahl</a>
         <ul class="dropdown-content">
-          {{ range  where site.RegularPages ".Params.categories" "intersect" (slice "countries") }}
+          {{ range  where site.RegularPages ".Params.categories" "intersect" (slice "country") }}
             <li>
               <a href="{{ .Permalink }}">{{ .Title }}</a>
             </li>

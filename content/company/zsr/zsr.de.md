@@ -4,6 +4,8 @@ author: "Willy"
 draft: false
 title: "ZSR / ZSSK"
 categories: ["companies"]
+country:
+  - "slovakia"
 ---
 
 # ZSR / ZSSK
