@@ -1,8 +1,8 @@
 <section class="o-stage">
-  <div class="container">
+  <div class="container o-stage__container">
     {{ $image := resources.Get "images/startpage.webp" }}
-    <img src="{{ $image.RelPermalink }}" alt="Resized Image">
-    <div>
+    <img src="{{ $image.RelPermalink }}" alt="">
+    <div class="o-stage__searchfield">
       FIP-Guide
     </div>
   </div>

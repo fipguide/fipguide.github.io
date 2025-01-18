@@ -4,3 +4,17 @@
     max-width: 1320px;
     border-radius: 0 0 1rem 1rem;
 }
+
+.o-stage__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.o-stage__searchfield {
+    position: absolute;
+    width: 60%;
+    height: 6rem;
+    background-color: white;
+    border-radius: 1rem;
+}
