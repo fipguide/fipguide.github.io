@@ -11,24 +11,31 @@ Renders a menu for the given menu ID.
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
-  <nav>
-    <ul>
-      <!-- Dropdown für Beiträge -->
-       Add Logo Here
-      <li class="dropdown">
-        <a href="#" class="dropbtn">Länderauswahl</a>
-        <ul class="dropdown-content">
-          {{ range  where site.RegularPages ".Params.categories" "intersect" (slice "country") }}
+<nav class="">
+    <a class="" href="{{ site.BaseURL }}">{{ site.Title }}</a>
+      <ul class="">
+        <li class="">
+          <a class="dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Länderauswahl
+          </a>
+          <ul class="dropdown-menu">
+            {{ range  where site.RegularPages "Section" "country"}}
             <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              <a class="dropdown-item" href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
           {{ end }}
-        </ul>
-      </li>
-      <!-- Standard-Menü -->
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-    </ul>
-  </nav>
+          </ul>
+        </li>
+      </ul>
+      <ul class="">
+        <li class="">
+          <a class="" aria-current="page" href="#">News</a>
+        </li>
+        <li class="">
+          <a class="" aria-current="page" href="#">Übergreifende Infos</a>
+        </li>
+      </ul>
+</nav>
 {{- end }}
 
 {{- define "partials/inline/menu/walk.html" }}
