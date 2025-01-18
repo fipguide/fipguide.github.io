@@ -4,9 +4,9 @@
     {{ if $contactPage }}
         <a href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
     {{ end }}
-    {{ $contactPage := site.GetPage "imprint" }}
-    {{ if $contactPage }}
-        <a href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
+    {{ $imprintPage := site.GetPage "imprint" }}
+    {{ if $imprintPage }}
+        <a href="{{ $imprintPage.RelPermalink }}">{{ $imprintPage.Title }}</a>
     {{ end }}
   </div>
 </div>

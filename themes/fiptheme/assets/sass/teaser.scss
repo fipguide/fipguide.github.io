@@ -1,0 +1,24 @@
+.m-teaser {
+    text-decoration: none;
+    color: #000;
+}
+
+.m-teaser img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    border-radius: 1rem;
+}
+
+.o-stage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.o-stage__searchfield {
+    position: absolute;
+    width: 60%;
+    height: 6rem;
+    background-color: white;
+    border-radius: 1rem;
+}

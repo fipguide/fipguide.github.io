@@ -1,9 +1,20 @@
 {{ define "main" }}
-    {{ .Content }}
-    {{ range site.RegularPages }}
-        <h2>
-            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-        </h2>
-        {{ .Summary }}
-    {{ end }}
+    {{ partial "stage.html" }}
+    <section class="container">
+        <div class="row">
+            {{ .Content }}
+            {{ T "country"}}:
+            {{ range  where site.RegularPages "Section" "country"}}
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ end }}
+        </div>
+    </section>
+    <br>
+    <section class="container">
+        <div class="row">
+            {{ range first 3 (where site.RegularPages "Section" "news") }}
+                {{ partial "teaser.html" . }}
+            {{ end }}
+        </div>
+    </section>
 {{ end }}
