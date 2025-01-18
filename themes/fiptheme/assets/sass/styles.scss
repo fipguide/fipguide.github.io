@@ -1,10 +1,11 @@
 html {
-  font-size: 10px;
+  font-size: 62,5%;
   color: #000;
 }
 
 body {
   background-color: $gray-300;
+  font-size: 1.8rem;
 }
 
 a {
@@ -13,4 +14,8 @@ a {
   &:hover {
     color: green;
   }
+}
+
+header {
+  background-color: #fff;
 }
