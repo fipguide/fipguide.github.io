@@ -1,47 +1,44 @@
 {{ $menuicon := resources.Get "images/menu.svg" }}
 
 <div class="container">
-  <nav class="o-nav">
+  <a id="skip-link" class="visually-hidden" href="#content">zum Inhalt</a>
+  <nav class="o-nav-desktop">
     <ul class="o-nav__items">
-      <li>
-        <ul>
-          <li class="o-nav__item">
-            <h1>
-              <a href="/" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
-            </h1>
-          </li>
-          <li class="o-nav__item has-submenu"> 
-            <button href="…" aria-expanded="false">
-              {{ T "countryselection" }}
-            </button>
-            <ul>
-              {{ range  where site.RegularPages "Section" "country"}}
-                <li>
-                  <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
-              {{ end }}
-            </ul>
-          </li>
-        </ul>
+      <li class="o-nav__item">
+        <h1>
+          <a href="/" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
+        </h1>
       </li>
-      <li>
-        <ul>
-          {{ $news := site.GetPage "news" }}
-          {{ if $news }}
-              <li class="o-nav__item">
-                <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
-              </li>
-          {{ end }}
-          {{ $informationPage := site.GetPage "generalInformation" }}
-          {{ if $informationPage }}
-            <li class="o-nav__item">
-              <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
+      <li class="o-nav__item">
+        <details>
+          <summary title="Länderauswahl öffnen">{{ T "countryselection" }}</summary>
+          <ul>
+            {{ range  where site.RegularPages "Section" "country"}}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
-          {{ end }}
-        </ul>
+            {{ end }}
+          </ul>
+        </details>
+
+
       </li>
+      {{ $news := site.GetPage "news" }}
+      {{ if $news }}
+      <li class="o-nav__item">
+        <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+      </li>
+      {{ end }}
+      {{ $informationPage := site.GetPage "generalInformation" }}
+      {{ if $informationPage }}
+      <li class="o-nav__item">
+        <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
+      </li>
+      {{ end }}
     </ul>
-    <button class="o-nav__item o-nav__menu-button" title="Menü öffnen">
+  </nav>
+  <nav class="o-nav-mobile">
+    <button class="o-nav__menu-button" title="Menü öffnen">
       Menü
       <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
     </button>
