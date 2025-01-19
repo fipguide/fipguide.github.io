@@ -27,26 +27,25 @@ FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der E
 
 Reservierungspflicht für SC- und IC-Züge. Andere ZSSK Züge erfordern nur eine Reservierung in der 1. Klasse.
 
-### 🔽 SuperCity (SC) ⚠️
-
+{{< expander "SuperCity (SC) ⚠️" >}}
 **Beschreibung:**  
 Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren.  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ja  
 **Kosten für Reservierung:** 🔴 Ab 7 €  
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
+{{< /expander >}}
 
-### 🔽 InterCity (IC) ⚠️
-
+{{< expander "InterCity (IC) ⚠️" >}}
 **Beschreibung:**  
 Fernzüge, die eigenwirtschaftlich von der ZSSK erbracht werden und auf der Ost-West-Verbindung in der Slowakei (teilweise auch von/nach Wien) mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ja  
 **Kosten für Reservierung:** 🔴 Ab 7 €  
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
+{{< /expander >}}
 
-### 🔽 EuroCity (EC) / RailJet (RJ) ⚠️ (1️⃣)
-
+{{< expander "EuroCity (EC) / RailJet (RJ) ⚠️ (1️⃣)" >}}
 **Beschreibung:**  
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die RJ-Züge sind RailJet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. **Wichtig:** RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.  
 **Reservierung möglich:** ja  
@@ -54,18 +53,19 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 **Kosten für Reservierung:** 🟢  
 2 € (1. Klasse)  
 1 € (2. Klasse)
+{{< /expander >}}
 
-### 🔽 EuroNight (EN) ⚠️
-
+{{< expander "EuroNight (EN) ⚠️" >}}
 **Beschreibung:**  
  EN sind internationale Nachtzüge, bei denen Reservierungspflicht besteht und die Möglichkeit einen Aufpreis für Liege- oder Schlafwagen zu zahlen. Sonst sind sie ähnlich wie die EC.  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ja
 **Kosten für Reservierung:** 🔴  
 Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
+{{< /expander >}}
 
-### 🔽 Express (Ex) ⚠️ (1️⃣)
 
+{{< expander "Express (Ex) ⚠️ (1️⃣)" >}}
 **Beschreibung:**  
 Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den IC. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen.  
 **Reservierung möglich:** ja  
@@ -73,9 +73,9 @@ Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispi
 **Kosten für Reservierung:** 🟢  
 2 € (1. Klasse)  
 1 € (2. Klasse)
+{{< /expander >}}
 
-### 🔽 Rychlik (R) ⚠️ (1️⃣)
-
+{{< expander "Rychlik (R) ⚠️ (1️⃣)" >}}
 **Beschreibung:**  
 Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, eine Art Regionalexpress mit sehr unterschiedlichem Wagenmaterial.  
 **Reservierung möglich:** ja  
@@ -83,9 +83,9 @@ Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, e
 **Kosten für Reservierung:** 🟢  
 2 € (1. Klasse)  
 1 € (2. Klasse)
+{{< /expander >}}
 
-### 🔽 Osobní vlak (Os) ⚠️ (1️⃣)
-
+{{< expander "Osobní vlak (Os) ⚠️ (1️⃣)" >}}
 **Beschreibung:**  
 Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Gerade auf Nebenstrecken verkehren sie oft mit veralteten Wagenmaterial. Teilweise werden sie auch als S-Bahnen vermarktet, ohne jedoch wirklich in einem S-Bahn-Takt zu fahren.  
 **Reservierung möglich:** ja  
@@ -93,6 +93,7 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 **Kosten für Reservierung:** 🟢  
 2 € (1. Klasse)  
 1 € (2. Klasse)
+{{< /expander >}}
 
 ## Ticket- und Reservierungskauf
 
