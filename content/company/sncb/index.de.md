@@ -3,7 +3,6 @@ date: "2024-10-17"
 author: "Willy"
 draft: false
 title: "SNCB"
-categories: ["companies"]
 country:
   - "belgium"
 ---
@@ -31,8 +30,7 @@ Reservierungspflicht: Innerhalb Belgiens bei der SNCB keine und auch in vielen Z
 
 Keine Reservierungspflicht für Züge der SNCB.
 
-### 🔽 InterCity Express (ICE)
-
+{{< expander "InterCity Express (ICE)" >}}
 **Beschreibung:**  
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins genutzt werden.  
 **Reservierung möglich:** ja  
@@ -40,53 +38,54 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 **Kosten für Reservierung:** 🟡
 6,50 € (1. Klasse)
 5,20 € (2. Klasse)
+{{< /expander >}}
 
-### 🔽 InterCity (IC)
-
+{{< expander "InterCity (IC)" >}}
 **Beschreibung:**  
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.  
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
+{{< /expander >}}
 
-### 🔽 Train local oder Lokale trein (L)
-
+{{< expander "Train local oder Lokale trein (L)" >}}
 **Beschreibung:**  
 Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden.  
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
+{{< /expander >}}
 
-### 🔽 Train S oder S-Trein (S)
-
+{{< expander "Train S oder S-Trein (S)" >}}
 **Beschreibung:**  
 Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst.
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
+{{< /expander >}}
 
-### 🔽 Train d’heure de pointe oder Piekuurtrein (P)
-
+{{< expander "Train d’heure de pointe oder Piekuurtrein (P)" >}}
 **Beschreibung:**  
 Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden.  
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
+{{< /expander >}}
 
-### 🔽 Express (E/EXP/EXTRA)
-
+{{< expander "Express (E/EXP/EXTRA)" >}}
 **Beschreibung:**  
 Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste.  
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
+{{< /expander >}}
 
-### 🔽 Tourist (T)
-
+{{< expander "Tourist (T)" >}}
 **Beschreibung:**  
 Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden. **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
+{{< /expander >}}
 
 ## Ticket- und Reservierungskauf
 
