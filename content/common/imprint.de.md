@@ -1,8 +1,13 @@
 ---
 date: "2024-10-17"
-author: "Robert"
 draft: false
 title: "Impressum"
 ---
 
-Hier steht das Impressum.
+**Lennart Rommeiß**\
+Jürgen-Ponto-Platz 1\
+60329 Frankfurt am Main
+
+E-Mail: contact@fipguide.org
+
+Kontaktiere uns auch gerne über das [Kontaktformular]({{< relref path="contact.md" >}}).
