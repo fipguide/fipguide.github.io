@@ -1,4 +1,5 @@
 <div class="o-footer container">
+  <div>{{ T "footer-love"}}</div>
   <div class="col-12">
     {{ $contactPage := site.GetPage "contact" }}
     {{ if $contactPage }}
@@ -7,6 +8,10 @@
     {{ $imprintPage := site.GetPage "imprint" }}
     {{ if $imprintPage }}
         <a class="o-footer__link" href="{{ $imprintPage.RelPermalink }}">{{ $imprintPage.Title }}</a>
+    {{ end }}
+    {{ $privacyPage := site.GetPage "privacy" }}
+    {{ if $privacyPage }}
+        <a class="o-footer__link" href="{{ $privacyPage.RelPermalink }}">{{ $privacyPage.Title }}</a>
     {{ end }}
   </div>
 </div>
