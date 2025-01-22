@@ -1,46 +1,46 @@
 {{ $menuicon := resources.Get "images/menu.svg" }}
 
-<div class="container">
-  <a id="skip-link" class="visually-hidden" href="#content">zum Inhalt</a>
-  <nav class="o-nav-desktop">
-    <ul class="o-nav__items">
-      <li class="o-nav__item">
-        <h1>
-          <a href="/" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
-        </h1>
+<a id="skip-link" class="o-header__skip-link" href="#content">zum Inhalt springen</a>
+<div class="o-header__nav-mobile"></div>
+<div class="o-header__nav-desktop container">
+  <h1 class="o-header__logo">
+    <a href="/" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
+  </h1>
+  <nav>
+    <menu>
+      <li class="o-header__item">
+        <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
+          {{ T "countryselection" }}
+        </button>
+        <menu>
+          {{ range  where site.RegularPages "Section" "country"}}
+          <li class="o-header__item">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </menu>
       </li>
-      <li class="o-nav__item">
-        <details>
-          <summary title="Länderauswahl öffnen">{{ T "countryselection" }}</summary>
-          <ul>
-            {{ range  where site.RegularPages "Section" "country"}}
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-            {{ end }}
-          </ul>
-        </details>
+      <li class="o-header__item">
+        <ul>
+          {{ $news := site.GetPage "news" }}
+          {{ if $news }}
+          <li class="o-header__item">
+            <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+          </li>
+          {{ end }}
+          {{ $informationPage := site.GetPage "generalInformation" }}
+          {{ if $informationPage }}
+          <li class="o-header__item">
+            <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </li>
 
-
-      </li>
-      {{ $news := site.GetPage "news" }}
-      {{ if $news }}
-      <li class="o-nav__item">
-        <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
-      </li>
-      {{ end }}
-      {{ $informationPage := site.GetPage "generalInformation" }}
-      {{ if $informationPage }}
-      <li class="o-nav__item">
-        <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
+    </menu>
   </nav>
-  <nav class="o-nav-mobile">
-    <button class="o-nav__menu-button" title="Menü öffnen">
-      Menü
-      <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
-    </button>
-  </nav>
+  <button class="o-nav__menu-button" title="Menü öffnen">
+    Menü
+    <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
+  </button>
 </div>
