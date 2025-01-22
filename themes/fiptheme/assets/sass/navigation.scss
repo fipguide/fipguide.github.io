@@ -20,9 +20,9 @@
   opacity: 0;
   position: absolute;
   left: 50%;
-  top: 1.4rem;
   transform: translateX(-50%);
   padding: 1rem;
+  margin: .3rem;
   pointer-events: none;
 
   &:focus {
@@ -37,6 +37,7 @@
   //normales Menü
   ul {
     display: flex;
+    margin: 0;
   }
 }
 
@@ -44,6 +45,7 @@
 .o-header__expand-button {
   display: inline-flex;
   padding: 1rem;
+  margin: .3rem;
   text-decoration: underline;
   border: none;
   background: none;
