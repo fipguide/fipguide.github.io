@@ -1,4 +1,10 @@
 .o-header {
+  display: flex;
+  justify-content: space-between;
+
+  @include media-breakpoint-up(md) {
+    justify-content: unset;
+  }
 }
 
 .o-header__nav-desktop {
@@ -86,13 +92,15 @@
   visibility: visible;
 }
 
-
-
-
-.o-nav__menu-button {
+.o-header__nav-mobile {
   display: flex;
+  height: 5.6rem;
 
   @include media-breakpoint-up(md) {
     display: none;
   }
+}
+
+.o-header__nav-mobile nav {
+  display: none;
 }

@@ -1,48 +1,53 @@
 {{ $menuicon := resources.Get "images/menu.svg" }}
 {{ $expandicon := resources.Get "images/expand-more.svg" }}
-
-<a id="skip-link" class="o-header__skip-link" href="#content">zum Inhalt springen</a>
-<div class="o-header__nav-mobile"></div>
-<div class="o-header__nav-desktop container">
+<div class="container o-header">
+  <a id="skip-link" class="o-header__skip-link" href="#content">zum Inhalt springen</a>
   <h1 class="o-header__logo">
     <a href="/" aria-label="FIP-Guide Startseite">{{ site.Title }}</a>
   </h1>
-  <nav>
-    <menu>
-      <li class="o-header__item">
-        <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
-          {{ T "countryselection" }}
-          <img aria-hidden="true" src="{{ $expandicon.RelPermalink }}" alt="">
-        </button>
-        <menu>
-          {{ range  where site.RegularPages "Section" "country"}}
-          <li class="o-header__item">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-          {{ end }}
-        </menu>
-      </li>
-      <li class="o-header__item">
-        <ul>
-          {{ $news := site.GetPage "news" }}
-          {{ if $news }}
-          <li class="o-header__item">
-            <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
-          </li>
-          {{ end }}
-          {{ $informationPage := site.GetPage "generalInformation" }}
-          {{ if $informationPage }}
-          <li class="o-header__item">
-            <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
-          </li>
-          {{ end }}
-        </ul>
-      </li>
+  <div class="o-header__nav-mobile">
+    <button class="o-nav__menu-button" title="Menü öffnen">
+      Menü
+      <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
+    </button>
+    <nav>
+      hier kommt das menü rein
+    </nav>
+  </div>
 
-    </menu>
-  </nav>
-  <button class="o-nav__menu-button" title="Menü öffnen">
-    Menü
-    <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
-  </button>
+  <div class="o-header__nav-desktop container">
+    <nav>
+      <menu>
+        <li class="o-header__item">
+          <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
+            {{ T "countryselection" }}
+            <img aria-hidden="true" src="{{ $expandicon.RelPermalink }}" alt="">
+          </button>
+          <menu>
+            {{ range  where site.RegularPages "Section" "country"}}
+            <li class="o-header__item">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+          </menu>
+        </li>
+        <li class="o-header__item">
+          <ul>
+            {{ $news := site.GetPage "news" }}
+            {{ if $news }}
+            <li class="o-header__item">
+              <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+            </li>
+            {{ end }}
+            {{ $informationPage := site.GetPage "generalInformation" }}
+            {{ if $informationPage }}
+            <li class="o-header__item">
+              <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </li>
+      </menu>
+    </nav>
+  </div>
 </div>
