@@ -1,4 +1,8 @@
 countryselection: choose country
-country: country
+country:
+  one: country
+  many: countries
+  other: countries
 search-placeholder: Type in a country or train company
 search-button: Search
+footer-love: Made with ♥️ in Frankfurt & Cologne

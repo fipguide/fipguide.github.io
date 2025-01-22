@@ -1,4 +1,8 @@
 countryselection: Länderauswahl
-country: Land
+country:
+  one: Land
+  many: Länder
+  other: Länder
 search-placeholder: Gib ein Land oder Bahnunternehmen ein
 search-button: Suchen
+footer-love: Made with ♥️ in Frankfurt & Köln
