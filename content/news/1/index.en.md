@@ -1,5 +1,5 @@
 ---
-date: "2024-10-20"
+date: "2023-10-20"
 draft: false
 title: "The Talking Coffee Machine: A Morning Surprise"
 ---
