@@ -84,20 +84,23 @@
   height: auto;
 }
 
-//vorübergehend menu auf display: none
 .o-header__item menu {
-  visibility: hidden;
-  z-index: 2;
-  position: absolute;
-  padding: 1rem;
-  flex-direction: column;
-  background-color: white;
-  box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
-  border-radius: .4rem;
+  visibility: unset;
 
-  &:before {
-    content: "";
+  @include media-breakpoint-up(md) {
+    visibility: hidden;
+    z-index: 2;
     position: absolute;
+    padding: 1rem;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
+    border-radius: .4rem;
+
+    &:before {
+      content: "";
+      position: absolute;
+    }
   }
 }
 
@@ -120,5 +123,23 @@
   @include media-breakpoint-up(md) {
     display: flex;
   }
+}
 
+.o-header__nav--open nav {
+  @include media-breakpoint-down(md) {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: fixed;
+    top: 10rem;
+    z-index: 2;
+    background-color: white;
+
+    transform: translateX(0);
+
+    ul {
+      flex-direction: column;
+      align-items: flex-end;
+    }
+  }
 }

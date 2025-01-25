@@ -8,7 +8,7 @@
     <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
   </a>
   <div class="o-header__nav container">
-    <button class="o-nav__menu-button" title="Menü öffnen">
+    <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
       {{ T "menu-open" }}
       <img aria-hidden="true" src="{{ $menuicon.RelPermalink }}" alt="">
     </button>
@@ -23,7 +23,7 @@
             {{ T "countryselection" }}
             <img aria-hidden="true" src="{{ $expandicon.RelPermalink }}" alt="">
           </button>
-          <menu>
+          <menu class="o-header__item-countries">
             {{ range  where site.RegularPages "Section" "country"}}
             <li class="o-header__item">
               <a href="{{ .Permalink }}">{{ .Title }}</a>
