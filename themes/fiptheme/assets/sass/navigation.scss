@@ -9,6 +9,12 @@
 
 .o-header__nav {
   align-items: center;
+  display: flex;
+  justify-content: flex-end;
+
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
 }
 
 .o-header__nav nav {
@@ -16,7 +22,7 @@
   display: none;
 
   @include media-breakpoint-up(md) {
-    display: flex;
+    display: block;
   }
 }
 
@@ -106,4 +112,13 @@
   @include media-breakpoint-up(md) {
     display: none;
   }
+}
+
+.o-header__expand-button {
+  display: none;
+
+  @include media-breakpoint-up(md) {
+    display: flex;
+  }
+
 }
