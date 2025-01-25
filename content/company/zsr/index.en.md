@@ -20,6 +20,9 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 
 ## Validity of FIP Tickets
 
+FIP free tavel passes: ✅\
+FIP 50 tickets: ✅
+
 FIP free travel passes and FIP 50 tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP free travel passes from both countries must be available.
 
 ## Train Categories and Reservations
@@ -139,8 +142,7 @@ Currently, no connections are offered between Slovakia and Poland.
 
 Currently, no ZSSK connections are offered to Ukraine.
 
-### 🔽 Border Points
-
+{{< expander "Border Points" >}}
 | Railway Company | Border Points                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------- |
 | ČD              | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)   |
@@ -151,6 +153,7 @@ Currently, no ZSSK connections are offered to Ukraine.
 | UZ              | Čierna nad Tisou (Gr)                                                                                         |
 
 [^1]
+{{< /expander >}}
 ![Image](https://cdn.railvis.com/rs-prod/cms/83016FBD44E51820.jpg)
 
 ## Discounts

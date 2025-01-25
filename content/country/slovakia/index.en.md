@@ -1,22 +1,21 @@
 ---
 date: "2024-10-17"
 draft: false
-title: "Slowakei"
+title: "Slovakia"
 country: "slovakia"
 ---
 
-# Slowakei
+## FIP Information
 
-## generalFIPGuide
+Slovakia can be easily traveled by train with both FIP 50 and FIP free travel passes. Included in FIP is the company ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by ZSSK (Železničná spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid. 
+Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children ([see ZSR/ZSSK]({{< ref "/company/zsr" >}} "ZSR/ZSSK")).
 
-Die Slowakei ist sowohl mit FIP 50 als auch mit FIP-Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der ZSSK (Železničná
-spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig. Ebenfalls in der Slowakei unterwegs sind die Unternehmen Regiojet und LeoExpress, diese können nicht mit FIP-Fahrscheinen genutzt werden.
+Also operating in Slovakia are the companies LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for RailJet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
 
-## generalTravelGuide
+## General Train Travel Information
 
-Die Slowakei verfügt über ein dichtes Bahnnetz, das jedoch vor allem aus zwei Hauptstrecken besteht. Einmal aus Wien kommend von der Hauptstadt Bratislava über Poprad Tatry in die zweitgrößte Stadt Košice sowie aus Tschechien kommend von Bratislava aus über Nové Zámky in die ungarische Hauptstadt Budapest. Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft stündlich. Darüber hinaus gibt es eine Menge schöner Nebenstrecken, die teilweise jedoch sehr sporadisch bedient werden.
-Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská železnica, die zur ZSSK gehört und ebenfalls mit FIP befahren werden kann. Damit ist es möglich Bergketten hinauf zu fahren und zu den Seilbahnen auf die ganz hohen Berge zu kommen.
+Slovakia has a dense rail network, which mainly consists of two main routes. One coming from Vienna through the capital Bratislava via Poprad Tatry to the second largest city Košice, and one coming from the Czech Republic from Bratislava via Nové Zámky to the Hungarian capital Budapest. Both routes are well developed and continue to be improved, with trains running between the larger stations often hourly. In addition, there are many beautiful branch lines, some of which are served very sporadically. A special highlight is the ride in the High Tatras with the Tatranská železnica, which belongs to ZSSK and can also be traveled with FIP. This makes it possible to travel up mountain ranges and reach the cable cars to the very high mountains.
 
-## FIPRating
+## FIP Rating
 
-Insgesamt verfügt die Slowakei über eine gute Infrastruktur und die meisten Fahrten werden durch die ZSSK bedient. Dadurch ist es möglich, mit FIP-Fahrscheinen einen großen Teil des Landes zu bereisen. Durch Reservierungspflichten (in der 1. Klasse immer, in der 2. Klasse in den Intercity-Zügen) sowie eher schlechten Infosystemen und oft keiner guten Taktung auf den Nebenstrecken wird die FIP-Erfahrung jedoch etwas getrübt.
+Overall, Slovakia has a good infrastructure and most journeys are operated by ZSSK. This makes it possible to travel a large part of the country with FIP tickets. However, the FIP experience is somewhat marred by reservation requirements (always in 1st class, in 2nd class on Intercity trains) as well as rather poor information systems and often not good scheduling on the branch lines.

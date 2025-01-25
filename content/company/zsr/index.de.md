@@ -20,6 +20,9 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Gültigkeit FIP-Tickets
 
+FIP-Freifahrtsschein: ✅\
+FIP 50 Tickets: ✅
+
 FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
@@ -140,8 +143,7 @@ Zurzeit werden keine Verbindungen zwischen der Slowakei und Polen angeboten.
 
 Zurzeit werden keine Verbindungen der ZSSK in die Ukraine angeboten.
 
-### 🔽 Grenzpunkte
-
+{{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                                                                 |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
 | ČD               | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
@@ -152,6 +154,7 @@ Zurzeit werden keine Verbindungen der ZSSK in die Ukraine angeboten.
 | UZ               | Čierna nad Tisou (Gr)                                                                                       |
 
 [^1]
+{{< /expander >}}
 ![Bild](https://cdn.railvis.com/rs-prod/cms/83016FBD44E51820.jpg)
 
 ## Ermäßigungen

@@ -19,6 +19,9 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 ## Validity of FIP Tickets
 
+FIP free tavel passes: ✅\
+FIP 50 tickets: ✅
+
 FIP free travel passes and FIP 50 tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP free travel passes from both countries must be available.
 
 ## Reservation
@@ -29,23 +32,24 @@ Reservation requirement: Within Belgium, there is no reservation requirement for
 
 No reservation requirement for SNCB trains.
 
-### 🔽 InterCity Express (ICE)
-
+{{< expander "InterCity Express (ICE)" >}}
 **Description:**  
-High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used within Belgium between Bruxelles Midi and Liège-Guillemins.  
+High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins.
 **Reservation possible:** yes  
 **Reservation required:** no  
 **Cost for reservation:** 🟡
 6.50 € (1st class)
 5.20 € (2nd class)
+{{< /expander >}}
 
-### 🔽 InterCity (IC)
-
+{{< expander "InterCity (IC)" >}}
 **Description:**  
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops.  
 **Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
+{{< /expander >}}
+
 
 ### 🔽 Train local or Lokale trein (L)
 
@@ -55,36 +59,38 @@ Regional trains that stop at most stations, often simply referred to as "R" for 
 **Reservation required:** no  
 **Cost for reservation:** -
 
-### 🔽 Train S or S-Trein (S)
-
+{{< expander "Train local oder Lokale trein (L)" >}}
 **Description:**  
 A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train.
 **Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
+{{< /expander >}}
 
-### 🔽 Train d’heure de pointe or Piekuurtrein (P)
-
+{{< expander "Train S oder S-Trein (S)" >}}
 **Description:**  
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information.  
 **Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
+{{< /expander >}}
 
-### 🔽 Express (E/EXP/EXTRA)
 
+{{< expander "Express (E/EXP/EXTRA)" >}}
 **Description:**  
 Additional trains during high traffic periods, especially in the summer months to the Belgian coast.  
 **Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
+{{< /expander >}}
 
+{{< expander "Tourist (T)" >}}
 ### 🔽 Tourist (T)
-
 **Description:**  
 Additional trains to certain tourist destinations, often simply referred to as "R" for regional train. **Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
+{{< /expander >}}
 
 ## Ticket and Reservation Purchase
 
@@ -127,8 +133,7 @@ From the Netherlands, cross-border regional trains (including IC) can be used, r
 
 From France, cross-border regional trains can be used, requiring an additional FIP ticket from SNCF. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) (see Eurostar page).
 
-### 🔽 Border Points
-
+{{< expander "Border Points" >}}
 | Railway Company | Border Points                                                         |
 | ---------------- | ------------------------------------------------------------------- |
 | CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
@@ -139,6 +144,7 @@ From France, cross-border regional trains can be used, requiring an additional F
 | THI              | Antwerpen, Bruxelles, Liège                                         |
 
 [^1]
+{{< /expander >}}
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 

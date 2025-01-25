@@ -19,6 +19,9 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 
 ## Gültigkeit FIP-Tickets
 
+FIP-Freifahrtsschein: ✅\
+FIP 50 Tickets: ✅
+
 FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
 
 ## Reservierung
@@ -31,7 +34,7 @@ Keine Reservierungspflicht für Züge der SNCB.
 
 {{< expander "InterCity Express (ICE)" >}}
 **Beschreibung:**  
-Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins genutzt werden.  
+Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden.  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** 🟡
@@ -127,8 +130,7 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 
 Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCF benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
 
-### 🔽 Grenzpunkte
-
+{{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                         |
 | ---------------- | ------------------------------------------------------------------- |
 | CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
@@ -139,7 +141,7 @@ Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, d
 | THI              | Antwerpen, Bruxelles, Liège                                         |
 
 [^1]
-
+{{< /expander >}}
 ![Bild](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
 ## Ermäßigungen
