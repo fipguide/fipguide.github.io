@@ -153,6 +153,7 @@
     z-index: 2;
     background-color: white;
     padding: 0 1rem;
+    overflow-y: scroll;
 
     ul,
     menu {
@@ -174,4 +175,8 @@
       margin-bottom: 0;
     }
   }
+}
+
+body:has(.o-header__nav--open) {
+  overflow: hidden;
 }
