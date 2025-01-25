@@ -2,6 +2,7 @@
 date: "2024-10-17"
 draft: false
 title: "Datenschutzerklärung"
+layout: "common"
 ---
 
 **Lennart Rommeiß**\
@@ -11,7 +12,7 @@ Jürgen-Ponto-Platz 1\
 Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 
 ## Verantwortlicher
-Verantwortlicher für die Datenverarbeitung ist die Person Lennart Rommeiß mit Sitz in Jürgen-Ponto-Platz 1, 60329 Frankfurt am Main. Sie erreichen uns per Mail unter contact@fipguide.org oder postalisch unter der Anschrift Jürgen-Ponto-Platz 1, 60329 Frankfurt am Main.
+Verantwortlicher für die Datenverarbeitung ist die Person Lennart Rommeiß mit Sitz in Jürgen-Ponto-Platz 1, 60329 Frankfurt am Main. Sie erreichen uns per Mail unter nextstop@fipguide.org oder postalisch unter der Anschrift Jürgen-Ponto-Platz 1, 60329 Frankfurt am Main.
 
 ## Datensicherheit
 Wir treffen nach Maß des Art 32 DSGVO entsprechende Vorkehrungen zum Schutz Ihrer personenbezogenen Daten. Diese betreffen insbesondere den Schutz vor unerlaubtem, rechtswidrigem oder auch zufälligem Zugriff, Verarbeitung, Verlust, Verwendung und Manipulation.

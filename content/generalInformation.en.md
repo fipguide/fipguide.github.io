@@ -2,6 +2,7 @@
 date: "2024-10-17"
 draft: false
 title: "General Information"
+layout: "common"
 ---
 
 Welcome to our website! Here you will find all the important information about our project.
