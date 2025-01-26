@@ -100,6 +100,10 @@
   height: auto;
 }
 
+.o-header__expand-button:has(~ .o-header__item-countries--open) img {
+  transform: rotate(180deg);
+}
+
 .o-header__item .o-header__item-countries {
   display: flex;
 
