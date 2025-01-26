@@ -44,6 +44,7 @@
 .o-header__logo {
   display: flex;
   padding: 1rem;
+  margin: .3rem;
 }
 
 .o-header__nav menu {
@@ -89,6 +90,13 @@
   background: none;
   width: fit-content;
   text-align: right;
+  color: black;
+  font-weight: 700;
+
+  &:hover,
+  &:focus {
+    color: red;
+  }
 }
 
 .o-header__expand-button img,
@@ -155,6 +163,10 @@
     padding: 0 1rem;
     overflow-y: scroll;
 
+    > menu {
+      margin-top: 5rem;
+    }
+
     ul,
     menu {
       flex-direction: column;
@@ -166,13 +178,16 @@
     }
 
     > menu > li {
-      margin-bottom: 3rem;
+      margin-bottom: 5rem;
     }
 
     h2 {
-      padding: 1rem;
+      padding-right: 1rem;
       text-align: right;
       margin-bottom: 0;
+      font-size: 1.4rem;
+      text-transform: uppercase;
+      font-weight: 300;
     }
   }
 }
