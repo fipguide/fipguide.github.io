@@ -12,7 +12,7 @@ demosite: 'https://owner.github.io/repo'
 # Taxonomy terms
 tags:
   - 'blog'
-  - 'company'
+  - 'operator'
 features:
   - 'some'
   - 'awesome'

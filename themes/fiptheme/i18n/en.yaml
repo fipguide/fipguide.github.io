@@ -3,7 +3,7 @@ country:
   one: country
   many: countries
   other: countries
-search-placeholder: Type in a country or train company
+search-placeholder: Type in a country or train operator
 search-button: Search
 footer-love: Made with ♥️ in Frankfurt & Cologne
 menu-open: Menu

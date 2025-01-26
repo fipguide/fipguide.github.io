@@ -7,9 +7,9 @@ country: "belgium"
 
 ## FIP Hinweise
 
-In Belgien können sowohl FIP 50 als auch FIP-Freifahrtsscheine umfangreich genutzt werden. Die Belgische Staatsbahn SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist nahezu der einzige Betreiber von öffentlichen Personverkehrszügen und kann mit FIP genutzt werden. Besonders zu beachten sind Aufschläge zum Brüsseler Flughafen Zaventem ([siehe SNCB]({{< ref "/company/sncb" >}} "SNCB")).
+In Belgien können sowohl FIP 50 als auch FIP-Freifahrtsscheine umfangreich genutzt werden. Die Belgische Staatsbahn SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist nahezu der einzige Betreiber von öffentlichen Personverkehrszügen und kann mit FIP genutzt werden. Besonders zu beachten sind Aufschläge zum Brüsseler Flughafen Zaventem ([siehe SNCB]({{< ref "/operator/sncb" >}} "SNCB")).
 
-Zusätzlich verkehren internationale Eurostar Züge, welche vergünstigt mit speziellen FIP-Fahrkarten genutzt werden können ([siehe Eurostar]({{< ref "/company/eurostar" >}} "Eurostar")). Die Züge verkehren von speziell abgetrennten Bahnsteigen im Bahnhof, wodurch ein versehentlicher EInstieg ausgeschlossen ist. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
+Zusätzlich verkehren internationale Eurostar Züge, welche vergünstigt mit speziellen FIP-Fahrkarten genutzt werden können ([siehe Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar")). Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
 
 ## Allgemeine Bahnreise Hinweise
 

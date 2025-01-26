@@ -48,7 +48,7 @@ Your data will only be transferred to external parties in connection with contra
 
 Personal data will be transferred or disclosed by us to the following designated third parties:
 
-* Various service providers or partner companies that support us in order processing, customer information, advertising, and the provision of services, IT service providers, and technical processors (processors according to Art. 28 GDPR). These companies are obliged to comply with all data protection regulations. Strict data protection regulations apply to order data processing, in particular, these companies may only use the data to fulfill their tasks on our behalf. We are responsible for compliance with data protection regulations by these companies and have concluded corresponding order processing agreements with the service providers
+* Various service providers or partner operator that support us in order processing, customer information, advertising, and the provision of services, IT service providers, and technical processors (processors according to Art. 28 GDPR). These operator are obliged to comply with all data protection regulations. Strict data protection regulations apply to order data processing, in particular, these operator may only use the data to fulfill their tasks on our behalf. We are responsible for compliance with data protection regulations by these operator and have concluded corresponding order processing agreements with the service providers
 * To our tax advisor to fulfill our tax obligations
 
 ## Your Rights

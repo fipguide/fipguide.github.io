@@ -8,7 +8,7 @@ country:
 
 # SNCB
 
-The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway company and the most important railway company in Belgium.
+The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in Belgium.
 (Image to be inserted here)
 
 ## Summary
@@ -34,13 +34,23 @@ No reservation requirement for SNCB trains.
 
 {{< expander "InterCity Express (ICE)" >}}
 **Description:**  
-High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins.
+High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins.  
 **Reservation possible:** yes  
 **Reservation required:** no  
-**Cost for reservation:** 🟡
-6.50 € (1st class)
-5.20 € (2nd class)
+**Cost for reservation:** 🟡  
+6.50 € (1st class)  
+5.20 € (2nd class)  
 {{< /expander >}}
+
+{{< expander "Train à Grande Vitesse (TGV) ⚠️" >}}
+**Description:**  
+High-speed trains of SNCF, operated by SNCB in Belgium. They run between Brussels (Midi) and France (e.g., Paris, Lille, Strasbourg, or Marseille). However, reservation is mandatory on all trains.  
+**Reservation possible:** yes  
+**Reservation required:** yes  
+**Cost for reservation:** 🔴  
+Varies by route/availability
+{{< /expander >}}
+
 
 {{< expander "InterCity (IC)" >}}
 **Description:**  
@@ -51,23 +61,23 @@ Unlike in other countries, these are not real long-distance trains, but rather f
 {{< /expander >}}
 
 
-### 🔽 Train local or Lokale trein (L)
-
-**Description:**  
-Regional trains that stop at most stations, often simply referred to as "R" for regional train in connection information.  
-**Reservation possible:** no  
-**Reservation required:** no  
-**Cost for reservation:** -
-
 {{< expander "Train local oder Lokale trein (L)" >}}
 **Description:**  
-A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train.
+Regional trains that stop at most stations, often simply referred to as "R" for regional train in connection information.  
 **Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
 {{< /expander >}}
 
 {{< expander "Train S oder S-Trein (S)" >}}
+**Description:**  
+A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train.  
+**Reservation possible:** no  
+**Reservation required:** no  
+**Cost for reservation:** -
+{{< /expander >}}
+
+{{< expander "Train d’heure de pointe oder Piekuurtrein (P)" >}}
 **Description:**  
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information.  
 **Reservation possible:** no  
@@ -87,7 +97,8 @@ Additional trains during high traffic periods, especially in the summer months t
 {{< expander "Tourist (T)" >}}
 ### 🔽 Tourist (T)
 **Description:**  
-Additional trains to certain tourist destinations, often simply referred to as "R" for regional train. **Reservation possible:** no  
+Additional trains to certain tourist destinations, often simply referred to as "R" for regional train.  
+**Reservation possible:** no  
 **Reservation required:** no  
 **Cost for reservation:** -
 {{< /expander >}}
@@ -131,10 +142,10 @@ From the Netherlands, cross-border regional trains (including IC) can be used, r
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP ticket from SNCF. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) (see Eurostar page).
+From France, cross-border regional trains and TGV-Services can be used, requiring an additional FIP ticket from SNCF and reservation for the TGV. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) (see Eurostar page).
 
 {{< expander "Border Points" >}}
-| Railway Company | Border Points                                                         |
+| Railway operator | Border Points                                                         |
 | ---------------- | ------------------------------------------------------------------- |
 | CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
 | DB AG            | Aachen Süd (Gr)                                                     |
@@ -156,7 +167,7 @@ Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP free travel pass. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)). For FIP 50 tickets, this is already included in the price.
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP free travel pass. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) even if endorsed *No Supplement Necessary*. For FIP 50 tickets, this is already included in the price. [^1]
 
 ## Experiences
 
