@@ -17,31 +17,41 @@
 
 .o-stage__search {
     position: absolute;
-    width: 60%;
+    width: 80%;
     height: 6rem;
     left: 50%;
     transform: translate(-50%);
     display: flex;
-    background-color: white;
+    z-index: 3;
+
+    @include media-breakpoint-up(md) {
+        width: 60%;
+    }
+
+    .pagefind-ui__suppressed {
+        display: none;
+    }
 
     .pagefind-ui__drawer {
         background-color: white;
         padding: 0 1rem;
         overscroll-behavior: contain;
-        height: 26rem;
+        height: 35rem;
         overflow-y: scroll;
+        position: relative;
+        top: -.7rem;
+        border-left: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
+        border-right: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
+        border-bottom: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
+        border-bottom-left-radius: var(--pagefind-ui-border-radius);
+        border-bottom-right-radius: var(--pagefind-ui-border-radius);
     }
 }
 
-.o-stage__search-field {
-    width: 100%;
-
-    padding-left: 1rem;
-    padding-right: 1rem;
-    background-color: white;
-    border-radius: 1rem 0 0 1rem;
-}
-
-.o-stage__button {
-    border-radius: 0 1rem 1rem 0;
+.curtain:has(~ .o-stage .o-stage__search:focus-within)  {
+    background-color: rgba(0, 0, 0, .8);
+    inset: 0;
+    position: fixed;
+    z-index: 2;
+    transition: .3s ease;
 }
