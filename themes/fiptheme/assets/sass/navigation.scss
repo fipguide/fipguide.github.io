@@ -88,6 +88,7 @@
   border: none;
   background: none;
   width: fit-content;
+  text-align: right;
 }
 
 .o-header__expand-button img,
@@ -99,11 +100,11 @@
   height: auto;
 }
 
-.o-header__item menu {
-  visibility: unset;
+.o-header__item .o-header__item-countries {
+  display: flex;
 
   @include media-breakpoint-up(md) {
-    visibility: hidden;
+    display: none;
     z-index: 2;
     position: absolute;
     padding: 1rem;
@@ -111,16 +112,11 @@
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: .4rem;
-
-    &:before {
-      content: "";
-      position: absolute;
-    }
   }
-}
 
-.o-header__expand-button:is(:hover, :focus-visible) ~ menu {
-  visibility: visible;
+  &.o-header__item-countries--open {
+    display: flex;
+  }
 }
 
 .o-nav__close-button,
