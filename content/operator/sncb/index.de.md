@@ -42,6 +42,15 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 5,20 € (2. Klasse)
 {{< /expander >}}
 
+{{< expander "Train à Grande Vitesse (TGV) ⚠️" >}}
+**Beschreibung:**  
+Hochgeschwindigkeitszüge der SNCF, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Frankreich (z.B. Paris, Lille, Strassburg oder Marseille). Es ist jedoch die Reservierungspflicht in sämtlichen Zügen zu beachten.  
+**Reservierung möglich:** ja  
+**Reservierungspflicht:** ja  
+**Kosten für Reservierung:** 🔴
+Variierend nach Route/Auslastung
+{{< /expander >}}
+
 {{< expander "InterCity (IC)" >}}
 **Beschreibung:**  
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.  
@@ -60,7 +69,7 @@ Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften 
 
 {{< expander "Train S oder S-Trein (S)" >}}
 **Beschreibung:**  
-Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst.
+Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst.  
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
@@ -84,7 +93,8 @@ Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten z
 
 {{< expander "Tourist (T)" >}}
 **Beschreibung:**  
-Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden. **Reservierung möglich:** nein  
+Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden.  
+**Reservierung möglich:** nein  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** -
 {{< /expander >}}
@@ -128,7 +138,7 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 
 ### Frankreich
 
-Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCF benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
+Von Frankreich aus können grenzüberschreitende Regional- und TGV-Züge genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCF sowie Reservierung beim TGV benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
 
 {{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                         |
@@ -152,7 +162,7 @@ Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,70 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)). Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen.
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,70 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise *No Supplement Necessary* angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
 
 ## Erfahrungen
 
@@ -160,5 +170,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group V.65](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v65.pdf)
+[^1]: [Rail Delivery Group V.67](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v67.pdf)
 [^2]: [SNCB Bordpreis](https://www.belgiantrain.be/de/tickets-and-railcards/on-board-fare)

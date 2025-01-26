@@ -9,9 +9,9 @@ country: '<Name of the Country in English>'
 
 <
 A short summary text that should answer the following questions in this order:
-- Which FIP tickets (FIP 50/FIP free travel tickets) are recognized in the country and by which railway companies?
-- What are the special features of using FIP with the respective railway companies? (Add link to the railway company)
-- Which railway companies do not recognize FIP tickets and how can you identify these companies in the connection information?
+- Which FIP tickets (FIP 50/FIP free travel tickets) are recognized in the country and by which railway operator?
+- What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
+- Which railway operator do not recognize FIP tickets and how can you identify these operator in the connection information?
 >
 
 ## General Train Travel Information

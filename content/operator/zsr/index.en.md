@@ -8,7 +8,7 @@ country:
 
 # ZSR / ZSSK
 
-The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway company in Slovakia.
+The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in Slovakia.
 (Insert image here)
 
 ## Summary
@@ -35,7 +35,8 @@ Reservation required for SC and IC trains. Other ZSSK trains only require a rese
 Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops.  
 **Reservation possible:** yes  
 **Reservation required:** yes  
-**Reservation cost:** 🔴 From 7 €  
+**Reservation cost:** 🔴  
+From 7 €  
 Depending on route and occupancy (including surcharge for train category)
 
 ### 🔽 InterCity (IC) ⚠️
@@ -44,7 +45,8 @@ Depending on route and occupancy (including surcharge for train category)
 Long-distance trains operated commercially by ZSSK on the east-west connection in Slovakia (partly also to/from Vienna) with few stops and high average speed.  
 **Reservation possible:** yes  
 **Reservation required:** yes  
-**Reservation cost:** 🔴 From 7 €  
+**Reservation cost:** 🔴  
+From 7 €  
 Depending on route and occupancy (including surcharge for train category)
 
 ### 🔽 EuroCity (EC) / RailJet (RJ) ⚠️ (1️⃣)
@@ -143,7 +145,7 @@ Currently, no connections are offered between Slovakia and Poland.
 Currently, no ZSSK connections are offered to Ukraine.
 
 {{< expander "Border Points" >}}
-| Railway Company | Border Points                                                                                                 |
+| Railway operator | Border Points                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------- |
 | ČD              | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)   |
 | GySEV           | Rajka (Gr)                                                                                                    |
