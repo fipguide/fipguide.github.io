@@ -2,7 +2,7 @@
     margin-bottom: 4rem;
 }
 
-.o-stage img {
+.o-stage > img {
     width: 100%;
     aspect-ratio: 4/1;
     max-width: 1320px;
@@ -15,17 +15,27 @@
     align-items: center;
 }
 
-.o-stage__search-container {
+.o-stage__search {
     position: absolute;
     width: 60%;
+    height: 6rem;
     left: 50%;
     transform: translate(-50%);
     display: flex;
+    background-color: white;
+
+    .pagefind-ui__drawer {
+        background-color: white;
+        padding: 0 1rem;
+        overscroll-behavior: contain;
+        height: 26rem;
+        overflow-y: scroll;
+    }
 }
 
 .o-stage__search-field {
     width: 100%;
-    height: 6rem;
+
     padding-left: 1rem;
     padding-right: 1rem;
     background-color: white;
