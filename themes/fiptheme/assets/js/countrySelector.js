@@ -1,5 +1,3 @@
-import * as mq from './mediaqueries';
-
 function initCountrySelector() {
 
   const expandButton = document.querySelector('.o-header__expand-button');
@@ -7,6 +5,12 @@ function initCountrySelector() {
 
   expandButton.addEventListener('click', () => {
     countryContainer.classList.toggle("o-header__item-countries--open");
+
+    if (expandButton.getAttribute("aria-expanded") === 'false') {
+      expandButton.setAttribute("aria-expanded", "true");
+    } else {
+      expandButton.setAttribute("aria-expanded", "false");
+    }
   });
 }
 
