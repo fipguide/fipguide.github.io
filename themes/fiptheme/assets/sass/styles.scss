@@ -11,8 +11,20 @@ body {
 a {
   color: #ec0016;
 
-  &:hover {
-    color: green;
+  &:hover,
+  &:focus {
+    color: #c50014;
+  }
+}
+
+.o-footer__link {
+  text-decoration: underline;
+  color: black;
+  font-weight: 700;
+
+  &:hover,
+  &:focus {
+    color: red;
   }
 }
 

@@ -61,6 +61,9 @@
   padding: 1rem;
   margin: .3rem;
   pointer-events: none;
+  background-color: gainsboro;
+  border-radius: .4rem;
+  color: black;
 
   &:focus {
     opacity: 1;
