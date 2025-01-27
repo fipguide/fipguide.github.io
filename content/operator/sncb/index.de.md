@@ -6,10 +6,7 @@ country:
   - "belgium"
 ---
 
-# SNCB
-
 Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in Belgien.
-(Bild hier einfügen)
 
 ## Zusammenfassung
 
@@ -19,18 +16,14 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 
 ## Gültigkeit FIP-Tickets
 
-FIP-Freifahrtsschein: ✅\
+FIP-Freifahrtsschein: ✅  
 FIP 50 Tickets: ✅
 
 FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
 
-## Reservierung
-
-Reservierungspflicht: Innerhalb Belgiens bei der SNCB keine und auch in vielen Zügen gar nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
-
 ## Zugkategorien und Reservierungen
 
-Keine Reservierungspflicht für Züge der SNCB.
+Innerhalb Belgiens ist bei der SNCB nur in TGV Zügen eine Reservierung erforderlich und in vielen anderen Zügen gar nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 {{< expander "InterCity Express (ICE)" >}}
 **Beschreibung:**  
@@ -104,7 +97,7 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 ### Online
 
 - [Website der SNCB](https://www.belgiantrain.be):  
-  **Reservierung:** -  
+  **Reservierung:** ⛔  
   **FIP 50 Fahrkarten:** ⛔
 - Weitere Möglichkeiten:  
   Grenzüberschreitende Verbindungen zwischen Deutschland und Belgien können von Mitarbeitern der Deutschen Bahn über den DB Reisemarkt online erworben werden.

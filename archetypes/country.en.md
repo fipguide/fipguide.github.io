@@ -1,8 +1,8 @@
 ---
 date: '{{ .Date }}'
 draft: <true/false>
-title: '<Name of the Country in German>'
-country: '<Name of the Country in English>'
+title: '<Name of the country in English>'
+country: '<Name of the country in English>'
 ---
 
 ## FIP Information
@@ -26,8 +26,6 @@ A short section about the general train situation in the country. The following 
 - Special trains/routes/lines
 - Beautiful train stations
 >
-
-Belgium has an extensive and dense railway network. Unlike other countries, there is no real tariff distinction between train categories in Belgium, except for international ICE, TGV, and Eurostar connections. Due to the central location of the capital Brussels, it is the hub of Belgian train traffic and is connected to Germany, France, and the Netherlands via 4 high-speed lines. On other routes, the speed is rather average. Trains in Belgium usually run on a regular schedule and are mostly punctual. The most important cities are connected several times an hour. Particularly noteworthy are the impressive station buildings of Liège-Guillemins and Antwerp Central.
 
 ## FIP Rating
 
