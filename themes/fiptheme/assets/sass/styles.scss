@@ -4,15 +4,34 @@ html {
 }
 
 body {
-  background-color: $gray-300;
+  background-color: $gray-200;
   font-size: 1.8rem;
+  overflow-x: hidden;
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+header {
+  z-index: 3;
+  position: relative;
 }
 
 a {
   color: #ec0016;
 
-  &:hover {
-    color: green;
+  &:hover,
+  &:focus {
+    color: #c50014;
+  }
+}
+
+.o-footer__link {
+  text-decoration: underline;
+  color: black;
+  font-weight: 700;
+
+  &:hover,
+  &:focus {
+    color: red;
   }
 }
 

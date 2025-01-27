@@ -1,42 +1,46 @@
 import * as mq from './mediaqueries';
 
 function initMobileMenu() {
-  console.log('huhu2');
 
   const menuButton = document.querySelector('.o-nav__menu-button');
   const closeButton = document.querySelector('.o-nav__close-button');
-  const navContainer = document.querySelector('.o-header__nav');
 
   menuButton.addEventListener('click', () => {
-    console.log('CLICKED');
-    navContainer.classList.add("o-header__nav--open");
+    openMobileMenu()
   });
 
   closeButton.addEventListener('click', () => {
-    console.log('CLICKED');
-    navContainer.classList.remove("o-header__nav--open");
+    closeMobileMenu()
   });
+
+  window.onclick = e => {
+    if (e.target.classList.contains('o-header__curtain')) {
+      closeMobileMenu();
+    }
+  }
 }
 
-function resizeObserver() {
-  window.addEventListener("resize", () => {
-    const navContainer = document.querySelector('.o-header__nav');
-    if (window.matchMedia(mq.minMD).matches) {
-      navContainer.classList.remove("o-header__nav--open");
-      console.log('resized');
-    }
-  });
+function openMobileMenu() {
+  const navContainer = document.querySelector('.o-header__nav');
+  const menuButton = document.querySelector('.o-nav__menu-button');
+
+  navContainer.classList.add("o-header__nav--open");
+  menuButton.setAttribute('aria-expanded', true);
+}
+
+function closeMobileMenu() {
+  const navContainer = document.querySelector('.o-header__nav');
+  const menuButton = document.querySelector('.o-nav__menu-button');
+
+  navContainer.classList.remove("o-header__nav--open");
+  menuButton.setAttribute('aria-expanded', false);
 }
 
 if (document.readyState === "interactive") {
-  console.log('DOM ready');
   initMobileMenu();
-  resizeObserver();
 } else {
   window.addEventListener("DOMContentLoaded", () => {
-    console.log('DOM ready');
     initMobileMenu();
-    resizeObserver();
   });
 }
 

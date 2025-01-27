@@ -1,8 +1,5 @@
 <section class="o-stage container-fluid">
   {{ $image := resources.Get "images/startpage.webp" }}
-  <img src="{{ $image.RelPermalink }}" alt="">
-  <form class="o-stage__search-container" action="javascript:alert('Die Suche ist leider noch nicht implementiert 😭');">
-    <input class="o-stage__search-field" id="search" type="search" placeholder="{{ T "search-placeholder" }}">
-    <button class="o-stage__button" type="submit">{{ T "search-button" }}</button>
-  </form>
+  <img src="{{ $image.RelPermalink }}" alt="" loading="lazy">
+  <div id="search" class="o-stage__search"></div>
 </section>
