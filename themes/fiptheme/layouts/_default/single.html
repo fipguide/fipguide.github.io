@@ -1,12 +1,20 @@
 {{ define "main" }}
 <div class="container">
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>adf
+    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format ":date_long" }}
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    
-    {{ .Content }}
+    <div class="updateDate">
+        <time datetime="{{ $dateMachine }}">Zuletzt aktualisiert: {{ $dateHuman }}</time>
+    </div>
+
+    <div class="tableOfContents">
+        {{ .TableOfContents }}
+    </div>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
     {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
     {{ with $related }}
         <h3>See Also</h3>

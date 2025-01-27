@@ -24,3 +24,8 @@ related:
    - name: country
      weight: 1
      includeNewer: true
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 2
