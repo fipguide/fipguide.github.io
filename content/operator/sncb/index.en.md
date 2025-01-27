@@ -6,10 +6,7 @@ country:
   - "belgium"
 ---
 
-# SNCB
-
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in Belgium.
-(Image to be inserted here)
 
 ## Summary
 
@@ -19,18 +16,14 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 ## Validity of FIP Tickets
 
-FIP free tavel passes: ✅\
+FIP voucher: ✅  
 FIP 50 tickets: ✅
 
-FIP free travel passes and FIP 50 tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP free travel passes from both countries must be available.
-
-## Reservation
-
-Reservation requirement: Within Belgium, there is no reservation requirement for SNCB and it is not possible on many trains. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border trips).
+FIP vouchers and FIP 50 tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP vouchers from both countries must be available.
 
 ## Train Categories and Reservations
 
-No reservation requirement for SNCB trains.
+Within Belgium, reservations are only required on TGV trains and are not possible on many other trains. For the cross-border ICE to Germany, reservations are possible and were mandatory in the summer of 2024 (only for cross-border travel).
 
 {{< expander "InterCity Express (ICE)" >}}
 **Description:**  
@@ -108,7 +101,7 @@ Additional trains to certain tourist destinations, often simply referred to as "
 ### Online
 
 - [SNCB Website](https://www.belgiantrain.be):  
-  **Reservation:** -  
+  **Reservation:** ⛔  
   **FIP 50 tickets:** ⛔
 - Other options:  
   Cross-border connections between Germany and Belgium can be purchased online by Deutsche Bahn employees through the DB Travel Market.
@@ -130,7 +123,7 @@ If no ticket counter is available or open, a ticket can be purchased on board th
 
 ### Luxembourg
 
-From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 2nd class, the FIP ticket (free travel pass or FIP 50) is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP ticket for CFL is required.
+From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 2nd class, the FIP ticket (voucher or FIP 50) is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP ticket for CFL is required.
 
 ### Germany
 
@@ -167,7 +160,7 @@ Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP free travel pass. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) even if endorsed *No Supplement Necessary*. For FIP 50 tickets, this is already included in the price. [^1]
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP voucher. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) even if endorsed *No Supplement Necessary*. For FIP 50 tickets, this is already included in the price. [^1]
 
 ## Experiences
 
