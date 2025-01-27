@@ -6,9 +6,9 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="bg-light">
+  <body>
     <header>{{ partial "header.html" . }}</header>
-    <main data-pagefind-body>{{ block "main" . }}{{ end }}</main>
+    <main id="content" data-pagefind-body>{{ block "main" . }}{{ end }}</main>
     <footer>{{ partial "footer.html" . }}</footer>
   </body>
 </html>

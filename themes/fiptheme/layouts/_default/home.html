@@ -1,27 +1,19 @@
 {{ define "main" }}
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-  <div id="search"></div>
-  <script>
-      window.addEventListener('DOMContentLoaded', (event) => {
-          new PagefindUI({ element: "#search", showSubResults: true });
-      });
-  </script>
-    {{ partial "stage.html" }}
-        <section class="container">
-            {{ .Content }}
-            {{ T "country"}}:
-            {{ range  where site.RegularPages "Section" "country"}}
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{ end }}
-    </section>
-    <br>
-    <section class="container">
-        <div class="row">
-            <h3>Die neuesten Neuigkeiten 🔥</h3>
-            {{ range first 3 (where site.RegularPages "Section" "news") }}
-                {{ partial "teaser.html" . }}
-            {{ end }}
-        </div>
-    </section>
+<div class="curtain"></div>
+  {{ partial "stage.html" }}
+  <section class="container">
+    {{ .Content }}
+    {{ T "country"}}:
+    {{ range  where site.RegularPages "Section" "country"}}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+  </section>
+  <section class="container">
+      <div class="row">
+          <h3>Die neuesten Neuigkeiten 🔥</h3>
+          {{ range first 3 (where site.RegularPages "Section" "news") }}
+              {{ partial "teaser.html" . }}
+          {{ end }}
+      </div>
+  </section>
 {{ end }}

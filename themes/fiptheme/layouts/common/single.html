@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="container">
     <h1>{{ .Title }}</h1>
-    
+    <br>
     {{ .Content }}
     {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
     {{ with $related }}

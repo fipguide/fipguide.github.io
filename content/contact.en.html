@@ -1,0 +1,21 @@
+---
+title: "Contact"
+layout: "common"
+---
+
+<form action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="0a8dc059-6054-425e-8a5c-d8ba490cd5f7">
+    <input type="hidden" name="from_name" value="FIPGuide">
+    <input type="hidden" name="subject" value="New Message from FIPGuide">
+    <input type="hidden" name="redirect" value="{{< ref "success" >}}">
+
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+    
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+    <input type="submit" value="Submit">
+</form>

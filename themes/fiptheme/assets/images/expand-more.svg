@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>24dp Icon/Navigation/Expand More</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24dp-Icon/Navigation/Expand-More" fill="#282D37">
+            <path d="M18,9 C18.5625,9 19,9.4375 19,10 C19,10.25 18.875,10.5 18.6875,10.6875 L12.7188,16.7188 C12.5312,16.9062 12.25,17 12,17 C11.75,17 11.4688,16.9062 11.2812,16.7188 L5.3125,10.6875 C5.125,10.5 5,10.25 5,10 C5,9.4375 5.4375,9 6,9 C6.2812,9 6.5,9.0938 6.7188,9.2812 L12,14.5625 L17.2812,9.2812 C17.4688,9.0938 17.7188,9 18,9 Z" id="🎨-Color"></path>
+        </g>
+    </g>
+</svg>

@@ -7,6 +7,8 @@
     <div class="updateDate">
         <time datetime="{{ $dateMachine }}">Zuletzt aktualisiert: {{ $dateHuman }}</time>
     </div>
+    <br>
+    <br>
 
     <div class="tableOfContents">
         {{ .TableOfContents }}
@@ -15,6 +17,7 @@
     <div class="content">
         {{ .Content }}
     </div>
+    
     {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
     {{ with $related }}
         <h3>See Also</h3>
