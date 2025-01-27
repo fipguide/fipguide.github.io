@@ -38,11 +38,11 @@ Are reservations possible and where is there a reservation requirement?
 >
 
 <For each train category, a separate section can be added according to the following principle:>
-{{< expander "<Name (Abbreviation)>" >}}
+{{< expander "<Name (Abbreviation)><add ⚠️ for reservation requirement and (1️⃣) for reservation requirement in 1st class>" >}}
 **Description:**  
 <Description of the category>
 **Reservation possible:** <yes/no>  
-**Reservation required:** <yes/no>  
+**Reservation required:** <yes/no/only first class>  
 **Cost of reservation:** <🟢/🟡/🔴 - Traffic light system indicating the cost of the reservation> 
 <Price 1st class> (1st class)
 <Price 2nd class> (2nd class)
