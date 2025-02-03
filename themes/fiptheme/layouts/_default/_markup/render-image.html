@@ -5,7 +5,7 @@
   <!-- Remote Bild: Direkt ausgeben ohne Bildverarbeitung -->
   {{ $remoteImage := resources.GetRemote .Destination }}
   <p class="md-image">
-    <img src="{{ $remoteImage.Permalink }}" alt="{{ .Title }}" title="{{ .Title }}" />
+    <img src="{{ $remoteImage.Permalink }}" alt="{{ .Title }}" title="{{ .Title }}" loading="lazy"/>
   </p>
 {{ else }}
   {{/* Lokales Bild: Mit Bildverarbeitung */}}
@@ -29,25 +29,25 @@
 
           {{ if gt $width 2200 }}
               {{ with $originalImage.Resize "2200x" }}
-                  <source media="(min-width:2200px)" srcset="{{ .RelPermalink | safeURL }}" />
+                  <source media="(min-width:2200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
               {{ end }}
           {{ end }}
 
           {{ if gt $width 1500 }}
               {{ with $originalImage.Resize "1500x" }}
-                  <source media="(min-width:1500px)" srcset="{{ .RelPermalink | safeURL }}" />
+                  <source media="(min-width:1500px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
               {{ end }}
           {{ end }}
 
           {{ if gt $width 1200 }}
               {{ with $originalImage.Resize "1200x" }}
-                  <source media="(min-width:1200px)" srcset="{{ .RelPermalink | safeURL }}" />
+                  <source media="(min-width:1200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
               {{ end }}
           {{ end }}
 
           {{ if gt $width 800 }}
               {{ with $originalImage.Resize "800x" }}
-                  <source media="(min-width:800px)" srcset="{{ .RelPermalink | safeURL }}" />
+                  <source media="(min-width:800px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
               {{ end }}
           {{ end }}
 
@@ -55,7 +55,7 @@
           {{ if gt $width 500 }}
               {{ $tinyImage = $originalImage.Resize "500x" }}
           {{ end }}
-          <img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $myTitle }}" title="{{ $myTitle }}" />
+          <img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $myTitle }}" title="{{ $myTitle }}" loading="lazy"/>
       </picture>
   </p>
 {{ end }}

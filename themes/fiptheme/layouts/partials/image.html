@@ -1,0 +1,36 @@
+{{ $myTitle := "" }}
+  <p class="md-image">
+      <picture>
+          {{ $width := .Width }}
+
+          {{ if gt $width 2200 }}
+              {{ with .Resize "2200x" }}
+                  <source media="(min-width:2200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
+              {{ end }}
+          {{ end }}
+
+          {{ if gt $width 1500 }}
+              {{ with .Resize "1500x" }}
+                  <source media="(min-width:1500px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
+              {{ end }}
+          {{ end }}
+
+          {{ if gt $width 1200 }}
+              {{ with .Resize "1200x" }}
+                  <source media="(min-width:1200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
+              {{ end }}
+          {{ end }}
+
+          {{ if gt $width 800 }}
+              {{ with .Resize "800x" }}
+                  <source media="(min-width:800px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
+              {{ end }}
+          {{ end }}
+
+          {{ $tinyImage :=  . }}
+          {{ if gt $width 500 }}
+              {{ $tinyImage = .Resize "500x" }}
+          {{ end }}
+          <img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $myTitle }}" title="{{ $myTitle }}" loading="lazy"/>
+      </picture>
+  </p>
