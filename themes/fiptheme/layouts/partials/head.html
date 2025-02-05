@@ -14,8 +14,13 @@
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
-    new PagefindUI({ element: "#search", showSubResults: true });
+    new PagefindUI({ element: "#search", highlightParam: "highlight", showSubResults: true });
   });
+</script>
+<!-- include the highlight script -->
+<script type="module">
+  await import('/pagefind/pagefind-highlight.js');
+  new PagefindHighlight({ highlightParam: "highlight" });
 </script>
 
 <!-- include a favicon for your site if you have it, else omit the line below 

@@ -10,7 +10,11 @@
     <br>
     <br>
 
-    <div class="content">
+    <div class="tableOfContents">
+        {{ .TableOfContents }}
+    </div>
+
+    <div class="content" data-pagefind-weight="1.1">
         {{ .Content }}
     </div>
     
