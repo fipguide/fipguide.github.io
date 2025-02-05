@@ -1,7 +1,5 @@
 # FIPGuide
 
-## Table of Contents
-
 - [English](#english)
 - [Deutsch](#deutsch)
 
