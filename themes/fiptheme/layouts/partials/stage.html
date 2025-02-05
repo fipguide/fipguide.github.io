@@ -1,5 +1,5 @@
 <section class="o-stage container-fluid">
   {{ $image := resources.Get "images/startpage.webp" }}
-  <img src="{{ $image.RelPermalink }}" alt="" loading="lazy">
+  {{ partial "image.html" $image }}
   <div id="search" class="o-stage__search"></div>
 </section>
