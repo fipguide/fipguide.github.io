@@ -2,11 +2,14 @@
     margin-bottom: 4rem;
 }
 
-.o-stage > img {
+.o-stage > picture {
     width: 100%;
     aspect-ratio: 4/1;
     max-width: 1320px;
-    border-radius: 0 0 1rem 1rem;
+
+    img {
+        border-radius: 0 0 1rem 1rem;
+    }
 }
 
 .o-stage {
@@ -48,7 +51,7 @@
     }
 }
 
-.curtain:has(~ .o-stage .o-stage__search:focus-within)  {
+.curtain:has(~ .o-stage .o-stage__search:focus-within) {
     background-color: rgba(0, 0, 0, .8);
     inset: 0;
     position: fixed;
