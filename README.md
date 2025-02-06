@@ -30,7 +30,7 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 Die Mitarbeit und das Beitragen von Informationen sind immer willkommen.  
 Eine Anleitung zum Bearbeiten von Informationen befindet sich [hier im Wiki](https://github.com/fipguide/fipguide.github.io/wiki).
 
-❤️ Ein Projekt von Bahner für Bahner.
+❤️ Ein Projekt von Bahnern für Bahner.
 
 ℹ️  
 Die in diesem Projekt bereitgestellten Informationen sind nicht offiziell, sondern werden von der FIPGuide Community aus verschiedenen Quellen sowie Erfahrungen zusammengetragen und aufbereitet. Nachweise zu Quellen sind in den Fußnoten der jeweiligen Seite zu finden. Es besteht keine rechtliche Verbindung zu FIP oder Bahngesellschaften. Für sämtliche Informationen wird keine Gewähr für die Richtigkeit, Vollständigkeit oder Aktualität übernommen. Bitte informiere dich vor Fahrtantriit bei der jeweiligen Bahngesellschaft oder Arbeitgeber über die aktuellsten Informationen und Bestimmungen zu FIP.
