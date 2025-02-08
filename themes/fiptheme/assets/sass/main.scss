@@ -6,24 +6,3 @@
 @import "teaser.scss";
 @import "footer.scss";
 @import "content.scss";
-
-details {
-    position: relative;
-    overflow: hidden;
-    padding: 5px;
-}
-
-details[open] summary ~ * {
-    animation: slideDown 0.5s ease-in-out;
-}
-
-@keyframes slideDown {
-    from {
-        opacity: 0;
-        transform: translateY(-10px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
