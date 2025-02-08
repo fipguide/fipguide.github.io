@@ -80,8 +80,6 @@
 
 .curtain {
     background-color: rgba(0, 0, 0, .8);
-    inset: 0;
-    position: fixed;
     z-index: 2;
     transition: opacity .3s ease;
     opacity: 0;
@@ -90,4 +88,6 @@
 .curtain:has(~ .o-stage .o-stage__search:focus-within),
 .curtain:has(~ .o-stage .pagefind-ui__drawer:not(.pagefind-ui__hidden)) {
     opacity: 1;
+    inset: 0;
+    position: fixed;
 }
