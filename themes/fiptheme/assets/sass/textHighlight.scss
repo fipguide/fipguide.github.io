@@ -1,0 +1,17 @@
+.m-text-highlight {
+  background-color: #eee;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: .8rem;
+  border-left: gray solid 1rem;
+}
+
+.m-text-highlight--info {
+  background-color: #C4F2FF;
+  border-left: #1DB5DF solid 1rem;
+}
+
+.m-text-highlight--warning {
+  background-color: #FFE7C4;
+  border-left: #DF8A1D solid 1rem;
+}
