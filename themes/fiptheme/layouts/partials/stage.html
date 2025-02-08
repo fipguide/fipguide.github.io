@@ -1,3 +1,14 @@
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#search", highlightParam: "highlight", showSubResults: true });
+  });
+</script>
+<!-- include the highlight script -->
+<script type="module">
+  await import('/pagefind/pagefind-highlight.js');
+  new PagefindHighlight({ highlightParam: "highlight" });
+</script>
+
 <section class="o-stage container-fluid">
   {{ $image := resources.Get "images/startpage.webp" }}
   {{ partial "image.html" $image }}
