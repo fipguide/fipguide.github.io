@@ -35,6 +35,10 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 5,20 € (2. Klasse)
 {{< /expander >}}
 
+{{< highlight important "headline" >}}
+text
+{{< /highlight >}}
+
 {{< expander "Train à Grande Vitesse (TGV) ⚠️" >}}
 **Beschreibung:**  
 Hochgeschwindigkeitszüge der SNCF, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Frankreich (z.B. Paris, Lille, Strassburg oder Marseille). Es ist jedoch die Reservierungspflicht in sämtlichen Zügen zu beachten.  
