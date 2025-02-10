@@ -1,6 +1,5 @@
 baseURL: 'https://www.fipguide.org/'
 title: 'FIPGuide'
-theme: 'fiptheme'
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
@@ -18,6 +17,10 @@ module:
   mounts:
     - source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
       target: "assets/js/bootstrap.bundle.min.js"
+    - source: "assets"
+      target: "assets"
+    - source: "static"
+      target: "static"
 
 related:
  indices:
