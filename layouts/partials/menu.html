@@ -10,19 +10,19 @@
   <div class="o-header__curtain"></div>
   <div class="o-header__nav container">
     <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
-      {{ T "menu-open" }}
-      <span class="material-symbols-rounded">menu</span>
+      <span>{{ T "menu-open" }}</span>
+      <i class="material-symbols-rounded" aria-hidden="true">menu</i>
     </button>
     <nav>
       <button class="o-nav__close-button" title="Menü schließen">
-        {{ T "menu-close" }}
-        <img aria-hidden="true" src="{{ $closeicon.RelPermalink }}" alt="">
+        <span>{{ T "menu-close" }}</span>
+        <i class="material-symbols-rounded" aria-hidden="true">close</i>
       </button>
       <menu>
         <li class="o-header__item">
           <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
-            {{ T "countryselection" }}
-            <img aria-hidden="true" src="{{ $expandicon.RelPermalink }}" alt="">
+            <span>{{ T "countryselection" }}</span>
+            <i class="material-symbols-rounded" aria-hidden="true">keyboard_arrow_down</i>
           </button>
           <h2 id="menu-country-list">{{ T "country" }}</h2>
           <menu class="o-header__item-countries" aria-describedby="menu-country-list">

@@ -1,12 +1,15 @@
+// icon usage: https://fonts.google.com/icons
+
 @font-face {
-  font-family: 'Material Symbols Rounded';
+  font-family: "Material Symbols Rounded";
   font-style: normal;
   font-weight: 100 700;
-  src: url(/fonts/MaterialSymbolsRounded-VariableFont.woff2) format('woff2');
+  //however, it works only with ttf file and woff2 format – we should change font-file in future
+  src: url(/fonts/MaterialSymbolsRounded-VariableFont.ttf) format('woff2');
 }
 
 .material-symbols-rounded {
-  font-family: 'Material Symbols Rounded';
+  font-family: "Material Symbols Rounded";
   font-weight: normal;
   font-style: normal;
   font-size: 24px;

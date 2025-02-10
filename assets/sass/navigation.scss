@@ -88,7 +88,6 @@
   display: inline-flex;
   padding: 1rem;
   margin: .3rem;
-  text-decoration: underline;
   border: none;
   background: none;
   width: fit-content;
@@ -100,18 +99,24 @@
   &:focus {
     color: red;
   }
+
+  span {
+    text-decoration: underline;
+  }
 }
 
-.o-header__expand-button img,
-.o-nav__menu-button img,
-.o-nav__close-button img {
+.o-nav__menu-button-text {
+
+}
+
+.o-header__expand-button i,
+.o-nav__menu-button i,
+.o-nav__close-button i {
   margin-left: .8rem;
   align-self: center;
-  width: 2.4rem;
-  height: auto;
 }
 
-.o-header__expand-button:has(~ .o-header__item-countries--open) img {
+.o-header__expand-button:has(~ .o-header__item-countries--open) i {
   transform: rotate(180deg);
 }
 
