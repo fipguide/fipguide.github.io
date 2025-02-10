@@ -6,12 +6,17 @@
   border-left: gray solid 1rem;
 }
 
-.m-text-highlight--info {
+.m-text-highlight--tip {
   background-color: #C4F2FF;
   border-left: #1DB5DF solid 1rem;
 }
 
-.m-text-highlight--warning {
+.m-text-highlight--inofficial {
   background-color: #FFE7C4;
   border-left: #DF8A1D solid 1rem;
+}
+
+.m-text-highlight--important {
+  background-color: #FFC4C4;
+  border-left: #FF1F1F solid 1rem;
 }
