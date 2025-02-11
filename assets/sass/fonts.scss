@@ -8,6 +8,20 @@
   src: url(/fonts/MaterialSymbolsRounded-VariableFont.ttf) format('woff2');
 }
 
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100 700;
+  src: url(/fonts/Roboto-VariableFont_wdth,wght.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 100 700;
+  src: url(/fonts/Roboto-Italic-VariableFont_wdth,wght.ttf) format('woff2');
+}
+
 .material-symbols-rounded {
   font-family: "Material Symbols Rounded";
   font-weight: normal;
@@ -27,6 +41,8 @@
           'wght' 400,
           'GRAD' 0,
           'opsz' 24;
+}
 
-  text-decoration: none;
+body {
+  font-family: "Roboto",Arial,Helvetica,sans-serif;
 }
