@@ -1,6 +1,8 @@
 baseURL: 'https://www.fipguide.org/'
 title: 'FIPGuide'
 
+enableRobotsTXT: true
+
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 languages:

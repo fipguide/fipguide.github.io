@@ -6,8 +6,8 @@ layout: "common"
 ---
 
 **Lennart Rommeiß**\
-Jürgen-Ponto-Platz 1\
-60329 Frankfurt am Main
+Klingerstraße 15\
+51143 Köln
 
 Email: nextstop@fipguide.org
 
