@@ -38,11 +38,11 @@ Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
 >
 
 <Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden:>
-{{< expander "<Name (Abkürzung)>" >}}
+{{< expander "<Name (Abkürzung)><hinzufügen von ⚠️ für Reservierungspflicht und (1️⃣) für Reservierungspflicht in der 1. Klasse>" >}}
 **Beschreibung:**  
 <Beschreibung der Kategorie>
 **Reservierung möglich:** <ja/nein>  
-**Reservierungspflicht:** <ja/nein>  
+**Reservierungspflicht:** <ja/nein/nur 1. Klasse>  
 **Kosten für Reservierung:** <🟢/🟡/🔴 - Farbampel über Preishöhe der Reservierung> 
 <Preis 1. Klasse> (1. Klasse)
 <Preis 2. Klasse> (2. Klasse)
