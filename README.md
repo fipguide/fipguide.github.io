@@ -12,7 +12,7 @@ With this international discount card for railway staff, employees can use train
 This project provides information and usage instructions for FIP as well as specifics for the respective participating railway companies.
 
 Contributing and providing information is always welcome.  
-Instructions for editing information can be found [here in the Wiki](https://github.com/fipguide/fipguide.github.io/wiki).
+Instructions for editing information can be found [here in the Wiki](https://github.com/fipguide/fipguide.github.io/wiki/English).
 
 ❤️ A project by railway workers for railway workers.
 
@@ -28,7 +28,7 @@ Mit dieser internationalen Ermäßigungskarte für Eisenbahnpersonal können Mit
 In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten bei den jeweiligen beteiligten Bahngesellschaften aufgeführt.
 
 Die Mitarbeit und das Beitragen von Informationen sind immer willkommen.  
-Eine Anleitung zum Bearbeiten von Informationen befindet sich [hier im Wiki](https://github.com/fipguide/fipguide.github.io/wiki).
+Eine Anleitung zum Bearbeiten von Informationen befindet sich [hier im Wiki](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
 
 ❤️ Ein Projekt von Bahnern für Bahner.
 
