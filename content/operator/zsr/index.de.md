@@ -1,5 +1,5 @@
 ---
-date: "2024-10-17"
+date: "2025-02-15"
 draft: false
 title: "ZSR / ZSSK"
 country:
@@ -38,7 +38,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
 {{< expander "InterCity (IC) ⚠️" >}}
 **Beschreibung:**  
-Fernzüge, die eigenwirtschaftlich von der ZSSK erbracht werden und auf der Ost-West-Verbindung in der Slowakei (teilweise auch von/nach Wien) mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.
+Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ja  
 **Kosten für Reservierung:** 🔴 Ab 7 €  
@@ -127,7 +127,7 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 ### Österreich
 
-Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Beim InterCity Wien - Košice reicht der FIP-Freifahrtschein für die ZSR für die komplette Strecke aus. Bei allen anderen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. FIP 50 Tickets müssen grenzüberschreitend gekauft werden.
+Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. FIP 50 Tickets müssen grenzüberschreitend gekauft werden.
 
 ### Ungarn
 
@@ -135,11 +135,11 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Polen
 
-Zurzeit werden keine Verbindungen zwischen der Slowakei und Polen angeboten.
+Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardon. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der ZSSK gelten nur bis zum Grenzpunkt. Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können über die Website der ZSSK nicht gekauft werden, evtl. klappt dies an einem Schalter der ZSSK.
 
 ### Ukraine
 
-Zurzeit werden keine Verbindungen der ZSSK in die Ukraine angeboten.
+Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukacheve. Da in der Ukraine FIP nicht gültig sind, wird ein reguläres Ticket mindestens ab dem Grenzpunkt benötigt. Bei der ZSSK Seite kann ein grenzüberschreitendes Ticket nur ohne FIP-Rabatt gekauft werden. Wenn der Zug einen Zwischenhalt in Cierna nad Tisou hat, wäre es möglich ab diesem Bahnhof ein reguläres Ticket über die Website zu kaufen. Falls nach einem günstigeren Ticket gesucht wird, am besten hier an einem Schalter der ZSSK nachfragen, ob es noch bessere Möglichkeiten gibt.
 
 {{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                                                                 |
@@ -173,10 +173,6 @@ Für Kinder ab 16 Jahren gibt es keinen Rabatt, jedoch ist es für Studenten unt
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
 Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
-
-### InterCity Wien - Bratislava - Košice
-
-Beim InterCity Wien - Košice reicht der FIP-Freifahrtschein für die ZSR für die komplette Strecke aus (auch in Österreich).[^1]
 
 ## Quellen
 
