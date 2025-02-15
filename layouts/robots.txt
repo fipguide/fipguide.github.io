@@ -1,8 +1,3 @@
 User-agent: *
-{{ $imprintPage := site.GetPage "imprint" }}
-{{ if $imprintPage }}
-Disallow: {{ $imprintPage.RelPermalink }}
-{{ range $imprintPage.Translations }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
-{{ end }}
+{{ $imprintPage := site.GetPage "imprint" }}{{ if $imprintPage }}Disallow: {{ $imprintPage.RelPermalink }}{{ range $imprintPage.Translations }}
+Disallow: {{ .RelPermalink }}{{ end }}{{ end }}
