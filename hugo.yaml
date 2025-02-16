@@ -19,6 +19,8 @@ module:
   mounts:
     - source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
       target: "assets/js/bootstrap.bundle.min.js"
+    - source: "node_modules/@material-design-icons/font/material-icons-round.woff2"
+      target: "static/css/material-icons-round.woff2"
     - source: "assets"
       target: "assets"
     - source: "static"
