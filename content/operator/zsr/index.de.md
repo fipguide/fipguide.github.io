@@ -38,7 +38,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
 {{< expander "InterCity (IC) ⚠️" >}}
 **Beschreibung:**  
-Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.
+Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ja  
 **Kosten für Reservierung:** 🔴 Ab 7 €  
