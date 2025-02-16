@@ -1,5 +1,5 @@
 ---
-date: "2024-10-17"
+date: "2025-02-15"
 draft: false
 title: "SNCB"
 country:
@@ -90,12 +90,12 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 - [Website der SNCB für nationale Verbindungen](https://www.belgiantrain.be):  
   **Reservierung:** ⛔  
   **FIP 50 Fahrkarten:** ⛔
-- [Website der SNCB für internationale Verbindungen](https://www.b-europe.com/)
-  **Reservierung:** ✅
-  Für internationale Züge, bei denen eine Reservierung möglich ist, kann diese hier entsprechend ausgewählt werden.
-  **FIP 50 Fahrkarten:** ✅
-  Für grenzüberschreitende Züge aus und nach Belgien können hier Fahrkarten mit FIP 50 Rabatt gekauft werden. Dazu einfach bei den Reisenden die Ermäßigung "50% Ermäßigung Belgien (SNCB)" auswählen. Hier können auch mehrere Ermäßigungen, z. B. ein gleichzeitig noch vorhandener Freifahrtschein für die CFL (Luxemburg) angegeben werden.
-  **Internationale Fahrkarten mit Freifahrt:** ✅
+- [Website der SNCB für internationale Verbindungen](https://www.b-europe.com/):  
+  **Reservierung:** ✅  
+  Für internationale Züge, bei denen eine Reservierung möglich ist, kann diese hier entsprechend ausgewählt werden.  
+  **FIP 50 Fahrkarten:** ✅  
+  Für grenzüberschreitende Züge aus und nach Belgien können hier Fahrkarten mit FIP 50 Rabatt gekauft werden. Dazu einfach bei den Reisenden die Ermäßigung "50% Ermäßigung Belgien (SNCB)" auswählen. Hier können auch mehrere Ermäßigungen, z. B. ein gleichzeitig noch vorhandener Freifahrtschein für die CFL (Luxemburg) angegeben werden.  
+  **Internationale Fahrkarten mit Freifahrt:** ✅  
   Bei Vorhandensein einer Freifahrt für die SNCB kann diese auch für grenzüberschreitende Züge angerechnet werden. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem TGV, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
 - Weitere Möglichkeiten:  
   Grenzüberschreitende Verbindungen zwischen Deutschland und Belgien können von Mitarbeitern der Deutschen Bahn über den DB Reisemarkt online erworben werden.
@@ -143,7 +143,7 @@ Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, d
 | SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 | THI              | Antwerpen, Bruxelles, Liège                                         |
 
-[^1]
+
 {{< /expander >}}
 ![Bild](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
