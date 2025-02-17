@@ -20,4 +20,4 @@ Darüber hinaus können auch "100% Ermäßigung Niederlande" und "Freifahrtschei
 
 Schreibt uns gerne über unser Kontaktformular, wenn ihr Erfahrungen mit den Vergünstigungen über die Website gemacht habt.
 
-![SNCB Logo](./image.png)
+![SNCB Logo](./image.webp)
