@@ -3,10 +3,6 @@
   {{ partial "stage.html" }}
   <section class="container">
     {{ .Content }}
-    {{ T "country"}}:
-    {{ range  where site.RegularPages "Section" "country"}}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{ end }}
   </section>
   <section class="container">
       <div class="row justify-content-center">
