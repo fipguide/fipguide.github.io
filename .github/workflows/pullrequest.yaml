@@ -3,7 +3,7 @@ name: Test Hugo Build
 
 on:
   # Runs on merges targeting the default branch
-  pull_request::
+  pull_request:
     branches:
       - main
 
