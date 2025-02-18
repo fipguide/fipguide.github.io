@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="container">
+<article class="container">
     <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
@@ -7,12 +7,11 @@
     <div class="updateDate">
         <time datetime="{{ $dateMachine }}">Zuletzt aktualisiert: {{ $dateHuman }}</time>
     </div>
-    <br>
-    <br>
-
+    <hr>
     <div class="tableOfContents">
         {{ .TableOfContents }}
     </div>
+    <hr>
 
     <div class="content" data-pagefind-weight="2">
         {{ .Content }}
@@ -28,5 +27,5 @@
         </ul>
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-</div>
+</article>
 {{ end }}

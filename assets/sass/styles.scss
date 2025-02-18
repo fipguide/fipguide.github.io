@@ -70,3 +70,15 @@ details[open] summary ~ * {
     transform: translateY(0);
   }
 }
+
+p {
+  margin-bottom: 3.2rem;
+}
+
+p:has(p + ul) {
+  margin-bottom: 0;
+}
+
+article p:last-child {
+  margin-bottom: 0;
+}

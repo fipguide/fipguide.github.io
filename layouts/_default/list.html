@@ -2,7 +2,12 @@
   <div class="container">
     <h1 data-pagefind-meta="title">{{ .Title }}</h1>
     {{ .Content }} {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }} {{ end }}
+    <div class="m-teaser">
+      <a href="{{ .RelPermalink }}">
+        <h2 class="m-teaser__headline">{{ .LinkTitle }}</h2>
+      </a>
+      <div>{{ .Summary | plainify | truncate 200 }}</div>
+    </div>
+    {{ end }}
   </div>
 {{ end }}
