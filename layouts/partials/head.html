@@ -10,8 +10,10 @@
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ $style := resources.Get "sass/main.scss" | toCSS $options | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen" rel="preload" as="style" />
+{{ if .IsHome }}
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <script src="/pagefind/pagefind-ui.js" defer></script>
+{{ end }}
 
 <!-- include a favicon for your site if you have it, else omit the line below 
      Location of favicon can be in mytheme/static/favicon.ico -->
