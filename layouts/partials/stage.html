@@ -3,14 +3,9 @@
     new PagefindUI({ element: "#search", highlightParam: "highlight", showSubResults: true });
   });
 </script>
-<!-- include the highlight script -->
-<script type="module">
-  await import('/pagefind/pagefind-highlight.js');
-  new PagefindHighlight({ highlightParam: "highlight" });
-</script>
 
 <section class="o-stage container-fluid">
   {{ $image := resources.Get "images/startpage.webp" }}
-  {{ partial "image.html" $image }}
+  {{ partial "image.html" (dict "image" $image "loadingLazy" false) }}
   <div id="search" class="o-stage__search"></div>
 </section>
