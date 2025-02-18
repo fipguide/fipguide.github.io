@@ -5,7 +5,9 @@ country:
   other: countries
 search-placeholder: Type in a country or train operator
 search-button: Search
-footer-love: Made with ♥️ in Frankfurt & Cologne
+footer-love:
+  text: Made with ♥️ in Frankfurt & Cologne
+  aria-label: Made with love in Frankfurt & Cologne
 menu-open: Menu
 menu-close: Close
 general: general
