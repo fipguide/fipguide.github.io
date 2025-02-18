@@ -19,5 +19,3 @@ Ohne Freifahrt, aber mit FIP 50, lassen sich ebenfalls grenzüberschreitende Tic
 Darüber hinaus können auch "100% Ermäßigung Niederlande" und "Freifahrtschein Luxemburg (CFL)" angegeben werden und auch mehrere Ermäßigungen kombiniert werden, beispielsweise auch noch mit einer BahnCard. Damit lassen sich hier viele kombinierte vergünstigte FIP-Fahrten buchen.
 
 Schreibt uns gerne über unser Kontaktformular, wenn ihr Erfahrungen mit den Vergünstigungen über die Website gemacht habt.
-
-![SNCB Logo](./image.webp)
