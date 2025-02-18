@@ -19,4 +19,4 @@ Belgien verfügt über ein ausgedehntes und dichtes Bahnnetz. Im Gegensatz zu an
 
 ## FIP Bewertung
 
-Noch ausstehende
+Noch ausstehend
