@@ -1,9 +1,10 @@
-## Describe your changes 1
+## Description
 
-## Issue ticket number and link
+<!-- Add a short description here / Eine kurze Beschreibung hier einfügen -->
 
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+## Checklist
+- [ ] Changed the date in updatet content pages <!-- Auf Inhaltsseiten wurde das Bearbeitungsdatum angepasst -->
+
+The content was modified in the following languages: <!-- Der Inhalt wurde für die folgenden Sprachen angepasst -->
+- [ ] English
+- [ ] German
