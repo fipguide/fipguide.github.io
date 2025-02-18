@@ -9,7 +9,7 @@
     {{ end }}
   </section>
   <section class="container">
-      <div class="row">
+      <div class="row justify-content-center">
           <h3>Die neuesten Neuigkeiten 🔥</h3>
           {{ range first 3 (where site.RegularPages "Section" "news") }}
               {{ partial "teaser.html" . }}

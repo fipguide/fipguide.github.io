@@ -1,6 +1,12 @@
 .m-teaser {
     text-decoration: none;
     color: #000;
+
+    &:nth-child(-n+3) {
+        @include media-breakpoint-down(lg) {
+            margin-bottom: 2rem;
+        }
+    }
 }
 
 .m-teaser img {

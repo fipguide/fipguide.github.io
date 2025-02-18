@@ -45,6 +45,20 @@
   display: flex;
   padding: 1rem;
   margin: .3rem;
+  position: relative;
+
+  h1 {
+    position: absolute;
+    top: 1.6rem;
+    left: 1.7rem;
+    margin: 0;
+    font-size: 1.5rem;
+    color: black;
+  }
+
+  img {
+    width: 8rem;
+  }
 }
 
 .o-header__nav menu {
