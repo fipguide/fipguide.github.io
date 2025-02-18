@@ -1,5 +1,5 @@
 ---
-date: "2024-10-17"
+date: "2025-02-15"
 draft: false
 title: "SNCB"
 country:
@@ -23,7 +23,7 @@ FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb Belgiens ist bei der SNCB nur in TGV Zügen eine Reservierung erforderlich und in vielen anderen Zügen gar nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 {{< expander "InterCity Express (ICE)" >}}
 **Beschreibung:**  
@@ -33,15 +33,6 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 **Kosten für Reservierung:** 🟡
 6,50 € (1. Klasse)
 5,20 € (2. Klasse)
-{{< /expander >}}
-
-{{< expander "Train à Grande Vitesse (TGV) ⚠️" >}}
-**Beschreibung:**  
-Hochgeschwindigkeitszüge der SNCF, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Frankreich (z.B. Paris, Lille, Strassburg oder Marseille). Es ist jedoch die Reservierungspflicht in sämtlichen Zügen zu beachten.  
-**Reservierung möglich:** ja  
-**Reservierungspflicht:** ja  
-**Kosten für Reservierung:** 🔴
-Variierend nach Route/Auslastung
 {{< /expander >}}
 
 {{< expander "InterCity (IC)" >}}
@@ -96,11 +87,20 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 
 ### Online
 
-- [Website der SNCB](https://www.belgiantrain.be):  
+- [Website der SNCB für nationale Verbindungen](https://www.belgiantrain.be):  
   **Reservierung:** ⛔  
   **FIP 50 Fahrkarten:** ⛔
+- [Website der SNCB für internationale Verbindungen](https://www.b-europe.com/):  
+  **Reservierung:** ✅  
+  Für internationale Züge, bei denen eine Reservierung möglich ist, kann diese hier entsprechend ausgewählt werden.  
+  **FIP 50 Fahrkarten:** ✅  
+  Für grenzüberschreitende Züge aus und nach Belgien können hier Fahrkarten mit FIP 50 Rabatt gekauft werden. Dazu einfach bei den Reisenden die Ermäßigung "50% Ermäßigung Belgien (SNCB)" auswählen. Hier können auch mehrere Ermäßigungen, z. B. ein gleichzeitig noch vorhandener Freifahrtschein für die CFL (Luxemburg) angegeben werden.  
+  **Internationale Fahrkarten mit Freifahrt:** ✅  
+  Bei Vorhandensein einer Freifahrt für die SNCB kann diese auch für grenzüberschreitende Züge angerechnet werden. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem TGV, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
 - Weitere Möglichkeiten:  
   Grenzüberschreitende Verbindungen zwischen Deutschland und Belgien können von Mitarbeitern der Deutschen Bahn über den DB Reisemarkt online erworben werden.
+
+  
 
 ### Vor Ort
 
@@ -131,7 +131,7 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 
 ### Frankreich
 
-Von Frankreich aus können grenzüberschreitende Regional- und TGV-Züge genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCF sowie Reservierung beim TGV benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
+Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket für den französischen Abschnitt benötigt. Bei den internationalen TGV-Zügen gibt es einen Globalpreis, FIP-Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt (siehe Seite Eurostar).
 
 {{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                         |
@@ -143,7 +143,7 @@ Von Frankreich aus können grenzüberschreitende Regional- und TGV-Züge genutzt
 | SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 | THI              | Antwerpen, Bruxelles, Liège                                         |
 
-[^1]
+
 {{< /expander >}}
 ![Bild](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
