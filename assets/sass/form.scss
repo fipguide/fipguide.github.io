@@ -1,0 +1,20 @@
+.m-form {
+  margin-bottom: 1.6rem;
+
+  .row>* {
+    padding: 0;
+  }
+
+  input[type=text], input[type=email], select, textarea {
+    width: 100%;
+    margin-bottom: 1.6rem;
+
+    @include media-breakpoint-up(md) {
+      width: 50%;
+    }
+  }
+  input[type=submit] {
+    width: auto;
+    padding: 0 1rem;
+  }
+}
