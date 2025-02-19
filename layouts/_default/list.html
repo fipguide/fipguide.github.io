@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="container">
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
     {{ .Content }} {{ range .Pages }}
     <div class="m-teaser">
       <a href="{{ .RelPermalink }}">

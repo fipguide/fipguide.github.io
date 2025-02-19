@@ -20,5 +20,3 @@ In addition, "100% discount Netherlands" and "Free travel pass Luxembourg (CFL)"
 
 Feel free to write to us via our contact form if you have any experiences with the discounts on the website.
 
-![SNCB Logo](./image.webp)
-
