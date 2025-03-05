@@ -81,9 +81,9 @@
   padding: 1rem;
   margin: .3rem;
   pointer-events: none;
-  background-color: gainsboro;
-  border-radius: .4rem;
-  color: black;
+  background-color: var(--bg-neutral);
+  border-radius: var(--border-radius-s);
+  color: var(--color-onDark);
 
   &:focus {
     opacity: 1;
@@ -151,7 +151,7 @@
     flex-direction: column;
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
-    border-radius: .4rem;
+    border-radius: var(--border-radius-s);
   }
 
   &.o-header__item-countries--open {
