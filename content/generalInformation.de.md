@@ -1,8 +1,6 @@
 ---
 date: "2024-10-17"
-draft: false
 title: "Übergreifende Infos"
-layout: "common"
 ---
 
 Willkommen auf unserer Webseite! Hier finden Sie alle wichtigen Informationen rund um unser Projekt.
