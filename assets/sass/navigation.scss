@@ -43,21 +43,27 @@
 
 .o-header__logo {
   display: flex;
-  padding: 1rem;
   margin: .3rem;
   position: relative;
+  text-decoration: none;
 
   h1 {
-    position: absolute;
-    top: 1.6rem;
-    left: 1.7rem;
     margin: 0;
-    font-size: 1.5rem;
-    color: black;
+    font-size: 2.4rem;
+    color: var(--link-special);
+    font-weight: 700;
+    align-self: center;
+    text-wrap-mode: nowrap;
+
+    &:hover,
+    &:focus {
+      color: var(--link-hovered);
+      text-decoration: underline;
+    }
   }
 
   img {
-    width: 8rem;
+    width: 5rem;
   }
 }
 
@@ -111,7 +117,7 @@
 
   &:hover,
   &:focus {
-    color: red;
+    color: var(--link-hovered);
   }
 
   span {

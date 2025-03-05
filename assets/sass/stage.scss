@@ -67,6 +67,21 @@
         border-bottom-right-radius: var(--pagefind-ui-border-radius);
     }
 
+    .pagefind-ui__result-link {
+        color: var(--link-default);
+        text-decoration: underline;
+
+        &:hover,
+        &:focus {
+            color: var(--link-hovered);
+        }
+    }
+
+    .pagefind-ui__result-link:hover,
+    .pagefind-ui__result-link:focus {
+        color: var(--link-hovered);
+    }
+
     .pagefind-ui__result-link:focus {
         outline: .2rem solid orange;
         outline-offset: .1rem;
@@ -75,6 +90,10 @@
 
     .pagefind-ui__result-link::before {
         top: -.2rem;
+    }
+
+    .pagefind-ui--reset mark {
+        background-color: var(--bg-accent);
     }
 }
 

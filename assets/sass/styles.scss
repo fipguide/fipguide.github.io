@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-color: $gray-200;
+  background-color: #EBE9E1;
   font-size: 1.8rem;
   overflow-x: hidden;
 }
@@ -15,17 +15,17 @@ header {
 }
 
 a:not(.m-teaser) {
-  color: #ec0016;
+  color: var(--link-default);
 
   &:hover,
   &:focus {
-    color: #c50014;
+    color: var(--link-hovered);
   }
 }
 
 a.m-teaser {
   .m-teaser__headline {
-    color: #ec0016;
+    color: var(--link-default);
     text-decoration: underline;
     transition: color .3s ease;
   }
@@ -33,19 +33,8 @@ a.m-teaser {
   &:hover,
   &:focus {
     .m-teaser__headline {
-      color: #c50014;
+      color: var(--link-hovered);
     }
-  }
-}
-
-.o-footer__link {
-  text-decoration: underline;
-  color: black;
-  font-weight: 700;
-
-  &:hover,
-  &:focus {
-    color: red;
   }
 }
 

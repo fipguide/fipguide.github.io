@@ -17,6 +17,14 @@
 .o-footer__link {
     margin-left: 0;
     margin-right: 1.6rem;
+    text-decoration: underline;
+    color: var(--link-special);
+    font-weight: 700;
+
+    &:hover,
+    &:focus {
+        color: var(--link-hovered);
+    }
 
     @include media-breakpoint-up(md) {
         margin-left: 1.6rem;

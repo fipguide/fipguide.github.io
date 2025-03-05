@@ -1,10 +1,15 @@
-<svg width="94" height="34" viewBox="0 0 94 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="92" height="32" rx="7" fill="url(#paint0_linear_23_1284)"/>
-<rect x="1" y="1" width="92" height="32" rx="7" stroke="#A1A1A1" stroke-width="2"/>
-    <defs>
-<linearGradient id="paint0_linear_23_1284" x1="107" y1="-3.88571" x2="79.1184" y2="85.8828" gradientUnits="userSpaceOnUse">
-<stop stop-color="#B5E9FF"/>
-<stop offset="1" stop-color="#FFBEBE"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="68px" viewBox="0 0 106 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3657, -1347)">
+            <g id="Group-11" transform="translate(3657, 1347)">
+                <rect id="Rectangle" x="0" y="0" width="106" height="68"></rect>
+                <g id="Group-10-Copy" transform="translate(12, 12)" stroke="#BA3D12" stroke-width="6">
+                    <path d="M79,3 L79,12.414065 C77.168327,12.9321285 75.530875,13.9127758 74.2218254,15.2218254 C72.2312169,17.2124339 71,19.9624339 71,23 C71,26.0375661 72.2312169,28.7875661 74.2218254,30.7781746 C75.530875,32.0872242 77.168327,33.0678715 79,33.585935 L79,41 L3,41 L3,33.585935 C4.831673,33.0678715 6.46912498,32.0872242 7.77817459,30.7781746 C9.76878306,28.7875661 11,26.0375661 11,23 C11,19.9624339 9.76878306,17.2124339 7.77817459,15.2218254 C6.46912498,13.9127758 4.831673,12.9321285 3,12.414065 L3,3 L79,3 Z" id="Combined-Shape"></path>
+                    <line x1="58" y1="3" x2="58" y2="40" id="Line" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8"></line>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
