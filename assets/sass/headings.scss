@@ -3,25 +3,33 @@ h1 {
   line-height: 1.25;
   font-weight: 700;
   margin-bottom: 2rem;
+  text-wrap: balance;
 }
 
 h2 {
   font-size: 2.4rem;
   line-height: 1.25;
-  margin-bottom: 1.6rem;
+  margin-bottom: 1.2rem;
   font-weight: 700;
+  text-wrap: balance;
 }
 
 h3 {
   font-size: 2rem;
   line-height: 1.25;
-  margin-bottom: 1.4rem;
+  margin-bottom: 1rem;
   font-weight: 700;
+  text-wrap: balance;
 }
 
 h4 {
   font-size: 1.8rem;
   line-height: 1.25;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
   font-weight: 700;
+  text-wrap: balance;
+}
+
+h2:has(+ .updateDate) {
+  margin-bottom: .4rem;
 }

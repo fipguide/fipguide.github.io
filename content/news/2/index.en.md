@@ -5,11 +5,9 @@ author: "Willy"
 title: "Cross-border FIP Tickets of SNCB"
 ---
 
-## SNCB simplifies purchase of FIP tickets on international website
-
 The Belgian national railway company SNCB / NMBS now offers tickets with FIP discount on their [international ticket website](https://www.b-europe.com/) in addition to regular cross-border tickets. This significantly simplifies the purchase of tickets that go beyond the borders of Belgium. Previously, these had to be purchased at a counter in Belgium or certain neighboring countries such as Germany or the Netherlands.
 
-### The following tickets are available
+## The following tickets are available
 
 The offer includes the following options:  
 - Cross-border tickets with free travel in Belgium  
