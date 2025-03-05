@@ -14,12 +14,27 @@ header {
   position: relative;
 }
 
-a {
+a:not(.m-teaser) {
   color: #ec0016;
 
   &:hover,
   &:focus {
     color: #c50014;
+  }
+}
+
+a.m-teaser {
+  .m-teaser__headline {
+    color: #ec0016;
+    text-decoration: underline;
+    transition: color .3s ease;
+  }
+
+  &:hover,
+  &:focus {
+    .m-teaser__headline {
+      color: #c50014;
+    }
   }
 }
 
