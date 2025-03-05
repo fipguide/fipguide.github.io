@@ -6,9 +6,11 @@
 .o-footer__links {
     display: flex;
     justify-content: normal;
+    flex-flow: column;
 
     @include media-breakpoint-up(md) {
         justify-content: flex-end;
+        flex-flow: row;
     }
 }
 
