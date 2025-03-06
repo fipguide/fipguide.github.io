@@ -7,9 +7,9 @@
 
 Welcome to FIPGuide
 
-The community website for all information about FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - The association for international travel discounts for railway staff.  
-With this international discount card for railway staff, employees can use trains, ships, and buses abroad at reduced rates.
-This project provides information and usage instructions for FIP as well as specifics for the respective participating railway companies.
+The community website for all information about FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - The association for international travel benefits for railway staff.
+With this international discount card for railway staff, employees can use trains, ships, and buses in Europe at reduced rates.
+This project includes information and usage instructions for FIP as well as special features of the respective participating railway companies.
 
 Contributing and providing information is always welcome.  
 Instructions for editing information can be found [here in the Wiki](https://github.com/fipguide/fipguide.github.io/wiki/English).
@@ -23,9 +23,9 @@ The information provided in this project is not official but is compiled and pre
 
 Willkommen beim FIPGuide
 
-Die Community-Website für alle Informationen zu FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - Die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals.  
-Mit dieser internationalen Ermäßigungskarte für Eisenbahnpersonal können Mitarbeiterinnen und Mitarbeiter zu vergünstigten Konditionen im Ausland bspw. Züge, Schiffe und Busse nutzen.  
-In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten bei den jeweiligen beteiligten Bahngesellschaften aufgeführt.
+Die Community-Website für alle Informationen zu FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - Die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals.
+Mit dieser internationalen Ermäßigungskarte für Eisenbahnpersonal können Mitarbeiterinnen und Mitarbeiter zu vergünstigten Konditionen in Europa beispielsweise Züge, Schiffe und Busse nutzen.
+In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften aufgeführt.
 
 Die Mitarbeit und das Beitragen von Informationen sind immer willkommen.  
 Eine Anleitung zum Bearbeiten von Informationen befindet sich [hier im Wiki](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
