@@ -2,14 +2,7 @@
 <article class="container o-single">
     <h2 data-pagefind-meta="title">{{ .Title }}</h2>
 
-    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-    {{ $dateHuman := .Date | time.Format ":date_long" }}
-
-    {{ if .Date }}
-    <div class="updateDate">
-        <time datetime="{{ $dateMachine }}">Zuletzt aktualisiert: {{ $dateHuman }}</time>
-    </div>
-    {{ end }}
+    {{ partial "updateDate.html" . }}
 
     <div class="content">
         {{ .Content }}
