@@ -74,7 +74,7 @@ A type of interregional train with fewer stops than a regional train but more th
 1 € (2nd class)
 {{< /expander >}}
 
-{{< expander "Rychlik (R) ⚠️1️⃣" > category }}
+{{< expander "Rychlik (R) ⚠️1️⃣" category >}}
 **Description:**  
 Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock.  
 **Reservation possible:** yes  
