@@ -11,3 +11,15 @@ code {
     padding: .2rem .8rem;
     border-radius: var(--border-radius-s);
 }
+
+table {
+    margin-bottom: .6rem;
+}
+
+tr {
+    border-bottom: .1rem solid var(--color-table-border);
+}
+
+th, td {
+    padding: .6rem 2rem .6rem 0;
+}
