@@ -7,16 +7,8 @@
     <div class="content">
         {{ .Content }}
     </div>
-    
-    {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-    {{ with $related }}
-        <h3>See Also</h3>
-        <ul>
-        {{ range . }}
-            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-        </ul>
-    {{ end }}
+
+    {{ partial "related.html" . }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
 {{ end }}
