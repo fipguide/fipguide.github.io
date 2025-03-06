@@ -4,6 +4,7 @@ h1 {
   font-weight: 700;
   margin-bottom: 2rem;
   text-wrap: balance;
+  scroll-margin-top: 7rem;
 }
 
 h2 {
@@ -12,6 +13,7 @@ h2 {
   margin-bottom: 1.2rem;
   font-weight: 700;
   text-wrap: balance;
+  scroll-margin-top: 7rem;
 }
 
 h3 {
@@ -20,6 +22,7 @@ h3 {
   margin-bottom: 1rem;
   font-weight: 700;
   text-wrap: balance;
+  scroll-margin-top: 7rem;
 }
 
 h4 {
@@ -28,6 +31,7 @@ h4 {
   margin-bottom: 1rem;
   font-weight: 700;
   text-wrap: balance;
+  scroll-margin-top: 7rem;
 }
 
 h2:has(+ .updateDate) {
