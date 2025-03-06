@@ -1,7 +1,10 @@
 ## Welcome to the FIP Guide!
 
-On this website, you will find information about the FIP regulations of various European countries.
-Currently, we have information for the countries **Belgium** and **Slovakia**.
+The community website for all information about FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - The association for international travel benefits for railway staff.
+With this international discount card for railway staff, employees can use trains, ships, and buses in Europe at reduced rates.
+This project includes information and usage instructions for FIP as well as special features of the respective participating railway companies.
+
+Currently, information for the countries **Belgium** and **Slovakia** are available.
 
 ### Support Us
 Would you like to share your knowledge about FIP regulations? Visit our [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to contribute content.
