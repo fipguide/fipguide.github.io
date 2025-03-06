@@ -7,7 +7,7 @@
     <div class="content">
         {{ .Content }}
     </div>
-
+    <hr>
     {{ partial "related.html" . }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>

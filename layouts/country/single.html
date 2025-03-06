@@ -13,7 +13,7 @@
     <div class="content" data-pagefind-weight="2">
         {{ .Content }}
     </div>
-
+    <hr>
     {{ partial "related.html" . }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
