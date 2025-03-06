@@ -1,4 +1,4 @@
-<a href="{{ .RelPermalink }}" class="m-teaser col-12 col-lg-4">
+<a href="{{ .RelPermalink }}" class="m-teaser col-12 col-lg-4 col-md-6">
   {{ $image := .Page.Resources.GetMatch "image.webp" }}
   <div class="m-teaser__image">
     {{ partial "image.html" $image }}
@@ -8,6 +8,6 @@
   <time class="m-teaser__dateline" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   <h3 class="m-teaser__headline">{{ .Title }}</h3>
   <div class="m-teaser__text">
-    {{ .Summary | truncate 100 }}
+    {{ .Summary | plainify | truncate 100 }}
   </div>
 </a>

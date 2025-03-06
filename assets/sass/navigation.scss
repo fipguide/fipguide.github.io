@@ -1,3 +1,9 @@
+#header {
+  position: sticky;
+  top: 0;
+  box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
+}
+
 .o-header {
   display: flex;
   justify-content: space-between;
@@ -43,8 +49,28 @@
 
 .o-header__logo {
   display: flex;
-  padding: 1rem;
   margin: .3rem;
+  position: relative;
+  text-decoration: none;
+
+  h1 {
+    margin: 0;
+    font-size: 2.4rem;
+    color: var(--link-special);
+    font-weight: 700;
+    align-self: center;
+    text-wrap-mode: nowrap;
+
+    &:hover,
+    &:focus {
+      color: var(--link-hovered);
+      text-decoration: underline;
+    }
+  }
+
+  img {
+    width: 5rem;
+  }
 }
 
 .o-header__nav menu {
@@ -61,9 +87,9 @@
   padding: 1rem;
   margin: .3rem;
   pointer-events: none;
-  background-color: gainsboro;
-  border-radius: .4rem;
-  color: black;
+  background-color: var(--bg-neutral);
+  border-radius: var(--border-radius-s);
+  color: var(--color-onDark);
 
   &:focus {
     opacity: 1;
@@ -97,7 +123,7 @@
 
   &:hover,
   &:focus {
-    color: red;
+    color: var(--link-hovered);
   }
 
   span {
@@ -131,7 +157,7 @@
     flex-direction: column;
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
-    border-radius: .4rem;
+    border-radius: var(--border-radius-s);
   }
 
   &.o-header__item-countries--open {

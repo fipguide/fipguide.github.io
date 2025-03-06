@@ -7,7 +7,7 @@
     max-width: 1320px;
 
     img {
-        border-radius: 0 0 1rem 1rem;
+        border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
     }
 }
 
@@ -30,6 +30,12 @@
         width: 60%;
     }
 
+    .pagefind-ui__search-input,
+    .pagefind-ui__message,
+    .pagefind-ui__search-clear {
+        font-family: "Roboto", Arial, Helvetica, sans-serif;
+    }
+
     .pagefind-ui__search-input {
         z-index: 3;
         outline: .2rem solid transparent;
@@ -44,7 +50,7 @@
         z-index: 3;
         height: auto;
         padding: 1rem;
-        top: .7rem;
+        top: 1rem;
         margin-right: .7rem;
     }
 
@@ -54,7 +60,7 @@
 
     .pagefind-ui__drawer {
         background-color: white;
-        padding: 0 1rem;
+        padding: 0 1rem 1rem 1rem;
         overscroll-behavior: contain;
         height: 35rem;
         overflow-y: scroll;
@@ -67,14 +73,42 @@
         border-bottom-right-radius: var(--pagefind-ui-border-radius);
     }
 
+    .pagefind-ui__result-link {
+        color: var(--link-default);
+        text-decoration: underline;
+
+        &:hover,
+        &:focus {
+            color: var(--link-hovered);
+        }
+    }
+
+    .pagefind-ui__result-link:hover,
+    .pagefind-ui__result-link:focus {
+        color: var(--link-hovered);
+    }
+
     .pagefind-ui__result-link:focus {
         outline: .2rem solid orange;
         outline-offset: .1rem;
-        border-radius: .4rem;
+        border-radius: var(--border-radius-s);
     }
 
     .pagefind-ui__result-link::before {
         top: -.2rem;
+    }
+
+    .pagefind-ui--reset mark {
+        background-color: var(--bg-accent);
+    }
+
+    .pagefind-ui__button {
+        background-color: var(--bg-accent);
+
+        &:hover,
+        &:focus {
+            background-color: var(--bg-accent2);
+        }
     }
 }
 

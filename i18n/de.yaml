@@ -5,7 +5,9 @@ country:
   other: Länder
 search-placeholder: Gib ein Land oder Bahnunternehmen ein
 search-button: Suchen
-footer-love: Made with ♥️ in Frankfurt & Köln
+footer-love:
+  text: Made with ♥️ in Frankfurt & Köln
+  aria-label: Made with love in Frankfurt & Köln
 menu-open: Menü
 menu-close: Schließen
 general: Übergreifendes
@@ -13,3 +15,7 @@ information-disclaimer-short: Diese Informationen sind inoffiziell und ohne Gew�
 highlight-important: Wichtige Information
 highlight-inofficial: Inoffizielle Information
 highlight-tip: Persönlicher Tipp
+news-headline: Was gibt's neues?
+_operator__list_title: Betreiber
+_country__list_title: Länder
+_news__list_title: Neuigkeiten

@@ -1,8 +1,16 @@
 {{ define "main" }}
-  <div class="container">
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-    {{ .Content }} {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }} {{ end }}
+  <div class="container o-list">
+    <div class="row">
+      {{ $path := .RelPermalink }}
+      {{ $cleanPath := replaceRE "^/[^/]+/" "/" $path }}
+      {{ $key := printf "%s_list_title" (replace $cleanPath "/" "_" -1) }}
+      <h2 data-pagefind-meta="title">{{ i18n $key }}</h2>
+      {{ .Content }} {{ range .Pages }}
+      <a class="m-teaser m-teaser--listview" href="{{ .RelPermalink }}">
+        <h3 class="m-teaser__headline">{{ .LinkTitle }}</h3>
+        <div class="m-teaser__text">{{ .Summary | plainify | truncate 200 }}</div>
+      </a>
+      {{ end }}
+    </div>
   </div>
 {{ end }}

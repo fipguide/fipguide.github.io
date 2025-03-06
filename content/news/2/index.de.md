@@ -5,11 +5,9 @@ author: "Willy"
 title: "Grenzüberschreitende FIP-Tickets der SNCB"
 ---
 
-## SNCB vereinfacht Kauf von FIP-Tickets auf internationaler Website 
-
 Die belgische Staatsbahn SNCB / NMBS bietet auf ihrer [Website für internationale Fahrkarten ](https://www.b-europe.com/) neben regulären grenzüberschreitenden Tickets nun auch Tickets mit FIP-Rabatt an. Dies erleichtert den Kauf von Fahrkarten, die über die Grenze Belgiens hinausgehen, erheblich. Bisher mussten diese an einem Schalter in Belgien oder bestimmten Nachbarländern wie Deutschland oder den Niederlanden gekauft werden.
 
-### Folgende Tickets sind möglich
+## Folgende Tickets sind möglich
 
 Das Angebot umfasst folgende Möglichkeiten:  
 - Grenzüberschreitende Tickets mit Freifahrt in Belgien  
@@ -19,5 +17,3 @@ Ohne Freifahrt, aber mit FIP 50, lassen sich ebenfalls grenzüberschreitende Tic
 Darüber hinaus können auch "100% Ermäßigung Niederlande" und "Freifahrtschein Luxemburg (CFL)" angegeben werden und auch mehrere Ermäßigungen kombiniert werden, beispielsweise auch noch mit einer BahnCard. Damit lassen sich hier viele kombinierte vergünstigte FIP-Fahrten buchen.
 
 Schreibt uns gerne über unser Kontaktformular, wenn ihr Erfahrungen mit den Vergünstigungen über die Website gemacht habt.
-
-![SNCB Logo](./image.webp)

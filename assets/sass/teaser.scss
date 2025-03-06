@@ -1,12 +1,30 @@
 .m-teaser {
     text-decoration: none;
     color: #000;
+
+    &:nth-child(-n+3) {
+        @include media-breakpoint-down(lg) {
+            margin-bottom: 2rem;
+        }
+    }
+}
+
+.m-teaser--listview {
+    margin-bottom: 2.4rem;
 }
 
 .m-teaser img {
     width: 100%;
     aspect-ratio: 16/9;
-    border-radius: 1rem;
+    border-radius: var(--border-radius-l);
+}
+
+.m-teaser__dateline {
+    font-size: 1.4rem;
+}
+
+.m-teaser__headline {
+    margin-bottom: .5rem;
 }
 
 .o-stage {
@@ -20,5 +38,5 @@
     width: 60%;
     height: 6rem;
     background-color: white;
-    border-radius: 1rem;
+    border-radius: var(--border-radius-l);
 }

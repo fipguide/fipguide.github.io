@@ -1,14 +1,15 @@
 {{ define "main" }}
-<div class="container">
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+<article class="container o-single">
+    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
 
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format ":date_long" }}
+
+    {{ if .Date }}
     <div class="updateDate">
         <time datetime="{{ $dateMachine }}">Zuletzt aktualisiert: {{ $dateHuman }}</time>
     </div>
-    <br>
-    <br>
+    {{ end }}
 
     <div class="content">
         {{ .Content }}
@@ -24,5 +25,5 @@
         </ul>
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-</div>
+</article>
 {{ end }}

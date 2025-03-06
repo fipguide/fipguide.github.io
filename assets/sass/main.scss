@@ -1,5 +1,6 @@
 @import "_variables.scss";
 @import "node_modules/bootstrap/scss/bootstrap.scss";
+@import 'node_modules/@material-design-icons/font/round.scss';
 @import "styles.scss";
 @import "fonts.scss";
 @import "navigation.scss";
@@ -8,4 +9,5 @@
 @import "footer.scss";
 @import "content.scss";
 @import "textHighlight.scss";
-@import 'node_modules/@material-design-icons/font/round.scss';
+@import "headings.scss";
+@import "form.scss";
