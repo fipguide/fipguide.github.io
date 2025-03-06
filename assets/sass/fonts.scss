@@ -3,6 +3,7 @@
   font-style: normal;
   font-weight: 100 700;
   src: url(/fonts/Roboto-VariableFont_wdth,wght.ttf) format('woff2');
+  font-display: swap;
 }
 
 @font-face {
@@ -10,6 +11,7 @@
   font-style: italic;
   font-weight: 100 700;
   src: url(/fonts/Roboto-Italic-VariableFont_wdth,wght.ttf) format('woff2');
+  font-display: swap;
 }
 
 body {

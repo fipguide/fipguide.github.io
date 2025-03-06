@@ -2,3 +2,28 @@
     font-size: 1.3rem;
     margin-bottom: 1.6rem;
 }
+
+code {
+    font-size: inherit;
+    font-weight: 700;
+    color: var(--color-onLight);
+    background-color: var(--bg-accent);
+    padding: .2rem .8rem;
+    border-radius: var(--border-radius-s);
+}
+
+table {
+    margin-bottom: .6rem;
+}
+
+tr {
+    border-bottom: .1rem solid var(--color-table-border);
+}
+
+th, td {
+    padding: .6rem 2rem .6rem 0;
+}
+
+.footnote-backref {
+    padding: 1rem;
+}

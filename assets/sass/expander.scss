@@ -1,0 +1,54 @@
+summary {
+  display: flex;
+
+  &:hover,
+  &:focus {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+}
+
+details {
+  position: relative;
+  padding: 1.2rem;
+  background-color: var(--bg-neutral);
+  border-radius: var(--border-radius-m);
+  margin-bottom: 1.2rem;
+}
+
+details[open] > summary {
+  margin-bottom: 0.5rem;
+}
+
+details > summary {
+  list-style-type: none;
+}
+
+details > div,
+summary {
+  margin-left: 3.2rem;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::before {
+  content: '\e145' / '';
+  font-family: "material icons round";
+  font-weight: normal;
+  width: 2.4rem;
+  height: 2.4rem;
+  margin-right: .8rem;
+  text-decoration: none;
+  position: absolute;
+  left: 1.2rem;
+}
+
+details[open] > summary::before {
+  content: '\e15b' / '';
+}
+
+details[open] > summary {
+  font-weight: 700;
+}

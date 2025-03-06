@@ -1,0 +1,9 @@
+{{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+{{ with $related }}
+<h3 id="related">{{ T "related"}}</h3>
+<ul aria-labelledby="related">
+  {{ range . }}
+  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
