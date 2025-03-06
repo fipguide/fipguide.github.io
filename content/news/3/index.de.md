@@ -1,25 +1,11 @@
 ---
-date: "2023-10-18"
+date: "2025-03-06"
 draft: false
-title: "Unglaubliche Entdeckung im Park!"
+title: "FIP-Austritt der finninschen Staatsbahn VR"
 ---
 
-Heute Morgen wurde im Park eine sensationelle Entdeckung gemacht. Ein Spaziergänger fand heraus, dass ein unscheinbarer Baum tatsächlich ein Portal zu einer anderen Dimension ist. 
+Die finnische Staatsbahn VR hat angekündigt zum Ende 2025 aus dem FIP-Programm auszutreten. Der Austritt war ursprünglich schon für 2024 geplant, wurde jedoch um ein Jahr verschoben. Ab dem 01.01.2026 sind FIP-Fahrvergünstigungen für die VR somit nicht mehr verfügbar. Ob der Austritt erneut verschoben wird ist bisher nicht bekannt.
 
-## Die Geschichte
+Ursache dafür könnte der Austritt der VR aus der UIC (Union Internationale des Chemins de fer - internationaler Verband von Eisenbahnunternehmen) darstellen, um Mitgliedsbeiträge einzusparen. Offizielle Stellungnahmen seitens der VR gibt es bisher nicht. Weitere Informationen sind in [finnischen Eisenbahnforen zu finden](https://vaunut.org/keskustelut/index.php?topic=15586.0).
 
-Es begann alles, als Frau Meier, eine regelmäßige Parkbesucherin, sich unter dem Baum ausruhen wollte. Doch anstatt eines ruhigen Moments fand sie sich plötzlich in einer Welt voller fliegender Eichhörnchen und sprechender Blumen wieder. "Es war wie ein Märchen, aber ich war wach!", berichtete Frau Meier.
-
-## Reaktionen
-
-Die anderen Parkbesucher waren zunächst skeptisch, doch nach mehreren erfolgreichen Expeditionen in die "Baum-Dimension" sind sie nun überzeugt. "Es ist unglaublich! Ich habe dort sogar meinen verlorenen Hut wiedergefunden", sagte Herr Schmidt begeistert.
-
-## Wissenschaftliche Untersuchung
-
-Ein Team von Wissenschaftlern wurde bereits beauftragt, das Phänomen zu untersuchen. Erste Theorien deuten darauf hin, dass es sich um eine Art Wurmloch handelt, das durch die spezielle Anordnung der Äste und Blätter im Baum entstanden ist.
-
-## Fazit
-
-Die Entdeckung hat den Park in Aufruhr versetzt und die Spaziergänge sind nun spannender denn je. Wer weiß, welche Geheimnisse der Baum noch birgt? Eines ist sicher: Der Ruheplatz von Frau Meier bleibt vorerst unberührt.
-
-Bleiben Sie dran für weitere Updates aus der "Baum-Dimension"!
+Wir informieren über weitere Informationen sobald bekannt.

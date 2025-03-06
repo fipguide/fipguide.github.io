@@ -1,25 +1,11 @@
 ---
-date: "2023-10-18"
+date: "2025-03-06"
 draft: false
-title: "Incredible Discovery in the Park!"
+title: "FIP withdrawal of Finnish State Railways VR"
 ---
 
-This morning, a sensational discovery was made in the park. A walker found out that an unassuming tree is actually a portal to another dimension.
+The Finnish State Railways VR has announced its withdrawal from the FIP program by the end of 2025. The withdrawal was originally planned for 2024 but was postponed by one year. As of 01.01.2026, FIP travel discounts for VR will no longer be available. It is not yet known whether the withdrawal will be postponed again.
 
-## The Story
+The reason for this could be VR's withdrawal from the UIC (Union Internationale des Chemins de fer - International Union of Railways) to save membership fees. There have been no official statements from VR so far. More information can be found in [Finnish railway forums](https://vaunut.org/keskustelut/index.php?topic=15586.0).
 
-It all started when Mrs. Meier, a regular park visitor, wanted to rest under the tree. But instead of a quiet moment, she suddenly found herself in a world full of flying squirrels and talking flowers. "It was like a fairy tale, but I was awake!" reported Mrs. Meier.
-
-## Reactions
-
-The other park visitors were initially skeptical, but after several successful expeditions into the "tree dimension," they are now convinced. "It's incredible! I even found my lost hat there," said Mr. Schmidt enthusiastically.
-
-## Scientific Investigation
-
-A team of scientists has already been commissioned to investigate the phenomenon. Initial theories suggest that it is a kind of wormhole created by the special arrangement of the branches and leaves in the tree.
-
-## Conclusion
-
-The discovery has stirred up the park, and walks are now more exciting than ever. Who knows what other secrets the tree holds? One thing is certain: Mrs. Meier's resting spot remains untouched for now.
-
-Stay tuned for further updates from the "tree dimension"!
+We will provide further information as soon as it becomes available.
