@@ -38,11 +38,17 @@ a.m-teaser {
   }
 }
 
-header {
-  background-color: #fff;
+//space for fixed header
+main > .o-stage {
+  margin-top: 5.3rem;
 }
 
-main > .container:not(.o-stage) {
+//space for fixed header
+main > .container:first-child {
+  margin-top: 9.3rem;
+}
+
+main > .container {
   margin-top: 4rem;
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
