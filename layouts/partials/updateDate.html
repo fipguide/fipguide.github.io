@@ -3,6 +3,6 @@
 
 {{ if .Date }}
 <div class="updateDate">
-  <time datetime="{{ $dateMachine }}">{{ T "updateDate"}}: {{ $dateHuman }}</time>
+  <time datetime="{{ $dateMachine }}">{{ if ne .Type "news" }}{{ T "updateDate"}}:   {{ end }}{{ $dateHuman }}</time>
 </div>
 {{ end }}
