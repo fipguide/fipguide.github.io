@@ -34,8 +34,9 @@ details > summary::-webkit-details-marker {
 }
 
 summary::before {
-  content: '\e145';
+  content: '\e145' / '';
   font-family: "material icons round";
+  font-weight: normal;
   width: 2.4rem;
   height: 2.4rem;
   margin-right: .8rem;
@@ -45,7 +46,7 @@ summary::before {
 }
 
 details[open] > summary::before {
-  content: '\e15b';
+  content: '\e15b' / '';
 }
 
 details[open] > summary {
