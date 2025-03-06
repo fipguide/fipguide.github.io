@@ -25,7 +25,7 @@ FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-{{< expander "InterCity Express (ICE)" >}}
+{{< expander "InterCity Express (ICE)" category >}}
 **Beschreibung:**  
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden.  
 **Reservierung möglich:** ja  
@@ -35,7 +35,7 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 5,20 € (2. Klasse)
 {{< /expander >}}
 
-{{< expander "InterCity (IC)" >}}
+{{< expander "InterCity (IC)" category >}}
 **Beschreibung:**  
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.  
 **Reservierung möglich:** nein  
@@ -43,7 +43,7 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
 **Kosten für Reservierung:** -
 {{< /expander >}}
 
-{{< expander "Train local oder Lokale trein (L)" >}}
+{{< expander "Train local oder Lokale trein (L)" category >}}
 **Beschreibung:**  
 Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden.  
 **Reservierung möglich:** nein  
@@ -51,7 +51,7 @@ Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften 
 **Kosten für Reservierung:** -
 {{< /expander >}}
 
-{{< expander "Train S oder S-Trein (S)" >}}
+{{< expander "Train S oder S-Trein (S)" category >}}
 **Beschreibung:**  
 Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst.  
 **Reservierung möglich:** nein  
@@ -59,7 +59,7 @@ Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lütti
 **Kosten für Reservierung:** -
 {{< /expander >}}
 
-{{< expander "Train d’heure de pointe oder Piekuurtrein (P)" >}}
+{{< expander "Train d’heure de pointe oder Piekuurtrein (P)" category >}}
 **Beschreibung:**  
 Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden.  
 **Reservierung möglich:** nein  
@@ -67,7 +67,7 @@ Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie
 **Kosten für Reservierung:** -
 {{< /expander >}}
 
-{{< expander "Express (E/EXP/EXTRA)" >}}
+{{< expander "Express (E/EXP/EXTRA)" category >}}
 **Beschreibung:**  
 Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste.  
 **Reservierung möglich:** nein  
@@ -75,7 +75,7 @@ Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten z
 **Kosten für Reservierung:** -
 {{< /expander >}}
 
-{{< expander "Tourist (T)" >}}
+{{< expander "Tourist (T)" category >}}
 **Beschreibung:**  
 Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden.  
 **Reservierung möglich:** nein  

@@ -58,27 +58,6 @@ img {
   height: auto;
 }
 
-details {
-  position: relative;
-  overflow: hidden;
-  padding: 5px;
-}
-
-details[open] summary ~ * {
-  animation: slideDown 0.5s ease-in-out;
-}
-
-@keyframes slideDown {
-  from {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 p {
   margin-bottom: 3.2rem;
 }
