@@ -1,11 +1,18 @@
 summary {
   display: flex;
+
+  &:hover,
+  &:focus {
+    font-weight: 700;
+    text-decoration: underline;
+  }
 }
 
 details {
+  position: relative;
   padding: 1.2rem;
   background-color: var(--bg-neutral);
-  border-radius: var(--border-radius-s);
+  border-radius: var(--border-radius-m);
   margin-bottom: 1.2rem;
 }
 
@@ -17,7 +24,8 @@ details > summary {
   list-style-type: none;
 }
 
-details > div {
+details > div,
+summary {
   margin-left: 3.2rem;
 }
 
@@ -33,6 +41,9 @@ summary::before {
   transition: 0.2s;
   margin-right: .8rem;
   transition: content 0.3s ease;
+  text-decoration: none;
+  position: absolute;
+  left: 1.2rem;
 }
 
 details[open] > summary::before {

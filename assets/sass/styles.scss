@@ -56,6 +56,7 @@ main > .container:not(.o-stage) {
 img {
   width: 100%;
   height: auto;
+  border-radius: var(--border-radius-m);
 }
 
 p {
