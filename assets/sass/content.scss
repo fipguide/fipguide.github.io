@@ -2,3 +2,12 @@
     font-size: 1.3rem;
     margin-bottom: 1.6rem;
 }
+
+code {
+    font-size: inherit;
+    font-weight: 700;
+    color: var(--color-onLight);
+    background-color: var(--bg-accent);
+    padding: .2rem .8rem;
+    border-radius: var(--border-radius-s);
+}
