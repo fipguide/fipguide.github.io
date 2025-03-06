@@ -2,11 +2,8 @@
 <article class="container o-single">
     <h2 data-pagefind-meta="title">{{ .Title }}</h2>
 
-    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-    {{ $dateHuman := .Date | time.Format ":date_long" }}
-    <div class="updateDate">
-        <time datetime="{{ $dateMachine }}">Zuletzt aktualisiert: {{ $dateHuman }}</time>
-    </div>
+    {{ partial "updateDate.html" . }}
+
     <hr>
     <div class="tableOfContents">
         {{ .TableOfContents }}
@@ -16,16 +13,8 @@
     <div class="content" data-pagefind-weight="2">
         {{ .Content }}
     </div>
-    
-    {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-    {{ with $related }}
-        <h3>See Also</h3>
-        <ul>
-        {{ range . }}
-            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-        </ul>
-    {{ end }}
+    <hr>
+    {{ partial "related.html" . }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
 {{ end }}
