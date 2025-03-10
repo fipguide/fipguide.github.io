@@ -1,20 +1,15 @@
 {{ define "main" }}
-<article class="container o-single">
-    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-
-    {{ partial "updateDate.html" . }}
-
-    <hr>
-    <div class="tableOfContents">
-        {{ .TableOfContents }}
+<article class="single-container">
+    <div class="o-single sidemenu">
+        {{ partial "sidemenu.html" . }}
     </div>
-    <hr>
-
-    <div class="content" data-pagefind-weight="2">
-        {{ .Content }}
+    <div class="o-single main">
+        <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+        {{ partial "updateDate.html" . }}
+    
+        <div class="content" data-pagefind-weight="2">
+            {{ .Content }}
+        </div>
     </div>
-    <hr>
-    {{ partial "related.html" . }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
 {{ end }}

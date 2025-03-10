@@ -1,0 +1,15 @@
+.toc li {
+    list-style-type: none;
+  }
+
+.toc ol {
+    padding: 0 0 0 1em;
+}
+
+.toc > ol {
+    padding-left: 0;
+}
+
+.toc-title {
+    font-weight: bold;
+}
