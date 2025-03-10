@@ -59,6 +59,19 @@ main > .container {
   }
 }
 
+main > .single-container {
+  margin-top: 7.3rem;
+  display: flex;
+  padding: 2rem;
+  align-items: flex-start;
+  gap: 2rem;
+
+  @include media-breakpoint-down(sm) {
+    margin-top: 1.6rem;
+  }
+}
+
+
 img {
   width: 100%;
   height: 100%;
@@ -81,4 +94,14 @@ article p:last-child {
   @include media-breakpoint-down(sm) {
     max-width: calc(100% - 3.6rem);
   }
+}
+
+.o-single {
+  padding: 2rem;
+  background-color: var(--bg-default);
+  border-radius: var(--border-radius-l);
+}
+
+.main {
+  flex-basis: 70%;
 }

@@ -1,0 +1,20 @@
+.sidemenu{
+    flex-basis: 30%;
+    position: sticky;
+    top: 92px;
+}
+
+.tableOfContents {
+    font-size: 1.4rem;
+    line-height: 1.5;
+}
+
+.tableOfContents ul {
+    list-style-type: none;
+    list-style-position: outside;
+    padding-left: 0;
+}
+
+.tableOfContents a {
+    text-decoration-line: none;
+}

@@ -1,0 +1,145 @@
+{{- /* Last modified: 2025-03-08T12:47:53-08:00 */}}
+
+{{- /*
+Copyright 2023 Veriphor, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Renders a table of contents by walking .Page.Fragments.Headings.
+
+In site configuration, set the default start level, end level, and the minimum
+number of headings required to show the table of contents:
+
+    [params.toc]
+    startLevel = 2      # default is 2
+    endLevel = 3        # default is 3
+    minNumHeadings = 2  # default is 2
+
+To display the table of contents on a page:
+
+    +++
+    title = 'Post 1'
+    toc = true
+    +++
+
+To display the table of contents on a page, and override one or more of the
+default settings:
+
+    +++
+    title = 'Post 1'
+    [toc]
+    startLevel = 2      # default is 2
+    endLevel = 3        # default is 3
+    minNumHeadings = 2  # default is 2
+    +++
+
+Start with these basic CSS rules to style the table of contents:
+
+    .toc li {
+      list-style-type: none;
+    }
+    .toc ol {
+      padding: 0 0 0 1em;
+    }
+    .toc > ol {
+      padding-left: 0;
+    }
+    .toc-title {
+      font-weight: bold;
+    }
+
+@context {page} .
+
+@returns {template.HTML}
+
+@example {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
+*/}}
+
+{{- /* Initialize. */}}
+{{- $partialName := "toc-walk" }}
+
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.125.6" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
+{{- end }}
+
+{{- /* Determine content path for warning and error messages. */}}
+{{- $contentPath := "" }}
+{{- with .File }}
+  {{- $contentPath = .context.Path }}
+{{- else }}
+  {{- $contentPath = .context.Path }}
+{{- end }}
+
+{{- /* Check for duplicate heading IDs. */}}
+{{- $duplicateIDs := slice }}
+{{- range .context.Fragments.Identifiers }}
+  {{- if gt ($.Fragments.Identifiers.Count .) 1 }}
+    {{- $duplicateIDs = $duplicateIDs | append . }}
+  {{- end }}
+{{- end }}
+{{- with $duplicateIDs | uniq }}
+  {{- errorf "The %q partial detected duplicate heading IDs (%s) in %s" $partialName (delimit . ", ") $contentPath }}
+{{- end }}
+
+{{- /* Render. */}}
+{{- if .context.Params.toc }}
+  {{- with .context.Fragments.Headings }}
+    {{- $startLevel := or ($.startLevel | int ) ($.context.Param "toc.startLevel" | int) 2 }}
+    {{- $endLevel := or ($.endLevel | int ) ($.context.Param "toc.endLevel" | int) 3 }}
+    {{- $numHeadings := where (sort $.context.Fragments.HeadingsMap) "Level" "in" (seq $startLevel $endLevel) | len }}
+    {{- if ge $numHeadings (or ($.context.Param "toc.minNumHeadings" | int) 2) }}
+      <nav class="toc">
+        <ol>
+          {{- $ctx := dict
+            "page" $.context
+            "contentPath" $contentPath
+            "partialName" $partialName
+            "startLevel" $startLevel
+            "endLevel" $endLevel
+            "headings" .
+          }}
+          {{- partial "inline/toc/walk.html" $ctx }}
+        </ol>
+      </nav>
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Recursively walk the headings. */}}
+{{- define "partials/inline/toc/walk.html" }}
+  {{- $ctx := . }}
+  {{- range $ctx.headings }}
+    {{- if and (ge .Level $ctx.startLevel) (le .Level $ctx.endLevel) }}
+      <li>
+        {{- if not .ID }}
+          {{- errorf "The %q partial detected that the %q heading has an empty ID attribute. See %s" $ctx.partialName .Title $ctx.contentPath }}
+        {{- end }}
+        {{- $href := printf "%s#%s" $ctx.page.RelPermalink .ID }}
+        <a href="{{ $href }}">{{ .Title | plainify | safeHTML }}</a>
+        {{- with and (lt .Level $ctx.endLevel) .Headings }}
+          <ol>
+            {{- $ctx = merge $ctx (dict "headings" .) }}
+            {{- partial "inline/toc/walk.html" $ctx }}
+          </ol>
+        {{- end }}
+      </li>
+    {{- else }}
+      {{- $ctx = merge $ctx (dict "headings" .Headings) }}
+      {{- partial "inline/toc/walk.html" $ctx }}
+    {{- end }}
+  {{- end }}
+{{- end }}
