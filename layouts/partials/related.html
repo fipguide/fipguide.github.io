@@ -1,5 +1,6 @@
 {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
 {{ with $related }}
+<hr>
 <h3 id="related">{{ T "related"}}</h3>
 <ul aria-labelledby="related">
   {{ range . }}
