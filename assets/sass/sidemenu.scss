@@ -12,6 +12,19 @@
         margin-right: 1.2rem;
         margin-bottom: 0;
     }
+
+    .o-single__backlink {
+        display: flex;
+
+        i {
+            margin-right: .4rem;
+        }
+
+        span {
+            align-self: center;
+        }
+    }
+
 }
 
 .tableOfContents ul {
