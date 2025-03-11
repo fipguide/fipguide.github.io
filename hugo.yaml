@@ -27,12 +27,17 @@ module:
       target: "static"
 
 related:
+ includeNewer: true
  indices:
    - name: country
-     weight: 1
-     includeNewer: true
+     weight: 100
 
 markup:
   tableOfContents:
     startLevel: 2
     endLevel: 2
+
+cascade:
+  toc: true # enable toc for all pages
+  target:
+    kind: 'page'

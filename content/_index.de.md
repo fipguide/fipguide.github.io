@@ -6,6 +6,8 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 
 Momentan gibt es die Infos für die Länder **Belgien** und **Slowakei**.
 
+Der aktuellen Bearbeitungsstand der Informationen für Betreiber ist hier zu finden: [Content Status](https://github.com/orgs/fipguide/projects/3)
+
 ### Unterstütze uns
 Du möchtest dein Wissen rund um FIP-Regelungen teilen? Schau auf unserem [GitHub Repository](https://github.com/fipguide/fipguide.github.io) vorbei, um Inhalte beizutragen.
 Alternativ kannst du uns auch über das [Kontaktformular]({{< ref "contact" >}}) schreiben.
