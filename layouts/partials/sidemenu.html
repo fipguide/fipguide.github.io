@@ -5,10 +5,12 @@
         {{ with $related }}
             {{ range . }}
                 {{ if eq .Page.Type "country" }}
-                <a href="{{ .RelPermalink }}" class="o-single__backlink">
-                    <i class="material-icons-round" aria-hidden="true">arrow_back</i>
-                    <span>{{ .LinkTitle }}</span>
-                </a>
+                <li>
+                    <a href="{{ .RelPermalink }}" class="o-single__backlink">
+                        <i class="material-icons-round" aria-hidden="true">arrow_back</i>
+                        <span>{{ .LinkTitle }}</span>
+                    </a>
+                </li>
                 {{ end }}
             {{ end }}
         {{ end }}
