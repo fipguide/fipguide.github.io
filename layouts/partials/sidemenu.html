@@ -1,48 +1,50 @@
-<div class="tableOfContents">
-    {{ if eq .Page.Type "operator" }}
-    <ul>
-        {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-        {{ with $related }}
-            {{ range . }}
-                {{ if eq .Page.Type "country" }}
-                <a href="{{ .RelPermalink }}"><i class="material-icons-round" aria-hidden="true">arrow_back</i>{{ .LinkTitle }}</a><br>
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    </ul>
-    {{ end }}
-
-    <h3 id="related">{{ T "toc_name"}}</h3>
-    {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
-
-    {{ if eq .Page.Type "country" }}
-        <h3 id="related">{{ T "_operator__list_title"}}</h3>
+<div class="o-single__container o-single__container--sidemenu">
+    <div class="tableOfContents">
+        {{ if eq .Page.Type "operator" }}
         <ul>
             {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
             {{ with $related }}
                 {{ range . }}
-                <li aria-labelledby="related"><details>
-                    <summary><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></summary>
-                    {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 2 ) }}
-                </details></li>
+                    {{ if eq .Page.Type "country" }}
+                    <a href="{{ .RelPermalink }}"><i class="material-icons-round" aria-hidden="true">arrow_back</i>{{ .LinkTitle }}</a><br>
+                    {{ end }}
                 {{ end }}
             {{ end }}
         </ul>
-    {{ end }}
-    {{ if eq .Page.Type "operator" }}
-        <h3 id="related">{{ T "_operator__nearby"}}</h3>
-        <ul>
-            {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-            {{ with $related }}
-                {{ range . }}
-                    {{ if eq .Page.Type "operator" }}
+        {{ end }}
+
+        <h3 id="related">{{ T "toc_name"}}</h3>
+        {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
+
+        {{ if eq .Page.Type "country" }}
+            <h3 id="related">{{ T "_operator__list_title"}}</h3>
+            <ul>
+                {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+                {{ with $related }}
+                    {{ range . }}
                     <li aria-labelledby="related"><details>
                         <summary><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></summary>
                         {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 2 ) }}
                     </details></li>
                     {{ end }}
                 {{ end }}
-            {{ end }}
-        </ul>
-    {{ end }}
+            </ul>
+        {{ end }}
+        {{ if eq .Page.Type "operator" }}
+            <h3 id="related">{{ T "_operator__nearby"}}</h3>
+            <ul>
+                {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+                {{ with $related }}
+                    {{ range . }}
+                        {{ if eq .Page.Type "operator" }}
+                        <li aria-labelledby="related"><details>
+                            <summary><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></summary>
+                            {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 2 ) }}
+                        </details></li>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </ul>
+        {{ end }}
+    </div>
 </div>

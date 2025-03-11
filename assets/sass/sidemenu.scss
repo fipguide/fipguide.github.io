@@ -1,7 +1,14 @@
-.sidemenu{
-    flex-basis: 30%;
+.o-single__container--sidemenu {
     position: sticky;
     top: 92px;
+
+    margin-right: 0;
+    margin-bottom: 1.2rem;
+
+    @include media-breakpoint-up(lg) {
+        margin-right: 1.2rem;
+        margin-bottom: 0;
+    }
 }
 
 .tableOfContents {

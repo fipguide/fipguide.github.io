@@ -1,18 +1,22 @@
 {{ define "main" }}
-<article class="single-container">
-    <div class="o-single sidemenu">
-        {{ partial "sidemenu.html" . }}
-    </div>
-    <div class="o-single main">
-        <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-        {{ partial "updateDate.html" . }}
-
-        <div class="content" data-pagefind-weight="2">
-            {{ .Content }}
+<article class="container o-single o-single--with-sidemenu">
+    <div class="row">
+        <div class="col-12 col-lg-4">
+            {{ partial "sidemenu.html" . }}
         </div>
-    </div>
 
-    {{ partial "related.html" . }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+        <div class="col-12 col-lg-8">
+            <div class="o-single__container">
+                <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+                {{ partial "updateDate.html" . }}
+
+                <div class="content" data-pagefind-weight="2">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </div>
 </article>
 {{ end }}
