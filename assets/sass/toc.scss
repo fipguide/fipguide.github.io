@@ -13,3 +13,8 @@
 .toc-title {
     font-weight: bold;
 }
+
+.toc a[data-current] {
+    font-weight: bold;
+    color: #007bff;
+}
