@@ -17,6 +17,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 ## Validity of FIP Tickets
 
 FIP voucher: ✅  
+FIP voucher relatives: ✅  
 FIP 50 tickets: ✅
 
 FIP vouchers and FIP 50 tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP vouchers from both countries must be available.

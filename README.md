@@ -1,11 +1,11 @@
-# FIPGuide
+# FIP Guide
 
 - [English](#-english)
 - [Deutsch](#-deutsch)
 
 ## 🇬🇧 English
 
-Welcome to FIPGuide
+Welcome to FIP Guide
 
 The community website for all information about FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - The association for international travel benefits for railway staff.
 With this international discount card for railway staff, employees can use trains, ships, and buses in Europe at reduced rates.

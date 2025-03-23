@@ -61,7 +61,7 @@ function initHighlightHeadline() {
 			{
 				//? docHeight: Extend the detection above the heading so it's always considered as intersecting if above the scrollport
 				//? -33%: The element won't be considered as intersecting until it has gone _above_ the bottom third of the scrollport
-				rootMargin: `${docHeight}px 0px -33% 0px`,
+				rootMargin: `${docHeight}px 0px -80% 0px`,
 				threshold: 1, // Only considered intersecting if all the pixels are inside the intersection area
 			}
 		);
