@@ -6,7 +6,7 @@
             {{ range . }}
                 {{ if eq .Page.Type "country" }}
                 <li>
-                    <a href="{{ .RelPermalink }}" class="o-single__backlink">
+                    <a href="{{ .RelPermalink }}" class="o-single__relatedLink">
                         <i class="material-icons-round" aria-hidden="true">arrow_back</i>
                         <span>{{ T "toc-backlink"}}: {{ .LinkTitle }}</span>
                     </a>
@@ -26,10 +26,12 @@
             {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
             {{ with $related }}
                 {{ range . }}
-                <li><details>
-                    <summary><a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></summary>
-                    {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 2 ) }}
-                </details></li>
+                <li>
+                    <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                        <i class="material-icons-round" aria-hidden="true">arrow_forward</i>
+                        {{ .LinkTitle }}
+                    </a>
+                </li>
                 {{ end }}
             {{ end }}
         </ul>
@@ -41,10 +43,12 @@
             {{ with $related }}
                 {{ range . }}
                     {{ if eq .Page.Type "operator" }}
-                    <li><details>
-                        <summary><a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></summary>
-                        {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 2 ) }}
-                    </details></li>
+                    <li>
+                        <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                            <i class="material-icons-round" aria-hidden="true">arrow_forward</i>
+                            {{ .LinkTitle }}
+                        </a>
+                    </li>
                     {{ end }}
                 {{ end }}
             {{ end }}

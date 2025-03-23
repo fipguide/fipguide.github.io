@@ -1,6 +1,6 @@
 .o-single__container--sidemenu {
     position: sticky;
-    top: 92px;
+    top: 8rem;
 
     font-size: 1.4rem;
     line-height: 1.5;
@@ -13,8 +13,9 @@
         margin-bottom: 0;
     }
 
-    .o-single__backlink {
+    .o-single__relatedLink {
         display: flex;
+        align-items: center;
 
         i {
             margin-right: .4rem;
