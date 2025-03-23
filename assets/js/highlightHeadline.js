@@ -97,7 +97,7 @@ if (document.readyState === "interactive") {
 } else {
 	window.addEventListener("DOMContentLoaded", () => {
 		if (document.getElementById('aside')) {
-			//initHighlightHeadline();
+			initHighlightHeadline();
 		}
 	});
 }
