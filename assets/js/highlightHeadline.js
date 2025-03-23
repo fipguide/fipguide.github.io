@@ -1,5 +1,4 @@
 function initHighlightHeadline() {
-	//TODO: Die Highlight Funktion ist noch im Debug Modus. Folgendes ist noch zu tun: -Hight-Aktivierunglevel anpassen, Regelung für Seitentitel Finden (z.B. SNCB), Debug Logs entfernen
 
 	// In this site's layout, the table of contents (.content_with_heading) is an element that appears before any other content at the same hierarchy level
 	const headings = Array.from(document.querySelectorAll('.content_with_heading :is(h1, h2, h3, h4)'));
@@ -42,19 +41,18 @@ function initHighlightHeadline() {
 				headings.forEach((heading) => {
 
 					// If it's the last visible item, mark it to make it stand out, else, revert to the default style
-
-						// Find the link in the TOC list matching the heading in this list of hheding elements
-						const tocLink = getTocLinkFromHeading(heading);
-						if (heading === lastVisible) {
-							asideMobileCurrentHeadline.textContent = heading.textContent;
-							if(tocLink){
-								markTocItemActive(tocLink);
-							}
-						} else {
-							if(tocLink){
-								markTocItemInactive(tocLink);
-							}
+					// Find the link in the TOC list matching the heading in this list of hheding elements
+					const tocLink = getTocLinkFromHeading(heading);
+					if (heading === lastVisible) {
+						asideMobileCurrentHeadline.textContent = heading.textContent;
+						if(tocLink){
+							markTocItemActive(tocLink);
 						}
+					} else {
+						if(tocLink){
+							markTocItemInactive(tocLink);
+						}
+					}
 				});
 			},
 			{
@@ -66,7 +64,7 @@ function initHighlightHeadline() {
 		);
 
 		headings.forEach((heading) => observer.observe(heading));
-
+		
 		return observer;
 	}
 
