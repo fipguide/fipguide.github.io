@@ -63,5 +63,9 @@
                 {{ end }}
             </ul>
         {{ end }}
+        <i class="material-icons-round" aria-hidden="true">edit_square</i>
+        <a href="{{ .Site.Params.githubDevUrl }}blob/main/content{{ .Path }}/index.{{ .Language }}.md" target="_blank" rel="noopener noreferrer">
+        {{ T "editPage"}}
+        </a>
     </div>
 </aside>
