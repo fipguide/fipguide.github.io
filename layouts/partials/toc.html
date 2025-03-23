@@ -102,8 +102,8 @@ Start with these basic CSS rules to style the table of contents:
     {{- $endLevel := or ($.endLevel | int ) ($.context.Param "toc.endLevel" | int) 3 }}
     {{- $numHeadings := where (sort $.context.Fragments.HeadingsMap) "Level" "in" (seq $startLevel $endLevel) | len }}
     {{- if ge $numHeadings (or ($.context.Param "toc.minNumHeadings" | int) 2) }}
-      <nav class="toc">
-        <ol>
+      <nav class="toc" aria-labelledby="toc">
+        <ul>
           {{- $ctx := dict
             "page" $.context
             "contentPath" $contentPath
@@ -113,7 +113,7 @@ Start with these basic CSS rules to style the table of contents:
             "headings" .
           }}
           {{- partial "inline/toc/walk.html" $ctx }}
-        </ol>
+        </ul>
       </nav>
     {{- end }}
   {{- end }}
