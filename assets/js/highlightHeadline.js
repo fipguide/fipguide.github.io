@@ -92,12 +92,12 @@ function initHighlightHeadline() {
 
 if (document.readyState === "interactive") {
 	if (document.getElementById('aside')) {
-		initHighlightHeadline();
+		//initHighlightHeadline();
 	}
 } else {
 	window.addEventListener("DOMContentLoaded", () => {
 		if (document.getElementById('aside')) {
-			initHighlightHeadline();
+			//initHighlightHeadline();
 		}
 	});
 }

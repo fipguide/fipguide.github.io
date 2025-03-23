@@ -129,7 +129,7 @@ Start with these basic CSS rules to style the table of contents:
           {{- errorf "The %q partial detected that the %q heading has an empty ID attribute. See %s" $ctx.partialName .Title $ctx.contentPath }}
         {{- end }}
         {{- $href := printf "%s#%s" $ctx.page.RelPermalink .ID }}
-        <a href="{{ $href }}">{{ .Title | plainify | safeHTML }}</a>
+        <a href="{{ $href }}" class="toc-link">{{ .Title | plainify | safeHTML }}</a>
         {{- with and (lt .Level $ctx.endLevel) .Headings }}
           <ol>
             {{- $ctx = merge $ctx (dict "headings" .) }}

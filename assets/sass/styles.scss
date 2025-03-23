@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  z-index: 3;
+  z-index: 4;
   position: relative;
 }
 
@@ -44,7 +44,8 @@ main > .o-stage {
 }
 
 //space for fixed header
-main > .container:first-child {
+main > .container.o-single,
+main > .container.o-list {
   margin-top: 8rem;
 }
 

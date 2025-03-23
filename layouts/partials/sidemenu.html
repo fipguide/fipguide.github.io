@@ -1,9 +1,11 @@
-<aside id="aside" class="o-single__container o-single__container--sidemenu tableOfContents">
-    <div class="mobile">
-        <div>Hier steht meine aktuelle Überschrift</div>
-        <i class="material-icons-round" aria-hidden="true">list</i>
+<aside id="aside" class="o-single__container o-aside tableOfContents">
+    <div class="o-aside__mobile o-aside__mobile-container1 o-aside__mobile-container--open" id="lennis-id">
+        <button>
+            <div>Hier steht meine aktuelle Überschrift</div>
+            <i class="material-icons-round" aria-hidden="true">list</i>
+        </button>
     </div>
-    <div>
+    <div class="o-aside__mobile-container2">
         {{ if eq .Page.Type "operator" }}
         <ul>
             {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
