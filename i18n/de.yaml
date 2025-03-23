@@ -15,9 +15,13 @@ information-disclaimer-short: Diese Informationen sind inoffiziell und ohne Gew�
 highlight-important: Wichtige Information
 highlight-inofficial: Inoffizielle Information
 highlight-tip: Persönlicher Tipp
-news-headline: Was gibt's neues?
+news-headline: Was gibt's Neues?
 _operator__list_title: Betreiber
 _country__list_title: Länder
 _news__list_title: Neuigkeiten
 updateDate: Zuletzt aktualisiert
 related: Verwandte Seiten
+toc_name: Inhalt
+_operator__nearby: Angrenzende Betreiber
+toc-backlink: Zurück zu
+editPage: Seite bearbeiten

@@ -1,11 +1,11 @@
-# FIPGuide
+# FIP Guide
 
 - [English](#-english)
 - [Deutsch](#-deutsch)
 
 ## 🇬🇧 English
 
-Welcome to FIPGuide
+Welcome to FIP Guide
 
 The community website for all information about FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - The association for international travel benefits for railway staff.
 With this international discount card for railway staff, employees can use trains, ships, and buses in Europe at reduced rates.
@@ -13,6 +13,8 @@ This project includes information and usage instructions for FIP as well as spec
 
 Contributing and providing information is always welcome.  
 Instructions for editing information can be found [here in the Wiki](https://github.com/fipguide/fipguide.github.io/wiki/English).
+
+You can see the current information status for operators here: [Content Status](https://github.com/orgs/fipguide/projects/3) 
 
 ❤️ A project by railway workers for railway workers.
 
@@ -29,6 +31,8 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 
 Die Mitarbeit und das Beitragen von Informationen sind immer willkommen.  
 Eine Anleitung zum Bearbeiten von Informationen befindet sich [hier im Wiki](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
+
+Der aktuellen Bearbeitungsstand der Informationen für Betreiber ist hier zu finden: [Content Status](https://github.com/orgs/fipguide/projects/3)
 
 ❤️ Ein Projekt von Bahnern für Bahner.
 

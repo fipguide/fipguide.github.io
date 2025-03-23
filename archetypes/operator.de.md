@@ -25,6 +25,7 @@ Z.B.
 ## Gültigkeit FIP-Tickets
 
 FIP-Freifahrtsschein: <✅/⛔>  
+FIP-Freifahrt Angehörige: <✅/⛔>  
 FIP 50 Tickets: <✅/⛔>
 
 <

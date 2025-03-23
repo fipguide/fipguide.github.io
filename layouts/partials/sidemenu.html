@@ -1,0 +1,71 @@
+<aside id="aside" class="o-single__container o-aside tableOfContents">
+    <div class="o-aside__mobile o-aside__mobile-container1 o-aside__mobile-container--open">
+        <button>
+            <div id="aside_mobile_current_headline">{{ .Title }}</div>
+            <i class="material-icons-round" aria-hidden="true">list</i>
+        </button>
+    </div>
+    <div class="o-aside__mobile-container2">
+        {{ if eq .Page.Type "operator" }}
+        <ul>
+            {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+            {{ with $related }}
+                {{ range . }}
+                    {{ if eq .Page.Type "country" }}
+                    <li>
+                        <a href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                            <i class="material-icons-round" aria-hidden="true">arrow_back</i>
+                            <span>{{ T "toc-backlink"}}: {{ .LinkTitle }}</span>
+                        </a>
+                    </li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </ul>
+        {{ end }}
+
+        <h3 id="toc">{{ .Title }}</h3>
+        {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
+
+        {{ if eq .Page.Type "country" }}
+            <h3 id="related">{{ T "_operator__list_title"}}</h3>
+            <ul aria-labelledby="related">
+                {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+                {{ with $related }}
+                    {{ range . }}
+                    <li>
+                        <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                            <i class="material-icons-round" aria-hidden="true">arrow_forward</i>
+                            {{ .LinkTitle }}
+                        </a>
+                    </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        {{ end }}
+        {{ if eq .Page.Type "operator" }}
+            {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+            {{ with $related }}
+            {{ if gt (len $related) 1 }}
+            <h3 id="related">{{ T "_operator__nearby"}}</h3>
+            {{ end }}
+            <ul aria-labelledby="related">
+                    {{ range . }}
+                        {{ if eq .Page.Type "operator" }}
+                        <li>
+                            <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                                <i class="material-icons-round" aria-hidden="true">arrow_forward</i>
+                                {{ .LinkTitle }}
+                            </a>
+                        </li>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </ul>
+        {{ end }}
+        <i class="material-icons-round" aria-hidden="true">edit_square</i>
+        <a href="{{ .Site.Params.githubDevUrl }}blob/main/content{{ .Path }}/index.{{ .Language }}.md" target="_blank" rel="noopener noreferrer">
+        {{ T "editPage"}}
+        </a>
+    </div>
+</aside>

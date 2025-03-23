@@ -1,19 +1,25 @@
 {{ define "main" }}
-<article class="container o-single">
-    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+<div class="curtain" aria-hidden="true"></div>
+<article class="container o-single o-single--with-sidemenu">
+    <div class="row">
+        <div class="col-12 col-lg-4">
+            {{ partial "sidemenu.html" . }}
+        </div>
 
-    {{ partial "updateDate.html" . }}
+        <div class="col-12 col-lg-8">
+            <div class="o-single__container content_with_heading">
+                <div class="o-single__header">
+                    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+                    {{ partial "updateDate.html" . }}
+                </div>
 
-    <hr>
-    <div class="tableOfContents">
-        {{ .TableOfContents }}
+                <div class="content" data-pagefind-weight="2">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
     </div>
-    <hr>
-    <div class="content" data-pagefind-weight="3">
-        {{ .Content }}
-    </div>
-    <hr>
-    {{ partial "related.html" . }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
 {{ end }}

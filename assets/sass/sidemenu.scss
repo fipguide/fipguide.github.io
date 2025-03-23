@@ -1,0 +1,74 @@
+.o-aside {
+    position: sticky;
+    top: 8rem;
+
+    font-size: 1.4rem;
+    line-height: 1.5;
+
+    margin-right: 0;
+    margin-bottom: 1.2rem;
+
+    z-index: 3;
+
+    @include media-breakpoint-up(lg) {
+        margin-right: 1.2rem;
+        margin-bottom: 0;
+    }
+
+    @include media-breakpoint-down(lg) {
+        display: none;
+    }
+
+    .o-single__relatedLink {
+        display: flex;
+        align-items: center;
+
+        i {
+            margin-right: .4rem;
+        }
+
+        span {
+            align-self: center;
+        }
+    }
+
+    //TODO: Bessere Benamung
+    .o-aside__mobile-container1 {
+        display: none;
+
+        button {
+            display: flex;
+            border: 0;
+            width: 100%;
+            border-radius: var(--border-radius-m);
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
+
+    //TODO: Bessere Benamung
+    .o-aside__mobile-container2 {
+        display: block;
+
+        @include media-breakpoint-down(lg) {
+            display: none;
+            justify-content: space-between;
+        }
+    }
+
+    .o-aside__mobile-container--open {
+        @include media-breakpoint-down(lg) {
+            display: block;
+        }
+    }
+}
+
+.tableOfContents ul {
+    list-style-type: none;
+    list-style-position: outside;
+    padding-left: 0;
+}
+
+.tableOfContents a {
+    text-decoration-line: none;
+}
