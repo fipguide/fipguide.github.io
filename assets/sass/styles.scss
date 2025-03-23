@@ -99,6 +99,13 @@ article p:last-child {
   }
 }
 
+.o-single__header {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
+  column-gap: 2rem;
+}
+
 .o-single__container {
   background-color: var(--bg-default);
   padding: 2rem;

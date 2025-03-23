@@ -7,8 +7,10 @@
 
         <div class="col-12 col-lg-8">
             <div class="o-single__container">
-                <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-                {{ partial "updateDate.html" . }}
+                <div class="o-single__header">
+                    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+                    {{ partial "updateDate.html" . }}
+                </div>
 
                 <div class="content" data-pagefind-weight="2">
                     {{ .Content }}
