@@ -15,6 +15,10 @@
         margin-bottom: 0;
     }
 
+    @include media-breakpoint-down(lg) {
+        display: none;
+    }
+
     .o-single__relatedLink {
         display: flex;
         align-items: center;
