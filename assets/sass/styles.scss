@@ -104,6 +104,12 @@ article p:last-child {
   justify-content: space-between;
   flex-flow: wrap;
   column-gap: 2rem;
+  margin-bottom: 1.6rem;
+  align-items: center;
+
+  h2 {
+    margin-bottom: 0;
+  }
 }
 
 .o-single__container {
