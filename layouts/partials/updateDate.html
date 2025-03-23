@@ -1,11 +1,6 @@
 {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
 {{ $dateHuman := .Date | time.Format ":date_long" }}
 
-<i class="material-icons-round" aria-hidden="true">edit_square</i>
-<a href="{{ .Site.Params.githubDevUrl }}blob/main/content{{ .Path }}/index.{{ .Language }}.md" target="_blank" rel="noopener noreferrer">
-  Edit this page
-</a>
-
 {{ if .Date }}
 <div class="updateDate">
   {{ if ne .Type "news" }}
