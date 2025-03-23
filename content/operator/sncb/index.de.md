@@ -160,7 +160,7 @@ Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freif
 
 ## Erfahrungen
 
-{{< highlight inofficial "1. Klasse" >}}
+{{< highlight inofficial >}}
 Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets benutzt. Auch ist die 1. Klasse meist nicht viel komfortabler als die 2. Klasse. Anders als in anderen Ländern lohnt sich daher ein Kauf von 1. Klasse Tickets, um hier mehr Platz und Ruhe zu haben, nur bedingt.
 {{< /highlight >}}
 

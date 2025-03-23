@@ -1,4 +1,3 @@
 <div class="m-text-highlight m-text-highlight--{{ (.Get 0) | markdownify }}" aria-label='{{ T (printf "highlight-%s" (.Get 0)) }}'>
-    <h2>{{ (.Get 1) }}</h2>
     <p>{{ .Inner | markdownify }}</p>
 </div>

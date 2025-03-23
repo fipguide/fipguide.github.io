@@ -157,7 +157,7 @@ For connections to and from Brussels Zaventem Airport, a surcharge must be paid 
 
 ## Experiences
 
-{{< highlight inofficial "First class" >}}
+{{< highlight inofficial >}}
 The first class in SNCB / NMBS trains is often used with second class tickets. Also, the 1st class is usually not much more comfortable than the second class. Unlike in other countries, buying first class tickets to have more space and quiet is only worthwhile to a limited extent.
 {{< /highlight >}}
 
