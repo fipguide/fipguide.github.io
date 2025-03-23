@@ -1,17 +1,16 @@
-document.addEventListener('DOMContentLoaded', () => {
-
-    //TODO: Die Highlight Funktion ist noch im Debug Modus. Folgendes ist noch zu tun: -Hight-Aktivierunglevel anpassen, Regelung für Seitentitel Finden (z.B. SNCB), Debug Logs entfernen
+function initHighlightHeadline() {
+	//TODO: Die Highlight Funktion ist noch im Debug Modus. Folgendes ist noch zu tun: -Hight-Aktivierunglevel anpassen, Regelung für Seitentitel Finden (z.B. SNCB), Debug Logs entfernen
 
 	// In this site's layout, the table of contents (.content) is an element that appears before any other content at the same hierarchy level
-    const headings = Array.from(document.querySelectorAll('.content :is(h2, h3, h4)'));
-    const windowPath = window.location.pathname;
+	const headings = Array.from(document.querySelectorAll('.content :is(h2, h3, h4)'));
+	const windowPath = window.location.pathname;
 	if (headings.length === 0) {
 		return; // No headings? No business here
 	}
 
 	// A few helper functions (.toc is the top-level ordered list)
 	const markTocItemActive = (a) => {return a.setAttribute('data-current', '');}
-	const markTocItemInactive = (a) => {return a.removeAttribute('data-current');};   
+	const markTocItemInactive = (a) => {return a.removeAttribute('data-current');};
 	const getTocLinkFromHeading = (h) => {return document.querySelector(`.toc a[href="${windowPath}#${encodeURIComponent(h.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`);}
 
 	const getDocHeight = () => Math.floor(document.body.clientHeight);
@@ -45,16 +44,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
 					// If it's the last visible item, mark it to make it stand out, else, revert to the default style
 					if (heading === lastVisible) {
-                        console.log(`ACTIVE`);
-                        console.log(heading);
-                        console.log(`.toc a[href="${windowPath}#${encodeURIComponent(heading.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`)
-                        console.log(tocLink);
+						console.log(`ACTIVE`);
+						console.log(heading);
+						console.log(`.toc a[href="${windowPath}#${encodeURIComponent(heading.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`)
+						console.log(tocLink);
 						markTocItemActive(tocLink);
 					} else {
-                        console.log(`INACTIVE`);
-                        console.log(heading);
-                        console.log(`.toc a[href="${windowPath}#${encodeURIComponent(heading.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`)
-                        console.log(tocLink);
+						console.log(`INACTIVE`);
+						console.log(heading);
+						console.log(`.toc a[href="${windowPath}#${encodeURIComponent(heading.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`)
+						console.log(tocLink);
 						markTocItemInactive(tocLink);
 					}
 				});
@@ -89,4 +88,16 @@ document.addEventListener('DOMContentLoaded', () => {
 			}
 		}, 200);
 	});
-});
+}
+
+if (document.readyState === "interactive") {
+	if (document.getElementById('aside')) {
+		initHighlightHeadline();
+	}
+} else {
+	window.addEventListener("DOMContentLoaded", () => {
+		if (document.getElementById('aside')) {
+			initHighlightHeadline();
+		}
+	});
+}
