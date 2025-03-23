@@ -41,3 +41,6 @@ cascade:
   toc: true # enable toc for all pages
   target:
     kind: 'page'
+
+params:
+  githubDevUrl: 'https://github.dev/fipguide/fipguide.github.io/'
