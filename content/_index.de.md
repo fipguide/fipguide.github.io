@@ -1,4 +1,4 @@
-## Willkommen beim FIP-Guide!
+## Willkommen beim FIP Guide!
 
 Die Community-Website für alle Informationen zu FIP (Groupement pour les facilités de circulation internationales du personnel des chemins de fer) - Die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals.
 Mit dieser internationalen Ermäßigungskarte für Eisenbahnpersonal können Mitarbeiterinnen und Mitarbeiter zu vergünstigten Konditionen in Europa beispielsweise Züge, Schiffe und Busse nutzen.

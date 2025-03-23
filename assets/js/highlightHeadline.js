@@ -1,8 +1,8 @@
 function initHighlightHeadline() {
-	//TODO: Die Highlight Funktion ist noch im Debug Modus. Folgendes ist noch zu tun: -Hight-Aktivierunglevel anpassen, Regelung für Seitentitel Finden (z.B. SNCB), Debug Logs entfernen
 
-	// In this site's layout, the table of contents (.content) is an element that appears before any other content at the same hierarchy level
-	const headings = Array.from(document.querySelectorAll('.content :is(h2, h3, h4)'));
+	// In this site's layout, the table of contents (.content_with_heading) is an element that appears before any other content at the same hierarchy level
+	const headings = Array.from(document.querySelectorAll('.content_with_heading :is(h1, h2, h3, h4)'));
+	const asideMobileCurrentHeadline = document.getElementById('aside_mobile_current_headline');
 	const windowPath = window.location.pathname;
 	if (headings.length === 0) {
 		return; // No headings? No business here
@@ -39,40 +39,40 @@ function initHighlightHeadline() {
 				}
 
 				headings.forEach((heading) => {
-					// Find the link in the TOC list matching the heading in this list of hheding elements
-					const tocLink = getTocLinkFromHeading(heading);
 
 					// If it's the last visible item, mark it to make it stand out, else, revert to the default style
+					// Find the link in the TOC list matching the heading in this list of hheding elements
+					const tocLink = getTocLinkFromHeading(heading);
 					if (heading === lastVisible) {
-						console.log(`ACTIVE`);
-						console.log(heading);
-						console.log(`.toc a[href="${windowPath}#${encodeURIComponent(heading.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`)
-						console.log(tocLink);
-						markTocItemActive(tocLink);
+						asideMobileCurrentHeadline.textContent = heading.textContent;
+						if(tocLink){
+							markTocItemActive(tocLink);
+						}
 					} else {
-						console.log(`INACTIVE`);
-						console.log(heading);
-						console.log(`.toc a[href="${windowPath}#${encodeURIComponent(heading.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`)
-						console.log(tocLink);
-						markTocItemInactive(tocLink);
+						if(tocLink){
+							markTocItemInactive(tocLink);
+						}
 					}
 				});
 			},
 			{
 				//? docHeight: Extend the detection above the heading so it's always considered as intersecting if above the scrollport
 				//? -33%: The element won't be considered as intersecting until it has gone _above_ the bottom third of the scrollport
-				rootMargin: `${docHeight}px 0px -33% 0px`,
+				rootMargin: `${docHeight}px 0px -80% 0px`,
 				threshold: 1, // Only considered intersecting if all the pixels are inside the intersection area
 			}
 		);
 
 		headings.forEach((heading) => observer.observe(heading));
-
+		
 		return observer;
 	}
 
 	// On page load...
+	// Let us don't do this
+	/*
 	markTocItemActive(getTocLinkFromHeading(headings[0])); // Mark the first item as active (even if the heading appears a bit further down)
+	*/
 	currentObserver = beginObservation(height); // Start the intersection observer
 
 	// On resize, replace the observer with a new one matching the updated body height, if different

@@ -25,6 +25,7 @@ For example:
 ## Validity of FIP Tickets
 
 FIP voucher: <✅/⛔>  
+FIP voucher relatives: <✅/⛔>  
 FIP 50 Tickets: <✅/⛔>
 
 <
