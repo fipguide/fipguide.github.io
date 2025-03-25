@@ -1,6 +1,8 @@
+$icon-add: '{{(resources.Get "svg/default/add.svg" | fingerprint "md5").RelPermalink}}';
+$icon-remove: '{{(resources.Get "svg/default/remove.svg" | fingerprint "md5").RelPermalink}}';
+
 @import "_variables.scss";
 @import "node_modules/bootstrap/scss/bootstrap.scss";
-@import 'node_modules/@material-design-icons/font/round.scss';
 @import "styles.scss";
 @import "fonts.scss";
 @import "navigation.scss";

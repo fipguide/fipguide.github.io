@@ -8,8 +8,10 @@
 </title>
 {{ partialCached "head/js.html" . }}
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
-{{ $style := resources.Get "sass/main.scss" | toCSS $options | minify }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen" rel="preload" as="style" />
+{{ with resources.Get "sass/main.scss" }}
+  {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen" rel="preload" as="style" />
+{{ end }}
 {{ if .IsHome }}
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <script src="/pagefind/pagefind-ui.js" defer></script>
