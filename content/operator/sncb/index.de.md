@@ -1,5 +1,5 @@
 ---
-date: "2025-02-15"
+date: "2025-03-25"
 draft: false
 title: "SNCB"
 country:
@@ -156,7 +156,7 @@ Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,70 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise *No Supplement Necessary* angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise *No Supplement Necessary* angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
 
 ## Erfahrungen
 

@@ -4,33 +4,28 @@
 {{ $class := "" }}
 {{ $href := "" }}
 {{ $title := "" }}
+{{ $size := "" }}
 {{ if reflect.IsMap . }}
     {{ $item = .icon }}
     {{ $theme = .theme }}
     {{ $class = .class }}
-    {{/*  {{ warnf "themeInsideMap: %s" $theme }}  */}}
     {{ $title = .title }}
+    {{ $size = .size }}
   {{ else }}
     {{ $item = . }}
 {{ end }}
 {{ $theme := $theme | default "default" }}
+{{ $size := $size | default "24" }}
 {{ $classes := "" }}
-{{/*  {{ warnf "themeAfterLoop: %s" $theme }}  */}}
 {{ $file := "" }}
-{{/*  ?? Check data type ? See https://www.brijumaquio.com/get-data-type-in-hugo-framework  */}}
 {{ if eq (printf "%T" $item) "*resources.resourceAdapter" }}
     {{ $file = $item }}
 {{ else if eq (printf "%T" $item) "string" }}
     {{ $folder := $theme }}
-    {{/*  {{ warnf "themeToFolder: %s" $theme }}  */}}
-    {{/*  {{ warnf "folderFromTheme : %s" $folder }}  */}}
     {{ $classes = printf "%v%v%v%v%v" $theme " ico ico-" $item " " $class }}
     {{ $path := printf "svg/%s/%s.svg" $folder $item }}
     {{ $file = resources.Get $path }}
-    {{/*  {{ warnf "Loading icon from ico.html shortcode: %s" $item }}  */}}
-    {{/*  {{ warnf "theme: %s" $theme }}  */}}
 {{ else }}
-    {{/*  Get the filename, remove extension, add custom classes  */}}
     {{ $classes = print (replace (path.Base $item) ".svg" "" | anchorize) " ico " }}
     {{ $file = resources.Get $item }}
 {{ end }}
@@ -42,8 +37,8 @@
 {{ $pattern := `[\s\S]*?<svg([\s\S]*)?>([\s\S]*)(<title>[\s\S]*</title>)?([\s\S]*)</svg>([\s\S]*)?` }}
 {{ $replaceWith := "" }}
 {{ with $title }}
-    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" ${1}>${2}<title>%s</title>${4}</svg>` $classes . }}
+    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" width="%s" height="%s" ${1}>${2}<title>%s</title>${4}</svg>` $classes $size $size . }}
 {{ else }}
-    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" ${1}>${2}${3}${4}</svg>` $classes }}
+    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" width="%s" height="%s" ${1}>${2}${3}${4}</svg>` $classes $size $size }}
 {{ end }}
 {{- return ($content | replaceRE $pattern $replaceWith | safeHTML) -}}

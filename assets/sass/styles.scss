@@ -16,10 +16,20 @@ header {
 
 a:not(.m-teaser) {
   color: var(--link-default);
+  transition: fill 0.3s ease;
 
   &:hover,
   &:focus {
     color: var(--link-hovered);
+
+    svg {
+      fill: var(--link-hovered);
+    }
+  }
+
+  svg {
+    fill: var(--link-default);
+    transition: fill 0.3s ease;
   }
 }
 
