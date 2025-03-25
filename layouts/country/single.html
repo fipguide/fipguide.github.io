@@ -17,10 +17,11 @@
                     {{ .Content }}
                 </div>
             </div>
-
+            <div class="o-single__container">
+                <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
+                Hier kommt eine Liste mit allen enthaltenen Bahngesellschaften rein – TO BE CONTINUED :)
+            </div>
         </div>
-
-        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
     </div>
 </article>
 {{ end }}
