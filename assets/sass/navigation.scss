@@ -137,18 +137,14 @@
   }
 }
 
-.o-nav__menu-button-text {
-
-}
-
-.o-header__expand-button i,
-.o-nav__menu-button i,
-.o-nav__close-button i {
+.o-header__expand-button svg,
+.o-nav__menu-button svg,
+.o-nav__close-button svg {
   margin-left: .8rem;
   align-self: center;
 }
 
-.o-header__expand-button:has(~ .o-header__item-countries--open) i {
+.o-header__expand-button:has(~ .o-header__item-countries--open) svg {
   transform: rotate(180deg);
 }
 
@@ -196,7 +192,7 @@
     position: fixed;
     top: 0;
     right: 0;
-    width: 60%;
+    width: 70%;
     height: 100%;
     z-index: 4;
     background-color: white;
@@ -211,6 +207,7 @@
     menu {
       flex-direction: column;
       align-items: flex-end;
+      padding-left: 0;
     }
 
     menu li:first-child {

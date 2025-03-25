@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <div class="container o-list">
+    <div class="row">
+      {{ $path := .RelPermalink }}
+      {{ $cleanPath := replaceRE "^/[^/]+/" "/" $path }}
+      {{ $key := printf "%s_list_title" (replace $cleanPath "/" "_" -1) }}
+      <h2 data-pagefind-meta="title">{{ i18n $key }}</h2>
+      <p>
+        {{ T "list-disclaimer"}}
+        <a href="https://github.com/orgs/fipguide/projects/3">{{ T "list-disclaimer-link"}}</a>.
+      </p>
+    </div>
+    <div class="row">
+      {{ .Content }} {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
+        <div class="o-list__picture">
+          {{ $image := .Page.Resources.GetMatch "image.webp" }}
+          {{ partial "image.html" $image }}
+        </div>
+        <div>
+          {{ .Title }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

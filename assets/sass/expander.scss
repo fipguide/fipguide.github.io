@@ -34,8 +34,7 @@ details > summary::-webkit-details-marker {
 }
 
 summary::before {
-  content: '\e145' / '';
-  font-family: "material icons round";
+  content: url($icon-add);
   font-weight: normal;
   width: 2.4rem;
   height: 2.4rem;
@@ -46,7 +45,7 @@ summary::before {
 }
 
 details[open] > summary::before {
-  content: '\e15b' / '';
+  content: url($icon-remove);
 }
 
 details[open] > summary {
