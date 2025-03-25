@@ -4,6 +4,7 @@
       {{ $path := .RelPermalink }}
       {{ $cleanPath := replaceRE "^/[^/]+/" "/" $path }}
       {{ $key := printf "%s_list_title" (replace $cleanPath "/" "_" -1) }}
+      {{ $type := .Type }}
       <h2 data-pagefind-meta="title">{{ i18n $key }}</h2>
       {{ .Content }} {{ range .Pages }}
       {{ partial "teaser.html" (dict "listview" "true" "page" .) }}
