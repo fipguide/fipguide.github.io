@@ -24,10 +24,10 @@ a:not(.m-teaser) {
 }
 
 a:has(i) {
-  display: flex;
+  display: inline-flex;
   align-items: center;
 
-  i {
+  > :first-child {
     margin-right: .4rem;
   }
 }
