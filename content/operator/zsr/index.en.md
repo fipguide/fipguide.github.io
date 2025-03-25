@@ -153,7 +153,6 @@ From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP 
 
 [^1]
 {{< /expander >}}
-![Image](https://cdn.railvis.com/rs-prod/cms/83016FBD44E51820.jpg)
 
 ## Discounts
 

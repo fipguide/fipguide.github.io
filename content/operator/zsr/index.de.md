@@ -154,7 +154,6 @@ Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukache
 
 [^1]
 {{< /expander >}}
-![Bild](https://cdn.railvis.com/rs-prod/cms/83016FBD44E51820.jpg)
 
 ## Ermäßigungen
 

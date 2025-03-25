@@ -146,7 +146,6 @@ Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, d
 
 
 {{< /expander >}}
-![Bild](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
 ## Ermäßigungen
 

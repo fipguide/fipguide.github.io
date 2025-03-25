@@ -143,7 +143,6 @@ From France, cross-border regional trains can be used, requiring an additional F
 | THI              | Antwerpen, Bruxelles, Liège                                         |
 
 {{< /expander >}}
-![Image](https://upload.wikimedia.org/wikipedia/commons/4/43/M6_Rail_Car_R01_%28cropped%29.jpg)
 
 ## Discounts
 
