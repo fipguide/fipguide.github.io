@@ -40,6 +40,11 @@
             outline: .2rem solid orange;
             outline-offset: .1rem;
         }
+
+        &::placeholder {
+            color: var(--color-onLight);
+            opacity: .5;
+        }
     }
 
     .pagefind-ui__search-clear {

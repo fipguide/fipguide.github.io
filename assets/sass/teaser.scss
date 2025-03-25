@@ -11,6 +11,15 @@
 
 .m-teaser--listview {
     margin-bottom: 2.4rem;
+    display: flex;
+
+    @include media-breakpoint-down(md) {
+        flex-flow: wrap;
+    }
+}
+
+.m-teaser__image {
+    margin-right: 1.6rem;
 }
 
 .m-teaser img {
