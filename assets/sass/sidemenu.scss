@@ -19,17 +19,8 @@
         display: none;
     }
 
-    .o-single__relatedLink {
-        display: flex;
-        align-items: center;
-
-        i {
-            margin-right: .4rem;
-        }
-
-        span {
-            align-self: center;
-        }
+    .o-single__container {
+        margin-bottom: 1.6rem;
     }
 
     //TODO: Bessere Benamung

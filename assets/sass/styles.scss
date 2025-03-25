@@ -23,6 +23,15 @@ a:not(.m-teaser) {
   }
 }
 
+a:has(i) {
+  display: flex;
+  align-items: center;
+
+  i {
+    margin-right: .4rem;
+  }
+}
+
 a.m-teaser {
   .m-teaser__headline {
     color: var(--link-default);

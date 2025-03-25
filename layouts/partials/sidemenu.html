@@ -1,11 +1,11 @@
-<aside id="aside" class="o-single__container o-aside tableOfContents">
-    <div class="o-aside__mobile o-aside__mobile-container1 o-aside__mobile-container--open">
+<aside id="aside" class="o-aside tableOfContents">
+    <div class="o-aside__mobile o-aside__mobile-container1 o-single__container  o-aside__mobile-container--open">
         <button>
             <div id="aside_mobile_current_headline">{{ .Title }}</div>
             <i class="material-icons-round" aria-hidden="true">list</i>
         </button>
     </div>
-    <div class="o-aside__mobile-container2">
+    <div class="o-aside__mobile-container2 o-single__container">
         {{ if eq .Page.Type "operator" }}
         <ul>
             {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
@@ -13,7 +13,7 @@
                 {{ range . }}
                     {{ if eq .Page.Type "country" }}
                     <li>
-                        <a href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                        <a href="{{ .RelPermalink }}">
                             <i class="material-icons-round" aria-hidden="true">arrow_back</i>
                             <span>{{ T "toc-backlink"}}: {{ .LinkTitle }}</span>
                         </a>
@@ -34,7 +34,7 @@
                 {{ with $related }}
                     {{ range . }}
                     <li>
-                        <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                        <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
                             <i class="material-icons-round" aria-hidden="true">arrow_forward</i>
                             {{ .LinkTitle }}
                         </a>
@@ -53,7 +53,7 @@
                     {{ range . }}
                         {{ if eq .Page.Type "operator" }}
                         <li>
-                            <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}" class="o-single__relatedLink">
+                            <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
                                 <i class="material-icons-round" aria-hidden="true">arrow_forward</i>
                                 {{ .LinkTitle }}
                             </a>
@@ -63,9 +63,9 @@
                 {{ end }}
             </ul>
         {{ end }}
-        <i class="material-icons-round" aria-hidden="true">edit_square</i>
-        <a href="{{ .Site.Params.githubDevUrl }}blob/main/content{{ .Path }}/index.{{ .Language }}.md" target="_blank" rel="noopener noreferrer">
-        {{ T "editPage"}}
-        </a>
     </div>
+    <a href="{{ .Site.Params.githubDevUrl }}blob/main/content{{ .Path }}/index.{{ .Language }}.md" target="_blank" rel="noopener noreferrer">
+        <i class="material-icons-round" aria-hidden="true">edit</i>
+        {{ T "editPage"}}
+    </a>
 </aside>
