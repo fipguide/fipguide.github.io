@@ -33,9 +33,10 @@
                 {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
                 {{ with $related }}
                     {{ range . }}
+                    {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                     <li>
                         <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                            {{ partial "ico" (dict "icon" "view_cozy" ) }}
+                            {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "35" ) }}
                             {{ .LinkTitle }}
                         </a>
                     </li>
@@ -52,9 +53,10 @@
             <ul aria-labelledby="related">
                     {{ range . }}
                         {{ if eq .Page.Type "operator" }}
+                        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         <li>
                             <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                                {{ partial "ico" (dict "icon" "view_cozy" ) }}
+                                {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "35") }}
                                 {{ .LinkTitle }}
                             </a>
                         </li>

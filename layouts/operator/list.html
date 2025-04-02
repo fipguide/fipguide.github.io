@@ -10,12 +10,18 @@
       <a href="https://github.com/orgs/fipguide/projects/3">{{ T "list-disclaimer-link"}}</a>.
     </p>
   </div>
-    <ul>
-      {{ .Content }} {{ range .Pages }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-    </ul>
+  <div class="row">
+    {{ .Content }} {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
+      <div class="o-list__picture">
+        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+        {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "50") }}
+      </div>
+      <div>
+        {{ .Title }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
 </div>
 {{ end }}
