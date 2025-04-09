@@ -101,10 +101,13 @@ img {
   width: auto;
 }
 
-.o-list__link:not(:last-child) {
+.o-list__link {
   display: flex;
   align-items: center;
-  margin-bottom: 2.4rem;
+
+  &:not(:last-child) {
+    margin-bottom: 2.4rem;
+  }
 }
 
 p {
