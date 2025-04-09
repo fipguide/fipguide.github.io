@@ -55,8 +55,8 @@
                     {{ if eq .Page.Type "operator" }}
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         <li>
-                            {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "35") }}
                             <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
+                                {{ partial "ico" (dict "icon" $object "theme" "logos" "height" "25" "width" "35") }}
                                 {{ .LinkTitle }}
                             </a>
                         </li>
