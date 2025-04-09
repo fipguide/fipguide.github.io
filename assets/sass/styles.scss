@@ -101,7 +101,7 @@ img {
   width: auto;
 }
 
-.o-list__link {
+.o-list__link:not(:last-child) {
   display: flex;
   align-items: center;
   margin-bottom: 2.4rem;
