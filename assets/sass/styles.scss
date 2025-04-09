@@ -157,5 +157,15 @@ section p:last-child {
   padding: 2rem;
   border-radius: var(--border-radius-l);
   margin-bottom: 2.4rem;
+
+  h2::before {
+    content: "";
+    display: block;
+    margin: 4rem 0;
+    background-image: url("/intersector.svg");
+    background-position-x: center;
+    background-repeat: no-repeat;
+    height: 4.8rem;
+  }
 }
 
