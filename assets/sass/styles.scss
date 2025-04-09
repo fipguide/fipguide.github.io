@@ -118,7 +118,9 @@ p:has( + ol) {
 }
 
 article p:last-child,
-section p:last-child {
+section p:last-child,
+article p:has( + h2),
+section p:has( + h2) {
   margin-bottom: 0;
 }
 
@@ -158,14 +160,15 @@ section p:last-child {
   border-radius: var(--border-radius-l);
   margin-bottom: 2.4rem;
 
-  h2::before {
+  .content h2:not(:first-of-type)::before {
     content: "";
     display: block;
-    margin: 4rem 0;
+    margin: 2rem 0;
     background-image: url("/intersector.svg");
-    background-position-x: center;
+    background-position: center;
     background-repeat: no-repeat;
-    height: 4.8rem;
+    height: 2.4rem;
+    opacity: 50%;
   }
 }
 
