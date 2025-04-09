@@ -51,8 +51,8 @@
             <h3 id="related">{{ T "_operator__nearby"}}</h3>
             {{ end }}
             <ul aria-labelledby="related">
-                    {{ range . }}
-                        {{ if eq .Page.Type "operator" }}
+                {{ range . }}
+                    {{ if eq .Page.Type "operator" }}
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         <li>
                             <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
