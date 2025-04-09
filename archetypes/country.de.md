@@ -5,7 +5,7 @@ title: '<Name des Landes in Deutsch>'
 country: '<Name des Landes auf Englisch>'
 ---
 
-## FIP Hinweise
+## FIP Nutzung
 
 <
 Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
@@ -14,7 +14,7 @@ Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge bea
 - Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft? 
 >
 
-## Allgemeine Bahnreise Hinweise
+## Wissenswertes
 
 <
 Ein kurzer Abschnitt über die allgemeine Zugsituation im Land. Folgende Themen können bspw. behandelt werden:
@@ -32,3 +32,6 @@ Ein kurzer Abschnitt über die allgemeine Zugsituation im Land. Folgende Themen 
 <
 Die Bewertungskriterien befinden sich noch im Aufbau
 >
+
+## Betreiber ohne FIP
+- <Name der Bahngesellschaft>

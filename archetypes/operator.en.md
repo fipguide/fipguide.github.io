@@ -86,6 +86,8 @@ Can tickets with FIP discount still be purchased on the train, if so how and is 
 
 <Which routes can be used from the respective country. What tips & recommendations are there for entry from the country>
 
+### Border Points
+
 {{< expander "Border Points" >}}
 | Railway Company | Border Points                                                         |
 | ---------------- | ------------------------------------------------------------------- |

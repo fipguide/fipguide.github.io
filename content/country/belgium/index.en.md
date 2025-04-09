@@ -13,10 +13,14 @@ Additionally, international Eurostar trains operate, which can be used at a disc
 
 Furthermore, international TGV trains of the SNCF from France operate, for which the free travel passes of the Belgian National Railway Company are not valid. Only special FIP global prices can be booked for these trains.
 
-## General Train Travel Information
+## Insteresting
 
 Belgium has an extensive and dense rail network. Unlike other countries, there is no real fare distinction between train categories in Belgium, except for international ICE, TGV, and Eurostar connections. Due to the central location of the capital Brussels, it is the hub of Belgian train traffic and is connected via 4 high-speed lines to Germany, France, and the Netherlands. On other routes, the speed is rather average. Trains in Belgium usually run on a regular schedule and are mostly punctual. The most important cities are connected several times an hour. Particularly noteworthy are the impressive station buildings of Liège-Guillemins and Antwerp Central.
 
 ## FIP Rating
 
 Still pending
+
+## Operator without FIP
+
+- European Sleeper

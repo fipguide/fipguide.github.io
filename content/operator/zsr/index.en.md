@@ -141,6 +141,8 @@ The only regularly served cross-border route currently is the route from Slovak 
 
 From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point. A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
 
+### Border Points
+
 {{< expander "Border points" >}}
 | Railway operator | Border Points                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------- |

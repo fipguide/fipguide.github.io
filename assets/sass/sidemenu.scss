@@ -62,4 +62,7 @@
 
 .tableOfContents a {
     text-decoration-line: none;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
 }

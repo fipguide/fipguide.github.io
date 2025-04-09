@@ -122,15 +122,17 @@ From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 
 
 ### Germany
 
-From Germany, the cross-border ICE from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required. The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) (see Eurostar page).
+From Germany, the cross-border ICE from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required. The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
 
 ### Netherlands
 
-From the Netherlands, cross-border regional trains (including IC here) can be used, requiring an additional FIP ticket for NS. The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) (see Eurostar page).
+From the Netherlands, cross-border regional trains (including IC here) can be used, requiring an additional FIP ticket for NS. The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP free travel passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) (see Eurostar page).
+From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP free travel passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
+
+### Border Points
 
 {{< expander "Border Points" >}}
 | Railway operator | Border Points                                                         |

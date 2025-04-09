@@ -14,7 +14,7 @@ A short summary text that should answer the following questions in this order:
 - Which railway operator do not recognize FIP tickets and how can you identify these operator in the connection information?
 >
 
-## General Train Travel Information
+## Insteresting
 
 <
 A short section about the general train situation in the country. The following topics can be covered, for example:
@@ -32,3 +32,6 @@ A short section about the general train situation in the country. The following 
 <
 The rating criteria are still under development
 >
+
+## Operator without FIP
+- <Operator without FIP>
