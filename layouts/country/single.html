@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+
 <div class="curtain" aria-hidden="true"></div>
 <article class="container o-single o-single--with-sidemenu">
     <div class="row">
@@ -9,7 +11,7 @@
         <div class="col-12 col-lg-8">
             <div class="o-single__container content_with_heading">
                 <div class="o-single__header">
-                    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+                    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                     {{ partial "updateDate.html" . }}
                 </div>
 
@@ -17,9 +19,13 @@
                     {{ .Content }}
                 </div>
             </div>
-            <div class="o-single__container">
+            <div class="o-single__container container">
                 <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
-                Hier kommt eine Liste mit allen enthaltenen Bahngesellschaften rein – TO BE CONTINUED :)
+                <div class="row">
+                    {{ range $related }}
+                        {{ partial "operator-list-item" . }}
+                    {{ end }}
+                </div>
             </div>
         </div>
     </div>

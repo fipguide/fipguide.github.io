@@ -14,7 +14,7 @@
                     {{ if eq .Page.Type "country" }}
                     <li>
                         <a href="{{ .RelPermalink }}">
-                            {{ partial "ico" (dict "icon" "arrow_back" "width" "1000px") }}
+                            {{ partial "ico" (dict "icon" "arrow_back") }}
                             <span>{{ T "toc-backlink"}}: {{ .LinkTitle }}</span>
                         </a>
                     </li>
@@ -36,7 +36,7 @@
                     {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                     <li>
                         <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                            {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "35" ) }}
+                            {{ partial "ico" (dict "icon" $object "theme" "logos" "height" "25" "width" "35") }}
                             {{ .LinkTitle }}
                         </a>
                     </li>
@@ -51,12 +51,12 @@
             <h3 id="related">{{ T "_operator__nearby"}}</h3>
             {{ end }}
             <ul aria-labelledby="related">
-                    {{ range . }}
-                        {{ if eq .Page.Type "operator" }}
+                {{ range . }}
+                    {{ if eq .Page.Type "operator" }}
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         <li>
+                            {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "35") }}
                             <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                                {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "35") }}
                                 {{ .LinkTitle }}
                             </a>
                         </li>

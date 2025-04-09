@@ -1,6 +1,7 @@
 .o-stage > picture {
     width: 100%;
     max-width: 1320px;
+    filter: brightness(60%);
 
     img {
         border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);

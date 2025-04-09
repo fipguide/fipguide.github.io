@@ -12,15 +12,7 @@
   </div>
   <div class="row">
     {{ .Content }} {{ range .Pages }}
-    <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
-      <div class="o-list__picture">
-        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-        {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "50") }}
-      </div>
-      <div>
-        {{ .Title }}
-      </div>
-    </a>
+      {{ partial "operator-list-item" . }}
     {{ end }}
   </div>
 </div>

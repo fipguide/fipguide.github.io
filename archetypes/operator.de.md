@@ -86,6 +86,8 @@ Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gi
 
 <Welche Routen kann man aus dem entsprechenden Land nutzen. Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land>
 
+### Grenzpunkte
+
 {{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                         |
 | ---------------- | ------------------------------------------------------------------- |

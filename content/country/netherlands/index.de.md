@@ -5,8 +5,8 @@ title: "Niederlande"
 country: "netherlands"
 ---
 
-## FIP Hinweise
+## FIP Nutzung
 
-## Allgemeine Bahnreise Hinweise
+## Wissenswertes
 
 ## FIP Bewertung

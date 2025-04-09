@@ -142,6 +142,8 @@ Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird
 
 Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukacheve. Da in der Ukraine FIP nicht gültig sind, wird ein reguläres Ticket mindestens ab dem Grenzpunkt benötigt. Bei der ZSSK Seite kann ein grenzüberschreitendes Ticket nur ohne FIP-Rabatt gekauft werden. Wenn der Zug einen Zwischenhalt in Cierna nad Tisou hat, wäre es möglich ab diesem Bahnhof ein reguläres Ticket über die Website zu kaufen. Falls nach einem günstigeren Ticket gesucht wird, am besten hier an einem Schalter der ZSSK nachfragen, ob es noch bessere Möglichkeiten gibt.
 
+### Grenzpunkte
+
 {{< expander "Grenzpunkte" >}}
 | Bahngesellschaft | Grenzpunkte                                                                                                 |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -154,7 +156,6 @@ Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukache
 
 [^1]
 {{< /expander >}}
-![Bild](https://cdn.railvis.com/rs-prod/cms/83016FBD44E51820.jpg)
 
 ## Ermäßigungen
 
