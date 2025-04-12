@@ -119,8 +119,15 @@ p {
   text-align: justify;
 }
 
-.footnotes p {
-  text-align: left;
+.footnotes {
+
+  p {
+    text-align: left;
+  }
+
+  hr {
+    display: none;
+  }
 }
 
 p:has( + ul),
@@ -129,9 +136,7 @@ p:has( + ol) {
 }
 
 article p:last-child,
-section p:last-child,
-article p:has( + h2),
-section p:has( + h2) {
+section p:last-child {
   margin-bottom: 0;
 }
 
