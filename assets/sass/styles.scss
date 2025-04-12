@@ -119,6 +119,10 @@ p {
   text-align: justify;
 }
 
+.footnotes p {
+  text-align: left;
+}
+
 p:has( + ul),
 p:has( + ol) {
   margin-bottom: 1rem;
