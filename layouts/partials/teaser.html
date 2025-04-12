@@ -7,10 +7,10 @@
 <a href="{{ $page.RelPermalink }}" class="m-teaser {{ if $listview }}m-teaser--listview{{ else }}col-lg-4 col-md-6{{ end }} col-12">
 
     {{ $image := $page.Page.Resources.GetMatch "image.webp" }}
-    <div class="m-teaser__image{{ if $listview }} col-md-4 col-12{{ end }}">
+    <div class="m-teaser__image{{ if $listview }} col-md-3 col-12{{ end }}">
       {{ partial "image.html" $image }}
     </div>
-  <div {{ if $listview }}class="col-md-8 col-12"{{ end }}>
+  <div {{ if $listview }}class="col-md-9 col-12"{{ end }}>
       <time class="m-teaser__dateline" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
     <h3 class="m-teaser__headline">{{ $page.Title }}</h3>
     <div class="m-teaser__text">

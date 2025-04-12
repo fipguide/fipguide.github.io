@@ -16,6 +16,10 @@
     @include media-breakpoint-down(md) {
         flex-flow: wrap;
     }
+
+    &:last-of-type {
+        margin-bottom: 0;
+    }
 }
 
 .m-teaser__image {
