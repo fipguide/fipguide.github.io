@@ -101,15 +101,34 @@ img {
   width: auto;
 }
 
+.o-list__link-wrapper {
+  display: flex;
+  margin-bottom: 0;
+
+  li {
+    list-style-type: none;
+  }
+}
+
 .o-list__link {
   display: flex;
   align-items: center;
-  margin-bottom: 2.4rem;
 }
 
 p {
   margin-bottom: 3.2rem;
   text-align: justify;
+}
+
+.footnotes {
+
+  p {
+    text-align: left;
+  }
+
+  hr {
+    display: none;
+  }
 }
 
 p:has( + ul),
@@ -118,9 +137,7 @@ p:has( + ol) {
 }
 
 article p:last-child,
-section p:last-child,
-article p:has( + h2),
-section p:has( + h2) {
+section p:last-child {
   margin-bottom: 0;
 }
 

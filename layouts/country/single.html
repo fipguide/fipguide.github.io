@@ -19,12 +19,16 @@
                     {{ .Content }}
                 </div>
             </div>
-            <div class="o-single__container container">
+            <div class="o-single__container">
                 <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
                 <div class="row">
-                    {{ range $related }}
-                        {{ partial "operator-list-item" . }}
-                    {{ end }}
+                    <ul class="o-list__link-wrapper row">
+                        {{ range $related }}
+                            <li class="col-12 col-lg-3 col-sm-6">
+                                {{ partial "operator-list-item" . }}
+                            </li>
+                        {{ end }}
+                    </ul>
                 </div>
             </div>
         </div>
