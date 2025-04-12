@@ -11,9 +11,14 @@
     </p>
   </div>
   <div class="row">
-    {{ .Content }} {{ range .Pages }}
+    {{ .Content }}
+    <ul class="o-list__link-wrapper row">
+      {{ range .Pages }}
+    <li class="col-12 col-lg-3 col-sm-6">
       {{ partial "operator-list-item" . }}
+    </li>
     {{ end }}
+    </ul>
   </div>
 </div>
 {{ end }}
