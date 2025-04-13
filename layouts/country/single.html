@@ -13,7 +13,7 @@
                 <div class="o-single__header">
                     <div class="o-single__header__title">
                         {{ $logo := .Page.Resources.GetMatch "image.webp" }}
-                        <img data-pagefind-meta="img" src="{{ $logo.RelPermalink }}" alt="Icon" />
+                        <img data-pagefind-meta="img" src="{{ $logo.RelPermalink }}" alt="" />
                         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                     </div>
                     {{ partial "updateDate.html" . }}
