@@ -5,23 +5,17 @@
 {{ $href := "" }}
 {{ $title := "" }}
 {{ $size := "" }}
-{{ $height := "" }}
-{{ $width := "" }}
 {{ if reflect.IsMap . }}
     {{ $item = .icon }}
     {{ $theme = .theme }}
     {{ $class = .class }}
     {{ $title = .title }}
     {{ $size = .size }}
-    {{ $height = .height }}
-    {{ $width = .width }}
   {{ else }}
     {{ $item = . }}
 {{ end }}
 {{ $theme := $theme | default "default" }}
 {{ $size := $size | default "24" }}
-{{ $height := $height | default $size }}
-{{ $width := $width | default $size }}
 {{ $classes := "" }}
 {{ $file := "" }}
 {{ if eq (printf "%T" $item) "*resources.resourceAdapter" }}
@@ -43,8 +37,8 @@
 {{ $pattern := `[\s\S]*?<svg([\s\S]*)?>([\s\S]*)(<title>[\s\S]*</title>)?([\s\S]*)</svg>([\s\S]*)?` }}
 {{ $replaceWith := "" }}
 {{ with $title }}
-    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" width="%s" height="%s" ${1}>${2}<title>%s</title>${4}</svg>` $classes $width $height . }}
+    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" width="%s" height="%s" ${1}>${2}<title>%s</title>${4}</svg>` $classes $size $size . }}
 {{ else }}
-    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" width="%s" height="%s" ${1}>${2}${3}${4}</svg>` $classes $width $height }}
+    {{ $replaceWith = printf `<svg aria-hidden="true" class="%s" width="%s" height="%s" ${1}>${2}${3}${4}</svg>` $classes $size $size }}
 {{ end }}
 {{- return ($content | replaceRE $pattern $replaceWith | safeHTML) -}}

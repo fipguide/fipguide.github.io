@@ -6,10 +6,15 @@
             {{ partial "sidemenu.html" . }}
         </div>
 
-        <div class="col-12 col-lg-8">
+        <div class="col-12 col-lg-8" data-pagefind-body>
             <div class="o-single__container content_with_heading">
                 <div class="o-single__header">
-                    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+                    <div class="o-single__header__title">
+                        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+                        {{ $logo := resources.Get (printf "svg/logos/%s.svg" $object) }}
+                        <img data-pagefind-meta="img" src="{{ $logo.RelPermalink }}" alt="Icon" />
+                        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+                    </div>
                     {{ partial "updateDate.html" . }}
                 </div>
 

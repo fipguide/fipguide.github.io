@@ -171,6 +171,21 @@ section p:last-child {
   }
 }
 
+.o-single__header__title {
+  display: flex;
+  align-items: center;
+  gap: 1rem; // Adjust spacing between the image and the heading
+}
+
+.o-single__header__title h1 {
+  margin-bottom: 0rem;
+}
+
+.o-single__header__title img {
+  max-height: 3.6rem;
+  width: auto;
+}
+
 .o-single__container {
   background-color: var(--bg-default);
   padding: 2rem;

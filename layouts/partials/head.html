@@ -16,6 +16,10 @@
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <script src="/pagefind/pagefind-ui.js" defer></script>
 {{ end }}
+<script type="module">
+  await import('/pagefind/pagefind-highlight.js');
+  new PagefindHighlight({ highlightParam: "highlight" });
+</script>
 
 <!-- include a favicon for your site if you have it, else omit the line below 
      Location of favicon can be in mytheme/static/favicon.ico -->

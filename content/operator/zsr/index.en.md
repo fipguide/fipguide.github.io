@@ -7,7 +7,6 @@ country:
 ---
 
 The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in Slovakia.
-(Insert image here)
 
 ## Summary
 
@@ -26,7 +25,7 @@ FIP vouchers and FIP 50 tickets are valid on ZSSK connections with the restricti
 
 ## Train categories and reservations
 
-Reservation required for SC and IC trains. Other ZSSK trains only require a reservation in 1st class.
+Reservation required for SC and IC trains. Other ZSSK trains only require a reservation in 1st class.  [^2]
 
 {{< expander "SuperCity (SC) ⚠️" category >}}
 **Description:**  
@@ -39,6 +38,7 @@ Depending on route and occupancy (including surcharge for train category)
 
 {{< expander "InterCity (IC) ⚠️" category >}}
 **Description:**  
+*Currently, the operation of InterCity trains has been suspended for economic reasons. The trains are being replaced by EX trains.*  
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed.  
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
@@ -48,7 +48,8 @@ Depending on route and occupancy (including surcharge for train category)
 
 {{< expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣" category >}}
 **Description:**  
-Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. RJ trains are RailJet trains of the Austrian Federal Railways, which can also be used with ZSSK vouchers on the Slovak section. **Important:** RJ is also the abbreviation for RegioJet, where no FIP tickets are valid.  
+Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. RJ trains are RailJet trains of the Austrian Federal Railways, which can also be used with ZSSK vouchers on the Slovak section.  
+*RJ is also the abbreviation for RegioJet, where no FIP tickets are valid.*  
 **Reservation possible:** yes  
 **Reservation required:** ⚠️1️⃣ only in 1st class  
 **Cost of reservation:** 🟢  
@@ -153,7 +154,6 @@ From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP 
 | PKP             | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                        |
 | UZ              | Čierna nad Tisou (Gr)                                                                                         |
 
-[^1]
 {{< /expander >}}
 
 ## Discounts
@@ -179,4 +179,4 @@ Buses are excluded from FIP discounts, except when they replace a train where FI
 
 [^1]: [Rail Delivery Group V.65](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v65.pdf)
 
-[ZSSK Reservations](https://www.zssk.sk/en/seat-reservations)
+[^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
