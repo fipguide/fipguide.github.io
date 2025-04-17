@@ -1,5 +1,5 @@
 ---
-date: "2025-02-15"
+date: "2025-04-13"
 draft: false
 title: "ZSR / ZSSK"
 country:
@@ -7,7 +7,6 @@ country:
 ---
 
 Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der Slowakei.
-(Bild hier einfügen)
 
 ## Zusammenfassung
 
@@ -26,7 +25,7 @@ FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der E
 
 ## Zugkategorien und Reservierungen
 
-Reservierungspflicht für SC- und IC-Züge. Andere ZSSK Züge erfordern nur eine Reservierung in der 1. Klasse.
+Reservierungspflicht für SC- und IC-Züge. Andere ZSSK Züge erfordern nur eine Reservierung in der 1. Klasse. [^2]
 
 {{< expander "SuperCity (SC) ⚠️" category >}}
 **Beschreibung:**  
@@ -39,6 +38,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
 {{< expander "InterCity (IC) ⚠️" category >}}
 **Beschreibung:**  
+*Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen eingestellt. Die Züge werden durch EX-Züge ersetzt.*  
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️ ja  
@@ -48,7 +48,8 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
 {{< expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣" category >}}
 **Beschreibung:**  
-Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die RJ-Züge sind RailJet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. **Wichtig:** RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.  
+Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die RJ-Züge sind RailJet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können.  
+*RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.*  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
@@ -60,7 +61,7 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 **Beschreibung:**  
  EN sind internationale Nachtzüge, bei denen Reservierungspflicht besteht und die Möglichkeit einen Aufpreis für Liege- oder Schlafwagen zu zahlen. Sonst sind sie ähnlich wie die EC.  
 **Reservierung möglich:** ja  
-**Reservierungspflicht:** ja
+**Reservierungspflicht:** ja  
 **Kosten für Reservierung:** 🔴  
 Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
 {{< /expander >}}
@@ -154,7 +155,6 @@ Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukache
 | PKP              | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                      |
 | UZ               | Čierna nad Tisou (Gr)                                                                                       |
 
-[^1]
 {{< /expander >}}
 
 ## Ermäßigungen
@@ -180,4 +180,4 @@ Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in de
 
 [^1]: [Rail Delivery Group V.65](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v65.pdf)
 
-[ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
+[^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
