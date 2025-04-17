@@ -14,7 +14,8 @@
       {{ .Content }} {{ range .Pages }}
       <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
         <div class="o-list__picture">
-          {{ $image := .Page.Resources.GetMatch "image.webp" }}
+          {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+          {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
           {{ partial "image.html" $image }}
         </div>
         <div>
