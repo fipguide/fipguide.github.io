@@ -7,9 +7,9 @@ country: "belgium"
 
 ## FIP Information
 
-In Belgium, both FIP 50 and FIP vouchers can be extensively used. The Belgian National Railway operator SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is almost the sole operator of public passenger trains and can be used with FIP. Special attention should be paid to surcharges for Brussels Airport Zaventem ([see SNCB]({{< ref "/operator/sncb" >}} "SNCB")).
+In Belgium, both FIP 50 and FIP vouchers can be extensively used. The Belgian National Railway operator [SNCB]({{< ref "/operator/sncb" >}} "SNCB") (Société nationale des chemins de fer belges) or [NMBS]({{< ref "/operator/sncb" >}} "NMBS") (Nationale Maatschappij der Belgische Spoorwegen) is almost the sole operator of public passenger trains and can be used with FIP. Special attention should be paid to surcharges for Brussels Airport Zaventem.
 
-Additionally, international Eurostar trains operate, which can be used at a discount with special FIP tickets ([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar")). The trains are listed as train category `EST` in the connection information.
+Additionally, international [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains operate, which can be used at a discount with special FIP tickets. The trains are listed as train category `EST` in the connection information.
 
 Furthermore, international TGV trains of the SNCF from France operate, for which the free travel passes of the Belgian National Railway Company are not valid. Only special FIP global prices can be booked for these trains.
 
