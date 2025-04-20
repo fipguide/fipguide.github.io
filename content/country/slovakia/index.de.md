@@ -2,6 +2,7 @@
 date: "2024-10-17"
 draft: false
 title: "Slowakei"
+description: "Informiere dich über die FIP-Bedingungen für die Slowakei und für welche Betreiber du Vergünstigungen nutzen kannst."
 country: "slovakia"
 ---
 

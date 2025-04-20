@@ -2,6 +2,7 @@
 date: "2024-10-17"
 draft: false
 title: "Belgien"
+description: "Informiere dich über die FIP-Bedingungen für Belgien und für welche Betreiber du Vergünstigungen nutzen kannst."
 country: "belgium"
 ---
 
