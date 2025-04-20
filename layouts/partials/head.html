@@ -18,14 +18,11 @@
 <meta property="og:site_name" content='{{ site.Title }}'>
 <meta property="og:title" content='{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}'>
 <meta property="og:description" content="{{ $metaDescription }}" />
+<meta property="og:type" content='{{ if .IsPage }}article{{ else }}website{{ end }}'>
 <meta property="og:image" content="{{ .Site.BaseURL }}og-image.jpg">
 <meta property="og:image:type" content="image/jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-
-<meta property="og:type" content='{{ if .IsPage }}article{{ else }}website{{ end }}'>
-
-
 
 <title>
   {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
@@ -48,5 +45,8 @@
 <!-- include a favicon for your site if you have it, else omit the line below 
      Location of favicon can be in mytheme/static/favicon.ico -->
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" type="image/x-icon" href="/favicon.ico">
+<link rel="mask-icon" type="image/x-icon" href="/favicon.ico">
 
 
