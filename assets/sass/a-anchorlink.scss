@@ -1,0 +1,40 @@
+h2:has(+ .a-anchorlink) {
+
+  color: green;
+
+  &:hover {
+    + a {
+      opacity: 1;
+      pointer-events: auto;
+      transition: all .3s;
+    }
+  }
+}
+
+.a-anchorlink {
+  display: inline-flex;
+  opacity: 0;
+  transition: all .2s;
+  width: 3.2rem;
+  height: 3.2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: .8rem;
+  border-radius: var(--border-radius-s);
+  pointer-events: none;
+
+  &:hover,
+  &:focus {
+    background-color: var(--bg-neutral);
+  }
+
+  &:focus {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  img {
+    width: 2.4rem;
+    height: 2.4rem;
+  }
+}
