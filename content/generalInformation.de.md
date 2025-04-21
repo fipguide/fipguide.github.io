@@ -1,6 +1,7 @@
 ---
 date: "2025-03-25"
 title: "Übergreifende Infos"
+description: "Informationen über die allgemeinen Hinweise zu FIP und wie FIP in Anspruch genommen werden kann."
 ---
 
 Hier findest du übergreifende Informationen zum FIP Guide.
