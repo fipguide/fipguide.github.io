@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+description: "Impressum der FIP Guide Website: rechtliche Angaben und Informationen zum Anbieter."
 ---
 
 **Lennart Rommeiß**\
