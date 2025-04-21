@@ -2,12 +2,13 @@ function initAnchorlinkCreator() {
 
   const headings = getHeadings(document.querySelector(".o-single"));
   const headingsArray = Array.from(headings);
-  console.log(headingsArray);
 
   headingsArray.forEach((element) => {
     const anchorLink = createAnchorlink(element.id);
     element.append(anchorLink);
     element.insertAdjacentElement('afterend', anchorLink);
+
+    initEventListener(anchorLink);
   });
 }
 
@@ -27,6 +28,16 @@ function createAnchorlink(id) {
   anchorImg.setAttribute('src', "/favicon.ico");
   anchorImg.setAttribute('aria-hidden', "true");
   return anchor;
+}
+
+function initEventListener(link) {
+  link.addEventListener('click', () => {
+    navigator.clipboard.writeText(link.href).then(() => {
+      alert("Text erfolgreich kopiert!");
+    }).catch(err => {
+      console.error("Fehler beim Kopieren des Textes:", err);
+    });
+  });
 }
 
 
