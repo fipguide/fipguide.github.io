@@ -1,0 +1,16 @@
+{{ "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>" | safeHTML }}
+<rss version="2.0">
+    <channel>
+        <title>{{ .Site.Title }}</title>
+        <link>{{ .Site.BaseURL }}</link>
+        <description>{{ .Site.Params.description }}</description>
+        {{ range where .Site.RegularPages "Section" "news" }}
+        <item>
+            <title>{{ .Title }}</title>
+            <link>{{ .Permalink }}</link>
+            <description>{{ .Summary | plainify }}</description>
+            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+        </item>
+        {{ end }}
+    </channel>
+</rss>
