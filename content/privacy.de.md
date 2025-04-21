@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-description: "Erfahre alles über unsere Datenschutzrichtlinien und wie deine Daten im FIP Guide geschützt werden."
+description: "Informationen über Datenschutzrichtlinien und den Schutz personenbezogener Daten im FIP Guide."
 ---
 
 **Lennart Rommeiß**\

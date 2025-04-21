@@ -2,7 +2,7 @@
 date: "2025-03-25"
 draft: false
 title: "SNCB"
-description: "Informiere dich über die FIP-Bedingungen bei SNCB."
+description: "Informationen über die FIP-Bedingungen bei SNCB."
 country:
   - "belgium"
 ---
