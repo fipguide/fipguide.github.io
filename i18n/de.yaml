@@ -27,4 +27,6 @@ toc-backlink: Zurück zu
 editPage: Seite bearbeiten
 list-disclaimer: Momemtan sind noch nicht für alle Länder und Betreiber Informationen verfügbar. Den aktuellen Bearbeitungsstand findest du auf
 list-disclaimer-link: GitHub
-copyAnchorLink: Link zu diesem Abschnitt kopieren
+anchorLink:
+  copy: Link zu diesem Abschnitt kopieren
+  copied: Link wurde in die Zwischenablage kopiert

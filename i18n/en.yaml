@@ -27,4 +27,6 @@ toc-backlink: Back to
 editPage: Edit page
 list-disclaimer: Currently, information is not yet available for all countries and operators. You can see the current information status on
 list-disclaimer-link: GitHub
-copyAnchorLink: Copy link to this section
+anchorLink:
+  copy: Copy link to this section
+  copied: Link has been copied to the clipboard
