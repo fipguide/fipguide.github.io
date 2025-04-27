@@ -14,8 +14,7 @@ function initMobileMenu() {
     closeMobileMenu()
   });
 
-  //TODO: window.onClick in mobileMenu.js und aside.js konsollidieren; momentan funktioniert es nicht gemeinsam.
-  //const target =  initWindowOnClick();
+  const target =  initWindowOnClick();
 
   window.onclick = e => {
     console.log(e.target);
