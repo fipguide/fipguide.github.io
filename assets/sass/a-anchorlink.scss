@@ -1,9 +1,8 @@
-h2:has(+ .a-anchorlink) {
-
-  color: green;
+.a-anchorlink {
+  display: flex;
 
   &:hover {
-    + a {
+    > a {
       opacity: 1;
       pointer-events: auto;
       transition: all .3s;
@@ -11,7 +10,7 @@ h2:has(+ .a-anchorlink) {
   }
 }
 
-.a-anchorlink {
+.a-anchorlink__link {
   display: inline-flex;
   opacity: 0;
   transition: all .2s;
