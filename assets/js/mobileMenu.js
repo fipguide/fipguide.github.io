@@ -14,8 +14,6 @@ function initMobileMenu() {
     closeMobileMenu()
   });
 
-  const target =  initWindowOnClick();
-
   window.onclick = e => {
     console.log(e.target);
     if (e.target.classList.contains('o-header__curtain')) {

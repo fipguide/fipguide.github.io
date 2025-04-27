@@ -2,7 +2,6 @@ function initHighlightHeadline() {
 
 	// In this site's layout, the table of contents (.content_with_heading) is an element that appears before any other content at the same hierarchy level
 	const headings = Array.from(document.querySelectorAll('.content_with_heading :is(h1, h2, h3, h4)'));
-	const asideMobileCurrentHeadline = document.getElementById('aside_mobile_current_headline');
 	const windowPath = window.location.pathname;
 	if (headings.length === 0) {
 		return; // No headings? No business here
@@ -44,7 +43,6 @@ function initHighlightHeadline() {
 					// Find the link in the TOC list matching the heading in this list of hheding elements
 					const tocLink = getTocLinkFromHeading(heading);
 					if (heading === lastVisible) {
-						asideMobileCurrentHeadline.textContent = heading.textContent;
 						if(tocLink){
 							markTocItemActive(tocLink);
 						}
