@@ -30,3 +30,7 @@ list-disclaimer-link: GitHub
 anchorLink:
   copy: Copy link to this section
   copied: Link has been copied to the clipboard
+meta-description:
+  country: Overview of the countries where FIP benefits are available.
+  operator: Overview of the operators providing FIP benefits.
+  news: Latest updates and information about the FIP Guide.

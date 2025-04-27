@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+description: "Information about privacy policies and the protection of personal data in the FIP Guide."
 ---
 
 **Lennart Rommeiß**\
