@@ -1,35 +1,21 @@
 .a-anchorlink {
   display: flex;
-
-  &:hover {
-    > a {
-      opacity: 1;
-      pointer-events: auto;
-      transition: all .2s;
-    }
-  }
 }
 
 .a-anchorlink__link {
   display: inline-flex;
-  opacity: 0;
-  transition: all .2s;
   width: 3.2rem;
   height: 3.2rem;
   align-items: center;
   justify-content: center;
   margin-left: .8rem;
   border-radius: var(--border-radius-s);
-  pointer-events: none;
+  opacity: .8;
 
   &:hover,
   &:focus {
     background-color: var(--bg-neutral);
-  }
-
-  &:focus {
     opacity: 1;
-    pointer-events: auto;
   }
 }
 

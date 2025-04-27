@@ -16,7 +16,7 @@ header {
 
 a:not(.m-teaser) {
   color: var(--link-default);
-  transition: fill 0.3s ease;
+  transition: all 0.3s ease;
   text-underline-offset: .2rem;
 
   &:hover,
