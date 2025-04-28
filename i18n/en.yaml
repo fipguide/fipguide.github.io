@@ -27,6 +27,9 @@ toc-backlink: Back to
 editPage: Edit page
 list-disclaimer: Currently, information is not yet available for all countries and operators. You can see the current information status on
 list-disclaimer-link: GitHub
+anchorLink:
+  copy: Copy link to this section
+  copied: Link has been copied to the clipboard
 meta-description:
   country: Overview of the countries where FIP benefits are available.
   operator: Overview of the operators providing FIP benefits.
