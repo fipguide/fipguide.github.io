@@ -16,7 +16,7 @@ header {
 
 a:not(.m-teaser) {
   color: var(--link-default);
-  transition: fill 0.3s ease;
+  transition: all 0.3s ease;
   text-underline-offset: .2rem;
 
   &:hover,
@@ -178,7 +178,7 @@ section p:last-child {
 }
 
 .o-single__header__title h1 {
-  margin-bottom: 0rem;
+  margin-bottom: 0;
 }
 
 .o-single__header__title img {
@@ -203,4 +203,3 @@ section p:last-child {
     opacity: 50%;
   }
 }
-

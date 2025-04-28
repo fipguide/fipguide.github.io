@@ -16,3 +16,4 @@ $icon-remove: '{{(resources.Get "svg/default/remove.svg" | fingerprint "md5").Re
 @import "headings.scss";
 @import "form.scss";
 @import "expander.scss";
+@import "anchorlink.scss";

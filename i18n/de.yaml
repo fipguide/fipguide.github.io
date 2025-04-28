@@ -27,6 +27,9 @@ toc-backlink: Zurück zu
 editPage: Seite bearbeiten
 list-disclaimer: Momemtan sind noch nicht für alle Länder und Betreiber Informationen verfügbar. Den aktuellen Bearbeitungsstand findest du auf
 list-disclaimer-link: GitHub
+anchorLink:
+  copy: Link zu diesem Abschnitt kopieren
+  copied: Link wurde in die Zwischenablage kopiert
 meta-description:
   country: Überblick über die Länder, in denen FIP-Vergünstigungen genutzt werden können.
   operator: Überblick über die Betreiber, die FIP-Vergünstigungen anbieten.

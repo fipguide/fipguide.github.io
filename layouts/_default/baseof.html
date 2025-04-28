@@ -10,5 +10,8 @@
     <header id="header" class="o-header">{{ partial "header.html" . }}</header>
     <main id="content">{{ block "main" . }}{{ end }}</main>
     <footer>{{ partial "footer.html" . }}</footer>
+    {{ if and (eq .Kind "page") (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
+      {{ partial "snackbar" . }}
+    {{ end }}
   </body>
 </html>
