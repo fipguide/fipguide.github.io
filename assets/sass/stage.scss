@@ -17,6 +17,7 @@
 #search {
     position: absolute;
     width: 80%;
+    max-width: 1056px; // 1320*0.8
     height: 6rem;
     left: 50%;
     transform: translate(-50%);
@@ -25,6 +26,7 @@
 
     @include media-breakpoint-up(md) {
         width: 60%;
+        max-width: 792px; // 1320*0.6
     }
 
     .pagefind-ui__search-input,
