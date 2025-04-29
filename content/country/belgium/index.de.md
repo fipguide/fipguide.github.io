@@ -20,7 +20,7 @@ Belgien verfügt über ein ausgedehntes und dichtes Bahnnetz. Im Gegensatz zu an
 
 ## FIP Bewertung
 
-Noch ausstehend
+FIP klappt in Belgien ganz gut
 
 ## Betreiber ohne FIP
 
