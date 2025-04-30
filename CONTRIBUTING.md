@@ -1,9 +1,9 @@
 # Contributing
 
-Thanks for your interest in the FIP guide. Contributions are always welcome!
+Thanks for your interest in the FIP Guide. Contributions are always welcome!
 
 This guide is intended for developers.
-If you just want to contribute content, you can find more information in the [Wiki](/../../wiki/English).
+If you just want to contribute content, you can find more information in the [Wiki](/../../wiki).
 
 We are committed to fostering a welcoming, respectful, and harassment-free
 environment. Be kind!
@@ -15,7 +15,7 @@ If you have questions, ideas or want to report a bug, feel free to
 
 ### Prerequisites
 
-The project uses Hugo as framework for the website. Therefore, hugo must first be installed.
+The project uses Hugo as framework for the website. Therefore, Hugo must first be installed.
 You can find the instructions in the official [Hugo documentation](https://gohugo.io/installation/).
 
 Validate the installation by running `hugo version` in the command line.
@@ -37,7 +37,7 @@ Then, we can start the integrated hugo server with:
 
 
 ```zsh
-hugo server
+hugo server --ignoreCache
 ```
 
 Check the output and follow the link to see a local preview of the changes.
