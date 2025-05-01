@@ -17,20 +17,20 @@ Kurze Beschreibung der Bahngesellschaft. Z.B. Der vollstandige Name in Landesspr
 <
 Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
 Z.B.
-- Werden FIP 50 und FIP-Freifahrtsscheine akzeptiert?
+- Werden FIP 50 und FIP Freifahrtsscheine akzeptiert?
 - Gibt es eine Reservierungspflicht?
 - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
 >
 
 ## Gültigkeit FIP-Tickets
 
-FIP-Freifahrtsschein: <✅/⛔>  
-FIP-Freifahrt Angehörige: <✅/⛔>  
+FIP Freifahrtsschein: <✅/⛔>  
+FIP Freifahrt Angehörige: <✅/⛔>  
 FIP 50 Tickets: <✅/⛔>
-(Globalpreis: <✅/⛔>)
+(FIP Globalpreis: <✅/⛔>)
 
 <
-Wo gelten FIP 50 Tickets/FIP-Freifahrtsscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z.B. durchgehendes FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder)
+Wo gelten FIP 50 Tickets/FIP Freifahrtsscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z.B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
 >
 
 ## Zugkategorien und Reservierungen

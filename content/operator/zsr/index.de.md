@@ -18,11 +18,11 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Gültigkeit FIP-Tickets
 
-FIP-Freifahrtsschein: ✅  
-FIP-Freifahrt Angehörige: ⛔  
+FIP Freifahrtsschein: ✅  
+FIP Freifahrt Angehörige: ⛔  
 FIP 50 Tickets: ✅
 
-FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
@@ -104,7 +104,7 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 
 - [Website der ZSSK](https://www.zssk.sk):  
   **Reservierung:** ✅  
-  In der Verbindungsauskunft kann mit einem FIP-Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist.  
+  In der Verbindungsauskunft kann mit einem FIP Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist.  
   **FIP 50 Fahrkarten:** ✅  
   Im Kaufprozess als Rabatt "FIP Ticket 50%" auswählen.  
 - Weitere Möglichkeiten:  
@@ -127,7 +127,7 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ### Tschechien
 
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP-Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
+Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
 
 ### Österreich
 

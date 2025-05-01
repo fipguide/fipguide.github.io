@@ -27,7 +27,7 @@ For example:
 FIP Coupon: <✅/⛔>  
 FIP Coupon relatives: <✅/⛔>  
 FIP 50 Tickets: <✅/⛔>
-(Global Fare)
+(FIP Global Fare)
 
 <
 Where are FIP 50 tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?

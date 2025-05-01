@@ -12,7 +12,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 
 ## Summary
 
-- FIP Coupons are not accepted. However, it is possible to purchase discounted FIP tickets at a fixed Global Fare.
+- FIP Coupons are not accepted. However, it is possible to purchase discounted FIP tickets at a fixed FIP Global Fare.
 - All trains require reservations.
 
 ## Validity of FIP Tickets
@@ -20,14 +20,14 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 FIP Coupon: ⛔  
 FIP Coupon relatives: ⛔  
 FIP 50 Tickets: ⛔  
-Global Fare: ✅
+FIP Global Fare: ✅
 
-The purchase of discounted Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
+The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
 
 ## Train Categories and Reservations
 
 {{< highlight important >}}
-All trains require reservations, and a train-specific ticket must be purchased at the Global Fare before departure.  
+All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.  
 {{< /highlight >}}
 
 {{< expander "Eurostar (Blue): London - Paris/Brussels/Amsterdam ⚠️" >}}
@@ -35,22 +35,22 @@ All trains require reservations, and a train-specific ticket must be purchased a
 High-speed train between Great Britain and Europe  
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
-**Global Fare:**  
+**FIP Global Fare:**  
 39 € (Standard / 2nd Class)  
 60 € (Plus / 1st Class)  
-No discount (Premier)  
+No discount on Premier class  
 {{< /expander >}}
 
-{{< expander "Eurostar (Red): Paris - Amsterdam/Cologne/Dortmund ⚠️" >}}
+{{< expander "Eurostar (Red): Paris - Amsterdam/Brussels/Cologne/Dortmund ⚠️" >}}
 **Description:**  
 High-speed train between Belgium, Germany, France, and the Netherlands  
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
-**Global Fare:**  
+**FIP Global Fare:**  
 *Travel between 2 countries:*  
 18 € (Standard / 2nd Class)  
 35 € (Plus / 1st Class)  
-No discount (Premier)
+No discount on Premier class
 
 *Travel between 3 countries:*  
 20 € (Standard / 2nd Class)  
@@ -89,13 +89,13 @@ If an email address associated with an existing Eurostar account is provided dur
   Netherlands: [+31 (0)20 532 32 32](tel:+31205323232)  
   Germany: [+49 (0)30 7007 0000](tel:+493070070000)  
   A spelling alphabet can assist in providing names and addresses. Payment is only possible by credit card.  
-  **Global Fare:** ✅  
+  **FIP Global Fare:** ✅  
 
 ### On-Site
 
 - CFL/SNCB/NS:  
   Online tickets can be sold at the counter. The FIP card for all traveling persons must be presented. At NS, booking is only possible at [international ticket counters](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).  
-  **Global Fare:** ✅  
+  **FIP Global Fare:** ✅  
 
 ### Onboard
 
