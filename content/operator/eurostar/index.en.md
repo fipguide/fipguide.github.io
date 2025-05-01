@@ -36,11 +36,11 @@ High-speed train between Great Britain and Europe
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
 **FIP Global Fare:**
-| Route       | Standard (2nd Class) | Plus (1st Class) |
-| ----------- | -------------------- | ---------------- |
-| London - Paris/Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
-| London - Amsterdam/Rotterdam | ? € / 44.50 £ | ? € / 62 £ |
-| Brussels - Amsterdam/Rotterdam  | ? € / 15.50 £ | ? € / 30.50 £ |
+| Route       | Standard | Plus |
+| ----------- | -------- | ---- |
+| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
+| London - Amsterdam / Rotterdam | ? € / 44.50 £ | ? € / 62 £ |
+| Brussels - Amsterdam / Rotterdam  | ? € / 15.50 £ | ? € / 30.50 £ |
 {{< /expander >}}
 
 {{< expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" >}}
@@ -49,8 +49,8 @@ High-speed train between Belgium, Germany, France, and the Netherlands
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
 **FIP Global Fare:**
-| Route       | Standard (2nd Class) | Plus (1st Class) |
-| ----------- | -------------------- | ---------------- |
+| Route       | Standard | Plus |
+| ----------- | -------- | ---- |
 | Travel within one country | No FIP | No FIP |
 | Travel between 2 countries | 18 € | 35 € |
 | Travel between 3 countries | 20 € | 40 € |
@@ -64,6 +64,7 @@ High-speed train from Amsterdam and Brussels to the French Alps.
 **FIP Global Fare:** ⛔  
 {{< /expander >}}
 
+The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.  
 FIP discounts are not available for the Eurostar Premiere category.
 
 {{< highlight tip >}}

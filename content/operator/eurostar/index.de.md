@@ -37,11 +37,11 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️ ja  
 **FIP Globalpreis:**
-| Relation    | Standard (2. Klasse) | Plus (1. Klasse) |
-| ----------- | -------------------- | ---------------- |
-| London - Paris/Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam/Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
-| Brüssel - Amsterdam/Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
+| Relation    | Standard | Plus |
+| ----------- | -------- | ---- |
+| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
+| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
+| Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
 {{< /expander >}}
 
 {{< expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" >}}
@@ -50,8 +50,8 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️ ja  
 **FIP Globalpreis:**
-| Relation    | Standard (2. Klasse) | Plus (1. Klasse) |
-| ----------- | -------------------- | ---------------- |
+| Relation    | Standard | Plus |
+| ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
 | Fahrt zwischen 2 Ländern | 18 € | 35 € |
 | Fahrt zwischen 3 Ländern | 20 € | 40 € |
@@ -65,7 +65,8 @@ Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen.
 **FIP Globalpreis:** ⛔  
 {{< /expander >}}
 
-Für die Eurostar Premiere Kategorie sind keine FIP Vergünstigungen erhältlich.
+Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
+Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich.
 
 {{< highlight tip >}}
 Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
