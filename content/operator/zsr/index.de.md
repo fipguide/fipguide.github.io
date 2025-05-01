@@ -18,11 +18,11 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Gültigkeit FIP-Tickets
 
-FIP-Freifahrtsschein: ✅  
-FIP-Freifahrt Angehörige: ✅  
+FIP Freifahrtsschein: ✅  
+FIP Freifahrt Angehörige: ⛔  
 FIP 50 Tickets: ✅
 
-FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
@@ -54,8 +54,8 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
-2 € (1. Klasse)  
 1 € (2. Klasse)
+2 € (1. Klasse)  
 {{< /expander >}}
 
 {{< expander "EuroNight (EN) ⚠️" category >}}
@@ -73,9 +73,9 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für 
 Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den IC. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen.  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse  
-**Kosten für Reservierung:** 🟢  
-2 € (1. Klasse)  
-1 € (2. Klasse)
+**Kosten für Reservierung:** 🟢   
+1 € (2. Klasse)  
+2 € (1. Klasse) 
 {{< /expander >}}
 
 {{< expander "Rychlik (R) ⚠️1️⃣" category >}}
@@ -84,8 +84,8 @@ Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, e
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
+1 € (2. Klasse)  
 2 € (1. Klasse)  
-1 € (2. Klasse)
 {{< /expander >}}
 
 {{< expander "Osobní vlak (Os) ⚠️1️⃣" category >}}
@@ -94,8 +94,8 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse  
 **Kosten für Reservierung:** 🟢  
+1 € (2. Klasse)  
 2 € (1. Klasse)  
-1 € (2. Klasse)
 {{< /expander >}}
 
 ## Ticket- und Reservierungskauf
@@ -104,8 +104,9 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 
 - [Website der ZSSK](https://www.zssk.sk):  
   **Reservierung:** ✅  
-  In der Verbindungsauskunft kann mit einem FIP-Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist.  
-  **FIP 50 Fahrkarten:** ⛔
+  In der Verbindungsauskunft kann mit einem FIP Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist.  
+  **FIP 50 Fahrkarten:** ✅  
+  Im Kaufprozess als Rabatt "FIP Ticket 50%" auswählen.  
 - Weitere Möglichkeiten:  
   Reservierungen sind auch über die Websites der [CD](https://www.cd.cz), [DB](https://www.bahn.de) und [ÖBB](https://www.oebb.at) möglich. Zu teilweise abweichenden Preisen. Ausgenommen davon sind die IC und SC Züge.
 
@@ -126,7 +127,7 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ### Tschechien
 
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP-Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
+Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
 
 ### Österreich
 
@@ -179,6 +180,6 @@ Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in de
 
 ## Quellen
 
-[^1]: [Rail Delivery Group V.65](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v65.pdf)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

@@ -17,11 +17,11 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 
 ## Gültigkeit FIP-Tickets
 
-FIP-Freifahrtsschein: ✅  
-FIP-Freifahrtsschein Angehörige: ✅  
+FIP Freifahrtsschein: ✅  
+FIP Freifahrtsschein Angehörige: ✅  
 FIP 50 Tickets: ✅
 
-FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
@@ -33,8 +33,8 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** 🟡
+5,20 € (2. Klasse)  
 6,50 € (1. Klasse)
-5,20 € (2. Klasse)
 {{< /expander >}}
 
 {{< expander "InterCity (IC)" category >}}
@@ -133,7 +133,7 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 
 ### Frankreich
 
-Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket für den französischen Abschnitt benötigt. Bei den internationalen TGV-Zügen gibt es einen Globalpreis, FIP-Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
+Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket für den französischen Abschnitt benötigt. Bei den internationalen TGV-Zügen gibt es einen Globalpreis, FIP Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
 
 ### Grenzpunkte
 
@@ -168,5 +168,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group V.67](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v67.pdf)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 [^2]: [SNCB Bordpreis](https://www.belgiantrain.be/de/tickets-and-railcards/on-board-fare)
