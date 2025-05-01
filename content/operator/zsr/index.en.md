@@ -18,11 +18,11 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 
 ## Validity of FIP tickets
 
-FIP voucher: ✅  
-FIP voucher relatives: ✅  
+FIP Coupon: ✅  
+FIP Coupon relatives: ⛔  
 FIP 50 tickets: ✅
 
-FIP vouchers and FIP 50 tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP vouchers from both countries must be available.
+FIP Coupons and FIP 50 tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
 
 ## Train categories and reservations
 
@@ -49,13 +49,13 @@ Depending on route and occupancy (including surcharge for train category)
 
 {{< expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣" category >}}
 **Description:**  
-Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. RJ trains are RailJet trains of the Austrian Federal Railways, which can also be used with ZSSK vouchers on the Slovak section.  
+Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. RJ trains are RailJet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section.  
 *RJ is also the abbreviation for RegioJet, where no FIP tickets are valid.*  
 **Reservation possible:** yes  
 **Reservation required:** ⚠️1️⃣ only in 1st class  
 **Cost of reservation:** 🟢  
+1 € (2nd class)  
 2 € (1st class)  
-1 € (2nd class)
 {{< /expander >}}
 
 {{< expander "EuroNight (EN) ⚠️" category >}}
@@ -73,8 +73,8 @@ A type of interregional train with fewer stops than a regional train but more th
 **Reservation possible:** yes  
 **Reservation required:** ⚠️1️⃣ only in 1st class  
 **Cost of reservation:** 🟢  
+1 € (2nd class)  
 2 € (1st class)  
-1 € (2nd class)
 {{< /expander >}}
 
 {{< expander "Rychlik (R) ⚠️1️⃣" category >}}
@@ -83,8 +83,8 @@ Fast regional trains stopping at the main stations in the region, a type of regi
 **Reservation possible:** yes  
 **Reservation required:** ⚠️1️⃣ only in 1st class  
 **Cost of reservation:** 🟢  
+1 € (2nd class)  
 2 € (1st class)  
-1 € (2nd class)
 {{< /expander >}}
 
 {{< expander "Osobní vlak (Os) ⚠️1️⃣" category>}}
@@ -93,8 +93,8 @@ Standard regional trains that usually stop everywhere (there are exceptions). Es
 **Reservation possible:** yes  
 **Reservation required:** ⚠️1️⃣ only in 1st class  
 **Cost of reservation:** 🟢  
+1 € (2nd class)  
 2 € (1st class)  
-1 € (2nd class)
 {{< /expander >}}
 
 ## Ticket and reservation purchase
@@ -104,7 +104,8 @@ Standard regional trains that usually stop everywhere (there are exceptions). Es
 - [ZSSK website](https://www.zssk.sk):  
   **Reservation:** ✅  
   In the connection search, you can select "I have the ticket already I want to purchase only reservation or additional service" on the English website. Then choose "Reservation" and select "International ticket/Rail Pass" as the discount in the passenger selection, ensuring "Entitled for 100% discount" is selected.  
-  **FIP 50 tickets:** ⛔
+  **FIP 50 tickets:** ✅  
+  Select "FIP Ticket 50%" as the discount during the purchase process.  
 - Other options:  
   Reservations are also possible through the websites of [CD](https://www.cd.cz), [DB](https://www.bahn.de), and [ÖBB](https://www.oebb.at) at sometimes different prices. IC and SC trains are excluded.
 
@@ -125,11 +126,11 @@ If no ticket counter is available or open, a ticket (or reservation in Ex) can b
 
 ### Czech Republic
 
-From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP voucher of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
+From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
 
 ### Austria
 
-From Austria, cross-border InterCitys, RailJets, and regional trains (REX) are offered. For all connections, an additional FIP voucher of the Austrian Federal Railways (ÖBB) is required. FIP 50 tickets must be purchased cross-border.
+From Austria, cross-border InterCitys, RailJets, and regional trains (REX) are offered. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. FIP 50 tickets must be purchased cross-border.
 
 ### Hungary
 
@@ -178,6 +179,6 @@ Buses are excluded from FIP discounts, except when they replace a train where FI
 
 ## Sources
 
-[^1]: [Rail Delivery Group V.65](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v65.pdf)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

@@ -8,7 +8,7 @@ country: "slovakia"
 
 ## FIP Nutzung
 
-Die Slowakei ist sowohl mit FIP 50 als auch mit FIP-Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK]({{< ref "/operator/zsr" >}} "ZSR/ZSSK") (Železničná
+Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK]({{< ref "/operator/zsr" >}} "ZSR/ZSSK") (Železničná
 spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig.
 Besonders zu beachten sind Reservierungsbedingung im Fernverkehr sowie erweiterte Regleung zu kostenfreien Mitnahme von Kindern.
 
