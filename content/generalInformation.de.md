@@ -1,5 +1,5 @@
 ---
-date: "2025-03-25"
+date: "2025-05-01"
 title: "Übergreifende Infos"
 description: "Informationen über die allgemeinen Hinweise zu FIP und wie FIP in Anspruch genommen werden kann."
 ---
@@ -30,3 +30,7 @@ Bitte wende dich für die Beantragung und Inanspruchnahme an deine Personalabtei
 Wir sind ein engagiertes Team von Bahn-Mitarbeitenden, welche selbst regelmäßig FIP nutzen.
 Unser Ziel ist, eine schnell und einfach nutzbare Übersicht zur Nutzung von FIP bereitzustellen.
 Unser Fokus liegt auf der Bereitstellung von nützlichen Informationen für die Nutzerinnen und Nutzer.
+
+## Zusätzliche nützliche Ressourcen
+
+- Die [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html) bietet eine ausführliche Übersicht zu FIP in verschiedenen Ländern.

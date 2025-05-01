@@ -1,5 +1,5 @@
 ---
-date: "2025-03-25"
+date: "2025-05-01"
 title: "General Information"
 description: "Find out about the general information on FIP and how you can use FIP."
 ---
@@ -30,3 +30,7 @@ Please contact your HR department for application and usage.
 We are a dedicated team of railway employees who regularly use FIP ourselves.
 Our goal is to provide a quick and easy-to-use overview for using FIP.
 Our focus is on providing useful information for users.
+
+## Additional useful resources
+
+- The [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html) offers a detailed overview of FIP in various countries.
