@@ -17,19 +17,20 @@ Short description of the railway company. For example, the full name in the loca
 <
 Bullet point summary of the most important features/FIP regulations of the railway company.
 For example:
-- Are FIP 50 and FIP vouchers accepted?
+- Are FIP 50 and FIP Coupons accepted?
 - Is there a reservation requirement?
 - Are there any other special tariff regulations or deviations from other FIP railway companies?
 >
 
 ## Validity of FIP Tickets
 
-FIP voucher: <✅/⛔>  
-FIP voucher relatives: <✅/⛔>  
+FIP Coupon: <✅/⛔>  
+FIP Coupon relatives: <✅/⛔>  
 FIP 50 Tickets: <✅/⛔>
+(Global Fare)
 
 <
-Where are FIP 50 tickets/FIP vouchers valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP vouchers of both countries)?
+Where are FIP 50 tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
 >
 
 ## Train Categories and Reservations
@@ -45,8 +46,8 @@ Are reservations possible and where is there a reservation requirement?
 **Reservation possible:** <yes/no>  
 **Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class>  
 **Cost of reservation:** <🟢/🟡/🔴 - Traffic light system indicating the cost of the reservation> 
+<Price 2nd class> (2nd class)  
 <Price 1st class> (1st class)
-<Price 2nd class> (2nd class)
 <if there are no fixed prices, then provide an approximate price "from">
 {{< /expander >}}
 
@@ -64,6 +65,18 @@ Are reservations possible and where is there a reservation requirement?
   **FIP 50 Tickets:** <✅/⛔>
 - Other options:  
   <other notes and additional websites for online booking/reservation. For example, DB Travel Market>
+
+### Telephone
+- <Name of the Operator>:  
+  <Phone number or website with the phone number>  
+  <Notes on booking by phone>  
+  **Reservation:** <✅/⛔>  
+  **FIP 50 Tickets:** <✅/⛔>  
+- <Name of another Operator>:  
+  <Phone number or website with the phone number>  
+  <Notes on booking by phone>  
+  **Reservation:** <✅/⛔>  
+  **FIP 50 Tickets:** <✅/⛔>  
 
 ### On Site
 

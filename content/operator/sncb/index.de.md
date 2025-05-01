@@ -33,8 +33,8 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** nein  
 **Kosten für Reservierung:** 🟡
+5,20 € (2. Klasse)  
 6,50 € (1. Klasse)
-5,20 € (2. Klasse)
 {{< /expander >}}
 
 {{< expander "InterCity (IC)" category >}}
@@ -168,5 +168,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group V.67](https://www.raildeliverygroup.com/images/RST/RST_Travel_Tips_for_Europe_v67.pdf)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 [^2]: [SNCB Bordpreis](https://www.belgiantrain.be/de/tickets-and-railcards/on-board-fare)

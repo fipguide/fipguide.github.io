@@ -27,6 +27,7 @@ Z.B.
 FIP-Freifahrtsschein: <✅/⛔>  
 FIP-Freifahrt Angehörige: <✅/⛔>  
 FIP 50 Tickets: <✅/⛔>
+(Globalpreis: <✅/⛔>)
 
 <
 Wo gelten FIP 50 Tickets/FIP-Freifahrtsscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z.B. durchgehendes FIP 50 Ticket oder FIP-Freifahrtscheine beider Länder)
@@ -45,8 +46,8 @@ Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
 **Reservierung möglich:** <ja/nein>  
 **Reservierungspflicht:** <⚠️ ja/nein/⚠️1️⃣ nur 1. Klasse>  
 **Kosten für Reservierung:** <🟢/🟡/🔴 - Farbampel über Preishöhe der Reservierung> 
+<Preis 2. Klasse> (2. Klasse)  
 <Preis 1. Klasse> (1. Klasse)
-<Preis 2. Klasse> (2. Klasse)
 <gibt es keine Festpreise, dann einen groben Preis "ab" angeben>
 {{< /expander >}}
 
@@ -64,6 +65,20 @@ Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
   **FIP 50 Fahrkarten:** <✅/⛔>
 - Weitere Möglichkeiten:  
   <sonstige Hinweise und weitere Seiten für die Onlinebuchung/-reservierung. Z.B. DB Reisemarkt>
+
+(
+### Telefon
+- <Name des Betreibers>:  
+  <Telefonnummer oder Website mit der Telefonnummer>  
+  <Hinweise zur Buchung am Telefon>
+  **Reservierung:** <✅/⛔>  
+  **FIP 50 Fahrkarten:** <✅/⛔>  
+- <Name eines weiteren Betreibers>:  
+  <Telefonnummer oder Website mit der Telefonnummer>  
+  <Hinweise zur Buchung am Telefon>
+  **Reservierung:** <✅/⛔>  
+  **FIP 50 Fahrkarten:** <✅/⛔>  
+)
 
 ### Vor Ort
 
