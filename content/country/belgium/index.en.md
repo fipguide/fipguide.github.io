@@ -22,6 +22,6 @@ Belgium has an extensive and dense rail network. Unlike other countries, there i
 
 Still pending
 
-## Operator without FIP
+## Operators without FIP
 
 - European Sleeper

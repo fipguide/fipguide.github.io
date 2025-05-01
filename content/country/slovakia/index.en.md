@@ -12,7 +12,7 @@ Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Inclu
 spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid. 
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
-Also operating in Slovakia are the operator LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for RailJet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
+Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for RailJet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
 
 ## Insteresting
 
@@ -22,6 +22,6 @@ Slovakia has a dense rail network, which mainly consists of two main routes. One
 
 Overall, Slovakia has a good infrastructure and most journeys are operated by ZSSK. This makes it possible to travel a large part of the country with FIP tickets. However, the FIP experience is somewhat marred by reservation requirements (always in 1st class, in 2nd class on Intercity trains) as well as rather poor information systems and often not good scheduling on the branch lines.
 
-## Operator without FIP
+## Operators without FIP
 
 - RegioJet
