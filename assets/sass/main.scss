@@ -12,7 +12,6 @@ $icon-remove: '{{(resources.Get "svg/default/remove.svg" | fingerprint "md5").Re
 @import "footer.scss";
 @import "content.scss";
 @import "textHighlight.scss";
-@import "toc.scss";
 @import "headings.scss";
 @import "form.scss";
 @import "expander.scss";

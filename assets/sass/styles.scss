@@ -115,31 +115,7 @@ img {
   align-items: center;
 }
 
-p {
-  margin-bottom: 3.2rem;
-  text-align: justify;
-}
 
-.footnotes {
-
-  p {
-    text-align: left;
-  }
-
-  hr {
-    display: none;
-  }
-}
-
-p:has( + ul),
-p:has( + ol) {
-  margin-bottom: 1rem;
-}
-
-article p:last-child,
-section p:last-child {
-  margin-bottom: 0;
-}
 
 .container {
   @include media-breakpoint-down(sm) {
@@ -192,10 +168,11 @@ section p:last-child {
   border-radius: var(--border-radius-l);
   margin-bottom: 2.4rem;
 
-  .content h2:not(:first-of-type)::before {
+  .content span:not(:first-of-type)::before {
     content: "";
     display: block;
-    margin: 2rem 0;
+    width: 100%;
+    margin: 3.2rem 0;
     background-image: url("/intersector.svg");
     background-position: center;
     background-repeat: no-repeat;
