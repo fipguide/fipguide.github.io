@@ -16,21 +16,12 @@ highlight-important: Important Information
 highlight-inofficial: Unofficial Information
 highlight-tip: Personal Tip
 news-headline: What's new?
-_operator__list_title: Operators supporting FIP
-_country__list_title: Countries
-_news__list_title: News
 updateDate: Last updated
 related: Related Pages
 toc_name: Contents
 _operator__nearby: Neighboring Operators
 toc-backlink: Back to
 editPage: Edit page
-list-disclaimer: Currently, information is not yet available for all countries and operators. You can see the current information status on
-list-disclaimer-link: GitHub
 anchorLink:
   copy: Copy link to this section
   copied: Link has been copied to the clipboard
-meta-description:
-  country: Overview of the countries where FIP benefits are available.
-  operator: Overview of the operators providing FIP benefits.
-  news: Latest updates and information about the FIP Guide.
