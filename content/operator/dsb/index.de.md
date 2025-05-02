@@ -40,9 +40,9 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
 30 DKK (egal ob 1. oder 2. Klasse)
 {{< /expander >}}
 
-{{< expander "Regionalzug (R)" >}}
+{{< expander "Regionalzug (R) ℹ️" >}}
 **Beschreibung:** Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.   
-ACHTUNG: Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist.  
+ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist.  
 **Reservierung möglich:** nein  
 **Reservierungspflicht:** nein    
 {{< /expander >}}
