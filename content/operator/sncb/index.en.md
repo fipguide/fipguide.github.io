@@ -35,6 +35,8 @@ High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run betwee
 **Cost of reservation:** 🟡
 5.20 € (2nd class)  
 6.50 € (1st class)
+**Supplement:** ⚠️  
+When using FIP 50 tickets, an ICE supplement must be paid. When using the FIP Coupon, the supplement is not required!  
 {{< /expander >}}
 
 {{< expander "InterCity (IC)" category >}}
@@ -42,7 +44,6 @@ High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run betwee
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops.  
 **Reservation possible:** no  
 **Reservation required:** no  
-**Cost of reservation:** -
 {{< /expander >}}
 
 {{< expander "Train local or Lokale trein (L)" category >}}
@@ -50,7 +51,6 @@ Unlike in other countries, these are not real long-distance trains, but rather f
 Regional trains stopping at most stations, often simply referred to as "R" for regional train in connection information.  
 **Reservation possible:** no  
 **Reservation required:** no  
-**Cost of reservation:** -
 {{< /expander >}}
 
 {{< expander "Train S or S-Trein (S)" category >}}
@@ -58,7 +58,6 @@ Regional trains stopping at most stations, often simply referred to as "R" for r
 A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train.  
 **Reservation possible:** no  
 **Reservation required:** no  
-**Cost of reservation:** -
 {{< /expander >}}
 
 {{< expander "Train d’heure de pointe or Piekuurtrein (P)" category >}}
@@ -66,7 +65,6 @@ A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghen
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information.  
 **Reservation possible:** no  
 **Reservation required:** no  
-**Cost of reservation:** -
 {{< /expander >}}
 
 {{< expander "Express (E/EXP/EXTRA)" category >}}
@@ -74,7 +72,6 @@ Additional trains during peak hours from Monday to Friday mornings and late afte
 Additional trains during high traffic periods, especially in the summer months to the Belgian coast.  
 **Reservation possible:** no  
 **Reservation required:** no  
-**Cost of reservation:** -
 {{< /expander >}}
 
 {{< expander "Tourist (T)" category >}}
@@ -82,7 +79,6 @@ Additional trains during high traffic periods, especially in the summer months t
 Additional trains to certain tourist destinations, often simply referred to as "R" for regional train.  
 **Reservation possible:** no  
 **Reservation required:** no  
-**Cost of reservation:** -
 {{< /expander >}}
 
 ## Ticket and Reservation Purchase
