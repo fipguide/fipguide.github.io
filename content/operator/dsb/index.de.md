@@ -40,6 +40,15 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
 30 DKK (egal ob 1. oder 2. Klasse)
 {{< /expander >}}
 
+{{< expander "EuroCity (EC)" category>}}
+**Beschreibung:** EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend.   
+**Reservierung möglich:** ja  
+**Reservierungspflicht:** 🟡 In der Nebensaison nicht, in der Hauptsasion ja  
+**Kosten für Reservierung:** 🟡  
+30 DKK (egal ob 1. oder 2. Klasse) auf Strecken innerhalb Dänemarks  
+5,20 Euro (2. Klasse) bzw. 6,50 Euro (1. Klasse) auf grenzüberschreitenden Strecken  
+{{< /expander >}}
+
 {{< expander "Regionalzug (R) ℹ️" >}}
 **Beschreibung:** Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.   
 ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist.  
