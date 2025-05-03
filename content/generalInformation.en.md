@@ -1,5 +1,4 @@
 ---
-date: "2025-05-01"
 title: "General Information"
 description: "Find out about the general information on FIP and how you can use FIP."
 ---

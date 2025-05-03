@@ -1,5 +1,4 @@
 ---
-date: "2025-05-01"
 draft: false
 title: "Eurostar"
 description: "Informationen über die FIP-Bedingungen bei Eurostar."

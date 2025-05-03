@@ -1,5 +1,4 @@
 ---
-date: '{{ .Date }}'
 draft: <true/false>
 title: '<Abkürzung der Bahngesellschaft>'
 country:

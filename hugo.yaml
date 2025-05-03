@@ -2,6 +2,7 @@ baseURL: 'https://www.fipguide.org/'
 title: 'FIP Guide'
 
 enableRobotsTXT: true
+enableGitInfo: true
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
