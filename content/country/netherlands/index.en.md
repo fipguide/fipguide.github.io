@@ -6,6 +6,8 @@ description: "Find out about the FIP conditions for the nederlands and for which
 country: "netherlands"
 ---
 
+{{< snippet wip >}}
+
 ## FIP Information
 
 ## Insteresting
