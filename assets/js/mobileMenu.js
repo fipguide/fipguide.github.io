@@ -44,4 +44,3 @@ if (document.readyState === "interactive") {
     initMobileMenu();
   });
 }
-

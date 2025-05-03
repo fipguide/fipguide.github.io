@@ -27,14 +27,13 @@ Validate the installation by running `npm --version` in the command line.
 
 ### Start the development server
 
-First of all, we have to the install the node packages by running: 
+First of all, we have to the install the node packages by running:
 
 ```zsh
 npm i
 ```
 
 Then, we can start the integrated hugo server with:
-
 
 ```zsh
 hugo server --ignoreCache
@@ -46,4 +45,22 @@ To initialize the search index, run the following command in a separate terminal
 
 ```zsh
 npx -y pagefind --site public
+```
+
+### Run pre-commit hooks
+
+We use the [pre-commit framework](https://pre-commit.com/) to run some checks to ensure a consistent code quality.
+
+First of all, install the package manager uv: [Installing uv](https://docs.astral.sh/uv/getting-started/installation/).
+
+Then, install the `pre-commit` tool:
+
+```zsh
+uv tool install pre-commit --with pre-commit-uv --force-reinstall
+```
+
+Now, enable `pre-commit` to run the check every time you want to commit changes:
+
+```zsh
+pre-commit install
 ```

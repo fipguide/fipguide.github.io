@@ -27,4 +27,3 @@ if (document.readyState === "interactive") {
     resizeObserver();
   });
 }
-
