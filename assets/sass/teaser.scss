@@ -33,17 +33,3 @@
 .m-teaser__headline {
     margin-bottom: .5rem;
 }
-
-.o-stage {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.o-stage__searchfield {
-    position: absolute;
-    width: 60%;
-    height: 6rem;
-    background-color: white;
-    border-radius: var(--border-radius-l);
-}
