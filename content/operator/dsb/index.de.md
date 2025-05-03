@@ -59,17 +59,17 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
   **Reservierung:** 🟡 Nur für nationale Verbindungen  
   **FIP 50 Fahrkarten:** ⛔  
 - [Deutsche Bahn Website](https://bahn.de/)  
-  **Reservierung:** 🟡 Grenzüberschreitende Reservierungen von Deutschland nach Dänemark oder umgekehrt 
+  **Reservierung:** 🟡 Grenzüberschreitende Reservierungen von Deutschland nach Dänemark oder umgekehrt   
   **FIP 50 Fahrkarten:** ⛔  
 - Deutsche Bahn FIP-Buchung (FIP DB) (Link im DB Reisemarkt)  
-  **Reservierung:** 🟡 Grenzüberschreitende Reservierungen von Deutschland nach Dänemark oder umgekehrt 
+  **Reservierung:** 🟡 Grenzüberschreitende Reservierungen von Deutschland nach Dänemark oder umgekehrt   
   **FIP 50 Fahrkarten:** 🟡 Grenzüberschreitende FIP 50 Tickets (Deutschland - Dänemark und umgekehrt) mit der Voraussetzung, dass man einen FIP-Ausweis der Deutschen Bahn besitzt.  
 - [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE)  
-  **Reservierung:** 🟡 Grenzüberschreitende Reservierungen von Deutschland nach Dänemark oder umgekehrt 
+  **Reservierung:** 🟡 Grenzüberschreitende Reservierungen von Deutschland nach Dänemark oder umgekehrt   
   **FIP 50 Fahrkarten:** 🟡 Grenzüberschreitende FIP 50 Tickets (Deutschland - Dänemark und umgekehrt) mit der Voraussetzung, dass man einen FIP-Ausweis hat, der nicht von der Deutschen Bahn oder der DSB stammt.  
 
 ### Vor Ort
-- Schalter der DSB: 
+- Schalter der DSB:  
   **Reservierung:** ✅  
   **FIP 50 Fahrkarten:** ✅  
 - Weitere Möglichkeiten: 
@@ -80,7 +80,7 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
 Von Deutschland aus kann der durchgängige EC Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es noch mehrfach täglich IC-Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen. Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es noch die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
 
 ### Schweden
-Aus Schweden kann entweder aus Malmö über den Öresund gefahren oder von Helsingborg aus die Fähre nach Helsingør genutzt werden. Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden. Die Fähre von Helsingborg nach Helsingør (und umgekehrt) kann mit FIP-Freifahrtscheinen der DSB in Verbindung mit einer Zugreise durch Dänemark genutzt werden (also z. B. Helsingborg - Kopenhagen).
+Aus Schweden kann entweder aus Malmö über den Öresund gefahren oder von Helsingborg aus die Fähre nach Helsingør genutzt werden. Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden.
 
 ### Grenzpunkte
 {{< expander "Grenzpunkte" >}}
@@ -97,11 +97,14 @@ Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Raba
 ### Reiseunterbrechung
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]  
 
+### FIP 50 Tickets innerhalb bestimmter Regionen
+FIP 50 Tickets nur zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa können nicht ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. Die FIP Freifahrtsscheine sind auch bei Fahrten nur innerhalb dieser Regionen gültig.
+
 ### Nutzung von Fähren
-FIP-Tickets sind gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark.[^1]  
+Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark.[^1] Jedoch konnte dies bisher nicht von uns bestätigt werden.
 
 ## Erfahrungen
-Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk zu bekommen.  
+Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch oft ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen.  
 
 ## Quellen
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
