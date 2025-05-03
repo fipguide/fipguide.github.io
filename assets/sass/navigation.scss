@@ -137,11 +137,12 @@
   }
 }
 
-.o-header__expand-button svg,
-.o-nav__menu-button svg,
-.o-nav__close-button svg {
+.o-header__expand-button > .material-symbols-rounded,
+.o-nav__menu-button > .material-symbols-rounded,
+.o-nav__close-button > .material-symbols-rounded {
   margin-left: .8rem;
   align-self: center;
+  text-decoration: none;
 }
 
 .o-header__expand-button:has(~ .o-header__item-countries--open) svg {
