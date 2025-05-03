@@ -121,6 +121,10 @@ Children under 5 years travel for free. Children under 16 years receive a 50% di
 ### Stopovers
 With FIP 50 Tickets, the journey can be interrupted, but it must be confirmed by train staff.[^1]  
 
+### Copenhagen Airport
+
+FIP facilities are not valid on Øresundståg services from Københavns Hovedbanegård (Copenhagen Central Station) to Københavns Lufthavn Station (Copenhagen Airport railway station).  
+
 ### FIP 50 in Copenhagen and Aarhus
 FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen metropolitan area or the Aarhus-Grenaa region. Only trips beyond these regions are possible. FIP Coupons, however, are valid for trips within these regions.
 

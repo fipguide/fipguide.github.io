@@ -122,6 +122,10 @@ Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Raba
 ### Reiseunterbrechung
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]  
 
+### Kopenhagen Flughafen
+
+FIP-Angebote sind nicht gültig in Øresundståg-Zügen von Københavns Hovedbanegård (Kopenhagen Hauptbahnhof) bis Københavns Lufthavn Station (Bahnhof Kopenhagen Flughafen), da diese nicht von der DSB betrieben werden.
+
 ### FIP 50 in Kopenhagen und Aarhus
 FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. FIP Freifahrtsscheine sind hingegen auch bei Fahrten nur innerhalb dieser Regionen gültig.
 
