@@ -36,6 +36,14 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 2
+  goldmark:
+    renderer:
+      # https://gohugo.io/configuration/markup/#rendererunsafe
+      # Safe rendering does omit some styles to prevent XSS,
+      # but since our content is in our control,
+      # we can disable safe rendering.
+      unsafe: true
+
 
 cascade:
   toc: true # enable toc for all pages
@@ -44,3 +52,4 @@ cascade:
 
 params:
   githubDevUrl: 'https://github.dev/fipguide/fipguide.github.io/'
+  gitHubUrl: 'https://github.com/fipguide/fipguide.github.io'
