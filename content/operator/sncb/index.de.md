@@ -98,8 +98,6 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 - Weitere Möglichkeiten:  
   Grenzüberschreitende Verbindungen zwischen Deutschland und Belgien können von Mitarbeitern der Deutschen Bahn über den DB Reisemarkt online erworben werden.
 
-  
-
 ### Vor Ort
 
 - Schalter den SNCB:  

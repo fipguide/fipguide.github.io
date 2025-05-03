@@ -104,9 +104,37 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unteranderem die Verb
 
 ### Online
 
+- [NS Website](https://www.ns.nl/en):  
+  **Reservierung:** ⛔  
+  **FIP 50 Fahrkarten:** ⛔  
+- [Deutsche Bahn Website](https://bahn.de/):  
+  **Reservierung:** ✅  
+  Für grenzüberschreitende ICE Züge
+  **FIP 50 Fahrkarten:** ⛔  
+- Deutsche Bahn FIP-Buchung (FIP DB):  
+  Link im DB Reisemarkt  
+  **Reservierung:** ✅  
+  Für grenzüberschreitende ICE Züge 
+  **FIP 50 Fahrkarten:** ✅  
+  Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn
+- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE)  
+  **Reservierung:** ✅  
+  Für grenzüberschreitende ICE Züge 
+  **FIP 50 Fahrkarten:** ✅    
+  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
+
 ### Vor Ort
 
+- Schalter den NS:  
+  FIP 50 Tickets können nur an Full-Service (Light) mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies: Amsterdam Centraal, Amsterdam Sloterdijk, Amsterdam Zuid, Arnhem Centraal, Breda, Den Haag Centraal, Eindhoven Centraal, Enschede, Haarlem, Leeuwarden, Leiden Centraal, Maastricht, Rotterdam Centraal, Schiphol Airport, Utrecht Centraal, Zaandam, Zwolle  
+  **Reservierung:** ✅  
+  **FIP 50 Fahrkarten:** ✅
+- Weitere Möglichkeiten:  
+  FIP 50 Fahrkarten können auch bei der CFL, DB und SNCB in den Reisezentren gekauft werden.
+
 ### Im Zug
+
+FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
 ## Anreise und Grenzpunkte
 
@@ -123,11 +151,18 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unteranderem die Verb
 
 ## Ermäßigungen
 
-* Kinder bis 3 Jahre reisen kostenfrei (ohne Tarifplatz).
-* Railrunner-Ticket für Kinder bis 11 Jahre als günstige Alternative zur 50%-FIP-Reduktion.
-* Personen ab 11 Jahren zahlen den vollen Erwachsenen-Tarif bzw. FIP-Rabatt. citeturn1file0
+Uns sind keine Ermäßigungen bekannt.
 
 ## Tarifliche Besonderheiten
+
+### Ticket Schranken im Bahnhof
+
+Zum FIP-Freifahrschein wird NS-Gate-Pass-Coupon mit Barcode erhalten, um die Schranken an NS-Bahnhöfen zu öffnen. Es handelt sich um einen Gate-Pass, nicht um einen Fahrschein. Er ist für die Nutzung an 8 separaten Tagen (00:00 bis 23:59) innerhalb eines Zeitraums von 3 Monaten ab dem ersten Nutzungstag gültig. Die erste Nutzung an einer Schranke legt das Startdatum fest.  Innerhalb eines Tages gilt:
+
+- Sie können 6 Mal an derselben Station ein- und auschecken.
+- Sie können landesweit insgesamt 12 Mal ein- und auschecken.
+
+Am NS Ticketschalter kann bei Bedarf ein neuer Gate-Pass-Coupon erhalten werden.
 
 ## Erfahrungen
 
@@ -135,4 +170,4 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unteranderem die Verb
 
 ## Quellen
 
-
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
