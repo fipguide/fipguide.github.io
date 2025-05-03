@@ -75,58 +75,40 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
 {{< /expander >}}
 
 {{< expander "Intercity (IC)" >}}
-**Beschreibung:** Regelzüge im Nah- und Fernverkehr (2. und 1. Klasse).
+**Beschreibung:**  
+Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.  
 **Reservierung möglich:** nein
 **Reservierungspflicht:** nein
-**Kosten für Reservierung:** 🔴 nicht zutreffend
 {{< /expander >}}
 
-{{< expander "Internationale Expresszüge (D)" >}}
-**Beschreibung:** Internationale Expressverbindungen, gekennzeichnet mit „D“ im Fahrplan.
+{{< expander "Sneltrein (RE)" >}}
+**Beschreibung:**  
+Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.  
 **Reservierung möglich:** nein
-**Reservierungspflicht:** ⚠️ nein (Zuschlagspflichtig)
-**Kosten für Reservierung:** 🔴 nicht zutreffend
-(€3–5 Zuschlag onboard möglich)
+**Reservierungspflicht:** nein
 {{< /expander >}}
 
-{{< expander "Eurocity (EC/ECD)" >}}
-**Beschreibung:** EC Direct ECD und EC zwischen Brüssel, Rotterdam, Amsterdam, Lelystad.
+{{< expander "Sprinter" >}}
+**Beschreibung:**  
+Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.  
 **Reservierung möglich:** nein
-**Reservierungspflicht:** ⚠️ nein (Zuschlagspflichtig Rotterdam–Schiphol)
-**Kosten für Reservierung:** 🔴 nicht zutreffend
+**Reservierungspflicht:** nein
 {{< /expander >}}
 
-{{< expander "Intercity Direct (ICD)" >}}
-**Beschreibung:** Hochgeschwindigkeitsverbindung Schiphol–Rotterdam.
-**Reservierung möglich:** nein
-**Reservierungspflicht:** ⚠️ nein (Zuschlagspflichtig)
-**Kosten für Reservierung:** 🔴 nicht zutreffend
-(Zuschlag über Website oder Automaten vorab)
-{{< /expander >}}
+{{< highlight important >}}
+Die Züge der Kategorie Sneltrein / Regional-Express (RE), unteranderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE Verbindungen werden von Arriva betrieben und sind mit FIP nicht nutzbar.
+{{< /highlight >}}
+
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-* [Railrunner](https://www.ns.nl/producten/en/meest-gekocht/p/railrunner): Railrunner-Ticket für Kinder (bis 11)
-  **Reservierung:** ⛔  **FIP 50 Fahrkarten:** ⛔
-
 ### Vor Ort
-
-* NS-Ticketschalter an Haupt- und Vollservicebahnhöfen (z.B. Amsterdam Centraal, Rotterdam Centraal, Utrecht Centraal)
-  **Reservierung:** ✅  **FIP 50 Fahrkarten:** ✅ citeturn1file4
-* Automaten an genannten Bahnhöfen (Auswahl „FIP korting 50%“)
 
 ### Im Zug
 
-* FIP-Rabatttickets können nicht im Zug gekauft werden.
-* Zuschläge (D, ICD, EC) können beim Zugpersonal bezahlt werden. citeturn1file0
-
 ## Anreise und Grenzpunkte
-
-### Niederlande
-
-Reisen im Inland ohne Einschränkungen.
 
 ### Grenzpunkte
 
@@ -147,23 +129,10 @@ Reisen im Inland ohne Einschränkungen.
 
 ## Tarifliche Besonderheiten
 
-### Intercity Direct Zuschlag
-
-Zuschlagspflicht auf ICD-Verbindungen zwischen Schiphol und Rotterdam, buchbar online oder an Automaten. citeturn1file0
-
-### EC-Zuschläge
-
-Zuschlagspflicht auf EC-Verbindungen Rotterdam–Schiphol, zahlbar onboard. citeturn1file0
-
-* Keine Gültigkeit auf Hoekse Lijn (Bus/Metro) zwischen Hoek van Holland and Schiedam Centrum
-
-
 ## Erfahrungen
 
 *Persönliche Tipps können hier ergänzt werden.*
 
 ## Quellen
 
-* RSTL Travel Tips: Netherlands – NS citeturn1file0
-* RSTL Travel Tips: Kaufstellen citeturn1file4
-* NS Gate Pass Barcode Coupon citeturn1file13
+
