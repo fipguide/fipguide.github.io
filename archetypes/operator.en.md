@@ -40,7 +40,7 @@ Are reservations possible and where is there a reservation requirement?
 >
 
 <For each train category, a separate section can be added according to the following principle:>
-{{< expander "<Name (Abbreviation)><add ⚠️ for reservation requirement and 1️⃣ for reservation requirement in 1st class>" >}}
+{{< expander "<Name (Abbreviation)><add ⚠️ for reservation requirement and 1️⃣ for reservation requirement in 1st class>" <expander-group>>}}
 **Description:** \
 <Description of the category>
 **Reservation possible:** <yes/no> \
