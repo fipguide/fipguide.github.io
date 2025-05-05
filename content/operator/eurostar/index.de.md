@@ -17,9 +17,9 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 
 ## Gültigkeit FIP-Tickets
 
-FIP Freifahrtsschein: ⛔  
-FIP Freifahrt Angehörige: ⛔  
-FIP 50 Tickets: ⛔  
+FIP Freifahrtsschein: ⛔ \
+FIP Freifahrt Angehörige: ⛔ \
+FIP 50 Tickets: ⛔ \
 FIP Globalpreis: ✅
 
 Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich. Sämtliche Tickets sind aufgrund der Reservierungspflicht in allen Zügen zuggebunden. Das Umbuchen auf andere Züge oder Stornieren von FIP Tickets ist dabei jedoch über die [Eurostar Website](https://www.eurostar.com/) möglich. Die Tickets können nur separat und nicht als Teil von durchgehenden Fahrkarten erworben werden. [^1]
@@ -28,14 +28,14 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 
 
 {{< highlight important >}}
-Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.  
+Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{< /highlight >}}
 
 {{< expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" >}}
-**Beschreibung:**  
-Hochgeschwindigkeitszug zwischen Großbritannien und Europa  
-**Reservierung möglich:** ja  
-**Reservierungspflicht:** ⚠️ ja  
+**Beschreibung:** \
+Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
@@ -45,10 +45,10 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa
 {{< /expander >}}
 
 {{< expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" >}}
-**Beschreibung:**  
-Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden    
-**Reservierung möglich:** ja  
-**Reservierungspflicht:** ⚠️ ja  
+**Beschreibung:** \
+Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
@@ -58,11 +58,11 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 {{< /expander >}}
 
 {{< expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" >}}
-**Beschreibung:**  
-Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen.  
-**Reservierung möglich:** ja  
-**Reservierungspflicht:** ⚠️ ja  
-**FIP Globalpreis:** ⛔  
+**Beschreibung:** \
+Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
+**FIP Globalpreis:** ⛔
 {{< /expander >}}
 
 Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
@@ -74,7 +74,7 @@ Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel s
 
 ## Ticket- und Reservierungskauf
 
-Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die Buchung zwangsläufig eine E-Mail-Adresse erforderlich ist.  
+Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die Buchung zwangsläufig eine E-Mail-Adresse erforderlich ist.
 
 ### Online
 
@@ -83,29 +83,29 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-- Mail an National Rail:  
-  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk)  
-  Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.  
+- Mail an National Rail: \
+  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
+  Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben. \
   Erforderliche Angaben:
   - Reisetag und Zeit
   - Abfahrts- und Zielbahnhof
   - Anzahl der Fahrgäste
   - Reiseklasse (analog Berechtigung des FIP-Ausweises)
-  - Foto des FIP Ausweises aller reisender Personen  
+  - Foto des FIP Ausweises aller reisender Personen
 
   **FIP Globalpreis:** ✅
 
 ### Telefon
-- [Eurostar](https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen):  
-  [+49 (0)30 7007 0000](tel:+493070070000)  
-  Buchung auf Deutsch und Englisch möglich. Ein Buchstabieralphabet hilft bei der Angabe von Namen und Adressen. Die Bezahlung ist nur per Kreditkarte möglich.  
-  **FIP Globalpreis:** ✅  
+- [Eurostar](https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen): \
+  [+49 (0)30 7007 0000](tel:+493070070000) \
+  Buchung auf Deutsch und Englisch möglich. Ein Buchstabieralphabet hilft bei der Angabe von Namen und Adressen. Die Bezahlung ist nur per Kreditkarte möglich. \
+  **FIP Globalpreis:** ✅
 
 ### Vor Ort
 
-- CFL/SNCB/NS:  
-  Am Schalter können Onlinetickets verkauft werden. Dafür muss der FIP Ausweis aller reisender Personen vorgezeigt werden. Bei der NS ist die Buchung nur in [internationalen Ticketschalter](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops) möglich.  
-  **FIP Globalpreis:** ✅  
+- CFL/SNCB/NS: \
+  Am Schalter können Onlinetickets verkauft werden. Dafür muss der FIP Ausweis aller reisender Personen vorgezeigt werden. Bei der NS ist die Buchung nur in [internationalen Ticketschalter](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops) möglich. \
+  **FIP Globalpreis:** ✅
 
 ### Im Zug
 
