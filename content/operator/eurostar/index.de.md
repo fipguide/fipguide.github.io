@@ -31,33 +31,46 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.  
 {{< /highlight >}}
 
-{{< expander "Eurostar (Blue): London - Paris/Brüssel/Amsterdam ⚠️" >}}
+{{< expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" >}}
 **Beschreibung:**  
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa  
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️ ja  
-**FIP Globalpreis:**  
-39 € (Standard / 2. Klasse)  
-60 € (Plus / 1. Klasse)  
-Kein Rabatt auf Premier-Kategorie
+**FIP Globalpreis:**
+| Relation    | Standard | Plus |
+| ----------- | -------- | ---- |
+| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
+| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
+| Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
 {{< /expander >}}
 
-{{< expander "Eurostar (Red): Paris - Amsterdam/Brüssel/Köln/Dortmund ⚠️" >}}
+{{< expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" >}}
 **Beschreibung:**  
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden    
 **Reservierung möglich:** ja  
 **Reservierungspflicht:** ⚠️ ja  
-**FIP Globalpreis:**  
-*Fahrt zwischen 2 Ländern:*  
-18 € (Standard / 2. Klasse)  
-35 € (Plus / 1. Klasse)  
-Kein Rabatt auf Premier-Kategorie
-
-*Fahrt zwischen 3 Ländern:*  
-20 € (Standard / 2. Klasse)  
-40 € (Plus / 1. Klasse)  
-Kein Rabatt auf Premier-Kategorie  
+**FIP Globalpreis:**
+| Relation    | Standard | Plus |
+| ----------- | -------- | ---- |
+| Fahrt in einem Land | Kein FIP | Kein FIP |
+| Fahrt zwischen 2 Ländern | 18 € | 35 € |
+| Fahrt zwischen 3 Ländern | 20 € | 40 € |
 {{< /expander >}}
+
+{{< expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" >}}
+**Beschreibung:**  
+Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen.  
+**Reservierung möglich:** ja  
+**Reservierungspflicht:** ⚠️ ja  
+**FIP Globalpreis:** ⛔  
+{{< /expander >}}
+
+Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
+Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich.
+
+{{< highlight tip >}}
+Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
+{{< /highlight >}}
 
 ## Ticket- und Reservierungskauf
 

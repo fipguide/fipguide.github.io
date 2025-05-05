@@ -30,33 +30,46 @@ The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. 
 All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.  
 {{< /highlight >}}
 
-{{< expander "Eurostar (Blue): London - Paris/Brussels/Amsterdam ⚠️" >}}
+{{< expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" >}}
 **Description:**  
 High-speed train between Great Britain and Europe  
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
-**FIP Global Fare:**  
-39 € (Standard / 2nd Class)  
-60 € (Plus / 1st Class)  
-No discount on Premier class  
+**FIP Global Fare:**
+| Route       | Standard | Plus |
+| ----------- | -------- | ---- |
+| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
+| London - Amsterdam / Rotterdam | ? € / 44.50 £ | ? € / 62 £ |
+| Brussels - Amsterdam / Rotterdam  | ? € / 15.50 £ | ? € / 30.50 £ |
 {{< /expander >}}
 
-{{< expander "Eurostar (Red): Paris - Amsterdam/Brussels/Cologne/Dortmund ⚠️" >}}
+{{< expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" >}}
 **Description:**  
-High-speed train between Belgium, Germany, France, and the Netherlands  
+High-speed train between Belgium, Germany, France, and the Netherlands    
 **Reservation possible:** yes  
 **Reservation required:** ⚠️ yes  
-**FIP Global Fare:**  
-*Travel between 2 countries:*  
-18 € (Standard / 2nd Class)  
-35 € (Plus / 1st Class)  
-No discount on Premier class
-
-*Travel between 3 countries:*  
-20 € (Standard / 2nd Class)  
-40 € (Plus / 1st Class)  
-No discount (Premier)  
+**FIP Global Fare:**
+| Route       | Standard | Plus |
+| ----------- | -------- | ---- |
+| Travel within one country | No FIP | No FIP |
+| Travel between 2 countries | 18 € | 35 € |
+| Travel between 3 countries | 20 € | 40 € |
 {{< /expander >}}
+
+{{< expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" >}}
+**Description:**  
+High-speed train from Amsterdam and Brussels to the French Alps.  
+**Reservation possible:** yes  
+**Reservation required:** ⚠️ yes  
+**FIP Global Fare:** ⛔  
+{{< /expander >}}
+
+The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.  
+FIP discounts are not available for the Eurostar Premiere category.
+
+{{< highlight tip >}}
+When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
+{{< /highlight >}}
 
 ## Ticket and Reservation Purchase
 
