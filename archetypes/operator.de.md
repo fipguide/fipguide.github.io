@@ -40,7 +40,7 @@ Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
 >
 
 <Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden:>
-{{< expander "<Name (Abkürzung)><hinzufügen von ⚠️ für Reservierungspflicht und 1️⃣ für Reservierungspflicht in der 1. Klasse>" >}}
+{{< expander "<Name (Abkürzung)><hinzufügen von ⚠️ für Reservierungspflicht und 1️⃣ für Reservierungspflicht in der 1. Klasse>" <expander-gruppe> >}}
 **Beschreibung:**
 <Beschreibung der Kategorie>
 **Reservierung möglich:** <ja/nein> \
