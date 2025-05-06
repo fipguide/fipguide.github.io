@@ -23,6 +23,8 @@ module:
       target: "assets"
     - source: "static"
       target: "static"
+    - source: "node_modules/@fontsource"
+      target: "static/css/@fontsource"
 
 related:
  includeNewer: true
