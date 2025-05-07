@@ -47,10 +47,10 @@ Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erb
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{< /expander >}}
 
-{{< expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣" category >}}
+{{< expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣ ℹ️" category >}}
 **Beschreibung:** \
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die RJ-Züge sind RailJet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. \
-*RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.* \
+ℹ️ RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse \
 **Kosten für Reservierung:** 🟢 \
