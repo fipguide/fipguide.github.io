@@ -27,7 +27,7 @@ FIP Coupons and FIP 50 tickets are valid on SNCB connections. For cross-border t
 
 Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border journeys).
 
-{{< expander "InterCity Express (ICE)" category >}}
+{{% expander "InterCity Express (ICE)" category %}}
 **Description:** \
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
 **Reservation possible:** yes \
@@ -35,55 +35,55 @@ High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run betwee
 **Cost of reservation:** 🟡
 5.20 € (2nd class) \
 6.50 € (1st class)
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "InterCity (IC)" category >}}
+{{% expander "InterCity (IC)" category %}}
 **Description:** \
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops. \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Cost of reservation:** -
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Train local or Lokale trein (L)" category >}}
+{{% expander "Train local or Lokale trein (L)" category %}}
 **Description:** \
 Regional trains stopping at most stations, often simply referred to as "R" for regional train in connection information. \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Cost of reservation:** -
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Train S or S-Trein (S)" category >}}
+{{% expander "Train S or S-Trein (S)" category %}}
 **Description:** \
 A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train. \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Cost of reservation:** -
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Train d’heure de pointe or Piekuurtrein (P)" category >}}
+{{% expander "Train d’heure de pointe or Piekuurtrein (P)" category %}}
 **Description:** \
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information. \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Cost of reservation:** -
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Express (E/EXP/EXTRA)" category >}}
+{{% expander "Express (E/EXP/EXTRA)" category %}}
 **Description:** \
 Additional trains during high traffic periods, especially in the summer months to the Belgian coast. \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Cost of reservation:** -
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Tourist (T)" category >}}
+{{% expander "Tourist (T)" category %}}
 **Description:** \
 Additional trains to certain tourist destinations, often simply referred to as "R" for regional train. \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Cost of reservation:** -
-{{< /expander >}}
+{{% /expander %}}
 
 ## Ticket and Reservation Purchase
 
@@ -133,19 +133,19 @@ From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 
 
 ### Germany
 
-From Germany, the cross-border ICE from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required. The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
+From Germany, the cross-border ICE from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required. The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Netherlands
 
-From the Netherlands, cross-border regional trains (including IC here) can be used, requiring an additional FIP ticket for NS. The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
+From the Netherlands, cross-border regional trains (including IC here) can be used, requiring an additional FIP ticket for NS. The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP free travel passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"))
+From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP free travel passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section (including within Belgium) .([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Border Points
 
-{{< expander "Border Points" >}}
+{{% expander "Border Points" %}}
 | Railway operator | Border Points                                                         |
 | ---------------- | ------------------------------------------------------------------- |
 | CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
@@ -155,7 +155,7 @@ From France, cross-border regional trains can be used, requiring an additional F
 | SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 | THI              | Antwerpen, Bruxelles, Liège                                         |
 
-{{< /expander >}}
+{{% /expander %}}
 
 ## Discounts
 
@@ -169,9 +169,9 @@ For connections to and from Brussels Zaventem Airport, a surcharge must be paid 
 
 ## Experiences
 
-{{< highlight inofficial >}}
+{{% highlight inofficial %}}
 The first class in SNCB / NMBS trains is often used with second class tickets. Also, the 1st class is usually not much more comfortable than the second class. Unlike in other countries, buying first class tickets to have more space and quiet is only worthwhile to a limited extent.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Sources
 

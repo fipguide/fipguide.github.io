@@ -40,7 +40,7 @@ Are reservations possible and where is there a reservation requirement?
 >
 
 <For each train category, a separate section can be added according to the following principle:>
-{{< expander "<Name (Abbreviation)><add ⚠️ for reservation requirement and 1️⃣ for reservation requirement in 1st class>" <expander-group>>}}
+{{% expander "<Name (Abbreviation)><add ⚠️ for reservation requirement and 1️⃣ for reservation requirement in 1st class>" <expander-group> %}}
 **Description:** \
 <Description of the category>
 **Reservation possible:** <yes/no> \
@@ -49,7 +49,7 @@ Are reservations possible and where is there a reservation requirement?
 <Price 2nd class> (2nd class) \
 <Price 1st class> (1st class) \
 <if there are no fixed prices, then provide an approximate price "from">
-{{< /expander >}}
+{{% /expander %}}
 
 ## Ticket and Reservation Purchase
 
@@ -101,12 +101,12 @@ Can tickets with FIP discount still be purchased on the train, if so how and is 
 
 ### Border Points
 
-{{< expander "Border Points" >}}
+{{% expander "Border Points" %}}
 | Railway Company | Border Points                                                         |
 | ---------------- | ------------------------------------------------------------------- |
 | <Abbreviation of the neighboring railway company>              | <Border Points>             |
 
-{{< /expander >}}
+{{% /expander %}}
 
 ## Discounts
 
