@@ -3,8 +3,7 @@ country:
   one: Land
   many: Länder
   other: Länder
-search-placeholder: Gib ein Land oder Bahnunternehmen ein
-search-button: Suchen
+search-placeholder: Suche
 footer-love:
   text: Made with ♥️ in Frankfurt & Köln
   aria-label: Made with love in Frankfurt & Köln

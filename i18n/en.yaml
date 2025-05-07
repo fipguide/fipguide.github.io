@@ -3,8 +3,7 @@ country:
   one: country
   many: countries
   other: countries
-search-placeholder: Type in a country or train operator
-search-button: Search
+search-placeholder: Search
 footer-love:
   text: Made with ♥️ in Frankfurt & Cologne
   aria-label: Made with love in Frankfurt & Cologne
