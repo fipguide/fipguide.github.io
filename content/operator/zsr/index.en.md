@@ -47,10 +47,10 @@ Cross-border long-distance trains operated commercially by ZSSK and CD, usually 
 Depending on route and occupancy (including surcharge for train category)
 {{% /expander %}}
 
-{{% expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣" category %}}
+{{% expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣ ℹ️" category %}}
 **Description:** \
 Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. RJ trains are RailJet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section. \
-*RJ is also the abbreviation for RegioJet, where no FIP tickets are valid.* \
+ℹ️ RJ is also the abbreviation for RegioJet, where no FIP tickets are valid. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️1️⃣ only in 1st class \
 **Cost of reservation:** 🟢 \
