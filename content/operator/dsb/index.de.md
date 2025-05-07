@@ -33,7 +33,7 @@ InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 
 30 kr (1. Klasse)
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category%}}
+{{% expander "InterCity (IC)" category %}}
 **Beschreibung:** \
 InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
 **Reservierung möglich:** ja \
@@ -43,7 +43,7 @@ InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind l
 30 kr (1. Klasse)
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" category%}}
+{{% expander "EuroCity (EC)" category %}}
 **Beschreibung:** \
 EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
@@ -55,7 +55,7 @@ EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg u
 | Grenzüberschreitende Strecken | 5,20 € | 6,50 € |
 {{% /expander %}}
 
-{{% expander "Regionalzug (R) ℹ️" %}}
+{{% expander "Regionalzug (R) ℹ️" category %}}
 **Beschreibung:** \
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam. \
 ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
@@ -63,7 +63,7 @@ Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie h
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "S-tog (S)" %}}
+{{% expander "S-tog (S)" category %}}
 **Beschreibung:** \
 Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch mit FIP-Fahrkarten genutzt werden. Sie verkehrt im dichten Takt mit Halt an allen Stationen und ist mit S-Bahn-Systemen in anderen Ländern gut zu vergleichen. \
 **Reservierung möglich:** nein \
