@@ -118,7 +118,7 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 Children up to and including 3 years old travel free of charge but without a guaranteed seat. There are no further discounts for children. Children under 12 years must always be accompanied by an adult (unaccompanied children are not allowed). [^2]
 
-## Special Fare Conditions
+## Special Tariff Conditions
 
 ### Ticket Quotas
 
