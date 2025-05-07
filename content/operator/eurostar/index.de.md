@@ -27,11 +27,11 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 ## Zugkategorien und Reservierungen
 
 
-{{< highlight important >}}
+{{% highlight important %}}
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
-{{< /highlight >}}
+{{% /highlight %}}
 
-{{< expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" category >}}
+{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **Reservierung möglich:** ja \
@@ -42,9 +42,9 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 | London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
 | London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
 | Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" category >}}
+{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden \
 **Reservierung möglich:** ja \
@@ -55,22 +55,22 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Fahrt in einem Land | Kein FIP | Kein FIP |
 | Fahrt zwischen 2 Ländern | 18 € | 35 € |
 | Fahrt zwischen 3 Ländern | 20 € | 40 € |
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" category >}}
+{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:** ⛔
-{{< /expander >}}
+{{% /expander %}}
 
 Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
 Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Ticket- und Reservierungskauf
 
@@ -119,21 +119,21 @@ Kinder bis einschließlich 3 Jahre reisen kostenfrei, jedoch ohne garantierten S
 
 ### Ticketkontingente
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Alle FIP-Tarife unterliegen einer Kontingentierung, weshalb eine frühzeitige Buchung zu empfehlen ist.
-{{< /highlight >}}
+{{% /highlight %}}
 
 Für Eurostar-Züge, die freitags, samstags und sonntags zwischen 17.30 Uhr und 19.00 Uhr abfahren, besteht das FIP-Angebot (1. Klasse und 2. Klasse) nicht. [^2]
 
 ### Anschlüsse - HOTNAT
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
 
 Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers ausgewichen werden. Dazu kann am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
 
 HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Quellen
 

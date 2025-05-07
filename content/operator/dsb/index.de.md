@@ -23,7 +23,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg - Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
 
-{{< expander "InterCityLyn (ICL)" category>}}
+{{% expander "InterCityLyn (ICL)" category %}}
 **Beschreibung:** \
 InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteiander. \
 **Reservierung möglich:** ja \
@@ -31,9 +31,9 @@ InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 
 **Kosten für Reservierung:** 🟢 \
 30 kr (2. Klasse) \
 30 kr (1. Klasse)
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "InterCity (IC)" category>}}
+{{% expander "InterCity (IC)" category%}}
 **Beschreibung:** \
 InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
 **Reservierung möglich:** ja \
@@ -41,9 +41,9 @@ InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind l
 **Kosten für Reservierung:** 🟢 \
 30 kr (2. Klasse) \
 30 kr (1. Klasse)
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "EuroCity (EC)" category>}}
+{{% expander "EuroCity (EC)" category%}}
 **Beschreibung:** \
 EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
@@ -53,22 +53,22 @@ EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg u
 |-----------------------------|-----------|-----------|
 | Innerhalb Dänemarks         | 30 kr    | 30 kr    |
 | Grenzüberschreitende Strecken | 5,20 € | 6,50 € |
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Regionalzug (R) ℹ️" >}}
+{{% expander "Regionalzug (R) ℹ️" %}}
 **Beschreibung:** \
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam. \
 ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "S-tog (S)" >}}
+{{% expander "S-tog (S)" %}}
 **Beschreibung:** \
 Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch mit FIP-Fahrkarten genutzt werden. Sie verkehrt im dichten Takt mit Halt an allen Stationen und ist mit S-Bahn-Systemen in anderen Ländern gut zu vergleichen. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
-{{< /expander >}}
+{{% /expander %}}
 
 ## Ticket- und Reservierungskauf
 ### Online
@@ -107,12 +107,12 @@ Von Deutschland aus kann der durchgängige EC Hamburg - Kopenhagen genutzt werde
 Aus Schweden kann entweder aus Malmö über den Öresund gefahren oder von Helsingborg aus die Fähre nach Helsingør genutzt werden. Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden.
 
 ### Grenzpunkte
-{{< expander "Grenzpunkte" >}}
+{{% expander "Grenzpunkte" %}}
 | Bahngesellschaft | Grenzpunkte                                                                 |
 |------------------|----------------------------------------------------------------------------|
 | DB               | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
 | SJ               | Helsingborg (über Helsingør)                                              |
-{{< /expander >}}
+{{% /expander %}}
 
 ## Ermäßigungen
 Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
@@ -129,14 +129,14 @@ FIP-Angebote sind nicht gültig in Øresundståg-Zügen von Københavns Hovedban
 FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. FIP Freifahrtsscheine sind hingegen auch bei Fahrten nur innerhalb dieser Regionen gültig.
 
 ### Nutzung von Fähren
-{{< highlight inofficial >}}
+{{% highlight inofficial %}}
 Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Erfahrungen
-{{< highlight tip >}}
+{{% highlight tip %}}
 Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch oft ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Quellen
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

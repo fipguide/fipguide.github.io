@@ -26,11 +26,11 @@ The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. 
 
 ## Train Categories and Reservations
 
-{{< highlight important >}}
+{{% highlight important %}}
 All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.
-{{< /highlight >}}
+{{% /highlight %}}
 
-{{< expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" category >}}
+{{% expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" category %}}
 **Description:** \
 High-speed train between Great Britain and Europe \
 **Reservation possible:** yes \
@@ -41,9 +41,9 @@ High-speed train between Great Britain and Europe \
 | London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
 | London - Amsterdam / Rotterdam | ? € / 44.50 £ | ? € / 62 £ |
 | Brussels - Amsterdam / Rotterdam  | ? € / 15.50 £ | ? € / 30.50 £ |
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" category >}}
+{{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" category %}}
 **Description:** \
 High-speed train between Belgium, Germany, France, and the Netherlands \
 **Reservation possible:** yes \
@@ -54,22 +54,22 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 | Travel within one country | No FIP | No FIP |
 | Travel between 2 countries | 18 € | 35 € |
 | Travel between 3 countries | 20 € | 40 € |
-{{< /expander >}}
+{{% /expander %}}
 
-{{< expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" category >}}
+{{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" category %}}
 **Description:** \
 High-speed train from Amsterdam and Brussels to the French Alps. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare:** ⛔
-{{< /expander >}}
+{{% /expander %}}
 
 The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.
 FIP discounts are not available for the Eurostar Premiere category.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Ticket and Reservation Purchase
 
@@ -122,21 +122,21 @@ Children up to and including 3 years old travel free of charge but without a gua
 
 ### Ticket Quotas
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 All FIP fares are subject to quotas, so early booking is recommended.
-{{< /highlight >}}
+{{% /highlight %}}
 
 For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM and 7:00 PM, the FIP offer (1st Class and 2nd Class) is not available. [^2]
 
 ### Connections - HOTNAT
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) can be used.
 
 If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same operator can be taken. Rebooking to the next train can be done at the service counter on-site.
 
 HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Sources
 
