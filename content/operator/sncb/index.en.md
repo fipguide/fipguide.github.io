@@ -99,18 +99,18 @@ Additional trains to certain tourist destinations, often simply referred to as "
   For cross-border trains to and from Belgium, tickets with FIP 50 discount can be purchased here. Simply select the discount "50% discount Belgium (SNCB)" for travelers. Multiple discounts, such as a simultaneously available free travel pass for CFL (Luxembourg), can also be specified here. \
   **International tickets with free travel:** ✅ \
   If a free travel pass for SNCB is available, it can also be applied to cross-border trains. For this, select the discount "Free travel pass Belgium (SNCB)" for travelers. This allows, for example, very cheap bookings for trains from Belgium to Lille in France (except for the TGV, which has a global price and is not operated by SNCB).
-- Deutsche Bahn FIP Booking (FIP DB):  
-  Link in the DB Reisemarkt  
-  **Reservation:** ✅  
-  Cross-border reservations from Germany to Belgium or vice versa  
-  **FIP 50 tickets:** ✅  
-  Cross-border FIP 50 tickets, with ticket validity only for the Belgian section, for Deutsche Bahn employees  
+- Deutsche Bahn FIP Booking (FIP DB): \
+  Link in the DB Reisemarkt \
+  **Reservation:** ✅ \
+  Cross-border reservations from Germany to Belgium or vice versa \
+  **FIP 50 tickets:** ✅ \
+  Cross-border FIP 50 tickets, with ticket validity only for the Belgian section, for Deutsche Bahn employees
 
-- [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE)  
-  **Reservation:** ✅  
-  Cross-border reservations from Germany to Belgium or vice versa  
-  **FIP 50 tickets:** ✅  
-  Cross-border FIP 50 tickets for the entire route (not valid in the home country)  
+- [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
+  **Reservation:** ✅ \
+  Cross-border reservations from Germany to Belgium or vice versa \
+  **FIP 50 tickets:** ✅ \
+  Cross-border FIP 50 tickets for the entire route (not valid in the home country)
 
 ### On-site
 

@@ -100,16 +100,16 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
   **Internationale Fahrkarten mit Freifahrt:** ✅ \
   Bei Vorhandensein einer Freifahrt für die SNCB kann diese auch für grenzüberschreitende Züge angerechnet werden. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem TGV, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
 - Deutsche Bahn FIP-Buchung (FIP DB):
-  Link im DB Reisemarkt 
-  **Reservierung:** ✅  
-  Grenzüberschreitende Reservierungen von Deutschland nach Belgien oder umgekehrt   
-  **FIP 50 Fahrkarten:** ✅  
+  Link im DB Reisemarkt \
+  **Reservierung:** ✅ \
+  Grenzüberschreitende Reservierungen von Deutschland nach Belgien oder umgekehrt \
+  **FIP 50 Fahrkarten:** ✅ \
   Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den belgischen Abschnitt, für Mitarbeiter der Deutschen Bahn
-- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE)  
-  **Reservierung:** ✅  
-  Grenzüberschreitende Reservierungen von Deutschland nach Belgien oder umgekehrt   
-  **FIP 50 Fahrkarten:** ✅    
-  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land) 
+- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
+  **Reservierung:** ✅ \
+  Grenzüberschreitende Reservierungen von Deutschland nach Belgien oder umgekehrt
+  **FIP 50 Fahrkarten:** ✅ \
+  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
 
 ### Vor Ort
 

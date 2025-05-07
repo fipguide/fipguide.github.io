@@ -110,7 +110,7 @@ From Sweden, travel is possible either via Malmö over the Øresund or via Helsi
 | Railway Company | Border Points                                                               |
 |------------------|----------------------------------------------------------------------------|
 | DB               | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
-| SJ               | Helsingborg (via Helsingør)   
+| SJ               | Helsingborg (via Helsingør)
 {{< /expander >}}
 
 ## Discounts

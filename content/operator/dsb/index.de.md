@@ -96,7 +96,7 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 - Schalter der DSB: \
   **Reservierung:** ✅ \
   **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: 
+- Weitere Möglichkeiten: \
   Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
 
 ## Anreise und Grenzpunkte
@@ -130,7 +130,7 @@ FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im
 
 ### Nutzung von Fähren
 {{< highlight inofficial >}}
-Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1] 
+Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
 {{< /highlight >}}
 
 ## Erfahrungen
