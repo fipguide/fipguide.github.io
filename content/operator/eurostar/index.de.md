@@ -83,7 +83,7 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-- Mail an National Rail: \
+- E-Mail an International Rail Ltd: \
   [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
   Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben. \
   Erforderliche Angaben:
