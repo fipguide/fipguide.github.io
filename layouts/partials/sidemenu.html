@@ -8,7 +8,7 @@
                     {{ if eq .Page.Type "country" }}
                     <li>
                         <a href="{{ .RelPermalink }}">
-                            {{ partial "ico" (dict "icon" "arrow_back") }}
+                            {{ partial "icon" "arrow_back" }}
                             <span>{{ T "toc-backlink"}}: {{ .LinkTitle }}</span>
                         </a>
                     </li>
@@ -60,9 +60,29 @@
             </ul>
         {{ end }}
         <hr>
-        <a href="{{ .Site.Params.githubDevUrl }}blob/main/content{{ .Path }}/index.{{ .Language }}.md" target="_blank" rel="noopener noreferrer">
-            {{ partial "ico" (dict "icon" "edit_square" ) }}
-            {{ T "editPage"}}
-        </a>
+        {{ partial "link"
+            (dict
+                "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+                "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+            )
+        }}
+        {{ if eq .Page.Type "operator" }}
+            {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ partial "link"
+                (dict
+                    "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
+                    "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+                )
+            }}
+        {{ end }}
+        {{ if eq .Page.Type "country" }}
+            {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ partial "link"
+                (dict
+                    "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
+                    "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+                )
+            }}
+        {{ end }}
     </div>
 </aside>

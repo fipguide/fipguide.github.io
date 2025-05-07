@@ -1,5 +1,7 @@
+/assets/jsconfig.json
 node_modules/
 public/
 resources/
 hugo.exe
 .hugo_build.lock
+.venv

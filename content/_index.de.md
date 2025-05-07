@@ -6,7 +6,7 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 ## Willkommen beim FIP Guide!
 
 Die Community-Website für alle Informationen zu FIP (internationale Fahrvergünstigungen für Eisenbahnpersonal).
-In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften aufgeführt. 
+In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften aufgeführt.
 
 * [Grundlegende Informationen zu FIP]({{< ref "generalinformation" >}})
 * [Übersicht der Länder]({{< ref "country" >}})

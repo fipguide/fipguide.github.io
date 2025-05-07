@@ -11,7 +11,7 @@ country: '<Name des Landes auf Englisch>'
 Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
 - Welche FIP Fahrtkarten (FIP 50/FIP Freifahrtsscheine) werden im Land anerkannt und bei welchen Bahngesellschaften?
 - Welche Besonderheiten bei der Nutzung von FIP gibt es bei den jeweiligen Bahngesellschaften? (Verlinkung zur Bahngesellschaft hinzufügen)
-- Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft? 
+- Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft?
 >
 
 ## Wissenswertes

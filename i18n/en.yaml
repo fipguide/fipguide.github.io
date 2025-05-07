@@ -16,12 +16,14 @@ highlight-important: Important Information
 highlight-inofficial: Unofficial Information
 highlight-tip: Personal Tip
 news-headline: What's new?
+_operator__list_title: Operators supporting FIP
 updateDate: Last updated
 related: Related Pages
 toc_name: Contents
 _operator__nearby: Neighboring Operators
 toc-backlink: Back to
 editPage: Edit page
+reportError: Report an error
 anchorLink:
   copy: Copy link to this section
   copied: Link has been copied to the clipboard

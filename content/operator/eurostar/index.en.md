@@ -17,9 +17,9 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ⛔  
-FIP Coupon relatives: ⛔  
-FIP 50 Tickets: ⛔  
+FIP Coupon: ⛔ \
+FIP Coupon relatives: ⛔ \
+FIP 50 Tickets: ⛔ \
 FIP Global Fare: ✅
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
@@ -27,36 +27,49 @@ The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. 
 ## Train Categories and Reservations
 
 {{< highlight important >}}
-All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.  
+All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.
 {{< /highlight >}}
 
-{{< expander "Eurostar (Blue): London - Paris/Brussels/Amsterdam ⚠️" >}}
-**Description:**  
-High-speed train between Great Britain and Europe  
-**Reservation possible:** yes  
-**Reservation required:** ⚠️ yes  
-**FIP Global Fare:**  
-39 € (Standard / 2nd Class)  
-60 € (Plus / 1st Class)  
-No discount on Premier class  
+{{< expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" category >}}
+**Description:** \
+High-speed train between Great Britain and Europe \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare:**
+| Route       | Standard | Plus |
+| ----------- | -------- | ---- |
+| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
+| London - Amsterdam / Rotterdam | ? € / 44.50 £ | ? € / 62 £ |
+| Brussels - Amsterdam / Rotterdam  | ? € / 15.50 £ | ? € / 30.50 £ |
 {{< /expander >}}
 
-{{< expander "Eurostar (Red): Paris - Amsterdam/Brussels/Cologne/Dortmund ⚠️" >}}
-**Description:**  
-High-speed train between Belgium, Germany, France, and the Netherlands  
-**Reservation possible:** yes  
-**Reservation required:** ⚠️ yes  
-**FIP Global Fare:**  
-*Travel between 2 countries:*  
-18 € (Standard / 2nd Class)  
-35 € (Plus / 1st Class)  
-No discount on Premier class
-
-*Travel between 3 countries:*  
-20 € (Standard / 2nd Class)  
-40 € (Plus / 1st Class)  
-No discount (Premier)  
+{{< expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" category >}}
+**Description:** \
+High-speed train between Belgium, Germany, France, and the Netherlands \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare:**
+| Route       | Standard | Plus |
+| ----------- | -------- | ---- |
+| Travel within one country | No FIP | No FIP |
+| Travel between 2 countries | 18 € | 35 € |
+| Travel between 3 countries | 20 € | 40 € |
 {{< /expander >}}
+
+{{< expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" category >}}
+**Description:** \
+High-speed train from Amsterdam and Brussels to the French Alps. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare:** ⛔
+{{< /expander >}}
+
+The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.
+FIP discounts are not available for the Eurostar Premiere category.
+
+{{< highlight tip >}}
+When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
+{{< /highlight >}}
 
 ## Ticket and Reservation Purchase
 
@@ -64,38 +77,38 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 ### Online
 
-Online booking of tickets is currently not possible.  
+Online booking of tickets is currently not possible. \
 However, checking in, rebooking, canceling, and upgrading tickets is possible via the [Eurostar website](https://www.eurostar.com/).
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-- Email to National Rail:  
-  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk)  
-  Booking is only available in English. A booking fee of £10 is charged per booking.  
+- Email to National Rail: \
+  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
+  Booking is only available in English. A booking fee of £10 is charged per booking. \
   Required information:
   - Travel date and time
   - Departure and destination stations
   - Number of passengers
   - Travel class (based on the eligibility of the FIP card)
-  - Photo of the FIP card for all traveling persons  
+  - Photo of the FIP card for all traveling persons
 
   **Global Fare:** ✅
 
 ### Phone
-- [Eurostar](https://www.eurostar.com/rw-en/contact-us/eurostar-contact-details):  
-  UK: [+44 (0)3432 186 186](tel:+443432186186)  
-  France: [+33 (0)1 70 70 60 88](tel:+33170706088)  
-  Belgium: [+32 (0)2 400 67 76](tel:+3224006776)  
-  Netherlands: [+31 (0)20 532 32 32](tel:+31205323232)  
-  Germany: [+49 (0)30 7007 0000](tel:+493070070000)  
-  A spelling alphabet can assist in providing names and addresses. Payment is only possible by credit card.  
-  **FIP Global Fare:** ✅  
+- [Eurostar](https://www.eurostar.com/rw-en/contact-us/eurostar-contact-details): \
+  UK: [+44 (0)3432 186 186](tel:+443432186186) \
+  France: [+33 (0)1 70 70 60 88](tel:+33170706088) \
+  Belgium: [+32 (0)2 400 67 76](tel:+3224006776) \
+  Netherlands: [+31 (0)20 532 32 32](tel:+31205323232) \
+  Germany: [+49 (0)30 7007 0000](tel:+493070070000) \
+  A spelling alphabet can assist in providing names and addresses. Payment is only possible by credit card. \
+  **FIP Global Fare:** ✅
 
 ### On-Site
 
-- CFL/SNCB/NS:  
-  Online tickets can be sold at the counter. The FIP card for all traveling persons must be presented. At NS, booking is only possible at [international ticket counters](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).  
-  **FIP Global Fare:** ✅  
+- CFL/SNCB/NS: \
+  Online tickets can be sold at the counter. The FIP card for all traveling persons must be presented. At NS, booking is only possible at [international ticket counters](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops). \
+  **FIP Global Fare:** ✅
 
 ### Onboard
 

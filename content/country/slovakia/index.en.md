@@ -9,7 +9,7 @@ country: "slovakia"
 ## FIP Information
 
 Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK]({{< ref "/operator/zsr" >}} "ZSR/ZSSK") (Železničná
-spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid. 
+spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid.
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
 Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for RailJet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
