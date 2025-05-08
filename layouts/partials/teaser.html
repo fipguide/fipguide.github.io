@@ -8,8 +8,10 @@
 
 
     {{ $image := $page.Page.Resources.GetMatch "image.webp" }}
+    {{ if $image }}
     <div class="m-teaser__image{{ if $listview }} col-md-3 col-12{{ end }}">
-      {{ partial "image.html" $image }}
+      {{ partialCached "image.html" $image $image }}
+    {{ end }}
     </div>
   <div {{ if $listview }}class="col-md-9 col-12"{{ end }}>
       <time class="m-teaser__dateline" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
