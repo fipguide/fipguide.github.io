@@ -1,0 +1,8 @@
+{{ $contentImage := .Page.Resources.GetMatch "image.webp" }}
+{{ if $contentImage }}
+  {{ $contentImage = $contentImage.Permalink }}
+{{ else }}
+  {{ $contentImage = printf "%s%s" .Site.BaseURL "image.webp" }}
+{{ end }}
+
+{{ return $contentImage }}

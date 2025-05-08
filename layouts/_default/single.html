@@ -11,9 +11,4 @@
 
         {{ partial "related.html" . }}
     </article>
-
-    {{ with .Resources.GetMatch "image.webp" }}
-        {{ $image := . }}
-        {{ partial "structuredData.html" (dict "image" $image "type" "NewsArticle" "page" .) }}
-    {{ end }}
 {{ end }}

@@ -1,9 +1,7 @@
 {{ $dateMachine := partial "helper/dateMachine" . }}
 {{ $dateHuman := partial "helper/dateHuman" . }}
-<p>{{ $dateMachine }}</p>
-{{ printf "Hello, Hugo! The title of this page is: %s" .Title }}
 
-{{ if ne .Type "news" }}
+{{ if eq .Type "news" }}
   <div class="updateDate" data-pagefind-ignore="all">
     <span>{{ T "updateDate"}}:</span>
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>

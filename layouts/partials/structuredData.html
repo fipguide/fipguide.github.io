@@ -1,69 +1,69 @@
-<!-- Article -->
-{{ $dateMachine := "hallo" }}
-{{ if page.Date }}
-  {{ $dateMachine := page.Date | time.Format "2006-01-02T15:04:05-07:00" }}
-{{ else if page.GitInfo }}
-  {{ $dateMachine := page.GitInfo.AuthorDate | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ $dateMachine := partial "helper/dateMachine" . }}
+{{ $type := "" }}
+{{ if (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
+  {{ $type = "Article" }}
+{{ else if eq .Page.Type "news"}}
+  {{ $type = "NewsArticle" }}
 {{ end }}
 
-<!--
-TODO: $dateMachine doesnt work properly.
-TODO: image is not encoded properly.
-TODO: for now, partial is only in the single.html - it should be included in baseof.html
--->
+{{ $image := partial "helper/contentImage" . }}
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "url": "{{ page.Site.BaseURL }}",
+  "url": {{ page.Site.BaseURL }},
   "name": "{{ site.Title }}",
   "publisher": {
     "@type": "Organization",
     "name": "FIP Guide",
     "email": "nextstop@fipguide.org"
   },
+  {{- if not .IsHome }}
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{- $i := 1 }}
+      {{- range page.Ancestors.Reverse }}
+      {
+        "@type": "ListItem",
+        "position": {{ $i }},
+        "name": "{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}",
+        "url": {{ .Permalink }},
+        "item": {{ .Permalink }}
+      },
+      {{- $i = add $i 1 -}}
+      {{ end }}
+      {
+      "@type": "ListItem",
+      "position": {{ $i }},
+      "name": "{{ page.Title | safeJS }}",
+      "url": {{ page.Permalink }},
+      "item": {{ page.Permalink }}
+      }
+    ]
+  },
+  {{- end }}
+  {{- if $type }}
+  "mainEntity": {
+    "@type": "{{ $type }}",
+    "headline": "{{ page.Title }}",
+    "image": {{ $image }},
+    "dateModified": {{ $dateMachine }},
+    "author": {
+    "@type":"Organization",
+    "name": "FIP Guide",
+    "url": "https://www.fipguide.org/",
+    "email": "nextstop@fipguide.org"
+    }
+  },
+  {{- end }}
   "maintainer": {
     "@type": "Organization",
     "name": "FIP Guide",
     "email": "nextstop@fipguide.org"
   },
   "inLanguage": "{{ site.Language.LanguageCode }}",
-  "isAccessibleForFree": true,
-  {{- if not .IsHome }}
-    "breadcrumb": {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {{- $i := 1 }}
-        {{- range page.Ancestors.Reverse }}
-          {
-          "@type": "ListItem",
-          "position": {{ $i }},
-          "name": "{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}",
-          "url": {{ .Permalink }},
-          "item": {{ .Permalink }}
-          },
-          {{- $i = add $i 1 -}}
-        {{ end }}
-        {
-        "@type": "ListItem",
-        "position": {{ $i }},
-        "name": "{{ page.Title | safeJS }}",
-        "url": {{ page.Permalink }},
-        "item": {{ page.Permalink }}
-        }
-      ]
-    },
-  {{- end }}
-  "mainEntity":{
-    "@type": "{{ .type }}",
-    "headline": "{{ page.Title }}",
-    "image": "{{ .image.Permalink }}",
-    "dateModified": "{{ $dateMachine }}",
-    "author": [{
-      "@type":"Organization",
-      "name": "FIP Guide",
-      "url": "https://www.fipguide.org/",
-      "email": "nextstop@fipguide.org"
-    }]
-  }
+  "isAccessibleForFree": true
 }</script>
+
+<p>{{ $image }}</p>

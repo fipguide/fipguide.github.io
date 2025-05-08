@@ -38,8 +38,8 @@
                     </ul>
                 </div>
             </div>
+            <img src='{{ partial "helper/contentImage" . }}' aria-hidden="true">
         </div>
     </div>
 </article>
-{{ partial "structuredData.html" (dict "image" $image "type" "Article" "page" .) }}
 {{ end }}
