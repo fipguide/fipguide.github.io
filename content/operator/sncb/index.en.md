@@ -1,5 +1,4 @@
 ---
-date: "2025-02-15"
 draft: false
 title: "SNCB"
 description: "Find out about the FIP conditions at SNCB."

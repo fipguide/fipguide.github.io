@@ -1,5 +1,4 @@
 ---
-date: "2025-04-13"
 draft: false
 title: "ZSR / ZSSK"
 description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK."

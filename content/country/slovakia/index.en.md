@@ -1,5 +1,4 @@
 ---
-date: "2024-10-17"
 draft: false
 title: "Slovakia"
 description: "Find out about the FIP conditions for slovakia and for which operators you can benefit from discounts."
