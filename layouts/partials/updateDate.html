@@ -1,16 +1,15 @@
-{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-{{ $dateHuman := .Date | time.Format ":date_long" }}
+{{ $dateMachine := partial "helper/dateMachine" . }}
+{{ $dateHuman := partial "helper/dateHuman" . }}
+<p>{{ $dateMachine }}</p>
+{{ printf "Hello, Hugo! The title of this page is: %s" .Title }}
 
-{{ if .Date }}
-<div class="updateDate" data-pagefind-ignore="all">
-  {{ if ne .Type "news" }}
-  <span>{{ T "updateDate"}}:</span>
-  {{ end }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-</div>
+{{ if ne .Type "news" }}
+  <div class="updateDate" data-pagefind-ignore="all">
+    <span>{{ T "updateDate"}}:</span>
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  </div>
+
 {{ else if .GitInfo }}
-  {{ $dateMachine := .GitInfo.AuthorDate | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .GitInfo.AuthorDate | time.Format ":date_long" }}
   {{ $href := print .Site.Params.gitHubUrl "/commits/" .GitInfo.Hash "/content" .Path "/index." .Language ".md" }}
   <a
     href="{{ $href }}"
