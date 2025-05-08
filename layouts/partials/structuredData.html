@@ -12,55 +12,58 @@ TODO: image is not encoded properly.
 TODO: for now, partial is only in the single.html - it should be included in baseof.html
 -->
 
-<script type="application/ld+json">[{
+<script type="application/ld+json">{
   "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "{{ page.Site.BaseURL }}",
-    "name": "{{ site.Title }}",
-    "publisher": {
-      "@type": "Organization",
-      "name": "FIP Guide"
-    },
-    "inLanguage": "{{ site.Language.LanguageCode }}"
+  "@type": "WebSite",
+  "url": "{{ page.Site.BaseURL }}",
+  "name": "{{ site.Title }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "FIP Guide",
+    "email": "nextstop@fipguide.org"
   },
+  "maintainer": {
+    "@type": "Organization",
+    "name": "FIP Guide",
+    "email": "nextstop@fipguide.org"
+  },
+  "inLanguage": "{{ site.Language.LanguageCode }}",
+  "isAccessibleForFree": true,
   {{- if not .IsHome }}
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement":
-    [
-      {{- $i := 1 }}
-      {{- range page.Ancestors.Reverse }}
-        {
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {{- $i := 1 }}
+        {{- range page.Ancestors.Reverse }}
+          {
           "@type": "ListItem",
           "position": {{ $i }},
           "name": "{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}",
           "url": {{ .Permalink }},
           "item": {{ .Permalink }}
-        },
-        {{- $i = add $i 1 -}}
-      {{ end }}
-      {
+          },
+          {{- $i = add $i 1 -}}
+        {{ end }}
+        {
         "@type": "ListItem",
         "position": {{ $i }},
         "name": "{{ page.Title | safeJS }}",
         "url": {{ page.Permalink }},
         "item": {{ page.Permalink }}
-      }
-    ]
-  },
+        }
+      ]
+    },
   {{- end }}
-  {
+  "mainEntity":{
     "@type": "{{ .type }}",
     "headline": "{{ page.Title }}",
     "image": "{{ .image.Permalink }}",
     "dateModified": "{{ $dateMachine }}",
-    "author": [
-      {
-        "@type":"Organization",
-        "name": "FIP Guide",
-        "url": "https://www.fipguide.org/"
-      }
-    ]
-  }]
-</script>
+    "author": [{
+      "@type":"Organization",
+      "name": "FIP Guide",
+      "url": "https://www.fipguide.org/",
+      "email": "nextstop@fipguide.org"
+    }]
+  }
+}</script>
