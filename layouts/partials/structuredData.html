@@ -22,7 +22,8 @@ TODO: for now, partial is only in the single.html - it should be included in bas
       "name": "FIP Guide"
     },
     "inLanguage": "{{ site.Language.LanguageCode }}"
-  }, {{ if not .IsHome }}
+  },
+  {{- if not .IsHome }}
   {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -47,7 +48,8 @@ TODO: for now, partial is only in the single.html - it should be included in bas
         "item": {{ page.Permalink }}
       }
     ]
-  }, {{ end }}
+  },
+  {{- end }}
   {
     "@type": "{{ .type }}",
     "headline": "{{ page.Title }}",
