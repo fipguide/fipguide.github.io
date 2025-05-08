@@ -24,3 +24,22 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="apple-touch-icon" type="image/x-icon" href="/favicon.ico">
 <link rel="mask-icon" type="image/x-icon" href="/favicon.ico">
+
+{{- $currentPage := . -}}
+{{- range .Site.Languages -}}
+  {{- $lang := . -}}
+  {{- if eq $lang.Lang $currentPage.Lang -}}
+    <link rel="alternate" hreflang="{{ $lang.Lang }}" href="{{ $currentPage.Permalink }}" />
+  {{- else -}}
+    {{- with $currentPage.Translations -}}
+      {{- range . -}}
+        {{- if eq .Lang $lang.Lang -}}
+          <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}" />
+
+
