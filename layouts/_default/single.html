@@ -1,41 +1,19 @@
 {{ define "main" }}
-<article class="container o-single">
-    <div class="o-single__header">
-        <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-        {{ partial "updateDate.html" . }}
-    </div>
+    <article class="container o-single">
+        <div class="o-single__header">
+            <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+            {{ partial "updateDate.html" . }}
+        </div>
 
-    <div class="content" data-pagefind-body>
-        {{ .Content }}
-    </div>
+        <div class="content" data-pagefind-body>
+            {{ .Content }}
+        </div>
 
-    {{ partial "related.html" . }}
-</article>
+        {{ partial "related.html" . }}
+    </article>
 
-{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-
-
-{{ with .Resources.GetMatch "image.webp" }}
-{{ $image := . }}
-
-
-
-<script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "NewsArticle",
-        "headline": "{{ page.Title }}",
-        "image": "{{ $image.Permalink }}",
-        "datePublished": "{{ $dateMachine }}",
-        "author": [
-            {
-                "@type":"Organization",
-                "name": "FIP Guide",
-                "url": "https://www.fipguide.org/"
-            }
-        ]
-    }
-</script>
-
-{{ end }}
+    {{ with .Resources.GetMatch "image.webp" }}
+        {{ $image := . }}
+        {{ partial "structuredData.html" (dict "image" $image "type" "NewsArticle" "page" .) }}
+    {{ end }}
 {{ end }}
