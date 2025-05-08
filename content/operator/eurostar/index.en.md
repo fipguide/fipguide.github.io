@@ -82,7 +82,7 @@ However, checking in, rebooking, canceling, and upgrading tickets is possible vi
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-- Email to National Rail: \
+- Email to International Rail Ltd: \
   [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
   Booking is only available in English. A booking fee of £10 is charged per booking. \
   Required information:
