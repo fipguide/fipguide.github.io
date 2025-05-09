@@ -6,7 +6,7 @@
   {{ $type = "NewsArticle" }}
 {{ end }}
 
-{{ $image := (partial "helper/contentImage" .).Permalink }}
+{{ $image := (partial "helper/contentImage" .).RelPermalink }}
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -65,5 +65,3 @@
   "inLanguage": "{{ site.Language.LanguageCode }}",
   "isAccessibleForFree": true
 }</script>
-
-<p>{{ $image }}</p>
