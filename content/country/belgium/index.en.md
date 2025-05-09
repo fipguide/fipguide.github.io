@@ -11,7 +11,7 @@ In Belgium, both FIP 50 and FIP Coupons can be extensively used. The Belgian Nat
 
 Additionally, international [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains operate, which can be used at a discount with special FIP tickets. The trains are listed as train category `EST` in the connection information.
 
-Furthermore, international TGV trains of the SNCF from France operate, for which the free travel passes of the Belgian National Railway Company are not valid. Only special FIP global prices can be booked for these trains.
+Furthermore, international TGV trains of the SNCF from France operate, for which the free travel passes of the Belgian National Railway Company are not valid. Only special FIP global prices can be booked for these trains. For the Eurocity trains from Brussels tp Paris operated by OuiGo, no FIP discounts apply.
 
 ## Insteresting
 
@@ -24,3 +24,4 @@ Still pending
 ## Operators without FIP
 
 - European Sleeper
+- OuiGo

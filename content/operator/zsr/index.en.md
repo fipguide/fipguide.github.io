@@ -25,7 +25,9 @@ FIP Coupons and FIP 50 tickets are valid on ZSSK connections with the restrictio
 
 ## Train categories and reservations
 
+{{% highlight important %}}
 Reservation required for SC and IC trains. Other ZSSK trains only require a reservation in 1st class.  [^2]
+{{% /highlight %}}
 
 {{% expander "SuperCity (SC) ⚠️" category %}}
 **Description:** \
