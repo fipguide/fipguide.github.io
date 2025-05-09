@@ -1,6 +1,6 @@
 {{- $url := .Destination -}}
 {{- if strings.HasPrefix $url "http" -}}
-<a href="{{ $url }}" target="_blank" rel="noopener noreferrer"><span>{{ .Text }}</span>{{ partial "ico" (dict "icon" "arrow_outward" ) }}</a>
+{{ partial "link" . }}
 {{- else -}}
 <a href="{{ $url }}">{{ .Text }}</a>
 {{- end -}}

@@ -3,8 +3,7 @@ country:
   one: Land
   many: Länder
   other: Länder
-search-placeholder: Gib ein Land oder Bahnunternehmen ein
-search-button: Suchen
+search-placeholder: Suche
 footer-love:
   text: Made with ♥️ in Frankfurt & Köln
   aria-label: Made with love in Frankfurt & Köln
@@ -17,20 +16,13 @@ highlight-inofficial: Inoffizielle Information
 highlight-tip: Persönlicher Tipp
 news-headline: Was gibt's Neues?
 _operator__list_title: Betreiber mit FIP
-_country__list_title: Länder
-_news__list_title: Neuigkeiten
 updateDate: Zuletzt aktualisiert
 related: Verwandte Seiten
 toc_name: Inhalt
 _operator__nearby: Angrenzende Betreiber
 toc-backlink: Zurück zu
 editPage: Seite bearbeiten
-list-disclaimer: Momemtan sind noch nicht für alle Länder und Betreiber Informationen verfügbar. Den aktuellen Bearbeitungsstand findest du auf
-list-disclaimer-link: GitHub
+reportError: Melde ein Fehler
 anchorLink:
   copy: Link zu diesem Abschnitt kopieren
   copied: Link wurde in die Zwischenablage kopiert
-meta-description:
-  country: Überblick über die Länder, in denen FIP-Vergünstigungen genutzt werden können.
-  operator: Überblick über die Betreiber, die FIP-Vergünstigungen anbieten.
-  news: Aktuelle Informationen und Neuigkeiten rund um den FIP Guide.

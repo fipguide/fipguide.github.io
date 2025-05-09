@@ -14,6 +14,14 @@
     align-items: center;
 }
 
+.o-stage__searchfield {
+    position: absolute;
+    width: 60%;
+    height: 6rem;
+    background-color: white;
+    border-radius: var(--border-radius-l);
+}
+
 #search {
     position: absolute;
     width: 80%;

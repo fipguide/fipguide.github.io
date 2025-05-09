@@ -2,6 +2,10 @@
     font-size: 1.3rem;
 }
 
+.updateDate > .material-symbols-rounded {
+    font-size: 1.5rem
+}
+
 code {
     font-size: inherit;
     font-weight: 700;
@@ -25,4 +29,34 @@ th, td {
 
 .footnote-backref {
     padding: 1rem;
+}
+
+p {
+    margin-bottom: 3.2rem;
+    text-align: justify;
+}
+
+.footnotes {
+
+    p {
+        text-align: left;
+    }
+
+    hr {
+        display: none;
+    }
+}
+
+p:has( + ul),
+p:has( + ol) {
+    margin-bottom: 1rem;
+}
+
+p:has( + span) {
+    margin-bottom: 0;
+}
+
+article p:last-child,
+section p:last-child {
+    margin-bottom: 0;
 }

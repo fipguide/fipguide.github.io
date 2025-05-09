@@ -1,5 +1,4 @@
 ---
-date: "2024-10-17"
 draft: false
 title: "Slowakei"
 description: "Informationen über die FIP-Bedingungen für die Slowakei und für welche Betreiber Vergünstigungen genutzt werden können."

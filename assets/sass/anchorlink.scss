@@ -1,5 +1,18 @@
 .a-anchorlink {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.a-anchorlink::before {
+  content: "";
+  display: block;
+  width: 100%;
+  margin: 2rem 0;
+  background-image: url("/intersector.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 2.4rem;
+  opacity: 50%;
 }
 
 .a-anchorlink__link {
@@ -11,6 +24,7 @@
   margin-left: .8rem;
   border-radius: var(--border-radius-s);
   opacity: .8;
+  text-decoration: none;
 
   &:hover,
   &:focus {

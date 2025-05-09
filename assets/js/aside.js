@@ -39,4 +39,3 @@ if (document.readyState === "interactive") {
     initAside();
   });
 }
-

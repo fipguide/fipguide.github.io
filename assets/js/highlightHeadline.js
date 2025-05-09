@@ -72,7 +72,7 @@ function initHighlightHeadline() {
         );
 
         headings.forEach((heading) => observer.observe(heading));
-        
+
         return observer;
     }
 
