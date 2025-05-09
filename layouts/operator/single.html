@@ -24,7 +24,7 @@
                         {{- end -}}
                     </div>
                 </div>
-                <img src='{{ partial "helper/contentImage" . }}' aria-hidden="true">
+                {{ partial "image.html" (partial "helper/contentImage" . ) }}
             </div>
         </div>
     </article>

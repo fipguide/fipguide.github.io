@@ -6,7 +6,7 @@
   {{ $type = "NewsArticle" }}
 {{ end }}
 
-{{ $image := partial "helper/contentImage" . }}
+{{ $image := (partial "helper/contentImage" .).Permalink }}
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",
