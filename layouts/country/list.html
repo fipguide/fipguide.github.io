@@ -8,7 +8,7 @@
         <div class="o-list__picture">
           {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
           {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
-          {{ partial "image.html" $image }}
+          {{ partialCached "image.html" $image $image }}
         </div>
         <div>
           {{ .Title }}
