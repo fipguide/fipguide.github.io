@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --resourceDir /opt/build/cache/resources_cache && npx -y pagefind --site public"
   publish = "public"
 
 [build.environment]
