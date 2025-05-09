@@ -50,6 +50,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "npm ci"
+      - name: Configure Hugo resource Cache
+        run: "echo 'resourceDir: ${{ runner.temp }}/resources_cache' >> hugo.yaml"
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -60,7 +62,6 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-            --resourceDir "${{ runner.temp }}/resources_cache"
       - name: Create custom 404 page
         run: cp public/en/404.html public/404.html
       - name: Initialize search index
