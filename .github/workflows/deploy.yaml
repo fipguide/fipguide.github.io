@@ -51,7 +51,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "npm ci"
       - name: Configure Hugo resource Cache
-        run: "echo 'resourceDir: ${{ runner.temp }}/resources_cache' >> hugo.yaml"
+        run: "echo 'resourceDir: ${{ runner.temp }}/resources_cache' >> hugo.yaml && cat hugo.yaml"
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
