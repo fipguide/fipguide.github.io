@@ -42,12 +42,16 @@ Are reservations possible and where is there a reservation requirement?
 {{% expander "<Name (Abbreviation)><add ⚠️ for reservation requirement and 1️⃣ for reservation requirement in 1st class>" <expander-group> %}}
 **Description:** \
 <Description of the category>
-**Reservation possible:** <yes/no> \
-**Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
-**Cost of reservation:** <🟢/🟡/🔴 - Traffic light system indicating the cost of the reservation> \
-<Price 2nd class> (2nd class) \
-<Price 1st class> (1st class) \
+**Reservation possible:** <yes/no>  
+**Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class>  
+(
+**Cost of reservation:** <🟢/🟡/🔴 - Traffic light system indicating the cost of the reservation> 
+<Price 2nd class> (2nd class)  
+<Price 1st class> (1st class)
 <if there are no fixed prices, then provide an approximate price "from">
+**Supplement:** <⚠️>
+<optional description supplements>
+)
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase
