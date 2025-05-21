@@ -31,7 +31,7 @@ Within Belgium, no reservation is required for SNCB and in many trains, it is no
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
 **Reservation possible:** yes \
 **Reservation required:** no \
-**Cost of reservation:** 🟡
+**Cost of reservation:** 🟡 \
 5.20 € (2nd class) \
 6.50 € (1st class)
 {{% /expander %}}
