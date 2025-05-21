@@ -42,12 +42,16 @@ Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
 {{% expander "<Name (Abkürzung)><hinzufügen von ⚠️ für Reservierungspflicht und 1️⃣ für Reservierungspflicht in der 1. Klasse>" <expander-gruppe> %}}
 **Beschreibung:**
 <Beschreibung der Kategorie>
-**Reservierung möglich:** <ja/nein> \
-**Reservierungspflicht:** <⚠️ ja/nein/⚠️1️⃣ nur 1. Klasse> \
-**Kosten für Reservierung:** <🟢/🟡/🔴 - Farbampel über Preishöhe der Reservierung> \
-<Preis 2. Klasse> (2. Klasse) \
+**Reservierung möglich:** <ja/nein>  
+**Reservierungspflicht:** <⚠️ ja/nein/⚠️1️⃣ nur 1. Klasse>  
+(
+**Kosten für Reservierung:** <🟢/🟡/🔴 - Farbampel über Preishöhe der Reservierung> 
+<Preis 2. Klasse> (2. Klasse)  
 <Preis 1. Klasse> (1. Klasse)
 <gibt es keine Festpreise, dann einen groben Preis "ab" angeben>
+**Zuschlag:** <⚠️>
+<optionale Beschreibung bei Zuschlägen/Aufpreis>
+)
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
