@@ -31,7 +31,7 @@ Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in viele
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟡
+**Kosten für Reservierung:** 🟡 \
 5,20 € (2. Klasse) \
 6,50 € (1. Klasse)
 {{% /expander %}}
