@@ -9,6 +9,6 @@ country: "netherlands"
 
 ## FIP Information
 
-## Insteresting
+## Interesting
 
 ## FIP Rating
