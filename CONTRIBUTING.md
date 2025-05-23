@@ -64,3 +64,17 @@ Now, enable `pre-commit` to run the check every time you want to commit changes:
 ```zsh
 pre-commit install
 ```
+
+### Add new pages
+
+To add a new country:
+
+```zsh
+hugo new country/${COUNTRY} # Replace ${COUNTRY} with the English country name in lowercase
+```
+
+To add a new operator:
+
+```zsh
+hugo new operator/${OPERATOR} # Replace ${OPERATOR} with the English operator name in lowercase
+```

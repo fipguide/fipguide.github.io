@@ -25,7 +25,9 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der E
 
 ## Zugkategorien und Reservierungen
 
+{{% highlight important %}}
 Reservierungspflicht für SC- und IC-Züge. Andere ZSSK Züge erfordern nur eine Reservierung in der 1. Klasse. [^2]
+{{% /highlight %}}
 
 {{% expander "SuperCity (SC) ⚠️" category %}}
 **Beschreibung:** \
