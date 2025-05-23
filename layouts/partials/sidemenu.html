@@ -30,7 +30,7 @@
                     {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                     <li>
                         <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                            {{ partial "ico" (dict "icon" $object "theme" "logos" "height" "25" "width" "35") }}
+                            {{ partial "logo" $object }}
                             {{ .LinkTitle }}
                         </a>
                     </li>
@@ -50,8 +50,8 @@
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         <li>
                             <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                                {{ partial "ico" (dict "icon" $object "theme" "logos" "height" "25" "width" "35") }}
-                                {{ .LinkTitle }}
+                                {{ partial "logo" $object }}
+                                <span>{{ .LinkTitle }}</span>
                             </a>
                         </li>
                         {{ end }}
