@@ -8,6 +8,10 @@ summary {
   }
 }
 
+.details-print {
+  display: none;
+}
+
 details {
   position: relative;
   padding: 1.2rem;
@@ -24,8 +28,8 @@ details > summary {
   list-style-type: none;
 }
 
-details > div,
-summary {
+.details-screen > div,
+.details-screen > summary {
   margin-left: 3.2rem;
 }
 
@@ -41,7 +45,7 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-summary::before {
+.details-screen > summary::before {
   content: "add";
   position: absolute;
   left: 1.2rem;
@@ -49,7 +53,7 @@ summary::before {
   @extend .material-symbols-rounded
 }
 
-details[open] > summary::before {
+.details-screen[open] > summary::before {
   content: "remove";
   font-size: 2.4rem;
   @extend .material-symbols-rounded
@@ -57,4 +61,17 @@ details[open] > summary::before {
 
 details[open] > summary {
   font-weight: 700;
+}
+
+
+@media print {
+  .details-screen {
+    display: none;
+  }
+
+  .details-print {
+    border: solid;
+    page-break-inside: avoid;
+    display: block;
+  }
 }

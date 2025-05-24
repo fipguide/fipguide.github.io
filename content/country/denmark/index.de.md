@@ -7,7 +7,7 @@ country: "denmark"
 
 ## FIP Nutzung
 
-In Dänemark ist es möglich quer durch das Land auf den Hauptstrecken mit FIP 50 und FIP Freifahrtsscheinen unterwegs zu sein. Die Danske Statsbaner (DSB) [DSB]({{< ref "/operator/dsb" >}} "DSB") betreibt ein durchgehendes Netz, von denen einige Nebenstrecken abgehen, die in den meisten Fällen von privaten Bahngesellschaften (z. B. GoCollective) betrieben werden. Auf diesen wird FIP nicht anerkannt. Auch für die durch Dänemark verkehrenden Nachtzüge der Betreiber SJ und Snälltåget sind keine FIP-Vergünstigungen möglich. Ebenfalls betroffen sind die Verbindungen, die von Kopenhagen aus in Richtung Schweden verkehren.
+In Dänemark ist es möglich quer durch das Land auf den Hauptstrecken mit FIP 50 und FIP Freifahrtsscheinen unterwegs zu sein. Die Danske Statsbaner ([DSB]({{< ref "/operator/dsb" >}} "DSB")) betreibt ein durchgehendes Netz, von denen einige Nebenstrecken abgehen, die in den meisten Fällen von privaten Bahngesellschaften (z. B. GoCollective) betrieben werden. Auf diesen wird FIP nicht anerkannt. Auch für die durch Dänemark verkehrenden Nachtzüge der Betreiber SJ und Snälltåget sind keine FIP-Vergünstigungen möglich. Ebenfalls betroffen sind die Verbindungen, die von Kopenhagen aus in Richtung Schweden verkehren.
 
 ## Wissenswertes
 
