@@ -1,0 +1,26 @@
+{{ $metaDescription := "" }} <!-- Initialisierung der Variable -->
+{{ if eq .Page.Type "country" }}
+    {{ $metaDescription = T "meta-description.country" }}
+{{ else if eq .Page.Type "news" }}
+    {{ $metaDescription = T "meta-description.news" }}
+{{ else if eq .Page.Type "news" }}
+    {{ $metaDescription = T "meta-description.news" }}
+{{ else }}
+    {{ $metaDescription = .Description }}
+{{ end }}
+
+<meta charset="utf-8" xmlns:og="http://www.w3.org/1999/xhtml" />
+<meta name="description" content="{{ $metaDescription }}" />
+<meta name="dc.relation" content="{{ .Site.BaseURL }}" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="theme-color" content="#BA3D12" />
+<meta property="og:url" content='{{ .Permalink }}'>
+<meta property="og:site_name" content='{{ site.Title }}'>
+<meta property="og:title" content='{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}'>
+<meta property="og:description" content="{{ $metaDescription }}" />
+<meta property="og:type" content='{{ if .IsPage }}article{{ else }}website{{ end }}'>
+<meta property="og:image" content="{{ .Site.BaseURL }}og-image.jpg">
+<meta property="og:image:type" content="image/jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="robots" content="index,follow">
