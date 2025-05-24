@@ -1,0 +1,8 @@
+{{ $dateHuman := "" }}
+
+{{ if .Date }}
+  {{ $dateHuman = .Date | time.Format ":date_long" }}
+{{ else if .GitInfo }}
+  {{ $dateHuman = .GitInfo.AuthorDate | time.Format ":date_long" }}
+{{ end }}
+{{ return $dateHuman }}

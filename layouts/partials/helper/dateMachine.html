@@ -1,0 +1,8 @@
+{{ $dateMachine := "" }}
+
+{{ if page.Date }}
+  {{ $dateMachine = page.Date | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ else if page.GitInfo }}
+  {{ $dateMachine = page.GitInfo.AuthorDate | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ end }}
+{{ return $dateMachine }}
