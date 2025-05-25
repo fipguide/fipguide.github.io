@@ -1,5 +1,4 @@
 ---
-date: "2025-05-02"
 draft: false
 title: "NS"
 description: "Informationen über die FIP-Bedingungen bei NS."

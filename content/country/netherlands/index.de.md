@@ -1,10 +1,11 @@
 ---
-date: "2024-10-17"
 draft: false
 title: "Niederlande"
 description: "Informationen über die FIP-Bedingungen für die Niederlande und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "netherlands"
 ---
+
+{{< snippet wip >}}
 
 ## FIP Nutzung
 In den Niederlanden können FIP 50 Tickets und FIP Freifahrtsscheine auf einem großen Teil des Netzes genutzt werden. Die [Nederlandse Spoorwegen (NS)]({{< ref "/operator/ns" >}} "NS") ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.  

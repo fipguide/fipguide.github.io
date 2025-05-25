@@ -1,5 +1,4 @@
 ---
-date: "2024-10-17"
 draft: false
 title: "Belgium"
 description: "Find out about the FIP conditions for Belgium and for which operators you can benefit from discounts."

@@ -1,5 +1,4 @@
 ---
-date: '{{ .Date }}'
 draft: <true/false>
 title: '<Name of the country in English>'
 country: '<Name of the country in English>'
