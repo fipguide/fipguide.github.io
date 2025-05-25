@@ -21,7 +21,7 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 
 Still pending
 
-## Operators Without FIP
+## Operators without FIP
 
 - GoCollective (formerly Arriva Danmark)
 - Lokaltog
