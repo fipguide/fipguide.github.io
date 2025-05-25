@@ -1,5 +1,4 @@
 ---
-date: "2025-05-25"
 draft: false
 title: "Spanien"
 description: "Informationen über die FIP-Bedingungen für Spanien und für welche Betreiber Vergünstigungen genutzt werden können."
@@ -24,4 +23,3 @@ Noch ausstehend
 
 - Iryo
 - OUIGO
-

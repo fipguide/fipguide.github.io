@@ -1,5 +1,4 @@
 ---
-date: "2025-05-01"
 draft: false
 title: "Spain"
 description: "Find out about the FIP conditions for spain and for which operators you can benefit from discounts."

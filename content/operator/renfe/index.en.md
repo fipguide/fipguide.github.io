@@ -1,5 +1,4 @@
 ---
-date: "2025-05-01"
 draft: false
 title: "Renfe"
 description: "Information about the FIP conditions at Renfe."
