@@ -129,7 +129,7 @@ Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / A
 
 ### Niederlande
 
-Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der NS benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der NS benötigt. Darüber hinaus verkehren Fernzüge (ECD und EC), bei denen auf dem niederländischen Abschnitt (zwischen Rotterdam und Schiphol) ein zusätzlicher Aufschlag dazukommen kann. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Frankreich
 
