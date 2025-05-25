@@ -9,7 +9,7 @@ The Belgian national railway company SNCB / NMBS now offers tickets with FIP dis
 
 ## The following tickets are available
 
-The offer includes the following options: \
+The offer includes the following options:
 - Cross-border tickets with free travel in Belgium \
 If you have a free travel pass for SNCB / NMBS and want to travel cross-border, e.g., from Belgium to France, you can now select the discount "Free travel pass Belgium (SNCB)" via the timetable information on https://www.b-europe.com/. Thus, only the price for the remaining section in the neighboring country is calculated. For example, the connection Gent - Lille is currently available for only 2 Euros.
 - Cross-border tickets with FIP 50 in Belgium \
