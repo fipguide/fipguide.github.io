@@ -33,6 +33,14 @@ details > summary {
   margin-left: 3.2rem;
 }
 
+details > div {
+  overflow-x: auto;
+}
+
+details > div > * {
+  margin-right: 1rem;
+}
+
 details > summary::-webkit-details-marker {
   display: none;
 }
