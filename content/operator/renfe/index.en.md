@@ -145,11 +145,6 @@ The Celta is an international cooperation train between Renfe and the Portuguese
   It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee. \
   ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
 
-  {{% highlight tip %}}
-  It has been reported that at the DB Travel Center only the price of class "T" is charged for class "P" tickets, see also on the following ticket: \
-  ![Example ticket Euromed from ](./images/euromed_ticket.webp)
-  {{% /highlight %}}
-
 - Sales points of Renfe in Spain:
   All tickets subject to reservation and tickets without reservation (FIP 50) can be booked at Renfe points of sale. An additional fee of €0.55 is charged for tickets requiring a reservation.
 

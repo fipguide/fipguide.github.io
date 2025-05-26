@@ -138,11 +138,6 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
   Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \
   ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
 
-  {{% highlight tip %}}
-  Es wurde berichtet, dass im DB Reisezentrum bei Tickets der Klasse "P" nur der Preis der Klasse "T" berechnet wird, siehe auch auf dem folgenden Ticket: \
-  ![Beispielticket Euromed von ](./images/euromed_ticket.webp)
-  {{% /highlight %}}
-
 - Verkaufsstellen der Renfe in Spanien:
   In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis sowie Tickets ohne Reservierung (FIP 50) gebucht werden. Für reservierungspflichtige Tickets fällt zusätzlich eine Gebühr von 0,55 € an.
 
