@@ -8,8 +8,8 @@
         <item>
             <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
-            <description>{{ .Summary | plainify }}</description>
-            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+            <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
+            <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         </item>
         {{ end }}
     </channel>
