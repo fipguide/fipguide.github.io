@@ -9,7 +9,7 @@ Die belgische Staatsbahn SNCB / NMBS bietet auf ihrer [Website für internationa
 
 ## Folgende Tickets sind möglich
 
-Das Angebot umfasst folgende Möglichkeiten: \
+Das Angebot umfasst folgende Möglichkeiten:
 - Grenzüberschreitende Tickets mit Freifahrt in Belgien \
 Wenn du eine Freifahrt für die SNCB / NMBS hast und grenzüberschreitend z. B. von Belgien nach Frankreich fahren willst, kann über die Fahrplanauskunft auf https://www.b-europe.com/ nun die Ermäßigung "Freifahrtschein Belgien (SNCB)" gewählt werden. Somit wird nur der Preis für den restlichen Abschnitt im Nachbarland berechnet. Die Verbindung Gent - Lille bekommt man so beispielsweise aktuell zum Preis von nur 2 Euro.
 - Grenzüberschreitende Tickets mit FIP 50 in Belgien \

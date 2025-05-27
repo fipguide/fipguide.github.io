@@ -4,7 +4,7 @@
 <div class="curtain" aria-hidden="true"></div>
 <article class="container o-single o-single--with-sidemenu">
     <div class="row">
-        <div class="col-12 col-lg-4">
+        <div class="col-12 col-lg-4 sidemenu">
             {{ partial "sidemenu.html" . }}
         </div>
 
@@ -38,6 +38,7 @@
                     </ul>
                 </div>
             </div>
+            {{ partial "image" (partial "helper/contentImage" . ) }}
         </div>
     </div>
 </article>
