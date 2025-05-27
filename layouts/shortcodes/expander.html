@@ -1,6 +1,20 @@
-<details name="{{ (.Get 1) }}">
+<details name="{{ (.Get 1) }}" class="details-screen">
 <summary>
     {{ (.Get 0) }}
+</summary>
+<div>
+    {{ .Inner }}
+</div>
+</details>
+
+<!--
+    Workaround for print version, otherwise the expanders would be closed.
+    The workaround can be removed when the following issue is implemented:
+    https://github.com/w3c/csswg-drafts/issues/2084
+-->
+<details open class="details-print">
+<summary>
+    <span>{{ (.Get 0) }}</span>
 </summary>
 <div>
     {{ .Inner }}

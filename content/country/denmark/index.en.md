@@ -7,9 +7,9 @@ country: "denmark"
 
 ## FIP Usage
 
-In Denmark, it is possible to travel across the country on main routes using FIP 50 and FIP Coupon. The Danske Statsbaner (DSB) [DSB]({{< ref "/operator/dsb" >}} "DSB") operates a continuous network, with some branch lines operated by private railway companies (e.g., GoCollective) where FIP is not accepted. FIP discounts are also not available for night trains passing through Denmark operated by SJ and Snälltåget. Connections from Copenhagen towards Sweden are similarly excluded.
+In Denmark, it is possible to travel across the country on main routes using FIP 50 and FIP Coupon. The Danske Statsbaner ([DSB]({{< ref "/operator/dsb" >}} "DSB")) operates a continuous network, with some branch lines operated by private railway companies (e.g., GoCollective) where FIP is not accepted. FIP discounts are also not available for night trains passing through Denmark operated by SJ and Snälltåget. Connections from Copenhagen towards Sweden are similarly excluded.
 
-## Insteresting
+## Interesting
 
 Denmark has a relatively dense railway network that connects both the mainland of Jutland and the islands of Falster, Zealand, and Funen. The network is interconnected. The country distinguishes between regional and long-distance trains in terms of fares. Additionally, there are often special fares per operator (e.g., a special weekend day pass for GoCollective's network), but cross-operator tickets can also be purchased.
 
@@ -21,7 +21,7 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 
 Still pending
 
-## Operators Without FIP
+## Operators without FIP
 
 - GoCollective (formerly Arriva Danmark)
 - Lokaltog

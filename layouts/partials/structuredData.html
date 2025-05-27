@@ -1,0 +1,77 @@
+{{ $dateMachine := partial "helper/dateMachine" . }}
+{{ $mainEntity := "" }}
+{{ if (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
+  {{ $mainEntity = "Article" }}
+{{ else if eq .Page.Type "news"}}
+  {{ $mainEntity = "NewsArticle" }}
+{{ end }}
+
+{{ $image := (partial "helper/contentImage" .).Permalink }}
+
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "{{ site.Title }}",
+      "url": {{ page.Site.BaseURL }}
+    },
+    {
+      "@type": "WebPage",
+      "url": {{ .Permalink }},
+      "name": "{{ .Title }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "FIP Guide",
+        "email": "nextstop@fipguide.org"
+      },
+      {{- if not .IsHome }}
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {{- $i := 1 }}
+          {{- range page.Ancestors.Reverse }}
+          {
+            "@type": "ListItem",
+            "position": {{ $i }},
+          "name": "{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}",
+          "url": {{ .Permalink }},
+          "item": {{ .Permalink }}
+        },
+          {{- $i = add $i 1 -}}
+          {{ end }}
+          {
+            "@type": "ListItem",
+            "position": {{ $i }},
+          "name": "{{ page.Title | safeJS }}",
+          "url": {{ page.Permalink }},
+          "item": {{ page.Permalink }}
+        }
+        ]
+      },
+      {{- end }}
+      {{- if $mainEntity }}
+      "mainEntity": {
+        "@type": "{{ $mainEntity }}",
+        "headline": "{{ page.Title }}",
+        "image": {{ $image }},
+        "dateModified": {{ $dateMachine }},
+        "author": {
+          "@type":"Organization",
+          "name": "FIP Guide",
+          "url": "https://www.fipguide.org/",
+          "email": "nextstop@fipguide.org"
+        }
+      },
+      {{- end }}
+      "maintainer": {
+        "@type": "Organization",
+        "name": "FIP Guide",
+        "email": "nextstop@fipguide.org"
+      },
+      "inLanguage": "{{ site.Language.LanguageCode }}",
+      "isAccessibleForFree": true
+    }
+  ]
+}
+  </script>
