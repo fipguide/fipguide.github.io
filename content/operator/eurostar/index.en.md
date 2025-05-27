@@ -60,7 +60,7 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 High-speed train from Amsterdam and Brussels to the French Alps. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**FIP Global Fare:** ⛔
+**FIP:** ⛔ FIP is not accepted
 {{% /expander %}}
 
 The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.
@@ -69,6 +69,12 @@ FIP discounts are not available for the Eurostar Premiere category.
 {{% highlight tip %}}
 When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
 {{% /highlight %}}
+
+## Class Categories
+
+**Standard**: Comparable to 2nd class.
+**Plus**: 1st class including a meal (only Eurostar Blue). A 1st class FIP pass is required.
+**Premium**: 1st class including extensive catering and lounge access. Not available with FIP.
 
 ## Ticket and Reservation Purchase
 

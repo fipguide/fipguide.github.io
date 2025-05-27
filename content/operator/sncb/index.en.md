@@ -10,7 +10,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 ## Summary
 
-- SNCB accepts FIP free travel and FIP 50 tickets
+- SNCB accepts FIP Coupons and FIP 50 tickets
 - No reservation required
 - Surcharge for trips to/from Brussels Zaventem Airport
 
@@ -133,7 +133,7 @@ From the Netherlands, cross-border regional trains (including IC here) can be us
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP free travel passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Border Points
 

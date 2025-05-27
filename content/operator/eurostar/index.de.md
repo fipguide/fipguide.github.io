@@ -61,7 +61,7 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis:** ⛔
+**FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
 
 Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
@@ -70,6 +70,12 @@ Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich
 {{% highlight tip %}}
 Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
 {{% /highlight %}}
+
+## Klassenkategorien
+
+**Standard**: Vergleichbar mit der 2. Klasse. \
+**Plus**: 1. Klasse inkl. Mahlzeit (nur Eurostar Blue). Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Premium**: 1. Klasse inkl. umfangreicher Verpflegung und Loungezugang. Nicht mit FIP buchbar.
 
 ## Ticket- und Reservierungskauf
 
