@@ -8,7 +8,9 @@
         <item>
             <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
-            <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
+            <!-- Remove the icons and XML escape the summary -->
+            {{ $cleanedHTML := .Summary | replaceRE `<span[^>]*class="material-symbols-rounded"[^>]*>.*?</span>` "" | transform.XMLEscape | safeHTML}}
+            <description>{{ $cleanedHTML }}</description>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         </item>
         {{ end }}
