@@ -69,17 +69,14 @@ FIP Globalpreis: <✅/⛔>
 
 ## Klassenkategorien
 
-
 <!--
   Wenn die Klassenkategorien zusätzliche/andere Klassen zu 1. und 2. Klasse haben, dann können diese hier beschrieben werden. Ansonsten kann dieser Abschnitt entfernt werden.
 -->
 
 <!--
-
 **Standard**: Vergleichbar mit der 2. Klasse. \
 **Plus**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
 **Premium**: 1. Klasse inkl. Verpflegung. Nicht mit FIP buchbar.
-
 -->
 
 ## Ticket- und Reservierungskauf

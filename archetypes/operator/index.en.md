@@ -58,6 +58,7 @@ FIP Global Fare: <✅/⛔>
 **Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
 **Cost of reservation:** <!-- Enter the costs here by class, route, etc. If there are no fixed prices, then provide a price range or examples. --> \
 2nd class: XX€ \
+1st class: XX€
 <!-- If FIP is not valid, add the following:
 **FIP:** ⛔ FIP is not accepted
 -->
@@ -73,11 +74,9 @@ FIP Global Fare: <✅/⛔>
 -->
 
 <!--
-
 **Standard**: Comparable to 2nd class. \
 **Plus**: 1st class without catering. An FIP pass for 1st class is required. \
 **Premium**: 1st class including catering. Not bookable with FIP.
-
 -->
 
 ## Ticket and Reservation Purchase

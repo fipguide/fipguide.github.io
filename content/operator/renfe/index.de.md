@@ -102,7 +102,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 
 {{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
 **Beschreibung:** \
-Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig. \
+Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
