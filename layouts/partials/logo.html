@@ -1,4 +1,4 @@
-{{ $logo := resources.Get (printf "/svg/logos/%s.svg" .) }}
+{{ $logo := resources.Get (printf "/images/logos/%s.svg" .) }}
 {{ if $logo }}
 <img data-pagefind-meta="img" src="{{ $logo.RelPermalink }}" alt="" style="height: 1.3em; width: auto" />
 {{ end }}
