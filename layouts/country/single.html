@@ -14,7 +14,7 @@
                     <div class="o-single__header__title">
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
-                        <img data-pagefind-meta="img" src="{{ $image.RelPermalink }}" alt="" />
+                        <img data-pagefind-meta="image[src]" src="{{ $image.RelPermalink }}" alt="" />
                         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                     </div>
                     {{ partial "updateDate.html" . }}

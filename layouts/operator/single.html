@@ -12,7 +12,7 @@
                             {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                             {{ $logo := resources.Get (printf "images/logos/%s.svg" $object) }}
                             {{ if $logo }}
-                                <img data-pagefind-meta="img" src="{{ $logo.RelPermalink }}" alt="" />
+                                <img data-pagefind-meta="image[src]" src="{{ $logo.RelPermalink }}" alt="" />
                             {{ end }}
                             <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                         </div>
