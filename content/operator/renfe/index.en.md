@@ -102,6 +102,18 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 {{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
 **Description:** \
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions. \
+- Cercanías Asturias
+- Cercanías Bilbao – Bilboko Aldiriak
+- Cercanías Cádiz
+- Cercanías Madrid
+- Cercanías Málaga
+- Cercanías Murcia/Alicante – Rodalia de Múrcia/Alacant
+- Cercanías Sevilla
+- Cercanías Santander
+- Cercanías San Sebastián – Renfe Aldiriak/Donostia
+- Cercanías Valencia – Rodalia de València
+- Cercanías Zaragoza
+- Rodalies de Catalunya
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
