@@ -45,7 +45,7 @@ FIP Globalpreis: <✅/⛔>
 <!--
   Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden.
   Im Titel können folgende Emojis verwendet werden:
-  - ⚠️ für eine generelle Reservierungspflicht
+  - ⚠️ für eine generelle Reservierungspflicht oder Zuschläge
   - 1️⃣ für eine Reservierungspflicht in der 1. Klasse
   - ⛔ für eine Nichtanerkennung von FIP
   - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
