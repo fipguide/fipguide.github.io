@@ -63,7 +63,7 @@
         {{ partial "link"
             (dict
                 "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-                "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+                "Text" ((print (partial "icon" "edit_square") (T "editPage")) | .Page.RenderString)
             )
         }}
         {{ if eq .Page.Type "operator" }}

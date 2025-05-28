@@ -1,15 +1,15 @@
 {{ define "main" }}
-<div class="container o-list">
-  <div class="row">
-    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-    {{ .Content }}
-    <ul class="o-list__link-wrapper row">
-      {{ range .Pages }}
-    <li class="col-12 col-lg-3 col-sm-6">
-      {{ partial "operator-list-item" . }}
-    </li>
-    {{ end }}
-    </ul>
+  <div class="container o-list">
+    <div class="row">
+      <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+      {{ .Content }}
+      <ul class="o-list__link-wrapper row">
+        {{ range .Pages }}
+          <li class="col-12 col-lg-3 col-sm-6">
+            {{ partial "operator-list-item" . }}
+          </li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
-</div>
 {{ end }}

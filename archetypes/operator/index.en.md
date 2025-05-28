@@ -1,14 +1,15 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
+title: "{{ .File.ContentBaseName | upper }}"
 country:
   # Add the abbreviations of the countries the railway company operates in.
-  - 'country1'
-  - 'country2'
-  - 'country3'
+  - "country1"
+  - "country2"
+  - "country3"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
+
 {{< snippet wip >}}
 
 <!--
@@ -50,21 +51,28 @@ FIP Global Fare: <✅/⛔>
   - ⛔ for a non-acceptance of FIP
   - ℹ️ for confusion with other railway companies/train categories
 -->
+
 {{% expander "Train category" "category" %}}
+
 <!-- Replace "Train category" with the name of the category, e.g. ICE. -->
+
 **Description:**
+
 <!-- Description of the category -->
+
 **Reservation possible:** <yes/no> \
 **Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
 **Cost of reservation:** <!-- Enter the costs here by class, route, etc. If there are no fixed prices, then provide a price range or examples. --> \
 2nd class: XX€ \
 1st class: XX€
+
 <!-- If FIP is not valid, add the following:
 **FIP:** ⛔ FIP is not accepted
 -->
 <!-- If there are FIP Global Fares, add the following:
 **FIP Global Fare:**
 -->
+
 {{% /expander %}}
 
 ## Class Categories
@@ -138,9 +146,9 @@ FIP Global Fare: <✅/⛔>
 -->
 
 {{% expander "Border Points" "border" %}}
-| Railway Company | Border Points                                                         |
+| Railway Company | Border Points |
 | ---------------- | ------------------------------------------------------------------- |
-| Abbreviation of the neighboring railway company              | Border Points             |
+| Abbreviation of the neighboring railway company | Border Points |
 {{% /expander %}}
 
 ## Discounts
@@ -166,5 +174,6 @@ FIP Global Fare: <✅/⛔>
 
 ## Sources
 
-[^1]: [<Source Name 1>](<Link>)
-[^2]: [<Source Name 2>](<Link>)
+[^1]: [<Source Name 1>](Link)
+
+[^2]: [<Source Name 2>](Link)

@@ -17,6 +17,15 @@ The main routes in Denmark are the north-south connection Aalborg-Aarhus-Kolding
 
 Trains in Denmark typically run on a regular schedule and are generally punctual. However, connections are not always well-coordinated, which can lead to waiting times during transfers. The frequency of service on some routes could also be improved. In the capital city of Copenhagen, the S-train network and many frequently running regional train lines provide an especially dense rail service.
 
+## Border Points
+
+{{% expander "Border Points" %}}
+| Country | Border Points |
+| --- | --- |
+| Germany (DB) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
+| Sweden (SJ) | Helsingborg (via Helsingør)
+{{% /expander %}}
+
 ## FIP Rating
 
 Still pending

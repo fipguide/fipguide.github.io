@@ -11,11 +11,14 @@
     padding: 0;
   }
 
-  input[type=text], input[type=email], select, textarea {
+  input[type="text"],
+  input[type="email"],
+  select,
+  textarea {
     width: 100%;
     margin-bottom: 1.6rem;
     border-radius: var(--border-radius-m);
-    border-width: .2rem;
+    border-width: 0.2rem;
     border-color: var(--color-onLight);
     padding: 1.2rem;
 
@@ -23,14 +26,14 @@
       width: 50%;
     }
   }
-  input[type=submit] {
+  input[type="submit"] {
     width: auto;
     padding: 1.2rem 2.4rem;
     background-color: var(--bg-accent);
     color: var(--color-onLight);
     border: none;
     border-radius: var(--border-radius-m);
-    transition: background-color .3s ease;
+    transition: background-color 0.3s ease;
     font-weight: 700;
 
     &:hover,

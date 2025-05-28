@@ -18,6 +18,16 @@ Ebenfalls in der Slowakei unterwegs sind die Unternehmen LeoExpress und RegioJet
 Die Slowakei verfügt über ein dichtes Bahnnetz, das jedoch vor allem aus zwei Hauptstrecken besteht. Einmal aus Wien kommend von der Hauptstadt Bratislava über Poprad Tatry in die zweitgrößte Stadt Košice sowie aus Tschechien kommend von Bratislava aus über Nové Zámky in die ungarische Hauptstadt Budapest. Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft stündlich. Darüber hinaus gibt es eine Menge schöner Nebenstrecken, die teilweise jedoch sehr sporadisch bedient werden.
 Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská železnica, die zur ZSSK gehört und ebenfalls mit FIP befahren werden kann. Damit ist es möglich Bergketten hinauf zu fahren und zu den Seilbahnen auf die ganz hohen Berge zu kommen.
 
+## Grenzpunkte
+
+{{% expander "Grenzpunkte" %}}
+| Land | Grenzpunkte |
+| --- | --- |
+| Tschechien (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Ungarn (GySEV) | Rajka (Gr) |
+| Ungarn (MÁV) | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
+{{% /expander %}}
+
 ## FIP Bewertung
 
 Insgesamt verfügt die Slowakei über eine gute Infrastruktur und die meisten Fahrten werden durch die ZSSK bedient. Dadurch ist es möglich, mit FIP-Fahrscheinen einen großen Teil des Landes zu bereisen. Durch Reservierungspflichten (in der 1. Klasse immer, in der 2. Klasse in den Intercity-Zügen) sowie eher schlechten Infosystemen und oft keiner guten Taktung auf den Nebenstrecken wird die FIP-Erfahrung jedoch etwas getrübt.

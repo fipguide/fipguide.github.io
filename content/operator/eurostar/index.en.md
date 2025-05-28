@@ -35,11 +35,11 @@ High-speed train between Great Britain and Europe \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare:**
-| Route       | Standard | Plus |
+| Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brussels | 44 € / 39.50 £ | 65 € / 57.50 £ |
 | London - Amsterdam / Rotterdam | ? € / 49.50 £ | ? € / 67 £ |
-| Brussels - Amsterdam / Rotterdam  | ? € / 20.50 £ | ? € / 35.50 £ |
+| Brussels - Amsterdam / Rotterdam | ? € / 20.50 £ | ? € / 35.50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" category %}}
@@ -48,7 +48,7 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare:**
-| Route       | Standard | Plus |
+| Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | Travel within one country | No FIP | No FIP |
 | Travel between 2 countries | 23 € | 40 € |
@@ -91,6 +91,7 @@ If an email address associated with an existing Eurostar account is provided dur
   [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
   Booking is only available in English. A booking fee of £10 is charged per booking. \
   Required information:
+
   - Travel date and time
   - Departure and destination stations
   - Number of passengers
@@ -100,6 +101,7 @@ If an email address associated with an existing Eurostar account is provided dur
   **Global Fare:** ✅
 
 ### Phone
+
 - [Eurostar](https://www.eurostar.com/rw-en/contact-us/eurostar-contact-details): \
   UK: [+44 (0)3432 186 186](tel:+443432186186) \
   France: [+33 (0)1 70 70 60 88](tel:+33170706088) \
@@ -146,4 +148,5 @@ HOTNAT is only valid for transfers between high-speed trains of Railteam members
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Travel Market

@@ -1,14 +1,15 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
+title: "{{ .File.ContentBaseName | upper }}"
 country:
   # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
-  - 'country1'
-  - 'country2'
-  - 'country3'
+  - "country1"
+  - "country2"
+  - "country3"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
+
 {{< snippet wip >}}
 
 <!--
@@ -50,21 +51,28 @@ FIP Globalpreis: <✅/⛔>
   - ⛔ für eine Nichtanerkennung von FIP
   - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
 -->
+
 {{% expander "Zugkategorie" "category" %}}
+
 <!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z.B. ICE. -->
+
 **Beschreibung:**
+
 <!-- Füge hier eine Beschreibung der Zugkategorie ein -->
+
 **Reservierung möglich:** Ja/Nein \
 **Reservierungspflicht:** Ja/Nein \
 **Kosten für Reservierung:** <!-- Füge hier die Kosten nach Klasse, Strecke, etc. hinzu. Gibt es keine Festpreise, dann eine Preisspanne oder Beispiele angeben. --> \
 2\. Klasse: XX€ \
 1\. Klasse: XX€
+
 <!-- Wenn FIP nicht gültig ist, ergänze folgendes:
 **FIP:** ⛔ FIP wird nicht anerkannt
 -->
 <!-- Wenn es FIP Globalpreise gibt, ergänze folgendes:
 **FIP Globalpreis:**
 -->
+
 {{% /expander %}}
 
 ## Klassenkategorien
@@ -138,9 +146,9 @@ FIP Globalpreis: <✅/⛔>
 -->
 
 {{% expander "Grenzpunkte" "border" %}}
-| Bahngesellschaft | Grenzpunkte                                                         |
+| Bahngesellschaft | Grenzpunkte |
 | ---------------- | ------------------------------------------------------------------- |
-| Abkürzung der angrenzenden Bahngesellschaft              | Grenzpunkte             |
+| Abkürzung der angrenzenden Bahngesellschaft | Grenzpunkte |
 {{% /expander %}}
 
 ## Ermäßigungen
@@ -166,5 +174,6 @@ FIP Globalpreis: <✅/⛔>
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](<Link>)
-[^2]: [<Quellenname 2](<Link>)
+[^1]: [<Quellenname 1>](Link)
+
+[^2]: [<Quellenname 2](Link)

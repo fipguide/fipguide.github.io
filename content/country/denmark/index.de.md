@@ -17,6 +17,15 @@ Die Hauptstrecken in Dänemark sind die Nord-Süd-Verbindung Aalborg-Aarhus-Kold
 
 Üblicherweise verkehren die Züge in Dänemark im Taktverkehr und sind überwiegend pünktlich. Die Anschlüsse sind nicht immer gut abgestimmt, so kann es bei Umstiegen zu Wartezeiten kommen. Auch sind die Takte auf manchen Strecken ausbaufähig. In der Hauptstadt Kopenhagen ist durch die S-Bahn Kopenhagen und vielen sehr häufig verkehrenden Regionalzuglinien ein besonders dichtes Bahnangebot zu finden.
 
+## Grenzpunkte
+
+{{% expander "Grenzpunkte" %}}
+| Land | Grenzpunkte |
+| --- | --- |
+| Deutschland (DB) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
+| Schweden (SJ) | Helsingborg (über Helsingør) |
+{{% /expander %}}
+
 ## FIP Bewertung
 
 Noch ausstehend

@@ -25,7 +25,6 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 
 ## Zugkategorien und Reservierungen
 
-
 {{% highlight important %}}
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{% /highlight %}}
@@ -36,11 +35,11 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:**
-| Relation    | Standard | Plus |
+| Relation | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brüssel | 44 € / 39,50 £ | 65 € / 57,50 £ |
 | London - Amsterdam / Rotterdam | ? € / 49,50 £ | ? € / 67 £ |
-| Brüssel - Amsterdam / Rotterdam  | ? € / 20,50 £ | ? € / 35,50 £ |
+| Brüssel - Amsterdam / Rotterdam | ? € / 20,50 £ | ? € / 35,50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" category %}}
@@ -49,7 +48,7 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:**
-| Relation    | Standard | Plus |
+| Relation | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
 | Fahrt zwischen 2 Ländern | 23 € | 40 € |
@@ -92,6 +91,7 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
   [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
   Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben. \
   Erforderliche Angaben:
+
   - Reisetag und Zeit
   - Abfahrts- und Zielbahnhof
   - Anzahl der Fahrgäste
@@ -101,6 +101,7 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
   **FIP Globalpreis:** ✅
 
 ### Telefon
+
 - [Eurostar](https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen): \
   [+49 (0)30 7007 0000](tel:+493070070000) \
   Buchung auf Deutsch und Englisch möglich. Ein Buchstabieralphabet hilft bei der Angabe von Namen und Adressen. Die Bezahlung ist nur per Kreditkarte möglich. \
@@ -143,4 +144,5 @@ HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mit
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt

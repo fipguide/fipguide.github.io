@@ -2,7 +2,7 @@
 {{ $mainEntity := "" }}
 {{ if (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
   {{ $mainEntity = "Article" }}
-{{ else if eq .Page.Type "news"}}
+{{ else if eq .Page.Type "news" }}
   {{ $mainEntity = "NewsArticle" }}
 {{ end }}
 

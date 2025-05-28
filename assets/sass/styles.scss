@@ -17,7 +17,7 @@ header {
 a:not(.m-teaser) {
   color: var(--link-default);
   transition: all 0.3s ease;
-  text-underline-offset: .2rem;
+  text-underline-offset: 0.2rem;
 
   &:hover,
   &:focus {
@@ -39,7 +39,7 @@ a:has(i) {
   align-items: center;
 
   > :first-child {
-    margin-right: .4rem;
+    margin-right: 0.4rem;
   }
 }
 
@@ -47,8 +47,8 @@ a.m-teaser {
   .m-teaser__headline {
     color: var(--link-default);
     text-decoration: underline;
-    transition: color .3s ease;
-    text-underline-offset: .2rem;
+    transition: color 0.3s ease;
+    text-underline-offset: 0.2rem;
   }
 
   &:hover,
@@ -115,8 +115,6 @@ img {
   align-items: center;
   margin-bottom: 1rem;
 }
-
-
 
 .container {
   @include media-breakpoint-down(sm) {

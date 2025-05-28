@@ -3,10 +3,9 @@
 
 {{ if eq .Type "news" }}
   <div class="updateDate" data-pagefind-ignore="all">
-    <span>{{ T "updateDate"}}:</span>
+    <span>{{ T "updateDate" }}:</span>
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   </div>
-
 {{ else if .GitInfo }}
   {{ $href := print .Site.Params.gitHubUrl "/commits/" .GitInfo.Hash "/content" .Path "/index." .Language ".md" }}
   <a
@@ -17,7 +16,7 @@
     aria-label="Open the commit history of the page"
     data-pagefind-ignore="all"
   >
-    {{ T "updateDate"}}:
+    {{ T "updateDate" }}:
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
     {{- partial "icon" "arrow_outward" -}}
   </a>

@@ -1,62 +1,62 @@
 .updateDate {
-    font-size: 1.3rem;
+  font-size: 1.3rem;
 }
 
 .updateDate > .material-symbols-rounded {
-    font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 code {
-    font-size: inherit;
-    font-weight: 700;
-    color: var(--color-onLight);
-    background-color: var(--bg-accent3);
-    padding: .2rem .8rem;
-    border-radius: var(--border-radius-s);
+  font-size: inherit;
+  font-weight: 700;
+  color: var(--color-onLight);
+  background-color: var(--bg-accent3);
+  padding: 0.2rem 0.8rem;
+  border-radius: var(--border-radius-s);
 }
 
 table {
-    margin-bottom: .6rem;
+  margin-bottom: 0.6rem;
 }
 
 tr {
-    border-bottom: .1rem solid var(--color-table-border);
+  border-bottom: 0.1rem solid var(--color-table-border);
 }
 
-th, td {
-    padding: .6rem 2rem .6rem 0;
+th,
+td {
+  padding: 0.6rem 2rem 0.6rem 0;
 }
 
 .footnote-backref {
-    padding: 1rem;
+  padding: 1rem;
 }
 
 p {
-    margin-bottom: 3.2rem;
-    text-align: justify;
+  margin-bottom: 3.2rem;
+  text-align: justify;
 }
 
 .footnotes {
+  p {
+    text-align: left;
+  }
 
-    p {
-        text-align: left;
-    }
-
-    hr {
-        display: none;
-    }
+  hr {
+    display: none;
+  }
 }
 
-p:has( + ul),
-p:has( + ol) {
-    margin-bottom: 1rem;
+p:has(+ ul),
+p:has(+ ol) {
+  margin-bottom: 1rem;
 }
 
-p:has( + span) {
-    margin-bottom: 0;
+p:has(+ span) {
+  margin-bottom: 0;
 }
 
 article p:last-child,
 section p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }

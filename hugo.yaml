@@ -1,5 +1,5 @@
-baseURL: 'https://www.fipguide.org/'
-title: 'FIP Guide'
+baseURL: "https://www.fipguide.org/"
+title: "FIP Guide"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -28,10 +28,10 @@ module:
       target: "static/css/@fontsource"
 
 related:
- includeNewer: true
- indices:
-   - name: country
-     weight: 100
+  includeNewer: true
+  indices:
+    - name: country
+      weight: 100
 
 markup:
   tableOfContents:
@@ -45,12 +45,11 @@ markup:
       # we can disable safe rendering.
       unsafe: true
 
-
 cascade:
   toc: true # enable toc for all pages
   target:
-    kind: 'page'
+    kind: "page"
 
 params:
-  githubDevUrl: 'https://github.dev/fipguide/fipguide.github.io/'
-  gitHubUrl: 'https://github.com/fipguide/fipguide.github.io'
+  githubDevUrl: "https://github.dev/fipguide/fipguide.github.io/"
+  gitHubUrl: "https://github.com/fipguide/fipguide.github.io"

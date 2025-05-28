@@ -14,6 +14,7 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 ## Welche Vergünstigungen erhalte ich durch FIP?
 
 Es gibt zwei Möglichkeiten zur Nutzung:
+
 1. **FIP-Card:** die FIP-Card ist drei Jahre gültig und berechtigt zum unlimitierten Kauf von vergünstigten Bahntickets im Ausland.
 2. **FIP Coupons:** pro Jahr und FIP-Mitglied kannst du FIP Coupons erhalten, welche für bis zu acht Tage ermöglichen.
 
