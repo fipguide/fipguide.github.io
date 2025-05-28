@@ -45,8 +45,10 @@ FIP Global Fare: <✅/⛔>
 <!--
   For each train category, a separate section can be added according to the following principle:
   In the title, the following emojis can be used:
-  - ⚠️ for a general reservation requirement
-  - 1️⃣ für a reservation requirement in 1st class
+  - ⚠️ for a general reservation requirement or supplements
+  - 1️⃣ for a reservation requirement in 1st class
+  - ⛔ for a non-acceptance of FIP
+  - ℹ️ for confusion with other railway companies/train categories
 -->
 {{% expander "Train category" "category" %}}
 <!-- Replace "Train category" with the name of the category, e.g. ICE. -->
@@ -57,7 +59,25 @@ FIP Global Fare: <✅/⛔>
 **Cost of reservation:** <!-- Enter the costs here by class, route, etc. If there are no fixed prices, then provide a price range or examples. --> \
 2nd class: XX€ \
 1st class: XX€
+<!-- If FIP is not valid, add the following:
+**FIP:** ⛔ FIP is not accepted
+-->
+<!-- If there are FIP Global Fares, add the following:
+**FIP Global Fare:**
+-->
 {{% /expander %}}
+
+## Class Categories
+
+<!--
+  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
+-->
+
+<!--
+**Standard**: Comparable to 2nd class. \
+**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
+**Premium**: 1st class including catering. Not bookable with FIP.
+-->
 
 ## Ticket and Reservation Purchase
 

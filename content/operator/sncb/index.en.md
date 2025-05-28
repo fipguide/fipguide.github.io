@@ -10,7 +10,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 ## Summary
 
-- SNCB accepts FIP free travel and FIP 50 tickets
+- SNCB accepts FIP Coupons and FIP 50 tickets
 - No reservation required
 - Surcharge for trips to/from Brussels Zaventem Airport
 
@@ -40,48 +40,42 @@ High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run betwee
 **Description:** \
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops. \
 **Reservation possible:** no \
-**Reservation required:** no \
-**Cost of reservation:** -
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Train local or Lokale trein (L)" category %}}
 **Description:** \
 Regional trains stopping at most stations, often simply referred to as "R" for regional train in connection information. \
 **Reservation possible:** no \
-**Reservation required:** no \
-**Cost of reservation:** -
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Train S or S-Trein (S)" category %}}
 **Description:** \
 A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train. \
 **Reservation possible:** no \
-**Reservation required:** no \
-**Cost of reservation:** -
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Train d’heure de pointe or Piekuurtrein (P)" category %}}
 **Description:** \
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information. \
 **Reservation possible:** no \
-**Reservation required:** no \
-**Cost of reservation:** -
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Express (E/EXP/EXTRA)" category %}}
 **Description:** \
 Additional trains during high traffic periods, especially in the summer months to the Belgian coast. \
 **Reservation possible:** no \
-**Reservation required:** no \
-**Cost of reservation:** -
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Tourist (T)" category %}}
 **Description:** \
 Additional trains to certain tourist destinations, often simply referred to as "R" for regional train. \
 **Reservation possible:** no \
-**Reservation required:** no \
-**Cost of reservation:** -
+**Reservation required:** no
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase
@@ -104,7 +98,6 @@ Additional trains to certain tourist destinations, often simply referred to as "
   Cross-border reservations from Germany to Belgium or vice versa \
   **FIP 50 tickets:** ✅ \
   Cross-border FIP 50 tickets, with ticket validity only for the Belgian section, for Deutsche Bahn employees
-
 - [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
   **Reservation:** ✅ \
   Cross-border reservations from Germany to Belgium or vice versa \
@@ -140,7 +133,7 @@ From the Netherlands, cross-border regional trains (including IC here) can be us
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP free travel passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Border Points
 
