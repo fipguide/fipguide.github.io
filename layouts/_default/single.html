@@ -1,14 +1,14 @@
 {{ define "main" }}
-    <article class="container o-single">
-        <div class="o-single__header">
-            <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-            {{ partial "updateDate.html" . }}
-        </div>
+  <article class="container o-single">
+    <div class="o-single__header">
+      <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+      {{ partial "updateDate.html" . }}
+    </div>
 
-        <div class="content" data-pagefind-body>
-            {{ .Content }}
-        </div>
+    <div class="content" data-pagefind-body>
+      {{ .Content }}
+    </div>
 
-        {{ partial "related.html" . }}
-    </article>
+    {{ partial "related.html" . }}
+  </article>
 {{ end }}

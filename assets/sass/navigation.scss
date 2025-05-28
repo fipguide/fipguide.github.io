@@ -2,7 +2,7 @@
   position: fixed;
   width: 100%;
   top: 0;
-  box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
+  box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
 }
 
 .o-header {
@@ -18,8 +18,8 @@
   }
 }
 
-.o-header__curtain:has(~ .o-header__nav--open)  {
-  background-color: rgba(0, 0, 0, .8);
+.o-header__curtain:has(~ .o-header__nav--open) {
+  background-color: rgba(0, 0, 0, 0.8);
   inset: 0;
   position: fixed;
   z-index: 2;
@@ -54,7 +54,7 @@
 
 .o-header__logo {
   display: flex;
-  margin: .3rem;
+  margin: 0.3rem;
   position: relative;
   text-decoration: none;
 
@@ -91,7 +91,7 @@
   left: 50%;
   transform: translateX(-50%);
   padding: 1rem;
-  margin: .3rem;
+  margin: 0.3rem;
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
@@ -119,7 +119,7 @@
 .o-nav__close-button {
   display: inline-flex;
   padding: 1rem;
-  margin: .3rem;
+  margin: 0.3rem;
   border: none;
   background: none;
   width: fit-content;
@@ -140,7 +140,7 @@
 .o-header__expand-button > .material-symbols-rounded,
 .o-nav__menu-button > .material-symbols-rounded,
 .o-nav__close-button > .material-symbols-rounded {
-  margin-left: .8rem;
+  margin-left: 0.8rem;
   align-self: center;
   text-decoration: none;
 }
@@ -159,7 +159,7 @@
     padding: 1rem;
     flex-direction: column;
     background-color: white;
-    box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
+    box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
     border-radius: var(--border-radius-s);
   }
 

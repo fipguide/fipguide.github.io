@@ -118,6 +118,7 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Laut SNCB wird hier ein Aufschlag von 9 Euro berechnet. [^2]
 
 ## Anreise
+
 Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Belgien]({{< ref "/country/belgium" >}} "Belgien") aufgeführt.
 
 ### Luxemburg
@@ -144,7 +145,7 @@ Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise *No Supplement Necessary* angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
 
 ## Erfahrungen
 
@@ -155,4 +156,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: [SNCB Bordpreis](https://www.belgiantrain.be/de/tickets-and-railcards/on-board-fare)

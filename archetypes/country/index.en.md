@@ -1,10 +1,11 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}'
-country: '{{ .File.ContentBaseName }}'
+title: "{{ .File.ContentBaseName | title }}"
+country: "{{ .File.ContentBaseName }}"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
+
 {{< snippet wip >}}
 
 ## FIP Information
@@ -47,5 +48,7 @@ Only border points at the national border with other countries. These should be 
 -->
 
 ## Operators without FIP
+
 <!-- Replace the general link with a link to the operator -->
+
 - [Name of the operator](../../operator)

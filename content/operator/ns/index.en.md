@@ -10,10 +10,10 @@ Nederlandse Spoorwegen (NS) is the state railway company of the Netherlands and 
 
 ## Summary
 
-* NS accepts FIP Coupons and FIP 50 tickets.
-* Reservations are generally not required.
-* Supplement required for Eurocity Direct (ECD) and partly for Intercity Direct (ICD).
-* For FIP Coupons, a gate-pass coupon is required for access through station gates.
+- NS accepts FIP Coupons and FIP 50 tickets.
+- Reservations are generally not required.
+- Supplement required for Eurocity Direct (ECD) and partly for Intercity Direct (ICD).
+- For FIP Coupons, a gate-pass coupon is required for access through station gates.
 
 ## Validity of FIP Tickets
 

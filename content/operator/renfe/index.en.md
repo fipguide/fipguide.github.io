@@ -23,6 +23,7 @@ FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
 ## Train categories and reservations
+
 {{% highlight important %}}
 Only commuter trains can be used without restrictions with FIP Coupons. For other trains, a ticket at the FIP Global Fare usually needs to be purchased.
 {{% /highlight %}}
@@ -35,10 +36,11 @@ Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons a
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 10 € (Elige)
 - 13 € (Elige Confort)
 - 23,50€ (Premium)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" "long-distance" %}}
 **Description:** \
@@ -54,10 +56,11 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50 € (Elige)
 - 10 € (Elige Confort)
 - 23,50€ (Premium)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Alvia ⚠️" "long-distance" %}}
 **Description:** \
@@ -65,9 +68,10 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50 € (Elige)
 - 10 € (Elige Confort)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" "long-distance" %}}
 **Description:** \
@@ -75,9 +79,10 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50 € (Elige)
 - 10 € (Elige Confort)
-{{% /expander %}}
+  {{% /expander %}}
 
 ### Middle distance
 
@@ -102,6 +107,7 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 {{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
 **Description:** \
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -154,17 +160,21 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 Children up to the age of 4 travel free of charge, provided they do not require their own seat. Children up to the age of 12 receive a 40% discount on the adult fare. Persons aged 12 and over pay the adult fare.
 
 ## Arrival
+
 Border points with neighboring countries are listed on the [country page Spain]({{< ref "/country/spain" >}} "Spain").
 
 ### France
+
 From Paris, direct TGV trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona. FIP Global Fares are available with both operators, although they can be very expensive. Overall, there are very few cross-border connections, and the network was significantly better developed just a few years ago.
 
 ### Portugal
+
 Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP tickets or free passes from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section. Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route. A continuous high-speed rail line between Lisbon and Madrid is currently under development.
 
 ## Special Tariff Conditions
 
 ### Celta: Porto - Vigo
+
 The Celta is an international joint train service operated by Renfe and the Portuguese CP. \
 **FIP Global Fare (regardless of distance):** 4 €
 
@@ -181,4 +191,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 ## Sources
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

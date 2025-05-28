@@ -1,6 +1,6 @@
 {{- $url := .Destination -}}
 {{- if strings.HasPrefix $url "http" -}}
-{{ partial "link" . }}
+  {{ partial "link" . }}
 {{- else -}}
-<a href="{{ $url }}">{{ .Text }}</a>
+  <a href="{{ $url }}">{{ .Text }}</a>
 {{- end -}}

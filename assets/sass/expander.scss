@@ -50,19 +50,18 @@ details > summary::-webkit-details-marker {
   position: absolute;
   left: 1.2rem;
   font-size: 2.4rem;
-  @extend .material-symbols-rounded
+  @extend .material-symbols-rounded;
 }
 
 .details-screen[open] > summary::before {
   content: "remove";
   font-size: 2.4rem;
-  @extend .material-symbols-rounded
+  @extend .material-symbols-rounded;
 }
 
 details[open] > summary {
   font-weight: 700;
 }
-
 
 @media print {
   .details-screen {

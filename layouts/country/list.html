@@ -4,16 +4,19 @@
       <h2 data-pagefind-meta="title">{{ .Title }}</h2>
       {{ .Content }}
       {{ range .Pages }}
-      <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
-        <div class="o-list__picture">
-          {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-          {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
-          {{ partialCached "image.html" $image $image }}
-        </div>
-        <div>
-          {{ .Title }}
-        </div>
-      </a>
+        <a
+          href="{{ .RelPermalink }}"
+          class="col-12 col-lg-4 col-sm-6 o-list__link"
+        >
+          <div class="o-list__picture">
+            {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
+            {{ partialCached "image.html" $image $image }}
+          </div>
+          <div>
+            {{ .Title }}
+          </div>
+        </a>
       {{ end }}
     </div>
   </div>

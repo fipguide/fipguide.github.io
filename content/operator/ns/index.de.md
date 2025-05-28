@@ -10,10 +10,10 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Nie
 
 ## Zusammenfassung
 
-* NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
-* Reservierung ist grundsätzlich nicht erforderlich.
-* Zuschlag für Eurocity Direct (ECD) und teilweise Intercity Direct (ICD) erforderlich.
-* Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
+- NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Reservierung ist grundsätzlich nicht erforderlich.
+- Zuschlag für Eurocity Direct (ECD) und teilweise Intercity Direct (ICD) erforderlich.
+- Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
 
 ## Gültigkeit FIP-Tickets
 
@@ -69,7 +69,7 @@ Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Ams
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3 €  zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
+Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3 € zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben. \
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80 € erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
@@ -103,7 +103,6 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 {{% highlight important %}}
 Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 {{% /highlight %}}
-
 
 ## Ticket- und Reservierungskauf
 
@@ -158,7 +157,7 @@ Uns sind keine Ermäßigungen bekannt.
 
 ### Ticket Schranken im Bahnhof
 
-Zum FIP-Freifahrschein erhält man ein NS-Gate-Pass-Coupon mit Barcode, um die Schranken an NS-Bahnhöfen zu öffnen. Es handelt sich um einen Gate-Pass, nicht um einen Fahrschein. Er ist für die Nutzung an 8 separaten Tagen (00:00 bis 23:59) innerhalb eines Zeitraums von 3 Monaten ab dem ersten Nutzungstag gültig. Die erste Nutzung an einer Schranke legt das Startdatum fest.  Innerhalb eines Tages gilt:
+Zum FIP-Freifahrschein erhält man ein NS-Gate-Pass-Coupon mit Barcode, um die Schranken an NS-Bahnhöfen zu öffnen. Es handelt sich um einen Gate-Pass, nicht um einen Fahrschein. Er ist für die Nutzung an 8 separaten Tagen (00:00 bis 23:59) innerhalb eines Zeitraums von 3 Monaten ab dem ersten Nutzungstag gültig. Die erste Nutzung an einer Schranke legt das Startdatum fest. Innerhalb eines Tages gilt:
 
 - Man kann 6 Mal an derselben Station ein- und auschecken.
 - Man kann landesweit insgesamt 12 Mal ein- und auschecken.

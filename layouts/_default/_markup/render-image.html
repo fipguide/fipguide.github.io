@@ -4,54 +4,85 @@
 {{ if and .Destination (or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://")) }}
   <!-- Remote Bild: Direkt ausgeben ohne Bildverarbeitung -->
   {{ $remoteImage := resources.GetRemote .Destination }}
-  <img src="{{ $remoteImage.Permalink }}" alt="{{ .Title }}" title="{{ .Title }}" loading="lazy"/>
+  <img
+    src="{{ $remoteImage.Permalink }}"
+    alt="{{ .Title }}"
+    title="{{ .Title }}"
+    loading="lazy"
+  />
 {{ else }}
   {{/* Lokales Bild: Mit Bildverarbeitung */}}
   {{ $originalImage := resources.Get "images/glider.png" }}
   {{ with .Destination }}
-      {{ $myTitle = $.Title }}
-      <!-- Zunächst im Seitenkontext nach Ressourcen suchen -->
-      {{ with $.Page.Resources.Get . }}
-          {{ $originalImage = . }}
-      {{ else }}
-          <!-- Dann in den statischen Ressourcen suchen -->
-          {{ with resources.Get . }}
-              {{ $originalImage = . }}
-          {{ end }}
+    {{ $myTitle = $.Title }}
+    <!-- Zunächst im Seitenkontext nach Ressourcen suchen -->
+    {{ with $.Page.Resources.Get . }}
+      {{ $originalImage = . }}
+    {{ else }}
+      <!-- Dann in den statischen Ressourcen suchen -->
+      {{ with resources.Get . }}
+        {{ $originalImage = . }}
       {{ end }}
+    {{ end }}
   {{ end }}
 
+
   <picture>
-      {{ $width := $originalImage.Width }}
+    {{ $width := $originalImage.Width }}
 
-      {{ if gt $width 2200 }}
-          {{ with $originalImage.Resize "2200x" }}
-              <source media="(min-width:2200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
+    {{ if gt $width 2200 }}
+      {{ with $originalImage.Resize "2200x" }}
+        <source
+          media="(min-width:2200px)"
+          srcset="{{ .RelPermalink | safeURL }}"
+          title="{{ $myTitle }}"
+          loading="lazy"
+        />
       {{ end }}
+    {{ end }}
 
-      {{ if gt $width 1500 }}
-          {{ with $originalImage.Resize "1500x" }}
-              <source media="(min-width:1500px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
+    {{ if gt $width 1500 }}
+      {{ with $originalImage.Resize "1500x" }}
+        <source
+          media="(min-width:1500px)"
+          srcset="{{ .RelPermalink | safeURL }}"
+          title="{{ $myTitle }}"
+          loading="lazy"
+        />
       {{ end }}
+    {{ end }}
 
-      {{ if gt $width 1200 }}
-          {{ with $originalImage.Resize "1200x" }}
-              <source media="(min-width:1200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
+    {{ if gt $width 1200 }}
+      {{ with $originalImage.Resize "1200x" }}
+        <source
+          media="(min-width:1200px)"
+          srcset="{{ .RelPermalink | safeURL }}"
+          title="{{ $myTitle }}"
+          loading="lazy"
+        />
       {{ end }}
+    {{ end }}
 
-      {{ if gt $width 800 }}
-          {{ with $originalImage.Resize "800x" }}
-              <source media="(min-width:800px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
+    {{ if gt $width 800 }}
+      {{ with $originalImage.Resize "800x" }}
+        <source
+          media="(min-width:800px)"
+          srcset="{{ .RelPermalink | safeURL }}"
+          title="{{ $myTitle }}"
+          loading="lazy"
+        />
       {{ end }}
+    {{ end }}
 
-      {{ $tinyImage := $originalImage }}
-      {{ if gt $width 500 }}
-          {{ $tinyImage = $originalImage.Resize "500x" }}
-      {{ end }}
-      <img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $myTitle }}" title="{{ $myTitle }}" loading="lazy"/>
+    {{ $tinyImage := $originalImage }}
+    {{ if gt $width 500 }}
+      {{ $tinyImage = $originalImage.Resize "500x" }}
+    {{ end }}
+    <img
+      src="{{ $tinyImage.RelPermalink | safeURL }}"
+      alt="{{ $myTitle }}"
+      title="{{ $myTitle }}"
+      loading="lazy"
+    />
   </picture>
 {{ end }}

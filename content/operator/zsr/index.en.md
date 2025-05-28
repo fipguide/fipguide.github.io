@@ -26,7 +26,7 @@ FIP Coupons and FIP 50 tickets are valid on ZSSK connections with the restrictio
 ## Train categories and reservations
 
 {{% highlight important %}}
-Reservation required for SC and IC trains. Other ZSSK trains only require a reservation in 1st class.  [^2]
+Reservation required for SC and IC trains. Other ZSSK trains only require a reservation in 1st class. [^2]
 {{% /highlight %}}
 
 {{% expander "SuperCity (SC) ⚠️" category %}}
@@ -40,7 +40,7 @@ Depending on route and occupancy (including surcharge for train category)
 
 {{% expander "InterCity (IC) ⚠️" category %}}
 **Description:** \
-*Currently, the operation of InterCity trains has been suspended for economic reasons. The trains are being replaced by EX trains.* \
+_Currently, the operation of InterCity trains has been suspended for economic reasons. The trains are being replaced by EX trains._ \
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \

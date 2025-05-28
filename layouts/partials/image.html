@@ -3,43 +3,89 @@
 {{ $myTitle := "" }}
 
 {{ if .Permalink }}
-{{ $image = . }}
+  {{ $image = . }}
 {{ else if .image }}
-{{ $image = .image }}
-{{ $loadingLazy = .loadingLazy | default true }}
-{{ $myTitle = .myTitle | default "" }}
+  {{ $image = .image }}
+  {{ $loadingLazy = .loadingLazy | default true }}
+  {{ $myTitle = .myTitle | default "" }}
 {{ end }}
+
 
 <picture>
   {{ $width := $image.Width }}
 
   {{ if gt $width 2200 }}
-  {{ with $image.Resize "2200x" }}
-  <source media="(min-width:2200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="{{ if $loadingLazy }}lazy{{ else }}eager{{ end }}"/>
-  {{ end }}
+    {{ with $image.Resize "2200x" }}
+      <source
+        media="(min-width:2200px)"
+        srcset="{{ .RelPermalink | safeURL }}"
+        title="{{ $myTitle }}"
+        loading="{{ if $loadingLazy }}
+          lazy
+        {{ else }}
+          eager
+        {{ end }}"
+      />
+    {{ end }}
   {{ end }}
 
   {{ if gt $width 1500 }}
-  {{ with $image.Resize "1500x" }}
-  <source media="(min-width:1500px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="{{ if $loadingLazy }}lazy{{ else }}eager{{ end }}"/>
-  {{ end }}
+    {{ with $image.Resize "1500x" }}
+      <source
+        media="(min-width:1500px)"
+        srcset="{{ .RelPermalink | safeURL }}"
+        title="{{ $myTitle }}"
+        loading="{{ if $loadingLazy }}
+          lazy
+        {{ else }}
+          eager
+        {{ end }}"
+      />
+    {{ end }}
   {{ end }}
 
   {{ if gt $width 1200 }}
-  {{ with $image.Resize "1200x" }}
-  <source media="(min-width:1200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="{{ if $loadingLazy }}lazy{{ else }}eager{{ end }}"/>
-  {{ end }}
+    {{ with $image.Resize "1200x" }}
+      <source
+        media="(min-width:1200px)"
+        srcset="{{ .RelPermalink | safeURL }}"
+        title="{{ $myTitle }}"
+        loading="{{ if $loadingLazy }}
+          lazy
+        {{ else }}
+          eager
+        {{ end }}"
+      />
+    {{ end }}
   {{ end }}
 
   {{ if gt $width 800 }}
-  {{ with $image.Resize "800x" }}
-  <source media="(min-width:800px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="{{ if $loadingLazy }}lazy{{ else }}eager{{ end }}"/>
-  {{ end }}
+    {{ with $image.Resize "800x" }}
+      <source
+        media="(min-width:800px)"
+        srcset="{{ .RelPermalink | safeURL }}"
+        title="{{ $myTitle }}"
+        loading="{{ if $loadingLazy }}
+          lazy
+        {{ else }}
+          eager
+        {{ end }}"
+      />
+    {{ end }}
   {{ end }}
 
   {{ $tinyImage := $image }}
   {{ if gt $width 500 }}
-  {{ $tinyImage = $image.Resize "500x" }}
+    {{ $tinyImage = $image.Resize "500x" }}
   {{ end }}
-  <img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $myTitle }}" title="{{ $myTitle }}" loading="{{ if $loadingLazy }}lazy{{ else }}eager{{ end }}"/>
+  <img
+    src="{{ $tinyImage.RelPermalink | safeURL }}"
+    alt="{{ $myTitle }}"
+    title="{{ $myTitle }}"
+    loading="{{ if $loadingLazy }}
+      lazy
+    {{ else }}
+      eager
+    {{ end }}"
+  />
 </picture>

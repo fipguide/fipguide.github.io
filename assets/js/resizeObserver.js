@@ -1,16 +1,15 @@
-import * as mq from './mediaqueries';
+import * as mq from "./mediaqueries";
 
 function resizeObserver() {
-  const navContainer = document.querySelector('.o-header__nav');
-  const menuButton = document.querySelector('.o-nav__menu-button');
-  const countryContainer = document.querySelector('.o-header__item-countries');
+  const navContainer = document.querySelector(".o-header__nav");
+  const menuButton = document.querySelector(".o-nav__menu-button");
+  const countryContainer = document.querySelector(".o-header__item-countries");
 
   window.addEventListener("resize", () => {
-
     //close mobile menu on viewports >= md
     if (window.matchMedia(mq.minMD).matches) {
       navContainer.classList.remove("o-header__nav--open");
-      menuButton.setAttribute('aria-expanded', false);
+      menuButton.setAttribute("aria-expanded", false);
     }
 
     //close country selector on viewports < md

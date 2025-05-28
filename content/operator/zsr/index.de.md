@@ -40,14 +40,13 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
 {{% expander "InterCity (IC) ⚠️" category %}}
 **Beschreibung:** \
-*Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen eingestellt. Die Züge werden durch EX-Züge ersetzt.* \
+_Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen eingestellt. Die Züge werden durch EX-Züge ersetzt._ \
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **Kosten für Reservierung:** 🔴 Ab 7 € \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
-
 
 {{% expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣ ℹ️" category %}}
 **Beschreibung:** \
@@ -69,13 +68,12 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
-
 {{% expander "Express (Ex) ⚠️1️⃣" category %}}
 **Beschreibung:** \
 Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den IC. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse \
-**Kosten für Reservierung:** 🟢  \
+**Kosten für Reservierung:** 🟢 \
 1 € (2. Klasse) \
 2 € (1. Klasse)
 {{% /expander %}}
@@ -126,6 +124,7 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket (oder Reservierung im Ex) beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird.[^1]
 
 ## Anreise
+
 Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Slowakei]({{< ref "/country/slovakia" >}} "Slowakei") aufgeführt.
 
 ### Tschechien

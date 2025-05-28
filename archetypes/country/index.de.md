@@ -1,10 +1,11 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Ändere den Name auf den deutschen Ländername
-country: '{{ .File.ContentBaseName }}'
+title: "{{ .File.ContentBaseName | title }}" # Ändere den Name auf den deutschen Ländername
+country: "{{ .File.ContentBaseName }}"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
+
 {{< snippet wip >}}
 
 ## FIP Nutzung
@@ -47,5 +48,7 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 -->
 
 ## Betreiber ohne FIP
+
 <!-- Ersetze den generischen Link mit dem Link zum jeweiligen Betreiber -->
+
 - [Name der Bahngesellschaft](../../operator)
