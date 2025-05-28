@@ -15,6 +15,15 @@ Spain does not have a particularly dense rail network; instead, it mainly consis
 
 Stations usually have ticket barriers, which require a valid digital or analog ticket on a card to pass through. With FIP Coupons, staff on site must be approached so they can manually open the barriers. Furthermore, for long-distance travel, luggage checks are conducted at the stations. While not as strict as at airports, they still take time. Therefore, it is recommended to arrive at the station at least 30 minutes before departure for such trips.
 
+## Border Points
+
+{{% expander "Border points" %}}
+| Country | Border Points |
+| --- | --- |
+| Portugal (CP) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
+| France (SNCF) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
+{{% /expander %}}
+
 ## Operators without FIP
 
 - Iryo

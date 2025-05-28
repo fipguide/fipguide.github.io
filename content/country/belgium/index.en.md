@@ -17,6 +17,17 @@ Furthermore, international TGV trains of the SNCF from France operate, for which
 
 Belgium has an extensive and dense rail network. Unlike other countries, there is no real fare distinction between train categories in Belgium, except for international ICE, TGV, and Eurostar connections. Due to the central location of the capital Brussels, it is the hub of Belgian train traffic and is connected via 4 high-speed lines to Germany, France, and the Netherlands. On other routes, the speed is rather average. Trains in Belgium usually run on a regular schedule and are mostly punctual. The most important cities are connected several times an hour. Particularly noteworthy are the impressive station buildings of Liège-Guillemins and Antwerp Central.
 
+## Border Points
+
+{{% expander "Border Points" %}}
+| Country | Border Points |
+| --- | --- |
+| Luxembourg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |
+| Germany (DB) | Aachen Süd (Gr) |
+| Netherlands (NS) | Roosendaal (fr), Visé (fr) |
+| France (SNCF) | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
+{{% /expander %}}
+
 ## FIP Rating
 
 Still pending

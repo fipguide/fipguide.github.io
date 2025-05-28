@@ -154,23 +154,14 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 
 Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40 % auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
 
-## Anreise und Grenzpunkte
+## Anreise
+Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Spanien]({{< ref "/country/spain" >}} "Spanien") aufgeführt.
 
 ### Frankreich
 Von Paris aus verkehren direkte TGV-Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona. Bei beiden sind FIP-Globalpreise möglich, die jedoch sehr teuer werden können. Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
 ### Portugal
 Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP-Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt. Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP-Globalpreis auf der gesamten Route. An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet. \
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-| Bahngesellschaft | Grenzpunkte                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| CP               | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| SNCF             | Canfranc (fr),  Hendaye (fr),  Port-Bou (fr), La Tour-de-Carol-Enveitg |
-
-{{% /expander %}}
 
 ## Tarifliche Besonderheiten
 

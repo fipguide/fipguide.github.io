@@ -117,7 +117,9 @@ Additional trains to certain tourist destinations, often simply referred to as "
 
 If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. According to SNCB, a surcharge of 9 euros is charged here. [^2]
 
-## Arrival and Border Points
+## Arrival
+
+Border points with neighboring countries are listed on the [country page Belgium]({{< ref "/country/belgium" >}} "Belgium").
 
 ### Luxembourg
 
@@ -134,20 +136,6 @@ From the Netherlands, cross-border regional trains (including IC here) can be us
 ### France
 
 From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Border Points
-
-{{% expander "Border Points" %}}
-| Railway operator | Border Points                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| DB AG            | Aachen Süd (Gr)                                                     |
-| EIL              | Bruxelles (fr)                                                      |
-| NS               | Roosendaal (fr), Visé (fr)                                          |
-| SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
-| THI              | Antwerpen, Bruxelles, Liège                                         |
-
-{{% /expander %}}
 
 ## Discounts
 

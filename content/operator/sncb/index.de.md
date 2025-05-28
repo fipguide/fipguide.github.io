@@ -117,7 +117,8 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 
 Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Laut SNCB wird hier ein Aufschlag von 9 Euro berechnet. [^2]
 
-## Anreise und Grenzpunkte
+## Anreise
+Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Belgien]({{< ref "/country/belgium" >}} "Belgien") aufgeführt.
 
 ### Luxemburg
 
@@ -134,21 +135,6 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 ### Frankreich
 
 Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket für den französischen Abschnitt benötigt. Bei den internationalen TGV-Zügen gibt es einen Globalpreis, FIP Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-| Bahngesellschaft | Grenzpunkte                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| DB AG            | Aachen Süd (Gr)                                                     |
-| EIL              | Bruxelles (fr)                                                      |
-| NS               | Roosendaal (fr), Visé (fr)                                          |
-| SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
-| THI              | Antwerpen, Bruxelles, Liège                                         |
-
-
-{{% /expander %}}
 
 ## Ermäßigungen
 

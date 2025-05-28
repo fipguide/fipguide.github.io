@@ -138,7 +138,9 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Ver
 
 FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
-## Anreise und Grenzpunkte
+## Anreise
+
+Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Niederlande]({{< ref "/country/netherlands" >}} "Niederlande") aufgeführt.
 
 ### Deutschland
 
@@ -147,17 +149,6 @@ Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / D
 ### Belgien
 
 Von Belgien aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCB benötigt. Darüber hinaus verkehren Fernzüge (ECD und EC), bei denen ein zusätzlicher Aufschlag dazukommen kann, wenn hier auf der Achse Rotterdam - Schiphol gefahren wird. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb der Niederlande) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-
-| Bahngesellschaft  | Grenzpunkte                                                              |
-| ----------------- | ------------------------------------------------------------------------ |
-| DB AG             | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| SNCB              | Roosendaal (fr), Visé                                                    |
-| THI               | Amsterdam, Rotterdam, Schiphol                                           |
-{{% /expander %}}
 
 ## Ermäßigungen
 

@@ -115,7 +115,7 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 ### Vor Ort
 
 - Schalter der ZSR: \
-  In der Slowakei gibt es ein umfängreiches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist. \
+  In der Slowakei gibt es ein umfängliches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist. \
   **Reservierung:** ✅ \
   **FIP 50 Fahrkarten:** ✅
 - Weitere Möglichkeiten: \
@@ -125,7 +125,8 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 
 Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket (oder Reservierung im Ex) beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird.[^1]
 
-## Anreise und Grenzpunkte
+## Anreise
+Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Slowakei]({{< ref "/country/slovakia" >}} "Slowakei") aufgeführt.
 
 ### Tschechien
 
@@ -146,20 +147,6 @@ Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird
 ### Ukraine
 
 Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukacheve. Da in der Ukraine FIP nicht gültig sind, wird ein reguläres Ticket mindestens ab dem Grenzpunkt benötigt. Bei der ZSSK Seite kann ein grenzüberschreitendes Ticket nur ohne FIP-Rabatt gekauft werden. Wenn der Zug einen Zwischenhalt in Cierna nad Tisou hat, wäre es möglich ab diesem Bahnhof ein reguläres Ticket über die Website zu kaufen. Falls nach einem günstigeren Ticket gesucht wird, am besten hier an einem Schalter der ZSSK nachfragen, ob es noch bessere Möglichkeiten gibt.
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-| Bahngesellschaft | Grenzpunkte                                                                                                 |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| ČD               | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| GySEV            | Rajka (Gr)                                                                                                  |
-| MÁV              | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr)                        |
-| ÖBB              | Kittsee (Gr), Marchegg (Gr)                                                                                 |
-| PKP              | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                      |
-| UZ               | Čierna nad Tisou (Gr)                                                                                       |
-
-{{% /expander %}}
 
 ## Ermäßigungen
 

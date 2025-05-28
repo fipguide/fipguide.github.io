@@ -29,6 +29,17 @@ country: '{{ .File.ContentBaseName }}'
     - Beautiful train stations
 -->
 
+## Border Points
+
+<!--
+Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
+-->
+
+{{% expander "Border Points" %}}
+| Country | Border Points |
+| --- | --- |
+{{% /expander %}}
+
 ## FIP Rating
 
 <!--

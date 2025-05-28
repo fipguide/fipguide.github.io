@@ -1,20 +1,20 @@
 {
-    "$schema": "http://json.schemastore.org/prettierrc",
-    "bracketSameLine": true,
-    "bracketSpacing": true,
-    "endOfLine": "lf",
-    "goTemplateBracketSpacing": true,
-    "overrides": [
-      {
-        "files": ["*.html", "*.gotmpl", "*.tmpl.*"],
-        "options": {
-          "parser": "go-template",
-          "bracketSameLine": true
-        }
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "bracketSameLine": true,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "goTemplateBracketSpacing": true,
+  "overrides": [
+    {
+      "files": ["*.html", "*.gotmpl", "*.tmpl.*"],
+      "options": {
+        "parser": "go-template",
+        "bracketSameLine": true
       }
-    ],
-    "plugins": ["prettier-plugin-toml", "prettier-plugin-go-template"],
-    "singleQuote": true,
-    "tabWidth": 2,
-    "useTabs": false
-  }
+    }
+  ],
+  "plugins": ["prettier-plugin-toml", "prettier-plugin-go-template"],
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false
+}

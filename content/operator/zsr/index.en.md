@@ -123,7 +123,9 @@ Standard regional trains that usually stop everywhere (there are exceptions). Es
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
 
-## Arrival and border points
+## Arrival
+
+Border points with neighboring countries are listed on the [country page Slovakia]({{< ref "/country/slovakia" >}} "Slovakia").
 
 ### Czech Republic
 
@@ -144,20 +146,6 @@ The only regularly served cross-border route currently is the route from Slovak 
 ### Ukraine
 
 From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point. A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
-
-### Border Points
-
-{{% expander "Border points" %}}
-| Railway operator | Border Points                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------- |
-| ČD              | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)   |
-| GySEV           | Rajka (Gr)                                                                                                    |
-| MÁV             | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr)                          |
-| ÖBB             | Kittsee (Gr), Marchegg (Gr)                                                                                   |
-| PKP             | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                        |
-| UZ              | Čierna nad Tisou (Gr)                                                                                         |
-
-{{% /expander %}}
 
 ## Discounts
 
