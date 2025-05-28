@@ -36,7 +36,7 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 10 € (Elige)
+- 10 € (Elige Estándar)
 - 13 € (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
@@ -55,7 +55,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtssche
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige)
+- 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
@@ -66,7 +66,7 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werde
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige)
+- 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
 {{% /expander %}}
 
@@ -76,7 +76,7 @@ Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP 
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige)
+- 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
 {{% /expander %}}
 
@@ -120,11 +120,11 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-## Klassenkategorien
+## Klassen- / Tarifkategorien
 
-**Elige Standard / Turista**: Vergleichbar mit der 2. Klasse. \
-**Elige Confort**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
-**Premium**: 1. Klasse inkl. Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
+**Elige Estándar / Turista**: Vergleichbar mit der 2. Klasse. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
+**Elige Confort**: Bietet ein XL Confort Sitzplatz ohne Verpflegung, vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
+**Premium**: Bietet ein XL Confort Sitzplatz inkl. Verpflegung. Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
 
 ## Ticket- und Reservierungskauf
 
@@ -139,7 +139,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 ### Vor Ort
 
 - DB Reisezentrum:
-  In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl.
+  In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Elige Estándar / Turista) oder "P" (für Elige Confort) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Eine Buchung von Tickets der Klasse Premium ist über die Vertriebskanäle der Deutschen Bahn nicht möglich.
   Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \
   ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
 
