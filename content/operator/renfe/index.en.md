@@ -13,13 +13,13 @@ Renfe Operadora is a Spanish state-owned railroad company. It operates comfortab
 
 - FIP free tickets are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
 - For trains requiring reservations, tickets can be purchased at the FIP Global Fare (regardless of distance), including the reservation; FIP Coupons are not needed.
-- FIP is not accepted on Avlo and metro trains.
+- FIP is not accepted on Avlo trains.
 
 ## Validity of FIP tickets
 
 FIP free ticket: ✅ (exceptions: trains requiring reservations) \
 FIP Coupons for relatives: ⛔ \
-FIP 50 tickets: ✅ (exceptions: trains requiring reservations, metro) \
+FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
 ## Train categories and reservations
@@ -101,7 +101,20 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 
 {{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
 **Description:** \
-Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions. \
+Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
+- Cercanías Asturias
+- Cercanías Bilbao – Bilboko Aldiriak
+- Cercanías Cádiz
+- Cercanías Madrid
+- Cercanías Málaga
+- Cercanías Murcia/Alicante – Rodalia de Múrcia/Alacant
+- Cercanías Sevilla
+- Cercanías Santander
+- Cercanías San Sebastián – Renfe Aldiriak/Donostia
+- Cercanías Valencia – Rodalia de València
+- Cercanías Zaragoza
+- Rodalies de Catalunya
+
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}

@@ -102,7 +102,20 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 
 {{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
 **Beschreibung:** \
-Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig. \
+Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+- Cercanías Asturias
+- Cercanías Bilbao – Bilboko Aldiriak
+- Cercanías Cádiz
+- Cercanías Madrid
+- Cercanías Málaga
+- Cercanías Murcia/Alicante – Rodalia de Múrcia/Alacant
+- Cercanías Sevilla
+- Cercanías Santander
+- Cercanías San Sebastián – Renfe Aldiriak/Donostia
+- Cercanías Valencia – Rodalia de València
+- Cercanías Zaragoza
+- Rodalies de Catalunya
+
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
