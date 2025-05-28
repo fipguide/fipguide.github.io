@@ -40,48 +40,42 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** -
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Train local oder Lokale trein (L)" category %}}
 **Beschreibung:** \
 Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** -
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Train S oder S-Trein (S)" category %}}
 **Beschreibung:** \
 Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** -
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Train d’heure de pointe oder Piekuurtrein (P)" category %}}
 **Beschreibung:** \
 Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** -
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Express (E/EXP/EXTRA)" category %}}
 **Beschreibung:** \
 Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** -
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Tourist (T)" category %}}
 **Beschreibung:** \
 Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** -
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
@@ -135,7 +129,7 @@ Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / A
 
 ### Niederlande
 
-Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der NS benötigt. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der NS benötigt. Darüber hinaus verkehren Fernzüge (ECD und EC), bei denen auf dem niederländischen Abschnitt (zwischen Rotterdam und Schiphol) ein zusätzlicher Aufschlag dazukommen kann. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Frankreich
 

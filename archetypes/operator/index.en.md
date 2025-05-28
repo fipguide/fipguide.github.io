@@ -45,7 +45,7 @@ FIP Global Fare: <✅/⛔>
 <!--
   For each train category, a separate section can be added according to the following principle:
   In the title, the following emojis can be used:
-  - ⚠️ for a general reservation requirement
+  - ⚠️ for a general reservation requirement or supplements
   - 1️⃣ for a reservation requirement in 1st class
   - ⛔ for a non-acceptance of FIP
   - ℹ️ for confusion with other railway companies/train categories
