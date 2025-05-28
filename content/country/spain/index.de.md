@@ -19,4 +19,4 @@ Die Bahnhöfe haben meist Ticketbarrieren, es wird hier ein gültiges digitales 
 
 - Iryo
 - OUIGO
-- Avlo
+- [Avlo]({{< ref "/operator/renfe" >}} "Avlo")
