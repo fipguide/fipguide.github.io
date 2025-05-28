@@ -12,7 +12,7 @@ Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu geh�
 ## Zusammenfassung
 
 - FIP Freifahrtsscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
-- Für reservierungspflichtige Züge können Tickets zum Pauschalpreis inkl. Reservierung erworden werden, FIP Freifahrtsscheine werden nicht benötigt.
+- Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtsscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
 
 ## Gültigkeit FIP-Tickets
@@ -23,6 +23,10 @@ FIP 50 Tickets: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
 FIP Globalpreis: ✅ für reservierungspflichtige Züge außer Avlo
 
 ## Zugkategorien und Reservierungen
+
+{{% highlight important %}}
+Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In anderen Zügen muss in der Regel ein Ticket zum FIP Globalpreis erworben werden.
+{{% /highlight %}}
 
 ### Langstrecke
 
@@ -37,10 +41,12 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Avlo ⚠️" "long-distance" %}}
+{{% expander "Avlo ⛔⚠️" "long-distance" %}}
 **Beschreibung:** \
 Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
-⚠️ FIP wird nicht anerkannt.
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
+**FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
 
 {{% expander "Euromed ⚠️" "long-distance" %}}
@@ -96,30 +102,29 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 
 {{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
 **Beschreibung:** \
-Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig. \
-**Reservierungspflicht:** nein \
+Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+- Cercanías Asturias
+- Cercanías Bilbao – Bilboko Aldiriak
+- Cercanías Cádiz
+- Cercanías Madrid
+- Cercanías Málaga
+- Cercanías Murcia/Alicante – Rodalia de Múrcia/Alacant
+- Cercanías Sevilla
+- Cercanías Santander
+- Cercanías San Sebastián – Renfe Aldiriak/Donostia
+- Cercanías Valencia – Rodalia de València
+- Cercanías Zaragoza
+- Rodalies de Catalunya
+
+**Reservierung möglich:** nein \
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 ## Klassenkategorien
 
-{{% expander "Elige Standard / Turista" "local-transportation" %}}
-Vergleichbar mit der 2. Klasse
-{{% /expander %}}
-
-{{% expander "Elige Confort" "local-transportation" %}}
-1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
-{{% /expander %}}
-
-{{% expander "Premium" "local-transportation" %}}
-1. Klasse inkl. Mahlzeit. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
-{{% /expander %}}
-
-## Internationale Verbindungen
-
-{{% expander "Celta: Porto ↔️ Vigo" "international" %}}
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP. \
-**FIP Globalpreis (Distanzunabhängig):** 4 €
-{{% /expander %}}
+**Elige Standard / Turista**: Vergleichbar mit der 2. Klasse. \
+**Elige Confort**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Premium**: 1. Klasse inkl. Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
 
 ## Ticket- und Reservierungskauf
 
@@ -168,6 +173,11 @@ Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich v
 {{% /expander %}}
 
 ## Tarifliche Besonderheiten
+
+### Celta: Porto - Vigo
+Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP. \
+**FIP Globalpreis (Distanzunabhängig):** 4 €
+
 ### Reiseunterbrechung
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
