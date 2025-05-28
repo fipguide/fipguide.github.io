@@ -122,7 +122,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 
 ## Klassen- / Tarifkategorien
 
-**Elige Standard / Turista**: Vergleichbar mit der 2. Klasse. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
+**Elige Estándar / Turista**: Vergleichbar mit der 2. Klasse. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
 **Elige Confort**: Bietet ein XL Confort Sitzplatz ohne Verpflegung, vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
 **Premium**: Bietet ein XL Confort Sitzplatz inkl. Verpflegung. Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
 
