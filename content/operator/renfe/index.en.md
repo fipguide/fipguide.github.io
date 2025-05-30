@@ -35,7 +35,7 @@ Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons a
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 10 € (Elige)
+- 10 € (Elige Estándar)
 - 13 € (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
@@ -54,7 +54,7 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige)
+- 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
@@ -65,7 +65,7 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige)
+- 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
 {{% /expander %}}
 
@@ -75,7 +75,7 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige)
+- 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
 {{% /expander %}}
 
@@ -121,9 +121,9 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 
 ## Class Categories
 
-**Elige Standard / Turista**: Comparable to 2nd class. \
-**Elige Confort**: 1st class without catering. A 1st class FIP pass is required. \
-**Premium**: 1st class including catering. A 1st class FIP pass is required.
+**Elige Estándar / Turista**: Comparable to 2nd class. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
+**Elige Confort**: An XL Comfort seat without catering. Is comparable to 1st class. A 1st class FIP Card is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
+**Premium**: An XL Comfort seat including catering. Comparable to 1st class. A FIP-Card 1st class is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
 
 ## Ticket and reservation purchase
 
@@ -138,7 +138,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 ### On-site
 
 - DB Travel Center:
-  Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Turista) or "P" (for Preferente) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message.
+  Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels.
   It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee. \
   ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
 
