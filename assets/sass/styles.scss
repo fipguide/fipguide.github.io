@@ -76,7 +76,7 @@ main > .container {
   border-radius: var(--border-radius-l);
   padding: 2rem;
 
-  @include media-breakpoint-down(sm) {
+  @media (max-width: #{$breakpoint-sm}) {
     margin-top: 1.6rem;
   }
 }
@@ -84,6 +84,15 @@ main > .container {
 main > .container:is(.o-single--with-sidemenu) {
   background-color: unset;
   padding: 0;
+
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1.5rem;
+
+  @media (max-width: #{$breakpoint-lg}) {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 img {
@@ -103,7 +112,9 @@ img {
 
 .o-list__link-wrapper {
   display: flex;
+  gap: 2rem;
   margin-bottom: 0;
+  padding-left: 0;
 
   li {
     list-style-type: none;
@@ -116,10 +127,8 @@ img {
   margin-bottom: 1rem;
 }
 
-
-
 .container {
-  @include media-breakpoint-down(sm) {
+  @media (max-width: #{$breakpoint-sm}) {
     max-width: calc(100% - 3.6rem);
   }
 }
@@ -151,7 +160,7 @@ img {
 .o-single__header__title {
   display: flex;
   align-items: center;
-  gap: 1rem; // Adjust spacing between the image and the heading
+  gap: 1.5rem;
 }
 
 .o-single__header__title h1 {
@@ -167,9 +176,14 @@ img {
   background-color: var(--bg-default);
   padding: 2rem;
   border-radius: var(--border-radius-l);
-  margin-bottom: 2.4rem;
 }
 
 .pagefind-highlight {
   padding: 0px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }

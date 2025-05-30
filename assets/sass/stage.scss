@@ -32,7 +32,7 @@
     display: flex;
     z-index: 2;
 
-    @include media-breakpoint-up(md) {
+    @media (min-width: #{$breakpoint-md}) {
         width: 60%;
         max-width: 792px; // 1320*0.6
     }

@@ -13,7 +13,7 @@
   display: flex;
   justify-content: space-between;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     justify-content: unset;
   }
 }
@@ -30,7 +30,7 @@
   display: flex;
   justify-content: flex-end;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: block;
   }
 }
@@ -39,7 +39,7 @@
   width: 100%;
   display: none;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: block;
   }
 }
@@ -47,7 +47,7 @@
 .o-header__nav nav h2 {
   display: block;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
   }
 }
@@ -152,7 +152,7 @@
 .o-header__item .o-header__item-countries {
   display: flex;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
     z-index: 2;
     position: absolute;
@@ -172,7 +172,7 @@
 .o-nav__menu-button {
   display: flex;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
   }
 }
@@ -180,13 +180,13 @@
 .o-header__expand-button {
   display: none;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: flex;
   }
 }
 
 .o-header__nav--open nav {
-  @include media-breakpoint-down(md) {
+  @media (max-width: #{$breakpoint-md}) {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
