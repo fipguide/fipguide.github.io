@@ -136,27 +136,6 @@ Trains of the Sneltrein / Regional-Express (RE) category, including the connecti
 
 FIP 50 tickets cannot be purchased on the train. [^1]
 
-## Arrival and Border Points
-
-### Germany
-
-From Germany, the cross-border ICE from Frankfurt / Cologne / Düsseldorf can be used to enter the NS network. For cross-border journeys, an additional DB ticket is required. There are also various regional trains, but only two are valid with FIP: the connections from Dortmund to Enschede and Münster to Enschede. Here, DB Regio operates on the German section. With an additional ticket for the German section of DB, you are covered. On the RE routes Hamm - Venlo and Düsseldorf - Arnhem, the Deutschlandticket is valid for the entire route. If you have this ticket, you can also enter the Netherlands.
-
-### Belgium
-
-From Belgium, cross-border regional trains (including the IC here) can be used, but an additional FIP ticket from SNCB is required. There are also long-distance trains (ECD and EC), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis. With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Border Points
-
-{{% expander "Border Points" %}}
-
-| Railway Company   | Border Points                                                            |
-| ----------------- | ------------------------------------------------------------------------ |
-| DB AG             | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| SNCB              | Roosendaal (fr), Visé                                                    |
-| THI               | Amsterdam, Rotterdam, Schiphol                                           |
-{{% /expander %}}
-
 ## Discounts
 
 No discounts are known.

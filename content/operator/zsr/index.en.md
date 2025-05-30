@@ -123,42 +123,6 @@ Standard regional trains that usually stop everywhere (there are exceptions). Es
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
 
-## Arrival and border points
-
-### Czech Republic
-
-From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
-
-### Austria
-
-From Austria, cross-border InterCitys, RailJets, and regional trains (REX) are offered. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. FIP 50 tickets must be purchased cross-border.
-
-### Hungary
-
-From Hungary, both cross-border regional trains and EuroCity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP ticket of GySEV is required; in other cases, an additional FIP ticket of MAV-Start is required.
-
-### Poland
-
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK free travel passes are only valid up to the border point. Theoretically, it should be possible to travel cross-border for free with an additional free travel pass of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
-
-### Ukraine
-
-From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point. A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
-
-### Border Points
-
-{{% expander "Border points" %}}
-| Railway operator | Border Points                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------- |
-| ČD              | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)   |
-| GySEV           | Rajka (Gr)                                                                                                    |
-| MÁV             | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr)                          |
-| ÖBB             | Kittsee (Gr), Marchegg (Gr)                                                                                   |
-| PKP             | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                        |
-| UZ              | Čierna nad Tisou (Gr)                                                                                         |
-
-{{% /expander %}}
-
 ## Discounts
 
 Children up to 6 years travel free on ZSSK trains when accompanied by a person aged at least 16 years. In 1st class, this is limited to 2 children; from the 3rd child, 50% of the ticket price is due. In EC trains, an additional 1 € per child is charged in 1st class from the 3rd child. In SC trains, 1 € per child is always charged in 2nd class and 3 € in 1st class. In IC trains, a reservation including a surcharge for the train category must be purchased for each child.[^1]

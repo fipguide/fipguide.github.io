@@ -117,38 +117,6 @@ Additional trains to certain tourist destinations, often simply referred to as "
 
 If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. According to SNCB, a surcharge of 9 euros is charged here. [^2]
 
-## Arrival and Border Points
-
-### Luxembourg
-
-From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 2nd class, the FIP ticket (Coupon or FIP 50) is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP ticket for CFL is required.
-
-### Germany
-
-From Germany, the cross-border ICE from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required. The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Netherlands
-
-From the Netherlands, cross-border regional trains (including IC here) can be used, requiring an additional FIP ticket for NS. The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### France
-
-From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Border Points
-
-{{% expander "Border Points" %}}
-| Railway operator | Border Points                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| CFL              | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| DB AG            | Aachen Süd (Gr)                                                     |
-| EIL              | Bruxelles (fr)                                                      |
-| NS               | Roosendaal (fr), Visé (fr)                                          |
-| SNCF             | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
-| THI              | Antwerpen, Bruxelles, Liège                                         |
-
-{{% /expander %}}
-
 ## Discounts
 
 Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are entitled to a 50% discount on the adult fare, and from 12 years old, they pay the adult fare. If they are FIP eligible, they also pay only half the normal price with FIP 50. [^1]
