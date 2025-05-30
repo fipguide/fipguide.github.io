@@ -3,7 +3,7 @@
   margin-left: 0;
   margin-right: 0;
 
-  @include media-breakpoint-down(md) {
+  @media (max-width: #{$breakpoint-md}) {
     max-width: fit-content;
   }
 
@@ -19,7 +19,7 @@
     border-color: var(--color-onLight);
     padding: 1.2rem;
 
-    @include media-breakpoint-up(md) {
+    @media (min-width: #{$breakpoint-md}) {
       width: 50%;
     }
   }
