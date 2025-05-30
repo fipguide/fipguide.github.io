@@ -104,18 +104,6 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 - Weitere Möglichkeiten: \
   Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
 
-## Anreise
-
-Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Dänemark]({{< ref "/country/denmark" >}} "Dänemark") aufgeführt.
-
-### Deutschland
-
-Von Deutschland aus kann der durchgängige EC Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich IC-Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen. Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
-
-### Schweden
-
-Aus Schweden kann entweder aus Malmö über den Öresund gefahren oder von Helsingborg aus die Fähre nach Helsingør genutzt werden. Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden.
-
 ## Ermäßigungen
 
 Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]

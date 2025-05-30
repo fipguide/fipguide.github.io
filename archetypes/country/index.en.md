@@ -29,7 +29,7 @@ country: '{{ .File.ContentBaseName }}'
     - Beautiful train stations
 -->
 
-## Border Points
+## Arrival and Border Points
 
 <!--
 Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
@@ -39,6 +39,13 @@ Only border points at the national border with other countries. These should be 
 | Country | Border Points |
 | --- | --- |
 {{% /expander %}}
+
+### <Country Name>
+
+<!--
+  Which routes can be used from the respective country?
+  What tips & recommendations are there for entry from the country
+-->
 
 ## FIP Rating
 

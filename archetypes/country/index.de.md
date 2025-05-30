@@ -29,7 +29,7 @@ country: '{{ .File.ContentBaseName }}'
     - Schöne Bahnhöfe
 -->
 
-## Grenzpunkte
+## Anreise und Grenzpunkte
 
 <!--
 Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
@@ -39,6 +39,13 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 | Land | Grenzpunkte |
 | --- | --- |
 {{% /expander %}}
+
+### <Name des Nachbarlandes>
+
+<!--
+  Welche Routen kann man aus dem entsprechenden Land nutzen.
+  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
+-->
 
 ## FIP Bewertung
 

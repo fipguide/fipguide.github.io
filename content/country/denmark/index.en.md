@@ -17,7 +17,7 @@ The main routes in Denmark are the north-south connection Aalborg-Aarhus-Kolding
 
 Trains in Denmark typically run on a regular schedule and are generally punctual. However, connections are not always well-coordinated, which can lead to waiting times during transfers. The frequency of service on some routes could also be improved. In the capital city of Copenhagen, the S-train network and many frequently running regional train lines provide an especially dense rail service.
 
-## Border Points
+## Arrival and Border Points
 
 {{% expander "Border Points" %}}
 | Country | Border Points |
@@ -25,6 +25,13 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 | Germany (DB) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
 | Sweden (SJ) | Helsingborg (via Helsingør)
 {{% /expander %}}
+
+### Germany
+
+From Germany, the direct EC Hamburg - Copenhagen can be used, operating multiple times daily (every 2 hours during the peak season). These trains are always very crowded, so early reservation booking is recommended. Alternatively, there are multiple daily IC trains from Flensburg to Fredericia, with good connections to Aarhus/Aalborg and Copenhagen. Entry via Tønder is also possible using local trains. However, since neither DB on the German side nor DSB on the Danish side operates here, FIP discounts are not available on this route. Alternatively, ferries from Puttgarden or Warnemünde can be used to enter Denmark.
+
+### Sweden
+From Sweden, travel is possible either via Malmö over the Øresund or via Helsingborg using the ferry to Helsingør. Since FIP discounts do not apply in Sweden and the Øresund route is operated by Øresundståg, regular tickets must be purchased for the entire Malmö - Copenhagen route.
 
 ## FIP Rating
 

@@ -119,6 +119,15 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 **Reservation required:** no
 {{% /expander %}}
 
+### International
+{{% expander "Celta: Porto - Vigo ⚠️" "international" %}}
+**Description:** \
+The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):** 4€
+{{% /expander %}}
+
 ## Class Categories
 
 **Elige Estándar / Turista**: Comparable to 2nd class. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
@@ -153,20 +162,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 
 Children up to the age of 4 travel free of charge, provided they do not require their own seat. Children up to the age of 12 receive a 40% discount on the adult fare. Persons aged 12 and over pay the adult fare.
 
-## Arrival
-Border points with neighboring countries are listed on the [country page Spain]({{< ref "/country/spain" >}} "Spain").
-
-### France
-From Paris, direct TGV trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona. FIP Global Fares are available with both operators, although they can be very expensive. Overall, there are very few cross-border connections, and the network was significantly better developed just a few years ago.
-
-### Portugal
-Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP tickets or free passes from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section. Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route. A continuous high-speed rail line between Lisbon and Madrid is currently under development.
-
 ## Special Tariff Conditions
-
-### Celta: Porto - Vigo
-The Celta is an international joint train service operated by Renfe and the Portuguese CP. \
-**FIP Global Fare (regardless of distance):** 4 €
 
 ### Interruption of Travel
 

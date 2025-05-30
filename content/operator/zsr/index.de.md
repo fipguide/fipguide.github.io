@@ -125,29 +125,6 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 
 Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket (oder Reservierung im Ex) beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird.[^1]
 
-## Anreise
-Tarifliche Grenzpunkte zu Nachbarländern sind auf der [Landesseite Slowakei]({{< ref "/country/slovakia" >}} "Slowakei") aufgeführt.
-
-### Tschechien
-
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
-
-### Österreich
-
-Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. FIP 50 Tickets müssen grenzüberschreitend gekauft werden.
-
-### Ungarn
-
-Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP-Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP-Ticket der MAV-Start benötigt.
-
-### Polen
-
-Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardon. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der ZSSK gelten nur bis zum Grenzpunkt. Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können über die Website der ZSSK nicht gekauft werden, evtl. klappt dies an einem Schalter der ZSSK.
-
-### Ukraine
-
-Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukacheve. Da in der Ukraine FIP nicht gültig sind, wird ein reguläres Ticket mindestens ab dem Grenzpunkt benötigt. Bei der ZSSK Seite kann ein grenzüberschreitendes Ticket nur ohne FIP-Rabatt gekauft werden. Wenn der Zug einen Zwischenhalt in Cierna nad Tisou hat, wäre es möglich ab diesem Bahnhof ein reguläres Ticket über die Website zu kaufen. Falls nach einem günstigeren Ticket gesucht wird, am besten hier an einem Schalter der ZSSK nachfragen, ob es noch bessere Möglichkeiten gibt.
-
 ## Ermäßigungen
 
 Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In EC-Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In SC-Zügen werden pro Kind immer 1 € in der 2. und 3 € in der 1. Klasse fällig. In IC-Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
