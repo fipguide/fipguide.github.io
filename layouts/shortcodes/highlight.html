@@ -1,4 +1,7 @@
-<div class="m-text-highlight m-text-highlight--{{ (.Get 0) | markdownify }}">
-    <div class="m-text-highlight__roofline"> {{ T (printf "highlight-%s" (.Get 0)) }} </div>
-    <div>{{ .Inner }}</div>
+{{- $param := .Get 0 -}}
+<div class="m-text-highlight m-text-highlight--{{ $param }}">
+    {{- if $param -}}
+    <div class="m-text-highlight__roofline">{{ T (printf "highlight.%s" $param) }}</div>
+    {{- end -}}
+    <div>{{ .Inner | markdownify }}</div>
 </div>
