@@ -7,7 +7,7 @@
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
   {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen" rel="preload" as="style" />
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" rel="preload" as="style" />
 {{ end }}
 {{ if .IsHome }}
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css">

@@ -10,7 +10,7 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 
 ## Summary
 
-- ZSSK accepts FIP free travel and FIP 50 tickets
+- ZSSK accepts FIP Coupons and FIP 50 tickets
 - Reservation required in IC and SC trains
 - Reservation required in 1st class in all trains
 - Offers for free travel for certain groups (children between 6 and 16, students up to 26, and pensioners from 62 years) regardless of FIP
@@ -122,42 +122,6 @@ Standard regional trains that usually stop everywhere (there are exceptions). Es
 ### On the train
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
-
-## Arrival and border points
-
-### Czech Republic
-
-From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
-
-### Austria
-
-From Austria, cross-border InterCitys, RailJets, and regional trains (REX) are offered. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. FIP 50 tickets must be purchased cross-border.
-
-### Hungary
-
-From Hungary, both cross-border regional trains and EuroCity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP ticket of GySEV is required; in other cases, an additional FIP ticket of MAV-Start is required.
-
-### Poland
-
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK free travel passes are only valid up to the border point. Theoretically, it should be possible to travel cross-border for free with an additional free travel pass of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
-
-### Ukraine
-
-From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point. A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
-
-### Border Points
-
-{{% expander "Border points" %}}
-| Railway operator | Border Points                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------- |
-| ČD              | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)   |
-| GySEV           | Rajka (Gr)                                                                                                    |
-| MÁV             | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr)                          |
-| ÖBB             | Kittsee (Gr), Marchegg (Gr)                                                                                   |
-| PKP             | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                        |
-| UZ              | Čierna nad Tisou (Gr)                                                                                         |
-
-{{% /expander %}}
 
 ## Discounts
 

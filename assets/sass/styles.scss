@@ -113,6 +113,7 @@ img {
 .o-list__link {
   display: flex;
   align-items: center;
+  margin-bottom: 1rem;
 }
 
 
@@ -167,4 +168,8 @@ img {
   padding: 2rem;
   border-radius: var(--border-radius-l);
   margin-bottom: 2.4rem;
+}
+
+.pagefind-highlight {
+  padding: 0px;
 }

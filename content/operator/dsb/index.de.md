@@ -1,18 +1,20 @@
 ---
 draft: false
-title: 'DSB'
+title: "DSB"
 description: "Informationen über die FIP-Bedingungen bei DSB."
 country:
- - "denmark"
+  - "denmark"
 ---
 
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemark. Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
 
 ## Zusammenfassung
+
 - FIP 50 und FIP Freifahrtsscheine werden akzeptiert.
 - Es besteht größtenteils keine Reservierungspflicht.
 
 ## Gültigkeit FIP-Tickets
+
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrtsschein Angehörige: ⛔ \
 FIP 50 Tickets: ✅
@@ -20,8 +22,8 @@ FIP 50 Tickets: ✅
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
-Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg - Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
+Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg - Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
 {{% expander "InterCityLyn (ICL)" category %}}
 **Beschreibung:** \
@@ -49,9 +51,9 @@ EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg u
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** 🟡 In der Nebensaison nicht, in der Hauptsaison ja \
 **Kosten für Reservierung:** 🟡
-| Strecke                     | 2. Klasse | 1. Klasse |
+| Strecke | 2. Klasse | 1. Klasse |
 |-----------------------------|-----------|-----------|
-| Innerhalb Dänemarks         | 30 kr    | 30 kr    |
+| Innerhalb Dänemarks | 30 kr | 30 kr |
 | Grenzüberschreitende Strecken | 5,20 € | 6,50 € |
 {{% /expander %}}
 
@@ -71,7 +73,9 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
+
 ### Online
+
 - [DSB Website](https://www.dsb.dk): \
   **Reservierung:** ✅ \
   Nur für nationale Verbindungen \
@@ -93,32 +97,21 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
   Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
 
 ### Vor Ort
+
 - Schalter der DSB: \
   **Reservierung:** ✅ \
   **FIP 50 Fahrkarten:** ✅
 - Weitere Möglichkeiten: \
   Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
 
-## Anreise und Grenzpunkte
-### Deutschland
-Von Deutschland aus kann der durchgängige EC Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich IC-Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen. Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
-
-### Schweden
-Aus Schweden kann entweder aus Malmö über den Öresund gefahren oder von Helsingborg aus die Fähre nach Helsingør genutzt werden. Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden.
-
-### Grenzpunkte
-{{% expander "Grenzpunkte" %}}
-| Bahngesellschaft | Grenzpunkte                                                                 |
-|------------------|----------------------------------------------------------------------------|
-| DB               | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
-| SJ               | Helsingborg (über Helsingør)                                              |
-{{% /expander %}}
-
 ## Ermäßigungen
+
 Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
 
 ## Tarifliche Besonderheiten
+
 ### Reiseunterbrechung
+
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]
 
 ### Kopenhagen Flughafen
@@ -126,18 +119,23 @@ Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jed
 FIP-Angebote sind nicht gültig in Øresundståg-Zügen von Københavns Hovedbanegård (Kopenhagen Hauptbahnhof) bis Københavns Lufthavn Station (Bahnhof Kopenhagen Flughafen), da diese nicht von der DSB betrieben werden.
 
 ### FIP 50 in Kopenhagen und Aarhus
-FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. FIP Freifahrtsscheine sind hingegen auch bei Fahrten nur innerhalb dieser Regionen gültig.
+
+FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. FIP Freifahrtscheine sind hingegen auch bei Fahrten nur innerhalb dieser Regionen gültig.
 
 ### Nutzung von Fähren
+
 {{% highlight inofficial %}}
 Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
 {{% /highlight %}}
 
 ## Erfahrungen
+
 {{% highlight tip %}}
 Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch oft ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]
 {{% /highlight %}}
 
 ## Quellen
+
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

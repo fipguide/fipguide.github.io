@@ -45,8 +45,10 @@ FIP Globalpreis: <✅/⛔>
 <!--
   Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden.
   Im Titel können folgende Emojis verwendet werden:
-  - ⚠️ für eine generelle Reservierungspflicht
+  - ⚠️ für eine generelle Reservierungspflicht oder Zuschläge
   - 1️⃣ für eine Reservierungspflicht in der 1. Klasse
+  - ⛔ für eine Nichtanerkennung von FIP
+  - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
 -->
 {{% expander "Zugkategorie" "category" %}}
 <!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z.B. ICE. -->
@@ -57,7 +59,25 @@ FIP Globalpreis: <✅/⛔>
 **Kosten für Reservierung:** <!-- Füge hier die Kosten nach Klasse, Strecke, etc. hinzu. Gibt es keine Festpreise, dann eine Preisspanne oder Beispiele angeben. --> \
 2\. Klasse: XX€ \
 1\. Klasse: XX€
+<!-- Wenn FIP nicht gültig ist, ergänze folgendes:
+**FIP:** ⛔ FIP wird nicht anerkannt
+-->
+<!-- Wenn es FIP Globalpreise gibt, ergänze folgendes:
+**FIP Globalpreis:**
+-->
 {{% /expander %}}
+
+## Klassenkategorien
+
+<!--
+  Wenn die Klassenkategorien zusätzliche/andere Klassen zu 1. und 2. Klasse haben, dann können diese hier beschrieben werden. Ansonsten kann dieser Abschnitt entfernt werden.
+-->
+
+<!--
+**Standard**: Vergleichbar mit der 2. Klasse. \
+**Plus**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Premium**: 1. Klasse inkl. Verpflegung. Nicht mit FIP buchbar.
+-->
 
 ## Ticket- und Reservierungskauf
 
@@ -101,27 +121,6 @@ FIP Globalpreis: <✅/⛔>
 <!--
   Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
 -->
-
-## Anreise und Grenzpunkte
-
-### <Name des Nachbarlandes>
-
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
-
-### Grenzpunkte
-
-<!--
-  Füge die Grenzpunkte mit Links zu den angrenzenden Bahngesellschaften hinzu.
--->
-
-{{% expander "Grenzpunkte" "border" %}}
-| Bahngesellschaft | Grenzpunkte                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| Abkürzung der angrenzenden Bahngesellschaft              | Grenzpunkte             |
-{{% /expander %}}
 
 ## Ermäßigungen
 
