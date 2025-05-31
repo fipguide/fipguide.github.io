@@ -1,15 +1,19 @@
 {{ define "main" }}
-<div class="container o-list">
-  <div class="row">
-    <h2 data-pagefind-meta="title">{{ .Title }}</h2>
-    {{ .Content }}
-    <ul class="o-list__link-wrapper row">
+  <div class="container o-list">
+    <div class="row">
+      <h2 data-pagefind-meta="title">{{ .Title }}</h2>
+      {{ .Content }}
       {{ range .Pages }}
-    <li class="col-12 col-lg-3 col-sm-6">
-      {{ partial "operator-list-item" . }}
-    </li>
-    {{ end }}
-    </ul>
+      <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
+        <div class="o-list__picture">
+          {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+          {{ partial "logo" $object }}
+        </div>
+        <div>
+          {{ .Title }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
   </div>
-</div>
 {{ end }}

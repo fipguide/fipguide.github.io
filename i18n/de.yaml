@@ -22,7 +22,9 @@ updateDate: Zuletzt aktualisiert
 related: Verwandte Seiten
 toc_name: Inhalt
 _operator__nearby: Angrenzende Betreiber
-toc-backlink: Zurück zu
+related-news: Verwandte News
+related-countries: Verwandte Länder
+related-operators: Verwandte Betreiber
 editPage: Seite bearbeiten
 reportError: Melde ein Fehler
 anchorLink:
@@ -30,3 +32,4 @@ anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
 skipToContent: Zum Inhalt springen
 wip: An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein. Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr Information auf GitHub](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
+navigate-to-country: Gehe zu Land
