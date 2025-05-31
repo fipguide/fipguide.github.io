@@ -3,5 +3,6 @@
     {{- if $param -}}
     <div class="m-text-highlight__roofline">{{ T (printf "highlight.%s" $param) }}</div>
     {{- end -}}
-    <div>{{ .Inner | markdownify }}</div>
-</div>
+    <div>
+{{ .Inner }}
+</div></div>
