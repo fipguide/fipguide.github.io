@@ -1,39 +1,40 @@
 {{ define "main" }}
     <div class="curtain" aria-hidden="true"></div>
     <article class="container o-single o-single--with-sidemenu">
-        <div class="sidemenu">
+        <aside id="aside" class="o-aside">
             {{ partial "image" (partial "helper/contentImage" . ) }}
-            <aside id="aside" class="o-aside">
-                <div class="o-single__container">
-                    <h3>{{ T "news-other" }}</h3>
-                    <ul class="news-list">
-                        {{ $current := . }}
-                        {{ range first 5 (where (where site.RegularPages "Section" "news") "Permalink" "ne" $current.Permalink) }}
-                        <li>
-                            {{ partial "internal_link"
-                                (dict
-                                    "Destination" .RelPermalink
-                                    "Text" ((print (partial "icon" "newspaper" ) (.Title)) | .Page.RenderString)
-                                )
-                            }}
-                            <span class="news-date">({{ .Date | time.Format ":date_long"}})</span>
-                        </li>
-                        {{ end }}
-                    </ul>
-                    <hr>
-                    {{ partial "link"
-                        (dict
-                            "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-                            "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
-                        )
-                    }}
-                </div>
-            </aside>
-        </div>
+            <div class="o-single__container">
+                <h3 id="other-news-list-title">{{ T "news-other" }}</h3>
+                <ul class="o-news_list" aria-labelledby="other-news-list-title">
+                    {{ $current := . }}
+                    {{ range first 5 (where (where site.RegularPages "Section" "news") "Permalink" "ne" $current.Permalink) }}
+                    <li>
+                        {{ partial "internal_link"
+                            (dict
+                                "Destination" .RelPermalink
+                                "Text" ((print (partial "icon" "newspaper" ) (.Title)) | .Page.RenderString)
+                            )
+                        }}
+                        <span class="o-news_list__date">{{ .Date | time.Format ":date_long"}}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+                <hr>
+                {{ partial "link"
+                    (dict
+                        "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+                        "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+                    )
+                }}
+            </div>
+        </aside>
         <div class="o-single__container content_with_heading" data-pagefind-body>
             <div class="o-single__header">
                 <h2 data-pagefind-meta="title">{{ .Title }}</h2>
                 {{ partial "updateDate.html" . }}
+            </div>
+            <div class="o-single__news_image">
+                {{ partial "image" (partial "helper/contentImage" . ) }}
             </div>
             <div data-pagefind-body>
                 {{ .Content }}

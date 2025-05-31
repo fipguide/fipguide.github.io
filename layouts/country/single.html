@@ -3,11 +3,8 @@
 
 <div class="curtain" aria-hidden="true"></div>
 <article class="container o-single o-single--with-sidemenu">
-    <div class="sidemenu">
-        {{ partial "sidemenu.html" . }}
-    </div>
-
-    <div class="content" data-pagefind-body>
+    {{ partial "sidemenu" . }}
+    <div class="o-single__content" data-pagefind-body>
         <div class="o-single__container content_with_heading">
             <div class="o-single__header">
                 <div class="o-single__header__title">
@@ -27,7 +24,7 @@
         </div>
         <div class="o-single__container">
             <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
-            <ul class="o-list__link-wrapper">
+            <ul class="o-list__link-wrapper" aria-labelledby="related">
                 {{ range $related }}
                     <li class="col-12 col-lg-3 col-sm-6">
                         {{ partial "operator-list-item" . }}
