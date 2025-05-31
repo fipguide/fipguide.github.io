@@ -137,10 +137,10 @@ FIP Globalpreis: <✅/⛔>
   Beschreibung der Besonderheit, wenn es auf bestimmten Routen z.B. Sonderregelungen gibt.
 -->
 
-## Erfahrungen
+## Empfehlungen
 
 <!--
-  Persönliche Erfahsrungen und besondere persönliche Hinweise für die Fahrt
+  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
 -->
 
 ## Quellen

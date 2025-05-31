@@ -128,7 +128,7 @@ FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im
 Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
 {{% /highlight %}}
 
-## Erfahrungen
+## Empfehlungen
 
 {{% highlight tip %}}
 Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch oft ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]

@@ -169,12 +169,11 @@ Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz ben
 ### Reiseunterbrechung
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
-## Erfahrungen
+## Empfehlungen
+
 {{% highlight tip %}}
 Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen Bahngesellschaften zu vergleichen. So sind Gepäckkontrollen bei Fernreisen genauso üblich wie wenige Züge, bei denen spontan mitgefahren werden kann. Ein FIP Freifahrtsschein lohnt sich daher nur sehr bedingt, da er nur in wenigen Fällen Anwendung findet. Durch die Ticketbarrieren in vielen Bahnhöfen muss zudem das Personal jedes Mal aufgesucht werden, um mit dem Freifahrtsschein diese öffnen zu können. Die eigene Erfahrung zeigt hier, dass gerade im Großraum Madrid die Freifahrt hin und wieder nicht bekannt ist und somit der Zugang verweigert wird.
 {{% /highlight %}}
-
-
 
 ## Quellen
 

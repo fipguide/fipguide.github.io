@@ -127,9 +127,9 @@ Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von
 
 Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise *No Supplement Necessary* angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
 
-## Erfahrungen
+## Empfehlungen
 
-{{% highlight inofficial %}}
+{{% highlight tip %}}
 Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets benutzt. Auch ist die 1. Klasse meist nicht viel komfortabler als die 2. Klasse. Anders als in anderen Ländern lohnt sich daher ein Kauf von 1. Klasse Tickets, um hier mehr Platz und Ruhe zu haben, nur bedingt.
 {{% /highlight %}}
 

@@ -127,9 +127,9 @@ Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are
 
 For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note *No Supplement Necessary* is indicated. For FIP 50 tickets, this is already included in the price. [^1]
 
-## Experiences
+## Recommendations
 
-{{% highlight inofficial %}}
+{{% highlight tip %}}
 The first class in SNCB / NMBS trains is often used with second class tickets. Also, the 1st class is usually not much more comfortable than the second class. Unlike in other countries, buying first class tickets to have more space and quiet is only worthwhile to a limited extent.
 {{% /highlight %}}
 
