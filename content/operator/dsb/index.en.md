@@ -117,7 +117,8 @@ FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen
 Allegedly, FIP 50 Tickets are valid on Scandlines ferries in connection with a train journey through Denmark. However, this has not yet been confirmed by us. [^1]
 {{% /highlight %}}
 
-## Experiences
+## Recommendations
+
 {{% highlight tip %}}
 DSB offers reliable and comfortable service. The 1st class is particularly worthwhile for FIP journeys in Denmark, as it provides complimentary tea, coffee, water, and snacks at all times, and often a small breakfast in the morning. It also grants access to the DSB Lounge in Copenhagen, Odense, and Aarhus. Additionally, a free drink (coffee, tea, water) can be obtained at 7/11 at the station. [^2]
 {{% /highlight %}}

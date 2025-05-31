@@ -137,10 +137,10 @@ FIP Global Fare: <✅/⛔>
   Description of the special condition, if there are special regulations on certain routes.
 -->
 
-## Experiences
+## Recommendations
 
 <!--
-  Personal experiences and special personal tips for the trip
+  Personal recommendations and special personal tips for the trip
 -->
 
 ## Sources

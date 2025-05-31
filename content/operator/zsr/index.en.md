@@ -138,8 +138,10 @@ For children over 16 years, there is no discount, but it is possible for student
 
 ## Special Tariff Conditions
 
+### Break in the journey
 A break in the journey is only possible for distances of 101 km and more.
 
+### Busses and replacement services
 Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
 
 ## Sources

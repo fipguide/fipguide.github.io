@@ -140,8 +140,10 @@ Für Kinder ab 16 Jahren gibt es keinen Rabatt, jedoch ist es für Studenten unt
 
 ## Tarifliche Besonderheiten
 
+### Fahrtunterbrechung
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
+### Busse und Ersatzverkehr
 Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
 
 ## Quellen

@@ -151,9 +151,9 @@ With the FIP Coupon, you receive an NS gate-pass coupon with a barcode to open t
 
 If needed, a new gate-pass coupon can be requested at the NS ticket counter.
 
-## Experiences
+## Recommendations
 
-{{% highlight inofficial %}}
+{{% highlight tip %}}
 NS impresses with a dense schedule and good connections. Delays and cancellations do occur, but due to the high frequency, they are often not too problematic. Nevertheless, you should not plan with tight connections, as trains rarely wait for each other. The 1st class in NS trains is often not much more comfortable than 2nd class.
 {{% /highlight %}}
 

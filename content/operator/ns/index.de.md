@@ -32,7 +32,7 @@ Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gez
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein (grenzüberschreitend zur Hochsaison jedoch schon) \
+**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
 **Kosten für Reservierung:** 🟡 \
 5,20 € (2. Klasse) \
 6,50 € (1. Klasse) \
@@ -153,9 +153,9 @@ Zum FIP-Freifahrschein erhält man ein NS-Gate-Pass-Coupon mit Barcode, um die S
 
 Am NS Ticketschalter kann bei Bedarf ein neuer Gate-Pass-Coupon angefordert werden.
 
-## Erfahrungen
+## Empfehlungen
 
-{{% highlight inofficial %}}
+{{% highlight tip %}}
 Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen und Ausfälle kommen vor, sind jedoch durch die hohe Taktrate oft nicht allzu schlimm. Trotzdem sollte nicht mit zu knappen Anschlüssen geplant werden, da Züge nur selten aufeinander warten. Die 1. Klasse in den NS-Zügen ist oft nicht viel bequemer als die 2. Klasse.
 {{% /highlight %}}
 
