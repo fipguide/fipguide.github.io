@@ -142,6 +142,20 @@ img {
     padding: 0;
     background-color: inherit;
   }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  &__news_image {
+    margin-bottom: 1.6rem;
+
+    @media (min-width: #{$breakpoint-lg}) {
+      display: none;
+    }
+  }
 }
 
 .o-single__header {
@@ -180,10 +194,4 @@ img {
 
 .pagefind-highlight {
   padding: 0px;
-}
-
-.content {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
 }
