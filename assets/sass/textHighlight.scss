@@ -12,6 +12,9 @@
   text-transform: uppercase;
   font-weight: bold;
   opacity: .8;
+  display: flex;
+  align-items: center;
+  gap: .4rem;
 }
 
 .m-text-highlight--tip {
