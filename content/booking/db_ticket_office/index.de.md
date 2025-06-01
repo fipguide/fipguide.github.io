@@ -1,0 +1,25 @@
+---
+draft: false
+title: "DB Reisezentrum"
+description: "Buchungsinformationen für die Deutsche Bahn Reisezentren."
+
+classes:
+    first: "6,50€"
+    second: "5,20€"
+fip_50: true
+reservations: true
+link: "https://www.bahnhof.de/service/reisezentrum"
+type: "ticketoffice"
+---
+
+**FIP 50 Fahrkarten**
+
+In DB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb Deutschlands und in vielen europäischen Ländern erworben werden.
+
+Außerdem können FIP 50 Fahrkarten ausgestellt werden, bei dem nur der Streckenabschnitt außerhalb von Deutschland berechnet wird und eine zusätzliche Fahrkarte für den Deutschen Abschnitt erforderlich ist. Dies ist insbesonders für DB Mitarbeiterinnen und Mitarbeiter wichtig, da im eigenen Heimatland keine FIP 50 Fahrkarten gültig sind.
+
+**Reservierungen**
+
+Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
+
+Reservierungen können für Deutschland, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
