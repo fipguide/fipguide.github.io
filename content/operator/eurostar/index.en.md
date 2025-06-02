@@ -73,8 +73,8 @@ When booking, payment can sometimes be made in pounds or euros. Generally, euro 
 
 ## Class Categories
 
-**Standard**: Comparable to 2nd class.
-**Plus**: 1st class including a meal (only Eurostar Blue). A 1st class FIP pass is required.
+**Standard**: Comparable to 2nd class. \
+**Plus**: 1st class including a meal (only Eurostar Blue). A 1st class FIP pass is required. \
 **Premium**: 1st class including extensive catering and lounge access. Not available with FIP.
 
 ## Ticket and Reservation Purchase

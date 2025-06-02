@@ -3,13 +3,14 @@ draft: false
 title: "DSB Ticketschalter"
 description: "Buchungsinformationen für die DSB Ticketschalter."
 
-classes:
-    first: "30 kr"
-    second: "30 kr"
-fip_50: true
-reservations: true
-link: "https://www.dsb.dk/en/train-ticket-to-europe/"
-type: "ticketoffice"
+params:
+    classes:
+        first: "30 kr"
+        second: "30 kr"
+    fip_50: true
+    reservations: true
+    link: "https://www.dsb.dk/en/train-ticket-to-europe/"
+    type: "onsite"
 ---
 
 **FIP 50 Fahrkarten**

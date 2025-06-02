@@ -7,6 +7,7 @@ country:
 operator: "dsb"
 ---
 
+
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemark. Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
 
 ## Zusammenfassung
@@ -77,33 +78,20 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ### Online
 
-- [DSB Website](https://www.dsb.dk): \
-  **Reservierung:** ✅ \
-  Nur für nationale Verbindungen \
-  **FIP 50 Fahrkarten:** ⛔
-- [Deutsche Bahn Website](https://bahn.de/): \
-  **Reservierung:** ✅ \
-  Für nationale und grenzüberschreitende Verbindungen. Für einzelne Züge jedoch teuerer als über die DSB. \
-  **FIP 50 Fahrkarten:** ⛔
-- Deutsche Bahn FIP-Buchung (FIP DB): \
-  Link im DB Reisemarkt \
-  **Reservierung:** ✅ \
-  Für nationale und grenzüberschreitende Verbindungen. Für einzelne Züge jedoch teuerer als über die DSB. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für Mitarbeiter der Deutschen Bahn
-- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
-  **Reservierung:** ✅ \
-  Für nationale und grenzüberschreitende Verbindungen. Für einzelne Züge jedoch teuerer als über die DSB. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
+{{% booking "dsb_website" "Nur für nationale Verbindungen" %}}
+
+{{% booking "db_website" "Für nationale und grenzüberschreitende Verbindungen" %}}
+
+{{% booking "db_website_fip_db" "Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für  Mitarbeiter der Deutschen Bahn" %}}
+
+{{% booking "db_website_fip_international" "Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)" %}}
 
 ### Vor Ort
 
-- Schalter der DSB: \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: \
-  Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
+{{% booking "dsb_ticket_office" %}}
+
+Weitere Möglichkeiten: \
+Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
 
 ## Ermäßigungen
 

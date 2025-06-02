@@ -3,13 +3,14 @@ draft: false
 title: "DSB Ticket Office"
 description: "Booking information for DSB ticket offices."
 
-classes:
-    first: "30 kr"
-    second: "30 kr"
-fip_50: true
-reservations: true
-link: "https://www.dsb.dk/en/train-ticket-to-europe/"
-type: "ticketoffice"
+params:
+    classes:
+        first: "30 kr"
+        second: "30 kr"
+    fip_50: true
+    reservations: true
+    link: "https://www.dsb.dk/en/train-ticket-to-europe/"
+    type: "onsite"
 ---
 
 **FIP 50 Tickets**

@@ -71,33 +71,22 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase
+
 ### Online
-- [DSB Website](https://www.dsb.dk): \
-  **Reservation:** ✅ \
-  Only for domestic connections \
-  **FIP 50 Tickets:** ⛔
-- [Deutsche Bahn Website](https://bahn.de/): \
-  **Reservation:** ✅ \
-  For national and cross-border connections. However, for individual trains, it is more expensive than via DSB. \
-  **FIP 50 Tickets:** ⛔
-- Deutsche Bahn FIP Booking (FIP DB): \
-  Link in DB Reisemarkt \
-  **Reservation:** ✅ \
-  For national and cross-border connections. However, for individual trains, it is more expensive than via DSB. \
-  **FIP 50 Tickets:** ✅ \
-  Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees
-- [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE): \
-  **Reservation:** ✅ \
-  For national and cross-border connections. However, for individual trains, it is more expensive than via DSB. \
-  **FIP 50 Tickets:** ✅ \
-  Cross-border FIP 50 Tickets for the entire route (not valid in the home country)
+
+{{% booking "dsb_website" "Only for domestic connections" %}}
+
+{{% booking "db_website" "For national and cross-border connections" %}}
+
+{{% booking "db_website_fip_db" "For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees" %}}
+
+{{% booking "db_website_fip_international" "For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)" %}}
 
 ### On-Site
-- DSB Ticket Counters: \
-  **Reservation:** ✅ \
-  **FIP 50 Tickets:** ✅
-- Other Options: \
-  Tickets can also be purchased at other counters abroad, e.g., at DB in Germany.
+{{% booking "dsb_ticket_office" %}}
+
+Other Options: \
+Tickets can also be purchased at other counters abroad, e.g., at DB in Germany.
 
 ## Discounts
 Children under 5 years travel for free. Children under 16 years receive a 50% discount on the adult fare.[^1]

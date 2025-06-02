@@ -38,3 +38,10 @@ skipToContent: Zum Inhalt springen
 wip: An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein. Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr Information auf GitHub](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
 home-page-text: FIP Guide Startseite
 navigate-to-country: Gehe zu Land
+booking:
+  open-in-new: Öffne Buchungsinformationen in neuem Tab
+  classes:
+    first: 1. Klasse
+    second: 2. Klasse
+  reservation: Reservierung
+  fip-50: FIP 50 Fahrkarten

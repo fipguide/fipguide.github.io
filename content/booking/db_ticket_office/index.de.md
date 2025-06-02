@@ -3,13 +3,14 @@ draft: false
 title: "DB Reisezentrum"
 description: "Buchungsinformationen für die Deutsche Bahn Reisezentren."
 
-classes:
-    first: "6,50€"
-    second: "5,20€"
-fip_50: true
-reservations: true
-link: "https://www.bahnhof.de/service/reisezentrum"
-type: "ticketoffice"
+params:
+    classes:
+        first: "€6.50"
+        second: "€5.20"
+    fip_50: true
+    reservations: true
+    link: "https://www.bahnhof.de/en/service/travel-centre"
+    type: "onsite"
 ---
 
 **FIP 50 Fahrkarten**

@@ -28,9 +28,16 @@ related:
 editPage: Edit page
 reportError: Report an error
 anchorLink:
-  copy: Copy link to this section
+  copy: Copy link to this sectison
   copied: Link has been copied to the clipboard
 skipToContent: Skip to content
 wip: This page is still under construction and content may be incomplete. We would be happy if you contribute to improve this page. [More information on GitHub](https://github.com/fipguide/fipguide.github.io/wiki/English).
 home-page-text: FIP Guide Home Page
 navigate-to-country: Navigate to country
+booking:
+  open-in-new: Open booking information in a new tab
+  classes:
+    first: 1st Class
+    second: 2nd Class
+  reservation: Reservation
+  fip-50: FIP 50 Tickets

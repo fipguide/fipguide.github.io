@@ -2,14 +2,14 @@
 draft: false
 title: "DB Website"
 description: "Buchungsinformationen für die Deutsche Bahn Website."
-
-classes:
+params:
+  classes:
     first: "6,50€"
     second: "5,20€"
-fip_50: false
-reservations: true
-link: "https://www.bahn.de/"
-type: "website"
+  fip_50: false
+  reservations: true
+  link: "https://www.bahn.de/"
+  type: "website"
 ---
 
 **Reservierungen**
