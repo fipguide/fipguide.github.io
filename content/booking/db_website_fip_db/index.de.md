@@ -3,12 +3,13 @@ draft: false
 title: "DB Website FIP (DB Mitarbeiter)"
 description: "Buchungsinformationen für FIP Fahrscheine für DB Mitarbeiter für deutsche Nachbarländer"
 
-classes:
-    first: "6,50€"
-    second: "5,20€"
-fip_50: true
-reservations: true
-type: "website"
+params:
+    classes:
+        first: "6,50€"
+        second: "5,20€"
+    fip_50: true
+    reservations: true
+    type: "website"
 ---
 
 **FIP 50 Fahrkarten**

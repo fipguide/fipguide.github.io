@@ -3,13 +3,14 @@ draft: false
 title: "DSB Website"
 description: "Buchungsinformationen für die DSB Website."
 
-classes:
-    first: "30 kr"
-    second: "30 kr"
-fip_50: false
-reservations: true
-link: "https://www.dsb.dk/en/"
-type: "website"
+params:
+    classes:
+        first: "30 kr"
+        second: "30 kr"
+    fip_50: false
+    reservations: true
+    link: "https://www.dsb.dk/en/"
+    type: "website"
 ---
 
 **Reservierungen**

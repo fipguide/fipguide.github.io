@@ -3,12 +3,13 @@ draft: false
 title: "DB Website FIP (DB Employees)"
 description: "Booking information for FIP tickets for DB employees for neighboring countries of Germany"
 
-classes:
-    first: "€6.50"
-    second: "€5.20"
-fip_50: true
-reservations: true
-type: "website"
+params:
+    classes:
+        first: "6,50€"
+        second: "5,20€"
+    fip_50: true
+    reservations: true
+    type: "website"
 ---
 
 **FIP 50 Tickets**

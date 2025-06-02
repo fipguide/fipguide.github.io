@@ -3,13 +3,14 @@ draft: false
 title: "DB Website FIP (International)"
 description: "Booking information for FIP Tickets with a section in Germany."
 
-classes:
-    first: "6.50€"
-    second: "5.20€"
-fip_50: true
-reservations: true
-link: "https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE"
-type: "website"
+params:
+    classes:
+        first: "6,50€"
+        second: "5,20€"
+    fip_50: true
+    reservations: true
+    link: "https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE"
+    type: "website"
 ---
 
 **FIP 50 Tickets**

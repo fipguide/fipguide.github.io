@@ -3,13 +3,14 @@ draft: false
 title: "DB Ticket Office"
 description: "Booking information for Deutsche Bahn ticket offices."
 
-classes:
-    first: "€6.50"
-    second: "€5.20"
-fip_50: true
-reservations: true
-link: "https://www.bahnhof.de/en/service/travel-centre"
-type: "ticketoffice"
+params:
+    classes:
+        first: "€6.50"
+        second: "€5.20"
+    fip_50: true
+    reservations: true
+    link: "https://www.bahnhof.de/en/service/travel-centre"
+    type: "onsite"
 ---
 
 **FIP 50 Tickets**
