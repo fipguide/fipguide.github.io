@@ -2,7 +2,7 @@
 {{ $loading := "lazy" }}
 
 {{ if .Permalink }}
-{{ $image = . }}
+  {{ $image = . }}
 {{ else if .image }}
   {{ $image = .image }}
   {{ if .eager }}
@@ -11,35 +11,29 @@
 {{ end }}
 
 <picture>
-  {{ $widths := slice }}
-
-  {{ if gt $image.Width 2200 }}
-    {{ $widths = $widths | append 2200 }}
-  {{ end }}
-  {{ if gt $image.Width 1500 }}
-    {{ $widths = $widths | append 1500 }}
-  {{ end }}
-  {{ if gt $image.Width 1200 }}
-    {{ $widths = $widths | append 1200 }}
-  {{ end }}
-  {{ if gt $image.Width 800 }}
-    {{ $widths = $widths | append 800 }}
-  {{ end }}
-  {{ if gt $image.Width 500 }}
-    {{ $widths = $widths | append 500 }}
-  {{ end }}
-
-  {{- range $i, $width := $widths }}
-    {{- with $image.Resize (printf "%dx" $width) -}}
-<!-- Important: Do not change the indentation, otherwise the image is rendered as pre in some cases -->
-<source media="(min-width:{{ $width }}px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $.Title }}" loading="{{ $loading }}"/>
-    {{- end }}
-  {{- end }}
-
-  {{- $tinyImage := $image -}}
-  {{- if gt $image.Width 500 -}}
-    {{- $tinyImage = $image.Resize "500x" -}}
+  {{- $widths := slice -}}
+  {{- if gt $image.Width 2200 -}}
+    {{- $widths = $widths | append 2200 -}}
   {{- end -}}
-<!-- Important: Do not change the indentation, otherwise the image is rendered as pre in some cases -->
-<img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $.Title }}" title="{{ $.Title }}" loading="{{ $loading }}"/>
+  {{- if gt $image.Width 1500 -}}
+    {{- $widths = $widths | append 1500 -}}
+  {{- end -}}
+  {{- if gt $image.Width 1200 -}}
+    {{- $widths = $widths | append 1200 -}}
+  {{- end -}}
+  {{- if gt $image.Width 800 -}}
+    {{- $widths = $widths | append 800 -}}
+  {{- end -}}
+  {{- if gt $image.Width 500 -}}
+    {{- $widths = $widths | append 500 -}}
+  {{- end -}}
+
+  {{- $srcset := slice -}}
+  {{- range $i, $width := $widths -}}
+    {{- with $image.Resize (printf "%dx" $width) -}}
+      {{- $srcset = $srcset | append (printf "%s %dw" .RelPermalink $width) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- printf "<img src=\"%s\" alt=\"%s\" title=\"%s\" loading=\"%s\" srcset=\"%s\"/>" $image.RelPermalink $.Title $.Title $loading (delimit $srcset ", ") | safeHTML -}}
 </picture>
