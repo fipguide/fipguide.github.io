@@ -4,12 +4,17 @@
         <title>{{ .Site.Title }}</title>
         <link>{{ .Site.BaseURL }}</link>
         <description>{{ .Site.Params.description }}</description>
+        <language>{{ site.Language.LanguageCode }}</language>
+        <image>{{ (resources.Get "images/logo.svg").Permalink }}</image>
         {{ range where .Site.RegularPages "Section" "news" }}
         <item>
             <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
-            <description>{{ .Summary | plainify }}</description>
-            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+            <!-- Remove the icons and XML escape the summary -->
+            {{ $cleanedHTML := .Summary | replaceRE `<span[^>]*class="material-symbols-rounded"[^>]*>.*?</span>` "" | transform.XMLEscape | safeHTML}}
+            <description>{{ $cleanedHTML }}</description>
+            <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+            <enclosure url="{{ (partial "helper/contentImage" . ).Permalink }}" />
         </item>
         {{ end }}
     </channel>

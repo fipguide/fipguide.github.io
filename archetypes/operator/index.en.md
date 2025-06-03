@@ -122,27 +122,6 @@ FIP Global Fare: <✅/⛔>
   Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
 -->
 
-## Arrival and Border Points
-
-### <Country Name>
-
-<!--
-  Which routes can be used from the respective country?
-  What tips & recommendations are there for entry from the country
--->
-
-### Border Points
-
-<!--
-  Add the border points with links to the neighboring railway companies.
--->
-
-{{% expander "Border Points" "border" %}}
-| Railway Company | Border Points                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| Abbreviation of the neighboring railway company              | Border Points             |
-{{% /expander %}}
-
 ## Discounts
 
 <!--
@@ -158,10 +137,10 @@ FIP Global Fare: <✅/⛔>
   Description of the special condition, if there are special regulations on certain routes.
 -->
 
-## Experiences
+## Recommendations
 
 <!--
-  Personal experiences and special personal tips for the trip
+  Personal recommendations and special personal tips for the trip
 -->
 
 ## Sources

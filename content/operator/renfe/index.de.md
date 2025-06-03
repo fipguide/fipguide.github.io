@@ -36,7 +36,7 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 10 € (Elige Estándar)
+- 10 € (Elige)
 - 13 € (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
@@ -55,7 +55,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtssche
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige Estándar)
+- 6,50 € (Elige)
 - 10 € (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
@@ -66,7 +66,7 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werde
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige Estándar)
+- 6,50 € (Elige)
 - 10 € (Elige Confort)
 {{% /expander %}}
 
@@ -76,7 +76,7 @@ Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP 
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige Estándar)
+- 6,50 € (Elige)
 - 10 € (Elige Confort)
 {{% /expander %}}
 
@@ -120,11 +120,21 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-## Klassen- / Tarifkategorien
+### International
 
-**Elige Estándar / Turista**: Vergleichbar mit der 2. Klasse. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
-**Elige Confort**: Bietet ein XL Confort Sitzplatz ohne Verpflegung, vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
-**Premium**: Bietet ein XL Confort Sitzplatz inkl. Verpflegung. Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. [Mehr Informationen](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
+{{% expander "Celta: Porto - Vigo ⚠️" "international" %}}
+**Beschreibung:** \
+Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
+**FIP Globalpreis (Distanzunabhängig):** 4€
+{{% /expander %}}
+
+## Klassenkategorien
+
+**Elige Standard / Turista**: Vergleichbar mit der 2. Klasse. \
+**Elige Confort**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Premium**: 1. Klasse inkl. Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
 
 ## Ticket- und Reservierungskauf
 
@@ -139,7 +149,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 ### Vor Ort
 
 - DB Reisezentrum:
-  In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Elige Estándar / Turista) oder "P" (für Elige Confort) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Eine Buchung von Tickets der Klasse Premium ist über die Vertriebskanäle der Deutschen Bahn nicht möglich.
+  In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl.
   Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \
   ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
 
@@ -154,39 +164,16 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 
 Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40 % auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
 
-## Anreise und Grenzpunkte
-
-### Frankreich
-Von Paris aus verkehren direkte TGV-Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona. Bei beiden sind FIP-Globalpreise möglich, die jedoch sehr teuer werden können. Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
-
-### Portugal
-Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP-Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt. Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP-Globalpreis auf der gesamten Route. An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet. \
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-| Bahngesellschaft | Grenzpunkte                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| CP               | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| SNCF             | Canfranc (fr),  Hendaye (fr),  Port-Bou (fr), La Tour-de-Carol-Enveitg |
-
-{{% /expander %}}
-
 ## Tarifliche Besonderheiten
-
-### Celta: Porto - Vigo
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP. \
-**FIP Globalpreis (Distanzunabhängig):** 4 €
 
 ### Reiseunterbrechung
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
-## Erfahrungen
+## Empfehlungen
+
 {{% highlight tip %}}
 Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen Bahngesellschaften zu vergleichen. So sind Gepäckkontrollen bei Fernreisen genauso üblich wie wenige Züge, bei denen spontan mitgefahren werden kann. Ein FIP Freifahrtsschein lohnt sich daher nur sehr bedingt, da er nur in wenigen Fällen Anwendung findet. Durch die Ticketbarrieren in vielen Bahnhöfen muss zudem das Personal jedes Mal aufgesucht werden, um mit dem Freifahrtsschein diese öffnen zu können. Die eigene Erfahrung zeigt hier, dass gerade im Großraum Madrid die Freifahrt hin und wieder nicht bekannt ist und somit der Zugang verweigert wird.
 {{% /highlight %}}
-
-
 
 ## Quellen
 

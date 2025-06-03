@@ -122,27 +122,6 @@ FIP Globalpreis: <✅/⛔>
   Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
 -->
 
-## Anreise und Grenzpunkte
-
-### <Name des Nachbarlandes>
-
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
-
-### Grenzpunkte
-
-<!--
-  Füge die Grenzpunkte mit Links zu den angrenzenden Bahngesellschaften hinzu.
--->
-
-{{% expander "Grenzpunkte" "border" %}}
-| Bahngesellschaft | Grenzpunkte                                                         |
-| ---------------- | ------------------------------------------------------------------- |
-| Abkürzung der angrenzenden Bahngesellschaft              | Grenzpunkte             |
-{{% /expander %}}
-
 ## Ermäßigungen
 
 <!--
@@ -158,10 +137,10 @@ FIP Globalpreis: <✅/⛔>
   Beschreibung der Besonderheit, wenn es auf bestimmten Routen z.B. Sonderregelungen gibt.
 -->
 
-## Erfahrungen
+## Empfehlungen
 
 <!--
-  Persönliche Erfahsrungen und besondere persönliche Hinweise für die Fahrt
+  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
 -->
 
 ## Quellen

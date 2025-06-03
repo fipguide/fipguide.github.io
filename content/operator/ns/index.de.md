@@ -32,7 +32,7 @@ Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gez
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein (grenzüberschreitend zur Hochsaison jedoch schon) \
+**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
 **Kosten für Reservierung:** 🟡 \
 5,20 € (2. Klasse) \
 6,50 € (1. Klasse) \
@@ -138,27 +138,6 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Ver
 
 FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
-## Anreise und Grenzpunkte
-
-### Deutschland
-
-Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / Düsseldorf aus genutzt werden, um ins Netz der NS zu kommen. Bei grenzüberschreitenden Fahrten wird hier noch ein zusätzliches Ticket der DB benötigt. Darüber hinaus gibt es diverse Regionalzüge, jedoch nur zwei, auf dem FIP gültig ist, nämlich die Verbindungen von Dortmund nach Enschede bzw. Münster nach Enschede. Hier fährt die DB Regio auf dem deutschen Abschnitt. Mit einem zusätzlichen Ticket für den deutschen Abschnitt der DB hat man hier ausgesorgt. Auf den RE-Verbindungen Hamm - Venlo und Düsseldorf - Arnhem gilt derweil das Deutschlandticket auf der kompletten Strecke. Wenn man im Besitz dieses Tickets ist, kann somit auch in die Niederlande eingereist werden.
-
-### Belgien
-
-Von Belgien aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCB benötigt. Darüber hinaus verkehren Fernzüge (ECD und EC), bei denen ein zusätzlicher Aufschlag dazukommen kann, wenn hier auf der Achse Rotterdam - Schiphol gefahren wird. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb der Niederlande) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-
-| Bahngesellschaft  | Grenzpunkte                                                              |
-| ----------------- | ------------------------------------------------------------------------ |
-| DB AG             | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| SNCB              | Roosendaal (fr), Visé                                                    |
-| THI               | Amsterdam, Rotterdam, Schiphol                                           |
-{{% /expander %}}
-
 ## Ermäßigungen
 
 Uns sind keine Ermäßigungen bekannt.
@@ -174,9 +153,9 @@ Zum FIP-Freifahrschein erhält man ein NS-Gate-Pass-Coupon mit Barcode, um die S
 
 Am NS Ticketschalter kann bei Bedarf ein neuer Gate-Pass-Coupon angefordert werden.
 
-## Erfahrungen
+## Empfehlungen
 
-{{% highlight inofficial %}}
+{{% highlight tip %}}
 Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen und Ausfälle kommen vor, sind jedoch durch die hohe Taktrate oft nicht allzu schlimm. Trotzdem sollte nicht mit zu knappen Anschlüssen geplant werden, da Züge nur selten aufeinander warten. Die 1. Klasse in den NS-Zügen ist oft nicht viel bequemer als die 2. Klasse.
 {{% /highlight %}}
 

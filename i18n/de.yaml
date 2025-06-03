@@ -11,9 +11,10 @@ menu-open: Menü
 menu-close: Schließen
 general: Übergreifendes
 information-disclaimer-short: Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine rechtliche Verbindung zu FIP oder Bahngesellschaften.
-highlight-important: Wichtige Information
-highlight-inofficial: Inoffizielle Information
-highlight-tip: Persönlicher Tipp
+highlight:
+  important: Wichtige Information
+  inofficial: Inoffizielle Information
+  tip: Persönlicher Tipp
 news-headline: Was gibt's Neues?
 news-other: Weitere News
 _operator__list_title: Betreiber mit FIP
@@ -28,3 +29,4 @@ anchorLink:
   copy: Link zu diesem Abschnitt kopieren
   copied: Link wurde in die Zwischenablage kopiert
 skipToContent: Zum Inhalt springen
+wip: An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein. Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr Information auf GitHub](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
