@@ -35,5 +35,5 @@
     {{- end -}}
   {{- end -}}
 
-  {{- printf "<img src=\"%s\" alt=\"%s\" title=\"%s\" loading=\"%s\" srcset=\"%s\"/>" $image.RelPermalink $.Title $.Title $loading (delimit $srcset ", ") | safeHTML -}}
+  {{- printf "<img src=\"%s\" alt=\"\" loading=\"%s\" srcset=\"%s\"/>" $image.RelPermalink $loading (delimit $srcset ", ") | safeHTML -}}
 </picture>
