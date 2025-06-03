@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="o-single__container">
-            <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
+            <h2 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h2>
             <ul class="o-list__link-wrapper" aria-labelledby="related">
                 {{ range $related }}
                     <li class="col-12 col-lg-3 col-sm-6">
@@ -29,6 +29,15 @@
                     </li>
                 {{ end }}
             </ul>
+            {{ with .Params.operators_without_fip }}
+                <span class="o-divider"></span>
+                <h2 id="operators-without-fip-title">{{ T "operators_without_fip"}} in {{ $.Title }}</h2>
+                <ul>
+                    {{ range . }}
+                    <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+            {{ end }}
         </div>
         {{ partial "image" (partial "helper/contentImage" . ) }}
     </div>
