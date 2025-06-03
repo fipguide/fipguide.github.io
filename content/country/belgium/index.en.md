@@ -3,6 +3,10 @@ draft: false
 title: "Belgium"
 description: "Find out about the FIP conditions for Belgium and for which operators you can benefit from discounts."
 country: "belgium"
+params:
+  operators_without_fip:
+    - European Sleeper
+    - OuiGo
 ---
 
 ## FIP Information
@@ -43,12 +47,3 @@ From the Netherlands, cross-border regional trains (including IC here) can be us
 ### France
 
 From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international TGV trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-## FIP Rating
-
-Still pending
-
-## Operators without FIP
-
-- European Sleeper
-- OuiGo

@@ -3,6 +3,9 @@ draft: false
 title: "Slovakia"
 description: "Find out about the FIP conditions for slovakia and for which operators you can benefit from discounts."
 country: "slovakia"
+params:
+  operators_without_fip:
+    - RegioJet
 ---
 
 ## FIP Information
@@ -50,7 +53,3 @@ From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP 
 ## FIP Rating
 
 Overall, Slovakia has a good infrastructure and most journeys are operated by ZSSK. This makes it possible to travel a large part of the country with FIP tickets. However, the FIP experience is somewhat marred by reservation requirements (always in 1st class, in 2nd class on Intercity trains) as well as rather poor information systems and often not good scheduling on the branch lines.
-
-## Operators without FIP
-
-- RegioJet

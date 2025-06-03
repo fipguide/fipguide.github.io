@@ -2,6 +2,9 @@
 draft: false
 title: '{{ .File.ContentBaseName | title }}' # Ändere den Name auf den deutschen Ländername
 country: '{{ .File.ContentBaseName }}'
+params:
+  operators_without_fip:
+    - # Liste Betreiber, die kein FIP akzeptieren
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -46,13 +49,3 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
   Welche Routen kann man aus dem entsprechenden Land nutzen.
   Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
 -->
-
-## FIP Bewertung
-
-<!--
-    Die Bewertungskriterien befinden sich noch im Aufbau.
--->
-
-## Betreiber ohne FIP
-<!-- Ersetze den generischen Link mit dem Link zum jeweiligen Betreiber -->
-- [Name der Bahngesellschaft](../../operator)

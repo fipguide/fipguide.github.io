@@ -3,6 +3,15 @@ draft: false
 title: "Netherlands"
 description: "Information about FIP conditions for the Netherlands and which operators offer discounts."
 country: "netherlands"
+params:
+  operators_without_fip:
+    - Arriva Nederland
+    - Breng
+    - Connexxion
+    - European Sleeper
+    - Keolis Nederland
+    - Qbuzz
+    - VIAS Rail
 ---
 
 ## FIP Information
@@ -35,15 +44,3 @@ From Germany, the cross-border ICE from Frankfurt / Cologne / Düsseldorf can be
 ### Belgium
 
 From Belgium, cross-border regional trains (including the IC here) can be used, but an additional FIP ticket from SNCB is required. There are also long-distance trains (ECD and EC), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis. With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-## FIP Rating
-
-## Operators without FIP
-
-- Arriva Nederland
-- Breng
-- Connexxion
-- European Sleeper
-- Keolis Nederland
-- Qbuzz
-- VIAS Rail

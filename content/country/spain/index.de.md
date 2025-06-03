@@ -3,6 +3,11 @@ draft: false
 title: "Spanien"
 description: "Informationen über die FIP-Bedingungen für Spanien und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "spain"
+params:
+  operators_without_fip:
+    - Iryo
+    - OUIGO
+    - '[Avlo]({{< ref "/operator/renfe" >}} "Avlo")'
 ---
 
 ## FIP Nutzung
@@ -31,9 +36,3 @@ Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich v
 Spanien hat kein besonders engmaschiges Netz, stattdessen besteht es vor allem aus neuen Hochgeschwindigkeitsstrecken in Normalspur und älteren Regionalstrecken in iberischer Breitspur. Der Fokus liegt auf (meist schnellen) Fahrten zwischen größeren Städten. Daneben gibt es S-Bahnen in und um die Metropolen, die einen dichten Nahverkehr sicherstellen.
 
 Die Bahnhöfe haben meist Ticketbarrieren, es wird hier ein gültiges digitales oder analoges Ticket auf einer Karte benötigt, um diese zu überwinden. Mit FIP Freifahrtsscheinen muss hier das Personal vor Ort angesprochen werden, damit diese die Barrieren manuell öffnen. Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, die zwar nicht so intensiv wie im Flugverkehr ausfallen, aber trotzdem Zeit in Kauf nehmen. Es ist daher empfehlenswert bei solchen Reisen mindestens 30 Minuten vor Abfahrt am Bahnhof zu sein.
-
-## Betreiber ohne FIP
-
-- Iryo
-- OUIGO
-- [Avlo]({{< ref "/operator/renfe" >}} "Avlo")
