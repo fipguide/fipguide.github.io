@@ -20,7 +20,7 @@ You can find the instructions in the official [Hugo documentation](https://gohug
 
 Validate the installation by running `hugo version` in the command line.
 
-In addition, we use some node packages, for example bootstrap as UI toolkit. To install the packages,
+In addition, we use some node packages, for example pagefind for the search. To install the packages,
 install the node package manager `npm` on your machine. Instructions are available in the [official documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
 Validate the installation by running `npm --version` in the command line.
