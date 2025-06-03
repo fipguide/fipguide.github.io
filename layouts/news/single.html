@@ -5,7 +5,7 @@
             {{ partial "image" (partial "helper/contentImage" . ) }}
             <div class="o-single__container">
                 <h3 id="other-news-list-title">{{ T "news-other" }}</h3>
-                <ul class="o-news_list" aria-labelledby="other-news-list-title">
+                <ul class="o-news__list" aria-labelledby="other-news-list-title">
                     {{ $current := . }}
                     {{ range first 5 (where (where site.RegularPages "Section" "news") "Permalink" "ne" $current.Permalink) }}
                     <li>
@@ -15,7 +15,7 @@
                                 "Text" ((print (partial "icon" "newspaper" ) (.Title)) | .Page.RenderString)
                             )
                         }}
-                        <span class="o-news_list__date">{{ .Date | time.Format ":date_long"}}</span>
+                        <span class="o-news__list-date">{{ .Date | time.Format ":date_long"}}</span>
                     </li>
                     {{ end }}
                 </ul>
@@ -29,11 +29,11 @@
             </div>
         </aside>
         <div class="o-single__container content_with_heading" data-pagefind-body>
-            <div class="o-single__header">
+            <div class="o-single__content-header">
                 <h2 data-pagefind-meta="title">{{ .Title }}</h2>
                 {{ partial "updateDate.html" . }}
             </div>
-            <div class="o-single__news_image">
+            <div class="o-single__news-image">
                 {{ partial "image" (partial "helper/contentImage" . ) }}
             </div>
             <div data-pagefind-body>

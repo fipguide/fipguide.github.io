@@ -78,12 +78,12 @@
     }
 }
 
-.o-news_list {
+.o-news__list {
     list-style-type: none;
     list-style-position: outside;
     padding-left: 0;
 
-    &__date {
+    &-date {
         padding-left: 2.5rem;
     }
 }

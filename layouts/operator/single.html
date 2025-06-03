@@ -4,8 +4,8 @@
         {{ partial "sidemenu" . }}
         <div class="o-single__content" data-pagefind-body>
             <div class="o-single__container content_with_heading">
-                <div class="o-single__header">
-                    <div class="o-single__header__title">
+                <div class="o-single__content-header">
+                    <div class="o-single__content-header-title">
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
                         {{ $logo := resources.Get (printf "images/logos/%s.svg" $object) }}
                         {{ if $logo }}

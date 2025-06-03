@@ -149,7 +149,7 @@ img {
     gap: 1.5rem;
   }
 
-  &__news_image {
+  &__news-image {
     margin-bottom: 1.6rem;
 
     @media (min-width: #{$breakpoint-lg}) {
@@ -158,7 +158,7 @@ img {
   }
 }
 
-.o-single__header {
+.o-single__content-header {
   display: flex;
   justify-content: space-between;
   flex-flow: wrap;
@@ -171,17 +171,17 @@ img {
   }
 }
 
-.o-single__header__title {
+.o-single__content-header-title {
   display: flex;
   align-items: center;
   gap: 1.5rem;
 }
 
-.o-single__header__title h1 {
+.o-single__content-header-title h1 {
   margin-bottom: 0;
 }
 
-.o-single__header__title img {
+.o-single__content-header-title img {
   max-height: 3.6rem;
   width: auto;
 }
