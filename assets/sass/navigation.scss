@@ -57,24 +57,14 @@
   margin: .3rem;
   position: relative;
   text-decoration: none;
+  border-radius: var(--border-radius-m);
 
-  h1 {
-    margin: 0;
-    font-size: 2.4rem;
-    color: var(--link-special);
-    font-weight: 700;
-    align-self: center;
-    text-wrap-mode: nowrap;
-
-    &:hover,
-    &:focus {
-      color: var(--link-hovered);
-      text-decoration: underline;
-    }
+  &:hover,
+  &:focus {
+    background-color: var(--bg-neutral);
   }
 
   img {
-    width: 5rem;
     height: 4.7rem;
   }
 }
