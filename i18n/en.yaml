@@ -19,12 +19,12 @@ news-headline: What's new?
 news-other: Other News
 _operator__list_title: Operators supporting FIP
 updateDate: Last updated
-related: Related Pages
 toc_name: Contents
-_operator__nearby: Neighboring Operators
-related-news: Related News
-related-countries: Related Countries
-related-operators: Related Operators
+related:
+  news: Related News
+  countries: Related Countries
+  operators: Related Operators
+  operators-nearby: Neighboring Operators
 editPage: Edit page
 reportError: Report an error
 anchorLink:

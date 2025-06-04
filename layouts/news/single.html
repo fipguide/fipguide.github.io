@@ -21,8 +21,8 @@
                     </li>
                     {{ end }}
                 </ul>
-                {{ partial "related" (dict "index" "country" "title" (T "related-countries") "page" . "identifier" "countries") }}
-                {{ partial "related" (dict "index" "operator" "title" (T "related-operators") "page" . "identifier" "operators") }}
+                {{ partial "related" (dict "index" "country" "title" (T "related.countries") "page" . "identifier" "countries") }}
+                {{ partial "related" (dict "index" "operator" "title" (T "related.operators") "page" . "identifier" "operators") }}
                 <hr>
                 {{ partial "link"
                     (dict

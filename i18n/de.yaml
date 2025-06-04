@@ -19,9 +19,13 @@ news-headline: Was gibt's Neues?
 news-other: Weitere News
 _operator__list_title: Betreiber mit FIP
 updateDate: Zuletzt aktualisiert
-related: Verwandte Seiten
 toc_name: Inhalt
 _operator__nearby: Angrenzende Betreiber
+related:
+  news: Verwandte News
+  countries: Verwandte Länder
+  operators: Verwandte Betreiber
+  operators-nearby: Angrenzende Betreiber
 related-news: Verwandte News
 related-countries: Verwandte Länder
 related-operators: Verwandte Betreiber

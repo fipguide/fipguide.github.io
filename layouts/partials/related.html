@@ -2,7 +2,6 @@
 {{ $related := where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
 {{ if gt (len $related) 0 }}
 <h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
-{{ end }}
 <ul class="o-related__list" aria-labelledby="o-related__title-{{ .identifier }}">
 {{ range $related }}
     {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
@@ -29,3 +28,4 @@
     </li>
 {{ end }}
 </ul>
+{{ end }}
