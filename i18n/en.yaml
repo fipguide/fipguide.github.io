@@ -19,10 +19,12 @@ news-headline: What's new?
 news-other: Other News
 _operator__list_title: Operators supporting FIP
 updateDate: Last updated
-related: Related Pages
 toc_name: Contents
-_operator__nearby: Neighboring Operators
-toc-backlink: Back to
+related:
+  news: Related News
+  countries: Related Countries
+  operators: Related Operators
+  operators-nearby: Neighboring Operators
 editPage: Edit page
 reportError: Report an error
 anchorLink:
@@ -30,3 +32,4 @@ anchorLink:
   copied: Link has been copied to the clipboard
 skipToContent: Skip to content
 wip: This page is still under construction and content may be incomplete. We would be happy if you contribute to improve this page. [More information on GitHub](https://github.com/fipguide/fipguide.github.io/wiki/English).
+navigate-to-country: Navigate to country

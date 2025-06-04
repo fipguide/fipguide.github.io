@@ -78,12 +78,18 @@
     }
 }
 
-.o-news__list {
-    list-style-type: none;
-    list-style-position: outside;
-    padding-left: 0;
+.o-related {
+    &__list {
+        list-style-type: none;
+        list-style-position: outside;
+        padding-left: 0;
+    }
 
     &-date {
         padding-left: 2.5rem;
+    }
+
+    p {
+        margin-bottom: 0;
     }
 }

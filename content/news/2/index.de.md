@@ -3,6 +3,11 @@ date: "2025-02-16"
 draft: false
 author: "Willy"
 title: "Grenzüberschreitende FIP-Tickets der SNCB"
+country:
+    - belgium
+    - netherlands
+operator:
+    - sncb
 ---
 
 Die belgische Staatsbahn SNCB / NMBS bietet auf ihrer [Website für internationale Fahrkarten ](https://www.b-europe.com/) neben regulären grenzüberschreitenden Tickets nun auch Tickets mit FIP-Rabatt an. Dies erleichtert den Kauf von Fahrkarten, die über die Grenze Belgiens hinausgehen, erheblich. Bisher mussten diese an einem Schalter in Belgien oder bestimmten Nachbarländern wie Deutschland oder den Niederlanden gekauft werden.

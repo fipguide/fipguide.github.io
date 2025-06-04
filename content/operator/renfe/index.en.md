@@ -5,6 +5,7 @@ description: "Information about the FIP conditions at Renfe."
 country:
   - "spain"
   - "france"
+operator: "renfe"
 ---
 
 Renfe Operadora is a Spanish state-owned railroad company. It operates comfortable high-speed trains, various regional trains and suburban trains.

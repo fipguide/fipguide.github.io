@@ -5,6 +5,7 @@ description: "Informationen über die FIP-Bedingungen bei Eurostar."
 country:
   - "belgium"
   - "netherlands"
+operator: "eurostar"
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet.
