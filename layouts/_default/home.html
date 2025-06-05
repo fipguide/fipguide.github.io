@@ -1,9 +1,33 @@
 {{ define "main" }}
-<div class="curtain" aria-hidden="true"></div>
-  {{ partial "stage.html" }}
+  <div class="curtain" aria-hidden="true"></div>
   <section class="container">
-    {{ .Content }}
+    <div class="row">
+      <div class="col-12 col-md-6">
+        {{ .Content }}
+      </div>
+      <div class="col-12 col-md-6">
+        {{ $image := resources.Get "images/startpage.webp" }}
+        {{ partial "image.html" (dict "image" $image "eager" true) }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        {{ partial "search-slot" }}
+      </div>
+    </div>
+    <div class="row">
+      {{ partial "shortcut-tile" (dict "page" "generalinformation" "linktext" "Grundlegende Informationen zu FIP") }}
+      {{ partial "shortcut-tile" (dict "page" "country" "linktext" "Übersicht der Länder") }}
+      {{ partial "shortcut-tile" (dict "page" "operator" "linktext" "Übersicht der Betreiber") }} <!-- vllt einfach die Seitennamen umbenennen? -->
+    </div>
   </section>
+<section class="container">
+  <div class="row">
+    <div class="col-12">
+      Unterstütze uns
+    </div>
+  </div>
+</section>
   <section class="container">
       <div class="row justify-content-center">
           <h2>{{ T "news-headline"}}</h2>

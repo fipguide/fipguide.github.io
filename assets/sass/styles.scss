@@ -65,12 +65,12 @@ main > .o-stage {
 }
 
 //space for fixed header
-main > .container.o-single,
-main > .container.o-list {
+main > article.container.o-single,
+main > article.container.o-list {
   margin-top: 8rem;
 }
 
-main > .container {
+main:not(.o-startpage) > .container {
   margin-top: 4rem;
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);

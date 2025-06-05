@@ -32,8 +32,4 @@
   });
 </script>
 
-<section class="o-stage container-fluid">
-  {{ $image := resources.Get "images/startpage.webp" }}
-  {{ partial "image.html" (dict "image" $image "eager" true) }}
-  <div id="search" class="o-stage__search"></div>
-</section>
+<div id="search" class="o-stage__search"></div>

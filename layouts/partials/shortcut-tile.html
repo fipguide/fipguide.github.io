@@ -1,0 +1,9 @@
+{{ if and .page .linktext }}
+  {{ $pageName := .page }}
+  {{ $page := site.GetPage $pageName }}
+  {{ if $page }}
+    <div class="col-12">
+      <a href="{{ $page.RelPermalink }}">{{ .linktext }}</a>
+    </div>
+  {{ end }}
+{{ end }}
