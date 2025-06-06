@@ -6,7 +6,7 @@
         {{ .Content }}
       </div>
       <div class="col-12 col-md-6">
-        {{ $image := resources.Get "images/startpage.webp" }}
+        {{ $image := resources.Get "images/startpage.png" }}
         {{ partial "image.html" (dict "image" $image "eager" true) }}
       </div>
     </div>

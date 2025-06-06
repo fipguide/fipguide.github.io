@@ -65,20 +65,14 @@ main > .o-stage {
 }
 
 //space for fixed header
-main > article.container.o-single,
-main > article.container.o-list {
+main {
   margin-top: 8rem;
 }
 
-main:not(.o-startpage) > .container {
-  margin-top: 4rem;
+.container.o-list {
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
   padding: 2rem;
-
-  @media (max-width: #{$breakpoint-sm}) {
-    margin-top: 1.6rem;
-  }
 }
 
 main > .container:is(.o-single--with-sidemenu) {
@@ -98,7 +92,7 @@ main > .container:is(.o-single--with-sidemenu) {
 img {
   width: 100%;
   height: auto;
-  border-radius: var(--border-radius-m);
+  border-radius: var(--border-radius-l);
 }
 
 .o-list__picture {
