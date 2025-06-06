@@ -7,8 +7,7 @@
       <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
         <div class="o-list__picture">
           {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-          {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
-          {{ partialCached "image.html" $image $image }}
+          {{ partial "flag" $object }}
         </div>
         <div>
           {{ .Title }}

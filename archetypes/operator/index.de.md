@@ -6,6 +6,7 @@ country:
   - 'country1'
   - 'country2'
   - 'country3'
+operator: '{{ .File.ContentBaseName }}'
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
