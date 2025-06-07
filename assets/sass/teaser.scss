@@ -1,6 +1,9 @@
 .m-teaser {
     text-decoration: none;
     color: var(--link-special);
+    background-color: var(--color-onDark);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius-l);
 
     &:nth-child(-n+3) {
         @media (max-width: #{$breakpoint-lg}) {
@@ -16,14 +19,15 @@
     @media (max-width: #{$breakpoint-md}) {
         flex-flow: wrap;
     }
-
-    &:last-of-type {
-        margin-bottom: 0;
-    }
 }
 
 .m-teaser img {
     aspect-ratio: 16/9;
+    border-radius: var(--border-radius-l) 0 0 var(--border-radius-l);
+
+    @media (max-width: #{$breakpoint-md}) {
+        border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+    }
 }
 
 .m-teaser__dateline {

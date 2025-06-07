@@ -3,7 +3,7 @@
   {{ $page := site.GetPage $pageName }}
   {{ if $page }}
     <div class="col-12">
-      <a href="{{ $page.RelPermalink }}">{{ .linktext }}</a>
+      <a href="{{ $page.RelPermalink }}" class="m-teaser">{{ .linktext }}</a>
     </div>
   {{ end }}
 {{ end }}
