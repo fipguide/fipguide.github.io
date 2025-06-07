@@ -41,3 +41,5 @@ booking:
     second: 2nd Class
   reservation: Reservation
   fip-50: FIP 50 Tickets
+  fip-global-fare: FIP Global Fare
+  visit-website: To Website

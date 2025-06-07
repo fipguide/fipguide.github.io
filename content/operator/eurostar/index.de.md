@@ -89,29 +89,15 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-- E-Mail an International Rail Ltd: \
-  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
-  Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben. \
-  Erforderliche Angaben:
-  - Reisetag und Zeit
-  - Abfahrts- und Zielbahnhof
-  - Anzahl der Fahrgäste
-  - Reiseklasse (analog Berechtigung des FIP-Ausweises)
-  - Foto des FIP Ausweises aller reisender Personen
-
-  **FIP Globalpreis:** ✅
+{{% booking booking="uk_mail" %}}
 
 ### Telefon
-- [Eurostar](https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen): \
-  [+49 (0)30 7007 0000](tel:+493070070000) \
-  Buchung auf Deutsch und Englisch möglich. Ein Buchstabieralphabet hilft bei der Angabe von Namen und Adressen. Die Bezahlung ist nur per Kreditkarte möglich. \
-  **FIP Globalpreis:** ✅
+
+{{% booking booking="eurostar_phone" %}}
 
 ### Vor Ort
 
-- CFL/SNCB/NS: \
-  Am Schalter können Onlinetickets verkauft werden. Dafür muss der FIP Ausweis aller reisender Personen vorgezeigt werden. Bei der NS ist die Buchung nur in [internationalen Ticketschalter](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops) möglich. \
-  **FIP Globalpreis:** ✅
+{{% booking booking="ns_ticket_office" fip_50="nil" fip_global_fare=true info="Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden" %}}
 
 ### Im Zug
 

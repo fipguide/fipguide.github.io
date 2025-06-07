@@ -87,34 +87,15 @@ Online booking of tickets is currently not possible. \
 However, checking in, rebooking, canceling, and upgrading tickets is possible via the [Eurostar website](https://www.eurostar.com/).
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
-
-- Email to International Rail Ltd: \
-  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
-  Booking is only available in English. A booking fee of £10 is charged per booking. \
-  Required information:
-  - Travel date and time
-  - Departure and destination stations
-  - Number of passengers
-  - Travel class (based on the eligibility of the FIP card)
-  - Photo of the FIP card for all traveling persons
-
-  **Global Fare:** ✅
+{{% booking booking="uk_mail" %}}
 
 ### Phone
-- [Eurostar](https://www.eurostar.com/rw-en/contact-us/eurostar-contact-details): \
-  UK: [+44 (0)3432 186 186](tel:+443432186186) \
-  France: [+33 (0)1 70 70 60 88](tel:+33170706088) \
-  Belgium: [+32 (0)2 400 67 76](tel:+3224006776) \
-  Netherlands: [+31 (0)20 532 32 32](tel:+31205323232) \
-  Germany: [+49 (0)30 7007 0000](tel:+493070070000) \
-  A spelling alphabet can assist in providing names and addresses. Payment is only possible by credit card. \
-  **FIP Global Fare:** ✅
 
-### On-Site
+{{% booking booking="eurostar_phone" %}}
 
-- CFL/SNCB/NS: \
-  Online tickets can be sold at the counter. The FIP card for all traveling persons must be presented. At NS, booking is only possible at [international ticket counters](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops). \
-  **FIP Global Fare:** ✅
+### On-site
+
+{{% booking booking="ns_ticket_office" fip_50="nil" fip_global_fare=true info="When booking, the FIP cards of all travelers must be presented" %}}
 
 ### Onboard
 

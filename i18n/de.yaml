@@ -45,3 +45,5 @@ booking:
     second: 2. Klasse
   reservation: Reservierung
   fip-50: FIP 50 Fahrkarten
+  fip-global-fare: FIP Globalpreis
+  visit-website: Zur Website

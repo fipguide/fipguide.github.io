@@ -141,25 +141,22 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 
 ### Online
 
-- Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
+Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
 
 ### Telefonisch
 
-- Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerhalb weniger Tage an einem spanischen Schalter abgeholt werden.
+Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerhalb weniger Tage an einem spanischen Schalter abgeholt werden.
 
 ### Vor Ort
 
-- DB Reisezentrum:
-  In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl.
-  Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \
-  ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
+{{% booking booking="db_ticket_office" info=`In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \ ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)` reservations=nil fip_50=false fip_global_fare=true %}}
 
-- Verkaufsstellen der Renfe in Spanien:
-  In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis sowie Tickets ohne Reservierung (FIP 50) gebucht werden. Für reservierungspflichtige Tickets fällt zusätzlich eine Gebühr von 0,55 € an.
+{{% booking booking="renfe_ticket_office" %}}
+
 
 ### Im Zug
 
-- Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
+Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
 
 ## Ermäßigungen
 

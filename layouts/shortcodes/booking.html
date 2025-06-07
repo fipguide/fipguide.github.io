@@ -1,6 +1,10 @@
-{{ $page := site.GetPage (print "booking/" (.Get 0)) }}
+{{ $page := site.GetPage (print "booking/" (.Get "booking")) }}
 {{ with $page }}
-{{ $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" }}
+{{ $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "mail" "mail" }}
+{{ $fip_50 := ($.Get "fip_50" ) | default .Params.fip_50 | default "nil" }}
+{{ $fip_global_fare := ($.Get "fip_global_fare" ) | default .Params.fip_global_fare | default "nil" }}
+{{ $reservations := ($.Get "reservations" ) | default .Params.reservations | default "nil" }}
+{{ $link := ($.Get "link" ) | default .Params.link | default "nil" }}
 <details class="o-booking">
 <summary>
 <div class="o-booking__header">
@@ -9,12 +13,13 @@
     {{- partial "icon" (index $iconMapping .Params.type) -}}<span>{{ .Title }}</span>
 </div>
 <div class="o-booking__subtitle">
-    {{ ($.Get 1 ) }}
+    {{ ($.Get "subtitle" ) }}
 </div>
 </div>
 <div class="o-booking__meta">
-  {{ T "booking.reservation" }} {{ if .Params.reservations }}✅{{ else }}⛔{{ end }} <br>
-  {{ T "booking.fip-50" }} {{ if .Params.fip_50 }}✅{{ else }}⛔{{ end }}
+{{ if ne $reservations "nil" }}{{ T "booking.reservation" }} {{ if $reservations }}✅{{ else }}⛔{{ end }}{{ end }}
+{{ if ne $fip_50 "nil" }}{{ T "booking.fip-50" }} {{ if $fip_50 }}✅{{ else }}⛔{{ end }}{{ end }}
+{{ if ne $fip_global_fare "nil" }}{{ T "booking.fip-global-fare" }} {{ if $fip_global_fare }}✅{{ else }}⛔{{ end }}{{ end }}
 </div>
 <div class="o-booking__header-last-column">
 <div class="o-booking__classes">
@@ -29,6 +34,12 @@
 </div>
 </summary>
 <div class="o-divider"></div>
+<div>
+    {{ ($.Get "info" ) }}
+</div>
+<a href="{{ $link }}" target="_blank" rel="noopener">
+    {{ T "booking.visit-website" }}
+</a>
 {{ .Content }}
 {{ partial "link"
     (dict
@@ -36,5 +47,7 @@
         "Text" (T "booking.open-in-new")
     )
 }}
+{{ if ne $link "nil" }}
+{{ end }}
 </details>
 {{ end }}

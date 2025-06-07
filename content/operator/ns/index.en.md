@@ -33,9 +33,6 @@ Within the Netherlands, reservations are not required on NS and are often not po
 High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main), but can also be used within the Netherlands between Amsterdam, Utrecht, and Arnhem with FIP Coupons without a supplement. However, a supplement is required with FIP 50 tickets. \
 **Reservation possible:** yes \
 **Reservation required:** no (cross-border during high season: yes) \
-**Reservation cost:** 🟡 \
-5.20 € (2nd class) \
-6.50 € (1st class) \
 **Supplement:** ⚠️ \
 When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons.
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
@@ -80,10 +77,7 @@ With FIP 50 tickets, prices may vary by train category.
 Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops.
 An exception is the IC Amsterdam - Berlin, which is a true cross-border IC with stops only at major hubs. \
 **Reservation possible:** only on the IC Amsterdam - Berlin \
-**Reservation required:** no (cross-border during high season: yes) \
-**Reservation cost:** 🟡 \
-5.20 € (2nd class) \
-6.50 € (1st class)
+**Reservation required:** no (cross-border during high season: yes)
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE)" %}}
@@ -108,30 +102,17 @@ Trains of the Sneltrein / Regional-Express (RE) category, including the connecti
 
 ### Online
 
-- [NS Website](https://www.ns.nl/en): \
-  **Reservation:** ⛔ \
-  **FIP 50 tickets:** ⛔
-- [Deutsche Bahn Website](https://bahn.de/): \
-  **Reservation:** ✅ For cross-border ICE trains \
-  **FIP 50 tickets:** ⛔
-- Deutsche Bahn FIP Booking (FIP DB): \
-  Link in DB Reisemarkt \
-  **Reservation:** ✅ For cross-border ICE trains \
-  **FIP 50 tickets:** ✅ \
-  Cross-border FIP 50 tickets, with ticket portion only for the Dutch section, for Deutsche Bahn employees
-- [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
-  **Reservation:** ✅ For cross-border ICE trains \
-  **FIP 50 tickets:** ✅ \
-  Cross-border FIP 50 tickets for the entire route (not valid in your own country)
+{{% booking booking="db_website" subtitle="For national and cross-border connections" %}}
 
-### On Site
+{{% booking booking="db_website_fip_db" subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Dutch section, for Deutsche Bahn employees" %}}
 
-- NS ticket counters: \
-  FIP 50 tickets can only be purchased at full-service (Light) stations with ticket counters. As of December 2023, these are: Amsterdam Centraal, Amsterdam Sloterdijk, Amsterdam Zuid, Arnhem Centraal, Breda, Den Haag Centraal, Eindhoven Centraal, Enschede, Haarlem, Leeuwarden, Leiden Centraal, Maastricht, Rotterdam Centraal, Schiphol Airport, Utrecht Centraal, Zaandam, Zwolle \
-  **Reservation:** ✅ \
-  **FIP 50 tickets:** ✅
-- Other options: \
-  FIP 50 tickets can also be purchased at CFL, DB, and SNCB travel centers.
+{{% booking booking="db_website_fip_international" subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)" %}}
+
+### On-Site
+
+{{% booking booking="ns_ticket_office" %}}
+
+{{% booking booking="db_ticket_office" %}}
 
 ### On the Train
 

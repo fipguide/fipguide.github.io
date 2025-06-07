@@ -139,25 +139,21 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 
 ### Online
 
-- It is not possible to book reservations, FIP Global Fare or FIP 50 online.
+It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
 ### By telephone
 
-- It is possible to book by telephone with Renfe, but the ticket must be collected from a Spanish counter within a few days.
+It is possible to book by telephone with Renfe, but the ticket must be collected from a Spanish counter within a few days.
 
 ### On-site
 
-- DB Travel Center:
-  Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels.
-  It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee. \
-  ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
+{{% booking booking="db_ticket_office" info=`Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels. It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee. \ ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)` reservations=nil fip_50=false fip_global_fare=true %}}
 
-- Sales points of Renfe in Spain:
-  All tickets subject to reservation and tickets without reservation (FIP 50) can be booked at Renfe points of sale. An additional fee of €0.55 is charged for tickets requiring a reservation.
+{{% booking booking="renfe_ticket_office" %}}
 
 ### On the train
 
-- If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
+If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
 
 ## Discounts
 

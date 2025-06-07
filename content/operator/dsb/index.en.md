@@ -27,32 +27,21 @@ Within Denmark, reservations are possible but not mandatory. For cross-border jo
 **Description:** \
 InterCityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the main routes across the country, connecting cities like Aalborg, Aarhus, and Copenhagen. \
 **Reservation possible:** yes \
-**Reservation mandatory:** no \
-**Reservation cost:** 🟢 \
-30 kr (2nd class) \
-30 kr (1st class)
+**Reservation mandatory:** no
 {{% /expander %}}
 
 {{% expander "InterCity (IC)" category %}}
 **Description:** \
 InterCity trains are similar to ICL trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
 **Reservation possible:** yes \
-**Reservation mandatory:** no \
-**Reservation cost:** 🟢 \
-30 kr (2nd class) \
-30 kr (1st class)
+**Reservation mandatory:** no
 {{% /expander %}}
 
 {{% expander "EuroCity (EC)" category %}}
 **Description:** \
 EuroCity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
 **Reservation possible:** yes \
-**Reservation mandatory:** 🟡 Not in the off-season, yes in the peak season \
-**Reservation cost:** 🟡
-| Route                       | 2nd Class | 1st Class |
-|-----------------------------|-----------|-----------|
-| Within Denmark              | 30 kr    | 30 kr    |
-| Cross-border routes         | 5.20 €   | 6.50 €   |
+**Reservation mandatory:**  Only in the peak season (summer)
 {{% /expander %}}
 
 {{% expander "Regional Train (R) ℹ️" category %}}
@@ -74,19 +63,19 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ### Online
 
-{{% booking "dsb_website" "Only for domestic connections" %}}
+{{% booking booking="dsb_website" subtitle="Only for domestic connections" %}}
 
-{{% booking "db_website" "For national and cross-border connections" %}}
+{{% booking booking="db_website" subtitle="For national and cross-border connections" %}}
 
-{{% booking "db_website_fip_db" "For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees" %}}
+{{% booking booking="db_website_fip_db" subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees" %}}
 
-{{% booking "db_website_fip_international" "For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)" %}}
+{{% booking booking="db_website_fip_international" subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)" %}}
 
 ### On-Site
-{{% booking "dsb_ticket_office" %}}
 
-Other Options: \
-Tickets can also be purchased at other counters abroad, e.g., at DB in Germany.
+{{% booking booking="dsb_ticket_office" %}}
+
+{{% booking booking="db_ticket_office" %}}
 
 ## Discounts
 Children under 5 years travel for free. Children under 16 years receive a 50% discount on the adult fare.[^1]
