@@ -33,9 +33,6 @@ Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gez
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
-**Kosten für Reservierung:** 🟡 \
-5,20 € (2. Klasse) \
-6,50 € (1. Klasse) \
 **Zuschlag**: ⚠️ \
 Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
@@ -80,10 +77,7 @@ Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkatego
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 Eine Ausnahme bildet der IC Amsterdam - Berlin, der grenzüberschreitend ein echter IC mit Halt nur an größeren Knotenpunkten ist. \
 **Reservierung möglich:** nur beim IC Amsterdam - Berlin \
-**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
-**Kosten für Reservierung:** 🟡 \
-5,20 € (2. Klasse) \
-6,50 € (1. Klasse)
+**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE)" %}}
@@ -109,30 +103,17 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Ver
 
 ### Online
 
-- [NS Website](https://www.ns.nl/en): \
-  **Reservierung:** ⛔ \
-  **FIP 50 Fahrkarten:** ⛔
-- [Deutsche Bahn Website](https://bahn.de/): \
-  **Reservierung:** ✅ Für grenzüberschreitende ICE Züge \
-  **FIP 50 Fahrkarten:** ⛔
-- Deutsche Bahn FIP-Buchung (FIP DB): \
-  Link im DB Reisemarkt \
-  **Reservierung:** ✅ Für grenzüberschreitende ICE Züge \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn
-- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
-  **Reservierung:** ✅ Für grenzüberschreitende ICE Züge \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
+{{% booking booking="db_website" subtitle="Für internationale ICE und IC Züge" %}}
+
+{{% booking booking="db_website_fip_db" subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn" %}}
+
+{{% booking booking="db_website_fip_international" subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)" %}}
 
 ### Vor Ort
 
-- Schalter den NS:
-  FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies: Amsterdam Centraal, Amsterdam Sloterdijk, Amsterdam Zuid, Arnhem Centraal, Breda, Den Haag Centraal, Eindhoven Centraal, Enschede, Haarlem, Leeuwarden, Leiden Centraal, Maastricht, Rotterdam Centraal, Schiphol Airport, Utrecht Centraal, Zaandam, Zwolle \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: \
-  FIP 50 Fahrkarten können auch bei der CFL, DB und SNCB in den Reisezentren gekauft werden.
+{{% booking booking="ns_ticket_office" %}}
+
+{{% booking booking="db_ticket_office" %}}
 
 ### Im Zug
 

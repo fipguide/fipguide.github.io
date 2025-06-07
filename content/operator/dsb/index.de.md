@@ -30,32 +30,21 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
 **Beschreibung:** \
 InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteiander. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟢 \
-30 kr (2. Klasse) \
-30 kr (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "InterCity (IC)" category %}}
 **Beschreibung:** \
 InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟢 \
-30 kr (2. Klasse) \
-30 kr (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "EuroCity (EC)" category %}}
 **Beschreibung:** \
 EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** 🟡 In der Nebensaison nicht, in der Hauptsaison ja \
-**Kosten für Reservierung:** 🟡
-| Strecke | 2. Klasse | 1. Klasse |
-|-----------------------------|-----------|-----------|
-| Innerhalb Dänemarks | 30 kr | 30 kr |
-| Grenzüberschreitende Strecken | 5,20 € | 6,50 € |
+**Reservierungspflicht:** Nur in der Hauptsaison (Sommer)
 {{% /expander %}}
 
 {{% expander "Regionalzug (R) ℹ️" category %}}
@@ -77,20 +66,19 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ### Online
 
-{{% booking "dsb_website" "Nur für nationale Verbindungen" %}}
+{{% booking booking="dsb_website" subtitle="Nur für nationale Verbindungen" %}}
 
-{{% booking "db_website" "Für nationale und grenzüberschreitende Verbindungen" %}}
+{{% booking booking="db_website" subtitle="Für nationale und grenzüberschreitende Verbindungen" %}}
 
-{{% booking "db_website_fip_db" "Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für  Mitarbeiter der Deutschen Bahn" %}}
+{{% booking booking="db_website_fip_db" subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für  Mitarbeiter der Deutschen Bahn" %}}
 
-{{% booking "db_website_fip_international" "Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)" %}}
+{{% booking booking="db_website_fip_international" subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)" %}}
 
 ### Vor Ort
 
-{{% booking "dsb_ticket_office" %}}
+{{% booking booking="dsb_ticket_office" %}}
 
-Weitere Möglichkeiten: \
-Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
+{{% booking booking="db_ticket_office" %}}
 
 ## Ermäßigungen
 

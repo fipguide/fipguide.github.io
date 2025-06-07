@@ -34,7 +34,7 @@ Reservierungspflicht für SC- und IC-Züge. Andere ZSSK Züge erfordern nur eine
 Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** 🔴 Ab 7 € \
+**Kosten für Reservierung:** Ab 7 € \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -44,7 +44,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** 🔴 Ab 7 € \
+**Kosten für Reservierung:** Ab 7 € \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -54,10 +54,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die RJ-Züge sind RailJet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. \
 ℹ️ RJ ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse \
-**Kosten für Reservierung:** 🟢 \
-1 € (2. Klasse) \
-2 € (1. Klasse)
+**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse
 {{% /expander %}}
 
 {{% expander "EuroNight (EN) ⚠️" category %}}
@@ -65,7 +62,7 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
  EN sind internationale Nachtzüge, bei denen Reservierungspflicht besteht und die Möglichkeit einen Aufpreis für Liege- oder Schlafwagen zu zahlen. Sonst sind sie ähnlich wie die EC. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ja \
-**Kosten für Reservierung:** 🔴 \
+**Kosten für Reservierung:** \
 Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -74,52 +71,36 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für 
 **Beschreibung:** \
 Eine Art Interregio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den IC. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse \
-**Kosten für Reservierung:** 🟢  \
-1 € (2. Klasse) \
-2 € (1. Klasse)
+**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse
 {{% /expander %}}
 
 {{% expander "Rychlik (R) ⚠️1️⃣" category %}}
 **Beschreibung:** \
 Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, eine Art Regionalexpress mit sehr unterschiedlichem Wagenmaterial. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse \
-**Kosten für Reservierung:** 🟢 \
-1 € (2. Klasse) \
-2 € (1. Klasse)
+**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse
 {{% /expander %}}
 
 {{% expander "Osobní vlak (Os) ⚠️1️⃣" category %}}
 **Beschreibung:** \
 Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Gerade auf Nebenstrecken verkehren sie oft mit veralteten Wagenmaterial. Teilweise werden sie auch als S-Bahnen vermarktet, ohne jedoch wirklich in einem S-Bahn-Takt zu fahren. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse \
-**Kosten für Reservierung:** 🟢 \
-1 € (2. Klasse) \
-2 € (1. Klasse)
+**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-- [Website der ZSSK](https://www.zssk.sk): \
-  **Reservierung:** ✅ \
-  In der Verbindungsauskunft kann mit einem FIP Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Im Kaufprozess als Rabatt "FIP Ticket 50%" auswählen.
-- Weitere Möglichkeiten: \
-  Reservierungen sind auch über die Websites der [CD](https://www.cd.cz), [DB](https://www.bahn.de) und [ÖBB](https://www.oebb.at) möglich. Zu teilweise abweichenden Preisen. Ausgenommen davon sind die IC und SC Züge.
+{{% booking booking="zssk_website" subtitle="Für nationale Verbindungen inkl. IC & SC" %}}
+
+{{% booking booking="db_website" subtitle="Außer IC & SC" %}}
 
 ### Vor Ort
 
-- Schalter der ZSR: \
-  In der Slowakei gibt es ein umfängliches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist. \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: \
-  FIP 50 Fahrkarten und Reservierungen können auch bei der CD, DB und ÖBB in den Reisezentren gekauft werden.
+{{% booking booking="zssk_ticket_office" %}}
+
+{{% booking booking="db_ticket_office" subtitle="Außer IC & SC" %}}
 
 ### Im Zug
 
