@@ -1,27 +1,3 @@
-.o-stage > picture {
-    width: 100%;
-    max-width: 1320px;
-    filter: brightness(60%);
-
-    img {
-        border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
-    }
-}
-
-.o-stage {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.o-stage__searchfield {
-    position: absolute;
-    width: 60%;
-    height: 6rem;
-    background-color: white;
-    border-radius: var(--border-radius-l);
-}
-
 #search {
     width: 100%;
     height: 6rem;
@@ -122,6 +98,7 @@
     opacity: 0;
 }
 
+// TODO: curtain
 .curtain:has(~ .o-stage .o-stage__search:focus-within),
 .curtain:has(~ .o-stage .pagefind-ui__drawer:not(.pagefind-ui__hidden)),
 .curtain:has(~ article .o-aside__mobile-container2.o-aside__mobile-container--open){
