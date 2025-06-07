@@ -10,7 +10,7 @@
                         <a href="{{ .RelPermalink }}" aria-label="{{ print (T "navigate-to-country") " " .LinkTitle }}">
                             {{ partial "icon" "arrow_back" }}
                             {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-                            <span>{{ partial "flag" $object }} {{ .LinkTitle }}</span>
+                            <span class="o-aside__backlink-text">{{ partial "flag" $object }} {{ .LinkTitle }}</span>
                         </a>
                     </li>
                     {{ end }}
