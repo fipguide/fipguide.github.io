@@ -4,6 +4,7 @@ title: "SNCB"
 description: "Find out about the FIP conditions at SNCB."
 country:
   - "belgium"
+operator: "sncb"
 ---
 
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in Belgium.

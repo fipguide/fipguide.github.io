@@ -4,6 +4,7 @@ title: "ZSR / ZSSK"
 description: "Find out about the FIP conditions at ZSR / ZSSK."
 country:
   - "slovakia"
+operator: "zsr"
 ---
 
 The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in Slovakia.

@@ -1,0 +1,2 @@
+{{ $image := resources.Get (printf "images/flags/%s.webp" .) }}
+<img class="a-flag" src="{{ $image.RelPermalink }}" alt="" />

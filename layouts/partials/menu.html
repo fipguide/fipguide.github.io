@@ -2,9 +2,8 @@
 {{ $logo := resources.Get "images/logo.svg" }}
 <div class="container o-header__wrapper">
   <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
-  <a href="/" aria-label="FIP Guide Startseite" class="o-header__logo">
+  <a href="/" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
     <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
-    <h1>FIP Guide</h1>
   </a>
   <div class="o-header__curtain"></div>
   <div class="o-header__nav container">

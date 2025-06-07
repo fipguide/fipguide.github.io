@@ -32,6 +32,8 @@ related:
  indices:
    - name: country
      weight: 100
+   - name: operator
+     weight: 100
 
 markup:
   tableOfContents:

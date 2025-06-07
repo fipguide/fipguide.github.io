@@ -21,15 +21,9 @@
                 {{- end -}}
             </div>
         </div>
-        <div class="o-single__container">
-            <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
-            <ul class="o-list__link-wrapper" aria-labelledby="related">
-                {{ range $related }}
-                    <li class="col-12 col-lg-3 col-sm-6">
-                        {{ partial "operator-list-item" . }}
-                    </li>
-                {{ end }}
-            </ul>
+        <div class="o-single__container o-related__operator-wrapper">
+            {{ $title := print (T "_operator__list_title") " in " .Title}}
+            {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
         </div>
         {{ partial "image" (partial "helper/contentImage" . ) }}
     </div>
