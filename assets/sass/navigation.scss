@@ -54,28 +54,19 @@
 
 .o-header__logo {
   display: flex;
-  margin: .3rem;
+  margin: .6rem;
   position: relative;
   text-decoration: none;
+  border-radius: var(--border-radius-m);
 
-  h1 {
-    margin: 0;
-    font-size: 2.4rem;
-    color: var(--link-special);
-    font-weight: 700;
-    align-self: center;
-    text-wrap-mode: nowrap;
-
-    &:hover,
-    &:focus {
-      color: var(--link-hovered);
-      text-decoration: underline;
-    }
+  &:hover,
+  &:focus {
+    background-color: var(--bg-neutral);
   }
 
   img {
-    width: 5rem;
     height: 4.7rem;
+    padding: 0 .4rem
   }
 }
 
@@ -91,7 +82,7 @@
   left: 50%;
   transform: translateX(-50%);
   padding: 1rem;
-  margin: .3rem;
+  margin: .6rem;
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
@@ -119,7 +110,7 @@
 .o-nav__close-button {
   display: inline-flex;
   padding: 1rem;
-  margin: .3rem;
+  margin: .6rem;
   border: none;
   background: none;
   width: fit-content;

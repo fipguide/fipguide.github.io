@@ -175,7 +175,7 @@ img {
   margin-bottom: 1.6rem;
   align-items: center;
 
-  h2 {
+  h1 {
     margin-bottom: 0;
   }
 }
@@ -184,10 +184,6 @@ img {
   display: flex;
   align-items: center;
   gap: 1.5rem;
-}
-
-.o-single__content-header-title h1 {
-  margin-bottom: 0;
 }
 
 .o-single__content-header-title img {
@@ -203,6 +199,11 @@ img {
 
 .pagefind-highlight {
   padding: 0px;
+}
+
+.sr-only {
+  opacity: 0;
+  position: absolute;
 }
 
 .a-flag {
