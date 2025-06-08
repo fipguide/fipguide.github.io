@@ -45,7 +45,7 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-.details-screen > summary::before {
+.details-screen > .o-expander__summary::before {
   content: "add";
   position: absolute;
   left: 1.2rem;
@@ -53,7 +53,7 @@ details > summary::-webkit-details-marker {
   @extend .material-symbols-rounded
 }
 
-.details-screen[open] > summary::before {
+.details-screen[open] > .o-expander__summary::before {
   content: "remove";
   font-size: 2.4rem;
   @extend .material-symbols-rounded

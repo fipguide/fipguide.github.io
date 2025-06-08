@@ -22,9 +22,15 @@
 }
 
 .o-booking__header-actions {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    @media screen {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    @media print {
+        display: none;
+    }
 }
 
 .o-booking__classes {

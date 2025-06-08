@@ -1,51 +1,17 @@
-{{ $page := site.GetPage (print "booking/" (.Get "id")) }}
-{{ with $page }}
-{{ $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "mail" "mail" }}
-{{ $fip_50 := ($.Get "fip_50" ) | default .Params.fip_50 | default "nil" }}
-{{ $fip_global_fare := ($.Get "fip_global_fare" ) | default .Params.fip_global_fare | default "nil" }}
-{{ $reservations := ($.Get "reservations" ) | default .Params.reservations | default "nil" }}
-{{ $link := ($.Get "link" ) | default .Params.link | default "nil" }}
-<details class="o-booking">
-<summary>
-<div class="o-booking__header">
-<div class="o-booking__header-content">
-<div class="o-booking__title-wrapper">
-<div class="o-booking__title">
-    {{- partial "icon" (index $iconMapping .Params.type) -}}<span>{{ .Title }}</span>
-</div>
-<div class="o-booking__subtitle">
-    {{ ($.Get "subtitle" ) }}
-</div>
-</div>
-<div class="o-booking__meta">
-{{ if ne $reservations "nil" }}<div>{{ T "booking.reservation" }} {{ if $reservations }}✅{{ else }}⛔{{ end }}</div>{{ end }}
-{{ if ne $fip_50 "nil" }}<div>{{ T "booking.fip-50" }} {{ if $fip_50 }}✅{{ else }}⛔{{ end }}</div>{{ end }}
-{{ if ne $fip_global_fare "nil" }}<div>{{ T "booking.fip-global-fare" }} {{ if $fip_global_fare }}✅{{ else }}⛔{{ end }}</div>{{ end }}
-</div>
-<div class="o-booking__classes">
-{{ range $k, $v := .Params.classes }}
-<strong>{{ T (print "booking.classes." $k) }}:</strong> {{ $v }}
-{{ end }}
-</div>
-</div>
-<div class="o-booking__header-actions">
-    {{ partial "icon" "arrow_drop_down" }}
-</div>
-</div>
-</summary>
-<div class="o-divider"></div>
-<div>
-    {{ ($.Get "info" ) }}
-</div>
-<a href="{{ $link }}" target="_blank" rel="noopener">
-    {{ T "booking.visit-website" }}
-</a>
-{{ .Content }}
-{{ partial "link"
-    (dict
-        "Destination" .RelPermalink
-        "Text" (T "booking.open-in-new")
-    )
-}}
+{{- $page := site.GetPage (print "booking/" (.Get "id")) -}}
+{{- $params := dict
+    "page" $page
+    "subtitle" (.Get "subtitle")
+    "fip_50" ((.Get "fip_50" ) | default $page.Params.fip_50 | default "nil")
+    "fip_global_fare" ((.Get "fip_global_fare" ) | default $page.Params.fip_global_fare | default "nil")
+    "reservations" ((.Get "reservations" ) | default $page.Params.reservations | default "nil")
+    "link" ((.Get "link" ) | default $page.Params.link | default "nil")
+-}}
+
+<details class="details-screen">
+{{- partial "booking" $params -}}
 </details>
-{{ end }}
+
+<details open class="details-print">
+{{- partial "booking" $params -}}
+</details>
