@@ -1,10 +1,11 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "mail" "mail" -}}
-<summary>
+<summary class="o-booking__summary">
     <div class="o-booking__header">
         <div class="o-booking__header-content">
             <div class="o-booking__title-wrapper">
                 <div class="o-booking__title">
-                    {{- partial "icon" (index $iconMapping .page.Params.type) -}}<span>{{- .page.Title -}}</span>
+                    {{- partial "icon" (index $iconMapping .page.Params.type) -}}
+                    <span class="o-booking__title-text">{{- .page.Title -}}</span>
                 </div>
                 <div class="o-booking__subtitle">
                     {{- .subtitle -}}

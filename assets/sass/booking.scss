@@ -1,3 +1,12 @@
+.o-booking__summary {
+    &:hover,
+    &:focus {
+        .o-booking__title-text {
+            text-decoration: underline;
+        }
+    }
+}
+
 .o-booking__header-content {
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr;
