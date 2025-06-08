@@ -1,4 +1,4 @@
-{{ $page := site.GetPage (print "booking/" (.Get "booking")) }}
+{{ $page := site.GetPage (print "booking/" (.Get "id")) }}
 {{ with $page }}
 {{ $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "mail" "mail" }}
 {{ $fip_50 := ($.Get "fip_50" ) | default .Params.fip_50 | default "nil" }}

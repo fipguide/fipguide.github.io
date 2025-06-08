@@ -93,15 +93,21 @@ Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Ge
 
 ### Online
 
-{{% booking booking="zssk_website" subtitle="Für nationale Verbindungen inkl. IC & SC" %}}
+{{% booking id="zssk_website"
+    subtitle="Für nationale Verbindungen inkl. IC & SC"
+%}}
 
-{{% booking booking="db_website" subtitle="Außer IC & SC" %}}
+{{% booking id="db_website"
+    subtitle="Außer IC & SC"
+%}}
 
 ### Vor Ort
 
-{{% booking booking="zssk_ticket_office" %}}
+{{% booking id="zssk_ticket_office" %}}
 
-{{% booking booking="db_ticket_office" subtitle="Außer IC & SC" %}}
+{{% booking id="db_ticket_office"
+    subtitle="Außer IC & SC"
+%}}
 
 ### Im Zug
 

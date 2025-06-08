@@ -87,15 +87,20 @@ Online booking of tickets is currently not possible. \
 However, checking in, rebooking, canceling, and upgrading tickets is possible via the [Eurostar website](https://www.eurostar.com/).
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
-{{% booking booking="uk_mail" %}}
+
+{{% booking id="uk_mail" %}}
 
 ### Phone
 
-{{% booking booking="eurostar_phone" %}}
+{{% booking id="eurostar_phone" %}}
 
 ### On-site
 
-{{% booking booking="ns_ticket_office" fip_50="nil" fip_global_fare=true info="When booking, the FIP cards of all travelers must be presented" %}}
+{{% booking id="ns_ticket_office"
+    fip_50="nil"
+    fip_global_fare=true
+    info="When booking, the FIP cards of all travelers must be presented"
+%}}
 
 ### Onboard
 

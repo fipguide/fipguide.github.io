@@ -104,17 +104,23 @@ Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Ver
 
 ### Online
 
-{{% booking booking="db_website" subtitle="Für internationale ICE und IC Züge" %}}
+{{% booking id="db_website"
+    subtitle="Für internationale ICE und IC Züge"
+%}}
 
-{{% booking booking="db_website_fip_db" subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn" %}}
+{{% booking id="db_website_fip_db"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+%}}
 
-{{% booking booking="db_website_fip_international" subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)" %}}
+{{% booking id="db_website_fip_international"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+%}}
 
 ### Vor Ort
 
-{{% booking booking="ns_ticket_office" %}}
+{{% booking id="ns_ticket_office" %}}
 
-{{% booking booking="db_ticket_office" %}}
+{{% booking id="db_ticket_office" %}}
 
 ### Im Zug
 

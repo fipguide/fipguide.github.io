@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "International Rail Ltd. Email Booking"
+title: "International Rail Ltd."
 description: "Booking information for email bookings with International Rail Ltd."
 
 params:

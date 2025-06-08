@@ -63,19 +63,27 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ### Online
 
-{{% booking booking="dsb_website" subtitle="Only for domestic connections" %}}
+{{% booking id="dsb_website"
+    subtitle="Only for domestic connections"
+%}}
 
-{{% booking booking="db_website" subtitle="For national and cross-border connections" %}}
+{{% booking id="db_website"
+    subtitle="For national and cross-border connections"
+%}}
 
-{{% booking booking="db_website_fip_db" subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees" %}}
+{{% booking id="db_website_fip_db"
+    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees"
+%}}
 
-{{% booking booking="db_website_fip_international" subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)" %}}
+{{% booking id="db_website_fip_international"
+    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)"
+%}}
 
 ### On-Site
 
-{{% booking booking="dsb_ticket_office" %}}
+{{% booking id="dsb_ticket_office" %}}
 
-{{% booking booking="db_ticket_office" %}}
+{{% booking id="db_ticket_office" %}}
 
 ## Discounts
 Children under 5 years travel for free. Children under 16 years receive a 50% discount on the adult fare.[^1]
