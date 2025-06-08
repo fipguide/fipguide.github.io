@@ -8,6 +8,7 @@
 <details class="o-booking">
 <summary>
 <div class="o-booking__header">
+<div class="o-booking__header-content">
 <div class="o-booking__title-wrapper">
 <div class="o-booking__title">
     {{- partial "icon" (index $iconMapping .Params.type) -}}<span>{{ .Title }}</span>
@@ -27,9 +28,10 @@
 <strong>{{ T (print "booking.classes." $k) }}:</strong> {{ $v }}
 {{ end }}
 </div>
+</div>
+</div>
 <div class="o-booking__header-actions">
     {{ partial "icon" "arrow_drop_down" }}
-</div>
 </div>
 </div>
 </summary>
