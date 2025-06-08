@@ -1,4 +1,4 @@
-summary {
+.o-expander__summary {
   display: flex;
 
   &:hover,
@@ -20,7 +20,7 @@ details {
   margin-bottom: 1.2rem;
 }
 
-details[open] > summary {
+details[open] > .o-expander__summary {
   margin-bottom: 0.5rem;
 }
 
@@ -29,7 +29,7 @@ details > summary {
 }
 
 .details-screen > div,
-.details-screen > summary {
+.details-screen > .o-expander__summary {
   margin-left: 3.2rem;
 }
 
@@ -59,7 +59,7 @@ details > summary::-webkit-details-marker {
   @extend .material-symbols-rounded
 }
 
-details[open] > summary {
+details[open] > .o-expander__summary {
   font-weight: 700;
 }
 

@@ -18,16 +18,14 @@
 </div>
 </div>
 <div class="o-booking__meta">
-{{ if ne $reservations "nil" }}{{ T "booking.reservation" }} {{ if $reservations }}✅{{ else }}⛔{{ end }}{{ end }}
-{{ if ne $fip_50 "nil" }}{{ T "booking.fip-50" }} {{ if $fip_50 }}✅{{ else }}⛔{{ end }}{{ end }}
-{{ if ne $fip_global_fare "nil" }}{{ T "booking.fip-global-fare" }} {{ if $fip_global_fare }}✅{{ else }}⛔{{ end }}{{ end }}
+{{ if ne $reservations "nil" }}<div>{{ T "booking.reservation" }} {{ if $reservations }}✅{{ else }}⛔{{ end }}</div>{{ end }}
+{{ if ne $fip_50 "nil" }}<div>{{ T "booking.fip-50" }} {{ if $fip_50 }}✅{{ else }}⛔{{ end }}</div>{{ end }}
+{{ if ne $fip_global_fare "nil" }}<div>{{ T "booking.fip-global-fare" }} {{ if $fip_global_fare }}✅{{ else }}⛔{{ end }}</div>{{ end }}
 </div>
-<div class="o-booking__header-last-column">
 <div class="o-booking__classes">
 {{ range $k, $v := .Params.classes }}
 <strong>{{ T (print "booking.classes." $k) }}:</strong> {{ $v }}
 {{ end }}
-</div>
 </div>
 </div>
 <div class="o-booking__header-actions">
