@@ -80,6 +80,10 @@ img {
   }
 }
 
+.o-related__date {
+  margin-left: 2.4rem;
+}
+
 .o-list__link {
   display: flex;
   align-items: center;
@@ -118,11 +122,20 @@ img {
     }
   }
 
+  &__news-image {
+    margin-bottom: 1.6rem;
+
+    @media (min-width: #{$breakpoint-lg}) {
+      display: none;
+    }
+  }
+
   &__content-header {
     display: flex;
     justify-content: space-between;
     flex-flow: wrap;
     column-gap: 2rem;
+    row-gap: 1rem;
     margin-bottom: 1.6rem;
     align-items: center;
 
