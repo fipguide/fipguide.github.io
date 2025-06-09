@@ -2,11 +2,11 @@
 <h1 class="sr-only">{{ T "home-page-text" }}</h1>
 <div class="curtain" aria-hidden="true"></div>
   <section class="container">
-    <div class="row">
-      <div class="col-12 col-md-6">
+    <div class="row o-startpage__intro">
+      <div class="col-12 col-lg-6 order-2 order-lg-1">
         {{ .Content }}
       </div>
-      <div class="col-12 col-md-6">
+      <div class="col-12 col-lg-6 order-1 order-lg-2">
         {{ $image := resources.Get "images/startpage.png" }}
         {{ partial "image.html" (dict "image" $image "eager" true) }}
       </div>

@@ -13,7 +13,7 @@
   display: flex;
   justify-content: space-between;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     justify-content: unset;
   }
 }
@@ -30,7 +30,7 @@
   display: flex;
   justify-content: flex-end;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     display: block;
   }
 }
@@ -39,7 +39,7 @@
   width: 100%;
   display: none;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     display: block;
   }
 }
@@ -47,7 +47,7 @@
 .o-header__nav nav h2 {
   display: block;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     display: none;
   }
 }
@@ -145,7 +145,7 @@
 .o-header__item .o-header__item-countries {
   display: flex;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     display: none;
     z-index: 2;
     position: absolute;
@@ -165,7 +165,7 @@
 .o-nav__menu-button {
   display: flex;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     display: none;
   }
 }
@@ -173,13 +173,13 @@
 .o-header__expand-button {
   display: none;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{$breakpoint-lg}) {
     display: flex;
   }
 }
 
 .o-header__nav--open nav {
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{$breakpoint-lg}) {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
