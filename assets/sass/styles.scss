@@ -178,6 +178,7 @@ img {
 .o-single__content-header-title img {
   max-height: 3.6rem;
   width: auto;
+  border-radius: var(--border-radius-m);
 }
 
 .o-single__container {
@@ -187,7 +188,7 @@ img {
 }
 
 .pagefind-highlight {
-  padding: 0px;
+  padding: 0;
 }
 
 .sr-only {
@@ -208,7 +209,7 @@ img {
   text-wrap: balance;
 
   h2 {
-    font-family: Sansita;
+    font-family: Sansita,Arial,Helvetica,sans-serif;
     font-weight: 800;
     font-size: 6.2rem;
     line-height: 1.1;
