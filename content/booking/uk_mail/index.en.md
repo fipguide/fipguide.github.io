@@ -6,7 +6,7 @@ description: "Booking information for email bookings with International Rail Ltd
 params:
     fip_global_fare: true
     link: "mailto:uktravel@bookmyrst.co.uk"
-    type: "mail"
+    type: "email"
 ---
 
 **FIP Global Fare**

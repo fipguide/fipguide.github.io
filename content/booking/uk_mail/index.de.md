@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Buchung per Mail bei International 
 params:
     fip_global_fare: true
     link: "mailto:uktravel@bookmyrst.co.uk"
-    type: "mail"
+    type: "email"
 ---
 
 **FIP Globalpreis**
