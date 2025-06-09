@@ -10,7 +10,7 @@ Klingerstraße 15\
 The protection of your personal data is a special concern to us. We process your data exclusively on the basis of the legal provisions (GDPR, TKG 2003). In this privacy policy, we inform you about the most important aspects of data processing within the framework of our website.
 
 ## Responsible Party
-The responsible party for data processing is the person Lennart Rommeiß located at Klingerstraße 15, 51143 Köln. You can reach us by email at nextstop@fipguide.org or by mail at the address Klingerstraße 15, 51143 Köln.
+The responsible party for data processing is the person Lennart Rommeiß located at Klingerstraße 15, 51143 Köln. You can reach us by email at [nextstop@fipguide.org](mailto:nextstop@fipguide.org) or by mail at the address Klingerstraße 15, 51143 Köln.
 
 ## Data Security
 We take appropriate precautions to protect your personal data in accordance with Art 32 GDPR. These measures particularly concern protection against unauthorized, unlawful, or accidental access, processing, loss, use, and manipulation.
@@ -52,4 +52,4 @@ Personal data will be transferred or disclosed by us to the following designated
 ## Your Rights
 You have the right to information, correction, deletion, restriction, data portability, revocation, and objection.
 
-If you believe that the processing of your data violates data protection law or your data protection rights have otherwise been violated, you can complain to us at testmail or the data protection authority.
+If you believe that the processing of your data violates data protection law or your data protection rights have otherwise been violated, you can complain to us at [nextstop@fipguide.org](mailto:nextstop@fipguide.org) or the data protection authority.
