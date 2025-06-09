@@ -17,9 +17,9 @@
       </div>
     </div>
     <div class="row">
-      {{ partial "shortcut-tile" (dict "page" "generalinformation" "linktext" "Grundlegende Informationen zu FIP") }}
-      {{ partial "shortcut-tile" (dict "page" "country" "linktext" "Übersicht der Länder") }}
-      {{ partial "shortcut-tile" (dict "page" "operator" "linktext" "Übersicht der Betreiber") }} <!-- vllt einfach die Seitennamen umbenennen? -->
+      {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
+      {{ partial "shortcut-tile" (.Site.GetPage "country") }}
+      {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
     </div>
   </section>
 <section class="container">

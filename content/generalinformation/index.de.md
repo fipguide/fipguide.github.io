@@ -1,5 +1,5 @@
 ---
-title: "Übergreifende Infos"
+title: "Grundlegende Informationen zu FIP"
 description: "Informationen über die allgemeinen Hinweise zu FIP und wie FIP in Anspruch genommen werden kann."
 ---
 
