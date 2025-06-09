@@ -1,0 +1,3 @@
+{{- with .Content -}}
+    {{ . | replaceRE "(<h[2] id=\"([^\"]+)\".+)(</h[2]+>)" (print `<hr class="o-divider" aria-hidden="true"><span class="a-anchorlink">${1}${3}<a href="#${2}" class="a-anchorlink__link" title="` (T "anchorLink.copy") `">` (partial "icon" "link") `</a></span>`) | safeHTML }}
+{{- end -}}
