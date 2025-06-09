@@ -10,7 +10,7 @@ Klingerstraße 15\
 Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 
 ## Verantwortlicher
-Verantwortlicher für die Datenverarbeitung ist die Person Lennart Rommeiß mit Sitz in Klingerstraße 15, 51143 Köln. Sie erreichen uns per Mail unter nextstop@fipguide.org oder postalisch unter der Anschrift Klingerstraße 15, 51143 Köln.
+Verantwortlicher für die Datenverarbeitung ist die Person Lennart Rommeiß mit Sitz in Klingerstraße 15, 51143 Köln. Sie erreichen uns per Mail unter [nextstop@fipguide.org](mailto:nextstop@fipguide.org) oder postalisch unter der Anschrift Klingerstraße 15, 51143 Köln.
 
 ## Datensicherheit
 Wir treffen nach Maß des Art 32 DSGVO entsprechende Vorkehrungen zum Schutz Ihrer personenbezogenen Daten. Diese betreffen insbesondere den Schutz vor unerlaubtem, rechtswidrigem oder auch zufälligem Zugriff, Verarbeitung, Verlust, Verwendung und Manipulation.
@@ -52,4 +52,4 @@ Personenbezogene Daten werden von uns an die nachfolgend bezeichneten Dritten we
 ## Ihre Rechte
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.
 
-Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei uns testmail oder der Datenschutzbehörde beschweren.
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei uns unter [nextstop@fipguide.org](mailto:nextstop@fipguide.org) oder der Datenschutzbehörde beschweren.
