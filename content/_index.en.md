@@ -5,8 +5,6 @@ This project includes information and usage instructions for FIP as well as spec
 
 ## Welcome to the FIP Guide!
 
-The community website for all information about FIP.
-This project includes information and usage instructions for FIP as well as special features of the respective participating railway companies.
+Find relevant information and usage instructions for FIP, as well as specifics about the participating railway companies.
 
-* [Basic information about FIP]({{< ref "generalinformation" >}})
-* [Overview of countries]({{< ref "country" >}})
+**Fast. Clear. Community-based.**
