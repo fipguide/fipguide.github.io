@@ -3,15 +3,15 @@
 
 {{ $dateMachine := $page.Date | time.Format "2006-01-02T15:04:05-07:00" }}
 {{ $dateHuman := $page.Date | time.Format ":date_long" }}
-<div class="{{ if not $listview }}col-lg-4 col-md-6 {{ end }}col-12">
-  <div class="m-teaser {{ if $listview }}m-teaser--listview{{ end }}">
+<div class="m-teaser{{ if $listview }} m-teaser--listview{{ else }} col-lg-4 col-md-6{{ end }} col-12">
+  <div class="m-teaser__wrapper">
     {{ $image := (partial "helper/contentImage" $page ) }}
     {{ if $image }}
-    <div class="m-teaser__image{{ if $listview }} col-md-3 col-12{{ end }}">
+    <div class="m-teaser__image">
       {{ partialCached "image.html" $image $image }}
       {{ end }}
     </div>
-    <div {{ if $listview }}class="col-md-9 col-12"{{ end }}>
+    <div class="m-teaser__content">
       <time class="m-teaser__dateline" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
       <a href="{{ $page.RelPermalink }}">
         <h3 class="m-teaser__headline">{{ $page.Title }}</h3>
