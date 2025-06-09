@@ -14,7 +14,11 @@
     <div class="m-teaser__content">
       <time class="m-teaser__dateline" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
       <a href="{{ $page.RelPermalink }}">
-        <h3 class="m-teaser__headline">{{ $page.Title }}</h3>
+        {{ if $listview }}
+          <h2 class="m-teaser__headline">{{ $page.Title }}</h2>
+        {{ else }}
+          <h3 class="m-teaser__headline">{{ $page.Title }}</h3>
+        {{ end }}
       </a>
 
       <div class="m-teaser__text">

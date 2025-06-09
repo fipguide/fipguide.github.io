@@ -1,5 +1,5 @@
 ---
-title: "General Information about FIP"
+title: "General Information"
 description: "Find out about the general information on FIP and how you can use FIP."
 ---
 

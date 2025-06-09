@@ -8,8 +8,3 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 Finde relevante Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften.
 
 **Schnell. Übersichtlich. Community-basiert.**
-
-
-## Unterstütze uns
-Du möchtest dein Wissen rund um FIP-Regelungen teilen? Schau auf unserem [GitHub Repository](https://github.com/fipguide/fipguide.github.io) vorbei, um Inhalte beizutragen.
-Alternativ kannst du uns auch über das [Kontaktformular]({{< ref "contact" >}}) schreiben.

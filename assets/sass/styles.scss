@@ -204,9 +204,17 @@ img {
   margin-bottom: 3.2rem;
 }
 
-.o-startpage__intro h2 {
-  font-family: Sansita;
-  font-weight: 800;
-  font-size: 6.2rem;
-  line-height: 1.1;
+.o-startpage__intro {
+  text-wrap: balance;
+
+  h2 {
+    font-family: Sansita;
+    font-weight: 800;
+    font-size: 6.2rem;
+    line-height: 1.1;
+  }
+
+  > div {
+    align-content: center;
+  }
 }
