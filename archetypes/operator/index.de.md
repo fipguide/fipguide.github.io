@@ -84,38 +84,35 @@ FIP Globalpreis: <✅/⛔>
 
 ### Online
 
-- [Website des Buchungsanbieters](https://example.com): \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Optionale Buchungshinweise, wie kann man FIP Tickets oder Reservierungen kaufen? -->
-- [Website eines weiteren Buchungsanbieters](https://example.com): \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Optionale Buchungshinweise, wie kann man FIP Tickets oder Reservierungen kaufen? -->
-- Weitere Möglichkeiten:
-  <!-- Sonstige Hinweise und weitere Seiten für die Onlinebuchung/-reservierung. -->
+<!--
+  Bette hier Buchungsplattformen mit Onlinebuchung ein.
+
+  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
+  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
+
+  Mehr Informationen sind im booking archetype zu finden.
+-->
+{{% booking id="booking_id"
+    subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
+    info="This is an information text that can contain country specific information and is displayed in the expanded part."
+    reservations=nil
+    fip_50=false
+    fip_global_fare=true
+    classes.first="€20"
+    classes.second="€10"
+%}}
 
 ### Telefon
 
-- Name des Buchungsanbieters: \
-  Telefonnummer: <Telefonnummer einfügen> \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Weitere Hinweise zur Buchung am Telefon> -->
-- Name eines weiteren Betreibers: \
-  Telefonnummer: <Telefonnummer einfügen> \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Weitere Hinweise zur Buchung am Telefon> -->
+<!--
+  Füge hier weitere Buchungsplattformen mit Buchung per Telefon hinzu.
+-->
 
 ### Vor Ort
 
-- Schalter der <Bahngesellschaft>: \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-  <!-- Wo gibt es Ticketschalter allgemein? Wenn möglich, ergänze ein Link zu einer Übersicht. Ergänze zusätzliche Informationen zum Kauf am Schalter. -->
-- Weitere Möglichkeiten:
-  <!-- Können die Tickets auch z.B. an anderen Schaltern im Ausland gekauft werden, wenn ja wo? -->
+<!--
+  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
+-->
 
 ### Im Zug
 
