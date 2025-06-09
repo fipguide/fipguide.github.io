@@ -41,7 +41,13 @@
     text-decoration-line: none;
     display: flex;
     align-items: flex-start;
-    gap: .5rem;
+    gap: .4rem;
+}
+
+.o-aside__backlink-text {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
 }
 
 .toc li {
