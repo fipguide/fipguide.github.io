@@ -1,40 +1,46 @@
-countryselection: Länderauswahl
+_operator__list_title: Betreiber mit FIP
+_operator__nearby: Angrenzende Betreiber
+anchorLink:
+  copied: Link wurde in die Zwischenablage kopiert
+  copy: Link zu diesem Abschnitt kopieren
 country:
-  one: Land
   many: Länder
+  one: Land
   other: Länder
-search-placeholder: Suche
+countryselection: Länderauswahl
+editPage: Seite bearbeiten
 footer-love:
-  text: Made with ♥️ in Frankfurt & Köln
   aria-label: Made with love in Frankfurt & Köln
-menu-open: Menü
-menu-close: Schließen
+  text: Made with ♥️ in Frankfurt & Köln
 general: Übergreifendes
-information-disclaimer-short: Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine rechtliche Verbindung zu FIP oder Bahngesellschaften.
 highlight:
   important: Wichtige Information
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
+home-page-text: FIP Guide Startseite
+information-disclaimer-short: >-
+  Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
+  rechtliche Verbindung zu FIP oder Bahngesellschaften.
+menu-close: Schließen
+menu-open: Menü
+navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
-_operator__list_title: Betreiber mit FIP
-updateDate: Zuletzt aktualisiert
-toc_name: Inhalt
-_operator__nearby: Angrenzende Betreiber
 related:
-  news: Verwandte News
   countries: Verwandte Länder
+  news: Verwandte News
   operators: Verwandte Betreiber
   operators-nearby: Angrenzende Betreiber
-related-news: Verwandte News
 related-countries: Verwandte Länder
+related-news: Verwandte News
 related-operators: Verwandte Betreiber
-editPage: Seite bearbeiten
 reportError: Melde ein Fehler
-anchorLink:
-  copy: Link zu diesem Abschnitt kopieren
-  copied: Link wurde in die Zwischenablage kopiert
+search-placeholder: Suche
 skipToContent: Zum Inhalt springen
-wip: An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein. Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr Information auf GitHub](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
-home-page-text: FIP Guide Startseite
-navigate-to-country: Gehe zu Land
+toc_name: Inhalt
+updateDate: Zuletzt aktualisiert
+wip: >-
+  An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein.
+  Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr
+  Information auf
+  GitHub](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).
