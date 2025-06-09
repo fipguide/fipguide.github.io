@@ -7,6 +7,8 @@
 
 .o-header {
   background-color: var(--bg-default);
+  z-index: 4;
+  position: relative;
 }
 
 .o-header__wrapper {

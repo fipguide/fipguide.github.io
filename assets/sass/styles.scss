@@ -9,11 +9,6 @@ body {
   overflow-x: hidden;
 }
 
-header {
-  z-index: 4;
-  position: relative;
-}
-
 a:not(.m-teaser) {
   color: var(--link-default);
   transition: all 0.3s ease;
@@ -31,31 +26,6 @@ a:not(.m-teaser) {
   svg {
     fill: var(--link-default);
     transition: fill 0.3s ease;
-  }
-}
-
-a:has(i) {
-  display: inline-flex;
-  align-items: center;
-
-  > :first-child {
-    margin-right: .4rem;
-  }
-}
-
-a.m-teaser {
-  .m-teaser__headline {
-    color: var(--link-default);
-    text-decoration: underline;
-    transition: color .3s ease;
-    text-underline-offset: .2rem;
-  }
-
-  &:hover,
-  &:focus {
-    .m-teaser__headline {
-      color: var(--link-hovered);
-    }
   }
 }
 
@@ -94,11 +64,6 @@ img {
   margin-right: 1.2rem;
 }
 
-.o-list__picture--operator {
-  width: auto;
-  margin-left: 1rem;
-}
-
 .o-related__operator-wrapper > .o-related__list {
   display: flex;
   flex-wrap: wrap;
@@ -123,7 +88,7 @@ img {
 
 .container {
   @media (max-width: #{$breakpoint-sm}) {
-    max-width: calc(100% - 3.6rem);
+    max-width: calc(100% - 3.2rem);
   }
 }
 
@@ -137,6 +102,12 @@ img {
     background-color: inherit;
   }
 
+  &__container {
+    background-color: var(--bg-default);
+    padding: 2rem;
+    border-radius: var(--border-radius-l);
+  }
+
   &__content {
     display: flex;
     flex-direction: column;
@@ -147,6 +118,31 @@ img {
     }
   }
 
+  &__content-header {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+    column-gap: 2rem;
+    margin-bottom: 1.6rem;
+    align-items: center;
+
+    h1 {
+      margin-bottom: 0;
+    }
+
+    img {
+      max-height: 3.6rem;
+      width: auto;
+      border-radius: var(--border-radius-m);
+    }
+  }
+
+  &__content-header-title {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
   &__news-image {
     margin-bottom: 1.6rem;
 
@@ -154,37 +150,6 @@ img {
       display: none;
     }
   }
-}
-
-.o-single__content-header {
-  display: flex;
-  justify-content: space-between;
-  flex-flow: wrap;
-  column-gap: 2rem;
-  margin-bottom: 1.6rem;
-  align-items: center;
-
-  h1 {
-    margin-bottom: 0;
-  }
-}
-
-.o-single__content-header-title {
-  display: flex;
-  align-items: center;
-  gap: 1.5rem;
-}
-
-.o-single__content-header-title img {
-  max-height: 3.6rem;
-  width: auto;
-  border-radius: var(--border-radius-m);
-}
-
-.o-single__container {
-  background-color: var(--bg-default);
-  padding: 2rem;
-  border-radius: var(--border-radius-l);
 }
 
 .pagefind-highlight {
