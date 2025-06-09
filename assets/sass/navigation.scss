@@ -56,6 +56,7 @@
   display: flex;
   margin: .6rem;
   position: relative;
+  left: -1.6rem;
   text-decoration: none;
   border-radius: var(--border-radius-m);
 
@@ -66,7 +67,8 @@
 
   img {
     height: 4.7rem;
-    padding: 0 .4rem
+    padding: 0 .4rem;
+    align-self: center;
   }
 }
 
