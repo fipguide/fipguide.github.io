@@ -13,6 +13,8 @@
     .pagefind-ui__search-input {
         z-index: 3;
         outline: .2rem solid transparent;
+        border: 0;
+        box-shadow: var(--box-shadow);
 
         &:focus {
             outline: .2rem solid orange;
