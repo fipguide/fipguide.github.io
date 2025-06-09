@@ -2,8 +2,11 @@
   {{ $pageName := .page }}
   {{ $page := site.GetPage $pageName }}
   {{ if $page }}
-    <div class="col-12">
-      <a href="{{ $page.RelPermalink }}" class="m-teaser">{{ .linktext }}</a>
+    <div class="m-teaser m-teaser--shortcut-tile col-6 col-sm-4 col-lg-3 col-xl-2">
+      <a href="{{ $page.RelPermalink }}" class="m-teaser__wrapper">
+        <h3>{{ .linktext }}</h3>
+        {{- partial "icon" "arrow_forward" -}}
+      </a>
     </div>
   {{ end }}
 {{ end }}
