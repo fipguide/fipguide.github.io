@@ -29,6 +29,7 @@ FIP 50 Tickets can be purchased for the following countries:
 - Netherlands
 - Belgium
 - France
+{.o-list--columns-3}
 
 **Reservations**
 

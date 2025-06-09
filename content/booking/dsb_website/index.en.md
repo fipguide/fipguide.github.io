@@ -27,3 +27,4 @@ Foreign reservations can be purchased via [DSB Travel B-Europe](https://travel.b
 - Germany
 - Luxembourg
 - Netherlands
+{.o-list--columns-2}

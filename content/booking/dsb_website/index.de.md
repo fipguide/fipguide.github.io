@@ -27,3 +27,4 @@ Ausländische Reservierungen können [DSB Travel B-Europe](https://travel.b-euro
 - Niederlande
 - Österreich
 - Tschechien
+{.o-list--columns-2}

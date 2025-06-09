@@ -29,6 +29,7 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Niederlande
 - Belgien
 - Frankreich
+{.o-list--columns-3}
 
 **Reservierungen**
 

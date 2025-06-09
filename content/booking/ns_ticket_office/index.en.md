@@ -31,6 +31,7 @@ FIP 50 tickets can only be purchased at full-service (light) stations with ticke
 - Utrecht Centraal
 - Zaandam
 - Zwolle
+{.o-list--columns-3}
 
 **Reservations**
 

@@ -32,6 +32,7 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 - Polen
 - Schweiz
 - Tschechien
+{.o-list--columns-3}
 
 **Reservierungen**
 

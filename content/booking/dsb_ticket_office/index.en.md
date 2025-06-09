@@ -36,3 +36,4 @@ International reservations can be issued at the international ticket counters at
 - Norway
 - Sweden
 - Switzerland
+{.o-list--columns-3}

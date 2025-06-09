@@ -132,10 +132,20 @@ img {
   margin-bottom: 1rem;
 }
 
-.container {
-  @media (max-width: #{$breakpoint-sm}) {
-    max-width: calc(100% - 3.6rem);
+@mixin add-list-columns($columns) {
+  &--columns-#{$columns} {
+    columns: $columns;
+
+    @media (max-width: #{$breakpoint-md}) {
+      columns: 1;
+    }
   }
+}
+
+.o-list{
+  @include add-list-columns(1);
+  @include add-list-columns(2);
+  @include add-list-columns(3);
 }
 
 .o-single {
