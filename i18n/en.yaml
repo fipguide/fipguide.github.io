@@ -35,6 +35,7 @@ wip: This page is still under construction and content may be incomplete. We wou
 home-page-text: FIP Guide Home Page
 navigate-to-country: Navigate to country
 booking:
+  title: Booking platforms
   open-in-new: Open booking information in a new tab
   classes:
     first: 1st Class
