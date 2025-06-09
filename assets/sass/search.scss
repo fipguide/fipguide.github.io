@@ -39,6 +39,10 @@
         display: none;
     }
 
+    .pagefind-ui__form::before {
+        z-index: 4;
+    }
+
     .pagefind-ui__drawer {
         background-color: white;
         padding: 0 1rem 1rem 1rem;
@@ -52,6 +56,7 @@
         border-bottom: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
         border-bottom-left-radius: var(--pagefind-ui-border-radius);
         border-bottom-right-radius: var(--pagefind-ui-border-radius);
+        z-index: 3;
     }
 
     .pagefind-ui__result-link {
@@ -100,11 +105,11 @@
     opacity: 0;
 }
 
-// TODO: curtain
-.curtain:has(~ .o-stage .o-stage__search:focus-within),
-.curtain:has(~ .o-stage .pagefind-ui__drawer:not(.pagefind-ui__hidden)),
-.curtain:has(~ article .o-aside__mobile-container2.o-aside__mobile-container--open){
-    opacity: 1;
-    inset: 0;
-    position: fixed;
+main:has(#search:focus-within),
+main:has(.pagefind-ui__drawer:not(.pagefind-ui__hidden))  {
+    .curtain {
+        opacity: 1;
+        inset: 0;
+        position: fixed;
+    }
 }
