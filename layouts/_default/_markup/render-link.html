@@ -2,5 +2,5 @@
 {{- if strings.HasPrefix $url "http" -}}
 {{ partial "link" . }}
 {{- else -}}
-<a href="{{ $url }}">{{ .Text }}</a>
+<a href="{{ $url | safeURL }}">{{ .Text }}</a>
 {{- end -}}
