@@ -13,6 +13,7 @@ params:
     type: "website"
 ---
 
+{{% booking-section "reservations" %}}
 **Reservations**
 
 The reservation price is charged per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
@@ -28,3 +29,4 @@ Foreign reservations can be purchased via [DSB Travel B-Europe](https://travel.b
 - Luxembourg
 - Netherlands
 {.o-list--columns-2}
+{{% /booking-section %}}

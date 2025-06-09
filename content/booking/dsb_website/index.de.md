@@ -13,6 +13,7 @@ params:
     type: "website"
 ---
 
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
@@ -28,3 +29,4 @@ Ausländische Reservierungen können [DSB Travel B-Europe](https://travel.b-euro
 - Österreich
 - Tschechien
 {.o-list--columns-2}
+{{% /booking-section %}}

@@ -86,3 +86,16 @@
         align-items: start;
     }
 }
+
+
+@mixin booking_section($name) {
+  &-#{$name}--hidden &-#{$name} {
+    display: none;
+  }
+}
+
+.o-booking__section {
+    @include booking_section("fip_50");
+    @include booking_section("fip_global_fare");
+    @include booking_section("reservations");
+}

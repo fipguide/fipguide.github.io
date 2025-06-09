@@ -13,6 +13,7 @@ params:
     type: "website"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
 Über die Deutschen Bahn können Online FIP 50 Fahrkarten für Fahrten in Deutschland und angrenzenden Ländern gebucht werden. Die Tickets müssen mindestens einen Teilabschnitt in Deutschland haben. Die FIP 50 Fahrkarte wird für die komplette Strecke ausgestellt. Das Ticket hat keine Gültigkeit im Ausstellungsland des FIP Ausweises. Dort ist ein zusätzliches Ticket erforderlich.
@@ -33,7 +34,9 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 - Schweiz
 - Tschechien
 {.o-list--columns-3}
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
@@ -43,3 +46,4 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 [Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
 
 ![DB Reservierung buchen](db_reservation.webp)
+{{% /booking-section %}}

@@ -7,20 +7,34 @@ params:
         # Make sure that each class exists under `booking.classes` in i18n.
         first: "X.XX€"
         second: "X.XX€"
-    fip_50: true # Define if FIP 50 Tickets can be booked with this booking platform
-    reservations: true # Define if Reservations can be booked with this booking platform
+    fip_50: true # Define if FIP 50 tickets can be booked with this booking platform
+    fip_global_fare: true # Define if FIP global fare tickets can be booked with this booking platform
+    reservations: true # Define if reservations can be booked with this booking platform
     link: "https://example.com" # Add a link to the booking platform
     type: "onsite" # Accepted types are: website, onsite, phone and email
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
 <!--
-    Explain the steps for booking FIP 50 Tickets with this booking platform.
+    Explain the steps for booking FIP 50 tickets with this booking platform.
 -->
+{{% /booking-section %}}
 
+{{% booking-section "fip_global_fare" %}}
+**FIP Global Fare**
+
+<!--
+    Explain the steps for booking FIP global fares with this booking platform.
+-->
+{{% /booking-section %}}
+
+
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 <!--
     Explain the steps for booking reservations with this booking platform.
 -->
+{{% /booking-section %}}

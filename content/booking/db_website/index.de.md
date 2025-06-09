@@ -12,6 +12,7 @@ params:
   type: "website"
 ---
 
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
@@ -21,3 +22,4 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 [Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
 
 ![DB Reservierung buchen](db_reservation.webp)
+{{% /booking-section %}}

@@ -10,10 +10,14 @@ params:
     type: "onsite"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
 FIP 50 Fahrkarten für nationale und grenzüberschreitende Fahrten können am SNCB Ticketschalter erworben werden.
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 Da in Belgien keine Reservierungen für Züge erwerbbar sind verkauft die SNCB nur internationale Reservierungen z.B. für den ICE Brüssel - Frankfurt.
+{{% /booking-section %}}

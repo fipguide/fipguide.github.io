@@ -12,6 +12,7 @@ params:
     type: "website"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
 Deutsche Bahn employees can purchase FIP 50 Tickets online for journeys from Germany to neighboring countries. These tickets are available in the DB Travel Market under Rail Offers > Abroad > FIP Offer. The FIP 50 ticket is only valid for the foreign section of the route. This is especially important for DB employees, as FIP 50 Tickets are not valid in your own home country. Therefore, an additional ticket is required for the domestic section within Germany up to the border point.
@@ -30,7 +31,9 @@ FIP 50 Tickets can be purchased for the following countries:
 - Belgium
 - France
 {.o-list--columns-3}
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservations**
 
 The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
@@ -40,3 +43,4 @@ Seat reservations can be purchased via the Deutsche Bahn website. To do so, sele
 [More information](https://int.bahn.de/en/offers/additional-services/seat-reservation)
 
 ![Book DB reservation](db_reservation.webp)
+{{% /booking-section %}}

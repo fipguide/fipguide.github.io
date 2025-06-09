@@ -12,6 +12,7 @@ params:
     type: "website"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
 Mitarbeiterinnen und Mitarbeiter der Deutschen Bahn können Online FIP 50 Fahrkarten für Fahrten von Deutschland in Nachbarländer erwerben. Diese sind im DB Reisemarkt > Bahnangebote > Ausland > FIP-Angebot zu finden. Die FIP 50 Fahrkarte wird nur für den ausländischen Streckenabschnitt ausgestellt. Dies ist insbesonders für DB Mitarbeiterinnen und Mitarbeiter wichtig, da im eigenen Heimatland keine FIP 50 Fahrkarten gültig sind. Es ist also eine zusätzliche Fahrkarte für den innerdeutschen Streckenabschnitt bis zum Grenzpunkt erforderlich.
@@ -30,7 +31,9 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Belgien
 - Frankreich
 {.o-list--columns-3}
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
@@ -40,3 +43,4 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 [Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
 
 ![DB Reservierung buchen](db_reservation.webp)
+{{% /booking-section %}}

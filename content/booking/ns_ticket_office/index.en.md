@@ -10,6 +10,7 @@ params:
     type: "onsite"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
 FIP 50 tickets can only be purchased at full-service (light) stations with ticket counters. As of December 2023, these are:
@@ -32,7 +33,10 @@ FIP 50 tickets can only be purchased at full-service (light) stations with ticke
 - Zaandam
 - Zwolle
 {.o-list--columns-3}
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservations**
 
 Since reservations for trains cannot be purchased within the Netherlands, NS only sells international reservations at full-service (light) stations.
+{{% /booking-section %}}

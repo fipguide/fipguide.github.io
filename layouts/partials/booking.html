@@ -34,7 +34,20 @@
 <a href="{{- .link -}}" target="_blank" rel="noopener">
     {{- T "booking.visit-website" -}}
 </a>
-{{- .page.Content -}}
+{{- $contentClasses := slice -}}
+{{- if eq .fip_50 false }}
+  {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
+{{- end -}}
+{{- if eq .fip_global_fare false }}
+  {{- $contentClasses = $contentClasses | append "o-booking__section-fip_global_fare--hidden" -}}
+{{- end -}}
+{{- if eq .reservations false }}
+  {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
+{{- end -}}
+<div class="{{ delimit $contentClasses " " }}">
+    {{- .page.Content -}}
+</div>
+
 {{- partial "link"
     (dict
         "Destination" .page.RelPermalink

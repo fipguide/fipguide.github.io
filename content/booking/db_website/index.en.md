@@ -12,6 +12,7 @@ params:
   type: "website"
 ---
 
+{{% booking-section "reservations" %}}
 **Reservations**
 
 The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
@@ -21,3 +22,4 @@ Seat reservations can be purchased via the Deutsche Bahn website. To do so, sele
 [More information](https://int.bahn.de/en/offers/additional-services/seat-reservation)
 
 ![Book DB reservation](db_reservation.webp)
+{{% /booking-section %}}

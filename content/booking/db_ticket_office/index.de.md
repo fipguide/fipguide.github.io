@@ -13,14 +13,18 @@ params:
     type: "onsite"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
 In DB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb Deutschlands und in vielen europäischen Ländern erworben werden.
 
 Außerdem können FIP 50 Fahrkarten ausgestellt werden, bei dem nur der Streckenabschnitt außerhalb von Deutschland berechnet wird und eine zusätzliche Fahrkarte für den Deutschen Abschnitt erforderlich ist. Dies ist insbesonders für DB Mitarbeiterinnen und Mitarbeiter wichtig, da im eigenen Heimatland keine FIP 50 Fahrkarten gültig sind.
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservierungen**
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
 
 Reservierungen können für Deutschland, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
+{{% /booking-section %}}

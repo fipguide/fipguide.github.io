@@ -13,6 +13,7 @@ params:
     type: "website"
 ---
 
+{{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
 Online FIP 50 Tickets for journeys within Germany and neighboring countries can be booked via Deutsche Bahn. The tickets must include at least one section within Germany. The FIP 50 ticket is issued for the entire route. The ticket is not valid in the country where the FIP ID was issued; an additional ticket is required there.
@@ -33,7 +34,9 @@ FIP 50 Tickets can be purchased for the following countries, as long as a sectio
 - Poland
 - Switzerland
 {.o-list--columns-3}
+{{% /booking-section %}}
 
+{{% booking-section "reservations" %}}
 **Reservations**
 
 The reservation price is charged per journey. For connections with transfers, you only pay once for multiple trains.
@@ -43,3 +46,4 @@ Seat reservations can be purchased via the Deutsche Bahn website. To do so, sele
 [More information](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung)
 
 ![Book DB reservation](db_reservation.webp)
+{{% /booking-section %}}
