@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die NS Ticketschalter."
 params:
     fip_50: true
     reservations: true
-    link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
+    additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
     type: "onsite"
 ---
 

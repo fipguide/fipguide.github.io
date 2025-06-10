@@ -9,7 +9,7 @@ params:
         second: "30 kr"
     fip_50: false
     reservations: true
-    link: "https://www.dsb.dk/en/"
+    booking_link: "https://www.dsb.dk/en/"
     type: "website"
 ---
 

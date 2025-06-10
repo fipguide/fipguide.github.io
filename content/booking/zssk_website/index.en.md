@@ -9,7 +9,7 @@ params:
         second: "€1"
     fip_50: true
     reservations: true
-    link: "https://www.zssk.sk/en/"
+    booking_link: "https://www.zssk.sk/en/"
     type: "website"
 ---
 

@@ -150,14 +150,16 @@ Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerha
 ### Vor Ort
 
 {{% booking id="db_ticket_office"
-    info=`In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \ ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)`
-    reservations=nil
-    fip_50=false
     fip_global_fare=true
+    reservations="nil"
 %}}
+**FIP Globalpreis**
 
-{{% booking id="renfe_ticket_office" %}}
+In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
+![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
+{{% /booking %}}
 
+{{% booking id="renfe_ticket_office" /%}}
 
 ### Im Zug
 

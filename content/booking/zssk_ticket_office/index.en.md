@@ -9,7 +9,7 @@ params:
         second: "1€"
     fip_50: true
     reservations: true
-    link: "https://www.zssk.sk/en/sales-points-and-reservations/"
+    additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
     type: "onsite"
 ---
 

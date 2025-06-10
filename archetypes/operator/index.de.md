@@ -93,14 +93,15 @@ FIP Globalpreis: <✅/⛔>
   Mehr Informationen sind im booking archetype zu finden.
 -->
 {{% booking id="booking_id"
-    subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
-    info="This is an information text that can contain country specific information and is displayed in the expanded part."
+    subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
     reservations=nil
     fip_50=false
     fip_global_fare=true
     classes.first="€20"
     classes.second="€10"
 %}}
+<!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
+{{% /booking %}}
 
 ### Telefon
 

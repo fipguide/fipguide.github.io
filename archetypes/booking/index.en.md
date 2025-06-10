@@ -10,7 +10,8 @@ params:
     fip_50: true # Define if FIP 50 tickets can be booked with this booking platform
     fip_global_fare: true # Define if FIP global fare tickets can be booked with this booking platform
     reservations: true # Define if reservations can be booked with this booking platform
-    link: "https://example.com" # Add a link to the booking platform
+    booking_link: "https://example.com" # Add a link to the booking platform
+    additional_info_link: "https://example.com/additional-info" # Add a link with additional information
     type: "onsite" # Accepted types are: website, onsite, phone and email
 ---
 

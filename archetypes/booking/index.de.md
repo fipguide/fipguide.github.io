@@ -10,7 +10,8 @@ params:
     fip_50: true # Definiere, ob FIP 50 Tickets bei dem Buchungsanbieter gebucht werden können.
     fip_global_fare: true # Definiere, ob FIP Globalpreise bei dem Buchungsanbieter gebucht werden können.
     reservations: true # Definiere, ob Reservierungen bei dem Buchungsanbieter gebucht werden können.
-    link: "https://example.com" # Füge ein Link zur Buchungsplattform hinzu
+    booking_link: "https://example.com" # Füge ein Link zur Buchungsplattform hinzu
+    additional_info_link: "https://example.com/additional-info" # Füge einen Link zu zusätzlichen Informationen hinzu
     type: "onsite" # Akzeptierte Typen sind: website, onsite, phone and email
 ---
 

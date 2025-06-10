@@ -94,13 +94,14 @@ FIP Global Fare: <✅/⛔>
 -->
 {{% booking id="booking_id"
     subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
-    info="This is an information text that can contain country specific information and is displayed in the expanded part."
     reservations=nil
     fip_50=false
     fip_global_fare=true
     classes.first="€20"
     classes.second="€10"
 %}}
+<!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
+{{% /booking %}}
 
 ### Telephone
 

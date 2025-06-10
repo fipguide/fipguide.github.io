@@ -11,7 +11,8 @@ booking:
   open-in-new: Open booking information in a new tab
   reservation: Reservation
   title: Booking platforms
-  visit-website: To Website
+  visit-additional-information-website: Additional Information
+  visit-booking-website: To Booking Website
 country:
   many: countries
   one: country

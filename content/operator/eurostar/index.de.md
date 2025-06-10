@@ -89,19 +89,20 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="uk_mail" %}}
+{{% booking id="uk_mail" /%}}
 
 ### Telefon
 
-{{% booking id="eurostar_phone" %}}
+{{% booking id="eurostar_phone" /%}}
 
 ### Vor Ort
 
 {{% booking id="ns_ticket_office"
     fip_50="nil"
     fip_global_fare=true
-    info="Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden"
 %}}
+Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden
+{{% /booking %}}
 
 ### Im Zug
 

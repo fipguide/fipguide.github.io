@@ -17,8 +17,10 @@
                 {{- if ne .fip_global_fare "nil" -}}<div>{{- T "booking.fip-global-fare" }} {{ if .fip_global_fare -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
             </div>
             <div class="o-booking__classes">
-                {{- range $k, $v := .classes -}}
-                <div><strong>{{- T (print "booking.classes." $k) -}}:</strong> {{ $v -}}</div>
+                {{- if ne .reservations "nil" -}}
+                    {{- range $k, $v := .classes -}}
+                    <div><strong>{{- T (print "booking.classes." $k) -}}:</strong> {{ $v -}}</div>
+                    {{- end -}}
                 {{- end -}}
             </div>
         </div>
@@ -27,30 +29,33 @@
         </div>
     </div>
 </summary>
-<hr class="o-divider">
+<hr class="o-divider" aria-hidden="true">
 <div>
-    {{- .info -}}
+    {{- .info | .original_page.RenderString  -}}
 </div>
-<a href="{{- .link -}}" target="_blank" rel="noopener">
-    {{- T "booking.visit-website" -}}
-</a>
-{{- $contentClasses := slice -}}
-{{- if eq .fip_50 false }}
+{{- $contentClasses := slice "o-single__content" -}}
+{{- if or (eq .fip_50 false) (eq .fip_50 "nil") }}
   {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
 {{- end -}}
-{{- if eq .fip_global_fare false }}
+{{- if or (eq .fip_global_fare false) (eq .fip_global_fare "nil") }}
   {{- $contentClasses = $contentClasses | append "o-booking__section-fip_global_fare--hidden" -}}
 {{- end -}}
-{{- if eq .reservations false }}
+{{- if or (eq .reservations false) (eq .reservations "nil") }}
   {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
 {{- end -}}
 <div class="{{ delimit $contentClasses " " }}">
     {{- .page.Content -}}
 </div>
 
-{{- partial "link"
-    (dict
-        "Destination" .page.RelPermalink
-        "Text" (T "booking.open-in-new")
-    )
--}}
+{{ partial "booking-links" .page }}
+
+<hr class="o-divider" aria-hidden="true">
+
+<div class="o-booking__open-in-new">
+    {{- partial "link"
+        (dict
+            "Destination" .page.RelPermalink
+            "Text" (T "booking.open-in-new")
+        )
+    -}}
+</div>

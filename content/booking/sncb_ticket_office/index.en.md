@@ -6,7 +6,7 @@ description: "Booking information for the SNCB ticket offices."
 params:
     fip_50: true
     reservations: true
-    link: "https://www.belgiantrain.be/en/station-information/nmbs-stations/ticket-offices"
+    additional_info_link: "https://www.belgiantrain.be/en/station-information/nmbs-stations/ticket-offices"
     type: "onsite"
 ---
 

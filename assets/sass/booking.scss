@@ -87,6 +87,16 @@
     }
 }
 
+.o-booking__open-in-new {
+    margin-top: 1rem;
+}
+
+.o-booking__links {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
 
 @mixin booking_section($name) {
   &-#{$name}--hidden &-#{$name} {

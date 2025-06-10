@@ -9,7 +9,7 @@ params:
         second: "€5.20"
     fip_50: true
     reservations: true
-    link: "https://www.bahnhof.de/en/service/travel-centre"
+    additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"
     type: "onsite"
 ---
 

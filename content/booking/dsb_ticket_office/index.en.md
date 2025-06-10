@@ -9,7 +9,7 @@ params:
         second: "30 kr"
     fip_50: true
     reservations: true
-    link: "https://www.dsb.dk/en/train-ticket-to-europe/"
+    additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
     type: "onsite"
 ---
 

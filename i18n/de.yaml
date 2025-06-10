@@ -12,7 +12,8 @@ booking:
   open-in-new: Öffne Buchungsinformationen in neuem Tab
   reservation: Reservierung
   title: Buchungsplattformen
-  visit-website: Zur Website
+  visit-additional-information-website: Weitere Informationen
+  visit-booking-website: Zur Buchungsseite
 country:
   many: Länder
   one: Land

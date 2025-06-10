@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Renfe Ticketschalter."
 params:
     fip_50: true
     fip_global_fare: true
-    link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
+    additional_info_link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
     type: "onsite"
 ---
 

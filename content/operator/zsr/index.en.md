@@ -92,19 +92,19 @@ Standard regional trains that usually stop everywhere (there are exceptions). Es
 
 {{% booking id="zssk_website"
     subtitle="For national connections including IC & SC"
-%}}
+/%}}
 
 {{% booking id="db_website"
     subtitle="Excluding IC & SC"
-%}}
+/%}}
 
 ### On-site
 
-{{% booking id="zssk_ticket_office" %}}
+{{% booking id="zssk_ticket_office" /%}}
 
 {{% booking id="db_ticket_office"
     subtitle="Excluding IC & SC"
-%}}
+/%}}
 
 ### On the train
 
