@@ -3,6 +3,15 @@ draft: false
 title: "Niederlande"
 description: "Informationen über die FIP-Bedingungen für die Niederlande und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "netherlands"
+params:
+  operators_without_fip:
+    - Arriva Nederland
+    - Breng
+    - Connexxion
+    - European Sleeper
+    - Keolis Nederland
+    - Qbuzz
+    - VIAS Rail
 ---
 
 ## FIP Nutzung
@@ -35,16 +44,3 @@ Von Deutschland aus kann der grenzüberschreitende ICE von Frankfurt / Köln / D
 ### Belgien
 
 Von Belgien aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der IC) genutzt werden, dafür wird ein zusätzliches FIP-Ticket der SNCB benötigt. Darüber hinaus verkehren Fernzüge (ECD und EC), bei denen ein zusätzlicher Aufschlag dazukommen kann, wenn hier auf der Achse Rotterdam - Schiphol gefahren wird. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb der Niederlande) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-
-## FIP Bewertung
-
-## Betreiber ohne FIP
-
-- Arriva Nederland
-- Breng
-- Connexxion
-- European Sleeper
-- Keolis Nederland
-- Qbuzz
-- VIAS Rail

@@ -3,6 +3,10 @@ draft: false
 title: "Belgien"
 description: "Informationen über die FIP-Bedingungen für Belgien und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "belgium"
+params:
+  operators_without_fip:
+    - European Sleeper
+    - OuiGo
 ---
 
 ## FIP Nutzung
@@ -43,12 +47,3 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 ### Frankreich
 
 Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP-Ticket für den französischen Abschnitt benötigt. Bei den internationalen TGV-Zügen gibt es einen Globalpreis, FIP Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben. Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP-Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
-
-## FIP Bewertung
-
-Noch ausstehend
-
-## Betreiber ohne FIP
-
-- European Sleeper
-- OuiGo

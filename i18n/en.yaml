@@ -36,6 +36,7 @@ menu-open: Menu
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
+operators_without_fip: Operators without FIP
 related:
   countries: Related Countries
   news: Related News

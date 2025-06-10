@@ -2,6 +2,9 @@
 draft: false
 title: '{{ .File.ContentBaseName | title }}'
 country: '{{ .File.ContentBaseName }}'
+params:
+  operators_without_fip:
+    - # List operators without FIP here
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
@@ -46,13 +49,3 @@ Only border points at the national border with other countries. These should be 
   Which routes can be used from the respective country?
   What tips & recommendations are there for entry from the country
 -->
-
-## FIP Rating
-
-<!--
-    The rating criteria are still under development
--->
-
-## Operators without FIP
-<!-- Replace the general link with a link to the operator -->
-- [Name of the operator](../../operator)
