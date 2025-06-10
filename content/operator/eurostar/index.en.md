@@ -100,7 +100,7 @@ If an email address associated with an existing Eurostar account is provided dur
     fip_50="nil"
     fip_global_fare=true
 %}}
-When booking, the FIP cards of all travelers must be presented
+When booking, the FIP cards of all travelers must be presented.
 {{% /booking %}}
 
 ### Onboard

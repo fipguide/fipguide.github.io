@@ -101,7 +101,7 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
     fip_50="nil"
     fip_global_fare=true
 %}}
-Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden
+Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
 {{% /booking %}}
 
 ### Im Zug

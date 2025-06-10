@@ -109,3 +109,7 @@
     @include booking_section("fip_global_fare");
     @include booking_section("reservations");
 }
+
+.o-booking__info {
+    margin-bottom: 1.5rem;
+}
