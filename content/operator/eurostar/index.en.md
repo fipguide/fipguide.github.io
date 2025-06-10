@@ -97,8 +97,9 @@ If an email address associated with an existing Eurostar account is provided dur
 ### On-site
 
 {{% booking id="ns_ticket_office"
-    fip_50="nil"
+    fip_50=nil
     fip_global_fare=true
+    reservations=nil
 %}}
 When booking, the FIP cards of all travelers must be presented.
 {{% /booking %}}

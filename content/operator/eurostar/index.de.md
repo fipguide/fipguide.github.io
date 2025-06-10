@@ -98,8 +98,9 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 ### Vor Ort
 
 {{% booking id="ns_ticket_office"
-    fip_50="nil"
+    fip_50=nil
     fip_global_fare=true
+    reservations=nil
 %}}
 Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
 {{% /booking %}}
