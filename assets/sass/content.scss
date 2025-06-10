@@ -42,11 +42,6 @@ th, td {
     }
 }
 
-p:has( + ul),
-p:has( + ol) {
-    margin-bottom: 1rem;
-}
-
 p:has( + span) {
     margin-bottom: 0;
 }
