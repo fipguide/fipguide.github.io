@@ -180,7 +180,7 @@ img {
 }
 
 .o-startpage .row {
-  margin-bottom: 3.2rem;
+  margin-bottom: 2.5rem;
 }
 
 .o-startpage__intro {
@@ -208,4 +208,28 @@ img {
   @media (max-width: #{$breakpoint-md}) {
     display: none;
   }
+}
+
+.o-startpage__shortcut-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+
+    @media (max-width: #{$breakpoint-md}) {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+}
+
+.o-startpage__intro {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+
+    @media (max-width: #{$breakpoint-md}) {
+      display: flex;
+      flex-direction: column;
+    }
 }
