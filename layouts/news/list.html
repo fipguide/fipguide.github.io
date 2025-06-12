@@ -1,9 +1,9 @@
 {{ define "main" }}
-  <article class="container o-list o-list--news">
-    <div class="row">
+  <article class="o-container o-list o-list--news">
+    <div>
       <h1 data-pagefind-meta="title">{{ .Title }}</h1>
       {{ .Content }}
-      <div class="row">
+      <div>
         {{ range .Pages }}
           {{ partial "teaser" (dict "listview" "true" "page" .) }}
         {{ end }}
