@@ -11,7 +11,7 @@
             <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <!-- Remove the icons and XML escape the summary -->
-            {{ $cleanedHTML := .Summary | replaceRE `<span[^>]*class="material-symbols-rounded"[^>]*>.*?</span>` "" | transform.XMLEscape | safeHTML}}
+            {{ $cleanedHTML := partial "strip-material-icons" .Summary | transform.XMLEscape | safeHTML}}
             <description>{{ $cleanedHTML }}</description>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             <enclosure url="{{ (partial "helper/contentImage" . ).Permalink }}" />
