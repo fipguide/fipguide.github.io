@@ -20,19 +20,20 @@
 
 .m-teaser--listview .m-teaser__wrapper {
     margin-bottom: 2.4rem;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
 
-    .m-teaser__image {
-        @media (min-width: #{$breakpoint-md}) {
-            max-width: 33%;
-        }
+    @media (max-width: #{$breakpoint-md}) {
+        display: flex;
+        flex-direction: column;
+    }
 
-        img {
-            border-radius: var(--border-radius-l) 0 0 var(--border-radius-l);
+    .m-teaser__image img {
+        border-radius: var(--border-radius-l) 0 0 var(--border-radius-l);
 
-            @media (max-width: #{$breakpoint-md}) {
-                border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-                width: 100%;
-            }
+        @media (max-width: #{$breakpoint-md}) {
+            border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+            width: 100%;
         }
     }
 }
@@ -74,6 +75,8 @@
 .m-teaser__image img {
     aspect-ratio: 16/9;
     border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+    object-fit: cover;
+    height: 100%;
 }
 
 .m-teaser__dateline {
