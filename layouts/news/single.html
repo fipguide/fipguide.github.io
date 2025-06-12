@@ -1,8 +1,8 @@
 {{ define "main" }}
-    <article class="container o-single o-single--with-sidemenu">
+    <article class="o-container o-single o-single--with-sidemenu">
         <aside id="aside" class="o-aside">
             {{ partial "image" (partial "helper/contentImage" . ) }}
-            <div class="o-single__container">
+            <div class="o-single__o-container">
                 <h3 id="o-related__title">{{ T "news-other" }}</h3>
                 <ul class="o-related__list" aria-labelledby="o-related__title">
                     {{ $current := . }}
@@ -31,7 +31,7 @@
                 }}
             </div>
         </aside>
-        <div class="o-single__container content_with_heading" data-pagefind-body>
+        <div class="o-single__o-container content_with_heading" data-pagefind-body>
             <div class="o-single__content-header">
                 <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                 {{ partial "updateDate.html" . }}

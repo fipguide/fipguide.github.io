@@ -1,8 +1,8 @@
 {{ define "main" }}
-    <article class="container o-single o-single--with-sidemenu">
+    <article class="o-container o-single o-single--with-sidemenu">
         {{ partial "sidemenu" . }}
         <div class="o-single__content" data-pagefind-body>
-            <div class="o-single__container content_with_heading">
+            <div class="o-single__o-container content_with_heading">
                 <div class="o-single__content-header">
                     <div class="o-single__content-header-title">
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}

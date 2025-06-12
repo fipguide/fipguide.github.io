@@ -1,10 +1,10 @@
 {{ define "main" }}
 {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
 
-<article class="container o-single o-single--with-sidemenu">
+<article class="o-container o-single o-single--with-sidemenu">
     {{ partial "sidemenu" . }}
     <div class="o-single__content" data-pagefind-body>
-        <div class="o-single__container content_with_heading">
+        <div class="o-single__o-container content_with_heading">
             <div class="o-single__content-header">
                 <div class="o-single__content-header-title">
                     {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
@@ -19,7 +19,7 @@
                 {{ partial "content" . }}
             </div>
         </div>
-        <div class="o-single__container o-related__operator-wrapper">
+        <div class="o-single__o-container o-related__operator-wrapper">
             {{ $title := print (T "_operator__list_title") " in " .Title}}
             {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
             {{ with .Params.operators_without_fip }}
