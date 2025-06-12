@@ -5,8 +5,8 @@ description: "Booking information for FIP tickets for DB employees for neighbori
 
 params:
     classes:
-        first: "6,50€"
-        second: "5,20€"
+        first: "6,90€"
+        second: "5,50"
     fip_50: true
     reservations: true
     additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
@@ -39,7 +39,7 @@ FIP 50 Tickets can be purchased for the following countries:
 
 The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
 
-Seat reservations can be purchased via the Deutsche Bahn website. To do so, select the "Book seat only" option in the search. For families with at least one child between 0 and 14 years old, a discounted family reservation is available for €10.30 (2nd class) or €13.00 (1st class). This reservation is valid for up to 5 people and can be selected by specifying the appropriate number of adults and children during the booking process.
+Seat reservations can be purchased via the Deutsche Bahn website. To do so, select the "Book seat only" option in the search.
 
 ![Book DB reservation](db_reservation.webp)
 {{% /booking-section %}}
