@@ -1,5 +1,5 @@
 ---
-title: "Übersicht der Betreiber mit FIP"
+title: "Übersicht der Betreiber"
 description: "Übersicht über die Betreiber, die FIP-Vergünstigungen anbieten."
 ---
 
