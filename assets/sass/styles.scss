@@ -212,4 +212,16 @@ img {
   > div {
     align-content: center;
   }
+
+  @media (max-width: #{$breakpoint-md}) {
+    h2 {
+      font-size: 4.8rem;
+    }
+  }
+}
+
+.o-startpage__image {
+  @media (max-width: #{$breakpoint-md}) {
+    display: none;
+  }
 }
