@@ -180,11 +180,20 @@ img {
 }
 
 .o-startpage .row {
-  margin-bottom: 3.2rem;
+  margin-bottom: 2.5rem;
 }
 
 .o-startpage__intro {
   text-wrap: balance;
+  margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+
+  @media (max-width: #{$breakpoint-md}) {
+    display: flex;
+    flex-direction: column;
+  }
 
   h2 {
     font-family: Sansita,Arial,Helvetica,sans-serif;
@@ -208,4 +217,23 @@ img {
   @media (max-width: #{$breakpoint-md}) {
     display: none;
   }
+}
+
+.o-startpage__shortcut-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 3fr;
+    gap: 2rem;
+    margin-bottom: 2rem;
+
+    @media (max-width: #{$breakpoint-md}) {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+}
+
+.o-startpage__search {
+  margin-bottom: 2rem;
+  width: 100%;
 }
