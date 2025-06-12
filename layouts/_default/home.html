@@ -1,21 +1,21 @@
 {{ define "main" }}
 <h1 class="sr-only">{{ T "home-page-text" }}</h1>
 <section class="container">
-  <div class="row o-startpage__intro">
-    <div class="col-12 col-lg-6 order-2 order-lg-1">
+  <div class="o-startpage__intro">
+    <div>
       {{ .Content }}
     </div>
-    <div class="col-12 col-lg-6 order-1 order-lg-2">
+    <div class="o-startpage__image">
       {{ $image := resources.Get "images/startpage.png" }}
       {{ partial "image.html" (dict "image" $image "eager" true) }}
     </div>
   </div>
-  <div class="row">
-    <div class="col-12">
-      {{ partial "search-slot" }}
-    </div>
+
+  <div class="o-startpage__search">
+    {{ partial "search-slot" }}
   </div>
-  <div class="row">
+
+  <div class="o-startpage__shortcut-wrapper">
     {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
     {{ partial "shortcut-tile" (.Site.GetPage "country") }}
     {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
@@ -23,17 +23,15 @@
 </section>
 <section class="container">
   <div class="row">
-    <div class="col-12">
-     {{ (site.GetPage "_supportUs").Content }}
-    </div>
+    {{ (site.GetPage "_supportUs").Content }}
   </div>
 </section>
 <section class="container">
-    <div class="row justify-content-center">
-        <h2>{{ T "news-headline"}}</h2>
-        {{ range first 3 (where site.RegularPages "Section" "news") }}
-          {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
-        {{ end }}
+    <h2>{{ T "news-headline"}}</h2>
+    <div class="o-startpage__news-teaser-wrapper">
+      {{ range first 3 (where site.RegularPages "Section" "news") }}
+        {{ partial "teaser" (dict "listview" false "type" "news" "page" .) }}
+      {{ end }}
     </div>
 </section>
 <div class="curtain" aria-hidden="true"></div>

@@ -5,7 +5,7 @@
       {{ .Content }}
       <div class="row">
         {{ range .Pages }}
-          {{ partial "teaser.html" (dict "listview" "true" "page" .) }}
+          {{ partial "teaser" (dict "listview" "true" "page" .) }}
         {{ end }}
       </div>
     </div>
