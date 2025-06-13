@@ -23,7 +23,7 @@ Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská že
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" %}}
+{{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
 | Tschechien (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |

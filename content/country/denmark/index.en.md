@@ -28,7 +28,7 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" %}}
+{{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
 | Germany (DB) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |

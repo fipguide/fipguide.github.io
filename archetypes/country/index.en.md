@@ -38,7 +38,7 @@ params:
 Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
 -->
 
-{{% expander "Border Points" %}}
+{{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
 {{% /expander %}}

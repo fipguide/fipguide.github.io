@@ -27,52 +27,49 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-{{% expander "InterCity Express (ICE)" category %}}
+{{% expander "InterCity Express (ICE)" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟡
-5,20 € (2. Klasse) \
-6,50 € (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "InterCity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Train local oder Lokale trein (L)" category %}}
+{{% expander "Train local oder Lokale trein (L)" traincategory category %}}
 **Beschreibung:** \
 Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Train S oder S-Trein (S)" category %}}
+{{% expander "Train S oder S-Trein (S)" traincategory category %}}
 **Beschreibung:** \
 Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Train d’heure de pointe oder Piekuurtrein (P)" category %}}
+{{% expander "Train d’heure de pointe oder Piekuurtrein (P)" traincategory category %}}
 **Beschreibung:** \
 Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Express (E/EXP/EXTRA)" category %}}
+{{% expander "Express (E/EXP/EXTRA)" traincategory category %}}
 **Beschreibung:** \
 Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Tourist (T)" category %}}
+{{% expander "Tourist (T)" traincategory category %}}
 **Beschreibung:** \
 Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
@@ -83,36 +80,23 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 
 ### Online
 
-- [Website der SNCB für nationale Verbindungen](https://www.belgiantrain.be): \
-  **Reservierung:** ⛔ \
-  **FIP 50 Fahrkarten:** ⛔
-- [Website der SNCB für internationale Verbindungen](https://www.b-europe.com/): \
-  **Reservierung:** ✅ \
-  Für internationale Züge, bei denen eine Reservierung möglich ist, kann diese hier entsprechend ausgewählt werden. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Für grenzüberschreitende Züge aus und nach Belgien können hier Fahrkarten mit FIP 50 Rabatt gekauft werden. Dazu einfach bei den Reisenden die Ermäßigung "50% Ermäßigung Belgien (SNCB)" auswählen. Hier können auch mehrere Ermäßigungen, z. B. ein gleichzeitig noch vorhandener Freifahrtschein für die CFL (Luxemburg) angegeben werden. \
-  **Internationale Fahrkarten mit Freifahrt:** ✅ \
-  Bei Vorhandensein einer Freifahrt für die SNCB kann diese auch für grenzüberschreitende Züge angerechnet werden. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem TGV, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
-- Deutsche Bahn FIP-Buchung (FIP DB):
-  Link im DB Reisemarkt \
-  **Reservierung:** ✅ \
-  Grenzüberschreitende Reservierungen von Deutschland nach Belgien oder umgekehrt \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den belgischen Abschnitt, für Mitarbeiter der Deutschen Bahn
-- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
-  **Reservierung:** ✅ \
-  Grenzüberschreitende Reservierungen von Deutschland nach Belgien oder umgekehrt
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
+{{% booking id="sncb_website" %}}
+Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem TGV, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
+{{% /booking %}}
+
+{{% booking id="db_website_fip_db"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den belgischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+/%}}
+
+{{% booking id="db_website_fip_international"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+/%}}
 
 ### Vor Ort
 
-- Schalter den SNCB: \
-  Die SNCB betreibt Fahrkartenschalter an vielen großen Bahnhöfen (vgl. [belgetrain](https://www.belgiantrain.be/de/station-information)). \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: \
-  FIP 50 Fahrkarten und Reservierungen können auch bei der CFL, DB und NS in den Reisezentren gekauft werden.
+{{% booking id="sncb_ticket_office" /%}}
+
+{{% booking id="db_ticket_office" /%}}
 
 ### Im Zug
 

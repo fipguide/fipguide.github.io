@@ -23,39 +23,28 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 ## Train Categories and Reservations
 Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
 
-{{% expander "InterCityLyn (ICL)" category %}}
+{{% expander "InterCityLyn (ICL)" traincategory category %}}
 **Description:** \
 InterCityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the main routes across the country, connecting cities like Aalborg, Aarhus, and Copenhagen. \
 **Reservation possible:** yes \
-**Reservation mandatory:** no \
-**Reservation cost:** 🟢 \
-30 kr (2nd class) \
-30 kr (1st class)
+**Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "InterCity (IC)" traincategory category %}}
 **Description:** \
 InterCity trains are similar to ICL trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
 **Reservation possible:** yes \
-**Reservation mandatory:** no \
-**Reservation cost:** 🟢 \
-30 kr (2nd class) \
-30 kr (1st class)
+**Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" category %}}
+{{% expander "EuroCity (EC)" traincategory category %}}
 **Description:** \
 EuroCity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
 **Reservation possible:** yes \
-**Reservation mandatory:** 🟡 Not in the off-season, yes in the peak season \
-**Reservation cost:** 🟡
-| Route                       | 2nd Class | 1st Class |
-|-----------------------------|-----------|-----------|
-| Within Denmark              | 30 kr    | 30 kr    |
-| Cross-border routes         | 5.20 €   | 6.50 €   |
+**Reservation mandatory:**  Only in the peak season (summer)
 {{% /expander %}}
 
-{{% expander "Regional Train (R) ℹ️" category %}}
+{{% expander "Regional Train (R) ℹ️" traincategory category %}}
 **Description:** \
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower. \
 ℹ️ Trains from other operators are also displayed as "R," so always check beforehand if the operator is DSB. \
@@ -63,7 +52,7 @@ Regional trains provide local connections between various locations. Outside the
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "S-tog (S)" category %}}
+{{% expander "S-tog (S)" traincategory category %}}
 **Description:** \
 The Copenhagen S-train is also operated by DSB and can therefore be used with FIP tickets. It operates at frequent intervals, stopping at all stations, and is comparable to S-train systems in other countries. \
 **Reservation possible:** no \
@@ -71,33 +60,30 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase
+
 ### Online
-- [DSB Website](https://www.dsb.dk): \
-  **Reservation:** ✅ \
-  Only for domestic connections \
-  **FIP 50 Tickets:** ⛔
-- [Deutsche Bahn Website](https://bahn.de/): \
-  **Reservation:** ✅ \
-  For national and cross-border connections. However, for individual trains, it is more expensive than via DSB. \
-  **FIP 50 Tickets:** ⛔
-- Deutsche Bahn FIP Booking (FIP DB): \
-  Link in DB Reisemarkt \
-  **Reservation:** ✅ \
-  For national and cross-border connections. However, for individual trains, it is more expensive than via DSB. \
-  **FIP 50 Tickets:** ✅ \
-  Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees
-- [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE): \
-  **Reservation:** ✅ \
-  For national and cross-border connections. However, for individual trains, it is more expensive than via DSB. \
-  **FIP 50 Tickets:** ✅ \
-  Cross-border FIP 50 Tickets for the entire route (not valid in the home country)
+
+{{% booking id="dsb_website"
+    subtitle="Only for domestic connections"
+/%}}
+
+{{% booking id="db_website"
+    subtitle="For national and cross-border connections"
+/%}}
+
+{{% booking id="db_website_fip_db"
+    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees"
+/%}}
+
+{{% booking id="db_website_fip_international"
+    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)"
+/%}}
 
 ### On-Site
-- DSB Ticket Counters: \
-  **Reservation:** ✅ \
-  **FIP 50 Tickets:** ✅
-- Other Options: \
-  Tickets can also be purchased at other counters abroad, e.g., at DB in Germany.
+
+{{% booking id="dsb_ticket_office" /%}}
+
+{{% booking id="db_ticket_office" /%}}
 
 ## Discounts
 Children under 5 years travel for free. Children under 16 years receive a 50% discount on the adult fare.[^1]
