@@ -30,7 +30,7 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" %}}
+{{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
 | Deutschland (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |

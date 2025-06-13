@@ -30,7 +30,7 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 ### Long distance
 
-{{% expander "AVE ⚠️" "long-distance" %}}
+{{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Description:** \
 Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -41,7 +41,7 @@ Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons a
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Avlo ⛔⚠️" "long-distance" %}}
+{{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
 **Description:** \
 Low-cost high-speed trains (up to 300 km/h). \
 **Reservation possible:** yes \
@@ -49,7 +49,7 @@ Low-cost high-speed trains (up to 300 km/h). \
 **FIP:** ⛔ FIP is not accepted
 {{% /expander %}}
 
-{{% expander "Euromed ⚠️" "long-distance" %}}
+{{% expander "Euromed ⚠️" traincategory "long-distance" %}}
 **Description:** \
 High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -60,7 +60,7 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Alvia ⚠️" "long-distance" %}}
+{{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Description:** \
 High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -70,7 +70,7 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 - 10 € (Elige Confort)
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" "long-distance" %}}
+{{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Description:** \
 Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -82,7 +82,7 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 
 ### Middle distance
 
-{{% expander "Avant ⚠️" "middle-distance" %}}
+{{% expander "Avant ⚠️" traincategory "middle-distance" %}}
 **Description:** \
 High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -90,7 +90,7 @@ High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted. \
 **FIP Global Fare (regardless of distance):** 4€
 {{% /expander %}}
 
-{{% expander "MD ⚠️" "middle-distance" %}}
+{{% expander "MD ⚠️" traincategory "middle-distance" %}}
 **Description:** \
 Accelerated regional transport. FIP Coupons are only accepted on trains that do not require reservations. Currently, this is only the case on the Barcelona (Girona-Figueres)-Port Bou route. \
 **Reservation possible:** yes \
@@ -100,7 +100,7 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 
 ### Local transportation
 
-{{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
+{{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Description:** \
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
 - Cercanías Asturias
@@ -121,7 +121,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 {{% /expander %}}
 
 ### International
-{{% expander "Celta: Porto - Vigo ⚠️" "international" %}}
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
 **Description:** \
 The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
 **Reservation possible:** yes \

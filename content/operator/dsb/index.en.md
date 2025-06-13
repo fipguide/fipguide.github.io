@@ -23,28 +23,28 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 ## Train Categories and Reservations
 Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
 
-{{% expander "InterCityLyn (ICL)" category %}}
+{{% expander "InterCityLyn (ICL)" traincategory category %}}
 **Description:** \
 InterCityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the main routes across the country, connecting cities like Aalborg, Aarhus, and Copenhagen. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "InterCity (IC)" traincategory category %}}
 **Description:** \
 InterCity trains are similar to ICL trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" category %}}
+{{% expander "EuroCity (EC)" traincategory category %}}
 **Description:** \
 EuroCity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
 **Reservation possible:** yes \
 **Reservation mandatory:**  Only in the peak season (summer)
 {{% /expander %}}
 
-{{% expander "Regional Train (R) ℹ️" category %}}
+{{% expander "Regional Train (R) ℹ️" traincategory category %}}
 **Description:** \
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower. \
 ℹ️ Trains from other operators are also displayed as "R," so always check beforehand if the operator is DSB. \
@@ -52,7 +52,7 @@ Regional trains provide local connections between various locations. Outside the
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "S-tog (S)" category %}}
+{{% expander "S-tog (S)" traincategory category %}}
 **Description:** \
 The Copenhagen S-train is also operated by DSB and can therefore be used with FIP tickets. It operates at frequent intervals, stopping at all stations, and is comparable to S-train systems in other countries. \
 **Reservation possible:** no \

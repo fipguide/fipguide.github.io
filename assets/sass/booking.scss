@@ -1,10 +1,27 @@
 .o-booking__summary {
+    position: relative;
     &:hover,
     &:focus {
         .o-booking__title-text {
             text-decoration: underline;
         }
     }
+}
+
+.details-screen > .o-booking__summary::before {
+  content: "keyboard_arrow_down";
+  position: absolute;
+  right: 0;
+  font-size: 2.4rem;
+  top: calc(50% - 1.2rem);
+  @extend .material-symbols-rounded
+}
+
+.details-screen[open] > .o-booking__summary::before {
+  content: "keyboard_arrow_up";
+  font-size: 2.4rem;
+  top: calc(50% - 1.2rem);
+  @extend .material-symbols-rounded
 }
 
 .o-booking__header-content {
@@ -44,7 +61,7 @@
 
 .o-booking__classes {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     flex-direction: column;
     > p {
@@ -65,8 +82,12 @@
 .o-booking__title {
     display: flex;
     gap: 0.5rem;
-    align-items: center;
+    align-items: flex-start;
     font-weight: 600;
+}
+
+.o-booking__title-text{
+    line-height: 1.1;
 }
 
 .o-booking__subtitle {
@@ -76,19 +97,15 @@
 }
 
 .o-booking__meta{
-    text-align: center;
+    text-align: left;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
 
     @media (max-width: #{$breakpoint-md}) {
         align-items: start;
     }
-}
-
-.o-booking__open-in-new {
-    margin-top: 1rem;
 }
 
 .o-booking__links {

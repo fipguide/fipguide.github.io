@@ -22,7 +22,7 @@ Slovakia has a dense rail network, which mainly consists of two main routes. One
 
 ## Arrival and Border Points
 
-{{% expander "Border points" %}}
+{{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
 | Czechia (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |

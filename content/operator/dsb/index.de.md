@@ -27,28 +27,28 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 
 Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg - Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
-{{% expander "InterCityLyn (ICL)" category %}}
+{{% expander "InterCityLyn (ICL)" traincategory category %}}
 **Beschreibung:** \
 InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteiander. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "InterCity (IC)" traincategory category %}}
 **Beschreibung:** \
 InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" category %}}
+{{% expander "EuroCity (EC)" traincategory category %}}
 **Beschreibung:** \
 EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** Nur in der Hauptsaison (Sommer)
 {{% /expander %}}
 
-{{% expander "Regionalzug (R) ℹ️" category %}}
+{{% expander "Regionalzug (R) ℹ️" traincategory category %}}
 **Beschreibung:** \
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam. \
 ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
@@ -56,7 +56,7 @@ Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie h
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "S-tog (S)" category %}}
+{{% expander "S-tog (S)" traincategory category %}}
 **Beschreibung:** \
 Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch mit FIP-Fahrkarten genutzt werden. Sie verkehrt im dichten Takt mit Halt an allen Stationen und ist mit S-Bahn-Systemen in anderen Ländern gut zu vergleichen. \
 **Reservierung möglich:** nein \

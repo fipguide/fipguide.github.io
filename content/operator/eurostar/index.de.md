@@ -31,7 +31,7 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" category %}}
+{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **Reservierung möglich:** ja \
@@ -44,7 +44,7 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 | Brüssel - Amsterdam / Rotterdam  | ? € / 20,50 £ | ? € / 35,50 £ |
 {{% /expander %}}
 
-{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" category %}}
+{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden \
 **Reservierung möglich:** ja \
@@ -57,7 +57,7 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Fahrt zwischen 3 Ländern | 25 € | 45 € |
 {{% /expander %}}
 
-{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" category %}}
+{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. \
 **Reservierung möglich:** ja \

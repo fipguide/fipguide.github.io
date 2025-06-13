@@ -24,12 +24,9 @@
                 {{- end -}}
             </div>
         </div>
-        <div class="o-booking__header-actions">
-            {{- partial "icon" "arrow_drop_down" -}}
-        </div>
     </div>
 </summary>
-<hr class="o-divider" aria-hidden="true">
+<hr aria-hidden="true">
 {{- if .info -}}
 <div class="o-booking__info">
     {{- .info | .original_page.RenderString  -}}
@@ -50,14 +47,3 @@
 </div>
 
 {{ partial "booking-links" .page }}
-
-<hr class="o-divider" aria-hidden="true">
-
-<div class="o-booking__open-in-new">
-    {{- partial "link"
-        (dict
-            "Destination" .page.RelPermalink
-            "Text" (T "booking.open-in-new")
-        )
-    -}}
-</div>

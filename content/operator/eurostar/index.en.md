@@ -30,7 +30,7 @@ The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. 
 All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" category %}}
+{{% expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" traincategory category %}}
 **Description:** \
 High-speed train between Great Britain and Europe \
 **Reservation possible:** yes \
@@ -43,7 +43,7 @@ High-speed train between Great Britain and Europe \
 | Brussels - Amsterdam / Rotterdam  | ? € / 20.50 £ | ? € / 35.50 £ |
 {{% /expander %}}
 
-{{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" category %}}
+{{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
 **Description:** \
 High-speed train between Belgium, Germany, France, and the Netherlands \
 **Reservation possible:** yes \
@@ -56,7 +56,7 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 | Travel between 3 countries | 25 € | 45 € |
 {{% /expander %}}
 
-{{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" category %}}
+{{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" traincategory category %}}
 **Description:** \
 High-speed train from Amsterdam and Brussels to the French Alps. \
 **Reservation possible:** yes \

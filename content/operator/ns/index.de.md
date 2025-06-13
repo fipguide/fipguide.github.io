@@ -29,7 +29,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Be
 Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden ICE und IC nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gezahlt werden.
 
-{{% expander "InterCity Express (ICE) ⚠️" category %}}
+{{% expander "InterCity Express (ICE) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
@@ -39,7 +39,7 @@ Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 {{% /expander %}}
 
-{{% expander "Eurocity Direct (ECD) ⚠️" %}}
+{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen. \
 [Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/eurocity.html) \
@@ -52,7 +52,7 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
-{{% expander "Eurocity (EC)" %}}
+{{% expander "Eurocity (EC)" traincategory category %}}
 **Beschreibung:** \
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten. \
 [Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/eurocity.html) \
@@ -60,7 +60,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Intercity Direct (ICD) ⚠️" %}}
+{{% expander "Intercity Direct (ICD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda. \
 [Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html) \
@@ -73,7 +73,7 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 Eine Ausnahme bildet der IC Amsterdam - Berlin, der grenzüberschreitend ein echter IC mit Halt nur an größeren Knotenpunkten ist. \
@@ -81,14 +81,14 @@ Eine Ausnahme bildet der IC Amsterdam - Berlin, der grenzüberschreitend ein ech
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
 {{% /expander %}}
 
-{{% expander "Sneltrein (RE)" %}}
+{{% expander "Sneltrein (RE)" traincategory category %}}
 **Beschreibung:** \
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Sprinter" %}}
+{{% expander "Sprinter" traincategory category %}}
 **Beschreibung:** \
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke. \
 **Reservierung möglich:** nein \

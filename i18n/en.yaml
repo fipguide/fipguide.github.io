@@ -8,7 +8,6 @@ booking:
     second: 2nd Class
   fip-50: FIP 50 Tickets
   fip-global-fare: FIP Global Fare
-  open-in-new: Open booking information in a new tab
   reservation: Reservation
   title: Booking platforms
   visit-additional-information-website: Additional Information

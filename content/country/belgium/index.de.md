@@ -23,7 +23,7 @@ Belgien verfügt über ein ausgedehntes und dichtes Bahnnetz. Im Gegensatz zu an
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" %}}
+{{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
 | Luxemburg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |

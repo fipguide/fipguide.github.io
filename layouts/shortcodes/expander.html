@@ -1,6 +1,10 @@
-<details name="{{ (.Get 1) }}" class="details-screen o-expander">
+{{- $param := .Get 1 -}}
+{{ $iconMapping := dict "border" "share_location" "traincategory" "train" }}
+
+<details name="{{ (.Get 2) }}" class="details-screen o-expander">
 <summary class="o-expander__summary">
-    <span>{{ (.Get 0) }}</span>
+    {{- partial "icon" (index $iconMapping $param) -}}
+    <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
 </summary>
 <div>
     {{ .Inner }}
@@ -14,7 +18,7 @@
 -->
 <details open class="details-print o-expander">
 <summary class="o-expander__summary">
-    <span>{{ (.Get 0) }}</span>
+    <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
 </summary>
 <div>
     {{ .Inner }}

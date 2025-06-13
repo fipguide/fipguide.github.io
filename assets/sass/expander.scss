@@ -1,8 +1,11 @@
 .o-expander__summary {
   display: flex;
 
-  &:hover,
-  &:focus {
+  gap: 0.5rem;
+  align-items: center;
+
+  .o-expander__summary-text:hover,
+  .o-expander__summary-text:focus {
     font-weight: 700;
     text-decoration: underline;
   }
@@ -30,7 +33,7 @@ details > summary {
 
 .details-screen.o-expander > div,
 .details-screen > .o-expander__summary {
-  margin-left: 3.2rem;
+  margin-right: 3.2rem;
 }
 
 details > div {
@@ -46,15 +49,15 @@ details > summary::-webkit-details-marker {
 }
 
 .details-screen > .o-expander__summary::before {
-  content: "add";
+  content: "keyboard_arrow_down";
   position: absolute;
-  left: 1.2rem;
+  right: 1.2rem;
   font-size: 2.4rem;
   @extend .material-symbols-rounded
 }
 
 .details-screen[open] > .o-expander__summary::before {
-  content: "remove";
+  content: "keyboard_arrow_up";
   font-size: 2.4rem;
   @extend .material-symbols-rounded
 }

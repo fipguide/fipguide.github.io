@@ -31,7 +31,7 @@ Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In andere
 
 ### Langstrecke
 
-{{% expander "AVE ⚠️" "long-distance" %}}
+{{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -42,7 +42,7 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Avlo ⛔⚠️" "long-distance" %}}
+{{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
 **Reservierung möglich:** ja \
@@ -50,7 +50,7 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
 **FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
 
-{{% expander "Euromed ⚠️" "long-distance" %}}
+{{% expander "Euromed ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -61,7 +61,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtssche
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Alvia ⚠️" "long-distance" %}}
+{{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -71,7 +71,7 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werde
 - 10 € (Elige Confort)
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" "long-distance" %}}
+{{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -83,7 +83,7 @@ Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP 
 
 ### Mittelstrecke
 
-{{% expander "Avant ⚠️" "middle-distance" %}}
+{{% expander "Avant ⚠️" traincategory "middle-distance" %}}
 **Beschreibung:** \
 Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -91,7 +91,7 @@ Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtsscheine werden n
 **FIP Globalpreis (Distanzunabhängig):** 4€
 {{% /expander %}}
 
-{{% expander "MD ⚠️" "middle-distance" %}}
+{{% expander "MD ⚠️" traincategory "middle-distance" %}}
 **Beschreibung:** \
 Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall. \
 **Reservierung möglich:** ja \
@@ -101,7 +101,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 
 ### Nahverkehr
 
-{{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
+{{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Beschreibung:** \
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
 - Cercanías Asturias
@@ -123,7 +123,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 
 ### International
 
-{{% expander "Celta: Porto - Vigo ⚠️" "international" %}}
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
 **Beschreibung:** \
 Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
