@@ -3,6 +3,9 @@ draft: false
 title: "Slowakei"
 description: "Informationen über die FIP-Bedingungen für die Slowakei und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "slovakia"
+params:
+  operators_without_fip:
+    - RegioJet
 ---
 
 ## FIP Nutzung
@@ -51,7 +54,3 @@ Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukache
 ## FIP Bewertung
 
 Insgesamt verfügt die Slowakei über eine gute Infrastruktur und die meisten Fahrten werden durch die ZSSK bedient. Dadurch ist es möglich, mit FIP-Fahrscheinen einen großen Teil des Landes zu bereisen. Durch Reservierungspflichten (in der 1. Klasse immer, in der 2. Klasse in den Intercity-Zügen) sowie eher schlechten Infosystemen und oft keiner guten Taktung auf den Nebenstrecken wird die FIP-Erfahrung jedoch etwas getrübt.
-
-## Betreiber ohne FIP
-
-- RegioJet

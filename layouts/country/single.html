@@ -22,6 +22,15 @@
         <div class="o-single__container o-related__operator-wrapper">
             {{ $title := print (T "_operator__list_title") " in " .Title}}
             {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
+            {{ with .Params.operators_without_fip }}
+                <hr class="o-divider">
+                <h3 id="operators-without-fip-title">{{ T "operators_without_fip"}} in {{ $.Title }}</h3>
+                <ul aria-labelledby="operators-without-fip-title">
+                    {{ range . }}
+                        <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+            {{ end }}
         </div>
         {{ partial "image" (partial "helper/contentImage" . ) }}
     </div>

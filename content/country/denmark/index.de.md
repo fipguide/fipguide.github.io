@@ -3,6 +3,15 @@ draft: false
 title: "Dänemark"
 description: "Informationen über die FIP-Bedingungen für Dänemark und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "denmark"
+params:
+  operators_without_fip:
+    - GoCollective (ehemals Arriva Danmark)
+    - Lokaltog
+    - Øresundståg
+    - Midtjyske Jernbaner
+    - Nordjyske Jernbaner
+    - SJ
+    - Snälltåget
 ---
 
 ## FIP Nutzung
@@ -33,17 +42,3 @@ Von Deutschland aus kann der durchgängige EC Hamburg - Kopenhagen genutzt werde
 ### Schweden
 
 Aus Schweden kann entweder aus Malmö über den Öresund gefahren oder von Helsingborg aus die Fähre nach Helsingør genutzt werden. Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden.
-
-## FIP Bewertung
-
-Noch ausstehend
-
-## Betreiber ohne FIP
-
-- GoCollective (ehemals Arriva Danmark)
-- Lokaltog
-- Øresundståg
-- Midtjyske Jernbaner
-- Nordjyske Jernbaner
-- SJ
-- Snälltåget
