@@ -14,7 +14,7 @@
   input[type=text], input[type=email], select, textarea {
     width: 100%;
     margin-bottom: 1.6rem;
-    border-radius: var(--border-radius-m);
+    border-radius: var(--border-radius-l);
     border-width: .2rem;
     border-color: var(--color-onLight);
     padding: 1.2rem;
@@ -29,7 +29,7 @@
     background-color: var(--bg-accent);
     color: var(--color-onLight);
     border: none;
-    border-radius: var(--border-radius-m);
+    border-radius: var(--border-radius-l);
     transition: background-color .3s ease;
     font-weight: 700;
 
