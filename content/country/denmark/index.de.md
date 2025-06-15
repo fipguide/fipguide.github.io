@@ -28,7 +28,7 @@ Die Hauptstrecken in Dänemark sind die Nord-Süd-Verbindung Aalborg-Aarhus-Kold
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" %}}
+{{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
 | Deutschland (DB) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |

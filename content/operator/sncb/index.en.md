@@ -27,52 +27,49 @@ FIP Coupons and FIP 50 tickets are valid on SNCB connections. For cross-border t
 
 Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border journeys).
 
-{{% expander "InterCity Express (ICE)" category %}}
+{{% expander "InterCity Express (ICE)" traincategory category %}}
 **Description:** \
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
 **Reservation possible:** yes \
-**Reservation required:** no \
-**Cost of reservation:** 🟡
-5.20 € (2nd class) \
-6.50 € (1st class)
+**Reservation required:** no
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "InterCity (IC)" traincategory category %}}
 **Description:** \
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Train local or Lokale trein (L)" category %}}
+{{% expander "Train local or Lokale trein (L)" traincategory category %}}
 **Description:** \
 Regional trains stopping at most stations, often simply referred to as "R" for regional train in connection information. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Train S or S-Trein (S)" category %}}
+{{% expander "Train S or S-Trein (S)" traincategory category %}}
 **Description:** \
 A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Train d’heure de pointe or Piekuurtrein (P)" category %}}
+{{% expander "Train d’heure de pointe or Piekuurtrein (P)" traincategory category %}}
 **Description:** \
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Express (E/EXP/EXTRA)" category %}}
+{{% expander "Express (E/EXP/EXTRA)" traincategory category %}}
 **Description:** \
 Additional trains during high traffic periods, especially in the summer months to the Belgian coast. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Tourist (T)" category %}}
+{{% expander "Tourist (T)" traincategory category %}}
 **Description:** \
 Additional trains to certain tourist destinations, often simply referred to as "R" for regional train. \
 **Reservation possible:** no \
@@ -82,37 +79,23 @@ Additional trains to certain tourist destinations, often simply referred to as "
 ## Ticket and Reservation Purchase
 
 ### Online
+{{% booking id="sncb_website" %}}
+When using a SNCB FIP Coupon, a cross-border ticket can be booked via the website, which takes the free travel within the Belgian section into account. To do this, select the discount "100% Discount Belgium (SNCB)" for the travelers. This allows, for example, very affordable bookings for trains from Belgium to Lille in France (except for the TGV, which has a global price and is not operated by SNCB).
+{{% /booking %}}
 
-- [SNCB website for national connections](https://www.belgiantrain.be): \
-  **Reservation:** ⛔ \
-  **FIP 50 tickets:** ⛔
-- [SNCB website for international connections](https://www.b-europe.com/): \
-  **Reservation:** ✅ \
-  For international trains where a reservation is possible, it can be selected accordingly here. \
-  **FIP 50 tickets:** ✅ \
-  For cross-border trains to and from Belgium, tickets with FIP 50 discount can be purchased here. Simply select the discount "50% discount Belgium (SNCB)" for travelers. Multiple discounts, such as a simultaneously available free travel pass for CFL (Luxembourg), can also be specified here. \
-  **International tickets with free travel:** ✅ \
-  If a free travel pass for SNCB is available, it can also be applied to cross-border trains. For this, select the discount "Free travel pass Belgium (SNCB)" for travelers. This allows, for example, very cheap bookings for trains from Belgium to Lille in France (except for the TGV, which has a global price and is not operated by SNCB).
-- Deutsche Bahn FIP Booking (FIP DB): \
-  Link in the DB Reisemarkt \
-  **Reservation:** ✅ \
-  Cross-border reservations from Germany to Belgium or vice versa \
-  **FIP 50 tickets:** ✅ \
-  Cross-border FIP 50 tickets, with ticket validity only for the Belgian section, for Deutsche Bahn employees
-- [Deutsche Bahn FIP Booking (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
-  **Reservation:** ✅ \
-  Cross-border reservations from Germany to Belgium or vice versa \
-  **FIP 50 tickets:** ✅ \
-  Cross-border FIP 50 tickets for the entire route (not valid in the home country)
+{{% booking id="db_website_fip_db"
+    subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets, with ticket portions valid only for the Belgian section, for employees of Deutsche Bahn"
+/%}}
+
+{{% booking id="db_website_fip_international"
+    subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets valid for the entire route (not valid in the home country)"
+/%}}
 
 ### On-site
 
-- SNCB ticket counters: \
-  SNCB operates ticket counters at many major stations (see [belgetrain](https://www.belgiantrain.be/en/station-information)). \
-  **Reservation:** ✅ \
-  **FIP 50 tickets:** ✅
-- Other options: \
-  FIP 50 tickets and reservations can also be purchased at CFL, DB, and NS travel centers.
+{{% booking id="sncb_ticket_office" /%}}
+
+{{% booking id="db_ticket_office" /%}}
 
 ### On the train
 

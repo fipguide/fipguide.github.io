@@ -78,3 +78,9 @@ To add a new operator:
 ```zsh
 hugo new operator/${OPERATOR} # Replace ${OPERATOR} with the English operator name in lowercase
 ```
+
+To add a new booking platform:
+
+```zsh
+hugo new booking/${PLATFORM} # Replace ${PLATFORM} with the name of the booking platform
+```

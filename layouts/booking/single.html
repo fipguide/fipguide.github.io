@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <article data-pagefind-ignore class="container o-single">
+        <div class="o-single__header">
+            <h1>{{ .Title }}</h1>
+        </div>
+
+        <div class="o-single__content">
+            {{ .Content }}
+        </div>
+
+        {{ partial "booking-links" . }}
+    </article>
+{{ end }}

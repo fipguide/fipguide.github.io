@@ -30,7 +30,7 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 ### Long distance
 
-{{% expander "AVE ⚠️" "long-distance" %}}
+{{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Description:** \
 Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -41,7 +41,7 @@ Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons a
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Avlo ⛔⚠️" "long-distance" %}}
+{{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
 **Description:** \
 Low-cost high-speed trains (up to 300 km/h). \
 **Reservation possible:** yes \
@@ -49,7 +49,7 @@ Low-cost high-speed trains (up to 300 km/h). \
 **FIP:** ⛔ FIP is not accepted
 {{% /expander %}}
 
-{{% expander "Euromed ⚠️" "long-distance" %}}
+{{% expander "Euromed ⚠️" traincategory "long-distance" %}}
 **Description:** \
 High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -60,7 +60,7 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Alvia ⚠️" "long-distance" %}}
+{{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Description:** \
 High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -70,7 +70,7 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 - 10 € (Elige Confort)
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" "long-distance" %}}
+{{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Description:** \
 Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -82,7 +82,7 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 
 ### Middle distance
 
-{{% expander "Avant ⚠️" "middle-distance" %}}
+{{% expander "Avant ⚠️" traincategory "middle-distance" %}}
 **Description:** \
 High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -90,7 +90,7 @@ High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted. \
 **FIP Global Fare (regardless of distance):** 4€
 {{% /expander %}}
 
-{{% expander "MD ⚠️" "middle-distance" %}}
+{{% expander "MD ⚠️" traincategory "middle-distance" %}}
 **Description:** \
 Accelerated regional transport. FIP Coupons are only accepted on trains that do not require reservations. Currently, this is only the case on the Barcelona (Girona-Figueres)-Port Bou route. \
 **Reservation possible:** yes \
@@ -100,7 +100,7 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 
 ### Local transportation
 
-{{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
+{{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Description:** \
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
 - Cercanías Asturias
@@ -121,7 +121,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 {{% /expander %}}
 
 ### International
-{{% expander "Celta: Porto - Vigo ⚠️" "international" %}}
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
 **Description:** \
 The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
 **Reservation possible:** yes \
@@ -139,25 +139,29 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 
 ### Online
 
-- It is not possible to book reservations, FIP Global Fare or FIP 50 online.
+It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
 ### By telephone
 
-- It is possible to book by telephone with Renfe, but the ticket must be collected from a Spanish counter within a few days.
+It is possible to book by telephone with Renfe, but the ticket must be collected from a Spanish counter within a few days.
 
 ### On-site
 
-- DB Travel Center:
-  Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels.
-  It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee. \
-  ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
+{{% booking id="db_ticket_office"
+    fip_global_fare=true
+    reservations="nil"
+%}}
+**FIP Global Fare**
 
-- Sales points of Renfe in Spain:
-  All tickets subject to reservation and tickets without reservation (FIP 50) can be booked at Renfe points of sale. An additional fee of €0.55 is charged for tickets requiring a reservation.
+Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels. It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee.
+![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
+{{% /booking %}}
+
+{{% booking id="renfe_ticket_office" /%}}
 
 ### On the train
 
-- If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
+If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
 
 ## Discounts
 
