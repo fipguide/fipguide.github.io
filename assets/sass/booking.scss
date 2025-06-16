@@ -70,12 +70,13 @@
 .o-booking__title-wrapper {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 0.4rem;
 }
 
 .o-booking__title {
     display: flex;
-    gap: 0.5rem;
+    gap: 0.4rem;
     align-items: flex-start;
     font-weight: 600;
 }
