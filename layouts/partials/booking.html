@@ -7,23 +7,25 @@
                     {{- partial "icon" (index $iconMapping .page.Params.type) -}}
                     <span class="o-booking__title-text">{{- .page.Title -}}</span>
                 </div>
+                {{- if .subtitle }}
                 <div class="o-booking__subtitle">
                     {{- .subtitle -}}
                 </div>
+                {{- end }}
             </div>
             <div class="o-booking__meta">
                 {{- if ne .reservations "nil" -}}<div>{{- T "booking.reservation" }} {{ if .reservations -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
                 {{- if ne .fip_50 "nil" -}}<div>{{- T "booking.fip-50" }} {{ if .fip_50 -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
                 {{- if ne .fip_global_fare "nil" -}}<div>{{- T "booking.fip-global-fare" }} {{ if .fip_global_fare -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
             </div>
-            <div class="o-booking__classes">
-                {{- if and (ne .reservations "nil") .classes -}}
+            {{- if and (ne .reservations "nil") .classes -}}
+                <div class="o-booking__classes">
                     <span class="o-booking__classes-title">{{ T "booking.reservation-costs" }}</span>
                     {{- range $k, $v := .classes -}}
                     <div><strong>{{- T (print "booking.classes." $k) -}}:</strong> {{ $v -}}</div>
                     {{- end -}}
-                {{- end -}}
-            </div>
+                </div>
+            {{- end -}}
         </div>
     </div>
 </summary>
