@@ -4,10 +4,12 @@
   gap: 0.5rem;
   align-items: center;
 
-  .o-expander__summary-text:hover,
-  .o-expander__summary-text:focus {
-    font-weight: 700;
-    text-decoration: underline;
+  &:hover,
+  &:focus {
+    .o-expander__summary-text {
+      font-weight: 700;
+      text-decoration: underline;
+    }
   }
 }
 
@@ -31,7 +33,6 @@ details > summary {
   list-style-type: none;
 }
 
-.details-screen.o-expander > div,
 .details-screen > .o-expander__summary {
   margin-right: 3.2rem;
 }
