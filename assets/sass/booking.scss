@@ -8,20 +8,21 @@
     }
 }
 
-.details-screen > .o-booking__summary::before {
+.details-screen .o-booking__header-actions::before {
   content: "keyboard_arrow_down";
-  position: absolute;
-  right: 0;
   font-size: 2.4rem;
-  top: calc(50% - 1.2rem);
   @extend .material-symbols-rounded
 }
 
-.details-screen[open] > .o-booking__summary::before {
+.details-screen[open] .o-booking__header-actions::before {
   content: "keyboard_arrow_up";
   font-size: 2.4rem;
-  top: calc(50% - 1.2rem);
   @extend .material-symbols-rounded
+}
+
+.o-booking__header-actions {
+    width: 24px;
+    height: 24px;
 }
 
 .o-booking__header-content {
@@ -29,13 +30,11 @@
     grid-template-columns: 1.5fr 1fr 1fr;
     gap: 2rem;
     width: 100%;
-    align-content: center;
 
     @media (max-width: #{$breakpoint-md}) {
         display: flex;
         flex-direction: column;;
         gap: 1rem;
-        align-content: start;
     }
 }
 
@@ -44,7 +43,7 @@
     justify-content: space-between;
     gap: 2rem;
     width: 100%;
-    align-content: center;
+    align-items: center;
 }
 
 .o-booking__classes {
