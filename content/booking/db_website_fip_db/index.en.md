@@ -6,7 +6,7 @@ description: "Booking information for FIP tickets for DB employees for neighbori
 params:
     classes:
         first: "6,90€"
-        second: "5,50"
+        second: "5,50€"
     fip_50: true
     reservations: true
     additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"

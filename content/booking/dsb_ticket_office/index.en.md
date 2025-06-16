@@ -5,8 +5,8 @@ description: "Booking information for DSB ticket offices."
 
 params:
     classes:
-        first: "30 kr"
-        second: "30 kr"
+        first: "DKK 30"
+        second: "DKK 30"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"

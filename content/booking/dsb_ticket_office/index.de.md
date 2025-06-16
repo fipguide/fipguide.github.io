@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die DSB Ticketschalter."
 
 params:
     classes:
-        first: "30 kr"
-        second: "30 kr"
+        first: "30 DKK"
+        second: "30 DKK"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"

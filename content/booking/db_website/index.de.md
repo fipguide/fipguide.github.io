@@ -5,7 +5,7 @@ description: "Buchungsinformationen für die Deutsche Bahn Website."
 params:
   classes:
     first: "6,90€"
-    second: "5,50"
+    second: "5,50€"
   fip_50: false
   reservations: true
   booking_link: "https://www.bahn.de/"

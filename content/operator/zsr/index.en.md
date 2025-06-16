@@ -35,7 +35,7 @@ Reservation required for SC and IC trains. Other ZSSK trains only require a rese
 Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**Cost of reservation:** From 7 € \
+**Cost of reservation:** From €7 \
 Depending on route and occupancy (including surcharge for train category)
 {{% /expander %}}
 
@@ -45,7 +45,7 @@ Depending on route and occupancy (including surcharge for train category)
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**Cost of reservation:** From 7 € \
+**Cost of reservation:** From €7 \
 Depending on route and occupancy (including surcharge for train category)
 {{% /expander %}}
 

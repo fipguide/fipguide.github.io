@@ -5,8 +5,8 @@ description: "Booking information for DSB Website."
 
 params:
     classes:
-        first: "30 kr"
-        second: "30 kr"
+        first: "DKK 30"
+        second: "DKK 30"
     fip_50: false
     reservations: true
     booking_link: "https://www.dsb.dk/en/"

@@ -47,18 +47,6 @@
     align-content: center;
 }
 
-.o-booking__header-actions {
-    @media screen {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    @media print {
-        display: none;
-    }
-}
-
 .o-booking__classes {
     display: flex;
     align-items: flex-start;
@@ -68,7 +56,7 @@
         margin-bottom: 0rem;
     }
 
-    @media (max-width: #{$breakpoint-md}) {
+@media (max-width: #{$breakpoint-md}) {
         align-items: start;
     }
 }
@@ -96,7 +84,7 @@
     font-size: 1.4rem;
 }
 
-.o-booking__meta{
+.o-booking__meta {
     text-align: left;
     display: flex;
     flex-direction: column;
