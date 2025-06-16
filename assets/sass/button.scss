@@ -12,6 +12,6 @@ a.a-button {
 
     &:hover,
     &:focus {
-        background: rgba(var(--link-hovered-rgb), 0.15);
+        background: rgba($link-hovered, 0.15);
     }
 }
