@@ -102,6 +102,8 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
     fip_global_fare=true
     reservations=nil
 %}}
+**FIP Globalpreis**
+
 Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
 {{% /booking %}}
 

@@ -101,6 +101,8 @@ If an email address associated with an existing Eurostar account is provided dur
     fip_global_fare=true
     reservations=nil
 %}}
+**FIP Global Fare**
+
 When booking, the FIP cards of all travelers must be presented.
 {{% /booking %}}
 
