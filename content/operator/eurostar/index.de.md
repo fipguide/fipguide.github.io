@@ -39,8 +39,8 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
+| London - Paris / Brüssel | 39 € / 39,50 £ | 60 € / 52,50 £ |
+| London - Amsterdam / Rotterdam | ? € / 454,50 £ | ? € / 62 £ |
 | Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
 {{% /expander %}}
 
