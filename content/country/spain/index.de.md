@@ -16,7 +16,7 @@ In Spanien ist die Nutzung von FIP nicht immer einfach, da hier einfach einsteig
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" %}}
+{{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
 | Portugal (CP) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |

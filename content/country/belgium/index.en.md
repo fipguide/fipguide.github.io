@@ -23,7 +23,7 @@ Belgium has an extensive and dense rail network. Unlike other countries, there i
 
 ## Arrival
 
-{{% expander "Border Points" %}}
+{{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
 | Luxembourg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |

@@ -7,6 +7,7 @@ country:
 operator: "dsb"
 ---
 
+
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemark. Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
 
 ## Zusammenfassung
@@ -26,39 +27,28 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 
 Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg - Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
-{{% expander "InterCityLyn (ICL)" category %}}
+{{% expander "InterCityLyn (ICL)" traincategory category %}}
 **Beschreibung:** \
 InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteiander. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟢 \
-30 kr (2. Klasse) \
-30 kr (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "InterCity (IC)" traincategory category %}}
 **Beschreibung:** \
 InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟢 \
-30 kr (2. Klasse) \
-30 kr (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" category %}}
+{{% expander "EuroCity (EC)" traincategory category %}}
 **Beschreibung:** \
 EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** 🟡 In der Nebensaison nicht, in der Hauptsaison ja \
-**Kosten für Reservierung:** 🟡
-| Strecke | 2. Klasse | 1. Klasse |
-|-----------------------------|-----------|-----------|
-| Innerhalb Dänemarks | 30 kr | 30 kr |
-| Grenzüberschreitende Strecken | 5,20 € | 6,50 € |
+**Reservierungspflicht:** Nur in der Hauptsaison (Sommer)
 {{% /expander %}}
 
-{{% expander "Regionalzug (R) ℹ️" category %}}
+{{% expander "Regionalzug (R) ℹ️" traincategory category %}}
 **Beschreibung:** \
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam. \
 ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
@@ -66,7 +56,7 @@ Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie h
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "S-tog (S)" category %}}
+{{% expander "S-tog (S)" traincategory category %}}
 **Beschreibung:** \
 Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch mit FIP-Fahrkarten genutzt werden. Sie verkehrt im dichten Takt mit Halt an allen Stationen und ist mit S-Bahn-Systemen in anderen Ländern gut zu vergleichen. \
 **Reservierung möglich:** nein \
@@ -77,33 +67,27 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ### Online
 
-- [DSB Website](https://www.dsb.dk): \
-  **Reservierung:** ✅ \
-  Nur für nationale Verbindungen \
-  **FIP 50 Fahrkarten:** ⛔
-- [Deutsche Bahn Website](https://bahn.de/): \
-  **Reservierung:** ✅ \
-  Für nationale und grenzüberschreitende Verbindungen. Für einzelne Züge jedoch teuerer als über die DSB. \
-  **FIP 50 Fahrkarten:** ⛔
-- Deutsche Bahn FIP-Buchung (FIP DB): \
-  Link im DB Reisemarkt \
-  **Reservierung:** ✅ \
-  Für nationale und grenzüberschreitende Verbindungen. Für einzelne Züge jedoch teuerer als über die DSB. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für Mitarbeiter der Deutschen Bahn
-- [Deutsche Bahn FIP-Buchung (FIP International)](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) \
-  **Reservierung:** ✅ \
-  Für nationale und grenzüberschreitende Verbindungen. Für einzelne Züge jedoch teuerer als über die DSB. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)
+{{% booking id="dsb_website"
+    subtitle="Nur für nationale Verbindungen"
+/%}}
+
+{{% booking id="db_website"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen"
+/%}}
+
+{{% booking id="db_website_fip_db"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+/%}}
+
+{{% booking id="db_website_fip_international"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+/%}}
 
 ### Vor Ort
 
-- Schalter der DSB: \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: \
-  Tickets können auch an anderen Schaltern im Ausland gekauft werden, z. B. bei der DB in Deutschland.
+{{% booking id="dsb_ticket_office" /%}}
+
+{{% booking id="db_ticket_office" /%}}
 
 ## Ermäßigungen
 
