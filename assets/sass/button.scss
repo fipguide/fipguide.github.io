@@ -1,0 +1,17 @@
+a.a-button {
+    padding: 1rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 2px solid var(--link-default);
+    border-radius: var(--border-radius-m);
+    font-size: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+
+    &:hover,
+    &:focus {
+        background: rgba($link-hovered, 0.15);
+    }
+}

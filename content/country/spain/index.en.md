@@ -22,7 +22,7 @@ Stations usually have ticket barriers, which require a valid digital or analog t
 
 ## Arrival and Border Points
 
-{{% expander "Border points" %}}
+{{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
 | Portugal (CP) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |

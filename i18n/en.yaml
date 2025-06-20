@@ -2,6 +2,17 @@ _operator__list_title: Operators supporting FIP
 anchorLink:
   copied: Link has been copied to the clipboard
   copy: Copy link to this section
+booking:
+  classes:
+    first: 1st Class
+    second: 2nd Class
+  fip-50: FIP 50 Tickets
+  fip-global-fare: FIP Global Fare
+  reservation: Reservation
+  reservation-costs: Reservation Costs
+  title: Booking platforms
+  visit-additional-information-website: Additional Information
+  visit-booking-website: To Booking Website
 country:
   many: countries
   one: country

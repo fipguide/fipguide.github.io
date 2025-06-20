@@ -1,0 +1,126 @@
+.o-booking__summary {
+    position: relative;
+    &:hover,
+    &:focus {
+        .o-booking__title-text {
+            text-decoration: underline;
+        }
+    }
+}
+
+.details-screen .o-booking__header-actions::before {
+  content: "keyboard_arrow_down";
+  font-size: 2.4rem;
+  @extend .material-symbols-rounded
+}
+
+.details-screen[open] .o-booking__header-actions::before {
+  content: "keyboard_arrow_up";
+  font-size: 2.4rem;
+  @extend .material-symbols-rounded
+}
+
+.o-booking__header-actions {
+    width: 24px;
+    height: 24px;
+}
+
+.o-booking__header-content {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr;
+    gap: 2rem;
+    width: 100%;
+
+    @media (max-width: #{$breakpoint-md}) {
+        display: flex;
+        flex-direction: column;;
+        gap: 1rem;
+    }
+}
+
+.o-booking__header {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    width: 100%;
+    align-items: center;
+}
+
+.o-booking__classes {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    > p {
+        margin-bottom: 0rem;
+    }
+
+    @media (max-width: #{$breakpoint-md}) {
+        align-items: flex-start;
+    }
+}
+
+.o-booking__classes-title {
+    font-size: 1.6rem;
+    font-style: italic;
+}
+
+.o-booking__title-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.4rem;
+}
+
+.o-booking__title {
+    display: flex;
+    gap: 0.4rem;
+    align-items: flex-start;
+    font-weight: 600;
+}
+
+.o-booking__title-text{
+    line-height: 1.1;
+}
+
+.o-booking__subtitle {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.4rem;
+}
+
+.o-booking__meta {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    @media (max-width: #{$breakpoint-md}) {
+        align-items: flex-start;
+    }
+}
+
+.o-booking__links {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+@mixin booking_section($name) {
+  &-#{$name}--hidden &-#{$name} {
+    display: none;
+  }
+}
+
+.o-booking__section {
+    @include booking_section("fip_50");
+    @include booking_section("fip_global_fare");
+    @include booking_section("reservations");
+}
+
+.o-booking__info {
+    margin-bottom: 1.5rem;
+}

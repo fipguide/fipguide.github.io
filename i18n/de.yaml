@@ -3,6 +3,17 @@ _operator__nearby: Angrenzende Betreiber
 anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
   copy: Link zu diesem Abschnitt kopieren
+booking:
+  classes:
+    first: 1. Klasse
+    second: 2. Klasse
+  fip-50: FIP 50 Fahrkarten
+  fip-global-fare: FIP Globalpreis
+  reservation: Reservierung
+  reservation-costs: Reservierungskosten
+  title: Buchungsplattformen
+  visit-additional-information-website: Weitere Informationen
+  visit-booking-website: Zur Buchungsseite
 country:
   many: Länder
   one: Land

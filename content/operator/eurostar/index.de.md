@@ -31,7 +31,7 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" category %}}
+{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **Reservierung möglich:** ja \
@@ -39,12 +39,12 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brüssel | 44 € / 39,50 £ | 65 € / 57,50 £ |
-| London - Amsterdam / Rotterdam | ? € / 49,50 £ | ? € / 67 £ |
-| Brüssel - Amsterdam / Rotterdam  | ? € / 20,50 £ | ? € / 35,50 £ |
+| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
+| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
+| Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
 {{% /expander %}}
 
-{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" category %}}
+{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden \
 **Reservierung möglich:** ja \
@@ -53,11 +53,11 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 23 € | 40 € |
-| Fahrt zwischen 3 Ländern | 25 € | 45 € |
+| Fahrt zwischen 2 Ländern | 18 € | 35 € |
+| Fahrt zwischen 3 Ländern | 20 € | 40 € |
 {{% /expander %}}
 
-{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" category %}}
+{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. \
 **Reservierung möglich:** ja \
@@ -89,29 +89,23 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-- E-Mail an International Rail Ltd: \
-  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
-  Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben. \
-  Erforderliche Angaben:
-  - Reisetag und Zeit
-  - Abfahrts- und Zielbahnhof
-  - Anzahl der Fahrgäste
-  - Reiseklasse (analog Berechtigung des FIP-Ausweises)
-  - Foto des FIP Ausweises aller reisender Personen
-
-  **FIP Globalpreis:** ✅
+{{% booking id="uk_mail" /%}}
 
 ### Telefon
-- [Eurostar](https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen): \
-  [+49 (0)30 7007 0000](tel:+493070070000) \
-  Buchung auf Deutsch und Englisch möglich. Ein Buchstabieralphabet hilft bei der Angabe von Namen und Adressen. Die Bezahlung ist nur per Kreditkarte möglich. \
-  **FIP Globalpreis:** ✅
+
+{{% booking id="eurostar_phone" /%}}
 
 ### Vor Ort
 
-- CFL/SNCB/NS: \
-  Am Schalter können Onlinetickets verkauft werden. Dafür muss der FIP Ausweis aller reisender Personen vorgezeigt werden. Bei der NS ist die Buchung nur in [internationalen Ticketschalter](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops) möglich. \
-  **FIP Globalpreis:** ✅
+{{% booking id="ns_ticket_office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+**FIP Globalpreis**
+
+Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
+{{% /booking %}}
 
 ### Im Zug
 
