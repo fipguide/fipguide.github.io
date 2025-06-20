@@ -51,7 +51,7 @@ FIP Global Fare: <✅/⛔>
   - ⛔ for a non-acceptance of FIP
   - ℹ️ for confusion with other railway companies/train categories
 -->
-{{% expander "Train category" "category" %}}
+{{% expander "Train category" traincategory "category" %}}
 <!-- Replace "Train category" with the name of the category, e.g. ICE. -->
 **Description:**
 <!-- Description of the category -->
@@ -84,38 +84,36 @@ FIP Global Fare: <✅/⛔>
 
 ### Online
 
-- [Booking page](<Link to the website>): \
-  **Reservation:** <✅/⛔> \
-  **FIP 50 Tickets:** <✅/⛔>
-  <!-- Optional booking notes, how can FIP tickets or reservations be purchased? -->
-- [Another booking page](<Link to the website>): \
-  **Reservation:** <✅/⛔> \
-  **FIP 50 Tickets:** <✅/⛔>
-  <!-- Optional booking notes, how can FIP tickets or reservations be purchased? -->
-- Other options:
-  <!-- Other notes and additional websites for online booking/reservation. -->
+<!--
+  Embed the information of a defined booking platform here.
+
+  You can overwrite individual booking parameters as listed below, but you don't have to.
+  If you leave some parameters out, the defined defaults of the booking platform will be used.
+
+  For more information how to define a booking platform, check the booking archetype.
+-->
+{{% booking id="booking_id"
+    subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
+    reservations=nil
+    fip_50=false
+    fip_global_fare=true
+    classes.first="€20"
+    classes.second="€10"
+%}}
+<!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
+{{% /booking %}}
 
 ### Telephone
 
-- Name of the booking provider: \
-  Phone number: <Phone number> \
-  **Reservation:** <✅/⛔> \
-  **FIP 50 Tickets:** <✅/⛔>
-  <!-- Additional notes for booking by phone -->
-- Name of another booking provider: \
-  Phone number: <Phone number> \
-  **Reservation:** <✅/⛔> \
-  **FIP 50 Tickets:** <✅/⛔>
-  <!-- Additional notes for booking by phone -->
+<!--
+  Embed additional booking platforms with booking via telephone here.
+-->
 
 ### On Site
 
-- Ticket counter of <Railway Company>: \
-  **Reservation:** ✅ \
-  **FIP 50 Tickets:** ✅
-  <!-- Where are ticket counters generally located? If possible,add a to an overview. Add additional  information about purchasing at the counter. -->
-- Other options:
-  <!-- Can tickets also be purchased at other counters abroad, if so where? -->
+<!--
+  Embed additional booking platforms with booking on site here.
+-->
 
 ### On the Train
 

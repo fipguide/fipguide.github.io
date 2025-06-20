@@ -31,7 +31,7 @@ Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In andere
 
 ### Langstrecke
 
-{{% expander "AVE ⚠️" "long-distance" %}}
+{{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -42,7 +42,7 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Avlo ⛔⚠️" "long-distance" %}}
+{{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
 **Reservierung möglich:** ja \
@@ -50,7 +50,7 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
 **FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
 
-{{% expander "Euromed ⚠️" "long-distance" %}}
+{{% expander "Euromed ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -61,7 +61,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtssche
 - 23,50€ (Premium)
 {{% /expander %}}
 
-{{% expander "Alvia ⚠️" "long-distance" %}}
+{{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -71,7 +71,7 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werde
 - 10 € (Elige Confort)
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" "long-distance" %}}
+{{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -83,7 +83,7 @@ Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP 
 
 ### Mittelstrecke
 
-{{% expander "Avant ⚠️" "middle-distance" %}}
+{{% expander "Avant ⚠️" traincategory "middle-distance" %}}
 **Beschreibung:** \
 Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -91,7 +91,7 @@ Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtsscheine werden n
 **FIP Globalpreis (Distanzunabhängig):** 4€
 {{% /expander %}}
 
-{{% expander "MD ⚠️" "middle-distance" %}}
+{{% expander "MD ⚠️" traincategory "middle-distance" %}}
 **Beschreibung:** \
 Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall. \
 **Reservierung möglich:** ja \
@@ -101,7 +101,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 
 ### Nahverkehr
 
-{{% expander "Cercanías / Rodalia / Aldiriak" "local-transportation" %}}
+{{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Beschreibung:** \
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
 - Cercanías Asturias
@@ -123,7 +123,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 
 ### International
 
-{{% expander "Celta: Porto - Vigo ⚠️" "international" %}}
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
 **Beschreibung:** \
 Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
@@ -141,25 +141,29 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 
 ### Online
 
-- Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
+Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
 
 ### Telefonisch
 
-- Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerhalb weniger Tage an einem spanischen Schalter abgeholt werden.
+Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerhalb weniger Tage an einem spanischen Schalter abgeholt werden.
 
 ### Vor Ort
 
-- DB Reisezentrum:
-  In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl.
-  Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben. \
-  ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
+{{% booking id="db_ticket_office"
+    fip_global_fare=true
+    reservations="nil"
+%}}
+**FIP Globalpreis**
 
-- Verkaufsstellen der Renfe in Spanien:
-  In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis sowie Tickets ohne Reservierung (FIP 50) gebucht werden. Für reservierungspflichtige Tickets fällt zusätzlich eine Gebühr von 0,55 € an.
+In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
+![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
+{{% /booking %}}
+
+{{% booking id="renfe_ticket_office" /%}}
 
 ### Im Zug
 
-- Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
+Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
 
 ## Ermäßigungen
 

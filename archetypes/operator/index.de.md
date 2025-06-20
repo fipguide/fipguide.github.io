@@ -51,7 +51,7 @@ FIP Globalpreis: <✅/⛔>
   - ⛔ für eine Nichtanerkennung von FIP
   - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
 -->
-{{% expander "Zugkategorie" "category" %}}
+{{% expander "Zugkategorie" traincategory "category" %}}
 <!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z.B. ICE. -->
 **Beschreibung:**
 <!-- Füge hier eine Beschreibung der Zugkategorie ein -->
@@ -84,38 +84,36 @@ FIP Globalpreis: <✅/⛔>
 
 ### Online
 
-- [Website des Buchungsanbieters](https://example.com): \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Optionale Buchungshinweise, wie kann man FIP Tickets oder Reservierungen kaufen? -->
-- [Website eines weiteren Buchungsanbieters](https://example.com): \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Optionale Buchungshinweise, wie kann man FIP Tickets oder Reservierungen kaufen? -->
-- Weitere Möglichkeiten:
-  <!-- Sonstige Hinweise und weitere Seiten für die Onlinebuchung/-reservierung. -->
+<!--
+  Bette hier Buchungsplattformen mit Onlinebuchung ein.
+
+  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
+  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
+
+  Mehr Informationen sind im booking archetype zu finden.
+-->
+{{% booking id="booking_id"
+    subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
+    reservations=nil
+    fip_50=false
+    fip_global_fare=true
+    classes.first="€20"
+    classes.second="€10"
+%}}
+<!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
+{{% /booking %}}
 
 ### Telefon
 
-- Name des Buchungsanbieters: \
-  Telefonnummer: <Telefonnummer einfügen> \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Weitere Hinweise zur Buchung am Telefon> -->
-- Name eines weiteren Betreibers: \
-  Telefonnummer: <Telefonnummer einfügen> \
-  **Reservierung:** <✅/⛔> \
-  **FIP 50 Fahrkarten:** <✅/⛔>
-  <!-- Weitere Hinweise zur Buchung am Telefon> -->
+<!--
+  Füge hier weitere Buchungsplattformen mit Buchung per Telefon hinzu.
+-->
 
 ### Vor Ort
 
-- Schalter der <Bahngesellschaft>: \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-  <!-- Wo gibt es Ticketschalter allgemein? Wenn möglich, ergänze ein Link zu einer Übersicht. Ergänze zusätzliche Informationen zum Kauf am Schalter. -->
-- Weitere Möglichkeiten:
-  <!-- Können die Tickets auch z.B. an anderen Schaltern im Ausland gekauft werden, wenn ja wo? -->
+<!--
+  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
+-->
 
 ### Im Zug
 

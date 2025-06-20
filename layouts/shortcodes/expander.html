@@ -1,8 +1,13 @@
-<details name="{{ (.Get 1) }}" class="details-screen">
-<summary>
-    <span>{{ (.Get 0) }}</span>
+{{- $param := .Get 1 -}}
+{{ $iconMapping := dict "border" "share_location" "traincategory" "train" }}
+
+<details name="{{ (.Get 2) }}" class="details-screen o-expander">
+<summary class="o-expander__summary">
+    {{- partial "icon" (index $iconMapping $param) -}}
+    <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
 </summary>
 <div>
+    <hr aria-hidden="true">
     {{ .Inner }}
 </div>
 </details>
@@ -12,11 +17,12 @@
     The workaround can be removed when the following issue is implemented:
     https://github.com/w3c/csswg-drafts/issues/2084
 -->
-<details open class="details-print">
-<summary>
-    <span>{{ (.Get 0) }}</span>
+<details open class="details-print o-expander">
+<summary class="o-expander__summary">
+    <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
 </summary>
 <div>
+    <hr aria-hidden="true">
     {{ .Inner }}
 </div>
 </details>

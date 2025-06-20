@@ -1,10 +1,15 @@
-summary {
+.o-expander__summary {
   display: flex;
+
+  gap: 0.5rem;
+  align-items: center;
 
   &:hover,
   &:focus {
-    font-weight: 700;
-    text-decoration: underline;
+    .o-expander__summary-text {
+      font-weight: 700;
+      text-decoration: underline;
+    }
   }
 }
 
@@ -20,7 +25,7 @@ details {
   margin-bottom: 1.2rem;
 }
 
-details[open] > summary {
+details[open] > .o-expander__summary {
   margin-bottom: 0.5rem;
 }
 
@@ -28,9 +33,8 @@ details > summary {
   list-style-type: none;
 }
 
-.details-screen > div,
-.details-screen > summary {
-  margin-left: 3.2rem;
+.details-screen > .o-expander__summary {
+  margin-right: 3.2rem;
 }
 
 details > div {
@@ -45,21 +49,21 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-.details-screen > summary::before {
-  content: "add";
+.details-screen > .o-expander__summary::before {
+  content: "keyboard_arrow_down";
   position: absolute;
-  left: 1.2rem;
+  right: 1.2rem;
   font-size: 2.4rem;
   @extend .material-symbols-rounded
 }
 
-.details-screen[open] > summary::before {
-  content: "remove";
+.details-screen[open] > .o-expander__summary::before {
+  content: "keyboard_arrow_up";
   font-size: 2.4rem;
   @extend .material-symbols-rounded
 }
 
-details[open] > summary {
+details[open] > .o-expander__summary {
   font-weight: 700;
 }
 
