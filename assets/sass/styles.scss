@@ -9,7 +9,7 @@ body {
   overflow-x: hidden;
 }
 
-a:not(.m-teaser) {
+a {
   color: var(--link-default);
   transition: all 0.3s ease;
   text-underline-offset: .2rem;
