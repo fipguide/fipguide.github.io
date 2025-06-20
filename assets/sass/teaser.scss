@@ -92,6 +92,9 @@
 
 .m-teaser__content {
     padding: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .m-teaser__text {
