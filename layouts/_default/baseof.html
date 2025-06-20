@@ -4,7 +4,7 @@
   dir="{{ or site.Language.LanguageDirection `ltr` }}"
 >
   <head>
-    {{ partial "head.html" . }}
+    {{ partial "head" . }}
   </head>
   <body>
     <header id="header" class="o-header">{{ partialCached "header.html" . }}</header>

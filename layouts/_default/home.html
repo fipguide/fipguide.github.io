@@ -5,9 +5,9 @@
     <div class="col-12 col-lg-6 order-2 order-lg-1">
       {{ .Content }}
     </div>
-    <div class="col-12 col-lg-6 order-1 order-lg-2">
+    <div class="col-12 col-lg-6 order-1 order-lg-2 o-startpage__image">
       {{ $image := resources.Get "images/startpage.webp" }}
-      {{ partial "image.html" (dict "image" $image "eager" true) }}
+      {{ partial "image" (dict "image" $image "eager" true) }}
     </div>
   </div>
   <div class="row">

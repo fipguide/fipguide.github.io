@@ -1,9 +1,9 @@
-{{ partial "headMeta.html" . }}
+{{ partial "headMeta" . }}
 
 <title>
   {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
 </title>
-{{ partialCached "head/js.html" . }}
+{{ partialCached "head/js" . }}
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
   {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
@@ -43,4 +43,4 @@
 {{- end -}}
 <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}" />
 
-{{ partial "structuredData.html" . }}
+{{ partial "structuredData" . }}

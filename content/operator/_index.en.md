@@ -1,5 +1,5 @@
 ---
-title: "Overview of operators supporting FIP"
+title: "Overview of operators"
 description: "Overview of the operators providing FIP benefits."
 ---
 
