@@ -1,21 +1,21 @@
 {{ define "main" }}
 <h1 class="sr-only">{{ T "home-page-text" }}</h1>
 <section class="container">
-  <div class="row o-startpage__intro">
-    <div class="col-12 col-lg-6 order-2 order-lg-1">
+  <div class="o-startpage__intro">
+    <div>
       {{ .Content }}
     </div>
-    <div class="col-12 col-lg-6 order-1 order-lg-2">
-      {{ $image := resources.Get "images/startpage.webp" }}
+    <div class="o-startpage__image">
+      {{ $image := resources.Get "images/startpage.png" }}
       {{ partial "image.html" (dict "image" $image "eager" true) }}
     </div>
   </div>
-  <div class="row">
-    <div class="col-12">
-      {{ partial "search-slot" }}
-    </div>
+
+  <div class="o-startpage__search">
+    {{ partial "search-slot" }}
   </div>
-  <div class="row">
+
+  <div class="o-startpage__shortcut-wrapper">
     {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
     {{ partial "shortcut-tile" (.Site.GetPage "country") }}
     {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
@@ -23,10 +23,8 @@
 </section>
 <section class="container">
   <div class="row">
-    <div class="col-12">
-      <h2>{{ T "support.title" }}</h2>
-      <p>{{ T "support.text" | safeHTML }}</p>
-    </div>
+    <h2>{{ T "support.title" }}</h2>
+    <p>{{ T "support.text" | safeHTML }}</p>
   </div>
 </section>
 <section class="container">
