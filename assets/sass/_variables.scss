@@ -32,8 +32,9 @@ body {
   --color-table-border: #{$color-table-border};
   --border-radius-s: .4rem;
   --border-radius-m: .8rem;
-  --border-radius-l: 1.2rem;
+  --border-radius-l: 1.6rem;
   --pagefind-ui-border-radius: var(--border-radius-l);
   --pagefind-ui-border: #000;
   --bs-highlight-bg: var(--bg-accent);
+  --box-shadow: 0 .4rem 1rem rgba(0,0,0,.25);
 }
