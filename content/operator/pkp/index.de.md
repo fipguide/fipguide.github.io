@@ -24,9 +24,9 @@ FIP 50 Tickets: ✅
 FIP Freifahrtscheine und FIP 50 Tickets sind bei PKP gültig. Dazu gehören auch:
 - PKP InterCity
 - POLREGIO S.A
-- Koleje Mazowieckie-KM, (Masovian Railways)
-- PKP Szybka Kolej Miejska w Trojmiescie (Fast Urban Railway Tricity)
-- Warszawska Kolej Dojazdowa. (Warsaw Commuter Railway)
+- Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Region Masowien)
+- PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
+- Warszawska Kolej Dojazdowa (KD) (S-Bahnen im Großraum Warschau)
 - Einige Strecken der Koleje Dolnośląskie (KD). [Mehr Informationen]({{< ref "/operator/kd" >}} "KD")
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -46,7 +46,8 @@ Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Ticket
 Bei Reservierungen die nicht zu einem entsprechenden Preis durch die PKP verkauft wurden, kann die Zahlung eines Zuschlags an Bord des Zuges erforderlich sein. [^1] \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** 43 PLN \
+**Kosten für Reservierung:** \
+43 PLN \
 (Zum Festpreis und nur über die PKP buchbar)
 {{% /expander %}}
 
@@ -94,7 +95,7 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
 **Beschreibung:** \
 Regionalzugverbindungen betrieben von Polregio mit Halten an den meisten Bahnhöfen.
 
-ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen")
+ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen") \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse
 {{% /expander %}}
@@ -114,6 +115,14 @@ Regionalzugverbindungen betrieben von Polregio mit Halten an den meisten Bahnhö
     subtitle="Für nationale Verbindungen und grenzüberschreitende Verbindungen inkl. EIP"
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
+{{% /booking %}}
+
+{{% booking id="koleo_website"
+    subtitle="Für nationale Verbindungen Verbindungen inkl. EIP"
+%}}
+FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
+
+Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polregio.pl/) gebucht werden. Die Funktionsweise ist identisch zu Koleo.
 {{% /booking %}}
 
 {{% booking id="db_website"
@@ -147,13 +156,26 @@ Gegen einen Aufschlag von 20 PLN können Fahrkarten im Zug erworben, wenn das Zu
 
 FIP 50 Fahrkarten können im Zug ausgestellt werden, unterliegen jedoch einer speziellen Gebühr (außer der Fahrgast steigt an einem Bahnhof ohne Fahrkartenverkauf zu). Fahrgäste müssen an der vorderen Tür des Zuges (in Fahrtrichtung) einsteigen und unmittelbar nach dem Einsteigen das Ticket beim Zugpersonal kaufen. Ein Upgrade in die 1. Klasse ist an Bord möglich, sofern der Fahrgast das Zugpersonal sofort aufsucht.
 
-Ein Fahrschein für eine einfache Fahrt ist bis Mitternacht am Ausstellungstag gültig. Eine Fahrtunterbrechung ist einmalig ohne Bestätigung möglich. Die Gültigkeit von Einzelfahrscheinen, die mit der Ermäßigungskarte gekauft wurden, richtet sich nach der Entfernung:
+#### Koleje Mazowieckie (KM)
 
-- bis 50 km: 3 Stunden ab Ausstellungsdatum und -uhrzeit (oder nach Wahl des Fahrgasts),
-- 51 km – 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit (oder nach Wahl des Fahrgasts),
-- ab 101 km: bis Mitternacht am Ausstellungstag (der Tag gilt von 00:01 Uhr bis 24:00 Uhr).
+Fahrgäste, die an Bahnhöfen mit Fahrkartenschalter zusteigen und nicht nachweisen können, dass sie dort kein Ticket kaufen konnten, müssen zusätzlich zum Fahrpreis ein Zuschlagsentgelt zahlen.
 
-Besondere Bedingungen je bahn
+Fahrgäste ohne entwertetes Ticket müssen an der vorderen Tür des Zuges (in Fahrtrichtung) einsteigen und das Ticket unverzüglich beim Zugpersonal im ersten Abteil kaufen oder entwerten lassen. Ist kein Personal sichtbar, sollen Fahrgäste im ersten Abteil warten. Andernfalls gilt der Fahrgast als ohne gültigen Fahrschein unterwegs und muss mit einem erhöhten Beförderungsentgelt rechnen.
+
+#### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
+
+Ein Fahrgast, der vor Fahrtantritt kein Ticket erworben hat, ist verpflichtet, sich unmittelbar nach dem Einsteigen beim Zugbegleiter oder Kontrolleur zu melden, um ein Ticket zu kaufen. Dazu muss der Fahrgast die vordere Tür des Zuges (in Fahrtrichtung) benutzen und, falls sich das Personal nicht in diesem Zugteil befindet, dort auf das Personal warten.
+
+Die Ausstellung eines Tickets im Zug ist gebührenpflichtig. Die Höhe der Gebühr ist im Tarif online unter [www.skm.pkp.pl](https://www.skm.pkp.pl/) (C-PKP SKM) einsehbar.
+
+Keine Gebühr wird für die Ausstellung eines Tickets im Zug für folgende Fahrgäste erhoben:
+
+- Menschen mit Behinderung und deren Begleitpersonen
+- Personen über 60 Jahre
+- Personen mit eingeschränkter Mobilität
+- Personen mit Kindern unter 6 Jahren
+- Schwangere
+- Minderjährige – gemäß den Beförderungsbedingungen (RPO-PKP SKM) auf der Website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
 
 ## Ermäßigungen
 
@@ -161,13 +183,65 @@ Uns sind keine weiteren Ermäßigungen bekannt.
 
 ## Tarifliche Besonderheiten
 
+### Gültigkeitsdauer im Nahverkehr
+
+#### Polregio
+
+Ein Fahrschein für eine einfache Fahrt ist bis Mitternacht am Ausstellungstag gültig. Die Gültigkeit von FIP 50 Einzelfahrscheinen, richtet sich nach der Entfernung:
+
+- bis 50 km: 3 Stunden ab Ausstellungsdatum und -uhrzeit (oder nach Wahl des Fahrgasts),
+- 51 km – 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit (oder nach Wahl des Fahrgasts),
+- ab 101 km: bis Mitternacht am Ausstellungstag (der Tag gilt von 00:01 Uhr bis 24:00 Uhr).
+
+#### Koleje Mazowieckie (KM)
+
+Die Gültigkeit von Einzelfahrkarten oder Rückfahrkarten beträgt 1 Tag und beginnt mit dem aufgedruckten/ausgefüllten Datum und Uhrzeit. Der Tag gilt von 00:01 bis 24:00 Uhr.
+
+Fahrten mit Einzelfahrkarten müssen am ersten Gültigkeitstag (auf dem Ticket als Reisetag angegeben) begonnen werden, und zwar:
+- Fahrten mit Einzelfahrkarten und Hinfahrten von Rückfahrkarten müssen innerhalb einer Stunde nach Ticketausstellung oder nach Wahl des Fahrgasts angetreten werden. Die Tarifbedingungen der KM können andere Gültigkeitszeiträume vorsehen.
+- Rückfahrten von Rückfahrkarten für Entfernungen über 100 km können an jedem Tag innerhalb der Gültigkeit des Tickets erfolgen.
+
+#### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
+
+Fahrkarten für Einzelfahrten, die am Automaten ausgestellt werden, sind ab dem Zeitpunkt der Ausstellung/Entwertung gültig. Fahrkarten, die am Schalter gekauft werden, sind entsprechend der vom Verkaufspersonal festgelegten Zeit und Zone gültig.
+
+Die Gültigkeit der Fahrkarten richtet sich nach der Entfernung:
+
+- bis 50 km: 3 Stunden ab Ausstellungsdatum und -uhrzeit oder nach Wahl des Fahrgasts,
+- 51 km bis 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit oder nach Wahl des Fahrgasts,
+- ab 101 km: 1 Tag (ein Tag gilt von 00:01 Uhr bis 24:00 Uhr).
+
 ### Fahrtunterbrechung
+
+#### PKP Intercity (EIP, EIC, IC, TLK)
 Die Unterbrechung einer Fahrt ist nicht erlaubt.
 
+#### Polregio
+
+Eine Fahrtunterbrechung ist einmalig ohne Bestätigung möglich.
+
+#### Koleje Mazowieckie (KM)
+
+Eine Fahrtunterbrechung ist grundsätzlich erlaubt, es gibt jedoch Ausnahmen. Im Zweifelsfall sollte beim Fahrkartenkauf nachgefragt werden, ob eine Unterbrechung möglich ist.
+
+#### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
+
+Eine Fahrtunterbrechung ist erlaubt, unterliegt jedoch den Beförderungsbedingungen (RPO-PKP SKM) auf der Website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+
+### Busse Warschau Modlin
+
+FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modlin nicht gültig.
+
+### Sonderzüge Słoneczny
+
+FIP Fahrkarten sind im  Słoneczny Sonderzug der KM (Warschau nach Danzig/Gdingen) nicht gültig.
+
 ### Busse und Ersatzverkehr
+
 FIP-Fahrkarten gelten auch auf von der PKP betriebenen Schienenersatzverkehren (Busse).
 
 ### Seilbahnen und Zahnradbahnen
+
 FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
 
 ## Quellen
