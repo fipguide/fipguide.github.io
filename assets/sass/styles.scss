@@ -142,7 +142,7 @@ img {
   }
 }
 
-@mixin add-list-columns($columns) {
+@mixin add-columns($columns) {
   &--columns-#{$columns} {
     columns: $columns;
 
@@ -152,10 +152,10 @@ img {
   }
 }
 
-.o-list{
-  @include add-list-columns(1);
-  @include add-list-columns(2);
-  @include add-list-columns(3);
+.o-section{
+  @include add-columns(1);
+  @include add-columns(2);
+  @include add-columns(3);
 }
 
 .o-single {
