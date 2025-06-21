@@ -51,7 +51,7 @@ FIP Global Fare: <✅/⛔>
   - ⛔ for a non-acceptance of FIP
   - ℹ️ for confusion with other railway companies/train categories
 -->
-{{% expander "Train category" "category" %}}
+{{% expander "Train category" traincategory "category" %}}
 <!-- Replace "Train category" with the name of the category, e.g. ICE. -->
 **Description:**
 <!-- Description of the category -->

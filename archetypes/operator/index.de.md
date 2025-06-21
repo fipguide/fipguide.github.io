@@ -51,7 +51,7 @@ FIP Globalpreis: <✅/⛔>
   - ⛔ für eine Nichtanerkennung von FIP
   - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
 -->
-{{% expander "Zugkategorie" "category" %}}
+{{% expander "Zugkategorie" traincategory "category" %}}
 <!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z.B. ICE. -->
 **Beschreibung:**
 <!-- Füge hier eine Beschreibung der Zugkategorie ein -->
