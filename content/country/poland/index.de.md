@@ -1,10 +1,12 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Ändere den Name auf den deutschen Ländername
-country: '{{ .File.ContentBaseName }}'
+title: Polen
+country: 'poland'
 params:
   operators_without_fip:
-    - # Liste Betreiber, die kein FIP akzeptieren
+    - Arriva
+    - LeoExpress
+    - RegioJet
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -34,13 +36,16 @@ params:
 
 ## Anreise und Grenzpunkte
 
-<!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
--->
-
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
+| Land/Bahngesellschaft | Grenzpunkte |
+|-----------------------|-------------|
+| Belarus (BC)          | Brest (Gr) (Belarusian: Брэст), Bruzgi (Gr) (or Bruzhi), Czeremcha (Gr) (Podlaskie Voivodeship) |
+| Tschechien (ČD)       | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy (Gr) (Czech: Hlucholazy), Lichkov (Gr) (or Plhy City), Zebrzydowice (Gr) (Silesian Voivodeship) |
+| Deutschland (DB AG)   | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| Litauen (LTG-Link)    | Mockava (Gr) |
+| Russland (RZD)        | Braniewo (Gr) |
+| Ukraine (UZ)          | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr) |
+| Slowakei (ŽSR)        | Lupkow (Gr) |
 {{% /expander %}}
 
 ### <Name des Nachbarlandes>
