@@ -9,7 +9,7 @@ body {
   overflow-x: hidden;
 }
 
-a:not(.m-teaser) {
+a {
   color: var(--link-default);
   transition: all 0.3s ease;
   text-underline-offset: .2rem;
@@ -196,7 +196,7 @@ img {
 }
 
 .o-startpage .row {
-  margin-bottom: 3.2rem;
+  margin-bottom: 2.4rem;
 }
 
 .o-startpage__intro {
@@ -211,5 +211,17 @@ img {
 
   > div {
     align-content: center;
+  }
+
+  @media (max-width: #{$breakpoint-md}) {
+    h2 {
+      font-size: 4.8rem;
+    }
+  }
+}
+
+.o-startpage__image {
+  @media (max-width: #{$breakpoint-md}) {
+    display: none;
   }
 }
