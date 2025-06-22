@@ -20,7 +20,7 @@
         {{ end }}
 
         <h3 id="toc">{{ .Title }}</h3>
-        {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
+        {{ partial "toc" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
 
         {{ if eq .Page.Type "country" }}
             {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "_operator__list_title") "page" . "identifier" "operators") }}
