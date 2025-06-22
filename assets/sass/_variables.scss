@@ -1,21 +1,39 @@
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+$link-hovered: #8F2501;
+$link-default: #BA3D12;
+$link-special: #000000;
+$bg-default: #FFFFFF;
+$bg-neutral: #EBE9E1;
+$bg-accent: #FFD900;
+$bg-accent2: #DABA00;
+$bg-accent3: #fff284;
+$color-onDark: #FFFFFF;
+$color-onLight: #000000;
+$color-table-border: #5B5B5B;
+
 body {
   --bs-light-rgb: 219, 224, 229;
   --pagefind-ui-scale: 1;
   --pagefind-ui-text: #000;
-  --link-default: #BA3D12;
-  --link-hovered: #8F2501;
-  --link-special: #000000;
-  --bg-default: #FFFFFF;
-  --bg-neutral: #EBE9E1;
-  --bg-accent: #FFD900;
-  --bg-accent2: #DABA00;
-  --bg-accent3: #fff284;
-  --color-onDark: #FFFFFF;
-  --color-onLight: #000000;
-  --color-table-border: #5B5B5B;
+  --link-default: #{$link-default};
+  --link-hovered: #{$link-hovered};
+  --link-special: #{$link-special};
+  --bg-default: #{$bg-default};
+  --bg-neutral: #{$bg-neutral};
+  --bg-accent: #{$bg-accent};
+  --bg-accent2: #{$bg-accent2};
+  --bg-accent3: #{$bg-accent3};
+  --color-onDark: #{$color-onDark};
+  --color-onLight: #{$color-onLight};
+  --color-table-border: #{$color-table-border};
   --border-radius-s: .4rem;
   --border-radius-m: .8rem;
   --border-radius-l: 1.2rem;
   --pagefind-ui-border-radius: var(--border-radius-l);
   --pagefind-ui-border: #000;
+  --bs-highlight-bg: var(--bg-accent);
 }

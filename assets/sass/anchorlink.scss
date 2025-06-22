@@ -1,10 +1,20 @@
 .a-anchorlink {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  margin-bottom: 1.2rem;
+  align-items: center;
+  column-gap: .8rem;
+
+  @media (max-width: #{$breakpoint-md}) {
+    justify-content: space-between;
+  }
 }
 
-.a-anchorlink::before {
-  content: "";
+.a-anchorlink > h2 {
+  margin-bottom: 0;
+}
+
+.o-divider {
   display: block;
   width: 100%;
   margin: 2rem 0;
@@ -13,6 +23,11 @@
   background-repeat: no-repeat;
   height: 2.4rem;
   opacity: 50%;
+  border-top: 0;
+
+  @media print {
+    margin: 0;
+  }
 }
 
 .a-anchorlink__link {
@@ -21,7 +36,6 @@
   height: 3.2rem;
   align-items: center;
   justify-content: center;
-  margin-left: .8rem;
   border-radius: var(--border-radius-s);
   opacity: .8;
   text-decoration: none;
@@ -49,6 +63,7 @@
   align-self: flex-start;
   margin: 1rem;
   text-wrap: balance;
+  z-index: 1000;
 }
 
 .a-snackbar--show {

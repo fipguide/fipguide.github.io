@@ -3,42 +3,37 @@
 
 <div class="curtain" aria-hidden="true"></div>
 <article class="container o-single o-single--with-sidemenu">
-    <div class="row">
-        <div class="col-12 col-lg-4">
-            {{ partial "sidemenu.html" . }}
-        </div>
-
-        <div class="col-12 col-lg-8" data-pagefind-body>
-            <div class="o-single__container content_with_heading">
-                <div class="o-single__header">
-                    <div class="o-single__header__title">
-                        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-                        {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
-                        <img data-pagefind-meta="img" src="{{ $image.RelPermalink }}" alt="" />
-                        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-                    </div>
-                    {{ partial "updateDate.html" . }}
+    {{ partial "sidemenu" . }}
+    <div class="o-single__content" data-pagefind-body>
+        <div class="o-single__container content_with_heading">
+            <div class="o-single__content-header">
+                <div class="o-single__content-header-title">
+                    {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+                    {{ $image := resources.Get (printf "images/flags/%s.webp" $object) }}
+                    <img data-pagefind-meta="image[src]" src="{{ $image.RelPermalink }}" alt="" />
+                    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                 </div>
-
-                <div class="content" data-pagefind-weight="2">
-                    {{- with .Content -}}
-                        {{ . | replaceRE "(<h[2] id=\"([^\"]+)\".+)(</h[2]+>)" (print `<span class="a-anchorlink">${1}${3}<a href="#${2}" class="a-anchorlink__link" title="` (T "anchorLink.copy") `">` (partial "icon" "link") `</a></span>`) | safeHTML }}
-                    {{- end -}}
-                </div>
+                {{ partial "updateDate.html" . }}
             </div>
-            <div class="o-single__container">
-                <h3 id="related">{{ T "_operator__list_title"}} in {{ .Title }}</h3>
-                <div class="row">
-                    <ul class="o-list__link-wrapper row">
-                        {{ range $related }}
-                            <li class="col-12 col-lg-3 col-sm-6">
-                                {{ partial "operator-list-item" . }}
-                            </li>
-                        {{ end }}
-                    </ul>
-                </div>
+
+            <div data-pagefind-weight="2">
+                {{ partial "content" . }}
             </div>
         </div>
+        <div class="o-single__container o-related__operator-wrapper">
+            {{ $title := print (T "_operator__list_title") " in " .Title}}
+            {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
+            {{ with .Params.operators_without_fip }}
+                <hr class="o-divider">
+                <h3 id="operators-without-fip-title">{{ T "operators_without_fip"}} in {{ $.Title }}</h3>
+                <ul aria-labelledby="operators-without-fip-title">
+                    {{ range . }}
+                        <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        </div>
+        {{ partial "image" (partial "helper/contentImage" . ) }}
     </div>
 </article>
 {{ end }}

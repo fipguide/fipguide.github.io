@@ -1,0 +1,48 @@
+{{ define "main" }}
+    <div class="curtain" aria-hidden="true"></div>
+    <article class="container o-single o-single--with-sidemenu">
+        <aside id="aside" class="o-aside">
+            {{ partial "image" (partial "helper/contentImage" . ) }}
+            <div class="o-single__container">
+                <h3 id="o-related__title">{{ T "news-other" }}</h3>
+                <ul class="o-related__list" aria-labelledby="o-related__title">
+                    {{ $current := . }}
+                    {{ range first 5 (where (where site.RegularPages "Section" "news") "Permalink" "ne" $current.Permalink) }}
+                    <li class="o-related__item">
+                        {{ partial "internal_link"
+                            (dict
+                                "Destination" .RelPermalink
+                                "Text" ((print (partial "icon" "newspaper" ) (.Title)) | .Page.RenderString)
+                            )
+                        }}
+                        {{ if eq .Page.Type "news" }}
+                            <span class="o-related__date">{{ .Date | time.Format ":date_long"}}</span>
+                        {{ end }}
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ partial "related" (dict "index" "country" "title" (T "related.countries") "page" . "identifier" "countries") }}
+                {{ partial "related" (dict "index" "operator" "title" (T "related.operators") "page" . "identifier" "operators") }}
+                <hr>
+                {{ partial "link"
+                    (dict
+                        "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+                        "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+                    )
+                }}
+            </div>
+        </aside>
+        <div class="o-single__container content_with_heading" data-pagefind-body>
+            <div class="o-single__content-header">
+                <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+                {{ partial "updateDate.html" . }}
+            </div>
+            <div class="o-single__news-image">
+                {{ partial "image" (partial "helper/contentImage" . ) }}
+            </div>
+            <div data-pagefind-body>
+                {{ .Content }}
+            </div>
+        </div>
+    </article>
+{{ end }}

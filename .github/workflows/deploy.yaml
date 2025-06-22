@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.141.0
+      HUGO_VERSION: 0.147.7
     steps:
       - name: Install Hugo CLI
         run: |
@@ -65,6 +65,7 @@ jobs:
           hugo \
             --gc \
             --minify \
+            --panicOnWarning \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Create custom 404 page
         run: cp public/en/404.html public/404.html

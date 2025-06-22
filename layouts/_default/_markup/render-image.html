@@ -1,57 +1,23 @@
-{{ $myTitle := .Title | default (i18n "image not found") }}
-
-{{/* Prüfen, ob .Destination (also die Bildquelle) mit http:// oder https:// beginnt */}}
 {{ if and .Destination (or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://")) }}
-  <!-- Remote Bild: Direkt ausgeben ohne Bildverarbeitung -->
+  <!-- If the picture is fetched from external sources, don't do image processing -->
   {{ $remoteImage := resources.GetRemote .Destination }}
   <img src="{{ $remoteImage.Permalink }}" alt="{{ .Title }}" title="{{ .Title }}" loading="lazy"/>
 {{ else }}
-  {{/* Lokales Bild: Mit Bildverarbeitung */}}
-  {{ $originalImage := resources.Get "images/glider.png" }}
-  {{ with .Destination }}
-      {{ $myTitle = $.Title }}
-      <!-- Zunächst im Seitenkontext nach Ressourcen suchen -->
-      {{ with $.Page.Resources.Get . }}
-          {{ $originalImage = . }}
-      {{ else }}
-          <!-- Dann in den statischen Ressourcen suchen -->
-          {{ with resources.Get . }}
-              {{ $originalImage = . }}
-          {{ end }}
-      {{ end }}
+  <!-- Local picture with image processing -->
+  {{ $image := "" }}
+  <!-- Check the page context first -->
+  {{ with $.Page.Resources.Get .Destination }}
+    {{ $image = . }}
+  {{ else }}
+    <!-- Otherwise look for the image in the static folders -->
+    {{ with resources.Get .Destination }}
+      {{ $image = . }}
+    {{ end }}
   {{ end }}
 
-  <picture>
-      {{ $width := $originalImage.Width }}
-
-      {{ if gt $width 2200 }}
-          {{ with $originalImage.Resize "2200x" }}
-              <source media="(min-width:2200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
-      {{ end }}
-
-      {{ if gt $width 1500 }}
-          {{ with $originalImage.Resize "1500x" }}
-              <source media="(min-width:1500px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
-      {{ end }}
-
-      {{ if gt $width 1200 }}
-          {{ with $originalImage.Resize "1200x" }}
-              <source media="(min-width:1200px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
-      {{ end }}
-
-      {{ if gt $width 800 }}
-          {{ with $originalImage.Resize "800x" }}
-              <source media="(min-width:800px)" srcset="{{ .RelPermalink | safeURL }}" title="{{ $myTitle }}" loading="lazy"/>
-          {{ end }}
-      {{ end }}
-
-      {{ $tinyImage := $originalImage }}
-      {{ if gt $width 500 }}
-          {{ $tinyImage = $originalImage.Resize "500x" }}
-      {{ end }}
-      <img src="{{ $tinyImage.RelPermalink | safeURL }}" alt="{{ $myTitle }}" title="{{ $myTitle }}" loading="lazy"/>
-  </picture>
+  {{ if $image }}
+    {{ partial "image" $image }}
+  {{ else }}
+    {{ warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $.Page.File.Path }}
+  {{ end }}
 {{ end }}

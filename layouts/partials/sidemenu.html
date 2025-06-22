@@ -7,9 +7,10 @@
                 {{ range . }}
                     {{ if eq .Page.Type "country" }}
                     <li>
-                        <a href="{{ .RelPermalink }}">
+                        <a href="{{ .RelPermalink }}" aria-label="{{ print (T "navigate-to-country") " " .LinkTitle }}">
                             {{ partial "icon" "arrow_back" }}
-                            <span>{{ T "toc-backlink"}}: {{ .LinkTitle }}</span>
+                            {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+                            <span class="o-aside__backlink-text">{{ partial "flag" $object }} {{ .LinkTitle }}</span>
                         </a>
                     </li>
                     {{ end }}
@@ -22,42 +23,12 @@
         {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
 
         {{ if eq .Page.Type "country" }}
-            <h3 id="related">{{ T "_operator__list_title"}}</h3>
-            <ul aria-labelledby="related">
-                {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-                {{ with $related }}
-                    {{ range . }}
-                    {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-                    <li>
-                        <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                            {{ partial "ico" (dict "icon" $object "theme" "logos" "height" "25" "width" "35") }}
-                            {{ .LinkTitle }}
-                        </a>
-                    </li>
-                    {{ end }}
-                {{ end }}
-            </ul>
+            {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "_operator__list_title") "page" . "identifier" "operators") }}
+            {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
         {{ end }}
         {{ if eq .Page.Type "operator" }}
-            {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-            {{ with $related }}
-            {{ if gt (len $related) 1 }}
-            <h3 id="related">{{ T "_operator__nearby"}}</h3>
-            {{ end }}
-            <ul aria-labelledby="related">
-                {{ range . }}
-                    {{ if eq .Page.Type "operator" }}
-                        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-                        <li>
-                            <a id="{{ .LinkTitle }}" href="{{ .RelPermalink }}">
-                                {{ partial "ico" (dict "icon" $object "theme" "logos" "height" "25" "width" "35") }}
-                                {{ .LinkTitle }}
-                            </a>
-                        </li>
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-            </ul>
+            {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
+            {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
         {{ end }}
         <hr>
         {{ partial "link"

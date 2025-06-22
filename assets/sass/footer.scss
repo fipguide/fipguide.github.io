@@ -6,11 +6,10 @@
 .o-footer__links {
     display: flex;
     justify-content: normal;
-    flex-flow: column;
+    flex-wrap: wrap;
 
-    @include media-breakpoint-up(lg) {
+    @media (min-width: #{$breakpoint-lg}) {
         justify-content: flex-end;
-        flex-flow: row;
     }
 }
 
@@ -26,7 +25,7 @@
         color: var(--link-hovered);
     }
 
-    @include media-breakpoint-up(lg) {
+    @media (min-width: #{$breakpoint-lg}) {
         margin-left: 1.6rem;
         margin-right: 0;
     }

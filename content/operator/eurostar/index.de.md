@@ -5,6 +5,7 @@ description: "Informationen über die FIP-Bedingungen bei Eurostar."
 country:
   - "belgium"
   - "netherlands"
+operator: "eurostar"
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet.
@@ -30,7 +31,7 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" category %}}
+{{% expander "Eurostar (Blue): London - Paris / Brüssel / Amsterdam ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **Reservierung möglich:** ja \
@@ -43,7 +44,7 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 | Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
 {{% /expander %}}
 
-{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" category %}}
+{{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden \
 **Reservierung möglich:** ja \
@@ -56,12 +57,12 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Fahrt zwischen 3 Ländern | 20 € | 40 € |
 {{% /expander %}}
 
-{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" category %}}
+{{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis:** ⛔
+**FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
 
 Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
@@ -70,6 +71,12 @@ Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich
 {{% highlight tip %}}
 Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
 {{% /highlight %}}
+
+## Klassenkategorien
+
+**Standard**: Vergleichbar mit der 2. Klasse. \
+**Plus**: 1. Klasse inkl. Mahlzeit (nur Eurostar Blue). Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Premium**: 1. Klasse inkl. umfangreicher Verpflegung und Loungezugang. Nicht mit FIP buchbar.
 
 ## Ticket- und Reservierungskauf
 
@@ -82,29 +89,23 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-- E-Mail an International Rail Ltd: \
-  [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) \
-  Buchung nur auf Englisch möglich. Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben. \
-  Erforderliche Angaben:
-  - Reisetag und Zeit
-  - Abfahrts- und Zielbahnhof
-  - Anzahl der Fahrgäste
-  - Reiseklasse (analog Berechtigung des FIP-Ausweises)
-  - Foto des FIP Ausweises aller reisender Personen
-
-  **FIP Globalpreis:** ✅
+{{% booking id="uk_mail" /%}}
 
 ### Telefon
-- [Eurostar](https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen): \
-  [+49 (0)30 7007 0000](tel:+493070070000) \
-  Buchung auf Deutsch und Englisch möglich. Ein Buchstabieralphabet hilft bei der Angabe von Namen und Adressen. Die Bezahlung ist nur per Kreditkarte möglich. \
-  **FIP Globalpreis:** ✅
+
+{{% booking id="eurostar_phone" /%}}
 
 ### Vor Ort
 
-- CFL/SNCB/NS: \
-  Am Schalter können Onlinetickets verkauft werden. Dafür muss der FIP Ausweis aller reisender Personen vorgezeigt werden. Bei der NS ist die Buchung nur in [internationalen Ticketschalter](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops) möglich. \
-  **FIP Globalpreis:** ✅
+{{% booking id="ns_ticket_office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+**FIP Globalpreis**
+
+Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
+{{% /booking %}}
 
 ### Im Zug
 

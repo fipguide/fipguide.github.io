@@ -20,7 +20,7 @@ You can find the instructions in the official [Hugo documentation](https://gohug
 
 Validate the installation by running `hugo version` in the command line.
 
-In addition, we use some node packages, for example bootstrap as UI toolkit. To install the packages,
+In addition, we use some node packages, for example pagefind for the search. To install the packages,
 install the node package manager `npm` on your machine. Instructions are available in the [official documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
 Validate the installation by running `npm --version` in the command line.
@@ -63,4 +63,24 @@ Now, enable `pre-commit` to run the check every time you want to commit changes:
 
 ```zsh
 pre-commit install
+```
+
+### Add new pages
+
+To add a new country:
+
+```zsh
+hugo new country/${COUNTRY} # Replace ${COUNTRY} with the English country name in lowercase
+```
+
+To add a new operator:
+
+```zsh
+hugo new operator/${OPERATOR} # Replace ${OPERATOR} with the English operator name in lowercase
+```
+
+To add a new booking platform:
+
+```zsh
+hugo new booking/${PLATFORM} # Replace ${PLATFORM} with the name of the booking platform
 ```

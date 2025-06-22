@@ -1,28 +1,58 @@
-countryselection: Länderauswahl
-country:
-  one: Land
-  many: Länder
-  other: Länder
-search-placeholder: Suche
-footer-love:
-  text: Made with ♥️ in Frankfurt & Köln
-  aria-label: Made with love in Frankfurt & Köln
-menu-open: Menü
-menu-close: Schließen
-general: Übergreifendes
-information-disclaimer-short: Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine rechtliche Verbindung zu FIP oder Bahngesellschaften.
-highlight-important: Wichtige Information
-highlight-inofficial: Inoffizielle Information
-highlight-tip: Persönlicher Tipp
-news-headline: Was gibt's Neues?
 _operator__list_title: Betreiber mit FIP
-updateDate: Zuletzt aktualisiert
-related: Verwandte Seiten
-toc_name: Inhalt
 _operator__nearby: Angrenzende Betreiber
-toc-backlink: Zurück zu
-editPage: Seite bearbeiten
-reportError: Melde ein Fehler
 anchorLink:
-  copy: Link zu diesem Abschnitt kopieren
   copied: Link wurde in die Zwischenablage kopiert
+  copy: Link zu diesem Abschnitt kopieren
+booking:
+  classes:
+    first: 1. Klasse
+    second: 2. Klasse
+  fip-50: FIP 50 Fahrkarten
+  fip-global-fare: FIP Globalpreis
+  reservation: Reservierung
+  reservation-costs: Reservierungskosten
+  title: Buchungsplattformen
+  visit-additional-information-website: Weitere Informationen
+  visit-booking-website: Zur Buchungsseite
+country:
+  many: Länder
+  one: Land
+  other: Länder
+countryselection: Länderauswahl
+editPage: Seite bearbeiten
+footer-love:
+  aria-label: Made with love in Frankfurt & Köln
+  text: Made with ♥️ in Frankfurt & Köln
+general: Übergreifendes
+highlight:
+  important: Wichtige Information
+  inofficial: Inoffizielle Information
+  tip: Persönlicher Tipp
+home-page-text: FIP Guide Startseite
+information-disclaimer-short: >-
+  Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
+  rechtliche Verbindung zu FIP oder Bahngesellschaften.
+menu-close: Schließen
+menu-open: Menü
+navigate-to-country: Gehe zu Land
+news-headline: Was gibt's Neues?
+news-other: Weitere News
+operators_without_fip: Betreiber ohne FIP
+related:
+  countries: Verwandte Länder
+  news: Verwandte News
+  operators: Verwandte Betreiber
+  operators-nearby: Angrenzende Betreiber
+related-countries: Verwandte Länder
+related-news: Verwandte News
+related-operators: Verwandte Betreiber
+reportError: Melde ein Fehler
+search-placeholder: Suche
+skipToContent: Zum Inhalt springen
+toc_name: Inhalt
+updateDate: Zuletzt aktualisiert
+wip: >-
+  An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein.
+  Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr
+  Information auf
+  GitHub](https://github.com/fipguide/fipguide.github.io/wiki/Deutsch).

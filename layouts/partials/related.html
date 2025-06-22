@@ -1,10 +1,31 @@
-{{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-{{ with $related }}
-<hr>
-<h3 id="related">{{ T "related"}}</h3>
-<ul aria-labelledby="related">
-  {{ range . }}
-  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-  {{ end }}
+{{ $pageType := .pageType | default .index }}
+{{ $related := where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
+{{ if gt (len $related) 0 }}
+<h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
+<ul class="o-related__list" aria-labelledby="o-related__title-{{ .identifier }}">
+{{ range $related }}
+    {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+    <li class="o-related__item">
+        {{ $text := .LinkTitle }}
+        {{ if eq .Page.Type "news" }}
+            {{ $text = print (partial "icon" "newspaper") $text }}
+        {{ else if eq .Page.Type "operator" }}
+            {{ $text = print (partial "logo" $object) $text }}
+        {{ else if eq .Page.Type "country" }}
+            {{ $text = print (partial "flag" $object) $text }}
+        {{ end }}
+
+        {{ partial "internal_link" (
+            dict
+                "Destination" .RelPermalink
+                "Text" ($text | .Page.RenderString)
+            )
+        }}
+
+        {{ if eq .Page.Type "news" }}
+            <span class="o-related__date">{{ .Date | time.Format ":date_long"}}</span>
+        {{ end }}
+    </li>
+{{ end }}
 </ul>
 {{ end }}

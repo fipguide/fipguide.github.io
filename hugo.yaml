@@ -32,6 +32,8 @@ related:
  indices:
    - name: country
      weight: 100
+   - name: operator
+     weight: 100
 
 markup:
   tableOfContents:
@@ -44,6 +46,10 @@ markup:
       # but since our content is in our control,
       # we can disable safe rendering.
       unsafe: true
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: false
 
 
 cascade:

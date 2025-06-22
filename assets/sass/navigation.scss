@@ -13,7 +13,7 @@
   display: flex;
   justify-content: space-between;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     justify-content: unset;
   }
 }
@@ -30,7 +30,7 @@
   display: flex;
   justify-content: flex-end;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: block;
   }
 }
@@ -39,7 +39,7 @@
   width: 100%;
   display: none;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: block;
   }
 }
@@ -47,35 +47,26 @@
 .o-header__nav nav h2 {
   display: block;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
   }
 }
 
 .o-header__logo {
   display: flex;
-  margin: .3rem;
+  margin: .6rem;
   position: relative;
   text-decoration: none;
+  border-radius: var(--border-radius-m);
 
-  h1 {
-    margin: 0;
-    font-size: 2.4rem;
-    color: var(--link-special);
-    font-weight: 700;
-    align-self: center;
-    text-wrap-mode: nowrap;
-
-    &:hover,
-    &:focus {
-      color: var(--link-hovered);
-      text-decoration: underline;
-    }
+  &:hover,
+  &:focus {
+    background-color: var(--bg-neutral);
   }
 
   img {
-    width: 5rem;
     height: 4.7rem;
+    padding: 0 .4rem
   }
 }
 
@@ -91,7 +82,7 @@
   left: 50%;
   transform: translateX(-50%);
   padding: 1rem;
-  margin: .3rem;
+  margin: .6rem;
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
@@ -119,7 +110,7 @@
 .o-nav__close-button {
   display: inline-flex;
   padding: 1rem;
-  margin: .3rem;
+  margin: .6rem;
   border: none;
   background: none;
   width: fit-content;
@@ -152,7 +143,7 @@
 .o-header__item .o-header__item-countries {
   display: flex;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
     z-index: 2;
     position: absolute;
@@ -172,7 +163,7 @@
 .o-nav__menu-button {
   display: flex;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
   }
 }
@@ -180,13 +171,13 @@
 .o-header__expand-button {
   display: none;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: flex;
   }
 }
 
 .o-header__nav--open nav {
-  @include media-breakpoint-down(md) {
+  @media (max-width: #{$breakpoint-md}) {
     display: flex;
     flex-direction: column;
     align-items: flex-end;

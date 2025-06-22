@@ -1,0 +1,46 @@
+@media print {
+    body { margin: 1.6cm; }
+
+    a {
+        text-decoration: none;
+        color: var(--bs-body-color);
+    }
+
+    a:not(.m-teaser) {
+        color: var(--bs-body-color);
+    }
+
+    p {
+        margin-bottom: 1rem;
+    }
+
+    main > .container.o-single,
+    main > .container.o-list {
+        margin-top: 0;
+    }
+
+    .o-single__container,
+    .container,
+    main > .container {
+        padding: 0;
+    }
+
+    .a-anchorlink__link,
+    picture,
+    .icon-arrow_outward,
+    .o-aside,
+    .o-list__picture,
+    .o-header__wrapper,
+    .o-footer__links,
+    .footnote-backref,
+    summary::before,
+    #search {
+        display: none;
+    }
+
+    details[open]::details-content { display: contents; }
+
+    a:not(.footnote-ref):not(.updateDate)::after {
+        content: " (" attr(href) ") ";
+    }
+}

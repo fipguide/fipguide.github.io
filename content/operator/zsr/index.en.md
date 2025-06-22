@@ -4,13 +4,14 @@ title: "ZSR / ZSSK"
 description: "Find out about the FIP conditions at ZSR / ZSSK."
 country:
   - "slovakia"
+operator: "zsr"
 ---
 
 The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in Slovakia.
 
 ## Summary
 
-- ZSSK accepts FIP free travel and FIP 50 tickets
+- ZSSK accepts FIP Coupons and FIP 50 tickets
 - Reservation required in IC and SC trains
 - Reservation required in 1st class in all trains
 - Offers for free travel for certain groups (children between 6 and 16, students up to 26, and pensioners from 62 years) regardless of FIP
@@ -29,135 +30,85 @@ FIP Coupons and FIP 50 tickets are valid on ZSSK connections with the restrictio
 Reservation required for SC and IC trains. Other ZSSK trains only require a reservation in 1st class.  [^2]
 {{% /highlight %}}
 
-{{% expander "SuperCity (SC) ⚠️" category %}}
+{{% expander "SuperCity (SC) ⚠️" traincategory category %}}
 **Description:** \
 Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**Cost of reservation:** 🔴 From 7 € \
+**Cost of reservation:** From €7 \
 Depending on route and occupancy (including surcharge for train category)
 {{% /expander %}}
 
-{{% expander "InterCity (IC) ⚠️" category %}}
+{{% expander "InterCity (IC) ⚠️" traincategory category %}}
 **Description:** \
 *Currently, the operation of InterCity trains has been suspended for economic reasons. The trains are being replaced by EX trains.* \
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**Cost of reservation:** 🔴 From 7 € \
+**Cost of reservation:** From €7 \
 Depending on route and occupancy (including surcharge for train category)
 {{% /expander %}}
 
-{{% expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣ ℹ️" category %}}
+{{% expander "EuroCity (EC) / RailJet (RJ) ⚠️1️⃣ ℹ️" traincategory category %}}
 **Description:** \
 Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. RJ trains are RailJet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section. \
 ℹ️ RJ is also the abbreviation for RegioJet, where no FIP tickets are valid. \
 **Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class \
-**Cost of reservation:** 🟢 \
-1 € (2nd class) \
-2 € (1st class)
+**Reservation required:** ⚠️1️⃣ only in 1st class
 {{% /expander %}}
 
-{{% expander "EuroNight (EN) ⚠️" category %}}
+{{% expander "EuroNight (EN) ⚠️" traincategory category %}}
 **Description:** \
 EN are international night trains that require reservations and offer the option to pay a surcharge for couchette or sleeper cars. Otherwise, they are similar to EC trains. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**Cost of reservation:** 🔴 \
+**Cost of reservation:** \
 Depending on route and occupancy as well as car category (including surcharge for train category)
 {{% /expander %}}
 
-{{% expander "Express (Ex) ⚠️1️⃣" category %}}
+{{% expander "Express (Ex) ⚠️1️⃣" traincategory category %}}
 **Description:** \
 A type of interregional train with fewer stops than a regional train but more than, for example, IC trains. They often have a dining car and run with comfortable locomotive-hauled trains. \
 **Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class \
-**Cost of reservation:** 🟢 \
-1 € (2nd class) \
-2 € (1st class)
+**Reservation required:** ⚠️1️⃣ only in 1st class
 {{% /expander %}}
 
-{{% expander "Rychlik (R) ⚠️1️⃣" category %}}
+{{% expander "Rychlik (R) ⚠️1️⃣" traincategory category %}}
 **Description:** \
 Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock. \
 **Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class \
-**Cost of reservation:** 🟢 \
-1 € (2nd class) \
-2 € (1st class)
+**Reservation required:** ⚠️1️⃣ only in 1st class
 {{% /expander %}}
 
-{{% expander "Osobní vlak (Os) ⚠️1️⃣" category%}}
+{{% expander "Osobní vlak (Os) ⚠️1️⃣" traincategory category%}}
 **Description:** \
 Standard regional trains that usually stop everywhere (there are exceptions). Especially on branch lines, they often run with outdated rolling stock. They are sometimes marketed as S-Bahn trains, but without really running on an S-Bahn schedule. \
 **Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class \
-**Cost of reservation:** 🟢 \
-1 € (2nd class) \
-2 € (1st class)
+**Reservation required:** ⚠️1️⃣ only in 1st class
 {{% /expander %}}
 
 ## Ticket and reservation purchase
-
 ### Online
 
-- [ZSSK website](https://www.zssk.sk): \
-  **Reservation:** ✅ \
-  In the connection search, you can select "I have the ticket already I want to purchase only reservation or additional service" on the English website. Then choose "Reservation" and select "International ticket/Rail Pass" as the discount in the passenger selection, ensuring "Entitled for 100% discount" is selected. \
-  **FIP 50 tickets:** ✅ \
-  Select "FIP Ticket 50%" as the discount during the purchase process.
-- Other options: \
-  Reservations are also possible through the websites of [CD](https://www.cd.cz), [DB](https://www.bahn.de), and [ÖBB](https://www.oebb.at) at sometimes different prices. IC and SC trains are excluded.
+{{% booking id="zssk_website"
+    subtitle="For national connections including IC & SC"
+/%}}
+
+{{% booking id="db_website"
+    subtitle="Excluding IC & SC"
+/%}}
 
 ### On-site
 
-- ZSR ticket counters: \
-  In Slovakia, there is an extensive network of ticket counters even at smaller stations. It is advantageous to speak some Slovak or Czech or have the appropriate translator app, as English (or German) is often not widely spoken. \
-  **Reservation:** ✅ \
-  **FIP 50 tickets:** ✅
-- Other options: \
-  FIP 50 tickets and reservations can also be purchased at CD, DB, and ÖBB travel centers.
+{{% booking id="zssk_ticket_office" /%}}
+
+{{% booking id="db_ticket_office"
+    subtitle="Excluding IC & SC"
+/%}}
 
 ### On the train
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
-
-## Arrival and border points
-
-### Czech Republic
-
-From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
-
-### Austria
-
-From Austria, cross-border InterCitys, RailJets, and regional trains (REX) are offered. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. FIP 50 tickets must be purchased cross-border.
-
-### Hungary
-
-From Hungary, both cross-border regional trains and EuroCity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP ticket of GySEV is required; in other cases, an additional FIP ticket of MAV-Start is required.
-
-### Poland
-
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK free travel passes are only valid up to the border point. Theoretically, it should be possible to travel cross-border for free with an additional free travel pass of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
-
-### Ukraine
-
-From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point. A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
-
-### Border Points
-
-{{% expander "Border points" %}}
-| Railway operator | Border Points                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------- |
-| ČD              | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)   |
-| GySEV           | Rajka (Gr)                                                                                                    |
-| MÁV             | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr)                          |
-| ÖBB             | Kittsee (Gr), Marchegg (Gr)                                                                                   |
-| PKP             | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                        |
-| UZ              | Čierna nad Tisou (Gr)                                                                                         |
-
-{{% /expander %}}
 
 ## Discounts
 
@@ -174,8 +125,10 @@ For children over 16 years, there is no discount, but it is possible for student
 
 ## Special Tariff Conditions
 
+### Break in the journey
 A break in the journey is only possible for distances of 101 km and more.
 
+### Busses and replacement services
 Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
 
 ## Sources
