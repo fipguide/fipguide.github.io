@@ -20,7 +20,18 @@
         placeholder: placeholderText,
       }
     });
+
+    // Close search drawer on outside click
+    document.addEventListener('mousedown', function(e) {
+      const search = document.getElementById('search');
+      if (!search) return;
+      if (search.contains(e.target)) return;
+      const closeBtn = search.querySelector('.pagefind-ui__search-clear');
+      if (closeBtn) closeBtn.click();
+    });
   });
+
+  // Open search on Ctrl + K or Cmd + K
   document.addEventListener('keydown', (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
       e.preventDefault();
