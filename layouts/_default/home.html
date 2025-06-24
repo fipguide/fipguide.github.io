@@ -1,16 +1,41 @@
 {{ define "main" }}
 <h1 class="sr-only">{{ T "home-page-text" }}</h1>
+<section class="container">
+  <div class="row o-startpage__intro">
+    <div class="col-12 col-lg-6 order-2 order-lg-1">
+      {{ .Content }}
+    </div>
+    <div class="col-12 col-lg-6 order-1 order-lg-2 o-startpage__image">
+      {{ $image := resources.Get "images/startpage.webp" }}
+      {{ partial "image" (dict "image" $image "eager" true) }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      {{ partial "search-slot" }}
+    </div>
+  </div>
+  <div class="row">
+    {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
+    {{ partial "shortcut-tile" (.Site.GetPage "country") }}
+    {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
+  </div>
+</section>
+<section class="container">
+  <div class="row">
+    <div class="col-12">
+      <h2>{{ T "support.title" }}</h2>
+      <p>{{ T "support.text" | safeHTML }}</p>
+    </div>
+  </div>
+</section>
+<section class="container">
+    <div class="row justify-content-center">
+        <h2>{{ T "news-headline"}}</h2>
+        {{ range first 3 (where site.RegularPages "Section" "news") }}
+          {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
+        {{ end }}
+    </div>
+</section>
 <div class="curtain" aria-hidden="true"></div>
-  {{ partial "stage.html" }}
-  <section class="container">
-    {{ .Content }}
-  </section>
-  <section class="container">
-      <div class="row justify-content-center">
-          <h2>{{ T "news-headline"}}</h2>
-          {{ range first 3 (where site.RegularPages "Section" "news") }}
-            {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
-          {{ end }}
-      </div>
-  </section>
 {{ end }}
