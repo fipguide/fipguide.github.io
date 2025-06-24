@@ -8,7 +8,7 @@ params:
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
-{{< snippet wip >}}
+{{< wip >}}
 
 ## FIP Information
 
