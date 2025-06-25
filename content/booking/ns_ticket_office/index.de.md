@@ -32,7 +32,7 @@ FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenscha
 - Utrecht Centraal
 - Zaandam
 - Zwolle
-{.o-list--columns-3}
+{.o-section--columns-3}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

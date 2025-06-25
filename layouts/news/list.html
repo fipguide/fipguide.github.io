@@ -1,10 +1,13 @@
 {{ define "main" }}
-  <div class="container o-list">
+  <article class="container o-list o-list--news">
     <div class="row">
       <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-      {{ .Content }} {{ range .Pages }}
-      {{ partial "teaser.html" (dict "listview" "true" "page" .) }}
-      {{ end }}
+      {{ .Content }}
+      <div class="row">
+        {{ range .Pages }}
+          {{ partial "teaser" (dict "listview" "true" "page" .) }}
+        {{ end }}
+      </div>
     </div>
-  </div>
+  </article>
 {{ end }}

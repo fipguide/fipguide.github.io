@@ -39,5 +39,5 @@ Internationale Reservierungen können an den internationalen Ticketschaltern in 
 - Schweden
 - Schweiz
 - Tschechien
-{.o-list--columns-3}
+{.o-section--columns-3}
 {{% /booking-section %}}
