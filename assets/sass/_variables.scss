@@ -2,6 +2,7 @@ $breakpoint-sm: 576px;
 $breakpoint-md: 768px;
 $breakpoint-lg: 992px;
 $breakpoint-xl: 1200px;
+$breakpoint-xxl: 1400px;
 
 $link-hovered: #8F2501;
 $link-default: #BA3D12;
@@ -16,7 +17,6 @@ $color-onLight: #000000;
 $color-table-border: #5B5B5B;
 
 body {
-  --bs-light-rgb: 219, 224, 229;
   --pagefind-ui-scale: 1;
   --pagefind-ui-text: #000;
   --link-default: #{$link-default};
@@ -30,11 +30,12 @@ body {
   --color-onDark: #{$color-onDark};
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
+  --color-body: rgb(33, 37, 41);
   --border-radius-s: .4rem;
   --border-radius-m: .8rem;
   --border-radius-l: 1.6rem;
   --pagefind-ui-border-radius: var(--border-radius-l);
   --pagefind-ui-border: #000;
-  --bs-highlight-bg: var(--bg-accent);
   --box-shadow: 0 .4rem 1rem rgba(0,0,0,.25);
+  --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0,0,0,.1);
 }

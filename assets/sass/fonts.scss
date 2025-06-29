@@ -79,7 +79,7 @@
   font-display: block; // Do not display icons until font is fully loaded
 }
 
-body {
+body, button {
   font-family: "Roboto",Arial,Helvetica,sans-serif;
   word-wrap: break-word;
   hyphens: auto;

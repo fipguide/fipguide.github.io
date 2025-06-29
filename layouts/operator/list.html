@@ -1,19 +1,19 @@
 {{ define "main" }}
-<article class="container o-list">
-  <div class="row">
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-    {{ .Content }}
-      {{ range .Pages }}
-      <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
-        <div class="o-list__picture">
-          {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-          {{ partial "logo" $object }}
-        </div>
-        <div>
-          {{ .Title }}
-        </div>
-      </a>
-      {{ end }}
-    </div>
-  </article>
+<article class="o-card">
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="o-list">
+    {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="o-list__link">
+      <div class="o-list__picture">
+        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
+        {{ partial "logo" $object }}
+      </div>
+      <div>
+        {{ .Title }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</article>
 {{ end }}

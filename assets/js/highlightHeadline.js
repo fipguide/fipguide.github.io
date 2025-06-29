@@ -13,10 +13,10 @@ function initHighlightHeadline() {
         return; // No headings? No business here
     }
 
-    // A few helper functions (.toc is the top-level ordered list)
+    // A few helper functions (.o-aside__toc is the top-level ordered list)
     const markTocItemActive = (a) => {return a.setAttribute('data-current', '');}
     const markTocItemInactive = (a) => {return a.removeAttribute('data-current');};
-    const getTocLinkFromHeading = (h) => {return document.querySelector(`.toc a[href="${windowPath}#${encodeURIComponent(h.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`);}
+    const getTocLinkFromHeading = (h) => {return document.querySelector(`.o-aside__toc a[href="${windowPath}#${encodeURIComponent(h.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`);}
 
     const getDocHeight = () => Math.floor(document.body.clientHeight);
 
