@@ -1,5 +1,6 @@
 User-agent: *
 
+
 {{- $imprintPage := site.GetPage "imprint" }}
 {{- if $imprintPage }}
 Disallow: {{ $imprintPage.RelPermalink }}
@@ -15,4 +16,15 @@ Disallow: {{ $privacyPage.RelPermalink }}
 Disallow: {{ .RelPermalink }}
 {{- end }}
 {{- end }}
-Sitemap: {{ "sitemap.xml" | absURL }}
+
+{{- range .Sites }}
+Disallow: {{ .LanguagePrefix }}/booking/
+{{- end }}
+
+{{- range .Sites }}
+Disallow: {{ .LanguagePrefix }}/tags
+{{- end }}
+
+{{- range .Sites }}
+Disallow: {{ .LanguagePrefix }}/categories
+{{- end }}
