@@ -177,4 +177,4 @@ Ohne FIP Rabatt ist die Buchung Online möglich über [Trainsplit](https://train
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 [^2]: DB Reisemarkt
-[^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)
+[^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm#buy-a-ticket-to-london-international-civ)
