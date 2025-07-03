@@ -125,17 +125,56 @@ Alle FIP-Tarife unterliegen einer Kontingentierung, weshalb eine frühzeitige Bu
 
 Für Eurostar-Züge, die freitags, samstags und sonntags zwischen 17.30 Uhr und 19.00 Uhr abfahren, besteht das FIP-Angebot (1. Klasse und 2. Klasse) nicht. [^2]
 
-### Anschlüsse - HOTNAT
+### Anschlüsse
+
+#### HOTNAT (Umstieg in Brüssel, Köln, Paris)
 
 {{% highlight tip %}}
+
 Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
 
 Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers ausgewichen werden. Dazu kann am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
 
 HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
+
+{{% /highlight %}}
+
+#### London International CIV (Umstieg in London)
+
+{{% highlight tip %}}
+
+**Erklärung**
+
+Für eine Anschlusssicherung beim Umstieg in London von einem britischen Zug auf den Eurostar oder umgekehrt, kann eine Fahrkarte mit dem Abfahrts- oder Ankunftsbahnhof _London International CIV_ gebucht werden.
+
+Die Tickets sind in zwei Versionen erhältlich:
+- _Advance_ (muss im Voraus gebucht werden, Preis variiert, gilt nur für die angegebene Abfahrt)
+- _Euro Open/Euro Saver_ (flexibles Ticket für alle Züge an dem Tag).
+
+Fahrkarten nach London International sind nur auf bestimmten, jedoch den meisten, Relationen verfügbar.
+
+Auf [BR Fares](https://www.brfares.com/) kann die Verfügbarkeit von Fahrkarten geprüft werden. Dazu _(LNE) London International (CIV)_ als Bahnhof eintragen. Eine Verfügbarkeit von diesen speziellen Fahrkarten mit Anschlusssicherung wird durch einen Tarif mit _EURO_ im Namen angezeigt.
+
+**Anschlusssicherung**
+
+Fahrkarten nach oder von _London International CIV_ unterliegen für die gesamte Reise den Internationalen Beförderungsbedingungen (CIV, Convention Internationale pour le transport des Voyageurs) und nicht den nationalen britischen Beförderungsbedingungen (National Rail Conditions of Travel).
+
+Dadurch ist eine Absicherung im Falle einer Verspätung eines britischen Zugs und eines dadurch verpassten Eurostar-Anschlusses gewährleistet. Eurostar ist verpflichtet, ohne Aufpreis auf den nächsten verfügbaren Zug umzubuchen. Oder sollte Eurostar auf der Rückreise verspätet in London ankommen und dadurch der Anschlusszug in UK verpasst werden, ist das britische Eisenbahnunternehmen verpflichtet, die Weiterreise mit dem nächsten verfügbaren Zug zu ermöglichen – auch wenn das Ticket zuggebunden ist.
+
+**London Underground**
+
+Bei Ankunft an einem anderen Londoner Kopfbahnhof und der Notwendigkeit, die U-Bahn zu nutzen, um St Pancras zu erreichen, beinhalten Fahrkarten nach London International die Fahrt mit der London Underground.
+
+**Ticketbuchung**
+
+FIP Tickets nach London International CIV können vermutlich nur an Schaltern an Bahnhöfen in Großbritannien erworben werden.
+
+Ohne FIP Rabatt ist die Buchung Online möglich über [Trainsplit](https://trainsplit.com/). Dazu muss die Option _Use Split Tickets_ deaktiviert werden. Anschließend kann ein Ticket von oder nach _London International (for Eurostar) (LNE)_ gebucht werden. Der Tarif muss aber zwingend _EURO_ im Namen enthalten, wenn eine Verbindung ausgewählt wurde. Andernfalls handelt es sich um ein normales Ticket nach London ohne Anschlusssicherung. [^3]
+
 {{% /highlight %}}
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 [^2]: DB Reisemarkt
+[^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)
