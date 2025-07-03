@@ -159,7 +159,7 @@ Auf [BR Fares](https://www.brfares.com/) kann die Verfügbarkeit von Fahrkarten 
 
 Fahrkarten nach oder von _London International CIV_ unterliegen für die gesamte Reise den Internationalen Beförderungsbedingungen (CIV, Convention Internationale pour le transport des Voyageurs) und nicht den nationalen britischen Beförderungsbedingungen (National Rail Conditions of Travel).
 
-Dadurch ist eine Absicherung im Falle einer Verspätung eines britischen Zugs und eines dadurch verpassten Eurostar-Anschlusses gewährleistet. Eurostar ist verpflichtet, ohne Aufpreis auf den nächsten verfügbaren Zug umzubuchen. Oder sollte Eurostar auf der Rückreise verspätet in London ankommen und dadurch der Anschlusszug in UK verpasst werden, ist das britische Eisenbahnunternehmen verpflichtet, die Weiterreise mit dem nächsten verfügbaren Zug zu ermöglichen – auch wenn das Ticket zuggebunden ist.
+Dadurch ist eine Absicherung im Falle einer Verspätung eines britischen Zugs und eines dadurch verpassten Eurostar-Anschlusses gewährleistet. Eurostar ist verpflichtet, ohne Aufpreis auf den nächsten verfügbaren Zug umzubuchen. Oder sollte Eurostar verspätet in London ankommen und dadurch der Anschlusszug in UK verpasst werden, ist das britische Eisenbahnunternehmen verpflichtet, die Weiterreise mit dem nächsten verfügbaren Zug zu ermöglichen – auch wenn das Ticket zuggebunden ist.
 
 **London Underground**
 
