@@ -5,7 +5,7 @@ description: "Informationen über die FIP-Bedingungen für die Schweiz und für 
 country: "switzerland"
 ---
 
-{{< snippet wip >}}
+{{< wip >}}
 
 ## FIP Nutzung
 

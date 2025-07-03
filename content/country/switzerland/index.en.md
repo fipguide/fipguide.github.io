@@ -5,7 +5,7 @@ description: "Information about FIP conditions for Switzerland and which operato
 country: "switzerland"
 ---
 
-{{< snippet wip >}}
+{{< wip >}}
 
 ## FIP Usage
 

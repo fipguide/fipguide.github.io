@@ -40,12 +40,7 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
 ℹ️ Die Züge sind außerhalb der Schweiz und grenzüberschreitenden Fahren reservierungspflichtig. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** 🟡 \
-| Relation               | Preis (1./2. Klasse)                     |
-|------------------------|------------------------------------------|
-| Innerhalb der Schweiz  | 5 CHF                                    |
-| International          | Abhängig von Auslastung und Fahrtstrecke |
+**Reservierungspflicht:** ⚠️ ja (grenzüberschreitende Fahrten)
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️ ℹ️" category %}}
@@ -53,9 +48,7 @@ Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unteranderem nach Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
 ℹ️ Die Züge verkehren innerhalb der Schweiz teilweise zusätzlich auch als Intercity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung innerhalb der Schweiz. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity und Regionalzügen) \
-**Kosten für Reservierung:** 🔴 \
-Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
+**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity und Regionalzügen)W
 {{% /expander %}}
 
 
@@ -63,20 +56,14 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für 
 **Beschreibung:** \
 Schnelle Nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. Beim ICN mit Neigetechnik. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟡 \
-5 CHF (2. Klasse) \
-5 CHF (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
 **Beschreibung:** \
 Nationale Züge mit Halten in größeren Städten. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟡 \
-5 CHF (2. Klasse) \
-5 CHF (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Regio (R) / S-Bahn (S)" category %}}
@@ -90,68 +77,34 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 
 ### Online
 
-- [Website der ZSSK](https://www.zssk.sk): \
-  **Reservierung:** ✅ \
-  In der Verbindungsauskunft kann mit einem FIP Freifahrtschein, in der Verbindung auf der englischen Website "I have the ticket already I want to purchase only reservation or additional service" ausgewählt werden. Danach "Reservation" wählen und bei der Personenauswahl als Rabatt "International ticket/Rail Pass" auswählen, sowie darauf achten, dass anschließend "Entitled for 100% discount" ausgewählt ist. \
-  **FIP 50 Fahrkarten:** ✅ \
-  Im Kaufprozess als Rabatt "FIP Ticket 50%" auswählen.
-- Weitere Möglichkeiten: \
-  Reservierungen sind auch über die Websites der [CD](https://www.cd.cz), [DB](https://www.bahn.de) und [ÖBB](https://www.oebb.at) möglich. Zu teilweise abweichenden Preisen. Ausgenommen davon sind die IC und SC Züge.
+{{% booking id="sbb_website"/%}}
 
-https://www.interrail.eu/de/plan-your-trip/tips-and-tricks/trains-europe/trains-country/trains-switzerland#tabs-c28efb953e-item-77a1e02bba-tab
+{{% booking id="db_website"/%}}
+
+{{% booking id="db_website_fip_db"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+/%}}
+
+{{% booking id="db_website_fip_international"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+/%}}
 
 ### Vor Ort
 
-- Schalter der ZSR: \
-  In der Slowakei gibt es ein umfängreiches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist. \
-  **Reservierung:** ✅ \
-  **FIP 50 Fahrkarten:** ✅
-- Weitere Möglichkeiten: \
-  FIP 50 Fahrkarten und Reservierungen können auch bei der CD, DB und ÖBB in den Reisezentren gekauft werden.
+{{% booking id="sbb_ticket_office"/%}}
+
+{{% booking id="sbb_ticket_machine"/%}}
 
 ### Im Zug
 
-Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket (oder Reservierung im Ex) beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird.[^1]
-
-## Anreise und Grenzpunkte
-
-### Deutschland
-
-Von Deutschland aus können über Basel die ICE Züge aus ganze Deutschland in die Schweiz genutzt werden. Der Grenzbahnhof ist Basel Badischer Bahnhof, ab diesem Halt wird ein SBB Ticket benötigt. Auf der S-Bahnline S6 ist das Deutschlandticket jedoch auch zwischen Basel Badischer Bahnhof und Basel SBB gültig.
-
-Über Singen und Schaffhausen können die IC Züge aus Stuttgart oder Regionalzüge genutzt werden. Bei den Linien der S-Bahn Schaffhausen ist das Deutschland-Ticket ebenso gültig, d.h. zwischen Erzingen – Schaffhausen – Thayngen – Singen und zudem auch auf der Strecke Schaffhausen – Lottstetten.
-
-Von Konstanz aus verkehren S-Bahnen und InterRegios nach Zürich und teilweise darüber hinaus.
-
-Von München aus können die ECE Züge nach Zürich genutzt werden. Die Züge fahren über Lindau und Bregenz in Österreich. Daher ist hierbei ein Ticket für den östereichischen Abschnitt erforderlich.
-
-### Österreich
-
-### Lichtenstein
-
-### Italien
-
-### Frankreich
-
-### Grenzpunkte
-
-{{% expander "Grenzpunkte" %}}
-| Bahngesellschaft | Grenzpunkte                                                                                                 |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| ČD               | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| GySEV            | Rajka (Gr)                                                                                                  |
-| MÁV              | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr)                        |
-| ÖBB              | Kittsee (Gr), Marchegg (Gr)                                                                                 |
-| PKP              | Lupkow (Gr), Plaveč (Gr), Skalité (Gr)                                                                      |
-| UZ               | Čierna nad Tisou (Gr)                                                                                       |
-
-{{% /expander %}}
 
 ## Ermäßigungen
 
-Für öffentliche Tarife reisen Kinder bis 6 Jahre kostenlos. Kinder bis 16 Jahre erhalten 50 % Ermäßigung auf den Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen Erwachsenentarif.
+For public fares, children up to 6 years old travel free. Children up to 16 years old are eligible for a 50% reduction on the adult fare. Persons aged 16 and older pay the adult fare.
 
 ## Tarifliche Besonderheiten
+
+### Busse und Schienenersatzverkehr
 
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
 
