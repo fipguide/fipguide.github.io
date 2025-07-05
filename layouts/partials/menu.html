@@ -1,12 +1,12 @@
 
 {{ $logo := resources.Get "images/logo.svg" }}
-<div class="container o-header__wrapper">
+<div class="o-container o-header__wrapper">
   <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
   <a href="/" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
     <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
   </a>
   <div class="o-header__curtain"></div>
-  <div class="o-header__nav container">
+  <div class="o-header__nav o-container">
     <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
       <span>{{ T "menu-open" }}</span>
       {{ partial "icon" "menu" }}

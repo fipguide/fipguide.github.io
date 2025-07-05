@@ -2,7 +2,7 @@
 {{ $dateHuman := partial "helper/dateHuman" . }}
 
 {{ if eq .Type "news" }}
-  <div class="updateDate" data-pagefind-ignore="all">
+  <div class="o-last-updated" data-pagefind-ignore="all">
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   </div>
 
@@ -12,7 +12,7 @@
     href="{{ $href }}"
     target="_blank"
     rel="noopener noreferrer"
-    class="updateDate"
+    class="o-last-updated"
     aria-label="Open the commit history of the page"
     data-pagefind-ignore="all"
   >
