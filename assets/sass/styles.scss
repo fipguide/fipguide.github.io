@@ -19,8 +19,7 @@ p, ul, ol {
 }
 
 ul, ol {
-  list-style-position: inside;
-  padding: 0;
+  padding-left: 2rem;
 }
 
 button {
@@ -131,7 +130,7 @@ img {
   margin-left: 2.4rem;
 }
 
-.o-list {
+.o-list__list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1rem;
@@ -152,13 +151,14 @@ img {
   }
 }
 
-.o-section{
+.o-section {
   @include add-columns(1);
   @include add-columns(2);
   @include add-columns(3);
 }
 
-.o-single {
+.o-single,
+.o-list {
   padding: 2rem;
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
@@ -168,7 +168,7 @@ img {
     background-color: inherit;
   }
 
-  &__o-container {
+  &__container {
     background-color: var(--bg-default);
     padding: 2rem;
     border-radius: var(--border-radius-l);

@@ -3,30 +3,25 @@ title: "Kontakt"
 description: "Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen und Anmerkungen erreichbar und freuen uns auf deinen Inhaltsbeitrag."
 ---
 
-<form action="https://api.web3forms.com/submit" method="POST" class="m-form">
+<form action="https://api.web3forms.com/submit" method="POST" class="m-form" aria-label="Kontaktformular">
     <input type="hidden" name="access_key" value="29293094-c9cc-48b7-9ff6-31b42534e211">
     <input type="hidden" name="from_name" value="FIPGuide">
     <input type="hidden" name="subject" value="New Message from FIPGuide">
     <input type="hidden" name="redirect" value='{{< ref "success" >}}'>
 
-    <div>
-        <label for="name">Name:</label><br />
+    <label for="name">Name:
         <input type="text" id="name" name="name" autocomplete="name" required>
-    </div>
+    </label>
 
-    <div>
-        <label for="email">E-Mail-Adresse:</label><br />
+    <label for="email">E-Mail-Adresse:
         <input type="email" id="email" name="email" autocomplete="email" required>
-    </div>
+    </label>
 
-    <div>
-        <label for="message">Nachricht:</label><br />
+    <label for="message">Nachricht:
         <textarea id="message" name="message" rows="4" cols="50" required></textarea>
-    </div>
+    </label>
 
-    <div>
-        <input type="submit" value="Absenden">
-    </div>
+    <input type="submit" value="Absenden">
 </form>
 
 Oder schreibe uns eine Mail: <a href="mailto:nextstop@fipguide.org">nextstop@fipguide.org</a>
