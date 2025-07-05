@@ -61,12 +61,12 @@
       {{- if $mainEntity }}
         {{- if eq $pageType "FAQPage" -}}
         "mainEntity": [{
-          "@type": "{{ $mainEntity }}",
+          "@type": "Question",
           "name": "Was ist FIP?",
           "acceptedAnswer": "Vergünstigung"
         },
         {
-          "@type": "{{ $mainEntity }}",
+          "@type": "Question",
           "name": "Was ist FIP?",
           "acceptedAnswer": "Vergünstigung"
         }
@@ -97,9 +97,4 @@
   ]
 }
   </script>
-<p>Hallo</p>
-{{ $content := .Page.Content }}
-{{ $dlElements := findRE "<dl\\b[^>]*>(.*?)</dl>" $content }}
-{{ range $dlElements }}
-{{ . }}
-{{ end }}
+
