@@ -1,5 +1,5 @@
 #header {
-  position: fixed;
+  position: sticky;
   width: 100%;
   top: 0;
   box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
@@ -9,6 +9,7 @@
   background-color: var(--bg-default);
   z-index: 5;
   position: relative;
+  height: 6rem;
 }
 
 .o-header__wrapper {

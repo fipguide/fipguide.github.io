@@ -26,9 +26,20 @@
       const search = document.getElementById('search');
       if (!search) return;
       if (search.contains(e.target)) return;
-      const closeBtn = search.querySelector('.pagefind-ui__search-clear');
-      if (closeBtn) closeBtn.click();
+      const searchInput = search.querySelector('input.pagefind-ui__search-input');
+      if (searchInput && document.activeElement === searchInput) {
+        const closeBtn = search.querySelector('.pagefind-ui__search-clear');
+        if (closeBtn) closeBtn.click();
+      }
     });
+
+    // Scroll to search on click
+    const search = document.getElementById('search');
+    if (search) {
+      search.addEventListener('click', function() {
+        search.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    }
   });
 
   // Open search on Ctrl + K or Cmd + K
@@ -38,6 +49,10 @@
       const searchElement = document.querySelector('#search input');
       if (searchElement) {
         searchElement.focus();
+        const search = document.getElementById('search');
+        if (search) {
+          search.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
       }
     }
   });

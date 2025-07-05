@@ -1,6 +1,7 @@
 html {
   font-size: 62.5%;
   color: var(--color-onLight);
+  scroll-padding-top: 8rem;
   scroll-behavior: smooth;
 }
 
@@ -46,9 +47,8 @@ a {
   }
 }
 
-//space for fixed header
 main {
-  margin-top: 8rem;
+  margin-top: 2rem;
 }
 
 .o-container {
