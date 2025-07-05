@@ -1,4 +1,10 @@
 <dl>
-  <dt><h2>{{ .Get 0 }}</h2></dt>
-  <dd>{{ .Inner }}</dd>
+  <dt itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">{{ .Get 0 }}</h2>
+  </dt>
+  <dd itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+    <div itemprop="text">
+      {{- .Inner -}}
+    </div>
+  </dd>
 </dl>
