@@ -1,18 +1,20 @@
 {{ define "main" }}
-  <div class="container o-list">
-    <div class="row">
-      <h1 data-pagefind-meta="title">{{ T "booking.title" }}</h1>
+  <div class="o-list o-list__container">
+      <h1 data-pagefind-meta="title" id="booking-title">{{ T "booking.title" }}</h1>
       {{ .Content }}
-      {{ range .Pages }}
-      <a href="{{ .RelPermalink }}" class="m-teaser m-teaser--listview">
-        <div>
-          <h3 class="m-teaser__headline">{{ .Title }}</h3>
-          <div class="m-teaser__text">
-            {{ .Summary | plainify | truncate 100 }}
-          </div>
-        </div>
-      </a>
-      {{ end }}
-    </div>
+      <ul aria-labelledby="booking-title">
+        {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}" class="m-teaser m-teaser--listview">
+            <div>
+              <h3 class="m-teaser__headline">{{ .Title }}</h3>
+              <div class="m-teaser__text">
+                {{ .Summary | plainify | truncate 100 }}
+              </div>
+            </div>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
   </div>
 {{ end }}
