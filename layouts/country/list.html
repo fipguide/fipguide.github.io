@@ -1,10 +1,10 @@
 {{ define "main" }}
-  <article class="container o-list">
-    <div class="row">
-      <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-      {{ .Content }}
+  <article class="o-list o-list__container">
+    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+    {{ .Content }}
+    <div class="o-list__list">
       {{ range .Pages }}
-      <a href="{{ .RelPermalink }}" class="col-12 col-lg-4 col-sm-6 o-list__link">
+      <a href="{{ .RelPermalink }}" class="o-list__link">
         <div class="o-list__picture">
           {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
           {{ partial "flag" $object }}
@@ -15,5 +15,5 @@
       </a>
       {{ end }}
     </div>
-  </div>
+  </article>
 {{ end }}
