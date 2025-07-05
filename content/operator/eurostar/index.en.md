@@ -124,7 +124,9 @@ All FIP fares are subject to quotas, so early booking is recommended.
 
 For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM and 7:00 PM, the FIP offer (1st Class and 2nd Class) is not available. [^2]
 
-### Connections - HOTNAT
+### Connections
+
+#### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
 {{% highlight tip %}}
 Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) can be used.
@@ -134,7 +136,43 @@ If a connection is missed due to delays or cancellations when transferring betwe
 HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
 {{% /highlight %}}
 
+#### London International CIV (Transfer in London)
+
+{{% highlight tip %}}
+
+**Explanation**
+
+To ensure a protected connection when transferring in London between a British train and Eurostar (or vice versa), you can book a ticket with the departure or arrival station _London International CIV_.
+
+These tickets are available in two versions:
+- _Advance_ (must be booked in advance, price varies, valid only for the specified departure)
+- _Euro Open/Euro Saver_ (flexible ticket valid for all trains on the selected day).
+
+Tickets to London International are only available on certain, but most, routes.
+
+You can check ticket availability on [BR Fares](https://www.brfares.com/) by entering _(LNE) London International (CIV)_ as the station. The availability of these special protected connection tickets is indicated by a fare with _EURO_ in the name.
+
+**Connection Protection**
+
+Tickets to or from _London International CIV_ are subject to the International Conditions of Carriage (CIV, Convention Internationale pour le transport des Voyageurs) for the entire journey, not the UK National Rail Conditions of Travel.
+
+This ensures protection in case a British train is delayed and a Eurostar connection is missed. Eurostar is obliged to rebook you onto the next available train at no extra cost. Similarly, if Eurostar arrives late in London on your return and you miss your onward UK train, the British train company must allow you to continue your journey on the next available train—even if your ticket is train-specific.
+
+**London Underground**
+
+If you arrive at a different London terminus and need to use the Underground to reach St Pancras, tickets to London International include travel on the London Underground.
+
+**Ticket Purchase**
+
+FIP tickets to London International CIV can likely only be purchased at ticket counters in stations in Great Britain.
+
+Without FIP discount, online booking is possible via [Trainsplit](https://trainsplit.com/). You must deselect the _Use Split Tickets_ option. Then, book a ticket from or to _London International (for Eurostar) (LNE)_. The fare must include _EURO_ in the name for connection protection. Otherwise, it is a regular ticket to London without connection protection. [^3]
+
+{{% /highlight %}}
+
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 [^2]: DB Travel Market
+[^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)
