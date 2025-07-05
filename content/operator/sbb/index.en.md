@@ -176,10 +176,21 @@ For children over 16 years, there is no discount, but it is possible for student
 
 A break in the journey is only possible for distances of 101 km and more.
 
+### Buses and rail replacement services
+
 Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+
+### Mutual Recognition of FIP Coupons by SBB and BLS
+
+The Swiss railway companies SBB and BLS have established an agreement for the mutual recognition of FIP Coupons.
+SBB's international FIP Coupons are fully accepted across the entire BLS rail network. [^3]
+
+However, these FIP Coupons are not valid on BLS-operated boats on Lake Thun and Lake Brienz, nor on BLS buses, which primarily operate in the Emmental region. [^3]
 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
+
+[^3]: DB Reisemarkt

@@ -106,8 +106,17 @@ For public fares, children up to 6 years old travel free. Children up to 16 year
 
 ### Busse und Schienenersatzverkehr
 
-FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
+FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar. [^2]
+
+### Gegenseitige Anerkennung von Freifahrscheinen der SBB und BLS
+
+Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen.
+Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^3]
+
+Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^3]
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
+[^3]: DB Reisemarkt
