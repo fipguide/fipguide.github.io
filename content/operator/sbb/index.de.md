@@ -110,6 +110,13 @@ Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 6 J
 
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
 
+### Gegenseitige Anerkennung von Freifahrscheinen der SBB und BLS
+
+Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen.
+Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+
+Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]  
+
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Beide Züge sind auch eine der wenigen Züge in der Schweiz, die reservierungspflichtig sind. Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich).  
 
@@ -122,4 +129,4 @@ Der FIP-Freifahrtsschein lohnt sich für die SBB / CFF / FSS besonders, da hier 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-[^2]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
+[^2]: DB Reisemarkt
