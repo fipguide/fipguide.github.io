@@ -16,13 +16,16 @@ params:
 {{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
-In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweitz und in vielen europäischen Ländern erworben werden.
+In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweitz und in viele europäischen Länder erworben werden.
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Reservierungen können für die Schwiz, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
+Reservierungen können für die Schweiz, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
 
 {{% /booking-section %}}
+
+**Quellen**
+[^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

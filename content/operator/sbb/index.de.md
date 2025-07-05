@@ -11,7 +11,7 @@ Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, 
 ## Zusammenfassung
 
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht und Zuschläge für einige internationalen Eurocity-Züge und alle TGV Zügen
+- Reservierungspflicht und Zuschläge für einige internationale Eurocity-Züge und alle TGV-Züge
 
 ## Gültigkeit FIP-Tickets
 
@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
 
 {{% expander "Intercity Express (ICE)" category %}}
 **Beschreibung:** \
-Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel. \
+Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein \
 **Kosten für Reservierung:** 🟡 \
@@ -38,23 +38,23 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
 {{% expander "Train à Grande Vitesse (TGV) ℹ️" category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
-ℹ️ Die Züge sind außerhalb der Schweiz und grenzüberschreitenden Fahren reservierungspflichtig. \
+ℹ️ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja (grenzüberschreitende Fahrten)
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️ ℹ️" category %}}
 **Beschreibung:** \
-Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unteranderem nach Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
-ℹ️ Die Züge verkehren innerhalb der Schweiz teilweise zusätzlich auch als Intercity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung innerhalb der Schweiz. \
+Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
+ℹ️ Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity und Regionalzügen)W
+**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei InterCity, EuroCity und Regionalzügen)
 {{% /expander %}}
 
 
-{{% expander "InterCity (IC) / InterCity Neigezug (ICN)" category %}}
+{{% expander "InterCity (IC)" category %}}
 **Beschreibung:** \
-Schnelle Nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. Beim ICN mit Neigetechnik. \
+Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -69,7 +69,7 @@ Nationale Züge mit Halten in größeren Städten. \
 {{% expander "Regio (R) / S-Bahn (S)" category %}}
 **Beschreibung:** \
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet. \
-**Reservierung möglich:** nein \
+**Reservierung möglich:** nein 
 {{% /expander %}}
 
 
@@ -97,10 +97,12 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 
 ### Im Zug
 
+Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets.
+
 
 ## Ermäßigungen
 
-For public fares, children up to 6 years old travel free. Children up to 16 years old are eligible for a 50% reduction on the adult fare. Persons aged 16 and older pay the adult fare.
+Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 6 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
 
 ## Tarifliche Besonderheiten
 
@@ -108,6 +110,16 @@ For public fares, children up to 6 years old travel free. Children up to 16 year
 
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
 
+### Grenzüberschreitende Züge (Italien, Frankreich)
+Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Beide Züge sind auch eine der wenigen Züge in der Schweiz, die reservierungspflichtig sind. Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich).  
+
+## Empfehlungen
+
+{{% highlight tip %}}
+Der FIP-Freifahrtsschein lohnt sich für die SBB / CFF / FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
+{{% /highlight %}}
+
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^2]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
