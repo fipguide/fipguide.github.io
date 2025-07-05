@@ -1,0 +1,11 @@
+<dl>
+  <dt itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h3 itemprop="name">{{ .Get 0 }}</h3>
+  </dt>
+  <dd itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+    <div itemprop="text">
+      {{- .Inner -}}
+    </div>
+  </dd>
+</dl>
+<hr class="o-divider">

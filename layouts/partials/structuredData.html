@@ -1,4 +1,10 @@
 {{ $dateMachine := partial "helper/dateMachine" . }}
+
+{{ $pageType := "WebPage" }}
+{{ if eq .Page.Type "generalinformation" }}
+  {{ $pageType = "FAQPage" }}
+{{ end }}
+
 {{ $mainEntity := "" }}
 {{ if (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
   {{ $mainEntity = "Article" }}
@@ -17,7 +23,7 @@
       "url": {{ page.Site.BaseURL }}
     },
     {
-      "@type": "WebPage",
+      "@type": "{{ $pageType }}",
       "url": {{ .Permalink }},
       "name": "{{ .Title }}",
       "publisher": {
