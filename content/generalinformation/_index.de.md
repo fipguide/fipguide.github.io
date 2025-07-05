@@ -17,7 +17,7 @@ In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderh
 
 Es gibt zwei Möglichkeiten zur Nutzung:
 1. **FIP-Card:** die FIP-Card ist drei Jahre gültig und berechtigt zum unlimitierten Kauf von vergünstigten Bahntickets im Ausland.
-2. **FIP Coupons:** pro Jahr und FIP-Mitglied kannst du FIP Coupons erhalten, welche für bis zu acht Tage ermöglichen.
+2. **FIP Coupons:** pro Jahr und FIP-Mitglied kannst du FIP Coupons erhalten, welche Reisen für bis zu acht Tage ermöglichen.
 
 Die genauen Regelungen findest du auf den Unterseiten der [Betreiber]({{< ref "operator" >}}).
 
@@ -27,6 +27,22 @@ Die genauen Regelungen findest du auf den Unterseiten der [Betreiber]({{< ref "o
 
 Mitarbeiterinnen und Mitarbeiter eines FIP-Mitglieds sind nach 12 Monaten Betriebszugehörigkeit berechtigt, FIP-Einrichtungen zu nutzen.
 Bitte wende dich für die Beantragung und Inanspruchnahme an deine Personalabteilung.
+
+{{% /faq %}}
+
+{{% faq "Gilt FIP auch für Angehörige?" %}}
+
+Ja, auch Familienangehörige können FIP in Anspruch nehmen. Es gelten Einschränkungen für bestimmte Betreiber.
+
+{{% /faq %}}
+
+{{% faq "In welchen Ländern kann ich FIP nutzen?" %}}
+
+FIP ist in 30 europäischen Ländern verfügbar:
+
+Belgien, Bulgarien, Bosnien und Herzegowina, Dänemark, Deutschland, Finnland, Frankreich, Griechenland, Großbrittanien, Kroatien, Irland, Italien, Litauen, Luxemburg, Mazedonien, Montenegro, Niederlande, Norwegen, Österreich, Polen, Portugal, Rumänien, Serbien, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Schweiz und Nordirland
+
+Schau auf unserer [Länderseite]({{< ref "country" >}}) nach Informationen für dein gewünschtes Reiseziel.
 
 {{% /faq %}}
 
