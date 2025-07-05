@@ -7,11 +7,14 @@
 
 .o-header {
   background-color: var(--bg-default);
+  z-index: 5;
+  position: relative;
 }
 
 .o-header__wrapper {
   display: flex;
   justify-content: space-between;
+  padding: 0;
 
   @media (min-width: #{$breakpoint-md}) {
     justify-content: unset;
@@ -54,7 +57,7 @@
 
 .o-header__logo {
   display: flex;
-  margin: .6rem;
+  margin: .6rem 0;
   position: relative;
   text-decoration: none;
   border-radius: var(--border-radius-m);
@@ -65,8 +68,10 @@
   }
 
   img {
+    width: auto;
     height: 4.7rem;
-    padding: 0 .4rem
+    padding: .2rem .4rem;
+    align-self: center;
   }
 }
 
