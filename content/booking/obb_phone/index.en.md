@@ -5,7 +5,7 @@ description: "Booking information for the Eurostar hotline."
 
 params:
     fip_global_fare: true
-    additional_info_link: "https://www.eurostar.com/rw-en/contact-us/eurostar-contact-details"
+    additional_info_link: "https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen"
     type: "phone"
 ---
 
