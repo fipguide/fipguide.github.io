@@ -1,12 +1,30 @@
 html {
   font-size: 62.5%;
   color: var(--color-onLight);
+  scroll-padding-top: 8rem;
+  scroll-behavior: smooth;
 }
 
 body {
+  color: var(--color-body);
   background-color: var(--bg-neutral);
   font-size: 1.8rem;
   overflow-x: hidden;
+  margin: 0;
+  line-height: 1.5;
+}
+
+p, ul, ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  padding-left: 2rem;
+}
+
+button {
+  font-size: 1.8rem;
 }
 
 a {
@@ -29,18 +47,45 @@ a {
   }
 }
 
-//space for fixed header
 main {
-  margin-top: 8rem;
+  margin-top: 2rem;
 }
 
-.container.o-list:not(.o-list--news) {
+.o-container {
+  max-width: 1320px;
+
+  @media (max-width: #{$breakpoint-xxl}) {
+    max-width: 1140px;
+  }
+
+  @media (max-width: #{$breakpoint-xl}) {
+    max-width: 960px;
+  }
+
+  @media (max-width: #{$breakpoint-lg}) {
+    max-width: 720px;
+  }
+
+  @media (max-width: #{$breakpoint-md}) {
+    max-width: 540px;
+  }
+
+  @media (max-width: #{$breakpoint-sm}) {
+    max-width: calc(100vw - 3.2rem);
+  }
+
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.o-card{
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
   padding: 2rem;
 }
 
-main > .container:is(.o-single--with-sidemenu) {
+main > .o-container:is(.o-single--with-sidemenu) {
   background-color: unset;
   padding: 0;
 
@@ -62,6 +107,7 @@ img {
 
 .o-list__picture {
   margin-right: 1.2rem;
+  display: flex;
 }
 
 .o-related__operator-wrapper > .o-related__list {
@@ -84,16 +130,15 @@ img {
   margin-left: 2.4rem;
 }
 
+.o-list__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
 .o-list__link {
   display: flex;
   align-items: center;
-  margin-bottom: 1rem;
-}
-
-.container {
-  @media (max-width: #{$breakpoint-sm}) {
-    max-width: calc(100% - 3.2rem);
-  }
 }
 
 @mixin add-columns($columns) {
@@ -106,13 +151,14 @@ img {
   }
 }
 
-.o-section{
+.o-section {
   @include add-columns(1);
   @include add-columns(2);
   @include add-columns(3);
 }
 
-.o-single {
+.o-single,
+.o-list {
   padding: 2rem;
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
@@ -183,6 +229,7 @@ img {
 
 .pagefind-highlight {
   padding: 0;
+  background-color: var(--bg-accent);
 }
 
 .sr-only {
@@ -195,33 +242,17 @@ img {
   width: auto;
 }
 
-.o-startpage .row {
-  margin-bottom: 2.4rem;
+button:not(:disabled) {
+  cursor:pointer
 }
 
-.o-startpage__intro {
-  text-wrap: balance;
-
-  h2 {
-    font-family: Sansita,Arial,Helvetica,sans-serif;
-    font-weight: 800;
-    font-size: 6.2rem;
-    line-height: 1.1;
-  }
-
-  > div {
-    align-content: center;
-  }
-
-  @media (max-width: #{$breakpoint-md}) {
-    h2 {
-      font-size: 4.8rem;
-    }
-  }
+hr {
+  opacity: 0.25;
+  border: 0;
+  border-top: 1px solid;
+  margin: 1rem 0;
 }
 
-.o-startpage__image {
-  @media (max-width: #{$breakpoint-md}) {
-    display: none;
-  }
+details > summary {
+  cursor: pointer;
 }

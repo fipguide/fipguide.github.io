@@ -11,12 +11,6 @@
     display: flex;
     flex-direction: column;
 
-    &:nth-child(-n+3) {
-        @media (max-width: #{$breakpoint-lg}) {
-            margin-bottom: 2rem;
-        }
-    }
-
     &:hover,
     &:focus {
         background: rgba($link-hovered, 0.15);
@@ -53,9 +47,11 @@
 }
 
 .m-teaser--shortcut-tile {
+    flex-basis: calc( 50% - 0.5rem );
+
     .m-teaser__wrapper {
         width: 100%;
-        height: 12rem;
+        height: 10rem;
         padding: 1.4rem;
         justify-content: space-between;
     }
