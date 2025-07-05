@@ -161,9 +161,12 @@
     position: absolute;
     padding: 1rem;
     flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
+    max-height: 30rem;
   }
 
   &.o-header__item-countries--open {
