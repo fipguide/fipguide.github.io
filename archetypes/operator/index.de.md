@@ -10,7 +10,7 @@ operator: '{{ .File.ContentBaseName }}'
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-{{< snippet wip >}}
+{{< wip >}}
 
 <!--
   Kurze Beschreibung der Bahngesellschaft. Z.B. Der vollstandige Name in Landessprache, alternative Namen und Angabe über Privat/Staatsbahn

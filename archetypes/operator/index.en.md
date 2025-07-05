@@ -10,7 +10,7 @@ operator: '{{ .File.ContentBaseName }}'
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
-{{< snippet wip >}}
+{{< wip >}}
 
 <!--
   Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
