@@ -98,13 +98,3 @@
   ]
 }
   </script>
-
-
-{{ $faqs := .Params.faqs }}
-{{ if and (isset .Params "faqs") (gt (len $faqs) 0) }}
-<p>Es gibt {{ len $faqs }} Fragen.</p>
-
-{{ end }}
-
-{{ if and (isset .Params "faqs") ((len .Params.faqs)) }},{{ (len .Params.faqs) }}{{ end }}
-
