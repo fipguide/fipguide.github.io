@@ -15,6 +15,10 @@ languages:
     languageName: "German"
     languageCode: de
     weight: 2
+  fr:
+    languageName: "English"
+    languageCode: fr
+    weight: 3
 
 module:
   mounts:
