@@ -1,13 +1,20 @@
 ---
 title: "Übergreifende Infos"
 description: "Informationen über die allgemeinen Hinweise zu FIP und wie FIP in Anspruch genommen werden kann."
+faqs:
+  - question: "Was ist FIP?"
+    answer: "FIP steht für Groupement pour les facilités de circulation internationales du personnel des chemins de fer ..."
+  - question: "Wer hat Anspruch auf FIP?"
+    answer: "Anspruchsberechtigt sind in der Regel aktive und pensionierte Mitarbeitende ..."
+
+
 ---
 
 Hier findest du übergreifende Informationen zum FIP Guide.
 
 ## Allgemeines
 
-{{% faq "Was ist FIP?" %}}
+{{% faq %}}
 
 FIP steht für _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. Es ist die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals.
 Es sind Eisenbahn- und Schifffahrtunternehmen der UIC (Internationaler Eisenbahnverband) angeschlossen.

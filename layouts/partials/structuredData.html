@@ -10,6 +10,8 @@
   {{ $mainEntity = "Article" }}
 {{ else if eq .Page.Type "news"}}
   {{ $mainEntity = "NewsArticle" }}
+{{ else if eq .Page.Type "generalinformation"}}
+  {{ $mainEntity = "Question" }}
 {{ end }}
 
 {{ $image := (partial "helper/contentImage" .).Permalink }}
@@ -57,18 +59,33 @@
       },
       {{- end }}
       {{- if $mainEntity }}
-      "mainEntity": {
-        "@type": "{{ $mainEntity }}",
-        "headline": "{{ page.Title }}",
-        "image": {{ $image }},
-        "dateModified": {{ $dateMachine }},
-        "author": {
-          "@type":"Organization",
-          "name": "FIP Guide",
-          "url": "https://www.fipguide.org/",
-          "email": "nextstop@fipguide.org"
-        }
-      },
+        {{- if eq $mainEntity "Question" }}
+        "mainEntity": [
+          {{- range $index, $faqs := .Params.faqs }}
+          {
+            "@type": "{{ $mainEntity }}",
+            "name": "{{ $faqs.question }}",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "{{ $faqs.answer }}"
+            }
+          }{{ if lt (add $index 1) (len $faqs) }},{{ end }}
+          {{- end }}
+        ],
+        {{- else }}
+        "mainEntity": {
+          "@type": "{{ $mainEntity }}",
+          "headline": "{{ page.Title }}",
+          "image": {{ $image }},
+          "dateModified": {{ $dateMachine }},
+          "author": {
+            "@type":"Organization",
+            "name": "FIP Guide",
+            "url": "https://www.fipguide.org/",
+            "email": "nextstop@fipguide.org"
+          }
+        },
+        {{- end }}
       {{- end }}
       "maintainer": {
         "@type": "Organization",
@@ -81,3 +98,13 @@
   ]
 }
   </script>
+
+
+{{ $faqs := .Params.faqs }}
+{{ if and (isset .Params "faqs") (gt (len $faqs) 0) }}
+<p>Es gibt {{ len $faqs }} Fragen.</p>
+
+{{ end }}
+
+{{ if and (isset .Params "faqs") ((len .Params.faqs)) }},{{ (len .Params.faqs) }}{{ end }}
+
