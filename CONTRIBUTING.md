@@ -36,7 +36,7 @@ npm i
 Then, we can start the integrated hugo server with:
 
 ```zsh
-hugo server --ignoreCache
+hugo server
 ```
 
 Check the output and follow the link to see a local preview of the changes.

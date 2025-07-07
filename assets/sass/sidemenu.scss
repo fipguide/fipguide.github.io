@@ -29,12 +29,16 @@
             display: block;
         }
     }
-}
 
-.tableOfContents ul {
-    list-style-type: none;
-    list-style-position: outside;
-    padding-left: 0;
+    ul, ol {
+        list-style-type: none;
+        list-style-position: outside;
+        padding-left: 0;
+
+        ul, ol {
+            margin-bottom: 0;
+        }
+    }
 }
 
 .o-aside a {
@@ -50,27 +54,25 @@
     gap: .4rem;
 }
 
-.toc li {
-    list-style-type: none;
+.o-aside__toc {
+    li {
+        list-style-type: none;
+    }
+
+    ol {
+        padding: 0 0 0 1em;
+    }
+
+    > ol {
+        padding-left: 0;
+    }
 }
 
-.toc ol {
-    padding: 0 0 0 1em;
-}
-
-.toc > ol {
-    padding-left: 0;
-}
-
-.toc-title {
-    font-weight: bold;
-}
-
-.toc-link {
+.o-aside__toc-link {
     display: flex;
 }
 
-.toc a[data-current] {
+.o-aside__toc a[data-current] {
     font-weight: bold;
 
     &:before {

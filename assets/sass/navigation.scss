@@ -15,6 +15,7 @@
 .o-header__wrapper {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 0;
 
   @media (min-width: #{$breakpoint-md}) {
@@ -70,7 +71,7 @@
 
   img {
     width: auto;
-    height: 4.7rem;
+    height: 4.4rem;
     padding: .2rem .4rem;
     align-self: center;
   }
@@ -88,7 +89,7 @@
   left: 50%;
   transform: translateX(-50%);
   padding: 1rem;
-  margin: .6rem;
+  margin: .9rem;
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
@@ -102,6 +103,7 @@
 
 .o-header__item {
   list-style: none;
+  height: 6rem;
 
   //normales Menü
   ul {
@@ -134,6 +136,10 @@
   }
 }
 
+.o-header__expand-button {
+  margin: 0.9rem;
+}
+
 .o-header__expand-button > .material-symbols-rounded,
 .o-nav__menu-button > .material-symbols-rounded,
 .o-nav__close-button > .material-symbols-rounded {
@@ -155,9 +161,12 @@
     position: absolute;
     padding: 1rem;
     flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
+    max-height: 30rem;
   }
 
   &.o-header__item-countries--open {
@@ -214,6 +223,10 @@
 
     > menu > li {
       margin-bottom: 5rem;
+    }
+
+    .o-header__item {
+      height: fit-content;
     }
 
     h2 {
