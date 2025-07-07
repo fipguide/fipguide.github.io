@@ -92,7 +92,13 @@ If an email address associated with an existing Eurostar account is provided dur
 
 ### Phone
 
-{{% booking id="eurostar_phone" /%}}
+{{% booking id="eurostar_phone" %}}
+Occasionally, there may be issues when booking FIP tickets to or from London. In such cases, we recommend using an alternative booking method.
+{{% /booking %}}
+
+{{% booking id="cfl_phone"
+    fip_global_fare=true
+/%}}
 
 ### On-site
 

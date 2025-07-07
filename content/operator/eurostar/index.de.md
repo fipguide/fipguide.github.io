@@ -93,7 +93,14 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 
 ### Telefon
 
-{{% booking id="eurostar_phone" /%}}
+{{% booking id="eurostar_phone" %}}
+Teilweise kann es zu Problemen bei der Buchung von FIP-Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+{{% /booking %}}
+
+{{% booking id="cfl_phone"
+    fip_global_fare=true
+/%}}
+
 
 ### Vor Ort
 
