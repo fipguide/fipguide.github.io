@@ -12,7 +12,7 @@ Die CFL bietet ein Buchungshotline über die FIP 50 Fahrkarten erworben werden k
 
 [+352 (0) 2489 2489](tel:+35224892489)
 
-Zur Authentifizierung der FIP-Berechtigung muss ein Foto des FIP-Ausweises aller Reisenden per E-Mail an [callcenter@cfl.lu](mailto:callcenter@cfl.lu) während des Buchungsprozesses gesendet werden. Die Bezahlung erfolgt anschließend per Kreditkarte über einen 15-minütigen Zahlungslink, der per E-Mail versendet wird.
+Zur Authentifizierung der FIP-Berechtigung muss ein Foto der Innenseite des FIP-Ausweises aller Reisenden per E-Mail an [callcenter@cfl.lu](mailto:callcenter@cfl.lu) während des Buchungsprozesses gesendet werden. Die Bezahlung erfolgt anschließend per Kreditkarte über einen 15-minütigen Zahlungslink, der per E-Mail versendet wird.
 
 **Die CFL erhebt eine Buchungsgebühr von 5€ pro Buchung.**
 

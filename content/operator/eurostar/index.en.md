@@ -137,7 +137,7 @@ For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM
 {{% highlight tip %}}
 Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) can be used.
 
-If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same operator can be taken. Rebooking to the next train can be done at the service counter on-site.
+If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
 
 HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
 {{% /highlight %}}
