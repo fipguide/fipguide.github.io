@@ -44,5 +44,4 @@ The reservation price is charged per journey. For connections with transfers, yo
 
 Seat reservations can be purchased via the Deutsche Bahn website. To do so, select the "Seat reservation only" option in the search.
 
-![Book DB reservation](db_reservation.webp)
 {{% /booking-section %}}
