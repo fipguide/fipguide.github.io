@@ -12,7 +12,10 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 ## Zusammenfassung
 
 - ÖBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-
+- Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz
+- Kein FIP im Wiener Flughafenexpress CAT
+- Besondere Regeln in Zügen nach Italien, Nightjets, Autozügen und IC Bussen
+- FIP Freifahrt der ÖBB gilt auch in Lichtenstein
 
 ## Gültigkeit FIP-Tickets
 
@@ -41,9 +44,11 @@ Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die 
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC) / IntercityExpress (ICE)" traincategory "long-distance" %}}
+{{% expander "InterCity (IC) / IntercityExpress (ICE) ℹ️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Die meisten IC-Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. IC-Züge verkehren weiterhin auf Nebenstrecken wie Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Wien–Gmunden–Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es IC-Züge und ICE-Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird. \
+Die meisten IC-Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. IC-Züge verkehren weiterhin auf Nebenstrecken wie Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Wien–Gmunden–Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es IC-Züge und ICE-Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
+
+ℹ️ Teilweise werden auch Regiojet Züge innerhalb von Österreich als IC gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** Teilweise in der Hauptsaison (Sommer) auf internationalen Verbindungen nach Deutschland nur für grenzüberschreitende Fahrten.
 {{% /expander %}}
@@ -190,6 +195,21 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€.
 
 - Brennerverkehr+
 
+Railjet (RJ) to/from Italy (Venezia via Tarvisio Boscoverde)
+
+If using a FIP coupon (with or without the “No supplement required” stamp) or an International Senior Manager Free Pass, the FIP supplement must be paid for journeys to/from Italy as well for journey which are entirely within Italy.
+
+DB-ÖBB Eurocity München – Innsbruck – Bolzano – Venezia and RJX trains from/to Bolzano via Brenner
+
+With FIP free coupons on DB-ÖBB Eurocity services operated jointly by DB and ÖBB via the trans-Alpine Brenner Railway (München – Innsbruck – Bolzano – Venezia), and RJX trains from/to Bolzano via Brenner
+
+a DB, ÖBB or FS coupon is required for travel in each country
+for journeys in or between Austria and Germany, no supplement is payable
+holders of a 1st class coupon not endorsed by a stamp stating No Supplement Necessary and travelling 1st class within Austria must purchase a seat reservation ticket or travel authority ticket
+
+### Lichtenstein
+Die Eisenbahn in Lichtenstein wird von der ÖBB betrieben. FIP Fahrkarten sind hier zu den österreichischen Konditionen und ohne Aufpreis gültig (Feldkirchen-Buchs SG).
+
 ### Wien Flughafen: City Airport Train (CAT)
 
 FIP Fahrkarten sind im CAT (City Airport Train) zwischen Wien Flughafen und Wien Mitte nicht gültig.
@@ -221,9 +241,6 @@ FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugt
 Mit einem FIP Freifahrschein kann die Autoschleuse Tauerntunnel (Böckstein–Mallnitz-Obervellach) genutzt werden. Das Fahrzeug muss auf einen der mitreisenden FIP Freifahrtschein-Inhaber zugelassen sein, um kostenlos befördert zu werden. Für Mitreisende ohne FIP Freifahrtschein gilt der reguläre Fahrpreis.
 
 FIP 50 Ermäßigungen sind nicht erhältlich.
-
-### Lichtenstein
-Die Eisenbahn in Lichtenstein wird von der ÖBB betrieben. FIP Fahrkarten sind hier zu den österreichischen Konditionen und ohne Aufpreis gültig (Feldkirchen-Buchs SG).
 
 ### Fahrtunterbrechung
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
