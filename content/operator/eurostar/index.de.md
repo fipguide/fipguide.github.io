@@ -93,7 +93,14 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 
 ### Telefon
 
-{{% booking id="eurostar_phone" /%}}
+{{% booking id="eurostar_phone" %}}
+Teilweise kann es zu Problemen bei der Buchung von FIP-Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+{{% /booking %}}
+
+{{% booking id="cfl_phone"
+    fip_global_fare=true
+/%}}
+
 
 ### Vor Ort
 
@@ -133,7 +140,7 @@ Für Eurostar-Züge, die freitags, samstags und sonntags zwischen 17.30 Uhr und 
 
 Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
 
-Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers ausgewichen werden. Dazu kann am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
+Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers oder eines anderen Railteam Mitglieds ausgewichen werden. Dazu muss am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
 
 HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
 

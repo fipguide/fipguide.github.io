@@ -19,4 +19,4 @@ FIP Global Fare tickets can be purchased via the Eurostar hotline:
 - Netherlands: [+31 (0)20 532 32 32](tel:+31205323232)
 - Germany: [+49 (0)30 7007 0000](tel:+493070070000)
 
-Booking is possible in German and English. A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card. No additional booking fee is charged for FIP tickets.
+Booking is possible in English, French, German and Dutch. A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card. No additional booking fee is charged for FIP tickets.
