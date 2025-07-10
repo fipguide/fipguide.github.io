@@ -1,24 +1,29 @@
 ---
 draft: false
-title: "Deutsche Bahn Website"
-description: "Booking information for Deutsche Bahn Website."
+title: "ÖBB Website"
+description: "Booking information for the ÖBB website."
 params:
   classes:
-    first: "€6.90"
-    second: "€5.50"
+    first: "3€"
+    second: "3€"
   fip_50: false
   reservations: true
-  booking_link: "https://www.bahn.de/"
-  additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
+  booking_link: "https://shop.oebbtickets.at/en/ticket"
+  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/reservierung-sitzplatz"
   type: "website"
 ---
 
 {{% booking-section "reservations" %}}
 **Reservations**
 
-The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
+The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book through the ([Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn")).
 
-Seat reservations can be purchased via the Deutsche Bahn website. To do so, select the "Book seat only" option in the search.
+However, seat reservations made via ÖBB can be cancelled:
 
-![Book DB reservation](db_reservation.webp)
+- 180 days to 15 days before departure: 100% of the reservation price
+- 14 days to 1 day before departure: 50% of the reservation price
+
+On the ÖBB website, to book a reservation, select the option "Nur Sitzplatzreservierung - Ich habe schon ein Ticket" ("Seat reservation only - I already have a ticket").
+
+![Book ÖBB reservation](obb_reservation.webp)
 {{% /booking-section %}}
