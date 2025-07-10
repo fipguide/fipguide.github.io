@@ -1,30 +1,35 @@
 ---
 draft: false
-title: "DB Ticket Office"
-description: "Booking information for Deutsche Bahn ticket offices."
+title: "ÖBB Ticket Office"
+description: "Booking information for the ÖBB ticket offices."
 
 params:
     classes:
-        first: "€6.90"
-        second: "€5.50"
+        first: "€3.50"
+        second: "€3.50"
     fip_50: true
     reservations: true
-    additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"
+    additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/bahnhofsinformation"
     type: "onsite"
 ---
 
 {{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
-At DB ticket offices, FIP 50 Tickets can be purchased for journeys within Germany and to many European countries.
+At ÖBB ticket offices, FIP 50 tickets for travel within Austria and many European countries can be purchased.
 
-It is also possible to issue FIP 50 Tickets where only the section outside Germany is charged, and an additional ticket is required for the German section. This is especially important for DB employees, as FIP 50 Tickets are not valid in their home country.
+Tickets (including FIP 50 tickets) are cheaper if bought in advance (1 day before travel or 15 days before travel).
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservations**
 
-The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
+The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book reservations via the ([Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn")).
 
-Reservations can be made not only for Germany but also for a large number of trains throughout Europe.
+However, seat reservations made with ÖBB can be cancelled:
+
+- 180 days to 15 days before departure: 100% of the reservation price refunded
+- 14 days to 1 day before departure: 50% of the reservation price refunded
+
 {{% /booking-section %}}

@@ -25,11 +25,11 @@ In Spanien ist die Nutzung von FIP nicht immer einfach, da hier einfach einsteig
 
 ### Frankreich
 
-Von Paris aus verkehren direkte TGV-Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona. Bei beiden sind FIP-Globalpreise möglich, die jedoch sehr teuer werden können. Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
+Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona. Bei beiden sind FIP Globalpreise möglich, die jedoch sehr teuer werden können. Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
 ### Portugal
 
-Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP-Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt. Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP-Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#international" >}} "Renfe")). An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
+Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt. Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#international" >}} "Renfe")). An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
 
 ## Wissenswertes
 

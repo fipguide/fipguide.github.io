@@ -32,7 +32,7 @@ InterCityLyn trains are the fastest trains of DSB. They operate at speeds of up 
 
 {{% expander "InterCity (IC)" traincategory category %}}
 **Description:** \
-InterCity trains are similar to ICL trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
+InterCity trains are similar to `ICL` trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
@@ -47,7 +47,7 @@ EuroCity trains operate cross-border on the route between Hamburg and Copenhagen
 {{% expander "Regional Train (R) ℹ️" traincategory category %}}
 **Description:** \
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower. \
-ℹ️ Trains from other operators are also displayed as "R," so always check beforehand if the operator is DSB. \
+ℹ️ Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
 **Reservation possible:** no \
 **Reservation mandatory:** no
 {{% /expander %}}

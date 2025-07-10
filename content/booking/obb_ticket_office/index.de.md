@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die ÖBB Ticketschalter."
 
 params:
     classes:
-        first: "3€"
-        second: "3€"
+        first: "3,50€"
+        second: "3,50€"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/bahnhofsinformation"
@@ -18,7 +18,7 @@ params:
 
 In ÖBB Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
 
-Tickets sind biliger im Vorverkauf (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt)
+Fahrkarten (inkl. FIP 50 Tickets) sind billiger im Vorverkauf (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt)
 
 {{% /booking-section %}}
 

@@ -19,22 +19,17 @@ params:
 
 ## FIP Nutzung
 
-In Österreich können Züge der ([Österreichischen Bundesbahnen (ÖBB)]({{% ref "/operator/obb" %}} "ÖBB")) mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.
+In Österreich können Züge der [Österreichischen Bundesbahnen (ÖBB)]({{% ref "/operator/obb" %}} "ÖBB") mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.
 
-Außerdem gibt es weitere regionale Betriber von Nahverkehrszügen, die keine FIP Tickets akzeptieren. Diese nutzen genau wie die ÖBB die Zugkategorien `RE` und `S`. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
+Außerdem gibt es weitere regionale Betriber von Nahverkehrszügen, die keine FIP Tickets akzeptieren. Diese nutzen genau wie die ÖBB die Zugkategorien `RE`, `REX` und `S`. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
-Die GySEV/Raaberbahn ist ein zweites EVU welches FIP-Tickets innerhalb von Österreich und Ungarn akzeptiert, folgende Linien sind mit FIP GySEV in Österreich nutzbar:
-
-- REX63 Neusiedl am See-Fertőszentmiklós
-- REX6 Wien Hbf nach Sopron via Deutschkreuz
-- REX65 Eisenstadt - Wulkapordersdorf (Vereinigung mit REX6 und durchbindung nach Wien Hbf)
-
-Zusätzlich gibt es eine [Übersicht über alle GySev Strecken](https://www2.gysev.hu/de/vasutvonalak) (inkl. Ungarn).
+Die [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") ist ein zweites EVU welches FIP Tickets innerhalb von Österreich und Ungarn akzeptiert. GySEV Freifahrtscheine sind jedoch primär für Ungarn gedacht und gelten auf den Strecken der GySEV in Österreich daher nur eingeschränkt.
 
 ## Wissenswertes
 
-Österreich verfügt über ein dichtes Bahnnetz, welches vor allem aus zwei Hauptstrecken besteht. Die Südbahn von Wien über Graz Richtung Slowenien und Klagenfurt/Villach weiter nach Italien (ab Dezember via Schnellfahstrecke "Koralmbahn" aktuell noch via Altbaustrecke) sowie die Westbahn von Wien aus über Salzburg/Innsbruck zum Bodensee (Bregenz) bzw. weiter in die Schweiz (Zürich). Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona)
-Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterreich, diese wird nicht von den ÖBB betrieben kann aber mit FIP 50 redzuziert befahren werden.
+Österreich verfügt über ein dichtes Bahnnetz, welches vor allem aus zwei Hauptstrecken besteht. Die Südbahn von Wien über Graz Richtung Slowenien und Klagenfurt/Villach weiter nach Italien (ab Dezember 2025 über die Schnellfahstrecke _Koralmbahn_ und davor über die Altbaustrecke) sowie die Westbahn von Wien aus über Salzburg/Innsbruck zum Bodensee (Bregenz) bzw. weiter in die Schweiz (Zürich). Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona).
+
+Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterreich, diese wird nicht von den ÖBB betrieben kann aber mit FIP 50 reduziert befahren werden.
 
 ## Anreise und Grenzpunkte
 
@@ -58,27 +53,29 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy über ver
 
 ### Deutschland
 
-Zwischen Deutschland und Österreich existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen. Eine ICE Linie von Wien über Linz, Passau und Nürnberg Richtung Frankfurt/Köln (oder einzelne Züge nach Berlin) sowie ICE, RJ und IC Züge von München über Salzburg in verschiedene Ziele in Österreich. Im Deutschen Abschnitt wird für die Züge ein FIP Ticket der DB benötigt.
+Zwischen Deutschland und Österreich existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen. Eine `ICE` Linie von Wien über Linz, Passau und Nürnberg Richtung Frankfurt/Köln (oder einzelne Züge nach Berlin) sowie `ICE`, `RJ` und `IC` Züge von München über Salzburg in verschiedene Ziele in Österreich. Im Deutschen Abschnitt wird für die Züge ein FIP Ticket der DB benötigt.
 
 ### Ungarn
 
-Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom wird ein zusätzliches FIP-Ticket der MAV ab der Grenze benötigt, in den anderen Fällen wird ein zusätzliches FIP-Ticket der GySEV ab der Grenze benötigt.
+Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom wird ein zusätzliches FIP Ticket der MAV ab der Grenze benötigt, in den anderen Fällen wird ein zusätzliches FIP Ticket der GySEV benötigt.
 
 ### Schweiz
 
-Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (ECE, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der Zuschlag (10/15€) zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
+Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (EuroCityExpress, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der Zuschlag (10/15€) zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
 
 ### Italien
 
-Ein eher FIP unfreundliches aber schönes Land, es beginnt schon an der Grenze, FIP Coupon gilt in den ÖBB/DB Brennerzügen nur mit Aufpreis (10€ 2. Klasse / 15€ 1.Klasse) selbiges auch für Fahrten ab Tarvisio B. nach Venedig. Besoderheit bei der Anreise via Österreich/Slowenien nach Triest im EC 151/134 gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, man muss nur einen geringen Aufpreis dazu zahlen (2,6€).
+Neben Regionalzugverbindungen gibt es zwei internationale Routen von Österreich nach Italien. Die Brennerbahn von München über Innsbruck und den Brennerpass nach Bozen und Verona sowie Railjets über Tarvisio Boscoverde weiter nach Venedig. Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch in Italien, allerdings ist auf beiden Verbindungen ein Zuschlag im italienischen Bereich zu zahlen.
+Außerdem gibt existieren EuroCity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134). Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
 
 ### Slowakei
 
-
+Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich. Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025). Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien. Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") benötigt. \
+Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025), die mit FIP Coupons der ÖBB bis zur Grenze oder auf dem kompletten Abschnitt (auch in Österreich) mit ZSSK Freifahrt genutzt werden können.
 
 ### Slowenien
 
-Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SZ notwendig oder FIP 50 Ticket zu buchen.
+Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽnotwendig oder FIP 50 Ticket zu buchen.
 
 ## FIP Bewertung
 
