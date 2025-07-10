@@ -15,7 +15,7 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 - FIP Freifahrtsscheine werden nicht akzeptiert. Es ist jedoch möglich vergünstige FIP Tickets zum FIP Globalpreis zu erwerben.
 - Alle Züge sind reservierungspflichtig.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ⛔ \
 FIP Freifahrt Angehörige: ⛔ \
@@ -94,7 +94,7 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 ### Telefon
 
 {{% booking id="eurostar_phone" %}}
-Teilweise kann es zu Problemen bei der Buchung von FIP-Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
 {{% /booking %}}
 
 {{% booking id="cfl_phone"

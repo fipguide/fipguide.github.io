@@ -13,10 +13,10 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Nie
 
 * NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
 * Reservierung ist grundsätzlich nicht erforderlich.
-* Zuschlag für Eurocity Direct (ECD) und teilweise Intercity Direct (ICD) erforderlich.
+* Zuschlag für Eurocity Direct `ECD` und teilweise Intercity Direct `ICD` erforderlich.
 * Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
@@ -26,7 +26,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Be
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden ICE und IC nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gezahlt werden.
 
 {{% expander "InterCity Express (ICE) ⚠️" traincategory category %}}
@@ -76,8 +76,8 @@ Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkatego
 {{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
-Eine Ausnahme bildet der IC Amsterdam - Berlin, der grenzüberschreitend ein echter IC mit Halt nur an größeren Knotenpunkten ist. \
-**Reservierung möglich:** nur beim IC Amsterdam - Berlin \
+Eine Ausnahme bildet der `IC` Amsterdam - Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
+**Reservierung möglich:** nur beim `IC` Amsterdam - Berlin \
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
 {{% /expander %}}
 
@@ -96,7 +96,7 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 {{% /expander %}}
 
 {{% highlight important %}}
-Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
+Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 {{% /highlight %}}
 
 

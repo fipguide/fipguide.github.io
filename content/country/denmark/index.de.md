@@ -37,7 +37,7 @@ Die Hauptstrecken in Dänemark sind die Nord-Süd-Verbindung Aalborg-Aarhus-Kold
 
 ### Deutschland
 
-Von Deutschland aus kann der durchgängige EC Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich IC-Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen. Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
+Von Deutschland aus kann der durchgängige `EC` Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen. Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
 
 ### Schweden
 
