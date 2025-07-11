@@ -11,6 +11,6 @@ Außerdem steigen die Preise für Sitzplatzreservierungen:
 1. Klasse: 6,90€ (bisher 6,50€)
 2. Klasse: 5,90€ (bisher 5,50€)
 
-Informationen zur Reservierungen auf Bahn.de sind [hier]({{< ref "/booking/db_website" >}} "DB Website Buchung") zu finden.
+Informationen zur Reservierungen auf Bahn.de sind [hier]({{< ref "/booking/db-website" >}} "DB Website Buchung") zu finden.
 
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)
