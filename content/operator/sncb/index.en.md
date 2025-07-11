@@ -79,23 +79,23 @@ Additional trains to certain tourist destinations, often simply referred to as `
 ## Ticket and Reservation Purchase
 
 ### Online
-{{% booking id="sncb_website" %}}
+{{% booking id="sncb-website" %}}
 When using a SNCB FIP Coupon, a cross-border ticket can be booked via the website, which takes the free travel within the Belgian section into account. To do this, select the discount "100% Discount Belgium (SNCB)" for the travelers. This allows, for example, very affordable bookings for trains from Belgium to Lille in France (except for the `TGV`, which has a global price and is not operated by SNCB).
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets, with ticket portions valid only for the Belgian section, for employees of Deutsche Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets valid for the entire route (not valid in the home country)"
 /%}}
 
 ### On-site
 
-{{% booking id="sncb_ticket_office" /%}}
+{{% booking id="sncb-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### On the train
 

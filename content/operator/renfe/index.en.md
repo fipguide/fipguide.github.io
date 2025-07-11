@@ -147,7 +147,7 @@ It is possible to book by telephone with Renfe, but the ticket must be collected
 
 ### On-site
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     fip_global_fare=true
     reservations="nil"
 %}}
@@ -157,7 +157,7 @@ Tickets for trains requiring reservations can be sold at DB Travel Centers. Plea
 ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
 {{% /booking %}}
 
-{{% booking id="renfe_ticket_office" /%}}
+{{% booking id="renfe-ticket-office" /%}}
 
 ### On the train
 

@@ -1,5 +1,4 @@
 baseURL: 'https://www.fipguide.org/'
-title: 'FIP Guide'
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -11,10 +10,12 @@ languages:
     languageName: "English"
     languageCode: en
     weight: 1
+    title: 'FIP Guide – Fast. Clear. Community-based.'
   de:
     languageName: "German"
     languageCode: de
     weight: 2
+    title: 'FIP Guide – Schnell. Übersichtlich. Community-basiert.'
 
 module:
   mounts:
@@ -58,3 +59,5 @@ cascade:
 params:
   githubDevUrl: 'https://github.dev/fipguide/fipguide.github.io/'
   gitHubUrl: 'https://github.com/fipguide/fipguide.github.io'
+
+taxonomies: {}

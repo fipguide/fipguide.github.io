@@ -25,7 +25,7 @@ Fahrkarten (inkl. FIP 50 Tickets) sind billiger im Vorverkauf (1 Tag vor der Fah
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die ([Deutsche Bahn zu reservieren]({{% ref "/booking/db_website" %}} "Deutsche Bahn")).
+Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die ([Deutsche Bahn zu reservieren]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
 
 Dafür können bei der ÖBB Sitzplatzreservierungen jedoch storniert werden:
 

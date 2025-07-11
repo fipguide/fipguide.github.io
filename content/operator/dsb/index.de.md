@@ -67,27 +67,27 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ### Online
 
-{{% booking id="dsb_website"
+{{% booking id="dsb-website"
     subtitle="Nur für nationale Verbindungen"
 /%}}
 
-{{% booking id="db_website"
+{{% booking id="db-website"
     subtitle="Für nationale und grenzüberschreitende Verbindungen"
 /%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 /%}}
 
 ### Vor Ort
 
-{{% booking id="dsb_ticket_office" /%}}
+{{% booking id="dsb-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ## Ermäßigungen
 

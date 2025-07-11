@@ -102,23 +102,23 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 
 ### Online
 
-{{% booking id="db_website"
+{{% booking id="db-website"
     subtitle="For national and cross-border connections"
 /%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Dutch section, for Deutsche Bahn employees"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)"
 /%}}
 
 ### On-Site
 
-{{% booking id="ns_ticket_office" /%}}
+{{% booking id="ns-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### On the Train
 

@@ -149,7 +149,7 @@ Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerha
 
 ### Vor Ort
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     fip_global_fare=true
     reservations="nil"
 %}}
@@ -159,7 +159,7 @@ In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkau
 ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
 {{% /booking %}}
 
-{{% booking id="renfe_ticket_office" /%}}
+{{% booking id="renfe-ticket-office" /%}}
 
 ### Im Zug
 
