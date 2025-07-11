@@ -26,7 +26,7 @@ operator: '{{ .File.ContentBaseName }}'
   - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
 -->
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: <✅/⛔> \
 FIP Freifahrt Angehörige: <✅/⛔> \

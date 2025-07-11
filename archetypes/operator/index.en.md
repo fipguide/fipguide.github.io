@@ -109,7 +109,7 @@ FIP Global Fare: <✅/⛔>
   Embed additional booking platforms with booking via telephone here.
 -->
 
-### On Site
+### On-Site
 
 <!--
   Embed additional booking platforms with booking on site here.
