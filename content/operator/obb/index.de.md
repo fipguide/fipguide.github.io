@@ -179,7 +179,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtsschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-FIP Tickets) zu bezahlen.
+Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtsschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€.
