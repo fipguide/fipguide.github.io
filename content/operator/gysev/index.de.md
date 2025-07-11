@@ -14,7 +14,7 @@ Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vas
 
 FIP gilt auf allen Strecken der GySEV in Ungarn. Der FIP Freifahrtschein der GySEV ist jedoch primär für Ungarn gedacht und gilt auf den Strecken der GySEV in Österreich nur eingeschränkt.
 
-Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich nutzbar in den genannten Abschnitten nutzbar:
+Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den genannten Abschnitten nutzbar:
 
 - REX63: Neusiedl am See - Fertőszentmiklós
 - REX6: Wien Hbf - Deutschkreuz - Sopron
