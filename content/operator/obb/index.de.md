@@ -161,15 +161,15 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="obb_phone" /%}}
+{{% booking id="obb_phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
 ### Vor Ort
 
-{{% booking id="obb_ticket_office" /%}}
+{{% booking id="obb_ticket_office" subtitle="Inkl. Nightjet Buchung" /%}}
 
 {{% booking id="obb_ticket_machine" /%}}
 
-{{% booking id="db_ticket_office" %}}
+{{% booking id="db_ticket_office" subtitle="Inkl. Nightjet Buchung" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 

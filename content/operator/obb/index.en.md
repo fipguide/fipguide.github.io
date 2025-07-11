@@ -161,15 +161,15 @@ Reservations for direct trains are cheaper via ÖBB.
 
 ### Phone
 
-{{% booking id="obb_phone" /%}}
+{{% booking id="obb_phone" subtitle="Incl. Nightjet Booking" /%}}
 
 ### On-Site
 
-{{% booking id="obb_ticket_office" /%}}
+{{% booking id="obb_ticket_office" subtitle="Incl. Nightjet Booking" /%}}
 
 {{% booking id="obb_ticket_machine" /%}}
 
-{{% booking id="db_ticket_office" %}}
+{{% booking id="db_ticket_office" subtitle="Incl. Nightjet Booking" %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
