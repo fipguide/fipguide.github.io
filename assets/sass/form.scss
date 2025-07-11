@@ -41,3 +41,12 @@
     }
   }
 }
+
+#success {
+  display: none;
+  padding: 1rem;
+  border-radius: var(--border-radius-m);
+  background-color: green;
+  color: white;
+  text-align: left;
+}
