@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="o-list o-list__container">
-      <h1 data-pagefind-meta="title" id="booking-title">{{ T "booking.title" }}</h1>
+    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
       {{ .Content }}
       <ul aria-labelledby="booking-title">
         {{ range .Pages }}
