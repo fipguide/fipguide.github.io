@@ -7,7 +7,7 @@ function initAnchorlinkEventListener() {
   anchorLinks.forEach((element) => {
 
     element.addEventListener('click', () => {
-      navigator.clipboard.writeText(element.getAttribute('data-href')).then(() => {
+      navigator.clipboard.writeText(window.location.origin + window.location.pathname + element.getAttribute('data-anchor')).then(() => {
         showSnackbar();
       }).catch(err => {
         console.error("Fehler beim Kopieren des Textes:", err);
