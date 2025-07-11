@@ -183,7 +183,7 @@ Children under 6 travel free; from age 6, when traveling with a FIP Coupon on lo
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile.
-[See ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
+[See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
 ## Special Tariff Conditions
