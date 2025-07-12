@@ -37,11 +37,11 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 ### Österreich
 
-Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. FIP 50 Tickets müssen grenzüberschreitend gekauft werden.
+Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. Ausgenommen davon sind die `D` Züge zwischen Bratislava und Wien. Diese sind im gesamten Abschnitt (auch in Österreich) mit dem Freifahrtschein der ZSSK nutzbar.
 
 ### Ungarn
 
-Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP-Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP-Ticket der MAV-Start benötigt.
+Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP Ticket der MAV-Start benötigt.
 
 ### Polen
 

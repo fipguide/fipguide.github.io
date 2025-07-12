@@ -14,7 +14,7 @@ params:
     - Snälltåget
 ---
 
-## FIP Usage
+## FIP Information
 
 In Denmark, it is possible to travel across the country on main routes using FIP 50 and FIP Coupon. The Danske Statsbaner ([DSB]({{< ref "/operator/dsb" >}} "DSB")) operates a continuous network, with some branch lines operated by private railway companies (e.g., GoCollective) where FIP is not accepted. FIP discounts are also not available for night trains passing through Denmark operated by SJ and Snälltåget. Connections from Copenhagen towards Sweden are similarly excluded.
 
@@ -37,7 +37,7 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 
 ### Germany
 
-From Germany, the direct EC Hamburg - Copenhagen can be used, operating multiple times daily (every 2 hours during the peak season). These trains are always very crowded, so early reservation booking is recommended. Alternatively, there are multiple daily IC trains from Flensburg to Fredericia, with good connections to Aarhus/Aalborg and Copenhagen. Entry via Tønder is also possible using local trains. However, since neither DB on the German side nor DSB on the Danish side operates here, FIP discounts are not available on this route. Alternatively, ferries from Puttgarden or Warnemünde can be used to enter Denmark.
+From Germany, the direct `EC` Hamburg - Copenhagen can be used, operating multiple times daily (every 2 hours during the peak season). These trains are always very crowded, so early reservation booking is recommended. Alternatively, there are multiple daily `IC` trains from Flensburg to Fredericia, with good connections to Aarhus/Aalborg and Copenhagen. Entry via Tønder is also possible using local trains. However, since neither DB on the German side nor DSB on the Danish side operates here, FIP discounts are not available on this route. Alternatively, ferries from Puttgarden or Warnemünde can be used to enter Denmark.
 
 ### Sweden
 From Sweden, travel is possible either via Malmö over the Øresund or via Helsingborg using the ferry to Helsingør. Since FIP discounts do not apply in Sweden and the Øresund route is operated by Øresundståg, regular tickets must be purchased for the entire Malmö - Copenhagen route.

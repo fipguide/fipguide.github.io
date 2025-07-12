@@ -16,7 +16,7 @@ Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu geh�
 - Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtsscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
 FIP Freifahrt Angehörige: ⛔ \
