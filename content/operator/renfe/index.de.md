@@ -15,6 +15,7 @@ Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu geh�
 - FIP Freifahrtsscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
 - Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtsscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
+- Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es die gleichen FIP-Gloablpreise wie für inländische.
 
 ## Gültigkeit FIP Tickets
 
@@ -130,6 +131,15 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€
 {{% /expander %}}
+{{% expander "AVE nach/von Frankreich ⚠️" traincategory "international" %}}
+**Beschreibung:** \
+Diese Züge sind zu den gleichen Konditionen buchbar wie inländische AVE, wobei es keine Premium Kategorie gibt. Die Buchung ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor. \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
+**FIP Globalpreis (Distanzunabhängig):**
+- 10 € (Elige)
+- 13 € (Elige Confort)
+{{% /expander %}}
 
 ## Klassenkategorien
 
@@ -145,7 +155,7 @@ Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht mö
 
 ### Telefonisch
 
-Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerhalb weniger Tage an einem spanischen Schalter abgeholt werden.
+Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotline wird man lediglich an Ticketschalter verwiesen, wenn man nach FIP-Tickets fragt.
 
 ### Vor Ort
 
