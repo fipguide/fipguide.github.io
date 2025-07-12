@@ -34,7 +34,10 @@ Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In andere
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
+Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt.
+
+Die internationalen AVE von / nach Frankreich sind zu den gleichen Konditionen wie inländische AVE buchbar, wobei es keine Premium Kategorie gibt. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
+
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):**
@@ -130,15 +133,6 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€
-{{% /expander %}}
-{{% expander "AVE nach/von Frankreich ⚠️" traincategory "international" %}}
-**Beschreibung:** \
-Diese Züge sind zu den gleichen Konditionen buchbar wie inländische AVE, wobei es keine Premium Kategorie gibt. Die Buchung ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):**
-- 10 € (Elige)
-- 13 € (Elige Confort)
 {{% /expander %}}
 
 ## Klassenkategorien

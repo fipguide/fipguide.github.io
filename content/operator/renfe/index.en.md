@@ -33,7 +33,10 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Description:** \
-Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted. \
+Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
+
+International connections from / to France can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet.
+
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
@@ -128,15 +131,6 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):** 4€
-{{% /expander %}}
-{{% expander "AVE from/to France ⚠️" traincategory "international" %}}
-**Description:** \
-These trains can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (regardless of distance):**
-- 10 € (Elige)
-- 13 € (Elige Confort)
 {{% /expander %}}
 
 ## Class Categories
