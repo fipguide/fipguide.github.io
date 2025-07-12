@@ -29,28 +29,24 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
 **Beschreibung:** \
 Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein \
-**Kosten für Reservierung:** 🟡 \
-5,20 € (2. Klasse) \
-6,50 € (1. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ℹ️" category %}}
+{{% expander "Train à Grande Vitesse (TGV) ⚠️" category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
-ℹ️ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig. \
+Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (grenzüberschreitende Fahrten)
+**Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️ ℹ️" category %}}
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
 **Beschreibung:** \
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
-ℹ️ Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
+Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei InterCity, EuroCity und Regionalzügen)
 {{% /expander %}}
-
 
 {{% expander "InterCity (IC)" category %}}
 **Beschreibung:** \
@@ -69,7 +65,7 @@ Nationale Züge mit Halten in größeren Städten. \
 {{% expander "Regio (R) / S-Bahn (S)" category %}}
 **Beschreibung:** \
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet. \
-**Reservierung möglich:** nein 
+**Reservierung möglich:** nein
 {{% /expander %}}
 
 
@@ -115,10 +111,11 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, 
 Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen.
 Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
 
-Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]  
+Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
-Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Beide Züge sind auch eine der wenigen Züge in der Schweiz, die reservierungspflichtig sind. Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich).  
+
+Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig außerhalb der Schweiz. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Innerhalb der Schweiz können diese Züge jedoch ohne besondere Aufschläge/Reservierungen genutzt werden. Beide Züge sind somit eine der wenigen Züge in der Schweiz, die eine Form der Reservierungspflicht aufweisen (wenn auch nur im Fahrtabschnitt außerhalb der Schweiz). Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich).
 
 ## Empfehlungen
 

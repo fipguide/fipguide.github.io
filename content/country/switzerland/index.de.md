@@ -25,14 +25,21 @@ Lediglich einige sehr touristische Verkehre sind nicht in FIP enthalten. Zudem s
 Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der topografisch nicht einfachen Umstände ist ein Großteil des Landes per Bahn erreichbar. Die Züge verkehren oft in einem dichten Takt, insbesondere auf den Hauptstrecken und sind in einem integralen Taktfahrplan miteinander gut vertaktet. Auch wenn die meisten Strecken im Land nicht für eine sehr hohe Geschwindigkeit ausgebaut sind, ergibt sich durch die kurzen Anschlüsse trotzdem oft eine überschaubare Reisezeit. Zudem ist das Bahnsystem in der Schweiz für seine Pünktlichkeit bekannt, Ausnahmen gibt es natürlich aber auch hier. Das Land ist auch gut mit seinen Nachbarländern per Bahn verbunden, auch hier gibt es regelmäßige Züge.
 
 
+
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
+| Land / Bahn | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Belgien (SNCB) | Roosendaal (fr), Visé |
+| Deutschland (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| Italien (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| Österreich (ÖBB) | Buchs (SG), St. Margrethen |
+| Frankreich (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+
+\
+[>] = In Richtung (z.B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)
 {{% /expander %}}
+
 
 ### Deutschland
 

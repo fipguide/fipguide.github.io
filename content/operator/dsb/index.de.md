@@ -15,7 +15,7 @@ Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemar
 - FIP 50 und FIP Freifahrtsscheine werden akzeptiert.
 - Es besteht größtenteils keine Reservierungspflicht.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrtsschein Angehörige: ⛔ \
@@ -36,7 +36,7 @@ InterCityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 
 
 {{% expander "InterCity (IC)" traincategory category %}}
 **Beschreibung:** \
-InterCity-Züge sind ähnlich wie die ICL-Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
+InterCity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -51,7 +51,7 @@ EuroCity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg u
 {{% expander "Regionalzug (R) ℹ️" traincategory category %}}
 **Beschreibung:** \
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam. \
-ℹ️ Auch Züge von anderen Anbietern werden als "R" angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
+ℹ️ Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}

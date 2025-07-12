@@ -43,21 +43,21 @@ Unlike in other countries, these are not real long-distance trains, but rather f
 
 {{% expander "Train local or Lokale trein (L)" traincategory category %}}
 **Description:** \
-Regional trains stopping at most stations, often simply referred to as "R" for regional train in connection information. \
+Regional trains stopping at most stations, often simply referred to as `R` for regional train in connection information. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Train S or S-Trein (S)" traincategory category %}}
 **Description:** \
-A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as "R" for regional train. \
+A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as `R` for regional train. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Train d’heure de pointe or Piekuurtrein (P)" traincategory category %}}
 **Description:** \
-Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as "R" for regional train in connection information. \
+Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as `R` for regional train in connection information. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -71,7 +71,7 @@ Additional trains during high traffic periods, especially in the summer months t
 
 {{% expander "Tourist (T)" traincategory category %}}
 **Description:** \
-Additional trains to certain tourist destinations, often simply referred to as "R" for regional train. \
+Additional trains to certain tourist destinations, often simply referred to as `R` for regional train. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -80,7 +80,7 @@ Additional trains to certain tourist destinations, often simply referred to as "
 
 ### Online
 {{% booking id="sncb_website" %}}
-When using a SNCB FIP Coupon, a cross-border ticket can be booked via the website, which takes the free travel within the Belgian section into account. To do this, select the discount "100% Discount Belgium (SNCB)" for the travelers. This allows, for example, very affordable bookings for trains from Belgium to Lille in France (except for the TGV, which has a global price and is not operated by SNCB).
+When using a SNCB FIP Coupon, a cross-border ticket can be booked via the website, which takes the free travel within the Belgian section into account. To do this, select the discount "100% Discount Belgium (SNCB)" for the travelers. This allows, for example, very affordable bookings for trains from Belgium to Lille in France (except for the `TGV`, which has a global price and is not operated by SNCB).
 {{% /booking %}}
 
 {{% booking id="db_website_fip_db"
