@@ -38,13 +38,13 @@ Switzerland has one of the densest rail networks in the world. Despite challengi
 
 ### Germany
 
-There are several cross-border connections from Germany to Switzerland. The most used is from Freiburg im Breisgau to Basel. `ICE` trains run here usually once or twice per hour in each direction, coming from Hamburg, Kassel, Frankfurt (Main), or Hannover, Dortmund, Cologne, Frankfurt (Main), and then sharing the same route between Mannheim and Basel. In Switzerland, some continue to Zurich, Interlaken, Bern, or Chur. There are also occasional `EC` and `ECE` trains on the route, also from Mannheim. Regional trains run from Germany to Basel as well. Note that DB FIP free travel passes are valid up to Basel Bad Bf (Badischer Bahnhof), as this is an official border point for DB and SBB.
+There are several cross-border connections from Germany to Switzerland. The most used is from Freiburg im Breisgau to Basel. `ICE` trains run here usually once or twice per hour in each direction, coming from Hamburg, Kassel, Frankfurt (Main), or Hannover, Dortmund, Cologne, Frankfurt (Main), and then sharing the same route between Mannheim and Basel. In Switzerland, some continue to Zurich, Interlaken, Bern, or Chur. There are also occasional `EC` and `ECE` trains on the route, also from Mannheim. Regional trains run from Germany to Basel as well. Note that DB FIP free travel passes are valid up to Basel Bad Bf (Badischer Bahnhof), as this is an official border station (border point) for DB and SBB.
 
 {{% highlight tip %}}
 To enter Switzerland without using an SBB ticket (e.g. FIP Coupon or FIP 50), you can use S-Bahn line 6 from Basel Badischer Bahnhof to Basel SBB with the Deutschland-Ticket. [^1]
 {{% /highlight %}}
 
-Other important cross-border routes are Stuttgart - Zurich via Schaffhausen (border point, DB and SBB Coupons valid) and Munich - Zurich via Lindau and St. Gallen, served by `IC` and `ECE` trains. The route from Lindau to St. Gallen passes briefly through Austria, so an ÖBB ticket is required.
+Other important cross-border connections include the routes Stuttgart – Zurich via Schaffhausen (a joint border station of SBB and DB) and Munich – Zurich via Lindau and St. Gallen, which are served by `IC` and `ECE` trains. When traveling from Lindau to St. Gallen, the route briefly passes through Austria, so an ÖBB ticket is required for this section.
 
 {{% highlight tip %}}
 For this short section, it's best to buy a FIP 50 Ticket, otherwise the [ÖBB long-distance surcharge]({{< ref "/country/austria#schweiz" >}} "Arrival Switzerland") must theoretically be paid.

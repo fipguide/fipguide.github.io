@@ -14,15 +14,13 @@ params:
 
 ## FIP Nutzung
 
-In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahrtsscheine und FIP 50 Tickets erworben werden können. Zum einen ist hier die staatliche Bahngesellschaft [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") (Schweizerische Bundesbahnen - Chemins de fer fédéraux suisses - Ferrovie federali svizzere FFS), zu nennen, die besonders auf den meisten Hauptstrecken verkehrt. Dazu kommt noch ein Konsortium von Schweizer Privatbahnen ([SP]({{< ref "/404" >}} "SP")) sowie die Berner Alpenbahngesellschaft Bern–Lötschberg–Simplon ([BLS]({{< ref "/404" >}} "BLS")). In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einigen Verkehrsmitteln, die europaweit einmalig mit FIP sind, beispielsweise Seilbahnen oder bestimmte Buslinien.  
+In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahrtsscheine und FIP 50 Tickets erworben werden können. Zum einen ist hier die staatliche Bahngesellschaft [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") (Schweizerische Bundesbahnen - Chemins de fer fédéraux suisses - Ferrovie federali svizzere FFS), zu nennen, die besonders auf den meisten Hauptstrecken verkehrt. Dazu kommt noch ein Konsortium von Schweizer Privatbahnen ([SP]({{< ref "/404" >}} "SP")) sowie die Berner Alpenbahngesellschaft Bern–Lötschberg–Simplon ([BLS]({{< ref "/404" >}} "BLS")). In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einigen Verkehrsmitteln, die europaweit einmalig mit FIP sind, beispielsweise Seilbahnen oder bestimmte Buslinien.
 
 Lediglich einige sehr touristische Verkehre sind nicht in FIP enthalten. Zudem sind grenzüberschreitende Reisen nach Frankreich und Italien mit etwas Aufwand verbunden, da hier spezielle Aufschläge dazu kommen.
 
-## Wissenswertes  
+## Wissenswertes
 
 Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der topografisch nicht einfachen Umstände ist ein Großteil des Landes per Bahn erreichbar. Die Züge verkehren oft in einem dichten Takt, insbesondere auf den Hauptstrecken und sind in einem integralen Taktfahrplan miteinander gut vertaktet. Auch wenn die meisten Strecken im Land nicht für eine sehr hohe Geschwindigkeit ausgebaut sind, ergibt sich durch die kurzen Anschlüsse trotzdem oft eine überschaubare Reisezeit. Zudem ist das Bahnsystem in der Schweiz für seine Pünktlichkeit bekannt, Ausnahmen gibt es natürlich aber auch hier. Das Land ist auch gut mit seinen Nachbarländern per Bahn verbunden, auch hier gibt es regelmäßige Züge.
-
-
 
 ## Anreise und Grenzpunkte
 
@@ -41,13 +39,13 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 
 ### Deutschland
 
-Von Deutschland aus gibt es mehrere grenzüberschreitende Verbindungen in die Schweiz. Die meistgenutzte ist hier aus Freibug im Breisgau kommend nach Basel. Hier verkehren `ICE` Züge tagsüber meist ein bis zweimal pro Stunde pro Richtung. Diese kommen entweder aus Richtung Hamburg, Kassel, Frankfurt (Main) oder Hannover, Dortmund, Köln, Frankfurt (Main) und fahren dann zwischen Mannheim und Basel auf der gleichen Strecke. In der Schweiz werden einige fortgeführt bis nach Zürich, Interlaken, Bern oder Chur. Ebenfalls verkehren vereinzelt `EC` und `ECE` Züge auf der Strecke, die ebenfalls aus Richtung Mannheim kommen. Auch Regionalzüge verkehren aus Deutschland bis Basel. Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-Freifahrtsscheine der DB noch gültig sind, da dies ein offizieller Grenzpunkt der DB und SBB ist.
+Von Deutschland aus gibt es mehrere grenzüberschreitende Verbindungen in die Schweiz. Die meistgenutzte ist hier aus Freibug im Breisgau kommend nach Basel. Hier verkehren `ICE` Züge tagsüber meist ein bis zweimal pro Stunde pro Richtung. Diese kommen entweder aus Richtung Hamburg, Kassel, Frankfurt (Main) oder Hannover, Dortmund, Köln, Frankfurt (Main) und fahren dann zwischen Mannheim und Basel auf der gleichen Strecke. In der Schweiz werden einige fortgeführt bis nach Zürich, Interlaken, Bern oder Chur. Ebenfalls verkehren vereinzelt `EC` und `ECE` Züge auf der Strecke, die ebenfalls aus Richtung Mannheim kommen. Auch Regionalzüge verkehren aus Deutschland bis Basel. Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-Freifahrtsscheine der DB noch gültig sind, da dies ein offizieller Grenzbahnhof (Grenpunkt) der DB und SBB ist.
 
 {{% highlight tip %}}
 Um ohne Nutzung eines SBB Tickets (z.B. FIP Freifahrtschein oder FIP 50) in die Schweiz einzureisen, kann ab Basel Badischer Bahnhof die S-Bahn Linie 6 mit dem Deutschland-Ticket bis Basel SBB genutzt werden. [^1]
 {{% /highlight %}}
 
-Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart - Zürich über Schaffhausen (Grenzpunkt, DB und SBB Freifahrtsscheine gültig) sowie München - Zürich über Lindau und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen füht die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
+Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart - Zürich über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie München - Zürich über Lindau und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen füht die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
 
 {{% highlight tip %}}
 Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theoretisch der [ÖBB Fernverkehrsaufschlag]({{< ref "/country/austria#schweiz" >}} "Anreise Schweiz" ) gezahlt werden muss.
@@ -69,11 +67,11 @@ Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand
 
 ### Liechtenstein
 
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und wird von den [Österrischen Bundensbahnen (ÖBB)]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs in der Schweiz auch Freifahrten und FIP 50 Tickets der ÖBB. Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.  
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und wird von den [Österrischen Bundensbahnen (ÖBB)]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs in der Schweiz auch Freifahrten und FIP 50 Tickets der ÖBB. Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
 ### Österreich
 
-Österreich und die Schweiz haben nur einen richtigen Grenzübergang, nämlich in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren. Ein nicht ganz so richtiger Grenzübergang befindet sich jedoch auch bei Buchs. Hier ist eigentlich der Grenzübergang zu Liechtenstein, allerdings gelten in dem Land noch [FIP-Tickets der ÖBB]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB"). Es ist somit möglich mit beispielsweise FIP-Freifahrttsscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.   
+Österreich und die Schweiz haben nur einen richtigen Grenzübergang, nämlich in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren. Ein nicht ganz so richtiger Grenzübergang befindet sich jedoch auch bei Buchs. Hier ist eigentlich der Grenzübergang zu Liechtenstein, allerdings gelten in dem Land noch [FIP-Tickets der ÖBB]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB"). Es ist somit möglich mit beispielsweise FIP-Freifahrttsscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr. 
 
 ## FIP Bewertung
 

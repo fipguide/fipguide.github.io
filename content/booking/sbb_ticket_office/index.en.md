@@ -26,4 +26,3 @@ FIP 50 tickets for travel within Switzerland and to many European countries can 
 Reservations can be made for Switzerland as well as for most trains throughout Europe.
 
 {{% /booking-section %}}
-
