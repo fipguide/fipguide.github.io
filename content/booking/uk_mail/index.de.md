@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Buchung per Mail bei International 
 params:
     fip_global_fare: true
     type: "email"
-    fee: 10 £
+    fee: 10£
 ---
 
 **FIP Globalpreis**
