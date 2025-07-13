@@ -84,6 +84,15 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 - 10 € (Elige Confort)
 {{% /expander %}}
 
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
+**Description:** \
+The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):** 4€
+{{% /expander %}}
+
+
 ### Middle distance
 
 {{% expander "Avant ⚠️" traincategory "middle-distance" %}}
@@ -122,15 +131,6 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 
 **Reservation possible:** no \
 **Reservation required:** no
-{{% /expander %}}
-
-### International
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
-**Description:** \
-The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (regardless of distance):** 4€
 {{% /expander %}}
 
 ## Class Categories
