@@ -1,7 +1,7 @@
 {{ partial "headMeta" . }}
 
 <title>
-  {{ if .IsHome }}{{ site.Title }} {{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
+  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
 </title>
 {{ partialCached "head/js" . }}
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
