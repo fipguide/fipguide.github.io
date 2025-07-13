@@ -60,7 +60,7 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 ### Switzerland
 
-From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (Eurocity, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/obb##validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
+From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (Eurocity, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/obb#validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
 
 ### Italy
 
@@ -76,6 +76,6 @@ Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from
 
 From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽis required from the border or a FIP 50 ticket must be booked.
 
-## FIP Evaluation
+## FIP Rating
 
 Overall, Austria has an impeccable infrastructure and scenic routes, and most journeys are operated by ÖBB. This makes it possible to travel a large part of the country with FIP tickets. However, the surcharge (without reservation) on long-distance trains, regardless of the route (in 1st class €15, in 2nd class €10), slightly dampens the FIP experience.

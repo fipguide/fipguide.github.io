@@ -169,7 +169,7 @@ Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets
 
 ## Ermäßigungen
 
-Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40 % auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
+Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40% auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
 
 ## Tarifliche Besonderheiten
 

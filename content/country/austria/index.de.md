@@ -61,7 +61,7 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Schweiz
 
-Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (Eurocity, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der [Zuschlag (10/15€)]({{< ref "/operator/obb##gültigkeit-fip-tickets" >}} "ÖBB Zuschlag") zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
+Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (Eurocity, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der [Zuschlag (10/15€)]({{< ref "/operator/obb#gültigkeit-fip-tickets" >}} "ÖBB Zuschlag") zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
 
 ### Italien
 

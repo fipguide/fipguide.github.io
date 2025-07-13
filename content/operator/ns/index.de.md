@@ -46,7 +46,7 @@ Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüs
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/Intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
+Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
@@ -67,7 +67,7 @@ Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Ams
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/Intercity-direct-supplement.html) in Höhe von 3€ zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
+Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3€ zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben. \
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
