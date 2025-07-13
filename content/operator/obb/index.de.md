@@ -37,9 +37,9 @@ Kosten: \
 
 ### Fernverkehr
 
-{{% expander "Railjet (RJ) / RailjetExpress (RJX)" traincategory "long-distance" %}}
+{{% expander "Railjet (RJ) / Railjet Xpress (RJX)" traincategory "long-distance" %}}
 **Beschreibung:** \
-Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die Züge verkehren regelmäßig zwischen den wichtigsten Städten Österreichs, aber auch nach Deutschland, Italien, Tschechien, Ungarn, in die Slowakei und Schweiz. Die Züge besitzen 3 Wagenklassen und ein Bistro. Railjets mit weniger Halten werden als RailjetExpress vermarktet.
+Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die Züge verkehren regelmäßig zwischen den wichtigsten Städten Österreichs, aber auch nach Deutschland, Italien, Tschechien, Ungarn, in die Slowakei und Schweiz. Die Züge besitzen 3 Wagenklassen und ein Bistro. Railjets mit weniger Halten werden als Railjet Xpress vermarktet.
 
 Für Railjets nach italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien). \
 **Reservierung möglich:** ja \
@@ -93,7 +93,7 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 
 ### Nahverkehr
 
-{{% expander "Regionalexpress (REX) / CityJetExpress (CJX) ℹ️" traincategory "local" %}}
+{{% expander "Regionalexpress (REX) / Cityjet Xpress (CJX) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
@@ -129,7 +129,7 @@ Dazu gehören unter anderem:
 
 ## Klassenkategorien
 
-In Railjet(Express)-Zügen gibt es abweichende Klassenkategorien:
+In Railjet(Xpress)-Zügen gibt es abweichende Klassenkategorien:
 
 **Economy**: Vergleichbar mit der 2. Klasse. \
 **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \

@@ -40,7 +40,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Reservation required:** ⚠️ only for cross-border journeys
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) / EurocityExpress (ECE) ⚠️" category %}}
+{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" category %}}
 **Description:** \
 International trains to Germany and Italy. \
 

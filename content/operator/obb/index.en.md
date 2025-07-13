@@ -37,9 +37,9 @@ Cost: \
 
 ### Long-Distance
 
-{{% expander "Railjet (RJ) / RailjetExpress (RJX)" traincategory "long-distance" %}}
+{{% expander "Railjet (RJ) / Railjet Xpress (RJX)" traincategory "long-distance" %}}
 **Description:** \
-National and international high-speed trains of ÖBB’s highest category. They run regularly between Austria’s major cities and to Germany, Italy, Czech Republic, Hungary, Slovakia, and Switzerland. Trains have 3 classes and a bistro. Railjets with fewer stops are marketed as RailjetExpress.
+National and international high-speed trains of ÖBB’s highest category. They run regularly between Austria’s major cities and to Germany, Italy, Czech Republic, Hungary, Slovakia, and Switzerland. Trains have 3 classes and a bistro. Railjets with fewer stops are marketed as Railjet Xpress.
 
 For Railjets to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy). \
 **Reservation possible:** yes \
@@ -93,7 +93,7 @@ Depends on route, occupancy, and car category.
 
 ### Local Services
 
-{{% expander "Regionalexpress (REX) / CityJetExpress (CJX) ℹ️" traincategory "local" %}}
+{{% expander "Regionalexpress (REX) / Cityjet Xpress (CJX) ℹ️" traincategory "local" %}}
 **Description:** \
 Fast local train with fewer stops and modern rolling stock.
 
