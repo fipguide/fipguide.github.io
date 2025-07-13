@@ -153,16 +153,15 @@
 }
 
 .o-header__item .o-header__item-countries {
-  display: flex;
+  display: grid;
+  justify-items: flex-end;
 
   @media (min-width: #{$breakpoint-md}) {
     display: none;
     z-index: 2;
     position: absolute;
     padding: 1rem;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-items: flex-start;
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
@@ -170,7 +169,10 @@
   }
 
   &.o-header__item-countries--open {
-    display: flex;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: auto;
   }
 }
 
