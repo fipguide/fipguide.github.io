@@ -39,7 +39,7 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 **FIP Globalpreis (Distanzunabhängig):**
 - 10 € (Elige)
 - 13 € (Elige Confort)
-- 23,50€ (Premium)
+- 23,50 €(Premium)
 {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
@@ -58,7 +58,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtssche
 **FIP Globalpreis (Distanzunabhängig):**
 - 6,50 € (Elige)
 - 10 € (Elige Confort)
-- 23,50€ (Premium)
+- 23,50 €(Premium)
 {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}

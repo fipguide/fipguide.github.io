@@ -38,7 +38,7 @@ Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons a
 **FIP Global Fare (regardless of distance):**
 - 10 € (Elige Estándar)
 - 13 € (Elige Confort)
-- 23,50€ (Premium)
+- 23,50 €(Premium)
 {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
@@ -57,7 +57,7 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **FIP Global Fare (regardless of distance):**
 - 6,50 € (Elige Estándar)
 - 10 € (Elige Confort)
-- 23,50€ (Premium)
+- 23,50 €(Premium)
 {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}

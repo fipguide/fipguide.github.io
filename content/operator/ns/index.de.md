@@ -35,7 +35,7 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
 **Zuschlag**: ⚠️ \
-Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
+Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3 €pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 {{% /expander %}}
 

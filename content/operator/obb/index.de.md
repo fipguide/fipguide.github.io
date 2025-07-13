@@ -194,15 +194,15 @@ Auf internationalen Fernzugverbindungen von Österreich nach Italien werden FIP 
 
 #### Brenner - Bozen - Verona
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 €für die 2. Klasse und 15 €für die 1. Klasse zu zahlen.
 
 #### Railjet Tarvisio Boscoverde - Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 €für die 2. Klasse und 15 €für die 1. Klasse zu zahlen.
 
 #### EuroCity Triest
 
-FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60€ für die 2. Klasse und 4,60€ für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
+FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60 €für die 2. Klasse und 4,60 €für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
 ### Pamhagen - Neusiedl am See
 Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.

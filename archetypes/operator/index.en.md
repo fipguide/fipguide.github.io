@@ -58,7 +58,7 @@ FIP Global Fare: <✅/⛔>
 **Reservation possible:** <yes/no> \
 **Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
 **Cost of reservation:** <!-- Enter the costs here by class, route, etc. If there are no fixed prices, then provide a price range or examples. --> \
-2nd class: XX€ \
+2nd class: XX €\
 1st class: XX€
 <!-- If FIP is not valid, add the following:
 **FIP:** ⛔ FIP is not accepted
