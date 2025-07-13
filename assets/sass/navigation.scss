@@ -165,13 +165,13 @@
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
-  }
 
-  &.o-header__item-countries--open {
-    display: grid;
-    grid-auto-flow: column;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-columns: auto;
+    &.o-header__item-countries--open {
+      display: grid;
+      grid-auto-flow: column;
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: auto;
+    }
   }
 }
 
