@@ -1,0 +1,7 @@
+{{- $patternFnref := `fnref:(\d+)` -}}
+{{- $replacementFnref := (printf "fnref:%s:$1" .prefix) -}}
+{{- $patternFn := `fn:(\d+)` -}}
+{{- $replacementFn := (printf "fn:%s:$1" .prefix) -}}
+{{- $content := replaceRE $patternFnref $replacementFnref .content -}}
+{{- $content := replaceRE $patternFn $replacementFn $content -}}
+{{- return $content -}}
