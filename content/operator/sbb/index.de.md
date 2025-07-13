@@ -40,12 +40,17 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
+{{% expander "EuroCity (EC) / EuroCityExpress (ECE) ⚠️" category %}}
 **Beschreibung:** \
-Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
-Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
+Internationale Züge Richtung Deutschland und Italien. \
+
+⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). \
+Aufschlag/Reservierung: \
+1\. Klasse: 13 € \
+2\. Klasse: 11 €
+
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei InterCity, EuroCity und Regionalzügen)
+**Reservierungspflicht:** ⚠️ nur für den italienischen Abschnitt
 {{% /expander %}}
 
 {{% expander "InterCity (IC)" category %}}
@@ -53,6 +58,14 @@ Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regi
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
+{{% /expander %}}
+
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
+**Beschreibung:** \
+Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
+Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei InterCity, EuroCity und Regionalzügen)
 {{% /expander %}}
 
 {{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
@@ -85,6 +98,10 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 /%}}
 
+### Telefon
+
+{{% booking id="obb_phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
+
 ### Vor Ort
 
 {{% booking id="sbb_ticket_office"/%}}
@@ -94,7 +111,6 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 ### Im Zug
 
 Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets.
-
 
 ## Ermäßigungen
 
@@ -120,7 +136,7 @@ Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Der FIP-Freifahrtsschein lohnt sich für die SBB / CFF / FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
+Der FIP-Freifahrtsschein lohnt sich für die SBB CFF FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
 {{% /highlight %}}
 
 ## Quellen
