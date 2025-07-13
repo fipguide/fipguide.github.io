@@ -25,7 +25,7 @@ In Spanien ist die Nutzung von FIP nicht immer einfach, da hier einfach einsteig
 
 ### Frankreich
 
-Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona. Bei beiden sind FIP Globalpreise möglich, die jedoch sehr teuer werden können. Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
+Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid. Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können. Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich. Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
 ### Portugal
 

@@ -15,6 +15,7 @@ Renfe Operadora is a Spanish state-owned railroad company. It operates comfortab
 - FIP free tickets are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
 - For trains requiring reservations, tickets can be purchased at the FIP Global Fare (regardless of distance), including the reservation; FIP Coupons are not needed.
 - FIP is not accepted on Avlo trains.
+- For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP global prices apply as for domestic AVEs.
 
 ## Validity of FIP tickets
 
@@ -32,7 +33,10 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Description:** \
-Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted. \
+Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
+
+International connections from / to France can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet.
+
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
@@ -80,6 +84,15 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 - 10 € (Elige Confort)
 {{% /expander %}}
 
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
+**Description:** \
+The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):** 4€
+{{% /expander %}}
+
+
 ### Middle distance
 
 {{% expander "Avant ⚠️" traincategory "middle-distance" %}}
@@ -120,15 +133,6 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 **Reservation required:** no
 {{% /expander %}}
 
-### International
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
-**Description:** \
-The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (regardless of distance):** 4€
-{{% /expander %}}
-
 ## Class Categories
 
 **Elige Estándar / Turista**: Comparable to 2nd class. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
@@ -143,7 +147,7 @@ It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
 ### By telephone
 
-It is possible to book by telephone with Renfe, but the ticket must be collected from a Spanish counter within a few days.
+It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hotline asks you to use the on-site ticket counters.
 
 ### On-site
 

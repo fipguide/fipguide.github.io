@@ -45,8 +45,8 @@
 {{- if or (eq .reservations false) (eq .reservations "nil") }}
   {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
 {{- end -}}
-<div class="{{ delimit $contentClasses " " }}">
-    {{- .page.Content -}}
+<div class="{{ delimit $contentClasses ' ' }}">
+    {{- partial "prefix-footnotes" (dict "content" .page.Content "prefix" .page.File.ContentBaseName) | safeHTML -}}
 </div>
 
 {{ partial "booking-links" .page }}

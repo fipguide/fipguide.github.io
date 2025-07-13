@@ -31,7 +31,7 @@ Stations usually have ticket barriers, which require a valid digital or analog t
 
 ### France
 
-From Paris, direct `TGV` trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona. FIP Global Fares are available with both operators, although they can be very expensive. Overall, there are very few cross-border connections, and the network was significantly better developed just a few years ago.
+From Paris, direct `TGV` trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona as well as Marseille and Madrid. FIP Global Fares are available with both operators, but can be very expensive with the SNCF. For trains operated by Renfe, the same prices apply as for domestic AVEs, but these tickets are only available onsite at Renfe ticket offices. Overall, there are very few cross-border connections, and the network was significantly better developed just a few years ago.
 
 ### Portugal
 
