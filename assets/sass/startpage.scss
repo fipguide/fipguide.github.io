@@ -19,6 +19,7 @@
     font-weight: 800;
     font-size: 6.2rem;
     line-height: 1.1;
+    margin-bottom: 1rem;
   }
 
   > div {
@@ -26,7 +27,7 @@
   }
 
   @media (max-width: #{$breakpoint-md}) {
-    h2 {
+    h1 {
       font-size: 4.8rem;
     }
   }
