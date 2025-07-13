@@ -12,6 +12,6 @@ Additionally, the prices for seat reservations will increase:
 1st class: €6.90 (previously €6.50)
 2nd class: €5.90 (previously €5.50)
 
-Information about reservations on Bahn.de can be found [here]({{< ref "/booking/db-website" >}} "DB Website Booking").
+Information about reservations can be found [here on Bahn.de]({{< ref "/booking/db-website" >}} "DB Website Booking").
 
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)
