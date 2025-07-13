@@ -178,10 +178,10 @@ img {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-  }
 
-  &__content p {
+    p {
       text-align: justify;
+    }
   }
 
   &__news-image {

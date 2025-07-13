@@ -1,5 +1,5 @@
 .o-booking__summary {
-    position: relative;
+    display: flex;
     &:hover,
     &:focus {
         .o-booking__title-text {
