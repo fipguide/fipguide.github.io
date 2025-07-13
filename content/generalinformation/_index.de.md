@@ -8,9 +8,57 @@ faqs:
     answer: "Anspruchsberechtigt sind in der Regel aktive und pensionierte Mitarbeitende ..."
 ---
 
-Hier findest du übergreifende Informationen zum FIP Guide.
+## Allgemein
 
-## Allgemeines
+FIP steht für _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. Es ist die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals. Mit FIP sind Fahrvergünstigungen für Mitarbeiter im europäischen Ausland verfügbar.
+
+Damit FIP Fahrvergünstigungen genutzt werden können, muss die Berechtigung für die Nutzung von FIP vorliegen. Im Regelfall ist dies nach einem Jahr Firmenzugehörigkeit gegeben, jedoch sind abweichende Regeln je nach Arbeitgeber möglich.
+
+{{% highlight important %}}
+Im folgenden werden die allgemeinen FIP Grundlagen erklärt. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor der Reise sollte sich immer mit den Regeln von bestimmten Bahngesellschaften bekannt gemacht werden. Dabei hilft der FIP Guide:
+
+[Übersicht der Bahngesellschaften]({{% ref "/operator"%}} "Übersicht Bahngesellschaften" )
+
+[Übersicht der Ländern]({{% ref "/country" %}} "Übersicht Länder" )
+{{% /highlight %}}
+
+## Vergünstigungen
+
+FIP Vergünstigungen stehen in existieren in verschiedenen Formen:
+
+- **FIP Freifahrtscheine**: Diese berechtigen zur Fahrt mit Zügen den angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht auch verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tage ausgefüllt werden. Die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. FIP Freifahrtscheine werden teilweise auch als _FIP Coupons_ bezeichnet.
+
+{{% highlight important %}}
+Nach Rückkehr ins Bahnnetz des Heimatlandes ist innerhalb der Geltungsdauer des Freifahrscheines eine erneute Einreise in das Land nicht möglich, das an das Streckennetz des Heimatlandes angrenzt.
+{{% /highlight %}}
+
+{{% highlight tip %}}
+Um Freifahrtscheine zu Nutzen und währenddessen ins Bahnnetz des Heimatlandes zu fahren. Kann nach der ersten Einreise mit FIP Freifahrtschein in ein Land alle folgenden Grenzübertritte mit anderen Fahrkarten (außer dem FIP Freifahrtschein) erfolgen. So findet eine Ausreise mit dem FIP Freifahrtschein nicht statt. Für die letzte Ausreise aus dem anderen Land in das Heimatland kann abschließend der Freifahrtschein wieder genutzt werden. Eine erneute Einreise in das Land ist mit diesem Freifahrtschein dann jedoch nicht mehr möglich.
+{{% /highlight %}}
+
+??? Bild von einem FIP Freifahrtschein ???
+
+- **FIP 50 Tickets**: FIP Berechtigte können reduzierte Tickets erwerben. Diese kosten im Regelfall 50% des Flexiblen Preises. Daher sind diese Tickets nicht zuggebunden und flexibel auf der STrecke nutzbar (ausgenommen reservierungspflichtige Züge). Ein FIP 50 Ticket kann mehrere Betreiber abdecken.
+
+- **FIP Globalpreise**: Für einige Züge existieren spezielle Preise und Sonderregeln. Diese sind weder mit FIP 50 Tickets noch mit FIP Freifahrtschein fahrtbar. Stattdessen muss ein spezieller FIP Globalpreis für die konkrete Zugverbindung erworben werden (diese Tickets sind also zuggebunden). FIP Globalpreise sind z.B. für den Eurostar, den ICE/TGV Verkehr zwischen Deutschland und Frankreich (nur französischer Abschnitt) odder bei der Nutzung von ÖBB Nightjets in Deutschland von DB Mitarbeitern erforderlich.
+
+{{% highlight important %}}
+FIP Vergünstigungen gelten nicht im eigenen Land. Auch wenn auf FIP 50 Tickets ein Ticketabschnitt im eigenen Land eingetragen ist, gilt das Ticket dort nicht. Für diesen Ticketabschnitt muss eine separate Fahrkarte oder nationale Vergünstigung genutzt werden. Ausgenommen hiervon sind nur FIP Globalpreise.
+{{% /highlight %}}
+
+## FIP Ausweis
+
+Mit die Nutzung ist ein _FIP Ausweis_ erforderlich. Diese ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027. Der FIP Ausweis wird als Legitimation für FIP 50 Tickets benötigt.
+
+{{% highlight tip %}}
+Offiziell wird der _FIP Ausweis_ für die Nutzung von _FIP Freifahrtsscheine_ nicht benötigt. Jedoch fordern Zugbegleiter ihn in der Praxis trotzdem teilweise ein. Um Probleme zu vermeiden, sollte er also auch bei der Nutzung von _FIP Freifahrtscheine_ vorgezeigt werden können.
+{{% /highlight %}}
+
+## Grenzpunkte
+
+To be continued
+
+## FAQ
 
 {{% faq %}}
 
