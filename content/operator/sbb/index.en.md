@@ -11,7 +11,7 @@ SBB (Swiss Federal Railways) - (Chemins de fer fédéraux suisses CFF, Ferrovie 
 ## Summary
 
 - SBB accepts FIP Coupons and FIP 50 Tickets
-- Reservation required and surcharges for some international Eurocity trains and all TGV trains
+- Reservation requirement and surcharges for international Eurocity trains from the Italian border and TGV trains from the French border
 
 ## Validity of FIP Tickets
 
@@ -25,7 +25,7 @@ FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections.
 
 ## Train Categories and Reservations
 
-{{% expander "Intercity Express (ICE)" category %}}
+{{% expander "Intercity-Express (ICE)" category %}}
 **Description:** \
 High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland. \
 **Reservation possible:** yes \
@@ -40,7 +40,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Reservation required:** ⚠️ only for cross-border journeys
 {{% /expander %}}
 
-{{% expander "EuroCity (EC) / EuroCityExpress (ECE) ⚠️" category %}}
+{{% expander "Eurocity (EC) / EurocityExpress (ECE) ⚠️" category %}}
 **Description:** \
 International trains to Germany and Italy. \
 
@@ -52,7 +52,7 @@ Surcharge/Reservation: \
 **Reservation required:** ⚠️ only for the Italian section
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "Intercity (IC)" category %}}
 **Description:** \
 Fast national trains stopping only in major cities and transfer stations. \
 **Reservation possible:** yes \
@@ -62,9 +62,9 @@ Fast national trains stopping only in major cities and transfer stations. \
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
 **Description:** \
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others. \
-These trains sometimes also operate as InterCity, EuroCity, or regional trains, in which case no reservation is required for seat cars. \
+These trains sometimes also operate as Intercity, Eurocity, or regional trains, in which case no reservation is required for seat cars. \
 **Reservation possible:** yes \
-**Reservation required:** ⚠️ yes (not in seat cars when operating as InterCity, EuroCity, or regional trains)
+**Reservation required:** ⚠️ yes (not in seat cars when operating as Intercity, Eurocity, or regional trains)
 {{% /expander %}}
 
 {{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
@@ -115,7 +115,7 @@ FIP Tickets cannot be purchased on the train. A penalty fee is charged for passe
 
 Children travel free on regular journeys (not special trips) up to and including 6 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
 
-## Special Fare Conditions
+## Special Tariff Conditions
 
 ### Buses and Rail Replacement Services
 

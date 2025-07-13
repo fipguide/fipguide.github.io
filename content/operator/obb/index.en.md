@@ -46,7 +46,7 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "InterCity (IC) / IntercityExpress (ICE) ℹ️" traincategory "long-distance" %}}
+{{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Description:** \
 Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Vienna–Gmunden–Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
 
@@ -55,28 +55,28 @@ Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` t
 **Reservation mandatory:** Sometimes in high season (summer) on international routes to Germany, only for cross-border journeys.
 {{% /expander %}}
 
-{{% expander "Interregio (IR)" traincategory "long-distance" %}}
+{{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Description:** \
-From August 2025, Interregio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz–Unzmarkt or Graz–Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours. \
+From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz–Unzmarkt or Graz–Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" traincategory "long-distance" %}}
+{{% expander "Eurocity (EC)" traincategory "long-distance" %}}
 **Description:** \
 International trains to neighboring countries operated by ÖBB in cooperation with other railways. Some of these services are also labeled as `IC`.
 
-For EuroCity trains to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy). \
+For Eurocity trains to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy). \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "NightJet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
 **Description:** \
 ÖBB night trains to various European countries. They offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railways. \
-For NightJet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railways traveled through is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased. \
-⚠️ National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the NightJet journey is in Germany (start, end, or transit), DB staff must buy a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/surcharge for sleeper/couchette cars is required. \
-_Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the NightJet there to avoid the FIP Global Fare. \
+For Nightjet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railways traveled through is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased. \
+⚠️ National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the Nightjet journey is in Germany (start, end, or transit), DB staff must buy a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/surcharge for sleeper/couchette cars is required. \
+_Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP Global Fare. \
 **Reservation possible:** yes \
 **Reservation mandatory:** ⚠️ yes \
 **FIP Global Fare:** yes \
@@ -200,7 +200,7 @@ On international long-distance services from Austria to Italy, ÖBB FIP Coupons 
 
 ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable.
 
-#### EuroCity Trieste
+#### Eurocity Trieste
 
 ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 

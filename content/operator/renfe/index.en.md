@@ -24,7 +24,7 @@ FIP Coupons for relatives: ⛔ \
 FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
-## Train categories and reservations
+## Train Categories and Reservations
 {{% highlight important %}}
 Only commuter trains can be used without restrictions with FIP Coupons. For other trains, a ticket at the FIP Global Fare usually needs to be purchased.
 {{% /highlight %}}
@@ -40,9 +40,9 @@ International connections from / to France can be booked at the same conditions 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 10 € (Elige Estándar)
-- 13 € (Elige Confort)
-- 23,50 €(Premium)
+- 10€ (Elige Estándar)
+- 13€ (Elige Confort)
+- 23,50€ (Premium)
 {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
@@ -59,9 +59,9 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige Estándar)
-- 10 € (Elige Confort)
-- 23,50 €(Premium)
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
+- 23,50€ (Premium)
 {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
@@ -70,8 +70,8 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige Estándar)
-- 10 € (Elige Confort)
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
@@ -80,8 +80,8 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige Estándar)
-- 10 € (Elige Confort)
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 {{% /expander %}}
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
@@ -139,7 +139,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 **Elige Confort**: An XL Comfort seat without catering. Is comparable to 1st class. A 1st class FIP Card is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
 **Premium**: An XL Comfort seat including catering. Comparable to 1st class. A FIP-Card 1st class is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
 
-## Ticket and reservation purchase
+## Ticket and Reservation Purchase
 
 ### Online
 

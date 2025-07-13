@@ -11,7 +11,7 @@ Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, 
 ## Zusammenfassung
 
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht und Zuschläge für einige internationale Eurocity-Züge und alle TGV-Züge
+- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und TGV-Züge ab der französischen Grenze
 
 ## Gültigkeit FIP-Tickets
 
@@ -25,7 +25,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "Intercity Express (ICE)" category %}}
+{{% expander "Intercity-Express (ICE)" category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt. \
 **Reservierung möglich:** ja \
@@ -40,7 +40,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "EuroCity (EC) / EuroCityExpress (ECE) ⚠️" category %}}
+{{% expander "Eurocity (EC) / EurocityExpress (ECE) ⚠️" category %}}
 **Beschreibung:** \
 Internationale Züge Richtung Deutschland und Italien. \
 
@@ -52,7 +52,7 @@ Aufschlag/Reservierung: \
 **Reservierungspflicht:** ⚠️ nur für den italienischen Abschnitt
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" category %}}
+{{% expander "Intercity (IC)" category %}}
 **Beschreibung:** \
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. \
 **Reservierung möglich:** ja \
@@ -62,9 +62,9 @@ Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegs
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
 **Beschreibung:** \
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
-Die Züge verkehren teilweise zusätzlich auch als InterCity, EuroCity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
+Die Züge verkehren teilweise zusätzlich auch als Intercity, Eurocity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei InterCity, EuroCity und Regionalzügen)
+**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity, Eurocity und Regionalzügen)
 {{% /expander %}}
 
 {{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}

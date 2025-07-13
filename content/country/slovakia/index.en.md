@@ -14,7 +14,7 @@ Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Inclu
 spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid.
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
-Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for RailJet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
+Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
 
 ## Interesting
 
@@ -36,11 +36,11 @@ From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used 
 
 ### Austria
 
-From Austria, cross-border InterCity, RailJet, and regional trains (REX) are available. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. The exception is the `D` trains between Bratislava and Vienna, which can be used with the ZSSK Coupon for the entire route (including in Austria).
+From Austria, cross-border Intercity, Railjet, and regional trains (REX) are available. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. The exception is the `D` trains between Bratislava and Vienna, which can be used with the ZSSK Coupon for the entire route (including in Austria).
 
 ### Hungary
 
-From Hungary, both cross-border regional trains and EuroCity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP ticket of GySEV is required; in other cases, an additional FIP ticket of MAV-Start is required.
+From Hungary, both cross-border regional trains and Eurocity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP ticket of GySEV is required; in other cases, an additional FIP ticket of MAV-Start is required.
 
 ### Poland
 
