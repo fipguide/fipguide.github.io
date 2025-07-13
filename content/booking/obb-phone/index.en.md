@@ -13,7 +13,7 @@ params:
     type: "phone"
 ---
 
-ÖBB offers a booking hotline where reservations and FIP 50 tickets can be purchased.
+ÖBB offers a booking hotline for tickets and reservations:
 
 [+43 (0) 5 1717](tel:+4351717)
 

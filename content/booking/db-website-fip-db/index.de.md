@@ -16,14 +16,14 @@ params:
 {{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
-Mitarbeiterinnen und Mitarbeiter der Deutschen Bahn können Online FIP 50 Fahrkarten für Fahrten von Deutschland in Nachbarländer erwerben. Diese sind im DB Reisemarkt > Bahnangebote > Ausland > FIP-Angebot zu finden. Die FIP 50 Fahrkarte wird nur für den ausländischen Streckenabschnitt ausgestellt. Dies ist insbesonders für DB Mitarbeiterinnen und Mitarbeiter wichtig, da im eigenen Heimatland keine FIP 50 Fahrkarten gültig sind. Es ist also eine zusätzliche Fahrkarte für den innerdeutschen Streckenabschnitt bis zum Grenzpunkt erforderlich.
+Mitarbeiterinnen und Mitarbeiter der Deutschen Bahn können online FIP 50 Fahrkarten für Fahrten von Deutschland in Nachbarländer erwerben. Diese sind im DB Reisemarkt > Bahnangebote > Ausland > FIP-Angebot zu finden. Die FIP 50 Fahrkarte wird nur für den ausländischen Streckenabschnitt ausgestellt. Dies ist insbesonders für DB Mitarbeiterinnen und Mitarbeiter wichtig, da im eigenen Heimatland keine FIP 50 Fahrkarten gültig sind. Es ist also eine zusätzliche Fahrkarte für den innerdeutschen Streckenabschnitt bis zum Grenzpunkt erforderlich.
 
 Die Buchung ist nur über den Link im DB Reisemarkt möglich. Vergünstigungen müssen nicht ausgewählt werden, sondern werden automatisch angewendet.
 
 FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Polen
 - Österreich
-- Italien (nur Brennerverkehr mit Österreich)
+- Italien (nur Brennerverkehr mit Österreich und ECE Frankfurt - Mailand)
 - Tschechien
 - Schweiz
 - Luxemburg

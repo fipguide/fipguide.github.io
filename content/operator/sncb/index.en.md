@@ -27,14 +27,14 @@ FIP Coupons and FIP 50 tickets are valid on SNCB connections. For cross-border t
 
 Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border journeys).
 
-{{% expander "InterCity Express (ICE)" traincategory category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Description:** \
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Description:** \
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops. \
 **Reservation possible:** no \

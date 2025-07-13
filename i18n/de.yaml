@@ -7,6 +7,7 @@ booking:
   classes:
     first: 1. Klasse
     second: 2. Klasse
+  fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
   fip-global-fare: FIP Globalpreis
   reservation: Reservierung

@@ -16,7 +16,7 @@ params:
 
 ## FIP Information
 
-In the Netherlands, FIP 50 tickets and FIP Coupons can be used on a large part of the rail network. The [Nederlandse Spoorwegen (NS)]({{< ref "/operator/ns" >}} "NS") is the national railway company and operates most of the country's main lines. FIP is widely accepted here, with only a few exceptions for certain routes and trains.
+In the Netherlands, FIP 50 tickets and FIP Coupons can be used on a large part of the rail network. The Nederlandse Spoorwegen ([NS]({{< ref "/operator/ns" >}} "NS")) is the national railway company and operates most of the country's main lines. FIP is widely accepted here, with only a few exceptions for certain routes and trains.
 
 Additionally, international [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains operate, which can be used at a discount with special FIP Global Fares. These trains are listed as train category `EST` in journey planners.
 

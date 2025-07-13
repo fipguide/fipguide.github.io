@@ -16,7 +16,7 @@ params:
 
 ## FIP Nutzung
 
-In den Niederlanden können FIP 50 Tickets und FIP Freifahrtsscheine auf einem großen Teil des Netzes genutzt werden. Die [Nederlandse Spoorwegen (NS)]({{< ref "/operator/ns" >}} "NS") ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.
+In den Niederlanden können FIP 50 Tickets und FIP Freifahrtsscheine auf einem großen Teil des Netzes genutzt werden. Die Nederlandse Spoorwegen ([NS]({{< ref "/operator/ns" >}} "NS")) ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.
 
 Zusätzlich verkehren internationale [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge, welche vergünstigt mit speziellen FIP Globalpreisen genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
 

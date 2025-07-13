@@ -61,12 +61,12 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Schweiz
 
-Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (EuroCityExpress, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der Zuschlag (10/15€) zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
+Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (Eurocity, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der [Zuschlag (10/15€)]({{< ref "/operator/obb#gültigkeit-fip-tickets" >}} "ÖBB Zuschlag") zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
 
 ### Italien
 
 Neben Regionalzugverbindungen gibt es zwei internationale Routen von Österreich nach Italien. Die Brennerbahn von München über Innsbruck und den Brennerpass nach Bozen und Verona sowie Railjets über Tarvisio Boscoverde weiter nach Venedig. Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch in Italien, allerdings ist auf beiden Verbindungen ein Zuschlag im italienischen Bereich zu zahlen.
-Außerdem gibt existieren EuroCity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134). Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
+Außerdem gibt existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134). Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
 
 ### Slowakei
 
