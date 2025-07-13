@@ -1,4 +1,4 @@
-.o-startpage h2:not(#welcome-to-the-fip-guide) {
+.o-startpage h2:not(.m-teaser__headline) {
   margin-top: 2rem;
 }
 
@@ -14,7 +14,7 @@
     flex-direction: column;
   }
 
-  h2 {
+  h1 {
     font-family: Sansita,Arial,Helvetica,sans-serif;
     font-weight: 800;
     font-size: 6.2rem;

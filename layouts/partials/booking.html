@@ -36,7 +36,7 @@
     {{- .info | .original_page.RenderString  -}}
 </div>
 {{- end -}}
-{{- $contentClasses := slice "o-single__content" -}}
+{{- $contentClasses := slice "o-single__content o-booking__section" -}}
 {{- if or (eq .fip_50 false) (eq .fip_50 "nil") }}
   {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
 {{- end -}}

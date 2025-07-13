@@ -61,12 +61,13 @@
     }
 
     a {
-        h3 {
+        h2 {
             overflow-wrap: normal;
             word-break: normal;
             white-space: normal;
             hyphens: manual;
             margin-bottom: 0;
+            font-size: 2rem;
         }
 
         transition: background 0.2s, color 0.2s;

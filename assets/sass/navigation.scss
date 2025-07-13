@@ -49,14 +49,6 @@
   }
 }
 
-.o-header__nav nav h2 {
-  display: block;
-
-  @media (min-width: #{$breakpoint-md}) {
-    display: none;
-  }
-}
-
 .o-header__logo {
   display: flex;
   margin: .6rem 0;
@@ -228,18 +220,25 @@
     .o-header__item {
       height: fit-content;
     }
-
-    h2 {
-      padding-right: 1rem;
-      text-align: right;
-      margin-bottom: 0;
-      font-size: 1.4rem;
-      text-transform: uppercase;
-      font-weight: 300;
-    }
   }
 }
 
 body:has(.o-header__nav--open) {
   overflow: hidden;
+}
+
+#menu-country-list,
+#menu-general-list {
+  padding-right: 1rem;
+  text-align: right;
+  margin-bottom: 0;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  font-weight: 300;
+
+  display: block;
+
+  @media (min-width: #{$breakpoint-md}) {
+    display: none;
+  }
 }

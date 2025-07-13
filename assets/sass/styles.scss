@@ -174,14 +174,14 @@ img {
     border-radius: var(--border-radius-l);
   }
 
-  &__content {
+  &__content-wrapper {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+  }
 
-    p {
-        text-align: justify;
-    }
+  &__content p {
+      text-align: justify;
   }
 
   &__news-image {
