@@ -27,14 +27,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-{{% expander "InterCity Express (ICE)" traincategory category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 **Reservierung möglich:** nein \

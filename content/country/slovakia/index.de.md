@@ -14,7 +14,7 @@ Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Ba
 spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig.
 Besonders zu beachten sind Reservierungsbedingung im Fernverkehr sowie erweiterte Regleung zu kostenfreien Mitnahme von Kindern.
 
-Ebenfalls in der Slowakei unterwegs sind die Unternehmen LeoExpress und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `LE` bzw. `RJ` (nicht zu verwechseln mit `RJ` für den RailJet) abgekürzt. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
+Ebenfalls in der Slowakei unterwegs sind die Unternehmen LeoExpress und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `LE` bzw. `RJ` (nicht zu verwechseln mit `RJ` für den Railjet) abgekürzt. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
 ## Wissenswertes
 
@@ -37,7 +37,7 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 ### Österreich
 
-Von Österreich werden grenzüberschreitende InterCitys, RailJets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. Ausgenommen davon sind die `D` Züge zwischen Bratislava und Wien. Diese sind im gesamten Abschnitt (auch in Österreich) mit dem Freifahrtschein der ZSSK nutzbar.
+Von Österreich werden grenzüberschreitende Intercitys, Railjets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. Ausgenommen davon sind die `D` Züge zwischen Bratislava und Wien. Diese sind im gesamten Abschnitt (auch in Österreich) mit dem Freifahrtschein der ZSSK nutzbar.
 
 ### Ungarn
 

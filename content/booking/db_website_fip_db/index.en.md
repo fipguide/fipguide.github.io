@@ -23,7 +23,7 @@ Booking is only possible via the link in the DB Reisemarkt. Discounts do not nee
 FIP 50 Tickets can be purchased for the following countries:
 - Poland
 - Austria
-- Italy (only Brenner route with Austria)
+- Italy (only Brenner route with Austria and ECE Frankfurt - Milan)
 - Czech Republic
 - Switzerland
 - Luxembourg
