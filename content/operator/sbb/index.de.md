@@ -44,7 +44,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Beschreibung:** \
 Internationale Züge Richtung Deutschland und Italien. \
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). \
+⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden. \
 Aufschlag/Reservierung: \
 1\. Klasse: 13€ \
 2\. Klasse: 11€ \
@@ -91,11 +91,15 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 
 {{% booking id="db_website_fip_db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
-/%}}
+%}}
+Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+{{% /booking %}}
 
 {{% booking id="db_website_fip_international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
-/%}}
+%}}
+Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+{{% /booking %}}
 
 ### Telefon
 
@@ -109,7 +113,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 
 ### Im Zug
 
-Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets.
+Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets. Augenommen davon ist der Zuschlag für die grenzüberschreitenden Fernzüge nach Italien.
 
 ## Ermäßigungen
 
@@ -130,7 +134,7 @@ Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf d
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
-Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig außerhalb der Schweiz. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Innerhalb der Schweiz können diese Züge jedoch ohne besondere Aufschläge/Reservierungen genutzt werden. Beide Züge sind somit eine der wenigen Züge in der Schweiz, die eine Form der Reservierungspflicht aufweisen (wenn auch nur im Fahrtabschnitt außerhalb der Schweiz). Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich).
+Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig außerhalb der Schweiz. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Innerhalb der Schweiz können diese Züge jedoch ohne besondere Aufschläge/Reservierungen genutzt werden. Beide Züge sind somit eine der wenigen Züge in der Schweiz, die eine Form der Reservierungspflicht aufweisen (wenn auch nur im Fahrtabschnitt außerhalb der Schweiz). Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich). Der Aufpreis kostet 11€ (2. Klasse) bzw. 13€ (1. Klasse) und kann am SBB Ticketschalter oder im Zug erworben werden.
 
 ## Empfehlungen
 

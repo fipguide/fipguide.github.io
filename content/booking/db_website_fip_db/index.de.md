@@ -23,7 +23,7 @@ Die Buchung ist nur über den Link im DB Reisemarkt möglich. Vergünstigungen m
 FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Polen
 - Österreich
-- Italien (nur Brennerverkehr mit Österreich)
+- Italien (nur Brennerverkehr mit Österreich und ECE Frankfurt - Mailand)
 - Tschechien
 - Schweiz
 - Luxemburg

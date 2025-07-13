@@ -44,7 +44,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Description:** \
 International trains to Germany and Italy. \
 
-⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italien" >}} "Travel to Italy")). \
+⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italien" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train. \
 Surcharge/Reservation: \
 1st class: €13 \
 2nd class: €11 \
@@ -91,11 +91,15 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 
 {{% booking id="db_website_fip_db"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss section, for Deutsche Bahn employees"
-/%}}
+%}}
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
+{{% /booking %}}
 
 {{% booking id="db_website_fip_international"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
-/%}}
+%}}
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
+{{% /booking %}}
 
 ### By Phone
 
@@ -109,7 +113,7 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 
 ### On the Train
 
-FIP Tickets cannot be purchased on the train. A penalty fee is charged for passengers without tickets.
+FIP Tickets cannot be purchased on the train. A penalty fee is charged for passengers without tickets. The only exception is the surcharge for cross-border long-distance trains to Italy.
 
 ## Discounts
 
@@ -130,7 +134,7 @@ However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, no
 
 ### Cross-border Trains (Italy, France)
 
-Cross-border EC trains between Switzerland and Italy as well as TGV trains to and from France require a surcharge outside Switzerland. A special global fare applies, and the FIP Coupon or FIP 50 Ticket alone is not sufficient. Within Switzerland, these trains can be used without special surcharges/reservations. These are among the few trains in Switzerland that require some form of reservation (but only for the section outside Switzerland). The reservation with surcharge is best obtained at a travel center on site (in Switzerland, Italy, France).
+Cross-border EC trains between Switzerland and Italy, as well as TGV trains to and from France, require a surcharge outside Switzerland. A special global fare applies, and the FIP Coupon or FIP 50 Ticket alone is not sufficient. Within Switzerland, these trains can be used without special surcharges or reservations. These are among the few trains in Switzerland that require some form of reservation (but only for the section outside Switzerland). The reservation with surcharge is best obtained at a travel center on site (in Switzerland, Italy, or France). The surcharge costs €11 (2nd class) or €13 (1st class) and can be purchased at the SBB ticket counter or on the train.
 
 ## Recommendations
 
