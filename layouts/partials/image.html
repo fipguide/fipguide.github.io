@@ -10,6 +10,9 @@
   {{ end }}
 {{ end }}
 
+{{- $name := $image.RelPermalink | strings.TrimSuffix (printf ".%s" $image.MediaType.SubType) -}}
+{{- $extension := $image.MediaType.SubType -}}
+
 <picture>
   {{- $widths := slice -}}
   {{- if gt $image.Width 2200 -}}
@@ -30,7 +33,7 @@
 
   {{- $srcset := slice -}}
   {{- range $i, $width := $widths -}}
-    {{- with $image.Resize (printf "%dx" $width) -}}
+    {{- with $image.Resize (printf "%dx" $width) | resources.Copy (print $name "_" $width "." $extension) -}}
       {{- $srcset = $srcset | append (printf "%s %dw" .RelPermalink $width) -}}
     {{- end -}}
   {{- end -}}
