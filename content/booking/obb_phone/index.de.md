@@ -13,7 +13,7 @@ params:
     type: "phone"
 ---
 
-Die ÖBB bietet ein Buchungshotline über die Reservierungen und FIP 50 Fahrkarten erworben werden können.
+Die ÖBB bietet ein Buchungshotline für Tickets und Reservierungen an:
 
 [+43 (0) 5 1717](tel:+4351717)
 

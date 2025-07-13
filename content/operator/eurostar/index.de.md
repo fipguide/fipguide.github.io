@@ -39,9 +39,9 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
-| Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
+| London - Paris / Brüssel | 39€ / 34,50 £ | 60€ / 52,50 £ |
+| London - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
+| Brüssel - Amsterdam / Rotterdam  | ?€ / 15,50 £ | ?€ / 30,50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
@@ -53,8 +53,8 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18 € | 35 € |
-| Fahrt zwischen 3 Ländern | 20 € | 40 € |
+| Fahrt zwischen 2 Ländern | 18€ | 35€ |
+| Fahrt zwischen 3 Ländern | 20€ | 40€ |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}

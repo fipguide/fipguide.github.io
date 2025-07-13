@@ -23,23 +23,23 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 ## Train Categories and Reservations
 Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
 
-{{% expander "InterCityLyn (ICL)" traincategory category %}}
+{{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Description:** \
-InterCityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the main routes across the country, connecting cities like Aalborg, Aarhus, and Copenhagen. \
+IntercityLyn trains are the fastest trains of DSB. They operate at speeds of up to 180 km/h with few stops on the main routes across the country, connecting cities like Aalborg, Aarhus, and Copenhagen. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Description:** \
-InterCity trains are similar to `ICL` trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
+Intercity trains are similar to `ICL` trains but stop more frequently and are slower. They also operate cross-border to Flensburg, Germany. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "EuroCity (EC)" traincategory category %}}
+{{% expander "Eurocity (EC)" traincategory category %}}
 **Description:** \
-EuroCity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
+Eurocity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
 **Reservation possible:** yes \
 **Reservation mandatory:**  Only in the peak season (summer)
 {{% /expander %}}
