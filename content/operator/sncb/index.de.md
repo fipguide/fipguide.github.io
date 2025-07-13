@@ -15,7 +15,7 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 - Keine Reservierungspflicht
 - Aufschlag für Fahrten von/zum Flughafen Brüssel Zaventem
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrtsschein Angehörige: ✅ \
@@ -27,14 +27,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-{{% expander "InterCity Express (ICE)" traincategory category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 **Reservierung möglich:** nein \
@@ -43,21 +43,21 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
 
 {{% expander "Train local oder Lokale trein (L)" traincategory category %}}
 **Beschreibung:** \
-Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden. \
+Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Train S oder S-Trein (S)" traincategory category %}}
 **Beschreibung:** \
-Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als "R" für Regionalzug zusammengefasst. \
+Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als `R` für Regionalzug zusammengefasst. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Train d’heure de pointe oder Piekuurtrein (P)" traincategory category %}}
 **Beschreibung:** \
-Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als "R" für Regionalzug zu finden. \
+Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -71,7 +71,7 @@ Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten z
 
 {{% expander "Tourist (T)" traincategory category %}}
 **Beschreibung:** \
-Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" für Regionalzug zu finden. \
+Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` für Regionalzug zu finden. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -81,7 +81,7 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als "R" 
 ### Online
 
 {{% booking id="sncb_website" %}}
-Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem TGV, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
+Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem `TGV`, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
 {{% /booking %}}
 
 {{% booking id="db_website_fip_db"

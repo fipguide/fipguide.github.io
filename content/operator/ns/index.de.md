@@ -13,10 +13,10 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Nie
 
 * NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
 * Reservierung ist grundsätzlich nicht erforderlich.
-* Zuschlag für Eurocity Direct (ECD) und teilweise Intercity Direct (ICD) erforderlich.
+* Zuschlag für Eurocity Direct `ECD` und teilweise Intercity Direct `ICD` erforderlich.
 * Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
@@ -26,36 +26,36 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Be
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden ICE und IC nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gezahlt werden.
 
-{{% expander "InterCity Express (ICE) ⚠️" traincategory category %}}
+{{% expander "Intercity-Express (ICE) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
 **Zuschlag**: ⚠️ \
 Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
-Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 {{% /expander %}}
 
 {{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen. \
-[Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/eurocity.html) \
+[Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3 € zu entrichten. \
-Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80 € erwerben. \
+Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
+Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
 {{% expander "Eurocity (EC)" traincategory category %}}
 **Beschreibung:** \
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten. \
-[Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/eurocity.html) \
+[Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -63,21 +63,21 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 {{% expander "Intercity Direct (ICD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda. \
-[Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html) \
+[Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/Intercity-direct.html) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3 €  zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
-Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben. \
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80 € erwerben. \
+Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3€ zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
+Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben. \
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
 {{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
-Eine Ausnahme bildet der IC Amsterdam - Berlin, der grenzüberschreitend ein echter IC mit Halt nur an größeren Knotenpunkten ist. \
-**Reservierung möglich:** nur beim IC Amsterdam - Berlin \
+Eine Ausnahme bildet der `IC` Amsterdam - Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
+**Reservierung möglich:** nur beim `IC` Amsterdam - Berlin \
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
 {{% /expander %}}
 
@@ -96,7 +96,7 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 {{% /expander %}}
 
 {{% highlight important %}}
-Die Züge der Kategorie Sneltrein / Regional-Express (RE), unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
+Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 {{% /highlight %}}
 
 

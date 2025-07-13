@@ -15,6 +15,7 @@ Renfe Operadora is a Spanish state-owned railroad company. It operates comfortab
 - FIP free tickets are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
 - For trains requiring reservations, tickets can be purchased at the FIP Global Fare (regardless of distance), including the reservation; FIP Coupons are not needed.
 - FIP is not accepted on Avlo trains.
+- For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP global prices apply as for domestic AVEs.
 
 ## Validity of FIP tickets
 
@@ -23,7 +24,7 @@ FIP Coupons for relatives: ⛔ \
 FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
-## Train categories and reservations
+## Train Categories and Reservations
 {{% highlight important %}}
 Only commuter trains can be used without restrictions with FIP Coupons. For other trains, a ticket at the FIP Global Fare usually needs to be purchased.
 {{% /highlight %}}
@@ -32,12 +33,15 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Description:** \
-Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted. \
+Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
+
+International connections from / to France can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet.
+
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 10 € (Elige Estándar)
-- 13 € (Elige Confort)
+- 10€ (Elige Estándar)
+- 13€ (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
 
@@ -55,8 +59,8 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige Estándar)
-- 10 € (Elige Confort)
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 - 23,50€ (Premium)
 {{% /expander %}}
 
@@ -66,8 +70,8 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige Estándar)
-- 10 € (Elige Confort)
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
@@ -76,9 +80,18 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
-- 6,50 € (Elige Estándar)
-- 10 € (Elige Confort)
+- 6,50€ (Elige Estándar)
+- 10€ (Elige Confort)
 {{% /expander %}}
+
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
+**Description:** \
+The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (regardless of distance):** 4€
+{{% /expander %}}
+
 
 ### Middle distance
 
@@ -120,22 +133,13 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 **Reservation required:** no
 {{% /expander %}}
 
-### International
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
-**Description:** \
-The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (regardless of distance):** 4€
-{{% /expander %}}
-
 ## Class Categories
 
 **Elige Estándar / Turista**: Comparable to 2nd class. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
 **Elige Confort**: An XL Comfort seat without catering. Is comparable to 1st class. A 1st class FIP Card is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/elige) \
 **Premium**: An XL Comfort seat including catering. Comparable to 1st class. A FIP-Card 1st class is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
 
-## Ticket and reservation purchase
+## Ticket and Reservation Purchase
 
 ### Online
 
@@ -143,7 +147,7 @@ It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
 ### By telephone
 
-It is possible to book by telephone with Renfe, but the ticket must be collected from a Spanish counter within a few days.
+It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hotline asks you to use the on-site ticket counters.
 
 ### On-site
 

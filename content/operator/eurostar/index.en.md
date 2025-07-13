@@ -38,9 +38,9 @@ High-speed train between Great Britain and Europe \
 **FIP Global Fare:**
 | Route       | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
-| London - Amsterdam / Rotterdam | ? € / 44.50 £ | ? € / 62 £ |
-| Brussels - Amsterdam / Rotterdam  | ? € / 15.50 £ | ? € / 30.50 £ |
+| London - Paris / Brussels | 39€ / 34.50 £ | 60€ / 52.50 £ |
+| London - Amsterdam / Rotterdam | ?€ / 44.50 £ | ?€ / 62 £ |
+| Brussels - Amsterdam / Rotterdam  | ?€ / 15.50 £ | ?€ / 30.50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
@@ -52,8 +52,8 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 | Route       | Standard | Plus |
 | ----------- | -------- | ---- |
 | Travel within one country | No FIP | No FIP |
-| Travel between 2 countries | 18 € | 35 € |
-| Travel between 3 countries | 20 € | 40 € |
+| Travel between 2 countries | 18€ | 35€ |
+| Travel between 3 countries | 20€ | 40€ |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" traincategory category %}}
@@ -92,7 +92,13 @@ If an email address associated with an existing Eurostar account is provided dur
 
 ### Phone
 
-{{% booking id="eurostar_phone" /%}}
+{{% booking id="eurostar_phone" %}}
+Occasionally, there may be issues when booking FIP tickets to or from London. In such cases, we recommend using an alternative booking method.
+{{% /booking %}}
+
+{{% booking id="cfl_phone"
+    fip_global_fare=true
+/%}}
 
 ### On-site
 
@@ -131,7 +137,7 @@ For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM
 {{% highlight tip %}}
 Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) can be used.
 
-If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same operator can be taken. Rebooking to the next train can be done at the service counter on-site.
+If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
 
 HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
 {{% /highlight %}}

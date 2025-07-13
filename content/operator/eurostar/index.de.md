@@ -15,7 +15,7 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 - FIP Freifahrtsscheine werden nicht akzeptiert. Es ist jedoch möglich vergünstige FIP Tickets zum FIP Globalpreis zu erwerben.
 - Alle Züge sind reservierungspflichtig.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ⛔ \
 FIP Freifahrt Angehörige: ⛔ \
@@ -39,9 +39,9 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
-| Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
+| London - Paris / Brüssel | 39€ / 34,50 £ | 60€ / 52,50 £ |
+| London - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
+| Brüssel - Amsterdam / Rotterdam  | ?€ / 15,50 £ | ?€ / 30,50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
@@ -53,8 +53,8 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18 € | 35 € |
-| Fahrt zwischen 3 Ländern | 20 € | 40 € |
+| Fahrt zwischen 2 Ländern | 18€ | 35€ |
+| Fahrt zwischen 3 Ländern | 20€ | 40€ |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}
@@ -93,7 +93,14 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 
 ### Telefon
 
-{{% booking id="eurostar_phone" /%}}
+{{% booking id="eurostar_phone" %}}
+Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+{{% /booking %}}
+
+{{% booking id="cfl_phone"
+    fip_global_fare=true
+/%}}
+
 
 ### Vor Ort
 
@@ -133,7 +140,7 @@ Für Eurostar-Züge, die freitags, samstags und sonntags zwischen 17.30 Uhr und 
 
 Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
 
-Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers ausgewichen werden. Dazu kann am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
+Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers oder eines anderen Railteam Mitglieds ausgewichen werden. Dazu muss am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
 
 HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
 
