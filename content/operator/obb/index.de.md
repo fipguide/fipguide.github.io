@@ -161,15 +161,15 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="obb_phone" /%}}
+{{% booking id="obb_phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
 ### Vor Ort
 
-{{% booking id="obb_ticket_office" /%}}
+{{% booking id="obb_ticket_office" subtitle="Inkl. Nightjet Buchung" /%}}
 
 {{% booking id="obb_ticket_machine" /%}}
 
-{{% booking id="db_ticket_office" %}}
+{{% booking id="db_ticket_office" subtitle="Inkl. Nightjet Buchung" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
@@ -179,7 +179,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtsschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-FIP Tickets) zu bezahlen.
+Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtsschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€.

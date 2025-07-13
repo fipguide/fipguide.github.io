@@ -161,15 +161,15 @@ Reservations for direct trains are cheaper via ÖBB.
 
 ### Phone
 
-{{% booking id="obb_phone" /%}}
+{{% booking id="obb_phone" subtitle="Incl. Nightjet Booking" /%}}
 
 ### On-Site
 
-{{% booking id="obb_ticket_office" /%}}
+{{% booking id="obb_ticket_office" subtitle="Incl. Nightjet Booking" /%}}
 
 {{% booking id="obb_ticket_machine" /%}}
 
-{{% booking id="db_ticket_office" %}}
+{{% booking id="db_ticket_office" subtitle="Incl. Nightjet Booking" %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
@@ -179,11 +179,11 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-Children under 6 travel free; from age 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-FIP Tickets) must be paid for each child.
+Children under 6 travel free; from age 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile.
-[See ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
+[See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
 ## Special Tariff Conditions
