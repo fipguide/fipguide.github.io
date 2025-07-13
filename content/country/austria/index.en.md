@@ -60,7 +60,7 @@ From Hungary, both cross-border regional trains and EuroCity/Railjet trains can 
 
 ### Switzerland
 
-From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (EuroCityExpress, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a surcharge (€10/15) applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
+From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (EuroCityExpress, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/obb##validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
 
 ### Italy
 

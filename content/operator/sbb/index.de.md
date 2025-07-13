@@ -46,9 +46,8 @@ Internationale Züge Richtung Deutschland und Italien. \
 
 ⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). \
 Aufschlag/Reservierung: \
-1\. Klasse: 13 € \
-2\. Klasse: 11 €
-
+1\. Klasse: 13€ \
+2\. Klasse: 11€ \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ nur für den italienischen Abschnitt
 {{% /expander %}}

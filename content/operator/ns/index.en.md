@@ -34,8 +34,8 @@ High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run 
 **Reservation possible:** yes \
 **Reservation required:** no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
-When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3 €per journey must be paid. No supplement is required with FIP Coupons.
-The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
+When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons.
+The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
 {{% /expander %}}
 
 {{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
@@ -45,9 +45,9 @@ International, supplement-required train between Lelystad, Amsterdam, and Brusse
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
-Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3 € must be paid for both FIP 50 tickets and FIP Coupons.
-This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
+Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid for both FIP 50 tickets and FIP Coupons.
+This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 
@@ -66,9 +66,9 @@ Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam 
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
-When using FIP 50 tickets between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3 € must be paid. No supplement is required with FIP Coupons. \
-This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
+When using FIP 50 tickets between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid. No supplement is required with FIP Coupons. \
+This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 

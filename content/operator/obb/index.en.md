@@ -29,8 +29,8 @@ FIP Coupons and FIP 50 Tickets are valid on ÖBB services. For cross-border jour
 When traveling with a FIP Coupon, the use of ÖBB long-distance trains in Austria (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) requires a supplement. The supplement can be purchased on board during ticket inspection, or alternatively at ÖBB ticket counters and machines. The supplement is valid for a maximum of 2 days, matching the date on the FIP Coupon. Seat reservations are not included in the supplement and must be purchased separately. With FIP 50 Tickets, no additional supplement is required.
 
 Cost: \
-1st class: €15 \
-2nd class: €10
+1st class:€15 \
+2nd class:€10
 {{% /highlight %}}
 
 ## Train Categories and Reservations
@@ -74,12 +74,12 @@ For EuroCity trains to Italy, a supplement is payable from the Italian border. S
 {{% expander "NightJet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
 **Description:** \
 ÖBB night trains to various European countries. They offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railways. \
-For NightJet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railways traveled through is required. If no FIP Coupon is used, a ticket at the FIP global fare for the entire route can be purchased. \
-⚠️ National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the NightJet journey is in Germany (start, end, or transit), DB staff must buy a ticket at the FIP global fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/surcharge for sleeper/couchette cars is required. \
-_Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the NightJet there to avoid the FIP global fare. \
+For NightJet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railways traveled through is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased. \
+⚠️ National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the NightJet journey is in Germany (start, end, or transit), DB staff must buy a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/surcharge for sleeper/couchette cars is required. \
+_Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the NightJet there to avoid the FIP Global Fare. \
 **Reservation possible:** yes \
 **Reservation mandatory:** ⚠️ yes \
-**FIP global fare:** yes \
+**FIP Global Fare:** yes \
 **Reservation cost:** \
 Depends on route, occupancy, and car category.
 {{% /expander %}}
@@ -235,7 +235,7 @@ FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services 
 Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
 
 #### Klagenfurt/Villach - Udine/Venice
-Special FIP global fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
+Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 
 ### Motorail
 FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra and excluded from the FIP discount.

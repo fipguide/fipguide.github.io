@@ -1,47 +1,25 @@
 ---
 draft: false
-title: "DB Website FIP (International)"
-description: "Booking information for FIP Tickets with a section in Germany."
+title: "SBB Ticket Machines"
+description: "Booking information for FIP tickets at SBB ticket machines"
 
 params:
-    classes:
-        first: "€6,90"
-        second: "€5,50"
     fip_50: true
-    reservations: true
-    booking_link: "https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE"
-    additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
+    additional_info_link: "https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/sbb-ticket-machine.html"
     type: "website"
 ---
 
 {{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
-Online FIP 50 Tickets for journeys within Germany and neighboring countries can be booked via Deutsche Bahn. The tickets must include at least one section within Germany. The FIP 50 ticket is issued for the entire route. The ticket is not valid in the country where the FIP ID was issued; an additional ticket is required there.
+At SBB ticket machines, FIP 50 tickets can be purchased with the "50% Halbtax" discount, provided it is not a saver ticket, saver day pass, or a special ticket.[^1] This option is actually intended for passengers with a Halbtax subscription (SBB discount card), but is also accepted as a straightforward solution for FIP 50 tickets. The Halbtax price is usually preselected at the machine.
 
-Booking is only possible via the [link](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE). Discounts do not need to be selected—they are applied automatically.
-
-FIP 50 Tickets can be purchased for the following countries, as long as a section in Germany is included:
-
-- Austria
-- Belgium
-- Czech Republic
-- Denmark
-- France
-- Germany
-- Italy (only Brenner route with Austria)
-- Luxembourg
-- Netherlands
-- Poland
-- Switzerland
-{.o-list--columns-3}
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-**Reservations**
-
-The reservation price is charged per journey. For connections with transfers, you only pay once for multiple trains.
-
-Seat reservations can be purchased via the Deutsche Bahn website. To do so, select the "Seat reservation only" option in the search.
+{{% highlight important %}}
+In urban areas, a ticket with Halbtax discount may also include transport operated by companies that do not accept FIP (e.g., trams or buses). These sections cannot be used with FIP, and the purchased ticket is not valid there without a Halbtax subscription.
+{{% /highlight %}}
 
 {{% /booking-section %}}
+
+**Sources**
+[^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
+

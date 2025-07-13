@@ -35,7 +35,7 @@ Reservierungspflicht für `SC` und `IC` Züge. Andere ZSSK Züge erfordern nur e
 Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** Ab 7 € \
+**Kosten für Reservierung:** Ab 7€ \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -45,7 +45,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** Ab 7 € \
+**Kosten für Reservierung:** Ab 7€ \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -115,15 +115,15 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1 € in der 2. und 3 € in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
+Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1€Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1€in der 2. und 3€in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
 
 Kinder zwischen 6 und 16 Jahren haben unabhängig der Nationalität die Möglichkeit Freifahrten bei der ZSSK zu bekommen. Dies ist jedoch mit etwas Aufwand verbunden. Dazu wird benötigt:
 
 - Foto (2x3cm) des Kindes
 - Ausweis des Kindes (wenn kein Ausweis vorhanden, ist auch die Kombination aus der Geburtsurkunde des Kindes sowie der Ausweis des Erziehungsberechtigten möglich)
 
-Das Ganze muss dann vom Erziehungsberechtigten an einem Ticketschalter vorgelegt werden. Je nach vorhandenem System beim Schalter kann entweder sofort die Registrierung erfolgen oder es dauert bis zu 3 Arbeitstage. Am Ende bekommt man eine Bestätigung, das in den Zügen immer mitzuführen ist. Darüber hinaus wird immer noch ein Ticket benötigt, das über die [ZSSK-Website](https://www.zssk.sk/) mit Wahl der entsprechenden Reisegruppe (Wichtig: "Entitled for 100% discount" muss ausgewählt sein) für 0 Euro gebucht werden kann. Bei `EC` Zügen kommt noch eine Reservierungsgebühr von 1 € oben drauf, bei `SC` Zügen 5 €. `IC` Züge und `RJ` Züge können nicht genutzt werden.[^1]
-Ohne den ganzen Aufwand können Kinder zwischen 6 und 16 Jahren mit 50% Rabatt reisen. Damit ist auch die Nutzung von `IC` Zügen mit 1 € Gebühr möglich, in `SC` Zügen 1 € in der 2. und 3 € in der 1. Klasse. Ein offizielles Dokument mit Foto, Alter, Geburtsdatum und (falls möglich) Geburtsnummer muss mitgeführt werden.[^1] \
+Das Ganze muss dann vom Erziehungsberechtigten an einem Ticketschalter vorgelegt werden. Je nach vorhandenem System beim Schalter kann entweder sofort die Registrierung erfolgen oder es dauert bis zu 3 Arbeitstage. Am Ende bekommt man eine Bestätigung, das in den Zügen immer mitzuführen ist. Darüber hinaus wird immer noch ein Ticket benötigt, das über die [ZSSK-Website](https://www.zssk.sk/) mit Wahl der entsprechenden Reisegruppe (Wichtig: "Entitled for 100% discount" muss ausgewählt sein) für 0 Euro gebucht werden kann. Bei `EC` Zügen kommt noch eine Reservierungsgebühr von 1€oben drauf, bei `SC` Zügen 5€. `IC` Züge und `RJ` Züge können nicht genutzt werden.[^1]
+Ohne den ganzen Aufwand können Kinder zwischen 6 und 16 Jahren mit 50% Rabatt reisen. Damit ist auch die Nutzung von `IC` Zügen mit 1€Gebühr möglich, in `SC` Zügen 1€in der 2. und 3€in der 1. Klasse. Ein offizielles Dokument mit Foto, Alter, Geburtsdatum und (falls möglich) Geburtsnummer muss mitgeführt werden.[^1] \
 Für Kinder ab 16 Jahren gibt es keinen Rabatt, jedoch ist es für Studenten unter 26 Jahren und Rentner ab 62 Jahren aus der EU (sowie Studenten aus aller Welt, die in der Slowakei studieren) möglich ebenfalls Freifahrten zu bekommen, ähnlich wie Kinder zwischen 6 und 16 Jahren. Da dies nicht direkt mit FIP zu tun hat, verweisen wir hier auf die Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Tarifliche Besonderheiten
