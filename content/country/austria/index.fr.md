@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Autriche"
-description: "Informations sur les conditions d'utilisation des facilités FIP en Autriche et les opérateurs qui les proposent."
+description: "Informations sur les conditions FIP en Autriche et les opérateurs qui proposent des réductions."
 country: "austria"
 params:
   operators_without_fip:
@@ -52,4 +52,66 @@ Un **coup de cœur** est la **Schneebergbahn** en Basse-Autriche. Elle n’est p
 | Hongrie (MÁV) | Hegyeshalom (Gr), Sopron |
 | Allemagne (DB) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slovénie (SZ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
-| Slovaquie (ZSR) | Marchegg (Gr), Kittsee (Gr)
+| Slovaquie (ZSR) | Marchegg (Gr), Kittsee (Gr) |
+| Suisse (CFF) | Buchs SG, St. Margrethen |
+| Italie (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+{{% /expander %}}
+
+### République tchèque
+
+Depuis la Tchéquie, des trains transfrontaliers exploités par **České dráhy** (ČD) peuvent être utilisés avec un **billet FIP 50 ou un coupon FIP ČD**.  
+Les trains opérés par **RegioJet** ne sont pas valables.  
+Il existe des liaisons grandes lignes entre Linz et Prague, ainsi que des Railjets entre Vienne et Prague via Brno.
+
+### Allemagne
+
+Entre l’Allemagne et l’Autriche, on trouve plusieurs liaisons régionales et deux grandes lignes principales :  
+- Une ligne **ICE** de Vienne via Linz, Passau, Nuremberg vers Francfort/Cologne (et certains trains jusqu’à Berlin).  
+- Des trains **ICE**, **RJ** et **IC** de Munich via Salzbourg vers plusieurs destinations en Autriche.  
+Pour la section allemande, un **billet FIP DB** est requis.
+
+### Hongrie
+
+Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles.  
+Sur la ligne Vienne–Budapest via Hegyeshalom, un **billet FIP MÁV** est nécessaire à partir de la frontière.  
+Sinon, un **billet FIP GySEV** est requis pour les lignes GySEV.
+
+### Suisse
+
+Depuis l’Autriche, les gares de **Buchs SG** et **St. Margrethen** sont accessibles avec des **billets FIP 50 ÖBB** ou **coupons FIP** (EuroCity, Railjet, trains locaux).  
+Attention : si vous entrez depuis l’Allemagne, le tronçon **Lindau–St. Margrethen** est considéré comme un **transit via l’Autriche**.  
+Dans ce cas, un [supplément (10 €/15 €)]({{< ref "/operator/obb#validity-of-fip-tickets" >}} "Supplément ÖBB") est théoriquement dû avec un coupon FIP — il est donc recommandé d’utiliser un billet FIP 50 pour cette section.
+
+### Italie
+
+Deux lignes internationales :  
+- La **ligne du Brenner** : Munich – Innsbruck – Bolzano – Vérone.  
+- Les **Railjets** via **Tarvisio Boscoverde** vers Venise.  
+Sur ces trajets, les **coupons FIP ÖBB** sont valables **en Italie**, mais un **supplément est requis** côté italien.
+
+Il existe aussi des EuroCity via la Slovénie vers **Trieste** (`EC 151/134`) :  
+entre Villa Opicina et Trieste, le **coupon FIP ÖBB est valable**, mais un **petit supplément s’applique**.
+
+### Slovaquie
+
+Deux lignes locales relient la Slovaquie à l’Autriche :  
+- La plus rapide : **Bratislava hl.st. – Marchegg – Vienne** (à partir du 10/10/2025).  
+- L’autre : **Bratislava Petržalka – Kittsee – Vienne**.
+
+Pour les deux, un **billet FIP 50 ZSR/ZSSK** est requis pour la partie slovaque.  
+En complément, 4 paires de trains `D` relient **Vienne à Bratislava hl.st.** (également à partir du 10/10/2025).  
+Ces trains peuvent être utilisés :
+- avec un **coupon FIP ÖBB** jusqu’à la frontière, ou  
+- avec un **coupon FIP ZSSK** pour l’ensemble du trajet (y compris côté autrichien).
+
+### Slovénie
+
+Des liaisons longues distances et régionales existent entre **Vienne/Graz** et **Ljubljana/Maribor** via **Spielfeld-Strass** (Gr), ainsi que vers **Trieste** et **Zagreb**.  
+Un **coupon FIP SŽ** ou un **billet FIP 50** est requis depuis la frontière.
+
+## Évaluation FIP
+
+L’Autriche dispose d’une infrastructure exemplaire et de lignes particulièrement **pittoresques**.  
+La majorité des trains étant opérée par l’ÖBB, il est possible de parcourir une grande partie du pays avec les billets FIP.  
+
+Cependant, **le supplément obligatoire** (même sans réservation) sur les trains grandes lignes — **10 € en 2ᵉ classe, 15 € en 1ʳᵉ classe** — **réduit légèrement l’attrait** du FIP en Autriche.
