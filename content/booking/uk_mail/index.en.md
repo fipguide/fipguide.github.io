@@ -6,6 +6,7 @@ description: "Booking information for email bookings with International Rail Ltd
 params:
     fip_global_fare: true
     type: "email"
+    fee: £10
 ---
 
 **FIP Global Fare**
@@ -17,4 +18,4 @@ FIP Global Fare tickets can be purchased through International Rail Ltd. To do s
   - Class of travel (according to your FIP card entitlement)
   - Photo of the FIP card for all traveling persons
 
-A booking fee of £10 is charged per booking.
+**A booking fee of £10 is charged per booking.**

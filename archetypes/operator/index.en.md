@@ -10,7 +10,7 @@ operator: '{{ .File.ContentBaseName }}'
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
-{{< snippet wip >}}
+{{< wip >}}
 
 <!--
   Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
@@ -109,7 +109,7 @@ FIP Global Fare: <✅/⛔>
   Embed additional booking platforms with booking via telephone here.
 -->
 
-### On Site
+### On-Site
 
 <!--
   Embed additional booking platforms with booking on site here.

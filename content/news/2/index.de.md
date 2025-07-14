@@ -2,7 +2,7 @@
 date: "2025-02-16"
 draft: false
 author: "Willy"
-title: "Grenzüberschreitende FIP-Tickets der SNCB"
+title: "Grenzüberschreitende FIP Tickets der SNCB"
 country:
     - belgium
     - netherlands

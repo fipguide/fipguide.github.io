@@ -16,14 +16,14 @@ params:
 {{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
-Deutsche Bahn employees can purchase FIP 50 Tickets online for journeys from Germany to neighboring countries. These tickets are available in the DB Travel Market under Rail Offers > Abroad > FIP Offer. The FIP 50 ticket is only valid for the foreign section of the route. This is especially important for DB employees, as FIP 50 Tickets are not valid in your own home country. Therefore, an additional ticket is required for the domestic section within Germany up to the border point.
+Deutsche Bahn employees can purchase FIP 50 Tickets online for journeys from Germany to neighboring countries. These tickets are available in the DB Reisemarkt > Bahnangebote > Ausland > FIP-Angebot. The FIP 50 ticket is only valid for the foreign section of the route. This is especially important for DB employees, as FIP 50 Tickets are not valid in your own home country. Therefore, an additional ticket is required for the domestic section within Germany up to the border point.
 
-Booking is only possible via the link in the DB Travel Market. Discounts do not need to be selected; they are applied automatically.
+Booking is only possible via the link in the DB Reisemarkt. Discounts do not need to be selected; they are applied automatically.
 
 FIP 50 Tickets can be purchased for the following countries:
 - Poland
 - Austria
-- Italy (only Brenner route with Austria)
+- Italy (only Brenner route with Austria and ECE Frankfurt - Milan)
 - Czech Republic
 - Switzerland
 - Luxembourg
