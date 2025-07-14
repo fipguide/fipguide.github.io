@@ -1,6 +1,6 @@
 ---
-title: "Informations générales"
-description: "Découvrez les informations générales sur le FIP et comment l’utiliser."
+title: "A propos"
+description: "Découvrez les informations à savoir sur les facilités FIP et comment les utiliser."
 ---
 
 Vous trouverez ici des informations complètes sur le guide FIP.
@@ -12,16 +12,16 @@ C’est l’association qui encadre les réductions de voyage à l’internation
 Grâce à cette carte de réduction internationale, les employés peuvent voyager à tarif réduit en train, en bateau et en bus à travers l’Europe.  
 Ce projet fournit des informations pratiques sur l’utilisation du FIP ainsi que les spécificités propres à chaque compagnie ferroviaire participante.
 
-## Quelles réductions offre le FIP ?
+## Quelles réductions offre les facilités FIP ?
 
 Il existe deux manières principales d’en bénéficier :
 
 1. **Carte FIP** : Valable trois ans, elle permet d’acheter sans limite des billets de train à tarif réduit à l’étranger.  
 2. **Coupons FIP** : Chaque année, les membres FIP peuvent recevoir des coupons FIP, donnant droit à un maximum de huit jours de voyage.
 
-Vous trouverez les règles exactes sur les sous-pages des [opérateurs]({{< ref "operator" >}}).
+Vous trouverez les règles d'utilisation sur les sous-pages des [opérateurs]({{< ref "operator" >}}).
 
-## Comment profiter du FIP ?
+## Comment profiter des facilités FIP ?
 
 Les employés d’un membre du FIP peuvent bénéficier des facilités FIP après 12 mois d’ancienneté.  
 Veuillez contacter votre service des ressources humaines pour connaître les modalités de demande et d’utilisation.
