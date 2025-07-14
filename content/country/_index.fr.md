@@ -1,0 +1,7 @@
+---
+title: "Liste des pays"
+description: "Liste des pays où les facilités FIP sont acceptées."
+---
+
+Des informations sont disponibles pour plusieurs pays, et d’autres sont ajoutés en continu.  
+Vous pouvez consulter l’état actuel des informations sur [GitHub](https://github.com/orgs/fipguide/projects/3).
