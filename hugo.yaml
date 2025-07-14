@@ -16,7 +16,7 @@ languages:
     languageCode: de
     weight: 2
   fr:
-    languageName: "English"
+    languageName: "French"
     languageCode: fr
     weight: 3
 
