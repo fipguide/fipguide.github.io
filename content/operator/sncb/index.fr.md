@@ -67,8 +67,9 @@ Trains touristiques occasionnels, souvent indiqués comme train régional (`R`).
 
 ### En ligne
 
-{{% booking id="sncb_website" %}}  
-Avec un **coupon FIP SNCB**, il est possible de réserver un billet transfrontalier en ligne, prenant en compte la gratuité sur le territoire belge. Pour cela, sélectionnez la **réduction "100% Discount Belgium (SNCB)"**. Cela permet par exemple de réserver à petit prix un billet vers Lille (hors `TGV`, tarif global).
+{{% booking id="sncb_website" %}}
+Lorsque vous utilisez un coupon FIP SNCB, un billet transfrontalier peut être réservé via le site web, qui prend en compte le trajet gratuit sur le territoire belge. Pour cela, sélectionnez la réduction "100% Discount Belgium (SNCB)" pour les voyageurs. Cela permet par exemple de réserver très facilement des trajets de la Belgique vers Lille (hors TGV, tarif global et non exploité par la SNCB).
+{{% /booking %}}
 
 {{% booking id="db_website_fip_db" subtitle="Billets FIP 50 transfrontaliers valables uniquement pour la partie belge (DB)" /%}}
 
