@@ -67,14 +67,14 @@ Trains régionaux standard desservant presque toutes les gares. \
 
 ### En ligne
 
-{{% booking id="zssk_website" subtitle="Pour les trajets nationaux, y compris IC & SC" /%}}
+{{% booking id="zssk-website" subtitle="Pour les trajets nationaux, y compris IC & SC" /%}}
 
-{{% booking id="db_website" subtitle="Hors IC & SC" /%}}
+{{% booking id="db-website" subtitle="Hors IC & SC" /%}}
 
 ### En gare
 
-{{% booking id="zssk_ticket_office" /%}}
-{{% booking id="db_ticket_office" subtitle="Hors IC & SC" /%}}
+{{% booking id="zssk-ticket-office" /%}}
+{{% booking id="db-ticket-office" subtitle="Hors IC & SC" /%}}
 
 ### À bord
 

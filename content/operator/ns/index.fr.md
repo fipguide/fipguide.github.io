@@ -104,23 +104,23 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
 
 ### En ligne
 
-{{% booking id="db_website"
+{{% booking id="db-website"
     subtitle="Pour les trajets nationaux et internationaux"
 /%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Trajets internationaux avec portion néerlandaise pour employés DB"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 internationaux (hors pays d'origine)"
 /%}}
 
 ### En gare
 
-{{% booking id="ns_ticket_office" /%}}
+{{% booking id="ns-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### À bord
 

@@ -61,7 +61,7 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy über ver
 Zwischen Deutschland und Österreich existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen:
 
 - Eine `ICE` Linie von Wien über Linz, Passau und Nürnberg Richtung Frankfurt/Köln (oder einzelne Züge nach Berlin)
-- `ICE`, `RJ` und `IC` Züge von München über Salzburg in verschiedene Ziele in Österreich. 
+- `ICE`, `RJ` und `IC` Züge von München über Salzburg in verschiedene Ziele in Österreich.
 
 Im Deutschen Abschnitt wird für die Züge ein FIP Ticket der DB benötigt.
 

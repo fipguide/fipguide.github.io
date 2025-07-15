@@ -19,7 +19,7 @@ Also operating in Slovakia are the operators LeoExpress and RegioJet, which cann
 ## Interesting
 
 Slovakia has a dense rail network, which mainly consists of two main routes:
- 
+
 - One coming from Vienna through the capital Bratislava via Poprad Tatry to the second largest city Košice
 - One coming from the Czech Republic from Bratislava via Nové Zámky to the Hungarian capital Budapest.
 

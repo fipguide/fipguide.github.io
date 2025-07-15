@@ -70,19 +70,19 @@ Trains omnibus, desservant toutes les gares. \
 
 ### En ligne
 
-{{% booking id="sbb_website" /%}}
-{{% booking id="db_website" /%}}
-{{% booking id="db_website_fip_db" subtitle="Pour trajets nationaux ou transfrontaliers. Billet FIP 50 avec portion suisse uniquement (DB)." /%}}
-{{% booking id="db_website_fip_international" subtitle="Billet FIP 50 continu (hors pays d'origine)." /%}}
+{{% booking id="sbb-website" /%}}
+{{% booking id="db-website" /%}}
+{{% booking id="db-website-fip-db" subtitle="Pour trajets nationaux ou transfrontaliers. Billet FIP 50 avec portion suisse uniquement (DB)." /%}}
+{{% booking id="db-website-fip-international" subtitle="Billet FIP 50 continu (hors pays d'origine)." /%}}
 
 ### Par téléphone
 
-{{% booking id="obb_phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
+{{% booking id="obb-phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
 
 ### En gare
 
-{{% booking id="sbb_ticket_office" /%}}
-{{% booking id="sbb_ticket_machine" /%}}
+{{% booking id="sbb-ticket-office" /%}}
+{{% booking id="sbb-ticket-machine" /%}}
 
 ### À bord
 

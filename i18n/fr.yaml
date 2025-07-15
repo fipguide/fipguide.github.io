@@ -1,61 +1,45 @@
-_operator__list_title: "Opérateurs prenant en charge la FIP"
-
+_operator__list_title: Opérateurs prenant en charge la FIP
 anchorLink:
-  copied: "Le lien a été copié dans le presse-papiers"
-  copy: "Copier le lien vers cette section"
-
+  copied: Le lien a été copié dans le presse-papiers
+  copy: Copier le lien vers cette section
 booking:
   classes:
-    first: "1re classe"
-    second: "2nd classe"
-  fip-50: "Billets FIP 50"
-  fip-global-fare: "Tarif global FIP"
-  reservation: "Réservation"
-  reservation-costs: "Frais de réservation"
-  title: "Plateformes de réservation"
-  visit-additional-information-website: "Informations complémentaires"
-  visit-booking-website: "Aller sur le site de réservation"
-
+    first: 1re classe
+    second: 2nd classe
+  fip-50: Billets FIP 50
+  fip-global-fare: Tarif global FIP
+  reservation: Réservation
+  reservation-costs: Frais de réservation
+  visit-additional-information-website: Informations complémentaires
+  visit-booking-website: Aller sur le site de réservation
 country:
-  many: "pays"
-  one: "pays"
-  other: "pays"
-
-countryselection: "Choisir un pays"
-
-editPage: "Modifier la page"
-
+  many: pays
+  one: pays
+  other: pays
+countryselection: Choisir un pays
+editPage: Modifier la page
 footer-love:
-  aria-label: "Fait avec amour à Francfort, Cologne & Paris"
-  text: "Fait avec ♥️ à Francfort, Cologne & Paris"
-
-general: "général"
-
+  aria-label: Fait avec amour à Francfort, Cologne & Paris
+  text: Fait avec ♥️ à Francfort, Cologne & Paris
+general: général
 highlight:
-  important: "Informations importantes"
-  inofficial: "Informations non officielles"
-  tip: "Conseil personnel"
-
-home-page-text: "Page d'accueil du guide FIP"
-
-information-disclaimer-short: "Les informations fournies sont non officielles et sans garantie. Il n'existe aucun lien juridique avec le FIP ou les compagnies ferroviaires."
-
-menu-close: "Fermer"
-menu-open: "Menu"
-
-navigate-to-country: "Aller au pays"
-
-news-headline: "Quoi de neuf ?"
-news-other: "Autres actualités"
-
-operators_without_fip: "Opérateurs sans FIP"
-
+  important: Informations importantes
+  inofficial: Informations non officielles
+  tip: Conseil personnel
+home-page-text: Page d'accueil du guide FIP
+information-disclaimer-short: >-
+  Les informations fournies sont non officielles et sans garantie. Il n'existe
+  aucun lien juridique avec le FIP ou les compagnies ferroviaires.
+menu-close: Fermer
+menu-open: Menu
+navigate-to-country: Aller au pays
+news-headline: Quoi de neuf ?
+news-other: Autres actualités
+operators_without_fip: Opérateurs sans FIP
 related:
-  countries: "Pays associés"
-  news: "Actualités associées"
-  operators: "Opérateurs associés"
-  operators-nearby: "Opérateurs voisins"
-
-reportError: "Signaler une erreur"
-
-search-placeholder: "Rechercher"
+  countries: Pays associés
+  news: Actualités associées
+  operators: Opérateurs associés
+  operators-nearby: Opérateurs voisins
+reportError: Signaler une erreur
+search-placeholder: Rechercher

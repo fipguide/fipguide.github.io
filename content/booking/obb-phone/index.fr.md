@@ -31,7 +31,7 @@ Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant l
 {{% booking-section "reservations" %}}
 **Réservations**
 
-Le tarif de réservation est facturé par train. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn").
+Le tarif de réservation est facturé par train. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").
 
 Cependant, les réservations de sièges effectuées auprès de l’ÖBB sont annulables:
 

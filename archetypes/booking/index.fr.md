@@ -38,4 +38,3 @@ params:
     Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
 -->
 {{% /booking-section %}}
-

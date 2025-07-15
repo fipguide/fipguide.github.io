@@ -87,22 +87,22 @@ Mais la gestion du billet (annulation, échange, rebooking) est possible via le 
 
 Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-{{% booking id="uk_mail" /%}}
+{{% booking id="uk-mail" /%}}
 
 ### Par téléphone
 
-{{% booking id="eurostar_phone" %}}
+{{% booking id="eurostar-phone" %}}
 Des problèmes peuvent survenir lors de la réservation de billets FIP vers/depuis Londres. \
 Si c’est le cas, essayez un autre canal de réservation.
 {{% /booking %}}
 
-{{% booking id="cfl_phone"
+{{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
 ### En gare
 
-{{% booking id="ns_ticket_office"
+{{% booking id="ns-ticket-office"
     fip_50=nil
     fip_global_fare=true
     reservations=nil

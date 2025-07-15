@@ -60,7 +60,7 @@ From the Czech Republic, cross-border trains of Ceske Drahy can be used on vario
 Between Germany and Austria, there are several regional train connections and two long-distance routes:
 
 - an `ICE` line from Vienna via Linz, Passau, and Nuremberg to Frankfurt/Cologne (and some trains to Berlin)
-- `ICE`, `RJ`, and `IC` trains from Munich via Salzburg to various destinations in Austria. 
+- `ICE`, `RJ`, and `IC` trains from Munich via Salzburg to various destinations in Austria.
 
 For the German section, a FIP ticket from DB is required.
 
@@ -93,7 +93,7 @@ From Slovakia, there are two local train connections to Austria:
 For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") is required for the Slovak section. \
 Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
 These trains can be used with:
-- ÖBB FIP Coupons up to the border 
+- ÖBB FIP Coupons up to the border
 - ZSSK FIP Coupone on the entire section (also in Austria)
 
 ### Slovenia

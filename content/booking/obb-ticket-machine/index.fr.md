@@ -20,5 +20,5 @@ Ensuite, appuyez sur les boutons « Ermäßigung » puis « Ändern ». \
 Comme type de réduction, vous pouvez choisir :
 « Mitarbeiterticket 50% / FIP-Inland » ou « at. Fbg / FIP Inland » (tout en bas de la liste).
 
-![Billets FIP 50 aux distributeurs automatiques ÖBB](obb_ticket_machine_fip_50.fr.webp)
+![Billets FIP 50 aux distributeurs automatiques ÖBB](obb_ticket_machine_fip_50.en.webp)
 {{% /booking-section %}}

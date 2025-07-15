@@ -37,7 +37,7 @@ Furthermore, for long-distance travel, luggage checks are conducted at the stati
 
 ### France
 
-From Paris, direct `TGV` trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona as well as Marseille and Madrid. FIP Global Fares are available with both operators, but can be very expensive with the SNCF. 
+From Paris, direct `TGV` trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona as well as Marseille and Madrid. FIP Global Fares are available with both operators, but can be very expensive with the SNCF.
 
 For trains operated by Renfe, the same prices apply as for domestic AVEs, but these tickets are only available onsite at Renfe ticket offices.
 

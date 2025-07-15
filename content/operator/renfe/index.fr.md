@@ -137,7 +137,7 @@ Non disponible – il faut se rendre au guichet Renfe.
 
 ### En gare
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     fip_global_fare=true
     reservations="nil"
 %}}
@@ -146,7 +146,7 @@ Indiquer la classe "T" (Estándar) ou "P" (Confort). Ne pas sélectionner "1st" 
 Premium non disponible via DB.
 {{% /booking %}}
 
-{{% booking id="renfe_ticket_office" /%}}
+{{% booking id="renfe-ticket-office" /%}}
 
 ### À bord
 
