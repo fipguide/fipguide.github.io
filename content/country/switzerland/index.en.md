@@ -72,10 +72,6 @@ Liechtenstein and Switzerland are only connected by a few trains during the week
 
 Austria and Switzerland have only one main border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich). Another border crossing is at Buchs, which is actually the border to Liechtenstein, but [ÖBB FIP Tickets]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB") are still valid in Liechtenstein. Thus, it is possible to have a continuous ticket between Austria and Switzerland with, for example, ÖBB and SBB Ccoupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
 
-## FIP Rating
-
-Still pending
-
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
