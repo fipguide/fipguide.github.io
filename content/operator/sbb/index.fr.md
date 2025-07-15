@@ -123,8 +123,8 @@ Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéc
 Les billets FIP ne sont pas valables sur les lignes de bus des CFF, sauf si elles sont en remplacement ferroviaire (SEV).
 
 ### Reconnaissance mutuelle CFF / BLS
-Les compagnies ferroviaires suisses CFF et BLS ont conclu un accord de reconnaissance mutuelle des coupons FIP.  
-Les coupons FIP internationaux des CFF sont pleinement acceptés sur l’ensemble du réseau ferroviaire BLS. [^2]
+
+Les compagnies ferroviaires suisses CFF et BLS ont conclu un accord de reconnaissance mutuelle des coupons FIP. Les coupons FIP internationaux des CFF sont pleinement acceptés sur l’ensemble du réseau ferroviaire BLS. [^2]
 
 Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de Thoune et de Brienz, ni sur les bus BLS, principalement actifs dans la région de l’Emmental. [^2]
 
