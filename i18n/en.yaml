@@ -31,6 +31,9 @@ home-page-text: FIP Guide Home Page
 information-disclaimer-short: >-
   The information provided is unofficial and without guarantee. There is no
   legal connection to FIP or railway companies.
+language-switcher:
+  aria-label: Switch language
+  label: Language
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country

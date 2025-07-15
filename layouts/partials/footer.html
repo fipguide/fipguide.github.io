@@ -1,5 +1,5 @@
 <div class="o-footer o-container">
-  <div class="o-footer__firstline">
+  <div class="o-footer__line">
     <div class="col-12 col-lg-6" aria-label='{{ T "footer-love.aria-label"}}'>
       {{ T "footer-love.text"}}
     </div>
@@ -18,7 +18,24 @@
       {{ end }}
     </div>
   </div>
-  <div>
-    {{ T "information-disclaimer-short"}}
+  <div class="o-footer__line">
+    <div>{{ T "information-disclaimer-short"}}</div>
+    <div class="o-language-switcher" >
+      <button class="o-language-switcher__button" aria-expanded="false" aria-label='{{ T "language-switcher.aria-label" }}'>
+        <span class="o-language-switcher__current">{{ $.Site.Language.LanguageName }}</span>
+        <span class="o-language-switcher__icon">
+          {{ partial "icon" "keyboard_arrow_down" }}
+        </span>
+      </button>
+      <ul class="o-language-switcher__dropdown" aria-hidden="true">
+        {{ range .Site.Home.AllTranslations }}
+          <li class="o-language-switcher__item">
+            <a href="{{ .Permalink }}" class="o-language-switcher__link{{ if eq $.Site.Language .Language }} o-language-switcher__link--active{{ end }}">
+              {{ .Language.LanguageName }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 </div>
