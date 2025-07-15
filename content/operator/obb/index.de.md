@@ -141,19 +141,19 @@ In Railjet(Xpress)-Zügen gibt es abweichende Klassenkategorien:
 
 ### Online
 
-{{% booking id="obb_website" /%}}
+{{% booking id="obb-website" /%}}
 
-{{% booking id="db_website" %}}
+{{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den österreichischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -161,15 +161,15 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="obb_phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="obb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
 ### Vor Ort
 
-{{% booking id="obb_ticket_office" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="obb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
 
-{{% booking id="obb_ticket_machine" /%}}
+{{% booking id="obb-ticket-machine" /%}}
 
-{{% booking id="db_ticket_office" subtitle="Inkl. Nightjet Buchung" %}}
+{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 

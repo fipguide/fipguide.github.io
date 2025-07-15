@@ -141,19 +141,19 @@ Railjet(Express) trains have special class categories:
 
 ### Online
 
-{{% booking id="obb_website" /%}}
+{{% booking id="obb-website" /%}}
 
-{{% booking id="db_website" %}}
+{{% booking id="db-website" %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
         subtitle="For national and cross-border journeys. Cross-border FIP 50 Tickets, with ticket share only for the Austrian section, for Deutsche Bahn staff"
 %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
         subtitle="For national and cross-border journeys. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
 %}}
 Reservations for direct trains are cheaper via ÖBB.
@@ -161,15 +161,15 @@ Reservations for direct trains are cheaper via ÖBB.
 
 ### Phone
 
-{{% booking id="obb_phone" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="obb-phone" subtitle="Incl. Nightjet Booking" /%}}
 
 ### On-Site
 
-{{% booking id="obb_ticket_office" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="obb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
 
-{{% booking id="obb_ticket_machine" /%}}
+{{% booking id="obb-ticket-machine" /%}}
 
-{{% booking id="db_ticket_office" subtitle="Incl. Nightjet Booking" %}}
+{{% booking id="db-ticket-office" subtitle="Incl. Nightjet Booking" %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 

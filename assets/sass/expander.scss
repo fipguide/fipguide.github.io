@@ -11,6 +11,15 @@
       text-decoration: underline;
     }
   }
+
+  &--booking {
+    &:hover,
+    &:focus {
+      .o-booking__title-text {
+        text-decoration: underline;
+      }
+    }
+  }
 }
 
 .details-print {
@@ -54,6 +63,7 @@ details > summary::-webkit-details-marker {
   position: absolute;
   right: 1.2rem;
   font-size: 2.4rem;
+  align-self: center;
   @extend .material-symbols-rounded
 }
 
@@ -63,10 +73,9 @@ details > summary::-webkit-details-marker {
   @extend .material-symbols-rounded
 }
 
-details[open] > .o-expander__summary {
+details[open] > .o-expander__summary:not(.o-expander__summary--booking) {
   font-weight: 700;
 }
-
 
 @media print {
   .details-screen {

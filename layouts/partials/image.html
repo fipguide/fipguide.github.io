@@ -38,5 +38,5 @@
     {{- end -}}
   {{- end -}}
 
-  {{- printf "<img src=\"%s\" alt=\"\" loading=\"%s\" srcset=\"%s\"/>" $image.RelPermalink $loading (delimit $srcset ", ") | safeHTML -}}
+  {{- printf "<img src=\"%s\" alt=\"\" loading=\"%s\" srcset=\"%s\" sizes=\"(max-width: 576px) calc(100vw - 3.2rem), (max-width: 768px) 540px, (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px) 1140px, 1320px\">" $image.RelPermalink $loading (delimit $srcset ", ") | safeHTML -}}
 </picture>
