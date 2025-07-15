@@ -85,17 +85,17 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 
 ### Online
 
-{{% booking id="sbb_website"/%}}
+{{% booking id="sbb-website"/%}}
 
-{{% booking id="db_website"/%}}
+{{% booking id="db-website"/%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
@@ -103,13 +103,13 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 ### Telefon
 
-{{% booking id="obb_phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
+{{% booking id="obb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
 
 ### Vor Ort
 
-{{% booking id="sbb_ticket_office"/%}}
+{{% booking id="sbb-ticket-office"/%}}
 
-{{% booking id="sbb_ticket_machine"/%}}
+{{% booking id="sbb-ticket-machine"/%}}
 
 ### Im Zug
 

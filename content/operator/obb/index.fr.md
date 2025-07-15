@@ -141,19 +141,19 @@ Dans les Railjet :
 
 ### En ligne
 
-{{% booking id="obb_website" /%}}
+{{% booking id="obb-website" /%}}
 
-{{% booking id="db_website" %}}
+{{% booking id="db-website" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers, avec part de billet uniquement pour la section autrichienne, pour les employés de la Deutsche Bahn"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valable dans son propre pays)"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -161,15 +161,15 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 ### Par téléphone
 
-{{% booking id="obb_phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="obb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
 ### Sur place
 
-{{% booking id="obb_ticket_office" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="obb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
 
-{{% booking id="obb_ticket_machine" /%}}
+{{% booking id="obb-ticket-machine" /%}}
 
-{{% booking id="db_ticket_office" subtitle="Incl. réservation Nightjet" %}}
+{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 

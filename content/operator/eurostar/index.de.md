@@ -86,22 +86,22 @@ Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über d
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="uk_mail" /%}}
+{{% booking id="uk-mail" /%}}
 
 ### Telefon
 
-{{% booking id="eurostar_phone" %}}
+{{% booking id="eurostar-phone" %}}
 Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
 {{% /booking %}}
 
-{{% booking id="cfl_phone"
+{{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
 
 ### Vor Ort
 
-{{% booking id="ns_ticket_office"
+{{% booking id="ns-ticket-office"
     fip_50=nil
     fip_global_fare=true
     reservations=nil

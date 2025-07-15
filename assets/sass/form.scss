@@ -33,10 +33,20 @@
     border-radius: var(--border-radius-l);
     transition: background-color .3s ease;
     font-weight: 700;
+    cursor: pointer;
 
     &:hover,
     &:focus {
       background-color: var(--bg-accent2);
     }
   }
+}
+
+#success {
+  display: none;
+  padding: 1rem;
+  border-radius: var(--border-radius-m);
+  background-color: green;
+  color: white;
+  text-align: left;
 }

@@ -85,17 +85,17 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 
 ### Online
 
-{{% booking id="sbb_website"/%}}
+{{% booking id="sbb-website"/%}}
 
-{{% booking id="db_website"/%}}
+{{% booking id="db-website"/%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss section, for Deutsche Bahn employees"
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
@@ -103,13 +103,13 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route
 
 ### By Phone
 
-{{% booking id="obb_phone" subtitle="Nightjet booking" fip_50=nil /%}}
+{{% booking id="obb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
 
 ### On Site
 
-{{% booking id="sbb_ticket_office"/%}}
+{{% booking id="sbb-ticket-office"/%}}
 
-{{% booking id="sbb_ticket_machine"/%}}
+{{% booking id="sbb-ticket-machine"/%}}
 
 ### On the Train
 
