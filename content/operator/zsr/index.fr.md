@@ -18,9 +18,9 @@ La **ZSR** (Železnice Slovenskej republiky) et son exploitant ferroviaire **ZSS
 
 ## Validité des billets FIP
 
-Coupon FIP : ✅  
-Coupon FIP pour accompagnants : ⛔  
-Billet FIP 50 : ✅  
+Coupon FIP : ✅ \
+Coupon FIP pour accompagnants : ⛔ \
+Billet FIP 50 : ✅
 
 Les **coupons FIP** et **billets FIP 50** sont valables sur les trains ZSSK, mais certaines restrictions s'appliquent : une **réservation est nécessaire dans certains trains**, notamment **tous en 1re classe**. Pour les trajets internationaux, un billet FIP 50 continu ou les coupons FIP des deux pays sont requis.
 
@@ -31,36 +31,36 @@ Réservation obligatoire pour les trains `SC` et `IC`. Dans les autres trains ZS
 {{% /highlight %}}
 
 ### SuperCity (SC) ⚠️
-Trains rapides à pendulation (Pendolino) entre Prague et Košice, avec peu d’arrêts.  
-**Réservation obligatoire**  
-**Prix de la réservation** : à partir de 7 € (variable selon la distance et l’occupation)
+Trains rapides à pendulation (Pendolino) entre Prague et Košice, avec peu d'arrêts. \
+**Réservation obligatoire** \
+**Prix de la réservation** : à partir de 7 € (variable selon la distance et l'occupation)
 
 ### Intercity (IC) ⚠️
-*Actuellement suspendus pour raisons économiques, remplacés par des trains `Ex`.*  
-Trajets entre Prague et Bratislava/Žilina.  
-**Réservation obligatoire**  
+*Actuellement suspendus pour raisons économiques, remplacés par des trains `Ex`.* \
+Trajets entre Prague et Bratislava/Žilina. \
+**Réservation obligatoire** \
 **Prix** : dès 7 €
 
 ### EuroCity (EC) / Railjet (RJ) ⚠️1️⃣ ℹ️
-Trains internationaux vers la République tchèque, l’Autriche ou la Hongrie.  
-ℹ️ Attention : `RJ` est aussi l’abréviation de **RegioJet**, non valable avec FIP.  
+Trains internationaux vers la République tchèque, l'Autriche ou la Hongrie. \
+ℹ️ Attention : `RJ` est aussi l'abréviation de **RegioJet**, non valable avec FIP. \
 **Réservation obligatoire** : seulement en 1re classe
 
 ### EuroNight (EN) ⚠️
-Trains de nuit internationaux. Réservation obligatoire pour couchettes ou lits.  
-**Réservation obligatoire**  
+Trains de nuit internationaux. Réservation obligatoire pour couchettes ou lits. \
+**Réservation obligatoire** \
 **Prix** : variable selon la distance et le type de place
 
 ### Express (Ex) ⚠️1️⃣
-Trains interrégionaux avec moins d’arrêts que les trains régionaux.  
+Trains interrégionaux avec moins d'arrêts que les trains régionaux. \
 **Réservation obligatoire** : seulement en 1re classe
 
 ### Rýchlik (R) ⚠️1️⃣
-Trains rapides régionaux s'arrêtant dans les principales gares.  
+Trains rapides régionaux s'arrêtant dans les principales gares. \
 **Réservation obligatoire** : seulement en 1re classe
 
 ### Osobný vlak (Os) ⚠️1️⃣
-Trains régionaux standard desservant presque toutes les gares.  
+Trains régionaux standard desservant presque toutes les gares. \
 **Réservation obligatoire** : seulement en 1re classe
 
 ## Achat de billets et de réservations
@@ -73,7 +73,7 @@ Trains régionaux standard desservant presque toutes les gares.
 
 ### En gare
 
-{{% booking id="zssk_ticket_office" /%}}  
+{{% booking id="zssk_ticket_office" /%}}
 {{% booking id="db_ticket_office" subtitle="Hors IC & SC" /%}}
 
 ### À bord
@@ -94,14 +94,14 @@ En l’absence de guichet ouvert, un billet ou une réservation (Ex) peut être 
 - Une **attestation** est ensuite délivrée et à présenter à bord
 - Le **billet gratuit à 0€** doit être réservé sur le site de ZSSK (choisir "bénéficiaire de la réduction 100 %")
 
-Dans les trains `EC` : supplément 1 € par enfant  
-Dans les trains `SC` : 1 € (2e cl.) / 3 € (1re cl.)  
+Dans les trains `EC` : supplément 1 € par enfant \
+Dans les trains `SC` : 1 € (2e cl.) / 3 € (1re cl.) \
 Dans les trains `IC` : supplément avec réservation obligatoire
 
 ### Sans demande spécifique
 
-L’enfant peut bénéficier de **50 % de réduction** (plus simple)  
-Nécessite une **pièce d’identité avec photo, âge et date de naissance**
+L'enfant peut bénéficier de **50 % de réduction** (plus simple) \
+Nécessite une **pièce d'identité avec photo, âge et date de naissance**
 
 ## Conditions spéciales
 
@@ -119,5 +119,5 @@ Les **bus ne sont pas valables avec FIP**, sauf s’ils remplacent un train éli
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)  
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)

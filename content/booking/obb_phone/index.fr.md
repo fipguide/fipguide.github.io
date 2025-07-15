@@ -17,7 +17,7 @@ params:
 
 [+43 (0) 5 1717](tel:+4351717)
 
-Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation.  
+Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. \
 **Aucun frais supplémentaire** n’est facturé par ÖBB pour la réservation.
 
 {{% booking-section "fip_50" %}}
@@ -35,6 +35,6 @@ Le tarif de réservation est facturé **par train**. Pour les trajets avec plusi
 
 Cependant, les réservations de sièges effectuées auprès de l’ÖBB sont **annulables** :
 
-- De 180 à 15 jours avant le départ : remboursement de 100 % du prix de la réservation  
-- De 14 à 1 jour avant le départ : remboursement de 50 % du prix de la réservation  
+- De 180 à 15 jours avant le départ : remboursement de 100 % du prix de la réservation
+- De 14 à 1 jour avant le départ : remboursement de 50 % du prix de la réservation
 {{% /booking-section %}}

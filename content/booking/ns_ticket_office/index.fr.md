@@ -13,26 +13,26 @@ params:
 {{% booking-section "fip_50" %}}
 **Billets FIP 50**
 
-Les billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »).  
+Les billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »). \
 En date de décembre 2023, ces gares sont :
 
-- Amsterdam Centraal  
-- Amsterdam Sloterdijk  
-- Amsterdam Zuid  
-- Arnhem Centraal  
-- Breda  
-- Den Haag Centraal  
-- Eindhoven Centraal  
-- Enschede  
-- Haarlem  
-- Leeuwarden  
-- Leiden Centraal  
-- Maastricht  
-- Rotterdam Centraal  
-- Aéroport de Schiphol  
-- Utrecht Centraal  
-- Zaandam  
-- Zwolle  
+- Amsterdam Centraal
+- Amsterdam Sloterdijk
+- Amsterdam Zuid
+- Arnhem Centraal
+- Breda
+- Den Haag Centraal
+- Eindhoven Centraal
+- Enschede
+- Haarlem
+- Leeuwarden
+- Leiden Centraal
+- Maastricht
+- Rotterdam Centraal
+- Aéroport de Schiphol
+- Utrecht Centraal
+- Zaandam
+- Zwolle
 {.o-section--columns-3}
 {{% /booking-section %}}
 

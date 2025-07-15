@@ -3,14 +3,14 @@ title: "Politique de confidentialité"
 description: "Informations sur la politique de confidentialité et la protection des données personnelles dans le guide FIP."
 ---
 
-**Lennart Rommeiß**  
-Klingerstraße 15  
+**Lennart Rommeiß** \
+Klingerstraße 15 \
 51143 Köln
 
 La protection de vos données personnelles est une préoccupation particulière pour nous. Nous traitons vos données exclusivement sur la base des dispositions légales (RGPD, TKG 2003). Dans cette politique de confidentialité, nous vous informons des aspects les plus importants du traitement des données dans le cadre de notre site web.
 
 ## Responsable du traitement
-Le responsable du traitement des données est Lennart Rommeiß, situé à Klingerstraße 15, 51143 Köln. Vous pouvez nous contacter par e-mail à [nextstop@fipguide.org](mailto:nextstop@fipguide.org) ou par courrier à l’adresse Klingerstraße 15, 51143 Köln.
+Le responsable du traitement des données est Lennart Rommeiß, situé à Klingerstraße 15, 51143 Köln. Vous pouvez nous contacter par e-mail à [nextstop@fipguide.org](mailto:nextstop@fipguide.org) ou par courrier à l'adresse Klingerstraße 15, 51143 Köln.
 
 ## Sécurité des données
 Nous prenons des mesures appropriées pour protéger vos données personnelles conformément à l’article 32 du RGPD. Ces mesures concernent notamment la protection contre l’accès, le traitement, la perte, l’utilisation et la manipulation non autorisés, illicites ou accidentels.

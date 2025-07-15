@@ -12,8 +12,8 @@ params:
 {{% booking-section "fip_50" %}}
 **Billets FIP 50**
 
-La SNCB propose la vente de billets en ligne avec la réduction FIP 50.  
-Il suffit de sélectionner la réduction **« 50% de réduction en Belgique (SNCB) »** pour les voyageurs.  
+La SNCB propose la vente de billets en ligne avec la réduction FIP 50. \
+Il suffit de sélectionner la réduction **« 50% de réduction en Belgique (SNCB) »** pour les voyageurs. \
 Il est également possible de combiner plusieurs réductions, par exemple un **coupon FIP valable simultanément pour le CFL (Luxembourg)** ou **NS (Pays-Bas)**.
 
 ![Réserver un billet FIP SNCB](fip_sncb_website.webp)

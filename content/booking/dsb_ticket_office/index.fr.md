@@ -17,7 +17,7 @@ params:
 **Billets FIP 50**
 
 {{% highlight inofficial %}}
-La DSB ne peut probablement vendre des billets FIP 50 pour le Danemark seulement dans les guichets internationaux. Ceux-ci se trouvent dans les gares principales d’Aarhus, Copenhague et Odense.  
+La DSB ne peut probablement vendre des billets FIP 50 pour le Danemark seulement dans les guichets internationaux. Ceux-ci se trouvent dans les gares principales d’Aarhus, Copenhague et Odense. \
 Nous ne savons pas si des billets FIP 50 étrangers peuvent également y être vendus.
 {{% /highlight %}}
 {{% /booking-section %}}
@@ -29,16 +29,16 @@ Le tarif de réservation est facturé par trajet. Pour des correspondances avec 
 
 Des réservations internationales peuvent être effectuées aux guichets internationaux dans les gares principales d’Aarhus, Copenhague et Odense pour les pays suivants :
 
-- Autriche  
-- Belgique  
-- République tchèque  
-- Danemark  
-- Allemagne  
-- Italie  
-- Luxembourg  
-- Pays-Bas  
-- Norvège  
-- Suède  
-- Suisse  
+- Autriche
+- Belgique
+- République tchèque
+- Danemark
+- Allemagne
+- Italie
+- Luxembourg
+- Pays-Bas
+- Norvège
+- Suède
+- Suisse
 {.o-section--columns-3}
 {{% /booking-section %}}

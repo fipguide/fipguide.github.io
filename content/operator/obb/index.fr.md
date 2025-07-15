@@ -19,8 +19,8 @@ Les **ÖBB (Österreichische Bundesbahnen)** sont la compagnie ferroviaire natio
 
 ## Validité des billets FIP
 
-FIP Coupon : ✅  
-FIP Coupon accompagnant : ✅  
+FIP Coupon : ✅ \
+FIP Coupon accompagnant : ✅ \
 FIP 50 Ticket : ✅
 
 Les **coupons et billets FIP 50** sont valables sur les trains ÖBB. Pour les trajets transfrontaliers, un **billet FIP 50 continu** ou des **coupons FIP des deux pays** sont nécessaires.
@@ -28,10 +28,10 @@ Les **coupons et billets FIP 50** sont valables sur les trains ÖBB. Pour les tr
 {{% highlight important %}}
 En Autriche, avec un **coupon FIP**, l’utilisation des trains grandes lignes ÖBB (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) nécessite le paiement d’un **supplément** :
 
-- 1ʳᵉ classe : **15 €**  
+- 1ʳᵉ classe : **15 €**
 - 2ᵉ classe : **10 €**
 
-Le supplément est valable **maximum 2 jours**, en fonction de la date du coupon. Les **réservations de siège ne sont pas incluses**.  
+Le supplément est valable **maximum 2 jours**, en fonction de la date du coupon. Les **réservations de siège ne sont pas incluses**. \
 Pas de supplément avec un **billet FIP 50**.
 {{% /highlight %}}
 
@@ -56,26 +56,55 @@ Pas de supplément avec un **billet FIP 50**.
 
 Dans les Railjet :
 
-- **Economy** = 2ᵉ classe  
-- **First Class** = 1ʳᵉ classe (nécessite un coupon FIP 1ʳᵉ)  
+- **Economy** = 2ᵉ classe
+- **First Class** = 1ʳᵉ classe (nécessite un coupon FIP 1ʳᵉ)
 - **Business** = classe 1ʳᵉ premium avec boisson de bienvenue — **non valable avec FIP**
 
 [Détails des classes ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
 ## Achat de billets et réservations
 
-- En ligne : {{% booking id="obb_website" /%}} ou via {{% booking id="db_website" /%}}
-- Par téléphone : {{% booking id="obb_phone" /%}}
-- En gare : {{% booking id="obb_ticket_office" /%}} ou bornes {{% booking id="obb_ticket_machine" /%}}
-- À bord : possible, mais plus cher. Impossible en S-Bahn sans billet préalable.
+### En ligne
+
+{{% booking id="obb_website" /%}}
+
+{{% booking id="db_website" %}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
+
+{{% booking id="db_website_fip_db"
+    subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers, avec part de billet uniquement pour la section autrichienne, pour les employés de la Deutsche Bahn"
+%}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
+
+{{% booking id="db_website_fip_international"
+    subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valable dans son propre pays)"
+%}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
+
+### Par téléphone
+
+{{% booking id="obb_phone" subtitle="Incl. réservation Nightjet" /%}}
+
+### Sur place
+
+{{% booking id="obb_ticket_office" subtitle="Incl. réservation Nightjet" /%}}
+
+{{% booking id="obb_ticket_machine" /%}}
+
+{{% booking id="db_ticket_office" subtitle="Incl. réservation Nightjet" %}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
 
 ## Réductions
 
-- **Enfants <6 ans** : gratuit.  
+- **Enfants <6 ans** : gratuit.
 - **Enfants ≥6 ans** : doivent payer le **supplément** si voyage avec un coupon.
 
 {{% highlight tip %}}
-La carte **ÖBB Vorteilscard Family** à 19 € est vite rentabilisée avec enfants.  
+La carte **ÖBB Vorteilscard Family** à 19 € est vite rentabilisée avec enfants. \
 [Voir sur oebb.at](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -83,8 +112,8 @@ La carte **ÖBB Vorteilscard Family** à 19 € est vite rentabilisée avec en
 
 ### Trains vers l’Italie
 
-- **Supplément obligatoire** (payable à bord ou en gare) :  
-  - 2ᵉ classe : **10 €**  
+- **Supplément obligatoire** (payable à bord ou en gare) :
+  - 2ᵉ classe : **10 €**
   - 1ʳᵉ classe : **15 €**
 
 Valable même avec **FIP ÖBB ou FS**.
@@ -99,7 +128,7 @@ Le réseau est opéré par **ÖBB**, **FIP valable sans supplément**.
 
 ### Aéroport de Vienne
 
-FIP **non valable sur le CAT**.  
+FIP **non valable sur le CAT**. \
 FIP valable dans la S-Bahn S7 (train local ÖBB).
 
 ⚠️ Les tickets de transports urbains (WienMobil) **ne couvrent pas Schwechat > Aéroport**, sauf billet complémentaire.
@@ -116,7 +145,7 @@ FIP **non valable**, sauf sur les **bus de substitution (SEV)**.
 
 FIP **non valable**, sauf sur les lignes :
 
-- **Graz – Klagenfurt** (jusqu’en 12/2025)
+- **Graz – Klagenfurt** (jusqu'en 12/2025)
 - **Villach/Udine/Venise** : tarif global FIP spécifique, **réservation obligatoire** incluse
 
 ### Trains auto (Motorail)

@@ -22,12 +22,12 @@ En Suisse, **trois opérateurs** proposent des **billets FIP 50** et **coupons F
 
 Ensemble, ils couvrent presque **tout le réseau ferroviaire suisse**, y compris **certains téléphériques ou lignes de bus** uniques en Europe, accessibles avec le FIP.
 
-Seuls quelques services à **vocation touristique** ne sont pas couverts.  
-Les **liaisons transfrontalières** vers la France et l’Italie nécessitent une **attention particulière** en raison des **suppléments obligatoires**.
+Seuls quelques services à **vocation touristique** ne sont pas couverts. \
+Les **liaisons transfrontalières** vers la France et l'Italie nécessitent une **attention particulière** en raison des **suppléments obligatoires**.
 
 ## Informations générales
 
-La Suisse possède **l’un des réseaux ferroviaires les plus denses au monde**.  
+La Suisse possède **l'un des réseaux ferroviaires les plus denses au monde**. \
 Malgré une topographie montagneuse, la quasi-totalité du pays est **accessible en train**.
 
 - Les trains circulent fréquemment, en particulier sur les lignes principales.
@@ -57,7 +57,7 @@ Plusieurs liaisons transfrontalières existent :
 - Des `EC` et `ECE` opèrent aussi sur cet axe.
 - Des **trains régionaux** relient l’Allemagne à Bâle.
 
-⚠️ Le **coupon FIP DB** est valable **jusqu’à Bâle Badischer Bahnhof (Bad Bf)**, considéré comme **gare frontière officielle**.
+⚠️ Le **coupon FIP DB** est valable **jusqu'à Bâle Badischer Bahnhof (Bad Bf)**, considéré comme **gare frontière officielle**.
 
 {{% highlight tip %}}
 Pour entrer en Suisse **sans billet CFF** (coupon FIP ou FIP 50), vous pouvez prendre la **S-Bahn ligne 6** entre Bâle Bad Bf et Bâle SBB avec un **Deutschlandticket**. [^1]
@@ -81,17 +81,17 @@ Depuis la France :
 - `TGV` directs depuis **Paris vers Bâle ou Genève**.
 - Trains régionaux via **Pontarlier, Vallorbe**, etc.
 
-⚠️ Sur les `TGV`, les **titres FIP standards ne sont pas valables**. Il faut un **billet FIP global**.  
+⚠️ Sur les `TGV`, les **titres FIP standards ne sont pas valables**. Il faut un **billet FIP global**. \
 Pour les trains régionaux, **un billet FIP 50 ou un coupon des deux opérateurs suffit**.
 
 ### Italie
 
-Depuis l’Italie :
+Depuis l'Italie :
 - Trains régionaux et EuroCity depuis **Milan** vers **Zurich, Berne, Bâle** via **Como** ou **Domodossola**.
-- D’autres points frontières sont desservis uniquement par des trains régionaux.
+- D'autres points frontières sont desservis uniquement par des trains régionaux.
 
-⚠️ Les trains `EuroCity` nécessitent une **réservation avec supplément obligatoire**.  
-Le **supplément transfrontalier** vers l’Italie est de **11 € (2e cl.)** ou **13 € (1re cl.)**, réservation incluse.
+⚠️ Les trains `EuroCity` nécessitent une **réservation avec supplément obligatoire**. \
+Le **supplément transfrontalier** vers l'Italie est de **11 € (2e cl.)** ou **13 € (1re cl.)**, réservation incluse.
 
 {{% highlight tip %}}
 Sur la ligne **Milan – Chiasso**, il est souvent **plus économique de prendre un train régional Trenord jusqu’à Chiasso**, puis de continuer en FIP. Trenord **n’accepte pas le FIP**, mais le tarif est faible.
@@ -99,17 +99,17 @@ Sur la ligne **Milan – Chiasso**, il est souvent **plus économique de prendre
 
 ### Liechtenstein
 
-Très peu de trains traversent le Liechtenstein : seulement quelques **S-Bahn en semaine**.  
-Ils sont opérés par les **ÖBB** et **acceptent les billets FIP ÖBB jusqu’à Buchs (SG)**.
+Très peu de trains traversent le Liechtenstein : seulement quelques **S-Bahn en semaine**. \
+Ils sont opérés par les **ÖBB** et **acceptent les billets FIP ÖBB jusqu'à Buchs (SG)**.
 
 Le reste du trafic est assuré **par bus**, **non compatibles FIP**.
 
 ### Autriche
 
-La **seule grande liaison ferroviaire** est via **St. Margrethen** (trains régionaux + EuroCity venant de Munich via Bregenz).  
-L’autre point est **Buchs**, aussi relié au Liechtenstein.
+La **seule grande liaison ferroviaire** est via **St. Margrethen** (trains régionaux + EuroCity venant de Munich via Bregenz). \
+L'autre point est **Buchs**, aussi relié au Liechtenstein.
 
-Les **trains Railjet et EuroCity ÖBB** entre **Vienne/Graz et Zurich** empruntent cette ligne.  
+Les **trains Railjet et EuroCity ÖBB** entre **Vienne/Graz et Zurich** empruntent cette ligne. \
 On peut donc voyager entre Autriche et Suisse avec des **coupons FIP ÖBB + SBB**.
 
 ## Évaluation FIP

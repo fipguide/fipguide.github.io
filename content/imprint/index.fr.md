@@ -3,8 +3,8 @@ title: "Mentions légales"
 description: "Informations légales et coordonnées du site FIP Guide."
 ---
 
-**Lennart Rommeiß**  
-Klingerstraße 15  
+**Lennart Rommeiß** \
+Klingerstraße 15 \
 51143 Cologne (Köln)
 
 Email : nextstop@fipguide.org

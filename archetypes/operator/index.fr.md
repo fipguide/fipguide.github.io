@@ -27,10 +27,10 @@ operator: '{{ .File.ContentBaseName }}'
 
 ## Validité des billets FIP
 
-Coupon FIP : <✅/⛔>  
-Coupons FIP pour accompagnants : <✅/⛔>  
-Billets FIP 50 : <✅/⛔>  
-Tarif Global FIP : <✅/⛔>  
+Coupon FIP : <✅/⛔> \
+Coupons FIP pour accompagnants : <✅/⛔> \
+Billets FIP 50 : <✅/⛔> \
+Tarif Global FIP : <✅/⛔>
 
 <!--
   Où les billets FIP 50 / coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. billet FIP 50 continu ou coupons FIP des deux pays) ?
@@ -52,13 +52,13 @@ Tarif Global FIP : <✅/⛔>
 -->
 {{% expander "Catégorie de train" traincategory "category" %}}
 <!-- Remplacez "Catégorie de train" par le nom de la catégorie, par ex. TGV, ICE -->
-**Description :**  
+**Description :** \
 <!-- Description de la catégorie -->
-**Réservation possible :** <oui/non>  
-**Réservation obligatoire :** <⚠️ oui / non / ⚠️1️⃣ seulement en 1ère classe>  
-**Coût de la réservation :**  
-2e classe : XX€  
-1ère classe : XX€  
+**Réservation possible :** <oui/non> \
+**Réservation obligatoire :** <⚠️ oui / non / ⚠️1️⃣ seulement en 1ère classe> \
+**Coût de la réservation :** \
+2e classe : XX€ \
+1ère classe : XX€
 <!-- Si FIP n’est pas accepté, ajoutez ceci :
 **FIP :** ⛔ FIP non accepté
 -->
@@ -74,5 +74,5 @@ Tarif Global FIP : <✅/⛔>
 -->
 
 <!--
-**Standard** : Comparable à la 2e classe.  
+**Standard** : Comparable à la 2e classe. \
 **Plus** : 1re classe sans service à bord. Un pass FI
