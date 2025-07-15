@@ -1,35 +1,29 @@
 function initAside() {
 
-  const expandButton = document.querySelector('.o-aside__mobile-container1')?.getElementsByTagName('button');
+  const expandButton = document.getElementById('aside-mobile-toggle');
 
-
-  if (expandButton && expandButton.length > 0) {
-    expandButton[0].addEventListener('click', () => {
+  if (expandButton) {
+    expandButton.addEventListener('click', () => {
       toggleAside();
     });
+  }
 
-    window.onclick = e => {
-      if (e.target.classList.contains('curtain') || e.target.classList.contains('toc-link')) {
-        toggleAside();
-      }
+  window.onclick = e => {
+    //console.log(e.target);
+    if (e.target.classList.contains('o-aside__toc-link')) {
+      toggleAside();
     }
   }
 }
 
 function toggleAside() {
-  const container1 = document.querySelector('.o-aside__mobile-container1');
-  const container2 = document.querySelector('.o-aside__mobile-container2');
+  const asideFullView = document.querySelector('.o-aside__full-view');
+  const asideCollapsedView = document.querySelector('.o-aside__collapsed-view');
+  const overlay = document.getElementById('overlay');
 
-  container1.classList.toggle("o-aside__mobile-container--open");
-  container2.classList.toggle("o-aside__mobile-container--open");
-
-  /*
-  if (expandButton.getAttribute("aria-expanded") === 'false') {
-    expandButton.setAttribute("aria-expanded", "true");
-  } else {
-    expandButton.setAttribute("aria-expanded", "false");
-  }
-  */
+  asideFullView.classList.toggle("o-aside__full-view--open");
+  asideCollapsedView.classList.toggle("o-aside__collapsed-view--hide");
+  overlay.classList.toggle("overlay--show");
 }
 
 if (document.readyState === "interactive") {

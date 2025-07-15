@@ -1,5 +1,12 @@
 <aside id="aside" class="o-aside">
-    <div class="o-single__container">
+    <div class="o-aside__collapsed-view">
+        <span>Hier steht der aktuelle Menüpunkt</span>
+        <button id="aside-mobile-toggle">
+            Inhalt öffnen
+            {{ partial "icon" "list" }}
+        </button>
+    </div>
+    <div class="o-single__container o-aside__full-view">
         {{ if eq .Page.Type "operator" }}
         <ul>
             {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
