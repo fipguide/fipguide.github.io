@@ -1,18 +1,18 @@
-$icon-add: '{{(resources.Get "svg/default/add.svg" | fingerprint "md5").RelPermalink}}';
-$icon-remove: '{{(resources.Get "svg/default/remove.svg" | fingerprint "md5").RelPermalink}}';
-
 @import "_variables.scss";
-@import "node_modules/bootstrap/scss/bootstrap.scss";
 @import "styles.scss";
 @import "fonts.scss";
 @import "navigation.scss";
 @import "sidemenu.scss";
-@import "stage.scss";
+@import "search.scss";
 @import "teaser.scss";
 @import "footer.scss";
 @import "content.scss";
 @import "textHighlight.scss";
-@import "toc.scss";
 @import "headings.scss";
 @import "form.scss";
 @import "expander.scss";
+@import "anchorlink.scss";
+@import "print.scss";
+@import "booking.scss";
+@import "button.scss";
+@import "startpage.scss";

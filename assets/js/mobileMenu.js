@@ -1,4 +1,3 @@
-import * as mq from './mediaqueries';
 //import {initWindowOnClick} from './windowOnClickHandling';
 
 function initMobileMenu() {
@@ -14,11 +13,8 @@ function initMobileMenu() {
     closeMobileMenu()
   });
 
-  //TODO: window.onClick in mobileMenu.js und aside.js konsollidieren; momentan funktioniert es nicht gemeinsam.
-  //const target =  initWindowOnClick();
-
   window.onclick = e => {
-    console.log(e.target);
+    //console.log(e.target);
     if (e.target.classList.contains('o-header__curtain')) {
       closeMobileMenu();
     }
@@ -48,4 +44,3 @@ if (document.readyState === "interactive") {
     initMobileMenu();
   });
 }
-

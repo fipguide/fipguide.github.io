@@ -1,28 +1,24 @@
 {{ define "main" }}
-<div class="curtain" aria-hidden="true"></div>
-<article class="container o-single o-single--with-sidemenu">
-    <div class="row">
-        <div class="col-12 col-lg-4">
-            {{ partial "sidemenu.html" . }}
-        </div>
-
-        <div class="col-12 col-lg-8" data-pagefind-body>
+    <article class="o-container o-single o-single--with-sidemenu">
+        {{ partial "sidemenu" . }}
+        <div class="o-single__content-wrapper" data-pagefind-body>
             <div class="o-single__container content_with_heading">
-                <div class="o-single__header">
-                    <div class="o-single__header__title">
+                <div class="o-single__content-header">
+                    <div class="o-single__content-header-title">
                         {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-                        {{ $logo := resources.Get (printf "svg/logos/%s.svg" $object) }}
-                        <img data-pagefind-meta="img" src="{{ $logo.RelPermalink }}" alt="" />
+                        {{ $logo := resources.Get (printf "images/logos/%s.svg" $object) }}
+                        {{ if $logo }}
+                            <img data-pagefind-meta="image[src]" src="{{ $logo.RelPermalink }}" alt="" />
+                        {{ end }}
                         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                     </div>
                     {{ partial "updateDate.html" . }}
                 </div>
-
-                <div class="content" data-pagefind-weight="2.5">
-                    {{ .Content }}
+                <div data-pagefind-weight="2.5">
+                    {{ partial "content" . }}
                 </div>
             </div>
+            {{ partial "image" (partial "helper/contentImage" . ) }}
         </div>
-    </div>
-</article>
+    </article>
 {{ end }}

@@ -1,9 +1,0 @@
-<a href="{{ .RelPermalink }}" class="o-list__link">
-  <div class="o-list__picture o-list__picture--operator">
-    {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-    {{ partial "ico" (dict "icon" $object "theme" "logos" "size" "50") }}
-  </div>
-  <div>
-    {{ .Title }}
-  </div>
-</a>

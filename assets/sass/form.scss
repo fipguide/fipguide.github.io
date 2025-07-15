@@ -3,23 +3,24 @@
   margin-left: 0;
   margin-right: 0;
 
-  @include media-breakpoint-down(md) {
+  @media (max-width: #{$breakpoint-md}) {
     max-width: fit-content;
   }
 
-  .row > label {
+  label {
     padding: 0;
+    display: flex;
+    flex-flow: column;
   }
 
   input[type=text], input[type=email], select, textarea {
-    width: 100%;
     margin-bottom: 1.6rem;
-    border-radius: var(--border-radius-m);
+    border-radius: var(--border-radius-l);
     border-width: .2rem;
     border-color: var(--color-onLight);
     padding: 1.2rem;
 
-    @include media-breakpoint-up(md) {
+    @media (min-width: #{$breakpoint-md}) {
       width: 50%;
     }
   }
@@ -29,13 +30,23 @@
     background-color: var(--bg-accent);
     color: var(--color-onLight);
     border: none;
-    border-radius: var(--border-radius-m);
+    border-radius: var(--border-radius-l);
     transition: background-color .3s ease;
     font-weight: 700;
+    cursor: pointer;
 
     &:hover,
     &:focus {
       background-color: var(--bg-accent2);
     }
   }
+}
+
+#success {
+  display: none;
+  padding: 1rem;
+  border-radius: var(--border-radius-m);
+  background-color: green;
+  color: white;
+  text-align: left;
 }

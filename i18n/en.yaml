@@ -1,33 +1,60 @@
-countryselection: choose country
+_operator__list_title: Operators supporting FIP
+anchorLink:
+  copied: Link has been copied to the clipboard
+  copy: Copy link to this section
+booking:
+  classes:
+    first: 1st Class
+    second: 2nd Class
+  fee: Booking Fee
+  fip-50: FIP 50 Tickets
+  fip-global-fare: FIP Global Fare
+  reservation: Reservation
+  reservation-costs: Reservation Costs
+  visit-additional-information-website: Additional Information
+  visit-booking-website: To Booking Website
 country:
-  one: country
   many: countries
+  one: country
   other: countries
-search-placeholder: Type in a country or train operator
-search-button: Search
-footer-love:
-  text: Made with ♥️ in Frankfurt & Cologne
-  aria-label: Made with love in Frankfurt & Cologne
-menu-open: Menu
-menu-close: Close
-general: general
-information-disclaimer-short: The information provided is unofficial and without guarantee. There is no legal connection to FIP or railway companies.
-highlight-important: Important Information
-highlight-inofficial: Unofficial Information
-highlight-tip: Personal Tip
-news-headline: What's new?
-_operator__list_title: Operator supporting FIP
-_country__list_title: Countries
-_news__list_title: News
-updateDate: Last updated
-related: Related Pages
-toc_name: Contents
-_operator__nearby: Neighboring Operators
-toc-backlink: Back to
+countryselection: choose country
 editPage: Edit page
-list-disclaimer: Currently, information is not yet available for all countries and operators. You can see the current information status on
-list-disclaimer-link: GitHub
-meta-description:
-  country: Overview of the countries where FIP benefits are available.
-  operator: Overview of the operators providing FIP benefits.
-  news: Latest updates and information about the FIP Guide.
+footer-love:
+  aria-label: Made with love in Frankfurt & Cologne
+  text: Made with ♥️ in Frankfurt & Cologne
+general: general
+highlight:
+  important: Important Information
+  inofficial: Unofficial Information
+  tip: Personal Tip
+home-page-text: FIP Guide Home Page
+information-disclaimer-short: >-
+  The information provided is unofficial and without guarantee. There is no
+  legal connection to FIP or railway companies.
+menu-close: Close
+menu-open: Menu
+navigate-to-country: Navigate to country
+news-headline: What's new?
+news-other: Other News
+operators_without_fip: Operators without FIP
+related:
+  countries: Related Countries
+  news: Related News
+  operators: Related Operators
+  operators-nearby: Neighboring Operators
+reportError: Report an error
+search-placeholder: Search
+skipToContent: Skip to content
+support:
+  text: >-
+    Would you like to share your knowledge about FIP regulations? Visit our <a
+    href="https://github.com/fipguide/fipguide.github.io">GitHub Repository</a>
+    to contribute content. Alternatively, you can also write to us via the <a
+    href="/en/contact">contact form</a>.
+  title: Support Us
+toc_name: Contents
+updateDate: Last updated
+wip: >-
+  This page is still under construction and content may be incomplete. We would
+  be happy if you contribute to improve this page. [More information on
+  GitHub](https://github.com/fipguide/fipguide.github.io/wiki/English).

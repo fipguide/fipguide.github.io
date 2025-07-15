@@ -1,0 +1,6 @@
+{{ $contentImage := .Page.Resources.GetMatch "image.webp" }}
+{{ if not $contentImage }}
+  {{ $contentImage = resources.Get "images/default.webp" }}
+{{ end }}
+
+{{ return $contentImage }}

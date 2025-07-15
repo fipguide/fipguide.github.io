@@ -1,0 +1,6 @@
+[build]
+  command = "echo 'resourceDir: /opt/build/cache/resources_cache' >> hugo.yaml && hugo --gc --minify -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.145.0"

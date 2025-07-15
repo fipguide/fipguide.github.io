@@ -1,30 +1,29 @@
 
 {{ $logo := resources.Get "images/logo.svg" }}
-<div class="container o-header__wrapper">
-  <a id="skip-link" class="o-header__skip-link" href="#content">zum Inhalt springen</a>
-  <a href="/" aria-label="FIP Guide Startseite" class="o-header__logo">
+<div class="o-container o-header__wrapper">
+  <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
+  <a href="/" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
     <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
-    <h1>FIP Guide</h1>
   </a>
   <div class="o-header__curtain"></div>
-  <div class="o-header__nav container">
+  <div class="o-header__nav o-container">
     <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
       <span>{{ T "menu-open" }}</span>
-      {{ partial "ico" (dict "icon" "menu" ) }}
+      {{ partial "icon" "menu" }}
     </button>
     <nav>
       <button class="o-nav__close-button" title="Menü schließen">
         <span>{{ T "menu-close" }}</span>
-        {{ partial "ico" (dict "icon" "close" ) }}
+        {{ partial "icon" "close" }}
       </button>
       <menu>
         <li class="o-header__item">
           <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
             <span>{{ T "countryselection" }}</span>
-            {{ partial "ico" (dict "icon" "keyboard_arrow_down" ) }}
+            {{ partial "icon" "keyboard_arrow_down" }}
           </button>
-          <h2 id="menu-country-list">{{ T "country" }}</h2>
-          <menu class="o-header__item-countries" aria-describedby="menu-country-list">
+          <span id="menu-country-list-title">{{ T "country" }}</span>
+          <menu class="o-header__item-countries" aria-describedby="menu-country-list-title">
             {{ range  where site.RegularPages "Section" "country"}}
             <li class="o-header__item">
               <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -33,8 +32,8 @@
           </menu>
         </li>
         <li class="o-header__item">
-          <h2 id="menu-general-list">{{ T "general" }}</h2>
-          <ul aria-describedby="menu-general-list">
+          <span id="menu-general-list-title">{{ T "general" }}</span>
+          <ul aria-describedby="menu-general-list-title">
             {{ $news := site.GetPage "news" }}
             {{ if $news }}
             <li class="o-header__item">

@@ -16,65 +16,8 @@ License for the specific language governing permissions and limitations under
 the License.
 */}}
 
-{{- /*
-Renders a table of contents by walking .Page.Fragments.Headings.
-
-In site configuration, set the default start level, end level, and the minimum
-number of headings required to show the table of contents:
-
-    [params.toc]
-    startLevel = 2      # default is 2
-    endLevel = 3        # default is 3
-    minNumHeadings = 2  # default is 2
-
-To display the table of contents on a page:
-
-    +++
-    title = 'Post 1'
-    toc = true
-    +++
-
-To display the table of contents on a page, and override one or more of the
-default settings:
-
-    +++
-    title = 'Post 1'
-    [toc]
-    startLevel = 2      # default is 2
-    endLevel = 3        # default is 3
-    minNumHeadings = 2  # default is 2
-    +++
-
-Start with these basic CSS rules to style the table of contents:
-
-    .toc li {
-      list-style-type: none;
-    }
-    .toc ol {
-      padding: 0 0 0 1em;
-    }
-    .toc > ol {
-      padding-left: 0;
-    }
-    .toc-title {
-      font-weight: bold;
-    }
-
-@context {page} .
-
-@returns {template.HTML}
-
-@example {{ partial "toc.html" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
-*/}}
-
 {{- /* Initialize. */}}
 {{- $partialName := "toc-walk" }}
-
-{{- /* Verify minimum required version. */}}
-{{- $minHugoVersion := "0.125.6" }}
-{{- if lt hugo.Version $minHugoVersion }}
-  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
-{{- end }}
 
 {{- /* Determine content path for warning and error messages. */}}
 {{- $contentPath := "" }}
@@ -102,7 +45,7 @@ Start with these basic CSS rules to style the table of contents:
     {{- $endLevel := or ($.endLevel | int ) ($.context.Param "toc.endLevel" | int) 3 }}
     {{- $numHeadings := where (sort $.context.Fragments.HeadingsMap) "Level" "in" (seq $startLevel $endLevel) | len }}
     {{- if ge $numHeadings (or ($.context.Param "toc.minNumHeadings" | int) 2) }}
-      <nav class="toc" aria-labelledby="toc">
+      <nav class="o-aside__toc" aria-labelledby="toc">
         <ul>
           {{- $ctx := dict
             "page" $.context
@@ -129,7 +72,7 @@ Start with these basic CSS rules to style the table of contents:
           {{- errorf "The %q partial detected that the %q heading has an empty ID attribute. See %s" $ctx.partialName .Title $ctx.contentPath }}
         {{- end }}
         {{- $href := printf "%s#%s" $ctx.page.RelPermalink .ID }}
-        <a href="{{ $href }}" class="toc-link">{{ .Title | plainify | safeHTML }}</a>
+        <a href="{{ $href }}" class="o-aside__toc-link">{{ .Title | plainify | safeHTML }}</a>
         {{- with and (lt .Level $ctx.endLevel) .Headings }}
           <ol>
             {{- $ctx = merge $ctx (dict "headings" .) }}

@@ -1,0 +1,27 @@
+{{- $page := site.GetPage (print "booking/" (.Get "id")) -}}
+{{- $classes := ($page.Params.classes | default dict) -}}
+{{- range $k, $v := .Params }}
+  {{- if (hasPrefix $k "classes.") }}
+    {{- $classKey := (replace $k "classes." "") -}}
+    {{- $classes = (dict $classKey $v) | merge $classes -}}
+  {{- end }}
+{{- end }}
+{{- $params := dict
+    "page" $page
+    "original_page" .Page
+    "subtitle" (.Get "subtitle")
+    "info" (.Inner)
+    "fip_50" ((.Get "fip_50" ) | default $page.Params.fip_50 | default "nil")
+    "fip_global_fare" ((.Get "fip_global_fare" ) | default $page.Params.fip_global_fare | default "nil")
+    "reservations" ((.Get "reservations" ) | default $page.Params.reservations | default "nil")
+    "fee" ((.Get "fee" ) | default $page.Params.fee | default "nil")
+    "classes" $classes
+-}}
+
+<details class="details-screen o-expander o-expander--booking">
+{{- partial "booking" $params -}}
+</details>
+
+<details open class="details-print o-expander o-expander--booking">
+{{- partial "booking" $params -}}
+</details>

@@ -10,59 +10,98 @@
 
     z-index: 3;
 
-    @include media-breakpoint-up(lg) {
-        margin-right: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    height: fit-content;
+
+    @media (min-width: #{$breakpoint-lg}) {
         margin-bottom: 0;
     }
 
-    @include media-breakpoint-down(lg) {
+    @media (max-width: #{$breakpoint-lg}) {
         display: none;
-    }
-
-    .o-single__container {
-        margin-bottom: 1.6rem;
-    }
-
-    //TODO: Bessere Benamung
-    .o-aside__mobile-container1 {
-        display: none;
-
-        button {
-            display: flex;
-            border: 0;
-            width: 100%;
-            border-radius: var(--border-radius-m);
-            align-items: center;
-            justify-content: space-between;
-        }
-    }
-
-    //TODO: Bessere Benamung
-    .o-aside__mobile-container2 {
-        display: block;
-
-        @include media-breakpoint-down(lg) {
-            display: none;
-            justify-content: space-between;
-        }
     }
 
     .o-aside__mobile-container--open {
-        @include media-breakpoint-down(lg) {
+        @media (max-width: #{$breakpoint-lg}) {
             display: block;
+        }
+    }
+
+    ul, ol {
+        list-style-type: none;
+        list-style-position: outside;
+        padding-left: 0;
+
+        ul, ol {
+            margin-bottom: 0;
         }
     }
 }
 
-.tableOfContents ul {
-    list-style-type: none;
-    list-style-position: outside;
-    padding-left: 0;
-}
-
-.tableOfContents a {
+.o-aside a {
     text-decoration-line: none;
     display: flex;
+    align-items: flex-start;
+    gap: .4rem;
+}
+
+.o-aside__backlink-text {
+    display: flex;
     align-items: center;
-    gap: .5rem;
+    gap: .4rem;
+}
+
+.o-aside__toc {
+    li {
+        list-style-type: none;
+    }
+
+    ol {
+        padding: 0 0 0 1em;
+    }
+
+    > ol {
+        padding-left: 0;
+    }
+}
+
+.o-aside__toc-link {
+    display: flex;
+}
+
+.o-aside__toc a[data-current] {
+    font-weight: bold;
+
+    &:before {
+        content: '';
+        width: .4rem;
+        height: 2.1rem;
+        position: absolute;
+        display: flex;
+        left: 0;
+        background-color: var(--link-default);
+    }
+}
+
+.o-related {
+    &__list {
+        list-style-type: none;
+        list-style-position: outside;
+        padding-left: 0;
+    }
+
+    &-date {
+        padding-left: 2.5rem;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.o-related__item img {
+    border-radius: var(--border-radius-s);
 }

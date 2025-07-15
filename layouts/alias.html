@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>{{ .Permalink }}</title>
-    <link rel="canonical" href="{{ .Permalink }}"/>
     <meta name="robots" content="noindex">
     <meta charset="utf-8"/>
     <noscript>
@@ -10,7 +9,7 @@
     </noscript>
     <script>
       ;(function () {
-        // Only do i18n at root, 
+        // Only do i18n at root,
         // otherwise, redirect immediately
         if (window.location.pathname !== '/') {
           window.location.replace('{{ .Permalink }}')

@@ -1,5 +1,9 @@
-.updateDate {
+.o-last-updated {
     font-size: 1.3rem;
+}
+
+.o-last-updated > .material-symbols-rounded {
+    font-size: 1.5rem
 }
 
 code {
@@ -12,17 +16,66 @@ code {
 }
 
 table {
-    margin-bottom: .6rem;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+    margin-left: 0.2rem;
+    box-shadow: 0 0.4rem 0.4rem rgba(0,0,0,.1);
 }
 
-tr {
-    border-bottom: .1rem solid var(--color-table-border);
+thead {
+    th:first-child {
+        border-top-left-radius: var(--border-radius-s);
+    }
+    th:last-child {
+        border-top-right-radius: var(--border-radius-s);
+    }
+
+    th {
+        background: $link-hovered;
+        color: white;
+        text-align: left;
+    }
 }
 
-th, td {
-    padding: .6rem 2rem .6rem 0;
+tbody {
+    tr {
+        border-bottom: .1rem solid $color-table-border;
+    }
+
+    tr:nth-of-type(even) {
+        background-color: $bg-default;
+    }
+
+    tr:last-of-type {
+        border-bottom: 2px solid $link-hovered;
+    }
 }
 
-.footnote-backref {
+th,
+td {
     padding: 1rem;
+}
+
+.footnotes {
+    p {
+        text-align: left;
+    }
+
+    hr {
+        display: none;
+    }
+
+    ol {
+        padding-left: 2rem;
+        list-style-position: outside;
+    }
+}
+
+p:has( + span) {
+    margin-bottom: 0;
+}
+
+article p:last-child,
+section p:last-child {
+    margin-bottom: 0;
 }

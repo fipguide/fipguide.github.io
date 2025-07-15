@@ -21,4 +21,3 @@ if (document.readyState === "interactive") {
     initCountrySelector();
   });
 }
-

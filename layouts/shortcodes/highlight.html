@@ -1,3 +1,12 @@
-<div class="m-text-highlight m-text-highlight--{{ (.Get 0) | markdownify }}" aria-label='{{ T (printf "highlight-%s" (.Get 0)) }}'>
-    <p>{{ .Inner | markdownify }}</p>
-</div>
+{{- $param := .Get 0 -}}
+{{ $iconMapping := dict "important" "error" "inofficial" "warning" "tip" "lightbulb_2" }}
+
+<div class="m-text-highlight m-text-highlight--{{ $param }}">
+    {{- if $param -}}
+    <div class="m-text-highlight__roofline">
+        {{- partial "icon" (index $iconMapping $param) -}}
+        {{ T (printf "highlight.%s" $param) }}</div>
+    {{- end -}}
+    <div>
+{{ .Inner }}
+</div></div>

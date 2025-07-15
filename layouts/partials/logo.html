@@ -1,0 +1,4 @@
+{{ $logo := resources.Get (printf "/images/logos/%s.svg" .) }}
+{{ if $logo }}
+<img src="{{ $logo.RelPermalink }}" alt="" style="height: 1.3em; width: auto" />
+{{ end }}

@@ -1,5 +1,5 @@
 #header {
-  position: fixed;
+  position: sticky;
   width: 100%;
   top: 0;
   box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
@@ -7,13 +7,18 @@
 
 .o-header {
   background-color: var(--bg-default);
+  z-index: 5;
+  position: relative;
+  height: 6rem;
 }
 
 .o-header__wrapper {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  padding: 0;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     justify-content: unset;
   }
 }
@@ -30,7 +35,7 @@
   display: flex;
   justify-content: flex-end;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: block;
   }
 }
@@ -39,43 +44,28 @@
   width: 100%;
   display: none;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: block;
-  }
-}
-
-.o-header__nav nav h2 {
-  display: block;
-
-  @include media-breakpoint-up(md) {
-    display: none;
   }
 }
 
 .o-header__logo {
   display: flex;
-  margin: .3rem;
+  margin: .6rem 0;
   position: relative;
   text-decoration: none;
+  border-radius: var(--border-radius-m);
 
-  h1 {
-    margin: 0;
-    font-size: 2.4rem;
-    color: var(--link-special);
-    font-weight: 700;
-    align-self: center;
-    text-wrap-mode: nowrap;
-
-    &:hover,
-    &:focus {
-      color: var(--link-hovered);
-      text-decoration: underline;
-    }
+  &:hover,
+  &:focus {
+    background-color: var(--bg-neutral);
   }
 
   img {
-    width: 5rem;
-    height: 4.7rem;
+    width: auto;
+    height: 4.4rem;
+    padding: .2rem .4rem;
+    align-self: center;
   }
 }
 
@@ -91,7 +81,7 @@
   left: 50%;
   transform: translateX(-50%);
   padding: 1rem;
-  margin: .3rem;
+  margin: .9rem;
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
@@ -105,6 +95,7 @@
 
 .o-header__item {
   list-style: none;
+  height: 6rem;
 
   //normales Menü
   ul {
@@ -119,7 +110,7 @@
 .o-nav__close-button {
   display: inline-flex;
   padding: 1rem;
-  margin: .3rem;
+  margin: .6rem;
   border: none;
   background: none;
   width: fit-content;
@@ -137,11 +128,16 @@
   }
 }
 
-.o-header__expand-button svg,
-.o-nav__menu-button svg,
-.o-nav__close-button svg {
+.o-header__expand-button {
+  margin: 0.9rem;
+}
+
+.o-header__expand-button > .material-symbols-rounded,
+.o-nav__menu-button > .material-symbols-rounded,
+.o-nav__close-button > .material-symbols-rounded {
   margin-left: .8rem;
   align-self: center;
+  text-decoration: none;
 }
 
 .o-header__expand-button:has(~ .o-header__item-countries--open) svg {
@@ -149,21 +145,25 @@
 }
 
 .o-header__item .o-header__item-countries {
-  display: flex;
+  display: grid;
+  justify-items: flex-end;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
     z-index: 2;
     position: absolute;
     padding: 1rem;
-    flex-direction: column;
+    justify-items: flex-start;
     background-color: white;
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
-  }
 
-  &.o-header__item-countries--open {
-    display: flex;
+    &.o-header__item-countries--open {
+      display: grid;
+      grid-auto-flow: column;
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: auto;
+    }
   }
 }
 
@@ -171,7 +171,7 @@
 .o-nav__menu-button {
   display: flex;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: none;
   }
 }
@@ -179,13 +179,13 @@
 .o-header__expand-button {
   display: none;
 
-  @include media-breakpoint-up(md) {
+  @media (min-width: #{$breakpoint-md}) {
     display: flex;
   }
 }
 
 .o-header__nav--open nav {
-  @include media-breakpoint-down(md) {
+  @media (max-width: #{$breakpoint-md}) {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -218,17 +218,28 @@
       margin-bottom: 5rem;
     }
 
-    h2 {
-      padding-right: 1rem;
-      text-align: right;
-      margin-bottom: 0;
-      font-size: 1.4rem;
-      text-transform: uppercase;
-      font-weight: 300;
+    .o-header__item {
+      height: fit-content;
     }
   }
 }
 
 body:has(.o-header__nav--open) {
   overflow: hidden;
+}
+
+#menu-country-list-title,
+#menu-general-list-title {
+  padding-right: 1rem;
+  text-align: right;
+  margin-bottom: 0;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  font-weight: 300;
+
+  display: block;
+
+  @media (min-width: #{$breakpoint-md}) {
+    display: none;
+  }
 }

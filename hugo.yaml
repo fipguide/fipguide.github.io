@@ -1,7 +1,7 @@
 baseURL: 'https://www.fipguide.org/'
-title: 'FIP Guide'
 
 enableRobotsTXT: true
+enableGitInfo: true
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
@@ -10,30 +10,46 @@ languages:
     languageName: "English"
     languageCode: en
     weight: 1
+    title: 'FIP Guide – Fast. Clear. Community-based.'
   de:
     languageName: "German"
     languageCode: de
     weight: 2
+    title: 'FIP Guide – Schnell. Übersichtlich. Community-basiert.'
 
 module:
   mounts:
-    - source: "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
-      target: "assets/js/bootstrap.bundle.min.js"
     - source: "assets"
       target: "assets"
     - source: "static"
       target: "static"
+    - source: "node_modules/@fontsource"
+      target: "static/css/@fontsource"
 
 related:
  includeNewer: true
  indices:
    - name: country
      weight: 100
+   - name: operator
+     weight: 100
 
 markup:
   tableOfContents:
     startLevel: 2
     endLevel: 2
+  goldmark:
+    renderer:
+      # https://gohugo.io/configuration/markup/#rendererunsafe
+      # Safe rendering does omit some styles to prevent XSS,
+      # but since our content is in our control,
+      # we can disable safe rendering.
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: false
+
 
 cascade:
   toc: true # enable toc for all pages
@@ -42,3 +58,6 @@ cascade:
 
 params:
   githubDevUrl: 'https://github.dev/fipguide/fipguide.github.io/'
+  gitHubUrl: 'https://github.com/fipguide/fipguide.github.io'
+
+taxonomies: {}
