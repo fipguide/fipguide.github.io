@@ -25,7 +25,7 @@ Tickets (including FIP 50 tickets) are cheaper if bought in advance (1 day befor
 {{% booking-section "reservations" %}}
 **Reservations**
 
-The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book reservations via the ([Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn")).
+The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book reservations via the ([Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
 
 However, seat reservations made with ÖBB can be cancelled:
 

@@ -39,6 +39,10 @@
   border-radius: var(--border-radius-s);
   opacity: .8;
   text-decoration: none;
+  color: var(--link-default);
+  border: none;
+  background-color: transparent;
+  transition: all .3s ease;
 
   &:hover,
   &:focus {

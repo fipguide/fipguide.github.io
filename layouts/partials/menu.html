@@ -22,8 +22,8 @@
             <span>{{ T "countryselection" }}</span>
             {{ partial "icon" "keyboard_arrow_down" }}
           </button>
-          <h2 id="menu-country-list">{{ T "country" }}</h2>
-          <menu class="o-header__item-countries" aria-describedby="menu-country-list">
+          <span id="menu-country-list-title">{{ T "country" }}</span>
+          <menu class="o-header__item-countries" aria-describedby="menu-country-list-title">
             {{ range  where site.RegularPages "Section" "country"}}
             <li class="o-header__item">
               <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -32,8 +32,8 @@
           </menu>
         </li>
         <li class="o-header__item">
-          <h2 id="menu-general-list">{{ T "general" }}</h2>
-          <ul aria-describedby="menu-general-list">
+          <span id="menu-general-list-title">{{ T "general" }}</span>
+          <ul aria-describedby="menu-general-list-title">
             {{ $news := site.GetPage "news" }}
             {{ if $news }}
             <li class="o-header__item">
