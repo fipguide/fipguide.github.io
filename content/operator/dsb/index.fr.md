@@ -3,7 +3,7 @@ draft: false
 title: 'DSB'
 description: "Informations sur les conditions FIP chez DSB."
 country:
- - "danemark"
+ - "denmark"
 operator: "dsb"
 ---
 

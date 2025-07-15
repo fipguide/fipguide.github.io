@@ -3,7 +3,7 @@ draft: false
 title: "SNCB"
 description: "Informations sur les conditions FIP à la SNCB."
 country:
-  - "belgique"
+  - "belgium"
 operator: "sncb"
 ---
 

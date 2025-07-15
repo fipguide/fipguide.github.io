@@ -3,7 +3,7 @@ draft: false
 title: "ZSR / ZSSK"
 description: "Découvrez les conditions FIP chez ZSR / ZSSK."
 country:
-  - "slovaquie"
+  - "slovakia"
 operator: "zsr"
 ---
 

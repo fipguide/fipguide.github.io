@@ -3,7 +3,7 @@ draft: false
 title: "NS"
 description: "Informations sur les conditions FIP chez NS."
 country:
-  - "pays-bas"
+  - "netherlands"
 operator: "ns"
 ---
 

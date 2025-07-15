@@ -3,8 +3,8 @@ draft: false
 title: "Eurostar"
 description: "Informations sur les conditions FIP pour Eurostar."
 country:
-  - "belgique"
-  - "pays-bas"
+  - "belgium"
+  - "netherlands"
 operator: "eurostar"
 ---
 

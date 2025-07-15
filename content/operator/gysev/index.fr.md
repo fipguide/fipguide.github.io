@@ -2,7 +2,7 @@
 draft: false
 title: 'GySEV / Raaberbahn'
 country:
-  - 'autriche'
+  - 'austria'
 operator: 'gysev'
 ---
 
