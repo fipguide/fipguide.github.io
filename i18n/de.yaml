@@ -32,6 +32,9 @@ home-page-text: FIP Guide Startseite
 information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
   rechtliche Verbindung zu FIP oder Bahngesellschaften.
+language-switcher:
+  aria-label: Sprache wechseln
+  label: Sprache
 menu-close: Schließen
 menu-open: Menü
 navigate-to-country: Gehe zu Land
