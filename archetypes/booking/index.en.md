@@ -12,7 +12,7 @@ params:
     reservations: true # Define if reservations can be booked with this booking platform
     booking_link: "https://example.com" # Add a link to the booking platform
     additional_info_link: "https://example.com/additional-info" # Add a link with additional information
-    type: "onsite" # Accepted types are: website, onsite, phone and email
+    type: "onsite" # Accepted types are: website, onsite, phone, email and machine
 ---
 
 {{% booking-section "fip_50" %}}

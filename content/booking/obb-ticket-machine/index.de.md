@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die ÖBB Fahrkartenautomaten."
 params:
     fip_50: true
     additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/ticketautomat"
-    type: "onsite"
+    type: "machine"
 ---
 
 {{% booking-section "fip_50" %}}
