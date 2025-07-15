@@ -18,7 +18,7 @@ Des frais supplémentaires de 0,55€ s’appliquent.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
-**FIP 50**
+**Billets FIP 50**
 
 Aux guichets de la Renfe, tous les billets sans réservation (FIP 50) peuvent y être achetés.
 {{% /booking-section %}}

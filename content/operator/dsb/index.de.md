@@ -45,7 +45,7 @@ Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind
 **Beschreibung:** \
 Eurocity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** Nur in der Hauptsaison (Sommer)
+**Reservierungspflicht:** ⚠️ Nur in der Hauptsaison (Sommer)
 {{% /expander %}}
 
 {{% expander "Regionalzug (R) ℹ️" traincategory category %}}
@@ -123,5 +123,4 @@ Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohn
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
-
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

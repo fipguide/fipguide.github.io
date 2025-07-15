@@ -15,8 +15,8 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du Danemark. El
 
 ## Validité des billets FIP
 Coupon FIP : ✅ \
-Coupon FIP pour accompagnants : ⛔ \
-Ticket FIP 50% : ✅
+Coupon FIP accompagnant : ⛔ \
+Billets FIP 50  : ✅
 
 Les coupons FIP et billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un billet FIP 50 couvrant l’ensemble du trajet ou des coupons FIP valables dans les deux pays sont requis.
 
@@ -38,7 +38,7 @@ Similaires aux ICL mais avec plus d’arrêts et une vitesse inférieure. Ils de
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
+{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
 **Description :** \
 Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Odense. Dès 2025, ils utiliseront d’anciennes voitures IC de la DB. \
 Réservation conseillée et généralement obligatoire **en été**. \
@@ -81,7 +81,7 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
     subtitle="Pour les trajets nationaux et transfrontaliers. Billets FIP 50 pour l'ensemble du trajet (non valables dans le pays d'origine)"
 /%}}
 
-### Sur place
+### En gare
 
 {{% booking id="dsb-ticket-office" /%}}
 
@@ -115,7 +115,7 @@ Selon certaines sources, les billets FIP 50 seraient valables sur les ferries Sc
 ## Recommandations
 
 {{% highlight tip %}}
-La DSB offre un service fiable et confortable. La 1re classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, parfois petit-déjeuner le matin, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]
+La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, parfois petit-déjeuner le matin, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]
 {{% /highlight %}}
 
 ## Sources

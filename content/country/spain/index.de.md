@@ -18,7 +18,9 @@ Die [Renfe]({{< ref "/operator/renfe" >}} "Renfe") ist das größte Eisenbahnver
 
 ## Wissenswertes
 
-Spanien hat kein besonders engmaschiges Netz, stattdessen besteht es vor allem aus neuen Hochgeschwindigkeitsstrecken in Normalspur und älteren Regionalstrecken in iberischer Breitspur. Der Fokus liegt auf (meist schnellen) Fahrten zwischen größeren Städten. Daneben gibt es S-Bahnen in und um die Metropolen, die einen dichten Nahverkehr sicherstellen.
+Spanien hat kein besonders engmaschiges Netz, stattdessen besteht es vor allem aus neuen Hochgeschwindigkeitsstrecken in Normalspur und älteren Regionalstrecken in iberischer Breitspur.
+
+Der Fokus liegt auf (meist schnellen) Fahrten zwischen größeren Städten. Daneben gibt es S-Bahnen in und um die Metropolen, die einen dichten Nahverkehr sicherstellen.
 
 Die Bahnhöfe haben meist Ticketbarrieren, es wird hier ein gültiges digitales oder analoges Ticket auf einer Karte benötigt, um diese zu überwinden. Mit FIP Freifahrtsscheinen muss hier das Personal vor Ort angesprochen werden, damit diese die Barrieren manuell öffnen
 
@@ -45,6 +47,6 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 
 Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt.
 
-Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#international" >}} "Renfe")).
+Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#langstrecke" >}} "Renfe")).
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.

@@ -53,10 +53,10 @@ Plusieurs liaisons transfrontalières existent :
 Le coupon FIP DB est valable jusqu'à Bâle Badischer Bahnhof (Bad Bf), considéré comme gare frontière officielle.
 
 {{% highlight tip %}}
-Pour entrer en Suisse sans billet CFF (coupon FIP ou FIP 50), vous pouvez prendre la S-Bahn ligne 6 entre Bâle Bad Bf et Bâle SBB avec un Deutschlandticket. [^1]
+Pour entrer en Suisse sans billet CFF (Coupon FIP ou FIP 50), vous pouvez prendre la S-Bahn ligne 6 entre Bâle Bad Bf et Bâle SBB avec un Deutschlandticket. [^1]
 {{% /highlight %}}
 
-Parmi les autres liaisons importantes, on trouve la ligne Stuttgart – Zurich via Schaffhouse (gare frontière SBB/DB) ainsi que la liaison Munich – Zurich via Lindau et St-Gall, desservie par des trains `IC` et `ECE`. Sur ce dernier trajet, le train passe brièvement par l’Autriche, un billet ÖBB est requis.
+Parmi les autres liaisons importantes, on trouve la ligne Stuttgart – Zurich via Schaffhouse (gare frontière CFF/DB) ainsi que la liaison Munich – Zurich via Lindau et St-Gall, desservie par des trains `IC` et `ECE`. Sur ce dernier trajet, le train passe brièvement par l’Autriche, un billet ÖBB est requis.
 
 {{% highlight tip %}}
 Pour ce court tronçon, un billet FIP 50 évite le paiement du [supplément longue distance ÖBB]({{< ref "/country/austria#suisse" >}} "Arrivée en Suisse").

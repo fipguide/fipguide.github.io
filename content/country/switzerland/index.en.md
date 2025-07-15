@@ -20,6 +20,8 @@ In Switzerland, there are three different operators for which FIP Free Passes an
 - A consortium of Swiss private railways ([SP]({{< ref "/404" >}} "SP"))
 - The Bernese Alpine Railway Company Bern–Lötschberg–Simplon ([BLS]({{< ref "/404" >}} "BLS"))
 
+Combined, these cover almost the entire Swiss rail network, including some modes of transport that are uniquely included in FIP across Europe, such as certain cable cars or specific bus lines.
+
 Only a few very tourist-oriented services are not included in FIP. Cross-border journeys to France and Italy require some effort, as special surcharges apply.
 
 ## Insteresting

@@ -17,10 +17,10 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 
 ## Validité des billets FIP
 
-FIP Coupon : ⛔ \
-FIP Coupon accompagnant : ⛔ \
-FIP 50 Ticket : ⛔ \
-FIP Tarif global : ✅
+Coupon FIP : ⛔ \
+Coupon FIP accompagnant : ⛔ \
+Billets FIP 50 : ⛔ \
+Tarif Global FIP : ✅
 
 Les billets à tarif FIP global peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les billets FIP via le [site Eurostar](https://www.eurostar.com/). Les billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
 
@@ -70,7 +70,7 @@ Train à grande vitesse saisonnier vers les Alpes françaises. \
 Lors de la réservation, les prix en euros sont généralement plus avantageux que ceux en livres sterling.
 {{% /highlight %}}
 
-## Catégories de classe
+## Catégories de classes
 
 - **Standard** : équivalent 2ᵉ classe.
 - **Plus** : 1ʳᵉ classe avec collation/repas (FIP 1ʳᵉ classe requis).
@@ -112,7 +112,7 @@ Si c’est le cas, essayez un autre canal de réservation.
 Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
 {{% /booking %}}
 
-### À bord
+### À bord du train
 
 Impossible d'acheter un billet à bord. Achat préalable obligatoire.
 

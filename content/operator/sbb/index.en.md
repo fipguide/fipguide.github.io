@@ -11,7 +11,7 @@ SBB (Swiss Federal Railways) - (Chemins de fer fédéraux suisses CFF, Ferrovie 
 ## Summary
 
 - SBB accepts FIP Coupons and FIP 50 Tickets
-- Reservation requirement and surcharges for international Eurocity trains from the Italian border and TGV trains from the French border
+- Reservation requirement and surcharges for international Eurocity trains from the Italian border and `TGV` trains from the French border
 
 ## Validity of FIP Tickets
 
@@ -134,7 +134,12 @@ However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, no
 
 ### Cross-border Trains (Italy, France)
 
-Cross-border EC trains between Switzerland and Italy, as well as TGV trains to and from France, require a surcharge outside Switzerland. A special global fare applies, and the FIP Coupon or FIP 50 Ticket alone is not sufficient. Within Switzerland, these trains can be used without special surcharges or reservations. These are among the few trains in Switzerland that require some form of reservation (but only for the section outside Switzerland). The reservation with surcharge is best obtained at a travel center on site (in Switzerland, Italy, or France). The surcharge costs €11 (2nd class) or €13 (1st class) and can be purchased at the SBB ticket counter or on the train.
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland. \
+This surcharge (including reservation) is mandatory, even with an FIP Free Pass or FIP 50 Ticket.
+- 2nd class: €11
+- 1st class: €13
+
+The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it is also possible to buy the surcharge on board.
 
 ## Recommendations
 

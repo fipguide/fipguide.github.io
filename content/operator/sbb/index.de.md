@@ -11,7 +11,7 @@ Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, 
 ## Zusammenfassung
 
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und TGV-Züge ab der französischen Grenze
+- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und `TGV` Züge ab der französischen Grenze
 
 ## Gültigkeit FIP-Tickets
 
@@ -134,7 +134,12 @@ Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf d
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
-Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig außerhalb der Schweiz. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Innerhalb der Schweiz können diese Züge jedoch ohne besondere Aufschläge/Reservierungen genutzt werden. Beide Züge sind somit eine der wenigen Züge in der Schweiz, die eine Form der Reservierungspflicht aufweisen (wenn auch nur im Fahrtabschnitt außerhalb der Schweiz). Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich). Der Aufpreis kostet 11€ (2. Klasse) bzw. 13€ (1. Klasse) und kann am SBB Ticketschalter oder im Zug erworben werden.
+Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag erforderlich. \
+Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein  oder FIP 50 Ticket.
+- 2. Klasse: 11€
+- 1. Klasse: 13€
+
+Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug möglich.
 
 ## Empfehlungen
 

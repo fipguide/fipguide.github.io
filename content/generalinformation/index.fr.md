@@ -3,7 +3,7 @@ title: "A propos"
 description: "Découvrez les informations à savoir sur les facilités FIP et comment les utiliser."
 ---
 
-Vous trouverez ici des informations complètes sur le guide FIP.
+Vous trouverez ici des informations complètes sur le FIP Guide.
 
 ## Qu’est-ce que le FIP ?
 
@@ -26,7 +26,7 @@ Vous trouverez les règles d'utilisation sur les sous-pages des [opérateurs]({{
 Les employés d'un membre du FIP peuvent bénéficier des facilités FIP après 12 mois d'ancienneté. \
 Veuillez contacter votre service des ressources humaines pour connaître les modalités de demande et d'utilisation.
 
-## Qui est derrière le guide FIP ?
+## Qui est derrière le FIP Guide ?
 
 Nous sommes une équipe engagée d'employés ferroviaires qui utilisons régulièrement le FIP nous-mêmes. \
 Notre objectif est de proposer un aperçu clair et pratique de l'utilisation du FIP. \

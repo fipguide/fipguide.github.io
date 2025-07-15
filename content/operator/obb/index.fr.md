@@ -13,25 +13,24 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 
 - Les coupons FIP et billets FIP 50 sont acceptés.
 - Attention aux trains d'autres opérateurs qui n’acceptent pas FIP.
-- FIP non valable dans le train express CAT vers l'aéroport de Vienne.
+- FIP non valable dans le train express `CAT` vers l'aéroport de Vienne.
 - Règles spécifiques pour les trains vers l'Italie, les Nightjet, les trains auto, et les IC Bus.
 - Le coupon FIP ÖBB est aussi valable au Liechtenstein.
 
 ## Validité des billets FIP
 
-FIP Coupon : ✅ \
-FIP Coupon accompagnant : ✅ \
-FIP 50 Ticket : ✅
+Coupon FIP : ✅ \
+Coupon FIP accompagnant : ✅ \
+Billets FIP 50 : ✅
 
 Les coupons et billets FIP 50 sont valables sur les trains ÖBB. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP des deux pays sont nécessaires.
 
 {{% highlight important %}}
-En Autriche, avec un coupon FIP, l’utilisation des trains grandes lignes ÖBB (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) nécessite le paiement d’un supplément :
+Lors de l’utilisation d’un coupon FIP, l’accès aux trains grandes lignes ÖBB en Autriche (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) nécessite un supplément. Ce supplément peut être acheté à bord lors du contrôle des billets, ou bien aux guichets et distributeurs ÖBB. Il est valable pour un maximum de 2 jours, correspondant à la date du coupon FIP. La réservation de siège n’est pas incluse dans le supplément et doit être achetée séparément. Avec un billet FIP 50, aucun supplément n’est requis.
 
-- 1ʳᵉ classe : 15 €
-- 2ᵉ classe : 10 €
-
-Le supplément est valable maximum 2 jours, en fonction de la date du coupon. Les réservations de siège ne sont pas incluses. Pas de supplément avec un billet FIP 50.
+Coût : \
+1ʳᵉ classe : 15 € \
+2ᵉ classe : 10 €
 {{% /highlight %}}
 
 ## Catégories de trains et réservations
@@ -42,7 +41,7 @@ Le supplément est valable maximum 2 jours, en fonction de la date du coupon. Le
 **Description :** \
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
 
-Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#trains-vers-litalie). \
+Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](##conditions-tarifaires-spéciales). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -67,7 +66,7 @@ La plupart des trains `IC` sur les axes principaux ont été progressivement rem
 **Description :** \
 Trains internationaux vers les pays voisins, exploités par ÖBB en coopération avec d’autres compagnies ferroviaires. Certaines liaisons sont aussi désignées comme `IC`.
 
-Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#trains-vers-litalie). \
+Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -98,7 +97,7 @@ Les trains `D` sont principalement utilisés comme trains de renfort lors des p�
 **Description :** \
 Train régional rapide avec moins d’arrêts et matériel moderne.
 
-ℹ️ Certains Regionalexpress sont exploités par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://www.bahn.de). \
+ℹ️ Certains Regionalexpress sont exploités par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
 **Réservation possible :** non
 {{% /expander %}}
 
@@ -106,7 +105,7 @@ Train régional rapide avec moins d’arrêts et matériel moderne.
 **Description :** \
 Train régional avec arrêts dans la plupart des gares.
 
-ℹ️ Certains trains régionaux sont exploités par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://www.bahn.de).
+ℹ️ Certains trains régionaux sont exploités par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/).
 
 La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains touristiques où les billets FIP ne sont pas valables. Ceux-ci sont signalés par une note « tarif spécial ». \
 **Réservation possible :** non
@@ -116,7 +115,7 @@ La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains t
 **Description :** \
 Train régional au moins toutes les heures, arrêt à toutes les gares. Comparable à un S-Bahn.
 
-ℹ️ Certaines Schnellbahn sont exploitées par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://www.bahn.de).
+ℹ️ Certaines Schnellbahn sont exploitées par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/).
 
 Exemples :
 - S-Bahn Haute-Autriche : S5 Linz – Eferding (Linzer Lokalbahn)
@@ -127,9 +126,9 @@ Exemples :
 **Réservation possible :** non
 {{% /expander %}}
 
-## Classes de confort
+## Catégories de classes
 
-Dans les Railjet :
+Dans les Railjet(Xpress) :
 
 - **Economy** = 2ᵉ classe
 - **First Class** = 1ʳᵉ classe (nécessite un coupon FIP 1ʳᵉ)
@@ -163,7 +162,7 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 {{% booking id="obb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
-### Sur place
+### En gare
 
 {{% booking id="obb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
 
@@ -184,55 +183,79 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 ## Conditions tarifaires spéciales
 
-### Trains vers l’Italie
+### Trafic vers l’Italie
 
-- **Supplément obligatoire** (payable à bord ou en gare) :
-  - 2ᵉ classe : **10 €**
-  - 1ʳᵉ classe : **15 €**
+Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des coupons FIP FS, mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
-Valable même avec **FIP ÖBB ou FS**.
+#### Brenner - Bolzano - Vérone
+
+Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe est à payer.
+
+#### Railjet Tarvisio Boscoverde - Venise
+
+Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe est à payer.
+
+#### Eurocity Trieste
+
+Les coupons FIP ÖBB, **mais pas FS**, sont valables dans la section italienne jusqu’à Trieste. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 2,60 € en 2ᵉ classe et 4,60 € en 1ʳᵉ classe est à payer. Pour la section slovène, un coupon FIP SŽ ou un billet FIP 50 est requis.
 
 ### Ligne REX63 (Pamhagen–Neusiedl am See)
 
-Les **FIP ÖBB et GySEV** sont valables.
+Sur la ligne REX63 entre Pamhagen et Neusiedl am See, les billets FIP ÖBB et GySEV sont acceptés.
 
 ### Liechtenstein
 
-Le réseau est opéré par **ÖBB**, **FIP valable sans supplément**.
+La ligne ferroviaire au Liechtenstein est exploitée par les ÖBB. Les billets FIP y sont valables selon les conditions autrichiennes et sans supplément (Feldkirchen–Buchs SG).
 
-### Aéroport de Vienne
+### Aéroport de Vienne : City Airport Train (CAT)
 
-FIP **non valable sur le CAT**. \
-FIP valable dans la S-Bahn S7 (train local ÖBB).
+Les billets FIP ne sont pas valables sur le `CAT` City Airport Train entre l’aéroport de Vienne et Wien Mitte.
 
-⚠️ Les tickets de transports urbains (WienMobil) **ne couvrent pas Schwechat > Aéroport**, sauf billet complémentaire.
+Les coupons FIP sont acceptés sur les trains locaux ÖBB de la ligne S-Bahn S7.
+
+Les guichets ÖBB et `CAT` se trouvent dans le Terminal 3.
+
+{{% highlight tip %}}
+Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, trajets simples ou tickets 24/48/72h via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou les bus Vienna Airport Lines VAL qu’avec le supplément CAT ou VAL dans l’application.
+{{% /highlight %}}
 
 ### Schneebergbahn
 
-Pas FIP, mais **réduction de 50 %** sur présentation de la carte FIP.
+La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une carte FIP donne droit à une réduction de 50 % sur les billets.
 
-### Postbus ÖBB
+### ÖBB Postbus
 
-FIP **non valable**, sauf sur les **bus de substitution (SEV)**.
+Les billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de remplacement ferroviaire (SEV).
 
-### IC Bus
+### IC Bus (ICB)
 
-FIP **non valable**, sauf sur les lignes :
+Les billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de remplacement ferroviaire (SEV) et les itinéraires suivants :
 
-- **Graz – Klagenfurt** (jusqu'en 12/2025)
-- **Villach/Udine/Venise** : tarif global FIP spécifique, **réservation obligatoire** incluse
+#### Graz - Klagenfurt
 
-### Trains auto (Motorail)
+Jusqu’en décembre 2025, les billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
 
-FIP valable pour le transport des passagers uniquement. Les véhicules sont payants.
+#### Klagenfurt/Villach - Udine/Venise
 
-### Navette-auto Tunnel du Tauern
+Des tarifs FIP globaux spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
 
-Avec un **coupon FIP**, trajet gratuit pour les véhicules appartenant à un détenteur FIP. Sinon, tarif normal pour les autres passagers. **Pas de réduction FIP 50**.
+### Trains auto
 
-### Interruption de voyage
+Les billets FIP sont valables sur les trains auto ÖBB. Les frais de transport du véhicule sont en supplément et exclus de la réduction FIP.
 
-Autorisé uniquement pour trajets de **plus de 101 km**. Pas de formalité requise.
+### Autoschleuse Tauerntunnel (ASTB)
+
+Avec un coupon FIP, la navette auto du tunnel du Tauern (Böckstein–Mallnitz-Obervellach) peut être utilisée. Le véhicule doit être immatriculé au nom d’un des détenteurs du coupon FIP pour être transporté gratuitement. Les passagers accompagnants sans coupon FIP paient le tarif normal.
+
+La réduction FIP 50 n’est pas disponible.
+
+### Interruption de trajet
+
+L’interruption de trajet est possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
+
+### Distinction entre trains locaux et grandes lignes
+
+À part le supplément pour le coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les billets FIP 50, sont valables sur tous les trains ÖBB.
 
 ## Sources
 

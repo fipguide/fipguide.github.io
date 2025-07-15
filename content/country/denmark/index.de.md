@@ -16,7 +16,9 @@ params:
 
 ## FIP Nutzung
 
-In Dänemark ist es möglich quer durch das Land auf den Hauptstrecken mit FIP 50 und FIP Freifahrtsscheinen unterwegs zu sein. Die Danske Statsbaner ([DSB]({{< ref "/operator/dsb" >}} "DSB")) betreibt ein durchgehendes Netz, von denen einige Nebenstrecken abgehen, die in den meisten Fällen von privaten Bahngesellschaften (z. B. GoCollective) betrieben werden. Auf diesen wird FIP nicht anerkannt. Auch für die durch Dänemark verkehrenden Nachtzüge der Betreiber SJ und Snälltåget sind keine FIP-Vergünstigungen möglich. Ebenfalls betroffen sind die Verbindungen, die von Kopenhagen aus in Richtung Schweden verkehren.
+In Dänemark ist es möglich quer durch das Land auf den Hauptstrecken mit FIP 50 und FIP Freifahrtsscheinen unterwegs zu sein. Die Danske Statsbaner ([DSB]({{< ref "/operator/dsb" >}} "DSB")) betreibt ein durchgehendes Netz, von denen einige Nebenstrecken abgehen, die in den meisten Fällen von privaten Bahngesellschaften (z. B. GoCollective) betrieben werden. Auf diesen wird FIP nicht anerkannt.
+
+Auch für die durch Dänemark verkehrenden Nachtzüge der Betreiber SJ und Snälltåget sind keine FIP-Vergünstigungen möglich. Ebenfalls betroffen sind die Verbindungen, die von Kopenhagen aus in Richtung Schweden verkehren.
 
 ## Wissenswertes
 
@@ -40,7 +42,11 @@ Die Hauptstrecken in Dänemark sind:
 
 ### Deutschland
 
-Von Deutschland aus kann der durchgängige `EC` Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen. Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
+Von Deutschland aus kann der durchgängige `EC` Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert.
+
+Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen.
+
+Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
 
 ### Schweden
 

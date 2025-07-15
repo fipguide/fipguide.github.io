@@ -13,8 +13,7 @@ params:
     type: "onsite"
 ---
 
-En Slovaquie, il existe un large réseau de guichets, même dans les petites gares. \
-Il est recommandé de parler un peu slovaque ou tchèque, ou d’utiliser une application de traduction adaptée, car l’anglais est rarement parlé.
+En Slovaquie, il existe un large réseau de guichets, même dans les petites gares. Il est recommandé de parler un peu slovaque ou tchèque, ou d’utiliser une application de traduction adaptée, car l’anglais est rarement parlé.
 
 {{% booking-section "fip_50" %}}
 **Billets FIP 50**

@@ -19,7 +19,11 @@ Furthermore, international `TGV` trains of the SNCF from France operate, for whi
 
 ## Interesting
 
-Belgium has an extensive and dense rail network. Unlike other countries, there is no real fare distinction between train categories in Belgium, except for international `ICE`, `TGV`, and Eurostar connections. Due to the central location of the capital Brussels, it is the hub of Belgian train traffic and is connected via 4 high-speed lines to Germany, France, and the Netherlands. On other routes, the speed is rather average. Trains in Belgium usually run on a regular schedule and are mostly punctual. The most important cities are connected several times an hour. Particularly noteworthy are the impressive station buildings of Liège-Guillemins and Antwerp Central.
+Belgium has an extensive and dense rail network. Unlike other countries, there is no real fare distinction between train categories in Belgium, except for international `ICE`, `TGV`, and Eurostar connections. Due to the central location of the capital Brussels, it is the hub of Belgian train traffic and is connected via 4 high-speed lines to Germany, France, and the Netherlands.
+
+On other routes, the speed is rather average. Trains in Belgium usually run on a regular schedule and are mostly punctual. The most important cities are connected several times an hour.
+
+Particularly noteworthy are the impressive station buildings of Liège-Guillemins and Antwerp Central.
 
 ## Arrival and Border Points
 
@@ -38,7 +42,9 @@ From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 
 
 ### Germany
 
-From Germany, the cross-border `ICE` from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required. The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+From Germany, the cross-border `ICE` from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required.
+
+The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### Netherlands
 
@@ -46,4 +52,8 @@ From the Netherlands, cross-border regional trains (including `IC` here) can be 
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section. For international `TGV` trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB. The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+From France, cross-border regional trains can be used, requiring an additional FIP ticket for the French section.
+
+For international `TGV` trains, there is a global price, and FIP Coupons passes are not valid as they are not operated by SNCB.
+
+The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))

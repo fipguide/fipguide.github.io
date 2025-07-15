@@ -32,9 +32,7 @@ Les lignes principales sont :
 Les trains grandes lignes circulent sur ces itinéraires à une vitesse supérieure à la moyenne, mais la vraie grande vitesse est limitée à un court tronçon entre Odense et Copenhague, utilisé par seulement quelques trains.
 
 Les trains danois circulent généralement à horaires réguliers et sont ponctuels.
-Cependant, les correspondances ne sont pas toujours bien synchronisées, ce qui peut entraîner des temps d'attente lors des changements.
-Certaines lignes mériteraient une fréquence plus élevée.
-À Copenhague, le réseau de trains S (S-tog) et plusieurs lignes régionales fréquentes assurent une très bonne desserte locale.
+Cependant, les correspondances ne sont pas toujours bien synchronisées, ce qui peut entraîner des temps d'attente lors des changements. Certaines lignes mériteraient une fréquence plus élevée. À Copenhague, le réseau de trains S (S-tog) et plusieurs lignes régionales fréquentes assurent une très bonne desserte locale.
 
 ## Arrivée et points frontières
 
@@ -58,6 +56,7 @@ Une autre option est d'utiliser les ferries depuis Puttgarden ou Warnemünde pou
 ### Suède
 
 Depuis la Suède, l'entrée au Danemark peut se faire :
+
 - soit via Malmö par le pont de l'Øresund,
 - soit via Helsingborg avec le ferry vers Helsingør.
 

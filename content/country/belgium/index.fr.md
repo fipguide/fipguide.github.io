@@ -39,11 +39,11 @@ Sur les autres lignes, la vitesse est moyenne mais les trains circulent généra
 
 ### Luxembourg
 
-Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Bruxelles peuvent être utilisés. En 2e classe, un billet FIP (coupon ou FIP 50) suffit pour tout le trajet, car le transport public est gratuit en 2e classe au Luxembourg. En 1re classe, un billet FIP supplémentaire pour le CFL est requis.
+Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Bruxelles peuvent être utilisés. En 2ᵉ classe, un billet FIP (coupon ou FIP 50) suffit pour tout le trajet, car le transport public est gratuit en 2ᵉ classe au Luxembourg. En 1ʳᵉ classe, un billet FIP supplémentaire pour le CFL est requis.
 
 ### Allemagne
 
-Depuis l'Allemagne, il est possible d'entrer sur le réseau SNCB via l'ICE (Francfort / Cologne / Aix-la-Chapelle) ou un train régional SNCB entre Aix-la-Chapelle et Liège. \
+Depuis l'Allemagne, il est possible d'entrer sur le réseau SNCB via l' `ICE` (Francfort / Cologne / Aix-la-Chapelle) ou un train régional SNCB entre Aix-la-Chapelle et Liège. \
 Dans les deux cas, un billet FIP DB est nécessaire pour la section allemande.
 
 L'Eurostar (anciennement Thalys) peut également être utilisé depuis l'Allemagne pour rejoindre la Belgique, mais nécessite un billet FIP spécial Eurostar valable pour l'ensemble du trajet, y compris en Belgique. ([voir Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
@@ -58,6 +58,6 @@ L'Eurostar (ex-Thalys) depuis les Pays-Bas est aussi utilisable vers la Belgique
 
 Depuis la France, plusieurs trains régionaux transfrontaliers sont accessibles, avec un billet FIP SNCF requis pour la section française.
 
-Pour les TGV internationaux, un tarif global FIP peut être réservé, mais les coupons FIP gratuits ne sont pas valables, car ces trains ne sont pas opérés par la SNCB.
+Pour les `TGV` internationaux, un tarif global FIP peut être réservé, mais les coupons FIP gratuits ne sont pas valables, car ces trains ne sont pas opérés par la SNCB.
 
 L'Eurostar (ancien Thalys) depuis la France vers la Belgique est utilisable uniquement avec un billet FIP spécial Eurostar. ([voir Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))

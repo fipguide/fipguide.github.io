@@ -31,7 +31,7 @@ params:
     - Belles gares ferroviaires
 -->
 
-## Points d’entrées et frontières
+## Arrivée et points frontières
 
 <!--
 Uniquement les points frontaliers situés à la frontière nationale avec d'autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière.

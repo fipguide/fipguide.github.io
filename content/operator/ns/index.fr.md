@@ -18,12 +18,11 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des Pays
 
 ## Validité des billets FIP
 
-FIP Coupon : ✅ \
-FIP Coupon accompagnant : ✅ \
-FIP 50 Ticket : ✅
+Coupon FIP : ✅ \
+Coupon FIP accompagnant : ✅ \
+Billets FIP 50 : ✅
 
-Les coupons FIP et billets FIP 50 sont valables sur les trains NS. \
-Pour les trajets transfrontaliers, il faut un billet FIP 50 continu ou des coupons FIP valables dans les deux pays.
+Les coupons FIP et billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un billet FIP 50 continu ou des coupons FIP valables dans les deux pays.
 
 ## Catégories de trains et réservations
 
@@ -34,7 +33,7 @@ Un supplément est nécessaire pour les trains Eurocity Direct et, partiellement
 **Description :** \
 Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés à l’intérieur des Pays-Bas (Amsterdam, Utrecht, Arnhem) avec un coupon FIP sans supplément. Un billet FIP 50 nécessite cependant un supplément. \
 **Réservation possible :** oui \
-**Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison) \
+**Réservation obligatoire :** ⚠️ non (sauf pour les trajets transfrontaliers en haute saison) \
 **Supplément :** ⚠️ \
 Avec un billet FIP 50, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet est requis. Avec un coupon FIP, le supplément n’est pas nécessaire. \
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
@@ -100,7 +99,7 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo - Hamm (Allemagne), Maastricht - Aix-la-Chapelle (Allemagne) et Arnhem - Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
 {{% /highlight %}}
 
-## Vente de billets et réservations
+## Achat de billets et réservations
 
 ### En ligne
 
@@ -122,7 +121,7 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
 
 {{% booking id="db-ticket-office" /%}}
 
-### À bord
+### À bord du train
 
 Les billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 

@@ -1,6 +1,6 @@
 ---
 title: "Politique de confidentialité"
-description: "Informations sur la politique de confidentialité et la protection des données personnelles dans le guide FIP."
+description: "Informations sur la politique de confidentialité et la protection des données personnelles dans le FIP Guide."
 ---
 
 **Lennart Rommeiß** \

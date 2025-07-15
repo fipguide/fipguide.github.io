@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "CFF"
+title: "SBB CFF FFS"
 description: "Informations sur les conditions FIP chez les CFF (SBB CFF FFS)."
 country:
   - "switzerland"
 ---
-
-Les **CFF (Chemins de fer fédéraux suisses)** — *SBB* en allemand, *FFS* en italien — sont la compagnie ferroviaire nationale suisse. Ils exploitent la majorité du réseau ferroviaire du pays, réputé pour sa ponctualité et sa fiabilité.
+Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la Suisse. Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
 
 ## Résumé
 
-- Les CFF acceptent les **coupons FIP** et les **billets FIP 50**
-- Réservation obligatoire et supplément pour les trains **EuroCity** (Italie) et **TGV** (France) au départ de la frontière
+- Les CFF acceptent les coupons FIP et les billets FIP 50
+- Réservation obligatoire et supplément pour les trains EuroCity (Italie) et `TGV` (France) au départ de la frontière
 
 ## Validité des billets FIP
 
@@ -19,61 +18,85 @@ Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
 Billet FIP 50 : ✅
 
-Les **coupons FIP** et les **billets FIP 50** sont valables sans restriction sur les trains des CFF. Pour les trajets transfrontaliers, un **billet FIP 50 continu** ou des **coupons FIP valables dans chaque pays** sont nécessaires.
+Les coupons FIP et les billets FIP 50 sont valables sans restriction sur les trains des CFF. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables dans chaque pays sont nécessaires.
 
 [Carte du réseau CFF (PDF)](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
 
 ## Catégories de trains et réservations
 
-### Intercity-Express (ICE)
-Trains à grande vitesse venant d'Allemagne vers Bâle, parfois jusqu'à Zurich, Berne ou Interlaken. Ils peuvent s'arrêter à Bâle en cas de retard. \
-**Réservation possible** : oui \
-**Réservation obligatoire** : non
+{{% expander "Intercity-Express (ICE)" category %}}
+**Description :** \
+Trains à grande vitesse en provenance d’Allemagne vers Bâle et parfois jusqu’à Zurich, Berne ou Interlaken. En raison de retards en Allemagne, ces trains terminent parfois leur trajet de façon imprévue à Bâle et sont remplacés par des trains de substitution en Suisse. \
+**Réservation possible :** oui \
+**Réservation obligatoire :** non
+{{% /expander %}}
 
-### Train à Grande Vitesse (TGV) ⚠️
-TGV entre la France et Zurich via Bâle. \
-**Réservation obligatoire pour les trajets transfrontaliers uniquement.** \
-**Réservation possible** : oui \
-**Réservation obligatoire** : ⚠️ oui (section transfrontalière uniquement)
+{{% expander "Train à Grande Vitesse (TGV) ⚠️" category %}}
+**Description :** \
+Trains à grande vitesse en provenance de France vers Zurich via Bâle. \
+La réservation est obligatoire hors de Suisse et pour les trajets transfrontaliers. \
+**Réservation possible :** oui \
+**Réservation obligatoire :** ⚠️ uniquement pour les trajets transfrontaliers
+{{% /expander %}}
 
-### EuroCity (EC/ECE) ⚠️
-Trains internationaux vers l'Allemagne et l'Italie. \
-⚠️ Pour l'Italie, **un supplément + réservation** est obligatoire **depuis la frontière italienne**. \
-Prix du supplément :
-- 2e classe : 11 €
-- 1ère classe : 13 €
+{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" category %}}
+**Description :** \
+Trains internationaux vers l’Allemagne et l’Italie. \
 
-**Réservation possible** : oui
-**Réservation obligatoire** : ⚠️ seulement pour la section italienne
+⚠️ Les trains vers l’Italie nécessitent un supplément et une réservation à partir de la frontière italienne. Il est moins cher de voyager vers l’Italie en changeant de train à Chiasso ([Voir Voyage vers l’Italie]({{< ref "/country/switzerland#italien" >}} "Voyage vers l’Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train. \
+Supplément/Réservation : \
+1ère classe : 13 € \
+2ᵉ classe : 11 € \
+**Réservation possible :** oui \
+**Réservation obligatoire :** ⚠️ uniquement pour la section italienne
+{{% /expander %}}
 
-### InterCity (IC)
-Trains rapides nationaux, reliant les grandes villes et pôles d'échange. \
-**Réservation possible** : oui \
-**Réservation obligatoire** : non
+{{% expander "Intercity (IC)" category %}}
+**Description :** \
+Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gares de correspondance. \
+**Réservation possible :** oui \
+**Réservation obligatoire :** non
+{{% /expander %}}
 
-### Nightjet (NJ) / EuroNight (EN) ⚠️
-Trains de nuit opérés avec ÖBB, ČD, MÁV, HŽ vers l'Allemagne, la République tchèque, la Hongrie, la Slovénie, etc. \
-⚠️ Réservation obligatoire pour couchettes et wagons-lits. \
-**Réservation possible** : oui \
-**Réservation obligatoire** : ⚠️ oui (sauf en voitures assises si train aussi classé IC/EC)
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
+**Description :** \
+Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb. \
+Ces trains circulent parfois aussi comme Intercity, Eurocity ou trains régionaux, auquel cas la réservation n’est pas requise pour les voitures à places assises. \
+**Réservation possible :** oui \
+**Réservation obligatoire :** ⚠️ oui (sauf dans les voitures à places assises lorsqu’ils circulent comme Intercity, Eurocity ou trains régionaux)
+{{% /expander %}}
 
-### InterRegio (IR) / RegionalExpress (RE)
-Trains rapides avec arrêts dans les villes moyennes. \
-**Réservation possible** : oui \
-**Réservation obligatoire** : non
+{{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
+**Description :** \
+Trains nationaux s’arrêtant dans les grandes villes. \
+**Réservation possible :** oui \
+**Réservation obligatoire :** non
+{{% /expander %}}
 
-### Regio (R) / S-Bahn (S)
-Trains omnibus, desservant toutes les gares. \
-**Réservation possible** : non
+{{% expander "Regio (R) / S-Bahn (S)" category %}}
+**Description :** \
+Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aussi appelés S-Bahn. \
+**Réservation possible :** non
+{{% /expander %}}
 
 ## Achat de billets et réservations
 
 ### En ligne
+{{% booking id="sbb-website"/%}}
 
-{{% booking id="sbb-website" /%}}
-{{% booking id="db-website" /%}}
-{{% booking id="db-website-fip-db" subtitle="Pour trajets nationaux ou transfrontaliers. Billet FIP 50 avec portion suisse uniquement (DB)." /%}}
-{{% booking id="db-website-fip-international" subtitle="Billet FIP 50 continu (hors pays d'origine)." /%}}
+{{% booking id="db-website"/%}}
+
+{{% booking id="db-website-fip-db"
+  subtitle="Pour les liaisons nationales et transfrontalières. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section suisse, pour les employés de la Deutsche Bahn"
+%}}
+Avec les billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
+{{% /booking %}}
+
+{{% booking id="db-website-fip-international"
+  subtitle="Pour les liaisons nationales et transfrontalières. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+%}}
+Avec les billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
+{{% /booking %}}
 
 ### Par téléphone
 
@@ -82,44 +105,42 @@ Trains omnibus, desservant toutes les gares. \
 ### En gare
 
 {{% booking id="sbb-ticket-office" /%}}
+
 {{% booking id="sbb-ticket-machine" /%}}
 
-### À bord
+### À bord du train
 
-Les billets FIP **ne peuvent pas être achetés à bord**. Une amende s'applique.
-**Exception** : le supplément pour l'Italie peut être payé à bord.
+Les billets FIP ne peuvent pas être achetés à bord du train. Un supplément est appliqué aux voyageurs sans billet. La seule exception concerne le supplément pour les trains grandes lignes transfrontaliers vers l’Italie.
 
 ## Réductions
 
-- **Moins de 6 ans** : gratuit
-- **6 à 15 ans** : 50 %
-- **Dès 16 ans** : plein tarif adulte
+Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéciaux) jusqu’à l’âge de 6 ans inclus. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans, le tarif adulte s’applique.
 
 ## Conditions tarifaires spéciales
 
 ### Bus et substitutions
 
-Les billets FIP ne sont **pas valables sur les lignes de bus** des CFF, sauf si elles sont en remplacement ferroviaire (SEV).
+Les billets FIP ne sont pas valables sur les lignes de bus des CFF, sauf si elles sont en remplacement ferroviaire (SEV).
 
 ### Reconnaissance mutuelle CFF / BLS
+Les compagnies ferroviaires suisses CFF et BLS ont conclu un accord de reconnaissance mutuelle des coupons FIP.  
+Les coupons FIP internationaux des CFF sont pleinement acceptés sur l’ensemble du réseau ferroviaire BLS. [^2]
 
-Les coupons FIP **CFF** sont **acceptés sur tout le réseau ferroviaire BLS**.
-⚠️ Non valables sur les **bateaux BLS** (lacs de Thoune et de Brienz) ni les **bus BLS**. [^2]
+Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de Thoune et de Brienz, ni sur les bus BLS, principalement actifs dans la région de l’Emmental. [^2]
 
 ### Trains transfrontaliers (Italie, France)
 
-Les **EC vers l’Italie** et les **TGV vers la France** nécessitent un **supplément** en dehors de la Suisse. \
-Ce supplément (réservation incluse) est **obligatoire**, même avec un coupon ou billet FIP 50.
-- 2e classe : 11 €
-- 1ère classe : 13 €
+Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \
+Ce supplément (incluant la réservation) est obligatoire, même avec un coupon FIP ou un billet FIP 50.
+- 2ᵉ classe : 11€
+- 1ère classe : 13€
 
-Il s'achète **au guichet** ou **à bord** du train.
+Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
 
 ## Recommandation
 
 {{% highlight tip %}}
-Le coupon FIP est **particulièrement avantageux** en Suisse : large réseau, peu de restrictions, et peu de besoin de réservation. \
-La 1ère classe est recommandée pour son confort supérieur, surtout dans les trains **Giruno**.
+Le coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de restrictions, et peu de besoin de réservation. La 1ère classe est recommandée pour son confort supérieur, surtout dans les trains Giruno.
 {{% /highlight %}}
 
 ## Sources

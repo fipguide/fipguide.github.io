@@ -24,7 +24,11 @@ Andere Betreiber wie Arriva Nederland oder die grenzüberschreitenden `RE` Züge
 
 ## Wissenswertes
 
-Die Niederlande verfügen über ein ziemlich dichtes Bahnnetz, auf dem wohl im internationalen Vergleich mit die besten Taktverkehre angeboten werden. Die meisten Strecken werden mindestens alle 30 Minuten bedient, die Hauptstrecken meist deutlich öfter. Der Hauptknotenpunkt des Landes ist nicht etwa Amsterdam, sondern Utrecht. Dort treffen viele Nord-Süd und Ost-West Verbindungen aufeinander. Zwischen Utrecht und Amsterdam oder auch zwischen Arnhem und Nijmegen verkehren zur Hauptverkehrszeit zehn Züge pro Stunde und Richtung. International ist die Niederlande gut an die beiden Nachbarn Belgien und Deutschland angebunden, sowohl mit schnellen als auch langsameren Verkehren.
+Die Niederlande verfügen über ein ziemlich dichtes Bahnnetz, auf dem wohl im internationalen Vergleich mit die besten Taktverkehre angeboten werden. Die meisten Strecken werden mindestens alle 30 Minuten bedient, die Hauptstrecken meist deutlich öfter.
+
+Der Hauptknotenpunkt des Landes ist nicht etwa Amsterdam, sondern Utrecht. Dort treffen viele Nord-Süd und Ost-West Verbindungen aufeinander. Zwischen Utrecht und Amsterdam oder auch zwischen Arnhem und Nijmegen verkehren zur Hauptverkehrszeit zehn Züge pro Stunde und Richtung.
+
+International ist die Niederlande gut an die beiden Nachbarn Belgien und Deutschland angebunden, sowohl mit schnellen als auch langsameren Verkehren.
 
 Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfen Ticketschranken befinden. Zu den Gleisen kommt man nur mit einem gültigen Ticket, das einen passenden QR-Code hat. Für die FIP Freifahrtsscheine der NS wird daher ein separater NS-Gate-Pass-Coupon beigefügt. FIP 50 Tickets sollten derweil über einen gültigen QR-Code verfügen oder ebenfalls einen separaten Coupon enthalten. Falls es keine Möglichkeit zum Öffnen der Schranke gibt, kann auch die Hilfe vor Ort an der Schranke angefordert werden.
 

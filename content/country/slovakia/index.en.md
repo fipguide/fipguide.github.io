@@ -10,11 +10,12 @@ params:
 
 ## FIP Information
 
-Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK]({{< ref "/operator/zsr" >}} "ZSR/ZSSK") (Železničná
+Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná
 spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid.
+
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
-Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://www.bahn.de).
+Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://int.bahn.de/en).
 
 ## Interesting
 
@@ -51,11 +52,15 @@ From Hungary, both cross-border regional trains and Eurocity trains can be used.
 
 ### Poland
 
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK free travel passes are only valid up to the border point. Theoretically, it should be possible to travel cross-border for free with an additional free travel pass of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
+The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK free travel passes are only valid up to the border point. 
+
+Theoretically, it should be possible to travel cross-border for free with an additional free travel pass of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
 
 ### Ukraine
 
-From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point. A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
+From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point.
+
+A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
 
 ## FIP Rating
 

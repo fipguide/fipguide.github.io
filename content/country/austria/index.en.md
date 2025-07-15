@@ -21,7 +21,7 @@ params:
 
 In Austria, trains of the [Austrian Federal Railways (ÖBB)]({{% ref "/operator/obb" %}} "ÖBB") can be used with FIP tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
 
-There are also other regional operators of local trains that do not accept FIP tickets. These use the same train categories as ÖBB: `RE`, `REX`, and `S`. If in doubt, check the operator via their website or [Bahn.de](https://www.bahn.de).
+There are also other regional operators of local trains that do not accept FIP tickets. These use the same train categories as ÖBB: `RE`, `REX`, and `S`. If in doubt, check the operator via their website or [Bahn.de](https://int.bahn.de/en).
 
 The [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") is a second railway company that accepts FIP tickets within Austria and Hungary. GySEV FIP Coupons are mainly intended for Hungary and are only valid to a limited extent on GySEV routes in Austria.
 
@@ -90,7 +90,7 @@ From Slovakia, there are two local train connections to Austria:
 - The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna (from 10.10.2025)
 - The slower route starts at Bratislava Petrzalka and goes via Kittsee to Vienna.
 
-For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") is required for the Slovak section. \
+For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") is required for the Slovak section. \
 Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
 These trains can be used with:
 - ÖBB FIP Coupons up to the border

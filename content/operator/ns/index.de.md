@@ -11,10 +11,10 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Nie
 
 ## Zusammenfassung
 
-* NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
-* Reservierung ist grundsätzlich nicht erforderlich.
-* Zuschlag für Eurocity Direct `ECD` und teilweise Intercity Direct `ICD` erforderlich.
-* Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
+- NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Reservierung ist grundsätzlich nicht erforderlich.
+- Zuschlag für Eurocity Direct (`ECD`) und teilweise Intercity Direct (`ICD`) erforderlich.
+- Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
 
 ## Gültigkeit FIP Tickets
 
@@ -33,7 +33,7 @@ Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gez
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
+**Reservierungspflicht:** ⚠️ nein (außer grenzüberschreitend zur Hochsaison) \
 **Zuschlag**: ⚠️ \
 Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.

@@ -48,6 +48,6 @@ Les liaisons transfrontalières restent rares, alors que le réseau était nette
 
 Les liaisons entre l'Espagne et le Portugal sont actuellement très limitées. Pour voyager de Lisbonne à Madrid, il faut prendre un train régional jusqu'à Badajoz, à la frontière espagnole, puis prendre l'un des rares trains vers Madrid. Cela nécessite un titre FIP ou pass gratuit CP (pour la partie portugaise) et un billet Renfe pour la partie espagnole.
 
-Il existe également la liaison Celta entre Porto et Vigo, mais elle ne va pas plus loin en Espagne. Le tarif global FIP est valable sur l'ensemble du trajet ([Voir Renfe – Celta]({{< ref "/operator/renfe#international" >}} "Renfe")).
+Il existe également la liaison Celta entre Porto et Vigo, mais elle ne va pas plus loin en Espagne. Le tarif global FIP est valable sur l'ensemble du trajet ([Voir Renfe – Celta]({{< ref "/operator/renfe#longue-distance" >}} "Renfe")).
 
 Une ligne à grande vitesse Lisbonne – Madrid est actuellement en cours de construction.

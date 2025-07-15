@@ -13,7 +13,7 @@ Nederlandse Spoorwegen (NS) is the state railway company of the Netherlands and 
 
 * NS accepts FIP Coupons and FIP 50 tickets.
 * Reservations are generally not required.
-* Supplement required for Eurocity Direct `ECD` and partly for Intercity Direct `ICD`.
+* Supplement required for Eurocity Direct (`ECD`) and partly for Intercity Direct (`ICD`).
 * For FIP Coupons, a gate-pass coupon is required for access through station gates.
 
 ## Validity of FIP Tickets
@@ -32,7 +32,7 @@ Within the Netherlands, reservations are not required on NS and are often not po
 **Description:** \
 High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main), but can also be used within the Netherlands between Amsterdam, Utrecht, and Arnhem with FIP Coupons without a supplement. However, a supplement is required with FIP 50 tickets. \
 **Reservation possible:** yes \
-**Reservation required:** no (cross-border during high season: yes) \
+**Reservation required:** ⚠️ no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
 When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons.
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.

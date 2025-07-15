@@ -2,7 +2,7 @@
 draft: false
 title: '{{ .File.ContentBaseName | upper }}'
 country:
-  # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère.
+  # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
   - 'pays1'
   - 'pays2'
   - 'pays3'
@@ -28,7 +28,7 @@ operator: '{{ .File.ContentBaseName }}'
 ## Validité des billets FIP
 
 Coupon FIP : <✅/⛔> \
-Coupons FIP pour accompagnants : <✅/⛔> \
+Coupon FIP accompagnant : <✅/⛔> \
 Billets FIP 50 : <✅/⛔> \
 Tarif Global FIP : <✅/⛔>
 
@@ -56,9 +56,6 @@ Tarif Global FIP : <✅/⛔>
 <!-- Description de la catégorie -->
 **Réservation possible :** <oui/non> \
 **Réservation obligatoire :** <⚠️ oui / non / ⚠️1️⃣ seulement en 1ère classe> \
-**Coût de la réservation :** \
-2e classe : XX€ \
-1ère classe : XX€
 <!-- Si FIP n’est pas accepté, ajoutez ceci :
 **FIP :** ⛔ FIP non accepté
 -->
@@ -69,7 +66,7 @@ Tarif Global FIP : <✅/⛔>
 
 ## Catégories de classes
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 ### En ligne
 
@@ -98,10 +95,10 @@ Tarif Global FIP : <✅/⛔>
   Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
 -->
 
-### Sur place
+### En gare
 
 <!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation sur place.
+  Intégrez ici des plateformes de réservation supplémentaires pour la réservation en gare.
 -->
 
 ### À bord du train

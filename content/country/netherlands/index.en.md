@@ -24,7 +24,11 @@ Other operators such as Arriva Nederland or the cross-border `RE` trains Arnhem 
 
 ## Interesting
 
-The Netherlands has a very dense rail network, offering some of the best regular interval services internationally. Most routes are served at least every 30 minutes, with main lines much more frequently. The main rail hub is not Amsterdam, but Utrecht, where many north-south and east-west connections meet. During peak hours, there are up to ten trains per hour and direction between Utrecht and Amsterdam or between Arnhem and Nijmegen. Internationally, the Netherlands is well connected to Belgium and Germany, with both fast and slower services.
+The Netherlands has a very dense rail network, offering some of the best regular interval services internationally. Most routes are served at least every 30 minutes, with main lines much more frequently.
+
+The main rail hub is not Amsterdam, but Utrecht, where many north-south and east-west connections meet. During peak hours, there are up to ten trains per hour and direction between Utrecht and Amsterdam or between Arnhem and Nijmegen.
+
+Internationally, the Netherlands is well connected to Belgium and Germany, with both fast and slower services.
 
 A special feature in the Netherlands is that almost all larger stations have ticket gates. Access to the platforms is only possible with a valid ticket containing a suitable QR code. For NS FIP Coupons, a separate NS Gate Pass Coupon is provided. FIP 50 tickets should have a valid QR code or also include a separate coupon. If there is no way to open the gate, assistance can be requested at the gate.
 

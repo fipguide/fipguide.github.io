@@ -73,8 +73,7 @@ Pour la section allemande, un billet FIP DB est requis.
 
 ### Hongrie
 
-Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles. \
-Sur la ligne Vienne–Budapest via Hegyeshalom, un billet FIP MÁV est nécessaire à partir de la frontière. \
+Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles. Sur la ligne Vienne–Budapest via Hegyeshalom, un billet FIP MÁV est nécessaire à partir de la frontière.
 Sinon, un billet FIP GySEV est requis pour les lignes GySEV.
 
 ### Suisse
@@ -85,7 +84,7 @@ Dans ce cas, un [supplément (10 €/15 €)]({{< ref "/operator/obb#validité-d
 
 ### Italie
 
-Deux lignes internationales :
+Outre les liaisons régionales, il existe deux itinéraires internationaux entre l’Autriche et l’Italie :
 - La ligne du Brenner : Munich – Innsbruck – Bolzano – Vérone.
 - Les Railjets via Tarvisio Boscoverde vers Venise.
 
@@ -100,7 +99,7 @@ Deux lignes locales relient la Slovaquie à l’Autriche :
 - La plus rapide : Bratislava hl.st. – Marchegg – Vienne*(à partir du 10/10/2025).
 - L’autre : Bratislava Petržalka – Kittsee – Vienne.
 
-Pour les deux, un billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \
+Pour les deux, un billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \
 En complément, 4 paires de trains `D` relient Vienne à Bratislava hl.st. (également à partir du 10/10/2025). \
 Ces trains peuvent être utilisés :
 - avec un coupon FIP ÖBB jusqu’à la frontière, ou

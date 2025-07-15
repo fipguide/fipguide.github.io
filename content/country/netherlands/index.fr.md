@@ -46,6 +46,7 @@ Particularité : la plupart des grandes gares sont équipées de portiques. L'ac
 Depuis l'Allemagne, l' `ICE` Francfort / Cologne / Düsseldorf permet d'entrer sur le réseau NS. Un billet FIP DB est requis pour la partie allemande du trajet.
 
 Certaines lignes régionales sont aussi disponibles, mais seules deux lignes sont valides avec FIP :
+
 - Dortmund – Enschede
 - Münster – Enschede
 

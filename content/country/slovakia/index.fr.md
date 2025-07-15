@@ -10,17 +10,17 @@ params:
 
 ## Informations FIP
 
-La Slovaquie peut être facilement parcourue en train avec un billet FIP 50 ou un coupon FIP. Le dispositif FIP inclut l'opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK]({{< ref "/operator/zsr" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les billets FIP ŽSR sont valables.
+La Slovaquie peut être facilement parcourue en train avec un billet FIP 50 ou un coupon FIP. Le dispositif FIP inclut l'opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les billets FIP ŽSR sont valables.
 
 Une attention particulière doit être portée aux conditions de réservation sur les trains grandes lignes, ainsi qu’aux règles étendues pour le transport gratuit des enfants.
 
-D'autres opérateurs comme LeoExpress et RegioJet circulent également en Slovaquie, mais n'acceptent pas les billets FIP. Dans les horaires, ils sont abrégés `LE` et `RJ` (à ne pas confondre avec `RJ` pour Railjet). En cas de doute, vérifiez l'opérateur via son site ou via [Bahn.de](https://www.bahn.de).
+D'autres opérateurs comme LeoExpress et RegioJet circulent également en Slovaquie, mais n'acceptent pas les billets FIP. Dans les horaires, ils sont abrégés `LE` et `RJ` (à ne pas confondre avec `RJ` pour Railjet). En cas de doute, vérifiez l'opérateur via son site ou via [Bahn.de](https://int.bahn.de/fr/).
 
 ## Informations générales
 
 La Slovaquie dispose d'un réseau ferroviaire dense, structuré autour de deux grandes lignes :
 
-- L'une venant de Vienne, traversant la capitale Bratislava, passant par Poprad Tatry jusqu'à Košice, la 2e plus grande ville.
+- L'une venant de Vienne, traversant la capitale Bratislava, passant par Poprad Tatry jusqu'à Košice, la 2ᵉ plus grande ville.
 - L'autre reliant Bratislava à la Hongrie, via Nové Zámky jusqu'à Budapest.
 
 Ces lignes sont bien développées et en amélioration constante. Les trains circulent souvent toutes les heures entre les grandes gares. On trouve également de nombreuses lignes secondaires pittoresques, parfois desservies de manière très sporadique.
@@ -61,13 +61,6 @@ Depuis Košice, des trains régionaux circulent vers Chop et Mukachevo. Le FIP n
 
 Les billets transfrontaliers sans réduction FIP peuvent être achetés sur le site de la ZSSK. Si le train s'arrête à Čierna nad Tisou, il est possible d'acheter un billet normal depuis cette gare. Pour des billets moins chers, il est recommandé de demander directement au guichet ZSSK.
 
-## Résumé
+## Évaluation FIP
 
-Dans l'ensemble, la Slovaquie dispose d'une bonne infrastructure ferroviaire, et la majorité des trains sont exploités par ZSSK, ce qui permet de parcourir une large partie du pays avec des billets FIP.
-
-Cependant, l'expérience FIP est parfois limitée par :
-
-- l'obligation de réservation systématique en 1ʳᵉ classe ;
-- la réservation obligatoire sur les Intercity même en 2ᵉ classe ;
-- un système d'information peu performant ;
-- des horaires irréguliers ou mal coordonnés sur les lignes secondaires.
+Dans l’ensemble, la Slovaquie dispose d’une bonne infrastructure ferroviaire et la plupart des trajets sont assurés par la ZSSK. Cela permet de parcourir une grande partie du pays avec des billets FIP. Cependant, l’expérience FIP peut être quelque peu limitée par l’obligation de réservation (toujours en 1ʳᵉ classe, et en 2ᵉ classe dans les trains Intercity), des systèmes d’information parfois peu fiables et une desserte irrégulière sur les lignes secondaires.

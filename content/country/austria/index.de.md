@@ -82,7 +82,7 @@ Neben Regionalzugverbindungen gibt es zwei internationale Routen von Österreich
 
 Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch in Italien, allerdings ist auf beiden Verbindungen ein Zuschlag im italienischen Bereich zu zahlen.
 
-Außerdem gibt existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
+Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
 Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
 
 ### Slowakei
@@ -92,7 +92,7 @@ Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen
 - Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025)
 - Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien.
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") benötigt. \
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") benötigt. \
 Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025). \
 In diesen Zügen gilt:  \
 - FIP Freifahrtscheine der ÖBB bis zur Grenze

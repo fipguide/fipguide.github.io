@@ -97,7 +97,7 @@ Depends on route, occupancy, and car category.
 **Description:** \
 Fast local train with fewer stops and modern rolling stock.
 
-ℹ️ Regionalexpress trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://www.bahn.de). \
+ℹ️ Regionalexpress trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://int.bahn.de/en). \
 **Reservation possible:** no
 {{% /expander %}}
 
@@ -105,7 +105,7 @@ Fast local train with fewer stops and modern rolling stock.
 **Description:** \
 Local train stopping at most stations.
 
-ℹ️ Regional trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://www.bahn.de).
+ℹ️ Regional trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://int.bahn.de/en).
 
 The designation `R` Regionalzug is also used in ÖBB’s journey planner for purely tourist services where FIP Tickets are not valid. These are marked with footnotes indicating “special fare.” \
 **Reservation possible:** no
@@ -116,7 +116,7 @@ The designation `R` Regionalzug is also used in ÖBB’s journey planner for pur
 Local train at least hourly, stopping at all stations.
 Comparable to an S-Bahn.
 
-ℹ️ S-Bahn services are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://www.bahn.de).
+ℹ️ S-Bahn services are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://int.bahn.de/en).
 
 Including:
 - S-Bahn Upper Austria: S5 Linz–Eferding (Linzer Lokalbahn)
@@ -129,7 +129,7 @@ Including:
 
 ## Class Categories
 
-Railjet(Express) trains have special class categories:
+Railjet(Xpress) trains have special class categories:
 
 **Economy**: Comparable to 2nd class. \
 **First Class**: Comparable to 1st class. A FIP Coupon for 1st class is required. \
@@ -179,7 +179,8 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-Children under 6 travel free; from age 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must be paid for each child.
+- Children under 6 years: free
+- From 6 years: supplement must be paid for each child when traveling with a FIP Coupon on long-distance trains
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile.
@@ -204,10 +205,12 @@ On international long-distance services from Austria to Italy, ÖBB FIP Coupons 
 
 ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
-### Pamhagen - Neusiedl am See
+### REX63 (Pamhagen - Neusiedl am See)
+
 On the REX63 line between Pamhagen and Neusiedl am See, both ÖBB and GySEV FIP Tickets are accepted.
 
 ### Liechtenstein
+
 The railway in Liechtenstein is operated by ÖBB. FIP Tickets are valid here under Austrian conditions and without surcharge (Feldkirchen–Buchs SG).
 
 ### Vienna Airport: City Airport Train (CAT)

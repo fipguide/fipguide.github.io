@@ -204,7 +204,8 @@ FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Vene
 
 FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60€ für die 2. Klasse und 4,60€ für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
-### Pamhagen - Neusiedl am See
+### REX63 (Pamhagen - Neusiedl am See)
+
 Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.
 
 ### Lichtenstein
@@ -223,29 +224,37 @@ Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stund
 {{% /highlight %}}
 
 ### Schneebergbahn
+
 Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewähnt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
 
 ### ÖBB Postbus
+
 FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverkehren (SEV).
 
 ### IC Bus (ICB)
+
 FIP Fahrkarten sind im IC Bus (ICB) nicht gültig, außer bei Schienenersatzverkehren (SEV) und den folgenden Verbindungen:
 
 #### Graz - Klagenfurt
+
 Bis Dezember 2025 gelten FIP Fahrscheine auch im IC Bus zwischen Graz und Klagenfurt.
 
 #### Klagenfurt/Villach - Udine/Venedig
+
 Im IC Bus (ICB) gelten besondere FIP Globalpreise. Eine Sitzplatzreservierung ist verpflichtend und Ticketpreise enthalten.
 
 ### Motorail
+
 FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Rabatt ausgeschlossen.
 
 ### Autoschleuse Tauerntunnel (ASTB)
+
 Mit einem FIP Freifahrschein kann die Autoschleuse Tauerntunnel (Böckstein–Mallnitz-Obervellach) genutzt werden. Das Fahrzeug muss auf einen der mitreisenden FIP Freifahrtschein-Inhaber zugelassen sein, um kostenlos befördert zu werden. Für Mitreisende ohne FIP Freifahrtschein gilt der reguläre Fahrpreis.
 
 FIP 50 Ermäßigungen sind nicht erhältlich.
 
 ### Fahrtunterbrechung
+
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
 
 ### Unterscheidung zwischen Nah- und Fernverkehr
