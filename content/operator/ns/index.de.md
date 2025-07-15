@@ -134,12 +134,15 @@ Uns sind keine Ermäßigungen bekannt.
 
 ### Ticket Schranken im Bahnhof
 
-Zum FIP-Freifahrschein erhält man ein NS-Gate-Pass-Coupon mit Barcode, um die Schranken an NS-Bahnhöfen zu öffnen. Es handelt sich um einen Gate-Pass, nicht um einen Fahrschein. Er ist für die Nutzung an 8 separaten Tagen (00:00 bis 23:59) innerhalb eines Zeitraums von 3 Monaten ab dem ersten Nutzungstag gültig. Die erste Nutzung an einer Schranke legt das Startdatum fest.  Innerhalb eines Tages gilt:
+Mit einem FIP-Coupon erhältst du einen NS-Zugangscoupon mit Barcode, um die Bahnhofsschranken zu öffnen. \
+Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
-- Man kann 6 Mal an derselben Station ein- und auschecken.
-- Man kann landesweit insgesamt 12 Mal ein- und auschecken.
+- Bis zu 8 einzelne Tage innerhalb eines Zeitraums von 3 Monaten.
+- Pro Tag (von 00:00 bis 23:59):
+    - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
+    - Insgesamt bis zu 12 Durchgänge pro Tag.
 
-Am NS Ticketschalter kann bei Bedarf ein neuer Gate-Pass-Coupon angefordert werden.
+Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 
 ## Empfehlungen
 

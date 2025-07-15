@@ -21,6 +21,7 @@ FIP 50 Tickets: ✅
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
 
 ## Train Categories and Reservations
+
 Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
@@ -86,7 +87,9 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 {{% booking id="db_ticket_office" /%}}
 
 ## Discounts
-Children under 5 years travel for free. Children under 16 years receive a 50% discount on the adult fare.[^1]
+
+Children under 5 years travel for free. \
+Children under 16 years receive a 50% discount on the adult fare.[^1]
 
 ## Special Tariff Conditions
 ### Stopovers

@@ -5,8 +5,8 @@ description: "Informations de réservation via la hotline ÖBB."
 
 params:
     classes:
-        first: "3,50 €"
-        second: "3,50 €"
+        first: "3,50€"
+        second: "3,50€"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
@@ -18,7 +18,7 @@ params:
 [+43 (0) 5 1717](tel:+4351717)
 
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. \
-**Aucun frais supplémentaire** n’est facturé par ÖBB pour la réservation.
+Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
 {{% booking-section "fip_50" %}}
 **Billets FIP 50**
@@ -31,9 +31,9 @@ Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant l
 {{% booking-section "reservations" %}}
 **Réservations**
 
-Le tarif de réservation est facturé **par train**. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn").
+Le tarif de réservation est facturé par train. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn").
 
-Cependant, les réservations de sièges effectuées auprès de l’ÖBB sont **annulables** :
+Cependant, les réservations de sièges effectuées auprès de l’ÖBB sont annulables:
 
 - De 180 à 15 jours avant le départ : remboursement de 100 % du prix de la réservation
 - De 14 à 1 jour avant le départ : remboursement de 50 % du prix de la réservation

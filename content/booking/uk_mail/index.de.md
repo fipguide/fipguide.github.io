@@ -17,4 +17,4 @@ params:
   - Reiseklasse (analog Berechtigung des FIP-Ausweises)
   - Foto des FIP Ausweises aller reisender Personen
 
-**Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.**
+**Pro Buchung wird eine Buchungsgebühr von 10£ erhoben.**

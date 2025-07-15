@@ -18,7 +18,13 @@ Ebenfalls in der Slowakei unterwegs sind die Unternehmen LeoExpress und RegioJet
 
 ## Wissenswertes
 
-Die Slowakei verfügt über ein dichtes Bahnnetz, das jedoch vor allem aus zwei Hauptstrecken besteht. Einmal aus Wien kommend von der Hauptstadt Bratislava über Poprad Tatry in die zweitgrößte Stadt Košice sowie aus Tschechien kommend von Bratislava aus über Nové Zámky in die ungarische Hauptstadt Budapest. Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft stündlich. Darüber hinaus gibt es eine Menge schöner Nebenstrecken, die teilweise jedoch sehr sporadisch bedient werden.
+Die Slowakei verfügt über ein dichtes Bahnnetz, das jedoch vor allem aus zwei Hauptstrecken besteht:
+
+- Aus Wien kommend von der Hauptstadt Bratislava über Poprad Tatry in die zweitgrößte Stadt Košice
+- Aus Tschechien kommend von Bratislava aus über Nové Zámky in die ungarische Hauptstadt Budapest.
+
+Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft stündlich. Darüber hinaus gibt es eine Menge schöner Nebenstrecken, die teilweise jedoch sehr sporadisch bedient werden.
+
 Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská železnica, die zur ZSSK gehört und ebenfalls mit FIP befahren werden kann. Damit ist es möglich Bergketten hinauf zu fahren und zu den Seilbahnen auf die ganz hohen Berge zu kommen.
 
 ## Anreise und Grenzpunkte

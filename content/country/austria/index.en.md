@@ -27,7 +27,12 @@ The [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") is a second rail
 
 ## Interesting
 
-Austria has a dense rail network, mainly consisting of two main lines: the Southern Railway from Vienna via Graz towards Slovenia and Klagenfurt/Villach to Italy (from December 2025 via the new _Koralmbahn_ high-speed line, before via the old route), and the Western Railway from Vienna via Salzburg/Innsbruck to Lake Constance (Bregenz) and further to Switzerland (Zurich). Both lines are well developed, with trains running every half hour between major stations. There are also many scenic main and branch lines, such as the breathtaking Tauern Railway (Salzburg-Villach), Ennstal Railway (Salzburg-Bischofshofen-Schladming-Leoben), or the Brenner Railway (Munich-Innsbruck-Brenner-Bolzano-Verona).
+Austria has a dense rail network, mainly consisting of two main lines:
+
+- **The Southern Railway**: from Vienna via Graz towards Slovenia and Klagenfurt/Villach to Italy (from December 2025 via the new _Koralmbahn_ high-speed line, before via the old route)
+- **The Western Railway**: from Vienna via Salzburg/Innsbruck to Lake Constance (Bregenz) and further to Switzerland (Zurich).
+
+Both lines are well developed, with trains running every half hour between major stations. There are also many scenic main and branch lines, such as the breathtaking Tauern Railway (Salzburg-Villach), Ennstal Railway (Salzburg-Bischofshofen-Schladming-Leoben), or the Brenner Railway (Munich-Innsbruck-Brenner-Bolzano-Verona).
 
 A special highlight is the ride on the Schneebergbahn in Lower Austria, which is not operated by ÖBB but can be used with a FIP 50% reduction.
 
@@ -52,7 +57,12 @@ From the Czech Republic, cross-border trains of Ceske Drahy can be used on vario
 
 ### Germany
 
-Between Germany and Austria, there are several regional train connections and two long-distance routes: an `ICE` line from Vienna via Linz, Passau, and Nuremberg to Frankfurt/Cologne (and some trains to Berlin), as well as `ICE`, `RJ`, and `IC` trains from Munich via Salzburg to various destinations in Austria. For the German section, a FIP ticket from DB is required.
+Between Germany and Austria, there are several regional train connections and two long-distance routes:
+
+- an `ICE` line from Vienna via Linz, Passau, and Nuremberg to Frankfurt/Cologne (and some trains to Berlin)
+- `ICE`, `RJ`, and `IC` trains from Munich via Salzburg to various destinations in Austria. 
+
+For the German section, a FIP ticket from DB is required.
 
 ### Hungary
 
@@ -64,13 +74,27 @@ From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB ticket
 
 ### Italy
 
-Besides regional train connections, there are two international routes from Austria to Italy: the Brenner Railway from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, and Railjets via Tarvisio Boscoverde to Venice. On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies.
+Besides regional train connections, there are two international routes from Austria to Italy:
+
+- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, - Railjets via Tarvisio Boscoverde to Venice.
+
+On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
+
+There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
+On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies.
 
 ### Slovakia
 
-From Slovakia, there are two local train connections to Austria. The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna (from 10.10.2025). The slower route starts at Bratislava Petrzalka and goes via Kittsee to Vienna. For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") is required for the Slovak section. \
-Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025), which can be used with ÖBB FIP Coupons up to the border or on the entire section (also in Austria) with ZSSK FIP Coupons.
+From Slovakia, there are two local train connections to Austria:
+
+- The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna (from 10.10.2025)
+- The slower route starts at Bratislava Petrzalka and goes via Kittsee to Vienna.
+
+For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") is required for the Slovak section. \
+Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
+These trains can be used with:
+- ÖBB FIP Coupons up to the border 
+- ZSSK FIP Coupone on the entire section (also in Austria)
 
 ### Slovenia
 

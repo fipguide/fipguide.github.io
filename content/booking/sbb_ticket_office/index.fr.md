@@ -9,7 +9,7 @@ params:
         second: "5 CHF"
     fip_50: true
     reservations: true
-    additional_info_link: "https://www.sbb.ch/en/travel-information/stations/services-station.html"
+    additional_info_link: "https://www.sbb.ch/fr/informations-voyages/gares/services-gare.html"
     type: "onsite"
 ---
 

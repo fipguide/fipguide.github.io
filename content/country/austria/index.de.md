@@ -27,7 +27,12 @@ Die [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") ist ein zweites 
 
 ## Wissenswertes
 
-Österreich verfügt über ein dichtes Bahnnetz, welches vor allem aus zwei Hauptstrecken besteht. Die Südbahn von Wien über Graz Richtung Slowenien und Klagenfurt/Villach weiter nach Italien (ab Dezember 2025 über die Schnellfahstrecke _Koralmbahn_ und davor über die Altbaustrecke) sowie die Westbahn von Wien aus über Salzburg/Innsbruck zum Bodensee (Bregenz) bzw. weiter in die Schweiz (Zürich). Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona).
+Österreich verfügt über ein dichtes Bahnnetz, welches vor allem aus zwei Hauptstrecken besteht:
+
+- **Die Südbahn**: von Wien über Graz Richtung Slowenien und Klagenfurt/Villach weiter nach Italien (ab Dezember 2025 über die Schnellfahstrecke _Koralmbahn_ und davor über die Altbaustrecke).
+- **Die Westbahn**: von Wien aus über Salzburg/Innsbruck zum Bodensee (Bregenz) bzw. weiter in die Schweiz (Zürich).
+
+Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona).
 
 Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterreich, diese wird nicht von den ÖBB betrieben kann aber mit FIP 50 reduziert befahren werden.
 
@@ -53,7 +58,12 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy über ver
 
 ### Deutschland
 
-Zwischen Deutschland und Österreich existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen. Eine `ICE` Linie von Wien über Linz, Passau und Nürnberg Richtung Frankfurt/Köln (oder einzelne Züge nach Berlin) sowie `ICE`, `RJ` und `IC` Züge von München über Salzburg in verschiedene Ziele in Österreich. Im Deutschen Abschnitt wird für die Züge ein FIP Ticket der DB benötigt.
+Zwischen Deutschland und Österreich existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen:
+
+- Eine `ICE` Linie von Wien über Linz, Passau und Nürnberg Richtung Frankfurt/Köln (oder einzelne Züge nach Berlin)
+- `ICE`, `RJ` und `IC` Züge von München über Salzburg in verschiedene Ziele in Österreich. 
+
+Im Deutschen Abschnitt wird für die Züge ein FIP Ticket der DB benötigt.
 
 ### Ungarn
 
@@ -65,13 +75,28 @@ Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG un
 
 ### Italien
 
-Neben Regionalzugverbindungen gibt es zwei internationale Routen von Österreich nach Italien. Die Brennerbahn von München über Innsbruck und den Brennerpass nach Bozen und Verona sowie Railjets über Tarvisio Boscoverde weiter nach Venedig. Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch in Italien, allerdings ist auf beiden Verbindungen ein Zuschlag im italienischen Bereich zu zahlen.
-Außerdem gibt existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134). Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
+Neben Regionalzugverbindungen gibt es zwei internationale Routen von Österreich nach Italien:
+
+- Die Brennerbahn: von München über Innsbruck und den Brennerpass nach Bozen und Verona
+- Railjets über Tarvisio Boscoverde weiter nach Venedig
+
+Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch in Italien, allerdings ist auf beiden Verbindungen ein Zuschlag im italienischen Bereich zu zahlen.
+
+Außerdem gibt existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
+Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
 
 ### Slowakei
 
-Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich. Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025). Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien. Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") benötigt. \
-Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025), die mit FIP Coupons der ÖBB bis zur Grenze oder auf dem kompletten Abschnitt (auch in Österreich) mit ZSSK Freifahrt genutzt werden können.
+Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
+
+- Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025)
+- Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien.
+
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zsr" %}} "ZSR / ZSSK") benötigt. \
+Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025). \
+In diesen Zügen gilt:  \
+- FIP Freifahrtscheine der ÖBB bis zur Grenze
+- FIP Freifahrtscheine der ZSSK dem kompletten Abschnitt (auch in Österreich)
 
 ### Slowenien
 

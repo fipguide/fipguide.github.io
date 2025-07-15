@@ -158,7 +158,7 @@ Si aucun guichet n’est disponible, l’achat est possible à bord (à confirme
 - Enfants < 12 ans : -40 %
 - À partir de 12 ans : plein tarif
 
-## Conditions particulières
+## Conditions tarifaires spécifiques
 
 ### Interruption de trajet
 

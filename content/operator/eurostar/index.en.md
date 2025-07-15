@@ -64,9 +64,6 @@ High-speed train from Amsterdam and Brussels to the French Alps. \
 **FIP:** ⛔ FIP is not accepted
 {{% /expander %}}
 
-The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.
-FIP discounts are not available for the Eurostar Premiere category.
-
 {{% highlight tip %}}
 When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
 {{% /highlight %}}
@@ -135,7 +132,7 @@ For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM
 #### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
 {{% highlight tip %}}
-Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) can be used.
+Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/en/am-i-eligible-for-hotnat/) can be used.
 
 If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
 

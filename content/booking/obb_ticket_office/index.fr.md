@@ -5,8 +5,8 @@ description: "Informations de réservation aux guichets ÖBB."
 
 params:
     classes:
-        first: "3,50 €"
-        second: "3,50 €"
+        first: "3,50€"
+        second: "3,50€"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/bahnhofsinformation"
@@ -24,7 +24,7 @@ Les billets (y compris les billets FIP 50) sont moins chers s’ils sont acheté
 {{% booking-section "reservations" %}}
 **Réservations**
 
-Le tarif de réservation est facturé **par train**. Pour des trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn").
+Le tarif de réservation est facturé par train. Pour des trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db_website" %}} "Deutsche Bahn").
 
 Cependant, les réservations effectuées auprès d'ÖBB peuvent être annulées :
 

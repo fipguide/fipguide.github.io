@@ -103,7 +103,7 @@ Dans les trains `IC` : supplément avec réservation obligatoire
 L'enfant peut bénéficier de **50 % de réduction** (plus simple) \
 Nécessite une **pièce d'identité avec photo, âge et date de naissance**
 
-## Conditions spéciales
+## Conditions tarifaires spéciales
 
 ### Trains `D` vers Vienne
 

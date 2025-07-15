@@ -132,12 +132,15 @@ No discounts are known.
 
 ### Ticket Barriers at Stations
 
-With the FIP Coupon, you receive an NS gate-pass coupon with a barcode to open the gates at NS stations. This is a gate-pass, not a ticket. It is valid for use on 8 separate days (00:00 to 23:59) within a period of 3 months from the first day of use. The first use at a gate sets the start date. Within a day:
+With an FIP coupon, you will receive an NS access coupon with a barcode to open the station gates. \
+This is not a ticket, but an access pass, valid for:
 
-- You can check in and out 6 times at the same station.
-- You can check in and out a total of 12 times nationwide.
+- Up to 8 separate days within a 3-month period.
+- Each day (from 00:00 to 23:59):
+    - Up to 6 entries/exits at the same station.
+    - Up to 12 passages in total per day.
 
-If needed, a new gate-pass coupon can be requested at the NS ticket counter.
+If needed, a new access coupon can be requested at the NS ticket office.
 
 ## Recommendations
 

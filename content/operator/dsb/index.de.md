@@ -91,7 +91,8 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
+Kinder unter 5 Jahren reisen kostenlos. \
+Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
 
 ## Tarifliche Besonderheiten
 

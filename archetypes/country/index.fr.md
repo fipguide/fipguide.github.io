@@ -7,7 +7,7 @@ params:
     - # Listez ici les opérateurs ne participant pas au FIP
 ---
 <!-- Supprimez ce message si la page est complète -->
-{{< snippet wip >}}
+{{< wip >}}
 
 ## Informations FIP
 

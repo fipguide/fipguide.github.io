@@ -39,5 +39,5 @@ En date de décembre 2023, ces gares sont :
 {{% booking-section "reservations" %}}
 **Réservations**
 
-Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des **réservations internationales** dans les gares avec guichet complet (« light »).
+Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des réservations internationales dans les gares avec guichet complet (« light »).
 {{% /booking-section %}}

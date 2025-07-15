@@ -5,8 +5,8 @@ description: "Informations de réservation pour les guichets de la Deutsche Bahn
 
 params:
     classes:
-        first: "6,90 €"
-        second: "5,50 €"
+        first: "6,90€"
+        second: "5,50€"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"

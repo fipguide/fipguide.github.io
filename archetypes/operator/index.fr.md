@@ -69,10 +69,69 @@ Tarif Global FIP : <✅/⛔>
 
 ## Catégories de classes
 
-<!--
-  Si les classes disponibles vont au-delà de la 1re et 2e classe classiques, elles peuvent être décrites ici. Sinon, vous pouvez supprimer cette section.
--->
+## Achat de billets et de réservations
+
+### En ligne
 
 <!--
-**Standard** : Comparable à la 2e classe. \
-**Plus** : 1re classe sans service à bord. Un pass FI
+  Intégrez ici les informations d'une plateforme de réservation définie.
+
+  Vous pouvez remplacer individuellement les paramètres de réservation listés ci-dessous, mais ce n'est pas obligatoire.
+  Si vous omettez certains paramètres, les valeurs par défaut de la plateforme de réservation seront utilisées.
+
+  Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
+-->
+{{% booking id="booking_id"
+    subtitle="Ce sous-titre s'affiche dans le résumé de l'expander et doit rester concis."
+    reservations=nil
+    fip_50=false
+    fip_global_fare=true
+    classes.first="20€"
+    classes.second="10€"
+%}}
+<!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s'affiche dans la partie développée. -->
+{{% /booking %}}
+
+### Par téléphone
+
+<!--
+  Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
+-->
+
+### Sur place
+
+<!--
+  Intégrez ici des plateformes de réservation supplémentaires pour la réservation sur place.
+-->
+
+### À bord du train
+
+<!--
+  Les billets avec réduction FIP peuvent-ils encore être achetés à bord du train ? Si oui, comment et y a-t-il un supplément ?
+-->
+
+## Réductions
+
+<!--
+  Quelles réductions les enfants peuvent-ils obtenir et dans quelles circonstances ?
+  Quelles autres réductions peuvent exister ?
+-->
+
+## Conditions tarifaires spéciales
+
+### <Trajet ou nom>
+
+<!--
+  Description de la condition spéciale, s'il existe des réglementations particulières sur certains trajets.
+-->
+
+## Recommandations
+
+<!--
+  Recommandations personnelles et conseils particuliers pour le voyage.
+-->
+
+## Sources
+
+[^1]: [<Nom de la source 1>](<Lien>)
+[^2]: [<Nom de la source 2>](<Lien>)
