@@ -2,17 +2,27 @@
   const THEME_KEY = 'fipguide-theme';
   const DARK_THEME = 'dark';
   const LIGHT_THEME = 'light';
+  const AUTO_THEME = 'auto';
 
   function getSavedTheme() {
-    return localStorage.getItem(THEME_KEY) || LIGHT_THEME;
+    return localStorage.getItem(THEME_KEY) || AUTO_THEME;
   }
 
   function saveTheme(theme) {
     localStorage.setItem(THEME_KEY, theme);
   }
 
+  function getSystemTheme() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? DARK_THEME : LIGHT_THEME;
+  }
+
+  function getEffectiveTheme(theme) {
+    return theme === AUTO_THEME ? getSystemTheme() : theme;
+  }
+
   function applyTheme(theme) {
-    if (theme === DARK_THEME) {
+    const effectiveTheme = getEffectiveTheme(theme);
+    if (effectiveTheme === DARK_THEME) {
       document.documentElement.setAttribute('data-theme', DARK_THEME);
     } else {
       document.documentElement.removeAttribute('data-theme');
@@ -21,7 +31,15 @@
 
   function toggleTheme() {
     const currentTheme = getSavedTheme();
-    const newTheme = currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME;
+    let newTheme;
+
+    if (currentTheme === LIGHT_THEME) {
+      newTheme = DARK_THEME;
+    } else if (currentTheme === DARK_THEME) {
+      newTheme = AUTO_THEME;
+    } else {
+      newTheme = LIGHT_THEME;
+    }
 
     saveTheme(newTheme);
     applyTheme(newTheme);
@@ -30,18 +48,33 @@
 
   function updateToggleButtons(theme) {
     const toggleButtons = document.querySelectorAll('.a-theme-toggle');
+    const effectiveTheme = getEffectiveTheme(theme);
+
     toggleButtons.forEach(button => {
       const icon = button.querySelector('.material-symbols-rounded');
       if (icon) {
-        icon.textContent = theme === DARK_THEME ? 'light_mode' : 'dark_mode';
+        if (theme === AUTO_THEME) {
+          icon.textContent = 'brightness_auto';
+        } else if (theme === LIGHT_THEME) {
+          icon.textContent = 'light_mode';
+        } else {
+          icon.textContent = 'dark_mode';
+        }
       }
 
-      const label = theme === DARK_THEME ? 'Switch to light mode' : 'Switch to dark mode';
+      let label;
+      if (theme === LIGHT_THEME) {
+        label = 'Switch to dark mode';
+      } else if (theme === DARK_THEME) {
+        label = 'Switch to auto mode';
+      } else {
+        label = 'Switch to light mode';
+      }
       button.setAttribute('aria-label', label);
     });
   }
 
-  function initializeTheme() {
+  function initializeButtons() {
     const savedTheme = getSavedTheme();
     updateToggleButtons(savedTheme);
 
@@ -49,13 +82,19 @@
     toggleButtons.forEach(button => {
       button.addEventListener('click', toggleTheme);
     });
-  }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initializeTheme);
-  } else {
-    initializeTheme();
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+      if (getSavedTheme() === AUTO_THEME) {
+        applyTheme(AUTO_THEME);
+      }
+    });
   }
 
   applyTheme(getSavedTheme());
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initializeButtons);
+  } else {
+    initializeButtons();
+  }
 })();
