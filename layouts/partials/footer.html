@@ -28,7 +28,7 @@
         </span>
       </button>
       <ul class="o-language-switcher__dropdown" aria-hidden="true">
-        {{ range .Site.Home.AllTranslations }}
+        {{ range .AllTranslations }}
           <li class="o-language-switcher__item">
             <a href="{{ .Permalink }}" class="o-language-switcher__link{{ if eq $.Site.Language .Language }} o-language-switcher__link--active{{ end }}">
               {{ .Language.LanguageName }}
