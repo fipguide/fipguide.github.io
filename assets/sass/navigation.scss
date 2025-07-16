@@ -253,8 +253,7 @@ body:has(.o-header__nav--open) {
   color: var(--color-body);
   transition: color 0.3s ease;
 
-  &:hover,
-  &:focus {
+  &:hover {
     color: var(--link-hovered);
   }
 }
