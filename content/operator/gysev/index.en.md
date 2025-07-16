@@ -2,7 +2,6 @@
 draft: false
 title: 'GySEV / Raaberbahn'
 country:
-  # Add the English abbreviations of the countries where the railway company operates.
   - 'austria'
 operator: 'gysev'
 ---

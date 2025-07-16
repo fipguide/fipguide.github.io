@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SNCB"
+title: "SNCB / NMBS"
 description: "Find out about the FIP conditions at SNCB."
 country:
   - "belgium"
@@ -109,7 +109,7 @@ Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note *No Supplement Necessary* is indicated. For FIP 50 tickets, this is already included in the price. [^1]
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to 6.70€ (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note *No Supplement Necessary* is indicated. For FIP 50 tickets, this is already included in the price. [^1]
 
 ## Recommendations
 

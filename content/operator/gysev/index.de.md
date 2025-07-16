@@ -2,7 +2,6 @@
 draft: false
 title: 'GySEV / Raaberbahn'
 country:
-  # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
   - 'austria'
 operator: 'gysev'
 ---

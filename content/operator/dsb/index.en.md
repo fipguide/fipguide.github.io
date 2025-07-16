@@ -21,6 +21,7 @@ FIP 50 Tickets: ✅
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
 
 ## Train Categories and Reservations
+
 Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
@@ -37,11 +38,11 @@ Intercity trains are similar to `ICL` trains but stop more frequently and are sl
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
+{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
 **Description:** \
 Eurocity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
 **Reservation possible:** yes \
-**Reservation mandatory:**  Only in the peak season (summer)
+**Reservation mandatory:** ⚠️ Only in the peak season (summer)
 {{% /expander %}}
 
 {{% expander "Regional Train (R) ℹ️" traincategory category %}}
@@ -86,10 +87,14 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 {{% booking id="db-ticket-office" /%}}
 
 ## Discounts
-Children under 5 years travel for free. Children under 16 years receive a 50% discount on the adult fare.[^1]
+
+Children under 5 years travel for free. \
+Children under 16 years receive a 50% discount on the adult fare.[^1]
 
 ## Special Tariff Conditions
-### Stopovers
+
+### Interruption of journey
+
 With FIP 50 Tickets, the journey can be interrupted, but it must be confirmed by train staff.[^1]
 
 ### Copenhagen Airport
@@ -97,9 +102,11 @@ With FIP 50 Tickets, the journey can be interrupted, but it must be confirmed by
 FIP facilities are not valid on Øresundståg services from Københavns Hovedbanegård (Copenhagen Central Station) to Københavns Lufthavn Station (Copenhagen Airport railway station).
 
 ### FIP 50 in Copenhagen and Aarhus
+
 FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen metropolitan area or the Aarhus-Grenaa region. Only trips beyond these regions are possible. FIP Coupons, however, are valid for trips within these regions.
 
 ### Use of Ferries
+
 {{% highlight inofficial %}}
 Allegedly, FIP 50 Tickets are valid on Scandlines ferries in connection with a train journey through Denmark. However, this has not yet been confirmed by us. [^1]
 {{% /highlight %}}

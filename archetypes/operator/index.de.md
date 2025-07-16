@@ -57,9 +57,6 @@ FIP Globalpreis: <✅/⛔>
 <!-- Füge hier eine Beschreibung der Zugkategorie ein -->
 **Reservierung möglich:** Ja/Nein \
 **Reservierungspflicht:** Ja/Nein \
-**Kosten für Reservierung:** <!-- Füge hier die Kosten nach Klasse, Strecke, etc. hinzu. Gibt es keine Festpreise, dann eine Preisspanne oder Beispiele angeben. --> \
-2\. Klasse: XX€ \
-1\. Klasse: XX€
 <!-- Wenn FIP nicht gültig ist, ergänze folgendes:
 **FIP:** ⛔ FIP wird nicht anerkannt
 -->

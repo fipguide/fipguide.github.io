@@ -10,7 +10,7 @@ params:
 
 ## FIP Nutzung
 
-Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK]({{< ref "/operator/zsr" >}} "ZSR/ZSSK") (Železničná
+Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná
 spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig.
 Besonders zu beachten sind Reservierungsbedingung im Fernverkehr sowie erweiterte Regleung zu kostenfreien Mitnahme von Kindern.
 
@@ -18,7 +18,13 @@ Ebenfalls in der Slowakei unterwegs sind die Unternehmen LeoExpress und RegioJet
 
 ## Wissenswertes
 
-Die Slowakei verfügt über ein dichtes Bahnnetz, das jedoch vor allem aus zwei Hauptstrecken besteht. Einmal aus Wien kommend von der Hauptstadt Bratislava über Poprad Tatry in die zweitgrößte Stadt Košice sowie aus Tschechien kommend von Bratislava aus über Nové Zámky in die ungarische Hauptstadt Budapest. Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft stündlich. Darüber hinaus gibt es eine Menge schöner Nebenstrecken, die teilweise jedoch sehr sporadisch bedient werden.
+Die Slowakei verfügt über ein dichtes Bahnnetz, das jedoch vor allem aus zwei Hauptstrecken besteht:
+
+- Aus Wien kommend von der Hauptstadt Bratislava über Poprad Tatry in die zweitgrößte Stadt Košice
+- Aus Tschechien kommend von Bratislava aus über Nové Zámky in die ungarische Hauptstadt Budapest.
+
+Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft stündlich. Darüber hinaus gibt es eine Menge schöner Nebenstrecken, die teilweise jedoch sehr sporadisch bedient werden.
+
 Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská železnica, die zur ZSSK gehört und ebenfalls mit FIP befahren werden kann. Damit ist es möglich Bergketten hinauf zu fahren und zu den Seilbahnen auf die ganz hohen Berge zu kommen.
 
 ## Anreise und Grenzpunkte

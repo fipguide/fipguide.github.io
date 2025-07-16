@@ -169,7 +169,7 @@ If there is no Renfe sales outlet at the departure station, tickets can be purch
 
 ## Discounts
 
-Children up to the age of 4 travel free of charge, provided they do not require their own seat. Children up to the age of 12 receive a 40% discount on the adult fare. Persons aged 12 and over pay the adult fare.
+Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
 
 ## Special Tariff Conditions
 

@@ -9,7 +9,7 @@ Starting June 15, 2025, Deutsche Bahn will no longer offer family reservations. 
 
 Additionally, the prices for seat reservations will increase:
 
-1st class: €6.90 (previously €6.50)
+1st class: €6.90 (previously €6.50) \
 2nd class: €5.90 (previously €5.50)
 
 Information about reservations can be found [here on Bahn.de]({{< ref "/booking/db-website" >}} "DB Website Booking").

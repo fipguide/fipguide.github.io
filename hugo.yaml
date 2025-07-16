@@ -16,6 +16,12 @@ languages:
     languageCode: de
     weight: 2
     title: 'FIP Guide – Schnell. Übersichtlich. Community-basiert.'
+  fr:
+    languageName: "French"
+    languageCode: fr
+    weight: 3
+    title: 'FIP Guide – Rapide. Clair. Basé sur le partage.'
+
 
 module:
   mounts:

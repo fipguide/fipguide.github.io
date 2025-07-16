@@ -23,7 +23,9 @@ However, seat reservations made via ÖBB can be cancelled:
 - 180 days to 15 days before departure: 100% of the reservation price
 - 14 days to 1 day before departure: 50% of the reservation price
 
-On the ÖBB website, to book a reservation, select the option "Nur Sitzplatzreservierung - Ich habe schon ein Ticket" ("Seat reservation only - I already have a ticket").
+On the ÖBB website, to book a reservation, select the option: \
+"Nur Sitzplatzreservierung - Ich habe schon ein Ticket" \
+("Seat reservation only - I already have a ticket").
 
 ![Book ÖBB reservation](obb_reservation.webp)
 {{% /booking-section %}}

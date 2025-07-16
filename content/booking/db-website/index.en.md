@@ -8,7 +8,7 @@ params:
     second: "€5.50"
   fip_50: false
   reservations: true
-  booking_link: "https://www.bahn.de/"
+  booking_link: "https://int.bahn.de/en/"
   additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
   type: "website"
 ---

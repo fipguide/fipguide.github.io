@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SNCB"
+title: "SNCB / NMBS"
 description: "Informationen über die FIP-Bedingungen bei SNCB."
 country:
   - "belgium"
