@@ -9,7 +9,7 @@
 code {
     font-size: inherit;
     font-weight: 700;
-    color: var(--color-onLight);
+    color: $color-onLight;
     background-color: var(--bg-accent3);
     padding: .2rem .8rem;
     border-radius: var(--border-radius-s);
@@ -31,8 +31,8 @@ thead {
     }
 
     th {
-        background: $link-hovered;
-        color: white;
+        background: var(--link-hovered);
+        color: var(--bg-neutral);
         text-align: left;
     }
 }
@@ -43,7 +43,7 @@ tbody {
     }
 
     tr:nth-of-type(even) {
-        background-color: $bg-default;
+        background-color: var(--bg-default);
     }
 
     tr:last-of-type {

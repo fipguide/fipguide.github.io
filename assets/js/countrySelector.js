@@ -1,5 +1,4 @@
 function initCountrySelector() {
-
   const expandButton = document.querySelector('.o-header__expand-button');
   const countryContainer = document.querySelector('.o-header__item-countries');
 

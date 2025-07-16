@@ -56,6 +56,9 @@ support:
     vorbei, um Inhalte beizutragen. Alternativ kannst du uns auch über das <a
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
+theme:
+  switch-to-dark: Zu dunklem Modus wechseln
+  switch-to-light: Zu hellem Modus wechseln
 toc_name: Inhalt
 updateDate: Zuletzt aktualisiert
 wip: >-

@@ -1,4 +1,4 @@
-a.a-button {
+.a-button {
     padding: 1rem;
     display: inline-flex;
     align-items: center;
@@ -9,6 +9,8 @@ a.a-button {
     cursor: pointer;
     text-decoration: none;
     transition: background 0.2s, color 0.2s;
+    background: transparent;
+    color: var(--body-color);
 
     &:hover,
     &:focus {
