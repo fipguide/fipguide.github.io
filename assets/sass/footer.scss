@@ -36,3 +36,9 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+.o-footer__city-rotator {
+    display: inline-block;
+    transition: opacity 0.3s ease;
+    min-width: 1ch;
+}
