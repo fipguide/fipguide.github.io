@@ -1,0 +1,12 @@
+{{ $cities := slice }}
+{{ $i := 0 }}
+{{ range seq 10 }}
+  {{ $city := T (printf "footer-love.cities.%d" $i) }}
+  {{ if ne $city "" }}
+    {{ $cities = $cities | append $city }}
+  {{ end }}
+  {{ $i = add $i 1 }}
+{{ end }}
+<div aria-label='{{ T "footer-love.aria-label"}}'>
+  {{ T "footer-love.text"}} <span class="o-footer__city-rotator" data-cities='{{ $cities | jsonify }}'>{{ index $cities 0 }}</span>
+</div>

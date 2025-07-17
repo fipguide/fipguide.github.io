@@ -22,7 +22,11 @@ countryselection: Länderauswahl
 editPage: Seite bearbeiten
 footer-love:
   aria-label: Made with love in Frankfurt & Köln
-  text: Made with ♥️ in Frankfurt & Köln
+  cities:
+    '0': Frankfurt
+    '1': Köln
+    '2': Aachen
+  text: Made with ♥️ in
 general: Übergreifendes
 highlight:
   important: Wichtige Information
