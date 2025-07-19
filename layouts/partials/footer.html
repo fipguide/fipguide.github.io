@@ -1,9 +1,9 @@
 <div class="o-footer o-container">
   <div class="o-footer__firstline">
-    <div class="col-12 col-lg-6" aria-label='{{ T "footer-love.aria-label"}}'>
+    <div aria-label='{{ T "footer-love.aria-label"}}'>
       {{ T "footer-love.text"}}
     </div>
-    <div class="col-12 col-lg-6 o-footer__links">
+    <div class="o-footer__links">
       {{ $contactPage := site.GetPage "contact" }}
       {{ if $contactPage }}
           <a class="o-footer__link" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
