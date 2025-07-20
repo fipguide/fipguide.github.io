@@ -1,24 +1,23 @@
-<div class="o-footer o-container">
-  <div class="o-footer__firstline">
-    <div aria-label='{{ T "footer-love.aria-label"}}'>
-      {{ T "footer-love.text"}}
-    </div>
-    <div class="o-footer__links">
-      {{ $contactPage := site.GetPage "contact" }}
-      {{ if $contactPage }}
-          <a class="o-footer__link" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
-      {{ end }}
-      {{ $imprintPage := site.GetPage "imprint" }}
-      {{ if $imprintPage }}
-          <a class="o-footer__link" href="{{ $imprintPage.RelPermalink }}">{{ $imprintPage.Title }}</a>
-      {{ end }}
-      {{ $privacyPage := site.GetPage "privacy" }}
-      {{ if $privacyPage }}
-          <a class="o-footer__link" href="{{ $privacyPage.RelPermalink }}">{{ $privacyPage.Title }}</a>
-      {{ end }}
-    </div>
+<div class="o-footer__firstline">
+  <div aria-label='{{ T "footer-love.aria-label"}}'>
+    {{ T "footer-love.text"}}
   </div>
-  <div>
-    {{ T "information-disclaimer-short"}}
+  <div class="o-footer__links">
+    {{ $contactPage := site.GetPage "contact" }}
+    {{ if $contactPage }}
+        <a class="o-footer__link" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
+    {{ end }}
+    {{ $imprintPage := site.GetPage "imprint" }}
+    {{ if $imprintPage }}
+        <a class="o-footer__link" href="{{ $imprintPage.RelPermalink }}">{{ $imprintPage.Title }}</a>
+    {{ end }}
+    {{ $privacyPage := site.GetPage "privacy" }}
+    {{ if $privacyPage }}
+        <a class="o-footer__link" href="{{ $privacyPage.RelPermalink }}">{{ $privacyPage.Title }}</a>
+    {{ end }}
   </div>
 </div>
+<div>
+  {{ T "information-disclaimer-short"}}
+</div>
+
