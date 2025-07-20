@@ -142,6 +142,17 @@ img {
   align-items: center;
 }
 
+.o-list__countries{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+
+  @media (max-width: #{$breakpoint-lg}) {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 @mixin add-columns($columns) {
   &--columns-#{$columns} {
     columns: $columns;

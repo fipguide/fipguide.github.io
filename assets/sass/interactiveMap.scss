@@ -1,0 +1,29 @@
+.o-interactive-map {
+  &__container {
+    border-radius: var(--border-radius-m);
+    box-shadow: var(--box-shadow);
+    width: 100%;
+    aspect-ratio: 1 / 1;
+
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  .o-interactive-map__country--available {
+    path {
+      fill: var(--link-default) !important;
+      transition: all 0.2s ease;
+      cursor: pointer;
+    }
+
+    &:hover path {
+      fill: var(--link-hovered) !important;
+    }
+  }
+
+  .o-interactive-map--loading {
+    padding: 1rem;
+  }
+}

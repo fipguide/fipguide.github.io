@@ -2,17 +2,50 @@
   <article class="o-list o-list__container">
     <h1 data-pagefind-meta="title">{{ .Title }}</h1>
     {{ .Content }}
-    <div class="o-list__list">
-      {{ range .Pages }}
-      <a href="{{ .RelPermalink }}" class="o-list__link">
-        <div class="o-list__picture">
-          {{ partial "flag" (dict "country" .File.ContentBaseName) }}
+    <div class="o-list__countries">
+      <div>
+        <h2>{{ T "countries.overview" }}</h2>
+        <div class="o-list__list">
+          {{ range .Pages }}
+          <a href="{{ .RelPermalink }}" class="o-list__link">
+            <div class="o-list__picture">
+              {{ partial "flag" (dict "country" .File.ContentBaseName) }}
+            </div>
+            <div>
+              {{ .Title }}
+            </div>
+          </a>
+          {{ end }}
         </div>
-        <div>
-          {{ .Title }}
+      </div>
+      <div class="o-interactive-map">
+        <h2>{{ T "interactiveMap.title" }}</h2>
+        <div id="interactive-map__container" class="o-interactive-map__container">
+          <p class="o-interactive-map--loading"><em>{{ T "interactiveMap.loading" }}</em></p>
         </div>
-      </a>
-      {{ end }}
+      </div>
     </div>
   </article>
+
+
+  <script>
+    window.availableCountries = [
+      {{- range .Pages -}}
+      "{{ .File.ContentBaseName }}"{{ if not (eq . (index (last 1 $.Pages) 0)) }},{{ end }}
+      {{- end -}}
+    ];
+
+    window.currentLanguage = "{{ .Language.Lang }}";
+
+    fetch('/map_europe.svg')
+      .then(response => response.text())
+      .then(svgContent => {
+        document.getElementById('interactive-map__container').innerHTML = svgContent;
+
+        window.initializeInteractiveMap();
+      })
+      .catch(error => {
+        console.error('Error loading SVG:', error);
+      });
+  </script>
 {{ end }}

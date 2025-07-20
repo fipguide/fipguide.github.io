@@ -14,11 +14,13 @@ booking:
   reservation-costs: Reservierungskosten
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+countries:
+  overview: Alle Länder
+  selection: Länderauswahl
 country:
   many: Länder
   one: Land
   other: Länder
-countryselection: Länderauswahl
 editPage: Seite bearbeiten
 footer-love:
   aria-label: Made with love in Aachen, Frankfurt, Köln & Paris
@@ -32,6 +34,9 @@ home-page-text: FIP Guide Startseite
 information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
   rechtliche Verbindung zu FIP oder Bahngesellschaften.
+interactiveMap:
+  loading: Lade interaktive Karte...
+  title: Interaktive Länderkarte
 menu-close: Schließen
 menu-open: Menü
 navigate-to-country: Gehe zu Land
