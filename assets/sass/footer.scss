@@ -5,12 +5,7 @@
 
 .o-footer__links {
     display: flex;
-    justify-content: normal;
     flex-wrap: wrap;
-
-    @media (min-width: #{$breakpoint-lg}) {
-        justify-content: flex-end;
-    }
 }
 
 .o-footer__link {
