@@ -33,7 +33,6 @@ information-disclaimer-short: >-
   legal connection to FIP or railway companies.
 language-switcher:
   aria-label: Switch language
-  label: Language
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country
