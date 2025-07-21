@@ -6,7 +6,7 @@ description: "Informations sur l’achat de billets FIP aux distributeurs automa
 params:
     fip_50: true
     additional_info_link: "https://www.sbb.ch/fr/informations-voyages/gares/services-distributeurs-billets/distributeur-de-billets.html"
-    type: "website"
+    type: "machine"
 ---
 
 {{% booking-section "fip_50" %}}
