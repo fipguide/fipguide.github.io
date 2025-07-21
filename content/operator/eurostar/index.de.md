@@ -26,7 +26,6 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 
 ## Zugkategorien und Reservierungen
 
-
 {{% highlight important %}}
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{% /highlight %}}
@@ -65,9 +64,6 @@ Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. 
 **FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
 
-Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
-Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich.
-
 {{% highlight tip %}}
 Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
 {{% /highlight %}}
@@ -84,8 +80,7 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 ### Online
 
-Die Online-Buchung von Tickets ist bisher nicht möglich.
-Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
+Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
@@ -101,7 +96,6 @@ Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London ko
     fip_global_fare=true
 /%}}
 
-
 ### Vor Ort
 
 {{% booking id="ns-ticket-office"
@@ -109,6 +103,7 @@ Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London ko
     fip_global_fare=true
     reservations=nil
 %}}
+
 **FIP Globalpreis**
 
 Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
