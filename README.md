@@ -49,7 +49,7 @@ Cette carte internationale de réduction pour le personnel ferroviaire permet au
 Ce projet fournit des informations et des conseils d'utilisation sur la FIP ainsi que des particularités concernant les différentes compagnies ferroviaires participantes.
 
 La collaboration et les contributions d'informations sont toujours bienvenues.
-Vous trouverez des instructions pour modifier les informations [ici dans le wiki](https://github.com/fipguide/fipguide.github.io/wiki/Français).
+Vous trouverez des instructions pour modifier les informations [ici dans le wiki](https://github.com/fipguide/fipguide.github.io/wiki/English).
 
 L'état actuel du traitement des informations concernant chaque exploitant sont disponible ici : [Content Status](https://github.com/orgs/fipguide/projects/3)
 
