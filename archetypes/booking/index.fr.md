@@ -12,7 +12,7 @@ params:
     reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
     booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
     additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-    type: "onsite" # Types acceptés : website, onsite, phone et email
+    type: "onsite" # Types acceptés : website, onsite, phone, email et machine
 ---
 
 {{% booking-section "fip_50" %}}

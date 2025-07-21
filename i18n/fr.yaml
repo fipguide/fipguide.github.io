@@ -43,3 +43,18 @@ related:
   operators-nearby: Opérateurs voisins
 reportError: Signaler une erreur
 search-placeholder: Rechercher
+skipToContent: Aller au contenu
+support:
+  text: >-
+    Souhaitez-vous partager vos connaissances sur la réglementation FIP ?
+    Visitez notre <a href="https://github.com/fipguide/fipguide.github.io">dépôt
+    GitHub</a> pour contribuer au contenu. Vous pouvez également nous écrire via
+    le <a href="/fr/contact">formulaire de contact</a>.
+  title: Soutenez-nous
+toc_name: Sommaire
+updateDate: Dernière mise à jour
+wip: >-
+  Cette page est encore en cours de construction et le contenu peut être
+  incomplet. Nous serions ravis que vous contribuiez à l'amélioration de cette
+  page. [Plus d'informations sur
+  GitHub](https://github.com/fipguide/fipguide.github.io/wiki/English).
