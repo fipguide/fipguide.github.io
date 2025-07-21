@@ -92,7 +92,7 @@ Trains régionaux standards qui s’arrêtent généralement partout (il existe 
 ### En ligne
 
 {{% booking id="zssk-website"
-    subtitle="Pour les trajets nationaux, y compris IC & SC" 
+    subtitle="Pour les trajets nationaux, y compris IC & SC"
 /%}}
 
 {{% booking id="db-website"
