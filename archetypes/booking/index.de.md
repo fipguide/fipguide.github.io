@@ -12,7 +12,7 @@ params:
     reservations: true # Definiere, ob Reservierungen bei dem Buchungsanbieter gebucht werden können.
     booking_link: "https://example.com" # Füge ein Link zur Buchungsplattform hinzu
     additional_info_link: "https://example.com/additional-info" # Füge einen Link zu zusätzlichen Informationen hinzu
-    type: "onsite" # Akzeptierte Typen sind: website, onsite, phone and email
+    type: "onsite" # Akzeptierte Typen sind: website, onsite, phone, email und machine
 ---
 
 {{% booking-section "fip_50" %}}
