@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Distributeurs automatiques CFF"
-description: "Informations sur l’achat de billets FIP aux distributeurs automatiques des CFF"
+title: "Distributeurs de tickets CFF"
+description: "Informations sur l’achat de billets FIP aux distributeurs de tickets des CFF"
 
 params:
     fip_50: true
