@@ -37,8 +37,7 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 ### France
 
-Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone.
-La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des tarifs FIP globaux sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
+Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des tarifs FIP globaux sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
 
 Pour les trains opérés par Renfe, les tarifs sont équivalents à ceux des AVE nationaux, mais ces billets ne peuvent être obtenus qu’aux guichets Renfe.
 

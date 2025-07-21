@@ -49,6 +49,7 @@ A special highlight is the ride on the Schneebergbahn in Lower Austria, which is
 | Slovakia (ZSR) | Marchegg(Gr), Kittsee(Gr) |
 | Switzerland (SBB) | Buchs SG, St. Margrethen |
 | Italy (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+
 {{% /expander %}}
 
 ### Czech Republic
@@ -76,7 +77,8 @@ From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB ticket
 
 Besides regional train connections, there are two international routes from Austria to Italy:
 
-- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, - Railjets via Tarvisio Boscoverde to Venice.
+- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona,
+- Railjets via Tarvisio Boscoverde to Venice.
 
 On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
 

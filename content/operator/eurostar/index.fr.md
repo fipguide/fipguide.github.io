@@ -36,7 +36,6 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP global :**
-
 | Trajet                        | Standard | Plus |
 |------------------------------|----------|------|
 | Londres - Paris / Bruxelles  | 39€ / 34,50£ | 60€ / 52,50£ |
@@ -50,7 +49,6 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP global :**
-
 | Trajet                       | Standard | Plus |
 |-----------------------------|----------|------|
 | Trajet dans un seul pays    | Non disponible | Non disponible |
@@ -82,8 +80,7 @@ Les billets sont émis exclusivement sous forme numérique (email requis).
 
 ### En ligne
 
-Réservation en ligne non disponible. \
-Mais la gestion du billet (annulation, échange, rebooking) est possible via le [site Eurostar](https://www.eurostar.com/).
+Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le [site Eurostar](https://www.eurostar.com/).
 
 Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
@@ -92,8 +89,7 @@ Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’af
 ### Par téléphone
 
 {{% booking id="eurostar-phone" %}}
-Des problèmes peuvent survenir lors de la réservation de billets FIP vers/depuis Londres. \
-Si c’est le cas, essayez un autre canal de réservation.
+Des problèmes peuvent survenir lors de la réservation de billets FIP vers/depuis Londres. Si c’est le cas, essayez un autre canal de réservation.
 {{% /booking %}}
 
 {{% booking id="cfl-phone"
@@ -107,6 +103,7 @@ Si c’est le cas, essayez un autre canal de réservation.
     fip_global_fare=true
     reservations=nil
 %}}
+
 **Billet FIP Global**
 
 Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.

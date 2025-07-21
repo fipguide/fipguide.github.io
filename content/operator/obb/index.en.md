@@ -113,8 +113,7 @@ The designation `R` Regionalzug is also used in ÖBB’s journey planner for pur
 
 {{% expander "Schnellbahn (S) ℹ️" traincategory "local" %}}
 **Description:** \
-Local train at least hourly, stopping at all stations.
-Comparable to an S-Bahn.
+Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
 
 ℹ️ S-Bahn services are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://int.bahn.de/en).
 
@@ -179,11 +178,10 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-- Children under 6 years: free
-- From 6 years: supplement must be paid for each child when traveling with a FIP Coupon on long-distance trains
+Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Free Travel Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
-With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile.
+With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 [See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -226,29 +224,37 @@ If you travel with regular Vienna public transport tickets (e.g., single journey
 {{% /highlight %}}
 
 ### Schneebergbahn
+
 The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
 
 ### ÖBB Postbus
+
 FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services (SEV).
 
 ### IC Bus (ICB)
+
 FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services (SEV) and the following routes:
 
 #### Graz - Klagenfurt
+
 Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
 
 #### Klagenfurt/Villach - Udine/Venice
+
 Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 
 ### Motorail
+
 FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra and excluded from the FIP discount.
 
 ### Autoschleuse Tauerntunnel (ASTB)
+
 With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervellach) can be used. The vehicle must be registered to one of the FIP Coupon holders to be transported free of charge. Regular fares apply for accompanying passengers without a FIP Coupon.
 
 FIP 50 discounts are not available.
 
 ### Journey Interruption
+
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
 ### Distinction Between Local and Long-Distance

@@ -134,13 +134,14 @@ Students under 26 years old and seniors aged 62 and over from the EU, as well as
 `D` trains between Bratislava and Vienna can be used on the entire route (including the Austrian section) with ZSSK FIP coupons. Alternatively, ÖBB FIP coupons are also valid on the Austrian section.
 
 ### Break in the journey
+
 A break in the journey is only possible for distances of 101 km and more.
 
 ### Busses and replacement services
+
 Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

@@ -67,6 +67,7 @@ There are also several cross-border regional connections. Switzerland can also b
 ### France
 
 From France the are different connections:
+
 - Direct `TGV` trains from Paris to Basel or Geneva.
 - Regional trains via Pontarlier, Vallorbe, etc.
 

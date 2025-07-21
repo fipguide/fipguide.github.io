@@ -42,7 +42,6 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 [>] = In Richtung (z.B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)
 {{% /expander %}}
 
-
 ### Deutschland
 
 Von Deutschland aus gibt es mehrere grenzüberschreitende Verbindungen in die Schweiz:

@@ -7,7 +7,6 @@ country:
 operator: "dsb"
 ---
 
-
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemark. Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
 
 ## Zusammenfassung
@@ -41,7 +40,7 @@ Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
+{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Eurocity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \

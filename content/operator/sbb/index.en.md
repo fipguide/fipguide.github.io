@@ -80,7 +80,6 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 **Reservation possible:** no
 {{% /expander %}}
 
-
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -127,8 +126,7 @@ FIP tickets are not valid on SBB-operated bus lines unless they are rail replace
 
 ### Mutual Recognition of SBB and BLS Coupons
 
-The Swiss railway companies SBB and BLS have an agreement for mutual recognition of FIP Coupons.
-International FIP Coupons of SBB are fully accepted on the entire BLS rail network. [^2]
+The Swiss railway companies SBB and BLS have an agreement for mutual recognition of FIP Coupons. International FIP Coupons of SBB are fully accepted on the entire BLS rail network. [^2]
 
 However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses, which mainly operate in the Emmental region. [^2]
 

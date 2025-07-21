@@ -172,6 +172,10 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
+### À bord du train
+
+L’achat de billets à bord du train est possible si vous contactez immédiatement le contrôleur. Cependant, ces billets sont généralement plus chers que ceux achetés à l’avance dans d’autres points de vente. Sur les lignes S-Bahn, l’achat du billet avant l’embarquement est obligatoire.
+
 ## Réductions
 
 Les enfants de moins de 6 ans voyagent gratuitement ; à partir de 6 ans, lors d’un voyage avec un coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.

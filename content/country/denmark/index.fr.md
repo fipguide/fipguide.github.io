@@ -31,8 +31,7 @@ Les lignes principales sont :
 
 Les trains grandes lignes circulent sur ces itinéraires à une vitesse supérieure à la moyenne, mais la vraie grande vitesse est limitée à un court tronçon entre Odense et Copenhague, utilisé par seulement quelques trains.
 
-Les trains danois circulent généralement à horaires réguliers et sont ponctuels.
-Cependant, les correspondances ne sont pas toujours bien synchronisées, ce qui peut entraîner des temps d'attente lors des changements. Certaines lignes mériteraient une fréquence plus élevée. À Copenhague, le réseau de trains S (S-tog) et plusieurs lignes régionales fréquentes assurent une très bonne desserte locale.
+Les trains danois circulent généralement à horaires réguliers et sont ponctuels. Cependant, les correspondances ne sont pas toujours bien synchronisées, ce qui peut entraîner des temps d'attente lors des changements. Certaines lignes mériteraient une fréquence plus élevée. À Copenhague, le réseau de trains S (S-tog) et plusieurs lignes régionales fréquentes assurent une très bonne desserte locale.
 
 ## Arrivée et points frontières
 
@@ -45,13 +44,11 @@ Cependant, les correspondances ne sont pas toujours bien synchronisées, ce qui 
 
 ### Allemagne
 
-Depuis l'Allemagne, l' `EC` direct Hambourg – Copenhague est disponible plusieurs fois par jour (toutes les 2h en haute saison).
-Ces trains sont souvent très fréquentés, il est donc conseillé de réserver à l'avance.
+Depuis l'Allemagne, l' `EC` direct Hambourg – Copenhague est disponible plusieurs fois par jour (toutes les 2h en haute saison). Ces trains sont souvent très fréquentés, il est donc conseillé de réserver à l'avance.
 
 Alternativement, plusieurs trains `IC` relient Flensburg à Fredericia, avec bonnes correspondances vers Aarhus, Aalborg et Copenhague.
 
-L'entrée via Tønder est aussi possible par des trains locaux, mais comme ni DB ni DSB n'opèrent ce trajet, les réductions FIP n'y sont pas valables.
-Une autre option est d'utiliser les ferries depuis Puttgarden ou Warnemünde pour entrer au Danemark.
+L'entrée via Tønder est aussi possible par des trains locaux, mais comme ni DB ni DSB n'opèrent ce trajet, les réductions FIP n'y sont pas valables. Une autre option est d'utiliser les ferries depuis Puttgarden ou Warnemünde pour entrer au Danemark.
 
 ### Suède
 

@@ -17,8 +17,7 @@ params:
 
 [+43 (0) 5 1717](tel:+4351717)
 
-Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. \
-Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
+Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
 {{% booking-section "fip_50" %}}
 **Billets FIP 50**

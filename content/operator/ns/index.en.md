@@ -26,7 +26,9 @@ FIP Coupons and FIP 50 tickets are valid on NS services. For cross-border journe
 
 ## Train Categories and Reservations
 
-Within the Netherlands, reservations are not required on NS and are often not possible. For cross-border ICE and IC trains to Germany, reservations are possible and, for example, mandatory in summer 2025 (only for cross-border journeys). Supplements must be paid for Eurocity Direct and partly for Intercity Direct trains.
+Within the Netherlands, reservations are not required on NS and are often not possible. For cross-border ICE and IC trains to Germany, reservations are possible and, for example, mandatory in summer 2025 (only for cross-border journeys).
+
+Supplements must be paid for Eurocity Direct and partly for Intercity Direct trains.
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category  %}}
 **Description:** \
@@ -34,7 +36,7 @@ High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
-When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons.
+When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons. \
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
 {{% /expander %}}
 

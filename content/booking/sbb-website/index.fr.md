@@ -28,9 +28,7 @@ Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des t
 {{% booking-section "reservations" %}}
 **Réservations**
 
-Des réservations individuelles pour des trajets nationaux peuvent être achetées en ligne sur le site des CFF. \
-Pour cela, effectuez une recherche via le planificateur de voyage classique. \
-Sélectionnez ensuite la connexion souhaitée (« Choisir le billet »), puis l’option « Réservation de siège uniquement ».
+Des réservations individuelles pour des trajets nationaux peuvent être achetées en ligne sur le site des CFF. Pour cela, effectuez une recherche via le planificateur de voyage classique. Sélectionnez ensuite la connexion souhaitée (« Choisir le billet »), puis l’option « Réservation de siège uniquement ».
 
 ![Réserver une place CFF](sbb_reservation.webp)
 {{% /booking-section %}}

@@ -51,6 +51,7 @@ Alternatively, there are multiple daily `IC` trains from Flensburg to Fredericia
 Entry via Tønder is also possible using local trains. However, since neither DB on the German side nor DSB on the Danish side operates here, FIP discounts are not available on this route. Alternatively, ferries from Puttgarden or Warnemünde can be used to enter Denmark.
 
 ### Sweden
+
 From Sweden, travel is possible:
 
 - via Malmö over the Øresund

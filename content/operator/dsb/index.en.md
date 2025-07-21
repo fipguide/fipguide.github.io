@@ -10,10 +10,12 @@ operator: "dsb"
 The DSB (Danske Statsbaner) is the state-owned railway company in Denmark. It operates the majority of passenger traffic on the Danish rail network.
 
 ## Summary
+
 - FIP 50 and FIP Coupons are accepted.
 - Reservations are generally not mandatory.
 
 ## Validity of FIP Tickets
+
 FIP Coupon: ✅ \
 FIP Coupon relatives: ⛔ \
 FIP 50 Tickets: ✅
@@ -118,5 +120,6 @@ DSB offers reliable and comfortable service. The 1st class is particularly worth
 {{% /highlight %}}
 
 ## Sources
+
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

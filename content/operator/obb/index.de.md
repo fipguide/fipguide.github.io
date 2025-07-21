@@ -113,8 +113,7 @@ Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für 
 
 {{% expander "Schnellbahn (S) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
-Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen.
-Vergleichbar mit einer S-Bahn.
+Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichbar mit einer S-Bahn.
 
 ℹ️ Schnellbahnen werden teilweise auch von anderen privaten Bahngesellschaften betrieben, bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
@@ -182,7 +181,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtsschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
-Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€.
+Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
 [Siehe ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -209,6 +208,7 @@ FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen 
 Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.
 
 ### Lichtenstein
+
 Die Eisenbahn in Lichtenstein wird von der ÖBB betrieben. FIP Fahrkarten sind hier zu den österreichischen Konditionen und ohne Aufpreis gültig (Feldkirchen-Buchs SG).
 
 ### Wien Flughafen: City Airport Train (CAT)

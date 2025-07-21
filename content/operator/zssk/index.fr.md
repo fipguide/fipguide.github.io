@@ -25,6 +25,7 @@ Billet FIP 50 : ✅
 Les coupons FIP et billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s'appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un billet FIP 50 continu ou les coupons FIP des deux pays sont requis.
 
 ## Catégories de trains et réservations
+
 {{% highlight important %}}
 Réservation obligatoire dans les trains `SC` et `IC`. Les autres trains ZSSK ne nécessitent une réservation qu’en 1ʳᵉ classe. [^2]
 {{% /highlight %}}
@@ -90,15 +91,21 @@ Trains régionaux standards qui s’arrêtent généralement partout (il existe 
 
 ### En ligne
 
-{{% booking id="zssk-website" subtitle="Pour les trajets nationaux, y compris IC & SC" /%}}
+{{% booking id="zssk-website"
+    subtitle="Pour les trajets nationaux, y compris IC & SC" 
+/%}}
 
-{{% booking id="db-website" subtitle="Hors IC & SC" /%}}
+{{% booking id="db-website"
+    subtitle="Hors IC & SC"
+/%}}
 
 ### En gare
 
 {{% booking id="zssk-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Hors IC & SC" /%}}
+{{% booking id="db-ticket-office"
+    subtitle="Sans IC & SC"
+/%}}
 
 ### À bord du train
 

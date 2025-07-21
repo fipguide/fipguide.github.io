@@ -49,7 +49,6 @@ Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erb
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
-
 {{% expander "Eurocity (EC) / Railjet (RJ) ⚠️1️⃣ ℹ️" traincategory category %}}
 **Beschreibung:** \
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die `RJ` Züge sind Railjet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. \
@@ -66,7 +65,6 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 **Kosten für Reservierung:** \
 Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
-
 
 {{% expander "Express (Ex) ⚠️1️⃣" traincategory category %}}
 **Beschreibung:** \
@@ -136,13 +134,14 @@ Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internation
 `D` Züge zwischen Bratislava und Wien können im gesamten Abschnitt (auch in Österreich) mit FIP Freifahrtscheinen der ZSSK genutzt werden. Alternativ gilt im österreichichen Abschnitt auch der FIP Freifahrtschein der ÖBB.
 
 ### Fahrtunterbrechung
+
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
 ### Busse und Ersatzverkehr
+
 Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

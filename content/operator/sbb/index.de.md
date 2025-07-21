@@ -80,7 +80,6 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 **Reservierung möglich:** nein
 {{% /expander %}}
 
-
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -127,8 +126,7 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, 
 
 ### Gegenseitige Anerkennung von Freifahrscheinen der SBB und BLS
 
-Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen.
-Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
 
 Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
 

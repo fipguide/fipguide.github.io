@@ -37,10 +37,10 @@ La Suisse possède l’un des réseaux ferroviaires les plus denses au monde. Ma
 | Italie (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | Autriche (ÖBB) | Buchs (SG), St. Margrethen |
 | France (SNCF) | Bâle SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
-{{% /expander %}}
 
 \
 [>] = indique la direction (ex. : Locarno [> Domodossola] = Locarno est le point frontière vers Domodossola)
+{{% /expander %}}
 
 ### Allemagne
 
@@ -67,6 +67,7 @@ Plusieurs liaisons régionales transfrontalières existent. Certaines liaisons p
 ### France
 
 Depuis la France :
+
 - `TGV` directs depuis Paris vers Bâle ou Genève.
 - Trains régionaux via Pontarlier, Vallorbe, etc.
 

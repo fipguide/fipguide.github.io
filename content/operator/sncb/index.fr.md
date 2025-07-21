@@ -84,9 +84,13 @@ Trains supplémentaires vers certaines destinations touristiques, souvent simple
 Lorsque vous utilisez un coupon FIP SNCB, un billet transfrontalier peut être réservé via le site web, qui prend en compte le trajet gratuit sur le territoire belge. Pour cela, sélectionnez la réduction "100% Discount Belgium (SNCB)" pour les voyageurs. Cela permet par exemple de réserver très facilement des trajets de la Belgique vers Lille (hors `TGV`, tarif global et non exploité par la SNCB).
 {{% /booking %}}
 
-{{% booking id="db-website-fip-db" subtitle="Billets FIP 50 transfrontaliers valables uniquement pour la partie belge (DB)" /%}}
+{{% booking id="db-website-fip-db"
+  subtitle="Pour les trajets nationaux et internationaux. Billets FIP 50 transfrontaliers, avec une portion de billet uniquement pour le tronçon belge, destinés aux employés de la Deutsche Bahn."
+/%}}
 
-{{% booking id="db-website-fip-international" subtitle="Billets FIP 50 transfrontaliers valables pour l’ensemble du trajet (hors pays d’origine)" /%}}
+{{% booking id="db-website-fip-international"
+  subtitle="Pour les trajets nationaux et internationaux. Billets FIP 50 transfrontaliers pour l’ensemble du parcours (non valables dans le pays d’origine)."
+/%}}
 
 ### En gare
 
@@ -106,9 +110,7 @@ Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. L
 
 ### Aéroport de Bruxelles-Zaventem
 
-Un supplément de 6,70€ est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un coupon FIP, même si le message *"Pas de supplément requis"* figure sur le billet. \
-Ce supplément est inclus dans le prix d'un billet FIP 50. [^1] \
-[Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
+Un supplément de 6,70€ est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un coupon FIP, même si le message *"Pas de supplément requis"* figure sur le billet. Ce supplément est inclus dans le prix d'un billet FIP 50. [^1]  [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
 ## Recommandation
 

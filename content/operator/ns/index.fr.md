@@ -27,6 +27,7 @@ Les coupons FIP et billets FIP 50 sont valables sur les trains NS. Pour les traj
 ## Catégories de trains et réservations
 
 Aucune réservation n’est requise pour les trains NS aux Pays-Bas, et elle n’est généralement pas possible. Pour les trains internationaux `ICE` et `IC` vers l’Allemagne, la réservation est possible et sera obligatoire en été 2025 (uniquement pour les trajets transfrontaliers).
+
 Un supplément est nécessaire pour les trains Eurocity Direct et, partiellement, pour les trains Intercity Direct.
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category %}}
