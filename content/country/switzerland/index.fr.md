@@ -93,10 +93,6 @@ Sinon, le trafic frontalier est principalement assuré par des bus, où les bill
 
 L’Autriche et la Suisse ne possèdent qu’un véritable point frontière ferroviaire, situé à St. Margrethen. Ce point est principalement desservi par des trains régionaux, mais aussi par des EuroCity qui, côté autrichien, ne marquent arrêt qu’à Bregenz et proviennent généralement d’Allemagne (Munich). Un autre point frontière, moins conventionnel, se trouve à Buchs. Il s’agit en réalité du passage vers le Liechtenstein, mais les [billets FIP de l’ÖBB]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB") y sont également valables. Il est donc possible d’utiliser, par exemple, des coupons FIP de l’ÖBB et des CFF pour voyager sans interruption entre l’Autriche et la Suisse. La principale ligne entre ces deux pays passe par Buchs, où circulent notamment des trains Railjet autrichiens et des EuroCity reliant Vienne / Graz à Zurich, ainsi que des trains régionaux.
 
-## Évaluation FIP
-
-*À venir.*
-
 ## Sources
 
 [^1]: [SBB – validité du Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)

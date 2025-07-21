@@ -25,14 +25,14 @@ FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections.
 
 ## Train Categories and Reservations
 
-{{% expander "Intercity-Express (ICE)" category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Description:** \
 High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland. \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ⚠️" category %}}
+{{% expander "Train à Grande Vitesse (TGV) ⚠️" traincategory category %}}
 **Description:** \
 High-speed trains from France to Zurich via Basel. \
 Reservations are mandatory outside Switzerland and for cross-border journeys. \
@@ -40,7 +40,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Reservation required:** ⚠️ only for cross-border journeys
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" category %}}
+{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" traincategory category %}}
 **Description:** \
 International trains to Germany and Italy. \
 
@@ -52,14 +52,14 @@ Surcharge/Reservation: \
 **Reservation required:** ⚠️ only for the Italian section
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Description:** \
 Fast national trains stopping only in major cities and transfer stations. \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory category %}}
 **Description:** \
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others. \
 These trains sometimes also operate as Intercity, Eurocity, or regional trains, in which case no reservation is required for seat cars. \
@@ -67,14 +67,14 @@ These trains sometimes also operate as Intercity, Eurocity, or regional trains, 
 **Reservation required:** ⚠️ yes (not in seat cars when operating as Intercity, Eurocity, or regional trains)
 {{% /expander %}}
 
-{{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
+{{% expander "InterRegio (IR) / RegionalExpress (RE)" traincategory category %}}
 **Description:** \
 National trains stopping in larger cities. \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Regio (R) / S-Bahn (S)" category %}}
+{{% expander "Regio (R) / S-Bahn (S)" traincategory category %}}
 **Description:** \
 Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 **Reservation possible:** no

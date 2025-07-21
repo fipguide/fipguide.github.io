@@ -25,14 +25,14 @@ Les coupons FIP et les billets FIP 50 sont valables sans restriction sur les tra
 
 ## Catégories de trains et réservations
 
-{{% expander "Intercity-Express (ICE)" category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Description :** \
 Trains à grande vitesse en provenance d’Allemagne vers Bâle et parfois jusqu’à Zurich, Berne ou Interlaken. En raison de retards en Allemagne, ces trains terminent parfois leur trajet de façon imprévue à Bâle et sont remplacés par des trains de substitution en Suisse. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ⚠️" category %}}
+{{% expander "Train à Grande Vitesse (TGV) ⚠️" traincategory category %}}
 **Description :** \
 Trains à grande vitesse en provenance de France vers Zurich via Bâle. \
 La réservation est obligatoire hors de Suisse et pour les trajets transfrontaliers. \
@@ -40,7 +40,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 **Réservation obligatoire :** ⚠️ uniquement pour les trajets transfrontaliers
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" category %}}
+{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" traincategory category %}}
 **Description :** \
 Trains internationaux vers l’Allemagne et l’Italie. \
 
@@ -52,14 +52,14 @@ Supplément/Réservation : \
 **Réservation obligatoire :** ⚠️ uniquement pour la section italienne
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Description :** \
 Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gares de correspondance. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory category %}}
 **Description :** \
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb. \
 Ces trains circulent parfois aussi comme Intercity, Eurocity ou trains régionaux, auquel cas la réservation n’est pas requise pour les voitures à places assises. \
@@ -67,7 +67,7 @@ Ces trains circulent parfois aussi comme Intercity, Eurocity ou trains régionau
 **Réservation obligatoire :** ⚠️ oui (sauf dans les voitures à places assises lorsqu’ils circulent comme Intercity, Eurocity ou trains régionaux)
 {{% /expander %}}
 
-{{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
+{{% expander "InterRegio (IR) / RegionalExpress (RE)" traincategory category %}}
 **Description :** \
 Trains nationaux s’arrêtant dans les grandes villes. \
 **Réservation possible :** oui \
