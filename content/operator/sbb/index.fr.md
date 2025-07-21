@@ -74,7 +74,7 @@ Trains nationaux s’arrêtant dans les grandes villes. \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Regio (R) / S-Bahn (S)" category %}}
+{{% expander "Regio (R) / S-Bahn (S)" traincategory category %}}
 **Description :** \
 Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aussi appelés S-Bahn. \
 **Réservation possible :** non
