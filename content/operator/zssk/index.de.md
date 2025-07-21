@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ZSR / ZSSK"
+title: "ZSSK / ZSR"
 description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK."
 country:
   - "slovakia"
@@ -49,7 +49,6 @@ Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erb
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
-
 {{% expander "Eurocity (EC) / Railjet (RJ) ⚠️1️⃣ ℹ️" traincategory category %}}
 **Beschreibung:** \
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die `RJ` Züge sind Railjet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können. \
@@ -66,7 +65,6 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 **Kosten für Reservierung:** \
 Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
-
 
 {{% expander "Express (Ex) ⚠️1️⃣" traincategory category %}}
 **Beschreibung:** \
@@ -117,14 +115,17 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1€ Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1€ in der 2. und 3€ in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
 
-Kinder zwischen 6 und 16 Jahren haben unabhängig der Nationalität die Möglichkeit Freifahrten bei der ZSSK zu bekommen. Dies ist jedoch mit etwas Aufwand verbunden. Dazu wird benötigt:
+### Kostenfreie Fahrten für 6–16-Jährige (ohne FIP)
 
-- Foto (2x3cm) des Kindes
-- Ausweis des Kindes (wenn kein Ausweis vorhanden, ist auch die Kombination aus der Geburtsurkunde des Kindes sowie der Ausweis des Erziehungsberechtigten möglich)
+Um eine kostenfreie Fahrt für Kinder zwischen 6 und 16 Jahren zu erhalten, muss am Schalter ein Foto (2x3cm) sowie ein Identitätsnachweis (oder Geburtsurkunde plus Ausweis eines Elternteils) vorgelegt werden. Die Bearbeitung dauert bis zu drei Werktage, danach wird eine Bescheinigung ausgestellt, die im Zug vorgezeigt werden muss. Das kostenfreie Ticket (€0) kann anschließend auf der ZSSK-Website gebucht werden, indem „Begünstigter des 100%-Rabattes“ ausgewählt wird.
 
-Das Ganze muss dann vom Erziehungsberechtigten an einem Ticketschalter vorgelegt werden. Je nach vorhandenem System beim Schalter kann entweder sofort die Registrierung erfolgen oder es dauert bis zu 3 Arbeitstage. Am Ende bekommt man eine Bestätigung, das in den Zügen immer mitzuführen ist. Darüber hinaus wird immer noch ein Ticket benötigt, das über die [ZSSK-Website](https://www.zssk.sk/) mit Wahl der entsprechenden Reisegruppe (Wichtig: "Entitled for 100% discount" muss ausgewählt sein) für 0 Euro gebucht werden kann. Bei `EC` Zügen kommt noch eine Reservierungsgebühr von 1€ oben drauf, bei `SC` Zügen 5€. `IC` Züge und `RJ` Züge können nicht genutzt werden.[^1]
-Ohne den ganzen Aufwand können Kinder zwischen 6 und 16 Jahren mit 50% Rabatt reisen. Damit ist auch die Nutzung von `IC` Zügen mit 1€ Gebühr möglich, in `SC` Zügen 1€ in der 2. und 3€ in der 1. Klasse. Ein offizielles Dokument mit Foto, Alter, Geburtsdatum und (falls möglich) Geburtsnummer muss mitgeführt werden.[^1] \
-Für Kinder ab 16 Jahren gibt es keinen Rabatt, jedoch ist es für Studenten unter 26 Jahren und Rentner ab 62 Jahren aus der EU (sowie Studenten aus aller Welt, die in der Slowakei studieren) möglich ebenfalls Freifahrten zu bekommen, ähnlich wie Kinder zwischen 6 und 16 Jahren. Da dies nicht direkt mit FIP zu tun hat, verweisen wir hier auf die Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
+In `EC` Zügen: Zuschlag von 1 € pro Kind \
+In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
+In `IC` Zügen: Zuschlag mit obligatorischer Reservierung
+
+### Kostenfreie Fahrten für Studenten und Senioren (ohne FIP)
+
+Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internationale Studenten in der Slowakei können ebenfalls kostenfrei reisen. Details dazu finden sich auf der Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Tarifliche Besonderheiten
 
@@ -133,13 +134,14 @@ Für Kinder ab 16 Jahren gibt es keinen Rabatt, jedoch ist es für Studenten unt
 `D` Züge zwischen Bratislava und Wien können im gesamten Abschnitt (auch in Österreich) mit FIP Freifahrtscheinen der ZSSK genutzt werden. Alternativ gilt im österreichichen Abschnitt auch der FIP Freifahrtschein der ÖBB.
 
 ### Fahrtunterbrechung
+
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
 ### Busse und Ersatzverkehr
+
 Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
