@@ -53,6 +53,7 @@ support:
     href="/en/contact">contact form</a>.
   title: Support Us
 theme:
+  switch-to-auto: Switch to auto mode
   switch-to-dark: Switch to dark mode
   switch-to-light: Switch to light mode
 toc_name: Contents

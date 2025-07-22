@@ -1,3 +1,10 @@
-<button class="a-theme-toggle" aria-label="{{ T "theme.switch-to-dark" }}" type="button">
+<button
+    class="a-theme-toggle"
+    aria-label="{{ T "theme.switch-to-dark" }}"
+    data-switch-to-auto="{{ T "theme.switch-to-auto" }}"
+    data-switch-to-dark="{{ T "theme.switch-to-dark" }}"
+    data-switch-to-light="{{ T "theme.switch-to-light" }}"
+    type="button"
+>
     {{ partial "icon" "dark_mode" }}
 </button>

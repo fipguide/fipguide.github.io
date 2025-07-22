@@ -57,6 +57,7 @@ support:
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
 theme:
+  switch-to-auto: Zu automatischem Modus wechseln
   switch-to-dark: Zu dunklem Modus wechseln
   switch-to-light: Zu hellem Modus wechseln
 toc_name: Inhalt

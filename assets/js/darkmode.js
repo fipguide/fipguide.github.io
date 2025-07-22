@@ -48,27 +48,24 @@
 
   function updateToggleButtons(theme) {
     const toggleButtons = document.querySelectorAll('.a-theme-toggle');
-    const effectiveTheme = getEffectiveTheme(theme);
 
     toggleButtons.forEach(button => {
-      const icon = button.querySelector('.material-symbols-rounded');
-      if (icon) {
-        if (theme === AUTO_THEME) {
-          icon.textContent = 'brightness_auto';
-        } else if (theme === LIGHT_THEME) {
-          icon.textContent = 'light_mode';
-        } else {
-          icon.textContent = 'dark_mode';
-        }
+      let icon;
+      let label;
+      if (theme === AUTO_THEME) {
+        icon = 'brightness_auto';
+        label = button.dataset.switchToLight;
+      } else if (theme === LIGHT_THEME) {
+        icon = 'light_mode';
+        label = button.dataset.switchToDark;
+      } else if (theme === DARK_THEME) {
+        icon = 'dark_mode';
+        label = button.dataset.switchToAuto;
       }
 
-      let label;
-      if (theme === LIGHT_THEME) {
-        label = 'Switch to dark mode';
-      } else if (theme === DARK_THEME) {
-        label = 'Switch to auto mode';
-      } else {
-        label = 'Switch to light mode';
+      const iconElement = button.querySelector('.material-symbols-rounded');
+      if(iconElement) {
+        iconElement.textContent = icon;
       }
       button.setAttribute('aria-label', label);
     });
