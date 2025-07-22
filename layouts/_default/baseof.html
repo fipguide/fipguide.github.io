@@ -8,7 +8,11 @@
   </head>
   <body>
     <header id="header" class="o-header">{{ partialCached "header.html" . }}</header>
-    <main id="content" class="o-container{{ if .IsHome }} o-startpage{{ end }}">{{ block "main" . }}{{ end }}</main>
+    <main id="content" class="{{ if .IsHome }} o-startpage{{ end }}">
+      <div class="o-container">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </main>
     <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
     {{ if and (eq .Kind "page") (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
       {{ partial "snackbar" . }}
