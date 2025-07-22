@@ -8,7 +8,7 @@ params:
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-{{< snippet wip >}}
+{{< wip >}}
 
 ## FIP Nutzung
 
