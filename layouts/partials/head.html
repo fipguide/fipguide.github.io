@@ -26,21 +26,11 @@
 <link rel="mask-icon" type="image/x-icon" href="/favicon.ico">
 <link rel="canonical" href="{{ .Permalink }}"/>
 
-{{- $currentPage := . -}}
-{{- range .Site.Languages -}}
-  {{- $lang := . -}}
-  {{- if eq $lang.Lang $currentPage.Lang -}}
-    <link rel="alternate" hreflang="{{ $lang.Lang }}" href="{{ $currentPage.Permalink }}" />
-  {{- else -}}
-    {{- with $currentPage.Translations -}}
-      {{- range . -}}
-        {{- if eq .Lang $lang.Lang -}}
-          <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
+{{- range .AllTranslations -}}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  {{ if eq .Lang "en" }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+  {{ end }}
 {{- end -}}
-<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}" />
 
 {{ partial "structuredData" . }}

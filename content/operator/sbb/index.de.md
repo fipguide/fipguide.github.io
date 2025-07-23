@@ -11,7 +11,7 @@ Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, 
 ## Zusammenfassung
 
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und TGV-Züge ab der französischen Grenze
+- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und `TGV` Züge ab der französischen Grenze
 
 ## Gültigkeit FIP-Tickets
 
@@ -25,14 +25,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "Intercity-Express (ICE)" category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ⚠️" category %}}
+{{% expander "Train à Grande Vitesse (TGV) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
 Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig. \
@@ -40,7 +40,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" category %}}
+{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Internationale Züge Richtung Deutschland und Italien. \
 
@@ -52,14 +52,14 @@ Aufschlag/Reservierung: \
 **Reservierungspflicht:** ⚠️ nur für den italienischen Abschnitt
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" category %}}
+{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
 Die Züge verkehren teilweise zusätzlich auch als Intercity, Eurocity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
@@ -67,35 +67,34 @@ Die Züge verkehren teilweise zusätzlich auch als Intercity, Eurocity oder Regi
 **Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity, Eurocity und Regionalzügen)
 {{% /expander %}}
 
-{{% expander "InterRegio (IR) / RegionalExpress (RE)" category %}}
+{{% expander "InterRegio (IR) / RegionalExpress (RE)" traincategory category %}}
 **Beschreibung:** \
 Nationale Züge mit Halten in größeren Städten. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Regio (R) / S-Bahn (S)" category %}}
+{{% expander "Regio (R) / S-Bahn (S)" traincategory category %}}
 **Beschreibung:** \
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet. \
 **Reservierung möglich:** nein
 {{% /expander %}}
 
-
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-{{% booking id="sbb_website"/%}}
+{{% booking id="sbb-website"/%}}
 
-{{% booking id="db_website"/%}}
+{{% booking id="db-website"/%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
@@ -103,13 +102,13 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 ### Telefon
 
-{{% booking id="obb_phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
+{{% booking id="obb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
 
 ### Vor Ort
 
-{{% booking id="sbb_ticket_office"/%}}
+{{% booking id="sbb-ticket-office"/%}}
 
-{{% booking id="sbb_ticket_machine"/%}}
+{{% booking id="sbb-ticket-machine"/%}}
 
 ### Im Zug
 
@@ -127,14 +126,18 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, 
 
 ### Gegenseitige Anerkennung von Freifahrscheinen der SBB und BLS
 
-Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen.
-Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
 
 Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
-Grenzüberschreitende EC-Züge zwischen der Schweiz und Italien sowie TGV-Züge von und nach Frankreich sind aufpreispflichtig außerhalb der Schweiz. Hier gilt ein spezieller Globalpreis, der FIP-Freifahrtsschein oder ein FIP 50 Ticket sind nicht ausreichend. Innerhalb der Schweiz können diese Züge jedoch ohne besondere Aufschläge/Reservierungen genutzt werden. Beide Züge sind somit eine der wenigen Züge in der Schweiz, die eine Form der Reservierungspflicht aufweisen (wenn auch nur im Fahrtabschnitt außerhalb der Schweiz). Diese Reservierung mit Aufschlag bekommt man am besten in einem Reisezentrum vor Ort (in der Schweiz, Italien, Frankreich). Der Aufpreis kostet 11€ (2. Klasse) bzw. 13€ (1. Klasse) und kann am SBB Ticketschalter oder im Zug erworben werden.
+Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag erforderlich. \
+Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein  oder FIP 50 Ticket.
+- 2. Klasse: 11€
+- 1. Klasse: 13€
+
+Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug möglich.
 
 ## Empfehlungen
 

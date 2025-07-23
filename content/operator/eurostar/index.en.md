@@ -64,9 +64,6 @@ High-speed train from Amsterdam and Brussels to the French Alps. \
 **FIP:** ⛔ FIP is not accepted
 {{% /expander %}}
 
-The Eurostar Standard category corresponds to 2nd class. The Plus category corresponds to 1st class and can only be booked with a 1st class FIP card.
-FIP discounts are not available for the Eurostar Premiere category.
-
 {{% highlight tip %}}
 When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
 {{% /highlight %}}
@@ -83,30 +80,30 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 ### Online
 
-Online booking of tickets is currently not possible. \
-However, checking in, rebooking, canceling, and upgrading tickets is possible via the [Eurostar website](https://www.eurostar.com/).
+Online booking of tickets is currently not possible. However, checking in, rebooking, canceling, and upgrading tickets is possible via the [Eurostar website](https://www.eurostar.com/).
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="uk_mail" /%}}
+{{% booking id="uk-mail" /%}}
 
 ### Phone
 
-{{% booking id="eurostar_phone" %}}
+{{% booking id="eurostar-phone" %}}
 Occasionally, there may be issues when booking FIP tickets to or from London. In such cases, we recommend using an alternative booking method.
 {{% /booking %}}
 
-{{% booking id="cfl_phone"
+{{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
 ### On-site
 
-{{% booking id="ns_ticket_office"
+{{% booking id="ns-ticket-office"
     fip_50=nil
     fip_global_fare=true
     reservations=nil
 %}}
+
 **FIP Global Fare**
 
 When booking, the FIP cards of all travelers must be presented.
@@ -135,11 +132,13 @@ For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM
 #### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
 {{% highlight tip %}}
-Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) can be used.
+
+Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/en/am-i-eligible-for-hotnat/) can be used.
 
 If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
 
 HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
+
 {{% /highlight %}}
 
 #### London International CIV (Transfer in London)
@@ -175,7 +174,6 @@ FIP tickets to London International CIV can likely only be purchased at ticket c
 Without FIP discount, online booking is possible via [Trainsplit](https://trainsplit.com/). You must deselect the _Use Split Tickets_ option. Then, book a ticket from or to _London International (for Eurostar) (LNE)_. The fare must include _EURO_ in the name for connection protection. Otherwise, it is a regular ticket to London without connection protection. [^3]
 
 {{% /highlight %}}
-
 
 ## Sources
 

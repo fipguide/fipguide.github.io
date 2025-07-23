@@ -3,11 +3,18 @@ title: "Kontakt"
 description: "Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen und Anmerkungen erreichbar und freuen uns auf deinen Inhaltsbeitrag."
 ---
 
-<form action="https://api.web3forms.com/submit" method="POST" class="m-form" aria-label="Kontaktformular">
+<p>Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen und Anmerkungen erreichbar und freuen uns auf deinen Inhaltsbeitrag.</p>
+
+<p id="success">
+    Vielen Dank! Deine Nachricht wurde erfolgreich gesendet.
+    Wir melden uns schnellstmöglich zurück.
+</p>
+
+<form action="https://api.web3forms.com/submit" method="POST" class="m-form" aria-label="Kontaktformular" id="form">
     <input type="hidden" name="access_key" value="29293094-c9cc-48b7-9ff6-31b42534e211">
-    <input type="hidden" name="from_name" value="FIPGuide">
-    <input type="hidden" name="subject" value="New Message from FIPGuide">
-    <input type="hidden" name="redirect" value='{{< ref "success" >}}'>
+    <input type="hidden" name="from_name" value="FIP Guide">
+    <input type="hidden" name="subject" value="Neue Nachricht vom FIP Guide">
+    <input type="hidden" name="redirect" value='{{< ref "contact" >}}?success=true'>
 
     <label for="name">Name:
         <input type="text" id="name" name="name" autocomplete="name" required>
@@ -25,3 +32,14 @@ description: "Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen
 </form>
 
 Oder schreibe uns eine Mail: <a href="mailto:nextstop@fipguide.org">nextstop@fipguide.org</a>
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+
+    window.addEventListener("DOMContentLoaded", () => {
+        if (urlParams.get('success') === 'true') {
+            document.getElementById('form').style.display = "none";
+            document.getElementById('success').style.display = "block";
+        }
+    });
+</script>
