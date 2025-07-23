@@ -26,7 +26,6 @@ Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich.
 
 ## Zugkategorien und Reservierungen
 
-
 {{% highlight important %}}
 Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abfahrt zum FIP Globalpreis gekauft werden.
 {{% /highlight %}}
@@ -39,9 +38,9 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **FIP Globalpreis:**
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | ? € / 44,50 £ | ? € / 62 £ |
-| Brüssel - Amsterdam / Rotterdam  | ? € / 15,50 £ | ? € / 30,50 £ |
+| London - Paris / Brüssel | 39€ / 34,50 £ | 60€ / 52,50 £ |
+| London - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
+| Brüssel - Amsterdam / Rotterdam  | ?€ / 15,50 £ | ?€ / 30,50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
@@ -53,8 +52,8 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Relation    | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18 € | 35 € |
-| Fahrt zwischen 3 Ländern | 20 € | 40 € |
+| Fahrt zwischen 2 Ländern | 18€ | 35€ |
+| Fahrt zwischen 3 Ländern | 20€ | 40€ |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}
@@ -64,9 +63,6 @@ Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen. 
 **Reservierungspflicht:** ⚠️ ja \
 **FIP:** ⛔ FIP wird nicht anerkannt
 {{% /expander %}}
-
-Die Eurostar Kategorie Standard entspricht der 2. Klasse. Die Kategorie Plus entspricht der 1. Klasse und kann nur mit einem FIP Ausweis 1. Klasse gebucht werden.
-Für die Eurostar Kategorie Premiere sind keine FIP Vergünstigungen erhältlich.
 
 {{% highlight tip %}}
 Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel sind die Euro-Preise jedoch günstiger.
@@ -84,31 +80,30 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 ### Online
 
-Die Online-Buchung von Tickets ist bisher nicht möglich.
-Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
+Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="uk_mail" /%}}
+{{% booking id="uk-mail" /%}}
 
 ### Telefon
 
-{{% booking id="eurostar_phone" %}}
+{{% booking id="eurostar-phone" %}}
 Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
 {{% /booking %}}
 
-{{% booking id="cfl_phone"
+{{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
-
 ### Vor Ort
 
-{{% booking id="ns_ticket_office"
+{{% booking id="ns-ticket-office"
     fip_50=nil
     fip_global_fare=true
     reservations=nil
 %}}
+
 **FIP Globalpreis**
 
 Bei der Buchung muss der FIP Ausweis aller Reisenden vorgezeigt werden.

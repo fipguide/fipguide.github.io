@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SNCB"
+title: "SNCB / NMBS"
 description: "Informationen über die FIP-Bedingungen bei SNCB."
 country:
   - "belgium"
@@ -27,14 +27,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-{{% expander "InterCity Express (ICE)" traincategory category %}}
+{{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Beschreibung:** \
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "InterCity (IC)" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
 **Reservierung möglich:** nein \
@@ -80,23 +80,23 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` 
 
 ### Online
 
-{{% booking id="sncb_website" %}}
+{{% booking id="sncb-website" %}}
 Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem `TGV`, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den belgischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 /%}}
 
 ### Vor Ort
 
-{{% booking id="sncb_ticket_office" /%}}
+{{% booking id="sncb-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### Im Zug
 

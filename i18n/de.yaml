@@ -7,11 +7,11 @@ booking:
   classes:
     first: 1. Klasse
     second: 2. Klasse
+  fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
   fip-global-fare: FIP Globalpreis
   reservation: Reservierung
   reservation-costs: Reservierungskosten
-  title: Buchungsplattformen
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
 country:
@@ -21,8 +21,8 @@ country:
 countryselection: Länderauswahl
 editPage: Seite bearbeiten
 footer-love:
-  aria-label: Made with love in Frankfurt & Köln
-  text: Made with ♥️ in Frankfurt & Köln
+  aria-label: Made with love in Aachen, Frankfurt, Köln & Paris
+  text: Made with ♥️ in Aachen, Frankfurt, Köln & Paris
 general: Übergreifendes
 highlight:
   important: Wichtige Information

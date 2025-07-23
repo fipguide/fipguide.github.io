@@ -15,6 +15,7 @@ Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu geh�
 - FIP Freifahrtsscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
 - Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtsscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
+- Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es die gleichen FIP-Gloablpreise wie für inländische.
 
 ## Gültigkeit FIP Tickets
 
@@ -33,13 +34,16 @@ Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In andere
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
+Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt.
+
+Die internationalen AVE von / nach Frankreich sind zu den gleichen Konditionen wie inländische AVE buchbar, wobei es keine Premium Kategorie gibt. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
+
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):**
-- 10 € (Elige)
-- 13 € (Elige Confort)
-- 23,50€ (Premium)
+**FIP Globalpreis (Distanzunabhängig):** \
+Elige: 10€ \
+Elige Confort: 13€ \
+Premium: 23,50€
 {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
@@ -55,10 +59,10 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
 Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige)
-- 10 € (Elige Confort)
-- 23,50€ (Premium)
+**FIP Globalpreis (Distanzunabhängig):** \
+Elige: 6,50€ \
+Elige Confort: 10€ \
+Premium: 23,50€
 {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
@@ -66,9 +70,9 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtssche
 Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige)
-- 10 € (Elige Confort)
+**FIP Globalpreis (Distanzunabhängig):** \
+Elige: 6,50€ \
+Elige Confort: 10€
 {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
@@ -76,9 +80,17 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werde
 Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):**
-- 6,50 € (Elige)
-- 10 € (Elige Confort)
+**FIP Globalpreis (Distanzunabhängig):** \
+Elige: 6,50€ \
+Elige Confort: 10€
+{{% /expander %}}
+
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
+**Beschreibung:** \
+Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
+**Reservierung möglich:** ja \
+**Reservierungspflicht:** ⚠️ ja \
+**FIP Globalpreis (Distanzunabhängig):** 4€
 {{% /expander %}}
 
 ### Mittelstrecke
@@ -121,16 +133,6 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier une
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-### International
-
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "international" %}}
-**Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** 4€
-{{% /expander %}}
-
 ## Klassenkategorien
 
 **Elige Standard / Turista**: Vergleichbar mit der 2. Klasse. \
@@ -145,21 +147,22 @@ Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht mö
 
 ### Telefonisch
 
-Eine telefonische Buchung bei Renfe ist möglich, jedoch muss das Ticket innerhalb weniger Tage an einem spanischen Schalter abgeholt werden.
+Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotline wird man lediglich an Ticketschalter verwiesen, wenn man nach FIP-Tickets fragt.
 
 ### Vor Ort
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     fip_global_fare=true
     reservations="nil"
 %}}
+
 **FIP Globalpreis**
 
 In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
 ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
 {{% /booking %}}
 
-{{% booking id="renfe_ticket_office" /%}}
+{{% booking id="renfe-ticket-office" /%}}
 
 ### Im Zug
 
@@ -167,7 +170,7 @@ Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets
 
 ## Ermäßigungen
 
-Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40 % auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
+Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
 
 ## Tarifliche Besonderheiten
 

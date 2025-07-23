@@ -3,7 +3,7 @@ description: "Die Community-Website für alle Informationen zu FIP (internationa
 In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften aufgeführt."
 ---
 
-## Willkommen beim FIP Guide!
+# Willkommen beim FIP Guide!
 
 Finde relevante Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften.
 
