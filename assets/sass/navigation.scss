@@ -1,15 +1,13 @@
-#header {
+
+.o-header {
   position: sticky;
   width: 100%;
   top: 0;
   box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
-}
-
-.o-header {
   background-color: var(--bg-default);
   z-index: 5;
-  position: relative;
   height: 6rem;
+  padding-left: calc((100vw - 100%) / 2);
 }
 
 .o-header__wrapper {
