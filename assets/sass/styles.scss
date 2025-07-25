@@ -49,6 +49,7 @@ a {
 
 main {
   margin-top: 2rem;
+  padding-left: calc(100vw - 100%);
 }
 
 .o-container {
@@ -85,7 +86,7 @@ main {
   padding: 2rem;
 }
 
-main > .o-container:is(.o-single--with-sidemenu) {
+.o-single--with-sidemenu {
   background-color: unset;
   padding: 0;
 
@@ -139,6 +140,17 @@ img {
 .o-list__link {
   display: flex;
   align-items: center;
+}
+
+.o-list__countries{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+
+  @media (max-width: #{$breakpoint-lg}) {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 @mixin add-columns($columns) {
@@ -204,18 +216,13 @@ img {
     h1 {
       margin-bottom: 0;
     }
-
-    img {
-      max-height: 3.6rem;
-      width: auto;
-      border-radius: var(--border-radius-m);
-    }
   }
 
   &__content-header-title {
     display: flex;
     align-items: center;
     gap: 1.5rem;
+    font-size: 3rem;
   }
 
   &__news-image {
@@ -243,8 +250,9 @@ img {
 }
 
 .a-flag {
-  height: 2rem;
+  height: 1.3em;
   width: auto;
+  aspect-ratio: 1 / 1;
 }
 
 button:not(:disabled) {
@@ -260,4 +268,11 @@ hr {
 
 details > summary {
   cursor: pointer;
+}
+
+.a-operator-logo {
+  height: 1.3em;
+  width: auto;
+  aspect-ratio: 120 / 50;
+  border-radius: var(--border-radius-m)
 }
