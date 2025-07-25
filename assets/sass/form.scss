@@ -15,9 +15,8 @@
 
   input[type=text], input[type=email], select, textarea {
     margin-bottom: 1.6rem;
+    border: .2rem solid var(--link-default);
     border-radius: var(--border-radius-m);
-    border-width: .2rem;
-    border-color: var(--link-default);
     padding: 1.2rem;
     background-color: var(--bg-neutral);
     color: var(--body-color);
