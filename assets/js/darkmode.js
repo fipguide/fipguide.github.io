@@ -67,6 +67,7 @@
       if(iconElement) {
         iconElement.textContent = icon;
       }
+      button.setAttribute('title', label);
       button.setAttribute('aria-label', label);
     });
   }
