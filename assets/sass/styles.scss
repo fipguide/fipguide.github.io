@@ -49,6 +49,7 @@ a {
 
 main {
   margin-top: 2rem;
+  padding-left: calc(100vw - 100%);
 }
 
 .o-container {
@@ -85,7 +86,7 @@ main {
   padding: 2rem;
 }
 
-main > .o-container:is(.o-single--with-sidemenu) {
+.o-single--with-sidemenu {
   background-color: unset;
   padding: 0;
 
