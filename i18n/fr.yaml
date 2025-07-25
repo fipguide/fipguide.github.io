@@ -30,6 +30,12 @@ home-page-text: Page d'accueil du FIP Guide
 information-disclaimer-short: >-
   Les informations fournies sont non officielles et sans garantie. Il n'existe
   aucun lien juridique avec le FIP ou les compagnies ferroviaires.
+interactiveMap:
+  loading: Chargement de la carte interactive...
+  resetZoom: Réinitialiser le zoom
+  title: Carte interactive des pays
+  zoomIn: Zoom avant
+  zoomOut: Zoom arrière
 menu-close: Fermer
 menu-open: Menu
 navigate-to-country: Aller au pays

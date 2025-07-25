@@ -1,0 +1,61 @@
+.o-interactive-map {
+  &__wrapper {
+    position: relative;
+  }
+
+  &__container {
+    border-radius: var(--border-radius-m);
+    box-shadow: var(--box-shadow);
+    width: 100%;
+    aspect-ratio: 1 / 1;
+
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__controls {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    z-index: 10;
+  }
+
+  .o-interactive-map__country--available {
+    path {
+      fill: var(--link-default) !important;
+      transition: all 0.2s ease;
+      cursor: pointer;
+    }
+
+    &:hover path {
+      fill: var(--link-hovered) !important;
+    }
+  }
+
+  .o-interactive-map--loading {
+    padding: 1rem;
+  }
+
+  .o-interactive-map__controls button {
+    background-color: var(--link-default);
+    color: var(--bg-neutral);
+    border-radius: var(--border-radius-m);
+    border: 0;
+    width: 4rem;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background-color: var(--link-hovered);
+    }
+  }
+}

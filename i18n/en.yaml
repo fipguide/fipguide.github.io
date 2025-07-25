@@ -13,11 +13,13 @@ booking:
   reservation-costs: Reservation Costs
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+countries:
+  overview: All Countries
+  selection: choose country
 country:
   many: countries
   one: country
   other: countries
-countryselection: choose country
 editPage: Edit page
 footer-love:
   aria-label: Made with love in Aachen, Frankfurt, Cologne & Paris
@@ -31,6 +33,12 @@ home-page-text: FIP Guide Home Page
 information-disclaimer-short: >-
   The information provided is unofficial and without guarantee. There is no
   legal connection to FIP or railway companies.
+interactiveMap:
+  loading: Loading interactive map...
+  resetZoom: Reset Zoom
+  title: Interactive Country Map
+  zoomIn: Zoom In
+  zoomOut: Zoom Out
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country
