@@ -19,21 +19,13 @@
 </div>
 <div class="o-footer__line">
   <div>{{ T "information-disclaimer-short"}}</div>
-    <div class="o-language-switcher" >
-      <button class="o-language-switcher__button" aria-expanded="false" title="{{ T "language-switcher.aria-label" }}" aria-label='{{ T "language-switcher.aria-label" }}'>
-        <span class="o-language-switcher__current">{{ $.Site.Language.LanguageName }}</span>
-        <span class="o-language-switcher__icon">
-          {{ partial "icon" "keyboard_arrow_down" }}
-        </span>
-      </button>
-      <ul class="o-language-switcher__dropdown" aria-hidden="true">
+    <div class="o-language-switcher">
+      <select class="o-language-switcher__select" title='{{ T "language-switcher.aria-label" }}' aria-label='{{ T "language-switcher.aria-label" }}' onchange="window.location.href=this.value">
         {{ range .AllTranslations }}
-          <li class="o-language-switcher__item">
-            <a href="{{ .Permalink }}" class="o-language-switcher__link{{ if eq $.Site.Language .Language }} o-language-switcher__link--active{{ end }}">
-              {{ .Language.LanguageName }}
-            </a>
-          </li>
+          <option value="{{ .Permalink }}"{{ if eq $.Site.Language .Language }} selected{{ end }}>
+            {{ .Language.LanguageName }}
+          </option>
         {{ end }}
-      </ul>
+      </select>
     </div>
 </div>
