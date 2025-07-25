@@ -6,8 +6,7 @@
       {{ range .Pages }}
       <a href="{{ .RelPermalink }}" class="o-list__link">
         <div class="o-list__picture">
-          {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-          {{ partial "flag" $object }}
+          {{ partial "flag" (dict "country" .File.ContentBaseName) }}
         </div>
         <div>
           {{ .Title }}
