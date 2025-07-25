@@ -35,7 +35,10 @@ information-disclaimer-short: >-
   legal connection to FIP or railway companies.
 interactiveMap:
   loading: Loading interactive map...
+  resetZoom: Reset Zoom
   title: Interactive Country Map
+  zoomIn: Zoom In
+  zoomOut: Zoom Out
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country

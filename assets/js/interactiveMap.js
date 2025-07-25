@@ -22,6 +22,31 @@ window.initializeInteractiveMap = function() {
                 panzoom.zoomIn({ step: 0.5 });
             });
 
+            const zoomInBtn = document.querySelector('.o-interactive-map__zoom-in');
+            const zoomOutBtn = document.querySelector('.o-interactive-map__zoom-out');
+            const resetBtn = document.querySelector('.o-interactive-map__reset');
+
+            if (zoomInBtn) {
+                zoomInBtn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    panzoom.zoomIn({ step: 0.5 });
+                });
+            }
+
+            if (zoomOutBtn) {
+                zoomOutBtn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    panzoom.zoomOut({ step: 0.5 });
+                });
+            }
+
+            if (resetBtn) {
+                resetBtn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    panzoom.reset();
+                });
+            }
+
             // Add country click functionality
             const countries = svg.querySelectorAll('[id]');
             countries.forEach(country => {
