@@ -39,6 +39,8 @@ interactiveMap:
   title: Interactive Country Map
   zoomIn: Zoom In
   zoomOut: Zoom Out
+language-switcher:
+  aria-label: Switch language
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country
