@@ -38,6 +38,7 @@ interactiveMap:
   zoomOut: Zoom arrière
 language-switcher:
   aria-label: Changer de langue
+  dropdown-label: Langues disponibles
 menu-close: Fermer
 menu-open: Menu
 navigate-to-country: Aller au pays

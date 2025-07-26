@@ -42,6 +42,7 @@ interactiveMap:
   zoomOut: Herauszoomen
 language-switcher:
   aria-label: Sprache wechseln
+  dropdown-label: Verfügbare Sprachen
 menu-close: Schließen
 menu-open: Menü
 navigate-to-country: Gehe zu Land

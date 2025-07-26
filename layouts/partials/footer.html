@@ -20,16 +20,28 @@
 <div class="o-footer__line">
   <div>{{ T "information-disclaimer-short"}}</div>
     <div class="o-language-switcher" >
-      <button class="o-language-switcher__button" aria-expanded="false" title="{{ T "language-switcher.aria-label" }}" aria-label='{{ T "language-switcher.aria-label" }}'>
+      <button class="o-language-switcher__button"
+              aria-expanded="false"
+              aria-haspopup="listbox"
+              aria-controls="language-dropdown"
+              title="{{ T "language-switcher.aria-label" }}"
+              aria-label='{{ T "language-switcher.aria-label" }}'>
         <span class="o-language-switcher__current">{{ $.Site.Language.LanguageName }}</span>
         <span class="o-language-switcher__icon">
           {{ partial "icon" "keyboard_arrow_down" }}
         </span>
       </button>
-      <ul class="o-language-switcher__dropdown" aria-hidden="true">
+      <ul class="o-language-switcher__dropdown"
+          role="listbox"
+          id="language-dropdown"
+          aria-hidden="true"
+          aria-label="{{ T "language-switcher.dropdown-label" }}">
         {{ range .AllTranslations }}
-          <li class="o-language-switcher__item">
-            <a href="{{ .Permalink }}" class="o-language-switcher__link{{ if eq $.Site.Language .Language }} o-language-switcher__link--active{{ end }}">
+          <li class="o-language-switcher__item" role="option"{{ if eq $.Site.Language .Language }} aria-selected="true"{{ end }}>
+            <a href="{{ .Permalink }}"
+               class="o-language-switcher__link{{ if eq $.Site.Language .Language }} o-language-switcher__link--active{{ end }}"
+               {{ if eq $.Site.Language .Language }}aria-current="page"{{ end }}
+            >
               {{ .Language.LanguageName }}
             </a>
           </li>
