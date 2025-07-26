@@ -1,1 +1,59 @@
-{{ partial "menu" (dict "menuID" "main" "page" .) }}
+{{ $logo := resources.Get "images/logo.svg" }}
+<div class="o-container o-header__wrapper">
+  <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
+  <a href="/" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
+    <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
+  </a>
+  <div class="o-header__curtain"></div>
+  <div class="o-header__nav o-container">
+    <li class="o-header__item a-theme-toggle--mobile">
+      {{ partial "theme-toggle" }}
+    </li>
+    <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
+      <span>{{ T "menu-open" }}</span>
+      {{ partial "icon" "menu" }}
+    </button>
+    <nav>
+      <button class="o-nav__close-button" title="Menü schließen">
+        <span>{{ T "menu-close" }}</span>
+        {{ partial "icon" "close" }}
+      </button>
+      <menu>
+        <li class="o-header__item">
+          <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
+            <span>{{ T "countries.selection" }}</span>
+            {{ partial "icon" "keyboard_arrow_down" }}
+          </button>
+          <span id="menu-country-list-title">{{ T "country" }}</span>
+          <menu class="o-header__item-countries" aria-describedby="menu-country-list-title">
+            {{ range  where site.RegularPages "Section" "country"}}
+            <li class="o-header__item">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+          </menu>
+        </li>
+        <li class="o-header__item">
+          <span id="menu-general-list-title">{{ T "general" }}</span>
+          <ul aria-describedby="menu-general-list-title">
+            <li class="o-header__item a-theme-toggle--desktop">
+              {{ partial "theme-toggle" }}
+            </li>
+            {{ $news := site.GetPage "news" }}
+            {{ if $news }}
+            <li class="o-header__item">
+              <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+            </li>
+            {{ end }}
+            {{ $informationPage := site.GetPage "generalInformation" }}
+            {{ if $informationPage }}
+            <li class="o-header__item">
+              <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </li>
+      </menu>
+    </nav>
+  </div>
+</div>
