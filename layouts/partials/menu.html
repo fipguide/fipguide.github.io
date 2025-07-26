@@ -7,6 +7,9 @@
   </a>
   <div class="o-header__curtain"></div>
   <div class="o-header__nav o-container">
+    <li class="o-header__item a-theme-toggle--mobile">
+      {{ partial "theme-toggle" }}
+    </li>
     <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
       <span>{{ T "menu-open" }}</span>
       {{ partial "icon" "menu" }}
@@ -34,6 +37,9 @@
         <li class="o-header__item">
           <span id="menu-general-list-title">{{ T "general" }}</span>
           <ul aria-describedby="menu-general-list-title">
+            <li class="o-header__item a-theme-toggle--desktop">
+              {{ partial "theme-toggle" }}
+            </li>
             {{ $news := site.GetPage "news" }}
             {{ if $news }}
             <li class="o-header__item">

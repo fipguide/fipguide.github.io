@@ -59,6 +59,10 @@ support:
     GitHub</a> pour contribuer au contenu. Vous pouvez également nous écrire via
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
+theme:
+  switch-to-auto: Passer en mode automatique
+  switch-to-dark: Passer en mode sombre
+  switch-to-light: Passer en mode clair
 toc_name: Sommaire
 updateDate: Dernière mise à jour
 wip: >-

@@ -1,5 +1,5 @@
 .m-text-highlight {
-  background-color: #eee;
+  background-color: var(--bg-neutral);
   padding: 1.2rem;
   margin-bottom: 1.2rem;
   border-radius: var(--border-radius-m);
@@ -18,16 +18,16 @@
 }
 
 .m-text-highlight--tip {
-  background-color: #C4F2FF;
+  background-color: var(--highlight-color-tip);
   border-left: #1DB5DF solid 1rem;
 }
 
 .m-text-highlight--inofficial {
-  background-color: #F0F3F5;
+  background-color: var(--highlight-color-inofficial);
   border-left: #878C96 solid 1rem;
 }
 
 .m-text-highlight--important {
-  background-color: #FFE3D9;
+  background-color: var(--highlight-color-important);
   border-left: #BA3D12 solid 1rem;
 }
