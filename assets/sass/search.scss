@@ -22,7 +22,6 @@
         }
 
         &::placeholder {
-            color: var(--color-onLight);
             opacity: .5;
         }
     }
@@ -44,7 +43,7 @@
     }
 
     .pagefind-ui__drawer {
-        background-color: white;
+        background-color: var(--bg-default);
         padding: 0 1rem 1rem 1rem;
         overscroll-behavior: contain;
         height: 35rem;
