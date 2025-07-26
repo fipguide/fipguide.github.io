@@ -51,13 +51,12 @@ Bei Reservierungen die nicht zu einem entsprechenden Preis durch die PKP verkauf
 (Zum Festpreis und nur über die PKP buchbar)
 {{% /expander %}}
 
-{{% expander "Express InterCity (EIC) ⚠️" traincategory category %}}
+{{% expander "Express InterCity (EIC)" traincategory category %}}
 **Beschreibung:** \
 Komfortable Züge betrieben von PKP Intercity mit modernisierten Reisezugwagen mit Unterwegshalt nur in den wichtigsten Städten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3] \
 In der 1. und 2. Klasse gibt es ein kostenloses Wasser pro Person. \
-Die Züge sind immer reservierungspflichtig. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 
@@ -82,7 +81,7 @@ Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [
 Nachtzugverbindungen innerhalb Polen betrieben von PKP Intercity, aber auch Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine. \
 Die Züge werden in Polen teilweise als IC oder TLK geführt bzw. bei Verbindungen in die Ukraine als D. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ja \
+**Reservierungspflicht:** ja (in Schlaf- und Liegewagen) \
 **Kosten für Reservierung:** \
 Innerhalb Polens: \
 Schlafwagem: Single 299 PLN, Double 159 PLN, Triple 79 PLN \

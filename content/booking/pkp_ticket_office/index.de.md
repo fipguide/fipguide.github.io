@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die PKP Ticketschalter."
 
 params:
     classes:
-        first: "kostenlos"
-        second: "kostenlos"
+        first: "3 PLN"
+        second: "3 PLN"
     fip_50: true
     reservations: true
     additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html"
