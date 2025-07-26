@@ -189,15 +189,15 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
 
 ### Verkehr nach Italien
 
-Auf internationalen Fernzugverbindungen von Österreich nach Italien werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS auch im italienischen Abschnitt anerkannt, jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der ÖBB erworben werden.
+Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der ÖBB erworben werden.
 
 #### Brenner - Bozen - Verona
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Railjet Tarvisio Boscoverde - Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Eurocity Triest
 
