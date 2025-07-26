@@ -53,7 +53,7 @@
       let icon;
       let label;
       if (theme === AUTO_THEME) {
-        icon = 'brightness_auto';
+        icon = 'night_sight_auto';
         label = button.dataset.switchToLight;
       } else if (theme === LIGHT_THEME) {
         icon = 'light_mode';
