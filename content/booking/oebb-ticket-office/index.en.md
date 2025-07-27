@@ -14,6 +14,7 @@ params:
 
 aliases:
     - obb-ticket-office
+    - obb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}

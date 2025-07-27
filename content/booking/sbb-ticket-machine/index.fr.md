@@ -7,6 +7,9 @@ params:
     fip_50: true
     additional_info_link: "https://www.sbb.ch/fr/informations-voyages/gares/services-distributeurs-billets/distributeur-de-billets.html"
     type: "machine"
+
+aliases:
+  - sbb_ticket_machine
 ---
 
 {{% booking-section "fip_50" %}}

@@ -7,6 +7,9 @@ params:
     fip_global_fare: true
     additional_info_link: "https://www.eurostar.com/fr-fr/contactez-nous/coordonnees-de-contact"
     type: "phone"
+
+aliases:
+  - eurostar_phone
 ---
 
 **Tarif Global FIP**

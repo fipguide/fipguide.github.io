@@ -14,6 +14,7 @@ params:
 
 aliases:
     - obb-phone
+    - obb_phone
 ---
 
 ÖBB offers a booking hotline for tickets and reservations:
