@@ -10,6 +10,7 @@ params:
 
 aliases:
     - obb-ticket-machine
+    - obb_ticket_machine
 ---
 
 {{% booking-section "fip_50" %}}

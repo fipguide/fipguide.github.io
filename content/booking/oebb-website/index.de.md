@@ -14,6 +14,7 @@ params:
 
 aliases:
     - obb-website
+    - obb_website
 ---
 
 {{% booking-section "reservations" %}}

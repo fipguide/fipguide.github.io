@@ -8,6 +8,9 @@ params:
     fip_global_fare: true
     additional_info_link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
     type: "onsite"
+
+aliases:
+  - renfe_ticket_office
 ---
 
 {{% booking-section "fip_global_fare" %}}

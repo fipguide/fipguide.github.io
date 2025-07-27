@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
     type: "onsite"
+
+aliases:
+  - dsb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}

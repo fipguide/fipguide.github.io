@@ -7,6 +7,9 @@ params:
     fip_global_fare: true
     type: "email"
     fee: £10
+
+aliases:
+  - uk_mail
 ---
 
 **FIP Global Fare**

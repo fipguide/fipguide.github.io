@@ -12,6 +12,9 @@ params:
     booking_link: "https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE"
     additional_info_link: "https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung"
     type: "website"
+
+aliases:
+  - db_website_fip_international
 ---
 
 {{% booking-section "fip_50" %}}
