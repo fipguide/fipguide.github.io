@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.sbb.ch/fr/informations-voyages/gares/services-gare.html"
     type: "onsite"
+
+aliases:
+  - sbb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}

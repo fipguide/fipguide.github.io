@@ -13,6 +13,7 @@ params:
     type: "phone"
 
 aliases:
+    - obb_phone
     - obb-phone
 ---
 

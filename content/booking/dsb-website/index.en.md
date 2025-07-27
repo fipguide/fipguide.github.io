@@ -11,6 +11,9 @@ params:
     reservations: true
     booking_link: "https://www.dsb.dk/en/"
     type: "website"
+
+aliases:
+  - dsb_website
 ---
 
 {{% booking-section "reservations" %}}
