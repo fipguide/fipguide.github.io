@@ -8,6 +8,9 @@ params:
     reservations: true
     additional_info_link: "https://www.belgiantrain.be/en/station-information/nmbs-stations/ticket-offices"
     type: "onsite"
+
+aliases:
+  - sncb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}

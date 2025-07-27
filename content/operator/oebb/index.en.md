@@ -4,7 +4,10 @@ title: "ÖBB"
 description: "Information about FIP conditions at ÖBB."
 country:
     - "austria"
-operator: "obb"
+operator: "oebb"
+
+aliases:
+  - obb
 ---
 
 ÖBB (Austrian Federal Railways) is Austria’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
@@ -140,7 +143,7 @@ Railjet(Xpress) trains have special class categories:
 
 ### Online
 
-{{% booking id="obb-website" /%}}
+{{% booking id="oebb-website" /%}}
 
 {{% booking id="db-website" %}}
 Reservations for direct trains are cheaper via ÖBB.
@@ -160,13 +163,13 @@ Reservations for direct trains are cheaper via ÖBB.
 
 ### Phone
 
-{{% booking id="obb-phone" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
 
 ### On-Site
 
-{{% booking id="obb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="oebb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
 
-{{% booking id="obb-ticket-machine" /%}}
+{{% booking id="oebb-ticket-machine" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Incl. Nightjet Booking" %}}
 Reservations for direct trains are cheaper via ÖBB.

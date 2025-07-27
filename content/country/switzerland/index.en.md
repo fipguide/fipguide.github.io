@@ -85,13 +85,13 @@ On the Milan - Como - Switzerland route, it may be worthwhile to travel between 
 
 ### Liechtenstein
 
-Liechtenstein and Switzerland are only connected by a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the Austrian Federal Railways [(ÖBB)]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB"). ÖBB free passes and FIP 50 Tickets are valid up to the border point Buchs in Switzerland.
+Liechtenstein and Switzerland are only connected by a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the Austrian Federal Railways [(ÖBB)]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB"). ÖBB free passes and FIP 50 Tickets are valid up to the border point Buchs in Switzerland.
 
 Otherwise, cross-border traffic is mainly handled by buses, where FIP Tickets are not valid.
 
 ### Austria
 
-Austria and Switzerland have only one main border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich). Another border crossing is at Buchs, which is actually the border to Liechtenstein, but [ÖBB FIP Tickets]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB") are still valid in Liechtenstein. Thus, it is possible to have a continuous ticket between Austria and Switzerland with, for example, ÖBB and SBB Ccoupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
+Austria and Switzerland have only one main border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich). Another border crossing is at Buchs, which is actually the border to Liechtenstein, but [ÖBB FIP Tickets]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB") are still valid in Liechtenstein. Thus, it is possible to have a continuous ticket between Austria and Switzerland with, for example, ÖBB and SBB Ccoupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
 
 ## Sources
 

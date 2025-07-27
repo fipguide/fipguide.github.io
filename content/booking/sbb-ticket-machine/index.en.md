@@ -7,6 +7,9 @@ params:
     fip_50: true
     additional_info_link: "https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/sbb-ticket-machine.html"
     type: "machine"
+
+aliases:
+  - sbb_ticket_machine
 ---
 
 {{% booking-section "fip_50" %}}

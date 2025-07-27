@@ -22,7 +22,7 @@ params:
 
 ## FIP Nutzung
 
-In Österreich können Züge der [Österreichischen Bundesbahnen (ÖBB)]({{% ref "/operator/obb" %}} "ÖBB") mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.
+In Österreich können Züge der [Österreichischen Bundesbahnen (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.
 
 Außerdem gibt es weitere regionale Betriber von Nahverkehrszügen, die keine FIP Tickets akzeptieren. Diese nutzen genau wie die ÖBB die Zugkategorien `RE`, `REX` und `S`. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
@@ -74,7 +74,7 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Schweiz
 
-Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (Eurocity, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der [Zuschlag (10/15€)]({{< ref "/operator/obb#gültigkeit-fip-tickets" >}} "ÖBB Zuschlag") zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
+Aus Österreich ist mit FIP 50 ÖBB Ticket und FIP Freifahrt jeweils Buchs SG und St. Margreten erreichbar (Eurocity, Railjet und Nahverkehr), besonderheit ist bei der Einreise aus Deutschland zu beachten das im Abschnitt Lindau-St.Margreten Österreich als Transitland zu bezahlen ist, in der Theorie ist bei Fahrt mit FIP Coupon auch der [Zuschlag (10/15€)]({{< ref "/operator/oebb#gültigkeit-fip-tickets" >}} "ÖBB Zuschlag") zu bezahlen, es empfiehlt sich also FIP 50 für diesen Abschnitt zu buchen.
 
 ### Italien
 

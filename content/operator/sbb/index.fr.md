@@ -102,7 +102,7 @@ Avec les billets FIP 50, il est possible de réserver des trajets continus sur l
 
 ### Par téléphone
 
-{{% booking id="obb-phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
+{{% booking id="oebb-phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
 
 ### En gare
 

@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
     type: "onsite"
+
+aliases:
+  - zssk_ticket_office
 ---
 
 En Slovaquie, il existe un large réseau de guichets, même dans les petites gares. Il est recommandé de parler un peu slovaque ou tchèque, ou d’utiliser une application de traduction adaptée, car l’anglais est rarement parlé.
