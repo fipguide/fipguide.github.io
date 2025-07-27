@@ -189,15 +189,14 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 ### Traffic to Italy
 
-On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons, but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
+On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
 #### Brenner - Bolzano - Verona
-
-ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable.
+ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde - Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable.
+ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Eurocity Trieste
 
