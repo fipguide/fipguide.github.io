@@ -4,7 +4,10 @@ title: "ÖBB"
 description: "Information about FIP conditions at ÖBB."
 country:
     - "austria"
-operator: "obb"
+operator: "oebb"
+
+aliases:
+  - obb
 ---
 
 ÖBB (Austrian Federal Railways) is Austria’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
@@ -140,7 +143,7 @@ Railjet(Xpress) trains have special class categories:
 
 ### Online
 
-{{% booking id="obb-website" /%}}
+{{% booking id="oebb-website" /%}}
 
 {{% booking id="db-website" %}}
 Reservations for direct trains are cheaper via ÖBB.
@@ -160,13 +163,13 @@ Reservations for direct trains are cheaper via ÖBB.
 
 ### Phone
 
-{{% booking id="obb-phone" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
 
 ### On-Site
 
-{{% booking id="obb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="oebb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
 
-{{% booking id="obb-ticket-machine" /%}}
+{{% booking id="oebb-ticket-machine" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Incl. Nightjet Booking" %}}
 Reservations for direct trains are cheaper via ÖBB.
@@ -189,15 +192,14 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 ### Traffic to Italy
 
-On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons, but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
+On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
 #### Brenner - Bolzano - Verona
-
-ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable.
+ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde - Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable.
+ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Eurocity Trieste
 
