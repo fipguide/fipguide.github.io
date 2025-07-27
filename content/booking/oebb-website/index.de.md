@@ -11,6 +11,10 @@ params:
   booking_link: "https://shop.oebbtickets.at/de/ticket"
   additional_info_link: "https://www.oebb.at/de/reiseplanung-services/vor-ihrer-reise/reservierung-sitzplatz"
   type: "website"
+
+aliases:
+    - obb-website
+    - obb_website
 ---
 
 {{% booking-section "reservations" %}}
@@ -27,5 +31,5 @@ Auf der ÖBB Website muss zum Buchen einer Reservierung die Option: \
 "Nur Sitzplatzreservierung - Ich habe schon ein Ticket" \
 ausgewählt werden.
 
-![ÖBB Reservierung buchen](obb_reservation.webp)
+![ÖBB Reservierung buchen](oebb_reservation.webp)
 {{% /booking-section %}}

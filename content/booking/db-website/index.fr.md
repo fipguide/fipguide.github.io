@@ -11,6 +11,9 @@ params:
   booking_link: "https://int.bahn.de/fr"
   additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
   type: "website"
+
+aliases:
+  - db_website
 ---
 
 {{% booking-section "reservations" %}}

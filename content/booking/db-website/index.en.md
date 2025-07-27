@@ -11,6 +11,9 @@ params:
   booking_link: "https://int.bahn.de/en/"
   additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
   type: "website"
+
+aliases:
+  - db_website
 ---
 
 {{% booking-section "reservations" %}}

@@ -7,6 +7,9 @@ params:
     fip_50: true
     booking_link: "https://www.b-europe.com/FR"
     type: "website"
+
+aliases:
+  - sncb_website
 ---
 
 {{% booking-section "fip_50" %}}

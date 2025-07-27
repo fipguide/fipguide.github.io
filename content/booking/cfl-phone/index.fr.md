@@ -7,6 +7,9 @@ params:
     additional_info_link: "https://blogcfl.lu/fr/groupe-cfl/352-2489-2489-des-questions-un-numero-pour-vous-tenir-informes"
     type: "phone"
     fee: 5€
+
+aliases:
+  - cfl_phone
 ---
 
 La CFL propose une hotline de réservation auprès de laquelle les billets FIP 50 peuvent être achetés. Le service est disponible en luxembourgeois, français, allemand et anglais.
