@@ -11,6 +11,9 @@ params:
   booking_link: "https://www.bahn.de/"
   additional_info_link: "https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung"
   type: "website"
+
+aliases:
+  - db_website
 ---
 
 {{% booking-section "reservations" %}}

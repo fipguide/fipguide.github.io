@@ -12,6 +12,9 @@ params:
     booking_link: "https://www.sbb.ch/en"
     additional_info_link: "https://www.sbb.ch/en/tickets-offers/tickets/point-to-point-tickets-switzerland/seat-reservations.html"
     type: "website"
+
+aliases:
+  - sbb_website
 ---
 
 {{% booking-section "fip_50" %}}

@@ -102,7 +102,7 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 ### Telefon
 
-{{% booking id="obb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
+{{% booking id="oebb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
 
 ### Vor Ort
 

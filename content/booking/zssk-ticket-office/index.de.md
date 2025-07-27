@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
     type: "onsite"
+
+aliases:
+  - zssk_ticket_office
 ---
 
 In der Slowakei gibt es ein umfängliches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.
