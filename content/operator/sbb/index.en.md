@@ -102,7 +102,7 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route
 
 ### By Phone
 
-{{% booking id="obb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
+{{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
 
 ### On Site
 

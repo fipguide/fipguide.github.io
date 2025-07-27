@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter"
     type: "phone"
+
+aliases:
+    - obb-phone
 ---
 
 Die ÖBB bietet ein Buchungshotline für Tickets und Reservierungen an:

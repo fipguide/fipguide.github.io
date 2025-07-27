@@ -7,6 +7,9 @@ params:
     fip_50: true
     additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat"
     type: "machine"
+
+aliases:
+    - obb-ticket-machine
 ---
 
 {{% booking-section "fip_50" %}}
@@ -16,5 +19,5 @@ Tickets (including FIP 50 tickets) are cheaper if purchased in advance (1 day be
 
 For domestic journeys within Austria, tickets can be purchased at the ticket machine. Select “Domestic ticket with destination selection.” Then choose the „Ermäßigung“ and „Ändern“ buttons. As a discount, you can select „Mitarbeiterticket 50% / FIP-Inland“ or „at. Fbg /FIP Inland“ (at the very bottom).
 
-![FIP 50 tickets at the ÖBB ticket machine](obb_ticket_machine_fip_50.en.webp)
+![FIP 50 tickets at the ÖBB ticket machine](oebb_ticket_machine_fip_50.en.webp)
 {{% /booking-section %}}

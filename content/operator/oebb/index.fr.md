@@ -4,7 +4,10 @@ title: "ÖBB"
 description: "Informations sur les conditions FIP chez ÖBB."
 country:
     - "austria"
-operator: "obb"
+operator: "oebb"
+
+aliases:
+  - obb
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’Autriche et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
@@ -140,7 +143,7 @@ Dans les Railjet(Xpress) :
 
 ### En ligne
 
-{{% booking id="obb-website" /%}}
+{{% booking id="oebb-website" /%}}
 
 {{% booking id="db-website" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -160,13 +163,13 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 ### Par téléphone
 
-{{% booking id="obb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
 ### En gare
 
-{{% booking id="obb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
 
-{{% booking id="obb-ticket-machine" /%}}
+{{% booking id="oebb-ticket-machine" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.

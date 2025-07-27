@@ -85,13 +85,13 @@ Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand
 
 ### Liechtenstein
 
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und wird von den Österrischen Bundensbahnen [(ÖBB)]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs in der Schweiz auch Freifahrten und FIP 50 Tickets der ÖBB.
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und wird von den Österrischen Bundensbahnen [(ÖBB)]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs in der Schweiz auch Freifahrten und FIP 50 Tickets der ÖBB.
 
 Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
 ### Österreich
 
-Österreich und die Schweiz haben nur einen richtigen Grenzübergang, nämlich in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren. Ein nicht ganz so richtiger Grenzübergang befindet sich jedoch auch bei Buchs. Hier ist eigentlich der Grenzübergang zu Liechtenstein, allerdings gelten in dem Land noch [FIP-Tickets der ÖBB]({{< ref "/operator/obb#lichtenstein" >}} "ÖBB"). Es ist somit möglich mit beispielsweise FIP-Freifahrttsscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
+Österreich und die Schweiz haben nur einen richtigen Grenzübergang, nämlich in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren. Ein nicht ganz so richtiger Grenzübergang befindet sich jedoch auch bei Buchs. Hier ist eigentlich der Grenzübergang zu Liechtenstein, allerdings gelten in dem Land noch [FIP-Tickets der ÖBB]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB"). Es ist somit möglich mit beispielsweise FIP-Freifahrttsscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
 ## Quellen
 
