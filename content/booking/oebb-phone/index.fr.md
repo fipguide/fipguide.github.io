@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
     type: "phone"
+
+aliases:
+    - obb-phone
 ---
 
 ÖBB propose une hotline pour la réservation de billets et de places :

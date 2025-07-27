@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/bahnhofsinformation"
     type: "onsite"
+
+aliases:
+    - obb-ticket-office
 ---
 
 {{% booking-section "fip_50" %}}

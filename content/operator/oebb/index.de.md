@@ -4,7 +4,10 @@ title: "ÖBB"
 description: "Informationen über die FIP-Bedingungen bei den ÖBB."
 country:
   - "austria"
-operator: "obb"
+operator: "oebb"
+
+aliases:
+  - obb
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft Österreichs und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
@@ -140,7 +143,7 @@ In Railjet(Xpress)-Zügen gibt es abweichende Klassenkategorien:
 
 ### Online
 
-{{% booking id="obb-website" /%}}
+{{% booking id="oebb-website" /%}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -160,13 +163,13 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="obb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
 ### Vor Ort
 
-{{% booking id="obb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
 
-{{% booking id="obb-ticket-machine" /%}}
+{{% booking id="oebb-ticket-machine" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
