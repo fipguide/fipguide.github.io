@@ -144,7 +144,7 @@
   text-decoration: none;
 }
 
-.o-header__expand-button:has(~ .o-header__item-countries--open) svg {
+.o-header__expand-button:has(~ .o-header__item-countries--open) .material-symbols-rounded {
   transform: rotate(180deg);
 }
 
