@@ -4,7 +4,10 @@ title: "ÖBB"
 description: "Informationen über die FIP-Bedingungen bei den ÖBB."
 country:
   - "austria"
-operator: "obb"
+operator: "oebb"
+
+aliases:
+  - obb
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft Österreichs und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
@@ -140,7 +143,7 @@ In Railjet(Xpress)-Zügen gibt es abweichende Klassenkategorien:
 
 ### Online
 
-{{% booking id="obb-website" /%}}
+{{% booking id="oebb-website" /%}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -160,13 +163,13 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="obb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
 ### Vor Ort
 
-{{% booking id="obb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
 
-{{% booking id="obb-ticket-machine" /%}}
+{{% booking id="oebb-ticket-machine" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -189,15 +192,15 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
 
 ### Verkehr nach Italien
 
-Auf internationalen Fernzugverbindungen von Österreich nach Italien werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS auch im italienischen Abschnitt anerkannt, jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der ÖBB erworben werden.
+Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der ÖBB erworben werden.
 
 #### Brenner - Bozen - Verona
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Railjet Tarvisio Boscoverde - Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Eurocity Triest
 

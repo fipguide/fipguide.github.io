@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-bahnhof.html"
     type: "onsite"
+
+aliases:
+  - sbb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}

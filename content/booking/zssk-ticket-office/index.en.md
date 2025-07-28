@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
     type: "onsite"
+
+aliases:
+  - zssk_ticket_office
 ---
 
 In Slovakia, there is an extensive network of ticket counters even at smaller stations. It is advantageous to speak some Slovak or Czech or have the appropriate translator app, as English is often not widely spoken.

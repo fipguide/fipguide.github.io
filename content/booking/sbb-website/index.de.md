@@ -12,6 +12,9 @@ params:
     booking_link: "https://www.sbb.ch/"
     additional_info_link: "https://www.sbb.ch/de/billette-angebote/billette/streckenbillette-schweiz/sitzplatzreservierung.html"
     type: "website"
+
+aliases:
+  - sbb_website
 ---
 
 {{% booking-section "fip_50" %}}

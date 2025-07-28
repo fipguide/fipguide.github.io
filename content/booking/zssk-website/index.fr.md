@@ -11,6 +11,9 @@ params:
     reservations: true
     booking_link: "https://www.zssk.sk/en/"
     type: "website"
+
+aliases:
+  - zssk_website
 ---
 
 {{% booking-section "fip_50" %}}

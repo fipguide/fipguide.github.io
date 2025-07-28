@@ -8,6 +8,9 @@ params:
     reservations: true
     additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
     type: "onsite"
+
+aliases:
+  - ns_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}
