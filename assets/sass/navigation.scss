@@ -95,8 +95,13 @@
 .o-header__item {
   list-style: none;
   height: 6rem;
+  display: flex;
+  align-items: center;
 
-  //normales Menü
+  @media (max-width: #{$breakpoint-md}) {
+    display: block;
+  }
+
   ul {
     display: flex;
     margin: 0;
@@ -109,13 +114,13 @@
 .o-nav__close-button {
   display: inline-flex;
   padding: 1rem;
-  margin: .6rem;
   border: none;
   background: none;
   width: fit-content;
   text-align: right;
   color: var(--color-body);
   font-weight: 700;
+  height: fit-content;
 
   &:hover,
   &:focus {
@@ -139,7 +144,7 @@
   text-decoration: none;
 }
 
-.o-header__expand-button:has(~ .o-header__item-countries--open) svg {
+.o-header__expand-button:has(~ .o-header__item-countries--open) .material-symbols-rounded {
   transform: rotate(180deg);
 }
 
@@ -156,6 +161,7 @@
     background-color: var(--bg-default);
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
+    top: 6rem;
 
     &.o-header__item-countries--open {
       display: grid;
@@ -195,11 +201,11 @@
     height: 100%;
     z-index: 4;
     background-color: var(--bg-default);
-    padding: 0 1rem;
+    padding: 1rem;
     overflow-y: scroll;
 
     > menu {
-      margin-top: 5rem;
+      margin-top: 4rem;
     }
 
     ul,
@@ -227,6 +233,13 @@ body:has(.o-header__nav--open) {
   overflow: hidden;
 }
 
+.o-header__item-wrapper {
+  @media (min-width: #{$breakpoint-md}) {
+    display: flex;
+    gap: 1rem;
+  }
+}
+
 #menu-country-list-title,
 #menu-general-list-title {
   padding-right: 1rem;
@@ -244,13 +257,13 @@ body:has(.o-header__nav--open) {
 }
 
 .a-theme-toggle {
-  padding: 1.2rem;
-  margin: 0.6rem;
+  padding: 1rem;
   border: none;
   background: transparent;
   width: fit-content;
   color: var(--color-body);
   transition: color 0.3s ease;
+  height: fit-content;
 
   &:hover {
     color: var(--link-hovered);

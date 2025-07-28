@@ -1,7 +1,8 @@
+
 {{ $logo := resources.Get "images/logo.svg" }}
 <div class="o-container o-header__wrapper">
   <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
-  <a href="/" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
+  <a href="{{ .Site.BaseURL | relLangURL }}" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
     <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
   </a>
   <div class="o-header__curtain"></div>
@@ -35,7 +36,7 @@
         </li>
         <li class="o-header__item">
           <span id="menu-general-list-title">{{ T "general" }}</span>
-          <ul class="o-header__item-wrapper" aria-describedby="menu-general-list-title">
+          <ul aria-describedby="menu-general-list-title">
             <li class="o-header__item a-theme-toggle--desktop">
               {{ partial "theme-toggle" }}
             </li>
