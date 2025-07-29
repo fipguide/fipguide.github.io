@@ -203,6 +203,7 @@
     background-color: var(--bg-default);
     padding: 1rem;
     overflow-y: scroll;
+    border-left: var(--border);
 
     > menu {
       margin-top: 4rem;
