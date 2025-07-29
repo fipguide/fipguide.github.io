@@ -5,16 +5,19 @@ description: "Informations sur les conditions FIP en Autriche et les opérateurs
 country: "austria"
 params:
   operators_without_fip:
-    - RegioJet
-    - Westbahn
-    - GKB
-    - NÖVOG
-    - Steiermärkische Landesbahnen
-    - Zillertalbahn
-    - Pinzgauer Lokalbahn
-    - Montafonerbahn
     - Achenseebahn
+    - '[CAT (City Airport Train) Vienne]({{< ref "/operator/oebb#aéroport-de-vienne--city-airport-train-cat" >}} "CAT")'
+    - GKB
+    - Graz–Köflacher Bahn
+    - Montafonerbahn
+    - NÖVOG
+    - Pinzgauer Lokalbahn
+    - RegioJet
     - Salzburger Lokalbahn
+    - Steiermärkische Landesbahnen
+    - WESTbahn
+    - Wiener Lokalbahn (Badner Bahn)
+    - Zillertalbahn
 ---
 
 ## Informations FIP

@@ -173,7 +173,7 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les
 
 ## Conditions tarifaires spécifiques
 
-### Interruption de trajet
+### Arrêts intermédiaires
 
 Les trajets avec billets FIP 50 ou FIP Global ne peuvent pas être interrompus. [^2]
 

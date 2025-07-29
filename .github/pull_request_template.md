@@ -10,3 +10,4 @@
 The content was modified in the following languages: <!-- Der Inhalt wurde für die folgenden Sprachen angepasst -->
 - [ ] English
 - [ ] German
+- [ ] French

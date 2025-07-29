@@ -256,9 +256,9 @@ Avec un coupon FIP, la navette auto du tunnel du Tauern (Böckstein–Mallnitz-O
 
 La réduction FIP 50 n’est pas disponible.
 
-### Interruption de trajet
+### Arrêts intermédiaires
 
-L’interruption de trajet est possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
+Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
 
 ### Distinction entre trains locaux et grandes lignes
 

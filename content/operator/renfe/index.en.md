@@ -173,7 +173,7 @@ Children under 4 years travel free of charge without their own seat. For childre
 
 ## Special Tariff Conditions
 
-### Interruption of Travel
+### Break of journey
 
 With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted along the way.[^2]
 

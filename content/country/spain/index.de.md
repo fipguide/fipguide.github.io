@@ -7,7 +7,7 @@ params:
   operators_without_fip:
     - Iryo
     - OUIGO
-    - '[Avlo]({{< ref "/operator/renfe" >}} "Avlo")'
+    - '[Avlo]({{< ref "/operator/renfe#langstrecke" >}} "Avlo")'
 ---
 
 ## FIP Nutzung

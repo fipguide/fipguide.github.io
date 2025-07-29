@@ -5,16 +5,19 @@ description: "Informationen über die FIP-Bedingungen für Österreich und für 
 country: "austria"
 params:
   operators_without_fip:
-    - RegioJet
-    - Westbahn
-    - GKB
-    - NÖVOG
-    - Steiermärkische Landesbahnen
-    - Zillertalbahn
-    - Pinzgauer Lokalbahn
-    - Montafonerbahn
     - Achenseebahn
+    - '[CAT (City Airport Train) Wien]({{< ref "/operator/oebb#wien-flughafen-city-airport-train-cat" >}} "CAT")'
+    - GKB
+    - Graz–Köflacher Bahn
+    - Montafonerbahn
+    - NÖVOG
+    - Pinzgauer Lokalbahn
+    - RegioJet
     - Salzburger Lokalbahn
+    - Steiermärkische Landesbahnen
+    - WESTbahn
+    - Wiener Lokalbahn (Badner Bahn)
+    - Zillertalbahn
 ---
 
 ## FIP Nutzung
