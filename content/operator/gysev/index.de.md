@@ -62,11 +62,11 @@ Nahverkehrszug mit Halten and den meisten Stationen.
 
 ### Telefon
 
-{{% booking id="obb-phone" reservations=nil /%}}
+{{% booking id="oebb-phone" reservations=nil /%}}
 
 ### Vor Ort
 
-{{% booking id="obb-ticket-office" reservations=nil /%}}
+{{% booking id="oebb-ticket-office" reservations=nil /%}}
 
 ### Im Zug
 
