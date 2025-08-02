@@ -47,6 +47,11 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
+| Deutschland (DB AG) | Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Vejprty (Gr), Vojtanov (Gr) |
+| Österreich (ÖBB) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
+| Polen (PKP) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
+| Slowakei (ŽSR) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+
 {{% /expander %}}
 
 ### <Name des Nachbarlandes>
