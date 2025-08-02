@@ -100,7 +100,7 @@ When using a SNCB FIP Coupon, a cross-border ticket can be booked via the websit
 
 ### On the train
 
-If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. According to SNCB, a surcharge of 9 euros is charged here. [^2]
+If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. The usual SNCB surcharge for on-board sales is not charged in this case. [^2]
 
 ## Discounts
 
@@ -121,4 +121,4 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-[^2]: [SNCB On-board Fare](https://www.belgiantrain.be/en/tickets-and-railcards/on-board-fare)
+[^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
