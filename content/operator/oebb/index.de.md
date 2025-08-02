@@ -4,6 +4,7 @@ title: "ÖBB"
 description: "Informationen über die FIP-Bedingungen bei den ÖBB."
 country:
   - "austria"
+  - "liechtenstein"
 operator: "oebb"
 
 aliases:
