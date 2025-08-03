@@ -111,13 +111,13 @@ Regionalzugverbindungen betrieben von Polregio mit Halten an den meisten Bahnhö
 
 ### Online
 
-{{% booking id="pkp_website"
+{{% booking id="pkp-website"
     subtitle="Für nationale Verbindungen und grenzüberschreitende Verbindungen inkl. EIP"
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% /booking %}}
 
-{{% booking id="koleo_website"
+{{% booking id="koleo-website"
     subtitle="Für nationale Verbindungen Verbindungen inkl. EIP"
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
@@ -125,25 +125,25 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polregio.pl/) gebucht werden. Die Funktionsweise ist identisch zu Koleo.
 {{% /booking %}}
 
-{{% booking id="db_website"
+{{% booking id="db-website"
     subtitle="Außer EIP"
 /%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den polnischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 /%}}
 
 ### Vor Ort
 
-{{% booking id="pkp_ticket_office" /%}}
+{{% booking id="pkp-ticket-office" /%}}
 
-{{% booking id="pkp_ticket_machine" /%}}
+{{% booking id="pkp-ticket-machine" /%}}
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     subtitle="Außer EIP"
 /%}}
 
