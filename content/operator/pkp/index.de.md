@@ -12,8 +12,8 @@ Die polnische Staatsbahn - PKP (Polskie Koleje Państwowe) betreiben mit ihren T
 ## Zusammenfassung
 
 - PKP akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht für EIP und EIC sowie teilweise in IC und TLK Züge
-- Gültigkeit der PKP FIP-Tickets auch in S-Bahn Systemen von Warschau, Danzig/Gdingen und Masowien sowie einigen Strecken der Koleje Dolnośląskie (KD)
+- Reservierungspflicht für EIP und EIC sowie teilweise in IC und TLK Zügen
+- Gültigkeit der PKP FIP-Tickets auch in S-Bahn Systemen von Warschau und Danzig (Dreistadt), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD)
 
 ## Gültigkeit FIP-Tickets
 
@@ -21,12 +21,12 @@ FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
-FIP Freifahrtscheine und FIP 50 Tickets sind bei PKP gültig. Dazu gehören auch:
+FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören auch:
 - PKP InterCity
 - POLREGIO S.A
-- Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Region Masowien)
+- Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
-- Warszawska Kolej Dojazdowa (KD) (S-Bahnen im Großraum Warschau)
+- Warszawska Kolej Dojazdowa (WKD) (S-Bahnen im Großraum Warschau)
 - Einige Strecken der Koleje Dolnośląskie (KD). [Mehr Informationen]({{< ref "/operator/kd" >}} "KD")
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -34,16 +34,16 @@ Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticke
 ## Zugkategorien und Reservierungen
 
 {{% highlight important %}}
-Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspflicht gilt für die Züge für alle EIP und EIC Züge sowie teilweise für IC und TLK Züge.
+Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspflicht gilt für alle EIP und EIC Züge sowie teilweise für IC und TLK Züge.
 {{% /highlight %}}
 
 {{% expander "Express Intercity Premium (EIP) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Hochgeschwindigkeitszug mit Neigetechnik (Pendolino) betrieben von PKP Intercity, die Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren. \
-In der 1. Klasse sind Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2] \
-Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden!
+Hochgeschwindigkeitszug mit Neigetechnik (Pendolino) betrieben von PKP Intercity, die hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind. \
+In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2] \
+Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
 
-Bei Reservierungen die nicht zu einem entsprechenden Preis durch die PKP verkauft wurden, kann die Zahlung eines Zuschlags an Bord des Zuges erforderlich sein. [^1] \
+Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkauft wurden, kann die Zahlung eines Zuschlags an Bord des Zuges erforderlich sein. [^1] \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **Kosten für Reservierung:** \
@@ -53,10 +53,11 @@ Bei Reservierungen die nicht zu einem entsprechenden Preis durch die PKP verkauf
 
 {{% expander "Express InterCity (EIC)" traincategory category %}}
 **Beschreibung:** \
-Komfortable Züge betrieben von PKP Intercity mit modernisierten Reisezugwagen mit Unterwegshalt nur in den wichtigsten Städten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3] \
-In der 1. und 2. Klasse gibt es ein kostenloses Wasser pro Person. \
+Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3] \
+In der 1. und 2. Klasse gibt es eine kostenlose Flasche Wasser pro Person. \
+Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
+**Reservierungspflicht:** ⚠️ teilweise
 {{% /expander %}}
 
 
@@ -71,14 +72,14 @@ Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [
 {{% expander "Twoje Linie Kolejowe (TLK) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Überregionale Züge betrieben von PKP Intercity mit besonders günstigen Ticketpreisen mit einfachen Komfortmerkmalen. [^5] \
-Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
+Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ teilweise
 {{% /expander %}}
 
 {{% expander "EuroNight (EN) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Nachtzugverbindungen innerhalb Polen betrieben von PKP Intercity, aber auch Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine. \
+Nachtzugverbindungen innerhalb Polens betrieben von PKP Intercity, aber auch Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine. \
 Die Züge werden in Polen teilweise als IC oder TLK geführt bzw. bei Verbindungen in die Ukraine als D. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ja (in Schlaf- und Liegewagen) \
@@ -96,7 +97,7 @@ Regionalzugverbindungen betrieben von Polregio mit Halten an den meisten Bahnhö
 
 ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen") \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse
+**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse (meistens fahren die Züge nur mit 2. Klasse)
 {{% /expander %}}
 
 {{% expander "superREGIO (sR) ⚠️" traincategory category %}}

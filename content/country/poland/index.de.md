@@ -14,6 +14,11 @@ params:
 
 ## FIP Nutzung
 
+Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP]({{< ref "/operator/pkp" >}} "PKP") (Polskie Koleje Państwowe), die fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehören zur PKP auch die S-Bahn Systeme von Warschau und Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
+- [KD]({{< ref "/operator/kd" >}} "KD") (Koleje Dolnośląskie)
+- Koleje Śląskie (KS)
+- Koleje Wielkopolskie (KW)
+- Łódzka Kolej Aglomeracyjna (ŁKA)
 <!--
     Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
     - Welche FIP Fahrtkarten (FIP 50/FIP Freifahrtsscheine) werden im Land anerkannt und bei welchen Bahngesellschaften?
