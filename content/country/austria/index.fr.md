@@ -19,7 +19,7 @@ params:
 
 ## Informations FIP
 
-En Autriche, les trains des [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/obb" %}} "ÖBB") sont accessibles avec les billets FIP. Westbahn et RegioJet exploitent également des trains grandes lignes en parallèle avec l’ÖBB, mais ne sont pas utilisables avec des billets FIP. Dans les planificateurs de trajet, ces trains sont abrégés en `IC` ou `WB` (à ne pas confondre avec les `IC` de l’ÖBB).
+En Autriche, les trains des [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") sont accessibles avec les billets FIP. Westbahn et RegioJet exploitent également des trains grandes lignes en parallèle avec l’ÖBB, mais ne sont pas utilisables avec des billets FIP. Dans les planificateurs de trajet, ces trains sont abrégés en `IC` ou `WB` (à ne pas confondre avec les `IC` de l’ÖBB).
 
 Il existe aussi plusieurs opérateurs régionaux de trains locaux qui n’acceptent pas les billets FIP. Ils utilisent souvent les mêmes catégories que l’ÖBB : `RE`, `REX` et `S`. En cas de doute, consultez le site de l’opérateur ou [Bahn.de](https://int.bahn.de/fr/).
 
@@ -71,7 +71,7 @@ Sinon, un billet FIP GySEV est requis pour les lignes GySEV.
 
 ### Suisse
 
-Depuis l’Autriche, les gares de Buchs SG et St. Margrethen sont accessibles avec des billets FIP 50 ÖBB ou coupons FIP (EuroCity, Railjet, trains locaux). Attention : si vous entrez depuis l’Allemagne, le tronçon Lindau–St. Margrethen est considéré comme un transit via l’Autriche. Dans ce cas, un [supplément (10 €/15 €)]({{< ref "/operator/obb#validité-des-billets-fip" >}} "Supplément ÖBB") est théoriquement dû avec un coupon FIP — il est donc recommandé d’utiliser un billet FIP 50 pour cette section.
+Depuis l’Autriche, les gares de Buchs SG et St. Margrethen sont accessibles avec des billets FIP 50 ÖBB ou coupons FIP (EuroCity, Railjet, trains locaux). Attention : si vous entrez depuis l’Allemagne, le tronçon Lindau–St. Margrethen est considéré comme un transit via l’Autriche. Dans ce cas, un [supplément (10 €/15 €)]({{< ref "/operator/oebb#validité-des-billets-fip" >}} "Supplément ÖBB") est théoriquement dû avec un coupon FIP — il est donc recommandé d’utiliser un billet FIP 50 pour cette section.
 
 ### Italie
 
@@ -95,6 +95,7 @@ Deux lignes locales relient la Slovaquie à l’Autriche :
 Pour les deux, un billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \
 En complément, 4 paires de trains `D` relient Vienne à Bratislava hl.st. (également à partir du 10/10/2025). \
 Ces trains peuvent être utilisés :
+
 - avec un coupon FIP ÖBB jusqu’à la frontière, ou
 - avec un coupon FIP ZSSK pour l’ensemble du trajet (y compris côté autrichien).
 

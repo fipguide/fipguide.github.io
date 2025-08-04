@@ -2,11 +2,14 @@
 {{ $logo := resources.Get "images/logo.svg" }}
 <div class="o-container o-header__wrapper">
   <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
-  <a href="/" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
+  <a href="{{ .Site.BaseURL | relLangURL }}" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
     <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
   </a>
   <div class="o-header__curtain"></div>
   <div class="o-header__nav o-container">
+    <li class="o-header__item a-theme-toggle--mobile">
+      {{ partial "theme-toggle" }}
+    </li>
     <button class="o-nav__menu-button" title="Menü öffnen" aria-expanded="false" aria-haspopup="true">
       <span>{{ T "menu-open" }}</span>
       {{ partial "icon" "menu" }}
@@ -19,7 +22,7 @@
       <menu>
         <li class="o-header__item">
           <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
-            <span>{{ T "countryselection" }}</span>
+            <span>{{ T "countries.selection" }}</span>
             {{ partial "icon" "keyboard_arrow_down" }}
           </button>
           <span id="menu-country-list-title">{{ T "country" }}</span>
@@ -34,6 +37,9 @@
         <li class="o-header__item">
           <span id="menu-general-list-title">{{ T "general" }}</span>
           <ul aria-describedby="menu-general-list-title">
+            <li class="o-header__item a-theme-toggle--desktop">
+              {{ partial "theme-toggle" }}
+            </li>
             {{ $news := site.GetPage "news" }}
             {{ if $news }}
             <li class="o-header__item">

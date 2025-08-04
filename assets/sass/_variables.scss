@@ -12,11 +12,10 @@ $bg-neutral: #EBE9E1;
 $bg-accent: #FFD900;
 $bg-accent2: #DABA00;
 $bg-accent3: #fff284;
-$color-onDark: #FFFFFF;
 $color-onLight: #000000;
 $color-table-border: #5B5B5B;
 
-body {
+html {
   --pagefind-ui-scale: 1;
   --pagefind-ui-text: #000;
   --link-default: #{$link-default};
@@ -27,7 +26,6 @@ body {
   --bg-accent: #{$bg-accent};
   --bg-accent2: #{$bg-accent2};
   --bg-accent3: #{$bg-accent3};
-  --color-onDark: #{$color-onDark};
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
@@ -38,4 +36,29 @@ body {
   --pagefind-ui-border: #000;
   --box-shadow: 0 .4rem 1rem rgba(0,0,0,.25);
   --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0,0,0,.1);
+  --highlight-color-tip: #C4F2FF;
+  --highlight-color-inofficial: #F0F3F5;
+  --highlight-color-important: #FFE3D9;
+}
+
+html[data-theme="dark"] {
+  --pagefind-ui-text: #fff;
+  --link-default: #FF6B3D;
+  --link-hovered: #FF8A5B;
+  --link-special: #FFFFFF;
+  --bg-default: #1a1a1a;
+  --bg-neutral: #2d2d2d;
+  --bg-accent: #86761a;
+  --bg-accent2: #DABA00;
+  --bg-accent3: #fff284;
+  --color-onLight: #FFFFFF;
+  --color-table-border: #555;
+  --color-body: #e0e0e0;
+  --pagefind-ui-border: #555;
+  --box-shadow: 0 .4rem 1rem rgba(0,0,0,.5);
+  --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0,0,0,.3);
+  --pagefind-ui-background: var(--bg-default);
+  --highlight-color-tip: #1A4A5C;
+  --highlight-color-inofficial: #2A2D30;
+  --highlight-color-important: #4A2A1A;
 }

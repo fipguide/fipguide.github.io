@@ -4,7 +4,10 @@ title: "ÖBB"
 description: "Informations sur les conditions FIP chez ÖBB."
 country:
     - "austria"
-operator: "obb"
+operator: "oebb"
+
+aliases:
+  - obb
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’Autriche et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
@@ -140,7 +143,7 @@ Dans les Railjet(Xpress) :
 
 ### En ligne
 
-{{% booking id="obb-website" /%}}
+{{% booking id="oebb-website" /%}}
 
 {{% booking id="db-website" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -160,13 +163,13 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 ### Par téléphone
 
-{{% booking id="obb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
 ### En gare
 
-{{% booking id="obb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
 
-{{% booking id="obb-ticket-machine" /%}}
+{{% booking id="oebb-ticket-machine" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -189,15 +192,15 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 ### Trafic vers l’Italie
 
-Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des coupons FIP FS, mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
+Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
 #### Brenner - Bolzano - Vérone
 
-Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe est à payer.
+Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Railjet Tarvisio Boscoverde - Venise
 
-Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe est à payer.
+Les coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Eurocity Trieste
 

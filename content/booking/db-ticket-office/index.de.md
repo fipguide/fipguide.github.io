@@ -11,6 +11,9 @@ params:
     reservations: true
     additional_info_link: "https://www.bahnhof.de/service/reisezentrum"
     type: "onsite"
+
+aliases:
+  - db_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}

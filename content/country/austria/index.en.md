@@ -19,7 +19,7 @@ params:
 
 ## FIP Information
 
-In Austria, trains of the [Austrian Federal Railways (ÖBB)]({{% ref "/operator/obb" %}} "ÖBB") can be used with FIP tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
+In Austria, trains of the [Austrian Federal Railways (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") can be used with FIP tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
 
 There are also other regional operators of local trains that do not accept FIP tickets. These use the same train categories as ÖBB: `RE`, `REX`, and `S`. If in doubt, check the operator via their website or [Bahn.de](https://int.bahn.de/en).
 
@@ -71,7 +71,7 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 ### Switzerland
 
-From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (Eurocity, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/obb#validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
+From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (Eurocity, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/oebb#validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
 
 ### Italy
 
@@ -95,6 +95,7 @@ From Slovakia, there are two local train connections to Austria:
 For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") is required for the Slovak section. \
 Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
 These trains can be used with:
+
 - ÖBB FIP Coupons up to the border
 - ZSSK FIP Coupone on the entire section (also in Austria)
 

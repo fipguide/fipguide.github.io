@@ -12,6 +12,9 @@ params:
     booking_link: "https://int.bahn.de/en/buchung/start?KL=2&ET=FIP_SONSTIGE"
     additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
     type: "website"
+
+aliases:
+  - db_website_fip_international
 ---
 
 {{% booking-section "fip_50" %}}

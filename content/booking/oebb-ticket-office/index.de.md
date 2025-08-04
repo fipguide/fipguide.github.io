@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "ÖBB Telefon"
-description: "Buchungsinformationen für die ÖBB Hotline."
+title: "ÖBB Ticketschalter"
+description: "Buchungsinformationen für die ÖBB Ticketschalter."
 
 params:
     classes:
@@ -9,23 +9,20 @@ params:
         second: "3,50€"
     fip_50: true
     reservations: true
-    additional_info_link: "https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter"
-    type: "phone"
+    additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/bahnhofsinformation"
+    type: "onsite"
+
+aliases:
+    - obb-ticket-office
+    - obb_ticket_office
 ---
-
-Die ÖBB bietet ein Buchungshotline für Tickets und Reservierungen an:
-
-[+43 (0) 5 1717](tel:+4351717)
-
-Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
-Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
 {{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
-FIP 50 Fahrkarten können für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
+In ÖBB Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
 
-Tickets sind biliger im Vorverkauf (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt)
+Fahrkarten (inkl. FIP 50 Tickets) sind billiger im Vorverkauf (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt)
 
 {{% /booking-section %}}
 
