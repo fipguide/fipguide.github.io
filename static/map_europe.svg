@@ -1924,24 +1924,6 @@
          sodipodi:nodetypes="ccccccccccccccccccccc" />
     </g>
     <g
-       id="liechtenstein"
-       transform="matrix(7.2635634,0,0,7.2635634,-807.13774,-1896.7703)"
-       style="fill:#c0c1c5;fill-opacity:1;stroke:none">
-      <path
-         id="polyF1S127P1-49"
-         d="m 273.49,296.1 -0.26,-0.03 -0.04,0.01 -0.03,-0.17 0.02,-0.36 0.15,-0.47 0.03,0.08 0.01,0.09 0.03,0.11 0.02,0.13 0.05,0.13 0.09,0.13 0.03,0.12 -0.05,0.14 z"
-         class="region LIE"
-         inkscape:connector-curvature="0"
-         style="fill:#c0c1c5;fill-opacity:1;stroke:none" />
-      <circle
-         r="0.25"
-         id="pointF2S64P1"
-         cy="295.77374"
-         cx="273.36237"
-         class="region LIE"
-         style="fill:#c0c1c5;fill-opacity:1;stroke:none" />
-    </g>
-    <g
        id="lithuania"
        transform="matrix(7.2635634,0,0,7.2635634,-807.13774,-1896.7703)"
        style="fill:#c0c1c5;fill-opacity:1;stroke:none">
@@ -4424,12 +4406,13 @@
        cx="1251.0758"
        id="circle18137"
        style="opacity:1;fill:#c0c1c5;fill-opacity:1;stroke:#ffffff;stroke-width:2.534;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#c0c1c5;fill-opacity:1;stroke:#ffffff;stroke-width:2.534;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle18139"
-       cx="1179.2633"
-       cy="251.35542"
-       r="10" />
+    <g id="liechtenstein">
+      <circle
+        style="opacity:1;fill:#c0c1c5;fill-opacity:1;stroke:#ffffff;stroke-width:2.534;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        cx="1179.2633"
+        cy="251.35542"
+        r="10" />
+    </g>
     <circle
        r="10"
        cy="431.66763"

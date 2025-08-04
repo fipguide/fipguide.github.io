@@ -26,13 +26,15 @@
   }
 
   .o-interactive-map__country--available {
-    path {
+    path,
+    circle {
       fill: var(--link-default) !important;
       transition: all 0.2s ease;
       cursor: pointer;
     }
 
-    &:hover path {
+    &:hover path,
+    &:hover circle {
       fill: var(--link-hovered) !important;
     }
   }
