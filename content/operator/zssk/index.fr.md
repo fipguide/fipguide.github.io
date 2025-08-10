@@ -4,7 +4,10 @@ title: "ZSSK / ZSR"
 description: "Découvrez les conditions FIP chez ZSR / ZSSK."
 country:
   - "slovakia"
-operator: "zsr"
+operator: "zssk"
+
+aliases:
+  - zsr
 ---
 
 La ZSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Železničná spoločnosť Slovensko) sont les chemins de fer nationaux slovaques et constituent l’opérateur ferroviaire principal du pays.

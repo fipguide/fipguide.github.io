@@ -97,7 +97,8 @@ Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen
 
 Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") benötigt. \
 Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025). \
-In diesen Zügen gilt:  \
+In diesen Zügen gilt:
+
 - FIP Freifahrtscheine der ÖBB bis zur Grenze
 - FIP Freifahrtscheine der ZSSK dem kompletten Abschnitt (auch in Österreich)
 

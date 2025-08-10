@@ -98,6 +98,7 @@ From Slovakia, there are two local train connections to Austria:
 For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") is required for the Slovak section. \
 Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
 These trains can be used with:
+
 - ÖBB FIP Coupons up to the border
 - ZSSK FIP Coupone on the entire section (also in Austria)
 

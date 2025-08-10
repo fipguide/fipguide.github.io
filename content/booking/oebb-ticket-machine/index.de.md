@@ -20,5 +20,5 @@ Fahrkarten (inkl. FIP 50 Tickets) sind sind im Vorverkauf günstiger (1 Tag vor 
 
 Für Inlandsreisen innerhalb Österreichs können Fahrkarten am Fahrkartenautomaten gekauft werden. Dazu muss „Fahrkarte Inland mit Zielwahl“ ausgewählt werden. Anschließend die Schaltflächen „Ermäßigung“ und „Ändern“ auswählen. Als Vergünstigung kann dann „Mitarbeiterticket 50% / FIP-Inland“ bzw. „at. Fbg /FIP Inland“ (ganz unten) genutzt werden.
 
-![FIP 50 Fahrkarten am ÖBB Fahrkartenautomaten](oebb_ticket_machine_fip_50.en.webp)
+![FIP 50 Fahrkarten am ÖBB Fahrkartenautomaten](oebb-ticket-machine.webp)
 {{% /booking-section %}}
