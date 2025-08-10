@@ -6,7 +6,7 @@ country:
 operator: 'gysev'
 ---
 
-Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vasút Zrt.), kurz: GySEV oder Raaberbahn ist ein privates ungarisches Eisenbahnunternehmen, welches Regionalzüge in Ungarn und Österreich betreibet. Sie betreiben primär südlich und östlich des Neusiedlersees (Westungarn) Personenverkehr teilweise sogar auf eigener Infrastruktur.
+Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vasút Zrt.), kurz GySEV oder Raaberbahn ist ein privates ungarisches Eisenbahnunternehmen, welches Regionalzüge in Ungarn und Österreich betreibt. Die Züge verkehren hauptsächlich südlich und östlich des Neusiedlersees (Westungarn), teilweise sind sie sogar auf eigener Infrastruktur unterwegs.
 
 ## Zusammenfassung
 
@@ -26,11 +26,11 @@ FIP gilt auf allen Strecken der GySEV in Ungarn. Der FIP Freifahrtsschein der Gy
 
 Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den genannten Abschnitten nutzbar:
 
-- REX63: Neusiedl am See - Fertőszentmiklós
-- REX6: Wien Hbf - Deutschkreuz - Sopron
-- REX65: Eisenstadt - Wulkapordersdorf (Vereinigung mit REX6 und Durchbindung nach Wien Hbf)
+- REX 63: Neusiedl am See - Fertőszentmiklós
+- REX 6: Wien Hbf - Deutschkreuz - Sopron
+- REX 65: Eisenstadt - Wulkapordersdorf (Vereinigung mit REX6 und Durchbindung nach Wien Hbf)
 
-Eine [Übersicht über alle GySEV Strecken](https://www2.GySEV.hu/de/vasutvonalak) (inkl. Ungarn).
+[Übersicht über alle GySEV Strecken](https://www2.GySEV.hu/de/vasutvonalak) (inkl. Ungarn).
 
 ## Zugkategorien und Reservierungen
 
@@ -38,7 +38,7 @@ Eine [Übersicht über alle GySEV Strecken](https://www2.GySEV.hu/de/vasutvonala
 **Beschreibung:** \
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-ℹ️ Regionalexpress-Züge werden teilweise auch von der ÖBB bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
+ℹ️ Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
 **Reservierung möglich:** nein
 {{% /expander %}}
 
@@ -46,15 +46,15 @@ Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 **Beschreibung:** \
 Nahverkehrszug mit Halten and den meisten Stationen.
 
-ℹ️ Regionalzüge werden teilweise auch von der ÖBB betrieben bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
+ℹ️ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
 **Reservierung möglich:** nein
 {{% /expander %}}
 
 {{% expander "Személyvonat (Sz) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
-Nahverkehrszug mit Halten and den meisten Stationen.
+Nahverkehrszug mit Halten an den meisten Stationen.
 
-ℹ️ Regionalzüge werden teilweise auch von der MÀV betrieben bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
+ℹ️ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
 **Reservierung möglich:** nein
 {{% /expander %}}
 
