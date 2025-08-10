@@ -3,7 +3,8 @@ draft: false
 title: "ÖBB"
 description: "Informations sur les conditions FIP chez ÖBB."
 country:
-    - "austria"
+  - "austria"
+  - "liechtenstein"
 operator: "oebb"
 
 aliases:
