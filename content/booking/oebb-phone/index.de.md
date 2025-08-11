@@ -29,9 +29,9 @@ Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
 FIP 50 Fahrkarten können für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
 
-Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).  
+Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).
 
-{{% /booking-section %}}  
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservierungen**
