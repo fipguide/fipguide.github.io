@@ -56,7 +56,34 @@ Offiziell wird der _FIP Ausweis_ für die Nutzung von _FIP Freifahrtsscheine_ ni
 
 ## Grenzpunkte
 
-To be continued
+FIP Freifahrtscheine gelten im Regelfall nur im Land/Netz der jeweiligen Bahngesellschaft. Die Gültigkeit des FIP Freifahrtscheins ist offiziell bis zum sogenannten _Grenztarifpunkt_.
+
+{{% highlight important %}}
+Es wird immer ein Ticket bis zur Grenze benötigt. FIP Freifahrtscheine sind nur im Land/Netz der jeweiligen Bahngesellschaft gültig. Die Grenze ist dabei nicht immer der letzte Bahnhof im Land. Es reicht also unter Umständen nicht aus, ein Ticket bis zum letzten Bahnhof zu kaufen. Das ist insbesonders dann relevant, wenn das eigene Heimatland verlassen wird, in dem wie beschrieben keine FIP Tickets gelten.
+{{% /highlight %}}
+
+Im Detail unterscheidet man zwischen zwei Arten von _Grenztarifpunkten_:
+
+- **Grenzbahnhof**: Dies ist ein echter physischer Bahnhof. Bis zu diesem Halt kann man mit seinem Zugtickt fahren und das von beiden angrenzenden Ländern aus. Beispiele dafür sind Salzburg Hbf, Basel Badischer Bahnhof oder Konstanz.
+- **Grenztarifpunkt**: Dies ein "virtueller" Bahnhof. Also ein Bahnhof der nur in der Theorie existiert, um die Gültigkeit von Fahrkarten zu bestimmen. Diese befinden sich auf der Freien Strecke. Hierbei wird also sowohl ein Ticket vor als auch hinter diesem Grenztarifpunkt benötigt. Grenztarifpunkte sind in der Übersicht im Regelfall mit "(GR)" für Grenze gekennzeichnet.
+
+Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft benötigt wird, kann ein FIP 50 Ticket für mehrere Bahngesellschaften ausgestellt werden. Welche Bahngesellschaften an der Fahrt dann beteiligt sind, spielt nicht direkt eine Rolle, solange Start und Ziel richtig sind und die Bahngesellschaften FIP allgemein akzeptieren.
+
+Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern/Bahngesellschaften bestehen sind im FIP Guide auf der jeweiligen Länderseit aufgeführt.
+
+Hier noch ein paar Beispiele zur besseren Veranschaulichung:
+
+![Grenzpunkte](borders.drawio.png)
+
+FIP 50:
+
+Beispiel 1: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie kauft dafür ein FIP 50 Ticket von Bahnhof 1 nach Bahnhof 3. Dieses gilt auf dem gesamten Streckenabschnitt. Wichtig, wenn Land A  jedoch das Heimatland der Person ist, gilt das FIP 50 Ticket erst ab Bahnhof 2. Für die Fahrt zwischen Bahnhof 1 oder Bahnhof 2 braucht sie ein anderes Ticket. Das kann zum Beispiel ein normales Ticket zum Regulären Preis sein oder auch andere Tickets (Für DB Mitarbeiter in Deutschland z.B. Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket)
+
+Beispiel 2: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie kauft dafür ein FIP 50 Ticket von Bahnhof 1 nach Bahnhof 3. Dieses gilt auf dem gesamten Streckenabschnitt. Wichtig, wenn Land A  jedoch das Heimatland der Person ist, gilt das FIP 50 Ticket erst ab dem Grenztarifpunkt. Für die Fahrt bis zum Grenztarifpunkt benötigt sie ein anderes Ticket. Es ist dabei nicht ausreichend nur ein Ticket bis zum letzten Bahnhof im Land zu erwerben (im Beispiel Bahnhof 2). Dies ist besonders relevant in Ländern in denen keine FIP Tickets gelten wie das Heimatland. DB Mitarbeiter können bei der Fahrt aus Deutschland zum Beispiel Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket nutzen oder müssen alternativ eine reguläre Fahrkarte bis zum ersten Bahnhof im Land B erwerben.
+
+Beispiel 3: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie hat einen FIP Freifahrtschein für Bahn A und Bahn B. So besitzt sie auf dem gesamten Abschnitt ein gültiges Ticket. Wenn Land A ihr Heimatland ist, besitzt sie nur einen FIP Freifahrtschein für Land B. In diesem Fall braucht sie eine gültiges Ticket von Bahnhof A nach Bahnhof B. Ab Bahnhof B gilt der FIP Freifahrtschein.
+
+Beispiel 4: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie hat einen FIP Freifahrtschein für Bahn A und Bahn B. So besitzt sie auf dem gesamten Abschnitt ein gültiges Ticket. Wenn Land A ihr Heimatland ist, besitzt sie nur einen FIP Freifahrtschein für Land B. Der Freifahrtschein für B gilt also erst ab dem Grenztarifpunkt. Für die Fahrt in Land A bis zum Grenztarifpunkt benötigt sie ein anderes Ticket. Es ist dabei nicht ausreichend nur ein Ticket bis zum letzten Bahnhof im Land zu erwerben (im Beispiel Bahnhof 2). Dies ist besonders relevant in Ländern in denen keine FIP Tickets gelten wie das Heimatland. DB Mitarbeiter können bei der Fahrt aus Deutschland zum Beispiel Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket nutzen oder müssen alternativ eine reguläre Fahrkarte bis zum ersten Bahnhof im Land B erwerben.
 
 ## FAQ
 
