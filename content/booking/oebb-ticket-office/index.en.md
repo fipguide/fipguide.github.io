@@ -33,7 +33,7 @@ The reservation price is calculated per train. For journeys with multiple trains
 
 However, seat reservations made with ÖBB can be cancelled:
 
-- 180 days to 15 days before departure: 100% of the reservation price refunded
-- 14 days to 1 day before departure: 50% of the reservation price refunded
+- 180 days to 15 days before departure: 100% refund of the reservation price
+- 14 days to 1 day before departure: 50% refund of the reservation price
 
 {{% /booking-section %}}

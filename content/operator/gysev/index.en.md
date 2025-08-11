@@ -26,11 +26,11 @@ FIP is valid on all GySEV routes in Hungary. However, the GySEV FIP Coupon is pr
 
 The following lines can be used with the GySEV FIP Coupon in Austria in the specified sections:
 
-- REX63: Neusiedl am See - Fertőszentmiklós
-- REX6: Wien Hbf - Deutschkreuz - Sopron
-- REX65: Eisenstadt - Wulkapordersdorf (connection with REX6 and through service to Wien Hbf)
+- REX 63: Neusiedl am See - Fertőszentmiklós
+- REX 6: Wien Hbf - Deutschkreuz - Sopron
+- REX 65: Eisenstadt - Wulkapordersdorf (connection with REX6 and through service to Wien Hbf)
 
-An [overview of all GySEV routes](https://www2.GySEV.hu/de/vasutvonalak) (incl. Hungary).
+[Overview of all GySEV routes](https://www2.GySEV.hu/de/vasutvonalak) (incl. Hungary).
 
 ## Train Categories and Reservations
 
@@ -54,7 +54,7 @@ Local train stopping at most stations.
 **Description:** \
 Local train stopping at most stations.
 
-ℹ️ Regional trains are sometimes also operated by MÁV where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [Bahn.de](https://int.bahn.de/en). \
+ℹ️ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [Bahn.de](https://int.bahn.de/en). \
 **Reservation possible:** no
 {{% /expander %}}
 
