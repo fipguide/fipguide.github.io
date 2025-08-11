@@ -26,7 +26,7 @@ FIP gilt auf allen Strecken der GySEV in Ungarn. Der FIP Freifahrtsschein der Gy
 
 Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den genannten Abschnitten nutzbar:
 
-- REX 63: Neusiedl am See - Fertőszentmiklós
+- REX 63: Neusiedl am See - Fertőszentmiklós [^2]
 - REX 6: Wien Hbf - Deutschkreuz - Sopron
 - REX 65: Eisenstadt - Wulkapordersdorf (Vereinigung mit REX6 und Durchbindung nach Wien Hbf)
 
@@ -97,3 +97,4 @@ Im Falle einer Fahrtunterbrechung muss das Ticket an dem Bahnhof, an dem die Unt
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
