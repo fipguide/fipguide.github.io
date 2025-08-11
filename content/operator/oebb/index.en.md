@@ -256,7 +256,7 @@ With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervella
 
 FIP 50 discounts are not available.
 
-### Journey Interruption
+### Break of journey
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
