@@ -40,9 +40,9 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Reservation required:** ⚠️ only for cross-border journeys
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
 **Description:** \
-International trains to Germany and Italy. \
+International trains to Germany and Italy.
 
 ⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italien" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train. \
 Surcharge/Reservation: \
