@@ -42,7 +42,7 @@ FIP Freifahrtsscheine (egal welcher Klasse) sind nur in der zweiten Klasse gült
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung:** 5€ 
+**Kosten für Reservierung:** 5€
 {{% /expander %}}
 
 {{% expander "Intercidades (IC) ⚠️" traincategory "category" %}}
