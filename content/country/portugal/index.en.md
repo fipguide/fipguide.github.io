@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'Portugal'
-description: ''
+description: 'Find out about the FIP conditions for portugal and for which operators you can benefit from discounts.'
 country: 'portugal'
 params:
   operators_without_fip:

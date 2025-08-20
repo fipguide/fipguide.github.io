@@ -1,19 +1,16 @@
 ---
 draft: false
 title: 'Portugal'
-description: ''
+description: 'Informationen über die FIP-Bedingungen für Portugal und für welche Betreiber Vergünstigungen genutzt werden können.'
 country: 'portugal'
 params:
   operators_without_fip:
     - Fertagus
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-{{< wip >}}
-
 ## FIP Nutzung
 
-In Portugal können FIP 50 Tickets und FIP Freifahrscheine auf dem Großteil des Schienennetzes genutzt werden. 
+In Portugal können FIP 50 Tickets und FIP Freifahrscheine auf dem Großteil des Schienennetzes genutzt werden.
 Die [staatliche Bahngesellschaft CP]({{< ref "/operator/cp" >}} "CP") betreibt die meisten Strecken in Portugal – hier ist FIP mit einzelnen Herausforderungen sehr gut nutzbar.
 So ist im Hochgeschwindigkeitsvekehr ist eine Reservierung notwendig und im Ballungsraum Lissabon gibt es teilweise Ticketschranken.
 
