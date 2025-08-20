@@ -1,11 +1,10 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Change le nom par le nom du pays français
-description: '' # Complète une description pour le pays
-country: '{{ .File.ContentBaseName }}'
+title: 'Portugal'
+country: 'portugal'
 params:
   operators_without_fip:
-    - # Listez ici les opérateurs ne participant pas au FIP
+    - Fertagus
 ---
 <!-- Supprimez ce message si la page est complète -->
 {{< wip >}}

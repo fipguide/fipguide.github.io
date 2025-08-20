@@ -1,13 +1,9 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
-description: '' # Add a description for the railway company
+title: 'CP'
 country:
-  # Add the abbreviations of the countries the railway company operates in.
-  - 'country1'
-  - 'country2'
-  - 'country3'
-operator: '{{ .File.ContentBaseName }}'
+  - 'portugal'
+operator: 'cp'
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
@@ -90,7 +86,7 @@ FIP Global Fare: <✅/⛔>
 
   For more information how to define a booking platform, check the booking archetype.
 -->
-{{% booking id="booking_id"
+{{% booking id="cp-ticket-office"
     subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
     reservations=nil
     fip_50=false

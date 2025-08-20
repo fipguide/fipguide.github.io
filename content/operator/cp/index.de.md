@@ -1,13 +1,9 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
-description: '' # Ergänze eine Beschreibung für die Bahngesellschaft
+title: 'CP'
 country:
-  # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
-  - 'country1'
-  - 'country2'
-  - 'country3'
-operator: '{{ .File.ContentBaseName }}'
+  - 'portugal'
+operator: 'cp'
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -90,7 +86,7 @@ FIP Globalpreis: <✅/⛔>
 
   Mehr Informationen sind im booking archetype zu finden.
 -->
-{{% booking id="booking_id"
+{{% booking id="cp-ticket-office"
     subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
     reservations=nil
     fip_50=false

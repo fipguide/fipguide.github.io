@@ -1,7 +1,7 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Ändere den Titel auf den Name der Buchungsplattform
-description: '' # Ergänze eine Beschreibung für die Buchungsplattform
+title: 'CP Ticketschalter'
+description: 'Buchungsinformationen für die CP Ticketschalter.'
 params:
     classes:
         # Definiere Klassen und entsprechende Preise für die zugehörigen Reservierungen.

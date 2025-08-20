@@ -1,7 +1,7 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Change the title to the name of the booking platform
-description: '' # Add a description for the booking platform
+title: 'CP Ticket Office'
+description: 'Booking information for the CP ticket offices.'
 params:
     classes:
         # Define classes and prices for the corresponding reservations.

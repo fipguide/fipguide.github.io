@@ -1,11 +1,10 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Ändere den Name auf den deutschen Ländernamen
-description: '' # Ergänze eine Beschreibung für das Land
-country: '{{ .File.ContentBaseName }}'
+title: 'Portugal'
+country: 'portugal'
 params:
   operators_without_fip:
-    - # Liste Betreiber, die kein FIP akzeptieren
+    - Fertagus
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

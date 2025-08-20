@@ -1,13 +1,9 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
-description: '' # Complète une description pour la compagnie ferroviaire
+title: 'CP'
 country:
-  # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
-  - 'pays1'
-  - 'pays2'
-  - 'pays3'
-operator: '{{ .File.ContentBaseName }}'
+  - 'portugal'
+operator: 'cp'
 ---
 <!-- Supprimez ce message si la page est complète -->
 {{< wip >}}
@@ -79,7 +75,7 @@ Tarif Global FIP : <✅/⛔>
 
   Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
 -->
-{{% booking id="booking_id"
+{{% booking id="cp-ticket-office"
     subtitle="Ce sous-titre s'affiche dans le résumé de l'expander et doit rester concis."
     reservations=nil
     fip_50=false

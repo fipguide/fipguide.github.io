@@ -1,7 +1,7 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Remplacez le titre par le nom de la plateforme de réservation
-description: '' # Complète une description pour la plateforme de réservation
+title: 'Guichet CP'
+description: 'Informations de réservation aux guichets CP.'
 params:
     classes:
         # Définissez les classes et les tarifs correspondants aux réservations.
