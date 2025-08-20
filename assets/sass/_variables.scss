@@ -39,6 +39,8 @@ html {
   --highlight-color-tip: #C4F2FF;
   --highlight-color-inofficial: #F0F3F5;
   --highlight-color-important: #FFE3D9;
+  --border: unset;
+  --pagefind-ui-font: roboto,Arial,Helvetica,sans-serif;
 }
 
 html[data-theme="dark"] {
@@ -46,8 +48,8 @@ html[data-theme="dark"] {
   --link-default: #FF6B3D;
   --link-hovered: #FF8A5B;
   --link-special: #FFFFFF;
-  --bg-default: #1a1a1a;
-  --bg-neutral: #2d2d2d;
+  --bg-default: #151b23;
+  --bg-neutral: #0d1117;
   --bg-accent: #86761a;
   --bg-accent2: #DABA00;
   --bg-accent3: #fff284;
@@ -61,4 +63,5 @@ html[data-theme="dark"] {
   --highlight-color-tip: #1A4A5C;
   --highlight-color-inofficial: #2A2D30;
   --highlight-color-important: #4A2A1A;
+  --border: .1rem solid #3d444d;
 }

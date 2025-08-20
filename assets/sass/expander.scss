@@ -32,6 +32,7 @@ details {
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-m);
   margin-bottom: 1.2rem;
+  border: var(--border);
 }
 
 details[open] > .o-expander__summary {

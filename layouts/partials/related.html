@@ -9,7 +9,7 @@
         {{ if eq .Page.Type "news" }}
             {{ $text = print (partial "icon" "newspaper") $text }}
         {{ else if eq .Page.Type "operator" }}
-            {{ $text = print (partial "logo" (dict "operator" .File.ContentBaseName)) $text }}
+            {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
         {{ else if eq .Page.Type "country" }}
             {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
         {{ end }}

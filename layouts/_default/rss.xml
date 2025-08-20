@@ -5,7 +5,7 @@
         <link>{{ .Site.BaseURL }}</link>
         <description>{{ .Site.Params.description }}</description>
         <language>{{ site.Language.LanguageCode }}</language>
-        <image>{{ (resources.Get "images/logo.svg").Permalink }}</image>
+        <image>{{ partial "header-logo" }}</image>
         {{ range where .Site.RegularPages "Section" "news" }}
         <item>
             <title>{{ .Title }}</title>

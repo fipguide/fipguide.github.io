@@ -15,18 +15,28 @@
 }
 
 .o-divider {
-  display: block;
-  width: 100%;
+  display: grid;
+  grid-template-columns: 7fr 1fr 7fr;
   margin: 2rem 0;
-  background-image: url("/intersector.svg");
-  background-position: center;
-  background-repeat: no-repeat;
   height: 2.4rem;
-  opacity: 50%;
+  opacity: 66%;
   border: 0;
+  overflow: hidden;
+  align-items: center;
+
+  hr {
+    color: var(--link-default);
+    border-width: 2px;
+    opacity: 1;
+  }
 
   @media print {
     margin: 0;
+  }
+
+  svg {
+    min-width: 37px;
+    margin: 0 .5rem;
   }
 }
 

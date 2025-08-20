@@ -6,7 +6,7 @@
     {{ range .Pages }}
     <a href="{{ .RelPermalink }}" class="o-list__link">
       <div class="o-list__picture">
-        {{ partial "logo" (dict "operator" .File.ContentBaseName) }}
+        {{ partial "operator-logo" (dict "operator" .File.ContentBaseName) }}
       </div>
       <div>
         {{ .Title }}
