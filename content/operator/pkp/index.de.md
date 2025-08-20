@@ -7,13 +7,13 @@ country:
 operator: "pkp"
 ---
 
-Die polnische Staatsbahn - PKP (Polskie Koleje Państwowe) betreiben mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des polnischen Schienenpersonenverkehrs.
+Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des polnischen Schienenpersonenverkehrs.
 
 ## Zusammenfassung
 
 - PKP akzeptiert FIP Freifahrt und FIP 50 Tickets
 - Reservierungspflicht für EIP und EIC sowie teilweise in IC und TLK Zügen
-- Gültigkeit der PKP FIP-Tickets auch in S-Bahn Systemen von Warschau und Danzig (Dreistadt), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD)
+- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD)
 
 ## Gültigkeit FIP-Tickets
 
@@ -21,15 +21,17 @@ FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
-FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören auch:
+FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 - PKP InterCity
 - POLREGIO S.A
 - Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
-- Warszawska Kolej Dojazdowa (WKD) (S-Bahnen im Großraum Warschau)
+- Warszawska Kolej Dojazdowa (WKD) (Regionalzüge im Großraum Warschau)
 - Einige Strecken der Koleje Dolnośląskie (KD). [Mehr Informationen]({{< ref "/operator/kd" >}} "KD")
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+
+Die PKP FIP Tickets haben keine Gültigkeit im S-Bahn System von Warschau, welches von Szybka Kolej Miejska w Warszawie (SKM) betrieben wird. Hier sind reguläre Stadtfahrkarten wie bei U-Bahn, Straßenbahn und Bus zu kaufen.
 
 ## Zugkategorien und Reservierungen
 
@@ -39,7 +41,7 @@ Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspfli
 
 {{% expander "Express Intercity Premium (EIP) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Hochgeschwindigkeitszug mit Neigetechnik (Pendolino) betrieben von PKP Intercity, die hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind. \
+Hochgeschwindigkeitszüge mit Neigetechnik (Pendolino), die von PKP Intercity betrieben werden und hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind. \
 In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2] \
 Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
 
@@ -51,11 +53,11 @@ Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkau
 (Zum Festpreis und nur über die PKP buchbar)
 {{% /expander %}}
 
-{{% expander "Express InterCity (EIC)" traincategory category %}}
+{{% expander "Express InterCity (EIC) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3] \
 In der 1. und 2. Klasse gibt es eine kostenlose Flasche Wasser pro Person. \
-Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
+Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ teilweise
 {{% /expander %}}
@@ -63,29 +65,31 @@ Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [
 
 {{% expander "InterCity (IC) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Schnellzüge mit Reisezugwagen oder modernen Triebzügen betrieben von PKP Intercity mit Halt an wichtigen Bahnhöfen. [^4] \
-Einige Züge sind Reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
+Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity betrieben werden und nur  an wichtigen Bahnhöfen halten. [^4] \
+Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden. \
+Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe Kategorie "EN"). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ teilweise
 {{% /expander %}}
 
 {{% expander "Twoje Linie Kolejowe (TLK) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Überregionale Züge betrieben von PKP Intercity mit besonders günstigen Ticketpreisen mit einfachen Komfortmerkmalen. [^5] \
+Überregionale Züge, die von PKP Intercity betrieben werden und sich durch besonders günstige Ticketpreise mit einfachen Komfortmerkmalen auszeichnen. [^5] \
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
+Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe Kategorie "EN"). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ teilweise
 {{% /expander %}}
 
 {{% expander "EuroNight (EN) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Nachtzugverbindungen innerhalb Polens betrieben von PKP Intercity, aber auch Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine. \
-Die Züge werden in Polen teilweise als IC oder TLK geführt bzw. bei Verbindungen in die Ukraine als D. \
+Internationale Nachtzugverbindungen, betrieben von PKP Intercity, die aus oder in Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine verkehren. \
+Nachtzugverbindungen, die nur innerhalb von Polen fahren, werden als IC oder TLK geführt. Verbindungen in die Ukraine sind als D gekennzeichnet. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ja (in Schlaf- und Liegewagen) \
+**Reservierungspflicht:** ⚠️ ja (in Schlaf- und Liegewagen) \
 **Kosten für Reservierung:** \
 Innerhalb Polens: \
-Schlafwagem: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
+Schlafwagen: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
 Liegewagen: 3er/4er Abteil 69 PLN, 6er Abteil 59 PLN [^1]
 
 Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
@@ -93,16 +97,16 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}
 **Beschreibung:** \
-Regionalzugverbindungen betrieben von Polregio mit Halten an den meisten Bahnhöfen.
+Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.  
 
 ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen") \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️1️⃣ nur in der 1. Klasse (meistens fahren die Züge nur mit 2. Klasse)
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "superREGIO (sR) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Überregionale Züge betrieben von Polregio mit höherem Komfort als normale Regiozüge.
+Überregionale Züge, die von Polregio betrieben werden und mit höherem Komfort als normale Regiozüge ausgestattet sind.
 
 ⚠️ Die Gültigkeit von FIP-Tickets in diesen Zügen ist uns leider unklar.
 {{% /expander %}}
@@ -154,7 +158,7 @@ Gegen einen Aufschlag von 20 PLN können Fahrkarten im Zug erworben, wenn das Zu
 
 #### Polregio
 
-FIP 50 Fahrkarten können im Zug ausgestellt werden, unterliegen jedoch einer speziellen Gebühr (außer der Fahrgast steigt an einem Bahnhof ohne Fahrkartenverkauf zu). Fahrgäste müssen an der vorderen Tür des Zuges (in Fahrtrichtung) einsteigen und unmittelbar nach dem Einsteigen das Ticket beim Zugpersonal kaufen. Ein Upgrade in die 1. Klasse ist an Bord möglich, sofern der Fahrgast das Zugpersonal sofort aufsucht.
+FIP 50 Fahrkarten können im Zug ausgestellt werden, unterliegen jedoch einer speziellen Gebühr (außer der Fahrgast steigt an einem Bahnhof ohne Fahrkartenverkauf zu). Fahrgäste müssen an der vorderen Tür des Zuges (in Fahrtrichtung) einsteigen und unmittelbar nach dem Einsteigen das Ticket beim Zugpersonal kaufen. 
 
 #### Koleje Mazowieckie (KM)
 
@@ -187,11 +191,11 @@ Uns sind keine weiteren Ermäßigungen bekannt.
 
 #### Polregio
 
-Ein Fahrschein für eine einfache Fahrt ist bis Mitternacht am Ausstellungstag gültig. Die Gültigkeit von FIP 50 Einzelfahrscheinen, richtet sich nach der Entfernung:
+Ein Fahrschein für eine einfache Fahrt ist bis Mitternacht am Ausstellungstag gültig. Die Gültigkeit von FIP 50 Einzelfahrscheinen richtet sich nach der Entfernung:
 
-- bis 50 km: 3 Stunden ab Ausstellungsdatum und -uhrzeit (oder nach Wahl des Fahrgasts),
-- 51 km – 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit (oder nach Wahl des Fahrgasts),
-- ab 101 km: bis Mitternacht am Ausstellungstag (der Tag gilt von 00:01 Uhr bis 24:00 Uhr).
+- bis 50 km: 3 Stunden ab Ausstellungsdatum und -uhrzeit (oder ab einem Zeitpunkt der Wahl des Fahrgasts)
+- 51 km – 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit (oder ab einem Zeitpunkt der Wahl des Fahrgasts)
+- ab 101 km: bis Mitternacht am Ausstellungstag (der Tag gilt von 00:01 Uhr bis 24:00 Uhr)
 
 #### Koleje Mazowieckie (KM)
 
@@ -243,6 +247,12 @@ FIP-Fahrkarten gelten auch auf von der PKP betriebenen Schienenersatzverkehren (
 ### Seilbahnen und Zahnradbahnen
 
 FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
+
+## Empfehlungen
+
+{{% highlight tip %}}
+FIP-Freifahrtsscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sind Fahrten mit dem EIP geplant, sind sie sich durch den erhöhten Komfort und den zusätzlichen Snacks in der 1. Klasse empfehlenswert. In den anderen Zügen gibt es teilweise nur zwei 1. Klasse 6er-Abteile, die oft auch schnell ausgebucht sind. Auch bei größeren 1. Klasse Bereichen kommt es vor, dass diese vom Komfort her schlechter sind als die Bereiche der 2. Klasse im selben Zug. Bei Fahrten im Regionalverkehr wird grundsätzlich keine 1. Klasse angeboten.
+{{% /highlight %}}
 
 ## Quellen
 

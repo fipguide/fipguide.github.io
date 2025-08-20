@@ -24,4 +24,8 @@ Anschließend unter _Mein Konto / Moje konto_ bei _Rabatt / Zniżka_ die Vergün
 ![Koleo Vergünstigung](koleo_discount.webp)
 
 Anschließend wird der vergünstigte Preis direkt in der Verbindungssuche angezeigt.
+
+{{% highlight important %}}
+Es ist empfehlenswert vor dem Kauf nochmal im nicht eingeloggten Zustand den Preis zu prüfen, um herauszufinden, ob tatsächlich der FIP 50 Preis berechnet wurde. Bei einzelnen Bahngesellschaften kam es hier in der Vergangenheit zu falschen Preisberechnungen ohne den FIP 50 Rabatt.
+{{% /highlight %}}
 {{% /booking-section %}}
