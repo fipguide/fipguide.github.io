@@ -4,16 +4,13 @@ title: 'CP Ticketschalter'
 description: 'Buchungsinformationen für die CP Ticketschalter.'
 params:
     classes:
-        # Definiere Klassen und entsprechende Preise für die zugehörigen Reservierungen.
-        # Stelle sicher, dass die Klassen auch in den i18n-Dateien unter `booking.classes` definiert sind.
-        first: "X.XX€"
+        first: "5,00€"
         second: "X.XX€"
     fip_50: true # Definiere, ob FIP 50 Tickets bei dem Buchungsanbieter gebucht werden können.
     fip_global_fare: true # Definiere, ob FIP Globalpreise bei dem Buchungsanbieter gebucht werden können.
-    reservations: true # Definiere, ob Reservierungen bei dem Buchungsanbieter gebucht werden können.
-    booking_link: "https://example.com" # Füge ein Link zur Buchungsplattform hinzu
-    additional_info_link: "https://example.com/additional-info" # Füge einen Link zu zusätzlichen Informationen hinzu
-    type: "onsite" # Akzeptierte Typen sind: website, onsite, phone, email und machine
+    reservations: true
+    additional_info_link: "https://www.cp.pt/passageiros/en/buy-tickets/Sales-points/ticket-offices"
+    type: "onsite"
 ---
 
 {{% booking-section "fip_50" %}}
@@ -35,7 +32,5 @@ params:
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-<!--
-    Erkläre hier die Buchungswege, um Reservierungen zu erwerben.
--->
+Reservierungen für reservierungspflichtige Züge können zu einem Preis von 5€ erworben werden.
 {{% /booking-section %}}
