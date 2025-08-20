@@ -80,6 +80,7 @@
     margin-bottom: 0;
     padding-left: 0;
     box-shadow: var(--box-shadow);
+    z-index: 20;
 }
 
 .o-language-switcher__button[aria-expanded="true"] + .o-language-switcher__dropdown {

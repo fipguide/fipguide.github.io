@@ -5,16 +5,19 @@ description: "Information about FIP conditions for Austria and which operators o
 country: "austria"
 params:
   operators_without_fip:
-    - RegioJet
-    - Westbahn
-    - GKB
-    - NÖVOG
-    - Steiermärkische Landesbahnen
-    - Zillertalbahn
-    - Pinzgauer Lokalbahn
-    - Montafonerbahn
     - Achenseebahn
+    - '[CAT (City Airport Train) Vienna]({{< ref "/operator/oebb#vienna-airport-city-airport-train-cat" >}} "CAT")'
+    - GKB
+    - Graz–Köflacher Bahn
+    - Montafonerbahn
+    - NÖVOG
+    - Pinzgauer Lokalbahn
+    - RegioJet
     - Salzburger Lokalbahn
+    - Steiermärkische Landesbahnen
+    - WESTbahn
+    - Wiener Lokalbahn (Badner Bahn)
+    - Zillertalbahn
 ---
 
 ## FIP Information
@@ -95,6 +98,7 @@ From Slovakia, there are two local train connections to Austria:
 For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") is required for the Slovak section. \
 Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
 These trains can be used with:
+
 - ÖBB FIP Coupons up to the border
 - ZSSK FIP Coupone on the entire section (also in Austria)
 

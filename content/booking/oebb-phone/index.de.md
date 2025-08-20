@@ -17,7 +17,7 @@ aliases:
     - obb-phone
 ---
 
-Die ÖBB bietet ein Buchungshotline für Tickets und Reservierungen an:
+Die ÖBB bietet eine Buchungshotline für Tickets und Reservierungen an:
 
 [+43 (0) 5 1717](tel:+4351717)
 
@@ -29,18 +29,18 @@ Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
 FIP 50 Fahrkarten können für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
 
-Tickets sind biliger im Vorverkauf (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt)
+Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die ([Deutsche Bahn zu reservieren]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
+Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn") zu reservieren.
 
 Dafür können bei der ÖBB Sitzplatzreservierungen jedoch storniert werden:
 
-- 180 Tage bis 15 Tage vor Abfahrt: 100% des Reservierungspreises
-- 14 Tage bis 1 Tag vor Abfahrt: 50% des Reservierungspreises
+- 180 Tage bis 15 Tage vor Abfahrt: 100% Erstattung des Reservierungspreises
+- 14 Tage bis 1 Tag vor Abfahrt: 50% Erstattung des Reservierungspreises
 
 {{% /booking-section %}}
