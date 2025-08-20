@@ -1,8 +1,10 @@
 ---
 draft: false
 title: 'CP'
+description: ''
 country:
   - 'portugal'
+  - 'spain'
 operator: 'cp'
 ---
 
@@ -64,7 +66,7 @@ Regional-Züge mit längeren Streckenverläufen und wenigen Halten. \
 **Beschreibung:** \
 Regional-Züge mit vielen Halten. \
 **Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Comboios Urbanos (U)" traincategory "category" %}}
@@ -101,9 +103,9 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory %}}
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "category" %}}
 **Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
+Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: 'Portugal'
+description: ''
 country: 'portugal'
 params:
   operators_without_fip:
