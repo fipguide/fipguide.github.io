@@ -40,7 +40,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 **Réservation obligatoire :** ⚠️ uniquement pour les trajets transfrontaliers
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Description :** \
 Trains internationaux vers l’Allemagne et l’Italie.
 
