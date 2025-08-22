@@ -12,7 +12,7 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 ## Zusammenfassung
 
 - PKP akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht für EIP und EIC sowie teilweise in IC und TLK Zügen
+- Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen
 - Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD)
 
 ## Gültigkeit FIP-Tickets
@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 - Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (Regionalzüge im Großraum Warschau)
-- Einige Strecken der Koleje Dolnośląskie (KD). [Mehr Informationen]({{< ref "/operator/kd" >}} "KD")
+- Einige Strecken der [Koleje Dolnośląskie]({{< ref "/operator/kd" >}} "KD") (KD).
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
@@ -97,7 +97,7 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}
 **Beschreibung:** \
-Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.  
+Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
 
 ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen") \
 **Reservierung möglich:** ja \
@@ -158,7 +158,7 @@ Gegen einen Aufschlag von 20 PLN können Fahrkarten im Zug erworben, wenn das Zu
 
 #### Polregio
 
-FIP 50 Fahrkarten können im Zug ausgestellt werden, unterliegen jedoch einer speziellen Gebühr (außer der Fahrgast steigt an einem Bahnhof ohne Fahrkartenverkauf zu). Fahrgäste müssen an der vorderen Tür des Zuges (in Fahrtrichtung) einsteigen und unmittelbar nach dem Einsteigen das Ticket beim Zugpersonal kaufen. 
+FIP 50 Fahrkarten können im Zug ausgestellt werden, unterliegen jedoch einer speziellen Gebühr (außer der Fahrgast steigt an einem Bahnhof ohne Fahrkartenverkauf zu). Fahrgäste müssen an der vorderen Tür des Zuges (in Fahrtrichtung) einsteigen und unmittelbar nach dem Einsteigen das Ticket beim Zugpersonal kaufen.
 
 #### Koleje Mazowieckie (KM)
 

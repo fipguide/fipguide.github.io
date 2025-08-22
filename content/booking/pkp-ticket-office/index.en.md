@@ -1,28 +1,28 @@
 ---
 draft: false
-title: "ZSSK Ticket Office"
-description: "Booking information for the ZSSK ticket offices."
+title: "PKP Ticket Office"
+description: "Booking information for PKP ticket offices."
 
 params:
     classes:
-        first: "€2"
-        second: "€1"
+        first: "3 PLN"
+        second: "3 PLN"
     fip_50: true
     reservations: true
-    additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
+    additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html"
     type: "onsite"
 ---
 
-In Slovakia, there is an extensive network of ticket counters even at smaller stations. It is advantageous to speak some Slovak or Czech or have the appropriate translator app, as English is often not widely spoken.
+PKP operates an extensive network of ticket offices even at smaller stations. Linguistically, it is advantageous to speak some Polish or have a suitable translator app, as English is often not very widespread.
 
 {{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
-FIP 50 tickets for domestic journeys can be purchased at the ZSSK ticket office.
+FIP 50 tickets for national and cross-border journeys can be purchased at PKP ticket offices.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservations**
 
-Reservations can be made for all domestic connections at ZSSK ticket offices.
+Reservations can be purchased for all national and cross-border connections at PKP ticket offices.
 {{% /booking-section %}}

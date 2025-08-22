@@ -1,28 +1,18 @@
 ---
 draft: false
-title: "ZSSK Ticket Office"
-description: "Booking information for the ZSSK ticket offices."
+title: "PKP Ticket Machines"
+description: "Booking information for PKP ticket machines."
 
 params:
-    classes:
-        first: "€2"
-        second: "€1"
     fip_50: true
-    reservations: true
-    additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
+    additional_info_link: "https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/use-tens-of-ticket-vending-machines-throughout-poland/informacje-ogolne-en.html"
     type: "onsite"
 ---
 
-In Slovakia, there is an extensive network of ticket counters even at smaller stations. It is advantageous to speak some Slovak or Czech or have the appropriate translator app, as English is often not widely spoken.
+In larger cities, there are sometimes PKP ticket machines.
 
 {{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
-FIP 50 tickets for domestic journeys can be purchased at the ZSSK ticket office.
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-**Reservations**
-
-Reservations can be made for all domestic connections at ZSSK ticket offices.
+Discounted FIP 50 tickets can be purchased at the ticket machines. The discount "50% UMOWA-FIP-MKZ" may be used for this purpose.
 {{% /booking-section %}}
