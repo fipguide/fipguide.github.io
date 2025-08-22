@@ -40,9 +40,9 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) / Eurocity (ECE) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Internationale Züge Richtung Deutschland und Italien. \
+Internationale Züge Richtung Deutschland und Italien.
 
 ⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden. \
 Aufschlag/Reservierung: \
