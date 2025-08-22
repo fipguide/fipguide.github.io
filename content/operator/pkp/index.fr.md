@@ -103,11 +103,9 @@ Connexions de trains régionaux s'arrêtant à la plupart des gares, exploitées
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "superREGIO (sR) ⚠️" traincategory category %}}
+{{% expander "superREGIO (sR)" traincategory category %}}
 **Description :** \
 Trains interrégionaux exploités par Polregio et équipés d'un confort supérieur aux trains régionaux normaux.
-
-⚠️ Malheureusement, la validité des billets FIP dans ces trains nous est inconnue.
 {{% /expander %}}
 
 ## Achat de billets et réservations

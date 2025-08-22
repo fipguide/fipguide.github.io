@@ -103,11 +103,9 @@ Regional train connections stopping at most stations, operated by Polregio. Thes
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "superREGIO (sR) ⚠️" traincategory category %}}
+{{% expander "superREGIO (sR)" traincategory category %}}
 **Description:** \
 Interregional trains operated by Polregio and equipped with higher comfort than normal regional trains.
-
-⚠️ Unfortunately, the validity of FIP tickets on these trains is unclear to us.
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase

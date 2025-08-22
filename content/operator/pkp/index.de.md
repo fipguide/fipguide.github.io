@@ -104,11 +104,9 @@ Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio b
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "superREGIO (sR) ⚠️" traincategory category %}}
+{{% expander "superREGIO (sR)" traincategory category %}}
 **Beschreibung:** \
 Überregionale Züge, die von Polregio betrieben werden und mit höherem Komfort als normale Regiozüge ausgestattet sind.
-
-⚠️ Die Gültigkeit von FIP-Tickets in diesen Zügen ist uns leider unklar.
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
