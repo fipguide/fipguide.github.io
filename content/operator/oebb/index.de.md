@@ -45,6 +45,12 @@ Kosten: \
 **Beschreibung:** \
 Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die Züge verkehren regelmäßig zwischen den wichtigsten Städten Österreichs, aber auch nach Deutschland, Italien, Tschechien, Ungarn, in die Slowakei und Schweiz. Die Züge besitzen 3 Wagenklassen und ein Bistro. Railjets mit weniger Halten werden als Railjet Xpress vermarktet.
 
+**Economy**: Vergleichbar mit der 2. Klasse. \
+**First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
+
+[Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
+
 Für Railjets nach italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
@@ -129,16 +135,6 @@ Dazu gehören unter anderem:
 
 **Reservierung möglich:** nein
 {{% /expander %}}
-
-## Klassenkategorien
-
-In Railjet(Xpress)-Zügen gibt es abweichende Klassenkategorien:
-
-**Economy**: Vergleichbar mit der 2. Klasse. \
-**First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
-**Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
-
-[Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
 ## Ticket- und Reservierungskauf
 
