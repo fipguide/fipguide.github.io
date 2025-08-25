@@ -9,7 +9,7 @@ country:
 
 Die Rigi-Bahnen betreiben verschiedene Bergbahnen auf die Rigi, die als "Königin der Berge" bekannt ist. Das Unternehmen umfasst sowohl Zahnradbahnen als auch Seilbahnen und verbindet mehrere Orte rund um den Vierwaldstättersee mit dem beliebten Ausflugsziel. Die Vitznau-Rigi-Bahn war 1871 die erste Bergbahn Europas.
 
-Seit dem 1. Januar 2025 akzeptieren die Rigi-Bahnen in der Schweiz FIP Vergünstigungen. Dabei können vergünstigte FIP 50 Ticket gekauft oder der Freifahrtschein für die Schweizer Privatbahnen (SP) genutzt werden.
+Seit dem 1. Januar 2025 akzeptieren die Rigi-Bahnen in der Schweiz FIP Vergünstigungen. Dabei können sowohl vergünstigte FIP 50 Tickets gekauft als auch der Freifahrtschein für die Schweizer Privatbahnen (SP) genutzt werden.
 
 FIP Vergünstigungen gelten auf folgenden Strecken der Rigi-Bahnen [^1]:
 
@@ -26,6 +26,6 @@ FIP Vergünstigungen gelten **nicht** auf folgenden Stecken [^1]:
 - Vitznau – Wissifluh (Seilbahn)
 - Brunnen – Urmiberg (Seilbahn)
 
-Eine günstige Option Kinder ist auch die [Kinder-Tageskarte der SBB](https://www.sbb.ch/de/billette-angebote/billette/tageskarten/kinder-tageskarte.html).
+Eine günstige Option für Kinder ist auch die [Kinder-Tageskarte der SBB](https://www.sbb.ch/de/billette-angebote/billette/tageskarten/kinder-tageskarte.html).
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
