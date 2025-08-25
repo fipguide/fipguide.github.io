@@ -112,7 +112,7 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 ### Im Zug
 
-Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets. Augenommen davon ist der Zuschlag für die grenzüberschreitenden Fernzüge nach Italien.
+Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets. Ausgenommen davon ist der Zuschlag für die grenzüberschreitenden Fernzüge nach Italien.
 
 ## Ermäßigungen
 
@@ -134,8 +134,8 @@ Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf d
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag erforderlich. \
 Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein  oder FIP 50 Ticket.
-- 2. Klasse: 11€
-- 1. Klasse: 13€
+- 2\. Klasse: 11€
+- 1\. Klasse: 13€
 
 Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug möglich.
 
