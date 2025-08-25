@@ -106,7 +106,7 @@ Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London ko
 
 **FIP Globalpreis**
 
-Bei der Buchung muss der FIP Ausweise aller Reisenden vorgezeigt werden.
+Bei der Buchung muss der FIP Ausweis aller Reisenden vorgezeigt werden.
 {{% /booking %}}
 
 ### Im Zug
