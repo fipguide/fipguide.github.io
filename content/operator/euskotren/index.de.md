@@ -9,51 +9,61 @@ operator: 'euskotren'
 
 {{< wip >}}
 
-Im Norden Spaniens zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet ein Netz der baskischen Eisenbahn die malerischen Küstenorte und das gebirgige Hinterland. Euskotren ist Eigentum der baskischen Regionalregierung.
+Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Die baskische Regionalregierung besitzt Euskotren.
 
 ## Zusammenfassung
 
-- Vor Ort wird bei Vorlage des FIP Ausweises kostenfrei ein Ticket ausgestellt, das 7 Tage gültig ist und zur Nutzung des gesamten Euskotren Netzes mit Ausnahme von Bussen berechtigt.[^1]
-- Mit dem Ticket können die Züge, die U-Bahnlinie L3 in Bilbao sowie Straßenbahnen und die Standseilbahn "Funicular de Larreineta" genutzt werden.
-- Das Ticket kann nach Ablauf auch mehrfach pro Jahr neu ausgestellt werden. Die sonst übliche Limitierung bei FIP Freifahrtscheinen gilt bei Euskotren nicht.
+- Wenn du vor Ort deinen FIP Ausweis vorlegst, stellt dir das Personal kostenfrei ein Ticket aus, das 7 Tage gültig ist und zur Nutzung des gesamten Euskotren Netzes mit Ausnahme von Bussen berechtigt.[^1]
+- Mit dem Ticket fährst du mit den Zügen, der U-Bahnlinie L3 in Bilbao und den Straßenbahnen.
+- Nach Ablauf kannst du das Ticket auch mehrfach pro Jahr neu ausstellen lassen.
+- Das Personal der Standseilbahn "Funicular de Larreineta" stellt bei Vorlage des FIP-Ausweises kostenfreie Tickets aus.
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅, kann vor Ort ausgestellt werden.
+FIP Freifahrtsschein: ⛔ \
+FIP 50 Tickets: ⛔ \
+Spezielles "Euskotren FIP Ticket" (für Inhaber & Angehörige): ✅
+
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
+
+Bei Euskotren wird vor Ort in den Euskotren Kundenzentren gegen Vorlage des FIP-Ausweises ein spezielles "Euskotren FIP-Ticket" ausgestellt.
+Das Ticket wird auch für Angehörige mit eigenem FIP-Ausweis ausgestellt. Es ist inklusive des Ausstellungstages für 7 Tage gültig und kann für das gesamte Euskotren-Netz mit Ausnahme von Regionalbuslinien und der Museumsbahn genutzt werden.
+Das "Euskotren FIP Ticket" wird genutzt, um die Bahnsteinbarrieren zu passieren. Nach Ablauf kannst du das Ticket mehrfach pro Jahr neu ausstellen lassen. Die sonst übliche Limitierung bei FIP Freifahrtscheinen wendet Euskotren nicht an.
+
+<br style="clear:both" />
+
+{{% highlight tip %}}
+Einige Zugbetreiber stellen auch Freifahrtscheine für Euskotren aus. Nach unserem Stand haben diese keinen Nutzen, die Bahnsteigbarrieren können damit nicht passiert werden. Stattdessen empfehlen wir, das Ticket vor Ort ausstellen zu lassen.
+{{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "Meterspur-Bahn" traincategory "category" %}}
-**Beschreibung:**
+Bei Euskotren sind grundsätzlich keine Reservierungen möglich.
 
-Euskotren bereit Züge auf der elektrifizierten Meterspur-Bahn in den Provinzen Bizkaia und Gipuzkoa. Der ausgestellte FIP Freifahrtsschein wird auf allen Linien, einschließlich der Linie bis zum TGV-Bahnhof Hendaye in Frankreich, anerkannt.
+{{% expander "Meterspur-Bahn" traincategory "category" %}}
+**Beschreibung:** \
+Euskotren betreibt Züge auf der elektrifizierten Meterspur-Bahn in den Provinzen Bizkaia und Gipuzkoa. Das Personal erkennt die "Euskotren FIP Tickets" auf allen Linien an, einschließlich der Linie bis zum TGV-Bahnhof Hendaye in Frankreich.
 {{% /expander %}}
 
 {{% expander "Straßenbahnen" traincategory "category" %}}
-**Beschreibung:**
+**Beschreibung:** \
+Das Personal erkennt die "Euskotren FIP Tickets" sowohl bei der Straßenbahn in Bilbao als auch in Vitoria-Gasteiz an.
 
-Der ausgestellte FIP Freifahrtsschein wird sowohl bei der Straßenbahn in Bilbao als auch in Vitoria-Gasteiz anerkannt.
+Gemäß dem Guide der Rail Delivery Group muss das Ticket bei der Nutzung der Straßenbahn in Bilbao validiert werden.[^1] Wie das in der Praxis funktioniert, ist jedoch unklar.
 {{% /expander %}}
 
 {{% expander "U-Bahnlinie L3 in Bilbao ℹ️" traincategory "category" %}}
-**Beschreibung:**
+**Beschreibung:** \
+In Bilbao gibt es ein U-Bahn-Netz mit drei Linien. Auf der Linie L3 erkennt das Euskotren die "Euskotren FIP Tickets" an.
 
-In Bilbao steht ein U-Bahn-Netz mit drei Linien zur Verfügung. Auf der Linie L3 wird der FIP Freifahrtsschein anerkannt.
-
-ℹ️ Auf allen anderen Linien (L1 und L2) im Metronetz von Bilbao wird FIP nicht anerkannt. Nur die Linie L3 wird von Euskotren betrieben.[^3]
+ℹ️ Auf allen anderen Linien (L1 und L2) im Metronetz von Bilbao erkennt die Metro Bilbao FIP nicht an. Nur die Linie L3 betreibt Euskotren.[^3]
 {{% /expander %}}
 
 {{% expander "Standseilbahn \"Funicular de Larreineta\"" traincategory "category" %}}
-**Beschreibung:**
-
-Die historische Standseilbahn zwischen Trapagaran und Larreineta wird von Euskotren betrieben und verbindet die Bergsiedlungen oberhalb von Trapagaran mit dem Tal.
-Für die Standseilbahn wird ein kostenfreies Ticket an der jeweiligen Station ausgestellt.
-{{% /expander %}}
-
-{{% expander "Regionalbuslinien ⛔" buscategory "category" %}}
-**Beschreibung:**
-
-FIP wird in den Bussen von Euskotren nicht anerkannt.
+**Beschreibung:** \
+Euskotren betreibt die historische Standseilbahn zwischen Trapagaran und Larreineta und verbindet damit die Bergsiedlungen oberhalb von Trapagaran mit dem Tal.
+Das Personal an der jeweiligen Station stellt dir für die Standseilbahn ein kostenfreies Ticket aus.
 {{% /expander %}}
 
 ## Klassenkategorien
@@ -66,6 +76,12 @@ Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Kla
 
 {{% booking id="euskotren-ticket-office" /%}}
 
+## Tarifliche Besonderheiten
+
+### Busse
+
+FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren.
+
 ## Empfehlungen
 
 ### Eisenbahnmuseum in Azpeitia
@@ -74,15 +90,9 @@ Euskotren betreibt auch das baskische Eisenbahnmuseum in Azpeitia, das mit dem B
 
 ### Hilfreiche Links
 
-Hilfreiche Links, die bei der Planung von Reisen helfen:
-
 - [Website von Euskotren](https://www.euskotren.eus)
 - [Zugpost zu Euskotren](https://zugpost.org/euskotren-baskenland/)
 - [Wikipedia](https://de.wikipedia.org/wiki/Euskotren)
-
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
 
 ## Quellen
 
