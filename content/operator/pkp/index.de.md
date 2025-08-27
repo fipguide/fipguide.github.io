@@ -88,9 +88,15 @@ Nachtzugverbindungen, die nur innerhalb von Polen fahren, werden als IC oder TLK
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja (in Schlaf- und Liegewagen) \
 **Kosten für Reservierung:** \
-Innerhalb Polens: \
+Innerhalb Polens:
+
+Mit FIP 50: \
 Schlafwagen: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
 Liegewagen: 3er/4er Abteil 69 PLN, 6er Abteil 59 PLN [^1]
+
+Mit Freifahrtschein: \
+Schlafwagen: Single 140 PLN, Double 74 PLN, Triple 65 PLN \
+Liegewagen: 3er/4er Abteil 44 PLN, 6er Abteil 35 PLN
 
 Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
 {{% /expander %}}

@@ -25,4 +25,6 @@ FIP 50 Fahrkarten für nationale und grenzüberschreitende Fahrten können am PK
 **Reservierungen**
 
 Reservierungen können für alle nationalen und grenzüberschreitenden Verbindungen an PKP Ticketschaltern erworben werden.
+Inhabern eines Freifahrtsscheins wird die Reservierung statt der 3 PLN unentgeltlich ausgestellt.
+
 {{% /booking-section %}}
