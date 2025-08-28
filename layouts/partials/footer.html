@@ -26,10 +26,11 @@
               aria-controls="language-dropdown"
               title="{{ T "language-switcher.aria-label" }}"
               aria-label='{{ T "language-switcher.aria-label" }}'>
-        <span class="o-language-switcher__current">{{ $.Site.Language.LanguageName }}</span>
-        <span class="o-language-switcher__icon">
+        {{ partial "icon" "translate" }}
+        <div>{{ $.Site.Language.LanguageName }}</div>
+        <div class="o-language-switcher__icon">
           {{ partial "icon" "keyboard_arrow_down" }}
-        </span>
+        </div>
       </button>
       <ul class="o-language-switcher__dropdown"
           role="listbox"
