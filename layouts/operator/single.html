@@ -5,7 +5,7 @@
             <div class="o-single__container content_with_heading">
                 <div class="o-single__content-header">
                     <div class="o-single__content-header-title">
-                        {{ partial "logo" (dict "operator" .File.ContentBaseName "pagefind" true)}}
+                        {{ partial "operator-logo" (dict "operator" .File.ContentBaseName "pagefind" true)}}
                         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                     </div>
                     {{ partial "updateDate.html" . }}
