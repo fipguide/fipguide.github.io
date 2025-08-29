@@ -7,7 +7,7 @@ function isAsideActive() {
 function initHighlightHeadline() {
 
     // In this site's layout, the table of contents (.content_with_heading) is an element that appears before any other content at the same hierarchy level
-    const headings = Array.from(document.querySelectorAll('.content_with_heading :is(h1, h2, h3, h4)'));
+    const headings = Array.from(document.querySelectorAll('.content_with_heading :is(h1, h2, h3)'));
     const windowPath = window.location.pathname;
     if (headings.length === 0) {
         return; // No headings? No business here
@@ -66,7 +66,7 @@ function initHighlightHeadline() {
             {
                 //? docHeight: Extend the detection above the heading so it's always considered as intersecting if above the scrollport
                 //? -33%: The element won't be considered as intersecting until it has gone _above_ the bottom third of the scrollport
-                rootMargin: `${docHeight}px 0px -80% 0px`,
+                rootMargin: `${docHeight}px 0px -90% 0px`,
                 threshold: 1, // Only considered intersecting if all the pixels are inside the intersection area
             }
         );
