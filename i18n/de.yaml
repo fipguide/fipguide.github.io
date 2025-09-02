@@ -16,7 +16,7 @@ booking:
   visit-booking-website: Zur Buchungsseite
 countries:
   overview: Alle Länder
-  selection: Länderauswahl
+  selection: Länder
 country:
   many: Länder
   one: Land
@@ -48,6 +48,8 @@ menu-open: Menü
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
+operators:
+  selection: Betreiber
 operators_without_fip: Betreiber ohne FIP
 related:
   countries: Verwandte Länder
