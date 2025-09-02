@@ -43,6 +43,8 @@ Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer we
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
+Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
+
 ### Portugal
 
 Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt.
