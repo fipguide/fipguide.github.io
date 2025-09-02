@@ -1,41 +1,17 @@
 ---
 draft: false
-title: 'Euskotren-Ticket-Office' # Change the title to the name of the booking platform
+title: 'Euskotren Customer Centers'
 params:
-    classes:
-        # Define classes and prices for the corresponding reservations.
-        # Make sure that each class exists under `booking.classes` in i18n.
-        first: "X.XX€"
-        second: "X.XX€"
-    fip_50: true # Define if FIP 50 tickets can be booked with this booking platform
-    fip_global_fare: true # Define if FIP Global Fare tickets can be booked with this booking platform
-    reservations: true # Define if reservations can be booked with this booking platform
-    booking_link: "https://example.com" # Add a link to the booking platform
-    additional_info_link: "https://example.com/additional-info" # Add a link with additional information
-    type: "onsite" # Accepted types are: website, onsite, phone, email and machine
+    fip_50: nil
+    fip_global_fare: nil
+    reservations: nil
+    type: "onsite"
+    additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
 ---
 
-{{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+Upon presentation of the FIP card, a ticket valid for 7 days is issued at the following outlets.
 
-<!--
-    Explain the steps for booking FIP 50 tickets with this booking platform.
--->
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-**FIP Global Fare**
-
-<!--
-    Explain the steps for booking FIP Global Fares with this booking platform.
--->
-{{% /booking-section %}}
-
-
-{{% booking-section "reservations" %}}
-**Reservierungen**
-
-<!--
-    Explain the steps for booking reservations with this booking platform.
--->
-{{% /booking-section %}}
+- **Bilbao**: Bahnhof Zazpikaleak ([Google Maps](https://maps.app.goo.gl/hvwrJBTd35r4j2eP8))
+- **Donostia - San Sebastián**: Bahnhof Amara-Donostia ([Google Maps](https://maps.app.goo.gl/er4tJougg2do4kqC9))
+- **Gernika** – Bahnhof Gernika ([Google Maps](https://maps.app.goo.gl/BvsrXzc7Y2s8bnx57))
+- **Durango** – Bahnhof Durango ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))

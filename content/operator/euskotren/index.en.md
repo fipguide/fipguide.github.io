@@ -2,134 +2,92 @@
 draft: false
 title: 'Euskotren'
 country:
-  # Add the abbreviations of the countries the railway company operates in.
-  - 'country1'
-  - 'country2'
-  - 'country3'
+  - 'spain'
 operator: 'euskotren'
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-{{< wip >}}
-
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+In northern Spain, Euskotren operates a Basque railway network that connects the picturesque coastal towns and mountainous hinterland between the French border at Hendaye and the metropolis of Bilbao. Euskotren is owned by the Basque regional government.
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- If you present your FIP card on site, you receive a free "Euskotren FIP Ticket" that is valid for 7 days and entitles you to use the entire Euskotren network except for buses.[^1]
+- With the ticket you can travel on trains, metro line L3 in Bilbao, trams and the "Funicular de Larreineta" funicular railway.
+- After expiry, you can have the ticket reissued multiple times per year.
 
 ## Validity of FIP Tickets
 
-FIP Coupon: <✅/⛔> \
-FIP Coupon relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
+FIP Coupon: ⛔ \
+FIP 50 Tickets: ⛔ \
+Special "Euskotren FIP Ticket" (for holders & relatives): ✅
 
-<!--
-  Where are FIP 50 tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
+The staff at Euskotren customer centers will issue you a special "Euskotren FIP Ticket" upon presentation of your FIP card.
+The ticket is also issued for relatives with their own FIP card. It is valid for 7 days including the day of issue and you can use it for the entire Euskotren network except for regional bus lines and the museum railway.
+You use the "Euskotren FIP Ticket" to pass through platform barriers. After expiry, you can have the ticket reissued multiple times per year. Euskotren does not apply the usual limitation for FIP Coupons.
+
+<br style="clear:both" />
+
+{{% highlight tip %}}
+Some train operators also issue free travel passes for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
+{{% /highlight %}}
 
 ## Train Categories and Reservations
 
-<!--
-  Are reservations possible and where is there a reservation requirement?
--->
+Reservations are generally not possible with Euskotren.
 
-<!--
-  For each train category, a separate section can be added according to the following principle:
-  In the title, the following emojis can be used:
-  - ⚠️ for a general reservation requirement or supplements
-  - 1️⃣ for a reservation requirement in 1st class
-  - ⛔ for a non-acceptance of FIP
-  - ℹ️ for confusion with other railway companies/train categories
--->
-{{% expander "Train category" traincategory "category" %}}
-<!-- Replace "Train category" with the name of the category, e.g. ICE. -->
-**Description:**
-<!-- Description of the category -->
-**Reservation possible:** <yes/no> \
-**Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
-<!-- If FIP is not valid, add the following:
-**FIP:** ⛔ FIP is not accepted
--->
-<!-- If there are FIP Global Fares, add the following:
-**FIP Global Fare:**
--->
+{{% expander "Meter-gauge Railway" traincategory "category" %}}
+**Description:** \
+Euskotren operates trains on the electrified meter-gauge railway in the provinces of Bizkaia and Gipuzkoa. The "Euskotren FIP Tickets" are valid on all lines, including the line to the TGV station Hendaye in France.
+{{% /expander %}}
+
+{{% expander "Trams" traincategory "category" %}}
+**Description:** \
+The "Euskotren FIP Tickets" are valid on both the tram in Bilbao and in Vitoria-Gasteiz.
+
+According to the Rail Delivery Group guide, the ticket must be validated when using the tram in Bilbao.[^1] However, how this works in practice is unclear.
+{{% /expander %}}
+
+{{% expander "Metro Line L3 in Bilbao ℹ️" traincategory "category" %}}
+**Description:** \
+In Bilbao there is a metro network with three lines. On line L3, Euskotren accepts the "Euskotren FIP Tickets".
+
+ℹ️ On all other lines (L1 and L2) in Bilbao's metro network, Metro Bilbao does not recognize FIP. Only line L3 is operated by Euskotren.[^3]
+{{% /expander %}}
+
+{{% expander "Funicular Railway \"Funicular de Larreineta\"" traincategory "category" %}}
+**Description:** \
+Euskotren operates the historic funicular railway between Trapagaran and Larreineta, connecting the mountain settlements above Trapagaran with the valley.
+
+The machines at the stations accept the "Euskotren FIP Ticket". If it is not accepted, please contact the staff on site.
+
+If you don't have an "Euskotren FIP Ticket", the staff at the stations will issue free individual tickets for the funicular railway upon presentation of the FIP card.
 {{% /expander %}}
 
 ## Class Categories
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
-
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+There is a uniform class that can be used with both 1st and 2nd class FIP cards.
 
 ## Ticket and Reservation Purchase
 
-### Online
+### On Site
 
-<!--
-  Embed the information of a defined booking platform here.
-
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
-
-  For more information how to define a booking platform, check the booking archetype.
--->
-
-### Telephone
-
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
-
-### On-Site
-
-<!--
-  Embed additional booking platforms with booking on site here.
--->
-
-### On the Train
-
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
-
-## Discounts
-
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+{{% booking id="euskotren-ticket-office" /%}}
 
 ## Special Tariff Conditions
 
-### <Route or Name>
+### Buses
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
+FIP tickets are not valid on Euskotren's regional bus lines.
 
 ## Recommendations
 
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+### Railway Museum in Azpeitia
+
+Euskotren also operates the Basque Railway Museum in Azpeitia, which is accessible by bus from Eibar, Zumaia and Zumarraga[^2]. Free admission is granted upon presentation of the FIP card. FIP discounts are not accepted on the museum's steam train.
 
 ## Sources
 
-[^1]: [<Source Name 1>](<Link>)
-[^2]: [<Source Name 2>](<Link>)
+[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+[^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
+[^3]: [Wikipedia Metro Bilbao](https://de.wikipedia.org/wiki/Metro_Bilbao)

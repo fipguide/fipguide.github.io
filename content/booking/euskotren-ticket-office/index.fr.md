@@ -1,40 +1,17 @@
 ---
 draft: false
-title: 'Euskotren-Ticket-Office' # Remplacez le titre par le nom de la plateforme de réservation
+title: 'Centres clients Euskotren'
 params:
-    classes:
-        # Définissez les classes et les tarifs correspondants aux réservations.
-        # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-        first: "X,XX€"
-        second: "X,XX€"
-    fip_50: true # Indique si les billets FIP 50 peuvent être réservés via cette plateforme
-    fip_global_fare: true # Indique si les billets FIP Global Fare peuvent être réservés via cette plateforme
-    reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-    booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
-    additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-    type: "onsite" # Types acceptés : website, onsite, phone, email et machine
+    fip_50: nil
+    fip_global_fare: nil
+    reservations: nil
+    type: "onsite"
+    additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
 ---
 
-{{% booking-section "fip_50" %}}
-**Billets FIP 50**
+Sur présentation de la carte FIP, un billet valable 7 jours est délivré dans les points de vente suivants.
 
-<!--
-    Expliquez les étapes pour réserver des billets FIP 50 via cette plateforme de réservation.
--->
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-**Tarif Global FIP**
-
-<!--
-    Expliquez les étapes pour réserver des billets au tarif global FIP via cette plateforme de réservation.
--->
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-**Réservations**
-
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
-{{% /booking-section %}}
+- **Bilbao** : Gare Zazpikaleak ([Google Maps](https://maps.app.goo.gl/hvwrJBTd35r4j2eP8))
+- **Donostia - San Sebastián** : Gare Amara-Donostia ([Google Maps](https://maps.app.goo.gl/er4tJougg2do4kqC9))
+- **Gernika** – Gare Gernika ([Google Maps](https://maps.app.goo.gl/BvsrXzc7Y2s8bnx57))
+- **Durango** – Gare Durango ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))
