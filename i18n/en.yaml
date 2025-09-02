@@ -15,7 +15,7 @@ booking:
   visit-booking-website: To Booking Website
 countries:
   overview: All Countries
-  selection: choose country
+  selection: Countries
 country:
   many: countries
   one: country
@@ -47,6 +47,8 @@ menu-open: Menu
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
+operators:
+  selection: Operators
 operators_without_fip: Operators without FIP
 related:
   countries: Related Countries

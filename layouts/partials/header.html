@@ -19,13 +19,14 @@
         {{ partial "icon" "close" }}
       </button>
       <menu>
-        <li class="o-header__item">
-          <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
+        <li class="o-header__item o-dropdown">
+          <button id="navbar-country-selection-button" class="o-dropdown__button" aria-haspopup="true" aria-expanded="false">
             <span>{{ T "countries.selection" }}</span>
-            {{ partial "icon" "keyboard_arrow_down" }}
+            <div class="o-dropdown__icon">
+              {{ partial "icon" "keyboard_arrow_down" }}
+            </div>
           </button>
-          <span id="menu-country-list-title">{{ T "country" }}</span>
-          <menu class="o-header__item-countries" aria-describedby="menu-country-list-title">
+          <menu id="navbar-country-selection-dropdown" class="o-header__item-countries o-dropdown__menu o-dropdown__menu--below" aria-describedby="menu-country-list-title">
             {{ range  where site.RegularPages "Section" "country"}}
             <li class="o-header__item">
               <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -36,21 +37,22 @@
         <li class="o-header__item">
           <span id="menu-general-list-title">{{ T "general" }}</span>
           <ul class="o-header__item-wrapper" aria-describedby="menu-general-list-title">
-            <li class="o-header__item a-theme-toggle--desktop">
-              {{ partial "theme-toggle" }}
-            </li>
             {{ $news := site.GetPage "news" }}
-            {{ if $news }}
             <li class="o-header__item">
               <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
             </li>
-            {{ end }}
             {{ $informationPage := site.GetPage "generalInformation" }}
-            {{ if $informationPage }}
             <li class="o-header__item">
               <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
             </li>
-            {{ end }}
+          </ul>
+        </li>
+        <li class="o-header__item">
+          <span id="menu-general-list-title">{{ T "general" }}</span>
+          <ul class="o-header__item-wrapper" aria-describedby="menu-general-list-title">
+            <li class="o-header__item a-theme-toggle--desktop">
+              {{ partial "theme-toggle" }}
+            </li>
           </ul>
         </li>
       </menu>
