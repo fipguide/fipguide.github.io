@@ -19,9 +19,8 @@ country:
 countryselection: Choisir un pays
 editPage: Modifier la page
 footer-love:
-  aria-label: Fait avec amour à Aix-la-Chapelle, Francfort, Cologne et Paris
-  text: Fait avec ♥️ à Aix-la-Chapelle, Francfort, Cologne et Paris
-general: général
+  aria-label: Fait avec amour en Europe
+  text: Fait avec ♥️ en Europe
 highlight:
   important: Informations importantes
   inofficial: Informations non officielles
