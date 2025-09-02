@@ -14,7 +14,7 @@ params:
 
 En Espagne, l'utilisation du FIP n'est pas toujours simple, car monter à bord sans réservation préalable est rarement possible. Sur la plupart des lignes, il faut réserver un billet au tarif global FIP à l'avance. Comme les billets ne sont vendus que dans la limite des places disponibles, il est fortement déconseillé d'attendre la dernière minute, même pour les trains régionaux.
 
-La [Renfe]({{< ref "/operator/renfe" >}} "Renfe") est le principal opérateur ferroviaire espagnol et accepte les titres FIP. Cependant, sur les axes rentables, Renfe est en concurrence avec des opérateurs privés comme OUIGO ou Iryo, qui n’acceptent pas le FIP. Un autre opérateur régional, Euskotren (Pays basque), accepte également le FIP.
+La [Renfe]({{< ref "/operator/renfe" >}} "Renfe") est le principal opérateur ferroviaire espagnol et accepte les titres FIP. Cependant, sur les axes rentables, Renfe est en concurrence avec des opérateurs privés comme OUIGO ou Iryo, qui n’acceptent pas le FIP. Un autre opérateur régional, [Euskotren]({{< ref "/operator/euskotren" >}}) (Pays basque), accepte également le FIP.
 
 ## Informations générales
 
@@ -42,6 +42,8 @@ Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Re
 Pour les trains opérés par Renfe, les tarifs sont équivalents à ceux des AVE nationaux, mais ces billets ne peuvent être obtenus qu’aux guichets Renfe.
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
+
+Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu'à Hendaye en utilisant le billet FIP spécial.
 
 ### Portugal
 
