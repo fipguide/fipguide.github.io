@@ -40,7 +40,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Internationale Züge Richtung Deutschland und Italien.
 
