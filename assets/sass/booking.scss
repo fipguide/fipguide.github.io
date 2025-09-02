@@ -31,6 +31,10 @@
 
     @media (max-width: #{$breakpoint-md}) {
         align-items: flex-start;
+
+        &:empty {
+            display: none;
+        }
     }
 }
 
@@ -72,6 +76,10 @@
 
     @media (max-width: #{$breakpoint-md}) {
         align-items: flex-start;
+
+        &:empty {
+            display: none;
+        }
     }
 }
 
