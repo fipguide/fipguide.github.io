@@ -70,7 +70,7 @@ main {
   margin-right: auto;
 }
 
-.o-card{
+.o-card {
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
   padding: 2rem;
@@ -159,21 +159,23 @@ img {
   @include add-columns(3);
 }
 
-.o-single,
-.o-list {
+.o-single {
   padding: 2rem;
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
+  border: var(--border);
 
   &--with-sidemenu {
     padding: 0;
     background-color: inherit;
+    border: unset;
   }
 
   &__container {
     background-color: var(--bg-default);
     padding: 2rem;
     border-radius: var(--border-radius-l);
+    border: var(--border);
   }
 
   &__content-wrapper {
@@ -224,9 +226,17 @@ img {
   }
 }
 
+.o-list {
+  padding: 2rem;
+  background-color: var(--bg-default);
+  border-radius: var(--border-radius-l);
+  border: var(--border);
+}
+
 .o-list--news {
   padding: 0;
   background-color: unset;
+  border: none;
 }
 
 .pagefind-highlight {
