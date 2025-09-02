@@ -23,9 +23,9 @@ Portugal verfügt über kein besonders dichtes Streckennetz.
 Der Bahnverkehr konzentriert sich auf die Hauptachse zwischen Braga, Porto, Lissabon und Faro sowie die Ballungszentren Lissabon und Porto.
 In den letzen Jahrzehnten wurden zudem einige Relationen stillgelegt, wodurch viele Städte (z. B. Mora und Monsaraz) derzeit nicht mehr mit dem Zug erreichbar sind.
 
-Im Fernverkehr kommen moderne Neigezüge und Reisezugwagen mit bequem gepolsterten Sitzen zum Einsatz, beide bieten Komfortfeatures und ein gastronomisches Angebot. Im Regionalverkehr verkehren überwiegend einstöckige und doppelstöckige Triebzüge, welche bereits einige Betriebsjahre hinter sich haben (welche ihnen auch anzusehen sind).
+Im Fernverkehr kommen moderne Neigezüge und Reisezugwagen mit bequem gepolsterten Sitzen zum Einsatz, beide bieten Komfortfeatures und ein gastronomisches Angebot. Im Regionalverkehr verkehren überwiegend einstöckige und doppelstöckige Triebzüge, welche bereits einige Betriebsjahre hinter sich haben.
 
-Aus persönlicher Erfahrung gibt einige Verspätungen; diese resultieren oftmals aus eingleisigen Streckenabschnitten sowie dem Warten auf Anschlussreisende aus Fernzügen.
+Aus persönlicher Erfahrung gibt es einige Verspätungen; diese resultieren oftmals aus eingleisigen Streckenabschnitten sowie dem Warten auf Anschlussreisende aus Fernzügen.
 Leider werden diese Verspätungen weder online noch in den Zügen selbst ausgespielt, einzig an den Bahnhofs- und Bahnsteiganzeigen sind Verspätungen ersichtlich.
 
 In den Ballungszentren Lissabon und Porto besteht ein enger Takt an Regional- und Pendlerzügen (Comboios Urbanos).
@@ -49,7 +49,7 @@ Besonders empfehlenswert ist ein Besuch der folgenden Bahnhöfe:
 
 ### Spanien
 
-Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Madrid nach Lissabon zu kommen, werden mehrere Umstiege notwendig, unter anderem an der spanischen Grenze in Badajoz, und es müssen lange Fahrtzeiten in Regionalzügen in Kauf genommen werden. Für die Reise werden FIP Tickets / Freifahrtsscheine der CP sowie ein Renfe-Ticket für den spanischen Abschnitt benötigt.
+Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Madrid nach Lissabon zu kommen, werden mehrere Umstiege notwendig, unter anderem an der spanischen Grenze in Badajoz, und es müssen lange Fahrtzeiten in Regionalzügen in Kauf genommen werden. Für die Reise werden FIP Tickets / Freifahrtscheine der CP sowie ein Renfe-Ticket für den spanischen Abschnitt benötigt.
 
 Ansonsten gibt es noch die Celta-Verbindung von Vigo nach Porto. Hier gilt ein FIP Globalpreis auf der gesamten Route ([siehe CP – Celta]({{< ref "/operator/cp#zugkategorien-und-reservierungen" >}} "CP")).
 

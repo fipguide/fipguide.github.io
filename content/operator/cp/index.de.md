@@ -4,11 +4,8 @@ title: 'CP'
 description: ''
 country:
   - 'portugal'
-  - 'spain'
 operator: 'cp'
 ---
-
-{{< wip >}}
 
 Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
 
@@ -26,12 +23,11 @@ Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigst
 
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: <✅/⛔> \
-FIP Globalpreis: <✅/⛔>
+FIP 50 Tickets: ✅ \
+FIP Globalpreis: ✅ (nur Celta Zug)
 
-<!--
-  Wo gelten FIP 50 Tickets/FIP Freifahrtsscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z.B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
--->
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CP gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+
 [Übersicht des CP-Liniennetzes](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
 
 ## Zugkategorien und Reservierungen
@@ -126,9 +122,7 @@ Tickets für diesen Zug müssen über die spanischen Vertriebswege gekauft werde
 
 ### Im Zug
 
-Wenn keine Verkaufsstelle der CP am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
-?? Fipcard.eu schreibt: The station has no ticket office, or the ticket office is closed for more than 24 hours prior to departure:
-You can buy tickets on trains by notifying the train manager on the platform.
+Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 Stunden vor Abfahrt nicht besetzt ist, können Tickets im Zug gekauft werden.
 
 ## Ermäßigungen
 
@@ -139,10 +133,6 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 ### Fahrtunterbrechungen
 
 Passagiere mit einem in Portugal erworbenen FIP-Ermäßigungsticket dürfen ihre Reise nicht unterbrechen. Für außerhalb Portugals erworbene Tickets ist eine Reiseunterbrechung (ggf. mit Reservierung) zulässig. [^1]
-
-### Alfa Pendular Züge (AP)
-
-In den Hochgeschwindigkeitszügen Alfa Pendular `AP` werden für FIP 1. Klasse nur 2. Klasse Tickets verkauft.
 
 ## Empfehlungen
 
