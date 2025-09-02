@@ -5,7 +5,6 @@ description: "Informationen über die FIP-Bedingungen bei Renfe."
 country:
   - "spain"
   - "france"
-  - 'portugal'
 operator: "renfe"
 ---
 

@@ -11,13 +11,8 @@ Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigst
 
 ## Zusammenfassung
 
-<!--
-  Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
-  Z.B.
-  - Werden FIP 50 und FIP Freifahrtsscheine akzeptiert?
-  - Gibt es eine Reservierungspflicht?
-  - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
--->
+- FIP Freifahrtscheine und FIP 50 Tickets gelten in allen Zügen der CP
+- Im Fernverkehr besteht eine Reservierungspflicht
 
 ## Gültigkeit FIP Tickets
 
@@ -31,6 +26,8 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CP gültig. Be
 [Übersicht des CP-Liniennetzes](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
 
 ## Zugkategorien und Reservierungen
+
+Reservierungen sind nur im Fernverkehr (`AP` und `IC`) verpflichtend.
 
 {{% expander "Alfa Pendular (AP) ⚠️" traincategory "category" %}}
 **Beschreibung:** \

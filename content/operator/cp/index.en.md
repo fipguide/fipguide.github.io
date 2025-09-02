@@ -4,7 +4,6 @@ title: 'CP'
 description: ''
 country:
   - 'portugal'
-  - 'spain'
 operator: 'cp'
 ---
 
