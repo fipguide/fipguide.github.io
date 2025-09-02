@@ -1,6 +1,7 @@
 ---
 draft: false
 title: '{{ .File.ContentBaseName | title }}' # Ändere den Titel auf den Name der Buchungsplattform
+description: '' # Ergänze eine Beschreibung für die Buchungsplattform
 params:
     classes:
         # Definiere Klassen und entsprechende Preise für die zugehörigen Reservierungen.
