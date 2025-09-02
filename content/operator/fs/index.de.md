@@ -28,7 +28,7 @@ FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
-In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z.B. Trenord)
+In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z.B. Trenord oder Ferrovie Sud Est)
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
@@ -81,7 +81,8 @@ Anschlussbusse für Hochgeschwindigkeitszüge.
 Schnellzug meist abseits von Hochgeschwindigkeitsstrecken. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+**Kosten für Reservierung**: 25€ (1./2. Klasse) \
+Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
 
 {{% expander "InterCity Notte (ICN) ⚠️" traincategory "long-distance" %}}
@@ -89,17 +90,24 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+**Kosten für Reservierung**: 25€ (1./2. Klasse) \
+Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
 
 ### Internationaler Fernverkehr
 
-{{% expander "Railjet (RJ) / Railjet Xpress (RJX) / Eurocity (EC) ⚠️" traincategory "long-distance" %}}
+{{% expander "Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+**Kosten für Reservierung**: \
+25€ (1./2. Klasse)
+
+Brennerverkehr: \
+1. Klasse: 15€
+2. Klasse: 10€
+Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / Euronight (EN) ⚠️" traincategory "long-distance" %}}
@@ -178,14 +186,50 @@ Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahre kostenlos. I
 
 ## Tarifliche Besonderheiten
 
+### Verkehr nach Österreich
+
+Auf internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag (wie im restlichen italienischen Fernverkehr) zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
+
+#### Brenner - Bozen - Verona
+
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+
+#### Railjet Tarvisio Boscoverde - Venedig
+
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+
+### Regionalzüge in Emilia-Romagna
+
+FIP Vergünstigungen gelten auch in Zügen die von Trenitalia TPER in der Region Emilia-Romagna betrieben werden.
+
+### Fähre Straße von Messina
+
+FIP-Vergünstigungen gelten für die Überquerung der Straße von Messina nur, wenn die Reise mit dem Zug erfolgt, der die Zugfähre von Villa San Giovanni nach Messina nutzt.
+
+### Rom Fiumicino Flughafen Leonardo Express
+
+Im Leonardo Express von/zum Flughafen Rom Fiumicino gelten keine FIP Vergünstigungen. Alternativ verkehren aber normale Regionalzüge.
+
+### Palermo Flughafen Trinacria Express
+
+Im Trinacria Express von/zum Flughafen Palermo Falcone Borsellino gelten keine FIP Vergünstigungen.
+
+### Internationale Frecciarossa Züge nach Paris
+
+FIP-Vergünstigungen gelten nicht in internationalen Frecciarossa zwischen Paris und Italien.
+
+### Fahrtunterbrechnung
+
+Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne ANkündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets (mit aufgedruckter Zugnummer). Siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
+
 ### Zugbindung im Nahverkehr
 
-In Italien gilt im Nahverkehr (`R`/`RV`) teilweise Zugbindungen bei Tickets. Dies ist für die Nutzung mit FIP 50 Tickets und FIP Freifahrtscheinen nicht relevant.
+In Italien gilt im Nahverkehr (`R`/`RV`) teilweise Zugbindungen bei Tickets. Dies gilt auch für FIP 50 Ticket, ist für Freifahrtscheine jedoch nicht relevant.
 
-{{% expander "Zugbindung im Nahverkehr" %}}
 Bei Regionalzügen wird unterschieden in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_).
 
 Tickets die für Züge gekauft werden die nicht zuggebunden sind, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig (nicht jedoch in zugebundenen Zügen). Die  nicht zuggebunden Züge sind erkennbar an:
+
 - Der Bemerkung "non prenotabile" in den Zuginformationen:
 ![Ordinaria](ordinaria_1.webp)
 - Der Ticketbezeichung "Ordinaria":
@@ -195,15 +239,17 @@ Tickets die fur Züge gekauft werden die zuggebunden sind, sind ausschließelich
 ![Prenotabile](prenotabile_1.webp)
 - Der Ticketbezeichnung "Prenotazione - Ordinaria":
 ![Prenotabile](prenotabile_2.webp)
-{{% /expander %}}
+
+### Abstempeln von Regionalzugtickets
+
+Tickets für nicht zuggebundene Regionalzüge (_non prenotabile_) müssen am Bahnsteig entwertet/abgestempelt werden (obliteratrici).
 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Für Fahrten im Fernverkehr
-{{ /highlight }}
+Für Fahrten im Fernverkehr lohnt sich der FIP Freifahrtschein nur eingeschränkt, da der Preis von Fahrkarten mit FIP 50 und Freifahrtschein für die Fernzüge sich kaum unterscheidet. Nur im Nahverkehr kann der Freifahrtschein voll genutzt werden. Da gibt es jedoch kaum eine 1. Klasse, wodurch sich der Freifahrtschein der 1. Klasse eher nicht lohnt.
+{{% /highlight %}}
 
 ## Quellen
 
 [^1]: [Frecciarossa Klassen](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
-[^2]: [<Quellenname 2](<Link>)

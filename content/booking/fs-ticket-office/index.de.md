@@ -27,7 +27,7 @@ An Trenitalia Fahrkartenschaltern können Reservierungen inkl. Aufschläge zum F
 
 Le Frecce: 25€ (1./2. Klasse) \
 InterCity: 3€ (1./2. Klasse) \
-Abweichende Preise für den Fernverkehr Richtung 
+Abweichende Preise für den Fernverkehr Richtung
 
 {{% /booking-section %}}
 
@@ -35,4 +35,4 @@ Abweichende Preise für den Fernverkehr Richtung
 Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güstiger als FIP reduzierte Tickets.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
-{{ /highlight }}
+{{% /highlight %}}
