@@ -150,6 +150,8 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 ### Online
 
+{{% booking id="fs-website" /%}}
+
 {{% booking id="db-website-fip-db"
     subtitle="Nur ECE Züge von Mailand nach Deutschland. Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 %}}
@@ -164,38 +166,42 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 ### Vor Ort
 
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
--->
+{{% booking id="fs-ticket-office" /%}}
 
 ### Im Zug
 
-<!--
-  Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
--->
+Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bordzuschlag erhoben (außer in Fällen, in denen es am Abfahrtsbahnhof keine Verkaufsstellen oder Fahrkartenautomaten gibt).
 
 ## Ermäßigungen
 
-<!--
-  Welche Ermäßigungen können Kinder bekommen und unter welchen Umständen?
-  Welche Ermäßigungen kann es sonst noch geben?
--->
+Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahre kostenlos. In Nahverkehrszügen erhalten Kinder bis einschließlich 12 Jahre eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 12 Jahren zahlen den regulären Erwachsenenpreis. In Fernverkehrszügen erhalten Kinder bis einschließlich 15 Jahre eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 15 Jahren zahlen den regulären Erwachsenenpreis.
 
 ## Tarifliche Besonderheiten
 
 ### Zugbindung im Nahverkehr
 
-<!--
-  Beschreibung der Besonderheit, wenn es auf bestimmten Routen z.B. Sonderregelungen gibt.
--->
+In Italien gilt im Nahverkehr (`R`/`RV`) teilweise Zugbindungen bei Tickets. Dies ist für die Nutzung mit FIP 50 Tickets und FIP Freifahrtscheinen nicht relevant.
+
+{{% expander "Zugbindung im Nahverkehr" %}}
+Bei Regionalzügen wird unterschieden in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_).
+
+Tickets die für Züge gekauft werden die nicht zuggebunden sind, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig (nicht jedoch in zugebundenen Zügen). Die  nicht zuggebunden Züge sind erkennbar an:
+- Der Bemerkung "non prenotabile" in den Zuginformationen:
+![Ordinaria](ordinaria_1.webp)
+- Der Ticketbezeichung "Ordinaria":
+![Ordinaria](ordinaria_2.webp)
+Tickets die fur Züge gekauft werden die zuggebunden sind, sind ausschließelich in dem aufgedruckten Zug gültig. Die zuggebundenen Züge sind erkennbar an:
+- Der Bemerkung "prenotabile" in den Zuginformationen:
+![Prenotabile](prenotabile_1.webp)
+- Der Ticketbezeichnung "Prenotazione - Ordinaria":
+![Prenotabile](prenotabile_2.webp)
+{{% /expander %}}
 
 ## Empfehlungen
 
-Freifahrtschein lohnt sich eigentlich nicht
-
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
+{{% highlight tip %}}
+Für Fahrten im Fernverkehr
+{{ /highlight }}
 
 ## Quellen
 
