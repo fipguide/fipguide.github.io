@@ -13,13 +13,9 @@ Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergüns
 
 ## Zusammenfassung
 
-<!--
-  Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
-  Z.B.
-  - Werden FIP 50 und FIP Freifahrtsscheine akzeptiert?
-  - Gibt es eine Reservierungspflicht?
-  - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
--->
+- Reservierungspflicht inkl. Aufschlägen im Fernverkehr
+- Teilweise Zugbindung bei FIP 50 Tickets im Nahverkehr
+- Keine Gültigkeit bei Tochtergesellschaften der Trenitalie wie Trenord oer Ferrovie Sud Est
 
 ## Gültigkeit FIP Tickets
 
@@ -28,14 +24,12 @@ FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
-In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z.B. Trenord oder Ferrovie Sud Est)
+In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z.B. Trenord oder Ferrovie Sud Est), selbst wenn die Züge Trenitalia Logos haben.
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
 
-<!--
-  Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
--->
+Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 
 ### Le Frecce
 
@@ -161,7 +155,7 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 {{% booking id="fs-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Nur ECE Züge von Mailand nach Deutschland. Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Nur ECE Züge von Mailand nach Deutschland. Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen und italienischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
@@ -173,6 +167,8 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 {{% /booking %}}
 
 ### Vor Ort
+
+{{% booking id="fs-ticket-machine" /%}}
 
 {{% booking id="fs-ticket-office" /%}}
 
@@ -231,14 +227,14 @@ Bei Regionalzügen wird unterschieden in zuggebunden (_prenotabile_) und nicht z
 Tickets die für Züge gekauft werden die nicht zuggebunden sind, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig (nicht jedoch in zugebundenen Zügen). Die  nicht zuggebunden Züge sind erkennbar an:
 
 - Der Bemerkung "non prenotabile" in den Zuginformationen:
-![Ordinaria](ordinaria_1.webp)
-- Der Ticketbezeichung "Ordinaria":
 ![Ordinaria](ordinaria_2.webp)
+- Der Ticketbezeichung "Ordinaria":
+![Ordinaria](ordinaria_1.webp)
 Tickets die fur Züge gekauft werden die zuggebunden sind, sind ausschließelich in dem aufgedruckten Zug gültig. Die zuggebundenen Züge sind erkennbar an:
 - Der Bemerkung "prenotabile" in den Zuginformationen:
-![Prenotabile](prenotabile_1.webp)
-- Der Ticketbezeichnung "Prenotazione - Ordinaria":
 ![Prenotabile](prenotabile_2.webp)
+- Der Ticketbezeichnung "Prenotazione - Ordinaria":
+![Prenotabile](prenotabile_1.webp)
 
 ### Abstempeln von Regionalzugtickets
 

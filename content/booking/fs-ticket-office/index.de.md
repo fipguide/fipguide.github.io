@@ -6,9 +6,6 @@ description: "Buchungsinformationen für die Trenitalia Ticketschalter."
 params:
     fip_50: true
     reservations: true
-    classes:
-        first: "3€ / 25€"
-        second: "3€ / 25€"
     additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
     type: "onsite"
 ---
@@ -18,16 +15,26 @@ params:
 
 An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden.
 
+{{% highlight inofficial %}}
+Teilweise werden an Ticketschaltern Tickets mit dem falschen Tarif ausgestellt, daher können sich Preise unterscheiden. Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
+{{% /highlight %}}
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservierungen und Aufschläge:**
 
-An Trenitalia Fahrkartenschaltern können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden.
+An Trenitalia Fahrkartenschaltern können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden. Dafür werden Ticket mit dem Tarif *** verkauft und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr.
+
+{{% highlight inofficial %}}
+Teilweise wird fälschlicherweise der Tarif _DIRITTO AMMISSIONE_ verkauft. Diese besitzt folgende Festpreise für die Aufschläge:
 
 Le Frecce: 25€ (1./2. Klasse) \
 InterCity: 3€ (1./2. Klasse) \
-Abweichende Preise für den Fernverkehr Richtung
+Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z.B. 20€ Chiasso - Milano (ECE/EC)
+
+Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
+{{% /highlight %}}
 
 {{% /booking-section %}}
 
