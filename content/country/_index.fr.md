@@ -1,6 +1,14 @@
 ---
 title: "Liste des pays"
 description: "Liste des pays où les facilités FIP sont acceptées."
+params:
+  countriesWithoutFip:
+    - Estonie
+    - Islande
+    - Malte
+    - Russie
+    - Suède
+    - Turquie
 ---
 
 Retrouvez les règles FIP pour votre destination sur les pages suivantes.

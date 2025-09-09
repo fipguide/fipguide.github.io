@@ -1,6 +1,14 @@
 ---
 title: "Overview of countries"
 description: "Overview of the countries where FIP benefits are available."
+params:
+  countriesWithoutFip:
+    - Estonia
+    - Iceland
+    - Malta
+    - Russia
+    - Sweden
+    - Turkey
 ---
 
 Find the FIP regulations for your destination on the following pages.

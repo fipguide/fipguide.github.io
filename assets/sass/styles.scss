@@ -125,6 +125,12 @@ img {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1rem;
+  list-style-position: inside;
+  padding-left: 1rem;
+
+  > li {
+    margin-left: 1rem;
+  }
 }
 
 .o-list__link {
@@ -141,6 +147,12 @@ img {
     display: flex;
     flex-direction: column;
   }
+}
+
+.o-list__countries-overview {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
 }
 
 @mixin add-columns($columns) {

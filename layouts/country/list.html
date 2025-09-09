@@ -3,19 +3,29 @@
     <h1 data-pagefind-meta="title">{{ .Title }}</h1>
     {{ .Content }}
     <div class="o-list__countries">
-      <div>
-        <h2>{{ T "countries.overview" }}</h2>
-        <div class="o-list__list">
-          {{ range .Pages }}
-          <a href="{{ .RelPermalink }}" class="o-list__link">
+      <div class="o-list__countries-overview">
+        <div>
+          <h2>{{ T "countries.overview" }}</h2>
+          <div class="o-list__list">
+            {{ range .Pages }}
+            <a href="{{ .RelPermalink }}" class="o-list__link">
             <div class="o-list__picture">
               {{ partial "flag" (dict "country" .File.ContentBaseName) }}
             </div>
             <div>
               {{ .Title }}
             </div>
-          </a>
-          {{ end }}
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        <div>
+          <h3>{{ T "countries.without-fip" }}</h3>
+          <ul class="o-list__list">
+            {{ range .Params.countriesWithoutFip }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
         </div>
       </div>
       <div class="o-interactive-map">
@@ -36,16 +46,38 @@
             </button>
           </div>
         </div>
+        <div class="o-interactive-map__legend">
+          {{ range (slice "available" "unavailable" "pending") }}
+          <div class="o-interactive-map__legend-item">
+            <div class="o-interactive-map__legend-color o-interactive-map__legend-color--{{ . }}"></div>
+            <span>{{ T (printf "interactiveMap.legend.%s" .) }}</span>
+          </div>
+          {{ end }}
+        </div>
       </div>
     </div>
   </article>
-
 
   <script>
     window.availableCountries = [
       {{- range .Pages -}}
       "{{ .File.ContentBaseName }}"{{ if not (eq . (index (last 1 $.Pages) 0)) }},{{ end }}
       {{- end -}}
+    ];
+
+    window.unavailableCountries = [
+      "sweden",
+      "malta",
+      "russia",
+      "turkey",
+      "iceland",
+      "greenland",
+      "estonia",
+      "ukraine",
+      "vatican",
+      "algeria",
+      "tunisia",
+      "morocco"
     ];
 
     window.currentLanguage = "{{ .Language.Lang }}";
