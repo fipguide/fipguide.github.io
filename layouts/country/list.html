@@ -5,23 +5,25 @@
     <div class="o-list__countries">
       <div class="o-list__countries-overview">
         <div>
-          <h2>{{ T "countries.overview" }}</h2>
-          <div class="o-list__list">
+          <h2 id="countries-with-fip">{{ T "countries.overview" }}</h2>
+          <ul class="o-list__list" aria-labelledby="countries-with-fip">
             {{ range .Pages }}
-            <a href="{{ .RelPermalink }}" class="o-list__link">
-            <div class="o-list__picture">
-              {{ partial "flag" (dict "country" .File.ContentBaseName) }}
-            </div>
-            <div>
-              {{ .Title }}
-            </div>
-            </a>
+            <li class="o-list__list-item o-list__list-item--country">
+              <a href="{{ .RelPermalink }}" class="o-list__link">
+                <div class="o-list__picture">
+                  {{ partial "flag" (dict "country" .File.ContentBaseName) }}
+                </div>
+                <div>
+                  {{ .Title }}
+                </div>
+              </a>
+            </li>
             {{ end }}
-          </div>
+          </ul>
         </div>
         <div>
-          <h3>{{ T "countries.without-fip" }}</h3>
-          <ul class="o-list__list">
+          <h2 id="countries-without-fip">{{ T "countries.without-fip" }}</h2>
+          <ul class="o-list__list" aria-labelledby="countries-without-fip">
             {{ range .Params.countriesWithoutFip }}
               <li>{{ . }}</li>
             {{ end }}
@@ -29,8 +31,8 @@
         </div>
       </div>
       <div class="o-interactive-map">
-        <h2>{{ T "interactiveMap.title" }}</h2>
-        <div class="o-interactive-map__wrapper">
+        <h2 id="interactive-map">{{ T "interactiveMap.title" }}</h2>
+        <div class="o-interactive-map__wrapper" aria-labelledby="interactive-map">
           <div id="interactive-map__container" class="o-interactive-map__container">
             <p class="o-interactive-map--loading"><em>{{ T "interactiveMap.loading" }}</em></p>
           </div>

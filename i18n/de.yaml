@@ -15,7 +15,7 @@ booking:
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
 countries:
-  overview: Alle Länder
+  overview: Länder mit FIP Akzeptanz
   selection: Länderauswahl
   without-fip: Länder ohne FIP Akzeptanz
 country:

@@ -126,16 +126,23 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1rem;
   list-style-position: inside;
-  padding-left: 1rem;
+  padding-left: 0;
 
   > li {
-    margin-left: 1rem;
+    margin-left: 0.5rem;
+  }
+}
+
+.o-list__list-item {
+  &--country {
+    list-style-type: none;
   }
 }
 
 .o-list__link {
   display: flex;
   align-items: center;
+  width: fit-content;
 }
 
 .o-list__countries{

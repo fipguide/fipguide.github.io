@@ -13,7 +13,7 @@ booking:
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
 countries:
-  overview: Tous les pays
+  overview: Pays acceptation FIP
   selection: choisir un pays
   without-fip: Pays sans acceptation FIP
 country:
