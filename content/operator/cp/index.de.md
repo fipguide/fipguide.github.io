@@ -33,7 +33,7 @@ Reservierungen sind nur im Fernverkehr (`AP` und `IC`) verpflichtend.
 **Beschreibung:** \
 Schnelle Neigetechnik-Züge (Pendolino), die auf der Strecke zwischen Braga, Porto, Lissabon und Faro mit wenigen Halten verkehren. Die Züge bieten einen hohen Komfort, Wi-Fi, Steckdosen an jedem Platz sowie einen Cafeteria- und Barservice.
 
-FIP Freifahrtsscheine (egal welcher Klasse) sind nur in der zweiten Klasse gültig.
+FIP Freifahrtsscheine (egal welcher Klasse) sind nur in der zweiten Klasse gültig. [^1]
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
@@ -119,7 +119,7 @@ Tickets für diesen Zug müssen über die spanischen Vertriebswege gekauft werde
 
 ### Im Zug
 
-Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 Stunden vor Abfahrt nicht besetzt ist, können Tickets im Zug gekauft werden.
+Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 Stunden vor Abfahrt nicht besetzt ist, können Tickets im Zug gekauft werden. [^1]
 
 ## Ermäßigungen
 
