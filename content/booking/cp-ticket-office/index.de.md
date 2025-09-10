@@ -5,9 +5,9 @@ description: 'Buchungsinformationen für die CP Ticketschalter.'
 params:
     classes:
         first: "5,00€"
-        second: "X.XX€"
-    fip_50: true # Definiere, ob FIP 50 Tickets bei dem Buchungsanbieter gebucht werden können.
-    fip_global_fare: true # Definiere, ob FIP Globalpreise bei dem Buchungsanbieter gebucht werden können.
+        second: "5,00€"
+    fip_50: true
+    fip_global_fare: false
     reservations: true
     additional_info_link: "https://www.cp.pt/passageiros/en/buy-tickets/Sales-points/ticket-offices"
     type: "onsite"
@@ -16,21 +16,11 @@ params:
 {{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
-<!--
-    Erkläre hier die Buchungswege, um FIP 50 Tickets zu erwerben.
--->
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-**FIP Globalpreis**
-
-<!--
-    Erkläre hier die Buchungswege, um FIP Globalpreise zu erwerben.
--->
+Am CP Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Portugals erworben werden. Der Ticketpreis wird vor Ort mit dem Taschenrechner ermittelt.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Reservierungen für reservierungspflichtige Züge können zu einem Preis von 5€ erworben werden.
+Reservierungen für reservierungspflichtige Züge können vor Ort zu einem Preis von 5€ erworben werden.
 {{% /booking-section %}}
