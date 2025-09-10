@@ -3,10 +3,13 @@ title: "Liste des pays"
 description: "Liste des pays où les facilités FIP sont acceptées."
 params:
   countriesWithoutFip:
+    - Andorre
+    - Chypre
     - Estonie
     - Islande
     - Malte
     - Russie
+    - Saint-Marin
     - Suède
     - Turquie
 ---

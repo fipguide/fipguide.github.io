@@ -3,10 +3,13 @@ title: "Overview of countries"
 description: "Overview of the countries where FIP benefits are available."
 params:
   countriesWithoutFip:
+    - Andorra
+    - Cyprus
     - Estonia
     - Iceland
     - Malta
     - Russia
+    - San Marino
     - Sweden
     - Turkey
 ---

@@ -3,12 +3,15 @@ title: "Übersicht der Länder"
 description: "Übersicht über die Länder, in denen FIP-Vergünstigungen genutzt werden können."
 params:
   countriesWithoutFip:
+    - Andorra
     - Estland
     - Island
     - Malta
     - Russland
+    - San Marino
     - Schweden
     - Türkei
+    - Zypern
 ---
 
 Finde auf den nachfolgenden Seiten die FIP-Regelungen für Dein Reiseziel.
