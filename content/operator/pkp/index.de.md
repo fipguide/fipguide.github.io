@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 - Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (Regionalzüge im Großraum Warschau)
-- Einige Strecken der [Koleje Dolnośląskie]({{< ref "/operator/kd" >}} "KD") (KD).
+- Einige Strecken der Koleje Dolnośląskie (KD).
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 

@@ -17,8 +17,8 @@ params:
 En Suisse, trois opérateurs proposent des billets FIP 50 et coupons FIP :
 
 - Les CFF ([SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS")) – la compagnie ferroviaire nationale (lignes principales).
-- Un consortium de chemins de fer privés suisses ([SP]({{< ref "/404" >}} "SP")).
-- Le BLS ([Bern–Lötschberg–Simplon]({{< ref "/404" >}} "BLS")) – société alpine bernoise.
+- Un consortium de chemins de fer privés suisses (SP).
+- Le BLS (Bern–Lötschberg–Simplon) – société alpine bernoise.
 
 Ensemble, ils couvrent presque tout le réseau ferroviaire suisse, y compris certains téléphériques ou lignes de bus uniques en Europe, accessibles avec le FIP.
 
