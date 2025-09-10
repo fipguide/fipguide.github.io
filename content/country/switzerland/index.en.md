@@ -17,8 +17,8 @@ params:
 In Switzerland, there are three different operators for which FIP Free Passes and FIP 50 Tickets can be obtained:
 
 - The state railway company [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") (Swiss Federal Railways), which operates most of the main lines
-- A consortium of Swiss private railways ([SP]({{< ref "/404" >}} "SP"))
-- The Bernese Alpine Railway Company Bern–Lötschberg–Simplon ([BLS]({{< ref "/404" >}} "BLS"))
+- A consortium of Swiss private railways (SP)
+- The Bernese Alpine Railway Company Bern–Lötschberg–Simplon (BLS)
 
 Combined, these cover almost the entire Swiss rail network, including some modes of transport that are uniquely included in FIP across Europe, such as certain cable cars or specific bus lines.
 
