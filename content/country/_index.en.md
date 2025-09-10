@@ -4,14 +4,17 @@ description: "Overview of the countries where FIP benefits are available."
 params:
   countriesWithoutFip:
     - Andorra
+    - Belarus
     - Cyprus
     - Estonia
     - Iceland
     - Malta
+    - Moldova
     - Russia
     - San Marino
     - Sweden
     - Turkey
+    - Vatican City
 ---
 
 Find the FIP regulations for your destination on the following pages.

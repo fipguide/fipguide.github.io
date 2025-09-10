@@ -4,13 +4,16 @@ description: "Übersicht über die Länder, in denen FIP-Vergünstigungen genutz
 params:
   countriesWithoutFip:
     - Andorra
+    - Belarus
     - Estland
     - Island
     - Malta
+    - Moldau
     - Russland
     - San Marino
     - Schweden
     - Türkei
+    - Vatikanstadt
     - Zypern
 ---
 
