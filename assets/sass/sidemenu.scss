@@ -25,33 +25,51 @@
     }
 
     @media (max-width: #{$breakpoint-lg}) {
-        display: flex; // duplicated for the moment
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        top: unset;
-        width: 100vw;
-        margin-bottom: 0;
-        box-shadow: 0 -.4rem 1rem 0 rgba(0,0,0,.1);
+      display: flex; // duplicated for the moment
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      top: unset;
+      width: 100vw;
+      margin-bottom: 0;
+      box-shadow: 0 -.4rem 1rem 0 rgba(0,0,0,.1);
+      background: white;
 
         .o-aside__full-view {
             display: none;
 
             &--open {
-                display: block;
+              display: block;
             }
         }
 
-        .o-aside__collapsed-view {
-            background: white;
-            border-radius: .4rem;
-            padding: 1.2rem;
-            display: flex;
-            justify-content: space-between;
+      &:has(.o-aside__full-view--open) {
+        border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
 
-            &--hide {
-                display: none;
-            }
+        &:before {
+          content: '';
+          width: 4rem;
+          height: .5rem;
+          position: absolute;
+          display: flex;
+          left: calc(50% - 2rem);
+          top: .8rem;
+          background-color: var(--color-body);
+          border-radius: 2rem;
+        }
+      }
+
+        .o-aside__collapsed-view {
+          background: white;
+          padding: 1.2rem 2rem;
+          display: flex;
+          justify-content: space-between;
+          margin-left: auto;
+          margin-right: auto;
+
+          &--hide {
+              display: none;
+          }
         }
     }
 
