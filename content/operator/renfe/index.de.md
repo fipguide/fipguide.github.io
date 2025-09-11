@@ -155,6 +155,7 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
     fip_global_fare=true
     reservations="nil"
 %}}
+
 **FIP Globalpreis**
 
 In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
@@ -169,11 +170,12 @@ Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets
 
 ## Ermäßigungen
 
-Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40% auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
+Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
 
 ## Tarifliche Besonderheiten
 
-### Reiseunterbrechung
+### Fahrtunterberchungen
+
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
 ## Empfehlungen

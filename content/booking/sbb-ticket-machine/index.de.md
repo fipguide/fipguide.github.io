@@ -6,7 +6,10 @@ description: "Buchungsinformationen für FIP Fahrscheine an SBB Fahrkartenautoma
 params:
     fip_50: true
     additional_info_link: "https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-billettautomaten/sbb-billettautomat.html"
-    type: "website"
+    type: "machine"
+
+aliases:
+  - sbb_ticket_machine
 ---
 
 {{% booking-section "fip_50" %}}

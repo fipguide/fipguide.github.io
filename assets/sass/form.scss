@@ -15,29 +15,15 @@
 
   input[type=text], input[type=email], select, textarea {
     margin-bottom: 1.6rem;
-    border-radius: var(--border-radius-l);
-    border-width: .2rem;
-    border-color: var(--color-onLight);
+    border: .2rem solid var(--link-default);
+    border-radius: var(--border-radius-m);
     padding: 1.2rem;
+    background-color: var(--bg-neutral);
+    color: var(--body-color);
+    resize: vertical;
 
     @media (min-width: #{$breakpoint-md}) {
       width: 50%;
-    }
-  }
-  input[type=submit] {
-    width: auto;
-    padding: 1.2rem 2.4rem;
-    background-color: var(--bg-accent);
-    color: var(--color-onLight);
-    border: none;
-    border-radius: var(--border-radius-l);
-    transition: background-color .3s ease;
-    font-weight: 700;
-    cursor: pointer;
-
-    &:hover,
-    &:focus {
-      background-color: var(--bg-accent2);
     }
   }
 }

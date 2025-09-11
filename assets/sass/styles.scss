@@ -1,6 +1,5 @@
 html {
   font-size: 62.5%;
-  color: var(--color-onLight);
   scroll-padding-top: 8rem;
   scroll-behavior: smooth;
 }
@@ -35,20 +34,12 @@ a {
   &:hover,
   &:focus {
     color: var(--link-hovered);
-
-    svg {
-      fill: var(--link-hovered);
-    }
-  }
-
-  svg {
-    fill: var(--link-default);
-    transition: fill 0.3s ease;
   }
 }
 
 main {
   margin-top: 2rem;
+  padding-left: calc(100vw - 100%);
 }
 
 .o-container {
@@ -79,13 +70,13 @@ main {
   margin-right: auto;
 }
 
-.o-card{
+.o-card {
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
   padding: 2rem;
 }
 
-main > .o-container:is(.o-single--with-sidemenu) {
+.o-single--with-sidemenu {
   background-color: unset;
   padding: 0;
 
@@ -141,6 +132,17 @@ img {
   align-items: center;
 }
 
+.o-list__countries{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+
+  @media (max-width: #{$breakpoint-lg}) {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 @mixin add-columns($columns) {
   &--columns-#{$columns} {
     columns: $columns;
@@ -157,21 +159,23 @@ img {
   @include add-columns(3);
 }
 
-.o-single,
-.o-list {
+.o-single {
   padding: 2rem;
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
+  border: var(--border);
 
   &--with-sidemenu {
     padding: 0;
     background-color: inherit;
+    border: unset;
   }
 
   &__container {
     background-color: var(--bg-default);
     padding: 2rem;
     border-radius: var(--border-radius-l);
+    border: var(--border);
   }
 
   &__content-wrapper {
@@ -204,18 +208,13 @@ img {
     h1 {
       margin-bottom: 0;
     }
-
-    img {
-      max-height: 3.6rem;
-      width: auto;
-      border-radius: var(--border-radius-m);
-    }
   }
 
   &__content-header-title {
     display: flex;
     align-items: center;
     gap: 1.5rem;
+    font-size: 3rem;
   }
 
   &__news-image {
@@ -227,9 +226,17 @@ img {
   }
 }
 
+.o-list {
+  padding: 2rem;
+  background-color: var(--bg-default);
+  border-radius: var(--border-radius-l);
+  border: var(--border);
+}
+
 .o-list--news {
   padding: 0;
   background-color: unset;
+  border: none;
 }
 
 .pagefind-highlight {
@@ -243,8 +250,9 @@ img {
 }
 
 .a-flag {
-  height: 2rem;
+  height: 1.3em;
   width: auto;
+  aspect-ratio: 1 / 1;
 }
 
 button:not(:disabled) {
@@ -260,4 +268,11 @@ hr {
 
 details > summary {
   cursor: pointer;
+}
+
+.a-operator-logo {
+  height: 1.3em;
+  width: auto;
+  aspect-ratio: 120 / 50;
+  border-radius: var(--border-radius-m)
 }

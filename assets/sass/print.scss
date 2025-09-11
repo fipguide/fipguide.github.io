@@ -14,14 +14,13 @@
         margin-bottom: 1rem;
     }
 
-    main > .o-container.o-single,
-    main > .o-container.o-list {
+    main > .o-container > .o-single,
+    main > .o-container > .o-list {
         margin-top: 0;
     }
 
     .o-single__container,
-    .o-container,
-    main > .o-container {
+    .o-container {
         padding: 0;
     }
 

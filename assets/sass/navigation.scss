@@ -1,15 +1,13 @@
-#header {
+.o-header {
   position: sticky;
   width: 100%;
   top: 0;
   box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
-}
-
-.o-header {
   background-color: var(--bg-default);
   z-index: 5;
-  position: relative;
   height: 6rem;
+  padding-left: calc((100vw - 100%) / 2);
+  border-bottom: var(--border);
 }
 
 .o-header__wrapper {
@@ -61,11 +59,12 @@
     background-color: var(--bg-neutral);
   }
 
-  img {
-    width: auto;
-    height: 4.4rem;
-    padding: .2rem .4rem;
+  svg {
+    width: 14.5rem;
+    height: 3.6rem;
+    padding: .6rem;
     align-self: center;
+    aspect-ratio: 145 / 36;
   }
 }
 
@@ -85,7 +84,7 @@
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
-  color: var(--color-onDark);
+  color: var(--bg-default);
 
   &:focus {
     opacity: 1;
@@ -96,8 +95,13 @@
 .o-header__item {
   list-style: none;
   height: 6rem;
+  display: flex;
+  align-items: center;
 
-  //normales Menü
+  @media (max-width: #{$breakpoint-md}) {
+    display: block;
+  }
+
   ul {
     display: flex;
     margin: 0;
@@ -110,13 +114,13 @@
 .o-nav__close-button {
   display: inline-flex;
   padding: 1rem;
-  margin: .6rem;
   border: none;
   background: none;
   width: fit-content;
   text-align: right;
-  color: black;
+  color: var(--color-body);
   font-weight: 700;
+  height: fit-content;
 
   &:hover,
   &:focus {
@@ -140,7 +144,7 @@
   text-decoration: none;
 }
 
-.o-header__expand-button:has(~ .o-header__item-countries--open) svg {
+.o-header__expand-button:has(~ .o-header__item-countries--open) .material-symbols-rounded {
   transform: rotate(180deg);
 }
 
@@ -154,9 +158,10 @@
     position: absolute;
     padding: 1rem;
     justify-items: flex-start;
-    background-color: white;
+    background-color: var(--bg-default);
     box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
     border-radius: var(--border-radius-s);
+    top: 6rem;
 
     &.o-header__item-countries--open {
       display: grid;
@@ -195,12 +200,13 @@
     width: 70%;
     height: 100%;
     z-index: 4;
-    background-color: white;
-    padding: 0 1rem;
+    background-color: var(--bg-default);
+    padding: 1rem;
     overflow-y: scroll;
+    border-left: var(--border);
 
     > menu {
-      margin-top: 5rem;
+      margin-top: 4rem;
     }
 
     ul,
@@ -228,6 +234,13 @@ body:has(.o-header__nav--open) {
   overflow: hidden;
 }
 
+.o-header__item-wrapper {
+  @media (min-width: #{$breakpoint-md}) {
+    display: flex;
+    gap: 1rem;
+  }
+}
+
 #menu-country-list-title,
 #menu-general-list-title {
   padding-right: 1rem;
@@ -241,5 +254,35 @@ body:has(.o-header__nav--open) {
 
   @media (min-width: #{$breakpoint-md}) {
     display: none;
+  }
+}
+
+.a-theme-toggle {
+  padding: 1rem;
+  border: none;
+  background: transparent;
+  width: fit-content;
+  color: var(--color-body);
+  transition: color 0.3s ease;
+  height: fit-content;
+
+  &:hover {
+    color: var(--link-hovered);
+  }
+
+  &--desktop {
+    display: none;
+
+    @media (min-width: #{$breakpoint-md}) {
+      display: inline-flex;
+    }
+  }
+
+  &--mobile {
+    display: inline-flex;
+
+    @media (min-width: #{$breakpoint-md}) {
+      display: none;
+    }
   }
 }

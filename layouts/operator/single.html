@@ -1,15 +1,11 @@
 {{ define "main" }}
-    <article class="o-container o-single o-single--with-sidemenu">
+    <article class="o-single o-single--with-sidemenu">
         {{ partial "sidemenu" . }}
         <div class="o-single__content-wrapper" data-pagefind-body>
-            <div class="o-single__container content_with_heading">
+            <div class="o-single__container o-single__highlight">
                 <div class="o-single__content-header">
                     <div class="o-single__content-header-title">
-                        {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
-                        {{ $logo := resources.Get (printf "images/logos/%s.svg" $object) }}
-                        {{ if $logo }}
-                            <img data-pagefind-meta="image[src]" src="{{ $logo.RelPermalink }}" alt="" />
-                        {{ end }}
+                        {{ partial "operator-logo" (dict "operator" .File.ContentBaseName "pagefind" true)}}
                         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
                     </div>
                     {{ partial "updateDate.html" . }}

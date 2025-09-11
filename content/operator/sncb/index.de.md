@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SNCB"
+title: "SNCB / NMBS"
 description: "Informationen über die FIP-Bedingungen bei SNCB."
 country:
   - "belgium"
@@ -100,7 +100,7 @@ Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzübers
 
 ### Im Zug
 
-Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Laut SNCB wird hier ein Aufschlag von 9 Euro berechnet. [^2]
+Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet. [^2]
 
 ## Ermäßigungen
 
@@ -121,4 +121,4 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-[^2]: [SNCB Bordpreis](https://www.belgiantrain.be/de/tickets-and-railcards/on-board-fare)
+[^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)

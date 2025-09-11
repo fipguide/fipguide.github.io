@@ -13,30 +13,41 @@
 {{- $name := $image.RelPermalink | strings.TrimSuffix (printf ".%s" $image.MediaType.SubType) -}}
 {{- $extension := $image.MediaType.SubType -}}
 
-<picture>
-  {{- $widths := slice -}}
-  {{- if gt $image.Width 500 -}}
-    {{- $widths = $widths | append 500 -}}
-  {{- end -}}
-  {{- if gt $image.Width 800 -}}
-    {{- $widths = $widths | append 800 -}}
-  {{- end -}}
-  {{- if gt $image.Width 1200 -}}
-    {{- $widths = $widths | append 1200 -}}
-  {{- end -}}
-  {{- if gt $image.Width 1500 -}}
-    {{- $widths = $widths | append 1500 -}}
-  {{- end -}}
-  {{- if gt $image.Width 2200 -}}
-    {{- $widths = $widths | append 2200 -}}
-  {{- end -}}
+{{- $widths := slice -}}
+{{- if gt $image.Width 500 -}}
+  {{- $widths = $widths | append 500 -}}
+{{- end -}}
+{{- if gt $image.Width 800 -}}
+  {{- $widths = $widths | append 800 -}}
+{{- end -}}
+{{- if gt $image.Width 1200 -}}
+  {{- $widths = $widths | append 1200 -}}
+{{- end -}}
+{{- if gt $image.Width 1500 -}}
+  {{- $widths = $widths | append 1500 -}}
+{{- end -}}
+{{- if gt $image.Width 2200 -}}
+  {{- $widths = $widths | append 2200 -}}
+{{- end -}}
 
-  {{- $srcset := slice -}}
-  {{- range $i, $width := $widths -}}
-    {{- with $image.Resize (printf "%dx" $width) | resources.Copy (print $name "_" $width "." $extension) -}}
-      {{- $srcset = $srcset | append (printf "%s %dw" .RelPermalink $width) -}}
-    {{- end -}}
+{{- $srcset := slice -}}
+{{- range $i, $width := $widths -}}
+  {{- with $image.Resize (printf "%dx" $width) | resources.Copy (print $name "_" $width "." $extension) -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" .RelPermalink $width) -}}
   {{- end -}}
-  {{- $srcset = $srcset | append (printf "%s %dw" $image.RelPermalink $image.Width) -}}
-  {{- printf "<img src=\"%s\" alt=\"\" loading=\"%s\" srcset=\"%s\" sizes=\"(max-width: 576px) calc(100vw - 3.2rem), (max-width: 768px) 540px, (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px) 1140px, 1320px\">" $image.RelPermalink $loading (delimit $srcset ", ") | safeHTML -}}
-</picture>
+{{- end -}}
+{{- $srcset = $srcset | append (printf "%s %dw" $image.RelPermalink $image.Width) -}}
+
+{{- $styles := "" -}}
+{{- if and $image.Width -}}
+  {{- $styles = printf "aspect-ratio: %d / %d" $image.Width $image.Height -}}
+{{- end -}}
+
+<img
+  src="{{ $image.RelPermalink }}"
+  alt=""
+  loading="{{ $loading }}"
+  srcset="{{ delimit $srcset ", " }}"
+  sizes="(max-width: 576px) calc(100vw - 3.2rem), (max-width: 768px) 540px, (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px) 1140px, 1320px"
+  style="{{ $styles | safeCSS }}"
+/>

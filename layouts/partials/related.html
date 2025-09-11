@@ -4,15 +4,14 @@
 <h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
 <ul class="o-related__list" aria-labelledby="o-related__title-{{ .identifier }}">
 {{ range $related }}
-    {{ $object := replace .Path (printf "/%s/" .Page.Type) "" }}
     <li class="o-related__item">
         {{ $text := .LinkTitle }}
         {{ if eq .Page.Type "news" }}
             {{ $text = print (partial "icon" "newspaper") $text }}
         {{ else if eq .Page.Type "operator" }}
-            {{ $text = print (partial "logo" $object) $text }}
+            {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
         {{ else if eq .Page.Type "country" }}
-            {{ $text = print (partial "flag" $object) $text }}
+            {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
         {{ end }}
 
         {{ partial "internal_link" (

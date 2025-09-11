@@ -8,12 +8,16 @@ params:
     fip_global_fare: true
     additional_info_link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
     type: "onsite"
+
+aliases:
+  - renfe_ticket_office
 ---
 
 {{% booking-section "fip_global_fare" %}}
 **FIP Globalpreis**
 
-In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis gebucht werden. Es fällt eine zusätzliche Gebühr von 0,55€ an.
+In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis gebucht werden. \
+Es fällt eine zusätzliche Gebühr von 0,55€ an.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}

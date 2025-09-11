@@ -7,6 +7,9 @@ params:
     additional_info_link: "https://blogcfl.lu/en/cfl-group/352-2489-2489-do-you-have-questions-please-contact-us-at-this-number"
     type: "phone"
     fee: €5
+
+aliases:
+  - cfl_phone
 ---
 CFL offers a booking hotline where FIP 50 tickets can be purchased. The hotline is available in Luxembourgish, French, German, and English.
 

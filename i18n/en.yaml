@@ -13,15 +13,17 @@ booking:
   reservation-costs: Reservation Costs
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+countries:
+  overview: All Countries
+  selection: choose country
 country:
   many: countries
   one: country
   other: countries
-countryselection: choose country
 editPage: Edit page
 footer-love:
-  aria-label: Made with love in Frankfurt & Cologne
-  text: Made with ♥️ in Frankfurt & Cologne
+  aria-label: Made with love in Europe
+  text: Made with ♥️ in Europe
 general: general
 highlight:
   important: Important Information
@@ -31,6 +33,15 @@ home-page-text: FIP Guide Home Page
 information-disclaimer-short: >-
   The information provided is unofficial and without guarantee. There is no
   legal connection to FIP or railway companies.
+interactiveMap:
+  loading: Loading interactive map...
+  resetZoom: Reset Zoom
+  title: Interactive Country Map
+  zoomIn: Zoom In
+  zoomOut: Zoom Out
+language-switcher:
+  aria-label: Switch language
+  dropdown-label: Available languages
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country
@@ -52,6 +63,10 @@ support:
     to contribute content. Alternatively, you can also write to us via the <a
     href="/en/contact">contact form</a>.
   title: Support Us
+theme:
+  switch-to-auto: Switch to auto mode
+  switch-to-dark: Switch to dark mode
+  switch-to-light: Switch to light mode
 toc_name: Contents
 updateDate: Last updated
 wip: >-

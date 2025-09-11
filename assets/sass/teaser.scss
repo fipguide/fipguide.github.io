@@ -5,11 +5,12 @@
 
 .m-teaser__wrapper {
     text-decoration: none;
-    background-color: var(--color-onDark);
+    background-color: var(--bg-default);
     box-shadow: var(--box-shadow);
     border-radius: var(--border-radius-l);
     display: flex;
     flex-direction: column;
+    border: var(--border);
 
     &:hover,
     &:focus {
@@ -76,7 +77,6 @@
 }
 
 .m-teaser__image img {
-    aspect-ratio: 16/9;
     border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
     object-fit: cover;
     height: 100%;
