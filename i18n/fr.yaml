@@ -12,6 +12,7 @@ booking:
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+chapter-heading: Chapitre actuel
 country:
   many: pays
   one: pays

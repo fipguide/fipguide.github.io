@@ -71,6 +71,15 @@
               display: none;
           }
         }
+
+      .o-aside__current-chapter {
+        display: flex;
+        flex-direction: column;
+      }
+
+      #mobileTocHeading {
+        font-weight: 700;
+      }
     }
 
     ul, ol {

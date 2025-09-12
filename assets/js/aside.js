@@ -1,3 +1,9 @@
+import * as mq from './mediaqueries';
+
+function isMobile() {
+  return window.matchMedia(mq.maxMD).matches; //caution: there is a gap between css and js values for breakpoints
+}
+
 function initAside() {
 
   const expandButton = document.getElementById('aside-mobile-toggle');
@@ -9,9 +15,12 @@ function initAside() {
   }
 
   window.onclick = e => {
-    //console.log(e.target);
-    if (e.target.classList.contains('o-aside__toc-link')) {
-      toggleAside();
+    if(isMobile()){
+      //console.log(e.target);
+      if (e.target.classList.contains('o-aside__toc-link')) {
+        toggleAside();
+        console.log("test");
+      }
     }
   }
 }

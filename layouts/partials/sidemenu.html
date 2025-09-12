@@ -57,7 +57,10 @@
     </div>
     <div class="o-container">
     <div class="o-aside__collapsed-view">
-      <span id="mobileTocHeading">Hier steht der aktuelle Menüpunkt</span>
+      <div class="o-aside__current-chapter">
+        <span>{{ T "chapter-heading" }}:</span>
+        <span id="mobileTocHeading">{{ .Title }}</span>
+      </div>
       <button id="aside-mobile-toggle">
         Inhalt öffnen
         {{ partial "icon" "list" }}
