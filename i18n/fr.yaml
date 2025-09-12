@@ -13,6 +13,10 @@ booking:
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
 chapter-heading: Chapitre actuel
+countries:
+  overview: Pays acceptation FIP
+  selection: choisir un pays
+  without-fip: Pays sans acceptation FIP
 country:
   many: pays
   one: pays
@@ -31,6 +35,10 @@ information-disclaimer-short: >-
   Les informations fournies sont non officielles et sans garantie. Il n'existe
   aucun lien juridique avec le FIP ou les compagnies ferroviaires.
 interactiveMap:
+  legend:
+    available: FIP Guide disponible
+    pending: Contenu non disponible
+    unavailable: Pas d'acceptation FIP
   loading: Chargement de la carte interactive...
   resetZoom: Réinitialiser le zoom
   title: Carte interactive des pays

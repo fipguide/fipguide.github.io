@@ -16,7 +16,7 @@
 
 .o-divider {
   display: grid;
-  grid-template-columns: 7fr 1fr 7fr;
+  grid-template-columns: 7fr auto 7fr;
   margin: 2rem 0;
   height: 2.4rem;
   opacity: 66%;

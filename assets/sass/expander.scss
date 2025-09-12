@@ -1,15 +1,26 @@
+.o-expander > hr {
+  margin: 0;
+}
+
 .o-expander__summary {
   display: flex;
-
+  padding: 1.2rem;
   gap: 0.5rem;
   align-items: center;
+  transition: background .3s ease;
+
+  &:not(.o-expander__summary--booking) {
+    font-weight: 700;
+  }
 
   &:hover,
   &:focus {
     .o-expander__summary-text {
-      font-weight: 700;
       text-decoration: underline;
     }
+
+    border-radius: var(--border-radius-m);
+    background: rgba($link-hovered, 0.15);
   }
 
   &--booking {
@@ -22,21 +33,27 @@
   }
 }
 
+.details-screen[open] > .o-expander__summary {
+  &:hover,
+  &:focus {
+    border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
+  }
+}
+
+.o-expander__content {
+  padding: 1.2rem;
+}
+
 .details-print {
   display: none;
 }
 
 details {
   position: relative;
-  padding: 1.2rem;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-m);
   margin-bottom: 1.2rem;
   border: var(--border);
-}
-
-details[open] > .o-expander__summary {
-  margin-bottom: 0.5rem;
 }
 
 details > summary {
@@ -44,7 +61,7 @@ details > summary {
 }
 
 .details-screen > .o-expander__summary {
-  margin-right: 3.2rem;
+  padding-right: 3.2rem;
 }
 
 details > div {

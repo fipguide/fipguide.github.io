@@ -21,72 +21,49 @@ function initHighlightHeadline() {
     const markTocItemInactive = (a) => {return a.removeAttribute('data-current');};
     const getTocLinkFromHeading = (h) => {return document.querySelector(`.o-aside__toc a[href="${windowPath}#${encodeURIComponent(h.id).replace(/%\w\w/g, match => match.toLowerCase())}"]`);}
 
-    const getDocHeight = () => Math.floor(document.body.clientHeight);
+    let scrollDebounce;
 
-    const visibleHeadings = new Set();
-    let resizeDebounce;
-    let currentObserver;
-    let height = getDocHeight();
-
-    function beginObservation(docHeight) {
-      const observer = new IntersectionObserver(
-        (entries) => {
-
-          entries.forEach((entry) => {
-              if (entry.isIntersecting) {
-                  visibleHeadings.add(entry.target);
-              } else {
-                  visibleHeadings.delete(entry.target);
-              }
-          });
-
-          // Sort visible (intersecting) headings by inverted order of appearance, then grab the first item (i.e. last visible heading)
-          const lastVisible = Array.from(visibleHeadings.values()).sort((a, b) => headings.indexOf(b) - headings.indexOf(a))[0];
-          if (!lastVisible) {
-              return;
-          }
-
-          headings.forEach((heading) => {
-            // If it's the last visible item, mark it to make it stand out, else, revert to the default style
-            // Find the link in the TOC list matching the heading in this list of heading elements
-            const tocLink = getTocLinkFromHeading(heading);
-            if (heading === lastVisible) {
-              if(tocLink){
-                  markTocItemActive(tocLink);
-                  mobileTocHeading.innerText = tocLink.textContent;
-              }
-            } else {
-              if(tocLink){
-                  markTocItemInactive(tocLink);
-              }
-            }
-          });
-        },
-        {
-            rootMargin: calcRootMargin(docHeight),
-            threshold: 1, // Only considered intersecting if all the pixels are inside the intersection area
+    function updateActiveHeading() {
+        if (!isAsideActive()) {
+            return;
         }
-      );
 
-      headings.forEach((heading) => observer.observe(heading));
+        let currentHeading = null;
 
-      return observer;
+        for (let i = 0; i < headings.length; i++) {
+            const heading = headings[i];
+
+            // Add the scroll-padding-top defined in styles.scss + 1px to trigger the detection
+            if (heading.offsetTop <= window.pageYOffset + 81) {
+                currentHeading = heading;
+            } else {
+                break;
+            }
+        }
+
+        headings.forEach((heading) => {
+            const tocLink = getTocLinkFromHeading(heading);
+            if (tocLink) {
+                if (heading === currentHeading) {
+                    markTocItemActive(tocLink);
+                  mobileTocHeading.innerText = tocLink.textContent;
+                } else {
+                    markTocItemInactive(tocLink);
+                }
+            }
+        });
     }
 
-    currentObserver = beginObservation(height); // Start the intersection observer
+    updateActiveHeading();
 
-    // On resize, replace the observer with a new one matching the updated body height, if different
+    window.addEventListener('scroll', () => {
+        clearTimeout(scrollDebounce);
+        scrollDebounce = setTimeout(updateActiveHeading, 5);
+    });
+
     window.addEventListener('resize', () => {
-        clearTimeout(resizeDebounce);
-        resizeDebounce = setTimeout(() => {
-            const heightAfterResize = getDocHeight();
-            if (height !== heightAfterResize) {
-                if (currentObserver) {
-                    currentObserver.disconnect();
-                }
-                currentObserver = beginObservation(heightAfterResize);
-            }
-        }, 200);
+        clearTimeout(scrollDebounce);
+        scrollDebounce = setTimeout(updateActiveHeading, 5);
     });
 }
 
