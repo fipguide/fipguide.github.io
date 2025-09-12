@@ -19,34 +19,36 @@
 </div>
 <div class="o-footer__line">
   <div>{{ T "information-disclaimer-short"}}</div>
-    <div class="o-language-switcher" >
-      <button class="o-language-switcher__button"
+    <div id="language-switcher" class="o-dropdown" >
+      <button id="language-switcher-button"
+              class="o-dropdown__button"
               aria-expanded="false"
               aria-haspopup="listbox"
-              aria-controls="language-dropdown"
+              aria-controls="language-switcher-dropdown"
               title="{{ T "language-switcher.aria-label" }}"
               aria-label='{{ T "language-switcher.aria-label" }}'>
         {{ partial "icon" "translate" }}
         <div>{{ $.Site.Language.LanguageName }}</div>
-        <div class="o-language-switcher__icon">
+        <div class="o-dropdown__icon">
           {{ partial "icon" "keyboard_arrow_down" }}
         </div>
       </button>
-      <ul class="o-language-switcher__dropdown"
+      <menu id="language-switcher-dropdown"
+          class="o-dropdown__menu o-dropdown__menu--above o-dropdown__menu--right"
           role="listbox"
-          id="language-dropdown"
           aria-hidden="true"
-          aria-label="{{ T "language-switcher.dropdown-label" }}">
+          aria-label="{{ T "language-switcher.dropdown-label" }}"
+       >
         {{ range .AllTranslations }}
-          <li class="o-language-switcher__item" role="option"{{ if eq $.Site.Language .Language }} aria-selected="true"{{ end }}>
+          <li class="o-dropdown__item" role="option"{{ if eq $.Site.Language .Language }} aria-selected="true"{{ end }}>
             <a href="{{ .Permalink }}"
-               class="o-language-switcher__link{{ if eq $.Site.Language .Language }} o-language-switcher__link--active{{ end }}"
+               class="o-dropdown__link{{ if eq $.Site.Language .Language }} o-dropdown__link--active{{ end }}"
                {{ if eq $.Site.Language .Language }}aria-current="page"{{ end }}
             >
               {{ .Language.LanguageName }}
             </a>
           </li>
         {{ end }}
-      </ul>
+        </menu>
     </div>
 </div>
