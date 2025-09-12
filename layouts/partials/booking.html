@@ -34,6 +34,7 @@
     </div>
 </summary>
 <hr aria-hidden="true">
+<div class="o-expander__content">
 {{- if .info -}}
 <div class="o-booking__info">
     {{- .info | .original_page.RenderString  -}}
@@ -54,3 +55,4 @@
 </div>
 
 {{ partial "booking-links" .page }}
+</div>
