@@ -7,6 +7,7 @@
     {{ partial "head" . }}
   </head>
   <body>
+  <div id="overlay"></div>
     <header id="header" class="o-header">{{ partialCached "header.html" . }}</header>
     <main id="content" class="{{ if .IsHome }} o-startpage{{ end }}">
       <div class="o-container">
