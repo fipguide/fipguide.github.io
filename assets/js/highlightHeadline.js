@@ -1,3 +1,14 @@
+import * as mq from './mediaqueries';
+
+function calcRootMargin(docHeight) {
+  if(window.matchMedia(mq.minLG).matches)  {
+    return `${docHeight}px 0px -90% 0px`;
+  }
+  else {
+    return `${docHeight}px 0px -86% 0px`;
+  }
+}
+
 function initHighlightHeadline() {
     const headings = Array.from(document.querySelectorAll('.o-single__highlight :is(h1, h2, h3)'));
     const mobileTocHeading = document.getElementById('mobileTocHeading');
@@ -52,7 +63,7 @@ function initHighlightHeadline() {
           });
         },
         {
-            rootMargin: `${docHeight}px 0px -90% 0px`,
+            rootMargin: calcRootMargin(docHeight),
             threshold: 1, // Only considered intersecting if all the pixels are inside the intersection area
         }
       );
