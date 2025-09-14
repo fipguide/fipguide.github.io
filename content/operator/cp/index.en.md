@@ -35,17 +35,17 @@ High-speed tilting trains (Pendolino) operating on the main axis between Braga, 
 
 FIP Coupons (regardless of pass class) are only valid in second class. [^1]
 
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-**Reservation cost:** 5€
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**Reservation cost:** €5
 {{% /expander %}}
 
 {{% expander "Intercidades (IC) ⚠️" traincategory "category" %}}
 **Description:** \
 Fast national services formed by locomotive-hauled coaches serving main routes. They offer Wi‑Fi, power sockets in some first-class seats and a bistro service. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-**Reservation cost:** 5€
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**Reservation cost:** €5
 {{% /expander %}}
 
 {{% expander "Serviço InterRegional (IR)" traincategory "category" %}}
@@ -100,7 +100,7 @@ Single line between Coimbra and Figueira da Foz.
 The Celta is an international cooperation service between CP and Renfe from Porto to Vigo. FIP Coupons are not accepted. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-**FIP Global Fare (distance-independent):** 4€
+**FIP Global Fare (distance-independent):** €4
 
 Tickets for this service must be purchased through Spanish sales channels.
 {{% /expander %}}
@@ -126,9 +126,9 @@ Children under 4 years travel free without their own seat. Children under 12 yea
 
 ## Special Tariff Conditions
 
-### Journey interruptions
+### Break of journey
 
-Passengers holding a FIP reduction ticket purchased in Portugal are not permitted to interrupt their journey. For tickets purchased outside Portugal, a break of journey is allowed (possibly subject to reservation). [^1]
+Passengers holding a FIP discounted ticket purchased in Portugal are not permitted to interrupt their journey. For tickets purchased outside Portugal, a break of journey is allowed (possibly subject to reservation). [^1]
 
 ## Recommendations
 

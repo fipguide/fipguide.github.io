@@ -20,9 +20,9 @@ Portugal does not have a particularly dense rail network. Rail traffic is concen
 
 Long-distance services use modern tilting trains and locomotive-hauled coaches with comfortable seats; both offer onboard comfort features and catering. Regional services are mainly operated by single- and double-deck multiple units which are showing some years of service.
 
-From personal experience there are occasional delays; these often result from single-track sections or waiting for connecting passengers from long-distance trains. Unfortunately these delays are not always displayed online or on board — they are typically visible only on station and platform displays.
+From personal experience there are occasional delays; these often result from single-track sections or waiting for connecting passengers from long-distance trains. Unfortunately, these delays are neither displayed online nor on board of the trains themselves — delays are only visible on the station and platform displays.
 
-In the Lisbon and Porto metropolitan areas there is a dense clockface timetable for regional and commuter trains (Comboios Urbanos). Outside these areas, check departure times carefully due to gaps in frequency and reduced services at the edges of the day. Because reservations are mandatory on certain long-distance categories (`AP` and `IC`), early booking is recommended.
+In the Lisbon and Porto metropolitan areas there is a dense clockface timetable for regional and commuter trains (Comboios Urbanos). Apart from that, you should definitely check the journey times of the trains when planning your trip. This is due to gaps in the timetable and restrictions on the edges of the day. Because reservations are mandatory on certain long-distance categories (`AP` and `IC`), early booking is recommended.
 
 Particularly recommended stations to visit:
 * **Porto São Bento:** famous for its ornate azulejo tile panels in the concourse.
@@ -41,7 +41,7 @@ Particularly recommended stations to visit:
 
 ### Spain
 
-Cross-border connections between Spain and Portugal are currently sparse. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. For such trips you will need FIP tickets / FIP Coupons valid for the CP portion and a Renfe ticket for the Spanish section.
+There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey.
 
 There is also the Celta service from Vigo to Porto. A special FIP Global fare applies on the entire route ([see CP – Celta]({{< ref "/operator/cp#zugkategorien-und-reservierungen" >}} "CP")).
 

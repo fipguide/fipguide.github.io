@@ -6,8 +6,8 @@ params:
     classes:
         # Define classes and prices for the corresponding reservations.
         # Make sure that each class exists under `booking.classes` in i18n.
-        first: "5,00€"
-        second: "5,00€"
+        first: "€5,00"
+        second: "€5,00"
     fip_50: true # Define if FIP 50 tickets can be booked with this booking platform
     fip_global_fare: false # Define if FIP Global Fare tickets can be booked with this booking platform
     reservations: true # Define if reservations can be booked with this booking platform
