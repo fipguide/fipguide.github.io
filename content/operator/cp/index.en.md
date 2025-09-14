@@ -7,137 +7,148 @@ country:
 operator: 'cp'
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-{{< wip >}}
-
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in Portugal.
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- FIP Coupons and FIP 50 tickets are valid on all CP trains
+- Reservation is mandatory on long-distance services
 
 ## Validity of FIP Tickets
 
-FIP Coupon: <✅/⛔> \
-FIP Coupon relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
+FIP Coupon: ✅ \
+FIP Coupon relatives: ✅ \
+FIP 50 Tickets: ✅ \
+FIP Global Fare: ✅ (Celta train only)
 
-<!--
-  Where are FIP 50 tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
+FIP Coupons and FIP 50 tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
+
+[Overview of the CP network](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
 
 ## Train Categories and Reservations
 
-<!--
-  Are reservations possible and where is there a reservation requirement?
--->
+Reservations are only mandatory on long-distance services (`AP` and `IC`).
 
-<!--
-  For each train category, a separate section can be added according to the following principle:
-  In the title, the following emojis can be used:
-  - ⚠️ for a general reservation requirement or supplements
-  - 1️⃣ for a reservation requirement in 1st class
-  - ⛔ for a non-acceptance of FIP
-  - ℹ️ for confusion with other railway companies/train categories
--->
-{{% expander "Train category" traincategory "category" %}}
-<!-- Replace "Train category" with the name of the category, e.g. ICE. -->
-**Description:**
-<!-- Description of the category -->
-**Reservation possible:** <yes/no> \
-**Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
-<!-- If FIP is not valid, add the following:
-**FIP:** ⛔ FIP is not accepted
--->
-<!-- If there are FIP Global Fares, add the following:
-**FIP Global Fare:**
--->
+{{% expander "Alfa Pendular (AP) ⚠️" traincategory "category" %}}
+**Description:** \
+High-speed tilting trains (Pendolino) operating on the main axis between Braga, Porto, Lisbon and Faro with few stops. Trains offer a high level of comfort, Wi‑Fi, power sockets at every seat and a cafeteria/bar service.
+
+FIP Coupons (regardless of pass class) are only valid in second class. [^1]
+
+**Reservation possible:** Yes \
+**Reservation required:** ⚠️ Yes \
+**Reservation cost:** 5€
+{{% /expander %}}
+
+{{% expander "Intercidades (IC) ⚠️" traincategory "category" %}}
+**Description:** \
+Fast national services formed by locomotive-hauled coaches serving main routes. They offer Wi‑Fi, power sockets in some first-class seats and a bistro service. \
+**Reservation possible:** Yes \
+**Reservation required:** ⚠️ Yes \
+**Reservation cost:** 5€
+{{% /expander %}}
+
+{{% expander "Serviço InterRegional (IR)" traincategory "category" %}}
+**Description:** \
+Regional services that cover longer distances with few stops. \
+**Reservation possible:** no \
+**Reservation required:** no
+{{% /expander %}}
+
+{{% expander "Serviço Regional (R)" traincategory "category" %}}
+**Description:** \
+Regional trains with many stops. \
+**Reservation possible:** no \
+**Reservation required:** no
+{{% /expander %}}
+
+{{% expander "Comboios Urbanos (U)" traincategory "category" %}}
+**Description:** \
+Commuter trains serving the urban networks of Lisbon, Porto and Coimbra (similar to S‑trains). FIP Coupons are valid without restrictions.
+
+**Lisbon:** \
+The [network](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) includes four lines:
+* Sintra Line
+* Azambuja Line
+* Cascais Line
+* Sado Line
+
+{{% highlight important %}}
+Access to the Sintra Line and Cascais Line is via ticket gates.
+
+* Passengers with reduced tickets must purchase a Viva Viagem ticket for €0.50 to pass the gate.
+* Passengers holding an FIP Coupon must press the assistance button at the gate (between 06:00 and 22:00). Staff will grant access.
+{{% /highlight %}}
+
+**Porto:** \
+The [network](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) includes five lines:
+* Aveiro Line
+* Braga Line
+* Marco de Canaveses Line
+* Guimarães Line
+* Leixões Line
+
+**Coimbra:** \
+Single line between Coimbra and Figueira da Foz.
+
+**Reservation possible:** no \
+**Reservation required:** no
+{{% /expander %}}
+
+{{% expander "Celta: Porto - Vigo ⚠️" traincategory "category" %}}
+**Description:** \
+The Celta is an international cooperation service between CP and Renfe from Porto to Vigo. FIP Coupons are not accepted. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes \
+**FIP Global Fare (distance-independent):** 4€
+
+Tickets for this service must be purchased through Spanish sales channels.
 {{% /expander %}}
 
 ## Class Categories
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
-
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+**Turística / 2ª**: Comparable to 2nd class. \
+**Conforto / 1ª**: Comparable to 1st class.
 
 ## Ticket and Reservation Purchase
 
-### Online
+### On-site
 
-<!--
-  Embed the information of a defined booking platform here.
-
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
-
-  For more information how to define a booking platform, check the booking archetype.
--->
-{{% booking id="cp-ticket-office"
-    subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
-    classes.first="€20"
-    classes.second="€10"
-%}}
-<!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
-{{% /booking %}}
-
-### Telephone
-
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
-
-### On-Site
-
-<!--
-  Embed additional booking platforms with booking on site here.
--->
+{{% booking id="cp-ticket-office" /%}}
 
 ### On the Train
 
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
+If no CP sales office is available at the origin station or it is not staffed more than 24 hours before departure, tickets can be purchased on board. [^1]
 
 ## Discounts
 
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+Children under 4 years travel free without their own seat. Children under 12 years receive a 50% discount. From 12 years onward the full fare applies. [^1]
 
 ## Special Tariff Conditions
 
-### <Route or Name>
+### Journey interruptions
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
+Passengers holding a FIP reduction ticket purchased in Portugal are not permitted to interrupt their journey. For tickets purchased outside Portugal, a break of journey is allowed (possibly subject to reservation). [^1]
 
 ## Recommendations
 
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+{{% highlight tip %}}
+
+When travelling through Portugal we recommend a visit to the National Railway Museum in Entroncamento. Visitors arriving by train receive a 50% discount on admission. [^2]
+
+[More information about the museum](https://www.fmnf.pt/en)
+
+{{% /highlight %}}
+
+{{% highlight tip %}}
+
+CP operates occasional trips with the "Presidential Train" — a luxurious historic train which has carried heads of state for over a century and is an important relic of Portuguese railway history.
+
+[More information about the Presidential Train](https://comboiopresidencial.pt/en/)
+
+{{% /highlight %}}
 
 ## Sources
 
-[^1]: [<Source Name 1>](<Link>)
-[^2]: [<Source Name 2>](<Link>)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

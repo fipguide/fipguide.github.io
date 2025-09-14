@@ -1,52 +1,48 @@
 ---
 draft: false
 title: 'Portugal'
-description: 'Find out about the FIP conditions for portugal and for which operators you can benefit from discounts.'
+description: 'Find out about the FIP conditions for Portugal and for which operators you can benefit from discounts.'
 country: 'portugal'
 params:
   operators_without_fip:
     - Fertagus
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-{{< wip >}}
-
 ## FIP Information
 
-<!--
-    A short summary text that should answer the following questions in this order:
-    - Which FIP tickets (FIP 50/FIP Coupon tickets) are recognized in the country and by which railway operator?
-    - What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
-    - Which railway operators do not recognize FIP tickets and how can you identify these operators in the connection information?
--->
+In Portugal, FIP 50 tickets and FIP Coupons can be used on the majority of the rail network. The [state railway company CP]({{< ref "/operator/cp" >}} "CP") operates most lines in Portugal — FIP is generally well usable here, with a few caveats. High-speed services require a reservation and in the Lisbon urban area there are ticket barriers at some stations.
+
+The private operator Fertagus runs the `R` line between Lisbon Roma-Areeiro and Setúbal. This route is unfortunately not valid with FIP. In the [CP journey planner](https://www.cp.pt/passageiros/en) Fertagus trains do not appear; on Google Maps they are visible under the line name `Setúbal`.
 
 ## Interesting
 
-<!--
-    A short section about the general train situation in the country. The following topics can be covered, for example:
-    - State of the railway network
-    - Important connections
-    - Quality and condition of the trains
-    - Punctuality
-    - Frequency
-    - Special trains/routes/lines
-    - Beautiful train stations
--->
+Portugal does not have a particularly dense rail network. Rail traffic is concentrated on the main axis connecting Braga, Porto, Lisbon and Faro, and on the Lisbon and Porto urban areas. Several lines have been closed in recent decades, leaving many towns (for example Mora and Monsaraz) without rail service.
+
+Long-distance services use modern tilting trains and locomotive-hauled coaches with comfortable seats; both offer onboard comfort features and catering. Regional services are mainly operated by single- and double-deck multiple units which are showing some years of service.
+
+From personal experience there are occasional delays; these often result from single-track sections or waiting for connecting passengers from long-distance trains. Unfortunately these delays are not always displayed online or on board — they are typically visible only on station and platform displays.
+
+In the Lisbon and Porto metropolitan areas there is a dense clockface timetable for regional and commuter trains (Comboios Urbanos). Outside these areas, check departure times carefully due to gaps in frequency and reduced services at the edges of the day. Because reservations are mandatory on certain long-distance categories (`AP` and `IC`), early booking is recommended.
+
+Particularly recommended stations to visit:
+* **Porto São Bento:** famous for its ornate azulejo tile panels in the concourse.
+* **Lisboa Oriente:** a spacious station notable for its impressive roof structure.
 
 ## Arrival and Border Points
-
-<!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
--->
 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
+| Spain | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
+
+\
+[>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] = the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)
 {{% /expander %}}
 
-### <Country Name>
+### Spain
 
-<!--
-  Which routes can be used from the respective country?
-  What tips & recommendations are there for entry from the country
--->
+Cross-border connections between Spain and Portugal are currently sparse. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. For such trips you will need FIP tickets / FIP Coupons valid for the CP portion and a Renfe ticket for the Spanish section.
+
+There is also the Celta service from Vigo to Porto. A special FIP Global fare applies on the entire route ([see CP – Celta]({{< ref "/operator/cp#zugkategorien-und-reservierungen" >}} "CP")).
+
+Work is underway on a continuous high-speed connection between Lisbon and Madrid.
