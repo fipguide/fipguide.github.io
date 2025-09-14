@@ -59,6 +59,10 @@ window.initializeInteractiveMap = function() {
                         window.location.href = `/${window.currentLanguage}/country/${country.id}/`;
                     });
                 }
+
+                if (window.unavailableCountries && window.unavailableCountries.includes(country.id)) {
+                    country.classList.add('o-interactive-map__country--unavailable');
+                }
             });
     }
 };

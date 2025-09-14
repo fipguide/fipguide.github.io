@@ -6,8 +6,8 @@
     {{- partial "icon" (index $iconMapping $param) -}}
     <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
 </summary>
-<div>
-    <hr aria-hidden="true">
+<hr aria-hidden="true">
+<div class="o-expander__content">
     {{ .Inner }}
 </div>
 </details>
@@ -21,8 +21,8 @@
 <summary class="o-expander__summary">
     <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
 </summary>
-<div>
-    <hr aria-hidden="true">
+<hr aria-hidden="true">
+<div class="o-expander__content">
     {{ .Inner }}
 </div>
 </details>

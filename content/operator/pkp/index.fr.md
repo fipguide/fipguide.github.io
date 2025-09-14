@@ -27,7 +27,7 @@ Les coupons FIP et les billets FIP 50 sont valables chez PKP. Cela inclut :
 - Koleje Mazowieckie (KM) (trains régionaux autour de Varsovie et de la voïvodie de Mazovie)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (RER entre Gdansk, Gdynia et Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (trains régionaux dans la grande région de Varsovie)
-- Certaines lignes de [Koleje Dolnośląskie]({{< ref "/operator/kd" >}} "KD") (KD).
+- Certaines lignes de Koleje Dolnośląskie (KD).
 
 Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables dans chaque pays sont nécessaires.
 

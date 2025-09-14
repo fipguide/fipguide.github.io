@@ -14,8 +14,9 @@ booking:
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
 countries:
-  overview: All Countries
+  overview: Countries with FIP acceptance
   selection: choose country
+  without-fip: Countries without FIP acceptance
 country:
   many: countries
   one: country
@@ -34,6 +35,10 @@ information-disclaimer-short: >-
   The information provided is unofficial and without guarantee. There is no
   legal connection to FIP or railway companies.
 interactiveMap:
+  legend:
+    available: FIP Guide available
+    pending: Content not available yet
+    unavailable: No FIP acceptance
   loading: Loading interactive map...
   resetZoom: Reset Zoom
   title: Interactive Country Map
