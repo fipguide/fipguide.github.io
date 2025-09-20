@@ -20,12 +20,12 @@ aliases:
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die ([Deutsche Bahn zu reservieren]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
+Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn") zu reservieren.
 
 Dafür können bei der ÖBB Sitzplatzreservierungen jedoch storniert werden:
 
-- 180 Tage bis 15 Tage vor Abfahrt: 100% des Reservierungspreises
-- 14 Tage bis 1 Tag vor Abfahrt: 50% des Reservierungspreises
+- 180 Tage bis 15 Tage vor Abfahrt: 100% Erstattung des Reservierungspreises
+- 14 Tage bis 1 Tag vor Abfahrt: 50% Erstattung des Reservierungspreises
 
 Auf der ÖBB Website muss zum Buchen einer Reservierung die Option: \
 "Nur Sitzplatzreservierung - Ich habe schon ein Ticket" \

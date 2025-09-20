@@ -3,24 +3,36 @@
     <h1 data-pagefind-meta="title">{{ .Title }}</h1>
     {{ .Content }}
     <div class="o-list__countries">
-      <div>
-        <h2>{{ T "countries.overview" }}</h2>
-        <div class="o-list__list">
-          {{ range .Pages }}
-          <a href="{{ .RelPermalink }}" class="o-list__link">
-            <div class="o-list__picture">
-              {{ partial "flag" (dict "country" .File.ContentBaseName) }}
-            </div>
-            <div>
-              {{ .Title }}
-            </div>
-          </a>
-          {{ end }}
+      <div class="o-list__countries-overview">
+        <div>
+          <h2 id="countries-with-fip">{{ T "countries.overview" }}</h2>
+          <ul class="o-list__list" aria-labelledby="countries-with-fip">
+            {{ range .Pages }}
+            <li class="o-list__list-item o-list__list-item--country">
+              <a href="{{ .RelPermalink }}" class="o-list__link">
+                <div class="o-list__picture">
+                  {{ partial "flag" (dict "country" .File.ContentBaseName) }}
+                </div>
+                <div>
+                  {{ .Title }}
+                </div>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div>
+          <h2 id="countries-without-fip">{{ T "countries.without-fip" }}</h2>
+          <ul class="o-list__list" aria-labelledby="countries-without-fip">
+            {{ range .Params.countriesWithoutFip }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
         </div>
       </div>
       <div class="o-interactive-map">
-        <h2>{{ T "interactiveMap.title" }}</h2>
-        <div class="o-interactive-map__wrapper">
+        <h2 id="interactive-map">{{ T "interactiveMap.title" }}</h2>
+        <div class="o-interactive-map__wrapper" aria-labelledby="interactive-map">
           <div id="interactive-map__container" class="o-interactive-map__container">
             <p class="o-interactive-map--loading"><em>{{ T "interactiveMap.loading" }}</em></p>
           </div>
@@ -32,20 +44,50 @@
               {{ partial "icon" "remove" }}
             </button>
             <button class="o-interactive-map__reset" title="{{ T "interactiveMap.resetZoom" }}" aria-label="{{ T "interactiveMap.resetZoom" }}">
-              {{ partial "icon" "crop_free" }}
+              {{ partial "icon" "reset_focus" }}
             </button>
           </div>
+        </div>
+        <div class="o-interactive-map__legend">
+          {{ range (slice "available" "unavailable" "pending") }}
+          <div class="o-interactive-map__legend-item">
+            <div class="o-interactive-map__legend-color o-interactive-map__legend-color--{{ . }}"></div>
+            <span>{{ T (printf "interactiveMap.legend.%s" .) }}</span>
+          </div>
+          {{ end }}
         </div>
       </div>
     </div>
   </article>
-
 
   <script>
     window.availableCountries = [
       {{- range .Pages -}}
       "{{ .File.ContentBaseName }}"{{ if not (eq . (index (last 1 $.Pages) 0)) }},{{ end }}
       {{- end -}}
+    ];
+
+    window.unavailableCountries = [
+      "algeria",
+      "andorra",
+      "belarus",
+      "cyprus",
+      "estonia",
+      "greenland",
+      "iceland",
+      "israel",
+      "lebanon",
+      "malta",
+      "moldova",
+      "morocco",
+      "russia",
+      "san_marino",
+      "sweden",
+      "syria",
+      "tunisia",
+      "turkey",
+      "ukraine",
+      "vatican",
     ];
 
     window.currentLanguage = "{{ .Language.Lang }}";

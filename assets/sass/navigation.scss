@@ -1,4 +1,3 @@
-
 .o-header {
   position: sticky;
   width: 100%;
@@ -8,6 +7,7 @@
   z-index: 5;
   height: 6rem;
   padding-left: calc((100vw - 100%) / 2);
+  border-bottom: var(--border);
 }
 
 .o-header__wrapper {
@@ -59,12 +59,12 @@
     background-color: var(--bg-neutral);
   }
 
-  img {
-    width: auto;
-    height: 4.4rem;
-    padding: .2rem .4rem;
+  svg {
+    width: 14.5rem;
+    height: 3.6rem;
+    padding: .6rem;
     align-self: center;
-    aspect-ratio: 696 / 200;
+    aspect-ratio: 145 / 36;
   }
 }
 
@@ -203,6 +203,7 @@
     background-color: var(--bg-default);
     padding: 1rem;
     overflow-y: scroll;
+    border-left: var(--border);
 
     > menu {
       margin-top: 4rem;

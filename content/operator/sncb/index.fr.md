@@ -100,7 +100,7 @@ Lorsque vous utilisez un coupon FIP SNCB, un billet transfrontalier peut être r
 
 ### À bord du train
 
-En l’absence de guichet, un billet peut être acheté à bord auprès du contrôleur en le contactant immédiatement. Un supplément de 9 €** est toutefois appliqué. [^2]
+Si aucun guichet n'est disponible ou ouvert, un billet peut être acheté à bord du train auprès du contrôleur si celui-ci est abordé immédiatement. Le supplément SNCB habituel pour les ventes à bord n'est pas facturé dans ce cas. [^2]
 
 ## Réductions
 
@@ -121,4 +121,4 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-[^2]: [Tarif à bord SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/on-board-fare)
+[^2]: [Retours d'expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)

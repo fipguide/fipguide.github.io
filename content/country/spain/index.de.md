@@ -7,14 +7,14 @@ params:
   operators_without_fip:
     - Iryo
     - OUIGO
-    - '[Avlo]({{< ref "/operator/renfe" >}} "Avlo")'
+    - '[Avlo]({{< ref "/operator/renfe#langstrecke" >}} "Avlo")'
 ---
 
 ## FIP Nutzung
 
 In Spanien ist die Nutzung von FIP nicht immer einfach, da hier einfach einsteigen und mitfahren nur in den seltensten Fällen funktioniert. Auf den meisten Relationen muss vorab ein Ticket zum FIP Globalpreis gebucht werden. Da nur so viele Tickets verkauft werden, wie auch Sitzplätze vorhanden sind, sollte dieser Kauf nicht zu kurzfristig geschehen (auch in Regionalzügen).
 
-Die [Renfe]({{< ref "/operator/renfe" >}} "Renfe") ist das größte Eisenbahnverkehrsunternehmen in Spanien und akzeptiert FIP. Auf den lukrativen Relationen konkurriert sie dabei mit jeder Menge privater Anbieter wie OUIGO oder Iryo, bei denen kein FIP akzeptiert wird. Ein weiterer Anbieter im Baskenland ist Euskotren, der ebenfalls FIP akzeptiert.
+Die [Renfe]({{< ref "/operator/renfe" >}} "Renfe") ist das größte Eisenbahnverkehrsunternehmen in Spanien und akzeptiert FIP. Auf den lukrativen Relationen konkurriert sie dabei mit jeder Menge privater Anbieter wie OUIGO oder Iryo, bei denen kein FIP akzeptiert wird. Ein weiterer Anbieter im Baskenland ist [Euskotren]({{< ref "/operator/euskotren" >}}), der ebenfalls FIP akzeptiert.
 
 ## Wissenswertes
 
@@ -42,6 +42,8 @@ Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelo
 Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können. Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich.
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
+
+Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
 
 ### Portugal
 

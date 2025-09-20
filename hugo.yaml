@@ -12,12 +12,12 @@ languages:
     weight: 1
     title: 'FIP Guide – Fast. Clear. Community-based.'
   de:
-    languageName: "German"
+    languageName: "Deutsch"
     languageCode: de
     weight: 2
     title: 'FIP Guide – Schnell. Übersichtlich. Community-basiert.'
   fr:
-    languageName: "French"
+    languageName: "Français"
     languageCode: fr
     weight: 3
     title: 'FIP Guide – Rapide. Clair. Basé sur le partage.'

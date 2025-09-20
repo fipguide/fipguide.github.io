@@ -1,6 +1,7 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | title }}' # Ändere den Name auf den deutschen Ländername
+title: '{{ .File.ContentBaseName | title }}' # Ändere den Name auf den deutschen Ländernamen
+description: '' # Ergänze eine Beschreibung für das Land
 country: '{{ .File.ContentBaseName }}'
 params:
   operators_without_fip:

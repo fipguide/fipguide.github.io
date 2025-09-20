@@ -48,10 +48,8 @@
     display: flex;
     font-weight: 500;
     padding: 1rem 1rem 1rem 0;
-}
-
-.o-language-switcher__current {
-    margin-right: 0.5rem;
+    gap: 0.5rem;
+    align-items: center;
 }
 
 .o-language-switcher__icon {
@@ -80,6 +78,7 @@
     margin-bottom: 0;
     padding-left: 0;
     box-shadow: var(--box-shadow);
+    z-index: 20;
 }
 
 .o-language-switcher__button[aria-expanded="true"] + .o-language-switcher__dropdown {
@@ -87,7 +86,7 @@
 }
 
 .o-language-switcher__item {
-    margin: 1.6rem;
+    margin: 1.6rem 3rem;
 }
 
 .o-language-switcher__link {

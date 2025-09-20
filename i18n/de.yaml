@@ -15,16 +15,17 @@ booking:
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
 countries:
-  overview: Alle Länder
+  overview: Länder mit FIP Akzeptanz
   selection: Länderauswahl
+  without-fip: Länder ohne FIP Akzeptanz
 country:
   many: Länder
   one: Land
   other: Länder
 editPage: Seite bearbeiten
 footer-love:
-  aria-label: Made with love in Aachen, Frankfurt, Köln & Paris
-  text: Made with ♥️ in Aachen, Frankfurt, Köln & Paris
+  aria-label: Made with love in Europa
+  text: Made with ♥️ in Europa
 general: Übergreifendes
 highlight:
   important: Wichtige Information
@@ -35,6 +36,10 @@ information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
   rechtliche Verbindung zu FIP oder Bahngesellschaften.
 interactiveMap:
+  legend:
+    available: FIP Guide verfügbar
+    pending: Inhalt noch nicht verfügbar
+    unavailable: Keine FIP-Akzeptanz
   loading: Lade interaktive Karte...
   resetZoom: Zoom zurücksetzen
   title: Interaktive Länderkarte
