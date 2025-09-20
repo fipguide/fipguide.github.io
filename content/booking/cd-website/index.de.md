@@ -18,9 +18,9 @@ FIP 50 Tickets können **nicht** über die ČD-App gekauft werden, da die in der
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Die České dráhy verkauft auf ihrer Website Reservierungen für Tschechien und einige andere europäische Ländern. Dabei können auch Reservierungen von bestimmten Sitzplätzen vorgenommen werden.
+Die České dráhy verkauft auf ihrer Website Reservierungen für Tschechien und einige andere europäische Länder. Dabei können auch Reservierungen von bestimmten Sitzplätzen vorgenommen werden.
 
-Um nur eine Reservierung zu buchen, muss über die Reiseauskunft Verbindungen auf der gewünschten Relation gesucht werden. Anschließend kann die Option _Reservation only_ ausgewählt werden.
+Um nur eine Reservierung zu buchen, muss über die Reiseauskunft eine Verbindung auf der gewünschten Relation gesucht werden. Anschließend kann die Option _Reservation only_ ausgewählt werden.
 
 ![CD Reservierung buchen](cd_reservation.webp)
 {{% /booking-section %}}

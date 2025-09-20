@@ -16,13 +16,13 @@ params:
 {{% booking-section "fip_50" %}}
 **FIP 50 Fahrkarten**
 
-An ČD Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Tschechiens und in andere europäischen Ländern erworben werden.
+An ČD Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Tschechiens und in andere europäische Länder erworben werden.
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Die České dráhy verkauft auf an ihren Ticketschaltern Reservierungen für Tschechien und einige andere europäische Länder. Dabei können auch Reservierungen von bestimmten Sitzplätzen vorgenommen werden.
+Die České dráhy verkauft an ihren Ticketschaltern Reservierungen für Tschechien und einige andere europäische Länder. Dabei können auch Reservierungen von bestimmten Sitzplätzen vorgenommen werden.
 
 {{% /booking-section %}}
