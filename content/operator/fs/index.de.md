@@ -172,6 +172,11 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 {{% booking id="fs-ticket-office" /%}}
 
+{{% booking id="db-ticket-office"
+  classes.first="3€ / 25€"
+  classes.second="3€ / 25€"
+/%}}
+
 ### Im Zug
 
 Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bordzuschlag erhoben (außer in Fällen, in denen es am Abfahrtsbahnhof keine Verkaufsstellen oder Fahrkartenautomaten gibt).

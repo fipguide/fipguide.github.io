@@ -110,6 +110,8 @@ Avec les billets FIP 50, il est possible de réserver des trajets continus sur l
 
 {{% booking id="sbb-ticket-machine" /%}}
 
+{{% booking id="db-ticket-office"/%}}
+
 ### À bord du train
 
 Les billets FIP ne peuvent pas être achetés à bord du train. Un supplément est appliqué aux voyageurs sans billet. La seule exception concerne le supplément pour les trains grandes lignes transfrontaliers vers l’Italie.

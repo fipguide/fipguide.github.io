@@ -110,6 +110,8 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route
 
 {{% booking id="sbb-ticket-machine"/%}}
 
+{{% booking id="db-ticket-office"/%}}
+
 ### On the Train
 
 FIP Tickets cannot be purchased on the train. A penalty fee is charged for passengers without tickets. The only exception is the surcharge for cross-border long-distance trains to Italy.

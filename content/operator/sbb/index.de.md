@@ -110,6 +110,8 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 {{% booking id="sbb-ticket-machine"/%}}
 
+{{% booking id="db-ticket-office"/%}}
+
 ### Im Zug
 
 Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets. Augenommen davon ist der Zuschlag für die grenzüberschreitenden Fernzüge nach Italien.

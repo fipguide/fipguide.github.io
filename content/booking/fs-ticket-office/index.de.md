@@ -16,7 +16,7 @@ params:
 An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden.
 
 {{% highlight inofficial %}}
-Teilweise werden an Ticketschaltern Tickets mit dem falschen Tarif ausgestellt, daher können sich Preise unterscheiden. Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
+Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarif ausgestellt, daher können sich Preise unterscheiden. Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
 {{% /highlight %}}
 
 {{% /booking-section %}}
@@ -24,17 +24,15 @@ Teilweise werden an Ticketschaltern Tickets mit dem falschen Tarif ausgestellt, 
 {{% booking-section "reservations" %}}
 **Reservierungen und Aufschläge:**
 
-An Trenitalia Fahrkartenschaltern können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden. Dafür werden Ticket mit dem Tarif *** verkauft und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr.
+Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Bussiness und Executive Klassen ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_, kann jedoch nicht am Fahrkartenautomaten erworben werden.
 
-{{% highlight inofficial %}}
-Teilweise wird fälschlicherweise der Tarif _DIRITTO AMMISSIONE_ verkauft. Diese besitzt folgende Festpreise für die Aufschläge:
+Preise für _DIRITTO AMMISSIONE_:
 
 Le Frecce: 25€ (1./2. Klasse) \
 InterCity: 3€ (1./2. Klasse) \
 Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z.B. 20€ Chiasso - Milano (ECE/EC)
 
 Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
-{{% /highlight %}}
 
 {{% /booking-section %}}
 
@@ -43,3 +41,5 @@ Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güst
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
 {{% /highlight %}}
+
+![Biglietti Gratuiti](bigliettigratuiti.webp)
