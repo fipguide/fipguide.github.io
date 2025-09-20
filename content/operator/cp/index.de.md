@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'CP'
-description: ''
+description: "Informationen über die FIP-Bedingungen bei Comboios de Portugal (CP)."
 country:
   - 'portugal'
 operator: 'cp'
