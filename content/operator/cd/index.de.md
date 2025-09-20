@@ -1,6 +1,7 @@
 ---
 draft: false
 title: 'ČD'
+description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD)."
 country:
   - 'czechia'
 operator: 'cd'
@@ -36,16 +37,17 @@ Sitzplatzreservierungen sind nur in SuperCity `SC` Zügen verpflichtend.
 
 {{% expander "SuperCity (SC)⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Die SuperCity Züge bieten die schnellsten Verbindungen auf der Strecke Prag – Pardubice – Olomouc – Ostrava. Zweimal täglich verkehren Züge ab Ostrava weiter in die Slowakei. Sie halten nur an den wichtigsten Bahnhöfen und bieten sehr komfortables Reisen in der 1. und 2. Klasse. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend. Die modernen Neigetechnikzüge vom Typ „Pendolino“ verfügen über ein Bistro und bieten einen hohen Servicestandard. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden. In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
+Die SuperCity Züge bieten die schnellsten Verbindungen auf der Strecke Prag – Pardubice – Olomouc – Ostrava. Zweimal täglich verkehren Züge ab Ostrava weiter in die Slowakei. Sie halten nur an den wichtigsten Bahnhöfen und bieten sehr komfortables Reisen in der 1. und 2. Klasse. Die modernen Neigetechnikzüge vom Typ „Pendolino“ verfügen über ein Bistro und bieten einen hohen Servicestandard. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden.
+
+Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
+
+In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Die Preise für die Reservierung sind variabel.
 {{% /expander %}}
 
 {{% expander "Railjet (RJ)ℹ️" traincategory traincategory %}}
-{{% highlight important %}}
-ℹ️ Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit "RJ" gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine. 
-{{% /highlight %}}
 **Beschreibung:** \
 Die Railjet-Züge verbinden Brno und Prag schnell und komfortabel und bieten zudem eine Direktverbindung über Břeclav nach Wien und Graz. Sie halten nur an den wichtigsten Bahnhöfen. Auch die internationalen ComfortJet-Züge zwischen Prag und Deutschland bzw. Dänemark fallen ab Dezember 2025 unter diese Kategorie. Es gibt meist drei Wagenklassen:
 
@@ -55,6 +57,7 @@ Die Railjet-Züge verbinden Brno und Prag schnell und komfortabel und bieten zud
 
 Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend. Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, allerdings mit blauer Außengestaltung. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden. Speisen und Getränke sind im Bordrestaurant oder per Am-Platz-Service erhältlich. In der 1. Klasse erhalten Fahrgäste kostenlos eine Flasche Wasser und eine Tageszeitung, in der Business Class zusätzlich ein Begrüßungsgetränk sowie einen Gutschein im Wert von 50 CZK für das Restaurantangebot (nur innerhalb Tschechiens). Für Kinder gibt es ein eigenes Kinderkino mit speziellen Programmen. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/)
 
+ℹ️ Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit `RJ` gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein (Nur Business Class)
 {{% /expander %}}
@@ -144,13 +147,13 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ### ČD Kommerzielle Verbindungen
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD gilt muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag - Ostrava.
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag - Ostrava.
 
 <!-- Wie teuer ist dieses Supplement? -->
 
 Übersicht über die Verbindungen: [ČD kommerzielle Zuge und ausgewahlte Linien 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
-Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Aufschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich.
+Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Aufschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich. [^1]
 
 ### Verbindungen der ČD ohne FIP
 
@@ -199,9 +202,11 @@ Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfer
 
 ## Empfehlungen
 
+
+{{% highlight tip %}}
 Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverlässiges und meist komfortables Reisen mit einem sehr gutem Service steht. Die Beschäftigten der Bahn sind meistens sehr freundlich und helfen gerne weiter. Anschlüsse warten oft bei Verspätungen, außer in großen Knotenbahnhöfen wie Praha hl. n. Die Nutzung der App der ČD ("Můj vlak") kann sehr empfehlenswert sein, da hier neben Live-Daten auch die Wagenreihungen und weitere wichtige Informationen einfach eingesehen werden können.
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
+{{% /highlight %}}
 
 ## Quellen
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
