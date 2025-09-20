@@ -19,39 +19,76 @@
         {{ partial "icon" "close" }}
       </button>
       <menu>
-        <li class="o-header__item">
-          <button class="o-header__expand-button" aria-haspopup="true" aria-expanded="false">
-            <span>{{ T "countries.selection" }}</span>
-            {{ partial "icon" "keyboard_arrow_down" }}
+        <li class="o-header__item o-dropdown">
+          <button
+            id="navbar-country-selection-button"
+            class="o-dropdown__button"
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            aria-controls="navbar-country-selection-dropdown"
+            title="{{ T "language-switcher.aria-label" }}"
+            aria-label='{{ T "countries.selection.aria-label" }}'
+          >
+            <span>{{ T "countries.selection.title" }}</span>
+            <div class="o-dropdown__icon">
+              {{ partial "icon" "keyboard_arrow_down" }}
+            </div>
           </button>
-          <span id="menu-country-list-title">{{ T "country" }}</span>
-          <menu class="o-header__item-countries" aria-describedby="menu-country-list-title">
+          <menu
+            id="navbar-country-selection-dropdown"
+            class="o-header__item-countries o-dropdown__menu o-dropdown__menu--below"
+            role="listbox"
+            aria-hidden="true"
+            aria-label="{{ T "countries.selection.dropdown-label" }}"
+          >
             {{ range  where site.RegularPages "Section" "country"}}
             <li class="o-header__item">
+              {{ partial "flag" (dict "country" .File.ContentBaseName) }}
               <a href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
             {{ end }}
           </menu>
-        </li>
-        <li class="o-header__item">
-          <span id="menu-general-list-title">{{ T "general" }}</span>
-          <ul class="o-header__item-wrapper" aria-describedby="menu-general-list-title">
-            <li class="o-header__item a-theme-toggle--desktop">
-              {{ partial "theme-toggle" }}
-            </li>
-            {{ $news := site.GetPage "news" }}
-            {{ if $news }}
+          <button
+            id="navbar-operator-selection-button"
+            class="o-dropdown__button"
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            aria-controls="navbar-operator-selection-dropdown"
+            title="{{ T "language-switcher.aria-label" }}"
+            aria-label='{{ T "operators.selection.aria-label" }}'
+          >
+            <span>{{ T "operators.selection.title" }}</span>
+            <div class="o-dropdown__icon">
+              {{ partial "icon" "keyboard_arrow_down" }}
+            </div>
+          </button>
+          <menu
+            id="navbar-operator-selection-dropdown"
+            class="o-header__item-operators o-dropdown__menu o-dropdown__menu--below"
+            role="listbox"
+            aria-hidden="true"
+            aria-label="{{ T "operators.selection.dropdown-label" }}"
+          >
+            {{ range  where site.RegularPages "Section" "operator"}}
             <li class="o-header__item">
-              <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+              {{ partial "operator-logo" (dict "operator" .File.ContentBaseName) }}
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
             {{ end }}
+          </menu>
+          <ul class="o-header__item-wrapper">
+            {{ $news := site.GetPage "news" }}
+            <li class="o-header__item" id="li-header-news">
+              <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
+            </li>
             {{ $informationPage := site.GetPage "generalInformation" }}
-            {{ if $informationPage }}
             <li class="o-header__item">
               <a href="{{ $informationPage.RelPermalink }}">{{ $informationPage.Title }}</a>
             </li>
-            {{ end }}
           </ul>
+        </li>
+        <li class="o-header__item a-theme-toggle--desktop">
+          {{ partial "theme-toggle" }}
         </li>
       </menu>
     </nav>

@@ -16,7 +16,10 @@ booking:
   visit-booking-website: Zur Buchungsseite
 countries:
   overview: Länder mit FIP Akzeptanz
-  selection: Länderauswahl
+  selection:
+    aria-label: Land auswählen
+    dropdown-label: Verfügbare Länder
+    title: Länder
   without-fip: Länder ohne FIP Akzeptanz
 country:
   many: Länder
@@ -53,6 +56,11 @@ menu-open: Menü
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
+operators:
+  selection:
+    aria-label: Betreiber auswählen
+    dropdown-label: Verfügbare Betreiber
+    title: Betreiber
 operators_without_fip: Betreiber ohne FIP
 related:
   countries: Verwandte Länder
