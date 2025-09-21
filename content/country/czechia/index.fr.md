@@ -42,17 +42,17 @@ La ponctualité est correcte, les trains en correspondance attendent souvent, ma
 ### Allemagne
 Il existe divers points de passage ferroviaires depuis l'Allemagne. Le plus connu est Schöna, utilisé par les trains grandes lignes internationaux entre les deux pays. Il existe aussi des trains régionaux transfrontaliers toutes les 2 heures, qui, comme les trains EC/RJ, sont exploités en coopération par la Deutsche Bahn et la ČD, de sorte que les coupons FIP des deux pays ou un billet FIP 50 continu sont valables pour le trajet.
 
-Il en va de même pour la section nord du train régional, qui franchit à nouveau la frontière à Dolní Poustevna (ligne Decin - Bad Schandau - Sebnitz - Rumburk).
+Il en va de même pour la section nord du train régional, qui franchit à nouveau la frontière à Dolní Poustevna (ligne Decin – Bad Schandau – Sebnitz – Rumburk).
 
 Les autres points de passage ne sont desservis que par des trains régionaux. Le plus simple est Bayerisch Eisenstein, car il s'agit non seulement d'un point frontière mais aussi de la gare frontière. À partir de là, un billet FIP / coupon FIP de la ČD suffit pour continuer vers la Tchéquie.
 
-À Potůčky, sur la ligne Johanngeorgenstadt - Karlovy Vary, les billets FIP de la DB et de la ČD peuvent être utilisés pour voyager au-delà de la frontière. Les autres passages sont un peu plus complexes.
+À Potůčky, sur la ligne Johanngeorgenstadt – Karlovy Vary, les billets FIP de la DB et de la ČD peuvent être utilisés pour voyager au-delà de la frontière. Les autres passages sont un peu plus complexes.
 
 À Cheb, les trains transfrontaliers exploités par DB Regio peuvent être utilisés avec des coupons FIP des deux pays ou un billet FIP 50 continu. Pour les trains exploités par Agilis (exploités par la ČD côté tchèque), il faut acheter un billet normal pour la section allemande (un Deutschlandticket est aussi valable à partir de Schirnding).
 
 Il en va de même pour le passage nord à Aš. De même, à Furth im Wald, le train régional transfrontalier, qui est un EC côté tchèque, peut être utilisé avec un billet FIP ČD en Tchéquie, mais un billet normal est nécessaire pour la section allemande.
 
-Aux passages Hrádek nad Nisou (ligne Zittau - Liberec), Varnsdorf (ligne Seifhennersdorf - Zittau), Vejprty (ligne Cranzahl - Chomutov, desservie uniquement l'été les week-ends et jours fériés) et Vojtanov (ligne Zwickau - Cheb), la FIP est inutile, car de part et d'autre de la frontière les trains sont exploités par des compagnies privées qui n'acceptent pas la FIP.
+Aux passages Hrádek nad Nisou (ligne Zittau – Liberec), Varnsdorf (ligne Seifhennersdorf – Zittau), Vejprty (ligne Cranzahl – Chomutov, desservie uniquement l'été les week-ends et jours fériés) et Vojtanov (ligne Zwickau – Cheb), la FIP est inutile, car de part et d'autre de la frontière les trains sont exploités par des compagnies privées qui n'acceptent pas la FIP.
 
 ### Autriche
 

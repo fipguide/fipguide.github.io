@@ -43,17 +43,17 @@ Punctuality is solid, and connecting trains often wait, but not in major hubs li
 ### Germany
 There are various rail border crossings from Germany that can be used. The most well-known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the EC/RJ trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a continuous FIP 50 Ticket are valid for the journey.
 
-The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin - Bad Schandau - Sebnitz - Rumburk).
+The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin – Bad Schandau – Sebnitz – Rumburk).
 
 The other border crossings are only served by regional trains. The easiest is Bayerisch Eisenstein, as it is not only a border point but also the border station. From here, a FIP Ticket / Coupon from ČD is sufficient to continue into Czechia.
 
-At Potůčky on the Johanngeorgenstadt - Karlovy Vary route, FIP Tickets from DB and ČD can be used for cross-border travel. The other crossings are a bit more complicated.
+At Potůčky on the Johanngeorgenstadt – Karlovy Vary route, FIP Tickets from DB and ČD can be used for cross-border travel. The other crossings are a bit more complicated.
 
 At Cheb, cross-border trains operated by DB Regio can be used with FIP Coupons from both countries or a continuous FIP 50 Ticket. For trains operated by Agilis (operated by ČD on the Czech side), a regular ticket must be purchased for the German section (a Deutschlandticket is also valid from Schirnding).
 
 The same applies to the northern border crossing at Aš. Similarly, at Furth im Wald, the cross-border regional express, which is an EC in the Czech section, can be used with a ČD FIP Ticket in Czechia, but a regular ticket is needed for the German section.
 
-At the border crossings Hrádek nad Nisou (route Zittau - Liberec), Varnsdorf (route Seifhennersdorf - Zittau), Vejprty (route Cranzahl - Chomutov, only served in summer on weekends and holidays), and Vojtanov (route Zwickau - Cheb), FIP is useless, as on both sides of the border the trains are operated by private railways that do not accept FIP.
+At the border crossings Hrádek nad Nisou (route Zittau – Liberec), Varnsdorf (route Seifhennersdorf – Zittau), Vejprty (route Cranzahl – Chomutov, only served in summer on weekends and holidays), and Vojtanov (route Zwickau – Cheb), FIP is useless, as on both sides of the border the trains are operated by private railways that do not accept FIP.
 
 ### Austria
 
