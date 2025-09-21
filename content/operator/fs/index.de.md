@@ -98,7 +98,7 @@ Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Kosten für Reservierung**: \
 25€ (1./2. Klasse)
 
-Brennerverkehr: \
+Brennerverkehr:
 1. Klasse: 15€
 2. Klasse: 10€
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
@@ -121,7 +121,7 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 **Beschreibung:** \
 Schnelle Regionalzüge mit Halt an den wichtigsten Stationen.
 
-⚠️ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
+⚠️ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr) \
 **Reservierung möglich:** Nein
 {{% /expander %}}
 
@@ -129,13 +129,15 @@ Schnelle Regionalzüge mit Halt an den wichtigsten Stationen.
 **Beschreibung:** \
 Regionalzüge mit Halt an den meisten Stationen.
 
-⚠️ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
+⚠️ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr) \
 **Reservierung möglich:** Nein
 {{% /expander %}}
 
-{{% expander "Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)" traincategory "long-distance" %}}
+{{% expander "Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm) ℹ️" traincategory "long-distance" %}}
 **Beschreibung:** \
-S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`. \
+S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
+
+ℹ️ U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP genutzt werden. \
 **Reservierung möglich:** Nein
 {{% /expander %}}
 

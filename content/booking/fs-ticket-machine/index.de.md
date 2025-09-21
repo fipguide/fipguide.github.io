@@ -23,7 +23,7 @@ Preise für _DIRITTO AMMISSIONE_:
 
 Le Frecce: 25€ (1./2. Klasse) \
 InterCity: 3€ (1./2. Klasse) \
-Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z.B. 20€ Chiasso - Milano (ECE/EC)
+Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z.B. 20€ Chiasso - Milano (`ECE`/`EC`)
 
 Auf dem Startbildschirm des Automaten "Buy your tickets / Special Discounts" wählen. Anschließend den Tarif über "Diritti di Ammissione" -> "Diritto Ammissione Non FS" auswählen.
 
