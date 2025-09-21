@@ -2,7 +2,7 @@
 <div class="o-container o-header__wrapper">
   <a id="skip-link" class="o-header__skip-link" href="#content">{{ T "skipToContent" }}</a>
   <a href="{{ .Site.BaseURL | relLangURL }}" aria-label="{{ T "home-page-text" }}" class="o-header__logo">
-    <img aria-hidden="true" src="{{ $logo.RelPermalink }}" alt="">
+  {{ partial "header-logo" }}
   </a>
   <div class="o-header__curtain"></div>
   <div class="o-header__nav o-container">

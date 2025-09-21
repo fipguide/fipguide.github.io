@@ -17,8 +17,8 @@ params:
 In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahrtsscheine und FIP 50 Tickets erworben werden können:
 
 - Die staatliche Bahngesellschaft [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") (Schweizerische Bundesbahnen - Chemins de fer fédéraux suisses - Ferrovie federali svizzere FFS), die besonders auf den meisten Hauptstrecken verkehrt
-- Ein Konsortium von Schweizer Privatbahnen ([SP]({{< ref "/404" >}} "SP"))
-- Die Berner Alpenbahngesellschaft Bern–Lötschberg–Simplon ([BLS]({{< ref "/404" >}} "BLS"))
+- Ein Konsortium von Schweizer Privatbahnen (SP)
+- Die Berner Alpenbahngesellschaft Bern–Lötschberg–Simplon (BLS)
 
 In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einigen Verkehrsmitteln, die europaweit einmalig mit FIP sind, beispielsweise Seilbahnen oder bestimmte Buslinien.
 

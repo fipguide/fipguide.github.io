@@ -4,7 +4,7 @@
 <article class="o-single o-single--with-sidemenu">
     {{ partial "sidemenu" . }}
     <div class="o-single__content-wrapper" data-pagefind-body>
-        <div class="o-single__container content_with_heading">
+        <div class="o-single__container o-single__highlight">
             <div class="o-single__content-header">
                 <div class="o-single__content-header-title">
                     {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
@@ -21,7 +21,7 @@
             {{ $title := print (T "_operator__list_title") " in " .Title}}
             {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
             {{ with .Params.operators_without_fip }}
-                <hr class="o-divider">
+            {{ partial "intersector" }}
                 <h3 id="operators-without-fip-title">{{ T "operators_without_fip"}} in {{ $.Title }}</h3>
                 <ul aria-labelledby="operators-without-fip-title">
                     {{ range . }}
