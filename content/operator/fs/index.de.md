@@ -98,7 +98,7 @@ Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Reservierungspflicht:** ⚠️ Ja \
 **Kosten für Reservierung**: 25€ (1./2. Klasse)
 
-**Brennerverkehr:** 
+**Brennerverkehr:**
 - 1\. Klasse: 15€
 - 2\. Klasse: 10€
 
