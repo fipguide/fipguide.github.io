@@ -146,7 +146,7 @@ Pour les billets ordinaires, les enfants jusqu'à 6 ans voyagent gratuitement en
 
 ### Services commerciaux ČD
 
-Sur les services dits _commerciaux_ de la ČD, un supplément doit être acheté au guichet ČD avant le voyage. Ils circulent principalement sur la ligne Prague - Ostrava.
+Sur les services dits _commerciaux_ de la ČD, un supplément doit être acheté au guichet ČD avant le voyage. Ils circulent principalement sur la ligne Prague – Ostrava.
 
 Aperçu des services : [Trains commerciaux ČD et lignes sélectionnées 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 

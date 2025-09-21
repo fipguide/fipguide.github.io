@@ -147,7 +147,7 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ### ČD Kommerzielle Verbindungen
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag - Ostrava.
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag – Ostrava.
 
 <!-- Wie teuer ist dieses Supplement? -->
 
@@ -173,12 +173,12 @@ FIP Fahrkarten sind auf einigen Regionalzügen im Raum Pilsen nicht gültig.
 
 ### Busse und Ersatzverkehr
 
-FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden, ausgenommen davon sind Schinenersatzverkehre.
+FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden, ausgenommen davon sind Schienenersatzverkehre.
 
 Für einige Verbindungen sind jedoch vergünstigte Tickets verfügbar:
 
-- Václav Havel Airport Prague (Prag Flughafen) - Praha hl. n. (Prag Hauptbahnhof)
-- Hranice na Moravĕ - Nový Jičin - Příbor - Frýdek-Místek
+- Václav Havel Airport Prague (Prag Flughafen) – Praha hl. n. (Prag Hauptbahnhof)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
 
 Auf anderen Verbindungen gelten keine FIP Ermäßigungen.
 

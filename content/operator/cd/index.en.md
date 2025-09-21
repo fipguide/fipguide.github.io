@@ -146,7 +146,7 @@ For regular tickets, children up to 6 years travel free in 2nd class. Children u
 
 ### ČD Commercial Services
 
-On so-called _commercial_ ČD services, a supplement must be purchased at the ČD ticket office before travel. These mainly operate on the Prague - Ostrava route.
+On so-called _commercial_ ČD services, a supplement must be purchased at the ČD ticket office before travel. These mainly operate on the Prague – Ostrava route.
 
 Overview of services: [ČD commercial trains and selected lines 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
