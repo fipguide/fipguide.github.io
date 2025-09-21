@@ -134,12 +134,7 @@ Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de 
 
 ### Trains transfrontaliers (Italie, France)
 
-Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \
-Ce supplément (incluant la réservation) est obligatoire, même avec un coupon FIP ou un billet FIP 50.
-- 2ᵉ classe : 11€
-- 1ère classe : 13€
-
-Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
+Pour les trains transfrontaliers `EC` vers l’Italie et `TGV` vers la France, un supplément est requis en dehors de la Suisse en plus du coupon FIP. Ce supplément peut être acheté aux guichets (en Suisse, en France ou en Italie). Sur les trains EC vers l’Italie, il peut également être acheté à bord ou à tarif réduit via la Deutsche Bahn. [Voir Voyage vers l’Italie]({{< ref "/country/switzerland#italie" >}} "Voyage vers l’Italie")
 
 ## Recommandation
 

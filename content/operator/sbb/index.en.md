@@ -134,12 +134,7 @@ However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, no
 
 ### Cross-border Trains (Italy, France)
 
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland. \
-This surcharge (including reservation) is mandatory, even with an FIP Free Pass or FIP 50 Ticket.
-- 2nd class: €11
-- 1st class: €13
-
-The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it is also possible to buy the surcharge on board.
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP free pass. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
 
 ## Recommendations
 
