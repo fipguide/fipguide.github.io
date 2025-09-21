@@ -65,7 +65,7 @@ Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mai
 
 ### Österreich
 
-Es zwei internationale Routen von Österreich nach Italien:
+Es gibt zwei internationale Routen von Österreich nach Italien:
 
 - Die Brennerbahn: mit Eurocity-Zügen von München über Innsbruck und den Brennerpass nach Bozen und Verona sowie Züge der Linie `S3` von Brenner nach Insbruck. Ab Brenner können Regionalzügen Richtung Bozen genutzt werden.
 - Die Strecke über Tarvisio Boscoverde: mit Railjets aus Wien weiter nach Venedig und einzelnen Regionalzügen von Villach nach Trieste

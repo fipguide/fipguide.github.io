@@ -25,7 +25,7 @@ FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
-In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z. B. Trenord und Ferrovie Sud Est), selbst wenn die Züge Trenitalia-Logos haben.
+In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z. B. Trenord und Ferrovie Sud Est), selbst wenn die Züge Trenitalia-Logos haben. Außgenommen davon ist die Tochtergesellschaft TPER. [Siehe Regionalzüge in Emilia-Romagna](#regionalzüge-in-emilia-romagna)
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
@@ -76,7 +76,7 @@ Anschlussbusse für Hochgeschwindigkeitszüge.
 Schnellzug meist abseits von Hochgeschwindigkeitsstrecken. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25€ (1./2. Klasse) \
+**Kosten für Reservierung**: 3€ (1./2. Klasse) \
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
 
@@ -222,6 +222,14 @@ Im Trinacria Express von/zum Flughafen Palermo Falcone Borsellino gelten keine F
 
 FIP-Vergünstigungen gelten nicht in internationalen Frecciarossa-Zügen zwischen Paris und Italien.
 
+### Treni Touristici (Touristische Züge)
+
+FIP Vergünstigungen gelten nicht in den [Treni Touristici](https://www.fstrenituristici.it/) (Touristische Züge), selbst wenn sie von Trenitalia betrieben werden.
+
+### Busse und Ersatzverkehr
+
+Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).
+
 ### Fahrtunterbrechnung
 
 Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne Ankündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets mit aufgedruckter Zugnummer (siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)).
@@ -232,17 +240,29 @@ Im italienischen Nahverkehr (`R`/`RV`) besteht teilweise eine Zugbindung. Dies b
 
 Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_) unterschieden.
 
-Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen. Die  nicht zuggebunden Züge sind erkennbar an:
+Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
 
-- Der Bemerkung "non prenotabile" in den Zuginformationen:
-![Ordinaria](ordinaria_2.webp)
-- Der Ticketbezeichung "Ordinaria":
-![Ordinaria](ordinaria_1.webp)
+
+{{% expander "Erkennung von zuggebundenen Tickets" info %}}
+
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+Der Bemerkung "non prenotabile" in den Zuginformationen:
+<br style="clear:both" />
+<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+Der Ticketbezeichung "Ordinaria":
+<br style="clear:both" />
+
 Tickets für zuggebundene Züge gelten ausschließlich für den auf dem Ticket angegebenen Zug. Die zuggebundenen Züge sind erkennbar an:
-- Der Bemerkung "prenotabile" in den Zuginformationen:
-![Prenotabile](prenotabile_2.webp)
-- Der Ticketbezeichnung "Prenotazione - Ordinaria":
-![Prenotabile](prenotabile_1.webp)
+
+<img src="/en/operator/fs/prenotabile_2.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+Der Bemerkung "prenotabile" in den Zuginformationen:
+<br style="clear:both" />
+<img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+Der Ticketbezeichnung "Prenotazione - Ordinaria":
+<br style="clear:both" />
+
+{{% /expander %}}
 
 ### Abstempeln von Regionalzugtickets
 

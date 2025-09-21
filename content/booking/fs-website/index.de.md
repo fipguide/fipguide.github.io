@@ -29,8 +29,12 @@ Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20�
 
 Bei der Buchung muss über die Verbindungsauskunft erst eine Verbindung ausgewählt werden. Anschließend kann in der Ticketauswahl über den Button _Weitere Angebote anzeigen_ die Auswahl des Tarifs _DIRITTO AMMISSIONE_ erfolgen. Als Zugangsnummer kann die Nummer des FIP Freifahrtscheins angegeben werden.
 
-![Mehr Angebote anzeigen](reservation_1.webp)
-![Tarif wählen](reservation_2.webp)
+
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+    <img src="/de/booking/fs-website/reservation_1.de.webp" alt="Mehr Angebote anzeigen" style="width: 49%;">
+    <img src="/de/booking/fs-website/reservation_2.de.webp" alt="Tarif wählen" style="width: 49%;">
+</div>
 
 {{% /booking-section %}}
 

@@ -24,6 +24,9 @@ Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgest
 {{% booking-section "reservations" %}}
 **Reservierungen und Aufschläge:**
 
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+
 Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Bussiness und Executive Klassen ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_, kann jedoch nicht am Fahrkartenautomaten erworben werden.
 
 **Preise für _DIRITTO AMMISSIONE_:**
@@ -41,5 +44,3 @@ Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güst
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
 {{% /highlight %}}
-
-![Biglietti Gratuiti](bigliettigratuiti.webp)
