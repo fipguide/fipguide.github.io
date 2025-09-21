@@ -10,18 +10,18 @@ Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vas
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtsscheine werden in Ungarn ausnahmslos akzeptiert
-- FIP 50 und FIP Freifahrtsscheine gelten in Österreich nur eingeschränkt
+- FIP 50 und FIP Freifahrtscheine werden in Ungarn ausnahmslos akzeptiert
+- FIP 50 und FIP Freifahrtscheine gelten in Österreich nur eingeschränkt
 - Es besteht keine Reservierungspflicht
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
-FIP gilt auf allen Strecken der GySEV in Ungarn. Der FIP Freifahrtsschein der GySEV ist jedoch primär für Ungarn gedacht und gilt auf den Strecken der GySEV in Österreich nur eingeschränkt.
+FIP gilt auf allen Strecken der GySEV in Ungarn. Der FIP Freifahrtschein der GySEV ist jedoch primär für Ungarn gedacht und gilt auf den Strecken der GySEV in Österreich nur eingeschränkt.
 {{% /highlight %}}
 
 Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den genannten Abschnitten nutzbar:

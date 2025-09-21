@@ -15,7 +15,7 @@ Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, 
 
 ## Gültigkeit FIP-Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
@@ -126,11 +126,11 @@ Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 6 J
 
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
 
-### Gegenseitige Anerkennung von Freifahrscheinen der SBB und BLS
+### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
-Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrtscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
 
-Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
+Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
@@ -139,7 +139,7 @@ Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankre
 ## Empfehlungen
 
 {{% highlight tip %}}
-Der FIP-Freifahrtsschein lohnt sich für die SBB CFF FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
+Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
 {{% /highlight %}}
 
 ## Quellen

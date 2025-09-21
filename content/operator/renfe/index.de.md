@@ -12,14 +12,14 @@ Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu geh�
 
 ## Zusammenfassung
 
-- FIP Freifahrtsscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
-- Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtsscheine werden nicht benötigt.
+- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
+- Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
 - Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es die gleichen FIP-Gloablpreise wie für inländische.
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
+FIP Freifahrtschein: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
 FIP Globalpreis: ✅ für reservierungspflichtige Züge außer Avlo
@@ -27,14 +27,14 @@ FIP Globalpreis: ✅ für reservierungspflichtige Züge außer Avlo
 ## Zugkategorien und Reservierungen
 
 {{% highlight important %}}
-Nur S-Bahnen sind mit FIP Freifahrtsscheinen uneingeschränkt nutzbar. In anderen Zügen muss in der Regel ein Ticket zum FIP Globalpreis erworben werden.
+Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen Zügen muss in der Regel ein Ticket zum FIP Globalpreis erworben werden.
 {{% /highlight %}}
 
 ### Langstrecke
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtsscheine werden nicht anerkannt.
+Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
 Die internationalen AVE von / nach Frankreich sind zu den gleichen Konditionen wie inländische AVE buchbar, wobei es keine Premium Kategorie gibt. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
 
@@ -56,7 +56,7 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
 
 {{% expander "Euromed ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtsscheine werden nicht anerkannt. \
+Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** \
@@ -67,7 +67,7 @@ Premium: 23,50€
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
+Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** \
@@ -77,7 +77,7 @@ Elige Confort: 10€
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtsscheine werden nicht anerkannt. \
+Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** \
@@ -87,7 +87,7 @@ Elige Confort: 10€
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
+Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€
@@ -97,7 +97,7 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 
 {{% expander "Avant ⚠️" traincategory "middle-distance" %}}
 **Beschreibung:** \
-Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtsscheine werden nicht anerkannt. \
+Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€
@@ -105,7 +105,7 @@ Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtsscheine werden n
 
 {{% expander "MD ⚠️" traincategory "middle-distance" %}}
 **Beschreibung:** \
-Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall. \
+Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja (Außnahme: Route Barcelona(-Girona-Figueres)-Port Bou[^1]) \
 **FIP Globalpreis (Distanzunabhängig):** 4€
@@ -115,7 +115,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Beschreibung:** \
-Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -181,7 +181,7 @@ Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unt
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen Bahngesellschaften zu vergleichen. So sind Gepäckkontrollen bei Fernreisen genauso üblich wie wenige Züge, bei denen spontan mitgefahren werden kann. Ein FIP Freifahrtsschein lohnt sich daher nur sehr bedingt, da er nur in wenigen Fällen Anwendung findet. Durch die Ticketbarrieren in vielen Bahnhöfen muss zudem das Personal jedes Mal aufgesucht werden, um mit dem Freifahrtsschein diese öffnen zu können. Die eigene Erfahrung zeigt hier, dass gerade im Großraum Madrid die Freifahrt hin und wieder nicht bekannt ist und somit der Zugang verweigert wird.
+Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen Bahngesellschaften zu vergleichen. So sind Gepäckkontrollen bei Fernreisen genauso üblich wie wenige Züge, bei denen spontan mitgefahren werden kann. Ein FIP Freifahrtschein lohnt sich daher nur sehr bedingt, da er nur in wenigen Fällen Anwendung findet. Durch die Ticketbarrieren in vielen Bahnhöfen muss zudem das Personal jedes Mal aufgesucht werden, um mit dem Freifahrtschein diese öffnen zu können. Die eigene Erfahrung zeigt hier, dass gerade im Großraum Madrid die Freifahrt hin und wieder nicht bekannt ist und somit der Zugang verweigert wird.
 {{% /highlight %}}
 
 ## Quellen

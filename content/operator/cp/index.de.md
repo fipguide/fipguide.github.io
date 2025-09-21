@@ -16,7 +16,7 @@ Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigst
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅ \
 FIP Globalpreis: ✅ (nur Celta Zug)
@@ -33,7 +33,7 @@ Reservierungen sind nur im Fernverkehr (`AP` und `IC`) verpflichtend.
 **Beschreibung:** \
 Schnelle Neigetechnik-Züge (Pendolino), die auf der Strecke zwischen Braga, Porto, Lissabon und Faro mit wenigen Halten verkehren. Die Züge bieten einen hohen Komfort, Wi-Fi, Steckdosen an jedem Platz sowie einen Cafeteria- und Barservice.
 
-FIP Freifahrtsscheine (egal welcher Klasse) sind nur in der zweiten Klasse gültig. [^1]
+FIP Freifahrtscheine (egal welcher Klasse) sind nur in der zweiten Klasse gültig. [^1]
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
@@ -64,7 +64,7 @@ Regional-Züge mit vielen Halten. \
 
 {{% expander "Comboios Urbanos (U)" traincategory "category" %}}
 **Beschreibung:** \
-Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
 **Lissabon:** \
 Das [Liniennetz](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) umfasst vier Linien:
@@ -78,7 +78,7 @@ Das [Liniennetz](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/l
 Der Zugang zur Sintra-Linie und Cascais-Linie erfolgt über Ticketschranken.
 
 * Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50€ kaufen, um die Ticketschranke passieren zu können.
-* Fahrgäste mit FIP Freifahrtsschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
+* Fahrgäste mit FIP Freifahrtschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
 {{% /highlight %}}
 
 **Porto:** \
@@ -98,7 +98,7 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "category" %}}
 **Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
+Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€

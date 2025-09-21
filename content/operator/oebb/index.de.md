@@ -23,14 +23,14 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ÖBB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 {{% highlight important %}}
-Bei der Fahrt mit FIP Freifahrtsschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am  Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
+Bei der Fahrt mit FIP Freifahrtschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am  Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
 
 Kosten: \
 1\. Klasse: 15€ \
@@ -178,7 +178,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtsschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
+Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
@@ -189,7 +189,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
 
 ### Verkehr nach Italien
 
-Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
+Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
 #### Brenner - Bozen - Verona
 
@@ -249,7 +249,7 @@ FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugt
 
 ### Autoschleuse Tauerntunnel (ASTB)
 
-Mit einem FIP Freifahrschein kann die Autoschleuse Tauerntunnel (Böckstein–Mallnitz-Obervellach) genutzt werden. Das Fahrzeug muss auf einen der mitreisenden FIP Freifahrtschein-Inhaber zugelassen sein, um kostenlos befördert zu werden. Für Mitreisende ohne FIP Freifahrtschein gilt der reguläre Fahrpreis.
+Mit einem FIP Freifahrtschein kann die Autoschleuse Tauerntunnel (Böckstein–Mallnitz-Obervellach) genutzt werden. Das Fahrzeug muss auf einen der mitreisenden FIP Freifahrtschein-Inhaber zugelassen sein, um kostenlos befördert zu werden. Für Mitreisende ohne FIP Freifahrtschein gilt der reguläre Fahrpreis.
 
 FIP 50 Ermäßigungen sind nicht erhältlich.
 
@@ -259,7 +259,7 @@ Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr mö
 
 ### Unterscheidung zwischen Nah- und Fernverkehr
 
-Es findet abgesehen vom Zuschlag zum FIP Freifahrtsschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
+Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
 
 ## Quellen
 

@@ -14,7 +14,7 @@ params:
 
 ## FIP Nutzung
 
-In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahrtsscheine und FIP 50 Tickets erworben werden können:
+In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahrtscheine und FIP 50 Tickets erworben werden können:
 
 - Die staatliche Bahngesellschaft [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") (Schweizerische Bundesbahnen - Chemins de fer fédéraux suisses - Ferrovie federali svizzere FFS), die besonders auf den meisten Hauptstrecken verkehrt
 - Ein Konsortium von Schweizer Privatbahnen (SP)
@@ -50,7 +50,7 @@ Von Deutschland aus gibt es mehrere grenzüberschreitende Verbindungen in die Sc
 - Ebenfalls verkehren vereinzelt `EC` und `ECE` Züge auf der Strecke, die ebenfalls aus Richtung Mannheim kommen.
 - Auch Regionalzüge verkehren aus Deutschland bis Basel.
 
-Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-Freifahrtsscheine der DB noch gültig sind, da dies ein offizieller Grenzbahnhof (Grenpunkt) der DB und SBB ist.
+Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-Freifahrtscheine der DB noch gültig sind, da dies ein offizieller Grenzbahnhof (Grenpunkt) der DB und SBB ist.
 
 {{% highlight tip %}}
 Um ohne Nutzung eines SBB Tickets (z.B. FIP Freifahrtschein oder FIP 50) in die Schweiz einzureisen, kann ab Basel Badischer Bahnhof die S-Bahn Linie 6 mit dem Deutschland-Ticket bis Basel SBB genutzt werden. [^1]

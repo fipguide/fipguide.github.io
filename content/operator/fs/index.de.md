@@ -20,7 +20,7 @@ Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergüns
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅\
+FIP Freifahrtschein: ✅\
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
@@ -192,7 +192,7 @@ Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahren kostenlos. 
 
 ### Verkehr nach Österreich
 
-In internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrtsscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag (wie im restlichen italienischen Fernverkehr) zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
+In internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag (wie im restlichen italienischen Fernverkehr) zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
 #### Brenner – Bozen – Verona
 
