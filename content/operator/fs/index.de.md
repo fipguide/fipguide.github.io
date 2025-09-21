@@ -1,6 +1,7 @@
 ---
 draft: false
 title: 'Trenitalia'
+description: "Informationen über die FIP-Bedingungen bei der Trenitalia (FS)."
 country:
   - 'italy'
 operator: 'trenitalia'

@@ -2,6 +2,7 @@
 draft: false
 title: 'Tschechien'
 country: 'czechia'
+description: "Informationen über die FIP-Bedingungen für Tschechien und für welche Betreiber Vergünstigungen genutzt werden können."
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
