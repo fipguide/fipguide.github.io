@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     document.addEventListener('click', function(event) {
-      if (!button.contains(event.target)) {
+      if (!button.contains(event.target) && !dropdown.contains(event.target)) {
         button.setAttribute('aria-expanded', 'false');
         dropdown.setAttribute('aria-hidden', 'true');
       }
