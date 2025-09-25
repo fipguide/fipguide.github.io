@@ -76,6 +76,10 @@
 
 .o-header__item > .o-dropdown__button {
   font-weight: bold;
+
+  @media (max-width: #{$breakpoint-md}) {
+    flex-direction: row-reverse;
+  }
 }
 
 .o-header__skip-link {
@@ -102,6 +106,10 @@
 
   a {
     font-weight: 400;
+
+    @media (max-width: #{$breakpoint-md}) {
+      flex-direction: row-reverse;
+    }
   }
 
   &--current a {
@@ -109,9 +117,7 @@
     color: var(--link-hovered)
   }
 
-  @media (max-width: #{$breakpoint-md}) {
-    flex-direction: row-reverse;
-  }
+
 }
 
 .o-header__item {
