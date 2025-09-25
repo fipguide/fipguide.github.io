@@ -100,6 +100,15 @@
 .o-dropdown__menu > .o-header__item {
   display: flex;
 
+  a {
+    font-weight: 400;
+  }
+
+  &--current a {
+    font-weight: 700;
+    color: var(--link-hovered)
+  }
+
   @media (max-width: #{$breakpoint-md}) {
     flex-direction: row-reverse;
   }
@@ -157,6 +166,7 @@
 .o-nav__menu-button,
 .o-nav__close-button {
   display: inline-flex;
+  gap: 0.4em;
   padding: 1rem;
   border: none;
   background: none;
@@ -166,6 +176,7 @@
   font-weight: 700;
   height: fit-content;
   text-decoration: none;
+  align-items: center;
 
   &:hover,
   &:focus {
