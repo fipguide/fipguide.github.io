@@ -284,7 +284,8 @@ body:has(.o-header__nav--open) {
 .o-header__item-wrapper {
   @media (min-width: #{$breakpoint-md}) {
     display: flex;
-    gap: 1rem;
+    gap: 0.6rem;
+    padding-left: 0.6rem;
   }
 }
 
