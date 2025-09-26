@@ -16,7 +16,7 @@ Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ⛔ \
+FIP Freifahrtschein: ⛔ \
 FIP 50 Tickets: ⛔ \
 Spezielles "Euskotren FIP Ticket" (für Inhaber & Angehörige): ✅
 

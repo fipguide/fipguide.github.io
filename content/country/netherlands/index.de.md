@@ -16,7 +16,7 @@ params:
 
 ## FIP Nutzung
 
-In den Niederlanden können FIP 50 Tickets und FIP Freifahrtsscheine auf einem großen Teil des Netzes genutzt werden. Die Nederlandse Spoorwegen ([NS]({{< ref "/operator/ns" >}} "NS")) ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.
+In den Niederlanden können FIP 50 Tickets und FIP Freifahrtscheine auf einem großen Teil des Netzes genutzt werden. Die Nederlandse Spoorwegen ([NS]({{< ref "/operator/ns" >}} "NS")) ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.
 
 Zusätzlich verkehren internationale [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge, welche vergünstigt mit speziellen FIP Globalpreisen genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
 
@@ -30,7 +30,7 @@ Der Hauptknotenpunkt des Landes ist nicht etwa Amsterdam, sondern Utrecht. Dort 
 
 International ist die Niederlande gut an die beiden Nachbarn Belgien und Deutschland angebunden, sowohl mit schnellen als auch langsameren Verkehren.
 
-Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfen Ticketschranken befinden. Zu den Gleisen kommt man nur mit einem gültigen Ticket, das einen passenden QR-Code hat. Für die FIP Freifahrtsscheine der NS wird daher ein separater NS-Gate-Pass-Coupon beigefügt. FIP 50 Tickets sollten derweil über einen gültigen QR-Code verfügen oder ebenfalls einen separaten Coupon enthalten. Falls es keine Möglichkeit zum Öffnen der Schranke gibt, kann auch die Hilfe vor Ort an der Schranke angefordert werden.
+Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfen Ticketschranken befinden. Zu den Gleisen kommt man nur mit einem gültigen Ticket, das einen passenden QR-Code hat. Für die FIP Freifahrtscheine der NS wird daher ein separater NS-Gate-Pass-Coupon beigefügt. FIP 50 Tickets sollten derweil über einen gültigen QR-Code verfügen oder ebenfalls einen separaten Coupon enthalten. Falls es keine Möglichkeit zum Öffnen der Schranke gibt, kann auch die Hilfe vor Ort an der Schranke angefordert werden.
 
 ## Anreise und Grenzpunkte
 

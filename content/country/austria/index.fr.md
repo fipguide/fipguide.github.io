@@ -85,7 +85,7 @@ Outre les liaisons régionales, il existe deux itinéraires internationaux entre
 
 Sur ces trajets, les coupons FIP ÖBB sont valables en Italie, mais un supplément est requis côté italien.
 
-Il existe aussi des EuroCity via la Slovénie vers Trieste (`EC` 151/134) : \
+Il existe aussi des EuroCity via la Slovénie vers Trieste (`EC 151/134`) : \
 entre Villa Opicina et Trieste, le coupon FIP ÖBB est valable, mais un petit supplément s’applique.
 
 ### Slovaquie

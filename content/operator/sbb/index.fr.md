@@ -40,7 +40,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 **Réservation obligatoire :** ⚠️ uniquement pour les trajets transfrontaliers
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Description :** \
 Trains internationaux vers l’Allemagne et l’Italie.
 
@@ -110,6 +110,8 @@ Avec les billets FIP 50, il est possible de réserver des trajets continus sur l
 
 {{% booking id="sbb-ticket-machine" /%}}
 
+{{% booking id="db-ticket-office"/%}}
+
 ### À bord du train
 
 Les billets FIP ne peuvent pas être achetés à bord du train. Un supplément est appliqué aux voyageurs sans billet. La seule exception concerne le supplément pour les trains grandes lignes transfrontaliers vers l’Italie.
@@ -132,12 +134,7 @@ Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de 
 
 ### Trains transfrontaliers (Italie, France)
 
-Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \
-Ce supplément (incluant la réservation) est obligatoire, même avec un coupon FIP ou un billet FIP 50.
-- 2ᵉ classe : 11€
-- 1ère classe : 13€
-
-Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
+Pour les trains transfrontaliers `EC` vers l’Italie et `TGV` vers la France, un supplément est requis en dehors de la Suisse en plus du coupon FIP. Ce supplément peut être acheté aux guichets (en Suisse, en France ou en Italie). Sur les trains EC vers l’Italie, il peut également être acheté à bord ou à tarif réduit via la Deutsche Bahn. [Voir Voyage vers l’Italie]({{< ref "/country/switzerland#italie" >}} "Voyage vers l’Italie")
 
 ## Recommandation
 

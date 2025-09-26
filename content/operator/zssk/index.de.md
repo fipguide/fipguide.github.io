@@ -21,7 +21,7 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
