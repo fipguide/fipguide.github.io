@@ -116,8 +116,6 @@
     font-weight: 700;
     color: var(--link-hovered)
   }
-
-
 }
 
 .o-header__item {
@@ -137,12 +135,9 @@
     .o-dropdown__menu {
       box-shadow: none;
       position: static;
-      margin-right: 1rem;
       margin-bottom: 1rem;
-      padding: 0 1rem;
-      border: none;
-      border-right: 0.4rem solid grey;
       border-radius: 0;
+      border: none;
     }
   }
 
@@ -279,6 +274,13 @@
 
     .o-header__item {
       height: fit-content;
+    }
+
+    hr {
+      width: 100vw;
+      margin: 0;
+      margin-right: -1rem;
+      border-top: 1px dotted grey;
     }
   }
 }
