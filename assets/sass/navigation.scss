@@ -45,6 +45,10 @@
   @media (min-width: #{$breakpoint-md}) {
     display: block;
   }
+
+  hr {
+    display: none;
+  }
 }
 
 .o-header__logo {
@@ -74,8 +78,16 @@
   margin: 0;
 }
 
+menu > li > menu {
+  display: flex;
+  flex-direction: row;
+  padding-inline-start: 0;
+
+}
+
 .o-header__item > .o-dropdown__button {
   font-weight: bold;
+  line-height: 1;
 
   @media (max-width: #{$breakpoint-md}) {
     flex-direction: row-reverse;
@@ -106,6 +118,8 @@
 
   a {
     font-weight: 400;
+    white-space: nowrap;
+    min-width: max-content;
 
     @media (max-width: #{$breakpoint-md}) {
       flex-direction: row-reverse;
@@ -175,6 +189,8 @@
   color: var(--color-body);
   font-weight: 700;
   align-items: center;
+  white-space: nowrap;
+  line-height: 1;
 
   &:hover,
   &:focus {
@@ -206,24 +222,6 @@
   }
 }
 
-.o-header__item a {
-  white-space: nowrap;
-}
-
-.o-dropdown__menu .o-header__item a {
-  white-space: nowrap;
-  min-width: max-content;
-}
-
-.o-nav__menu-button > .material-symbols-rounded,
-.o-nav__close-button > .material-symbols-rounded {
-  margin-left: .8rem;
-  align-self: center;
-  text-decoration: none;
-}
-
-
-
 .o-nav__close-button,
 .o-nav__menu-button {
   display: flex;
@@ -231,13 +229,11 @@
   @media (min-width: #{$breakpoint-md}) {
     display: none;
   }
-}
 
-.o-header__expand-button {
-  display: none;
-
-  @media (min-width: #{$breakpoint-md}) {
-    display: flex;
+  > .material-symbols-rounded {
+    margin-left: .8rem;
+    align-self: center;
+    text-decoration: none;
   }
 }
 
@@ -268,33 +264,22 @@
       padding-left: 0;
     }
 
-    > menu > li {
-      margin-bottom: 5rem;
-    }
-
     .o-header__item {
       height: fit-content;
     }
 
     hr {
+      display: block;
       width: 100vw;
       margin: 0;
       margin-right: -1rem;
-      border-top: 1px dotted grey;
+      border-top: 2px dotted grey;
     }
   }
 }
 
 body:has(.o-header__nav--open) {
   overflow: hidden;
-}
-
-.o-header__item-wrapper {
-  @media (min-width: #{$breakpoint-md}) {
-    display: flex;
-    gap: 0.6rem;
-    padding-left: 0.6rem;
-  }
 }
 
 .a-theme-toggle {
