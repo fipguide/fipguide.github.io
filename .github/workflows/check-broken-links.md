@@ -10,6 +10,6 @@ assignees:
 
 Broken Link Checker found broken links on https://fipguide.org
 
-[View Results](https://github.com/fipguide/fipguide.github.io/actions/workflows/check-broken-links.yml)
+[View Results](https://github.com/fipguide/fipguide.github.io/actions/workflows/linkcheck.yaml)
 
 _Use search filter `─BROKEN─` to highlight failures_
