@@ -1,7 +1,9 @@
 ---
 title: Website Contains Broken Links
-labels: 'content'
-assignees: 'lenderom'
+labels:
+  - content
+assignees:
+  - lenderom
 ---
 
 ## Broken Links Detected
