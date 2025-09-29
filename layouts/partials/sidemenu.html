@@ -1,5 +1,12 @@
 <aside id="aside" class="o-aside">
-  <button id="anfasser">Anfasser</button>
+  <div id="anfasser">
+    <button>
+      {{ partial "icon" "keyboard_arrow_up" }}
+    </button>
+    <div style="text-align: center;">
+      Text
+    </div>
+  </div>
     <div class="o-single__container">
         {{ if eq .Page.Type "operator" }}
         <ul>
@@ -56,12 +63,4 @@
             }}
         {{ end }}
     </div>
-    <div class="o-container">
-    <div class="o-aside__collapsed-view">
-      <button id="aside-mobile-toggle">
-        Inhalt öffnen
-        {{ partial "icon" "list" }}
-      </button>
-    </div>
-  </div>
 </aside>
