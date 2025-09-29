@@ -15,7 +15,7 @@ Die [staatliche Bahngesellschaft CP]({{< ref "/operator/cp" >}} "CP") betreibt d
 So ist im Hochgeschwindigkeitsvekehr ist eine Reservierung notwendig und im Ballungsraum Lissabon gibt es teilweise Ticketschranken.
 
 Das private Eisenbahnverkehrsunternehmen Fertagus betreibt die `R`-Linie zwischen Lissabon Roma-Areeiro und Setúbal. Diese Strecke ist leider nicht mit FIP nutzbar.
-In der [Verbindungsauskunft der CP](https://www.cp.pt/passageiros/en) erscheinen die Züge von Fertagus nicht, bei Google Maps sind sie über die Linienbezeichnung `Setúbal` erkennbar.
+In der [Verbindungsauskunft der CP](https://www.cp.pt/en) erscheinen die Züge von Fertagus nicht, bei Google Maps sind sie über die Linienbezeichnung `Setúbal` erkennbar.
 
 ## Wissenswertes
 
