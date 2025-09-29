@@ -1,7 +1,7 @@
 {{ define "main" }}
   <article class="o-single o-single--with-sidemenu">
     <aside id="aside" class="o-aside">
-      {{ partial "image" (partial "helper/contentImage" . ) }}
+      {{ partial "image" (partial "helper/contentImage" .) }}
       <div class="o-single__container">
         <h3 id="o-related__title">{{ T "news-other" }}</h3>
         <ul class="o-related__list" aria-labelledby="o-related__title">
@@ -11,7 +11,7 @@
               {{ partial "internal_link"
                 (dict
                 "Destination" .RelPermalink
-                "Text" ((print (partial "icon" "newspaper" ) (.Title)) | .Page.RenderString)
+                "Text" ((print (partial "icon" "newspaper") (.Title)) | .Page.RenderString)
                 )
               }}
               {{ if eq .Page.Type "news" }}
@@ -28,7 +28,7 @@
         {{ partial "link"
           (dict
           "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-          "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+          "Text" ((print (partial "icon" "edit_square") (T "editPage")) | .Page.RenderString)
           )
         }}
       </div>
@@ -39,7 +39,7 @@
         {{ partial "updateDate.html" . }}
       </div>
       <div class="o-single__news-image">
-        {{ partial "image" (partial "helper/contentImage" . ) }}
+        {{ partial "image" (partial "helper/contentImage" .) }}
       </div>
       <div data-pagefind-body>
         {{ .Content }}

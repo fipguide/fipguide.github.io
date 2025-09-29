@@ -1,7 +1,7 @@
-{{ $image := resources.Get (printf "images/flags/%s.webp" .country) }}
+{{- $image := resources.Get (printf "images/flags/%s.webp" .country) -}}
 <img
   class="a-flag"
   src="{{ $image.RelPermalink }}"
   alt=""
-  {{ if .pagefind }}data-pagefind-meta="image[src]"{{ end }}
+  {{- if .pagefind -}}data-pagefind-meta="image[src]"{{- end -}}
 />

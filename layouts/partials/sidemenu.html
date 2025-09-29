@@ -26,7 +26,7 @@
 
 
     <h3 id="toc">{{ .Title }}</h3>
-    {{ partial "toc" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
+    {{ partial "toc" (dict "context" . "startLevel" 2 "endLevel" 3) }}
 
     {{ if eq .Page.Type "country" }}
       {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "_operator__list_title") "page" . "identifier" "operators") }}
@@ -40,7 +40,7 @@
     {{ partial "link"
       (dict
       "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-      "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+      "Text" ((print (partial "icon" "edit_square") (T "editPage")) | .Page.RenderString)
       )
     }}
     {{ if eq .Page.Type "operator" }}
@@ -48,7 +48,7 @@
       {{ partial "link"
         (dict
         "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
-        "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+        "Text" ((print (partial "icon" "bug_report") (T "reportError")) | .Page.RenderString)
         )
       }}
     {{ end }}
@@ -57,7 +57,7 @@
       {{ partial "link"
         (dict
         "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
-        "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+        "Text" ((print (partial "icon" "bug_report") (T "reportError")) | .Page.RenderString)
         )
       }}
     {{ end }}
