@@ -1,23 +1,25 @@
-name: Auto Comment on PR
-
-on:
-  pull_request:
-
+name: auto comment
+on: [pull_request]
 jobs:
-  auto-comment:
+  comment:
     runs-on: ubuntu-latest
     steps:
-    - name: Check PR Changes
-      id: pr-changes
-      run: echo "::set-output name=changes::${{ toJson(github.event.pull_request.changed_files) }}"
+      - uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `👋 @${{ context.payload.pull_request.user.login }}
+              Thank you for raising your pull request.
 
-    - name: Create Comment
-      if: steps.pr-changes.outputs.changes != '[]'
-      run: |
-        # Use GitHub API to create a comment on the PR
-        PR_NUMBER=${{ github.event.pull_request.number }}
-        COMMENT="# Checklist before merging\n\n- [ ] Add description to the Pull Request\n- [ ] Check the License of new pictures (non-commercial use without attribution)\n- [ ] Modify content in English\n- [ ] Modify content in German\n- [ ] Modify content in French"
-        GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}
-        COMMENT_URL="https://api.github.com/repos/${{ github.repository }}/issues/${PR_NUMBER}/comments"
+              # Checklist before merging
 
-        curl -s -H "Authorization: token ${GITHUB_TOKEN}" -X POST $COMMENT_URL -d "{\"body\":\"$COMMENT\"}"
+              - [ ] Add description to the Pull Request
+              - [ ] Check the License of new pictures (non-commercial use without attribution)
+              - [ ] Modify content in English
+              - [ ] Modify content in German
+              - [ ] Modify content in French`
+            })
