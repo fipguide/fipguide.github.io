@@ -11,7 +11,7 @@ params:
     fip_50: true # Indique si les billets FIP 50 peuvent être réservés via cette plateforme
     fip_global_fare: false # Indique si les billets FIP Global Fare peuvent être réservés via cette plateforme
     reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-    additional_info_link: "https://www.cp.pt/passageiros/en/buy-tickets/Sales-points/ticket-offices" # Ajoutez un lien vers des informations supplémentaires
+    additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices" # Ajoutez un lien vers des informations supplémentaires
     type: "onsite" # Types acceptés : website, onsite, phone, email et machine
 ---
 

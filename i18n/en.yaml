@@ -16,7 +16,10 @@ booking:
 chapter-heading: Current chapter
 countries:
   overview: Countries with FIP acceptance
-  selection: choose country
+  selection:
+    aria-label: Select a country
+    dropdown-label: Available countries
+    title: Countries
   without-fip: Countries without FIP acceptance
 country:
   many: countries
@@ -53,6 +56,11 @@ menu-open: Menu
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
+operators:
+  selection:
+    aria-label: Select an operator
+    dropdown-label: Available operators
+    title: Operators
 operators_without_fip: Operators without FIP
 related:
   countries: Related Countries

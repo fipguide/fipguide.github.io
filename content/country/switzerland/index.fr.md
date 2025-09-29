@@ -56,7 +56,7 @@ Le coupon FIP DB est valable jusqu'à Bâle Badischer Bahnhof (Bad Bf), considé
 Pour entrer en Suisse sans billet CFF (Coupon FIP ou FIP 50), vous pouvez prendre la S-Bahn ligne 6 entre Bâle Bad Bf et Bâle SBB avec un Deutschlandticket. [^1]
 {{% /highlight %}}
 
-Parmi les autres liaisons importantes, on trouve la ligne Stuttgart – Zurich via Schaffhouse (gare frontière CFF/DB) ainsi que la liaison Munich – Zurich via Lindau et St-Gall, desservie par des trains `IC` et `ECE`. Sur ce dernier trajet, le train passe brièvement par l’Autriche, un billet ÖBB est requis.
+D’autres liaisons transfrontalières importantes incluent les itinéraires Stuttgart – Zurich via Schaffhouse (gare frontière commune des CFF et DB), ainsi que Munich – Zurich via Lindau, St. Margrethen et Saint-Gall, desservis par des trains `IC` et `ECE`. Lors d’un trajet depuis Lindau vers Saint-Gall via St. Margrethen, la ligne traverse brièvement l’Autriche. Un billet ÖBB est donc nécessaire pour ce tronçon.
 
 {{% highlight tip %}}
 Pour ce court tronçon, un billet FIP 50 évite le paiement du [supplément longue distance ÖBB]({{< ref "/country/austria#suisse" >}} "Arrivée en Suisse").
@@ -85,14 +85,16 @@ Pour le trajet Milan – Côme – Suisse, il peut être avantageux d’utiliser
 
 ### Liechtenstein
 
-Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent principalement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB"). Jusqu’au point frontière de Buchs, les billets FIP 50 et les coupons de libre circulation ÖBB sont donc valables.
+Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces trains S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les Chemins de fer fédéraux autrichiens [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Ainsi, les Coupons FIP ÖBB et les Billets FIP 50 sont valables jusqu’au point frontière de Buchs SG en Suisse.
 
-Sinon, le trafic frontalier est principalement assuré par des bus, où les billets FIP ne sont pas acceptés.
+Sinon, le trafic transfrontalier est principalement assuré par des bus, pour lesquels les Billets FIP ne sont pas valables.
 
 ### Autriche
 
-L’Autriche et la Suisse ne possèdent qu’un véritable point frontière ferroviaire, situé à St. Margrethen. Ce point est principalement desservi par des trains régionaux, mais aussi par des EuroCity qui, côté autrichien, ne marquent arrêt qu’à Bregenz et proviennent généralement d’Allemagne (Munich). Un autre point frontière, moins conventionnel, se trouve à Buchs. Il s’agit en réalité du passage vers le Liechtenstein, mais les [billets FIP de l’ÖBB]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB") y sont également valables. Il est donc possible d’utiliser, par exemple, des coupons FIP de l’ÖBB et des CFF pour voyager sans interruption entre l’Autriche et la Suisse. La principale ligne entre ces deux pays passe par Buchs, où circulent notamment des trains Railjet autrichiens et des EuroCity reliant Vienne / Graz à Zurich, ainsi que des trains régionaux.
+L’Autriche et la Suisse ne possèdent qu’un seul point frontière principal, à St. Margrethen. Ce sont principalement des trains régionaux qui y circulent, mais il existe aussi des trains Eurocity, qui en Autriche ne s’arrêtent qu’à Bregenz et proviennent généralement d’Allemagne (Munich).
+
+L’entrée depuis l’Autriche est également possible via le point frontière de Buchs SG en passant par le Liechtenstein. Au Liechtenstein, les [Billets FIP ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") sont valables. Il est donc possible d’obtenir un billet continu entre l’Autriche et la Suisse en utilisant les Coupons FIP d’ÖBB et des CFF. L’itinéraire principal entre les deux pays passe par cette voie, avec des trains Railjet autrichiens et des Eurocity circulant entre Vienne / Graz et Zurich, ainsi que des trains régionaux.
 
 ## Sources
 
-[^1]: [SBB – validité du Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+[^1]: [CFF – validité du Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)

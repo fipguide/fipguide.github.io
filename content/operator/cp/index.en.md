@@ -23,7 +23,7 @@ FIP Global Fare: ✅ (Celta train only)
 
 FIP Coupons and FIP 50 tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
 
-[Overview of the CP network](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
+[Overview of the CP network](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
 ## Train Categories and Reservations
 
@@ -67,7 +67,7 @@ Regional trains with many stops. \
 Commuter trains serving the urban networks of Lisbon, Porto and Coimbra (similar to S‑trains). FIP Coupons are valid without restrictions.
 
 **Lisbon:** \
-The [network](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) includes four lines:
+The [network](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) includes four lines:
 * Sintra Line
 * Azambuja Line
 * Cascais Line
@@ -81,7 +81,7 @@ Access to the Sintra Line and Cascais Line is via ticket gates.
 {{% /highlight %}}
 
 **Porto:** \
-The [network](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) includes five lines:
+The [network](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) includes five lines:
 * Aveiro Line
 * Braga Line
 * Marco de Canaveses Line

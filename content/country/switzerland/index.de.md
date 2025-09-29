@@ -56,7 +56,7 @@ Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-
 Um ohne Nutzung eines SBB Tickets (z.B. FIP Freifahrtschein oder FIP 50) in die Schweiz einzureisen, kann ab Basel Badischer Bahnhof die S-Bahn Linie 6 mit dem Deutschland-Ticket bis Basel SBB genutzt werden. [^1]
 {{% /highlight %}}
 
-Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart - Zürich über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie München - Zürich über Lindau und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen füht die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
+Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart - Zürich über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie München - Zürich über Lindau, St. Margrethen und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen über St. Margrethen führt die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
 
 {{% highlight tip %}}
 Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theoretisch der [ÖBB Fernverkehrsaufschlag]({{< ref "/country/austria#schweiz" >}} "Anreise Schweiz" ) gezahlt werden muss.
@@ -85,13 +85,15 @@ Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand
 
 ### Liechtenstein
 
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und wird von den Österrischen Bundensbahnen [(ÖBB)]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs in der Schweiz auch Freifahrten und FIP 50 Tickets der ÖBB.
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den Österrischen Bundesbahnen [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
 
 Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
 ### Österreich
 
-Österreich und die Schweiz haben nur einen richtigen Grenzübergang, nämlich in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren. Ein nicht ganz so richtiger Grenzübergang befindet sich jedoch auch bei Buchs. Hier ist eigentlich der Grenzübergang zu Liechtenstein, allerdings gelten in dem Land noch [FIP-Tickets der ÖBB]({{< ref "/operator/oebb#lichtenstein" >}} "ÖBB"). Es ist somit möglich mit beispielsweise FIP-Freifahrttsscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
+Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
+
+Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
 ## Quellen
 

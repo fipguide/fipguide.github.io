@@ -17,4 +17,14 @@ The Liechtenstein stations Nendeln, Forst Hilti (Schaan) and Schaan-Vaduz (Schaa
 
 ## Arrival and Border Points
 
-Information about arrival and border points can be found on the [country page for Austria]({{% ref "/country/austria" %}} "Austria").
+### Austria
+
+Entry from Austria is possible via the border crossing at Feldkirch with rarely running S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid.
+
+Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
+
+### Switzerland
+
+Entry from Switzerland is possible via the border crossing at Buchs SG with a few S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid. Therefore, from the border point Buchs SG in Switzerland, ÖBB FIP Coupons and FIP 50 Tickets are also valid here.
+
+Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
