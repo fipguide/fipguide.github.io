@@ -64,6 +64,16 @@
       width: 80vw;
     }
 
+    div {
+      display: flex;
+      align-self: center;
+      gap: 0.5rem;
+
+      div {
+        font-weight: 700;
+      }
+    }
+
     @media (max-width: #{$breakpoint-lg}) {
       display: flex;
       align-self: center;

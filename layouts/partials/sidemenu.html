@@ -3,8 +3,13 @@
     <button>
       {{ partial "icon" "keyboard_arrow_up" }}
     </button>
-    <div style="text-align: center;">
-      Text
+    <div>
+      {{ if eq .Page.Type "country" }}
+        {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
+      {{ else if eq .Page.Type "operator" }}
+        {{ partial "operator-logo" (dict "operator" .File.ContentBaseName "pagefind" true)}}
+      {{ end }}
+      <div data-pagefind-meta="title">{{ .Page.Title }}</div>
     </div>
   </div>
     <div class="o-single__container">
