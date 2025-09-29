@@ -23,7 +23,7 @@ FIP Globalpreis: ✅ (nur Celta Zug)
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CP gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-[Übersicht des CP-Liniennetzes](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
+[Übersicht des CP-Liniennetzes](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
 ## Zugkategorien und Reservierungen
 
@@ -67,7 +67,7 @@ Regional-Züge mit vielen Halten. \
 Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
 
 **Lissabon:** \
-Das [Liniennetz](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) umfasst vier Linien:
+Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) umfasst vier Linien:
 * Sintra-Linie
 * Azambuja-Linie
 * Cascais-Linie
@@ -82,7 +82,7 @@ Der Zugang zur Sintra-Linie und Cascais-Linie erfolgt über Ticketschranken.
 {{% /highlight %}}
 
 **Porto:** \
-Das [Liniennetz](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) umfasst fünf Linien:
+Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) umfasst fünf Linien:
 * Aveiro-Linie
 * Braga-Linie
 * Marco de Canaveses-Linie

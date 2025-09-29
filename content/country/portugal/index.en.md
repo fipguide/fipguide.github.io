@@ -12,7 +12,7 @@ params:
 
 In Portugal, FIP 50 tickets and FIP Coupons can be used on the majority of the rail network. The [state railway company CP]({{< ref "/operator/cp" >}} "CP") operates most lines in Portugal — FIP is generally well usable here, with a few caveats. High-speed services require a reservation and in the Lisbon urban area there are ticket barriers at some stations.
 
-The private operator Fertagus runs the `R` line between Lisbon Roma-Areeiro and Setúbal. This route is unfortunately not valid with FIP. In the [CP journey planner](https://www.cp.pt/passageiros/en) Fertagus trains do not appear; on Google Maps they are visible under the line name `Setúbal`.
+The private operator Fertagus runs the `R` line between Lisbon Roma-Areeiro and Setúbal. This route is unfortunately not valid with FIP. In the [CP journey planner](https://www.cp.pt/en) Fertagus trains do not appear; on Google Maps they are visible under the line name `Setúbal`.
 
 ## Interesting
 
