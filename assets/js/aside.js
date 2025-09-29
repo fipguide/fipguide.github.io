@@ -6,7 +6,7 @@ function isMobile() {
 
 function initAside() {
 
-  const expandButton = document.getElementById('aside-mobile-toggle');
+  const expandButton = document.getElementById('anfasser');
 
   if (expandButton) {
     expandButton.addEventListener('click', () => {
@@ -26,7 +26,7 @@ function initAside() {
 }
 
 function toggleAside() {
-  const aside = document.querySelector('.o-aside');
+  const aside = document.getElementById('aside');
   const overlay = document.getElementById('overlay');
 
   aside.classList.toggle("o-aside--mobile-open");

@@ -4,6 +4,8 @@ function resizeObserver() {
   const navContainer = document.querySelector('.o-header__nav');
   const menuButton = document.querySelector('.o-nav__menu-button');
   const countryContainer = document.querySelector('.o-header__item-countries');
+  const overlay = document.getElementById('overlay');
+  const aside = document.getElementById('aside');
 
   window.addEventListener("resize", () => {
 
@@ -11,6 +13,8 @@ function resizeObserver() {
     if (window.matchMedia(mq.minMD).matches) {
       navContainer.classList.remove("o-header__nav--open");
       menuButton.setAttribute('aria-expanded', false);
+      overlay.classList.remove("overlay--show");
+      aside.classList.remove("o-aside--mobile-open");
     }
 
     //close country selector on viewports < md

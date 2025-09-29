@@ -26,15 +26,15 @@
 
     @media (max-width: #{$breakpoint-lg}) {
       position: fixed;
-      bottom: -240px;
       left: 0;
-      top: unset;
+      bottom: unset;
+      top: 95vh;
       width: 100vw;
       margin-bottom: 0;
       box-shadow: 0 -.4rem 1rem 0 rgba(0,0,0,.1);
       background: white;
       border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-      transition: bottom 1s 0.2s;
+      transition: bottom 1s 0.2s, top 1s 0.2s;
 
       &:before {
         content: '';
@@ -49,6 +49,7 @@
       }
 
       &--mobile-open {
+        top: unset;
         bottom: 0;
       }
     }
@@ -62,6 +63,20 @@
             margin-bottom: 0;
         }
     }
+
+  .o-single__container {
+    overscroll-behavior: contain;
+    overflow: scroll;
+    max-height: 70vh;
+  }
+
+  #anfasser {
+    display: none;
+
+    @media (max-width: #{$breakpoint-lg}) {
+      display: flex;
+    }
+  }
 }
 
 .overlay--show {
