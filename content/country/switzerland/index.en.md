@@ -85,7 +85,7 @@ On the Milan - Como - Switzerland route, it may be worthwhile to travel between 
 
 ### Liechtenstein
 
-Liechtenstein and Switzerland are connected by only a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the Austrian Federal Railways [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are valid up to the border point Buchs SG in Switzerland.
+Liechtenstein and Switzerland are connected by only rarely running trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the Austrian Federal Railways [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are valid up to the border point Buchs SG in Switzerland.
 
 Otherwise, cross-border traffic is mainly handled by buses, where FIP Tickets are not valid.
 

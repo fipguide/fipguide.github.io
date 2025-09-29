@@ -19,7 +19,7 @@ The Liechtenstein stations Nendeln, Forst Hilti (Schaan) and Schaan-Vaduz (Schaa
 
 ### Austria
 
-Entry from Austria is possible via the border crossing at Feldkirch with a few S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid.
+Entry from Austria is possible via the border crossing at Feldkirch with rarely running S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid.
 
 Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
 

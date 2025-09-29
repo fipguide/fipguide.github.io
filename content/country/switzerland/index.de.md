@@ -85,7 +85,7 @@ Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand
 
 ### Liechtenstein
 
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den Österrischen Bundensbahnen [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrten und FIP 50 Tickets der ÖBB.
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den Österrischen Bundesbahnen [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
 
 Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
@@ -93,7 +93,7 @@ Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei d
 
 Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
 
-Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Es ist somit möglich mit FIP-Freifahrttsscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
+Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Es ist somit möglich mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
 ## Quellen
 
