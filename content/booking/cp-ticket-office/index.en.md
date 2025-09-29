@@ -11,7 +11,7 @@ params:
     fip_50: true # Define if FIP 50 tickets can be booked with this booking platform
     fip_global_fare: false # Define if FIP Global Fare tickets can be booked with this booking platform
     reservations: true # Define if reservations can be booked with this booking platform
-    additional_info_link: "https://www.cp.pt/passageiros/en/buy-tickets/Sales-points/ticket-offices" # Add a link with additional information
+    additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices" # Add a link with additional information
     type: "onsite" # Accepted types are: website, onsite, phone, email and machine
 ---
 
