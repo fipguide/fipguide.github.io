@@ -1,5 +1,5 @@
 <aside id="aside" class="o-aside">
-    <div class="o-single__container o-aside__full-view">
+    <div class="o-single__container">
         {{ if eq .Page.Type "operator" }}
         <ul>
             {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
@@ -57,10 +57,6 @@
     </div>
     <div class="o-container">
     <div class="o-aside__collapsed-view">
-      <div class="o-aside__current-chapter">
-        <span>{{ T "chapter-heading" }}:</span>
-        <span id="mobileTocHeading">{{ .Title }}</span>
-      </div>
       <button id="aside-mobile-toggle">
         Inhalt öffnen
         {{ partial "icon" "list" }}

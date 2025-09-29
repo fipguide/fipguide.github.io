@@ -26,12 +26,10 @@ function initAside() {
 }
 
 function toggleAside() {
-  const asideFullView = document.querySelector('.o-aside__full-view');
-  const asideCollapsedView = document.querySelector('.o-aside__collapsed-view');
+  const aside = document.querySelector('.o-aside');
   const overlay = document.getElementById('overlay');
 
-  asideFullView.classList.toggle("o-aside__full-view--open");
-  asideCollapsedView.classList.toggle("o-aside__collapsed-view--hide");
+  aside.classList.toggle("o-aside--mobile-open");
   overlay.classList.toggle("overlay--show");
 }
 

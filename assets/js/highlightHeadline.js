@@ -1,6 +1,5 @@
 function initHighlightHeadline() {
     const headings = Array.from(document.querySelectorAll('.o-single__highlight :is(h1, h2, h3)'));
-    const mobileTocHeading = document.getElementById('mobileTocHeading');
     const windowPath = window.location.pathname;
     if (headings.length === 0) {
         return;
@@ -31,7 +30,6 @@ function initHighlightHeadline() {
             if (tocLink) {
                 if (heading === currentHeading) {
                     markTocItemActive(tocLink);
-                    mobileTocHeading.innerText = tocLink.textContent;
                 } else {
                     markTocItemInactive(tocLink);
                 }
