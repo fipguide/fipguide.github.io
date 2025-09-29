@@ -19,13 +19,13 @@ aliases:
 En Slovaquie, il existe un large réseau de guichets, même dans les petites gares. Il est recommandé de parler un peu slovaque ou tchèque, ou d’utiliser une application de traduction adaptée, car l’anglais est rarement parlé.
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets FIP 50 pour les trajets intérieurs peuvent être achetés aux guichets de la ZSSK.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Les réservations peuvent être effectuées pour toutes les liaisons nationales aux guichets de la ZSSK.
 {{% /booking-section %}}

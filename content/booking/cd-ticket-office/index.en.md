@@ -13,14 +13,14 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Ticket**
+## FIP 50 Tickets
 
 At ČD ticket offices, FIP 50 Tickets can be purchased for travel within Czechia and to other European countries.
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations**
+## Reservations
 
 České dráhy sells reservations at its ticket offices for Czechia and some other European countries. It is also possible to reserve specific seats.
 

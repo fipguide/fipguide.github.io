@@ -14,13 +14,13 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets FIP 50 pour les trajets intérieurs et transfrontaliers peuvent être achetés au guichet de la SNCB.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Comme les réservations pour les trains ne peuvent pas être effectuées en Belgique, la SNCB ne vend que des réservations internationales, par exemple pour l’ICE Bruxelles – Francfort.
 {{% /booking-section %}}

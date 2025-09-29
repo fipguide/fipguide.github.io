@@ -15,7 +15,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 PKP vend des billets en ligne avec une réduction FIP 50. Lors de la recherche de connexion, l'option "50% MKZ-FIP" doit être sélectionnée comme réduction pour la personne concernée.
 
@@ -25,7 +25,7 @@ Les billets avec réduction FIP 50 ne peuvent être vendus que pour les connexio
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Le site web PKP vend des réservations pour les trains PKP nationaux et transfrontaliers. Lors de la recherche de connexion, l'option "Buy a reservation for your ticket" ou "Kup rezerwację do biletu" doit être sélectionnée :
 

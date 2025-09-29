@@ -15,7 +15,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 PKP sells tickets online with FIP 50 discount. During the connection search, the option "50% MKZ-FIP" must be selected as a discount for the respective person.
 
@@ -25,7 +25,7 @@ Tickets with FIP 50 discount can only be sold for PKP connections within Poland.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations**
+## Reservations
 
 The PKP website sells reservations for national and cross-border PKP trains. During the connection search, the option "Buy a reservation for your ticket" or "Kup rezerwację do biletu" must be selected:
 

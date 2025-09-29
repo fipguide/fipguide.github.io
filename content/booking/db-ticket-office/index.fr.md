@@ -17,7 +17,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Aux guichets DB, il est possible d’acheter des billets FIP 50 pour des voyages en Allemagne et vers de nombreux pays européens.
 
@@ -25,7 +25,7 @@ Il est également possible d’émettre des billets FIP 50 ne couvrant que la pa
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Le tarif de réservation est calculé par trajet. Cela signifie que pour une correspondance impliquant plusieurs trains, une seule réservation suffit.
 

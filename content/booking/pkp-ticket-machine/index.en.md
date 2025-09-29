@@ -12,7 +12,7 @@ params:
 In larger cities, there are sometimes PKP ticket machines.
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 Discounted FIP 50 tickets can be purchased at the ticket machines. The discount "50% UMOWA-FIP-MKZ" may be used for this purpose.
 {{% /booking-section %}}

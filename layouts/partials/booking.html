@@ -37,7 +37,7 @@
 <div class="o-expander__content">
 {{- if .info -}}
 <div class="o-booking__info">
-    {{- .info | .original_page.RenderString  -}}
+    {{- .info | .original_page.RenderString -}}
 </div>
 {{- end -}}
 {{- $contentClasses := slice "o-single__content o-booking__section" -}}
@@ -51,7 +51,10 @@
   {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
 {{- end -}}
 <div class="{{ delimit $contentClasses ' ' }}">
-    {{- partial "prefix-footnotes" (dict "content" .page.Content "prefix" .page.File.ContentBaseName) | safeHTML -}}
+    {{- $content := partial "increase-headings" (dict "content" .page.Content "offset" 2) -}}
+    {{- $content := partial "prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
+    {{- $content := partial "prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
+    {{- $content | safeHTML -}}
 </div>
 
 {{ partial "booking-links" .page }}

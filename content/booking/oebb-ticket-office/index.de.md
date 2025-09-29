@@ -18,7 +18,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 In ÖBB Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Österreichs und in viele europäische Länder erworben werden.
 
@@ -27,7 +27,7 @@ Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn") zu reservieren.
 

@@ -12,7 +12,7 @@ params:
 In größeren Städten gibt es teilweise PKP Fahrkartenautomaten.
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 An den Fahrkartenautomaten können ermäßigte FIP 50 Fahrkarten erworben werden. Dafür darf der Rabatt "50% UMOWA-FIP-MKZ" genutzt werden.
 {{% /booking-section %}}

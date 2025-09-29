@@ -18,7 +18,7 @@ aliases:
 ---
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Le tarif de réservation est facturé par train. Pour les trajets comportant plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").
 

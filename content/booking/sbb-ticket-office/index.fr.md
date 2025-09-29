@@ -17,13 +17,13 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets FIP 50 pour des trajets en Suisse ainsi que vers de nombreux pays européens peuvent être achetés aux guichets des CFF.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Des réservations peuvent être effectuées pour la Suisse ainsi que pour la plupart des trains en Europe.
 {{% /booking-section %}}

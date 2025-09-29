@@ -14,7 +14,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets (y compris les billets FIP 50) sont moins chers s’ils sont achetés à l’avance (1 jour ou 15 jours avant le départ).
 

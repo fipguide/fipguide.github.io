@@ -17,14 +17,14 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 FIP 50 tickets for travel within Switzerland and to many European countries can be purchased at SBB ticket offices.
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations**
+## Reservations
 
 Reservations can be made for Switzerland as well as for most trains throughout Europe.
 

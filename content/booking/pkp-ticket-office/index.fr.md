@@ -16,13 +16,13 @@ params:
 PKP exploite un vaste réseau de guichets même dans les petites gares. Linguistiquement, il est avantageux de parler un peu polonais ou d'avoir une application de traduction appropriée, car l'anglais (ou le français) n'est souvent pas très répandu.
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets FIP 50 pour les voyages nationaux et transfrontaliers peuvent être achetés aux guichets PKP.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Les réservations peuvent être achetées pour toutes les connexions nationales et transfrontalières aux guichets PKP.
 {{% /booking-section %}}

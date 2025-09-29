@@ -16,7 +16,7 @@ params:
 FIP 50 Tickets können **nicht** über die ČD-App gekauft werden, da die in der App angebotenen 50%-Rabatte nicht aus FIP-Kontingenten stammen.
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Die České dráhy verkauft auf ihrer Website Reservierungen für Tschechien und einige andere europäische Länder. Dabei können auch Reservierungen von bestimmten Sitzplätzen vorgenommen werden.
 

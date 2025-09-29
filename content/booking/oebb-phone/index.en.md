@@ -25,7 +25,7 @@ A credit card and email address are required for booking.
 ÖBB does not charge any additional fees for the booking process.
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 FIP 50 tickets can be purchased for travel within Austria and many European countries.
 
@@ -34,7 +34,7 @@ Tickets are cheaper if purchased in advance (1 day before travel or 15 days befo
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations**
+## Reservations
 
 The reservation price is charged per train. For journeys with multiple trains, it may be cheaper to book via the ([Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
 

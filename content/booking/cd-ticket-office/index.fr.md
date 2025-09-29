@@ -13,14 +13,14 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billet FIP 50**
+## Billets FIP 50
 
 Aux guichets ČD, il est possible d'acheter des billets FIP 50 pour voyager en Tchéquie et vers d'autres pays européens.
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Les guichets České dráhy proposent des réservations pour la Tchéquie et certains autres pays européens. Il est également possible de réserver des places spécifiques.
 

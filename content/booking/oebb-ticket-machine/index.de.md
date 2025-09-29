@@ -14,7 +14,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 Fahrkarten (inkl. FIP 50 Tickets) sind sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).
 
