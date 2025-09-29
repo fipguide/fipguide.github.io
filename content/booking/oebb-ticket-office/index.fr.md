@@ -18,7 +18,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Aux guichets ÖBB, il est possible d’acheter des billets FIP 50 pour des trajets en Autriche ainsi que vers de nombreux pays européens.
 
@@ -26,7 +26,7 @@ Les billets (y compris les billets FIP 50) sont moins chers s’ils sont acheté
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Le tarif de réservation est facturé par train. Pour des trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").
 

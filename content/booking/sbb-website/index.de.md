@@ -18,7 +18,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 Auf der Website der SBB dürfen für FIP 50 Tickets mit "50% Halbtax" Rabatt gekauft werden, sofern es sich nicht um ein Sparbillett, eine Spar-Tageskarte oder ein spezielles Billett handelt.[^1] Diese Option ist eigentlich für Fahrgäste mit Halbtax-Abo (Vergünstigungskarte der SBB) gedacht, wird aber auch als unkomplizierte Lösung für FIP 50 Fahrkarten akzeptiert. Der Halbtaxpreis ist in der Regel auf der Website der SBB standardmäßig vorausgewählt.
 
@@ -29,7 +29,7 @@ Unter anderem in städtischen Gebieten kann eine Fahrkarte mit Halbtax Rabatt au
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Einzelne nationale Reservierungen können bei der SBB online erworben werden. Dazu muss die Verbindung über die normale Verbindungsauskunft gesucht werden. Anschließend ist die gewünschte Verbindung auszusuchen ("Billet wählen") und dann kann die Zusatzoption "Nur Sitzplatzreservierung" gewählt werden.
 

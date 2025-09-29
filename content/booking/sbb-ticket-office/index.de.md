@@ -17,14 +17,14 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweitz und in viele europäischen Länder erworben werden.
 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Reservierungen können für die Schweiz, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
 

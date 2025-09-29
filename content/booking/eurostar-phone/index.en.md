@@ -12,7 +12,7 @@ aliases:
   - eurostar_phone
 ---
 
-**FIP Global Fare**
+## FIP Global Fare
 
 FIP Global Fare tickets can be purchased via the Eurostar hotline:
 

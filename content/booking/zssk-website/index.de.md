@@ -17,7 +17,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 Im Kaufprozess kann als Rabatt "FIP Ticket 50%" ausgewählt werden.
 {{% /booking-section %}}

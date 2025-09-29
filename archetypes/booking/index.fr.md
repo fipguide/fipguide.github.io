@@ -17,7 +17,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 <!--
     Expliquez les étapes pour réserver des billets FIP 50 via cette plateforme de réservation.
@@ -25,7 +25,7 @@ params:
 {{% /booking-section %}}
 
 {{% booking-section "fip_global_fare" %}}
-**Tarif Global FIP**
+## Tarif Global FIP
 
 <!--
     Expliquez les étapes pour réserver des billets au tarif global FIP via cette plateforme de réservation.
@@ -33,7 +33,7 @@ params:
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 <!--
     Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.

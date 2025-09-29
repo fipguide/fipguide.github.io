@@ -11,7 +11,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Sur le site web Koleo, des billets avec réduction FIP 50 peuvent être achetés en ligne pour de nombreuses compagnies ferroviaires en Pologne. Pour cela, FIP 50 doit être ajouté une fois comme réduction dans le compte client Koleo [ici](https://koleo.pl/de/my/account).
 

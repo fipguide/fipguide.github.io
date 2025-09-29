@@ -14,7 +14,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »). En date de décembre 2023, ces gares sont :
 
@@ -39,7 +39,7 @@ Les billets FIP 50 peuvent uniquement être achetés dans les gares disposant de
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des réservations internationales dans les gares avec guichet complet (« light »).
 {{% /booking-section %}}

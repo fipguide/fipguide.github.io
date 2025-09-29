@@ -12,7 +12,7 @@ aliases:
   - eurostar_phone
 ---
 
-**Tarif Global FIP**
+## Tarif Global FIP
 
 Les billets au Tarif Global FIP peuvent être achetés via la hotline Eurostar :
 

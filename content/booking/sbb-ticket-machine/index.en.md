@@ -13,7 +13,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 At SBB ticket machines, FIP 50 tickets can be purchased with the "50% Halbtax" discount, provided it is not a saver ticket, saver day pass, or a special ticket.[^1] This option is actually intended for passengers with a Halbtax subscription (SBB discount card), but is also accepted as a straightforward solution for FIP 50 tickets. The Halbtax price is usually preselected at the machine.
 

@@ -17,7 +17,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 At DB ticket offices, FIP 50 Tickets can be purchased for journeys within Germany and to many European countries.
 
@@ -25,7 +25,7 @@ It is also possible to issue FIP 50 Tickets where only the section outside Germa
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations**
+## Reservations
 
 The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
 

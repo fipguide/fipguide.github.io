@@ -14,7 +14,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies:
 
@@ -39,7 +39,7 @@ FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenscha
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind verkauft die NS nur internationale Reservierungen an Full-Service (Light) Bahnhöfen.
 {{% /booking-section %}}

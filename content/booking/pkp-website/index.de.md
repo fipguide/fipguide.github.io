@@ -15,7 +15,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 Die PKP verkauft online Fahrkarten mit FIP 50 Rabatt. Dazu muss während der Verbindungssuche als Vergünstigung die Option "50% MKZ-FIP" für die jeweilige Person ausgewählt werden.
 
@@ -25,7 +25,7 @@ Tickets mit FIP 50 Rabatt können nur für Verbindungen der PKP innerhalb Polens
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Auf der PKP Website werden Reservierungen für nationale und grenzüberschreitende Züge der PKP verkauft. Dazu muss während der Verbindungssuche die Option "Buy a reservation for your ticket" bzw. "Kup rezerwację do biletu" ausgewählt werden:
 

@@ -11,7 +11,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 Auf der Koleo Website können online Fahrkarten mit FIP 50 Rabatt für viele Bahngesellschaften in Polen gekauft werden. Dazu muss im Kundenkonto bei Koleo FIP 50 als Vergünstigung einmalig [hier](https://koleo.pl/de/my/account) hinzugefügt werden.
 

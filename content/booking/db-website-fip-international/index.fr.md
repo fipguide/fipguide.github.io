@@ -18,7 +18,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Des billets FIP 50 pour des trajets en Allemagne et vers les pays voisins peuvent être réservés en ligne via la Deutsche Bahn. Le billet doit obligatoirement inclure au moins une section en Allemagne. Le billet FIP 50 est émis pour l’ensemble du trajet. Il **n’est pas valable dans le pays où la carte FIP a été délivrée** — un billet supplémentaire est requis pour cette partie.
 
@@ -41,7 +41,7 @@ Les billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Le tarif de réservation est facturé par trajet. Pour des correspondances avec plusieurs trains, une seule réservation suffit.
 

@@ -14,7 +14,7 @@ aliases:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+## FIP 50 Tickets
 
 Tickets (including FIP 50 tickets) are cheaper if purchased in advance (1 day before travel or 15 days before travel).
 

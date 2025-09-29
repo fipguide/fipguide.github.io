@@ -14,7 +14,7 @@ aliases:
 ---
 
 {{% booking-section "fip_global_fare" %}}
-**FIP Global Fare**
+## FIP Global Fare
 
 At Renfe ticket offices, all reservation-required tickets at the FIP Global Fare can be booked. \
 An additional fee of €0.55 applies.

@@ -12,7 +12,7 @@ params:
 Dans les grandes villes, il y a parfois des distributeurs de billets PKP.
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Des billets FIP 50 à tarif réduit peuvent être achetés aux distributeurs de billets. La réduction "50% UMOWA-FIP-MKZ" peut être utilisée à cette fin.
 {{% /booking-section %}}

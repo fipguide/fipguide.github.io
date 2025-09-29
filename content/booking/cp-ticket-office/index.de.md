@@ -14,13 +14,13 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+## FIP 50 Fahrkarten
 
 Am CP Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Portugals erworben werden. Der Ticketpreis wird vor Ort mit dem Taschenrechner ermittelt.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen**
+## Reservierungen
 
 Reservierungen für reservierungspflichtige Züge können vor Ort zu einem Preis von 5€ erworben werden.
 {{% /booking-section %}}

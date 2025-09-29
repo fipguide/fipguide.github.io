@@ -24,7 +24,7 @@ aliases:
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+## Billets FIP 50
 
 Les billets FIP 50 peuvent être achetés pour des voyages en Autriche ainsi que vers de nombreux pays européens.
 
@@ -32,7 +32,7 @@ Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant l
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+## Réservations
 
 Le tarif de réservation est facturé par train. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").
 

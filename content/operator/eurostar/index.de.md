@@ -104,7 +104,7 @@ Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London ko
     reservations=nil
 %}}
 
-**FIP Globalpreis**
+## FIP Globalpreis
 
 Bei der Buchung muss der FIP Ausweis aller Reisenden vorgezeigt werden.
 {{% /booking %}}
