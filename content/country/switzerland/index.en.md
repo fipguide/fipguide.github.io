@@ -4,12 +4,12 @@ title: "Switzerland"
 description: "Information about FIP conditions for Switzerland and which operators offer discounts."
 country: "switzerland"
 params:
-    operators_without_fip:
-        - Heimwehfluhbahn (Interlaken - Heimwehfluh)
-        - Luftseilbahn Wengen - Männlichen
-        - Gondelbahn Grindelwald - Männlichen (GGM)
-        - Seilbahn Mürren - Allmendhubel (SMA)
-        - Luftseilbahn Stechelberg (Mürren - Schilthorn) (LSMS)
+  operators_without_fip:
+    - Heimwehfluhbahn (Interlaken - Heimwehfluh)
+    - Luftseilbahn Wengen - Männlichen
+    - Gondelbahn Grindelwald - Männlichen (GGM)
+    - Seilbahn Mürren - Allmendhubel (SMA)
+    - Luftseilbahn Stechelberg (Mürren - Schilthorn) (LSMS)
 ---
 
 ## FIP Information

@@ -25,6 +25,7 @@ FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
 ## Train Categories and Reservations
+
 {{% highlight important %}}
 Only commuter trains can be used without restrictions with FIP Coupons. For other trains, a ticket at the FIP Global Fare usually needs to be purchased.
 {{% /highlight %}}
@@ -40,10 +41,11 @@ International connections from / to France can be booked at the same conditions 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 10€ (Elige Estándar)
 - 13€ (Elige Confort)
 - 23,50€ (Premium)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -59,10 +61,11 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50€ (Elige Estándar)
 - 10€ (Elige Confort)
 - 23,50€ (Premium)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -70,9 +73,10 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50€ (Elige Estándar)
 - 10€ (Elige Confort)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -80,9 +84,10 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50€ (Elige Estándar)
 - 10€ (Elige Confort)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -91,7 +96,6 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):** 4€
 {{% /expander %}}
-
 
 ### Middle distance
 
@@ -116,6 +120,7 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Description:** \
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -186,4 +191,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 ## Sources
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

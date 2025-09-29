@@ -17,6 +17,7 @@ aliases:
 ---
 
 {{% booking-section "reservations" %}}
+
 ## Reservierungen
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: 'Tschechien'
-country: 'czechia'
+title: "Tschechien"
+country: "czechia"
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
@@ -41,6 +41,7 @@ Die Pünktlichkeit ist solide, oft warten Anschlusszüge auch, jedoch nicht in g
 {{% /expander %}}
 
 ### Deutschland
+
 Von Deutschland aus bestehen diverse Schienen-Grenzübergänge, die genutzt werden können. Der bekannteste ist Schöna, über den die internationalen Fernzüge zwischen den beiden Ländern verkehren. Daneben gibt es hier auch grenzüberschreitende Regionalzüge im 2-Stunden-Takt, die genauso wie die EC-/RJ-Züge in Kooperation von der Deutschen Bahn und ČD betrieben werden und somit FIP-Freifahrtsscheine beider Länder oder ein durchgängiges FIP 50 Ticket für die Fahrt gültig sind.
 
 Genauso sieht es auch im Nordabschnitt des Regionalzugs aus, der dort nochmal die Grenze bei Dolní Poustevna überquert (Strecke Decin – Bad Schandau – Sebnitz – Rumburk).

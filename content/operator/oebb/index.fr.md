@@ -122,6 +122,7 @@ Train régional au moins toutes les heures, arrêt à toutes les gares. Comparab
 ℹ️ Certaines Schnellbahn sont exploitées par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/).
 
 Exemples :
+
 - S-Bahn Haute-Autriche : S5 Linz – Eferding (Linzer Lokalbahn)
 - S-Bahn Salzbourg : S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styrie : S11 Graz–Übelbach (Steiermarkbahn)

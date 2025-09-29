@@ -4,13 +4,14 @@ title: "Koleo Website"
 description: "Booking information for the Koleo website."
 
 params:
-    fip_50: true
-    reservations: false
-    booking_link: "https://koleo.pl/en/"
-    type: "website"
+  fip_50: true
+  reservations: false
+  booking_link: "https://koleo.pl/en/"
+  type: "website"
 ---
 
 {{% booking-section "fip_50" %}}
+
 ## FIP 50 Tickets
 
 On the Koleo website, tickets with FIP 50 discount can be purchased online for many railway companies in Poland. To do this, FIP 50 must be added once as a discount in the Koleo customer account [here](https://koleo.pl/de/my/account).

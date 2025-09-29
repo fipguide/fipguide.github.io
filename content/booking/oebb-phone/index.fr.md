@@ -4,17 +4,17 @@ title: "ÖBB – Réservation par téléphone"
 description: "Informations de réservation via la hotline ÖBB."
 
 params:
-    classes:
-        first: "3,50€"
-        second: "3,50€"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
-    type: "phone"
+  classes:
+    first: "3,50€"
+    second: "3,50€"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
+  type: "phone"
 
 aliases:
-    - obb-phone
-    - obb_phone
+  - obb-phone
+  - obb_phone
 ---
 
 ÖBB propose une hotline pour la réservation de billets et de places :
@@ -24,6 +24,7 @@ aliases:
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
 {{% booking-section "fip_50" %}}
+
 ## Billets FIP 50
 
 Les billets FIP 50 peuvent être achetés pour des voyages en Autriche ainsi que vers de nombreux pays européens.
@@ -32,6 +33,7 @@ Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant l
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Réservations
 
 Le tarif de réservation est facturé par train. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").

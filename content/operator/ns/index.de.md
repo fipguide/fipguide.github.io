@@ -139,8 +139,8 @@ Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
 - Bis zu 8 einzelne Tage innerhalb eines Zeitraums von 3 Monaten.
 - Pro Tag (von 00:00 bis 23:59):
-    - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
-    - Insgesamt bis zu 12 Durchgänge pro Tag.
+  - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
+  - Insgesamt bis zu 12 Durchgänge pro Tag.
 
 Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 

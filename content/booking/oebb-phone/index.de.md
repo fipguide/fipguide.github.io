@@ -4,17 +4,17 @@ title: "ÖBB Telefon"
 description: "Buchungsinformationen für die ÖBB Hotline."
 
 params:
-    classes:
-        first: "3,50€"
-        second: "3,50€"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter"
-    type: "phone"
+  classes:
+    first: "3,50€"
+    second: "3,50€"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter"
+  type: "phone"
 
 aliases:
-    - obb_phone
-    - obb-phone
+  - obb_phone
+  - obb-phone
 ---
 
 Die ÖBB bietet eine Buchungshotline für Tickets und Reservierungen an:
@@ -25,6 +25,7 @@ Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
 Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
 {{% booking-section "fip_50" %}}
+
 ## FIP 50 Fahrkarten
 
 FIP 50 Fahrkarten können für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
@@ -34,6 +35,7 @@ Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor 
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Reservierungen
 
 Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn") zu reservieren.

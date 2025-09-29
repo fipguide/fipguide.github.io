@@ -4,19 +4,20 @@ title: "Guichet DSB"
 description: "Informations de réservation aux guichets de la DSB."
 
 params:
-    classes:
-        first: "30 DKK"
-        second: "30 DKK"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
-    type: "onsite"
+  classes:
+    first: "30 DKK"
+    second: "30 DKK"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
+  type: "onsite"
 
 aliases:
   - dsb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}
+
 ## Billets FIP 50
 
 {{% highlight inofficial %}}
@@ -25,6 +26,7 @@ La DSB ne peut probablement vendre des billets FIP 50 pour le Danemark seulement
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Réservations
 
 Le tarif de réservation est facturé par trajet. Pour des correspondances avec plusieurs trains, une seule réservation suffit.
@@ -42,5 +44,5 @@ Des réservations internationales peuvent être effectuées aux guichets interna
 - Norvège
 - Suède
 - Suisse
-{.o-section--columns-3}
-{{% /booking-section %}}
+  {.o-section--columns-3}
+  {{% /booking-section %}}

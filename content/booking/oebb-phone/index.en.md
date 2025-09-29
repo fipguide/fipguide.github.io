@@ -4,17 +4,17 @@ title: "ÖBB Telephone"
 description: "Booking information for the ÖBB hotline."
 
 params:
-    classes:
-        first: "€3.50"
-        second: "€3.50"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
-    type: "phone"
+  classes:
+    first: "€3.50"
+    second: "€3.50"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
+  type: "phone"
 
 aliases:
-    - obb-phone
-    - obb_phone
+  - obb-phone
+  - obb_phone
 ---
 
 ÖBB offers a booking hotline for tickets and reservations:
@@ -25,6 +25,7 @@ A credit card and email address are required for booking.
 ÖBB does not charge any additional fees for the booking process.
 
 {{% booking-section "fip_50" %}}
+
 ## FIP 50 Tickets
 
 FIP 50 tickets can be purchased for travel within Austria and many European countries.
@@ -34,6 +35,7 @@ Tickets are cheaper if purchased in advance (1 day before travel or 15 days befo
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Reservations
 
 The reservation price is charged per train. For journeys with multiple trains, it may be cheaper to book via the ([Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).

@@ -4,20 +4,21 @@ title: "Guichet ÖBB"
 description: "Informations de réservation aux guichets ÖBB."
 
 params:
-    classes:
-        first: "3,50€"
-        second: "3,50€"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/bahnhofsinformation"
-    type: "onsite"
+  classes:
+    first: "3,50€"
+    second: "3,50€"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/bahnhofsinformation"
+  type: "onsite"
 
 aliases:
-    - obb-ticket-office
-    - obb_ticket_office
+  - obb-ticket-office
+  - obb_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}
+
 ## Billets FIP 50
 
 Aux guichets ÖBB, il est possible d’acheter des billets FIP 50 pour des trajets en Autriche ainsi que vers de nombreux pays européens.
@@ -26,6 +27,7 @@ Les billets (y compris les billets FIP 50) sont moins chers s’ils sont acheté
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Réservations
 
 Le tarif de réservation est facturé par train. Pour des trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").

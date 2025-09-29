@@ -17,6 +17,7 @@ aliases:
 ---
 
 {{% booking-section "reservations" %}}
+
 ## Réservations
 
 Le tarif de réservation est calculé par trajet. Cela signifie que pour une correspondance avec plusieurs trains, une seule réservation suffit.

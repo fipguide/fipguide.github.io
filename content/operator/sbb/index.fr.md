@@ -134,6 +134,7 @@ Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de 
 
 Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \
 Ce supplément (incluant la réservation) est obligatoire, même avec un coupon FIP ou un billet FIP 50.
+
 - 2ᵉ classe : 11€
 - 1ère classe : 13€
 
@@ -148,4 +149,5 @@ Le coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt

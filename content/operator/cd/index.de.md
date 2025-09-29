@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'ČD'
+title: "ČD"
 description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD)."
 country:
-  - 'czechia'
-operator: 'cd'
+  - "czechia"
+operator: "cd"
 ---
 
 Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der Tschechischen Republik und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.
@@ -29,7 +29,6 @@ Auf einigen Routen und Regionen gelten keine FIP Fahrkarten, obwohl die Verbindu
 
 Weiter Informationen: [Verbindungen der ČD ohne FIP]({{% ref "#verbindungen-der-čd-ohne-fip" %}})
 {{% /highlight %}}
-
 
 ## Zugkategorien und Reservierungen
 
@@ -201,7 +200,6 @@ FIP Tickets sind auf den durchgehenden Strecken 083 und 098 (Děčín – Rumbur
 Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfernung von bis zu 100 km nicht gestattet. Bei Reiseentfernungen ab 101 km ist eine Fahrtunterbrechung möglich (allerdings nicht an einem internationalen Bahnhof).
 
 ## Empfehlungen
-
 
 {{% highlight tip %}}
 Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverlässiges und meist komfortables Reisen mit einem sehr gutem Service steht. Die Beschäftigten der Bahn sind meistens sehr freundlich und helfen gerne weiter. Anschlüsse warten oft bei Verspätungen, außer in großen Knotenbahnhöfen wie Praha hl. n. Die Nutzung der App der ČD ("Můj vlak") kann sehr empfehlenswert sein, da hier neben Live-Daten auch die Wagenreihungen und weitere wichtige Informationen einfach eingesehen werden können.

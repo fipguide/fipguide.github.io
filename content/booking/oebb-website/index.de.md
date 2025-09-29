@@ -13,11 +13,12 @@ params:
   type: "website"
 
 aliases:
-    - obb-website
-    - obb_website
+  - obb-website
+  - obb_website
 ---
 
 {{% booking-section "reservations" %}}
+
 ## Reservierungen
 
 Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn") zu reservieren.

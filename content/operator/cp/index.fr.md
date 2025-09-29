@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'CP'
+title: "CP"
 description: "Informations sur les conditions FIP chez Comboios de Portugal (CP)."
 country:
-  - 'portugal'
-operator: 'cp'
+  - "portugal"
+operator: "cp"
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au Portugal.
@@ -68,25 +68,27 @@ Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra
 
 **Lisbonne :** \
 Le [réseau](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) comprend quatre lignes :
-* Ligne de Sintra
-* Ligne d'Azambuja
-* Ligne de Cascais
-* Ligne du Sado
+
+- Ligne de Sintra
+- Ligne d'Azambuja
+- Ligne de Cascais
+- Ligne du Sado
 
 {{% highlight important %}}
 L'accès à la ligne de Sintra et à la ligne de Cascais se fait par des portiques.
 
-* Les voyageurs titulaires d'un billet réduit doivent acheter un ticket Viva Viagem pour 0,50€ afin de franchir le portique.
-* Les titulaires d'un coupon FIP doivent appuyer sur le bouton d'assistance au point d'accès (entre 06:00 et 22:00). Le personnel accordera l'accès.
-{{% /highlight %}}
+- Les voyageurs titulaires d'un billet réduit doivent acheter un ticket Viva Viagem pour 0,50€ afin de franchir le portique.
+- Les titulaires d'un coupon FIP doivent appuyer sur le bouton d'assistance au point d'accès (entre 06:00 et 22:00). Le personnel accordera l'accès.
+  {{% /highlight %}}
 
 **Porto :** \
 Le [réseau](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) comprend cinq lignes :
-* Ligne d'Aveiro
-* Ligne de Braga
-* Ligne Marco de Canaveses
-* Ligne de Guimarães
-* Ligne de Leixões
+
+- Ligne d'Aveiro
+- Ligne de Braga
+- Ligne Marco de Canaveses
+- Ligne de Guimarães
+- Ligne de Leixões
 
 **Coimbra :** \
 Ligne entre Coimbra et Figueira da Foz.
@@ -151,4 +153,5 @@ La CP propose régulièrement des trajets avec le "Presidental Train" — un tra
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

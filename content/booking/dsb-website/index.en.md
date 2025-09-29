@@ -4,19 +4,20 @@ title: "DSB Website"
 description: "Booking information for DSB Website."
 
 params:
-    classes:
-        first: "DKK 30"
-        second: "DKK 30"
-    fip_50: false
-    reservations: true
-    booking_link: "https://www.dsb.dk/en/"
-    type: "website"
+  classes:
+    first: "DKK 30"
+    second: "DKK 30"
+  fip_50: false
+  reservations: true
+  booking_link: "https://www.dsb.dk/en/"
+  type: "website"
 
 aliases:
   - dsb_website
 ---
 
 {{% booking-section "reservations" %}}
+
 ## Reservations
 
 The reservation price is charged per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
@@ -31,5 +32,5 @@ Foreign reservations can be purchased via [DSB Travel B-Europe](https://travel.b
 - Germany
 - Luxembourg
 - Netherlands
-{.o-section--columns-2}
-{{% /booking-section %}}
+  {.o-section--columns-2}
+  {{% /booking-section %}}

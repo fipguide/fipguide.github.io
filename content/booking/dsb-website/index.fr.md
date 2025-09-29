@@ -4,19 +4,20 @@ title: "Site web DSB"
 description: "Informations de réservation via le site web de la DSB."
 
 params:
-    classes:
-        first: "30 DKK"
-        second: "30 DKK"
-    fip_50: false
-    reservations: true
-    booking_link: "https://www.dsb.dk/en/"
-    type: "website"
+  classes:
+    first: "30 DKK"
+    second: "30 DKK"
+  fip_50: false
+  reservations: true
+  booking_link: "https://www.dsb.dk/en/"
+  type: "website"
 
 aliases:
   - dsb_website
 ---
 
 {{% booking-section "reservations" %}}
+
 ## Réservations
 
 Le tarif de réservation est facturé par trajet. Cela signifie que pour des correspondances avec plusieurs trains, une seule réservation suffit.
@@ -31,5 +32,5 @@ Les réservations internationales peuvent être achetées via [DSB Travel B-Euro
 - Allemagne
 - Luxembourg
 - Pays-Bas
-{.o-section--columns-2}
-{{% /booking-section %}}
+  {.o-section--columns-2}
+  {{% /booking-section %}}

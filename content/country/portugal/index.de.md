@@ -1,8 +1,8 @@
 ---
 draft: false
-title: 'Portugal'
-description: 'Informationen über die FIP-Bedingungen für Portugal und für welche Betreiber Vergünstigungen genutzt werden können.'
-country: 'portugal'
+title: "Portugal"
+description: "Informationen über die FIP-Bedingungen für Portugal und für welche Betreiber Vergünstigungen genutzt werden können."
+country: "portugal"
 params:
   operators_without_fip:
     - Fertagus
@@ -33,8 +33,9 @@ Davon abgesehen sollten bei der Reiseplanung defintiv die Fahrtzeiten der Züge 
 Da im Fernverkehr mit `AP` und `IC` Zügen eine Reservierung verpflichtend benötigt wird, empfiehlt sich eine rechtzeitge Buchung.
 
 Besonders empfehlenswert ist ein Besuch der folgenden Bahnhöfe:
-* **Porto São Bento:** dieser Bahnhof ist bekannt für seine kunstvollen Azulejo-Keramikfliesen in der Vorhalle.
-* **Lissabon Oriente:** dieser Bahnhof ist großzügig gestaltet und besitzt eine kunstvolle Dachkonstruktion.
+
+- **Porto São Bento:** dieser Bahnhof ist bekannt für seine kunstvollen Azulejo-Keramikfliesen in der Vorhalle.
+- **Lissabon Oriente:** dieser Bahnhof ist großzügig gestaltet und besitzt eine kunstvolle Dachkonstruktion.
 
 ## Anreise und Grenzpunkte
 

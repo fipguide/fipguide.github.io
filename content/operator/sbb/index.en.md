@@ -134,6 +134,7 @@ However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, no
 
 For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland. \
 This surcharge (including reservation) is mandatory, even with an FIP Free Pass or FIP 50 Ticket.
+
 - 2nd class: €11
 - 1st class: €13
 
@@ -148,4 +149,5 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt
