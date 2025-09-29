@@ -17,13 +17,16 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `Thank you for raising your pull request.
+              body: `Hi there! 👋
 
-              # Checklist before merging
+              Thank you for your contribution to the FIP Guide! 🚀
+              We appreciate your effort in making rail staff travel information more accessible. 🚄
 
-              - [ ] Add description to the Pull Request
-              - [ ] Check the License of new pictures (non-commercial use without attribution)
-              - [ ] Modify content in English
-              - [ ] Modify content in German
-              - [ ] Modify content in French`
+              ## Checklist before merging:
+
+              - [ ] Added a description to the Pull Request
+              - [ ] Checked the License of new pictures (non-commercial use without attribution)
+              - [ ] Modified content in English
+              - [ ] Modified content in German
+              - [ ] Modified content in French`
             })
