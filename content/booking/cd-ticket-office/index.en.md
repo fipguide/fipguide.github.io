@@ -13,7 +13,7 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Ticket**
+## FIP 50 Tickets
 
 At ČD ticket offices, FIP 50 Tickets can be purchased for travel within Czechia and to other European countries.
 

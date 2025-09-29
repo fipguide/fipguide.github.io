@@ -21,7 +21,7 @@ Es fällt eine zusätzliche Gebühr von 0,55€ an.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
-**FIP 50**
+## FIP 50 Fahrkarten
 
 In den Verkaufsstellen der Renfe können alle Tickets ohne Reservierung (FIP 50) gebucht werden.
 {{% /booking-section %}}

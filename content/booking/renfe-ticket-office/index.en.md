@@ -21,7 +21,7 @@ An additional fee of €0.55 applies.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
-**FIP 50**
+## FIP 50 Tickets
 
 At Renfe ticket offices, all non-reservation tickets (FIP 50) can be booked.
 {{% /booking-section %}}

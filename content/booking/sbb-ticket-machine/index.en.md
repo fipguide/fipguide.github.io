@@ -23,5 +23,5 @@ In urban areas, a ticket with Halbtax discount may also include transport operat
 
 {{% /booking-section %}}
 
-**Sources**
+## Sources
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
