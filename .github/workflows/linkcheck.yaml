@@ -1,0 +1,24 @@
+name: Broken Links Checker
+on:
+  # Runs every Monday at 12:00 UTC
+    schedule:
+      - cron: '0 12 * * 1'
+    workflow_dispatch:
+env:
+  WEBSITE_URL: "https://fipguide.org/de/"
+  ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run Broken Links Checker
+      run: npx broken-link-checker $WEBSITE_URL --ordered --recursive --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0" --exclude "intercity.pl"
+    - uses: actions/checkout@v3
+      if: failure()
+    - uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        filename: ${{ env.ISSUE_TEMPLATE }}
+      if: failure()
