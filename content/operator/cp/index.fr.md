@@ -23,7 +23,7 @@ Tarif Global FIP : ✅ (uniquement pour le train Celta)
 
 Les coupons FIP et les billets FIP 50 sont valables sur les services de la CP. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables pour les deux pays sont requis lorsque cela s'applique.
 
-[Vue d'ensemble du réseau CP](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
+[Vue d'ensemble du réseau CP](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
 ## Catégories de trains et réservations
 
@@ -67,7 +67,7 @@ Trains régionaux avec de nombreux arrêts. \
 Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les coupons FIP sont valables sans restriction.
 
 **Lisbonne :** \
-Le [réseau](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) comprend quatre lignes :
+Le [réseau](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) comprend quatre lignes :
 * Ligne de Sintra
 * Ligne d'Azambuja
 * Ligne de Cascais
@@ -81,7 +81,7 @@ L'accès à la ligne de Sintra et à la ligne de Cascais se fait par des portiqu
 {{% /highlight %}}
 
 **Porto :** \
-Le [réseau](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) comprend cinq lignes :
+Le [réseau](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) comprend cinq lignes :
 * Ligne d'Aveiro
 * Ligne de Braga
 * Ligne Marco de Canaveses

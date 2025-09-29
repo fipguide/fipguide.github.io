@@ -9,7 +9,7 @@ params:
     fip_50: true
     fip_global_fare: false
     reservations: true
-    additional_info_link: "https://www.cp.pt/passageiros/en/buy-tickets/Sales-points/ticket-offices"
+    additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices"
     type: "onsite"
 ---
 
