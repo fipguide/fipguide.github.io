@@ -91,7 +91,7 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 {{% booking id="eurostar-phone"
     subtitle="Nur Eurostar Red"
 %}}
-Die Buchung von FIP Ticket von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.{{% /booking %}}
+Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.{{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true
