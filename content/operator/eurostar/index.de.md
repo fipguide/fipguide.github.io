@@ -88,7 +88,9 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 
 ### Telefon
 
-{{% booking id="eurostar-phone" %}}
+{{% booking id="eurostar-phone"
+    subtitle="Nur Eurostar Red"
+%}}
 Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London kommen. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
 {{% /booking %}}
 

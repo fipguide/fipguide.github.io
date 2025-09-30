@@ -88,8 +88,10 @@ If an email address associated with an existing Eurostar account is provided dur
 
 ### Phone
 
-{{% booking id="eurostar-phone" %}}
-Occasionally, there may be issues when booking FIP tickets to or from London. In such cases, we recommend using an alternative booking method.
+{{% booking id="eurostar-phone"
+    subtitle="Only Eurostar Red"
+%}}
+Occasionally, there may be issues when booking FIP Tickets to or from London. In such cases, we recommend using an alternative booking method.
 {{% /booking %}}
 
 {{% booking id="cfl-phone"
