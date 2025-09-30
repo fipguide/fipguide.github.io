@@ -16,6 +16,8 @@ jobs:
           python-version: "3.12"
       - name: Install uv
         uses: astral-sh/setup-uv@v5
+      - name: Install npm packages
+        run: npm install
       - name: Run pre-commit
         run: |-
           uvx --with pre-commit-uv pre-commit run --all-files
