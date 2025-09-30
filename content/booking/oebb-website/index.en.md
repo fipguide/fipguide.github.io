@@ -13,12 +13,13 @@ params:
   type: "website"
 
 aliases:
-    - obb-website
-    - obb_website
+  - obb-website
+  - obb_website
 ---
 
 {{% booking-section "reservations" %}}
-**Reservations**
+
+## Reservations
 
 The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book through the ([Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
 

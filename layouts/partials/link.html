@@ -1,2 +1,3 @@
-<a href="{{ .Destination }}" target="_blank" rel="noopener noreferrer">{{ .Text }}{{- partial "icon" "arrow_outward" -}}</a>
-{{- /* Needed, otherwise links break: https://github.com/fipguide/fipguide.github.io/issues/116 */ -}}
+<a href="{{ .Destination }}" target="_blank" rel="noopener noreferrer"
+  >{{- .Text -}}{{- partial "icon" "arrow_outward" -}}</a
+>

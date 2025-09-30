@@ -4,13 +4,14 @@ title: "CFL Telephone"
 description: "Booking information for the CFL hotline."
 
 params:
-    additional_info_link: "https://blogcfl.lu/en/cfl-group/352-2489-2489-do-you-have-questions-please-contact-us-at-this-number"
-    type: "phone"
-    fee: €5
+  additional_info_link: "https://blogcfl.lu/en/cfl-group/352-2489-2489-do-you-have-questions-please-contact-us-at-this-number"
+  type: "phone"
+  fee: €5
 
 aliases:
   - cfl_phone
 ---
+
 CFL offers a booking hotline where FIP 50 tickets can be purchased. The hotline is available in Luxembourgish, French, German, and English.
 
 [+352 (0) 2489 2489](tel:+35224892489)

@@ -11,10 +11,10 @@ Nederlandse Spoorwegen (NS) is the state railway company of the Netherlands and 
 
 ## Summary
 
-* NS accepts FIP Coupons and FIP 50 tickets.
-* Reservations are generally not required.
-* Supplement required for Eurocity Direct (`ECD`) and partly for Intercity Direct (`ICD`).
-* For FIP Coupons, a gate-pass coupon is required for access through station gates.
+- NS accepts FIP Coupons and FIP 50 tickets.
+- Reservations are generally not required.
+- Supplement required for Eurocity Direct (`ECD`) and partly for Intercity Direct (`ICD`).
+- For FIP Coupons, a gate-pass coupon is required for access through station gates.
 
 ## Validity of FIP Tickets
 
@@ -43,20 +43,20 @@ The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supple
 {{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
 **Description:** \
 International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp. \
-[More information](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
+[More information](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
 Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid for both FIP 50 tickets and FIP Coupons.
 This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 
 {{% expander "Eurocity (EC)" traincategory category %}}
 **Description:** \
 International train between Rotterdam and Brussels with several intermediate stops. \
-[More information](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
+[More information](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -70,7 +70,7 @@ Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam 
 **Supplement:** ⚠️ \
 When using FIP 50 tickets between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid. No supplement is required with FIP Coupons. \
 This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 
@@ -139,8 +139,8 @@ This is not a ticket, but an access pass, valid for:
 
 - Up to 8 separate days within a 3-month period.
 - Each day (from 00:00 to 23:59):
-    - Up to 6 entries/exits at the same station.
-    - Up to 12 passages in total per day.
+  - Up to 6 entries/exits at the same station.
+  - Up to 12 passages in total per day.
 
 If needed, a new access coupon can be requested at the NS ticket office.
 

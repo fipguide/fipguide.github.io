@@ -1,12 +1,12 @@
 ---
 draft: false
-title: 'Euskotren Kundenzentren'
+title: "Euskotren Kundenzentren"
 params:
-    fip_50: nil
-    fip_global_fare: nil
-    reservations: nil
-    type: "onsite"
-    additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
+  fip_50: nil
+  fip_global_fare: nil
+  reservations: nil
+  type: "onsite"
+  additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
 ---
 
 Bei Vorlage des FIP-Ausweises wird in den folgenden Ausgabestellen ein Ticket mit Gültigkeit für 7 Tage ausgestellt.

@@ -4,17 +4,18 @@ title: "ÖBB Ticket Machines"
 description: "Booking information for ÖBB ticket machines."
 
 params:
-    fip_50: true
-    additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat"
-    type: "machine"
+  fip_50: true
+  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat"
+  type: "machine"
 
 aliases:
-    - obb-ticket-machine
-    - obb_ticket_machine
+  - obb-ticket-machine
+  - obb_ticket_machine
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+
+## FIP 50 Tickets
 
 Tickets (including FIP 50 tickets) are cheaper if purchased in advance (1 day before travel or 15 days before travel).
 

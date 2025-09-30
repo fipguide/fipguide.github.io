@@ -122,6 +122,7 @@ Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
 ℹ️ S-Bahn services are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [Bahn.de](https://int.bahn.de/en).
 
 Including:
+
 - S-Bahn Upper Austria: S5 Linz–Eferding (Linzer Lokalbahn)
 - S-Bahn Salzburg: S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styria: S11 Graz–Übelbach (Steiermarkbahn)
@@ -196,6 +197,7 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
 #### Brenner - Bolzano - Verona
+
 ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde - Venice

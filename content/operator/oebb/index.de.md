@@ -30,7 +30,7 @@ FIP 50 Tickets: ✅
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ÖBB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 {{% highlight important %}}
-Bei der Fahrt mit FIP Freifahrtsschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am  Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
+Bei der Fahrt mit FIP Freifahrtsschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
 
 Kosten: \
 1\. Klasse: 15€ \
@@ -128,6 +128,7 @@ Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichb
 ℹ️ Schnellbahnen werden teilweise auch von anderen privaten Bahngesellschaften betrieben, bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
 Dazu gehören unter anderem:
+
 - S-Bahn Oberösterreich: S5 Linz – Eferding (Linzer Lokalbahn)
 - S-Bahn Salzburg: S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Steiermark: S11 Graz–Übelbach (Steiermarkbahn)

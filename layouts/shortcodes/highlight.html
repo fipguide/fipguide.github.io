@@ -1,12 +1,15 @@
 {{- $param := .Get 0 -}}
 {{ $iconMapping := dict "important" "error" "inofficial" "warning" "tip" "lightbulb_2" }}
 
+
 <div class="m-text-highlight m-text-highlight--{{ $param }}">
-    {{- if $param -}}
+  {{- if $param -}}
     <div class="m-text-highlight__roofline">
-        {{- partial "icon" (index $iconMapping $param) -}}
-        {{ T (printf "highlight.%s" $param) }}</div>
-    {{- end -}}
-    <div>
-{{ .Inner }}
-</div></div>
+      {{- partial "icon" (index $iconMapping $param) -}}
+      {{ T (printf "highlight.%s" $param) }}
+    </div>
+  {{- end -}}
+  <div>
+    {{ .Inner }}
+  </div>
+</div>

@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 'GySEV / Raaberbahn'
+title: "GySEV / Raaberbahn"
 country:
-  - 'austria'
-operator: 'gysev'
+  - "austria"
+operator: "gysev"
 ---
 
 The Raab-Oedenburg-Ebenfurter Eisenbahn AG (Hungarian: Győr-Sopron-Ebenfurti Vasút Zrt.), short: GySEV or Raaberbahn, is a private Hungarian railway company that operates regional trains in Hungary and Austria. They primarily operate passenger services south and east of Lake Neusiedl (Western Hungary), partly even on their own infrastructure.
@@ -97,4 +97,5 @@ For a break of journey, the ticket must be stamped at the station where the brea
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)

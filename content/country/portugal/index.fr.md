@@ -1,13 +1,12 @@
 ---
 draft: false
-title: 'Portugal'
-description: 'Découvrez les conditions FIP au Portugal et les opérateurs proposant des réductions.'
-country: 'portugal'
+title: "Portugal"
+description: "Découvrez les conditions FIP au Portugal et les opérateurs proposant des réductions."
+country: "portugal"
 params:
   operators_without_fip:
     - Fertagus
 ---
-
 
 ## Informations FIP
 
@@ -26,8 +25,9 @@ D'après l'expérience personnelle, des retards peuvent survenir, souvent causé
 Dans les agglomérations de Lisbonne et Porto, il existe une fréquence élevée pour les trains régionaux et pendulaires (Comboios Urbanos). En dehors de ces zones, il convient de vérifier attentivement les horaires en raison d'irrégularités de cadence et de réductions de service en début et fin de journée. Comme la réservation est obligatoire sur certaines catégories longue distance (`AP` et `IC`), il est recommandé de réserver à l'avance.
 
 Gares particulièrement recommandées :
-* **Porto São Bento :** célèbre pour ses panneaux d'azulejos ornant la grande salle.
-* **Lisboa Oriente :** une gare spacieuse remarquable par sa toiture impressionnante.
+
+- **Porto São Bento :** célèbre pour ses panneaux d'azulejos ornant la grande salle.
+- **Lisboa Oriente :** une gare spacieuse remarquable par sa toiture impressionnante.
 
 ## Arrivée et points frontières
 
