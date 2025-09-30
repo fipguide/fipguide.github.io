@@ -34,7 +34,8 @@ Les billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 - Danemark
 - France
 - Allemagne
-- Italie (uniquement ligne du Brenner avec l’Autriche et ECE Francfort – Milan)
+- Italie \
+  <small>uniquement la ligne du Brenner avec l’Autriche et le ECE Francfort – Milan</small>
 - Luxembourg
 - Pays-Bas
 - Pologne
