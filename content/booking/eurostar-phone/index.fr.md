@@ -4,15 +4,15 @@ title: "Eurostar – Réservation par téléphone"
 description: "Informations de réservation via la hotline Eurostar."
 
 params:
-    fip_global_fare: true
-    additional_info_link: "https://www.eurostar.com/fr-fr/contactez-nous/coordonnees-de-contact"
-    type: "phone"
+  fip_global_fare: true
+  additional_info_link: "https://www.eurostar.com/fr-fr/contactez-nous/coordonnees-de-contact"
+  type: "phone"
 
 aliases:
   - eurostar_phone
 ---
 
-**Tarif Global FIP**
+## Tarif Global FIP
 
 Les billets au Tarif Global FIP peuvent être achetés via la hotline Eurostar :
 

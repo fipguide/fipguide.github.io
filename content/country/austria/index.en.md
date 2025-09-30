@@ -74,7 +74,15 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 ### Switzerland
 
-From Austria, Buchs SG and St. Margrethen can be reached with FIP 50 ÖBB tickets and FIP Coupons (Eurocity, Railjet, and local trains). Note that when entering from Germany, the Lindau-St. Margrethen section counts as transit through Austria and must be paid for; in theory, a [surcharge (€10/15)]({{< ref "/operator/oebb#validity-of-fip-tickets" >}} "ÖBB Surcharge") applies when using a FIP Coupon, so it is recommended to book a FIP 50 ticket for this section.
+Austria and Switzerland have only one main border crossing, at St. Margrethen. Mostly regional trains operate here, but there are also Eurocity trains that only stop in Bregenz on the Austrian side and otherwise run from Germany (Munich).
+
+Entry from Switzerland is also possible via Buchs SG and Feldkirch through Liechtenstein. In Liechtenstein, [ÖBB FIP tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid. This means it is possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main line between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna/Graz and Zurich, as well as regional trains.
+
+### Liechtenstein
+
+Liechtenstein and Austria are only connected by rarely running trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the Austrian Federal Railways [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are also valid in Liechtenstein.
+
+Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
 
 ### Italy
 

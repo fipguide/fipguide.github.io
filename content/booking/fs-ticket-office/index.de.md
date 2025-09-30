@@ -4,10 +4,10 @@ title: "Trenitalia Ticketschalter"
 description: "Buchungsinformationen für die Trenitalia Ticketschalter."
 
 params:
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
-    type: "onsite"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
+  type: "onsite"
 ---
 
 {{% booking-section "fip_50" %}}

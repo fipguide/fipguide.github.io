@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Polen
-country: 'poland'
+country: "poland"
 params:
   operators_without_fip:
     - Arriva
@@ -13,6 +13,7 @@ params:
 ## FIP Nutzung
 
 Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP]({{< ref "/operator/pkp" >}} "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
+
 - Koleje Dolnośląskie (KD)
 - Koleje Śląskie (KS)
 - Koleje Wielkopolskie (KW)
@@ -24,20 +25,20 @@ Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit
 
 Das Land hat mit etwa 19.000 km eines der größeren Schienennetze in Europa zu bieten. Gerade die Hauptstrecken zwischen den wichtigsten Städten wurden in den letzten Jahren für mehr Kapazität und höhere Geschwindigkeiten ausgebaut. Der Spitzenreiter ist die Achse Danzig - Warschau - Katowice mit bis zu 200 km/h. Dem gegenüber stehen einige Strecken (vor allem im Regionalverkehr), die nur mit 60 km/h befahren werden können. In Zukunft sind jedoch auch Schnellfahrstrecken mit höheren Geschwindigkeiten quer durch Polen geplant.
 
-Der Zustand, die Dichte und  Taktung der Bahnstrecken sind oft sehr abhängig von der Region. In Niederschlesien (Dolnośląskie) wurden beispielsweise in den letzten Jahren einige Strecken reaktiviert und leistungsfähiger gemacht. Allgemein ist jedoch zu sagen, dass die Takte meist ausbaufähig sind. Auf vielen Strecken werden nur einzelne Züge pro Tag angeboten.
+Der Zustand, die Dichte und Taktung der Bahnstrecken sind oft sehr abhängig von der Region. In Niederschlesien (Dolnośląskie) wurden beispielsweise in den letzten Jahren einige Strecken reaktiviert und leistungsfähiger gemacht. Allgemein ist jedoch zu sagen, dass die Takte meist ausbaufähig sind. Auf vielen Strecken werden nur einzelne Züge pro Tag angeboten.
 
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
 | Land/Bahngesellschaft | Grenzpunkte |
 |-----------------------|-------------|
-| Belarus / Weißrussland (BC)          | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship) |
-| Tschechien (ČD)       | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
-| Deutschland (DB AG)   | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Litauen (LTG-Link)    | Mockava (Gr) |
-| Russland (RZD)        | Braniewo (Gr) |
-| Ukraine (UZ)          | Jagodin (Gr) (Yahodyn, Yagodyn oder Ягодин), Medyka (Gr) |
-| Slowakei (ŽSR)        | Lupkow (Gr) |
+| Belarus / Weißrussland (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship) |
+| Tschechien (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
+| Deutschland (DB AG) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| Litauen (LTG-Link) | Mockava (Gr) |
+| Russland (RZD) | Braniewo (Gr) |
+| Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn oder Ягодин), Medyka (Gr) |
+| Slowakei (ŽSR) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Belarus / Weißrussland

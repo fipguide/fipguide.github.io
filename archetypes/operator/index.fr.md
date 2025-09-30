@@ -1,15 +1,17 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
-description: '' # Complète une description pour la compagnie ferroviaire
+title: "{{ .File.ContentBaseName | upper }}"
+description: "" # Complète une description pour la compagnie ferroviaire
 country:
   # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
-  - 'pays1'
-  - 'pays2'
-  - 'pays3'
-operator: '{{ .File.ContentBaseName }}'
+  - "pays1"
+  - "pays2"
+  - "pays3"
+operator: "{{ .File.ContentBaseName }}"
 ---
+
 <!-- Supprimez ce message si la page est complète -->
+
 {{< wip >}}
 
 <!--
@@ -51,18 +53,25 @@ Tarif Global FIP : <✅/⛔>
   - ⛔ pour une non-validité FIP
   - ℹ️ pour des confusions possibles avec d'autres compagnies ferroviaires / catégories de train
 -->
+
 {{% expander "Catégorie de train" traincategory "category" %}}
+
 <!-- Remplacez "Catégorie de train" par le nom de la catégorie, par ex. TGV, ICE -->
+
 **Description :** \
+
 <!-- Description de la catégorie -->
+
 **Réservation possible :** <oui/non> \
 **Réservation obligatoire :** <⚠️ oui / non / ⚠️1️⃣ seulement en 1ère classe> \
+
 <!-- Si FIP n’est pas accepté, ajoutez ceci :
 **FIP :** ⛔ FIP non accepté
 -->
 <!-- Si les tarifs globaux FIP sont disponibles, ajoutez ceci :
 **Tarif Global FIP :**
 -->
+
 {{% /expander %}}
 
 ## Catégories de classes
@@ -79,6 +88,7 @@ Tarif Global FIP : <✅/⛔>
 
   Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
 -->
+
 {{% booking id="booking_id"
     subtitle="Ce sous-titre s'affiche dans le résumé de l'expander et doit rester concis."
     reservations=nil
@@ -87,7 +97,9 @@ Tarif Global FIP : <✅/⛔>
     classes.first="20€"
     classes.second="10€"
 %}}
+
 <!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s'affiche dans la partie développée. -->
+
 {{% /booking %}}
 
 ### Par téléphone
@@ -131,5 +143,6 @@ Tarif Global FIP : <✅/⛔>
 
 ## Sources
 
-[^1]: [<Nom de la source 1>](<Lien>)
-[^2]: [<Nom de la source 2>](<Lien>)
+[^1]: [<Nom de la source 1>](Lien)
+
+[^2]: [<Nom de la source 2>](Lien)

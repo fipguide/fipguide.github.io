@@ -13,9 +13,12 @@
     flex-flow: column;
   }
 
-  input[type=text], input[type=email], select, textarea {
+  input[type="text"],
+  input[type="email"],
+  select,
+  textarea {
     margin-bottom: 1.6rem;
-    border: .2rem solid var(--link-default);
+    border: 0.2rem solid var(--link-default);
     border-radius: var(--border-radius-m);
     padding: 1.2rem;
     background-color: var(--bg-neutral);

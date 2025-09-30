@@ -1,13 +1,14 @@
 ---
 draft: false
-title: 'Italy'
-country: 'italy'
+title: "Italy"
+country: "italy"
 params:
   operators_without_fip:
-    - # List operators without FIP here
+    -  # List operators without FIP here
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
+
 {{< wip >}}
 
 ## FIP Information

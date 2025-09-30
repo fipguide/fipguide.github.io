@@ -1,13 +1,14 @@
 ---
 draft: false
-title: 'Trenitalia'
+title: "Trenitalia"
 description: "Informationen über die FIP-Bedingungen bei der Trenitalia (FS)."
 country:
-  - 'italy'
-operator: 'trenitalia'
+  - "italy"
+operator: "trenitalia"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
+
 {{< wip >}}
 
 Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergünstigungen gelten jedoch nur bei der Tochtergesellschaft Trenitalia.
@@ -99,6 +100,7 @@ Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Kosten für Reservierung**: 25€ (1./2. Klasse)
 
 **Brennerverkehr:**
+
 - 1\. Klasse: 15€
 - 2\. Klasse: 10€
 
@@ -241,7 +243,6 @@ Im italienischen Nahverkehr (`R`/`RV`) besteht teilweise eine Zugbindung. Dies b
 Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_) unterschieden.
 
 Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
-
 
 {{% expander "Erkennung von zuggebundenen Tickets" info %}}
 

@@ -1,16 +1,17 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
-description: '' # Add a description for the railway company
+title: "{{ .File.ContentBaseName | upper }}"
+description: "" # Add a description for the railway company
 country:
   # Add the abbreviations of the countries the railway company operates in.
-  - 'country1'
-  - 'country2'
-  - 'country3'
-operator: '{{ .File.ContentBaseName }}'
+  - "country1"
+  - "country2"
+  - "country3"
+operator: "{{ .File.ContentBaseName }}"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
+
 {{< wip >}}
 
 <!--
@@ -52,18 +53,25 @@ FIP Global Fare: <✅/⛔>
   - ⛔ for a non-acceptance of FIP
   - ℹ️ for confusion with other railway companies/train categories
 -->
+
 {{% expander "Train category" traincategory "category" %}}
+
 <!-- Replace "Train category" with the name of the category, e.g. ICE. -->
+
 **Description:**
+
 <!-- Description of the category -->
+
 **Reservation possible:** <yes/no> \
 **Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
+
 <!-- If FIP is not valid, add the following:
 **FIP:** ⛔ FIP is not accepted
 -->
 <!-- If there are FIP Global Fares, add the following:
 **FIP Global Fare:**
 -->
+
 {{% /expander %}}
 
 ## Class Categories
@@ -90,6 +98,7 @@ FIP Global Fare: <✅/⛔>
 
   For more information how to define a booking platform, check the booking archetype.
 -->
+
 {{% booking id="booking_id"
     subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
     reservations=nil
@@ -98,7 +107,9 @@ FIP Global Fare: <✅/⛔>
     classes.first="€20"
     classes.second="€10"
 %}}
+
 <!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
+
 {{% /booking %}}
 
 ### Telephone
@@ -142,5 +153,6 @@ FIP Global Fare: <✅/⛔>
 
 ## Sources
 
-[^1]: [<Source Name 1>](<Link>)
-[^2]: [<Source Name 2>](<Link>)
+[^1]: [<Source Name 1>](Link)
+
+[^2]: [<Source Name 2>](Link)

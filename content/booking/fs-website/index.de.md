@@ -4,14 +4,14 @@ title: "Trenitalia Website"
 description: "Buchungsinformationen für die Trenitalia Website."
 
 params:
-    fip_50: false
-    reservations: true
-    classes:
-        first: "3€ / 25€"
-        second: "3€ / 25€"
-    booking_link: "https://www.trenitalia.com/de.html"
-    additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
-    type: "website"
+  fip_50: false
+  reservations: true
+  classes:
+    first: "3€ / 25€"
+    second: "3€ / 25€"
+  booking_link: "https://www.trenitalia.com/de.html"
+  additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
+  type: "website"
 ---
 
 {{% booking-section "reservations" %}}
@@ -28,7 +28,6 @@ InterCity: 3€ (1./2. Klasse) \
 Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20€ Chiasso – Milano (`ECE`/`EC`)
 
 Bei der Buchung muss über die Verbindungsauskunft erst eine Verbindung ausgewählt werden. Anschließend kann in der Ticketauswahl über den Button _Weitere Angebote anzeigen_ die Auswahl des Tarifs _DIRITTO AMMISSIONE_ erfolgen. Als Zugangsnummer kann die Nummer des FIP Freifahrtscheins angegeben werden.
-
 
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <div style="display: flex; gap: 1rem; margin-bottom: 1rem;">

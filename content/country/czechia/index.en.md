@@ -1,8 +1,8 @@
 ---
 draft: false
-title: 'Czechia'
-description: 'Information about FIP conditions for Czechia and which operators offer discounts.'
-country: 'czechia'
+title: "Czechia"
+description: "Information about FIP conditions for Czechia and which operators offer discounts."
+country: "czechia"
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
@@ -41,6 +41,7 @@ Punctuality is solid, and connecting trains often wait, but not in major hubs li
 {{% /expander %}}
 
 ### Germany
+
 There are various rail border crossings from Germany that can be used. The most well-known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the EC/RJ trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a continuous FIP 50 Ticket are valid for the journey.
 
 The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin – Bad Schandau – Sebnitz – Rumburk).

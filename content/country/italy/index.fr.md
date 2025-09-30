@@ -1,12 +1,14 @@
 ---
 draft: false
-title: 'Italy'
-country: 'italy'
+title: "Italy"
+country: "italy"
 params:
   operators_without_fip:
-    - # Listez ici les opérateurs ne participant pas au FIP
+    -  # Listez ici les opérateurs ne participant pas au FIP
 ---
+
 <!-- Supprimez ce message si la page est complète -->
+
 {{< wip >}}
 
 ## Informations FIP

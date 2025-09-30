@@ -1,116 +1,118 @@
 #search {
-    width: 100%;
-    height: 6rem;
-    display: flex;
-    z-index: 2;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  z-index: 2;
 
-    .pagefind-ui__search-input,
-    .pagefind-ui__message,
-    .pagefind-ui__search-clear {
-        font-family: "Roboto", Arial, Helvetica, sans-serif;
+  .pagefind-ui__search-input,
+  .pagefind-ui__message,
+  .pagefind-ui__search-clear {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+  }
+
+  .pagefind-ui__search-input {
+    z-index: 3;
+    outline: 0.2rem solid transparent;
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+
+    &:focus {
+      outline: 0.2rem solid orange;
+      outline-offset: 0.1rem;
     }
 
-    .pagefind-ui__search-input {
-        z-index: 3;
-        outline: .2rem solid transparent;
-        border: var(--border);
-        box-shadow: var(--box-shadow);
-
-        &:focus {
-            outline: .2rem solid orange;
-            outline-offset: .1rem;
-        }
-
-        &::placeholder {
-            opacity: .7;
-            color: var(--color-body);
-        }
+    &::placeholder {
+      opacity: 0.7;
+      color: var(--color-body);
     }
+  }
 
-    .pagefind-ui__search-clear {
-        z-index: 3;
-        height: auto;
-        padding: 1rem;
-        top: 1rem;
-        margin-right: .7rem;
+  .pagefind-ui__search-clear {
+    z-index: 3;
+    height: auto;
+    padding: 1rem;
+    top: 1rem;
+    margin-right: 0.7rem;
+  }
+
+  .pagefind-ui__suppressed {
+    display: none;
+  }
+
+  .pagefind-ui__form::before {
+    z-index: 4;
+  }
+
+  .pagefind-ui__drawer {
+    background-color: var(--bg-default);
+    padding: 0 1rem 1rem 1rem;
+    overscroll-behavior: contain;
+    height: 35rem;
+    overflow-y: scroll;
+    position: relative;
+    top: -0.7rem;
+    border-left: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
+    border-right: var(--pagefind-ui-border-width) solid
+      var(--pagefind-ui-border);
+    border-bottom: var(--pagefind-ui-border-width) solid
+      var(--pagefind-ui-border);
+    border-bottom-left-radius: var(--pagefind-ui-border-radius);
+    border-bottom-right-radius: var(--pagefind-ui-border-radius);
+    z-index: 3;
+  }
+
+  .pagefind-ui__result-link {
+    color: var(--link-default);
+    text-decoration: underline;
+
+    &:hover,
+    &:focus {
+      color: var(--link-hovered);
     }
+  }
 
-    .pagefind-ui__suppressed {
-        display: none;
+  .pagefind-ui__result-link:hover,
+  .pagefind-ui__result-link:focus {
+    color: var(--link-hovered);
+  }
+
+  .pagefind-ui__result-link:focus {
+    outline: 0.2rem solid orange;
+    outline-offset: 0.1rem;
+    border-radius: var(--border-radius-s);
+  }
+
+  .pagefind-ui__result-link::before {
+    top: -0.2rem;
+  }
+
+  .pagefind-ui--reset mark {
+    background-color: var(--bg-accent);
+    color: var(--color-body);
+  }
+
+  .pagefind-ui__button {
+    background-color: var(--bg-accent);
+
+    &:hover,
+    &:focus {
+      background-color: var(--bg-accent2);
     }
-
-    .pagefind-ui__form::before {
-        z-index: 4;
-    }
-
-    .pagefind-ui__drawer {
-        background-color: var(--bg-default);
-        padding: 0 1rem 1rem 1rem;
-        overscroll-behavior: contain;
-        height: 35rem;
-        overflow-y: scroll;
-        position: relative;
-        top: -.7rem;
-        border-left: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
-        border-right: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
-        border-bottom: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
-        border-bottom-left-radius: var(--pagefind-ui-border-radius);
-        border-bottom-right-radius: var(--pagefind-ui-border-radius);
-        z-index: 3;
-    }
-
-    .pagefind-ui__result-link {
-        color: var(--link-default);
-        text-decoration: underline;
-
-        &:hover,
-        &:focus {
-            color: var(--link-hovered);
-        }
-    }
-
-    .pagefind-ui__result-link:hover,
-    .pagefind-ui__result-link:focus {
-        color: var(--link-hovered);
-    }
-
-    .pagefind-ui__result-link:focus {
-        outline: .2rem solid orange;
-        outline-offset: .1rem;
-        border-radius: var(--border-radius-s);
-    }
-
-    .pagefind-ui__result-link::before {
-        top: -.2rem;
-    }
-
-    .pagefind-ui--reset mark {
-        background-color: var(--bg-accent);
-        color: var(--color-body);
-    }
-
-    .pagefind-ui__button {
-        background-color: var(--bg-accent);
-
-        &:hover,
-        &:focus {
-            background-color: var(--bg-accent2);
-        }
-    }
+  }
 }
 
 .curtain {
-    background-color: rgba(0, 0, 0, .8);
-    z-index: 2;
-    transition: opacity .3s ease;
-    opacity: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 2;
+  transition: opacity 0.3s ease;
+  opacity: 0;
 }
 
 main:has(#search:focus-within),
-main:has(.pagefind-ui__drawer:not(.pagefind-ui__hidden))  {
-    .curtain {
-        opacity: 1;
-        position: fixed;
-        inset: 0;
-    }
+main:has(.pagefind-ui__drawer:not(.pagefind-ui__hidden)) {
+  .curtain {
+    opacity: 1;
+    position: fixed;
+    inset: 0;
+  }
 }

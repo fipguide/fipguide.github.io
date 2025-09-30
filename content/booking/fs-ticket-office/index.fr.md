@@ -4,13 +4,13 @@ title: "Guichet DB"
 description: "Informations de réservation pour les guichets de la Deutsche Bahn."
 
 params:
-    classes:
-        first: "6,90€"
-        second: "5,50€"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"
-    type: "onsite"
+  classes:
+    first: "6,90€"
+    second: "5,50€"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"
+  type: "onsite"
 
 aliases:
   - db_ticket_office

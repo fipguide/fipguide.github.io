@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 'DSB'
+title: "DSB"
 description: "Informations sur les conditions FIP chez DSB."
 country:
- - "denmark"
+  - "denmark"
 operator: "dsb"
 ---
 
@@ -18,7 +18,7 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du Danemark. El
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
-Billets FIP 50  : ✅
+Billets FIP 50 : ✅
 
 Les coupons FIP et billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un billet FIP 50 couvrant l’ensemble du trajet ou des coupons FIP valables dans les deux pays sont requis.
 
@@ -122,4 +122,5 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

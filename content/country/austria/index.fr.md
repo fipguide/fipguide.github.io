@@ -74,7 +74,15 @@ Sinon, un billet FIP GySEV est requis pour les lignes GySEV.
 
 ### Suisse
 
-Depuis l’Autriche, les gares de Buchs SG et St. Margrethen sont accessibles avec des billets FIP 50 ÖBB ou coupons FIP (EuroCity, Railjet, trains locaux). Attention : si vous entrez depuis l’Allemagne, le tronçon Lindau–St. Margrethen est considéré comme un transit via l’Autriche. Dans ce cas, un [supplément (10 €/15 €)]({{< ref "/operator/oebb#validité-des-billets-fip" >}} "Supplément ÖBB") est théoriquement dû avec un coupon FIP — il est donc recommandé d’utiliser un billet FIP 50 pour cette section.
+L’Autriche et la Suisse ne sont reliées que par un seul passage frontalier principal, à St. Margrethen. Ce point est desservi principalement par des trains régionaux, mais aussi par des EuroCity qui ne s’arrêtent qu’à Bregenz côté autrichien et circulent sinon depuis l’Allemagne (Munich).
+
+L’entrée depuis la Suisse est également possible via Buchs SG et Feldkirch en traversant le Liechtenstein. Au Liechtenstein, les [billets FIP ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") sont valables. Il est donc possible d’obtenir un billet continu entre l’Autriche et la Suisse en utilisant des Coupons FIP ÖBB et SBB. La ligne principale entre les deux pays passe ici, avec des trains Railjet autrichiens et EuroCity entre Vienne/Graz et Zurich, ainsi que des trains régionaux.
+
+### Liechtenstein
+
+Le Liechtenstein et l’Autriche ne sont reliés que par quelques trains en semaine. Ces trains S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les Chemins de fer fédéraux autrichiens [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Les Coupons FIP ÖBB et les Billets FIP 50 sont donc également valables au Liechtenstein.
+
+Sinon, le trafic transfrontalier est principalement assuré par des bus, sur lesquels les Billets FIP ne sont pas valables.
 
 ### Italie
 
@@ -92,7 +100,7 @@ entre Villa Opicina et Trieste, le coupon FIP ÖBB est valable, mais un petit su
 
 Deux lignes locales relient la Slovaquie à l’Autriche :
 
-- La plus rapide : Bratislava hl.st. – Marchegg – Vienne*(à partir du 10/10/2025).
+- La plus rapide : Bratislava hl.st. – Marchegg – Vienne\*(à partir du 10/10/2025).
 - L’autre : Bratislava Petržalka – Kittsee – Vienne.
 
 Pour les deux, un billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \

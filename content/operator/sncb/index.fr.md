@@ -41,6 +41,27 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 **Réservation obligatoire :** non
 {{% /expander %}}
 
+{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
+**Description :** \
+Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers. \
+[Plus d’informations](https://www.nsinternational.com/en/trains/eurocity) \
+**Réservation possible :** non \
+**Réservation obligatoire :** non \
+**Supplément :** ⚠️ \
+Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les billets FIP 50 et les coupons FIP. \
+Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
+Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+Pour les billets FIP 50, les prix peuvent varier selon la catégorie de train.
+{{% /expander %}}
+
+{{% expander "Eurocity (EC)" traincategory category %}}
+**Description :** \
+Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires. \
+[Plus d’informations](https://www.nsinternational.com/en/trains/eurocity) \
+**Réservation possible :** non \
+**Réservation obligatoire :** non
+{{% /expander %}}
+
 {{% expander "Train local ou Lokale trein (L)" traincategory category %}}
 **Description :** \
 Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement appelés `R` pour train régional dans les informations de correspondance. \
@@ -110,7 +131,7 @@ Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. L
 
 ### Aéroport de Bruxelles-Zaventem
 
-Un supplément de 6,70€ est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un coupon FIP, même si le message *"Pas de supplément requis"* figure sur le billet. Ce supplément est inclus dans le prix d'un billet FIP 50. [^1]  [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
+Un supplément de 6,70€ est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d'un billet FIP 50. [^1] [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
 ## Recommandation
 
@@ -121,4 +142,5 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: [Retours d'expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)

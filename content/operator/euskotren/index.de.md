@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 'Euskotren'
+title: "Euskotren"
 country:
-  - 'spain'
-operator: 'euskotren'
+  - "spain"
+operator: "euskotren"
 ---
 
 Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Euskotren gehört der baskische Regionalregierung.
@@ -89,5 +89,7 @@ Euskotren betreibt auch das baskische Eisenbahnmuseum in Azpeitia, das mit dem B
 ## Quellen
 
 [^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+
 [^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
+
 [^3]: [Wikipedia Metro Bilbao](https://de.wikipedia.org/wiki/Metro_Bilbao)

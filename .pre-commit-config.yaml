@@ -37,3 +37,13 @@ repos:
         language: system
         types: [file]
         files: ^i18n/.*\.ya?ml$
+  - repo: local
+    hooks:
+      - id: prettier
+        name: prettier
+        entry: prettier --write
+        language: node
+        types_or: [javascript, scss, html, markdown]
+        additional_dependencies:
+          - "prettier@3.6.2"
+          - "prettier-plugin-go-template@0.0.6"

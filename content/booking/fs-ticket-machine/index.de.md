@@ -4,12 +4,12 @@ title: "Trenitalia Fahrkartenautomat"
 description: "Buchungsinformationen für die Trenitalia Fahrkartenautomaten."
 
 params:
-    fip_50: false
-    reservations: true
-    classes:
-        first: "3€ / 25€"
-        second: "3€ / 25€"
-    type: "machine"
+  fip_50: false
+  reservations: true
+  classes:
+    first: "3€ / 25€"
+    second: "3€ / 25€"
+  type: "machine"
 ---
 
 {{% booking-section "reservations" %}}

@@ -1,8 +1,8 @@
 ---
 draft: false
-title: 'Tchéquie'
+title: "Tchéquie"
 description: "Informations sur les conditions FIP pour la Tchéquie et les opérateurs proposant des réductions."
-country: 'czechia'
+country: "czechia"
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
@@ -12,6 +12,7 @@ params:
     - Jindřichohradecké místní dráhy (JHMD)
     - Trilex / Die Länderbahn
 ---
+
 ## Informations FIP
 
 La Tchéquie n'est pas le pays le plus simple pour utiliser la FIP, mais il reste tout à fait possible d'y voyager avec. La compagnie nationale České dráhy ([ČD]({{< ref "/operator/cd" >}} "ČD")) est le seul opérateur FIP du pays, mais elle exploite aussi une grande partie du réseau ferroviaire.
@@ -40,6 +41,7 @@ La ponctualité est correcte, les trains en correspondance attendent souvent, ma
 {{% /expander %}}
 
 ### Allemagne
+
 Il existe divers points de passage ferroviaires depuis l'Allemagne. Le plus connu est Schöna, utilisé par les trains grandes lignes internationaux entre les deux pays. Il existe aussi des trains régionaux transfrontaliers toutes les 2 heures, qui, comme les trains EC/RJ, sont exploités en coopération par la Deutsche Bahn et la ČD, de sorte que les coupons FIP des deux pays ou un billet FIP 50 continu sont valables pour le trajet.
 
 Il en va de même pour la section nord du train régional, qui franchit à nouveau la frontière à Dolní Poustevna (ligne Decin – Bad Schandau – Sebnitz – Rumburk).

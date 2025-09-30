@@ -1,4 +1,9 @@
-{{ $logo := resources.Get (printf "/images/logos/%s.svg" .operator) }}
-{{ if $logo }}
-<img src="{{ $logo.RelPermalink }}" alt="" class="a-operator-logo" {{ if .pagefind }}data-pagefind-meta="image[src]"{{ end }} />
-{{ end }}
+{{- $logo := resources.Get (printf "/images/logos/%s.svg" .operator) -}}
+{{- if $logo -}}
+  <img
+    src="{{ $logo.RelPermalink }}"
+    alt=""
+    class="a-operator-logo"
+    {{- if .pagefind -}}data-pagefind-meta="image[src]"{{- end -}}
+  />
+{{- end -}}

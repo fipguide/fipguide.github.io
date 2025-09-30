@@ -145,4 +145,5 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt

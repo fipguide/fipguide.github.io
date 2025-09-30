@@ -4,21 +4,22 @@ title: "Site DB – FIP (International)"
 description: "Informations de réservation pour les billets FIP incluant une section en Allemagne."
 
 params:
-    classes:
-        first: "6,90€"
-        second: "5,50€"
-    fip_50: true
-    reservations: true
-    booking_link: "https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE"
-    additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
-    type: "website"
+  classes:
+    first: "6,90€"
+    second: "5,50€"
+  fip_50: true
+  reservations: true
+  booking_link: "https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE"
+  additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
+  type: "website"
 
 aliases:
   - db_website_fip_international
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+
+## Billets FIP 50
 
 Des billets FIP 50 pour des trajets en Allemagne et vers les pays voisins peuvent être réservés en ligne via la Deutsche Bahn. Le billet doit obligatoirement inclure au moins une section en Allemagne. Le billet FIP 50 est émis pour l’ensemble du trajet. Il **n’est pas valable dans le pays où la carte FIP a été délivrée** — un billet supplémentaire est requis pour cette partie.
 
@@ -26,6 +27,7 @@ La réservation est uniquement possible via ce [lien](https://int.bahn.de/fr/buc
 
 Les billets FIP 50 peuvent être achetés pour les pays suivants, à condition qu’une partie du trajet se fasse en Allemagne :
 
+<!-- prettier-ignore -->
 - Autriche
 - Belgique
 - République tchèque
@@ -38,10 +40,12 @@ Les billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 - Pologne
 - Suisse
 {.o-section--columns-3}
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+
+## Réservations
 
 Le tarif de réservation est facturé par trajet. Pour des correspondances avec plusieurs trains, une seule réservation suffit.
 

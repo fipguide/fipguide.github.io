@@ -116,6 +116,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reserv
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Beschreibung:** \
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -156,7 +157,7 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
     reservations="nil"
 %}}
 
-**FIP Globalpreis**
+## FIP Globalpreis
 
 In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
 ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
@@ -187,4 +188,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 ## Quellen
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
