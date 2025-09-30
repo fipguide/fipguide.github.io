@@ -292,9 +292,6 @@ details > summary {
   cursor: pointer;
 }
 
-.a-operator-logo {
-  height: 1.3em;
-  width: auto;
-  aspect-ratio: 120 / 50;
-  border-radius: var(--border-radius-m);
+dd {
+  margin-inline-start: 0;
 }
