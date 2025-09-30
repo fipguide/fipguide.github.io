@@ -26,11 +26,13 @@ Through the DSB website, you can book seat reservations for domestic Danish trai
 
 Foreign reservations can be purchased via [DSB Travel B-Europe](https://travel.b-europe.com/dsb-rail/en/reservation-only) for the following countries:
 
+<!-- prettier-ignore -->
 - Austria
 - Belgium
 - Czech Republic
 - Germany
 - Luxembourg
 - Netherlands
-  {.o-section--columns-2}
-  {{% /booking-section %}}
+{.o-section--columns-2}
+
+{{% /booking-section %}}

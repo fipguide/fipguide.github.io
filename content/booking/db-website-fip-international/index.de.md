@@ -27,6 +27,7 @@ Die Buchung ist nur über den [Link](https://www.bahn.de/buchung/start?KL=2&ET=F
 
 FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ein Teilabschnitt in Deutschland enthalten ist:
 
+<!-- prettier-ignore -->
 - Belgien
 - Dänemark
 - Deutschland
@@ -38,8 +39,9 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 - Polen
 - Schweiz
 - Tschechien
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 

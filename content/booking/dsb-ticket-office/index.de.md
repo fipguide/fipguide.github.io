@@ -33,6 +33,7 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 Internationale Reservierungen können an den internationalen Ticketschaltern in den Hauptbahnhöfen von Aarhus, Kopenhagen und Odense nur für folgende Länder ausgestellt werden:
 
+<!-- prettier-ignore -->
 - Belgien
 - Dänemark
 - Deutschland
@@ -44,5 +45,6 @@ Internationale Reservierungen können an den internationalen Ticketschaltern in 
 - Schweden
 - Schweiz
 - Tschechien
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}

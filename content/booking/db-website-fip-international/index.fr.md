@@ -27,6 +27,7 @@ La réservation est uniquement possible via ce [lien](https://int.bahn.de/fr/buc
 
 Les billets FIP 50 peuvent être achetés pour les pays suivants, à condition qu’une partie du trajet se fasse en Allemagne :
 
+<!-- prettier-ignore -->
 - Autriche
 - Belgique
 - République tchèque
@@ -38,8 +39,9 @@ Les billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 - Pays-Bas
 - Pologne
 - Suisse
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 

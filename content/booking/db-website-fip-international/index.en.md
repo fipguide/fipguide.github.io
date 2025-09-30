@@ -27,6 +27,7 @@ Booking is only possible via the [link](https://int.bahn.de/en/buchung/start?KL=
 
 FIP 50 Tickets can be purchased for the following countries, as long as a section in Germany is included:
 
+<!-- prettier-ignore -->
 - Austria
 - Belgium
 - Czech Republic
@@ -38,8 +39,9 @@ FIP 50 Tickets can be purchased for the following countries, as long as a sectio
 - Netherlands
 - Poland
 - Switzerland
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 

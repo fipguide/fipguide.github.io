@@ -33,6 +33,7 @@ Le tarif de réservation est facturé par trajet. Pour des correspondances avec 
 
 Des réservations internationales peuvent être effectuées aux guichets internationaux dans les gares principales d’Aarhus, Copenhague et Odense pour les pays suivants :
 
+<!-- prettier-ignore -->
 - Autriche
 - Belgique
 - République tchèque
@@ -44,5 +45,6 @@ Des réservations internationales peuvent être effectuées aux guichets interna
 - Norvège
 - Suède
 - Suisse
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}

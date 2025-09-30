@@ -33,6 +33,7 @@ The reservation price is charged per journey. For connections with transfers, yo
 
 International reservations can be issued at the international ticket counters at the main stations in Aarhus, Copenhagen, and Odense for the following countries:
 
+<!-- prettier-ignore -->
 - Austria
 - Belgium
 - Czech Republic
@@ -44,5 +45,6 @@ International reservations can be issued at the international ticket counters at
 - Norway
 - Sweden
 - Switzerland
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}

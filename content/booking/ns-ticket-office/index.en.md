@@ -19,6 +19,7 @@ aliases:
 
 FIP 50 tickets can only be purchased at full-service (light) stations with ticket counters. As of December 2023, these are:
 
+<!-- prettier-ignore -->
 - Amsterdam Centraal
 - Amsterdam Sloterdijk
 - Amsterdam Zuid
@@ -36,8 +37,9 @@ FIP 50 tickets can only be purchased at full-service (light) stations with ticke
 - Utrecht Centraal
 - Zaandam
 - Zwolle
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 

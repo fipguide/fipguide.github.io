@@ -26,11 +26,13 @@ Via le site web de la DSB, vous pouvez réserver des sièges pour les trains nat
 
 Les réservations internationales peuvent être achetées via [DSB Travel B-Europe](https://travel.b-europe.com/dsb-rail/en/reservation-only) pour les pays suivants :
 
+<!-- prettier-ignore -->
 - Autriche
 - Belgique
 - République tchèque
 - Allemagne
 - Luxembourg
 - Pays-Bas
-  {.o-section--columns-2}
-  {{% /booking-section %}}
+{.o-section--columns-2}
+
+{{% /booking-section %}}

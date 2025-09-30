@@ -26,6 +26,7 @@ La réservation est uniquement possible via le lien spécifique dans le DB Reise
 
 Les billets FIP 50 peuvent être achetés pour les pays suivants :
 
+<!-- prettier-ignore -->
 - Pologne
 - Autriche
 - Italie (uniquement la ligne du Brenner avec l’Autriche et le ECE Francfort – Milan)
@@ -36,8 +37,9 @@ Les billets FIP 50 peuvent être achetés pour les pays suivants :
 - Pays-Bas
 - Belgique
 - France
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 

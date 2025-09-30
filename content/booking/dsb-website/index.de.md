@@ -26,11 +26,13 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 Ausländische Reservierungen können [DSB Travel B-Europe](https://travel.b-europe.com/dsb-rail/en/reservation-only) für folgende Länder erworben werden:
 
+<!-- prettier-ignore -->
 - Belgien
 - Deutschland
 - Luxemburg
 - Niederlande
 - Österreich
 - Tschechien
-  {.o-section--columns-2}
-  {{% /booking-section %}}
+{.o-section--columns-2}
+
+{{% /booking-section %}}

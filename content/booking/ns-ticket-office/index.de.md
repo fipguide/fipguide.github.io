@@ -19,6 +19,7 @@ aliases:
 
 FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies:
 
+<!-- prettier-ignore -->
 - Amsterdam Centraal
 - Amsterdam Sloterdijk
 - Amsterdam Zuid
@@ -36,8 +37,9 @@ FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenscha
 - Utrecht Centraal
 - Zaandam
 - Zwolle
-  {.o-section--columns-3}
-  {{% /booking-section %}}
+{.o-section--columns-3}
+
+{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
