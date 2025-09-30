@@ -12,18 +12,23 @@ booking:
   fip-global-fare: FIP Globalpreis
   reservation: Reservierung
   reservation-costs: Reservierungskosten
-  title: Buchungsplattformen
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+countries:
+  overview: Länder mit FIP Akzeptanz
+  selection:
+    aria-label: Land auswählen
+    dropdown-label: Verfügbare Länder
+    title: Länder
+  without-fip: Länder ohne FIP Akzeptanz
 country:
   many: Länder
   one: Land
   other: Länder
-countryselection: Länderauswahl
 editPage: Seite bearbeiten
 footer-love:
-  aria-label: Made with love in Frankfurt & Köln
-  text: Made with ♥️ in Frankfurt & Köln
+  aria-label: Made with love in Europa
+  text: Made with ♥️ in Europa
 general: Übergreifendes
 highlight:
   important: Wichtige Information
@@ -33,11 +38,29 @@ home-page-text: FIP Guide Startseite
 information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
   rechtliche Verbindung zu FIP oder Bahngesellschaften.
+interactiveMap:
+  legend:
+    available: FIP Guide verfügbar
+    pending: Inhalt noch nicht verfügbar
+    unavailable: Keine FIP-Akzeptanz
+  loading: Lade interaktive Karte...
+  resetZoom: Zoom zurücksetzen
+  title: Interaktive Länderkarte
+  zoomIn: Hineinzoomen
+  zoomOut: Herauszoomen
+language-switcher:
+  aria-label: Sprache wechseln
+  dropdown-label: Verfügbare Sprachen
 menu-close: Schließen
 menu-open: Menü
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
+operators:
+  selection:
+    aria-label: Betreiber auswählen
+    dropdown-label: Verfügbare Betreiber
+    title: Betreiber
 operators_without_fip: Betreiber ohne FIP
 related:
   countries: Verwandte Länder
@@ -57,6 +80,10 @@ support:
     vorbei, um Inhalte beizutragen. Alternativ kannst du uns auch über das <a
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
+theme:
+  switch-to-auto: Zu automatischem Modus wechseln
+  switch-to-dark: Zu dunklem Modus wechseln
+  switch-to-light: Zu hellem Modus wechseln
 toc_name: Inhalt
 updateDate: Zuletzt aktualisiert
 wip: >-

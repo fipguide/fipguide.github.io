@@ -1,46 +1,46 @@
 {{ partial "headMeta" . }}
 
+
 <title>
-  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
+  {{ if .IsHome }}
+    {{ site.Title }}
+  {{ else }}
+    {{ printf "%s | %s" .Title site.Title }}
+  {{ end }}
 </title>
 {{ partialCached "head/js" . }}
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
   {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" rel="preload" as="style" />
+  <link
+    rel="stylesheet"
+    href="{{ $style.RelPermalink }}"
+    rel="preload"
+    as="style"
+  />
 {{ end }}
 {{ if .IsHome }}
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
-<script src="/pagefind/pagefind-ui.js" defer></script>
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <script src="/pagefind/pagefind-ui.js" defer></script>
 {{ end }}
 <script type="module">
-  await import('/pagefind/pagefind-highlight.js');
+  await import("/pagefind/pagefind-highlight.js");
   new PagefindHighlight({ highlightParam: "highlight" });
 </script>
 
 <!-- include a favicon for your site if you have it, else omit the line below
      Location of favicon can be in mytheme/static/favicon.ico -->
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-<link rel="apple-touch-icon" type="image/x-icon" href="/favicon.ico">
-<link rel="mask-icon" type="image/x-icon" href="/favicon.ico">
-<link rel="canonical" href="{{ .Permalink }}"/>
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="mask-icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="canonical" href="{{ .Permalink }}" />
 
-{{- $currentPage := . -}}
-{{- range .Site.Languages -}}
-  {{- $lang := . -}}
-  {{- if eq $lang.Lang $currentPage.Lang -}}
-    <link rel="alternate" hreflang="{{ $lang.Lang }}" href="{{ $currentPage.Permalink }}" />
-  {{- else -}}
-    {{- with $currentPage.Translations -}}
-      {{- range . -}}
-        {{- if eq .Lang $lang.Lang -}}
-          <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
+{{- range .AllTranslations -}}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  {{ if eq .Lang "en" }}
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+  {{ end }}
 {{- end -}}
-<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}" />
 
 {{ partial "structuredData" . }}

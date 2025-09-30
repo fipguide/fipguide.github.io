@@ -4,19 +4,18 @@ $breakpoint-lg: 992px;
 $breakpoint-xl: 1200px;
 $breakpoint-xxl: 1400px;
 
-$link-hovered: #8F2501;
-$link-default: #BA3D12;
+$link-hovered: #8f2501;
+$link-default: #ba3d12;
 $link-special: #000000;
-$bg-default: #FFFFFF;
-$bg-neutral: #EBE9E1;
-$bg-accent: #FFD900;
-$bg-accent2: #DABA00;
+$bg-default: #ffffff;
+$bg-neutral: #ebe9e1;
+$bg-accent: #ffd900;
+$bg-accent2: #daba00;
 $bg-accent3: #fff284;
-$color-onDark: #FFFFFF;
 $color-onLight: #000000;
-$color-table-border: #5B5B5B;
+$color-table-border: #5b5b5b;
 
-body {
+html {
   --pagefind-ui-scale: 1;
   --pagefind-ui-text: #000;
   --link-default: #{$link-default};
@@ -27,15 +26,42 @@ body {
   --bg-accent: #{$bg-accent};
   --bg-accent2: #{$bg-accent2};
   --bg-accent3: #{$bg-accent3};
-  --color-onDark: #{$color-onDark};
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
-  --border-radius-s: .4rem;
-  --border-radius-m: .8rem;
+  --border-radius-s: 0.4rem;
+  --border-radius-m: 0.8rem;
   --border-radius-l: 1.6rem;
   --pagefind-ui-border-radius: var(--border-radius-l);
   --pagefind-ui-border: #000;
-  --box-shadow: 0 .4rem 1rem rgba(0,0,0,.25);
-  --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0,0,0,.1);
+  --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.1);
+  --highlight-color-tip: #c4f2ff;
+  --highlight-color-inofficial: #f0f3f5;
+  --highlight-color-important: #ffe3d9;
+  --border: 0.1rem solid transparent;
+  --pagefind-ui-font: roboto, Arial, Helvetica, sans-serif;
+}
+
+html[data-theme="dark"] {
+  --pagefind-ui-text: #fff;
+  --link-default: #ff6b3d;
+  --link-hovered: #ff8a5b;
+  --link-special: #ffffff;
+  --bg-default: #151b23;
+  --bg-neutral: #0d1117;
+  --bg-accent: #86761a;
+  --bg-accent2: #daba00;
+  --bg-accent3: #fff284;
+  --color-onLight: #ffffff;
+  --color-table-border: #555;
+  --color-body: #e0e0e0;
+  --pagefind-ui-border: #555;
+  --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
+  --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);
+  --pagefind-ui-background: var(--bg-default);
+  --highlight-color-tip: #1a4a5c;
+  --highlight-color-inofficial: #2a2d30;
+  --highlight-color-important: #4a2a1a;
+  --border: 0.1rem solid #3d444d;
 }

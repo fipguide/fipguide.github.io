@@ -16,6 +16,7 @@ This project provides information and usage instructions for FIP as well as spec
 {{% faq "What discounts do I get through FIP?" %}}
 
 There are two ways to use it:
+
 1. **FIP Card:** The FIP Card is valid for three years and entitles the holder to unlimited purchase of discounted train tickets abroad.
 2. **FIP Coupons:** Each year, FIP members can receive FIP Coupons, which allow for up to eight days of travel.
 

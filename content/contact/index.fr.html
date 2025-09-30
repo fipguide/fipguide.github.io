@@ -1,0 +1,76 @@
+---
+title: "Contact"
+description: "Contactez l’équipe derrière le FIP Guide – nous sommes à votre disposition pour vos questions, remarques ou contributions de contenu."
+---
+
+<p>
+  Contactez l’équipe derrière le FIP Guide – nous sommes à votre disposition
+  pour vos questions, remarques ou contributions de contenu.
+</p>
+
+<p id="success">
+  Merci ! Votre message a été envoyé avec succès. Nous vous répondrons dès que
+  possible.
+</p>
+
+<form
+  action="https://api.web3forms.com/submit"
+  method="POST"
+  class="m-form"
+  aria-label="Formulaire de contact"
+  id="form"
+>
+  <input
+    type="hidden"
+    name="access_key"
+    value="29293094-c9cc-48b7-9ff6-31b42534e211"
+  />
+  <input type="hidden" name="from_name" value="FIP Guide" />
+  <input
+    type="hidden"
+    name="subject"
+    value="Nouveau message depuis FIP Guide"
+  />
+  <input
+    type="hidden"
+    name="redirect"
+    value="{{< ref "contact" >}}?success=true"
+  />
+
+  <label for="name"
+    >Nom :
+    <input type="text" id="name" name="name" autocomplete="name" required />
+  </label>
+
+  <label for="email"
+    >E-mail :
+    <input type="email" id="email" name="email" autocomplete="email" required />
+  </label>
+
+  <label for="message"
+    >Message :
+    <textarea
+      id="message"
+      name="message"
+      rows="4"
+      cols="50"
+      required
+    ></textarea>
+  </label>
+
+  <input type="submit" class="a-button" value="Envoyer" />
+</form>
+
+Ou écrivez-nous un e-mail :
+<a href="mailto:nextstop@fipguide.org">nextstop@fipguide.org</a>
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+
+  window.addEventListener("DOMContentLoaded", () => {
+    if (urlParams.get("success") === "true") {
+      document.getElementById("form").style.display = "none";
+      document.getElementById("success").style.display = "block";
+    }
+  });
+</script>

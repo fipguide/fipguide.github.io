@@ -11,18 +11,23 @@ booking:
   fip-global-fare: FIP Global Fare
   reservation: Reservation
   reservation-costs: Reservation Costs
-  title: Booking platforms
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+countries:
+  overview: Countries with FIP acceptance
+  selection:
+    aria-label: Select a country
+    dropdown-label: Available countries
+    title: Countries
+  without-fip: Countries without FIP acceptance
 country:
   many: countries
   one: country
   other: countries
-countryselection: choose country
 editPage: Edit page
 footer-love:
-  aria-label: Made with love in Frankfurt & Cologne
-  text: Made with ♥️ in Frankfurt & Cologne
+  aria-label: Made with love in Europe
+  text: Made with ♥️ in Europe
 general: general
 highlight:
   important: Important Information
@@ -32,11 +37,29 @@ home-page-text: FIP Guide Home Page
 information-disclaimer-short: >-
   The information provided is unofficial and without guarantee. There is no
   legal connection to FIP or railway companies.
+interactiveMap:
+  legend:
+    available: FIP Guide available
+    pending: Content not available yet
+    unavailable: No FIP acceptance
+  loading: Loading interactive map...
+  resetZoom: Reset Zoom
+  title: Interactive Country Map
+  zoomIn: Zoom In
+  zoomOut: Zoom Out
+language-switcher:
+  aria-label: Switch language
+  dropdown-label: Available languages
 menu-close: Close
 menu-open: Menu
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
+operators:
+  selection:
+    aria-label: Select an operator
+    dropdown-label: Available operators
+    title: Operators
 operators_without_fip: Operators without FIP
 related:
   countries: Related Countries
@@ -53,6 +76,10 @@ support:
     to contribute content. Alternatively, you can also write to us via the <a
     href="/en/contact">contact form</a>.
   title: Support Us
+theme:
+  switch-to-auto: Switch to auto mode
+  switch-to-dark: Switch to dark mode
+  switch-to-light: Switch to light mode
 toc_name: Contents
 updateDate: Last updated
 wip: >-

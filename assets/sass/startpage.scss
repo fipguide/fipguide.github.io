@@ -1,4 +1,4 @@
-.o-startpage h2:not(#welcome-to-the-fip-guide) {
+.o-startpage h2:not(.m-teaser__headline) {
   margin-top: 2rem;
 }
 
@@ -7,18 +7,19 @@
   margin-bottom: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  gap: 4rem;
 
   @media (max-width: #{$breakpoint-md}) {
     display: flex;
     flex-direction: column;
   }
 
-  h2 {
-    font-family: Sansita,Arial,Helvetica,sans-serif;
+  h1 {
+    font-family: Sansita, Arial, Helvetica, sans-serif;
     font-weight: 800;
     font-size: 6.2rem;
     line-height: 1.1;
+    margin-bottom: 1rem;
   }
 
   > div {
@@ -26,7 +27,7 @@
   }
 
   @media (max-width: #{$breakpoint-md}) {
-    h2 {
+    h1 {
       font-size: 4.8rem;
     }
   }
@@ -39,28 +40,28 @@
 }
 
 .o-startpage__shortcut-wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 3fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 3fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
 
-    @media (max-width: #{$breakpoint-md}) {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-    }
+  @media (max-width: #{$breakpoint-md}) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
 }
 
 .o-startpage__news-wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
 
-    @media (max-width: #{$breakpoint-md}) {
-      display: flex;
-      flex-wrap: wrap;
-    }
+  @media (max-width: #{$breakpoint-md}) {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .o-startpage__search {

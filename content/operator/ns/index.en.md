@@ -11,10 +11,10 @@ Nederlandse Spoorwegen (NS) is the state railway company of the Netherlands and 
 
 ## Summary
 
-* NS accepts FIP Coupons and FIP 50 tickets.
-* Reservations are generally not required.
-* Supplement required for Eurocity Direct `ECD` and partly for Intercity Direct `ICD`.
-* For FIP Coupons, a gate-pass coupon is required for access through station gates.
+- NS accepts FIP Coupons and FIP 50 tickets.
+- Reservations are generally not required.
+- Supplement required for Eurocity Direct (`ECD`) and partly for Intercity Direct (`ICD`).
+- For FIP Coupons, a gate-pass coupon is required for access through station gates.
 
 ## Validity of FIP Tickets
 
@@ -26,35 +26,37 @@ FIP Coupons and FIP 50 tickets are valid on NS services. For cross-border journe
 
 ## Train Categories and Reservations
 
-Within the Netherlands, reservations are not required on NS and are often not possible. For cross-border ICE and IC trains to Germany, reservations are possible and, for example, mandatory in summer 2025 (only for cross-border journeys). Supplements must be paid for Eurocity Direct and partly for Intercity Direct trains.
+Within the Netherlands, reservations are not required on NS and are often not possible. For cross-border ICE and IC trains to Germany, reservations are possible and, for example, mandatory in summer 2025 (only for cross-border journeys).
+
+Supplements must be paid for Eurocity Direct and partly for Intercity Direct trains.
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category  %}}
 **Description:** \
 High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main), but can also be used within the Netherlands between Amsterdam, Utrecht, and Arnhem with FIP Coupons without a supplement. However, a supplement is required with FIP 50 tickets. \
 **Reservation possible:** yes \
-**Reservation required:** no (cross-border during high season: yes) \
+**Reservation required:** ⚠️ no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
-When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons.
+When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons. \
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
 {{% /expander %}}
 
 {{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
 **Description:** \
 International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp. \
-[More information](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
+[More information](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
 Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid for both FIP 50 tickets and FIP Coupons.
 This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 
 {{% expander "Eurocity (EC)" traincategory category %}}
 **Description:** \
 International train between Rotterdam and Brussels with several intermediate stops. \
-[More information](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
+[More information](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -68,7 +70,7 @@ Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam 
 **Supplement:** ⚠️ \
 When using FIP 50 tickets between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid. No supplement is required with FIP Coupons. \
 This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html). \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 
@@ -102,23 +104,23 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 
 ### Online
 
-{{% booking id="db_website"
+{{% booking id="db-website"
     subtitle="For national and cross-border connections"
 /%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Dutch section, for Deutsche Bahn employees"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)"
 /%}}
 
 ### On-Site
 
-{{% booking id="ns_ticket_office" /%}}
+{{% booking id="ns-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### On the Train
 
@@ -132,12 +134,15 @@ No discounts are known.
 
 ### Ticket Barriers at Stations
 
-With the FIP Coupon, you receive an NS gate-pass coupon with a barcode to open the gates at NS stations. This is a gate-pass, not a ticket. It is valid for use on 8 separate days (00:00 to 23:59) within a period of 3 months from the first day of use. The first use at a gate sets the start date. Within a day:
+With an FIP coupon, you will receive an NS access coupon with a barcode to open the station gates. \
+This is not a ticket, but an access pass, valid for:
 
-- You can check in and out 6 times at the same station.
-- You can check in and out a total of 12 times nationwide.
+- Up to 8 separate days within a 3-month period.
+- Each day (from 00:00 to 23:59):
+  - Up to 6 entries/exits at the same station.
+  - Up to 12 passages in total per day.
 
-If needed, a new gate-pass coupon can be requested at the NS ticket counter.
+If needed, a new access coupon can be requested at the NS ticket office.
 
 ## Recommendations
 

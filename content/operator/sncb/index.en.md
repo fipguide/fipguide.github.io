@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SNCB"
+title: "SNCB / NMBS"
 description: "Find out about the FIP conditions at SNCB."
 country:
   - "belgium"
@@ -37,6 +37,27 @@ High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run betwee
 {{% expander "Intercity (IC)" traincategory category %}}
 **Description:** \
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops. \
+**Reservation possible:** no \
+**Reservation required:** no
+{{% /expander %}}
+
+{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
+**Description:** \
+International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp. \
+[More information](https://www.nsinternational.com/en/trains/eurocity) \
+**Reservation possible:** no \
+**Reservation required:** no \
+**Supplement:** ⚠️ \
+Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid for both FIP 50 tickets and FIP Coupons.
+This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+With FIP 50 tickets, prices may vary by train category.
+{{% /expander %}}
+
+{{% expander "Eurocity (EC)" traincategory category %}}
+**Description:** \
+International train between Rotterdam and Brussels with several intermediate stops. \
+[More information](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -79,27 +100,28 @@ Additional trains to certain tourist destinations, often simply referred to as `
 ## Ticket and Reservation Purchase
 
 ### Online
-{{% booking id="sncb_website" %}}
+
+{{% booking id="sncb-website" %}}
 When using a SNCB FIP Coupon, a cross-border ticket can be booked via the website, which takes the free travel within the Belgian section into account. To do this, select the discount "100% Discount Belgium (SNCB)" for the travelers. This allows, for example, very affordable bookings for trains from Belgium to Lille in France (except for the `TGV`, which has a global price and is not operated by SNCB).
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets, with ticket portions valid only for the Belgian section, for employees of Deutsche Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets valid for the entire route (not valid in the home country)"
 /%}}
 
 ### On-site
 
-{{% booking id="sncb_ticket_office" /%}}
+{{% booking id="sncb-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### On the train
 
-If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. According to SNCB, a surcharge of 9 euros is charged here. [^2]
+If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. The usual SNCB surcharge for on-board sales is not charged in this case. [^2]
 
 ## Discounts
 
@@ -109,7 +131,7 @@ Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to 6.70 euros (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note *No Supplement Necessary* is indicated. For FIP 50 tickets, this is already included in the price. [^1]
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to 6.70€ (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. For FIP 50 tickets, this is already included in the price. [^1]
 
 ## Recommendations
 
@@ -120,4 +142,5 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-[^2]: [SNCB On-board Fare](https://www.belgiantrain.be/en/tickets-and-railcards/on-board-fare)
+
+[^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)

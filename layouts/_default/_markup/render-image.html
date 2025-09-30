@@ -1,7 +1,12 @@
 {{ if and .Destination (or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://")) }}
   <!-- If the picture is fetched from external sources, don't do image processing -->
   {{ $remoteImage := resources.GetRemote .Destination }}
-  <img src="{{ $remoteImage.Permalink }}" alt="{{ .Title }}" title="{{ .Title }}" loading="lazy"/>
+  <img
+    src="{{ $remoteImage.Permalink }}"
+    alt="{{ .Title }}"
+    title="{{ .Title }}"
+    loading="lazy"
+  />
 {{ else }}
   <!-- Local picture with image processing -->
   {{ $image := "" }}

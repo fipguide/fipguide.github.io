@@ -8,9 +8,9 @@
 {{ $mainEntity := "" }}
 {{ if (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
   {{ $mainEntity = "Article" }}
-{{ else if eq .Page.Type "news"}}
+{{ else if eq .Page.Type "news" }}
   {{ $mainEntity = "NewsArticle" }}
-{{ else if eq .Page.Type "generalinformation"}}
+{{ else if eq .Page.Type "generalinformation" }}
   {{ $mainEntity = "Question" }}
 {{ end }}
 

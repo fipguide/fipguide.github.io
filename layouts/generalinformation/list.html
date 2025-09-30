@@ -1,19 +1,19 @@
 {{ define "main" }}
-<article class="o-container o-single o-single--with-sidemenu">
-  {{ partial "sidemenu" . }}
-  <div class="o-single__content" data-pagefind-body>
-    <div class="o-single__container">
-      <div class="o-single__content-header">
-        <div class="o-single__content-header-title">
-          <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+  <article class="o-container o-single o-single--with-sidemenu">
+    {{ partial "sidemenu" . }}
+    <div class="o-single__content" data-pagefind-body>
+      <div class="o-single__container">
+        <div class="o-single__content-header">
+          <div class="o-single__content-header-title">
+            <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+          </div>
+          {{ partial "updateDate.html" . }}
         </div>
-        {{ partial "updateDate.html" . }}
+        <div data-pagefind-weight="2.5">
+          {{ partial "content" . }}
+        </div>
       </div>
-      <div data-pagefind-weight="2.5">
-        {{ partial "content" . }}
-      </div>
+      {{ partial "image" (partial "helper/contentImage" . ) }}
     </div>
-    {{ partial "image" (partial "helper/contentImage" . ) }}
-  </div>
-</article>
+  </article>
 {{ end }}

@@ -1,81 +1,81 @@
 .o-last-updated {
-    font-size: 1.3rem;
+  font-size: 1.3rem;
 }
 
 .o-last-updated > .material-symbols-rounded {
-    font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 code {
-    font-size: inherit;
-    font-weight: 700;
-    color: var(--color-onLight);
-    background-color: var(--bg-accent3);
-    padding: .2rem .8rem;
-    border-radius: var(--border-radius-s);
+  font-size: inherit;
+  font-weight: 700;
+  color: $color-onLight;
+  background-color: var(--bg-accent3);
+  padding: 0.2rem 0.8rem;
+  border-radius: var(--border-radius-s);
 }
 
 table {
-    border-collapse: collapse;
-    margin-bottom: 1rem;
-    margin-left: 0.2rem;
-    box-shadow: 0 0.4rem 0.4rem rgba(0,0,0,.1);
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  margin-left: 0.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1);
 }
 
 thead {
-    th:first-child {
-        border-top-left-radius: var(--border-radius-s);
-    }
-    th:last-child {
-        border-top-right-radius: var(--border-radius-s);
-    }
+  th:first-child {
+    border-top-left-radius: var(--border-radius-s);
+  }
+  th:last-child {
+    border-top-right-radius: var(--border-radius-s);
+  }
 
-    th {
-        background: $link-hovered;
-        color: white;
-        text-align: left;
-    }
+  th {
+    background: var(--link-hovered);
+    color: var(--bg-neutral);
+    text-align: left;
+  }
 }
 
 tbody {
-    tr {
-        border-bottom: .1rem solid $color-table-border;
-    }
+  tr {
+    border-bottom: 0.1rem solid $color-table-border;
+  }
 
-    tr:nth-of-type(even) {
-        background-color: $bg-default;
-    }
+  tr:nth-of-type(even) {
+    background-color: var(--bg-default);
+  }
 
-    tr:last-of-type {
-        border-bottom: 2px solid $link-hovered;
-    }
+  tr:last-of-type {
+    border-bottom: 2px solid $link-hovered;
+  }
 }
 
 th,
 td {
-    padding: 1rem;
+  padding: 1rem;
 }
 
 .footnotes {
-    p {
-        text-align: left;
-    }
+  p {
+    text-align: left;
+  }
 
-    hr {
-        display: none;
-    }
+  hr {
+    display: none;
+  }
 
-    ol {
-        padding-left: 2rem;
-        list-style-position: outside;
-    }
+  ol {
+    padding-left: 2rem;
+    list-style-position: outside;
+  }
 }
 
-p:has( + span) {
-    margin-bottom: 0;
+p:has(+ span) {
+  margin-bottom: 0;
 }
 
 article p:last-child,
 section p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }

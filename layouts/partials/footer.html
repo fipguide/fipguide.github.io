@@ -1,24 +1,70 @@
-<div class="o-footer o-container">
-  <div class="o-footer__firstline">
-    <div class="col-12 col-lg-6" aria-label='{{ T "footer-love.aria-label"}}'>
-      {{ T "footer-love.text"}}
-    </div>
-    <div class="col-12 col-lg-6 o-footer__links">
-      {{ $contactPage := site.GetPage "contact" }}
-      {{ if $contactPage }}
-          <a class="o-footer__link" href="{{ $contactPage.RelPermalink }}">{{ $contactPage.Title }}</a>
-      {{ end }}
-      {{ $imprintPage := site.GetPage "imprint" }}
-      {{ if $imprintPage }}
-          <a class="o-footer__link" href="{{ $imprintPage.RelPermalink }}">{{ $imprintPage.Title }}</a>
-      {{ end }}
-      {{ $privacyPage := site.GetPage "privacy" }}
-      {{ if $privacyPage }}
-          <a class="o-footer__link" href="{{ $privacyPage.RelPermalink }}">{{ $privacyPage.Title }}</a>
-      {{ end }}
-    </div>
+<div class="o-footer__line">
+  <div aria-label="{{ T "footer-love.aria-label" }}">
+    {{ T "footer-love.text" }}
   </div>
-  <div>
-    {{ T "information-disclaimer-short"}}
+  <div class="o-footer__links">
+    {{ $contactPage := site.GetPage "contact" }}
+    {{ if $contactPage }}
+      <a class="o-footer__link" href="{{ $contactPage.RelPermalink }}"
+        >{{ $contactPage.Title }}</a
+      >
+    {{ end }}
+    {{ $imprintPage := site.GetPage "imprint" }}
+    {{ if $imprintPage }}
+      <a class="o-footer__link" href="{{ $imprintPage.RelPermalink }}"
+        >{{ $imprintPage.Title }}</a
+      >
+    {{ end }}
+    {{ $privacyPage := site.GetPage "privacy" }}
+    {{ if $privacyPage }}
+      <a class="o-footer__link" href="{{ $privacyPage.RelPermalink }}"
+        >{{ $privacyPage.Title }}</a
+      >
+    {{ end }}
+  </div>
+</div>
+<div class="o-footer__line">
+  <div>{{ T "information-disclaimer-short" }}</div>
+  <div id="language-switcher" class="o-dropdown">
+    <button
+      id="language-switcher-button"
+      class="o-dropdown__button"
+      aria-expanded="false"
+      aria-haspopup="listbox"
+      aria-controls="language-switcher-dropdown"
+      title="{{ T "language-switcher.aria-label" }}"
+      aria-label="{{ T "language-switcher.aria-label" }}"
+    >
+      {{ partial "icon" "translate" }}
+      <div>{{ $.Site.Language.LanguageName }}</div>
+      <div class="o-dropdown__icon">
+        {{ partial "icon" "keyboard_arrow_down" }}
+      </div>
+    </button>
+    <menu
+      id="language-switcher-dropdown"
+      class="o-dropdown__menu o-dropdown__menu--above o-dropdown__menu--right"
+      role="listbox"
+      aria-hidden="true"
+      aria-label="{{ T "language-switcher.dropdown-label" }}"
+    >
+      {{ range .AllTranslations }}
+        <li
+          class="o-dropdown__item"
+          role="option"
+          {{ if eq $.Site.Language .Language }}aria-selected="true"{{ end }}
+        >
+          <a
+            href="{{ .Permalink }}"
+            class="o-dropdown__link{{ if eq $.Site.Language .Language }}
+              o-dropdown__link--active
+            {{ end }}"
+            {{ if eq $.Site.Language .Language }}aria-current="page"{{ end }}
+          >
+            {{ .Language.LanguageName }}
+          </a>
+        </li>
+      {{ end }}
+    </menu>
   </div>
 </div>

@@ -116,6 +116,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Beschreibung:** \
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -151,17 +152,18 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
 
 ### Vor Ort
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     fip_global_fare=true
     reservations="nil"
 %}}
-**FIP Globalpreis**
+
+## FIP Globalpreis
 
 In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
 ![Beispielticket AVE von Malaga nach Madrid in Klasse T](./images/ave_ticket.webp)
 {{% /booking %}}
 
-{{% booking id="renfe_ticket_office" /%}}
+{{% booking id="renfe-ticket-office" /%}}
 
 ### Im Zug
 
@@ -169,11 +171,12 @@ Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets
 
 ## Ermäßigungen
 
-Kinder bis zu 4 Jahren reisen kostenlos, sofern sie keinen eigenen Sitzplatz benötigen. Kinder bis zu 12 Jahren erhalten eine Ermäßigung von 40% auf den Tarif für Erwachsene. Personen ab 12 Jahren zahlen den Erwachsenentarif.
+Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
 
 ## Tarifliche Besonderheiten
 
-### Reiseunterbrechung
+### Fahrtunterberchungen
+
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
 ## Empfehlungen
@@ -185,4 +188,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 ## Quellen
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

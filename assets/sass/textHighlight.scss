@@ -1,5 +1,5 @@
 .m-text-highlight {
-  background-color: #eee;
+  background-color: var(--bg-neutral);
   padding: 1.2rem;
   margin-bottom: 1.2rem;
   border-radius: var(--border-radius-m);
@@ -11,23 +11,23 @@
   margin-bottom: 1rem;
   text-transform: uppercase;
   font-weight: bold;
-  opacity: .8;
+  opacity: 0.8;
   display: flex;
   align-items: center;
-  gap: .4rem;
+  gap: 0.4rem;
 }
 
 .m-text-highlight--tip {
-  background-color: #C4F2FF;
-  border-left: #1DB5DF solid 1rem;
+  background-color: var(--highlight-color-tip);
+  border-left: #1db5df solid 1rem;
 }
 
 .m-text-highlight--inofficial {
-  background-color: #F0F3F5;
-  border-left: #878C96 solid 1rem;
+  background-color: var(--highlight-color-inofficial);
+  border-left: #878c96 solid 1rem;
 }
 
 .m-text-highlight--important {
-  background-color: #FFE3D9;
-  border-left: #BA3D12 solid 1rem;
+  background-color: var(--highlight-color-important);
+  border-left: #ba3d12 solid 1rem;
 }

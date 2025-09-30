@@ -77,9 +77,9 @@ Hier noch ein paar Beispiele zur besseren Veranschaulichung:
 
 FIP 50:
 
-Beispiel 1: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie kauft dafür ein FIP 50 Ticket von Bahnhof 1 nach Bahnhof 3. Dieses gilt auf dem gesamten Streckenabschnitt. Wichtig, wenn Land A  jedoch das Heimatland der Person ist, gilt das FIP 50 Ticket erst ab Bahnhof 2. Für die Fahrt zwischen Bahnhof 1 oder Bahnhof 2 braucht sie ein anderes Ticket. Das kann zum Beispiel ein normales Ticket zum Regulären Preis sein oder auch andere Tickets (Für DB Mitarbeiter in Deutschland z.B. Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket)
+Beispiel 1: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie kauft dafür ein FIP 50 Ticket von Bahnhof 1 nach Bahnhof 3. Dieses gilt auf dem gesamten Streckenabschnitt. Wichtig, wenn Land A jedoch das Heimatland der Person ist, gilt das FIP 50 Ticket erst ab Bahnhof 2. Für die Fahrt zwischen Bahnhof 1 oder Bahnhof 2 braucht sie ein anderes Ticket. Das kann zum Beispiel ein normales Ticket zum Regulären Preis sein oder auch andere Tickets (Für DB Mitarbeiter in Deutschland z.B. Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket)
 
-Beispiel 2: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie kauft dafür ein FIP 50 Ticket von Bahnhof 1 nach Bahnhof 3. Dieses gilt auf dem gesamten Streckenabschnitt. Wichtig, wenn Land A  jedoch das Heimatland der Person ist, gilt das FIP 50 Ticket erst ab dem Grenztarifpunkt. Für die Fahrt bis zum Grenztarifpunkt benötigt sie ein anderes Ticket. Es ist dabei nicht ausreichend nur ein Ticket bis zum letzten Bahnhof im Land zu erwerben (im Beispiel Bahnhof 2). Dies ist besonders relevant in Ländern in denen keine FIP Tickets gelten wie das Heimatland. DB Mitarbeiter können bei der Fahrt aus Deutschland zum Beispiel Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket nutzen oder müssen alternativ eine reguläre Fahrkarte bis zum ersten Bahnhof im Land B erwerben.
+Beispiel 2: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie kauft dafür ein FIP 50 Ticket von Bahnhof 1 nach Bahnhof 3. Dieses gilt auf dem gesamten Streckenabschnitt. Wichtig, wenn Land A jedoch das Heimatland der Person ist, gilt das FIP 50 Ticket erst ab dem Grenztarifpunkt. Für die Fahrt bis zum Grenztarifpunkt benötigt sie ein anderes Ticket. Es ist dabei nicht ausreichend nur ein Ticket bis zum letzten Bahnhof im Land zu erwerben (im Beispiel Bahnhof 2). Dies ist besonders relevant in Ländern in denen keine FIP Tickets gelten wie das Heimatland. DB Mitarbeiter können bei der Fahrt aus Deutschland zum Beispiel Tagesticket M Fern, Netzcard, Regio Ticket 50 oder Deutschlandticket nutzen oder müssen alternativ eine reguläre Fahrkarte bis zum ersten Bahnhof im Land B erwerben.
 
 Beispiel 3: Eine Person möchte mit einem Zug von Bahnhof 1 nach Bahnhof 3 fahren. Sie hat einen FIP Freifahrtschein für Bahn A und Bahn B. So besitzt sie auf dem gesamten Abschnitt ein gültiges Ticket. Wenn Land A ihr Heimatland ist, besitzt sie nur einen FIP Freifahrtschein für Land B. In diesem Fall braucht sie eine gültiges Ticket von Bahnhof A nach Bahnhof B. Ab Bahnhof B gilt der FIP Freifahrtschein.
 
@@ -132,6 +132,7 @@ Mit dem FIP-Ausweis bist du berechtigt, zu vergünstigten Konditionen die Verkeh
 Es gelten unterschiedliche Regelungen je Betreibergesellschaft. Details erfährst du auf den [Unterseiten der Betreiber]({{< ref "operator" >}}).
 
 Es gibt verschiedene Arten an Vergünstigungen:
+
 1. **Ermäßigte Fahrkarten:** mit dem FIP-Ausweis erhältst du stark vergünstigte Tickets (in der Regel 50% Rabatt auf den Flexpreis bzw. Globalpreis). Es gibt keine Mengenbeschränkung und Beantragungsfristen.
 2. **Kostenlose Fahrten mit FIP-Coupons:** bei vielen FIP-Mitgliedern kannst du mit einem FIP-Coupon kostenlos reisen.
 

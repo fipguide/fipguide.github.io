@@ -25,6 +25,7 @@ FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
 ## Train Categories and Reservations
+
 {{% highlight important %}}
 Only commuter trains can be used without restrictions with FIP Coupons. For other trains, a ticket at the FIP Global Fare usually needs to be purchased.
 {{% /highlight %}}
@@ -40,10 +41,11 @@ International connections from / to France can be booked at the same conditions 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 10€ (Elige Estándar)
 - 13€ (Elige Confort)
 - 23,50€ (Premium)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -59,10 +61,11 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50€ (Elige Estándar)
 - 10€ (Elige Confort)
 - 23,50€ (Premium)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -70,9 +73,10 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50€ (Elige Estándar)
 - 10€ (Elige Confort)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -80,9 +84,10 @@ Passenger trains between regional and high-speed services (up to 250 km/h). FIP 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
+
 - 6,50€ (Elige Estándar)
 - 10€ (Elige Confort)
-{{% /expander %}}
+  {{% /expander %}}
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
 **Description:** \
@@ -91,7 +96,6 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):** 4€
 {{% /expander %}}
-
 
 ### Middle distance
 
@@ -116,6 +120,7 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Description:** \
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -151,7 +156,7 @@ It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hot
 
 ### On-site
 
-{{% booking id="db_ticket_office"
+{{% booking id="db-ticket-office"
     fip_global_fare=true
     reservations="nil"
 %}}
@@ -161,7 +166,7 @@ Tickets for trains requiring reservations can be sold at DB Travel Centers. Plea
 ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
 {{% /booking %}}
 
-{{% booking id="renfe_ticket_office" /%}}
+{{% booking id="renfe-ticket-office" /%}}
 
 ### On the train
 
@@ -169,11 +174,11 @@ If there is no Renfe sales outlet at the departure station, tickets can be purch
 
 ## Discounts
 
-Children up to the age of 4 travel free of charge, provided they do not require their own seat. Children up to the age of 12 receive a 40% discount on the adult fare. Persons aged 12 and over pay the adult fare.
+Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
 
 ## Special Tariff Conditions
 
-### Interruption of Travel
+### Break of journey
 
 With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted along the way.[^2]
 
@@ -186,4 +191,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 ## Sources
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

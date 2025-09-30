@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SNCB"
+title: "SNCB / NMBS"
 description: "Informationen über die FIP-Bedingungen bei SNCB."
 country:
   - "belgium"
@@ -37,6 +37,27 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 {{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
+**Reservierung möglich:** nein \
+**Reservierungspflicht:** nein
+{{% /expander %}}
+
+{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
+**Beschreibung:** \
+Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen. \
+[Weitere Informationen](https://www.nsinternational.com/en/trains/eurocity) \
+**Reservierung möglich:** nein \
+**Reservierungspflicht:** nein \
+**Zuschlag**: ⚠️ \
+Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
+Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
+Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
+{{% /expander %}}
+
+{{% expander "Eurocity (EC)" traincategory category %}}
+**Beschreibung:** \
+Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten. \
+[Weitere Informationen](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -80,27 +101,27 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` 
 
 ### Online
 
-{{% booking id="sncb_website" %}}
+{{% booking id="sncb-website" %}}
 Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem `TGV`, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
 {{% /booking %}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den belgischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 /%}}
 
 ### Vor Ort
 
-{{% booking id="sncb_ticket_office" /%}}
+{{% booking id="sncb-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### Im Zug
 
-Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Laut SNCB wird hier ein Aufschlag von 9 Euro berechnet. [^2]
+Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet. [^2]
 
 ## Ermäßigungen
 
@@ -110,7 +131,7 @@ Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise *No Supplement Necessary* angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
 
 ## Empfehlungen
 
@@ -121,4 +142,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-[^2]: [SNCB Bordpreis](https://www.belgiantrain.be/de/tickets-and-railcards/on-board-fare)
+
+[^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)

@@ -7,7 +7,6 @@ country:
 operator: "dsb"
 ---
 
-
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemark. Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
 
 ## Zusammenfassung
@@ -41,11 +40,11 @@ Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
+{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Eurocity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
-**Reservierungspflicht:** Nur in der Hauptsaison (Sommer)
+**Reservierungspflicht:** ⚠️ Nur in der Hauptsaison (Sommer)
 {{% /expander %}}
 
 {{% expander "Regionalzug (R) ℹ️" traincategory category %}}
@@ -67,35 +66,36 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ### Online
 
-{{% booking id="dsb_website"
+{{% booking id="dsb-website"
     subtitle="Nur für nationale Verbindungen"
 /%}}
 
-{{% booking id="db_website"
+{{% booking id="db-website"
     subtitle="Für nationale und grenzüberschreitende Verbindungen"
 /%}}
 
-{{% booking id="db_website_fip_db"
+{{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 /%}}
 
-{{% booking id="db_website_fip_international"
+{{% booking id="db-website-fip-international"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 /%}}
 
 ### Vor Ort
 
-{{% booking id="dsb_ticket_office" /%}}
+{{% booking id="dsb-ticket-office" /%}}
 
-{{% booking id="db_ticket_office" /%}}
+{{% booking id="db-ticket-office" /%}}
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren reisen kostenlos. Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
+Kinder unter 5 Jahren reisen kostenlos. \
+Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
 
 ## Tarifliche Besonderheiten
 
-### Reiseunterbrechung
+### Fahrtunterberchungen
 
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]
 
