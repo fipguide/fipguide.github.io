@@ -100,6 +100,8 @@ Teilweise kann es zu Problemen bei der Buchung von FIP Ticket von/nach London ko
 
 ### Vor Ort
 
+{{% booking id="eurostar-ticket-office" /%}}
+
 {{% booking id="ns-ticket-office"
     fip_50=nil
     fip_global_fare=true
