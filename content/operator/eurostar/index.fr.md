@@ -91,7 +91,7 @@ Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’af
 {{% booking id="eurostar-phone"
     subtitle="Uniquement Eurostar Rouge"
 %}}
-Des problèmes peuvent survenir lors de la réservation de Billets FIP vers/depuis Londres. Si c’est le cas, essayez un autre canal de réservation.
+La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pas possible via la hotline. Dans ce cas, il est recommandé d’utiliser un autre canal de réservation.
 {{% /booking %}}
 
 {{% booking id="cfl-phone"
