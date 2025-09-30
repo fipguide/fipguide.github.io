@@ -1,6 +1,6 @@
 {{- $url := .Destination -}}
 {{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
-  {{ partial "link" . }}
+  {{- partial "link" . -}}
 {{- else -}}
   <a href="{{ $url | safeURL }}">{{ .Text }}</a>
 {{- end -}}
