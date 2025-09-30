@@ -44,7 +44,7 @@ Selon le trajet et l’occupation (incluant un supplément pour la catégorie de
 
 {{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Description :** \
-*Actuellement, l’exploitation des trains Intercity est suspendue pour des raisons économiques. Les trains sont remplacés par des trains `Ex`.* \
+_Actuellement, l’exploitation des trains Intercity est suspendue pour des raisons économiques. Les trains sont remplacés par des trains `Ex`._ \
 Trains longue distance transfrontaliers exploités commercialement par ZSSK et CD, généralement entre Prague et Bratislava/Zilina, avec peu d’arrêts et une vitesse moyenne élevée. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
@@ -142,9 +142,10 @@ Possible uniquement pour les trajets de 101 km ou plus.
 
 ### Bus et remplacements
 
-Les bus ne sont pas valables avec FIP**, sauf s’ils remplacent un train éligible FIP (service de substitution). [^1]
+Les bus ne sont pas valables avec FIP\*\*, sauf s’ils remplacent un train éligible FIP (service de substitution). [^1]
 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)

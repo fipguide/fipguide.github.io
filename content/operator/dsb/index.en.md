@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 'DSB'
+title: "DSB"
 description: "Information about FIP conditions at DSB."
 country:
- - "denmark"
+  - "denmark"
 operator: "dsb"
 ---
 
@@ -122,4 +122,5 @@ DSB offers reliable and comfortable service. The 1st class is particularly worth
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

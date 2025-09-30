@@ -116,6 +116,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtsscheine werden nur auf nicht reser
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Beschreibung:** \
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -187,4 +188,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 ## Quellen
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

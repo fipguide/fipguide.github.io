@@ -133,7 +133,8 @@ Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf d
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag erforderlich. \
-Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein  oder FIP 50 Ticket.
+Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein oder FIP 50 Ticket.
+
 - 2\. Klasse: 11€
 - 1\. Klasse: 13€
 
@@ -148,4 +149,5 @@ Der FIP-Freifahrtsschein lohnt sich für die SBB CFF FSS besonders, da hier mit 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt

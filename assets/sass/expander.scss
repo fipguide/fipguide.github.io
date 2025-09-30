@@ -7,7 +7,7 @@
   padding: 1.2rem;
   gap: 0.5rem;
   align-items: center;
-  transition: background .3s ease;
+  transition: background 0.3s ease;
 
   &:not(.o-expander__summary--booking) {
     font-weight: 700;
@@ -82,13 +82,13 @@ details > summary::-webkit-details-marker {
   right: 1.2rem;
   font-size: 2.4rem;
   align-self: center;
-  @extend .material-symbols-rounded
+  @extend .material-symbols-rounded;
 }
 
 .details-screen[open] > .o-expander__summary::before {
   content: "keyboard_arrow_up";
   font-size: 2.4rem;
-  @extend .material-symbols-rounded
+  @extend .material-symbols-rounded;
 }
 
 details[open] > .o-expander__summary:not(.o-expander__summary--booking) {

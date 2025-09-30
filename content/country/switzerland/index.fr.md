@@ -4,12 +4,12 @@ title: "Suisse"
 description: "Informations sur les conditions FIP en Suisse et les opérateurs qui proposent des réductions."
 country: "switzerland"
 params:
-    operators_without_fip:
-        - Heimwehfluhbahn (Interlaken - Heimwehfluh)
-        - Téléphérique Wengen - Männlichen
-        - Télécabine Grindelwald - Männlichen (GGM)
-        - Téléphérique Mürren - Allmendhubel (SMA)
-        - Téléphérique Stechelberg - Schilthorn (LSMS)
+  operators_without_fip:
+    - Heimwehfluhbahn (Interlaken - Heimwehfluh)
+    - Téléphérique Wengen - Männlichen
+    - Télécabine Grindelwald - Männlichen (GGM)
+    - Téléphérique Mürren - Allmendhubel (SMA)
+    - Téléphérique Stechelberg - Schilthorn (LSMS)
 ---
 
 ## Informations FIP

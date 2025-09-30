@@ -100,7 +100,7 @@ entre Villa Opicina et Trieste, le coupon FIP ÖBB est valable, mais un petit su
 
 Deux lignes locales relient la Slovaquie à l’Autriche :
 
-- La plus rapide : Bratislava hl.st. – Marchegg – Vienne*(à partir du 10/10/2025).
+- La plus rapide : Bratislava hl.st. – Marchegg – Vienne\*(à partir du 10/10/2025).
 - L’autre : Bratislava Petržalka – Kittsee – Vienne.
 
 Pour les deux, un billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \

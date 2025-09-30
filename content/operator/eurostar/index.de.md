@@ -36,11 +36,11 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:**
-| Relation    | Standard | Plus |
+| Relation | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brüssel | 39€ / 34,50 £ | 60€ / 52,50 £ |
 | London - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
-| Brüssel - Amsterdam / Rotterdam  | ?€ / 15,50 £ | ?€ / 30,50 £ |
+| Brüssel - Amsterdam / Rotterdam | ?€ / 15,50 £ | ?€ / 30,50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
@@ -49,7 +49,7 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:**
-| Relation    | Standard | Plus |
+| Relation | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
 | Fahrt zwischen 2 Ländern | 18€ | 35€ |
@@ -150,6 +150,7 @@ HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mit
 Für eine Anschlusssicherung beim Umstieg in London von einem britischen Zug auf den Eurostar oder umgekehrt, kann eine Fahrkarte mit dem Abfahrts- oder Ankunftsbahnhof _London International CIV_ gebucht werden.
 
 Die Tickets sind in zwei Versionen erhältlich:
+
 - _Advance_ (muss im Voraus gebucht werden, Preis variiert, gilt nur für die angegebene Abfahrt)
 - _Euro Open/Euro Saver_ (flexibles Ticket für alle Züge an dem Tag).
 
@@ -178,5 +179,7 @@ Ohne FIP Rabatt ist die Buchung Online möglich über [Trainsplit](https://train
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt
+
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm#buy-a-ticket-to-london-international-civ)

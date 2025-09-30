@@ -2,7 +2,7 @@
   position: sticky;
   width: 100%;
   top: 0;
-  box-shadow: 0 .4rem 1rem 0 rgba(0,0,0,.1);
+  box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
   background-color: var(--bg-default);
   z-index: 5;
   height: 6rem;
@@ -22,8 +22,8 @@
   }
 }
 
-.o-header__curtain:has(~ .o-header__nav--open)  {
-  background-color: rgba(0, 0, 0, .8);
+.o-header__curtain:has(~ .o-header__nav--open) {
+  background-color: rgba(0, 0, 0, 0.8);
   inset: 0;
   position: fixed;
   z-index: 2;
@@ -54,7 +54,7 @@
 
 .o-header__logo {
   display: flex;
-  margin: .6rem 0;
+  margin: 0.6rem 0;
   position: relative;
   text-decoration: none;
   border-radius: var(--border-radius-m);
@@ -67,7 +67,7 @@
   svg {
     width: 14.5rem;
     height: 3.6rem;
-    padding: .6rem;
+    padding: 0.6rem;
     align-self: center;
     aspect-ratio: 145 / 36;
   }
@@ -83,7 +83,6 @@ menu > li > menu {
   display: flex;
   flex-direction: row;
   padding-inline-start: 0;
-
 }
 
 .o-header__item > .o-dropdown__button {
@@ -100,7 +99,7 @@ menu > li > menu {
   position: absolute;
   left: 0;
   padding: 1rem;
-  margin: .9rem;
+  margin: 0.9rem;
   pointer-events: none;
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
@@ -128,7 +127,7 @@ menu > li > menu {
 
   &--current a {
     font-weight: 700;
-    color: var(--link-hovered)
+    color: var(--link-hovered);
   }
 }
 
@@ -215,7 +214,7 @@ menu > li > menu {
 
   &:hover,
   &:focus {
-    :not(.material-symbols-rounded){
+    :not(.material-symbols-rounded) {
       text-decoration: underline;
     }
     color: var(--link-hovered);
@@ -231,7 +230,7 @@ menu > li > menu {
   }
 
   > .material-symbols-rounded {
-    margin-left: .8rem;
+    margin-left: 0.8rem;
     align-self: center;
     text-decoration: none;
   }

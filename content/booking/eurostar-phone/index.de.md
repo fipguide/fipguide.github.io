@@ -4,9 +4,9 @@ title: "Eurostar Telefon"
 description: "Buchungsinformationen für die Eurostar Hotline."
 
 params:
-    fip_global_fare: true
-    additional_info_link: "https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen"
-    type: "phone"
+  fip_global_fare: true
+  additional_info_link: "https://www.eurostar.com/de-de/uns-kontaktieren/eurostar-kontaktinformationen"
+  type: "phone"
 
 aliases:
   - eurostar_phone

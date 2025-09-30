@@ -50,7 +50,7 @@ Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterrei
 | Deutschland (DB) | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slowenien (SZ) | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr) |
 | Slowakei (ZSR)| Marchegg(Gr), Kittsee(Gr)
-| Schweiz (SBB) | Buchs SG,  St. Margrethen |
+| Schweiz (SBB) | Buchs SG, St. Margrethen |
 | Italien (FS)| Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde
 
 {{% /expander %}}

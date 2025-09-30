@@ -1,61 +1,81 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" -}}
 <summary class="o-expander__summary o-expander__summary--booking">
-    <div class="o-booking__header">
-        <div class="o-booking__header-content">
-            <div class="o-booking__title-wrapper">
-                <div class="o-booking__title">
-                    {{- partial "icon" (index $iconMapping .page.Params.type) -}}
-                    <span class="o-booking__title-text">{{- .page.Title -}}</span>
-                </div>
-                {{- if .subtitle }}
-                <div class="o-booking__subtitle">
-                    {{- .subtitle -}}
-                </div>
-                {{- end }}
-            </div>
-            <div class="o-booking__meta">
-                {{- if ne .reservations "nil" -}}<div>{{- T "booking.reservation" }} {{ if .reservations -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
-                {{- if ne .fip_50 "nil" -}}<div>{{- T "booking.fip-50" }} {{ if .fip_50 -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
-                {{- if ne .fip_global_fare "nil" -}}<div>{{- T "booking.fip-global-fare" }} {{ if .fip_global_fare -}}✅{{- else -}}⛔{{- end -}}</div>{{- end -}}
-            </div>
-            <div class="o-booking__classes">
-            {{- if and (ne .reservations "nil") .classes -}}
-                <span class="o-booking__classes-title">{{ T "booking.reservation-costs" }}</span>
-                {{- range $k, $v := .classes -}}
-                <div><strong>{{- T (print "booking.classes." $k) -}}:</strong> {{ $v -}}</div>
-                {{- end -}}
-            {{- end -}}
-            {{- if ne .fee "nil" -}}
-                <span class="o-booking__classes-title">{{ T "booking.fee" }}</span>
-                <div>{{ .fee }}</div>
-            {{- end -}}
-            </div>
+  <div class="o-booking__header">
+    <div class="o-booking__header-content">
+      <div class="o-booking__title-wrapper">
+        <div class="o-booking__title">
+          {{- partial "icon" (index $iconMapping .page.Params.type) -}}
+          <span class="o-booking__title-text">{{- .page.Title -}}</span>
         </div>
+        {{- if .subtitle }}
+          <div class="o-booking__subtitle">
+            {{- .subtitle -}}
+          </div>
+        {{- end }}
+      </div>
+      <div class="o-booking__meta">
+        {{- if ne .reservations "nil" -}}
+          <div>
+            {{- T "booking.reservation" }}
+            {{ if .reservations -}}✅{{- else -}}⛔{{- end -}}
+          </div>
+        {{- end -}}
+        {{- if ne .fip_50 "nil" -}}
+          <div>
+            {{- T "booking.fip-50" }}
+            {{ if .fip_50 -}}✅{{- else -}}⛔{{- end -}}
+          </div>
+        {{- end -}}
+        {{- if ne .fip_global_fare "nil" -}}
+          <div>
+            {{- T "booking.fip-global-fare" }}
+            {{ if .fip_global_fare -}}✅{{- else -}}⛔{{- end -}}
+          </div>
+        {{- end -}}
+      </div>
+      <div class="o-booking__classes">
+        {{- if and (ne .reservations "nil") .classes -}}
+          <span class="o-booking__classes-title"
+            >{{ T "booking.reservation-costs" }}</span
+          >
+          {{- range $k, $v := .classes -}}
+            <div>
+              <strong>{{- T (print "booking.classes." $k) -}}:</strong>
+              {{ $v -}}
+            </div>
+          {{- end -}}
+        {{- end -}}
+        {{- if ne .fee "nil" -}}
+          <span class="o-booking__classes-title">{{ T "booking.fee" }}</span>
+          <div>{{ .fee }}</div>
+        {{- end -}}
+      </div>
     </div>
+  </div>
 </summary>
-<hr aria-hidden="true">
+<hr aria-hidden="true" />
 <div class="o-expander__content">
-{{- if .info -}}
-<div class="o-booking__info">
-    {{- .info | .original_page.RenderString -}}
-</div>
-{{- end -}}
-{{- $contentClasses := slice "o-single__content o-booking__section" -}}
-{{- if or (eq .fip_50 false) (eq .fip_50 "nil") }}
-  {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
-{{- end -}}
-{{- if or (eq .fip_global_fare false) (eq .fip_global_fare "nil") }}
-  {{- $contentClasses = $contentClasses | append "o-booking__section-fip_global_fare--hidden" -}}
-{{- end -}}
-{{- if or (eq .reservations false) (eq .reservations "nil") }}
-  {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
-{{- end -}}
-<div class="{{ delimit $contentClasses ' ' }}">
+  {{- if .info -}}
+    <div class="o-booking__info">
+      {{- .info | .original_page.RenderString -}}
+    </div>
+  {{- end -}}
+  {{- $contentClasses := slice "o-single__content o-booking__section" -}}
+  {{- if or (eq .fip_50 false) (eq .fip_50 "nil") }}
+    {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
+  {{- end -}}
+  {{- if or (eq .fip_global_fare false) (eq .fip_global_fare "nil") }}
+    {{- $contentClasses = $contentClasses | append "o-booking__section-fip_global_fare--hidden" -}}
+  {{- end -}}
+  {{- if or (eq .reservations false) (eq .reservations "nil") }}
+    {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
+  {{- end -}}
+  <div class="{{ delimit $contentClasses ' ' }}">
     {{- $content := partial "increase-headings" (dict "content" .page.Content "offset" 2) -}}
     {{- $content := partial "prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
     {{- $content := partial "prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
     {{- $content | safeHTML -}}
-</div>
+  </div>
 
-{{ partial "booking-links" .page }}
+  {{ partial "booking-links" .page }}
 </div>

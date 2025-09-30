@@ -2,9 +2,9 @@
 {{- $offset := .offset | default 1 -}}
 
 {{- range $level := (seq 4 1) -}}
-    {{- $newLevel := add $level $offset -}}
-    {{- $content = $content | replaceRE (printf `<h%d(\s[^>]*)?>` $level) (printf `<h%d${1}>` $newLevel) -}}
-    {{- $content = $content | replaceRE (printf `</h%d>` $level) (printf `</h%d>` $newLevel) -}}
+  {{- $newLevel := add $level $offset -}}
+  {{- $content = $content | replaceRE (printf `<h%d(\s[^>]*)?>` $level) (printf `<h%d${1}>` $newLevel) -}}
+  {{- $content = $content | replaceRE (printf `</h%d>` $level) (printf `</h%d>` $newLevel) -}}
 {{- end -}}
 
 {{- return $content -}}

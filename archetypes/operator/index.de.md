@@ -1,16 +1,17 @@
 ---
 draft: false
-title: '{{ .File.ContentBaseName | upper }}'
-description: '' # Ergänze eine Beschreibung für die Bahngesellschaft
+title: "{{ .File.ContentBaseName | upper }}"
+description: "" # Ergänze eine Beschreibung für die Bahngesellschaft
 country:
   # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
-  - 'country1'
-  - 'country2'
-  - 'country3'
-operator: '{{ .File.ContentBaseName }}'
+  - "country1"
+  - "country2"
+  - "country3"
+operator: "{{ .File.ContentBaseName }}"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
+
 {{< wip >}}
 
 <!--
@@ -52,18 +53,25 @@ FIP Globalpreis: <✅/⛔>
   - ⛔ für eine Nichtanerkennung von FIP
   - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
 -->
+
 {{% expander "Zugkategorie" traincategory "category" %}}
+
 <!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z.B. ICE. -->
+
 **Beschreibung:**
+
 <!-- Füge hier eine Beschreibung der Zugkategorie ein -->
+
 **Reservierung möglich:** Ja/Nein \
 **Reservierungspflicht:** Ja/Nein \
+
 <!-- Wenn FIP nicht gültig ist, ergänze folgendes:
 **FIP:** ⛔ FIP wird nicht anerkannt
 -->
 <!-- Wenn es FIP Globalpreise gibt, ergänze folgendes:
 **FIP Globalpreis:**
 -->
+
 {{% /expander %}}
 
 ## Klassenkategorien
@@ -90,6 +98,7 @@ FIP Globalpreis: <✅/⛔>
 
   Mehr Informationen sind im booking archetype zu finden.
 -->
+
 {{% booking id="booking_id"
     subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
     reservations=nil
@@ -98,7 +107,9 @@ FIP Globalpreis: <✅/⛔>
     classes.first="€20"
     classes.second="€10"
 %}}
+
 <!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
+
 {{% /booking %}}
 
 ### Telefon
@@ -142,5 +153,6 @@ FIP Globalpreis: <✅/⛔>
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](<Link>)
-[^2]: [<Quellenname 2](<Link>)
+[^1]: [<Quellenname 1>](Link)
+
+[^2]: [<Quellenname 2](Link)

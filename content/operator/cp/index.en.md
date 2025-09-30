@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'CP'
+title: "CP"
 description: "Information about FIP conditions at Comboios de Portugal (CP)."
 country:
-  - 'portugal'
-operator: 'cp'
+  - "portugal"
+operator: "cp"
 ---
 
 CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in Portugal.
@@ -68,25 +68,27 @@ Commuter trains serving the urban networks of Lisbon, Porto and Coimbra (similar
 
 **Lisbon:** \
 The [network](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) includes four lines:
-* Sintra Line
-* Azambuja Line
-* Cascais Line
-* Sado Line
+
+- Sintra Line
+- Azambuja Line
+- Cascais Line
+- Sado Line
 
 {{% highlight important %}}
 Access to the Sintra Line and Cascais Line is via ticket gates.
 
-* Passengers with reduced tickets must purchase a Viva Viagem ticket for €0.50 to pass the gate.
-* Passengers holding an FIP Coupon must press the assistance button at the gate (between 06:00 and 22:00). Staff will grant access.
-{{% /highlight %}}
+- Passengers with reduced tickets must purchase a Viva Viagem ticket for €0.50 to pass the gate.
+- Passengers holding an FIP Coupon must press the assistance button at the gate (between 06:00 and 22:00). Staff will grant access.
+  {{% /highlight %}}
 
 **Porto:** \
 The [network](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) includes five lines:
-* Aveiro Line
-* Braga Line
-* Marco de Canaveses Line
-* Guimarães Line
-* Leixões Line
+
+- Aveiro Line
+- Braga Line
+- Marco de Canaveses Line
+- Guimarães Line
+- Leixões Line
 
 **Coimbra:** \
 Single line between Coimbra and Figueira da Foz.
@@ -151,4 +153,5 @@ CP operates occasional trips with the "Presidential Train" — a luxurious histo
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

@@ -8,16 +8,16 @@
           <h2 id="countries-with-fip">{{ T "countries.overview" }}</h2>
           <ul class="o-list__list" aria-labelledby="countries-with-fip">
             {{ range .Pages }}
-            <li class="o-list__list-item o-list__list-item--country">
-              <a href="{{ .RelPermalink }}" class="o-list__link">
-                <div class="o-list__picture">
-                  {{ partial "flag" (dict "country" .File.ContentBaseName) }}
-                </div>
-                <div>
-                  {{ .Title }}
-                </div>
-              </a>
-            </li>
+              <li class="o-list__list-item o-list__list-item--country">
+                <a href="{{ .RelPermalink }}" class="o-list__link">
+                  <div class="o-list__picture">
+                    {{ partial "flag" (dict "country" .File.ContentBaseName) }}
+                  </div>
+                  <div>
+                    {{ .Title }}
+                  </div>
+                </a>
+              </li>
             {{ end }}
           </ul>
         </div>
@@ -32,28 +32,50 @@
       </div>
       <div class="o-interactive-map">
         <h2 id="interactive-map">{{ T "interactiveMap.title" }}</h2>
-        <div class="o-interactive-map__wrapper" aria-labelledby="interactive-map">
-          <div id="interactive-map__container" class="o-interactive-map__container">
-            <p class="o-interactive-map--loading"><em>{{ T "interactiveMap.loading" }}</em></p>
+        <div
+          class="o-interactive-map__wrapper"
+          aria-labelledby="interactive-map"
+        >
+          <div
+            id="interactive-map__container"
+            class="o-interactive-map__container"
+          >
+            <p class="o-interactive-map--loading">
+              <em>{{ T "interactiveMap.loading" }}</em>
+            </p>
           </div>
           <div class="o-interactive-map__controls">
-            <button class="o-interactive-map__zoom-in" title="{{ T "interactiveMap.zoomIn" }}" aria-label="{{ T "interactiveMap.zoomIn" }}">
+            <button
+              class="o-interactive-map__zoom-in"
+              title="{{ T "interactiveMap.zoomIn" }}"
+              aria-label="{{ T "interactiveMap.zoomIn" }}"
+            >
               {{ partial "icon" "add" }}
             </button>
-            <button class="o-interactive-map__zoom-out" title="{{ T "interactiveMap.zoomOut" }}" aria-label="{{ T "interactiveMap.zoomOut" }}">
+            <button
+              class="o-interactive-map__zoom-out"
+              title="{{ T "interactiveMap.zoomOut" }}"
+              aria-label="{{ T "interactiveMap.zoomOut" }}"
+            >
               {{ partial "icon" "remove" }}
             </button>
-            <button class="o-interactive-map__reset" title="{{ T "interactiveMap.resetZoom" }}" aria-label="{{ T "interactiveMap.resetZoom" }}">
+            <button
+              class="o-interactive-map__reset"
+              title="{{ T "interactiveMap.resetZoom" }}"
+              aria-label="{{ T "interactiveMap.resetZoom" }}"
+            >
               {{ partial "icon" "reset_focus" }}
             </button>
           </div>
         </div>
         <div class="o-interactive-map__legend">
           {{ range (slice "available" "unavailable" "pending") }}
-          <div class="o-interactive-map__legend-item">
-            <div class="o-interactive-map__legend-color o-interactive-map__legend-color--{{ . }}"></div>
-            <span>{{ T (printf "interactiveMap.legend.%s" .) }}</span>
-          </div>
+            <div class="o-interactive-map__legend-item">
+              <div
+                class="o-interactive-map__legend-color o-interactive-map__legend-color--{{ . }}"
+              ></div>
+              <span>{{ T (printf "interactiveMap.legend.%s" .) }}</span>
+            </div>
           {{ end }}
         </div>
       </div>

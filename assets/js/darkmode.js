@@ -1,8 +1,8 @@
-(function() {
-  const THEME_KEY = 'fipguide-theme';
-  const DARK_THEME = 'dark';
-  const LIGHT_THEME = 'light';
-  const AUTO_THEME = 'auto';
+(function () {
+  const THEME_KEY = "fipguide-theme";
+  const DARK_THEME = "dark";
+  const LIGHT_THEME = "light";
+  const AUTO_THEME = "auto";
 
   function getSavedTheme() {
     return localStorage.getItem(THEME_KEY) || AUTO_THEME;
@@ -13,7 +13,9 @@
   }
 
   function getSystemTheme() {
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? DARK_THEME : LIGHT_THEME;
+    return window.matchMedia("(prefers-color-scheme: dark)").matches
+      ? DARK_THEME
+      : LIGHT_THEME;
   }
 
   function getEffectiveTheme(theme) {
@@ -23,9 +25,9 @@
   function applyTheme(theme) {
     const effectiveTheme = getEffectiveTheme(theme);
     if (effectiveTheme === DARK_THEME) {
-      document.documentElement.setAttribute('data-theme', DARK_THEME);
+      document.documentElement.setAttribute("data-theme", DARK_THEME);
     } else {
-      document.documentElement.removeAttribute('data-theme');
+      document.documentElement.removeAttribute("data-theme");
     }
   }
 
@@ -47,28 +49,28 @@
   }
 
   function updateToggleButtons(theme) {
-    const toggleButtons = document.querySelectorAll('.a-theme-toggle');
+    const toggleButtons = document.querySelectorAll(".a-theme-toggle");
 
-    toggleButtons.forEach(button => {
+    toggleButtons.forEach((button) => {
       let icon;
       let label;
       if (theme === AUTO_THEME) {
-        icon = 'night_sight_auto';
+        icon = "night_sight_auto";
         label = button.dataset.switchToLight;
       } else if (theme === LIGHT_THEME) {
-        icon = 'light_mode';
+        icon = "light_mode";
         label = button.dataset.switchToDark;
       } else if (theme === DARK_THEME) {
-        icon = 'dark_mode';
+        icon = "dark_mode";
         label = button.dataset.switchToAuto;
       }
 
-      const iconElement = button.querySelector('.material-symbols-rounded');
-      if(iconElement) {
+      const iconElement = button.querySelector(".material-symbols-rounded");
+      if (iconElement) {
         iconElement.textContent = icon;
       }
-      button.setAttribute('title', label);
-      button.setAttribute('aria-label', label);
+      button.setAttribute("title", label);
+      button.setAttribute("aria-label", label);
     });
   }
 
@@ -76,22 +78,24 @@
     const savedTheme = getSavedTheme();
     updateToggleButtons(savedTheme);
 
-    const toggleButtons = document.querySelectorAll('.a-theme-toggle');
-    toggleButtons.forEach(button => {
-      button.addEventListener('click', toggleTheme);
+    const toggleButtons = document.querySelectorAll(".a-theme-toggle");
+    toggleButtons.forEach((button) => {
+      button.addEventListener("click", toggleTheme);
     });
 
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-      if (getSavedTheme() === AUTO_THEME) {
-        applyTheme(AUTO_THEME);
-      }
-    });
+    window
+      .matchMedia("(prefers-color-scheme: dark)")
+      .addEventListener("change", () => {
+        if (getSavedTheme() === AUTO_THEME) {
+          applyTheme(AUTO_THEME);
+        }
+      });
   }
 
   applyTheme(getSavedTheme());
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initializeButtons);
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initializeButtons);
   } else {
     initializeButtons();
   }

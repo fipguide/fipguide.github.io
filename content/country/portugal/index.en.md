@@ -1,8 +1,8 @@
 ---
 draft: false
-title: 'Portugal'
-description: 'Find out about the FIP conditions for Portugal and for which operators you can benefit from discounts.'
-country: 'portugal'
+title: "Portugal"
+description: "Find out about the FIP conditions for Portugal and for which operators you can benefit from discounts."
+country: "portugal"
 params:
   operators_without_fip:
     - Fertagus
@@ -25,8 +25,9 @@ From personal experience there are occasional delays; these often result from si
 In the Lisbon and Porto metropolitan areas there is a dense clockface timetable for regional and commuter trains (Comboios Urbanos). Apart from that, you should definitely check the journey times of the trains when planning your trip. This is due to gaps in the timetable and restrictions on the edges of the day. Because reservations are mandatory on certain long-distance categories (`AP` and `IC`), early booking is recommended.
 
 Particularly recommended stations to visit:
-* **Porto São Bento:** famous for its ornate azulejo tile panels in the concourse.
-* **Lisboa Oriente:** a spacious station notable for its impressive roof structure.
+
+- **Porto São Bento:** famous for its ornate azulejo tile panels in the concourse.
+- **Lisboa Oriente:** a spacious station notable for its impressive roof structure.
 
 ## Arrival and Border Points
 

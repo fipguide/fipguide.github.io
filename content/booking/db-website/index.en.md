@@ -17,6 +17,7 @@ aliases:
 ---
 
 {{% booking-section "reservations" %}}
+
 ## Reservations
 
 The reservation price is calculated per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
