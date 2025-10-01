@@ -22,7 +22,7 @@ Spanien hat kein besonders engmaschiges Netz, stattdessen besteht es vor allem a
 
 Der Fokus liegt auf (meist schnellen) Fahrten zwischen größeren Städten. Daneben gibt es S-Bahnen in und um die Metropolen, die einen dichten Nahverkehr sicherstellen.
 
-Die Bahnhöfe haben meist Ticketbarrieren, es wird hier ein gültiges digitales oder analoges Ticket auf einer Karte benötigt, um diese zu überwinden. Mit FIP Freifahrtsscheinen muss hier das Personal vor Ort angesprochen werden, damit diese die Barrieren manuell öffnen
+Die Bahnhöfe haben meist Ticketbarrieren, es wird hier ein gültiges digitales oder analoges Ticket auf einer Karte benötigt, um diese zu überwinden. Mit FIP Freifahrtscheinen muss hier das Personal vor Ort angesprochen werden, damit diese die Barrieren manuell öffnen
 
 Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, die zwar nicht so intensiv wie im Flugverkehr ausfallen, aber trotzdem Zeit in Kauf nehmen. Es ist daher empfehlenswert bei solchen Reisen mindestens 30 Minuten vor Abfahrt am Bahnhof zu sein.
 
@@ -47,7 +47,7 @@ Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP T
 
 ### Portugal
 
-Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtsscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt.
+Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt.
 
 Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#langstrecke" >}} "Renfe")).
 

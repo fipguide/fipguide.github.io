@@ -11,14 +11,14 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der Tschechisc
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtsscheine werden akzeptiert
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert
 - Reservierungspflicht nur in SuperCitys
 - Aufschläge für _kommerzielle Züge_
 - In einigen Regionen gilt kein FIP in ausgewählten Zügen der ČD (Pilsen und Brno)
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
