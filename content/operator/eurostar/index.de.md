@@ -84,7 +84,9 @@ Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchec
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="uk-mail" /%}}
+{{% booking id="internationalrail-email" /%}}
+
+{{% booking id="trainseurope-email" /%}}
 
 ### Telefon
 
@@ -96,6 +98,8 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
+
+{{% booking id="trainseurope-phone" /%}}
 
 ### Vor Ort
 

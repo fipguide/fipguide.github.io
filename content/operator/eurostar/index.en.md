@@ -84,7 +84,9 @@ Online booking of tickets is currently not possible. However, checking in, reboo
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="uk-mail" /%}}
+{{% booking id="internationalrail-email" /%}}
+
+{{% booking id="trainseurope-email" /%}}
 
 ### Phone
 
@@ -97,6 +99,8 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
+
+{{% booking id="trainseurope-phone" /%}}
 
 ### On-site
 

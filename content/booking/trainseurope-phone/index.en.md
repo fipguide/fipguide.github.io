@@ -1,0 +1,26 @@
+---
+draft: false
+title: "Trainseurope Ltd."
+description: "Booking information for booking by phone at Trainseurope Ltd."
+
+params:
+  fip_global_fare: true
+  type: "phone"
+  fee: £10
+---
+
+{{% booking-section "fip_global_fare" %}}
+
+## FIP Global Fare
+
+FIP Global Fare tickets can be purchased by phone via Trainseurope Ltd. To do so, call the hotline [+44 1354 660222](tel:+441354660222) or [+44 1354 705098](tel:+441354705098). Booking is only possible in English. The following information must be provided:
+
+- Date and time of travel
+- Departure and destination station
+- Number of passengers
+- Travel class (according to FIP card entitlement)
+- Photo of the FIP card for all traveling persons by email to [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk)
+
+**A booking fee of £10 is charged per booking.**
+
+{{% /booking-section %}}
