@@ -132,11 +132,11 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Pour les connexions nationales et transfrontalières. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section polonaise, pour les employés de la Deutsche Bahn"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne, avec part de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Pour les connexions nationales et transfrontalières. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare
