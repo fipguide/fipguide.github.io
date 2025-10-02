@@ -48,7 +48,7 @@ The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB n
 
 ### Netherlands
 
-From the Netherlands, cross-border regional trains (including the `IC`) can be used; for these, an additional FIP ticket from NS is required. Furthermore, long-distance trains (ECD and EC) operate, where an extra surcharge may apply on the Dutch section (between Rotterdam and Schiphol).
+From the Netherlands, cross-border regional trains (including the `IC`) can be used; for these, an additional FIP ticket from NS is required. Furthermore, long-distance trains (`ECD` and `EC`) operate, where an extra surcharge may apply on the Dutch section (between Rotterdam and Schiphol).
 
 The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP ticket from Eurostar is required for the entire section, including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
