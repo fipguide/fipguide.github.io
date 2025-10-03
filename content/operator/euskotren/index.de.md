@@ -82,6 +82,8 @@ FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren.
 
 ## Empfehlungen
 
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zu Euskotren](https://zugpost.org/euskotren-baskenland/).
+
 ### Eisenbahnmuseum in Azpeitia
 
 Euskotren betreibt auch das baskische Eisenbahnmuseum in Azpeitia, das mit dem Bus von Eibar, Zumaia und Zumarraga erreichbar ist[^2]. Bei Vorlage des FIP Ausweises wird kostenfreier Eintritt gewährt. Die FIP Vergünstigungen werden im Dampfzug des Museums nicht akzeptiert.

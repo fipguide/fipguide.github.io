@@ -9,9 +9,9 @@ Ab dem 15. Juni 2025 bietet die Deutsche Bahn keine Familienreservierungen mehr 
 
 Außerdem steigen die Preise für Sitzplatzreservierungen:
 
-1. Klasse: 6,90€ (bisher 6,50€) \
-2. Klasse: 5,90€ (bisher 5,50€)
+1\. Klasse: 6,90€ (bisher 6,50€) \
+2\. Klasse: 5,90€ (bisher 5,50€)
 
-Informationen zur Reservierungen sind [hier auf Bahn.de]({{< ref "/booking/db-website" >}} "DB Website Buchung") zu finden.
+Informationen zur Reservierungen sind [hier]({{< ref "/booking/db-website" >}} "DB Website Buchung") zu finden.
 
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)

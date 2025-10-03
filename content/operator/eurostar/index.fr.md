@@ -84,19 +84,27 @@ Réservation en ligne non disponible. Mais la gestion du billet (annulation, éc
 
 Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-{{% booking id="uk-mail" /%}}
+{{% booking id="internationalrail-email" /%}}
+
+{{% booking id="trainseurope-email" /%}}
 
 ### Par téléphone
 
-{{% booking id="eurostar-phone" %}}
-Des problèmes peuvent survenir lors de la réservation de billets FIP vers/depuis Londres. Si c’est le cas, essayez un autre canal de réservation.
+{{% booking id="eurostar-phone"
+    subtitle="Uniquement Eurostar Rouge"
+%}}
+La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pas possible via la hotline. Dans ce cas, il est recommandé d’utiliser un autre canal de réservation.
 {{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
+{{% booking id="trainseurope-phone" /%}}
+
 ### En gare
+
+{{% booking id="eurostar-ticket-office" /%}}
 
 {{% booking id="ns-ticket-office"
     fip_50=nil

@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "International Rail Ltd."
-description: "Buchungsinformationen für die Buchung per Mail bei International Rail Ltd."
+description: "Buchungsinformationen für die Buchung per E-Mail bei International Rail Ltd."
 
 params:
   fip_global_fare: true
@@ -10,6 +10,7 @@ params:
 
 aliases:
   - uk_mail
+  - uk-mail
 ---
 
 ## FIP Globalpreis

@@ -23,6 +23,11 @@ ol {
 ul,
 ol {
   padding-left: 2rem;
+
+  li > small {
+    display: inline-block;
+    line-height: 1.2;
+  }
 }
 
 button {
@@ -168,9 +173,14 @@ img {
 @mixin add-columns($columns) {
   &--columns-#{$columns} {
     columns: $columns;
+    column-gap: 2.4rem;
 
     @media (max-width: #{$breakpoint-md}) {
       columns: 1;
+    }
+
+    li {
+      break-inside: avoid-column;
     }
   }
 }
