@@ -24,22 +24,21 @@ function initAside() {
   }
 
   // start dragging
-  header.addEventListener("mousedown", (e) => {
+  const dragStart = (e) => {
     isDragging = true;
-    startY = e.clientY;
+    startY = e.clientY || e.touches?.[0].clientY;
 
     const transform = getComputedStyle(aside).transform;
     const match = transform.match(/matrix.*\((.+)\)/);
     startTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
 
     document.body.style.userSelect = "none";
-  });
+  }
 
-  // dragging
-  document.addEventListener("mousemove", (e) => {
+  const dragging = (e) => {
     if (!isDragging) return;
 
-    const dy = e.clientY - startY;
+    const dy = (e.clientY || e.touches?.[0].clientY) - startY;
     const newTranslateY = startTranslateY + dy;
     const maxTranslateY = getMaxTranslateY();
     const clampedTranslateY = Math.min(
@@ -48,10 +47,9 @@ function initAside() {
     );
 
     aside.style.transform = `translateY(${clampedTranslateY}px)`;
-  });
+  }
 
-  // 🟡 Drag loslassen + Snap bei leichter Bewegung
-  document.addEventListener("mouseup", () => {
+  const dragEnd = (e) => {
     if (!isDragging) return;
     isDragging = false;
     document.body.style.userSelect = "";
@@ -70,7 +68,15 @@ function initAside() {
       aside.style.transform = `translateY(0)`; // open
       overlay.classList.add("overlay--show");
     }
-  });
+  }
+
+  header.addEventListener("mousedown", dragStart);
+  document.addEventListener("mousemove", dragging);
+  document.addEventListener("mouseup", dragEnd);
+
+  header.addEventListener("touchstart", dragStart);
+  document.addEventListener("touchmove", dragging);
+  document.addEventListener("touchend", dragEnd);
 
   // button click
   header.addEventListener("click", () => {
