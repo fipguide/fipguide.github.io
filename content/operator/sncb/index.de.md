@@ -101,9 +101,11 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` 
 
 ### Online
 
-{{% booking id="sncb-website" %}}
-Bei Nutzung einer Freifahrt für die SNCB kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung "Freifahrtschein Belgien (SNCB)" angeben. Somit lassen sich z. B. Züge von Belgien nach Lille in Frankreich (außer mit dem `TGV`, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen.
-{{% /booking %}}
+Nationale Verbindungen können online leider nicht erworben werden.
+
+{{% booking id="sncb-website"
+    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
+/%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den belgischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
