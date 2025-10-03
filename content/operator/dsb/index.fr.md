@@ -75,11 +75,11 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Pour les trajets nationaux et transfrontaliers. Billets FIP 50 transfrontaliers, valables uniquement pour la partie danoise, pour les employés de la DB"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Pour les trajets nationaux et transfrontaliers. Billets FIP 50 pour l'ensemble du trajet (non valables dans le pays d'origine)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et le Danemark pour l'ensemble du trajet (pas de validité dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare

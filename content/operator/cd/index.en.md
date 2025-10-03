@@ -123,11 +123,11 @@ Depends on route, occupancy, and coach category.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Austrian section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Czechia, with ticket portion only for the Czech section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Czechia for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On Site

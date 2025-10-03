@@ -108,11 +108,11 @@ Domestic journeys unfortunately cannot be purchased online.
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets, with ticket portions valid only for the Belgian section, for employees of Deutsche Bahn"
+    subtitle="Cross-border FIP 50 tickets between Germany and Belgium, with ticket portion only for the Belgian section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets valid for the entire route (not valid in the home country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On-site

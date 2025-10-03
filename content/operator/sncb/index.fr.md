@@ -108,11 +108,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-website-fip-db"
-  subtitle="Pour les trajets nationaux et internationaux. Billets FIP 50 transfrontaliers, avec une portion de billet uniquement pour le tronçon belge, destinés aux employés de la Deutsche Bahn."
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique, avec part de billet uniquement pour la section belge. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Pour les trajets nationaux et internationaux. Billets FIP 50 transfrontaliers pour l’ensemble du parcours (non valables dans le pays d’origine)."
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)."
 /%}}
 
 ### En gare

@@ -109,11 +109,11 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Trajets internationaux avec portion néerlandaise pour employés DB"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas, avec part de billet uniquement pour la section néerlandaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 internationaux (hors pays d'origine)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare

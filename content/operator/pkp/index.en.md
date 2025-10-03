@@ -132,11 +132,11 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Polish section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On Site
@@ -263,6 +263,6 @@ FIP Coupons for 1st class are only conditionally worthwhile with PKP. If journey
 
 [^3]: [PKP Intercity - EIC](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-eic.html)
 
-[^4]: [PKP Intercity - IC](https://www.intercity.pl/de/site/fur-fahrgast/informacije/unsere-zuge/intercity-ic.html)
+[^4]: [PKP Intercity - IC](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/intercity-ic.html)
 
-[^5]: [PKP Intercity - TLK](https://www.intercity.pl/de/site/fur-fahrgast/informacije/unsere-zuge/twoje-linie-kolejowe-tlk.html)
+[^5]: [PKP Intercity - TLK](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/twoje-linie-kolejowe-tlk.html)
