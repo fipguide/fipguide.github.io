@@ -114,7 +114,7 @@ function initAside() {
   window.onclick = (e) => {
     if (isMobile()) {
       if (e.target.classList.contains("o-aside__toc-link")) {
-        bottomSheet.classList.remove("open-half");
+        bottomSheet.classList.remove("open-full", "open-half");
         overlay.classList.remove("overlay--show");
       }
     }
