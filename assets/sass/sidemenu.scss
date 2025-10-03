@@ -110,7 +110,7 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 64px;
+    max-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -119,13 +119,9 @@
     gap: 0;
     margin: 0;
     overflow: hidden;
-    transition: height 1s ease-in-out;
+    transition: transform 0.5s ease-in-out;
     border-radius: 1rem 1rem 0 0;
-  }
-
-  hr {
-    display: block !important;
-    margin: 0;
+    transform: translateY(calc(100% - 6.4rem)); /* Nur Button sichtbar */
   }
 
   .sheet-overlay {
@@ -146,6 +142,7 @@
     border-radius: 1rem 1rem 0 0;
     overflow-y: scroll;
     overscroll-behavior-y: contain;
+    border-top: 1px solid black;
   }
 
   .sheet-body {
@@ -189,4 +186,8 @@
   position: fixed;
   inset: 0;
   z-index: 3;
+}
+
+.o-aside--mobile-open {
+  transform: translateY(0);
 }

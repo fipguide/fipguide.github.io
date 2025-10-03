@@ -13,6 +13,7 @@ function resizeObserver() {
       menuButton.setAttribute("aria-expanded", false);
       overlay.classList.remove("overlay--show");
       aside.classList.remove("o-aside--mobile-open");
+      aside.style.transform = "";
     }
   });
 }

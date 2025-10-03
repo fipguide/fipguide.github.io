@@ -5,72 +5,93 @@ function isMobile() {
 }
 
 function initAside() {
-  const aside = document.getElementById("aside");
-  const overlay = document.getElementById("overlay");
-  const button = document.getElementById("sheet-header");
-  let isDragging = false, startY, startHeight;
+  const aside = document.getElementById('aside');
+  const header = document.getElementById('sheet-header');
 
-  const toggleAside = () => {
-    if(aside.classList.contains("o-aside--mobile-open")) {
-      aside.classList.remove("o-aside--mobile-open");
-      updateAsideHeight(64);
-      setTimeout(() => {
-        aside.style.justifyContent = 'start';
-      }, 500);
-      overlay.classList.remove("overlay--show");
-    } else {
-      aside.classList.add("o-aside--mobile-open");
-      overlay.classList.add("overlay--show");
-      updateAsideHeight(window.innerHeight - 60);
-      setTimeout(() => {
-        aside.style.justifyContent = 'end';
-      }, 500);
-    }
+  let isDragging = false;
+  let startY = 0;
+  let startTranslateY = 0;
+  const buttonHeight = 64; // Höhe des Buttons
+  const headerOffset = 60; // Höhe des äußeren Headers (nicht des Buttons)
+
+// 🔧 Hilfsfunktion: maximale TranslateY für geschlossenes Sheet
+  function getMaxTranslateY() {
+    return aside.offsetHeight - buttonHeight;
   }
 
-  const updateAsideHeight = (height) => {
-    console.log(height);
-    aside.style.height = `${height}px`;
+// 🔧 Hilfsfunktion: maximale Höhe des geöffneten Sheets
+  function getMaxOpenHeight() {
+    return window.innerHeight - headerOffset;
   }
 
-  // Sets inital drag position and aside height
-  const dragStart = (e) => {
+// 🟡 Drag starten
+  header.addEventListener('mousedown', (e) => {
     isDragging = true;
-    startY = e.pageY;
-    startHeight = parseInt(aside.style.height);
-  }
+    startY = e.clientY;
 
-  // Calculates the new height for aside
-  const dragging = (e) => {
-    if(!isDragging) return;
-    const delta = startY - e.pageY;
-    const newHeight = startHeight + delta / window.innerHeight * 100;
-    updateAsideHeight(newHeight);
-  }
+    const transform = getComputedStyle(aside).transform;
+    const match = transform.match(/matrix.*\((.+)\)/);
+    startTranslateY = match ? parseFloat(match[1].split(',')[5]) : 0;
 
-  const dragStop = () => {
+    document.body.style.userSelect = 'none';
+  });
+
+// 🟡 Drag bewegen
+  document.addEventListener('mousemove', (e) => {
+    if (!isDragging) return;
+
+    const dy = e.clientY - startY;
+    const newTranslateY = startTranslateY + dy;
+    const maxTranslateY = getMaxTranslateY();
+    const clampedTranslateY = Math.min(Math.max(0, newTranslateY), maxTranslateY);
+
+    aside.style.transform = `translateY(${clampedTranslateY}px)`;
+  });
+
+// 🟡 Drag loslassen + Snap bei leichter Bewegung
+  document.addEventListener('mouseup', () => {
+    if (!isDragging) return;
     isDragging = false;
-  }
+    document.body.style.userSelect = '';
 
-  if (button) {
-    button.addEventListener("click", () => {
-      toggleAside();
-    });
+    const transform = getComputedStyle(aside).transform;
+    const match = transform.match(/matrix.*\((.+)\)/);
+    const currentTranslateY = match ? parseFloat(match[1].split(',')[5]) : 0;
 
-    document.addEventListener("mouseup", dragStop);
-    button.addEventListener("mousedown", dragStart);
-    document.addEventListener("mousemove", dragging);
-  }
+    const maxTranslateY = getMaxTranslateY();
+    const threshold = maxTranslateY * 0.2;
 
-  window.onclick = (e) => {
-    if (isMobile()) {
-      //console.log(e.target);
-      if (e.target.classList.contains("o-aside__toc-link")) {
-        toggleAside();
-        console.log("test");
-      }
+    if (currentTranslateY > threshold) {
+      aside.style.transform = `translateY(${maxTranslateY}px)`; // geschlossen
+    } else {
+      aside.style.transform = `translateY(0)`; // geöffnet
     }
-  };
+  });
+
+// 🟢 Toggle per Button-Klick
+  header.addEventListener('click', () => {
+    const transform = getComputedStyle(aside).transform;
+    const match = transform.match(/matrix.*\((.+)\)/);
+    const currentTranslateY = match ? parseFloat(match[1].split(',')[5]) : 0;
+
+    const maxTranslateY = getMaxTranslateY();
+    const isClosed = currentTranslateY >= maxTranslateY - 1;
+
+    aside.style.transform = isClosed
+      ? `translateY(0)` // öffnen
+      : `translateY(${maxTranslateY}px)`; // schließen
+  });
+
+// 🟢 Begrenzung der Aside-Höhe beim Öffnen
+  function limitAsideHeight() {
+    const maxOpenHeight = getMaxOpenHeight();
+    aside.style.maxHeight = `${maxOpenHeight}px`;
+  }
+
+// 🟢 Beim Laden und bei Resize anwenden
+  window.addEventListener('load', limitAsideHeight);
+  window.addEventListener('resize', limitAsideHeight);
+
 }
 
 if (document.readyState === "interactive") {
