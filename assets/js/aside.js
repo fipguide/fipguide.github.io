@@ -60,9 +60,9 @@ function initAside() {
     const threshold = maxTranslateY * 0.2;
 
     if (currentTranslateY > threshold) {
-      aside.style.transform = ""; // closed
+      aside.style.transform = ""; // close
     } else {
-      aside.style.transform = `translateY(0)`; // opened
+      aside.style.transform = `translateY(0)`; // open
     }
   });
 
@@ -75,9 +75,11 @@ function initAside() {
     const maxTranslateY = getMaxTranslateY();
     const isClosed = currentTranslateY >= maxTranslateY - 1;
 
-    aside.style.transform = isClosed
-      ? `translateY(0)` // öffnen
-      : ""; // schließen
+    if (isClosed) {
+      aside.style.transform = `translateY(0)`; // open
+    } else {
+      aside.style.transform = ""; // close
+    }
   });
 
   // close bottom-sheet if link is clicked
