@@ -11,20 +11,18 @@ function initAside() {
   let isDragging = false;
   let startY = 0;
   let startTranslateY = 0;
-  const buttonHeight = 64; // Höhe des Buttons
-  const headerOffset = 60; // Höhe des äußeren Headers (nicht des Buttons)
+  const buttonHeight = 64;
+  const headerOffset = 60;
 
-// 🔧 Hilfsfunktion: maximale TranslateY für geschlossenes Sheet
   function getMaxTranslateY() {
     return aside.offsetHeight - buttonHeight;
   }
 
-// 🔧 Hilfsfunktion: maximale Höhe des geöffneten Sheets
   function getMaxOpenHeight() {
     return window.innerHeight - headerOffset;
   }
 
-// 🟡 Drag starten
+  // start dragging
   header.addEventListener('mousedown', (e) => {
     isDragging = true;
     startY = e.clientY;
@@ -36,7 +34,7 @@ function initAside() {
     document.body.style.userSelect = 'none';
   });
 
-// 🟡 Drag bewegen
+  // dragging
   document.addEventListener('mousemove', (e) => {
     if (!isDragging) return;
 
@@ -62,13 +60,13 @@ function initAside() {
     const threshold = maxTranslateY * 0.2;
 
     if (currentTranslateY > threshold) {
-      aside.style.transform = `translateY(${maxTranslateY}px)`; // geschlossen
+      aside.style.transform = `translateY(${maxTranslateY}px)`; // closed
     } else {
-      aside.style.transform = `translateY(0)`; // geöffnet
+      aside.style.transform = `translateY(0)`; // opened
     }
   });
 
-// 🟢 Toggle per Button-Klick
+// button click
   header.addEventListener('click', () => {
     const transform = getComputedStyle(aside).transform;
     const match = transform.match(/matrix.*\((.+)\)/);
@@ -82,16 +80,15 @@ function initAside() {
       : `translateY(${maxTranslateY}px)`; // schließen
   });
 
-// 🟢 Begrenzung der Aside-Höhe beim Öffnen
+  // set maxOpenHeight in order to window height
   function limitAsideHeight() {
     const maxOpenHeight = getMaxOpenHeight();
     aside.style.maxHeight = `${maxOpenHeight}px`;
   }
 
-// 🟢 Beim Laden und bei Resize anwenden
+  // set maxOpenHeight on load and resize
   window.addEventListener('load', limitAsideHeight);
   window.addEventListener('resize', limitAsideHeight);
-
 }
 
 if (document.readyState === "interactive") {
