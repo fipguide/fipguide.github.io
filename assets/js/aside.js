@@ -7,6 +7,7 @@ function isMobile() {
 function initAside() {
   const aside = document.querySelector('.o-aside__bottom-sheet');
   const header = document.querySelector('.o-aside__bottom-sheet-header');
+  const overlay = document.getElementById('overlay');
 
   let isDragging = false;
   let startY = 0;
@@ -61,8 +62,10 @@ function initAside() {
 
     if (currentTranslateY > threshold) {
       aside.style.transform = ""; // close
+      overlay.classList.remove("overlay--show");
     } else {
       aside.style.transform = `translateY(0)`; // open
+      overlay.classList.add("overlay--show");
     }
   });
 
@@ -77,8 +80,10 @@ function initAside() {
 
     if (isClosed) {
       aside.style.transform = `translateY(0)`; // open
+      overlay.classList.add("overlay--show");
     } else {
       aside.style.transform = ""; // close
+      overlay.classList.remove("overlay--show");
     }
   });
 
@@ -88,6 +93,7 @@ function initAside() {
     if (isMobile()) {
       if (e.target.classList.contains("o-aside__toc-link")) {
         aside.style.transform = "";
+        overlay.classList.remove("overlay--show");
       }
     }
   };
