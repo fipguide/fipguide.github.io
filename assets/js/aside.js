@@ -20,7 +20,7 @@ function initAside() {
   }
 
   function getMaxOpenHeight() {
-    return window.innerHeight - heightOffset - 60;
+    return window.innerHeight - heightOffset;
   }
 
   // start dragging
