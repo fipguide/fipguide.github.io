@@ -5,112 +5,129 @@ function isMobile() {
 }
 
 function initAside() {
-  const aside = document.querySelector(".o-aside__bottom-sheet");
-  const header = document.querySelector(".o-aside__bottom-sheet-header");
+  const bottomSheet = document.querySelector('.o-aside__bottom-sheet');
+  const handleBtn = document.querySelector('.o-aside__bottom-sheet-header');
+  const content = document.querySelector('.o-aside__bottom-sheet-content');
   const overlay = document.getElementById("overlay");
 
-  let isDragging = false;
+  let currentState = 'closed'; // 'half', 'full'
+
+  // function lockScroll(lock) {
+  //   document.body.style.overflow = lock ? 'hidden' : '';
+  // }
+
+  function toggleSheet() {
+    if (currentState === 'closed') {
+      bottomSheet.classList.add('open-half');
+      currentState = 'half';
+      overlay.classList.add("overlay--show");
+      //lockScroll(true);
+    } else if (currentState === 'half') {
+      bottomSheet.classList.remove('open-half');
+      bottomSheet.classList.add('open-full');
+      currentState = 'full';
+    } else {
+      bottomSheet.classList.remove('open-full');
+      currentState = 'closed';
+      overlay.classList.remove("overlay--show");
+      //lockScroll(false);
+    }
+  }
+
+  handleBtn.addEventListener('click', toggleSheet);
+
+// Drag support
   let startY = 0;
-  let startTranslateY = 0;
-  const buttonHeight = 64;
-  const heightOffset = 150;
+  let currentY = 0;
+  let isDragging = false;
 
-  function getMaxTranslateY() {
-    return aside.offsetHeight - buttonHeight;
-  }
-
-  function getMaxOpenHeight() {
-    return window.innerHeight - heightOffset;
-  }
-
-  // start dragging
   const dragStart = (e) => {
-    isDragging = true;
     startY = e.clientY || e.touches?.[0].clientY;
-
-    const transform = getComputedStyle(aside).transform;
-    const match = transform.match(/matrix.*\((.+)\)/);
-    startTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
-
-    document.body.style.userSelect = "none";
-  };
+    isDragging = true;
+    console.log("dragStart");
+  }
 
   const dragging = (e) => {
+    console.log("isDragging " + isDragging);
     if (!isDragging) return;
+    currentY = (e.clientY || e.touches?.[0].clientY);
+    const deltaY =  startY - currentY;
 
-    const dy = (e.clientY || e.touches?.[0].clientY) - startY;
-    const newTranslateY = startTranslateY + dy;
-    const maxTranslateY = getMaxTranslateY();
-    const clampedTranslateY = Math.min(
-      Math.max(0, newTranslateY),
-      maxTranslateY,
-    );
+    if (currentState === 'closed') {
+      console.log("case closed");
+      if (deltaY > 400) {
+        bottomSheet.classList.add('open-full');
+        currentState = 'open-full';
+        overlay.classList.add("overlay--show");
+        console.log("set open-full");
+      } else if (deltaY > 0) {
+        bottomSheet.classList.add('open-half');
+        currentState = 'open-half';
+        overlay.classList.add("overlay--show");
+        console.log("set open-half");
+      }
+    }
 
-    aside.style.transform = `translateY(${clampedTranslateY}px)`;
-  };
+    if (currentState === 'open-half') {
+      console.log("case open-half");
+      if (deltaY > 0) {
+        bottomSheet.classList.remove('open-half');
+        bottomSheet.classList.add('open-full');
+        currentState = 'open-full';
+        console.log("set open-full");
+      } else if (deltaY < 0) {
+        bottomSheet.classList.remove('open-half');
+        currentState = 'closed';
+        overlay.classList.remove("overlay--show");
+      }
+    }
+
+    if (currentState === 'open-full') {
+      console.log("case open-full " + deltaY);
+      if (deltaY < -400) {
+        bottomSheet.classList.remove('open-full');
+        currentState = 'closed';
+        overlay.classList.remove("overlay--show");
+      } else if (deltaY > -200 && deltaY < 0) {
+        bottomSheet.classList.remove('open-full');
+        bottomSheet.classList.add('open-half');
+        currentState = 'open-half';
+      }
+    }
+  }
 
   const dragEnd = (e) => {
     if (!isDragging) return;
     isDragging = false;
-    document.body.style.userSelect = "";
+    console.log("dragEnd");
+  }
 
-    const transform = getComputedStyle(aside).transform;
-    const match = transform.match(/matrix.*\((.+)\)/);
-    const currentTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
+  handleBtn.addEventListener("mousedown", dragStart);
+  handleBtn.addEventListener("mousemove", dragging);
+  handleBtn.addEventListener("mouseup", dragEnd);
 
-    const maxTranslateY = getMaxTranslateY();
-    const threshold = maxTranslateY * 0.2;
-
-    if (currentTranslateY > threshold) {
-      aside.style.transform = ""; // close
-      overlay.classList.remove("overlay--show");
-    } else {
-      aside.style.transform = `translateY(0)`; // open
-      overlay.classList.add("overlay--show");
-    }
-  };
-
-  header.addEventListener("mousedown", dragStart);
-  document.addEventListener("mousemove", dragging);
-  document.addEventListener("mouseup", dragEnd);
-
-  header.addEventListener("touchstart", dragStart);
-  document.addEventListener("touchmove", dragging);
-  document.addEventListener("touchend", dragEnd);
-
-  // button click
-  header.addEventListener("click", () => {
-    const transform = getComputedStyle(aside).transform;
-    const match = transform.match(/matrix.*\((.+)\)/);
-    const currentTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
-
-    const maxTranslateY = getMaxTranslateY();
-    const isClosed = currentTranslateY >= maxTranslateY - 1;
-
-    if (isClosed) {
-      aside.style.transform = `translateY(0)`; // open
-      overlay.classList.add("overlay--show");
-    } else {
-      aside.style.transform = ""; // close
-      overlay.classList.remove("overlay--show");
-    }
-  });
+  handleBtn.addEventListener("touchstart", dragStart);
+  handleBtn.addEventListener("touchmove", dragging);
+  handleBtn.addEventListener("touchend", dragEnd);
 
   // close bottom-sheet if link is clicked
   window.onclick = (e) => {
-    const maxTranslateY = getMaxTranslateY();
     if (isMobile()) {
       if (e.target.classList.contains("o-aside__toc-link")) {
-        aside.style.transform = "";
+        bottomSheet.classList.remove('open-half');
         overlay.classList.remove("overlay--show");
       }
     }
   };
 
+  function getMaxOpenHeight() {
+    return window.innerHeight - 120;
+  }
+
   // set maxOpenHeight in order to window height
   function limitAsideHeight() {
     const maxOpenHeight = getMaxOpenHeight();
-    aside.style.maxHeight = `${maxOpenHeight}px`;
+    bottomSheet.style.maxHeight = `${maxOpenHeight}px`;
   }
 
   // set maxOpenHeight on load and resize

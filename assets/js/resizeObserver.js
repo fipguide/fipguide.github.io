@@ -4,7 +4,7 @@ function resizeObserver() {
   const navContainer = document.querySelector(".o-header__nav");
   const menuButton = document.querySelector(".o-nav__menu-button");
   const overlay = document.getElementById("overlay");
-  const aside = document.getElementById("aside");
+  const aside = document.querySelector(".o-aside__bottom-sheet");
 
   window.addEventListener("resize", () => {
     //close mobile menu on viewports >= md
@@ -12,8 +12,7 @@ function resizeObserver() {
       navContainer.classList.remove("o-header__nav--open");
       menuButton.setAttribute("aria-expanded", false);
       overlay.classList.remove("overlay--show");
-      aside.classList.remove("o-aside--mobile-open");
-      aside.style.transform = "";
+      aside.classList.remove("open-full", "open-half");
     }
   });
 }
