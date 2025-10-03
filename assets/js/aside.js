@@ -33,7 +33,7 @@ function initAside() {
     startTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
 
     document.body.style.userSelect = "none";
-  }
+  };
 
   const dragging = (e) => {
     if (!isDragging) return;
@@ -47,7 +47,7 @@ function initAside() {
     );
 
     aside.style.transform = `translateY(${clampedTranslateY}px)`;
-  }
+  };
 
   const dragEnd = (e) => {
     if (!isDragging) return;
@@ -68,7 +68,7 @@ function initAside() {
       aside.style.transform = `translateY(0)`; // open
       overlay.classList.add("overlay--show");
     }
-  }
+  };
 
   header.addEventListener("mousedown", dragStart);
   document.addEventListener("mousemove", dragging);
