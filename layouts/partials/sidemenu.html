@@ -3,36 +3,36 @@
     <span></span>
     <div>
       {{ if eq .Page.Type "country" }}
-      {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
+        {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
       {{ else if eq .Page.Type "operator" }}
-      {{ partial "operator-logo" (dict "operator" .File.ContentBaseName "pagefind" true) }}
+        {{ partial "operator-logo" (dict "operator" .File.ContentBaseName "pagefind" true) }}
       {{ end }}
       <div>{{ .Page.Title }}</div>
     </div>
   </button>
   <div class="o-single__container o-aside__bottom-sheet-content">
     {{ if eq .Page.Type "operator" }}
-    <ul>
-      {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
-      {{ with $related }}
-      {{ range . }}
-      {{ if eq .Page.Type "country" }}
-      <li>
-        <a
-          href="{{ .RelPermalink }}"
-          aria-label="{{ print (T "navigate-to-country") " " .LinkTitle }}"
-        >
-        {{ partial "icon" "arrow_back" }}
-        <span class="o-aside__backlink-text"
-        >{{ partial "flag" (dict "country" .File.ContentBaseName) }}
-                  {{ .LinkTitle }}</span
-        >
-        </a>
-      </li>
-      {{ end }}
-      {{ end }}
-      {{ end }}
-    </ul>
+      <ul>
+        {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+        {{ with $related }}
+          {{ range . }}
+            {{ if eq .Page.Type "country" }}
+              <li>
+                <a
+                  href="{{ .RelPermalink }}"
+                  aria-label="{{ print (T "navigate-to-country") " " .LinkTitle }}"
+                >
+                  {{ partial "icon" "arrow_back" }}
+                  <span class="o-aside__backlink-text"
+                    >{{ partial "flag" (dict "country" .File.ContentBaseName) }}
+                    {{ .LinkTitle }}</span
+                  >
+                </a>
+              </li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>
     {{ end }}
 
 
@@ -40,37 +40,37 @@
     {{ partial "toc" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
 
     {{ if eq .Page.Type "country" }}
-    {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "_operator__list_title") "page" . "identifier" "operators") }}
-    {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
+      {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "_operator__list_title") "page" . "identifier" "operators") }}
+      {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
     {{ end }}
     {{ if eq .Page.Type "operator" }}
-    {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
-    {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
+      {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
+      {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
     {{ end }}
     <hr />
     {{ partial "link"
-    (dict
-    "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-    "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
-    )
+      (dict
+      "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+      "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+      )
     }}
     {{ if eq .Page.Type "operator" }}
-    {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
-    {{ partial "link"
-    (dict
-    "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
-    "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
-    )
-    }}
+      {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
+      {{ partial "link"
+        (dict
+        "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
+        "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+        )
+      }}
     {{ end }}
     {{ if eq .Page.Type "country" }}
-    {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
-    {{ partial "link"
-    (dict
-    "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
-    "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
-    )
-    }}
+      {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
+      {{ partial "link"
+        (dict
+        "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
+        "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+        )
+      }}
     {{ end }}
   </div>
 </aside>

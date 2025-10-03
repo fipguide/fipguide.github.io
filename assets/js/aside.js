@@ -5,9 +5,9 @@ function isMobile() {
 }
 
 function initAside() {
-  const aside = document.querySelector('.o-aside__bottom-sheet');
-  const header = document.querySelector('.o-aside__bottom-sheet-header');
-  const overlay = document.getElementById('overlay');
+  const aside = document.querySelector(".o-aside__bottom-sheet");
+  const header = document.querySelector(".o-aside__bottom-sheet-header");
+  const overlay = document.getElementById("overlay");
 
   let isDragging = false;
   let startY = 0;
@@ -24,38 +24,41 @@ function initAside() {
   }
 
   // start dragging
-  header.addEventListener('mousedown', (e) => {
+  header.addEventListener("mousedown", (e) => {
     isDragging = true;
     startY = e.clientY;
 
     const transform = getComputedStyle(aside).transform;
     const match = transform.match(/matrix.*\((.+)\)/);
-    startTranslateY = match ? parseFloat(match[1].split(',')[5]) : 0;
+    startTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
 
-    document.body.style.userSelect = 'none';
+    document.body.style.userSelect = "none";
   });
 
   // dragging
-  document.addEventListener('mousemove', (e) => {
+  document.addEventListener("mousemove", (e) => {
     if (!isDragging) return;
 
     const dy = e.clientY - startY;
     const newTranslateY = startTranslateY + dy;
     const maxTranslateY = getMaxTranslateY();
-    const clampedTranslateY = Math.min(Math.max(0, newTranslateY), maxTranslateY);
+    const clampedTranslateY = Math.min(
+      Math.max(0, newTranslateY),
+      maxTranslateY,
+    );
 
     aside.style.transform = `translateY(${clampedTranslateY}px)`;
   });
 
-// 🟡 Drag loslassen + Snap bei leichter Bewegung
-  document.addEventListener('mouseup', () => {
+  // 🟡 Drag loslassen + Snap bei leichter Bewegung
+  document.addEventListener("mouseup", () => {
     if (!isDragging) return;
     isDragging = false;
-    document.body.style.userSelect = '';
+    document.body.style.userSelect = "";
 
     const transform = getComputedStyle(aside).transform;
     const match = transform.match(/matrix.*\((.+)\)/);
-    const currentTranslateY = match ? parseFloat(match[1].split(',')[5]) : 0;
+    const currentTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
 
     const maxTranslateY = getMaxTranslateY();
     const threshold = maxTranslateY * 0.2;
@@ -69,11 +72,11 @@ function initAside() {
     }
   });
 
-// button click
-  header.addEventListener('click', () => {
+  // button click
+  header.addEventListener("click", () => {
     const transform = getComputedStyle(aside).transform;
     const match = transform.match(/matrix.*\((.+)\)/);
-    const currentTranslateY = match ? parseFloat(match[1].split(',')[5]) : 0;
+    const currentTranslateY = match ? parseFloat(match[1].split(",")[5]) : 0;
 
     const maxTranslateY = getMaxTranslateY();
     const isClosed = currentTranslateY >= maxTranslateY - 1;
@@ -105,8 +108,8 @@ function initAside() {
   }
 
   // set maxOpenHeight on load and resize
-  window.addEventListener('load', limitAsideHeight);
-  window.addEventListener('resize', limitAsideHeight);
+  window.addEventListener("load", limitAsideHeight);
+  window.addEventListener("resize", limitAsideHeight);
 }
 
 if (document.readyState === "interactive") {
