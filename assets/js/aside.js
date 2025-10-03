@@ -7,7 +7,6 @@ function isMobile() {
 function initAside() {
   const bottomSheet = document.querySelector(".o-aside__bottom-sheet");
   const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
-  const content = document.querySelector(".o-aside__bottom-sheet-content");
   const overlay = document.getElementById("overlay");
 
   let currentState = "closed"; // 'half', 'full'
@@ -102,7 +101,7 @@ function initAside() {
     }
   };
 
-  const dragEnd = (e) => {
+  const dragEnd = () => {
     if (!isDragging) return;
     isDragging = false;
     console.log("dragEnd");
