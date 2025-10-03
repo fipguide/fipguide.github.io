@@ -5,21 +5,21 @@ function isMobile() {
 }
 
 function initAside() {
-  const aside = document.getElementById('aside');
-  const header = document.getElementById('sheet-header');
+  const aside = document.querySelector('.o-aside__bottom-sheet');
+  const header = document.querySelector('.o-aside__bottom-sheet-header');
 
   let isDragging = false;
   let startY = 0;
   let startTranslateY = 0;
   const buttonHeight = 64;
-  const headerOffset = 60;
+  const heightOffset = 150;
 
   function getMaxTranslateY() {
     return aside.offsetHeight - buttonHeight;
   }
 
   function getMaxOpenHeight() {
-    return window.innerHeight - headerOffset;
+    return window.innerHeight - heightOffset - 60;
   }
 
   // start dragging
@@ -60,7 +60,7 @@ function initAside() {
     const threshold = maxTranslateY * 0.2;
 
     if (currentTranslateY > threshold) {
-      aside.style.transform = `translateY(${maxTranslateY}px)`; // closed
+      aside.style.transform = ""; // closed
     } else {
       aside.style.transform = `translateY(0)`; // opened
     }
@@ -77,15 +77,15 @@ function initAside() {
 
     aside.style.transform = isClosed
       ? `translateY(0)` // öffnen
-      : `translateY(${maxTranslateY}px)`; // schließen
+      : ""; // schließen
   });
 
+  // close bottom-sheet if link is clicked
   window.onclick = (e) => {
     const maxTranslateY = getMaxTranslateY();
     if (isMobile()) {
-      //console.log(e.target);
       if (e.target.classList.contains("o-aside__toc-link")) {
-        aside.style.transform = `translateY(${maxTranslateY}px)`;
+        aside.style.transform = "";
       }
     }
   };
