@@ -5,7 +5,7 @@ function isMobile() {
 }
 
 function initAside() {
-  const expandButton = document.getElementById("anfasser");
+  const expandButton = document.getElementById("sheet-header");
 
   if (expandButton) {
     expandButton.addEventListener("click", () => {
