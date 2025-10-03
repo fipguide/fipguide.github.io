@@ -12,16 +12,16 @@ function initAside() {
 
   let currentState = "closed"; // 'half', 'full'
 
-  // function lockScroll(lock) {
-  //   document.body.style.overflow = lock ? 'hidden' : '';
-  // }
+  function lockScroll(lock) {
+    document.body.style.overflow = lock ? "hidden" : "";
+  }
 
   function toggleSheet() {
     if (currentState === "closed") {
       bottomSheet.classList.add("open-half");
       currentState = "half";
       overlay.classList.add("overlay--show");
-      //lockScroll(true);
+      lockScroll(true);
     } else if (currentState === "half") {
       bottomSheet.classList.remove("open-half");
       bottomSheet.classList.add("open-full");
@@ -30,7 +30,7 @@ function initAside() {
       bottomSheet.classList.remove("open-full");
       currentState = "closed";
       overlay.classList.remove("overlay--show");
-      //lockScroll(false);
+      lockScroll(false);
     }
   }
 
@@ -59,11 +59,13 @@ function initAside() {
         bottomSheet.classList.add("open-full");
         currentState = "open-full";
         overlay.classList.add("overlay--show");
+        lockScroll(true);
         console.log("set open-full");
       } else if (deltaY > 0) {
         bottomSheet.classList.add("open-half");
         currentState = "open-half";
         overlay.classList.add("overlay--show");
+        lockScroll(true);
         console.log("set open-half");
       }
     }
@@ -74,10 +76,12 @@ function initAside() {
         bottomSheet.classList.remove("open-half");
         bottomSheet.classList.add("open-full");
         currentState = "open-full";
+        lockScroll(true);
         console.log("set open-full");
       } else if (deltaY < 0) {
         bottomSheet.classList.remove("open-half");
         currentState = "closed";
+        lockScroll(false);
         overlay.classList.remove("overlay--show");
       }
     }
@@ -87,11 +91,13 @@ function initAside() {
       if (deltaY < -400) {
         bottomSheet.classList.remove("open-full");
         currentState = "closed";
+        lockScroll(false);
         overlay.classList.remove("overlay--show");
       } else if (deltaY > -200 && deltaY < 0) {
         bottomSheet.classList.remove("open-full");
         bottomSheet.classList.add("open-half");
         currentState = "open-half";
+        lockScroll(true);
       }
     }
   };
