@@ -5,12 +5,61 @@ function isMobile() {
 }
 
 function initAside() {
-  const expandButton = document.getElementById("sheet-header");
+  const aside = document.getElementById("aside");
+  const overlay = document.getElementById("overlay");
+  const button = document.getElementById("sheet-header");
+  let isDragging = false, startY, startHeight;
 
-  if (expandButton) {
-    expandButton.addEventListener("click", () => {
+  const toggleAside = () => {
+    if(aside.classList.contains("o-aside--mobile-open")) {
+      aside.classList.remove("o-aside--mobile-open");
+      updateAsideHeight(64);
+      setTimeout(() => {
+        aside.style.justifyContent = 'start';
+      }, 500);
+      overlay.classList.remove("overlay--show");
+    } else {
+      aside.classList.add("o-aside--mobile-open");
+      overlay.classList.add("overlay--show");
+      updateAsideHeight(window.innerHeight - 60);
+      setTimeout(() => {
+        aside.style.justifyContent = 'end';
+      }, 500);
+    }
+  }
+
+  const updateAsideHeight = (height) => {
+    console.log(height);
+    aside.style.height = `${height}px`;
+  }
+
+  // Sets inital drag position and aside height
+  const dragStart = (e) => {
+    isDragging = true;
+    startY = e.pageY;
+    startHeight = parseInt(aside.style.height);
+  }
+
+  // Calculates the new height for aside
+  const dragging = (e) => {
+    if(!isDragging) return;
+    const delta = startY - e.pageY;
+    const newHeight = startHeight + delta / window.innerHeight * 100;
+    updateAsideHeight(newHeight);
+  }
+
+  const dragStop = () => {
+    isDragging = false;
+  }
+
+  if (button) {
+    button.addEventListener("click", () => {
       toggleAside();
     });
+
+    document.addEventListener("mouseup", dragStop);
+    button.addEventListener("mousedown", dragStart);
+    document.addEventListener("mousemove", dragging);
   }
 
   window.onclick = (e) => {
@@ -22,14 +71,6 @@ function initAside() {
       }
     }
   };
-}
-
-function toggleAside() {
-  const aside = document.getElementById("aside");
-  const overlay = document.getElementById("overlay");
-
-  aside.classList.toggle("o-aside--mobile-open");
-  overlay.classList.toggle("overlay--show");
 }
 
 if (document.readyState === "interactive") {
