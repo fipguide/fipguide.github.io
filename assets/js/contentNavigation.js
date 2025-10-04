@@ -9,7 +9,7 @@ function initAside() {
   const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
   const overlay = document.getElementById("overlay");
 
-  let currentState = "closed"; // 'half', 'full'
+  let currentState = "closed";
 
   function lockScroll(lock) {
     document.body.style.overflow = lock ? "hidden" : "";
@@ -120,6 +120,7 @@ function initAside() {
     if (isMobile()) {
       if (e.target.classList.contains("o-aside__toc-link")) {
         bottomSheet.classList.remove("open-full", "open-half");
+        currentState = "closed";
         overlay.classList.remove("overlay--show");
         lockScroll(false);
       }

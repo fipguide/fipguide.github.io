@@ -13,6 +13,7 @@ function resizeObserver() {
       menuButton.setAttribute("aria-expanded", false);
       overlay.classList.remove("overlay--show");
       aside.classList.remove("open-full", "open-half");
+
       document.body.style.overflow = "";
     }
   });
