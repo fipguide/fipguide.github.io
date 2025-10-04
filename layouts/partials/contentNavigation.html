@@ -1,5 +1,10 @@
 <aside id="aside" class="o-aside o-aside__bottom-sheet">
-  <button class="o-aside__bottom-sheet-header">
+  <button
+    class="o-aside__bottom-sheet-header"
+    aria-label="{{ T "contentNavigation.button" }}"
+    aria-controls="bottomSheet-content"
+    aria-expanded="false"
+  >
     <span class="o-aside__bottom-sheet-drag"></span>
     <span class="o-aside__bottom-sheet-logo">
       {{ if eq .Page.Type "country" }}
@@ -10,7 +15,11 @@
       <div>{{ .Page.Title }}</div>
     </span>
   </button>
-  <div class="o-aside__bottom-sheet-content">
+  <div
+    class="o-aside__bottom-sheet-content"
+    id="bottom-sheet-content"
+    aria-label="{{ T "contentNavigation.title" }}"
+  >
     <div class="o-single__container">
       {{ if eq .Page.Type "operator" }}
         <ul>

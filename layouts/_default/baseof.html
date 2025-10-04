@@ -7,7 +7,7 @@
     {{ partial "head" . }}
   </head>
   <body>
-    <div id="overlay"></div>
+    <div id="overlay" aria-hidden="true"></div>
     <header id="header" class="o-header">{{ partial "header.html" . }}</header>
     <main id="content" class="{{ if .IsHome }}o-startpage{{ end }}">
       <div class="o-container">

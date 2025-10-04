@@ -106,7 +106,7 @@
     overflow: hidden;
     transition: transform 0.5s ease-in-out;
     border-radius: 1rem 1rem 0 0;
-    transform: translateY(calc(100% - 6.4rem)); /* Nur Button sichtbar */
+    transform: translateY(calc(100% - 6.4rem));
     box-shadow: var(--box-shadow);
 
     &.open-half {

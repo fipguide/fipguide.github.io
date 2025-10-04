@@ -4,12 +4,40 @@ function isMobile() {
   return window.matchMedia(mq.maxMD).matches;
 }
 
+function setA11YProperties(currentState) {
+  const bottomSheetContent = document.querySelector(
+    ".o-aside__bottom-sheet-content",
+  );
+  const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
+
+  if (isMobile()) {
+    switch (currentState) {
+      case "closed":
+        bottomSheetContent.setAttribute("role", "dialog");
+        bottomSheetContent.setAttribute("aria-hidden", "true");
+        handleBtn.setAttribute("aria-expanded", "false");
+        break;
+      case "half":
+      case "full":
+        bottomSheetContent.setAttribute("aria-hidden", "false");
+        handleBtn.setAttribute("aria-expanded", "true");
+        break;
+    }
+  } else {
+    bottomSheetContent.setAttribute("aria-hidden", "false");
+    bottomSheetContent.removeAttribute("role", "dialog");
+    handleBtn.setAttribute("aria-expanded", "false");
+  }
+}
+
 function initAside() {
   const bottomSheet = document.querySelector(".o-aside__bottom-sheet");
   const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
   const overlay = document.getElementById("overlay");
 
   let currentState = "closed";
+
+  setA11YProperties(currentState);
 
   function lockScroll(lock) {
     document.body.style.overflow = lock ? "hidden" : "";
@@ -21,15 +49,18 @@ function initAside() {
       currentState = "half";
       overlay.classList.add("overlay--show");
       lockScroll(true);
+      setA11YProperties(currentState);
     } else if (currentState === "half") {
       bottomSheet.classList.remove("open-half");
       bottomSheet.classList.add("open-full");
       currentState = "full";
+      setA11YProperties(currentState);
     } else {
       bottomSheet.classList.remove("open-full");
       currentState = "closed";
       overlay.classList.remove("overlay--show");
       lockScroll(false);
+      setA11YProperties(currentState);
     }
   }
 
@@ -43,60 +74,58 @@ function initAside() {
   const dragStart = (e) => {
     startY = e.clientY || e.touches?.[0].clientY;
     isDragging = true;
-    console.log("dragStart");
   };
 
   const dragging = (e) => {
-    console.log("isDragging " + isDragging);
     if (!isDragging) return;
     currentY = e.clientY || e.touches?.[0].clientY;
     const deltaY = startY - currentY;
 
     if (currentState === "closed") {
-      console.log("case closed");
       if (deltaY > 400) {
         bottomSheet.classList.add("open-full");
-        currentState = "open-full";
+        currentState = "full";
         overlay.classList.add("overlay--show");
         lockScroll(true);
-        console.log("set open-full");
+        setA11YProperties(currentState);
       } else if (deltaY > 0) {
         bottomSheet.classList.add("open-half");
-        currentState = "open-half";
+        currentState = "half";
         overlay.classList.add("overlay--show");
         lockScroll(true);
-        console.log("set open-half");
+        setA11YProperties(currentState);
       }
     }
 
-    if (currentState === "open-half") {
-      console.log("case open-half");
+    if (currentState === "half") {
       if (deltaY > 0) {
         bottomSheet.classList.remove("open-half");
         bottomSheet.classList.add("open-full");
-        currentState = "open-full";
+        currentState = "full";
         lockScroll(true);
-        console.log("set open-full");
+        setA11YProperties(currentState);
       } else if (deltaY < 0) {
         bottomSheet.classList.remove("open-half");
         currentState = "closed";
         lockScroll(false);
         overlay.classList.remove("overlay--show");
+        setA11YProperties(currentState);
       }
     }
 
-    if (currentState === "open-full") {
-      console.log("case open-full " + deltaY);
+    if (currentState === "full") {
       if (deltaY < -400) {
         bottomSheet.classList.remove("open-full");
         currentState = "closed";
         lockScroll(false);
         overlay.classList.remove("overlay--show");
+        setA11YProperties(currentState);
       } else if (deltaY > -200 && deltaY < 0) {
         bottomSheet.classList.remove("open-full");
         bottomSheet.classList.add("open-half");
-        currentState = "open-half";
+        currentState = "half";
         lockScroll(true);
+        setA11YProperties(currentState);
       }
     }
   };
@@ -104,7 +133,6 @@ function initAside() {
   const dragEnd = () => {
     if (!isDragging) return;
     isDragging = false;
-    console.log("dragEnd");
   };
 
   handleBtn.addEventListener("mousedown", dragStart);
@@ -123,6 +151,7 @@ function initAside() {
         currentState = "closed";
         overlay.classList.remove("overlay--show");
         lockScroll(false);
+        setA11YProperties(currentState);
       }
     }
   };
@@ -138,8 +167,15 @@ function initAside() {
   }
 
   // set maxOpenHeight on load and resize
-  window.addEventListener("load", limitAsideHeight);
-  window.addEventListener("resize", limitAsideHeight);
+  window.addEventListener("load", () => {
+    limitAsideHeight();
+    setA11YProperties(currentState);
+  });
+
+  window.addEventListener("resize", () => {
+    limitAsideHeight();
+    setA11YProperties(currentState);
+  });
 }
 
 if (document.readyState === "interactive") {

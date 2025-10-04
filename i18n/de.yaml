@@ -21,6 +21,9 @@ countries:
     dropdown-label: Verfügbare Länder
     title: Länder
   without-fip: Länder ohne FIP Akzeptanz
+contentNavigation:
+  button: Inhaltsübersicht öffnen und schließen
+  title: Inhaltsübersicht
 country:
   many: Länder
   one: Land
