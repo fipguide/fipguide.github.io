@@ -11,9 +11,12 @@ function resizeObserver() {
     if (window.matchMedia(mq.minMD).matches) {
       navContainer.classList.remove("o-header__nav--open");
       menuButton.setAttribute("aria-expanded", false);
+    }
+
+    if (window.matchMedia(mq.minLG).matches) {
+      //close content navigation on viewports >= lg
       overlay.classList.remove("overlay--show");
       aside.classList.remove("open-full", "open-half");
-
       document.body.style.overflow = "";
     }
   });

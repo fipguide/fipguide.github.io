@@ -1,7 +1,7 @@
 import * as mq from "./mediaqueries";
 
 function isMobile() {
-  return window.matchMedia(mq.maxMD).matches; //caution: there is a gap between css and js values for breakpoints
+  return window.matchMedia(mq.maxMD).matches;
 }
 
 function initAside() {
