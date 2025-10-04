@@ -101,16 +101,18 @@ Trains supplémentaires vers certaines destinations touristiques, souvent simple
 
 ### En ligne
 
-{{% booking id="sncb-website" %}}
-Lorsque vous utilisez un coupon FIP SNCB, un billet transfrontalier peut être réservé via le site web, qui prend en compte le trajet gratuit sur le territoire belge. Pour cela, sélectionnez la réduction "100% Discount Belgium (SNCB)" pour les voyageurs. Cela permet par exemple de réserver très facilement des trajets de la Belgique vers Lille (hors `TGV`, tarif global et non exploité par la SNCB).
-{{% /booking %}}
+Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
+
+{{% booking id="sncb-website"
+  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique"
+/%}}
 
 {{% booking id="db-website-fip-db"
-  subtitle="Pour les trajets nationaux et internationaux. Billets FIP 50 transfrontaliers, avec une portion de billet uniquement pour le tronçon belge, destinés aux employés de la Deutsche Bahn."
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique, avec part de billet uniquement pour la section belge. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Pour les trajets nationaux et internationaux. Billets FIP 50 transfrontaliers pour l’ensemble du parcours (non valables dans le pays d’origine)."
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)."
 /%}}
 
 ### En gare
