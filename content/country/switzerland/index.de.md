@@ -73,6 +73,8 @@ Aus Frankreich gibt es verschiedene Verbindungen:
 
 In den `TGV`-Zügen sind reguläre FIP-Tickets nicht gültig. Hier wird ein FIP Globalpreis Ticket benötigt. Für Regionalzüge reicht ein FIP 50 Ticket oder Freifahrtscheine beider beteiligten Bahngesellschaften aus.
 
+Imm Raum Genf fahren grenzüberschreitende Regionalzüge die als Léman Express bezeichnet und von der SBB und SNCF betrieben werden. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
+
 ### Italien
 
 Aus Italien kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen in die Schweiz gereist werden. Von Mailand kann sowohl über Como als auch über Domodossola das Schweizer Netz erreicht werden. Die Züge über Como fahren meist weiter in Richtung Zürich, die über Domodossola nach Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist eine Reservierung nötig, die einen Aufschlag beinhaltet.

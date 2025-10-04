@@ -14,7 +14,7 @@ Buchungen per Telefon sind über die SNCF Hotline möglich:
 
 [+33 1 84 94 36 35](tel:+33184943635)
 
-Die Buchung ist auf Französisch und Englisch möglich.
+Die Buchung ist auf Französisch und Englisch möglich. Bei der Buchung müssen Kreditkartendaten, persönliche Informationen und eine E-Mail-Adresse angegeben werden.
 
 Am Ende der auf Französisch vorgestellten Menüoptionen gibt es die Möglichkeit, mit einem englischsprachigen Mitarbeiter verbunden zu werden – drücken Sie #85.
 Im nächsten Sprachmenü kann „Voyages/Journey“ durch Drücken der 1 gewählt werden.

@@ -146,6 +146,8 @@ Bei normalen Ticket reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder 
 
 ## Tarifliche Besonderheiten
 
+### Reservierungspflicht im Regionalverkehr
+
 ### Grenzüberschreitende TGV inOui / ICE Züge
 
 {{% expander "TGV/ICE-Züge nach Deutschland" %}}
@@ -178,19 +180,26 @@ Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten
 Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.
 
 Vergünstigte FIP Tickets für die RER Züge kann in Transilien Ticketschaltern gekauft werden. Bei Nutzung der RER Züge mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter ein kostenloser _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+![Contramarque de Passage](contramarquedePassage.webp)
 {{% /expander %}}
 
 {{% expander "Transilien Züge" %}}
 FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, und V.
 
 Vergünstigte FIP Tickets für die Transilien Züge kann in Transilien Ticketschaltern gekauft werden. Bei Nutzung der Transilien Züge mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter ein kostenloser _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+![Contramarque de Passage](contramarquedePassage.webp)
 {{% /expander %}}
 
 {{% expander "Straßenbahnen" %}}
 Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben. Zur Gültigkeit von FIP vergünstigungen auf diesen Linien gibt es wiedersprüchliche Aussagen. Auf den restelichen Straßenbahnlinien gelten keine FIP Vergünstigungen.
 
 Vergünstigte FIP Tickets für die Straßenbahn kann an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Straßenbahn mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter ein kostenloser _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+![Contramarque de Passage](contramarquedePassage.webp)
 {{% /expander %}}
+
+### Léman Express
+
+Zwischen Frankreich und Genf in der Schweiz verkehren internationale `TER` Züge die als Léman Express gebranded sind. Die Züge werden aus einer Kooperation zwischen der SNCF und der SBB betrieben. FIP Vergünstigungen im gesamten Léman Express Netzwerk. SNCF FIP Freifahrtscheine gelten auch im Schweizer Teil des Léman Expresses.
 
 ### Busverkehr
 
