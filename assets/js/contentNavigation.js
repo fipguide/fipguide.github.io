@@ -5,9 +5,7 @@ function isMobile() {
 }
 
 function setA11YProperties(currentState) {
-  const bottomSheetContent = document.querySelector(
-    ".o-aside__bottom-sheet-content",
-  );
+  const bottomSheetContent = document.querySelector(".o-aside__bottom-sheet-content");
   const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
 
   if (isMobile()) {
