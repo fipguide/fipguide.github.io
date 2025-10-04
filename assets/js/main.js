@@ -2,7 +2,7 @@ import "./mobileMenu.js";
 import "./resizeObserver.js";
 import "./mediaqueries.js";
 import "./highlightHeadline.js";
-import "./aside.js";
+import "./contentNavigation.js";
 import "./anchorlinks.js";
 import "./dropdown.js";
 import "./darkmode.js";
