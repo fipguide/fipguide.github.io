@@ -14,6 +14,9 @@ booking:
   reservation-costs: Reservierungskosten
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+contentNavigation:
+  button: Inhaltsübersicht öffnen und schließen
+  title: Inhaltsübersicht
 countries:
   overview: Länder mit FIP Akzeptanz
   selection:
@@ -21,9 +24,6 @@ countries:
     dropdown-label: Verfügbare Länder
     title: Länder
   without-fip: Länder ohne FIP Akzeptanz
-contentNavigation:
-  button: Inhaltsübersicht öffnen und schließen
-  title: Inhaltsübersicht
 country:
   many: Länder
   one: Land
