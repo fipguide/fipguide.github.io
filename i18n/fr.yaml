@@ -13,6 +13,9 @@ booking:
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+contentNavigation:
+  button: Ouvrir et fermer l’aperçu du contenu
+  title: Aperçu du contenu
 countries:
   overview: Pays acceptation FIP
   selection:
