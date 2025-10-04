@@ -1,7 +1,7 @@
 <aside class="o-aside o-aside__bottom-sheet">
   <button class="o-aside__bottom-sheet-header">
-    <span></span>
-    <span class="o-aside__bottom-sheet-header-logo">
+    <span class="o-aside__bottom-sheet-drag"></span>
+    <span class="o-aside__bottom-sheet-logo">
       {{ if eq .Page.Type "country" }}
         {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
       {{ else if eq .Page.Type "operator" }}

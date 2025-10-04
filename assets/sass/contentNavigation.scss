@@ -157,7 +157,7 @@
       background: var(--bg-default);
       color: var(--color-body);
 
-      span {
+      .o-aside__bottom-sheet-drag {
         height: 0.4rem;
         width: 4rem;
         display: block;
@@ -165,7 +165,7 @@
         border-radius: 2rem;
       }
 
-      .o-aside__bottom-sheet-header-logo {
+      .o-aside__bottom-sheet-logo {
         display: flex;
         align-items: center;
         gap: 1.5rem;
