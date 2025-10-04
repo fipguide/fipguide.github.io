@@ -23,13 +23,16 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
   - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
 -->
 
+- FIP Vergünstigungen gelten auch in SNCF Bussen
+
 ## Gültigkeit FIP Tickets
 
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅ \
+FIP Globalpreis: ✅ (Für internationale TGV Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge))
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 
 ## Zugkategorien und Reservierungen
 
@@ -117,64 +120,81 @@ Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum
 
 ### Online
 
-<!--
-  Bette hier Buchungsplattformen mit Onlinebuchung ein.
-
-  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
-  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
-
-  Mehr Informationen sind im booking archetype zu finden.
--->
-
-{{% booking id="booking_id"
-    subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
-    classes.first="€20"
-    classes.second="€10"
-%}}
-
-<!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
-
-{{% /booking %}}
+{{% booking id="db-website-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Belgien, mit Ticketanteil nur für den belgischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
+/%}}
 
 ### Telefon
 
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung per Telefon hinzu.
--->
+{{% booking id="sncf-phone" /%}}
 
 ### Vor Ort
 
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
--->
+{{% booking id="sncf-ticket-office" %}}
+An SNCF Ticketschaltern können Upgrades von der 2. Klasse in die 1. Klasse gekauft werden. Dabei muss die Differenz gezahlt werden.
+{{% /booking %}}
+
+TRANSILIEN TICKET SCHALTER ERGÄNZEN
 
 ### Im Zug
 
-<!--
-  Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
--->
+FIP Tickets können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-<!--
-  Welche Ermäßigungen können Kinder bekommen und unter welchen Umständen?
-  Welche Ermäßigungen kann es sonst noch geben?
--->
+Bei normalen Ticket reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder bis einschließlich 12 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.
 
 ## Tarifliche Besonderheiten
 
 ### Grenzüberschreitende TGV inOui / ICE Züge
 
+{{% expander "TGV/ICE-Züge nach Deutschland" %}}
+Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt reservierungspflichtig. Innerhalb von Deutschland sind die Züge nicht reservierungspflichtig und mit FIP Freifahrtscheinen nutzbar.
+{{% /expander %}}
+
+{{% expander "TGV-Züge nach Italien, Spanien und Belgien" %}}
+Grenzüberschreitenden `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130€). [^1]
+{{% /expander %}}
+
+{{% expander "TGV Lyria Züge in die Schweiz" %}}
+Grenzüberschreitenden `TGV` Lyria Verbindungen von Frankreich in die Schweiz sind im französischen Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Im schweizer Abschnitt sind die Züge nicht reservierungspflichtig und mit FIP Freifahrtscheinen nutzbar.
+{{% /expander %}}
+
 ### Züge im Großraum Paris
 
-### <Route bzw. Name>
+Île-de-France Mobilités (ÎDF Mobilités) ist die Behörde, die verschiedene Verkehrsunternehmen im Großraum Paris koordiniert und überwacht, darunter RATP (Régie Autonome des Transports Parisiens) und SNCF.
 
-<!--
-  Beschreibung der Besonderheit, wenn es auf bestimmten Routen z.B. Sonderregelungen gibt.
--->
+Die RATP betreibt die Pariser Métro (Métro de Paris), Buslinien sowie einen Teil der Tramlinien und des RER (Réseau Express Régional) Netzes. Die SNCF betreibt den übrigen Teil des RER-Netzes und einige Tramlinien. In RATP Verkehren gelten keine FIP Vergünstigungen.
+
+{{% expander "RER Züge" %}}
+Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten in folgenden Abschnitten:
+
+- RER Linie A – nur die Äste A3 & A5 westlich von Nanterre Préfecture bis Poissy oder Cergy-le-Haut
+- RER Linie B – nur die Äste B3 & B5 nördlich von Gare du Nord bis Aéroport Charles de Gaulle oder Mitry-Claye
+- RER Linie C – gesamter Abschnitt
+- RER Linie D – gesamter Abschnitt
+- RER Linie E – gesamter Abschnitt
+
+Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.
+
+Vergünstigte FIP Tickets für die RER Züge kann in Transilien Ticketschaltern gekauft werden. Bei Nutzung der RER Züge mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter ein kostenloser _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+{{% /expander %}}
+
+{{% expander "Transilien Züge" %}}
+FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, und V.
+
+Vergünstigte FIP Tickets für die Transilien Züge kann in Transilien Ticketschaltern gekauft werden. Bei Nutzung der Transilien Züge mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter ein kostenloser _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+{{% /expander %}}
+
+{{% expander "Straßenbahnen" %}}
+Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben. Zur Gültigkeit von FIP vergünstigungen auf diesen Linien gibt es wiedersprüchliche Aussagen. Auf den restelichen Straßenbahnlinien gelten keine FIP Vergünstigungen.
+
+Vergünstigte FIP Tickets für die Straßenbahn kann an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Straßenbahn mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter ein kostenloser _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+{{% /expander %}}
+
+### Busverkehr
+
+FIP Vergünstigungen gelten auch in Bussen die von der SNCF betrieben werden. [^1]
 
 ## Empfehlungen
 
@@ -184,6 +204,6 @@ Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [<Quellenname 2](Link)
