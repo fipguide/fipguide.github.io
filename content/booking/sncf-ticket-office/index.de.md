@@ -4,6 +4,9 @@ title: "SNCF Ticketschalter"
 description: "Buchungsinformationen für die SNCF Ticketschalter."
 
 params:
+  classes:
+    first: "1,70€ / 15€"
+    second: "1,70€ / 10€"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.garesetconnexions.sncf/de/bahnhoefe-services"

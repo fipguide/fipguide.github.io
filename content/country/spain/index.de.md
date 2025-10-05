@@ -6,7 +6,7 @@ country: "spain"
 params:
   operators_without_fip:
     - Iryo
-    - OUIGO
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - '[Avlo]({{< ref "/operator/renfe#langstrecke" >}} "Avlo")'
 ---
 
@@ -14,7 +14,7 @@ params:
 
 In Spanien ist die Nutzung von FIP nicht immer einfach, da hier einfach einsteigen und mitfahren nur in den seltensten Fällen funktioniert. Auf den meisten Relationen muss vorab ein Ticket zum FIP Globalpreis gebucht werden. Da nur so viele Tickets verkauft werden, wie auch Sitzplätze vorhanden sind, sollte dieser Kauf nicht zu kurzfristig geschehen (auch in Regionalzügen).
 
-Die [Renfe]({{< ref "/operator/renfe" >}} "Renfe") ist das größte Eisenbahnverkehrsunternehmen in Spanien und akzeptiert FIP. Auf den lukrativen Relationen konkurriert sie dabei mit jeder Menge privater Anbieter wie OUIGO oder Iryo, bei denen kein FIP akzeptiert wird. Ein weiterer Anbieter im Baskenland ist [Euskotren]({{< ref "/operator/euskotren" >}}), der ebenfalls FIP akzeptiert.
+Die [Renfe]({{< ref "/operator/renfe" >}} "Renfe") ist das größte Eisenbahnverkehrsunternehmen in Spanien und akzeptiert FIP. Auf den lukrativen Relationen konkurriert sie dabei mit jeder Menge privater Anbieter wie [OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo") oder Iryo, bei denen kein FIP akzeptiert wird. Ein weiterer Anbieter im Baskenland ist [Euskotren]({{< ref "/operator/euskotren" >}}), der ebenfalls FIP akzeptiert.
 
 ## Wissenswertes
 
