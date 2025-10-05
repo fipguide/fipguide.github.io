@@ -142,7 +142,8 @@ img {
 }
 
 .o-list__list-item {
-  &--country {
+  &--country,
+  &--operator {
     list-style-type: none;
   }
 }
