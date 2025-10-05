@@ -1,11 +1,14 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Ändere den Name auf den deutschen Ländernamen
-description: "" # Ergänze eine Beschreibung für das Land
-country: "{{ .File.ContentBaseName }}"
+title: "Frankreich"
+description: "Informationen über die FIP-Bedingungen für Frankreich und für welche Betreiber Vergünstigungen genutzt werden können."
+country: "france"
 params:
   operators_without_fip:
-    -  # Liste Betreiber, die kein FIP akzeptieren
+    - Transdev
+    - RATP
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
+    - CFC (Chemins de fer de la Corse / Eisenbahnen auf Korsika)
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
