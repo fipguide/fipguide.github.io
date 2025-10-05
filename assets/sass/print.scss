@@ -32,7 +32,7 @@
 
   .o-list__list {
     list-style-position: inherit !important;
-    padding-left: 20px;
+    padding-left: 2rem;
   }
 
   .o-list__list-item--country,
@@ -41,15 +41,15 @@
   }
 
   .m-text-highlight--important {
-    border: 2px solid #ba3d12;
+    border: 0.2rem solid #ba3d12;
   }
 
   .m-text-highlight--inofficial {
-    border: 2px solid #878c96;
+    border: 0.2rem solid #878c96;
   }
 
   .m-text-highlight--tip {
-    border: 2px solid #1db5df;
+    border: 0.2rem solid #1db5df;
   }
 
   .o-booking__links > a {
@@ -62,9 +62,9 @@
   }
 
   code {
-    border: 2px solid #fff284;
-    border-radius: 4px;
-    padding: 1px 5px;
+    border: 0.2rem solid #fff284;
+    border-radius: 0.4rem;
+    padding: 0.1rem 0.5rem;
   }
 
   .a-anchorlink__link,
