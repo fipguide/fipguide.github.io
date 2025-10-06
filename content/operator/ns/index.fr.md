@@ -64,7 +64,7 @@ Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermé
 {{% expander "Intercity Direct (ICD) ⚠️" traincategory category %}}
 **Description :** \
 Train rapide, partiellement avec supplément, entre Lelystad ou Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal et Breda. \
-[Plus d’informations](https://www.ns.nl/en/travel-information/special-routes/Intercity-direct.html) \
+[Plus d’informations](https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html) \
 **Réservation possible :** non \
 **Réservation obligatoire :** non \
 **Supplément :** ⚠️ \

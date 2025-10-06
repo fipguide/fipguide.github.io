@@ -64,7 +64,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 {{% expander "Intercity Direct (ICD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda. \
-[Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/Intercity-direct.html) \
+[Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
