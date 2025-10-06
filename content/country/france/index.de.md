@@ -64,6 +64,14 @@ Aus Luxemburg betreibt die SNCF internationale `TGV` Züge von Luxemburg nach Pa
 
 ### Deutschland
 
+Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (GR) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Mitarbeiter der Deutschen Bahn können diese Tickets auch online erwerben, siehe [Buchungsmöglichkeiten - Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
+
+{{% highlight tip %}}
+Eine günstige Option für die Fahrt von Deutschland nach Straßburg ist auch mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP oder Vergünstigungen für DB Mitarbeiter, aber das Deutschlandticket. Ab Kehl verkehrt dann die Straßenbahn nach Straßburg. Für diese ist ein günstiges Tram Ticket erforderlich.
+{{% /highlight tip %}}
+
+Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+
 ### Schweiz
 
 ### Italien

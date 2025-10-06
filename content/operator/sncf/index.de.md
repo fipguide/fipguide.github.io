@@ -32,7 +32,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. 
 
 ## Zugkategorien und Reservierungen
 
-Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). Keine Gültigkeit von FIP in OuiGo-Zügen.
+Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). Keine Gültigkeit von FIP in OuiGo-Zügen. In den reservierungspflichtigen Zügen ist eine Reservierung immer im FIP 50 Ticketpreis enthalten.
 
 ### Fernverkehr
 
@@ -130,6 +130,10 @@ An SNCF Ticketschaltern können Upgrades von der 2. Klasse in die 1. Klasse geka
 {{% /booking %}}
 
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
+
+{{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" %}}
+Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns zur Zeit nicht bekannt.
+{{% /booking %}}
 
 ### Im Zug
 
