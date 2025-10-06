@@ -1,15 +1,15 @@
 ---
 draft: false
-title: 'BDŽ Ticket Office'
-description: 'Booking information for BDŽ ticket offices.'
+title: "BDŽ Ticket Office"
+description: "Booking information for BDŽ ticket offices."
 params:
-    classes:
-        first: "1 Lev"
-        second: "1 Lev"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.bdz.bg/en/a/stations"
-    type: "onsite"
+  classes:
+    first: "1 Lev"
+    second: "1 Lev"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.bdz.bg/en/a/stations"
+  type: "onsite"
 ---
 
 {{% booking-section "fip_50" %}}

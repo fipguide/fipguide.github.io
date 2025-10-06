@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'BDŽ'
-description: 'Information about FIP conditions at Balgarski Darschawni Schelesnizi (BDŽ).'
+title: "BDŽ"
+description: "Information about FIP conditions at Balgarski Darschawni Schelesnizi (BDŽ)."
 country:
-  - 'bulgaria'
-operator: 'bdz'
+  - "bulgaria"
+operator: "bdz"
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) is the state railway company of Bulgaria and currently operates almost all passenger services on the Bulgarian rail network.
@@ -24,6 +24,7 @@ FIP 50 Ticket: ✅
 FIP Coupons and FIP 50 Tickets are valid on BDŽ services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
 ## Train Categories and Reservations
+
 {{% highlight important %}}
 Train categories are shown in BDŽ journey planners as described below. In other planners, trains are often simply listed as `R` or `IR`.
 {{% /highlight %}}

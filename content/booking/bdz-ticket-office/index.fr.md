@@ -1,15 +1,15 @@
 ---
 draft: false
-title: 'Guichet BDŽ'
-description: 'Informations de réservation pour les guichets BDŽ.'
+title: "Guichet BDŽ"
+description: "Informations de réservation pour les guichets BDŽ."
 params:
-    classes:
-        first: "1 Lev"
-        second: "1 Lev"
-    fip_50: true
-    reservations: true
-    additional_info_link: "https://www.bdz.bg/en/a/stations"
-    type: "onsite"
+  classes:
+    first: "1 Lev"
+    second: "1 Lev"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.bdz.bg/en/a/stations"
+  type: "onsite"
 ---
 
 {{% booking-section "fip_50" %}}

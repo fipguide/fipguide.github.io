@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'BDŽ'
+title: "BDŽ"
 description: "Informations sur les conditions FIP chez Balgarski Darschawni Schelesnizi (BDŽ)."
 country:
-  - 'bulgaria'
-operator: 'bdz'
+  - "bulgaria"
+operator: "bdz"
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de Bulgarie et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.
@@ -24,6 +24,7 @@ Billet FIP 50 : ✅
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
 ## Catégories de trains et réservations
+
 {{% highlight important %}}
 Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d'autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
 {{% /highlight %}}

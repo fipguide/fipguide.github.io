@@ -1,8 +1,8 @@
 ---
 draft: false
-title: 'Bulgaria'
-description: 'Information about FIP conditions for Bulgaria and which operators offer discounts.'
-country: 'bulgaria'
+title: "Bulgaria"
+description: "Information about FIP conditions for Bulgaria and which operators offer discounts."
+country: "bulgaria"
 params:
   operators_without_fip:
     - Optima Express

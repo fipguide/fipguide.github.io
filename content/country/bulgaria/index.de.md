@@ -1,7 +1,7 @@
 ---
 draft: false
-title: 'Bulgarien'
-country: 'bulgaria'
+title: "Bulgarien"
+country: "bulgaria"
 params:
   operators_without_fip:
     - Optima Express
@@ -13,11 +13,11 @@ In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buch
 
 ## Wissenswertes
 
-Das Schienennetz in Bulgarien ist vor allem auf die Ost-West-Richtung ausgelegt. Hier gibt es verschiedene Verbindungen, welche die größten Städte des Landes miteinander verbinden. Eine der wichtigsten Verbindungen führt von Sofia nach Varna; diese kann sowohl über Pleven im Norden als auch über Plovdiv im Süden befahren werden. Es existieren auch wenige Nord-Süd-Verbindungen, die vor allem auch als Zubringer zu den anderen Hauptstrecken genutzt werden.  
+Das Schienennetz in Bulgarien ist vor allem auf die Ost-West-Richtung ausgelegt. Hier gibt es verschiedene Verbindungen, welche die größten Städte des Landes miteinander verbinden. Eine der wichtigsten Verbindungen führt von Sofia nach Varna; diese kann sowohl über Pleven im Norden als auch über Plovdiv im Süden befahren werden. Es existieren auch wenige Nord-Süd-Verbindungen, die vor allem auch als Zubringer zu den anderen Hauptstrecken genutzt werden.
 
 Das Streckennetz ist eher alt und die Verbindungen meist sehr langsam. Auch einen Taktverkehr gibt es nicht wirklich. Es verkehren meist nur wenige Züge pro Tag auf den einzelnen Routen. Ausnahmen bestehen im Vorortverkehr, beispielsweise zwischen Plovdiv und Asenvograd, wo meist alle 75 Minuten ein Zug verkehrt. Verspätungen sind zwar nicht selten, aber gerade auf langen Verbindungen werden diese durch genug Pufferzeit auch oft wieder aufgeholt.
 
-Als Streckenhighlight gilt neben den Nord-Süd-Strecken eine Fahrt durch das Balkangebirge. Insbesondere die Rhodopenbahn zwischen Septemwri und Dobrinischte ist sehenswert: eine von der BDŽ betriebene Schmalspurbahn und somit mit FIP nutzbar. Hier werden auch Speisewagen eingesetzt. 
+Als Streckenhighlight gilt neben den Nord-Süd-Strecken eine Fahrt durch das Balkangebirge. Insbesondere die Rhodopenbahn zwischen Septemwri und Dobrinischte ist sehenswert: eine von der BDŽ betriebene Schmalspurbahn und somit mit FIP nutzbar. Hier werden auch Speisewagen eingesetzt.
 
 ## Anreise und Grenzpunkte
 

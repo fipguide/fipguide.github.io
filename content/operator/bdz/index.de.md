@@ -1,13 +1,13 @@
 ---
 draft: false
-title: 'BDŽ'
+title: "BDŽ"
 description: "Informationen zu den FIP-Bedingungen bei der Balgarski Darschawni Schelesnizi (BDŽ)."
 country:
-  - 'bulgaria'
-operator: 'bdz'
+  - "bulgaria"
+operator: "bdz"
 ---
 
-Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von Bulgarien und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz. 
+Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von Bulgarien und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz.
 
 ## Zusammenfassung
 
@@ -24,6 +24,7 @@ FIP 50 Tickets: ✅
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der BDŽ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
+
 {{% highlight important %}}
 Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft angezeigt. In anderen Reiseauskünften werden die Züge dagegen oft alle als `R` oder `IR` angegeben.
 {{% /highlight %}}
@@ -102,7 +103,6 @@ Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Tick
 Eine Fahrtunterbrechung ist bei einem durchgängien Ticket nicht gestattet.
 
 ## Empfehlungen
-
 
 {{% highlight tip %}}
 Die BDŽ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein relativ breites Angebot. Es lohnt sich vorher die Relationen schon grob zu planen, da auf vielen Routen nur wenige Züge pro Tag fahren. Die modernsten Wagen sind die von der Deutschen Bahn eingekauften ehemaligen IC-Wagen, die auf einigen Verbindungen im Fernverkehr zwischen Sofia und Varna oder Burgas eingesetzt werden. Ein besonderes Highlight ist die Schmalspurstrecke Rhodopenbahn zwischen Septemwri und Dobrinischte, die auch von der BDŽ betrieben wird.
