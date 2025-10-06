@@ -74,6 +74,7 @@ function initAside() {
   const dragStart = (e) => {
     startY = e.clientY || e.touches?.[0].clientY;
     isDragging = true;
+    lockScroll(true);
   };
 
   const dragging = (e) => {
