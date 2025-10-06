@@ -50,6 +50,10 @@
     flex-wrap: wrap;
     gap: 1rem;
   }
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-startpage__news-wrapper {
@@ -67,4 +71,8 @@
 .o-startpage__search {
   margin-bottom: 2rem;
   width: 100%;
+
+  @media print {
+    display: none;
+  }
 }
