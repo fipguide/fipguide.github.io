@@ -77,6 +77,6 @@ Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abs
 
 Zwischen Mailand und Paris fahren grenzüberschreitende Frecciarossa-Züge. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden. Für diese müssen FIP GLobalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
+Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden. Für diese müssen FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
