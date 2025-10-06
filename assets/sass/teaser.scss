@@ -25,6 +25,11 @@
     font-size: 2.4rem;
     margin-top: 1rem;
   }
+
+  @media print {
+    box-shadow: none;
+    background-color: lightgrey;
+  }
 }
 
 .m-teaser--listview {
@@ -96,6 +101,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
+  > .material-symbols-rounded {
+    @media print {
+      display: none;
+    }
+  }
 }
 
 .m-teaser__text {
