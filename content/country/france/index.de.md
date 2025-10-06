@@ -89,7 +89,7 @@ Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza übe
 
 ### Spanien
 
-Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe bietet grenzüberschreitende Züge zwischen Lyon und Barcelona sowie Marseille und Madrid an. 
+Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe bietet grenzüberschreitende Züge zwischen Lyon und Barcelona sowie Marseille und Madrid an.
 
 Bei beiden Anbietern sind FIP Globalpreise möglich, welche bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich.
 

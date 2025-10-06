@@ -37,7 +37,7 @@ Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, d
 
 ### Frankreich
 
-Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid. 
+Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid.
 
 Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich.
 

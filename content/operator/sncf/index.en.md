@@ -22,6 +22,7 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
   - Gibt es eine Reservierungspflicht?
   - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
 -->
+
 - alles mit OuiGo Schlecht
 - FIP Vergünstigungen gelten auch in SNCF Bussen (außer Fernbusse)
 
