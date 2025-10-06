@@ -15,9 +15,7 @@ code {
   border-radius: var(--border-radius-s);
 
   @media print {
-    border: 0.2rem solid #fff284;
-    border-radius: 0.4rem;
-    padding: 0.1rem 0.5rem;
+    padding: 0.2rem 0.6rem;
   }
 }
 
