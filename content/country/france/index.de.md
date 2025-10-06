@@ -68,12 +68,32 @@ Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge d
 
 {{% highlight tip %}}
 Eine günstige Option für die Fahrt von Deutschland nach Straßburg ist auch mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP oder Vergünstigungen für DB Mitarbeiter, aber das Deutschlandticket. Ab Kehl verkehrt dann die Straßenbahn nach Straßburg. Für diese ist ein günstiges Tram Ticket erforderlich.
-{{% /highlight tip %}}
+{{% /highlight %}}
 
 Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
 
 ### Schweiz
 
+Aus der Schweiz verkehren von Zürich über Basel grenzüberschreitende TGV Züge. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
+
+Zusätzlich gibt es verschiedene grenzüberschreitende Regionalzugverbindungen.
+
+Im Raum Genf fahren grenzüberschreitende Regionalzüge die als Léman Express bezeichnet und von der SBB und SNCF betrieben werden. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
+
 ### Italien
 
+Von Mailand verkehren grenzüberschreitende Frecciarossa-Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
+
+Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden. Für diese müssen FIP GLobalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
+
+Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
+
 ### Spanien
+
+Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid. 
+
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge") Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich.
+
+Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
+
+Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
