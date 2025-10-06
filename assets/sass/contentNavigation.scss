@@ -104,6 +104,7 @@
     max-height: 100vh;
     gap: 0;
     overflow: hidden;
+    flex-flow: column;
     transition: transform 0.5s ease-in-out;
     border-radius: 1rem 1rem 0 0;
     transform: translateY(calc(100% - 6.4rem));
