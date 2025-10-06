@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html
   lang="{{ site.Language.LanguageCode }}"
   dir="{{ or site.Language.LanguageDirection `ltr` }}"
@@ -7,8 +7,8 @@
     {{ partial "head" . }}
   </head>
   <body>
-    <header id="header" class="o-header">{{ partialCached "header.html" . }}</header>
-    <main id="content" class="{{ if .IsHome }} o-startpage{{ end }}">
+    <header id="header" class="o-header">{{ partial "header.html" . }}</header>
+    <main id="content" class="{{ if .IsHome }}o-startpage{{ end }}">
       <div class="o-container">
         {{ block "main" . }}{{ end }}
       </div>

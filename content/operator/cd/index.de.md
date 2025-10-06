@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'ČD'
+title: "ČD"
 description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD)."
 country:
-  - 'czechia'
-operator: 'cd'
+  - "czechia"
+operator: "cd"
 ---
 
 Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der Tschechischen Republik und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.
@@ -29,7 +29,6 @@ Auf einigen Routen und Regionen gelten keine FIP Fahrkarten, obwohl die Verbindu
 
 Weiter Informationen: [Verbindungen der ČD ohne FIP]({{% ref "#verbindungen-der-čd-ohne-fip" %}})
 {{% /highlight %}}
-
 
 ## Zugkategorien und Reservierungen
 
@@ -124,11 +123,11 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den österreichischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -201,7 +200,6 @@ FIP Tickets sind auf den durchgehenden Strecken 083 und 098 (Děčín – Rumbur
 Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfernung von bis zu 100 km nicht gestattet. Bei Reiseentfernungen ab 101 km ist eine Fahrtunterbrechung möglich (allerdings nicht an einem internationalen Bahnhof).
 
 ## Empfehlungen
-
 
 {{% highlight tip %}}
 Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverlässiges und meist komfortables Reisen mit einem sehr gutem Service steht. Die Beschäftigten der Bahn sind meistens sehr freundlich und helfen gerne weiter. Anschlüsse warten oft bei Verspätungen, außer in großen Knotenbahnhöfen wie Praha hl. n. Die Nutzung der App der ČD ("Můj vlak") kann sehr empfehlenswert sein, da hier neben Live-Daten auch die Wagenreihungen und weitere wichtige Informationen einfach eingesehen werden können.

@@ -44,7 +44,7 @@ Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
 {{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Beschreibung:** \
-*Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen eingestellt. Die Züge werden durch `EX` Züge ersetzt.* \
+_Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen eingestellt. Die Züge werden durch `EX` Züge ersetzt._ \
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
@@ -147,4 +147,5 @@ Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in de
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

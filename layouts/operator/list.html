@@ -1,18 +1,18 @@
 {{ define "main" }}
-<article class="o-list o-list__container">
-  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-  {{ .Content }}
-  <div class="o-list__list">
-    {{ range .Pages }}
-    <a href="{{ .RelPermalink }}" class="o-list__link">
-      <div class="o-list__picture">
-        {{ partial "operator-logo" (dict "operator" .File.ContentBaseName) }}
-      </div>
-      <div>
-        {{ .Title }}
-      </div>
-    </a>
-    {{ end }}
-  </div>
-</article>
+  <article class="o-list o-list__container">
+    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+    {{ .Content }}
+    <div class="o-list__list">
+      {{ range .Pages }}
+        <a href="{{ .RelPermalink }}" class="o-list__link">
+          <div class="o-list__picture">
+            {{ partial "operator-logo" (dict "operator" .File.ContentBaseName) }}
+          </div>
+          <div>
+            {{ .Title }}
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </article>
 {{ end }}

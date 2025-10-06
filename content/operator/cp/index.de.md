@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'CP'
+title: "CP"
 description: "Informationen über die FIP-Bedingungen bei Comboios de Portugal (CP)."
 country:
-  - 'portugal'
-operator: 'cp'
+  - "portugal"
+operator: "cp"
 ---
 
 Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
@@ -23,7 +23,7 @@ FIP Globalpreis: ✅ (nur Celta Zug)
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CP gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-[Übersicht des CP-Liniennetzes](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
+[Übersicht des CP-Liniennetzes](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
 ## Zugkategorien und Reservierungen
 
@@ -67,27 +67,29 @@ Regional-Züge mit vielen Halten. \
 Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
 
 **Lissabon:** \
-Das [Liniennetz](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) umfasst vier Linien:
-* Sintra-Linie
-* Azambuja-Linie
-* Cascais-Linie
-* Sado-Linie
+Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) umfasst vier Linien:
+
+- Sintra-Linie
+- Azambuja-Linie
+- Cascais-Linie
+- Sado-Linie
 
 {{% highlight important %}}
 
 Der Zugang zur Sintra-Linie und Cascais-Linie erfolgt über Ticketschranken.
 
-* Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50€ kaufen, um die Ticketschranke passieren zu können.
-* Fahrgäste mit FIP Freifahrtsschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
-{{% /highlight %}}
+- Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50€ kaufen, um die Ticketschranke passieren zu können.
+- Fahrgäste mit FIP Freifahrtsschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
+  {{% /highlight %}}
 
 **Porto:** \
-Das [Liniennetz](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) umfasst fünf Linien:
-* Aveiro-Linie
-* Braga-Linie
-* Marco de Canaveses-Linie
-* Guimarães-Linie
-* Leixões-Linie
+Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) umfasst fünf Linien:
+
+- Aveiro-Linie
+- Braga-Linie
+- Marco de Canaveses-Linie
+- Guimarães-Linie
+- Leixões-Linie
 
 **Coimbra:** \
 Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
@@ -148,4 +150,5 @@ Die CP bietet regelmäßige Fahrten mit dem "Presidental Train" an. Dies ist ein
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

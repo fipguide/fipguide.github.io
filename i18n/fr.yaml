@@ -6,6 +6,7 @@ booking:
   classes:
     first: 1re classe
     second: 2nd classe
+  fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-global-fare: Tarif global FIP
   reservation: Réservation
@@ -14,7 +15,10 @@ booking:
   visit-booking-website: Aller sur le site de réservation
 countries:
   overview: Pays acceptation FIP
-  selection: choisir un pays
+  selection:
+    aria-label: Sélectionner un pays
+    dropdown-label: Pays disponibles
+    title: Pays
   without-fip: Pays sans acceptation FIP
 country:
   many: pays
@@ -51,6 +55,11 @@ menu-open: Menu
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
+operators:
+  selection:
+    aria-label: Sélectionner un opérateur
+    dropdown-label: Opérateurs disponibles
+    title: Opérateurs
 operators_without_fip: Opérateurs sans FIP
 related:
   countries: Pays associés

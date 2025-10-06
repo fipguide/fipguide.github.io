@@ -1,38 +1,38 @@
 {{ define "main" }}
-<div class="o-startpage">
-  <section>
-    <div class="o-startpage__intro">
-      <div>
-        {{ .Content }}
+  <div class="o-startpage">
+    <section>
+      <div class="o-startpage__intro">
+        <div>
+          {{ .Content }}
+        </div>
+        <div class="o-startpage__image">
+          {{ $image := resources.Get "images/startpage.webp" }}
+          {{ partial "image" (dict "image" $image "eager" true) }}
+        </div>
       </div>
-      <div class="o-startpage__image">
-        {{ $image := resources.Get "images/startpage.webp" }}
-        {{ partial "image" (dict "image" $image "eager" true) }}
+
+      <div class="o-startpage__search">
+        {{ partial "search-slot" }}
       </div>
-    </div>
 
-    <div class="o-startpage__search">
-      {{ partial "search-slot" }}
-    </div>
-
-    <div class="o-startpage__shortcut-wrapper">
-      {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
-      {{ partial "shortcut-tile" (.Site.GetPage "country") }}
-      {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
-    </div>
-  </section>
-  <section>
-    <h2>{{ T "support.title" }}</h2>
-    <p>{{ T "support.text" | safeHTML }}</p>
-  </section>
-  <section>
-    <h2>{{ T "news-headline"}}</h2>
-    <div class="o-startpage__news-wrapper">
-    {{ range first 3 (where site.RegularPages "Section" "news") }}
-      {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
-    {{ end }}
-    </div>
-  </section>
-  <div class="curtain" aria-hidden="true"></div>
-</div>
+      <div class="o-startpage__shortcut-wrapper">
+        {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
+        {{ partial "shortcut-tile" (.Site.GetPage "country") }}
+        {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
+      </div>
+    </section>
+    <section>
+      <h2>{{ T "support.title" }}</h2>
+      <p>{{ T "support.text" | safeHTML }}</p>
+    </section>
+    <section>
+      <h2>{{ T "news-headline" }}</h2>
+      <div class="o-startpage__news-wrapper">
+        {{ range first 3 (where site.RegularPages "Section" "news") }}
+          {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
+        {{ end }}
+      </div>
+    </section>
+    <div class="curtain" aria-hidden="true"></div>
+  </div>
 {{ end }}

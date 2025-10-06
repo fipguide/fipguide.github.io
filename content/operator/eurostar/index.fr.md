@@ -36,9 +36,9 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP global :**
-| Trajet                        | Standard | Plus |
+| Trajet | Standard | Plus |
 |------------------------------|----------|------|
-| Londres - Paris / Bruxelles  | 39€ / 34,50£ | 60€ / 52,50£ |
+| Londres - Paris / Bruxelles | 39€ / 34,50£ | 60€ / 52,50£ |
 | Londres - Amsterdam / Rotterdam | ?€ / 44,50£ | ?€ / 62£ |
 | Bruxelles - Amsterdam / Rotterdam | ?€ / 15,50£ | ?€ / 30,50£ |
 {{% /expander %}}
@@ -49,11 +49,11 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP global :**
-| Trajet                       | Standard | Plus |
+| Trajet | Standard | Plus |
 |-----------------------------|----------|------|
-| Trajet dans un seul pays    | Non disponible | Non disponible |
-| Trajet entre 2 pays         | 18€     | 35€ |
-| Trajet entre 3 pays         | 20€     | 40€ |
+| Trajet dans un seul pays | Non disponible | Non disponible |
+| Trajet entre 2 pays | 18€ | 35€ |
+| Trajet entre 3 pays | 20€ | 40€ |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow : Amsterdam / Bruxelles – Alpes françaises ⛔⚠️" traincategory category %}}
@@ -84,19 +84,27 @@ Réservation en ligne non disponible. Mais la gestion du billet (annulation, éc
 
 Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-{{% booking id="uk-mail" /%}}
+{{% booking id="internationalrail-email" /%}}
+
+{{% booking id="trainseurope-email" /%}}
 
 ### Par téléphone
 
-{{% booking id="eurostar-phone" %}}
-Des problèmes peuvent survenir lors de la réservation de billets FIP vers/depuis Londres. Si c’est le cas, essayez un autre canal de réservation.
+{{% booking id="eurostar-phone"
+    subtitle="Uniquement Eurostar Rouge"
+%}}
+La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pas possible via la hotline. Dans ce cas, il est recommandé d’utiliser un autre canal de réservation.
 {{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
+{{% booking id="trainseurope-phone" /%}}
+
 ### En gare
+
+{{% booking id="eurostar-ticket-office" /%}}
 
 {{% booking id="ns-ticket-office"
     fip_50=nil
@@ -150,6 +158,7 @@ HOTNAT s’applique uniquement lors d’une correspondance entre trains à grand
 Pour garantir la correspondance lors d’un changement à Londres entre un train britannique et Eurostar (ou inversement), il est possible de réserver un billet avec la gare de départ ou d’arrivée _London International CIV_.
 
 Les billets existent en deux versions :
+
 - _Advance_ (à réserver à l’avance, prix variable, valable uniquement pour le train indiqué)
 - _Euro Open/Euro Saver_ (billet flexible valable pour tous les trains du jour).
 
@@ -178,5 +187,7 @@ Sans réduction FIP, la réservation en ligne est possible via [Trainsplit](http
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Travel Market
+
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)

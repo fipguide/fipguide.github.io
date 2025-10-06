@@ -116,6 +116,7 @@ Trains régionaux accélérés. Les coupons FIP gratuits ne sont acceptés que s
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Description :** \
 Trains de banlieue, comparables à un RER/S-Bahn. Les coupons FIP gratuits sont valables sans restriction.
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -186,4 +187,5 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 ## Sources
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
+
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)

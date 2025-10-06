@@ -1,9 +1,9 @@
 {{ define "main" }}
   <div class="o-list o-list__container">
     <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-      {{ .Content }}
-      <ul aria-labelledby="booking-title">
-        {{ range .Pages }}
+    {{ .Content }}
+    <ul aria-labelledby="booking-title">
+      {{ range .Pages }}
         <li>
           <a href="{{ .RelPermalink }}" class="m-teaser m-teaser--listview">
             <div>
@@ -14,7 +14,7 @@
             </div>
           </a>
         </li>
-        {{ end }}
-      </ul>
+      {{ end }}
+    </ul>
   </div>
 {{ end }}

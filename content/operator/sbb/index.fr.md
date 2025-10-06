@@ -89,13 +89,13 @@ Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aus
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-  subtitle="Pour les liaisons nationales et transfrontalières. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section suisse, pour les employés de la Deutsche Bahn"
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux employés de la Deutsche Bahn."
 %}}
 Avec les billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Pour les liaisons nationales et transfrontalières. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (pas de validité dans le pays d'émission de la carte FIP)"
 %}}
 Avec les billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
 {{% /booking %}}
@@ -134,6 +134,7 @@ Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de 
 
 Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \
 Ce supplément (incluant la réservation) est obligatoire, même avec un coupon FIP ou un billet FIP 50.
+
 - 2ᵉ classe : 11€
 - 1ère classe : 13€
 
@@ -148,4 +149,5 @@ Le coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt

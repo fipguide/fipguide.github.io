@@ -43,20 +43,20 @@ Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in
 {{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen. \
-[Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
+[Weitere Informationen](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
 Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
 {{% expander "Eurocity (EC)" traincategory category %}}
 **Beschreibung:** \
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten. \
-[Weitere Informationen](https://www.ns.nl/en/about-ns/dossier/hogesnelheidslijn/Eurocity.html) \
+[Weitere Informationen](https://www.nsinternational.com/en/trains/eurocity) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -70,7 +70,7 @@ Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Ams
 **Zuschlag**: ⚠️ \
 Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3€ zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben. \
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/uitgelicht/wanneer-reizen-met-voordeel/wanneer-reist-u-met-korting.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
@@ -109,11 +109,11 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden, mit Ticketanteil nur für den niederländischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -139,8 +139,8 @@ Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
 - Bis zu 8 einzelne Tage innerhalb eines Zeitraums von 3 Monaten.
 - Pro Tag (von 00:00 bis 23:59):
-    - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
-    - Insgesamt bis zu 12 Durchgänge pro Tag.
+  - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
+  - Insgesamt bis zu 12 Durchgänge pro Tag.
 
 Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 

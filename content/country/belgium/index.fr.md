@@ -48,9 +48,9 @@ L'Eurostar (anciennement Thalys) peut également être utilisé depuis l'Allemag
 
 ### Pays-Bas
 
-Depuis les Pays-Bas, des trains régionaux (y compris certains `IC`) permettent d'entrer en Belgique, moyennant un billet FIP NS pour la section néerlandaise.
+Depuis les Pays-Bas, il est possible d'utiliser les trains régionaux transfrontaliers (y compris l'`IC`) ; pour ceux-ci, un billet FIP supplémentaire de la NS est requis. De plus, des trains longue distance (`ECD` et `EC`) circulent, où un supplément peut s'appliquer sur la section néerlandaise (entre Rotterdam et Schiphol).
 
-L'Eurostar (ex-Thalys) depuis les Pays-Bas est aussi utilisable vers la Belgique, mais là encore, un billet FIP spécial Eurostar est requis pour l'ensemble du trajet. ([voir Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+L'Eurostar (anciennement Thalys) peut également être utilisé depuis les Pays-Bas pour rejoindre le réseau SNCB. Dans ce cas, un billet FIP spécial Eurostar est nécessaire pour l'ensemble du trajet, y compris en Belgique. ([voir Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
 
 ### France
 

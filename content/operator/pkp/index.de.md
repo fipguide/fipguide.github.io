@@ -22,6 +22,7 @@ FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
+
 - PKP InterCity
 - POLREGIO S.A
 - Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
@@ -62,10 +63,9 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
 **Reservierungspflicht:** ⚠️ teilweise
 {{% /expander %}}
 
-
 {{% expander "InterCity (IC) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity betrieben werden und nur  an wichtigen Bahnhöfen halten. [^4] \
+Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity betrieben werden und nur an wichtigen Bahnhöfen halten. [^4] \
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden. \
 Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe Kategorie "EN"). \
 **Reservierung möglich:** ja \
@@ -132,11 +132,11 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den polnischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -152,6 +152,7 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 ### Im Zug
 
 #### PKP Intercity (EIC, IC, TLK)
+
 Gegen einen Aufschlag von 20 PLN können Fahrkarten im Zug erworben, wenn das Zugbegleitpersonal direkt nach Abfahrt des Zuges aufgesucht wird. [^1]
 
 #### Polregio
@@ -200,6 +201,7 @@ Ein Fahrschein für eine einfache Fahrt ist bis Mitternacht am Ausstellungstag g
 Die Gültigkeit von Einzelfahrkarten oder Rückfahrkarten beträgt 1 Tag und beginnt mit dem aufgedruckten/ausgefüllten Datum und Uhrzeit. Der Tag gilt von 00:01 bis 24:00 Uhr.
 
 Fahrten mit Einzelfahrkarten müssen am ersten Gültigkeitstag (auf dem Ticket als Reisetag angegeben) begonnen werden, und zwar:
+
 - Fahrten mit Einzelfahrkarten und Hinfahrten von Rückfahrkarten müssen innerhalb einer Stunde nach Ticketausstellung oder nach Wahl des Fahrgasts angetreten werden. Die Tarifbedingungen der KM können andere Gültigkeitszeiträume vorsehen.
 - Rückfahrten von Rückfahrkarten für Entfernungen über 100 km können an jedem Tag innerhalb der Gültigkeit des Tickets erfolgen.
 
@@ -216,6 +218,7 @@ Die Gültigkeit der Fahrkarten richtet sich nach der Entfernung:
 ### Fahrtunterbrechung
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
+
 Die Unterbrechung einer Fahrt ist nicht erlaubt.
 
 #### Polregio
@@ -236,7 +239,7 @@ FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modl
 
 ### Sonderzüge Słoneczny
 
-FIP Fahrkarten sind im  Słoneczny Sonderzug der KM (Warschau nach Danzig/Gdingen) nicht gültig.
+FIP Fahrkarten sind im Słoneczny Sonderzug der KM (Warschau nach Danzig/Gdingen) nicht gültig.
 
 ### Busse und Ersatzverkehr
 

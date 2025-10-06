@@ -13,13 +13,21 @@ body {
   line-height: 1.5;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: 2rem;
+
+  li > small {
+    display: inline-block;
+    line-height: 1.2;
+  }
 }
 
 button {
@@ -29,7 +37,7 @@ button {
 a {
   color: var(--link-default);
   transition: all 0.3s ease;
-  text-underline-offset: .2rem;
+  text-underline-offset: 0.2rem;
 
   &:hover,
   &:focus {
@@ -145,7 +153,7 @@ img {
   width: fit-content;
 }
 
-.o-list__countries{
+.o-list__countries {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
@@ -165,9 +173,14 @@ img {
 @mixin add-columns($columns) {
   &--columns-#{$columns} {
     columns: $columns;
+    column-gap: 2.4rem;
 
     @media (max-width: #{$breakpoint-md}) {
       columns: 1;
+    }
+
+    li {
+      break-inside: avoid-column;
     }
   }
 }
@@ -275,7 +288,7 @@ img {
 }
 
 button:not(:disabled) {
-  cursor:pointer
+  cursor: pointer;
 }
 
 hr {
@@ -293,5 +306,5 @@ details > summary {
   height: 1.3em;
   width: auto;
   aspect-ratio: 120 / 50;
-  border-radius: var(--border-radius-m)
+  border-radius: var(--border-radius-m);
 }

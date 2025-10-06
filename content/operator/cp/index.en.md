@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'CP'
+title: "CP"
 description: "Information about FIP conditions at Comboios de Portugal (CP)."
 country:
-  - 'portugal'
-operator: 'cp'
+  - "portugal"
+operator: "cp"
 ---
 
 CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in Portugal.
@@ -23,7 +23,7 @@ FIP Global Fare: ✅ (Celta train only)
 
 FIP Coupons and FIP 50 tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
 
-[Overview of the CP network](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
+[Overview of the CP network](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
 ## Train Categories and Reservations
 
@@ -67,26 +67,28 @@ Regional trains with many stops. \
 Commuter trains serving the urban networks of Lisbon, Porto and Coimbra (similar to S‑trains). FIP Coupons are valid without restrictions.
 
 **Lisbon:** \
-The [network](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) includes four lines:
-* Sintra Line
-* Azambuja Line
-* Cascais Line
-* Sado Line
+The [network](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) includes four lines:
+
+- Sintra Line
+- Azambuja Line
+- Cascais Line
+- Sado Line
 
 {{% highlight important %}}
 Access to the Sintra Line and Cascais Line is via ticket gates.
 
-* Passengers with reduced tickets must purchase a Viva Viagem ticket for €0.50 to pass the gate.
-* Passengers holding an FIP Coupon must press the assistance button at the gate (between 06:00 and 22:00). Staff will grant access.
-{{% /highlight %}}
+- Passengers with reduced tickets must purchase a Viva Viagem ticket for €0.50 to pass the gate.
+- Passengers holding an FIP Coupon must press the assistance button at the gate (between 06:00 and 22:00). Staff will grant access.
+  {{% /highlight %}}
 
 **Porto:** \
-The [network](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) includes five lines:
-* Aveiro Line
-* Braga Line
-* Marco de Canaveses Line
-* Guimarães Line
-* Leixões Line
+The [network](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) includes five lines:
+
+- Aveiro Line
+- Braga Line
+- Marco de Canaveses Line
+- Guimarães Line
+- Leixões Line
 
 **Coimbra:** \
 Single line between Coimbra and Figueira da Foz.
@@ -151,4 +153,5 @@ CP operates occasional trips with the "Presidential Train" — a luxurious histo
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

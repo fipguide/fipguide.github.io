@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 'Euskotren'
+title: "Euskotren"
 country:
-  - 'spain'
-operator: 'euskotren'
+  - "spain"
+operator: "euskotren"
 ---
 
 Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Euskotren gehört der baskische Regionalregierung.
@@ -82,6 +82,8 @@ FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren.
 
 ## Empfehlungen
 
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zu Euskotren](https://zugpost.org/euskotren-baskenland/).
+
 ### Eisenbahnmuseum in Azpeitia
 
 Euskotren betreibt auch das baskische Eisenbahnmuseum in Azpeitia, das mit dem Bus von Eibar, Zumaia und Zumarraga erreichbar ist[^2]. Bei Vorlage des FIP Ausweises wird kostenfreier Eintritt gewährt. Die FIP Vergünstigungen werden im Dampfzug des Museums nicht akzeptiert.
@@ -89,5 +91,7 @@ Euskotren betreibt auch das baskische Eisenbahnmuseum in Azpeitia, das mit dem B
 ## Quellen
 
 [^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+
 [^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
+
 [^3]: [Wikipedia Metro Bilbao](https://de.wikipedia.org/wiki/Metro_Bilbao)

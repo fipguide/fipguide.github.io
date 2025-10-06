@@ -122,6 +122,7 @@ Train régional au moins toutes les heures, arrêt à toutes les gares. Comparab
 ℹ️ Certaines Schnellbahn sont exploitées par des compagnies privées où les billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/).
 
 Exemples :
+
 - S-Bahn Haute-Autriche : S5 Linz – Eferding (Linzer Lokalbahn)
 - S-Bahn Salzbourg : S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styrie : S11 Graz–Übelbach (Steiermarkbahn)
@@ -151,13 +152,13 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers, avec part de billet uniquement pour la section autrichienne, pour les employés de la Deutsche Bahn"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valable dans son propre pays)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}

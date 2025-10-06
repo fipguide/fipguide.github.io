@@ -89,13 +89,13 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 %}}
 Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
@@ -133,7 +133,8 @@ Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf d
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag erforderlich. \
-Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein  oder FIP 50 Ticket.
+Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein oder FIP 50 Ticket.
+
 - 2\. Klasse: 11€
 - 1\. Klasse: 13€
 
@@ -148,4 +149,5 @@ Der FIP-Freifahrtsschein lohnt sich für die SBB CFF FSS besonders, da hier mit 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Reisemarkt

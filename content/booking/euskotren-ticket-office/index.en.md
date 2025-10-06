@@ -1,12 +1,12 @@
 ---
 draft: false
-title: 'Euskotren Customer Centers'
+title: "Euskotren Customer Centers"
 params:
-    fip_50: nil
-    fip_global_fare: nil
-    reservations: nil
-    type: "onsite"
-    additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
+  fip_50: nil
+  fip_global_fare: nil
+  reservations: nil
+  type: "onsite"
+  additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
 ---
 
 Upon presentation of the FIP card, a ticket valid for 7 days is issued at the following outlets.

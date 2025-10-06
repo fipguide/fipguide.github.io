@@ -4,18 +4,19 @@ title: "Site web PKP"
 description: "Informations de réservation pour le site web PKP."
 
 params:
-    fip_50: true
-    reservations: true
-    classes:
-        first: "3 PLN"
-        second: "3 PLN"
-    booking_link: "https://ebilet.intercity.pl/"
-    additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/bilet/przejazdy-z-fip.html"
-    type: "website"
+  fip_50: true
+  reservations: true
+  classes:
+    first: "3 PLN"
+    second: "3 PLN"
+  booking_link: "https://ebilet.intercity.pl/"
+  additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/bilet/przejazdy-z-fip.html"
+  type: "website"
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+
+## Billets FIP 50
 
 PKP vend des billets en ligne avec une réduction FIP 50. Lors de la recherche de connexion, l'option "50% MKZ-FIP" doit être sélectionnée comme réduction pour la personne concernée.
 
@@ -25,7 +26,8 @@ Les billets avec réduction FIP 50 ne peuvent être vendus que pour les connexio
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+
+## Réservations
 
 Le site web PKP vend des réservations pour les trains PKP nationaux et transfrontaliers. Lors de la recherche de connexion, l'option "Buy a reservation for your ticket" ou "Kup rezerwację do biletu" doit être sélectionnée :
 

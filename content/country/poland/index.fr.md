@@ -14,6 +14,7 @@ params:
 ## Informations FIP
 
 La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L'opérateur le plus important est la compagnie ferroviaire d'État [PKP]({{< ref "/operator/pkp" >}} "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu'une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM). Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
+
 - Koleje Dolnośląskie (KD)
 - Koleje Śląskie (KS)
 - Koleje Wielkopolskie (KW)
@@ -32,13 +33,13 @@ L'état, la densité et la fréquence des lignes ferroviaires dépendent souvent
 {{% expander "Points frontières" border %}}
 | Pays/Compagnie ferroviaire | Points frontières |
 |----------------------------|-------------------|
-| Biélorussie (BC)          | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie) |
-| Tchéquie (ČD)             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
-| Allemagne (DB AG)          | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Lituanie (LTG-Link)       | Mockava (Gr) |
-| Russie (RZD)              | Braniewo (Gr) |
-| Ukraine (UZ)              | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr) |
-| Slovaquie (ŽSR)           | Lupkow (Gr) |
+| Biélorussie (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie) |
+| Tchéquie (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
+| Allemagne (DB AG) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| Lituanie (LTG-Link) | Mockava (Gr) |
+| Russie (RZD) | Braniewo (Gr) |
+| Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr) |
+| Slovaquie (ŽSR) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Biélorussie

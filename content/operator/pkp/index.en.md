@@ -22,6 +22,7 @@ FIP Coupon for relatives: ✅ \
 FIP 50 Ticket: ✅
 
 FIP Coupons and FIP 50 Tickets are valid with PKP. This includes:
+
 - PKP InterCity
 - POLREGIO S.A
 - Koleje Mazowieckie (KM) (Regional trains around Warsaw and the Masovian Voivodeship)
@@ -131,11 +132,11 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Polish section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On Site
@@ -151,6 +152,7 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 ### On the Train
 
 #### PKP Intercity (EIC, IC, TLK)
+
 For a surcharge of 20 PLN, tickets can be purchased on the train if the train crew is approached immediately after the train's departure. [^1]
 
 #### Polregio
@@ -199,6 +201,7 @@ A ticket for a single journey is valid until midnight on the day of issue. The v
 The validity of single tickets or return tickets is 1 day and begins with the printed/filled date and time. The day is valid from 00:01 to 24:00.
 
 Journeys with single tickets must be started on the first day of validity (indicated on the ticket as travel day), namely:
+
 - Journeys with single tickets and outbound journeys of return tickets must be started within one hour after ticket issue or at the passenger's choice. The tariff conditions of KM may provide for other validity periods.
 - Return journeys of return tickets for distances over 100 km can be made on any day within the validity of the ticket.
 
@@ -215,6 +218,7 @@ The validity of tickets depends on the distance:
 ### Journey Interruption
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
+
 Interrupting a journey is not allowed.
 
 #### Polregio
@@ -259,6 +263,6 @@ FIP Coupons for 1st class are only conditionally worthwhile with PKP. If journey
 
 [^3]: [PKP Intercity - EIC](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-eic.html)
 
-[^4]: [PKP Intercity - IC](https://www.intercity.pl/de/site/fur-fahrgast/informacije/unsere-zuge/intercity-ic.html)
+[^4]: [PKP Intercity - IC](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/intercity-ic.html)
 
-[^5]: [PKP Intercity - TLK](https://www.intercity.pl/de/site/fur-fahrgast/informacije/unsere-zuge/twoje-linie-kolejowe-tlk.html)
+[^5]: [PKP Intercity - TLK](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/twoje-linie-kolejowe-tlk.html)

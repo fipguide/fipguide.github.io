@@ -22,6 +22,7 @@ Coupon FIP accompagnant : ✅ \
 Billet FIP 50 : ✅
 
 Les coupons FIP et les billets FIP 50 sont valables chez PKP. Cela inclut :
+
 - PKP InterCity
 - POLREGIO S.A
 - Koleje Mazowieckie (KM) (trains régionaux autour de Varsovie et de la voïvodie de Mazovie)
@@ -131,11 +132,11 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Pour les connexions nationales et transfrontalières. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section polonaise, pour les employés de la Deutsche Bahn"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne, avec part de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Pour les connexions nationales et transfrontalières. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare
@@ -151,6 +152,7 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 ### À bord du train
 
 #### PKP Intercity (EIC, IC, TLK)
+
 Moyennant un supplément de 20 PLN, les billets peuvent être achetés dans le train si l'équipage est contacté immédiatement après le départ du train. [^1]
 
 #### Polregio
@@ -199,6 +201,7 @@ Un billet pour un voyage simple est valable jusqu'à minuit le jour d'émission.
 La validité des billets simples ou aller-retour est de 1 jour et commence avec la date et l'heure imprimées/remplies. Le jour est valable de 00h01 à 24h00.
 
 Les voyages avec billets simples doivent être commencés le premier jour de validité (indiqué sur le billet comme jour de voyage), à savoir :
+
 - Les voyages avec billets simples et les voyages aller des billets aller-retour doivent être entrepris dans l'heure suivant l'émission du billet ou au choix du voyageur. Les conditions tarifaires de KM peuvent prévoir d'autres périodes de validité.
 - Les voyages retour des billets aller-retour pour des distances supérieures à 100 km peuvent être effectués n'importe quel jour dans la validité du billet.
 
@@ -215,6 +218,7 @@ La validité des billets dépend de la distance :
 ### Interruption de voyage
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
+
 L'interruption d'un voyage n'est pas autorisée.
 
 #### Polregio

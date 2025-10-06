@@ -36,11 +36,11 @@ High-speed train between Great Britain and Europe \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare:**
-| Route       | Standard | Plus |
+| Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brussels | 39€ / 34.50 £ | 60€ / 52.50 £ |
 | London - Amsterdam / Rotterdam | ?€ / 44.50 £ | ?€ / 62 £ |
-| Brussels - Amsterdam / Rotterdam  | ?€ / 15.50 £ | ?€ / 30.50 £ |
+| Brussels - Amsterdam / Rotterdam | ?€ / 15.50 £ | ?€ / 30.50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
@@ -49,7 +49,7 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare:**
-| Route       | Standard | Plus |
+| Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | Travel within one country | No FIP | No FIP |
 | Travel between 2 countries | 18€ | 35€ |
@@ -84,19 +84,27 @@ Online booking of tickets is currently not possible. However, checking in, reboo
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="uk-mail" /%}}
+{{% booking id="internationalrail-email" /%}}
+
+{{% booking id="trainseurope-email" /%}}
 
 ### Phone
 
-{{% booking id="eurostar-phone" %}}
-Occasionally, there may be issues when booking FIP tickets to or from London. In such cases, we recommend using an alternative booking method.
+{{% booking id="eurostar-phone"
+    subtitle="Only Eurostar Red"
+%}}
+Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the hotline. In this case, we recommend booking through another channel.
 {{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
 
+{{% booking id="trainseurope-phone" /%}}
+
 ### On-site
+
+{{% booking id="eurostar-ticket-office" /%}}
 
 {{% booking id="ns-ticket-office"
     fip_50=nil
@@ -150,6 +158,7 @@ HOTNAT is only valid for transfers between high-speed trains of Railteam members
 To ensure a protected connection when transferring in London between a British train and Eurostar (or vice versa), you can book a ticket with the departure or arrival station _London International CIV_.
 
 These tickets are available in two versions:
+
 - _Advance_ (must be booked in advance, price varies, valid only for the specified departure)
 - _Euro Open/Euro Saver_ (flexible ticket valid for all trains on the selected day).
 
@@ -178,5 +187,7 @@ Without FIP discount, online booking is possible via [Trainsplit](https://trains
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: DB Travel Market
+
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)

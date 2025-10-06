@@ -1,0 +1,4 @@
+{{- $pattern := `(<h[1-6][^>]*?)id="([^"]+)"` -}}
+{{- $replacement := (printf `${1}id="%s:$2"` .prefix) -}}
+{{- $content := replaceRE $pattern $replacement .content -}}
+{{- return $content -}}

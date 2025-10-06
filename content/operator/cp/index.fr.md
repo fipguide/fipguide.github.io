@@ -1,10 +1,10 @@
 ---
 draft: false
-title: 'CP'
+title: "CP"
 description: "Informations sur les conditions FIP chez Comboios de Portugal (CP)."
 country:
-  - 'portugal'
-operator: 'cp'
+  - "portugal"
+operator: "cp"
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au Portugal.
@@ -23,7 +23,7 @@ Tarif Global FIP : ✅ (uniquement pour le train Celta)
 
 Les coupons FIP et les billets FIP 50 sont valables sur les services de la CP. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables pour les deux pays sont requis lorsque cela s'applique.
 
-[Vue d'ensemble du réseau CP](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/mapa-servicos.pdf)
+[Vue d'ensemble du réseau CP](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
 ## Catégories de trains et réservations
 
@@ -67,26 +67,28 @@ Trains régionaux avec de nombreux arrêts. \
 Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les coupons FIP sont valables sans restriction.
 
 **Lisbonne :** \
-Le [réseau](https://www.cp.pt/StaticFiles/Passageiros/3_viajar/0_servicos/lx/ligacao-cp-metro-lisboa-baixa.pdf) comprend quatre lignes :
-* Ligne de Sintra
-* Ligne d'Azambuja
-* Ligne de Cascais
-* Ligne du Sado
+Le [réseau](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) comprend quatre lignes :
+
+- Ligne de Sintra
+- Ligne d'Azambuja
+- Ligne de Cascais
+- Ligne du Sado
 
 {{% highlight important %}}
 L'accès à la ligne de Sintra et à la ligne de Cascais se fait par des portiques.
 
-* Les voyageurs titulaires d'un billet réduit doivent acheter un ticket Viva Viagem pour 0,50€ afin de franchir le portique.
-* Les titulaires d'un coupon FIP doivent appuyer sur le bouton d'assistance au point d'accès (entre 06:00 et 22:00). Le personnel accordera l'accès.
-{{% /highlight %}}
+- Les voyageurs titulaires d'un billet réduit doivent acheter un ticket Viva Viagem pour 0,50€ afin de franchir le portique.
+- Les titulaires d'un coupon FIP doivent appuyer sur le bouton d'assistance au point d'accès (entre 06:00 et 22:00). Le personnel accordera l'accès.
+  {{% /highlight %}}
 
 **Porto :** \
-Le [réseau](https://www.cp.pt/StaticFiles/Passageiros/1_horarios/precos/pt/oporto-urban-trains-map.pdf) comprend cinq lignes :
-* Ligne d'Aveiro
-* Ligne de Braga
-* Ligne Marco de Canaveses
-* Ligne de Guimarães
-* Ligne de Leixões
+Le [réseau](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) comprend cinq lignes :
+
+- Ligne d'Aveiro
+- Ligne de Braga
+- Ligne Marco de Canaveses
+- Ligne de Guimarães
+- Ligne de Leixões
 
 **Coimbra :** \
 Ligne entre Coimbra et Figueira da Foz.
@@ -151,4 +153,5 @@ La CP propose régulièrement des trajets avec le "Presidental Train" — un tra
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

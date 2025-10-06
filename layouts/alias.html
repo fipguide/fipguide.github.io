@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
+  <head>
     <title>{{ .Permalink }}</title>
-    <meta name="robots" content="noindex">
-    <meta charset="utf-8"/>
+    <meta name="robots" content="noindex" />
+    <meta charset="utf-8" />
     <noscript>
-        <meta http-equiv="refresh" content="0; url={{ .Permalink }}"/>
+      <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
     </noscript>
     <script>
       ;(function () {
@@ -51,9 +51,12 @@
         }
       })()
     </script>
-</head>
-<body>
-<h1>Rerouting</h1>
-<p>You should be rerouted in a second, if not, <a href="{{ .Permalink }}">click here</a>.</p>
-</body>
+  </head>
+  <body>
+    <h1>Rerouting</h1>
+    <p>
+      You should be rerouted in a second, if not,
+      <a href="{{ .Permalink }}">click here</a>.
+    </p>
+  </body>
 </html>

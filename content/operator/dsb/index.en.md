@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 'DSB'
+title: "DSB"
 description: "Information about FIP conditions at DSB."
 country:
- - "denmark"
+  - "denmark"
 operator: "dsb"
 ---
 
@@ -75,11 +75,11 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portions only for the Danish section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in the home country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On-Site
@@ -122,4 +122,5 @@ DSB offers reliable and comfortable service. The 1st class is particularly worth
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

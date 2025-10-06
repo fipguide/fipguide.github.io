@@ -4,17 +4,18 @@ title: "ÖBB Fahrkartenautomaten"
 description: "Buchungsinformationen für die ÖBB Fahrkartenautomaten."
 
 params:
-    fip_50: true
-    additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/ticketautomat"
-    type: "machine"
+  fip_50: true
+  additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/ticketautomat"
+  type: "machine"
 
 aliases:
-    - obb-ticket-machine
-    - obb_ticket_machine
+  - obb-ticket-machine
+  - obb_ticket_machine
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+
+## FIP 50 Fahrkarten
 
 Fahrkarten (inkl. FIP 50 Tickets) sind sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).
 

@@ -1,13 +1,13 @@
 {{ define "main" }}
-    <article data-pagefind-ignore class="o-single o-card">
-        <div class="o-single__header">
-            <h1>{{ .Title }}</h1>
-        </div>
+  <article data-pagefind-ignore class="o-single o-card">
+    <div class="o-single__header">
+      <h1>{{ .Title }}</h1>
+    </div>
 
-        <div class="o-single__content">
-            {{ .Content }}
-        </div>
+    <div class="o-single__content">
+      {{ .Content }}
+    </div>
 
-        {{ partial "booking-links" . }}
-    </article>
+    {{ partial "booking-links" . }}
+  </article>
 {{ end }}

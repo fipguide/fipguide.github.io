@@ -1,108 +1,108 @@
 .m-teaser {
-    display: flex;
-    text-decoration: none;
+  display: flex;
+  text-decoration: none;
 }
 
 .m-teaser__wrapper {
-    text-decoration: none;
-    background-color: var(--bg-default);
-    box-shadow: var(--box-shadow);
-    border-radius: var(--border-radius-l);
-    display: flex;
-    flex-direction: column;
-    border: var(--border);
+  text-decoration: none;
+  background-color: var(--bg-default);
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius-l);
+  display: flex;
+  flex-direction: column;
+  outline: var(--border);
 
-    &:hover,
-    &:focus {
-        background: rgba($link-hovered, 0.15);
+  &:hover,
+  &:focus {
+    background: rgba($link-hovered, 0.15);
 
-        .m-teaser__headline {
-            text-decoration: underline;
-        }
+    .m-teaser__headline {
+      text-decoration: underline;
     }
+  }
 
-    .material-symbols-rounded {
-        font-size: 2.4rem;
-        margin-top: 1rem;
-    }
+  .material-symbols-rounded {
+    font-size: 2.4rem;
+    margin-top: 1rem;
+  }
 }
 
 .m-teaser--listview {
-    margin-bottom: 2.4rem;
+  margin-bottom: 2.4rem;
 
-    .m-teaser__wrapper {
+  .m-teaser__wrapper {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
 
-        display: grid;
-        grid-template-columns: 1fr 2fr;
-
-        @media (max-width: #{$breakpoint-md}) {
-            display: flex;
-            flex-direction: column;
-        }
-
-        .m-teaser__image img {
-            border-radius: var(--border-radius-l) 0 0 var(--border-radius-l);
-
-            @media (max-width: #{$breakpoint-md}) {
-                border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-                width: 100%;
-            }
-        }
+    @media (max-width: #{$breakpoint-md}) {
+      display: flex;
+      flex-direction: column;
     }
+
+    .m-teaser__image img {
+      border-radius: var(--border-radius-l) 0 0 var(--border-radius-l);
+
+      @media (max-width: #{$breakpoint-md}) {
+        border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+        width: 100%;
+      }
+    }
+  }
 }
 
 .m-teaser--shortcut-tile {
-    flex-basis: calc( 50% - 0.5rem );
+  flex-basis: calc(50% - 0.5rem);
 
-    .m-teaser__wrapper {
-        width: 100%;
-        height: 10rem;
-        padding: 1.4rem;
-        justify-content: space-between;
+  .m-teaser__wrapper {
+    width: 100%;
+    height: 10rem;
+    padding: 1.4rem;
+    justify-content: space-between;
+  }
+
+  a {
+    h2 {
+      overflow-wrap: normal;
+      word-break: normal;
+      white-space: normal;
+      hyphens: manual;
+      margin-bottom: 0;
+      font-size: 2rem;
     }
 
-    a {
-        h2 {
-            overflow-wrap: normal;
-            word-break: normal;
-            white-space: normal;
-            hyphens: manual;
-            margin-bottom: 0;
-            font-size: 2rem;
-        }
-
-        transition: background 0.2s, color 0.2s;
-
-    }
+    transition:
+      background 0.2s,
+      color 0.2s;
+  }
 }
 
 .m-teaser__image img {
-    border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-    object-fit: cover;
-    height: 100%;
+  border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+  object-fit: cover;
+  height: 100%;
 }
 
 .m-teaser__dateline {
-    font-size: 1.4rem;
-    color: var(--link-special);
+  font-size: 1.4rem;
+  color: var(--link-special);
 }
 
 .m-teaser__headline {
-    margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
 
 .m-teaser__content {
-    padding: 1.4rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  padding: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .m-teaser__text {
-    line-clamp: 3;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    color: var(--link-special);
+  line-clamp: 3;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: var(--link-special);
 }

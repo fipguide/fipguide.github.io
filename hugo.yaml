@@ -1,4 +1,4 @@
-baseURL: 'https://www.fipguide.org/'
+baseURL: "https://www.fipguide.org/"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -10,18 +10,17 @@ languages:
     languageName: "English"
     languageCode: en
     weight: 1
-    title: 'FIP Guide – Fast. Clear. Community-based.'
+    title: "FIP Guide – Fast. Clear. Community-based."
   de:
     languageName: "Deutsch"
     languageCode: de
     weight: 2
-    title: 'FIP Guide – Schnell. Übersichtlich. Community-basiert.'
+    title: "FIP Guide – Schnell. Übersichtlich. Community-basiert."
   fr:
     languageName: "Français"
     languageCode: fr
     weight: 3
-    title: 'FIP Guide – Rapide. Clair. Basé sur le partage.'
-
+    title: "FIP Guide – Rapide. Clair. Basé sur le partage."
 
 module:
   mounts:
@@ -33,12 +32,12 @@ module:
       target: "static/css/@fontsource"
 
 related:
- includeNewer: true
- indices:
-   - name: country
-     weight: 100
-   - name: operator
-     weight: 100
+  includeNewer: true
+  indices:
+    - name: country
+      weight: 100
+    - name: operator
+      weight: 100
 
 markup:
   tableOfContents:
@@ -56,14 +55,13 @@ markup:
         block: true
       wrapStandAloneImageWithinParagraph: false
 
-
 cascade:
   toc: true # enable toc for all pages
   target:
-    kind: 'page'
+    kind: "page"
 
 params:
-  githubDevUrl: 'https://github.dev/fipguide/fipguide.github.io/'
-  gitHubUrl: 'https://github.com/fipguide/fipguide.github.io'
+  githubDevUrl: "https://github.dev/fipguide/fipguide.github.io/"
+  gitHubUrl: "https://github.com/fipguide/fipguide.github.io"
 
 taxonomies: {}
