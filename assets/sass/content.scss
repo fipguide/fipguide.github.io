@@ -13,6 +13,10 @@ code {
   background-color: var(--bg-accent3);
   padding: 0.2rem 0.8rem;
   border-radius: var(--border-radius-s);
+
+  @media print {
+    padding: 0.2rem 0.6rem;
+  }
 }
 
 table {
@@ -20,6 +24,10 @@ table {
   margin-bottom: 1rem;
   margin-left: 0.2rem;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1);
+
+  @media print {
+    box-shadow: none;
+  }
 }
 
 thead {
@@ -48,6 +56,10 @@ tbody {
 
   tr:last-of-type {
     border-bottom: 2px solid $link-hovered;
+
+    @media print {
+      border-bottom: 0.1rem solid #5b5b5b;
+    }
   }
 }
 

@@ -31,7 +31,7 @@
   }
 
   @media print {
-    margin: 0;
+    margin: 1rem 0;
   }
 
   svg {
@@ -59,6 +59,10 @@
   &:focus {
     background-color: var(--bg-neutral);
     opacity: 1;
+  }
+
+  @media print {
+    display: none;
   }
 }
 

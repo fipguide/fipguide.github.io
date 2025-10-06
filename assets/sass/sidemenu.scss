@@ -41,6 +41,10 @@
       margin-bottom: 0;
     }
   }
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-aside a {
