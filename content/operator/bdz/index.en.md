@@ -60,16 +60,16 @@ Regional trains in domestic traffic, usually with many stops and not very fast. 
 
 {{% expander "Suburban Commuter Train (SUB)" traincategory traincategory %}}
 **Description:** \
-Trains running overnight that require reservations. Reservation prices for couchette or sleeper cars are higher than for regular reservations. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes
+Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains. \
+**Reservation possible:** no \
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Night train" traincategory traincategory %}}
 **Description:** \
-Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains. \
-**Reservation possible:** no \
-**Reservation required:** no
+Trains running overnight that require reservations. Reservation prices for couchette or sleeper cars are higher than for regular reservations. \
+**Reservation possible:** yes \
+**Reservation required:** ⚠️ yes
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase

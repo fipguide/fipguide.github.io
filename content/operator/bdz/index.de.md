@@ -60,16 +60,16 @@ Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben 
 
 {{% expander "Suburban Commuter Train (SUB)" traincategory traincategory %}}
 **Beschreibung:** \
-Züge die über Nacht verkehren und reservierungspflichtig sind. Der Preis für Reservierungen im Liege- oder Schlafwagen sind entsprechend höher, als übliche Reservierungen. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja
+Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, die oft in einem dichteren Takt als die meisten anderen Züge verkehren. \
+**Reservierung möglich:** Nein \
+**Reservierungspflicht:** Nein
 {{% /expander %}}
 
 {{% expander "Nachtzug" traincategory traincategory %}}
 **Beschreibung:** \
-Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, die oftnin einem dichteren Takt als die meisten anderen Züge verkehren. \
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
+Züge die über Nacht verkehren und reservierungspflichtig sind. Der Preis für Reservierungen im Liege- oder Schlafwagen sind entsprechend höher als übliche Reservierungen. \
+**Reservierung möglich:** Ja \
+**Reservierungspflicht:** ⚠️ Ja
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf

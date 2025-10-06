@@ -60,16 +60,16 @@ Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts 
 
 {{% expander "Suburban Commuter Train (SUB)" traincategory traincategory %}}
 **Description :** \
-Trains circulant de nuit et nécessitant une réservation. Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés que pour les réservations classiques. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui
+Trains régionaux en trafic intérieur desservant la plupart des gares, circulant souvent à une fréquence plus élevée que les autres trains. \
+**Réservation possible :** non \
+**Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Train de nuit" traincategory traincategory %}}
 **Description :** \
-Trains régionaux en trafic intérieur desservant la plupart des gares, circulant souvent à une fréquence plus élevée que les autres trains. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
+Trains circulant de nuit et nécessitant une réservation. Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés que pour les réservations classiques. \
+**Réservation possible :** oui \
+**Réservation obligatoire :** ⚠️ oui
 {{% /expander %}}
 
 ## Achat de billets et réservations

@@ -10,4 +10,4 @@ params:
   type: "website"
 ---
 
-Über die BDŽ-Website lassen sich aktuell noch keine FIP 50 Tickets oder nur Reservierungen kaufen. Aktuell können hier nur normale Tickets für den innerbulgarischen Verkehr gekauft werden, bei reservierungspflichtigen Zügen automatisch inklusive Reservierung. Wenn eine Rabattkarte wie eine "Railway discount card" oder ein ISIC-Studenentausweis vorhanden ist, kann diese(r) angegeben werden.
+Über die Website der BDŽ können derzeit weder FIP-50-Tickets noch reine Reservierungen erworben werden. Aktuell sind ausschließlich normale Fahrkarten für den innerbulgarischen Verkehr erhältlich – bei reservierungspflichtigen Zügen ist die Reservierung automatisch enthalten. Falls eine Ermäßigungskarte wie die „Railway Discount Card“ oder ein ISIC-Studentenausweis vorliegt, kann diese(r) beim Buchungsvorgang angegeben werden.
