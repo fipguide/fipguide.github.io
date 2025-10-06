@@ -123,6 +123,10 @@
       overflow-y: scroll;
       overscroll-behavior-y: contain;
       border-top: 1px solid black;
+
+      .o-single__container {
+        border: none;
+      }
     }
 
     &-header {
@@ -152,6 +156,10 @@
         gap: 1.5rem;
       }
     }
+  }
+
+  .o-aside--newspage {
+    display: none;
   }
 }
 
