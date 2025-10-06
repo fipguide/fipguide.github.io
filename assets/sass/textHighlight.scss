@@ -4,6 +4,10 @@
   margin-bottom: 1.2rem;
   border-radius: var(--border-radius-m);
   border-left: var(--bg-neutral) solid 1rem;
+
+  @media print {
+    page-break-inside: avoid;
+  }
 }
 
 .m-text-highlight__roofline {
