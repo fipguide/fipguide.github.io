@@ -1,54 +1,54 @@
 ---
 draft: false
-title: 'BDZ'
-description: "Informationen zu den FIP-Bedingungen bei der Balgarski Darschawni Schelesnizi (BDZ)."
+title: 'BDŽ'
+description: "Informationen zu den FIP-Bedingungen bei der Balgarski Darschawni Schelesnizi (BDŽ)."
 country:
   - 'bulgaria'
 operator: 'bdz'
 ---
 
-Die Balgarski Darschawni Schelesnizi (BDZ) ist die staatliche Eisenbahngesellschaft von Bulgarien und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz. 
+Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von Bulgarien und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz. 
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtsscheine werden akzeptiert
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert
 - Reservierungspflicht in ausgewählten Zügen
 - Buchungsmöglichkeiten sehr eingeschränkt
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der BDZ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der BDŽ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 {{% highlight important %}}
-Die Zugkategorien werden bei der BDZ wie unten beschrieben in der Reiseauskunft angezeigt. In anderen Reiseauskünften werden die Züge dagegen oft alle als R oder IR angegeben.
+Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft angezeigt. In anderen Reiseauskünften werden die Züge dagegen oft alle als `R` oder `IR` angegeben.
 {{% /highlight %}}
 
 {{% expander "Cross-country International Train (IC-INT) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als IR gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
+Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Preis für Reservierung:** 1 Lew / 0,51 Euro
+**Preis für Reservierung:** 1 Lew (0,51 €)
 {{% /expander %}}
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem "R" ersichtlich. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Resevierung genutzt werden können. \
+Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem _R_ ersichtlich. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Resevierung genutzt werden können. \
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Teilweise (mit "R" gekennzeichnet)
+**Reservierungspflicht:** ⚠️ Teilweise (mit _R_ gekennzeichnet)
 {{% /expander %}}
 
 {{% expander "Express train (EXP) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem "R" ersichtlich. \
+Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem _R_ ersichtlich. \
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Teilweise (mit "R" gekennzeichnet)
+**Reservierungspflicht:** ⚠️ Teilweise (mit _R_ gekennzeichnet)
 {{% /expander %}}
 
 {{% expander "Regional Train (REG)" traincategory traincategory %}}
@@ -59,6 +59,13 @@ Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben 
 {{% /expander %}}
 
 {{% expander "Suburban Commuter Train (SUB)" traincategory traincategory %}}
+**Beschreibung:** \
+Züge die über Nacht verkehren und reservierungspflichtig sind. Der Preis für Reservierungen im Liege- oder Schlafwagen sind entsprechend höher, als übliche Reservierungen. \
+**Reservierung möglich:** Ja \
+**Reservierungspflicht:** ⚠️ Ja
+{{% /expander %}}
+
+{{% expander "Nachtzug" traincategory traincategory %}}
 **Beschreibung:** \
 Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, die oftnin einem dichteren Takt als die meisten anderen Züge verkehren. \
 **Reservierung möglich:** Nein \
@@ -84,14 +91,11 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 Für reguläre Fahrkarten reisen Kinder unter 7 Jahren kostenlos. Auf nationalen Relationen erhalten Kinder unter 10 Jahren, auf internationalen Routen Kinder unter 12 Jahren eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.
 
-## Nachtzüge
-Für Nachtzüge innerhalb Bulgariens ist neben einem gültigen FIP-Freifahrtsschein oder FIP 50 Ticket auch eine Reservierung erforderlich. Bei einem Platz im Liege- oder Schlafwagen kostet diese entsprechend mehr als eine normale Reservierung.
-
 ## Tarifliche Besonderheiten
 
 ### Aufschlag bei Fahrterweiterung
 
-Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Ticket, das die zusätzliche Distanz abbildet, auch ein Zuschlag gezahlt werden.
+Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Ticket, das die zusätzliche Distanz abbildet, auch ein Zuschlag gezahlt werden. [^1]
 
 ### Fahrtunterbrechungen
 
@@ -101,7 +105,7 @@ Eine Fahrtunterbrechung ist bei einem durchgängien Ticket nicht gestattet.
 
 
 {{% highlight tip %}}
-Die BDZ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein relativ breites Angebot. Es lohnt sich vorher die Relationen schon grob zu planen, da auf vielen Routen nur wenige Züge pro Tag fahren. Die modernsten Wagen sind die von der Deutschen Bahn eingekauften ehemaligen IC-Wagen, die auf einigen Verbindungen im Fernverkehr zwischen Sofia und Varna oder Burgas eingesetzt werden. Ein besonderes Highlight ist die Schmalspurstrecke Rhodopenbahn zwischen Septemwri und Dobrinischte, die auch von der BDZ betrieben wird.
+Die BDŽ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein relativ breites Angebot. Es lohnt sich vorher die Relationen schon grob zu planen, da auf vielen Routen nur wenige Züge pro Tag fahren. Die modernsten Wagen sind die von der Deutschen Bahn eingekauften ehemaligen IC-Wagen, die auf einigen Verbindungen im Fernverkehr zwischen Sofia und Varna oder Burgas eingesetzt werden. Ein besonderes Highlight ist die Schmalspurstrecke Rhodopenbahn zwischen Septemwri und Dobrinischte, die auch von der BDŽ betrieben wird.
 {{% /highlight %}}
 
 ## Quellen

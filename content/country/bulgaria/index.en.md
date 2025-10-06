@@ -1,72 +1,52 @@
 ---
 draft: false
-title: 'Czechia'
-description: 'Information about FIP conditions for Czechia and which operators offer discounts.'
-country: 'czechia'
+title: 'Bulgaria'
+description: 'Information about FIP conditions for Bulgaria and which operators offer discounts.'
+country: 'bulgaria'
 params:
   operators_without_fip:
-    - ARRIVA vlaky s. r. o.
-    - GW Train Regio
-    - Leo Express
-    - RegioJet
-    - Jindřichohradecké místní dráhy (JHMD)
-    - Trilex / Die Länderbahn
+    - Optima Express
 ---
 
 ## FIP Information
 
-Czechia is not the easiest country for using FIP, but it is still quite possible to travel with it. The Czech state railway České dráhy ([ČD]({{< ref "/operator/cd" >}} "ČD")) is the only FIP operator in the country, but it also operates a large part of the rail network.
-
-However, note that FIP is no longer valid on all routes operated by ČD. There are also some _commercial services_ where a supplement must be paid. With a FIP Coupon, all these exceptions must be considered, while FIP 50 Tickets sold by ČD should make it easier to see which trains are valid. Private operators like Arriva or Die Länderbahn do not accept FIP at all, but tickets in Czechia are generally quite affordable.
+In Bulgaria, FIP can be used relatively easily, but online booking options are very limited. The Bulgarian State Railways Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) is currently almost the only passenger rail operator in the country. FIP is accepted here. With a valid FIP Coupon, you only need to buy reservations for reservation-required trains at the ticket office. FIP 50 tickets can also be purchased at the ticket office. For international journeys, the required tickets are only available at special international ticket counters at major stations.
 
 ## Interesting
 
-Czechia has one of the densest rail networks in the world. It is possible to reach many places in the country by train. Speeds are usually not very high, and there are currently no high-speed lines in the country. Nevertheless, travel comfort is usually good, or there is at least a certain nostalgia in older trains.
+The rail network in Bulgaria is mainly oriented east-west, with various routes connecting the country's largest cities. One of the most important routes is from Sofia to Varna, which can be taken either via Pleven (north) or Plovdiv (south). There are also a few north-south routes, mainly serving as feeders to the main lines.
 
-Prague is considered the center of the rail network, with connections in all directions. The route to Ostrava is probably the most important in the country, served at a high frequency.
+The network is rather old and most connections are quite slow. There is no real regular-interval timetable, and most routes are served by only a few trains per day. Exceptions exist in suburban traffic, for example between Plovdiv and Asenovgrad, where trains run about every 75 minutes. Delays are not uncommon, but on long routes, these are often made up thanks to generous buffer times.
 
-Otherwise, most routes are served hourly or every two hours. Czechia has many scenic routes, often following mountains or rivers, such as from Karlovy Vary to Johanngeorgenstadt, Ceske Budejovice to Cesky Krumlov, or Prague to Usti nad Labem.
-
-Punctuality is solid, and connecting trains often wait, but not in major hubs like Praha hl. n. The latter is also one of the most beautiful stations in the country.
+A highlight is the north-south routes through the Balkan mountains, especially the Rhodope narrow-gauge railway between Septemvri and Dobrinishte, which is operated by BDŽ and thus FIP-valid. Dining cars are also used on this line.
 
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Germany (DB AG) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| Austria (ÖBB) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
-| Poland (PKP, KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
-| Slovakia (ŽSR) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Greece (TrainOSE) | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
+| Romania (CFR) | Ruse (fr) (Bulgarian: Русе), Vidin (fr) |
+| Serbia (SV) | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod) |
+| Turkey (TCDD) | Kapikule (fr) |
 {{% /expander %}}
 
-### Germany
-There are various rail border crossings from Germany that can be used. The most well-known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the EC/RJ trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a continuous FIP 50 Ticket are valid for the journey.
+### Greece
 
-The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin – Bad Schandau – Sebnitz – Rumburk).
+Currently, there are no passenger trains between Greece and Bulgaria.
 
-The other border crossings are only served by regional trains. The easiest is Bayerisch Eisenstein, as it is not only a border point but also the border station. From here, a FIP Ticket / Coupon from ČD is sufficient to continue into Czechia.
+### Romania
 
-At Potůčky on the Johanngeorgenstadt – Karlovy Vary route, FIP Tickets from DB and ČD can be used for cross-border travel. The other crossings are a bit more complicated.
+There are a few daily trains between Romania and Bulgaria, which are the most important rail link between Bulgaria and the rest of Europe. Especially in the summer season, these trains are relevant, as there is then a daily through train pair between the capitals Bucharest and Sofia, and via through coaches to the Black Sea at Varna and even overnight to Istanbul, Turkey. Outside the season, this train pair only runs between Bucharest and Ruse, the first stop in Bulgaria, where a change is required. To use these cross-border trains with FIP, you need either FIP Coupons for both countries or a continuous FIP 50 Ticket. In addition, a reservation is mandatory for the entire journey. Outside the summer season, a reservation for the Bulgarian section from Ruse is sufficient.
 
-At Cheb, cross-border trains operated by DB Regio can be used with FIP Coupons from both countries or a continuous FIP 50 Ticket. For trains operated by Agilis (operated by ČD on the Czech side), a regular ticket must be purchased for the German section (a Deutschlandticket is also valid from Schirnding).
+For the night train, a surcharge for a berth or sleeper can also be reserved. Another daily connection exists via the Vidin border crossing, with a train from Craiova (Romania) to Vidin (Bulgaria). For this route, FIP Coupons for both countries or a continuous FIP 50 Ticket are sufficient.
 
-The same applies to the northern border crossing at Aš. Similarly, at Furth im Wald, the cross-border regional express, which is an EC in the Czech section, can be used with a ČD FIP Ticket in Czechia, but a regular ticket is needed for the German section.
+### Serbia
 
-At the border crossings Hrádek nad Nisou (route Zittau – Liberec), Varnsdorf (route Seifhennersdorf – Zittau), Vejprty (route Cranzahl – Chomutov, only served in summer on weekends and holidays), and Vojtanov (route Zwickau – Cheb), FIP is useless, as on both sides of the border the trains are operated by private railways that do not accept FIP.
+Currently, only the private Optima Express runs once a week across the border between Serbia and Bulgaria. This train runs from Villach (Austria) to Turkey and uses some lines that are otherwise not served by passenger trains. Car transport is also possible. FIP is not valid on any part of this route, and disembarking is only possible in Edirne, Turkey. More information is available on the [Optima Express website](https://optimatours.de/en).
 
-### Austria
+### Turkey
 
-From Austria, cross-border trains of ÖBB can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ÖBB is required. Cross-border trains from RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
+During the summer season, a night train runs between Istanbul Halkali and various destinations in Bulgaria, including Sofia and Plovdiv, or via Ruse north to Bucharest, Romania. Since FIP is not valid in Turkey, you can only use a FIP 50 Ticket or FIP Coupon for the Bulgarian or Romanian section. For through journeys, it may be easier to buy a full-price ticket including a berth or sleeper.
 
-### Poland
-
-There are regular trains between Poland and Czechia, both long-distance and regional. Eurocity trains run via Zebrzydowice and Bohumin between Krakow or Warsaw and Ostrava (sometimes continuing to Vienna). These can be used with FIP Tickets from PKP and ČD plus reservation. Regional trains over these two border crossings are sometimes operated by PKP and sometimes by KŚ. Regional trains via Cesky Tesin run to Polish Cieszyn, operated by ČD on the Czech side; the Polish operator is currently unknown.
-
-The same applies to regional trains between Mikulovice and Krnov, which make a short detour into Poland and stop at Głuchołazy. The Harrachov border crossing is easier, with regional trains between Szklarska Poreba and Liberec. These trains are operated by KD on the Polish side and ČD on the Czech side.
-
-EC trains run via Lichkov between Wroclaw (sometimes from Gdynia) and Prague, for which tickets from PKP and ČD plus reservation are required. Regional trains are operated by KD on the Polish side; on the Czech side, we assume the trains are operated by ČD.
-
-### Slovakia
-
-From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ZSR is required. Cross-border trains from RegioJet cannot be used with FIP.
+For the route between Turkey and Bulgaria, tickets can only be purchased at an international ticket counter on site. If Romania is the start or end point, tickets can also be bought via the [Romanian State Railways CFR](https://bileteinternationale.cfrcalatori.ro/en/). The private Optima Express also runs on this route, but FIP is not valid.
