@@ -73,7 +73,7 @@ Aus Frankreich gibt es verschiedene Verbindungen:
 
 In den `TGV`-Zügen sind reguläre FIP-Tickets nicht gültig. Hier wird ein FIP Globalpreis Ticket benötigt. Für Regionalzüge reicht ein FIP 50 Ticket oder Freifahrtscheine beider beteiligten Bahngesellschaften aus.
 
-Im Raum Genf fahren grenzüberschreitende Regionalzüge die als Léman Express bezeichnet und von der SBB und SNCF betrieben werden. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
 
 ### Italien
 

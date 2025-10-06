@@ -11,7 +11,7 @@ operator: "sncf"
 
 {{< wip >}}
 
-Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in Frankreich. Sie ist betreibt fast alle Fern- und Regionalzüge in Frankreich.
+Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in Frankreich. Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.
 
 ## Zusammenfassung
 
@@ -32,13 +32,13 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. 
 
 ## Zugkategorien und Reservierungen
 
-Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). Keine Gültigkeit von FIP in OuiGo-Zügen. In den reservierungspflichtigen Zügen ist eine Reservierung immer im FIP 50 Ticketpreis enthalten.
+Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OuiGo-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 Ticketpreis immer eine Reservierung enthalten.
 
 ### Fernverkehr
 
 {{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
-Der TGV inOui ist der Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z.B. München, Frankfurt am Main, Barcelone, Luxembourg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen stehen alle Platznummern an zwei verschiedenen Sitzen (nahezu spiegelverkehrt) und der beleuchtete ist gültig.
+Der TGV inOui ist der Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken ist [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen stehen alle Platznummern an zwei verschiedenen Sitzen (nahezu spiegelverkehrt) und der beleuchtete ist gültig.
 
 ℹ️ Die SNCF betreibt auch Low-Cost TGV Züge unter dem Namen OuiGo, diese sind jedoch nicht mit FIP nutzbar.
 
@@ -132,7 +132,7 @@ An SNCF Ticketschaltern können Upgrades von der 2. Klasse in die 1. Klasse geka
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" %}}
-Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns zur Zeit nicht bekannt.
+Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
 {{% /booking %}}
 
 ### Im Zug
@@ -226,7 +226,7 @@ Vergünstigte FIP Tickets für `RER`, Transilien-Züge und Straßenbahnen könne
 
 ### Léman Express
 
-Zwischen Frankreich und Genf in der Schweiz verkehren internationale `TER` Züge die als Léman Express gebranded sind. Die Züge werden aus einer Kooperation zwischen der SNCF und der SBB betrieben. FIP Vergünstigungen im gesamten Léman Express Netzwerk. SNCF FIP Freifahrtscheine gelten auch im Schweizer Teil des Léman Expresses.
+Zwischen Frankreich und Genf in der Schweiz verkehren internationale `TER` Züge, die als Léman Express gebranded sind. Die Züge werden im Rahmen einer Kooperation zwischen SNCF und SBB betrieben.. FIP Vergünstigungen gelten im gesamten Léman Express Netzwerk. FIP Freifahrtscheine der SNCF gelten auch im Schweizer Teil des Léman Expresses.
 
 ### Busverkehr
 
