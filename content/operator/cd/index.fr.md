@@ -123,11 +123,11 @@ Dépend de la ligne, de l'occupation et de la catégorie.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section autrichienne, pour les employés de la Deutsche Bahn"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Pour les liaisons nationales et internationales. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Tchéquie pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare

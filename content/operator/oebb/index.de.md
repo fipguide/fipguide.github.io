@@ -148,13 +148,13 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den österreichischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}

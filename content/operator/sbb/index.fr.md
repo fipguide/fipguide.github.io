@@ -89,13 +89,13 @@ Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aus
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-  subtitle="Pour les liaisons nationales et transfrontalières. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section suisse, pour les employés de la Deutsche Bahn"
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux employés de la Deutsche Bahn."
 %}}
 Avec les billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Pour les liaisons nationales et transfrontalières. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (pas de validité dans le pays d'émission de la carte FIP)"
 %}}
 Avec les billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
 {{% /booking %}}

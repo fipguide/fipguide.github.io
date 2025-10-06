@@ -4,11 +4,19 @@
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
+
+  @media print {
+    margin-bottom: 0;
+  }
 }
 
 .o-footer__links {
   display: flex;
   flex-wrap: wrap;
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-footer__link {
@@ -41,4 +49,14 @@
 
 #language-switcher-button {
   padding-left: 0;
+
+  @media print {
+    display: none;
+  }
+}
+
+.footnote-backref {
+  @media print {
+    display: none;
+  }
 }

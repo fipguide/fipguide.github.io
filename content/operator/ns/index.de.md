@@ -64,7 +64,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 {{% expander "Intercity Direct (ICD) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda. \
-[Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/Intercity-direct.html) \
+[Weitere Informationen](https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html) \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
@@ -109,11 +109,11 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den niederländischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden, mit Ticketanteil nur für den niederländischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort

@@ -89,13 +89,13 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP card)"
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}

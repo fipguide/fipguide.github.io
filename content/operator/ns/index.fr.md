@@ -64,7 +64,7 @@ Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermé
 {{% expander "Intercity Direct (ICD) ⚠️" traincategory category %}}
 **Description :** \
 Train rapide, partiellement avec supplément, entre Lelystad ou Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal et Breda. \
-[Plus d’informations](https://www.ns.nl/en/travel-information/special-routes/Intercity-direct.html) \
+[Plus d’informations](https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html) \
 **Réservation possible :** non \
 **Réservation obligatoire :** non \
 **Supplément :** ⚠️ \
@@ -109,11 +109,11 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Trajets internationaux avec portion néerlandaise pour employés DB"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas, avec part de billet uniquement pour la section néerlandaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 internationaux (hors pays d'origine)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare
