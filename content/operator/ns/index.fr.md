@@ -80,6 +80,9 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 Exception : le `IC` Amsterdam - Berlin, qui est un vrai Intercity transfrontalier avec arrêts uniquement dans les grandes gares. \
 **Réservation possible :** uniquement pour le `IC` Amsterdam - Berlin \
 **Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison)
+{{% highlight important %}}
+**Attention:** à partir du 18 octobre 2025, la ligne IC Amsterdam-Berlin sera progressivement équipée de trains ICE 3neo. Un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € sera alors appliqué pour les trajets intérieurs aux Pays-Bas.
+{{% /highlight %}}
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE)" traincategory category %}}
@@ -97,7 +100,7 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 {{% /expander %}}
 
 {{% highlight important %}}
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo - Hamm (Allemagne), Maastricht - Aix-la-Chapelle (Allemagne) et Arnhem - Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
+Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
 {{% /highlight %}}
 
 ## Achat de billets et réservations

@@ -77,9 +77,12 @@ Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkatego
 {{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
-Eine Ausnahme bildet der `IC` Amsterdam - Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
-**Reservierung möglich:** nur beim `IC` Amsterdam - Berlin \
+Eine Ausnahme bildet der `IC` Amsterdam – Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
+**Reservierung möglich:** nur beim `IC` Amsterdam – Berlin \
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
+{{% highlight important %}}
+**Achtung:** Ab dem 18.10.2025 wird die `IC`-Linie Amsterdam – Berlin sukzessive auf ICE 3neo-Fahrzeuge umgestellt. Im niederländischen Binnenverkehr wird dann ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ fällig.
+{{% /highlight %}}
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE)" traincategory category %}}
@@ -97,7 +100,7 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 {{% /expander %}}
 
 {{% highlight important %}}
-Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
+Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 {{% /highlight %}}
 
 ## Ticket- und Reservierungskauf

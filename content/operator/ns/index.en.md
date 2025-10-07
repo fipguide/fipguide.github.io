@@ -80,6 +80,9 @@ Unlike in other countries, these are not true long-distance trains, but rather f
 An exception is the `IC` Amsterdam - Berlin, which is a true cross-border `IC` with stops only at major hubs. \
 **Reservation possible:** only on the `IC` Amsterdam - Berlin \
 **Reservation required:** no (cross-border during high season: yes)
+{{% highlight important %}}
+**Please note:** Starting October 18, 2025, the IC line Amsterdam – Berlin will gradually be converted to ICE 3neo trains. An [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of €3 will then be charged on domestic travel within the Netherlands.
+{{% /highlight %}}
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE)" traincategory category %}}
@@ -97,7 +100,7 @@ Regional trains for short connections, stopping at every station along the route
 {{% /expander %}}
 
 {{% highlight important %}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
+Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
 {{% /highlight %}}
 
 ## Ticket and Reservation Purchase
