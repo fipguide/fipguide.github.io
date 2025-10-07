@@ -22,7 +22,7 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 tickets: ✅
 
 FIP Coupons and FIP 50 tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
