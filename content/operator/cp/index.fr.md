@@ -144,9 +144,9 @@ Lors d'un voyage au Portugal, nous recommandons la visite du Musée national du 
 
 {{% highlight tip %}}
 
-La CP propose régulièrement des trajets avec le "Presidental Train" — un train historique et luxueux qui a transporté des chefs d'État pendant plus d'un siècle et constitue un élément important du patrimoine ferroviaire portugais.
+La CP propose régulièrement des trajets avec le "Presidential Train" — un train historique et luxueux qui a transporté des chefs d'État pendant plus d'un siècle et constitue un élément important du patrimoine ferroviaire portugais.
 
-[Plus d'informations sur le Presidental Train](https://comboiopresidencial.pt/en/)
+[Plus d'informations sur le Presidential Train](https://comboiopresidencial.pt/en/)
 
 {{% /highlight %}}
 
