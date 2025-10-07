@@ -17,8 +17,7 @@ function setA11YProperties(currentState) {
         bottomSheetContent.setAttribute("aria-hidden", "true");
         handleBtn.setAttribute("aria-expanded", "false");
         break;
-      case "half":
-      case "full":
+      case "open":
         bottomSheetContent.setAttribute("aria-hidden", "false");
         handleBtn.setAttribute("aria-expanded", "true");
         break;
@@ -45,18 +44,11 @@ function initAside() {
 
   function toggleSheet() {
     if (currentState === "closed") {
-      bottomSheet.classList.add("open-half");
-      currentState = "half";
-      overlay.classList.add("overlay--show");
-      lockScroll(true);
-      setA11YProperties(currentState);
-    } else if (currentState === "half") {
-      bottomSheet.classList.remove("open-half");
-      bottomSheet.classList.add("open-full");
-      currentState = "full";
+      bottomSheet.classList.add("o-aside__bottom-sheet--open");
+      currentState = "open";
       setA11YProperties(currentState);
     } else {
-      bottomSheet.classList.remove("open-full");
+      bottomSheet.classList.remove("o-aside__bottom-sheet--open");
       currentState = "closed";
       overlay.classList.remove("overlay--show");
       lockScroll(false);
@@ -82,52 +74,20 @@ function initAside() {
     currentY = e.clientY || e.touches?.[0].clientY;
     const deltaY = startY - currentY;
 
-    if (currentState === "closed") {
-      if (deltaY > 400) {
-        bottomSheet.classList.add("open-full");
-        currentState = "full";
-        overlay.classList.add("overlay--show");
-        lockScroll(true);
-        setA11YProperties(currentState);
-      } else if (deltaY > 0) {
-        bottomSheet.classList.add("open-half");
-        currentState = "half";
-        overlay.classList.add("overlay--show");
-        lockScroll(true);
-        setA11YProperties(currentState);
-      }
+    if (currentState === "closed" && deltaY > 50) {
+      bottomSheet.classList.add("o-aside__bottom-sheet--open");
+      currentState = "open";
+      overlay.classList.add("overlay--show");
+      lockScroll(true);
+      setA11YProperties(currentState);
     }
 
-    if (currentState === "half") {
-      if (deltaY > 0) {
-        bottomSheet.classList.remove("open-half");
-        bottomSheet.classList.add("open-full");
-        currentState = "full";
-        lockScroll(true);
-        setA11YProperties(currentState);
-      } else if (deltaY < 0) {
-        bottomSheet.classList.remove("open-half");
-        currentState = "closed";
-        lockScroll(false);
-        overlay.classList.remove("overlay--show");
-        setA11YProperties(currentState);
-      }
-    }
-
-    if (currentState === "full") {
-      if (deltaY < -400) {
-        bottomSheet.classList.remove("open-full");
-        currentState = "closed";
-        lockScroll(false);
-        overlay.classList.remove("overlay--show");
-        setA11YProperties(currentState);
-      } else if (deltaY > -200 && deltaY < 0) {
-        bottomSheet.classList.remove("open-full");
-        bottomSheet.classList.add("open-half");
-        currentState = "half";
-        lockScroll(true);
-        setA11YProperties(currentState);
-      }
+    if (currentState === "open" && deltaY < -50) {
+      bottomSheet.classList.remove("o-aside__bottom-sheet--open");
+      currentState = "closed";
+      lockScroll(false);
+      overlay.classList.remove("overlay--show");
+      setA11YProperties(currentState);
     }
   };
 
@@ -148,7 +108,7 @@ function initAside() {
   window.onclick = (e) => {
     if (isMobile()) {
       if (e.target.classList.contains("o-aside__toc-link")) {
-        bottomSheet.classList.remove("open-full", "open-half");
+        bottomSheet.classList.remove("o-aside__bottom-sheet--open");
         currentState = "closed";
         overlay.classList.remove("overlay--show");
         lockScroll(false);

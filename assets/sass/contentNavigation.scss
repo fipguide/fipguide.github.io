@@ -110,11 +110,7 @@
     transform: translateY(calc(100% - 6.4rem));
     box-shadow: var(--box-shadow);
 
-    &.open-half {
-      transform: translateY(50%);
-    }
-
-    &.open-full {
+    &--open {
       transform: translateY(0);
     }
 
