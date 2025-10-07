@@ -87,7 +87,6 @@ p:has(+ span) {
   margin-bottom: 0;
 }
 
-article p:last-child,
-section p:last-child {
+.o-single__content > *:last-child {
   margin-bottom: 0;
 }
