@@ -112,7 +112,7 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     reservations=nil
 %}}
 
-**Billet FIP Global**
+#### Billet FIP Global
 
 Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
 {{% /booking %}}
