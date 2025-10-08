@@ -34,8 +34,7 @@ Train categories are shown in BDŽ journey planners as described below. In other
 International trains running between Bucharest in Romania and Sofia or Varna. These trains run directly only in the summer; otherwise, a change in Ruse is required. In other planners, they may also be shown as `IR`. A seat reservation is mandatory in both classes.
 
 **Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Reservation price:** 1 Lev (0.51 €)
+**Reservation required:** ⚠️ yes
 {{% /expander %}}
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}

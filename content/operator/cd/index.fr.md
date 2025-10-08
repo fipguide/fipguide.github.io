@@ -11,21 +11,21 @@ operator: "cd"
 
 ## Résumé
 
-- Les billets FIP 50 et les coupons FIP sont acceptés
+- Les Billets FIP 50 et les Coupons FIP sont acceptés
 - Réservation obligatoire uniquement dans les trains SuperCity
 - Suppléments pour les trains _commerciaux_
 - Dans certaines régions, le FIP n'est pas valable sur certains trains ČD (Pilsen et Brno)
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
 Billet FIP 50 : ✅
 
-Les coupons FIP et les billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables dans chaque pays sont nécessaires.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
 {{% highlight important %}}
-Sur certaines lignes et dans certaines régions, les billets FIP ne sont pas valables, même si les trains sont exploités par ČD.
+Sur certaines lignes et dans certaines régions, les Billets FIP ne sont pas valables, même si les trains sont exploités par ČD.
 
 Plus d'informations : [Services ČD sans FIP]({{% ref "#services-čd-sans-fip" %}})
 {{% /highlight %}}
@@ -51,12 +51,12 @@ Le prix de la réservation est variable.
 Les trains Railjet relient Brno et Prague rapidement et confortablement, et offrent aussi une liaison directe via Břeclav vers Vienne et Graz. Ils ne s'arrêtent qu'aux principales gares. À partir de décembre 2025, les trains internationaux ComfortJet entre Prague et l'Allemagne/Danemark seront également inclus dans cette catégorie. Il existe généralement trois classes :
 
 **Economy** : Comparable à la 2ᵉ classe. \
-**First Class** : Comparable à la 1ère classe. Un coupon FIP 1ère classe est nécessaire. \
-**Business** : 1ère classe avec boisson de bienvenue et compartiments privés. Non accessible avec un coupon FIP (même avec supplément).
+**First Class** : Comparable à la 1ère classe. Un Coupon FIP 1ère classe est nécessaire. \
+**Business** : 1ère classe avec boisson de bienvenue et compartiments privés. Non accessible avec un Coupon FIP (même avec supplément).
 
 La réservation de siège est possible, et obligatoire en Business Class. Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une livrée bleue. Les vélos, poussettes et bagages encombrants sont acceptés. Restauration disponible au wagon-restaurant ou service à la place. En 1ère classe, une bouteille d'eau et un journal sont offerts ; en Business, une boisson de bienvenue et un bon de 50 CZK pour le restaurant (valable uniquement en Tchéquie). Un cinéma pour enfants est disponible. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/)
 
-ℹ️ À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n'acceptent pas les billets FIP. \
+ℹ️ À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n'acceptent pas les Billets FIP. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non (sauf Business Class)
 {{% /expander %}}
@@ -107,8 +107,8 @@ Trains locaux desservant toutes les gares, souvent uniquement en 2ᵉ classe. [P
 **Description :** \
 Les trains de nuit relient la Tchéquie à l'Allemagne, l'Autriche, la Pologne, la Suisse, la Slovaquie et la Hongrie. Ils proposent des voitures-lits, couchettes et places assises, et sont exploités à l'étranger en coopération avec d'autres compagnies. [Plus d'informations et réseau](https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/)
 
-Pour les Nightjet, les réservations/suppléments pour voitures-lits et couchettes sont obligatoires. Un coupon FIP pour chaque pays/compagnie traversé est nécessaire. Sans coupon FIP, un billet au Tarif Global FIP pour tout le trajet peut être acheté. \
-⚠️ La gratuité nationale pour les employés de la Deutsche Bahn n'est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB. \
+Pour les Nightjet, les réservations/suppléments pour voitures-lits et couchettes sont obligatoires. Un Coupon FIP pour chaque pays/compagnie traversé est nécessaire. Sans Coupon FIP, un billet au Tarif Global FIP pour tout le trajet peut être acheté. \
+⚠️ La gratuité nationale pour les employés de la Deutsche Bahn n'est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif Global FIP :** oui \
@@ -158,19 +158,19 @@ En principe, le FIP n'est pas valable dans les trains ČD exploités dans le cad
 
 #### Trains régionaux en Moravie du Sud (Brno)
 
-Les billets FIP ne sont pas valables dans les trains régionaux en Moravie du Sud, même exploités par ČD.
+Les Billets FIP ne sont pas valables dans les trains régionaux en Moravie du Sud, même exploités par ČD.
 
 Aperçu des services : [Liste d'exclusion ČD JMK 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
 
 #### Trains régionaux dans la région de Pilsen
 
-Les billets FIP ne sont pas valables sur certains trains régionaux autour de Pilsen.
+Les Billets FIP ne sont pas valables sur certains trains régionaux autour de Pilsen.
 
 Aperçu des services : [Liste d'exclusion ČD région Pilsen 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
 
 ### Bus et services de remplacement
 
-Les coupons FIP ne sont pas valables dans les bus exploités par ČD, sauf pour les services de remplacement ferroviaire.
+Les Coupons FIP ne sont pas valables dans les bus exploités par ČD, sauf pour les services de remplacement ferroviaire.
 
 Pour certaines liaisons, des billets à tarif réduit sont disponibles :
 
@@ -191,7 +191,7 @@ Les réductions FIP ne sont pas valables sur les trains spéciaux et historiques
 
 ### Section étrangère (Děčín – Rumburk)
 
-Les billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n'est pas autorisée.
+Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n'est pas autorisée.
 
 ### Interruption de voyage
 

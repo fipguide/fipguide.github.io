@@ -17,7 +17,7 @@ aliases:
 
 ## Billets FIP 50
 
-Les billets (y compris les billets FIP 50) sont moins chers s’ils sont achetés à l’avance (1 jour ou 15 jours avant le départ).
+Les billets (y compris les Billets FIP 50) sont moins chers s’ils sont achetés à l’avance (1 jour ou 15 jours avant le départ).
 
 Pour les trajets intérieurs en Autriche, les billets peuvent être achetés directement au distributeur automatique. Sélectionnez « Billet national avec sélection de la destination ».Ensuite, appuyez sur les boutons « Ermäßigung » puis « Ändern ». Comme type de réduction, vous pouvez choisir : « Mitarbeiterticket 50% / FIP-Inland » ou « at. Fbg / FIP Inland » (tout en bas de la liste).
 

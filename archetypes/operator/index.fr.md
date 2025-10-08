@@ -23,12 +23,12 @@ operator: "{{ .File.ContentBaseName }}"
 <!--
   Liste à puces des principales caractéristiques / règles FIP de la compagnie ferroviaire.
   Par exemple :
-  - Les billets FIP 50 et les coupons FIP sont-ils acceptés ?
+  - Les Billets FIP 50 et les Coupons FIP sont-ils acceptés ?
   - Y a-t-il une obligation de réservation ?
   - Existe-t-il d'autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
 -->
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : <✅/⛔> \
 Coupon FIP accompagnant : <✅/⛔> \
@@ -36,7 +36,7 @@ Billets FIP 50 : <✅/⛔> \
 Tarif Global FIP : <✅/⛔>
 
 <!--
-  Où les billets FIP 50 / coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. billet FIP 50 continu ou coupons FIP des deux pays) ?
+  Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
 -->
 
 ## Catégories de trains et réservations

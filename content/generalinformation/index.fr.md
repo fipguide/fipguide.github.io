@@ -17,7 +17,7 @@ Ce projet fournit des informations pratiques sur l'utilisation du FIP ainsi que 
 Il existe deux manières principales d’en bénéficier :
 
 1. **Carte FIP** : Valable trois ans, elle permet d'acheter sans limite des billets de train à tarif réduit à l'étranger. \
-2. **Coupons FIP** : Chaque année, les membres FIP peuvent recevoir des coupons FIP, donnant droit à un maximum de huit jours de voyage.
+2. **Coupons FIP** : Chaque année, les membres FIP peuvent recevoir des Coupons FIP, donnant droit à un maximum de huit jours de voyage.
 
 Vous trouverez les règles d'utilisation sur les sous-pages des [opérateurs]({{< ref "operator" >}}).
 

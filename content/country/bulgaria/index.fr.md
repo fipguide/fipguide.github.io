@@ -10,7 +10,7 @@ params:
 
 ## Informations FIP
 
-En Bulgarie, la FIP est relativement simple à utiliser, mais les possibilités de réservation en ligne sont très limitées. Les chemins de fer nationaux bulgares Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) sont actuellement presque le seul opérateur de trains de voyageurs dans le pays. La FIP y est acceptée. Avec un Coupon FIP valide, il suffit d'acheter les réservations pour les trains à réservation obligatoire au guichet. Les billets FIP 50 peuvent également être achetés au guichet. Pour les voyages internationaux, les billets nécessaires ne sont disponibles qu'aux guichets internationaux spécialisés dans les grandes gares.
+En Bulgarie, la FIP est relativement simple à utiliser, mais les possibilités de réservation en ligne sont très limitées. Les chemins de fer nationaux bulgares Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) sont actuellement presque le seul opérateur de trains de voyageurs dans le pays. La FIP y est acceptée. Avec un Coupon FIP valide, il suffit d'acheter les réservations pour les trains à réservation obligatoire au guichet. Les Billets FIP 50 peuvent également être achetés au guichet. Pour les voyages internationaux, les billets nécessaires ne sont disponibles qu'aux guichets internationaux spécialisés dans les grandes gares.
 
 ## Informations générales
 
@@ -18,7 +18,7 @@ Le réseau ferroviaire bulgare est principalement orienté est-ouest, avec diff�
 
 Le réseau est plutôt ancien et la plupart des liaisons sont assez lentes. Il n'existe pas vraiment de service cadencé, et la plupart des lignes ne voient que quelques trains par jour. Des exceptions existent dans la banlieue, par exemple entre Plovdiv et Asenovgrad, où un train circule environ toutes les 75 minutes. Les retards ne sont pas rares, mais sur les longues distances, ils sont souvent rattrapés grâce à des marges horaires généreuses.
 
-Un point fort du réseau est constitué par les lignes nord-sud à travers le massif du Balkan, en particulier la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichté, exploitée par la BDŽ et donc accessible avec la FIP. Des voitures-restaurants circulent également sur cette ligne.
+Un point fort du réseau est constitué par les lignes nord-sud à travers le massif du Balkan, en particulier la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichte, exploitée par la BDŽ et donc accessible avec la FIP. Des voitures-restaurants circulent également sur cette ligne.
 
 ## Arrivée et points frontières
 

@@ -14,7 +14,7 @@ Dans le nord de l'Espagne, Euskotren exploite un réseau ferroviaire basque qui 
 - Avec le billet, vous pouvez voyager en train, sur la ligne de métro L3 à Bilbao, les tramways et le funiculaire "Funicular de Larreineta".
 - Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ⛔ \
 Billets FIP 50 : ⛔ \
@@ -24,7 +24,7 @@ Billets FIP 50 : ⛔ \
 <img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
 Le personnel des centres clients Euskotren vous délivre un "Euskotren FIP Ticket" spécial sur présentation de votre carte FIP.
 Le billet est également délivré aux accompagnants avec leur propre carte FIP. Il est valable 7 jours y compris le jour d'émission et vous pouvez l'utiliser pour l'ensemble du réseau Euskotren à l'exception des lignes de bus régionales et du train musée.
-Vous utilisez l'"Euskotren FIP Ticket" pour passer les barrières de quai. Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an. Euskotren n'applique pas la limitation habituelle pour les coupons FIP.
+Vous utilisez l'"Euskotren FIP Ticket" pour passer les barrières de quai. Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an. Euskotren n'applique pas la limitation habituelle pour les Coupons FIP.
 
 <br style="clear:both" />
 
@@ -78,7 +78,7 @@ Il existe une classe uniforme qui peut être utilisée avec les cartes FIP de 1�
 
 ### Bus
 
-Les billets FIP ne sont pas valables sur les lignes de bus régionales d'Euskotren.
+Les Billets FIP ne sont pas valables sur les lignes de bus régionales d'Euskotren.
 
 ## Recommandations
 
