@@ -16,7 +16,7 @@ params:
 
 ## FIP Nutzung
 
-Züge im Nahverkehr werden in Italien größtenteils von der Trenitalia betrieben und können mit FIP genutzt werden. Ausgenommen davon sind Züge von Trenord, die im nördlichen Italien unterwegs sind, und Ferrovie Sud Est (selbst wenn die Züge Trenitalia Logos haben). Auch im Raum Neapel verkehren einige Schmalspurlinien, die nicht von der Trenitalia betrieben werden und nicht mit FIP nutzbar sind.
+Züge im Nahverkehr werden in Italien größtenteils von der [Trenitalia]({{< ref "/operator/fs" >}} "Trenitalia") betrieben und können mit FIP genutzt werden. Ausgenommen davon sind Züge von Trenord, die im nördlichen Italien unterwegs sind, und Ferrovie Sud Est (selbst wenn die Züge Trenitalia Logos haben). Auch im Raum Neapel verkehren einige Schmalspurlinien, die nicht von der Trenitalia betrieben werden und nicht mit FIP nutzbar sind.
 
 Im Fernverkehr sind die Frecce-Züge der Trenitalia nur mit teuren Reservierungen (inkl. Aufschlag) nutzbar. Zusätzlich verkehren Züge des privaten Anbieters Italo, die nicht mit FIP nutzbar sind.
 
