@@ -16,9 +16,9 @@ params:
 
 <!--
     Un court résumé qui doit répondre aux questions suivantes, dans cet ordre :
-    - Quels billets FIP (FIP 50 / coupons FIP) sont reconnus dans le pays et par quels opérateurs ferroviaires ?
-    - Quelles sont les particularités de l'utilisation des billets FIP avec ces opérateurs ? (Ajoutez un lien vers l’opérateur ferroviaire)
-    - Quels opérateurs ne reconnaissent pas les billets FIP et comment les identifier dans les informations de correspondance ?
+    - Quels Billets FIP (FIP 50 / Coupons FIP) sont reconnus dans le pays et par quels opérateurs ferroviaires ?
+    - Quelles sont les particularités de l'utilisation des Billets FIP avec ces opérateurs ? (Ajoutez un lien vers l’opérateur ferroviaire)
+    - Quels opérateurs ne reconnaissent pas les Billets FIP et comment les identifier dans les informations de correspondance ?
 -->
 
 ## Informations générales

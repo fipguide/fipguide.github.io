@@ -9,13 +9,13 @@ params:
 
 ## FIP Nutzung
 
-In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buchungsmöglichkeiten sind sehr eingeschränkt. Die bulgarische Staatsbahn Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) ist derzeit noch fast das einzige Eisenbahnverkehrsunternehmen mit Personenverkehr in dem Land. FIP wird hier anerkannt. Mit einem vorhandenen FIP Freifahrtschein müssen lediglich bei reservierungspflichtigen Zügen Reservierungen vor Ort am Fahrkartenschalter erworben werden. FIP 50 Tickets können ebenfalls am Fahrkartenschalter erworben werden. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten lediglich an speziell dafür ausgelegte Fahrkartenschaltern an großen Bahnhöfen.
+In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buchungsmöglichkeiten sind sehr eingeschränkt. Die bulgarische Staatsbahn Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) ist derzeit fast das einzige Eisenbahnverkehrsunternehmen mit Personenverkehr in dem Land. FIP wird hier anerkannt. Mit einem vorhandenen FIP Freifahrtschein müssen lediglich bei reservierungspflichtigen Zügen Reservierungen vor Ort am Fahrkartenschalter erworben werden. FIP 50 Tickets können ebenfalls am Fahrkartenschalter erworben werden. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten lediglich an speziell dafür ausgelegte Fahrkartenschaltern an großen Bahnhöfen.
 
 ## Wissenswertes
 
 Das Schienennetz in Bulgarien ist vor allem auf die Ost-West-Richtung ausgelegt. Hier gibt es verschiedene Verbindungen, welche die größten Städte des Landes miteinander verbinden. Eine der wichtigsten Verbindungen führt von Sofia nach Varna; diese kann sowohl über Pleven im Norden als auch über Plovdiv im Süden befahren werden. Es existieren auch wenige Nord-Süd-Verbindungen, die vor allem auch als Zubringer zu den anderen Hauptstrecken genutzt werden.
 
-Das Streckennetz ist eher alt und die Verbindungen meist sehr langsam. Auch einen Taktverkehr gibt es nicht wirklich. Es verkehren meist nur wenige Züge pro Tag auf den einzelnen Routen. Ausnahmen bestehen im Vorortverkehr, beispielsweise zwischen Plovdiv und Asenvograd, wo meist alle 75 Minuten ein Zug verkehrt. Verspätungen sind zwar nicht selten, aber gerade auf langen Verbindungen werden diese durch genug Pufferzeit auch oft wieder aufgeholt.
+Das Streckennetz ist eher alt und die Verbindungen meist sehr langsam. Auch einen Taktverkehr gibt es nicht wirklich. Es verkehren meist nur wenige Züge pro Tag auf den einzelnen Routen. Ausnahmen bestehen im Vorortverkehr, beispielsweise zwischen Plovdiv und Assenowgrad, wo meist alle 75 Minuten ein Zug verkehrt. Verspätungen sind zwar nicht selten, aber gerade auf langen Verbindungen werden diese durch genug Pufferzeit auch oft wieder aufgeholt.
 
 Als Streckenhighlight gilt neben den Nord-Süd-Strecken eine Fahrt durch das Balkangebirge. Insbesondere die Rhodopenbahn zwischen Septemwri und Dobrinischte ist sehenswert: eine von der BDŽ betriebene Schmalspurbahn und somit mit FIP nutzbar. Hier werden auch Speisewagen eingesetzt.
 
@@ -26,7 +26,7 @@ Als Streckenhighlight gilt neben den Nord-Süd-Strecken eine Fahrt durch das Bal
 | --- | --- |
 | Griechenland (TrainOSE) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
 | Rumänien (CFR) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
-| Serbien (SV)| Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
+| Serbien (SV) | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
 | Türkei (TCDD) | Kapikule (fr) |
 
 {{% /expander %}}

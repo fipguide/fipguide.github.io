@@ -35,7 +35,7 @@ Le site web PKP vend des réservations pour les trains PKP nationaux et transfro
 
 Ensuite, la connexion ou l'inscription à un compte utilisateur PKP Intercity doit être effectuée pour acheter la réservation.
 
-Lors de voyages avec un coupon FIP, celui-ci doit être enregistré dans le compte client en indiquant le numéro du coupon et la période de validité afin que la réservation puisse être achetée :
+Lors de voyages avec un Coupon FIP, celui-ci doit être enregistré dans le compte client en indiquant le numéro du coupon et la période de validité afin que la réservation puisse être achetée :
 
 ![Enregistrement coupon PKP](pkp_reservation_ticket.webp)
 

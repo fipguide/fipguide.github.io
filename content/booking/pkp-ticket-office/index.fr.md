@@ -19,7 +19,7 @@ PKP exploite un vaste réseau de guichets même dans les petites gares. Linguist
 
 ## Billets FIP 50
 
-Les billets FIP 50 pour les voyages nationaux et transfrontaliers peuvent être achetés aux guichets PKP.
+Les Billets FIP 50 pour les voyages nationaux et transfrontaliers peuvent être achetés aux guichets PKP.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
