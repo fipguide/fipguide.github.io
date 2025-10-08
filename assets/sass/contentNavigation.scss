@@ -120,6 +120,8 @@
       overflow-y: scroll;
       overscroll-behavior-y: contain;
       border-top: 1px solid black;
+      border-left: var(--border);
+      border-right: var(--border);
 
       .o-single__container {
         border: none;
