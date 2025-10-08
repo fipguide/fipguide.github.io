@@ -16,7 +16,7 @@ params:
 
 ## Informations FIP
 
-Au Danemark, il est possible de voyager sur les principales lignes avec un billet FIP 50 ou un coupon FIP. Les chemins de fer nationaux danois ([DSB]({{< ref "/operator/dsb" >}} "DSB")) exploitent un réseau continu, mais certaines lignes secondaires sont exploitées par des compagnies privées (par ex. GoCollective) où les titres FIP ne sont pas acceptés.
+Au Danemark, il est possible de voyager sur les principales lignes avec un Billet FIP 50 ou un Coupon FIP. Les chemins de fer nationaux danois ([DSB]({{< ref "/operator/dsb" >}} "DSB")) exploitent un réseau continu, mais certaines lignes secondaires sont exploitées par des compagnies privées (par ex. GoCollective) où les titres FIP ne sont pas acceptés.
 
 Les trains de nuit qui traversent le Danemark, opérés par SJ et Snälltåget, n'acceptent pas non plus les réductions FIP. Les liaisons entre Copenhague et la Suède sont également exclues du dispositif FIP.
 

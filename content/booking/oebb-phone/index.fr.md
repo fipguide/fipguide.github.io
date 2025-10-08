@@ -27,7 +27,7 @@ Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une r�
 
 ## Billets FIP 50
 
-Les billets FIP 50 peuvent être achetés pour des voyages en Autriche ainsi que vers de nombreux pays européens.
+Les Billets FIP 50 peuvent être achetés pour des voyages en Autriche ainsi que vers de nombreux pays européens.
 
 Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant le départ ou 15 jours avant le départ).
 {{% /booking-section %}}

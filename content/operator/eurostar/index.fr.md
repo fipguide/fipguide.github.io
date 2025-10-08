@@ -12,22 +12,22 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 
 ## Résumé
 
-- Les coupons FIP ne sont pas acceptés. En revanche, il est possible d’acheter un billet FIP à tarif global fixe.
+- Les Coupons FIP ne sont pas acceptés. En revanche, il est possible d’acheter un Billet FIP à tarif global fixe.
 - Tous les trains nécessitent une réservation obligatoire.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ⛔ \
 Coupon FIP accompagnant : ⛔ \
 Billets FIP 50 : ⛔ \
 Tarif Global FIP : ✅
 
-Les billets à tarif FIP global peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les billets FIP via le [site Eurostar](https://www.eurostar.com/). Les billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
+Les billets à tarif FIP global peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les Billets FIP via le [site Eurostar](https://www.eurostar.com/). Les Billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
 
 ## Catégories de trains et réservations
 
 {{% highlight important %}}
-Tous les trains nécessitent une réservation obligatoire et un billet FIP global spécifique au train concerné.
+Tous les trains nécessitent une réservation obligatoire et un Billet FIP global spécifique au train concerné.
 {{% /highlight %}}
 
 {{% expander "Eurostar (Bleu) : Londres - Paris / Bruxelles / Amsterdam ⚠️" traincategory category %}}
@@ -112,7 +112,7 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     reservations=nil
 %}}
 
-**Billet FIP Global**
+#### Billet FIP Global
 
 Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
 {{% /booking %}}
@@ -130,10 +130,10 @@ Enfants jusqu'à 3 ans inclus: gratuit, mais sans place attribuée. Pas d'autres
 ### Quotas de billets
 
 {{% highlight tip %}}
-Les billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
+Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 {{% /highlight %}}
 
-Les vendredi, samedi et dimanche entre 17h30 et 19h00, les billets FIP ne sont pas proposés. [^2]
+Les vendredi, samedi et dimanche entre 17h30 et 19h00, les Billets FIP ne sont pas proposés. [^2]
 
 ### Correspondances
 
@@ -178,7 +178,7 @@ Si l’arrivée se fait dans une autre gare terminus de Londres et qu’il est n
 
 **Réservation des billets**
 
-Les billets FIP vers London International CIV ne peuvent probablement être achetés qu’au guichet dans les gares britanniques.
+Les Billets FIP vers London International CIV ne peuvent probablement être achetés qu’au guichet dans les gares britanniques.
 
 Sans réduction FIP, la réservation en ligne est possible via [Trainsplit](https://trainsplit.com/). Il faut désactiver l’option _Use Split Tickets_, puis réserver un billet depuis ou vers _London International (for Eurostar) (LNE)_. Le tarif sélectionné doit impérativement contenir _EURO_ dans le nom pour garantir la correspondance. Sinon, il s’agit d’un billet classique sans garantie de correspondance. [^3]
 
