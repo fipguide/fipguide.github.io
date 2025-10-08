@@ -60,7 +60,7 @@
       {{- .info | .original_page.RenderString -}}
     </div>
   {{- end -}}
-  {{- $contentClasses := slice "o-single__content o-booking__section" -}}
+  {{- $contentClasses := slice "o-single__content" "o-booking__section" -}}
   {{- if or (eq .fip_50 false) (eq .fip_50 "nil") }}
     {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
   {{- end -}}
@@ -70,7 +70,7 @@
   {{- if or (eq .reservations false) (eq .reservations "nil") }}
     {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
   {{- end -}}
-  <div class="{{ delimit $contentClasses ' ' }}">
+  <div class="{{ delimit $contentClasses " " }}">
     {{- $content := partial "increase-headings" (dict "content" .page.Content "offset" 2) -}}
     {{- $content := partial "prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
     {{- $content := partial "prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
