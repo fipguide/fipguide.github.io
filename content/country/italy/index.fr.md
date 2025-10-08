@@ -58,7 +58,7 @@ Depuis la Suisse, on peut voyager en Italie aussi bien par des trains longue dis
 Le supplément ou le prix de la réservation pour les trains transfrontaliers `EC`/`ECE` vers l’Italie est de 20 € (1ʳᵉ/2ᵉ classe). Si la réservation est effectuée dans un centre DB, le supplément n’est que de 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
 
 {{% highlight tip %}}
-Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE 80`). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option beaucoup plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
+Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option beaucoup plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
 {{% /highlight %}}
 
 ### Autriche

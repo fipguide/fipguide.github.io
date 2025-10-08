@@ -12,7 +12,7 @@ Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite d
 
 ## Résumé
 
-- Les Billets FIP gratuits sont acceptés uniquement sur les trains de banlieue (Cercanías), pas sur les trains avec réservation obligatoire.
+- Les FIP Coupons sont acceptés uniquement sur les trains de banlieue (Cercanías), pas sur les trains avec réservation obligatoire.
 - Pour les trains avec réservation obligatoire, un billet au tarif FIP Global (indépendant de la distance) peut être acheté, incluant la réservation ; les Coupons FIP ne sont pas nécessaires.
 - Les Billets FIP ne sont pas acceptés dans les trains Avlo.
 - Pour les AVE internationaux entre Madrid et Marseille ou Lyon et Barcelone, les mêmes tarifs FIP Global s’appliquent que pour les AVE nationaux.

@@ -15,7 +15,7 @@ params:
 {{% booking-section "reservations" %}}
 **Réservations et suppléments :**
 
-Aux distributeurs de billets Trenitalia, il est possible d’acheter des réservations et des suppléments pour les billets gratuits FIP pour Le Frecce et autres trains longue distance.
+Aux distributeurs de billets Trenitalia, il est possible d’acheter des réservations et des suppléments pour les Coupons FIP FIP pour Le Frecce et autres trains longue distance.
 
 Le tarif _DIRITTO AMMISSIONE_ peut être utilisé à cet effet. Bien qu’il ne soit pas explicitement destiné au FIP, il est accepté. Un Coupon FIP est également requis pour l’utilisation. Les classes Business et Executive ne sont pas autorisées avec FIP. Le tarif correct serait _Biglietti Gratuiti FS 1/2 Classe_, qui correspond à la différence de prix entre les trains régionaux et longue distance. Ce tarif est généralement plus cher que le _DIRITTO AMMISSIONE_, mais ne peut pas être acheté au distributeur.
 

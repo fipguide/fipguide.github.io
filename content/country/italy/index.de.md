@@ -59,7 +59,7 @@ Aus der Schweiz kann sowohl mit grenzüberschreitenden Fern- als auch Regionalz�
 Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20€ (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10€ (2. Klasse) bzw. 13€ (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 
 {{% highlight tip %}}
-Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE 80`) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere, aber teurere Variante, bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
+Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere, aber teurere Variante, bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
 {{% /highlight %}}
 
 ### Österreich
