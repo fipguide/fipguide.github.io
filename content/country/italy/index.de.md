@@ -14,10 +14,6 @@ params:
     - '[Trenord]({{< ref "/operator/fs#gültigkeit-fip-tickets" >}} "Trenord")'
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 ## FIP Nutzung
 
 Züge im Nahverkehr werden in Italien größtenteils von der Trenitalia betrieben und können mit FIP genutzt werden. Ausgenommen davon sind Züge von Trenord, die im nördlichen Italien unterwegs sind, und Ferrovie Sud Est (selbst wenn die Züge Trenitalia Logos haben). Auch im Raum Neapel verkehren einige Schmalspurlinien, die nicht von der Trenitalia betrieben werden und nicht mit FIP nutzbar sind.
@@ -34,7 +30,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | Land / Bahn | Grenzpunkte |
 | --- | --- |
 | Österreich (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Schweiz (SBB, inkl. BLS und SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| Schweiz (SBB, BLS und SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 | Frankreich (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slowenien (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
 | Fähre (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
@@ -47,7 +43,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 
 Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP 50 Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
 
-Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC 151/134`): \
+Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
 Dabei gilt im italienischen Abschnitt (Villa Opicina - Trieste) der ÖBB FIP Coupon, wobei hier ein geringer Fernverkehrszuschlag zu zahlen ist. Dieser ist aber deutlich niedriger als die typischen FS Fernverkehrszuschläge.
 
 Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale - Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
@@ -80,6 +76,7 @@ Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abs
 Zwischen Mailand und Paris fahren grenzüberschreitende Frecciarossa-Züge. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
 Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, für diese müssen jedoch FIP Globalpreistickets erworben werden.
+
 <!--, siehe "Grenzüberschreitende TGV inOui / ICE Züge" auf SNCF Seite).-->
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.

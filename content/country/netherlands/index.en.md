@@ -56,6 +56,6 @@ On the `RE` routes Hamm - Venlo and Düsseldorf - Arnhem, the Deutschlandticket 
 
 ### Belgium
 
-From Belgium, cross-border regional trains (including the `IC` here) can be used, but an additional FIP ticket from SNCB is required. There are also long-distance trains (`ECD` and `EC`), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis.
+From Belgium, cross-border regional trains (including the `IC` here) can be used, but an additional FIP Ticket from SNCB is required. There are also long-distance trains (`ECD` and `EC`), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis.
 
-With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP Ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))

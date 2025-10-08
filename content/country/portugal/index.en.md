@@ -42,7 +42,7 @@ Particularly recommended stations to visit:
 
 ### Spain
 
-There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey.
+There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP Tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey.
 
 There is also the Celta service from Vigo to Porto. A special FIP Global fare applies on the entire route ([see CP – Celta]({{< ref "/operator/cp#train-categories-and-reservations" >}} "CP")).
 

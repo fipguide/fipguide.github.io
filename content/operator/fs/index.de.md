@@ -7,10 +7,6 @@ country:
 operator: "trenitalia"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergünstigungen gelten jedoch nur bei der Tochtergesellschaft Trenitalia.
 
 ## Zusammenfassung
@@ -63,7 +59,7 @@ Schnellzug abseits von Hochgeschwindigkeitsstrecken. \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
 
-{{% expander "FrecceLink (FL) ⛔" traincategory "le frecce" %}}
+{{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
 **Beschreibung:** \
 Anschlussbusse für Hochgeschwindigkeitszüge.
 
@@ -240,20 +236,10 @@ Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzüge
 
 Im italienischen Nahverkehr (`R`/`RV`) besteht teilweise eine Zugbindung. Dies betrifft auch FIP 50 Tickets, ist jedoch für Freifahrtscheine nicht relevant.
 
-Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_) unterschieden.
-
-Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
+Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_) unterschieden. Die zuggebundenen Züge dürfen nur mit Tickets die explizit für diesen Zug ausgestellt wurden genutzt werden.
 
 {{% expander "Erkennung von zuggebundenen Tickets" info %}}
-
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
-Der Bemerkung "non prenotabile" in den Zuginformationen:
-<br style="clear:both" />
-<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
-Der Ticketbezeichung "Ordinaria":
-<br style="clear:both" />
-
+**Zuggebunden:** \
 Tickets für zuggebundene Züge gelten ausschließlich für den auf dem Ticket angegebenen Zug. Die zuggebundenen Züge sind erkennbar an:
 
 <img src="/en/operator/fs/prenotabile_2.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
@@ -261,6 +247,17 @@ Der Bemerkung "prenotabile" in den Zuginformationen:
 <br style="clear:both" />
 <img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
 Der Ticketbezeichnung "Prenotazione - Ordinaria":
+<br style="clear:both" />
+
+**Nicht Zuggebunden:** \
+Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
+
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+Der Bemerkung "non prenotabile" in den Zuginformationen:
+<br style="clear:both" />
+<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+Der Ticketbezeichung "Ordinaria":
 <br style="clear:both" />
 
 {{% /expander %}}

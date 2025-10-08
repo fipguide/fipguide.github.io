@@ -124,7 +124,7 @@ Children travel free on regular journeys (not special trips) up to and including
 
 ### Buses and Rail Replacement Services
 
-FIP tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
+FIP Tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
 
 ### Mutual Recognition of SBB and BLS Coupons
 

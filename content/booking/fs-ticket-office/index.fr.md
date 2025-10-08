@@ -1,33 +1,46 @@
 ---
 draft: false
-title: "Guichet DB"
-description: "Informations de réservation pour les guichets de la Deutsche Bahn."
+title: "Guichet Trenitalia"
+description: "Informations de réservation pour les guichets Trenitalia."
 
 params:
-  classes:
-    first: "6,90€"
-    second: "5,50€"
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"
+  additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
   type: "onsite"
-
-aliases:
-  - db_ticket_office
 ---
 
 {{% booking-section "fip_50" %}}
 **Billets FIP 50**
 
-Aux guichets DB, il est possible d’acheter des billets FIP 50 pour des voyages en Allemagne et vers de nombreux pays européens.
+Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia.
 
-Il est également possible d’émettre des billets FIP 50 ne couvrant que la partie hors d’Allemagne du trajet, un billet supplémentaire étant alors requis pour la section allemande. Cela est particulièrement important pour les employés de la DB, car les billets FIP 50 ne sont pas valables dans leur propre pays.
+{{% highlight inofficial %}}
+Parfois, les guichets délivrent des billets à des tarifs différents, ce qui peut entraîner des variations de prix. Cependant, aucun problème de contrôle des billets à bord n’a été signalé jusqu’à présent.
+{{% /highlight %}}
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+**Réservations et suppléments :**
 
-Le tarif de réservation est calculé par trajet. Cela signifie que pour une correspondance impliquant plusieurs trains, une seule réservation suffit.
+<!-- TODO: Replace with markdown image and find ways to customize width -->
+<img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">
 
-Les réservations peuvent être effectuées non seulement pour des trajets en Allemagne, mais aussi pour un grand nombre de trains à travers l’Europe.
+Parfois, le tarif _DIRITTO AMMISSIONE_ est vendu. Bien qu’il ne concerne pas explicitement les Billets FIP, il est accepté. Pour l’utiliser, un Coupon FIP est également requis. L’accès aux classes Business et Executive n’est pas autorisé avec FIP. Le tarif correct serait _Biglietti Gratuiti FS 1/2 Classe_, qui correspond à la différence de prix entre les trains régionaux et longue distance. Ce tarif est généralement plus cher que le _DIRITTO AMMISSIONE_.
+
+**Tarifs pour _DIRITTO AMMISSIONE_ :**
+
+Le Frecce : 25€ (1ère/2ème classe) \
+InterCity : 3€ (1ère/2ème classe) \
+Tarifs différents pour les trains longue distance vers la Suisse/Autriche : par exemple 20€ Chiasso – Milan (`ECE`/`EC`)
+
+Aucun problème de contrôle des billets à bord n’a été signalé jusqu’à présent.
+
 {{% /booking-section %}}
+
+{{% highlight tip %}}
+Pour les trajets courts en Le Frecce et autres trains longue distance, le tarif normal est parfois moins cher que les Billets FIP à tarif réduit.
+
+De plus, les suppléments pour Le Frecce et autres trains longue distance peuvent parfois être plus chers qu’un Billet FIP 50.
+{{% /highlight %}}
