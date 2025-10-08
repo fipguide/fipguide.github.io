@@ -15,7 +15,7 @@ Renfe Operadora is a Spanish state-owned railroad company. It operates comfortab
 - FIP free tickets are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
 - For trains requiring reservations, tickets can be purchased at the FIP Global Fare (regardless of distance), including the reservation; FIP Coupons are not needed.
 - FIP is not accepted on Avlo trains.
-- For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP global prices apply as for domestic AVEs.
+- For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP Global Fares apply as for domestic AVEs.
 
 ## Validity of FIP Tickets
 
@@ -185,7 +185,7 @@ With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted alon
 ## Recommendations
 
 {{% highlight tip %}}
-Renfe can often be compared more to an airline than to other railway companies. Luggage checks are common on long-distance routes, and there are few trains that allow spontaneous boarding. Therefore, an FIP Coupon is only marginally worthwhile, as it can be used in only a few cases. Due to ticket barriers at many stations, staff must be contacted each time in order to open them with the free travel pass. Personal experience shows that especially in the greater Madrid area, the free travel option is sometimes not recognized, and access is consequently denied.
+Renfe can often be compared more to an airline than to other railway companies. Luggage checks are common on long-distance routes, and there are few trains that allow spontaneous boarding. Therefore, an FIP Coupon is only marginally worthwhile, as it can be used in only a few cases. Due to ticket barriers at many stations, staff must be contacted each time in order to open them with the FIP Coupon. Personal experience shows that especially in the greater Madrid area, the free travel option is sometimes not recognized, and access is consequently denied.
 {{% /highlight %}}
 
 ## Sources

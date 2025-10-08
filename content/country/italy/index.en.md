@@ -74,6 +74,6 @@ On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian 
 
 Between Milan and Paris, cross-border Frecciarossa trains operate. FIP Tickets or FIP Coupons do not apply in France for these trains.
 
-Additionally, competing `TGV` trains of SNCF run between Turin and Paris. These can be used in France with FIP discounts, but FIP global price tickets must be purchased.
+Additionally, competing `TGV` trains of SNCF run between Turin and Paris. These can be used in France with FIP discounts, but FIP Global Fare tickets must be purchased.
 
 Cross-border regional trains of SNCF can be used from Grasse/Cannes/Nice via Monaco to Ventimiglia. FIP Tickets and FIP Coupons of SNCF are valid to Ventimiglia.

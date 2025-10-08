@@ -18,9 +18,9 @@ The Belgian national railway company SNCB / NMBS now offers tickets with FIP dis
 The offer includes the following options:
 
 - Cross-border tickets with free travel in Belgium \
-  If you have a free travel pass for SNCB / NMBS and want to travel cross-border, e.g., from Belgium to France, you can now select the discount "Free travel pass Belgium (SNCB)" via the timetable information on https://www.b-europe.com/EN. Thus, only the price for the remaining section in the neighboring country is calculated. For example, the connection Gent - Lille is currently available for only 2 Euros.
+  If you have a FIP Coupon for SNCB / NMBS and want to travel cross-border, e.g., from Belgium to France, you can now select the discount "FIP Coupon Belgium (SNCB)" via the timetable information on https://www.b-europe.com/EN. Thus, only the price for the remaining section in the neighboring country is calculated. For example, the connection Gent - Lille is currently available for only 2 Euros.
 - Cross-border tickets with FIP 50 in Belgium \
-  Without a free travel pass, but with FIP 50, cross-border tickets from or to Belgium can also be booked cheaply. Simply select "50% discount Belgium (SNCB)" as the discount. This is certainly worthwhile for short international routes, but for longer ones, it may still be advisable to book at the counter, as no discount is calculated for the section not in Belgium with this option.
-  In addition, "100% discount Netherlands" and "Free travel pass Luxembourg (CFL)" can also be selected, and multiple discounts can be combined, for example, with a BahnCard. This allows for many combined discounted FIP journeys to be booked here.
+  Without a FIP Coupon, but with FIP 50, cross-border tickets from or to Belgium can also be booked cheaply. Simply select "50% discount Belgium (SNCB)" as the discount. This is certainly worthwhile for short international routes, but for longer ones, it may still be advisable to book at the counter, as no discount is calculated for the section not in Belgium with this option.
+  In addition, "100% discount Netherlands" and "FIP Coupon Luxembourg (CFL)" can also be selected, and multiple discounts can be combined, for example, with a BahnCard. This allows for many combined discounted FIP journeys to be booked here.
 
 Feel free to write to us via our contact form if you have any experiences with the discounts on the website.

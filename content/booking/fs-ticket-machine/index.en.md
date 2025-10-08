@@ -15,7 +15,7 @@ params:
 {{% booking-section "reservations" %}}
 **Reservations and Surcharges:**
 
-At Trenitalia ticket machines, you can purchase reservations including surcharges for free travel passes for Le Frecce and other long-distance trains.
+At Trenitalia ticket machines, you can purchase reservations including surcharges for FIP Coupons for Le Frecce and other long-distance trains.
 
 The _DIRITTO AMMISSIONE_ fare can be used for this. Although it does not explicitly refer to FIP, it is accepted. You will also need a FIP Coupon to use it. Business and Executive classes are not permitted with FIP. The correct fare would be _Biglietti Gratuiti FS 1/2 Classe_, which covers the price difference between regional and long-distance travel. This fare is usually more expensive than _DIRITTO AMMISSIONE_, but cannot be purchased at the ticket machine.
 
