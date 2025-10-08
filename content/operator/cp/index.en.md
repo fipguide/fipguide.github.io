@@ -17,7 +17,7 @@ CP (Comboios de Portugal) is the Portuguese state railway and the main railway c
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon relatives: ✅ \
+FIP Coupon for relatives: ✅ \
 FIP 50 Tickets: ✅ \
 FIP Global Fare: ✅ (Celta train only)
 
