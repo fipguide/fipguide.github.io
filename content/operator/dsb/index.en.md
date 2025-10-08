@@ -57,7 +57,7 @@ Regional trains provide local connections between various locations. Outside the
 
 {{% expander "S-tog (S)" traincategory category %}}
 **Description:** \
-The Copenhagen S-train is also operated by DSB and can therefore be used with FIP tickets. It operates at frequent intervals, stopping at all stations, and is comparable to S-train systems in other countries. \
+The Copenhagen S-train is also operated by DSB and can therefore be used with FIP Tickets. It operates at frequent intervals, stopping at all stations, and is comparable to S-train systems in other countries. \
 **Reservation possible:** no \
 **Reservation mandatory:** no
 {{% /expander %}}

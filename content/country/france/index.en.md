@@ -16,9 +16,9 @@ params:
 
 <!--
     A short summary text that should answer the following questions in this order:
-    - Which FIP tickets (FIP 50/FIP Coupon tickets) are recognized in the country and by which railway operator?
+    - Which FIP Tickets (FIP 50/FIP Coupon tickets) are recognized in the country and by which railway operator?
     - What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
-    - Which railway operators do not recognize FIP tickets and how can you identify these operators in the connection information?
+    - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
 -->
 
 ## Interesting

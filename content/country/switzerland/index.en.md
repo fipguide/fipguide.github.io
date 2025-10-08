@@ -50,7 +50,7 @@ There are several cross-border connections from Germany to Switzerland:
 - There are also occasional `EC` and `ECE` trains on the route, also from Mannheim.
 - Regional trains run from Germany to Basel as well.
 
-Note that DB FIP free travel passes are valid up to Basel Bad Bf (Badischer Bahnhof), as this is an official border station (border point) for DB and SBB.
+Note that DB FIP Coupones are valid up to Basel Bad Bf (Badischer Bahnhof), as this is an official border station (border point) for DB and SBB.
 
 {{% highlight tip %}}
 To enter Switzerland without using an SBB ticket (e.g. FIP Coupon or FIP 50), you can use S-Bahn line 6 from Basel Badischer Bahnhof to Basel SBB with the Deutschland-Ticket. [^1]
@@ -71,7 +71,7 @@ From France the are different connections:
 - Direct `TGV` trains from Paris to Basel or Geneva.
 - Regional trains via Pontarlier, Vallorbe, etc.
 
-On `TGV` trains, standard FIP tickets are not valid. A FIP Global Fare ticket is required. For regional trains, a FIP 50 Ticket or coupons from both operators are sufficient.
+On `TGV` trains, standard FIP Tickets are not valid. A FIP Global Fare ticket is required. For regional trains, a FIP 50 Ticket or coupons from both operators are sufficient.
 
 ### Italy
 
@@ -93,7 +93,7 @@ Otherwise, cross-border traffic is mainly handled by buses, where FIP Tickets ar
 
 Austria and Switzerland have only one main border crossing, at St. Margrethen. Mostly regional trains operate here, but there are also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich).
 
-Entry from Austria is also possible via the border crossing Buchs SG through Liechtenstein. In Liechtenstein, [ÖBB FIP tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid. This makes it possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main route between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna / Graz and Zurich, as well as regional trains.
+Entry from Austria is also possible via the border crossing Buchs SG through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid. This makes it possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main route between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna / Graz and Zurich, as well as regional trains.
 
 ## Sources
 
