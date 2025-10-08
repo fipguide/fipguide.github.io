@@ -1,12 +1,12 @@
-<aside id="aside" class="o-aside o-aside__bottom-sheet">
+<aside id="aside" class="o-aside">
   <button
-    class="o-aside__bottom-sheet-header"
+    class="o-aside__header"
     aria-label="{{ T "contentNavigation.button" }}"
-    aria-controls="bottomSheet-content"
+    aria-controls="o-aside__content"
     aria-expanded="false"
   >
-    <span class="o-aside__bottom-sheet-drag"></span>
-    <span class="o-aside__bottom-sheet-logo">
+    <span class="o-aside__drag"></span>
+    <span class="o-aside__logo">
       {{ if eq .Page.Type "country" }}
         {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
       {{ else if eq .Page.Type "operator" }}
@@ -16,8 +16,8 @@
     </span>
   </button>
   <div
-    class="o-aside__bottom-sheet-content"
-    id="bottom-sheet-content"
+    class="o-aside__content"
+    id="o-aside__content"
     aria-label="{{ T "contentNavigation.title" }}"
   >
     <div class="o-single__container">

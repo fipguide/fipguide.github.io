@@ -5,33 +5,33 @@ function isMobile() {
 }
 
 function setA11YProperties(currentState) {
-  const bottomSheetContent = document.querySelector(
-    ".o-aside__bottom-sheet-content",
+  const asideContent = document.querySelector(
+    ".o-aside__content",
   );
-  const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
+  const handleBtn = document.querySelector(".o-aside__header");
 
   if (isMobile()) {
     switch (currentState) {
       case "closed":
-        bottomSheetContent.setAttribute("role", "dialog");
-        bottomSheetContent.setAttribute("aria-hidden", "true");
+        asideContent.setAttribute("role", "dialog");
+        asideContent.setAttribute("aria-hidden", "true");
         handleBtn.setAttribute("aria-expanded", "false");
         break;
       case "open":
-        bottomSheetContent.setAttribute("aria-hidden", "false");
+        asideContent.setAttribute("aria-hidden", "false");
         handleBtn.setAttribute("aria-expanded", "true");
         break;
     }
   } else {
-    bottomSheetContent.setAttribute("aria-hidden", "false");
-    bottomSheetContent.removeAttribute("role", "dialog");
+    asideContent.setAttribute("aria-hidden", "false");
+    asideContent.removeAttribute("role", "dialog");
     handleBtn.setAttribute("aria-expanded", "false");
   }
 }
 
 function initAside() {
-  const bottomSheet = document.querySelector(".o-aside__bottom-sheet");
-  const handleBtn = document.querySelector(".o-aside__bottom-sheet-header");
+  const aside = document.querySelector(".o-aside");
+  const handleBtn = document.querySelector(".o-aside__header");
   const overlay = document.getElementById("overlay");
 
   let currentState = "closed";
@@ -44,11 +44,11 @@ function initAside() {
 
   function toggleSheet() {
     if (currentState === "closed") {
-      bottomSheet.classList.add("o-aside__bottom-sheet--open");
+      aside.classList.add("o-aside--open");
       currentState = "open";
       setA11YProperties(currentState);
     } else {
-      bottomSheet.classList.remove("o-aside__bottom-sheet--open");
+      aside.classList.remove("o-aside--open");
       currentState = "closed";
       overlay.classList.remove("overlay--show");
       lockScroll(false);
@@ -75,7 +75,7 @@ function initAside() {
     const deltaY = startY - currentY;
 
     if (currentState === "closed" && deltaY > 50) {
-      bottomSheet.classList.add("o-aside__bottom-sheet--open");
+      aside.classList.add("o-aside--open");
       currentState = "open";
       overlay.classList.add("overlay--show");
       lockScroll(true);
@@ -83,7 +83,7 @@ function initAside() {
     }
 
     if (currentState === "open" && deltaY < -50) {
-      bottomSheet.classList.remove("o-aside__bottom-sheet--open");
+      aside.classList.remove("o-aside--open");
       currentState = "closed";
       lockScroll(false);
       overlay.classList.remove("overlay--show");
@@ -108,7 +108,7 @@ function initAside() {
   window.onclick = (e) => {
     if (isMobile()) {
       if (e.target.classList.contains("o-aside__toc-link")) {
-        bottomSheet.classList.remove("o-aside__bottom-sheet--open");
+        aside.classList.remove("o-aside--open");
         currentState = "closed";
         overlay.classList.remove("overlay--show");
         lockScroll(false);
@@ -124,7 +124,7 @@ function initAside() {
   // set maxOpenHeight in order to window height
   function limitAsideHeight() {
     const maxOpenHeight = getMaxOpenHeight();
-    bottomSheet.style.maxHeight = `${maxOpenHeight}px`;
+    aside.style.maxHeight = `${maxOpenHeight}px`;
   }
 
   // set maxOpenHeight on load and resize
