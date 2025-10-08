@@ -73,6 +73,10 @@ td {
     text-align: left;
   }
 
+  li:last-of-type p {
+    margin-bottom: 0;
+  }
+
   hr {
     display: none;
   }
@@ -80,6 +84,7 @@ td {
   ol {
     padding-left: 2rem;
     list-style-position: outside;
+    margin-bottom: 0;
   }
 }
 
@@ -87,6 +92,7 @@ p:has(+ span) {
   margin-bottom: 0;
 }
 
-.o-single__content > *:last-child {
+.o-single__content > *:last-child,
+.o-single__container > *:last-child {
   margin-bottom: 0;
 }
