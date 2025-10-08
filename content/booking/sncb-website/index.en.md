@@ -20,5 +20,5 @@ When using a SNCB FIP Coupon, a cross-border ticket can be booked via the websit
 
 The SNCB sells tickets online with a FIP 50 discount for cross-border connections to Belgium's neighbouring countries. Simply select the discount "50% Discount Belgium (SNCB)" for the travelers. Multiple discounts can also be specified here, e.g., a simultaneously valid FIP Coupons for CFL (Luxembourg) or NS (Netherlands).
 
-![Book an SNCB FIP ticket](fip_sncb_website.webp)
+![Book an SNCB FIP Ticket](fip_sncb_website.webp)
 {{% /booking-section %}}

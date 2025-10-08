@@ -17,7 +17,7 @@ Renfe Operadora is a Spanish state-owned railroad company. It operates comfortab
 - FIP is not accepted on Avlo trains.
 - For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP global prices apply as for domestic AVEs.
 
-## Validity of FIP tickets
+## Validity of FIP Tickets
 
 FIP free ticket: ✅ (exceptions: trains requiring reservations) \
 FIP Coupons for relatives: ⛔ \

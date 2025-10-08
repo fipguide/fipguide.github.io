@@ -78,7 +78,7 @@ There is a uniform class that can be used with both 1st and 2nd class FIP cards.
 
 ### Buses
 
-FIP tickets are not valid on Euskotren's regional bus lines.
+FIP Tickets are not valid on Euskotren's regional bus lines.
 
 ## Recommendations
 
