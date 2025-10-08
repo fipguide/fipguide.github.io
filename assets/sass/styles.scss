@@ -9,12 +9,18 @@ body {
   background-color: var(--bg-neutral);
   font-size: 1.8rem;
   overflow-x: hidden;
-  margin: 0 0 7rem 0;
+  margin: 0;
   line-height: 1.5;
 
   @media print {
     print-color-adjust: exact;
     font-size: 1.4em;
+  }
+}
+@media (max-width: #{$breakpoint-lg}) {
+  body:has(article.o-single--with-sidemenu:not(:has(.o-aside__newspage))) {
+    margin: 0 0 7rem 0;
+    background-color: lightyellow;
   }
 }
 
