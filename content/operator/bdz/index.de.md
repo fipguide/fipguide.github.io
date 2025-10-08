@@ -74,11 +74,6 @@ Züge die über Nacht verkehren und reservierungspflichtig sind. Der Preis für 
 
 ## Ticket- und Reservierungskauf
 
-### Online
-
-{{% booking id="bdz-website"
-subtitle="Für nationale Verbindungen innerhalb Bulgariens" /%}}
-
 ### Vor Ort
 
 {{% booking id="bdz-ticket-office" /%}}
