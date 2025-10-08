@@ -10,21 +10,21 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 
 ## Résumé
 
-- Les coupons FIP et billets FIP 50 sont acceptés sans exception en Hongrie
-- Les coupons FIP et billets FIP 50 ne sont valables qu'avec restrictions en Autriche
+- Les Coupons FIP et Billets FIP 50 sont acceptés sans exception en Hongrie
+- Les Coupons FIP et Billets FIP 50 ne sont valables qu'avec restrictions en Autriche
 - Aucune obligation de réservation
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
 Billets FIP 50 : ✅
 
 {{% highlight important %}}
-La FIP est valable sur toutes les lignes GySEV en Hongrie. Cependant, le coupon FIP GySEV est principalement destiné à la Hongrie et n'est valable sur les lignes GySEV en Autriche qu'avec des restrictions.
+La FIP est valable sur toutes les lignes GySEV en Hongrie. Cependant, le Coupon FIP GySEV est principalement destiné à la Hongrie et n'est valable sur les lignes GySEV en Autriche qu'avec des restrictions.
 {{% /highlight %}}
 
-Les lignes suivantes peuvent être utilisées avec le coupon FIP GySEV en Autriche dans les sections mentionnées :
+Les lignes suivantes peuvent être utilisées avec le Coupon FIP GySEV en Autriche dans les sections mentionnées :
 
 - REX 63 : Neusiedl am See - Fertőszentmiklós [^2]
 - REX 6 : Wien Hbf - Deutschkreuz - Sopron
@@ -38,7 +38,7 @@ Les lignes suivantes peuvent être utilisées avec le coupon FIP GySEV en Autric
 **Description :** \
 Train régional rapide avec moins d'arrêts et matériel roulant moderne.
 
-ℹ️ Certains trains Regionalexpress sont également exploités par les ÖBB où les billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l'opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
+ℹ️ Certains trains Regionalexpress sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l'opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
 **Réservation possible :** non
 {{% /expander %}}
 
@@ -46,7 +46,7 @@ Train régional rapide avec moins d'arrêts et matériel roulant moderne.
 **Description :** \
 Train régional avec arrêts dans la plupart des gares.
 
-ℹ️ Certains trains régionaux sont également exploités par les ÖBB où les billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l'opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
+ℹ️ Certains trains régionaux sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l'opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
 **Réservation possible :** non
 {{% /expander %}}
 
@@ -54,7 +54,7 @@ Train régional avec arrêts dans la plupart des gares.
 **Description :** \
 Train régional avec arrêts dans la plupart des gares.
 
-ℹ️ Certains trains Személyvonat sont également exploités par MÁV où les billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l'opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
+ℹ️ Certains trains Személyvonat sont également exploités par MÁV où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l'opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
 **Réservation possible :** non
 {{% /expander %}}
 

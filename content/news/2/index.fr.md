@@ -3,7 +3,7 @@ date: "2025-02-16"
 draft: false
 author: "Willy"
 title: "Billets FIP transfrontaliers de la SNCB"
-description: "La SNCB propose désormais des billets FIP transfrontaliers en ligne, facilitant la réservation de voyages internationaux à tarif réduit depuis la Belgique."
+description: "La SNCB propose désormais des Billets FIP transfrontaliers en ligne, facilitant la réservation de voyages internationaux à tarif réduit depuis la Belgique."
 country:
   - belgique
   - pays-bas

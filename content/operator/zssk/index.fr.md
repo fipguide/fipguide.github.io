@@ -14,18 +14,18 @@ La ZSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Že
 
 ## Résumé
 
-- La ZSSK accepte les coupons FIP et les billets FIP 50
+- La ZSSK accepte les Coupons FIP et les Billets FIP 50
 - Réservation obligatoire dans les trains `IC` et `SC`
 - Réservation obligatoire en 1ʳᵉ classe dans tous les trains
 - Voyages gratuits possibles pour certains groupes (enfants de 6 à 16 ans, étudiants jusqu’à 26 ans, retraités dès 62 ans), indépendamment du FIP
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
 Billet FIP 50 : ✅
 
-Les coupons FIP et billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s'appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un billet FIP 50 continu ou les coupons FIP des deux pays sont requis.
+Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s'appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.
 
 ## Catégories de trains et réservations
 
@@ -55,7 +55,7 @@ Selon le trajet et l’occupation (incluant un supplément pour la catégorie de
 {{% expander "Eurocity (EC) / Railjet (RJ) ⚠️1️⃣ ℹ️" traincategory category %}}
 **Description :** \
 Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autriche ou la Hongrie. Ils circulent souvent avec peu d’arrêts et une vitesse moyenne relativement élevée. Les trains `RJ` sont des Railjet des chemins de fer autrichiens, utilisables avec les coupons ZSSK sur la section slovaque. \
-ℹ️ `RJ` est aussi l’abréviation de RegioJet, où les billets FIP ne sont pas valables. \
+ℹ️ `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️1️⃣ uniquement en 1ʳᵉ classe
 {{% /expander %}}
@@ -134,7 +134,7 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 
 ### Trains D vers Vienne
 
-Les trains `D` entre Bratislava et Vienne sont utilisables avec un coupon FIP ZSSK pour l’ensemble du trajet, y compris en Autriche. Les coupons FIP ÖBB sont également valables sur la section autrichienne.
+Les trains `D` entre Bratislava et Vienne sont utilisables avec un Coupon FIP ZSSK pour l’ensemble du trajet, y compris en Autriche. Les Coupons FIP ÖBB sont également valables sur la section autrichienne.
 
 ### Interruption de trajet
 

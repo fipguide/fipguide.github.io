@@ -21,7 +21,7 @@ Coupon FIP : ✅ \
 Coupon FIP accompagnant : ✅ \
 Billet FIP 50 : ✅
 
-Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
 ## Catégories de trains et réservations
 

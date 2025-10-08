@@ -10,7 +10,7 @@ params:
 
 ## Informations FIP
 
-Au Portugal, les billets FIP 50 et les coupons FIP peuvent être utilisés sur la majeure partie du réseau ferroviaire. La [société publique CP]({{< ref "/operator/cp" >}} "CP") exploite la plupart des lignes — le FIP y est généralement bien utilisable, avec quelques particularités. Sur les services à grande vitesse, la réservation est nécessaire et dans l'agglomération de Lisbonne, certaines gares sont équipées de portiques d'accès.
+Au Portugal, les Billets FIP 50 et les Coupons FIP peuvent être utilisés sur la majeure partie du réseau ferroviaire. La [société publique CP]({{< ref "/operator/cp" >}} "CP") exploite la plupart des lignes — le FIP y est généralement bien utilisable, avec quelques particularités. Sur les services à grande vitesse, la réservation est nécessaire et dans l'agglomération de Lisbonne, certaines gares sont équipées de portiques d'accès.
 
 L'opérateur privé Fertagus exploite la ligne `R` entre Lisbonne Roma-Areeiro et Setúbal. Cette ligne n'est malheureusement pas couverte par le FIP. Dans le [planificateur de trajets de la CP](https://www.cp.pt/en) les trains Fertagus n'apparaissent pas ; sur Google Maps ils sont visibles sous le nom de ligne `Setúbal`.
 
@@ -42,7 +42,7 @@ Gares particulièrement recommandées :
 
 ### Espagne
 
-Les liaisons transfrontalières entre l'Espagne et le Portugal sont actuellement peu nombreuses. Par exemple, pour aller de Madrid à Lisbonne, plusieurs correspondances sont nécessaires, notamment à la frontière espagnole à Badajoz, et il faut accepter de longs temps de trajet sur des trains régionaux. Pour ces trajets, des billets FIP / coupons FIP valables pour la portion CP et un billet Renfe pour la section espagnole seront nécessaires.
+Les liaisons transfrontalières entre l'Espagne et le Portugal sont actuellement peu nombreuses. Par exemple, pour aller de Madrid à Lisbonne, plusieurs correspondances sont nécessaires, notamment à la frontière espagnole à Badajoz, et il faut accepter de longs temps de trajet sur des trains régionaux. Pour ces trajets, des Billets FIP / Coupons FIP valables pour la portion CP et un billet Renfe pour la section espagnole seront nécessaires.
 
 Il existe également la relation Celta entre Vigo et Porto. Un tarif spécial global FIP s'applique sur l'ensemble de la relation ([voir CP – Celta]({{< ref "/operator/cp#catégories-de-trains-et-réservations" >}} "CP")).
 
