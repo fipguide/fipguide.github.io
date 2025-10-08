@@ -128,7 +128,7 @@ On `IC` trains: surcharge with mandatory reservation
 
 ### Free travel for students and seniors (without FIP)
 
-Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
+Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. For students, registration at a ZSSK counter is required at least 3 days before the first trip. A registration form must be completed and signed by the school/university. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
 
 ## Special Tariff Conditions
 
