@@ -4,6 +4,7 @@ title: "SNCF"
 description: "Informationen über die FIP-Bedingungen bei der SNCF."
 country:
   - "france"
+  - "monaco"
 operator: "sncf"
 ---
 

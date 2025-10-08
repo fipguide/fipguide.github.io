@@ -11,7 +11,7 @@ Die Eisenbahn in Monaco wird von den [französischen Staatsbahn SNCF]({{% ref "/
 
 ## Wissenswertes
 
-Die einzige Eisenbahnstrecke durch Monaco ist Teil der internationalen Verbindung Marseille - Nizza - Monaco - Ventimiglia (Italien) und wird von der französischen Staatsbahn SNCF betrieben. Der einzige Bahnhof des Landes Monaco-Monte-Carlo liegt zentral in der Stadt und wird von zahlreichen Regionalzügen bedient.
+Die einzige Eisenbahnstrecke durch Monaco ist Teil der internationalen Verbindung Marseille – Nizza – Monaco – Ventimiglia (Italien) und wird von der französischen Staatsbahn SNCF betrieben. Der einzige Bahnhof des Landes Monaco-Monte-Carlo liegt zentral in der Stadt und wird von zahlreichen Regionalzügen bedient.
 
 ## Anreise und Grenzpunkte
 

@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Liechtenstein"
-description: "Information about FIP conditions for Liechtenstein and which operators offer discounts."
-country: "liechtenstein"
+title: "Monaco"
+description: "Information about FIP conditions for Monaco and which operators offer discounts."
+country: "monaco"
 ---
 
 ## FIP Information
