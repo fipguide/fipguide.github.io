@@ -8,8 +8,8 @@ params:
     # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
     first: "X,XX€"
     second: "X,XX€"
-  fip_50: true # Indique si les billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: true # Indique si les billets FIP Global Fare peuvent être réservés via cette plateforme
+  fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
+  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
   reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
   booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
   additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
@@ -21,7 +21,7 @@ params:
 ## Billets FIP 50
 
 <!--
-    Expliquez les étapes pour réserver des billets FIP 50 via cette plateforme de réservation.
+    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
 -->
 
 {{% /booking-section %}}

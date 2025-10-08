@@ -10,4 +10,4 @@ params:
   type: "website"
 ---
 
-Actuellement, il n'est pas possible d'acheter des billets FIP 50 ou des réservations via le site web de la BDŽ. Seuls des billets ordinaires pour des trajets intérieurs en Bulgarie peuvent être achetés ici, et pour les trains à réservation obligatoire, la réservation est automatiquement incluse. Si vous disposez d'une carte de réduction comme une "Railway discount card" ou une carte ISIC, vous pouvez l'indiquer lors de la réservation.
+Actuellement, il n'est pas possible d'acheter des Billets FIP 50 ou des réservations via le site web de la BDŽ. Seuls des billets ordinaires pour des trajets intérieurs en Bulgarie peuvent être achetés ici, et pour les trains à réservation obligatoire, la réservation est automatiquement incluse. Si vous disposez d'une carte de réduction comme une "Railway discount card" ou une carte ISIC, vous pouvez l'indiquer lors de la réservation.

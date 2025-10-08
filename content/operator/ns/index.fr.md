@@ -11,18 +11,18 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des Pays
 
 ## Résumé
 
-- NS accepte les coupons FIP et les billets FIP 50.
+- NS accepte les Coupons FIP et les Billets FIP 50.
 - Les réservations ne sont généralement pas nécessaires.
 - Un supplément est requis pour l’Eurocity Direct (`ECD`) et partiellement pour l’Intercity Direct (`ICD`).
-- Avec un coupon FIP, un coupon d’accès aux portiques est requis pour entrer dans les gares.
+- Avec un Coupon FIP, un coupon d’accès aux portiques est requis pour entrer dans les gares.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ✅ \
 Billets FIP 50 : ✅
 
-Les coupons FIP et billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un billet FIP 50 continu ou des coupons FIP valables dans les deux pays.
+Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un Billet FIP 50 continu ou des Coupons FIP valables dans les deux pays.
 
 ## Catégories de trains et réservations
 
@@ -32,11 +32,11 @@ Un supplément est nécessaire pour les trains Eurocity Direct et, partiellement
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category %}}
 **Description :** \
-Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés à l’intérieur des Pays-Bas (Amsterdam, Utrecht, Arnhem) avec un coupon FIP sans supplément. Un billet FIP 50 nécessite cependant un supplément. \
+Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés à l’intérieur des Pays-Bas (Amsterdam, Utrecht, Arnhem) avec un Coupon FIP sans supplément. Un Billet FIP 50 nécessite cependant un supplément. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ non (sauf pour les trajets transfrontaliers en haute saison) \
 **Supplément :** ⚠️ \
-Avec un billet FIP 50, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet est requis. Avec un coupon FIP, le supplément n’est pas nécessaire. \
+Avec un Billet FIP 50, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet est requis. Avec un Coupon FIP, le supplément n’est pas nécessaire. \
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
 {{% /expander %}}
 
@@ -47,10 +47,10 @@ Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, ave
 **Réservation possible :** non \
 **Réservation obligatoire :** non \
 **Supplément :** ⚠️ \
-Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les billets FIP 50 et les coupons FIP. \
+Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP. \
 Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
 Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
-Pour les billets FIP 50, les prix peuvent varier selon la catégorie de train.
+Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
 {{% /expander %}}
 
 {{% expander "Eurocity (EC)" traincategory category %}}
@@ -68,10 +68,10 @@ Train rapide, partiellement avec supplément, entre Lelystad ou Amersfoort, Amst
 **Réservation possible :** non \
 **Réservation obligatoire :** non \
 **Supplément :** ⚠️ \
-Avec un billet FIP 50 entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis. Avec un coupon FIP, le supplément n’est pas nécessaire. \
+Avec un Billet FIP 50 entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis. Avec un Coupon FIP, le supplément n’est pas nécessaire. \
 Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique. \
 Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
-Pour les billets FIP 50, les prix peuvent varier selon la catégorie de train.
+Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
 {{% /expander %}}
 
 {{% expander "Intercity (IC)" traincategory category %}}
@@ -124,7 +124,7 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
 
 ### À bord du train
 
-Les billets FIP 50 ne peuvent pas être achetés à bord. [^1]
+Les Billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 
 ## Réductions
 
@@ -134,7 +134,7 @@ Aucune réduction particulière connue.
 
 ### Portiques d’accès dans les gares
 
-Avec un coupon FIP, un coupon d’accès NS avec code-barres vous est fourni pour ouvrir les portiques. \
+Avec un Coupon FIP, un coupon d’accès NS avec code-barres vous est fourni pour ouvrir les portiques. \
 Ce n’est pas un billet, mais un badge d’accès, valable :
 
 - Pendant 8 jours distincts, sur une période de 3 mois.

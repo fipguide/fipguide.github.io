@@ -17,7 +17,7 @@ aliases:
 
 ## Billets FIP 50
 
-Les billets FIP 50 pour les trajets intérieurs et transfrontaliers peuvent être achetés au guichet de la SNCB.
+Les Billets FIP 50 pour les trajets intérieurs et transfrontaliers peuvent être achetés au guichet de la SNCB.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

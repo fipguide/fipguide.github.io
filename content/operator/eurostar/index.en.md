@@ -18,7 +18,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 ## Validity of FIP Tickets
 
 FIP Coupon: ⛔ \
-FIP Coupon relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ⛔ \
 FIP Global Fare: ✅
 
