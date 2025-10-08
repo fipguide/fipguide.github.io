@@ -34,8 +34,7 @@ Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft
 Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
-**Preis für Reservierung:** 1 Lew (0,51 €)
+**Reservierungspflicht:** ⚠️ Ja
 {{% /expander %}}
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}

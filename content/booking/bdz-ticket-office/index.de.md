@@ -21,5 +21,5 @@ Am BDŽ Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Bulgarien
 {{% booking-section "reservations" %}}
 **Reservierungen**
 
-Reservierungen für Züge können vor Ort zu einem Preis von 1 Lew (0,50 €) erworben werden. Bei Nutzung eines FIP Freifahrtscheins muss dieser dafür vorgelegt werden. Die Nummer des Freifahrtscheins wird dann mit auf das Ticket gedruckt.
+Reservierungen für Züge können vor Ort zu einem Preis von 1 Lew (0,51 €) erworben werden. Bei Nutzung eines FIP Freifahrtscheins muss dieser dafür vorgelegt werden. Die Nummer des Freifahrtscheins wird dann mit auf das Ticket gedruckt.
 {{% /booking-section %}}
