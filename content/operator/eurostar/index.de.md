@@ -111,7 +111,7 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
     reservations=nil
 %}}
 
-## FIP Globalpreis
+#### FIP Globalpreis
 
 Bei der Buchung muss der FIP Ausweis aller Reisenden vorgezeigt werden.
 {{% /booking %}}

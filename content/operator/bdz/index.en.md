@@ -74,11 +74,6 @@ Trains running overnight that require reservations. Reservation prices for couch
 
 ## Ticket and Reservation Purchase
 
-### Online
-
-{{% booking id="bdz-website"
-subtitle="For domestic journeys within Bulgaria" /%}}
-
 ### On Site
 
 {{% booking id="bdz-ticket-office" /%}}
