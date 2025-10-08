@@ -21,7 +21,7 @@ Coupon FIP : ✅ \
 Coupon FIP accompagnant : ✅ \
 Billet FIP 50 : ✅
 
-Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
 ## Catégories de trains et réservations
 
@@ -99,7 +99,7 @@ L'interruption de voyage n'est pas autorisée avec un billet continu.
 ## Recommandations
 
 {{% highlight tip %}}
-La BDŽ propose encore une offre relativement large sur un réseau vieillissant. Il est conseillé de planifier ses trajets à l'avance, car de nombreuses lignes ne voient que quelques trains par jour. Les voitures les plus modernes sont d'anciennes voitures IC de la DB, utilisées sur certaines liaisons longue distance entre Sofia et Varna ou Burgas. Un point fort est la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichté, également exploitée par la BDŽ.
+La BDŽ propose encore une offre relativement large sur un réseau vieillissant. Il est conseillé de planifier ses trajets à l'avance, car de nombreuses lignes ne voient que quelques trains par jour. Les voitures les plus modernes sont d'anciennes voitures IC de la DB, utilisées sur certaines liaisons longue distance entre Sofia et Varna ou Burgas. Un point fort est la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichte, également exploitée par la BDŽ.
 {{% /highlight %}}
 
 ## Sources

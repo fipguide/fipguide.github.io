@@ -17,7 +17,7 @@ aliases:
 
 ## Billets FIP 50
 
-Les billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »). En date de décembre 2023, ces gares sont :
+Les Billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »). En date de décembre 2023, ces gares sont :
 
 <!-- prettier-ignore -->
 - Amsterdam Centraal

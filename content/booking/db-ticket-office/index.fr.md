@@ -20,9 +20,9 @@ aliases:
 
 ## Billets FIP 50
 
-Aux guichets DB, il est possible d’acheter des billets FIP 50 pour des voyages en Allemagne et vers de nombreux pays européens.
+Aux guichets DB, il est possible d’acheter des Billets FIP 50 pour des voyages en Allemagne et vers de nombreux pays européens.
 
-Il est également possible d’émettre des billets FIP 50 ne couvrant que la partie hors d’Allemagne du trajet, un billet supplémentaire étant alors requis pour la section allemande. Cela est particulièrement important pour les employés de la DB, car les billets FIP 50 ne sont pas valables dans leur propre pays.
+Il est également possible d’émettre des Billets FIP 50 ne couvrant que la partie hors d’Allemagne du trajet, un billet supplémentaire étant alors requis pour la section allemande. Cela est particulièrement important pour les employés de la DB, car les Billets FIP 50 ne sont pas valables dans leur propre pays.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

@@ -31,7 +31,7 @@ operator: "{{ .File.ContentBaseName }}"
 ## Validity of FIP Tickets
 
 FIP Coupon: <✅/⛔> \
-FIP Coupon relatives: <✅/⛔> \
+FIP Coupon for relatives: <✅/⛔> \
 FIP 50 Tickets: <✅/⛔> \
 FIP Global Fare: <✅/⛔>
 
