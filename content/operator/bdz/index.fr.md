@@ -74,11 +74,6 @@ Trains circulant de nuit et nécessitant une réservation. Les prix de réservat
 
 ## Achat de billets et réservations
 
-### En ligne
-
-{{% booking id="bdz-website"
-subtitle="Pour les trajets nationaux en Bulgarie" /%}}
-
 ### En gare
 
 {{% booking id="bdz-ticket-office" /%}}
