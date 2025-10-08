@@ -53,7 +53,7 @@ Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden. Sie
 
 {{% expander "Regional Train (REG)" traincategory traincategory %}}
 **Beschreibung:** \
-Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben und nicht besonders schnell sind. Sie besitzen nur Wagen der 2. Klasse und sind nicht resevierungspflichtig, eine Reservierung ist teilweise aber möglich. \
+Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben und nicht besonders schnell sind. Sie besitzen nur Wagen der 2. Klasse und sind nicht reservierungspflichtig, eine Reservierung ist teilweise aber möglich. \
 **Reservierung möglich:** Teilweise \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -99,7 +99,7 @@ Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Tick
 
 ### Fahrtunterbrechungen
 
-Eine Fahrtunterbrechung ist bei einem durchgängien Ticket nicht gestattet.
+Eine Fahrtunterbrechung ist bei einem durchgängigen Ticket nicht gestattet.
 
 ## Empfehlungen
 

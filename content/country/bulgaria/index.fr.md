@@ -18,7 +18,7 @@ Le réseau ferroviaire bulgare est principalement orienté est-ouest, avec diff�
 
 Le réseau est plutôt ancien et la plupart des liaisons sont assez lentes. Il n'existe pas vraiment de service cadencé, et la plupart des lignes ne voient que quelques trains par jour. Des exceptions existent dans la banlieue, par exemple entre Plovdiv et Asenovgrad, où un train circule environ toutes les 75 minutes. Les retards ne sont pas rares, mais sur les longues distances, ils sont souvent rattrapés grâce à des marges horaires généreuses.
 
-Un point fort du réseau est constitué par les lignes nord-sud à travers le massif du Balkan, en particulier la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichté, exploitée par la BDŽ et donc accessible avec la FIP. Des voitures-restaurants circulent également sur cette ligne.
+Un point fort du réseau est constitué par les lignes nord-sud à travers le massif du Balkan, en particulier la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichte, exploitée par la BDŽ et donc accessible avec la FIP. Des voitures-restaurants circulent également sur cette ligne.
 
 ## Arrivée et points frontières
 
