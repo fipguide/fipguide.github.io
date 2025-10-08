@@ -14,7 +14,7 @@ params:
 
 ## Informations FIP
 
-En Suisse, trois opérateurs proposent des billets FIP 50 et coupons FIP :
+En Suisse, trois opérateurs proposent des Billets FIP 50 et Coupons FIP :
 
 - Les CFF ([SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS")) – la compagnie ferroviaire nationale (lignes principales).
 - Un consortium de chemins de fer privés suisses (SP).
@@ -50,7 +50,7 @@ Plusieurs liaisons transfrontalières existent :
 - Des `EC` et `ECE` opèrent aussi sur cet axe.
 - Des trains régionaux relient l’Allemagne à Bâle.
 
-Le coupon FIP DB est valable jusqu'à Bâle Badischer Bahnhof (Bad Bf), considéré comme gare frontière officielle.
+Le Coupon FIP DB est valable jusqu'à Bâle Badischer Bahnhof (Bad Bf), considéré comme gare frontière officielle.
 
 {{% highlight tip %}}
 Pour entrer en Suisse sans billet CFF (Coupon FIP ou FIP 50), vous pouvez prendre la S-Bahn ligne 6 entre Bâle Bad Bf et Bâle SBB avec un Deutschlandticket. [^1]
@@ -59,7 +59,7 @@ Pour entrer en Suisse sans billet CFF (Coupon FIP ou FIP 50), vous pouvez prendr
 D’autres liaisons transfrontalières importantes incluent les itinéraires Stuttgart – Zurich via Schaffhouse (gare frontière commune des CFF et DB), ainsi que Munich – Zurich via Lindau, St. Margrethen et Saint-Gall, desservis par des trains `IC` et `ECE`. Lors d’un trajet depuis Lindau vers Saint-Gall via St. Margrethen, la ligne traverse brièvement l’Autriche. Un billet ÖBB est donc nécessaire pour ce tronçon.
 
 {{% highlight tip %}}
-Pour ce court tronçon, un billet FIP 50 évite le paiement du [supplément longue distance ÖBB]({{< ref "/country/austria#suisse" >}} "Arrivée en Suisse").
+Pour ce court tronçon, un Billet FIP 50 évite le paiement du [supplément longue distance ÖBB]({{< ref "/country/austria#suisse" >}} "Arrivée en Suisse").
 {{% /highlight %}}
 
 Plusieurs liaisons régionales transfrontalières existent. Certaines liaisons par bateau acceptent aussi le FIP.
@@ -71,7 +71,7 @@ Depuis la France :
 - `TGV` directs depuis Paris vers Bâle ou Genève.
 - Trains régionaux via Pontarlier, Vallorbe, etc.
 
-Sur les `TGV`, les titres FIP standards ne sont pas valables. Il faut un billet FIP global. Pour les trains régionaux, un billet FIP 50 ou un coupon des deux opérateurs suffit.
+Sur les `TGV`, les titres FIP standards ne sont pas valables. Il faut un Billet FIP global. Pour les trains régionaux, un Billet FIP 50 ou un coupon des deux opérateurs suffit.
 
 ### Italie
 
@@ -80,7 +80,7 @@ Depuis l’Italie, il est possible de rejoindre la Suisse aussi bien en trains r
 De plus, les trains `ECE` relient Francfort à Milan. Le supplément pour les trains transfrontaliers vers l’Italie est de 11 € (2ᵉ classe) ou 13 € (1ʳᵉ classe), incluant la réservation de siège (par exemple jusqu’à Francfort).
 
 {{% highlight tip %}}
-Pour le trajet Milan – Côme – Suisse, il peut être avantageux d’utiliser les trains régionaux entre Milan et Chiasso (première gare suisse). Cette section est exploitée par Trenord, qui n’accepte pas les billets FIP, mais le tarif est généralement abordable, contrairement au supplément de réservation exigé dans les EuroCity. Un changement à Chiasso peut donc s’avérer une option bien plus économique. Les trains directs `EC` et `ECE` restent la solution la plus confortable, mais aussi la plus coûteuse.
+Pour le trajet Milan – Côme – Suisse, il peut être avantageux d’utiliser les trains régionaux entre Milan et Chiasso (première gare suisse). Cette section est exploitée par Trenord, qui n’accepte pas les Billets FIP, mais le tarif est généralement abordable, contrairement au supplément de réservation exigé dans les EuroCity. Un changement à Chiasso peut donc s’avérer une option bien plus économique. Les trains directs `EC` et `ECE` restent la solution la plus confortable, mais aussi la plus coûteuse.
 {{% /highlight %}}
 
 ### Liechtenstein

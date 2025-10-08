@@ -7,7 +7,7 @@ country:
 operator: "cp"
 ---
 
-Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
+Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
 
 ## Zusammenfassung
 
@@ -117,7 +117,7 @@ Tickets für diesen Zug müssen über die spanischen Vertriebswege gekauft werde
 
 ### Vor Ort
 
-{{% booking id="cp-ticket-office"/%}}
+{{% booking id="cp-ticket-office" /%}}
 
 ### Im Zug
 
@@ -142,9 +142,9 @@ Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmu
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Die CP bietet regelmäßige Fahrten mit dem "Presidental Train" an. Dies ist ein luxuriöser, historischer Zug, welcher seit über einem Jahrhundert Staatsoberhäupter und Präsidenten befördert hat und eines der bedeutensten Relikte der Eisenbahngeschichte Portugals darstellt.
+Die CP bietet regelmäßige Fahrten mit dem "Presidential Train" an. Dies ist ein luxuriöser, historischer Zug, welcher seit über einem Jahrhundert Staatsoberhäupter und Präsidenten befördert hat und eines der bedeutensten Relikte der Eisenbahngeschichte Portugals darstellt.
 
-[Weitere Informationen zum Presidental Train](https://comboiopresidencial.pt/en/)
+[Weitere Informationen zum Presidential Train](https://comboiopresidencial.pt/en/)
 {{% /highlight %}}
 
 ## Quellen

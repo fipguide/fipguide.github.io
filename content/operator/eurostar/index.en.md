@@ -18,7 +18,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 ## Validity of FIP Tickets
 
 FIP Coupon: ⛔ \
-FIP Coupon relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ⛔ \
 FIP Global Fare: ✅
 
@@ -112,7 +112,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     reservations=nil
 %}}
 
-**FIP Global Fare**
+#### FIP Global Fare
 
 When booking, the FIP cards of all travelers must be presented.
 {{% /booking %}}

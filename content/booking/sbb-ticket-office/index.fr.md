@@ -20,7 +20,7 @@ aliases:
 
 ## Billets FIP 50
 
-Les billets FIP 50 pour des trajets en Suisse ainsi que vers de nombreux pays européens peuvent être achetés aux guichets des CFF.
+Les Billets FIP 50 pour des trajets en Suisse ainsi que vers de nombreux pays européens peuvent être achetés aux guichets des CFF.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

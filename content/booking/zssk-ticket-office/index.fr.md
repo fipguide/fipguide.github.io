@@ -22,7 +22,7 @@ En Slovaquie, il existe un large réseau de guichets, même dans les petites gar
 
 ## Billets FIP 50
 
-Les billets FIP 50 pour les trajets intérieurs peuvent être achetés aux guichets de la ZSSK.
+Les Billets FIP 50 pour les trajets intérieurs peuvent être achetés aux guichets de la ZSSK.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

@@ -22,7 +22,7 @@ L'Espagne ne dispose pas d'un réseau ferroviaire particulièrement dense. Il se
 
 L'accent est mis sur des liaisons (souvent rapides) entre grandes villes. Des trains de banlieue desservent également les agglomérations, assurant un service dense en local.
 
-La plupart des gares espagnoles sont équipées de portiques, accessibles uniquement avec un billet numérique ou papier valide. Avec un coupon FIP, il faut s’adresser au personnel pour qu’il ouvre manuellement les portiques.
+La plupart des gares espagnoles sont équipées de portiques, accessibles uniquement avec un billet numérique ou papier valide. Avec un Coupon FIP, il faut s’adresser au personnel pour qu’il ouvre manuellement les portiques.
 
 Pour les voyages longue distance, des contrôles de bagages sont effectués à l’entrée des gares. Bien qu'ils soient moins stricts qu'à l'aéroport, ils prennent du temps. Il est donc recommandé d'arriver en gare au moins 30 minutes avant le départ.
 
@@ -43,7 +43,7 @@ Pour les trains opérés par Renfe, les tarifs sont équivalents à ceux des AVE
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
 
-Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu'à Hendaye en utilisant le billet FIP spécial.
+Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu'à Hendaye en utilisant le Billet FIP spécial.
 
 ### Portugal
 

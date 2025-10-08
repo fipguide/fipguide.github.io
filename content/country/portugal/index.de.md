@@ -12,7 +12,7 @@ params:
 
 In Portugal können FIP 50 Tickets und FIP Freifahrtscheine auf dem Großteil des Schienennetzes genutzt werden.
 Die [staatliche Bahngesellschaft CP]({{< ref "/operator/cp" >}} "CP") betreibt die meisten Strecken in Portugal – hier ist FIP mit einzelnen Herausforderungen sehr gut nutzbar.
-So ist im Hochgeschwindigkeitsvekehr ist eine Reservierung notwendig und im Ballungsraum Lissabon gibt es teilweise Ticketschranken.
+So ist im Hochgeschwindigkeitsverkehr eine Reservierung notwendig und im Ballungsraum Lissabon gibt es teilweise Ticketschranken.
 
 Das private Eisenbahnverkehrsunternehmen Fertagus betreibt die `R`-Linie zwischen Lissabon Roma-Areeiro und Setúbal. Diese Strecke ist leider nicht mit FIP nutzbar.
 In der [Verbindungsauskunft der CP](https://www.cp.pt/en) erscheinen die Züge von Fertagus nicht, bei Google Maps sind sie über die Linienbezeichnung `Setúbal` erkennbar.
@@ -21,7 +21,7 @@ In der [Verbindungsauskunft der CP](https://www.cp.pt/en) erscheinen die Züge v
 
 Portugal verfügt über kein besonders dichtes Streckennetz.
 Der Bahnverkehr konzentriert sich auf die Hauptachse zwischen Braga, Porto, Lissabon und Faro sowie die Ballungszentren Lissabon und Porto.
-In den letzen Jahrzehnten wurden zudem einige Relationen stillgelegt, wodurch viele Städte (z. B. Mora und Monsaraz) derzeit nicht mehr mit dem Zug erreichbar sind.
+In den letzten Jahrzehnten wurden zudem einige Relationen stillgelegt, wodurch viele Städte (z. B. Mora und Monsaraz) derzeit nicht mehr mit dem Zug erreichbar sind.
 
 Im Fernverkehr kommen moderne Neigezüge und Reisezugwagen mit bequem gepolsterten Sitzen zum Einsatz, beide bieten Komfortfeatures und ein gastronomisches Angebot. Im Regionalverkehr verkehren überwiegend einstöckige und doppelstöckige Triebzüge, welche bereits einige Betriebsjahre hinter sich haben.
 
@@ -29,8 +29,8 @@ Aus persönlicher Erfahrung gibt es einige Verspätungen; diese resultieren oftm
 Leider werden diese Verspätungen weder online noch in den Zügen selbst ausgespielt, einzig an den Bahnhofs- und Bahnsteiganzeigen sind Verspätungen ersichtlich.
 
 In den Ballungszentren Lissabon und Porto besteht ein enger Takt an Regional- und Pendlerzügen (Comboios Urbanos).
-Davon abgesehen sollten bei der Reiseplanung defintiv die Fahrtzeiten der Züge geprüft werden. Grund hierfür sind Taktlücken und Einschränkungen an den Tagesrändern.
-Da im Fernverkehr mit `AP` und `IC` Zügen eine Reservierung verpflichtend benötigt wird, empfiehlt sich eine rechtzeitge Buchung.
+Davon abgesehen sollten bei der Reiseplanung definitiv die Fahrtzeiten der Züge geprüft werden. Grund hierfür sind Taktlücken und Einschränkungen an den Tagesrändern.
+Da im Fernverkehr mit `AP` und `IC` Zügen eine Reservierung verpflichtend benötigt wird, empfiehlt sich eine rechtzeitige Buchung.
 
 Besonders empfehlenswert ist ein Besuch der folgenden Bahnhöfe:
 
