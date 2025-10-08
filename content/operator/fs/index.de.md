@@ -39,7 +39,7 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 **Beschreibung:** \
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
 
-ℹ️ Züge des privaten Anbieters .italo werden auch als AV gekennzeichnet. \
+ℹ️ Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
@@ -49,7 +49,7 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 **Beschreibung:** \
 Hochgeschwindigkeitszüge mit Neigetechnik.
 
-ℹ️ Züge des privaten Anbieters .italo werden auch als AV gekennzeichnet. \
+ℹ️ Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
@@ -86,8 +86,8 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25€ (1./2. Klasse) \
-Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+**Kosten für Reservierung**: 25€ (1./2. Klasse) im Sitzwagen \
+Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
 {{% /expander %}}
 
 ### Internationaler Fernverkehr
@@ -97,9 +97,9 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25€ (1./2. Klasse)
+**Kosten für Reservierung**: 25€ (1./2. Klasse), außer im Brennerverkehr
 
-**Brennerverkehr:**
+**Kosten im Brennerverkehr:**
 
 - 1\. Klasse: 15€
 - 2\. Klasse: 10€
@@ -149,8 +149,8 @@ S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
 In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 **Standard**: Vergleichbar mit der 2. Klasse. \
-**Premium**: 1. Klasse in 2–2 Bestuhlung. Im Frecciarossa 1000 inkl. Welcome-Drink und Snacks (außer Samstags). Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
-**Business**: 1. Klasse in 2–1 Bestuhlung. Im Frecciarossa 1000 inkl. Welcome-Drink und Snacks (außer Samstags). Nicht mit FIP buchbar. \
+**Premium**: 1. Klasse in 2–2 Bestuhlung. Im Frecciarossa 1000 inkl. Welcome-Drink und Snacks (außer samstags). Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
+**Business**: 1. Klasse in 2–1 Bestuhlung. Im Frecciarossa 1000 inkl. Welcome-Drink und Snacks (außer samstags). Nicht mit FIP buchbar. \
 **Executive**: Luxusklasse mit privatem Abteil für 10 Personen und zusätzlichem Meetingraum. Nicht mit FIP buchbar.
 
 ## Ticket- und Reservierungskauf
@@ -160,15 +160,15 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 {{% booking id="fs-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Nur ECE Züge von Mailand nach Deutschland. Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen und italienischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
 %}}
-Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden. Für die `EC` im Brennerverkehr zwischen München und Italien kann dies ebenfalls gemacht werden. Beide haben jeweils keine Gültigkeit im deutschen Abschnitt.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Nur ECE Züge von Mailand nach Deutschland. Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
 %}}
-Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen München und Italien können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
 ### Vor Ort
@@ -272,7 +272,7 @@ Tickets für nicht zuggebundene Regionalzüge (_non prenotabile_) müssen am Bah
 ## Empfehlungen
 
 {{% highlight tip %}}
-Für Fahrten im Fernverkehr lohnt sich der FIP Freifahrtschein nur eingeschränkt, da sich der Preis von Fahrkarten mit FIP 50 und Freifahrtschein für die Fernzüge kaum unterscheidet. Einzig im Nahverkehr kann der Freifahrtschein voll genutzt werden. Da in diesen Zügen kaum eine 1. Klasse vorhanden ist, lohnt sich der Freifahrtschein der 1. Klasse dort eher nicht.
+Für Fahrten im Fernverkehr lohnt sich der FIP Freifahrtschein nur eingeschränkt, da sich der Preis von Fahrkarten mit FIP 50 und Freifahrtschein für die Fernzüge kaum unterscheidet. Einzige Ausnahme sind hier die `IC` Verbindungen, deren Reservierung meist deutlich günstiger ist. Im Nahverkehr kann der Freifahrtschein voll genutzt werden. Da in diesen Zügen kaum eine 1. Klasse vorhanden ist, lohnt sich der Freifahrtschein der 1. Klasse dort aber eher nicht.
 {{% /highlight %}}
 
 ## Quellen

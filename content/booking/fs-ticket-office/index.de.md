@@ -27,7 +27,7 @@ Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgest
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">
 
-Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Bussiness und Executive Klassen ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_, kann jedoch nicht am Fahrkartenautomaten erworben werden.
+Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Bussiness und Executive Klassen ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_.
 
 **Preise für _DIRITTO AMMISSIONE_:**
 

@@ -19,7 +19,7 @@ params:
 
 Auf der Trenitalia Website können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden.
 
-Dafür kann der Tarif _DIRITTO AMMISSIONE_ genutzt werden. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Business- und Executive-Klasse ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_, kann jedoch nicht am Fahrkartenautomaten erworben werden.
+Dafür kann der Tarif _DIRITTO AMMISSIONE_ genutzt werden. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Business- und Executive-Klasse ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_, kann jedoch nicht online erworben werden.
 
 **Preise für _DIRITTO AMMISSIONE_:**
 
