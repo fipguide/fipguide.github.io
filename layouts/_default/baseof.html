@@ -9,7 +9,12 @@
   <body>
     <div id="overlay" aria-hidden="true"></div>
     <header id="header" class="o-header">{{ partial "header.html" . }}</header>
-    <main id="content" class="{{ if .IsHome }}o-startpage{{ end }}{{ if eq .Page.Type "news" }}o-newspage{{ end }}">
+    <main
+      id="content"
+      class="{{ if .IsHome }}o-startpage{{ end }}{{ if eq .Page.Type "news" }}
+        o-newspage
+      {{ end }}"
+    >
       <div class="o-container">
         {{ block "main" . }}{{ end }}
       </div>

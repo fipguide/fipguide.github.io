@@ -5,9 +5,7 @@ function isMobile() {
 }
 
 function setA11YProperties(currentState) {
-  const asideContent = document.querySelector(
-    ".o-aside__content",
-  );
+  const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
 
   if (isMobile()) {
