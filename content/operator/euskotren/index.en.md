@@ -29,7 +29,7 @@ You use the "Euskotren FIP Ticket" to pass through platform barriers. After expi
 <br style="clear:both" />
 
 {{% highlight tip %}}
-Some train operators also issue free travel passes for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
+Some train operators also issue FIP Coupones for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
 {{% /highlight %}}
 
 ## Train Categories and Reservations
@@ -78,7 +78,7 @@ There is a uniform class that can be used with both 1st and 2nd class FIP cards.
 
 ### Buses
 
-FIP tickets are not valid on Euskotren's regional bus lines.
+FIP Tickets are not valid on Euskotren's regional bus lines.
 
 ## Recommendations
 
