@@ -10,6 +10,8 @@ const initAside = () => {
   const handleBtn = document.querySelector(".o-aside__header");
   const overlay = document.getElementById("overlay");
 
+  if (!aside || !asideContent || !handleBtn || !overlay) return;
+
   let isClosed = true;
 
   const closeSheet = () => {
@@ -29,7 +31,7 @@ const initAside = () => {
     handleBtn.setAttribute("aria-expanded", "true");
   };
 
-  if (isMobile() && asideContent) {
+  if (isMobile()) {
     closeSheet();
   }
 
@@ -99,14 +101,23 @@ const initAside = () => {
     aside.style.maxHeight = `${maxOpenHeight}px`;
   };
 
-  // set maxOpenHeight on load and resize
-  window.addEventListener("load", () => {
-    limitAsideHeight();
-  });
+  let wasMobile = isMobile();
 
-  window.addEventListener("resize", () => {
+  const handleResize = () => {
     limitAsideHeight();
-  });
+    if (isMobile() && !wasMobile) {
+      wasMobile = true;
+      closeSheet();
+    }
+    if (!isMobile()) {
+      wasMobile = false;
+      overlay.classList.remove("overlay--show");
+      aside.classList.remove("o-aside--open");
+    }
+  };
+
+  window.addEventListener("load", handleResize);
+  window.addEventListener("resize", handleResize);
 };
 
 if (document.readyState === "interactive") {
