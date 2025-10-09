@@ -12,17 +12,12 @@ const initAside = () => {
 
   let isClosed = true;
 
-  const lockScroll = (lock) => {
-    document.body.style.overflow = lock ? "hidden" : "";
-  };
-
   const closeSheet = () => {
     isClosed = true;
     aside.classList.remove("o-aside--open");
     asideContent.setAttribute("aria-hidden", "true");
     handleBtn.setAttribute("aria-expanded", "false");
     overlay.classList.remove("overlay--show");
-    lockScroll(false);
   };
 
   const openSheet = () => {
@@ -32,7 +27,6 @@ const initAside = () => {
     asideContent.setAttribute("role", "dialog");
     asideContent.setAttribute("aria-hidden", "false");
     handleBtn.setAttribute("aria-expanded", "true");
-    lockScroll(true);
   };
 
   if (isMobile() && asideContent) {
@@ -57,11 +51,12 @@ const initAside = () => {
   const dragStart = (e) => {
     startY = e.clientY || e.touches?.[0].clientY;
     isDragging = true;
-    lockScroll(true);
+    e.preventDefault();
   };
 
   const dragging = (e) => {
     if (!isDragging) return;
+    e.preventDefault();
     currentY = e.clientY || e.touches?.[0].clientY;
     const deltaY = startY - currentY;
 
