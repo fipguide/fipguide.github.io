@@ -82,9 +82,11 @@ Eine Ausnahme bildet der `IC` Amsterdam - Berlin, der grenzüberschreitend ein e
 **Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
 {{% /expander %}}
 
-{{% expander "Sneltrein (RE)" traincategory category %}}
+{{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
 **Beschreibung:** \
-Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen. \
+Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
+
+ℹ️ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -95,10 +97,6 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
-
-{{% highlight important %}}
-Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
-{{% /highlight %}}
 
 ## Ticket- und Reservierungskauf
 
