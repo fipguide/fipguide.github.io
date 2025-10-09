@@ -36,7 +36,7 @@ Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Il
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ non (sauf pour les trajets transfrontaliers en haute saison) \
 **Supplément :** ⚠️ \
-Avec un billet FIP 50, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet est requis. Avec un coupon FIP, le supplément n’est pas nécessaire. \
+Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP. \
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
 {{% /expander %}}
 
@@ -74,15 +74,15 @@ Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tar
 Pour les billets FIP 50, les prix peuvent varier selon la catégorie de train.
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
+{{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Description :** \
 Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts. \
 Exception : le `IC` Amsterdam - Berlin, qui est un vrai Intercity transfrontalier avec arrêts uniquement dans les grandes gares. \
 **Réservation possible :** uniquement pour le `IC` Amsterdam - Berlin \
-**Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison)
-{{% highlight important %}}
-**Attention:** à partir du 18 octobre 2025, la ligne IC Amsterdam-Berlin sera progressivement équipée de trains ICE 3neo. Un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € sera alors appliqué pour les trajets intérieurs aux Pays-Bas.
-{{% /highlight %}}
+**Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison) \
+**Supplément** : ⚠️ \
+À partir du 18 octobre 2025, la ligne `IC` Amsterdam – Berlin sera progressivement remplacée par des trains ICE 3neo. Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP. \
+Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place aux distributeurs ou guichets. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet à usage unique.
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE)" traincategory category %}}
