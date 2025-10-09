@@ -19,7 +19,7 @@ Buchungen per Telefon sind über die SNCF Hotline möglich:
 
 Die Buchung ist auf Französisch und Englisch möglich. Bei der Buchung müssen Kreditkartendaten, persönliche Informationen und eine E-Mail-Adresse angegeben werden.
 
-Am Ende der auf Französisch vorgestellten Menüoptionen gibt es die Möglichkeit, mit einem englischsprachigen Mitarbeitenden verbunden zu werden – drücken Sie #85.
+Am Ende der auf Französisch vorgestellten Menüoptionen gibt es die Möglichkeit, mit einem englischsprachigen Mitarbeitenden verbunden zu werden – dafür muss die #85 gedrückt werden.
 Im nächsten Sprachmenü kann „Voyages/Journey“ durch Drücken der 1 gewählt werden.
 Im folgenden Sprachmenü kann „Voyages on TGV“ durch Drücken der 1 gewählt werden.
 

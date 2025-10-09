@@ -17,7 +17,7 @@ params:
 
 ## FIP Nutzung
 
-In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da die meisten Züge von der staatlichen Bahngesellschaft [SNCF]({{< ref "/operator/sncf" >}} "SNCF") betrieben werden. Leider sind im Fernverkehr immer Reservierungen erforderlich und im Low-Cost Angebot der SNCF [OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo") können gar keine FIP Vergünstigungen genutzt werden.
+In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da die meisten Züge von der staatlichen Bahngesellschaft [SNCF]({{< ref "/operator/sncf" >}} "SNCF") betrieben werden. Im Fernverkehr sind jedoch immer Reservierungen erforderlich und im Low-Cost Angebot der SNCF [OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo") können gar keine FIP Vergünstigungen genutzt werden.
 
 Auf internationalen Verbindungen können [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge Richtung Großbritannien, Belgien, Niederlande und Deutschland mit speziellen FIP Globalpreisen genutzt werden. Auch für internationale `TGV` Züge gibt es Globalpreise (außer nach Deutschland). Des Weiteren können mit FIP Globalpreistickets auch die AVE Züge der spanischen Renfe auf der Strecke nach Spanien genutzt werden. Frecciarossa Züge von Trenitalia Richtung Italien können hingegen in Frankreich nicht mit FIP genutzt werden. Durch eine Reservierungspflicht in allen Fernverkehrszügen in Frankreich ist eine versehentliche Mitfahrt ohne Reservierung ausgeschlossen.
 
@@ -60,16 +60,24 @@ Außerdem gibt es verschiedene Regionalzugverbindungen von Belgien nach Frankrei
 ### Luxemburg
 
 Aus Luxemburg betreibt die SNCF internationale `TGV` Züge von Luxemburg nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Luxemburg nach Frankreich über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+{{% highlight tip %}}
+Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein Freifahrtschein der CFL nicht unbedingt erforderlich. Bei der Fahrt nach Frankreich muss aber ein grenzüberschreitendes Ticket (z. B. ein FIP 50 Ticket) vorhanden sein.
+{{% /highlight %}}
+
 
 ### Deutschland
 
-Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (GR) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Mitarbeiter der Deutschen Bahn können diese Tickets auch online erwerben, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
+Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können auch über die Deutsche Bahn erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
-Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP oder Vergünstigungen für DB Mitarbeitende, aber das Deutschlandticket. Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
+Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitervergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+
+{{% highlight tip %}}
+Das Deutschlandticket, das eine günstige Option zur Nutzung im deutschen Regionalverkehr ist, gilt auch ohne zusätzliches Ticket auf den Regionalzugverbindungen von Deutschland nach Lauterbourg und Wissembourg oder mit der Saarbahn nach Sarreguemines.
+{{% /highlight %}}
 
 ### Schweiz
 
@@ -83,7 +91,7 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léma
 
 Von Mailand verkehren grenzüberschreitende Frecciarossa Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden. Für diese müssen FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
+Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, es müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
 
@@ -96,3 +104,6 @@ Bei beiden Anbietern sind FIP Globalpreise möglich, welche bei der SNCF jedoch 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
 Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
+
+### Monaco
+Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.

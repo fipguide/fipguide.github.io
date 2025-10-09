@@ -13,7 +13,7 @@ params:
   type: "onsite"
 ---
 
-Ticketschalter der SNCF werden SNCF Connect Shops genannt und befinden sich an allen größeren Bahnhöfen in Frankreich. Dort können Fahrkarten für inländische und internationale Reisen gekauft werden. Die Ticketschalter haben oftmals eingeschränkte Öffungszeiten, die vor einem Besuch überprüft werden sollten.
+Ticketschalter der SNCF werden SNCF Connect Shops genannt und befinden sich an allen größeren Bahnhöfen in Frankreich. Dort können Fahrkarten für inländische und internationale Reisen gekauft werden. Die Ticketschalter haben oftmals eingeschränkte Öffungszeiten, die vor einem Besuch überprüft werden sollten. Für Reisen innerhalb Frankreichs können auch Upgrades von der 2. Klasse in die 1. Klasse gekauft werden. Dabei muss die Differenz gezahlt werden.
 
 {{% booking-section "fip_50" %}}
 
