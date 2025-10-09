@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "DB Website FIP (DB Employees)"
-description: "Booking information for FIP tickets for DB employees for neighboring countries of Germany"
+description: "Booking information for FIP Tickets for DB employees for neighboring countries of Germany"
 
 params:
   classes:

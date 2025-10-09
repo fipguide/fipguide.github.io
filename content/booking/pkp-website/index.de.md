@@ -35,7 +35,7 @@ Auf der PKP Website werden Reservierungen für nationale und grenzüberschreiten
 
 Anschließend muss die Anmeldung oder Registrierung für ein PKP Intercity Benutzerkonto erfolgen, um die Reservierung zu kaufen.
 
-Bei Reisen mit einem FIP Freifahrtsschein, muss dieser im Kundenkonto hinterlegt werden unter Angabe der Freifahrtscheinnummer und Gültigkeitszeitraum, damit die Reservierung erworben werden kann:
+Bei Reisen mit einem FIP Freifahrtschein, muss dieser im Kundenkonto hinterlegt werden unter Angabe der Freifahrtscheinnummer und Gültigkeitszeitraum, damit die Reservierung erworben werden kann:
 
 ![PKP Freifahrt Hinterlegen](pkp_reservation_ticket.webp)
 
