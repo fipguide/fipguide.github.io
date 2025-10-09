@@ -5,7 +5,7 @@ description: "Buchungsinformationen für die BDŽ Ticketschalter."
 params:
   classes:
     first: "1 Lew / 0,51€"
-    second: "1 Lew / 0,51€""
+    second: "1 Lew / 0,51€"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.bdz.bg/en/a/stations"
