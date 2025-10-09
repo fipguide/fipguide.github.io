@@ -4,22 +4,18 @@ const isMobile = () => {
   return window.matchMedia(mq.maxMD).matches;
 };
 
-const setA11YProperties = (currentState) => {
+const setA11YProperties = (isClosed) => {
   const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
 
   if (isMobile() && asideContent) {
-    if (currentState === "closed") {
+    if (isClosed) {
       asideContent.setAttribute("role", "dialog");
       asideContent.setAttribute("aria-hidden", "true");
       handleBtn.setAttribute("aria-expanded", "false");
-    } else if (currentState === "open") {
-      asideContent.setAttribute("aria-hidden", "false");
-      handleBtn.setAttribute("aria-expanded", "true");
     } else {
       asideContent.setAttribute("aria-hidden", "false");
-      asideContent.removeAttribute("role", "dialog");
-      handleBtn.setAttribute("aria-expanded", "false");
+      handleBtn.setAttribute("aria-expanded", "true");
     }
   }
 };
@@ -29,9 +25,9 @@ const initAside = () => {
   const handleBtn = document.querySelector(".o-aside__header");
   const overlay = document.getElementById("overlay");
 
-  let currentState = "closed";
+  let isClosed = true;
 
-  setA11YProperties(currentState);
+  setA11YProperties(isClosed);
 
   const lockScroll = (lock) => {
     document.body.style.overflow = lock ? "hidden" : "";
@@ -39,22 +35,22 @@ const initAside = () => {
 
   const closeSheet = () => {
     aside.classList.remove("o-aside--open");
-    currentState = "closed";
+    isClosed = true;
     overlay.classList.remove("overlay--show");
     lockScroll(false);
-    setA11YProperties(currentState);
+    setA11YProperties(isClosed);
   };
 
   const openSheet = () => {
     aside.classList.add("o-aside--open");
     overlay.classList.add("overlay--show");
     lockScroll(true);
-    currentState = "open";
-    setA11YProperties(currentState);
+    isClosed = false;
+    setA11YProperties(isClosed);
   };
 
   const toggleSheet = () => {
-    if (currentState === "closed") {
+    if (isClosed) {
       openSheet();
     } else {
       closeSheet();
@@ -79,11 +75,11 @@ const initAside = () => {
     currentY = e.clientY || e.touches?.[0].clientY;
     const deltaY = startY - currentY;
 
-    if (currentState === "closed" && deltaY > 50) {
+    if (isClosed && deltaY > 50) {
       openSheet();
     }
 
-    if (currentState === "open" && deltaY < -50) {
+    if (!isClosed && deltaY < -50) {
       closeSheet();
     }
   };
@@ -121,12 +117,12 @@ const initAside = () => {
   // set maxOpenHeight on load and resize
   window.addEventListener("load", () => {
     limitAsideHeight();
-    setA11YProperties(currentState);
+    setA11YProperties(isClosed);
   });
 
   window.addEventListener("resize", () => {
     limitAsideHeight();
-    setA11YProperties(currentState);
+    setA11YProperties(isClosed);
   });
 };
 
