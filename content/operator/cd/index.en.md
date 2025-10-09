@@ -199,6 +199,8 @@ A journey interruption is not permitted on domestic journeys up to 100 km. For j
 
 ## Recommendations
 
+The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can be used with a first-class FIP 50 Ticket or a FIP Coupon. They can also be accessed with a second-class ticket in combination with a seat reservation. [^2]
+
 {{% highlight tip %}}
 České dráhy enjoys a good reputation among passengers for reliable and mostly comfortable travel with very good service. Railway staff are usually very friendly and helpful. Connections often wait in case of delays, except at major hubs like Praha hl. n. Using the ČD app ("Můj vlak") is highly recommended, as it provides live data, coach compositions, and other important information.
 {{% /highlight %}}
@@ -206,3 +208,4 @@ A journey interruption is not permitted on domestic journeys up to 100 km. For j
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)

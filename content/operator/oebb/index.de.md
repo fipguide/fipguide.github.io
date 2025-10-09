@@ -262,6 +262,10 @@ Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr mö
 
 Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
 
+## Empfehlungen
+
+Die ÖBB Lounges in Wien Hbf, Wien Meidling, Linz Hbf, Salzburg Hbf, Graz Hbf, Klagenfurt Hbf und Innsbruck Hbf können mit einem FIP 50 Ticket oder FIP Freifahrtschein der 1. Klasse genutzt werden. Mit Fahrkarten der 2. Klasse kann ein kostenpflichtiger Loungezutritt erworben werden, siehe [ÖBB Website](https://www.oebb.at/de/reiseplanung-services/am-bahnhof/lounges).
+
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
