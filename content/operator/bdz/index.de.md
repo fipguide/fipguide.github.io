@@ -39,7 +39,7 @@ Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna v
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem _R_ ersichtlich. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Resevierung genutzt werden können. \
+Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem _R_ ersichtlich. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Teilweise (mit _R_ gekennzeichnet)
 {{% /expander %}}
@@ -63,13 +63,6 @@ Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben 
 Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, die oft in einem dichteren Takt als die meisten anderen Züge verkehren. \
 **Reservierung möglich:** Nein \
 **Reservierungspflicht:** Nein
-{{% /expander %}}
-
-{{% expander "Nachtzug" traincategory traincategory %}}
-**Beschreibung:** \
-Züge die über Nacht verkehren und reservierungspflichtig sind. Der Preis für Reservierungen im Liege- oder Schlafwagen sind entsprechend höher als übliche Reservierungen. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
