@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Groß Britannien"
-description: "Informationen über die FIP-Bedingungen für Groß Britannien und für welche Betreiber Vergünstigungen genutzt werden können."
-country: "greatbritain"
+title: "Vereinigtes Königreich"
+description: "Informationen über die FIP-Bedingungen für das Vereinigte Königreich und für welche Betreiber Vergünstigungen genutzt werden können."
+country: "united_kingdom"
 params:
   operators_without_fip:
     - Blackpool Tramway
@@ -47,6 +47,16 @@ params:
     - Besondere Züge/Strecken/Linien
     - Schöne Bahnhöfe
 -->
+
+nachtzüge
+
+2FOR1-Angebote für Inhaber von National Rail-Tickets
+Viele Freizeit- und Touristenattraktionen bieten zwei Eintrittskarten für Erwachsene zum Preis von
+einer, wenn Sie mit dem Zug reisen. Informationen in englischer Sprache finden Sie unter
+daysoutguide.co.uk
+
+Der Rabatt auf die Eintrittsgebühr ist verfügbar, wenn Sie mit FIP-vergünstigten Tickets reisen, die
+mit der FIP International Reduced Rate Card gekauft wurden. Es ist nicht verfügbar, wenn Sie mit FIPCoupons kostenlos reisen.
 
 ## Anreise und Grenzpunkte
 

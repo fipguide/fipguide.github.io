@@ -50,7 +50,7 @@ C2c verbindet London Fenchurch Street mit Städten in South Essex und richtet si
 
 {{% expander "Caledonian Sleeper ⚠️" traincategory "category" %}}
 **Beschreibung:** \
-Der Caledonian Sleeper ist ein Nachtzug zwischen London und Schottland mit Schlaf- und Liegewagen. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein. \
+Der Caledonian Sleeper ist ein Nachtzug zwischen London und Schottland mit Schlaf- und Liegewagen. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja
 {{% /expander %}}
@@ -108,11 +108,9 @@ Greater Anglia fährt von London Liverpool Street in die östlichen Counties Eng
 
 {{% expander "Great Western Railway (GWR)" traincategory "category" %}}
 **Beschreibung:** \
-Great Western Railway verbindet London Paddington mit dem Südwesten Englands, South Wales und Bristol im Fern- und Regionalverkehr.
-
-GWR bietet auch einen Nachtzug von London nach Penzance an. Dieser Night Riviera Sleeper ist reservierungspflichtig. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein. \
+Great Western Railway verbindet London Paddington mit dem Südwesten Englands, South Wales und Bristol im Fern- und Regionalverkehr. \
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nur Night Riviera Sleeper
+**Reservierungspflicht:** Nein
 {{% /expander %}}
 
 {{% expander "Heathrow Express" traincategory "category" %}}
@@ -243,7 +241,7 @@ werden.
     subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
 /%}}
 
-{{% booking id="internationalrail-email" /%}}
+gwr
 
 ticket offices
 
@@ -296,36 +294,6 @@ Aktive Mitarbeiter, einschließlich Ehepartner und unterhaltsberechtigte Kinder,
 ### Ticketschranken
 
 An vielen Bahnhöfen in Großbritannien gibt es Ticketschranken, die mit einem Ticket geöffnet werden müssen. Um mit FIP Freifahrtschein die Ticketschranken zu passieren, muss der FIP Freifahrtschein dem Personal an den Schranken vorgezeigt werden. Wenn kein Personal vor Ort ist, sind die Schranken geöffnet.
-
-### Verkehr in London
-
-Die meisten Verkehre in London werden von Transport for London (TfL) betrieben, bei denen keine FIP Vergünstigungen gelten bzw. deren Verkehre nur mit besonderen Bestimmungen genutzt werden können. Uneingeschränkt gelten FIP Vergünstigungen nur in der Elizabeth Line und London Overground. Auch Regionalzüge wie ThamesLink die durch die Stadt verkehren können mit FIP genutzt werden.
-
-{{% expander "Elizabth Line" info "london" %}} 
-Die Elizabeth Line in London ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit mit FIP durch die ganze Stadt zu kommen.
-
-{{% highlight tip %}}
-Von den Stationen der Elizabeth Line verkehren teilweise auch London Underground Linien. Die Ticketschranken sind an diesen Stationen oftmal mit TfL Personal besetzt. Um Verwirrungen vorzubeugen sollte beim Vorzeigen des Freifahrtsscheins die Nutzung der Elizabeth Line erwähnt werden.
-{{% /highlight %}}
-{{% /expander %}}
-
-{{% expander "London Overground" info "london" %}} 
-Alle Linien der London Overground sind Teil von National Rail und können mit FIP Vergünstigungen genutzt werden.
-{{% /expander %}}
-
-{{% expander "London Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Seilbahn und Fluss Themse Boote" info "london" %}} 
-Londoner Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line,
-Seilbahn und Fluss Themse Boote werden von TfL betrieben und akzeptieren keine FIP Vergünstigungen.
-{{% /expander %}}
-
-{{% expander "London Underground" info "london" %}}
-Die London Underground wird von TfL betrieben und akzeptiert keine FIP Vergünstigungen.
-
-**Ausnahme:** \
-FIP 50 National Rail Tickets, bei denen von einem Londoner Terminal zum anderen umgestiegen werden 
-muss, kann die London Underground nur zwischen diesen Londoner Terminalstationen genutzt werden. Die
-Unterbrechung der Fahrt in der London Underground ist nicht gestattet. Tickets, die in der London Underground für den Transfer zwischen einem National Rail Londoner Bahnhof und einem anderen Bahnhof verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet.
-{{% /expander %}}
 
 ### Museumsbahnen / Historische Fahrten
 
