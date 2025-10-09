@@ -4,50 +4,40 @@ const isMobile = () => {
   return window.matchMedia(mq.maxMD).matches;
 };
 
-const setA11YProperties = (isClosed) => {
-  const asideContent = document.querySelector(".o-aside__content");
-  const handleBtn = document.querySelector(".o-aside__header");
-
-  if (isMobile() && asideContent) {
-    if (isClosed) {
-      asideContent.setAttribute("role", "dialog");
-      asideContent.setAttribute("aria-hidden", "true");
-      handleBtn.setAttribute("aria-expanded", "false");
-    } else {
-      asideContent.setAttribute("aria-hidden", "false");
-      handleBtn.setAttribute("aria-expanded", "true");
-    }
-  }
-};
-
 const initAside = () => {
   const aside = document.querySelector(".o-aside");
+  const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
   const overlay = document.getElementById("overlay");
 
   let isClosed = true;
-
-  setA11YProperties(isClosed);
 
   const lockScroll = (lock) => {
     document.body.style.overflow = lock ? "hidden" : "";
   };
 
   const closeSheet = () => {
-    aside.classList.remove("o-aside--open");
     isClosed = true;
+    aside.classList.remove("o-aside--open");
+    asideContent.setAttribute("aria-hidden", "true");
+    handleBtn.setAttribute("aria-expanded", "false");
     overlay.classList.remove("overlay--show");
     lockScroll(false);
-    setA11YProperties(isClosed);
   };
 
   const openSheet = () => {
+    isClosed = false;
     aside.classList.add("o-aside--open");
     overlay.classList.add("overlay--show");
+    asideContent.setAttribute("role", "dialog");
+    asideContent.setAttribute("aria-hidden", "false");
+    handleBtn.setAttribute("aria-expanded", "true");
     lockScroll(true);
-    isClosed = false;
-    setA11YProperties(isClosed);
   };
+
+  if (isMobile() && asideContent) {
+    closeSheet();
+  }
 
   const toggleSheet = () => {
     if (isClosed) {
@@ -117,12 +107,10 @@ const initAside = () => {
   // set maxOpenHeight on load and resize
   window.addEventListener("load", () => {
     limitAsideHeight();
-    setA11YProperties(isClosed);
   });
 
   window.addEventListener("resize", () => {
     limitAsideHeight();
-    setA11YProperties(isClosed);
   });
 };
 
