@@ -4,8 +4,8 @@ title: "Guichet BDŽ"
 description: "Informations de réservation pour les guichets BDŽ."
 params:
   classes:
-    first: "1 Lev"
-    second: "1 Lev"
+    first: "1 Lev / 0,51€"
+    second: "1 Lev / 0,51€"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.bdz.bg/en/a/stations"
