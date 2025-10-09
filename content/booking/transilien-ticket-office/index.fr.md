@@ -1,29 +1,12 @@
 ---
 draft: false
-title: "Guichet ČD"
-description: "Informations de réservation pour les guichets České dráhy."
+title: "Guichet Transilien"
+description: "Informations de réservation pour les guichets Transilien."
+
 params:
-  classes:
-    first: "35 CZK"
-    second: "35 CZK"
   fip_50: true
-  reservations: true
-  additional_info_link: "https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/"
+  additional_info_link: "https://www.transilien.com/fr/page-lignes-et-gares#paragraph-part-6916"
   type: "onsite"
 ---
 
-{{% booking-section "fip_50" %}}
-
-## Billets FIP 50
-
-Aux guichets ČD, il est possible d'acheter des billets FIP 50 pour voyager en Tchéquie et vers d'autres pays européens.
-
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Réservations
-
-Les guichets České dráhy proposent des réservations pour la Tchéquie et certains autres pays européens. Il est également possible de réserver des places spécifiques.
-
-{{% /booking-section %}}
+Aux guichets Transilien, vous pouvez acheter des billets FIP à tarif réduit pour certains trains et lignes de tramway de la région Île-de-France. Vous pouvez également retirer la _Contremarque de Passage_ (carte d’accès temporaire) ici. Cette carte est nécessaire pour utiliser les lignes avec un Coupon FIP. Il vous faut une carte distincte pour chaque trajet ; voir [Trains en Île-de-France]({{< ref "/operator/sncf#züge-im-großraum-paris" >}} "Trains en Île-de-France"). En général, seules quelques cartes sont délivrées à la fois par guichet.

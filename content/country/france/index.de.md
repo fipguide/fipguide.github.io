@@ -12,10 +12,6 @@ params:
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#internationale-frecciarossa-züge-nach-paris" >}} "Frecciarossa (Trenitalia)")'
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 ## FIP Nutzung
 
 In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da die meisten Züge von der staatlichen Bahngesellschaft [SNCF]({{< ref "/operator/sncf" >}} "SNCF") betrieben werden. Im Fernverkehr sind jedoch immer Reservierungen erforderlich und im Low-Cost Angebot der SNCF [OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo") können gar keine FIP Vergünstigungen genutzt werden.

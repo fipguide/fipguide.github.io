@@ -12,15 +12,11 @@ country:
 operator: "sncf"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in Frankreich. Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.
 
 ## Zusammenfassung
 
-- Im Fernverkehr (TGV inOui und Intercités) ist immer eine Reservierung erforderlich
+- Im Fernverkehr (`TGV` inOui und Intercités) ist immer eine Reservierung erforderlich
 - In OuiGo Zügen gelten keine FIP Vergünstigungen
 - In Paris können einige S-Bahnen und Straßenbahnlinien zu besonderen Konditionen genutzt werden
 - Für grenzüberschreitende Fernzugverbindungen gelten Globalpreise
@@ -31,7 +27,7 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 FIP Freifahrtsschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅ \
-FIP Globalpreis: ✅ (Für internationale TGV Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge))
+FIP Globalpreis: ✅ (Für internationale `TGV` Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge))
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehrsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 
@@ -43,21 +39,22 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 
 {{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
-Der TGV inOui ist der Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken ist [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
+Der `TGV` inOui ist der Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken ist [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
 
-ℹ️ Die SNCF betreibt auch Low-Cost TGV Züge unter dem Namen OuiGo, diese sind jedoch nicht mit FIP nutzbar.
+ℹ️ Die SNCF betreibt auch Low-Cost `TGV` Züge unter dem Namen OuiGo, diese sind jedoch nicht mit FIP nutzbar.
 
 ⚠️ Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge). \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Ja ⚠️ \
-**Kosten für Reservierung:** Abhängig von Strecke und Auslastung
+**Kosten für Reservierung:** \
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 1,70 € (1./2. Klasse) und während der Hauptverkehrszeit 15 € (1. Klasse) bzw. 10 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 {{% /expander %}}
 
 {{% expander "Train à grande vitesse OuiGo (TGV OuiGo) / OuiGo Train Classique ⛔⚠️ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
-Der TGV OuiGo ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele.
+Der `TGV` OuiGo ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele.
 
-ℹ️ Die SNCF betreibt auch TGV Züge unter dem Namen inOui, welche mit FIP nutzbar sind. \
+ℹ️ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Ja ⚠️ \
 **FIP:** ⛔ FIP wird nicht anerkannt
@@ -141,7 +138,7 @@ Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" %}}
-Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
+Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
 {{% /booking %}}
 
 ### Im Zug

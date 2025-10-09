@@ -1,22 +1,25 @@
 ---
 draft: false
-title: "Guichet ČD"
-description: "Informations de réservation pour les guichets České dráhy."
+title: "Guichet SNCF"
+description: "Informations de réservation pour les guichets SNCF."
+
 params:
   classes:
-    first: "35 CZK"
-    second: "35 CZK"
+    first: "1,70€ / 15€"
+    second: "1,70€ / 10€"
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/"
+  additional_info_link: "https://www.garesetconnexions.sncf/fr/gares-services"
   type: "onsite"
 ---
+
+Les guichets SNCF, appelés SNCF Connect Shops, sont présents dans toutes les grandes gares en France. Vous pouvez y acheter des billets pour des voyages nationaux et internationaux. Les horaires d’ouverture des guichets sont souvent limités, il est donc conseillé de les vérifier avant votre visite. Pour les voyages en France, il est également possible d’acheter des surclassements de la 2de à la 1re classe en payant la différence.
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-Aux guichets ČD, il est possible d'acheter des billets FIP 50 pour voyager en Tchéquie et vers d'autres pays européens.
+La SNCF vend aux guichets des billets avec une réduction FIP de 50%.
 
 {{% /booking-section %}}
 
@@ -24,6 +27,7 @@ Aux guichets ČD, il est possible d'acheter des billets FIP 50 pour voyager en T
 
 ## Réservations
 
-Les guichets České dráhy proposent des réservations pour la Tchéquie et certains autres pays européens. Il est également possible de réserver des places spécifiques.
+La SNCF vend des réservations pour les trains longue distance.
 
 {{% /booking-section %}}
+

@@ -1,25 +1,45 @@
 ---
 draft: false
-title: "Eurostar Telephone"
-description: "Booking information for the Eurostar hotline."
+title: "SNCF Phone"
+description: "Booking information for the SNCF hotline."
 
 params:
-  fip_global_fare: true
-  additional_info_link: "https://www.eurostar.com/rw-en/contact-us/eurostar-contact-details"
+  classes:
+    first: "1.70€ / 15€"
+    second: "1.70€ / 10€"
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
   type: "phone"
-
-aliases:
-  - eurostar_phone
 ---
 
-## FIP Global Fare
+Bookings by phone are possible via the SNCF hotline:
 
-FIP Global Fare tickets can be purchased via the Eurostar hotline:
+[+33 1 84 94 36 35](tel:+33184943635)
 
-- UK: [+44 (0)3432 186 186](tel:+443432186186)
-- France: [+33 (0)1 70 70 60 88](tel:+33170706088)
-- Belgium: [+32 (0)2 400 67 76](tel:+3224006776)
-- Netherlands: [+31 (0)20 532 32 32](tel:+31205323232)
-- Germany: [+49 (0)30 7007 0000](tel:+493070070000)
+Booking is available in French and English. You will need to provide credit card details, personal information, and an email address.
 
-Booking is possible in English, French, German and Dutch. A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card. No additional booking fee is charged for FIP tickets.
+At the end of the menu options presented in French, you can be connected to an English-speaking agent by pressing #85.
+In the next language menu, select “Voyages/Journey” by pressing 1.
+In the following menu, select “Voyages on TGV” by pressing 1.
+
+A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card (Visa, Eurocard, or American Express). Before giving the card number, inform the agent of the card type. No additional booking fee applies for FIP tickets.
+
+Once tickets or reservations are confirmed, a PNR (booking confirmation) and the eTicket will be sent by email. When traveling by train, you must present the eTicket together with the FIP Coupon or FIP Card.
+
+{{% booking-section "fip_50" %}}
+
+## FIP 50 Tickets
+
+SNCF sells tickets with a 50% FIP discount.
+
+{{% /booking-section %}}
+
+{{% booking-section "reservations" %}}
+
+## Reservations
+
+SNCF sells reservations for long-distance trains.
+
+{{% /booking-section %}}
+
