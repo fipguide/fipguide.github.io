@@ -37,17 +37,27 @@ const initAside = () => {
     document.body.style.overflow = lock ? "hidden" : "";
   };
 
+  const closeSheet = () => {
+    aside.classList.remove("o-aside--open");
+    currentState = "closed";
+    overlay.classList.remove("overlay--show");
+    lockScroll(false);
+    setA11YProperties(currentState);
+  };
+
+  const openSheet = () => {
+    aside.classList.add("o-aside--open");
+    overlay.classList.add("overlay--show");
+    lockScroll(true);
+    currentState = "open";
+    setA11YProperties(currentState);
+  };
+
   const toggleSheet = () => {
     if (currentState === "closed") {
-      aside.classList.add("o-aside--open");
-      currentState = "open";
-      setA11YProperties(currentState);
+      openSheet();
     } else {
-      aside.classList.remove("o-aside--open");
-      currentState = "closed";
-      overlay.classList.remove("overlay--show");
-      lockScroll(false);
-      setA11YProperties(currentState);
+      closeSheet();
     }
   };
 
@@ -70,19 +80,11 @@ const initAside = () => {
     const deltaY = startY - currentY;
 
     if (currentState === "closed" && deltaY > 50) {
-      aside.classList.add("o-aside--open");
-      currentState = "open";
-      overlay.classList.add("overlay--show");
-      lockScroll(true);
-      setA11YProperties(currentState);
+      openSheet();
     }
 
     if (currentState === "open" && deltaY < -50) {
-      aside.classList.remove("o-aside--open");
-      currentState = "closed";
-      lockScroll(false);
-      overlay.classList.remove("overlay--show");
-      setA11YProperties(currentState);
+      closeSheet();
     }
   };
 
@@ -101,14 +103,8 @@ const initAside = () => {
 
   // close bottom-sheet if link is clicked
   window.onclick = (e) => {
-    if (isMobile()) {
-      if (e.target.classList.contains("o-aside__toc-link")) {
-        aside.classList.remove("o-aside--open");
-        currentState = "closed";
-        overlay.classList.remove("overlay--show");
-        lockScroll(false);
-        setA11YProperties(currentState);
-      }
+    if (isMobile() && e.target.classList.contains("o-aside__toc-link")) {
+      closeSheet();
     }
   };
 
