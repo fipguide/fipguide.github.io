@@ -208,4 +208,5 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
