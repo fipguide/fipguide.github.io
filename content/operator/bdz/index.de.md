@@ -31,7 +31,7 @@ Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft
 
 {{% expander "Cross-country International Train (IC-INT) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
+Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja
