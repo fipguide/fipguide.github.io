@@ -8,24 +8,21 @@ function setA11YProperties(currentState) {
   const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
 
-  if (isMobile()) {
-    switch (currentState) {
-      case "closed":
+  if (isMobile() && asideContent) {
+    if (currentState === "closed") {
         asideContent.setAttribute("role", "dialog");
         asideContent.setAttribute("aria-hidden", "true");
         handleBtn.setAttribute("aria-expanded", "false");
-        break;
-      case "open":
+    } else if (currentState === "open") {
         asideContent.setAttribute("aria-hidden", "false");
         handleBtn.setAttribute("aria-expanded", "true");
-        break;
-    }
   } else {
     asideContent.setAttribute("aria-hidden", "false");
     asideContent.removeAttribute("role", "dialog");
     handleBtn.setAttribute("aria-expanded", "false");
+    }
   }
-}
+};
 
 function initAside() {
   const aside = document.querySelector(".o-aside");
