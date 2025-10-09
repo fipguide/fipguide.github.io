@@ -1,30 +1,30 @@
 import * as mq from "./mediaqueries";
 
-function isMobile() {
+const isMobile = () => {
   return window.matchMedia(mq.maxMD).matches;
-}
+};
 
-function setA11YProperties(currentState) {
+const setA11YProperties = (currentState) => {
   const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
 
   if (isMobile() && asideContent) {
     if (currentState === "closed") {
-        asideContent.setAttribute("role", "dialog");
-        asideContent.setAttribute("aria-hidden", "true");
-        handleBtn.setAttribute("aria-expanded", "false");
+      asideContent.setAttribute("role", "dialog");
+      asideContent.setAttribute("aria-hidden", "true");
+      handleBtn.setAttribute("aria-expanded", "false");
     } else if (currentState === "open") {
-        asideContent.setAttribute("aria-hidden", "false");
-        handleBtn.setAttribute("aria-expanded", "true");
-  } else {
-    asideContent.setAttribute("aria-hidden", "false");
-    asideContent.removeAttribute("role", "dialog");
-    handleBtn.setAttribute("aria-expanded", "false");
+      asideContent.setAttribute("aria-hidden", "false");
+      handleBtn.setAttribute("aria-expanded", "true");
+    } else {
+      asideContent.setAttribute("aria-hidden", "false");
+      asideContent.removeAttribute("role", "dialog");
+      handleBtn.setAttribute("aria-expanded", "false");
     }
   }
 };
 
-function initAside() {
+const initAside = () => {
   const aside = document.querySelector(".o-aside");
   const handleBtn = document.querySelector(".o-aside__header");
   const overlay = document.getElementById("overlay");
@@ -33,11 +33,11 @@ function initAside() {
 
   setA11YProperties(currentState);
 
-  function lockScroll(lock) {
+  const lockScroll = (lock) => {
     document.body.style.overflow = lock ? "hidden" : "";
-  }
+  };
 
-  function toggleSheet() {
+  const toggleSheet = () => {
     if (currentState === "closed") {
       aside.classList.add("o-aside--open");
       currentState = "open";
@@ -49,7 +49,7 @@ function initAside() {
       lockScroll(false);
       setA11YProperties(currentState);
     }
-  }
+  };
 
   handleBtn.addEventListener("click", toggleSheet);
 
@@ -112,15 +112,15 @@ function initAside() {
     }
   };
 
-  function getMaxOpenHeight() {
+  const getMaxOpenHeight = () => {
     return window.innerHeight - 120;
-  }
+  };
 
   // set maxOpenHeight in order to window height
-  function limitAsideHeight() {
+  const limitAsideHeight = () => {
     const maxOpenHeight = getMaxOpenHeight();
     aside.style.maxHeight = `${maxOpenHeight}px`;
-  }
+  };
 
   // set maxOpenHeight on load and resize
   window.addEventListener("load", () => {
@@ -132,7 +132,7 @@ function initAside() {
     limitAsideHeight();
     setA11YProperties(currentState);
   });
-}
+};
 
 if (document.readyState === "interactive") {
   initAside();
