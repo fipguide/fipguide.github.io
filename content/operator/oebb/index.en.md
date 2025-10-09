@@ -266,10 +266,6 @@ Interrupting a journey is only possible for distances of 101 km or more and does
 
 Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
 
-## Recommendations
-
-The ÖBB Lounges in Wien Hbf, Wien Meidling, Linz Hbf, Salzburg Hbf, Graz Hbf, Klagenfurt Hbf, and Innsbruck Hbf can be used with a first-class FIP 50 Ticket or a FIP Coupon. With second-class tickets, paid lounge access can be purchased, see [ÖBB Website](https://www.oebb.at/en/reiseplanung-services/am-bahnhof/lounges).
-
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

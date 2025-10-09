@@ -266,10 +266,6 @@ Arrêts intermédiaires sont possible uniquement pour les distances de 101 km 
 
 À part le supplément pour le Coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les Billets FIP 50, sont valables sur tous les trains ÖBB.
 
-## Recommandations
-
-Les salons ÖBB de Wien Hbf, Wien Meidling, Linz Hbf, Salzburg Hbf, Graz Hbf, Klagenfurt Hbf et Innsbruck Hbf peuvent être utilisés avec un Billet FIP 50 ou un Coupon FIP de première classe. Avec un billet de seconde classe, l’accès au salon peut être acheté moyennant un supplément, voir le [site web de l’ÖBB](https://www.oebb.at/en/reiseplanung-services/am-bahnhof/lounges).
-
 ## Sources
 
 [^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
