@@ -18,7 +18,7 @@ The rail network in Bulgaria is mainly oriented east-west, with various routes c
 
 The network is rather old and most connections are quite slow. There is no real regular-interval timetable, and most routes are served by only a few trains per day. Exceptions exist in suburban traffic, for example between Plovdiv and Asenovgrad, where trains run about every 75 minutes. Delays are not uncommon, but on long routes, these are often made up thanks to generous buffer times.
 
-A highlight is the north-south routes through the Balkan mountains, especially the Rhodope narrow-gauge railway between Septemvri and Dobrinishte, which is operated by BDŽ and thus FIP-valid. Dining cars are also used on this line.
+The route highlights include, on the one hand, the north–south lines running through the Balkan Mountains, and on the other hand — and especially — the Rhodope Railway between Septemvri and Dobrinishte: a narrow-gauge line operated by BDŽ and therefore usable with a FIP Ticket. Dining cars are also used on this line.
 
 ## Arrival and Border Points
 
@@ -37,9 +37,9 @@ Currently, there are no passenger trains between Greece and Bulgaria.
 
 ### Romania
 
-There are a few daily trains between Romania and Bulgaria, which are the most important rail link between Bulgaria and the rest of Europe. Especially in the summer season, these trains are relevant, as there is then a daily through train pair between the capitals Bucharest and Sofia, and via through coaches to the Black Sea at Varna and even overnight to Istanbul, Turkey. Outside the season, this train pair only runs between Bucharest and Ruse, the first stop in Bulgaria, where a change is required. To use these cross-border trains with FIP, you need either FIP Coupons for both countries or a continuous FIP 50 Ticket. In addition, a reservation is mandatory for the entire journey. Outside the summer season, a reservation for the Bulgarian section from Ruse is sufficient.
+There are a few daily trains between Romania and Bulgaria, which are the most important rail link between Bulgaria and the rest of Europe. Especially in the summer season, these trains are relevant, as there is then a daily through train pair between the capitals Bucharest and Sofia, and via through coaches to the Black Sea at Varna and even overnight to Istanbul, Turkey. Outside the season, this train pair only runs between Bucharest and Ruse, the first stop in Bulgaria, where a change is required. To use these cross-border trains with FIP, you need either FIP Coupons for both countries or a continuous FIP 50 Ticket. In addition, a reservation is mandatory for the entire journey. Outside the summer season, a reservation for the Bulgarian section from Ruse is sufficient. For the night train, a berth in a couchette or sleeper car can also be reserved for an additional fee.
 
-For the night train, a surcharge for a berth or sleeper can also be reserved. Another daily connection exists via the Vidin border crossing, with a train from Craiova (Romania) to Vidin (Bulgaria). For this route, FIP Coupons for both countries or a continuous FIP 50 Ticket are sufficient.
+Another daily connection exists via the Vidin border crossing, with a train from Craiova (Romania) to Vidin (Bulgaria). For this route, FIP Coupons for both countries or a continuous FIP 50 Ticket are sufficient.
 
 ### Serbia
 
@@ -49,4 +49,4 @@ Currently, only the private Optima Express runs once a week across the border be
 
 During the summer season, a night train runs between Istanbul Halkali and various destinations in Bulgaria, including Sofia and Plovdiv, or via Ruse north to Bucharest, Romania. Since FIP is not valid in Turkey, you can only use a FIP 50 Ticket or FIP Coupon for the Bulgarian or Romanian section. For through journeys, it may be easier to buy a full-price ticket including a berth or sleeper.
 
-For the route between Turkey and Bulgaria, tickets can only be purchased at an international ticket counter on site. If Romania is the start or end point, tickets can also be bought via the [Romanian State Railways CFR](https://bileteinternationale.cfrcalatori.ro/en/). The private Optima Express also runs on this route, but FIP is not valid.
+For the route between Turkey and Bulgaria, tickets can only be purchased at an international ticket counter on site. If Romania is the start or end point, tickets can also be bought via the [Romanian State Railways CFR](https://bileteinternationale.cfrcalatori.ro/en/). The private Optima Express also runs on this route, but FIP is not valid ([see Serbia](#serbia)).
