@@ -21,5 +21,5 @@ Aux guichets BDŽ, il est possible d'acheter des Billets FIP 50 pour des voyages
 {{% booking-section "reservations" %}}
 **Réservations**
 
-Les réservations pour les trains peuvent être effectuées sur place pour 1 Lev (0,51 €). Si vous utilisez un Coupon FIP, il doit être présenté ; le numéro du coupon sera imprimé sur le billet.
+Les réservations pour les trains peuvent être effectuées sur place pour 1 Lev ou 0,51 €. Si vous utilisez un Coupon FIP, il doit être présenté ; le numéro du coupon sera imprimé sur le billet.
 {{% /booking-section %}}

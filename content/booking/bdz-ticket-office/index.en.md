@@ -21,5 +21,5 @@ At BDŽ ticket offices, you can purchase FIP 50 Tickets for travel within Bulgar
 {{% booking-section "reservations" %}}
 **Reservations**
 
-Reservations for trains can be purchased on site for 1 Lev (0.51 €). If you are using an FIP Coupon, you must present it; the coupon number will be printed on the ticket.
+Reservations for trains can be purchased on site for 1 Lev or €0.51. If you are using an FIP Coupon, you must present it; the coupon number will be printed on the ticket.
 {{% /booking-section %}}

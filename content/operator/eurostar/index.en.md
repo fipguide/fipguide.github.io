@@ -12,7 +12,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 
 ## Summary
 
-- FIP Coupons are not accepted. However, it is possible to purchase discounted FIP tickets at a fixed FIP Global Fare.
+- FIP Coupons are not accepted. However, it is possible to purchase discounted FIP Tickets at a fixed FIP Global Fare.
 - All trains require reservations.
 
 ## Validity of FIP Tickets
@@ -22,7 +22,7 @@ FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ⛔ \
 FIP Global Fare: ✅
 
-The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
+The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
 
 ## Train Categories and Reservations
 
@@ -112,7 +112,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     reservations=nil
 %}}
 
-**FIP Global Fare**
+#### FIP Global Fare
 
 When booking, the FIP cards of all travelers must be presented.
 {{% /booking %}}
@@ -178,7 +178,7 @@ If you arrive at a different London terminus and need to use the Underground to 
 
 **Ticket Purchase**
 
-FIP tickets to London International CIV can likely only be purchased at ticket counters in stations in Great Britain.
+FIP Tickets to London International CIV can likely only be purchased at ticket counters in stations in Great Britain.
 
 Without FIP discount, online booking is possible via [Trainsplit](https://trainsplit.com/). You must deselect the _Use Split Tickets_ option. Then, book a ticket from or to _London International (for Eurostar) (LNE)_. The fare must include _EURO_ in the name for connection protection. Otherwise, it is a regular ticket to London without connection protection. [^3]
 

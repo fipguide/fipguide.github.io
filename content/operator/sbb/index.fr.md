@@ -40,7 +40,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 **Réservation obligatoire :** ⚠️ uniquement pour les trajets transfrontaliers
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Description :** \
 Trains internationaux vers l’Allemagne et l’Italie.
 
@@ -109,6 +109,8 @@ Avec les Billets FIP 50, il est possible de réserver des trajets continus sur l
 {{% booking id="sbb-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-machine" /%}}
+
+{{% booking id="db-ticket-office"/%}}
 
 ### À bord du train
 
