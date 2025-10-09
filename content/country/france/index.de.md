@@ -9,6 +9,7 @@ params:
     - RATP
     - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Eisenbahnen auf Korsika)
+    - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#internationale-frecciarossa-züge-nach-paris" >}} "Frecciarossa (Trenitalia)")'
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -19,7 +20,7 @@ params:
 
 In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da die meisten Züge von der staatlichen Bahngesellschaft [SNCF]({{< ref "/operator/sncf" >}} "SNCF") betrieben werden. Im Fernverkehr sind jedoch immer Reservierungen erforderlich und im Low-Cost Angebot der SNCF [OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo") können gar keine FIP Vergünstigungen genutzt werden.
 
-Auf internationalen Verbindungen können [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge Richtung Großbritannien, Belgien, Niederlande und Deutschland mit speziellen FIP Globalpreisen genutzt werden. Auch für internationale `TGV` Züge gibt es Globalpreise (außer nach Deutschland). Des Weiteren können mit FIP Globalpreistickets auch die AVE Züge der spanischen Renfe auf der Strecke nach Spanien genutzt werden. Frecciarossa Züge von Trenitalia Richtung Italien können hingegen in Frankreich nicht mit FIP genutzt werden. Durch eine Reservierungspflicht in allen Fernverkehrszügen in Frankreich ist eine versehentliche Mitfahrt ohne Reservierung ausgeschlossen.
+Auf internationalen Verbindungen können [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge Richtung Großbritannien, Belgien, Niederlande und Deutschland mit speziellen FIP Globalpreisen genutzt werden. Auch für internationale `TGV` Züge gibt es Globalpreise (außer nach Deutschland). Des Weiteren können mit FIP Globalpreistickets auch die AVE Züge der spanischen Renfe auf der Strecke nach Spanien genutzt werden. Frecciarossa Züge von Trenitalia Richtung Italien können hingegen in Frankreich nicht mit FIP genutzt werden.
 
 ## Wissenswertes
 
@@ -55,7 +56,7 @@ Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Paris
 
 Alternativ verkehren auch [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge von Brüssel nach Paris, die ebenfalls mit FIP Globalpreistickets genutzt werden können, jedoch günstiger als die `TGV` Züge sind.
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Belgien nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der SNCB im Belgischen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+Außerdem gibt es verschiedene Regionalzugverbindungen von Belgien nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets sowie die Kombination aus einem FIP Freifahrtschein der SNCB und SNCF.
 
 ### Luxemburg
 
@@ -91,9 +92,9 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léma
 
 Von Mailand verkehren grenzüberschreitende Frecciarossa Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, es müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
+Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, es müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
 
-Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
+Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP 50 Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
 
 ### Spanien
 
