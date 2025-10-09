@@ -18,9 +18,8 @@ body {
   }
 }
 @media (max-width: #{$breakpoint-lg}) {
-  body:has(article.o-single--with-sidemenu:not(:has(.o-aside__newspage))) {
+  body:has(article.o-single--with-sidemenu):not(:has(.o-aside__newspage)) {
     margin: 0 0 7rem 0;
-    background-color: lightyellow;
   }
 }
 
