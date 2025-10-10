@@ -85,7 +85,6 @@ From October 18, 2025, the `IC` line Amsterdam – Berlin will gradually be conv
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or on site at ticket machines or counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
 {{% /expander %}}
 
-
 {{% expander "Sneltrein (RE)" traincategory category %}}
 **Description:** \
 Regional trains with more stops than Intercity, but still only at important stations. \
