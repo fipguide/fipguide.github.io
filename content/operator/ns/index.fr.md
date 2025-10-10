@@ -82,9 +82,11 @@ Exception : le `IC` Amsterdam - Berlin, qui est un vrai Intercity transfrontalie
 **Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison)
 {{% /expander %}}
 
-{{% expander "Sneltrein (RE)" traincategory category %}}
+{{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
 **Description :** \
-Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales. \
+Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
+
+Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo - Hamm (Allemagne), Maastricht - Aix-la-Chapelle (Allemagne) et Arnhem - Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP. \
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -95,10 +97,6 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}
-
-{{% highlight important %}}
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo - Hamm (Allemagne), Maastricht - Aix-la-Chapelle (Allemagne) et Arnhem - Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
-{{% /highlight %}}
 
 ## Achat de billets et réservations
 
