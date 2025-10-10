@@ -93,3 +93,14 @@ p:has(+ span) {
 .o-single__container > *:last-child {
   margin-bottom: 0;
 }
+
+.o-single__content {
+  h3 {
+    margin-bottom: 0.4rem;
+    margin-top: 2rem;
+  }
+
+  h4 {
+    margin-bottom: 0.4rem;
+  }
+}

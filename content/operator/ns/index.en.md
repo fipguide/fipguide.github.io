@@ -36,7 +36,7 @@ High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
-When using FIP 50 tickets, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons. \
+When using FIP 50 tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons. \
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
 {{% /expander %}}
 
@@ -74,17 +74,22 @@ Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the su
 With FIP 50 tickets, prices may vary by train category.
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
+{{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Description:** \
 Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops.
 An exception is the `IC` Amsterdam - Berlin, which is a true cross-border `IC` with stops only at major hubs. \
 **Reservation possible:** only on the `IC` Amsterdam - Berlin \
-**Reservation required:** no (cross-border during high season: yes)
+**Reservation required:** no (cross-border during high season: yes) \
+**Supplement**: ⚠️ \
+From October 18, 2025, the `IC` line Amsterdam – Berlin will gradually be converted to ICE 3neo trains. When using FIP 50 tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required when using FIP Coupons. \
+The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or on site at ticket machines or counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
 {{% /expander %}}
 
-{{% expander "Sneltrein (RE)" traincategory category %}}
+{{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
 **Description:** \
-Regional trains with more stops than Intercity, but still only at important stations. \
+Regional trains with more stops than Intercity, but still only at important stations.
+
+ℹ️ Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -97,7 +102,7 @@ Regional trains for short connections, stopping at every station along the route
 {{% /expander %}}
 
 {{% highlight important %}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
+Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
 {{% /highlight %}}
 
 ## Ticket and Reservation Purchase

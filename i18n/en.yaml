@@ -13,6 +13,9 @@ booking:
   reservation-costs: Reservation Costs
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+contentNavigation:
+  button: Open and close content overview
+  title: Content overview
 countries:
   overview: Countries with FIP acceptance
   selection:
