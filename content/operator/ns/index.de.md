@@ -36,7 +36,7 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ nein (außer grenzüberschreitend zur Hochsaison) \
 **Zuschlag**: ⚠️ \
-Bei der Nutzung von FIP 50 Tickets muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
+Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 {{% /expander %}}
 
@@ -74,12 +74,14 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
+{{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
-Eine Ausnahme bildet der `IC` Amsterdam - Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
-**Reservierung möglich:** nur beim `IC` Amsterdam - Berlin \
-**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison)
+Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. Eine Ausnahme bildet der `IC` Amsterdam – Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
+**Reservierung möglich:** nur beim `IC` Amsterdam – Berlin \
+**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
+**Zuschlag**: ⚠️ \
+Ab dem 18.10.2025 wird die `IC` Linie Amsterdam – Berlin sukzessive auf ICE 3neo-Fahrzeuge umgestellt. Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3€ pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
+Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
@@ -97,6 +99,10 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}
+
+{{% highlight important %}}
+Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
+{{% /highlight %}}
 
 ## Ticket- und Reservierungskauf
 
