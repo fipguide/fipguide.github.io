@@ -85,11 +85,13 @@ const initAside = () => {
   handleBtn.addEventListener("touchend", dragEnd);
 
   // close bottom-sheet if link is clicked
-  window.onclick = (e) => {
-    if (isMobile() && e.target.classList.contains("o-aside__toc-link")) {
-      closeSheet();
-    }
-  };
+  document.querySelectorAll(".o-aside__toc-link").forEach((link) => {
+    link.addEventListener("click", () => {
+      if (isMobile()) {
+        closeSheet();
+      }
+    });
+  });
 
   const getMaxOpenHeight = () => {
     return window.innerHeight - 120;
