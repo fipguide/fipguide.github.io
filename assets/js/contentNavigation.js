@@ -93,20 +93,9 @@ const initAside = () => {
     });
   });
 
-  const getMaxOpenHeight = () => {
-    return window.innerHeight - 120;
-  };
-
-  // set maxOpenHeight in order to window height
-  const limitAsideHeight = () => {
-    const maxOpenHeight = getMaxOpenHeight();
-    aside.style.maxHeight = `${maxOpenHeight}px`;
-  };
-
   let wasMobile = isMobile();
 
   const handleResize = () => {
-    limitAsideHeight();
     if (isMobile() && !wasMobile) {
       wasMobile = true;
       closeSheet();
