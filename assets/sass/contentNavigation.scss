@@ -113,13 +113,20 @@
 
     &--open {
       transform: translateY(0);
+
+      > .o-aside__content {
+        border-top: 1px solid black;
+      }
+    }
+
+    &:not(.o-aside--open) > .o-aside__header {
+      padding-bottom: env(safe-area-inset-bottom);
     }
 
     &__content {
       background: var(--bg-default);
       overflow-y: scroll;
       overscroll-behavior-y: contain;
-      border-top: 1px solid black;
       border-left: var(--border);
       border-right: var(--border);
 
