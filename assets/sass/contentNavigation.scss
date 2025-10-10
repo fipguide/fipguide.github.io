@@ -168,3 +168,7 @@
   inset: 0;
   z-index: 3;
 }
+
+body:has(.overlay--show) {
+  overflow: hidden;
+}
