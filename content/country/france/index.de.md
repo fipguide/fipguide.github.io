@@ -61,7 +61,6 @@ Aus Luxemburg betreibt die SNCF internationale `TGV` Züge von Luxemburg nach Pa
 Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein Freifahrtschein der CFL nicht unbedingt erforderlich. Bei der Fahrt nach Frankreich muss aber ein grenzüberschreitendes Ticket (z. B. ein FIP 50 Ticket) vorhanden sein.
 {{% /highlight %}}
 
-
 ### Deutschland
 
 Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können auch über die Deutsche Bahn erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
@@ -103,4 +102,5 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
 
 ### Monaco
+
 Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.

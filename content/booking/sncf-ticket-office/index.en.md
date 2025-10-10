@@ -30,4 +30,3 @@ SNCF sells tickets with a 50% FIP discount at its ticket offices.
 SNCF sells reservations for long-distance trains.
 
 {{% /booking-section %}}
-

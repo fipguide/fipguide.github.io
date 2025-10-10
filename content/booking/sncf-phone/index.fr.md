@@ -42,4 +42,3 @@ La SNCF vend des billets avec une réduction FIP de 50%.
 La SNCF vend des réservations pour les trains longue distance.
 
 {{% /booking-section %}}
-

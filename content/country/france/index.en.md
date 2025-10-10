@@ -104,4 +104,3 @@ With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with a speci
 ### Monaco
 
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 tickets and SNCF free passes are valid on this route.
-
