@@ -13,6 +13,7 @@ params:
     - San Marino
     - Schweden
     - Türkei
+    - Ukraine
     - Vatikanstadt
     - Zypern
 ---
