@@ -82,9 +82,11 @@ An exception is the `IC` Amsterdam - Berlin, which is a true cross-border `IC` w
 **Reservation required:** no (cross-border during high season: yes)
 {{% /expander %}}
 
-{{% expander "Sneltrein (RE)" traincategory category %}}
+{{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
 **Description:** \
-Regional trains with more stops than Intercity, but still only at important stations. \
+Regional trains with more stops than Intercity, but still only at important stations.
+
+ℹ️ Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
@@ -95,10 +97,6 @@ Regional trains for short connections, stopping at every station along the route
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}
-
-{{% highlight important %}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
-{{% /highlight %}}
 
 ## Ticket and Reservation Purchase
 

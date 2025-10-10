@@ -199,6 +199,8 @@ L'interruption de voyage n'est pas autorisée pour les trajets intérieurs jusqu
 
 ## Recommandations
 
+Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent être utilisés avec un Billet FIP 50 ou un Coupon FIP de première classe. Ils sont également accessibles avec un billet de seconde classe accompagné d’une réservation de siège. [^2]
+
 {{% highlight tip %}}
 České dráhy jouit d'une bonne réputation auprès des voyageurs pour sa fiabilité et son confort, avec un service de qualité. Le personnel est généralement très aimable et serviable. Les correspondances attendent souvent en cas de retard, sauf dans les grands nœuds comme Praha hl. n. L'utilisation de l'application ČD ("Můj vlak") est vivement recommandée pour accéder aux données en temps réel, compositions des trains et autres informations utiles.
 {{% /highlight %}}
@@ -206,3 +208,5 @@ L'interruption de voyage n'est pas autorisée pour les trajets intérieurs jusqu
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)

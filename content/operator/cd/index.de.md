@@ -201,6 +201,8 @@ Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfer
 
 ## Empfehlungen
 
+Die ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav und Brno hl. n. können mit einem FIP 50 Ticket oder FIP Freifahrtschein der 1. Klasse genutzt werden. Dies ist auch mit Fahrkarten der 2. Klasse in Kombination mit einer Sitzplatzreservierung möglich. [^2]
+
 {{% highlight tip %}}
 Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverlässiges und meist komfortables Reisen mit einem sehr gutem Service steht. Die Beschäftigten der Bahn sind meistens sehr freundlich und helfen gerne weiter. Anschlüsse warten oft bei Verspätungen, außer in großen Knotenbahnhöfen wie Praha hl. n. Die Nutzung der App der ČD ("Můj vlak") kann sehr empfehlenswert sein, da hier neben Live-Daten auch die Wagenreihungen und weitere wichtige Informationen einfach eingesehen werden können.
 {{% /highlight %}}
@@ -208,3 +210,5 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
