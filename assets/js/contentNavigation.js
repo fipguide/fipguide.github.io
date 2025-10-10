@@ -54,7 +54,6 @@ const initAside = () => {
   const dragStart = (e) => {
     startY = e.clientY || e.touches?.[0].clientY;
     isDragging = true;
-    e.preventDefault();
   };
 
   const dragging = (e) => {
