@@ -44,6 +44,7 @@ const initAside = () => {
   };
 
   handleBtn.addEventListener("click", toggleSheet);
+  overlay.addEventListener("click", closeSheet);
 
   // Drag support
   let startY = 0;
