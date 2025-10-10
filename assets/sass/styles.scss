@@ -19,7 +19,7 @@ body {
 }
 @media (max-width: #{$breakpoint-lg}) {
   body:has(article.o-single--with-sidemenu):not(:has(.o-newspage)) {
-    margin: 0 0 7rem 0;
+    margin: 0 0 calc(7rem + env(safe-area-inset-bottom)) 0;
   }
 }
 
