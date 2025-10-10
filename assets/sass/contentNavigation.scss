@@ -113,18 +113,20 @@
 
     &--open {
       transform: translateY(0);
-
-      > .o-aside__content {
-        border-top: 1px solid black;
-      }
     }
 
-    &:not(.o-aside--open) > .o-aside__content {
-      pointer-events: none;
-      user-select: none;
+    &:not(.o-aside--open) {
+      > .o-aside__header {
+        border-bottom: none;
+      }
 
-      * {
-        opacity: 0;
+      > .o-aside__content {
+        pointer-events: none;
+        user-select: none;
+
+        * {
+          opacity: 0;
+        }
       }
     }
 
@@ -151,6 +153,7 @@
       gap: 1.5rem;
       width: 100%;
       border: var(--border);
+      border-bottom: 1px solid gray;
       padding: 1rem;
       height: 6.4rem;
       border-radius: 1rem 1rem 0 0;
