@@ -119,8 +119,13 @@
       }
     }
 
-    &:not(.o-aside--open) > .o-aside__header {
-      padding-bottom: env(safe-area-inset-bottom);
+    &:not(.o-aside--open) > .o-aside__content {
+      pointer-events: none;
+      user-select: none;
+
+      * {
+        opacity: 0;
+      }
     }
 
     &__content {
