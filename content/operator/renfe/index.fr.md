@@ -12,12 +12,12 @@ Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite d
 
 ## Résumé
 
-- Les billets FIP gratuits sont acceptés uniquement sur les trains de banlieue (Cercanías), pas sur les trains avec réservation obligatoire.
-- Pour les trains avec réservation obligatoire, un billet au tarif FIP Global (indépendant de la distance) peut être acheté, incluant la réservation ; les coupons FIP ne sont pas nécessaires.
-- Les billets FIP ne sont pas acceptés dans les trains Avlo.
+- Les FIP Coupons sont acceptés uniquement sur les trains de banlieue (Cercanías), pas sur les trains avec réservation obligatoire.
+- Pour les trains avec réservation obligatoire, un billet au tarif FIP Global (indépendant de la distance) peut être acheté, incluant la réservation ; les Coupons FIP ne sont pas nécessaires.
+- Les Billets FIP ne sont pas acceptés dans les trains Avlo.
 - Pour les AVE internationaux entre Madrid et Marseille ou Lyon et Barcelone, les mêmes tarifs FIP Global s’appliquent que pour les AVE nationaux.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 - Coupon FIP : ✅ (sauf trains à réservation obligatoire)
 - Coupon FIP accompagnant : ⛔
@@ -27,14 +27,14 @@ Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite d
 ## Catégories de trains et réservations
 
 {{% highlight important %}}
-Seuls les trains de banlieue (Cercanías) sont accessibles sans restriction avec les coupons FIP gratuits. Pour les autres trains, il faut généralement acheter un billet au tarif FIP Global.
+Seuls les trains de banlieue (Cercanías) sont accessibles sans restriction avec les Coupons FIP gratuits. Pour les autres trains, il faut généralement acheter un billet au tarif FIP Global.
 {{% /highlight %}}
 
 ### Longue distance
 
 {{% expander "AVE ⚠️" traincategory "long-distance" %}}
 **Description :** \
-Trains à grande vitesse à voie normale (jusqu’à 300 km/h). Les coupons FIP gratuits ne sont pas acceptés.
+Trains à grande vitesse à voie normale (jusqu’à 300 km/h). Les Coupons FIP gratuits ne sont pas acceptés.
 
 Les AVE internationaux vers/depuis la France sont réservables aux mêmes conditions que les AVE nationaux, mais il n’existe pas de catégorie Premium. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole. L’achat à bord devrait être possible lors de l’embarquement en France, mais il n’existe pas encore de retour d’expérience.
 
@@ -56,7 +56,7 @@ Trains à grande vitesse à bas prix (jusqu’à 300 km/h). \
 
 {{% expander "Euromed ⚠️" traincategory "long-distance" %}}
 **Description :** \
-Trains à grande vitesse à écartement variable (Figueres <-> Alicante). Les coupons FIP gratuits ne sont pas acceptés. \
+Trains à grande vitesse à écartement variable (Figueres <-> Alicante). Les Coupons FIP gratuits ne sont pas acceptés. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP Global (indépendant de la distance) :** \
@@ -67,7 +67,7 @@ Premium : 23,50€
 
 {{% expander "Alvia ⚠️" traincategory "long-distance" %}}
 **Description :** \
-Trains à grande vitesse à écartement variable (jusqu’à 250 km/h). Les coupons FIP gratuits ne sont pas acceptés. \
+Trains à grande vitesse à écartement variable (jusqu’à 250 km/h). Les Coupons FIP gratuits ne sont pas acceptés. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP Global (indépendant de la distance) :** \
@@ -77,7 +77,7 @@ Elige Confort : 10€
 
 {{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
 **Description :** \
-Trains de voyageurs entre le régional et la grande vitesse (jusqu’à 250 km/h). Les coupons FIP gratuits ne sont pas acceptés. \
+Trains de voyageurs entre le régional et la grande vitesse (jusqu’à 250 km/h). Les Coupons FIP gratuits ne sont pas acceptés. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP Global (indépendant de la distance) :** \
@@ -87,7 +87,7 @@ Elige Confort : 10€
 
 {{% expander "Celta : Porto - Vigo ⚠️" traincategory "long-distance" %}}
 **Description :** \
-Le Celta est un train international entre Renfe et CP (Portugal) de Porto à Vigo. Les coupons FIP gratuits ne sont pas acceptés. \
+Le Celta est un train international entre Renfe et CP (Portugal) de Porto à Vigo. Les Coupons FIP gratuits ne sont pas acceptés. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP Global (indépendant de la distance) :** 4€
@@ -97,7 +97,7 @@ Le Celta est un train international entre Renfe et CP (Portugal) de Porto à Vig
 
 {{% expander "Avant ⚠️" traincategory "middle-distance" %}}
 **Description :** \
-Trains à grande vitesse, durée de trajet < 90 minutes. Les coupons FIP gratuits ne sont pas acceptés. \
+Trains à grande vitesse, durée de trajet < 90 minutes. Les Coupons FIP gratuits ne sont pas acceptés. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP Global (indépendant de la distance) :** 4€
@@ -105,7 +105,7 @@ Trains à grande vitesse, durée de trajet < 90 minutes. Les coupons FIP gratuit
 
 {{% expander "MD ⚠️" traincategory "middle-distance" %}}
 **Description :** \
-Trains régionaux accélérés. Les coupons FIP gratuits ne sont acceptés que sur les trains non soumis à réservation obligatoire de cette catégorie. Actuellement, cela ne concerne que la ligne Barcelone(-Girona-Figueres)-Port Bou. \
+Trains régionaux accélérés. Les Coupons FIP gratuits ne sont acceptés que sur les trains non soumis à réservation obligatoire de cette catégorie. Actuellement, cela ne concerne que la ligne Barcelone(-Girona-Figueres)-Port Bou. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui (Exception : ligne Barcelone(-Girona-Figueres)-Port Bou[^1]) \
 **Tarif FIP Global (indépendant de la distance) :** 4€
@@ -115,7 +115,7 @@ Trains régionaux accélérés. Les coupons FIP gratuits ne sont acceptés que s
 
 {{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
 **Description :** \
-Trains de banlieue, comparables à un RER/S-Bahn. Les coupons FIP gratuits sont valables sans restriction.
+Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont valables sans restriction.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -144,7 +144,7 @@ Trains de banlieue, comparables à un RER/S-Bahn. Les coupons FIP gratuits sont 
 
 ### En ligne
 
-Les billets FIP Global et FIP 50 ne peuvent pas être achetés en ligne.
+Les Billets FIP Global et FIP 50 ne peuvent pas être achetés en ligne.
 
 ### Par téléphone
 
@@ -176,12 +176,12 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les
 
 ### Arrêts intermédiaires
 
-Les trajets avec billets FIP 50 ou FIP Global ne peuvent pas être interrompus. [^2]
+Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. [^2]
 
 ## Recommandations
 
 {{% highlight tip %}}
-Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, accès limité, peu de flexibilité. Les coupons FIP sont donc peu utiles, sauf pour les Cercanías. Des portiques sont présents dans de nombreuses gares – il faut demander l’ouverture manuelle par le personnel. En particulier dans la région de Madrid, les FIP gratuits ne sont pas toujours acceptés.
+Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, accès limité, peu de flexibilité. Les Coupons FIP sont donc peu utiles, sauf pour les Cercanías. Des portiques sont présents dans de nombreuses gares – il faut demander l’ouverture manuelle par le personnel. En particulier dans la région de Madrid, les FIP gratuits ne sont pas toujours acceptés.
 {{% /highlight %}}
 
 ## Sources

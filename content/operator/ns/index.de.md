@@ -18,7 +18,7 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Nie
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
@@ -47,7 +47,7 @@ Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüs
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
+Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3€ zu entrichten. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
@@ -84,9 +84,11 @@ Ab dem 18.10.2025 wird die `IC` Linie Amsterdam – Berlin sukzessive auf ICE 3n
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 {{% /expander %}}
 
-{{% expander "Sneltrein (RE)" traincategory category %}}
+{{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
 **Beschreibung:** \
-Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen. \
+Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
+
+ℹ️ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}

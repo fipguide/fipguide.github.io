@@ -31,16 +31,15 @@ Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft
 
 {{% expander "Cross-country International Train (IC-INT) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
+Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet. Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
-**Preis für Reservierung:** 1 Lew (0,51 €)
+**Reservierungspflicht:** ⚠️ Ja
 {{% /expander %}}
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
-Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem _R_ ersichtlich. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Resevierung genutzt werden können. \
+Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Sie sind teilweise reservierungspflichtig, dies ist in der Reiseauskunft an einem _R_ ersichtlich. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Teilweise (mit _R_ gekennzeichnet)
 {{% /expander %}}
@@ -54,7 +53,7 @@ Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden. Sie
 
 {{% expander "Regional Train (REG)" traincategory traincategory %}}
 **Beschreibung:** \
-Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben und nicht besonders schnell sind. Sie besitzen nur Wagen der 2. Klasse und sind nicht resevierungspflichtig, eine Reservierung ist teilweise aber möglich. \
+Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben und nicht besonders schnell sind. Sie besitzen nur Wagen der 2. Klasse und sind nicht reservierungspflichtig, eine Reservierung ist teilweise aber möglich. \
 **Reservierung möglich:** Teilweise \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -66,19 +65,7 @@ Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, d
 **Reservierungspflicht:** Nein
 {{% /expander %}}
 
-{{% expander "Nachtzug" traincategory traincategory %}}
-**Beschreibung:** \
-Züge die über Nacht verkehren und reservierungspflichtig sind. Der Preis für Reservierungen im Liege- oder Schlafwagen sind entsprechend höher als übliche Reservierungen. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja
-{{% /expander %}}
-
 ## Ticket- und Reservierungskauf
-
-### Online
-
-{{% booking id="bdz-website"
-subtitle="Für nationale Verbindungen innerhalb Bulgariens" /%}}
 
 ### Vor Ort
 
@@ -100,7 +87,7 @@ Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Tick
 
 ### Fahrtunterbrechungen
 
-Eine Fahrtunterbrechung ist bei einem durchgängien Ticket nicht gestattet.
+Eine Fahrtunterbrechung ist bei einem durchgängigen Ticket nicht gestattet.
 
 ## Empfehlungen
 

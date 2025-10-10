@@ -11,16 +11,16 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du Danemark. El
 
 ## Résumé
 
-- Les billets FIP 50 et les coupons FIP sont acceptés.
+- Les Billets FIP 50 et les Coupons FIP sont acceptés.
 - Les réservations ne sont généralement pas obligatoires.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
 Billets FIP 50 : ✅
 
-Les coupons FIP et billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un billet FIP 50 couvrant l’ensemble du trajet ou des coupons FIP valables dans les deux pays sont requis.
+Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un Billet FIP 50 couvrant l’ensemble du trajet ou des Coupons FIP valables dans les deux pays sont requis.
 
 ## Catégories de trains et réservations
 
@@ -97,7 +97,7 @@ Les enfants de moins de 16 ans bénéficient d'une réduction de 50 % sur le tar
 
 ### Arrêts intermédiaires
 
-Avec un billet FIP 50, le trajet peut être interrompu, mais cela doit être validé par le personnel du train.[^1]
+Avec un Billet FIP 50, le trajet peut être interrompu, mais cela doit être validé par le personnel du train.[^1]
 
 ### Aéroport de Copenhague
 
@@ -105,12 +105,12 @@ Les titres FIP ne sont pas valables sur les trains Øresundståg entre Copenhagu
 
 ### FIP 50 à Copenhague et Aarhus
 
-Les billets FIP 50 ne peuvent pas être émis pour des trajets uniquement internes à la région de Copenhague ou au secteur Aarhus-Grenaa. Seuls les trajets au-delà de ces régions sont autorisés. Les coupons FIP, eux, restent valables partout, y compris dans ces zones.
+Les Billets FIP 50 ne peuvent pas être émis pour des trajets uniquement internes à la région de Copenhague ou au secteur Aarhus-Grenaa. Seuls les trajets au-delà de ces régions sont autorisés. Les Coupons FIP, eux, restent valables partout, y compris dans ces zones.
 
 ### Utilisation des ferries
 
 {{% highlight inofficial %}}
-Selon certaines sources, les billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
+Selon certaines sources, les Billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
 {{% /highlight %}}
 
 ## Recommandations

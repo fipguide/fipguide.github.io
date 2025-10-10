@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SBB Ticket Machines"
-description: "Booking information for FIP tickets at SBB ticket machines"
+description: "Booking information for FIP Tickets at SBB ticket machines"
 
 params:
   fip_50: true

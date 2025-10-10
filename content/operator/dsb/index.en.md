@@ -17,7 +17,7 @@ The DSB (Danske Statsbaner) is the state-owned railway company in Denmark. It op
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
@@ -57,7 +57,7 @@ Regional trains provide local connections between various locations. Outside the
 
 {{% expander "S-tog (S)" traincategory category %}}
 **Description:** \
-The Copenhagen S-train is also operated by DSB and can therefore be used with FIP tickets. It operates at frequent intervals, stopping at all stations, and is comparable to S-train systems in other countries. \
+The Copenhagen S-train is also operated by DSB and can therefore be used with FIP Tickets. It operates at frequent intervals, stopping at all stations, and is comparable to S-train systems in other countries. \
 **Reservation possible:** no \
 **Reservation mandatory:** no
 {{% /expander %}}

@@ -7,7 +7,7 @@ country:
 operator: "cp"
 ---
 
-Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
+Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
 
 ## Zusammenfassung
 
@@ -16,7 +16,7 @@ Die CP (Comboios de Portugal) ist die portugisische Staatsbahn und die wichtigst
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅ \
 FIP Globalpreis: ✅ (nur Celta Zug)
@@ -33,7 +33,7 @@ Reservierungen sind nur im Fernverkehr (`AP` und `IC`) verpflichtend.
 **Beschreibung:** \
 Schnelle Neigetechnik-Züge (Pendolino), die auf der Strecke zwischen Braga, Porto, Lissabon und Faro mit wenigen Halten verkehren. Die Züge bieten einen hohen Komfort, Wi-Fi, Steckdosen an jedem Platz sowie einen Cafeteria- und Barservice.
 
-FIP Freifahrtsscheine (egal welcher Klasse) sind nur in der zweiten Klasse gültig. [^1]
+FIP Freifahrtscheine (egal welcher Klasse) sind nur in der zweiten Klasse gültig. [^1]
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
@@ -64,7 +64,7 @@ Regional-Züge mit vielen Halten. \
 
 {{% expander "Comboios Urbanos (U)" traincategory "category" %}}
 **Beschreibung:** \
-Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtsscheine sind hier uneingeschränkt gültig.
+Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
 **Lissabon:** \
 Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) umfasst vier Linien:
@@ -79,7 +79,7 @@ Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-b
 Der Zugang zur Sintra-Linie und Cascais-Linie erfolgt über Ticketschranken.
 
 - Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50€ kaufen, um die Ticketschranke passieren zu können.
-- Fahrgäste mit FIP Freifahrtsschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
+- Fahrgäste mit FIP Freifahrtschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
   {{% /highlight %}}
 
 **Porto:** \
@@ -100,7 +100,7 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
 
 {{% expander "Celta: Porto - Vigo ⚠️" traincategory "category" %}}
 **Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtsscheine werden nicht anerkannt. \
+Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€
@@ -117,7 +117,7 @@ Tickets für diesen Zug müssen über die spanischen Vertriebswege gekauft werde
 
 ### Vor Ort
 
-{{% booking id="cp-ticket-office"/%}}
+{{% booking id="cp-ticket-office" /%}}
 
 ### Im Zug
 
@@ -142,9 +142,9 @@ Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmu
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Die CP bietet regelmäßige Fahrten mit dem "Presidental Train" an. Dies ist ein luxuriöser, historischer Zug, welcher seit über einem Jahrhundert Staatsoberhäupter und Präsidenten befördert hat und eines der bedeutensten Relikte der Eisenbahngeschichte Portugals darstellt.
+Die CP bietet regelmäßige Fahrten mit dem "Presidential Train" an. Dies ist ein luxuriöser, historischer Zug, welcher seit über einem Jahrhundert Staatsoberhäupter und Präsidenten befördert hat und eines der bedeutensten Relikte der Eisenbahngeschichte Portugals darstellt.
 
-[Weitere Informationen zum Presidental Train](https://comboiopresidencial.pt/en/)
+[Weitere Informationen zum Presidential Train](https://comboiopresidencial.pt/en/)
 {{% /highlight %}}
 
 ## Quellen

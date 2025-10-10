@@ -21,7 +21,7 @@ Coupon FIP : ✅ \
 Coupon FIP accompagnant : ✅ \
 Billet FIP 50 : ✅
 
-Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
 ## Catégories de trains et réservations
 
@@ -33,9 +33,9 @@ Les catégories de trains sont affichées dans les horaires BDŽ comme décrit c
 **Description :** \
 Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu'en été ; sinon, une correspondance à Ruse est nécessaire. Dans d'autres horaires, ils peuvent aussi être indiqués comme `IR`. La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
 
+Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée. \
 **Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
-**Prix de la réservation :** 1 lev (0,51 €)
+**Réservation obligatoire :** ⚠️ oui
 {{% /expander %}}
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
@@ -75,11 +75,6 @@ Trains circulant de nuit et nécessitant une réservation. Les prix de réservat
 
 ## Achat de billets et réservations
 
-### En ligne
-
-{{% booking id="bdz-website"
-subtitle="Pour les trajets nationaux en Bulgarie" /%}}
-
 ### En gare
 
 {{% booking id="bdz-ticket-office" /%}}
@@ -105,7 +100,7 @@ L'interruption de voyage n'est pas autorisée avec un billet continu.
 ## Recommandations
 
 {{% highlight tip %}}
-La BDŽ propose encore une offre relativement large sur un réseau vieillissant. Il est conseillé de planifier ses trajets à l'avance, car de nombreuses lignes ne voient que quelques trains par jour. Les voitures les plus modernes sont d'anciennes voitures IC de la DB, utilisées sur certaines liaisons longue distance entre Sofia et Varna ou Burgas. Un point fort est la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichté, également exploitée par la BDŽ.
+La BDŽ propose encore une offre relativement large sur un réseau vieillissant. Il est conseillé de planifier ses trajets à l'avance, car de nombreuses lignes ne voient que quelques trains par jour. Les voitures les plus modernes sont d'anciennes voitures IC de la DB, utilisées sur certaines liaisons longue distance entre Sofia et Varna ou Burgas. Un point fort est la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichte, également exploitée par la BDŽ.
 {{% /highlight %}}
 
 ## Sources

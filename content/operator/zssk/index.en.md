@@ -22,7 +22,7 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 tickets: ✅
 
 FIP Coupons and FIP 50 tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
@@ -55,7 +55,7 @@ Depending on route and occupancy (including surcharge for train category)
 {{% expander "Eurocity (EC) / Railjet (RJ) ⚠️1️⃣ ℹ️" traincategory category %}}
 **Description:** \
 Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. `RJ` trains are Railjet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section. \
-ℹ️ `RJ` is also the abbreviation for RegioJet, where no FIP tickets are valid. \
+ℹ️ `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️1️⃣ only in 1st class
 {{% /expander %}}
@@ -128,7 +128,7 @@ On `IC` trains: surcharge with mandatory reservation
 
 ### Free travel for students and seniors (without FIP)
 
-Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
+Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. For students, registration at a ZSSK counter is required at least 3 days before the first trip. A registration form must be completed and signed by the school/university. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
 
 ## Special Tariff Conditions
 

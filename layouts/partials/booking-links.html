@@ -1,18 +1,20 @@
-<div class="o-booking__links">
-  {{- if .Params.booking_link -}}
-    {{- partial "button"
-      (dict
-      "Destination" .Params.booking_link
-      "Text" (T "booking.visit-booking-website")
-      )
-    -}}
-  {{- end -}}
-  {{- if .Params.additional_info_link -}}
-    {{- partial "button"
-      (dict
-      "Destination" .Params.additional_info_link
-      "Text" (T "booking.visit-additional-information-website")
-      )
-    -}}
-  {{- end -}}
-</div>
+{{- if or .Params.booking_link .Params.additional_info_link -}}
+  <div class="o-booking__links">
+    {{- if .Params.booking_link -}}
+      {{- partial "button"
+        (dict
+        "Destination" .Params.booking_link
+        "Text" (T "booking.visit-booking-website")
+        )
+      -}}
+    {{- end -}}
+    {{- if .Params.additional_info_link -}}
+      {{- partial "button"
+        (dict
+        "Destination" .Params.additional_info_link
+        "Text" (T "booking.visit-additional-information-website")
+        )
+      -}}
+    {{- end -}}
+  </div>
+{{- end -}}
