@@ -33,6 +33,7 @@ Les catégories de trains sont affichées dans les horaires BDŽ comme décrit c
 **Description :** \
 Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu'en été ; sinon, une correspondance à Ruse est nécessaire. Dans d'autres horaires, ils peuvent aussi être indiqués comme `IR`. La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
 
+Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui
 {{% /expander %}}

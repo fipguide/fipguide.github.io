@@ -33,6 +33,7 @@ Train categories are shown in BDŽ journey planners as described below. In other
 **Description:** \
 International trains running between Bucharest in Romania and Sofia or Varna. These trains run directly only in the summer; otherwise, a change in Ruse is required. In other planners, they may also be shown as `IR`. A seat reservation is mandatory in both classes.
 
+Some overnight trains also include couchette or sleeper cars, which can be used with a corresponding reservation. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes
 {{% /expander %}}
@@ -63,13 +64,6 @@ Regional trains in domestic traffic, usually with many stops and not very fast. 
 Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains. \
 **Reservation possible:** no \
 **Reservation required:** no
-{{% /expander %}}
-
-{{% expander "Night train" traincategory traincategory %}}
-**Description:** \
-Trains running overnight that require reservations. Reservation prices for couchette or sleeper cars are higher than for regular reservations. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase
