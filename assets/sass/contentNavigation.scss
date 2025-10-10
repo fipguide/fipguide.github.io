@@ -138,6 +138,10 @@
       .o-single__container {
         border: none;
       }
+
+      * {
+        transition: opacity 0.3s ease-in-out;
+      }
     }
 
     &__header {
