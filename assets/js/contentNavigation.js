@@ -17,6 +17,7 @@ const initAside = () => {
   const closeSheet = () => {
     isClosed = true;
     aside.classList.remove("o-aside--open");
+    asideContent.removeAttribute("role");
     asideContent.setAttribute("aria-hidden", "true");
     handleBtn.setAttribute("aria-expanded", "false");
     overlay.classList.remove("overlay--show");
