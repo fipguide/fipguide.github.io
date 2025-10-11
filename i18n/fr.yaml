@@ -50,22 +50,22 @@ language-switcher:
   aria-label: Changer de langue
   dropdown-label: Langues disponibles
 menu:
+  close:
+    label: Fermer
+    title: Fermer le menu
   country-dropdown:
     aria-label: Menu déroulant du pays ouvert
     dropdown-label: Pays disponibles
     label: Pays
     title: Menu déroulant du pays ouvert
-  close:
-    label: Fermer
-    title: Fermer le menu
+  open:
+    label: Menu
+    title: Ouvrir le menu
   operator-dropdown:
     aria-label: Ouvrir la liste déroulante de l'opérateur
     dropdown-label: Opérateurs disponibles
     label: Opérateurs
     title: Ouvrir la liste déroulante de l'opérateur
-  open:
-    label: Menu
-    title: Ouvrir le menu
   search: Ouvrir la recherche
   theme:
     switch-to-auto: Passer en mode automatique

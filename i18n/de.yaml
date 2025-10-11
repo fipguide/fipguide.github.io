@@ -51,14 +51,14 @@ language-switcher:
   aria-label: Sprache wechseln
   dropdown-label: Verfügbare Sprachen
 menu:
+  close:
+    label: Schließen
+    title: Menü schließen
   country-dropdown:
     aria-label: Länder-Dropdown öffnen
     dropdown-label: Verfügbare Länder
     label: Länder
     title: Länder-Dropdown öffnen
-  close:
-    label: Schließen
-    title: Menü schließen
   open:
     label: Menü
     title: Menü öffnen
