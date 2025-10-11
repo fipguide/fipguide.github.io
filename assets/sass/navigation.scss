@@ -285,7 +285,7 @@ body:has(.o-header__nav--open) {
   overflow: hidden;
 }
 
-.a-theme-toggle {
+.o-header__item--button {
   padding: 1rem;
   border: none;
   background: transparent;
@@ -297,21 +297,21 @@ body:has(.o-header__nav--open) {
   &:hover {
     color: var(--link-hovered);
   }
+}
 
-  &--desktop {
-    display: none;
+.o-header__item--desktop {
+  display: none;
 
-    @media (min-width: #{$breakpoint-md}) {
-      display: inline-flex;
-    }
-  }
-
-  &--mobile {
+  @media (min-width: #{$breakpoint-md}) {
     display: inline-flex;
+  }
+}
 
-    @media (min-width: #{$breakpoint-md}) {
-      display: none;
-    }
+.o-header__item--mobile {
+  display: inline-flex;
+
+  @media (min-width: #{$breakpoint-md}) {
+    display: none;
   }
 }
 

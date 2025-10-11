@@ -12,21 +12,24 @@
   </a>
   <div class="o-header__curtain"></div>
   <div class="o-header__nav o-container">
-    <div class="a-theme-toggle--mobile">
-      {{ partial "theme-toggle" }}
+    <div class="o-header__item--mobile">
+      {{ partial "theme-toggle-button" }}
+    </div>
+    <div class="o-header__item--mobile">
+      {{ partial "search-button" }}
     </div>
     <button
       class="o-nav__menu-button"
-      title="Menü öffnen"
+      title="{{ T "menu.open.title" }}"
       aria-expanded="false"
       aria-haspopup="true"
     >
-      <span>{{ T "menu-open" }}</span>
+      <span>{{ T "menu.open.label" }}</span>
       {{ partial "icon" "menu" }}
     </button>
     <nav>
-      <button class="o-nav__close-button" title="Menü schließen">
-        <span>{{ T "menu-close" }}</span>
+      <button class="o-nav__close-button" title="{{ T "menu.close.title" }}">
+        <span>{{ T "menu.close.label" }}</span>
         {{ partial "icon" "close" }}
       </button>
       <menu>
@@ -41,10 +44,10 @@
                 aria-expanded="false"
                 aria-haspopup="listbox"
                 aria-controls="navbar-country-selection-dropdown"
-                title="{{ T "language-switcher.aria-label" }}"
-                aria-label="{{ T "countries.selection.aria-label" }}"
+                title="{{ T "menu.country-dropdown.title" }}"
+                aria-label="{{ T "menu.country-dropdown.aria-label" }}"
               >
-                <span>{{ T "countries.selection.title" }}</span>
+                <span>{{ T "menu.country-dropdown.label" }}</span>
                 <div class="o-dropdown__icon">
                   {{ partial "icon" "keyboard_arrow_down" }}
                 </div>
@@ -54,7 +57,7 @@
                 class="o-header__item-countries o-dropdown__menu o-dropdown__menu--below"
                 role="listbox"
                 aria-hidden="true"
-                aria-label="{{ T "countries.selection.dropdown-label" }}"
+                aria-label="{{ T "menu.country-dropdown.dropdown-label" }}"
               >
                 {{ range  where site.RegularPages "Section" "country" }}
                   <li
@@ -78,10 +81,10 @@
                 aria-expanded="false"
                 aria-haspopup="listbox"
                 aria-controls="navbar-operator-selection-dropdown"
-                title="{{ T "language-switcher.aria-label" }}"
-                aria-label="{{ T "operators.selection.aria-label" }}"
+                title="{{ T "menu.operator-dropdown.title" }}"
+                aria-label="{{ T "menu.operator-dropdown.aria-label" }}"
               >
-                <span>{{ T "operators.selection.title" }}</span>
+                <span>{{ T "menu.operator-dropdown.label" }}</span>
                 <div class="o-dropdown__icon">
                   {{ partial "icon" "keyboard_arrow_down" }}
                 </div>
@@ -91,7 +94,7 @@
                 class="o-header__item-operators o-dropdown__menu o-dropdown__menu--below"
                 role="listbox"
                 aria-hidden="true"
-                aria-label="{{ T "operators.selection.dropdown-label" }}"
+                aria-label="{{ T "menu.operator-dropdown.dropdown-label" }}"
               >
                 {{ range  where site.RegularPages "Section" "operator" }}
                   <li
@@ -123,7 +126,16 @@
           </menu>
         </li>
         <li class="o-header__item a-theme-toggle--desktop">
-          {{ partial "theme-toggle" }}
+          <menu>
+            <li
+              class="o-header__item o-header__item--button o-header__item--desktop"
+            >
+              {{ partial "theme-toggle-button" }}
+            </li>
+            <li class="o-header__item o-header__item--button">
+              {{ partial "search-button" }}
+            </li>
+          </menu>
         </li>
       </menu>
     </nav>

@@ -18,10 +18,6 @@ contentNavigation:
   title: Aperçu du contenu
 countries:
   overview: Pays acceptation FIP
-  selection:
-    aria-label: Sélectionner un pays
-    dropdown-label: Pays disponibles
-    title: Pays
   without-fip: Pays sans acceptation FIP
 country:
   many: pays
@@ -53,16 +49,31 @@ interactiveMap:
 language-switcher:
   aria-label: Changer de langue
   dropdown-label: Langues disponibles
-menu-close: Fermer
-menu-open: Menu
+menu:
+  country-dropdown:
+    aria-label: Menu déroulant du pays ouvert
+    dropdown-label: Pays disponibles
+    label: Pays
+    title: Menu déroulant du pays ouvert
+  close:
+    label: Fermer
+    title: Fermer le menu
+  operator-dropdown:
+    aria-label: Ouvrir la liste déroulante de l'opérateur
+    dropdown-label: Opérateurs disponibles
+    label: Opérateurs
+    title: Ouvrir la liste déroulante de l'opérateur
+  open:
+    label: Menu
+    title: Ouvrir le menu
+  search: Ouvrir la recherche
+  theme:
+    switch-to-auto: Passer en mode automatique
+    switch-to-dark: Passer en mode sombre
+    switch-to-light: Passer en mode clair
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
-operators:
-  selection:
-    aria-label: Sélectionner un opérateur
-    dropdown-label: Opérateurs disponibles
-    title: Opérateurs
 operators_without_fip: Opérateurs sans FIP
 related:
   countries: Pays associés
@@ -79,10 +90,6 @@ support:
     GitHub</a> pour contribuer au contenu. Vous pouvez également nous écrire via
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
-theme:
-  switch-to-auto: Passer en mode automatique
-  switch-to-dark: Passer en mode sombre
-  switch-to-light: Passer en mode clair
 toc_name: Sommaire
 updateDate: Dernière mise à jour
 wip: >-
