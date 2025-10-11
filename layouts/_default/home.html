@@ -12,7 +12,11 @@
       </div>
 
       <div class="o-startpage__search">
-        {{ partial "search-slot" }}
+        <div
+          id="search"
+          class="o-stage__search"
+          data-placeholder="{{ T "search-placeholder" }}"
+        ></div>
       </div>
 
       <div class="o-startpage__shortcut-wrapper">

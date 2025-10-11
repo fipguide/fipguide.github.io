@@ -6,4 +6,5 @@ import "./contentNavigation.js";
 import "./anchorlinks.js";
 import "./dropdown.js";
 import "./darkmode.js";
+import "./search.js";
 import "./interactiveMap.js";
