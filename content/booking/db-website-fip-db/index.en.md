@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "DB Website FIP (DB Employees)"
-description: "Booking information for FIP tickets for DB employees for neighboring countries of Germany"
+description: "Booking information for FIP Tickets for DB employees for neighboring countries of Germany"
 
 params:
   classes:
@@ -29,7 +29,8 @@ FIP 50 Tickets can be purchased for the following countries:
 <!-- prettier-ignore -->
 - Poland
 - Austria
-- Italy (only Brenner route with Austria and ECE Frankfurt - Milan)
+- Italy \
+  <small>only Brenner route with Austria and ECE Frankfurt - Milan</small>
 - Czech Republic
 - Switzerland
 - Luxembourg

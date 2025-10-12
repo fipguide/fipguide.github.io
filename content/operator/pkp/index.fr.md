@@ -11,17 +11,17 @@ Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leu
 
 ## Résumé
 
-- PKP accepte les coupons FIP et les billets FIP 50
+- PKP accepte les Coupons FIP et les Billets FIP 50
 - Réservation obligatoire pour les trains `EIP` et `EIC` et partiellement pour les trains `IC` et `TLK`
-- Validité des billets FIP de PKP également dans le système RER de Gdansk (Tri-Cité), chez Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) et sur certaines lignes de Koleje Dolnośląskie (KD)
+- Validité des Billets FIP de PKP également dans le système RER de Gdansk (Tri-Cité), chez Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) et sur certaines lignes de Koleje Dolnośląskie (KD)
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ✅ \
 Billet FIP 50 : ✅
 
-Les coupons FIP et les billets FIP 50 sont valables chez PKP. Cela inclut :
+Les Coupons FIP et les Billets FIP 50 sont valables chez PKP. Cela inclut :
 
 - PKP InterCity
 - POLREGIO S.A
@@ -30,9 +30,9 @@ Les coupons FIP et les billets FIP 50 sont valables chez PKP. Cela inclut :
 - Warszawska Kolej Dojazdowa (WKD) (trains régionaux dans la grande région de Varsovie)
 - Certaines lignes de Koleje Dolnośląskie (KD).
 
-Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables dans chaque pays sont nécessaires.
+Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
-Les billets FIP de PKP ne sont pas valables dans le RER de Varsovie, exploité par Szybka Kolej Miejska w Warszawie (SKM). Des billets urbains réguliers doivent être achetés ici, comme pour le métro, le tramway et le bus.
+Les Billets FIP de PKP ne sont pas valables dans le RER de Varsovie, exploité par Szybka Kolej Miejska w Warszawie (SKM). Des billets urbains réguliers doivent être achetés ici, comme pour le métro, le tramway et le bus.
 
 ## Catégories de trains et réservations
 
@@ -116,13 +116,13 @@ Trains interrégionaux exploités par Polregio et équipés d'un confort supéri
 {{% booking id="pkp-website"
     subtitle="Pour les connexions nationales et transfrontalières y compris EIP"
 %}}
-Les billets FIP 50 ne peuvent être vendus que pour les connexions nationales.
+Les Billets FIP 50 ne peuvent être vendus que pour les connexions nationales.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
     subtitle="Pour les connexions nationales y compris EIP"
 %}}
-Les billets FIP 50 ne peuvent être vendus que pour les connexions nationales.
+Les Billets FIP 50 ne peuvent être vendus que pour les connexions nationales.
 
 Alternativement, vous pouvez aussi réserver directement via le [site web de Polregio](https://bilety.polregio.pl/). La fonctionnalité est identique à Koleo.
 {{% /booking %}}
@@ -132,11 +132,11 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Pour les connexions nationales et transfrontalières. Billets FIP 50 transfrontaliers, avec portion de billet uniquement pour la section polonaise, pour les employés de la Deutsche Bahn"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne, avec part de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Pour les connexions nationales et transfrontalières. Billets FIP 50 transfrontaliers pour l'ensemble du trajet (non valables dans votre propre pays)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
 /%}}
 
 ### En gare
@@ -157,7 +157,7 @@ Moyennant un supplément de 20 PLN, les billets peuvent être achetés dans le t
 
 #### Polregio
 
-Les billets FIP 50 peuvent être émis dans le train mais sont soumis à des frais spéciaux (sauf si le voyageur monte à une gare sans vente de billets). Les voyageurs doivent monter par la porte avant du train (dans le sens de la marche) et acheter le billet auprès du personnel du train immédiatement après être montés.
+Les Billets FIP 50 peuvent être émis dans le train mais sont soumis à des frais spéciaux (sauf si le voyageur monte à une gare sans vente de billets). Les voyageurs doivent monter par la porte avant du train (dans le sens de la marche) et acheter le billet auprès du personnel du train immédiatement après être montés.
 
 #### Koleje Mazowieckie (KM)
 
@@ -235,24 +235,24 @@ L'interruption de voyage est autorisée mais soumise aux conditions de transport
 
 ### Bus Varsovie Modlin
 
-Les billets FIP ne sont pas valables dans les bus KM entre Modlin et l'aéroport de Varsovie Modlin.
+Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l'aéroport de Varsovie Modlin.
 
 ### Trains spéciaux Słoneczny
 
-Les billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Varsovie vers Gdansk/Gdynia).
+Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Varsovie vers Gdansk/Gdynia).
 
 ### Bus et services de remplacement
 
-Les billets FIP sont également valables sur les services de remplacement ferroviaire (bus) exploités par PKP.
+Les Billets FIP sont également valables sur les services de remplacement ferroviaire (bus) exploités par PKP.
 
 ### Téléphériques et chemins de fer à crémaillère
 
-Les billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
+Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
 
 ## Recommandations
 
 {{% highlight tip %}}
-Les coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière conditionnelle. Si des voyages avec l'EIP sont prévus, ils sont recommandés en raison du confort accru et des collations supplémentaires en 1ère classe. Dans les autres trains, il n'y a parfois que deux compartiments 6 places en 1ère classe, qui sont souvent rapidement complets. Même avec des zones de 1ère classe plus grandes, il arrive parfois que celles-ci soient moins confortables que les zones de 2ᵉ classe dans le même train. Pour les voyages en transport régional, aucune 1ère classe n'est généralement proposée.
+Les Coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière conditionnelle. Si des voyages avec l'EIP sont prévus, ils sont recommandés en raison du confort accru et des collations supplémentaires en 1ère classe. Dans les autres trains, il n'y a parfois que deux compartiments 6 places en 1ère classe, qui sont souvent rapidement complets. Même avec des zones de 1ère classe plus grandes, il arrive parfois que celles-ci soient moins confortables que les zones de 2ᵉ classe dans le même train. Pour les voyages en transport régional, aucune 1ère classe n'est généralement proposée.
 {{% /highlight %}}
 
 ## Sources

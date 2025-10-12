@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Site web CFF"
-description: "Informations sur la réservation de billets FIP via le site web des CFF."
+description: "Informations sur la réservation de Billets FIP via le site web des CFF."
 
 params:
   classes:
@@ -21,10 +21,10 @@ aliases:
 
 ## Billets FIP 50
 
-Sur le site des CFF, les billets FIP 50 peuvent être achetés en sélectionnant la réduction « Demi-tarif 50 % (Halbtax) », à condition qu’il ne s’agisse pas d’un billet dégriffé, d’un abonnement journalier dégriffé ou d’un billet spécial.[^1] Cette option est à l’origine prévue pour les détenteurs d’un abonnement demi-tarif, mais elle est également acceptée comme solution simple pour les billets FIP 50. Le tarif demi-tarif est généralement présélectionné par défaut sur le site des CFF.
+Sur le site des CFF, les Billets FIP 50 peuvent être achetés en sélectionnant la réduction « Demi-tarif 50 % (Halbtax) », à condition qu’il ne s’agisse pas d’un billet dégriffé, d’un abonnement journalier dégriffé ou d’un billet spécial.[^1] Cette option est à l’origine prévue pour les détenteurs d’un abonnement demi-tarif, mais elle est également acceptée comme solution simple pour les Billets FIP 50. Le tarif demi-tarif est généralement présélectionné par défaut sur le site des CFF.
 
 {{% highlight important %}}
-Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des transports exploités par des compagnies non participantes au FIP (par exemple : trams ou bus). Ces sections ne sont pas valables avec un billet FIP, sauf si vous avez un abonnement demi-tarif.
+Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des transports exploités par des compagnies non participantes au FIP (par exemple : trams ou bus). Ces sections ne sont pas valables avec un Billet FIP, sauf si vous avez un abonnement demi-tarif.
 {{% /highlight %}}
 
 {{% /booking-section %}}

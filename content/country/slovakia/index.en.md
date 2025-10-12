@@ -10,11 +10,11 @@ params:
 
 ## FIP Information
 
-Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), for which the FIP tickets of ŽSR are valid.
+Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), for which the FIP Tickets of ŽSR are valid.
 
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
-Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://int.bahn.de/en).
+Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP Tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://int.bahn.de/en).
 
 ## Interesting
 
@@ -47,13 +47,13 @@ From Austria, cross-border Intercity, Railjet, and regional trains (REX) are ava
 
 ### Hungary
 
-From Hungary, both cross-border regional trains and Eurocity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP ticket of GySEV is required; in other cases, an additional FIP ticket of MAV-Start is required.
+From Hungary, both cross-border regional trains and Eurocity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP Ticket of GySEV is required; in other cases, an additional FIP Ticket of MAV-Start is required.
 
 ### Poland
 
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK free travel passes are only valid up to the border point.
+The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK FIP Coupon are only valid up to the border point.
 
-Theoretically, it should be possible to travel cross-border for free with an additional free travel pass of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
+Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
 
 ### Ukraine
 
@@ -63,4 +63,4 @@ A cross-border ticket can only be purchased without FIP discount on the ZSSK web
 
 ## FIP Rating
 
-Overall, Slovakia has a good infrastructure and most journeys are operated by ZSSK. This makes it possible to travel a large part of the country with FIP tickets. However, the FIP experience is somewhat marred by reservation requirements (always in 1st class, in 2nd class on Intercity trains) as well as rather poor information systems and often not good scheduling on the branch lines.
+Overall, Slovakia has a good infrastructure and most journeys are operated by ZSSK. This makes it possible to travel a large part of the country with FIP Tickets. However, the FIP experience is somewhat marred by reservation requirements (always in 1st class, in 2nd class on Intercity trains) as well as rather poor information systems and often not good scheduling on the branch lines.

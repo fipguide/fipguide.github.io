@@ -21,9 +21,9 @@ aliases:
 
 ## Billets FIP 50
 
-Aux guichets ÖBB, il est possible d’acheter des billets FIP 50 pour des trajets en Autriche ainsi que vers de nombreux pays européens.
+Aux guichets ÖBB, il est possible d’acheter des Billets FIP 50 pour des trajets en Autriche ainsi que vers de nombreux pays européens.
 
-Les billets (y compris les billets FIP 50) sont moins chers s’ils sont achetés à l’avance (1 jour ou 15 jours avant le départ).
+Les billets (y compris les Billets FIP 50) sont moins chers s’ils sont achetés à l’avance (1 jour ou 15 jours avant le départ).
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

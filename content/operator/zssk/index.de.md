@@ -21,7 +21,7 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
@@ -128,7 +128,7 @@ In `IC` Zügen: Zuschlag mit obligatorischer Reservierung
 
 ### Kostenfreie Fahrten für Studenten und Senioren (ohne FIP)
 
-Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internationale Studenten in der Slowakei können ebenfalls kostenfrei reisen. Details dazu finden sich auf der Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
+Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internationale Studenten in der Slowakei können ebenfalls kostenfrei reisen. Für Studenten ist mindestens 3 Tage vor der ersten Fahrt eine Registrierung am ZSSK Schalter erforderlich. Zuvor muss ein Registrierungsformular ausgefüllt und von der Schule/Universität unterschrieben werden. Details dazu finden sich auf der Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Tarifliche Besonderheiten
 

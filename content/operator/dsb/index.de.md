@@ -11,13 +11,13 @@ Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in Dänemar
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtsscheine werden akzeptiert.
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
 - Es besteht größtenteils keine Reservierungspflicht.
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
-FIP Freifahrtsschein Angehörige: ⛔ \
+FIP Freifahrtschein: ✅ \
+FIP Freifahrtschein Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -75,11 +75,11 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den dänischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemark, mit Ticketanteil nur für den dänischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemark für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort

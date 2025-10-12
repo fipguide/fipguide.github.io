@@ -40,7 +40,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Reservation required:** ⚠️ only for cross-border journeys
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Description:** \
 International trains to Germany and Italy.
 
@@ -89,13 +89,13 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP card)"
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}
@@ -110,6 +110,8 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route
 
 {{% booking id="sbb-ticket-machine"/%}}
 
+{{% booking id="db-ticket-office"/%}}
+
 ### On the Train
 
 FIP Tickets cannot be purchased on the train. A penalty fee is charged for passengers without tickets. The only exception is the surcharge for cross-border long-distance trains to Italy.
@@ -122,7 +124,7 @@ Children travel free on regular journeys (not special trips) up to and including
 
 ### Buses and Rail Replacement Services
 
-FIP tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
+FIP Tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
 
 ### Mutual Recognition of SBB and BLS Coupons
 
@@ -132,13 +134,7 @@ However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, no
 
 ### Cross-border Trains (Italy, France)
 
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland. \
-This surcharge (including reservation) is mandatory, even with an FIP Free Pass or FIP 50 Ticket.
-
-- 2nd class: €11
-- 1st class: €13
-
-The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it is also possible to buy the surcharge on board.
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP free pass. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
 
 ## Recommendations
 

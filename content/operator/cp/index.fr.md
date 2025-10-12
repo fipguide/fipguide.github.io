@@ -11,17 +11,17 @@ La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise e
 
 ## Résumé
 
-- Les coupons FIP et les billets FIP 50 sont valables sur tous les trains de la CP
+- Les Coupons FIP et les Billets FIP 50 sont valables sur tous les trains de la CP
 - La réservation est obligatoire sur les services longue distance
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
 Coupon FIP : ✅ \
 Coupon FIP accompagnant : ✅ \
 Billets FIP 50 : ✅ \
 Tarif Global FIP : ✅ (uniquement pour le train Celta)
 
-Les coupons FIP et les billets FIP 50 sont valables sur les services de la CP. Pour les trajets transfrontaliers, un billet FIP 50 continu ou des coupons FIP valables pour les deux pays sont requis lorsque cela s'applique.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les services de la CP. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables pour les deux pays sont requis lorsque cela s'applique.
 
 [Vue d'ensemble du réseau CP](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 
@@ -33,7 +33,7 @@ Les réservations ne sont obligatoires que sur les services longue distance (`AP
 **Description :** \
 Trains rapides pendulaires (Pendolino) circulant sur l'axe principal Braga, Porto, Lisbonne et Faro avec peu d'arrêts. Les trains offrent un bon confort, Wi‑Fi, prises électriques à chaque siège et un service cafétéria/bar.
 
-Les coupons FIP (quelle que soit la classe du titre) ne sont valables qu'en seconde classe. [^1]
+Les Coupons FIP (quelle que soit la classe du titre) ne sont valables qu'en seconde classe. [^1]
 
 **Réservation possible :** Oui \
 **Réservation obligatoire :** ⚠️ Oui \
@@ -64,7 +64,7 @@ Trains régionaux avec de nombreux arrêts. \
 
 {{% expander "Comboios Urbanos (U)" traincategory "category" %}}
 **Description :** \
-Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les coupons FIP sont valables sans restriction.
+Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les Coupons FIP sont valables sans restriction.
 
 **Lisbonne :** \
 Le [réseau](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa) comprend quatre lignes :
@@ -78,7 +78,7 @@ Le [réseau](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baixa
 L'accès à la ligne de Sintra et à la ligne de Cascais se fait par des portiques.
 
 - Les voyageurs titulaires d'un billet réduit doivent acheter un ticket Viva Viagem pour 0,50€ afin de franchir le portique.
-- Les titulaires d'un coupon FIP doivent appuyer sur le bouton d'assistance au point d'accès (entre 06:00 et 22:00). Le personnel accordera l'accès.
+- Les titulaires d'un Coupon FIP doivent appuyer sur le bouton d'assistance au point d'accès (entre 06:00 et 22:00). Le personnel accordera l'accès.
   {{% /highlight %}}
 
 **Porto :** \
@@ -99,7 +99,7 @@ Ligne entre Coimbra et Figueira da Foz.
 
 {{% expander "Celta : Porto - Vigo ⚠️" traincategory "category" %}}
 **Description :** \
-Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les coupons FIP ne sont pas reconnus. \
+Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif Global FIP (indépendant de la distance) :** 4€
@@ -144,9 +144,9 @@ Lors d'un voyage au Portugal, nous recommandons la visite du Musée national du 
 
 {{% highlight tip %}}
 
-La CP propose régulièrement des trajets avec le "Presidental Train" — un train historique et luxueux qui a transporté des chefs d'État pendant plus d'un siècle et constitue un élément important du patrimoine ferroviaire portugais.
+La CP propose régulièrement des trajets avec le "Presidential Train" — un train historique et luxueux qui a transporté des chefs d'État pendant plus d'un siècle et constitue un élément important du patrimoine ferroviaire portugais.
 
-[Plus d'informations sur le Presidental Train](https://comboiopresidencial.pt/en/)
+[Plus d'informations sur le Presidential Train](https://comboiopresidencial.pt/en/)
 
 {{% /highlight %}}
 

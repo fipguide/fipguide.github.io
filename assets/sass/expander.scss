@@ -54,6 +54,11 @@ details {
   border-radius: var(--border-radius-m);
   margin-bottom: 1.2rem;
   border: var(--border);
+
+  table {
+    width: 100%;
+    margin-left: 0;
+  }
 }
 
 details > summary {
@@ -66,10 +71,6 @@ details > summary {
 
 details > div {
   overflow-x: auto;
-}
-
-details > div > * {
-  margin-right: 1rem;
 }
 
 details > summary::-webkit-details-marker {
@@ -101,7 +102,7 @@ details[open] > .o-expander__summary:not(.o-expander__summary--booking) {
   }
 
   .details-print {
-    border: solid;
+    border: 0.2rem solid #bbb;
     page-break-inside: avoid;
     display: block;
   }

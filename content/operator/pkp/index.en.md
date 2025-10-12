@@ -13,7 +13,7 @@ The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together wit
 
 - PKP accepts FIP Coupons and FIP 50 Tickets
 - Reservation requirement for `EIP` and `EIC` trains and partially for `IC` and `TLK` trains
-- Validity of PKP FIP tickets also in the local rail system of Gdansk (Tri-City), at Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) and some routes of Koleje Dolnośląskie (KD)
+- Validity of PKP FIP Tickets also in the local rail system of Gdansk (Tri-City), at Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) and some routes of Koleje Dolnośląskie (KD)
 
 ## Validity of FIP Tickets
 
@@ -32,7 +32,7 @@ FIP Coupons and FIP 50 Tickets are valid with PKP. This includes:
 
 For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
-PKP FIP tickets are not valid in the Warsaw local rail system, which is operated by Szybka Kolej Miejska w Warszawie (SKM). Regular city tickets must be purchased here, as for metro, tram and bus.
+PKP FIP Tickets are not valid in the Warsaw local rail system, which is operated by Szybka Kolej Miejska w Warszawie (SKM). Regular city tickets must be purchased here, as for metro, tram and bus.
 
 ## Train Categories and Reservations
 
@@ -132,11 +132,11 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets, with ticket portion only for the Polish section, for Deutsche Bahn employees"
+    subtitle="Cross-border FIP 50 tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For national and cross-border connections. Cross-border FIP 50 Tickets for the entire route (not valid in your own country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On Site
@@ -235,19 +235,19 @@ Journey interruption is allowed but subject to the transport conditions (RPO-PKP
 
 ### Warsaw Modlin Buses
 
-FIP tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
+FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
 
 ### Słoneczny Special Trains
 
-FIP tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/Gdynia).
+FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/Gdynia).
 
 ### Buses and Replacement Services
 
-FIP tickets are also valid on rail replacement services (buses) operated by PKP.
+FIP Tickets are also valid on rail replacement services (buses) operated by PKP.
 
 ### Cable Cars and Rack Railways
 
-FIP tickets are not valid on cable cars and rack railways operated by PKP.
+FIP Tickets are not valid on cable cars and rack railways operated by PKP.
 
 ## Recommendations
 
@@ -263,6 +263,6 @@ FIP Coupons for 1st class are only conditionally worthwhile with PKP. If journey
 
 [^3]: [PKP Intercity - EIC](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-eic.html)
 
-[^4]: [PKP Intercity - IC](https://www.intercity.pl/de/site/fur-fahrgast/informacije/unsere-zuge/intercity-ic.html)
+[^4]: [PKP Intercity - IC](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/intercity-ic.html)
 
-[^5]: [PKP Intercity - TLK](https://www.intercity.pl/de/site/fur-fahrgast/informacije/unsere-zuge/twoje-linie-kolejowe-tlk.html)
+[^5]: [PKP Intercity - TLK](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/twoje-linie-kolejowe-tlk.html)

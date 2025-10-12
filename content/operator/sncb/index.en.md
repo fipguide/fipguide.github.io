@@ -18,7 +18,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon relatives: ✅ \
+FIP Coupon for relatives: ✅ \
 FIP 50 tickets: ✅
 
 FIP Coupons and FIP 50 tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
@@ -29,7 +29,7 @@ Within Belgium, no reservation is required for SNCB and in many trains, it is no
 
 {{% expander "Intercity-Express (ICE)" traincategory category %}}
 **Description:** \
-High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
+High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP Tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
@@ -101,16 +101,18 @@ Additional trains to certain tourist destinations, often simply referred to as `
 
 ### Online
 
-{{% booking id="sncb-website" %}}
-When using a SNCB FIP Coupon, a cross-border ticket can be booked via the website, which takes the free travel within the Belgian section into account. To do this, select the discount "100% Discount Belgium (SNCB)" for the travelers. This allows, for example, very affordable bookings for trains from Belgium to Lille in France (except for the `TGV`, which has a global price and is not operated by SNCB).
-{{% /booking %}}
+Domestic journeys unfortunately cannot be purchased online.
+
+{{% booking id="sncb-website"
+    subtitle="Only for cross-border journeys to/from Belgium"
+/%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets, with ticket portions valid only for the Belgian section, for employees of Deutsche Bahn"
+    subtitle="Cross-border FIP 50 tickets between Germany and Belgium, with ticket portion only for the Belgian section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="For domestic and cross-border connections. Cross-border FIP 50 tickets valid for the entire route (not valid in the home country)"
+    subtitle="Cross-border FIP 50 tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On-site

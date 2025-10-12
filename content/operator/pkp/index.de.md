@@ -17,7 +17,7 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 
 ## Gültigkeit FIP-Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
@@ -132,11 +132,11 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den polnischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -252,7 +252,7 @@ FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
 ## Empfehlungen
 
 {{% highlight tip %}}
-FIP-Freifahrtsscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sind Fahrten mit dem EIP geplant, sind sie sich durch den erhöhten Komfort und den zusätzlichen Snacks in der 1. Klasse empfehlenswert. In den anderen Zügen gibt es teilweise nur zwei 1. Klasse 6er-Abteile, die oft auch schnell ausgebucht sind. Auch bei größeren 1. Klasse Bereichen kommt es vor, dass diese vom Komfort her schlechter sind als die Bereiche der 2. Klasse im selben Zug. Bei Fahrten im Regionalverkehr wird grundsätzlich keine 1. Klasse angeboten.
+FIP-Freifahrtscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sind Fahrten mit dem EIP geplant, sind sie sich durch den erhöhten Komfort und den zusätzlichen Snacks in der 1. Klasse empfehlenswert. In den anderen Zügen gibt es teilweise nur zwei 1. Klasse 6er-Abteile, die oft auch schnell ausgebucht sind. Auch bei größeren 1. Klasse Bereichen kommt es vor, dass diese vom Komfort her schlechter sind als die Bereiche der 2. Klasse im selben Zug. Bei Fahrten im Regionalverkehr wird grundsätzlich keine 1. Klasse angeboten.
 {{% /highlight %}}
 
 ## Quellen

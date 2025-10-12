@@ -8,6 +8,10 @@
   height: 6rem;
   padding-left: calc((100vw - 100%) / 2);
   border-bottom: var(--border);
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-header__wrapper {

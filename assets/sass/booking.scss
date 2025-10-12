@@ -4,7 +4,7 @@
   gap: 2rem;
   width: 100%;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media screen and (max-width: #{$breakpoint-md}) {
     display: flex;
     flex-direction: column;
     gap: 1rem;
@@ -88,6 +88,23 @@
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
+
+  @media print {
+    > a {
+      flex-wrap: wrap;
+      font-weight: bold;
+
+      &::after {
+        font-weight: normal;
+      }
+    }
+  }
+  > a {
+    @media print {
+      flex-wrap: wrap;
+      font-weight: bold;
+    }
+  }
 }
 
 @mixin booking_section($name) {

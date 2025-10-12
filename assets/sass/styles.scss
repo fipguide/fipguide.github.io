@@ -11,6 +11,16 @@ body {
   overflow-x: hidden;
   margin: 0;
   line-height: 1.5;
+
+  @media print {
+    print-color-adjust: exact;
+    font-size: 1.4em;
+  }
+}
+@media (max-width: #{$breakpoint-lg}) {
+  body:has(article.o-single--with-sidemenu):not(:has(.o-newspage)) {
+    margin: 0 0 calc(7rem + env(safe-area-inset-bottom)) 0;
+  }
 }
 
 p,
@@ -23,6 +33,11 @@ ol {
 ul,
 ol {
   padding-left: 2rem;
+
+  li > small {
+    display: inline-block;
+    line-height: 1.2;
+  }
 }
 
 button {
@@ -38,11 +53,25 @@ a {
   &:focus {
     color: var(--link-hovered);
   }
+
+  @media print {
+    text-decoration: none;
+    color: var(--bs-body-color);
+
+    > .material-symbols-rounded {
+      display: none;
+    }
+  }
 }
 
 main {
   margin-top: 2rem;
   padding-left: calc(100vw - 100%);
+
+  @media print {
+    margin-top: 0;
+    padding-left: 0;
+  }
 }
 
 .o-container {
@@ -66,6 +95,10 @@ main {
 
   @media (max-width: #{$breakpoint-sm}) {
     max-width: calc(100vw - 3.2rem);
+  }
+
+  @media print {
+    max-width: 100%;
   }
 
   width: 100%;
@@ -97,6 +130,10 @@ img {
   width: 100%;
   height: auto;
   border-radius: var(--border-radius-l);
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-list__picture {
@@ -134,11 +171,21 @@ img {
   > li {
     margin-left: 0.5rem;
   }
+
+  @media print {
+    list-style-position: inherit !important;
+    padding-left: 2rem;
+  }
 }
 
 .o-list__list-item {
-  &--country {
+  &--country,
+  &--operator {
     list-style-type: none;
+
+    @media print {
+      list-style: disc !important;
+    }
   }
 }
 
@@ -146,6 +193,12 @@ img {
   display: flex;
   align-items: center;
   width: fit-content;
+
+  > .o-list__picture {
+    @media print {
+      display: none;
+    }
+  }
 }
 
 .o-list__countries {
@@ -168,9 +221,14 @@ img {
 @mixin add-columns($columns) {
   &--columns-#{$columns} {
     columns: $columns;
+    column-gap: 2.4rem;
 
     @media (max-width: #{$breakpoint-md}) {
       columns: 1;
+    }
+
+    li {
+      break-inside: avoid-column;
     }
   }
 }
@@ -198,6 +256,11 @@ img {
     padding: 2rem;
     border-radius: var(--border-radius-l);
     border: var(--border);
+
+    @media print {
+      border: none;
+      padding: 0;
+    }
   }
 
   &__content-wrapper {
@@ -294,4 +357,10 @@ details > summary {
 
 dd {
   margin-inline-start: 0;
+}
+
+.o-link__external:not(.o-last-updated)::after {
+  @media print {
+    content: " (" attr(href) ") ";
+  }
 }

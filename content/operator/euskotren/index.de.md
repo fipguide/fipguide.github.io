@@ -16,7 +16,7 @@ Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ⛔ \
+FIP Freifahrtschein: ⛔ \
 FIP 50 Tickets: ⛔ \
 Spezielles "Euskotren FIP Ticket" (für Inhaber & Angehörige): ✅
 
@@ -81,6 +81,8 @@ Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Kla
 FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren.
 
 ## Empfehlungen
+
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zu Euskotren](https://zugpost.org/euskotren-baskenland/).
 
 ### Eisenbahnmuseum in Azpeitia
 

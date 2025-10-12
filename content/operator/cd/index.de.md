@@ -11,14 +11,14 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der Tschechisc
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtsscheine werden akzeptiert
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert
 - Reservierungspflicht nur in SuperCitys
 - Aufschläge für _kommerzielle Züge_
 - In einigen Regionen gilt kein FIP in ausgewählten Zügen der ČD (Pilsen und Brno)
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
@@ -123,11 +123,11 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den österreichischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen. Grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im eigenen Land)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -201,6 +201,8 @@ Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfer
 
 ## Empfehlungen
 
+Die ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav und Brno hl. n. können mit einem FIP 50 Ticket oder FIP Freifahrtschein der 1. Klasse genutzt werden. Dies ist auch mit Fahrkarten der 2. Klasse in Kombination mit einer Sitzplatzreservierung möglich. [^2]
+
 {{% highlight tip %}}
 Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverlässiges und meist komfortables Reisen mit einem sehr gutem Service steht. Die Beschäftigten der Bahn sind meistens sehr freundlich und helfen gerne weiter. Anschlüsse warten oft bei Verspätungen, außer in großen Knotenbahnhöfen wie Praha hl. n. Die Nutzung der App der ČD ("Můj vlak") kann sehr empfehlenswert sein, da hier neben Live-Daten auch die Wagenreihungen und weitere wichtige Informationen einfach eingesehen werden können.
 {{% /highlight %}}
@@ -208,3 +210,5 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
