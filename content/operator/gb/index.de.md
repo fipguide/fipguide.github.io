@@ -356,7 +356,7 @@ Die [Talyllyn Railway](https://talyllyn.co.uk) ist die älteste erhaltene Schmal
   Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
 -->
 
-lounges und essen im Zug (inkl. Nutzungshinweise)
+lounges und essen im Zug
 
 Nationales Eisenbahnmuseum
 Das Nationales Eisenbahnmuseum hat zwei Standorte.
