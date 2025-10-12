@@ -3,7 +3,7 @@
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  border: 2px solid var(--link-default);
+  border: 0.2rem solid var(--link-default);
   border-radius: var(--border-radius-m);
   font-size: 1.5rem;
   cursor: pointer;
@@ -18,4 +18,6 @@
   &:focus {
     background: rgba($link-hovered, 0.15);
   }
+
+  @include focus-indicator-3;
 }

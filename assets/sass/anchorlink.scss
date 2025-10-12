@@ -53,13 +53,15 @@
   color: var(--link-default);
   border: none;
   background-color: transparent;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease;
 
   &:hover,
   &:focus {
     background-color: var(--bg-neutral);
     opacity: 1;
   }
+
+  @include focus-indicator-2;
 
   @media print {
     display: none;

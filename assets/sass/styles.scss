@@ -46,13 +46,15 @@ button {
 
 a {
   color: var(--link-default);
-  transition: all 0.3s ease;
+  transition: color 0.3s ease, background-color 0.3s ease;
   text-underline-offset: 0.2rem;
 
   &:hover,
   &:focus {
     color: var(--link-hovered);
   }
+
+  @include focus-indicator-2;
 
   @media print {
     text-decoration: none;
@@ -365,5 +367,21 @@ details > summary {
 .o-link__external:not(.o-last-updated)::after {
   @media print {
     content: " (" attr(href) ") ";
+  }
+}
+
+@mixin focus-indicator-2 {
+  &:focus,
+  &:focus-visible {
+    outline: -webkit-focus-ring-color auto 0.1rem;
+    outline-offset: 0.2rem;
+  }
+}
+
+@mixin focus-indicator-3 {
+  &:focus,
+  &:focus-visible {
+    outline: -webkit-focus-ring-color auto 0.1rem;
+    outline-offset: 0.3rem;
   }
 }

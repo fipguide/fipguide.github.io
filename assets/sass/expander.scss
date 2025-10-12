@@ -9,6 +9,7 @@
   align-items: center;
   transition: background 0.3s ease;
   justify-content: space-between;
+  border-radius: var(--border-radius-m);
 
   &:not(.o-expander__summary--booking) {
     font-weight: 700;
@@ -20,9 +21,10 @@
       text-decoration: underline;
     }
 
-    border-radius: var(--border-radius-m);
     background: rgba($link-hovered, 0.15);
   }
+
+  @include focus-indicator-2;
 
   &--booking {
     &:hover,
@@ -54,7 +56,6 @@ details {
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-m);
   margin-bottom: 1.2rem;
-  border: var(--border);
 
   table {
     width: 100%;

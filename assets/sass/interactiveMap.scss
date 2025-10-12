@@ -67,11 +67,14 @@
     align-items: center;
     justify-content: center;
     font-size: 3rem;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease;
 
-    &:hover {
+    &:hover,
+    &:focus {
       background-color: var(--link-hovered);
     }
+
+    @include focus-indicator-2;
   }
 
   &__legend {

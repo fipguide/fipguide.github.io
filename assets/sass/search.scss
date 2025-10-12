@@ -17,8 +17,8 @@
     box-shadow: var(--box-shadow);
 
     &:focus {
-      outline: 0.2rem solid orange;
-      outline-offset: 0.1rem;
+      outline: -webkit-focus-ring-color auto 0.1rem;
+      outline-offset: 0.4rem;
     }
 
     &::placeholder {
@@ -48,16 +48,10 @@
     padding: 0 1rem 1rem 1rem;
     overscroll-behavior: contain;
     height: 35rem;
+    top: 0.4rem;
     overflow-y: scroll;
     position: relative;
-    top: -0.7rem;
-    border-left: var(--pagefind-ui-border-width) solid var(--pagefind-ui-border);
-    border-right: var(--pagefind-ui-border-width) solid
-      var(--pagefind-ui-border);
-    border-bottom: var(--pagefind-ui-border-width) solid
-      var(--pagefind-ui-border);
-    border-bottom-left-radius: var(--pagefind-ui-border-radius);
-    border-bottom-right-radius: var(--pagefind-ui-border-radius);
+    border-radius: var(--pagefind-ui-border-radius);
     z-index: 3;
   }
 
@@ -76,10 +70,8 @@
     color: var(--link-hovered);
   }
 
-  .pagefind-ui__result-link:focus {
-    outline: 0.2rem solid orange;
-    outline-offset: 0.1rem;
-    border-radius: var(--border-radius-s);
+  .pagefind-ui__result-link {
+    @include focus-indicator-2;
   }
 
   .pagefind-ui__result-link::before {
