@@ -75,7 +75,9 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
-search-placeholder: Suche
+search:
+  label: Durchsuche alle Seiteninhalte
+  placeholder: Suche
 skipToContent: Zum Inhalt springen
 support:
   text: >-

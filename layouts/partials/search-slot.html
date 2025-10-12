@@ -1,7 +1,8 @@
 <script>
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
   const isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
-  let placeholderText = '{{ T "search-placeholder" }}';
+  let placeholderText = '{{ T "search.placeholder" }}';
+  let searchLabelText = '{{ T "search.label" }}';
 
   if (!isMobile) {
     if (isMac) {
@@ -18,6 +19,7 @@
       showSubResults: true,
       translations: {
         placeholder: placeholderText,
+        search_label: searchLabelText
       }
     });
 
