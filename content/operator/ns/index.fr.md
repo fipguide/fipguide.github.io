@@ -110,7 +110,7 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
 ### En ligne
 
 {{% booking id="db-website"
-    subtitle="Pour les trajets nationaux et internationaux"
+    subtitle="Pour les connexions ICE et IC transfrontalières"
 /%}}
 
 {{% booking id="db-website-fip-db"

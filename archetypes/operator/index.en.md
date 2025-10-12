@@ -30,6 +30,10 @@ operator: "{{ .File.ContentBaseName }}"
 
 ## Validity of FIP Tickets
 
+<!--
+  The ticket categories may vary depending on the operator.
+-->
+
 FIP Coupon: <✅/⛔> \
 FIP Coupon for relatives: <✅/⛔> \
 FIP 50 Tickets: <✅/⛔> \
