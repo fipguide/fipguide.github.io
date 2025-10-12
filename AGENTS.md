@@ -3,10 +3,10 @@
 ## Content Guidelines
 
 - Content MUST support all three languages (en, de, fr)
-- ALWAYS align the content with the corresponding base (defined in `archetypes`)
 - NEVER change the meaning of content when translating. Always translate as 1:1.
-- ALWAYS create new content pages with `hugo new {base}/{name}` where base can be `country`, `operator` or `booking`.
+- ALWAYS align the content with the corresponding base (defined in `archetypes`)
 - ALWAYS use the exact translations for headlines (defined in `archetypes`)
+- ALWAYS create new content pages with `hugo new {base}/{name}` where base can be `country`, `operator` or `booking`.
 
 ### Glossary
 

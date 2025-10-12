@@ -10,3 +10,4 @@ Check the page $ARGUMENTS for errors. When no language is provided, check all la
 - Content differs between the different languages. The content should always be the same.
 - The page structure doesn't follow the archetype defined in `archetypes`
 - Anchors of internal links are not matching the referenced and translated title
+- Keywords are not translated as defined in the translations table in `AGENTS.md`
