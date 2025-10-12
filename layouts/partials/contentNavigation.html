@@ -22,7 +22,7 @@
   >
     <div class="o-single__container">
       {{ if eq .Page.Type "operator" }}
-        <ul>
+        <ul aria-label="{{ T "contentNavigation.relatedCountries" }}">
           {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
           {{ with $related }}
             {{ range . }}

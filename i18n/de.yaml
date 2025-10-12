@@ -16,6 +16,7 @@ booking:
   visit-booking-website: Zur Buchungsseite
 contentNavigation:
   button: Inhaltsübersicht öffnen und schließen
+  relatedCountries: Länder, in den der Betreibers aktiv ist
   title: Inhaltsübersicht
 countries:
   overview: Länder mit FIP Akzeptanz

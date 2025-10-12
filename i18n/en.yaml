@@ -15,6 +15,7 @@ booking:
   visit-booking-website: To Booking Website
 contentNavigation:
   button: Open and close content overview
+  relatedCountries: Countries in which the operator is active
   title: Content overview
 countries:
   overview: Countries with FIP acceptance
