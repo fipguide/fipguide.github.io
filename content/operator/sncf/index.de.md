@@ -107,8 +107,7 @@ Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reser
 Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum Paris) und umliegenden Städten verkehrt.
 
 ⚠️ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#züge-im-großraum-paris) \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Ja ⚠️
+**Reservierung möglich:** Nein
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
@@ -223,7 +222,7 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
 {{% /expander %}}
 
 {{% expander "Straßenbahnen" info %}}
-Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben. Zur Gültigkeit von FIP vergünstigungen auf diesen Linien gibt es widersprüchliche Aussagen. Auf den restlichen Straßenbahnlinien gelten keine FIP Vergünstigungen.
+Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben. Zur Gültigkeit von FIP Vergünstigungen auf diesen Linien gibt es widersprüchliche Aussagen. Auf den restlichen Straßenbahnlinien gelten keine FIP Vergünstigungen.
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">

@@ -107,8 +107,7 @@ Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Ré
 Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région parisienne) et villes alentours.
 
 ⚠️ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-France](#trains-en-île-de-france) \
-**Réservation possible :** oui \
-**Réservation obligatoire :** oui ⚠️
+**Réservation possible :** non
 {{% /expander %}}
 
 ## Achat de billets et réservations

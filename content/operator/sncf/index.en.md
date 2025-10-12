@@ -107,8 +107,7 @@ Some lines from Paris require reservations, see [Reservation requirement in regi
 RER is a suburban train operated by SNCF in Île de France (Greater Paris) and surrounding cities.
 
 ⚠️ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in-greater-paris) \
-**Reservation possible:** yes \
-**Reservation required:** yes ⚠️
+**Reservation possible:** no
 {{% /expander %}}
 
 ## Ticket and Reservation Purchase
