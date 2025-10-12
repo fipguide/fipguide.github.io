@@ -30,7 +30,7 @@ Der Zustand, die Dichte und Taktung der Bahnstrecken sind oft sehr abhängig von
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land/Bahngesellschaft | Grenzpunkte |
+| Land | Grenzpunkte |
 |-----------------------|-------------|
 | Belarus / Weißrussland (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship) |
 | Tschechien (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |

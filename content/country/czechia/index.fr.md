@@ -31,8 +31,8 @@ La ponctualité est correcte, les trains en correspondance attendent souvent, ma
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontaliers" border %}}
-| Pays | Points frontaliers |
+{{% expander "Points frontières" border %}}
+| Pays | Points frontières |
 | --- | --- |
 | Allemagne (DB AG) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
 | Autriche (ÖBB) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |

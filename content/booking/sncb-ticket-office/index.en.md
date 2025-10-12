@@ -17,7 +17,7 @@ aliases:
 
 ## FIP 50 Tickets
 
-FIP 50 tickets for domestic and cross-border journeys can be purchased at the SNCB ticket office.
+FIP 50 Tickets for domestic and cross-border journeys can be purchased at the SNCB ticket office.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

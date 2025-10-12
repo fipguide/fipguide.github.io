@@ -22,7 +22,7 @@ In Slovakia, there is an extensive network of ticket counters even at smaller st
 
 ## FIP 50 Tickets
 
-FIP 50 tickets for domestic journeys can be purchased at the ZSSK ticket office.
+FIP 50 Tickets for domestic journeys can be purchased at the ZSSK ticket office.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

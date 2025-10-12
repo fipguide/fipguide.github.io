@@ -12,7 +12,7 @@ aliases:
   - cfl_phone
 ---
 
-CFL offers a booking hotline where FIP 50 tickets can be purchased. The hotline is available in Luxembourgish, French, German, and English.
+CFL offers a booking hotline where FIP 50 Tickets can be purchased. The hotline is available in Luxembourgish, French, German, and English.
 
 [+352 (0) 2489 2489](tel:+35224892489)
 

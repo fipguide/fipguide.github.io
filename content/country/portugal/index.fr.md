@@ -31,8 +31,8 @@ Gares particulièrement recommandées :
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontaliers" border %}}
-| Pays | Points frontaliers |
+{{% expander "Points frontières" border %}}
+| Pays | Points frontières |
 | --- | --- |
 | Espagne | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
 

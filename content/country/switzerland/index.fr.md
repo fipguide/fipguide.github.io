@@ -31,7 +31,7 @@ La Suisse possède l’un des réseaux ferroviaires les plus denses au monde. Ma
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays / Chemin de fer | Points frontières |
+| Pays | Points frontières |
 | --- | --- |
 | Allemagne (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
 | Italie (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |

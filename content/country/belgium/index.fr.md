@@ -15,7 +15,7 @@ En Belgique, les Billets FIP 50 et les Coupons FIP peuvent être utilisés de ma
 
 Des trains internationaux [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") circulent également et sont accessibles avec des Billets FIP spéciaux. Ces trains sont indiqués avec la catégorie `EST` dans les horaires.
 
-Par ailleurs, les trains TGV internationaux opérés par la SNCF en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au tarif global FIP peut être réservé. Les trains Eurocity opérés par OuiGo entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
+Par ailleurs, les trains TGV internationaux opérés par la SNCF en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au Tarif Global FIP peut être réservé. Les trains Eurocity opérés par OuiGo entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
 
 ## Informations générales
 
@@ -56,6 +56,6 @@ L'Eurostar (anciennement Thalys) peut également être utilisé depuis les Pays-
 
 Depuis la France, plusieurs trains régionaux transfrontaliers sont accessibles, avec un Billet FIP SNCF requis pour la section française.
 
-Pour les `TGV` internationaux, un tarif global FIP peut être réservé, mais les Coupons FIP gratuits ne sont pas valables, car ces trains ne sont pas opérés par la SNCB.
+Pour les `TGV` internationaux, un Tarif Global FIP peut être réservé, mais les Coupons FIP gratuits ne sont pas valables, car ces trains ne sont pas opérés par la SNCB.
 
 L'Eurostar (ancien Thalys) depuis la France vers la Belgique est utilisable uniquement avec un Billet FIP spécial Eurostar. ([voir Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))

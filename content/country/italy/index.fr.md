@@ -26,8 +26,8 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontaliers" border %}}
-| Pays | Points frontaliers |
+{{% expander "Points frontières" border %}}
+| Pays | Points frontières |
 | --- | --- |
 | Autriche (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 | Suisse (CFF, BLS, SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |

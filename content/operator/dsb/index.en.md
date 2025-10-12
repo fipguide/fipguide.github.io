@@ -75,11 +75,11 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Cross-border FIP 50 tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On-Site
