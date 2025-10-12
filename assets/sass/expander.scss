@@ -8,6 +8,7 @@
   gap: 0.5rem;
   align-items: center;
   transition: background 0.3s ease;
+  justify-content: space-between;
 
   &:not(.o-expander__summary--booking) {
     font-weight: 700;
@@ -65,10 +66,6 @@ details > summary {
   list-style-type: none;
 }
 
-.details-screen > .o-expander__summary {
-  padding-right: 3.2rem;
-}
-
 details > div {
   overflow-x: auto;
 }
@@ -77,19 +74,8 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-.details-screen > .o-expander__summary::before {
-  content: "keyboard_arrow_down";
-  position: absolute;
-  right: 1.2rem;
-  font-size: 2.4rem;
-  align-self: center;
-  @extend .material-symbols-rounded;
-}
-
-.details-screen[open] > .o-expander__summary::before {
-  content: "keyboard_arrow_up";
-  font-size: 2.4rem;
-  @extend .material-symbols-rounded;
+.details-screen[open] > .o-expander__summary > span {
+  transform: rotate(180deg);
 }
 
 details[open] > .o-expander__summary:not(.o-expander__summary--booking) {
