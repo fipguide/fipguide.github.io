@@ -1,6 +1,6 @@
 ---
 title: "Liste des opérateurs"
-description: "Liste des opérateurs acceptant les avantages FIP."
+description: "Liste des opérateurs acceptant les réductions FIP."
 ---
 
 Retrouvez les règles FIP pour l’opérateur souhaité sur les pages suivantes.

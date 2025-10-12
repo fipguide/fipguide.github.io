@@ -31,7 +31,7 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land / Bahn | Grenzpunkte |
+| Land | Grenzpunkte |
 | --- | --- |
 | Deutschland (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
 | Italien (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
@@ -72,6 +72,8 @@ Aus Frankreich gibt es verschiedene Verbindungen:
 - Regionalzüge über Pontarlier, Vallorbe und weitere Grenzpunkte.
 
 In den `TGV`-Zügen sind reguläre FIP-Tickets nicht gültig. Hier wird ein FIP Globalpreis Ticket benötigt. Für Regionalzüge reicht ein FIP 50 Ticket oder Freifahrtscheine beider beteiligten Bahngesellschaften aus.
+
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
 
 ### Italien
 

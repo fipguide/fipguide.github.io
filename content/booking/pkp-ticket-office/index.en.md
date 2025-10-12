@@ -19,7 +19,7 @@ PKP operates an extensive network of ticket offices even at smaller stations. Li
 
 ## FIP 50 Tickets
 
-FIP 50 tickets for national and cross-border journeys can be purchased at PKP ticket offices.
+FIP 50 Tickets for national and cross-border journeys can be purchased at PKP ticket offices.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

@@ -8,7 +8,7 @@ params:
     # Make sure that each class exists under `booking.classes` in i18n.
     first: "€5,00"
     second: "€5,00"
-  fip_50: true # Define if FIP 50 tickets can be booked with this booking platform
+  fip_50: true # Define if FIP 50 Tickets can be booked with this booking platform
   fip_global_fare: false # Define if FIP Global Fare tickets can be booked with this booking platform
   reservations: true # Define if reservations can be booked with this booking platform
   additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices" # Add a link with additional information
@@ -19,7 +19,7 @@ params:
 
 ## FIP 50 Tickets
 
-At CP ticket offices you can purchase FIP 50 tickets for travel within Portugal. The ticket price is calculated on site using the fare calculator.
+At CP ticket offices you can purchase FIP 50 Tickets for travel within Portugal. The ticket price is calculated on site using the fare calculator.
 {{% /booking-section %}}
 
 {{% booking-section "fip_global_fare" %}}

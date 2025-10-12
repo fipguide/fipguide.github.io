@@ -89,13 +89,13 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Cross-border FIP 50 tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP card)"
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}
@@ -134,7 +134,7 @@ However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, no
 
 ### Cross-border Trains (Italy, France)
 
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP free pass. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
 
 ## Recommendations
 
