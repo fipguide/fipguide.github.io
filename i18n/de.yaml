@@ -88,7 +88,9 @@ theme:
   switch-to-dark: Zu dunklem Modus wechseln
   switch-to-light: Zu hellem Modus wechseln
 toc_name: Inhalt
-updateDate: Zuletzt aktualisiert
+updateDate:
+  aria-label: Öffne die Commit-Verlauf der Seite
+  label: Zuletzt aktualisiert
 wip: >-
   An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein.
   Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr

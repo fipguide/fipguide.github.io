@@ -84,7 +84,9 @@ theme:
   switch-to-dark: Passer en mode sombre
   switch-to-light: Passer en mode clair
 toc_name: Sommaire
-updateDate: Dernière mise à jour
+updateDate:
+  aria-label: Ouvrir l'historique des commits de la page
+  label: Dernière mise à jour
 wip: >-
   Cette page est encore en cours de construction et le contenu peut être
   incomplet. Nous serions ravis que vous contribuiez à l'amélioration de cette
