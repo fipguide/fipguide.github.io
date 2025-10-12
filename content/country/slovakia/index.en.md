@@ -53,7 +53,7 @@ From Hungary, both cross-border regional trains and Eurocity trains can be used.
 
 The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK FIP Coupon are only valid up to the border point.
 
-Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
+Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 Tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
 
 ### Ukraine
 

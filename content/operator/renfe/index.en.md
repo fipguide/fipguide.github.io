@@ -21,7 +21,7 @@ Renfe Operadora is a Spanish state-owned railroad company. It operates comfortab
 
 FIP free ticket: ✅ (exceptions: trains requiring reservations) \
 FIP Coupons for relatives: ⛔ \
-FIP 50 tickets: ✅ (exceptions: trains requiring reservations) \
+FIP 50 Tickets: ✅ (exceptions: trains requiring reservations) \
 FIP Global Fare: ✅ for trains subject to reservation except Avlo
 
 ## Train Categories and Reservations

@@ -68,7 +68,7 @@ Tarif Global FIP : <✅/⛔>
 <!-- Si FIP n’est pas accepté, ajoutez ceci :
 **FIP :** ⛔ FIP non accepté
 -->
-<!-- Si les tarifs globaux FIP sont disponibles, ajoutez ceci :
+<!-- Si les Tarifs Globaux FIP sont disponibles, ajoutez ceci :
 **Tarif Global FIP :**
 -->
 
