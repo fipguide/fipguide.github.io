@@ -1,8 +1,11 @@
 const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 const isMac = navigator.platform.toUpperCase().indexOf("MAC") >= 0;
 
-window.addEventListener("DOMContentLoaded", (event) => {
+const initSearch = () => {
   const search = document.getElementById("search");
+  const searchButtons = document.querySelectorAll(".o-header__item--search");
+  const isHome = document.querySelector(".o-startpage");
+  const overlay = document.getElementById("overlay");
   let placeholderText = search.dataset.placeholder;
 
   if (!isMobile) {
@@ -22,36 +25,68 @@ window.addEventListener("DOMContentLoaded", (event) => {
     },
   });
 
-  // Close search drawer on outside click
-  document.addEventListener("mousedown", function (e) {
-    if (!search) return;
-    if (search.contains(e.target)) return;
-    const searchInput = search.querySelector("input.pagefind-ui__search-input");
-    if (searchInput && document.activeElement === searchInput) {
-      const closeBtn = search.querySelector(".pagefind-ui__search-clear");
-      if (closeBtn) closeBtn.click();
-    }
-  });
+  const searchElement = search.querySelector("input");
+
+  const closeSearch = () => {
+    search.querySelector(".pagefind-ui__search-clear").click();
+    overlay.classList.remove("overlay--show", "overlay--show-lv5");
+    search.classList.remove("o-search--show");
+  };
 
   // Scroll to search on click
-  if (search) {
+  if (search && isHome) {
     search.addEventListener("click", function () {
+      overlay.classList.add("overlay--show", "overlay--show-lv5");
       search.scrollIntoView({ behavior: "smooth", block: "start" });
     });
   }
-});
 
-// Open search on Ctrl + K or Cmd + K
-document.addEventListener("keydown", (e) => {
-  if ((e.ctrlKey || e.metaKey) && e.key === "k") {
-    e.preventDefault();
-    const searchElement = document.querySelector("#search input");
-    if (searchElement) {
-      searchElement.focus();
-      const search = document.getElementById("search");
-      if (search) {
-        search.scrollIntoView({ behavior: "smooth", block: "start" });
+  function showSearchOnContentPage() {
+    search.classList.add("o-search--show");
+    overlay.classList.add("overlay--show", "overlay--show-lv5");
+    searchElement.focus();
+  }
+
+  function showSearchOnStartPage() {
+    overlay.classList.add("overlay--show", "overlay--show-lv5");
+    searchElement.focus();
+    search.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  searchButtons.forEach((button) => {
+    if (isHome) {
+      button.addEventListener("click", showSearchOnStartPage);
+    } else {
+      button.addEventListener("click", showSearchOnContentPage);
+    }
+  });
+
+  // Open search on Ctrl + K or Cmd + K
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+      e.preventDefault();
+      if (isHome) {
+        showSearchOnStartPage();
+      } else {
+        showSearchOnContentPage();
       }
     }
-  }
-});
+  });
+
+  // Close search on ESC
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      closeSearch();
+    }
+  });
+
+  overlay.addEventListener("click", closeSearch);
+};
+
+if (document.readyState === "interactive") {
+  initSearch();
+} else {
+  window.addEventListener("DOMContentLoaded", () => {
+    initSearch();
+  });
+}

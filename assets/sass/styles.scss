@@ -104,6 +104,7 @@ main {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
 }
 
 .o-card {
@@ -366,4 +367,20 @@ details > summary {
   @media print {
     content: " (" attr(href) ") ";
   }
+}
+
+.overlay--show {
+  backdrop-filter: blur(4px);
+  background-color: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  inset: 0;
+  z-index: 3;
+}
+
+.overlay--show-lv5 {
+  z-index: 5;
+}
+
+body:has(.overlay--show) {
+  overflow: hidden;
 }

@@ -1,8 +1,8 @@
-#search {
+.o-search {
   width: 100%;
   height: 6rem;
   display: flex;
-  z-index: 2;
+  z-index: 6;
 
   .pagefind-ui__search-input,
   .pagefind-ui__message,
@@ -11,7 +11,7 @@
   }
 
   .pagefind-ui__search-input {
-    z-index: 3;
+    z-index: 6;
     outline: 0.2rem solid transparent;
     border: var(--border);
     box-shadow: var(--box-shadow);
@@ -28,7 +28,7 @@
   }
 
   .pagefind-ui__search-clear {
-    z-index: 3;
+    z-index: 6;
     height: auto;
     padding: 1rem;
     top: 1rem;
@@ -40,7 +40,7 @@
   }
 
   .pagefind-ui__form::before {
-    z-index: 4;
+    z-index: 7;
   }
 
   .pagefind-ui__drawer {
@@ -58,7 +58,7 @@
       var(--pagefind-ui-border);
     border-bottom-left-radius: var(--pagefind-ui-border-radius);
     border-bottom-right-radius: var(--pagefind-ui-border-radius);
-    z-index: 3;
+    z-index: 6;
   }
 
   .pagefind-ui__result-link {
@@ -101,18 +101,18 @@
   }
 }
 
-.curtain {
-  background-color: rgba(0, 0, 0, 0.8);
-  z-index: 2;
-  transition: opacity 0.3s ease;
+.o-search--contentpage {
+  position: sticky;
+  display: none;
+  top: 10vh;
   opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease;
 }
 
-main:has(#search:focus-within),
-main:has(.pagefind-ui__drawer:not(.pagefind-ui__hidden)) {
-  .curtain {
-    opacity: 1;
-    position: fixed;
-    inset: 0;
-  }
+.o-search--show {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+  z-index: 6;
 }

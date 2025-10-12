@@ -16,6 +16,13 @@
       {{ end }}"
     >
       <div class="o-container">
+        {{ if not .IsHome }}
+          <div
+            id="search"
+            class="o-search o-search--contentpage"
+            data-placeholder="{{ T "search-placeholder" }}"
+          ></div>
+        {{ end }}
         {{ block "main" . }}{{ end }}
       </div>
     </main>
