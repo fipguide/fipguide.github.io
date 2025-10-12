@@ -6,6 +6,7 @@
 - ALWAYS align the content with the corresponding base (defined in `archetypes`)
 - NEVER change the meaning of content when translating. Always translate as 1:1.
 - ALWAYS create new content pages with `hugo new {base}/{name}` where base can be `country`, `operator` or `booking`.
+- ALWAYS use the exact translations for headlines (defined in `archetypes`)
 
 ### Glossary
 
@@ -13,6 +14,14 @@
 - Use "FIP Coupon" instead of "FIP free travel"
 - Use "Motorail train" instead of "car train"
 - Use "Break of journey" instead of "Journey Interruption"
+
+### Translations
+
+| Deutsch             | Englisch        | Französisch      |
+| ------------------- | --------------- | ---------------- |
+| FIP Freifahrtschein | FIP Coupon      | Coupon FIP       |
+| FIP Globalpreis     | FIP Global Fare | Tarif Global FIP |
+| FIP 50 Ticket       | FIP 50 Ticket   | Billet FIP 50    |
 
 ## Development Guidelines
 
