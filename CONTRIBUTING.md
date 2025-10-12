@@ -65,6 +65,8 @@ Now, enable `pre-commit` to run the check every time you want to commit changes:
 pre-commit install
 ```
 
+## Content Contributions
+
 ### Add new pages
 
 To add a new country:
@@ -84,3 +86,21 @@ To add a new booking platform:
 ```zsh
 hugo new booking/${PLATFORM} # Replace ${PLATFORM} with the name of the booking platform
 ```
+
+### Use AI for translation and quality checks
+
+We provide commands to automatically translate and check pages. To define the commands, we use the [OpenCode AI framework](https://opencode.ai/). It's open source and can be used with different providers, models (OpenAI, Github Copilot, Anthropic), and [IDEs](https://opencode.ai/docs/ide/#installation).
+
+#### Installation
+
+1. Install OpenCode: https://opencode.ai/docs#install.
+2. Run `opencode auth login` in a terminal, select the provider and log in.
+3. Open the OpenCode CLI with `opencode` in a terminal.
+4. Run `/models` to select the model you want to use.
+
+Inside the OpenCode Terminal, you can ask any question, similarly to Github Copilot or Claude Chat. In addition, we provide helpful commands:
+
+- `/translate {page}`: Update the translations and add missing translations of the page. `{page}` can be the name of an operator, a country, a booking plattform, or a path to a file.
+- `/check {page}`: Check the page for common mistakes and report them. `{page}` can be the name of an operator, a country, a booking plattform, or a path to a file.
+
+That's the recommended way. However, you can still use other frontend ends like GitHub Copilot Chat and Claude Code. We provide an [`AGENTS.md`](https://agents.md/) file for these providers in the repository, but the custom commands are not available without OpenCode.

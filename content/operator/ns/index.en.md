@@ -110,7 +110,7 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 ### Online
 
 {{% booking id="db-website"
-    subtitle="For national and cross-border connections"
+    subtitle="For cross-border ICE and IC connections"
 /%}}
 
 {{% booking id="db-website-fip-db"

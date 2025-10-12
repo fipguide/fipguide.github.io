@@ -4,9 +4,9 @@ title: "{{ .File.ContentBaseName | upper }}"
 description: "" # Complète une description pour la compagnie ferroviaire
 country:
   # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
-  - "pays1"
-  - "pays2"
-  - "pays3"
+  - "country1"
+  - "country2"
+  - "country3"
 operator: "{{ .File.ContentBaseName }}"
 ---
 
@@ -29,6 +29,10 @@ operator: "{{ .File.ContentBaseName }}"
 -->
 
 ## Validité des Billets FIP
+
+<!--
+  Les catégories de billets peuvent varier selon l'opérateur.
+-->
 
 Coupon FIP : <✅/⛔> \
 Coupon FIP accompagnant : <✅/⛔> \
@@ -75,6 +79,16 @@ Tarif Global FIP : <✅/⛔>
 {{% /expander %}}
 
 ## Catégories de classes
+
+<!--
+  Si les catégories de classes incluent des classes supplémentaires/différentes au-delà de la 1ère et 2ème classe, elles peuvent être décrites ici. Sinon, cette section peut être supprimée.
+-->
+
+<!--
+**Standard** : Comparable à la 2ème classe. \
+**Plus** : 1ère classe sans restauration. Un pass FIP pour la 1ère classe est requis. \
+**Premium** : 1ère classe avec restauration. Non réservable avec FIP.
+-->
 
 ## Achat de billets et réservations
 

@@ -45,7 +45,7 @@ Coût : \
 **Description :** \
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
 
-Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](##conditions-tarifaires-spéciales). \
+Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}

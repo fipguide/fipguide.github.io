@@ -19,7 +19,7 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 - Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz
 - Kein FIP im Wiener Flughafenexpress `CAT`
 - Besondere Regeln in Zügen nach Italien, Nightjets, Autozügen und IC Bussen
-- FIP Freifahrt der ÖBB gilt auch in Lichtenstein
+- FIP Freifahrt der ÖBB gilt auch in Liechtenstein
 
 ## Gültigkeit FIP Tickets
 
@@ -208,9 +208,9 @@ FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen 
 
 Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.
 
-### Lichtenstein
+### Liechtenstein
 
-Die Eisenbahn in Lichtenstein wird von der ÖBB betrieben. FIP Fahrkarten sind hier zu den österreichischen Konditionen und ohne Aufpreis gültig (Feldkirchen-Buchs SG).
+Die Eisenbahn in Liechtenstein wird von der ÖBB betrieben. FIP Fahrkarten sind hier zu den österreichischen Konditionen und ohne Aufpreis gültig (Feldkirchen-Buchs SG).
 
 ### Wien Flughafen: City Airport Train (CAT)
 
@@ -226,7 +226,7 @@ Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stund
 
 ### Schneebergbahn
 
-Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewähnt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
+Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewährt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
 
 ### ÖBB Postbus
 
