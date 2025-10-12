@@ -4,6 +4,10 @@
   display: flex;
   z-index: 6;
 
+  @media print {
+    display: none;
+  }
+
   .pagefind-ui__search-input,
   .pagefind-ui__message,
   .pagefind-ui__search-clear {
