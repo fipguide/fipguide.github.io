@@ -81,7 +81,9 @@ related:
   operators: Related Operators
   operators-nearby: Neighboring Operators
 reportError: Report an error
-search-placeholder: Search
+search:
+  label: Search all page content
+  placeholder: Search
 skipToContent: Skip to content
 support:
   text: >-

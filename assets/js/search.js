@@ -7,6 +7,7 @@ const initSearch = () => {
   const isHome = document.querySelector(".o-startpage");
   const overlay = document.getElementById("overlay");
   let placeholderText = search.dataset.placeholder;
+  let searchLabelText = '{{ T "search.label" }}';
 
   if (!isMobile) {
     if (isMac) {
@@ -22,6 +23,7 @@ const initSearch = () => {
     showSubResults: true,
     translations: {
       placeholder: placeholderText,
+      search_label: searchLabelText,
     },
   });
 
