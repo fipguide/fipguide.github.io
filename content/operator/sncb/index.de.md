@@ -17,8 +17,8 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
-FIP Freifahrtsschein Angehörige: ✅ \
+FIP Freifahrtschein: ✅ \
+FIP Freifahrtschein Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -48,7 +48,7 @@ Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüs
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
-Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtsschein in Höhe von 3€ zu entrichten. \
+Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3€ zu entrichten. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80€ erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.

@@ -79,8 +79,8 @@ Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la f
 **Description :** \
 Trains de nuit ÖBB vers plusieurs pays européens. Wagons couchettes, wagons-lits et places assises, exploités à l’étranger en coopération avec d’autres compagnies. \
 Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au tarif FIP global pour tout le trajet. \
-⚠️ Les billets gratuits nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au tarif FIP global pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire. \
-_Astuce :_ Pour les trajets Allemagne–Italie, utiliser les billets gratuits nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le tarif FIP global. \
+⚠️ Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au tarif FIP global pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire. \
+_Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le tarif FIP global. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif FIP global :** oui \

@@ -15,7 +15,7 @@ Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, 
 
 ## Gültigkeit FIP-Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
@@ -40,7 +40,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Beschreibung:** \
 Internationale Züge Richtung Deutschland und Italien.
 
@@ -110,6 +110,8 @@ Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Maila
 
 {{% booking id="sbb-ticket-machine"/%}}
 
+{{% booking id="db-ticket-office"/%}}
+
 ### Im Zug
 
 Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets. Ausgenommen davon ist der Zuschlag für die grenzüberschreitenden Fernzüge nach Italien.
@@ -124,26 +126,20 @@ Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 6 J
 
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
 
-### Gegenseitige Anerkennung von Freifahrscheinen der SBB und BLS
+### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
-Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrtscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
 
-Nicht gültig sind die Freifahrscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
+Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
-Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag erforderlich. \
-Dieser Zuschlag (inklusive Reservierung) ist obligatorisch, auch mit FIP Freifahrtschein oder FIP 50 Ticket.
-
-- 2\. Klasse: 11€
-- 1\. Klasse: 13€
-
-Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug möglich.
+Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien]({{< ref "/country/switzerland#italien" >}} "Einreise Italien")
 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Der FIP-Freifahrtsschein lohnt sich für die SBB CFF FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
+Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit wenig Besonderheiten ein dichtes Bahnnetz bereist werden kann. Da es in der Schweiz unüblich ist auf nationalen Verbindungen zu reservieren, ist das Reisen sehr entspannt. Die 1. Klasse lohnt sich auch sehr, da der Komfort insbesondere in den Giruno-Zügen hier nochmal deutlich höher ist.
 {{% /highlight %}}
 
 ## Quellen

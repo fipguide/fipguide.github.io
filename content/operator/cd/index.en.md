@@ -25,7 +25,7 @@ FIP 50 Ticket: ✅
 FIP Coupons and FIP 50 Tickets are valid on ČD services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
 {{% highlight important %}}
-On some routes and in some regions, FIP tickets are not valid, even if the services are operated by ČD.
+On some routes and in some regions, FIP Tickets are not valid, even if the services are operated by ČD.
 
 Further information: [ČD services without FIP]({{% ref "#čd-services-without-fip" %}})
 {{% /highlight %}}
@@ -56,7 +56,7 @@ Railjet trains connect Brno and Prague quickly and comfortably and also offer a 
 
 Seat reservations are possible, and mandatory in Business Class. The trains feature modern rolling stock in the ÖBB Railjet style, but with blue exterior. Bicycles, prams, and other bulky luggage can be taken on board. Food and drinks are available in the restaurant car or via at-seat service. In 1st class, passengers receive a free bottle of water and a newspaper; in Business Class, additionally a welcome drink and a 50 CZK voucher for the restaurant (within Czechia only). For children, there is a dedicated children's cinema. [More information](https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/)
 
-ℹ️ Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP tickets. \
+ℹ️ Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP Tickets. \
 **Reservation possible:** yes \
 **Reservation required:** no (only Business Class)
 {{% /expander %}}
@@ -158,13 +158,13 @@ In principle, FIP is theoretically not valid on ČD trains operated under public
 
 #### Regional trains in the South Moravia region (Brno)
 
-FIP tickets are not valid on regional trains in South Moravia, even if operated by ČD.
+FIP Tickets are not valid on regional trains in South Moravia, even if operated by ČD.
 
 Overview of services: [ČD JMK exclusion list 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
 
 #### Regional trains in the Pilsen region
 
-FIP tickets are not valid on some regional trains in the Pilsen area.
+FIP Tickets are not valid on some regional trains in the Pilsen area.
 
 Overview of services: [ČD Pilsen region exclusion list 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
 
@@ -191,7 +191,7 @@ FIP discounts are not valid on special trains and historic services operated by 
 
 ### Foreign Section (Děčín – Rumburk)
 
-FIP tickets are valid on the through routes 083 and 098 (Děčín – Rumburk via Dolní Žleb and Dolní Poustevna and back) even for journeys that leave and re-enter Czechia. However, boarding or alighting at an international station is not permitted.
+FIP Tickets are valid on the through routes 083 and 098 (Děčín – Rumburk via Dolní Žleb and Dolní Poustevna and back) even for journeys that leave and re-enter Czechia. However, boarding or alighting at an international station is not permitted.
 
 ### Journey Interruption
 
