@@ -23,7 +23,7 @@ La réservation est possible en français et en anglais. Lors de la réservation
 Dans le menu suivant, « Voyages/Journey » peut être sélectionné en appuyant sur 1.
 Dans le menu suivant, « Voyages on TGV » peut être sélectionné en appuyant sur 1.
 
-Un alphabet phonétique peut aider lors de la communication des noms et adresses. Le paiement s’effectue uniquement par carte bancaire (Visa, Eurocard ou American Express). Avant de donner le numéro de carte, il faut indiquer le type de carte à l’agent. Aucun frais de réservation supplémentaire n’est appliqué pour les billets FIP.
+Un alphabet phonétique peut aider lors de la communication des noms et adresses. Le paiement s’effectue uniquement par carte bancaire (Visa, Eurocard ou American Express). Avant de donner le numéro de carte, il faut indiquer le type de carte à l’agent. Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
 
 Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la carte FIP.
 

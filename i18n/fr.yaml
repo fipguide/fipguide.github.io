@@ -8,7 +8,7 @@ booking:
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
-  fip-global-fare: Tarif global FIP
+  fip-global-fare: Tarif Global FIP
   reservation: Réservation
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires

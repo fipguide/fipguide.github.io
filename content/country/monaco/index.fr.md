@@ -7,7 +7,7 @@ country: "monaco"
 
 ## Informations FIP
 
-Le chemin de fer au Liechtenstein est exploité par les [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB"). Tous les billets ÖBB sont valables ici, y compris les billets FIP 50 et les coupons FIP pour les ÖBB. Les conditions FIP des ÖBB s'appliquent également au Liechtenstein.
+Le chemin de fer au Liechtenstein est exploité par les [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB"). Tous les billets ÖBB sont valables ici, y compris les Billets FIP 50 et les coupons FIP pour les ÖBB. Les conditions FIP des ÖBB s'appliquent également au Liechtenstein.
 
 ## Informations générales
 

@@ -15,5 +15,5 @@ In larger cities, there are sometimes PKP ticket machines.
 
 ## FIP 50 Tickets
 
-Discounted FIP 50 tickets can be purchased at the ticket machines. The discount "50% UMOWA-FIP-MKZ" may be used for this purpose.
+Discounted FIP 50 Tickets can be purchased at the ticket machines. The discount "50% UMOWA-FIP-MKZ" may be used for this purpose.
 {{% /booking-section %}}

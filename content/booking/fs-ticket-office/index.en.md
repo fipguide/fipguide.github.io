@@ -13,7 +13,7 @@ params:
 {{% booking-section "fip_50" %}}
 **FIP 50 Tickets**
 
-FIP 50 tickets can be purchased at Trenitalia ticket offices.
+FIP 50 Tickets can be purchased at Trenitalia ticket offices.
 
 {{% highlight inofficial %}}
 Sometimes tickets at ticket offices are issued at different rates, so prices may vary. However, we are not aware of any resulting problems during ticket inspection on board.

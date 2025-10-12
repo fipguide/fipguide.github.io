@@ -26,7 +26,7 @@ Aux guichets CP, il est possible d'acheter des Billets FIP 50 pour des voyages �
 
 ## Tarif Global FIP
 
-Les billets Tarif Global FIP ne sont pas vendus aux guichets CP. Pour le service international Celta, un tarif global FIP spécial s'applique et les billets doivent être achetés via les canaux de vente espagnols (voir la page opérateur CP pour plus de détails).
+Les billets Tarif Global FIP ne sont pas vendus aux guichets CP. Pour le service international Celta, un Tarif Global FIP spécial s'applique et les billets doivent être achetés via les canaux de vente espagnols (voir la page opérateur CP pour plus de détails).
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

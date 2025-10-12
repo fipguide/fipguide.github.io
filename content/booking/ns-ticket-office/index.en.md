@@ -17,7 +17,7 @@ aliases:
 
 ## FIP 50 Tickets
 
-FIP 50 tickets can only be purchased at full-service (light) stations with ticket counters. As of December 2023, these are:
+FIP 50 Tickets can only be purchased at full-service (light) stations with ticket counters. As of December 2023, these are:
 
 <!-- prettier-ignore -->
 - Amsterdam Centraal

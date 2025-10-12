@@ -31,7 +31,7 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land / Bahn | Grenzpunkte |
+| Land | Grenzpunkte |
 | --- | --- |
 | Luxemburg (CFL) | Bettembourg (fr), Rodange (fr) |
 | Deutschland (DB) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |

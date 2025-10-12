@@ -31,7 +31,7 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land / Bahn | Grenzpunkte |
+| Land | Grenzpunkte |
 | --- | --- |
 | Deutschland (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
 | Italien (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |

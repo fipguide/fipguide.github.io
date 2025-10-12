@@ -28,7 +28,7 @@ A credit card and email address are required for booking.
 
 ## FIP 50 Tickets
 
-FIP 50 tickets can be purchased for travel within Austria and many European countries.
+FIP 50 Tickets can be purchased for travel within Austria and many European countries.
 
 Tickets are cheaper if purchased in advance (1 day before travel or 15 days before travel).
 

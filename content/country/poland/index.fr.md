@@ -31,7 +31,7 @@ L'état, la densité et la fréquence des lignes ferroviaires dépendent souvent
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays/Compagnie ferroviaire | Points frontières |
+| Pays | Points frontières |
 |----------------------------|-------------------|
 | Biélorussie (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie) |
 | Tchéquie (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |

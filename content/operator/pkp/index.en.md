@@ -132,11 +132,11 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Cross-border FIP 50 tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP card)"
 /%}}
 
 ### On Site
@@ -157,7 +157,7 @@ For a surcharge of 20 PLN, tickets can be purchased on the train if the train cr
 
 #### Polregio
 
-FIP 50 tickets can be issued on the train but are subject to a special fee (except if the passenger boards at a station without ticket sales). Passengers must board through the front door of the train (in the direction of travel) and buy the ticket from the train staff immediately after boarding.
+FIP 50 Tickets can be issued on the train but are subject to a special fee (except if the passenger boards at a station without ticket sales). Passengers must board through the front door of the train (in the direction of travel) and buy the ticket from the train staff immediately after boarding.
 
 #### Koleje Mazowieckie (KM)
 

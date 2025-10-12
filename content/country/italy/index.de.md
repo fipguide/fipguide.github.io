@@ -27,7 +27,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land / Bahn | Grenzpunkte |
+| Land | Grenzpunkte |
 | --- | --- |
 | Österreich (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 | Schweiz (SBB, BLS und SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |

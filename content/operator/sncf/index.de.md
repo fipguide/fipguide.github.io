@@ -94,7 +94,7 @@ Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindunge
 
 {{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
 **Beschreibung:**
-Der TER ist ein Regionalzug der SNCF, der verschiedene Städte in Frankreich verbindet.
+Der `TER` ist ein Regionalzug der SNCF, der verschiedene Städte in Frankreich verbindet.
 
 ℹ️ Auf der Strecke Marseille – Toulon – Nice gilt kein FIP, da dort die `TER` Züge von Transdev betrieben werden. \
 **Reservierung möglich:** Teilweise \
