@@ -225,19 +225,23 @@ West Midlands Trains betreibt Nah- und Regionalverkehr unter zwei Marken: London
 
 ## Ticket- und Reservierungskauf
 
-FIP-ermäßigte Tickets können nicht an Bahnhofsautomaten oder bei Online-Händlern erworben
-werden.
+In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 Rabatt gewährt.
+
+- Anytime Tickets: \
+  Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preise ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt), Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
+- Off-Peak Tickets: \
+  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu bestimmten Zeiten genutzt werden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt), Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
+- Advance Tickets: \
+  Diese Tickets sind stark rabattiert, jedoch nur für eine bestimmte Verbindung und einen bestimmten Zug gültig. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
+- Rovers: \
+  Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt kann jedoch nur erfragt werden.
+- Saisonfahrkarten und London-Fahrkarten: \
+  Unbegrenzte Fahrt zwischen zwei Stationen für einen bestimmten Zeitraum oder innerhalb der
+  angegebenen Londoner Zonen für einen bestimmten Zeitraum. FIP 50 Rabatt ist nicht verfügbar.
+
+Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind in jedem Fall nur in einem konkreten Zug möglich.
 
 ### Online
-
-<!--
-  Bette hier Buchungsplattformen mit Onlinebuchung ein.
-
-  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
-  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
-
-  Mehr Informationen sind im booking archetype zu finden.
--->
 
 {{% booking id="gwr-website"
     subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
@@ -245,49 +249,18 @@ werden.
 
 {{% booking id="internationalrail-email" /%}}
 
-ticket offices
-
-caledonian sleeper
-
-<!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
-
-### Telefon
-
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung per Telefon hinzu.
--->
+{{% booking id="caledonian-sleeper-website" /%}}
 
 ### Vor Ort
 
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
--->
-
-Ticketschalter, es gibt rabatt auf Anytime Single und Off-Peak Single
-
-Ticketarten, auf welche gibt es rabatt und auf welche nicht.
+{{% booking id="national-rail-ticket-office" /%}}
 
 ### Im Zug
 
 FIP-ermäßigte Fahrkarten werden nicht in Zügen ausgestellt, außer in bestimmten ländlichen
-Gebieten, in denen Fahrkarten nur in Zügen ausgestellt werden („Pay-Trains“).
-
-Außerhalb dieser
-Gebiete können Inhaber einer FIP-Karte, die ohne Fahrkarte in einen Zug einsteigen, dazu verpflichtet
-werden, eine Vollpreiskarte zu kaufen und einen Aufpreis zu zahlen. An Bahnhöfen mit Hinweisen auf
-die Inkraftsetzung eines Strafgeldsystems, müssen die Fahrscheine vor dem Einsteigen in einen Zug
-gekauft werden. Andernfalls kann ein Strafzettel für Strafverfolgung vor Gericht ausgestellt werden
-
-<!--
-  Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
--->
+Gebieten, in denen Fahrkarten nur in Zügen ausgestellt werden (_Pay-Trains_).
 
 ## Ermäßigungen
-
-<!--
-  Welche Ermäßigungen können Kinder bekommen und unter welchen Umständen?
-  Welche Ermäßigungen kann es sonst noch geben?
--->
 
 Aktive Mitarbeiter, einschließlich Ehepartner und unterhaltsberechtigte Kinder, der belgischen (NMBS / SNCB) und der französischen Staatsbahn (SNCF) erhalten eine Ermäßigung von 75%. Aktive und pensionierte Mitarbeiter der Irish Rail (CIE) und der Northern Ireland Railways (NIR), darunter auch Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. In diesem Artikel werden diese Vergünstigungen zur Vereinfachung trotzdem als FIP 50 Tickets bezeichnet.
 
@@ -392,8 +365,6 @@ Das Nationales Eisenbahnmuseum hat zwei Standorte.
 locomotion.org.uk
 Der Eintritt in beide Museen ist kostenlos, obwohl die Besucher zu einer freiwilligen Spende
 aufgefordert werden.
-
-museumsbahnen mit FIP
 
 Nachtzüge
 
