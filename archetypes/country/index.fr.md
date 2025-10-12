@@ -40,8 +40,8 @@ params:
 Uniquement les points frontaliers situés à la frontière nationale avec d'autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière.
 -->
 
-{{% expander "Points frontaliers" border %}}
-| Pays | Points frontaliers |
+{{% expander "Points frontières" border %}}
+| Pays | Points frontières |
 | --- | --- |
 {{% /expander %}}
 

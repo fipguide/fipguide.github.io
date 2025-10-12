@@ -110,6 +110,10 @@
     box-shadow: var(--box-shadow);
     max-height: calc(100vh - 20rem - env(safe-area-inset-bottom));
 
+    @media print {
+      display: none;
+    }
+
     &--open {
       transform: translateY(0);
     }

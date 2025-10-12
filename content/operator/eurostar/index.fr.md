@@ -22,7 +22,7 @@ Coupon FIP accompagnant : ⛔ \
 Billets FIP 50 : ⛔ \
 Tarif Global FIP : ✅
 
-Les billets à tarif FIP global peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les Billets FIP via le [site Eurostar](https://www.eurostar.com/). Les Billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
+Les billets à Tarif Global FIP peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les Billets FIP via le [site Eurostar](https://www.eurostar.com/). Les Billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
 
 ## Catégories de trains et réservations
 
@@ -35,7 +35,7 @@ Tous les trains nécessitent une réservation obligatoire et un Billet FIP globa
 Train à grande vitesse entre le Royaume-Uni et l’Europe. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
-**Tarif FIP global :**
+**Tarif Global FIP :**
 | Trajet | Standard | Plus |
 |------------------------------|----------|------|
 | Londres - Paris / Bruxelles | 39€ / 34,50£ | 60€ / 52,50£ |
@@ -48,7 +48,7 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe. \
 Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
-**Tarif FIP global :**
+**Tarif Global FIP :**
 | Trajet | Standard | Plus |
 |-----------------------------|----------|------|
 | Trajet dans un seul pays | Non disponible | Non disponible |

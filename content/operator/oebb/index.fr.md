@@ -45,7 +45,7 @@ Coût : \
 **Description :** \
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
 
-Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](##conditions-tarifaires-spéciales). \
+Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -78,12 +78,12 @@ Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la f
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
 **Description :** \
 Trains de nuit ÖBB vers plusieurs pays européens. Wagons couchettes, wagons-lits et places assises, exploités à l’étranger en coopération avec d’autres compagnies. \
-Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au tarif FIP global pour tout le trajet. \
-⚠️ Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au tarif FIP global pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire. \
-_Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le tarif FIP global. \
+Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au Tarif Global FIP pour tout le trajet. \
+⚠️ Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire. \
+_Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
-**Tarif FIP global :** oui \
+**Tarif Global FIP :** oui \
 **Coût de la réservation :** \
 Selon la ligne, la catégorie et l’occupation.
 {{% /expander %}}
@@ -246,7 +246,7 @@ Jusqu’en décembre 2025, les Billets FIP sont également valables sur l’IC B
 
 #### Klagenfurt/Villach - Udine/Venise
 
-Des tarifs FIP globaux spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
+Des Tarifs Globaux FIP spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
 
 ### Trains auto
 
