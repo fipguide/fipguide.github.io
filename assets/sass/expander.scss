@@ -24,7 +24,7 @@
     background: rgba($link-hovered, 0.15);
   }
 
-  @include focus-indicator-2;
+  @include focus-indicator(0.2rem);
 
   &--booking {
     &:hover,
@@ -73,6 +73,16 @@ details > div {
 
 details > summary::-webkit-details-marker {
   display: none;
+}
+
+.o-expander__summary > span {
+  transition: transform 0.2s;
+}
+
+.o-expander__summary > div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .details-screen[open] > .o-expander__summary > span {

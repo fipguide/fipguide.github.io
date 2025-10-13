@@ -40,24 +40,18 @@ ol {
   }
 }
 
-@mixin focus-indicator-2 {
+@mixin focus-indicator($offset) {
   &:focus,
   &:focus-visible {
-    outline: -webkit-focus-ring-color auto 0.1rem;
-    outline-offset: 0.2rem;
-  }
-}
-
-@mixin focus-indicator-3 {
-  &:focus,
-  &:focus-visible {
-    outline: -webkit-focus-ring-color auto 0.1rem;
-    outline-offset: 0.3rem;
+    outline: var(--outline-focus-indicator) solid 0.2rem;
+    outline-offset: $offset;
   }
 }
 
 button {
   font-size: 1.8rem;
+  border-radius: var(--border-radius-s);
+  @include focus-indicator(0.2rem);
 }
 
 a {
@@ -66,13 +60,14 @@ a {
     color 0.3s ease,
     background-color 0.3s ease;
   text-underline-offset: 0.2rem;
+  border-radius: var(--border-radius-s);
 
   &:hover,
   &:focus {
     color: var(--link-hovered);
   }
 
-  @include focus-indicator-2;
+  @include focus-indicator(0.2rem);
 
   @media print {
     text-decoration: none;

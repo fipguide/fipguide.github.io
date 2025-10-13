@@ -74,7 +74,7 @@
       background-color: var(--link-hovered);
     }
 
-    @include focus-indicator-2;
+    @include focus-indicator(0.2rem);
   }
 
   &__legend {

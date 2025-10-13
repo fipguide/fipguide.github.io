@@ -29,7 +29,7 @@
       width: 50%;
     }
 
-    @include focus-indicator-3;
+    @include focus-indicator(0.3rem);
   }
 }
 

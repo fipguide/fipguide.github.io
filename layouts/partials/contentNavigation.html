@@ -58,30 +58,36 @@
         {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
       {{ end }}
       <hr aria-hidden="true" />
-      {{ partial "link"
-        (dict
-        "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-        "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
-        )
-      }}
-      {{ if eq .Page.Type "operator" }}
-        {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
-        {{ partial "link"
+      <ul>
+        <li>
+          {{ partial "link"
+          (dict
+          "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+          "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+          )
+          }}
+        </li>
+        <li>
+          {{ if eq .Page.Type "operator" }}
+          {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
+          {{ partial "link"
           (dict
           "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
           "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
           )
-        }}
-      {{ end }}
-      {{ if eq .Page.Type "country" }}
-        {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
-        {{ partial "link"
+          }}
+          {{ end }}
+          {{ if eq .Page.Type "country" }}
+          {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
+          {{ partial "link"
           (dict
           "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
           "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
           )
-        }}
-      {{ end }}
+          }}
+          {{ end }}
+        </li>
+      </ul>
     </div>
   </div>
 </aside>

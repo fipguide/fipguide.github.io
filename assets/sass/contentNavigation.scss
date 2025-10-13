@@ -23,6 +23,10 @@
       margin-bottom: 0;
     }
   }
+
+  li {
+    margin-bottom: 0.3rem;
+  }
 }
 
 .o-aside__header {
@@ -35,6 +39,8 @@
   align-items: flex-start;
   gap: 0.4rem;
   width: fit-content;
+
+  @include focus-indicator(0.1rem);
 }
 
 .o-aside__backlink-text {
