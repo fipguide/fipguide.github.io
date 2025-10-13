@@ -53,7 +53,9 @@
   color: var(--link-default);
   border: none;
   background-color: transparent;
-  transition: background-color 0.3s ease, opacity 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    opacity 0.3s ease;
 
   &:hover,
   &:focus {

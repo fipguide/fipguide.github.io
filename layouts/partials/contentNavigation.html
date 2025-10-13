@@ -61,30 +61,30 @@
       <ul>
         <li>
           {{ partial "link"
-          (dict
-          "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-          "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
-          )
+            (dict
+            "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+            "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+            )
           }}
         </li>
         <li>
           {{ if eq .Page.Type "operator" }}
-          {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
-          {{ partial "link"
-          (dict
-          "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
-          "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
-          )
-          }}
+            {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ partial "link"
+              (dict
+              "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
+              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+              )
+            }}
           {{ end }}
           {{ if eq .Page.Type "country" }}
-          {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
-          {{ partial "link"
-          (dict
-          "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
-          "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
-          )
-          }}
+            {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ partial "link"
+              (dict
+              "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
+              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+              )
+            }}
           {{ end }}
         </li>
       </ul>
