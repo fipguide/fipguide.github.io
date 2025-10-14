@@ -5,7 +5,7 @@ description: "Informations sur la réservation via le site web de la SNCB."
 
 params:
   fip_50: true
-  booking_link: "https://www.b-europe.com/FR"
+  booking_link: "https://www.b-europe.com/FR/Acheter/Billets"
   type: "website"
 
 aliases:
