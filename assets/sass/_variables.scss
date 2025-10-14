@@ -16,7 +16,7 @@ $color-onLight: #000000;
 $color-table-border: #5b5b5b;
 
 html {
-  --pagefind-ui-scale: 1;
+  --pagefind-ui-scale: 1 !important;
   --pagefind-ui-text: #000;
   --link-default: #{$link-default};
   --link-hovered: #{$link-hovered};
