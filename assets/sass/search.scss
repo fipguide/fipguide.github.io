@@ -87,6 +87,10 @@
 
   .pagefind-ui__result-thumb {
     width: 10rem;
+
+    @media (max-width: #{$breakpoint-md}) {
+      display: none;
+    }
   }
 
   .pagefind-ui__result-link {
