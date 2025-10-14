@@ -21,9 +21,9 @@ aliases:
 
 ## FIP 50 Tickets
 
-At ÖBB ticket offices, FIP 50 tickets for travel within Austria and many European countries can be purchased.
+At ÖBB ticket offices, FIP 50 Tickets for travel within Austria and many European countries can be purchased.
 
-Tickets (including FIP 50 tickets) are cheaper if bought in advance (1 day before travel or 15 days before travel).
+Tickets (including FIP 50 Tickets) are cheaper if bought in advance (1 day before travel or 15 days before travel).
 
 {{% /booking-section %}}
 

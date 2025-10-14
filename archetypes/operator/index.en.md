@@ -30,13 +30,17 @@ operator: "{{ .File.ContentBaseName }}"
 
 ## Validity of FIP Tickets
 
+<!--
+  The ticket categories may vary depending on the operator.
+-->
+
 FIP Coupon: <✅/⛔> \
 FIP Coupon for relatives: <✅/⛔> \
 FIP 50 Tickets: <✅/⛔> \
 FIP Global Fare: <✅/⛔>
 
 <!--
-  Where are FIP 50 tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
+  Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
 -->
 
 ## Train Categories and Reservations

@@ -11,7 +11,7 @@ CP (Comboios de Portugal) is the Portuguese state railway and the main railway c
 
 ## Summary
 
-- FIP Coupons and FIP 50 tickets are valid on all CP trains
+- FIP Coupons and FIP 50 Tickets are valid on all CP trains
 - Reservation is mandatory on long-distance services
 
 ## Validity of FIP Tickets
@@ -21,7 +21,7 @@ FIP Coupon for relatives: ✅ \
 FIP 50 Tickets: ✅ \
 FIP Global Fare: ✅ (Celta train only)
 
-FIP Coupons and FIP 50 tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
+FIP Coupons and FIP 50 Tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
 
 [Overview of the CP network](https://www.cp.pt/info/documents/d/cp/mapa-servicos-comboios)
 

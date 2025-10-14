@@ -20,7 +20,7 @@ aliases:
 
 ## FIP 50 Tickets
 
-FIP 50 tickets for travel within Switzerland and to many European countries can be purchased at SBB ticket offices.
+FIP 50 Tickets for travel within Switzerland and to many European countries can be purchased at SBB ticket offices.
 
 {{% /booking-section %}}
 

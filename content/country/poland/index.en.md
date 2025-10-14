@@ -31,7 +31,7 @@ The condition, density and frequency of railway lines are often very dependent o
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country/Railway Company | Border Points |
+| Country | Border Points |
 |-------------------------|---------------|
 | Belarus (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship) |
 | Czechia (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
@@ -62,7 +62,7 @@ Between Lithuania and Poland, currently only one train pair daily is offered fro
 
 The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK with Koleje Śląskie. The FIP Coupon of Slovak ZSSK are valid up to the border point.
 
-Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 tickets cannot be purchased through either the KŚ or ZSSK website, but may be possible at a KŚ or ZSSK ticket counter.
+Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 Tickets cannot be purchased through either the KŚ or ZSSK website, but may be possible at a KŚ or ZSSK ticket counter.
 
 ### Czechia
 

@@ -107,8 +107,8 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 **Description :** \
 Trains de nuit internationaux vers l’Allemagne, l’Autriche et la Suisse.
 
-⚠️ Les voyages gratuits nationaux pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne, les employés DB doivent acheter un billet au tarif global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément est nécessaire. \
-_Astuce :_ Pour les trajets Allemagne–Italie, utilisez le voyage gratuit national jusqu’à Salzbourg puis prenez le Nightjet pour éviter le tarif global FIP. \
+⚠️ Les voyages gratuits nationaux pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne, les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément est nécessaire. \
+_Astuce :_ Pour les trajets Allemagne–Italie, utilisez le voyage gratuit national jusqu’à Salzbourg puis prenez le Nightjet pour éviter le Tarif Global FIP. \
 **Réservation possible :** Oui \
 **Réservation obligatoire :** ⚠️ Oui \
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.

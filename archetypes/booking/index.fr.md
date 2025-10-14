@@ -31,7 +31,7 @@ params:
 ## Tarif Global FIP
 
 <!--
-    Expliquez les étapes pour réserver des billets au tarif global FIP via cette plateforme de réservation.
+    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
 -->
 
 {{% /booking-section %}}

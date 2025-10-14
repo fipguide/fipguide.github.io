@@ -30,6 +30,10 @@ operator: "{{ .File.ContentBaseName }}"
 
 ## Gültigkeit FIP Tickets
 
+<!--
+  Die Ticketkategorien können je nach Betreiber abweichen.
+-->
+
 FIP Freifahrtschein: <✅/⛔> \
 FIP Freifahrt Angehörige: <✅/⛔> \
 FIP 50 Tickets: <✅/⛔> \
