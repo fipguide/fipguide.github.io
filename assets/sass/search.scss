@@ -127,6 +127,8 @@
     border-radius: var(--border-radius-m);
     background: transparent;
     color: var(--body-color);
+    margin-top: 0;
+    margin-bottom: 1rem;
 
     &:hover,
     &:focus {
