@@ -1,5 +1,5 @@
 <div class="o-footer__line">
-  <div aria-label="{{ T "footer-love.aria-label" }}">
+  <div aria-label="{{ T "footer-love.aria-label" }}" {{ if and (ne site.Language.LanguageCode "fr") (ne site.Language.LanguageCode "en") }}lang="en"{{ end }}>
     {{ T "footer-love.text" }}
   </div>
   <div class="o-footer__links">
