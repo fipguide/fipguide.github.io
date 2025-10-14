@@ -12,14 +12,12 @@
   flex-wrap: wrap;
   height: fit-content;
 
-  ul,
-  ol {
+  ul {
     list-style-type: none;
     list-style-position: outside;
     padding-left: 0;
 
-    ul,
-    ol {
+    ul {
       margin-bottom: 0;
     }
   }
@@ -47,11 +45,11 @@
     list-style-type: none;
   }
 
-  ol {
+  ul {
     padding: 0 0 0 1em;
   }
 
-  > ol {
+  > ul {
     padding-left: 0;
   }
 }
@@ -60,18 +58,35 @@
   display: flex;
 }
 
-.o-aside__toc a[data-current] {
-  font-weight: bold;
+@mixin toc-indicator-nesting {
+  @for $i from 1 through 4 {
+    $selector: "";
+    @for $j from 1 through $i {
+      $selector: $selector + "ul ";
+    }
 
-  &:before {
-    content: "";
-    width: 0.4rem;
-    height: 2.1rem;
-    position: absolute;
-    display: flex;
-    left: 0;
-    background-color: var(--link-default);
+    #{$selector}a[data-current]:before {
+      left: calc(-#{$i - 1}em - 2.1rem);
+    }
   }
+}
+
+.o-aside__toc {
+  a[data-current] {
+    font-weight: bold;
+    position: relative;
+
+    &:before {
+      content: "";
+      width: 0.4rem;
+      height: 2.1rem;
+      position: absolute;
+      display: flex;
+      background-color: var(--link-default);
+    }
+  }
+
+  @include toc-indicator-nesting;
 }
 
 .o-related {
