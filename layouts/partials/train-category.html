@@ -1,0 +1,61 @@
+<summary class="o-expander__summary o-expander__summary--train-category">
+  <div class="o-train-category__header">
+    <div class="o-train-category__header-content">
+      <div class="o-train-category__title-wrapper">
+        <div class="o-train-category__title">
+          {{- partial "icon" "train" -}}
+          <span class="o-train-category__title-text">{{- .title -}}</span>
+        </div>
+      </div>
+      <div class="o-train-category__tags">
+        {{- if eq .fip_accepted true -}}
+          <span class="o-train-category__tag o-train-category__tag--accepted">
+            {{ partial "icon" "check_circle" }}
+            FIP Accepted
+          </span>
+        {{- else -}}
+          <span class="o-train-category__tag o-train-category__tag--rejected">
+            {{ partial "icon" "dangerous" }}
+            FIP Not Accepted
+          </span>
+        {{- end -}}
+
+        {{- if eq .reservation_required true -}}
+          <span class="o-train-category__tag o-train-category__tag--required">
+            {{ partial "icon" "calendar_month" }}
+            Reservation Required
+          </span>
+        {{- else if eq .reservation_possible true -}}
+          <span class="o-train-category__tag o-train-category__tag--possible">
+            {{ partial "icon" "free_cancellation" }}
+            Reservation Possible
+          </span>
+        {{- else -}}
+          <span class="o-train-category__tag o-train-category__tag--none">
+            {{ partial "icon" "close" }}
+            No Reservation Possible
+          </span>
+        {{- end -}}
+
+        {{- if .info_available -}}
+          <span class="o-train-category__tag o-train-category__tag--info">
+            {{ partial "icon" "info" }}
+            Information Available
+          </span>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+  {{- partial "icon" "keyboard_arrow_down" -}}
+</summary>
+<hr aria-hidden="true" />
+<div class="o-expander__content">
+  {{- if .content -}}
+    <div class="o-train-category__content">
+      {{- .content -}}
+    </div>
+  {{- end -}}
+  {{- if not (eq .fip_accepted true) -}}
+    <span>FIP is not accepted for this train category!</span>
+  {{- end -}}
+</div>
