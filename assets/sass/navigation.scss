@@ -194,6 +194,7 @@ menu > li > menu {
   align-items: center;
   white-space: nowrap;
   line-height: 1;
+  border-radius: var(--border-radius-m);
 
   &:hover,
   &:focus {

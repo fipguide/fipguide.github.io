@@ -37,7 +37,7 @@
           <menu>
             {{ $currentPage := . }}
             <li class="o-header__item o-dropdown">
-              <hr />
+              <hr aria-hidden="true" />
               <button
                 id="navbar-country-selection-button"
                 class="o-dropdown__button"
@@ -72,7 +72,7 @@
                   </li>
                 {{ end }}
               </menu>
-              <hr />
+              <hr aria-hidden="true" />
             </li>
             <li class="o-header__item o-dropdown">
               <button
@@ -110,19 +110,19 @@
                 {{ end }}
               </menu>
             </li>
-            <hr />
+            <hr aria-hidden="true" />
             <li class="o-header__item" id="li-header-news">
               {{ $news := site.GetPage "news" }}
               <a href="{{ $news.RelPermalink }}">{{ $news.Title }}</a>
             </li>
-            <hr />
+            <hr aria-hidden="true" />
             <li class="o-header__item">
               {{ $informationPage := site.GetPage "generalInformation" }}
               <a href="{{ $informationPage.RelPermalink }}"
                 >{{ $informationPage.Title }}</a
               >
             </li>
-            <hr />
+            <hr aria-hidden="true" />
           </menu>
         </li>
         <li class="o-header__item o-header__item--desktop">

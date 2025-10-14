@@ -32,8 +32,8 @@ html {
   --border-radius-s: 0.4rem;
   --border-radius-m: 0.8rem;
   --border-radius-l: 1.6rem;
-  --pagefind-ui-border-radius: var(--border-radius-l);
-  --pagefind-ui-border: #000;
+  --pagefind-ui-border-radius: var(--border-radius-l) !important;
+  --pagefind-ui-border: #000 !important;
   --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
   --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.1);
   --highlight-color-tip: #c4f2ff;
@@ -41,6 +41,7 @@ html {
   --highlight-color-important: #ffe3d9;
   --border: 0.1rem solid transparent;
   --pagefind-ui-font: roboto, Arial, Helvetica, sans-serif;
+  --outline-focus-indicator: #257fa8;
 }
 
 html[data-theme="dark"] {
@@ -64,4 +65,5 @@ html[data-theme="dark"] {
   --highlight-color-inofficial: #2a2d30;
   --highlight-color-important: #4a2a1a;
   --border: 0.1rem solid #3d444d;
+  --outline-focus-indicator: #2e9acb;
 }

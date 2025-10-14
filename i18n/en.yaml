@@ -15,6 +15,7 @@ booking:
   visit-booking-website: To Booking Website
 contentNavigation:
   button: Open and close content overview
+  relatedCountries: Countries in which the operator is active
   title: Content overview
 countries:
   overview: Countries with FIP acceptance
@@ -93,7 +94,9 @@ support:
     href="/en/contact">contact form</a>.
   title: Support Us
 toc_name: Contents
-updateDate: Last updated
+updateDate:
+  aria-label: Open the commit history of the page
+  label: Last updated
 wip: >-
   This page is still under construction and content may be incomplete. We would
   be happy if you contribute to improve this page. [More information on

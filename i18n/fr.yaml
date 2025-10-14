@@ -15,6 +15,7 @@ booking:
   visit-booking-website: Aller sur le site de réservation
 contentNavigation:
   button: Ouvrir et fermer l’aperçu du contenu
+  relatedCountries: Pays dans lesquels l'opérateur est actif
   title: Aperçu du contenu
 countries:
   overview: Pays acceptation FIP
@@ -93,7 +94,9 @@ support:
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
 toc_name: Sommaire
-updateDate: Dernière mise à jour
+updateDate:
+  aria-label: Ouvrir l'historique des commits de la page
+  label: Dernière mise à jour
 wip: >-
   Cette page est encore en cours de construction et le contenu peut être
   incomplet. Nous serions ravis que vous contribuiez à l'amélioration de cette

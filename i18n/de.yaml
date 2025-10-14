@@ -16,6 +16,7 @@ booking:
   visit-booking-website: Zur Buchungsseite
 contentNavigation:
   button: Inhaltsübersicht öffnen und schließen
+  relatedCountries: Länder, in den der Betreibers aktiv ist
   title: Inhaltsübersicht
 countries:
   overview: Länder mit FIP Akzeptanz
@@ -26,8 +27,8 @@ country:
   other: Länder
 editPage: Seite bearbeiten
 footer-love:
-  aria-label: Made with love in Europa
-  text: Made with ♥️ in Europa
+  aria-label: Made with love in Europe
+  text: Made with ♥️ in Europe
 general: Übergreifendes
 highlight:
   important: Wichtige Information
@@ -97,7 +98,9 @@ support:
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
 toc_name: Inhalt
-updateDate: Zuletzt aktualisiert
+updateDate:
+  aria-label: Öffne die Commit-Verlauf der Seite
+  label: Zuletzt aktualisiert
 wip: >-
   An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein.
   Wir freuen uns, wenn du zur Verbesserung dieser Seite beträgst. [Mehr
