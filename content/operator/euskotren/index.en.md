@@ -26,7 +26,7 @@ The staff at Euskotren customer centers will issue you a special "Euskotren FIP 
 The ticket is also issued for relatives with their own FIP card. It is valid for 7 days including the day of issue and you can use it for the entire Euskotren network except for regional bus lines and the museum railway.
 You use the "Euskotren FIP Ticket" to pass through platform barriers. After expiry, you can have the ticket reissued multiple times per year. Euskotren does not apply the usual limitation for FIP Coupons.
 
-<br style="clear:both" />
+<br style="clear:both" aria-hidden="true" />
 
 {{% highlight tip %}}
 Some train operators also issue FIP Coupones for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.

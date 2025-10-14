@@ -40,19 +40,34 @@ ol {
   }
 }
 
+@mixin focus-indicator($offset) {
+  &:focus,
+  &:focus-visible {
+    outline: var(--outline-focus-indicator) solid 0.2rem;
+    outline-offset: $offset;
+  }
+}
+
 button {
   font-size: 1.8rem;
+  border-radius: var(--border-radius-s);
+  @include focus-indicator(0.2rem);
 }
 
 a {
   color: var(--link-default);
-  transition: all 0.3s ease;
+  transition:
+    color 0.3s ease,
+    background-color 0.3s ease;
   text-underline-offset: 0.2rem;
+  border-radius: var(--border-radius-s);
 
   &:hover,
   &:focus {
     color: var(--link-hovered);
   }
+
+  @include focus-indicator(0.2rem);
 
   @media print {
     text-decoration: none;

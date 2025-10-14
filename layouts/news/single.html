@@ -24,7 +24,7 @@
         </ul>
         {{ partial "related" (dict "index" "country" "title" (T "related.countries") "page" . "identifier" "countries") }}
         {{ partial "related" (dict "index" "operator" "title" (T "related.operators") "page" . "identifier" "operators") }}
-        <hr />
+        <hr aria-hidden="true" />
         {{ partial "link"
           (dict
           "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")

@@ -26,7 +26,7 @@ Le personnel des centres clients Euskotren vous délivre un "Euskotren FIP Ticke
 Le billet est également délivré aux accompagnants avec leur propre carte FIP. Il est valable 7 jours y compris le jour d'émission et vous pouvez l'utiliser pour l'ensemble du réseau Euskotren à l'exception des lignes de bus régionales et du train musée.
 Vous utilisez l'"Euskotren FIP Ticket" pour passer les barrières de quai. Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an. Euskotren n'applique pas la limitation habituelle pour les Coupons FIP.
 
-<br style="clear:both" />
+<br style="clear:both" aria-hidden="true" />
 
 {{% highlight tip %}}
 Certains opérateurs ferroviaires délivrent également des titres de transport gratuits pour Euskotren. Selon nos informations, ceux-ci n'ont aucune utilité, les barrières de quai ne peuvent pas être franchies avec. Nous recommandons plutôt de faire délivrer le billet sur place.
