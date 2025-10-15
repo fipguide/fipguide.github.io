@@ -73,6 +73,10 @@
     max-height: 50vh;
     border: var(--border);
     border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
+
+    @media (max-width: #{$breakpoint-md}) {
+      max-height: calc(100dvh - 17rem);
+    }
   }
 
   .pagefind-ui__result {
