@@ -4,7 +4,7 @@
   top: 0;
   box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
   background-color: var(--bg-default);
-  z-index: 5;
+  z-index: 7;
   height: 6rem;
   padding-left: calc((100vw - 100%) / 2);
   border-bottom: var(--border);
@@ -286,7 +286,7 @@ body:has(.o-header__nav--open) {
   overflow: hidden;
 }
 
-.a-theme-toggle {
+.o-header__button {
   padding: 1rem;
   border: none;
   background: transparent;
@@ -298,21 +298,21 @@ body:has(.o-header__nav--open) {
   &:hover {
     color: var(--link-hovered);
   }
+}
 
-  &--desktop {
-    display: none;
+.o-header__item--desktop {
+  display: none;
 
-    @media (min-width: #{$breakpoint-md}) {
-      display: inline-flex;
-    }
-  }
-
-  &--mobile {
+  @media (min-width: #{$breakpoint-md}) {
     display: inline-flex;
+  }
+}
 
-    @media (min-width: #{$breakpoint-md}) {
-      display: none;
-    }
+.o-header__item--mobile {
+  display: inline-flex;
+
+  @media (min-width: #{$breakpoint-md}) {
+    display: none;
   }
 }
 
