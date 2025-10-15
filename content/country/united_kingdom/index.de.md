@@ -27,50 +27,46 @@ params:
 
 ## FIP Nutzung
 
-<!--
-    Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
-    - Welche FIP Fahrtkarten (FIP 50/FIP Freifahrtsscheine) werden im Land anerkannt und bei welchen Bahngesellschaften?
-    - Welche Besonderheiten bei der Nutzung von FIP gibt es bei den jeweiligen Bahngesellschaften? (Verlinkung zur Bahngesellschaft hinzufügen)
-    - Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft?
--->
+Im Vereinigte Königreich wird FIP von allen echten Zugbetreibern akzeptiert, die in [National Rail]({{< ref "/operator/gb" >}} "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind wie bei FIP üblich nicht inbegriffen. Alle Betreiber die FIP akzeptieren sind in der [Liste der Betreiber]({{< ref "/operator/gb#zugkategorien-und-reservierungen" >}} "Liste der Betreiber") aufgeführt.
+
+Zusätzlich gibt es [Eurostarzüge]({{< ref "/operator/eurostar" >}} "Eurostarzüge") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischn Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 
 ## Wissenswertes
 
-<!--
-    Ein kurzer Abschnitt über die allgemeine Zugsituation im Land. Folgende Themen können bspw. behandelt werden:
-    - Ausbaustand des Bahnnetzes
-    - wichtige Verbindungen
-    - Qualität und Zustand der Züge
-    - Pünktlichkeit
-    - Taktung
-    - Besondere Züge/Strecken/Linien
-    - Schöne Bahnhöfe
--->
+Das Vereinigte Königreich ist das Ursprungsland der Eisenbahn und diese hat dort eine dementsprechend lange Tradition. Das Bahnnetz ist sehr dicht und es gibt viele Verbindungen in alle Regionen des Landes. Die Qualität der Züge und Bahnhöfe ist sehr unterschiedlich, da viele Betreiber unabhängig voneinander agieren. Einige Betreiber bieten moderne und komfortable Züge, während andere noch ältere Modelle im Einsatz haben.
 
-nachtzüge
+Des Weiteren gibt es viele große historische Bahnhöfe wie London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads oder York. Darüber hinaus gibt es auch zahlreiche [Museumsbahnen]({{< ref "/operator/gb#museumsbahnen--historische-fahrten" >}} "Museumsbahnen" ) die vergünstigte FIP-Preise bieten.
 
-2FOR1-Angebote für Inhaber von National Rail-Tickets
-Viele Freizeit- und Touristenattraktionen bieten zwei Eintrittskarten für Erwachsene zum Preis von
-einer, wenn Sie mit dem Zug reisen. Informationen in englischer Sprache finden Sie unter
-daysoutguide.co.uk
+Ein besonderes Highlight sind Fahrten durch die atemberaubenden Landschaften der Schottischen Highlands oder durch das idylische Cornwall. Beide Ziele sind auch gut mit Nachtzugverbindungen über den Caledonian Sleeper oder den Night Riviera Sleeper zu erreichen.
 
-Der Rabatt auf die Eintrittsgebühr ist verfügbar, wenn Sie mit FIP-vergünstigten Tickets reisen, die
-mit der FIP International Reduced Rate Card gekauft wurden. Es ist nicht verfügbar, wenn Sie mit FIPCoupons kostenlos reisen.
+Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die 2FOR1-Angebote für Inhaber von National Rail-Tickets anbieten. Bei Vorlage einer FIP 50 Tickets (oder anderer National Rail Tickets, aber kein FIP Freifahrtschein) erhalten Sie zwei Eintrittskarten zum Preis von einer. Weitere Informationen sind im [Days Out Guide](https://www.daysoutguide.co.uk/) zu finden.
 
 ## Anreise und Grenzpunkte
 
-<!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
--->
-
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
-| --- | --- |
+| Frankreich, Belgien, Niederlande (Eurostar) | London St. Pancras International |
+| Niederlande (Stena Line) | Harwich P.Q. |
+| Irland (Stena Line) | Holyhead, Fishguard |
+| Nord-Irland (Stena Line) | Cairnryan, Liverpool |
 {{% /expander %}}
 
-### <Name des Nachbarlandes>
+### Frankreich und Belgien
 
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
+Von Paris Nord, Lille Europe und Brüssel Midi verkehren [Eurostar-Züge]({{< ref "/operator/eurostar" >}} "Eurostar-Seite") nach London St. Pancras International. Diese Züge sind reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
+
+Ab Calais gibt es auch den Le-Shuttel Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
+
+### Niederlande
+
+Von Amsterdam und Rotterdam verkehren [Eurostar Red]({{< ref "/operator/eurostar" >}} "Eurostar Red") und [Eurocity]({{< ref "/operator/ns#zugkategorien-und-reservierungen" >}} "Eurocity") Züge nach Brüssel Midi (Belgien). Dort ist ein Umstieg in [Eurostar Blue]({{< ref "/operator/eurostar" >}} "Eurostar Blue") Züge nach London St. Pancras International möglich.
+
+Zusätzlich verkehrt ab Hoek van Holland eine Fährverbindung nach Harwich, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die RET Metro Hoekse Lijn von Hoek van Holland nach Schiedam Centrum keine FIP Vergünstigungen gewährt.
+
+### Irland
+
+Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von Stena Line sind mit FIP vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+
+### Nord-Irland
+
+Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line sind mit FIP vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.

@@ -249,7 +249,7 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 {{% booking id="internationalrail-email" /%}}
 
-{{% booking id="caledonian-sleeper-website" /%}}
+{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
 ### Vor Ort
 
@@ -262,7 +262,7 @@ Gebieten, in denen Fahrkarten nur in Zügen ausgestellt werden (_Pay-Trains_).
 
 ## Ermäßigungen
 
-Aktive Mitarbeiter, einschließlich Ehepartner und unterhaltsberechtigte Kinder, der belgischen (NMBS / SNCB) und der französischen Staatsbahn (SNCF) erhalten eine Ermäßigung von 75%. Aktive und pensionierte Mitarbeiter der Irish Rail (CIE) und der Northern Ireland Railways (NIR), darunter auch Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. In diesem Artikel werden diese Vergünstigungen zur Vereinfachung trotzdem als FIP 50 Tickets bezeichnet.
+Aktive Mitarbeiter, einschließlich Ehepartner und unterhaltsberechtigte Kinder, der belgischen (NMBS / SNCB) und der französischen Staatsbahn (SNCF) erhalten eine Ermäßigung von 75%. Aktive und pensionierte Mitarbeiter der Irish Rail (CIE) und der Northern Ireland Railways (NIR), darunter auch Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. In diesem Artikel werden diese Vergünstigungen zur Vereinfachung trotzdem als FIP 50 Tickets bezeichnet. [^1]
 
 ## Tarifliche Besonderheiten
 
@@ -275,7 +275,7 @@ An vielen Bahnhöfen in Großbritannien gibt es Ticketschranken, die mit einem T
 Die meisten Verkehre in London werden von Transport for London (TfL) betrieben, bei denen keine FIP Vergünstigungen gelten bzw. deren Verkehre nur mit besonderen Bestimmungen genutzt werden können. Uneingeschränkt gelten FIP Vergünstigungen nur in der Elizabeth Line und London Overground. Auch Regionalzüge wie ThamesLink die durch die Stadt verkehren können mit FIP genutzt werden.
 
 {{% expander "Elizabth Line" info "london" %}}
-Die Elizabeth Line in London ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit mit FIP durch die ganze Stadt zu kommen.
+Die Elizabeth Line in London ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit mit FIP durch die ganze Stadt zu kommen. [^1]
 
 {{% highlight tip %}}
 Von den Stationen der Elizabeth Line verkehren teilweise auch London Underground Linien. Die Ticketschranken sind an diesen Stationen oftmal mit TfL Personal besetzt. Um Verwirrungen vorzubeugen sollte beim Vorzeigen des Freifahrtsscheins die Nutzung der Elizabeth Line erwähnt werden.
@@ -283,12 +283,12 @@ Von den Stationen der Elizabeth Line verkehren teilweise auch London Underground
 {{% /expander %}}
 
 {{% expander "London Overground" info "london" %}}
-Alle Linien der London Overground sind Teil von National Rail und können mit FIP Vergünstigungen genutzt werden.
+Alle Linien der London Overground sind Teil von National Rail und können mit FIP Vergünstigungen genutzt werden. [^1]
 {{% /expander %}}
 
 {{% expander "London Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Seilbahn und Fluss Themse Boote" info "london" %}}
 Londoner Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line,
-Seilbahn und Fluss Themse Boote werden von TfL betrieben und akzeptieren keine FIP Vergünstigungen.
+Seilbahn und Fluss Themse Boote werden von TfL betrieben und akzeptieren keine FIP Vergünstigungen. [^1]
 {{% /expander %}}
 
 {{% expander "London Underground" info "london" %}}
@@ -297,12 +297,12 @@ Die London Underground wird von TfL betrieben und akzeptiert keine FIP Vergünst
 **Ausnahme:** \
 FIP 50 National Rail Tickets, bei denen von einem Londoner Terminal zum anderen umgestiegen werden
 muss, kann die London Underground nur zwischen diesen Londoner Terminalstationen genutzt werden. Die
-Unterbrechung der Fahrt in der London Underground ist nicht gestattet. Tickets, die in der London Underground für den Transfer zwischen einem National Rail Londoner Bahnhof und einem anderen Bahnhof verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet.
+Unterbrechung der Fahrt in der London Underground ist nicht gestattet. Tickets, die in der London Underground für den Transfer zwischen einem National Rail Londoner Bahnhof und einem anderen Bahnhof verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet. [^1]
 {{% /expander %}}
 
 ### Museumsbahnen / Historische Fahrten
 
-Einige Museumsbahnen gewähren Inhabern des FIP Ausweises einen Rabatt. Der Nachlass beträgt 50 % auf den regulären Fahrpreis für Erwachsene. Diese Ermäßigung basiert auf einer freiwilligen Vereinbarung und wird von jeder Bahnlinie aus Kulanz gewährt. Sie kann daher jederzeit ohne Vorankündigung widerrufen werden.
+Einige Museumsbahnen gewähren Inhabern des FIP Ausweises einen Rabatt. Der Nachlass beträgt 50 % auf den regulären Fahrpreis für Erwachsene. Diese Ermäßigung basiert auf einer freiwilligen Vereinbarung und wird von jeder Bahnlinie aus Kulanz gewährt. Sie kann daher jederzeit ohne Vorankündigung widerrufen werden. [^1]
 
 Museumsbahnen verkehren meist nach saisonalen Fahrplänen und unterscheiden zwischen regulären Fahrtagen und Sonderveranstaltungen. An Veranstaltungstagen kann der FIP-Rabatt unter Umständen nicht gewährt werden. Auf den jeweiligen Websites der Bahnen finden sich aktuelle Fahrpläne, Kalender und Informationen zu den angebotenen Fahrten.
 
@@ -352,26 +352,17 @@ Die [Talyllyn Railway](https://talyllyn.co.uk) ist die älteste erhaltene Schmal
 
 ## Empfehlungen
 
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
+In Großbritannien gibt es zwei verschiedene große Eisenbahnmuseen. Der Hauptstandort befindet sich neben dem Bahnhof York. Ein zweiter Standort befindet sich neben dem Bahnhof Shildon und wird Locomotion genannt. Beide Museen sind kostenlos und bieten einen guten Einblick in die Geschichte der Eisenbahn in Großbritannien. Weitere Informationen auf der Website des [Eisenbahnmuseums in York](https://railwaymuseum.org.uk) und [Locomotion in Shildon](https://locomotion.org.uk).
 
-lounges und essen im Zug
+{{% highlight tip %}}
+Fernverkehrszüge in Großbritannien bieten oftmals einen besonders guten Service in der 1. Klasse der Snacks, Speisen sowie (alokoholische) Getränke umfassen kann. Besonders hevorzuheben sind hierbei ist Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket zugänglich sind.
+{{% /highlight %}}
 
-Nationales Eisenbahnmuseum
-Das Nationales Eisenbahnmuseum hat zwei Standorte.
-• Das Hauptmuseum befindet sich neben dem Bahnhof York. railwaymuseum.org.uk
-• Ein sekundäres Museum neben dem Bahnhof Shildon mit dem Namen Locomotion
-locomotion.org.uk
-Der Eintritt in beide Museen ist kostenlos, obwohl die Besucher zu einer freiwilligen Spende
-aufgefordert werden.
+Großbritannien kann auch mit Nachtzügen bereist werden:
 
-Nachtzüge
+- Der Caledonian Sleeper verbindet London mit verschiedenen Zielen in Schottland. Es gibt verschiedene Abteile, darunter Sitzplätze, Liegewagen und Schlafwagen. Reservierungen sind erforderlich und können online gebucht werden.
+- Der Night Riviera Sleeper wird von Great Western Railway betrieben und verbindet London mit Penzance im Südwesten Englands. Auch hier gibt es verschiedene Abteiloptionen, und Reservierungen sind erforderlich.
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](Link)
-
-[^2]: [<Quellenname 2](Link)
-
-https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf
+[^1]: [Rail Delivery Group Guide für Großbritannien](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
