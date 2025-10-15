@@ -41,10 +41,10 @@
 
     // This selector is used to identify if search results are visible
     &:has(
-        + .pagefind-ui__search-clear
-          + .pagefind-ui__drawer
-          .pagefind-ui__results-area
-      ) {
+      + .pagefind-ui__search-clear
+        + .pagefind-ui__drawer
+        .pagefind-ui__results-area
+    ) {
       border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
     }
   }
