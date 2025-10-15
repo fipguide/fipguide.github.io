@@ -3,7 +3,7 @@ const isMac = navigator.platform.toUpperCase().indexOf("MAC") >= 0;
 
 const initSearch = () => {
   const search = document.getElementById("search");
-  const searchButtons = document.querySelectorAll(".o-header__item--search");
+  const searchButtons = document.querySelectorAll(".o-header__search");
   const isHome = document.querySelector(".o-startpage");
   const overlay = document.getElementById("overlay");
   let placeholderText = search.dataset.placeholder;
