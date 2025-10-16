@@ -26,6 +26,7 @@ Für die Nutzung von FIP-Vergünstigungen ist ein aktueller _FIP Ausweis_ erford
 FIP Vergünstigungen bestehen in verschiedenen Formen, für die Nutzung wird immer ein FIP-Ausweis benötigt:
 
 ### FIP Freifahrtscheine
+
 Diese berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tage ausgefüllt werden. Die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. FIP Freifahrtscheine werden teilweise auch als _FIP Coupons_ bezeichnet.
 
 {{% highlight important %}}
@@ -51,6 +52,7 @@ Um länger als acht Tage in einem Land bzw. bei einem Betreiber Zug fahren zu k�
 {{% /highlight %}}
 
 ### FIP 50 Tickets
+
 FIP Berechtigte können reduzierte Tickets erwerben. Diese kosten im Regelfall 50% des flexiblen Preises. Daher sind diese Tickets nicht zuggebunden und flexibel auf der Strecke nutzbar (ausgenommen reservierungspflichtige Züge). Sie können jederzeit in beliebiger Anzahl gekauft werden. Mit FIP 50 besteht einfach eine Art Rabattkarte für viele Verbindungen. Ein FIP 50 Ticket kann dabei auch mehrere Betreiber abdecken.
 
 Die Bestellung funktioniert hier anders als beim FIP Freifahrtschein. Während letzterer normalerweise bei der eigenen Bahngesellschaft oder einem Dienstleister bestellt werden muss, kann das FIP 50 Ticket an verschiedenen Stellen erworben werden. Für eine Fahrt innerhalb eines Landes ist ein Ticketschalter bzw. Reisezentrum meist eine gute Anlaufstelle. Bei einigen Betreibern bzw. in manchen Ländern ist es auch online oder über den Automaten möglich. Bei internationalen Fahrten muss manchmal auch über einen speziellen Ticketschalter für grenzüberschreitende Verbindungen genutzt werden. Auf den jeweiligen Länder- und Betrieberseiten versuchen wir die Informationen zum Kauf der Tickets bestmöglich zusammenzufassen.
@@ -66,6 +68,7 @@ Anders sieht es beispielsweise aus, wenn ich ein Ticket von Wien nach Budapest b
 {{% /expander %}}
 
 ### FIP Globalpreise
+
 Für einige Züge existieren spezielle Preise und Sonderregeln. Diese sind weder mit FIP 50 Tickets noch mit FIP Freifahrtschein fahrbar. Stattdessen muss ein spezieller FIP Globalpreis für die konkrete Zugverbindung erworben werden (diese Tickets sind also zuggebunden). FIP Globalpreise sind z. B. für den Eurostar, TGV/AVE Verkehr zwischen Barcelona und Frankreich oder diverse Nachtzüge erforderlich.
 
 ## Grenzpunkte
