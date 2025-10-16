@@ -15,13 +15,10 @@ booking:
   visit-booking-website: To Booking Website
 contentNavigation:
   button: Open and close content overview
+  relatedCountries: Countries in which the operator is active
   title: Content overview
 countries:
   overview: Countries with FIP acceptance
-  selection:
-    aria-label: Select a country
-    dropdown-label: Available countries
-    title: Countries
   without-fip: Countries without FIP acceptance
 country:
   many: countries
@@ -53,16 +50,31 @@ interactiveMap:
 language-switcher:
   aria-label: Switch language
   dropdown-label: Available languages
-menu-close: Close
-menu-open: Menu
+menu:
+  close:
+    label: Close
+    title: Close menu
+  country-dropdown:
+    aria-label: Open Country-Dropdown
+    dropdown-label: Available countries
+    label: Countries
+    title: Open Country-Dropdown
+  open:
+    label: Menu
+    title: Open Menu
+  operator-dropdown:
+    aria-label: Open Operator-Dropdown
+    dropdown-label: Available operators
+    label: Operators
+    title: Open Operator-Dropdown
+  search: Open search
+  theme:
+    switch-to-auto: Switch to auto mode
+    switch-to-dark: Switch to dark mode
+    switch-to-light: Switch to light mode
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
-operators:
-  selection:
-    aria-label: Select an operator
-    dropdown-label: Available operators
-    title: Operators
 operators_without_fip: Operators without FIP
 related:
   countries: Related Countries
@@ -70,7 +82,9 @@ related:
   operators: Related Operators
   operators-nearby: Neighboring Operators
 reportError: Report an error
-search-placeholder: Search
+search:
+  label: Search all page content
+  placeholder: Search
 skipToContent: Skip to content
 support:
   text: >-
@@ -79,12 +93,10 @@ support:
     to contribute content. Alternatively, you can also write to us via the <a
     href="/en/contact">contact form</a>.
   title: Support Us
-theme:
-  switch-to-auto: Switch to auto mode
-  switch-to-dark: Switch to dark mode
-  switch-to-light: Switch to light mode
 toc_name: Contents
-updateDate: Last updated
+updateDate:
+  aria-label: Open the commit history of the page
+  label: Last updated
 wip: >-
   This page is still under construction and content may be incomplete. We would
   be happy if you contribute to improve this page. [More information on

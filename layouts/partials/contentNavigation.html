@@ -22,7 +22,7 @@
   >
     <div class="o-single__container">
       {{ if eq .Page.Type "operator" }}
-        <ul>
+        <ul aria-label="{{ T "contentNavigation.relatedCountries" }}">
           {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
           {{ with $related }}
             {{ range . }}
@@ -57,31 +57,37 @@
         {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
         {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
       {{ end }}
-      <hr />
-      {{ partial "link"
-        (dict
-        "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-        "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
-        )
-      }}
-      {{ if eq .Page.Type "operator" }}
-        {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
-        {{ partial "link"
-          (dict
-          "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
-          "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
-          )
-        }}
-      {{ end }}
-      {{ if eq .Page.Type "country" }}
-        {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
-        {{ partial "link"
-          (dict
-          "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
-          "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
-          )
-        }}
-      {{ end }}
+      <hr aria-hidden="true" />
+      <ul>
+        <li>
+          {{ partial "link"
+            (dict
+            "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+            "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+            )
+          }}
+        </li>
+        <li>
+          {{ if eq .Page.Type "operator" }}
+            {{ $operator := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ partial "link"
+              (dict
+              "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
+              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+              )
+            }}
+          {{ end }}
+          {{ if eq .Page.Type "country" }}
+            {{ $country := replace .Path (printf "/%s/" .Page.Type) "" }}
+            {{ partial "link"
+              (dict
+              "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
+              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+              )
+            }}
+          {{ end }}
+        </li>
+      </ul>
     </div>
   </div>
 </aside>

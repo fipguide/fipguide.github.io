@@ -21,6 +21,8 @@
     }
   }
 
+  @include focus-indicator(0.3rem);
+
   .material-symbols-rounded {
     font-size: 2.4rem;
     margin-top: 1rem;

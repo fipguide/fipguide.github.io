@@ -27,6 +27,14 @@ Un alphabet phonétique peut aider lors de la communication des noms et adresses
 
 Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la carte FIP.
 
+{{% highlight tip %}}
+Pour éviter les temps d’attente, il est possible de prendre un rendez-vous de rappel sur le [site web de la SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). Le nom et l’adresse e-mail peuvent être indiqués à l’avance, il n’est donc plus nécessaire de les dicter au téléphone. Il est également possible d’indiquer la liaison souhaitée et la réduction FIP dans le champ de texte libre.
+
+La SNCF connaît parfois ces billets sous les noms suivants : \
+_FIP cheminot étranger_ = 50 % de réduction FIP \
+_FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
+{{% /highlight %}}
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

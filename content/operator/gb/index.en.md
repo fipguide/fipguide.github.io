@@ -303,49 +303,47 @@ Museumsbahnen verkehren meist nach saisonalen Fahrplänen und unterscheiden zwis
 
 Reguläre Tickets für Kinder können günstiger sein als Tickets mit FIP-Rabatt.
 
-{{% expander "Dartmouth Steam Railway and River Boat Company" info "heritage_railway" %}} 
+{{% expander "Dartmouth Steam Railway and River Boat Company" info "heritage_railway" %}}
 **Beschreibung:** \
 Die [Dartmouth Steam Railway and River Boat Company](https://dartmouthrailriver.co.uk) betreibt historische Dampflokomotiven zwischen Paignton und Kingswear entlang der malerischen englischen Riviera. Die Strecke bietet beeindruckende Ausblicke auf die Küste von Devon und den River Dart. Der nächstgelegene National-Rail-Bahnhof ist Paignton – von dort sind es nur etwa 25 m (1 Minute Fußweg) zum Bahnhof der Museumsbahn. \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
-{{% expander "Ffestiniog and Welsh Highland Railway" info "heritage_railway" %}} 
+{{% expander "Ffestiniog and Welsh Highland Railway" info "heritage_railway" %}}
 **Beschreibung:** \
 Die [Ffestiniog and Welsh Highland Railway](https://festrail.co.uk) ist eine der ältesten Schmalspurbahnen der Welt und verbindet Porthmadog, Caernarfon, Blaenau Ffestiniog und Minffordd. Sie führt durch das atemberaubende Snowdonia-Gebirge. Von Bangor aus erreicht man die Bahn per Bus (Linie 5C) in ca. 30 Minuten bis zur Caernarfon Bus Station, anschließend 500 m Fußweg (4 Minuten) bis zum Bahnhof. Auch direkte Anschlüsse bestehen in Blaenau Ffestiniog (National Rail, Bahnsteig 1), Minffordd (50 m Fußweg) und Porthmadog (1 km Fußweg, ca. 13 Minuten). \
 **Ermäßigung:** 75 %
 {{% /expander %}}
 
-{{% expander "Isle of Wight Steam Railway" info "heritage_railway" %}} 
+{{% expander "Isle of Wight Steam Railway" info "heritage_railway" %}}
 **Beschreibung:** \
 Die [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk) verkehrt auf der Isle of Wight zwischen Smallbrook Junction und Wootton. Sie ist bekannt für liebevoll restaurierte viktorianische Lokomotiven und Wagen. Der einfachste Zugang erfolgt über Smallbrook Junction, wo ein direkter Umstieg von der National Rail möglich ist (25 m, 1 Minute Fußweg). \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
-{{% expander "Kent and East Sussex Railway" info "heritage_railway" %}} 
+{{% expander "Kent and East Sussex Railway" info "heritage_railway" %}}
 **Beschreibung:** \
 Die [Kent and East Sussex Railway](https://kesr.org.uk) führt von Tenterden nach Bodiam durch die hügelige Landschaft Südostenglands. Die Bahn bietet sowohl Dampf- als auch Dieselzüge. Von Ashford International gelangt man per Bus 2 oder 2A (ca. 45–55 Minuten, 20 km) nach Tenterden Town Centre (The Vine), anschließend 250 m Fußweg (3 Minuten) zum Bahnhof Tenterden Town. Alternativ besteht eine Verbindung ab Headcorn (Bus 12 oder 12RL, 25 Minuten). \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
-{{% expander "Llanberis Lake Railway" info "heritage_railway" %}} 
+{{% expander "Llanberis Lake Railway" info "heritage_railway" %}}
 **Beschreibung:** \
 Die [Llanberis Lake Railway](https://lake-railway.co.uk) verläuft entlang des Llyn Padarn im Herzen des Snowdonia-Nationalparks. Die historische Schmalspurbahn bietet wunderschöne Ausblicke auf die Berge rund um Llanberis. Vom Bahnhof Bangor fährt ein Bus (Linie 85 oder 86) etwa 50 Minuten bis Llanberis Interchange; von dort sind es nur 60 m (1 Minute) zu Fuß bis zum Bahnhof der Museumsbahn. \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
-{{% expander "National Tramway Museum (Crich Tramway Village)" info "heritage_railway" %}} 
+{{% expander "National Tramway Museum (Crich Tramway Village)" info "heritage_railway" %}}
 **Beschreibung:** \
 Das [National Tramway Museum](https://tramway.co.uk) in Crich beherbergt eine der größten Sammlungen historischer Straßenbahnen der Welt. Besucher können mit original restaurierten Trams auf einer Strecke durch das rekonstruierte Dorf „Crich Tramway Village“ fahren. Von Matlock erreicht man das Museum per Bus 140 oder 141 (ca. 32 Minuten, 11 km), oder zu Fuß von Whatstandwell (2,2 km, ca. 35 Minuten). \
 **Ermäßigung:** 2 Personen zum Preis von 1
 {{% /expander %}}
 
-{{% expander "Talyllyn Railway Company" info "heritage_railway" %}} 
+{{% expander "Talyllyn Railway Company" info "heritage_railway" %}}
 **Beschreibung:** \
 Die [Talyllyn Railway](https://talyllyn.co.uk) ist die älteste erhaltene Schmalspurbahn der Welt, die noch immer auf ihrer ursprünglichen Strecke fährt. Sie verkehrt von Tywyn Wharf nach Nant Gwernol in Mid Wales. Der National-Rail-Bahnhof Tywyn liegt nur 350 m (4 Minuten Fußweg) vom Bahnhof Wharf Station entfernt. \
 **Ermäßigung:** 50 %
 {{% /expander %}}
-
-
 
 ## Empfehlungen
 
@@ -372,6 +370,5 @@ Nachtzüge
 [^1]: [<Quellenname 1>](Link)
 
 [^2]: [<Quellenname 2](Link)
-
 
 https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf

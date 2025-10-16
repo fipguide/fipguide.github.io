@@ -16,7 +16,7 @@
   &:hover,
   &:focus {
     color: var(--link-hovered);
-    transition: all 0.3s ease;
+    transition: color 0.3s ease;
 
     & > :not(.material-symbols-rounded) {
       text-decoration: underline;

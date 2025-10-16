@@ -28,5 +28,3 @@ aliases:
 {{% /booking-section %}}
 
 **Pro Buchung wird eine Buchungsgebühr von 10£ erhoben.**
-
-

@@ -12,10 +12,10 @@
     target="_blank"
     rel="noopener noreferrer"
     class="o-last-updated"
-    aria-label="Open the commit history of the page"
+    aria-label="{{ T "updateDate.aria-label" }}"
     data-pagefind-ignore="all"
   >
-    {{ T "updateDate" }}:
+    {{ T "updateDate.label" }}:
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
     {{- partial "icon" "arrow_outward" -}}
   </a>
