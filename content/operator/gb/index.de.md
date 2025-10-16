@@ -11,7 +11,7 @@ operator: "gb"
 
 {{< wip >}}
 
-In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisen Betreiber fokussieren sich dabei jedoch auf eine Region.
+In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisen Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.
 
 ## Zusammenfassung
 
@@ -31,7 +31,7 @@ FIP Freifahrtscheine und FIP 50 Tickets gelten in allen aufgeführten Bahnuntern
 
 ## Zugkategorien und Reservierungen
 
-In Großbritannien gibt es keine klassischen Zugkategorien. Stattdessen wird in Services unterschieden die von vielen unterschiedlichen Bahnunternehmen betrieben werden. Reservierungen sind nur in Nachtzügen erforderlich, teilweise jedoch auch bei langen Strecken empfehlenswert. In den folgenden Betreibern wird FIP akzeptiert:
+In Großbritannien gibt es keine klassischen Zugkategorien. Stattdessen wird in Services unterschieden, die von vielen unterschiedlichen Bahnunternehmen betrieben werden. Reservierungen sind nur in Nachtzügen erforderlich, teilweise jedoch auch bei langen Strecken empfehlenswert. In den folgenden Betreibern wird FIP akzeptiert:
 
 {{% expander "Avanti West Coast" traincategory "category" %}}
 **Beschreibung:** \
@@ -108,7 +108,7 @@ Greater Anglia fährt von London Liverpool Street in die östlichen Counties Eng
 **Beschreibung:** \
 Great Western Railway verbindet London Paddington mit dem Südwesten Englands, South Wales und Bristol im Fern- und Regionalverkehr.
 
-GWR bietet auch einen Nachtzug von London nach Penzance an. Dieser Night Riviera Sleeper ist reservierungspflichtig. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein. \
+GWR betreibt auch einen Nachtzug von London nach Penzance – den reservierungspflichtigen Night Riviera Sleeper. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nur Night Riviera Sleeper
 {{% /expander %}}
@@ -148,7 +148,7 @@ Lumo betreibt Fernzüge zwischen London King’s Cross, Newcastle und Edinburgh.
 
 {{% expander "Merseyrail" traincategory "category" %}}
 **Beschreibung:** \
-Merseyrail ist das Nahverkehrsnetz für Liverpool und die Merseyside-Region. \
+Merseyrail betreibt das Nahverkehrsnetz in Liverpool und der Merseyside-Region. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -225,29 +225,29 @@ West Midlands Trains betreibt Nah- und Regionalverkehr unter zwei Marken: London
 
 In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 Rabatt gewährt.
 
-- Anytime Tickets: \
-  Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preise ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt), Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
-- Off-Peak Tickets: \
-  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu bestimmten Zeiten genutzt werden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt), Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
-- Advance Tickets: \
+- **Anytime Tickets:** \
+  Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preis ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
+- **Off-Peak Tickets:** \
+  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu bestimmten Zeiten genutzt werden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
+- **Advance Tickets:** \
   Diese Tickets sind stark rabattiert, jedoch nur für eine bestimmte Verbindung und einen bestimmten Zug gültig. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
-- Rovers: \
-  Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt kann jedoch nur erfragt werden.
-- Saisonfahrkarten und London-Fahrkarten: \
+- **Rovers:** \
+  Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt wird jedoch nur auf Nachfrage gewährt.
+- **Saisonfahrkarten und London-Fahrkarten:** \
   Unbegrenzte Fahrt zwischen zwei Stationen für einen bestimmten Zeitraum oder innerhalb der
   angegebenen Londoner Zonen für einen bestimmten Zeitraum. FIP 50 Rabatt ist nicht verfügbar.
 
-Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind in jedem Fall nur in einem konkreten Zug möglich.
+Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
 ### Online
+
+{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
 {{% booking id="gwr-website"
     subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
 /%}}
 
 {{% booking id="internationalrail-email" /%}}
-
-{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
 ### Vor Ort
 
@@ -260,23 +260,22 @@ Gebieten, in denen Fahrkarten nur in Zügen ausgestellt werden (_Pay-Trains_).
 
 ## Ermäßigungen
 
-Aktive Mitarbeiter, einschließlich Ehepartner und unterhaltsberechtigte Kinder, der belgischen (NMBS / SNCB) und der französischen Staatsbahn (SNCF) erhalten eine Ermäßigung von 75%. Aktive und pensionierte Mitarbeiter der Irish Rail (CIE) und der Northern Ireland Railways (NIR), darunter auch Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. In diesem Artikel werden diese Vergünstigungen zur Vereinfachung trotzdem als FIP 50 Tickets bezeichnet. [^1]
+Aktive Mitarbeiter der belgischen Staatsbahn (SNCB / NMBS) und der französischen Staatsbahn (SNCF), einschließlich Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. Aktive und pensionierte Mitarbeiter der Irish Rail (CIE) und der Northern Ireland Railways (NIR), einschließlich Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. In diesem Artikel werden diese Vergünstigungen zur Vereinfachung trotzdem als FIP 50 Tickets bezeichnet. [^1]
 
 ## Tarifliche Besonderheiten
 
 ### Ticketschranken
 
-An vielen Bahnhöfen in Großbritannien gibt es Ticketschranken, die mit einem Ticket geöffnet werden müssen. Um mit FIP Freifahrtschein die Ticketschranken zu passieren, muss der FIP Freifahrtschein dem Personal an den Schranken vorgezeigt werden. Wenn kein Personal vor Ort ist, sind die Schranken geöffnet.
+An vielen Bahnhöfen in Großbritannien gibt es Ticketschranken, die mit einem Ticket geöffnet werden müssen. Um die Schranken mit einem FIP Freifahrtschein zu passieren, muss der FIP Freifahrtschein dem Personal an den Schranken vorgezeigt werden. Wenn kein Personal vor Ort ist, sind die Schranken geöffnet.
 
 ### Verkehr in London
 
-Die meisten Verkehre in London werden von Transport for London (TfL) betrieben, bei denen keine FIP Vergünstigungen gelten bzw. deren Verkehre nur mit besonderen Bestimmungen genutzt werden können. Uneingeschränkt gelten FIP Vergünstigungen nur in der Elizabeth Line und London Overground. Auch Regionalzüge wie ThamesLink die durch die Stadt verkehren können mit FIP genutzt werden.
-
+Die meisten Verkehrsangebote in London werden von Transport for London (TfL) betrieben. Für diese gelten in der Regel keine FIP Vergünstigungen bzw. nur unter besonderen Bedingungen. Uneingeschränkt nutzbar mit FIP sind hingegen die Elizabeth Line und London Overground. Auch einige Regionalzüge wie Thameslink, die durch London verkehren, können mit FIP Freifahrtscheinen genutzt werden.
 {{% expander "Elizabth Line" info "london" %}}
-Die Elizabeth Line in London ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit mit FIP durch die ganze Stadt zu kommen. [^1]
+Die Elizabeth Line ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit, um mit FIP durch die ganze Stadt zu kommen. [^1]
 
 {{% highlight tip %}}
-Von den Stationen der Elizabeth Line verkehren teilweise auch London Underground Linien. Die Ticketschranken sind an diesen Stationen oftmal mit TfL Personal besetzt. Um Verwirrungen vorzubeugen sollte beim Vorzeigen des Freifahrtsscheins die Nutzung der Elizabeth Line erwähnt werden.
+Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
 {{% /highlight %}}
 {{% /expander %}}
 
@@ -293,16 +292,15 @@ Seilbahn und Fluss Themse Boote werden von TfL betrieben und akzeptieren keine F
 Die London Underground wird von TfL betrieben und akzeptiert keine FIP Vergünstigungen.
 
 **Ausnahme:** \
-FIP 50 National Rail Tickets, bei denen von einem Londoner Terminal zum anderen umgestiegen werden
-muss, kann die London Underground nur zwischen diesen Londoner Terminalstationen genutzt werden. Die
-Unterbrechung der Fahrt in der London Underground ist nicht gestattet. Tickets, die in der London Underground für den Transfer zwischen einem National Rail Londoner Bahnhof und einem anderen Bahnhof verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet. [^1]
+Bei FIP 50 National Rail Tickets, die einen Umstieg zwischen Londoner Terminalstationen erfordern, darf die London Underground ausschließlich für die Verbindung zwischen diesen Terminals genutzt werden. Die
+Unterbrechung der Fahrt in der London Underground ist hierbei nicht gestattet. Tickets, die in der London Underground für diesen Transfer verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet. [^1]
 {{% /expander %}}
 
 ### Museumsbahnen / Historische Fahrten
 
-Einige Museumsbahnen gewähren Inhabern des FIP Ausweises einen Rabatt. Der Nachlass beträgt 50 % auf den regulären Fahrpreis für Erwachsene. Diese Ermäßigung basiert auf einer freiwilligen Vereinbarung und wird von jeder Bahnlinie aus Kulanz gewährt. Sie kann daher jederzeit ohne Vorankündigung widerrufen werden. [^1]
+Einige Museumsbahnen gewähren Inhabern des FIP Ausweises einen Rabatt. Der Nachlass beträgt 50% auf den regulären Fahrpreis für Erwachsene. Diese Ermäßigung basiert auf einer freiwilligen Vereinbarung und wird von jeder Bahnlinie aus Kulanz gewährt. Sie kann daher jederzeit ohne Vorankündigung widerrufen werden. [^1]
 
-Museumsbahnen verkehren meist nach saisonalen Fahrplänen und unterscheiden zwischen regulären Fahrtagen und Sonderveranstaltungen. An Veranstaltungstagen kann der FIP-Rabatt unter Umständen nicht gewährt werden. Auf den jeweiligen Websites der Bahnen finden sich aktuelle Fahrpläne, Kalender und Informationen zu den angebotenen Fahrten.
+Museumsbahnen verkehren meist nach saisonalen Fahrplänen und unterscheiden zwischen regulären Fahrtagen und Sonderveranstaltungen. An Veranstaltungstagen wird der FIP-Rabatt unter Umständen nicht gewährt. Auf den jeweiligen Websites der Bahnen finden sich aktuelle Fahrpläne, Kalender und Informationen zu den angebotenen Fahrten.
 
 Reguläre Tickets für Kinder können günstiger sein als Tickets mit FIP-Rabatt.
 
@@ -314,31 +312,31 @@ Die [Dartmouth Steam Railway and River Boat Company](https://dartmouthrailriver.
 
 {{% expander "Ffestiniog and Welsh Highland Railway" info "heritage_railway" %}}
 **Beschreibung:** \
-Die [Ffestiniog and Welsh Highland Railway](https://festrail.co.uk) ist eine der ältesten Schmalspurbahnen der Welt und verbindet Porthmadog, Caernarfon, Blaenau Ffestiniog und Minffordd. Sie führt durch das atemberaubende Snowdonia-Gebirge. Von Bangor aus erreicht man die Bahn per Bus (Linie 5C) in ca. 30 Minuten bis zur Caernarfon Bus Station, anschließend 500 m Fußweg (4 Minuten) bis zum Bahnhof. Auch direkte Anschlüsse bestehen in Blaenau Ffestiniog (National Rail, Bahnsteig 1), Minffordd (50 m Fußweg) und Porthmadog (1 km Fußweg, ca. 13 Minuten). \
+Die [Ffestiniog and Welsh Highland Railway](https://festrail.co.uk) ist eine der ältesten Schmalspurbahnen der Welt und verbindet Porthmadog, Caernarfon, Blaenau Ffestiniog und Minffordd. Sie führt durch das atemberaubende Snowdonia-Gebirge. Vom National-Rail Bahnhof Bangor erreicht man die Bahn per Bus (Linie 5C) in ca. 30 Minuten bis zur Caernarfon Bus Station, anschließend Fußweg (4 Minuten, 500 m) bis zum Bahnhof. Direkte Anschlüsse bestehen ebenfalls in Blaenau Ffestiniog (National Rail, Bahnsteig 1), Minffordd (50 m Fußweg) und Porthmadog (Fußweg ca. 13 Minuten, 1 km). \
 **Ermäßigung:** 75 %
 {{% /expander %}}
 
 {{% expander "Isle of Wight Steam Railway" info "heritage_railway" %}}
 **Beschreibung:** \
-Die [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk) verkehrt auf der Isle of Wight zwischen Smallbrook Junction und Wootton. Sie ist bekannt für liebevoll restaurierte viktorianische Lokomotiven und Wagen. Der einfachste Zugang erfolgt über Smallbrook Junction, wo ein direkter Umstieg von der National Rail möglich ist (25 m, 1 Minute Fußweg). \
+Die [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk) verkehrt auf der Isle of Wight zwischen Smallbrook Junction und Wootton. Sie ist bekannt für liebevoll restaurierte viktorianische Lokomotiven und Wagen. Der einfachste Zugang erfolgt über Smallbrook Junction, wo ein direkter Umstieg von der National Rail möglich ist (1 Minute Fußweg, 25 m). \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
 {{% expander "Kent and East Sussex Railway" info "heritage_railway" %}}
 **Beschreibung:** \
-Die [Kent and East Sussex Railway](https://kesr.org.uk) führt von Tenterden nach Bodiam durch die hügelige Landschaft Südostenglands. Die Bahn bietet sowohl Dampf- als auch Dieselzüge. Von Ashford International gelangt man per Bus 2 oder 2A (ca. 45–55 Minuten, 20 km) nach Tenterden Town Centre (The Vine), anschließend 250 m Fußweg (3 Minuten) zum Bahnhof Tenterden Town. Alternativ besteht eine Verbindung ab Headcorn (Bus 12 oder 12RL, 25 Minuten). \
+Die [Kent and East Sussex Railway](https://kesr.org.uk) führt von Tenterden nach Bodiam durch die hügelige Landschaft Südostenglands. Die Bahn bietet sowohl Dampf- als auch Dieselzüge. Von Ashford International gelangt man per Buslinie 2 oder 2A (Fahrtzeit 45–55 Minuten, 20 km) nach Tenterden Town Centre (The Vine) und anschließendem Fußweg (3 Minuten, 250 m) zum Bahnhof Tenterden Town. Alternativ besteht eine Verbindung ab Headcorn mit Buslinie 12 oder 12RL (Fahrtzeit 25 Minuten). \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
 {{% expander "Llanberis Lake Railway" info "heritage_railway" %}}
 **Beschreibung:** \
-Die [Llanberis Lake Railway](https://lake-railway.co.uk) verläuft entlang des Llyn Padarn im Herzen des Snowdonia-Nationalparks. Die historische Schmalspurbahn bietet wunderschöne Ausblicke auf die Berge rund um Llanberis. Vom Bahnhof Bangor fährt ein Bus (Linie 85 oder 86) etwa 50 Minuten bis Llanberis Interchange; von dort sind es nur 60 m (1 Minute) zu Fuß bis zum Bahnhof der Museumsbahn. \
+Die [Llanberis Lake Railway](https://lake-railway.co.uk) verläuft entlang des Llyn Padarn im Herzen des Snowdonia-Nationalparks. Die historische Schmalspurbahn bietet wunderschöne Ausblicke auf die Berge rund um Llanberis. Vom Bahnhof Bangor fährt ein Bus der Linien 85 und 86 etwa 50 Minuten bis Llanberis Interchange; von dort sind es nur 60 m (1 Minute) zu Fuß bis zum Bahnhof der Museumsbahn. \
 **Ermäßigung:** 50 %
 {{% /expander %}}
 
 {{% expander "National Tramway Museum (Crich Tramway Village)" info "heritage_railway" %}}
 **Beschreibung:** \
-Das [National Tramway Museum](https://tramway.co.uk) in Crich beherbergt eine der größten Sammlungen historischer Straßenbahnen der Welt. Besucher können mit original restaurierten Trams auf einer Strecke durch das rekonstruierte Dorf „Crich Tramway Village“ fahren. Von Matlock erreicht man das Museum per Bus 140 oder 141 (ca. 32 Minuten, 11 km), oder zu Fuß von Whatstandwell (2,2 km, ca. 35 Minuten). \
+Das [National Tramway Museum](https://tramway.co.uk) in Crich beherbergt eine der größten Sammlungen historischer Straßenbahnen der Welt. Besucher können mit original restaurierten Trams auf einer Strecke durch das rekonstruierte Dorf „Crich Tramway Village“ fahren. Vom Bahnhof Matlock erreicht man das Museum per Buslinie 140 oder 141 (ca. 32 Minuten, 11 km), oder zu Fuß von Whatstandwell (ca. 35 Minuten, 2,2 km). \
 **Ermäßigung:** 2 Personen zum Preis von 1
 {{% /expander %}}
 
@@ -350,16 +348,16 @@ Die [Talyllyn Railway](https://talyllyn.co.uk) ist die älteste erhaltene Schmal
 
 ## Empfehlungen
 
-In Großbritannien gibt es zwei verschiedene große Eisenbahnmuseen. Der Hauptstandort befindet sich neben dem Bahnhof York. Ein zweiter Standort befindet sich neben dem Bahnhof Shildon und wird Locomotion genannt. Beide Museen sind kostenlos und bieten einen guten Einblick in die Geschichte der Eisenbahn in Großbritannien. Weitere Informationen auf der Website des [Eisenbahnmuseums in York](https://railwaymuseum.org.uk) und [Locomotion in Shildon](https://locomotion.org.uk).
+In Großbritannien gibt es zwei verschiedene, große Eisenbahnmuseen. Der Hauptstandort befindet sich neben dem Bahnhof York. Ein zweiter Standort befindet sich neben dem Bahnhof Shildon und wird Locomotion genannt. Beide Museen sind kostenlos und bieten einen guten Einblick in die Geschichte der Eisenbahn in Großbritannien. Weitere Informationen auf der Website des [Eisenbahnmuseums in York](https://railwaymuseum.org.uk) und [Locomotion in Shildon](https://locomotion.org.uk).
 
 {{% highlight tip %}}
-Fernverkehrszüge in Großbritannien bieten oftmals einen besonders guten Service in der 1. Klasse der Snacks, Speisen sowie (alokoholische) Getränke umfassen kann. Besonders hevorzuheben sind hierbei ist Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket zugänglich sind.
+Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alokoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket zugänglich sind.
 {{% /highlight %}}
 
 Großbritannien kann auch mit Nachtzügen bereist werden:
 
-- Der Caledonian Sleeper verbindet London mit verschiedenen Zielen in Schottland. Es gibt verschiedene Abteile, darunter Sitzplätze, Liegewagen und Schlafwagen. Reservierungen sind erforderlich und können online gebucht werden.
-- Der Night Riviera Sleeper wird von Great Western Railway betrieben und verbindet London mit Penzance im Südwesten Englands. Auch hier gibt es verschiedene Abteiloptionen, und Reservierungen sind erforderlich.
+- Der Caledonian Sleeper verbindet London mit mehreren Zielen in Schottland. Reisende können zwischen Sitzplätzen, Liegewagen und Schlafabteilen wählen. Eine Reservierung ist erforderlich und kann online vorgenommen werden.
+- Der Night Riviera Sleeper verbindet London mit Penzance im Südwesten Englands. Auch hier gibt es verschiedene Abteiloptionen mit Reservierungspflicht.
 
 ## Quellen
 

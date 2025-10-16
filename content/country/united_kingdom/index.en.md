@@ -47,6 +47,7 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die 2FOR1-An
 
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
+| --- | --- |
 | Frankreich, Belgien, Niederlande (Eurostar) | London St. Pancras International |
 | Niederlande (Stena Line) | Harwich P.Q. |
 | Irland (Stena Line) | Holyhead, Fishguard |

@@ -13,8 +13,7 @@ params:
   type: "onsite"
 ---
 
-Die Ticketschalter in Großbritannien sind in der Regel vom jeweiligen Bahnbetreiber des Bahnhofs. Die verschiedenen Bahnbetreiber verkaufen allerdings gegenseitig Fahrkarten und Reservierungen anderer Betreiber in Großbritannien.
-
+Die Ticketschalter in Großbritannien werden in der Regel vom jeweiligen Bahnbetreiber des Bahnhofs betrieben. Dennoch verkaufen die verschiedenen Betreiber auch Fahrkarten und Reservierungen für die Züge anderer Bahngesellschaften im Land.
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
@@ -26,5 +25,5 @@ An den Ticketschaltern werden Fahrkarten mit FIP 50 Rabatt verkauft. Dazu muss d
 
 ## Reservierungen
 
-Am Ticketschalter können kostenlose Reservierungen für Sitzplatzreservierungen vorgenommen werden. In der Regel muss dafür kein Ticket vorgelegt werden, sondern es reicht der Verweis auf einen FIP Freifahrtschein.
+Kostenlose Sitzplatzreservierungen können am Ticketschalter vorgenommen werden. Meist genügt hierfür der Verweis auf einen FIP Freifahrtschein; ein Ticket muss in der Regel nicht vorgelegt werden.
 {{% /booking-section %}}
