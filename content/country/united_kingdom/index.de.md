@@ -31,7 +31,7 @@ Im Vereinigten Königreich wird FIP von allen Zugbetreibern akzeptiert, die in [
 
 Nordirland ist auch Teil des Vereinigten Königreichs, wird aber von einem eigenen Bahnbetreiber (NIR) bedient, bei dem eigene FIP Vergünstigungen für Nordirland gelten.
 
-Zusätzlich gibt es [Eurostarzüge]({{< ref "/operator/eurostar" >}} "Eurostarzüge") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischn Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
+Zusätzlich gibt es [Eurostarzüge]({{< ref "/operator/eurostar" >}} "Eurostarzüge") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 
 ## Wissenswertes
 
