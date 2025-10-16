@@ -86,7 +86,7 @@ Online booking of tickets is currently not possible. However, checking in, reboo
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="internationalrail-email" /%}}
+{{% booking id="internationalrail-email" fip_50=nil /%}}
 
 {{% booking id="trainseurope-email" /%}}
 

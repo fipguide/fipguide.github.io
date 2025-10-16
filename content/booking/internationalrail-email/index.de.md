@@ -5,6 +5,7 @@ description: "Buchungsinformationen für die Buchung per E-Mail bei Internationa
 
 params:
   fip_global_fare: true
+  fip_50: true
   type: "email"
   fee: 10£
 
@@ -12,6 +13,14 @@ aliases:
   - uk_mail
   - uk-mail
 ---
+
+{{% booking-section "fip_global_fare" %}}
+
+## FIP Globalpreis
+
+Über International Rail Ltd. können FIP Globalpreistickets erworben werden. Dazu muss eine Mail an [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) gesendet werden. Die Buchung ist nur in Englisch möglich. Bei der Buchung müssen folgende Angaben gemacht werden:
+
+{{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
 

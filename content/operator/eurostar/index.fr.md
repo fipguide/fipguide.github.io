@@ -86,7 +86,7 @@ Réservation en ligne non disponible. Mais la gestion du billet (annulation, éc
 
 Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-{{% booking id="internationalrail-email" /%}}
+{{% booking id="internationalrail-email" fip_50=nil /%}}
 
 {{% booking id="trainseurope-email" /%}}
 

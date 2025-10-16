@@ -18,7 +18,7 @@ Die Ticketschalter in Großbritannien werden in der Regel vom jeweiligen Bahnbet
 
 ## FIP 50 Fahrkarten
 
-An den Ticketschaltern werden Fahrkarten mit FIP 50 Rabatt verkauft. Dazu muss der FIP Freifahrtschein vorgelegt werden.
+An den Ticketschaltern werden Fahrkarten mit FIP 50 Rabatt verkauft. Dazu muss der FIP Ausweis vorgelegt werden.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

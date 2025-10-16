@@ -35,7 +35,9 @@ In Großbritannien gibt es keine klassischen Zugkategorien. Stattdessen wird in 
 
 {{% expander "Avanti West Coast" traincategory "category" %}}
 **Beschreibung:** \
-Avanti West Coast bietet schnelle Fernverbindungen entlang der Westküste Großbritanniens, unter anderem zwischen London, Manchester und Glasgow. \
+Avanti West Coast bietet schnelle Fernverbindungen entlang der Westküste Großbritanniens, unter anderem zwischen London, Manchester und Glasgow.
+
+In der ersten Klasse werden Snacks, Essen und (alkoholische) Getränke serviert. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -61,7 +63,9 @@ Chiltern Railways bietet regionale Verbindungen zwischen London Marylebone, Birm
 
 {{% expander "CrossCountry" traincategory "category" %}}
 **Beschreibung:** \
-CrossCountry betreibt Fernzüge quer durch Großbritannien, ohne über London zu fahren, zum Beispiel von Aberdeen nach Penzance. \
+CrossCountry bietet Fernverbindungen zwischen Nordost-, Mittel- und Südwestengland sowie Schottland und Wales. Die Züge verbinden unter anderem Städte wie Aberdeen, Birmingham, Bristol, Cardiff, Manchester und Penzance und bedienen zahlreiche Regionen abseits der klassischen Hauptlinien.
+
+In der ersten Klasse werden teilweise Snacks, Essen und (alkoholische) Getränke serviert. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -87,7 +91,9 @@ Gatwick Express ist eine schnelle Direktverbindung zwischen London Victoria und 
 
 {{% expander "Grand Central" traincategory "category" %}}
 **Beschreibung:** \
-Grand Central ist ein unabhängiger Open-Access-Betreiber mit Direktverbindungen zwischen London King’s Cross, Yorkshire und dem Nordosten Englands. \
+Grand Central bietet Direktverbindungen zwischen London King’s Cross, Yorkshire und dem Nordosten Englands, darunter Städte wie Sunderland, Bradford und York.
+
+In der ersten Klasse werden Snacks und Getränke serviert. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -100,13 +106,17 @@ Great Northern bietet Pendlerverbindungen von London nach Hertfordshire, Cambrid
 
 {{% expander "Greater Anglia" traincategory "category" %}}
 **Beschreibung:** \
-Greater Anglia fährt von London Liverpool Street in die östlichen Counties Englands und nach Norwich. \
+Greater Anglia fährt von London Liverpool Street in die östlichen Counties Englands und nach Norwich.
+
+In der ersten Klasse können Snacks und Getränke aus dem Bordcafé kostenlos erhalten werden. \
 **Reservierung möglich:** Nein
 {{% /expander %}}
 
 {{% expander "Great Western Railway (GWR)" traincategory "category" %}}
 **Beschreibung:** \
 Great Western Railway verbindet London Paddington mit dem Südwesten Englands, South Wales und Bristol im Fern- und Regionalverkehr.
+
+In der ersten Klasse werden Snacks und Getränke serviert.
 
 GWR betreibt auch einen Nachtzug von London nach Penzance – den reservierungspflichtigen Night Riviera Sleeper. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein. \
 **Reservierung möglich:** Ja \
@@ -121,14 +131,16 @@ Heathrow Express bietet eine schnelle Nonstop-Verbindung zwischen London Padding
 
 {{% expander "Hull Trains" traincategory "category" %}}
 **Beschreibung:** \
-Hull Trains ist ein Open-Access-Betreiber mit Direktverbindungen zwischen Hull und London King’s Cross. \
+Hull Trains bietet Direktverbindungen zwischen London King’s Cross und wichtigen Städten in Yorkshire, darunter Hull, Doncaster und Selby. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
 
 {{% expander "London North Eastern Railway (LNER)" traincategory "category" %}}
 **Beschreibung:** \
-LNER betreibt Fernzüge entlang der Ostküste von London nach Edinburgh und York. \
+LNER betreibt Fernzüge entlang der Ostküste von London nach Edinburgh und York.
+
+In der ersten Klasse werden Snacks, Essen und (alkoholische) Getränke serviert. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -198,13 +210,15 @@ Stansted Express ist die schnelle Direktverbindung zwischen London Liverpool Str
 
 {{% expander "Thameslink" traincategory "category" %}}
 **Beschreibung:** \
-Thameslink bietet durchgehende Nord-Süd-Verbindungen durch London und zu Flughäfen. \
+Thameslink bietet durchgehende Nord-Süd-Verbindungen durch London und verbindet Städte wie Bedford, Luton, St Albans, London, Gatwick Airport, Brighton, Cambridge und Peterborough. Die Züge verkehren rund um die Uhr und bedienen wichtige Umsteigepunkte sowie mehrere Londoner Bahnhöfe, darunter St Pancras International, London Bridge und Blackfriars. Thameslink eignet sich besonders für Fahrten zu den Flughäfen Gatwick und Luton sowie für Verbindungen zwischen den nördlichen und südlichen Vororten Londons. \
 **Reservierung möglich:** Nein
 {{% /expander %}}
 
 {{% expander "TransPennine Express" traincategory "category" %}}
 **Beschreibung:** \
-TransPennine Express verbindet Nordwest- und Nordostengland sowie Schottland über die Pennines. \
+TransPennine Express verbindet Nordwest- und Nordostengland sowie Schottland über die Pennines.
+
+In der ersten Klasse werden teilweise Snacks, Essen und (alkoholische) Getränke serviert. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Nein
 {{% /expander %}}
@@ -228,7 +242,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 - **Anytime Tickets:** \
   Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preis ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
 - **Off-Peak Tickets:** \
-  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu bestimmten Zeiten genutzt werden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
+  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu eingeschränkten Zeiten genutzt werden. Im Regelfall ist die morgendliche Hauptreisezeit ausgenommen, die genauen Einschränkungen können sich aber je nach Ticket unterscheiden und ist in den Ticketbedingungen angegeben. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
 - **Advance Tickets:** \
   Diese Tickets sind stark rabattiert, jedoch nur für eine bestimmte Verbindung und einen bestimmten Zug gültig. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
 - **Rovers:** \
@@ -247,7 +261,7 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
     subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
 /%}}
 
-{{% booking id="internationalrail-email" /%}}
+{{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
 ### Vor Ort
 
@@ -260,7 +274,7 @@ Gebieten, in denen Fahrkarten nur in Zügen ausgestellt werden (_Pay-Trains_).
 
 ## Ermäßigungen
 
-Aktive Mitarbeiter der belgischen Staatsbahn (SNCB / NMBS) und der französischen Staatsbahn (SNCF), einschließlich Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. Aktive und pensionierte Mitarbeiter der Irish Rail (CIE) und der Northern Ireland Railways (NIR), einschließlich Ehepartner und unterhaltsberechtigte Kinder, erhalten eine Ermäßigung von 75%. In diesem Artikel werden diese Vergünstigungen zur Vereinfachung trotzdem als FIP 50 Tickets bezeichnet. [^1]
+Aktive und pensionierte Mitarbeiter der SNCB/NMBS (Belgien), SNCF (Frankreich), Irish Rail (CIE) und Northern Ireland Railways (NIR) sowie deren Ehepartner und unterhaltsberechtigte Kinder erhalten unter Vorlage des FIP Ausweises eine Ermäßigung von 75% auf den Ticketpreis (statt der sonst üblichen 50% bei FIP 50 Tickets). [^1]
 
 ## Tarifliche Besonderheiten
 
