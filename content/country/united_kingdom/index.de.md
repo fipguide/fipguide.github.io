@@ -27,7 +27,7 @@ params:
 
 ## FIP Nutzung
 
-Im Vereinigte Königreich wird FIP von allen echten Zugbetreibern akzeptiert, die in [National Rail]({{< ref "/operator/gb" >}} "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind wie bei FIP üblich nicht inbegriffen. Alle Betreiber die FIP akzeptieren sind in der [Liste der Betreiber]({{< ref "/operator/gb#zugkategorien-und-reservierungen" >}} "Liste der Betreiber") aufgeführt.
+Im Vereinigten Königreich wird FIP von allen Zugbetreibern akzeptiert, die in [National Rail]({{< ref "/operator/gb" >}} "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind – wie bei FIP üblich – nicht inbegriffen. Alle Betreiber, die FIP akzeptieren, sind in der [Liste der Betreiber]({{< ref "/operator/gb#zugkategorien-und-reservierungen" >}} "Liste der Betreiber") aufgeführt.
 
 Nordirland ist auch Teil des Vereinigten Königreichs, wird aber von einem eigenen Bahnbetreiber (NIR) bedient, bei dem eigene FIP Vergünstigungen für Nordirland gelten.
 
