@@ -5,11 +5,12 @@ description: "Informations sur les conditions FIP pour la France et les opérate
 country: "france"
 params:
   operators_without_fip:
-    - Transdev
-    - RATP
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Chemins de fer corses)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#trains-frecciarossa-internationaux-vers-paris" >}} "Frecciarossa (Trenitalia)")'
+    - Getlink (Eurotunnel Le Shuttle)
+    - RATP
+    - Transdev
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
 ---
 
 ## Informations FIP
@@ -45,6 +46,8 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 ### Royaume-Uni
 
 Les liaisons transfrontalières depuis le Royaume-Uni sont exploitées par [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"). Elles relient Londres à Lille et Paris via le tunnel sous la Manche. Les Tarifs Globaux FIP sont disponibles pour ces liaisons.
+
+Depuis Folkestone, il existe également le train auto Le Shuttle à travers le tunnel sous la Manche, mais aucune réduction FIP n’est accordée. Il existe aussi différentes liaisons par ferry entre la France et le Royaume-Uni, mais aucune réduction FIP n’y est proposée.
 
 ### Belgique
 

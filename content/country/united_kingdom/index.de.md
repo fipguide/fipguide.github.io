@@ -9,6 +9,7 @@ params:
     - Caledonian MacBrayne Ferries
     - Docklands Light Railway
     - Edinburgh Tramway
+    - Getlink (Eurotunnel Le Shuttle)
     - Glasgow Subway
     - Hovertravel (Southsea, Portsmouth to Ryde, Isle of Wight)
     - '[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")'
@@ -58,7 +59,7 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 
 Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber (NIR) bedient. Durch die Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es Fährverbindungen, welche mit FIP genutzt werden können.
 
-Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheine von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheine von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden [_Rail & Sail_](https://www.seat61.com/train-and-ferry-to-belfast.htm) Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
 ### Frankreich und Belgien
 
@@ -74,6 +75,6 @@ Zusätzlich verkehrt ab Hoek van Holland eine Fährverbindung nach Harwich, die 
 
 ### Irland
 
-Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden [_Rail & Sail_](https://www.seat61.com/train-and-ferry-to-belfast.htm) Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
 Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland (CIE) und Nordirland (NIR) erforderlich.
