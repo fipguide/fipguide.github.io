@@ -74,6 +74,6 @@ Zusätzlich verkehrt ab Hoek van Holland eine Fährverbindung nach Harwich, die 
 
 ### Irland
 
-Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheine von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
 Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland (CIE) und Nordirland (NIR) erforderlich.
