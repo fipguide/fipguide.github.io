@@ -118,10 +118,6 @@ RER is a suburban train operated by SNCF in Île de France (Greater Paris) and s
   subtitle="Cross-border FIP 50 Tickets for TGV/ICE trains between Germany and France, only for the French section. For Deutsche Bahn employees only."
 /%}}
 
-{{% booking id="db-website-fip-international"
-  subtitle="Cross-border FIP 50 Tickets for TGV/ICE trains between Germany and France, for both countries. Not valid for DB and SNCF employees."
-/%}}
-
 {{% booking id="sncb-website"
   subtitle="Cross-border FIP 50 Tickets for regional trains from Belgium."
 /%}}

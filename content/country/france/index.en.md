@@ -63,7 +63,7 @@ Travel within Luxembourg is free in 2nd class, so a CFL Coupon is not strictly n
 
 ### Germany
 
-Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased via Deutsche Bahn, see [Booking options – Online]({{< ref "/operator/sncf#online" >}} "Booking options - Online").
+Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online]({{< ref "/operator/sncf#online" >}} "Booking options - Online").
 
 {{% highlight tip %}}
 A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4 from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket (DB employee discounts only apply with NE tickets) is. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.

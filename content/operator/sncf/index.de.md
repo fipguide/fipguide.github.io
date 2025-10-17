@@ -118,10 +118,6 @@ Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum
     subtitle="Grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 /%}}
 
-{{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich, mit Ticketanteil in beiden Ländern. Nicht für Mitarbeiter der Deutschen Bahn und SNCF nutzbar."
-/%}}
-
 {{% booking id="sncb-website"
     subtitle="Grenzüberschreitende FIP 50 Tickets für grenzüberschreitende Regionalzüge aus Belgien."
 /%}}
