@@ -39,7 +39,7 @@ Das Vereinigte Königreich ist das Ursprungsland der Eisenbahn und diese hat dor
 
 Des Weiteren gibt es viele große historische Bahnhöfe wie London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads oder York. Zahlreiche [Museumsbahnen]({{< ref "/operator/gb#museumsbahnen--historische-fahrten" >}} "Museumsbahnen" ) bieten vergünstigte Preise für FIP-Inhabende an.
 
-Ein besonderes Highlight sind Fahrten durch die atemberaubenden Landschaften der schottischen Highlands oder das idylische Cornwall. Beide Ziele sind auch gut mit Nachtzugverbindungen über den Caledonian Sleeper oder den Night Riviera Sleeper zu erreichen.
+Ein besonderes Highlight sind Fahrten durch die atemberaubenden Landschaften der schottischen Highlands oder das idyllische Cornwall. Beide Ziele sind auch gut mit Nachtzugverbindungen über den Caledonian Sleeper oder den Night Riviera Sleeper zu erreichen.
 
 Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-Angebote für Inhaber von National Rail-Tickets anbieten. Bei Vorlage eines FIP 50 Tickets oder eines anderen gültigen National Rail Tickets (ausgenommen FIP Freifahrtscheine) erhält man zwei Eintrittskarten zum Preis von einer. Weitere Informationen sind im [Days Out Guide](https://www.daysoutguide.co.uk/) zu finden.
 
