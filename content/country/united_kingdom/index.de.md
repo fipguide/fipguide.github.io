@@ -37,7 +37,7 @@ Zusätzlich gibt es [Eurostarzüge]({{< ref "/operator/eurostar" >}} "Eurostarz�
 
 Das Vereinigte Königreich ist das Ursprungsland der Eisenbahn und diese hat dort eine dementsprechend lange Tradition. Das Bahnnetz ist sehr dicht und es gibt viele Verbindungen in alle Regionen des Landes. Die Qualität der Züge und Bahnhöfe ist sehr unterschiedlich, da viele Betreiber unabhängig voneinander agieren. Einige Betreiber bieten moderne und komfortable Züge, während andere noch ältere Modelle im Einsatz haben.
 
-Des Weiteren gibt es viele große historische Bahnhöfe wie London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads oder York. Zahlreiche [Museumsbahnen]({{< ref "/operator/gb#museumsbahnen--historische-fahrten" >}} "Museumsbahnen" ) bieten vergünstigte Preise für FIP-Inhabende an.
+Des Weiteren gibt es viele große historische Bahnhöfe wie London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads oder York. Zahlreiche [Museumsbahnen]({{< ref "/operator/gb#museumsbahnen--historische-fahrten" >}} "Museumsbahnen" ) bieten vergünstigte Preise für FIP-Berechtigte an.
 
 Ein besonderes Highlight sind Fahrten durch die atemberaubenden Landschaften der schottischen Highlands oder das idyllische Cornwall. Beide Ziele sind auch gut mit Nachtzugverbindungen über den Caledonian Sleeper oder den Night Riviera Sleeper zu erreichen.
 
