@@ -69,7 +69,7 @@ Entre la France et l’Allemagne circulent des trains longue distance en coopér
 Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4 d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket (réductions DB valables uniquement avec billets NE) est accepté. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
 {{% /highlight %}}
 
-Il existe aussi plusieurs liaisons régionales entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis.
+Il existe aussi plusieurs liaisons régionales entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne]({{< ref "/operator/sncf#en-ligne" >}} "Achat de billets et réservations – en ligne").
 
 {{% highlight tip %}}
 Le Deutschlandticket, une option économique pour le trafic régional allemand, est aussi valable sans billet supplémentaire sur les liaisons régionales vers Lauterbourg et Wissembourg ou avec le Saarbahn vers Sarreguemines.

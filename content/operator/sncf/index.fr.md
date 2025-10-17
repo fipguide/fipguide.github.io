@@ -115,11 +115,15 @@ Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région
 ### En ligne
 
 {{% booking id="db-website-fip-db"
-  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE entre l’Allemagne et la France, uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
+{{% booking id="db-website-fip-international"
+  subtitle="Billets FIP 50 transfrontaliers pour trains régionaux entre l’Allemagne et la France pour l’ensemble du trajet (non valables dans le pays d’émission du Carte FIP)."
 /%}}
 
 {{% booking id="sncb-website"
-  subtitle="Billets FIP 50 transfrontaliers pour trains régionaux depuis la Belgique."
+  subtitle="Billets FIP 50 transfrontaliers pour trains régionaux au départ de la Belgique."
 /%}}
 
 ### Par téléphone

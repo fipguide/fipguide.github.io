@@ -69,7 +69,7 @@ Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance t
 A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4 from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket (DB employee discounts only apply with NE tickets) is. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
 {{% /highlight %}}
 
-There are also various regional train connections from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid.
+There are also various regional train connections from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid. FIP 50 Tickets for these connections can be purchased online; see [Booking options – Online]({{< ref "/operator/sncf#online" >}} "Booking options - Online").
 
 {{% highlight tip %}}
 The Deutschlandticket, a cheap option for regional travel in Germany, is also valid without an additional ticket on regional train connections from Germany to Lauterbourg and Wissembourg or with the Saarbahn to Sarreguemines.

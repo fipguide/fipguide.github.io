@@ -114,7 +114,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
 
 #### FIP Global Fare
 
-When booking, the FIP cards of all travelers must be presented.
+When booking, the FIP Cards of all travelers must be presented.
 {{% /booking %}}
 
 ### Onboard
