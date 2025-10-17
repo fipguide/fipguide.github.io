@@ -108,7 +108,7 @@ Great Northern bietet Pendlerverbindungen von London nach Hertfordshire, Cambrid
 **Beschreibung:** \
 Greater Anglia fährt von London Liverpool Street in die östlichen Counties Englands und nach Norwich.
 
-In der ersten Klasse können Snacks und Getränke aus dem Bordcafé kostenlos erhalten werden. \
+In der ersten Klasse können Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden. \
 **Reservierung möglich:** Nein
 {{% /expander %}}
 
@@ -244,7 +244,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 - **Off-Peak Tickets:** \
   Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu eingeschränkten Zeiten genutzt werden. Im Regelfall ist die morgendliche Hauptreisezeit ausgenommen, die genauen Einschränkungen können sich aber je nach Ticket unterscheiden und ist in den Ticketbedingungen angegeben. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
 - **Advance Tickets:** \
-  Diese Tickets sind stark rabattiert, jedoch nur für eine bestimmte Verbindung und einen bestimmten Zug gültig. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
+  Diese Tickets sind stark rabattiert, jedoch nur für eine bestimmte Verbindung und einen bestimmten Zug gültig. Die Tickets können bis 10 min vor Abfahrt des Zuges erworben werden. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
 - **Rovers:** \
   Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt wird jedoch nur auf Nachfrage gewährt.
 - **Saisonfahrkarten und London-Fahrkarten:** \
@@ -365,7 +365,7 @@ Die [Talyllyn Railway](https://talyllyn.co.uk) ist die älteste erhaltene Schmal
 In Großbritannien gibt es zwei verschiedene, große Eisenbahnmuseen. Der Hauptstandort befindet sich neben dem Bahnhof York. Ein zweiter Standort befindet sich neben dem Bahnhof Shildon und wird Locomotion genannt. Beide Museen sind kostenlos und bieten einen guten Einblick in die Geschichte der Eisenbahn in Großbritannien. Weitere Informationen auf der Website des [Eisenbahnmuseums in York](https://railwaymuseum.org.uk) und [Locomotion in Shildon](https://locomotion.org.uk).
 
 {{% highlight tip %}}
-Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alokoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket zugänglich sind.
+Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alokoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket der 1. Klasse zugänglich sind. Dort werden je nach Betreiber ebenfalls Snacks, Speisen sowie (alokoholische) Getränke serviert.
 {{% /highlight %}}
 
 Großbritannien kann auch mit Nachtzügen bereist werden:
