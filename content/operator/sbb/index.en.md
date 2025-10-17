@@ -95,7 +95,7 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP Card)"
 %}}
 Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
 {{% /booking %}}

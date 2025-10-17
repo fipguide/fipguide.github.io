@@ -63,13 +63,13 @@ Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein
 
 ### Deutschland
 
-Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können auch über die Deutsche Bahn erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
+Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
 Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitervergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
 Das Deutschlandticket, das eine günstige Option zur Nutzung im deutschen Regionalverkehr ist, gilt auch ohne zusätzliches Ticket auf den Regionalzugverbindungen von Deutschland nach Lauterbourg und Wissembourg oder mit der Saarbahn nach Sarreguemines.
@@ -93,13 +93,15 @@ Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza übe
 
 ### Spanien
 
-Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe bietet grenzüberschreitende Züge zwischen Lyon und Barcelona sowie Marseille und Madrid an.
+Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
 
-Bei beiden Anbietern sind FIP Globalpreise möglich, welche bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich.
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs in Spanien, allerdings sind diese Tickets nur bei Renfe Ticketschaltern in Spanien erhältlich. Außerdem sollte ein Verkauf im Zug beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
+
+Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye an der Atlantikküste gefahren werden.
+
+Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen nach Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal oder am Renfe Ticketschalter in Spanien erworben werden.
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
-
-Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
 
 ### Monaco
 

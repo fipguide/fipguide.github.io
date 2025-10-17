@@ -127,7 +127,7 @@ Dépend de la ligne, de l'occupation et de la catégorie.
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Tchéquie pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Tchéquie pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
 /%}}
 
 ### En gare

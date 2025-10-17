@@ -136,7 +136,7 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
 /%}}
 
 ### En gare

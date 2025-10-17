@@ -179,6 +179,10 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
+### Renfe Feve
+
+FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) in Nordspanien.
+
 ## Empfehlungen
 
 {{% highlight tip %}}
