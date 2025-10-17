@@ -93,13 +93,15 @@ SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco
 
 ### Spain
 
-Direct `TGV` trains run from Paris to Barcelona, operated by SNCF. Renfe also offers cross-border trains between Lyon and Barcelona and Marseille and Madrid.
+Direct `TGV` trains operated by the French SNCF run from Barcelona to Paris. Renfe also operates cross-border services between Barcelona and Lyon as well as Madrid and Marseille.
 
-Both operators offer FIP Global Fares, which can be very expensive with SNCF, see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Cross-border TGV inOui / ICE trains"). For Renfe-operated trains, the same prices apply as for domestic AVEs, but these tickets are only available at Renfe ticket counters on site.
+For both, FIP Global Fares are available, but these can be very expensive when purchased from SNCF—see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains"). For trains operated by Renfe, the same fares apply as for domestic AVE trains in Spain, but these tickets are only available at Renfe ticket counters in Spain. It should also be possible to buy them on board when boarding in France, but there is no practical experience with this yet.
+
+With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
+
+There are also regional Rodalies de Catalunya trains operated by Renfe with cross-border connections to Cerbère and Latour-de-Carol. FIP Tickets can be purchased directly on the train from the train staff or at Renfe ticket counters in Spain.
 
 Overall, there are very few cross-border connections, which were much better developed a few years ago.
-
-With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with a special FIP ticket to Hendaye.
 
 ### Monaco
 

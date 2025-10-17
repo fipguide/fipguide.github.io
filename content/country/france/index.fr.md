@@ -93,13 +93,15 @@ Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia
 
 ### Espagne
 
-Depuis Paris, des trains directs `TGV` SNCF relient Barcelone. Renfe propose aussi des trains entre Lyon et Barcelone ainsi que Marseille et Madrid.
+Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
 
-Chez les deux opérateurs, les Tarifs Globaux FIP sont possibles, mais ils sont très chers chez la SNCF, voir [TGV inOui / ICE transfrontaliers]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "TGV inOui / ICE transfrontaliers"). Pour les trains Renfe, les mêmes prix que pour les AVE nationaux s’appliquent, mais ces billets ne sont disponibles qu’aux guichets Renfe.
+Pour ces deux opérateurs, des Tarifs Globaux FIP sont disponibles, mais ceux de la SNCF peuvent être très coûteux, voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux"). Pour les trains exploités par Renfe, les mêmes tarifs que pour les AVE nationaux en Espagne s’appliquent, mais ces billets ne sont disponibles qu’aux guichets Renfe en Espagne. Il devrait également être possible d’acheter un billet à bord lors de la montée en France, mais il n’existe pas encore de retour d’expérience à ce sujet.
+
+Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
+
+Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
 
 Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
-
-Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible d’aller jusqu’à Hendaye avec le Billet FIP spécial.
 
 ### Monaco
 
