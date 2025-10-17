@@ -26,7 +26,7 @@ aliases:
 
 ## FIP 50 Fahrkarten
 
-Über International Rail Ltd. können FIP 50 Fahrkarten erworben werden. Dazu muss eine Mail an [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) gesendet werden. Die Buchung ist nur in Englisch möglich. Bei der Buchung müssen folgende Angaben gemacht werden:
+Über International Rail Ltd. können FIP 50 Fahrkarten erworben werden. Dazu muss eine Mail an [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk) gesendet werden. Die Buchung ist nur auf Englisch möglich. Bei der Buchung müssen folgende Angaben gemacht werden:
 
 - Reisetag und Zeit
 - Abfahrts- und Zielbahnhof
