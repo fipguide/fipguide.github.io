@@ -56,7 +56,7 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 
 ### Reisen zwischen dem Vereinigten Königreich und Nord-Irland
 
-Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber (NIR) bedient. Durch die Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es Fährverbindungen, welche mit FIP genutzt werden können.
+Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber (NIR) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es Fährverbindungen, welche mit FIP genutzt werden können.
 
 Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheine von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden _Rail & Sail_ Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
