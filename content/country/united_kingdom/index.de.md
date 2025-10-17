@@ -9,7 +9,7 @@ params:
     - Caledonian MacBrayne Ferries
     - Docklands Light Railway
     - Edinburgh Tramway
-    - Getlink (Eurotunnel Le Shuttle)
+    - Getlink (Eurotunnel LeShuttle)
     - Glasgow Subway
     - Hovertravel (Southsea, Portsmouth to Ryde, Isle of Wight)
     - '[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")'
@@ -65,7 +65,7 @@ Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverp
 
 Von Paris Nord, Lille Europe und Brüssel Midi verkehren [Eurostar-Züge]({{< ref "/operator/eurostar" >}} "Eurostar-Seite") nach London St. Pancras International. Diese Züge sind reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
 
-Ab Calais gibt es auch den Le-Shuttel Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
+Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
 
 ### Niederlande
 

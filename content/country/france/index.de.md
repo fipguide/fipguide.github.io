@@ -7,7 +7,7 @@ params:
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Eisenbahnen auf Korsika)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#internationale-frecciarossa-züge-nach-paris" >}} "Frecciarossa (Trenitalia)")'
-    - Getlink (Eurotunnel Le Shuttle)
+    - Getlink (Eurotunnel LeShuttle)
     - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - RATP
     - Transdev
@@ -47,7 +47,7 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 
 Grenzüberschreitende Verbindungen aus Großbritannien werden von [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") betrieben. Diese verkehren von London durch den Eurotunnel nach Lille und Paris. FIP Globalpreise sind für diese Verbindungen verfügbar.
 
-Ab Folkestone gibt es auch den Le-Shuttel Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
+Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
 
 ### Belgien
 
