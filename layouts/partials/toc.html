@@ -76,10 +76,10 @@
           >{{ .Title | plainify | safeHTML }}</a
         >
         {{- with and (lt .Level $ctx.endLevel) .Headings }}
-          <ol>
+          <ul>
             {{- $ctx = merge $ctx (dict "headings" .) }}
             {{- partial "inline/toc/walk.html" $ctx }}
-          </ol>
+          </ul>
         {{- end }}
       </li>
     {{- else }}
