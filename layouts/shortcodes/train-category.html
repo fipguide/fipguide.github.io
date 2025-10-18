@@ -1,0 +1,17 @@
+{{- $data := dict
+  "title" (.Get "title")
+  "fip_accepted" (default true (.Get "fip_accepted"))
+  "reservation_required" (default false (.Get "reservation_required"))
+  "reservation_possible" (default false (.Get "reservation_possible"))
+  "info_available" (default false (.Get "info_available"))
+  "content" (.Inner | .Page.RenderString)
+-}}
+
+
+<details class="details-screen o-expander o-expander--booking">
+  {{- partial "train-category" $data -}}
+</details>
+
+<details open class="details-print o-expander o-expander--booking">
+  {{- partial "train-category" $data -}}
+</details>
