@@ -50,7 +50,7 @@ C2c verbindet London Fenchurch Street mit Städten in South Essex und richtet si
 
 {{% expander "Caledonian Sleeper ⚠️" traincategory "category" %}}
 **Beschreibung:** \
-Der Caledonian Sleeper ist ein Nachtzug zwischen London und Schottland mit Schlaf-, Liege- und Sitzwagen. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein. \
+Der Caledonian Sleeper ist ein Nachtzug zwischen London und Schottland mit Schlaf-, Liege- und Sitzwagen. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein.[^2] \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja
 {{% /expander %}}
@@ -376,3 +376,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 ## Quellen
 
 [^1]: [Rail Delivery Group Guide für Großbritannien](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
+
+[^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
