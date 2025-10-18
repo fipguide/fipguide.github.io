@@ -49,7 +49,7 @@
   }
 
   function updateToggleButtons(theme) {
-    const toggleButtons = document.querySelectorAll(".a-theme-toggle");
+    const toggleButtons = document.querySelectorAll(".o-header__theme-toggle");
 
     toggleButtons.forEach((button) => {
       let icon;
@@ -78,7 +78,7 @@
     const savedTheme = getSavedTheme();
     updateToggleButtons(savedTheme);
 
-    const toggleButtons = document.querySelectorAll(".a-theme-toggle");
+    const toggleButtons = document.querySelectorAll(".o-header__theme-toggle");
     toggleButtons.forEach((button) => {
       button.addEventListener("click", toggleTheme);
     });

@@ -10,7 +10,7 @@ Dans le nord de l'Espagne, Euskotren exploite un réseau ferroviaire basque qui 
 
 ## Résumé
 
-- Si vous présentez votre carte FIP sur place, vous recevez gratuitement un "Euskotren FIP Ticket" valable 7 jours et vous donnant droit à l'utilisation de l'ensemble du réseau Euskotren à l'exception des bus.[^1]
+- Si vous présentez votre Carte FIP sur place, vous recevez gratuitement un "Euskotren FIP Ticket" valable 7 jours et vous donnant droit à l'utilisation de l'ensemble du réseau Euskotren à l'exception des bus.[^1]
 - Avec le billet, vous pouvez voyager en train, sur la ligne de métro L3 à Bilbao, les tramways et le funiculaire "Funicular de Larreineta".
 - Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an.
 
@@ -22,11 +22,11 @@ Billets FIP 50 : ⛔ \
 
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
-Le personnel des centres clients Euskotren vous délivre un "Euskotren FIP Ticket" spécial sur présentation de votre carte FIP.
-Le billet est également délivré aux accompagnants avec leur propre carte FIP. Il est valable 7 jours y compris le jour d'émission et vous pouvez l'utiliser pour l'ensemble du réseau Euskotren à l'exception des lignes de bus régionales et du train musée.
+Le personnel des centres clients Euskotren vous délivre un "Euskotren FIP Ticket" spécial sur présentation de votre Carte FIP.
+Le billet est également délivré aux accompagnants avec leur propre Carte FIP. Il est valable 7 jours y compris le jour d'émission et vous pouvez l'utiliser pour l'ensemble du réseau Euskotren à l'exception des lignes de bus régionales et du train musée.
 Vous utilisez l'"Euskotren FIP Ticket" pour passer les barrières de quai. Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an. Euskotren n'applique pas la limitation habituelle pour les Coupons FIP.
 
-<br style="clear:both" />
+<br style="clear:both" aria-hidden="true" />
 
 {{% highlight tip %}}
 Certains opérateurs ferroviaires délivrent également des titres de transport gratuits pour Euskotren. Selon nos informations, ceux-ci n'ont aucune utilité, les barrières de quai ne peuvent pas être franchies avec. Nous recommandons plutôt de faire délivrer le billet sur place.
@@ -61,7 +61,7 @@ Euskotren exploite le funiculaire historique entre Trapagaran et Larreineta, rel
 
 Les automates des stations acceptent l'"Euskotren FIP Ticket". S'il n'est pas accepté, veuillez vous adresser au personnel sur place.
 
-Si vous n'avez pas d'"Euskotren FIP Ticket", le personnel des stations délivre des billets individuels gratuits pour le funiculaire sur présentation de la carte FIP.
+Si vous n'avez pas d'"Euskotren FIP Ticket", le personnel des stations délivre des billets individuels gratuits pour le funiculaire sur présentation de la Carte FIP.
 {{% /expander %}}
 
 ## Catégories de classes
@@ -84,7 +84,7 @@ Les Billets FIP ne sont pas valables sur les lignes de bus régionales d'Euskotr
 
 ### Musée ferroviaire d'Azpeitia
 
-Euskotren exploite également le musée ferroviaire basque d'Azpeitia, accessible en bus depuis Eibar, Zumaia et Zumarraga[^2]. L'entrée gratuite est accordée sur présentation de la carte FIP. Les réductions FIP ne sont pas acceptées dans le train à vapeur du musée.
+Euskotren exploite également le musée ferroviaire basque d'Azpeitia, accessible en bus depuis Eibar, Zumaia et Zumarraga[^2]. L'entrée gratuite est accordée sur présentation de la Carte FIP. Les réductions FIP ne sont pas acceptées dans le train à vapeur du musée.
 
 ## Sources
 

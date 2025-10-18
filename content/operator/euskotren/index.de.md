@@ -26,7 +26,7 @@ Das Personal vor Ort in den Euskotren Kundenzentren stellt dir gegen Vorlage des
 Das Ticket wird auch für Angehörige mit eigenem FIP-Ausweis ausgestellt. Es ist inklusive des Ausstellungstages für 7 Tage gültig und du kannst es für das gesamte Euskotren-Netz mit Ausnahme von Regionalbuslinien und der Museumsbahn nutzen.
 Du nutzt das "Euskotren FIP Ticket", um die Bahnsteinbarrieren zu passieren. Nach Ablauf kannst du das Ticket mehrfach pro Jahr neu ausstellen lassen. Die sonst übliche Limitierung bei FIP Freifahrtscheinen wendet Euskotren nicht an.
 
-<br style="clear:both" />
+<br style="clear:both" aria-hidden="true" />
 
 {{% highlight tip %}}
 Einige Zugbetreiber stellen auch Freifahrtscheine für Euskotren aus. Nach unserem Stand haben diese keinen Nutzen, die Bahnsteigbarrieren können damit nicht passiert werden. Stattdessen empfehlen wir, das Ticket vor Ort ausstellen zu lassen.

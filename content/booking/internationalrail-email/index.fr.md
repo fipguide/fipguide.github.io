@@ -19,7 +19,7 @@ Les billets au Tarif Global FIP peuvent être achetés via International Rail Lt
 - Date et heure de voyage
 - Gare de départ et gare de destination
 - Nombre de passagers
-- Classe de voyage (selon les droits indiqués sur votre carte FIP)
-- Photo de la carte FIP pour chaque personne voyageant
+- Classe de voyage (selon les droits indiqués sur votre Carte FIP)
+- Photo de la Carte FIP pour chaque personne voyageant
 
 **Des frais de réservation de 10£ sont appliqués par commande.**

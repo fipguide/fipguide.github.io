@@ -21,6 +21,10 @@
       margin-bottom: 0;
     }
   }
+
+  li {
+    margin-bottom: 0.3rem;
+  }
 }
 
 .o-aside__header {
@@ -32,6 +36,9 @@
   display: flex;
   align-items: flex-start;
   gap: 0.4rem;
+  width: fit-content;
+
+  @include focus-indicator(0.1rem);
 }
 
 .o-aside__backlink-text {
@@ -116,7 +123,6 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    max-height: 100vh;
     gap: 0;
     overflow: hidden;
     flex-flow: column;
@@ -198,16 +204,4 @@
   main.o-newspage .o-aside {
     display: none;
   }
-}
-
-.overlay--show {
-  backdrop-filter: blur(4px);
-  background-color: rgba(0, 0, 0, 0.6);
-  position: fixed;
-  inset: 0;
-  z-index: 3;
-}
-
-body:has(.overlay--show) {
-  overflow: hidden;
 }

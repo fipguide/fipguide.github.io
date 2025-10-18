@@ -158,7 +158,7 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
@@ -230,7 +230,7 @@ Si vous voyagez avec des tickets de transport public viennois classiques (par ex
 
 ### Schneebergbahn
 
-La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une carte FIP donne droit à une réduction de 50 % sur les billets.
+La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une Carte FIP donne droit à une réduction de 50 % sur les billets.
 
 ### ÖBB Postbus
 

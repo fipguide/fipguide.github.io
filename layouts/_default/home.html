@@ -12,7 +12,12 @@
       </div>
 
       <div class="o-startpage__search">
-        {{ partial "search-slot" }}
+        <div
+          id="search"
+          class="o-search o-search--startpage"
+          data-placeholder="{{ T "search.placeholder" }}"
+          data-label="{{ T "search.label" }}"
+        ></div>
       </div>
 
       <div class="o-startpage__shortcut-wrapper">
@@ -33,6 +38,5 @@
         {{ end }}
       </div>
     </section>
-    <div class="curtain" aria-hidden="true"></div>
   </div>
 {{ end }}
