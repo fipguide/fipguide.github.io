@@ -68,7 +68,9 @@ menu:
     dropdown-label: Verfügbare Betreiber
     label: Betreiber
     title: Betreiber-Dropdown öffnen
-  search: Suche öffnen
+  search:
+    close: Suche schließen
+    open: Suche öffnen
   theme:
     switch-to-auto: Zu automatischem Modus wechseln
     switch-to-dark: Zu dunklem Modus wechseln

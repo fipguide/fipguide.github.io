@@ -67,7 +67,9 @@ menu:
     dropdown-label: Opérateurs disponibles
     label: Opérateurs
     title: Ouvrir la liste déroulante de l'opérateur
-  search: Ouvrir la recherche
+  search:
+    close: Fermer la recherche
+    open: Ouvrir la recherche
   theme:
     switch-to-auto: Passer en mode automatique
     switch-to-dark: Passer en mode sombre

@@ -67,7 +67,9 @@ menu:
     dropdown-label: Available operators
     label: Operators
     title: Open Operator-Dropdown
-  search: Open search
+  search:
+    close: Close search
+    open: Open search
   theme:
     switch-to-auto: Switch to auto mode
     switch-to-dark: Switch to dark mode
