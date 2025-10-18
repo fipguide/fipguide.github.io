@@ -47,6 +47,7 @@ const initSearch = () => {
     search.classList.add("o-search--show");
     overlay.classList.add("overlay--show", "overlay--show-lv5");
     searchElement.focus();
+    search.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function showSearchOnStartPage() {
