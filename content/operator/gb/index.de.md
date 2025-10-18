@@ -11,11 +11,11 @@ operator: "gb"
 
 {{< wip >}}
 
-In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisen Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.
+In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtsscheine gelten in allen [Zugbetreibergesellschaften](#zugkategorien-und-reservierungen), die in National Rail integriert sind
+- FIP 50 und FIP Freifahrtscheine gelten in allen [Zugbetreibergesellschaften](#zugkategorien-und-reservierungen), die in National Rail integriert sind
 - Reservierungen sind nur in Nachtzügen erforderlich
 - FIP 50 Rabatt ist größtenteils nur auf Anytime und Off-Peak Tickets anwendbar
 - Die London Overground und Elizabeth Line sind Teil von National Rail und können mit FIP genutzt werden
@@ -23,7 +23,7 @@ In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
@@ -242,7 +242,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 - **Anytime Tickets:** \
   Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preis ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
 - **Off-Peak Tickets:** \
-  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu eingeschränkten Zeiten genutzt werden. Im Regelfall ist die morgendliche Hauptreisezeit ausgenommen, die genauen Einschränkungen können sich aber je nach Ticket unterscheiden und ist in den Ticketbedingungen angegeben. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
+  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu eingeschränkten Zeiten genutzt werden. Im Regelfall ist die morgendliche Hauptreisezeit ausgenommen, die genauen Einschränkungen können sich aber je nach Ticket unterscheiden und sind in den Ticketbedingungen angegeben. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
 - **Advance Tickets:** \
   Diese Tickets sind stark rabattiert, jedoch nur für eine bestimmte Verbindung und einen bestimmten Zug gültig. Die Tickets können bis 10 min vor Abfahrt des Zuges erworben werden. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
 - **Rovers:** \
@@ -285,7 +285,7 @@ An vielen Bahnhöfen in Großbritannien gibt es Ticketschranken, die mit einem T
 ### Verkehr in London
 
 Die meisten Verkehrsangebote in London werden von Transport for London (TfL) betrieben. Für diese gelten in der Regel keine FIP Vergünstigungen bzw. nur unter besonderen Bedingungen. Uneingeschränkt nutzbar mit FIP sind hingegen die Elizabeth Line und London Overground. Auch einige Regionalzüge wie Thameslink, die durch London verkehren, können mit FIP Freifahrtscheinen genutzt werden.
-{{% expander "Elizabth Line" info "london" %}}
+{{% expander "Elizabeth Line" info "london" %}}
 Die Elizabeth Line ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit, um mit FIP durch die ganze Stadt zu kommen. [^1]
 
 {{% highlight tip %}}
@@ -365,7 +365,7 @@ Die [Talyllyn Railway](https://talyllyn.co.uk) ist die älteste erhaltene Schmal
 In Großbritannien gibt es zwei verschiedene, große Eisenbahnmuseen. Der Hauptstandort befindet sich neben dem Bahnhof York. Ein zweiter Standort befindet sich neben dem Bahnhof Shildon und wird Locomotion genannt. Beide Museen sind kostenlos und bieten einen guten Einblick in die Geschichte der Eisenbahn in Großbritannien. Weitere Informationen auf der Website des [Eisenbahnmuseums in York](https://railwaymuseum.org.uk) und [Locomotion in Shildon](https://locomotion.org.uk).
 
 {{% highlight tip %}}
-Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alokoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket der 1. Klasse zugänglich sind. Dort werden je nach Betreiber ebenfalls Snacks, Speisen sowie (alokoholische) Getränke serviert.
+Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alkoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Ticket der 1. Klasse zugänglich sind. Dort werden je nach Betreiber ebenfalls Snacks, Speisen sowie (alkoholische) Getränke serviert.
 {{% /highlight %}}
 
 Großbritannien kann auch mit Nachtzügen bereist werden:
