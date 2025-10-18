@@ -182,6 +182,10 @@ Children under 4 years travel free of charge without their own seat. For childre
 
 With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted along the way.[^2]
 
+### Renfe Feve
+
+FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) in northern Spain.
+
 ## Recommendations
 
 {{% highlight tip %}}
