@@ -15,7 +15,7 @@ In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine gelten in allen [Zugbetreibergesellschaften](#zugkategorien-und-reservierungen), die in National Rail integriert sind
+- FIP 50 und FIP Freifahrtscheine gelten bei allen [Zugbetreibergesellschaften](#zugkategorien-und-reservierungen), die in National Rail integriert sind
 - Reservierungen sind nur in Nachtzügen erforderlich
 - FIP 50 Rabatt ist größtenteils nur auf Anytime und Off-Peak Tickets anwendbar
 - Die London Overground und Elizabeth Line sind Teil von National Rail und können mit FIP genutzt werden
