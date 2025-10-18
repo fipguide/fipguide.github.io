@@ -112,7 +112,7 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)."
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)."
 /%}}
 
 ### En gare

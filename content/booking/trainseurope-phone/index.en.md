@@ -18,8 +18,8 @@ FIP Global Fare tickets can be purchased by phone via Trainseurope Ltd. To do so
 - Date and time of travel
 - Departure and destination station
 - Number of passengers
-- Travel class (according to FIP card entitlement)
-- Photo of the FIP card for all traveling persons by email to [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk)
+- Travel class (according to FIP Card entitlement)
+- Photo of the FIP Card for all traveling persons by email to [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk)
 
 **A booking fee of £10 is charged per booking.**
 

@@ -158,7 +158,7 @@ Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-        subtitle="Cross-border FIP 50 Tickets between Germany and Austria for the entire route (not valid in the issuing country of the FIP card)"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Austria for the entire route (not valid in the issuing country of the FIP Card)"
 %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
