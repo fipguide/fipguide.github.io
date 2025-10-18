@@ -22,6 +22,7 @@
 | FIP Freifahrtschein | FIP Coupon      | Coupon FIP       |
 | FIP Globalpreis     | FIP Global Fare | Tarif Global FIP |
 | FIP 50 Ticket       | FIP 50 Ticket   | Billet FIP 50    |
+| FIP Ausweis         | FIP Card        | Carte FIP        |
 
 ## Development Guidelines
 

@@ -19,7 +19,7 @@ FIP Global Fare tickets can be purchased through International Rail Ltd. To do s
 - Date and time of travel
 - Departure and destination stations
 - Number of passengers
-- Class of travel (according to your FIP card entitlement)
-- Photo of the FIP card for all traveling persons
+- Class of travel (according to your FIP Card entitlement)
+- Photo of the FIP Card for all traveling persons
 
 **A booking fee of £10 is charged per booking.**

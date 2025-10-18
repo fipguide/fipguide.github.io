@@ -39,11 +39,13 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des Tarifs Globaux FIP sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
 
-Pour les trains opérés par Renfe, les tarifs sont équivalents à ceux des AVE nationaux, mais ces billets ne peuvent être obtenus qu’aux guichets Renfe.
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux")). Pour les trains opérés par Renfe, les mêmes tarifs que pour les AVE nationaux s’appliquent, mais ces billets ne peuvent être achetés qu’aux guichets Renfe en Espagne. Il devrait également être possible de les acheter à bord lors de la montée en France, mais il n’existe pas encore de retour d’expérience à ce sujet.
+
+Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec le Billet FIP spécial.
+
+Il existe également des trains régionaux Rodalies de Catalunya de la Renfe avec des liaisons transfrontalières depuis Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train.
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
-
-Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu'à Hendaye en utilisant le Billet FIP spécial.
 
 ### Portugal
 

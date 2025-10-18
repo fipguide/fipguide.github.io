@@ -19,6 +19,13 @@
 
   .pagefind-ui__results-area {
     margin-top: 0;
+    max-height: 50vh;
+    padding: 0 1rem;
+    overflow-y: scroll;
+
+    @media (max-width: #{$breakpoint-md}) {
+      max-height: calc(100dvh - 17rem);
+    }
   }
 
   .pagefind-ui__results li:last-child {
@@ -63,14 +70,12 @@
 
   .pagefind-ui__drawer {
     background-color: var(--bg-default);
-    padding: 0 1rem;
+    padding: 0;
     overscroll-behavior: contain;
-    overflow-y: scroll;
+    overflow: hidden;
     position: absolute;
-    top: 7rem;
     width: 100%;
     z-index: 6;
-    max-height: 50vh;
     border: var(--border);
     border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
   }

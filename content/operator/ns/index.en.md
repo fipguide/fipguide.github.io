@@ -118,7 +118,7 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
 ### On-Site

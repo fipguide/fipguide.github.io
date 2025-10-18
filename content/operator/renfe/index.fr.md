@@ -178,6 +178,10 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les
 
 Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. [^2]
 
+### Renfe Feve
+
+Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) dans le nord de l’Espagne.
+
 ## Recommandations
 
 {{% highlight tip %}}

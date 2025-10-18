@@ -66,13 +66,13 @@ Au Luxembourg, les voyages en 2ᵉ classe sont gratuits, donc un Coupon FIP CFL 
 
 ### Allemagne
 
-Entre la France et l’Allemagne circulent des trains longue distance en coopération entre la SNCF et la Deutsche Bahn, exploités en tant que `TGV` ou `ICE` entre Paris, Munich, Strasbourg, Karlsruhe/Sarrebruck, Mannheim et Francfort. La réservation est obligatoire uniquement en France. En Allemagne, les trains peuvent être utilisés sans réservation. Comme l’obligation de réservation commence dès le point-frontière Kehl (Gr), une réservation est également nécessaire pour les trajets entre l’Allemagne et Strasbourg. Ces Billets FIP transfrontaliers peuvent aussi être achetés via la Deutsche Bahn, voir [Options de réservation – En ligne]({{< ref "/operator/sncf#online" >}} "Options de réservation - En ligne").
+Entre la France et l’Allemagne circulent des trains longue distance en coopération entre la SNCF et la Deutsche Bahn, exploités en tant que `TGV` ou `ICE` entre Paris, Munich, Strasbourg, Karlsruhe/Sarrebruck, Mannheim et Francfort. La réservation est obligatoire uniquement en France. En Allemagne, les trains peuvent être utilisés sans réservation. Comme l’obligation de réservation commence dès le point-frontière Kehl (Gr), une réservation est également nécessaire pour les trajets entre l’Allemagne et Strasbourg. Ces billets FIP transfrontaliers peuvent également être achetés en ligne par les employés de la Deutsche Bahn, voir [Options de réservation – en ligne]({{< ref "/operator/sncf#en-ligne" >}} "Options de réservation – en ligne").
 
 {{% highlight tip %}}
 Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4 d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket (réductions DB valables uniquement avec billets NE) est accepté. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
 {{% /highlight %}}
 
-Il existe aussi plusieurs liaisons régionales entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis.
+Il existe aussi plusieurs liaisons régionales entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne]({{< ref "/operator/sncf#en-ligne" >}} "Achat de billets et réservations – en ligne").
 
 {{% highlight tip %}}
 Le Deutschlandticket, une option économique pour le trafic régional allemand, est aussi valable sans billet supplémentaire sur les liaisons régionales vers Lauterbourg et Wissembourg ou avec le Saarbahn vers Sarreguemines.
@@ -96,13 +96,15 @@ Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia
 
 ### Espagne
 
-Depuis Paris, des trains directs `TGV` SNCF relient Barcelone. Renfe propose aussi des trains entre Lyon et Barcelone ainsi que Marseille et Madrid.
+Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
 
-Chez les deux opérateurs, les Tarifs Globaux FIP sont possibles, mais ils sont très chers chez la SNCF, voir [TGV inOui / ICE transfrontaliers]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "TGV inOui / ICE transfrontaliers"). Pour les trains Renfe, les mêmes prix que pour les AVE nationaux s’appliquent, mais ces billets ne sont disponibles qu’aux guichets Renfe.
+Pour ces deux opérateurs, des Tarifs Globaux FIP sont disponibles, mais ceux de la SNCF peuvent être très coûteux, voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux"). Pour les trains exploités par Renfe, les mêmes tarifs que pour les AVE nationaux en Espagne s’appliquent, mais ces billets ne sont disponibles qu’aux guichets Renfe en Espagne. Il devrait également être possible d’acheter un billet à bord lors de la montée en France, mais il n’existe pas encore de retour d’expérience à ce sujet.
+
+Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
+
+Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
 
 Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
-
-Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible d’aller jusqu’à Hendaye avec le Billet FIP spécial.
 
 ### Monaco
 
