@@ -38,10 +38,28 @@ const initSearch = () => {
 
   const searchElement = search.querySelector("input");
 
+  const updateSearchButtonLabels = (isOpen) => {
+    searchButtons.forEach((button) => {
+      const openLabel = button.dataset.labelOpen;
+      const closeLabel = button.dataset.labelClose;
+      const label = isOpen ? closeLabel : openLabel;
+      button.setAttribute("aria-label", label);
+      button.setAttribute("title", label);
+    });
+  };
+
   const closeSearch = () => {
     search.querySelector(".pagefind-ui__search-clear").click();
     overlay.classList.remove("overlay--show", "overlay--show-lv5");
     search.classList.remove("o-search--show");
+    updateSearchButtonLabels(false);
+  };
+
+  const openSearch = () => {
+    overlay.classList.add("overlay--show", "overlay--show-lv5");
+    searchElement.focus();
+    search.scrollIntoView({ behavior: "smooth", block: "start" });
+    updateSearchButtonLabels(true);
   };
 
   // Scroll to search on click
@@ -52,35 +70,41 @@ const initSearch = () => {
     });
   }
 
-  function showSearchOnContentPage() {
+  function toggleSearchOnContentPage() {
+    if (search.classList.contains("o-search--show")) {
+      closeSearch();
+      return;
+    }
+
     search.classList.add("o-search--show");
-    overlay.classList.add("overlay--show", "overlay--show-lv5");
-    searchElement.focus();
-    search.scrollIntoView({ behavior: "smooth", block: "start" });
+    openSearch();
   }
 
-  function showSearchOnStartPage() {
-    overlay.classList.add("overlay--show", "overlay--show-lv5");
-    searchElement.focus();
-    search.scrollIntoView({ behavior: "smooth", block: "start" });
+  function toggleSearchOnStartPage() {
+    if (overlay.classList.contains("overlay--show")) {
+      closeSearch();
+      return;
+    }
+
+    openSearch();
   }
 
   searchButtons.forEach((button) => {
     if (isHome) {
-      button.addEventListener("click", showSearchOnStartPage);
+      button.addEventListener("click", toggleSearchOnStartPage);
     } else {
-      button.addEventListener("click", showSearchOnContentPage);
+      button.addEventListener("click", toggleSearchOnContentPage);
     }
   });
 
-  // Open search on Ctrl + K or Cmd + K
+  // Toggle search on Ctrl + K or Cmd + K
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === "k") {
       e.preventDefault();
       if (isHome) {
-        showSearchOnStartPage();
+        toggleSearchOnStartPage();
       } else {
-        showSearchOnContentPage();
+        toggleSearchOnContentPage();
       }
     }
   });
