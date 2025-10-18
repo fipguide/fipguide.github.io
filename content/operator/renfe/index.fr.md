@@ -156,7 +156,8 @@ Non disponible – il faut se rendre au guichet Renfe.
     fip_global_fare=true
     reservations="nil"
 %}}
-**Tarif Global FIP**
+
+#### Tarif Global FIP
 
 Dans les centres de services DB, il est possible d’acheter des billets pour les trains à réservation obligatoire. Il est important de sélectionner la classe « T » (pour Turista) ou « P » (pour Preferente). Si l’on choisit « 1re classe » ou « 2de classe », l’émission du billet échoue avec un message d’erreur. Il a également été signalé que la réservation en classe « P » échoue parfois ; dans ce cas, la réservation en classe « T » fonctionne généralement. Aucun frais de réservation n’est appliqué.
 ![Billet AVE exemple de Malaga à Madrid en classe T](./images/ave_ticket.webp)
