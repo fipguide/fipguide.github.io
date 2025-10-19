@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Trainseurope Ltd. Phone"
+title: "Trainseurope Ltd. Telephone"
 description: "Booking information for booking by phone at Trainseurope Ltd."
 
 params:

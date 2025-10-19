@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SBB Reisezentrum"
+title: "SBB Ticketschalter"
 description: "Buchungsinformationen für die SBB Reisezentren."
 
 params:

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web SNCB International"
+title: "Site Web SNCB International"
 description: "Informations sur la réservation via le site web de la SNCB."
 
 params:

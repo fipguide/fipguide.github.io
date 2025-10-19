@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ÖBB Ticket Machines"
+title: "ÖBB Ticket Machine"
 description: "Booking information for ÖBB ticket machines."
 
 params:

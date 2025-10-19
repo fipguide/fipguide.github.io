@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Euskotren Kundenzentren"
+title: "Euskotren Ticketschalter"
 params:
   fip_50: nil
   fip_global_fare: nil

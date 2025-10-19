@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "PKP Fahrkartenautomaten"
+title: "PKP Fahrkartenautomat"
 description: "Buchungsinformationen für die PKP Fahrkartenautomaten."
 
 params:
