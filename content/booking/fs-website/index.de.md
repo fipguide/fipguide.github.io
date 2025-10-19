@@ -15,7 +15,8 @@ params:
 ---
 
 {{% booking-section "reservations" %}}
-**Reservierungen und Aufschläge:**
+
+## Reservierungen
 
 Auf der Trenitalia Website können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden.
 

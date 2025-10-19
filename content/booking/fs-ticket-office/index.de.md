@@ -11,7 +11,8 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Fahrkarten**
+
+## FIP 50 Fahrkarten
 
 An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden.
 
@@ -22,7 +23,8 @@ Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgest
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservierungen und Aufschläge:**
+
+## Reservierungen
 
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">

@@ -13,13 +13,15 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+
+## Billets FIP 50
 
 Aux guichets BDŽ, il est possible d'acheter des Billets FIP 50 pour des voyages en Bulgarie, et aux guichets internationaux également pour des trajets vers la Roumanie.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations**
+
+## Réservations
 
 Les réservations pour les trains peuvent être effectuées sur place pour 1 Lev ou 0,51 €. Si vous utilisez un Coupon FIP, il doit être présenté ; le numéro du coupon sera imprimé sur le billet.
 {{% /booking-section %}}
