@@ -184,7 +184,7 @@ With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted alon
 
 ### Renfe Feve
 
-FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) in northern Spain.
+FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) between Ferrol and Bilbao in northern Spain.
 
 ## Recommendations
 
