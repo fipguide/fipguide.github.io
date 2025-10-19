@@ -5,7 +5,7 @@ description: "Information about FIP conditions for Eurostar."
 country:
   - "belgium"
   - "netherlands"
-  - "united_kingdom"
+  - "united-kingdom"
   - "france"
 operator: "eurostar"
 ---

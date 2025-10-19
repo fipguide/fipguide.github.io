@@ -3,7 +3,7 @@ draft: false
 title: "National Rail"
 description: "Informationen über die FIP-Bedingungen bei National Rail."
 country:
-  - "united_kingdom"
+  - "united-kingdom"
 operator: "gb"
 ---
 

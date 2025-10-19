@@ -2,7 +2,7 @@
 draft: false
 title: "Vereinigtes Königreich"
 description: "Informationen über die FIP-Bedingungen für das Vereinigte Königreich und für welche Betreiber Vergünstigungen genutzt werden können."
-country: "united_kingdom"
+country: "united-kingdom"
 params:
   operators_without_fip:
     - Blackpool Tramway
