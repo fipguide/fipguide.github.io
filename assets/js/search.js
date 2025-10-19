@@ -27,9 +27,9 @@ const initSearch = () => {
     },
   });
 
-  // Close keyboard when scrolling in search results (mobile only)
+  // Close keyboard when touching search results (mobile only)
   const searchDrawer = search.querySelector(".pagefind-ui__drawer");
-  searchDrawer.addEventListener("scroll", () => {
+  searchDrawer.addEventListener("touchstart", () => {
     if (!isMobile) return;
     if (document.activeElement && document.activeElement.blur) {
       document.activeElement.blur();
