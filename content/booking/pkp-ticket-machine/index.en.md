@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "PKP Ticket Machines"
+title: "PKP Ticket Machine"
 description: "Booking information for PKP ticket machines."
 
 params:

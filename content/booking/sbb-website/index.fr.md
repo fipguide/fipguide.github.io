@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web CFF"
+title: "Site Web CFF"
 description: "Informations sur la réservation de Billets FIP via le site web des CFF."
 
 params:

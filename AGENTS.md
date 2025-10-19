@@ -17,12 +17,16 @@
 
 ### Translations
 
-| Deutsch             | Englisch        | Französisch      |
-| ------------------- | --------------- | ---------------- |
-| FIP Freifahrtschein | FIP Coupon      | Coupon FIP       |
-| FIP Globalpreis     | FIP Global Fare | Tarif Global FIP |
-| FIP 50 Ticket       | FIP 50 Ticket   | Billet FIP 50    |
-| FIP Ausweis         | FIP Card        | Carte FIP        |
+| Deutsch                      | Englisch                  | Französisch                         |
+| ---------------------------- | ------------------------- | ----------------------------------- |
+| FIP Freifahrtschein          | FIP Coupon                | Coupon FIP                          |
+| FIP Globalpreis              | FIP Global Fare           | Tarif Global FIP                    |
+| FIP 50 Ticket                | FIP 50 Ticket             | Billet FIP 50                       |
+| FIP Ausweis                  | FIP Card                  | Carte FIP                           |
+| <operator> Ticketschalter    | <operator> Ticket Office  | Guichet <operator>                  |
+| <operator> Website           | <operator> Website        | Site Web <operator>                 |
+| <operator> Telefon           | <operator> Telephone      | Téléphone <operator>                |
+| <operator> Fahrkartenautomat | <operator> Ticket Machine | Distributeurs de billets <operator> |
 
 ## Development Guidelines
 

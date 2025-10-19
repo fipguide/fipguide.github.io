@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site DB – FIP (employés DB)"
+title: "Site Web FIP DB (employés DB)"
 description: "Informations de réservation pour les Billets FIP à destination des pays frontaliers pour les employés de la Deutsche Bahn."
 
 params:

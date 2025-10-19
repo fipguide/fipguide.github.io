@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web de la Deutsche Bahn"
+title: "Site Web DB"
 description: "Informations de réservation via le site web de la Deutsche Bahn."
 params:
   classes:

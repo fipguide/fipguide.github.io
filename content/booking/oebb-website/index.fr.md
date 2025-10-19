@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web ÖBB"
+title: "Site Web ÖBB"
 description: "Informations de réservation via le site web ÖBB."
 params:
   classes:
