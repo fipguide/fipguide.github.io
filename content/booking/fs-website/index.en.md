@@ -15,7 +15,8 @@ params:
 ---
 
 {{% booking-section "reservations" %}}
-**Reservations and Supplements:**
+
+## Reservations
 
 On the Trenitalia website, you can purchase reservations including supplements for the FIP Coupon for Le Frecce and other long-distance trains.
 

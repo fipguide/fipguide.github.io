@@ -13,7 +13,8 @@ params:
 ---
 
 {{% booking-section "reservations" %}}
-**Reservations and Surcharges:**
+
+## Reservations
 
 At Trenitalia ticket machines, you can purchase reservations including surcharges for FIP Coupons for Le Frecce and other long-distance trains.
 
