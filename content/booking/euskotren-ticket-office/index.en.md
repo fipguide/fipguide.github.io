@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Euskotren Customer Centers"
+title: "Euskotren Ticket Office"
 params:
   fip_50: nil
   fip_global_fare: nil

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ÖBB – Réservation par téléphone"
+title: "Téléphone ÖBB"
 description: "Informations de réservation via la hotline ÖBB."
 
 params:

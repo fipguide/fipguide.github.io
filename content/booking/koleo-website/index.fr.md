@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web Koleo"
+title: "Site Web Koleo"
 description: "Informations de réservation pour le site web Koleo."
 
 params:

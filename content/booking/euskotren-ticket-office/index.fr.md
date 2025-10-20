@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Centres clients Euskotren"
+title: "Guichet Euskotren"
 params:
   fip_50: nil
   fip_global_fare: nil

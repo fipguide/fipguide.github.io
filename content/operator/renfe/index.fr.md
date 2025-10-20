@@ -181,7 +181,7 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 ### Renfe Feve
 
-Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) dans le nord de l’Espagne.
+Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l'Espagne.
 
 ## Recommandations
 

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Distributeur de billets Trenitalia"
+title: "Distributeurs de billets Trenitalia"
 description: "Informations de réservation pour les distributeurs de billets Trenitalia."
 
 params:

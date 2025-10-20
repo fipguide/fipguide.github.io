@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web PKP"
+title: "Site Web PKP"
 description: "Informations de réservation pour le site web PKP."
 
 params:
