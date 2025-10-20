@@ -103,8 +103,6 @@ Le Celta est un train international en coopération entre la CP et Renfe entre P
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif Global FIP (indépendant de la distance) :** 4€
-
-Les billets pour ce service doivent être achetés via les canaux de vente espagnols.
 {{% /expander %}}
 
 ## Catégories de classes

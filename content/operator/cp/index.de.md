@@ -104,8 +104,6 @@ Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanis
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis (Distanzunabhängig):** 4€
-
-Tickets für diesen Zug müssen über die spanischen Vertriebswege gekauft werden.
 {{% /expander %}}
 
 ## Klassenkategorien

@@ -36,7 +36,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | Fähre (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
 \
-[>] = In Richtung (z.B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
+[>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
 {{% /expander %}}
 
 ### Slowenien

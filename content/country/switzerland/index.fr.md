@@ -73,6 +73,10 @@ Depuis la France, plusieurs liaisons existent :
 
 Dans les trains `TGV`, les Billets FIP classiques ne sont pas valables. Un Billet FIP Globalpreis est nécessaire. Pour les trains régionaux, un Billet FIP 50 ou des Coupons FIP des deux compagnies ferroviaires suffisent.
 
+À Bâle, la gare de Basel SBB est le point frontière jusqu’auquel les Coupons FIP SNCF sont valables pour les trains, par exemple les `TER` en provenance de Strasbourg.
+
+Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom de Léman Express, exploités par la SBB et la SNCF. Les Coupons FIP de la SNCF sont également valables sur le tronçon suisse dans les trains Léman Express.
+
 ### Italie
 
 Depuis l’Italie, on peut rejoindre la Suisse en trains longue distance ou régionaux. Depuis Milan, on peut passer par Côme ou Domodossola. Les trains via Côme vont généralement vers Zurich, ceux via Domodossola vers Berne et Bâle. Les deux itinéraires proposent des Eurocity et des trains régionaux. D’autres points frontières ne sont accessibles qu’en train régional. Pour les Eurocity transfrontaliers, une réservation avec supplément est obligatoire. Il existe aussi le train `ECE` Francfort - Milan et les trains `EC` Zurich - Milan.

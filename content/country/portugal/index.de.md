@@ -45,7 +45,7 @@ Besonders empfehlenswert ist ein Besuch der folgenden Bahnhöfe:
 | Spanien | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
 
 \
-[>] = In Richtung (z.B. V. Real de Sto António Guardiana [> Ayamonte] = V. Real de Sto António Guardiana ist der Grenzpunkt in Richtung Ayamonte)
+[>] = In Richtung (z. B. V. Real de Sto António Guardiana [> Ayamonte] = V. Real de Sto António Guardiana ist der Grenzpunkt in Richtung Ayamonte)
 {{% /expander %}}
 
 ### Spanien
