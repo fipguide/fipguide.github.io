@@ -73,6 +73,8 @@ Aus Frankreich gibt es verschiedene Verbindungen:
 
 In den `TGV`-Zügen sind reguläre FIP-Tickets nicht gültig. Hier wird ein FIP Globalpreis Ticket benötigt. Für Regionalzüge reicht ein FIP 50 Ticket oder Freifahrtscheine beider beteiligten Bahngesellschaften aus.
 
+In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, bis zu welchem SNCF Freifahrtscheine für Züge z.B. `TER` aus Straßburg gelten.
+
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
 
 ### Italien
