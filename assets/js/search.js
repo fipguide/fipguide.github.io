@@ -57,6 +57,7 @@ const initSearch = () => {
 
   const openSearch = () => {
     overlay.classList.add("overlay--show", "overlay--show-lv5");
+    search.classList.add("o-search--show");
     searchElement.focus();
     search.scrollIntoView({ behavior: "smooth", block: "start" });
     updateSearchButtonLabels(true);
@@ -64,48 +65,37 @@ const initSearch = () => {
 
   // Scroll to search on click
   if (search && isHome) {
-    search.addEventListener("click", function () {
-      overlay.classList.add("overlay--show", "overlay--show-lv5");
-      search.scrollIntoView({ behavior: "smooth", block: "start" });
+    searchElement.addEventListener("focus", () => {
+      openSearch();
     });
+    search.addEventListener(
+      "blur",
+      (e) => {
+        if (!search.contains(e.relatedTarget)) {
+          closeSearch();
+        }
+      },
+      true,
+    );
   }
 
-  function toggleSearchOnContentPage() {
+  const toggleSearch = () => {
     if (search.classList.contains("o-search--show")) {
       closeSearch();
       return;
     }
-
-    search.classList.add("o-search--show");
     openSearch();
-  }
-
-  function toggleSearchOnStartPage() {
-    if (overlay.classList.contains("overlay--show")) {
-      closeSearch();
-      return;
-    }
-
-    openSearch();
-  }
+  };
 
   searchButtons.forEach((button) => {
-    if (isHome) {
-      button.addEventListener("click", toggleSearchOnStartPage);
-    } else {
-      button.addEventListener("click", toggleSearchOnContentPage);
-    }
+    button.addEventListener("click", toggleSearch);
   });
 
   // Toggle search on Ctrl + K or Cmd + K
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === "k") {
       e.preventDefault();
-      if (isHome) {
-        toggleSearchOnStartPage();
-      } else {
-        toggleSearchOnContentPage();
-      }
+      toggleSearch();
     }
   });
 
