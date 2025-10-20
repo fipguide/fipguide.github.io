@@ -39,7 +39,7 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 | Frankreich (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
 
 \
-[>] = In Richtung (z.B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)
+[>] = In Richtung (z. B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)
 {{% /expander %}}
 
 ### Deutschland
@@ -53,7 +53,7 @@ Von Deutschland aus gibt es mehrere grenzüberschreitende Verbindungen in die Sc
 Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-Freifahrtscheine der DB noch gültig sind, da dies ein offizieller Grenzbahnhof (Grenpunkt) der DB und SBB ist.
 
 {{% highlight tip %}}
-Um ohne Nutzung eines SBB Tickets (z.B. FIP Freifahrtschein oder FIP 50) in die Schweiz einzureisen, kann ab Basel Badischer Bahnhof die S-Bahn Linie 6 mit dem Deutschland-Ticket bis Basel SBB genutzt werden. [^1]
+Um ohne Nutzung eines SBB Tickets (z. B. FIP Freifahrtschein oder FIP 50) in die Schweiz einzureisen, kann ab Basel Badischer Bahnhof die S-Bahn Linie 6 mit dem Deutschland-Ticket bis Basel SBB genutzt werden. [^1]
 {{% /highlight %}}
 
 Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart - Zürich über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie München - Zürich über Lindau, St. Margrethen und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen über St. Margrethen führt die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
@@ -73,7 +73,7 @@ Aus Frankreich gibt es verschiedene Verbindungen:
 
 In den `TGV`-Zügen sind reguläre FIP-Tickets nicht gültig. Hier wird ein FIP Globalpreis Ticket benötigt. Für Regionalzüge reicht ein FIP 50 Ticket oder Freifahrtscheine beider beteiligten Bahngesellschaften aus.
 
-In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, bis zu welchem SNCF Freifahrtscheine für Züge z.B. `TER` aus Straßburg gelten.
+In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, bis zu welchem SNCF Freifahrtscheine für Züge z. B. `TER` aus Straßburg gelten.
 
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
 
@@ -81,7 +81,7 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léma
 
 Aus Italien kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen in die Schweiz gereist werden. Von Mailand kann sowohl über Como als auch über Domodossola das Schweizer Netz erreicht werden. Die Züge über Como fahren meist weiter in Richtung Zürich, die über Domodossola nach Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist eine Reservierung nötig, die einen Aufschlag beinhaltet. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt - Mailand sowie die `EC` Züge Zürich - Mailand.
 
-Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20€ (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10€ (2. Klasse) bzw. 13€ (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z.B. bis nach Frankfurt).
+Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20€ (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10€ (2. Klasse) bzw. 13€ (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 
 {{% highlight tip %}}
 Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere aber teurere Variante bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
