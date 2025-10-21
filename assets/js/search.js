@@ -63,15 +63,15 @@ const initSearch = () => {
     updateSearchButtonLabels(true);
   };
 
-  // Scroll to search on click
   if (search && isHome) {
     searchElement.addEventListener("focus", () => {
       openSearch();
     });
+    // If focus moves outside the search, close it
     search.addEventListener(
       "blur",
       (e) => {
-        if (!search.contains(e.relatedTarget)) {
+        if (e.relatedTarget && !search.contains(e.relatedTarget)) {
           closeSearch();
         }
       },
