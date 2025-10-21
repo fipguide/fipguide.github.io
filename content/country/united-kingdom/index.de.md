@@ -24,13 +24,11 @@ params:
 
 <!-- UK ist ein bisschen anders. Hier gibt es keine Zugkategorien, sondern ganz viele Betreiber, bei den man gucken muss, ob FIP dort gilt. Daher ist es hier wahrscheinlich sinnvoll auch andere Betreiber aufzuführen ohne FIP, auch wenn es oft Straßenbahnen und U-Bahnen sind. Für den User ist es sonst schwer zu unterscheiden warum auf der Elizabeth Line FIP gilt, auf anderen U-Bahn Linien aber beispielsweise nicht. -->
 
-{{< wip >}}
-
 ## FIP Nutzung
 
 In England, Schottland und Wales wird FIP von allen Zugbetreibern akzeptiert, die in [National Rail]({{< ref "/operator/gb" >}} "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind – wie bei FIP üblich – nicht inbegriffen. Alle Betreiber, die FIP akzeptieren, sind in der [Liste der Betreiber]({{< ref "/operator/gb#zugkategorien-und-reservierungen" >}} "Liste der Betreiber") aufgeführt.
 
-Nordirland wird dagegen von einem eigenen Bahnbetreiber (NIR) bedient, bei dem FIP Vergünstigungen explizit für diese Bahngesellschaft gültig sind. Zwischen Großbritannien und Nordirland können Fährverbindungen von Stena Line mit FIP genutzt werden. 
+Nordirland wird dagegen von einem eigenen Bahnbetreiber (NIR) bedient, bei dem FIP Vergünstigungen explizit für diese Bahngesellschaft gültig sind. Zwischen Großbritannien und Nordirland können Fährverbindungen von Stena Line mit FIP genutzt werden.
 
 Zusätzlich gibt es Züge von [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 

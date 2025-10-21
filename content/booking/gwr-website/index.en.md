@@ -1,11 +1,11 @@
 ---
 draft: false
 title: "GWR Website"
-description: "Buchungsinformationen für die Great Western Railway (GWR) Website."
+description: "Booking information for the Great Western Railway (GWR) website."
 params:
   classes:
-    first: "kostenlos"
-    second: "kostenlos"
+    first: "free"
+    second: "free"
   fip_50: false
   reservations: true
   booking_link: "https://www.gwr.com/"
@@ -15,10 +15,10 @@ params:
 
 {{% booking-section "reservations" %}}
 
-## Reservierungen
+## Reservations
 
-Auf der Website von GWR können kostenlose Sitzplatzreservierungen für alle nationalen Zugverbindungen vorgenommen werden.
+On the GWR website, you can make free seat reservations for all national train connections where reservations are possible.
 
-Um einen Sitzplatz zu reservieren muss ein Nutzerkonto angelegt werden. Nach erfolgreicher Anmeldung kann im Menü im Bereich _Bookings_ über den Button _Make a seat/bike reservation_ eine Verbindung ausgesucht und reserviert werden. Bei der Ticketauswahl kann ein belibiges Ticket entsprechend der gwünschten Klasse gewählt werden.
-![./gwr_reservation.webp]
+To reserve a seat, you must create a user account. After successful login, you can select a connection and reserve it via the _Bookings_ menu using the _Make a seat/bike reservation_ button. When choosing a ticket, you can select any ticket according to the desired class.
+![GWR Reservation](gwr_reservation.webp)
 {{% /booking-section %}}

@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Caledonian Sleeper Website"
-description: "Buchungsinformationen für die Caledonian Sleeper Website."
+description: "Booking information for the Caledonian Sleeper website."
 params:
   fip_50: false
   reservations: true
@@ -12,9 +12,9 @@ params:
 
 {{% booking-section "reservations" %}}
 
-## Reservierungen
+## Reservations
 
-Auf der Website des Caledonian Sleeper können Room Supplements (Reservierungen mit Aufschlägen für Schlafwagen) erworben werden. Zusätzlich zur Reservierung ist ein gültiger FIP Freifahrtschein für National Rail für den Tag der Ankunft erforderlich. Dazu muss bei der Verbindungssuche die Option _Room Supplement only_ ausgewählt sein.
+On the Caledonian Sleeper website, you can purchase Room Supplements (reservations with surcharges for sleeper cars). In addition to the reservation, a valid FIP Coupon for National Rail is required for the day of arrival. When searching for connections, make sure to select the _Room Supplement only_ option.
 
 ![Caledonian Sleeper Reservation](caledonian_sleeper_reservation.webp)
 {{% /booking-section %}}

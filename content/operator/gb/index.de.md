@@ -7,10 +7,6 @@ country:
 operator: "gb"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.
 
 ## Zusammenfassung
@@ -118,7 +114,9 @@ Great Western Railway verbindet London Paddington mit dem Südwesten Englands, S
 
 In der ersten Klasse werden Snacks und Getränke serviert.
 
-GWR betreibt auch einen Nachtzug von London nach Penzance – den reservierungspflichtigen Night Riviera Sleeper. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein.[^1] Eine Reservierung für den Zug kann nicht online vorgenommen werden. \
+GWR betreibt auch einen Nachtzug von London nach Penzance – den reservierungspflichtigen Night Riviera Sleeper. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein.[^1]
+
+Eine Reservierung für den Zug kann nicht online vorgenommen werden. \
 **Reservierung möglich:** Teilweise \
 **Reservierungspflicht:** Nur Night Riviera Sleeper
 {{% /expander %}}
@@ -161,8 +159,7 @@ Lumo betreibt Fernzüge zwischen London King’s Cross, Newcastle und Edinburgh.
 {{% expander "Merseyrail" traincategory "category" %}}
 **Beschreibung:** \
 Merseyrail betreibt das Nahverkehrsnetz in Liverpool und der Merseyside-Region. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
+**Reservierung möglich:** Nein
 {{% /expander %}}
 
 {{% expander "Northern" traincategory "category" %}}
