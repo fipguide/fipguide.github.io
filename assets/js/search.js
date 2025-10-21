@@ -71,7 +71,11 @@ const initSearch = () => {
     search.addEventListener(
       "blur",
       (e) => {
-        if (e.relatedTarget && !search.contains(e.relatedTarget)) {
+        if (
+          e.relatedTarget &&
+          !search.contains(e.relatedTarget) &&
+          !Array.from(searchButtons).includes(e.relatedTarget)
+        ) {
           closeSearch();
         }
       },
