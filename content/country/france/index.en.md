@@ -5,11 +5,12 @@ description: "Information about FIP conditions for France and which operators of
 country: "france"
 params:
   operators_without_fip:
-    - Transdev
-    - RATP
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Railways in Corsica)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#international-frecciarossa-trains-to-paris" >}} "Frecciarossa (Trenitalia)")'
+    - Getlink (Eurotunnel LeShuttle)
+    - RATP
+    - Transdev
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
 ---
 
 ## FIP Information
@@ -45,6 +46,8 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 ### United Kingdom
 
 Cross-border connections from the UK are operated by [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"), running from London through the Channel Tunnel to Lille and Paris. FIP Global Fares are available for these routes.
+
+From Folkestone, there is also the LeShuttle Motorail train through the Eurotunnel, but no FIP discount is granted for this service. In addition, there are various ferry connections between France and the United Kingdom, but no FIP discount is granted for these either.
 
 ### Belgium
 

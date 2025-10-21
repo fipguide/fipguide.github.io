@@ -27,6 +27,31 @@
 | <operator> Website           | <operator> Website        | Site Web <operator>                 |
 | <operator> Telefon           | <operator> Telephone      | Téléphone <operator>                |
 | <operator> Fahrkartenautomat | <operator> Ticket Machine | Distributeurs de billets <operator> |
+| Grenzpunkt                   | Border Point              | Point frontière                     |
+| FIP Rabatt / FIP Ermäßigung  | FIP Discount              | Remise FIP / Réduction FIP          |
+
+#### Headlines
+
+Use these exact translations for headlines on the pages:
+
+| Deutsch                          | Englisch                          | Französisch                          |
+| -------------------------------- | --------------------------------- | ------------------------------------ |
+| FIP Nutzung                      | FIP Information                   | Informations FIP                     |
+| Wissenswertes                    | Interesting                       | Informations générales               |
+| Anreise und Grenzpunkte          | Arrival and Border Points         | Arrivée et points frontières         |
+| Zusammenfassung                  | Summary                           | Résumé                               |
+| Gültigkeit FIP Tickets           | Validity of FIP Tickets           | Validité des Billets FIP             |
+| Zugkategorien und Reservierungen | Train Categories and Reservations | Catégories de trains et réservations |
+| Klassenkategorien                | Class Categories                  | Catégories de classes                |
+| Ticket- und Reservierungskauf    | Ticket and Reservation Purchase   | Achat de billets et réservations     |
+| Online                           | Online                            | En ligne                             |
+| Telefon                          | Telephone                         | Par téléphone                        |
+| Vor Ort                          | On-Site                           | En gare                              |
+| Im Zug                           | On the Train                      | À bord du train                      |
+| Ermäßigungen                     | Discounts                         | Réductions                           |
+| Tarifliche Besonderheiten        | Special Tariff Conditions         | Conditions tarifaires spéciales      |
+| Empfehlungen                     | Recommendations                   | Recommandations                      |
+| Quellen                          | Sources                           | Sources                              |
 
 ## Development Guidelines
 
