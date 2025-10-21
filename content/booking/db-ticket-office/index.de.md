@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "DB Reisezentrum"
+title: "DB Ticketschalter"
 description: "Buchungsinformationen für die Deutsche Bahn Reisezentren."
 
 params:
@@ -15,6 +15,8 @@ params:
 aliases:
   - db_ticket_office
 ---
+
+Die Ticketschalter der Deutschen Bahn werden _DB Reisezentrum_ genannt und befinden sich in vielen größeren Bahnhöfen in Deutschland.
 
 {{% booking-section "fip_50" %}}
 

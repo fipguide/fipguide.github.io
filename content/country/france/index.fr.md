@@ -82,7 +82,7 @@ Le Deutschlandticket, une option économique pour le trafic régional allemand, 
 
 Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "TGV inOui / ICE transfrontaliers").
 
-Il existe aussi plusieurs liaisons régionales transfrontalières.
+Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
 Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF. Les Coupons FIP SNCF sont aussi valables sur le tronçon suisse dans les trains Léman Express.
 

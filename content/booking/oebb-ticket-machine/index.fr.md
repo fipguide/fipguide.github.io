@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Distributeurs de tickets ÖBB"
+title: "Distributeurs de billets ÖBB"
 description: "Informations de réservation via les distributeurs de tickets ÖBB."
 
 params:

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "CFL Téléphone"
+title: "Téléphone CFL"
 description: "Informations de réservation via la hotline CFL."
 
 params:

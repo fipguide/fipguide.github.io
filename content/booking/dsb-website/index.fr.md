@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Site web DSB"
+title: "Site Web DSB"
 description: "Informations de réservation via le site web de la DSB."
 
 params:

@@ -13,13 +13,15 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+
+## FIP 50 Tickets
 
 At BDŽ ticket offices, you can purchase FIP 50 Tickets for travel within Bulgaria, and at international ticket offices also for journeys to Romania.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations**
+
+## Reservations
 
 Reservations for trains can be purchased on site for 1 Lev or €0.51. If you are using an FIP Coupon, you must present it; the coupon number will be printed on the ticket.
 {{% /booking-section %}}

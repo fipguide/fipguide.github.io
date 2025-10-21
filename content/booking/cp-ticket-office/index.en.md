@@ -9,7 +9,7 @@ params:
     first: "€5,00"
     second: "€5,00"
   fip_50: true # Define if FIP 50 Tickets can be booked with this booking platform
-  fip_global_fare: false # Define if FIP Global Fare tickets can be booked with this booking platform
+  fip_global_fare: true # Define if FIP Global Fare tickets can be booked with this booking platform
   reservations: true # Define if reservations can be booked with this booking platform
   additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices" # Add a link with additional information
   type: "onsite" # Accepted types are: website, onsite, phone, email and machine
@@ -26,7 +26,8 @@ At CP ticket offices you can purchase FIP 50 Tickets for travel within Portugal.
 
 ## FIP Global Fare
 
-FIP Global Fare tickets are not sold at CP ticket offices. For the Celta international service a special FIP Global Fare applies and tickets must be purchased via Spanish sales channels (see CP operator page for details).
+At CP ticket offices, FIP Global Fare Tickets for the international Celta train between Porto and Vigo (Spain) are sold.
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

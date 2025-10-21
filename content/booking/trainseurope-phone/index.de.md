@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Trainseurope Ltd."
-description: "Buchungsinformationen für die Buchung per E-Mail bei Trainseurope Ltd."
+title: "Trainseurope Ltd. Telefon"
+description: "Buchungsinformationen für die Buchung per Telefon bei Trainseurope Ltd."
 
 params:
   fip_global_fare: true

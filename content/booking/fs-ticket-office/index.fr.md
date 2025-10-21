@@ -11,7 +11,8 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**Billets FIP 50**
+
+## Billets FIP 50
 
 Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia.
 
@@ -22,7 +23,8 @@ Parfois, les guichets délivrent des billets à des tarifs différents, ce qui p
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Réservations et suppléments :**
+
+## Réservations
 
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">
