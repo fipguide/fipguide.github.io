@@ -101,10 +101,6 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% highlight important %}}
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
-{{% /highlight %}}
-
 ## Achat de billets et réservations
 
 ### En ligne

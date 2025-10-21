@@ -101,10 +101,6 @@ Regional trains for short connections, stopping at every station along the route
 **Reservation required:** no
 {{% /expander %}}
 
-{{% highlight important %}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
-{{% /highlight %}}
-
 ## Ticket and Reservation Purchase
 
 ### Online
