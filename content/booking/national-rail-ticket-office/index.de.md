@@ -25,5 +25,5 @@ An den Ticketschaltern werden Fahrkarten mit FIP 50 Rabatt verkauft. Dazu muss d
 
 ## Reservierungen
 
-Kostenlose Sitzplatzreservierungen können am Ticketschalter vorgenommen werden. Meist genügt hierfür der Verweis auf einen FIP Freifahrtschein; ein Ticket muss in der Regel nicht vorgelegt werden.
+Kostenlose Sitzplatzreservierungen können am Ticketschalter vorgenommen werden. Meist genügt hierfür der Verweis auf einen FIP Freifahrtschein. Ein Ticket muss in der Regel nicht vorgelegt werden.
 {{% /booking-section %}}

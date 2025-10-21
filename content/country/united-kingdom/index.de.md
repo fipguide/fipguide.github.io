@@ -11,15 +11,15 @@ params:
     - Edinburgh Tramway
     - Getlink (Eurotunnel LeShuttle)
     - Glasgow Subway
-    - Hovertravel (Southsea, Portsmouth to Ryde, Isle of Wight)
+    - Hovertravel (Portsmouth nach Ryde auf der Isle of Wight)
     - '[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")'
-    - Midland Metro (Birmingham to Wolverhampton)
+    - Midland Metro (Birmingham nach Wolverhampton)
     - Nottingham Express Transit
     - Sheffield Supertram
-    - London Trams (formerly Croydon Tramlink)
+    - London Trams (ehemals Croydon Tramlink)
     - Transport for Greater Manchester
     - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station, Isle of Wight)
+    - Wightlink ferry (Portsmouth Harbour nach Ryde Pier Head station auf der Isle of Wight)
 ---
 
 <!-- UK ist ein bisschen anders. Hier gibt es keine Zugkategorien, sondern ganz viele Betreiber, bei den man gucken muss, ob FIP dort gilt. Daher ist es hier wahrscheinlich sinnvoll auch andere Betreiber aufzuführen ohne FIP, auch wenn es oft Straßenbahnen und U-Bahnen sind. Für den User ist es sonst schwer zu unterscheiden warum auf der Elizabeth Line FIP gilt, auf anderen U-Bahn Linien aber beispielsweise nicht. -->
@@ -28,15 +28,15 @@ params:
 
 ## FIP Nutzung
 
-Im Vereinigten Königreich wird FIP von allen Zugbetreibern akzeptiert, die in [National Rail]({{< ref "/operator/gb" >}} "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind – wie bei FIP üblich – nicht inbegriffen. Alle Betreiber, die FIP akzeptieren, sind in der [Liste der Betreiber]({{< ref "/operator/gb#zugkategorien-und-reservierungen" >}} "Liste der Betreiber") aufgeführt.
+In England, Schottland und Wales wird FIP von allen Zugbetreibern akzeptiert, die in [National Rail]({{< ref "/operator/gb" >}} "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind – wie bei FIP üblich – nicht inbegriffen. Alle Betreiber, die FIP akzeptieren, sind in der [Liste der Betreiber]({{< ref "/operator/gb#zugkategorien-und-reservierungen" >}} "Liste der Betreiber") aufgeführt.
 
-Nordirland ist auch Teil des Vereinigten Königreichs, wird aber von einem eigenen Bahnbetreiber (NIR) bedient, bei dem eigene FIP Vergünstigungen für Nordirland gelten.
+Nordirland wird dagegen von einem eigenen Bahnbetreiber (NIR) bedient, bei dem FIP Vergünstigungen explizit für diese Bahngesellschaft gültig sind. Zwischen Großbritannien und Nordirland können Fährverbindungen von Stena Line mit FIP genutzt werden. 
 
-Zusätzlich gibt es [Eurostarzüge]({{< ref "/operator/eurostar" >}} "Eurostarzüge") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
+Zusätzlich gibt es Züge von [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 
 ## Wissenswertes
 
-Das Vereinigte Königreich ist das Ursprungsland der Eisenbahn und diese hat dort eine dementsprechend lange Tradition. Das Bahnnetz ist sehr dicht und es gibt viele Verbindungen in alle Regionen des Landes. Die Qualität der Züge und Bahnhöfe ist sehr unterschiedlich, da viele Betreiber unabhängig voneinander agieren. Einige Betreiber bieten moderne und komfortable Züge, während andere noch ältere Modelle im Einsatz haben.
+Das Vereinigte Königreich ist das Ursprungsland der Eisenbahn und diese hat dort eine dementsprechend lange Tradition. Das Bahnnetz erstreckt sich über das ganze Land und es gibt viele (Direkt-)Verbindungen in alle Regionen. Die Qualität der Züge und Bahnhöfe ist sehr unterschiedlich, da viele Betreiber unabhängig voneinander agieren. Einige Betreiber bieten moderne und komfortable Züge, während andere noch ältere Modelle im Einsatz haben.
 
 Des Weiteren gibt es viele große historische Bahnhöfe wie London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads oder York. Zahlreiche [Museumsbahnen]({{< ref "/operator/gb#museumsbahnen--historische-fahrten" >}} "Museumsbahnen" ) bieten vergünstigte Preise für FIP-Berechtigte an.
 
@@ -55,7 +55,7 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 | Irland (CIE) | Dundalk |
 {{% /expander %}}
 
-### Reisen zwischen dem Vereinigten Königreich und Nord-Irland
+### Reisen zwischen dem Vereinigten Königreich und Nordirland
 
 Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber (NIR) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es Fährverbindungen, welche mit FIP genutzt werden können.
 
@@ -69,12 +69,12 @@ Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoc
 
 ### Niederlande
 
-Von Amsterdam und Rotterdam verkehren [Eurostar Red]({{< ref "/operator/eurostar" >}} "Eurostar Red") und [Eurocity]({{< ref "/operator/ns#zugkategorien-und-reservierungen" >}} "Eurocity") Züge nach Brüssel Midi (Belgien). Dort ist ein Umstieg in [Eurostar Blue]({{< ref "/operator/eurostar" >}} "Eurostar Blue") Züge nach London St. Pancras International möglich.
+Von Amsterdam und Rotterdam verkehren durchgängige [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge nach London St. Pancras. Alternativ können auch [Eurostar Red]({{< ref "/operator/eurostar" >}} "Eurostar Red") und [Eurocity]({{< ref "/operator/ns#zugkategorien-und-reservierungen" >}} "Eurocity") Züge nach Brüssel Midi (Belgien) genutzt werden und dort in einen in Brüssel startenden [Eurostar Blue]({{< ref "/operator/eurostar" >}} "Eurostar Blue") Zug nach London St. Pancras umgestiegen werden. Die Eurostar Züge sind immer reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
 
-Zusätzlich verkehrt ab Hoek van Holland eine Fährverbindung nach Harwich, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die RET Metro Hoekse Lijn von Hoek van Holland nach Schiedam Centrum keine FIP Vergünstigungen gewährt.
+Zusätzlich verkehrt ab Hoek van Holland eine Fährverbindung nach Harwich, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die aus Richtung Rotterdam / Nesselande nach Hoek van Holland verkehrende RET Metro keine FIP Vergünstigungen gewährt.
 
 ### Irland
 
 Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar. Alternativ werden [_Rail & Sail_](https://www.seat61.com/train-and-ferry-to-belfast.htm) Tickets angeboten, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
-Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland (CIE) und Nordirland (NIR) erforderlich.
+Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland (CIE) und Nordirland (NIR) oder ein durchgängiges FIP 50 Ticket erforderlich.
