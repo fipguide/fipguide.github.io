@@ -27,8 +27,7 @@ function initHighlightHeadline() {
     for (let i = 0; i < headings.length; i++) {
       const heading = headings[i];
 
-      // Add the scroll-padding-top defined in styles.scss + 1px to trigger the detection
-      if (heading.offsetTop <= window.pageYOffset + 81) {
+      if (heading.offsetTop <= window.pageYOffset) {
         currentHeading = heading;
       } else {
         break;
