@@ -9,9 +9,7 @@ $link-default: #ba3d12;
 $link-special: #000000;
 $bg-default: #ffffff;
 $bg-neutral: #ebe9e1;
-$bg-accent: #ffd900;
-$bg-accent2: #daba00;
-$bg-accent3: #fff284;
+$bg-accent: #ffff00;
 $color-onLight: #000000;
 $color-table-border: #5b5b5b;
 
@@ -24,8 +22,6 @@ html {
   --bg-default: #{$bg-default};
   --bg-neutral: #{$bg-neutral};
   --bg-accent: #{$bg-accent};
-  --bg-accent2: #{$bg-accent2};
-  --bg-accent3: #{$bg-accent3};
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
@@ -51,9 +47,6 @@ html[data-theme="dark"] {
   --link-special: #ffffff;
   --bg-default: #151b23;
   --bg-neutral: #0d1117;
-  --bg-accent: #86761a;
-  --bg-accent2: #daba00;
-  --bg-accent3: #fff284;
   --color-onLight: #ffffff;
   --color-table-border: #555;
   --color-body: #e0e0e0;
