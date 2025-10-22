@@ -389,15 +389,18 @@ details > summary {
   background-color: rgba(0, 0, 0, 0.6);
   position: fixed;
   inset: 0;
-  z-index: 3;
 
   @media print {
     display: none;
   }
 }
 
-.overlay--show-lv5 {
-  z-index: 5;
+.overlay--content {
+  z-index: 6;
+}
+
+.overlay--search {
+  z-index: 10;
 }
 
 body:has(.overlay--show) {

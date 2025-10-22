@@ -20,13 +20,13 @@ const initAside = () => {
     asideContent.removeAttribute("role");
     asideContent.setAttribute("aria-hidden", "true");
     handleBtn.setAttribute("aria-expanded", "false");
-    overlay.classList.remove("overlay--show");
+    overlay.classList.remove("overlay--show", "overlay--content");
   };
 
   const openSheet = () => {
     isClosed = false;
     aside.classList.add("o-aside--open");
-    overlay.classList.add("overlay--show");
+    overlay.classList.add("overlay--show", "overlay--content");
     asideContent.setAttribute("role", "dialog");
     asideContent.setAttribute("aria-hidden", "false");
     handleBtn.setAttribute("aria-expanded", "true");
