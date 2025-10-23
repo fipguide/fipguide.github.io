@@ -20,4 +20,9 @@
   }
 
   @include focus-indicator(0.2rem);
+
+  @media print {
+    padding: 0.6rem;
+    display: block;
+  }
 }
