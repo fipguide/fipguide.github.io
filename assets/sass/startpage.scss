@@ -45,10 +45,13 @@
   gap: 2rem;
   margin-bottom: 2rem;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{$breakpoint-lg}) {
     display: flex;
-    flex-wrap: wrap;
     gap: 1rem;
+  }
+
+  @media (max-width: #{$breakpoint-md}) {
+    flex-wrap: wrap;
   }
 
   @media print {
