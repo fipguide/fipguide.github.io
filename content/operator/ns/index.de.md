@@ -100,10 +100,6 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% highlight important %}}
-Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
-{{% /highlight %}}
-
 ## Ticket- und Reservierungskauf
 
 ### Online
