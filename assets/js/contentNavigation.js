@@ -19,7 +19,7 @@ const initAside = () => {
     aside.classList.remove("o-aside--open");
     asideContent.removeAttribute("role");
     asideContent.setAttribute("aria-hidden", "true");
-    asideContent.toggleAttribute("inert", "");
+    asideContent.setAttribute("inert", "");
     handleBtn.setAttribute("aria-expanded", "false");
     overlay.classList.remove("overlay--show", "overlay--content");
   };
