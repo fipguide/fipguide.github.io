@@ -10,6 +10,7 @@ $link-special: #000000;
 $bg-default: #ffffff;
 $bg-neutral: #ebe9e1;
 $bg-accent: #ffff00;
+$bg-accent2: #fff284;
 $color-onLight: #000000;
 $color-table-border: #5b5b5b;
 
@@ -22,6 +23,7 @@ html {
   --bg-default: #{$bg-default};
   --bg-neutral: #{$bg-neutral};
   --bg-accent: #{$bg-accent};
+  --bg-accent2: #{$bg-accent2};
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
