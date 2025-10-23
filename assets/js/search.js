@@ -50,13 +50,13 @@ const initSearch = () => {
 
   const closeSearch = () => {
     search.querySelector(".pagefind-ui__search-clear").click();
-    overlay.classList.remove("overlay--show", "overlay--show-lv5");
+    overlay.classList.remove("overlay--show", "overlay--search");
     search.classList.remove("o-search--show");
     updateSearchButtonLabels(false);
   };
 
   const openSearch = () => {
-    overlay.classList.add("overlay--show", "overlay--show-lv5");
+    overlay.classList.add("overlay--show", "overlay--search");
     search.classList.add("o-search--show");
     searchElement.focus();
     search.scrollIntoView({ behavior: "smooth", block: "start" });
