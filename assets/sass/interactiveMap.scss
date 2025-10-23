@@ -22,7 +22,6 @@
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-    z-index: 3;
 
     @media print {
       display: none;

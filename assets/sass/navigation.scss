@@ -4,7 +4,7 @@
   top: 0;
   box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
   background-color: var(--bg-default);
-  z-index: 7;
+  z-index: 14;
   height: 6rem;
   padding-left: calc((100vw - 100%) / 2);
   border-bottom: var(--border);
@@ -30,7 +30,7 @@
   background-color: rgba(0, 0, 0, 0.8);
   inset: 0;
   position: fixed;
-  z-index: 2;
+  z-index: 18;
 }
 
 .o-header__nav {
@@ -108,7 +108,7 @@ menu > li > menu {
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-s);
   color: var(--bg-default);
-  z-index: 100;
+  z-index: 16;
 
   &:focus {
     opacity: 1;
@@ -251,7 +251,7 @@ menu > li > menu {
     right: 0;
     width: 70%;
     height: 100%;
-    z-index: 4;
+    z-index: 20;
     background-color: var(--bg-default);
     padding: 1rem;
     overflow-y: scroll;
