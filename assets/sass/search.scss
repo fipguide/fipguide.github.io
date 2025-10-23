@@ -1,7 +1,9 @@
+$search-z-index: 12;
+
 #search {
   width: 100%;
   display: flex;
-  z-index: 6;
+  z-index: $search-z-index;
 
   @media print {
     display: none;
@@ -33,7 +35,7 @@
   }
 
   input.pagefind-ui__search-input {
-    z-index: 6;
+    z-index: $search-z-index;
     outline: 0.2rem solid transparent;
     border: var(--border);
     box-shadow: var(--box-shadow);
@@ -65,7 +67,7 @@
   }
 
   .pagefind-ui__form::before {
-    z-index: 7;
+    z-index: $search-z-index + 1;
   }
 
   .pagefind-ui__drawer {
@@ -75,7 +77,7 @@
     overflow: hidden;
     position: absolute;
     width: 100%;
-    z-index: 6;
+    z-index: $search-z-index;
     border: var(--border);
     border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
   }
@@ -156,6 +158,6 @@
     display: block;
     opacity: 1;
     visibility: visible;
-    z-index: 6;
+    z-index: $search-z-index;
   }
 }
