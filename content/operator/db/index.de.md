@@ -1,12 +1,9 @@
 ---
 draft: false
-title: "Deutsche Bahn"
-description: "" # Ergänze eine Beschreibung für die Bahngesellschaft
+title: "DB"
+description: "Informationen über die FIP-Bedingungen bei der Deutschen Bahn (DB)."
 country:
-  # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
-  - "country1"
-  - "country2"
-  - "country3"
+  - "germany"
 operator: "db"
 ---
 
@@ -34,22 +31,13 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschl
 
 FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: <✅/⛔> \
-FIP 50 Tickets: ✅ \
+FIP 50 Tickets: ✅
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
 Es existiert keine Reservierungspflicht außer bei bestimmten grenzüberschreitenden Verbindungen für Grenzübertritte. Fahrten die nur in Deutschland stattfinden, benötigen keine Reservierung.
-
-<!--
-  Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden.
-  Im Titel können folgende Emojis verwendet werden:
-  - ⚠️ für eine generelle Reservierungspflicht oder Zuschläge
-  - 1️⃣ für eine Reservierungspflicht in der 1. Klasse
-  - ⛔ für eine Nichtanerkennung von FIP
-  - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
--->
 
 ### Fernverkehr
 
@@ -125,7 +113,11 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 
 ### Nahverkehr
 
-Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, die kein FIP akzeptieren. In der [Verbindungsauskunft der DB](https://www.bahn.de) sind die Züge aller Betreiber hinterlegt. Nur Züge mit _DB_ im Betreibernamen in den _Fahrtinformationen_ können mit FIP genutzt werden. Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/veroeffentlichungen/spnv-karten/) welcher Betreiber auf welchen Linien verkehrt.
+Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, die kein FIP akzeptieren. In der [Verbindungsauskunft der DB](https://www.bahn.de) sind die Züge aller Betreiber hinterlegt. Nur Züge mit _DB_ im Betreibernamen in den _Fahrtinformationen_ können mit FIP genutzt werden.
+
+{{% highlight tip %}}
+Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/veroeffentlichungen/spnv-karten/) welche Betreiber auf welchen Linien verkehren. Verbindungen der Deutschen Bahn sind auf dieser Karte rot und mit _DB - DB Regio AG_ gekennzeichnet.
+{{% /highlight %}}
 
 {{% expander "Regionalexpress (RE) ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
