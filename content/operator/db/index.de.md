@@ -1,12 +1,9 @@
 ---
 draft: false
-title: "Deutsche Bahn"
-description: "" # Ergänze eine Beschreibung für die Bahngesellschaft
+title: "DB"
+description: "Informationen über die FIP-Bedingungen bei der Deutschen Bahn (DB)."
 country:
-  # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
-  - "country1"
-  - "country2"
-  - "country3"
+  - "germany"
 operator: "db"
 ---
 
@@ -34,22 +31,13 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschl
 
 FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: <✅/⛔> \
-FIP 50 Tickets: ✅ \
+FIP 50 Tickets: ✅
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
 Es existiert keine Reservierungspflicht außer bei bestimmten grenzüberschreitenden Verbindungen für Grenzübertritte. Fahrten die nur in Deutschland stattfinden, benötigen keine Reservierung.
-
-<!--
-  Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden.
-  Im Titel können folgende Emojis verwendet werden:
-  - ⚠️ für eine generelle Reservierungspflicht oder Zuschläge
-  - 1️⃣ für eine Reservierungspflicht in der 1. Klasse
-  - ⛔ für eine Nichtanerkennung von FIP
-  - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
--->
 
 ### Fernverkehr
 
@@ -74,7 +62,7 @@ Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation 
 
 **Economy**: Vergleichbar mit der 2. Klasse. (Innerhalb von Deutschland gelten in dieser Klasse Tickets der 2. Klasse) \
 **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. (Innerhalb von Deutschland gelten in dieser Klasse Tickets der 1. Klasse) \
-**Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag) (Innerhalb von Deutschland gelten in dieser Klasse Tickets der 1. Klasse)
+**Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
@@ -125,7 +113,11 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 
 ### Nahverkehr
 
-Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, die kein FIP akzeptieren. In der [Verbindungsauskunft der DB](https://www.bahn.de) sind die Züge aller Betreiber hinterlegt. Nur Züge mit _DB_ im Betreibernamen in den _Fahrtinformationen_ können mit FIP genutzt werden. Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/veroeffentlichungen/spnv-karten/) welcher Betreiber auf welchen Linien verkehrt.
+Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, die kein FIP akzeptieren. In der [Verbindungsauskunft der DB](https://www.bahn.de) sind die Züge aller Betreiber hinterlegt. Nur Züge mit _DB_ im Betreibernamen in den _Fahrtinformationen_ können mit FIP genutzt werden.
+
+{{% highlight tip %}}
+Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/veroeffentlichungen/spnv-karten/) welche Betreiber auf welchen Linien verkehren. Verbindungen der Deutschen Bahn sind auf dieser Karte rot und mit _DB - DB Regio AG_ gekennzeichnet.
+{{% /highlight %}}
 
 {{% expander "Regionalexpress (RE) ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
@@ -197,10 +189,24 @@ FIP 50 Fahrkarten können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-<!--
-  Welche Ermäßigungen können Kinder bekommen und unter welchen Umständen?
-  Welche Ermäßigungen kann es sonst noch geben?
--->
+Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 14 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 14 Jahren gilt der reguläre Erwachsenenfahrpreis.
+
+### Kostenlos mitreisende Kinder
+
+Begleitende Kinder im Alter von 6 bis 14 Jahren dürfen kostenlos mit einem FIP-Inhaber reisen, sofern
+
+- der FIP-Inhaber mindestens 15 Jahre alt ist und
+- über ein gültiges Ticket (z.B. FIP 50 Ticket) oder einen FIP Freifahrtschein verfügt.[1]
+
+Die kostenlos mitreisenden Kinder müssen nicht mit dem begleitenden Erwachsenen verwandt sein.
+
+In Nahverkehrszügen können bis zu 3 Kinden mitgenommen werden und in Fernverkehszügen bis zu 4 Kinder. (Bei FIP 50 Tickets die einen Abschnitt im Fernverkehrhaben, kann auch in den angegebenen Nahverkehrszügen bis zu 4 Kinder mitgenommen werden.)
+
+Kostenlos mitreisende Kinder müssen nicht auf dem Ticket eingetragen werden. (Bei FIP 50 Tickets empfiehlt es sich trotzdem diese kostenlos mitzubuchen, um Probleme bei der Fahrtkartenkontrolle zu vermeiden)
+
+Kinder, die nicht von einer über 15 Jahre alten Person mit Reiseberechtigung begleitet werden, müssen ein eigenes Ticket kaufen.
+
+Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 
 ## Tarifliche Besonderheiten
 
@@ -208,11 +214,17 @@ NVV
 
 Fahrten in Verkehrsverbünden
 
+FIP 50 Tickets nur für Nahverkehr und nur für Fernverkehr
+
 ### <Route bzw. Name>
 
 <!--
   Beschreibung der Besonderheit, wenn es auf bestimmten Routen z. B. Sonderregelungen gibt.
 -->
+
+### Busse und Ersatzverkehr
+
+Busse sind ausgeschlossen von FIP-Vergünstigungen, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
 
 ## Empfehlungen
 
