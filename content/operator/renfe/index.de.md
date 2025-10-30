@@ -169,7 +169,7 @@ In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkau
 
 Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
 
-Tickets für grenzüberschreitende `AVE` Züge, können bei Zustieg in Frankreich im Zug erworben werden.
+Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug erworben werden.
 
 ## Ermäßigungen
 

@@ -169,6 +169,8 @@ Dans les centres de services DB, il est possible d’acheter des billets pour le
 
 Si aucun guichet n’est disponible, l’achat est possible à bord (à confirmer localement).
 
+Les billets pour les trains `AVE` internationaux peuvent être achetés à bord lors de la montée en France.
+
 ## Réductions
 
 Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les enfants de moins de 12 ans, une réduction de 40 % s’applique. À partir de 12 ans, le plein tarif est facturé.

@@ -39,7 +39,7 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des Tarifs Globaux FIP sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
 
-Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux")). Pour les trains opérés par Renfe, les mêmes tarifs que pour les AVE nationaux s’appliquent, mais ces billets ne peuvent être achetés qu’aux guichets Renfe en Espagne. Il devrait également être possible de les acheter à bord lors de la montée en France, mais il n’existe pas encore de retour d’expérience à ce sujet.
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d'acheter ces billets à bord : il faut alors s'adresser au personnel du train, qui accepte le paiement par carte. [^1]
 
 Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec le Billet FIP spécial.
 
@@ -54,3 +54,5 @@ Les liaisons entre l'Espagne et le Portugal sont actuellement très limitées. P
 Il existe également la liaison Celta entre Porto et Vigo, mais elle ne va pas plus loin en Espagne. Le Tarif Global FIP est valable sur l'ensemble du trajet ([Voir Renfe – Celta]({{< ref "/operator/renfe#longue-distance" >}} "Renfe")).
 
 Une ligne à grande vitesse Lisbonne – Madrid est actuellement en cours de construction.
+
+[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)

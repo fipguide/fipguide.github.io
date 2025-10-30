@@ -98,7 +98,7 @@ Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia
 
 Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
 
-Pour ces deux opérateurs, des Tarifs Globaux FIP sont disponibles, mais ceux de la SNCF peuvent être très coûteux, voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux"). Pour les trains exploités par Renfe, les mêmes tarifs que pour les AVE nationaux en Espagne s’appliquent, mais ces billets ne sont disponibles qu’aux guichets Renfe en Espagne. Il devrait également être possible d’acheter un billet à bord lors de la montée en France, mais il n’existe pas encore de retour d’expérience à ce sujet.
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d'acheter ces billets à bord : il faut alors s'adresser au personnel du train, qui accepte le paiement par carte. [^1]
 
 Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
 
@@ -109,3 +109,5 @@ Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en
 ### Monaco
 
 Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
+
+[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
