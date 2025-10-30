@@ -98,7 +98,7 @@ SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco
 
 Direct `TGV` trains operated by the French SNCF run from Barcelona to Paris. Renfe also operates cross-border services between Barcelona and Lyon as well as Madrid and Marseille.
 
-FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain.
+FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain. [^1]
 
 With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
 
@@ -109,3 +109,5 @@ Overall, there are very few cross-border connections, which were much better dev
 ### Monaco
 
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
+
+[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)

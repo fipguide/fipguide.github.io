@@ -169,7 +169,7 @@ Dans les centres de services DB, il est possible d’acheter des billets pour le
 
 Si aucun guichet n’est disponible, l’achat est possible à bord (à confirmer localement).
 
-Les billets pour les trains `AVE` internationaux peuvent être achetés à bord lors de la montée en France.
+Les billets pour les trains `AVE` internationaux peuvent être achetés à bord lors de la montée en France. [^3]
 
 ## Réductions
 
@@ -196,3 +196,5 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
+[^3]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
