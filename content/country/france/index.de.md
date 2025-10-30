@@ -98,7 +98,7 @@ Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza übe
 
 Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
 
-Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets ab 15 € verfügbar (Stand: Oktober 2025). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei der Anreise aus Frankreich können diese Tickets auch im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann. [^1]
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets ab 15 € verfügbar (Stand: Oktober 2025). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich.
 
 Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye an der Atlantikküste gefahren werden.
 
@@ -109,5 +109,3 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 ### Monaco
 
 Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
-
-[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
