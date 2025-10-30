@@ -39,7 +39,7 @@ Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, d
 
 Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid.
 
-Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets ab 15 € verfügbar (Elige - Oktober 2025). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei den Anreise aus Frankreich können diese Tickets auch im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann.
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets ab 15 € verfügbar (Elige - Oktober 2025). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei den Anreise aus Frankreich können diese Tickets auch im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann. [^1]
 
 Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye an der Atlantikküste gefahren werden.
 
@@ -54,3 +54,5 @@ Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich v
 Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#langstrecke" >}} "Renfe")).
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
+
+[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
