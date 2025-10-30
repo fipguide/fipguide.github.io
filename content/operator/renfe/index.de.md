@@ -169,6 +169,8 @@ In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkau
 
 Wenn keine Verkaufsstelle der Renfe am Startbahnhof besetzt ist, können Tickets im Zug gekauft werden.
 
+Tickets für grenzüberschreitende `AVE` Züge, können bei Zustieg in Frankreich im Zug erworben werden.
+
 ## Ermäßigungen
 
 Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
