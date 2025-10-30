@@ -22,7 +22,7 @@ Pour les trajets longue distance, les trains Frecce de Trenitalia ne sont access
 
 ## Informations générales
 
-L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et de grande qualité en longue distance sont particulièrement remarquables, permettant de voyager rapidement entre le nord et le sud du pays. En dehors des lignes à grande vitesse, il existe de nombreuses lignes régionales classiques et parfois très pittoresques. Par exemple, la ligne ferroviaire des Cinque Terre en Ligurie, où les trains desservent fréquemment les cinq villages, est la principale connexion entre ces lieux difficilement accessibles autrement. Les trains régionaux en Italie ne circulent pas selon un horaire cadencé classique, mais plutôt à intervalles irréguliers. La Sardaigne est accessible par trains de nuit et InterCity, qui traversent le détroit de Messine par ferry Trenitalia.
+L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et de grande qualité en longue distance sont particulièrement remarquables, permettant de voyager rapidement entre le nord et le sud du pays. En dehors des lignes à grande vitesse, il existe de nombreuses lignes régionales classiques et parfois très pittoresques. Par exemple, la ligne ferroviaire des Cinque Terre en Ligurie, où les trains desservent fréquemment les cinq villages, est la principale connexion entre ces lieux difficilement accessibles autrement. Les trains régionaux en Italie ne circulent pas selon un horaire cadencé classique, mais plutôt à intervalles irréguliers. La Sicile est accessible par trains de nuit et InterCity, qui traversent le détroit de Messine par ferry Trenitalia.
 
 ## Arrivée et points frontières
 
