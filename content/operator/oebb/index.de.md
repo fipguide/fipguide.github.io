@@ -33,8 +33,8 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ÖBB gültig. 
 Bei der Fahrt mit FIP Freifahrtschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
 
 Kosten: \
-1\. Klasse: 15€ \
-2\. Klasse: 10€
+1\. Klasse: 15 € \
+2\. Klasse: 10 €
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
@@ -246,7 +246,7 @@ Im IC Bus (ICB) gelten besondere FIP Globalpreise. Eine Sitzplatzreservierung is
 
 ### Motorail
 
-FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Rabatt ausgeschlossen.
+FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Ermäßigung ausgeschlossen.
 
 ### Autoschleuse Tauerntunnel (ASTB)
 

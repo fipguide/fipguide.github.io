@@ -24,7 +24,7 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅ \
 FIP Globalpreis: ✅ (Für internationale `TGV` Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge))

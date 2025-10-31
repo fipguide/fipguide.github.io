@@ -19,7 +19,7 @@ Ticketschalter der SNCF werden SNCF Connect Shops genannt und befinden sich an a
 
 ## FIP 50 Fahrkarten
 
-Die SNCF verkauft an ihren Ticketschaltern Fahrkarten mit 50% FIP Rabatt.
+Die SNCF verkauft an ihren Ticketschaltern Fahrkarten mit 50% FIP Ermäßigung.
 
 {{% /booking-section %}}
 

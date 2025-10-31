@@ -28,10 +28,10 @@ Ein Buchstabieralphabet kann bei der Angabe von Namen und Adressen helfen. Die B
 Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buchungsbestätigung) sowie das eTicket per E-Mail versendet. Bei der Zugreise muss das eTicket zusammen mit dem FIP Freifahrtschein oder dem FIP Ausweis vorgelegt werden.
 
 {{% highlight tip %}}
-Um Wartezeiten zu vermeiden, kann auf der [Website der SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous) ein Rückruftermin vereinbart werden. Dabei kann der Name und die E-Mail Adresse bereits vorab angegeben werden und muss nicht mehr am Telefon diktiert werden. Außerdem kann im Freitextfeld die gewünschte Verbindung angegeben werden und der FIP Rabatt angegeben werden.
+Um Wartezeiten zu vermeiden, kann auf der [Website der SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous) ein Rückruftermin vereinbart werden. Dabei kann der Name und die E-Mail Adresse bereits vorab angegeben werden und muss nicht mehr am Telefon diktiert werden. Außerdem kann im Freitextfeld die gewünschte Verbindung angegeben werden und der FIP Ermäßigung angegeben werden.
 
 Die SNCF kennt diese teilweise auch unter den Namen: \
-_FIP cheminot étranger_ = 50 % FIP Rabatt \
+_FIP cheminot étranger_ = 50 % FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100 % / FIP Freifahrtschein SNCF
 {{% /highlight %}}
 
@@ -39,7 +39,7 @@ _FIP permis (ayant droit SNCF)_ = 100 % / FIP Freifahrtschein SNCF
 
 ## FIP 50 Fahrkarten
 
-Die SNCF verkauft Fahrkarten mit 50% FIP Rabatt.
+Die SNCF verkauft Fahrkarten mit 50% FIP Ermäßigung.
 
 {{% /booking-section %}}
 

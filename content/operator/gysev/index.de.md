@@ -70,7 +70,7 @@ Nahverkehrszug mit Halten an den meisten Stationen.
 
 ### Im Zug
 
-Tickets mit FIP Rabatt können nicht im Zug erworben werden. [^1]
+Tickets mit FIP Ermäßigung können nicht im Zug erworben werden. [^1]
 
 ## Ermäßigungen
 
