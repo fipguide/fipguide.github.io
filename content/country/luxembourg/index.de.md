@@ -55,7 +55,7 @@ Von Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Lux
 
 ### Deutschland
 
-Von Deutschland aus verkehren grenzüberschreitende Regionalzüge von Koblenz nach Luxemburg. Für den Abschnitt in Deutschland ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
+Von Deutschland aus verkehren grenzüberschreitende Regionalzüge von Koblenz / Wittlich / Trier nach Luxemburg. Für den Abschnitt in Deutschland ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
 Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Düsseldorf nach Luxemburg. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug geführt.
 
 ### Frankreich

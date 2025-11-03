@@ -4,6 +4,7 @@ title: "SNCB / NMBS"
 description: "Informations sur les conditions FIP à la SNCB."
 country:
   - "belgium"
+  - "luxembourg"
 operator: "sncb"
 ---
 
