@@ -51,21 +51,16 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 
 ### Belgien
 
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
+Von Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
 
 ### Deutschland
 
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
+Von Deutschland aus verkehren grenzüberschreitende Regionalzüge von Koblenz nach Luxemburg. Für den Abschnitt in Deutschland ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
+Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Düsseldorf nach Luxemburg. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug geführt.
 
 ### Frankreich
 
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
+Aus Paris betreibt die SNCF internationale `TGV` Züge von Paris nach Luxemburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Frankreich nach Luxemburg über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten FIP Tickets der SNCF und ab dem Grenzpunkt normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt.
+{{% highlight tip %}}
+Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein Freifahrtschein der CFL nicht unbedingt erforderlich. Bei der Fahrt von Frankreich muss aber ein grenzüberschreitendes Ticket (z. B. ein FIP 50 Ticket) vorhanden sein.
+{{% /highlight %}}

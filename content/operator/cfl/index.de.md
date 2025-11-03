@@ -7,107 +7,61 @@ country:
 operator: "cfl"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
 {{< wip >}}
 
 Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxemburgische Staatsbahn und die wichtigste Bahngesellschaft in Luxemburg.
 
-<!--
-  Kurze Beschreibung der Bahngesellschaft. z. B. Der vollstandige Name in Landessprache, alternative Namen und Angabe über Privat/Staatsbahn
--->
-
 ## Zusammenfassung
 
-<!--
-  Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
-  z. B.
-  - Werden FIP 50 und FIP Freifahrtscheine akzeptiert?
-  - Gibt es eine Reservierungspflicht?
-  - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
--->
+- kostenfreie Fahrt in der zweiten Klasse
+- Aufpreis für die erste Klasse möglich
 
 ## Gültigkeit FIP Tickets
 
-<!--
-  Die Ticketkategorien können je nach Betreiber abweichen.
--->
+FIP Freifahrtschein: ✅ \
+FIP Freifahrt Angehörige: ⛔ \
+FIP 50 Tickets: ✅ \
+FIP Globalpreis: ⛔
 
-FIP Freifahrtschein: <✅/⛔> \
-FIP Freifahrt Angehörige: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Globalpreis: <✅/⛔>
-
-<!--
-  Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
--->
+Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten an.
+Die Fahrt mit der CFL ist somit in der zweiten Klasse kostenlos.
+Die Fahrt in der ersten Klasse erfordert einen FIP Freifahrtschein oder FIP 50 Ticket der ersten Klasse.
 
 ## Zugkategorien und Reservierungen
 
-<!--
-  Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
--->
+{{% expander "Regionalexpress (RE)" traincategory "category" %}}
 
-<!--
-  Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden.
-  Im Titel können folgende Emojis verwendet werden:
-  - ⚠️ für eine generelle Reservierungspflicht oder Zuschläge
-  - 1️⃣ für eine Reservierungspflicht in der 1. Klasse
-  - ⛔ für eine Nichtanerkennung von FIP
-  - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
--->
+**Beschreibung:**\
+Züge mit Halt an manchen Stationen.
 
-{{% expander "Zugkategorie" traincategory "category" %}}
-
-<!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z. B. ICE. -->
-
-**Beschreibung:**
-
-<!-- Füge hier eine Beschreibung der Zugkategorie ein -->
-
-**Reservierung möglich:** Ja/Nein \
-**Reservierungspflicht:** Ja/Nein \
-
-<!-- Wenn FIP nicht gültig ist, ergänze folgendes:
-**FIP:** ⛔ FIP wird nicht anerkannt
--->
-<!-- Wenn es FIP Globalpreise gibt, ergänze folgendes:
-**FIP Globalpreis:**
--->
+**Reservierung möglich:** Nein \
+**Reservierungspflicht:** Nein
 
 {{% /expander %}}
 
-## Klassenkategorien
+{{% expander "Regionalbahn (RB)" traincategory "category" %}}
 
-<!--
-  Wenn die Klassenkategorien zusätzliche/andere Klassen zu 1. und 2. Klasse haben, dann können diese hier beschrieben werden. Ansonsten kann dieser Abschnitt entfernt werden.
--->
+**Beschreibung:**\
+Züge mit Halt an allen Stationen.
 
-<!--
-**Standard**: Vergleichbar mit der 2. Klasse. \
-**Plus**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
-**Premium**: 1. Klasse inkl. Verpflegung. Nicht mit FIP buchbar.
--->
+**Reservierung möglich:** Nein \
+**Reservierungspflicht:** Nein
+
+{{% /expander %}}
+
+{{% expander "Standseilbahn Pfaffenthal-Kirchberg" traincategory "category" %}}
+
+**Beschreibung:**\
+Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.
+
+**Reservierung möglich:** Nein \
+**Reservierungspflicht:** Nein
+
+{{% /expander %}}
 
 ## Ticket- und Reservierungskauf
 
-### Online
-
-Für die erste Klasse können online Tickets gekauft werden, um die Buchungsgebühr zu umgehen. Geht auch am Fahrkartenautomaten
-
-<!--
-  Bette hier Buchungsplattformen mit Onlinebuchung ein.
-
-  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
-  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
-
-  Mehr Informationen sind im booking archetype zu finden.
--->
-
-
-
-<!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
-
+Der Ticketkauf ist nur für die erste Klasse relevant.
 
 ### Telefon
 
@@ -115,17 +69,9 @@ Für die erste Klasse können online Tickets gekauft werden, um die Buchungsgeb�
 fip_global_fare=true
 /%}}
 
-### Vor Ort
-
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
--->
-
-### Im Zug
-
-<!--
-  Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
--->
+{{% highlight tip %}}
+Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulären erste Klasse Fahrkarte via CFL-App oder Fahrkartenautomat.
+{{% /highlight %}}
 
 ## Ermäßigungen
 
@@ -149,5 +95,3 @@ In der zweiten Klasse ist die Fahrt generell kostenfrei möglich, daher ist dies
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
-
-[^2]: [<Quellenname 2](Link)

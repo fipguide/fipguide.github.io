@@ -100,9 +100,7 @@ Tarif Global FIP : <✅/⛔>
   Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
 -->
 
-
 <!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s'affiche dans la partie développée. -->
-
 
 ### Par téléphone
 

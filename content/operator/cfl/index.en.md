@@ -100,10 +100,7 @@ FIP Global Fare: <✅/⛔>
   For more information how to define a booking platform, check the booking archetype.
 -->
 
-
-
 <!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
-
 
 ### Telephone
 
