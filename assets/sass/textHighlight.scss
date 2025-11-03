@@ -5,6 +5,12 @@
   border-radius: var(--border-radius-m);
   border-left: var(--bg-neutral) solid 1rem;
 
+  // Remove margins from last elements of expander (up to 2 levels deep)
+  & > *:last-child,
+  & > *:last-child > *:last-child {
+    margin-bottom: 0;
+  }
+
   @media print {
     page-break-inside: avoid;
     padding: 0.6rem;

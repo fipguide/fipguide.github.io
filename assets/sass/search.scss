@@ -147,7 +147,7 @@ $search-z-index: 12;
 
 .o-search {
   &--contentpage {
-    position: absolute;
+    position: fixed;
     display: none;
     opacity: 0;
     visibility: hidden;
