@@ -216,6 +216,14 @@ Fahrten in Verkehrsverbünden
 
 FIP 50 Tickets nur für Nahverkehr und nur für Fernverkehr
 
+SIW Wangerooge
+
+Syltshuttle vermutlich nicht nutzbar, da für alle ein separater Fahrschein erforderlich ist
+
+Regionalverkehre Start GmbH ist zwar DB Regio Tochter, darf aber nicht gefahren werden
+
+Hinweis über die vielen Tochtergesellschaften (DB plus Zusatz, S-Bahnen, UBB)
+
 ### <Route bzw. Name>
 
 <!--
