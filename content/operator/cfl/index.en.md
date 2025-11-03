@@ -100,24 +100,16 @@ FIP Global Fare: <✅/⛔>
   For more information how to define a booking platform, check the booking archetype.
 -->
 
-{{% booking id="booking_id"
-    subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
-    classes.first="€20"
-    classes.second="€10"
-%}}
+
 
 <!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
 
-{{% /booking %}}
 
 ### Telephone
 
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
+{{% booking id="cfl-phone"
+fip_global_fare=true
+/%}}
 
 ### On-Site
 

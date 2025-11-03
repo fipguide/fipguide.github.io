@@ -43,9 +43,27 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
+| Belgien (SNCB) | Athus, Gouvy (fr), Sterpenich (fr) |
+| Deutschland (DB) | Igel (Gr) |
+| Frankreich (SNCF) | Bettembourg (fr), Rodange (fr) |
+
 {{% /expander %}}
 
-### <Name des Nachbarlandes>
+### Belgien
+
+<!--
+  Welche Routen kann man aus dem entsprechenden Land nutzen.
+  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
+-->
+
+### Deutschland
+
+<!--
+  Welche Routen kann man aus dem entsprechenden Land nutzen.
+  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
+-->
+
+### Frankreich
 
 <!--
   Welche Routen kann man aus dem entsprechenden Land nutzen.

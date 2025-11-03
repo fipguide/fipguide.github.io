@@ -11,6 +11,8 @@ operator: "cfl"
 
 {{< wip >}}
 
+Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxemburgische Staatsbahn und die wichtigste Bahngesellschaft in Luxemburg.
+
 <!--
   Kurze Beschreibung der Bahngesellschaft. z. B. Der vollstandige Name in Landessprache, alternative Namen und Angabe über Privat/Staatsbahn
 -->
@@ -91,6 +93,8 @@ FIP Globalpreis: <✅/⛔>
 
 ### Online
 
+Für die erste Klasse können online Tickets gekauft werden, um die Buchungsgebühr zu umgehen. Geht auch am Fahrkartenautomaten
+
 <!--
   Bette hier Buchungsplattformen mit Onlinebuchung ein.
 
@@ -100,24 +104,16 @@ FIP Globalpreis: <✅/⛔>
   Mehr Informationen sind im booking archetype zu finden.
 -->
 
-{{% booking id="booking_id"
-    subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
-    classes.first="€20"
-    classes.second="€10"
-%}}
+
 
 <!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
 
-{{% /booking %}}
 
 ### Telefon
 
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung per Telefon hinzu.
--->
+{{% booking id="cfl-phone"
+fip_global_fare=true
+/%}}
 
 ### Vor Ort
 
@@ -133,10 +129,8 @@ FIP Globalpreis: <✅/⛔>
 
 ## Ermäßigungen
 
-<!--
-  Welche Ermäßigungen können Kinder bekommen und unter welchen Umständen?
-  Welche Ermäßigungen kann es sonst noch geben?
--->
+Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 12 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 12 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
+In der zweiten Klasse ist die Fahrt generell kostenfrei möglich, daher ist dies nur für die erste Klasse relevant.
 
 ## Tarifliche Besonderheiten
 
@@ -154,6 +148,6 @@ FIP Globalpreis: <✅/⛔>
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
 
 [^2]: [<Quellenname 2](Link)

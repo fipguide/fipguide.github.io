@@ -100,24 +100,15 @@ Tarif Global FIP : <✅/⛔>
   Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
 -->
 
-{{% booking id="booking_id"
-    subtitle="Ce sous-titre s'affiche dans le résumé de l'expander et doit rester concis."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
-    classes.first="20€"
-    classes.second="10€"
-%}}
 
 <!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s'affiche dans la partie développée. -->
 
-{{% /booking %}}
 
 ### Par téléphone
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
--->
+{{% booking id="cfl-phone"
+fip_global_fare=true
+/%}}
 
 ### En gare
 
