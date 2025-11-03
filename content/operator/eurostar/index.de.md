@@ -4,6 +4,7 @@ title: "Eurostar"
 description: "Informationen über die FIP-Bedingungen bei Eurostar."
 country:
   - "belgium"
+  - "germany"
   - "netherlands"
   - "united-kingdom"
   - "france"
