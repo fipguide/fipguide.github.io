@@ -11,6 +11,10 @@
   justify-content: space-between;
   border-radius: var(--border-radius-m);
 
+  @media print {
+    padding: 0.6rem;
+  }
+
   &:not(.o-expander__summary--booking) {
     font-weight: 700;
   }
@@ -45,6 +49,10 @@
 
 .o-expander__content {
   padding: 1.2rem;
+
+  @media print {
+    padding: 0.6rem;
+  }
 
   // Remove margins from last elements of expander (up to 3 levels deep)
   & > *:last-child,
