@@ -90,8 +90,12 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-.o-expander__summary > span {
+.o-expander__summary > .material-symbols-rounded {
   transition: transform 0.2s;
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-expander__summary > div {
@@ -100,7 +104,7 @@ details > summary::-webkit-details-marker {
   gap: 0.5rem;
 }
 
-.details-screen[open] > .o-expander__summary > span {
+.details-screen[open] > .o-expander__summary > .material-symbols-rounded {
   transform: rotate(180deg);
 }
 
