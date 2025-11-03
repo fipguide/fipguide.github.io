@@ -173,6 +173,8 @@ Tickets for trains requiring reservations can be sold at DB Travel Centers. Plea
 
 If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
 
+Tickets for international `AVE` trains can be purchased on board when boarding in France. [^3]
+
 ## Discounts
 
 Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
@@ -198,3 +200,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
+[^3]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
