@@ -65,14 +65,12 @@ FIP 50 Fahrkarten können auf der Fähre erworben werden.
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 14 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 14 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
-
-## Tarifliche Besonderheiten
-
-### Geburtstagskinder fahren kostenfrei [^2]
+Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 16 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 16 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
 
 Alle Geburtstagskinder fahren an ihrem Geburtstag im Linienverkehr bei Vorlage des Personalausweises (im Original) kostenfrei.
-Das Geburtstagsticket ist vor Fahrtantritt an den Verkaufsstellen zu lösen.
+Das Geburtstagsticket ist vor Fahrtantritt an den Verkaufsstellen zu lösen.[^2]
+
+## Tarifliche Besonderheiten
 
 ### Fahrtunterbrechungen
 
