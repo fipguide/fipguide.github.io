@@ -63,6 +63,12 @@ Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Um
 
 Der Ticketkauf ist nur für die erste Klasse relevant.
 
+### Online
+
+{{% booking id="sncb-website"
+subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
+/%}}
+
 ### Telefon
 
 {{% booking id="cfl-phone"
