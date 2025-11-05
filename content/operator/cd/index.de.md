@@ -146,7 +146,7 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ### ČD Kommerzielle Verbindungen
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag – Ostrava.
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag – Ostrava und umfassen nur Züge der Zugkategorien `SC`, `IC` und `Ex`.
 
 <!-- Wie teuer ist dieses Supplement? -->
 
@@ -156,7 +156,9 @@ Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gül
 
 ### Verbindungen der ČD ohne FIP
 
-Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren. Leider stellt die ČD keine vollständige Liste zur Verfügung. Die wichtigsten sind jedoch die folgenden:
+Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren und nicht wenigstens ein Teilabschnitt direkt durch das Verkehrsministerium vergeben wurde. Für überregionale Verbindungen sind diese als [kommerzielle Verbindungen](#čd-kommerzielle-verbindungen) ausgenommen. Züge der Kategorie `R`, `EC` und `RJ` sind in der Regel nicht betroffen und können immer mit FIP genutzt werden.
+
+Für Verkehre die von regionalen Gemeinden vergeben wird (Züge der Kategorie `SP` und `OS`), stellt die ČD keine vollständige Liste zur Verfügung, im Zweifelsfall kann beim ČD-Support oder am ČD-Schalter gefragt werden. Die wichtigsten sind jedoch die folgenden:
 
 #### Regionalzüge in der Region Süd-Mähren (Brno)
 

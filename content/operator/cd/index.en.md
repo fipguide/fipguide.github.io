@@ -146,7 +146,7 @@ For regular tickets, children up to 6 years travel free in 2nd class. Children u
 
 ### ČD Commercial Services
 
-On so-called _commercial_ ČD services, a supplement must be purchased at the ČD ticket office before travel. These mainly operate on the Prague – Ostrava route.
+On so-called _commercial_ ČD services, a surcharge must be purchased at a ČD Ticket Office before departure. These operate primarily on the Prague – Ostrava route and apply only to trains of categories `SC`, `IC`, and `Ex`.
 
 Overview of services: [ČD commercial trains and selected lines 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
@@ -154,7 +154,9 @@ Refunds of supplements are possible until 23:59 on the day before the first day 
 
 ### ČD Services without FIP
 
-In principle, FIP is theoretically not valid on ČD trains operated under public service contracts. Unfortunately, ČD does not provide a complete list. The most important are:
+In principle, FIP does not apply on ČD trains that operate as part of public tenders awarded to ČD, unless at least a section of the service was awarded directly by the Ministry of Transport. For overregional connections, these are excluded as [ČD Commercial Services](#čd-commercial-services). Trains of categories `R`, `EC`, and `RJ` are generally not affected and can always be used with FIP.
+
+For services awarded by regional municipalities (trains of categories `SP` and `OS`), ČD does not provide a complete list; in case of doubt, ask ČD support or a ČD ticket office. The most important ones are the following:
 
 #### Regional trains in the South Moravia region (Brno)
 

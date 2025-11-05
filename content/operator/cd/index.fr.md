@@ -146,7 +146,7 @@ Pour les billets ordinaires, les enfants jusqu'à 6 ans voyagent gratuitement en
 
 ### Services commerciaux ČD
 
-Sur les services dits _commerciaux_ de la ČD, un supplément doit être acheté au guichet ČD avant le voyage. Ils circulent principalement sur la ligne Prague – Ostrava.
+Sur les services dits « commerciaux » de ČD, un supplément doit être acheté au guichet ČD avant le départ. Ces services opèrent principalement sur la relation Prague – Ostrava et concernent uniquement les trains des catégories `SC`, `IC` et `Ex`.
 
 Aperçu des services : [Trains commerciaux ČD et lignes sélectionnées 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
@@ -154,7 +154,9 @@ Les remboursements de suppléments sont possibles jusqu'à 23h59 la veille du pr
 
 ### Services ČD sans FIP
 
-En principe, le FIP n'est pas valable dans les trains ČD exploités dans le cadre de marchés publics. Malheureusement, ČD ne fournit pas de liste complète. Les plus importants sont :
+En principe, le FIP ne s’applique pas aux trains ČD exploités dans le cadre d’appels d’offres publics attribués à ČD, sauf si au moins un tronçon du service a été attribué directement par le Ministère des Transports. Pour les liaisons interrégionales, ceux-ci sont exclus en tant que [Services commerciaux ČD](#services-commerciaux-čd). Les trains des catégories `R`, `EC` et `RJ` ne sont généralement pas concernés et peuvent toujours être utilisés avec le FIP.
+
+Pour les services attribués par les collectivités régionales (trains des catégories `Sp` et `Os`), ČD ne fournit pas de liste complète ; en cas de doute, contactez le support ČD ou un guichet ČD. Les plus importants sont les suivants :
 
 #### Trains régionaux en Moravie du Sud (Brno)
 
