@@ -24,3 +24,6 @@ L’offre comprend les options suivantes :
   En outre, « 100% discount Netherlands » et « FIP Coupon Luxembourg (CFL) » peuvent aussi être sélectionnés, et plusieurs réductions peuvent être combinées, par exemple avec une BahnCard. Cela permet de réserver de nombreux trajets FIP combinés à tarif réduit.
 
 N’hésitez pas à nous écrire via notre formulaire de contact si vous avez des retours sur les réductions proposées sur le site.
+
+**Mise à jour 05.11.2025 :** \
+L'option de réservation des billets FIP 50 a depuis été supprimée. Il est désormais uniquement possible de réserver des billets prenant en compte le Coupon FIP.
