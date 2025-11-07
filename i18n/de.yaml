@@ -79,6 +79,9 @@ menu:
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
+operator-search:
+  learn-more: Zur Website
+  title: Zugbetreiber identifizieren
 operators_without_fip: Betreiber ohne FIP
 related:
   countries: Verwandte Länder

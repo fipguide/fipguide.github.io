@@ -78,6 +78,9 @@ menu:
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
+operator-search:
+  learn-more: Vers le site Web
+  title: Identifier les opérateurs de trains
 operators_without_fip: Opérateurs sans FIP
 related:
   countries: Pays associés
