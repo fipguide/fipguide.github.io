@@ -154,9 +154,9 @@ Refunds of supplements are possible until 23:59 on the day before the first day 
 
 ### ČD Services without FIP
 
-In principle, FIP does not apply on ČD trains that operate as part of public tenders awarded to ČD, unless at least a section of the service was awarded directly by the Ministry of Transport. For overregional connections, these are excluded as [ČD Commercial Services](#čd-commercial-services). Trains of categories `R`, `EC`, and `RJ` are generally not affected and can always be used with FIP.
+In principle, FIP does not apply on ČD trains that operate as part of public tenders awarded to ČD, unless at least a section of the service was awarded directly by the Ministry of Transport. Overregional connections where FIP is not valid are also called [commercial services](#čd-commercial-services). ČD provides a [list](#čd-commercial-services) of the affected connections. Trains of categories `EC` and `RJ` are generally not affected and can always be used with FIP.
 
-For services awarded by regional municipalities (trains of categories `SP` and `OS`), ČD does not provide a complete list; in case of doubt, ask ČD support or a ČD ticket office. The most important ones are the following:
+For services awarded by regional authorities (trains of categories `Sp` and `Os`), ČD does not provide a list of eligible connections. In case of doubt, you can ask ČD support or at a ČD ticket office which connections accept FIP. However, the most important connections where FIP is not valid are the following:
 
 #### Regional trains in the South Moravia region (Brno)
 

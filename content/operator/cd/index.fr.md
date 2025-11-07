@@ -154,9 +154,9 @@ Les remboursements de suppléments sont possibles jusqu'à 23h59 la veille du pr
 
 ### Services ČD sans FIP
 
-En principe, le FIP ne s’applique pas aux trains ČD exploités dans le cadre d’appels d’offres publics attribués à ČD, sauf si au moins un tronçon du service a été attribué directement par le Ministère des Transports. Pour les liaisons interrégionales, ceux-ci sont exclus en tant que [Services commerciaux ČD](#services-commerciaux-čd). Les trains des catégories `R`, `EC` et `RJ` ne sont généralement pas concernés et peuvent toujours être utilisés avec le FIP.
+En principe, le FIP ne s’applique pas aux trains ČD exploités dans le cadre d’appels d’offres publics attribués à ČD, sauf si au moins un tronçon du service a été attribué directement par le Ministère des Transports. Les liaisons interrégionales où le FIP n’est pas valable sont également appelées [services commerciaux ČD](#services-commerciaux-čd). ČD fournit à cet effet une [liste](#services-commerciaux-čd) des liaisons concernées. Les trains des catégories `EC` et `RJ` ne sont généralement pas concernés et peuvent toujours être utilisés avec le FIP.
 
-Pour les services attribués par les collectivités régionales (trains des catégories `Sp` et `Os`), ČD ne fournit pas de liste complète ; en cas de doute, contactez le support ČD ou un guichet ČD. Les plus importants sont les suivants :
+Pour les services attribués par des collectivités régionales (trains des catégories `Sp` et `Os`), ČD ne fournit pas de liste des liaisons utilisables avec le FIP. En cas de doute, il est possible de demander au support ČD ou au guichet ČD sur quelles liaisons le FIP est valable. Les principales liaisons non utilisables sont toutefois les suivantes :
 
 #### Trains régionaux en Moravie du Sud (Brno)
 
