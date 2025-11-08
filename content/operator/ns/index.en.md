@@ -105,6 +105,12 @@ Regional trains for short connections, stopping at every station along the route
 
 ### Online
 
+Domestic journeys unfortunately cannot be purchased online.
+
+{{% booking id="sncb-website"
+    subtitle="Only for cross-border journeys to/from Belgium with FIP Coupon."
+/%}}
+
 {{% booking id="db-website"
     subtitle="For cross-border ICE and IC connections"
 /%}}
