@@ -1,6 +1,7 @@
 ---
 draft: false
-title: "Deutschland" # Ändere den Name auf den deutschen Ländernamen
+title: "Deutschland"
+country: "germany"
 description: "Informationen über die FIP-Bedingungen für Deutschland und für welche Betreiber Vergünstigungen genutzt werden können."
 params:
   operators_without_fip:
