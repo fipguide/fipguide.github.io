@@ -156,7 +156,7 @@ Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gül
 
 ### Verbindungen der ČD ohne FIP
 
-Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren und nicht wenigstens ein Teilabschnitt direkt durch das Verkehrsministerium vergeben wurde. Überregionale Verbindungen in denen kein FIP gilt werden auch [kommerzielle Verbindungen](#čd-kommerzielle-verbindungen) genannt. Die ČD stellt hierfür eine [Liste](#čd-kommerzielle-verbindungen) zur Verfügung in der die betroffenen Verbindungen aufgeführt sind. Züge der Kategorie `EC` und `RJ` sind in der Regel nicht betroffen und können immer mit FIP genutzt werden.
+Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren und nicht wenigstens ein Teilabschnitt direkt durch das Verkehrsministerium vergeben wurde. Überregionale Verbindungen, in denen kein FIP gilt, werden auch [kommerzielle Verbindungen](#čd-kommerzielle-verbindungen) genannt. Die ČD stellt hierfür eine [Liste](#čd-kommerzielle-verbindungen) zur Verfügung, in der die betroffenen Verbindungen aufgeführt sind. Züge der Kategorie `EC` und `RJ` sind in der Regel nicht betroffen und können immer mit FIP genutzt werden.
 
 Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie `SP` und `OS`), stellt die ČD keine Liste mit nutzbaren Verbindungen zur Verfügung. Im Zweifelsfall kann beim ČD-Support oder am ČD-Schalter gefragt werden, auf welchen Verbindungen FIP gilt. Die wichtigsten, nicht nutzbaren Verbindungen sind jedoch die folgenden:
 
