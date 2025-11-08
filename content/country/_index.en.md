@@ -14,6 +14,7 @@ params:
     - San Marino
     - Sweden
     - Turkey
+    - Ukraine
     - Vatican City
 ---
 
