@@ -19,6 +19,6 @@ When using a FIP Coupon for SNCB, CFL, or NS, you can book a cross-border ticket
 - _100% Discount Luxembourg (CFL)_
 - _100% Discount Netherlands (NS)_
 
-This allows you to book cross-border trains from Belgium, for example to Lille in France (except for the `TGV`, which has a Global Fare and is not operated by SNCB), at a very low price. For sections where no discount is selected, the full fare will be charged instead of the FIP 50 fare.
+This allows you to book cross-border trains from Belgium, for example to Lille in France (except for the `TGV`, which has a Global Fare and is not operated by SNCB), at a very low price. For sections, where no discount is selected, the full fare will be charged instead of the FIP 50 fare.
 
 ![Book an SNCB FIP Ticket](fip_sncb_website.webp)
