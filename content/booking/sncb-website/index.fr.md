@@ -13,4 +13,12 @@ aliases:
   - sncb_website
 ---
 
-Lorsque vous utilisez un Coupon FIP SNCB, un billet transfrontalier peut être réservé via le site web, qui prend en compte le trajet gratuit sur le territoire belge. Pour cela, sélectionnez la réduction "Gratuité en Belgique (SNCB)" pour les voyageurs. Cela permet par exemple de réserver très facilement des trajets de la Belgique vers Lille (hors `TGV`, tarif global et non exploité par la SNCB).
+Lors de l’utilisation d’un Coupon FIP pour la SNCB, la CFL ou la NS, il est possible de réserver un billet transfrontalier sur le site web, qui prend en compte la gratuité sur le tronçon belge, luxembourgeois ou néerlandais. Pour cela, il faut sélectionner l’une des réductions suivantes pour les voyageurs :
+
+- _Gratuité en Belgique (SNCB)_
+- _Gratuité au Luxembourg (CFL)_
+- _Gratuité aux Pays-Bas (NS)_
+
+Ainsi, il est possible de réserver à prix avantageux des trains transfrontaliers au départ de la Belgique, par exemple vers Lille en France (sauf avec le `TGV`, qui possède un Tarif Global FIP et n’est pas exploité par la SNCB). Sur le tronçon pour lequel aucune réduction n’est indiquée, le plein tarif sera appliqué, et non le tarif FIP 50.
+
+![Réserver un billet FIP SNCB](fip_sncb_website.webp)
