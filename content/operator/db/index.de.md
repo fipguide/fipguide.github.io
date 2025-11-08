@@ -61,6 +61,7 @@ Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der 
 Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden und Prag sowie München, Österreich und Italien. Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
 
 Es gibt drei Wagenklassen:
+
 - **Economy**: Vergleichbar mit der 2. Klasse. Innerhalb von Deutschland gelten in dieser Klasse Tickets der 2. Klasse \
 - **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. Innerhalb von Deutschland gelten in dieser Klasse Tickets der 1. Klasse \
 - **Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar; auch nicht mit dem dazugehörigen Zuschlag.
@@ -86,8 +87,9 @@ Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen Mü
 ⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung Italien:**
-* 1\. Klasse: 13€
-* 2\. Klasse: 11€
+
+- 1\. Klasse: 13€
+- 2\. Klasse: 11€
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Italien ⚠️
@@ -224,19 +226,24 @@ Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 ## Tarifliche Besonderheiten
 
 ### Nordhessischer Verkehrsverbund (NVV)
+
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.
 Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) der betroffenen Regionalzug-Linien.
 
 ### Fahrten in Verkehrsverbünden
+
 lorem ipsum
 
 ### FIP 50 Tickets nur für Nahverkehr und nur für Fernverkehr
+
 lorem ipsum
 
 ### DB Syltshuttle
+
 Die DB betreibt den Autoreisezug _Syltshuttle_, welcher von Niebüll Autoverladung nach Westerland (Sylt) Autoverladung verkehrt. Die Mitfahrt ist nur mit einem Fahrzeug (Auto, Wohnwagen, Wohnmobil) möglich und erfordert einen [separaten Fahrschein](https://ticket.syltshuttle.de/). FIP Vergünstigungen werden nicht anerkannt.
 
-### Regionalverkehre Start GmbH 
+### Regionalverkehre Start GmbH
+
 Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
 
 ### <Route bzw. Name>
