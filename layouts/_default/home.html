@@ -24,6 +24,12 @@
         {{ partial "shortcut-tile" (.Site.GetPage "generalinformation") }}
         {{ partial "shortcut-tile" (.Site.GetPage "country") }}
         {{ partial "shortcut-tile" (.Site.GetPage "operator") }}
+        <div class="m-teaser m-teaser--shortcut-tile">
+          <a href="https://discord.gg/5nWS9Eu9zz" class="m-teaser__wrapper">
+            <h2 class="m-teaser__headline">{{ T "discord" }}</h2>
+            {{- partial "icon" "arrow_forward" -}}
+          </a>
+        </div>
       </div>
     </section>
     <section>
