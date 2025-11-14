@@ -105,6 +105,12 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 
 ### En ligne
 
+Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
+
+{{% booking id="sncb-website"
+  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
+/%}}
+
 {{% booking id="db-website"
     subtitle="Pour les connexions ICE et IC transfrontalières"
 /%}}
