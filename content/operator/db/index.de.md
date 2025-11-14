@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "DB"
-description: "Informationen über die FIP-Bedingungen bei der Deutschen Bahn (DB)."
+description: "Informationen über die FIP-Bedingungen bei der Deutschen Bahn (DB): Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "germany"
 operator: "db"
