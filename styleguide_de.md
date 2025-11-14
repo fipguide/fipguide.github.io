@@ -4,7 +4,7 @@
 
 Ein praxisorientierter Leitfaden für einheitliche Texte: Bindestrich/Durchkopplung, Gedankenstrich/En-Dash, genderneutrale Formulierungen, Abstände (z. B. Währung), Listen‑Punktation und technische Hinweise für Mitarbeitende.
 
-**Standard:** neutrale Partizipialformen (z. B. „Mitarbeitende")  
+**Standard:** neutrale Partizipialformen (z. B. „Mitarbeitende")
 **Optional:** Gender‑Doppelpunkt nach Accessibility‑Prüfung (z. B. „Mitarbeiter:innen")
 
 ## Grundprinzipien
@@ -23,7 +23,7 @@ Ein praxisorientierter Leitfaden für einheitliche Texte: Bindestrich/Durchkoppl
 - `TGV‑Verbindung`
 - `FIP‑Freifahrtschein`
 
-**Hinweis:** Non‑breaking hyphen (U+2011) im CMS verwenden, um Zeilenumbruch zu vermeiden
+**Hinweis:** Non‑breaking hyphen (U+2011) im CMS verwenden, um Zeilenumbruch zu vermeiden.
 
 ## 2. Striche — Bindestrich vs. Gedankenstrich
 
@@ -33,7 +33,7 @@ Ein praxisorientierter Leitfaden für einheitliche Texte: Bindestrich/Durchkoppl
 | En‑Dash        | `–`     | U+2013  | Bereiche          | `1999–2005`, `Hamburg–Berlin`   |
 | Gedankenstrich | `–`     | U+2013  | Einschübe         | „Das Projekt – Einschub – Text“ |
 
-**Hinweis:** Em‑Dash (—) wird im Deutschen selten verwendet
+**Hinweis:** Em‑Dash (—) wird im Deutschen selten verwendet.
 
 ## 3. Geschlechtergerechte Sprache
 
