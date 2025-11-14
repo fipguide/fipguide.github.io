@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "National Rail"
-description: "Information about FIP conditions at National Rail."
+description: "Information about FIP conditions at National Rail: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "united-kingdom"
 operator: "gb"

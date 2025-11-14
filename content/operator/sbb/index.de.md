@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Informationen über die FIP-Bedingungen bei der SBB CFF FFS."
+description: "Informationen über die FIP-Bedingungen bei der SBB CFF FFS: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "switzerland"
 ---

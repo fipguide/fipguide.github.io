@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Find out about the FIP conditions at SNCB."
+description: "Find out about the FIP conditions at SNCB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "belgium"
 operator: "sncb"

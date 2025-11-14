@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Informations sur les conditions FIP chez ÖBB."
+description: "Informations sur les conditions FIP chez ÖBB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "austria"
   - "liechtenstein"

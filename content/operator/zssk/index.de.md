@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ZSSK / ZSR"
-description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK."
+description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "slovakia"
 operator: "zssk"
