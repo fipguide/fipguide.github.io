@@ -44,7 +44,7 @@ Auf diesen verkehren Fernverkehrszüge mit einer überdurchschnittlichen Durchsc
 
 ### Deutschland
 
-Von Deutschland aus kann der durchgängige `EC` Hamburg - Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert.
+Von Deutschland aus kann der durchgängige `EC` Hamburg – Kopenhagen genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert.
 
 Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen.
 
@@ -57,4 +57,4 @@ Aus Schweden kann angereist werden:
 - aus Malmö über den Öresund gefahren
 - aus Helsingborg mit Fähre nach Helsingør
 
-Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö - Kopenhagen Normalpreistickets gekauft werden.
+Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö – Kopenhagen Normalpreistickets gekauft werden.

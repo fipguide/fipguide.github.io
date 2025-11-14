@@ -6,7 +6,7 @@ country:
   - "switzerland"
 ---
 
-Die SBB (Schweizerische Bundesbahnen) - (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der Schweiz. Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
+Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der Schweiz. Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
 
 ## Zusammenfassung
 
@@ -91,13 +91,13 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
 %}}
-Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
 %}}
-Für den `ECE` Frankfurt - Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
 ### Telefon

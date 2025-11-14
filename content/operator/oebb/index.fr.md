@@ -196,11 +196,11 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
-#### Brenner - Bolzano - Vérone
+#### Brenner – Bolzano – Vérone
 
 Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
-#### Railjet Tarvisio Boscoverde - Venise
+#### Railjet Tarvisio Boscoverde – Venise
 
 Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
@@ -208,7 +208,7 @@ Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Ve
 
 Les Coupons FIP ÖBB, **mais pas FS**, sont valables dans la section italienne jusqu’à Trieste. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 2,60 € en 2ᵉ classe et 4,60 € en 1ʳᵉ classe est à payer. Pour la section slovène, un Coupon FIP SŽ ou un Billet FIP 50 est requis.
 
-### Ligne REX63 (Pamhagen–Neusiedl am See)
+### Ligne REX63 (Pamhagen – Neusiedl am See)
 
 Sur la ligne REX63 entre Pamhagen et Neusiedl am See, les Billets FIP ÖBB et GySEV sont acceptés.
 
@@ -240,7 +240,7 @@ Les Billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de
 
 Les Billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de remplacement ferroviaire (SEV) et les itinéraires suivants :
 
-#### Graz - Klagenfurt
+#### Graz – Klagenfurt
 
 Jusqu’en décembre 2025, les Billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
 

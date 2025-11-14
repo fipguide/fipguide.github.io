@@ -77,8 +77,8 @@ With FIP 50 Tickets, prices may vary by train category.
 {{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Description:** \
 Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops.
-An exception is the `IC` Amsterdam - Berlin, which is a true cross-border `IC` with stops only at major hubs. \
-**Reservation possible:** only on the `IC` Amsterdam - Berlin \
+An exception is the `IC` Amsterdam – Berlin, which is a true cross-border `IC` with stops only at major hubs. \
+**Reservation possible:** only on the `IC` Amsterdam – Berlin \
 **Reservation required:** no (cross-border during high season: yes) \
 **Supplement**: ⚠️ \
 From October 18, 2025, the `IC` line Amsterdam – Berlin will gradually be converted to ICE 3neo trains. When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required when using FIP Coupons. \
@@ -89,7 +89,7 @@ The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supple
 **Description:** \
 Regional trains with more stops than Intercity, but still only at important stations.
 
-ℹ️ Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP. \
+ℹ️ Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}

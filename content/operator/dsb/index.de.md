@@ -24,7 +24,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg - Kopenhagen im Normalfall im Sommer reservierungspflichtig.
+Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Beschreibung:** \

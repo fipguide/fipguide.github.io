@@ -88,7 +88,7 @@ Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in
 **Beschreibung:** \
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
-ℹ️ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo - Hamm (Deutschland), Maastricht - Aachen (Deutschland) und Arnhem - Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar. \
+ℹ️ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar. \
 **Reservierung möglich:** nein \
 **Reservierungspflicht:** nein
 {{% /expander %}}

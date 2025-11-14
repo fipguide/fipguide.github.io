@@ -196,11 +196,11 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
-#### Brenner - Bolzano - Verona
+#### Brenner – Bolzano – Verona
 
 ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
-#### Railjet Tarvisio Boscoverde - Venice
+#### Railjet Tarvisio Boscoverde – Venice
 
 ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
@@ -208,7 +208,7 @@ On international long-distance services from Austria to Italy, ÖBB FIP Coupons 
 
 ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
-### REX63 (Pamhagen - Neusiedl am See)
+### REX63 (Pamhagen – Neusiedl am See)
 
 On the REX63 line between Pamhagen and Neusiedl am See, both ÖBB and GySEV FIP Tickets are accepted.
 
@@ -240,11 +240,11 @@ FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services 
 
 FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services (SEV) and the following routes:
 
-#### Graz - Klagenfurt
+#### Graz – Klagenfurt
 
 Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venice
+#### Klagenfurt/Villach – Udine/Venice
 
 Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 

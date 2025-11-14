@@ -192,11 +192,11 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
-#### Brenner - Bozen - Verona
+#### Brenner – Bozen – Verona
 
 FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
-#### Railjet Tarvisio Boscoverde - Venedig
+#### Railjet Tarvisio Boscoverde – Venedig
 
 FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
@@ -204,7 +204,7 @@ FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` 
 
 FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60 € für die 2. Klasse und 4,60 € für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
-### REX63 (Pamhagen - Neusiedl am See)
+### REX63 (Pamhagen – Neusiedl am See)
 
 Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.
 
@@ -236,11 +236,11 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverk
 
 FIP Fahrkarten sind im IC Bus (ICB) nicht gültig, außer bei Schienenersatzverkehren (SEV) und den folgenden Verbindungen:
 
-#### Graz - Klagenfurt
+#### Graz – Klagenfurt
 
 Bis Dezember 2025 gelten FIP Fahrscheine auch im IC Bus zwischen Graz und Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venedig
+#### Klagenfurt/Villach – Udine/Venedig
 
 Im IC Bus (ICB) gelten besondere FIP Globalpreise. Eine Sitzplatzreservierung ist verpflichtend und Ticketpreise enthalten.
 
