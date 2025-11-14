@@ -182,7 +182,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
-Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
+Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
 [Siehe ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -194,15 +194,15 @@ Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrt
 
 #### Brenner - Bozen - Verona
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Railjet Tarvisio Boscoverde - Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Eurocity Triest
 
-FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60€ für die 2. Klasse und 4,60€ für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
+FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60 € für die 2. Klasse und 4,60 € für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
 ### REX63 (Pamhagen - Neusiedl am See)
 

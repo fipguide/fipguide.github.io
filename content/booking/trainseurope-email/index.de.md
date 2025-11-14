@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Buchung per E-Mail bei Trainseurope
 params:
   fip_global_fare: true
   type: "email"
-  fee: 10£
+  fee: 10 £
 ---
 
 {{% booking-section "fip_global_fare" %}}

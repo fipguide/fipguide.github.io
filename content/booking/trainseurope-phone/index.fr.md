@@ -6,7 +6,7 @@ description: "Informations de réservation pour la réservation par téléphone 
 params:
   fip_global_fare: true
   type: "phone"
-  fee: 10£
+  fee: 10 £
 ---
 
 {{% booking-section "fip_global_fare" %}}

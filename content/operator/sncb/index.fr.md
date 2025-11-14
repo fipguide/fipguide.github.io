@@ -133,7 +133,7 @@ Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. L
 
 ### Aéroport de Bruxelles-Zaventem
 
-Un supplément de 6,70€ est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d'un Billet FIP 50. [^1] [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
+Un supplément de 6,70 € est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d'un Billet FIP 50. [^1] [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
 ## Recommandation
 

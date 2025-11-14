@@ -7,7 +7,7 @@ params:
   fip_global_fare: true
   fip_50: true
   type: "email"
-  fee: 10£
+  fee: 10 £
 
 aliases:
   - uk_mail

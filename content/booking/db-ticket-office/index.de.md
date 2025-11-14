@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die Deutsche Bahn Reisezentren."
 
 params:
   classes:
-    first: "6,90€"
-    second: "5,50€"
+    first: "6,90 €"
+    second: "5,50 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.bahnhof.de/service/reisezentrum"

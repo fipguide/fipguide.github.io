@@ -54,8 +54,8 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne. \
 | Trajet | Standard | Plus |
 |-----------------------------|----------|------|
 | Trajet dans un seul pays | Non disponible | Non disponible |
-| Trajet entre 2 pays | 18€ | 35€ |
-| Trajet entre 3 pays | 20€ | 40€ |
+| Trajet entre 2 pays | 18 € | 35 € |
+| Trajet entre 3 pays | 20 € | 40 € |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow : Amsterdam / Bruxelles – Alpes françaises ⛔⚠️" traincategory category %}}

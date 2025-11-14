@@ -6,7 +6,7 @@ description: "Booking information for booking by phone at Trainseurope Ltd."
 params:
   fip_global_fare: true
   type: "phone"
-  fee: £10
+  fee: £ 10
 ---
 
 {{% booking-section "fip_global_fare" %}}

@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Buchung per Telefon bei Trainseurop
 params:
   fip_global_fare: true
   type: "phone"
-  fee: 10£
+  fee: 10 £
 ---
 
 {{% booking-section "fip_global_fare" %}}

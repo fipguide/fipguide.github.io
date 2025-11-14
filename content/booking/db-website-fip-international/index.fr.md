@@ -5,8 +5,8 @@ description: "Informations de réservation pour les Billets FIP incluant une sec
 
 params:
   classes:
-    first: "6,90€"
-    second: "5,50€"
+    first: "6,90 €"
+    second: "5,50 €"
   fip_50: true
   reservations: true
   booking_link: "https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE"

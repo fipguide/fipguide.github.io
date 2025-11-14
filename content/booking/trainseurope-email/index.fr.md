@@ -6,7 +6,7 @@ description: "Informations de réservation pour la réservation par e-mail chez 
 params:
   fip_global_fare: true
   type: "email"
-  fee: 10£
+  fee: 10 £
 ---
 
 {{% booking-section "fip_global_fare" %}}
