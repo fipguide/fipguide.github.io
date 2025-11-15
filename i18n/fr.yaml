@@ -98,6 +98,18 @@ support:
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
 toc_name: Sommaire
+trainCategory:
+  acceptance:
+    accepted: FIP accepté
+    notAccepted: FIP non accepté
+    partiallyAccepted: FIP partiellement accepté
+  importantInformation: Informations importantes
+  reservation:
+    notPossible: Aucune réservation possible
+    partiallyRequired: Réservation partiellement requise
+    possible: Réservation possible
+    required: Réservation requise
+  riskOfConfusion: Risque de confusion
 updateDate:
   aria-label: Ouvrir l'historique des commits de la page
   label: Dernière mise à jour

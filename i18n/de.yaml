@@ -32,10 +32,10 @@ footer-love:
   text: Made with ♥️ in Europe
 general: Übergreifendes
 highlight:
+  confusion: Verwechslungsgefahr
   important: Wichtige Information
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
-  confusion: Verwechslungsgefahr
 home-page-text: FIP Guide Startseite
 information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
@@ -102,6 +102,18 @@ support:
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
 toc_name: Inhalt
+trainCategory:
+  acceptance:
+    accepted: FIP akzeptiert
+    notAccepted: FIP nicht akzeptiert
+    partiallyAccepted: FIP teilweise akzeptiert
+  importantInformation: Wichtige Informationen
+  reservation:
+    notPossible: Keine Reservierung möglich
+    partiallyRequired: Reservierung teilweise erforderlich
+    possible: Reservierung möglich
+    required: Reservierung erforderlich
+  riskOfConfusion: Verwechslungsgefahr
 updateDate:
   aria-label: Öffne die Commit-Verlauf der Seite
   label: Zuletzt aktualisiert

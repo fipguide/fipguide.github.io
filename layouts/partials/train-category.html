@@ -8,53 +8,53 @@
       {{- if eq .fip_accepted true -}}
         <span class="o-train-category__tag o-train-category__tag--success">
           {{ partial "icon" "check_circle" }}
-          FIP Accepted
+          {{ i18n "trainCategory.acceptance.accepted" }}
         </span>
       {{- else if eq .fip_accepted "partially" -}}
         <span class="o-train-category__tag o-train-category__tag--warning">
           {{ partial "icon" "info" }}
-          FIP Partially Accepted
+          {{ i18n "trainCategory.acceptance.partiallyAccepted" }}
         </span>
       {{- else -}}
         <span class="o-train-category__tag o-train-category__tag--error">
           {{ partial "icon" "dangerous" }}
-          FIP Not Accepted
+          {{ i18n "trainCategory.acceptance.notAccepted" }}
         </span>
       {{- end -}}
 
       {{- if eq .reservation_required true -}}
         <span class="o-train-category__tag o-train-category__tag--error">
           {{ partial "icon" "calendar_add_on" }}
-          Reservation Required
+          {{ i18n "trainCategory.reservation.required" }}
         </span>
       {{- else if eq .reservation_required true -}}
         <span class="o-train-category__tag o-train-category__tag--warning">
           {{ partial "icon" "calendar_add_on" }}
-          Reservation Partially Required
+          {{ i18n "trainCategory.reservation.partiallyRequired" }}
         </span>
       {{- else if eq .reservation_possible true -}}
         <span class="o-train-category__tag o-train-category__tag--info">
           {{ partial "icon" "calendar_check" }}
-          Reservation Possible
+          {{ i18n "trainCategory.reservation.possible" }}
         </span>
       {{- else -}}
         <span class="o-train-category__tag o-train-category__tag--info">
           {{ partial "icon" "calendar_lock" }}
-          No Reservation Possible
+          {{ i18n "trainCategory.reservation.notPossible" }}
         </span>
       {{- end -}}
 
       {{- if .risk_of_confusion -}}
         <span class="o-train-category__tag o-train-category__tag--warning">
           {{ partial "icon" "question_exchange" }}
-          Risk of confusion
+          {{ i18n "trainCategory.riskOfConfusion" }}
         </span>
       {{- end -}}
 
       {{- if .important_info -}}
         <span class="o-train-category__tag o-train-category__tag--warning">
           {{ partial "icon" "campaign" }}
-          Important information
+          {{ i18n "trainCategory.importantInformation" }}
         </span>
       {{- end -}}
     </div>
