@@ -30,7 +30,7 @@ FIP 50 Tickets can be purchased for the following countries:
 - Poland
 - Austria
 - Italy \
-  <small>only Brenner route with Austria and ECE Frankfurt - Milan</small>
+  <small>only Brenner route with Austria and ECE Frankfurt – Milan</small>
 - Czech Republic
 - Switzerland
 - Luxembourg

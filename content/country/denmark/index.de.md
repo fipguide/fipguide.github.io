@@ -26,8 +26,8 @@ Dänemark besitzt ein vergleichsweise dichtes Bahnnetz, über das sowohl das Fes
 
 Die Hauptstrecken in Dänemark sind:
 
-- **Die Nord-Süd-Verbindung**: Aalborg-Aarhus-Kolding-(Hamburg)
-- **Die Ost-West-Verbindung**: (Malmö)-Kopenhagen-Odense-Fredericia-Esbjerg.
+- **Die Nord-Süd-Verbindung**: Aalborg – Aarhus – Kolding – (Hamburg)
+- **Die Ost-West-Verbindung**: (Malmö) – Kopenhagen – Odense – Fredericia – Esbjerg
 
 Auf diesen verkehren Fernverkehrszüge mit einer überdurchschnittlichen Durchschnittsgeschwindigkeit, wirkliche Hochgeschwindigkeit gibt es jedoch nur auf einem kleinen Abschnitt zwischen Odense und Kopenhagen, die jedoch dort nur von wenigen Zügen überhaupt ausgenutzt werden kann.
 

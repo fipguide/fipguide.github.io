@@ -244,7 +244,7 @@ Les Billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de
 
 Jusqu’en décembre 2025, les Billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venise
+#### Klagenfurt/Villach – Udine/Venise
 
 Des Tarifs Globaux FIP spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
 

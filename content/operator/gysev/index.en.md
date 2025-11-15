@@ -26,9 +26,9 @@ FIP is valid on all GySEV routes in Hungary. However, the GySEV FIP Coupon is pr
 
 The following lines can be used with the GySEV FIP Coupon in Austria in the specified sections:
 
-- REX 63: Neusiedl am See - Fertőszentmiklós [^2]
-- REX 6: Wien Hbf - Deutschkreuz - Sopron
-- REX 65: Eisenstadt - Wulkapordersdorf (connection with REX6 and through service to Wien Hbf)
+- REX 63: Neusiedl am See – Fertőszentmiklós [^2]
+- REX 6: Wien Hbf – Deutschkreuz – Sopron
+- REX 65: Eisenstadt – Wulkapordersdorf (connection with REX6 and through service to Wien Hbf)
 
 [Overview of all GySEV routes](https://www2.GySEV.hu/de/vasutvonalak) (incl. Hungary).
 

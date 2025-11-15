@@ -30,7 +30,7 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Polen
 - Österreich
 - Italien \
-  <small>Nur Brennerverkehr mit Österreich und ECE Frankfurt - Mailand</small>
+  <small>Nur Brennerverkehr mit Österreich und ECE Frankfurt – Mailand</small>
 - Tschechien
 - Schweiz
 - Luxemburg
