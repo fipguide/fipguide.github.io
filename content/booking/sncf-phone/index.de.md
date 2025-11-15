@@ -31,8 +31,8 @@ Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buch
 Um Wartezeiten zu vermeiden, kann auf der [Website der SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous) ein Rückruftermin vereinbart werden. Dabei kann der Name und die E-Mail Adresse bereits vorab angegeben werden und muss nicht mehr am Telefon diktiert werden. Außerdem kann im Freitextfeld die gewünschte Verbindung angegeben werden und der FIP Ermäßigung angegeben werden.
 
 Die SNCF kennt diese teilweise auch unter den Namen: \
-_FIP cheminot étranger_ = 50 % FIP Ermäßigung \
-_FIP permis (ayant droit SNCF)_ = 100 % / FIP Freifahrtschein SNCF
+_FIP cheminot étranger_ = 50% FIP Ermäßigung \
+_FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
 {{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
