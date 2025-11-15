@@ -116,7 +116,7 @@ En l’absence de guichet ouvert, un billet ou une réservation (Ex) peut être 
 
 ## Réductions
 
-Les enfants jusqu’à 6 ans voyagent gratuitement sur les trains ZSSK lorsqu’ils sont accompagnés d’une personne âgée d’au moins 16 ans. En 1ʳᵉ classe, cette gratuité est limitée à 2 enfants ; à partir du 3ᵉ enfant, 50 % du prix du billet est dû. Dans les trains `EC`, un supplément de 1 € par enfant est appliqué en 1ʳᵉ classe à partir du 3ᵉ enfant. Dans les trains `SC`, un supplément de 1 € par enfant est toujours appliqué en 2ᵉ classe et de 3 € en 1ʳᵉ classe. Dans les trains `IC`, une réservation incluant un supplément pour la catégorie de train doit être achetée pour chaque enfant.[^1]
+Les enfants jusqu’à 6 ans voyagent gratuitement sur les trains ZSSK lorsqu’ils sont accompagnés d’une personne âgée d’au moins 16 ans. En 1ʳᵉ classe, cette gratuité est limitée à 2 enfants ; à partir du 3ᵉ enfant, 50 % du prix du billet est dû. Dans les trains `EC`, un supplément de 1 € par enfant est appliqué en 1ʳᵉ classe à partir du 3ᵉ enfant. Dans les trains `SC`, un supplément de 1 € par enfant est toujours appliqué en 2ᵉ classe et de 3 € en 1ʳᵉ classe. Dans les trains `IC`, une réservation incluant un supplément pour la catégorie de train doit être achetée pour chaque enfant.[^1]
 
 ### Gratuité 6–16 ans (sans FIP)
 

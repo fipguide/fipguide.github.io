@@ -116,14 +116,14 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1€ in der 2. und 3€ in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
+Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1 € in der 2. Klasse und 3 € in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
 
 ### Kostenfreie Fahrten für 6–16-Jährige (ohne FIP)
 
-Um eine kostenfreie Fahrt für Kinder zwischen 6 und 16 Jahren zu erhalten, muss am Schalter ein Foto (2x3cm) sowie ein Identitätsnachweis (oder Geburtsurkunde plus Ausweis eines Elternteils) vorgelegt werden. Die Bearbeitung dauert bis zu drei Werktage, danach wird eine Bescheinigung ausgestellt, die im Zug vorgezeigt werden muss. Das kostenfreie Ticket (0 ) kann anschließend auf der ZSSK-Website gebucht werden, indem „Begünstigter des 100%-Rabattes“ ausgewählt wird.
+Um eine kostenfreie Fahrt für Kinder zwischen 6 und 16 Jahren zu erhalten, muss am Schalter ein Foto (2x3cm) sowie ein Identitätsnachweis (oder Geburtsurkunde plus Ausweis eines Elternteils) vorgelegt werden. Die Bearbeitung dauert bis zu drei Werktage, danach wird eine Bescheinigung ausgestellt, die im Zug vorgezeigt werden muss. Das kostenfreie Ticket (0 €) kann anschließend auf der ZSSK-Website gebucht werden, indem „Begünstigter des 100%-Rabattes“ ausgewählt wird.
 
-In `EC` Zügen: Zuschlag von 1 € pro Kind \
-In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
+In `EC` Zügen: Zuschlag von 1 € pro Kind \
+In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
 In `IC` Zügen: Zuschlag mit obligatorischer Reservierung
 
 ### Kostenfreie Fahrten für Studenten und Senioren (ohne FIP)
