@@ -52,7 +52,7 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
 
 {{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Description :** \
-La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Vienne–Gmunden–Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
+La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
 
 ℹ️ Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables. \
 **Réservation possible :** oui \
@@ -61,7 +61,7 @@ La plupart des trains `IC` sur les axes principaux ont été progressivement rem
 
 {{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Description :** \
-À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz–Unzmarkt ou Graz–Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures. \
+À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz – Unzmarkt ou Graz – Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -124,9 +124,9 @@ Train régional au moins toutes les heures, arrêt à toutes les gares. Comparab
 Exemples :
 
 - S-Bahn Haute-Autriche : S5 Linz – Eferding (Linzer Lokalbahn)
-- S-Bahn Salzbourg : S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
-- S-Bahn Styrie : S11 Graz–Übelbach (Steiermarkbahn)
-- S6, S61 Graz–Wies-Eibiswald, S7 Graz–Köflach (Graz-Köflacher Eisenbahn)
+- S-Bahn Salzbourg : S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
+- S-Bahn Styrie : S11 Graz – Übelbach (Steiermarkbahn)
+- S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
 
 **Réservation possible :** non
 {{% /expander %}}

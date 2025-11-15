@@ -21,6 +21,6 @@ Des billets au Tarif Global FIP peuvent être achetés via Trainseurope Ltd. Pou
 - Classe de voyage (selon le droit du badge FIP)
 - Photo du badge FIP de chaque voyageur
 
-**Des frais de réservation de 10£ sont appliqués par commande.**
+**Des frais de réservation de 10 £ sont appliqués par commande.**
 
 {{% /booking-section %}}

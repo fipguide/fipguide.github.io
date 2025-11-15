@@ -14,10 +14,10 @@ La ZSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Že
 
 ## Résumé
 
-- La ZSSK accepte les Coupons FIP et les Billets FIP 50
-- Réservation obligatoire dans les trains `IC` et `SC`
-- Réservation obligatoire en 1ʳᵉ classe dans tous les trains
-- Voyages gratuits possibles pour certains groupes (enfants de 6 à 16 ans, étudiants jusqu’à 26 ans, retraités dès 62 ans), indépendamment du FIP
+- La ZSSK accepte les Coupons FIP et les Billets FIP 50.
+- Réservation obligatoire dans les trains `IC` et `SC`.
+- Réservation obligatoire en 1ʳᵉ classe dans tous les trains.
+- Voyages gratuits possibles pour certains groupes (enfants de 6 à 16 ans, étudiants jusqu’à 26 ans, retraités dès 62 ans), indépendamment du FIP.
 
 ## Validité des Billets FIP
 

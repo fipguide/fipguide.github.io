@@ -10,9 +10,9 @@ The Raab-Oedenburg-Ebenfurter Eisenbahn AG (Hungarian: Győr-Sopron-Ebenfurti Va
 
 ## Summary
 
-- FIP 50 and FIP Coupons are accepted without exception in Hungary
-- FIP 50 and FIP Coupons are valid in Austria only with restrictions
-- No reservation requirement
+- FIP 50 and FIP Coupons are accepted without exception in Hungary.
+- FIP 50 and FIP Coupons are valid in Austria only with restrictions.
+- No reservation requirement.
 
 ## Validity of FIP Tickets
 

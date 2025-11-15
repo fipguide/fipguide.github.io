@@ -10,9 +10,9 @@ Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vas
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden in Ungarn ausnahmslos akzeptiert
-- FIP 50 und FIP Freifahrtscheine gelten in Österreich nur eingeschränkt
-- Es besteht keine Reservierungspflicht
+- FIP 50 und FIP Freifahrtscheine werden in Ungarn ausnahmslos akzeptiert.
+- FIP 50 und FIP Freifahrtscheine gelten in Österreich nur eingeschränkt.
+- Es besteht keine Reservierungspflicht.
 
 ## Gültigkeit FIP Tickets
 

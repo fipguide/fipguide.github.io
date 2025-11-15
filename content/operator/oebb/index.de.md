@@ -15,11 +15,11 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 
 ## Zusammenfassung
 
-- ÖBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz
-- Kein FIP im Wiener Flughafenexpress `CAT`
-- Besondere Regeln in Zügen nach Italien, Nightjets, Autozügen und IC Bussen
-- FIP Freifahrt der ÖBB gilt auch in Liechtenstein
+- ÖBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz.
+- Kein FIP im Wiener Flughafenexpress `CAT`.
+- Besondere Regeln gelten in Zügen nach Italien, Nightjets, Autozügen und IC Bussen.
+- FIP Freifahrt der ÖBB gilt auch in Liechtenstein.
 
 ## Gültigkeit FIP Tickets
 
@@ -58,7 +58,7 @@ Für Railjets nach italien ist ab der italienischen Grenze ein Zuschlag zu zahle
 
 {{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Wien–Gmunden–Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
+Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Wien – Gmunden – Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
 
 ℹ️ Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig. \
 **Reservierung möglich:** ja \
@@ -67,7 +67,7 @@ Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets
 
 {{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Beschreibung:** \
-Ab August 2025 wird der InterRegio `IR` als neue Fernverkehrszuggattung auf Nebenstrecken eingeführt und ersetzt größtenteils die bisherigen `IC`-Verbindungen. Beispiele hierfür sind Verbindungen wie Graz–Unzmarkt oder Graz–Linz. Ziel ist es, Orte mit dem Fernverkehr zu erschließen, die bislang nur wenige oder keine Direktverbindungen hatten. Die Züge verkehren im Zwei- oder Vierstundentakt. \
+Ab August 2025 wird der InterRegio `IR` als neue Fernverkehrszuggattung auf Nebenstrecken eingeführt und ersetzt größtenteils die bisherigen `IC`-Verbindungen. Beispiele hierfür sind Verbindungen wie Graz – Unzmarkt oder Graz – Linz. Ziel ist es, Orte mit dem Fernverkehr zu erschließen, die bislang nur wenige oder keine Direktverbindungen hatten. Die Züge verkehren im Zwei- oder Vierstundentakt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -130,9 +130,9 @@ Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichb
 Dazu gehören unter anderem:
 
 - S-Bahn Oberösterreich: S5 Linz – Eferding (Linzer Lokalbahn)
-- S-Bahn Salzburg: S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
-- S-Bahn Steiermark: S11 Graz–Übelbach (Steiermarkbahn)
-- S6, S61 Graz–Wies-Eibiswald, S7 Graz–Köflach (Graz-Köflacher Eisenbahn)
+- S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
+- S-Bahn Steiermark: S11 Graz – Übelbach (Steiermarkbahn)
+- S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
 
 **Reservierung möglich:** nein
 {{% /expander %}}

@@ -16,11 +16,11 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 
 ## Zusammenfassung
 
-- Im Fernverkehr (`TGV` inOui und Intercités) ist immer eine Reservierung erforderlich
-- In OuiGo Zügen gelten keine FIP Vergünstigungen
-- In Paris können einige S-Bahnen und Straßenbahnlinien zu besonderen Konditionen genutzt werden
-- Für grenzüberschreitende Fernzugverbindungen gelten Globalpreise
-- FIP Vergünstigungen gelten auch in SNCF Bussen (außer Fernbusse)
+- Im Fernverkehr (`TGV` inOui und Intercités) ist immer eine Reservierung erforderlich.
+- In OuiGo Zügen gelten keine FIP Vergünstigungen.
+- In Paris können einige S-Bahnen und Straßenbahnlinien zu besonderen Konditionen genutzt werden.
+- Für grenzüberschreitende Fernzugverbindungen gelten Globalpreise.
+- FIP Vergünstigungen gelten auch in SNCF Bussen (außer Fernbusse).
 
 ## Gültigkeit FIP Tickets
 

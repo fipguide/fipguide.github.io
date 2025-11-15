@@ -10,8 +10,8 @@ Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) son
 
 ## Résumé
 
-- Les CFF acceptent les Coupons FIP et les Billets FIP 50
-- Réservation obligatoire et supplément pour les trains Eurocity (Italie) et `TGV` (France) au départ de la frontière
+- Les CFF acceptent les Coupons FIP et les Billets FIP 50.
+- Réservation obligatoire et supplément pour les trains Eurocity (Italie) et `TGV` (France) au départ de la frontière.
 
 ## Validité des Billets FIP
 

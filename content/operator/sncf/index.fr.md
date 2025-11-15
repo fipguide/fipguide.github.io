@@ -16,11 +16,11 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Résumé
 
-- Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités)
-- Les réductions FIP ne sont pas valables dans les trains OuiGo
-- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières
-- Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux
-- Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance)
+- Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités).
+- Les réductions FIP ne sont pas valables dans les trains OuiGo.
+- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières.
+- Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux.
+- Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance).
 
 ## Validité des Billets FIP
 

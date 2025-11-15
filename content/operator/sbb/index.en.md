@@ -10,8 +10,8 @@ SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovi
 
 ## Summary
 
-- SBB accepts FIP Coupons and FIP 50 Tickets
-- Reservation requirement and surcharges for international Eurocity trains from the Italian border and `TGV` trains from the French border
+- SBB accepts FIP Coupons and FIP 50 Tickets.
+- Reservation requirement and surcharges for international Eurocity trains from the Italian border and `TGV` trains from the French border.
 
 ## Validity of FIP Tickets
 

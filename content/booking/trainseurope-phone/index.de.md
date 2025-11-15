@@ -21,6 +21,6 @@ params:
 - Reiseklasse (analog Berechtigung des FIP-Ausweises)
 - Foto des FIP Ausweises aller reisender Personen per E-Mail an [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk)
 
-**Pro Buchung wird eine Buchungsgebühr von 10£ erhoben.**
+**Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.**
 
 {{% /booking-section %}}

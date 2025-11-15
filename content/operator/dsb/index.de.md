@@ -28,7 +28,7 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Beschreibung:** \
-IntercityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteiander. \
+IntercityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteinander. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}

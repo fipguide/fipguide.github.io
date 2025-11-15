@@ -14,10 +14,10 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 
 ## Summary
 
-- ZSSK accepts FIP Coupons and FIP 50 Tickets
-- Reservation required in `IC` and `SC` trains
-- Reservation required in 1st class in all trains
-- Offers for free travel for certain groups (children between 6 and 16, students up to 26, and pensioners from 62 years) regardless of FIP
+- ZSSK accepts FIP Coupons and FIP 50 Tickets.
+- Reservation required in `IC` and `SC` trains.
+- Reservation required in 1st class in all trains.
+- Offers for free travel for certain groups (children between 6 and 16, students up to 26, and pensioners from 62 years) regardless of FIP.
 
 ## Validity of FIP Tickets
 

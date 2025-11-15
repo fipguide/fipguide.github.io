@@ -15,11 +15,11 @@ aliases:
 
 ## Summary
 
-- ÖBB accepts FIP Coupons and FIP 50 Tickets
-- Pay attention to trains of other operators without FIP acceptance
-- No FIP on Vienna Airport Express `CAT`
-- Special rules for trains to Italy, Nightjets, Motorail trains, and IC Buses
-- ÖBB FIP Coupon is also valid in Liechtenstein
+- ÖBB accepts FIP Coupons and FIP 50 Tickets.
+- Pay attention to trains of other operators without FIP acceptance.
+- No FIP on Vienna Airport Express `CAT`.
+- Special rules for trains to Italy, Nightjets, Motorail trains, and IC Buses.
+- ÖBB FIP Coupon is also valid in Liechtenstein.
 
 ## Validity of FIP Tickets
 
@@ -52,7 +52,7 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
 
 {{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Description:** \
-Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Vienna–Gmunden–Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
+Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienna – Gmunden – Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
 
 ℹ️ Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains. \
 **Reservation possible:** yes \
@@ -61,7 +61,7 @@ Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` t
 
 {{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Description:** \
-From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz–Unzmarkt or Graz–Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours. \
+From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz – Unzmarkt or Graz – Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
@@ -123,10 +123,10 @@ Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
 
 Including:
 
-- S-Bahn Upper Austria: S5 Linz–Eferding (Linzer Lokalbahn)
-- S-Bahn Salzburg: S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
-- S-Bahn Styria: S11 Graz–Übelbach (Steiermarkbahn)
-- S6, S61 Graz–Wies-Eibiswald, S7 Graz–Köflach (Graz-Köflacher Eisenbahn)
+- S-Bahn Upper Austria: S5 Linz – Eferding (Linzer Lokalbahn)
+- S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
+- S-Bahn Styria: S11 Graz – Übelbach (Steiermarkbahn)
+- S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
 
 **Reservation possible:** no
 {{% /expander %}}

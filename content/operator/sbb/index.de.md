@@ -10,8 +10,8 @@ Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF
 
 ## Zusammenfassung
 
-- Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und `TGV` Züge ab der französischen Grenze
+- Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und `TGV` Züge ab der französischen Grenze.
 
 ## Gültigkeit FIP-Tickets
 

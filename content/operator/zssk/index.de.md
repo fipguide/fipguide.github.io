@@ -14,10 +14,10 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Zusammenfassung
 
-- ZSSK akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht in `IC` und `SC` Zügen
-- Reservierungspflicht in der 1. Klasse in allen Zügen
-- Angebote für kostenfreie Fahrten für bestimmte Gruppen (Kinder zwischen 6 und 16, Studenten bis 26 und Rentner ab 62 Jahren) unabhängig von FIP
+- ZSSK akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Reservierungspflicht in `IC` und `SC` Zügen.
+- Reservierungspflicht in der 1. Klasse in allen Zügen.
+- Angebote für kostenfreie Fahrten für bestimmte Gruppen (Kinder zwischen 6 und 16, Studenten bis 26 und Rentner ab 62 Jahren) unabhängig von FIP.
 
 ## Gültigkeit FIP Tickets
 
