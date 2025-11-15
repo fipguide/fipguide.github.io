@@ -26,7 +26,7 @@ Le tarif de réservation est facturé par train. Pour les trajets comportant plu
 Cependant, les réservations effectuées via le site d'ÖBB peuvent être annulées :
 
 - De 180 à 15 jours avant le départ : remboursement de 100 % du prix de la réservation
-- De 14 à 1 jour avant le départ : remboursement de 50
+- De 14 à 1 jour avant le départ : remboursement de 50 %
 
 Sur le site d'ÖBB, pour réserver une place, sélectionnez l’option : \
 « Nur Sitzplatzreservierung – Ich habe schon ein Ticket » \
