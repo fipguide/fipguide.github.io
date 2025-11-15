@@ -1,78 +1,67 @@
 <summary class="o-expander__summary o-expander__summary--train-category">
   <div class="o-train-category__header">
-    <div class="o-train-category__header-content">
-      <div class="o-train-category__title-wrapper">
-        <div class="o-train-category__title">
-          {{- partial "icon" "train" -}}
-          <span class="o-train-category__title-text">{{- .title -}}</span>
-        </div>
-      </div>
-      <div class="o-train-category__tags">
-        {{- if eq .fip_accepted true -}}
-          <span class="o-train-category__tag o-train-category__tag--success">
-            {{ partial "icon" "check_circle" }}
-            FIP Accepted
-          </span>
-        {{- else if eq .fip_accepted "partially" -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "info" }}
-            FIP Partially Accepted
-          </span>
-        {{- else -}}
-          <span class="o-train-category__tag o-train-category__tag--error">
-            {{ partial "icon" "dangerous" }}
-            FIP Not Accepted
-          </span>
-        {{- end -}}
+    <div class="o-train-category__title">
+      {{- partial "icon" "train" -}}
+      <span class="o-train-category__title-text">{{- .title -}}</span>
+    </div>
+    <div class="o-train-category__tags">
+      {{- if eq .fip_accepted true -}}
+        <span class="o-train-category__tag o-train-category__tag--success">
+          {{ partial "icon" "check_circle" }}
+          FIP Accepted
+        </span>
+      {{- else if eq .fip_accepted "partially" -}}
+        <span class="o-train-category__tag o-train-category__tag--warning">
+          {{ partial "icon" "info" }}
+          FIP Partially Accepted
+        </span>
+      {{- else -}}
+        <span class="o-train-category__tag o-train-category__tag--error">
+          {{ partial "icon" "dangerous" }}
+          FIP Not Accepted
+        </span>
+      {{- end -}}
 
-        {{- if eq .reservation_required true -}}
-          <span class="o-train-category__tag o-train-category__tag--error">
-            {{ partial "icon" "calendar_add_on" }}
-            Reservation Required
-          </span>
-        {{- else if eq .reservation_required true -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "calendar_add_on" }}
-            Reservation Partially Required
-          </span>
-        {{- else if eq .reservation_possible true -}}
-          <span class="o-train-category__tag o-train-category__tag--info">
-            {{ partial "icon" "calendar_check" }}
-            Reservation Possible
-          </span>
-        {{- else -}}
-          <span class="o-train-category__tag o-train-category__tag--info">
-            {{ partial "icon" "calendar_lock" }}
-            No Reservation Possible
-          </span>
-        {{- end -}}
+      {{- if eq .reservation_required true -}}
+        <span class="o-train-category__tag o-train-category__tag--error">
+          {{ partial "icon" "calendar_add_on" }}
+          Reservation Required
+        </span>
+      {{- else if eq .reservation_required true -}}
+        <span class="o-train-category__tag o-train-category__tag--warning">
+          {{ partial "icon" "calendar_add_on" }}
+          Reservation Partially Required
+        </span>
+      {{- else if eq .reservation_possible true -}}
+        <span class="o-train-category__tag o-train-category__tag--info">
+          {{ partial "icon" "calendar_check" }}
+          Reservation Possible
+        </span>
+      {{- else -}}
+        <span class="o-train-category__tag o-train-category__tag--info">
+          {{ partial "icon" "calendar_lock" }}
+          No Reservation Possible
+        </span>
+      {{- end -}}
 
-        {{- if .risk_of_confusion -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "question_exchange" }}
-            Risk of confusion
-          </span>
-        {{- end -}}
+      {{- if .risk_of_confusion -}}
+        <span class="o-train-category__tag o-train-category__tag--warning">
+          {{ partial "icon" "question_exchange" }}
+          Risk of confusion
+        </span>
+      {{- end -}}
 
-        {{- if .important_info -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "campaign" }}
-            Important information
-          </span>
-        {{- end -}}
-      </div>
+      {{- if .important_info -}}
+        <span class="o-train-category__tag o-train-category__tag--warning">
+          {{ partial "icon" "campaign" }}
+          Important information
+        </span>
+      {{- end -}}
     </div>
   </div>
   {{- partial "icon" "keyboard_arrow_down" -}}
 </summary>
 <hr aria-hidden="true" />
 <div class="o-expander__content">
-  {{- if .content -}}
-    <div class="o-train-category__content">
-      {{- .content -}}
-    </div>
-  {{- end -}}
-  {{- if not (eq .fip_accepted true) -}}
-    <span>FIP is not accepted for this train category!</span>
-  {{- end -}}
+  {{- .content -}}
 </div>
