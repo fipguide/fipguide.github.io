@@ -9,38 +9,55 @@
       </div>
       <div class="o-train-category__tags">
         {{- if eq .fip_accepted true -}}
-          <span class="o-train-category__tag o-train-category__tag--accepted">
+          <span class="o-train-category__tag o-train-category__tag--success">
             {{ partial "icon" "check_circle" }}
             FIP Accepted
           </span>
+        {{- else if eq .fip_accepted "partially" -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "info" }}
+            FIP Partially Accepted
+          </span>
         {{- else -}}
-          <span class="o-train-category__tag o-train-category__tag--rejected">
+          <span class="o-train-category__tag o-train-category__tag--error">
             {{ partial "icon" "dangerous" }}
             FIP Not Accepted
           </span>
         {{- end -}}
 
         {{- if eq .reservation_required true -}}
-          <span class="o-train-category__tag o-train-category__tag--required">
-            {{ partial "icon" "calendar_month" }}
+          <span class="o-train-category__tag o-train-category__tag--error">
+            {{ partial "icon" "calendar_add_on" }}
             Reservation Required
           </span>
+        {{- else if eq .reservation_required true -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "calendar_add_on" }}
+            Reservation Partially Required
+          </span>
         {{- else if eq .reservation_possible true -}}
-          <span class="o-train-category__tag o-train-category__tag--possible">
-            {{ partial "icon" "free_cancellation" }}
+          <span class="o-train-category__tag o-train-category__tag--info">
+            {{ partial "icon" "calendar_check" }}
             Reservation Possible
           </span>
         {{- else -}}
-          <span class="o-train-category__tag o-train-category__tag--none">
-            {{ partial "icon" "close" }}
+          <span class="o-train-category__tag o-train-category__tag--info">
+            {{ partial "icon" "calendar_lock" }}
             No Reservation Possible
           </span>
         {{- end -}}
 
-        {{- if .info_available -}}
-          <span class="o-train-category__tag o-train-category__tag--info">
-            {{ partial "icon" "info" }}
-            Information Available
+        {{- if .risk_of_confusion -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "question_exchange" }}
+            Risk of confusion
+          </span>
+        {{- end -}}
+
+        {{- if .important_info -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "campaign" }}
+            Important information
           </span>
         {{- end -}}
       </div>

@@ -41,11 +41,13 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
   title="Train à grande vitesse inOui (TGV inOui)"
   fip_accepted=true
   reservation_required=true
-  info_available=true
+  risk_of_confusion=true
+  important_info=true
+  type="highspeed"
 %}}
 The `TGV` inOui is SNCF's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). [Route overview](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
 
-{{% highlight inofficial %}}
+{{% highlight confusion %}}
 SNCF also operates low-cost `TGV` trains under the name OuiGo, which are not valid with FIP.
 {{% /highlight %}}
 
@@ -53,8 +55,15 @@ SNCF also operates low-cost `TGV` trains under the name OuiGo, which are not val
 Special conditions apply for international connections, see International TGV inOui / ICE trains section below.
 {{% /highlight %}}
 
-**Reservation cost:** \
-Prices differ between peak and off-peak trains. Off-peak: €1.70 (1st/2nd class); peak: €15 (1st class), €10 (2nd class). The classification is not publicly available.
+### Reservation
+
+Prices differ between peak and off-peak trains. The classification is not publicly available.
+
+|          | 1st class | 2nd class |
+| -------- | --------- | --------- |
+| Off-peak | €1.70     | €1.70     |
+| Peak     | €15       | €10       |
+
 {{% /train-category %}}
 
 {{% train-category
