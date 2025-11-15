@@ -271,7 +271,7 @@ Gebieten, in denen Fahrkarten allgemein nur in Zügen ausgestellt werden (_Pay-T
 
 ## Ermäßigungen
 
-Aktive und pensionierte Mitarbeiter der SNCB/NMBS (Belgien), SNCF (Frankreich), Irish Rail (CIE) und Northern Ireland Railways (NIR) sowie deren Ehepartner und unterhaltsberechtigte Kinder erhalten unter Vorlage des FIP Ausweises eine Ermäßigung von 75% auf den Ticketpreis (statt der sonst üblichen 50% bei FIP 50 Tickets). [^1]
+Aktive und pensionierte Mitarbeitende der SNCB/NMBS (Belgien), SNCF (Frankreich), Irish Rail (CIE) und Northern Ireland Railways (NIR) sowie deren Ehepartner und unterhaltsberechtigte Kinder erhalten unter Vorlage des FIP Ausweises eine Ermäßigung von 75% auf den Ticketpreis (statt der sonst üblichen 50% bei FIP 50 Tickets). [^1]
 
 ## Tarifliche Besonderheiten
 
