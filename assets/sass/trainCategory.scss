@@ -41,28 +41,12 @@
   font-weight: 500;
   white-space: nowrap;
 
-  &--success {
-    background: var(--tag-success-bg);
-    color: var(--tag-success-color);
-    border: 0.1rem solid var(--tag-success-border);
-  }
-
-  &--warning {
-    background: var(--tag-warning-bg);
-    color: var(--tag-warning-color);
-    border: 0.1rem solid var(--tag-warning-border);
-  }
-
-  &--error {
-    background: var(--tag-error-bg);
-    color: var(--tag-error-color);
-    border: 0.1rem solid var(--tag-error-border);
-  }
-
-  &--info {
-    background: var(--tag-info-bg);
-    color: var(--tag-info-color);
-    border: 0.1rem solid var(--tag-info-border);
+  @each $name, $color in $tag-colors {
+    &--#{$name} {
+      background: var(--tag-#{$name}-bg);
+      color: var(--tag-#{$name}-color);
+      border: 0.1rem solid var(--tag-#{$name}-border);
+    }
   }
 }
 

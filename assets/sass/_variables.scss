@@ -14,6 +14,20 @@ $bg-code: #fff284;
 $color-onLight: #000000;
 $color-table-border: #5b5b5b;
 
+$tag-colors: (
+  success: #155724,
+  warning: #b64900,
+  error: #b70000,
+  info: #004085,
+);
+
+$tag-colors-dark: (
+  success: #a8d5ba,
+  warning: #f0d98d,
+  error: #f5a9ae,
+  info: #a8d5f5,
+);
+
 html {
   --pagefind-ui-scale: 1 !important;
   --pagefind-ui-text: #000;
@@ -27,18 +41,13 @@ html {
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
-  --tag-success-bg: #d4edda;
-  --tag-success-color: #155724;
-  --tag-success-border: #c3e6cb;
-  --tag-warning-bg: #fff3cd;
-  --tag-warning-color: #856404;
-  --tag-warning-border: #ffeaa7;
-  --tag-error-bg: #f8d7da;
-  --tag-error-color: #721c24;
-  --tag-error-border: #f5c6cb;
-  --tag-info-bg: #cce7ff;
-  --tag-info-color: #004085;
-  --tag-info-border: #b3d9ff;
+
+  @each $name, $color in $tag-colors {
+    --tag-#{$name}-bg: #{mix(white, $color, 90%)};
+    --tag-#{$name}-color: #{$color};
+    --tag-#{$name}-border: #{mix(white, $color, 50%)};
+  }
+
   --border-radius-s: 0.4rem;
   --border-radius-m: 0.8rem;
   --border-radius-l: 1.6rem;
@@ -73,18 +82,13 @@ html[data-theme="dark"] {
     --color-onLight: #ffffff;
     --color-table-border: #555;
     --color-body: #e0e0e0;
-    --tag-success-bg: #1a4d2e;
-    --tag-success-color: #a8d5ba;
-    --tag-success-border: #2d6a4f;
-    --tag-warning-bg: #4a3a1a;
-    --tag-warning-color: #f0d98d;
-    --tag-warning-border: #6b5520;
-    --tag-error-bg: #4a1a1a;
-    --tag-error-color: #f5a9ae;
-    --tag-error-border: #6b2d2d;
-    --tag-info-bg: #1a3a5c;
-    --tag-info-color: #a8d5f5;
-    --tag-info-border: #2d5a8b;
+
+    @each $name, $color in $tag-colors-dark {
+      --tag-#{$name}-bg: #{mix(black, $color, 65%)};
+      --tag-#{$name}-color: #{$color};
+      --tag-#{$name}-border: #{mix(black, $color, 50%)};
+    }
+
     --pagefind-ui-border: #555;
     --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
     --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);
