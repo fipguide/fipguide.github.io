@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Eurostar"
-description: "Informationen über die FIP-Bedingungen bei Eurostar."
+description: "Informationen über die FIP-Bedingungen bei Eurostar: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "belgium"
   - "netherlands"

@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "GySEV / Raaberbahn"
+description: "Informationen über die FIP-Bedingungen bei GySEV / Raaberbahn: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "austria"
 operator: "gysev"
