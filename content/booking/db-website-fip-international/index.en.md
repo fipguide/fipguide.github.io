@@ -5,8 +5,8 @@ description: "Booking information for FIP Tickets with a section in Germany."
 
 params:
   classes:
-    first: "€6,90"
-    second: "€5,50"
+    first: "€ 6,90"
+    second: "€ 5,50"
   fip_50: true
   reservations: true
   booking_link: "https://int.bahn.de/en/buchung/start?KL=2&ET=FIP_SONSTIGE"
@@ -35,7 +35,7 @@ FIP 50 Tickets can be purchased for the following countries, as long as a sectio
 - France
 - Germany
 - Italy \
-  <small>only Brenner route with Austria and ECE Frankfurt - Milan</small>
+  <small>only Brenner route with Austria and ECE Frankfurt – Milan</small>
 - Luxembourg
 - Netherlands
 - Poland

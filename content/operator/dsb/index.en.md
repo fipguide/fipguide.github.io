@@ -24,7 +24,7 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 
 ## Train Categories and Reservations
 
-Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
+Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg – Copenhagen are usually reservation-required during the summer.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Description:** \

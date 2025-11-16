@@ -73,7 +73,7 @@ Connecting buses for high-speed trains.
 Fast trains mostly outside high-speed lines. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 3€ (1st/2nd class) \
+**Reservation cost:** 3 € (1st/2nd class) \
 The reservation price always includes a surcharge when using a FIP Coupon.
 {{% /expander %}}
 
@@ -82,7 +82,7 @@ The reservation price always includes a surcharge when using a FIP Coupon.
 National night train with sleeper, couchette, and seat cars. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 25€ (1st/2nd class, seat car) \
+**Reservation cost:** 25 € (1st/2nd class, seat car) \
 The reservation price always includes a surcharge when using a FIP Coupon. For couchette or sleeper, an additional supplement applies.
 {{% /expander %}}
 
@@ -93,12 +93,12 @@ The reservation price always includes a surcharge when using a FIP Coupon. For c
 International fast trains to Germany, Austria, and Switzerland. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 25€ (1st/2nd class), except Brenner route
+**Reservation cost:** 25 € (1st/2nd class), except Brenner route
 
 **Brenner route costs:**
 
-- 1st class: 15€
-- 2nd class: 10€
+- 1st class: 15 €
+- 2nd class: 10 €
 
 The reservation price always includes a surcharge when using a FIP Coupon.
 {{% /expander %}}
@@ -174,8 +174,8 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="db-ticket-office"
-  classes.first="3€ / 25€"
-  classes.second="3€ / 25€"
+  classes.first="3 € / 25 €"
+  classes.second="3 € / 25 €"
 /%}}
 
 ### On the train
@@ -194,11 +194,11 @@ On international long-distance trains from Italy to Austria, ÖBB FIP Coupons ar
 
 #### Brenner – Bolzano – Verona
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `EC` trains to Verona. For trips to/from Italy or entirely within Italy, a supplement of 10€ (2nd class) or 15€ (1st class) must be paid.
+ÖBB or FS FIP Coupons are valid in the Italian section on `EC` trains to Verona. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid.
 
 #### Railjet Tarvisio Boscoverde – Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains to Venice. For trips to/from Italy or entirely within Italy, a supplement of 10€ (2nd class) or 15€ (1st class) must be paid.
+ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains to Venice. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid.
 
 ### Regional trains in Emilia-Romagna
 

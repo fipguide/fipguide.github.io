@@ -73,7 +73,7 @@ Anschlussbusse für Hochgeschwindigkeitszüge.
 Schnellzug meist abseits von Hochgeschwindigkeitsstrecken. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 3€ (1./2. Klasse) \
+**Kosten für Reservierung**: 3 € (1./2. Klasse) \
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
 
@@ -82,7 +82,7 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25€ (1./2. Klasse) im Sitzwagen \
+**Kosten für Reservierung**: 25 € (1./2. Klasse) im Sitzwagen \
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
 {{% /expander %}}
 
@@ -93,12 +93,12 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25€ (1./2. Klasse), außer im Brennerverkehr
+**Kosten für Reservierung**: 25 € (1./2. Klasse), außer im Brennerverkehr
 
 **Kosten im Brennerverkehr:**
 
-- 1\. Klasse: 15€
-- 2\. Klasse: 10€
+- 1\. Klasse: 15 €
+- 2\. Klasse: 10 €
 
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
@@ -156,7 +156,7 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 {{% booking id="fs-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeiter der Deutschen Bahn"
+    subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
 %}}
 Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden. Für die `EC` im Brennerverkehr zwischen München und Italien kann dies ebenfalls gemacht werden. Beide haben jeweils keine Gültigkeit im deutschen Abschnitt.
 {{% /booking %}}
@@ -174,8 +174,8 @@ Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen M�
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="db-ticket-office"
-  classes.first="3€ / 25€"
-  classes.second="3€ / 25€"
+  classes.first="3 € / 25 €"
+  classes.second="3 € / 25 €"
 /%}}
 
 ### Im Zug
@@ -194,11 +194,11 @@ In internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrts
 
 #### Brenner – Bozen – Verona
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen.
 
 #### Railjet Tarvisio Boscoverde – Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen.
 
 ### Regionalzüge in Emilia-Romagna
 

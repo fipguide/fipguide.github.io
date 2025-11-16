@@ -16,15 +16,15 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 
 ## Zusammenfassung
 
-- Im Fernverkehr (`TGV` inOui und Intercités) ist immer eine Reservierung erforderlich
-- In OuiGo Zügen gelten keine FIP Vergünstigungen
-- In Paris können einige S-Bahnen und Straßenbahnlinien zu besonderen Konditionen genutzt werden
-- Für grenzüberschreitende Fernzugverbindungen gelten Globalpreise
-- FIP Vergünstigungen gelten auch in SNCF Bussen (außer Fernbusse)
+- Im Fernverkehr (`TGV` inOui und Intercités) ist immer eine Reservierung erforderlich.
+- In OuiGo Zügen gelten keine FIP Vergünstigungen.
+- In Paris können einige S-Bahnen und Straßenbahnlinien zu besonderen Konditionen genutzt werden.
+- Für grenzüberschreitende Fernzugverbindungen gelten Globalpreise.
+- FIP Vergünstigungen gelten auch in SNCF Bussen (außer Fernbusse).
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtsschein: ✅ \
+FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅ \
 FIP Globalpreis: ✅ (Für internationale `TGV` Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge))
@@ -117,11 +117,11 @@ Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum
 Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="db-website-fip-db"
-    subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets für Regionalzüge zwischen Deutschland und Frankreich für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets für Regionalzüge zwischen Deutschland und Frankreich für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
 {{% booking id="sncb-website"

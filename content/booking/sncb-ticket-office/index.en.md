@@ -24,5 +24,5 @@ FIP 50 Tickets for domestic and cross-border journeys can be purchased at the SN
 
 ## Reservations
 
-Since reservations for trains cannot be purchased in Belgium, SNCB only sells international reservations, e.g., for the ICE Brussels - Frankfurt.
+Since reservations for trains cannot be purchased in Belgium, SNCB only sells international reservations, e.g., for the ICE Brussels – Frankfurt.
 {{% /booking-section %}}

@@ -6,7 +6,7 @@ description: "Booking information for the CFL hotline."
 params:
   additional_info_link: "https://blogcfl.lu/en/cfl-group/352-2489-2489-do-you-have-questions-please-contact-us-at-this-number"
   type: "phone"
-  fee: €5
+  fee: € 5
 
 aliases:
   - cfl_phone
