@@ -107,6 +107,7 @@ trainCategory:
     accepted: FIP akzeptiert
     notAccepted: FIP nicht akzeptiert
     partiallyAccepted: FIP teilweise akzeptiert
+  additionalInformation: Zusätzliche Informationen
   importantInformation: Wichtige Informationen
   reservation:
     notPossible: Keine Reservierung möglich
@@ -114,6 +115,7 @@ trainCategory:
     possible: Reservierung möglich
     required: Reservierung erforderlich
   riskOfConfusion: Verwechslungsgefahr
+  routeOverview: Streckenübersicht
 updateDate:
   aria-label: Öffne die Commit-Verlauf der Seite
   label: Zuletzt aktualisiert

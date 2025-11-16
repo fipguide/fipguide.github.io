@@ -6,14 +6,9 @@
   "reservation_possible" (default false (.Get "reservation_possible"))
   "risk_of_confusion" (default false (.Get "risk_of_confusion"))
   "important_info" (default false (.Get "important_info"))
+  "route_overview_url" (.Get "route_overview_url")
+  "additional_information_url" (.Get "additional_information_url")
   "content" (.Inner | .Page.RenderString)
 -}}
 
-
-<details class="details-screen o-expander o-expander--booking">
-  {{- partial "train-category" $data -}}
-</details>
-
-<details open class="details-print o-expander o-expander--booking">
-  {{- partial "train-category" $data -}}
-</details>
+{{- partial "train-category" $data -}}

@@ -1,73 +1,91 @@
-<summary class="o-expander__summary o-expander__summary--train-category">
-  <div class="o-train-category__header">
-    <div class="o-train-category__title">
-      {{ $iconMapping := dict
-        "highspeed" "train"
-        "regional" "directions_subway"
-        "funicular" "funicular"
-        "bus" "directions_bus"
-      }}
-      {{- partial "icon" (index $iconMapping .type) -}}
-      <span class="o-train-category__title-text">{{- .title -}}</span>
+<details class="o-expander o-expander--booking">
+  <summary class="o-expander__summary o-expander__summary--train-category">
+    <div class="o-train-category__header">
+      <div class="o-train-category__title">
+        {{ $iconMapping := dict
+          "highspeed" "train"
+          "regional" "directions_subway"
+          "funicular" "funicular"
+          "bus" "directions_bus"
+        }}
+        {{- partial "icon" (index $iconMapping .type) -}}
+        <span class="o-train-category__title-text">{{- .title -}}</span>
+      </div>
+      <div class="o-train-category__tags">
+        {{- if eq .fip_accepted true -}}
+          <span class="o-train-category__tag o-train-category__tag--success">
+            {{ partial "icon" "check_circle" }}
+            {{ i18n "trainCategory.acceptance.accepted" }}
+          </span>
+        {{- else if eq .fip_accepted "partially" -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "info" }}
+            {{ i18n "trainCategory.acceptance.partiallyAccepted" }}
+          </span>
+        {{- else -}}
+          <span class="o-train-category__tag o-train-category__tag--error">
+            {{ partial "icon" "dangerous" }}
+            {{ i18n "trainCategory.acceptance.notAccepted" }}
+          </span>
+        {{- end -}}
+
+        {{- if eq .reservation_required true -}}
+          <span class="o-train-category__tag o-train-category__tag--error">
+            {{ partial "icon" "calendar_add_on" }}
+            {{ i18n "trainCategory.reservation.required" }}
+          </span>
+        {{- else if eq .reservation_required true -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "calendar_add_on" }}
+            {{ i18n "trainCategory.reservation.partiallyRequired" }}
+          </span>
+        {{- else if eq .reservation_possible true -}}
+          <span class="o-train-category__tag o-train-category__tag--info">
+            {{ partial "icon" "calendar_check" }}
+            {{ i18n "trainCategory.reservation.possible" }}
+          </span>
+        {{- else -}}
+          <span class="o-train-category__tag o-train-category__tag--info">
+            {{ partial "icon" "calendar_lock" }}
+            {{ i18n "trainCategory.reservation.notPossible" }}
+          </span>
+        {{- end -}}
+
+        {{- if .risk_of_confusion -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "question_exchange" }}
+            {{ i18n "trainCategory.riskOfConfusion" }}
+          </span>
+        {{- end -}}
+
+        {{- if .important_info -}}
+          <span class="o-train-category__tag o-train-category__tag--warning">
+            {{ partial "icon" "campaign" }}
+            {{ i18n "trainCategory.importantInformation" }}
+          </span>
+        {{- end -}}
+      </div>
     </div>
-    <div class="o-train-category__tags">
-      {{- if eq .fip_accepted true -}}
-        <span class="o-train-category__tag o-train-category__tag--success">
-          {{ partial "icon" "check_circle" }}
-          {{ i18n "trainCategory.acceptance.accepted" }}
-        </span>
-      {{- else if eq .fip_accepted "partially" -}}
-        <span class="o-train-category__tag o-train-category__tag--warning">
-          {{ partial "icon" "info" }}
-          {{ i18n "trainCategory.acceptance.partiallyAccepted" }}
-        </span>
-      {{- else -}}
-        <span class="o-train-category__tag o-train-category__tag--error">
-          {{ partial "icon" "dangerous" }}
-          {{ i18n "trainCategory.acceptance.notAccepted" }}
-        </span>
-      {{- end -}}
-
-      {{- if eq .reservation_required true -}}
-        <span class="o-train-category__tag o-train-category__tag--error">
-          {{ partial "icon" "calendar_add_on" }}
-          {{ i18n "trainCategory.reservation.required" }}
-        </span>
-      {{- else if eq .reservation_required true -}}
-        <span class="o-train-category__tag o-train-category__tag--warning">
-          {{ partial "icon" "calendar_add_on" }}
-          {{ i18n "trainCategory.reservation.partiallyRequired" }}
-        </span>
-      {{- else if eq .reservation_possible true -}}
-        <span class="o-train-category__tag o-train-category__tag--info">
-          {{ partial "icon" "calendar_check" }}
-          {{ i18n "trainCategory.reservation.possible" }}
-        </span>
-      {{- else -}}
-        <span class="o-train-category__tag o-train-category__tag--info">
-          {{ partial "icon" "calendar_lock" }}
-          {{ i18n "trainCategory.reservation.notPossible" }}
-        </span>
-      {{- end -}}
-
-      {{- if .risk_of_confusion -}}
-        <span class="o-train-category__tag o-train-category__tag--warning">
-          {{ partial "icon" "question_exchange" }}
-          {{ i18n "trainCategory.riskOfConfusion" }}
-        </span>
-      {{- end -}}
-
-      {{- if .important_info -}}
-        <span class="o-train-category__tag o-train-category__tag--warning">
-          {{ partial "icon" "campaign" }}
-          {{ i18n "trainCategory.importantInformation" }}
-        </span>
-      {{- end -}}
-    </div>
+    {{- partial "icon" "keyboard_arrow_down" -}}
+  </summary>
+  <hr aria-hidden="true" />
+  <div class="o-expander__content">
+    {{- .content -}}
+    {{- if .route_overview_url -}}
+      {{- partial "button"
+        (dict
+        "Destination" .route_overview_url
+        "Text" (T "trainCategory.routeOverview")
+        )
+      -}}
+    {{- end -}}
+    {{- if .additional_information_url -}}
+      {{- partial "button"
+        (dict
+        "Destination" .additional_information_url
+        "Text" (T "trainCategory.additionalInformation")
+        )
+      -}}
+    {{- end -}}
   </div>
-  {{- partial "icon" "keyboard_arrow_down" -}}
-</summary>
-<hr aria-hidden="true" />
-<div class="o-expander__content">
-  {{- .content -}}
-</div>
+</details>

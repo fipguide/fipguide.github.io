@@ -103,6 +103,7 @@ trainCategory:
     accepted: FIP accepted
     notAccepted: FIP not accepted
     partiallyAccepted: FIP partially accepted
+  additionalInformation: Additional information
   importantInformation: Important information
   reservation:
     notPossible: No reservation possible
@@ -110,6 +111,7 @@ trainCategory:
     possible: Reservation possible
     required: Reservation required
   riskOfConfusion: Risk of confusion
+  routeOverview: Route overview
 updateDate:
   aria-label: Open the commit history of the page
   label: Last updated

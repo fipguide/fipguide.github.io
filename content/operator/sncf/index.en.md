@@ -43,9 +43,10 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
   reservation_required=true
   risk_of_confusion=true
   important_info=true
+  route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
   type="highspeed"
 %}}
-The `TGV` inOui is SNCF's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). [Route overview](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
+The `TGV` inOui is SNCF's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
 
 {{% highlight confusion %}}
 SNCF also operates low-cost `TGV` trains under the name OuiGo, which are not valid with FIP.
