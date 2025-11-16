@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "PKP"
-description: "Information about FIP conditions at PKP."
+description: "Information about FIP conditions at PKP: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "poland"
 operator: "pkp"

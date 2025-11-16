@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Information about FIP conditions at SBB CFF FFS."
+description: "Information about FIP conditions at SBB CFF FFS: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "switzerland"
 ---

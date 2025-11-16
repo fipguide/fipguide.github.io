@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCF"
-description: "Information about FIP conditions at SNCF."
+description: "Information about FIP conditions at SNCF: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "france"
   - "monaco"
