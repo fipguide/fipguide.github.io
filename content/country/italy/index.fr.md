@@ -2,7 +2,6 @@
 draft: false
 title: "Italie"
 country: "italy"
-description: "Informations sur les conditions FIP pour l’Italie et les opérateurs proposant des réductions."
 params:
   operators_without_fip:
     - Azienda Regionale Sarda Trasporti

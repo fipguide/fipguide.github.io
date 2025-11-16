@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCF Voyageurs"
-description: "Informations sur les conditions FIP chez SNCF Voyageurs : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "france"
   - "monaco"

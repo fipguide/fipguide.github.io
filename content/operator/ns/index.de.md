@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "NS"
-description: "Informationen über die FIP-Bedingungen bei NS: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "netherlands"
 operator: "ns"

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Espagne"
-description: "Découvrez les conditions FIP en Espagne et les opérateurs proposant des réductions."
 country: "spain"
 params:
   operators_without_fip:

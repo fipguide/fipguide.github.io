@@ -19,7 +19,7 @@
         </div>
       </div>
       <div class="o-single__container o-related__operator-wrapper">
-        {{ $title := print (T "_operator__list_title") " in " .Title }}
+        {{ $title := print (T "operators.listTitle") " in " .Title }}
         {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
         {{ with .Params.operators_without_fip }}
           {{ partial "intersector" }}
