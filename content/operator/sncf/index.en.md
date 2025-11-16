@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCF"
-description: "Information about FIP conditions at SNCF."
+description: "Information about FIP conditions at SNCF: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "france"
   - "monaco"
@@ -113,6 +113,8 @@ RER is a suburban train operated by SNCF in Île de France (Greater Paris) and s
 ## Ticket and Reservation Purchase
 
 ### Online
+
+Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="db-website-fip-db"
   subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."

@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Informations sur les conditions FIP à la SNCB."
+description: "Informations sur les conditions FIP à la SNCB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
 operator: "sncb"
@@ -104,7 +104,7 @@ Trains supplémentaires vers certaines destinations touristiques, souvent simple
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncb-website"
-  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique"
+  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
 /%}}
 
 {{% booking id="db-website-fip-db"

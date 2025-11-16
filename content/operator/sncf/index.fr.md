@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCF"
-description: "Informations sur les conditions FIP chez la SNCF."
+description: "Informations sur les conditions FIP chez la SNCF : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "france"
   - "monaco"
@@ -113,6 +113,8 @@ Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région
 ## Achat de billets et réservations
 
 ### En ligne
+
+Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="db-website-fip-db"
   subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."

@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "CP"
-description: "Information about FIP conditions at Comboios de Portugal (CP)."
+description: "Information about FIP conditions at Comboios de Portugal (CP): validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "portugal"
 operator: "cp"

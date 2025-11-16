@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Find out about the FIP conditions at SNCB."
+description: "Find out about the FIP conditions at SNCB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "belgium"
 operator: "sncb"
@@ -104,7 +104,7 @@ Additional trains to certain tourist destinations, often simply referred to as `
 Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncb-website"
-    subtitle="Only for cross-border journeys to/from Belgium"
+    subtitle="Only for cross-border journeys to/from Belgium with FIP Coupon."
 /%}}
 
 {{% booking id="db-website-fip-db"

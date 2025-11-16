@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "NS"
-description: "Informationen über die FIP-Bedingungen bei NS."
+description: "Informationen über die FIP-Bedingungen bei NS: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "netherlands"
 operator: "ns"
@@ -103,6 +103,12 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 ## Ticket- und Reservierungskauf
 
 ### Online
+
+Nationale Verbindungen können online leider nicht erworben werden.
+
+{{% booking id="sncb-website"
+    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien mit FIP Freifahrtschein."
+/%}}
 
 {{% booking id="db-website"
     subtitle="Für internationale ICE und IC Züge"

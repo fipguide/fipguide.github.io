@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "NS"
-description: "Informations sur les conditions FIP chez NS."
+description: "Informations sur les conditions FIP chez NS : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "netherlands"
 operator: "ns"
@@ -104,6 +104,12 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 ## Achat de billets et réservations
 
 ### En ligne
+
+Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
+
+{{% booking id="sncb-website"
+  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
+/%}}
 
 {{% booking id="db-website"
     subtitle="Pour les connexions ICE et IC transfrontalières"
