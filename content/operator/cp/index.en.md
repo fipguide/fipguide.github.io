@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "CP"
-description: "Information about FIP conditions at Comboios de Portugal (CP): validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "portugal"
 operator: "cp"
+params:
+  name: Comboios de Portugal (CP)
 ---
 
 CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in Portugal.

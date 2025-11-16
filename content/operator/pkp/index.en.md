@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "PKP"
-description: "Information about FIP conditions at PKP: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "poland"
 operator: "pkp"
+params:
+  name: "PKP"
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of Polish passenger rail transport.

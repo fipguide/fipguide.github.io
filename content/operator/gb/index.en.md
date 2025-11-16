@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "National Rail"
-description: "Information about FIP conditions at National Rail: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "united-kingdom"
 operator: "gb"
+params:
+  name: National Rail
 ---
 
 There are many different railway companies in Great Britain, collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.

@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "DSB"
-description: "Informations sur les conditions FIP chez DSB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "denmark"
 operator: "dsb"
+params:
+  name: DSB
 ---
 
 La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du Danemark. Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.

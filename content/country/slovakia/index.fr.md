@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Slovaquie"
-description: "Découvrez les conditions FIP en Slovaquie et les opérateurs proposant des réductions."
 country: "slovakia"
 params:
   operators_without_fip:

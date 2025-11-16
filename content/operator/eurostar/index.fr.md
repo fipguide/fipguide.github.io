@@ -1,13 +1,14 @@
 ---
 draft: false
 title: "Eurostar"
-description: "Informations sur les conditions FIP pour Eurostar : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
   - "netherlands"
   - "united-kingdom"
   - "france"
 operator: "eurostar"
+params:
+  name: Eurostar
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge).

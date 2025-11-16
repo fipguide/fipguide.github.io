@@ -1,11 +1,12 @@
 ---
 draft: false
 title: "Renfe"
-description: "Informations sur les conditions FIP chez Renfe : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "spain"
   - "france"
 operator: "renfe"
+params:
+  name: "Renfe"
 ---
 
 Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.

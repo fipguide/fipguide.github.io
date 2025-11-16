@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Portugal"
-description: "Informationen über die FIP-Bedingungen für Portugal und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "portugal"
 params:
   operators_without_fip:

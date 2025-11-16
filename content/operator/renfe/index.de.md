@@ -1,11 +1,12 @@
 ---
 draft: false
 title: "Renfe"
-description: "Informationen über die FIP-Bedingungen bei Renfe: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "spain"
   - "france"
 operator: "renfe"
+params:
+  name: "Renfe"
 ---
 
 Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.

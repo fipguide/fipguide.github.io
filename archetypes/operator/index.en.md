@@ -1,13 +1,15 @@
 ---
 draft: false
 title: "{{ .File.ContentBaseName | upper }}"
-description: "" # Add a description for the railway company
 country:
   # Add the abbreviations of the countries the railway company operates in.
   - "country1"
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+params:
+  # The name is used in the meta descriptions.
+  name:
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

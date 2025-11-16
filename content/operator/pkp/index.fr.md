@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "PKP"
-description: "Informations sur les conditions FIP chez PKP : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "poland"
 operator: "pkp"
+params:
+  name: "PKP"
 ---
 
 Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en Pologne.

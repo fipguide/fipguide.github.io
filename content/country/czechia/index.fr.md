@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Tchéquie"
-description: "Informations sur les conditions FIP pour la Tchéquie et les opérateurs proposant des réductions."
 country: "czechia"
 params:
   operators_without_fip:

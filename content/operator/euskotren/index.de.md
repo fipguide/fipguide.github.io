@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "Euskotren"
-description: "Informationen über die FIP-Bedingungen bei Euskotren: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "spain"
 operator: "euskotren"
+params:
+  name: Euskotren
 ---
 
 Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Euskotren gehört der baskische Regionalregierung.

@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "GySEV / Raaberbahn"
-description: "Informationen über die FIP-Bedingungen bei GySEV / Raaberbahn: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "austria"
 operator: "gysev"
+params:
+  name: GySEV / Raaberbahn
 ---
 
 Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vasút Zrt.), kurz GySEV oder Raaberbahn ist ein privates ungarisches Eisenbahnunternehmen, welches Regionalzüge in Ungarn und Österreich betreibt. Die Züge verkehren hauptsächlich südlich und östlich des Neusiedlersees (Westungarn), teilweise sind sie sogar auf eigener Infrastruktur unterwegs.

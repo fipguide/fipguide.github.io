@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCF"
-description: "Informationen über die FIP-Bedingungen bei der SNCF: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "france"
   - "monaco"
@@ -10,6 +9,8 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+params:
+  name: "SNCF"
 ---
 
 Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in Frankreich. Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.

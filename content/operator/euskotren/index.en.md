@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "Euskotren"
-description: "Information about FIP conditions for Euskotren: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
 operator: "euskotren"
+params:
+  name: Euskotren
 ---
 
 In northern Spain, Euskotren operates a Basque railway network that connects the picturesque coastal towns and mountainous hinterland between the French border at Hendaye and the metropolis of Bilbao. Euskotren is owned by the Basque regional government.

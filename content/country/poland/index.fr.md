@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Pologne"
-description: "Découvrez les conditions FIP en Pologne et les opérateurs proposant des réductions."
 country: "poland"
 params:
   operators_without_fip:

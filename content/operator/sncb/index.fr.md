@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Informations sur les conditions FIP à la SNCB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
 operator: "sncb"
+params:
+  name: "SNCB / NMBS"
 ---
 
 La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maatschappij der Belgische Spoorwegen) est l’opérateur ferroviaire national belge et le plus important du pays.

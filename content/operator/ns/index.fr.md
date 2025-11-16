@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "NS"
-description: "Informations sur les conditions FIP chez NS : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "netherlands"
 operator: "ns"
+params:
+  name: NS
 ---
 
 Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des Pays-Bas et assurent la majorité du trafic voyageurs dans le pays.

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Danemark"
-description: "Informations sur les conditions FIP au Danemark et les opérateurs qui proposent des réductions."
 country: "denmark"
 params:
   operators_without_fip:

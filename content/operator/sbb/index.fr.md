@@ -1,9 +1,10 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Informations sur les conditions FIP chez les CFF (SBB CFF FFS) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "switzerland"
+params:
+  name: "SBB CFF FFS"
 ---
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la Suisse. Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
