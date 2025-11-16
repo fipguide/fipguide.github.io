@@ -5,7 +5,6 @@ description: "Informationen zu den FIP-Bedingungen bei der Balgarski Darschawni 
 country:
   - "bulgaria"
 operator: "bdz"
-type: "operator"
 booking:
   - "bdz-ticket-office"
 ---
