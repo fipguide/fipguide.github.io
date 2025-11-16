@@ -136,7 +136,7 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
 ### Vor Ort

@@ -51,7 +51,7 @@ Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die 
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Für Railjets nach italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien). \
+Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -113,7 +113,7 @@ Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
 {{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
-Nahverkehrszug mit Halten and den meisten Stationen.
+Nahverkehrszug mit Halten an den meisten Stationen.
 
 ℹ️ Regionalzüge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
@@ -154,7 +154,7 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}

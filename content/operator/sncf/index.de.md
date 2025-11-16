@@ -121,7 +121,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets für Regionalzüge zwischen Deutschland und Frankreich für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets für Regionalzüge zwischen Deutschland und Frankreich für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
 {{% booking id="sncb-website"

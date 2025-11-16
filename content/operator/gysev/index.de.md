@@ -44,7 +44,7 @@ Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
 {{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
-Nahverkehrszug mit Halten and den meisten Stationen.
+Nahverkehrszug mit Halten an den meisten Stationen.
 
 ℹ️ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
 **Reservierung möglich:** nein
