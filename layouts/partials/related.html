@@ -1,10 +1,8 @@
 {{ $pageType := .pageType | default .index }}
-{{ $related := slice }}
+{{ $related := "" }}
 
 {{ if eq $pageType "booking" }}
-  {{ $slug := .page.File.ContentBaseName }}
-  {{ $operators := where .page.Site.RegularPages "Type" "operator" }}
-  {{ $related = where $operators "Params.booking" "intersect" (slice $slug) }}
+  {{ $related = where (where .page.Site.RegularPages "Type" "operator") "Params.booking" "intersect" (slice .page.File.ContentBaseName) }}
 {{ else }}
   {{ $related = where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
 {{ end }}

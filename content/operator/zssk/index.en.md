@@ -5,6 +5,11 @@ description: "Find out about the FIP conditions at ZSR / ZSSK."
 country:
   - "slovakia"
 operator: "zssk"
+booking:
+  - "zssk-website"
+  - "db-website"
+  - "zssk-ticket-office"
+  - "db-ticket-office"
 
 aliases:
   - zsr

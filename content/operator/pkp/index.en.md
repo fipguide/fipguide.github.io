@@ -5,6 +5,15 @@ description: "Information about FIP conditions at PKP."
 country:
   - "poland"
 operator: "pkp"
+booking:
+  - "pkp-website"
+  - "koleo-website"
+  - "db-website"
+  - "db-website-fip-db"
+  - "db-website-fip-international"
+  - "pkp-ticket-office"
+  - "pkp-ticket-machine"
+  - "db-ticket-office"
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of Polish passenger rail transport.

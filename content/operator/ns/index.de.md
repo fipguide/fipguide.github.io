@@ -5,6 +5,13 @@ description: "Informationen über die FIP-Bedingungen bei NS."
 country:
   - "netherlands"
 operator: "ns"
+booking:
+  - "db-website"
+  - "db-website-fip-db"
+  - "db-website-fip-international"
+  - "ns-ticket-office"
+  - "db-ticket-office"
+
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Niederlande und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.

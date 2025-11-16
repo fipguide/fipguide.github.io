@@ -5,6 +5,11 @@ description: "Information about FIP conditions at České dráhy (ČD)."
 country:
   - "czechia"
 operator: "cd"
+booking:
+  - "cd-website"
+  - "db-website-fip-db"
+  - "db-website-fip-international"
+  - "cd-ticket-office"
 ---
 
 České dráhy (ČD) is the state railway company of the Czech Republic and operates a large part of passenger services on the Czech rail network.
