@@ -1,5 +1,17 @@
 {{ define "main" }}
-  <article data-pagefind-ignore class="o-single">
+  <article data-pagefind-ignore class="o-single o-single--with-sidemenu">
+    <aside id="aside" class="o-aside">
+      <div class="o-single__container">
+        {{ partial "related" (dict "index" "booking" "title" (T "related.booking") "page" . "identifier" "booking") "pageType" "booking"}}
+        <hr aria-hidden="true" />
+        {{ partial "link"
+        (dict
+        "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
+        "Text" ((print (partial "icon" "edit_square") (T "editPage")) | .Page.RenderString)
+        )
+        }}
+      </div>
+    </aside>
     <div class="o-single__container">
       <div class="o-single__header">
         <h1>{{ .Title }}</h1>

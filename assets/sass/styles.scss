@@ -18,7 +18,8 @@ body {
   }
 }
 @media (max-width: #{$breakpoint-lg}) {
-  body:has(article.o-single--with-sidemenu):not(:has(.o-newspage)) {
+  body:has(article.o-single--with-sidemenu):not(:has(.o-newspage)),
+  body:has(article.o-single--with-sidemenu):not(:has(.o-bookingpage)) {
     margin: 0 0 calc(7rem + env(safe-area-inset-bottom)) 0;
   }
 }
