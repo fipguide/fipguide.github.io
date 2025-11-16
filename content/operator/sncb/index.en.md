@@ -110,7 +110,7 @@ Additional trains to certain tourist destinations, often simply referred to as `
 Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncb-website"
-    subtitle="Only for cross-border journeys to/from Belgium"
+    subtitle="Only for cross-border journeys to/from Belgium with FIP Coupon."
 /%}}
 
 {{% booking id="db-website-fip-db"

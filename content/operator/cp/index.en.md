@@ -105,8 +105,6 @@ The Celta is an international cooperation service between CP and Renfe from Port
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
 **FIP Global Fare (distance-independent):** €4
-
-Tickets for this service must be purchased through Spanish sales channels.
 {{% /expander %}}
 
 ## Class Categories

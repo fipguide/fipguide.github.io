@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Distributeur de billets Trenitalia"
+title: "Distributeurs de billets Trenitalia"
 description: "Informations de réservation pour les distributeurs de billets Trenitalia."
 
 params:
@@ -13,7 +13,8 @@ params:
 ---
 
 {{% booking-section "reservations" %}}
-**Réservations et suppléments :**
+
+## Réservations
 
 Aux distributeurs de billets Trenitalia, il est possible d’acheter des réservations et des suppléments pour les Coupons FIP FIP pour Le Frecce et autres trains longue distance.
 

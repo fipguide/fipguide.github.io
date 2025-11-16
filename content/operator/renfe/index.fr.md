@@ -159,7 +159,8 @@ Non disponible – il faut se rendre au guichet Renfe.
     fip_global_fare=true
     reservations="nil"
 %}}
-**Tarif Global FIP**
+
+#### Tarif Global FIP
 
 Dans les centres de services DB, il est possible d’acheter des billets pour les trains à réservation obligatoire. Il est important de sélectionner la classe « T » (pour Turista) ou « P » (pour Preferente). Si l’on choisit « 1re classe » ou « 2de classe », l’émission du billet échoue avec un message d’erreur. Il a également été signalé que la réservation en classe « P » échoue parfois ; dans ce cas, la réservation en classe « T » fonctionne généralement. Aucun frais de réservation n’est appliqué.
 ![Billet AVE exemple de Malaga à Madrid en classe T](./images/ave_ticket.webp)
@@ -170,6 +171,8 @@ Dans les centres de services DB, il est possible d’acheter des billets pour le
 ### À bord du train
 
 Si aucun guichet n’est disponible, l’achat est possible à bord (à confirmer localement).
+
+Les billets pour les trains `AVE` internationaux peuvent être achetés à bord lors de la montée en France. [^3]
 
 ## Réductions
 
@@ -183,7 +186,7 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 ### Renfe Feve
 
-Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) dans le nord de l’Espagne.
+Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l'Espagne.
 
 ## Recommandations
 
@@ -196,3 +199,5 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
+[^3]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)

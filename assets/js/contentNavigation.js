@@ -19,17 +19,19 @@ const initAside = () => {
     aside.classList.remove("o-aside--open");
     asideContent.removeAttribute("role");
     asideContent.setAttribute("aria-hidden", "true");
+    asideContent.setAttribute("inert", "");
     handleBtn.setAttribute("aria-expanded", "false");
-    overlay.classList.remove("overlay--show");
+    overlay.classList.remove("overlay--show", "overlay--content");
   };
 
   const openSheet = () => {
     isClosed = false;
     aside.classList.add("o-aside--open");
-    overlay.classList.add("overlay--show");
     asideContent.setAttribute("role", "dialog");
     asideContent.setAttribute("aria-hidden", "false");
+    asideContent.removeAttribute("inert");
     handleBtn.setAttribute("aria-expanded", "true");
+    overlay.classList.add("overlay--show", "overlay--content");
   };
 
   if (isMobile()) {

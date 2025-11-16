@@ -16,6 +16,8 @@ aliases:
   - db_ticket_office
 ---
 
+Les guichets de la Deutsche Bahn sont appelés _DB Reisezentrum_ et se trouvent dans de nombreuses grandes gares en Allemagne.
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

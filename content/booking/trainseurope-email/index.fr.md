@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Trainseurope Ltd."
+title: "Trainseurope Ltd. e-mail"
 description: "Informations de réservation pour la réservation par e-mail chez Trainseurope Ltd."
 
 params:

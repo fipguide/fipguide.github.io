@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ÖBB Fahrkartenautomaten"
+title: "ÖBB Fahrkartenautomat"
 description: "Buchungsinformationen für die ÖBB Fahrkartenautomaten."
 
 params:

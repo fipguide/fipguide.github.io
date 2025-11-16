@@ -163,7 +163,8 @@ It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hot
     fip_global_fare=true
     reservations="nil"
 %}}
-**FIP Global Fare**
+
+#### FIP Global Fare
 
 Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels. It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee.
 ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
@@ -174,6 +175,8 @@ Tickets for trains requiring reservations can be sold at DB Travel Centers. Plea
 ### On the train
 
 If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
+
+Tickets for international `AVE` trains can be purchased on board when boarding in France. [^3]
 
 ## Discounts
 
@@ -187,7 +190,7 @@ With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted alon
 
 ### Renfe Feve
 
-FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) in northern Spain.
+FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) between Ferrol and Bilbao in northern Spain.
 
 ## Recommendations
 
@@ -200,3 +203,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+
+[^3]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)

@@ -1,7 +1,9 @@
+$search-z-index: 12;
+
 #search {
   width: 100%;
   display: flex;
-  z-index: 6;
+  z-index: $search-z-index;
 
   @media print {
     display: none;
@@ -22,6 +24,10 @@
     max-height: 50vh;
     padding: 0 1rem;
     overflow-y: scroll;
+
+    @media (max-width: #{$breakpoint-md}) {
+      max-height: calc(100dvh - 17rem);
+    }
   }
 
   .pagefind-ui__results li:last-child {
@@ -29,7 +35,7 @@
   }
 
   input.pagefind-ui__search-input {
-    z-index: 6;
+    z-index: $search-z-index;
     outline: 0.2rem solid transparent;
     border: var(--border);
     box-shadow: var(--box-shadow);
@@ -61,7 +67,7 @@
   }
 
   .pagefind-ui__form::before {
-    z-index: 7;
+    z-index: $search-z-index + 1;
   }
 
   .pagefind-ui__drawer {
@@ -70,15 +76,10 @@
     overscroll-behavior: contain;
     overflow: hidden;
     position: absolute;
-    top: 7rem;
     width: 100%;
-    z-index: 6;
+    z-index: $search-z-index;
     border: var(--border);
     border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
-
-    @media (max-width: #{$breakpoint-md}) {
-      max-height: calc(100dvh - 17rem);
-    }
   }
 
   .pagefind-ui__result {
@@ -126,7 +127,7 @@
 
   .pagefind-ui--reset mark {
     background-color: var(--bg-accent);
-    color: var(--color-body);
+    color: black;
   }
 
   button.pagefind-ui__button {
@@ -146,7 +147,7 @@
 
 .o-search {
   &--contentpage {
-    position: absolute;
+    position: fixed;
     display: none;
     opacity: 0;
     visibility: hidden;
@@ -157,6 +158,6 @@
     display: block;
     opacity: 1;
     visibility: visible;
-    z-index: 6;
+    z-index: $search-z-index;
   }
 }

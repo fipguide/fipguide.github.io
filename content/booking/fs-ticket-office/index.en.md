@@ -11,7 +11,8 @@ params:
 ---
 
 {{% booking-section "fip_50" %}}
-**FIP 50 Tickets**
+
+## FIP 50 Tickets
 
 FIP 50 Tickets can be purchased at Trenitalia ticket offices.
 
@@ -22,7 +23,8 @@ Sometimes tickets at ticket offices are issued at different rates, so prices may
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
-**Reservations and Supplements:**
+
+## Reservations
 
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "SBB Fahrkartenautomaten"
+title: "SBB Fahrkartenautomat"
 description: "Buchungsinformationen für FIP Fahrscheine an SBB Fahrkartenautomaten"
 
 params:

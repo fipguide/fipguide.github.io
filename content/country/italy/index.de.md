@@ -22,7 +22,7 @@ Im Fernverkehr sind die Frecce-Züge der Trenitalia nur mit teuren Reservierunge
 
 ## Wissenswertes
 
-Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die schnellen und hochwertigen Fernzugverbindungen. Dadurch sind Reisen zwischen Nord- und Süditalien in kurzer Zeit möglich. Abseits der Hochgeschwindigkeitsstrecken gibt es auch viele klassische und teilweise sehr schöne Regionalzugstrecken. Ein Beispiel dafür ist die Bahnstrecke durch Cinque Terre in Ligurien, in der in einer dichten Frequenz Züge in allen fünf Orten halten. Diese Bahnstrecke ist gleichzeitig die wichtigste Verbindung zwischen den sonst schwer erreichbaren Orten. Die Regionalzüge in Italien verkehren dabei jedoch nicht in einem klassischen Taktsystem, sondern meist in ungelmäßigen Abständen. Außerdem kann die Insel Sardinien mit Nacht- und InterCity-Zügen erreicht werden. Diese passieren dabei per Trenitalia-Fähre die Straße von Messina.
+Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die schnellen und hochwertigen Fernzugverbindungen. Dadurch sind Reisen zwischen Nord- und Süditalien in kurzer Zeit möglich. Abseits der Hochgeschwindigkeitsstrecken gibt es auch viele klassische und teilweise sehr schöne Regionalzugstrecken. Ein Beispiel dafür ist die Bahnstrecke durch Cinque Terre in Ligurien, in der in einer dichten Frequenz Züge in allen fünf Orten halten. Diese Bahnstrecke ist gleichzeitig die wichtigste Verbindung zwischen den sonst schwer erreichbaren Orten. Die Regionalzüge in Italien verkehren dabei jedoch nicht in einem klassischen Taktsystem, sondern meist in ungelmäßigen Abständen. Außerdem kann die Insel Sizilien mit Nacht- und InterCity-Zügen erreicht werden. Diese passieren dabei per Trenitalia-Fähre die Straße von Messina.
 
 ## Anreise und Grenzpunkte
 
@@ -36,7 +36,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | Fähre (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
 \
-[>] = In Richtung (z.B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
+[>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
 {{% /expander %}}
 
 ### Slowenien

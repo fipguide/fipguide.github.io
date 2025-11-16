@@ -5,11 +5,12 @@ description: "Information about FIP conditions for France and which operators of
 country: "france"
 params:
   operators_without_fip:
-    - Transdev
-    - RATP
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Railways in Corsica)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#international-frecciarossa-trains-to-paris" >}} "Frecciarossa (Trenitalia)")'
+    - Getlink (Eurotunnel LeShuttle)
+    - RATP
+    - Transdev
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
 ---
 
 ## FIP Information
@@ -46,6 +47,8 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 
 Cross-border connections from the UK are operated by [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"), running from London through the Channel Tunnel to Lille and Paris. FIP Global Fares are available for these routes.
 
+From Folkestone, there is also the LeShuttle Motorail train through the Eurotunnel, but no FIP discount is granted for this service. In addition, there are various ferry connections between France and the United Kingdom, but no FIP discount is granted for these either.
+
 ### Belgium
 
 From Belgium, SNCF operates international `TGV` trains from Brussels to Paris. Expensive FIP Global Fare tickets are required for these. There is also a OuiGo service from Brussels to Paris, which cannot be used with FIP.
@@ -79,7 +82,7 @@ The Deutschlandticket, a cheap option for regional travel in Germany, is also va
 
 From Switzerland, cross-border TGV trains run from Zurich via Basel to France. In Switzerland, these can be used without reservation with FIP 50 Tickets or SBB FIP Coupon. For cross-border connections, a FIP Global Fare must be purchased, see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Cross-border TGV inOui / ICE trains").
 
-There are also various cross-border regional train connections.
+There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
 In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF. SNCF FIP Coupons are also valid in the Swiss section on Léman Express trains.
 
@@ -95,7 +98,7 @@ SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco
 
 Direct `TGV` trains operated by the French SNCF run from Barcelona to Paris. Renfe also operates cross-border services between Barcelona and Lyon as well as Madrid and Marseille.
 
-For both, FIP Global Fares are available, but these can be very expensive when purchased from SNCF—see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains"). For trains operated by Renfe, the same fares apply as for domestic AVE trains in Spain, but these tickets are only available at Renfe ticket counters in Spain. It should also be possible to buy them on board when boarding in France, but there is no practical experience with this yet.
+FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain. [^1]
 
 With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
 
@@ -106,3 +109,5 @@ Overall, there are very few cross-border connections, which were much better dev
 ### Monaco
 
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
+
+[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)

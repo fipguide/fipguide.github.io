@@ -110,7 +110,7 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` 
 Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncb-website"
-    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
+    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien mit FIP Freifahrtschein."
 /%}}
 
 {{% booking id="db-website-fip-db"

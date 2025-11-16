@@ -13,7 +13,8 @@ params:
 ---
 
 {{% booking-section "reservations" %}}
-**Reservierungen und Aufschläge:**
+
+## Reservierungen
 
 An Trenitalia Fahrkartenautomaten können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden.
 

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Deutsche Bahn Website"
+title: "DB Website"
 description: "Booking information for Deutsche Bahn Website."
 params:
   classes:

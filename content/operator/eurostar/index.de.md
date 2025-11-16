@@ -5,6 +5,8 @@ description: "Informationen über die FIP-Bedingungen bei Eurostar."
 country:
   - "belgium"
   - "netherlands"
+  - "united-kingdom"
+  - "france"
 operator: "eurostar"
 booking:
   - "internationalrail-email"
@@ -92,7 +94,7 @@ Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchec
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="internationalrail-email" /%}}
+{{% booking id="internationalrail-email" fip_50=nil /%}}
 
 {{% booking id="trainseurope-email" /%}}
 

@@ -107,13 +107,15 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% highlight important %}}
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
-{{% /highlight %}}
-
 ## Achat de billets et réservations
 
 ### En ligne
+
+Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
+
+{{% booking id="sncb-website"
+  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
+/%}}
 
 {{% booking id="db-website"
     subtitle="Pour les connexions ICE et IC transfrontalières"

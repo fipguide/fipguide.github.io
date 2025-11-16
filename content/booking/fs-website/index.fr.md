@@ -15,7 +15,8 @@ params:
 ---
 
 {{% booking-section "reservations" %}}
-**Réservations et suppléments :**
+
+## Réservations
 
 Sur le site web de Trenitalia, il est possible d’acheter des réservations et des suppléments pour le Billet FIP pour Le Frecce et autres trains longue distance.
 

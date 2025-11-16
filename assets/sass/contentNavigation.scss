@@ -5,21 +5,19 @@
   font-size: 1.4rem;
   line-height: 1.5;
   margin-right: 0;
-  z-index: 3;
+  z-index: 8;
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
   flex-wrap: wrap;
   height: fit-content;
 
-  ul,
-  ol {
+  ul {
     list-style-type: none;
     list-style-position: outside;
     padding-left: 0;
 
-    ul,
-    ol {
+    ul {
       margin-bottom: 0;
     }
   }
@@ -54,31 +52,39 @@
     list-style-type: none;
   }
 
-  ol {
+  ul {
     padding: 0 0 0 1em;
   }
 
-  > ol {
+  ul a[data-current]::before {
+    left: -2.1rem;
+  }
+
+  ul ul a[data-current]::before {
+    left: calc(-1em - 2.1rem);
+  }
+
+  a[data-current] {
+    font-weight: bold;
+    position: relative;
+
+    &:before {
+      content: "";
+      width: 0.4rem;
+      height: 2.1rem;
+      position: absolute;
+      display: flex;
+      background-color: var(--link-default);
+    }
+  }
+
+  > ul {
     padding-left: 0;
   }
 }
 
 .o-aside__toc-link {
   display: flex;
-}
-
-.o-aside__toc a[data-current] {
-  font-weight: bold;
-
-  &:before {
-    content: "";
-    width: 0.4rem;
-    height: 2.1rem;
-    position: absolute;
-    display: flex;
-    left: 0;
-    background-color: var(--link-default);
-  }
 }
 
 .o-related {
@@ -144,8 +150,6 @@
       background: var(--bg-default);
       overflow-y: scroll;
       overscroll-behavior-y: contain;
-      border-left: var(--border);
-      border-right: var(--border);
 
       .o-single__container {
         border: none;
@@ -162,8 +166,10 @@
       flex-direction: column;
       gap: 1.5rem;
       width: 100%;
-      border: var(--border);
+      border-top: var(--border);
       border-bottom: 1px solid #3d444d;
+      border-left: none;
+      border-right: none;
       padding: 1rem;
       height: 6.4rem;
       border-radius: 1rem 1rem 0 0;

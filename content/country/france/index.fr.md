@@ -5,11 +5,12 @@ description: "Informations sur les conditions FIP pour la France et les opérate
 country: "france"
 params:
   operators_without_fip:
-    - Transdev
-    - RATP
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Chemins de fer corses)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#trains-frecciarossa-internationaux-vers-paris" >}} "Frecciarossa (Trenitalia)")'
+    - Getlink (Eurotunnel LeShuttle)
+    - RATP
+    - Transdev
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
 ---
 
 ## Informations FIP
@@ -46,6 +47,8 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 
 Les liaisons transfrontalières depuis le Royaume-Uni sont exploitées par [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"). Elles relient Londres à Lille et Paris via le tunnel sous la Manche. Les Tarifs Globaux FIP sont disponibles pour ces liaisons.
 
+Depuis Folkestone, il existe également le train auto LeShuttle à travers le tunnel sous la Manche, mais aucune réduction FIP n’est accordée. Il existe aussi différentes liaisons par ferry entre la France et le Royaume-Uni, mais aucune réduction FIP n’y est proposée.
+
 ### Belgique
 
 Depuis la Belgique, la SNCF exploite des trains internationaux `TGV` entre Bruxelles et Paris. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OuiGo entre Bruxelles et Paris, qui n’est pas accessible avec FIP.
@@ -79,7 +82,7 @@ Le Deutschlandticket, une option économique pour le trafic régional allemand, 
 
 Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "TGV inOui / ICE transfrontaliers").
 
-Il existe aussi plusieurs liaisons régionales transfrontalières.
+Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
 Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF. Les Coupons FIP SNCF sont aussi valables sur le tronçon suisse dans les trains Léman Express.
 
@@ -95,7 +98,7 @@ Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia
 
 Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
 
-Pour ces deux opérateurs, des Tarifs Globaux FIP sont disponibles, mais ceux de la SNCF peuvent être très coûteux, voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux"). Pour les trains exploités par Renfe, les mêmes tarifs que pour les AVE nationaux en Espagne s’appliquent, mais ces billets ne sont disponibles qu’aux guichets Renfe en Espagne. Il devrait également être possible d’acheter un billet à bord lors de la montée en France, mais il n’existe pas encore de retour d’expérience à ce sujet.
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. [^1]
 
 Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
 
@@ -106,3 +109,5 @@ Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en
 ### Monaco
 
 Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
+
+[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)

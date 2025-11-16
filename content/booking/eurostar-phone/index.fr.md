@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Eurostar – Réservation par téléphone"
+title: "Téléphone Eurostar"
 description: "Informations de réservation via la hotline Eurostar."
 
 params:
