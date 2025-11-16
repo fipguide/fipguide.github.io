@@ -1,10 +1,15 @@
 {{ $pageType := .pageType | default .index }}
+{{ $related := slice }}
 
 {{ if eq $pageType "booking" }}
   {{ $slug := .page.File.ContentBaseName }}
   {{ $operators := where .page.Site.RegularPages "Type" "operator" }}
-  {{ $related := where $operators "Params.booking" "intersect" (slice $slug) }}
+  {{ $related = where $operators "Params.booking" "intersect" (slice $slug) }}
+{{ else }}
+  {{ $related = where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
+{{ end }}
 
+{{ if gt (len $related) 0 }}
 <h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
 <ul
   class="o-related__list"
@@ -13,7 +18,13 @@
   {{ range $related }}
   <li class="o-related__item">
     {{ $text := .LinkTitle }}
+    {{ if eq .Page.Type "news" }}
+    {{ $text = print (partial "icon" "newspaper") $text }}
+    {{ else if or (eq .Page.Type "operator") (eq .Page.Type "booking") }}
     {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
+    {{ else if eq .Page.Type "country" }}
+    {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
+    {{ end }}
 
     {{ partial "internal_link" (
     dict
@@ -21,42 +32,13 @@
     "Text" ($text | .Page.RenderString)
     )
     }}
+
+    {{ if eq .Page.Type "news" }}
+    <span class="o-related__date"
+    >{{ .Date | time.Format ":date_long" }}</span
+    >
+    {{ end }}
   </li>
   {{ end }}
 </ul>
-{{ else }}
-  {{ $related := where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
-  {{ if gt (len $related) 0 }}
-  <h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
-  <ul
-    class="o-related__list"
-    aria-labelledby="o-related__title-{{ .identifier }}"
-  >
-    {{ range $related }}
-    <li class="o-related__item">
-      {{ $text := .LinkTitle }}
-      {{ if eq .Page.Type "news" }}
-      {{ $text = print (partial "icon" "newspaper") $text }}
-      {{ else if or (eq .Page.Type "operator") (eq .Page.Type "booking") }}
-      {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
-      {{ else if eq .Page.Type "country" }}
-      {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
-      {{ end }}
-
-      {{ partial "internal_link" (
-      dict
-      "Destination" .RelPermalink
-      "Text" ($text | .Page.RenderString)
-      )
-      }}
-
-      {{ if eq .Page.Type "news" }}
-      <span class="o-related__date"
-      >{{ .Date | time.Format ":date_long" }}</span
-      >
-      {{ end }}
-    </li>
-    {{ end }}
-  </ul>
-  {{ end }}
 {{ end }}
