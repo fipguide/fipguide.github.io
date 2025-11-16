@@ -1,5 +1,6 @@
 {{- $data := dict
   "title" (.Get "title")
+  "type" (default "regional" (.Get "type"))
   "fip_accepted" (default true (.Get "fip_accepted"))
   "reservation_required" (default false (.Get "reservation_required"))
   "reservation_possible" (default false (.Get "reservation_possible"))
