@@ -35,6 +35,9 @@ highlight:
   inofficial: Informations non officielles
   tip: Conseil personnel
 home-page-text: Page d'accueil du FIP Guide
+identify-operator:
+  learn-more: Vers le site Web
+  title: Identifier les opérateurs de trains
 information-disclaimer-short: >-
   Les informations fournies sont non officielles et sans garantie. Il n'existe
   aucun lien juridique avec le FIP ou les compagnies ferroviaires.
@@ -78,9 +81,6 @@ menu:
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
-operator-search:
-  learn-more: Vers le site Web
-  title: Identifier les opérateurs de trains
 operators_without_fip: Opérateurs sans FIP
 related:
   countries: Pays associés

@@ -36,6 +36,9 @@ highlight:
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
 home-page-text: FIP Guide Startseite
+identify-operator:
+  learn-more: Zur Website
+  title: Zugbetreiber identifizieren
 information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
   rechtliche Verbindung zu FIP oder Bahngesellschaften.
@@ -79,9 +82,6 @@ menu:
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
-operator-search:
-  learn-more: Zur Website
-  title: Zugbetreiber identifizieren
 operators_without_fip: Betreiber ohne FIP
 related:
   countries: Verwandte Länder

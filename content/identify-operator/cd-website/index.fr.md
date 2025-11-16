@@ -1,6 +1,7 @@
 ---
 title: "DB Website"
-url: "https://example.com/fr/plus"
+params:
+  url: "https://example.com/fr/plus"
 ---
 
 Bienvenue sur notre page française!
