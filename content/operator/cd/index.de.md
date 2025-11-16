@@ -5,7 +5,7 @@ description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD).
 country:
   - "czechia"
 operator: "cd"
-booking: 
+booking:
   - "cd-website"
   - "db-website-fip-db"
   - "db-website-fip-international"

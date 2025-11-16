@@ -6,7 +6,7 @@ country:
   - "austria"
   - "liechtenstein"
 operator: "oebb"
-booking: 
+booking:
   - "oebb-website"
   - "db-website"
   - "db-website-fip-db"

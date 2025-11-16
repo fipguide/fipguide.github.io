@@ -8,35 +8,35 @@
 {{ end }}
 
 {{ if gt (len $related) 0 }}
-<h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
-<ul
-  class="o-related__list"
-  aria-labelledby="o-related__title-{{ .identifier }}"
->
-  {{ range $related }}
-  <li class="o-related__item">
-    {{ $text := .LinkTitle }}
-    {{ if eq .Page.Type "news" }}
-    {{ $text = print (partial "icon" "newspaper") $text }}
-    {{ else if or (eq .Page.Type "operator") (eq .Page.Type "booking") }}
-    {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
-    {{ else if eq .Page.Type "country" }}
-    {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
-    {{ end }}
+  <h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
+  <ul
+    class="o-related__list"
+    aria-labelledby="o-related__title-{{ .identifier }}"
+  >
+    {{ range $related }}
+      <li class="o-related__item">
+        {{ $text := .LinkTitle }}
+        {{ if eq .Page.Type "news" }}
+          {{ $text = print (partial "icon" "newspaper") $text }}
+        {{ else if or (eq .Page.Type "operator") (eq .Page.Type "booking") }}
+          {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
+        {{ else if eq .Page.Type "country" }}
+          {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
+        {{ end }}
 
-    {{ partial "internal_link" (
-    dict
-    "Destination" .RelPermalink
-    "Text" ($text | .Page.RenderString)
-    )
-    }}
+        {{ partial "internal_link" (
+          dict
+          "Destination" .RelPermalink
+          "Text" ($text | .Page.RenderString)
+          )
+        }}
 
-    {{ if eq .Page.Type "news" }}
-    <span class="o-related__date"
-    >{{ .Date | time.Format ":date_long" }}</span
-    >
+        {{ if eq .Page.Type "news" }}
+          <span class="o-related__date"
+            >{{ .Date | time.Format ":date_long" }}</span
+          >
+        {{ end }}
+      </li>
     {{ end }}
-  </li>
-  {{ end }}
-</ul>
+  </ul>
 {{ end }}
