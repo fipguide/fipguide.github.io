@@ -14,23 +14,56 @@
         {{- end }}
       </div>
       <div class="o-booking__meta">
-        {{- if ne .reservations "nil" -}}
-          <div>
-            {{- T "booking.reservation" }}
-            {{ if .reservations -}}✅{{- else -}}⛔{{- end -}}
-          </div>
+        {{- if eq .reservations true -}}
+          {{- partial "tag" (
+            dict
+            "Icon" "confirmation_number"
+            "Text" "booking.reservation-bookable"
+            "Type" "success"
+            )
+          -}}
+        {{ else if eq .reservations false -}}
+          {{- partial "tag" (
+            dict
+            "Icon" "credit_card_off"
+            "Text" "booking.reservation-not-bookable"
+            "Type" "error"
+            )
+          -}}
         {{- end -}}
-        {{- if ne .fip_50 "nil" -}}
-          <div>
-            {{- T "booking.fip-50" }}
-            {{ if .fip_50 -}}✅{{- else -}}⛔{{- end -}}
-          </div>
+        {{- if eq .fip_50 true -}}
+          {{- partial "tag" (
+            dict
+            "Icon" "confirmation_number"
+            "Text" "booking.fip-50-bookable"
+            "Type" "success"
+            )
+          -}}
+        {{ else if eq .fip_50 false -}}
+          {{- partial "tag" (
+            dict
+            "Icon" "credit_card_off"
+            "Text" "booking.fip-50-not-bookable"
+            "Type" "error"
+            )
+          -}}
         {{- end -}}
-        {{- if ne .fip_global_fare "nil" -}}
-          <div>
-            {{- T "booking.fip-global-fare" }}
-            {{ if .fip_global_fare -}}✅{{- else -}}⛔{{- end -}}
-          </div>
+        {{- if eq .fip_global_fare true -}}
+          {{- partial "tag" (
+            dict
+            "Icon" "confirmation_number"
+            "Text" "booking.fip-global-fare-bookable"
+            "Type" "success"
+            )
+          -}}
+        {{ else if eq .fip_global_fare false -}}
+          {{- partial "tag" (
+            dict
+            "Icon" "credit_card_off"
+            "Text" "booking.fip-global-fare-not-bookable"
+            "Type" "error"
+            )
+          -}}
         {{- end -}}
       </div>
       <div class="o-booking__classes">

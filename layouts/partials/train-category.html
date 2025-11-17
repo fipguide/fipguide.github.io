@@ -15,56 +15,83 @@
       </div>
       <div class="o-train-category__tags">
         {{- if eq .fip_accepted true -}}
-          <span class="o-train-category__tag o-train-category__tag--success">
-            {{ partial "icon" "check_circle" }}
-            {{ i18n "trainCategory.acceptance.accepted" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "check_circle"
+            "Text" "trainCategory.acceptance.accepted"
+            "Type" "success"
+            )
+          }}
         {{- else if eq .fip_accepted "partially" -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "info" }}
-            {{ i18n "trainCategory.acceptance.partiallyAccepted" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "info"
+            "Text" "trainCategory.acceptance.partiallyAccepted"
+            "Type" "warning"
+            )
+          }}
         {{- else -}}
-          <span class="o-train-category__tag o-train-category__tag--error">
-            {{ partial "icon" "dangerous" }}
-            {{ i18n "trainCategory.acceptance.notAccepted" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "dangerous"
+            "Text" "trainCategory.acceptance.notAccepted"
+            "Type" "error"
+            )
+          }}
         {{- end -}}
 
         {{- if eq .reservation_required true -}}
-          <span class="o-train-category__tag o-train-category__tag--error">
-            {{ partial "icon" "calendar_add_on" }}
-            {{ i18n "trainCategory.reservation.required" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_add_on"
+            "Text" "trainCategory.reservation.required"
+            "Type" "error"
+            )
+          }}
         {{- else if eq .reservation_required "partially" -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "calendar_add_on" }}
-            {{ i18n "trainCategory.reservation.partiallyRequired" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_add_on"
+            "Text" "trainCategory.reservation.partiallyRequired"
+            "Type" "warning"
+            )
+          }}
         {{- else if eq .reservation_possible true -}}
-          <span class="o-train-category__tag o-train-category__tag--info">
-            {{ partial "icon" "calendar_check" }}
-            {{ i18n "trainCategory.reservation.possible" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_check"
+            "Text" "trainCategory.reservation.possible"
+            "Type" "info"
+            )
+          }}
         {{- else if eq .reservation_possible false -}}
-          <span class="o-train-category__tag o-train-category__tag--info">
-            {{ partial "icon" "calendar_lock" }}
-            {{ i18n "trainCategory.reservation.notPossible" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_lock"
+            "Text" "trainCategory.reservation.notPossible"
+            "Type" "info"
+            )
+          }}
         {{- end -}}
 
         {{- if .risk_of_confusion -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "question_exchange" }}
-            {{ i18n "trainCategory.riskOfConfusion" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "question_exchange"
+            "Text" "trainCategory.riskOfConfusion"
+            "Type" "warning"
+            )
+          }}
         {{- end -}}
 
         {{- if .important_info -}}
-          <span class="o-train-category__tag o-train-category__tag--warning">
-            {{ partial "icon" "campaign" }}
-            {{ i18n "trainCategory.importantInformation" }}
-          </span>
+          {{ partial "tag" (
+            dict
+            "Icon" "campaign"
+            "Text" "trainCategory.importantInformation"
+            "Type" "warning"
+            )
+          }}
         {{- end -}}
       </div>
     </div>

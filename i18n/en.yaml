@@ -8,9 +8,15 @@ booking:
     second: 2nd Class
   fee: Booking Fee
   fip-50: FIP 50 Tickets
+  fip-50-bookable: FIP 50 Tickets bookable
+  fip-50-not-bookable: FIP 50 Tickets not bookable
   fip-global-fare: FIP Global Fare
+  fip-global-fare-bookable: FIP Global Fare bookable
+  fip-global-fare-not-bookable: FIP Global Fare not bookable
   reservation: Reservation
+  reservation-bookable: Reservation bookable
   reservation-costs: Reservation Costs
+  reservation-not-bookable: Reservation not bookable
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
 contentNavigation:

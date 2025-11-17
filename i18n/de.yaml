@@ -9,9 +9,15 @@ booking:
     second: 2. Klasse
   fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
+  fip-50-bookable: FIP 50 Fahrkarten buchbar
+  fip-50-not-bookable: FIP 50 Fahrkarten nicht buchbar
   fip-global-fare: FIP Globalpreis
+  fip-global-fare-bookable: FIP Globalpreis buchbar
+  fip-global-fare-not-bookable: FIP Globalpreis nicht buchbar
   reservation: Reservierung
+  reservation-bookable: Reservierung buchbar
   reservation-costs: Reservierungskosten
+  reservation-not-bookable: Reservierung nicht buchbar
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
 contentNavigation:

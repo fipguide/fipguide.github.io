@@ -1,0 +1,18 @@
+.a-tag {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: var(--border-radius-s);
+  font-size: 0.7em;
+  font-weight: 500;
+  white-space: nowrap;
+
+  @each $name, $color in $tag-colors {
+    &--#{$name} {
+      background: var(--tag-#{$name}-bg);
+      color: var(--tag-#{$name}-color);
+      border: 0.1rem solid var(--tag-#{$name}-border);
+    }
+  }
+}
