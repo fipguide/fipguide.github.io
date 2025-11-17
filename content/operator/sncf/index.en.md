@@ -237,7 +237,7 @@ This validation requirement does not apply to FIP Coupons.
 {{% train-category
   title="TGV/ICE trains to Germany"
   type="highspeed"
-  fip_accepted=partially
+  fip_accepted=true
   reservation_required=partially
 %}}
 International `TGV` and `ICE` trains are reservation-required in the French section. In Germany, reservations are not required and FIP Coupons are valid.
@@ -271,6 +271,7 @@ RATP operates the Paris Métro, bus lines, and part of the tram and RER networks
   title="RER trains"
   type="regional"
   fip_accepted=partially
+  reservation_possible=nil
 %}}
 Some RER lines are operated by SNCF. FIP discounts apply on the following sections:
 
@@ -287,6 +288,7 @@ Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-
   title="Transilien trains"
   type="regional"
   fip_accepted=true
+  reservation_possible=nil
 %}}
 FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
 {{% /train-category %}}
@@ -295,6 +297,7 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
   title="Trams"
   type="tram"
   fip_accepted=partially
+  reservation_possible=nil
 %}}
 Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis; FIP validity is unclear. FIP discounts do not apply on other tram lines.
 {{% /train-category %}}

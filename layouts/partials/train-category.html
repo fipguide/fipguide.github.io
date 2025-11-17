@@ -46,7 +46,7 @@
             {{ partial "icon" "calendar_check" }}
             {{ i18n "trainCategory.reservation.possible" }}
           </span>
-        {{- else -}}
+        {{- else if eq .reservation_possible false -}}
           <span class="o-train-category__tag o-train-category__tag--info">
             {{ partial "icon" "calendar_lock" }}
             {{ i18n "trainCategory.reservation.notPossible" }}
