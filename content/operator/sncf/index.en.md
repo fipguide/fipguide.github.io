@@ -249,7 +249,7 @@ International `TGV` and `ICE` trains are reservation-required in the French sect
   fip_accepted=partially
   reservation_required=true
 %}}
-International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130). [^1]
+International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130).
 {{% /train-category %}}
 
 {{% train-category
