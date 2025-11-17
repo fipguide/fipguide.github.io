@@ -1,12 +1,14 @@
-<details class="o-expander o-expander--booking">
+<details class="o-expander o-expander--train-category">
   <summary class="o-expander__summary o-expander__summary--train-category">
     <div class="o-train-category__header">
       <div class="o-train-category__title">
         {{ $iconMapping := dict
           "highspeed" "train"
           "regional" "directions_subway"
+          "sleeper" "airline_seat_flat"
           "funicular" "funicular"
           "bus" "directions_bus"
+          "tram" "tram"
         }}
         {{- partial "icon" (index $iconMapping .type) -}}
         <span class="o-train-category__title-text">{{- .title -}}</span>
@@ -34,7 +36,7 @@
             {{ partial "icon" "calendar_add_on" }}
             {{ i18n "trainCategory.reservation.required" }}
           </span>
-        {{- else if eq .reservation_required true -}}
+        {{- else if eq .reservation_required "partially" -}}
           <span class="o-train-category__tag o-train-category__tag--warning">
             {{ partial "icon" "calendar_add_on" }}
             {{ i18n "trainCategory.reservation.partiallyRequired" }}
@@ -69,7 +71,7 @@
     {{- partial "icon" "keyboard_arrow_down" -}}
   </summary>
   <hr aria-hidden="true" />
-  <div class="o-expander__content">
+  <div class="o-expander__content o-train-category__content">
     {{- .content -}}
     {{- if .route_overview_url -}}
       {{- partial "button"
