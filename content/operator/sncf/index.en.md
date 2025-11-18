@@ -53,7 +53,7 @@ SNCF also operates low-cost `TGV` trains under the name OuiGo, which are not val
 {{% /highlight %}}
 
 {{% highlight important %}}
-Special conditions apply for international connections, see International TGV inOui / ICE trains section below.
+Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 {{% /highlight %}}
 
 ### Reservation
@@ -90,6 +90,10 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
 %}}
 International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Stuttgart, Munich).
 
+{{% highlight important %}}
+Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
+{{% /highlight %}}
+
 ### Reservation
 
 Prices differ between peak and off-peak trains. The classification is not publicly available.
@@ -105,7 +109,7 @@ Prices differ between peak and off-peak trains. The classification is not public
   title="Intercité (IC)"
   type="highspeed"
   fip_accepted=true
-  reservation_required=true
+  reservation_required=partially
 %}}
 Intercity trains operated by SNCF, connecting various cities in France, mostly requiring reservations.
 
@@ -142,17 +146,29 @@ Cost depends on route and occupancy.
   title="Train express régional (TER)"
   type="regional"
   fip_accepted=true
-  reservation_possible=true
+  reservation_required=partially
+  risk_of_confusion=true
 %}}
 `TER` is SNCF's regional train, connecting various cities in France.
+Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains).
+
+{{% highlight confusion %}}
+On the Marseille – Toulon – Nice route, FIP is not valid as `TER` trains are operated by Transdev.
+{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
   title="Réseau Express Régional (RER)"
   type="regional"
-  fip_accepted=true
+  fip_accepted=partially
+  reservation_possible=false
+  important_info=true
 %}}
 RER is a suburban train operated by SNCF in Île de France (Greater Paris) and surrounding cities.
+
+{{% highlight important %}}
+FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in-greater-paris)
+{{% /highlight %}}
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
