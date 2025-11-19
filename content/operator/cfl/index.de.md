@@ -112,16 +112,14 @@ In der zweiten Klasse ist die Fahrt generell kostenfrei möglich, daher ist dies
 
 ### CFL Bus Luxemburg - Saarbrücken
 
-Innerhalb Luxemburgs kann der CFL Bus kostenfrei und ohne Ticket genutzt werden. Für grenzüberschreitende Fahrten nach Deutschland (z. B: nach Saarbrücken) ist jedoch eine Fahrkarte ab der Grenze erforderlich. Im deutschen Abschnitt wird kein FIP anerkannt. Allerdings gilt in diesem Abschnitt das _Deutschlandticket_.[^2]
+Im Expressbus der CFL zwischen Luxemburg und Saarbrücken ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/saarbrueckenexpress/1000) eingesehen werden. \
+Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informationen bekannt.
 
-## Empfehlungen
+### CFL Bus Lorraine Express
 
-{{% highlight tip %}}
-Mit der Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise auch schöne Berge zum Beispiel in Clervaux. Von dieser Hauptstrecke zweigen auch einige Nebenbahnen ab, die sich für schöne und eher langsamere Fahrten abseits der Hauptstrecke empfehlen z. B. zwischen Kautenbach und Wiltz.
-{{% /highlight %}}
+Die CFL betreibt einen Expressbus zwischen Luxemburg und dem Bahnhof _Lorraine TGV_ in Frankreich als `TGV` Zubringer. In diesem Bus ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/gare-lorraine) eingesehen werden. Die Busse sind reservierungspflichtig und ein Ticket kann bis zu 2,5 Stunden vor Abfahrt des Busses erworben werden. \
+Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informationen bekannt.
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
-
-[^2]: [CFL Bus Luxemburg Saarbrücken Deutschlandticket](https://www.vrt-info.de/aktuelles/EOM-Ticket-De-Lux)

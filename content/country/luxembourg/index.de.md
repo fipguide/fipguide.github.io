@@ -3,9 +3,6 @@ draft: false
 title: "Luxemburg"
 description: "Informationen über die FIP-Bedingungen für Luxemburg und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "luxembourg"
-params:
-  operators_without_fip:
-    -  # Liste Betreiber, die kein FIP akzeptieren
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -14,31 +11,13 @@ params:
 
 ## FIP Nutzung
 
-<!--
-    Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
-    - Welche FIP Fahrtkarten (FIP 50/FIP Freifahrtscheine) werden im Land anerkannt und bei welchen Bahngesellschaften?
-    - Welche Besonderheiten bei der Nutzung von FIP gibt es bei den jeweiligen Bahngesellschaften? (Verlinkung zur Bahngesellschaft hinzufügen)
-    - Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft?
--->
+In Luxemburg ist der komplette öffentliche Nahverkehr kostenlos. Daher werden FIP 50 Tickets und Freifahrtscheine der CFL nur für Fahrten in der ersten Klasse oder für grenzüberschreitende Verbindungen benötigt. Die `TGV` Verbindungen von/nach Frankreich können mit FIP Freifahrtschein der CFL nicht für Fahrten ind Luxemburg genutzt werden. Stattdessen müssen hier teure FIP Globalpreistickets gekauft werden.
 
 ## Wissenswertes
 
-<!--
-    Ein kurzer Abschnitt über die allgemeine Zugsituation im Land. Folgende Themen können bspw. behandelt werden:
-    - Ausbaustand des Bahnnetzes
-    - wichtige Verbindungen
-    - Qualität und Zustand der Züge
-    - Pünktlichkeit
-    - Taktung
-    - Besondere Züge/Strecken/Linien
-    - Schöne Bahnhöfe
--->
+Mit der Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise auch schöne Berge zum Beispiel in Clervaux. Von dieser Hauptstrecke zweigen auch einige Nebenbahnen ab, die sich für schöne und eher langsamere Fahrten abseits der Hauptstrecke empfehlen z. B. zwischen Kautenbach und Wiltz.
 
 ## Anreise und Grenzpunkte
-
-<!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
--->
 
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
@@ -51,16 +30,16 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 
 ### Belgien
 
-Von Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+Von Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt. \
+Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
 
 ### Deutschland
 
-Von Deutschland aus verkehren grenzüberschreitende Regionalzüge von Koblenz / Wittlich / Trier nach Luxemburg. Für den Abschnitt in Deutschland ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
-Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Düsseldorf nach Luxemburg. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug geführt.
+Von Deutschland aus verkehren grenzüberschreitende Regionalzüge von Koblenz / Wittlich / Trier nach Luxemburg. Für den Abschnitt in Deutschland ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich. \
+Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Düsseldorf nach Luxemburg. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug der DB geführt. \
+Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
 
 ### Frankreich
 
-Aus Paris betreibt die SNCF internationale `TGV` Züge von Paris nach Luxemburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Frankreich nach Luxemburg über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten FIP Tickets der SNCF und ab dem Grenzpunkt normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt.
-{{% highlight tip %}}
-Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein Freifahrtschein der CFL nicht unbedingt erforderlich. Bei der Fahrt von Frankreich muss aber ein grenzüberschreitendes Ticket (z. B. ein FIP 50 Ticket) vorhanden sein.
-{{% /highlight %}}
+Die SNCF betreibt internationale `TGV` Züge unteranderem von Paris, Strasbourg, Lyon, Montpellier, Marseille nach Luxemburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Frankreich nach Luxemburg über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten FIP Tickets der SNCF und ab dem Grenzpunkt normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt. \
+Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
