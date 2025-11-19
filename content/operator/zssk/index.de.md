@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ZSSK / ZSR"
-description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK."
+description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "slovakia"
 operator: "zssk"
@@ -14,10 +14,10 @@ Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber Z
 
 ## Zusammenfassung
 
-- ZSSK akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht in `IC` und `SC` Zügen
-- Reservierungspflicht in der 1. Klasse in allen Zügen
-- Angebote für kostenfreie Fahrten für bestimmte Gruppen (Kinder zwischen 6 und 16, Studenten bis 26 und Rentner ab 62 Jahren) unabhängig von FIP
+- ZSSK akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Reservierungspflicht in `IC` und `SC` Zügen.
+- Reservierungspflicht in der 1. Klasse in allen Zügen.
+- Angebote für kostenfreie Fahrten für bestimmte Gruppen (Kinder zwischen 6 und 16, Studenten bis 26 und Rentner ab 62 Jahren) unabhängig von FIP.
 
 ## Gültigkeit FIP Tickets
 
@@ -38,7 +38,7 @@ Reservierungspflicht für `SC` und `IC` Züge. Andere ZSSK Züge erfordern nur e
 Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** Ab 7€ \
+**Kosten für Reservierung:** Ab 7 € \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -48,7 +48,7 @@ _Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen ein
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** Ab 7€ \
+**Kosten für Reservierung:** Ab 7 € \
 Abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 {{% /expander %}}
 
@@ -116,14 +116,14 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1€ Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1€ in der 2. und 3€ in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
+Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1 € in der 2. Klasse und 3 € in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
 
 ### Kostenfreie Fahrten für 6–16-Jährige (ohne FIP)
 
-Um eine kostenfreie Fahrt für Kinder zwischen 6 und 16 Jahren zu erhalten, muss am Schalter ein Foto (2x3cm) sowie ein Identitätsnachweis (oder Geburtsurkunde plus Ausweis eines Elternteils) vorgelegt werden. Die Bearbeitung dauert bis zu drei Werktage, danach wird eine Bescheinigung ausgestellt, die im Zug vorgezeigt werden muss. Das kostenfreie Ticket (€0) kann anschließend auf der ZSSK-Website gebucht werden, indem „Begünstigter des 100%-Rabattes“ ausgewählt wird.
+Um eine kostenfreie Fahrt für Kinder zwischen 6 und 16 Jahren zu erhalten, muss am Schalter ein Foto (2x3cm) sowie ein Identitätsnachweis (oder Geburtsurkunde plus Ausweis eines Elternteils) vorgelegt werden. Die Bearbeitung dauert bis zu drei Werktage, danach wird eine Bescheinigung ausgestellt, die im Zug vorgezeigt werden muss. Das kostenfreie Ticket (0 €) kann anschließend auf der ZSSK-Website gebucht werden, indem „Begünstigter des 100%-Rabattes“ ausgewählt wird.
 
-In `EC` Zügen: Zuschlag von 1 € pro Kind \
-In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
+In `EC` Zügen: Zuschlag von 1 € pro Kind \
+In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
 In `IC` Zügen: Zuschlag mit obligatorischer Reservierung
 
 ### Kostenfreie Fahrten für Studenten und Senioren (ohne FIP)

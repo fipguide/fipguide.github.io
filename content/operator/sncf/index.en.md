@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCF"
-description: "Information about FIP conditions at SNCF."
+description: "Information about FIP conditions at SNCF: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "france"
   - "monaco"
@@ -16,11 +16,11 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 
 ## Summary
 
-- Reservations are always required for long-distance trains (`TGV` inOui and Intercités)
-- FIP discounts are not valid on OuiGo trains
-- Some suburban trains and tram lines in Paris can be used under special conditions
-- Global fares apply for international long-distance trains
-- FIP discounts also apply on SNCF buses (except long-distance buses)
+- Reservations are always required for long-distance trains (`TGV` inOui and Intercités).
+- FIP discounts are not valid on OuiGo trains.
+- Some suburban trains and tram lines in Paris can be used under special conditions.
+- Global fares apply for international long-distance trains.
+- FIP discounts also apply on SNCF buses (except long-distance buses).
 
 ## Validity of FIP Tickets
 
@@ -113,6 +113,8 @@ RER is a suburban train operated by SNCF in Île de France (Greater Paris) and s
 ## Ticket and Reservation Purchase
 
 ### Online
+
+Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="db-website-fip-db"
   subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."

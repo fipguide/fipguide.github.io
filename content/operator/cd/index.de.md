@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ČD"
-description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD)."
+description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD): Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "czechia"
 operator: "cd"
@@ -108,7 +108,7 @@ Nahverkehrszüge mit Halt an allen Bahnhöfen, die häufig nur über die 2. Klas
 Nachtzüge verbinden Tschechien mit Deutschland, Östereich, Polen, der Schweiz, der Slowakei und Ungarn. Die Züge bieten Schlaf-, Liege- und Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben. [Weitere Informationen und Streckennetz](https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/)
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden. \
-⚠️ Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar. \
+⚠️ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:** ja \
@@ -123,11 +123,11 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
 ### Vor Ort

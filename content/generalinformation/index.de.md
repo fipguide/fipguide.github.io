@@ -8,7 +8,7 @@ Hier findest du übergreifende Informationen zum FIP Guide.
 ## Was ist FIP?
 
 FIP steht für _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. Es ist die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals.
-Mit dieser internationalen Ermäßigungskarte für Eisenbahnpersonal können Mitarbeiterinnen und Mitarbeiter zu vergünstigten Konditionen in Europa beispielsweise Züge, Schiffe und Busse nutzen.
+Mit dieser internationalen Ermäßigungskarte für Eisenbahnpersonal können Mitarbeitende zu vergünstigten Konditionen in Europa beispielsweise Züge, Schiffe und Busse nutzen.
 In diesem Projekt sind Informationen und Nutzungshinweise zu FIP sowie Besonderheiten zu den jeweiligen beteiligten Bahngesellschaften aufgeführt.
 
 ## Welche Vergünstigungen erhalte ich durch FIP?
@@ -22,7 +22,7 @@ Die genauen Regelungen findest du auf den Unterseiten der [Betreiber]({{< ref "o
 
 ## Wie kann ich FIP in Anspruch nehmen?
 
-Mitarbeiterinnen und Mitarbeiter eines FIP-Mitglieds sind nach 12 Monaten Betriebszugehörigkeit berechtigt, FIP-Einrichtungen zu nutzen.
+Mitarbeitende eines FIP-Mitglieds sind nach 12 Monaten Betriebszugehörigkeit berechtigt, FIP-Einrichtungen zu nutzen.
 Bitte wende dich für die Beantragung und Inanspruchnahme an deine Personalabteilung.
 
 ## Wer steckt hinter dem FIP Guide?

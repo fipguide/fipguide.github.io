@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Informations sur les conditions FIP à la SNCB."
+description: "Informations sur les conditions FIP à la SNCB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
 operator: "sncb"
@@ -11,9 +11,9 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 
 ## Résumé
 
-- La SNCB accepte les Coupons FIP et les Billets FIP 50
-- Aucune réservation nécessaire
-- Supplément obligatoire pour les trajets à destination ou en provenance de l’aéroport de Bruxelles-Zaventem
+- La SNCB accepte les Coupons FIP et les Billets FIP 50.
+- Aucune réservation nécessaire.
+- Supplément obligatoire pour les trajets à destination ou en provenance de l’aéroport de Bruxelles-Zaventem.
 
 ## Validité des Billets FIP
 
@@ -48,9 +48,9 @@ Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, ave
 **Réservation possible :** non \
 **Réservation obligatoire :** non \
 **Supplément :** ⚠️ \
-Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP. \
+Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP. \
 Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
-Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
 {{% /expander %}}
 
@@ -104,7 +104,7 @@ Trains supplémentaires vers certaines destinations touristiques, souvent simple
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncb-website"
-  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique"
+  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
 /%}}
 
 {{% booking id="db-website-fip-db"
@@ -133,7 +133,7 @@ Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. L
 
 ### Aéroport de Bruxelles-Zaventem
 
-Un supplément de 6,70€ est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d'un Billet FIP 50. [^1] [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
+Un supplément de 6,70 € est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d'un Billet FIP 50. [^1] [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
 ## Recommandation
 

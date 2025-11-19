@@ -5,8 +5,8 @@ description: "Buchungsinformationen für FIP Fahrscheine mit Teilabschnitt in De
 
 params:
   classes:
-    first: "6,90€"
-    second: "5,50€"
+    first: "6,90 €"
+    second: "5,50 €"
   fip_50: true
   reservations: true
   booking_link: "https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE"
@@ -33,7 +33,7 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 - Deutschland
 - Frankreich
 - Italien \
-  <small>Nur Brennerverkehr mit Österreich und ECE Frankfurt - Mailand</small>
+  <small>Nur Brennerverkehr mit Österreich und ECE Frankfurt – Mailand</small>
 - Luxemburg
 - Niederlande
 - Österreich

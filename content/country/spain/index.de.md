@@ -51,7 +51,7 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 
 Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt.
 
-Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe - Celta]({{< ref "/operator/renfe#langstrecke" >}} "Renfe")).
+Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe – Celta]({{< ref "/operator/renfe#langstrecke" >}} "Renfe")).
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
 

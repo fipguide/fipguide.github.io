@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCF"
-description: "Informations sur les conditions FIP chez la SNCF."
+description: "Informations sur les conditions FIP chez la SNCF : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "france"
   - "monaco"
@@ -16,11 +16,11 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Résumé
 
-- Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités)
-- Les réductions FIP ne sont pas valables dans les trains OuiGo
-- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières
-- Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux
-- Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance)
+- Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités).
+- Les réductions FIP ne sont pas valables dans les trains OuiGo.
+- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières.
+- Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux.
+- Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance).
 
 ## Validité des Billets FIP
 
@@ -113,6 +113,8 @@ Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région
 ## Achat de billets et réservations
 
 ### En ligne
+
+Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="db-website-fip-db"
   subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."

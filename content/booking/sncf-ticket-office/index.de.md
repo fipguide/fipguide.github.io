@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die SNCF Ticketschalter."
 
 params:
   classes:
-    first: "1,70€ / 15€"
-    second: "1,70€ / 10€"
+    first: "1,70 € / 15 €"
+    second: "1,70 € / 10 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.garesetconnexions.sncf/de/bahnhoefe-services"
@@ -19,7 +19,7 @@ Ticketschalter der SNCF werden SNCF Connect Shops genannt und befinden sich an a
 
 ## FIP 50 Fahrkarten
 
-Die SNCF verkauft an ihren Ticketschaltern Fahrkarten mit 50% FIP Rabatt.
+Die SNCF verkauft an ihren Ticketschaltern Fahrkarten mit 50% FIP Ermäßigung.
 
 {{% /booking-section %}}
 

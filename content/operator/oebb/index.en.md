@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Information about FIP conditions at ÖBB."
+description: "Information about FIP conditions at ÖBB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "austria"
   - "liechtenstein"
@@ -15,11 +15,11 @@ aliases:
 
 ## Summary
 
-- ÖBB accepts FIP Coupons and FIP 50 Tickets
-- Pay attention to trains of other operators without FIP acceptance
-- No FIP on Vienna Airport Express `CAT`
-- Special rules for trains to Italy, Nightjets, Motorail trains, and IC Buses
-- ÖBB FIP Coupon is also valid in Liechtenstein
+- ÖBB accepts FIP Coupons and FIP 50 Tickets.
+- Pay attention to trains of other operators without FIP acceptance.
+- No FIP on Vienna Airport Express `CAT`.
+- Special rules for trains to Italy, Nightjets, Motorail trains, and IC Buses.
+- ÖBB FIP Coupon is also valid in Liechtenstein.
 
 ## Validity of FIP Tickets
 
@@ -52,7 +52,7 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
 
 {{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Description:** \
-Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Vienna–Gmunden–Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
+Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienna – Gmunden – Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
 
 ℹ️ Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains. \
 **Reservation possible:** yes \
@@ -61,7 +61,7 @@ Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` t
 
 {{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Description:** \
-From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz–Unzmarkt or Graz–Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours. \
+From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz – Unzmarkt or Graz – Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours. \
 **Reservation possible:** yes \
 **Reservation mandatory:** no
 {{% /expander %}}
@@ -123,10 +123,10 @@ Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
 
 Including:
 
-- S-Bahn Upper Austria: S5 Linz–Eferding (Linzer Lokalbahn)
-- S-Bahn Salzburg: S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
-- S-Bahn Styria: S11 Graz–Übelbach (Steiermarkbahn)
-- S6, S61 Graz–Wies-Eibiswald, S7 Graz–Köflach (Graz-Köflacher Eisenbahn)
+- S-Bahn Upper Austria: S5 Linz – Eferding (Linzer Lokalbahn)
+- S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
+- S-Bahn Styria: S11 Graz – Übelbach (Steiermarkbahn)
+- S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
 
 **Reservation possible:** no
 {{% /expander %}}
@@ -196,11 +196,11 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
-#### Brenner - Bolzano - Verona
+#### Brenner – Bolzano – Verona
 
 ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
-#### Railjet Tarvisio Boscoverde - Venice
+#### Railjet Tarvisio Boscoverde – Venice
 
 ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
 
@@ -208,7 +208,7 @@ On international long-distance services from Austria to Italy, ÖBB FIP Coupons 
 
 ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
-### REX63 (Pamhagen - Neusiedl am See)
+### REX63 (Pamhagen – Neusiedl am See)
 
 On the REX63 line between Pamhagen and Neusiedl am See, both ÖBB and GySEV FIP Tickets are accepted.
 
@@ -240,11 +240,11 @@ FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services 
 
 FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services (SEV) and the following routes:
 
-#### Graz - Klagenfurt
+#### Graz – Klagenfurt
 
 Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venice
+#### Klagenfurt/Villach – Udine/Venice
 
 Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 
