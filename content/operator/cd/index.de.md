@@ -165,7 +165,7 @@ Diese Züge benötigen eine spezielle Sitzplatzreservierung (inkl. Aufschlag). D
 - Der Kauf einer Reservierung für ČD Personal (Tarif: _Rail card ČD_) über die Website der ČD ([ČD eshop](https://www.cd.cz/en/eshop/default.htm)) oder die ČD App (Můj vlak)
 - Der Kauf einer herkömmlichen Reservierung (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)) und zusätzlich des [kommerziellen Aufschlags](#čd-kommerzielle-verbindungen-aufschlagspflichtig)
 
-Vor dem Einstieg in den Zug kann es hilfreich sein das Zugbegleitpersonal zu informieren.
+Vor dem Einstieg in den Zug kann es hilfreich sein, das Zugbegleitpersonal zu informieren.
 
 ### Verbindungen der ČD ohne FIP
 
