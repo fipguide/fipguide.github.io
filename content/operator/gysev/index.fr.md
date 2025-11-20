@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "GySEV / Raaberbahn"
+description: "Informations sur les conditions FIP chez GySEV / Raaberbahn : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "austria"
 operator: "gysev"
@@ -10,9 +11,9 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 
 ## Résumé
 
-- Les Coupons FIP et Billets FIP 50 sont acceptés sans exception en Hongrie
-- Les Coupons FIP et Billets FIP 50 ne sont valables qu'avec restrictions en Autriche
-- Aucune obligation de réservation
+- Les Coupons FIP et Billets FIP 50 sont acceptés sans exception en Hongrie.
+- Les Coupons FIP et Billets FIP 50 ne sont valables qu'avec restrictions en Autriche.
+- Aucune obligation de réservation.
 
 ## Validité des Billets FIP
 
@@ -26,9 +27,9 @@ La FIP est valable sur toutes les lignes GySEV en Hongrie. Cependant, le Coupon 
 
 Les lignes suivantes peuvent être utilisées avec le Coupon FIP GySEV en Autriche dans les sections mentionnées :
 
-- REX 63 : Neusiedl am See - Fertőszentmiklós [^2]
-- REX 6 : Wien Hbf - Deutschkreuz - Sopron
-- REX 65 : Eisenstadt - Wulkapordersdorf (connexion avec REX6 et service direct vers Wien Hbf)
+- REX 63 : Neusiedl am See – Fertőszentmiklós [^2]
+- REX 6 : Wien Hbf – Deutschkreuz – Sopron
+- REX 65 : Eisenstadt – Wulkapordersdorf (connexion avec REX6 et service direct vers Wien Hbf)
 
 [Aperçu de toutes les lignes GySEV](https://www2.GySEV.hu/de/vasutvonalak) (y compris la Hongrie).
 

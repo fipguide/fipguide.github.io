@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Trenitalia"
-description: "Informations sur les conditions FIP chez Trenitalia (FS)."
+description: "Informations sur les conditions FIP chez Trenitalia (FS) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "italy"
 operator: "trenitalia"
@@ -246,7 +246,7 @@ Les billets pour les trains liés à un train ne sont valables que pour le train
 La mention "prenotabile" dans les informations du train :
 <br style="clear:both" />
 <img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
-L’intitulé du billet "Prenotazione - Ordinaria" :
+L’intitulé du billet "Prenotazione – Ordinaria" :
 <br style="clear:both" />
 
 **Non lié à un train :** \

@@ -6,8 +6,8 @@ params:
   classes:
     # Définissez les classes et les tarifs correspondants aux réservations.
     # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "5,00€"
-    second: "5,00€"
+    first: "5,00 €"
+    second: "5,00 €"
   fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
   fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
   reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme

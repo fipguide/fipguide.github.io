@@ -51,7 +51,7 @@ Overall, there are very few cross-border connections, and the network was signif
 
 Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP Tickets or Coupones from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section.
 
-Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route ([See Renfe - Celta]({{< ref "/operator/renfe#long-distance" >}} "Renfe")).
+Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route ([See Renfe – Celta]({{< ref "/operator/renfe#long-distance" >}} "Renfe")).
 
 A continuous high-speed rail line between Lisbon and Madrid is currently under development.
 

@@ -7,7 +7,7 @@ params:
   fip_global_fare: true
   fip_50: true
   type: "email"
-  fee: 10£
+  fee: 10 £
 
 aliases:
   - uk_mail
@@ -36,4 +36,4 @@ Les billets FIP 50 peuvent être achetés auprès d’International Rail Ltd. Po
 
 {{% /booking-section %}}
 
-**Des frais de réservation de 10£ sont facturés par réservation.**
+**Des frais de réservation de 10 £ sont facturés par réservation.**
