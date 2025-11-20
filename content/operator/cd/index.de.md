@@ -43,7 +43,7 @@ Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-Die Preise für die Reservierung sind variabel. (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht))
+Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
 {{% /expander %}}
 
 {{% expander "Railjet (RJ)ℹ️" traincategory traincategory %}}
