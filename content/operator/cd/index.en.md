@@ -32,7 +32,7 @@ Further information: [ČD services without FIP]({{% ref "#čd-services-without-f
 
 ## Train Categories and Reservations
 
-Seat reservations are only mandatory in SuperCity `SC` trains.
+Seat reservations are only mandatory on SuperCity `SC` and some `IC` trains.
 
 {{% expander "SuperCity (SC) ⚠️" traincategory traincategory %}}
 **Description:** \
@@ -43,7 +43,7 @@ A seat reservation is mandatory in both classes.
 In 1st class, passengers receive a small refreshment; in 2nd class, a bottle of water. Free newspapers are available in both classes. During the journey, an on-board entertainment and information portal is available, allowing passengers to order food and drinks to their seat, read books, listen to music, play games, or watch movies. [More information](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ yes \
-Reservation prices are variable.
+Reservation prices are variable (see [trains with mandatory reservations](#trains-with-mandatory-reservations)).
 {{% /expander %}}
 
 {{% expander "Railjet (RJ) ℹ️" traincategory traincategory %}}
@@ -68,11 +68,11 @@ International long-distance trains with high comfort and regular-interval servic
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" traincategory traincategory %}}
+{{% expander "Intercity (IC) ⚠️" traincategory traincategory %}}
 **Description:** \
 Long-distance trains with high comfort, stopping only at major stations. Some are equipped with a restaurant car or minibar. [More information](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
 **Reservation possible:** yes \
-**Reservation required:** no
+**Reservation required:** ⚠️ Partially (see [trains with mandatory reservations](#trains-with-mandatory-reservations))
 {{% /expander %}}
 
 {{% expander "Expres (Ex)" traincategory traincategory %}}
@@ -144,31 +144,46 @@ For regular tickets, children up to 6 years travel free in 2nd class. Children u
 
 ## Special Tariff Conditions
 
-### ČD Commercial Services
+### ČD Commercial Services (Surcharge Required)
 
-On so-called _commercial_ ČD services, a surcharge must be purchased at a ČD Ticket Office before departure. These operate primarily on the Prague – Ostrava route and apply only to trains of categories `SC`, `IC`, and `Ex`.
+On so-called _commercial_ services operated by ČD, a surcharge must be purchased. These usually include only certain trains in the `SC`, `IC`, and `Ex` categories (and `R` trains marked "NATO Days"). [^3]
 
-Overview of services: [ČD commercial trains and selected lines 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
+ČD provides an overview of affected services: [ČD commercial trains and selected lines 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
-Refunds of supplements are possible until 23:59 on the day before the first day of validity (without deduction) or within 15 minutes of purchase (without deduction). If an unused supplement is returned by 08:00 on the first day of validity, a handling fee of 100 CZK is charged. In all other cases, no refund is possible. [^1]
+For trains with mandatory reservations listed there, special rules apply—see [Trains with Mandatory Reservations](#trains-with-mandatory-reservations).
+
+The surcharge costs about 125 CZK (as of November 2025) and can be purchased before departure at a ČD ticket office or on board (please contact the train staff directly). The validity of the surcharge matches the current field on the FIP Coupon (2 days) and is valid on all commercial services. [^3]
+
+Refunds for surcharges are possible until 23:59 on the day before the first day of validity (no deduction) or within 15 minutes of purchase (no deduction). If an unused surcharge is returned by 08:00 on the first day of validity, a handling fee of 100 CZK is charged. In all other cases, no refund is possible. [^1]
+
+#### Trains with Mandatory Reservations
+
+Some ČD trains require a seat reservation. This includes all `SC` and some `IC` trains (all services are listed in the [commercial services](#čd-commercial-services-surcharge-required)). The affected `IC` trains mainly operate on the Prague – Ostrava route.
+
+These trains require a special seat reservation (including surcharge). ČD currently does not offer a dedicated fare option for this. The following options for seat reservations are generally accepted: [^3]
+
+- Purchase a reservation for ČD staff (fare: _Rail card ČD_) via the ČD website ([ČD eshop](https://www.cd.cz/en/eshop/default.htm)) or the ČD app (Můj vlak)
+- Purchase a regular reservation (see [Ticket and Reservation Purchase](#ticket-and-reservation-purchase)) and additionally the [commercial surcharge](#čd-commercial-services-surcharge-required)
+
+Before boarding, it may be helpful to inform the train staff.
 
 ### ČD Services without FIP
 
-In principle, FIP does not apply on ČD trains that operate as part of public tenders awarded to ČD, unless at least a section of the service was awarded directly by the Ministry of Transport. Overregional connections where FIP is not valid are also called [commercial services](#čd-commercial-services). ČD provides a [list](#čd-commercial-services) of the affected connections. Trains of categories `EC` and `RJ` are generally not affected and can always be used with FIP.
+In principle, FIP is not valid on any ČD trains that operate under public tenders and where at least part of the route is not directly contracted by the Ministry of Transport. Trains in the `EC` and `RJ` categories are generally not affected and can always be used with FIP within Czechia. All other long-distance services (e.g. `SC`, `IC`, `Ex`) are considered [commercial services](#čd-commercial-services-surcharge-required) and can only be used with a surcharge.
 
-For services awarded by regional authorities (trains of categories `Sp` and `Os`), ČD does not provide a list of eligible connections. In case of doubt, you can ask ČD support or at a ČD ticket office which connections accept FIP. However, the most important connections where FIP is not valid are the following:
+For services contracted by regional authorities (trains in the `SP` and `OS` categories), ČD does not provide a list of eligible services. In case of doubt, you can ask ČD support or at a ČD ticket office which services accept FIP. However, the most important non-eligible services are as follows:
 
-#### Regional trains in the South Moravia region (Brno)
+#### Regional Trains in the South Moravia Region (Brno)
 
-FIP Tickets are not valid on regional trains in South Moravia, even if operated by ČD.
+FIP tickets are not valid on regional trains in South Moravia, even if operated by ČD.
 
-Overview of services: [ČD JMK exclusion list 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
+Overview of the services: [Exclusion list CD JMK 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
 
-#### Regional trains in the Pilsen region
+#### Regional Trains in the Pilsen Region
 
-FIP Tickets are not valid on some regional trains in the Pilsen area.
+FIP tickets are not valid on some regional trains in the Pilsen area.
 
-Overview of services: [ČD Pilsen region exclusion list 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
+Overview of the services: [Exclusion list CD Region Pilsen 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
 
 ### Buses and Replacement Services
 
@@ -212,3 +227,5 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
+
+[^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)

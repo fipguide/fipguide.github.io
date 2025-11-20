@@ -66,7 +66,7 @@ There are regular trains between Poland and Czechia, both long-distance and regi
 
 The same applies to regional trains between Mikulovice and Krnov, which make a short detour into Poland and stop at Głuchołazy. The Harrachov border crossing is easier, with regional trains between Szklarska Poreba and Liberec. These trains are operated by KD on the Polish side and ČD on the Czech side.
 
-EC trains run via Lichkov between Wroclaw (sometimes from Gdynia) and Prague, for which tickets from PKP and ČD plus reservation are required. Regional trains are operated on the Polish side by KD and on the Czech side by Leo Express. Therefore, FIP discounts are not valid on the Czech section.
+`EC` trains run via Lichkov between Wrocław (sometimes originating from Gdynia) and Prague, for which tickets from PKP and ČD plus a reservation are required. Regional trains are operated by KD on the Polish side and by LEO Express on the Czech side. Therefore, FIP discounts are not valid on the Czech section.
 
 ### Slovakia
 

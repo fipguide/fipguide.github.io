@@ -66,7 +66,7 @@ Des trains réguliers relient la Pologne et la Tchéquie, tant en grandes lignes
 
 Il en va de même pour les trains régionaux entre Mikulovice et Krnov, qui font un court détour en Pologne et s'arrêtent à Głuchołazy. Le passage de Harrachov est plus simple, avec des trains régionaux entre Szklarska Poreba et Liberec. Ces trains sont exploités côté polonais par la KD et côté tchèque par la ČD.
 
-Des trains EC circulent via Lichkov entre Wroclaw (parfois depuis Gdynia) et Prague, pour lesquels des billets PKP et ČD plus réservation sont nécessaires. Les trains régionaux sont exploités côté polonais par KD et côté tchèque par Leo Express. Par conséquent, les réductions FIP ne sont pas valables sur la section tchèque.
+Des trains `EC` circulent via Lichkov entre Wrocław (parfois en provenance de Gdynia) et Prague, pour lesquels des billets de la PKP et de la ČD ainsi qu'une réservation sont nécessaires. Les trains régionaux sont exploités côté polonais par la KD et côté tchèque par LEO Express. Par conséquent, les avantages FIP ne sont pas valables sur le tronçon tchèque.
 
 ### Slovaquie
 
