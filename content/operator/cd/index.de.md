@@ -148,7 +148,7 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Aufschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `IC` und `Ex`. (Und `R` Zügen auf der NATO-Bahn) [^3]
 
-Die ČD stellt eine Übersicht mit betroffenen Fahrten: [ČD kommerzielle Zuge und ausgewahlte Linien 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
+Die ČD stellt eine Übersicht mit betroffenen Fahrten zur Verfügung: [ČD kommerzielle Zuge und ausgewahlte Linien 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
 Für Reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
 
