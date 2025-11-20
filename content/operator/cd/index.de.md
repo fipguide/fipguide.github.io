@@ -160,7 +160,7 @@ Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gül
 
 Einige Züge der ČD haben eine Reservierungspflicht. Dies umfasst alle `SC` sowie einige `IC` Züge (alle Verbindungen sind aufgeführt in den [kommerziellen Verbindungen](#čd-kommerzielle-verbindungen-aufschlagspflichtig)). Die betroffenen `IC` Züge verkehren primär auf der Strecke Prag – Ostrava.
 
-Diese Züge benötigen eine spezielle Sitzplatzreservierung (inkl. Aufschlag). Die ČD hat dafür zur Zeit keinen eigene Tarifoption. Folgende Möglichkeiten für die Sitzplatzreservierung werden in der Regel akzeptiert: [^3]
+Diese Züge benötigen eine spezielle Sitzplatzreservierung (inkl. Aufschlag). Die ČD hat dafür zur Zeit keine eigene Tarifoption. Folgende Möglichkeiten für die Sitzplatzreservierung werden in der Regel akzeptiert: [^3]
 
 - Der Kauf einer Reservierung für ČD Personal (Tarif: _Rail card ČD_) über die Website der ČD ([ČD eshop](https://www.cd.cz/en/eshop/default.htm)) oder die ČD App (Můj vlak)
 - Der Kauf einer herkömmlichen Reservierung (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)) und zusätzlich des [kommerziellen Aufschlags](#čd-kommerzielle-verbindungen-aufschlagspflichtig)
