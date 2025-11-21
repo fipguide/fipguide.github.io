@@ -10,6 +10,11 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+Params:
+  fip_coupon: true
+  fip_coupon_relatives: false
+  fip_50_ticket: true
+  fip_global_fare: true
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in France. It operates almost all long-distance and regional trains in France.
@@ -24,10 +29,7 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Ticket: ✅ \
-FIP Global Fare: ✅ (For international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains))
+{{< fip-validity fip_global_fare_footnote="For international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)">}}
 
 FIP Coupons and FIP 50 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
 

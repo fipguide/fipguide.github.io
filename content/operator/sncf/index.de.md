@@ -10,6 +10,11 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+Params:
+  fip_coupon: true
+  fip_coupon_relatives: false
+  fip_50_ticket: true
+  fip_global_fare: true
 ---
 
 Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in Frankreich. Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.
@@ -24,10 +29,7 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅ \
-FIP Globalpreis: ✅ (Für internationale `TGV` Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge))
+{{< fip-validity fip_global_fare_footnote="Für internationale `TGV` Züge, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge)">}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehrsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 

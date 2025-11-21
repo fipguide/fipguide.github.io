@@ -26,6 +26,11 @@ country:
   other: countries
 discord: FIP Guide Community
 editPage: Edit page
+fipValidity:
+  fip-50-ticket: FIP 50 Ticket
+  fip-coupon: FIP Coupon
+  fip-coupon-relatives: FIP Coupon for relatives
+  fip-global-fare: FIP Global Fare
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe

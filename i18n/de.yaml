@@ -27,6 +27,11 @@ country:
   other: Länder
 discord: FIP Guide Community
 editPage: Seite bearbeiten
+fipValidity:
+  fip-50-ticket: FIP 50 Ticket
+  fip-coupon: FIP Freifahrtschein
+  fip-coupon-relatives: FIP Freifahrt Angehörige
+  fip-global-fare: FIP Globalpreis
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
