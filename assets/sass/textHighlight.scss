@@ -54,3 +54,12 @@
     border: 0.2rem solid #ba3d12;
   }
 }
+
+.m-text-highlight--confusion {
+  background-color: var(--highlight-color-confusion);
+  border-left: #ff9100e1 solid 1rem;
+
+  @media print {
+    border: 0.2rem solid #ff9100e1;
+  }
+}
