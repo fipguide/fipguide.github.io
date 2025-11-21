@@ -1,108 +1,70 @@
 {{- $page := .Page -}}
-{{- $footnotes := dict -}}
-
-{{- with .Get "fip_coupon_footnote" -}}
-  {{- $footnotes = merge $footnotes (dict "fip_coupon" .) -}}
-{{- end -}}
-{{- with .Get "fip_coupon_relatives_footnote" -}}
-  {{- $footnotes = merge $footnotes (dict "fip_coupon_relatives" .) -}}
-{{- end -}}
-{{- with .Get "fip_50_ticket_footnote" -}}
-  {{- $footnotes = merge $footnotes (dict "fip_50_ticket" .) -}}
-{{- end -}}
-{{- with .Get "fip_global_fare_footnote" -}}
-  {{- $footnotes = merge $footnotes (dict "fip_global_fare" .) -}}
-{{- end -}}
-
-{{- $footnoteCounter := 0 -}}
-{{- $footnoteMap := dict -}}
 
 
 <div class="o-fip-validity">
   <div class="o-fip-validity__tags">
     {{- if isset $page.Params "fip_coupon" -}}
       {{- $accepted := $page.Params.fip_coupon -}}
-      {{- $footnoteNum := "" -}}
-      {{- if isset $footnotes "fip_coupon" -}}
-        {{- $footnoteCounter = add $footnoteCounter 1 -}}
-        {{- $footnoteNum = printf "%d)" $footnoteCounter -}}
-        {{- $footnoteMap = merge $footnoteMap (dict (string $footnoteCounter) (index $footnotes "fip_coupon")) -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_coupon_footnote" -}}
+        {{- $note = $page.RenderString . -}}
       {{- end -}}
-      {{- partial "tag" (
+      {{- partial "fip-validity-item" (
         dict
         "Icon" (cond $accepted "check_circle" "cancel")
         "Text" "fipValidity.fip-coupon"
         "Type" (cond $accepted "success" "error")
-        "Footnote" $footnoteNum
+        "Note" $note
         )
       }}
     {{- end -}}
 
     {{- if isset $page.Params "fip_coupon_relatives" -}}
       {{- $accepted := $page.Params.fip_coupon_relatives -}}
-      {{- $footnoteNum := "" -}}
-      {{- if isset $footnotes "fip_coupon_relatives" -}}
-        {{- $footnoteCounter = add $footnoteCounter 1 -}}
-        {{- $footnoteNum = printf "%d)" $footnoteCounter -}}
-        {{- $footnoteMap = merge $footnoteMap (dict (string $footnoteCounter) (index $footnotes "fip_coupon_relatives")) -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_coupon_relatives_footnote" -}}
+        {{- $note = $page.RenderString . -}}
       {{- end -}}
-      {{- partial "tag" (
+      {{- partial "fip-validity-item" (
         dict
         "Icon" (cond $accepted "check_circle" "cancel")
         "Text" "fipValidity.fip-coupon-relatives"
         "Type" (cond $accepted "success" "error")
-        "Footnote" $footnoteNum
+        "Note" $note
         )
       }}
     {{- end -}}
 
     {{- if isset $page.Params "fip_50_ticket" -}}
       {{- $accepted := $page.Params.fip_50_ticket -}}
-      {{- $footnoteNum := "" -}}
-      {{- if isset $footnotes "fip_50_ticket" -}}
-        {{- $footnoteCounter = add $footnoteCounter 1 -}}
-        {{- $footnoteNum = printf "%d)" $footnoteCounter -}}
-        {{- $footnoteMap = merge $footnoteMap (dict (string $footnoteCounter) (index $footnotes "fip_50_ticket")) -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_50_ticket_footnote" -}}
+        {{- $note = $page.RenderString . -}}
       {{- end -}}
-      {{- partial "tag" (
+      {{- partial "fip-validity-item" (
         dict
         "Icon" (cond $accepted "check_circle" "cancel")
         "Text" "fipValidity.fip-50-ticket"
         "Type" (cond $accepted "success" "error")
-        "Footnote" $footnoteNum
+        "Note" $note
         )
       }}
     {{- end -}}
 
     {{- if isset $page.Params "fip_global_fare" -}}
       {{- $accepted := $page.Params.fip_global_fare -}}
-      {{- $footnoteNum := "" -}}
-      {{- if isset $footnotes "fip_global_fare" -}}
-        {{- $footnoteCounter = add $footnoteCounter 1 -}}
-        {{- $footnoteNum = printf "%d)" $footnoteCounter -}}
-        {{- $footnoteMap = merge $footnoteMap (dict (string $footnoteCounter) (index $footnotes "fip_global_fare")) -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_global_fare_footnote" -}}
+        {{- $note = $page.RenderString . -}}
       {{- end -}}
-      {{- partial "tag" (
+      {{- partial "fip-validity-item" (
         dict
         "Icon" (cond $accepted "check_circle" "cancel")
         "Text" "fipValidity.fip-global-fare"
         "Type" (cond $accepted "success" "error")
-        "Footnote" $footnoteNum
+        "Note" $note
         )
       }}
     {{- end -}}
   </div>
-
-  {{- if gt (len $footnoteMap) 0 -}}
-    <div class="o-fip-validity__footnotes">
-      {{- range $index, $text := $footnoteMap -}}
-        <div class="o-fip-validity__footnote">
-          <span class="o-fip-validity__footnote-number">{{ $index }})</span>
-          <span class="o-fip-validity__footnote-text"
-            >{{ $text | $page.RenderString }}</span
-          >
-        </div>
-      {{- end -}}
-    </div>
-  {{- end -}}
 </div>

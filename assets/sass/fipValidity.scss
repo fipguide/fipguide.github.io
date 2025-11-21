@@ -6,39 +6,7 @@
 
   &__tags {
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
-  }
-
-  &__footnotes {
-    display: flex;
     flex-direction: column;
-    gap: 0.4rem;
-    font-size: 0.9em;
-  }
-
-  &__footnote {
-    display: flex;
-    gap: 0.4rem;
-    align-items: baseline;
-  }
-
-  &__footnote-number {
-    font-weight: 600;
-    flex-shrink: 0;
-  }
-
-  &__footnote-text {
-    p {
-      margin: 0;
-      display: inline;
-    }
-  }
-
-  &__note {
-    p {
-      margin: 0;
-      display: inline;
-    }
+    gap: 0.8rem;
   }
 }

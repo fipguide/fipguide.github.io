@@ -1,0 +1,9 @@
+<div class="a-fip-validity-item a-fip-validity-item--{{ .Type }}">
+  {{ partial "icon" .Icon }}
+  <div class="a-fip-validity-item__content">
+    <span class="a-fip-validity-item__text">{{ i18n .Text }}</span>
+    {{- with .Note -}}
+      <span class="a-fip-validity-item__note">{{ . }}</span>
+    {{- end -}}
+  </div>
+</div>

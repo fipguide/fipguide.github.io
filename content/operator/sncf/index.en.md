@@ -29,7 +29,7 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 
 ## Validity of FIP Tickets
 
-{{< fip-validity fip_global_fare_footnote="For international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)">}}
+{{< fip-validity fip_global_fare_footnote="Only for international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)">}}
 
 FIP Coupons and FIP 50 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
 
