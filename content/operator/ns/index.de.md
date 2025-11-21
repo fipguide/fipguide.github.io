@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "NS"
-description: "Informationen über die FIP-Bedingungen bei NS: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "netherlands"
 operator: "ns"
+params:
+  name: NS
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der Niederlande und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.

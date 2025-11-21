@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "National Rail"
-description: "Informationen über die FIP-Bedingungen bei National Rail: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "united-kingdom"
 operator: "gb"
+params:
+  name: National Rail
 ---
 
 In Großbritannien gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.

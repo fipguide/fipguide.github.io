@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "ČD"
-description: "Informations sur les conditions FIP chez České dráhy (ČD) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "czechia"
 operator: "cd"
+params:
+  name: České dráhy (ČD)
 ---
 
 České dráhy (ČD) est la compagnie ferroviaire nationale de la République tchèque et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.

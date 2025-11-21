@@ -1,4 +1,3 @@
-_operator__list_title: Opérateurs prenant en charge la FIP
 anchorLink:
   copied: Le lien a été copié dans le presse-papiers
   copy: Copier le lien vers cette section
@@ -18,6 +17,9 @@ contentNavigation:
   relatedCountries: Pays dans lesquels l'opérateur est actif
   title: Aperçu du contenu
 countries:
+  descriptionTemplate: >-
+    Informations sur les conditions FIP pour %s et pour quels opérateurs des
+    réductions peuvent être utilisées.
   overview: Pays acceptation FIP
   without-fip: Pays sans acceptation FIP
 country:
@@ -78,6 +80,11 @@ menu:
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
+operators:
+  descriptionTemplate: >-
+    Informations sur les conditions FIP chez %s : Validité, Achat de billets et
+    réservations, Conditions tarifaires spéciales
+  listTitle: Opérateurs prenant en charge la FIP
 operators_without_fip: Opérateurs sans FIP
 related:
   countries: Pays associés

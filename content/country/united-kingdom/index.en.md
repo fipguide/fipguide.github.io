@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "United Kingdom"
-description: "Information about FIP conditions for the United Kingdom and which operators offer discounts."
 country: "united-kingdom"
 params:
   operators_without_fip:

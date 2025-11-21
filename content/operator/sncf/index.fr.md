@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCF"
-description: "Informations sur les conditions FIP chez la SNCF : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "france"
   - "monaco"
@@ -10,6 +9,8 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+params:
+  name: "SNCF"
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en France. Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.

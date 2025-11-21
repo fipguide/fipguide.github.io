@@ -1,9 +1,10 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Informationen über die FIP-Bedingungen bei der SBB CFF FFS: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "switzerland"
+params:
+  name: "SBB CFF FFS"
 ---
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der Schweiz. Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.

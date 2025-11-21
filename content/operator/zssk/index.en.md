@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "ZSSK / ZSR"
-description: "Find out about the FIP conditions at ZSR / ZSSK: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "slovakia"
 operator: "zssk"
+params:
+  name: "ZSR / ZSSK"
 
 aliases:
   - zsr

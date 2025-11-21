@@ -1,11 +1,12 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Information about FIP conditions at ÖBB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "austria"
   - "liechtenstein"
 operator: "oebb"
+params:
+  name: "ÖBB"
 
 aliases:
   - obb

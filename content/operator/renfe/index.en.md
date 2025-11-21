@@ -1,11 +1,12 @@
 ---
 draft: false
 title: "Renfe"
-description: "Information about the FIP conditions at Renfe: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
   - "france"
 operator: "renfe"
+params:
+  name: "Renfe"
 ---
 
 Renfe Operadora is a Spanish state-owned railroad company. It operates comfortable high-speed trains, various regional trains and suburban trains.

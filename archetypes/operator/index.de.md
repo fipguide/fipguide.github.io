@@ -1,13 +1,15 @@
 ---
 draft: false
 title: "{{ .File.ContentBaseName | upper }}"
-description: "" # Ergänze eine Beschreibung für die Bahngesellschaft
 country:
   # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
   - "country1"
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+params:
+  # Der Name wird in den Meta-Beschreibungen verwendet.
+  name:
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

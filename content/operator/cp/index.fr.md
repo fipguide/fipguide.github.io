@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "CP"
-description: "Informations sur les conditions FIP chez Comboios de Portugal (CP) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "portugal"
 operator: "cp"
+params:
+  name: Comboios de Portugal (CP)
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au Portugal.

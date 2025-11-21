@@ -1,10 +1,11 @@
 ---
 draft: false
 title: "Trenitalia"
-description: "Informations sur les conditions FIP chez Trenitalia (FS) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "italy"
 operator: "trenitalia"
+params:
+  name: Trenitalia (FS)
 ---
 
 Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia.

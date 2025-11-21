@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCF"
-description: "Information about FIP conditions at SNCF: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "france"
   - "monaco"
@@ -10,6 +9,8 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+params:
+  name: "SNCF"
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in France. It operates almost all long-distance and regional trains in France.
