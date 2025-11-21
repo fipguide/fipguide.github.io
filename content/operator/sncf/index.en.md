@@ -42,8 +42,6 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
   type="highspeed"
   fip_accepted=true
   reservation_required=true
-  risk_of_confusion=true
-  important_info=true
   route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
 The `TGV` inOui is SNCF's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
@@ -72,7 +70,6 @@ Prices differ between peak and off-peak trains. The classification is not public
   type="highspeed"
   fip_accepted=false
   reservation_required=true
-  risk_of_confusion=true
 %}}
 
 The `TGV` OuiGo is SNCF's low-cost high-speed train, serving many cities in France and some international destinations.
@@ -147,7 +144,6 @@ Cost depends on route and occupancy.
   type="regional"
   fip_accepted=true
   reservation_required=partially
-  risk_of_confusion=true
 %}}
 `TER` is SNCF's regional train, connecting various cities in France.
 Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains).
@@ -162,7 +158,6 @@ On the Marseille – Toulon – Nice route, FIP is not valid as `TER` trains are
   type="regional"
   fip_accepted=partially
   reservation_possible=false
-  important_info=true
 %}}
 RER is a suburban train operated by SNCF in Île de France (Greater Paris) and surrounding cities.
 
