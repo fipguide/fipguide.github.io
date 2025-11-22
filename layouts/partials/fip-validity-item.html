@@ -1,9 +1,124 @@
 <div class="a-fip-validity-item a-fip-validity-item--{{ .Type }}">
   {{ partial "icon" .Icon }}
   <div class="a-fip-validity-item__content">
-    <span class="a-fip-validity-item__text">{{ i18n .Text }}</span>
+    <span class="a-fip-validity-item__text">
+      {{ i18n .Text }}
+      {{- if .ShowRelativesInfo -}}
+        <button
+          class="a-fip-validity-item__info-button"
+          aria-label="{{ i18n "fipValidity.show-relatives-info" }}"
+          data-modal-trigger="fip-relatives-modal"
+        >
+          {{ partial "icon" "info" }}
+        </button>
+      {{- end -}}
+    </span>
     {{- with .Note -}}
       <span class="a-fip-validity-item__note">{{ . }}</span>
     {{- end -}}
   </div>
 </div>
+
+{{- if .ShowRelativesInfo -}}
+  <div class="o-modal" id="fip-relatives-modal" aria-hidden="true">
+    <div class="o-modal__overlay" data-modal-close></div>
+    <div class="o-modal__container" role="dialog" aria-modal="true">
+      <div class="o-modal__header">
+        <h2 class="o-modal__title">
+          {{ i18n "fipValidity.relatives-modal-title" }}
+        </h2>
+        <button
+          class="o-modal__close"
+          data-modal-close
+          aria-label="{{ i18n "fipValidity.close-modal" }}"
+        >
+          {{ partial "icon" "close" }}
+        </button>
+      </div>
+      <div class="o-modal__content">
+        <p class="o-modal__description">
+          {{ i18n "fipValidity.relatives-modal-description" }}
+        </p>
+        <table class="o-modal__table">
+          <thead>
+            <tr>
+              <th>{{ i18n "fipValidity.issuer" }}</th>
+              <th>{{ i18n "fipValidity.relatives-available" }}</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="o-modal__table-wrapper">
+          <table class="o-modal__table o-modal__table--body">
+            <colgroup>
+              <col style="width: 50%" />
+              <col style="width: 50%" />
+            </colgroup>
+            <tbody>
+              {{- $currentPage := .Page -}}
+              {{- $currentOperatorDir := $currentPage.File.Dir -}}
+              {{- $seenOperators := slice -}}
+
+              {{- $currentRelativesParam := $currentPage.Params.fip_coupon_relatives -}}
+              {{- $acceptedIssuers := dict -}}
+
+              {{- if reflect.IsMap $currentRelativesParam -}}
+                {{- $acceptedIssuers = $currentRelativesParam -}}
+              {{- else if eq $currentRelativesParam true -}}
+                {{- $acceptedIssuers = dict "_all" true -}}
+              {{- else if eq $currentRelativesParam false -}}
+                {{- $acceptedIssuers = dict "_none" true -}}
+              {{- end -}}
+
+              {{- range where .Page.Site.Pages "Section" "operator" -}}
+                {{- if and (eq .Lang $currentPage.Lang) (ne .File.LogicalName "_index.de.md") (ne .File.LogicalName "_index.en.md") (ne .File.LogicalName "_index.fr.md") -}}
+                  {{- $operatorId := .File.Dir -}}
+                  {{- if and (not (in $seenOperators $operatorId)) (ne $operatorId $currentOperatorDir) -}}
+                    {{- $seenOperators = $seenOperators | append $operatorId -}}
+                    {{- $operatorIdClean := trim $operatorId "/" -}}
+                    {{- $operatorName := path.Base $operatorIdClean -}}
+
+                    {{- $status := "unknown" -}}
+                    {{- $icon := "help" -}}
+
+                    {{- if index $acceptedIssuers "_all" -}}
+                      {{- $status = "yes" -}}
+                      {{- $icon = "check_circle" -}}
+                    {{- else if index $acceptedIssuers "_none" -}}
+                      {{- $status = "no" -}}
+                      {{- $icon = "cancel" -}}
+                    {{- else -}}
+                      {{- range $key, $value := $acceptedIssuers -}}
+                        {{- if eq $key $operatorName -}}
+                          {{- if $value -}}
+                            {{- $status = "yes" -}}
+                            {{- $icon = "check_circle" -}}
+                          {{- else -}}
+                            {{- $status = "no" -}}
+                            {{- $icon = "cancel" -}}
+                          {{- end -}}
+                        {{- end -}}
+                      {{- end -}}
+                    {{- end -}}
+
+
+                    <tr>
+                      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+                      <td
+                        class="o-modal__status o-modal__status--{{ $status }}"
+                      >
+                        {{ partial "icon" $icon }}
+                        <span
+                          >{{ i18n (printf "fipValidity.status-%s" $status) }}</span
+                        >
+                      </td>
+                    </tr>
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{- end -}}

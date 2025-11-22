@@ -20,17 +20,20 @@
     {{- end -}}
 
     {{- if isset $page.Params "fip_coupon_relatives" -}}
-      {{- $accepted := $page.Params.fip_coupon_relatives -}}
       {{- $note := "" -}}
+
       {{- with .Get "fip_coupon_relatives_footnote" -}}
         {{- $note = $page.RenderString . -}}
       {{- end -}}
+
       {{- partial "fip-validity-item" (
         dict
-        "Icon" (cond $accepted "check_circle" "cancel")
+        "Icon" "help"
         "Text" "fipValidity.fip-coupon-relatives"
-        "Type" (cond $accepted "success" "error")
+        "Type" "info"
         "Note" $note
+        "ShowRelativesInfo" true
+        "Page" $page
         )
       }}
     {{- end -}}

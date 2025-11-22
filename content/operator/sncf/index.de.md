@@ -12,7 +12,9 @@ country:
 operator: "sncf"
 Params:
   fip_coupon: true
-  fip_coupon_relatives: false
+  fip_coupon_relatives:
+    oebb: true
+    renfe: false
   fip_50_ticket: true
   fip_global_fare: true
 ---

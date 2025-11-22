@@ -27,10 +27,21 @@ country:
 discord: FIP Guide Community
 editPage: Edit page
 fipValidity:
+  close-modal: Close
   fip-50-ticket: FIP 50 Ticket
   fip-coupon: FIP Coupon
   fip-coupon-relatives: FIP Coupon for relatives
   fip-global-fare: FIP Global Fare
+  issuer: Issuer of the FIP card
+  relatives-available: FIP Coupon for relatives available
+  relatives-modal-description: >-
+    The availability of FIP Coupon for relatives depends on the railway company
+    that issued your FIP card.
+  relatives-modal-title: FIP Coupon for relatives by Operator
+  show-relatives-info: Show information about FIP Coupon for relatives
+  status-no: Not accepted
+  status-unknown: Unknown
+  status-yes: Accepted
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe

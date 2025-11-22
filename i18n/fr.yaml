@@ -28,10 +28,21 @@ countryselection: Choisir un pays
 discord: Communauté FIP Guide
 editPage: Modifier la page
 fipValidity:
+  close-modal: Fermer
   fip-50-ticket: Billet FIP 50
   fip-coupon: Coupon FIP
   fip-coupon-relatives: Coupon FIP accompagnant
   fip-global-fare: Tarif Global FIP
+  issuer: Émetteur de la carte FIP
+  relatives-available: Coupon FIP accompagnant disponible
+  relatives-modal-description: >-
+    La disponibilité du Coupon FIP accompagnant dépend de la compagnie
+    ferroviaire qui a émis votre carte FIP.
+  relatives-modal-title: Coupon FIP accompagnant par opérateur
+  show-relatives-info: Afficher les informations sur le Coupon FIP accompagnant
+  status-no: Non accepté
+  status-unknown: Inconnu
+  status-yes: Accepté
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe

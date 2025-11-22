@@ -6,16 +6,56 @@
   font-weight: 400;
   line-height: 1.2em;
 
-  @each $name, $color in $tag-colors {
-    &--#{$name} {
-      color: var(--tag-#{$name}-color);
-    }
+  svg {
+    margin-top: 0.15em;
+  }
+
+  &--success {
+    color: var(--fip-validity-accepted);
+  }
+
+  &--error {
+    color: var(--fip-validity-rejected);
+  }
+
+  &--info {
+    color: var(--color-body);
+    opacity: 0.85;
   }
 
   &__content {
     display: flex;
     flex-direction: column;
     gap: 0.2rem;
+  }
+
+  &__text {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  &__info-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: var(--color-body);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    svg {
+      width: 1.2em;
+      height: 1.2em;
+      margin-top: 0;
+    }
   }
 
   &__note {
