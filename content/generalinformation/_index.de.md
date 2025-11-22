@@ -18,9 +18,19 @@ Im Folgenden werden die allgemeinen FIP Grundlagen erklärt. Abweichende Informa
 [Übersicht der Länder]({{% ref "/country" %}} "Übersicht Länder" )
 {{% /highlight %}}
 
+FIP Vergünstigungen gelten im Regelfall zur für echten Eisenbahnverkehr und nicht für Busse, U-Bahnen oder Straßenbahnen. Bei einigen Bahngesellschaften kann es jedoch Ausnahmen geben.
+
+Für die Nutzung von FIP Vergünstigungen ist es oftmals relevant herauszufinden von welcher Bahngesellschaft ein Zug betrieben wird. Teilweise gibt es auch grenzüberschreitende Kooperationszüge bei denen ein Zug in einem Land von einer Bahngesellschaft und in einem anderen Land von einer anderen Bahngesellschaft betrieben wird (z. B. viele `EC` Verbindungen). Auf den [Länderseiten im FIP Guide]({{% ref "/country" %}} "Länderseiten im FIP Guide" ) wird beschrieben, wie im jeweiligen Land herausgefunden werden kann, wer der Betreiber eines Zuges ist. Allgemein sind dabei auch die Websites der Betreiber hilfreich. Außerdem zeigt die [Website der Deutschen Bahn](https://bahn.de) viele europäischen Verbindungen und ihre Betreiber an.
+
+{{% highlight important %}}
+Tariflich ist im Regelfall nie direkt relevant in welchem Land ein Zug unterwegs ist, sondern von welcher Bahngesellschaft der Zug in welchem Abschnitt betrieben wird.
+{{% /highlight %}}
+
 ## FIP Ausweis
 
 Für die Nutzung von FIP-Vergünstigungen ist ein aktueller _FIP Ausweis_ erforderlich. Dieser ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027. Der FIP Ausweis wird als Legitimation für FIP 50 Tickets benötigt. Er wird entweder für die 1. oder 2. Klasse ausgestellt. Mit einem 1. Klasse Ausweis können Freifahrtscheine und FIP 50 Tickets für die 1. und 2. Klasse erworben werden, mit einem 2. Klasse Ausweis nur für die 2. Klasse. Er kann über die jeweilige Bahngesellschaft, bei der man arbeitet, bestellt werden. Der genaue Bestellweg unterscheidet sich pro Unternehmen sehr stark.
+
+Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben. Bei FIP Freifahrtscheinen gibt es jedoch Einschränkungen.
 
 ## Vergünstigungen
 
@@ -28,7 +38,9 @@ FIP Vergünstigungen bestehen in verschiedenen Formen, für die Nutzung wird imm
 
 ### FIP Freifahrtscheine
 
-Diese berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden. Die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. FIP Freifahrtscheine werden teilweise auch als _FIP Coupons_ bezeichnet. Pro Kalenderjahr ist die Bestellung eines Freifahrtscheins pro Betreiber möglich. Das bedeutet, es können jedes Jahr von beliebig vielen Betreibern je ein Freifahrtschein mit ein bis zu vier Feldern, bestellt werden. Entscheidend für das Kalenderjahr ist das Datum, an dem die Gültigkeit beginnt.
+Diese berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden. Die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. FIP Freifahrtscheine werden teilweise auch als _FIP Coupons_ bezeichnet. Pro Kalenderjahr ist in der Regel die Bestellung eines Freifahrtscheins pro Betreiber möglich (Einige Bahngesellschaften können für ihre eigenen Mitarbeiter abweichende Regelungen haben). Das bedeutet, es können jedes Jahr von beliebig vielen Betreibern je ein Freifahrtschein mit ein bis zu vier Feldern, bestellt werden. Entscheidend für das Kalenderjahr ist das Datum, an dem die Gültigkeit beginnt.
+
+Teilweise sind FIP Freifahrtscheine auch für Angehörge verfügbar. Dies unterscheidet sich je nach eigener Bahngesellschaft und der Bahngesellchaft bei der FIP Vergünstigungen genutzt werden sollen.
 
 {{% highlight important %}}
 Nach Rückkehr ins Bahnnetz des Heimatlandes ist innerhalb der Geltungsdauer des Freifahrscheines eine erneute Einreise in das Land nicht möglich, wenn das Land direkt an das Streckennetz des Heimatlandes angrenzt.
@@ -52,12 +64,18 @@ Um länger als acht Tage in einem Land bzw. bei einem Betreiber Zug fahren zu k�
 
 ### FIP 50 Tickets
 
-FIP Berechtigte können reduzierte Tickets erwerben. Diese kosten im Regelfall 50% des flexiblen Preises. Daher sind diese Tickets nicht zuggebunden und flexibel auf der Strecke nutzbar (ausgenommen reservierungspflichtige Züge). Sie können jederzeit in beliebiger Anzahl gekauft werden. Mit FIP 50 besteht einfach eine Art Rabattkarte für viele Verbindungen. Ein FIP 50 Ticket kann dabei auch mehrere Betreiber abdecken.
+FIP Berechtigte können reduzierte Tickets erwerben. Diese kosten im Regelfall 50% des flexiblen Preises. Daher sind diese Tickets nicht zuggebunden und flexibel auf der Strecke nutzbar, außer es handelt sich um reservierungspflichtige Züge. (Einige Bahngesellschaften haben bilaterale Abkommen und gewähren sich gegenseitig einen höheren Rabatt z. B. 75%)
 
-Die Bestellung funktioniert hier anders als beim FIP Freifahrtschein. Während letzterer normalerweise bei der eigenen Bahngesellschaft oder einem Dienstleister bestellt werden muss, kann das FIP 50 Ticket an verschiedenen Stellen erworben werden. Für eine Fahrt innerhalb eines Landes ist ein Ticketschalter bzw. Reisezentrum meist eine gute Anlaufstelle. Bei einigen Betreibern bzw. in manchen Ländern ist es auch online oder über den Automaten möglich. Bei internationalen Fahrten muss manchmal ein spezieller Ticketschalter für grenzüberschreitende Verbindungen genutzt werden. Auf den jeweiligen Länder- und Betrieberseiten versuchen wir die Informationen zum Kauf der Tickets bestmöglich zusammenzufassen.
+FIP 50 Tickets können jederzeit in beliebiger Anzahl gekauft werden. Mit FIP 50 besteht einfach eine Art Rabattkarte für viele Verbindungen. Ein FIP 50 Ticket kann dabei auch mehrere Betreiber abdecken.
+
+Die Bestellung funktioniert hier anders als beim FIP Freifahrtschein. Während letzterer normalerweise bei der eigenen Bahngesellschaft oder einem Dienstleister bestellt werden muss, kann das FIP 50 Ticket an verschiedenen Stellen erworben werden. Für eine Fahrt innerhalb eines Landes ist ein Ticketschalter bzw. Reisezentrum meist eine gute Anlaufstelle. Bei einigen Betreibern bzw. in manchen Ländern ist es auch online oder über den Automaten möglich. Bei internationalen Fahrten muss manchmal ein spezieller Ticketschalter für grenzüberschreitende Verbindungen genutzt werden. Auf den jeweiligen Länder- und Betrieberseiten versuchen wir die Informationen zum Kauf der Tickets bestmöglich zusammenzufassen. Die Preise für FIP 50 Tickets für die selbe Verbindung, können sich bei unterschiedlichen Bahngesellschaften die diese verkaufen unterscheiden.
 
 {{% highlight important %}}
 FIP Vergünstigungen gelten nicht im eigenen Land. Auch wenn auf FIP 50 Tickets ein Ticketabschnitt im eigenen Land eingetragen ist, gilt das Ticket dort nicht. Für diesen Ticketabschnitt muss eine separate Fahrkarte oder nationale Vergünstigung genutzt werden. Ausgenommen hiervon sind nur FIP Globalpreise.
+{{% /highlight %}}
+
+{{% highlight tip %}}
+Da FIP 50 Tickets die rabattierte Version von flexiblen Tickets sind, können sie teilweise teurer sein als reguläre Tickets unflexible Tickets (z. B. Sparpreise oder Advance Tickets) und andere Rabattangebote (z. B. Deutschlandticket).
 {{% /highlight %}}
 
 {{% expander "Beispiel für die Nutzung eines FIP 50 Tickets" info %}}
@@ -69,6 +87,18 @@ Anders sieht es beispielsweise aus, wenn ich ein Ticket von Wien nach Budapest b
 ### FIP Globalpreise
 
 Für einige Züge existieren spezielle Preise und Sonderregeln. Diese sind weder mit FIP 50 Tickets noch mit FIP Freifahrtschein fahrbar. Stattdessen muss ein spezieller FIP Globalpreis für die konkrete Zugverbindung erworben werden (diese Tickets sind also zuggebunden). FIP Globalpreise sind z. B. für den Eurostar, TGV/AVE Verkehr zwischen Barcelona und Frankreich oder diverse Nachtzüge erforderlich.
+
+### Nationale Vergünstigungen (kein FIP)
+
+FIP Vergünstigungen gelten nie in Zügen der eigenen Bahngesellschaft. Daher wird innerhalb des Heimatlandes ein anderes Ticket benötigt. Für die Mitarbeitenden folgender Bahngesellschaften stehen uns diese Informationen zur Verfügung:
+
+{{% expander "Deutsche Bahn (DB)" info "national" %}}
+
+Mitarbeitende der Deutschen Bahn können für die Fahrt bis zum [Grenztarifpunkt](#grenzpunkte) nationale Vergünstigungen nutzen. Dafür kann ein Tagesticket M Fern oder Netzcard genutzt werden. Diese gelten im gesamten Netz und somit bis zum Grenztarifpunkt zu den Nachbarländern.
+
+Teilweise sind andere Tickets, die auf dem gesamten Abschnitt (eigene und fremde Bahngesellschaft) gelten, günstigere Alternativen zu FIP. Dazu gehören (Super) Sparpreise Europa DB-PEP (Nur in Verbindung mit einem reisenden mit einem anderen Ticket, siehe Nutzungsbestimmungen) oder auch normale (Super) Sparpreise. Weitere Informationen dazu sind im DB Reisemarkt und DB Personalportal zu finden.
+
+{{% /expander %}}
 
 ## Grenzpunkte
 
@@ -85,7 +115,7 @@ Im Detail unterscheidet man zwischen zwei Arten von _Grenztarifpunkten_:
 
 Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft benötigt wird, kann ein FIP 50 Ticket für mehrere Bahngesellschaften ausgestellt werden. Welche Bahngesellschaften an der Fahrt dann beteiligt sind, spielt nicht direkt eine Rolle, solange Start und Ziel richtig sind und die Bahngesellschaften FIP allgemein akzeptieren.
 
-Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern/Bahngesellschaften bestehen sind im FIP Guide auf der jeweiligen Länderseite aufgeführt.
+Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern bzw. Bahngesellschaften bestehen sind im FIP Guide auf der jeweiligen Länderseite aufgeführt.
 
 {{% expander "Beispiel für den Umgang mit Grenzbahnhöfen" info %}}
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Wien fahren. Dafür gibt es die Möglichkeit entweder einen FIP Freifahrtschein für die ÖBB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Wien Hbf zu buchen. Beide gelten nur für den österreichischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über Passau Hbf, welcher Grenzbahnhof für Deutschland und Österreich ist.
@@ -97,6 +127,22 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Kopenhagen fahren. Dafür gibt es die Möglichkeit entweder einen FIP Freifahrtschein für die DSB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Kobenhavn H zu buchen. Beide gelten nur für den dänischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über die Grenze Padborg (Gr), was nur ein virtueller Grenzpunkt zwischen Flensburg und Padborg ist, jedoch kein echter Bahnhof.
 
 Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland, an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
+{{% /expander %}}
+
+## Versteuerung
+
+In Mitarbeitende in einigen Ländern ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursacht. Für die Mitarbeitenden in folgenden Ländern stehen uns diese Informationen zur Verfügung:
+
+{{% expander "Deutschland" info "tax" %}}
+
+FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vorteil_ und unterliegen § 8 des Einkommensteuergesetzes (EStG). Die FIP Freifachtscheine sind somit steuer- und sozialversicherungspflichtig.
+
+Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im DB Reisemarkt oder DB Personalportal verfügbar.
+
+Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2025) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
+
+FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden dem Mitarbeiter angerechnet.
+
 {{% /expander %}}
 
 ## FAQ
@@ -135,8 +181,6 @@ Wende dich hierzu an deine Personalabteilung.
 Beachte, dass du in der Regel erst ab zwölf Monaten Betriebszugehörigkeit einen Anspruch auf internationale Fahrvergünstigungen hast.
 
 {{% /expander %}}
-
-## Nutzungsmöglichkeiten
 
 {{% expander "Welche Vergünstigungen erhalte ich durch FIP?" info "faq" %}}
 
