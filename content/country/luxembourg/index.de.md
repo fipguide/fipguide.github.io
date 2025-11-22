@@ -30,7 +30,7 @@ Mit der Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilwe
 
 ### Belgien
 
-Von Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt. \
+Von Liers, Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt. \
 Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
 
 ### Deutschland
