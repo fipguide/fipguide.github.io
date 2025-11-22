@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die ZSSK Website."
 
 params:
   classes:
-    first: "2€"
-    second: "1€"
+    first: "2 €"
+    second: "1 €"
   fip_50: true
   reservations: true
   booking_link: "https://www.zssk.sk/en/"

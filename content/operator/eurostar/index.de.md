@@ -1,10 +1,12 @@
 ---
 draft: false
 title: "Eurostar"
-description: "Informationen über die FIP-Bedingungen bei Eurostar."
+description: "Informationen über die FIP-Bedingungen bei Eurostar: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "belgium"
   - "netherlands"
+  - "united-kingdom"
+  - "france"
 operator: "eurostar"
 ---
 
@@ -38,7 +40,7 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 **FIP Globalpreis:**
 | Relation | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39€ / 34,50 £ | 60€ / 52,50 £ |
+| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
 | London - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
 | Brüssel - Amsterdam / Rotterdam | ?€ / 15,50 £ | ?€ / 30,50 £ |
 {{% /expander %}}
@@ -52,8 +54,8 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 | Relation | Standard | Plus |
 | ----------- | -------- | ---- |
 | Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18€ | 35€ |
-| Fahrt zwischen 3 Ländern | 20€ | 40€ |
+| Fahrt zwischen 2 Ländern | 18 € | 35 € |
+| Fahrt zwischen 3 Ländern | 20 € | 40 € |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow: Amsterdam / Brüssel - Französische Alpen ⛔⚠️" traincategory category %}}
@@ -84,7 +86,7 @@ Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchec
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="internationalrail-email" /%}}
+{{% booking id="internationalrail-email" fip_50=nil /%}}
 
 {{% booking id="trainseurope-email" /%}}
 
@@ -179,7 +181,7 @@ Bei Ankunft an einem anderen Londoner Kopfbahnhof und der Notwendigkeit, die U-B
 
 FIP Tickets nach London International CIV können vermutlich nur an Schaltern an Bahnhöfen in Großbritannien erworben werden.
 
-Ohne FIP Rabatt ist die Buchung Online möglich über [Trainsplit](https://trainsplit.com/). Dazu muss die Option _Use Split Tickets_ deaktiviert werden. Anschließend kann ein Ticket von oder nach _London International (for Eurostar) (LNE)_ gebucht werden. Der Tarif muss aber zwingend _EURO_ im Namen enthalten, wenn eine Verbindung ausgewählt wurde. Andernfalls handelt es sich um ein normales Ticket nach London ohne Anschlusssicherung. [^3]
+Ohne FIP Ermäßigung ist die Buchung Online möglich über [Trainsplit](https://trainsplit.com/). Dazu muss die Option _Use Split Tickets_ deaktiviert werden. Anschließend kann ein Ticket von oder nach _London International (for Eurostar) (LNE)_ gebucht werden. Der Tarif muss aber zwingend _EURO_ im Namen enthalten, wenn eine Verbindung ausgewählt wurde. Andernfalls handelt es sich um ein normales Ticket nach London ohne Anschlusssicherung. [^3]
 
 {{% /highlight %}}
 

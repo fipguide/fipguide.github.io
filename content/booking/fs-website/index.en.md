@@ -7,15 +7,16 @@ params:
   fip_50: false
   reservations: true
   classes:
-    first: "3€ / 25€"
-    second: "3€ / 25€"
+    first: "3 € / 25 €"
+    second: "3 € / 25 €"
   booking_link: "https://www.trenitalia.com/en.html"
   additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
   type: "website"
 ---
 
 {{% booking-section "reservations" %}}
-**Reservations and Supplements:**
+
+## Reservations
 
 On the Trenitalia website, you can purchase reservations including supplements for the FIP Coupon for Le Frecce and other long-distance trains.
 

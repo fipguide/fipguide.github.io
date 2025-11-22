@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Site web ZSSK"
+title: "Site Web ZSSK"
 description: "Informations sur la réservation via le site web ZSSK."
 
 params:
   classes:
-    first: "2€"
-    second: "1€"
+    first: "2 €"
+    second: "1 €"
   fip_50: true
   reservations: true
   booking_link: "https://www.zssk.sk/en/"

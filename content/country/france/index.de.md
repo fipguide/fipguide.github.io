@@ -5,11 +5,12 @@ description: "Informationen über die FIP-Bedingungen für Frankreich und für w
 country: "france"
 params:
   operators_without_fip:
-    - Transdev
-    - RATP
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Eisenbahnen auf Korsika)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#internationale-frecciarossa-züge-nach-paris" >}} "Frecciarossa (Trenitalia)")'
+    - Getlink (Eurotunnel LeShuttle)
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
+    - RATP
+    - Transdev
 ---
 
 ## FIP Nutzung
@@ -42,9 +43,11 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 | Belgien (SNCB) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
-### Großbritannien
+### Vereinigtes Königreich
 
 Grenzüberschreitende Verbindungen aus Großbritannien werden von [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") betrieben. Diese verkehren von London durch den Eurotunnel nach Lille und Paris. FIP Globalpreise sind für diese Verbindungen verfügbar.
+
+Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch keine FIP Ermäßigung gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich und Großbritannien, bei denen jedoch kein FIP Ermäßigung gewährt wird.
 
 ### Belgien
 
@@ -63,13 +66,13 @@ Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein
 
 ### Deutschland
 
-Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können auch über die Deutsche Bahn erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
+Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitenden der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
-Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitervergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
+Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitendenvergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
+Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
 Das Deutschlandticket, das eine günstige Option zur Nutzung im deutschen Regionalverkehr ist, gilt auch ohne zusätzliches Ticket auf den Regionalzugverbindungen von Deutschland nach Lauterbourg und Wissembourg oder mit der Saarbahn nach Sarreguemines.
@@ -79,7 +82,7 @@ Das Deutschlandticket, das eine günstige Option zur Nutzung im deutschen Region
 
 Aus der Schweiz verkehren von Zürich über Basel grenzüberschreitende TGV Züge nach Frankreich. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge").
 
-Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen.
+Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
 
@@ -93,14 +96,18 @@ Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza übe
 
 ### Spanien
 
-Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe bietet grenzüberschreitende Züge zwischen Lyon und Barcelona sowie Marseille und Madrid an.
+Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
 
-Bei beiden Anbietern sind FIP Globalpreise möglich, welche bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen Zügen gelten die gleichen Preise wie bei inländischen AVEs, allerdings sind diese Tickets ausschließlich bei Renfe Ticketschaltern vor Ort erhältlich.
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets ab 15 € verfügbar (Stand: Oktober 2025). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. [^1]
+
+Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye an der Atlantikküste gefahren werden.
+
+Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen nach Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal oder am Renfe Ticketschalter in Spanien erworben werden.
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
-
-Mit [Euskotren]({{< ref "/operator/euskotren" >}}) kann mit dem speziellen FIP Ticket bis nach Hendaye gefahren werden.
 
 ### Monaco
 
 Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
+
+[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)

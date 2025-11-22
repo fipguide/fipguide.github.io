@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Euskotren"
+description: "Information about FIP conditions for Euskotren: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
 operator: "euskotren"
@@ -10,7 +11,7 @@ In northern Spain, Euskotren operates a Basque railway network that connects the
 
 ## Summary
 
-- If you present your FIP card on site, you receive a free "Euskotren FIP Ticket" that is valid for 7 days and entitles you to use the entire Euskotren network except for buses.[^1]
+- If you present your FIP Card on site, you receive a free "Euskotren FIP Ticket" that is valid for 7 days and entitles you to use the entire Euskotren network except for buses.[^1]
 - With the ticket you can travel on trains, metro line L3 in Bilbao, trams and the "Funicular de Larreineta" funicular railway.
 - After expiry, you can have the ticket reissued multiple times per year.
 
@@ -22,8 +23,8 @@ Special "Euskotren FIP Ticket" (for holders & relatives): ✅
 
 <!-- TODO: Replace with markdown image and find ways to customize width -->
 <img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
-The staff at Euskotren customer centers will issue you a special "Euskotren FIP Ticket" upon presentation of your FIP card.
-The ticket is also issued for relatives with their own FIP card. It is valid for 7 days including the day of issue and you can use it for the entire Euskotren network except for regional bus lines and the museum railway.
+The staff at Euskotren customer centers will issue you a special "Euskotren FIP Ticket" upon presentation of your FIP Card.
+The ticket is also issued for relatives with their own FIP Card. It is valid for 7 days including the day of issue and you can use it for the entire Euskotren network except for regional bus lines and the museum railway.
 You use the "Euskotren FIP Ticket" to pass through platform barriers. After expiry, you can have the ticket reissued multiple times per year. Euskotren does not apply the usual limitation for FIP Coupons.
 
 <br style="clear:both" aria-hidden="true" />
@@ -61,12 +62,12 @@ Euskotren operates the historic funicular railway between Trapagaran and Larrein
 
 The machines at the stations accept the "Euskotren FIP Ticket". If it is not accepted, please contact the staff on site.
 
-If you don't have an "Euskotren FIP Ticket", the staff at the stations will issue free individual tickets for the funicular railway upon presentation of the FIP card.
+If you don't have an "Euskotren FIP Ticket", the staff at the stations will issue free individual tickets for the funicular railway upon presentation of the FIP Card.
 {{% /expander %}}
 
 ## Class Categories
 
-There is a uniform class that can be used with both 1st and 2nd class FIP cards.
+There is a uniform class that can be used with both 1st and 2nd class FIP Cards.
 
 ## Ticket and Reservation Purchase
 
@@ -84,7 +85,7 @@ FIP Tickets are not valid on Euskotren's regional bus lines.
 
 ### Railway Museum in Azpeitia
 
-Euskotren also operates the Basque Railway Museum in Azpeitia, which is accessible by bus from Eibar, Zumaia and Zumarraga[^2]. Free admission is granted upon presentation of the FIP card. FIP discounts are not accepted on the museum's steam train.
+Euskotren also operates the Basque Railway Museum in Azpeitia, which is accessible by bus from Eibar, Zumaia and Zumarraga[^2]. Free admission is granted upon presentation of the FIP Card. FIP discounts are not accepted on the museum's steam train.
 
 ## Sources
 

@@ -24,5 +24,5 @@ FIP 50 Fahrkarten für nationale und grenzüberschreitende Fahrten können am SN
 
 ## Reservierungen
 
-Da in Belgien keine Reservierungen für Züge erwerbbar sind verkauft die SNCB nur internationale Reservierungen z.B. für den ICE Brüssel - Frankfurt.
+Da in Belgien keine Reservierungen für Züge erwerbbar sind verkauft die SNCB nur internationale Reservierungen z. B. für den ICE Brüssel – Frankfurt.
 {{% /booking-section %}}

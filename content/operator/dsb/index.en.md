@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "DSB"
-description: "Information about FIP conditions at DSB."
+description: "Information about FIP conditions at DSB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "denmark"
 operator: "dsb"
@@ -24,7 +24,7 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 
 ## Train Categories and Reservations
 
-Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg - Copenhagen are usually reservation-required during the summer.
+Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg – Copenhagen are usually reservation-required during the summer.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Description:** \
@@ -79,7 +79,7 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
 ### On-Site

@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Trainseurope Ltd."
-description: "Buchungsinformationen für die Buchung per E-Mail bei Trainseurope Ltd."
+title: "Trainseurope Ltd. Telefon"
+description: "Buchungsinformationen für die Buchung per Telefon bei Trainseurope Ltd."
 
 params:
   fip_global_fare: true
   type: "phone"
-  fee: 10£
+  fee: 10 £
 ---
 
 {{% booking-section "fip_global_fare" %}}
@@ -21,6 +21,6 @@ params:
 - Reiseklasse (analog Berechtigung des FIP-Ausweises)
 - Foto des FIP Ausweises aller reisender Personen per E-Mail an [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk)
 
-**Pro Buchung wird eine Buchungsgebühr von 10£ erhoben.**
+**Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.**
 
 {{% /booking-section %}}

@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Deutsche Bahn Website"
+title: "DB Website"
 description: "Booking information for Deutsche Bahn Website."
 params:
   classes:
-    first: "€6.90"
-    second: "€5.50"
+    first: "€ 6.90"
+    second: "€ 5.50"
   fip_50: false
   reservations: true
   booking_link: "https://int.bahn.de/en/"

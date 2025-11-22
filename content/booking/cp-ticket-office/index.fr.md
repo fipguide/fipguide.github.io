@@ -6,10 +6,10 @@ params:
   classes:
     # Définissez les classes et les tarifs correspondants aux réservations.
     # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "5,00€"
-    second: "5,00€"
+    first: "5,00 €"
+    second: "5,00 €"
   fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: false # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
+  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
   reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
   additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices" # Ajoutez un lien vers des informations supplémentaires
   type: "onsite" # Types acceptés : website, onsite, phone, email et machine
@@ -21,12 +21,11 @@ params:
 
 Aux guichets CP, il est possible d'acheter des Billets FIP 50 pour des voyages à l'intérieur du Portugal. Le tarif est calculé sur place à l'aide du calculateur de prix.
 {{% /booking-section %}}
-
 {{% booking-section "fip_global_fare" %}}
 
 ## Tarif Global FIP
 
-Les billets Tarif Global FIP ne sont pas vendus aux guichets CP. Pour le service international Celta, un Tarif Global FIP spécial s'applique et les billets doivent être achetés via les canaux de vente espagnols (voir la page opérateur CP pour plus de détails).
+Aux guichets CP, des billets Tarif Global FIP sont vendus pour le train international Celta entre Porto et Vigo (Espagne).
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

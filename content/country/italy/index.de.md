@@ -22,7 +22,7 @@ Im Fernverkehr sind die Frecce-Züge der Trenitalia nur mit teuren Reservierunge
 
 ## Wissenswertes
 
-Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die schnellen und hochwertigen Fernzugverbindungen. Dadurch sind Reisen zwischen Nord- und Süditalien in kurzer Zeit möglich. Abseits der Hochgeschwindigkeitsstrecken gibt es auch viele klassische und teilweise sehr schöne Regionalzugstrecken. Ein Beispiel dafür ist die Bahnstrecke durch Cinque Terre in Ligurien, in der in einer dichten Frequenz Züge in allen fünf Orten halten. Diese Bahnstrecke ist gleichzeitig die wichtigste Verbindung zwischen den sonst schwer erreichbaren Orten. Die Regionalzüge in Italien verkehren dabei jedoch nicht in einem klassischen Taktsystem, sondern meist in ungelmäßigen Abständen. Außerdem kann die Insel Sardinien mit Nacht- und InterCity-Zügen erreicht werden. Diese passieren dabei per Trenitalia-Fähre die Straße von Messina.
+Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die schnellen und hochwertigen Fernzugverbindungen. Dadurch sind Reisen zwischen Nord- und Süditalien in kurzer Zeit möglich. Abseits der Hochgeschwindigkeitsstrecken gibt es auch viele klassische und teilweise sehr schöne Regionalzugstrecken. Ein Beispiel dafür ist die Bahnstrecke durch Cinque Terre in Ligurien, in der in einer dichten Frequenz Züge in allen fünf Orten halten. Diese Bahnstrecke ist gleichzeitig die wichtigste Verbindung zwischen den sonst schwer erreichbaren Orten. Die Regionalzüge in Italien verkehren dabei jedoch nicht in einem klassischen Taktsystem, sondern meist in ungelmäßigen Abständen. Außerdem kann die Insel Sizilien mit Nacht- und InterCity-Zügen erreicht werden. Diese passieren dabei per Trenitalia-Fähre die Straße von Messina.
 
 ## Anreise und Grenzpunkte
 
@@ -36,7 +36,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | Fähre (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
 \
-[>] = In Richtung (z.B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
+[>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
 {{% /expander %}}
 
 ### Slowenien
@@ -44,9 +44,9 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP 50 Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
 
 Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
-Dabei gilt im italienischen Abschnitt (Villa Opicina - Trieste) der ÖBB FIP Coupon, wobei hier ein geringer Fernverkehrszuschlag zu zahlen ist. Dieser ist aber deutlich niedriger als die typischen FS Fernverkehrszuschläge.
+Dabei gilt im italienischen Abschnitt (Villa Opicina – Trieste) der ÖBB FIP Coupon, wobei hier ein geringer Fernverkehrszuschlag zu zahlen ist. Dieser ist aber deutlich niedriger als die typischen FS Fernverkehrszuschläge.
 
-Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale - Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
+Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
 
 {{% highlight tip %}}
 Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen Slowenien und Italien ist online nicht möglich. Über die Trenitalia können jedoch sehr günstige grenzüberschreitende Normalpreistickets erworben werden. Diese sind bei der SŽ teurer.
@@ -56,7 +56,7 @@ Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen S
 
 Aus der Schweiz kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen nach Italien gereist werden. Mailand kann sowohl über Como als auch über Domodossola aus dem Schweizer Netz erreicht werden. Die Züge über Como kommen meist aus Richtung Zürich, die über Domodossola aus Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist eine Reservierung nötig, die einen Aufschlag beinhaltet. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt – Mailand sowie die `EC` Züge Zürich – Mailand.
 
-Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20€ (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10€ (2. Klasse) bzw. 13€ (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
+Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 
 {{% highlight tip %}}
 Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere, aber teurere Variante, bleiben jedoch die durchgehenden `EC` und `ECE` Züge.

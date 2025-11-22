@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Informations sur les conditions FIP chez les CFF (SBB CFF FFS)."
+description: "Informations sur les conditions FIP chez les CFF (SBB CFF FFS) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "switzerland"
 ---
@@ -10,8 +10,8 @@ Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) son
 
 ## Résumé
 
-- Les CFF acceptent les Coupons FIP et les Billets FIP 50
-- Réservation obligatoire et supplément pour les trains Eurocity (Italie) et `TGV` (France) au départ de la frontière
+- Les CFF acceptent les Coupons FIP et les Billets FIP 50.
+- Réservation obligatoire et supplément pour les trains Eurocity (Italie) et `TGV` (France) au départ de la frontière.
 
 ## Validité des Billets FIP
 
@@ -91,13 +91,13 @@ Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aus
 {{% booking id="db-website-fip-db"
   subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux employés de la Deutsche Bahn."
 %}}
-Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
+Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort – Milan jusqu'à Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (pas de validité dans le pays d'émission de la carte FIP)"
+  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (pas de validité dans le pays d'émission de la Carte FIP)"
 %}}
-Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort - Milan jusqu'à Milan.
+Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort – Milan jusqu'à Milan.
 {{% /booking %}}
 
 ### Par téléphone
@@ -137,8 +137,8 @@ Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de 
 Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \
 Ce supplément (incluant la réservation) est obligatoire, même avec un Coupon FIP ou un Billet FIP 50.
 
-- 2ᵉ classe : 11€
-- 1ère classe : 13€
+- 2ᵉ classe : 11 €
+- 1ère classe : 13 €
 
 Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
 

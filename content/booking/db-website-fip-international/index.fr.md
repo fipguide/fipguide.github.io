@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Site DB – FIP (International)"
+title: "Site Web FIP DB (International)"
 description: "Informations de réservation pour les Billets FIP incluant une section en Allemagne."
 
 params:
   classes:
-    first: "6,90€"
-    second: "5,50€"
+    first: "6,90 €"
+    second: "5,50 €"
   fip_50: true
   reservations: true
   booking_link: "https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE"
@@ -21,7 +21,7 @@ aliases:
 
 ## Billets FIP 50
 
-Des Billets FIP 50 pour des trajets en Allemagne et vers les pays voisins peuvent être réservés en ligne via la Deutsche Bahn. Le billet doit obligatoirement inclure au moins une section en Allemagne. Le Billet FIP 50 est émis pour l’ensemble du trajet. Il **n’est pas valable dans le pays où la carte FIP a été délivrée** — un billet supplémentaire est requis pour cette partie.
+Des Billets FIP 50 pour des trajets en Allemagne et vers les pays voisins peuvent être réservés en ligne via la Deutsche Bahn. Le billet doit obligatoirement inclure au moins une section en Allemagne. Le Billet FIP 50 est émis pour l’ensemble du trajet. Il **n’est pas valable dans le pays où la Carte FIP a été délivrée** — un billet supplémentaire est requis pour cette partie.
 
 La réservation est uniquement possible via ce [lien](https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE). Il n’est pas nécessaire de sélectionner une réduction : elle s’applique automatiquement.
 

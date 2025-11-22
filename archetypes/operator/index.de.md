@@ -15,14 +15,14 @@ operator: "{{ .File.ContentBaseName }}"
 {{< wip >}}
 
 <!--
-  Kurze Beschreibung der Bahngesellschaft. Z.B. Der vollstandige Name in Landessprache, alternative Namen und Angabe über Privat/Staatsbahn
+  Kurze Beschreibung der Bahngesellschaft. z. B. Der vollstandige Name in Landessprache, alternative Namen und Angabe über Privat/Staatsbahn
 -->
 
 ## Zusammenfassung
 
 <!--
   Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
-  Z.B.
+  z. B.
   - Werden FIP 50 und FIP Freifahrtscheine akzeptiert?
   - Gibt es eine Reservierungspflicht?
   - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
@@ -40,7 +40,7 @@ FIP 50 Tickets: <✅/⛔> \
 FIP Globalpreis: <✅/⛔>
 
 <!--
-  Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z.B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
+  Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
 -->
 
 ## Zugkategorien und Reservierungen
@@ -60,7 +60,7 @@ FIP Globalpreis: <✅/⛔>
 
 {{% expander "Zugkategorie" traincategory "category" %}}
 
-<!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z.B. ICE. -->
+<!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z. B. ICE. -->
 
 **Beschreibung:**
 
@@ -146,7 +146,7 @@ FIP Globalpreis: <✅/⛔>
 ### <Route bzw. Name>
 
 <!--
-  Beschreibung der Besonderheit, wenn es auf bestimmten Routen z.B. Sonderregelungen gibt.
+  Beschreibung der Besonderheit, wenn es auf bestimmten Routen z. B. Sonderregelungen gibt.
 -->
 
 ## Empfehlungen

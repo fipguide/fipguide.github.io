@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "PKP"
-description: "Informations sur les conditions FIP chez PKP."
+description: "Informations sur les conditions FIP chez PKP : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "poland"
 operator: "pkp"
@@ -11,9 +11,9 @@ Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leu
 
 ## Résumé
 
-- PKP accepte les Coupons FIP et les Billets FIP 50
-- Réservation obligatoire pour les trains `EIP` et `EIC` et partiellement pour les trains `IC` et `TLK`
-- Validité des Billets FIP de PKP également dans le système RER de Gdansk (Tri-Cité), chez Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) et sur certaines lignes de Koleje Dolnośląskie (KD)
+- PKP accepte les Coupons FIP et les Billets FIP 50.
+- Réservation obligatoire pour les trains `EIP` et `EIC` et partiellement pour les trains `IC` et `TLK`.
+- Validité des Billets FIP de PKP également dans le système RER de Gdansk (Tri-Cité), chez Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) et sur certaines lignes de Koleje Dolnośląskie (KD).
 
 ## Validité des Billets FIP
 
@@ -136,7 +136,7 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Pologne pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
 /%}}
 
 ### En gare
@@ -193,7 +193,7 @@ Nous ne connaissons pas d'autres réductions.
 Un billet pour un voyage simple est valable jusqu'à minuit le jour d'émission. La validité des billets simples FIP 50 dépend de la distance :
 
 - jusqu'à 50 km : 3 heures à partir de la date et de l'heure d'émission (ou à partir d'un moment choisi par le voyageur)
-- 51 km – 100 km : 6 heures à partir de la date et de l'heure d'émission (ou à partir d'un moment choisi par le voyageur)
+- 51 km à 100 km : 6 heures à partir de la date et de l'heure d'émission (ou à partir d'un moment choisi par le voyageur)
 - à partir de 101 km : jusqu'à minuit le jour d'émission (le jour est valable de 00h01 à 24h00)
 
 #### Koleje Mazowieckie (KM)

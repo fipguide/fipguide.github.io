@@ -7,13 +7,14 @@ params:
   fip_50: false
   reservations: true
   classes:
-    first: "3€ / 25€"
-    second: "3€ / 25€"
+    first: "3 € / 25 €"
+    second: "3 € / 25 €"
   type: "machine"
 ---
 
 {{% booking-section "reservations" %}}
-**Reservierungen und Aufschläge:**
+
+## Reservierungen
 
 An Trenitalia Fahrkartenautomaten können Reservierungen inkl. Aufschläge zum Freifahrtschein für Le Frecce und sonstige Fernzüge erworben werden.
 

@@ -9,9 +9,8 @@ $link-default: #ba3d12;
 $link-special: #000000;
 $bg-default: #ffffff;
 $bg-neutral: #ebe9e1;
-$bg-accent: #ffd900;
-$bg-accent2: #daba00;
-$bg-accent3: #fff284;
+$bg-accent: #ffff00;
+$bg-code: #fff284;
 $color-onLight: #000000;
 $color-table-border: #5b5b5b;
 
@@ -24,8 +23,7 @@ html {
   --bg-default: #{$bg-default};
   --bg-neutral: #{$bg-neutral};
   --bg-accent: #{$bg-accent};
-  --bg-accent2: #{$bg-accent2};
-  --bg-accent3: #{$bg-accent3};
+  --bg-code: #{$bg-code};
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
@@ -42,28 +40,31 @@ html {
   --border: 0.1rem solid transparent;
   --pagefind-ui-font: roboto, Arial, Helvetica, sans-serif;
   --outline-focus-indicator: #257fa8;
+
+  @media print {
+    --bg-neutral: white;
+  }
 }
 
 html[data-theme="dark"] {
-  --pagefind-ui-text: #fff;
-  --link-default: #ff6b3d;
-  --link-hovered: #ff8a5b;
-  --link-special: #ffffff;
-  --bg-default: #151b23;
-  --bg-neutral: #0d1117;
-  --bg-accent: #86761a;
-  --bg-accent2: #daba00;
-  --bg-accent3: #fff284;
-  --color-onLight: #ffffff;
-  --color-table-border: #555;
-  --color-body: #e0e0e0;
-  --pagefind-ui-border: #555;
-  --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
-  --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);
-  --pagefind-ui-background: var(--bg-default);
-  --highlight-color-tip: #1a4a5c;
-  --highlight-color-inofficial: #2a2d30;
-  --highlight-color-important: #4a2a1a;
-  --border: 0.1rem solid #3d444d;
-  --outline-focus-indicator: #2e9acb;
+  @media screen {
+    --pagefind-ui-text: #fff;
+    --link-default: #ff6b3d;
+    --link-hovered: #ff8a5b;
+    --link-special: #ffffff;
+    --bg-default: #151b23;
+    --bg-neutral: #0d1117;
+    --color-onLight: #ffffff;
+    --color-table-border: #555;
+    --color-body: #e0e0e0;
+    --pagefind-ui-border: #555;
+    --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
+    --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);
+    --pagefind-ui-background: var(--bg-default);
+    --highlight-color-tip: #1a4a5c;
+    --highlight-color-inofficial: #2a2d30;
+    --highlight-color-important: #4a2a1a;
+    --border: 0.1rem solid #3d444d;
+    --outline-focus-indicator: #2e9acb;
+  }
 }

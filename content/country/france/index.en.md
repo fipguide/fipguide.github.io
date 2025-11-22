@@ -5,11 +5,12 @@ description: "Information about FIP conditions for France and which operators of
 country: "france"
 params:
   operators_without_fip:
-    - Transdev
-    - RATP
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
     - CFC (Chemins de fer de la Corse / Railways in Corsica)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#international-frecciarossa-trains-to-paris" >}} "Frecciarossa (Trenitalia)")'
+    - Getlink (Eurotunnel LeShuttle)
+    - RATP
+    - Transdev
+    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
 ---
 
 ## FIP Information
@@ -46,6 +47,8 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 
 Cross-border connections from the UK are operated by [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar"), running from London through the Channel Tunnel to Lille and Paris. FIP Global Fares are available for these routes.
 
+From Folkestone, there is also the LeShuttle Motorail train through the Eurotunnel, but no FIP discount is granted for this service. In addition, there are various ferry connections between France and the United Kingdom, but no FIP discount is granted for these either.
+
 ### Belgium
 
 From Belgium, SNCF operates international `TGV` trains from Brussels to Paris. Expensive FIP Global Fare tickets are required for these. There is also a OuiGo service from Brussels to Paris, which cannot be used with FIP.
@@ -63,13 +66,13 @@ Travel within Luxembourg is free in 2nd class, so a CFL Coupon is not strictly n
 
 ### Germany
 
-Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased via Deutsche Bahn, see [Booking options – Online]({{< ref "/operator/sncf#online" >}} "Booking options - Online").
+Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online]({{< ref "/operator/sncf#online" >}} "Booking options - Online").
 
 {{% highlight tip %}}
 A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4 from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket (DB employee discounts only apply with NE tickets) is. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
 {{% /highlight %}}
 
-There are also various regional train connections from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid.
+There are also various regional train connections from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid. FIP 50 Tickets for these connections can be purchased online; see [Booking options – Online]({{< ref "/operator/sncf#online" >}} "Booking options - Online").
 
 {{% highlight tip %}}
 The Deutschlandticket, a cheap option for regional travel in Germany, is also valid without an additional ticket on regional train connections from Germany to Lauterbourg and Wissembourg or with the Saarbahn to Sarreguemines.
@@ -79,7 +82,7 @@ The Deutschlandticket, a cheap option for regional travel in Germany, is also va
 
 From Switzerland, cross-border TGV trains run from Zurich via Basel to France. In Switzerland, these can be used without reservation with FIP 50 Tickets or SBB FIP Coupon. For cross-border connections, a FIP Global Fare must be purchased, see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Cross-border TGV inOui / ICE trains").
 
-There are also various cross-border regional train connections.
+There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
 In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF. SNCF FIP Coupons are also valid in the Swiss section on Léman Express trains.
 
@@ -93,14 +96,18 @@ SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco
 
 ### Spain
 
-Direct `TGV` trains run from Paris to Barcelona, operated by SNCF. Renfe also offers cross-border trains between Lyon and Barcelona and Marseille and Madrid.
+Direct `TGV` trains operated by the French SNCF run from Barcelona to Paris. Renfe also operates cross-border services between Barcelona and Lyon as well as Madrid and Marseille.
 
-Both operators offer FIP Global Fares, which can be very expensive with SNCF, see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Cross-border TGV inOui / ICE trains"). For Renfe-operated trains, the same prices apply as for domestic AVEs, but these tickets are only available at Renfe ticket counters on site.
+FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain. [^1]
+
+With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
+
+There are also regional Rodalies de Catalunya trains operated by Renfe with cross-border connections to Cerbère and Latour-de-Carol. FIP Tickets can be purchased directly on the train from the train staff or at Renfe ticket counters in Spain.
 
 Overall, there are very few cross-border connections, which were much better developed a few years ago.
-
-With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with a special FIP ticket to Hendaye.
 
 ### Monaco
 
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
+
+[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)

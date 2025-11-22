@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Informations sur les conditions FIP chez ÖBB."
+description: "Informations sur les conditions FIP chez ÖBB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "austria"
   - "liechtenstein"
@@ -52,7 +52,7 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
 
 {{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Description :** \
-La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Vienne–Gmunden–Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
+La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
 
 ℹ️ Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables. \
 **Réservation possible :** oui \
@@ -61,7 +61,7 @@ La plupart des trains `IC` sur les axes principaux ont été progressivement rem
 
 {{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Description :** \
-À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz–Unzmarkt ou Graz–Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures. \
+À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz – Unzmarkt ou Graz – Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -124,9 +124,9 @@ Train régional au moins toutes les heures, arrêt à toutes les gares. Comparab
 Exemples :
 
 - S-Bahn Haute-Autriche : S5 Linz – Eferding (Linzer Lokalbahn)
-- S-Bahn Salzbourg : S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
-- S-Bahn Styrie : S11 Graz–Übelbach (Steiermarkbahn)
-- S6, S61 Graz–Wies-Eibiswald, S7 Graz–Köflach (Graz-Köflacher Eisenbahn)
+- S-Bahn Salzbourg : S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
+- S-Bahn Styrie : S11 Graz – Übelbach (Steiermarkbahn)
+- S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
 
 **Réservation possible :** non
 {{% /expander %}}
@@ -158,7 +158,7 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
@@ -196,11 +196,11 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
-#### Brenner - Bolzano - Vérone
+#### Brenner – Bolzano – Vérone
 
 Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
-#### Railjet Tarvisio Boscoverde - Venise
+#### Railjet Tarvisio Boscoverde – Venise
 
 Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
@@ -208,7 +208,7 @@ Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Ve
 
 Les Coupons FIP ÖBB, **mais pas FS**, sont valables dans la section italienne jusqu’à Trieste. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 2,60 € en 2ᵉ classe et 4,60 € en 1ʳᵉ classe est à payer. Pour la section slovène, un Coupon FIP SŽ ou un Billet FIP 50 est requis.
 
-### Ligne REX63 (Pamhagen–Neusiedl am See)
+### Ligne REX63 (Pamhagen – Neusiedl am See)
 
 Sur la ligne REX63 entre Pamhagen et Neusiedl am See, les Billets FIP ÖBB et GySEV sont acceptés.
 
@@ -230,7 +230,7 @@ Si vous voyagez avec des tickets de transport public viennois classiques (par ex
 
 ### Schneebergbahn
 
-La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une carte FIP donne droit à une réduction de 50 % sur les billets.
+La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une Carte FIP donne droit à une réduction de 50 % sur les billets.
 
 ### ÖBB Postbus
 
@@ -240,11 +240,11 @@ Les Billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de
 
 Les Billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de remplacement ferroviaire (SEV) et les itinéraires suivants :
 
-#### Graz - Klagenfurt
+#### Graz – Klagenfurt
 
 Jusqu’en décembre 2025, les Billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venise
+#### Klagenfurt/Villach – Udine/Venise
 
 Des Tarifs Globaux FIP spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
 

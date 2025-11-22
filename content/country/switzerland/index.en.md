@@ -73,6 +73,10 @@ There are various connections from France:
 
 Regular FIP Tickets are not valid on `TGV` trains. A FIP global fare ticket is required. For regional trains, a FIP 50 ticket or Coupons from both involved railways are sufficient.
 
+In Basel, the station Basel SBB is the border station up to which SNCF FIP Coupons are valid for trains such as `TER` from Strasbourg.
+
+In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF. SNCF FIP Coupons are also valid on the Swiss section of Léman Express trains.
+
 ### Italy
 
 From Italy, both long-distance and regional trains cross into Switzerland. From Milan, you can reach the Swiss network via Como or Domodossola. Trains via Como usually continue to Zurich, those via Domodossola to Bern and Basel. Both Eurocity and regional trains run on these routes. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a reservation with surcharge is required. Additionally, the `ECE` train Frankfurt - Milan and the `EC` trains Zurich - Milan operate.

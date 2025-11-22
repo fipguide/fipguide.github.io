@@ -24,3 +24,6 @@ Das Angebot umfasst folgende Möglichkeiten:
   Darüber hinaus können auch "100% Ermäßigung Niederlande" und "Freifahrtschein Luxemburg (CFL)" angegeben werden und auch mehrere Ermäßigungen kombiniert werden, beispielsweise auch noch mit einer BahnCard. Damit lassen sich hier viele kombinierte vergünstigte FIP-Fahrten buchen.
 
 Schreibt uns gerne über unser Kontaktformular, wenn ihr Erfahrungen mit den Vergünstigungen über die Website gemacht habt.
+
+**Update 05.11.2025:** \
+Die Funktion zum Buchen von FIP 50 Tickets wurde mittlerweile wieder entfernt. Nur noch die Buchung von Tickets mit Berücksichtigung der Freifahrt ist möglich.

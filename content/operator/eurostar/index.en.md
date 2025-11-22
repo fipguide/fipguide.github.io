@@ -1,10 +1,12 @@
 ---
 draft: false
 title: "Eurostar"
-description: "Information about FIP conditions for Eurostar."
+description: "Information about FIP conditions for Eurostar: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "belgium"
   - "netherlands"
+  - "united-kingdom"
+  - "france"
 operator: "eurostar"
 ---
 
@@ -38,7 +40,7 @@ High-speed train between Great Britain and Europe \
 **FIP Global Fare:**
 | Route | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brussels | 39€ / 34.50 £ | 60€ / 52.50 £ |
+| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
 | London - Amsterdam / Rotterdam | ?€ / 44.50 £ | ?€ / 62 £ |
 | Brussels - Amsterdam / Rotterdam | ?€ / 15.50 £ | ?€ / 30.50 £ |
 {{% /expander %}}
@@ -52,8 +54,8 @@ High-speed train between Belgium, Germany, France, and the Netherlands \
 | Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | Travel within one country | No FIP | No FIP |
-| Travel between 2 countries | 18€ | 35€ |
-| Travel between 3 countries | 20€ | 40€ |
+| Travel between 2 countries | 18 € | 35 € |
+| Travel between 3 countries | 20 € | 40 € |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" traincategory category %}}
@@ -84,7 +86,7 @@ Online booking of tickets is currently not possible. However, checking in, reboo
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="internationalrail-email" /%}}
+{{% booking id="internationalrail-email" fip_50=nil /%}}
 
 {{% booking id="trainseurope-email" /%}}
 
@@ -114,7 +116,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
 
 #### FIP Global Fare
 
-When booking, the FIP cards of all travelers must be presented.
+When booking, the FIP Cards of all travelers must be presented.
 {{% /booking %}}
 
 ### Onboard

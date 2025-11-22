@@ -25,6 +25,7 @@ country:
   many: Länder
   one: Land
   other: Länder
+discord: FIP Guide Community
 editPage: Seite bearbeiten
 footer-love:
   aria-label: Made with love in Europe
@@ -68,7 +69,9 @@ menu:
     dropdown-label: Verfügbare Betreiber
     label: Betreiber
     title: Betreiber-Dropdown öffnen
-  search: Suche öffnen
+  search:
+    close: Suche schließen
+    open: Suche öffnen
   theme:
     switch-to-auto: Zu automatischem Modus wechseln
     switch-to-dark: Zu dunklem Modus wechseln

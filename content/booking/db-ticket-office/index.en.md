@@ -5,8 +5,8 @@ description: "Booking information for Deutsche Bahn ticket offices."
 
 params:
   classes:
-    first: "€6.90"
-    second: "€5.50"
+    first: "€ 6.90"
+    second: "€ 5.50"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.bahnhof.de/en/service/travel-centre"
@@ -15,6 +15,8 @@ params:
 aliases:
   - db_ticket_office
 ---
+
+Deutsche Bahn ticket offices are called _DB Reisezentrum_ and are located in many larger stations throughout Germany.
 
 {{% booking-section "fip_50" %}}
 

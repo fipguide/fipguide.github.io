@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "CP"
-description: "Informations sur les conditions FIP chez Comboios de Portugal (CP)."
+description: "Informations sur les conditions FIP chez Comboios de Portugal (CP) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "portugal"
 operator: "cp"
@@ -97,14 +97,12 @@ Ligne entre Coimbra et Figueira da Foz.
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Celta : Porto - Vigo ⚠️" traincategory "category" %}}
+{{% expander "Celta : Porto – Vigo ⚠️" traincategory "category" %}}
 **Description :** \
 Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif Global FIP (indépendant de la distance) :** 4€
-
-Les billets pour ce service doivent être achetés via les canaux de vente espagnols.
 {{% /expander %}}
 
 ## Catégories de classes

@@ -22,7 +22,7 @@ Pour les trajets longue distance, les trains Frecce de Trenitalia ne sont access
 
 ## Informations générales
 
-L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et de grande qualité en longue distance sont particulièrement remarquables, permettant de voyager rapidement entre le nord et le sud du pays. En dehors des lignes à grande vitesse, il existe de nombreuses lignes régionales classiques et parfois très pittoresques. Par exemple, la ligne ferroviaire des Cinque Terre en Ligurie, où les trains desservent fréquemment les cinq villages, est la principale connexion entre ces lieux difficilement accessibles autrement. Les trains régionaux en Italie ne circulent pas selon un horaire cadencé classique, mais plutôt à intervalles irréguliers. La Sardaigne est accessible par trains de nuit et InterCity, qui traversent le détroit de Messine par ferry Trenitalia.
+L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et de grande qualité en longue distance sont particulièrement remarquables, permettant de voyager rapidement entre le nord et le sud du pays. En dehors des lignes à grande vitesse, il existe de nombreuses lignes régionales classiques et parfois très pittoresques. Par exemple, la ligne ferroviaire des Cinque Terre en Ligurie, où les trains desservent fréquemment les cinq villages, est la principale connexion entre ces lieux difficilement accessibles autrement. Les trains régionaux en Italie ne circulent pas selon un horaire cadencé classique, mais plutôt à intervalles irréguliers. La Sicile est accessible par trains de nuit et InterCity, qui traversent le détroit de Messine par ferry Trenitalia.
 
 ## Arrivée et points frontières
 
@@ -43,9 +43,9 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 
 Depuis la Slovénie, il est possible d’entrer en Italie par des trains régionaux via Villa Opicina. Les Billets FIP ou Coupons FIP des deux pays (FS et SŽ) ou un Billet FIP 50 direct sont nécessaires. Ces trains circulent rarement, il est donc conseillé de bien planifier son voyage.
 
-Il existe aussi des liaisons Eurocity depuis l’Autriche via la Slovénie vers Trieste (`EC` 151/134). Sur le tronçon italien (Villa Opicina - Trieste), le Coupon FIP ÖBB est valable, mais un petit supplément longue distance doit être payé, nettement inférieur aux suppléments habituels de la FS.
+Il existe aussi des liaisons Eurocity depuis l’Autriche via la Slovénie vers Trieste (`EC` 151/134). Sur le tronçon italien (Villa Opicina – Trieste), le Coupon FIP ÖBB est valable, mais un petit supplément longue distance doit être payé, nettement inférieur aux suppléments habituels de la FS.
 
-Le passage frontalier de Nova Gorica (ligne Gorizia Centrale - Nova Gorica) n’est utilisé en trafic voyageurs qu’à des occasions particulières.
+Le passage frontalier de Nova Gorica (ligne Gorizia Centrale – Nova Gorica) n’est utilisé en trafic voyageurs qu’à des occasions particulières.
 
 {{% highlight tip %}}
 La réservation de Billets FIP ou Coupons FIP pour le tronçon transfrontalier entre la Slovénie et l’Italie n’est pas possible en ligne. Cependant, il est possible d’acheter des billets ordinaires très bon marché pour ce tronçon via Trenitalia. Ils sont plus chers via la SŽ.

@@ -5,8 +5,8 @@ description: "Booking information for SNCF ticket offices."
 
 params:
   classes:
-    first: "€1.70 / €15"
-    second: "€1.70 / €10"
+    first: "€ 1.70 / € 15"
+    second: "€ 1.70 / € 10"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.garesetconnexions.sncf/en/stations-services"

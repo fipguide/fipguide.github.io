@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Find out about the FIP conditions at SNCB."
+description: "Find out about the FIP conditions at SNCB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "belgium"
 operator: "sncb"
@@ -11,9 +11,9 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 ## Summary
 
-- SNCB accepts FIP Coupons and FIP 50 Tickets
-- No reservation required
-- Surcharge for trips to/from Brussels Zaventem Airport
+- SNCB accepts FIP Coupons and FIP 50 Tickets.
+- No reservation required.
+- Surcharge for trips to/from Brussels Zaventem Airport.
 
 ## Validity of FIP Tickets
 
@@ -48,9 +48,9 @@ International, supplement-required train between Lelystad, Amsterdam, and Brusse
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
-Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid for both FIP 50 Tickets and FIP Coupons.
+Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3 € must be paid for both FIP 50 Tickets and FIP Coupons.
 This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 Tickets, prices may vary by train category.
 {{% /expander %}}
 
@@ -104,7 +104,7 @@ Additional trains to certain tourist destinations, often simply referred to as `
 Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncb-website"
-    subtitle="Only for cross-border journeys to/from Belgium"
+    subtitle="Only for cross-border journeys to/from Belgium with FIP Coupon."
 /%}}
 
 {{% booking id="db-website-fip-db"
@@ -112,7 +112,7 @@ Domestic journeys unfortunately cannot be purchased online.
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
 ### On-site

@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Site web ÖBB"
+title: "Site Web ÖBB"
 description: "Informations de réservation via le site web ÖBB."
 params:
   classes:
-    first: "3€"
-    second: "3€"
+    first: "3 €"
+    second: "3 €"
   fip_50: false
   reservations: true
   booking_link: "https://shop.oebbtickets.at/en/ticket"

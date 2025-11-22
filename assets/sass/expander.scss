@@ -11,6 +11,10 @@
   justify-content: space-between;
   border-radius: var(--border-radius-m);
 
+  @media print {
+    padding: 0.6rem;
+  }
+
   &:not(.o-expander__summary--booking) {
     font-weight: 700;
   }
@@ -34,9 +38,23 @@
       }
     }
   }
+
+  > .material-symbols-rounded {
+    transition: transform 0.2s;
+
+    @media print {
+      display: none;
+    }
+  }
+
+  > div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
 }
 
-.details-screen[open] > .o-expander__summary {
+details[open] > .o-expander__summary {
   &:hover,
   &:focus {
     border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
@@ -45,10 +63,17 @@
 
 .o-expander__content {
   padding: 1.2rem;
-}
 
-.details-print {
-  display: none;
+  @media print {
+    padding: 0.6rem;
+  }
+
+  // Remove margins from last elements of expander (up to 3 levels deep)
+  & > *:last-child,
+  & > *:last-child > *:last-child,
+  & > *:last-child > *:last-child > *:last-child {
+    margin-bottom: 0;
+  }
 }
 
 details {
@@ -61,46 +86,35 @@ details {
     width: 100%;
     margin-left: 0;
   }
+
+  > summary {
+    list-style-type: none;
+  }
+
+  > div {
+    overflow-x: auto;
+  }
+
+  > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  @media print {
+    border: 0.2rem solid #bbb;
+    page-break-inside: avoid;
+    display: block;
+
+    &::details-content {
+      content-visibility: visible;
+      height: auto !important;
+    }
+  }
 }
 
-details > summary {
-  list-style-type: none;
-}
-
-details > div {
-  overflow-x: auto;
-}
-
-details > summary::-webkit-details-marker {
-  display: none;
-}
-
-.o-expander__summary > span {
-  transition: transform 0.2s;
-}
-
-.o-expander__summary > div {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.details-screen[open] > .o-expander__summary > span {
+details[open] > .o-expander__summary > .material-symbols-rounded {
   transform: rotate(180deg);
 }
 
 details[open] > .o-expander__summary:not(.o-expander__summary--booking) {
   font-weight: 700;
-}
-
-@media print {
-  .details-screen {
-    display: none;
-  }
-
-  .details-print {
-    border: 0.2rem solid #bbb;
-    page-break-inside: avoid;
-    display: block;
-  }
 }

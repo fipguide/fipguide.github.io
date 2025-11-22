@@ -5,8 +5,8 @@ description: "Informations de réservation pour la hotline SNCF."
 
 params:
   classes:
-    first: "1,70€ / 15€"
-    second: "1,70€ / 10€"
+    first: "1,70 € / 15 €"
+    second: "1,70 € / 10 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.sncf-voyageurs.com/fr/contactez-nous/nos-points-de-contact/par-telephone/"
@@ -25,7 +25,7 @@ Dans le menu suivant, « Voyages on TGV » peut être sélectionné en appuyant 
 
 Un alphabet phonétique peut aider lors de la communication des noms et adresses. Le paiement s’effectue uniquement par carte bancaire (Visa, Eurocard ou American Express). Avant de donner le numéro de carte, il faut indiquer le type de carte à l’agent. Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
 
-Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la carte FIP.
+Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la Carte FIP.
 
 {{% highlight tip %}}
 Pour éviter les temps d’attente, il est possible de prendre un rendez-vous de rappel sur le [site web de la SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). Le nom et l’adresse e-mail peuvent être indiqués à l’avance, il n’est donc plus nécessaire de les dicter au téléphone. Il est également possible d’indiquer la liaison souhaitée et la réduction FIP dans le champ de texte libre.

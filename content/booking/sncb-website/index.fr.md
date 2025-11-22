@@ -1,10 +1,11 @@
 ---
 draft: false
-title: "Site web SNCB International"
+title: "Site Web SNCB International"
 description: "Informations sur la réservation via le site web de la SNCB."
 
 params:
-  fip_50: true
+  fip_50: false
+  reservation: false
   booking_link: "https://www.b-europe.com/FR/Acheter/Billets"
   type: "website"
 
@@ -12,13 +13,12 @@ aliases:
   - sncb_website
 ---
 
-Lorsque vous utilisez un Coupon FIP SNCB, un billet transfrontalier peut être réservé via le site web, qui prend en compte le trajet gratuit sur le territoire belge. Pour cela, sélectionnez la réduction "Gratuité en Belgique (SNCB)" pour les voyageurs. Cela permet par exemple de réserver très facilement des trajets de la Belgique vers Lille (hors `TGV`, tarif global et non exploité par la SNCB).
+Lors de l’utilisation d’un Coupon FIP pour la SNCB, la CFL ou la NS, il est possible de réserver un billet transfrontalier sur le site web, qui prend en compte la gratuité sur le tronçon belge, luxembourgeois ou néerlandais. Pour cela, il faut sélectionner l’une des réductions suivantes pour les voyageurs :
 
-{{% booking-section "fip_50" %}}
+- _Gratuité en Belgique (SNCB)_
+- _Gratuité au Luxembourg (CFL)_
+- _Gratuité aux Pays-Bas (NS)_
 
-## Billets FIP 50
+Ainsi, il est possible de réserver à prix avantageux des trains transfrontaliers au départ de la Belgique, par exemple vers Lille en France (sauf avec le `TGV`, qui possède un Tarif Global FIP et n’est pas exploité par la SNCB). Sur le tronçon pour lequel aucune réduction n’est indiquée, le plein tarif sera appliqué, et non le tarif FIP 50.
 
-La SNCB vend en ligne des billets avec la réduction FIP 50 pour des trajets transfrontaliers vers les pays voisins de la Belgique. Il suffit de sélectionner pour chaque voyageur la réduction « 50% Réduction Belgique (SNCB) ». Plusieurs réductions peuvent être combinées, par exemple un coupon de libre circulation détenu simultanément pour la CFL (Luxembourg) ou NS (Pays-Bas).
-
-![Réserver un Billet FIP SNCB](fip_sncb_website.webp)
-{{% /booking-section %}}
+![Réserver un billet FIP SNCB](fip_sncb_website.webp)

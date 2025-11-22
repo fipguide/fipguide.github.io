@@ -25,6 +25,7 @@ country:
   one: pays
   other: pays
 countryselection: Choisir un pays
+discord: Communauté FIP Guide
 editPage: Modifier la page
 footer-love:
   aria-label: Fait avec amour en Europe
@@ -67,7 +68,9 @@ menu:
     dropdown-label: Opérateurs disponibles
     label: Opérateurs
     title: Ouvrir la liste déroulante de l'opérateur
-  search: Ouvrir la recherche
+  search:
+    close: Fermer la recherche
+    open: Ouvrir la recherche
   theme:
     switch-to-auto: Passer en mode automatique
     switch-to-dark: Passer en mode sombre

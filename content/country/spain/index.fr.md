@@ -39,11 +39,13 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des Tarifs Globaux FIP sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
 
-Pour les trains opérés par Renfe, les tarifs sont équivalents à ceux des AVE nationaux, mais ces billets ne peuvent être obtenus qu’aux guichets Renfe.
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux]({{< ref "/operator/sncf#trains-tgv-inoui--ice-internationaux" >}} "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d'acheter ces billets à bord : il faut alors s'adresser au personnel du train, qui accepte le paiement par carte. [^1]
+
+Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec le Billet FIP spécial.
+
+Il existe également des trains régionaux Rodalies de Catalunya de la Renfe avec des liaisons transfrontalières depuis Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train.
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
-
-Avec [Euskotren]({{< ref "/operator/euskotren" >}}), il est possible de voyager jusqu'à Hendaye en utilisant le Billet FIP spécial.
 
 ### Portugal
 
@@ -52,3 +54,5 @@ Les liaisons entre l'Espagne et le Portugal sont actuellement très limitées. P
 Il existe également la liaison Celta entre Porto et Vigo, mais elle ne va pas plus loin en Espagne. Le Tarif Global FIP est valable sur l'ensemble du trajet ([Voir Renfe – Celta]({{< ref "/operator/renfe#longue-distance" >}} "Renfe")).
 
 Une ligne à grande vitesse Lisbonne – Madrid est actuellement en cours de construction.
+
+[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
