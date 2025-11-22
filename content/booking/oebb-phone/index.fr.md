@@ -5,8 +5,8 @@ description: "Informations de réservation via la hotline ÖBB."
 
 params:
   classes:
-    first: "3,50€"
-    second: "3,50€"
+    first: "3,50 €"
+    second: "3,50 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"

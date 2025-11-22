@@ -4,8 +4,8 @@ title: "ÖBB Website"
 description: "Buchungsinformationen für die ÖBB Website."
 params:
   classes:
-    first: "3€"
-    second: "3€"
+    first: "3 €"
+    second: "3 €"
   fip_50: false
   reservations: true
   booking_link: "https://shop.oebbtickets.at/de/ticket"

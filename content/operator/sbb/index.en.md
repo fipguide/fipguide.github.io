@@ -1,17 +1,17 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Information about FIP conditions at SBB CFF FFS."
+description: "Information about FIP conditions at SBB CFF FFS: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "switzerland"
 ---
 
-SBB (Swiss Federal Railways) - (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of Switzerland. It operates most of the Swiss rail network and is known for its punctuality and reliability.
+SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of Switzerland. It operates most of the Swiss rail network and is known for its punctuality and reliability.
 
 ## Summary
 
-- SBB accepts FIP Coupons and FIP 50 Tickets
-- Reservation requirement and surcharges for international Eurocity trains from the Italian border and `TGV` trains from the French border
+- SBB accepts FIP Coupons and FIP 50 Tickets.
+- Reservation requirement and surcharges for international Eurocity trains from the Italian border and `TGV` trains from the French border.
 
 ## Validity of FIP Tickets
 
@@ -91,13 +91,13 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
 {{% booking id="db-website-fip-db"
     subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
 %}}
-Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP Card)"
 %}}
-Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt - Milan route can be booked up to Milan.
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
 {{% /booking %}}
 
 ### By Phone

@@ -7,7 +7,7 @@ params:
   fip_global_fare: true
   fip_50: true
   type: "email"
-  fee: 10£
+  fee: 10 £
 
 aliases:
   - uk_mail
@@ -36,4 +36,4 @@ aliases:
 
 {{% /booking-section %}}
 
-**Pro Buchung wird eine Buchungsgebühr von 10£ erhoben.**
+**Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.**

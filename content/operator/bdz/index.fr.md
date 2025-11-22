@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "BDŽ"
-description: "Informations sur les conditions FIP chez Balgarski Darschawni Schelesnizi (BDŽ)."
+description: "Informations sur les conditions FIP chez Balgarski Darschawni Schelesnizi (BDŽ) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "bulgaria"
 operator: "bdz"

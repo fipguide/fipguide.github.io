@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "PKP"
-description: "Information about FIP conditions at PKP."
+description: "Information about FIP conditions at PKP: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "poland"
 operator: "pkp"
@@ -11,9 +11,9 @@ The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together wit
 
 ## Summary
 
-- PKP accepts FIP Coupons and FIP 50 Tickets
-- Reservation requirement for `EIP` and `EIC` trains and partially for `IC` and `TLK` trains
-- Validity of PKP FIP Tickets also in the local rail system of Gdansk (Tri-City), at Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) and some routes of Koleje Dolnośląskie (KD)
+- PKP accepts FIP Coupons and FIP 50 Tickets.
+- Reservation requirement for `EIP` and `EIC` trains and partially for `IC` and `TLK` trains.
+- Validity of PKP FIP Tickets also in the local rail system of Gdansk (Tri-City), at Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) and some routes of Koleje Dolnośląskie (KD).
 
 ## Validity of FIP Tickets
 
@@ -193,7 +193,7 @@ We are not aware of any additional discounts.
 A ticket for a single journey is valid until midnight on the day of issue. The validity of FIP 50 single tickets depends on the distance:
 
 - up to 50 km: 3 hours from the date and time of issue (or from a time chosen by the passenger)
-- 51 km – 100 km: 6 hours from the date and time of issue (or from a time chosen by the passenger)
+- 51 km to 100 km: 6 hours from the date and time of issue (or from a time chosen by the passenger)
 - from 101 km: until midnight on the day of issue (the day is valid from 00:01 to 24:00)
 
 #### Koleje Mazowieckie (KM)

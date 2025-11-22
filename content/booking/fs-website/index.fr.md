@@ -7,8 +7,8 @@ params:
   fip_50: false
   reservations: true
   classes:
-    first: "3€ / 25€"
-    second: "3€ / 25€"
+    first: "3 € / 25 €"
+    second: "3 € / 25 €"
   booking_link: "https://www.trenitalia.com/fr.html"
   additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
   type: "website"

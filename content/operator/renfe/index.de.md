@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Renfe"
-description: "Informationen über die FIP-Bedingungen bei Renfe."
+description: "Informationen über die FIP-Bedingungen bei Renfe: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "spain"
   - "france"
