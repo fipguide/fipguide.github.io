@@ -1,0 +1,73 @@
+{{- $page := .Page -}}
+
+
+<div class="o-fip-validity">
+  <div class="o-fip-validity__tags">
+    {{- if isset $page.Params "fip_coupon" -}}
+      {{- $accepted := $page.Params.fip_coupon -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_coupon_footnote" -}}
+        {{- $note = $page.RenderString . -}}
+      {{- end -}}
+      {{- partial "fip-validity-item" (
+        dict
+        "Icon" (cond $accepted "check_circle" "cancel")
+        "Text" "fipValidity.fip-coupon"
+        "Type" (cond $accepted "success" "error")
+        "Note" $note
+        )
+      }}
+    {{- end -}}
+
+    {{- if isset $page.Params "fip_coupon_relatives" -}}
+      {{- $note := "" -}}
+
+      {{- with .Get "fip_coupon_relatives_footnote" -}}
+        {{- $note = $page.RenderString . -}}
+      {{- end -}}
+
+      {{- partial "fip-validity-item" (
+        dict
+        "Icon" "help"
+        "Text" "fipValidity.fip-coupon-relatives"
+        "Type" "info"
+        "Note" $note
+        "ShowRelativesInfo" true
+        "Page" $page
+        )
+      }}
+    {{- end -}}
+
+    {{- if isset $page.Params "fip_50_ticket" -}}
+      {{- $accepted := $page.Params.fip_50_ticket -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_50_ticket_footnote" -}}
+        {{- $note = $page.RenderString . -}}
+      {{- end -}}
+      {{- partial "fip-validity-item" (
+        dict
+        "Icon" (cond $accepted "check_circle" "cancel")
+        "Text" "fipValidity.fip-50-ticket"
+        "Type" (cond $accepted "success" "error")
+        "Note" $note
+        )
+      }}
+    {{- end -}}
+
+    {{- if isset $page.Params "fip_global_fare" -}}
+      {{- $accepted := $page.Params.fip_global_fare -}}
+      {{- $note := "" -}}
+      {{- with .Get "fip_global_fare_footnote" -}}
+        {{- $note = $page.RenderString . -}}
+      {{- end -}}
+      {{- partial "fip-validity-item" (
+        dict
+        "Icon" (cond $accepted "check_circle" "cancel")
+        "Text" "fipValidity.fip-global-fare"
+        "Type" (cond $accepted "success" "error")
+        "Note" $note
+        )
+      }}
+    {{- end -}}
+  </div>
+</div>

@@ -14,6 +14,14 @@ $bg-code: #fff284;
 $color-onLight: #000000;
 $color-table-border: #5b5b5b;
 
+$fip-validity-accepted: #155724;
+$fip-validity-rejected: #b70000;
+$fip-validity-warning: #b64900;
+
+$fip-validity-accepted-dark: #a8d5ba;
+$fip-validity-rejected-dark: #f5a9ae;
+$fip-validity-warning-dark: #f0d98d;
+
 html {
   --pagefind-ui-scale: 1 !important;
   --pagefind-ui-text: #000;
@@ -27,6 +35,9 @@ html {
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
+  --fip-validity-accepted: #{$fip-validity-accepted};
+  --fip-validity-rejected: #{$fip-validity-rejected};
+  --fip-validity-warning: #{$fip-validity-warning};
   --border-radius-s: 0.4rem;
   --border-radius-m: 0.8rem;
   --border-radius-l: 1.6rem;
@@ -57,6 +68,9 @@ html[data-theme="dark"] {
     --color-onLight: #ffffff;
     --color-table-border: #555;
     --color-body: #e0e0e0;
+    --fip-validity-accepted: #{$fip-validity-accepted-dark};
+    --fip-validity-rejected: #{$fip-validity-rejected-dark};
+    --fip-validity-warning: #{$fip-validity-warning-dark};
     --pagefind-ui-border: #555;
     --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
     --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);

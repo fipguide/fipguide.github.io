@@ -8,6 +8,11 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+Params:
+  fip_coupon: true # <true/false>
+  fip_coupon_relatives: false # <true/false>
+  fip_50_ticket: true # <true/false>
+  fip_global_fare: true # <true/false>
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
@@ -30,14 +35,13 @@ operator: "{{ .File.ContentBaseName }}"
 
 ## Validity of FIP Tickets
 
-<!--
-  The ticket categories may vary depending on the operator.
--->
+{{< fip-validity >}}{{< /fip-validity >}}
 
-FIP Coupon: <✅/⛔> \
-FIP Coupon for relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
+<!--
+  The fip-validity shortcode reads from the Params in the frontmatter.
+  You can add additional notes inside the shortcode tags (e.g., links to specific sections).
+  Example: {{< fip-validity >}}(For international trains, see [section](#anchor)){{< /fip-validity >}}
+-->
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
