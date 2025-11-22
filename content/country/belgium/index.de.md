@@ -44,7 +44,7 @@ Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Br
 
 Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt / Köln / Aachen aus genutzt werden, um ins Netz der SNCB zu kommen. Auch ein Regionalzug der SNCB verkehrt zwischen Aachen und Lüttich. In beiden Fällen wird zusätzlich ein Ticket für den deutschen Abschnitt der DB benötigt.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar")).
 
 ### Niederlande
 
