@@ -106,7 +106,7 @@ In Deutschland verkehren über 80 unterschiedliche Betreiber, nur ist FIP für d
 - Die [Bodensee-Schiffsbetriebe]({{< ref "/operator/bsb" >}}) bieten Fährfahrten über den Bodensee an.
 - Mit [Eurostar]({{< ref "/operator/eurostar" >}}) sind Fahrten zwischen Großbritannien, Frankreich, die Niederlande, Belgien und Deutschland möglich.
 
-Durch die große Vielfalt der Betreiber ist eine Planung der Reise im Voraus sinnvoll, um FIP in Anspruch nehmen zu können. Mit Ausnahme von Flixtrain und einzelnen Nachtzug-Verbindungen kann der deutsche Fernverkehr befahren werden. im Nahverkehr betreibt die DB viele Linien, wodurch man auch dort gut reisen kann.
+Durch die große Vielfalt der Betreiber ist eine Planung der Reise im Voraus sinnvoll, um FIP in Anspruch nehmen zu können. Mit Ausnahme von Flixtrain, WESTbahn und einzelnen Nachtzug-Verbindungen kann der deutsche Fernverkehr befahren werden. im Nahverkehr betreibt die DB viele Linien, wodurch man auch dort gut reisen kann.
 
 ## Wissenswertes
 
@@ -238,7 +238,7 @@ Bei den Grenzübergängen Hrádek nad Nisou (Strecke Liberec – Zittau), Varnsd
 
 ### Schweiz
 
-Aus der Schweiz Deutschland gibt es mehrere grenzüberschreitende Verbindungen nach Deutschland:
+Aus der Schweiz nach Deutschland gibt es mehrere grenzüberschreitende Verbindungen nach Deutschland:
 
 - Die meistgenutzte ist hier von Basel kommend in das deutsche Netz. Hier verkehren `ICE` Züge tagsüber meist ein bis zweimal pro Stunde pro Richtung. Diese fahren zwischen Basel und Mannheim und dann weiter entweder in Richtung Frankfurt (Main), Kassel, Hamburg oder Frankfurt (Main), Köln, Dortmund, Hannover. Einzelne Züge beginnen in der Schweiz bereits in Zürich, Interlaken, Bern oder Chur.
 - Ebenfalls verkehren vereinzelt `EC` und `ECE` Züge auf dieser Strecke, die ebenfalls in Richtung Mannheim fahren.

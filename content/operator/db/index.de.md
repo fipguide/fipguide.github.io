@@ -15,13 +15,8 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschl
 
 ## Zusammenfassung
 
-<!--
-  Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
-  z. B.
-  - Werden FIP 50 und FIP Freifahrtscheine akzeptiert?
-  - Gibt es eine Reservierungspflicht?
-  - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
--->
+- Keine Reservierungspflicht
+- Im Regionalverkehr viele private Betreiber ohne FIP
 
 ## Gültigkeit FIP Tickets
 
@@ -30,7 +25,7 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschl
 -->
 
 FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: <✅/⛔> \
+FIP Freifahrt Angehörige: unbekannt \
 FIP 50 Tickets: ✅
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -232,11 +227,23 @@ Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fa
 
 ### Fahrten in Verkehrsverbünden
 
-lorem ipsum
+Deutschland ist in sogenannte _Verkehrsverbünde_ (kombinierte Tarifstruktur) gegliedert. Diese sind öffentliche Gesellschaften die den Nahverkehr in der entsprechenden Region übergreifend für alle Betreiber organisieren. Sie sind auch für Ausgestaltung von Ticketpreisen und Tarifen zuständig. Die Fahrt mit FIP Vergünstigungen in nur einem Verkehrsverbund ist in der Regel nicht zulässig. Eine Reise muss sich immer mindestens über zwei Verkehrsverbünde strecken, da in diesem Fall Tarife und Tickets von Betreibern angeboten werden dürfen. Es kann Ausnahmen geben, die beim jeweiligen Verkehrsverbund oder lokalen Ticketschaltern erfragt werden können. [^1]
+
+Bei FIP 50 Tickets müssen daher als Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden sein. Dies gilt auch be Reisen mit FIP Freifahrtschein.
+
+{{% highlight tip %}}
+Eine Übersicht über alle Verkehrsverbünde ist auf [Wikipedia](https://de.wikipedia.org/wiki/Liste_deutscher_Tarif-_und_Verkehrsverb%C3%BCnde) verfügbar.
+
+Als grobe Orientierung kann auch im DB Navigator oder der [Website der DB](https://bahn.de) geprüft werden, ob für eine Strecke Verbundtickets verkauft werden. Diese sind als _Verbund-Angebote_, mit dem Logo und unter Angebote des \[Verkehsverbundnamen\] gekennzeichnet.
+{{% /highlight %}}
+
+<!--
 
 ### FIP 50 Tickets nur für Nahverkehr und nur für Fernverkehr
 
-lorem ipsum
+Bei der DB gibt es eine tarifliche Unterscheidung zwischen Nah- und Fernverkehr.
+
+-->
 
 ### DB Syltshuttle
 
@@ -245,12 +252,6 @@ Die DB betreibt den Autoreisezug _Syltshuttle_, welcher von Niebüll Autoverladu
 ### Regionalverkehre Start GmbH
 
 Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
-
-### <Route bzw. Name>
-
-<!--
-  Beschreibung der Besonderheit, wenn es auf bestimmten Routen z. B. Sonderregelungen gibt.
--->
 
 ### Busse und Ersatzverkehr
 
@@ -264,6 +265,4 @@ Busse sind ausgeschlossen von FIP-Vergünstigungen, außer sie ersetzen einen Zu
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](Link)
-
-[^2]: [<Quellenname 2](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
