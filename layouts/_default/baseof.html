@@ -28,7 +28,7 @@
       </div>
     </main>
     <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
-    {{ if and (eq .Kind "page") (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
+    {{ if or (eq .Page.Type "country") (eq .Page.Type "operator") (eq .Page.Type "generalinformation") }}
       {{ partial "snackbar" . }}
     {{ end }}
   </body>
