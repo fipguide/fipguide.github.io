@@ -5,6 +5,12 @@ description: "Informations sur les conditions FIP chez NS : Validité, Achat de 
 country:
   - "netherlands"
 operator: "ns"
+booking:
+  - "db-website"
+  - "db-website-fip-db"
+  - "db-website-fip-international"
+  - "ns-ticket-office"
+  - "db-ticket-office"
 ---
 
 Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des Pays-Bas et assurent la majorité du trafic voyageurs dans le pays.

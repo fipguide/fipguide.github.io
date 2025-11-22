@@ -5,6 +5,11 @@ description: "Découvrez les conditions FIP chez ZSR / ZSSK : Validité, Achat d
 country:
   - "slovakia"
 operator: "zssk"
+booking:
+  - "zssk-website"
+  - "db-website"
+  - "zssk-ticket-office"
+  - "db-ticket-office"
 
 aliases:
   - zsr

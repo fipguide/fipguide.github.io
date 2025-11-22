@@ -5,6 +5,8 @@ description: "Information about FIP conditions at Balgarski Darschawni Schelesni
 country:
   - "bulgaria"
 operator: "bdz"
+booking:
+  - "bdz-ticket-office"
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) is the state railway company of Bulgaria and currently operates almost all passenger services on the Bulgarian rail network.

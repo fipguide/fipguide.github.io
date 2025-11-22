@@ -13,7 +13,7 @@
       id="content"
       class="{{ if .IsHome }}o-startpage{{ end }}{{ if eq .Page.Type "news" }}
         o-newspage
-      {{ end }}"
+      {{ end }}{{ if eq .Page.Type "booking" }}o-bookingpage{{ end }}"
     >
       <div class="o-container">
         {{ if not .IsHome }}
