@@ -1,7 +1,6 @@
 .a-tag {
   display: flex;
   align-items: center;
-  gap: 0.4rem;
   padding: 0.4rem 0.8rem;
   border-radius: var(--border-radius-s);
   font-size: 0.7em;
@@ -18,7 +17,9 @@
 }
 
 .a-tag__text {
+  margin-left: 0.4rem;
   transition:
     opacity 0.3s ease,
-    max-width 0.3s ease;
+    max-width 0.3s ease,
+    margin-left 0.3s ease;
 }

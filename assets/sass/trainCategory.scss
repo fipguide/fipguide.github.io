@@ -29,11 +29,8 @@ details.o-expander__summary--train-category {
 
 details.o-expander--train-category:not([open]) {
   @media (max-width: $breakpoint-md) {
-    .a-tag {
-      gap: 0;
-    }
-
     .a-tag__text {
+      margin-left: 0;
       opacity: 0;
       max-width: 0;
       overflow: hidden;
