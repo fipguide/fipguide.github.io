@@ -29,8 +29,19 @@ discord: FIP Guide Community
 editPage: Seite bearbeiten
 fipValidity:
   close-modal: Schließen
+  discount: Rabatt
+  fields: Felder
   fip-50-ticket: FIP 50 Ticket
+  fip-50-ticket-discount-modal-description: >-
+    Der Rabatt auf den regulären Fahrpreis für FIP 50 Tickets hängt von der
+    Bahngesellschaft ab, die deinen FIP Ausweis ausgestellt hat.
+  fip-50-ticket-discount-modal-title: FIP 50 Ticket Rabatt nach Betreiber
   fip-coupon: FIP Freifahrtschein
+  fip-coupon-fields-modal-description: >-
+    Die maximale Anzahl der Felder auf dem FIP Freifahrtschein hängt von der
+    Bahngesellschaft ab, die deinen FIP Ausweis ausgestellt hat.
+  fip-coupon-fields-modal-title: FIP Freifahrtschein Felder nach Betreiber
+  fip-coupon-fields-value: '%d Felder'
   fip-coupon-relatives: FIP Freifahrt Angehörige
   fip-global-fare: FIP Globalpreis
   issuer: Aussteller des FIP Ausweises
@@ -39,6 +50,8 @@ fipValidity:
     Die Verfügbarkeit von FIP Freifahrt Angehörige hängt von der
     Bahngesellschaft ab, die deinen FIP Ausweis ausgestellt hat.
   relatives-modal-title: FIP Freifahrt Angehörige nach Betreiber
+  show-50-ticket-discount-info: Informationen zu FIP 50 Ticket Rabatten anzeigen
+  show-coupon-fields-info: Informationen zu FIP Freifahrtschein Feldern anzeigen
   show-relatives-info: Informationen zu FIP Freifahrt Angehörige anzeigen
   status-no: Nicht akzeptiert
   status-unknown: Unbekannt

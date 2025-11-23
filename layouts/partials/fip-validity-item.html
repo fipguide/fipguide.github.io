@@ -3,6 +3,24 @@
   <div class="a-fip-validity-item__content">
     <span class="a-fip-validity-item__text">
       {{ i18n .Text }}
+      {{- if .ShowCouponFieldsInfo -}}
+        <button
+          class="a-fip-validity-item__info-button"
+          aria-label="{{ i18n "fipValidity.show-coupon-fields-info" }}"
+          data-modal-trigger="fip-coupon-fields-modal"
+        >
+          {{ partial "icon" "info" }}
+        </button>
+      {{- end -}}
+      {{- if .Show50TicketDiscountInfo -}}
+        <button
+          class="a-fip-validity-item__info-button"
+          aria-label="{{ i18n "fipValidity.show-50-ticket-discount-info" }}"
+          data-modal-trigger="fip-50-ticket-discount-modal"
+        >
+          {{ partial "icon" "info" }}
+        </button>
+      {{- end -}}
       {{- if .ShowRelativesInfo -}}
         <button
           class="a-fip-validity-item__info-button"
@@ -18,6 +36,188 @@
     {{- end -}}
   </div>
 </div>
+
+{{- if .ShowCouponFieldsInfo -}}
+  <div class="o-modal" id="fip-coupon-fields-modal" aria-hidden="true">
+    <div class="o-modal__overlay" data-modal-close></div>
+    <div class="o-modal__container" role="dialog" aria-modal="true">
+      <div class="o-modal__header">
+        <h2 class="o-modal__title">
+          {{ i18n "fipValidity.fip-coupon-fields-modal-title" }}
+        </h2>
+        <button
+          class="o-modal__close"
+          data-modal-close
+          aria-label="{{ i18n "fipValidity.close-modal" }}"
+        >
+          {{ partial "icon" "close" }}
+        </button>
+      </div>
+      <div class="o-modal__content">
+        <p class="o-modal__description">
+          {{ i18n "fipValidity.fip-coupon-fields-modal-description" }}
+        </p>
+        <table class="o-modal__table">
+          <thead>
+            <tr>
+              <th>{{ i18n "fipValidity.issuer" }}</th>
+              <th>{{ i18n "fipValidity.fields" }}</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="o-modal__table-wrapper">
+          <table class="o-modal__table o-modal__table--body">
+            <colgroup>
+              <col style="width: 50%" />
+              <col style="width: 50%" />
+            </colgroup>
+            <tbody>
+              {{- $currentPage := .Page -}}
+              {{- $currentOperatorDir := $currentPage.File.Dir -}}
+              {{- $seenOperators := slice -}}
+
+              {{- $currentFieldsParam := $currentPage.Params.fip_coupon_fields -}}
+              {{- $fieldsMap := dict -}}
+
+              {{- if reflect.IsMap $currentFieldsParam -}}
+                {{- $fieldsMap = $currentFieldsParam -}}
+              {{- end -}}
+
+              {{- range where .Page.Site.Pages "Section" "operator" -}}
+                {{- if and (eq .Lang $currentPage.Lang) (ne .File.LogicalName "_index.de.md") (ne .File.LogicalName "_index.en.md") (ne .File.LogicalName "_index.fr.md") -}}
+                  {{- $operatorId := .File.Dir -}}
+                  {{- if and (not (in $seenOperators $operatorId)) (ne $operatorId $currentOperatorDir) -}}
+                    {{- $seenOperators = $seenOperators | append $operatorId -}}
+                    {{- $operatorIdClean := trim $operatorId "/" -}}
+                    {{- $operatorName := path.Base $operatorIdClean -}}
+
+                    {{- $fields := "" -}}
+                    {{- $hasValue := false -}}
+                    {{- $status := "unknown" -}}
+                    {{- $icon := "help" -}}
+
+                    {{- range $key, $value := $fieldsMap -}}
+                      {{- if eq $key $operatorName -}}
+                        {{- $fields = $value -}}
+                        {{- $hasValue = true -}}
+                        {{- $status = "yes" -}}
+                        {{- $icon = "check_circle" -}}
+                      {{- end -}}
+                    {{- end -}}
+
+
+                    <tr>
+                      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+                      <td
+                        class="o-modal__status o-modal__status--{{ $status }}"
+                      >
+                        {{ partial "icon" $icon }}
+                        <span>
+                          {{- if $hasValue -}}
+                            {{ printf (i18n "fipValidity.fip-coupon-fields-value") $fields }}
+                          {{- else -}}
+                            {{ i18n "fipValidity.status-unknown" }}
+                          {{- end -}}
+                        </span>
+                      </td>
+                    </tr>
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{- end -}}
+
+{{- if .Show50TicketDiscountInfo -}}
+  <div class="o-modal" id="fip-50-ticket-discount-modal" aria-hidden="true">
+    <div class="o-modal__overlay" data-modal-close></div>
+    <div class="o-modal__container" role="dialog" aria-modal="true">
+      <div class="o-modal__header">
+        <h2 class="o-modal__title">
+          {{ i18n "fipValidity.fip-50-ticket-discount-modal-title" }}
+        </h2>
+        <button
+          class="o-modal__close"
+          data-modal-close
+          aria-label="{{ i18n "fipValidity.close-modal" }}"
+        >
+          {{ partial "icon" "close" }}
+        </button>
+      </div>
+      <div class="o-modal__content">
+        <p class="o-modal__description">
+          {{ i18n "fipValidity.fip-50-ticket-discount-modal-description" }}
+        </p>
+        <table class="o-modal__table">
+          <thead>
+            <tr>
+              <th>{{ i18n "fipValidity.issuer" }}</th>
+              <th>{{ i18n "fipValidity.discount" }}</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="o-modal__table-wrapper">
+          <table class="o-modal__table o-modal__table--body">
+            <colgroup>
+              <col style="width: 50%" />
+              <col style="width: 50%" />
+            </colgroup>
+            <tbody>
+              {{- $currentPage := .Page -}}
+              {{- $currentOperatorDir := $currentPage.File.Dir -}}
+              {{- $seenOperators := slice -}}
+
+              {{- $currentDiscountParam := $currentPage.Params.fip_50_ticket_discount -}}
+              {{- $discountMap := dict -}}
+
+              {{- if reflect.IsMap $currentDiscountParam -}}
+                {{- $discountMap = $currentDiscountParam -}}
+              {{- end -}}
+
+              {{- range where .Page.Site.Pages "Section" "operator" -}}
+                {{- if and (eq .Lang $currentPage.Lang) (ne .File.LogicalName "_index.de.md") (ne .File.LogicalName "_index.en.md") (ne .File.LogicalName "_index.fr.md") -}}
+                  {{- $operatorId := .File.Dir -}}
+                  {{- if and (not (in $seenOperators $operatorId)) (ne $operatorId $currentOperatorDir) -}}
+                    {{- $seenOperators = $seenOperators | append $operatorId -}}
+                    {{- $operatorIdClean := trim $operatorId "/" -}}
+                    {{- $operatorName := path.Base $operatorIdClean -}}
+
+                    {{- $discount := 50 -}}
+                    {{- $hasValue := false -}}
+                    {{- $status := "yes" -}}
+                    {{- $icon := "check_circle" -}}
+
+                    {{- range $key, $value := $discountMap -}}
+                      {{- if eq $key $operatorName -}}
+                        {{- $discount = $value -}}
+                        {{- $hasValue = true -}}
+                      {{- end -}}
+                    {{- end -}}
+
+
+                    <tr>
+                      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+                      <td
+                        class="o-modal__status o-modal__status--{{ $status }}"
+                      >
+                        {{ partial "icon" $icon }}
+                        <span>{{ $discount }}%</span>
+                      </td>
+                    </tr>
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{- end -}}
 
 {{- if .ShowRelativesInfo -}}
   <div class="o-modal" id="fip-relatives-modal" aria-hidden="true">

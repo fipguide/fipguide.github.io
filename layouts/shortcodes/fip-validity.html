@@ -15,6 +15,8 @@
         "Text" "fipValidity.fip-coupon"
         "Type" (cond $accepted "success" "error")
         "Note" $note
+        "ShowCouponFieldsInfo" (isset $page.Params "fip_coupon_fields")
+        "Page" $page
         )
       }}
     {{- end -}}
@@ -50,6 +52,8 @@
         "Text" "fipValidity.fip-50-ticket"
         "Type" (cond $accepted "success" "error")
         "Note" $note
+        "Show50TicketDiscountInfo" $accepted
+        "Page" $page
         )
       }}
     {{- end -}}
