@@ -11,7 +11,7 @@ FIP steht für _Groupement pour les facilités de circulation internationales du
 Damit FIP Fahrvergünstigungen genutzt werden können, muss die Berechtigung für die Nutzung von FIP vorliegen. Im Regelfall ist dies nach einem Jahr Firmenzugehörigkeit gegeben, jedoch sind abweichende Regeln je nach Arbeitgeber möglich.
 
 {{% highlight important %}}
-Im Folgenden erkären wir die allgemeinen FIP Grundlagen. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor einer Reise solltest du dich immer mit den Regeln des jeweiligen Eisenbahnverkehrsunternehmens in dem Land vertraut gemacht werden. Dabei hilft der FIP Guide:
+Im Folgenden erkären wir die allgemeinen FIP Grundlagen. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor einer Reise solltest du dich immer mit den Regeln des jeweiligen Eisenbahnverkehrsunternehmens in dem Land vertraut machen. Dabei hilft der FIP Guide:
 
 [Übersicht der Bahngesellschaften]({{% ref "/operator"%}} "Übersicht Bahngesellschaften" )
 
@@ -20,7 +20,7 @@ Im Folgenden erkären wir die allgemeinen FIP Grundlagen. Abweichende Informatio
 
 FIP Vergünstigungen gelten häufig nur für im Eisenbahnverkehr und nicht für Busse, U-Bahnen oder Straßenbahnen. Hierbei kann es jedoch Ausnahmen geben, die auf den jeweiligen Betreiberseiten beschrieben sind.
 
-Für die Nutzung von FIP Vergünstigungen ist es relevant, von welcher Bahngesellschaft ein Zug betrieben wird. Es gibt grenzüberschreitende Kooperationszüge, in zwei Ländern von unterschiedlichen Bahngesellschaften betrieben wird (z. B. viele `EC` Verbindungen). Auf den [Länderseiten im FIP Guide]({{% ref "/country" %}} "Länderseiten im FIP Guide" ) wird beschrieben, wie im jeweiligen Land herausgefunden werden kann, wer der Betreiber eines Zuges ist. Allgemein sind dabei auch die Websites der Betreiber hilfreich. Die [Website der Deutschen Bahn](https://bahn.de) zeigt viele europäischen Verbindungen und ihre Betreiber an.
+Für die Nutzung von FIP Vergünstigungen ist es relevant, von welcher Bahngesellschaft ein Zug betrieben wird. Es gibt grenzüberschreitende Kooperationszüge, die in zwei Ländern von unterschiedlichen Bahngesellschaften betrieben werden (z. B. viele `EC` Verbindungen). Auf den [Länderseiten im FIP Guide]({{% ref "/country" %}} "Länderseiten im FIP Guide" ) wird beschrieben, wie im jeweiligen Land herausgefunden werden kann, wer der Betreiber eines Zuges ist. Allgemein sind dabei auch die Websites der Betreiber hilfreich. Die [Website der Deutschen Bahn](https://bahn.de) zeigt viele europäischen Verbindungen und ihre Betreiber an.
 
 {{% highlight important %}}
 Tariflich ist im Regelfall nicht relevant, in welchem Land ein Zug unterwegs ist, sondern von welcher Bahngesellschaft der Zug in welchem Abschnitt betrieben wird. Jedoch findet an Landesgrenzen häufig ein Betreiberwechsel statt. Auf den jeweiligen Länderseiten sind die Grenzpunkte, an denen der Betreiberwechsel stattfindet, beschrieben.
