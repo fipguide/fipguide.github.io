@@ -14,8 +14,6 @@ A shortcode looks like:
     fip_accepted=true (can be true, false, partially)
     reservation_required=true (can be true, false, partially)
     reservation_possible=true (omit the attribute if false or if reservation_required is true)
-    risk_of_confusion=true (previously marked with ℹ️ in the title, omit the attribute if false)
-    important_info=true (if an important highlight is part of the train category, omit the attribute if false)
     route_overview_url="https://example.com" (if there is an route overview link in the description, otherwise omit the attribute)
     additional_information_url="https://example.com" (if there is an additional information link in the description, otherwise omit the attribute)
 %}}
