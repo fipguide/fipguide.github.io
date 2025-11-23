@@ -50,6 +50,9 @@ fipValidity:
     La disponibilité du Coupon FIP accompagnant dépend de la compagnie
     ferroviaire qui a émis votre carte FIP.
   relatives-modal-title: Coupon FIP accompagnant par opérateur
+  relatives-status-no: Non disponible
+  relatives-status-unknown: Inconnu
+  relatives-status-yes: Disponible
   show-50-ticket-discount-info: Afficher les informations sur les réductions Billet FIP 50
   show-coupon-fields-info: Afficher les informations sur les champs du Coupon FIP
   show-relatives-info: Afficher les informations sur le Coupon FIP accompagnant

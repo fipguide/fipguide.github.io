@@ -49,6 +49,9 @@ fipValidity:
     The availability of FIP Coupon for relatives depends on the railway company
     that issued your FIP card.
   relatives-modal-title: FIP Coupon for relatives by Operator
+  relatives-status-no: Not available
+  relatives-status-unknown: Unknown
+  relatives-status-yes: Available
   show-50-ticket-discount-info: Show information about FIP 50 Ticket discounts
   show-coupon-fields-info: Show information about FIP Coupon fields
   show-relatives-info: Show information about FIP Coupon for relatives

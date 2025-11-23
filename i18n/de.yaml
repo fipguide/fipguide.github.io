@@ -50,6 +50,9 @@ fipValidity:
     Die Verfügbarkeit von FIP Freifahrt Angehörige hängt von der
     Bahngesellschaft ab, die deinen FIP Ausweis ausgestellt hat.
   relatives-modal-title: FIP Freifahrt Angehörige nach Betreiber
+  relatives-status-no: Nicht verfügbar
+  relatives-status-unknown: Unbekannt
+  relatives-status-yes: Verfügbar
   show-50-ticket-discount-info: Informationen zu FIP 50 Ticket Rabatten anzeigen
   show-coupon-fields-info: Informationen zu FIP Freifahrtschein Feldern anzeigen
   show-relatives-info: Informationen zu FIP Freifahrt Angehörige anzeigen
