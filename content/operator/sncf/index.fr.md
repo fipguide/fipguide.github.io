@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "SNCF"
-description: "Informations sur les conditions FIP chez la SNCF : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
+title: "SNCF Voyageurs"
+description: "Informations sur les conditions FIP chez SNCF Voyageurs : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "france"
   - "monaco"
@@ -94,7 +94,7 @@ Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été s
 
 {{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
 **Description :** \
-Le `TER` est le train régional de la SNCF reliant différentes villes françaises.
+Le `TER` est le train régional reliant différentes villes françaises.
 
 ℹ️ Sur la ligne Marseille – Toulon – Nice, FIP n’est pas valable car les TER sont exploités par Transdev. \
 **Réservation possible :** parfois \

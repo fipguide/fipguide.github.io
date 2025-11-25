@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "SNCF"
-description: "Information about FIP conditions at SNCF: validity, ticket and reservation purchase, special tariff conditions"
+title: "SNCF Voyageurs"
+description: "Information about FIP conditions at SNCF Voyageurs: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "france"
   - "monaco"
@@ -94,7 +94,7 @@ SNCF night trains within France. International Nightjet connections ended in Dec
 
 {{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
 **Description:** \
-`TER` is SNCF's regional train, connecting various cities in France.
+`TER` is a regional train, connecting various cities in France.
 
 ℹ️ On the Marseille – Toulon – Nice route, FIP is not valid as `TER` trains are operated by Transdev. \
 **Reservation possible:** sometimes \
