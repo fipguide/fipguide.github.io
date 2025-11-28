@@ -185,7 +185,7 @@ Auf den folgenden NOMAD-Strecken müssen alle Fahrkarten vor Antritt jeder Hin- 
 - Paris – Évreux – Serquigny
 - Caen – Le Mans – Tours
 
-Diese Entwertungspflicht gilt nicht für die Nutzung von FIP Freifahrtscheinen.
+Diese Entwertungspflicht gilt nicht für die Nutzung von FIP Freifahrtscheinen. blablabla
 
 ### Grenzüberschreitende TGV inOui / ICE Züge
 
