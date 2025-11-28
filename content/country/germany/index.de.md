@@ -238,7 +238,7 @@ Bei den Grenzübergängen Hrádek nad Nisou (Strecke Liberec – Zittau), Varnsd
 
 ### Schweiz
 
-Aus der Schweiz nach Deutschland gibt es mehrere grenzüberschreitende Verbindungen nach Deutschland:
+Die Schweiz verfügt über mehrere grenzüberschreitende Verbindungen nach Deutschland.
 
 - Die meistgenutzte ist hier von Basel kommend in das deutsche Netz. Hier verkehren `ICE` Züge tagsüber meist ein bis zweimal pro Stunde pro Richtung. Diese fahren zwischen Basel und Mannheim und dann weiter entweder in Richtung Frankfurt (Main), Kassel, Hamburg oder Frankfurt (Main), Köln, Dortmund, Hannover. Einzelne Züge beginnen in der Schweiz bereits in Zürich, Interlaken, Bern oder Chur.
 - Ebenfalls verkehren vereinzelt `EC` und `ECE` Züge auf dieser Strecke, die ebenfalls in Richtung Mannheim fahren.
