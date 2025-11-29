@@ -85,7 +85,7 @@ operators:
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et
     réservations, Conditions tarifaires spéciales
   listTitle: Opérateurs prenant en charge la FIP
-operators_without_fip: Opérateurs sans FIP
+  withoutFIP: Opérateurs sans FIP
 related:
   countries: Pays associés
   news: Actualités associées

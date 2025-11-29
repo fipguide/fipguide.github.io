@@ -85,7 +85,7 @@ operators:
     Informationen über die FIP-Bedingungen bei %s: Gültigkeit, Ticket- und
     Reservierungskauf, Tarifliche Besonderheiten
   listTitle: Betreiber mit FIP
-operators_without_fip: Betreiber ohne FIP
+  withoutFIP: Betreiber ohne FIP
 related:
   countries: Verwandte Länder
   news: Verwandte News

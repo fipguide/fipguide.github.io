@@ -83,7 +83,7 @@ operators:
     Information about FIP conditions at %s: validity, ticket and reservation
     purchase, special tariff conditions
   listTitle: Operators supporting FIP
-operators_without_fip: Operators without FIP
+  withoutFIP: Operators without FIP
 related:
   countries: Related Countries
   news: Related News
