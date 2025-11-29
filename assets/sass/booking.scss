@@ -73,8 +73,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 0.6rem;
-  font-size: 1.1em;
 
   @media (max-width: #{$breakpoint-md}) {
     align-items: flex-start;
