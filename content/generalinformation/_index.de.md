@@ -122,12 +122,16 @@ Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern bzw. Bahngesel
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Wien fahren. Dafür gibt es die Möglichkeit, entweder einen FIP Freifahrtschein für die ÖBB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Wien Hbf zu buchen. Beide gelten nur für den österreichischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über Passau Hbf, welcher Grenzbahnhof für Deutschland und Österreich ist.
 
 Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und Passau Hbf, z. B. ein regulär gekauftes Ticket oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands. Ab Passau Hbf gilt sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
+
+![Beispiel Grafik Grenzbahnhof](borderstation.de.drawio.png)
 {{% /expander %}}
 
 {{% expander "Beispiel für den Umgang mit Grenzpunkten" info %}}
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Kopenhagen fahren. Dafür gibt es die Möglichkeit, entweder einen FIP Freifahrtschein für die DSB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Kobenhavn H zu buchen. Beide gelten nur für den dänischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über die Grenze Padborg (Gr), was nur ein virtueller Grenzpunkt zwischen Flensburg und Padborg ist, jedoch kein echter Bahnhof.
 
-Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland, an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
+Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland (Schleswig), an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
+
+![Beispiel Grafik Grenzpunkt](borderpoint.de.drawio.png)
 {{% /expander %}}
 
 ## Versteuerung
