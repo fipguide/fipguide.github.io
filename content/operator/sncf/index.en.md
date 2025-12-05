@@ -17,7 +17,7 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 ## Summary
 
 - Reservations are always required for long-distance trains (`TGV` inOui and Intercités).
-- FIP discounts are not valid on OuiGo trains.
+- FIP discounts are not valid on OUIGO trains.
 - Some suburban trains and tram lines in Paris can be used under special conditions.
 - Global fares apply for international long-distance trains.
 - FIP discounts also apply on SNCF buses (except long-distance buses).
@@ -33,7 +33,7 @@ FIP Coupons and FIP 50 Tickets are valid on SNCF services. For cross-border jour
 
 ## Train Categories and Reservations
 
-Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OuiGo trains. For trains requiring reservations, the FIP 50 Ticket price always includes a reservation.
+Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OUIGO trains. For trains requiring reservations, the FIP 50 Ticket price always includes a reservation.
 
 ### Long-distance
 
@@ -41,18 +41,20 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 **Description:** \
 The `TGV` inOui is SNCF's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). [Route overview](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
 
-ℹ️ SNCF also operates low-cost `TGV` trains under the name OuiGo, which are not valid with FIP.
+ℹ️ SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
 
 ⚠️ Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains). \
 **Reservation possible:** yes \
 **Reservation required:** yes ⚠️ \
 **Reservation cost:** \
-Prices differ between peak and off-peak trains. Off-peak: €1.70 (1st/2nd class); peak: €15 (1st class), €10 (2nd class). The classification is not publicly available.
+Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). (Prix de marché) The classification of trains is unfortunately not publicly available.
+
+On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /expander %}}
 
-{{% expander "Train à grande vitesse OuiGo (TGV OuiGo) / OuiGo Train Classique ⛔⚠️ℹ️" traincategory "long-distance" %}}
+{{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
 **Description:** \
-The `TGV` OuiGo is SNCF's low-cost high-speed train, serving many cities in France and some international destinations.
+OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
 
 ℹ️ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP. \
 **Reservation possible:** yes \
@@ -68,7 +70,9 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 **Reservation possible:** yes \
 **Reservation required:** yes ⚠️ \
 **Reservation cost:** \
-Prices differ between peak and off-peak trains. Off-peak: €1.70 (1st/2nd class); peak: €15 (1st class), €10 (2nd class). The classification is not publicly available.
+Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). (Prix de marché) The classification of trains is unfortunately not publicly available.
+
+On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /expander %}}
 
 {{% expander "Intercité (IC) ⚠️" traincategory "long-distance" %}}
@@ -79,7 +83,9 @@ SNCF does not provide public information on which `IC` trains require reservatio
 **Reservation possible:** yes \
 **Reservation required:** mostly ⚠️ \
 **Reservation cost:** \
-Prices differ between peak and off-peak trains. Off-peak: €1.70 (1st/2nd class); peak: €15 (1st class), €10 (2nd class). The classification is not publicly available.
+Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). (Prix de marché) The classification of trains is unfortunately not publicly available.
+
+On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /expander %}}
 
 {{% expander "Intercité de nuit ⚠️" traincategory "long-distance" %}}
@@ -154,7 +160,9 @@ With regular tickets, children up to and including 4 years travel free. Children
 
 ### Reservation requirement in regional trains
 
-Some `TER` regional train lines require reservations:
+On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. For travel between all other destinations and route sections there is no reservation requirement. [^2]
+
+This reservation requirement applies to the following lines:
 
 #### Normandie TER NOMAD _Krono +_ trains:
 
@@ -172,8 +180,6 @@ Some `TER` regional train lines require reservations:
 
 - Line 1: Paris – Troyes – Chaumont – Mulhouse
 - Line 4: Paris – Épernay – Châlons – Strasbourg
-
-On `TER` Grand Est routes, reservations are only required if the journey starts or ends in Paris. On all other sections, no reservation is required.
 
 ### Ticket validation in regional trains
 
@@ -237,7 +243,7 @@ International `TER` trains between France and Geneva in Switzerland are marketed
 
 ### Bus Services
 
-FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. OuiGo Bus). [^1]
+FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. OUIGO Bus). [^1]
 
 ## Recommendations
 
@@ -248,3 +254,5 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
