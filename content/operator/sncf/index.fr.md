@@ -39,7 +39,7 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 {{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
 **Description :** \
-Le `TGV` inOui est le train à grande vitesse de la SNCF, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). [Aperçu des lignes](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
+Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). [Aperçu des lignes](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
 
 ℹ️ La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
 
@@ -180,18 +180,6 @@ Cette obligation s’applique aux lignes suivantes :
 
 - Ligne 1 : Paris – Troyes – Chaumont – Mulhouse
 - Ligne 4 : Paris – Épernay – Châlons – Strasbourg
-
-### Compostage des billets en TER
-
-Sur les lignes NOMAD suivantes, tous les billets doivent être compostés aux machines (compositeurs ou compostage de billets) avant chaque trajet ou après une interruption :
-
-- Paris – Caen – Cherbourg / Trouville-Deauville
-- Paris – Rouen – Le Havre
-- Paris – Granville
-- Paris – Évreux – Serquigny
-- Caen – Le Mans – Tours
-
-Cette obligation ne concerne pas les Coupons FIP.
 
 ### Trains TGV inOui / ICE internationaux
 

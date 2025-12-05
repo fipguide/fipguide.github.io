@@ -39,7 +39,7 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 
 {{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
 **Description:** \
-The `TGV` inOui is SNCF's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). [Route overview](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
+The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). [Route overview](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
 
 ℹ️ SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
 
@@ -180,18 +180,6 @@ This reservation requirement applies to the following lines:
 
 - Line 1: Paris – Troyes – Chaumont – Mulhouse
 - Line 4: Paris – Épernay – Châlons – Strasbourg
-
-### Ticket validation in regional trains
-
-On the following NOMAD routes, all tickets must be validated at the machines (compositeurs or compostage de billets) in stations before each journey or after a break in travel:
-
-- Paris – Caen – Cherbourg / Trouville-Deauville
-- Paris – Rouen – Le Havre
-- Paris – Granville
-- Paris – Évreux – Serquigny
-- Caen – Le Mans – Tours
-
-This validation requirement does not apply to FIP Coupons.
 
 ### International TGV inOui / ICE trains
 

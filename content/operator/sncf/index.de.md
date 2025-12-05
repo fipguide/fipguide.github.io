@@ -39,7 +39,7 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 
 {{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
-Der `TGV` inOui ist der Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken ist [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
+Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken ist [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
 
 ℹ️ Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
 
@@ -180,18 +180,6 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
 
 - Line 1: Paris – Troyes – Chaumont – Mulhouse
 - Line 4: Paris – Épernay – Châlons – Strasbourg
-
-### Ticketentwerter im Nahverkehr
-
-Auf den folgenden NOMAD-Strecken müssen alle Fahrkarten vor Antritt jeder Hin- oder Rückfahrt sowie nach einer Fahrtunterbrechung vor der Weiterfahrt an den dafür vorgesehenen Entwertern (compositeurs oder compostage de billets) in den Bahnhöfen entwertet werden:
-
-- Paris – Caen – Cherbourg / Trouville-Deauville
-- Paris – Rouen – Le Havre
-- Paris – Granville
-- Paris – Évreux – Serquigny
-- Caen – Le Mans – Tours
-
-Diese Entwertungspflicht gilt nicht für die Nutzung von FIP Freifahrtscheinen.
 
 ### Grenzüberschreitende TGV inOui / ICE Züge
 
