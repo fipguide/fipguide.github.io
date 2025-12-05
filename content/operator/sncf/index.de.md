@@ -47,7 +47,9 @@ Der `TGV` inOui ist der Hochgeschwindigkeitszug der SNCF und verbindet zahlreich
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Ja ⚠️ \
 **Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 1,70 € (1./2. Klasse) und während der Hauptverkehrszeit 15 € (1. Klasse) bzw. 10 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). (Prix de marché) Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+
+Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
 {{% /expander %}}
 
 {{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
@@ -68,7 +70,9 @@ Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutsch
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Ja ⚠️ \
 **Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 1,70 € (1./2. Klasse) und während der Hauptverkehrszeit 15 € (1. Klasse) bzw. 10 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). (Prix de marché) Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+
+Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
 {{% /expander %}}
 
 {{% expander "Intercité (IC) ⚠️" traincategory "long-distance" %}}
@@ -79,7 +83,9 @@ Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Z�
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Meistens ⚠️ \
 **Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 1,70 € (1./2. Klasse) und während der Hauptverkehrszeit 15 € (1. Klasse) bzw. 10 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). (Prix de marché) Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+
+Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
 {{% /expander %}}
 
 {{% expander "Intercité de nuit ⚠️" traincategory "long-distance" %}}
@@ -154,7 +160,9 @@ Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder
 
 ### Reservierungspflicht im Regionalverkehr
 
-Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese betrifft:
+Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Für die Fahrt zwischen allen anderen Destinationen und Streckenabschnitten besteht keine Reservierungspflicht. [^2]
+
+Diese Reservierungspflicht gilt auf folgenden Linien:
 
 #### Normandie TER NOMAD _Krono +_ Züge:
 
@@ -172,8 +180,6 @@ Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese be
 
 - Line 1: Paris – Troyes – Chaumont – Mulhouse
 - Line 4: Paris – Épernay – Châlons – Strasbourg
-
-Auf den `TER` Grand Est Strecken besteht eine Reservierungspflicht nur dann, wenn die Fahrt in Paris beginnt oder endet. Auf allen anderen Streckenabschnitten besteht keine Reservierungspflicht.
 
 ### Ticketentwerter im Nahverkehr
 
@@ -248,3 +254,5 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
