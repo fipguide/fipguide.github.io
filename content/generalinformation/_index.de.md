@@ -33,6 +33,8 @@ Für die Nutzung von FIP-Vergünstigungen ist ein aktueller _FIP Ausweis_ erford
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
+![FIP Ausweis](fip-pass.webp)
+
 ## Vergünstigungen
 
 FIP Vergünstigungen bestehen in verschiedenen Formen, für die Nutzung wird immer ein FIP-Ausweis benötigt.
@@ -62,6 +64,8 @@ Am 03.03.2026 fahre ich nicht mit dem Zug, dafür wieder am 04.03. Also trage ic
 {{% highlight tip %}}
 Um länger als acht Tage in einem Land bzw. bei einem Betreiber Zug fahren zu können, kann auch zwischendrin ein Tag kein Freifahrtschein benutzt werden und z. B. ein FIP 50 Ticket für die Fahrt an diesem Tag gekauft werden. Diese können unabhängig von einem Freifahrtschein jederzeit erworben werden.
 {{% /highlight %}}
+
+![FIP Freifahrtschein](./fip-coupon.webp)
 
 ### FIP 50 Tickets
 
