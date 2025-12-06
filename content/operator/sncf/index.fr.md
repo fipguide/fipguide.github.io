@@ -47,7 +47,7 @@ Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nom
 **Réservation possible :** oui \
 **Réservation obligatoire :** oui ⚠️ \
 **Prix de la réservation :** \
-Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). (Prix de marché) La classification des trains n’est malheureusement pas accessible publiquement.
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
 
 Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
 {{% /expander %}}
@@ -70,7 +70,7 @@ Trains à grande vitesse internationaux exploités par la SNCF en coopération a
 **Réservation possible :** oui \
 **Réservation obligatoire :** oui ⚠️ \
 **Prix de la réservation :** \
-Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). (Prix de marché) La classification des trains n’est malheureusement pas accessible publiquement.
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
 
 Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
 {{% /expander %}}
@@ -83,7 +83,7 @@ La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En c
 **Réservation possible :** oui \
 **Réservation obligatoire :** généralement ⚠️ \
 **Prix de la réservation :** \
-Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). (Prix de marché) La classification des trains n’est malheureusement pas accessible publiquement.
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
 
 Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
 {{% /expander %}}
@@ -218,7 +218,7 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
 {{% /expander %}}
 
 {{% expander "Tramways" info %}}
-Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis ; la validité FIP est incertaine. Les autres tramways ne sont pas valables avec FIP.
+Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis et accessibles avec FIP aussi. Les autres tramways ne sont pas valables avec FIP.
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">

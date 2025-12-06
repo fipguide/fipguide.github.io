@@ -47,7 +47,7 @@ Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Ja ⚠️ \
 **Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). (Prix de marché) Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
 Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
 {{% /expander %}}
@@ -70,7 +70,7 @@ Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutsch
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Ja ⚠️ \
 **Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). (Prix de marché) Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
 Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
 {{% /expander %}}
@@ -83,7 +83,7 @@ Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Z�
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Meistens ⚠️ \
 **Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). (Prix de marché) Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
 Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
 {{% /expander %}}
@@ -218,7 +218,7 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
 {{% /expander %}}
 
 {{% expander "Straßenbahnen" info %}}
-Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben. Zur Gültigkeit von FIP Vergünstigungen auf diesen Linien gibt es widersprüchliche Aussagen. Auf den restlichen Straßenbahnlinien gelten keine FIP Vergünstigungen.
+Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIO Vergünstigungen.
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">

@@ -47,7 +47,7 @@ The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in 
 **Reservation possible:** yes \
 **Reservation required:** yes ⚠️ \
 **Reservation cost:** \
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). (Prix de marché) The classification of trains is unfortunately not publicly available.
+Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
 
 On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /expander %}}
@@ -70,7 +70,7 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 **Reservation possible:** yes \
 **Reservation required:** yes ⚠️ \
 **Reservation cost:** \
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). (Prix de marché) The classification of trains is unfortunately not publicly available.
+Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
 
 On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /expander %}}
@@ -83,7 +83,7 @@ SNCF does not provide public information on which `IC` trains require reservatio
 **Reservation possible:** yes \
 **Reservation required:** mostly ⚠️ \
 **Reservation cost:** \
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). (Prix de marché) The classification of trains is unfortunately not publicly available.
+Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
 
 On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /expander %}}
@@ -218,7 +218,7 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
 {{% /expander %}}
 
 {{% expander "Trams" info %}}
-Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis; FIP validity is unclear. FIP discounts do not apply on other tram lines.
+Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis and can be used with FIP discounts as well. FIP discounts do not apply on other tram lines.
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
