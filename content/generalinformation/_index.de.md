@@ -127,7 +127,7 @@ Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Fr
 
 Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und Passau Hbf, z. B. ein regulär gekauftes Ticket oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands. Ab Passau Hbf gilt sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
 
-![Beispiel Grafik Grenzbahnhof](borderstation.de.drawio.png)
+![Beispiel Grafik Grenzbahnhof](borderstation.de.png)
 {{% /expander %}}
 
 {{% expander "Beispiel für den Umgang mit Grenzpunkten" info %}}
@@ -135,7 +135,7 @@ Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Fr
 
 Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland (Schleswig), an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
 
-![Beispiel Grafik Grenzpunkt](borderpoint.de.drawio.png)
+![Beispiel Grafik Grenzpunkt](borderpoint.de.png)
 {{% /expander %}}
 
 ## Versteuerung
