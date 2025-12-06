@@ -218,7 +218,7 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
 {{% /expander %}}
 
 {{% expander "Straßenbahnen" info %}}
-Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIO Vergünstigungen.
+Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIO Vergünstigungen
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
@@ -231,7 +231,7 @@ Zwischen Frankreich und Genf in der Schweiz verkehren internationale `TER` Züge
 
 ### Busverkehr
 
-FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. OUIGO Bus). [^1]
+FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. BlaBlaCar Bus). [^1]
 
 ## Empfehlungen
 

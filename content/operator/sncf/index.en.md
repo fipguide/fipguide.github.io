@@ -231,7 +231,7 @@ International `TER` trains between France and Geneva in Switzerland are marketed
 
 ### Bus Services
 
-FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. OUIGO Bus). [^1]
+FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). [^1]
 
 ## Recommendations
 

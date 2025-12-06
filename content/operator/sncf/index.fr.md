@@ -231,7 +231,7 @@ Les trains internationaux `TER` entre la France et Genève en Suisse sont commer
 
 ### Bus SNCF
 
-Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. OUIGO Bus). [^1]
+Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). [^1]
 
 ## Recommandation
 
