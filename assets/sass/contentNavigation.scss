@@ -196,7 +196,8 @@
     }
   }
 
-  main.o-newspage .o-aside {
+  main.o-newspage .o-aside,
+  main.o-bookingpage .o-aside {
     display: none;
   }
 }
