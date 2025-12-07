@@ -1,0 +1,139 @@
+.o-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+
+  &[aria-hidden="false"] {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  &__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+  &__container {
+    position: relative;
+    background: var(--bg-default);
+    border-radius: var(--border-radius-m);
+    box-shadow: var(--box-shadow);
+    max-width: 90vw;
+    max-height: 90vh;
+    width: 60rem;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+  }
+
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem;
+    border-bottom: var(--border);
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+
+  &__close {
+    background: none;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    color: var(--color-body);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--border-radius-s);
+    transition: background 0.2s ease;
+
+    &:hover {
+      background: var(--bg-neutral);
+    }
+
+    svg {
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+  }
+
+  &__content {
+    padding: 0 1.5rem 1.5rem 1.5rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__description {
+    margin-bottom: 1.5rem;
+    color: var(--color-body);
+    flex-shrink: 0;
+  }
+
+  &__table-wrapper {
+    overflow-y: auto;
+    flex: 1;
+    min-height: 0;
+  }
+
+  &__table {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 0;
+
+    &--body {
+      margin-top: 0;
+    }
+
+    a {
+      color: var(--link-default);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__status {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    svg {
+      width: 1.2rem;
+      height: 1.2rem;
+    }
+
+    &--yes {
+      color: var(--fip-validity-accepted);
+    }
+
+    &--no {
+      color: var(--fip-validity-rejected);
+    }
+
+    &--unknown {
+      color: var(--color-body);
+      opacity: 0.6;
+    }
+  }
+}

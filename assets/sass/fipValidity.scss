@@ -1,0 +1,12 @@
+.o-fip-validity {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 1.2rem;
+
+  &__tags {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+}
