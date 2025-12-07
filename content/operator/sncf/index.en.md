@@ -102,7 +102,7 @@ SNCF night trains within France. International Nightjet connections ended in Dec
 **Description:** \
 `TER` is a regional train, connecting various cities in France.
 
-ℹ️ On the Marseille – Toulon – Nice route, FIP is not valid as `TER` trains are operated by Transdev. \
+ℹ️ On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here. \
 **Reservation possible:** sometimes \
 **Reservation required:** sometimes ⚠️ \
 Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains)

@@ -54,7 +54,7 @@ Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Kl
 
 {{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
 **Beschreibung:**
-Der OUIGO (Grand Vitesse) ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele. Zusätzlich gibt es OUIGO Classique Züge die aus herkömmlichen Reisezugwagen bestehen.
+Der OUIGO (Grand Vitesse) ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele. Zusätzlich gibt es OUIGO Classique Züge, die aus herkömmlichen Reisezugwagen bestehen.
 
 ℹ️ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind. \
 **Reservierung möglich:** Ja \
@@ -102,7 +102,7 @@ Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindunge
 **Beschreibung:**
 Der `TER` ist ein Regionalzug, der verschiedene Städte in Frankreich verbindet.
 
-ℹ️ Auf der Strecke Marseille – Toulon – Nice gilt kein FIP, da dort die `TER` Züge von Transdev betrieben werden. \
+ℹ️ Auf der Strecke Marseille – Nice betreibt Transdev die Züge, weshalb FIP nicht akzeptiert wird. Auf der Strecke Marseille – Toulon werden jedoch auch Züge der SNCF eingesetzt, bei denen FIP akzeptiert wird. Eine vorige Prüfung des Betreibers ist hier zwingend notwendig. \
 **Reservierung möglich:** Teilweise \
 **Reservierungspflicht:** Teilweise ⚠️ \
 Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reservierungspflicht im Regionalverkehr](#reservierungspflicht-im-regionalverkehr)
@@ -218,7 +218,7 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
 {{% /expander %}}
 
 {{% expander "Straßenbahnen" info %}}
-Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIO Vergünstigungen
+Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIP Vergünstigungen
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
