@@ -14,10 +14,10 @@ The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK
 
 ## Summary
 
-- ZSSK accepts FIP Coupons and FIP 50 Tickets
-- Reservation required in `IC` and `SC` trains
-- Reservation required in 1st class in all trains
-- Offers for free travel for certain groups (children between 6 and 16, students up to 26, and pensioners from 62 years) regardless of FIP
+- ZSSK accepts FIP Coupons and FIP 50 Tickets.
+- Reservation required in `IC` and `SC` trains.
+- Reservation required in 1st class in all trains.
+- Offers for free travel for certain groups (children between 6 and 16, students up to 26, and pensioners from 62 years) regardless of FIP.
 
 ## Validity of FIP Tickets
 
@@ -116,14 +116,14 @@ If no ticket counter is available or open, a ticket (or reservation in Ex) can b
 
 ## Discounts
 
-Children up to 6 years travel free on ZSSK trains when accompanied by a person aged at least 16 years. In 1st class, this is limited to 2 children; from the 3rd child, 50% of the ticket price is due. In `EC` trains, an additional 1€ per child is charged in 1st class from the 3rd child. In `SC` trains, 1€ per child is always charged in 2nd class and 3€ in 1st class. In `IC` trains, a reservation including a surcharge for the train category must be purchased for each child.[^1]
+Children up to 6 years travel free on ZSSK trains when accompanied by a person aged at least 16 years. In 1st class, this is limited to 2 children; from the 3rd child, 50% of the ticket price is due. In `EC` trains, an additional 1€ per child is charged in 1st class from the 3rd child. In `SC` trains, € 1 per child is always charged in 2nd class and € 3 in 1st class. In `IC` trains, a reservation including a surcharge for the train category must be purchased for each child.[^1]
 
 ### Free 6-16 years (without FIP)
 
-To obtain free travel for children aged 6–16, a photo (2x3cm) and proof of identity (or birth certificate plus parent's ID) must be presented at the ticket office for registration. Processing takes up to three working days, after which an attestation is issued and must be shown on board. The free ticket (€0) should then be reserved on the ZSSK website by selecting "beneficiary of the 100% discount".
+To obtain free travel for children aged 6–16, a photo (2x3cm) and proof of identity (or birth certificate plus parent's ID) must be presented at the ticket office for registration. Processing takes up to three working days, after which an attestation is issued and must be shown on board. The free ticket (€ 0) should then be reserved on the ZSSK website by selecting "beneficiary of the 100% discount".
 
-On `EC` trains: surcharge of €1 per child \
-On `SC` trains: €1 (2nd class) / €3 (1st class) \
+On `EC` trains: surcharge of € 1 per child \
+On `SC` trains: € 1 (2nd class) / € 3 (1st class) \
 On `IC` trains: surcharge with mandatory reservation
 
 ### Free travel for students and seniors (without FIP)

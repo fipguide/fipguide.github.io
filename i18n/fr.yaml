@@ -44,7 +44,7 @@ information-disclaimer-short: >-
 interactiveMap:
   legend:
     available: FIP Guide disponible
-    pending: Contenu non disponible
+    pending: Contenu non disponible dans le guide FIP
     unavailable: Pas d'acceptation FIP
   loading: Chargement de la carte interactive...
   resetZoom: Réinitialiser le zoom

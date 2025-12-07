@@ -36,8 +36,8 @@ High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run 
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
-When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required with FIP Coupons. \
-The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
+When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3 € per journey must be paid. No supplement is required with FIP Coupons. \
+The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
 {{% /expander %}}
 
 {{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
@@ -47,9 +47,9 @@ International, supplement-required train between Lelystad, Amsterdam, and Brusse
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
-Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid for both FIP 50 Tickets and FIP Coupons.
-This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3 € must be paid for both FIP 50 Tickets and FIP Coupons.
+This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket. \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 Tickets, prices may vary by train category.
 {{% /expander %}}
 
@@ -68,28 +68,28 @@ Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam 
 **Reservation possible:** no \
 **Reservation required:** no \
 **Supplement:** ⚠️ \
-When using FIP 50 Tickets between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3€ must be paid. No supplement is required with FIP Coupons. \
-This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80€ at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+When using FIP 50 Tickets between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3 € must be paid. No supplement is required with FIP Coupons. \
+This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket. \
+Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
 With FIP 50 Tickets, prices may vary by train category.
 {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Description:** \
 Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops.
-An exception is the `IC` Amsterdam - Berlin, which is a true cross-border `IC` with stops only at major hubs. \
-**Reservation possible:** only on the `IC` Amsterdam - Berlin \
+An exception is the `IC` Amsterdam – Berlin, which is a true cross-border `IC` with stops only at major hubs. \
+**Reservation possible:** only on the `IC` Amsterdam – Berlin \
 **Reservation required:** no (cross-border during high season: yes) \
 **Supplement**: ⚠️ \
-From October 18, 2025, the `IC` line Amsterdam – Berlin will gradually be converted to ICE 3neo trains. When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3€ per journey must be paid. No supplement is required when using FIP Coupons. \
-The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or on site at ticket machines or counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket.
+From October 18, 2025, the `IC` line Amsterdam – Berlin will gradually be converted to ICE 3neo trains. When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3 € per journey must be paid. No supplement is required when using FIP Coupons. \
+The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or on site at ticket machines or counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
 **Description:** \
 Regional trains with more stops than Intercity, but still only at important stations.
 
-ℹ️ Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo - Hamm (Germany), Maastricht - Aachen (Germany), and Arnhem - Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP. \
+ℹ️ Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP. \
 **Reservation possible:** no \
 **Reservation required:** no
 {{% /expander %}}

@@ -32,7 +32,7 @@ Weiter Informationen: [Verbindungen der ČD ohne FIP]({{% ref "#verbindungen-der
 
 ## Zugkategorien und Reservierungen
 
-Sitzplatzreservierungen sind nur in SuperCity `SC` Zügen verpflichtend.
+Sitzplatzreservierungen sind nur in SuperCity `SC` und einigen `IC` Zügen verpflichtend.
 
 {{% expander "SuperCity (SC)⚠️" traincategory traincategory %}}
 **Beschreibung:** \
@@ -43,7 +43,7 @@ Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-Die Preise für die Reservierung sind variabel.
+Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
 {{% /expander %}}
 
 {{% expander "Railjet (RJ)ℹ️" traincategory traincategory %}}
@@ -68,11 +68,11 @@ Internationale Fernverkehrszüge im Taktverkehr mit hohem Komfort. Die klimatisi
 **Reservierungspflicht:** Nein
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" traincategory traincategory %}}
+{{% expander "Intercity (IC) ⚠️" traincategory traincategory %}}
 **Beschreibung:** \
 Fernverkehrszüge mit hohem Komfort und Halten nur an wichtigeren Bahnhöfen. Teilweise sind sie mit einem Bordrestaurant oder einer Minibar ausgestattet. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
+**Reservierungspflicht:** ⚠️ Teilweise (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht))
 {{% /expander %}}
 
 {{% expander "Expres (Ex)" traincategory traincategory %}}
@@ -108,7 +108,7 @@ Nahverkehrszüge mit Halt an allen Bahnhöfen, die häufig nur über die 2. Klas
 Nachtzüge verbinden Tschechien mit Deutschland, Östereich, Polen, der Schweiz, der Slowakei und Ungarn. Die Züge bieten Schlaf-, Liege- und Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben. [Weitere Informationen und Streckennetz](https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/)
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden. \
-⚠️ Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar. \
+⚠️ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
 **FIP Globalpreis:** ja \
@@ -123,11 +123,11 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -144,19 +144,34 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ## Tarifliche Besonderheiten
 
-### ČD Kommerzielle Verbindungen
+### ČD Kommerzielle Verbindungen (Aufschlagspflichtig)
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD muss vor Fahrtantritt ein Aufschlag am ČD Ticketschalter gekauft werden. Diese verkehren primär auf der Strecke Prag – Ostrava.
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Aufschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `IC` und `Ex`. (Und `R` Züge, die mit "NATO Days" gekennzeichnet sind).[^3]
 
-<!-- Wie teuer ist dieses Supplement? -->
+Die ČD stellt eine Übersicht mit betroffenen Fahrten zur Verfügung: [ČD kommerzielle Zuge und ausgewahlte Linien 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
-Übersicht über die Verbindungen: [ČD kommerzielle Zuge und ausgewahlte Linien 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
+Für Reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
+
+Der Aufschlag kostet ~125 CZK (Stand November 2025) und kann vor Fahrtantritt am ČD Ticketschalter oder im Zug (bitte das Zugpersonal direkt aufsuchen) gekauft werden. Die Gültigkeit des Aufschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3]
 
 Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Aufschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich. [^1]
 
+#### Züge mit Reservierungspflicht
+
+Einige Züge der ČD haben eine Reservierungspflicht. Dies umfasst alle `SC` sowie einige `IC` Züge (alle Verbindungen sind aufgeführt in den [kommerziellen Verbindungen](#čd-kommerzielle-verbindungen-aufschlagspflichtig)). Die betroffenen `IC` Züge verkehren primär auf der Strecke Prag – Ostrava.
+
+Diese Züge benötigen eine spezielle Sitzplatzreservierung (inkl. Aufschlag). Die ČD hat dafür zur Zeit keine eigene Tarifoption. Folgende Möglichkeiten für die Sitzplatzreservierung werden in der Regel akzeptiert: [^3]
+
+- Der Kauf einer Reservierung für ČD Personal (Tarif: _Rail card ČD_) über die Website der ČD ([ČD eshop](https://www.cd.cz/en/eshop/default.htm)) oder die ČD App (Můj vlak)
+- Der Kauf einer herkömmlichen Reservierung (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)) und zusätzlich des [kommerziellen Aufschlags](#čd-kommerzielle-verbindungen-aufschlagspflichtig)
+
+Vor dem Einstieg in den Zug kann es hilfreich sein, das Zugbegleitpersonal zu informieren.
+
 ### Verbindungen der ČD ohne FIP
 
-Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren. Leider stellt die ČD keine vollständige Liste zur Verfügung. Die wichtigsten sind jedoch die folgenden:
+Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren und nicht wenigstens ein Teilabschnitt direkt durch das Verkehrsministerium vergeben wurde. Züge der Kategorie `EC` und `RJ` sind in der Regel nicht betroffen und können innerhalb Tschechiens immer mit FIP genutzt werden. Alle anderen Verbindungen des Fernverkehrs (z. B. `SC`, `IC`, `Ex`) werden als [kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-aufschlagspflichtig) bezeichnet und sind nur mit Aufschlag nutzbar.
+
+Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie `SP` und `OS`), stellt die ČD keine Liste mit nutzbaren Verbindungen zur Verfügung. Im Zweifelsfall kann beim ČD-Support oder am ČD-Schalter gefragt werden, auf welchen Verbindungen FIP gilt. Die wichtigsten, nicht nutzbaren Verbindungen sind jedoch die folgenden:
 
 #### Regionalzüge in der Region Süd-Mähren (Brno)
 
@@ -212,3 +227,5 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
+
+[^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)

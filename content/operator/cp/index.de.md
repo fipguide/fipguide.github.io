@@ -98,7 +98,7 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "category" %}}
+{{% expander "Celta: Porto – Vigo ⚠️" traincategory "category" %}}
 **Beschreibung:** \
 Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \

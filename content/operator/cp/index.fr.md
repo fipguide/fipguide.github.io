@@ -97,7 +97,7 @@ Ligne entre Coimbra et Figueira da Foz.
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Celta : Porto - Vigo ⚠️" traincategory "category" %}}
+{{% expander "Celta : Porto – Vigo ⚠️" traincategory "category" %}}
 **Description :** \
 Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus. \
 **Réservation possible :** oui \

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "SNCF"
-description: "Informations sur les conditions FIP chez la SNCF : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
+title: "SNCF Voyageurs"
+description: "Informations sur les conditions FIP chez SNCF Voyageurs : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "france"
   - "monaco"
@@ -16,11 +16,11 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Résumé
 
-- Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités)
-- Les réductions FIP ne sont pas valables dans les trains OuiGo
-- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières
-- Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux
-- Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance)
+- Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités).
+- Les réductions FIP ne sont pas valables dans les trains OUIGO.
+- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières.
+- Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux.
+- Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance).
 
 ## Validité des Billets FIP
 
@@ -33,28 +33,30 @@ Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les 
 
 ## Catégories de trains et réservations
 
-La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC` et certains trains régionaux (`TER`). FIP n’est pas valable dans les trains OuiGo. Pour les trains à réservation obligatoire, le prix du Billet FIP 50 inclut toujours la réservation.
+La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC` et certains trains régionaux (`TER`). FIP n’est pas valable dans les trains OUIGO. Pour les trains à réservation obligatoire, le prix du Billet FIP 50 inclut toujours la réservation.
 
 ### Grandes lignes
 
 {{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
 **Description :** \
-Le `TGV` inOui est le train à grande vitesse de la SNCF, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). [Aperçu des lignes](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
+Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). [Aperçu des lignes](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
 
-ℹ️ La SNCF exploite aussi des trains `TGV` low-cost sous le nom OuiGo, non valables avec FIP.
+ℹ️ La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
 
 ⚠️ Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** oui ⚠️ \
 **Prix de la réservation :** \
-Les prix varient selon l’heure. Hors pointe : 1,70 € (1ʳᵉ/2ᵉ classe) ; en pointe : 15 € (1ʳᵉ classe), 10 € (2ᵉ classe). La classification n’est pas publique.
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
+
+Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
 {{% /expander %}}
 
-{{% expander "Train à grande vitesse OuiGo (TGV OuiGo) / OuiGo Train Classique ⛔⚠️ℹ️" traincategory "long-distance" %}}
+{{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
 **Description :** \
-Le `TGV` OuiGo est le train à grande vitesse low-cost de la SNCF, reliant de nombreuses villes françaises et quelques destinations internationales.
+OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
 
-ℹ️ La SNCF exploite aussi des trains `TGV` sous la marque inOui, valables avec FIP. \
+ℹ️ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** oui ⚠️ \
 **FIP :** ⛔ FIP non accepté
@@ -68,7 +70,9 @@ Trains à grande vitesse internationaux exploités par la SNCF en coopération a
 **Réservation possible :** oui \
 **Réservation obligatoire :** oui ⚠️ \
 **Prix de la réservation :** \
-Les prix varient selon l’heure. Hors pointe : 1,70 € (1ʳᵉ/2ᵉ classe) ; en pointe : 15 € (1ʳᵉ classe), 10 € (2ᵉ classe). La classification n’est pas publique.
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
+
+Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
 {{% /expander %}}
 
 {{% expander "Intercité (IC) ⚠️" traincategory "long-distance" %}}
@@ -79,7 +83,9 @@ La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En c
 **Réservation possible :** oui \
 **Réservation obligatoire :** généralement ⚠️ \
 **Prix de la réservation :** \
-Les prix varient selon l’heure. Hors pointe : 1,70 € (1ʳᵉ/2ᵉ classe) ; en pointe : 15 € (1ʳᵉ classe), 10 € (2ᵉ classe). La classification n’est pas publique.
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
+
+Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
 {{% /expander %}}
 
 {{% expander "Intercité de nuit ⚠️" traincategory "long-distance" %}}
@@ -94,7 +100,7 @@ Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été s
 
 {{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
 **Description :** \
-Le `TER` est le train régional de la SNCF reliant différentes villes françaises.
+Le `TER` est le train régional reliant différentes villes françaises.
 
 ℹ️ Sur la ligne Marseille – Toulon – Nice, FIP n’est pas valable car les TER sont exploités par Transdev. \
 **Réservation possible :** parfois \
@@ -154,7 +160,9 @@ Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratui
 
 ### Réservation obligatoire en TER
 
-Certaines lignes `TER` sont à réservation obligatoire :
+Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour les trajets entre toutes les autres destinations et sections de ligne, il n’y a pas d’obligation de réservation. [^2]
+
+Cette obligation s’applique aux lignes suivantes :
 
 #### TER NOMAD Normandie _Krono +_ :
 
@@ -172,20 +180,6 @@ Certaines lignes `TER` sont à réservation obligatoire :
 
 - Ligne 1 : Paris – Troyes – Chaumont – Mulhouse
 - Ligne 4 : Paris – Épernay – Châlons – Strasbourg
-
-Sur les `TER` Grand Est, la réservation n’est obligatoire que si le trajet commence ou finit à Paris. Sur les autres sections, elle n’est pas requise.
-
-### Compostage des billets en TER
-
-Sur les lignes NOMAD suivantes, tous les billets doivent être compostés aux machines (compositeurs ou compostage de billets) avant chaque trajet ou après une interruption :
-
-- Paris – Caen – Cherbourg / Trouville-Deauville
-- Paris – Rouen – Le Havre
-- Paris – Granville
-- Paris – Évreux – Serquigny
-- Caen – Le Mans – Tours
-
-Cette obligation ne concerne pas les Coupons FIP.
 
 ### Trains TGV inOui / ICE internationaux
 
@@ -224,7 +218,7 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
 {{% /expander %}}
 
 {{% expander "Tramways" info %}}
-Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis ; la validité FIP est incertaine. Les autres tramways ne sont pas valables avec FIP.
+Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis et accessibles avec FIP aussi. Les autres tramways ne sont pas valables avec FIP.
 {{% /expander %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
@@ -237,7 +231,7 @@ Les trains internationaux `TER` entre la France et Genève en Suisse sont commer
 
 ### Bus SNCF
 
-Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. OuiGo Bus). [^1]
+Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). [^1]
 
 ## Recommandation
 
@@ -248,3 +242,5 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
