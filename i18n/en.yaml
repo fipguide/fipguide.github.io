@@ -73,7 +73,7 @@ information-disclaimer-short: >-
 interactiveMap:
   legend:
     available: FIP Guide available
-    pending: Content not available yet
+    pending: Content not yet available in the FIP Guide
     unavailable: No FIP acceptance
   loading: Loading interactive map...
   resetZoom: Reset Zoom
