@@ -107,6 +107,7 @@ trainCategory:
   importantInformation: Important information
   reservation:
     notPossible: No reservation possible
+    partiallyPossible: Reservation partially possible
     partiallyRequired: Reservation partially required
     possible: Reservation possible
     required: Reservation required

@@ -111,6 +111,7 @@ trainCategory:
   importantInformation: Wichtige Informationen
   reservation:
     notPossible: Keine Reservierung möglich
+    partiallyPossible: Reservierung teilweise möglich
     partiallyRequired: Reservierung teilweise erforderlich
     possible: Reservierung möglich
     required: Reservierung erforderlich

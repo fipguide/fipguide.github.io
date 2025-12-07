@@ -5,6 +5,7 @@
         {{ $iconMapping := dict
           "highspeed" "train"
           "regional" "directions_subway"
+          "subway" "subway"
           "sleeper" "hotel"
           "funicular" "funicular"
           "bus" "directions_bus"
@@ -64,6 +65,14 @@
             "Type" "info"
             )
           }}
+        {{- else if eq .reservation_possible "partially" -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_lock"
+            "Text" "trainCategory.reservation.partiallyPossible"
+            "Type" "info"
+            )
+          }}
         {{- else if eq .reservation_possible false -}}
           {{ partial "tag" (
             dict
@@ -100,21 +109,23 @@
   <hr aria-hidden="true" />
   <div class="o-expander__content o-train-category__content">
     {{- .content -}}
-    {{- if .route_overview_url -}}
-      {{- partial "button"
-        (dict
-        "Destination" .route_overview_url
-        "Text" (T "trainCategory.routeOverview")
-        )
-      -}}
-    {{- end -}}
-    {{- if .additional_information_url -}}
-      {{- partial "button"
-        (dict
-        "Destination" .additional_information_url
-        "Text" (T "trainCategory.additionalInformation")
-        )
-      -}}
-    {{- end -}}
+    <div>
+      {{- if .route_overview_url -}}
+        {{- partial "button"
+          (dict
+          "Destination" .route_overview_url
+          "Text" (T "trainCategory.routeOverview")
+          )
+        -}}
+      {{- end -}}
+      {{- if .additional_information_url -}}
+        {{- partial "button"
+          (dict
+          "Destination" .additional_information_url
+          "Text" (T "trainCategory.additionalInformation")
+          )
+        -}}
+      {{- end -}}
+    </div>
   </div>
 </details>
