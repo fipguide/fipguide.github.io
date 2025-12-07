@@ -4,6 +4,7 @@ title: "Eurostar"
 description: "Informations sur les conditions FIP pour Eurostar : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
+  - "germany"
   - "netherlands"
   - "united-kingdom"
   - "france"
