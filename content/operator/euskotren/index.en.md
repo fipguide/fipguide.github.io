@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Euskotren"
+description: "Information about FIP conditions for Euskotren: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
 operator: "euskotren"

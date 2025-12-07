@@ -4,8 +4,8 @@ title: "CP Ticketschalter"
 description: "Buchungsinformationen für die CP Ticketschalter."
 params:
   classes:
-    first: "5,00€"
-    second: "5,00€"
+    first: "5,00 €"
+    second: "5,00 €"
   fip_50: true
   fip_global_fare: true
   reservations: true

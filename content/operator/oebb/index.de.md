@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Informationen über die FIP-Bedingungen bei den ÖBB."
+description: "Informationen über die FIP-Bedingungen bei den ÖBB: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "austria"
   - "liechtenstein"
@@ -15,11 +15,11 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 
 ## Zusammenfassung
 
-- ÖBB akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz
-- Kein FIP im Wiener Flughafenexpress `CAT`
-- Besondere Regeln in Zügen nach Italien, Nightjets, Autozügen und IC Bussen
-- FIP Freifahrt der ÖBB gilt auch in Liechtenstein
+- ÖBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz.
+- Kein FIP im Wiener Flughafenexpress `CAT`.
+- Besondere Regeln gelten in Zügen nach Italien, Nightjets, Autozügen und IC Bussen.
+- FIP Freifahrt der ÖBB gilt auch in Liechtenstein.
 
 ## Gültigkeit FIP Tickets
 
@@ -33,8 +33,8 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ÖBB gültig. 
 Bei der Fahrt mit FIP Freifahrtschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
 
 Kosten: \
-1\. Klasse: 15€ \
-2\. Klasse: 10€
+1\. Klasse: 15 € \
+2\. Klasse: 10 €
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
@@ -51,14 +51,14 @@ Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die 
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Für Railjets nach italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien). \
+Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
 **Beschreibung:** \
-Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz–Linz, Graz–Salzburg, Graz–Innsbruck, Klagenfurt–Salzburg, Wien–Gmunden–Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
+Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Wien – Gmunden – Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
 
 ℹ️ Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig. \
 **Reservierung möglich:** ja \
@@ -67,7 +67,7 @@ Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets
 
 {{% expander "InterRegio (IR)" traincategory "long-distance" %}}
 **Beschreibung:** \
-Ab August 2025 wird der InterRegio `IR` als neue Fernverkehrszuggattung auf Nebenstrecken eingeführt und ersetzt größtenteils die bisherigen `IC`-Verbindungen. Beispiele hierfür sind Verbindungen wie Graz–Unzmarkt oder Graz–Linz. Ziel ist es, Orte mit dem Fernverkehr zu erschließen, die bislang nur wenige oder keine Direktverbindungen hatten. Die Züge verkehren im Zwei- oder Vierstundentakt. \
+Ab August 2025 wird der InterRegio `IR` als neue Fernverkehrszuggattung auf Nebenstrecken eingeführt und ersetzt größtenteils die bisherigen `IC`-Verbindungen. Beispiele hierfür sind Verbindungen wie Graz – Unzmarkt oder Graz – Linz. Ziel ist es, Orte mit dem Fernverkehr zu erschließen, die bislang nur wenige oder keine Direktverbindungen hatten. Die Züge verkehren im Zwei- oder Vierstundentakt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -85,7 +85,7 @@ Für Eurocitys nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahl
 **Beschreibung:** \
 Nachtzüge der ÖBB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben. \
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden. \
-⚠️ Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich. \
+⚠️ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich. \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
@@ -113,7 +113,7 @@ Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
 {{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
-Nahverkehrszug mit Halten and den meisten Stationen.
+Nahverkehrszug mit Halten an den meisten Stationen.
 
 ℹ️ Regionalzüge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
@@ -130,9 +130,9 @@ Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichb
 Dazu gehören unter anderem:
 
 - S-Bahn Oberösterreich: S5 Linz – Eferding (Linzer Lokalbahn)
-- S-Bahn Salzburg: S1 Salzburg–Lamprechtshausen, S11 Salzburg–Ostermiething (Salzburger Lokalbahn)
-- S-Bahn Steiermark: S11 Graz–Übelbach (Steiermarkbahn)
-- S6, S61 Graz–Wies-Eibiswald, S7 Graz–Köflach (Graz-Köflacher Eisenbahn)
+- S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
+- S-Bahn Steiermark: S11 Graz – Übelbach (Steiermarkbahn)
+- S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
 
 **Reservierung möglich:** nein
 {{% /expander %}}
@@ -148,13 +148,13 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
@@ -182,7 +182,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
-Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
+Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
 [Siehe ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -192,19 +192,19 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19€. \
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
-#### Brenner - Bozen - Verona
+#### Brenner – Bozen – Verona
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
-#### Railjet Tarvisio Boscoverde - Venedig
+#### Railjet Tarvisio Boscoverde – Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10€ für die 2. Klasse und 15€ für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Eurocity Triest
 
-FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60€ für die 2. Klasse und 4,60€ für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
+FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60 € für die 2. Klasse und 4,60 € für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
-### REX63 (Pamhagen - Neusiedl am See)
+### REX63 (Pamhagen – Neusiedl am See)
 
 Auf der Linie REX63 werden zwischen Pamhagen und Neusiedl am See werden sowohl FIP Fahrkarten der ÖBB als auch der GySEV anerkannt.
 
@@ -236,17 +236,17 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverk
 
 FIP Fahrkarten sind im IC Bus (ICB) nicht gültig, außer bei Schienenersatzverkehren (SEV) und den folgenden Verbindungen:
 
-#### Graz - Klagenfurt
+#### Graz – Klagenfurt
 
 Bis Dezember 2025 gelten FIP Fahrscheine auch im IC Bus zwischen Graz und Klagenfurt.
 
-#### Klagenfurt/Villach - Udine/Venedig
+#### Klagenfurt/Villach – Udine/Venedig
 
 Im IC Bus (ICB) gelten besondere FIP Globalpreise. Eine Sitzplatzreservierung ist verpflichtend und Ticketpreise enthalten.
 
 ### Motorail
 
-FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Rabatt ausgeschlossen.
+FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Ermäßigung ausgeschlossen.
 
 ### Autoschleuse Tauerntunnel (ASTB)
 

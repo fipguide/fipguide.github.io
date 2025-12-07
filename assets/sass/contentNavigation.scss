@@ -25,6 +25,10 @@
   li {
     margin-bottom: 0.3rem;
   }
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-aside__header {

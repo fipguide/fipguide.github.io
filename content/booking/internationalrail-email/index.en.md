@@ -7,7 +7,7 @@ params:
   fip_global_fare: true
   fip_50: true
   type: "email"
-  fee: £10
+  fee: £ 10
 
 aliases:
   - uk_mail
@@ -36,4 +36,4 @@ FIP 50 tickets can be purchased via International Rail Ltd. To do so, send an em
 
 {{% /booking-section %}}
 
-**A booking fee of £10 is charged per booking.**
+**A booking fee of £ 10 is charged per booking.**

@@ -6,7 +6,7 @@ description: "Booking information for booking by phone at Trainseurope Ltd."
 params:
   fip_global_fare: true
   type: "phone"
-  fee: £10
+  fee: £ 10
 ---
 
 {{% booking-section "fip_global_fare" %}}
@@ -21,6 +21,6 @@ FIP Global Fare tickets can be purchased by phone via Trainseurope Ltd. To do so
 - Travel class (according to FIP Card entitlement)
 - Photo of the FIP Card for all traveling persons by email to [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk)
 
-**A booking fee of £10 is charged per booking.**
+**A booking fee of £ 10 is charged per booking.**
 
 {{% /booking-section %}}
