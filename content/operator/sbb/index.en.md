@@ -4,15 +4,6 @@ title: "SBB CFF FFS"
 description: "Information about FIP conditions at SBB CFF FFS."
 country:
   - "switzerland"
-booking:
-  - "sbb-website"
-  - "db-website"
-  - "db-website-fip-db"
-  - "db-website-fip-international"
-  - "oebb-phone"
-  - "sbb-ticket-office"
-  - "sbb-ticket-machine"
-  - "db-ticket-office"
 ---
 
 SBB (Swiss Federal Railways) - (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of Switzerland. It operates most of the Swiss rail network and is known for its punctuality and reliability.

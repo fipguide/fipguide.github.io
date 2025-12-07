@@ -5,15 +5,6 @@ description: "Informationen über die FIP-Bedingungen bei der PKP."
 country:
   - "poland"
 operator: "pkp"
-booking:
-  - "pkp-website"
-  - "koleo-website"
-  - "db-website"
-  - "db-website-fip-db"
-  - "db-website-fip-international"
-  - "pkp-ticket-office"
-  - "pkp-ticket-machine"
-  - "db-ticket-office"
 ---
 
 Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des polnischen Schienenpersonenverkehrs.

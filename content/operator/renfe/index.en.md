@@ -6,9 +6,6 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
-booking:
-  - "db-ticket-office"
-  - "renfe-ticket-office"
 ---
 
 Renfe Operadora is a Spanish state-owned railroad company. It operates comfortable high-speed trains, various regional trains and suburban trains.

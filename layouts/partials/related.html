@@ -2,7 +2,13 @@
 {{ $related := "" }}
 
 {{ if eq $pageType "booking" }}
-  {{ $related = where (where .page.Site.RegularPages "Type" "operator") "Params.booking" "intersect" (slice .page.File.ContentBaseName) }}
+  {{ $related = slice }}
+  {{ $searchPattern := printf "booking id=\"%s\"" .page.File.ContentBaseName }}
+  {{ range where .page.Site.RegularPages "Type" "operator" }}
+    {{ if in .RawContent $searchPattern }}
+      {{ $related = $related | append . }}
+    {{ end }}
+  {{ end }}
 {{ else }}
   {{ $related = where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
 {{ end }}

@@ -8,14 +8,6 @@ country:
   - "united-kingdom"
   - "france"
 operator: "eurostar"
-booking:
-  - "internationalrail-email"
-  - "trainseurope-email"
-  - "eurostar-phone"
-  - "cfl-phone"
-  - "trainseurope-phone"
-  - "eurostar-ticket-office"
-  - "ns-ticket-office"
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet.

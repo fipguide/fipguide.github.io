@@ -6,15 +6,6 @@ country:
   - "austria"
   - "liechtenstein"
 operator: "oebb"
-booking:
-  - "oebb-website"
-  - "db-website"
-  - "db-website-fip-db"
-  - "db-website-fip-international"
-  - "oebb-phone"
-  - "oebb-ticket-office"
-  - "oebb-ticket-machine"
-  - "db-ticket-office"
 
 aliases:
   - obb

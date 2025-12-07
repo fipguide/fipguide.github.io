@@ -10,14 +10,6 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
-booking:
-  - "db-website-fip-db"
-  - "db-website-fip-international"
-  - "sncb-website"
-  - "sncf-phone"
-  - "sncf-ticket-office"
-  - "transilien-ticket-office"
-  - "db-ticket-office"
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en France. Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.

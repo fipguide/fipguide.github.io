@@ -4,8 +4,6 @@ title: "Euskotren"
 country:
   - "spain"
 operator: "euskotren"
-booking:
-  - "euskotren-ticket-office"
 ---
 
 Im Norden Spaniens betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Euskotren gehört der baskische Regionalregierung.

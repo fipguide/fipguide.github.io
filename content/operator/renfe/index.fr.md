@@ -6,9 +6,6 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
-booking:
-  - "db-ticket-office"
-  - "renfe-ticket-office"
 ---
 
 Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.

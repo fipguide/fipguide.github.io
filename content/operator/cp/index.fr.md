@@ -5,8 +5,6 @@ description: "Informations sur les conditions FIP chez Comboios de Portugal (CP)
 country:
   - "portugal"
 operator: "cp"
-booking:
-  - "cp-ticket-office"
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au Portugal.

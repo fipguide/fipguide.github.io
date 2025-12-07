@@ -5,13 +5,6 @@ description: "Information about FIP conditions at DSB."
 country:
   - "denmark"
 operator: "dsb"
-booking:
-  - "dsb-website"
-  - "db-website"
-  - "db-website-fip-db"
-  - "db-website-fip-international"
-  - "dsb-ticket-office"
-  - "db-ticket-office"
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in Denmark. It operates the majority of passenger traffic on the Danish rail network.

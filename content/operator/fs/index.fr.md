@@ -5,13 +5,6 @@ description: "Informations sur les conditions FIP chez Trenitalia (FS)."
 country:
   - "italy"
 operator: "trenitalia"
-booking:
-  - "fs-website"
-  - "db-website-fip-db"
-  - "db-website-fip-international"
-  - "fs-ticket-machine"
-  - "fs-ticket-office"
-  - "db-ticket-office"
 ---
 
 Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia.

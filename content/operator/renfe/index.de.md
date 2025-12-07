@@ -6,9 +6,6 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
-booking:
-  - "db-ticket-office"
-  - "renfe-ticket-office"
 ---
 
 Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.
