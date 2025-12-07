@@ -102,7 +102,7 @@ Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été s
 **Description :** \
 Le `TER` est le train régional reliant différentes villes françaises.
 
-ℹ️ Sur la ligne Marseille – Toulon – Nice, FIP n’est pas valable car les TER sont exploités par Transdev. \
+ℹ️ Sur la ligne Marseille – Nice, Transdev exploite les trains, c'est pourquoi FIP n'est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l'exploitant est donc indispensable ici. \
 **Réservation possible :** parfois \
 **Réservation obligatoire :** parfois ⚠️ \
 Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter)
