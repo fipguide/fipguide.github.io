@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Monaco"
-description: "Informationen über die FIP-Bedingungen für Monaco und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "monaco"
 ---
 

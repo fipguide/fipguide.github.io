@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "{{ .File.ContentBaseName | upper }}"
-description: "" # Ergänze eine Beschreibung für die Bahngesellschaft
 country:
   # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.
   - "country1"

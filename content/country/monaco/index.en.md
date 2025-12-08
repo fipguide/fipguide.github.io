@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Monaco"
-description: "Information about FIP conditions for Monaco and which operators offer discounts."
 country: "monaco"
 ---
 

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Switzerland"
-description: "Information about FIP conditions for Switzerland and which operators offer discounts."
 country: "switzerland"
 params:
   operators_without_fip:

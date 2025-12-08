@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Informationen über die FIP-Bedingungen bei den ÖBB: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "austria"
   - "liechtenstein"

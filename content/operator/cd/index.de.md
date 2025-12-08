@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ČD"
-description: "Informationen zu den FIP-Bedingungen bei der České dráhy (ČD): Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "czechia"
 operator: "cd"

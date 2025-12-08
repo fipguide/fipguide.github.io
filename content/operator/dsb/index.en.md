@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "DSB"
-description: "Information about FIP conditions at DSB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "denmark"
 operator: "dsb"

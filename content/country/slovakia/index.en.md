@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Slovakia"
-description: "Find out about the FIP conditions for slovakia and for which operators you can benefit from discounts."
 country: "slovakia"
 params:
   operators_without_fip:

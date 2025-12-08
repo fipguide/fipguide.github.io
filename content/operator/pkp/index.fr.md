@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "PKP"
-description: "Informations sur les conditions FIP chez PKP : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "poland"
 operator: "pkp"

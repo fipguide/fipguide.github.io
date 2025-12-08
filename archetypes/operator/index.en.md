@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "{{ .File.ContentBaseName | upper }}"
-description: "" # Add a description for the railway company
 country:
   # Add the abbreviations of the countries the railway company operates in.
   - "country1"

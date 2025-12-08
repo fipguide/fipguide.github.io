@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Czechia"
-description: "Information about FIP conditions for Czechia and which operators offer discounts."
 country: "czechia"
 params:
   operators_without_fip:

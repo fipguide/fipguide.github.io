@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Belgium"
-description: "Find out about the FIP conditions for Belgium and for which operators you can benefit from discounts."
 country: "belgium"
 params:
   operators_without_fip:
