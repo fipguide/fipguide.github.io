@@ -3,12 +3,14 @@ anchorLink:
   copied: Le lien a été copié dans le presse-papiers
   copy: Copier le lien vers cette section
 booking:
+  bookable: réservable
   classes:
     first: 1re classe
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-global-fare: Tarif Global FIP
+  not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires

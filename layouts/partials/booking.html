@@ -21,20 +21,23 @@
         -}}
         {{- range $metaFields -}}
           {{- if ne .value "nil" -}}
-            <div
-              class="o-booking__meta-item {{ if .value }}
-                o-booking__meta-item--success
-              {{ else }}
-                o-booking__meta-item--error
-              {{ end }}"
-            >
-              {{- if .value -}}
+            {{- if .value -}}
+              <div
+                class="o-booking__meta-item o-booking__meta-item--success"
+                aria-label="{{ T .label }} {{ T "booking.bookable" }}"
+              >
                 {{- partial "icon" "check_circle" -}}
-              {{- else -}}
+                <span aria-hidden="true">{{- T .label -}}</span>
+              </div>
+            {{- else -}}
+              <div
+                class="o-booking__meta-item o-booking__meta-item--error"
+                aria-label="{{ T .label }} {{ T "booking.not-bookable" }}"
+              >
                 {{- partial "icon" "cancel" -}}
-              {{- end -}}
-              <span>{{- T .label -}}</span>
-            </div>
+                <span aria-hidden="true">{{- T .label -}}</span>
+              </div>
+            {{- end -}}
           {{- end -}}
         {{- end -}}
       </div>
