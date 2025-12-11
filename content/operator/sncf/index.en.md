@@ -131,7 +131,7 @@ Domestic journeys unfortunately cannot be purchased online.
 /%}}
 
 {{% booking id="sncb-website"
-  subtitle="Cross-border FIP 50 Tickets for regional trains from Belgium."
+  subtitle="Cross-border tickets with FIP Coupon for SNCB"
 /%}}
 
 ### By Phone

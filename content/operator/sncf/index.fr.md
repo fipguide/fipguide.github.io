@@ -131,7 +131,7 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="sncb-website"
-  subtitle="Billets FIP 50 transfrontaliers pour trains régionaux au départ de la Belgique."
+  subtitle="Billets transfrontaliers avec Coupon FIP pour la SNCB"
 /%}}
 
 ### Par téléphone
