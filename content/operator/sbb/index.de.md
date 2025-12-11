@@ -128,9 +128,12 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, 
 
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
-Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrtscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP Freifahrtscheine: [^2]
 
-Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
+- Die FIP Freifahrtscheine der SBB werden in allen Zügen der BLS akzeptiert.
+- Die FIP Freifahrtscheine der BLS werden in Zügen der SBB auf Strecken akzeptiert, auf auch Züge der BLS verkehren, also zwischen zwei Bahnhofen sowohl Züge der SBB als auch der BLS fahren. Das Liniennetz der BLS ist [online einsehbar](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
+
+Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
@@ -146,4 +149,4 @@ Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit w
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: DB Reisemarkt
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

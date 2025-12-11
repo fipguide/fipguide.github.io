@@ -128,9 +128,12 @@ FIP Tickets are not valid on SBB-operated bus lines unless they are rail replace
 
 ### Mutual Recognition of SBB and BLS Coupons
 
-The Swiss railway companies SBB and BLS have an agreement for mutual recognition of FIP Coupons. International FIP Coupons of SBB are fully accepted on the entire BLS rail network. [^2]
+The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: [^2]
 
-However, SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses, which mainly operate in the Emmental region. [^2]
+- SBB FIP Coupons are accepted on all BLS trains.
+- BLS FIP Coupons are accepted on SBB trains on routes where BLS trains also operate, i.e. between two stations served by both SBB and BLS. The BLS network map is available online: https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf
+
+- SBB FIP Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses, which mainly operate in the Emmental.
 
 ### Cross-border Trains (Italy, France)
 
@@ -146,4 +149,4 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: DB Reisemarkt
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
