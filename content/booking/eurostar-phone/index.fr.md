@@ -21,6 +21,4 @@ Les billets au Tarif Global FIP peuvent être achetés via la hotline Eurostar :
 
 La réservation est possible en anglais, français, allemand et néerlandais. Il peut être utile d’utiliser un alphabet phonétique pour épeler les noms et adresses. Le paiement se fait uniquement par carte bancaire. Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
 
-{{% highlight tip %}}
-Pour éviter les frais supplémentaires lors d’un appel depuis l’étranger, vous pouvez utiliser l’application [Satellite](https://www.satellite.me/). Elle offre 100 minutes gratuites par mois pour les appels internationaux. Notez cependant que l’inscription peut prendre quelques jours.
-{{% /highlight %}}
+{{% satellite %}}

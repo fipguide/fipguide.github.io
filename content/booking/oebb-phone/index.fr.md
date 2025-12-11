@@ -23,9 +23,7 @@ aliases:
 
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
-{{% highlight tip %}}
-Pour éviter les frais supplémentaires lors d’un appel depuis l’étranger, vous pouvez utiliser l’application [Satellite](https://www.satellite.me/). Elle offre 100 minutes gratuites par mois pour les appels internationaux. Notez cependant que l’inscription peut prendre quelques jours.
-{{% /highlight %}}
+{{% satellite %}}
 
 {{% booking-section "fip_50" %}}
 

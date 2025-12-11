@@ -89,6 +89,13 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
+satellite:
+  content: >-
+    Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App
+    [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100
+    kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
+    wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
+    in Anspruch nehmen.
 search:
   label: Durchsuche alle Seiteninhalte
   placeholder: Suche

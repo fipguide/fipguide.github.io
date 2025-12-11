@@ -85,6 +85,12 @@ related:
   operators: Related Operators
   operators-nearby: Neighboring Operators
 reportError: Report an error
+satellite:
+  content: >-
+    To avoid additional costs when calling abroad, you can use the app
+    [Satellite](https://www.satellite.me/). It offers 100 free minutes per month
+    for international calls. A German residence is required for registration and
+    registration may take a few days.
 search:
   label: Search all page content
   placeholder: Search

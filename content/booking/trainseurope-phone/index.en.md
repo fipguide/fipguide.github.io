@@ -9,9 +9,7 @@ params:
   fee: £ 10
 ---
 
-{{% highlight tip %}}
-To avoid additional costs when calling abroad, you can use the [Satellite](https://www.satellite.me/) app. It offers 100 free minutes per month for international calls. However, registration may take a few days.
-{{% /highlight %}}
+{{% satellite %}}
 
 {{% booking-section "fip_global_fare" %}}
 

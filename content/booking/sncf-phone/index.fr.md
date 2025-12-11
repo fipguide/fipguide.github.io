@@ -35,9 +35,7 @@ _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 {{% /highlight %}}
 
-{{% highlight tip %}}
-Pour éviter les frais supplémentaires lors d’un appel depuis l’étranger, vous pouvez utiliser l’application [Satellite](https://www.satellite.me/). Elle offre 100 minutes gratuites par mois pour les appels internationaux. Notez cependant que l’inscription peut prendre quelques jours.
-{{% /highlight %}}
+{{% satellite %}}
 
 {{% booking-section "fip_50" %}}
 

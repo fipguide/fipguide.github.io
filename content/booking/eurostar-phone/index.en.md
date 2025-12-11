@@ -24,6 +24,4 @@ FIP Global Fare tickets can be purchased via the Eurostar hotline:
 
 Booking is possible in English, French, German and Dutch. A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card. No additional booking fee is charged for FIP Tickets.
 
-{{% highlight tip %}}
-To avoid additional costs when calling abroad, you can use the [Satellite](https://www.satellite.me/) app. It offers 100 free minutes per month for international calls. However, registration may take a few days.
-{{% /highlight %}}
+{{% satellite %}}

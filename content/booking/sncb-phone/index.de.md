@@ -16,15 +16,11 @@ Buchungen per Telefon sind über die SNCB Hotline möglich:
 
 **Öffnungszeiten:** Mo-Fr: 8-20 Uhr / Wochenenden und Feiertage: 9-17 Uhr
 
-**Kosten:** 0,30 € / Minute
+**Kosten:** 0,30 € / Minute (Aus dem Ausland können höhere Gebühren anfallen.)
 
 Bei der Buchung müssen persönliche Informationen und eine E-Mail-Adresse angegeben werden. Die Bezahlung ist per Kreditkarte (Visa, Mastercard oder American Express) möglich.
 
 **Eine Servicegebühr wird berechnet.**
-
-{{% highlight tip %}}
-Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100 kostenlose Minuten pro Monat ins Ausland verfügbar. Die Registrierung kann jedoch einige Tage in Anspruch nehmen.
-{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

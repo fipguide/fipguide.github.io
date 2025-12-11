@@ -16,15 +16,11 @@ Bookings by phone are possible via the SNCB hotline:
 
 **Opening hours:** Mon-Fri: 8am-8pm / Weekends and holidays: 9am-5pm
 
-**Cost:** €0.30 / minute
+**Cost:** €0.30 / minute (Higher fees may apply when calling from abroad.)
 
 You will need to provide personal information and an email address when booking. Payment is possible by credit card (Visa, Mastercard, or American Express).
 
 **A service fee will be charged.**
-
-{{% highlight tip %}}
-To avoid additional costs when calling abroad, you can use the [Satellite](https://www.satellite.me/) app. It offers 100 free minutes per month for international calls. However, registration may take a few days.
-{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

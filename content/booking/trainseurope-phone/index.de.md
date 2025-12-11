@@ -9,9 +9,7 @@ params:
   fee: 10 £
 ---
 
-{{% highlight tip %}}
-Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100 kostenlose Minuten pro Monat ins Ausland verfügbar. Die Registrierung kann jedoch einige Tage in Anspruch nehmen.
-{{% /highlight %}}
+{{% satellite %}}
 
 {{% booking-section "fip_global_fare" %}}
 
