@@ -131,7 +131,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
 /%}}
 
 {{% booking id="sncb-website"
-    subtitle="Grenzüberschreitende mit Freifahrtschein für die SNCB"
+    subtitle="Grenzüberschreitende Tickets mit Freifahrtschein für die SNCB"
 /%}}
 
 ### Telefon
