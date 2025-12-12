@@ -128,9 +128,12 @@ Les Billets FIP ne sont pas valables sur les lignes de bus des CFF, sauf si elle
 
 ### Reconnaissance mutuelle CFF / BLS
 
-Les compagnies ferroviaires suisses CFF et BLS ont conclu un accord de reconnaissance mutuelle des Coupons FIP. Les Coupons FIP internationaux des CFF sont pleinement acceptés sur l’ensemble du réseau ferroviaire BLS. [^2]
+Les compagnies ferroviaires suisses SBB et BLS acceptent partiellement mutuellement les Coupons FIP : [^2]
 
-Cependant, les coupons CFF ne sont pas valables sur les bateaux BLS des lacs de Thoune et de Brienz, ni sur les bus BLS, principalement actifs dans la région de l’Emmental. [^2]
+- Les Coupons FIP des SBB sont acceptés dans tous les trains de la BLS.
+- Les Coupons FIP de la BLS sont acceptés dans les trains des SBB sur les lignes où circulent également des trains de la BLS, c’est‑à‑dire entre deux gares desservies à la fois par des trains SBB et BLS. Le réseau de la BLS est consultable en ligne : https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf
+
+Les Coupons FIP des SBB ne sont cependant pas valables sur les navires BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
 
 ### Trains transfrontaliers (Italie, France)
 
@@ -152,4 +155,4 @@ Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: DB Reisemarkt
+[^2]: [Communauté FIP Guide — Commentaires](https://discord.com/channels/1250522473188032512/1448243039398264893)
