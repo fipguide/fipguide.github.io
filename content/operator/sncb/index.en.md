@@ -115,6 +115,10 @@ Domestic journeys unfortunately cannot be purchased online.
     subtitle="Cross-border FIP 50 Tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
+### Telephone
+
+{{% booking id="sncb-phone" /%}}
+
 ### On-site
 
 {{% booking id="sncb-ticket-office" /%}}
