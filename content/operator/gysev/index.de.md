@@ -35,12 +35,22 @@ Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den
 
 ## Zugkategorien und Reservierungen
 
+{{% expander "InterCity (IC) ⚠️ℹ️" traincategory "local" %}}
+**Beschreibung:** \
+Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
+
+ℹ️ In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV. \
+**Reservierung möglich:** Ja \
+**Reservierungspflicht:** ⚠️ Teilweise
+Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten zwischen Sopron und Győr ist keine Reservierung erforderlich.
+{{% /expander %}}
+
 {{% expander "Regionalexpress (REX) ℹ️" traincategory "local" %}}
 **Beschreibung:** \
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
 ℹ️ Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
-**Reservierung möglich:** nein
+**Reservierung möglich:** Nein
 {{% /expander %}}
 
 {{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
@@ -48,7 +58,7 @@ Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 Nahverkehrszug mit Halten an den meisten Stationen.
 
 ℹ️ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
-**Reservierung möglich:** nein
+**Reservierung möglich:** Nein
 {{% /expander %}}
 
 {{% expander "Személyvonat (Sz) ℹ️" traincategory "local" %}}
@@ -56,16 +66,24 @@ Nahverkehrszug mit Halten an den meisten Stationen.
 Nahverkehrszug mit Halten an den meisten Stationen.
 
 ℹ️ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
-**Reservierung möglich:** nein
+**Reservierung möglich:** Nein
 {{% /expander %}}
 
 ## Ticket- und Reservierungskauf
+
+### Online
+
+{{% booking id="mav-website" /%}}
 
 ### Telefon
 
 {{% booking id="oebb-phone" reservations=nil /%}}
 
 ### Vor Ort
+
+{{% booking id="mav-ticket-office" /%}}
+
+{{% booking id="mav-ticket-machine" /%}}
 
 {{% booking id="oebb-ticket-office" reservations=nil /%}}
 
