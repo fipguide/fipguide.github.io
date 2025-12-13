@@ -41,7 +41,7 @@ Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
 
 ℹ️ In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV. \
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Teilweise
+**Reservierungspflicht:** ⚠️ Teilweise \
 Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten zwischen Sopron und Győr ist keine Reservierung erforderlich.
 {{% /expander %}}
 

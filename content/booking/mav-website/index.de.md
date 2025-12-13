@@ -14,16 +14,22 @@ params:
 
 Auf der Buchungswebsite der MÁV werden FIP 50 Tickets und Reservierungen für Verbindungen der MÁV und GySEV verkauft.
 
+![MÁV Website Übersicht](mav-website-overview.webp)
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
 
-Am MÁV Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Ungarns für die MÁV sowie GySEV und die grenzüberschreitende Verbindungen erworben werden.
+Auf der Buchungswebsite der MÁV werden FIP 50 Tickets für Verbindungen der MÁV und GySEV verkauft. Um den FIP 50 Rabatt hinzuzufügen, muss auf der Startseite der Verbindungssuche unter _Passengers and Discounts_ die Übersicht der Reisenden geöffnet werden. Erst nachdem das Geburtsdatum eingegeben wurde, kann mit _Add Discounts_ die FIP 50 Ermäßigung hinzugefügt werden. Dabei wird zwischen FIP 50 1. Klasse und 2. Klasse unterschieden. Die Klasse bezieht sich hierbei noch nicht auf die gewünschte Klasse des Tickets, sondern der Berechtigung.
+
+![MÁV Geburtsdatum](mav-website-birthday.webp)
+
+![MÁV Ermäßigungen](mav-website-discounts.webp)
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Reservierungen
 
-Reservierungen für Züge der MÁV sowie GySEV können vor Ort zu einem Preis von 990 HUF erworben werden.
+Reservierungen für Züge der MÁV sowie GySEV können Online zu einem Preis von 990 HUF erworben werden. Dazu muss in der Verbindungssuche die Option _I only need seat reservation_ ausgewählt werden.
 {{% /booking-section %}}

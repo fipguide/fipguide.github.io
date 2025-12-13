@@ -8,7 +8,6 @@ params:
     second: "990 HUF"
   fip_50: true
   reservations: true
-  additional_info_link: ""
   type: "onsite"
 ---
 
@@ -18,7 +17,7 @@ An Ticketschaltern der MÁV wird zwischen nationalen und internationalen Tickets
 
 ## FIP 50 Fahrkarten
 
-Am MÁV Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Ungarns für die MÁV sowie GySEV und die grenzüberschreitende Verbindungen erworben werden.
+Am MÁV Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Ungarns für die MÁV sowie GySEV und grenzüberschreitende Verbindungen erworben werden.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
