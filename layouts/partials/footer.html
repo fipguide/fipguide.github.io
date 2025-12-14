@@ -9,23 +9,23 @@
   </div>
   <div class="o-footer__links">
     {{ $contactPage := site.GetPage "contact" }}
-    {{ if $contactPage }}
-      <a class="o-footer__link" href="{{ $contactPage.RelPermalink }}"
-        >{{ $contactPage.Title }}</a
-      >
-    {{ end }}
+    <a href="{{ $contactPage.RelPermalink }}">
+      {{ $contactPage.Title }}
+    </a>
     {{ $imprintPage := site.GetPage "imprint" }}
-    {{ if $imprintPage }}
-      <a class="o-footer__link" href="{{ $imprintPage.RelPermalink }}"
-        >{{ $imprintPage.Title }}</a
-      >
-    {{ end }}
+    <a href="{{ $imprintPage.RelPermalink }}">
+      {{ $imprintPage.Title }}
+    </a>
     {{ $privacyPage := site.GetPage "privacy" }}
-    {{ if $privacyPage }}
-      <a class="o-footer__link" href="{{ $privacyPage.RelPermalink }}"
-        >{{ $privacyPage.Title }}</a
-      >
-    {{ end }}
+    <a href="{{ $privacyPage.RelPermalink }}">
+      {{ $privacyPage.Title }}
+    </a>
+    {{ partial "link"
+      (dict
+      "Destination" "https://www.paypal.com/pool/9jVNH0tMMT"
+      "Text" (T "donation")
+      )
+    }}
   </div>
 </div>
 <div class="o-footer__line">

@@ -35,6 +35,8 @@ _FIP cheminot étranger_ = 50% FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
 {{% /highlight %}}
 
+{{% satellite %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

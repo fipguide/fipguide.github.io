@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "CP"
-description: "Informations sur les conditions FIP chez Comboios de Portugal (CP) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "portugal"
 operator: "cp"

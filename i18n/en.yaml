@@ -1,14 +1,15 @@
-_operator__list_title: Operators supporting FIP
 anchorLink:
   copied: Link has been copied to the clipboard
   copy: Copy link to this section
 booking:
+  bookable: bookable
   classes:
     first: 1st Class
     second: 2nd Class
   fee: Booking Fee
   fip-50: FIP 50 Tickets
   fip-global-fare: FIP Global Fare
+  not-bookable: not bookable
   reservation: Reservation
   reservation-costs: Reservation Costs
   visit-additional-information-website: Additional Information
@@ -18,6 +19,7 @@ contentNavigation:
   relatedCountries: Countries in which the operator is active
   title: Content overview
 countries:
+  descriptionTemplate: Information about FIP conditions for %s and which operators offer discounts.
   overview: Countries with FIP acceptance
   without-fip: Countries without FIP acceptance
 country:
@@ -25,12 +27,14 @@ country:
   one: country
   other: countries
 discord: FIP Guide Community
+donation: Donate
 editPage: Edit page
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
 general: general
 highlight:
+  confusion: Risk of Confusion
   important: Important Information
   inofficial: Unofficial Information
   tip: Personal Tip
@@ -41,7 +45,7 @@ information-disclaimer-short: >-
 interactiveMap:
   legend:
     available: FIP Guide available
-    pending: Content not available yet
+    pending: Content not yet available in the FIP Guide
     unavailable: No FIP acceptance
   loading: Loading interactive map...
   resetZoom: Reset Zoom
@@ -78,13 +82,25 @@ menu:
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
-operators_without_fip: Operators without FIP
+operators:
+  descriptionTemplate: >-
+    Information about FIP conditions at %s: validity, ticket and reservation
+    purchase, special tariff conditions
+  listTitle: Operators supporting FIP
+  withoutFIP: Operators without FIP
 related:
+  booking: Usable with these operators
   countries: Related Countries
   news: Related News
   operators: Related Operators
   operators-nearby: Neighboring Operators
 reportError: Report an error
+satellite:
+  content: >-
+    To avoid additional costs when calling abroad, you can use the app
+    [Satellite](https://www.satellite.me/). It offers 100 free minutes per month
+    for international calls. A German residence is required for registration and
+    registration may take a few days.
 search:
   label: Search all page content
   placeholder: Search
@@ -97,6 +113,21 @@ support:
     href="/en/contact">contact form</a>.
   title: Support Us
 toc_name: Contents
+trainCategory:
+  acceptance:
+    accepted: FIP accepted
+    notAccepted: FIP not accepted
+    partiallyAccepted: FIP partially accepted
+  additionalInformation: Additional information
+  importantInformation: Important information
+  reservation:
+    notPossible: No reservation possible
+    partiallyPossible: Reservation partially possible
+    partiallyRequired: Reservation partially required
+    possible: Reservation possible
+    required: Reservation required
+  riskOfConfusion: Risk of confusion
+  routeOverview: Route overview
 updateDate:
   aria-label: Open the commit history of the page
   label: Last updated

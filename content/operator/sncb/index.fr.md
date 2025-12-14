@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Informations sur les conditions FIP à la SNCB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
 operator: "sncb"
@@ -114,6 +113,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 {{% booking id="db-website-fip-international"
   subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)."
 /%}}
+
+### Par téléphone
+
+{{% booking id="sncb-phone" /%}}
 
 ### En gare
 
