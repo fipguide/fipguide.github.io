@@ -1,27 +1,28 @@
 ---
 draft: false
-title: "Guichet BDŽ"
-description: "Informations de réservation pour les guichets BDŽ."
+title: "Guichet MÁV"
+description: "Informations de réservation pour le guichet MÁV."
 params:
   classes:
-    first: "1 Lev / 0,51 €"
-    second: "1 Lev / 0,51 €"
+    first: "990 HUF"
+    second: "990 HUF"
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.bdz.bg/en/a/stations"
   type: "onsite"
 ---
+
+Aux guichets MÁV, une distinction est faite entre les guichets nationaux et internationaux. En règle générale, le personnel des guichets internationaux parle des langues étrangères telles que l'anglais ou l'allemand.
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-Aux guichets BDŽ, il est possible d'acheter des Billets FIP 50 pour des voyages en Bulgarie, et aux guichets internationaux également pour des trajets vers la Roumanie.
+Les billets FIP 50 peuvent être achetés aux guichets MÁV pour les voyages en Hongrie pour MÁV et GySEV ainsi que pour les connexions transfrontalières.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Réservations
 
-Les réservations pour les trains peuvent être effectuées sur place pour 1 Lev ou 0,51 €. Si vous utilisez un Coupon FIP, il doit être présenté ; le numéro du coupon sera imprimé sur le billet.
+Les réservations pour les trains MÁV et GySEV peuvent être achetées sur place pour 990 HUF.
 {{% /booking-section %}}
