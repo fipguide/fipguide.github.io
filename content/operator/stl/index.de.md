@@ -71,7 +71,7 @@ An Bord gibt es eine Vielzahl an Services:
 - Duty Free Shop
 - Deck Bar mit Ausblick
 
-Nachts ist die Reservierung einer Kabine obligatorisch. [^2] 
+Nachts ist die Reservierung einer Kabine obligatorisch. [^2]
 Hierbei kann zwischen den Optionen Standard, Superior, Deluxe gewählt werden. [^1]
 {{% /train-category %}}
 
