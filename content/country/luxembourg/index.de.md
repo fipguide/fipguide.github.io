@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Luxemburg"
-description: "Informationen über die FIP-Bedingungen für Luxemburg und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "luxembourg"
 ---
 

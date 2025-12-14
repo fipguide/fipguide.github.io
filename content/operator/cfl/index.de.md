@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "CFL"
-description: "Informationen zu den FIP-Bedingungen bei der CFL: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "luxembourg"
 operator: "cfl"
