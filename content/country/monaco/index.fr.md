@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Monaco"
-description: "Informations sur les conditions FIP au Monaco et pour quels opérateurs les réductions peuvent être utilisées."
 country: "monaco"
 ---
 

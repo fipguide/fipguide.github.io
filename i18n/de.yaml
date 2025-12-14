@@ -1,5 +1,3 @@
-_operator__list_title: Betreiber mit FIP
-_operator__nearby: Angrenzende Betreiber
 anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
   copy: Link zu diesem Abschnitt kopieren
@@ -19,6 +17,9 @@ contentNavigation:
   relatedCountries: Länder, in den der Betreibers aktiv ist
   title: Inhaltsübersicht
 countries:
+  descriptionTemplate: >-
+    Informationen über die FIP-Bedingungen für %s und für welche Betreiber
+    Vergünstigungen genutzt werden können.
   overview: Länder mit FIP Akzeptanz
   without-fip: Länder ohne FIP Akzeptanz
 country:
@@ -80,8 +81,14 @@ menu:
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
-operators_without_fip: Betreiber ohne FIP
+operators:
+  descriptionTemplate: >-
+    Informationen über die FIP-Bedingungen bei %s: Gültigkeit, Ticket- und
+    Reservierungskauf, Tarifliche Besonderheiten
+  listTitle: Betreiber mit FIP
+  withoutFIP: Betreiber ohne FIP
 related:
+  booking: Bei diesen Betreibern nutzbar
   countries: Verwandte Länder
   news: Verwandte News
   operators: Verwandte Betreiber

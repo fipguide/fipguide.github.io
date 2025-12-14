@@ -1,4 +1,3 @@
-_operator__list_title: Operators supporting FIP
 anchorLink:
   copied: Link has been copied to the clipboard
   copy: Copy link to this section
@@ -18,6 +17,7 @@ contentNavigation:
   relatedCountries: Countries in which the operator is active
   title: Content overview
 countries:
+  descriptionTemplate: Information about FIP conditions for %s and which operators offer discounts.
   overview: Countries with FIP acceptance
   without-fip: Countries without FIP acceptance
 country:
@@ -79,8 +79,14 @@ menu:
 navigate-to-country: Navigate to country
 news-headline: What's new?
 news-other: Other News
-operators_without_fip: Operators without FIP
+operators:
+  descriptionTemplate: >-
+    Information about FIP conditions at %s: validity, ticket and reservation
+    purchase, special tariff conditions
+  listTitle: Operators supporting FIP
+  withoutFIP: Operators without FIP
 related:
+  booking: Usable with these operators
   countries: Related Countries
   news: Related News
   operators: Related Operators

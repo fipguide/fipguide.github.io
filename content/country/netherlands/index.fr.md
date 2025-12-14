@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Pays-Bas"
-description: "Informations sur les conditions FIP aux Pays-Bas et les opérateurs qui proposent des réductions."
 country: "netherlands"
 params:
   operators_without_fip:
