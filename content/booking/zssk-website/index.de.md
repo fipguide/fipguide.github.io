@@ -20,7 +20,7 @@ aliases:
 
 ## FIP 50 Fahrkarten
 
-Im Kaufprozess kann als Rabatt "FIP Ticket 50%" ausgewählt werden.
+Im Kaufprozess kann als Rabatt "Držiteľ lístka FIP 50%" ausgewählt werden.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
