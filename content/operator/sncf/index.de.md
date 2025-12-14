@@ -36,84 +36,137 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 
 ### Fernverkehr
 
-{{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
-**Beschreibung:**
-Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Eine Übersicht der Strecken ist [hier](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf) verfügbar. Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
+{{% train-category
+  title="Train à grande vitesse inOui (TGV inOui)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
+%}}
+Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
 
-ℹ️ Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
+{{% highlight confusion %}}
+Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
+{{% /highlight %}}
 
-⚠️ Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge). \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Ja ⚠️ \
-**Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+{{% highlight important %}}
+Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
+{{% /highlight %}}
 
-Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
-{{% /expander %}}
+### Reservierung
 
-{{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
-**Beschreibung:**
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+
+|                   | 1. Klasse | 2. Klasse |
+| ----------------- | --------- | --------- |
+| National Off-peak | 2 €       | 2 €       |
+| National Peak     | 16 €      | 16 €      |
+| International     | 40 €      | 20 €      |
+
+{{% /train-category %}}
+
+{{% train-category
+  title="OUIGO (Grande Vitesse / Train Classique)"
+  type="highspeed"
+  fip_accepted=false
+  reservation_required=true
+%}}
+
 Der OUIGO (Grand Vitesse) ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele. Zusätzlich gibt es OUIGO Classique Züge, die aus herkömmlichen Reisezugwagen bestehen.
 
-ℹ️ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Ja ⚠️ \
-**FIP:** ⛔ FIP wird nicht anerkannt
-{{% /expander %}}
+{{% highlight confusion %}}
+Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind.
+{{% /highlight %}}
+{{% /train-category %}}
 
-{{% expander "Intercity-Express (ICE) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
+{{% train-category
+  title="Intercity-Express (ICE)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+%}}
 Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Strasbourg) und Deutschland (Karlsruhe, Mannheim und Frankfurt am Main bzw. Stuttgart und München) verkehren.
 
-⚠️ Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge). \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Ja ⚠️ \
-**Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+{{% highlight important %}}
+Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
+{{% /highlight %}}
 
-Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
-{{% /expander %}}
+### Reservierung
 
-{{% expander "Intercité (IC) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+
+|                   | 1. Klasse | 2. Klasse |
+| ----------------- | --------- | --------- |
+| National Off-peak | 2 €       | 2 €       |
+| National Peak     | 16 €      | 16 €      |
+| International     | 40 €      | 20 €      |
+
+{{% /train-category %}}
+
+{{% train-category
+  title="Intercité (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und meistens reservierungspflichtig sind.
 
-Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Züge reservierungspflichtig sind. Im Zweifelsfall muss für jeden Zug bei der SNCF nachgefragt oder eine Reservierung erworben werden. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Meistens ⚠️ \
-**Kosten für Reservierung:** \
-Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Außerhalb der Hauptverkehrszeit beträgt der Reservierungspreis 2 € (1./2. Klasse) und während der Hauptverkehrszeit 16 € (1. Klasse) bzw. 11 € (2. Klasse). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Züge reservierungspflichtig sind. Im Zweifelsfall muss für jeden Zug bei der SNCF nachgefragt oder eine Reservierung erworben werden.
 
-Auf internationalen Fahrten beträgt der Preis für Reservierungen 40 € (1. Klasse) bzw. 20 € (2. Klasse).
-{{% /expander %}}
+### Reservierung
 
-{{% expander "Intercité de nuit ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
-Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindungen per Nightjet sind seit Dezember 2025 eingestellt. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Ja ⚠️ \
-**Kosten für Reservierung:** Abhängig von Strecke und Auslastung
-{{% /expander %}}
+Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
+
+|                   | 1. Klasse | 2. Klasse |
+| ----------------- | --------- | --------- |
+| National Off-peak | 2 €       | 2 €       |
+| National Peak     | 16 €      | 16 €      |
+| International     | 40 €      | 20 €      |
+
+{{% /train-category %}}
+
+{{% train-category
+  title="Intercité de nuit"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+%}}
+Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindungen per Nightjet sind seit Dezember 2025 eingestellt.
+
+### Reservierung
+
+Abhängig von Strecke und Auslastung.
+
+{{% /train-category %}}
 
 ### Nahverkehr
 
-{{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
-**Beschreibung:**
+{{% train-category
+  title="Train express régional (TER)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 Der `TER` ist ein Regionalzug, der verschiedene Städte in Frankreich verbindet.
+Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reservierungspflicht im Regionalverkehr](#reservierungspflicht-im-regionalverkehr).
 
-ℹ️ Auf der Strecke Marseille – Nice betreibt Transdev die Züge, weshalb FIP nicht akzeptiert wird. Auf der Strecke Marseille – Toulon werden jedoch auch Züge der SNCF eingesetzt, bei denen FIP akzeptiert wird. Eine vorige Prüfung des Betreibers ist hier zwingend notwendig. \
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** Teilweise ⚠️ \
-Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reservierungspflicht im Regionalverkehr](#reservierungspflicht-im-regionalverkehr)
-{{% /expander %}}
+{{% highlight confusion %}}
+Auf der Strecke Marseille – Nice betreibt Transdev die Züge, weshalb FIP nicht akzeptiert wird. Auf der Strecke Marseille – Toulon werden jedoch auch Züge der SNCF eingesetzt, bei denen FIP akzeptiert wird. Eine vorige Prüfung des Betreibers ist hier zwingend notwendig.
+{{% /highlight %}}
+{{% /train-category %}}
 
-{{% expander "Réseau Express Régional (RER) ⚠️" traincategory "regional" %}}
-**Beschreibung:**
+{{% train-category
+  title="Réseau Express Régional (RER)"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=false
+%}}
 Der RER ist ein S-Bahn ähnlicher Zug der SNCF, der in Île de France (Großraum Paris) und umliegenden Städten verkehrt.
 
-⚠️ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#züge-im-großraum-paris) \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight important %}}
+FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#züge-im-großraum-paris)
+{{% /highlight %}}
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
@@ -182,17 +235,32 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
 
 ### Grenzüberschreitende TGV inOui / ICE Züge
 
-{{% expander "TGV/ICE-Züge nach Deutschland" info %}}
+{{% train-category
+  title="TGV/ICE-Züge nach Deutschland"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt reservierungspflichtig. Innerhalb von Deutschland sind die Züge nicht reservierungspflichtig und mit FIP Freifahrtscheinen nutzbar.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "TGV-Züge nach Italien, Spanien und Belgien" info %}}
-Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130€). [^1]
-{{% /expander %}}
+{{% train-category
+  title="TGV-Züge nach Italien, Spanien und Belgien"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130€).
+{{% /train-category %}}
 
-{{% expander "TGV Lyria Züge in die Schweiz" info %}}
+{{% train-category
+  title="TGV Lyria Züge in die Schweiz"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=partially
+%}}
 Grenzüberschreitende `TGV` Lyria Verbindungen von Frankreich in die Schweiz sind im französischen Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Im Schweizer Abschnitt sind die Züge nicht reservierungspflichtig und mit FIP Freifahrtscheinen nutzbar.
-{{% /expander %}}
+{{% /train-category %}}
 
 ### Züge im Großraum Paris
 
@@ -200,7 +268,12 @@ Grenzüberschreitende `TGV` Lyria Verbindungen von Frankreich in die Schweiz sin
 
 Die RATP betreibt die Pariser Métro (Métro de Paris), Buslinien sowie einen Teil der Tramlinien und des RER (Réseau Express Régional) Netzes. Die SNCF betreibt den übrigen Teil des RER-Netzes und einige Tramlinien. In RATP Verkehren gelten keine FIP Vergünstigungen.
 
-{{% expander "RER Züge" info %}}
+{{% train-category
+  title="RER Züge"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+%}}
 Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten in folgenden Abschnitten:
 
 - RER Linie A – nur die Äste A3 & A5 westlich von Nanterre Préfecture bis Poissy oder Cergy-le-Haut
@@ -210,15 +283,25 @@ Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten
 - RER Linie E – gesamter Abschnitt
 
 Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transilien Züge" info %}}
+{{% train-category
+  title="Transilien Züge"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=nil
+%}}
 FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, und V.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Straßenbahnen" info %}}
+{{% train-category
+  title="Straßenbahnen"
+  type="tram"
+  fip_accepted=partially
+  reservation_possible=nil
+%}}
 Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIP Vergünstigungen
-{{% /expander %}}
+{{% /train-category %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
 
