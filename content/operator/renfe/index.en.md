@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Renfe"
-description: "Information about the FIP conditions at Renfe: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
   - "france"

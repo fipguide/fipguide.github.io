@@ -1,14 +1,15 @@
-_operator__list_title: Opérateurs prenant en charge la FIP
 anchorLink:
   copied: Le lien a été copié dans le presse-papiers
   copy: Copier le lien vers cette section
 booking:
+  bookable: réservable
   classes:
     first: 1re classe
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-global-fare: Tarif Global FIP
+  not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
@@ -18,6 +19,9 @@ contentNavigation:
   relatedCountries: Pays dans lesquels l'opérateur est actif
   title: Aperçu du contenu
 countries:
+  descriptionTemplate: >-
+    Informations sur les conditions FIP pour %s et pour quels opérateurs des
+    réductions peuvent être utilisées.
   overview: Pays acceptation FIP
   without-fip: Pays sans acceptation FIP
 country:
@@ -79,8 +83,14 @@ menu:
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
-operators_without_fip: Opérateurs sans FIP
+operators:
+  descriptionTemplate: >-
+    Informations sur les conditions FIP chez %s : Validité, Achat de billets et
+    réservations, Conditions tarifaires spéciales
+  listTitle: Opérateurs prenant en charge la FIP
+  withoutFIP: Opérateurs sans FIP
 related:
+  booking: Utilisable avec ces opérateurs
   countries: Pays associés
   news: Actualités associées
   operators: Opérateurs associés
