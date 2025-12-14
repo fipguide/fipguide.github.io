@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Bodensee-Schiffsbetriebe"
-description: "Informationen über die FIP-Bedingungen bei den Bodensee-Schiffsbetriebe: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "austria"
   - "germany"

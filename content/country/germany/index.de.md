@@ -2,7 +2,6 @@
 draft: false
 title: "Deutschland"
 country: "germany"
-description: "Informationen über die FIP-Bedingungen für Deutschland und für welche Betreiber Vergünstigungen genutzt werden können."
 params:
   operators_without_fip:
     - Abellio Rail Mitteldeutschland GmbH
