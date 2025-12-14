@@ -22,6 +22,16 @@
           </ul>
         </div>
         <div>
+          {{ $lang := .Site.Language.Lang | upper }}
+          {{ $countries := resources.Get "content-not-available-yet.json" | transform.Unmarshal }}
+          <p>{{ T "interactiveMap.legend.pending" }}:</p>
+          <ul class="o-list__list">
+            {{ range $countries }}
+              <li>{{ index . $lang }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        <div>
           <h2 id="countries-without-fip">{{ T "countries.without-fip" }}</h2>
           <ul class="o-list__list" aria-labelledby="countries-without-fip">
             {{ range .Params.countriesWithoutFip }}

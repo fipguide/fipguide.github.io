@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ČD"
-description: "Informations sur les conditions FIP chez České dráhy (ČD) : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "czechia"
 operator: "cd"
@@ -32,7 +31,7 @@ Plus d'informations : [Services ČD sans FIP]({{% ref "#services-čd-sans-fip" %
 
 ## Catégories de trains et réservations
 
-La réservation de siège n'est obligatoire que dans les trains SuperCity `SC`.
+Les réservations de sièges ne sont obligatoires que dans les trains SuperCity `SC` et certains trains `IC`.
 
 {{% expander "SuperCity (SC) ⚠️" traincategory traincategory %}}
 **Description :** \
@@ -43,7 +42,7 @@ La réservation de siège est obligatoire dans les deux classes.
 En 1ère classe, les passagers reçoivent une petite collation ; en 2ᵉ classe, une bouteille d'eau. Des journaux gratuits sont disponibles dans les deux classes. Pendant le trajet, un portail d'information et de divertissement à bord permet de commander des repas et boissons à la place, lire, écouter de la musique, jouer ou regarder des films. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
-Le prix de la réservation est variable.
+Le prix de la réservation est variable (voir [trains avec réservation obligatoire](#trains-avec-réservation-obligatoire)).
 {{% /expander %}}
 
 {{% expander "Railjet (RJ) ℹ️" traincategory traincategory %}}
@@ -68,11 +67,11 @@ Trains internationaux longue distance avec un haut niveau de confort et des hora
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Intercity (IC)" traincategory traincategory %}}
+{{% expander "Intercity (IC) ⚠️" traincategory traincategory %}}
 **Description :** \
 Trains longue distance confortables, ne s'arrêtant qu'aux principales gares. Certains sont équipés d'un wagon-restaurant ou d'un minibar. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
 **Réservation possible :** oui \
-**Réservation obligatoire :** non
+**Réservation obligatoire :** ⚠️ Partiellement (voir [trains avec réservation obligatoire](#trains-avec-réservation-obligatoire))
 {{% /expander %}}
 
 {{% expander "Expres (Ex)" traincategory traincategory %}}
@@ -144,29 +143,46 @@ Pour les billets ordinaires, les enfants jusqu'à 6 ans voyagent gratuitement en
 
 ## Conditions tarifaires spéciales
 
-### Services commerciaux ČD
+### Liaisons commerciales ČD (supplément obligatoire)
 
-Sur les services dits _commerciaux_ de la ČD, un supplément doit être acheté au guichet ČD avant le voyage. Ils circulent principalement sur la ligne Prague – Ostrava.
+Sur les liaisons dites _commerciales_ de ČD, un supplément doit être acheté. Cela concerne généralement uniquement certains trains des catégories `SC`, `IC` et `Ex` (ainsi que les trains `R` marqués "NATO Days") [^3].
 
-Aperçu des services : [Trains commerciaux ČD et lignes sélectionnées 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
+ČD propose une liste des trains concernés : [Trains commerciaux ČD et lignes sélectionnées 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
-Les remboursements de suppléments sont possibles jusqu'à 23h59 la veille du premier jour de validité (sans retenue) ou dans les 15 minutes suivant l'achat (sans retenue). Si un supplément inutilisé est rendu avant 8h00 le premier jour de validité, des frais de 100 CZK sont appliqués. Aucun remboursement n'est possible dans les autres cas. [^1]
+Pour les trains à réservation obligatoire figurant dans la liste, des règles particulières s’appliquent, voir [Trains avec réservation obligatoire](#trains-avec-réservation-obligatoire).
 
-### Services ČD sans FIP
+Le supplément coûte environ 125 CZK (à partir de novembre 2025) et peut être acheté avant le départ au guichet ČD ou à bord du train (veuillez contacter directement le personnel du train). La validité du supplément correspond à la même durée que le champ actuel du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3]
 
-En principe, le FIP n'est pas valable dans les trains ČD exploités dans le cadre de marchés publics. Malheureusement, ČD ne fournit pas de liste complète. Les plus importants sont :
+Les remboursements de suppléments sont possibles jusqu’à 23h59 la veille du premier jour de validité (sans retenue) ou dans les 15 minutes suivant l’achat (sans retenue). Si un supplément inutilisé est restitué avant 8h00 le premier jour de validité, des frais de traitement de 100 CZK sont appliqués. Dans tous les autres cas, aucun remboursement n’est possible. [^1]
+
+#### Trains avec réservation obligatoire
+
+Certains trains ČD nécessitent une réservation obligatoire. Cela concerne tous les trains `SC` ainsi que certains trains `IC` (toutes les liaisons sont listées dans les [liaisons commerciales](#liaisons-commerciales-čd-supplément-obligatoire)). Les trains `IC` concernés circulent principalement sur la ligne Prague – Ostrava.
+
+Ces trains nécessitent une réservation de siège spéciale (incluant le supplément). ČD ne propose actuellement pas d’option tarifaire spécifique à cet effet. Les possibilités suivantes pour la réservation de siège sont généralement acceptées : [^3]
+
+- Achat d’une réservation pour le personnel ČD (tarif : _Rail card ČD_) via le site web de ČD ([ČD eshop](https://www.cd.cz/en/eshop/default.htm)) ou l’application ČD (Můj vlak)
+- Achat d’une réservation classique (voir [Achat de billets et réservations](#achat-de-billets-et-réservations)) et en plus du [supplément commercial](#liaisons-commerciales-čd-supplément-obligatoire)
+
+Avant de monter à bord, il peut être utile d’informer le personnel du train.
+
+### Liaisons ČD sans FIP
+
+En principe, le FIP n’est pas valable dans les trains ČD exploités dans le cadre d’appels d’offres publics remportés, sauf si une partie du trajet est directement attribuée par le ministère des Transports. Les trains des catégories `EC` et `RJ` ne sont généralement pas concernés et peuvent toujours être utilisés avec FIP en Tchéquie. Toutes les autres liaisons longue distance (par exemple `SC`, `IC`, `Ex`) sont considérées comme [liaisons commerciales](#liaisons-commerciales-čd-supplément-obligatoire) et ne sont accessibles qu’avec supplément.
+
+Pour les services attribués par des collectivités régionales (trains des catégories `SP` et `OS`), ČD ne fournit pas de liste des liaisons utilisables. En cas de doute, il est possible de demander au support ČD ou au guichet sur quelles liaisons le FIP est valable. Les principales liaisons non valables sont cependant les suivantes :
 
 #### Trains régionaux en Moravie du Sud (Brno)
 
-Les Billets FIP ne sont pas valables dans les trains régionaux en Moravie du Sud, même exploités par ČD.
+Les billets FIP ne sont pas valables dans les trains régionaux en Moravie du Sud, même s’ils sont exploités par ČD.
 
-Aperçu des services : [Liste d'exclusion ČD JMK 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
+Aperçu des liaisons : [Liste d’exclusion CD JMK 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
 
 #### Trains régionaux dans la région de Pilsen
 
-Les Billets FIP ne sont pas valables sur certains trains régionaux autour de Pilsen.
+Les billets FIP ne sont pas valables sur certains trains régionaux autour de Pilsen.
 
-Aperçu des services : [Liste d'exclusion ČD région Pilsen 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
+Aperçu des liaisons : [Liste d’exclusion CD Région Pilsen 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
 
 ### Bus et services de remplacement
 
@@ -210,3 +226,5 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
+
+[^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)

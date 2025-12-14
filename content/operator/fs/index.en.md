@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Trenitalia"
-description: "Find out about the FIP conditions at Trenitalia (FS): validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "italy"
 operator: "trenitalia"
