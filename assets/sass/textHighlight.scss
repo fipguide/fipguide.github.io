@@ -4,7 +4,7 @@
   border-radius: var(--border-radius-m);
 
   @media print {
-    border-width: 1px;
+    border-width: 0.1rem;
   }
 
   // Remove margins from last elements of expander (up to 2 levels deep)
@@ -33,8 +33,8 @@
 @each $name, $color in $highlight-colors {
   .m-text-highlight--#{$name} {
     background-color: var(--highlight-#{$name}-bg);
-    border: var(--highlight-#{$name}-color) solid 1px;
-    border-width: 1px 1px 1px 1rem;
+    border: var(--highlight-#{$name}-color) solid 0.1rem;
+    border-width: 0.1rem 0.1rem 0.1rem 1rem;
 
     @media print {
       background-color: none;

@@ -12,7 +12,7 @@
     &--#{$name} {
       background: var(--tag-#{$name}-bg);
       color: var(--tag-#{$name}-color);
-      border: 0.1rem solid var(--tag-#{$name}-border);
+      border: 0.1rem solid var(--tag-#{$name}-color);
     }
   }
 }

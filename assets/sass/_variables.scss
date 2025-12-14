@@ -61,7 +61,6 @@ html {
   @each $name, $color in $tag-colors {
     --tag-#{$name}-bg: #{mix(white, $color, 90%)};
     --tag-#{$name}-color: #{$color};
-    --tag-#{$name}-border: #{mix(white, $color, 50%)};
   }
 
   @each $name, $color in $highlight-colors {
@@ -74,7 +73,7 @@ html {
   --border-radius-l: 1.6rem;
   --pagefind-ui-border-radius: var(--border-radius-l) !important;
   --pagefind-ui-border: #000 !important;
-  --box-shadow: 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
   --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.1);
   --border: 0.1rem solid transparent;
   --pagefind-ui-font: roboto, Arial, Helvetica, sans-serif;
@@ -103,7 +102,6 @@ html[data-theme="dark"] {
     @each $name, $color in $tag-colors-dark {
       --tag-#{$name}-bg: #{mix(black, $color, 65%)};
       --tag-#{$name}-color: #{$color};
-      --tag-#{$name}-border: #{mix(black, $color, 50%)};
     }
 
     @each $name, $color in $highlight-colors-dark {
