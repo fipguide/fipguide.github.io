@@ -118,7 +118,7 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 6 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
+Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
 
 ## Tarifliche Besonderheiten
 

@@ -118,7 +118,7 @@ FIP Tickets cannot be purchased on the train. A penalty fee is charged for passe
 
 ## Discounts
 
-Children travel free on regular journeys (not special trips) up to and including 6 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
+Children travel free on regular journeys (not special trips) up to and including 5 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
 
 ## Special Tariff Conditions
 

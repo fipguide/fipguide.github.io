@@ -118,7 +118,7 @@ Les Billets FIP ne peuvent pas être achetés à bord du train. Un supplément e
 
 ## Réductions
 
-Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéciaux) jusqu’à l’âge de 6 ans inclus. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans, le tarif adulte s’applique.
+Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéciaux) jusqu’à l’âge de 5 ans inclus. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans, le tarif adulte s’applique.
 
 ## Conditions tarifaires spéciales
 
