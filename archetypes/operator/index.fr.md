@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "{{ .File.ContentBaseName | upper }}"
-description: "" # Complète une description pour la compagnie ferroviaire
 country:
   # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
   - "country1"

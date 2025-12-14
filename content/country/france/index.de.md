@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Frankreich"
-description: "Informationen über die FIP-Bedingungen für Frankreich und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "france"
 params:
   operators_without_fip:
