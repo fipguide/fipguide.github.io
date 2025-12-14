@@ -27,6 +27,38 @@ country:
 discord: FIP Guide Community
 donation: Donate
 editPage: Edit page
+fipValidity:
+  close-modal: Close
+  discount: Discount
+  fields: Fields
+  fip-50-ticket: FIP 50 Ticket
+  fip-50-ticket-discount-modal-description: >-
+    The discount on the regular fare for FIP 50 Tickets depends on the railway
+    company that issued your FIP card.
+  fip-50-ticket-discount-modal-title: FIP 50 Ticket Discount by Operator
+  fip-coupon: FIP Coupon
+  fip-coupon-fields-modal-description: >-
+    The maximum number of fields on the FIP Coupon depends on the railway
+    company that issued your FIP card.
+  fip-coupon-fields-modal-title: FIP Coupon Fields by Operator
+  fip-coupon-fields-value: '%d fields'
+  fip-coupon-relatives: FIP Coupon for relatives
+  fip-global-fare: FIP Global Fare
+  issuer: Issuer of the FIP card
+  relatives-available: FIP Coupon for relatives available
+  relatives-modal-description: >-
+    The availability of FIP Coupon for relatives depends on the railway company
+    that issued your FIP card.
+  relatives-modal-title: FIP Coupon for relatives by Operator
+  relatives-status-no: Not available
+  relatives-status-unknown: Unknown
+  relatives-status-yes: Available
+  show-50-ticket-discount-info: Show information about FIP 50 Ticket discounts
+  show-coupon-fields-info: Show information about FIP Coupon fields
+  show-relatives-info: Show information about FIP Coupon for relatives
+  status-no: Not accepted
+  status-unknown: Unknown
+  status-yes: Accepted
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe

@@ -9,6 +9,19 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+Params:
+  fip_coupon: true
+  fip_coupon_fields:
+    oebb: 4
+    renfe: 2
+  fip_coupon_relatives:
+    oebb: true
+    renfe: false
+  fip_50_ticket: true
+  fip_50_ticket_discount:
+    oebb: 25
+    renfe: 75
+  fip_global_fare: true
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en France. Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.
@@ -23,10 +36,7 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
-Billet FIP 50 : ✅ \
-Tarif Global FIP : ✅ (pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux))
+{{< fip-validity fip_global_fare_footnote="pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)">}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 
