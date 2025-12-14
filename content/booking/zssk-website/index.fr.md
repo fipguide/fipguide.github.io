@@ -20,7 +20,7 @@ aliases:
 
 ## Billets FIP 50
 
-Lors du processus d’achat, il est possible de sélectionner la réduction « FIP Ticket 50% ».
+Lors du processus d’achat, il est possible de sélectionner la réduction « Držiteľ lístka FIP 50% ».
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

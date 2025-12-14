@@ -41,6 +41,8 @@ html {
   --color-onLight: #{$color-onLight};
   --color-table-border: #{$color-table-border};
   --color-body: rgb(33, 37, 41);
+  --color-success: #096640;
+  --color-error: #ad1731;
 
   @each $name, $color in $tag-colors {
     --tag-#{$name}-bg: #{mix(white, $color, 90%)};
@@ -82,6 +84,8 @@ html[data-theme="dark"] {
     --color-onLight: #ffffff;
     --color-table-border: #555;
     --color-body: #e0e0e0;
+    --color-success: #2ea44f;
+    --color-error: #f85149;
 
     @each $name, $color in $tag-colors-dark {
       --tag-#{$name}-bg: #{mix(black, $color, 65%)};

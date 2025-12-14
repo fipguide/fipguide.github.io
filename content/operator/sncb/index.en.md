@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Find out about the FIP conditions at SNCB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "belgium"
 operator: "sncb"
@@ -114,6 +113,10 @@ Domestic journeys unfortunately cannot be purchased online.
 {{% booking id="db-website-fip-international"
     subtitle="Cross-border FIP 50 Tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
+
+### Telephone
+
+{{% booking id="sncb-phone" /%}}
 
 ### On-site
 

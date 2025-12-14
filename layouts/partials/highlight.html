@@ -1,0 +1,19 @@
+{{ $iconMapping := dict
+  "important" "campaign"
+  "inofficial" "warning"
+  "tip" "lightbulb_2"
+  "confusion" "question_exchange"
+}}
+
+
+<div class="m-text-highlight m-text-highlight--{{ .Type }}">
+  {{- if .Type -}}
+    <div class="m-text-highlight__roofline">
+      {{- partial "icon" (index $iconMapping .Type) -}}
+      {{ T (printf "highlight.%s" .Type) }}
+    </div>
+  {{- end -}}
+  <div>
+    {{ .Content }}
+  </div>
+</div>
