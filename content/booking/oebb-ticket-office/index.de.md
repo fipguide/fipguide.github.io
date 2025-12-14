@@ -21,7 +21,7 @@ aliases:
 
 ## FIP 50 Fahrkarten
 
-In ÖBB Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Österreichs und in viele europäische Länder erworben werden.
+An ÖBB Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Österreichs und in viele europäische Länder erworben werden.
 
 Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).
 
