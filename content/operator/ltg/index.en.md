@@ -4,7 +4,7 @@ title: "LTG-Link"
 description: ""
 country:
   - "lithuania"
-operator: "ltg-link"
+operator: "ltg"
 ---
 
 {{< wip >}}
