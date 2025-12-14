@@ -24,12 +24,15 @@ FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
-## Zugkategorien und Reservierungen
+## Schiffskategorien und Reservierungen
 
-{{% expander "Fähre (Tagfahrt)" traincategory "category" %}}
-
-**Beschreibung:**
-
+{{% train-category
+title="Fähre (Tagfahrt)"
+type="ferry"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
+%}}
 Pro Richtung verkehrt eine Fähre:
 
 - Hoek van Holland nach Harwich: 14:15 – 19:45, 6:30h (Stena Britannica)
@@ -43,17 +46,17 @@ An Bord gibt es eine Vielzahl an Services:
 - Spielbereich für Kinder
 - Duty Free Shop
 - Deck Bar mit Ausblick
-  Eine Kabine kann optional dazugebucht werden. Hierbei kann zwischen Standard, Superior, Deluxe gewählt werden.
 
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
+Eine Kabine kann optional dazugebucht werden. Hierbei kann zwischen den Optionen Standard, Superior, Deluxe gewählt werden. [^1]
+{{% /train-category %}}
 
-{{% /expander %}}
-
-{{% expander "Fähre (Nachtfahrt)" traincategory "category" %}}
-
-**Beschreibung:**
-
+{{% train-category
+title="Fähre (Nachtfahrt)"
+type="ferry"
+fip_accepted=true
+reservation_possible=true
+reservation_required=true
+%}}
 Pro Richtung verkehrt eine Fähre:
 
 - Hoek van Holland nach Harwich: 22:00 – 06:30 Uhr, 9:30h (Stena Hollandica)
@@ -68,12 +71,9 @@ An Bord gibt es eine Vielzahl an Services:
 - Duty Free Shop
 - Deck Bar mit Ausblick
 
-Nachts ist die Reservierung einer Kabine obligatorisch. Hierbei kann zwischen Standard, Superior, Deluxe gewählt werden. [^1]
-
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Ja [^2]
-
-{{% /expander %}}
+Nachts ist die Reservierung einer Kabine obligatorisch. [^2] 
+Hierbei kann zwischen den Optionen Standard, Superior, Deluxe gewählt werden. [^1]
+{{% /train-category %}}
 
 ## Klassenkategorien
 
