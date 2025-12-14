@@ -34,6 +34,7 @@ footer-love:
   text: Made with ♥️ in Europe
 general: general
 highlight:
+  confusion: Risk of Confusion
   important: Important Information
   inofficial: Unofficial Information
   tip: Personal Tip
@@ -112,6 +113,21 @@ support:
     href="/en/contact">contact form</a>.
   title: Support Us
 toc_name: Contents
+trainCategory:
+  acceptance:
+    accepted: FIP accepted
+    notAccepted: FIP not accepted
+    partiallyAccepted: FIP partially accepted
+  additionalInformation: Additional information
+  importantInformation: Important information
+  reservation:
+    notPossible: No reservation possible
+    partiallyPossible: Reservation partially possible
+    partiallyRequired: Reservation partially required
+    possible: Reservation possible
+    required: Reservation required
+  riskOfConfusion: Risk of confusion
+  routeOverview: Route overview
 updateDate:
   aria-label: Open the commit history of the page
   label: Last updated
