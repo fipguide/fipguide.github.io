@@ -27,6 +27,7 @@ country:
   one: Land
   other: Länder
 discord: FIP Guide Community
+donation: Spenden
 editPage: Seite bearbeiten
 footer-love:
   aria-label: Made with love in Europe
@@ -87,6 +88,7 @@ operators:
   listTitle: Betreiber mit FIP
   withoutFIP: Betreiber ohne FIP
 related:
+  booking: Bei diesen Betreibern nutzbar
   countries: Verwandte Länder
   news: Verwandte News
   operators: Verwandte Betreiber
@@ -95,6 +97,13 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
+satellite:
+  content: >-
+    Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App
+    [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100
+    kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
+    wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
+    in Anspruch nehmen.
 search:
   label: Durchsuche alle Seiteninhalte
   placeholder: Suche

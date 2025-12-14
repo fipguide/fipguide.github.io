@@ -19,6 +19,8 @@ You can see the current information status for operators here: [Content Status](
 
 ❤️ A project by railway workers for railway workers.
 
+💰 Support this project: [Donation](https://www.paypal.com/pool/9jVNH0tMMT)
+
 ℹ️
 The information provided in this project is not official but is compiled and prepared by the FIPGuide community from various sources and experiences. References to sources can be found in the footnotes of each page. There is no legal connection to FIP or railway companies. No guarantee is given for the accuracy, completeness, or timeliness of any information. Please check with the respective railway company or employer for the latest information and regulations regarding FIP before traveling.
 
@@ -37,6 +39,8 @@ Der aktuellen Bearbeitungsstand der Informationen für Betreiber ist hier zu fin
 
 ❤️ Ein Projekt von Bahnern für Bahner.
 
+💰 Unterstütze dieses Projekt: [Spende](https://www.paypal.com/pool/9jVNH0tMMT)
+
 ℹ️
 Die in diesem Projekt bereitgestellten Informationen sind nicht offiziell, sondern werden von der FIPGuide Community aus verschiedenen Quellen sowie Erfahrungen zusammengetragen und aufbereitet. Nachweise zu Quellen sind in den Fußnoten der jeweiligen Seite zu finden. Es besteht keine rechtliche Verbindung zu FIP oder Bahngesellschaften. Für sämtliche Informationen wird keine Gewähr für die Richtigkeit, Vollständigkeit oder Aktualität übernommen. Bitte informiere dich vor Fahrtantriit bei der jeweiligen Bahngesellschaft oder Arbeitgeber über die aktuellsten Informationen und Bestimmungen zu FIP.
 
@@ -54,6 +58,8 @@ Vous trouverez des instructions pour modifier les informations [ici dans le wiki
 L'état actuel du traitement des informations concernant chaque exploitant sont disponible ici : [Content Status](https://github.com/orgs/fipguide/projects/3)
 
 ❤️ Un projet conçu par des cheminots pour les cheminots.
+
+💰 Soutenez ce projet : [Donation](https://www.paypal.com/pool/9jVNH0tMMT)
 
 ℹ️
 Les informations fournies dans ce projet ne sont pas officielles, mais sont compilées et traitées par la communauté FIPGuide à partir de diverses sources et expériences. Les références aux sources se trouvent dans les notes de bas de page de chaque page. Il n'existe aucun lien juridique avec la FIP ou les compagnies ferroviaires. Aucune garantie n'est donnée quant à l'exactitude, l'exhaustivité ou l'actualité de toutes les informations. Avant de partir, veuillez vous renseigner auprès de la compagnie ferroviaire ou de votre employeur pour obtenir les informations et les dispositions les plus récentes concernant la FIP.

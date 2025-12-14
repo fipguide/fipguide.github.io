@@ -114,6 +114,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="sncb-phone" /%}}
+
 ### Vor Ort
 
 {{% booking id="sncb-ticket-office" /%}}

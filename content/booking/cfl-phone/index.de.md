@@ -20,6 +20,4 @@ Zur Authentifizierung der FIP-Berechtigung muss ein Foto der Innenseite des FIP-
 
 **Die CFL erhebt eine Buchungsgebühr von 5 € pro Buchung.**
 
-{{% highlight tip %}}
-Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100 kostenlose Minuten pro Monat ins Ausland verfügbar. Die Registrierung kann jedoch einige Tage in Anspruch nehmen.
-{{% /highlight %}}
+{{% satellite %}}

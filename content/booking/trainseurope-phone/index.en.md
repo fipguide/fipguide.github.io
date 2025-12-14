@@ -9,6 +9,8 @@ params:
   fee: £ 10
 ---
 
+{{% satellite %}}
+
 {{% booking-section "fip_global_fare" %}}
 
 ## FIP Global Fare

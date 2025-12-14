@@ -23,6 +23,8 @@ aliases:
 
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
+{{% satellite %}}
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
