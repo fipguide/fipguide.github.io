@@ -1,9 +1,11 @@
 .m-text-highlight {
-  background-color: var(--bg-neutral);
   padding: 1.2rem;
   margin-bottom: 1.2rem;
   border-radius: var(--border-radius-m);
-  border-left: var(--bg-neutral) solid 1rem;
+
+  @media print {
+    border-width: 1px;
+  }
 
   // Remove margins from last elements of expander (up to 2 levels deep)
   & > *:last-child,
@@ -28,13 +30,18 @@
   gap: 0.4rem;
 }
 
-@each $name, $color in $highlight-borders {
+@each $name, $color in $highlight-colors {
   .m-text-highlight--#{$name} {
-    background-color: var(--highlight-color-#{$name});
-    border-left: $color solid 1rem;
+    background-color: var(--highlight-#{$name}-bg);
+    border: var(--highlight-#{$name}-color) solid 1px;
+    border-width: 1px 1px 1px 1rem;
 
     @media print {
-      border: 0.2rem solid $color;
+      background-color: none;
+    }
+
+    > .m-text-highlight__roofline {
+      color: var(--highlight-#{$name}-color);
     }
   }
 }

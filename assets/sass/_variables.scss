@@ -29,24 +29,17 @@ $tag-colors-dark: (
 );
 
 $highlight-colors: (
-  tip: #c4f2ff,
-  inofficial: #f0f3f5,
-  important: #ffe6cc,
-  confusion: #ffe6cc,
+  tip: #116278,
+  inofficial: #42454a,
+  important: map-get($tag-colors, warning),
+  confusion: map-get($tag-colors, warning),
 );
 
 $highlight-colors-dark: (
-  tip: #1a4a5c,
-  inofficial: #2a2d30,
-  important: #4a3a1a,
-  confusion: #4a3a1a,
-);
-
-$highlight-borders: (
-  tip: #1db5df,
-  inofficial: #878c96,
-  important: #b64900,
-  confusion: #b64900,
+  tip: #61bdd6,
+  inofficial: #acb3c1,
+  important: map-get($tag-colors-dark, warning),
+  confusion: map-get($tag-colors-dark, warning),
 );
 
 html {
@@ -72,7 +65,8 @@ html {
   }
 
   @each $name, $color in $highlight-colors {
-    --highlight-color-#{$name}: #{$color};
+    --highlight-#{$name}-bg: #{mix(white, $color, 90%)};
+    --highlight-#{$name}-color: #{$color};
   }
 
   --border-radius-s: 0.4rem;
@@ -113,7 +107,8 @@ html[data-theme="dark"] {
     }
 
     @each $name, $color in $highlight-colors-dark {
-      --highlight-color-#{$name}: #{$color};
+      --highlight-#{$name}-bg: #{mix(black, $color, 65%)};
+      --highlight-#{$name}-color: #{$color};
     }
 
     --pagefind-ui-border: #555;

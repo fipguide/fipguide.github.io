@@ -34,18 +34,3 @@ details.o-expander--train-category:not([open]) {
     }
   }
 }
-
-.o-train-category__content {
-  .m-text-highlight {
-    &--important,
-    &--confusion {
-      > .m-text-highlight__roofline {
-        color: var(--tag-warning-color);
-      }
-
-      background-color: var(--tag-warning-bg);
-      border: var(--tag-warning-border) solid;
-      border-width: 1px 1px 1px 1rem;
-    }
-  }
-}
