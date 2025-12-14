@@ -2,12 +2,14 @@ anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
   copy: Link zu diesem Abschnitt kopieren
 booking:
+  bookable: buchbar
   classes:
     first: 1. Klasse
     second: 2. Klasse
   fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
   fip-global-fare: FIP Globalpreis
+  not-bookable: nicht buchbar
   reservation: Reservierung
   reservation-costs: Reservierungskosten
   visit-additional-information-website: Weitere Informationen
