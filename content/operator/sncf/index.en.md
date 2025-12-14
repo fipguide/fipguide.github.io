@@ -52,19 +52,17 @@ SNCF also operates low-cost long-distance trains under the OUIGO brand, but thes
 {{% highlight important %}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
-
-On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
 {{% /highlight %}}
 
 ### Reservation
 
-Prices differ between peak and off-peak trains. The classification is not publicly available.
+Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
-|          | 1st class | 2nd class |
-| -------- | --------- | --------- |
-| Off-peak | €1.70     | €1.70     |
-| Peak     | €15       | €10       |
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €16       |
+| International     | €40       | €20       |
 
 {{% /train-category %}}
 
@@ -94,19 +92,15 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 {{% /highlight %}}
 
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
-
-On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
-{{% /train-category %}}
-
 ### Reservation
 
-Prices differ between peak and off-peak trains. The classification is not publicly available.
+Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
-|          | 1st class | 2nd class |
-| -------- | --------- | --------- |
-| Off-peak | €1.70     | €1.70     |
-| Peak     | €15       | €10       |
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €16       |
+| International     | €40       | €20       |
 
 {{% /train-category %}}
 
@@ -120,18 +114,15 @@ Intercity trains operated by SNCF, connecting various cities in France, mostly r
 
 SNCF does not provide public information on which `IC` trains require reservations. If in doubt, check with SNCF or purchase a reservation.
 
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
-
-On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
-
 ### Reservation
 
-Prices differ between peak and off-peak trains. The classification is not publicly available.
+Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
-|          | 1st class | 2nd class |
-| -------- | --------- | --------- |
-| Off-peak | €1.70     | €1.70     |
-| Peak     | €15       | €10       |
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €16       |
+| International     | €40       | €20       |
 
 {{% /train-category %}}
 
