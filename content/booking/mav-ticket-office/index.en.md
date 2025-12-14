@@ -4,8 +4,8 @@ title: "MÁV Ticket Office"
 description: "Booking information for MÁV ticket office."
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: "HUF 990"
+    second: "HUF 990"
   fip_50: true
   reservations: true
   type: "onsite"
@@ -24,5 +24,5 @@ FIP 50 tickets can be purchased at MÁV ticket offices for travel within Hungary
 
 ## Reservations
 
-Reservations for MÁV and GySEV trains can be purchased on-site for 990 HUF.
+Reservations for MÁV and GySEV trains can be purchased on-site for HUF 990.
 {{% /booking-section %}}

@@ -4,8 +4,8 @@ title: "MÁV Ticket Machine"
 description: "Booking information for MÁV ticket machines."
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: "HUF 990"
+    second: "HUF 990"
   fip_50: true
   reservations: true
   type: "machine"

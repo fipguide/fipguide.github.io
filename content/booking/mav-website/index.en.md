@@ -4,8 +4,8 @@ title: "MÁV Website"
 description: "Booking information for MÁV booking website."
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: "HUF 990"
+    second: "HUF 990"
   fip_50: true
   reservations: true
   booking_link: "https://jegy.mav.hu/?lang=en"
