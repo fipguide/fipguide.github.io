@@ -36,6 +36,7 @@ footer-love:
   text: Made with ♥️ in Europe
 general: Übergreifendes
 highlight:
+  confusion: Verwechslungsgefahr
   important: Wichtige Information
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
@@ -118,6 +119,21 @@ support:
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
 toc_name: Inhalt
+trainCategory:
+  acceptance:
+    accepted: FIP akzeptiert
+    notAccepted: FIP nicht akzeptiert
+    partiallyAccepted: FIP teilweise akzeptiert
+  additionalInformation: Zusätzliche Informationen
+  importantInformation: Wichtige Informationen
+  reservation:
+    notPossible: Keine Reservierung möglich
+    partiallyPossible: Reservierung teilweise möglich
+    partiallyRequired: Reservierung teilweise erforderlich
+    possible: Reservierung möglich
+    required: Reservierung erforderlich
+  riskOfConfusion: Verwechslungsgefahr
+  routeOverview: Streckenübersicht
 updateDate:
   aria-label: Öffne die Commit-Verlauf der Seite
   label: Zuletzt aktualisiert

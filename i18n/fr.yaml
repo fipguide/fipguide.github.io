@@ -36,6 +36,7 @@ footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
 highlight:
+  confusion: Risque de confusion
   important: Informations importantes
   inofficial: Informations non officielles
   tip: Conseil personnel
@@ -115,6 +116,21 @@ support:
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
 toc_name: Sommaire
+trainCategory:
+  acceptance:
+    accepted: FIP accepté
+    notAccepted: FIP non accepté
+    partiallyAccepted: FIP partiellement accepté
+  additionalInformation: Informations complémentaires
+  importantInformation: Informations importantes
+  reservation:
+    notPossible: Aucune réservation possible
+    partiallyPossible: Réservation partiellement possible
+    partiallyRequired: Réservation partiellement requise
+    possible: Réservation possible
+    required: Réservation requise
+  riskOfConfusion: Risque de confusion
+  routeOverview: Aperçu de l'itinéraire
 updateDate:
   aria-label: Ouvrir l'historique des commits de la page
   label: Dernière mise à jour
