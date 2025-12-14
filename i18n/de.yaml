@@ -1,5 +1,3 @@
-_operator__list_title: Betreiber mit FIP
-_operator__nearby: Angrenzende Betreiber
 anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
   copy: Link zu diesem Abschnitt kopieren
@@ -21,6 +19,9 @@ contentNavigation:
   relatedCountries: Länder, in den der Betreibers aktiv ist
   title: Inhaltsübersicht
 countries:
+  descriptionTemplate: >-
+    Informationen über die FIP-Bedingungen für %s und für welche Betreiber
+    Vergünstigungen genutzt werden können.
   overview: Länder mit FIP Akzeptanz
   without-fip: Länder ohne FIP Akzeptanz
 country:
@@ -28,6 +29,7 @@ country:
   one: Land
   other: Länder
 discord: FIP Guide Community
+donation: Spenden
 editPage: Seite bearbeiten
 footer-love:
   aria-label: Made with love in Europe
@@ -44,7 +46,7 @@ information-disclaimer-short: >-
 interactiveMap:
   legend:
     available: FIP Guide verfügbar
-    pending: Inhalt noch nicht verfügbar
+    pending: Inhalt noch nicht im FIP Guide verfügbar
     unavailable: Keine FIP-Akzeptanz
   loading: Lade interaktive Karte...
   resetZoom: Zoom zurücksetzen
@@ -81,8 +83,14 @@ menu:
 navigate-to-country: Gehe zu Land
 news-headline: Was gibt's Neues?
 news-other: Weitere News
-operators_without_fip: Betreiber ohne FIP
+operators:
+  descriptionTemplate: >-
+    Informationen über die FIP-Bedingungen bei %s: Gültigkeit, Ticket- und
+    Reservierungskauf, Tarifliche Besonderheiten
+  listTitle: Betreiber mit FIP
+  withoutFIP: Betreiber ohne FIP
 related:
+  booking: Bei diesen Betreibern nutzbar
   countries: Verwandte Länder
   news: Verwandte News
   operators: Verwandte Betreiber
@@ -91,6 +99,13 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
+satellite:
+  content: >-
+    Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App
+    [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100
+    kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
+    wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
+    in Anspruch nehmen.
 search:
   label: Durchsuche alle Seiteninhalte
   placeholder: Suche

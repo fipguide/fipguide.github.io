@@ -35,6 +35,8 @@ _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 {{% /highlight %}}
 
+{{% satellite %}}
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

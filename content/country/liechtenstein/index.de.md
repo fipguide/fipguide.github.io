@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Liechtenstein"
-description: "Informationen über die FIP-Bedingungen für Liechtenstein und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "liechtenstein"
 ---
 

@@ -20,6 +20,4 @@ To authenticate FIP eligibility, a photo of the inside of the FIP Card for all t
 
 **CFL charges a booking fee of €5 per booking.**
 
-{{% highlight tip %}}
-To avoid additional costs when calling abroad, you can use the [Satellite](https://www.satellite.me/) app. It offers 100 free minutes per month for international calls. However, registration may take a few days.
-{{% /highlight %}}
+{{% satellite %}}
