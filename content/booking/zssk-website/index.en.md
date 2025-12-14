@@ -20,7 +20,7 @@ aliases:
 
 ## FIP 50 Tickets
 
-In the purchase process, the discount "FIP Ticket 50%" can be selected.
+In the purchase process, the discount "Držiteľ lístka FIP 50%" can be selected.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

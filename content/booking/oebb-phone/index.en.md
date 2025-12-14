@@ -24,6 +24,8 @@ aliases:
 A credit card and email address are required for booking.
 ÖBB does not charge any additional fees for the booking process.
 
+{{% satellite %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

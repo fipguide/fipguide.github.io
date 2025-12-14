@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Belgien"
-description: "Informationen über die FIP-Bedingungen für Belgien und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "belgium"
 params:
   operators_without_fip:

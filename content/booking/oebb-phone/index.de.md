@@ -24,6 +24,8 @@ Die ÖBB bietet eine Buchungshotline für Tickets und Reservierungen an:
 Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
 Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
+{{% satellite %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Österreich"
-description: "Informationen über die FIP-Bedingungen für Österreich und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "austria"
 params:
   operators_without_fip:

@@ -50,7 +50,7 @@
       {{ partial "toc" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
 
       {{ if eq .Page.Type "country" }}
-        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "_operator__list_title") "page" . "identifier" "operators") }}
+        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "operators.listTitle") "page" . "identifier" "operators") }}
         {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
       {{ end }}
       {{ if eq .Page.Type "operator" }}
