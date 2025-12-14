@@ -131,7 +131,7 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, 
 Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP Freifahrtscheine: [^2]
 
 - Die FIP Freifahrtscheine der SBB werden in allen Zügen der BLS akzeptiert.
-- Die FIP Freifahrtscheine der BLS werden in Zügen der SBB auf Strecken akzeptiert, auf denen auch Züge der BLS verkehren, also zwischen zwei Bahnhofen sowohl Züge der SBB als auch der BLS fahren. Das Liniennetz der BLS ist [online einsehbar](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
+- Die FIP Freifahrtscheine der BLS werden in Zügen der SBB auf Strecken akzeptiert, auf denen auch Züge der BLS verkehren, also zwischen zwei Bahnhöfen, zwischen denen sowohl Züge der SBB als auch der BLS fahren. Das Liniennetz der BLS ist [online einsehbar](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
