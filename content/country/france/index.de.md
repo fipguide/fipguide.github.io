@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Frankreich"
-description: "Informationen über die FIP-Bedingungen für Frankreich und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "france"
 params:
   operators_without_fip:
@@ -47,7 +46,7 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 
 Grenzüberschreitende Verbindungen aus Großbritannien werden von [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") betrieben. Diese verkehren von London durch den Eurotunnel nach Lille und Paris. FIP Globalpreise sind für diese Verbindungen verfügbar.
 
-Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
+Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch keine FIP Ermäßigung gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich und Großbritannien, bei denen jedoch kein FIP Ermäßigung gewährt wird.
 
 ### Belgien
 
@@ -66,10 +65,10 @@ Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein
 
 ### Deutschland
 
-Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
+Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitenden der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
-Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitervergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
+Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitendenvergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
 Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").

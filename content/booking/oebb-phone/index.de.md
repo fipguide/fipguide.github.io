@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die ÖBB Hotline."
 
 params:
   classes:
-    first: "3,50€"
-    second: "3,50€"
+    first: "3,50 €"
+    second: "3,50 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter"
@@ -23,6 +23,8 @@ Die ÖBB bietet eine Buchungshotline für Tickets und Reservierungen an:
 
 Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
 Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
+
+{{% satellite %}}
 
 {{% booking-section "fip_50" %}}
 

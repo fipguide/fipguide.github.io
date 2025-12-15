@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "NS"
-description: "Informations sur les conditions FIP chez NS."
 country:
   - "netherlands"
 operator: "ns"
@@ -77,8 +76,8 @@ Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
 {{% expander "Intercity (IC) ⚠️" traincategory category %}}
 **Description :** \
 Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts. \
-Exception : le `IC` Amsterdam - Berlin, qui est un vrai Intercity transfrontalier avec arrêts uniquement dans les grandes gares. \
-**Réservation possible :** uniquement pour le `IC` Amsterdam - Berlin \
+Exception : le `IC` Amsterdam – Berlin, qui est un vrai Intercity transfrontalier avec arrêts uniquement dans les grandes gares. \
+**Réservation possible :** uniquement pour le `IC` Amsterdam – Berlin \
 **Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison) \
 **Supplément** : ⚠️ \
 À partir du 18 octobre 2025, la ligne `IC` Amsterdam – Berlin sera progressivement remplacée par des trains ICE 3neo. Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP. \
@@ -89,7 +88,7 @@ Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-su
 **Description :** \
 Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
 
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo - Hamm (Allemagne), Maastricht - Aix-la-Chapelle (Allemagne) et Arnhem - Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP. \
+Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP. \
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}

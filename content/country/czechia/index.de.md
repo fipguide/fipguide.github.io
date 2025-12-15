@@ -2,7 +2,6 @@
 draft: false
 title: "Tschechien"
 country: "czechia"
-description: "Informationen über die FIP-Bedingungen für Tschechien und für welche Betreiber Vergünstigungen genutzt werden können."
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
@@ -67,7 +66,7 @@ Zwischen Polen und Tschechien werden regelmäßige Züge sowohl im Fern- als auc
 
 Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kurzen Abstecher nach Polen machen und in Głuchołazy halten. Einfacher ist hier der Grenzübergang Harrachov, über den Regionalzüge zwischen Szklarska Poreba und Liberec verkehren. Diese Züge werden auf polnischer Seite von der KD und auf tschechischer Seite von der ČD betrieben.
 
-Über Lichkov fahren EC-Züge zwischen Breslau (teilweise aus Gdingen kommend) und Prag, für die Tickets von der PKP und ČD plus Reservierung benötigt werden. Regionalzüge sind auf polnischer Seite von der KD, auf tschechischer gehen wir davon aus, dass die Züge von der ČD betrieben werden.
+Über Lichkov fahren `EC` Züge zwischen Breslau (teilweise aus Gdingen kommend) und Prag, für die Tickets von der PKP und ČD plus Reservierung benötigt werden. Regionalzüge werden auf polnischer Seite von der KD und auf der tschechischen Seite von LEO Express betrieben. Somit sind FIP Vergünstigungen im tschechischen Abschnitt nicht gültig.
 
 ### Slowakei
 

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "BDŽ"
-description: "Informations sur les conditions FIP chez Balgarski Darschawni Schelesnizi (BDŽ)."
 country:
   - "bulgaria"
 operator: "bdz"

@@ -6,7 +6,7 @@ description: "Informations de réservation via la hotline CFL."
 params:
   additional_info_link: "https://blogcfl.lu/fr/groupe-cfl/352-2489-2489-des-questions-un-numero-pour-vous-tenir-informes"
   type: "phone"
-  fee: 5€
+  fee: 5 €
 
 aliases:
   - cfl_phone
@@ -20,6 +20,4 @@ Pour justifier de l’éligibilité FIP, une photo de l’intérieur de la Carte
 
 **La CFL facture des frais de réservation de 5€ par commande.**
 
-{{% highlight tip %}}
-Pour éviter les frais supplémentaires lors d’un appel depuis l’étranger, vous pouvez utiliser l’application [Satellite](https://www.satellite.me/). Elle offre 100 minutes gratuites par mois pour les appels internationaux. Notez cependant que l’inscription peut prendre quelques jours.
-{{% /highlight %}}
+{{% satellite %}}

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Österreich"
-description: "Informationen über die FIP-Bedingungen für Österreich und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "austria"
 params:
   operators_without_fip:
@@ -116,4 +115,4 @@ Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und
 
 ## FIP Bewertung
 
-Insgesamt verfügt Österreich über eine tadellose Infrastruktur und sehenswerte Strecken und die meisten Fahrten werden durch die ÖBB bedient. Dadurch ist es möglich, mit FIP-Fahrscheinen einen großen Teil des Landes zu bereisen. Durch den Zuschlag (ohne Reservierung) im Fernverkehr unabhängig von der Relation (in der 1. Klasse 15€, in der 2. Klasse 10€) wird die FIP-Erfahrung jedoch etwas getrübt.
+Insgesamt verfügt Österreich über eine tadellose Infrastruktur und sehenswerte Strecken und die meisten Fahrten werden durch die ÖBB bedient. Dadurch ist es möglich, mit FIP-Fahrscheinen einen großen Teil des Landes zu bereisen. Durch den Zuschlag (ohne Reservierung) im Fernverkehr unabhängig von der Relation (in der 1. Klasse 15 €, in der 2. Klasse 10 €) wird die FIP-Erfahrung jedoch etwas getrübt.

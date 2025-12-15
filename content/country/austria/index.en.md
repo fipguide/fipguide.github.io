@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Austria"
-description: "Information about FIP conditions for Austria and which operators offer discounts."
 country: "austria"
 params:
   operators_without_fip:
@@ -116,4 +115,4 @@ From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-d
 
 ## FIP Rating
 
-Overall, Austria has an impeccable infrastructure and scenic routes, and most journeys are operated by ÖBB. This makes it possible to travel a large part of the country with FIP Tickets. However, the surcharge (without reservation) on long-distance trains, regardless of the route (in 1st class €15, in 2nd class €10), slightly dampens the FIP experience.
+Overall, Austria has an impeccable infrastructure and scenic routes, and most journeys are operated by ÖBB. This makes it possible to travel a large part of the country with FIP Tickets. However, the surcharge (without reservation) on long-distance trains, regardless of the route (in 1st class € 15, in 2nd class € 10), slightly dampens the FIP experience.

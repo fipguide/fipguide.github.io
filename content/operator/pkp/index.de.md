@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "PKP"
-description: "Informationen über die FIP-Bedingungen bei der PKP."
 country:
   - "poland"
 operator: "pkp"
@@ -11,9 +10,9 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 
 ## Zusammenfassung
 
-- PKP akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen
-- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD)
+- PKP akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen.
+- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD).
 
 ## Gültigkeit FIP-Tickets
 
@@ -132,11 +131,11 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungslands des FIP Ausweises)"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
 ### Vor Ort
@@ -193,7 +192,7 @@ Uns sind keine weiteren Ermäßigungen bekannt.
 Ein Fahrschein für eine einfache Fahrt ist bis Mitternacht am Ausstellungstag gültig. Die Gültigkeit von FIP 50 Einzelfahrscheinen richtet sich nach der Entfernung:
 
 - bis 50 km: 3 Stunden ab Ausstellungsdatum und -uhrzeit (oder ab einem Zeitpunkt der Wahl des Fahrgasts)
-- 51 km – 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit (oder ab einem Zeitpunkt der Wahl des Fahrgasts)
+- 51 km bis 100 km: 6 Stunden ab Ausstellungsdatum und -uhrzeit (oder ab einem Zeitpunkt der Wahl des Fahrgasts)
 - ab 101 km: bis Mitternacht am Ausstellungstag (der Tag gilt von 00:01 Uhr bis 24:00 Uhr)
 
 #### Koleje Mazowieckie (KM)

@@ -2,7 +2,6 @@
 draft: false
 title: "Italy"
 country: "italy"
-description: "Information about FIP conditions for Italy and which operators offer discounts."
 params:
   operators_without_fip:
     - Azienda Regionale Sarda Trasporti
@@ -43,9 +42,9 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 
 From Slovenia, regional trains can be used to enter Italy via Villa Opicina. FIP Tickets or FIP Coupons of both countries (FS and SŽ) or a through FIP Ticket (FIP 50) are required. These trains run infrequently, so planning is recommended.
 
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (Villa Opicina - Trieste), the ÖBB FIP Coupon is valid, but a small long-distance surcharge must be paid, which is much lower than typical FS long-distance surcharges.
+There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (Villa Opicina – Trieste), the ÖBB FIP Coupon is valid, but a small long-distance surcharge must be paid, which is much lower than typical FS long-distance surcharges.
 
-The border crossing at Nova Gorica (Gorizia Centrale - Nova Gorica) is only used for passenger traffic on special occasions.
+The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger traffic on special occasions.
 
 {{% highlight tip %}}
 Booking FIP Tickets or FIP Coupons for the cross-border section between Slovenia and Italy is not possible online. However, very cheap regular tickets for the cross-border section can be purchased via Trenitalia. These are more expensive via SŽ.

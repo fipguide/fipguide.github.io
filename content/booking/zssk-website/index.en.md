@@ -5,8 +5,8 @@ description: "Booking information for the ZSSK website."
 
 params:
   classes:
-    first: "€2"
-    second: "€1"
+    first: "€ 2"
+    second: "€ 1"
   fip_50: true
   reservations: true
   booking_link: "https://www.zssk.sk/en/"
@@ -20,7 +20,7 @@ aliases:
 
 ## FIP 50 Tickets
 
-In the purchase process, the discount "FIP Ticket 50%" can be selected.
+In the purchase process, the discount "Držiteľ lístka FIP 50%" can be selected.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

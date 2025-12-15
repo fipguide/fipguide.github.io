@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Suisse"
-description: "Informations sur les conditions FIP pour la Suisse et pour quels opérateurs des réductions peuvent être utilisées."
 country: "switzerland"
 params:
   operators_without_fip:

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Eurostar"
-description: "Informations sur les conditions FIP pour Eurostar."
 country:
   - "belgium"
   - "netherlands"
@@ -40,9 +39,9 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe. \
 **Tarif Global FIP :**
 | Trajet | Standard | Plus |
 |------------------------------|----------|------|
-| Londres - Paris / Bruxelles | 39€ / 34,50£ | 60€ / 52,50£ |
-| Londres - Amsterdam / Rotterdam | ?€ / 44,50£ | ?€ / 62£ |
-| Bruxelles - Amsterdam / Rotterdam | ?€ / 15,50£ | ?€ / 30,50£ |
+| Londres - Paris / Bruxelles | 39€ / 34,50 £ | 60€ / 52,50 £ |
+| Londres - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
+| Bruxelles - Amsterdam / Rotterdam | ?€ / 15,50 £ | ?€ / 30,50 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Rouge) : Paris - Amsterdam / Bruxelles / Cologne / Dortmund ⚠️" traincategory category %}}
@@ -54,8 +53,8 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne. \
 | Trajet | Standard | Plus |
 |-----------------------------|----------|------|
 | Trajet dans un seul pays | Non disponible | Non disponible |
-| Trajet entre 2 pays | 18€ | 35€ |
-| Trajet entre 3 pays | 20€ | 40€ |
+| Trajet entre 2 pays | 18 € | 35 € |
+| Trajet entre 3 pays | 20 € | 40 € |
 {{% /expander %}}
 
 {{% expander "Eurostar Snow : Amsterdam / Bruxelles – Alpes françaises ⛔⚠️" traincategory category %}}

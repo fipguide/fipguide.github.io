@@ -1,5 +1,13 @@
+{{- $description := "" -}}
+{{- if .Description -}}
+  {{- $description = .Description -}}
+{{- else if eq .Type "operator" -}}
+  {{- $description = printf (i18n "operators.descriptionTemplate") .Title -}}
+{{- else if eq .Type "country" -}}
+  {{- $description = printf (i18n "countries.descriptionTemplate") .Title -}}
+{{- end -}}
 <meta charset="utf-8" />
-<meta name="description" content="{{ .Description }}" />
+<meta name="description" content="{{ $description }}" />
 <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
 <meta
   name="viewport"
@@ -16,7 +24,7 @@
     {{ printf "%s | %s" .Title site.Title }}
   {{ end }}"
 />
-<meta property="og:description" content="{{ .Description }}" />
+<meta property="og:description" content="{{ $description }}" />
 <meta
   property="og:type"
   content="{{ if .IsPage }}

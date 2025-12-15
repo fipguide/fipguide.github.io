@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Belgique"
-description: "Découvrez les conditions d'utilisations des facilités FIP en Belgique et les opérateurs qui proposent les réductions."
 country: "belgium"
 params:
   operators_without_fip:

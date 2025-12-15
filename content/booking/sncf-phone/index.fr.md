@@ -5,8 +5,8 @@ description: "Informations de réservation pour la hotline SNCF."
 
 params:
   classes:
-    first: "1,70€ / 15€"
-    second: "1,70€ / 10€"
+    first: "1,70 € / 15 €"
+    second: "1,70 € / 10 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.sncf-voyageurs.com/fr/contactez-nous/nos-points-de-contact/par-telephone/"
@@ -34,6 +34,8 @@ La SNCF connaît parfois ces billets sous les noms suivants : \
 _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 {{% /highlight %}}
+
+{{% satellite %}}
 
 {{% booking-section "fip_50" %}}
 

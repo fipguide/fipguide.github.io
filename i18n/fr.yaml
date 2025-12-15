@@ -1,14 +1,15 @@
-_operator__list_title: Opérateurs prenant en charge la FIP
 anchorLink:
   copied: Le lien a été copié dans le presse-papiers
   copy: Copier le lien vers cette section
 booking:
+  bookable: réservable
   classes:
     first: 1re classe
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-global-fare: Tarif Global FIP
+  not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
@@ -18,6 +19,9 @@ contentNavigation:
   relatedCountries: Pays dans lesquels l'opérateur est actif
   title: Aperçu du contenu
 countries:
+  descriptionTemplate: >-
+    Informations sur les conditions FIP pour %s et pour quels opérateurs des
+    réductions peuvent être utilisées.
   overview: Pays acceptation FIP
   without-fip: Pays sans acceptation FIP
 country:
@@ -26,11 +30,13 @@ country:
   other: pays
 countryselection: Choisir un pays
 discord: Communauté FIP Guide
+donation: Donation
 editPage: Modifier la page
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
 highlight:
+  confusion: Risque de confusion
   important: Informations importantes
   inofficial: Informations non officielles
   tip: Conseil personnel
@@ -41,7 +47,7 @@ information-disclaimer-short: >-
 interactiveMap:
   legend:
     available: FIP Guide disponible
-    pending: Contenu non disponible
+    pending: Contenu non disponible dans le guide FIP
     unavailable: Pas d'acceptation FIP
   loading: Chargement de la carte interactive...
   resetZoom: Réinitialiser le zoom
@@ -78,13 +84,26 @@ menu:
 navigate-to-country: Aller au pays
 news-headline: Quoi de neuf ?
 news-other: Autres actualités
-operators_without_fip: Opérateurs sans FIP
+operators:
+  descriptionTemplate: >-
+    Informations sur les conditions FIP chez %s : Validité, Achat de billets et
+    réservations, Conditions tarifaires spéciales
+  listTitle: Opérateurs prenant en charge la FIP
+  withoutFIP: Opérateurs sans FIP
 related:
+  booking: Utilisable avec ces opérateurs
   countries: Pays associés
   news: Actualités associées
   operators: Opérateurs associés
   operators-nearby: Opérateurs voisins
 reportError: Signaler une erreur
+satellite:
+  content: >-
+    Pour éviter des frais supplémentaires lors d'appels à l'étranger, vous
+    pouvez utiliser l'application [Satellite](https://www.satellite.me/). Elle
+    offre 100 minutes gratuites par mois pour les appels internationaux. Une
+    résidence allemande est requise pour l'inscription et l'inscription peut
+    prendre quelques jours.
 search:
   label: Rechercher dans tout le contenu de la page
   placeholder: Rechercher
@@ -97,6 +116,21 @@ support:
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
 toc_name: Sommaire
+trainCategory:
+  acceptance:
+    accepted: FIP accepté
+    notAccepted: FIP non accepté
+    partiallyAccepted: FIP partiellement accepté
+  additionalInformation: Informations complémentaires
+  importantInformation: Informations importantes
+  reservation:
+    notPossible: Aucune réservation possible
+    partiallyPossible: Réservation partiellement possible
+    partiallyRequired: Réservation partiellement requise
+    possible: Réservation possible
+    required: Réservation requise
+  riskOfConfusion: Risque de confusion
+  routeOverview: Aperçu de l'itinéraire
 updateDate:
   aria-label: Ouvrir l'historique des commits de la page
   label: Dernière mise à jour

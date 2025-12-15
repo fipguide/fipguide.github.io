@@ -5,8 +5,8 @@ description: "Informations de réservation via la hotline ÖBB."
 
 params:
   classes:
-    first: "3,50€"
-    second: "3,50€"
+    first: "3,50 €"
+    second: "3,50 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
@@ -22,6 +22,8 @@ aliases:
 [+43 (0) 5 1717](tel:+4351717)
 
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
+
+{{% satellite %}}
 
 {{% booking-section "fip_50" %}}
 

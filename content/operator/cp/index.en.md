@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "CP"
-description: "Information about FIP conditions at Comboios de Portugal (CP)."
 country:
   - "portugal"
 operator: "cp"
@@ -97,7 +96,7 @@ Single line between Coimbra and Figueira da Foz.
 **Reservation required:** no
 {{% /expander %}}
 
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "category" %}}
+{{% expander "Celta: Porto – Vigo ⚠️" traincategory "category" %}}
 **Description:** \
 The Celta is an international cooperation service between CP and Renfe from Porto to Vigo. FIP Coupons are not accepted. \
 **Reservation possible:** yes \

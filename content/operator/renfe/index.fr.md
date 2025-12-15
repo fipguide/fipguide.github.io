@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Renfe"
-description: "Informations sur les conditions FIP chez Renfe."
 country:
   - "spain"
   - "france"

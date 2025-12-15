@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Vereinigtes Königreich"
-description: "Informationen über die FIP-Bedingungen für das Vereinigte Königreich und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "united-kingdom"
 params:
   operators_without_fip:
@@ -63,7 +62,7 @@ Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverp
 
 Von Paris Nord, Lille Europe und Brüssel Midi verkehren [Eurostar-Züge]({{< ref "/operator/eurostar" >}} "Eurostar-Seite") nach London St. Pancras International. Diese Züge sind reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
 
-Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch kein FIP Rabatt gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch kein FIP Rabatt gewährt wird.
+Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch keine FIP Ermäßigung gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch keine FIP Ermäßigung gewährt wird.
 
 ### Niederlande
 

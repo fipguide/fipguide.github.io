@@ -5,8 +5,8 @@ description: "Booking information for the ÖBB hotline."
 
 params:
   classes:
-    first: "€3.50"
-    second: "€3.50"
+    first: "€ 3.50"
+    second: "€ 3.50"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
@@ -23,6 +23,8 @@ aliases:
 
 A credit card and email address are required for booking.
 ÖBB does not charge any additional fees for the booking process.
+
+{{% satellite %}}
 
 {{% booking-section "fip_50" %}}
 

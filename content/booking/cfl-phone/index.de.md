@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die CFL Hotline."
 params:
   additional_info_link: "https://blogcfl.lu/de/cfl-gruppe/352-2489-2489-haben-sie-fragen-wenden-sie-sich-an-uns-unter-dieser-nummer"
   type: "phone"
-  fee: 5€
+  fee: 5 €
 
 aliases:
   - cfl_phone
@@ -20,6 +20,4 @@ Zur Authentifizierung der FIP-Berechtigung muss ein Foto der Innenseite des FIP-
 
 **Die CFL erhebt eine Buchungsgebühr von 5 € pro Buchung.**
 
-{{% highlight tip %}}
-Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100 kostenlose Minuten pro Monat ins Ausland verfügbar. Die Registrierung kann jedoch einige Tage in Anspruch nehmen.
-{{% /highlight %}}
+{{% satellite %}}

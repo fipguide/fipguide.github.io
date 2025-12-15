@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Denmark"
-description: "Information about FIP conditions for Denmark and which operators offer discounts."
 country: "denmark"
 params:
   operators_without_fip:
@@ -26,8 +25,8 @@ Denmark has a relatively dense railway network that connects both the mainland o
 
 The main routes in Denmark are:
 
-- **The north-south route**: Aalborg-Aarhus-Kolding-(Hamburg)
-- **The east-west route**: (Malmö)-Copenhagen-Odense-Fredericia-Esbjerg
+- **The north-south route**: Aalborg – Aarhus – Kolding – (Hamburg)
+- **The east-west route**: (Malmö) – Copenhagen – Odense – Fredericia – Esbjerg
 
 Long-distance trains operate on these routes with above-average speeds, though true high-speed travel is limited to a small section between Odense and Copenhagen, which only a few trains fully utilize.
 
