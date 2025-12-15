@@ -215,8 +215,7 @@ Beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betri
 
 {{% expander "Meiringen-Innertkirchen Bahn (MIB)" traincategory "category" %}}
 **Beschreibung:** \
-Die Meiringen-Innertkirchen-Bahn, abgekürzt MIB, ist eine meterspurige Schmalspurbahn im Kanton Bern.
-Sie wird in der Zwischenzeit von der Zentralbahn betrieben, alle Details sind daher unter "Zentralbahn (ZB)" zu finden.
+Die Meiringen-Innertkirchen-Bahn, abgekürzt MIB, ist eine meterspurige Schmalspurbahn im Kanton Bern. Sie wird in der Zwischenzeit von der Zentralbahn betrieben, alle Details sind daher unter "Zentralbahn (ZB)" zu finden.
 {{% /expander %}}
 
 {{% expander "Chemin du fer Montreux-Oberland Bernois (MOB)" traincategory "category" %}}
@@ -549,8 +548,7 @@ Die BSG betreibt Schiffe auf dem Bielersee (Lac de Bienne) mit den Routen:
 - Biel/Bienne – Solothurn (L'Aar/Aarefahrt)
 - Biel/Bienne – Murten (3 Seen Tour)
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig.
-Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
+FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig. Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 
 - Biel/Bienne
 - La Neuveville
@@ -563,8 +561,7 @@ Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 **Beschreibung:** \
 Die CGN betreibt verschiedene Schiffsfahrten auf dem Genfersee.
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Routen gültig.
-Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
+FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Routen gültig. Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 
 - Genève (Genf)
 - Nyon
@@ -588,8 +585,7 @@ Die LNM betreibt Schiffsfahrten auf dem Neuenburgersee und Murtensee mit den Rou
 - Neuchâtel – Murten
 - Neuchâtel – Biel/Bienne
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig.
-Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
+FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig. Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 
 - Neuchâtel
 - Estavayer
