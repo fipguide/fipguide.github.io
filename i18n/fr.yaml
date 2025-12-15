@@ -2,12 +2,14 @@ anchorLink:
   copied: Le lien a été copié dans le presse-papiers
   copy: Copier le lien vers cette section
 booking:
+  bookable: réservable
   classes:
     first: 1re classe
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-global-fare: Tarif Global FIP
+  not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
@@ -34,6 +36,7 @@ footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
 highlight:
+  confusion: Risque de confusion
   important: Informations importantes
   inofficial: Informations non officielles
   tip: Conseil personnel
@@ -113,6 +116,21 @@ support:
     le <a href="/fr/contact">formulaire de contact</a>.
   title: Soutenez-nous
 toc_name: Sommaire
+trainCategory:
+  acceptance:
+    accepted: FIP accepté
+    notAccepted: FIP non accepté
+    partiallyAccepted: FIP partiellement accepté
+  additionalInformation: Informations complémentaires
+  importantInformation: Informations importantes
+  reservation:
+    notPossible: Aucune réservation possible
+    partiallyPossible: Réservation partiellement possible
+    partiallyRequired: Réservation partiellement requise
+    possible: Réservation possible
+    required: Réservation requise
+  riskOfConfusion: Risque de confusion
+  routeOverview: Aperçu de l'itinéraire
 updateDate:
   aria-label: Ouvrir l'historique des commits de la page
   label: Dernière mise à jour
