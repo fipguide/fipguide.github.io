@@ -118,7 +118,9 @@ Im Detail unterscheidet man zwischen zwei Arten von _Grenztarifpunkten_:
 - **Grenzbahnhof**: Dies ist ein echter physischer Bahnhof. Bis zu diesem Halt kann man von beiden angrenzenden Ländern mit einem Zugticket fahren. Beispiele dafür sind Salzburg Hbf, Basel Badischer Bahnhof oder Konstanz.
 - **Grenztarifpunkt**: Dies ist ein "virtueller" Bahnhof, der nur in der Theorie existiert, um die Gültigkeit von Fahrkarten zu bestimmen. Sie befinden sich auf der freien Strecke. Hierbei wird daher sowohl ein Ticket vor als auch hinter diesen Grenztarifpunkt benötigt. Grenztarifpunkte sind in der Übersicht im Regelfall mit "(Gr)" oder "(fr)" für Grenze / frontière gekennzeichnet.
 
-Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft ausgestellt wird, kann ein FIP 50 Ticket für mehrere Bahngesellschaften ausgestellt werden. Welche Bahngesellschaften an der Fahrt dann beteiligt sind, spielt nicht direkt eine Rolle, solange Start und Ziel richtig sind und die Bahngesellschaften FIP allgemein akzeptieren.
+Weitere Informationen zu Grenztarifpunkten sind auf [Wikipedia](https://de.wikipedia.org/wiki/Grenztarifpunkt) zu finden.
+
+Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft ausgestellt wird, kann ein FIP 50 Ticket für mehrere Bahngesellschaften ausgestellt werden. Bei welchen Bahngesellschaften das Ticket genau akzeptiert wird, ist ab CIV-Code ablesbar (Weitere Informationen dazu auf [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)). In der Regel sind das bei grenzüberschreitenden Verbindungen die beiden Bahngesellschaften die FIP-Tickets auf der Strecke akzeptieren bzw. für die Betreiber der Züge für die das Tickets gekauft wurde.
 
 Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern bzw. Bahngesellschaften bestehen sind im FIP Guide auf der jeweiligen Länderseite aufgeführt.
 
