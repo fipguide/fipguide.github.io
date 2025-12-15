@@ -6,8 +6,6 @@ country:
 operator: "cfl"
 ---
 
-{{< wip >}}
-
 Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxemburgische Staatsbahn und die wichtigste Bahngesellschaft in Luxemburg.
 
 ## Zusammenfassung
