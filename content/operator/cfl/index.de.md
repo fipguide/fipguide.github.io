@@ -12,7 +12,7 @@ Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxembur
 
 ## Zusammenfassung
 
-- kostenfreie Fahrt auch ohne FIP in der zweiten Klasse
+- Kostenfreie Fahrt auch ohne FIP in der zweiten Klasse
 - Aufpreis für die erste Klasse möglich
 
 ## Gültigkeit FIP Tickets
@@ -22,7 +22,7 @@ FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
 {{< highlight important >}}
-Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabhängig von FIP an. Dies umfasst alle Zugverbindungen (außer TGV), Straßenbahnen und Busse. Die Fahrt mit der CFL ist somit in der zweiten Klasse kostenlos und es muss kein zusätzliches Ticket erworben werden. Die Fahrt in der ersten Klasse erfordert einen FIP Freifahrtschein oder FIP 50 Ticket der ersten Klasse. Für Fahrten über Luxemburg hinaus z. B. Richtung Deutschland oder Belgien wird eine Fahrkarte ab dem Grenztarifpunkt benötigt.
+Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabhängig von FIP an. Dies umfasst alle Zugverbindungen (außer TGV), Straßenbahnen und Busse. Die Fahrt mit der CFL ist somit in der zweiten Klasse kostenlos und es muss kein zusätzliches Ticket erworben werden. Die Fahrt in der ersten Klasse erfordert einen FIP Freifahrtschein oder FIP 50 Ticket der ersten Klasse. Für Fahrten über Luxemburg hinaus z. B. Richtung Deutschland oder Belgien wird eine Fahrkarte ab dem Grenztarifpunkt benötigt. Das bedeutet, dass beispielsweise ein durchgehendes Ticket, ein gültiger Freifahrtschein oder eine nationale Fahrvergünstigung bei Fahrten nach Deutschland nötig sind, um bis ins Nachbarland zu fahren. Eine Fahrkarte ab dem ersten Bahnhof nach der Grenze ist nicht ausreichend.
 {{< /highlight >}}
 
 ## Zugkategorien und Reservierungen
@@ -42,7 +42,7 @@ InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
 **Beschreibung:**\
 Züge mit Halt an manchen Stationen.
 
-**Reservierung möglich:** Nein \
+**Reservierung möglich:** Nein
 
 {{% /expander %}}
 
@@ -51,7 +51,7 @@ Züge mit Halt an manchen Stationen.
 **Beschreibung:**\
 Züge mit Halt an allen Stationen.
 
-**Reservierung möglich:** Nein \
+**Reservierung möglich:** Nein
 
 {{% /expander %}}
 
@@ -60,7 +60,7 @@ Züge mit Halt an allen Stationen.
 **Beschreibung:**\
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.
 
-**Reservierung möglich:** Nein \
+**Reservierung möglich:** Nein
 
 {{% /expander %}}
 
@@ -69,7 +69,7 @@ Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP,
 **Beschreibung:**\
 Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.
 
-**Reservierung möglich:** Nein \
+**Reservierung möglich:** Nein
 
 {{% /expander %}}
 
@@ -78,10 +78,14 @@ Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Um
 Der Ticketkauf ist nur für die erste Klasse relevant.
 
 {{% highlight tip %}}
-Die CFL bietet günstige Ticketoptionen für die erste Klasse bereits ab 3 € an. Diese Tickets sind nicht streckenabhängig sondern gelten für einen bestimmten Zeitraum für das gesamte Streckennetz. Diese Tickets können (z. B. durch Buchungsgebühren) günstiger sein als FIP 50 Tickets der ersten Klasse. Weitere Informationen auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/national)
+Die CFL bietet günstige Ticketoptionen für die erste Klasse bereits ab 3 € an. Diese Tickets sind nicht streckenabhängig, sondern gelten für einen bestimmten Zeitraum für das gesamte Streckennetz. Diese Tickets können (z. B. durch Buchungsgebühren) günstiger sein als FIP 50 Tickets der ersten Klasse. Weitere Informationen auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/national)
 {{% /highlight %}}
 
 ### Online
+
+{{% booking id="db-website-fip-international"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Luxemburg für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+/%}}
 
 {{% booking id="sncb-website"
 subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
@@ -112,7 +116,7 @@ In der zweiten Klasse ist die Fahrt generell kostenfrei möglich, daher ist dies
 ### CFL Bus Luxemburg - Saarbrücken
 
 Im Expressbus der CFL zwischen Luxemburg und Saarbrücken ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/saarbrueckenexpress/1000) eingesehen werden. \
-Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informationen bekannt.
+Es gibt auf dieser Verbindung keine weiteren FIP-Vergünstigungen.
 
 ### CFL Bus Lorraine Express
 
