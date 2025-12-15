@@ -23,7 +23,8 @@ Les réductions FIP s'appliquent souvent uniquement au transport ferroviaire et 
 Lors de l'utilisation des réductions FIP, il importe de savoir quelle entreprise ferroviaire exploite le train. Il existe des trains coopératifs transfrontaliers exploités par différentes entreprises ferroviaires dans deux pays (par exemple, de nombreuses liaisons `EC`). Les [pages par pays dans le Guide FIP]({{% ref "/country" %}} "Pages par pays dans le Guide FIP" ) expliquent comment découvrir qui exploite un train dans chaque pays. En général, les sites web des opérateurs sont également utiles. Le [site de la Deutsche Bahn](https://bahn.de) affiche de nombreuses liaisons européennes et leurs opérateurs.
 
 {{% highlight important %}}
-À titre tarifaire, ce qui importe généralement n'est pas le pays par lequel circule un train, mais quelle entreprise ferroviaire exploite le train sur quel segment. Cependant, les changements d'opérateur se produisent souvent aux frontières nationales. Les pages nationales concernées décrivent les points frontières où les changements d'opérateur se produisent. Il y a aussi des exceptions ici : par exemple, certains trains Nightjet sont exploités par ÖBB sur l'ensemble de leur trajet, mais vous aurez besoin de Coupons FIP pour tous les pays que vous traversez.
+À titre tarifaire, ce qui importe généralement n'est pas le pays par lequel circule un train, mais quelle entreprise ferroviaire exploite le train sur quel segment. Cependant, les changements d'opérateur se produisent souvent aux frontières nationales. Les pages nationales concernées décrivent les points frontières où les changements d'opérateur se produisent.
+Il y a aussi des exceptions ici : par exemple, certains trains Nightjet sont exploités par ÖBB sur l'ensemble de leur trajet, mais vous aurez besoin de Coupons FIP pour tous les pays que vous traversez.
 {{% /highlight %}}
 
 ## Carte FIP
@@ -98,7 +99,7 @@ Les réductions FIP ne s'appliquent jamais sur les trains exploités par votre p
 
 {{% expander "Deutsche Bahn (DB)" info "national" %}}
 
-Les employés de Deutsche Bahn peuvent utiliser les réductions nationales pour voyager jusqu'au [point tarifaire frontière](#points-frontiere). Pour cela, un Tagesticket M Fern (Billet Journalier M Longue Distance) ou une Netzcard (Carte Réseau) peuvent être utilisés. Ceux-ci sont valables sur tout le réseau et donc jusqu'au point tarifaire frontière vers les pays voisins.
+Les employés de Deutsche Bahn peuvent utiliser les réductions nationales pour voyager jusqu'au [point tarifaire frontière](#points-frontières). Pour cela, un Tagesticket M Fern (Billet Journalier M Longue Distance) ou une Netzcard (Carte Réseau) peuvent être utilisés. Ceux-ci sont valables sur tout le réseau et donc jusqu'au point tarifaire frontière vers les pays voisins.
 
 Dans certains cas, d'autres billets valables pour le segment entier offrent des alternatives moins chères au FIP. Ceux-ci comprennent (Super) Sparpreise Europa DB-PEP (uniquement en combinaison avec un voyageur avec FIP, voir conditions d'utilisation) ou les (Super) Sparpreise réguliers (tarifs de réduction). Plus d'informations peuvent être trouvées sur le DB Reisemarkt et le portail des employés DB.
 
@@ -119,7 +120,7 @@ En détail, deux types de _points tarifaires frontière_ sont distingués :
 
 Plus d'informations sur les points tarifaires frontière peuvent être trouvées sur [Wikipedia](https://de.wikipedia.org/wiki/Grenztarifpunkt).
 
-Tandis qu'un Coupon FIP est toujours émis pour exactement une entreprise ferroviaire, un Billet FIP 50 peut être émis pour plusieurs entreprises ferroviaires. Quelles entreprises ferroviaires acceptent exactement le billet peut être déterminé à partir du code CIV (plus d'informations sur [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)). En règle générale, pour les liaisons transfrontalières, ce sont les deux entreprises ferroviaires qui acceptent les billets FIP sur l'itinéraire ou les opérateurs des trains pour lesquels le billet a été acheté.
+Tandis qu'un Coupon FIP est toujours émis pour exactement une entreprise ferroviaire, un Billet FIP 50 peut être émis pour plusieurs entreprises ferroviaires. Quelles entreprises ferroviaires acceptent exactement le billet peut être déterminé à partir du code CIV (plus d'informations sur [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)).
 
 Quels gares frontières et points tarifaires frontière existent entre deux pays ou entreprises ferroviaires sont listés dans le Guide FIP sur la page du pays respectif.
 
@@ -134,7 +135,7 @@ J'ai donc besoin d'un billet supplémentaire pour le voyage entre Francfort Hbf 
 {{% expander "Exemple de gestion des points frontières" info %}}
 Je suis éligible au FIP auprès de Deutsche Bahn et je veux voyager de Francfort-sur-le-Main à Copenhague le 01.03.2026. J'ai deux options : soit commander un Coupon FIP pour DSB, soit réserver un Billet FIP 50 de Francfort Hbf à Kobenhavn H. Les deux ne sont valables que pour la section danoise car je ne peux pas utiliser le FIP en Allemagne. Le voyage se déroule généralement via le point frontière Padborg (Gr), qui n'est qu'un point frontière virtuel entre Flensbourg et Padborg, pas une vraie gare ferroviaire.
 
-J'ai donc besoin d'un billet supplémentaire pour le voyage entre Francfort Hbf et ce point frontière, tel qu'un billet acheté régulièrement jusqu'à la première gare danoise Padborg ou une réduction pour le personnel DB en Allemagne qui est valable jusqu'à la frontière. Un billet, par exemple, jusqu'à la dernière gare allemande (Schleswig) où le train s'arrête, ou jusqu'à Flensbourg ne suffit pas. À partir du point frontière, le coupon ÖBB et le Billet FIP 50 sont valables.
+J'ai donc besoin d'un billet supplémentaire pour le voyage entre Francfort Hbf et ce point frontière, tel qu'un billet acheté régulièrement jusqu'à la première gare danoise Padborg ou une réduction pour le personnel DB en Allemagne qui est valable jusqu'à la frontière. Un billet, par exemple, jusqu'à la dernière gare allemande (Schleswig) où le train s'arrête, ou jusqu'à Flensbourg ne suffit pas. À partir du point frontière, le coupon DSB et le Billet FIP 50 sont valables.
 
 ![Exemple graphique point frontière](borderpoint.fr.webp)
 {{% /expander %}}

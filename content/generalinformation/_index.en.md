@@ -23,7 +23,8 @@ FIP discounts often apply only to rail travel and not to buses, subways, or tram
 When using FIP discounts, it matters which railway company operates the train. There are cross-border cooperative trains that are operated by different railway companies in two countries (e.g., many `EC` connections). The [country pages in the FIP Guide]({{% ref "/country" %}} "Country pages in the FIP Guide" ) explain how to find out who operates a train in each country. In general, the operators' websites are also helpful. The [Deutsche Bahn website](https://bahn.de) shows many European connections and their operators.
 
 {{% highlight important %}}
-For tariff purposes, what usually matters is not which country a train is traveling through, but which railway company operates the train on which segment. However, operator changes often occur at national borders. The relevant country pages describe the border points where operator changes occur. There are exceptions here too: for example, some Nightjet trains are operated by ÖBB for their entire route, but you will need FIP Coupon for all countries you pass through.
+For tariff purposes, what usually matters is not which country a train is traveling through, but which railway company operates the train on which segment. However, operator changes often occur at national borders. The relevant country pages describe the border points where operator changes occur.
+There are exceptions here too: for example, some Nightjet trains are operated by ÖBB for their entire route, but you will need FIP Coupon for all countries you pass through.
 {{% /highlight %}}
 
 ## FIP Card
@@ -119,7 +120,7 @@ In detail, two types of _border tariff points_ are distinguished:
 
 Further information on border tariff points can be found on [Wikipedia](https://de.wikipedia.org/wiki/Grenztarifpunkt).
 
-While an FIP Coupon is always issued for exactly one railway company, an FIP 50 Ticket can be issued for multiple railway companies. Which railway companies exactly accept the ticket can be determined from the CIV code (more information on [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)). As a rule, for cross-border connections, these are the two railway companies that accept FIP tickets on the route or the operators of the trains for which the ticket was purchased.
+While an FIP Coupon is always issued for exactly one railway company, an FIP 50 Ticket can be issued for multiple railway companies. Which railway companies exactly accept the ticket can be determined from the CIV code (more information on [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)).
 
 Which border stations and border tariff points exist between two countries or railway companies are listed in the FIP Guide on the respective country page.
 
@@ -134,7 +135,7 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 {{% expander "Example of dealing with border points" info %}}
 I am FIP-eligible at Deutsche Bahn and want to travel from Frankfurt am Main to Copenhagen on 01.03.2026. I have two options: either order an FIP Coupon for DSB or book an FIP 50 Ticket from Frankfurt Hbf to Kobenhavn H. Both are only valid for the Danish section since I cannot use FIP in Germany. The journey typically goes via the border point Padborg (Gr), which is only a virtual border point between Flensburg and Padborg, not an actual railway station.
 
-I therefore need an additional ticket for the journey between Frankfurt Hbf and this border point, such as a regularly purchased ticket to the first Danish station Padborg or an employee discount for DB staff within Germany that is valid up to the border. A ticket, for example, to the last German station (Schleswig) where the train stops, or to Flensburg is not sufficient. From the border point onwards, both the ÖBB coupon and the FIP 50 Ticket are valid.
+I therefore need an additional ticket for the journey between Frankfurt Hbf and this border point, such as a regularly purchased ticket to the first Danish station Padborg or an employee discount for DB staff within Germany that is valid up to the border. A ticket, for example, to the last German station (Schleswig) where the train stops, or to Flensburg is not sufficient. From the border point onwards, both the DSB coupon and the FIP 50 Ticket are valid.
 
 ![Example graphic border point](borderpoint.en.webp)
 {{% /expander %}}

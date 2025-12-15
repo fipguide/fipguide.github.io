@@ -11,7 +11,7 @@ FIP steht für _Groupement pour les facilités de circulation internationales du
 Damit FIP Fahrvergünstigungen genutzt werden können, muss die Berechtigung für die Nutzung von FIP vorliegen. Im Regelfall ist dies nach einem Jahr Firmenzugehörigkeit gegeben, jedoch sind abweichende Regeln je nach Arbeitgeber möglich.
 
 {{% highlight important %}}
-Im Folgenden erkären wir die allgemeinen FIP Grundlagen. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor einer Reise solltest du dich immer mit den Regeln des jeweiligen Eisenbahnverkehrsunternehmens in dem Land vertraut machen. Dabei hilft der FIP Guide:
+Im Folgenden erklären wir die allgemeinen FIP Grundlagen. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor einer Reise solltest du dich immer mit den Regeln des jeweiligen Eisenbahnverkehrsunternehmens in dem Land vertraut machen. Dabei hilft der FIP Guide:
 
 [Übersicht der Bahngesellschaften]({{% ref "/operator"%}} "Übersicht Bahngesellschaften" )
 
@@ -110,7 +110,7 @@ Teilweise sind andere Tickets, die auf dem gesamten Abschnitt gelten, günstiger
 FIP Freifahrtscheine gelten im Regelfall nur im Land/Netz der jeweiligen Bahngesellschaft. Die Gültigkeit des FIP Freifahrtscheins ist offiziell bis zum sogenannten _Grenztarifpunkt_.
 
 {{% highlight important %}}
-Es wird immer ein Ticket bis zur Grenze benötigt. FIP Freifahrtscheine sind nur im Land/Netz der jeweiligen Bahngesellschaft gültig. Die Grenze ist dabei nicht immer der letzte Bahnhof im Land. Es reicht also unter Umständen nicht aus, ein Ticket bis zum letzten Bahnhof zu kaufen. Das ist insbesonders dann relevant, wenn das eigene Heimatland verlassen wird, da in diesem keine FIP Tickets gelten.
+Es wird immer ein Ticket bis zur Grenze benötigt. FIP Freifahrtscheine sind nur im Land/Netz der jeweiligen Bahngesellschaft gültig. Die Grenze ist dabei nicht immer der letzte Bahnhof im Land. Es reicht also unter Umständen nicht aus, ein Ticket bis zum letzten Bahnhof zu kaufen. Das ist insbesondere dann relevant, wenn das eigene Heimatland verlassen wird, da in diesem keine FIP Tickets gelten.
 {{% /highlight %}}
 
 Im Detail unterscheidet man zwischen zwei Arten von _Grenztarifpunkten_:
@@ -120,7 +120,7 @@ Im Detail unterscheidet man zwischen zwei Arten von _Grenztarifpunkten_:
 
 Weitere Informationen zu Grenztarifpunkten sind auf [Wikipedia](https://de.wikipedia.org/wiki/Grenztarifpunkt) zu finden.
 
-Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft ausgestellt wird, kann ein FIP 50 Ticket für mehrere Bahngesellschaften ausgestellt werden. Bei welchen Bahngesellschaften das Ticket genau akzeptiert wird, ist ab CIV-Code ablesbar (Weitere Informationen dazu auf [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)). In der Regel sind das bei grenzüberschreitenden Verbindungen die beiden Bahngesellschaften die FIP-Tickets auf der Strecke akzeptieren bzw. für die Betreiber der Züge für die das Tickets gekauft wurde.
+Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft ausgestellt wird, kann ein FIP 50 Ticket für mehrere Bahngesellschaften ausgestellt werden. Bei welchen Bahngesellschaften das Ticket akzeptiert wird, ist am CIV-Code ablesbar (Weitere Informationen dazu auf [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsamer_Internationaler_Tarif_f%C3%BCr_die_Bef%C3%B6rderung_von_Personen)).
 
 Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern bzw. Bahngesellschaften bestehen sind im FIP Guide auf der jeweiligen Länderseite aufgeführt.
 
@@ -135,7 +135,7 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 {{% expander "Beispiel für den Umgang mit Grenzpunkten" info %}}
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Kopenhagen fahren. Dafür gibt es die Möglichkeit, entweder einen FIP Freifahrtschein für die DSB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Kobenhavn H zu buchen. Beide gelten nur für den dänischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über die Grenze Padborg (Gr), was nur ein virtueller Grenzpunkt zwischen Flensburg und Padborg ist, jedoch kein echter Bahnhof.
 
-Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland (Schleswig), an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
+Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeiter innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland (Schleswig), an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der DSB Freifahrtschein als auch das FIP 50 Ticket.
 
 ![Beispiel Grafik Grenzpunkt](borderpoint.de.webp)
 {{% /expander %}}
@@ -146,7 +146,7 @@ Für Mitarbeitende in einigen Ländern ist eine zusätzliche Versteuerung von FI
 
 {{% expander "Deutschland" info "tax" %}}
 
-FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vorteil_ und unterliegen § 8 des Einkommensteuergesetzes (EStG). Die FIP Freifachtscheine sind somit steuer- und sozialversicherungspflichtig.
+FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vorteil_ und unterliegen § 8 des Einkommensteuergesetzes (EStG). Die FIP Freifahrtscheine sind somit steuer- und sozialversicherungspflichtig.
 
 Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im DB Reisemarkt oder DB Personalportal verfügbar.
 
