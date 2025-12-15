@@ -1,5 +1,3 @@
-<div class="m-text-highlight">
-  <div>
-    {{ T "wip" | .Page.RenderString }}
-  </div>
-</div>
+{{- partial "highlight"
+  (dict "Content" (T "wip" | .Page.RenderString))
+-}}
