@@ -14,7 +14,7 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschl
 
 ## Zusammenfassung
 
-- Keine Reservierungspflicht
+- Keine Reservierungspflicht im nationalen Verkehr
 - Im Regionalverkehr viele private Betreiber ohne FIP
 
 ## Gültigkeit FIP Tickets
@@ -52,17 +52,17 @@ Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der 
 
 {{% expander "Railjet (RJ) / Railjet Xpress (RJX)" traincategory "long-distance" %}}
 **Beschreibung:** \
-Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden und Prag sowie München, Österreich und Italien. Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
+Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden und Prag sowie München, Österreich und Italien oder Ungarn. Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
 
 Es gibt drei Wagenklassen:
 
-- **Economy**: Vergleichbar mit der 2. Klasse. Innerhalb von Deutschland gelten in dieser Klasse Tickets der 2. Klasse \
-- **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. Innerhalb von Deutschland gelten in dieser Klasse Tickets der 1. Klasse \
-- **Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar; auch nicht mit dem dazugehörigen Zuschlag.
+- **Economy**: Vergleichbar mit der 2. Klasse. Innerhalb von Deutschland gelten in dieser Klasse Tickets der 2. Klasse
+- **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. Innerhalb von Deutschland gelten in dieser Klasse Tickets der 1. Klasse
+- **Business**: 1. Klasse mit Begrüßungsgetränk (erst ab Österreich / Tschechien) und eigenen Abteilen. Mit FIP Freifahrtschein außerhalb von Deutschland nicht nutzbar, auch nicht mit dem dazugehörigen Zuschlag. Innerhalb von Deutschland sind die Bereiche mit einem 1. Klasse Ticket nutzbar.
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Für Railjets nach italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Verkehr nach Italien bei der ÖBB]({{< ref "/operator/oebb#verkehr-nach-italien" >}} "Verkehr nach Italien bei der ÖBB")). \
+Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Verkehr nach Italien bei der ÖBB]({{< ref "/operator/oebb#verkehr-nach-italien" >}} "Verkehr nach Italien bei der ÖBB")). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -76,9 +76,9 @@ Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit ge
 
 {{% expander "Eurocity-Express (ECE) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:**
-Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich.
+Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie vielen Zügen auf der Route Hamburg - Kopenhagen genutzt.
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung Italien:**
 
@@ -205,11 +205,11 @@ Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwisch
 Begleitende Kinder im Alter von 6 bis 14 Jahren dürfen kostenlos mit einem FIP-Inhaber reisen, sofern
 
 - der FIP-Inhaber mindestens 15 Jahre alt ist und
-- über ein gültiges Ticket (z.B. FIP 50 Ticket) oder einen FIP Freifahrtschein verfügt.[^1]
+- über ein gültiges Ticket (z. B. FIP 50 Ticket) oder einen FIP Freifahrtschein verfügt.[^1]
 
 Die kostenlos mitreisenden Kinder müssen nicht mit dem begleitenden Erwachsenen verwandt sein.
 
-In Nahverkehrszügen können bis zu 3 Kinden mitgenommen werden und in Fernverkehszügen bis zu 4 Kinder. (Bei FIP 50 Tickets die einen Abschnitt im Fernverkehrhaben, kann auch in den angegebenen Nahverkehrszügen bis zu 4 Kinder mitgenommen werden.)
+In Nahverkehrszügen können bis zu 3 Kinder mitgenommen werden und in Fernverkehszügen bis zu 4 Kinder. Bei FIP 50 Tickets, die einen Abschnitt im Fernverkehr haben, können auch in den angegebenen Nahverkehrszügen bis zu 4 Kinder mitgenommen werden.
 
 Kostenlos mitreisende Kinder müssen nicht auf dem Ticket eingetragen werden. Bei FIP 50 Tickets empfiehlt es sich trotzdem, diese kostenlos mitzubuchen, um Probleme bei der Fahrtkartenkontrolle zu vermeiden.
 
@@ -226,9 +226,9 @@ Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fa
 
 ### Fahrten in Verkehrsverbünden
 
-Deutschland ist in sogenannte _Verkehrsverbünde_ (kombinierte Tarifstruktur) gegliedert. Diese sind öffentliche Gesellschaften die den Nahverkehr in der entsprechenden Region übergreifend für alle Betreiber organisieren. Sie sind auch für Ausgestaltung von Ticketpreisen und Tarifen zuständig. Die Fahrt mit FIP Vergünstigungen in nur einem Verkehrsverbund ist in der Regel nicht zulässig. Eine Reise muss sich immer mindestens über zwei Verkehrsverbünde strecken, da in diesem Fall Tarife und Tickets von Betreibern angeboten werden dürfen. Es kann Ausnahmen geben, die beim jeweiligen Verkehrsverbund oder lokalen Ticketschaltern erfragt werden können. [^1]
+Deutschland ist in sogenannte _Verkehrsverbünde_ (kombinierte Tarifstruktur) gegliedert. Diese sind öffentliche Gesellschaften, die den Nahverkehr in der entsprechenden Region übergreifend für alle Betreiber organisieren. Sie sind auch für die Ausgestaltung von Ticketpreisen und Tarifen zuständig. Die Fahrt mit FIP Vergünstigungen in nur einem Verkehrsverbund ist in der Regel nicht zulässig. Eine Reise muss sich immer mindestens über zwei Verkehrsverbünde erstrecken, da in diesem Fall Tarife und Tickets von Betreibern angeboten werden dürfen. Es kann Ausnahmen geben, die beim jeweiligen Verkehrsverbund oder lokalen Ticketschaltern erfragt werden können. [^1]
 
-Bei FIP 50 Tickets müssen daher als Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden sein. Dies gilt auch be Reisen mit FIP Freifahrtschein.
+Bei FIP 50 Tickets müssen daher Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden liegen. Dies gilt auch be Reisen mit FIP Freifahrtschein.
 
 {{% highlight tip %}}
 Eine Übersicht über alle Verkehrsverbünde ist auf [Wikipedia](https://de.wikipedia.org/wiki/Liste_deutscher_Tarif-_und_Verkehrsverb%C3%BCnde) verfügbar.
@@ -258,6 +258,7 @@ Busse sind ausgeschlossen von FIP-Vergünstigungen, außer sie ersetzen einen Zu
 
 ## Empfehlungen
 
+Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig. 
 <!--
   Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
 -->
