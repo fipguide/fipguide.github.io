@@ -36,84 +36,138 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 ### Grandes lignes
 
-{{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
-**Description :** \
-Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). [Aperçu des lignes](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
+{{% train-category
+  title="Train à grande vitesse inOui (TGV inOui)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
+%}}
+Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
 
-ℹ️ La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
+{{% highlight confusion %}}
+La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
+{{% /highlight %}}
 
-⚠️ Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux). \
-**Réservation possible :** oui \
-**Réservation obligatoire :** oui ⚠️ \
-**Prix de la réservation :** \
-Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
+{{% highlight important %}}
+Des conditions particulières s'appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
 
-Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
-{{% /expander %}}
+{{% /highlight %}}
 
-{{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
-**Description :** \
+### Réservation
+
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n'est malheureusement pas accessible publiquement.
+
+|                   | 1ʳᵉ classe | 2ᵉ classe |
+| ----------------- | ---------- | --------- |
+| National Off-peak | 2 €        | 2 €       |
+| National Peak     | 16 €       | 16 €      |
+| International     | 40 €       | 20 €      |
+
+{{% /train-category %}}
+
+{{% train-category
+  title="OUIGO (Grande Vitesse / Train Classique)"
+  type="highspeed"
+  fip_accepted=false
+  reservation_required=true
+%}}
+
 OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
 
-ℹ️ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** oui ⚠️ \
-**FIP :** ⛔ FIP non accepté
-{{% /expander %}}
+{{% highlight confusion %}}
+La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
+{{% /highlight %}}
+{{% /train-category %}}
 
-{{% expander "Intercity-Express (ICE) ⚠️" traincategory "long-distance" %}}
-**Description :** \
-Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort, Stuttgart, Munich).
+{{% train-category
+  title="Intercity-Express (ICE)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+%}}
+Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l'Allemagne (Karlsruhe, Mannheim, Francfort, Stuttgart, Munich).
 
-⚠️ Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux). \
-**Réservation possible :** oui \
-**Réservation obligatoire :** oui ⚠️ \
-**Prix de la réservation :** \
-Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
+{{% highlight important %}}
+Des conditions particulières s'appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
+{{% /highlight %}}
 
-Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
-{{% /expander %}}
+### Réservation
 
-{{% expander "Intercité (IC) ⚠️" traincategory "long-distance" %}}
-**Description :** \
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n'est malheureusement pas accessible publiquement.
+
+|                   | 1ʳᵉ classe | 2ᵉ classe |
+| ----------------- | ---------- | --------- |
+| National Off-peak | 2 €        | 2 €       |
+| National Peak     | 16 €       | 16 €      |
+| International     | 40 €       | 20 €      |
+
+{{% /train-category %}}
+
+{{% train-category
+  title="Intercité (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 Trains Intercités de la SNCF reliant différentes villes françaises, généralement à réservation obligatoire.
 
-La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En cas de doute, il faut vérifier auprès de la SNCF ou acheter une réservation. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** généralement ⚠️ \
-**Prix de la réservation :** \
-Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). Hors période de pointe, le prix de la réservation est de 2 € (1ʳᵉ/2ᵉ classe) ; en période de pointe : 16 € (1ʳᵉ classe) ou 11 € (2ᵉ classe). La classification des trains n’est malheureusement pas accessible publiquement.
+La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En cas de doute, il faut vérifier auprès de la SNCF ou acheter une réservation.
 
-Sur les liaisons internationales, le prix des réservations est de 40 € (1ʳᵉ classe) ou 20 € (2ᵉ classe).
-{{% /expander %}}
+### Réservation
 
-{{% expander "Intercité de nuit ⚠️" traincategory "long-distance" %}}
-**Description :** \
-Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** oui ⚠️ \
-**Prix de la réservation :** selon la ligne et l’affluence
-{{% /expander %}}
+Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n'est malheureusement pas accessible publiquement.
+
+|                   | 1ʳᵉ classe | 2ᵉ classe |
+| ----------------- | ---------- | --------- |
+| National Off-peak | 2 €        | 2 €       |
+| National Peak     | 16 €       | 16 €      |
+| International     | 40 €       | 20 €      |
+
+{{% /train-category %}}
+
+{{% train-category
+  title="Intercité de nuit"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+%}}
+Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025.
+
+### Réservation
+
+Selon la ligne et l'affluence.
+
+{{% /train-category %}}
 
 ### Trains régionaux
 
-{{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
-**Description :** \
+{{% train-category
+  title="Train express régional (TER)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 Le `TER` est le train régional reliant différentes villes françaises.
+Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter).
 
-ℹ️ Sur la ligne Marseille – Nice, Transdev exploite les trains, c'est pourquoi FIP n'est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l'exploitant est donc indispensable ici. \
-**Réservation possible :** parfois \
-**Réservation obligatoire :** parfois ⚠️ \
-Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter)
-{{% /expander %}}
+{{% highlight confusion %}}
+Sur la ligne Marseille – Nice, Transdev exploite les trains, c'est pourquoi FIP n'est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l'exploitant est donc indispensable ici.
+{{% /highlight %}}
+{{% /train-category %}}
 
-{{% expander "Réseau Express Régional (RER) ⚠️" traincategory "regional" %}}
-**Description :** \
+{{% train-category
+  title="Réseau Express Régional (RER)"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=false
+%}}
 Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région parisienne) et villes alentours.
 
-⚠️ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-France](#trains-en-île-de-france) \
-**Réservation possible :** non
-{{% /expander %}}
+{{% highlight important %}}
+FIP n'est valable que sur certains tronçons du RER, voir [Trains en Île-de-France](#trains-en-île-de-france)
+{{% /highlight %}}
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
@@ -182,17 +236,32 @@ Cette obligation s’applique aux lignes suivantes :
 
 ### Trains TGV inOui / ICE internationaux
 
-{{% expander "TGV/ICE vers l’Allemagne" info %}}
-Les trains TGV et ICE internationaux sont à réservation obligatoire sur la section française. En Allemagne, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
-{{% /expander %}}
+{{% train-category
+  title="TGV/ICE vers l'Allemagne"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=partially
+%}}
+Les trains TGV et ICE internationaux sont à réservation obligatoire sur la section française. En Allemagne, la réservation n'est pas obligatoire et les Coupons FIP sont valables.
+{{% /train-category %}}
 
-{{% expander "TGV vers l’Italie, l’Espagne et la Belgique" info %}}
-Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu’à 130 €). [^1]
-{{% /expander %}}
+{{% train-category
+  title="TGV vers l'Italie, l'Espagne et la Belgique"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Les trains TGV internationaux de la France vers l'Italie, l'Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d'acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu'à 130 €).
+{{% /train-category %}}
 
-{{% expander "TGV Lyria vers la Suisse" info %}}
-Les trains TGV Lyria internationaux de la France vers la Suisse sont à réservation obligatoire sur la section française et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP. En Suisse, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
-{{% /expander %}}
+{{% train-category
+  title="TGV Lyria vers la Suisse"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=partially
+%}}
+Les trains TGV Lyria internationaux de la France vers la Suisse sont à réservation obligatoire sur la section française et les Coupons FIP ne sont pas valables. Il est possible d'acheter des Tarifs Globaux FIP. En Suisse, la réservation n'est pas obligatoire et les Coupons FIP sont valables.
+{{% /train-category %}}
 
 ### Trains en Île-de-France
 
@@ -200,25 +269,40 @@ Les trains TGV Lyria internationaux de la France vers la Suisse sont à réserva
 
 La RATP exploite le métro de Paris, des lignes de bus et une partie du réseau tram/RER. La SNCF exploite le reste du réseau RER et certaines lignes de tram. Les réductions FIP ne sont pas valables sur les services RATP.
 
-{{% expander "Trains RER" info %}}
+{{% train-category
+  title="Trains RER"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+%}}
 Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont valables sur les sections suivantes :
 
-- RER ligne A – uniquement les branches A3 & A5 à l’ouest de Nanterre Préfecture jusqu’à Poissy ou Cergy-le-Haut
-- RER ligne B – uniquement les branches B3 & B5 au nord de Gare du Nord jusqu’à Aéroport Charles de Gaulle ou Mitry-Claye
+- RER ligne A – uniquement les branches A3 & A5 à l'ouest de Nanterre Préfecture jusqu'à Poissy ou Cergy-le-Haut
+- RER ligne B – uniquement les branches B3 & B5 au nord de Gare du Nord jusqu'à Aéroport Charles de Gaulle ou Mitry-Claye
 - RER ligne C – toute la ligne
 - RER ligne D – toute la ligne
 - RER ligne E – toute la ligne
 
 Attention : pour les trajets entre Gare du Nord et Châtelet – Les Halles, seule la ligne RER D exploitée par la SNCF est valable. Les réductions FIP ne sont pas valables sur la ligne RER B exploitée par la RATP sur le même tronçon.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Trains Transilien" info %}}
+{{% train-category
+  title="Trains Transilien"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=nil
+%}}
 Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N, P, R, U et V.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Tramways" info %}}
+{{% train-category
+  title="Tramways"
+  type="tram"
+  fip_accepted=partially
+  reservation_possible=nil
+%}}
 Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis et accessibles avec FIP aussi. Les autres tramways ne sont pas valables avec FIP.
-{{% /expander %}}
+{{% /train-category %}}
 
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
 
