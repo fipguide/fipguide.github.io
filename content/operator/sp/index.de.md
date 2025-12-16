@@ -30,8 +30,12 @@ Bei den folgenden Betreibern wird FIP akzeptiert:
 
 ### Zug- und Busbetreiber
 
-{{% expander "Appenzeller Bahnen (AB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Appenzeller Bahnen (AB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Appenzeller Bahnen betreiben ein Netz von Eisenbahnen in den Kantonen Appenzell Innerrhoden, Appenzell Ausserrhoden, St. Gallen und Thurgau. Dabei gibt es Verkehre in Normal-, Schmal- und Meterspur. Auch Zahnradabschnitte gibt es im Streckennetz. Zudem werden einzelne Busse eingesetzt.
 
 Alle diese Verkehre können mit FIP genutzt werden.
@@ -45,11 +49,14 @@ Alle diese Verkehre können mit FIP genutzt werden.
 - Rorschach – Heiden
 - Rheineck – Walzenhausen
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Aare Seeland mobil (ASM)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Aare Seeland mobil (ASM)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Das Verkehrsunternehmen Aare Seeland mobil betreibt mehrere Meterspur-Linien in der Schweiz. Außerdem werden im Busverkehr eine große Anzahl an Linienbussen betrieben.
 
 Alle diese Verkehre können mit FIP genutzt werden.
@@ -62,11 +69,14 @@ Alle diese Verkehre können mit FIP genutzt werden.
 - Solothurn – Niederbipp – Oensingen
 - Ligerz – Tessenberg (Seilbahn)
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Aargau Verkehr AG (AVA)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Aargau Verkehr AG (AVA)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Das Verkehrsunternehmen Aargau Verkehr AG entstand durch die Fusion der BDWM Transport (BDWM) und Wynental- und Suhrentalbahn (WSB). Das Streckennetz umfasst drei meterspurige Straßenbahn- / Eisenbahnstrecken in den Kantonen Aargau und Zürich sowie mehrere Linien im Busverkehr.
 
 Während auf den im Folgenden genannten Bahnstrecken und im Busverkehr FIP-Vergünstigungen gültig sind, ist uns unbekannt ob FIP auf der Limmattalbahn, die als Straßenbahn zwischen Zürich Altstetten und Killwangen-Spreitenbach verkehrt, gültig ist.
@@ -77,11 +87,14 @@ Während auf den im Folgenden genannten Bahnstrecken und im Busverkehr FIP-Verg�
 - Schöftland – Aarau – Menziken – Burg
 - Aarau – Schöftland
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Baselland Transport (BLT)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Baselland Transport (BLT)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Baselland Transport AG betreibt einzelne Straßenbahnen und Busse im Linienverkehr im Raum Basel. Während auf den Buslinien überall FIP gültig ist, ist uns dies bei den Straßenbahnen nicht bekannt. Nur die unten stehenden Strecken können gesichert mit FIP genutzt werden.
 
 **Linien im Bahnverkehr:**
@@ -89,11 +102,14 @@ Die Baselland Transport AG betreibt einzelne Straßenbahnen und Busse im Linienv
 - Dornach – Arlesheim – Basel – Rodersdorf
 - Liestal – Waldenburg
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Chemins de fer du Jura (CJ)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Chemins de fer du Jura (CJ)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Chemins de fer du Jura, auf deutsch Jurabahnen, sind eine Eisenbahngesellschaft im Jura in der Schweiz. Neben einer Normalspurstrecke betreiben sie mehrere Strecken in Meterspur. Auch Buslinien werden durch sie betrieben.
 
 Alle diese Verkehre können mit FIP genutzt werden.
@@ -104,13 +120,20 @@ Alle diese Verkehre können mit FIP genutzt werden.
 - Tavannes – Le Noirmont
 - Porrentruy – Bonfol
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Ferrovie Autolinee Regionali Ticinesi (FART) ⚠️" traincategory "category" %}}
-**Beschreibung:** \
-Die Ferrovie autolinee regionali ticinesi betreibt neben einigen Buslinien auch den Schweizer Abschnitt der Centovallibahn von Locarno nach Domodossola in Italien und zwei Kleinluftseilbahnen. \
-Auch wenn die Centovallibahn nach Italien führt, sind FIP-Tickets der SP auf der kompletten Strecke gültig, da der italienische Abschnitt von der SSIF, ebenfalls SP FIP-Mitglied, betrieben wird. Für den speziellen Treno Panoramico Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet) ist eine Reservierung erforderlich, siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision)
+{{% train-category
+    title="Ferrovie Autolinee Regionali Ticinesi (FART)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Die Ferrovie autolinee regionali ticinesi betreibt neben einigen Buslinien auch den Schweizer Abschnitt der Centovallibahn von Locarno nach Domodossola in Italien und zwei Kleinluftseilbahnen.
+
+Auch wenn die Centovallibahn nach Italien führt, sind FIP-Tickets der SP auf der kompletten Strecke gültig, da der italienische Abschnitt von der SSIF, ebenfalls SP FIP-Mitglied, betrieben wird.
+
+Eine Reservierung ist erforderlich für den speziellen Treno Panoramico Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet), siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision)
 
 Bei den Seilbahnen ist nicht bekannt, ob hier FIP anerkannt wird. Im Busverkehr wird FIP dagegen anerkannt.
 
@@ -118,34 +141,42 @@ Bei den Seilbahnen ist nicht bekannt, ob hier FIP anerkannt wird. Im Busverkehr 
 
 - Locarno (– Camedo – Domodossola)
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** ⚠️ Ja, für den Vigezzo Vision Panorama Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Forchbahn (FB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Forchbahn (FB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Forchbahn ist eine meterspurige Schmalspurbahn, die zwischen Zürich und Esslingen verkehrt. Innerhalb von Zürich fährt sie auf dem regulären Straßenbahnnetz, hält dabei aber als Schnelllinie nur an den wichtigsten Haltestellen. Sie ist als Linie S18 in das Netz der S-Bahn Zürich integriert. FIP ist auf der kompletten Strecke gültig.
 
 **Linien im Bahnverkehr:**
 
 - Zürich Stadelhofen – Esslingen
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Frauenfeld–Wild-Bahn (FW)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Frauenfeld–Wild-Bahn (FW)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Frauenfeld–Wild-Bahn ist eine meterspurige Schmalspurbahn, die zwischen Wil im Kanton St. Gallen und Frauenfeld im Thurgau verkehrt. FIP ist auf der kompletten Strecke gültig.
 
 **Linien im Bahnverkehr:**
 
 - Wil SG – Frauenfeld FW
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Jungfraubahn (JB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Jungfraubahn (JB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Die Jungfraubahn ist ein Konsortium von ehemals eigenständigen Privatbahnen, die rund um das Jungfraujoch verkehren. Es besteht aus den einzelnen Betreibern:
 
 - Grindelwald-First-Bahn (BGF)
@@ -180,11 +211,14 @@ Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 - Seilbahn Mürren – Allmendhubel (SMA)
 - Luftseilbahn Stechelberg – Mürren – Schilthorn (LSMS)
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports de la région Morges-Bière-Cossonay (MBC)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports de la région Morges-Bière-Cossonay (MBC)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die MBC sind eine regionale Verkehrsgesellschaft im Schweizer Kanton Waadt. Sie betreiben zwei Strecken in Meterspur, diverse Buslinien und eine Standseilbahn.
 
 Die Busse und Schmalspurbahnen können mit FIP genutzt werden, bei der Standseilbahn ist uns nicht bekannt, ob hier FIP anerkannt wird.
@@ -192,16 +226,20 @@ Die Busse und Schmalspurbahnen können mit FIP genutzt werden, bei der Standseil
 **Linien im Bahnverkehr:**
 
 - Bière – Apples – Morges
-- Apples – L’Isletou – Mont-la-Ville
+- Apples – L'Isletou – Mont-la-Ville
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Matterhorn Gotthard Bahn (MGB) ⚠️" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Matterhorn Gotthard Bahn (MGB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=partially
+    reservation_possible=true
+%}}
 Die Matterhorn Gotthard Bahn besitzt ein 144 Kilometer langes Streckennetz in den Kantonen Wallis, Uri und Graubünden. Während auf einigen Strecken alle FIP Vergünstigungen anerkannt werden, ist dies auf der Strecke zwischen Zermatt und Gornergrat nicht der Fall. Dort können lediglich FIP 50 Tickets genutzt werden. Der Autotransport durch den Furka Tunnel ist komplett von FIP ausgenommen. Auf den Buslinien wird FIP komplett anerkannt.
 
-Beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betrieben wird, müssen kostenpflichtige Reservierungen erworben werden, siehe [eigener Abschnitt](#glacier-express).
+Eine Reservierung ist erforderlich beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betrieben wird, siehe [eigener Abschnitt](#glacier-express).
 
 **Linien im Bahnverkehr:**
 
@@ -209,17 +247,24 @@ Beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betri
 - Brig – Disentis
 - Andermatt – Göschenen
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** ⚠️ Ja, für den Glacier Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Meiringen-Innertkirchen Bahn (MIB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Meiringen-Innertkirchen Bahn (MIB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Meiringen-Innertkirchen-Bahn, abgekürzt MIB, ist eine meterspurige Schmalspurbahn im Kanton Bern. Sie wird in der Zwischenzeit von der Zentralbahn betrieben, alle Details sind daher unter "Zentralbahn (ZB)" zu finden.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Chemin du fer Montreux-Oberland Bernois (MOB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Chemin du fer Montreux-Oberland Bernois (MOB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
 Die Montreux-Berner Oberland-Bahn (MOB) betreibt die meterspurige Bahnstrecke von Montreux nach Lenk im Simmental. Heute verkehren die meisten Züge nur zwischen Montreux und Zweisimmen bzw. weiter nach Interlaken Ost. Die Strecke Zweisimmen – Lenk im Simmental wird eigenständig ohne Durchbindungen bedient.
 
 Daneben ist sie auch das betreibende Eisenbahnverkehrsunternehmen auf den Strecken der Transports Montreux–Vevey–Riviera (MVR), wodurch weitere Schmalspurstrecken sowie Standseilbahnen in den Betrieb der MOB integriert sind.
@@ -238,17 +283,23 @@ Für den GoldenPass Express (Durchgehende Züge von Montreux bis Interlaken Ost)
 - Territet – Glion (Standseilbahn)
 - Les Avants – Sonloup (Standseilbahn)
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** Nein (Mitfahrt allerdings auf den Strecken mit Reservierungsmöglichkeit nicht garantiert)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports Montreux–Vevey–Riviera (MVR)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports Montreux–Vevey–Riviera (MVR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Das Verkehrsunternehmen MVR besitzt mehrere Schmalspurstrecken sowie Standseilbahnen in und um Montreux und Vevey am Genfersee. Die Verbindungen auf diesen Strecken werden heute von der MOB betrieben, daher sind Details zur FIP-Gültigkeit unter "Chemin du fer Montreux-Oberland Bernois (MOB)" zu finden.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Nyon-St Cergue-Morez (Nyon-La Cure) (NStCM)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Nyon-St Cergue-Morez (Nyon-La Cure) (NStCM)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die NStCM ist eine Eisenbahngesellschaft im Kanton Waadt. Sie betreibt lediglich die Meterspurstrecke von Nyon am Genfersee nach St Cergue und weiter bis an die französiche Grenze nach La Cure.
 
 FIP ist auf der kompletten Strecke gültig.
@@ -257,11 +308,14 @@ FIP ist auf der kompletten Strecke gültig.
 
 - Nyon – St-Cergue – La Cure
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Oensingen-Balsthal-Bahn AG (OeBB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Oensingen-Balsthal-Bahn AG (OeBB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die OeBB (nicht zu verwechseln mit der ÖBB) ist eine Eisenbahngesellschaft im Kanton Solothurn. Sie betreibt lediglich eine 4 Kilometer lange Strecke von Oensingen nach Balsthal.
 
 FIP ist auf der kompletten Strecke gültig.
@@ -270,11 +324,14 @@ FIP ist auf der kompletten Strecke gültig.
 
 - Oensingen – Balsthal
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "RegionAlps (RA)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="RegionAlps (RA)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die RA ist eine Eisenbahngesellschaft im Kanton Wallis und betreibt verschiedene Regionalzuglinien.
 
 FIP ist auf allen Strecken gültig.
@@ -285,11 +342,14 @@ FIP ist auf allen Strecken gültig.
 - Martigny – Sembrancher – Orsières
 - Sembrancher – Le Sable
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Rigi Bahnen AG (RB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Rigi Bahnen AG (RB)"
+    type="funicular"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Die Rigi-Bahnen sind eine Eisenbahngesellschaft, die zwei Eisenbahnstrecken sowie diverse Seilbahnen betreibt.
 
 FIP ist hier nur teilweise auf den im Folgenden genannten Strecken gültig, auf den anderen Strecken gelten weder FIP Freifahrtscheine noch FIP 50 Tickets.
@@ -309,11 +369,14 @@ FIP ist hier nur teilweise auf den im Folgenden genannten Strecken gültig, auf 
 - Vitznau – Wissifluh (Seilbahn)
 - Brunnen – Urmiberg (Seilbahn)
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regionalverkehr Bern-Solothurn (RBS)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Regionalverkehr Bern-Solothurn (RBS)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahnstrecken in den Kantonen Bern und Solothurn. Diese sind auch zum Teil in die S-Bahn Bern integriert. Daneben werden auch Busse angeboten.
 
 FIP ist auf allen Strecken gültig.
@@ -325,14 +388,20 @@ FIP ist auf allen Strecken gültig.
 - Bern – Bätterkinden (S8)
 - Bern – Unterzollikofen (S9)
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Rhätische Bahn (RhB) ⚠️" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Rhätische Bahn (RhB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=partially
+    reservation_possible=true
+%}}
 Die Rhätische Bahn ist ein Eisenbahnverkehrsunternehmen, das hauptsächlich im Kanton Graubünden verkehrt, aber auch bis nach Italien fährt. Es ist international vor allem für die Panorama-Züge Bernina Express und Glacier Express bekannt. Auch Busse werden durch die RhB betrieben.
 
-FIP ist fast auf allen Verbindungen gültig. Keine Vergünstigungen bestehen auf den Autozügen durch die Albula und Vereina Tunnel. Für den Glacier Express müssen kostenpflichtige Reservierungen im Voraus erworben werden, siehe [eigener Abschnitt](#glacier-express): Für den Bernina Express, verkehrt auf der Strecke Chur – Tirano als `PE`, muss neben der Reservierung ein Aufschlag gezahlt werden, siehe [eigener Abschnitt](#bernina-express).
+FIP ist fast auf allen Verbindungen gültig. Keine Vergünstigungen bestehen auf den Autozügen durch die Albula und Vereina Tunnel.
+
+Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Abschnitt](#glacier-express). Für den Bernina Express, verkehrt auf der Strecke Chur – Tirano als `PE`, muss neben der Reservierung ein Aufschlag gezahlt werden, siehe [eigener Abschnitt](#bernina-express).
 
 **Linien im Bahnverkehr:**
 
@@ -345,12 +414,15 @@ FIP ist fast auf allen Verbindungen gültig. Keine Vergünstigungen bestehen auf
 - St.Moritz – Pontresina – Poschiavo – Tirano
 - Samedan – Pontresina
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** ⚠️ Ja, auf dem Bernina und Glacier Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Schweizerische Südostbahn (SOB) ⚠️" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Schweizerische Südostbahn (SOB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=true
+%}}
 Die Schweizerische Südostbahn betreibt Linienverkehr sowohl auf eigenen als auch einigen Strecken der SBB. In Kooperation mit der SBB werden auch die überregional bekannten Züge Treno Gottardo, Alpenrhein-Express und der Aare Linth durch die SOB betrieben.
 
 Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nicht auf Strecken gelten, auf denen die SOB nur über eine Lizenz der SBB verkehrt, so zum Beispiel zwischen Basel SBB und Arth-Goldau. Auf diesen Routen müssen stattdessen FIP Freifahrtscheine der SBB genutzt werden. Durchgehende FIP 50 Tickets sind dagegen möglich. Im Folgenden aufgelistet sind daher nur die Strecken, auf denen Freifahrtscheine der SP gelten.
@@ -362,30 +434,42 @@ Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nich
 - Wädenswil – Biberbrugg – Einsiedeln
 - Arth-Goldau – Bellinzona (egal ob über Göschenen – Airolo oder durch den Gotthard-Basistunnel)
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Società Subalpina di Imprese Ferroviarie (SSIF) ⚠️" traincategory "category" %}}
-**Beschreibung:** \
-Die Società Subalpina di Imprese Ferroviarie betriebt den italienischen Abschnitt der aus dem schweizerischen Locarno kommenden Centovallibahn von Camedo bis Domodossola in Italien. \
-FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweizer Abschnitt, da dieser durch die FART betrieben wird, die ebenfalls Teil von SP ist. Für den speziellen Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet) ist eine Reservierung erforderlich, siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision).
+{{% train-category
+    title="Società Subalpina di Imprese Ferroviarie (SSIF)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Die Società Subalpina di Imprese Ferroviarie betriebt den italienischen Abschnitt der aus dem schweizerischen Locarno kommenden Centovallibahn von Camedo bis Domodossola in Italien.
+
+FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweizer Abschnitt, da dieser durch die FART betrieben wird, die ebenfalls Teil von SP ist.
+
+Eine Reservierung ist erforderlich für den speziellen Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet), siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision).
 
 **Linien im Bahnverkehr:**
 
 - (Locarno –) Camedo – Domodossola
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** ⚠️ Ja, für den Vigezzo Vision Panorama Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Sensetalbahn (STB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Sensetalbahn (STB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Sensetalbahn betrieb die Strecke Flamatt – Laupen – Gümmenen, die heute jedoch durch die BLS betrieben wird. Es ist daher fraglich, ob die STB hier noch aufzuführen ist.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Sihltal Zürich Uetliberg Bahn (SZU)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Sihltal Zürich Uetliberg Bahn (SZU)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die SZU betreibt die beiden S-Bahn Linien S4 und S10 der S-Bahn Zürich. Diese führen von Zürich HB nach Sihlwald bzw. auf den Uetliberg. Beide sind in FIP integriert.
 
 **Linien im Bahnverkehr:**
@@ -393,11 +477,14 @@ Die SZU betreibt die beiden S-Bahn Linien S4 und S10 der S-Bahn Zürich. Diese f
 - Zürich HB – Adliswil – Sihlwald (S4)
 - Zürich HB – Uetliberg (S10)
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regionalbahn THURBO (THURBO)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Regionalbahn THURBO (THURBO)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Thurbo AG ist eine Eisenbahngesellschaft in der Ostschweiz sowie im grenzüberschreitenden Verkehr mit Deutschland und Österreich. Sie betreibt diverse S-Bahn Linien der S-Bahn St. Gallen sowie der S-Bahn Zürich. Dazu kommen noch einzelne `RE` Verbindungen.
 
 FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die internationalen Abschnitte werden dagegen in Deutschland von der SBB GmbH und in Österreich von der ÖBB übernommen. Nach Österreich wird daher zusätzlich ein Freifahrtschein der ÖBB benötigt, die Strecken nach Deutschland sind mit FIP nicht nutzbar. Eine Ausnahme stellt die Fahrt von der Schweiz bis Konstanz dar, da Konstanz als Grenzbahnhof gilt. FIP 50 Tickets können für alle Strecken innerhalb der Schweiz sowie den Strecken nach Österreich und nach Konstanz erworben werden.
@@ -427,12 +514,15 @@ FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die 
 - Winterthur – Bülach (S41)
 
 Dazu kommen noch Nachtlinien in beiden Regionen, die die normalen S-Bahn Linien in den nächtlichen Stunden ersetzen, die auch mit FIP genutzt werden können.
+{{% /train-category %}}
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
-
-{{% expander "Transports de Martigny et Régions (TMR) ⚠️" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports de Martigny et Régions (TMR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
 Die TMR ist eine Verkehrsgesellschaft im Kanton Wallis. Sie betreibt eine Linie im Bahnverkehr, den Mont-Blanc Express. Darüber hinaus betreibt sie auch einige Busse in der Region.
 
 FIP-Vergünstigungen sind zwischen Martigny und Le Châtelard-Frontière auf dem Mont-Blanc-Express gültig. Zwischen Le Châtelard-Frontière und Vallorcine wird die Strecke von der SNCF betrieben, für die dann ebenfalls FIP genutzt werden kann, der Freifahrtschein der SP hat hier jedoch keine Gültigkeit (es muss ein SNCF Freifahrtschein vorliegen).
@@ -445,12 +535,14 @@ Im Busverkehr gelten FIP-Vergünstigungen der SP auf allen Routen, außer auf de
 
 - Martigny – Le Châtelard-Frontière
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** ⚠️ Ja, für die Züge nach 23 Uhr
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports publics du Chablais (TPC)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports publics du Chablais (TPC)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die TPC betreibt vier meterspurige Eisenbahnstrecken in den Kantonen Waadt und Wallis. Dazu kommen noch einige Buslinien.
 
 Alle Verkehre sind mit FIP-Vergünstigungen der SP nutzbar.
@@ -463,11 +555,14 @@ Alle Verkehre sind mit FIP-Vergünstigungen der SP nutzbar.
 - Aigle – Sépey – Diablerets
 - Bex – Villars-sur-Ollon – Col-de-Bretaye
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports publics fribourgeois (TPF)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports publics fribourgeois (TPF)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die Freiburgischen Verkehrsbetriebe (französisch Transports publics fribourgeois) betreiben drei Strecken in Normalspur, eine in Schmalspur sowie eine Standseilbahn. Außerdem bieten sie diverse Busse im Linienverkehr an.
 
 Alle Verkehre sind mit FIP-Vergünstigungen der SP nutzbar.
@@ -480,11 +575,14 @@ Alle Verkehre sind mit FIP-Vergünstigungen der SP nutzbar.
 - Bulle-Broc – Fabrique
 - Fribourg/Freiburg – Neuveville – St-Pierre (Standseilbahn)
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports Vallée-de-Joux – Yverdon-les-Bains – Sainte-Croix (TRAVYS)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports Vallée-de-Joux – Yverdon-les-Bains – Sainte-Croix (TRAVYS)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 TRAVYS ist ein Verkehrsunternehmen, das im Norden des Kantons Waadt eine Normalspur- und eine Schmalspurbahn sowie diverse Buslinien betreibt.
 
 Alle diese Verkehre sind mit FIP-Vergünstigungen der SP nutzbar. Die normalspurige Strecke zwischen Le Pont und Le Brassus ist zwar infrastrukturell TRAVYS zugeordnet, wird jedoch von der SBB betrieben.
@@ -494,11 +592,14 @@ Alle diese Verkehre sind mit FIP-Vergünstigungen der SP nutzbar. Die normalspur
 - Yverdon-les-Bains – Ste-Croix
 - Orbe – Chavornay
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports Publics Neuchâtelois (TRN)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Transports Publics Neuchâtelois (TRN)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Die Transports Publics Neuchâtelois ist ein Verkehrsunternehmen, das im Kanton Neuenburg Eisenbahn-, Standseilbahnen und Buslinien betreibt. Es tritt unter dem Markennanmen "transN" auf.
 
 Uns ist bekannt, dass vier Routen im Bahnverkehr mit FIP-Vergünstigungen der SP genutzt werden. Wie es auf den restlichen Strecken aussieht, wissen wir leider nicht. Auch über die Nutzung der Standseilbahnen ist uns aktuell nichts bekannt. Im Busverkehr können alle Linien genutzt werden.
@@ -510,21 +611,33 @@ Uns ist bekannt, dass vier Routen im Bahnverkehr mit FIP-Vergünstigungen der SP
 - Travers – Fleurier – Buttes
 - Neuchâtel, Pl. Pury – Boudry
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Waldenburgerbahn (WB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Waldenburgerbahn (WB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Als Waldenburgerbahn wird die Bahnstrecke zwischen Liestal und Waldenburg bezeichnet, die in der Zwischenzeit von der Baselland Transport (BLT) betrieben wird. Alle Infos dazu siehe daher eigenen Abschnitt.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Wynental- und Suhrentalbahn (WSB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Wynental- und Suhrentalbahn (WSB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die WSB ist mittlerweile Teil der Aargau Verkehr AG (AVA). Alle Infos dazu siehe eigener Abschnitt.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Zentralbahn (ZB)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Zentralbahn (ZB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=partially
+%}}
 Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – Interlaken Ost), der Luzern-Stans-Engelberg-Bahn und aus der Meiringen-Innertkirchen-Bahn besteht.
 
 FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `PE` gekennzeichneten Züge zwischen Luzern und Interlaken Ost sind ohne Aufschlag nutzbar. Eine Reservierung für diesen Zug kann über die [offizielle Website](https://shop.luzern.com/de/stories/luzern-interlaken-express) kostenpflichtig erworben werden, ist jedoch keine Pflicht.
@@ -535,14 +648,16 @@ FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `
 - Meiringen – Innertkirchen
 - Luzern – Stans – Engelberg
 
-**Reservierung möglich:** Ja, für den Luzern-Interlaken-Express \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
 ### Betreiber von Schiffen
 
-{{% expander "Bielersee-Schifffahrts-Gesellschaft (BSG)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Bielersee-Schifffahrts-Gesellschaft (BSG)"
+    type="bus"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die BSG betreibt Schiffe auf dem Bielersee (Lac de Bienne) mit den Routen:
 
 - Biel/Bienne – Solothurn (L'Aar/Aarefahrt)
@@ -554,11 +669,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig. Transitp
 - La Neuveville
 - Solothurn
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Compagnie générale de navigation (Genfersee) (CGN)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Compagnie générale de navigation (Genfersee) (CGN)"
+    type="bus"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die CGN betreibt verschiedene Schiffsfahrten auf dem Genfersee.
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Routen gültig. Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
@@ -575,11 +693,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Routen gültig. Transitpu
 - Evian-les-Bains
 - Thonon-les-Bains
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Société navigation sur les Lacs du Neuchâtel et Morat (LNM)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Société navigation sur les Lacs du Neuchâtel et Morat (LNM)"
+    type="bus"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Die LNM betreibt Schiffsfahrten auf dem Neuenburgersee und Murtensee mit den Routen:
 
 - Neuchâtel – Murten
@@ -592,11 +713,14 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig. Transitp
 - Yverdon
 - Murten/Morat
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Schifffahrtsgesellschaft des Vierwaldstättersee (SGV)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Schifffahrtsgesellschaft des Vierwaldstättersee (SGV)"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Die SGV betreibt verschiedene Schiffsrouten auf dem Vierwaldstättersee. Die 1. Klasse befindet sich auf dem Oberdeck der Schiffe.
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Routen im Linienverkehr gültig (keine Sonderfahrten), außer auf der Autofähre Beckenried – Gersau.
@@ -613,11 +737,14 @@ Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 - Vitznau
 - Weggis
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Zürichsee Schifffahrtsgesellschaft (ZSG)" traincategory "category" %}}
-**Beschreibung:** \
+{{% train-category
+    title="Zürichsee Schifffahrtsgesellschaft (ZSG)"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Die ZSG betreibt verschiedene Schiffsrouten auf dem Zürichsee.
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf fast allen Routen im Linienverkehr gültig (keine Sonderfahrten), auch auf dem Limmat. Nur die Autofähre Horgen – Meilen ist ausgenommen.
@@ -635,8 +762,7 @@ Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 - Lachen
 - Schmerikon
 
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
