@@ -8,7 +8,7 @@
   "important_info" (strings.Contains .Inner "m-text-highlight--important")
   "route_overview_url" (.Get "route_overview_url")
   "additional_information_url" (.Get "additional_information_url")
-  "content" (.Inner | .Page.RenderString)
+  "content" (.Inner)
 -}}
 
 {{- partial "train-category" $data -}}
