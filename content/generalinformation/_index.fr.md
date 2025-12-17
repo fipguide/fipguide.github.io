@@ -129,7 +129,7 @@ Je suis éligible au FIP auprès de Deutsche Bahn et je veux voyager de Francfor
 
 J'ai donc besoin d'un billet supplémentaire pour le voyage entre Francfort Hbf et Passau Hbf, tel qu'un billet acheté régulièrement ou une réduction pour le personnel DB en Allemagne. À partir de Passau Hbf, le coupon ÖBB et le Billet FIP 50 sont valables.
 
-![Exemple graphique gare frontière](borderstation.fr.webp)
+![Exemple graphique gare frontière](borderstation.fr.svg)
 {{% /expander %}}
 
 {{% expander "Exemple de gestion des points frontières" info %}}
@@ -137,7 +137,7 @@ Je suis éligible au FIP auprès de Deutsche Bahn et je veux voyager de Francfor
 
 J'ai donc besoin d'un billet supplémentaire pour le voyage entre Francfort Hbf et ce point frontière, tel qu'un billet acheté régulièrement jusqu'à la première gare danoise Padborg ou une réduction pour le personnel DB en Allemagne qui est valable jusqu'à la frontière. Un billet, par exemple, jusqu'à la dernière gare allemande (Schleswig) où le train s'arrête, ou jusqu'à Flensbourg ne suffit pas. À partir du point frontière, le coupon DSB et le Billet FIP 50 sont valables.
 
-![Exemple graphique point frontière](borderpoint.fr.webp)
+![Exemple graphique point frontière](borderpoint.fr.svg)
 {{% /expander %}}
 
 ## Imposition

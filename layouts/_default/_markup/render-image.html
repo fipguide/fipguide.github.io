@@ -21,7 +21,13 @@
   {{ end }}
 
   {{ if $image }}
-    {{ partial "image" $image }}
+    {{ $parts := split $image.Permalink "." }}
+    {{ $extension := index $parts (sub (len $parts) 1) }}
+    {{ if eq $extension "svg" }}
+      <img src="{{ $image.RelPermalink }}" alt="{{ $image.Title }}" title="{{ $image.Title }}" loading="lazy">
+    {{ else }}
+      {{ partial "image" $image }}
+    {{ end }}
   {{ else }}
     {{ warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $.Page.File.Path }}
   {{ end }}

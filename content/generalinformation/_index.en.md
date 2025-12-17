@@ -129,7 +129,7 @@ I am FIP-eligible at Deutsche Bahn and want to travel from Frankfurt am Main to 
 
 I therefore need an additional ticket for the journey between Frankfurt Hbf and Passau Hbf, such as a regularly purchased ticket or an employee discount for DB staff within Germany. From Passau Hbf onwards, both the ÖBB coupon and the FIP 50 Ticket are valid.
 
-![Example graphic border station](borderstation.en.webp)
+![Example graphic border station](borderstation.en.svg)
 {{% /expander %}}
 
 {{% expander "Example of dealing with border points" info %}}
@@ -137,7 +137,7 @@ I am FIP-eligible at Deutsche Bahn and want to travel from Frankfurt am Main to 
 
 I therefore need an additional ticket for the journey between Frankfurt Hbf and this border point, such as a regularly purchased ticket to the first Danish station Padborg or an employee discount for DB staff within Germany that is valid up to the border. A ticket, for example, to the last German station (Schleswig) where the train stops, or to Flensburg is not sufficient. From the border point onwards, both the DSB coupon and the FIP 50 Ticket are valid.
 
-![Example graphic border point](borderpoint.en.webp)
+![Example graphic border point](borderpoint.en.svg)
 {{% /expander %}}
 
 ## Taxation
