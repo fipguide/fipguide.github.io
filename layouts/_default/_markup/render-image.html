@@ -24,7 +24,12 @@
     {{ $parts := split $image.Permalink "." }}
     {{ $extension := index $parts (sub (len $parts) 1) }}
     {{ if eq $extension "svg" }}
-      <img src="{{ $image.RelPermalink }}" alt="{{ $image.Title }}" title="{{ $image.Title }}" loading="lazy">
+      <img
+        src="{{ $image.RelPermalink }}"
+        alt="{{ $image.Title }}"
+        title="{{ $image.Title }}"
+        loading="lazy"
+      />
     {{ else }}
       {{ partial "image" $image }}
     {{ end }}
