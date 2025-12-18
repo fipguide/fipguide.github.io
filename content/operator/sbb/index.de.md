@@ -45,9 +45,9 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
 %}}
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
 
-{{% highlight important %}}
+#### Reservierung
+
 Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -60,16 +60,13 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 %}}
 Internationale Züge Richtung Deutschland und Italien.
 
-{{% highlight important %}}
-Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden.
-{{% /highlight %}}
-
 #### Reservierung
 
 1\. Klasse: 13€ \
 2\. Klasse: 11€
 
-Eine Reservierung ist für den italienischen Abschnitt erforderlich.
+Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforderlich. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -93,9 +90,9 @@ Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegs
 %}}
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
 
-{{% highlight important %}}
+#### Reservierung
+
 Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity und Regionalzügen.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category

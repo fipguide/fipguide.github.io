@@ -45,9 +45,9 @@ Trains à grande vitesse en provenance d’Allemagne vers Bâle et parfois jusqu
 %}}
 Trains à grande vitesse en provenance de France vers Zurich via Bâle.
 
-{{% highlight important %}}
+#### Réservation
+
 La réservation est obligatoire hors de Suisse et pour les trajets transfrontaliers.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -60,16 +60,12 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 %}}
 Trains internationaux vers l’Allemagne et l’Italie.
 
-{{% highlight important %}}
-Les trains vers l’Italie nécessitent un supplément et une réservation à partir de la frontière italienne. Il est moins cher de voyager vers l’Italie en changeant de train à Chiasso ([Voir Voyage vers l’Italie]({{< ref "/country/switzerland#italie" >}} "Voyage vers l’Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
-{{% /highlight %}}
-
 #### Réservation
 
 1ère classe : 13 € \
 2ᵉ classe : 11 €
 
-Une réservation est requise pour la section italienne.
+Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l'Italie en changeant de train à Chiasso ([Voir Voyage vers l'Italie]({{< ref "/country/switzerland#italie" >}} "Voyage vers l'Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
 {{% /train-category %}}
 
 {{% train-category
@@ -93,9 +89,9 @@ Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gar
 %}}
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
 
-{{% highlight important %}}
+#### Réservation
+
 Une réservation est requise sauf dans les voitures à places assises lorsqu’ils circulent comme Intercity, Eurocity ou trains régionaux.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category

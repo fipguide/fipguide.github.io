@@ -45,9 +45,9 @@ High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, o
 %}}
 High-speed trains from France to Zurich via Basel.
 
-{{% highlight important %}}
+#### Reservation
+
 Reservations are mandatory outside Switzerland and for cross-border journeys.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -60,16 +60,13 @@ Reservations are mandatory outside Switzerland and for cross-border journeys.
 %}}
 International trains to Germany and Italy.
 
-{{% highlight important %}}
-Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train.
-{{% /highlight %}}
-
 #### Reservation
 
 1st class: €13 \
 2nd class: €11
 
-A reservation is required for the Italian section.
+A reservation and surcharge are required for the Italian section. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -93,9 +90,9 @@ Fast national trains stopping only in major cities and transfer stations.
 %}}
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
 
-{{% highlight important %}}
+#### Reservation
+
 A reservation is required except in seat cars when operating as Intercity, Eurocity, or regional trains.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
