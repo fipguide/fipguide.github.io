@@ -133,9 +133,11 @@ Ferrovie autolinee regionali ticinesi operates, in addition to some bus routes, 
 
 Even though the Centovalli Railway runs into Italy, SP FIP tickets are valid on the entire route because the Italian section is operated by SSIF, which is also an SP FIP member.
 
-A reservation is required for the special Treno Panoramico Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
-
 For the cable cars, it is unknown whether FIP is recognized. On bus routes, FIP is accepted.
+
+#### Reservation
+
+A reservation is required for the special Treno Panoramico Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
 
 #### Scheduled routes
 
@@ -241,6 +243,8 @@ The buses and narrow-gauge railways can be used with FIP; for the funicular it i
 %}}
 The Matterhorn Gotthard Bahn has a 144-kilometre network in the cantons of Valais, Uri, and Grisons. While all FIP discounts are recognized on some lines, this is not the case on the section between Zermatt and Gornergrat, where only FIP 50 Tickets can be used. The car shuttle through the Furka Tunnel is completely excluded from FIP. FIP is fully accepted on bus routes.
 
+#### Reservation
+
 A reservation is required for the Glacier Express, which is jointly operated by MGB and the Rhaetian Railway (RhB); see the [dedicated section](#glacier-express).
 
 #### Scheduled routes
@@ -272,6 +276,8 @@ The Montreux–Bernese Oberland Railway (MOB) operates the metre-gauge railway f
 It is also the operating railway company on the Transports Montreux–Vevey–Riviera (MVR) lines, which brings additional narrow-gauge lines and funiculars into MOB operations.
 
 FIP is valid on all the MOB routes listed below. Between Zweisimmen and Interlaken Ost, however, the trains are operated by BLS AG. This means that Coupons for both SP and BLS are required to travel the entire route. FIP 50 Tickets can be booked continuously throughout.
+
+#### Reservation
 
 For the GoldenPass Express (through trains from Montreux to Interlaken Ost) and GoldenPass Panoramic (trains between Montreux and Zweisimmen), both marked as `PE` in timetables, travel without a seat reservation is only possible if seats are still available. Otherwise, a paid reservation can be purchased via the [MOB website](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). For certain panoramic coaches on the GoldenPass Panoramic, an additional surcharge may be levied on site.
 
@@ -405,6 +411,8 @@ The Rhaetian Railway operates mainly in the canton of Grisons but also runs into
 
 FIP is valid on almost all services. No discounts apply on the car shuttles through the Albula and Vereina tunnels.
 
+#### Reservation
+
 A reservation is required for the Glacier Express; see the [dedicated section](#glacier-express). For the Bernina Express, operating on the route Chur – Tirano and marked as `PE`, a surcharge must be paid in addition to the reservation; see the [dedicated section](#bernina-express).
 
 #### Scheduled routes
@@ -452,6 +460,8 @@ For FIP discounts it should be noted that SP Coupons are not valid on lines wher
 Società Subalpina di Imprese Ferroviarie operates the Italian section of the Centovalli Railway from Camedo to Domodossola.
 
 SP FIP tickets are valid on the entire route, including the Swiss section, as this is operated by FART, which is also part of SP.
+
+#### Reservation
 
 A reservation is required for the special Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
 
@@ -535,9 +545,11 @@ TMR is a transport company in the canton of Valais. It operates one rail line, t
 
 FIP discounts are valid between Martigny and Le Châtelard-Frontière on the Mont-Blanc Express. Between Le Châtelard-Frontière and Vallorcine, the line is operated by SNCF, for which FIP can also be used, but the SP Coupon is not valid there (an SNCF Coupon is required).
 
-Trains after 23:00 require a reservation, which must be made at least 30 minutes before departure free of charge via the [official website](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
-
 On bus routes, SP FIP discounts apply to all routes except the lines Salvan – La Creusaz – Van-d'en-Haut and Finhaut – Lac d'Emosson.
+
+#### Reservation
+
+Trains after 23:00 require a reservation, which must be made at least 30 minutes before departure free of charge via the [official website](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
 
 #### Scheduled routes
 
@@ -650,7 +662,11 @@ WSB is now part of Aargau Verkehr AG (AVA). See the dedicated section for detail
 %}}
 Zentralbahn operates a metre-gauge network consisting of the Brünig line (Lucerne – Interlaken Ost), the Luzern–Stans–Engelberg Railway, and the Meiringen–Innertkirchen Railway.
 
-SP FIP discounts are valid on all three lines. The trains marked `PE` between Lucerne and Interlaken Ost can be used without surcharge. A reservation for this train can be purchased for a fee via the [official website](https://shop.luzern.com/de/stories/luzern-interlaken-express) but is not mandatory.
+SP FIP discounts are valid on all three lines. The trains marked `PE` between Lucerne and Interlaken Ost can be used without surcharge.
+
+#### Reservation
+
+A reservation for the `PE` between Lucerne and Interlaken Ost can be purchased for a fee via the [official website](https://shop.luzern.com/de/stories/luzern-interlaken-express) but is not mandatory.
 
 #### Scheduled routes
 

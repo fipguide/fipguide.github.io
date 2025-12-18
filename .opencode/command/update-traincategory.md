@@ -36,8 +36,10 @@ If there is a risk of confusion (previously marked with ℹ️ in the text), add
 {{% /highlight %}}
 ```
 
-Tranform the "**Reservation cost:**" (or language equivalent) section to a heading "### Reservation".
+Tranform the "**Reservation cost:**" (or language equivalent) section to a heading "#### Reservation" (de: Reservierung / fr: Réservation).
 
 If there is additional information in the text that can't be represented in the shortcode, add the information to the text. For example "**Reservation required:** ⚠️ sometimes (marked with _R_)" becomes "A reservation is required for some trains (marked with _R_)."
+
+If the expander mentions routes where FIP are valid, place them under a `#### Scheduled routes` (de: Strecken im Linienverkehr / fr: Lignes régulières). heading. Subheading for `##### Strecken mit FIP-Gültigkeit` and `##### Strecken ohne FIP-Gültigkeit` are possible if needed.
 
 Make sure to remove the old expanders after adding the shortcode.
