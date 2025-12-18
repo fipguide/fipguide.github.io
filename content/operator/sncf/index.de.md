@@ -53,7 +53,7 @@ Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedo
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 {{% /highlight %}}
 
-### Reservierung
+#### Reservierung
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
@@ -91,7 +91,7 @@ Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutsch
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 {{% /highlight %}}
 
-### Reservierung
+#### Reservierung
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
@@ -113,7 +113,7 @@ Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und m
 
 Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Züge reservierungspflichtig sind. Im Zweifelsfall muss für jeden Zug bei der SNCF nachgefragt oder eine Reservierung erworben werden.
 
-### Reservierung
+#### Reservierung
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
@@ -133,9 +133,9 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 %}}
 Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindungen per Nightjet sind seit Dezember 2025 eingestellt.
 
-### Reservierung
+#### Reservierung
 
-Abhängig von Strecke und Auslastung.
+Kosten abhängig von Strecke und Auslastung.
 
 {{% /train-category %}}
 

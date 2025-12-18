@@ -77,16 +77,30 @@ Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkate
 Hier können weitere wichtige Informationen ergänzt werden.
 {{% /highlight %}}
 
-### Reservierung
+#### Reservierung
 
 <!--
   Beschreibung der Reservierungsbedingung für diese Zugkategorie.
 -->
 
-### Strecken im Linienverkehr
+#### Strecken im Linienverkehr
 
 <!--
   Auflistung aller Strecken dieser Zugkategorie im Linienverkehr.
+
+  Bei teilweiser FIP-Gültigkeit können die folgenden Unterüberschriften verwendet werden:
+-->
+
+<!--
+##### Strecken mit FIP-Gültigkeit
+
+- Route 1
+- Route 2
+
+##### Strecken ohne FIP-Gültigkeit
+
+- Route 3
+- Route 4
 -->
 
 {{% /train-category %}}

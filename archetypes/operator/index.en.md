@@ -77,16 +77,30 @@ This highlight can be added if there is a risk that the train category could be 
 Further important information can be added here.
 {{% /highlight %}}
 
-### Reservation
+#### Reservation
 
 <!--
   Description of the reservation conditions for this train category.
 -->
 
-### Scheduled routes
+#### Scheduled routes
 
 <!--
   List of all routes of this train category in scheduled services.
+
+  For partial FIP validity, the following subheadings can be used:
+-->
+
+<!--
+##### Routes with FIP validity
+
+- Route 1
+- Route 2
+
+##### Routes without FIP validity
+
+- Route 3
+- Route 4
 -->
 
 {{% /train-category %}}

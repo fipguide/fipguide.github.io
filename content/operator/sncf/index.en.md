@@ -54,7 +54,7 @@ Special conditions apply for international connections, see [International TGV i
 
 {{% /highlight %}}
 
-### Reservation
+#### Reservation
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -92,7 +92,7 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 {{% /highlight %}}
 
-### Reservation
+#### Reservation
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -114,7 +114,7 @@ Intercity trains operated by SNCF, connecting various cities in France, mostly r
 
 SNCF does not provide public information on which `IC` trains require reservations. If in doubt, check with SNCF or purchase a reservation.
 
-### Reservation
+#### Reservation
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -134,7 +134,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 %}}
 SNCF night trains within France. International Nightjet connections ended in December 2025.
 
-### Reservation
+#### Reservation
 
 Cost depends on route and occupancy.
 

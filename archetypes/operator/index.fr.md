@@ -77,16 +77,30 @@ Ce bloc peut être ajouté s'il y a un risque que la catégorie de train soit co
 D'autres informations importantes peuvent être ajoutées ici.
 {{% /highlight %}}
 
-### Réservation
+#### Réservation
 
 <!--
   Description des conditions de réservation pour cette catégorie de train.
 -->
 
-### Lignes régulières
+#### Lignes régulières
 
 <!--
   Liste de toutes les lignes de cette catégorie de train en service régulier.
+
+  Pour une validité FIP partielle, les sous-titres suivants peuvent être utilisés :
+-->
+
+<!--
+##### Lignes avec validité FIP
+
+- Ligne 1
+- Ligne 2
+
+##### Lignes sans validité FIP
+
+- Ligne 3
+- Ligne 4
 -->
 
 {{% /train-category %}}

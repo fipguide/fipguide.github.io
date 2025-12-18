@@ -40,7 +40,7 @@ Appenzeller Bahnen operates a network of railways in the cantons of Appenzell In
 
 All of these services can be used with FIP.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Gossau SG – Appenzell – Wasserauen
 - St. Gallen – Gais – Appenzell
@@ -61,7 +61,7 @@ The operator Aare Seeland mobil runs several metre-gauge lines in Switzerland. I
 
 All of these services can be used with FIP.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Biel/Bienne – Täuffelen – Ins
 - Langenthal – St.Urban Ziegelei
@@ -81,7 +81,7 @@ Aargau Verkehr AG was formed by the merger of BDWM Transport (BDWM) and Wynental
 
 While FIP discounts are valid on the rail lines listed below and on bus routes, it is unknown whether FIP is valid on the Limmattalbahn, which operates as a tram between Zurich Altstetten and Killwangen-Spreitenbach.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Wohlen – Bremgarten – Dietikon
 - Schöftland – Aarau – Menziken – Burg
@@ -97,7 +97,7 @@ While FIP discounts are valid on the rail lines listed below and on bus routes, 
 %}}
 Baselland Transport AG operates several tram lines and buses in the Basel area. While FIP is valid on all bus lines, we are not aware of its validity on the tram lines. Only the routes listed below can be used with FIP for certain.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Dornach – Arlesheim – Basel – Rodersdorf
 - Liestal – Waldenburg
@@ -114,7 +114,7 @@ Chemins de fer du Jura is a railway company in the Jura region of Switzerland. I
 
 All of these services can be used with FIP.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Glovelier – La Chaux-de-Fonds
 - Tavannes – Le Noirmont
@@ -137,7 +137,7 @@ A reservation is required for the special Treno Panoramico Vigezzo Vision (marke
 
 For the cable cars, it is unknown whether FIP is recognized. On bus routes, FIP is accepted.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Locarno (– Camedo – Domodossola)
 
@@ -151,7 +151,7 @@ For the cable cars, it is unknown whether FIP is recognized. On bus routes, FIP 
 %}}
 The Forchbahn is a metre-gauge railway running between Zurich and Esslingen. Within Zurich it runs on the regular tram network, but as an express line it only stops at the most important stops. It is integrated into the Zurich S-Bahn network as line S18. FIP is valid on the entire route.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Zürich Stadelhofen – Esslingen
 
@@ -165,7 +165,7 @@ The Forchbahn is a metre-gauge railway running between Zurich and Esslingen. Wit
 %}}
 The Frauenfeld–Wil Railway is a metre-gauge railway operating between Wil in the canton of St. Gallen and Frauenfeld in Thurgau. FIP is valid on the entire route.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Wil SG – Frauenfeld FW
 
@@ -187,6 +187,8 @@ Jungfrau Railways is a consortium of formerly independent private railways opera
 - Wengernalpbahn (WAB)
 
 FIP discounts are not granted on all routes.
+
+#### Scheduled routes
 
 On the following sections, FIP Coupons and FIP 50 Tickets are valid without restrictions:
 
@@ -223,7 +225,7 @@ MBC is a regional transport company in the canton of Vaud. It operates two metre
 
 The buses and narrow-gauge railways can be used with FIP; for the funicular it is not known whether FIP is accepted.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Bière – Apples – Morges
 - Apples – L'Isletou – Mont-la-Ville
@@ -241,7 +243,7 @@ The Matterhorn Gotthard Bahn has a 144-kilometre network in the cantons of Valai
 
 A reservation is required for the Glacier Express, which is jointly operated by MGB and the Rhaetian Railway (RhB); see the [dedicated section](#glacier-express).
 
-### Scheduled routes
+#### Scheduled routes
 
 - Brig – Zermatt
 - Brig – Disentis
@@ -273,7 +275,7 @@ FIP is valid on all the MOB routes listed below. Between Zweisimmen and Interlak
 
 For the GoldenPass Express (through trains from Montreux to Interlaken Ost) and GoldenPass Panoramic (trains between Montreux and Zweisimmen), both marked as `PE` in timetables, travel without a seat reservation is only possible if seats are still available. Otherwise, a paid reservation can be purchased via the [MOB website](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). For certain panoramic coaches on the GoldenPass Panoramic, an additional surcharge may be levied on site.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Montreux – Les Avants – Montbovon – Gstaad – Zweisimmen (– Interlaken Ost)
 - Zweisimmen – Lenk im Simmental
@@ -304,7 +306,7 @@ NStCM is a railway company in the canton of Vaud. It operates only the metre-gau
 
 FIP is valid on the entire route.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Nyon – St-Cergue – La Cure
 
@@ -320,7 +322,7 @@ OeBB (not to be confused with ÖBB) is a railway company in the canton of Soloth
 
 FIP is valid on the entire route.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Oensingen – Balsthal
 
@@ -336,7 +338,7 @@ RA is a railway company in the canton of Valais and operates various regional tr
 
 FIP is valid on all routes.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Brig – St-Gingolph
 - Martigny – Sembrancher – Orsières
@@ -354,14 +356,16 @@ Rigi Bahnen is a railway company operating two railway lines and several cable c
 
 FIP is only partially valid on the routes listed below; on the other routes neither FIP Coupons nor FIP 50 Tickets are valid.
 
-**Routes with FIP validity:**
+#### Scheduled routes
+
+##### Routes with FIP validity
 
 - Vitznau – Rigi Kulm
 - Goldau – Rigi Kulm
 - Weggis – Rigi Kaltbad (cable car)
 - Kräbel (Goldau) – Rigi Scheidegg (cable car)
 
-**Routes without FIP validity:**
+##### Routes without FIP validity
 
 - Obergschwend – Rigi Burggeist (cable car)
 - Küssnacht – Seebodenalp (cable car)
@@ -381,7 +385,7 @@ RBS is a regional transport company and operates four metre-gauge railway lines 
 
 FIP is valid on all routes.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Bern – Solothurn (RE 5)
 - Bern – Worb Dorf (S7)
@@ -403,7 +407,7 @@ FIP is valid on almost all services. No discounts apply on the car shuttles thro
 
 A reservation is required for the Glacier Express; see the [dedicated section](#glacier-express). For the Bernina Express, operating on the route Chur – Tirano and marked as `PE`, a surcharge must be paid in addition to the reservation; see the [dedicated section](#bernina-express).
 
-### Scheduled routes
+#### Scheduled routes
 
 - Chur – Disentis/Mustér
 - Chur – Arosa
@@ -427,7 +431,9 @@ The Schweizerische Südostbahn operates services both on its own lines and on so
 
 For FIP discounts it should be noted that SP Coupons are not valid on lines where SOB operates only under an SBB licence, for example between Basel SBB and Arth-Goldau. On these routes, SBB FIP Coupons must be used instead. Continuous FIP 50 Tickets are possible, however. The following list includes only those routes on which SP Coupons are valid.
 
-**Routes on which SP FIP discounts apply:**
+#### Scheduled routes
+
+##### Routes with FIP validity
 
 - Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
@@ -449,7 +455,7 @@ SP FIP tickets are valid on the entire route, including the Swiss section, as th
 
 A reservation is required for the special Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
 
-### Scheduled routes
+#### Scheduled routes
 
 - (Locarno –) Camedo – Domodossola
 
@@ -472,7 +478,7 @@ Sensetalbahn operated the line Flamatt – Laupen – Gümmenen, which today is 
 %}}
 SZU operates the two Zurich S-Bahn lines S4 and S10. These run from Zürich HB to Sihlwald and to the Uetliberg. Both are integrated into FIP.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Zürich HB – Adliswil – Sihlwald (S4)
 - Zürich HB – Uetliberg (S10)
@@ -489,7 +495,9 @@ Thurbo AG is a railway company in Eastern Switzerland and in cross-border traffi
 
 FIP Coupons are valid on all routes within Switzerland. The international sections are operated in Germany by SBB GmbH and in Austria by ÖBB. For Austria, an additional ÖBB Coupon is required; routes into Germany are not usable with FIP. An exception is travel from Switzerland to Konstanz, as Konstanz counts as a border station. FIP 50 Tickets can be purchased for all routes within Switzerland as well as the routes to Austria and to Konstanz.
 
-**Lines in the St. Gallen area:**
+#### Scheduled routes
+
+##### Lines in the St. Gallen area
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
@@ -504,7 +512,7 @@ FIP Coupons are valid on all routes within Switzerland. The international sectio
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
 
-**Lines in the Zurich area:**
+##### Lines in the Zurich area
 
 - Winterthur – Rüti ZH (S26)
 - Winterthur – Stein am Rhein (S29)
@@ -531,7 +539,7 @@ Trains after 23:00 require a reservation, which must be made at least 30 minutes
 
 On bus routes, SP FIP discounts apply to all routes except the lines Salvan – La Creusaz – Van-d'en-Haut and Finhaut – Lac d'Emosson.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Martigny – Le Châtelard-Frontière
 
@@ -547,7 +555,7 @@ TPC operates four metre-gauge railway lines in the cantons of Vaud and Valais, p
 
 All services can be used with SP FIP discounts.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Martigny – Le Châtelard-Frontière
 - Aigle – Leysin
@@ -567,7 +575,7 @@ TPF operates three standard-gauge lines, one narrow-gauge line, and a funicular 
 
 All services can be used with SP FIP discounts.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Fribourg/Freiburg – Murten – Ins
 - Romont – Bulle
@@ -587,7 +595,7 @@ TRAVYS is a transport company operating one standard-gauge and one narrow-gauge 
 
 All of these services can be used with SP FIP discounts. The standard-gauge section between Le Pont and Le Brassus is assigned to TRAVYS infrastructure but is operated by SBB.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Yverdon-les-Bains – Ste-Croix
 - Orbe – Chavornay
@@ -604,7 +612,9 @@ Transports Publics Neuchâtelois is a transport company in the canton of Neuchâ
 
 We are aware that four rail routes can be used with SP FIP discounts. We do not currently know the situation on the remaining routes. We also do not have information on the use of the funiculars. All bus routes can be used.
 
-**Rail routes where FIP is valid:**
+#### Scheduled routes
+
+##### Routes with FIP validity
 
 - La Chaux-de-Fonds – Les Ponts-de-Martel
 - Le Locle – Les Brenets
@@ -642,7 +652,7 @@ Zentralbahn operates a metre-gauge network consisting of the Brünig line (Lucer
 
 SP FIP discounts are valid on all three lines. The trains marked `PE` between Lucerne and Interlaken Ost can be used without surcharge. A reservation for this train can be purchased for a fee via the [official website](https://shop.luzern.com/de/stories/luzern-interlaken-express) but is not mandatory.
 
-### Scheduled routes
+#### Scheduled routes
 
 - Luzern – Meiringen – Interlaken Ost
 - Meiringen – Innertkirchen

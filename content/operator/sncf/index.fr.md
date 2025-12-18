@@ -54,7 +54,7 @@ Des conditions particulières s'appliquent pour les liaisons internationales, vo
 
 {{% /highlight %}}
 
-### Réservation
+#### Réservation
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n'est malheureusement pas accessible publiquement.
 
@@ -92,7 +92,7 @@ Trains à grande vitesse internationaux exploités par la SNCF en coopération a
 Des conditions particulières s'appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
 {{% /highlight %}}
 
-### Réservation
+#### Réservation
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n'est malheureusement pas accessible publiquement.
 
@@ -114,7 +114,7 @@ Trains Intercités de la SNCF reliant différentes villes françaises, général
 
 La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En cas de doute, il faut vérifier auprès de la SNCF ou acheter une réservation.
 
-### Réservation
+#### Réservation
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n'est malheureusement pas accessible publiquement.
 
@@ -134,9 +134,9 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 %}}
 Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025.
 
-### Réservation
+#### Réservation
 
-Selon la ligne et l'affluence.
+Coût selon la ligne et l'affluence.
 
 {{% /train-category %}}
 
