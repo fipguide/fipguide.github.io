@@ -184,7 +184,6 @@ Neben den Fernverkehrsverbindungen werden noch eine Reihe von Verbindungen mit N
 Von Luxemburg aus verkehren grenzüberschreitende Regionalzüge nach Koblenz / Wittlich / Trier. Für den luxemburgischen Abschnitt ist in der zweiten Klasse kein Ticket erforderlich, da der Nahverkehr dort kostenfrei nutzbar ist. Im deutschen Streckenabschnitt ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
 Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Luxemburg nach Düsseldorf. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug geführt.
 
-
 Darüber hinaus besteht die Möglichkeit den Fernbus der CFL von Luxemburg nach Saarbrücken zu nutzen, hier wird jedoch kein FIP-Rabatt gewährt.
 
 ### Niederlande

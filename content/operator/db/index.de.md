@@ -258,7 +258,8 @@ Busse sind ausgeschlossen von FIP-Vergünstigungen, außer sie ersetzen einen Zu
 
 ## Empfehlungen
 
-Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig. 
+Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig.
+
 <!--
   Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
 -->
