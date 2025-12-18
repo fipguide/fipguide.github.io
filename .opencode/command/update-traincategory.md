@@ -9,6 +9,7 @@ A shortcode looks like:
 
 ```
 {{% train-category
+    id="train-id" (lowercase, hyphenated abbreviation of the train category)
     title="title"
     type="highspeed" (can be highspeed, regional, subway, bus, funicular, sleeper, ship)
     fip_accepted=true (can be true, false, partially)

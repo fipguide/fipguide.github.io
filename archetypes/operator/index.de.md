@@ -46,6 +46,7 @@ FIP Globalpreis: <✅/⛔>
 
 <!--
   Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden. Folgende Parameter können übergeben werden:
+  - `id`: Kleingeschriebene, mit Bindestrichen getrennte Abkürzung der Zugkategorie (z.B. "ice", "tgv-inoui")
   - `title`: Titel der Zugkategorie
   - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` oder `ship`
   - `fip_accepted`: true, false, partially
@@ -56,6 +57,7 @@ FIP Globalpreis: <✅/⛔>
 -->
 
 {{% train-category
+    id="zug-id"
     title="title"
     type="highspeed"
     fip_accepted=true

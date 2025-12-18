@@ -31,6 +31,7 @@ Le FIP est accepté par les opérateurs suivants :
 ### Opérateurs ferroviaires et d’autobus
 
 {{% train-category
+    id="ab"
     title="Appenzeller Bahnen (AB)"
     type="regional"
     fip_accepted=true
@@ -52,6 +53,7 @@ Tous ces services sont accessibles avec le FIP.
 {{% /train-category %}}
 
 {{% train-category
+    id="asm"
     title="Aare Seeland mobil (ASM)"
     type="regional"
     fip_accepted=true
@@ -72,6 +74,7 @@ Tous ces services sont accessibles avec le FIP.
 {{% /train-category %}}
 
 {{% train-category
+    id="ava"
     title="Aargau Verkehr AG (AVA)"
     type="regional"
     fip_accepted=true
@@ -90,6 +93,7 @@ Si les réductions FIP sont valables sur les lignes ferroviaires listées ci-des
 {{% /train-category %}}
 
 {{% train-category
+    id="blt"
     title="Baselland Transport (BLT)"
     type="regional"
     fip_accepted=true
@@ -105,6 +109,7 @@ Baselland Transport AG exploite plusieurs lignes de tram et des bus dans la rég
 {{% /train-category %}}
 
 {{% train-category
+    id="cj"
     title="Chemins de fer du Jura (CJ)"
     type="regional"
     fip_accepted=true
@@ -123,6 +128,7 @@ Tous ces services sont accessibles avec le FIP.
 {{% /train-category %}}
 
 {{% train-category
+    id="fart"
     title="Ferrovie Autolinee Regionali Ticinesi (FART)"
     type="regional"
     fip_accepted=true
@@ -146,6 +152,7 @@ Une réservation est obligatoire pour le Treno Panoramico Vigezzo Vision (indiqu
 {{% /train-category %}}
 
 {{% train-category
+    id="fb"
     title="Forchbahn (FB)"
     type="regional"
     fip_accepted=true
@@ -160,6 +167,7 @@ La Forchbahn est une ligne à voie métrique circulant entre Zurich et Esslingen
 {{% /train-category %}}
 
 {{% train-category
+    id="fw"
     title="Frauenfeld–Wil (FW)"
     type="regional"
     fip_accepted=true
@@ -174,6 +182,7 @@ La Frauenfeld–Wil est une ligne à voie métrique entre Wil, dans le canton de
 {{% /train-category %}}
 
 {{% train-category
+    id="jb"
     title="Jungfraubahn (JB)"
     type="regional"
     fip_accepted=partially
@@ -218,6 +227,7 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 {{% /train-category %}}
 
 {{% train-category
+    id="mbc"
     title="Transports de la région Morges–Bière–Cossonay (MBC)"
     type="regional"
     fip_accepted=true
@@ -235,6 +245,7 @@ Les bus et trains à voie étroite sont accessibles avec le FIP ; pour le funicu
 {{% /train-category %}}
 
 {{% train-category
+    id="mgb"
     title="Matterhorn Gotthard Bahn (MGB)"
     type="regional"
     fip_accepted=partially
@@ -256,6 +267,7 @@ Une réservation est obligatoire pour le Glacier Express, exploité conjointemen
 {{% /train-category %}}
 
 {{% train-category
+    id="mib"
     title="Meiringen–Innertkirchen (MIB)"
     type="regional"
     fip_accepted=true
@@ -270,6 +282,7 @@ La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le 
 {{% /expander %}}
 
 {{% train-category
+    id="mob"
     title="Chemin de fer Montreux–Oberland Bernois (MOB)"
     type="regional"
     fip_accepted=true
@@ -299,6 +312,7 @@ Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le 
 {{% /train-category %}}
 
 {{% train-category
+    id="mvr"
     title="Transports Montreux–Vevey–Riviera (MVR)"
     type="regional"
     fip_accepted=true
@@ -308,6 +322,7 @@ MVR possède plusieurs lignes à voie étroite et des funiculaires à Montreux e
 {{% /train-category %}}
 
 {{% train-category
+    id="nstcm"
     title="Nyon–St-Cergue–Morez (Nyon–La Cure) (NStCM)"
     type="regional"
     fip_accepted=true
@@ -324,6 +339,7 @@ Le FIP est valable sur toute la ligne.
 {{% /train-category %}}
 
 {{% train-category
+    id="oebb"
     title="Oensingen-Balsthal-Bahn AG (OeBB)"
     type="regional"
     fip_accepted=true
@@ -340,6 +356,7 @@ Le FIP est valable sur toute la ligne.
 {{% /train-category %}}
 
 {{% train-category
+    id="ra"
     title="RegionAlps (RA)"
     type="regional"
     fip_accepted=true
@@ -358,6 +375,7 @@ Le FIP est valable sur toutes les lignes.
 {{% /train-category %}}
 
 {{% train-category
+    id="rb"
     title="Rigi Bahnen AG (RB)"
     type="funicular"
     fip_accepted=partially
@@ -387,6 +405,7 @@ Le FIP n’est valable que partiellement sur les lignes listées ci-dessous ; su
 {{% /train-category %}}
 
 {{% train-category
+    id="rbs"
     title="Regionalverkehr Bern–Solothurn (RBS)"
     type="regional"
     fip_accepted=true
@@ -406,6 +425,7 @@ Le FIP est valable sur toutes les lignes.
 {{% /train-category %}}
 
 {{% train-category
+    id="rhb"
     title="Chemins de fer rhétiques (RhB)"
     type="regional"
     fip_accepted=true
@@ -434,6 +454,7 @@ Pour le Glacier Express, des réservations payantes doivent être achetées à l
 {{% /train-category %}}
 
 {{% train-category
+    id="sob"
     title="Schweizerische Südostbahn (SOB)"
     type="regional"
     fip_accepted=partially
@@ -456,6 +477,7 @@ Pour les réductions FIP, il convient de noter que les Coupons SP ne sont pas va
 {{% /train-category %}}
 
 {{% train-category
+    id="ssif"
     title="Società Subalpina di Imprese Ferroviarie (SSIF)"
     type="regional"
     fip_accepted=true
@@ -477,6 +499,7 @@ Pour le Vigezzo Vision (indiqué `PE` pour Panorama Express), une réservation e
 {{% /train-category %}}
 
 {{% train-category
+    id="stb"
     title="Sensetalbahn (STB)"
     type="regional"
     fip_accepted=true
@@ -486,6 +509,7 @@ La Sensetalbahn exploitait la ligne Flamatt – Laupen – Gümmenen, aujourd’
 {{% /train-category %}}
 
 {{% train-category
+    id="szu"
     title="Sihltal Zürich Uetliberg Bahn (SZU)"
     type="regional"
     fip_accepted=true
@@ -501,6 +525,7 @@ La SZU exploite les deux lignes S-Bahn S4 et S10 du RER de Zurich. Elles relient
 {{% /train-category %}}
 
 {{% train-category
+    id="thurbo"
     title="Regionalbahn THURBO (THURBO)"
     type="regional"
     fip_accepted=true
@@ -540,6 +565,7 @@ Il existe également des lignes de nuit dans les deux régions, remplaçant les 
 {{% /train-category %}}
 
 {{% train-category
+    id="tmr"
     title="Transports de Martigny et Régions (TMR)"
     type="regional"
     fip_accepted=true
@@ -563,6 +589,7 @@ Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 min
 {{% /train-category %}}
 
 {{% train-category
+    id="tpc"
     title="Transports publics du Chablais (TPC)"
     type="regional"
     fip_accepted=true
@@ -583,6 +610,7 @@ Tous les services sont utilisables avec les réductions FIP SP.
 {{% /train-category %}}
 
 {{% train-category
+    id="tpf"
     title="Transports publics fribourgeois (TPF)"
     type="funicular"
     fip_accepted=true
@@ -603,6 +631,7 @@ Tous les services sont utilisables avec les réductions FIP SP.
 {{% /train-category %}}
 
 {{% train-category
+    id="travys"
     title="Transports Vallée-de-Joux – Yverdon-les-Bains – Sainte-Croix (TRAVYS)"
     type="regional"
     fip_accepted=true
@@ -620,6 +649,7 @@ Tous ces services sont utilisables avec les réductions FIP SP. La section à vo
 {{% /train-category %}}
 
 {{% train-category
+    id="trn"
     title="Transports Publics Neuchâtelois (TRN)"
     type="regional"
     fip_accepted=partially
@@ -641,6 +671,7 @@ Nous savons que quatre lignes ferroviaires peuvent être utilisées avec les ré
 {{% /train-category %}}
 
 {{% train-category
+    id="wb"
     title="Waldenburgerbahn (WB)"
     type="regional"
     fip_accepted=true
@@ -650,6 +681,7 @@ La Waldenburgerbahn désigne la ligne entre Liestal et Waldenburg, désormais ex
 {{% /train-category %}}
 
 {{% train-category
+    id="wsb"
     title="Wynental- und Suhrentalbahn (WSB)"
     type="regional"
     fip_accepted=true
@@ -659,6 +691,7 @@ La WSB fait désormais partie d’Aargau Verkehr AG (AVA). Voir la section dédi
 {{% /train-category %}}
 
 {{% train-category
+    id="zb"
     title="Zentralbahn (ZB)"
     type="regional"
     fip_accepted=true
@@ -684,6 +717,7 @@ Une réservation pour le `PE` entre Lucerne et Interlaken Ost peut être acheté
 ### Opérateurs de bateaux
 
 {{% train-category
+    id="bsg"
     title="Bielersee-Schifffahrts-Gesellschaft (BSG)"
     type="ship"
     fip_accepted=true
@@ -703,6 +737,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur ces lignes. Points de co
 {{% /train-category %}}
 
 {{% train-category
+    id="cgn"
     title="Compagnie générale de navigation (Lac Léman) (CGN)"
     type="ship"
     fip_accepted=true
@@ -727,6 +762,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur toutes les lignes. Point
 {{% /train-category %}}
 
 {{% train-category
+    id="lnm"
     title="Société de navigation sur les Lacs de Neuchâtel et Morat (LNM)"
     type="ship"
     fip_accepted=true
@@ -747,6 +783,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur ces lignes. Points de co
 {{% /train-category %}}
 
 {{% train-category
+    id="sgv"
     title="Schifffahrtsgesellschaft des Vierwaldstättersees (SGV)"
     type="ship"
     fip_accepted=partially
@@ -771,6 +808,7 @@ Points de correspondance train-bateau :
 {{% /train-category %}}
 
 {{% train-category
+    id="zsg"
     title="Zürichsee Schifffahrtsgesellschaft (ZSG)"
     type="ship"
     fip_accepted=partially

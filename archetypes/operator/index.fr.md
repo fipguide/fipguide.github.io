@@ -46,6 +46,7 @@ Tarif Global FIP : <✅/⛔>
 
 <!--
   Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant. Les paramètres suivants peuvent être utilisés :
+  - `id` : Abréviation en minuscules avec traits d'union de la catégorie de train (par ex. "ice", "tgv-inoui")
   - `title` : Titre de la catégorie de train
   - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` ou `ship`
   - `fip_accepted` : true, false, partially
@@ -56,6 +57,7 @@ Tarif Global FIP : <✅/⛔>
 -->
 
 {{% train-category
+    id="train-id"
     title="titre"
     type="highspeed"
     fip_accepted=true

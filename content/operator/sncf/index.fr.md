@@ -37,6 +37,7 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 ### Grandes lignes
 
 {{% train-category
+  id="tgv-inoui"
   title="Train à grande vitesse inOui (TGV inOui)"
   type="highspeed"
   fip_accepted=true
@@ -67,6 +68,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 {{% /train-category %}}
 
 {{% train-category
+  id="ouigo"
   title="OUIGO (Grande Vitesse / Train Classique)"
   type="highspeed"
   fip_accepted=false
@@ -81,6 +83,7 @@ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le
 {{% /train-category %}}
 
 {{% train-category
+  id="ice"
   title="Intercity-Express (ICE)"
   type="highspeed"
   fip_accepted=true
@@ -105,6 +108,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 {{% /train-category %}}
 
 {{% train-category
+  id="intercites"
   title="Intercité (IC)"
   type="highspeed"
   fip_accepted=true
@@ -127,6 +131,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 {{% /train-category %}}
 
 {{% train-category
+  id="intercites-de-nuit"
   title="Intercité de nuit"
   type="sleeper"
   fip_accepted=true
@@ -143,6 +148,7 @@ Coût selon la ligne et l’affluence.
 ### Trains régionaux
 
 {{% train-category
+  id="ter"
   title="Train express régional (TER)"
   type="regional"
   fip_accepted=true
@@ -157,6 +163,7 @@ Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi 
 {{% /train-category %}}
 
 {{% train-category
+  id="rer"
   title="Réseau Express Régional (RER)"
   type="regional"
   fip_accepted=partially
@@ -237,6 +244,7 @@ Cette obligation s’applique aux lignes suivantes :
 ### Trains TGV inOui / ICE internationaux
 
 {{% train-category
+  id="tgv-ice-germany"
   title="TGV/ICE vers l’Allemagne"
   type="highspeed"
   fip_accepted=true
@@ -246,6 +254,7 @@ Les trains TGV et ICE internationaux sont à réservation obligatoire sur la sec
 {{% /train-category %}}
 
 {{% train-category
+  id="tgv-italy-spain-belgium"
   title="TGV vers l’Italie, l’Espagne et la Belgique"
   type="highspeed"
   fip_accepted=partially
@@ -255,6 +264,7 @@ Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Be
 {{% /train-category %}}
 
 {{% train-category
+  id="tgv-lyria"
   title="TGV Lyria vers la Suisse"
   type="highspeed"
   fip_accepted=partially
@@ -270,6 +280,7 @@ Les trains TGV Lyria internationaux de la France vers la Suisse sont à réserva
 La RATP exploite le métro de Paris, des lignes de bus et une partie du réseau tram/RER. La SNCF exploite le reste du réseau RER et certaines lignes de tram. Les réductions FIP ne sont pas valables sur les services RATP.
 
 {{% train-category
+  id="rer-paris"
   title="Trains RER"
   type="regional"
   fip_accepted=partially
@@ -287,6 +298,7 @@ Attention : pour les trajets entre Gare du Nord et Châtelet – Les Halles, seu
 {{% /train-category %}}
 
 {{% train-category
+  id="transilien"
   title="Trains Transilien"
   type="regional"
   fip_accepted=true
@@ -296,6 +308,7 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
 {{% /train-category %}}
 
 {{% train-category
+  id="trams-paris"
   title="Tramways"
   type="tram"
   fip_accepted=partially
