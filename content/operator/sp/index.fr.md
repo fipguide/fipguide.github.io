@@ -439,7 +439,7 @@ Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur
 
 Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 minutes avant le départ et gratuitement via le [site officiel](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
 
-Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d'en-Haut et Finhaut – Lac d'Emosson.
+Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d’en-Haut et Finhaut – Lac d’Emosson.
 
 **Lignes ferroviaires :**
 

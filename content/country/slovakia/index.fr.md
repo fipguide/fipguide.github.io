@@ -9,18 +9,18 @@ params:
 
 ## Informations FIP
 
-La Slovaquie peut être facilement parcourue en train avec un Billet FIP 50 ou un Coupon FIP. Le dispositif FIP inclut l'opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les Billets FIP ŽSR sont valables.
+La Slovaquie peut être facilement parcourue en train avec un Billet FIP 50 ou un Coupon FIP. Le dispositif FIP inclut l’opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les Billets FIP ŽSR sont valables.
 
 Une attention particulière doit être portée aux conditions de réservation sur les trains grandes lignes, ainsi qu’aux règles étendues pour le transport gratuit des enfants.
 
-D'autres opérateurs comme LeoExpress et RegioJet circulent également en Slovaquie, mais n'acceptent pas les Billets FIP. Dans les horaires, ils sont abrégés `LE` et `RJ` (à ne pas confondre avec `RJ` pour Railjet). En cas de doute, vérifiez l'opérateur via son site ou via [Bahn.de](https://int.bahn.de/fr/).
+D’autres opérateurs comme LeoExpress et RegioJet circulent également en Slovaquie, mais n’acceptent pas les Billets FIP. Dans les horaires, ils sont abrégés `LE` et `RJ` (à ne pas confondre avec `RJ` pour Railjet). En cas de doute, vérifiez l’opérateur via son site ou via [Bahn.de](https://int.bahn.de/fr/).
 
 ## Informations générales
 
-La Slovaquie dispose d'un réseau ferroviaire dense, structuré autour de deux grandes lignes :
+La Slovaquie dispose d’un réseau ferroviaire dense, structuré autour de deux grandes lignes :
 
-- L'une venant de Vienne, traversant la capitale Bratislava, passant par Poprad Tatry jusqu'à Košice, la 2ᵉ plus grande ville.
-- L'autre reliant Bratislava à la Hongrie, via Nové Zámky jusqu'à Budapest.
+- L’une venant de Vienne, traversant la capitale Bratislava, passant par Poprad Tatry jusqu’à Košice, la 2ᵉ plus grande ville.
+- L’autre reliant Bratislava à la Hongrie, via Nové Zámky jusqu’à Budapest.
 
 Ces lignes sont bien développées et en amélioration constante. Les trains circulent souvent toutes les heures entre les grandes gares. On trouve également de nombreuses lignes secondaires pittoresques, parfois desservies de manière très sporadique.
 
@@ -42,7 +42,7 @@ Depuis la Tchéquie, les trains transfrontaliers de České dráhy (ČD) ou ZSSK
 
 ### Autriche
 
-Depuis l'Autriche, il existe des trains transfrontaliers Intercity, Railjet et REX. Pour toutes ces lignes, un Coupon FIP ÖBB est requis. Exception : les trains `D` entre Bratislava et Vienne peuvent être utilisés avec un coupon ZSSK, y compris sur le territoire autrichien.
+Depuis l’Autriche, il existe des trains transfrontaliers Intercity, Railjet et REX. Pour toutes ces lignes, un Coupon FIP ÖBB est requis. Exception : les trains `D` entre Bratislava et Vienne peuvent être utilisés avec un coupon ZSSK, y compris sur le territoire autrichien.
 
 ### Hongrie
 
@@ -50,15 +50,15 @@ Depuis la Hongrie, des trains régionaux transfrontaliers et EuroCity sont dispo
 
 ### Pologne
 
-La seule ligne transfrontalière actuellement en service régulier est Skalité (SK) – Zwardoń (PL). Elle est opérée conjointement par ZSSK et Koleje Śląskie. Les passes gratuits ZSSK sont valables jusqu'au point frontière.
+La seule ligne transfrontalière actuellement en service régulier est Skalité (SK) – Zwardoń (PL). Elle est opérée conjointement par ZSSK et Koleje Śląskie. Les passes gratuits ZSSK sont valables jusqu’au point frontière.
 
 En théorie, le trajet transfrontalier peut être complété avec un pass gratuit Koleje Śląskie, mais cela doit être confirmé à l’avance. Les Billets FIP 50 transfrontaliers ne peuvent pas être achetés en ligne sur le site de la ZSSK, mais sont parfois disponibles au guichet ZSSK.
 
 ### Ukraine
 
-Depuis Košice, des trains régionaux circulent vers Chop et Mukachevo. Le FIP n'est pas valable en Ukraine, un billet standard est requis à partir de la frontière.
+Depuis Košice, des trains régionaux circulent vers Chop et Mukachevo. Le FIP n’est pas valable en Ukraine, un billet standard est requis à partir de la frontière.
 
-Les billets transfrontaliers sans réduction FIP peuvent être achetés sur le site de la ZSSK. Si le train s'arrête à Čierna nad Tisou, il est possible d'acheter un billet normal depuis cette gare. Pour des billets moins chers, il est recommandé de demander directement au guichet ZSSK.
+Les billets transfrontaliers sans réduction FIP peuvent être achetés sur le site de la ZSSK. Si le train s’arrête à Čierna nad Tisou, il est possible d’acheter un billet normal depuis cette gare. Pour des billets moins chers, il est recommandé de demander directement au guichet ZSSK.
 
 ## Évaluation FIP
 

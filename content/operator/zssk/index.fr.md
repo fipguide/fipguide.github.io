@@ -24,7 +24,7 @@ Coupon FIP : ✅ \
 Coupon FIP accompagnant : ⛔ \
 Billet FIP 50 : ✅
 
-Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s'appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.
+Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s’appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.
 
 ## Catégories de trains et réservations
 
@@ -127,7 +127,7 @@ Dans les trains `IC` : supplément avec réservation obligatoire
 
 ### Gratuité pour les étudiants et les seniors (sans FIP)
 
-Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires de l’UE, ainsi que les étudiants internationaux en Slovaquie, peuvent également voyager gratuitement. Les étudiants doivent s'enregistrer au guichet ZSSK au moins 3 jours avant leur premier voyage avec un formulaire d'inscription signé par l'école/université. Plus de détails sont disponibles sur la page [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
+Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires de l’UE, ainsi que les étudiants internationaux en Slovaquie, peuvent également voyager gratuitement. Les étudiants doivent s’enregistrer au guichet ZSSK au moins 3 jours avant leur premier voyage avec un formulaire d’inscription signé par l’école/université. Plus de détails sont disponibles sur la page [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Conditions tarifaires spéciales
 

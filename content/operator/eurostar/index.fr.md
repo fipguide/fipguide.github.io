@@ -120,11 +120,11 @@ Lors de la réservation, les cartes FIP de tous les voyageurs doivent être pré
 
 ### À bord du train
 
-Impossible d'acheter un billet à bord. Achat préalable obligatoire.
+Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu'à 3 ans inclus: gratuit, mais sans place attribuée. Pas d'autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d'un adulte. [^2]
+Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d’un adulte. [^2]
 
 ## Conditions tarifaires spéciales
 
