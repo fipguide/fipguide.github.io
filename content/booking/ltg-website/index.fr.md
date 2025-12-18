@@ -1,35 +1,33 @@
 ---
 draft: false
-title: "Site Web MÁV"
-description: "Informations de réservation pour le site Web de réservation MÁV."
+title: "Site Web LTG-Link"
+description: "Informations de réservation pour le site web LTG-Link."
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: "gratuitement"
+    second: "gratuitement"
   fip_50: true
   reservations: true
-  booking_link: "https://jegy.mav.hu/?lang=en"
+  booking_link: "https://ltglink.lt/en"
   type: "website"
 ---
 
-Les billets FIP 50 et les réservations pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV.
+Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets, Reservierungen sowie 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft.
 
-![Aperçu du site Web MÁV](mav-website-overview.webp)
+![Übersicht Vergünstigungen](ltg-website-discount-overview.webp)
+
+![FIP Vergünstigung](ltg-website-fip-discount.webp)
 
 {{% booking-section "fip_50" %}}
 
-## Billets FIP 50
+## FIP 50 Fahrkarten
 
-Les billets FIP 50 pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV. Pour ajouter la réduction FIP 50, sur la page de recherche sous _Passengers and Discounts_, l'aperçu des passagers doit être ouvert. Ce n'est qu'après avoir saisi la date de naissance que la réduction FIP 50 peut être ajoutée avec _Add Discounts_. Une distinction est faite entre les billets FIP 50 1ère classe et 2e classe. La classe se réfère à l'admissibilité, non pas à la classe souhaitée du billet.
-
-![Date de naissance MÁV](mav-website-birthday.webp)
-
-![Réductions MÁV](mav-website-discounts.webp)
+Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets für Verbindungen von LTG-Link in Litauen und Lettland verkauft. Um den FIP 50 Rabatt hinzuzufügen, muss in der Übersicht der Passagiere/Vergünstigungen die Option _I have FIP card_ gewählt werden. Anschließend muss die Nummer des FIP Ausweises hinzugefügt und die Option _FIP discount 50%_ gewählt werden.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
-## Réservations
+## Reservierungen
 
-Les réservations pour les trains MÁV et GySEV peuvent être achetées en ligne pour 990 HUF. Pour ce faire, l'option _I only need seat reservation_ doit être sélectionnée dans la recherche de connexion.
+Auf der Buchungswebsite von LTG-Link werden Reservierungen und 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft. Dazu muss in der Übersicht der Passagiere/Vergünstigungen die Option _I have FIP card_ gewählt werden. Anschließend muss die Nummer des FIP Ausweises hinzugefügt und die Option _FIP discount 100%_ gewählt werden.
 {{% /booking-section %}}

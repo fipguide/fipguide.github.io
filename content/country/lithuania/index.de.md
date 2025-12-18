@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Litauen"
-description: "FIP Nutzung und Informationen zu Bahnreisen in Litauen"
 country: "lithuania"
 params:
   operators_without_fip:

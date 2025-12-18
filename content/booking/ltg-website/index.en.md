@@ -1,35 +1,33 @@
 ---
 draft: false
-title: "MÁV Website"
-description: "Booking information for MÁV booking website."
+title: "LTG-Link Website"
+description: "Booking information for the LTG-Link website."
 params:
   classes:
-    first: "HUF 990"
-    second: "HUF 990"
+    first: "free of charge"
+    second: "free of charge"
   fip_50: true
   reservations: true
-  booking_link: "https://jegy.mav.hu/?lang=en"
+  booking_link: "https://ltglink.lt/en"
   type: "website"
 ---
 
-FIP 50 Tickets and reservations for MÁV and GySEV connections are sold on the MÁV booking website.
+Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets, Reservierungen sowie 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft.
 
-![MÁV Website Overview](mav-website-overview.webp)
+![Übersicht Vergünstigungen](ltg-website-discount-overview.webp)
+
+![FIP Vergünstigung](ltg-website-fip-discount.webp)
 
 {{% booking-section "fip_50" %}}
 
-## FIP 50 Tickets
+## FIP 50 Fahrkarten
 
-FIP 50 Tickets for MÁV and GySEV connections are sold on the MÁV booking website. To add the FIP 50 discount, on the connection search page under _Passengers and Discounts_, the passenger overview must be opened. Only after entering the date of birth can the FIP 50 discount be added with _Add Discounts_. A distinction is made between FIP 50 1st class and 2nd class. The class refers to the eligibility, not the desired class of the ticket.
-
-![MÁV Date of Birth](mav-website-birthday.webp)
-
-![MÁV Discounts](mav-website-discounts.webp)
+Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets für Verbindungen von LTG-Link in Litauen und Lettland verkauft. Um den FIP 50 Rabatt hinzuzufügen, muss in der Übersicht der Passagiere/Vergünstigungen die Option _I have FIP card_ gewählt werden. Anschließend muss die Nummer des FIP Ausweises hinzugefügt und die Option _FIP discount 50%_ gewählt werden.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
-## Reservations
+## Reservierungen
 
-Reservations for MÁV and GySEV trains can be purchased online for 990 HUF. To do this, the option _I only need seat reservation_ must be selected in the connection search.
+Auf der Buchungswebsite von LTG-Link werden Reservierungen und 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft. Dazu muss in der Übersicht der Passagiere/Vergünstigungen die Option _I have FIP card_ gewählt werden. Anschließend muss die Nummer des FIP Ausweises hinzugefügt und die Option _FIP discount 100%_ gewählt werden.
 {{% /booking-section %}}

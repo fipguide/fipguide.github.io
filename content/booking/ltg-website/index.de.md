@@ -14,9 +14,9 @@ params:
 
 Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets, Reservierungen sowie 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft.
 
-![Übersicht Vergünstigungen](ltg-link-website-discount-overview.webp)
+![Übersicht Vergünstigungen](ltg-website-discount-overview.webp)
 
-![FIP Vergünstigung](ltg-link-website-fip-discount.webp)
+![FIP Vergünstigung](ltg-website-fip-discount.webp)
 
 {{% booking-section "fip_50" %}}
 

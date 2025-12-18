@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "LTG-Link"
-description: ""
 country:
   - "lithuania"
 operator: "ltg"
@@ -56,7 +55,7 @@ Billets FIP 50 :
 
 ### En ligne
 
-{{% booking id="ltg-link-website"
+{{% booking id="ltg-website"
 %}}
 {{% /booking %}}
 

@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "LTG-Link"
-description: "Informationen zur Nutzung von FIP bei LTG-Link"
 country:
   - "lithuania"
 operator: "ltg"
@@ -49,7 +48,7 @@ Fahrscheine mit FIP-Ermäßigung bzw. „0er-Fahrscheine" können sowohl über d
 
 ### Online
 
-{{% booking id="ltg-link-website" /%}}
+{{% booking id="ltg-website" /%}}
 
 ### Vor Ort
 

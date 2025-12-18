@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Lithuania"
-description: ""
 country: "lithuania"
 params:
   operators_without_fip:
