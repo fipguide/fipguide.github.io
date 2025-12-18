@@ -45,37 +45,51 @@ FIP Global Fare: <✅/⛔>
 ## Train Categories and Reservations
 
 <!--
-  Are reservations possible and where is there a reservation requirement?
+  For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
+  - `title`: Title of the train category
+  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` or `ship`
+  - `fip_accepted`: true, false, partially
+  - `reservation_required`: true, false, partially
+  - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)
+  - `route_overview_url`: Link to a page with an overview of the routes of this category (can be omitted if not available)
+  - `additional_information_url`: Link to a page with additional information about this category (can be omitted if not available)
 -->
+
+{{% train-category
+    title="title"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    route_overview_url="https://example.com"
+    additional_information_url="https://example.com"
+%}}
 
 <!--
-  For each train category, a separate section can be added according to the following principle:
-  In the title, the following emojis can be used:
-  - ⚠️ for a general reservation requirement or supplements
-  - 1️⃣ for a reservation requirement in 1st class
-  - ⛔ for a non-acceptance of FIP
-  - ℹ️ for confusion with other railway companies/train categories
+  A description of the train category can be added here.
 -->
 
-{{% expander "Train category" traincategory "category" %}}
+{{% highlight confusion %}}
+This highlight can be added if there is a risk that the train category could be confused with another one.
+{{% /highlight %}}
 
-<!-- Replace "Train category" with the name of the category, e.g. ICE. -->
+{{% highlight important %}}
+Further important information can be added here.
+{{% /highlight %}}
 
-**Description:**
+### Reservation
 
-<!-- Description of the category -->
-
-**Reservation possible:** <yes/no> \
-**Reservation required:** <⚠️ yes/no/⚠️1️⃣ only first class> \
-
-<!-- If FIP is not valid, add the following:
-**FIP:** ⛔ FIP is not accepted
--->
-<!-- If there are FIP Global Fares, add the following:
-**FIP Global Fare:**
+<!--
+  Description of the reservation conditions for this train category.
 -->
 
-{{% /expander %}}
+### Scheduled routes
+
+<!--
+  List of all routes of this train category in scheduled services.
+-->
+
+{{% /train-category %}}
 
 ## Class Categories
 

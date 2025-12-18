@@ -45,37 +45,51 @@ Tarif Global FIP : <✅/⛔>
 ## Catégories de trains et réservations
 
 <!--
-  Les réservations sont-elles possibles et où sont-elles obligatoires ?
+  Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant. Les paramètres suivants peuvent être utilisés :
+  - `title` : Titre de la catégorie de train
+  - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` ou `ship`
+  - `fip_accepted` : true, false, partially
+  - `reservation_required` : true, false, partially
+  - `reservation_possible` : true, false, partially (défaut false, peut être omis si reservation_required est true)
+  - `route_overview_url` : Lien vers une page avec un aperçu des lignes de cette catégorie (peut être omis si non disponible)
+  - `additional_information_url` : Lien vers une page avec des informations supplémentaires sur cette catégorie (peut être omis si non disponible)
 -->
+
+{{% train-category
+    title="titre"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    route_overview_url="https://example.com"
+    additional_information_url="https://example.com"
+%}}
 
 <!--
-  Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant :
-  Dans le titre, les emojis suivants peuvent être utilisés :
-  - ⚠️ pour une obligation générale de réservation ou des suppléments
-  - 1️⃣ pour une obligation de réservation en 1ère classe uniquement
-  - ⛔ pour une non-validité FIP
-  - ℹ️ pour des confusions possibles avec d'autres compagnies ferroviaires / catégories de train
+  Une description de la catégorie de train peut être ajoutée ici.
 -->
 
-{{% expander "Catégorie de train" traincategory "category" %}}
+{{% highlight confusion %}}
+Ce bloc peut être ajouté s'il y a un risque que la catégorie de train soit confondue avec une autre.
+{{% /highlight %}}
 
-<!-- Remplacez "Catégorie de train" par le nom de la catégorie, par ex. TGV, ICE -->
+{{% highlight important %}}
+D'autres informations importantes peuvent être ajoutées ici.
+{{% /highlight %}}
 
-**Description :** \
+### Réservation
 
-<!-- Description de la catégorie -->
-
-**Réservation possible :** <oui/non> \
-**Réservation obligatoire :** <⚠️ oui / non / ⚠️1️⃣ seulement en 1ère classe> \
-
-<!-- Si FIP n’est pas accepté, ajoutez ceci :
-**FIP :** ⛔ FIP non accepté
--->
-<!-- Si les Tarifs Globaux FIP sont disponibles, ajoutez ceci :
-**Tarif Global FIP :**
+<!--
+  Description des conditions de réservation pour cette catégorie de train.
 -->
 
-{{% /expander %}}
+### Lignes régulières
+
+<!--
+  Liste de toutes les lignes de cette catégorie de train en service régulier.
+-->
+
+{{% /train-category %}}
 
 ## Catégories de classes
 

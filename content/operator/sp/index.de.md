@@ -40,7 +40,7 @@ Die Appenzeller Bahnen betreiben ein Netz von Eisenbahnen in den Kantonen Appenz
 
 Alle diese Verkehre können mit FIP genutzt werden.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Gossau SG – Appenzell – Wasserauen
 - St.Gallen – Gais – Appenzell
@@ -61,7 +61,7 @@ Das Verkehrsunternehmen Aare Seeland mobil betreibt mehrere Meterspur-Linien in 
 
 Alle diese Verkehre können mit FIP genutzt werden.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Biel/Bienne – Täuffelen – Ins
 - Langenthal – St.Urban Ziegelei
@@ -81,7 +81,7 @@ Das Verkehrsunternehmen Aargau Verkehr AG entstand durch die Fusion der BDWM Tra
 
 Während auf den im Folgenden genannten Bahnstrecken und im Busverkehr FIP-Vergünstigungen gültig sind, ist uns unbekannt ob FIP auf der Limmattalbahn, die als Straßenbahn zwischen Zürich Altstetten und Killwangen-Spreitenbach verkehrt, gültig ist.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Wohlen – Bremgarten – Dietikon
 - Schöftland – Aarau – Menziken – Burg
@@ -97,7 +97,7 @@ Während auf den im Folgenden genannten Bahnstrecken und im Busverkehr FIP-Verg�
 %}}
 Die Baselland Transport AG betreibt einzelne Straßenbahnen und Busse im Linienverkehr im Raum Basel. Während auf den Buslinien überall FIP gültig ist, ist uns dies bei den Straßenbahnen nicht bekannt. Nur die unten stehenden Strecken können gesichert mit FIP genutzt werden.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Dornach – Arlesheim – Basel – Rodersdorf
 - Liestal – Waldenburg
@@ -114,7 +114,7 @@ Die Chemins de fer du Jura, auf deutsch Jurabahnen, sind eine Eisenbahngesellsch
 
 Alle diese Verkehre können mit FIP genutzt werden.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Glovelier – La Chaux-de-Fonds
 - Tavannes – Le Noirmont
@@ -137,7 +137,7 @@ Eine Reservierung ist erforderlich für den speziellen Treno Panoramico Vigezzo 
 
 Bei den Seilbahnen ist nicht bekannt, ob hier FIP anerkannt wird. Im Busverkehr wird FIP dagegen anerkannt.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Locarno (– Camedo – Domodossola)
 
@@ -151,7 +151,7 @@ Bei den Seilbahnen ist nicht bekannt, ob hier FIP anerkannt wird. Im Busverkehr 
 %}}
 Die Forchbahn ist eine meterspurige Schmalspurbahn, die zwischen Zürich und Esslingen verkehrt. Innerhalb von Zürich fährt sie auf dem regulären Straßenbahnnetz, hält dabei aber als Schnelllinie nur an den wichtigsten Haltestellen. Sie ist als Linie S18 in das Netz der S-Bahn Zürich integriert. FIP ist auf der kompletten Strecke gültig.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Zürich Stadelhofen – Esslingen
 
@@ -165,7 +165,7 @@ Die Forchbahn ist eine meterspurige Schmalspurbahn, die zwischen Zürich und Ess
 %}}
 Die Frauenfeld–Wild-Bahn ist eine meterspurige Schmalspurbahn, die zwischen Wil im Kanton St. Gallen und Frauenfeld im Thurgau verkehrt. FIP ist auf der kompletten Strecke gültig.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Wil SG – Frauenfeld FW
 
@@ -223,7 +223,7 @@ Die MBC sind eine regionale Verkehrsgesellschaft im Schweizer Kanton Waadt. Sie 
 
 Die Busse und Schmalspurbahnen können mit FIP genutzt werden, bei der Standseilbahn ist uns nicht bekannt, ob hier FIP anerkannt wird.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Bière – Apples – Morges
 - Apples – L'Isletou – Mont-la-Ville
@@ -241,7 +241,7 @@ Die Matterhorn Gotthard Bahn besitzt ein 144 Kilometer langes Streckennetz in de
 
 Eine Reservierung ist erforderlich beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betrieben wird, siehe [eigener Abschnitt](#glacier-express).
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Brig – Zermatt
 - Brig – Disentis
@@ -273,7 +273,7 @@ FIP ist gültig auf den kompletten unten genannten Routen der MOB. Zwischen Zwei
 
 Für den GoldenPass Express (Durchgehende Züge von Montreux bis Interlaken Ost) und GoldenPass Panoramic (Züge zwischen Montreux und Zweisimmen), die beide in der Verbindungsauskunft als `PE` gekennzeichnet werden, ist eine Mitfahrt ohne Sitzplatzreservierung nur möglich, wenn noch Plätze frei sind. Ansonsten kann über die [Website der MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets) eine kostenpflichtige Reservierung erworben werden. Für bestimmte Panoramawagen beim GoldenPass Panoramic kann zusätzlich vor Ort ein Zuschlag erhoben werden.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Montreux – Les Avants – Montbovon – Gstaad – Zweisimmen (– Interlaken Ost)
 - Zweisimmen – Lenk im Simmental
@@ -304,7 +304,7 @@ Die NStCM ist eine Eisenbahngesellschaft im Kanton Waadt. Sie betreibt lediglich
 
 FIP ist auf der kompletten Strecke gültig.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Nyon – St-Cergue – La Cure
 
@@ -320,7 +320,7 @@ Die OeBB (nicht zu verwechseln mit der ÖBB) ist eine Eisenbahngesellschaft im K
 
 FIP ist auf der kompletten Strecke gültig.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Oensingen – Balsthal
 
@@ -336,7 +336,7 @@ Die RA ist eine Eisenbahngesellschaft im Kanton Wallis und betreibt verschiedene
 
 FIP ist auf allen Strecken gültig.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Brig – St. Gingolph
 - Martigny – Sembrancher – Orsières
@@ -381,7 +381,7 @@ Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahns
 
 FIP ist auf allen Strecken gültig.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Bern – Solothurn (RE 5)
 - Bern – Worb Dorf (S7)
@@ -403,7 +403,7 @@ FIP ist fast auf allen Verbindungen gültig. Keine Vergünstigungen bestehen auf
 
 Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Abschnitt](#glacier-express). Für den Bernina Express, verkehrt auf der Strecke Chur – Tirano als `PE`, muss neben der Reservierung ein Aufschlag gezahlt werden, siehe [eigener Abschnitt](#bernina-express).
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Chur – Disentis/Mustér
 - Chur – Arosa
@@ -449,7 +449,7 @@ FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweiz
 
 Eine Reservierung ist erforderlich für den speziellen Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet), siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision).
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - (Locarno –) Camedo – Domodossola
 
@@ -472,7 +472,7 @@ Die Sensetalbahn betrieb die Strecke Flamatt – Laupen – Gümmenen, die heute
 %}}
 Die SZU betreibt die beiden S-Bahn Linien S4 und S10 der S-Bahn Zürich. Diese führen von Zürich HB nach Sihlwald bzw. auf den Uetliberg. Beide sind in FIP integriert.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Zürich HB – Adliswil – Sihlwald (S4)
 - Zürich HB – Uetliberg (S10)
@@ -531,7 +531,7 @@ Die Züge nach 23 Uhr sind reservierungspflichtig und müssen mindestens 30 Minu
 
 Im Busverkehr gelten FIP-Vergünstigungen der SP auf allen Routen, außer auf den Strecken Salvan – La Creusaz – Van-d'en-Haut sowie Finhaut – Lac d'Emosson.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Martigny – Le Châtelard-Frontière
 
@@ -547,7 +547,7 @@ Die TPC betreibt vier meterspurige Eisenbahnstrecken in den Kantonen Waadt und W
 
 Alle Verkehre sind mit FIP-Vergünstigungen der SP nutzbar.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Martigny – Le Châtelard-Frontière
 - Aigle – Leysin
@@ -567,7 +567,7 @@ Die Freiburgischen Verkehrsbetriebe (französisch Transports publics fribourgeoi
 
 Alle Verkehre sind mit FIP-Vergünstigungen der SP nutzbar.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Fribourg/Freiburg – Murten – Ins
 - Romont – Bulle
@@ -587,7 +587,7 @@ TRAVYS ist ein Verkehrsunternehmen, das im Norden des Kantons Waadt eine Normals
 
 Alle diese Verkehre sind mit FIP-Vergünstigungen der SP nutzbar. Die normalspurige Strecke zwischen Le Pont und Le Brassus ist zwar infrastrukturell TRAVYS zugeordnet, wird jedoch von der SBB betrieben.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Yverdon-les-Bains – Ste-Croix
 - Orbe – Chavornay
@@ -642,7 +642,7 @@ Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – 
 
 FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `PE` gekennzeichneten Züge zwischen Luzern und Interlaken Ost sind ohne Aufschlag nutzbar. Eine Reservierung für diesen Zug kann über die [offizielle Website](https://shop.luzern.com/de/stories/luzern-interlaken-express) kostenpflichtig erworben werden, ist jedoch keine Pflicht.
 
-**Linien im Bahnverkehr:**
+### Strecken im Linienverkehr
 
 - Luzern – Meiringen – Interlaken Ost
 - Meiringen – Innertkirchen
@@ -654,7 +654,7 @@ FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `
 
 {{% train-category
     title="Bielersee-Schifffahrts-Gesellschaft (BSG)"
-    type="bus"
+    type="ship"
     fip_accepted=true
     reservation_required=false
 %}}
@@ -673,7 +673,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig. Transitp
 
 {{% train-category
     title="Compagnie générale de navigation (Genfersee) (CGN)"
-    type="bus"
+    type="ship"
     fip_accepted=true
     reservation_required=false
 %}}
@@ -697,7 +697,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Routen gültig. Transitpu
 
 {{% train-category
     title="Société navigation sur les Lacs du Neuchâtel et Morat (LNM)"
-    type="bus"
+    type="ship"
     fip_accepted=true
     reservation_required=false
 %}}
@@ -717,7 +717,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf diesen Routen gültig. Transitp
 
 {{% train-category
     title="Schifffahrtsgesellschaft des Vierwaldstättersee (SGV)"
-    type="bus"
+    type="ship"
     fip_accepted=partially
     reservation_required=false
 %}}
