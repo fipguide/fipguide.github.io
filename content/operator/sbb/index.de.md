@@ -24,60 +24,100 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Beschreibung:** \
-Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt.
+{{% /train-category %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
-Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
-{{% /expander %}}
+{{% train-category
+    id="tgv"
+    title="Train à Grande Vitesse (TGV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
 
-{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
-**Beschreibung:** \
+{{% highlight important %}}
+Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig.
+{{% /highlight %}}
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC) / Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
 Internationale Züge Richtung Deutschland und Italien.
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden. \
-Aufschlag/Reservierung: \
+{{% highlight important %}}
+Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden.
+{{% /highlight %}}
+
+#### Reservierung
+
 1\. Klasse: 13€ \
-2\. Klasse: 11€ \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ nur für den italienischen Abschnitt
-{{% /expander %}}
+2\. Klasse: 11€
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Beschreibung:** \
-Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+Eine Reservierung ist für den italienischen Abschnitt erforderlich.
+{{% /train-category %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
-Die Züge verkehren teilweise zusätzlich auch als Intercity, Eurocity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity, Eurocity und Regionalzügen)
-{{% /expander %}}
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
+{{% /train-category %}}
 
-{{% expander "InterRegio (IR) / RegionalExpress (RE)" traincategory category %}}
-**Beschreibung:** \
-Nationale Züge mit Halten in größeren Städten. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
 
-{{% expander "Regio (R) / S-Bahn (S)" traincategory category %}}
-**Beschreibung:** \
-Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet. \
-**Reservierung möglich:** nein
-{{% /expander %}}
+{{% highlight important %}}
+Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity und Regionalzügen.
+{{% /highlight %}}
+{{% /train-category %}}
+
+{{% train-category
+    id="ir"
+    title="InterRegio (IR) / RegionalExpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Nationale Züge mit Halten in größeren Städten.
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regio (R) / S-Bahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
