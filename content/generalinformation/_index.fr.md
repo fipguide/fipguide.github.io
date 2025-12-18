@@ -13,9 +13,9 @@ Pour utiliser les réductions FIP, vous devez être autorisé à utiliser le FIP
 {{% highlight important %}}
 Ci-dessous, nous expliquons les bases générales du FIP. Cependant, des informations spécifiques peuvent varier selon le pays ou l'entreprise ferroviaire. Avant de voyager, vous devez toujours vous familiariser avec les règles du transporteur ferroviaire spécifique du pays que vous visitez. Le Guide FIP peut vous aider :
 
-* [Aperçu des Transporteurs Ferroviaires]({{% ref "/operator"%}} "Aperçu des Transporteurs Ferroviaires" )
-* [Aperçu des Pays]({{% ref "/country" %}} "Aperçu des Pays" )
-{{% /highlight %}}
+- [Aperçu des Transporteurs Ferroviaires]({{% ref "/operator"%}} "Aperçu des Transporteurs Ferroviaires" )
+- [Aperçu des Pays]({{% ref "/country" %}} "Aperçu des Pays" )
+  {{% /highlight %}}
 
 Les réductions FIP s'appliquent souvent uniquement au transport ferroviaire et non aux bus, métros ou tramways. Cependant, il peut y avoir des exceptions, qui sont décrites sur les pages des opérateurs concernés.
 

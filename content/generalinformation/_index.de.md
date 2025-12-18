@@ -13,9 +13,9 @@ Damit FIP Fahrvergünstigungen genutzt werden können, muss die Berechtigung fü
 {{% highlight important %}}
 Im Folgenden erklären wir die allgemeinen FIP Grundlagen. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor einer Reise solltest du dich immer mit den Regeln des jeweiligen Eisenbahnverkehrsunternehmens in dem Land vertraut machen. Dabei hilft der FIP Guide:
 
-* [Übersicht der Bahngesellschaften]({{% ref "/operator"%}} "Übersicht Bahngesellschaften" )
-* [Übersicht der Länder]({{% ref "/country" %}} "Übersicht Länder" )
-{{% /highlight %}}
+- [Übersicht der Bahngesellschaften]({{% ref "/operator"%}} "Übersicht Bahngesellschaften" )
+- [Übersicht der Länder]({{% ref "/country" %}} "Übersicht Länder" )
+  {{% /highlight %}}
 
 FIP Vergünstigungen gelten häufig nur für im Eisenbahnverkehr und nicht für Busse, U-Bahnen oder Straßenbahnen. Hierbei kann es jedoch Ausnahmen geben, die auf den jeweiligen Betreiberseiten beschrieben sind.
 

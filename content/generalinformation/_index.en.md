@@ -13,9 +13,9 @@ To use FIP travel discounts, you must be entitled to use FIP. This is usually gr
 {{% highlight important %}}
 Below we explain the general FIP basics. However, specific information may vary depending on the country or railway company. Before traveling, you should always familiarize yourself with the rules of the specific railway operator in the country you are visiting. The FIP Guide can help:
 
-* [Overview of Railway Operators]({{% ref "/operator"%}} "Overview of Railway Operators" )
-* [Overview of Countries]({{% ref "/country" %}} "Overview of Countries" )
-{{% /highlight %}}
+- [Overview of Railway Operators]({{% ref "/operator"%}} "Overview of Railway Operators" )
+- [Overview of Countries]({{% ref "/country" %}} "Overview of Countries" )
+  {{% /highlight %}}
 
 FIP discounts often apply only to rail travel and not to buses, subways, or trams. However, there may be exceptions, which are described on the relevant operator pages.
 
