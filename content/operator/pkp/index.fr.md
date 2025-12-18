@@ -91,7 +91,7 @@ En Pologne : \
 Voiture-lits : Simple 299 PLN, Double 159 PLN, Triple 79 PLN \
 Voiture couchettes : Compartiment 3/4 couchettes 69 PLN, Compartiment 6 couchettes 59 PLN [^1]
 
-Prix différents pour les connexions internationales. [Plus d'informations](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
+Prix différents pour les connexions internationales. [Plus d'informations](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
 {{% /expander %}}
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}
