@@ -15,9 +15,9 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 ## Résumé
 
 - Les Coupons FIP et Billets FIP 50 sont acceptés.
-- Attention aux trains d'autres opérateurs qui n’acceptent pas FIP.
-- FIP non valable dans le train express `CAT` vers l'aéroport de Vienne.
-- Règles spécifiques pour les trains vers l'Italie, les Nightjet, les trains auto, et les IC Bus.
+- Attention aux trains d’autres opérateurs qui n’acceptent pas FIP.
+- FIP non valable dans le train express `CAT` vers l’aéroport de Vienne.
+- Règles spécifiques pour les trains vers l’Italie, les Nightjet, les trains auto, et les IC Bus.
 - Le Coupon FIP ÖBB est aussi valable au Liechtenstein.
 
 ## Validité des Billets FIP
@@ -151,13 +151,13 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}

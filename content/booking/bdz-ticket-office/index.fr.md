@@ -16,7 +16,7 @@ params:
 
 ## Billets FIP 50
 
-Aux guichets BDŽ, il est possible d'acheter des Billets FIP 50 pour des voyages en Bulgarie, et aux guichets internationaux également pour des trajets vers la Roumanie.
+Aux guichets BDŽ, il est possible d’acheter des Billets FIP 50 pour des voyages en Bulgarie, et aux guichets internationaux également pour des trajets vers la Roumanie.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

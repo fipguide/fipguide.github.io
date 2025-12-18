@@ -11,7 +11,7 @@ params:
   type: "onsite"
 ---
 
-Aux guichets MÁV, une distinction est faite entre les guichets nationaux et internationaux. En règle générale, le personnel des guichets internationaux parle des langues étrangères telles que l'anglais ou l'allemand.
+Aux guichets MÁV, une distinction est faite entre les guichets nationaux et internationaux. En règle générale, le personnel des guichets internationaux parle des langues étrangères telles que l’anglais ou l’allemand.
 
 {{% booking-section "fip_50" %}}
 

@@ -14,7 +14,7 @@
 - Use "FIP Coupon" instead of "FIP free travel"
 - Use "Motorail train" instead of "car train"
 - Use "Break of journey" instead of "Journey Interruption"
-- Use ’ instead of ' for apostrophes in French content
+- Use ’ (U+2019) instead of ' (U+0027) for apostrophes in French content
 
 ### Translations
 

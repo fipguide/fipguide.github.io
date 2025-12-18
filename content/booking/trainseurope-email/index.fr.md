@@ -13,7 +13,7 @@ params:
 
 ## Tarif Global FIP
 
-Des billets au Tarif Global FIP peuvent être achetés via Trainseurope Ltd. Pour cela, il faut envoyer un e-mail à [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk). La réservation n'est possible qu'en anglais. Les informations suivantes doivent être fournies :
+Des billets au Tarif Global FIP peuvent être achetés via Trainseurope Ltd. Pour cela, il faut envoyer un e-mail à [sales@trainseurope.co.uk](mailto:sales@trainseurope.co.uk). La réservation n’est possible qu’en anglais. Les informations suivantes doivent être fournies :
 
 - Date et heure du voyage
 - Gare de départ et de destination

@@ -91,7 +91,7 @@ Innerhalb Polens: \
 Schlafwagen: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
 Liegewagen: 3er/4er Abteil 69 PLN, 6er Abteil 59 PLN [^1]
 
-Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
+Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
 {{% /expander %}}
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}

@@ -129,11 +129,11 @@ Tous ces services sont accessibles avec le FIP.
     reservation_required=partially
     reservation_possible=true
 %}}
-Ferrovie autolinee regionali ticinesi exploite, en plus de certaines lignes d'autobus, la section suisse de la ligne Centovalli entre Locarno et Domodossola en Italie, ainsi que deux petits téléphériques.
+Ferrovie autolinee regionali ticinesi exploite, en plus de certaines lignes d’autobus, la section suisse de la ligne Centovalli entre Locarno et Domodossola en Italie, ainsi que deux petits téléphériques.
 
-Même si la ligne des Centovalli se prolonge en Italie, les billets FIP SP sont valables sur l'ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre FIP SP.
+Même si la ligne des Centovalli se prolonge en Italie, les billets FIP SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre FIP SP.
 
-Pour les téléphériques, on ne sait pas si le FIP est accepté. Sur les lignes d'autobus, le FIP est accepté.
+Pour les téléphériques, on ne sait pas si le FIP est accepté. Sur les lignes d’autobus, le FIP est accepté.
 
 #### Réservation
 
@@ -241,7 +241,7 @@ Les bus et trains à voie étroite sont accessibles avec le FIP ; pour le funicu
     reservation_required=partially
     reservation_possible=true
 %}}
-La Matterhorn Gotthard Bahn dispose d'un réseau de 144 km dans les cantons du Valais, d'Uri et des Grisons. Si toutes les réductions FIP sont reconnues sur certaines lignes, ce n'est pas le cas entre Zermatt et Gornergrat, où seuls les Billets FIP 50 sont acceptés. Le transport auto par le tunnel de la Furka est totalement exclu du FIP. Le FIP est entièrement accepté sur les lignes d'autobus.
+La Matterhorn Gotthard Bahn dispose d’un réseau de 144 km dans les cantons du Valais, d’Uri et des Grisons. Si toutes les réductions FIP sont reconnues sur certaines lignes, ce n’est pas le cas entre Zermatt et Gornergrat, où seuls les Billets FIP 50 sont acceptés. Le transport auto par le tunnel de la Furka est totalement exclu du FIP. Le FIP est entièrement accepté sur les lignes d’autobus.
 
 #### Réservation
 
@@ -276,15 +276,15 @@ La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le 
     reservation_required=false
     reservation_possible=true
 %}}
-La Montreux–Oberland bernois (MOB) exploite la ligne à voie métrique de Montreux à Lenk im Simmental. Aujourd'hui, la plupart des trains circulent seulement entre Montreux et Zweisimmen, voire jusqu'à Interlaken Ost. La section Zweisimmen – Lenk im Simmental est exploitée indépendamment, sans liaisons directes.
+La Montreux–Oberland bernois (MOB) exploite la ligne à voie métrique de Montreux à Lenk im Simmental. Aujourd’hui, la plupart des trains circulent seulement entre Montreux et Zweisimmen, voire jusqu’à Interlaken Ost. La section Zweisimmen – Lenk im Simmental est exploitée indépendamment, sans liaisons directes.
 
-Elle est également l'entreprise exploitante sur les lignes des Transports Montreux–Vevey–Riviera (MVR), intégrant ainsi d'autres lignes à voie étroite et des funiculaires dans l'exploitation de la MOB.
+Elle est également l’entreprise exploitante sur les lignes des Transports Montreux–Vevey–Riviera (MVR), intégrant ainsi d’autres lignes à voie étroite et des funiculaires dans l’exploitation de la MOB.
 
-Le FIP est valable sur l'ensemble des itinéraires de la MOB indiqués ci-dessous. Entre Zweisimmen et Interlaken Ost, les trains sont toutefois exploités par BLS SA. Cela signifie que des Coupons FIP tant pour SP que pour BLS sont nécessaires pour parcourir l'intégralité de la ligne. Les Billets FIP 50 peuvent être réservés de bout en bout.
+Le FIP est valable sur l’ensemble des itinéraires de la MOB indiqués ci-dessous. Entre Zweisimmen et Interlaken Ost, les trains sont toutefois exploités par BLS SA. Cela signifie que des Coupons FIP tant pour SP que pour BLS sont nécessaires pour parcourir l’intégralité de la ligne. Les Billets FIP 50 peuvent être réservés de bout en bout.
 
 #### Réservation
 
-Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le GoldenPass Panoramic (trains entre Montreux et Zweisimmen), tous deux indiqués `PE` dans les horaires, le voyage sans réservation de siège n'est possible que s'il reste des places disponibles. Sinon, une réservation payante peut être achetée via le [site de la MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). Pour certains wagons panoramiques du GoldenPass Panoramic, un supplément peut être perçu sur place.
+Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le GoldenPass Panoramic (trains entre Montreux et Zweisimmen), tous deux indiqués `PE` dans les horaires, le voyage sans réservation de siège n’est possible que s’il reste des places disponibles. Sinon, une réservation payante peut être achetée via le [site de la MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). Pour certains wagons panoramiques du GoldenPass Panoramic, un supplément peut être perçu sur place.
 
 #### Lignes régulières
 
@@ -412,13 +412,13 @@ Le FIP est valable sur toutes les lignes.
     reservation_required=partially
     reservation_possible=partially
 %}}
-Les Chemins de fer rhétiques exploitent principalement des lignes dans le canton des Grisons et circulent aussi jusqu'en Italie. Ils sont internationalement connus pour les trains panoramiques Bernina Express et Glacier Express. Des lignes d'autobus sont également exploitées par les RhB.
+Les Chemins de fer rhétiques exploitent principalement des lignes dans le canton des Grisons et circulent aussi jusqu’en Italie. Ils sont internationalement connus pour les trains panoramiques Bernina Express et Glacier Express. Des lignes d’autobus sont également exploitées par les RhB.
 
-Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s'applique aux navettes auto par les tunnels de l'Albula et de la Vereina.
+Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s’applique aux navettes auto par les tunnels de l’Albula et de la Vereina.
 
 #### Réservation
 
-Pour le Glacier Express, des réservations payantes doivent être achetées à l'avance ; voir la [section dédiée](#glacier-express). Pour le Bernina Express, circulant entre Coire et Tirano et indiqué `PE`, un supplément doit être payé en plus de la réservation ; voir la [section dédiée](#bernina-express).
+Pour le Glacier Express, des réservations payantes doivent être achetées à l’avance ; voir la [section dédiée](#glacier-express). Pour le Bernina Express, circulant entre Coire et Tirano et indiqué `PE`, un supplément doit être payé en plus de la réservation ; voir la [section dédiée](#bernina-express).
 
 #### Lignes régulières
 
@@ -464,7 +464,7 @@ Pour les réductions FIP, il convient de noter que les Coupons SP ne sont pas va
 %}}
 La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la ligne Centovalli de Camedo à Domodossola.
 
-Les billets FIP SP sont valables sur l'ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
+Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
 
 #### Réservation
 
@@ -546,11 +546,11 @@ Il existe également des lignes de nuit dans les deux régions, remplaçant les 
     reservation_required=partially
     reservation_possible=partially
 %}}
-TMR est une entreprise de transport du canton du Valais. Elle exploite une ligne ferroviaire, le Mont-Blanc Express. Elle exploite également quelques lignes d'autobus dans la région.
+TMR est une entreprise de transport du canton du Valais. Elle exploite une ligne ferroviaire, le Mont-Blanc Express. Elle exploite également quelques lignes d’autobus dans la région.
 
-Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur le Mont-Blanc Express. Entre Le Châtelard-Frontière et Vallorcine, la ligne est exploitée par la SNCF, pour laquelle le FIP est aussi utilisable, mais le Coupon SP n'y est pas valable (un Coupon SNCF est nécessaire).
+Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur le Mont-Blanc Express. Entre Le Châtelard-Frontière et Vallorcine, la ligne est exploitée par la SNCF, pour laquelle le FIP est aussi utilisable, mais le Coupon SP n’y est pas valable (un Coupon SNCF est nécessaire).
 
-Sur les lignes d'autobus, les réductions FIP SP s'appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d'en-Haut et Finhaut – Lac d'Emosson.
+Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d’en-Haut et Finhaut – Lac d’Emosson.
 
 #### Réservation
 
@@ -671,7 +671,7 @@ Les réductions FIP SP sont valables sur les trois lignes. Les trains indiqués 
 
 #### Réservation
 
-Une réservation pour le `PE` entre Lucerne et Interlaken Ost peut être achetée contre paiement via le [site officiel](https://shop.luzern.com/de/stories/luzern-interlaken-express), mais elle n'est pas obligatoire.
+Une réservation pour le `PE` entre Lucerne et Interlaken Ost peut être achetée contre paiement via le [site officiel](https://shop.luzern.com/de/stories/luzern-interlaken-express), mais elle n’est pas obligatoire.
 
 #### Lignes régulières
 

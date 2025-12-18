@@ -15,7 +15,7 @@ params:
 
 ## Tarif Global FIP
 
-Des billets au Tarif Global FIP peuvent être achetés par téléphone via Trainseurope Ltd. Pour cela, il faut appeler la hotline [+44 1354 660222](tel:+441354660222) ou [+44 1354 705098](tel:+441354705098). La réservation n'est possible qu'en anglais. Les informations suivantes doivent être fournies :
+Des billets au Tarif Global FIP peuvent être achetés par téléphone via Trainseurope Ltd. Pour cela, il faut appeler la hotline [+44 1354 660222](tel:+441354660222) ou [+44 1354 705098](tel:+441354705098). La réservation n’est possible qu’en anglais. Les informations suivantes doivent être fournies :
 
 - Date et heure du voyage
 - Gare de départ et de destination

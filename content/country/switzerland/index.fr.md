@@ -21,7 +21,7 @@ En Suisse, il existe trois opérateurs différents pour lesquels des FIP Coupons
 
 En combinaison, ces opérateurs couvrent presque tout le réseau ferroviaire suisse, y compris certains moyens de transport uniques en Europe accessibles avec FIP, comme des téléphériques ou certaines lignes de bus.
 
-Il existe seulement quelques liaisons touristiques qui ne sont pas couvertes par le FIP. De plus, les voyages transfrontaliers en trains de grande ligne vers la France et l'Italie peuvent nécessiter un peu plus d'efforts, car des frais supplémentaires peuvent s'appliquer dans ces cas.
+Il existe seulement quelques liaisons touristiques qui ne sont pas couvertes par le FIP. De plus, les voyages transfrontaliers en trains de grande ligne vers la France et l’Italie peuvent nécessiter un peu plus d’efforts, car des frais supplémentaires peuvent s’appliquer dans ces cas.
 
 ## Informations générales
 
