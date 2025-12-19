@@ -8,7 +8,8 @@ country:
 operator: "bsb"
 ---
 
-Die Bodensee-Schiffsbetriebe bzw. Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein betreiben die Fähren auf dem Bodensee.
+Die Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee.
+
 Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
 - BSB (Bodensee-Schiffsbetriebe GmbH)
@@ -19,7 +20,6 @@ Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 ## Zusammenfassung
 
 - FIP 50 und FIP Freifahrtscheine werden akzeptiert
-- Reservierungspflicht in ausgewählten Zügen
 - Buchungsmöglichkeiten am Ticketschalter und auf der Fähre
 
 ## Gültigkeit FIP Tickets

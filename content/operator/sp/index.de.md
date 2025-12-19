@@ -24,7 +24,7 @@ FIP 50 Tickets: ✅
 
 FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zug- und Busbetreiber](#zug--und-busbetreiber), sowie bei den [Schiffbetreibern](#betreiber-von-schiffen). FIP Freifahrtscheine gelten mit wenigen Ausnahmen auch überall.
 
-## Zugkategorien und Reservierungen
+## Betreiber und Reservierungen
 
 Bei den folgenden Betreibern wird FIP akzeptiert:
 

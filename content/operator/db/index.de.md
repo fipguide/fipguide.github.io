@@ -6,14 +6,11 @@ country:
 operator: "db"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschland und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
 
 ## Zusammenfassung
 
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert
 - Keine Reservierungspflicht im nationalen Verkehr
 - Im Regionalverkehr viele private Betreiber ohne FIP
 
@@ -108,13 +105,6 @@ _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bi
 **FIP Globalpreis:** ja \
 **Kosten für Reservierung:** \
 Abhängig von Strecke und Auslastung sowie Wagenkategorie.
-{{% /expander %}}
-
-{{% expander "Schifffahrt und Inselbahn Wangerooge" traincategory "long-distance" %}}
-**Beschreibung:** Fährverkehr zwischen Harlesiel Anleger und Wangerooge und Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
-
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
 {{% /expander %}}
 
 ### Nahverkehr
@@ -236,17 +226,33 @@ Eine Übersicht über alle Verkehrsverbünde ist auf [Wikipedia](https://de.wiki
 Als grobe Orientierung kann auch im DB Navigator oder der [Website der DB](https://bahn.de) geprüft werden, ob für eine Strecke Verbundtickets verkauft werden. Diese sind als _Verbund-Angebote_, mit dem Logo und unter Angebote des \[Verkehsverbundnamen\] gekennzeichnet.
 {{% /highlight %}}
 
-<!--
+{{% expander "Beispiel für Verkehrsverbünde auf Bahn.de" info %}}
+In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
-### FIP 50 Tickets nur für Nahverkehr und nur für Fernverkehr
+![Verbindungssuche VRS](search_vrs.webp)
+![Ticketauswahl VRS](ticket_vrs.de.webp)
+{{% /expander %}}
 
-Bei der DB gibt es eine tarifliche Unterscheidung zwischen Nah- und Fernverkehr.
+### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
--->
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte [_Produktklassen_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+
+Es gibt folgende Produktklassen:
+
+- Produktklasse ICE (ehemals Produktklasse A): \
+  ICE, ICE Sprinter, TGV, RJ, RJX, ECE
+- Produktklasse IC/EC (ehemals Produktklasse B): \
+  IC, EC, D, EN, NJ
+- Produktklasse C: \
+  IRE, RE, FEX, MEX, RB, S
 
 ### DB Syltshuttle
 
 Die DB betreibt den Autoreisezug _Syltshuttle_, welcher von Niebüll Autoverladung nach Westerland (Sylt) Autoverladung verkehrt. Die Mitfahrt ist nur mit einem Fahrzeug (Auto, Wohnwagen, Wohnmobil) möglich und erfordert einen [separaten Fahrschein](https://ticket.syltshuttle.de/). FIP Vergünstigungen werden nicht anerkannt.
+
+### Schifffahrt und Inselbahn Wangerooge
+
+FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wangerooge und Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
 
 ### Regionalverkehre Start GmbH
 

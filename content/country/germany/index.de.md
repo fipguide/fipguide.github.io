@@ -86,10 +86,6 @@ params:
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 ## FIP Nutzung
 
 In Deutschland verkehren über 80 unterschiedliche Betreiber, nur ist FIP für die meisten nicht nutzbar. Bei den folgenden Betreibern gelten FIP Vergünstigungen:
