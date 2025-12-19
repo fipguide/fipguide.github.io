@@ -11,7 +11,7 @@ La protection de vos données personnelles est une préoccupation particulière 
 
 ## Responsable du traitement
 
-Le responsable du traitement des données est Lennart Rommeiß, situé à Klingerstraße 15, 51143 Köln. Vous pouvez nous contacter par e-mail à [nextstop@fipguide.org](mailto:nextstop@fipguide.org) ou par courrier à l'adresse Klingerstraße 15, 51143 Köln.
+Le responsable du traitement des données est Lennart Rommeiß, situé à Klingerstraße 15, 51143 Köln. Vous pouvez nous contacter par e-mail à [nextstop@fipguide.org](mailto:nextstop@fipguide.org) ou par courrier à l’adresse Klingerstraße 15, 51143 Köln.
 
 ## Sécurité des données
 
@@ -21,15 +21,15 @@ Nous prenons des mesures appropriées pour protéger vos données personnelles c
 
 ### Données personnelles, finalité du traitement des données et base juridique
 
-Les données personnelles sont des informations pouvant être clairement attribuées à une personne. Cela inclut, entre autres, des éléments tels que le nom complet, l'adresse, l'e-mail et le numéro de téléphone. Lorsque vous visitez notre site web, d'autres données sont automatiquement collectées pour des raisons techniques (adresse IP, début et fin de session, date et heure de la requête, sous-page consultée sur notre site, type et version du navigateur, système d’exploitation, URL de référence). Ces informations techniques peuvent, dans certains cas, être considérées comme des données personnelles. En règle générale, nous n’utilisons ces informations techniques que si cela est nécessaire (pour des raisons techniques) au bon fonctionnement du site et à sa protection contre les attaques et abus, ainsi que de manière pseudonymisée ou anonymisée à des fins statistiques.
+Les données personnelles sont des informations pouvant être clairement attribuées à une personne. Cela inclut, entre autres, des éléments tels que le nom complet, l’adresse, l’e-mail et le numéro de téléphone. Lorsque vous visitez notre site web, d’autres données sont automatiquement collectées pour des raisons techniques (adresse IP, début et fin de session, date et heure de la requête, sous-page consultée sur notre site, type et version du navigateur, système d’exploitation, URL de référence). Ces informations techniques peuvent, dans certains cas, être considérées comme des données personnelles. En règle générale, nous n’utilisons ces informations techniques que si cela est nécessaire (pour des raisons techniques) au bon fonctionnement du site et à sa protection contre les attaques et abus, ainsi que de manière pseudonymisée ou anonymisée à des fins statistiques.
 
-Si vous nous contactez via le formulaire de contact du site web ou par e-mail, les données que vous nous communiquez (prénom, nom, adresse, numéro de téléphone, e-mail) seront conservées pendant six mois afin de traiter votre demande et en cas de questions complémentaires. Nous ne transmettons pas ces données sans votre consentement. Le traitement de vos données personnelles à des fins spécifiques (par exemple, l'utilisation de votre e-mail pour des newsletters ou de la publicité) peut également se faire sur la base de votre consentement. Vous pouvez à tout moment révoquer votre consentement avec effet pour l’avenir. Cela s'applique également aux consentements donnés avant l'entrée en vigueur du RGPD. Vous serez informé séparément des finalités et des conséquences d’une révocation ou du refus de consentement dans le texte correspondant.
+Si vous nous contactez via le formulaire de contact du site web ou par e-mail, les données que vous nous communiquez (prénom, nom, adresse, numéro de téléphone, e-mail) seront conservées pendant six mois afin de traiter votre demande et en cas de questions complémentaires. Nous ne transmettons pas ces données sans votre consentement. Le traitement de vos données personnelles à des fins spécifiques (par exemple, l’utilisation de votre e-mail pour des newsletters ou de la publicité) peut également se faire sur la base de votre consentement. Vous pouvez à tout moment révoquer votre consentement avec effet pour l’avenir. Cela s’applique également aux consentements donnés avant l’entrée en vigueur du RGPD. Vous serez informé séparément des finalités et des conséquences d’une révocation ou du refus de consentement dans le texte correspondant.
 
 Pour exécuter des contrats ou des mesures précontractuelles et au-delà, nous traitons vos données (prénom, nom, adresse, numéro de téléphone, e-mail) si nécessaire pour protéger des intérêts légitimes, les nôtres ou ceux de tiers, en particulier pour les finalités suivantes :
 
 - Réponse aux demandes
 - Administration technique
-- Publicité ou étude de marché et d'opinion, à condition que vous ne vous y soyez pas opposé
+- Publicité ou étude de marché et d’opinion, à condition que vous ne vous y soyez pas opposé
 - Analyse des besoins et optimisation des procédures
 - Développement des services, produits, systèmes et processus existants
 - Évaluations statistiques ou analyse de marché

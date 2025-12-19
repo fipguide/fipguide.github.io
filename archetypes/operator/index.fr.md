@@ -14,7 +14,7 @@ operator: "{{ .File.ContentBaseName }}"
 {{< wip >}}
 
 <!--
-  Brève description de la compagnie ferroviaire. Par exemple, le nom complet dans la langue locale, les noms alternatifs, et si c'est une compagnie privée ou publique.
+  Brève description de la compagnie ferroviaire. Par exemple, le nom complet dans la langue locale, les noms alternatifs, et si c’est une compagnie privée ou publique.
 -->
 
 ## Résumé
@@ -24,13 +24,13 @@ operator: "{{ .File.ContentBaseName }}"
   Par exemple :
   - Les Billets FIP 50 et les Coupons FIP sont-ils acceptés ?
   - Y a-t-il une obligation de réservation ?
-  - Existe-t-il d'autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
+  - Existe-t-il d’autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
 -->
 
 ## Validité des Billets FIP
 
 <!--
-  Les catégories de billets peuvent varier selon l'opérateur.
+  Les catégories de billets peuvent varier selon l’opérateur.
 -->
 
 Coupon FIP : <✅/⛔> \
@@ -54,7 +54,7 @@ Tarif Global FIP : <✅/⛔>
   - ⚠️ pour une obligation générale de réservation ou des suppléments
   - 1️⃣ pour une obligation de réservation en 1ère classe uniquement
   - ⛔ pour une non-validité FIP
-  - ℹ️ pour des confusions possibles avec d'autres compagnies ferroviaires / catégories de train
+  - ℹ️ pour des confusions possibles avec d’autres compagnies ferroviaires / catégories de train
 -->
 
 {{% expander "Catégorie de train" traincategory "category" %}}
@@ -94,16 +94,16 @@ Tarif Global FIP : <✅/⛔>
 ### En ligne
 
 <!--
-  Intégrez ici les informations d'une plateforme de réservation définie.
+  Intégrez ici les informations d’une plateforme de réservation définie.
 
-  Vous pouvez remplacer individuellement les paramètres de réservation listés ci-dessous, mais ce n'est pas obligatoire.
+  Vous pouvez remplacer individuellement les paramètres de réservation listés ci-dessous, mais ce n’est pas obligatoire.
   Si vous omettez certains paramètres, les valeurs par défaut de la plateforme de réservation seront utilisées.
 
-  Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
+  Pour plus d’informations sur la définition d’une plateforme de réservation, consultez l’archetype de réservation.
 -->
 
 {{% booking id="booking_id"
-    subtitle="Ce sous-titre s'affiche dans le résumé de l'expander et doit rester concis."
+    subtitle="Ce sous-titre s’affiche dans le résumé de l’expander et doit rester concis."
     reservations=nil
     fip_50=false
     fip_global_fare=true
@@ -111,7 +111,7 @@ Tarif Global FIP : <✅/⛔>
     classes.second="10€"
 %}}
 
-<!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s'affiche dans la partie développée. -->
+<!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s’affiche dans la partie développée. -->
 
 {{% /booking %}}
 
@@ -145,7 +145,7 @@ Tarif Global FIP : <✅/⛔>
 ### <Trajet ou nom>
 
 <!--
-  Description de la condition spéciale, s'il existe des réglementations particulières sur certains trajets.
+  Description de la condition spéciale, s’il existe des réglementations particulières sur certains trajets.
 -->
 
 ## Recommandations

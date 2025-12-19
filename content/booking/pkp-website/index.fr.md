@@ -18,7 +18,7 @@ params:
 
 ## Billets FIP 50
 
-PKP vend des billets en ligne avec une réduction FIP 50. Lors de la recherche de connexion, l'option "50% MKZ-FIP" doit être sélectionnée comme réduction pour la personne concernée.
+PKP vend des billets en ligne avec une réduction FIP 50. Lors de la recherche de connexion, l’option "50% MKZ-FIP" doit être sélectionnée comme réduction pour la personne concernée.
 
 Les billets avec réduction FIP 50 ne peuvent être vendus que pour les connexions PKP en Pologne.
 
@@ -29,11 +29,11 @@ Les billets avec réduction FIP 50 ne peuvent être vendus que pour les connexio
 
 ## Réservations
 
-Le site web PKP vend des réservations pour les trains PKP nationaux et transfrontaliers. Lors de la recherche de connexion, l'option "Buy a reservation for your ticket" ou "Kup rezerwację do biletu" doit être sélectionnée :
+Le site web PKP vend des réservations pour les trains PKP nationaux et transfrontaliers. Lors de la recherche de connexion, l’option "Buy a reservation for your ticket" ou "Kup rezerwację do biletu" doit être sélectionnée :
 
 ![Réservation PKP](pkp_reservation.webp)
 
-Ensuite, la connexion ou l'inscription à un compte utilisateur PKP Intercity doit être effectuée pour acheter la réservation.
+Ensuite, la connexion ou l’inscription à un compte utilisateur PKP Intercity doit être effectuée pour acheter la réservation.
 
 Lors de voyages avec un Coupon FIP, celui-ci doit être enregistré dans le compte client en indiquant le numéro du coupon et la période de validité afin que la réservation puisse être achetée :
 

@@ -24,7 +24,7 @@ Billets FIP 50 : ✅
 
 Les Billets FIP 50 sont valables auprès de toutes les entreprises ferroviaires listées, voir [Opérateurs ferroviaires et d’autobus](#operateurs-ferroviaires-et-dautobus), ainsi qu’auprès des [opérateurs de bateaux](#operateurs-de-bateaux). Les Coupons FIP sont également valables presque partout, à quelques exceptions près.
 
-## Catégories de trains et réservations
+## Opérateurs et réservations
 
 Le FIP est accepté par les opérateurs suivants :
 
@@ -439,7 +439,7 @@ Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur
 
 Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 minutes avant le départ et gratuitement via le [site officiel](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
 
-Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d'en-Haut et Finhaut – Lac d'Emosson.
+Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d’en-Haut et Finhaut – Lac d’Emosson.
 
 **Lignes ferroviaires :**
 

@@ -25,12 +25,12 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour 
 ## Catégories de trains et réservations
 
 {{% highlight important %}}
-Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d'autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
+Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d’autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
 {{% /highlight %}}
 
 {{% expander "Cross-country International Train (IC-INT) ⚠️" traincategory traincategory %}}
 **Description :** \
-Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu'en été ; sinon, une correspondance à Ruse est nécessaire. Dans d'autres horaires, ils peuvent aussi être indiqués comme `IR`. La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
+Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu’en été ; sinon, une correspondance à Ruse est nécessaire. Dans d’autres horaires, ils peuvent aussi être indiqués comme `IR`. La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
 
 Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée. \
 **Réservation possible :** oui \
@@ -39,21 +39,21 @@ Certains trains de nuit comprennent également des voitures-couchettes ou des vo
 
 {{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
 **Description :** \
-Trains relativement rapides reliant les grandes villes avec peu d'arrêts. Certains nécessitent une réservation, indiquée par un _R_ dans les horaires. Ils utilisent souvent du matériel plus moderne, par exemple d'anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation. \
+Trains relativement rapides reliant les grandes villes avec peu d’arrêts. Certains nécessitent une réservation, indiquée par un _R_ dans les horaires. Ils utilisent souvent du matériel plus moderne, par exemple d’anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ parfois (indiqué par _R_)
 {{% /expander %}}
 
 {{% expander "Express train (EXP) ⚠️" traincategory traincategory %}}
 **Description :** \
-Trains nationaux reliant des villes avec peu d'arrêts. Certains nécessitent une réservation, indiquée par un _R_ dans les horaires. \
+Trains nationaux reliant des villes avec peu d’arrêts. Certains nécessitent une réservation, indiquée par un _R_ dans les horaires. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ parfois (indiqué par _R_)
 {{% /expander %}}
 
 {{% expander "Regional Train (REG)" traincategory traincategory %}}
 **Description :** \
-Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts et peu rapides. Seules des voitures de 2ᵉ classe sont disponibles. La réservation n'est pas obligatoire mais parfois possible. \
+Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts et peu rapides. Seules des voitures de 2ᵉ classe sont disponibles. La réservation n’est pas obligatoire mais parfois possible. \
 **Réservation possible :** parfois \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -80,11 +80,11 @@ Trains circulant de nuit et nécessitant une réservation. Les prix de réservat
 
 ### À bord du train
 
-Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le départ a lieu d'une gare où le guichet est fermé ou inexistant. Pour les trains à réservation obligatoire, la réservation doit être obtenue avant le voyage.
+Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le départ a lieu d’une gare où le guichet est fermé ou inexistant. Pour les trains à réservation obligatoire, la réservation doit être obtenue avant le voyage.
 
 ## Réductions
 
-Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement. Sur les trajets nationaux, les enfants de moins de 10 ans, et sur les trajets internationaux, les enfants de moins de 12 ans bénéficient d'une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le tarif adulte complet.
+Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement. Sur les trajets nationaux, les enfants de moins de 10 ans, et sur les trajets internationaux, les enfants de moins de 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le tarif adulte complet.
 
 ## Conditions tarifaires spéciales
 
@@ -94,12 +94,12 @@ Si vous souhaitez voyager au-delà de la destination réservée, un supplément 
 
 ### Interruption de voyage
 
-L'interruption de voyage n'est pas autorisée avec un billet continu.
+L’interruption de voyage n’est pas autorisée avec un billet continu.
 
 ## Recommandations
 
 {{% highlight tip %}}
-La BDŽ propose encore une offre relativement large sur un réseau vieillissant. Il est conseillé de planifier ses trajets à l'avance, car de nombreuses lignes ne voient que quelques trains par jour. Les voitures les plus modernes sont d'anciennes voitures IC de la DB, utilisées sur certaines liaisons longue distance entre Sofia et Varna ou Burgas. Un point fort est la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichte, également exploitée par la BDŽ.
+La BDŽ propose encore une offre relativement large sur un réseau vieillissant. Il est conseillé de planifier ses trajets à l’avance, car de nombreuses lignes ne voient que quelques trains par jour. Les voitures les plus modernes sont d’anciennes voitures IC de la DB, utilisées sur certaines liaisons longue distance entre Sofia et Varna ou Burgas. Un point fort est la ligne à voie étroite des Rhodopes entre Septemvri et Dobrinichte, également exploitée par la BDŽ.
 {{% /highlight %}}
 
 ## Sources

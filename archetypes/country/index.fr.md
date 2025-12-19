@@ -16,7 +16,7 @@ params:
 <!--
     Un court résumé qui doit répondre aux questions suivantes, dans cet ordre :
     - Quels Billets FIP (FIP 50 / Coupons FIP) sont reconnus dans le pays et par quels opérateurs ferroviaires ?
-    - Quelles sont les particularités de l'utilisation des Billets FIP avec ces opérateurs ? (Ajoutez un lien vers l’opérateur ferroviaire)
+    - Quelles sont les particularités de l’utilisation des Billets FIP avec ces opérateurs ? (Ajoutez un lien vers l’opérateur ferroviaire)
     - Quels opérateurs ne reconnaissent pas les Billets FIP et comment les identifier dans les informations de correspondance ?
 -->
 
@@ -36,7 +36,7 @@ params:
 ## Arrivée et points frontières
 
 <!--
-Uniquement les points frontaliers situés à la frontière nationale avec d'autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière.
+Uniquement les points frontaliers situés à la frontière nationale avec d’autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière.
 -->
 
 {{% expander "Points frontières" border %}}

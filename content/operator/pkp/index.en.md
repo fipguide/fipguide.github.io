@@ -91,7 +91,7 @@ Within Poland: \
 Sleeping car: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
 Couchette car: 3/4-berth compartment 69 PLN, 6-berth compartment 59 PLN [^1]
 
-Different prices for international connections. [More information](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
+Different prices for international connections. [More information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
 {{% /expander %}}
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}

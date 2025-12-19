@@ -8,9 +8,9 @@ params:
     - Circumflegrea
     - Circumvesuviana
     - Cumana
-    - '[Ferrovie Sud Est]({{< ref "/operator/fs#validité-des-billets-fip" >}} "Ferrovie Sud Est")'
+    - ’[Ferrovie Sud Est]({{< ref "/operator/fs#validité-des-billets-fip" >}} "Ferrovie Sud Est")’
     - Italo / NTV
-    - '[Trenord]({{< ref "/operator/fs#validité-des-billets-fip" >}} "Trenord")'
+    - ’[Trenord]({{< ref "/operator/fs#validité-des-billets-fip" >}} "Trenord")’
 ---
 
 ## Informations FIP
