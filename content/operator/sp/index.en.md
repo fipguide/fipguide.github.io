@@ -24,7 +24,7 @@ FIP 50 Tickets: ✅
 
 FIP 50 Tickets are valid with all listed railway companies, see [Rail and Bus Operators](#rail-and-bus-operators), as well as with the [ship operators](#ship-operators). FIP Coupons are also valid almost everywhere, with a few exceptions.
 
-## Train Categories and Reservations
+## Operators and Reservations
 
 FIP is accepted by the following operators:
 
