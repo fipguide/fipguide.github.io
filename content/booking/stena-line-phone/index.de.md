@@ -9,22 +9,17 @@ params:
   type: "phone"
 ---
 
-{{% satellite %}}
+Ein individuelles Angebot kann via Telefon eingeholt und gebucht werden: [+44 3447 707070](tel:+443447707070)
+
+Die Buchung ist nur in Englisch möglich.
+Ein Buchstabieralphabet kann bei der Angabe von Namen und weiteren Daten helfen.
+Die Reisedaten, Reisepass und FIP Ausweis sollten bereitgehalten werden.
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
 
-FIP-Tickets müssen vor Reiseantritt erworben werden. Der Kauf an Bord von Schiffen ist nicht möglich.
-FIP gewährt lediglich einen Rabatt auf den Fahrpreis. Alle zusätzlichen Leistungen werden zum vollen Preis berechnet und sind nicht rabattiert. Hierzu gehören unter anderem die Reservierungskosten für Kabinen sowie zu entrichtende Hafengebühren und Umweltabgaben.
-Es kann mit Aufpreis auch ein Fahrzeug mitgeführt werden.
-
-Ein individuelles Angebot kann via Telefon eingeholt und gebucht werden:
-
-- Großbritannien: +44 3447 707070
-- Irland: +353 1871 4711
-
-Bei der RDG steht die folgende Nummer: +44 1255 202352. Wie aktuell ist die wohl?
+FIP 50 Tickets können gebucht werden.
 
 {{% /booking-section %}}
 
@@ -35,3 +30,5 @@ Bei der RDG steht die folgende Nummer: +44 1255 202352. Wie aktuell ist die wohl
 Für Übernachtungsfahrten ist die Kabinenreservierung obligatorisch.
 
 {{% /booking-section %}}
+
+{{% satellite %}}

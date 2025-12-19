@@ -7,10 +7,7 @@ country:
 operator: "stl"
 ---
 
-{{< wip >}}
-
 Stena Line betreibt Personen- und Fahrzeugfähren auf der Strecke zwischen Harwich und Hoek van Holland.
-Ab Harwich International besteht Anschluss an Züge von Greater Anglia Richtung London.
 
 ## Zusammenfassung
 
@@ -28,7 +25,7 @@ FIP 50 Tickets: ✅
 
 {{% train-category
 title="Fähre (Tagfahrt)"
-type="ferry"
+type="ship"
 fip_accepted=true
 reservation_possible=true
 reservation_required=false
@@ -47,12 +44,12 @@ An Bord gibt es eine Vielzahl an Services:
 - Duty Free Shop
 - Deck Bar mit Ausblick
 
-Eine Kabine kann optional dazugebucht werden. Hierbei kann zwischen den Optionen Standard, Superior, Deluxe gewählt werden. [^1]
+Eine Kabine kann optional dazugebucht werden.
 {{% /train-category %}}
 
 {{% train-category
 title="Fähre (Nachtfahrt)"
-type="ferry"
+type="ship"
 fip_accepted=true
 reservation_possible=true
 reservation_required=true
@@ -71,21 +68,33 @@ An Bord gibt es eine Vielzahl an Services:
 - Duty Free Shop
 - Deck Bar mit Ausblick
 
-Nachts ist die Reservierung einer Kabine obligatorisch. [^2]
-Hierbei kann zwischen den Optionen Standard, Superior, Deluxe gewählt werden. [^1]
+Die Reservierung einer Kabine ist obligatorisch.[^2]
 {{% /train-category %}}
 
 ## Klassenkategorien
 
-Es gibt auf den Stena Line Schiffen nur eine Einheitsklasse. Bei den nächtlich verkehrenden Fahrten können unterschiedliche Kabinenoptionen gewählt werden. Auf Kabinen gibt es keinen FIP-Rabatt. [^2]
+Es gibt auf den Schiffen in Bezug auf FIP nur eine Einheitsklasse.
+
+Bei Nutzung einer Kabine kann zwischen den Optionen Standard, Superior und Deluxe gewählt werden. [^1]
+Auf Kabinen wird kein FIP-Rabatt gewährt. [^2]
 
 ## Ticket- und Reservierungskauf
 
-FIP-Tickets müssen vor Reiseantritt erworben werden.
-Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. Dies liegt daran, dass der Fahrpreis nachts höher ist und eine Kabinenreservierung obligatorisch ist.
-FIP gewährt lediglich einen Rabatt auf den Fahrpreis. Alle zusätzlichen Leistungen werden zum vollen Preis berechnet und sind nicht rabattiert. Hierzu gehören unter anderem die Reservierungskosten für Kabinen sowie zu entrichtende Hafengebühren und Umweltabgaben. [^3]
+FIP-Tickets müssen vor Reiseantritt erworben werden. Der Kauf an Bord von Schiffen ist nicht möglich.
+FIP gewährt lediglich einen Rabatt auf den Fahrpreis, alle zusätzlichen Leistungen werden zum vollen Preis berechnet. Hierzu gehören unter anderem die Reservierungskosten für Kabinen, Mitnahme von Fahrzeugen[^3] sowie zu entrichtende Hafengebühren und Umweltabgaben.[^3]
+Mit einem FIP Freifahrtschein ist der Fahrpreis kostenlos.
 
-Es kann mit Aufpreis auch ein Fahrzeug mitgeführt werden. [^3]
+Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. Dies liegt daran, dass der Fahrpreis nachts höher ist und eine Kabinenreservierung obligatorisch ist.[^3]
+
+{{% highlight inofficial %}}
+Uns liegen folgende Erfahrungswerte aus der FIP Guide Community vor (Stand 08.12.2025):
+
+- Hafengebühren für zwei Erwachsene: 26 £
+- Gesamtpreis Nachtfahrt (FIP Freifahrtschein für zwei Erwachsene, günstigste Kabine): 81 £
+- Gesamtpreis Nachtfahrt (FIP Freifahrtschein für einen Erwachsenen und Kabine): 59 £
+
+Da es sich um einzelne Buchungsvorgänge handelt, sind alle Angaben ohne Gewähr.
+{{% /highlight %}}
 
 ### Telefon
 
@@ -101,10 +110,21 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 
 Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 14 Jahren zahlen sie den Erwachsenen-Tarif. [^2]
 
-## Tarifliche Besonderheiten
+## Empfehlungen
+
+Die Anreise zur Station _Hoek van Holland Haven_ erfolgt in der Regel mit der Metro-Linie B aus Richtung Rotterdam und Schiedam.
+
+- Station _Schiedam Centrum_: direkte Umsteigemöglichkeit zu `IC`- und `RE`-Zügen der NS.
+- Station _Rotterdam Centraal_: Umsteigemöglichkeiten zu Zügen der NS. Nach Hoek van Holland muss von Metro-Linie D an der Station _Beurs_ umgestiegen werden.
 
 {{% highlight important %}}
-Zwischen dem Bahnhof Schiedam Centrum der NS und Hoek Van Holland fährt die Metro-Linie B der RET N.V., welche kein FIP akzeptiert. Hier ist ein reguläres Ticket zu erwerben.
+RET N.V. akzeptiert kein FIP, sodass für die Metro-Fahrt ein reguläres Ticket erworben werden muss. Dies funktioniert auch kontaktlos und mit ApplePay.
+{{% /highlight %}}
+
+In Harwich besteht an der Station _Harwich International_ Anschluss an Züge von Greater Anglia aus / in Richtung London.
+
+{{% highlight tip %}}
+Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn man am Vortag etwas mehr Zeit investiert. Den Nachmittag kann man gut in Rotterdam oder am nahegelegen Strand verbringen, welcher nur eine Station mit der Metro entfernt ist. Wenn es schnell gehen muss, sollte an der Station Schiedam Centrum umgestiegen werden.
 {{% /highlight %}}
 
 ## Quellen
