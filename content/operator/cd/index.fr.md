@@ -13,7 +13,7 @@ operator: "cd"
 - Les Billets FIP 50 et les Coupons FIP sont acceptés
 - Réservation obligatoire uniquement dans les trains SuperCity
 - Suppléments pour les trains _commerciaux_
-- Dans certaines régions, le FIP n'est pas valable sur certains trains ČD (Pilsen et Brno)
+- Dans certaines régions, le FIP n’est pas valable sur certains trains ČD (Pilsen et Brno)
 
 ## Validité des Billets FIP
 
@@ -26,7 +26,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour l
 {{% highlight important %}}
 Sur certaines lignes et dans certaines régions, les Billets FIP ne sont pas valables, même si les trains sont exploités par ČD.
 
-Plus d'informations : [Services ČD sans FIP]({{% ref "#services-čd-sans-fip" %}})
+Plus d’informations : [Services ČD sans FIP]({{% ref "#services-čd-sans-fip" %}})
 {{% /highlight %}}
 
 ## Catégories de trains et réservations
@@ -35,11 +35,11 @@ Les réservations de sièges ne sont obligatoires que dans les trains SuperCity 
 
 {{% expander "SuperCity (SC) ⚠️" traincategory traincategory %}}
 **Description :** \
-Les trains SuperCity offrent les liaisons les plus rapides sur la ligne Prague – Pardubice – Olomouc – Ostrava. Deux fois par jour, des trains continuent d'Ostrava vers la Slovaquie. Ils ne s'arrêtent qu'aux principales gares et offrent un voyage très confortable en 1ère et 2ᵉ classe. Les trains modernes à pendulation ("Pendolino") disposent d'un bistro et d'un haut niveau de service. Les vélos, poussettes et autres bagages encombrants sont acceptés à bord.
+Les trains SuperCity offrent les liaisons les plus rapides sur la ligne Prague – Pardubice – Olomouc – Ostrava. Deux fois par jour, des trains continuent d’Ostrava vers la Slovaquie. Ils ne s’arrêtent qu’aux principales gares et offrent un voyage très confortable en 1ère et 2ᵉ classe. Les trains modernes à pendulation ("Pendolino") disposent d’un bistro et d’un haut niveau de service. Les vélos, poussettes et autres bagages encombrants sont acceptés à bord.
 
 La réservation de siège est obligatoire dans les deux classes.
 
-En 1ère classe, les passagers reçoivent une petite collation ; en 2ᵉ classe, une bouteille d'eau. Des journaux gratuits sont disponibles dans les deux classes. Pendant le trajet, un portail d'information et de divertissement à bord permet de commander des repas et boissons à la place, lire, écouter de la musique, jouer ou regarder des films. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
+En 1ère classe, les passagers reçoivent une petite collation ; en 2ᵉ classe, une bouteille d’eau. Des journaux gratuits sont disponibles dans les deux classes. Pendant le trajet, un portail d’information et de divertissement à bord permet de commander des repas et boissons à la place, lire, écouter de la musique, jouer ou regarder des films. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 Le prix de la réservation est variable (voir [trains avec réservation obligatoire](#trains-avec-réservation-obligatoire)).
@@ -47,72 +47,72 @@ Le prix de la réservation est variable (voir [trains avec réservation obligato
 
 {{% expander "Railjet (RJ) ℹ️" traincategory traincategory %}}
 **Description :** \
-Les trains Railjet relient Brno et Prague rapidement et confortablement, et offrent aussi une liaison directe via Břeclav vers Vienne et Graz. Ils ne s'arrêtent qu'aux principales gares. À partir de décembre 2025, les trains internationaux ComfortJet entre Prague et l'Allemagne/Danemark seront également inclus dans cette catégorie. Il existe généralement trois classes :
+Les trains Railjet relient Brno et Prague rapidement et confortablement, et offrent aussi une liaison directe via Břeclav vers Vienne et Graz. Ils ne s’arrêtent qu’aux principales gares. À partir de décembre 2025, les trains internationaux ComfortJet entre Prague et l’Allemagne/Danemark seront également inclus dans cette catégorie. Il existe généralement trois classes :
 
 **Economy** : Comparable à la 2ᵉ classe. \
 **First Class** : Comparable à la 1ère classe. Un Coupon FIP 1ère classe est nécessaire. \
 **Business** : 1ère classe avec boisson de bienvenue et compartiments privés. Non accessible avec un Coupon FIP (même avec supplément).
 
-La réservation de siège est possible, et obligatoire en Business Class. Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une livrée bleue. Les vélos, poussettes et bagages encombrants sont acceptés. Restauration disponible au wagon-restaurant ou service à la place. En 1ère classe, une bouteille d'eau et un journal sont offerts ; en Business, une boisson de bienvenue et un bon de 50 CZK pour le restaurant (valable uniquement en Tchéquie). Un cinéma pour enfants est disponible. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/)
+La réservation de siège est possible, et obligatoire en Business Class. Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une livrée bleue. Les vélos, poussettes et bagages encombrants sont acceptés. Restauration disponible au wagon-restaurant ou service à la place. En 1ère classe, une bouteille d’eau et un journal sont offerts ; en Business, une boisson de bienvenue et un bon de 50 CZK pour le restaurant (valable uniquement en Tchéquie). Un cinéma pour enfants est disponible. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/)
 
-ℹ️ À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n'acceptent pas les Billets FIP. \
+ℹ️ À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n’acceptent pas les Billets FIP. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non (sauf Business Class)
 {{% /expander %}}
 
 {{% expander "Eurocity (EC)" traincategory traincategory %}}
 **Description :** \
-Trains internationaux longue distance avec un haut niveau de confort et des horaires cadencés. Les voitures climatisées proviennent de différentes compagnies et incluent souvent un wagon-restaurant. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
+Trains internationaux longue distance avec un haut niveau de confort et des horaires cadencés. Les voitures climatisées proviennent de différentes compagnies et incluent souvent un wagon-restaurant. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Intercity (IC) ⚠️" traincategory traincategory %}}
 **Description :** \
-Trains longue distance confortables, ne s'arrêtant qu'aux principales gares. Certains sont équipés d'un wagon-restaurant ou d'un minibar. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
+Trains longue distance confortables, ne s’arrêtant qu’aux principales gares. Certains sont équipés d’un wagon-restaurant ou d’un minibar. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ Partiellement (voir [trains avec réservation obligatoire](#trains-avec-réservation-obligatoire))
 {{% /expander %}}
 
 {{% expander "Expres (Ex)" traincategory traincategory %}}
 **Description :** \
-Trains rapides en trafic intérieur et entre Prague et Žilina ou Košice. Ils disposent généralement de matériel modernisé et de restauration à bord. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/) \
+Trains rapides en trafic intérieur et entre Prague et Žilina ou Košice. Ils disposent généralement de matériel modernisé et de restauration à bord. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/) \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Rychlík (R)" traincategory traincategory %}}
 **Description :** \
-Trains rapides en trafic régional et longue distance, avec plus d'arrêts que les trains Express. Ils utilisent parfois du matériel plus ancien et relient Prague à des régions touristiques ou thermales. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/) \
+Trains rapides en trafic régional et longue distance, avec plus d’arrêts que les trains Express. Ils utilisent parfois du matériel plus ancien et relient Prague à des régions touristiques ou thermales. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/) \
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Spěšný vlak (Sp)" traincategory traincategory %}}
 **Description :** \
-Trains semi-rapides en trafic local, souvent uniquement en 2ᵉ classe. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/) \
+Trains semi-rapides en trafic local, souvent uniquement en 2ᵉ classe. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/) \
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Osobní vlak (Os)" traincategory traincategory %}}
 **Description :** \
-Trains locaux desservant toutes les gares, souvent uniquement en 2ᵉ classe. [Plus d'informations](https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/) \
+Trains locaux desservant toutes les gares, souvent uniquement en 2ᵉ classe. [Plus d’informations](https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/) \
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory traincategory %}}
 **Description :** \
-Les trains de nuit relient la Tchéquie à l'Allemagne, l'Autriche, la Pologne, la Suisse, la Slovaquie et la Hongrie. Ils proposent des voitures-lits, couchettes et places assises, et sont exploités à l'étranger en coopération avec d'autres compagnies. [Plus d'informations et réseau](https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/)
+Les trains de nuit relient la Tchéquie à l’Allemagne, l’Autriche, la Pologne, la Suisse, la Slovaquie et la Hongrie. Ils proposent des voitures-lits, couchettes et places assises, et sont exploités à l’étranger en coopération avec d’autres compagnies. [Plus d’informations et réseau](https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/)
 
 Pour les Nightjet, les réservations/suppléments pour voitures-lits et couchettes sont obligatoires. Un Coupon FIP pour chaque pays/compagnie traversé est nécessaire. Sans Coupon FIP, un billet au Tarif Global FIP pour tout le trajet peut être acheté. \
-⚠️ La gratuité nationale pour les employés de la Deutsche Bahn n'est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB. \
+⚠️ La gratuité nationale pour les employés de la Deutsche Bahn n’est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ oui \
 **Tarif Global FIP :** oui \
 **Coût de réservation :** \
-Dépend de la ligne, de l'occupation et de la catégorie.
+Dépend de la ligne, de l’occupation et de la catégorie.
 {{% /expander %}}
 
 ## Achat de billets et réservations
@@ -122,11 +122,11 @@ Dépend de la ligne, de l'occupation et de la catégorie.
 {{% booking id="cd-website" /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Tchéquie pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
 ### En gare
@@ -135,11 +135,11 @@ Dépend de la ligne, de l'occupation et de la catégorie.
 
 ### À bord du train
 
-Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le départ a lieu d'une gare où le guichet est fermé.
+Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le départ a lieu d’une gare où le guichet est fermé.
 
 ## Réductions
 
-Pour les billets ordinaires, les enfants jusqu'à 6 ans voyagent gratuitement en 2ᵉ classe. Les enfants jusqu'à 18 ans bénéficient de 50% de réduction sur le tarif adulte. À partir de 18 ans, le tarif adulte complet s'applique.
+Pour les billets ordinaires, les enfants jusqu’à 6 ans voyagent gratuitement en 2ᵉ classe. Les enfants jusqu’à 18 ans bénéficient de 50% de réduction sur le tarif adulte. À partir de 18 ans, le tarif adulte complet s’applique.
 
 ## Conditions tarifaires spéciales
 
@@ -195,7 +195,7 @@ Pour certaines liaisons, des billets à tarif réduit sont disponibles :
 
 Aucune réduction FIP sur les autres liaisons.
 
-Un billet (réservation obligatoire) doit être acheté au moins 15 minutes avant le départ au guichet ČD, au distributeur (pas de FIP) ou sur l'eShop ČD (pas de FIP).
+Un billet (réservation obligatoire) doit être acheté au moins 15 minutes avant le départ au guichet ČD, au distributeur (pas de FIP) ou sur l’eShop ČD (pas de FIP).
 
 ### Téléphériques
 
@@ -207,18 +207,18 @@ Les réductions FIP ne sont pas valables sur les trains spéciaux et historiques
 
 ### Section étrangère (Děčín – Rumburk)
 
-Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n'est pas autorisée.
+Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n’est pas autorisée.
 
 ### Interruption de voyage
 
-L'interruption de voyage n'est pas autorisée pour les trajets intérieurs jusqu'à 100 km. Pour les trajets de 101 km ou plus, l'interruption est possible (mais pas en gare internationale).
+L’interruption de voyage n’est pas autorisée pour les trajets intérieurs jusqu’à 100 km. Pour les trajets de 101 km ou plus, l’interruption est possible (mais pas en gare internationale).
 
 ## Recommandations
 
 Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent être utilisés avec un Billet FIP 50 ou un Coupon FIP de première classe. Ils sont également accessibles avec un billet de seconde classe accompagné d’une réservation de siège. [^2]
 
 {{% highlight tip %}}
-České dráhy jouit d'une bonne réputation auprès des voyageurs pour sa fiabilité et son confort, avec un service de qualité. Le personnel est généralement très aimable et serviable. Les correspondances attendent souvent en cas de retard, sauf dans les grands nœuds comme Praha hl. n. L'utilisation de l'application ČD ("Můj vlak") est vivement recommandée pour accéder aux données en temps réel, compositions des trains et autres informations utiles.
+České dráhy jouit d’une bonne réputation auprès des voyageurs pour sa fiabilité et son confort, avec un service de qualité. Le personnel est généralement très aimable et serviable. Les correspondances attendent souvent en cas de retard, sauf dans les grands nœuds comme Praha hl. n. L’utilisation de l’application ČD ("Můj vlak") est vivement recommandée pour accéder aux données en temps réel, compositions des trains et autres informations utiles.
 {{% /highlight %}}
 
 ## Sources

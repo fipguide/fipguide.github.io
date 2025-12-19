@@ -13,7 +13,7 @@ params:
   type: "website"
 ---
 
-Les Billets FIP 50 ne peuvent **pas** être achetés via l'application ČD, car les réductions de 50% proposées dans l'application ne proviennent pas des quotas FIP.
+Les Billets FIP 50 ne peuvent **pas** être achetés via l’application ČD, car les réductions de 50% proposées dans l’application ne proviennent pas des quotas FIP.
 
 {{% booking-section "reservations" %}}
 
@@ -21,7 +21,7 @@ Les Billets FIP 50 ne peuvent **pas** être achetés via l'application ČD, car 
 
 Le site web des České dráhy propose des réservations pour la Tchéquie et certains autres pays européens. Il est également possible de réserver des places spécifiques.
 
-Pour réserver uniquement une place, il faut rechercher une liaison sur le trajet souhaité via le planificateur de voyage, puis sélectionner l'option _Réservation uniquement_.
+Pour réserver uniquement une place, il faut rechercher une liaison sur le trajet souhaité via le planificateur de voyage, puis sélectionner l’option _Réservation uniquement_.
 
 ![CD Réservation](cd_reservation.webp)
 {{% /booking-section %}}
