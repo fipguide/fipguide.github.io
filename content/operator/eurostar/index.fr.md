@@ -3,6 +3,7 @@ draft: false
 title: "Eurostar"
 country:
   - "belgium"
+  - "germany"
   - "netherlands"
   - "united-kingdom"
   - "france"

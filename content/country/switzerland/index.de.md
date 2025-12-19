@@ -55,7 +55,7 @@ Zu beachten ist, dass bis zum Bahnhof Basel Bad Bf (Badischer Bahnhof) auch FIP-
 Um ohne Nutzung eines SBB Tickets (z. B. FIP Freifahrtschein oder FIP 50) in die Schweiz einzureisen, kann ab Basel Badischer Bahnhof die S-Bahn Linie 6 mit dem Deutschland-Ticket bis Basel SBB genutzt werden. [^1]
 {{% /highlight %}}
 
-Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart - Zürich über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie München - Zürich über Lindau, St. Margrethen und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen über St. Margrethen führt die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
+Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Stuttgart – Zürich über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie München - Zürich über Lindau, St. Margrethen und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus Lindau nach St. Gallen über St. Margrethen führt die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
 
 {{% highlight tip %}}
 Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theoretisch der [ÖBB Fernverkehrsaufschlag]({{< ref "/country/austria#schweiz" >}} "Anreise Schweiz" ) gezahlt werden muss.
