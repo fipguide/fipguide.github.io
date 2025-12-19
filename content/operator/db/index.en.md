@@ -6,7 +6,7 @@ country:
 operator: "db"
 ---
 
-Deutsche Bahn (DB) is the largest railway company in Germany, operating most long-distance services as well as many regional connections.
+Deutsche Bahn (DB) is the largest railway company in [Germany]({{< ref "/country/germany" >}} "Germany"), operating most long-distance services as well as many regional connections.
 
 ## Summary
 

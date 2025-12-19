@@ -10,7 +10,7 @@ aliases:
   - obb
 ---
 
-ÖBB (Austrian Federal Railways) is Austria’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
+ÖBB (Austrian Federal Railways) is [Austria]({{< ref "/country/austria" >}} "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
 
 ## Summary
 

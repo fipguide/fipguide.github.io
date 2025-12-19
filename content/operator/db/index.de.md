@@ -6,7 +6,7 @@ country:
 operator: "db"
 ---
 
-Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in Deutschland und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
+Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland]({{< ref "/country/germany" >}} "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
 
 ## Zusammenfassung
 

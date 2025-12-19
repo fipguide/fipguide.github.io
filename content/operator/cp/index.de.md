@@ -6,7 +6,7 @@ country:
 operator: "cp"
 ---
 
-Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
+Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in [Portugal]({{< ref "/country/portugal" >}} "Portugal").
 
 ## Zusammenfassung
 
