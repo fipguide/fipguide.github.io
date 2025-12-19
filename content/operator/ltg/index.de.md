@@ -6,8 +6,6 @@ country:
 operator: "ltg"
 ---
 
-{{< wip >}}
-
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochter LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.
 
 ## Zusammenfassung
@@ -29,7 +27,7 @@ Bei allen Fahrten mit einem FIP Freifahrtschein muss vor jeder Fahrt ein kostenl
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der LTG-Link gültig. Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein; für Fahrten von/nach Lettland wird nur ein litauischer FIP Freifahrtschein bzw. ein FIP 50 Ticket verlangt, da Lettland kein FIP-Mitglied ist.
 
 {{% highlight tip %}}
-FIP 50 Tickets und Freifahrtscheine von LTG-Link, gelten auch in Zügen von LTG-Link von Litauen bis Riga.
+FIP 50 Tickets und Freifahrtscheine von LTG-Link, gelten auch in Zügen von LTG-Link auf der Strecke Vilnius - Riga.
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
