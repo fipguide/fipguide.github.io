@@ -243,7 +243,7 @@ Cette obligation s’applique aux lignes suivantes :
 
 ### Trains TGV inOui / ICE internationaux
 
-{{% train-category 
+{{% train-category
   id="tgv-ice-germany"
   title="TGV/ICE vers l’Allemagne"
   type="highspeed"
