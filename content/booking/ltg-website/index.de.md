@@ -14,7 +14,7 @@ params:
 
 Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets, Reservierungen sowie 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft. Eine Buchung ist auch über die App von LTG-Link möglich.
 
-Fahrkarten im Inlandsverkehr sind 30 Tage, im Auslandsverkehr 60 Tage vorher buchbar.
+Fahrkarten im Inlandsverkehr sind 30 Tage, im Auslandsverkehr 60 Tage vor Fahrtantritt buchbar.
 
 ![Übersicht Vergünstigungen](ltg-website-discount-overview.webp)
 
