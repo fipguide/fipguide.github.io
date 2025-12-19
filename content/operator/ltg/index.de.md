@@ -3,6 +3,7 @@ draft: false
 title: "LTG-Link"
 country:
   - "lithuania"
+  - "latvia"
 operator: "ltg"
 ---
 
