@@ -12,7 +12,7 @@ params:
 
 ## FIP Nutzung
 
-Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP]({{< ref "/operator/pkp" >}} "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
+Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
 
 - Koleje Dolnośląskie (KD)
 - Koleje Śląskie (KS)

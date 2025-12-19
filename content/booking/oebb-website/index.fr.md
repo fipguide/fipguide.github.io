@@ -21,7 +21,7 @@ aliases:
 
 ## Réservations
 
-Le tarif de réservation est facturé par train. Pour les trajets comportant plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").
+Le tarif de réservation est facturé par train. Pour les trajets comportant plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn](/booking/db-website "Deutsche Bahn").
 
 Cependant, les réservations effectuées via le site d’ÖBB peuvent être annulées :
 

@@ -43,7 +43,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys. \
 **Description:** \
 International trains to Germany and Italy.
 
-⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italien" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train. \
+⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy](/country/switzerland#italien "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train. \
 Surcharge/Reservation: \
 1st class: €13 \
 2nd class: €11 \
@@ -136,7 +136,7 @@ The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: 
 
 ### Cross-border Trains (Italy, France)
 
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
 
 ## Recommendations
 

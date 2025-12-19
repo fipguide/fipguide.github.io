@@ -90,9 +90,9 @@ params:
 
 In Deutschland verkehren über 80 unterschiedliche Betreiber, nur ist FIP für die meisten nicht nutzbar. Bei den folgenden Betreibern gelten FIP Vergünstigungen:
 
-- Die staatliche Bahngesellschaft [Deutsche Bahn (DB)]({{< ref "/operator/db" >}}) betreibt eine Vielzahl von Fernverkehrs- und Nahverkehrslinien
-- Die [Bodensee-Schiffsbetriebe]({{< ref "/operator/bsb" >}}) bieten Fährfahrten über den Bodensee an.
-- Mit [Eurostar]({{< ref "/operator/eurostar" >}}) sind Fahrten zwischen Großbritannien, Frankreich, die Niederlande, Belgien und Deutschland möglich.
+- Die staatliche Bahngesellschaft [Deutsche Bahn (DB)](/operator/db) betreibt eine Vielzahl von Fernverkehrs- und Nahverkehrslinien
+- Die [Bodensee-Schiffsbetriebe](/operator/bsb) bieten Fährfahrten über den Bodensee an.
+- Mit [Eurostar](/operator/eurostar) sind Fahrten zwischen Großbritannien, Frankreich, die Niederlande, Belgien und Deutschland möglich.
 
 Durch die große Vielfalt der Betreiber ist eine Planung der Reise im Voraus sinnvoll, um FIP in Anspruch nehmen zu können. Mit Ausnahme von Flixtrain, WESTbahn und einzelnen Nachtzug-Verbindungen kann der deutsche Fernverkehr befahren werden. Im Nahverkehr betreibt die DB viele Linien, wodurch man auch dort gut reisen kann.
 
@@ -157,7 +157,7 @@ MS = Mitte See
 
 Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Aachen genutzt werden. Auch ein Regionalzug der SNCB verkehrt zwischen Lüttich und Aachen. In beiden Fällen wird zusätzlich ein Ticket für den belgischen Abschnitt der SNCB benötigt.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Deutschland) benötigt ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar")).
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Deutschland) benötigt ([siehe Eurostar](/operator/eurostar "Eurostar")).
 
 ### Dänemark
 
@@ -167,7 +167,7 @@ Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch wed
 
 ### Frankreich
 
-Zwischen Frankreich und Deutschland verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris über Straßburg oder Saarbrücken nach München oder Karlsruhe, Mannheim und Frankfurt (Main). Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht auf der Route über Straßburg und Karlsruhe bis zu dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Straßburg und Deutschland zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online]({{< ref "/operator/sncf#online" >}} "Buchungsmöglichkeiten - Online").
+Zwischen Frankreich und Deutschland verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris über Straßburg oder Saarbrücken nach München oder Karlsruhe, Mannheim und Frankfurt (Main). Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht auf der Route über Straßburg und Karlsruhe bis zu dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Straßburg und Deutschland zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
 Eine günstige Option für die Fahrt von Straßburg nach Deutschland besteht mit der Straßenbahn von Straßburg nach Kehl, für welche ein günstiges Tram Ticket erforderlich ist. Ab Kehl besteht Anschluss an die Ortenau S-Bahn Linie RS4 bis Offenburg. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitervergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen).
@@ -249,7 +249,7 @@ Um ohne Nutzung eines SBB Tickets (z. B. FIP Freifahrtschein oder FIP 50) aus de
 Weitere wichtige grenzüberschreitende Verbindungen sind die Strecken Zürich – Stuttgart über Schaffhausen (gemeinsamer Grenzbahnhof der SBB und DB) sowie Zürich – München über Lindau, St. Margrethen und St. Gallen, auf denen `IC` bzw. `ECE` Züge verkehren. Bei der Anreise aus St. Gallen nach Lindau über St. Margrethen führt die Strecke ein Stück durch Österreich. Dadurch wird hier ein Ticket für die ÖBB benötigt.
 
 {{% highlight tip %}}
-Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theoretisch der [ÖBB Fernverkehrsaufschlag]({{< ref "/country/austria#schweiz" >}} "Anreise Schweiz" ) gezahlt werden muss.
+Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theoretisch der [ÖBB Fernverkehrsaufschlag](/country/austria#schweiz "Anreise Schweiz") gezahlt werden muss.
 {{% /highlight %}}
 
 Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. Auch mit Fähren, die teilweise mit FIP nutzbar sind, kann Deutschland aus der Schweiz erreicht werden.

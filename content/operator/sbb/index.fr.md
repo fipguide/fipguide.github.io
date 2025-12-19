@@ -43,7 +43,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 **Description :** \
 Trains internationaux vers l’Allemagne et l’Italie.
 
-⚠️ Les trains vers l’Italie nécessitent un supplément et une réservation à partir de la frontière italienne. Il est moins cher de voyager vers l’Italie en changeant de train à Chiasso ([Voir Voyage vers l’Italie]({{< ref "/country/switzerland#italien" >}} "Voyage vers l’Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train. \
+⚠️ Les trains vers l’Italie nécessitent un supplément et une réservation à partir de la frontière italienne. Il est moins cher de voyager vers l’Italie en changeant de train à Chiasso ([Voir Voyage vers l’Italie](/country/switzerland#italien "Voyage vers l’Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train. \
 Supplément/Réservation : \
 1ère classe : 13 € \
 2ᵉ classe : 11 € \

@@ -26,7 +26,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour l
 {{% highlight important %}}
 Sur certaines lignes et dans certaines régions, les Billets FIP ne sont pas valables, même si les trains sont exploités par ČD.
 
-Plus d’informations : [Services ČD sans FIP]({{% ref "#services-čd-sans-fip" %}})
+Plus d’informations : [Services ČD sans FIP](#services-čd-sans-fip)
 {{% /highlight %}}
 
 ## Catégories de trains et réservations

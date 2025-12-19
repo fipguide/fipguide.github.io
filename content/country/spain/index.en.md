@@ -6,14 +6,14 @@ params:
   operators_without_fip:
     - Iryo
     - OUIGO
-    - '[Avlo]({{< ref "/operator/renfe#long-distance" >}} "Avlo")'
+    - '[Avlo](/operator/renfe#long-distance "Avlo")'
 ---
 
 ## FIP Information
 
 In Spain, using FIP is not always straightforward, as simply boarding and riding along rarely works. On most routes, a ticket at the FIP Global Fare must be booked in advance. Since only as many tickets are sold as there are available seats, this purchase should not be made at the last minute (even for regional trains).
 
-[Renfe]({{< ref "/operator/renfe" >}} "Renfe") is the largest railway operator in Spain and accepts FIP. On lucrative routes, it competes with many private providers like OUIGO or Iryo, which do not accept FIP. Another provider in the Basque Country is [Euskotren]({{< ref "/operator/euskotren" >}}), which also accepts FIP.
+[Renfe](/operator/renfe "Renfe") is the largest railway operator in Spain and accepts FIP. On lucrative routes, it competes with many private providers like OUIGO or Iryo, which do not accept FIP. Another provider in the Basque Country is [Euskotren](/operator/euskotren), which also accepts FIP.
 
 ## Insteresting
 
@@ -38,9 +38,9 @@ Furthermore, for long-distance travel, luggage checks are conducted at the stati
 
 From Paris, direct `TGV` trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona as well as Marseille and Madrid. FIP Global Fares are available with both operators, but can be very expensive with the SNCF.
 
-FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains]({{< ref "/operator/sncf#international-tgv-inoui--ice-trains" >}} "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain. When arriving from France, these tickets can also be bought on board — approach the train staff, who can accept card payment. [^1]
+FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain. When arriving from France, these tickets can also be bought on board — approach the train staff, who can accept card payment. [^1]
 
-With [Euskotren]({{< ref "/operator/euskotren" >}}), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
+With [Euskotren](/operator/euskotren), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
 
 There are also Renfe's Rodalies de Catalunya regional trains with cross-border connections from Cerbère and Latour-de-Carol. FIP Tickets can be purchased directly on board from the train staff.
 
@@ -50,7 +50,7 @@ Overall, there are very few cross-border connections, and the network was signif
 
 Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP Tickets or Coupones from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section.
 
-Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route ([See Renfe – Celta]({{< ref "/operator/renfe#long-distance" >}} "Renfe")).
+Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route ([See Renfe – Celta](/operator/renfe#long-distance "Renfe")).
 
 A continuous high-speed rail line between Lisbon and Madrid is currently under development.
 

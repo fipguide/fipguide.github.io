@@ -43,7 +43,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 **Beschreibung:** \
 Internationale Züge Richtung Deutschland und Italien.
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden. \
+⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden. \
 Aufschlag/Reservierung: \
 1\. Klasse: 13€ \
 2\. Klasse: 11€ \
@@ -136,7 +136,7 @@ Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf 
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
-Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien]({{< ref "/country/switzerland#italien" >}} "Einreise Italien")
+Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien](/country/switzerland#italien "Einreise Italien")
 
 ## Empfehlungen
 

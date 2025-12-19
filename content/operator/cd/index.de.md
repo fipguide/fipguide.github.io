@@ -26,7 +26,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. B
 {{% highlight important %}}
 Auf einigen Routen und Regionen gelten keine FIP Fahrkarten, obwohl die Verbindungen von der ČD betrieben werden.
 
-Weiter Informationen: [Verbindungen der ČD ohne FIP]({{% ref "#verbindungen-der-čd-ohne-fip" %}})
+Weiter Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip)
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen

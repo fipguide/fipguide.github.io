@@ -6,7 +6,7 @@ country: "monaco"
 
 ## Informations FIP
 
-Le chemin de fer au Liechtenstein est exploité par les [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB"). Tous les billets ÖBB sont valables ici, y compris les Billets FIP 50 et les coupons FIP pour les ÖBB. Les conditions FIP des ÖBB s’appliquent également au Liechtenstein.
+Le chemin de fer au Liechtenstein est exploité par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb "ÖBB"). Tous les billets ÖBB sont valables ici, y compris les Billets FIP 50 et les coupons FIP pour les ÖBB. Les conditions FIP des ÖBB s’appliquent également au Liechtenstein.
 
 ## Informations générales
 
@@ -18,12 +18,12 @@ Les gares liechtensteinoises Nendeln, Forst Hilti (Schaan) et Schaan-Vaduz (Scha
 
 ### Autriche
 
-L’entrée depuis l’Autriche est possible via le poste frontière de Feldkirch avec quelques trains S-Bahn aux heures de pointe les jours ouvrables. Au Liechtenstein, les [Billets FIP ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") sont valables.
+L’entrée depuis l’Autriche est possible via le poste frontière de Feldkirch avec quelques trains S-Bahn aux heures de pointe les jours ouvrables. Au Liechtenstein, les [Billets FIP ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables.
 
 Sinon, le trafic transfrontalier est principalement assuré par des bus, pour lesquels les Billets FIP ne sont pas valables.
 
 ### Suisse
 
-L’entrée depuis la Suisse est possible via le poste frontière de Buchs SG avec quelques trains S-Bahn aux heures de pointe les jours ouvrables. Au Liechtenstein, les [Billets FIP ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") sont valables. Ainsi, à partir du point frontière Buchs SG en Suisse, les Coupons FIP ÖBB et les Billets FIP 50 sont également valables ici.
+L’entrée depuis la Suisse est possible via le poste frontière de Buchs SG avec quelques trains S-Bahn aux heures de pointe les jours ouvrables. Au Liechtenstein, les [Billets FIP ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables. Ainsi, à partir du point frontière Buchs SG en Suisse, les Coupons FIP ÖBB et les Billets FIP 50 sont également valables ici.
 
 Sinon, le trafic transfrontalier est principalement assuré par des bus, pour lesquels les Billets FIP ne sont pas valables.

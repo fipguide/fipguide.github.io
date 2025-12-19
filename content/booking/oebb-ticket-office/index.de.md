@@ -31,7 +31,7 @@ Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor 
 
 ## Reservierungen
 
-Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn") zu reservieren.
+Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn](/booking/db-website "Deutsche Bahn") zu reservieren.
 
 Dafür können bei der ÖBB Sitzplatzreservierungen jedoch storniert werden:
 
