@@ -79,7 +79,7 @@ Eine Einreise aus der Schweiz ist auch über Buchs SG und Feldkirch durch Liecht
 
 ### Liechtenstein
 
-Liechtenstein und Österreich sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den Österrischen Bundesbahnen [(ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten in Liechtenstein auch Freifahrten und FIP 50 Tickets der ÖBB.
+Liechtenstein und Österreich sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten in Liechtenstein auch Freifahrten und FIP 50 Tickets der ÖBB.
 
 Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 

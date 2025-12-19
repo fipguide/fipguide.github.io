@@ -79,7 +79,7 @@ L’entrée depuis la Suisse est également possible via Buchs SG et Feldkirch e
 
 ### Liechtenstein
 
-Le Liechtenstein et l’Autriche ne sont reliés que par quelques trains en semaine. Ces trains S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les Chemins de fer fédéraux autrichiens [(ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP ÖBB et les Billets FIP 50 sont donc également valables au Liechtenstein.
+Le Liechtenstein et l’Autriche ne sont reliés que par quelques trains en semaine. Ces trains S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP ÖBB et les Billets FIP 50 sont donc également valables au Liechtenstein.
 
 Sinon, le trafic transfrontalier est principalement assuré par des bus, sur lesquels les Billets FIP ne sont pas valables.
 

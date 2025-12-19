@@ -88,7 +88,7 @@ Pour le trajet Milan - Côme - Suisse, il peut être avantageux de voyager entre
 
 ### Liechtenstein
 
-Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les Chemins de fer fédéraux autrichiens [(ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP et FIP 50 de l’ÖBB sont donc valables jusqu’au point frontière Buchs SG en Suisse.
+Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP et FIP 50 de l’ÖBB sont donc valables jusqu’au point frontière Buchs SG en Suisse.
 
 Sinon, le trafic frontalier est principalement assuré par des bus, où les Billets FIP ne sont pas valables.
 

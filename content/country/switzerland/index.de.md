@@ -88,7 +88,7 @@ Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand
 
 ### Liechtenstein
 
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den Österrischen Bundesbahnen [(ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
 
 Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
