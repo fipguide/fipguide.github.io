@@ -27,7 +27,7 @@ Bei allen Fahrten mit einem FIP Freifahrtschein muss vor jeder Fahrt ein kostenl
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der LTG-Link gültig. Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein; für Fahrten von/nach Lettland wird nur ein litauischer FIP Freifahrtschein bzw. ein FIP 50 Ticket verlangt, da Lettland kein FIP-Mitglied ist.
 
 {{% highlight tip %}}
-FIP 50 Tickets und Freifahrtscheine von LTG-Link, gelten auch in Zügen von LTG-Link auf der Strecke Vilnius - Riga.
+FIP 50 Tickets und Freifahrtscheine von LTG-Link, gelten auch in Zügen von LTG-Link auf der Strecke Vilnius - Riga. [^1]
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
@@ -81,3 +81,7 @@ In allen Zügen ist eine Fahrradmitnahme möglich. In Zügen mit Reservierungspf
 ## Empfehlungen
 
 In Vilnius betreibt LTG-Link die einzige Lounge. Den Zugang erhält man bereits beim Kauf der Fahrkarte – für die 1. Klasse kostenlos, für die anderen Klassen gegen einen Aufpreis. Getränke etc. in der Lounge müssen aber ohnehin an den dortigen Automaten bezahlt werden.
+
+## Quellen
+
+[^1]: [LTG-Link Mail Feedback Strecke Vilnius - Riga](https://github.com/fipguide/fipguide.github.io/issues/517)
