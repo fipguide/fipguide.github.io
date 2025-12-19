@@ -49,7 +49,7 @@ Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Od
 {{% expander "Train régional (R) ℹ️" traincategory category %}}
 **Description :** \
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague. \
-ℹ️ Attention : d'autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
+ℹ️ Attention : d’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 **Réservation possible :** non \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -74,11 +74,11 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et le Danemark pour l'ensemble du trajet (pas de validité dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark pour l’ensemble du trajet (pas de validité dans le pays d’émission de la Carte FIP)"
 /%}}
 
 ### En gare
@@ -90,7 +90,7 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 ## Réductions
 
 Les enfants de moins de 5 ans voyagent gratuitement. \
-Les enfants de moins de 16 ans bénéficient d'une réduction de 50 % sur le tarif adulte.[^1]
+Les enfants de moins de 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte.[^1]
 
 ## Conditions tarifaires spéciales
 
@@ -122,4 +122,4 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
 
-[^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+[^2]: [DSB 1’](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

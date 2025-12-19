@@ -19,7 +19,7 @@ params:
 
 ## Billets FIP 50
 
-Aux guichets CP, il est possible d'acheter des Billets FIP 50 pour des voyages à l'intérieur du Portugal. Le tarif est calculé sur place à l'aide du calculateur de prix.
+Aux guichets CP, il est possible d’acheter des Billets FIP 50 pour des voyages à l’intérieur du Portugal. Le tarif est calculé sur place à l’aide du calculateur de prix.
 {{% /booking-section %}}
 {{% booking-section "fip_global_fare" %}}
 
@@ -32,5 +32,5 @@ Aux guichets CP, des billets Tarif Global FIP sont vendus pour le train internat
 
 ## Réservations
 
-Les réservations pour les trains nécessitant une réservation (p.ex. AP et IC) peuvent être effectuées au guichet. Des frais de réservation de 5€ s'appliquent.
+Les réservations pour les trains nécessitant une réservation (p.ex. AP et IC) peuvent être effectuées au guichet. Des frais de réservation de 5€ s’appliquent.
 {{% /booking-section %}}

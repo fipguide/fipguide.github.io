@@ -115,11 +115,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas, avec part de billet uniquement pour la section néerlandaise. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et les Pays-Bas, avec part de billet uniquement pour la section néerlandaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et les Pays-Bas pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
 ### En gare
@@ -145,15 +145,15 @@ Ce n’est pas un billet, mais un badge d’accès, valable :
 
 - Pendant 8 jours distincts, sur une période de 3 mois.
 - Chaque jour (de 00h00 à 23h59) :
-  - Jusqu'à 6 passages (entrée/sortie) à la même gare.
-  - Jusqu'à 12 passages en tout par jour.
+  - Jusqu’à 6 passages (entrée/sortie) à la même gare.
+  - Jusqu’à 12 passages en tout par jour.
 
 Si nécessaire, un nouveau coupon d’accès peut être demandé au guichet NS.
 
 ## Recommandations
 
 {{% highlight tip %}}
-NS se distingue par une grande fréquence et des connexions efficaces. Des retards et annulations peuvent survenir, mais ils sont souvent compensés par des fréquences élevées. Évitez de planifier des correspondances serrées, car les trains n'attendent généralement pas. La 1ʳᵉ classe NS offre peu de différences par rapport à la 2ᵉ classe.
+NS se distingue par une grande fréquence et des connexions efficaces. Des retards et annulations peuvent survenir, mais ils sont souvent compensés par des fréquences élevées. Évitez de planifier des correspondances serrées, car les trains n’attendent généralement pas. La 1ʳᵉ classe NS offre peu de différences par rapport à la 2ᵉ classe.
 {{% /highlight %}}
 
 ## Sources

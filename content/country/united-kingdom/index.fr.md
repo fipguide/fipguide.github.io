@@ -11,7 +11,7 @@ params:
     - Getlink (Eurotunnel LeShuttle)
     - Glasgow Subway
     - Hovertravel (Portsmouth à Ryde sur l’île de Wight)
-    - '[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")'
+    - ’[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")’
     - Midland Metro (Birmingham à Wolverhampton)
     - Nottingham Express Transit
     - Sheffield Supertram
@@ -35,7 +35,7 @@ Il existe également des trains [Eurostar]({{< ref "/operator/eurostar" >}} "Eur
 
 Le Royaume-Uni est le berceau du chemin de fer et possède une longue tradition ferroviaire. Le réseau ferroviaire couvre tout le pays et propose de nombreuses liaisons (directes) vers toutes les régions. La qualité des trains et des gares varie fortement, car de nombreux opérateurs agissent de manière indépendante. Certains proposent des trains modernes et confortables, tandis que d’autres utilisent encore d’anciens modèles.
 
-On trouve également de nombreuses grandes gares historiques comme London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads ou York. De nombreux [chemins de fer touristiques]({{< ref "/operator/gb#lignes-historiques--trains-touristiques" >}} "Chemins de fer touristiques") proposent des tarifs réduits pour les titulaires FIP.
+On trouve également de nombreuses grandes gares historiques comme London Paddington, London King’s Cross, London St. Pancras, Bristol Temple Meads ou York. De nombreux [chemins de fer touristiques]({{< ref "/operator/gb#lignes-historiques--trains-touristiques" >}} "Chemins de fer touristiques") proposent des tarifs réduits pour les titulaires FIP.
 
 Un moment fort est le voyage à travers les paysages époustouflants des Highlands écossais ou la région idyllique des Cornouailles. Les deux destinations sont facilement accessibles en train de nuit via le Caledonian Sleeper ou le Night Riviera Sleeper.
 
