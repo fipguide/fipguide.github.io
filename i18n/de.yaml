@@ -82,7 +82,8 @@ menu:
     switch-to-dark: Zu dunklem Modus wechseln
     switch-to-light: Zu hellem Modus wechseln
 navigate-to-country: Gehe zu Land
-news-headline: Was gibt's Neues?
+news-all: Alle News
+news-headline: Was gibt’s Neues?
 news-other: Weitere News
 operators:
   descriptionTemplate: >-
