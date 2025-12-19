@@ -68,7 +68,7 @@ Depuis Calais, il existe également le train auto LeShuttle via le tunnel sous l
 
 Depuis Amsterdam et Rotterdam, des trains [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") directs relient London St. Pancras. Alternativement, des trains [Eurostar Red]({{< ref "/operator/eurostar" >}} "Eurostar Red") et [Eurocity]({{< ref "/operator/ns#catégories-de-trains-et-réservations" >}} "Eurocity") relient Bruxelles Midi (Belgique), où il est possible de prendre un [Eurostar Blue]({{< ref "/operator/eurostar" >}} "Eurostar Blue") vers London St. Pancras. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
 
-De plus, une liaison par ferry relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
+De plus, une [liaison par ferry]({{< ref "/operator/stl" >}} "liaison par ferry") relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
 
 ### Irlande
 
