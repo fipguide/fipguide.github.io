@@ -5,7 +5,7 @@ country: "belgium"
 params:
   operators_without_fip:
     - European Sleeper
-    - OuiGo
+    - OUIGO
 ---
 
 ## Informations FIP
@@ -14,7 +14,7 @@ En Belgique, les Billets FIP 50 et les Coupons FIP peuvent être utilisés de ma
 
 Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent également et sont accessibles avec des Billets FIP spéciaux. Ces trains sont indiqués avec la catégorie `EST` dans les horaires.
 
-Par ailleurs, les trains TGV internationaux opérés par la SNCF en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au Tarif Global FIP peut être réservé. Les trains Eurocity opérés par OuiGo entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
+Par ailleurs, les trains `TGV` internationaux opérés par la [SNCF](/operator/sncf "SNCF") en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au Tarif Global FIP peut être réservé. Les trains Eurocity opérés par OUIGO entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
 
 ## Informations générales
 

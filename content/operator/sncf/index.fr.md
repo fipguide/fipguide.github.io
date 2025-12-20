@@ -11,7 +11,7 @@ country:
 operator: "sncf"
 ---
 
-La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en France. Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.
+La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en [France](/country/france "France"). Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.
 
 ## Résumé
 

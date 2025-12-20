@@ -9,14 +9,14 @@ params:
     - Getlink (Eurotunnel LeShuttle)
     - RATP
     - Transdev
-    - '[OuiGo](/operator/sncf#Fernverkehr "OuiGo")'
+    - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
 ---
 
 ## FIP Information
 
-In France, almost the entire rail network can be used with FIP, as most trains are operated by the state railway company [SNCF](/operator/sncf "SNCF"). However, reservations are always required for long-distance trains, and FIP discounts cannot be used at all on SNCF's low-cost [OuiGo](/operator/sncf#long-distance "OuiGo") services.
+In France, almost the entire rail network can be used with FIP, as most trains are operated by the state railway company [SNCF](/operator/sncf "SNCF"). However, reservations are always required for long-distance trains, and FIP discounts cannot be used at all on SNCF's low-cost [OUIGO](/operator/sncf#long-distance "OUIGO") services.
 
-On international routes, [Eurostar](/operator/eurostar "Eurostar") trains to the UK, Belgium, the Netherlands, and Germany can be used with special FIP Global Fares. International `TGV` trains also offer Global Fares (except to Germany). Additionally, FIP Global Gare tickets can be used on AVE trains operated by Spanish Renfe to Spain. Frecciarossa trains from Trenitalia to Italy cannot be used with FIP in France.
+On international routes, [Eurostar](/operator/eurostar "Eurostar") trains to the UK, Belgium, the Netherlands, and Germany can be used with special FIP Global Fares. International `TGV` trains also offer Global Fares (except to Germany). Additionally, FIP Global Gare tickets can be used on AVE trains operated by Spanish Renfe to Spain. Frecciarossa trains from [Trenitalia](/operator/fs "Trenitalia") to Italy cannot be used with FIP in France.
 
 ## Interesting
 
@@ -50,7 +50,7 @@ From Folkestone, there is also the LeShuttle Motorail train through the Eurotunn
 
 ### Belgium
 
-From Belgium, SNCF operates international `TGV` trains from Brussels to Paris. Expensive FIP Global Fare tickets are required for these. There is also a OuiGo service from Brussels to Paris, which cannot be used with FIP.
+From Belgium, SNCF operates international `TGV` trains from Brussels to Paris. Expensive FIP Global Fare tickets are required for these. There is also a OUIGO service from Brussels to Paris, which cannot be used with FIP.
 
 Alternatively, [Eurostar](/operator/eurostar "Eurostar") trains run from Brussels to Paris, which can also be used with FIP Global Fare tickets and are cheaper than the `TGV` trains.
 

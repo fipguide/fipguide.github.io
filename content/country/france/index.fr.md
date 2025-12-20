@@ -9,14 +9,14 @@ params:
     - Getlink (Eurotunnel LeShuttle)
     - RATP
     - Transdev
-    - ’[OuiGo](/operator/sncf#Fernverkehr "OuiGo")’
+    - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
 ---
 
 ## Informations FIP
 
-En France, presque tout le réseau ferroviaire peut être parcouru avec FIP, car la plupart des trains sont exploités par la compagnie nationale [SNCF](/operator/sncf "SNCF"). Dans les trains longue distance, la réservation est toujours obligatoire et dans l’offre low-cost de la SNCF [OuiGo](/operator/sncf#grandes-lignes "OuiGo"), aucune réduction FIP n’est possible.
+En France, presque tout le réseau ferroviaire peut être parcouru avec FIP, car la plupart des trains sont exploités par la compagnie nationale [SNCF](/operator/sncf "SNCF"). Dans les trains longue distance, la réservation est toujours obligatoire et dans l’offre low-cost de la SNCF [OUIGO](/operator/sncf#grandes-lignes "OUIGO"), aucune réduction FIP n’est possible.
 
-Sur les liaisons internationales, les trains [Eurostar](/operator/eurostar "Eurostar") vers le Royaume-Uni, la Belgique, les Pays-Bas et l’Allemagne peuvent être utilisés avec des Tarifs Globaux FIP spécifiques. Il existe également des Tarifs Globaux FIP pour les trains internationaux `TGV` (sauf vers l’Allemagne). De plus, les billets au Tarif Global FIP permettent d’emprunter les trains AVE de la Renfe espagnole sur la liaison vers l’Espagne. Les trains Frecciarossa de Trenitalia vers l’Italie ne sont pas accessibles avec FIP en France.
+Sur les liaisons internationales, les trains [Eurostar](/operator/eurostar "Eurostar") vers le Royaume-Uni, la Belgique, les Pays-Bas et l’Allemagne peuvent être utilisés avec des Tarifs Globaux FIP spécifiques. Il existe également des Tarifs Globaux FIP pour les trains internationaux `TGV` (sauf vers l’Allemagne). De plus, les billets au Tarif Global FIP permettent d’emprunter les trains AVE de la Renfe espagnole sur la liaison vers l’Espagne. Les trains Frecciarossa de [Trenitalia](/operator/fs "Trenitalia") vers l’Italie ne sont pas accessibles avec FIP en France.
 
 ## Informations générales
 
@@ -50,7 +50,7 @@ Depuis Folkestone, il existe également le train auto LeShuttle à travers le tu
 
 ### Belgique
 
-Depuis la Belgique, la SNCF exploite des trains internationaux `TGV` entre Bruxelles et Paris. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OuiGo entre Bruxelles et Paris, qui n’est pas accessible avec FIP.
+Depuis la Belgique, la SNCF exploite des trains internationaux `TGV` entre Bruxelles et Paris. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OUIGO entre Bruxelles et Paris, qui n’est pas accessible avec FIP.
 
 Alternativement, des trains [Eurostar](/operator/eurostar "Eurostar") relient Bruxelles à Paris, accessibles avec des billets au Tarif Global FIP, généralement moins chers que les `TGV`.
 

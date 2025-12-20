@@ -6,7 +6,7 @@ country:
 operator: "db"
 ---
 
-La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’Allemagne et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.
+La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.
 
 ## Résumé
 

@@ -13,7 +13,7 @@ params:
 
 In Spain, using FIP is not always straightforward, as simply boarding and riding along rarely works. On most routes, a ticket at the FIP Global Fare must be booked in advance. Since only as many tickets are sold as there are available seats, this purchase should not be made at the last minute (even for regional trains).
 
-[Renfe](/operator/renfe "Renfe") is the largest railway operator in Spain and accepts FIP. On lucrative routes, it competes with many private providers like OUIGO or Iryo, which do not accept FIP. Another provider in the Basque Country is [Euskotren](/operator/euskotren), which also accepts FIP.
+[Renfe](/operator/renfe "Renfe") is the largest railway operator in Spain and accepts FIP. On lucrative routes, it competes with many private providers like [OUIGO](/operator/sncf#long-distance "OUIGO") or Iryo, which do not accept FIP. Another provider in the Basque Country is [Euskotren](/operator/euskotren), which also accepts FIP.
 
 ## Insteresting
 

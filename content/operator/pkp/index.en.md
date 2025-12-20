@@ -6,7 +6,7 @@ country:
 operator: "pkp"
 ---
 
-The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of Polish passenger rail transport.
+The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").
 
 ## Summary
 

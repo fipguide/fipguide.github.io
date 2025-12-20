@@ -6,7 +6,7 @@ country:
 operator: "pkp"
 ---
 
-Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des polnischen Schienenpersonenverkehrs.
+Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des Schienenpersonenverkehrs in [Polen](/country/poland "Polen").
 
 ## Zusammenfassung
 

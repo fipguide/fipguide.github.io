@@ -6,7 +6,7 @@ country:
 operator: "pkp"
 ---
 
-Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en Pologne.
+Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en [Pologne](/country/poland "Pologne").
 
 ## Résumé
 

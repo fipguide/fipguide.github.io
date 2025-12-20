@@ -6,24 +6,14 @@ country: "monaco"
 
 ## Informations FIP
 
-Le chemin de fer au Liechtenstein est exploité par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb "ÖBB"). Tous les billets ÖBB sont valables ici, y compris les Billets FIP 50 et les coupons FIP pour les ÖBB. Les conditions FIP des ÖBB s’appliquent également au Liechtenstein.
+Le chemin de fer à Monaco est exploité par la compagnie nationale française [SNCF](/operator/sncf "SNCF"). Tous les titres de transport SNCF sont valables ici, y compris les Billets FIP 50 et les Coupons FIP pour la SNCF. Les conditions FIP de la SNCF s’appliquent également à Monaco.
 
 ## Informations générales
 
-Seule la ligne ferroviaire d’environ 8 km Feldkirch (Autriche) – Buchs SG (Suisse) traverse le Liechtenstein, comprenant trois gares sur le territoire liechtensteinois. Cette ligne fait partie de la liaison internationale grandes lignes Vienne – Salzbourg – Innsbruck – Suisse et est exploitée par les Chemins de fer fédéraux autrichiens.
-
-Les gares liechtensteinoises Nendeln, Forst Hilti (Schaan) et Schaan-Vaduz (Schaan) ne sont desservies que par des trains régionaux. L’offre est réduite au minimum pour les navetteurs : seuls quelques trains régionaux circulent les jours ouvrables tôt le matin, à midi et en fin d’après-midi dans chaque direction entre Feldkirch et Buchs SG.
+La seule ligne ferroviaire traversant Monaco fait partie de la liaison internationale Marseille – Nice – Monaco – Vintimille (Italie) et est exploitée par la SNCF. La seule gare du pays, Monaco-Monte-Carlo, est située au centre-ville et desservie par de nombreux trains régionaux.
 
 ## Arrivée et points frontières
 
-### Autriche
+### France
 
-L’entrée depuis l’Autriche est possible via le poste frontière de Feldkirch avec quelques trains S-Bahn aux heures de pointe les jours ouvrables. Au Liechtenstein, les [Billets FIP ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables.
-
-Sinon, le trafic transfrontalier est principalement assuré par des bus, pour lesquels les Billets FIP ne sont pas valables.
-
-### Suisse
-
-L’entrée depuis la Suisse est possible via le poste frontière de Buchs SG avec quelques trains S-Bahn aux heures de pointe les jours ouvrables. Au Liechtenstein, les [Billets FIP ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables. Ainsi, à partir du point frontière Buchs SG en Suisse, les Coupons FIP ÖBB et les Billets FIP 50 sont également valables ici.
-
-Sinon, le trafic transfrontalier est principalement assuré par des bus, pour lesquels les Billets FIP ne sont pas valables.
+L’entrée à Monaco n’est possible qu’en provenance de la France avec des trains régionaux. D’un point de vue tarifaire, il n’existe pas de points frontières, car Monaco fait partie du réseau ferroviaire français. La ligne ferroviaire traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. L’Italie n’est pas loin à l’ouest de Monaco et peut être atteinte via la gare de Vintimille.

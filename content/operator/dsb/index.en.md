@@ -6,7 +6,7 @@ country:
 operator: "dsb"
 ---
 
-The DSB (Danske Statsbaner) is the state-owned railway company in Denmark. It operates the majority of passenger traffic on the Danish rail network.
+The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
 
 ## Summary
 

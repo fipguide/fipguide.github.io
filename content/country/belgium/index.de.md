@@ -5,7 +5,7 @@ country: "belgium"
 params:
   operators_without_fip:
     - European Sleeper
-    - OuiGo
+    - OUIGO
 ---
 
 ## FIP Nutzung
@@ -14,7 +14,7 @@ In Belgien können sowohl FIP 50 als auch FIP Freifahrtscheine umfangreich genut
 
 Zusätzlich verkehren internationale [Eurostar](/operator/eurostar "Eurostar") Züge, welche vergünstigt mit speziellen FIP-Fahrkarten genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
 
-Darüber hinaus verkehren internationale `TGV` Züge der SNCF aus Frankreich, für die Freifahrtscheine der belgischen Staatsbahn keine Gültigkeit haben. Für diese Züge lassen sich ausschließlich spezielle FIP Globalpreise buchen. Für die Eurocity Züge von Brüssel nach Paris von OuiGo gelten keine FIP Vergünstigungen.
+Darüber hinaus verkehren internationale `TGV` Züge der [SNCF](/operator/sncf "SNCF") aus Frankreich, für die Freifahrtscheine der belgischen Staatsbahn keine Gültigkeit haben. Für diese Züge lassen sich ausschließlich spezielle FIP Globalpreise buchen. Für die Eurocity Züge von Brüssel nach Paris von OUIGO gelten keine FIP Vergünstigungen.
 
 ## Wissenswertes
 
