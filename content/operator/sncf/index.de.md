@@ -11,7 +11,7 @@ country:
 operator: "sncf"
 ---
 
-Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in Frankreich. Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.
+Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in [Frankreich]({{< ref "/country/france" >}} "Frankreich"). Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.
 
 ## Zusammenfassung
 

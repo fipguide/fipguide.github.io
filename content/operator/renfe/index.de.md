@@ -7,7 +7,7 @@ country:
 operator: "renfe"
 ---
 
-Renfe Operadora ist ein staatliches spanisches Eisenbahnunternehmen. Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.
+Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien]({{< ref "/country/spain" >}} "Spanien"). Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.
 
 ## Zusammenfassung
 

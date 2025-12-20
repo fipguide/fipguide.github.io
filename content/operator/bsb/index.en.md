@@ -8,7 +8,7 @@ country:
 operator: "bsb"
 ---
 
-Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance.
+Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany]({{< ref "/country/germany" >}} "Germany"), [Austria]({{< ref "/country/austria" >}} "Austria"), and [Switzerland]({{< ref "/country/switzerland" >}} "Switzerland").
 
 FIP discounts apply with the following operators:
 

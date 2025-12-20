@@ -5,7 +5,7 @@ country:
   - "switzerland"
 ---
 
-Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der Schweiz. Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
+Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz]({{< ref "/country/switzerland" >}} "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
 
 ## Zusammenfassung
 

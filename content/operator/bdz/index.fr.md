@@ -6,7 +6,7 @@ country:
 operator: "bdz"
 ---
 
-Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de Bulgarie et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.
+Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de [Bulgarie]({{< ref "/country/bulgaria" >}} "Bulgarie") et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.
 
 ## Résumé
 
