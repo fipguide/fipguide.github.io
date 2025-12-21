@@ -15,8 +15,8 @@ params:
 
 En Suisse, il existe trois opérateurs différents pour lesquels des FIP Coupons et des Billets FIP 50 peuvent être achetés :
 
-- La compagnie ferroviaire nationale [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") (Chemins de fer fédéraux suisses), qui circule principalement sur les lignes principales
-- Un consortium de chemins de fer privés suisses [(SP - Schweizer Privatbahnen)]({{< ref "/operator/sp" >}} "SP")
+- La compagnie ferroviaire nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Chemins de fer fédéraux suisses), qui circule principalement sur les lignes principales
+- Un consortium de chemins de fer privés suisses [(SP - Schweizer Privatbahnen)](/operator/sp "SP")
 - La compagnie ferroviaire des Alpes bernoises Bern–Lötschberg–Simplon (BLS)
 
 En combinaison, ces opérateurs couvrent presque tout le réseau ferroviaire suisse, y compris certains moyens de transport uniques en Europe accessibles avec FIP, comme des téléphériques ou certaines lignes de bus.
@@ -58,7 +58,7 @@ Pour entrer en Suisse sans utiliser un billet SBB (par exemple, Coupon FIP ou FI
 D’autres liaisons importantes sont Stuttgart - Zurich via Schaffhausen (gare frontière commune SBB et DB) et Munich - Zurich via Lindau, St. Margrethen et St. Gallen, où circulent des trains `IC` ou `ECE`. Pour le trajet Lindau - St. Gallen via St. Margrethen, la ligne traverse l’Autriche, nécessitant un billet ÖBB.
 
 {{% highlight tip %}}
-Pour ce court tronçon, il est préférable d’acheter un Billet FIP 50, sinon il faudrait théoriquement payer le [supplément ÖBB longue distance]({{< ref "/country/austria#schweiz" >}} "Arrivée Suisse").
+Pour ce court tronçon, il est préférable d’acheter un Billet FIP 50, sinon il faudrait théoriquement payer le [supplément ÖBB longue distance](/country/austria#schweiz "Arrivée Suisse").
 {{% /highlight %}}
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. La Suisse est également accessible par des ferries, dont certains sont utilisables avec FIP.
@@ -88,7 +88,7 @@ Pour le trajet Milan - Côme - Suisse, il peut être avantageux de voyager entre
 
 ### Liechtenstein
 
-Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les Chemins de fer fédéraux autrichiens [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Les Coupons FIP et FIP 50 de l’ÖBB sont donc valables jusqu’au point frontière Buchs SG en Suisse.
+Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP et FIP 50 de l’ÖBB sont donc valables jusqu’au point frontière Buchs SG en Suisse.
 
 Sinon, le trafic frontalier est principalement assuré par des bus, où les Billets FIP ne sont pas valables.
 
@@ -96,7 +96,7 @@ Sinon, le trafic frontalier est principalement assuré par des bus, où les Bill
 
 L’Autriche et la Suisse n’ont qu’un seul véritable point frontière, à St. Margrethen. Principalement des trains régionaux y circulent, mais aussi des Eurocity qui, en Autriche, ne s’arrêtent qu’à Bregenz et viennent d’Allemagne (Munich).
 
-Il est aussi possible d’entrer en Suisse depuis l’Autriche via Buchs SG en passant par le Liechtenstein. Au Liechtenstein, les [Billets FIP de l’ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") sont valables. Il est donc possible d’avoir un billet continu entre l’Autriche et la Suisse avec des Coupons FIP ÖBB et SBB. C’est aussi la principale ligne entre les deux pays, avec des Railjet autrichiens et des Eurocity entre Vienne / Graz et Zurich, ainsi que des trains régionaux.
+Il est aussi possible d’entrer en Suisse depuis l’Autriche via Buchs SG en passant par le Liechtenstein. Au Liechtenstein, les [Billets FIP de l’ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables. Il est donc possible d’avoir un billet continu entre l’Autriche et la Suisse avec des Coupons FIP ÖBB et SBB. C’est aussi la principale ligne entre les deux pays, avec des Railjet autrichiens et des Eurocity entre Vienne / Graz et Zurich, ainsi que des trains régionaux.
 
 ## Sources
 

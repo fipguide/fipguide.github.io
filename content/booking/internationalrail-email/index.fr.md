@@ -20,6 +20,12 @@ aliases:
 
 Les billets au tarif global FIP peuvent être achetés auprès d’International Rail Ltd. Pour cela, il faut envoyer un e-mail à [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk). La réservation n’est possible qu’en anglais. Les informations suivantes doivent être fournies lors de la réservation :
 
+- Date et heure du voyage
+- Gare de départ et de destination
+- Nombre de voyageurs
+- Classe de voyage (selon le droit de la Carte FIP)
+- Photo de la Carte FIP de chaque voyageur
+
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}

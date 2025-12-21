@@ -30,7 +30,7 @@ Les billets (y compris les Billets FIP 50) sont moins chers s’ils sont acheté
 
 ## Réservations
 
-Le tarif de réservation est facturé par train. Pour des trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn").
+Le tarif de réservation est facturé par train. Pour des trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn](/booking/db-website "Deutsche Bahn").
 
 Cependant, les réservations effectuées auprès d’ÖBB peuvent être annulées :
 

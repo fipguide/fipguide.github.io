@@ -8,14 +8,14 @@ params:
     - Circumflegrea
     - Circumvesuviana
     - Cumana
-    - '[Ferrovie Sud Est]({{< ref "/operator/fs#gültigkeit-fip-tickets" >}} "Ferrovie Sud Est")'
+    - '[Ferrovie Sud Est](/operator/fs#gültigkeit-fip-tickets "Ferrovie Sud Est")'
     - Italo / NTV
-    - '[Trenord]({{< ref "/operator/fs#gültigkeit-fip-tickets" >}} "Trenord")'
+    - '[Trenord](/operator/fs#gültigkeit-fip-tickets "Trenord")'
 ---
 
 ## FIP Nutzung
 
-Züge im Nahverkehr werden in Italien größtenteils von der [Trenitalia]({{< ref "/operator/fs" >}} "Trenitalia") betrieben und können mit FIP genutzt werden. Ausgenommen davon sind Züge von Trenord, die im nördlichen Italien unterwegs sind, und Ferrovie Sud Est (selbst wenn die Züge Trenitalia Logos haben). Auch im Raum Neapel verkehren einige Schmalspurlinien, die nicht von der Trenitalia betrieben werden und nicht mit FIP nutzbar sind.
+Züge im Nahverkehr werden in Italien größtenteils von der [Trenitalia](/operator/fs "Trenitalia") betrieben und können mit FIP genutzt werden. Ausgenommen davon sind Züge von Trenord, die im nördlichen Italien unterwegs sind, und Ferrovie Sud Est (selbst wenn die Züge Trenitalia Logos haben). Auch im Raum Neapel verkehren einige Schmalspurlinien, die nicht von der Trenitalia betrieben werden und nicht mit FIP nutzbar sind.
 
 Im Fernverkehr sind die Frecce-Züge der Trenitalia nur mit teuren Reservierungen (inkl. Aufschlag) nutzbar. Zusätzlich verkehren Züge des privaten Anbieters Italo, die nicht mit FIP nutzbar sind.
 
@@ -74,6 +74,6 @@ Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abs
 
 Zwischen Mailand und Paris fahren grenzüberschreitende Frecciarossa-Züge. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, für diese müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge]({{< ref "/operator/sncf/#grenzüberschreitende-tgv-inoui--ice-züge" >}} "Grenzüberschreitende TGV inOui / ICE Züge")
+Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, für diese müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf/#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge")
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.

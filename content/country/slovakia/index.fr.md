@@ -9,7 +9,7 @@ params:
 
 ## Informations FIP
 
-La Slovaquie peut être facilement parcourue en train avec un Billet FIP 50 ou un Coupon FIP. Le dispositif FIP inclut l’opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les Billets FIP ŽSR sont valables.
+La Slovaquie peut être facilement parcourue en train avec un Billet FIP 50 ou un Coupon FIP. Le dispositif FIP inclut l’opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les Billets FIP ŽSR sont valables.
 
 Une attention particulière doit être portée aux conditions de réservation sur les trains grandes lignes, ainsi qu’aux règles étendues pour le transport gratuit des enfants.
 

@@ -15,9 +15,9 @@ params:
 
 ## FIP Information
 
-In the Netherlands, FIP 50 Tickets and FIP Coupons can be used on a large part of the rail network. The Nederlandse Spoorwegen ([NS]({{< ref "/operator/ns" >}} "NS")) is the national railway company and operates most of the country's main lines. FIP is widely accepted here, with only a few exceptions for certain routes and trains.
+In the Netherlands, FIP 50 Tickets and FIP Coupons can be used on a large part of the rail network. The Nederlandse Spoorwegen ([NS](/operator/ns "NS")) is the national railway company and operates most of the country's main lines. FIP is widely accepted here, with only a few exceptions for certain routes and trains.
 
-Additionally, international [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains operate, which can be used at a discount with special FIP Global Fares. These trains are listed as train category `EST` in journey planners.
+Additionally, international [Eurostar](/operator/eurostar "Eurostar") trains operate, which can be used at a discount with special FIP Global Fares. These trains are listed as train category `EST` in journey planners.
 
 Other operators such as Arriva Nederland or the cross-border `RE` trains Arnhem - Düsseldorf, Venlo - Hamm, and Maastricht - Aachen unfortunately do not accept FIP. All buses (except rail replacement services), trams, and metros are also excluded.
 
@@ -42,7 +42,7 @@ A special feature in the Netherlands is that almost all larger stations have tic
 
 ### Germany
 
-From Germany, the cross-border `ICE` from Frankfurt / Cologne / Düsseldorf can be used to enter the NS network. For cross-border journeys, an additional DB ticket is required.
+From Germany, the cross-border `ICE` from Frankfurt / Cologne / Düsseldorf or Berlin / Hanover can be used to enter the NS network. For cross-border journeys, an additional DB ticket is required.
 
 There are also various regional trains, but only two are valid with FIP:
 
@@ -57,7 +57,7 @@ On the `RE` routes Hamm - Venlo and Düsseldorf - Arnhem, the Deutschlandticket 
 
 From Belgium, cross-border regional trains (including the `IC` here) can be used, but an additional FIP Ticket from SNCB is required. There are also long-distance trains (`ECD` and `EC`), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis.
 
-With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP Ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP Ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar](/operator/eurostar "Eurostar"))
 
 ### United Kingdom
 
