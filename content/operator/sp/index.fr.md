@@ -30,13 +30,18 @@ Le FIP est accepté par les opérateurs suivants :
 
 ### Opérateurs ferroviaires et d’autobus
 
-{{% expander "Appenzeller Bahnen (AB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="ab"
+    title="Appenzeller Bahnen (AB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Appenzeller Bahnen exploite un réseau ferroviaire dans les cantons d’Appenzell Rhodes-Intérieures, Appenzell Rhodes-Extérieures, Saint-Gall et Thurgovie. Des services existent en voie normale, étroite et métrique, avec des sections à crémaillère. Quelques lignes d’autobus sont également exploitées.
 
 Tous ces services sont accessibles avec le FIP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Gossau SG – Appenzell – Wasserauen
 - St. Gallen – Gais – Appenzell
@@ -45,16 +50,20 @@ Tous ces services sont accessibles avec le FIP.
 - Rorschach – Heiden
 - Rheineck – Walzenhausen
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Aare Seeland mobil (ASM)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="asm"
+    title="Aare Seeland mobil (ASM)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Aare Seeland mobil exploite plusieurs lignes à voie métrique en Suisse. En outre, un grand nombre de lignes d’autobus sont exploitées.
 
 Tous ces services sont accessibles avec le FIP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Biel/Bienne – Täuffelen – Ins
 - Langenthal – St.Urban Ziegelei
@@ -62,90 +71,123 @@ Tous ces services sont accessibles avec le FIP.
 - Solothurn – Niederbipp – Oensingen
 - Ligerz – Tessenberg (téléphérique)
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Aargau Verkehr AG (AVA)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="ava"
+    title="Aargau Verkehr AG (AVA)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Aargau Verkehr AG est issue de la fusion de BDWM Transport (BDWM) et de la Wynental- und Suhrentalbahn (WSB). Le réseau comprend trois lignes de tram/train à voie métrique dans les cantons d’Argovie et de Zurich, ainsi que plusieurs lignes d’autobus.
 
 Si les réductions FIP sont valables sur les lignes ferroviaires listées ci-dessous et sur les lignes d’autobus, on ne sait pas si le FIP est valable sur la Limmattalbahn, qui circule comme tram entre Zurich Altstetten et Killwangen-Spreitenbach.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Wohlen – Bremgarten – Dietikon
 - Schöftland – Aarau – Menziken – Burg
 - Aarau – Schöftland
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Baselland Transport (BLT)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="blt"
+    title="Baselland Transport (BLT)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Baselland Transport AG exploite plusieurs lignes de tram et des bus dans la région de Bâle. Si le FIP est valable sur toutes les lignes d’autobus, nous n’avons pas connaissance de sa validité sur les lignes de tram. Seules les lignes ci-dessous sont assurément accessibles avec le FIP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Dornach – Arlesheim – Basel – Rodersdorf
 - Liestal – Waldenburg
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Chemins de fer du Jura (CJ)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="cj"
+    title="Chemins de fer du Jura (CJ)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Les Chemins de fer du Jura sont une entreprise ferroviaire de la région jurassienne en Suisse. Outre une ligne à voie normale, elle exploite plusieurs lignes à voie métrique. Des lignes d’autobus sont également proposées.
 
 Tous ces services sont accessibles avec le FIP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Glovelier – La Chaux-de-Fonds
 - Tavannes – Le Noirmont
 - Porrentruy – Bonfol
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Ferrovie Autolinee Regionali Ticinesi (FART) ⚠️" traincategory "category" %}}
-**Description :** \
-Ferrovie autolinee regionali ticinesi exploite, en plus de certaines lignes d’autobus, la section suisse de la ligne Centovalli entre Locarno et Domodossola en Italie, ainsi que deux petits téléphériques. \
-Même si la ligne des Centovalli se prolonge en Italie, les billets FIP SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre FIP SP. Pour le Treno Panoramico Vigezzo Vision (indiqué `PE` pour Panorama Express dans les horaires), une réservation est obligatoire ; voir la [section dédiée](#treno-panoramico-vigezzo-vision).
+{{% train-category
+    id="fart"
+    title="Ferrovie Autolinee Regionali Ticinesi (FART)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Ferrovie autolinee regionali ticinesi exploite, en plus de certaines lignes d’autobus, la section suisse de la ligne Centovalli entre Locarno et Domodossola en Italie, ainsi que deux petits téléphériques.
+
+Même si la ligne des Centovalli se prolonge en Italie, les billets FIP SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre FIP SP.
 
 Pour les téléphériques, on ne sait pas si le FIP est accepté. Sur les lignes d’autobus, le FIP est accepté.
 
-**Lignes ferroviaires :**
+#### Réservation
+
+Une réservation est obligatoire pour le Treno Panoramico Vigezzo Vision (indiqué `PE` pour Panorama Express dans les horaires) ; voir la [section dédiée](#treno-panoramico-vigezzo-vision).
+
+#### Lignes régulières
 
 - Locarno (– Camedo – Domodossola)
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** ⚠️ oui, pour le Vigezzo Vision Panorama Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Forchbahn (FB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="fb"
+    title="Forchbahn (FB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La Forchbahn est une ligne à voie métrique circulant entre Zurich et Esslingen. À l’intérieur de Zurich, elle emprunte le réseau de tram, mais en tant que ligne express, elle ne s’arrête qu’aux arrêts principaux. Elle est intégrée au réseau RER de Zurich en tant que ligne S18. Le FIP est valable sur toute la ligne.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Zürich Stadelhofen – Esslingen
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Frauenfeld–Wil (FW)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="fw"
+    title="Frauenfeld–Wil (FW)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La Frauenfeld–Wil est une ligne à voie métrique entre Wil, dans le canton de Saint-Gall, et Frauenfeld, en Thurgovie. Le FIP est valable sur toute la ligne.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Wil SG – Frauenfeld FW
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Jungfraubahn (JB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="jb"
+    title="Jungfraubahn (JB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 La Jungfraubahn est un consortium d’anciennes compagnies privées opérant autour du Jungfraujoch. Il se compose des opérateurs suivants :
 
 - Grindelwald-First-Bahn (BGF)
@@ -156,6 +198,8 @@ La Jungfraubahn est un consortium d’anciennes compagnies privées opérant aut
 - Wengernalpbahn (WAB)
 
 Les réductions FIP ne sont pas accordées sur toutes les lignes.
+
+#### Lignes régulières
 
 Sur les sections suivantes, les Coupons FIP et les Billets FIP 50 sont valables sans restriction :
 
@@ -180,55 +224,82 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 - Funiculaire Mürren – Allmendhubel (SMA)
 - Téléphérique Stechelberg – Mürren – Schilthorn (LSMS)
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports de la région Morges–Bière–Cossonay (MBC)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="mbc"
+    title="Transports de la région Morges–Bière–Cossonay (MBC)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 MBC est une entreprise de transport régionale du canton de Vaud. Elle exploite deux lignes à voie métrique, plusieurs lignes d’autobus et un funiculaire.
 
 Les bus et trains à voie étroite sont accessibles avec le FIP ; pour le funiculaire, on ne sait pas si le FIP est accepté.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Bière – Apples – Morges
 - Apples – L’Isletou – Mont-la-Ville
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Matterhorn Gotthard Bahn (MGB) ⚠️" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="mgb"
+    title="Matterhorn Gotthard Bahn (MGB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=partially
+    reservation_possible=true
+%}}
 La Matterhorn Gotthard Bahn dispose d’un réseau de 144 km dans les cantons du Valais, d’Uri et des Grisons. Si toutes les réductions FIP sont reconnues sur certaines lignes, ce n’est pas le cas entre Zermatt et Gornergrat, où seuls les Billets FIP 50 sont acceptés. Le transport auto par le tunnel de la Furka est totalement exclu du FIP. Le FIP est entièrement accepté sur les lignes d’autobus.
 
-Pour le Glacier Express, exploité conjointement par MGB et les Chemins de fer rhétiques (RhB), des réservations payantes sont obligatoires ; voir la [section dédiée](#glacier-express).
+#### Réservation
 
-**Lignes ferroviaires :**
+Une réservation est obligatoire pour le Glacier Express, exploité conjointement par MGB et les Chemins de fer rhétiques (RhB) ; voir la [section dédiée](#glacier-express).
+
+#### Lignes régulières
 
 - Brig – Zermatt
 - Brig – Disentis
 - Andermatt – Göschenen
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** ⚠️ oui, pour le Glacier Express
-{{% /expander %}}
+{{% /train-category %}}
+
+{{% train-category
+    id="mib"
+    title="Meiringen–Innertkirchen (MIB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
+{{% /train-category %}}
 
 {{% expander "Meiringen–Innertkirchen (MIB)" traincategory "category" %}}
 **Description :** \
 La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
 {{% /expander %}}
 
-{{% expander "Chemin de fer Montreux–Oberland Bernois (MOB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="mob"
+    title="Chemin de fer Montreux–Oberland Bernois (MOB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
 La Montreux–Oberland bernois (MOB) exploite la ligne à voie métrique de Montreux à Lenk im Simmental. Aujourd’hui, la plupart des trains circulent seulement entre Montreux et Zweisimmen, voire jusqu’à Interlaken Ost. La section Zweisimmen – Lenk im Simmental est exploitée indépendamment, sans liaisons directes.
 
 Elle est également l’entreprise exploitante sur les lignes des Transports Montreux–Vevey–Riviera (MVR), intégrant ainsi d’autres lignes à voie étroite et des funiculaires dans l’exploitation de la MOB.
 
 Le FIP est valable sur l’ensemble des itinéraires de la MOB indiqués ci-dessous. Entre Zweisimmen et Interlaken Ost, les trains sont toutefois exploités par BLS SA. Cela signifie que des Coupons FIP tant pour SP que pour BLS sont nécessaires pour parcourir l’intégralité de la ligne. Les Billets FIP 50 peuvent être réservés de bout en bout.
 
+#### Réservation
+
 Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le GoldenPass Panoramic (trains entre Montreux et Zweisimmen), tous deux indiqués `PE` dans les horaires, le voyage sans réservation de siège n’est possible que s’il reste des places disponibles. Sinon, une réservation payante peut être achetée via le [site de la MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). Pour certains wagons panoramiques du GoldenPass Panoramic, un supplément peut être perçu sur place.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Montreux – Les Avants – Montbovon – Gstaad – Zweisimmen (– Interlaken Ost)
 - Zweisimmen – Lenk im Simmental
@@ -238,70 +309,92 @@ Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le 
 - Territet – Glion (funiculaire)
 - Les Avants – Sonloup (funiculaire)
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** non (le transport n’est toutefois pas garanti sur les lignes avec possibilité de réservation)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports Montreux–Vevey–Riviera (MVR)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="mvr"
+    title="Transports Montreux–Vevey–Riviera (MVR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 MVR possède plusieurs lignes à voie étroite et des funiculaires à Montreux et Vevey, au bord du Léman. Les services sur ces lignes sont aujourd’hui exploités par la MOB ; les détails relatifs à la validité FIP se trouvent donc sous « Chemin de fer Montreux–Oberland Bernois (MOB) ».
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Nyon–St-Cergue–Morez (Nyon–La Cure) (NStCM)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="nstcm"
+    title="Nyon–St-Cergue–Morez (Nyon–La Cure) (NStCM)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La NStCM est une entreprise ferroviaire du canton de Vaud. Elle exploite uniquement la ligne à voie métrique de Nyon, au bord du Léman, à St-Cergue et jusqu’à la frontière française à La Cure.
 
 Le FIP est valable sur toute la ligne.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Nyon – St-Cergue – La Cure
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Oensingen-Balsthal-Bahn AG (OeBB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="oebb"
+    title="Oensingen-Balsthal-Bahn AG (OeBB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 OeBB (à ne pas confondre avec ÖBB) est une entreprise ferroviaire du canton de Soleure. Elle exploite uniquement une ligne de 4 km entre Oensingen et Balsthal.
 
 Le FIP est valable sur toute la ligne.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Oensingen – Balsthal
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "RegionAlps (RA)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="ra"
+    title="RegionAlps (RA)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 RA est une entreprise ferroviaire du canton du Valais et exploite diverses lignes régionales.
 
 Le FIP est valable sur toutes les lignes.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Brig – St-Gingolph
 - Martigny – Sembrancher – Orsières
 - Sembrancher – Le Sable
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Rigi Bahnen AG (RB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="rb"
+    title="Rigi Bahnen AG (RB)"
+    type="funicular"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Les Rigi Bahnen exploitent deux lignes ferroviaires ainsi que plusieurs téléphériques.
 
 Le FIP n’est valable que partiellement sur les lignes listées ci-dessous ; sur les autres lignes, ni les Coupons FIP ni les Billets FIP 50 ne sont valables.
 
-**Lignes avec validité FIP :**
+#### Lignes régulières
+
+##### Lignes avec validité FIP
 
 - Vitznau – Rigi Kulm
 - Goldau – Rigi Kulm
 - Weggis – Rigi Kaltbad (téléphérique)
 - Kräbel (Goldau) – Rigi Scheidegg (téléphérique)
 
-**Lignes sans validité FIP :**
+##### Lignes sans validité FIP
 
 - Obergschwend – Rigi Burggeist (téléphérique)
 - Küssnacht – Seebodenalp (téléphérique)
@@ -309,32 +402,45 @@ Le FIP n’est valable que partiellement sur les lignes listées ci-dessous ; su
 - Vitznau – Wissifluh (téléphérique)
 - Brunnen – Urmiberg (téléphérique)
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regionalverkehr Bern–Solothurn (RBS)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="rbs"
+    title="Regionalverkehr Bern–Solothurn (RBS)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 RBS est une entreprise de transport régional et exploite quatre lignes à voie métrique dans les cantons de Berne et de Soleure. Elles sont en partie intégrées au RER de Berne. Des lignes d’autobus sont également proposées.
 
 Le FIP est valable sur toutes les lignes.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Bern – Solothurn (RE 5)
 - Bern – Worb Dorf (S7)
 - Bern – Bätterkinden (S8)
 - Bern – Unterzollikofen (S9)
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Chemins de fer rhétiques (RhB) ⚠️" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="rhb"
+    title="Chemins de fer rhétiques (RhB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=partially
+%}}
 Les Chemins de fer rhétiques exploitent principalement des lignes dans le canton des Grisons et circulent aussi jusqu’en Italie. Ils sont internationalement connus pour les trains panoramiques Bernina Express et Glacier Express. Des lignes d’autobus sont également exploitées par les RhB.
 
-Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s’applique aux navettes auto par les tunnels de l’Albula et de la Vereina. Pour le Glacier Express, des réservations payantes doivent être achetées à l’avance ; voir la [section dédiée](#glacier-express). Pour le Bernina Express, circulant entre Coire et Tirano et indiqué `PE`, un supplément doit être payé en plus de la réservation ; voir la [section dédiée](#bernina-express).
+Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s’applique aux navettes auto par les tunnels de l’Albula et de la Vereina.
 
-**Lignes ferroviaires :**
+#### Réservation
+
+Pour le Glacier Express, des réservations payantes doivent être achetées à l’avance ; voir la [section dédiée](#glacier-express). Pour le Bernina Express, circulant entre Coire et Tirano et indiqué `PE`, un supplément doit être payé en plus de la réservation ; voir la [section dédiée](#bernina-express).
+
+#### Lignes régulières
 
 - Chur – Disentis/Mustér
 - Chur – Arosa
@@ -345,64 +451,93 @@ Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s’app
 - St. Moritz – Pontresina – Poschiavo – Tirano
 - Samedan – Pontresina
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** ⚠️ oui, sur le Bernina et le Glacier Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Schweizerische Südostbahn (SOB) ⚠️" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="sob"
+    title="Schweizerische Südostbahn (SOB)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=partially
+%}}
 La Schweizerische Südostbahn exploite des liaisons à la fois sur ses propres lignes et sur certaines lignes des CFF. En coopération avec les CFF, les trains Intervilles connus Treno Gottardo, Alpenrhein-Express et Aare Linth sont exploités par la SOB.
 
 Pour les réductions FIP, il convient de noter que les Coupons SP ne sont pas valables sur les lignes où la SOB ne circule qu’avec une licence des CFF, par exemple entre Basel SBB et Arth-Goldau. Sur ces lignes, des Coupons FIP des CFF doivent être utilisés. Les Billets FIP 50 continus sont toutefois possibles. La liste ci-dessous ne comprend donc que les lignes sur lesquelles les Coupons SP sont valables.
 
-**Lignes sur lesquelles les réductions FIP SP s’appliquent :**
+#### Lignes régulières
+
+##### Lignes avec validité FIP
 
 - Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
 - Arth-Goldau – Bellinzona (via Göschenen – Airolo ou par le tunnel de base du Gothard)
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Società Subalpina di Imprese Ferroviarie (SSIF) ⚠️" traincategory "category" %}}
-**Description :** \
-La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la ligne Centovalli de Camedo à Domodossola. \
-Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP. Pour le Vigezzo Vision (indiqué `PE` pour Panorama Express), une réservation est obligatoire ; voir la [section dédiée](#treno-panoramico-vigezzo-vision).
+{{% train-category
+    id="ssif"
+    title="Società Subalpina di Imprese Ferroviarie (SSIF)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=partially
+%}}
+La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la ligne Centovalli de Camedo à Domodossola.
 
-**Lignes ferroviaires :**
+Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
+
+#### Réservation
+
+Pour le Vigezzo Vision (indiqué `PE` pour Panorama Express), une réservation est obligatoire ; voir la [section dédiée](#treno-panoramico-vigezzo-vision).
+
+#### Lignes régulières
 
 - (Locarno –) Camedo – Domodossola
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** ⚠️ oui, pour le Vigezzo Vision Panorama Express
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Sensetalbahn (STB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="stb"
+    title="Sensetalbahn (STB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La Sensetalbahn exploitait la ligne Flamatt – Laupen – Gümmenen, aujourd’hui exploitée par la BLS. Il est donc discutable d’indiquer encore la STB ici.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Sihltal Zürich Uetliberg Bahn (SZU)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="szu"
+    title="Sihltal Zürich Uetliberg Bahn (SZU)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La SZU exploite les deux lignes S-Bahn S4 et S10 du RER de Zurich. Elles relient Zürich HB à Sihlwald et à l’Uetliberg. Les deux lignes sont intégrées au FIP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Zürich HB – Adliswil – Sihlwald (S4)
 - Zürich HB – Uetliberg (S10)
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regionalbahn THURBO (THURBO)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="thurbo"
+    title="Regionalbahn THURBO (THURBO)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Thurbo AG est une entreprise ferroviaire en Suisse orientale ainsi qu’en trafic transfrontalier avec l’Allemagne et l’Autriche. Elle exploite diverses lignes du RER de Saint-Gall et du RER de Zurich, ainsi que quelques liaisons `RE`.
 
 Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections internationales sont exploitées en Allemagne par SBB GmbH et en Autriche par ÖBB. Vers l’Autriche, un Coupon ÖBB supplémentaire est donc nécessaire ; les lignes vers l’Allemagne ne sont pas utilisables avec le FIP. Exception : le trajet de la Suisse jusqu’à Constance, car Constance est considérée comme gare frontière. Les Billets FIP 50 peuvent être achetés pour toutes les lignes en Suisse ainsi que vers l’Autriche et Constance.
 
-**Lignes dans la région de Saint-Gall :**
+#### Lignes régulières
+
+##### Lignes dans la région de Saint-Gall
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
@@ -417,7 +552,7 @@ Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections inte
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
 
-**Lignes dans la région de Zurich :**
+##### Lignes dans la région de Zurich
 
 - Winterthur – Rüti ZH (S26)
 - Winterthur – Stein am Rhein (S29)
@@ -427,35 +562,44 @@ Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections inte
 - Winterthur – Bülach (S41)
 
 Il existe également des lignes de nuit dans les deux régions, remplaçant les lignes RER habituelles pendant les heures nocturnes, également utilisables avec le FIP.
+{{% /train-category %}}
 
-**Réservation possible :** non
-{{% /expander %}}
-
-{{% expander "Transports de Martigny et Régions (TMR) ⚠️" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="tmr"
+    title="Transports de Martigny et Régions (TMR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=partially
+%}}
 TMR est une entreprise de transport du canton du Valais. Elle exploite une ligne ferroviaire, le Mont-Blanc Express. Elle exploite également quelques lignes d’autobus dans la région.
 
 Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur le Mont-Blanc Express. Entre Le Châtelard-Frontière et Vallorcine, la ligne est exploitée par la SNCF, pour laquelle le FIP est aussi utilisable, mais le Coupon SP n’y est pas valable (un Coupon SNCF est nécessaire).
 
-Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 minutes avant le départ et gratuitement via le [site officiel](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
-
 Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d’en-Haut et Finhaut – Lac d’Emosson.
 
-**Lignes ferroviaires :**
+#### Réservation
+
+Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 minutes avant le départ et gratuitement via le [site officiel](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
+
+#### Lignes régulières
 
 - Martigny – Le Châtelard-Frontière
 
-**Réservation possible :** partiellement \
-**Réservation obligatoire :** ⚠️ oui, pour les trains après 23 h
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports publics du Chablais (TPC)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="tpc"
+    title="Transports publics du Chablais (TPC)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Les TPC exploitent quatre lignes ferroviaires à voie métrique dans les cantons de Vaud et du Valais, ainsi que des lignes d’autobus.
 
 Tous les services sont utilisables avec les réductions FIP SP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Martigny – Le Châtelard-Frontière
 - Aigle – Leysin
@@ -463,16 +607,20 @@ Tous les services sont utilisables avec les réductions FIP SP.
 - Aigle – Sépey – Diablerets
 - Bex – Villars-sur-Ollon – Col-de-Bretaye
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports publics fribourgeois (TPF)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="tpf"
+    title="Transports publics fribourgeois (TPF)"
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+%}}
 Les TPF exploitent trois lignes à voie normale, une ligne à voie étroite et un funiculaire dans le canton de Fribourg. Ils proposent également plusieurs lignes d’autobus.
 
 Tous les services sont utilisables avec les réductions FIP SP.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Fribourg/Fribourg – Murten – Ins
 - Romont – Bulle
@@ -480,69 +628,101 @@ Tous les services sont utilisables avec les réductions FIP SP.
 - Bulle – Broc-Fabrique
 - Fribourg/Fribourg – Neuveville – St-Pierre (funiculaire)
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports Vallée-de-Joux – Yverdon-les-Bains – Sainte-Croix (TRAVYS)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="travys"
+    title="Transports Vallée-de-Joux – Yverdon-les-Bains – Sainte-Croix (TRAVYS)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 TRAVYS est une entreprise de transport exploitant une ligne à voie normale et une ligne à voie étroite ainsi que diverses lignes d’autobus au nord du canton de Vaud.
 
 Tous ces services sont utilisables avec les réductions FIP SP. La section à voie normale entre Le Pont et Le Brassus appartient à l’infrastructure TRAVYS mais est exploitée par les CFF.
 
-**Lignes ferroviaires :**
+#### Lignes régulières
 
 - Yverdon-les-Bains – Ste-Croix
 - Orbe – Chavornay
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transports Publics Neuchâtelois (TRN)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="trn"
+    title="Transports Publics Neuchâtelois (TRN)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 Les Transports Publics Neuchâtelois est une entreprise de transport du canton de Neuchâtel exploitant des chemins de fer, des funiculaires et des lignes d’autobus, sous la marque « transN ».
 
 Nous savons que quatre lignes ferroviaires peuvent être utilisées avec les réductions FIP SP. La situation sur les autres lignes n’est actuellement pas connue. Nous n’avons pas non plus d’informations sur l’utilisation des funiculaires. Toutes les lignes d’autobus peuvent être utilisées.
 
-**Lignes ferroviaires avec validité FIP :**
+#### Lignes régulières
+
+##### Lignes avec validité FIP
 
 - La Chaux-de-Fonds – Les Ponts-de-Martel
 - Le Locle – Les Brenets
 - Travers – Fleurier – Buttes
 - Neuchâtel, Pl. Pury – Boudry
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Waldenburgerbahn (WB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="wb"
+    title="Waldenburgerbahn (WB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La Waldenburgerbahn désigne la ligne entre Liestal et Waldenburg, désormais exploitée par Baselland Transport (BLT). Voir la section dédiée.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Wynental- und Suhrentalbahn (WSB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="wsb"
+    title="Wynental- und Suhrentalbahn (WSB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La WSB fait désormais partie d’Aargau Verkehr AG (AVA). Voir la section dédiée.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Zentralbahn (ZB)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="zb"
+    title="Zentralbahn (ZB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=partially
+%}}
 La Zentralbahn exploite un réseau à voie métrique constitué de la ligne du Brünig (Lucerne – Interlaken Ost), du chemin de fer Lucerne–Stans–Engelberg et de la ligne Meiringen–Innertkirchen.
 
-Les réductions FIP SP sont valables sur les trois lignes. Les trains indiqués `PE` entre Lucerne et Interlaken Ost peuvent être utilisés sans supplément. Une réservation pour ce train peut être achetée contre paiement via le [site officiel](https://shop.luzern.com/de/stories/luzern-interlaken-express), mais elle n’est pas obligatoire.
+Les réductions FIP SP sont valables sur les trois lignes. Les trains indiqués `PE` entre Lucerne et Interlaken Ost peuvent être utilisés sans supplément.
 
-**Lignes ferroviaires :**
+#### Réservation
+
+Une réservation pour le `PE` entre Lucerne et Interlaken Ost peut être achetée contre paiement via le [site officiel](https://shop.luzern.com/de/stories/luzern-interlaken-express), mais elle n’est pas obligatoire.
+
+#### Lignes régulières
 
 - Luzern – Meiringen – Interlaken Ost
 - Meiringen – Innertkirchen
 - Luzern – Stans – Engelberg
 
-**Réservation possible :** oui, pour le Lucerne–Interlaken Express \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% /train-category %}}
 
 ### Opérateurs de bateaux
 
-{{% expander "Bielersee-Schifffahrts-Gesellschaft (BSG)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="bsg"
+    title="Bielersee-Schifffahrts-Gesellschaft (BSG)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La BSG exploite des bateaux sur le lac de Bienne (Bielersee) sur les lignes :
 
 - Biel/Bienne – Solothurn (croisière sur l’Aar)
@@ -554,11 +734,15 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur ces lignes. Points de co
 - La Neuveville
 - Solothurn
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Compagnie générale de navigation (Lac Léman) (CGN)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="cgn"
+    title="Compagnie générale de navigation (Lac Léman) (CGN)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La CGN exploite différentes lignes de navigation sur le lac Léman.
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur toutes les lignes. Points de correspondance train-bateau :
@@ -575,11 +759,15 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur toutes les lignes. Point
 - Évian-les-Bains
 - Thonon-les-Bains
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Société de navigation sur les Lacs de Neuchâtel et Morat (LNM)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="lnm"
+    title="Société de navigation sur les Lacs de Neuchâtel et Morat (LNM)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+%}}
 La LNM exploite des services sur le lac de Neuchâtel et le lac de Morat sur les lignes :
 
 - Neuchâtel – Murten
@@ -592,11 +780,15 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur ces lignes. Points de co
 - Yverdon
 - Murten/Morat
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Schifffahrtsgesellschaft des Vierwaldstättersees (SGV)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="sgv"
+    title="Schifffahrtsgesellschaft des Vierwaldstättersees (SGV)"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 La SGV exploite différentes lignes de navigation sur le lac des Quatre-Cantons. La 1re classe se trouve sur le pont supérieur des bateaux.
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur toutes les lignes régulières (pas de croisières spéciales), sauf sur le bac automobile Beckenried – Gersau.
@@ -613,11 +805,15 @@ Points de correspondance train-bateau :
 - Vitznau
 - Weggis
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Zürichsee Schifffahrtsgesellschaft (ZSG)" traincategory "category" %}}
-**Description :** \
+{{% train-category
+    id="zsg"
+    title="Zürichsee Schifffahrtsgesellschaft (ZSG)"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+%}}
 La ZSG exploite différentes lignes de navigation sur le lac de Zurich.
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur presque toutes les lignes régulières (pas de croisières spéciales), y compris sur la Limmat. Seul le bac automobile Horgen – Meilen est exclu.
@@ -635,8 +831,7 @@ Points de correspondance train-bateau :
 - Lachen
 - Schmerikon
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
