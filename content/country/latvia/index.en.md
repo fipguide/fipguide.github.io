@@ -11,7 +11,7 @@ params:
 
 Die wichtigste Eisenbahngesellschaft in Lettland ist die lettische Staatsbahn Latvijas dzelzceļš (LDz). Bei dieser gelten jedoch keine FIP-Vergünstigungen.
 
-Zusätzlich verkehrt die litauische Eisenbahngesellschaft [LTG-Link](/operator/ltg) zwischen der litauischen Hauptstadt Vilnius über die lettischen Hauptstadt Riga bis nach Valga. FIP-Vergünstigungen gelten im lettischen Abschnitt bis Riga zu den gleichen Konditionen wie in Litauen.
+Zusätzlich verkehrt litauische Eisenbahngesellschaft [LTG-Link](/operator/ltg) zwischen der litauischen Hauptstadt Vilnius über die lettischen Hauptstadt Riga bis nach Valga. FIP-Vergünstigungen gelten im lettischen Abschnitt bis Riga zu den gleichen Konditionen wie in Litauen.
 
 ## Wissenswertes
 

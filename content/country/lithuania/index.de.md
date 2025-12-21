@@ -9,7 +9,7 @@ params:
 
 ## FIP Nutzung
 
-Litauen ist ein relativ einfaches Land für die Nutzung von FIP; [LTG-Link]({{< ref "/operator/ltg" >}} "LTG-Link") ist der einzige Betreiber im Personenverkehr und damit auch der einzige FIP-Anbieter in dem Land. LTG-Link ist erst seit Anfang 2024 FIP-Mitglied.
+Litauen ist ein relativ einfaches Land für die Nutzung von FIP; [LTG-Link](/operator/ltg "LTG-Link") ist der einzige Betreiber im Personenverkehr und damit auch der einzige FIP-Anbieter in dem Land. LTG-Link ist erst seit Anfang 2024 FIP-Mitglied.
 
 Bei der Nutzung von FIP Freifahrtscheinen muss jedoch für jede Fahrt ein kostenloses Ticket (z. B. online) erworben werden.
 
@@ -41,19 +41,19 @@ Auf der Strecke nach Turmantas kommen noch die alten DR1A-Triebwagen aus sowjeti
 | Land | Grenzpunkte |
 | --- | --- |
 | Polen (PKP) | Mockava (Gr) bzw. Mockava |
-| Lettland (LD) | Joniškis |
+| Lettland (LDz) | Joniškis |
 | Belarus/Weißrussland | Grenze gesperrt |
 | Russland | Kein Ein-/Ausstieg im Transitverkehr Russland-Belarus-Litauen-Kaliningrad |
 {{% /expander %}}
 
 ### Polen
 
-Die einzige Fahrtmöglichkeit nach Litauen besteht via Warschau. Ab Warschau bzw. Stettin – Warschau gibt es ab 12/2025 zwei tägliche Verbindungen nach Kaunas – Vilnius, wobei am Grenzbahnhof Mockava umgestiegen werden muss, entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf]({{< ref "/operator/ltg#online" >}})).
+Die einzige Fahrtmöglichkeit nach Litauen besteht via Warschau. Ab Warschau bzw. Stettin – Warschau gibt es ab 12/2025 zwei tägliche Verbindungen nach Kaunas – Vilnius, wobei am Grenzbahnhof Mockava umgestiegen werden muss, entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
 
 Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Ab 12/2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
 
 ### Lettland
 
-Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. In Valga besteht direkter Anschluss von/nach Tartu und Tallinn. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf]({{< ref "/operator/ltg#online" >}})).
+Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. In Valga besteht direkter Anschluss von/nach Tartu und Tallinn. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
 
 Seit Sommer 2025 wird über eine Weiterführung der Züge Vilnius – Turmantas bis ins lettische Daugavpils verhandelt.
