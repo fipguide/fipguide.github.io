@@ -73,7 +73,7 @@ Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit ge
 
 {{% expander "Eurocity-Express (ECE) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:**
-Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie vielen Zügen auf der Route Hamburg - Kopenhagen genutzt.
+Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg - Kopenhagen genutzt.
 
 ⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
@@ -83,7 +83,7 @@ Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen Mü
 - 2\. Klasse: 11€
 
 **Reservierung möglich:** Ja \
-**Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Italien ⚠️
+**Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark ⚠️
 {{% /expander %}}
 
 {{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
@@ -91,7 +91,7 @@ Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen Mü
 Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen oder Tschechien. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Polen ⚠️ \
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Dänemark oder Tschechien gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}

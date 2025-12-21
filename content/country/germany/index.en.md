@@ -157,7 +157,7 @@ With Eurostar (formerly Thalys), the DB network can also be reached from Belgium
 
 ### Denmark
 
-From Denmark, the direct `EC` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
+From Denmark, the direct `ECE` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
 
 It is also possible to enter via Tønder by regional train. However, since neither DSB on the Danish side nor DB on the German side operates here, FIP discounts are not available on this route. Alternatively, you can enter by ferry to Puttgarden or Warnemünde.
 
