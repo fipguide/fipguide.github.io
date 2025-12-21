@@ -220,7 +220,7 @@ Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratui
 
 ### Réservation obligatoire en TER
 
-Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour les trajets entre toutes les autres destinations et sections de ligne, il n’y a pas d’obligation de réservation. [^2]
+Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour tous les autres trajets, il n’y a pas d’obligation de réservation. [^2]
 
 Cette obligation s’applique aux lignes suivantes :
 

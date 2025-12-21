@@ -220,7 +220,7 @@ With regular tickets, children up to and including 4 years travel free. Children
 
 ### Reservation requirement in regional trains
 
-On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. For travel between all other destinations and route sections there is no reservation requirement. [^2]
+On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. There is no reservation requirement for all other journeys. [^2]
 
 This reservation requirement applies to the following lines:
 

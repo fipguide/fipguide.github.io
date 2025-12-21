@@ -219,7 +219,7 @@ Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder
 
 ### Reservierungspflicht im Regionalverkehr
 
-Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Für die Fahrt zwischen allen anderen Destinationen und Streckenabschnitten besteht keine Reservierungspflicht. [^2]
+Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Auf allen anderen Fahrten gibt es keine Reservierungspflicht. [^2]
 
 Diese Reservierungspflicht gilt auf folgenden Linien:
 
