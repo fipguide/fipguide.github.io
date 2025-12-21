@@ -65,7 +65,7 @@ Internationale Züge Richtung Deutschland und Italien.
 1\. Klasse: 13€ \
 2\. Klasse: 11€
 
-Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforderlich. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden.
+Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforderlich. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden.
 
 {{% /train-category %}}
 

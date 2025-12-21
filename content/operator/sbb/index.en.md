@@ -65,7 +65,7 @@ International trains to Germany and Italy.
 1st class: €13 \
 2nd class: €11
 
-A reservation and surcharge are required for the Italian section. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train.
+A reservation and surcharge are required for the Italian section. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy](/country/switzerland#italy "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train.
 
 {{% /train-category %}}
 

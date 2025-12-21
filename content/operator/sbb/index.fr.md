@@ -65,7 +65,7 @@ Trains internationaux vers l’Allemagne et l’Italie.
 1ère classe : 13 € \
 2ᵉ classe : 11 €
 
-Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l'Italie en changeant de train à Chiasso ([Voir Voyage vers l'Italie]({{< ref "/country/switzerland#italie" >}} "Voyage vers l'Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
+Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l'Italie en changeant de train à Chiasso ([Voir Voyage vers l'Italie](/country/switzerland#italie "Voyage vers l'Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
 {{% /train-category %}}
 
 {{% train-category
