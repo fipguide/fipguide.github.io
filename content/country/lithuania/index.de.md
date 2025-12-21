@@ -4,7 +4,7 @@ title: "Litauen"
 country: "lithuania"
 params:
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis"
+    - "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
 ---
 
 ## FIP Nutzung
@@ -50,7 +50,7 @@ Auf der Strecke nach Turmantas kommen noch die alten DR1A-Triebwagen aus sowjeti
 
 Die einzige Fahrtmöglichkeit nach Litauen besteht via Warschau. Ab Warschau bzw. Stettin – Warschau gibt es ab 12/2025 zwei tägliche Verbindungen nach Kaunas – Vilnius, wobei am Grenzbahnhof Mockava umgestiegen werden muss, entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf]({{< ref "/operator/ltg#online" >}})).
 
-Die Anzahl der Sitzplätze ist kontingentiert. Ab 12/2025 wird dabei nur noch im PKP-IC eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
+Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Ab 12/2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
 
 ### Lettland
 

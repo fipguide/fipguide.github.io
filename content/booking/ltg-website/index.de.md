@@ -33,5 +33,5 @@ Auf der Buchungswebsite von LTG-Link werden FIP 50 Tickets für Verbindungen von
 
 Auf der Buchungswebsite von LTG-Link werden Reservierungen und 0er-Fahrkarten für Verbindungen von LTG-Link in Litauen und Lettland verkauft. Dazu muss in der Übersicht der Passagiere/Vergünstigungen die Option _I have FIP card_ gewählt werden. Anschließend muss die Nummer des FIP Ausweises hinzugefügt und die Option _FIP discount 100%_ gewählt werden.
 
-FIP-Ermäßigung wird online auch bei grenzüberschreitenden Fahrten nach Polen und Lettland gewährt. Für Fahrten zwischen Polen und Litauen zu 0 € ist dann aber sowohl ein litauischer als auch ein polnischer PKP-Freifahrtschein erforderlich.
+FIP-Ermäßigung wird online auch bei grenzüberschreitenden Fahrten nach Polen und Lettland gewährt. Für Fahrten zwischen Polen und Litauen mit 100% Ermäßigung ist sowohl ein litauischer als auch ein polnischer PKP-Freifahrtschein erforderlich.
 {{% /booking-section %}}

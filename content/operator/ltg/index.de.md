@@ -11,9 +11,9 @@ Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betrei
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
-- Reservierungspflicht besteht in allen Fernverkehrszügen.
-- Bei Nutzung des FIP Freifahrtscheins muss vor jeder Fahrt ein kostenloses Ticket erworben werden.
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert
+- Reservierungspflicht in allen Zügen
+- Bei Nutzung des FIP Freifahrtscheins muss vor jeder Fahrt ein kostenloses Ticket erworben werden
 
 ## Gültigkeit FIP Tickets
 
@@ -22,7 +22,7 @@ FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
-Bei allen Fahrten mit einem FIP Freifahrtschein muss vor jeder Fahrt ein kostenloses Ticket (_0er-Fahrschein_) erworben werden ([siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)).
+Bei allen Fahrten mit einem FIP Freifahrtschein muss vor jeder Fahrt ein kostenloses Ticket bzw. Reservierung erworben werden ([siehe Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen)).
 {{% /highlight %}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der LTG-Link gültig. Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein; für Fahrten von/nach Lettland wird nur ein litauischer FIP Freifahrtschein bzw. ein FIP 50 Ticket verlangt, da Lettland kein FIP-Mitglied ist.
@@ -35,7 +35,13 @@ FIP 50 Tickets und Freifahrtscheine von LTG-Link, gelten auch in Zügen von LTG-
 
 In Litauen wird nicht zwischen verschiedenen Zugkategorien unterschieden.
 
-Die LTG-Link verlangt jedoch in Fernverkehrszügen eine verpflichtende Reservierung, welche vorab mit der Fahrkarte erworben wird. Dies betrifft vor allem Züge auf der Relation Vilnius – Klaipeda, Vilnius – Riga – Valga und Vilnius – Mockava – Warschau, wobei hier zwischen Vilnius und Mockava ab 12/2025 freie Sitzplatzwahl im Zug selbst besteht.
+{{% highlight important %}}
+LTG-Link verlangt in Fernverkehrszügen eine verpflichtende kostenlose Sitzplatzreservierung (eine Auflistung der Verbindungen ist auf [LTG-Link Website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes) zu finden). Mit FIP Freifahrtschein muss jedoch auch auch in Zügen ohne Reservierungspflicht ein kostenloses Ticket (_0er-Fahrschein_) vor der Fahrt erworben werden.
+
+Somit ist vor **jeder** Fahrt mit FIP Freifahrtschein eine kostenlose Reservierung oder kostenloses Ticket (_0er-Fahrschein_) zu erwerben (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)).
+{{% /highlight %}}
+
+FIP Vergünstigungen der 1. Klasse gelten in allen Klassen. FIP Vergünstigungen der 2. Klasse gelten in der 2. und 3. Klasse.
 
 Fahrgäste der 1. Klasse erhalten in Fernverkehrszügen kostenlose Getränke und einen kleinen Imbiss.
 
@@ -43,13 +49,13 @@ Die Züge führen Wagen der 1., 2. und 3. Klasse. Mit Ausnahme einiger Saisonzü
 
 ## Ticket- und Reservierungskauf
 
-Fahrscheine mit FIP-Ermäßigung bzw. „0er-Fahrscheine" können sowohl über die App der LTG als auch über deren Homepage gelöst werden. Reisezentren befinden sich nur noch in Vilnius, Kaunas und Klaipeda; ob sie 2026 noch Fahrkarten verkaufen oder reine Infoschalter werden, war Ende 2025 noch nicht absehbar.
-
 ### Online
 
 {{% booking id="ltg-website" /%}}
 
 ### Vor Ort
+
+Reisezentren befinden sich nur noch in Vilnius, Kaunas und Klaipeda; ob sie 2026 noch Fahrkarten verkaufen oder reine Infoschalter werden, war Ende 2025 noch nicht absehbar.
 
 Die inzwischen an vielen Stationen aufgestellten Fahrkartenautomaten geben keine FIP-Fahrscheine aus (Stand: 11/2025).
 
@@ -62,10 +68,6 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 Mit regulären Fahrkarten reisen maximal 2 Kinder bis einschließlich 7 Jahre in der 2. Klasse kostenlos, müssen dann aber auf dem Schoß der Eltern sitzen. Wenn die Kinder bis 7 Jahre einen eigenen Sitz erhalten sollen, sind 50% vom Erwachsenentarif zu zahlen. Kinder bis 18 Jahre (oder als Schüler:innen noch bis 23 Jahre) erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 18 Jahren zahlen den vollen Erwachsenentarif, jedoch gibt es zahlreiche Ermäßigungen für Studierende, Senior:innen ab 80 Jahren, Soldat:innen, Chemotherapie-Patient:innen und Gruppen ab 3 Personen.
 
 ## Tarifliche Besonderheiten
-
-### Züge mit Reservierungspflicht
-
-Fernzüge auf den Relationen Vilnius – Šiaulai – Klaipeda, Vilnius – Riga – Valga und Vilnius – Kaunas – Warschau im Abschnitt Vilnius – Mockava sind reservierungspflichtig.
 
 ### Spezialzüge und historische Fahrten
 
