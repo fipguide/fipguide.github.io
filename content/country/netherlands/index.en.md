@@ -42,7 +42,7 @@ A special feature in the Netherlands is that almost all larger stations have tic
 
 ### Germany
 
-From Germany, the cross-border `ICE` from Frankfurt / Cologne / Düsseldorf can be used to enter the NS network. For cross-border journeys, an additional DB ticket is required.
+From Germany, the cross-border `ICE` from Frankfurt / Cologne / Düsseldorf or Berlin / Hanover can be used to enter the NS network. For cross-border journeys, an additional DB ticket is required.
 
 There are also various regional trains, but only two are valid with FIP:
 
