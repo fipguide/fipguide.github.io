@@ -68,7 +68,7 @@ Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoc
 
 Von Amsterdam und Rotterdam verkehren durchgängige [Eurostar](/operator/eurostar "Eurostar") Züge nach London St. Pancras. Alternativ können auch [Eurostar Red](/operator/eurostar "Eurostar Red") und [Eurocity](/operator/ns#zugkategorien-und-reservierungen "Eurocity") Züge nach Brüssel Midi (Belgien) genutzt werden und dort in einen in Brüssel startenden [Eurostar Blue](/operator/eurostar "Eurostar Blue") Zug nach London St. Pancras umgestiegen werden. Die Eurostar Züge sind immer reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
 
-Zusätzlich verkehrt ab Hoek van Holland eine [Fährverbindung]({{< ref "/operator/stl" >}} "Fährverbindung") nach Harwich, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die aus Richtung Rotterdam / Nesselande nach Hoek van Holland verkehrende RET Metro keine FIP Vergünstigungen gewährt.
+Zusätzlich verkehrt ab Hoek van Holland eine [Fährverbindung](/operator/stl "Fährverbindung") nach Harwich, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die aus Richtung Rotterdam / Nesselande nach Hoek van Holland verkehrende RET Metro keine FIP Vergünstigungen gewährt.
 
 ### Irland
 

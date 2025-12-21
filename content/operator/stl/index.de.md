@@ -7,7 +7,9 @@ country:
 operator: "stl"
 ---
 
-Stena Line betreibt Personen- und Fahrzeugfähren auf der Strecke zwischen Harwich und Hoek van Holland.
+Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich und Hoek van Holland wird im Kontext von FIP als Stena Line BV (StL) genannt.
+
+Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betreiber Stena Line Limited (SLL) betrieben.
 
 ## Zusammenfassung
 
@@ -20,6 +22,8 @@ Stena Line betreibt Personen- und Fahrzeugfähren auf der Strecke zwischen Harwi
 FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
+
+Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Felder. [^1]
 
 ## Schiffskategorien und Reservierungen
 
@@ -75,16 +79,15 @@ Die Reservierung einer Kabine ist obligatorisch.[^2]
 
 Es gibt auf den Schiffen in Bezug auf FIP nur eine Einheitsklasse.
 
-Bei Nutzung einer Kabine kann zwischen den Optionen Standard, Superior und Deluxe gewählt werden. [^1]
+Bei Nutzung einer Kabine kann zwischen den Optionen Standard, Superior und Deluxe gewählt werden. [^3]
 Auf Kabinen wird kein FIP-Rabatt gewährt. [^2]
 
 ## Ticket- und Reservierungskauf
 
 FIP-Tickets müssen vor Reiseantritt erworben werden. Der Kauf an Bord von Schiffen ist nicht möglich.
-FIP gewährt lediglich einen Rabatt auf den Fahrpreis, alle zusätzlichen Leistungen werden zum vollen Preis berechnet. Hierzu gehören unter anderem die Reservierungskosten für Kabinen, Mitnahme von Fahrzeugen[^3] sowie zu entrichtende Hafengebühren und Umweltabgaben.[^3]
+FIP gewährt lediglich einen Rabatt auf den Fahrpreis, alle zusätzlichen Leistungen werden zum vollen Preis berechnet. Hierzu gehören unter anderem die Reservierungskosten für Kabinen, Mitnahme von Fahrzeugen sowie zu entrichtende Hafengebühren und Umweltabgaben.
 Mit einem FIP Freifahrtschein ist der Fahrpreis kostenlos.
-
-Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. Dies liegt daran, dass der Fahrpreis nachts höher ist und eine Kabinenreservierung obligatorisch ist.[^3]
+Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. Dies liegt daran, dass der Fahrpreis nachts höher ist und eine Kabinenreservierung obligatorisch ist.[^4]
 
 {{% highlight inofficial %}}
 Uns liegen folgende Erfahrungswerte aus der FIP Guide Community vor (Stand 08.12.2025):
@@ -93,7 +96,7 @@ Uns liegen folgende Erfahrungswerte aus der FIP Guide Community vor (Stand 08.12
 - Gesamtpreis Nachtfahrt (FIP Freifahrtschein für zwei Erwachsene, günstigste Kabine): 81 £
 - Gesamtpreis Nachtfahrt (FIP Freifahrtschein für einen Erwachsenen und Kabine): 59 £
 
-Da es sich um einzelne Buchungsvorgänge handelt, sind alle Angaben ohne Gewähr.
+Da es sich um einzelne Buchungsvorgänge handelt, sind alle Angaben ohne Gewähr. [^5]
 {{% /highlight %}}
 
 ### Telefon
@@ -102,7 +105,7 @@ Da es sich um einzelne Buchungsvorgänge handelt, sind alle Angaben ohne Gewähr
 
 ### Vor Ort
 
-Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügbarkeit. [^3]
+Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügbarkeit. [^4]
 
 Der Kauf an Bord der Schiffe ist nicht möglich.
 
@@ -129,8 +132,12 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 
 ## Quellen
 
-[^1]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
+[^1]: DB Reisemarkt
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
 
-[^3]: E-Mail-Anfrage des FIP Guide Teams bei Stena Line
+[^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
+
+[^4]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^5]: [FIP Guide Community (Discord)](https://discord.com/channels/1250522473188032512/1446912039409942678)

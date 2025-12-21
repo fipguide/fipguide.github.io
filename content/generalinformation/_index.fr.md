@@ -227,7 +227,6 @@ La demande est généralement effectuée via le service du personnel ou le centr
 {{% expander "Combien de champs puis-je demander pour les Coupons FIP ?" info "faq" %}}
 Selon vos besoins, des Coupons FIP avec 1 à 4 champs par membre FIP peuvent être demandés.
 Chaque champ vous autorise à un nombre illimité de voyages sur le réseau de l’entreprise ferroviaire ou maritime respective le jour indiqué et le jour suivant.
-Une exception est la compagnie maritime néerlandaise StL : avec un champ, seulement deux traversées sont possibles.
 {{% /expander %}}
 
 {{% expander "Que signifie un champ sur un Coupon FIP ?" info "faq" %}}
@@ -253,7 +252,6 @@ Pour plus d’informations sur votre destination de voyage, voir notre [page du 
 
 {{% expander "Existe-t-il des exceptions lors de l’utilisation des Coupons FIP ?" info "faq" %}}
 Oui. Avec certaines entreprises, aucun Coupon FIP ne peut être utilisé, tandis qu’avec d’autres, ils ne s’appliquent qu’à certaines catégories de trains.
-La compagnie maritime néerlandaise StL n’autorise que deux traversées par champ.
 
 Les détails sur les règles des membres FIP peuvent être trouvés sur les [pages des opérateurs](operator).
 

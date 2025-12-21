@@ -227,7 +227,6 @@ Die Beantragung erfolgt in der Regel über den Personalservice oder das Reisezen
 {{% expander "Wie viele Felder kann ich bei FIP Freifahrtscheinen beantragen?" info "faq" %}}
 Je nach individuellem Bedarf können FIP Freifahrtscheine mit 1 bis 4 Feldern pro FIP-Mitglied beantragt werden.
 Jedes Feld berechtigt zu einer unbegrenzten Anzahl von Fahrten auf dem Streckennetz des jeweiligen Bahn- oder Schifffahrtsunternehmens an einem Tag und dem darauffolgenden Tag.
-Eine Ausnahme bildet die niederländische Schifffahrtsgesellschaft StL: Hier sind mit einem Feld lediglich zwei Überfahrten möglich.
 {{% /expander %}}
 
 {{% expander "Was bedeutet ein Feld auf dem FIP Freifahrtschein?" info "faq" %}}
@@ -253,7 +252,6 @@ Informationen für dein Reiseziel findest du auf unserer [Länderseite](country)
 
 {{% expander "Gibt es Ausnahmen bei der Nutzung von FIP Freifahrtscheinen?" info "faq" %}}
 Ja. Bei einigen Unternehmen sind keine FIP Freifahrtscheine nutzbar, bei anderen gelten diese nur für bestimmte Zugkategorien.
-Die niederländische Schifffahrtsgesellschaft StL erlaubt nur zwei Überfahrten pro Feld.
 
 Details zu den Regelungen der FIP-Mitglieder findest du auf den [Unterseiten der Betreiber](operator).
 

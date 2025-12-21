@@ -68,7 +68,7 @@ From Calais, there is also the LeShuttle car train through the Eurotunnel, but n
 
 From Amsterdam and Rotterdam, direct [Eurostar](/operator/eurostar "Eurostar") trains run to London St. Pancras. Alternatively, [Eurostar Red](/operator/eurostar "Eurostar Red") and [Eurocity](/operator/ns#train-categories-and-reservations "Eurocity") trains run to Brussels Midi (Belgium), where you can transfer to a [Eurostar Blue](/operator/eurostar "Eurostar Blue") train to London St. Pancras. Eurostar trains always require reservations and FIP Global Fare tickets must be purchased.
 
-Additionally, there is a [ferry connection]({{< ref "/operator/stl" >}} "ferry connection") from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
+Additionally, there is a [ferry connection](/operator/stl "ferry connection") from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
 
 ### Ireland
 

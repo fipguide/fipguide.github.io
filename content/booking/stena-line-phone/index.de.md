@@ -4,7 +4,7 @@ title: "Stena Line Telefon"
 description: "Buchungsinformationen für die Buchung per Telefon bei Stena Line"
 params:
   fip_50: true
-  fip_global_fare: false
+  fip_global_fare: nil
   reservations: true
   type: "phone"
 ---

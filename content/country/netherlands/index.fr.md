@@ -61,6 +61,6 @@ L’Eurostar (anciennement Thalys) permet aussi de rejoindre la Belgique depuis 
 
 ### Royaume-Uni
 
-Depuis London St. Pancras, des trains [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") directs relient Amsterdam et Rotterdam. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
+Depuis London St. Pancras, des trains [Eurostar](/operator/eurostar "Eurostar") directs relient Amsterdam et Rotterdam. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
 
-De plus, une [liaison par ferry]({{< ref "/operator/stl" >}} "liaison par ferry") relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
+De plus, une [liaison par ferry](/operator/stl "liaison par ferry") relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.

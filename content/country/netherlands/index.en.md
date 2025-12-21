@@ -61,6 +61,6 @@ With the Eurostar (formerly Thalys), you can also reach the SNCB network from th
 
 ### United Kingdom
 
-Direct [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains run from London St. Pancras to Amsterdam and Rotterdam. Reservations are always required for Eurostar trains, and FIP Global Fare tickets must be purchased.
+Direct [Eurostar](/operator/eurostar "Eurostar") trains run from London St. Pancras to Amsterdam and Rotterdam. Reservations are always required for Eurostar trains, and FIP Global Fare tickets must be purchased.
 
-Additionally, there is a [ferry connection]({{< ref "/operator/stl" >}} "ferry connection") from Harwich to Hoek van Holland, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
+Additionally, there is a [ferry connection](/operator/stl "ferry connection") from Harwich to Hoek van Holland, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
