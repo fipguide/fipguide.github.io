@@ -6,7 +6,7 @@ country:
 operator: "cd"
 ---
 
-České dráhy (ČD) est la compagnie ferroviaire nationale de la [République tchèque]({{< ref "/country/czechia" >}} "République tchèque") et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.
+České dráhy (ČD) est la compagnie ferroviaire nationale de la [République tchèque](/country/czechia "République tchèque") et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.
 
 ## Résumé
 
@@ -26,7 +26,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour l
 {{% highlight important %}}
 Sur certaines lignes et dans certaines régions, les Billets FIP ne sont pas valables, même si les trains sont exploités par ČD.
 
-Plus d’informations : [Services ČD sans FIP]({{% ref "#services-čd-sans-fip" %}})
+Plus d’informations : [Services ČD sans FIP](#services-čd-sans-fip)
 {{% /highlight %}}
 
 ## Catégories de trains et réservations

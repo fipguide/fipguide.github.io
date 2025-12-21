@@ -15,9 +15,9 @@ params:
 
 ## FIP Nutzung
 
-In den Niederlanden können FIP 50 Tickets und FIP Freifahrtscheine auf einem großen Teil des Netzes genutzt werden. Die Nederlandse Spoorwegen ([NS]({{< ref "/operator/ns" >}} "NS")) ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.
+In den Niederlanden können FIP 50 Tickets und FIP Freifahrtscheine auf einem großen Teil des Netzes genutzt werden. Die Nederlandse Spoorwegen ([NS](/operator/ns "NS")) ist die staatliche Eisenbahngesellschaft des Landes und betreibt die meisten Hauptstrecken des Landes. Hier ist FIP sehr gut nutzbar, Ausnahmen gibt es nur für einzelne Strecken und Züge.
 
-Zusätzlich verkehren internationale [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge, welche vergünstigt mit speziellen FIP Globalpreisen genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
+Zusätzlich verkehren internationale [Eurostar](/operator/eurostar "Eurostar") Züge, welche vergünstigt mit speziellen FIP Globalpreisen genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
 
 Andere Betreiber wie Arriva Nederland oder die grenzüberschreitenden `RE` Züge Arnhem - Düsseldorf, Venlo - Hamm und Maastricht - Aachen sind dagegen leider nicht mit FIP nutzbar. Auch sämtliche Busse (außer im Schienenersatzverkehr), Straßenbahnen und U-Bahnen sind nicht enthalten.
 
@@ -57,4 +57,4 @@ Auf den `RE` Verbindungen Hamm - Venlo und Düsseldorf - Arnhem gilt derweil das
 
 Von Belgien aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der `IC`) genutzt werden, dafür wird ein zusätzliches FIP Ticket der SNCB benötigt. Darüber hinaus verkehren Fernzüge (`ECD` und `EC`), bei denen ein zusätzlicher Aufschlag dazukommen kann, wenn hier auf der Achse Rotterdam - Schiphol gefahren wird.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb der Niederlande) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb der Niederlande) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))

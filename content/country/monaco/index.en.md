@@ -6,7 +6,7 @@ country: "monaco"
 
 ## FIP Information
 
-The railway in Monaco is operated by the French national railway company [SNCF]({{% ref "/operator/sncf" %}} "SNCF"). All SNCF tickets are valid here, including FIP 50 Tickets and FIP Coupons for SNCF. SNCF FIP conditions also apply in Monaco.
+The railway in Monaco is operated by the French national railway company [SNCF](/operator/sncf "SNCF"). All SNCF tickets are valid here, including FIP 50 Tickets and FIP Coupons for SNCF. SNCF FIP conditions also apply in Monaco.
 
 ## Interesting
 

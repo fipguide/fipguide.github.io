@@ -90,9 +90,9 @@ params:
 
 There are over 80 different operators in Germany, but FIP is not valid with most of them. FIP discounts are available with the following operators:
 
-- The state railway company [Deutsche Bahn (DB)]({{< ref "/operator/db" >}}) operates a large number of long-distance and regional lines.
-- The [Bodensee-Schiffsbetriebe]({{< ref "/operator/bsb" >}}) offer ferry services across Lake Constance.
-- With [Eurostar]({{< ref "/operator/eurostar" >}}), travel is possible between the UK, France, the Netherlands, Belgium, and Germany.
+- The state railway company [Deutsche Bahn (DB)](/operator/db) operates a large number of long-distance and regional lines.
+- The [Bodensee-Schiffsbetriebe](/operator/bsb) offer ferry services across Lake Constance.
+- With [Eurostar](/operator/eurostar), travel is possible between the UK, France, the Netherlands, Belgium, and Germany.
 
 Due to the large variety of operators, it is advisable to plan your trip in advance to make use of FIP. With the exception of Flixtrain, WESTbahn, and some night train connections, German long-distance trains can be used. In regional transport, DB operates many lines, making travel possible there as well.
 
@@ -153,7 +153,7 @@ MS = Middle of the lake
 
 From Belgium, the cross-border `ICE` to Frankfurt / Cologne / Aachen can be used. There is also a regional train operated by SNCB between Liège and Aachen. In both cases, an additional ticket for the Belgian SNCB section is required.
 
-With Eurostar (formerly Thalys), the DB network can also be reached from Belgium. Here, a special FIP Ticket from Eurostar is required for the entire route (including within Germany) ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar")).
+With Eurostar (formerly Thalys), the DB network can also be reached from Belgium. Here, a special FIP Ticket from Eurostar is required for the entire route (including within Germany) ([see Eurostar](/operator/eurostar "Eurostar")).
 
 ### Denmark
 
@@ -163,7 +163,7 @@ It is also possible to enter via Tønder by regional train. However, since neith
 
 ### France
 
-Long-distance cooperation trains of SNCF and Deutsche Bahn run between France and Germany. These are operated as `TGV` or `ICE` trains and run from Paris via Strasbourg or Saarbrücken to Munich or Karlsruhe, Mannheim, and Frankfurt (Main). Reservations are only mandatory within France. In Germany, the trains can be used without a reservation. Since the reservation requirement on the route via Strasbourg and Karlsruhe applies up to the border point Kehl (Gr), reservations are also mandatory for journeys between Strasbourg and Germany. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees, see [Booking Options – Online]({{< ref "/operator/sncf#online" >}} "Booking Options - Online").
+Long-distance cooperation trains of SNCF and Deutsche Bahn run between France and Germany. These are operated as `TGV` or `ICE` trains and run from Paris via Strasbourg or Saarbrücken to Munich or Karlsruhe, Mannheim, and Frankfurt (Main). Reservations are only mandatory within France. In Germany, the trains can be used without a reservation. Since the reservation requirement on the route via Strasbourg and Karlsruhe applies up to the border point Kehl (Gr), reservations are also mandatory for journeys between Strasbourg and Germany. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees, see [Booking Options – Online](/operator/sncf#online "Booking Options - Online").
 
 {{% highlight tip %}}
 A cheap option for travel from Strasbourg to Germany is the tram from Strasbourg to Kehl, for which a cheap tram ticket is required. From Kehl, there is a connection to the Ortenau S-Bahn line RS4 to Offenburg. FIP is not valid on this line, but the Deutschlandticket is (DB employee discounts are only valid here with NE tickets).
@@ -245,7 +245,7 @@ To enter Germany from Switzerland without using an SBB Ticket (e.g. FIP Coupon o
 Other important cross-border connections are the routes Zurich – Stuttgart via Schaffhausen (joint border station of SBB and DB) and Zurich – Munich via Lindau, St. Margrethen, and St. Gallen, on which `IC` or `ECE` trains run. When arriving from St. Gallen to Lindau via St. Margrethen, the route passes through Austria for a short distance. Therefore, a ticket for ÖBB is required here.
 
 {{% highlight tip %}}
-For this short section, it is best to buy a FIP 50 Ticket, otherwise, in theory, the [ÖBB long-distance surcharge]({{< ref "/country/austria#schweiz" >}} "Arrival Switzerland") must be paid.
+For this short section, it is best to buy a FIP 50 Ticket, otherwise, in theory, the [ÖBB long-distance surcharge](/country/austria#schweiz "Arrival Switzerland") must be paid.
 {{% /highlight %}}
 
 There are also some cross-border regional train connections. Germany can also be reached from Switzerland by ferries, some of which can be used with FIP.

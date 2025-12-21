@@ -6,7 +6,7 @@ country:
 operator: "db"
 ---
 
-Deutsche Bahn (DB) is the largest railway company in [Germany]({{< ref "/country/germany" >}} "Germany"), operating most long-distance services as well as many regional connections.
+Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.
 
 ## Summary
 
@@ -59,7 +59,7 @@ There are three classes:
 
 [Detailed overview of classes at ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-For Railjets to Italy, a surcharge must be paid from the Italian border (see [Travel to Italy at ÖBB]({{< ref "/operator/oebb#verkehr-nach-italien" >}} "Travel to Italy at ÖBB")). \
+For Railjets to Italy, a surcharge must be paid from the Italian border (see [Travel to Italy at ÖBB](/operator/oebb#verkehr-nach-italien "Travel to Italy at ÖBB")). \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
@@ -75,7 +75,7 @@ Intercity trains are an important addition to the ICE network. They run at lower
 **Description:**
 An international express train between Frankfurt and Milan as well as between Munich and Zurich. Since December 2025, the train category is also used for further services between Switzerland and Germany and many trains on the Hamburg - Copenhagen route.
 
-⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([see Arrival Italy]({{< ref "/country/switzerland#italien" >}} "Arrival Italy")). The surcharge can be purchased at DB or SBB ticket offices or on the train.
+⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([see Arrival Italy](/country/switzerland#italien "Arrival Italy")). The surcharge can be purchased at DB or SBB ticket offices or on the train.
 
 **Surcharge/Reservation Italy:**
 

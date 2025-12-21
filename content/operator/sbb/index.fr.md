@@ -5,7 +5,7 @@ country:
   - "switzerland"
 ---
 
-Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse]({{< ref "/country/switzerland" >}} "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
+Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
 
 ## Résumé
 

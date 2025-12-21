@@ -6,7 +6,7 @@ country:
 operator: "db"
 ---
 
-Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland]({{< ref "/country/germany" >}} "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
+Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
 
 ## Zusammenfassung
 
@@ -59,7 +59,7 @@ Es gibt drei Wagenklassen:
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Verkehr nach Italien bei der ÖBB]({{< ref "/operator/oebb#verkehr-nach-italien" >}} "Verkehr nach Italien bei der ÖBB")). \
+Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Verkehr nach Italien bei der ÖBB](/operator/oebb#verkehr-nach-italien "Verkehr nach Italien bei der ÖBB")). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
@@ -75,7 +75,7 @@ Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit ge
 **Beschreibung:**
 Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie vielen Zügen auf der Route Hamburg - Kopenhagen genutzt.
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung Italien:**
 

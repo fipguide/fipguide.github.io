@@ -5,7 +5,7 @@ country:
   - "switzerland"
 ---
 
-SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland]({{< ref "/country/switzerland" >}} "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
+SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
 
 ## Summary
 
@@ -173,7 +173,7 @@ The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: 
 
 ### Cross-border Trains (Italy, France)
 
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
 
 ## Recommendations
 

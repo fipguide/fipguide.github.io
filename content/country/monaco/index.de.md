@@ -6,7 +6,7 @@ country: "monaco"
 
 ## FIP Nutzung
 
-Die Eisenbahn in Monaco wird von der französischen Staatsbahn [SNCF]({{% ref "/operator/sncf" %}} "SNCF") betrieben. Hier gelten alle SNCF Fahrscheine, inklusive FIP 50 Tickets und FIP Freifahrtscheine für die SNCF. FIP Bedinungen der SNCF gelten auch in Monaco.
+Die Eisenbahn in Monaco wird von der französischen Staatsbahn [SNCF](/operator/sncf "SNCF") betrieben. Hier gelten alle SNCF Fahrscheine, inklusive FIP 50 Tickets und FIP Freifahrtscheine für die SNCF. FIP Bedinungen der SNCF gelten auch in Monaco.
 
 ## Wissenswertes
 

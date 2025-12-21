@@ -6,7 +6,7 @@ country:
 operator: "cp"
 ---
 
-CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in [Portugal]({{< ref "/country/portugal" >}} "Portugal").
+CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in [Portugal](/country/portugal "Portugal").
 
 ## Summary
 
