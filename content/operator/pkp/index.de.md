@@ -6,7 +6,7 @@ country:
 operator: "pkp"
 ---
 
-Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des polnischen Schienenpersonenverkehrs.
+Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des Schienenpersonenverkehrs in [Polen](/country/poland "Polen").
 
 ## Zusammenfassung
 
@@ -98,7 +98,7 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
 **Beschreibung:** \
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
 
-ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen") \
+ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen](/country/poland "Polen") \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}

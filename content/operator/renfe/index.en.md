@@ -7,7 +7,7 @@ country:
 operator: "renfe"
 ---
 
-Renfe Operadora is a Spanish state-owned railroad company. It operates comfortable high-speed trains, various regional trains and suburban trains.
+Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.
 
 ## Summary
 

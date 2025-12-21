@@ -40,7 +40,7 @@ Tickets are cheaper if purchased in advance (1 day before travel or 15 days befo
 
 ## Reservations
 
-The reservation price is charged per train. For journeys with multiple trains, it may be cheaper to book via the ([Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
+The reservation price is charged per train. For journeys with multiple trains, it may be cheaper to book via the ([Deutsche Bahn](/booking/db-website "Deutsche Bahn")).
 
 However, seat reservations made with ÖBB can be cancelled:
 

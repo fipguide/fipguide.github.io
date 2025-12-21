@@ -21,7 +21,7 @@ aliases:
 
 ## Reservations
 
-The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book through the ([Deutsche Bahn]({{% ref "/booking/db-website" %}} "Deutsche Bahn")).
+The reservation price is calculated per train. For journeys with multiple trains, it may be cheaper to book through the ([Deutsche Bahn](/booking/db-website "Deutsche Bahn")).
 
 However, seat reservations made via ÖBB can be cancelled:
 

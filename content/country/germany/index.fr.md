@@ -90,9 +90,9 @@ params:
 
 En Allemagne, il existe plus de 80 opérateurs différents, mais le FIP n’est valable que chez quelques-uns. Les réductions FIP s’appliquent chez les opérateurs suivants :
 
-- La compagnie ferroviaire nationale [Deutsche Bahn (DB)]({{< ref "/operator/db" >}}) exploite de nombreuses lignes grandes lignes et régionales.
-- Les [Bodensee-Schiffsbetriebe]({{< ref "/operator/bsb" >}}) proposent des traversées en ferry sur le lac de Constance.
-- Avec [Eurostar]({{< ref "/operator/eurostar" >}}), des trajets sont possibles entre le Royaume-Uni, la France, les Pays-Bas, la Belgique et l’Allemagne.
+- La compagnie ferroviaire nationale [Deutsche Bahn (DB)](/operator/db) exploite de nombreuses lignes grandes lignes et régionales.
+- Les [Bodensee-Schiffsbetriebe](/operator/bsb) proposent des traversées en ferry sur le lac de Constance.
+- Avec [Eurostar](/operator/eurostar), des trajets sont possibles entre le Royaume-Uni, la France, les Pays-Bas, la Belgique et l’Allemagne.
 
 En raison de la grande diversité des opérateurs, il est conseillé de planifier son voyage à l’avance pour pouvoir profiter du FIP. À l’exception de Flixtrain, WESTbahn et de certaines liaisons de trains de nuit, les trains grandes lignes allemands sont accessibles. En trafic régional, la DB exploite de nombreuses lignes, ce qui permet de voyager facilement.
 
@@ -153,7 +153,7 @@ MS = Mitte See
 
 Depuis la Belgique, l’`ICE` transfrontalier vers Francfort / Cologne / Aix-la-Chapelle peut être utilisé. Un train régional de la SNCB circule également entre Liège et Aix-la-Chapelle. Dans les deux cas, un billet supplémentaire pour la section belge de la SNCB est nécessaire.
 
-Avec Eurostar (anciennement Thalys), le réseau DB est également accessible depuis la Belgique. Un billet FIP spécial Eurostar est requis pour l’ensemble du trajet (y compris en Allemagne) ([voir Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar")).
+Avec Eurostar (anciennement Thalys), le réseau DB est également accessible depuis la Belgique. Un billet FIP spécial Eurostar est requis pour l’ensemble du trajet (y compris en Allemagne) ([voir Eurostar](/operator/eurostar "Eurostar")).
 
 ### Danemark
 
@@ -163,7 +163,7 @@ En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni
 
 ### France
 
-Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne]({{< ref "/operator/sncf#online" >}} "Achat en ligne").
+Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
 
 {{% highlight tip %}}
 Une option économique pour rejoindre l’Allemagne depuis Strasbourg est le tram jusqu’à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l’Ortenau S-Bahn jusqu’à Offenburg. Le FIP n’est pas valable sur cette ligne, mais le Deutschlandticket l’est (les réductions DB ne s’appliquent ici qu’avec des billets NE).
@@ -245,7 +245,7 @@ Pour entrer en Allemagne sans billet SBB (par ex. Coupon FIP ou FIP 50), la S-Ba
 Autres liaisons importantes : Zurich – Stuttgart via Schaffhausen (gare frontière commune SBB/DB) et Zurich – Munich via Lindau, St. Margrethen et St. Gall, desservies par des `IC` ou `ECE`. Depuis St. Gall vers Lindau via St. Margrethen, la ligne traverse un tronçon autrichien, nécessitant un billet ÖBB.
 
 {{% highlight tip %}}
-Pour ce court tronçon, il est préférable d’acheter un billet FIP 50, sinon le [supplément grandes lignes ÖBB]({{< ref "/country/austria#schweiz" >}} "Arrivée Suisse") doit être payé.
+Pour ce court tronçon, il est préférable d’acheter un billet FIP 50, sinon le [supplément grandes lignes ÖBB](/country/austria#schweiz "Arrivée Suisse") doit être payé.
 {{% /highlight %}}
 
 Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est également accessible depuis la Suisse par ferry, certains acceptant le FIP.

@@ -57,7 +57,7 @@ FIP Globalpreis: <✅/⛔>
 -->
 
 {{% train-category
-    id="zug-id"
+    id="expander-id"
     title="title"
     type="highspeed"
     fip_accepted=true

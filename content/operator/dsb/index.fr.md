@@ -6,7 +6,7 @@ country:
 operator: "dsb"
 ---
 
-La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du Danemark. Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.
+La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.
 
 ## Résumé
 
