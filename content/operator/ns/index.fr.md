@@ -6,7 +6,7 @@ country:
 operator: "ns"
 ---
 
-Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des Pays-Bas et assurent la majorité du trafic voyageurs dans le pays.
+Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pays-Bas]({{< ref "/country/netherlands" >}} "Pays-Bas") et assurent la majorité du trafic voyageurs dans le pays.
 
 ## Résumé
 

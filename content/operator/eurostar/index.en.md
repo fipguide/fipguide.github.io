@@ -10,7 +10,7 @@ country:
 operator: "eurostar"
 ---
 
-Eurostar is an operator of high-speed trains in Western Europe. Originally, only the blue trains between London and Paris/Brussels/Amsterdam through the Eurotunnel were referred to as Eurostar. After the merger between Thalys and Eurostar, the red Thalys trains are now also referred to as Eurostar (Red).
+Eurostar is an operator of high-speed trains in Western Europe. Originally, only the blue trains between London and Paris/Brussels/Amsterdam through the Eurotunnel were referred to as Eurostar. After the merger between Thalys and Eurostar, the red Thalys trains are now also referred to as Eurostar (Red). Eurostar operates in [Germany]({{< ref "/country/germany" >}} "Germany"), [France]({{< ref "/country/france" >}} "France"), the [United Kingdom]({{< ref "/country/united-kingdom" >}} "United Kingdom"), [Belgium]({{< ref "/country/belgium" >}} "Belgium"), and the [Netherlands]({{< ref "/country/netherlands" >}} "Netherlands").
 
 ## Summary
 

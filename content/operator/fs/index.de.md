@@ -6,7 +6,7 @@ country:
 operator: "trenitalia"
 ---
 
-Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergünstigungen gelten jedoch nur bei der Tochtergesellschaft Trenitalia.
+Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergünstigungen gelten jedoch nur bei der Tochtergesellschaft Trenitalia in [Italien]({{< ref "/country/italy" >}} "Italien").
 
 ## Zusammenfassung
 

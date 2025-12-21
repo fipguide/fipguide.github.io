@@ -6,7 +6,7 @@ country:
 operator: "gb"
 ---
 
-There are many different railway companies in Great Britain, collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
+There are many different railway companies in [Great Britain]({{< ref "/country/united-kingdom" >}} "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
 
 ## Summary
 

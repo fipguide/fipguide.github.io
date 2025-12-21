@@ -6,7 +6,7 @@ country: "luxembourg"
 
 ## Informations FIP
 
-Au Luxembourg, l’ensemble des transports publics locaux est gratuit. Par conséquent, les Billets FIP 50 et les Coupons FIP de la CFL ne sont nécessaires que pour les voyages en première classe ou pour les liaisons transfrontalières. Les liaisons `TGV` de/vers la France ne peuvent pas être utilisées au Luxembourg avec un Coupon FIP de la CFL. Dans ce cas, il est nécessaire d’acheter des Billets FIP Global Fare coûteux.
+Au Luxembourg, l’ensemble des transports publics locaux est gratuit. Par conséquent, les Billets FIP 50 et les Coupons FIP de la [CFL]({{< ref "/operator/cfl" >}} "CFL") ne sont nécessaires que pour les voyages en première classe ou pour les liaisons transfrontalières. Les liaisons `TGV` de/vers la France ne peuvent pas être utilisées au Luxembourg avec un Coupon FIP de la CFL. Dans ce cas, il est nécessaire d’acheter des Billets FIP Global Fare coûteux.
 
 ## Informations générales
 

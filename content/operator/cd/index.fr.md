@@ -6,7 +6,7 @@ country:
 operator: "cd"
 ---
 
-České dráhy (ČD) est la compagnie ferroviaire nationale de la République tchèque et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.
+České dráhy (ČD) est la compagnie ferroviaire nationale de la [République tchèque]({{< ref "/country/czechia" >}} "République tchèque") et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.
 
 ## Résumé
 

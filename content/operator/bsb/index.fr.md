@@ -8,7 +8,7 @@ country:
 operator: "bsb"
 ---
 
-Les Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance.
+Les Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne]({{< ref "/country/germany" >}} "Allemagne"), l’[Autriche]({{< ref "/country/austria" >}} "Autriche") et la [Suisse]({{< ref "/country/switzerland" >}} "Suisse").
 
 Les remises FIP sont valables auprès des opérateurs suivants :
 

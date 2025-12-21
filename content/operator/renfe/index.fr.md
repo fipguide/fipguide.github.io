@@ -7,7 +7,7 @@ country:
 operator: "renfe"
 ---
 
-Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.
+Renfe Operadora est la compagnie ferroviaire publique en [Espagne]({{< ref "/country/spain" >}} "Espagne"). Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.
 
 ## Résumé
 

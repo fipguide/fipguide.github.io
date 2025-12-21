@@ -6,7 +6,7 @@ country:
 operator: "cfl"
 ---
 
-La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie ferroviaire nationale du Luxembourg et la principale société ferroviaire du pays.
+La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie ferroviaire nationale du [Luxembourg]({{< ref "/country/luxembourg" >}} "Luxembourg") et la principale société ferroviaire du pays.
 
 ## Résumé
 

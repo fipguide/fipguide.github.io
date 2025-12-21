@@ -11,7 +11,7 @@ country:
 operator: "sncf"
 ---
 
-SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in France. It operates almost all long-distance and regional trains in France.
+SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France]({{< ref "/country/france" >}} "France"). It operates almost all long-distance and regional trains in France.
 
 ## Summary
 

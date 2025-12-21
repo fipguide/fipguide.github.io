@@ -7,16 +7,16 @@ params:
     - CFC (Chemins de fer de la Corse / Eisenbahnen auf Korsika)
     - '[Frecciarossa (Trenitalia)]({{< ref "/operator/fs/#internationale-frecciarossa-züge-nach-paris" >}} "Frecciarossa (Trenitalia)")'
     - Getlink (Eurotunnel LeShuttle)
-    - '[OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo")'
+    - '[OUIGO]({{< ref "/operator/sncf#Fernverkehr" >}} "OUIGO")'
     - RATP
     - Transdev
 ---
 
 ## FIP Nutzung
 
-In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da die meisten Züge von der staatlichen Bahngesellschaft [SNCF]({{< ref "/operator/sncf" >}} "SNCF") betrieben werden. Im Fernverkehr sind jedoch immer Reservierungen erforderlich und im Low-Cost Angebot der SNCF [OuiGo]({{< ref "/operator/sncf#Fernverkehr" >}} "OuiGo") können gar keine FIP Vergünstigungen genutzt werden.
+In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da die meisten Züge von der staatlichen Bahngesellschaft [SNCF]({{< ref "/operator/sncf" >}} "SNCF") betrieben werden. Im Fernverkehr sind jedoch immer Reservierungen erforderlich und im Low-Cost Angebot der SNCF [OUIGO]({{< ref "/operator/sncf#Fernverkehr" >}} "OUIGO") können gar keine FIP Vergünstigungen genutzt werden.
 
-Auf internationalen Verbindungen können [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge Richtung Großbritannien, Belgien, Niederlande und Deutschland mit speziellen FIP Globalpreisen genutzt werden. Auch für internationale `TGV` Züge gibt es Globalpreise (außer nach Deutschland). Des Weiteren können mit FIP Globalpreistickets auch die AVE Züge der spanischen Renfe auf der Strecke nach Spanien genutzt werden. Frecciarossa Züge von Trenitalia Richtung Italien können hingegen in Frankreich nicht mit FIP genutzt werden.
+Auf internationalen Verbindungen können [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge Richtung Großbritannien, Belgien, Niederlande und Deutschland mit speziellen FIP Globalpreisen genutzt werden. Auch für internationale `TGV` Züge gibt es Globalpreise (außer nach Deutschland). Des Weiteren können mit FIP Globalpreistickets auch die AVE Züge der spanischen Renfe auf der Strecke nach Spanien genutzt werden. Frecciarossa Züge von [Trenitalia]({{< ref "/operator/fs" >}} "Trenitalia") Richtung Italien können hingegen in Frankreich nicht mit FIP genutzt werden.
 
 ## Wissenswertes
 
@@ -50,7 +50,7 @@ Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem j
 
 ### Belgien
 
-Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OuiGo Verbindung von Brüssel nach Paris, die jedoch nicht mit FIP genutzt werden kann.
+Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OUIGO Verbindung von Brüssel nach Paris, die jedoch nicht mit FIP genutzt werden kann.
 
 Alternativ verkehren auch [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge von Brüssel nach Paris, die ebenfalls mit FIP Globalpreistickets genutzt werden können, jedoch günstiger als die `TGV` Züge sind.
 
