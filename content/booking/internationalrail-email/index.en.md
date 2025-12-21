@@ -20,6 +20,12 @@ aliases:
 
 FIP Global Fare tickets can be purchased via International Rail Ltd. To do so, send an email to [uktravel@bookmyrst.co.uk](mailto:uktravel@bookmyrst.co.uk). Booking is only possible in English. The following information must be provided when booking:
 
+- Date and time of travel
+- Departure and destination station
+- Number of passengers
+- Class of travel (according to FIP Card entitlement)
+- Photo of the FIP Card for all traveling persons
+
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
