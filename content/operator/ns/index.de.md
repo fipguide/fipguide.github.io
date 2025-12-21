@@ -31,7 +31,7 @@ Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gez
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb der Niederlande zwischen Amsterdam, Utrecht und Arnhem mit FIP Freifahrt ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
+Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main bzw. Hannover / Berlin), können jedoch auch innerhalb der Niederlande zwischen Amsterdam und Arnhem bzw. Hengelo mit FIP Freifahrtschein ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ nein (außer grenzüberschreitend zur Hochsaison) \
 **Zuschlag**: ⚠️ \
@@ -73,14 +73,11 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Beschreibung:** \
-Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. Eine Ausnahme bildet der `IC` Amsterdam – Berlin, der grenzüberschreitend ein echter `IC` mit Halt nur an größeren Knotenpunkten ist. \
-**Reservierung möglich:** nur beim `IC` Amsterdam – Berlin \
-**Reservierungspflicht:** nein (außer grenzüberschreitend zur Hochsaison) \
-**Zuschlag**: ⚠️ \
-Ab dem 18.10.2025 wird die `IC` Linie Amsterdam – Berlin sukzessive auf ICE 3neo-Fahrzeuge umgestellt. Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3 € pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich. \
-Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
+**Reservierung möglich:** nein \
+**Reservierungspflicht:** nein
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
