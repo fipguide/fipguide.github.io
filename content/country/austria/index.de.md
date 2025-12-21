@@ -99,15 +99,12 @@ Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, 
 
 Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
 
-- Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025)
+- Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien
 - Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien.
 
 Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
-Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025). \
-In diesen Zügen gilt:
 
-- FIP Freifahrtscheine der ÖBB bis zur Grenze
-- FIP Freifahrtscheine der ZSSK dem kompletten Abschnitt (auch in Österreich)
+Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Slowenien
 
