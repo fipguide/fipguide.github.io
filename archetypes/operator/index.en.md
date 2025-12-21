@@ -57,7 +57,7 @@ FIP Global Fare: <✅/⛔>
 -->
 
 {{% train-category
-    id="train-id"
+    id="expander-id"
     title="title"
     type="highspeed"
     fip_accepted=true
