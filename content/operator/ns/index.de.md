@@ -6,7 +6,7 @@ country:
 operator: "ns"
 ---
 
-Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande]({{< ref "/country/netherlands" >}} "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.
+Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande](/country/netherlands "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.
 
 ## Zusammenfassung
 

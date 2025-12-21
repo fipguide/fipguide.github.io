@@ -6,7 +6,7 @@ country:
 operator: "sncb"
 ---
 
-Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in [Belgien]({{< ref "/country/belgium" >}} "Belgien").
+Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in [Belgien](/country/belgium "Belgien").
 
 ## Zusammenfassung
 

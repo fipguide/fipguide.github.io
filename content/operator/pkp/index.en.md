@@ -6,7 +6,7 @@ country:
 operator: "pkp"
 ---
 
-The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland]({{< ref "/country/poland" >}} "Poland").
+The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").
 
 ## Summary
 
@@ -98,7 +98,7 @@ Different prices for international connections. [More information](https://www.i
 **Description:** \
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-ℹ️ Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland]({{< ref "/country/poland" >}} "Poland") \
+ℹ️ Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland") \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}

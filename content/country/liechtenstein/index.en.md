@@ -6,7 +6,7 @@ country: "liechtenstein"
 
 ## FIP Information
 
-The railway in Liechtenstein is operated by the [Austrian Federal Railways (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB"). All ÖBB tickets are valid here, including FIP 50 Tickets and FIP Coupons for ÖBB. ÖBB FIP conditions also apply in Liechtenstein.
+The railway in Liechtenstein is operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb "ÖBB"). All ÖBB tickets are valid here, including FIP 50 Tickets and FIP Coupons for ÖBB. ÖBB FIP conditions also apply in Liechtenstein.
 
 ## Interesting
 
@@ -18,12 +18,12 @@ The Liechtenstein stations Nendeln, Forst Hilti (Schaan) and Schaan-Vaduz (Schaa
 
 ### Austria
 
-Entry from Austria is possible via the border crossing at Feldkirch with rarely running S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid.
+Entry from Austria is possible via the border crossing at Feldkirch with rarely running S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid.
 
 Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
 
 ### Switzerland
 
-Entry from Switzerland is possible via the border crossing at Buchs SG with a few S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid. Therefore, from the border point Buchs SG in Switzerland, ÖBB FIP Coupons and FIP 50 Tickets are also valid here.
+Entry from Switzerland is possible via the border crossing at Buchs SG with a few S-Bahn trains during peak hours on weekdays. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. Therefore, from the border point Buchs SG in Switzerland, ÖBB FIP Coupons and FIP 50 Tickets are also valid here.
 
 Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.

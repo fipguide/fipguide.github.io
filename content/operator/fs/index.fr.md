@@ -6,7 +6,7 @@ country:
 operator: "trenitalia"
 ---
 
-Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia en [Italie]({{< ref "/country/italy" >}} "Italie").
+Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia en [Italie](/country/italy "Italie").
 
 ## Résumé
 

@@ -8,7 +8,7 @@ country:
 operator: "sp"
 ---
 
-En [Suisse]({{< ref "/country/switzerland" >}} "Suisse"), en plus de la compagnie nationale [SBB CFF FFS]({{< ref "/operator/sbb" >}} "SBB CFF FFS") et de la plus petite BLS, il existe une association de nombreuses entreprises ferroviaires regroupées sous l’appellation _Schweizer Privatbahnen_ (Chemins de fer privés suisses). On y trouve à la fois des trains réguliers du réseau suisse et des services plutôt touristiques. En plus des trains, certains bateaux, téléphériques et bus en font partie.
+En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") et de la plus petite BLS, il existe une association de nombreuses entreprises ferroviaires regroupées sous l’appellation _Schweizer Privatbahnen_ (Chemins de fer privés suisses). On y trouve à la fois des trains réguliers du réseau suisse et des services plutôt touristiques. En plus des trains, certains bateaux, téléphériques et bus en font partie.
 
 ## Résumé
 

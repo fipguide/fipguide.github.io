@@ -8,14 +8,14 @@ params:
     - Circumflegrea
     - Circumvesuviana
     - Cumana
-    - '[Ferrovie Sud Est]({{< ref "/operator/fs##validity-of-fip-tickets" >}} "Ferrovie Sud Est")'
+    - '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud Est")'
     - Italo / NTV
-    - '[Trenord]({{< ref "/operator/fs##validity-of-fip-tickets" >}} "Trenord")'
+    - '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'
 ---
 
 ## FIP Information
 
-In Italy, local trains are mostly operated by [Trenitalia]({{< ref "/operator/fs" >}} "Trenitalia") and can be used with FIP Tickets. Exceptions are trains operated by Trenord in northern Italy and Ferrovie Sud Est (even if the trains have Trenitalia logos). In the Naples area, some narrow-gauge lines are not operated by Trenitalia and cannot be used with FIP Tickets.
+In Italy, local trains are mostly operated by [Trenitalia](/operator/fs "Trenitalia") and can be used with FIP Tickets. Exceptions are trains operated by Trenord in northern Italy and Ferrovie Sud Est (even if the trains have Trenitalia logos). In the Naples area, some narrow-gauge lines are not operated by Trenitalia and cannot be used with FIP Tickets.
 
 For long-distance travel, the Frecce trains of Trenitalia can only be used with expensive reservations (including surcharge). Additionally, trains of the private operator Italo are not usable with FIP Tickets.
 

@@ -10,11 +10,11 @@ params:
 
 ## FIP Nutzung
 
-In Belgien können sowohl FIP 50 als auch FIP Freifahrtscheine umfangreich genutzt werden. Die Belgische Staatsbahn [SNCB]({{< ref "/operator/sncb" >}} "SNCB") (Société nationale des chemins de fer belges) bzw. [NMBS]({{< ref "/operator/sncb" >}} "NMBS") (Nationale Maatschappij der Belgische Spoorwegen) ist nahezu der einzige Betreiber von öffentlichen Personverkehrszügen und kann mit FIP genutzt werden. Besonders zu beachten sind Aufschläge zum Brüsseler Flughafen Zaventem.
+In Belgien können sowohl FIP 50 als auch FIP Freifahrtscheine umfangreich genutzt werden. Die Belgische Staatsbahn [SNCB](/operator/sncb "SNCB") (Société nationale des chemins de fer belges) bzw. [NMBS](/operator/sncb "NMBS") (Nationale Maatschappij der Belgische Spoorwegen) ist nahezu der einzige Betreiber von öffentlichen Personverkehrszügen und kann mit FIP genutzt werden. Besonders zu beachten sind Aufschläge zum Brüsseler Flughafen Zaventem.
 
-Zusätzlich verkehren internationale [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") Züge, welche vergünstigt mit speziellen FIP-Fahrkarten genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
+Zusätzlich verkehren internationale [Eurostar](/operator/eurostar "Eurostar") Züge, welche vergünstigt mit speziellen FIP-Fahrkarten genutzt werden können. Die Züge sind in der Verbindungsauskunft als Zugkategorie `EST` ausgewiesen.
 
-Darüber hinaus verkehren internationale `TGV` Züge der [SNCF]({{< ref "/operator/sncf" >}} "SNCF") aus Frankreich, für die Freifahrtscheine der belgischen Staatsbahn keine Gültigkeit haben. Für diese Züge lassen sich ausschließlich spezielle FIP Globalpreise buchen. Für die Eurocity Züge von Brüssel nach Paris von OUIGO gelten keine FIP Vergünstigungen.
+Darüber hinaus verkehren internationale `TGV` Züge der [SNCF](/operator/sncf "SNCF") aus Frankreich, für die Freifahrtscheine der belgischen Staatsbahn keine Gültigkeit haben. Für diese Züge lassen sich ausschließlich spezielle FIP Globalpreise buchen. Für die Eurocity Züge von Brüssel nach Paris von OUIGO gelten keine FIP Vergünstigungen.
 
 ## Wissenswertes
 
@@ -43,13 +43,13 @@ Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Br
 
 Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt / Köln / Aachen aus genutzt werden, um ins Netz der SNCB zu kommen. Auch ein Regionalzug der SNCB verkehrt zwischen Aachen und Lüttich. In beiden Fällen wird zusätzlich ein Ticket für den deutschen Abschnitt der DB benötigt.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar")).
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar")).
 
 ### Niederlande
 
 Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der `IC`) genutzt werden, dafür wird ein zusätzliches FIP Ticket der NS benötigt. Darüber hinaus verkehren Fernzüge (`ECD` und `EC`), bei denen auf dem niederländischen Abschnitt (zwischen Rotterdam und Schiphol) ein zusätzlicher Aufschlag dazukommen kann.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))
 
 ### Frankreich
 
@@ -57,4 +57,4 @@ Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, d
 
 Bei den internationalen `TGV`-Zügen gibt es einen Globalpreis, FIP Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))

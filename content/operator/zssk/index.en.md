@@ -9,7 +9,7 @@ aliases:
   - zsr
 ---
 
-The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika]({{< ref "/country/slovakia" >}} "Slovakia").
+The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").
 
 ## Summary
 

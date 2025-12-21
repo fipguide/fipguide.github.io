@@ -6,7 +6,7 @@ country: "monaco"
 
 ## Informations FIP
 
-Le chemin de fer à Monaco est exploité par la compagnie nationale française [SNCF]({{% ref "/operator/sncf" %}} "SNCF"). Tous les titres de transport SNCF sont valables ici, y compris les Billets FIP 50 et les Coupons FIP pour la SNCF. Les conditions FIP de la SNCF s’appliquent également à Monaco.
+Le chemin de fer à Monaco est exploité par la compagnie nationale française [SNCF](/operator/sncf "SNCF"). Tous les titres de transport SNCF sont valables ici, y compris les Billets FIP 50 et les Coupons FIP pour la SNCF. Les conditions FIP de la SNCF s’appliquent également à Monaco.
 
 ## Informations générales
 

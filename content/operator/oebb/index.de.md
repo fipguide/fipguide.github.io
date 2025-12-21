@@ -10,7 +10,7 @@ aliases:
   - obb
 ---
 
-Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich]({{< ref "/country/austria" >}} "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
+Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
 
 ## Zusammenfassung
 

@@ -6,7 +6,7 @@ country:
 operator: "euskotren"
 ---
 
-Dans le nord de l’[Espagne]({{< ref "/country/spain" >}} "Espagne"), Euskotren exploite un réseau ferroviaire basque qui relie les villes côtières pittoresques et l’arrière-pays montagneux entre la frontière française à Hendaye et la métropole de Bilbao. Euskotren appartient au gouvernement régional basque.
+Dans le nord de l’[Espagne](/country/spain "Espagne"), Euskotren exploite un réseau ferroviaire basque qui relie les villes côtières pittoresques et l’arrière-pays montagneux entre la frontière française à Hendaye et la métropole de Bilbao. Euskotren appartient au gouvernement régional basque.
 
 ## Résumé
 

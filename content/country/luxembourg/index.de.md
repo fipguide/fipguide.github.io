@@ -6,7 +6,7 @@ country: "luxembourg"
 
 ## FIP Nutzung
 
-In Luxemburg ist der komplette öffentliche Nahverkehr kostenlos. Daher werden FIP 50 Tickets und Freifahrtscheine der [CFL]({{< ref "/operator/cfl" >}} "CFL") nur für Fahrten in der ersten Klasse oder für grenzüberschreitende Verbindungen benötigt. Die `TGV` Verbindungen von/nach Frankreich können mit einem FIP Freifahrtschein der CFL nicht für Fahrten in Luxemburg genutzt werden. Stattdessen müssen hier teure FIP Globalpreistickets gekauft werden.
+In Luxemburg ist der komplette öffentliche Nahverkehr kostenlos. Daher werden FIP 50 Tickets und Freifahrtscheine der [CFL](/operator/cfl "CFL") nur für Fahrten in der ersten Klasse oder für grenzüberschreitende Verbindungen benötigt. Die `TGV` Verbindungen von/nach Frankreich können mit einem FIP Freifahrtschein der CFL nicht für Fahrten in Luxemburg genutzt werden. Stattdessen müssen hier teure FIP Globalpreistickets gekauft werden.
 
 ## Wissenswertes
 
