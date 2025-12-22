@@ -111,16 +111,6 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ ou 3 € et les taxes 
 
 {{% /expander %}}
 
-{{% highlight inofficial %}}
-Voici des retours d’expérience de la communauté FIP Guide (au 08.12.2025) :
-
-- Taxes portuaires pour deux adultes : 26 £
-- Prix total traversée de nuit (Coupon FIP pour deux adultes, cabine la moins chère) : 81 £
-- Prix total traversée de nuit (Coupon FIP pour un adulte et cabine) : 59 £
-
-Ces informations sont données à titre indicatif, car il s’agit de réservations individuelles. [^5]
-{{% /highlight %}}
-
 ### Par téléphone
 
 {{% booking id="stena-line-phone" /%}}
@@ -161,5 +151,3 @@ Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si
 [^3]: [Site Web Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [Demande par e-mail de l’équipe FIP Guide à Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
-
-[^5]: [Communauté FIP Guide (Discord)](https://discord.com/channels/1250522473188032512/1446912039409942678)

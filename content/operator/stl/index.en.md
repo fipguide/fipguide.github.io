@@ -111,16 +111,6 @@ As of 22.12.2025, port fees are £3 or €3 and environmental charges are £10.3
 
 {{% /expander %}}
 
-{{% highlight inofficial %}}
-We have the following experience reports from the FIP Guide Community (as of 08.12.2025):
-
-- Port fees for two adults: £26
-- Total price for night crossing (FIP Coupon for two adults, cheapest cabin): £81
-- Total price for night crossing (FIP Coupon for one adult and cabin): £59
-
-As these are individual booking processes, all information is without guarantee. [^5]
-{{% /highlight %}}
-
 ### Telephone
 
 {{% booking id="stena-line-phone" /%}}
@@ -161,5 +151,3 @@ Stena Line offers a great way to be in London before 10 am if you invest a littl
 [^3]: [Stena Line Website](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [FIP Guide Team email inquiry to Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
-
-[^5]: [FIP Guide Community (Discord)](https://discord.com/channels/1250522473188032512/1446912039409942678)
