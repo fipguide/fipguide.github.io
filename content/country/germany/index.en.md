@@ -32,6 +32,7 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
+    - GoVolta (from March 2026)
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB

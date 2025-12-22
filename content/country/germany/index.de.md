@@ -32,12 +32,14 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
+    - GoVolta (ab März 2026)
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
+    - Leo Express (ab Juni 2026)
     - Mecklenburgische Bäderbahn Molli – MBB
     - metronom – ME
     - Mitteldeutsche Regiobahn – MRB

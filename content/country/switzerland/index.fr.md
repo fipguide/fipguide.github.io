@@ -4,11 +4,12 @@ title: "Suisse"
 country: "switzerland"
 params:
   operators_without_fip:
-    - Heimwehfluhbahn (Interlaken - Heimwehfluh)
-    - Luftseilbahn Wengen - Männlichen
-    - Gondelbahn Grindelwald - Männlichen (GGM)
-    - Seilbahn Mürren - Allmendhubel (SMA)
-    - Luftseilbahn Stechelberg (Mürren - Schilthorn) (LSMS)
+    - European Sleeper (à partir de juin 2026)
+    - Heimwehfluhbahn (Interlaken – Heimwehfluh)
+    - Luftseilbahn Wengen – Männlichen
+    - Gondelbahn Grindelwald – Männlichen (GGM)
+    - Seilbahn Mürren – Allmendhubel (SMA)
+    - Luftseilbahn Stechelberg (Mürren – Schilthorn) (LSMS)
 ---
 
 ## Informations FIP
