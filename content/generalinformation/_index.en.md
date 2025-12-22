@@ -227,7 +227,6 @@ Application is typically made through the personnel service or travel center of 
 {{% expander "How many fields can I request for FIP Coupons?" info "faq" %}}
 Depending on your needs, FIP Coupons with 1 to 4 fields per FIP member can be requested.
 Each field entitles you to an unlimited number of journeys on the network of the respective railway or shipping company on the date entered and the following day.
-An exception is the Dutch shipping company StL: with one field, only two crossings are possible.
 {{% /expander %}}
 
 {{% expander "What does a field on an FIP Coupon mean?" info "faq" %}}
@@ -253,7 +252,6 @@ For information about your travel destination, see our [country page](country).
 
 {{% expander "Are there exceptions when using FIP Coupons?" info "faq" %}}
 Yes. With some companies, no FIP Coupons can be used, while with others they apply only to certain train categories.
-The Dutch shipping company StL allows only two crossings per field.
 
 Details on FIP member rules can be found on the [operator pages](operator).
 
