@@ -1,6 +1,6 @@
 ---
 title: "Overview of countries"
-Description: "A clear overview of all countries where FIP benefits are available. Find out in which countries FIP 50 tickets and FIP coupons can be used."
+description: "A clear overview of all countries where FIP benefits are available. Find out in which countries FIP 50 tickets and FIP coupons can be used."
 
 params:
   countriesWithoutFip:
