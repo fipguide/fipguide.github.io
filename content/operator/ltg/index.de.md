@@ -11,9 +11,9 @@ Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betrei
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden akzeptiert
-- Reservierungspflicht in allen Zügen
-- Bei Nutzung des FIP Freifahrtscheins muss vor jeder Fahrt ein kostenloses Ticket erworben werden
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
+- Reservierungspflicht in allen Zügen.
+- Bei Nutzung des FIP Freifahrtscheins muss vor jeder Fahrt ein kostenloses Ticket erworben werden.
 
 ## Gültigkeit FIP Tickets
 
@@ -36,9 +36,13 @@ FIP 50 Tickets und Freifahrtscheine von LTG-Link, gelten auch in Zügen von LTG-
 In Litauen wird nicht zwischen verschiedenen Zugkategorien unterschieden.
 
 {{% highlight important %}}
-LTG-Link verlangt in Fernverkehrszügen eine verpflichtende kostenlose Sitzplatzreservierung (eine Auflistung der Verbindungen ist auf [LTG-Link Website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes) zu finden). Mit FIP Freifahrtschein muss jedoch auch auch in Zügen ohne Reservierungspflicht ein kostenloses Ticket (_0er-Fahrschein_) vor der Fahrt erworben werden.
+LTG-Link verlangt in Fernverkehrszügen eine verpflichtende kostenlose Sitzplatzreservierung (eine Auflistung der Verbindungen ist auf [LTG-Link Website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes) zu finden). Mit FIP Freifahrtschein muss jedoch auch in Zügen ohne Reservierungspflicht ein kostenloses Ticket (_0er-Fahrschein_) vor der Fahrt erworben werden.
 
-Somit ist vor **jeder** Fahrt mit FIP Freifahrtschein eine kostenlose Reservierung oder kostenloses Ticket (_0er-Fahrschein_) zu erwerben (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)).
+Züge mit Reservierungspflicht sind teilweise schon viele Tage im Voraus ausgebucht. In der Hochsaison und an Feiertagen zwischen Vilnius und Klaipeda bzw. Riga sind Züge teilweise 2-3 Wochen zuvor ausgebucht.
+
+Buchungsbeginn ist bei Inlandsfahrkarten 30 Tage vor Abfahrt und bei Auslandsfahrten 60 Tage vor Abfahrt.
+
+Somit ist vor **jeder** Fahrt mit FIP Freifahrtschein ein kostenloses Ticket (0er-Fahrschein) mit/ohne Pflichtreservierung oder ein FIP 50 Ticket zu erwerben, das ggf. eine kostenlose Reservierung enthält. (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)).
 {{% /highlight %}}
 
 FIP Vergünstigungen der 1. Klasse gelten in allen Klassen. FIP Vergünstigungen der 2. Klasse gelten in der 2. und 3. Klasse.
