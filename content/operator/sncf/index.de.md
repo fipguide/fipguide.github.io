@@ -237,8 +237,8 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
 
 #### TER Grand Est
 
-- Line 1: Paris – Troyes – Chaumont – Mulhouse
-- Line 4: Paris – Épernay – Châlons – Strasbourg
+- Line 1: Paris – Épernay – Châlons – Strasbourg
+- Line 4: Paris – Troyes – Chaumont – Mulhouse
 
 ### Grenzüberschreitende TGV inOui / ICE Züge
 

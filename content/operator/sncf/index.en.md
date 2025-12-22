@@ -238,8 +238,8 @@ This reservation requirement applies to the following lines:
 
 #### TER Grand Est
 
-- Line 1: Paris – Troyes – Chaumont – Mulhouse
-- Line 4: Paris – Épernay – Châlons – Strasbourg
+- Line 1: Paris – Épernay – Châlons – Strasbourg
+- Line 4: Paris – Troyes – Chaumont – Mulhouse
 
 ### International TGV inOui / ICE trains
 

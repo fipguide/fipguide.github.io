@@ -238,8 +238,8 @@ Cette obligation s’applique aux lignes suivantes :
 
 #### TER Grand Est
 
-- Ligne 1 : Paris – Troyes – Chaumont – Mulhouse
-- Ligne 4 : Paris – Épernay – Châlons – Strasbourg
+- Ligne 1 : Paris – Épernay – Châlons – Strasbourg
+- Ligne 4 : Paris – Troyes – Chaumont – Mulhouse
 
 ### Trains TGV inOui / ICE internationaux
 
