@@ -8,7 +8,7 @@ params:
     - Breng
     - Connexxion
     - European Sleeper
-    - GoVolta (ab März 2026)
+    - GoVolta
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail

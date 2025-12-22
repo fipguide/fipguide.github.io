@@ -8,7 +8,7 @@ params:
     - Circumflegrea
     - Circumvesuviana
     - Cumana
-    - European Sleeper (from June 2026)
+    - European Sleeper
     - '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud Est")'
     - Italo / NTV
     - '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'

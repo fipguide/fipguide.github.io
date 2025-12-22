@@ -4,7 +4,7 @@ title: "Schweiz"
 country: "switzerland"
 params:
   operators_without_fip:
-    - European Sleeper (ab Juni 2026)
+    - European Sleeper
     - Heimwehfluhbahn (Interlaken – Heimwehfluh)
     - Luftseilbahn Wengen – Männlichen
     - Gondelbahn Grindelwald – Männlichen (GGM)
