@@ -1,12 +1,12 @@
 ---
 title: "Übergreifende Infos"
-description: "Informationen über die allgemeinen Hinweise zu FIP und wie FIP in Anspruch genommen werden kann."
+description: "Übergreifende Informationen zu FIP, FIP Ausweis (Internationale Ermäßigungskarte für Eisenbahnpersonal) sowie der Nutzung Internationaler Fahrvergünstigungen wie FIP 50 und FIP Freifahrtscheinen (Auslandsfreifahrten)."
 toc: true
 ---
 
 ## Allgemein
 
-FIP steht für _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. Es ist die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals. Durch FIP sind Fahrvergünstigungen auch im europäischen Ausland verfügbar.
+FIP steht für _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. Es ist die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals. Mit FIP können Internationale Fahrvergünstigungen im europäischen Ausland in Anspruch genommen werden.
 
 Damit FIP Fahrvergünstigungen genutzt werden können, muss die Berechtigung für die Nutzung von FIP vorliegen. Im Regelfall ist dies nach einem Jahr Firmenzugehörigkeit gegeben, jedoch sind abweichende Regeln je nach Arbeitgeber möglich.
 
@@ -28,7 +28,8 @@ Auch hier gibt es Ausnahmen, so werden einige Nightjets auf der gesamten Laufstr
 
 ## FIP Ausweis
 
-Für die Nutzung von FIP-Vergünstigungen ist ein aktueller _FIP Ausweis_ erforderlich. Dieser ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027. Der FIP Ausweis wird als Legitimation für FIP 50 Tickets benötigt. Er wird entweder für die 1. oder 2. Klasse ausgestellt. Mit einem 1. Klasse Ausweis können Freifahrtscheine und FIP 50 Tickets für die 1. und 2. Klasse erworben werden, mit einem 2. Klasse Ausweis nur für die 2. Klasse. Er kann über die jeweilige Bahngesellschaft, bei der man arbeitet, bestellt werden. Der genaue Bestellweg unterscheidet sich pro Unternehmen.
+Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermäßigungskarte für Eisenbahnpersonal, umgangssprachlich _FIP Ausweis_ genannt, erforderlich.
+Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027. Der FIP Ausweis wird als Legitimation für FIP 50 Tickets benötigt. Er wird entweder für die 1. oder 2. Klasse ausgestellt. Mit einem 1. Klasse Ausweis können Freifahrtscheine und FIP 50 Tickets für die 1. und 2. Klasse erworben werden, mit einem 2. Klasse Ausweis nur für die 2. Klasse. Er kann über die jeweilige Bahngesellschaft, bei der man arbeitet, bestellt werden. Der genaue Bestellweg unterscheidet sich pro Unternehmen.
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
@@ -40,7 +41,7 @@ FIP Vergünstigungen bestehen in verschiedenen Formen, für die Nutzung wird imm
 
 ### FIP Freifahrtscheine
 
-Diese berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden, die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. FIP Freifahrtscheine werden im Englischen auch als _FIP Coupons_ bezeichnet. Pro Kalenderjahr ist die Bestellung eines Freifahrtscheins pro Betreiber möglich (Einige Bahngesellschaften können für ihre eigenen Mitarbeitenden abweichende Regelungen haben). Das bedeutet, es können in jedem Jahr von beliebig vielen Betreibern je ein Freifahrtschein mit ein bis zu vier Feldern, bestellt werden. Entscheidend für das Kalenderjahr ist das Datum, an dem die Gültigkeit beginnt.
+FIP Freifahrtscheine (umgangssprachlich Auslandsfreifahrt) berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden, die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. FIP Freifahrtscheine werden im Englischen auch als _FIP Coupons_ bezeichnet. Pro Kalenderjahr ist die Beantragung eines FIP Freifahrtscheins je Betreiber möglich. Einige Bahngesellschaften können für ihre eigenen Mitarbeitenden abweichende Regelungen haben. Das bedeutet, es können in jedem Jahr von beliebig vielen Betreibern je ein FIP Freifahrtschein mit ein bis zu vier Feldern, bestellt werden. Entscheidend für das Kalenderjahr ist das Datum, an dem die Gültigkeit beginnt. Der Antrag der internationalen Freifahrt erfolgt in der Regel über den Personalservice oder das Reisezentrum deines Eisenbahnverkehrsunternehmens. Manche Unternehmen bieten auch Online-Portale an.
 
 Teilweise sind FIP Freifahrtscheine auch für Angehörige verfügbar. Die Verfügbarkeit ist abhängig von bilateralen Vereinbarungen zwischen der ausstellenden Bahngesellschaft und der Bahngesellschaft, bei der FIP Vergünstigungen genutzt werden sollen.
 
@@ -221,7 +222,7 @@ In der Regel ist eine Bearbeitungsfrist bei der Beantragung zu beachten.
 {{% /expander %}}
 
 {{% expander "Wo kann ich FIP Freifahrtscheine bestellen?" info "faq" %}}
-Die Beantragung erfolgt in der Regel über den Personalservice oder das Reisezentrum deines Eisenbahnverkehrsunternehmens. Manche Unternehmen bieten auch Online-Portale an.
+Die Beantragung von internationalen Freifahrten erfolgt in der Regel über den Personalservice oder das Reisezentrum deines Eisenbahnverkehrsunternehmens. Manche Unternehmen bieten auch Online-Portale an.
 {{% /expander %}}
 
 {{% expander "Wie viele Felder kann ich bei FIP Freifahrtscheinen beantragen?" info "faq" %}}

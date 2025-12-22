@@ -1,6 +1,6 @@
 ---
 title: "Informations générales"
-description: "Informations générales sur le FIP et comment utiliser les réductions FIP."
+description: "Informations générales sur la FIP, Carte FIP ainsi que l'utilisation de réductions sur les voyages internationaux telles que les bons de voyage Billets FIP 50 et Coupons FIP."
 toc: true
 ---
 

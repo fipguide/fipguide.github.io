@@ -1,6 +1,6 @@
 ---
 title: "General Information"
-description: "General information about FIP and how to use FIP discounts."
+description: "Information on FIP in general, FIP Card and the use of international travel discounts such as FIP 50 tickets and FIP coupons."
 toc: true
 ---
 
@@ -40,7 +40,9 @@ FIP discounts come in various forms; a FIP Card is always required to use them.
 
 ### FIP Coupons
 
-These entitle you to travel on trains operated by the operator specified on the coupon. An _FIP Coupon_ consists of multiple _fields_. Each field is valid for two consecutive days. The first day of validity must be entered on the ticket. The ticket is then valid on that day and the following day. The different fields themselves do not need to be filled in on consecutive days; the dates only need to fall within the printed validity period. One FIP Coupon per operator can be ordered per calendar year (some railway companies may have different rules for their own employees). This means you can order one FIP Coupon with one to four fields from any number of operators each year. The date on which validity begins determines the calendar year.
+These entitle you to travel on trains operated by the operator specified on the coupon. An _FIP Coupon_ consists of multiple _fields_. Each field is valid for two consecutive days. The first day of validity must be entered on the ticket. The ticket is then valid on that day and the following day. The different fields themselves do not need to be filled in on consecutive days; the dates only need to fall within the printed validity period.
+
+One FIP Coupon per operator can be ordered per calendar year (some railway companies may have different rules for their own employees). This means you can order one FIP Coupon with one to four fields from any number of operators each year. The date on which validity begins determines the calendar year.
 
 FIP Coupons are sometimes also available for dependents. Availability depends on bilateral agreements between the issuing railway company and the railway company where you wish to use FIP discounts.
 

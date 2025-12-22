@@ -20,8 +20,8 @@ contentNavigation:
   title: Aperçu du contenu
 countries:
   descriptionTemplate: >-
-    Informations sur les conditions FIP pour %s et pour quels opérateurs des
-    réductions peuvent être utilisées.
+    Information sur les conditions FIP pour %s et pour quels opérateurs des 
+    réductions les billets FIP 50 et coupons FIP peuvent être utilisés.
   overview: Pays acceptation FIP
   without-fip: Pays sans acceptation FIP
 country:
