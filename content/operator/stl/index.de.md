@@ -7,7 +7,7 @@ country:
 operator: "stl"
 ---
 
-Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich und Hoek van Holland wird im Kontext von FIP als Stena Line BV (StL) genannt.
+Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich ([Vereinigtes Königreich](/country/united-kingdom)) und Hoek van Holland ([Niederlande](/country/netherlands)) wird im Kontext von FIP als Stena Line BV (StL) genannt.
 
 Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betreiber Stena Line Limited (SLL) betrieben.
 

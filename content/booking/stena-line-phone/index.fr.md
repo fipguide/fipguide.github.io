@@ -1,33 +1,25 @@
 ---
 draft: false
-title: "Téléphone Stena Line"
+title: "Stena Line Téléphone"
 description: "Informations de réservation pour la réservation par téléphone chez Stena Line"
 params:
   fip_50: true
-  fip_global_fare: false
+  fip_global_fare: nil
   reservations: true
   type: "phone"
 ---
 
-{{% satellite %}}
+Une offre individuelle peut être obtenue et réservée par téléphone : [+44 3447 707070](tel:+443447707070)
+
+La réservation n’est possible qu’en anglais.
+Un alphabet phonétique peut aider lors de la communication des noms et autres données.
+Les données du voyage, le passeport et la Carte FIP doivent être préparés.
 
 {{% booking-section "fip_50" %}}
 
-## Billets FIP 50
+## Billet FIP 50
 
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## Tarif Global FIP
-
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
+Les billets FIP 50 peuvent être réservés.
 
 {{% /booking-section %}}
 
@@ -35,8 +27,8 @@ params:
 
 ## Réservations
 
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
+Pour les traversées de nuit, la réservation de cabine est obligatoire.
 
 {{% /booking-section %}}
+
+{{% satellite %}}

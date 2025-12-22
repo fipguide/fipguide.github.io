@@ -7,146 +7,137 @@ country:
 operator: "stl"
 ---
 
-<!-- Supprimez ce message si la page est complète -->
+L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).
 
-{{< wip >}}
-
-<!--
-  Brève description de la compagnie ferroviaire. Par exemple, le nom complet dans la langue locale, les noms alternatifs, et si c'est une compagnie privée ou publique.
--->
+Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom Stena Line Limited (SLL).
 
 ## Résumé
 
-<!--
-  Liste à puces des principales caractéristiques / règles FIP de la compagnie ferroviaire.
-  Par exemple :
-  - Les Billets FIP 50 et les Coupons FIP sont-ils acceptés ?
-  - Y a-t-il une obligation de réservation ?
-  - Existe-t-il d'autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
--->
+- Les Billets FIP 50 et les Coupons FIP sont acceptés.
+- Réservation obligatoire sur les ferries de nuit.
+- Réservation uniquement possible à l’avance par téléphone ou sur place.
 
 ## Validité des Billets FIP
 
-<!--
-  Les catégories de billets peuvent varier selon l'opérateur.
--->
+Coupon FIP : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
+Billets FIP 50 : ✅
 
-Coupon FIP : <✅/⛔> \
-Coupon FIP accompagnant : <✅/⛔> \
-Billets FIP 50 : <✅/⛔> \
-Tarif Global FIP : <✅/⛔>
+Le Coupon FIP pour StL comprend, contrairement à la norme, au maximum deux cases. [^1]
 
-<!--
-  Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
--->
+## Catégories de navires et réservations
 
-## Catégories de trains et réservations
+{{% train-category
+title="Ferry (traversée de jour)"
+type="ship"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
+%}}
+Un ferry circule dans chaque direction :
 
-<!--
-  Les réservations sont-elles possibles et où sont-elles obligatoires ?
--->
+- Hoek van Holland vers Harwich : 14h15 – 19h45, 6h30 (Stena Britannica)
+- Harwich vers Hoek van Holland : 09h00 – 17h15, 7h15 (Stena Hollandica)
 
-<!--
-  Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant :
-  Dans le titre, les emojis suivants peuvent être utilisés :
-  - ⚠️ pour une obligation générale de réservation ou des suppléments
-  - 1️⃣ pour une obligation de réservation en 1ère classe uniquement
-  - ⛔ pour une non-validité FIP
-  - ℹ️ pour des confusions possibles avec d'autres compagnies ferroviaires / catégories de train
--->
+À bord, de nombreux services sont proposés :
 
-{{% expander "Catégorie de train" traincategory "category" %}}
+- nombreux sièges
+- salons
+- restaurants
+- espace de jeux pour enfants
+- boutique duty free
+- bar sur le pont avec vue
 
-<!-- Remplacez "Catégorie de train" par le nom de la catégorie, par ex. TGV, ICE -->
+Une cabine peut être réservée en option.
+{{% /train-category %}}
 
-**Description :** \
+{{% train-category
+title="Ferry (traversée de nuit)"
+type="ship"
+fip_accepted=true
+reservation_possible=true
+reservation_required=true
+%}}
+Un ferry circule dans chaque direction :
 
-<!-- Description de la catégorie -->
+- Hoek van Holland vers Harwich : 22h00 – 06h30, 9h30 (Stena Hollandica)
+- Harwich vers Hoek van Holland : 23h00 – 08h00, 8h00 (Stena Britannica)
 
-**Réservation possible :** <oui/non> \
-**Réservation obligatoire :** <⚠️ oui / non / ⚠️1️⃣ seulement en 1ère classe> \
+À bord, de nombreux services sont proposés :
 
-<!-- Si FIP n’est pas accepté, ajoutez ceci :
-**FIP :** ⛔ FIP non accepté
--->
-<!-- Si les Tarifs Globaux FIP sont disponibles, ajoutez ceci :
-**Tarif Global FIP :**
--->
+- nombreux sièges
+- salons
+- restaurants
+- espace de jeux pour enfants
+- boutique duty free
+- bar sur le pont avec vue
 
-{{% /expander %}}
+La réservation d’une cabine est obligatoire.[^2]
+{{% /train-category %}}
 
 ## Catégories de classes
 
-<!--
-  Si les catégories de classes incluent des classes supplémentaires/différentes au-delà de la 1ère et 2ème classe, elles peuvent être décrites ici. Sinon, cette section peut être supprimée.
--->
+Il n’existe qu’une seule classe à bord des navires pour FIP.
 
-<!--
-**Standard** : Comparable à la 2ème classe. \
-**Plus** : 1ère classe sans restauration. Un pass FIP pour la 1ère classe est requis. \
-**Premium** : 1ère classe avec restauration. Non réservable avec FIP.
--->
+Lors de la réservation d’une cabine, il est possible de choisir entre Standard, Supérieure et Deluxe. [^3]
+Aucune remise FIP n’est accordée sur les cabines. [^2]
 
-## Achat de billets et réservations
+## Achat de billets et de réservations
 
-### En ligne
+Les billets FIP doivent être achetés avant le voyage. L’achat à bord des navires n’est pas possible.
+FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplémentaires sont facturées au tarif plein. Cela inclut notamment les frais de réservation de cabine, le transport de véhicules ainsi que les taxes portuaires et environnementales.
+Avec un Coupon FIP, la traversée est gratuite.
+En général, la traversée de nuit est plus chère que celle de jour, car le tarif est plus élevé la nuit et la réservation d’une cabine est obligatoire.[^4]
 
-<!--
-  Intégrez ici les informations d'une plateforme de réservation définie.
+{{% highlight inofficial %}}
+Voici des retours d’expérience de la communauté FIP Guide (au 08.12.2025) :
 
-  Vous pouvez remplacer individuellement les paramètres de réservation listés ci-dessous, mais ce n'est pas obligatoire.
-  Si vous omettez certains paramètres, les valeurs par défaut de la plateforme de réservation seront utilisées.
+- Taxes portuaires pour deux adultes : 26 £
+- Prix total traversée de nuit (Coupon FIP pour deux adultes, cabine la moins chère) : 81 £
+- Prix total traversée de nuit (Coupon FIP pour un adulte et cabine) : 59 £
 
-  Pour plus d'informations sur la définition d'une plateforme de réservation, consultez l'archetype de réservation.
--->
-
-{{% booking id="stena-line-phone" %}}
-
-<!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->
-
-{{% /booking %}}
+Ces informations sont données à titre indicatif, car il s’agit de réservations individuelles. [^5]
+{{% /highlight %}}
 
 ### Par téléphone
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
--->
+{{% booking id="stena-line-phone" /%}}
 
 ### En gare
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation en gare.
--->
+Le jour du voyage, il est possible de réserver sur place, selon disponibilité. [^4]
 
-### À bord du train
-
-<!--
-  Les billets avec réduction FIP peuvent-ils encore être achetés à bord du train ? Si oui, comment et y a-t-il un supplément ?
--->
+L’achat à bord des navires n’est pas possible.
 
 ## Réductions
 
-<!--
-  Quelles réductions les enfants peuvent-ils obtenir et dans quelles circonstances ?
-  Quelles autres réductions peuvent exister ?
--->
-
-## Conditions tarifaires spéciales
-
-### <Trajet ou nom>
-
-<!--
-  Description de la condition spéciale, s'il existe des réglementations particulières sur certains trajets.
--->
+Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 14 ans ils paient le tarif adulte. [^2]
 
 ## Recommandations
 
-<!--
-  Recommandations personnelles et conseils particuliers pour le voyage.
--->
+L’accès à la station _Hoek van Holland Haven_ se fait généralement par la ligne de métro B depuis Rotterdam et Schiedam.
+
+- Station _Schiedam Centrum_ : correspondance directe avec les trains `IC` et `RE` de la NS.
+- Station _Rotterdam Centraal_ : correspondances avec les trains NS. Pour rejoindre Hoek van Holland, il faut changer de la ligne de métro D à la station _Beurs_.
+
+{{% highlight important %}}
+RET N.V. n’accepte pas FIP, il faut donc acheter un billet régulier pour le métro. Cela fonctionne aussi sans contact et avec ApplePay.
+{{% /highlight %}}
+
+À Harwich, à la station _Harwich International_, il y a une correspondance avec les trains Greater Anglia vers/depuis Londres.
+
+{{% highlight tip %}}
+Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si l’on investit un peu plus de temps la veille. L’après-midi peut être passé à Rotterdam ou à la plage toute proche, accessible en une station de métro. Si vous êtes pressé, il est conseillé de changer à la station Schiedam Centrum.
+{{% /highlight %}}
 
 ## Sources
 
-[^1]: [<Nom de la source 1>](Lien)
+[^1]: DB Reisemarkt
 
-[^2]: [<Nom de la source 2>](Lien)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
+
+[^3]: [Site Web Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
+
+[^4]: [Demande par e-mail de l’équipe FIP Guide à Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^5]: [Communauté FIP Guide (Discord)](https://discord.com/channels/1250522473188032512/1446912039409942678)

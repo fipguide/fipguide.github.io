@@ -1,33 +1,25 @@
 ---
 draft: false
 title: "Stena Line Telephone"
-description: "Booking information for booking by phone at Stena Line"
+description: "Booking information for booking by telephone with Stena Line"
 params:
   fip_50: true
-  fip_global_fare: false
+  fip_global_fare: nil
   reservations: true
   type: "phone"
 ---
 
-{{% satellite %}}
+An individual offer can be requested and booked by telephone: [+44 3447 707070](tel:+443447707070)
+
+Booking is only possible in English.
+A spelling alphabet can help when providing names and other details.
+Travel dates, passport, and FIP Card should be kept ready.
 
 {{% booking-section "fip_50" %}}
 
-## FIP 50 Tickets
+## FIP 50 Ticket
 
-<!--
-    Explain the steps for booking FIP 50 Tickets with this booking platform.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## FIP Global Fare
-
-<!--
-    Explain the steps for booking FIP Global Fares with this booking platform.
--->
+FIP 50 Tickets can be booked.
 
 {{% /booking-section %}}
 
@@ -35,8 +27,8 @@ params:
 
 ## Reservations
 
-<!--
-    Explain the steps for booking reservations with this booking platform.
--->
+For overnight journeys, cabin reservation is mandatory.
 
 {{% /booking-section %}}
+
+{{% satellite %}}
