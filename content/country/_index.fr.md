@@ -7,6 +7,7 @@ params:
     - Belarus
     - Chypre
     - Estonie
+    - Finlande
     - Islande
     - Malte
     - Moldavie
