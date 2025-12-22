@@ -39,6 +39,7 @@ params:
     - HLB Hessenbahn GmbH – HLB
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
+    - Leo Express (from June 2026)
     - Mecklenburgische Bäderbahn Molli – MBB
     - metronom – ME
     - Mitteldeutsche Regiobahn – MRB
