@@ -11,7 +11,7 @@ params:
     - Getlink (Eurotunnel LeShuttle)
     - Glasgow Subway
     - Hovertravel (Portsmouth à Ryde sur l’île de Wight)
-    - ’[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")’
+    - ’[London Underground](/operator/gb#verkehr-in-london "London Underground")’
     - Midland Metro (Birmingham à Wolverhampton)
     - Nottingham Express Transit
     - Sheffield Supertram
@@ -25,17 +25,17 @@ params:
 
 ## Informations FIP
 
-En Angleterre, en Écosse et au Pays de Galles, le FIP est accepté par tous les opérateurs ferroviaires intégrés à [National Rail]({{< ref "/operator/gb" >}} "National Rail"). Cela inclut certains opérateurs de trains urbains dans les grandes villes, comme London Overground et la Elizabeth Line. Les autres moyens de transport, tels que les métros et les tramways, ne sont pas inclus, comme c’est généralement le cas avec le FIP. Tous les opérateurs acceptant le FIP sont listés dans la [liste des opérateurs]({{< ref "/operator/gb#catégories-de-trains-et-réservations" >}} "Liste des opérateurs").
+En Angleterre, en Écosse et au Pays de Galles, le FIP est accepté par tous les opérateurs ferroviaires intégrés à [National Rail](/operator/gb "National Rail"). Cela inclut certains opérateurs de trains urbains dans les grandes villes, comme London Overground et la Elizabeth Line. Les autres moyens de transport, tels que les métros et les tramways, ne sont pas inclus, comme c’est généralement le cas avec le FIP. Tous les opérateurs acceptant le FIP sont listés dans la [liste des opérateurs](/operator/gb#catégories-de-trains-et-réservations "Liste des opérateurs").
 
 L’Irlande du Nord est desservie par sa propre compagnie ferroviaire (NIR), où les réductions FIP sont explicitement valables pour cette société. Les liaisons par ferry entre la Grande-Bretagne et l’Irlande du Nord avec Stena Line peuvent être utilisées avec le FIP.
 
-Il existe également des trains [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") vers l’Europe continentale, accessibles avec les tarifs globaux FIP. Alternativement, les liaisons par ferry vers les Pays-Bas entre Harwich et Hoek van Holland ou vers l’Irlande peuvent être utilisées avec le FIP.
+Il existe également des trains [Eurostar](/operator/eurostar "Eurostar") vers l’Europe continentale, accessibles avec les tarifs globaux FIP. Alternativement, les liaisons par ferry vers les Pays-Bas entre Harwich et Hoek van Holland ou vers l’Irlande peuvent être utilisées avec le FIP.
 
 ## Informations générales
 
 Le Royaume-Uni est le berceau du chemin de fer et possède une longue tradition ferroviaire. Le réseau ferroviaire couvre tout le pays et propose de nombreuses liaisons (directes) vers toutes les régions. La qualité des trains et des gares varie fortement, car de nombreux opérateurs agissent de manière indépendante. Certains proposent des trains modernes et confortables, tandis que d’autres utilisent encore d’anciens modèles.
 
-On trouve également de nombreuses grandes gares historiques comme London Paddington, London King’s Cross, London St. Pancras, Bristol Temple Meads ou York. De nombreux [chemins de fer touristiques]({{< ref "/operator/gb#lignes-historiques--trains-touristiques" >}} "Chemins de fer touristiques") proposent des tarifs réduits pour les titulaires FIP.
+On trouve également de nombreuses grandes gares historiques comme London Paddington, London King’s Cross, London St. Pancras, Bristol Temple Meads ou York. De nombreux [chemins de fer touristiques](/operator/gb#lignes-historiques--trains-touristiques "Chemins de fer touristiques") proposent des tarifs réduits pour les titulaires FIP.
 
 Un moment fort est le voyage à travers les paysages époustouflants des Highlands écossais ou la région idyllique des Cornouailles. Les deux destinations sont facilement accessibles en train de nuit via le Caledonian Sleeper ou le Night Riviera Sleeper.
 
@@ -60,13 +60,13 @@ Depuis Belfast, des ferries Stena Line relient Cairnryan en Écosse et Liverpool
 
 ### France et Belgique
 
-Depuis Paris Nord, Lille Europe et Bruxelles Midi, des [trains Eurostar]({{< ref "/operator/eurostar" >}} "Page Eurostar") relient London St. Pancras International. Ces trains sont soumis à réservation et des billets au tarif global FIP doivent être achetés.
+Depuis Paris Nord, Lille Europe et Bruxelles Midi, des [trains Eurostar](/operator/eurostar "Page Eurostar") relient London St. Pancras International. Ces trains sont soumis à réservation et des billets au tarif global FIP doivent être achetés.
 
 Depuis Calais, il existe également le train auto LeShuttle via le tunnel sous la Manche, mais aucun rabais FIP n’est accordé. De plus, il existe diverses liaisons par ferry entre la France/la Belgique et la Grande-Bretagne, mais aucun rabais FIP n’est accordé sur celles-ci.
 
 ### Pays-Bas
 
-Depuis Amsterdam et Rotterdam, des trains [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") directs relient London St. Pancras. Alternativement, des trains [Eurostar Red]({{< ref "/operator/eurostar" >}} "Eurostar Red") et [Eurocity]({{< ref "/operator/ns#catégories-de-trains-et-réservations" >}} "Eurocity") relient Bruxelles Midi (Belgique), où il est possible de prendre un [Eurostar Blue]({{< ref "/operator/eurostar" >}} "Eurostar Blue") vers London St. Pancras. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
+Depuis Amsterdam et Rotterdam, des trains [Eurostar](/operator/eurostar "Eurostar") directs relient London St. Pancras. Alternativement, des trains [Eurostar Red](/operator/eurostar "Eurostar Red") et [Eurocity](/operator/ns#catégories-de-trains-et-réservations "Eurocity") relient Bruxelles Midi (Belgique), où il est possible de prendre un [Eurostar Blue](/operator/eurostar "Eurostar Blue") vers London St. Pancras. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
 
 De plus, une liaison par ferry relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
 

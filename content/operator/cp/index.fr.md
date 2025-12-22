@@ -6,7 +6,7 @@ country:
 operator: "cp"
 ---
 
-La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au Portugal.
+La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au [Portugal](/country/portugal "Portugal").
 
 ## Résumé
 

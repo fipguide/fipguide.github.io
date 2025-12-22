@@ -13,13 +13,13 @@ Pour utiliser les réductions FIP, vous devez être autorisé à utiliser le FIP
 {{% highlight important %}}
 Ci-dessous, nous expliquons les bases générales du FIP. Cependant, des informations spécifiques peuvent varier selon le pays ou l’entreprise ferroviaire. Avant de voyager, vous devez toujours vous familiariser avec les règles du transporteur ferroviaire spécifique du pays que vous visitez. Le Guide FIP peut vous aider :
 
-- [Aperçu des Transporteurs Ferroviaires]({{% ref "/operator"%}} "Aperçu des Transporteurs Ferroviaires" )
-- [Aperçu des Pays]({{% ref "/country" %}} "Aperçu des Pays" )
+- [Aperçu des Transporteurs Ferroviaires](/operator "Aperçu des Transporteurs Ferroviaires")
+- [Aperçu des Pays](/country "Aperçu des Pays")
   {{% /highlight %}}
 
 Les réductions FIP s’appliquent souvent uniquement au transport ferroviaire et non aux bus, métros ou tramways. Cependant, il peut y avoir des exceptions, qui sont décrites sur les pages des opérateurs concernés.
 
-Lors de l’utilisation des réductions FIP, il importe de savoir quelle entreprise ferroviaire exploite le train. Il existe des trains coopératifs transfrontaliers exploités par différentes entreprises ferroviaires dans deux pays (par exemple, de nombreuses liaisons `EC`). Les [pages par pays dans le Guide FIP]({{% ref "/country" %}} "Pages par pays dans le Guide FIP" ) expliquent comment découvrir qui exploite un train dans chaque pays. En général, les sites web des opérateurs sont également utiles. Le [site de la Deutsche Bahn](https://bahn.de) affiche de nombreuses liaisons européennes et leurs opérateurs.
+Lors de l’utilisation des réductions FIP, il importe de savoir quelle entreprise ferroviaire exploite le train. Il existe des trains coopératifs transfrontaliers exploités par différentes entreprises ferroviaires dans deux pays (par exemple, de nombreuses liaisons `EC`). Les [pages par pays dans le Guide FIP](/country "Pages par pays dans le Guide FIP") expliquent comment découvrir qui exploite un train dans chaque pays. En général, les sites web des opérateurs sont également utiles. Le [site de la Deutsche Bahn](https://bahn.de) affiche de nombreuses liaisons européennes et leurs opérateurs.
 
 {{% highlight important %}}
 À titre tarifaire, ce qui importe généralement n’est pas le pays par lequel circule un train, mais quelle entreprise ferroviaire exploite le train sur quel segment. Cependant, les changements d’opérateur se produisent souvent aux frontières nationales. Les pages nationales concernées décrivent les points frontières où les changements d’opérateur se produisent.
@@ -55,7 +55,7 @@ Officiellement, la _Carte FIP_ n’est requise que pour commander des _Coupons F
 {{% expander "Exemple d’utilisation d’un Coupon FIP" info %}}
 Supposons que je sois employé d’une entreprise ferroviaire européenne (par exemple, Deutsche Bahn) et que je veuille voyager pendant un total de huit jours sur différents trains en Autriche. Pour ce faire, je dois commander un Coupon FIP pour les Chemins de fer fédéraux autrichiens (ÖBB) avec quatre champs (4 champs = jusqu’à 8 jours de voyage gratuit avec cet opérateur).
 
-Le Coupon FIP est valable trois mois ; je ne peux voyager que pendant cette période (exemple de validité : 10.02.2026 - 09.05.2026). Je rentre dans le pays le 01.03.2026 et, avant mon premier voyage en train en Autriche, je remplis 01.03.2026 dans le premier champ. Maintenant je peux utiliser les trains ÖBB le 01.03 et le 02.03.2026 (les exceptions et règles spéciales sont trouvées sur la [page de l’opérateur]({{% ref "/operator"%}} "page de l’opérateur") respectif).
+Le Coupon FIP est valable trois mois ; je ne peux voyager que pendant cette période (exemple de validité : 10.02.2026 - 09.05.2026). Je rentre dans le pays le 01.03.2026 et, avant mon premier voyage en train en Autriche, je remplis 01.03.2026 dans le premier champ. Maintenant je peux utiliser les trains ÖBB le 01.03 et le 02.03.2026 (les exceptions et règles spéciales sont trouvées sur la [page de l’opérateur](/operator "page de l’opérateur") respectif).
 
 Le 03.03.2026, je ne voyage pas en train, mais je le fais le 04.03. Je remplis donc 04.03.2026 dans le deuxième champ, me permettant également de voyager le 05.03. Cela continue jusqu’à ce que j’aie utilisé les quatre champs. J’utilise le dernier champ, par exemple, le 10.03.2026 et je retourne en dehors de l’Autriche le 11.03.2026.
 {{% /expander %}}
@@ -176,7 +176,7 @@ Veuillez contacter votre département des ressources humaines pour la demande et
 
 {{% expander "Le FIP s’applique-t-il également aux personnes à charge ?" info "faq" %}}
 
-Selon l’accord entre les membres FIP, les membres de la famille (enfants, partenaires) peuvent également utiliser les réductions FIP. Ceci est toujours mentionné sur les [pages des opérateurs respectifs]({{< ref "operator" >}}). Les réductions pour enfants y sont également listées.
+Selon l’accord entre les membres FIP, les membres de la famille (enfants, partenaires) peuvent également utiliser les réductions FIP. Ceci est toujours mentionné sur les [pages des opérateurs respectifs](operator). Les réductions pour enfants y sont également listées.
 
 {{% /expander %}}
 
@@ -195,7 +195,7 @@ Notez que vous n’avez généralement droit aux réductions de voyage internati
 {{% expander "Quelles réductions j’obtiens grâce au FIP ?" info "faq" %}}
 
 Avec la Carte FIP, vous êtes autorisé à utiliser les services de transport du membre FIP respectif à des tarifs réduits.
-Des règles différentes s’appliquent selon l’opérateur. Vous pouvez trouver des détails sur les [pages des opérateurs]({{< ref "operator" >}}).
+Des règles différentes s’appliquent selon l’opérateur. Vous pouvez trouver des détails sur les [pages des opérateurs](operator).
 
 Il y a différents types de réductions :
 
@@ -209,7 +209,7 @@ Le voyage avec FIP n’est pas toujours l’option la moins chère. Dans certain
 
 {{% expander "Où puis-je obtenir des billets à prix réduit avec la Carte FIP ?" info "faq" %}}
 La méthode d’achat varie selon l’opérateur, par exemple en ligne, par téléphone ou dans un centre de voyage.
-Vous pouvez trouver un aperçu détaillé trié par membre FIP [ici]({{< ref "operator" >}}).
+Vous pouvez trouver un aperçu détaillé trié par membre FIP [ici](operator).
 {{% /expander %}}
 
 {{% expander "Quelles règles s’appliquent aux Coupons FIP ?" info "faq" %}}
@@ -246,8 +246,8 @@ Avec le maximum de quatre champs, vous pouvez voyager pendant huit jours.
 
 {{% expander "Quelles entreprises ferroviaires acceptent le FIP ?" info "faq" %}}
 
-Plus de 30 entreprises ferroviaires européennes et certaines compagnies maritimes participent au système FIP. Une liste des entreprises impliquées peut être trouvée dans le Guide FIP dans la [liste des opérateurs]({{< ref "operator" >}}).
-Pour plus d’informations sur votre destination de voyage, voir notre [page du pays]({{< ref "country" >}}).
+Plus de 30 entreprises ferroviaires européennes et certaines compagnies maritimes participent au système FIP. Une liste des entreprises impliquées peut être trouvée dans le Guide FIP dans la [liste des opérateurs](operator).
+Pour plus d’informations sur votre destination de voyage, voir notre [page du pays](country).
 
 {{% /expander %}}
 
@@ -255,13 +255,13 @@ Pour plus d’informations sur votre destination de voyage, voir notre [page du 
 Oui. Avec certaines entreprises, aucun Coupon FIP ne peut être utilisé, tandis qu’avec d’autres, ils ne s’appliquent qu’à certaines catégories de trains.
 La compagnie maritime néerlandaise StL n’autorise que deux traversées par champ.
 
-Les détails sur les règles des membres FIP peuvent être trouvés sur les [pages des opérateurs]({{< ref "operator" >}}).
+Les détails sur les règles des membres FIP peuvent être trouvés sur les [pages des opérateurs](operator).
 
 {{% /expander %}}
 
 {{% expander "Ai-je besoin d’une réservation pour utiliser les trains ?" info "faq" %}}
 
-Une réservation est requise pour de nombreux trains, principalement les trains à grande vitesse et de nuit. Vous pouvez trouver un aperçu sur la [page de l’opérateur]({{< ref "operator" >}}) respectif.
+Une réservation est requise pour de nombreux trains, principalement les trains à grande vitesse et de nuit. Vous pouvez trouver un aperçu sur la [page de l’opérateur](operator) respectif.
 
 {{% /expander %}}
 

@@ -6,7 +6,7 @@ country:
 operator: "db"
 ---
 
-La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’Allemagne et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.
+La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.
 
 ## Résumé
 
@@ -55,7 +55,7 @@ Il existe trois classes de voitures :
 
 [Aperçu détaillé des classes chez ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Pour les Railjets vers l’Italie, un supplément est à payer à partir de la frontière italienne (voir [Trafic vers l’Italie chez ÖBB]({{< ref "/operator/oebb#verkehr-nach-italien" >}} "Trafic vers l’Italie chez ÖBB")). \
+Pour les Railjets vers l’Italie, un supplément est à payer à partir de la frontière italienne (voir [Trafic vers l’Italie chez ÖBB](/operator/oebb#verkehr-nach-italien "Trafic vers l’Italie chez ÖBB")). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
@@ -71,7 +71,7 @@ Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse in
 **Description :**
 Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de nombreux trains sur la route Hambourg - Copenhague.
 
-⚠️ Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie]({{< ref "/country/switzerland#italien" >}} "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
+⚠️ Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie](/country/switzerland#italien "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
 
 **Supplément/Réservation Italie :**
 

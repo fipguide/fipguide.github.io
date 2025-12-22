@@ -9,7 +9,7 @@ Klingerstraße 15 \
 
 Email : nextstop@fipguide.org
 
-N’hésitez pas à nous contacter via le [formulaire de contact]({{< relref path="contact" >}}).
+N’hésitez pas à nous contacter via le [formulaire de contact](/contact).
 
 ## Avertissement
 

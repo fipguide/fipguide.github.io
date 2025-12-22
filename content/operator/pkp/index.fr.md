@@ -6,7 +6,7 @@ country:
 operator: "pkp"
 ---
 
-Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en Pologne.
+Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en [Pologne](/country/poland "Pologne").
 
 ## Résumé
 
@@ -98,7 +98,7 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
 **Description :** \
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.
 
-ℹ️ Les trains régionaux en Pologne sont parfois aussi exploités par d’autres compagnies ferroviaires que Polregio. Celles-ci ont parfois leurs propres réductions FIP. [Voir Pologne]({{< ref "/country/poland" >}} "Pologne") \
+ℹ️ Les trains régionaux en Pologne sont parfois aussi exploités par d’autres compagnies ferroviaires que Polregio. Celles-ci ont parfois leurs propres réductions FIP. [Voir Pologne](/country/poland "Pologne") \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}
