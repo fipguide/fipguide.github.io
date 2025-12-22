@@ -28,12 +28,10 @@ Tarifs différents pour les trains vers la Suisse/Autriche : par exemple 20€ C
 
 Sur l’écran d’accueil du distributeur, sélectionnez "Buy your tickets / Special Discounts". Ensuite, choisissez le tarif via "Diritti di Ammissione" &#10132; "Diritto Ammissione Non FS".
 
-<!-- TODO: Remplacer par une image markdown et trouver des moyens de personnaliser la largeur -->
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-    <img src="/en/booking/fs-ticket-machine/machine_1.webp" alt="Écran d’accueil" style="width: 32%;">
-    <img src="/en/booking/fs-ticket-machine/machine_2.webp" alt="Choisir le tarif" style="width: 32%;">
-    <img src="/en/booking/fs-ticket-machine/machine_3.webp" alt="Choisir Diritto Ammissione Non FS" style="width: 32%;">
-</div>
+![Écran d’accueil](machine_1.webp)
+![Choisir le tarif](machine_2.webp)
+![Choisir Diritto Ammissione Non FS](machine_3.webp)
+{.o-section--columns-3}
 
 {{% /booking-section %}}
 

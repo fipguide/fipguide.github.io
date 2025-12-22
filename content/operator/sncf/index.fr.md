@@ -317,9 +317,15 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
 Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis et accessibles avec FIP aussi. Les autres tramways ne sont pas valables avec FIP.
 {{% /train-category %}}
 
-<img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="contramarquedePassage.webp"
+  alt="Contramarque de Passage"
+  width="60%"
+  position="right"
+%}}
 
 Les Billets FIP à tarif réduit pour `RER`, Transilien et tramways peuvent être achetés aux guichets Transilien. Lors de l’utilisation de ces services avec un Coupon FIP SNCF, il faut retirer une _Contremarque de Passage_ (carte d’accès temporaire) gratuite au guichet Transilien pour chaque trajet. Généralement, seules quelques cartes sont délivrées à la fois.
+{{% /float-image %}}
 
 ### Léman Express
 

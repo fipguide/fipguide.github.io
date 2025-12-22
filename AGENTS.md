@@ -69,7 +69,9 @@ Use these exact translations for headlines on the pages:
 - **HTML Templates**: Use Hugo / Go template syntax
 - **JavaScript**: ES6 modules with relative imports (`./filename.js`).
 - **CSS/SCSS**: Use SCSS with BEM-like naming, variables defined in `_variables.scss`
-- **Markdown**: Frontmatter in YAML format, use shortcodes for complex layouts
+- **Markdown**:
+  - Frontmatter in YAML format, use shortcodes for complex layouts
+  - When using shortcodes, pass each parameter on a new line for better readability.
 - **i18n**: Files in `i18n/` sorted alphabetically by key, support en/de/fr languages
 
 ### File Structure

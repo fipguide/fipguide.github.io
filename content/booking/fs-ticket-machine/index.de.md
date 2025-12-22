@@ -28,12 +28,10 @@ Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20�
 
 Auf dem Startbildschirm des Automaten "Buy your tickets / Special Discounts" wählen. Anschließend den Tarif über "Diritti di Ammissione" &#10132; "Diritto Ammissione Non FS" auswählen.
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-    <img src="/en/booking/fs-ticket-machine/machine_1.webp" alt="Startbildschirm" style="width: 32%;">
-    <img src="/en/booking/fs-ticket-machine/machine_2.webp" alt="Tarif wählen" style="width: 32%;">
-    <img src="/en/booking/fs-ticket-machine/machine_3.webp" alt="Diritto Ammissione Non FS wählen" style="width: 32%;">
-</div>
+![Startbildschirm](machine_1.webp)
+![Tarif wählen](machine_2.webp)
+![Diritto Ammissione Non FS wählen](machine_3.webp)
+{.o-section--columns-3}
 
 {{% /booking-section %}}
 

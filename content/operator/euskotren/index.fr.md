@@ -20,13 +20,18 @@ Coupon FIP : ⛔ \
 Billets FIP 50 : ⛔ \
 "Euskotren FIP Ticket" spécial (pour titulaires et accompagnants) : ✅
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="euskotren_fip_ticket.webp"
+  alt="Euskotren FIP Ticket"
+  width="30%"
+  position="left"
+%}}
+
 Le personnel des centres clients Euskotren vous délivre un "Euskotren FIP Ticket" spécial sur présentation de votre Carte FIP.
 Le billet est également délivré aux accompagnants avec leur propre Carte FIP. Il est valable 7 jours y compris le jour d’émission et vous pouvez l’utiliser pour l’ensemble du réseau Euskotren à l’exception des lignes de bus régionales et du train musée.
 Vous utilisez l’"Euskotren FIP Ticket" pour passer les barrières de quai. Après expiration, vous pouvez faire renouveler le billet plusieurs fois par an. Euskotren n’applique pas la limitation habituelle pour les Coupons FIP.
 
-<br style="clear:both" aria-hidden="true" />
+{{% /float-image %}}
 
 {{% highlight tip %}}
 Certains opérateurs ferroviaires délivrent également des titres de transport gratuits pour Euskotren. Selon nos informations, ceux-ci n’ont aucune utilité, les barrières de quai ne peuvent pas être franchies avec. Nous recommandons plutôt de faire délivrer le billet sur place.
