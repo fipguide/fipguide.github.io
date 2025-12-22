@@ -28,11 +28,11 @@ Le Coupon FIP pour StL comprend, contrairement à la norme, au maximum deux case
 ## Catégories de navires et réservations
 
 {{% train-category
-title="Ferry (traversée de jour)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  title="Ferry (traversée de jour)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 Un ferry circule dans chaque direction :
 
@@ -52,11 +52,11 @@ Une cabine peut être réservée en option.
 {{% /train-category %}}
 
 {{% train-category
-title="Ferry (traversée de nuit)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=true
+  title="Ferry (traversée de nuit)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
 %}}
 Un ferry circule dans chaque direction :
 

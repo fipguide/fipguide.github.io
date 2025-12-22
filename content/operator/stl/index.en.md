@@ -28,11 +28,11 @@ The FIP Coupon for StL covers, deviating from the standard, a maximum of two fie
 ## Ship Categories and Reservations
 
 {{% train-category
-title="Ferry (Day Service)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  title="Ferry (Day Service)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 One ferry operates in each direction:
 
@@ -52,11 +52,11 @@ A cabin can be booked optionally.
 {{% /train-category %}}
 
 {{% train-category
-title="Ferry (Night Service)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=true
+  title="Ferry (Night Service)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
 %}}
 One ferry operates in each direction:
 

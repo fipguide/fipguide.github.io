@@ -28,11 +28,11 @@ Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Fe
 ## Schiffskategorien und Reservierungen
 
 {{% train-category
-title="Fähre (Tagfahrt)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  title="Fähre (Tagfahrt)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 Pro Richtung verkehrt eine Fähre:
 
@@ -52,11 +52,11 @@ Eine Kabine kann optional dazugebucht werden.
 {{% /train-category %}}
 
 {{% train-category
-title="Fähre (Nachtfahrt)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=true
+  title="Fähre (Nachtfahrt)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
 %}}
 Pro Richtung verkehrt eine Fähre:
 
