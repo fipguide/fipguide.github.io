@@ -13,13 +13,13 @@ To use FIP travel discounts, you must be entitled to use FIP. This is usually gr
 {{% highlight important %}}
 Below we explain the general FIP basics. However, specific information may vary depending on the country or railway company. Before traveling, you should always familiarize yourself with the rules of the specific railway operator in the country you are visiting. The FIP Guide can help:
 
-- [Overview of Railway Operators]({{% ref "/operator"%}} "Overview of Railway Operators" )
-- [Overview of Countries]({{% ref "/country" %}} "Overview of Countries" )
+- [Overview of Railway Operators](/operator "Overview of Railway Operators")
+- [Overview of Countries](/country "Overview of Countries")
   {{% /highlight %}}
 
 FIP discounts often apply only to rail travel and not to buses, subways, or trams. However, there may be exceptions, which are described on the relevant operator pages.
 
-When using FIP discounts, it matters which railway company operates the train. There are cross-border cooperative trains that are operated by different railway companies in two countries (e.g., many `EC` connections). The [country pages in the FIP Guide]({{% ref "/country" %}} "Country pages in the FIP Guide" ) explain how to find out who operates a train in each country. In general, the operators' websites are also helpful. The [Deutsche Bahn website](https://bahn.de) shows many European connections and their operators.
+When using FIP discounts, it matters which railway company operates the train. There are cross-border cooperative trains that are operated by different railway companies in two countries (e.g., many `EC` connections). The [country pages in the FIP Guide](/country "Country pages in the FIP Guide") explain how to find out who operates a train in each country. In general, the operators' websites are also helpful. The [Deutsche Bahn website](https://bahn.de) shows many European connections and their operators.
 
 {{% highlight important %}}
 For tariff purposes, what usually matters is not which country a train is traveling through, but which railway company operates the train on which segment. However, operator changes often occur at national borders. The relevant country pages describe the border points where operator changes occur.
@@ -55,7 +55,7 @@ Officially, the _FIP Card_ is only required for ordering _FIP Coupons_, not for 
 {{% expander "Example of using an FIP Coupon" info %}}
 Suppose I'm an employee of a European railway company (e.g., Deutsche Bahn) and want to travel for a total of eight days on various trains within Austria. To do this, I need to order an FIP Coupon for the Austrian Federal Railways (ÖBB) with four fields (4 fields = up to 8 days of free travel with that operator).
 
-The FIP Coupon is valid for three months; I can only travel during this time (example validity: 10.02.2026 - 09.05.2026). I enter the country on 01.03.2026 and, before my first train journey in Austria, I fill in 01.03.2026 in the first field. Now I can use ÖBB trains on 01.03 and 02.03.2026 (exceptions and special rules are found on the respective [operator page]({{% ref "/operator"%}} "operator page")).
+The FIP Coupon is valid for three months; I can only travel during this time (example validity: 10.02.2026 - 09.05.2026). I enter the country on 01.03.2026 and, before my first train journey in Austria, I fill in 01.03.2026 in the first field. Now I can use ÖBB trains on 01.03 and 02.03.2026 (exceptions and special rules are found on the respective [operator page](/operator "operator page")).
 
 On 03.03.2026 I don't travel by train, but I do on 04.03. So I fill in 04.03.2026 in the second field, allowing me to travel on 05.03 as well. This continues until I've used all four fields. I use the last field, for example, on 10.03.2026 and travel back out of Austria on 11.03.2026.
 {{% /expander %}}
@@ -176,7 +176,7 @@ Please contact your HR department for application and use.
 
 {{% expander "Does FIP also apply to dependents?" info "faq" %}}
 
-Depending on the agreement between FIP members, family members (children, partners) can also use FIP discounts. This is always mentioned on the respective [operator pages]({{< ref "operator" >}}). Discounts for children are also listed there.
+Depending on the agreement between FIP members, family members (children, partners) can also use FIP discounts. This is always mentioned on the respective [operator pages](operator). Discounts for children are also listed there.
 
 {{% /expander %}}
 
@@ -195,7 +195,7 @@ Note that you generally only have a right to international travel discounts afte
 {{% expander "What discounts do I get through FIP?" info "faq" %}}
 
 With the FIP Card, you are entitled to use the transport services of the respective FIP member at discounted rates.
-Different rules apply depending on the operator. You can find details on the [operator pages]({{< ref "operator" >}}).
+Different rules apply depending on the operator. You can find details on the [operator pages](operator).
 
 There are various types of discounts:
 
@@ -209,7 +209,7 @@ FIP travel is not always the cheapest option. In some countries, savings fares a
 
 {{% expander "Where can I get discounted tickets with the FIP Card?" info "faq" %}}
 The purchase method differs depending on the operator, for example online, by phone, or at a travel center.
-You can find a detailed overview sorted by FIP member [here]({{< ref "operator" >}}).
+You can find a detailed overview sorted by FIP member [here](operator).
 {{% /expander %}}
 
 {{% expander "What rules apply to FIP Coupons?" info "faq" %}}
@@ -246,8 +246,8 @@ With the maximum of four fields, you can travel for eight days.
 
 {{% expander "Which railway companies accept FIP?" info "faq" %}}
 
-Over 30 European railway companies and some shipping companies participate in the FIP system. A list of which companies are involved can be found in the FIP Guide in the [list of operators]({{< ref "operator" >}}).
-For information about your travel destination, see our [country page]({{< ref "country" >}}).
+Over 30 European railway companies and some shipping companies participate in the FIP system. A list of which companies are involved can be found in the FIP Guide in the [list of operators](operator).
+For information about your travel destination, see our [country page](country).
 
 {{% /expander %}}
 
@@ -255,13 +255,13 @@ For information about your travel destination, see our [country page]({{< ref "c
 Yes. With some companies, no FIP Coupons can be used, while with others they apply only to certain train categories.
 The Dutch shipping company StL allows only two crossings per field.
 
-Details on FIP member rules can be found on the [operator pages]({{< ref "operator" >}}).
+Details on FIP member rules can be found on the [operator pages](operator).
 
 {{% /expander %}}
 
 {{% expander "Do I need a reservation to use trains?" info "faq" %}}
 
-A reservation is required for many trains, mostly high-speed and night trains. You can find an overview on the respective [operator page]({{< ref "operator" >}}).
+A reservation is required for many trains, mostly high-speed and night trains. You can find an overview on the respective [operator page](operator).
 
 {{% /expander %}}
 

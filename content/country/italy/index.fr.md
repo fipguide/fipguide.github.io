@@ -8,14 +8,14 @@ params:
     - Circumflegrea
     - Circumvesuviana
     - Cumana
-    - ’[Ferrovie Sud Est]({{< ref "/operator/fs#validité-des-billets-fip" >}} "Ferrovie Sud Est")’
+    - ’[Ferrovie Sud Est](/operator/fs#validité-des-billets-fip "Ferrovie Sud Est")’
     - Italo / NTV
-    - ’[Trenord]({{< ref "/operator/fs#validité-des-billets-fip" >}} "Trenord")’
+    - ’[Trenord](/operator/fs#validité-des-billets-fip "Trenord")’
 ---
 
 ## Informations FIP
 
-En Italie, les trains régionaux sont principalement exploités par [Trenitalia]({{< ref "/operator/fs" >}} "Trenitalia") et sont accessibles avec les Billets FIP. Sont exclus les trains de Trenord dans le nord de l’Italie et Ferrovie Sud Est (même si les trains portent le logo Trenitalia). Dans la région de Naples, certaines lignes à voie étroite ne sont pas exploitées par Trenitalia et ne sont pas accessibles avec les Billets FIP.
+En Italie, les trains régionaux sont principalement exploités par [Trenitalia](/operator/fs "Trenitalia") et sont accessibles avec les Billets FIP. Sont exclus les trains de Trenord dans le nord de l’Italie et Ferrovie Sud Est (même si les trains portent le logo Trenitalia). Dans la région de Naples, certaines lignes à voie étroite ne sont pas exploitées par Trenitalia et ne sont pas accessibles avec les Billets FIP.
 
 Pour les trajets longue distance, les trains Frecce de Trenitalia ne sont accessibles qu’avec des réservations coûteuses (incluant un supplément). Les trains du transporteur privé Italo ne sont pas accessibles avec les Billets FIP.
 

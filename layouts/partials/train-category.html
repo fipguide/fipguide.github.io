@@ -1,4 +1,8 @@
-<details class="o-expander o-expander--train-category" name="train-category">
+<details
+  class="o-expander o-expander--train-category"
+  name="train-category"
+  id="{{ .id }}"
+>
   <summary class="o-expander__summary o-expander__summary--train-category">
     <div class="o-train-category__header">
       <div class="o-train-category__title">
@@ -10,6 +14,7 @@
           "funicular" "funicular"
           "bus" "directions_bus"
           "tram" "tram"
+          "ship" "directions_boat"
         }}
         {{- partial "icon" (index $iconMapping .type) -}}
         <span class="o-train-category__title-text">{{- .title -}}</span>
