@@ -91,11 +91,11 @@ En général, la traversée de nuit est plus chère que celle de jour, car le ta
 
 {{% expander "Vérifier les prix en ligne" info %}}
 
-Les coûts pour les traversées de jour et de nuit peuvent être consultés sur le site Web de Stena Line avant la réservation. Pour ce faire, visitez d'abord le [site Web de Stena Line (UK)](https://www.stenaline.co.uk/). Si vous souhaitez voir les prix en euros, sélectionnez la langue appropriée en bas de la page d'accueil.
+Les coûts pour les traversées de jour et de nuit peuvent être consultés sur le site Web de Stena Line avant la réservation. Pour ce faire, visitez d’abord le [site Web de Stena Line (UK)](https://www.stenaline.co.uk/). Si vous souhaitez voir les prix en euros, sélectionnez la langue appropriée en bas de la page d’accueil.
 
 ![Étape 1](./determine_costs_1.webp)
 
-À l'étape suivante, vous devez passer à l'ancien système de réservation. Le nouveau système de réservation n'affiche pas de détail des coûts.
+À l’étape suivante, vous devez passer à l’ancien système de réservation. Le nouveau système de réservation n’affiche pas de détail des coûts.
 
 ![Étape 2](./determine_costs_2.webp)
 
@@ -107,7 +107,7 @@ Après avoir sélectionné toutes les options supplémentaires et cabines souhai
 
 ![Étape 4](./determine_costs_4.webp)
 
-Au 22.12.2025, les taxes portuaires s'élèvent à 3 £ ou 3 € et les taxes environnementales à 10,30 £ / 12 € par personne et par traversée. S'y ajoutent les frais de cabine et autres options supplémentaires, facturés au tarif plein.
+Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ ou 3 € et les taxes environnementales à 10,30 £ / 12 € par personne et par traversée. S’y ajoutent les frais de cabine et autres options supplémentaires, facturés au tarif plein.
 
 {{% /expander %}}
 
