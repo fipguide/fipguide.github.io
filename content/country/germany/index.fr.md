@@ -180,7 +180,7 @@ Il existe aussi un bus CFL Luxembourg – Sarrebruck, sans réduction FIP.
 
 ### Pays-Bas
 
-Depuis Amsterdam, l’`ICE` transfrontalier vers Francfort / Cologne / Düsseldorf permet de rejoindre le réseau DB. Pour les trajets transfrontaliers, des Coupons FIP NS et DB sont nécessaires.
+Depuis Amsterdam, l’`ICE` transfrontalier vers Francfort / Cologne / Düsseldorf ou Berlin / Hanovre permet de rejoindre le réseau DB. Pour les trajets transfrontaliers, des Coupons FIP NS et DB sont nécessaires.
 
 Il existe aussi divers trains régionaux, mais seuls deux acceptent le FIP :
 
