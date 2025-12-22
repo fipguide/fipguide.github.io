@@ -20,7 +20,9 @@ contentNavigation:
   title: Inhaltsübersicht
 countries:
   descriptionTemplate: >-
-    Informationen über die FIP-Bedingungen für %s und für welche Betreiber Vergünstigungen wie FIP 50 Tickets und FIP Freifahrtscheine genutzt werden können.
+    Informationen über die FIP-Bedingungen für %s und für welche Betreiber
+    Vergünstigungen wie FIP 50 Tickets und FIP Freifahrtscheine genutzt werden
+    können.
   overview: Länder mit FIP Akzeptanz
   without-fip: Länder ohne FIP Akzeptanz
 country:

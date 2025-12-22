@@ -19,7 +19,9 @@ contentNavigation:
   relatedCountries: Countries in which the operator is active
   title: Content overview
 countries:
-  descriptionTemplate: Information about FIP conditions for %s and which operators offer discounts such as FIP 50 tickets and FIP Coupons.
+  descriptionTemplate: >-
+    Information about FIP conditions for %s and which operators offer discounts
+    such as FIP 50 tickets and FIP Coupons.
   overview: Countries with FIP acceptance
   without-fip: Countries without FIP acceptance
 country:
