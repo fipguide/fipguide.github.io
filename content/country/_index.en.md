@@ -7,6 +7,7 @@ params:
     - Belarus
     - Cyprus
     - Estonia
+    - Finland
     - Iceland
     - Malta
     - Moldova

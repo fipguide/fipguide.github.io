@@ -6,6 +6,7 @@ params:
     - Andorra
     - Belarus
     - Estland
+    - Finnland
     - Island
     - Malta
     - Moldau
