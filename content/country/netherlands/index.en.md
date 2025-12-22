@@ -58,3 +58,9 @@ On the `RE` routes Hamm - Venlo and Düsseldorf - Arnhem, the Deutschlandticket 
 From Belgium, cross-border regional trains (including the `IC` here) can be used, but an additional FIP Ticket from SNCB is required. There are also long-distance trains (`ECD` and `EC`), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis.
 
 With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP Ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar](/operator/eurostar "Eurostar"))
+
+### United Kingdom
+
+Direct [Eurostar](/operator/eurostar "Eurostar") trains run from London St. Pancras to Amsterdam and Rotterdam. Reservations are always required for Eurostar trains, and FIP Global Fare tickets must be purchased.
+
+Additionally, there is a [ferry connection](/operator/stl "ferry connection") from Harwich to Hoek van Holland, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
