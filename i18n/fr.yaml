@@ -82,8 +82,10 @@ menu:
     switch-to-dark: Passer en mode sombre
     switch-to-light: Passer en mode clair
 navigate-to-country: Aller au pays
-news-headline: Quoi de neuf ?
-news-other: Autres actualités
+news:
+  all: Toutes les actualités
+  further: Autres actualités
+  headline: Quoi de neuf ?
 operators:
   descriptionTemplate: >-
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et
