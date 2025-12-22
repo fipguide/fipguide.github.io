@@ -41,7 +41,7 @@ Pro Richtung verkehrt eine Fähre:
 
 An Bord gibt es eine Vielzahl an Services:
 
-- zahlreiche Sitzgelegenheiten
+- Zahlreiche Sitzgelegenheiten
 - Lounges
 - Restaurants
 - Spielbereich für Kinder
@@ -65,7 +65,7 @@ Pro Richtung verkehrt eine Fähre:
 
 An Bord gibt es eine Vielzahl an Services:
 
-- zahlreiche Sitzgelegenheiten
+- Zahlreiche Sitzgelegenheiten
 - Lounges
 - Restaurants
 - Spielbereich für Kinder
