@@ -91,23 +91,51 @@ Generally, the overnight crossing is more expensive than the day crossing. This 
 
 {{% expander "Find costs online" info %}}
 
+{{% float-image
+  src="determine_costs_1.webp"
+  alt="Step 1"
+  width="40%"
+  position="right"
+%}}
+
 The costs for day and night crossings can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
 
-![Step 1](./determine_costs_1.webp)
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_2.webp"
+  alt="Step 2"
+  width="40%"
+  position="right"
+%}}
 
 In the next step, you need to switch to the old booking system. The new booking system does not show a detailed cost breakdown.
 
-![Step 2](./determine_costs_2.webp)
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_3.webp"
+  alt="Step 3"
+  width="40%"
+  position="right"
+%}}
 
 Then you can proceed through the booking steps. When choosing the fare, you can select Flexi or Economy.
 
-![Step 3](./determine_costs_3.webp)
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_4.webp"
+  alt="Step 4"
+  width="40%"
+  position="right"
+%}}
 
 After selecting all desired additional options and cabins, you will receive a cost breakdown in the sidebar. With a FIP Coupon, the travel costs (listed as Economy or Flexi) are set to 0, while the remaining amount stays the same. Therefore, the travel costs can simply be subtracted to determine the costs with a FIP Coupon.
 
-![Step 4](./determine_costs_4.webp)
+As of 22.12.2025, port fees are £3 / €3 and environmental charges are £10.30 / €12 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
 
-As of 22.12.2025, port fees are £3 or €3 and environmental charges are £10.30 / €12 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
+{{% /float-image %}}
 
 {{% /expander %}}
 
