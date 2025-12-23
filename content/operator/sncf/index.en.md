@@ -11,7 +11,7 @@ country:
 operator: "sncf"
 ---
 
-SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in France. It operates almost all long-distance and regional trains in France.
+SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.
 
 ## Summary
 
@@ -37,6 +37,7 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 ### Long-distance
 
 {{% train-category
+  id="tgv-inoui"
   title="Train à grande vitesse inOui (TGV inOui)"
   type="highspeed"
   fip_accepted=true
@@ -54,7 +55,7 @@ Special conditions apply for international connections, see [International TGV i
 
 {{% /highlight %}}
 
-### Reservation
+#### Reservation
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -67,6 +68,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 {{% /train-category %}}
 
 {{% train-category
+  id="ouigo"
   title="OUIGO (Grande Vitesse / Train Classique)"
   type="highspeed"
   fip_accepted=false
@@ -81,6 +83,7 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
 {{% /train-category %}}
 
 {{% train-category
+  id="ice"
   title="Intercity-Express (ICE)"
   type="highspeed"
   fip_accepted=true
@@ -92,7 +95,7 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 {{% /highlight %}}
 
-### Reservation
+#### Reservation
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -105,6 +108,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 {{% /train-category %}}
 
 {{% train-category
+  id="intercites"
   title="Intercité (IC)"
   type="highspeed"
   fip_accepted=true
@@ -114,7 +118,7 @@ Intercity trains operated by SNCF, connecting various cities in France, mostly r
 
 SNCF does not provide public information on which `IC` trains require reservations. If in doubt, check with SNCF or purchase a reservation.
 
-### Reservation
+#### Reservation
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -127,6 +131,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 {{% /train-category %}}
 
 {{% train-category
+  id="intercites-de-nuit"
   title="Intercité de nuit"
   type="sleeper"
   fip_accepted=true
@@ -134,7 +139,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 %}}
 SNCF night trains within France. International Nightjet connections ended in December 2025.
 
-### Reservation
+#### Reservation
 
 Cost depends on route and occupancy.
 
@@ -143,6 +148,7 @@ Cost depends on route and occupancy.
 ### Regional
 
 {{% train-category
+  id="ter"
   title="Train express régional (TER)"
   type="regional"
   fip_accepted=true
@@ -157,6 +163,7 @@ On the Marseille – Nice route, Transdev operates the trains, so FIP is not acc
 {{% /train-category %}}
 
 {{% train-category
+  id="rer"
   title="Réseau Express Régional (RER)"
   type="regional"
   fip_accepted=partially
@@ -237,6 +244,7 @@ This reservation requirement applies to the following lines:
 ### International TGV inOui / ICE trains
 
 {{% train-category
+  id="tgv-ice-germany"
   title="TGV/ICE trains to Germany"
   type="highspeed"
   fip_accepted=true
@@ -246,6 +254,7 @@ International `TGV` and `ICE` trains are reservation-required in the French sect
 {{% /train-category %}}
 
 {{% train-category
+  id="tgv-italy-spain-belgium"
   title="TGV trains to Italy, Spain, and Belgium"
   type="highspeed"
   fip_accepted=partially
@@ -255,6 +264,7 @@ International `TGV` services from France to Italy, Spain, or Belgium are reserva
 {{% /train-category %}}
 
 {{% train-category
+  id="tgv-lyria"
   title="TGV Lyria trains to Switzerland"
   type="highspeed"
   fip_accepted=partially
@@ -270,6 +280,7 @@ International `TGV` Lyria services from France to Switzerland are reservation-re
 RATP operates the Paris Métro, bus lines, and part of the tram and RER networks. SNCF operates the rest of the RER network and some tram lines. FIP discounts do not apply on RATP services.
 
 {{% train-category
+  id="rer-paris"
   title="RER trains"
   type="regional"
   fip_accepted=partially
@@ -287,6 +298,7 @@ Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-
 {{% /train-category %}}
 
 {{% train-category
+  id="transilien"
   title="Transilien trains"
   type="regional"
   fip_accepted=true
@@ -296,6 +308,7 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
 {{% /train-category %}}
 
 {{% train-category
+  id="trams-paris"
   title="Trams"
   type="tram"
   fip_accepted=partially

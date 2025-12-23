@@ -13,13 +13,13 @@ Damit FIP Fahrvergünstigungen genutzt werden können, muss die Berechtigung fü
 {{% highlight important %}}
 Im Folgenden erklären wir die allgemeinen FIP Grundlagen. Abweichende Informationen können je nach Land oder Bahngesellschaft auftreten. Vor einer Reise solltest du dich immer mit den Regeln des jeweiligen Eisenbahnverkehrsunternehmens in dem Land vertraut machen. Dabei hilft der FIP Guide:
 
-- [Übersicht der Bahngesellschaften]({{% ref "/operator"%}} "Übersicht Bahngesellschaften" )
-- [Übersicht der Länder]({{% ref "/country" %}} "Übersicht Länder" )
+- [Übersicht der Bahngesellschaften](/operator "Übersicht Bahngesellschaften")
+- [Übersicht der Länder](/country "Übersicht Länder")
   {{% /highlight %}}
 
 FIP Vergünstigungen gelten häufig nur für im Eisenbahnverkehr und nicht für Busse, U-Bahnen oder Straßenbahnen. Hierbei kann es jedoch Ausnahmen geben, die auf den jeweiligen Betreiberseiten beschrieben sind.
 
-Für die Nutzung von FIP Vergünstigungen ist es relevant, von welcher Bahngesellschaft ein Zug betrieben wird. Es gibt grenzüberschreitende Kooperationszüge, die in zwei Ländern von unterschiedlichen Bahngesellschaften betrieben werden (z. B. viele `EC` Verbindungen). Auf den [Länderseiten im FIP Guide]({{% ref "/country" %}} "Länderseiten im FIP Guide" ) wird beschrieben, wie im jeweiligen Land herausgefunden werden kann, wer der Betreiber eines Zuges ist. Allgemein sind dabei auch die Websites der Betreiber hilfreich. Die [Website der Deutschen Bahn](https://bahn.de) zeigt viele europäischen Verbindungen und ihre Betreiber an.
+Für die Nutzung von FIP Vergünstigungen ist es relevant, von welcher Bahngesellschaft ein Zug betrieben wird. Es gibt grenzüberschreitende Kooperationszüge, die in zwei Ländern von unterschiedlichen Bahngesellschaften betrieben werden (z. B. viele `EC` Verbindungen). Auf den [Länderseiten im FIP Guide](/country "Länderseiten im FIP Guide") wird beschrieben, wie im jeweiligen Land herausgefunden werden kann, wer der Betreiber eines Zuges ist. Allgemein sind dabei auch die Websites der Betreiber hilfreich. Die [Website der Deutschen Bahn](https://bahn.de) zeigt viele europäischen Verbindungen und ihre Betreiber an.
 
 {{% highlight important %}}
 Tariflich ist im Regelfall nicht relevant, in welchem Land ein Zug unterwegs ist, sondern von welcher Bahngesellschaft der Zug in welchem Abschnitt betrieben wird. Jedoch findet an Landesgrenzen häufig ein Betreiberwechsel statt. Auf den jeweiligen Länderseiten sind die Grenzpunkte, an denen der Betreiberwechsel stattfindet, beschrieben.
@@ -55,7 +55,7 @@ Offiziell wird der _FIP Ausweis_ für die Nutzung von _FIP Freifahrtsscheinen_ n
 {{% expander "Beispiel für die Nutzung eines FIP Freifahrtscheins" info %}}
 Ich möchte als Mitarbeitender bei einer europäischen Bahngesellschaft (z. B. Deutsche Bahn) an insgesamt acht Tagen mit verschiedenen Zügen innerhalb von Österreich fahren. Dafür muss ich einen FIP Freifahrtschein für die Österreichische Bundesbahn (ÖBB) mit vier Feldern (4 Felder = bis zu 8 Tage Freifahrten bei dem Betreiber) bestellen.
 
-Der FIP Freifahrtschein hat eine Gültigkeit von drei Monaten, ich darf nur in dieser Zeit reisen (Beispiel-Gültigkeit: 10.02.2026–09.05.2026). Ich reise am 01.03.2026 in das Land ein und trage vor der Fahrt im ersten in Österreich genutzten Zug den 01.03.2026 im ersten Feld ein. Damit kann ich nun die Züge der ÖBB am 01.03. und 02.03.2026 nutzen (Ausnahmen und spezielle Regelungen sind auf der jeweiligen [Betreiberseite]({{% ref "/operator"%}} "Betreiberseite") zu finden).
+Der FIP Freifahrtschein hat eine Gültigkeit von drei Monaten, ich darf nur in dieser Zeit reisen (Beispiel-Gültigkeit: 10.02.2026–09.05.2026). Ich reise am 01.03.2026 in das Land ein und trage vor der Fahrt im ersten in Österreich genutzten Zug den 01.03.2026 im ersten Feld ein. Damit kann ich nun die Züge der ÖBB am 01.03. und 02.03.2026 nutzen (Ausnahmen und spezielle Regelungen sind auf der jeweiligen [Betreiberseite](/operator "Betreiberseite") zu finden).
 
 Am 03.03.2026 fahre ich nicht mit dem Zug, dafür wieder am 04.03. Also trage ich den 04.03.2026 im zweiten Feld ein, damit kann ich auch noch am 05.03. fahren. So geht es weiter, bis ich alle vier Felder verbraucht habe. Das letzte Feld nutze ich beispielsweise am 10.03.2026 und fahre damit am 11.03.2026 wieder aus Österreich zurück.
 {{% /expander %}}
@@ -176,7 +176,7 @@ Bitte wende dich für die Beantragung und Inanspruchnahme an deine Personalabtei
 
 {{% expander "Gilt FIP auch für Angehörige?" info "faq" %}}
 
-Abhängig der Vereinbarung zwischen den FIP-Mitgliedern können auch Familienangehörige (Kinder, Lebenspartner) FIP-Vergünstigungen nutzen. Dies wird immer auf den jeweiligen [Betreiberseiten]({{< ref "operator" >}}) mit genannt. Auch Ermäßigungen für Kinder sind hier zu finden.
+Abhängig der Vereinbarung zwischen den FIP-Mitgliedern können auch Familienangehörige (Kinder, Lebenspartner) FIP-Vergünstigungen nutzen. Dies wird immer auf den jeweiligen [Betreiberseiten](operator) mit genannt. Auch Ermäßigungen für Kinder sind hier zu finden.
 
 {{% /expander %}}
 
@@ -195,7 +195,7 @@ Beachte, dass du in der Regel erst ab zwölf Monaten Betriebszugehörigkeit eine
 {{% expander "Welche Vergünstigungen erhalte ich durch FIP?" info "faq" %}}
 
 Mit dem FIP-Ausweis bist du berechtigt, zu vergünstigten Konditionen die Verkehrsmittel des jeweiligen FIP-Mitglieds zu nutzen.
-Es gelten unterschiedliche Regelungen je Betreibergesellschaft. Details erfährst du auf den [Unterseiten der Betreiber]({{< ref "operator" >}}).
+Es gelten unterschiedliche Regelungen je Betreibergesellschaft. Details erfährst du auf den [Unterseiten der Betreiber](operator).
 
 Es gibt verschiedene Arten an Vergünstigungen:
 
@@ -209,7 +209,7 @@ Nicht immer ist eine Fahrt mit FIP die günstigste Option. In manchen Ländern s
 
 {{% expander "Wo erhalte ich vergünstigte Tickets mit dem Berechtigungsausweis?" info "faq" %}}
 Die Bestellung unterscheidet sich je nach Betreiber, zum Beispiel online, telefonisch oder im Reisezentrum.
-Eine genaue Übersicht getrennt nach FIP-Mitgliedern findest du [hier]({{< ref "operator" >}}).
+Eine genaue Übersicht getrennt nach FIP-Mitgliedern findest du [hier](operator).
 {{% /expander %}}
 
 {{% expander "Welche Regelungen gibt es bei FIP Freifahrtscheinen?" info "faq" %}}
@@ -227,7 +227,6 @@ Die Beantragung erfolgt in der Regel über den Personalservice oder das Reisezen
 {{% expander "Wie viele Felder kann ich bei FIP Freifahrtscheinen beantragen?" info "faq" %}}
 Je nach individuellem Bedarf können FIP Freifahrtscheine mit 1 bis 4 Feldern pro FIP-Mitglied beantragt werden.
 Jedes Feld berechtigt zu einer unbegrenzten Anzahl von Fahrten auf dem Streckennetz des jeweiligen Bahn- oder Schifffahrtsunternehmens an einem Tag und dem darauffolgenden Tag.
-Eine Ausnahme bildet die niederländische Schifffahrtsgesellschaft StL: Hier sind mit einem Feld lediglich zwei Überfahrten möglich.
 {{% /expander %}}
 
 {{% expander "Was bedeutet ein Feld auf dem FIP Freifahrtschein?" info "faq" %}}
@@ -246,22 +245,21 @@ Bei der Maximalanzahl von vier Feldern kannst du somit acht Tage unterwegs sein.
 
 {{% expander "Welche Bahngesellschaften akzeptieren FIP?" info "faq" %}}
 
-Über 30 europäische Bahngesellschaften sowie einige Schifffahrtsunternehmen nehmen am FIP-System teil. Eine Liste, welche Unternehmen dabei sind, findest du im FIP Guide in der [Liste der Betreibergesellschaften]({{< ref "operator" >}}).
-Informationen für dein Reiseziel findest du auf unserer [Länderseite]({{< ref "country" >}}).
+Über 30 europäische Bahngesellschaften sowie einige Schifffahrtsunternehmen nehmen am FIP-System teil. Eine Liste, welche Unternehmen dabei sind, findest du im FIP Guide in der [Liste der Betreibergesellschaften](operator).
+Informationen für dein Reiseziel findest du auf unserer [Länderseite](country).
 
 {{% /expander %}}
 
 {{% expander "Gibt es Ausnahmen bei der Nutzung von FIP Freifahrtscheinen?" info "faq" %}}
 Ja. Bei einigen Unternehmen sind keine FIP Freifahrtscheine nutzbar, bei anderen gelten diese nur für bestimmte Zugkategorien.
-Die niederländische Schifffahrtsgesellschaft StL erlaubt nur zwei Überfahrten pro Feld.
 
-Details zu den Regelungen der FIP-Mitglieder findest du auf den [Unterseiten der Betreiber]({{< ref "operator" >}}).
+Details zu den Regelungen der FIP-Mitglieder findest du auf den [Unterseiten der Betreiber](operator).
 
 {{% /expander %}}
 
 {{% expander "Benötige ich eine Reservierung, um Züge nutzen zu können?" info "faq" %}}
 
-Für viele Züge, meist Hochgeschwindigkeits- und Nachtzüge, ist eine Reservierung erforderlich. Eine Übersicht erhältst du auf der jeweiligen Seite des [Betreibers]({{< ref "operator" >}}).
+Für viele Züge, meist Hochgeschwindigkeits- und Nachtzüge, ist eine Reservierung erforderlich. Eine Übersicht erhältst du auf der jeweiligen Seite des [Betreibers](operator).
 
 {{% /expander %}}
 

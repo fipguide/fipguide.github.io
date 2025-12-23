@@ -6,7 +6,7 @@ country:
 operator: "sncb"
 ---
 
-La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maatschappij der Belgische Spoorwegen) est l’opérateur ferroviaire national belge et le plus important du pays.
+La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maatschappij der Belgische Spoorwegen) est l’opérateur ferroviaire national belge et le plus important de [Belgique](/country/belgium "Belgique").
 
 ## Résumé
 
@@ -107,11 +107,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-website-fip-db"
-  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique, avec part de billet uniquement pour la section belge. Réservé aux employés de la Deutsche Bahn."
+  subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Belgique, avec part de billet uniquement pour la section belge. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Belgique pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)."
+  subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Belgique pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)."
 /%}}
 
 ### Par téléphone
@@ -126,7 +126,7 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 ### À bord du train
 
-Si aucun guichet n'est disponible ou ouvert, un billet peut être acheté à bord du train auprès du contrôleur si celui-ci est abordé immédiatement. Le supplément SNCB habituel pour les ventes à bord n'est pas facturé dans ce cas. [^2]
+Si aucun guichet n’est disponible ou ouvert, un billet peut être acheté à bord du train auprès du contrôleur si celui-ci est abordé immédiatement. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé dans ce cas. [^2]
 
 ## Réductions
 
@@ -136,7 +136,7 @@ Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. L
 
 ### Aéroport de Bruxelles-Zaventem
 
-Un supplément de 6,70 € est requis pour les trajets à destination ou en provenance de l'aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d'un Billet FIP 50. [^1] [Plus d'infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
+Un supplément de 6,70 € est requis pour les trajets à destination ou en provenance de l’aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d’un Billet FIP 50. [^1] [Plus d’infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
 ## Recommandation
 
@@ -148,4 +148,4 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [Retours d'expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)

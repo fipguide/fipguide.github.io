@@ -14,7 +14,7 @@ params:
 
 ## Informations FIP
 
-La Tchéquie n’est pas le pays le plus simple pour utiliser la FIP, mais il reste tout à fait possible d’y voyager avec. La compagnie nationale České dráhy ([ČD]({{< ref "/operator/cd" >}} "ČD")) est le seul opérateur FIP du pays, mais elle exploite aussi une grande partie du réseau ferroviaire.
+La Tchéquie n’est pas le pays le plus simple pour utiliser la FIP, mais il reste tout à fait possible d’y voyager avec. La compagnie nationale České dráhy ([ČD](/operator/cd "ČD")) est le seul opérateur FIP du pays, mais elle exploite aussi une grande partie du réseau ferroviaire.
 
 Attention, la FIP n’est plus valable sur toutes les lignes exploitées par la ČD. Il existe aussi certains _services commerciaux_ nécessitant un supplément. Avec un Coupon FIP, il faut tenir compte de toutes ces exceptions, tandis que les Billets FIP 50 vendus par la ČD devraient permettre d’identifier plus facilement les trains valables. Les opérateurs privés comme Arriva ou Die Länderbahn n’acceptent pas du tout la FIP, mais les billets en Tchéquie restent généralement très abordables.
 

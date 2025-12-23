@@ -1,4 +1,5 @@
 {{- $data := dict
+  "id" (.Get "id")
   "title" (.Get "title")
   "type" (default "regional" (.Get "type"))
   "fip_accepted" (default true (.Get "fip_accepted"))
