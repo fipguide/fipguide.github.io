@@ -6,7 +6,7 @@ country:
 operator: "cd"
 ---
 
-Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der Tschechischen Republik und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.
+Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechischen Republik](/country/czechia "Tschechischen Republik") und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.
 
 ## Zusammenfassung
 
@@ -26,7 +26,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. B
 {{% highlight important %}}
 Auf einigen Routen und Regionen gelten keine FIP Fahrkarten, obwohl die Verbindungen von der ČD betrieben werden.
 
-Weiter Informationen: [Verbindungen der ČD ohne FIP]({{% ref "#verbindungen-der-čd-ohne-fip" %}})
+Weiter Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip)
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen

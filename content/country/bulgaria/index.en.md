@@ -9,7 +9,7 @@ params:
 
 ## FIP Information
 
-In Bulgaria, FIP can be used relatively easily, but online booking options are very limited. The Bulgarian State Railways Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) is currently almost the only passenger rail operator in the country. FIP is accepted here. With a valid FIP Coupon, you only need to buy reservations for reservation-required trains at the ticket office. FIP 50 Tickets can also be purchased at the ticket office. For international journeys, the required tickets are only available at special international ticket counters at major stations.
+In Bulgaria, FIP can be used relatively easily, but online booking options are very limited. The Bulgarian State Railways Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) is currently almost the only passenger rail operator in the country. FIP is accepted here. With a valid FIP Coupon, you only need to buy reservations for reservation-required trains at the ticket office. FIP 50 Tickets can also be purchased at the ticket office. For international journeys, the required tickets are only available at special international ticket counters at major stations.
 
 ## Interesting
 
