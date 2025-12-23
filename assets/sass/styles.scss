@@ -248,6 +248,10 @@ img {
     li {
       break-inside: avoid-column;
     }
+
+    img {
+      display: block;
+    }
   }
 }
 
