@@ -32,7 +32,7 @@ Bei der Buchung muss über die Verbindungsauskunft erst eine Verbindung ausgewä
 
 ![Mehr Angebote anzeigen](reservation_1.webp)
 ![Tarif wählen](reservation_2.webp)
-{.o-section--columns-2}
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

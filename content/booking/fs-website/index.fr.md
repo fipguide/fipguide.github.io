@@ -32,7 +32,7 @@ Lors de la réservation, il faut d’abord sélectionner une connexion via la re
 
 ![Afficher plus d’offres](reservation_1.webp)
 ![Choisir le tarif](reservation_2.webp)
-{.o-section--columns-2}
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

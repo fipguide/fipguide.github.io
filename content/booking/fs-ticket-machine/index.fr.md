@@ -31,7 +31,7 @@ Sur l’écran d’accueil du distributeur, sélectionnez "Buy your tickets / Sp
 ![Écran d’accueil](machine_1.webp)
 ![Choisir le tarif](machine_2.webp)
 ![Choisir Diritto Ammissione Non FS](machine_3.webp)
-{.o-section--columns-3}
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

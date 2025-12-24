@@ -31,7 +31,7 @@ Auf dem Startbildschirm des Automaten "Buy your tickets / Special Discounts" wä
 ![Startbildschirm](machine_1.webp)
 ![Tarif wählen](machine_2.webp)
 ![Diritto Ammissione Non FS wählen](machine_3.webp)
-{.o-section--columns-3}
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

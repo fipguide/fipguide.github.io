@@ -32,7 +32,7 @@ When booking, you must first select a connection via the journey planner. Then, 
 
 ![Show more offers](reservation_1.webp)
 ![Select fare](reservation_2.webp)
-{.o-section--columns-2}
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

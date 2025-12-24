@@ -31,7 +31,7 @@ On the machine's start screen, select "Buy your tickets / Special Discounts". Th
 ![Start screen](machine_1.webp)
 ![Select fare](machine_2.webp)
 ![Select Diritto Ammissione Non FS](machine_3.webp)
-{.o-section--columns-3}
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 
