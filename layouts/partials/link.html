@@ -5,7 +5,7 @@
     target="_blank"
     rel="noopener noreferrer external"
     class="o-link__external"
-    {{ with .Title }}title="{{ . }}"{{ end }}
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
   >
     {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
   </a>
@@ -13,7 +13,7 @@
   <a
     href="{{ $url }}"
     class="o-link__mail"
-    {{ with .Title }}title="{{ . }}"{{ end }}
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
   >
     {{- partial "icon" "mail" -}}{{- .Text -}}
   </a>
@@ -21,14 +21,14 @@
   <a
     href="{{ $url | safeURL }}"
     class="o-link__tel"
-    {{ with .Title }}title="{{ . }}"{{ end }}
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
   >
     {{- partial "icon" "call" -}}{{- .Text -}}
   </a>
 {{- else -}}
   <a
     href="{{ .Page.Ref (dict "path" $url) }}"
-    {{ with .Title }}title="{{ . }}"{{ end }}
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
   >
     {{- .Text -}}
   </a>
