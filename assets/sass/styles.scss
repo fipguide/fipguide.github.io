@@ -388,6 +388,13 @@ details > summary {
   }
 }
 
+.o-link__mail,
+.o-link__tel {
+  & > .material-symbols-rounded {
+    margin-right: 0.4rem;
+  }
+}
+
 .overlay--show {
   backdrop-filter: blur(4px);
   background-color: rgba(0, 0, 0, 0.6);
