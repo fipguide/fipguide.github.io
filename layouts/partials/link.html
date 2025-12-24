@@ -1,7 +1,18 @@
-<a
-  href="{{ .Destination }}"
-  target="_blank"
-  rel="noopener noreferrer external"
-  class="o-link__external"
-  >{{- .Text -}}{{- partial "icon" "arrow_outward" -}}</a
->
+{{- $url := .Destination -}}
+{{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
+  <a
+    href="{{ .Destination }}"
+    target="_blank"
+    rel="noopener noreferrer external"
+    class="o-link__external"
+  >
+    {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
+  </a>
+{{- else -}}
+  <a
+    href="{{ .Page.Ref (dict "path" $url) }}"
+    {{ with .Title }}title="{{ . }}"{{ end }}
+  >
+    {{- .Text -}}
+  </a>
+{{- end -}}
