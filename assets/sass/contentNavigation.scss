@@ -198,6 +198,16 @@
 
   main.o-newspage .o-aside,
   main.o-bookingpage .o-aside {
-    display: none;
+    order: 1;
+    position: relative;
+    display: flex;
+    transform: unset;
+    box-shadow: unset;
+  }
+
+  main.o-newspage .o-aside {
+    img {
+      display: none;
+    }
   }
 }
