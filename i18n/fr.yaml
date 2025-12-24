@@ -14,6 +14,16 @@ booking:
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+contact:
+  emailLabel: 'E-mail :'
+  emailSubject: Nouveau message depuis FIP Guide
+  formAriaLabel: Formulaire de contact
+  messageLabel: 'Message :'
+  nameLabel: 'Nom :'
+  submitButton: Envoyer
+  successMessage: >-
+    Merci ! Votre message a été envoyé avec succès. Nous vous répondrons dès que
+    possible.
 contentNavigation:
   button: Ouvrir et fermer l’aperçu du contenu
   relatedCountries: Pays dans lesquels l'opérateur est actif

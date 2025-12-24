@@ -14,6 +14,16 @@ booking:
   reservation-costs: Reservierungskosten
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+contact:
+  emailLabel: 'E-Mail-Adresse:'
+  emailSubject: Neue Nachricht vom FIP Guide
+  formAriaLabel: Kontaktformular
+  messageLabel: 'Nachricht:'
+  nameLabel: 'Name:'
+  submitButton: Absenden
+  successMessage: >-
+    Vielen Dank! Deine Nachricht wurde erfolgreich gesendet. Wir melden uns
+    schnellstmöglich zurück.
 contentNavigation:
   button: Inhaltsübersicht öffnen und schließen
   relatedCountries: Länder, in den der Betreibers aktiv ist

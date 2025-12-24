@@ -14,6 +14,16 @@ booking:
   reservation-costs: Reservation Costs
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+contact:
+  emailLabel: 'Email:'
+  emailSubject: New Message from FIP Guide
+  formAriaLabel: Contact Form
+  messageLabel: 'Message:'
+  nameLabel: 'Name:'
+  submitButton: Submit
+  successMessage: >-
+    Thank you! Your message has been sent successfully. We'll get back to you as
+    soon as possible.
 contentNavigation:
   button: Open and close content overview
   relatedCountries: Countries in which the operator is active
