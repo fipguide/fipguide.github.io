@@ -19,8 +19,9 @@ body {
   }
 }
 @media (max-width: #{$breakpoint-lg}) {
-  body:has(article.o-single--with-sidemenu):not(:has(.o-newspage)),
-  body:has(article.o-single--with-sidemenu):not(:has(.o-bookingpage)) {
+  body:has(
+    main:not(.o-newspage, .o-bookingpage) article.o-single--with-sidemenu
+  ) {
     margin: 0 0 calc(7rem + env(safe-area-inset-bottom)) 0;
   }
 }

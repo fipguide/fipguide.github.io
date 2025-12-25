@@ -8,6 +8,7 @@ params:
     - Breng
     - Connexxion
     - European Sleeper
+    - GoVolta
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
@@ -58,3 +59,9 @@ Sur les lignes `RE` Hamm – Venlo et Düsseldorf – Arnhem, le Deutschlandtick
 Depuis la Belgique, les trains régionaux transfrontaliers (y compris les `IC`) sont utilisables, avec un Billet FIP SNCB pour la partie belge. Les trains grandes lignes (`ECD` et `EC`) exigent parfois un supplément, notamment sur l’axe Rotterdam – Schiphol.
 
 L’Eurostar (anciennement Thalys) permet aussi de rejoindre la Belgique depuis les Pays-Bas. Un Billet FIP spécial Eurostar est alors requis pour tout le trajet, y compris la partie néerlandaise. ([voir Eurostar](/operator/eurostar "Eurostar"))
+
+### Royaume-Uni
+
+Depuis London St. Pancras, des trains [Eurostar](/operator/eurostar "Eurostar") directs relient Amsterdam et Rotterdam. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
+
+De plus, une [liaison par ferry](/operator/stl "liaison par ferry") relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
