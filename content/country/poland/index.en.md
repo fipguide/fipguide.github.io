@@ -5,7 +5,7 @@ country: "poland"
 params:
   operators_without_fip:
     - Arriva
-    - LeoExpress
+    - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
 ---

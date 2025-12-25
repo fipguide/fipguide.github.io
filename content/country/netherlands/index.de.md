@@ -8,6 +8,7 @@ params:
     - Breng
     - Connexxion
     - European Sleeper
+    - GoVolta
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
