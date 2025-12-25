@@ -321,10 +321,6 @@ Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. T
 
 Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
 
-### Léman Express
-
-International `TER` trains between France and Geneva in Switzerland are marketed as Léman Express and operated jointly by SNCF and SBB. FIP discounts apply throughout the Léman Express network. SNCF FIP Coupons are also valid on the Swiss section.
-
 ### Bus Services
 
 FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). [^1]

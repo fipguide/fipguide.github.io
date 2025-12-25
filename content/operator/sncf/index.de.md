@@ -320,10 +320,6 @@ Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit 
 
 Vergünstigte FIP Tickets für `RER`, Transilien-Züge und Straßenbahnen können an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Züge und Straßenbahnen mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter eine kostenlose _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
 
-### Léman Express
-
-Zwischen Frankreich und Genf in der Schweiz verkehren internationale `TER` Züge, die als Léman Express vermarktet werden. Die Züge werden im Rahmen einer Kooperation zwischen SNCF und SBB betrieben. FIP Vergünstigungen gelten im gesamten Léman Express Netz. FIP Freifahrtscheine der SNCF gelten auch im Schweizer Teil des Léman Expresses.
-
 ### Busverkehr
 
 FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. BlaBlaCar Bus). [^1]

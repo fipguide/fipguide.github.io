@@ -321,10 +321,6 @@ Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les 
 
 Les Billets FIP à tarif réduit pour `RER`, Transilien et tramways peuvent être achetés aux guichets Transilien. Lors de l’utilisation de ces services avec un Coupon FIP SNCF, il faut retirer une _Contremarque de Passage_ (carte d’accès temporaire) gratuite au guichet Transilien pour chaque trajet. Généralement, seules quelques cartes sont délivrées à la fois.
 
-### Léman Express
-
-Les trains internationaux `TER` entre la France et Genève en Suisse sont commercialisés sous le nom Léman Express et exploités conjointement par la SNCF et les CFF. Les réductions FIP sont valables sur tout le réseau Léman Express. Les Coupons FIP SNCF sont aussi valables sur la partie suisse.
-
 ### Bus SNCF
 
 Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). [^1]
