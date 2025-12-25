@@ -32,7 +32,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der LTG-Link gült
 {{% highlight tip %}}
 FIP 50 Tickets und Freifahrtscheine von LTG-Link gelten auch in Zügen von LTG-Link auf der Strecke Vilnius – Riga.[^1]
 
-Ab Riga bis Valga verkehren die Züge von LTG-Link im Auftrag von Vivi (Latvian Railways). FIP Vergünstigungen sind daher dort nicht gültig. Bein der Buchung sollte der Abschnitt getrennt gebucht werden, damit für die restliche Strecke FIP Vergünstigungen bei der Buchung berücksichtigt werden.
+Ab Riga bis Valga verkehren die Züge von LTG-Link im Auftrag von Vivi (Latvian Railways). FIP Vergünstigungen sind daher dort nicht gültig. Bei der Buchung sollte der Abschnitt getrennt gebucht werden, damit für die restliche Strecke FIP Vergünstigungen bei der Buchung berücksichtigt werden.
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
