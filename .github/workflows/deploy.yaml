@@ -68,7 +68,7 @@ jobs:
             --panicOnWarning \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Create custom 404 page
-        run: cp public/en/404.html public/404.html
+        run: cp public/404/index.html public/404.html
       - name: Initialize search index
         run: npx -y pagefind --site public
       - name: Upload artifact

@@ -9,6 +9,6 @@ Probiere folgende Dinge:
 - **URL überprüfen:** Stelle sicher, dass die Adresse keine Tippfehler enthält.
 - **Zur Startseite:** Kehre zur Startseite zurück und navigiere von dort aus.
 - **Navigation nutzen:** Nutze das Menü oder die Suchfunktion.
-- **Kontaktieren Sie uns:** Bei Fragen oder Problemen kannst du dich gerne an uns wenden: [nextstop@fipguide.org](mailto:nextstop@fipguide.org)
+- **Kontaktiere uns:** Bei Fragen oder Problemen kannst du dich gerne an uns wenden: [nextstop@fipguide.org](mailto:nextstop@fipguide.org)
 
 Wir helfen dir gerne!
