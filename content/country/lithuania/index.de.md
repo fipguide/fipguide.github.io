@@ -54,6 +54,6 @@ Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzpla
 
 ### Lettland
 
-Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. Zwischen Vilinus und Riga gelten auch FIP Vergünstigungen von LTG-Link ([siehe Gültigkeit FIP Tickets](/operator/ltg#gültigkeit-fip-tickets)). Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)). In Valga besteht dann direkter Anschluss von/nach Tartu und Tallinn.
+Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. Zwischen Vilinus und Riga gelten auch FIP Vergünstigungen von LTG-Link ([siehe Gültigkeit FIP Tickets](/operator/ltg#gültigkeit-fip-tickets)). Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
 
 Seit Sommer 2025 wird über eine Weiterführung der Züge Vilnius – Turmantas bis ins lettische Daugavpils verhandelt.
