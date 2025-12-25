@@ -32,8 +32,8 @@ Lettlands Eisenbahnnetz basiert auf der 1520 mm‑Breitspur. Der Personenverke
 
 Von Tallin fahren Züge der estnischen Eisenbahngesellschaft Elron bis zum lettisch-estnischen Grenzbahnhof Valga. Von dort besteht Anschluss zu Zügen nach Riga und Vilnius. In Estland gelten keine FIP-Vergünstigungen.
 
-### Lettland
+### Litauen
 
-Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. In Valga besteht direkter Anschluss von/nach Tartu und Tallinn. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
+Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. Zwischen Vilinus und Riga gelten auch FIP Vergünstigungen von LTG-Link ([siehe Gültigkeit FIP Tickets](/operator/ltg#gültigkeit-fip-tickets)). In Valga besteht direkter Anschluss von/nach Tartu und Tallinn. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
 
 Seit Sommer 2025 wird über eine Weiterführung der Züge Vilnius – Turmantas bis ins lettische Daugavpils verhandelt.
