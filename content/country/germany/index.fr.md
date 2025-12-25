@@ -32,12 +32,14 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
+    - GoVolta
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
+    - Leo Express
     - Mecklenburgische Bäderbahn Molli – MBB
     - metronom – ME
     - Mitteldeutsche Regiobahn – MRB
@@ -180,7 +182,7 @@ Il existe aussi un bus CFL Luxembourg – Sarrebruck, sans réduction FIP.
 
 ### Pays-Bas
 
-Depuis Amsterdam, l’`ICE` transfrontalier vers Francfort / Cologne / Düsseldorf permet de rejoindre le réseau DB. Pour les trajets transfrontaliers, des Coupons FIP NS et DB sont nécessaires.
+Depuis Amsterdam, l’`ICE` transfrontalier vers Francfort / Cologne / Düsseldorf ou Berlin / Hanovre permet de rejoindre le réseau DB. Pour les trajets transfrontaliers, des Coupons FIP NS et DB sont nécessaires.
 
 Il existe aussi divers trains régionaux, mais seuls deux acceptent le FIP :
 

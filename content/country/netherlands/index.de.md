@@ -8,6 +8,7 @@ params:
     - Breng
     - Connexxion
     - European Sleeper
+    - GoVolta
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
@@ -42,7 +43,7 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 
 ### Deutschland
 
-Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt / Köln / Düsseldorf aus genutzt werden, um ins Netz der NS zu kommen. Bei grenzüberschreitenden Fahrten wird hier noch ein zusätzliches Ticket der DB benötigt.
+Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt / Köln / Düsseldorf oder Berlin / Hannover aus genutzt werden, um ins Netz der NS zu kommen. Bei grenzüberschreitenden Fahrten wird hier noch ein zusätzliches Ticket der DB benötigt.
 
 Darüber hinaus gibt es diverse Regionalzüge, jedoch nur zwei, auf dem FIP gültig ist:
 
@@ -58,3 +59,9 @@ Auf den `RE` Verbindungen Hamm - Venlo und Düsseldorf - Arnhem gilt derweil das
 Von Belgien aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der `IC`) genutzt werden, dafür wird ein zusätzliches FIP Ticket der SNCB benötigt. Darüber hinaus verkehren Fernzüge (`ECD` und `EC`), bei denen ein zusätzlicher Aufschlag dazukommen kann, wenn hier auf der Achse Rotterdam - Schiphol gefahren wird.
 
 Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb der Niederlande) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))
+
+### Vereinigtes Königreich
+
+Von London St. Pancras verkehren durchgängige [Eurostar](/operator/eurostar "Eurostar") Züge nach Amsterdam und Rotterdam. Die Eurostar Züge sind immer reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
+
+Zusätzlich verkehrt ab Harwich eine [Fährverbindung](/operator/stl "Fährverbindung") nach Hoek van Holland, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die von Hoek van Holland in Richtung Rotterdam / Nesselande verkehrende RET Metro keine FIP Vergünstigungen gewährt.
