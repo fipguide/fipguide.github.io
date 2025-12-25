@@ -9,7 +9,7 @@ params:
 
 ## FIP Nutzung
 
-In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buchungsmöglichkeiten sind sehr eingeschränkt. Die bulgarische Staatsbahn Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) ist derzeit fast das einzige Eisenbahnverkehrsunternehmen mit Personenverkehr in dem Land. FIP wird hier anerkannt. Mit einem vorhandenen FIP Freifahrtschein müssen lediglich bei reservierungspflichtigen Zügen Reservierungen vor Ort am Fahrkartenschalter erworben werden. FIP 50 Tickets können ebenfalls am Fahrkartenschalter erworben werden. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten lediglich an speziell dafür ausgelegte Fahrkartenschaltern an großen Bahnhöfen.
+In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buchungsmöglichkeiten sind sehr eingeschränkt. Die bulgarische Staatsbahn Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) ist derzeit fast das einzige Eisenbahnverkehrsunternehmen mit Personenverkehr in dem Land. FIP wird hier anerkannt. Mit einem vorhandenen FIP Freifahrtschein müssen lediglich bei reservierungspflichtigen Zügen Reservierungen vor Ort am Fahrkartenschalter erworben werden. FIP 50 Tickets können ebenfalls am Fahrkartenschalter erworben werden. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten lediglich an speziell dafür ausgelegte Fahrkartenschaltern an großen Bahnhöfen.
 
 ## Wissenswertes
 

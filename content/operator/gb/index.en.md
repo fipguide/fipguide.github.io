@@ -6,7 +6,7 @@ country:
 operator: "gb"
 ---
 
-There are many different railway companies in Great Britain, collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
+There are many different railway companies in [Great Britain](/country/united-kingdom "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
 
 ## Summary
 
@@ -243,6 +243,11 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   These tickets are heavily discounted but only valid for the selected train. Tickets can be purchased up to 10 minutes before departure. FIP 50 Discount does not apply to these tickets.
 - **Rovers:** \
   Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 Discount is only granted on request.
+
+{{% highlight inofficial %}}
+[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers. [^3]
+{{% /highlight %}}
+
 - **Season Tickets and London Tickets:** \
   Unlimited travel between two stations for a set period or within specified London zones for a set period. FIP 50 Discount is not available.
 
@@ -371,3 +376,5 @@ Great Britain can also be explored by night trains:
 [^1]: [Rail Delivery Group Guide for visitors to Britain using FIP](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
+
+[^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)

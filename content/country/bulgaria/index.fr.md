@@ -9,7 +9,7 @@ params:
 
 ## Informations FIP
 
-En Bulgarie, la FIP est relativement simple à utiliser, mais les possibilités de réservation en ligne sont très limitées. Les chemins de fer nationaux bulgares Balgarski Darschawni Schelesnizi ([BDŽ]({{< ref "/operator/bdz" >}} "BDZ")) sont actuellement presque le seul opérateur de trains de voyageurs dans le pays. La FIP y est acceptée. Avec un Coupon FIP valide, il suffit d’acheter les réservations pour les trains à réservation obligatoire au guichet. Les Billets FIP 50 peuvent également être achetés au guichet. Pour les voyages internationaux, les billets nécessaires ne sont disponibles qu’aux guichets internationaux spécialisés dans les grandes gares.
+En Bulgarie, la FIP est relativement simple à utiliser, mais les possibilités de réservation en ligne sont très limitées. Les chemins de fer nationaux bulgares Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) sont actuellement presque le seul opérateur de trains de voyageurs dans le pays. La FIP y est acceptée. Avec un Coupon FIP valide, il suffit d’acheter les réservations pour les trains à réservation obligatoire au guichet. Les Billets FIP 50 peuvent également être achetés au guichet. Pour les voyages internationaux, les billets nécessaires ne sont disponibles qu’aux guichets internationaux spécialisés dans les grandes gares.
 
 ## Informations générales
 

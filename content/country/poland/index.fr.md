@@ -5,14 +5,14 @@ country: "poland"
 params:
   operators_without_fip:
     - Arriva
-    - LeoExpress
+    - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
 ---
 
 ## Informations FIP
 
-La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP]({{< ref "/operator/pkp" >}} "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM). Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
+La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM). Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
 
 - Koleje Dolnośląskie (KD)
 - Koleje Śląskie (KS)

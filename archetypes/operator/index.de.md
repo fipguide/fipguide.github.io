@@ -45,37 +45,67 @@ FIP Globalpreis: <✅/⛔>
 ## Zugkategorien und Reservierungen
 
 <!--
-  Sind Reservierungen möglich und wo besteht eine Reservierungspflicht?
+  Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden. Folgende Parameter können übergeben werden:
+  - `id`: Kleingeschriebene, mit Bindestrichen getrennte Abkürzung der Zugkategorie (z.B. "ice", "tgv-inoui")
+  - `title`: Titel der Zugkategorie
+  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` oder `ship`
+  - `fip_accepted`: true, false, partially
+  - `reservation_required`: true, false, partially
+  - `reservation_possible`: true, false, partially (default false, kann weggelassen werden, wenn  reservation_required true ist)
+  - `route_overview_url`: Link zu einer Seite mit einer Übersicht der Routen dieser Kategorie (kann weggelassen werden, wenn nicht vorhanden)
+  - `additional_information_url`: Link zu einer Seite mit zusätzlichen Informationen zu dieser Kategorie (kann weggelassen werden, wenn nicht vorhanden)
+-->
+
+{{% train-category
+    id="expander-id"
+    title="title"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    route_overview_url="https://example.com"
+    additional_information_url="https://example.com"
+%}}
+
+<!--
+  Hier kann eine Beschreibung der Zugkategorie ergänzt werden.
+-->
+
+{{% highlight confusion %}}
+Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird.
+{{% /highlight %}}
+
+{{% highlight important %}}
+Hier können weitere wichtige Informationen ergänzt werden.
+{{% /highlight %}}
+
+#### Reservierung
+
+<!--
+  Beschreibung der Reservierungsbedingung für diese Zugkategorie.
+-->
+
+#### Strecken im Linienverkehr
+
+<!--
+  Auflistung aller Strecken dieser Zugkategorie im Linienverkehr.
+
+  Bei teilweiser FIP-Gültigkeit können die folgenden Unterüberschriften verwendet werden:
 -->
 
 <!--
-  Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden.
-  Im Titel können folgende Emojis verwendet werden:
-  - ⚠️ für eine generelle Reservierungspflicht oder Zuschläge
-  - 1️⃣ für eine Reservierungspflicht in der 1. Klasse
-  - ⛔ für eine Nichtanerkennung von FIP
-  - ℹ️ für Verwechslungsgefahr mit anderen Bahngesellschaften/Zugkategorien
+##### Strecken mit FIP-Gültigkeit
+
+- Route 1
+- Route 2
+
+##### Strecken ohne FIP-Gültigkeit
+
+- Route 3
+- Route 4
 -->
 
-{{% expander "Zugkategorie" traincategory "category" %}}
-
-<!-- Ersetze Zugkategorie mit dem Name der Zugkategorie, z. B. ICE. -->
-
-**Beschreibung:**
-
-<!-- Füge hier eine Beschreibung der Zugkategorie ein -->
-
-**Reservierung möglich:** Ja/Nein \
-**Reservierungspflicht:** Ja/Nein \
-
-<!-- Wenn FIP nicht gültig ist, ergänze folgendes:
-**FIP:** ⛔ FIP wird nicht anerkannt
--->
-<!-- Wenn es FIP Globalpreise gibt, ergänze folgendes:
-**FIP Globalpreis:**
--->
-
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Klassenkategorien
 

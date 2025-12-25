@@ -5,7 +5,7 @@ country:
   - "switzerland"
 ---
 
-SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of Switzerland. It operates most of the Swiss rail network and is known for its punctuality and reliability.
+SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
 
 ## Summary
 
@@ -24,60 +24,97 @@ FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections.
 
 ## Train Categories and Reservations
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Description:** \
-High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland. \
-**Reservation possible:** yes \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland.
+{{% /train-category %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ⚠️" traincategory category %}}
-**Description:** \
-High-speed trains from France to Zurich via Basel. \
-Reservations are mandatory outside Switzerland and for cross-border journeys. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ only for cross-border journeys
-{{% /expander %}}
+{{% train-category
+    id="tgv"
+    title="Train à Grande Vitesse (TGV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+High-speed trains from France to Zurich via Basel.
 
-{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
-**Description:** \
+#### Reservation
+
+Reservations are mandatory outside Switzerland and for cross-border journeys.
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC) / Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
 International trains to Germany and Italy.
 
-⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy]({{< ref "/country/switzerland#italien" >}} "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train. \
-Surcharge/Reservation: \
+#### Reservation
+
 1st class: €13 \
-2nd class: €11 \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ only for the Italian section
-{{% /expander %}}
+2nd class: €11
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Description:** \
-Fast national trains stopping only in major cities and transfer stations. \
-**Reservation possible:** yes \
-**Reservation required:** no
-{{% /expander %}}
+A reservation and surcharge are required for the Italian section. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy](/country/switzerland#italy "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train.
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory category %}}
-**Description:** \
-Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others. \
-These trains sometimes also operate as Intercity, Eurocity, or regional trains, in which case no reservation is required for seat cars. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes (not in seat cars when operating as Intercity, Eurocity, or regional trains)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "InterRegio (IR) / RegionalExpress (RE)" traincategory category %}}
-**Description:** \
-National trains stopping in larger cities. \
-**Reservation possible:** yes \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Fast national trains stopping only in major cities and transfer stations.
+{{% /train-category %}}
 
-{{% expander "Regio (R) / S-Bahn (S)" traincategory category %}}
-**Description:** \
-Trains stopping at all stations. In metropolitan areas also called S-Bahn. \
-**Reservation possible:** no
-{{% /expander %}}
+{{% train-category
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
+
+#### Reservation
+
+A reservation is required except in seat cars when operating as Intercity, Eurocity, or regional trains.
+{{% /train-category %}}
+
+{{% train-category
+    id="ir"
+    title="InterRegio (IR) / RegionalExpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+National trains stopping in larger cities.
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regio (R) / S-Bahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Trains stopping at all stations. In metropolitan areas also called S-Bahn.
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
@@ -136,7 +173,7 @@ The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: 
 
 ### Cross-border Trains (Italy, France)
 
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy]({{< ref "/country/switzerland#italy" >}} "Travel to Italy")
+For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
 
 ## Recommendations
 

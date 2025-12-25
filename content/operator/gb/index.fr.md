@@ -6,7 +6,7 @@ country:
 operator: "gb"
 ---
 
-Au Royaume-Uni, il existe de nombreuses compagnies ferroviaires différentes, regroupées sous le nom de _National Rail_. Chaque entreprise exploite ses propres lignes, la plupart se concentrant sur une région du pays.
+Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses compagnies ferroviaires différentes, regroupées sous le nom de _National Rail_. Chaque entreprise exploite ses propres lignes, la plupart se concentrant sur une région du pays.
 
 ## Résumé
 
@@ -243,6 +243,11 @@ Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP
   Ces billets sont fortement réduits mais ne sont valables que pour le train sélectionné. Ils peuvent être achetés jusqu’à 10 minutes avant le départ. La Réduction FIP 50 ne s’applique pas à ces billets.
 - **Rovers :** \
   Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s’applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n’est accordée que sur demande.
+
+{{% highlight inofficial %}}
+[En ligne](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s’applique également à ces Rovers. [^3]
+{{% /highlight %}}
+
 - **Abonnements et billets Londres :** \
   Trajets illimités entre deux gares pour une période donnée ou dans les zones londoniennes spécifiées pour une période donnée. La Réduction FIP 50 n’est pas disponible.
 
@@ -371,3 +376,5 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 [^1]: [Rail Delivery Group Guide pour les visiteurs en Grande-Bretagne utilisant FIP](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
 
 [^2]: [Caledonian Sleeper - Avant votre voyage](https://www.sleeper.scot/help-support/before-your-trip/#2)
+
+[^3]: [Retour d’expérience Rover sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1452026899705368738)
