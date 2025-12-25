@@ -13,7 +13,7 @@ LTG-Link veröffentlich online eine [Übersicht des Streckennetzes](https://ltgl
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
+- FIP 50 und FIP Freifahrtscheine werden auf allen Routen außer zwischen Riga und Tallinn akzeptiert
 - Reservierungspflicht in allen Zügen.
 - Bei Nutzung des FIP Freifahrtscheins muss vor jeder Fahrt ein kostenloses Ticket erworben werden.
 
