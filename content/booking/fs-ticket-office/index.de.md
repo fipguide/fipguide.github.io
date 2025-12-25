@@ -37,8 +37,6 @@ Le Frecce: 25€ (1./2. Klasse) \
 InterCity: 3€ (1./2. Klasse) \
 Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20€ Chiasso – Milano (`ECE`/`EC`)
 
-Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
-
 {{% /booking-section %}}
 
 {{% highlight tip %}}

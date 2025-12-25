@@ -69,7 +69,7 @@ Es gibt zwei internationale Routen von Österreich nach Italien:
 - Die Brennerbahn: Mit Eurocity-Zügen von München über Innsbruck und den Brennerpass nach Bozen und Verona sowie Züge der Linie `S3` von Brenner nach Innsbruck. Ab Brenner können Regionalzüge Richtung Bozen genutzt werden.
 - Die Strecke über Tarvisio Boscoverde: Mit Railjets aus Wien weiter nach Venedig und einzelnen Regionalzügen von Villach nach Trieste
 
-Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen. Dieser kann direkt im Zug gezahlt werden.
+Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen. Dieser kann direkt im Zug gezahlt werden (siehe [Verkehr nach Italien](/operator/oebb/#verkehr-nach-italien)).
 
 ### Frankreich
 

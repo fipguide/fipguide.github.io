@@ -38,6 +38,8 @@ Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 {{% /expander %}}
 
 {{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
@@ -48,6 +50,8 @@ Hochgeschwindigkeitszüge mit Neigetechnik.
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 {{% /expander %}}
 
 {{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
@@ -56,6 +60,8 @@ Schnellzug abseits von Hochgeschwindigkeitsstrecken. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 {{% /expander %}}
 
 {{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
@@ -92,12 +98,14 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25 € (1./2. Klasse), außer im Brennerverkehr
+**Kosten für Reservierung**: Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
-**Kosten im Brennerverkehr:**
+Abweichende Kosten im Brennerverkehr (Brennerzuschlag):
 
 - 1\. Klasse: 15 €
 - 2\. Klasse: 10 €
+
+Reservierungen für den Brennerverkehr können im Zug oder Ticketschalter der FS erworben werden.
 
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
@@ -175,7 +183,10 @@ Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen M�
 {{% booking id="db-ticket-office"
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
-/%}}
+  subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
+%}}
+Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
+{{% /booking %}}
 
 ### Im Zug
 
