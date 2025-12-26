@@ -1,17 +1,10 @@
-{{- $param := .Get 1 -}}
-{{ $iconMapping := dict "border" "share_location" "traincategory" "train" "info" "info" }}
+{{- $title := .Get 0 -}}
+{{- $type := .Get 1 -}}
+{{- $name := .Get 2 -}}
 
-
-<details name="{{ (.Get 2) }}" class="o-expander">
-  <summary class="o-expander__summary">
-    <div class="o-expander__summary-title">
-      {{- partial "icon" (index $iconMapping $param) -}}
-      <span class="o-expander__summary-text">{{ (.Get 0) }}</span>
-    </div>
-    {{- partial "icon" "keyboard_arrow_down" -}}
-  </summary>
-  <hr aria-hidden="true" />
-  <div class="o-expander__content">
-    {{ .Inner }}
-  </div>
-</details>
+{{ partial "expander" (dict
+"title"   $title
+"type"   $type
+"name"    $name
+"content" .Inner
+) }}

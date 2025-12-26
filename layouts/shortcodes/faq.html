@@ -1,0 +1,7 @@
+{{ $gi := site.GetPage "section" "generalinformation" }}
+
+{{ $faq := where $gi.Pages ".File.Dir" "==" "generalinformation/faq/" }}
+
+{{ range sort $faq ".File.BaseFileName" }}
+  {{ partial "expander" (dict "title" .Title "type" "faq" "name" "faq" "content" .Content) }}
+{{ end }}
