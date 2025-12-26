@@ -8,7 +8,7 @@
           {{ $current := . }}
           {{ range first 5 (where (where site.RegularPages "Section" "news") "Permalink" "ne" $current.Permalink) }}
             <li class="o-related__item">
-              {{ partial "internal_link"
+              {{ partial "link"
                 (dict
                 "Destination" .RelPermalink
                 "Text" ((print (partial "icon" "newspaper") (.Title)) | .Page.RenderString)
