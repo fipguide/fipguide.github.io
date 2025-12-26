@@ -9,31 +9,34 @@
     </noscript>
     <script>
       (() => {
-        // Only do use language detection at root and the 404 page
-        if (window.location.pathname !== '/' && window.location.pathname !== '/404/') {
-          window.location.replace('{{ .Permalink }}')
-          return
-        }
-
         const supportedLanguages = [{{ range site.Languages }}"{{ .Lang }}",{{ end }}];
         const defaultLanguage = "en";
 
         const getTargetLanguage = () => {
           const nav = window.navigator;
-          if (Array.isArray(nav.languages)) {
-            for (const language of nav.languages) {
-              for (const lang of supportedLanguages) {
-                if (language.toLowerCase().includes(lang)) {
-                  return lang;
-                }
+          if (!Array.isArray(nav.languages)) {
+            return defaultLanguage;
+          }
+
+          for (const language of nav.languages) {
+            for (const lang of supportedLanguages) {
+              if (language.toLowerCase().includes(lang)) {
+                return lang;
               }
             }
           }
           return defaultLanguage;
         };
 
-        const targetLanguage = getTargetLanguage();
-        window.location.replace(`/${targetLanguage}${window.location.pathname}`);
+        let targetLocation = '{{ .Permalink }}'
+        if (window.location.pathname === '/') {
+          // On root, redirect to the target language root
+          targetLocation = `/${getTargetLanguage()}/`
+        } else if ('{{ relURL .Permalink }}' === '/en/404/'){
+          // On 404, redirect to the 404 page of the target language
+          targetLocation = `/${getTargetLanguage()}/404/`
+        }
+        window.location.replace(targetLocation);
       })();
     </script>
   </head>
