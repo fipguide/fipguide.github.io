@@ -3,6 +3,5 @@
 {{ $faq := where $gi.Pages ".File.Dir" "==" "generalinformation/faq/" }}
 
 {{ range sort $faq ".File.BaseFileName" }}
-  <p>{{ .File.BaseFileName }}</p>
   {{ partial "expander" (dict "title" .Title "type" "faq" "name" "faq" "content" .Content) }}
 {{ end }}

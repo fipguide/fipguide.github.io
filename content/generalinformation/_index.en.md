@@ -157,9 +157,113 @@ FIP Coupons and national travel discounts of dependents are counted toward the e
 
 {{% /expander %}}
 
-jetzt kommt das FAQ
-{{< faq >}}
-Das war das FAQ
+## FAQ
+
+{{% expander "What does FIP stand for?" info "faq" %}}
+
+FIP stands for _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. It is the association for international railway staff travel discounts.
+Railway and shipping companies of the UIC (International Union of Railways) are affiliated with it.
+
+The proof of entitlement is the International Discount Card for Railway Staff, in short FIP Card or FIP-Card.
+
+{{% /expander %}}
+
+{{% expander "Who is entitled to FIP?" info "faq" %}}
+
+Generally, active and retired employees of FIP members are entitled. Family members can also be entitled under certain conditions.
+After twelve months of employment, employees can apply for the FIP Card.
+Please contact your HR department for application and use.
+
+{{% /expander %}}
+
+{{% expander "Does FIP also apply to dependents?" info "faq" %}}
+
+Depending on the agreement between FIP members, family members (children, partners) can also use FIP discounts. This is always mentioned on the respective [operator pages](operator). Discounts for children are also listed there.
+
+{{% /expander %}}
+
+{{% expander "What is the FIP Card?" info "faq" %}}
+The FIP Card is the proof of entitlement for discounted travel with FIP members abroad.
+It enables free or discounted travel with participating railway and shipping companies.
+{{% /expander %}}
+
+{{% expander "Where do I get my FIP Card?" info "faq" %}}
+
+Contact your HR department.
+Note that you generally only have a right to international travel discounts after twelve months of employment.
+
+{{% /expander %}}
+
+{{% expander "What discounts do I get through FIP?" info "faq" %}}
+
+With the FIP Card, you are entitled to use the transport services of the respective FIP member at discounted rates.
+Different rules apply depending on the operator. You can find details on the [operator pages](operator).
+
+There are various types of discounts:
+
+1. **Discounted tickets:** With the FIP Card, you receive heavily discounted tickets (usually 50% off the flexible price or global fare). There are no quantity restrictions or application deadlines.
+2. **Free travel with FIP Coupons:** With many FIP members, you can travel for free with an FIP Coupon. Per operator, one coupon with one to four fields can be ordered once per calendar year.
+
+{{% highlight tip %}}
+FIP travel is not always the cheapest option. In some countries, savings fares are available that are cheaper.
+{{% /highlight %}}
+{{% /expander %}}
+
+{{% expander "Where can I get discounted tickets with the FIP Card?" info "faq" %}}
+The purchase method differs depending on the operator, for example online, by phone, or at a travel center.
+You can find a detailed overview sorted by FIP member [here](operator).
+{{% /expander %}}
+
+{{% expander "What rules apply to FIP Coupons?" info "faq" %}}
+
+In one calendar year, you can apply for one FIP Coupon with one to four fields per FIP member.
+
+As a rule, a processing deadline applies when applying.
+
+{{% /expander %}}
+
+{{% expander "Where can I order FIP Coupons?" info "faq" %}}
+The application for FIP Coupons is usually made through your railway company’s personnel service or travel center. Some companies also offer online portals.
+{{% /expander %}}
+
+{{% expander "How many fields can I request for FIP Coupons?" info "faq" %}}
+Depending on your needs, FIP Coupons with 1 to 4 fields per FIP member can be requested.
+Each field entitles you to an unlimited number of journeys on the network of the respective railway or shipping company on the date entered and the following day.
+{{% /expander %}}
+
+{{% expander "What does a field on an FIP Coupon mean?" info "faq" %}}
+A field entitles you to unlimited journeys on the network of the respective railway or shipping company during the validity period on the date entered and the following day.
+{{% /expander %}}
+
+{{% expander "How long is an FIP Coupon valid?" info "faq" %}}
+An FIP Coupon is valid for three months from the date of issue. The fields contained within it can be used during this period.
+{{% /expander %}}
+
+{{% expander "How long is a field valid?" info "faq" %}}
+A field's validity begins on the date entered by the user and ends the following day at midnight (24:00).
+Thus, each field is valid for a period of two days.
+With the maximum of four fields, you can travel for eight days.
+{{% /expander %}}
+
+{{% expander "Which railway companies accept FIP?" info "faq" %}}
+
+Over 30 European railway companies and some shipping companies participate in the FIP system. A list of which companies are involved can be found in the FIP Guide in the [list of operators](operator).
+For information about your travel destination, see our [country page](country).
+
+{{% /expander %}}
+
+{{% expander "Are there exceptions when using FIP Coupons?" info "faq" %}}
+Yes. With some companies, no FIP Coupons can be used, while with others they apply only to certain train categories.
+
+Details on FIP member rules can be found on the [operator pages](operator).
+
+{{% /expander %}}
+
+{{% expander "Do I need a reservation to use trains?" info "faq" %}}
+
+A reservation is required for many trains, mostly high-speed and night trains. You can find an overview on the respective [operator page](operator).
+
+{{% /expander %}}
 
 ## Who is behind the FIP Guide?
 
