@@ -3,8 +3,9 @@
 {{- $name := .Get 2 -}}
 
 {{ partial "expander" (dict
-"title"   $title
-"type"   $type
-"name"    $name
-"content" .Inner
-) }}
+  "title"   $title
+  "type"   $type
+  "name"    $name
+  "content" .Inner
+  )
+}}
