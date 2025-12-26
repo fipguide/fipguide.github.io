@@ -1,12 +1,12 @@
 ---
 title: "General Information"
-description: "General information about FIP and how to use FIP discounts."
+description: "General information about FIP, the FIP Card (International Discount Card for Railway Staff), and the use of international travel concessions such as FIP 50 Tickets and FIP Coupons (free international travel)."
 toc: true
 ---
 
 ## General
 
-FIP stands for _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. It is the association for international railway staff travel discounts. Through FIP, travel discounts are available abroad throughout Europe.
+FIP stands for _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. It is the association for international travel concessions for railway staff. With FIP, international travel concessions can be used in other European countries.
 
 To use FIP travel discounts, you must be entitled to use FIP. This is usually granted after one year of employment, although different rules may apply depending on your employer.
 
@@ -28,7 +28,7 @@ There are exceptions here too: for example, some Nightjet trains are operated by
 
 ## FIP Card
 
-To use FIP discounts, you need a current _FIP Card_. It is always valid for a fixed period of three years. The current period is 2025-2026-2027. The FIP Card serves as proof of eligibility for FIP 50 Tickets. It is issued for either 1st or 2nd class. With a 1st class card, you can order FIP Coupons and buy FIP 50 Tickets for both 1st and 2nd class; with a 2nd class card, only for 2nd class. It can be ordered through the railway company you work for. The exact ordering process differs by company.
+To use FIP discounts, you need a valid International Discount Card for Railway Staff, commonly referred to as the _FIP Card_. The FIP Card is always valid for a fixed period of three years. The current period is 2025-2026-2027. The FIP Card is required as proof of entitlement for FIP 50 Tickets. It is issued either for 1st or 2nd class. With a 1st class card, you can purchase FIP Coupons and FIP 50 Tickets for both 1st and 2nd class; with a 2nd class card, only for 2nd class. The card can be ordered through your respective railway company. The exact ordering process varies by company.
 
 Some railway companies also allow employees to obtain FIP Cards for their dependents, allowing them to purchase FIP 50 Tickets.
 
@@ -40,7 +40,9 @@ FIP discounts come in various forms; a FIP Card is always required to use them.
 
 ### FIP Coupons
 
-These entitle you to travel on trains operated by the operator specified on the coupon. An _FIP Coupon_ consists of multiple _fields_. Each field is valid for two consecutive days. The first day of validity must be entered on the ticket. The ticket is then valid on that day and the following day. The different fields themselves do not need to be filled in on consecutive days; the dates only need to fall within the printed validity period. One FIP Coupon per operator can be ordered per calendar year (some railway companies may have different rules for their own employees). This means you can order one FIP Coupon with one to four fields from any number of operators each year. The date on which validity begins determines the calendar year.
+FIP Coupons (colloquially known as international free travel passes) entitle you to travel on trains operated by the company indicated on the coupon. An _FIP Coupon_ consists of several _fields_. Each field is valid for two consecutive days. You must enter the first day of validity on the ticket; the ticket is then valid on that day and the following day. The different fields do not have to be used on consecutive days, but the dates must fall within the printed validity period.
+
+You can apply for one FIP Coupon per operator per calendar year. Some railway companies may have different rules for their own employees. This means you can order one FIP Coupon with one to four fields from as many operators as you like each year. The relevant calendar year is determined by the date the validity begins. The application for the international free travel pass is usually made through your railway company's personnel service or travel center. Some companies also offer online portals.
 
 FIP Coupons are sometimes also available for dependents. Availability depends on bilateral agreements between the issuing railway company and the railway company where you wish to use FIP discounts.
 
@@ -221,7 +223,7 @@ As a rule, a processing deadline applies when applying.
 {{% /expander %}}
 
 {{% expander "Where can I order FIP Coupons?" info "faq" %}}
-Application is typically made through the personnel service or travel center of your railway company. Some companies also offer online portals.
+The application for FIP Coupons is usually made through your railway company’s personnel service or travel center. Some companies also offer online portals.
 {{% /expander %}}
 
 {{% expander "How many fields can I request for FIP Coupons?" info "faq" %}}
