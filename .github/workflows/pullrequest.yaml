@@ -54,7 +54,5 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Create custom 404 page
-        run: cp public/404/index.html public/404.html
       - name: Initialize search index
         run: npx -y pagefind --site public

@@ -1,7 +1,7 @@
 ---
 title: "404 – Page not found"
 aliases:
-  - /404
+  - /404.html
 ---
 
 Oops! The page you’re looking for is unavailable or has been moved.

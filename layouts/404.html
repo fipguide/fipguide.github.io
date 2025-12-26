@@ -1,12 +1,10 @@
 {{ define "main" }}
-  {{ with .Site.GetPage "_404" }}
-    <article class="o-single" data-pagefind-ignore="all">
-      <div class="o-single__header">
-        <h2>{{ .Title }}</h2>
-      </div>
-      <div class="o-single__content">
-        {{ .Content }}
-      </div>
-    </article>
-  {{ end }}
+  <article class="o-single" data-pagefind-ignore="all">
+    <div class="o-single__header">
+      <h2>{{ .Title }}</h2>
+    </div>
+    <div class="o-single__content">
+      {{ .Content }}
+    </div>
+  </article>
 {{ end }}
