@@ -241,23 +241,44 @@ Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_n
 **Zuggebunden:** \
 Tickets für zuggebundene Züge gelten ausschließlich für den auf dem Ticket angegebenen Zug. Die zuggebundenen Züge sind erkennbar an:
 
-<img src="/en/operator/fs/prenotabile_2.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="prenotabile_2.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Bemerkung "prenotabile" in den Zuginformationen:
-<br style="clear:both" />
-<img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="prenotabile_1.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Ticketbezeichnung "Prenotazione - Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 **Nicht Zuggebunden:** \
 Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="ordinaria_2.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Bemerkung "non prenotabile" in den Zuginformationen:
-<br style="clear:both" />
-<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="ordinaria_1.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Ticketbezeichung "Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 {{% /expander %}}
 

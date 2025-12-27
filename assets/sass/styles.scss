@@ -256,6 +256,25 @@ img {
   @include add-columns(1);
   @include add-columns(2);
   @include add-columns(3);
+
+  &--columns-flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+
+    > * {
+      flex: 1;
+      min-width: 0;
+    }
+
+    @media (max-width: #{$breakpoint-md}) {
+      flex-wrap: wrap;
+
+      > * {
+        flex: none;
+      }
+    }
+  }
 }
 
 .o-single {

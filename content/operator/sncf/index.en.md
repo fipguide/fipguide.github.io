@@ -317,9 +317,14 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
 Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis and can be used with FIP discounts as well. FIP discounts do not apply on other tram lines.
 {{% /train-category %}}
 
-<img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
-
+{{% float-image
+  src="contramarquedePassage.webp"
+  alt="Contramarque de Passage"
+  width="60%"
+  position="right"
+%}}
 Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
+{{% /float-image %}}
 
 ### Bus Services
 

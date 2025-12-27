@@ -1,0 +1,18 @@
+{{- $image := $.Page.Resources.GetMatch (.Get "src") -}}
+{{- $alt := .Get "alt" -}}
+{{- $width := .Get "width" | default "50%" -}}
+{{- $position := .Get "position" | default "right" -}}
+
+
+<div class="m-float-image m-float-image--{{ $position }}">
+  {{- partial "image"
+    (dict
+    "image" $image
+    "alt" $alt
+    "width" $width
+    )
+  -}}
+  <div class="m-float-image__content">
+    {{- .Inner | $.Page.RenderString -}}
+  </div>
+</div>
