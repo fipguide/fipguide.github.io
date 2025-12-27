@@ -262,8 +262,17 @@ img {
     justify-content: space-between;
     gap: 1rem;
 
+    > * {
+      flex: 1;
+      min-width: 0;
+    }
+
     @media (max-width: #{$breakpoint-md}) {
       flex-wrap: wrap;
+
+      > * {
+        flex: none;
+      }
     }
   }
 }
