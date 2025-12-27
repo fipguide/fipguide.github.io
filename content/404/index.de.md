@@ -1,5 +1,7 @@
 ---
 title: "404 – Seite nicht gefunden"
+params:
+  pagefind_ignore: true
 ---
 
 Hoppla! Die gesuchte Seite ist nicht verfügbar oder wurde verschoben.

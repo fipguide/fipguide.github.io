@@ -1,5 +1,7 @@
 ---
 title: "404 – Page introuvable"
+params:
+  pagefind_ignore: true
 ---
 
 Oups ! La page que vous recherchez est indisponible ou a été déplacée.

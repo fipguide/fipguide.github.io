@@ -2,6 +2,8 @@
 title: "404 – Page not found"
 aliases:
   - /404.html
+params:
+  pagefind_ignore: true
 ---
 
 Oops! The page you’re looking for is unavailable or has been moved.
