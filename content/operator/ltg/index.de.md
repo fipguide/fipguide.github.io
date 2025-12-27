@@ -13,7 +13,7 @@ LTG-Link veröffentlich online eine [Übersicht des Streckennetzes](https://ltgl
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden auf allen Routen außer zwischen Riga und Tallinn akzeptiert
+- FIP 50 und FIP Freifahrtscheine werden auf allen Routen außer zwischen Riga und Tallinn akzeptiert.
 - Reservierungspflicht in allen Zügen.
 - Bei Nutzung des FIP Freifahrtscheins muss vor jeder Fahrt ein kostenloses Ticket erworben werden.
 
@@ -67,10 +67,6 @@ Reisezentren befinden sich nur noch in Vilnius, Kaunas und Klaipeda; ob sie 2026
 
 Die inzwischen an vielen Stationen aufgestellten Fahrkartenautomaten geben keine FIP-Fahrscheine aus (Stand: 11/2025).
 
-### Im Zug
-
-FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt von einem Bahnhof erfolgt, an dem der Fahrkartenschalter geschlossen und/oder der Automat defekt ist.
-
 ## Ermäßigungen
 
 Mit regulären Fahrkarten reisen maximal 2 Kinder bis einschließlich 7 Jahre in der 2. Klasse kostenlos, müssen dann aber auf dem Schoß der Eltern sitzen. Wenn die Kinder bis 7 Jahre einen eigenen Sitz erhalten sollen, sind 50% vom Erwachsenentarif zu zahlen. Kinder bis 18 Jahre (oder als Schüler:innen noch bis 23 Jahre) erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 18 Jahren zahlen den vollen Erwachsenentarif, jedoch gibt es zahlreiche weitere Ermäßigungen. Ein Überblick ist auf der [Website von LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils) verfügbar.
@@ -79,7 +75,7 @@ Mit regulären Fahrkarten reisen maximal 2 Kinder bis einschließlich 7 Jahre in
 
 ### Spezialzüge und historische Fahrten
 
-Im Sommer betreibt LTG-Link freitags bis sonntags direkte Züge zwischen Vilnius und der Ostsee („seaside express"), die nur in Kretinga und Klaipeda halten. In Kretinga besteht Bus-Anschluss nach Palanga, in Klaipeda auf die Kurische Nehrung. Diese speziellen LTG-Busse müssen vorab gebucht werden. Als Fahrtziel (bzw. Startziel) gibt man „Nida(Klaipeda), „Juodkrante(Nida)" bzw. „Palanga(Kretinga)" ein.
+Im Sommer betreibt LTG-Link freitags bis sonntags direkte Züge zwischen Vilnius und der Ostsee („seaside express"), die nur in Kretinga und Klaipeda halten. Uns liegt derzeit keine Information vor, ob FIP in diesen Zügen akzeptiert wird. In Kretinga besteht Bus-Anschluss nach Palanga, in Klaipeda auf die Kurische Nehrung.
 
 ### Fahrtunterbrechungen
 
