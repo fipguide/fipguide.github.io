@@ -67,7 +67,7 @@
 
       const iconElement = button.querySelector(".material-symbols-rounded");
       if (iconElement) {
-        iconElement.textContent = icon;
+        iconElement.dataset.icon = icon;
       }
       button.setAttribute("title", label);
       button.setAttribute("aria-label", label);
