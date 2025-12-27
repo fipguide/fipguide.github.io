@@ -220,7 +220,7 @@ Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratui
 
 ### Réservation obligatoire en TER
 
-Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour les trajets entre toutes les autres destinations et sections de ligne, il n’y a pas d’obligation de réservation. [^2]
+Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour tous les autres trajets, il n’y a pas d’obligation de réservation. [^2]
 
 Cette obligation s’applique aux lignes suivantes :
 
@@ -238,8 +238,8 @@ Cette obligation s’applique aux lignes suivantes :
 
 #### TER Grand Est
 
-- Ligne 1 : Paris – Troyes – Chaumont – Mulhouse
-- Ligne 4 : Paris – Épernay – Châlons – Strasbourg
+- Ligne 1 : Paris – Épernay – Châlons – Strasbourg
+- Ligne 4 : Paris – Troyes – Chaumont – Mulhouse
 
 ### Trains TGV inOui / ICE internationaux
 
@@ -326,10 +326,6 @@ Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les 
 
 Les Billets FIP à tarif réduit pour `RER`, Transilien et tramways peuvent être achetés aux guichets Transilien. Lors de l’utilisation de ces services avec un Coupon FIP SNCF, il faut retirer une _Contremarque de Passage_ (carte d’accès temporaire) gratuite au guichet Transilien pour chaque trajet. Généralement, seules quelques cartes sont délivrées à la fois.
 {{% /float-image %}}
-
-### Léman Express
-
-Les trains internationaux `TER` entre la France et Genève en Suisse sont commercialisés sous le nom Léman Express et exploités conjointement par la SNCF et les CFF. Les réductions FIP sont valables sur tout le réseau Léman Express. Les Coupons FIP SNCF sont aussi valables sur la partie suisse.
 
 ### Bus SNCF
 

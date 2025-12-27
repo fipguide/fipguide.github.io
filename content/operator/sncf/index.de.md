@@ -219,7 +219,7 @@ Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder
 
 ### Reservierungspflicht im Regionalverkehr
 
-Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Für die Fahrt zwischen allen anderen Destinationen und Streckenabschnitten besteht keine Reservierungspflicht. [^2]
+Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Auf allen anderen Fahrten gibt es keine Reservierungspflicht. [^2]
 
 Diese Reservierungspflicht gilt auf folgenden Linien:
 
@@ -237,8 +237,8 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
 
 #### TER Grand Est
 
-- Line 1: Paris – Troyes – Chaumont – Mulhouse
-- Line 4: Paris – Épernay – Châlons – Strasbourg
+- Line 1: Paris – Épernay – Châlons – Strasbourg
+- Line 4: Paris – Troyes – Chaumont – Mulhouse
 
 ### Grenzüberschreitende TGV inOui / ICE Züge
 
@@ -324,10 +324,6 @@ Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit 
 %}}
 Vergünstigte FIP Tickets für `RER`, Transilien-Züge und Straßenbahnen können an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Züge und Straßenbahnen mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter eine kostenlose _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
 {{% /float-image %}}
-
-### Léman Express
-
-Zwischen Frankreich und Genf in der Schweiz verkehren internationale `TER` Züge, die als Léman Express vermarktet werden. Die Züge werden im Rahmen einer Kooperation zwischen SNCF und SBB betrieben. FIP Vergünstigungen gelten im gesamten Léman Express Netz. FIP Freifahrtscheine der SNCF gelten auch im Schweizer Teil des Léman Expresses.
 
 ### Busverkehr
 
