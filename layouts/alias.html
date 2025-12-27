@@ -8,48 +8,36 @@
       <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
     </noscript>
     <script>
-      ;(function () {
-        // Only do i18n at root,
-        // otherwise, redirect immediately
-        if (window.location.pathname !== '/') {
-          window.location.replace('{{ .Permalink }}')
-          return
-        }
+      (() => {
+        const supportedLanguages = [{{ range site.Languages }}"{{ .Lang }}",{{ end }}];
+        const defaultLanguage = "en";
 
-        var getFirstBrowserLanguage = function () {
-          var nav = window.navigator,
-          browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],
-          i,
-          language
+        const getTargetLanguage = () => {
+          const nav = window.navigator;
+          if (!Array.isArray(nav.languages)) {
+            return defaultLanguage;
+          }
 
-          if (Array.isArray(nav.languages)) {
-            for (i = 0; i < nav.languages.length; i++) {
-              language = nav.languages[i]
-              if (language && language.length) {
-                return language
+          for (const language of nav.languages) {
+            for (const lang of supportedLanguages) {
+              if (language.toLowerCase().includes(lang)) {
+                return lang;
               }
             }
           }
+          return defaultLanguage;
+        };
 
-          // support for other well known properties in browsers
-          for (i = 0; i < browserLanguagePropertyKeys.length; i++) {
-            language = nav[browserLanguagePropertyKeys[i]]
-            if (language && language.length) {
-              return language
-            }
-          }
-          return 'en'
+        let targetLocation = '{{ .Permalink }}'
+        if (window.location.pathname === '/') {
+          // On root, redirect to the target language root
+          targetLocation = `/${getTargetLanguage()}/`
+        } else if ('{{ relURL .Permalink }}' === '/en/404/'){
+          // On 404, redirect to the 404 page of the target language
+          targetLocation = `/${getTargetLanguage()}/404/`
         }
-
-        var preferLang = getFirstBrowserLanguage()
-        if (preferLang.indexOf('de') !== -1) {
-          // visitor prefers german
-          window.location.replace('/de/')
-        } else {
-          // fallback to english
-          window.location.replace('/en/')
-        }
-      })()
+        window.location.replace(targetLocation);
+      })();
     </script>
   </head>
   <body>
