@@ -98,7 +98,7 @@ Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. 
   position="right"
 %}}
 
-Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, dann unten auf der Startseite eine entsprechende Sprache gewählt werden.
+Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
 
 {{% /float-image %}}
 
@@ -109,7 +109,7 @@ Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchun
   position="right"
 %}}
 
-Im nächsten Schritt musst du zur alten Buchung wächseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
+Im nächsten Schritt musst du zur alten Buchung wechseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
 
 {{% /float-image %}}
 
@@ -133,7 +133,7 @@ Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des 
 
 Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhälst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
 
-Stand 22.12.2025 betragen die Hafengebühren 3£ / 3€ und die Umweltgebühren 10.30£ / 12€ pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
+Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühren 10,30 £ / 12 € pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
 
 {{% /float-image %}}
 
