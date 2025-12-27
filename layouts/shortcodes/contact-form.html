@@ -1,0 +1,62 @@
+<p id="success">
+  {{ T "contact.successMessage" }}
+</p>
+
+<form
+  action="https://api.web3forms.com/submit"
+  method="POST"
+  class="m-form"
+  aria-label="{{ T "contact.formAriaLabel" }}"
+  id="form"
+>
+  <input
+    type="hidden"
+    name="access_key"
+    value="29293094-c9cc-48b7-9ff6-31b42534e211"
+  />
+  <input type="hidden" name="from_name" value="FIP Guide" />
+  <input type="hidden" name="subject" value="{{ T "contact.emailSubject" }}" />
+  <input
+    type="hidden"
+    name="redirect"
+    value="{{ ref . "contact" }}?success=true"
+  />
+
+  <label for="name"
+    >{{ T "contact.nameLabel" }}
+    <input type="text" id="name" name="name" autocomplete="name" required />
+  </label>
+
+  <label for="email"
+    >{{ T "contact.emailLabel" }}
+    <input type="email" id="email" name="email" autocomplete="email" required />
+  </label>
+
+  <label for="message"
+    >{{ T "contact.messageLabel" }}
+    <textarea
+      id="message"
+      name="message"
+      rows="4"
+      cols="50"
+      required
+    ></textarea>
+  </label>
+
+  <input
+    type="submit"
+    class="a-button"
+    value="{{ T "contact.submitButton" }}"
+  />
+</form>
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+
+  window.addEventListener("DOMContentLoaded", () => {
+    if (urlParams.get("success") === "true") {
+      document.getElementById("form").style.display = "none";
+      document.getElementById("success").style.display = "block";
+    }
+  });
+</script>
