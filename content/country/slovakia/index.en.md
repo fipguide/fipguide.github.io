@@ -42,7 +42,14 @@ From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used 
 
 ### Austria
 
-From Austria, cross-border Intercity, Railjet, and regional trains (REX) are available. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. The exception is the `D` trains between Bratislava and Vienna, which can be used with the ZSSK Coupon for the entire route (including in Austria).
+Arrival from Austria is possible via two different local train connections:
+
+- The faster route runs north of the Danube from Vienna via Marchegg to Bratislava hl.st.
+- A slower connection runs from Vienna via Kittsee to Bratislava Petrzalka.
+
+For both routes, an FIP 50 Ticket of [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
+
+Additionally, there are some individual `EC` connections.
 
 ### Hungary
 

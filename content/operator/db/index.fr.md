@@ -69,7 +69,7 @@ Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse in
 
 {{% expander "Eurocity-Express (ECE) ⚠️" traincategory "long-distance" %}}
 **Description :**
-Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de nombreux trains sur la route Hambourg - Copenhague.
+Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de trains sur la route Hambourg - Copenhague.
 
 ⚠️ Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie](/country/switzerland#italien "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
 
@@ -79,7 +79,7 @@ Train express international entre Francfort et Milan ainsi qu’entre Munich et 
 - 2ᵉ classe : 11€
 
 **Réservation possible :** Oui \
-**Réservation obligatoire :** Pour les trajets transfrontaliers vers l’Italie ⚠️
+**Réservation obligatoire :** Pour les trajets transfrontaliers vers l’Italie et pendant la haute saison vers le Danemark ⚠️
 {{% /expander %}}
 
 {{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
@@ -87,7 +87,7 @@ Train express international entre Francfort et Milan ainsi qu’entre Munich et 
 Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin - Pologne ou République tchèque. \
 **Réservation possible :** Oui \
 **Réservation obligatoire :** Pour les trajets transfrontaliers vers la Pologne ⚠️ \
-Pour les trajets transfrontaliers en été vers le Danemark ou la République tchèque, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
+Pour les trajets transfrontaliers en été vers la République tchèque, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}

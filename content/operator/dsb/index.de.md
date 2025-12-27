@@ -23,7 +23,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die EC-Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig.
+Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die `ECE` Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Beschreibung:** \
@@ -39,9 +39,9 @@ Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind
 **Reservierungspflicht:** nein
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Beschreibung:** \
-Eurocity-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Sie verkehren Stand 2025 mit ehemaligen IC-Wagen der Deutschen Bahn. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
+Eurocity-Express-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren. Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ Nur in der Hauptsaison (Sommer)
 {{% /expander %}}
