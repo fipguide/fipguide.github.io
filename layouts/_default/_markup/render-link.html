@@ -1,11 +1,1 @@
-{{- $url := .Destination -}}
-{{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
-  {{- partial "link" . -}}
-{{- else -}}
-  <a
-    href="{{ .Page.Ref (dict "path" $url) }}"
-    {{ with .Title }}title="{{ . }}"{{ end }}
-  >
-    {{- .Text -}}
-  </a>
-{{- end -}}
+{{- partial "link" . -}}
