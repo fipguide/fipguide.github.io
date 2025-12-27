@@ -7,9 +7,9 @@ const initSearch = () => {
   const search = document.getElementById("search");
   const searchButtons = document.querySelectorAll(".o-header__search");
   const isHome = document.querySelector(".o-startpage");
+  const overlay = document.getElementById("overlay");
   let placeholderText = search.dataset.placeholder;
   let searchLabelText = search.dataset.label;
-  const overlay = document.getElementById("overlay");
 
   if (!isMobile) {
     if (isMac) {
@@ -65,8 +65,6 @@ const initSearch = () => {
     updateSearchButtonLabels(true);
   };
 
-  overlay.addEventListener("click", closeSearch);
-
   if (search && isHome) {
     searchElement.addEventListener("focus", () => {
       openSearch();
@@ -113,6 +111,8 @@ const initSearch = () => {
       closeSearch();
     }
   });
+
+  overlay.addEventListener("click", closeSearch);
 };
 
 if (document.readyState === "interactive") {
