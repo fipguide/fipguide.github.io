@@ -220,7 +220,7 @@ With regular tickets, children up to and including 4 years travel free. Children
 
 ### Reservation requirement in regional trains
 
-On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. For travel between all other destinations and route sections there is no reservation requirement. [^2]
+On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. There is no reservation requirement for all other journeys. [^2]
 
 This reservation requirement applies to the following lines:
 
@@ -238,8 +238,8 @@ This reservation requirement applies to the following lines:
 
 #### TER Grand Est
 
-- Line 1: Paris – Troyes – Chaumont – Mulhouse
-- Line 4: Paris – Épernay – Châlons – Strasbourg
+- Line 1: Paris – Épernay – Châlons – Strasbourg
+- Line 4: Paris – Troyes – Chaumont – Mulhouse
 
 ### International TGV inOui / ICE trains
 
@@ -320,10 +320,6 @@ Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. T
 <img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
 
 Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
-
-### Léman Express
-
-International `TER` trains between France and Geneva in Switzerland are marketed as Léman Express and operated jointly by SNCF and SBB. FIP discounts apply throughout the Léman Express network. SNCF FIP Coupons are also valid on the Swiss section.
 
 ### Bus Services
 
