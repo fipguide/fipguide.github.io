@@ -241,8 +241,8 @@ menu > li > menu {
   }
 }
 
-.o-header__nav--open nav {
-  @media (max-width: #{$breakpoint-md}) {
+@media (max-width: #{$breakpoint-md}) {
+  .o-header__nav nav {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -256,6 +256,9 @@ menu > li > menu {
     padding: 1rem;
     overflow-y: scroll;
     border-left: var(--border);
+
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
 
     > menu {
       margin-top: 4rem;
@@ -279,6 +282,10 @@ menu > li > menu {
       margin-right: -1rem;
       border-top: 2px solid grey;
     }
+  }
+
+  .o-header__nav--open nav {
+    transform: translateX(0);
   }
 }
 

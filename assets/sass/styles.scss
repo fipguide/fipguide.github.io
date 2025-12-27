@@ -414,15 +414,28 @@ details > summary {
   }
 }
 
-.overlay--show {
-  backdrop-filter: blur(4px);
-  background-color: rgba(0, 0, 0, 0.6);
+#overlay {
   position: fixed;
   inset: 0;
+  background-color: rgba(0, 0, 0, 0);
+  backdrop-filter: blur(0px);
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity 0.3s ease,
+    background-color 0.3s ease,
+    backdrop-filter 0.3s ease;
 
   @media print {
     display: none;
   }
+}
+
+#overlay.overlay--show {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  pointer-events: auto;
 }
 
 .overlay--content {
