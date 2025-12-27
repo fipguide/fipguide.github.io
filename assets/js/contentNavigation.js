@@ -1,4 +1,9 @@
 import * as mq from "./mediaqueries";
+import {
+  openOverlay,
+  closeOverlay,
+  addOverlayClickListener,
+} from "./overlay.js";
 
 const isMobile = () => {
   return window.matchMedia(mq.maxMD).matches;
@@ -8,9 +13,8 @@ const initAside = () => {
   const aside = document.querySelector(".o-aside");
   const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
-  const overlay = document.getElementById("overlay");
 
-  if (!aside || !asideContent || !handleBtn || !overlay) return;
+  if (!aside || !asideContent || !handleBtn) return;
 
   let isClosed = true;
 
@@ -21,7 +25,7 @@ const initAside = () => {
     asideContent.setAttribute("aria-hidden", "true");
     asideContent.setAttribute("inert", "");
     handleBtn.setAttribute("aria-expanded", "false");
-    overlay.classList.remove("overlay--show", "overlay--content");
+    closeOverlay();
   };
 
   const openSheet = () => {
@@ -31,7 +35,7 @@ const initAside = () => {
     asideContent.setAttribute("aria-hidden", "false");
     asideContent.removeAttribute("inert");
     handleBtn.setAttribute("aria-expanded", "true");
-    overlay.classList.add("overlay--show", "overlay--content");
+    openOverlay("contentNavigation");
   };
 
   if (isMobile()) {
@@ -47,7 +51,7 @@ const initAside = () => {
   };
 
   handleBtn.addEventListener("click", toggleSheet);
-  overlay.addEventListener("click", closeSheet);
+  addOverlayClickListener(closeSheet);
 
   // Drag support
   let startY = 0;
@@ -105,7 +109,7 @@ const initAside = () => {
     }
     if (!isMobile()) {
       wasMobile = false;
-      overlay.classList.remove("overlay--show");
+      closeOverlay();
       aside.classList.remove("o-aside--open");
     }
   };

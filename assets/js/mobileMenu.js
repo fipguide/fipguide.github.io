@@ -1,4 +1,8 @@
-//import {initWindowOnClick} from './windowOnClickHandling';
+import {
+  openOverlay,
+  closeOverlay,
+  addOverlayClickListener,
+} from "./overlay.js";
 
 function initMobileMenu() {
   const menuButton = document.querySelector(".o-nav__menu-button");
@@ -12,12 +16,7 @@ function initMobileMenu() {
     closeMobileMenu();
   });
 
-  window.onclick = (e) => {
-    //console.log(e.target);
-    if (e.target.classList.contains("o-header__curtain")) {
-      closeMobileMenu();
-    }
-  };
+  addOverlayClickListener(closeMobileMenu);
 
   // Close search on ESC
   document.addEventListener("keydown", (e) => {
@@ -33,6 +32,7 @@ function openMobileMenu() {
 
   navContainer.classList.add("o-header__nav--open");
   menuButton.setAttribute("aria-expanded", true);
+  openOverlay("mobileMenu");
 }
 
 function closeMobileMenu() {
@@ -41,6 +41,7 @@ function closeMobileMenu() {
 
   navContainer.classList.remove("o-header__nav--open");
   menuButton.setAttribute("aria-expanded", false);
+  closeOverlay();
 }
 
 if (document.readyState === "interactive") {

@@ -26,13 +26,6 @@
   }
 }
 
-.o-header__curtain:has(~ .o-header__nav--open) {
-  background-color: rgba(0, 0, 0, 0.8);
-  inset: 0;
-  position: fixed;
-  z-index: 18;
-}
-
 .o-header__nav {
   align-items: center;
   display: flex;
