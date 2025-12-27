@@ -1,8 +1,9 @@
-//import {initWindowOnClick} from './windowOnClickHandling';
+import { openOverlay, closeOverlay } from "./overlay.js";
 
 function initMobileMenu() {
   const menuButton = document.querySelector(".o-nav__menu-button");
   const closeButton = document.querySelector(".o-nav__close-button");
+  const overlay = document.getElementById("overlay");
 
   menuButton.addEventListener("click", () => {
     openMobileMenu();
@@ -12,12 +13,7 @@ function initMobileMenu() {
     closeMobileMenu();
   });
 
-  window.onclick = (e) => {
-    //console.log(e.target);
-    if (e.target.classList.contains("o-header__curtain")) {
-      closeMobileMenu();
-    }
-  };
+  overlay.addEventListener("click", closeMobileMenu);
 
   // Close search on ESC
   document.addEventListener("keydown", (e) => {
@@ -33,6 +29,7 @@ function openMobileMenu() {
 
   navContainer.classList.add("o-header__nav--open");
   menuButton.setAttribute("aria-expanded", true);
+  openOverlay("mobileMenu");
 }
 
 function closeMobileMenu() {
@@ -41,6 +38,7 @@ function closeMobileMenu() {
 
   navContainer.classList.remove("o-header__nav--open");
   menuButton.setAttribute("aria-expanded", false);
+  closeOverlay();
 }
 
 if (document.readyState === "interactive") {

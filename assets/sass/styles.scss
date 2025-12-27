@@ -425,12 +425,16 @@ details > summary {
   }
 }
 
-.overlay--content {
+.overlay--contentNavigation {
   z-index: 6;
 }
 
 .overlay--search {
   z-index: 10;
+}
+
+.overlay--mobileMenu {
+  z-index: 13;
 }
 
 body:has(.overlay--show) {

@@ -1,4 +1,5 @@
 import * as mq from "./mediaqueries";
+import { openOverlay, closeOverlay } from "./overlay.js";
 
 const isMobile = () => {
   return window.matchMedia(mq.maxMD).matches;
@@ -21,7 +22,7 @@ const initAside = () => {
     asideContent.setAttribute("aria-hidden", "true");
     asideContent.setAttribute("inert", "");
     handleBtn.setAttribute("aria-expanded", "false");
-    overlay.classList.remove("overlay--show", "overlay--content");
+    closeOverlay();
   };
 
   const openSheet = () => {
@@ -31,7 +32,7 @@ const initAside = () => {
     asideContent.setAttribute("aria-hidden", "false");
     asideContent.removeAttribute("inert");
     handleBtn.setAttribute("aria-expanded", "true");
-    overlay.classList.add("overlay--show", "overlay--content");
+    openOverlay("contentNavigation");
   };
 
   if (isMobile()) {
@@ -105,7 +106,7 @@ const initAside = () => {
     }
     if (!isMobile()) {
       wasMobile = false;
-      overlay.classList.remove("overlay--show");
+      closeOverlay();
       aside.classList.remove("o-aside--open");
     }
   };

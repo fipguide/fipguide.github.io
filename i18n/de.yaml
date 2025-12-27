@@ -15,11 +15,11 @@ booking:
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
 contact:
-  emailLabel: 'E-Mail-Adresse:'
+  emailLabel: "E-Mail-Adresse:"
   emailSubject: Neue Nachricht vom FIP Guide
   formAriaLabel: Kontaktformular
-  messageLabel: 'Nachricht:'
-  nameLabel: 'Name:'
+  messageLabel: "Nachricht:"
+  nameLabel: "Name:"
   submitButton: Absenden
   successMessage: >-
     Vielen Dank! Deine Nachricht wurde erfolgreich gesendet. Wir melden uns
