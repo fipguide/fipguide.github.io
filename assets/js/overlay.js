@@ -9,3 +9,11 @@ export function openOverlay(element) {
 
   overlay.classList.add("overlay--show", `overlay--${element}`);
 }
+
+export function addOverlayClickListener(callback) {
+  const overlay = document.getElementById("overlay");
+
+  if (!overlay) return;
+
+  overlay.addEventListener("click", callback);
+}

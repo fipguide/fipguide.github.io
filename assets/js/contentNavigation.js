@@ -1,5 +1,9 @@
 import * as mq from "./mediaqueries";
-import { openOverlay, closeOverlay } from "./overlay.js";
+import {
+  openOverlay,
+  closeOverlay,
+  addOverlayClickListener,
+} from "./overlay.js";
 
 const isMobile = () => {
   return window.matchMedia(mq.maxMD).matches;
@@ -9,9 +13,8 @@ const initAside = () => {
   const aside = document.querySelector(".o-aside");
   const asideContent = document.querySelector(".o-aside__content");
   const handleBtn = document.querySelector(".o-aside__header");
-  const overlay = document.getElementById("overlay");
 
-  if (!aside || !asideContent || !handleBtn || !overlay) return;
+  if (!aside || !asideContent || !handleBtn) return;
 
   let isClosed = true;
 
@@ -48,7 +51,7 @@ const initAside = () => {
   };
 
   handleBtn.addEventListener("click", toggleSheet);
-  overlay.addEventListener("click", closeSheet);
+  addOverlayClickListener(closeSheet);
 
   // Drag support
   let startY = 0;

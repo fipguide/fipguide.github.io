@@ -1,4 +1,8 @@
-import { openOverlay, closeOverlay } from "./overlay.js";
+import {
+  openOverlay,
+  closeOverlay,
+  addOverlayClickListener,
+} from "./overlay.js";
 
 const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 const isMac = navigator.platform.toUpperCase().indexOf("MAC") >= 0;
@@ -7,7 +11,6 @@ const initSearch = () => {
   const search = document.getElementById("search");
   const searchButtons = document.querySelectorAll(".o-header__search");
   const isHome = document.querySelector(".o-startpage");
-  const overlay = document.getElementById("overlay");
   let placeholderText = search.dataset.placeholder;
   let searchLabelText = search.dataset.label;
 
@@ -112,7 +115,7 @@ const initSearch = () => {
     }
   });
 
-  overlay.addEventListener("click", closeSearch);
+  addOverlayClickListener(closeSearch);
 };
 
 if (document.readyState === "interactive") {

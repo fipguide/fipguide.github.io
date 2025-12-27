@@ -1,9 +1,12 @@
-import { openOverlay, closeOverlay } from "./overlay.js";
+import {
+  openOverlay,
+  closeOverlay,
+  addOverlayClickListener,
+} from "./overlay.js";
 
 function initMobileMenu() {
   const menuButton = document.querySelector(".o-nav__menu-button");
   const closeButton = document.querySelector(".o-nav__close-button");
-  const overlay = document.getElementById("overlay");
 
   menuButton.addEventListener("click", () => {
     openMobileMenu();
@@ -13,7 +16,7 @@ function initMobileMenu() {
     closeMobileMenu();
   });
 
-  overlay.addEventListener("click", closeMobileMenu);
+  addOverlayClickListener(closeMobileMenu);
 
   // Close search on ESC
   document.addEventListener("keydown", (e) => {
