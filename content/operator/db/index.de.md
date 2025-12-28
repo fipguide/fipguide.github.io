@@ -88,7 +88,7 @@ Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen Mü
 
 {{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
 **Beschreibung:**
-Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen oder Tschechien. \
+Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Polen ⚠️ \
 Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.

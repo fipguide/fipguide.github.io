@@ -88,7 +88,7 @@ An international express train between Frankfurt and Milan as well as between Mu
 
 {{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
 **Description:**
-Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland or the Czech Republic. \
+Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland. \
 **Reservation possible:** Yes \
 **Reservation required:** For cross-border journeys to Poland ⚠️ \
 In the past, there was a reservation requirement for cross-border journeys in summer months to the Czech Republic. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).

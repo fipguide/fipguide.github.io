@@ -44,8 +44,8 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
 
-- Die schnelle führt nördlich der Donau von Wien über Marchegg nach Bratislava hl.st.
-- Eine langsamere Verbindung fährt von Wien aus über Kittsee nach Bratislava Petrzalka.
+- Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
+- Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
 
 Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
 

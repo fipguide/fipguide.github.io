@@ -99,8 +99,8 @@ On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a
 
 Arrival from Slovakia is possible via two different regional train connections:
 
-- The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna.
-- A slower connection starts at Bratislava Petrzalka and leads via Kittsee to Vienna.
+- One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
+- Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
 
 For both routes, a FIP 50 Ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
 

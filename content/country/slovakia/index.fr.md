@@ -44,8 +44,8 @@ Depuis la Tchéquie, les trains transfrontaliers de České dráhy (ČD) ou ZSSK
 
 Depuis l’Autriche, il existe deux liaisons régionales possibles pour rejoindre la Slovaquie :
 
-- La liaison rapide passe au nord du Danube, de Vienne via Marchegg jusqu’à Bratislava hl.st.
-- Une liaison plus lente part de Vienne via Kittsee jusqu’à Bratislava Petržalka.
+- Une liaison traverse le nord du Danube depuis Vienne via Marchegg jusqu’à la gare principale de Bratislava (Bratislava hl.st.)
+- Une autre liaison part de Vienne via Kittsee vers le sud de Bratislava (Bratislava Petrzalka)
 
 Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
 

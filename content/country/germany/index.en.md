@@ -214,7 +214,7 @@ The other border crossings are currently only served by regional trains. For tra
 
 ### Czech Republic
 
-There are various rail border crossings from the Czech Republic into the German network. The best known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the EC/RJ trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a through FIP 50 Ticket are valid for the journey.
+There are various rail border crossings from the Czech Republic into the German network. The best known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the `RJ`/`RJX` trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a through FIP 50 Ticket are valid for the journey.
 
 The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin – Bad Schandau – Sebnitz – Rumburk).
 

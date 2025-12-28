@@ -218,7 +218,7 @@ Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Fü
 
 ### Tschechien
 
-Aus Tschechien bestehen diverse Schienen-Grenzübergänge ins deutsche Netz, die genutzt werden können. Der bekannteste ist Schöna, über den die internationalen Fernzüge zwischen den beiden Ländern verkehren. Daneben gibt es hier auch grenzüberschreitende Regionalzüge im 2-Stunden-Takt, die genauso wie die EC-/RJ-Züge in Kooperation von der Deutschen Bahn und ČD betrieben werden und somit FIP-Freifahrtscheine beider Länder oder ein durchgängiges FIP 50 Ticket für die Fahrt gültig sind.
+Aus Tschechien bestehen diverse Schienen-Grenzübergänge ins deutsche Netz, die genutzt werden können. Der bekannteste ist Schöna, über den die internationalen Fernzüge zwischen den beiden Ländern verkehren. Daneben gibt es hier auch grenzüberschreitende Regionalzüge im 2-Stunden-Takt, die genauso wie die `RJ`/`RJX` Züge in Kooperation von der Deutschen Bahn und ČD betrieben werden und somit FIP-Freifahrtscheine beider Länder oder ein durchgängiges FIP 50 Ticket für die Fahrt gültig sind.
 
 Genauso sieht es auch im Nordabschnitt des Regionalzugs aus, der dort nochmal die Grenze bei Dolní Poustevna überquert (Strecke Decin – Bad Schandau – Sebnitz – Rumburk).
 

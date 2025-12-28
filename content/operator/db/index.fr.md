@@ -84,7 +84,7 @@ Train express international entre Francfort et Milan ainsi qu’entre Munich et 
 
 {{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
 **Description :**
-Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin - Pologne ou République tchèque. \
+Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin - Pologne. \
 **Réservation possible :** Oui \
 **Réservation obligatoire :** Pour les trajets transfrontaliers vers la Pologne ⚠️ \
 Pour les trajets transfrontaliers en été vers la République tchèque, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).

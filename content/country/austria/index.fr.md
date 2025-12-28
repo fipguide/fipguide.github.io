@@ -99,8 +99,8 @@ entre Villa Opicina et Trieste, le Coupon FIP ÖBB est valable, mais un petit su
 
 Depuis la Slovaquie, il existe deux liaisons régionales possibles pour rejoindre l’Autriche :
 
-- La plus rapide passe au nord du Danube, de Bratislava hl.st. via Marchegg jusqu’à Vienne.
-- Une liaison plus lente part de Bratislava Petrzalka et rejoint Vienne via Kittsee.
+- Une liaison part du nord du Danube depuis la gare principale de Bratislava (Bratislava hl.st.) via Marchegg jusqu’à Vienne.
+- Une autre liaison démarre au sud de Bratislava (Bratislava Petrzalka) et passe par Kittsee jusqu’à Vienne.
 
 Pour les deux itinéraires, un Billet FIP 50 de la [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
 

@@ -214,7 +214,7 @@ Les autres points frontières ne sont desservis qu’en régional. Pour Forst, G
 
 ### Tchéquie
 
-Depuis la Tchéquie, de nombreux points frontières ferroviaires permettent de rejoindre l’Allemagne. Le plus connu est Schöna, utilisé par les grandes lignes internationales. Il existe aussi des trains régionaux transfrontaliers toutes les 2 heures, exploités en coopération DB et ČD, donc Coupons FIP des deux pays ou billet FIP 50 valable sur tout le trajet.
+Il existe divers passages ferroviaires frontaliers depuis la Tchéquie vers le réseau allemand. Le plus connu est Schöna, utilisé par les trains grandes lignes internationaux entre les deux pays. Il existe également des trains régionaux transfrontaliers toutes les 2 heures, qui, comme les trains `RJ`/`RJX`, sont exploités en coopération par la Deutsche Bahn et les ČD, de sorte que les Coupons FIP des deux pays ou un billet FIP 50 valable pour tout le trajet sont acceptés pour le voyage.
 
 Il en va de même pour la section nord du train régional franchissant à nouveau la frontière à Dolní Poustevna (ligne Decin – Bad Schandau – Sebnitz – Rumburk).
 
