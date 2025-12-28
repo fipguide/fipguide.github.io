@@ -55,7 +55,7 @@ Il existe trois classes de voitures :
 
 [Aperçu détaillé des classes chez ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Pour les Railjets vers l’Italie, un supplément est à payer à partir de la frontière italienne (voir [Trafic vers l’Italie chez ÖBB](/operator/oebb#verkehr-nach-italien "Trafic vers l’Italie chez ÖBB")). \
+Pour les Railjets à destination de l’Italie, un supplément est requis à partir de la frontière italienne (voir [Trains vers l’Italie chez ÖBB](/operator/oebb#trains-vers-litalie "Trains vers l’Italie chez ÖBB")). \
 **Réservation possible :** oui \
 **Réservation obligatoire :** non
 {{% /expander %}}

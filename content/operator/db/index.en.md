@@ -59,7 +59,7 @@ There are three classes:
 
 [Detailed overview of classes at ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-For Railjets to Italy, a surcharge must be paid from the Italian border (see [Travel to Italy at ÖBB](/operator/oebb#verkehr-nach-italien "Travel to Italy at ÖBB")). \
+For Railjets to Italy, a surcharge is required from the Italian border onward (see [Trains to Italy at ÖBB](/operator/oebb#trains-to-italy "Trains to Italy at ÖBB")). \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
