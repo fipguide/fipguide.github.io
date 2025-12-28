@@ -1,8 +1,5 @@
 $search-z-index: 12;
 
-// ---------------------------------------------
-// SEARCH BLOCK (ID bleibt erhalten)
-// ---------------------------------------------
 #search {
   width: 100%;
   display: flex;
@@ -12,9 +9,6 @@ $search-z-index: 12;
     display: none;
   }
 
-  // ---------------------------------------------
-  // PAGEFIND BLOCK
-  // ---------------------------------------------
   .pagefind-ui {
     width: 100%;
 
@@ -79,7 +73,7 @@ $search-z-index: 12;
         color: var(--color-body);
       }
 
-      // Wenn Ergebnisse sichtbar sind
+      // When results are visible
       &:has(
         + .pagefind-ui__search-clear
           + .pagefind-ui__drawer
@@ -177,6 +171,7 @@ $search-z-index: 12;
       background: transparent;
       height: 4.8rem;
       padding: 1.2rem;
+      margin-bottom: 1rem;
       width: 100%;
       text-align: center;
       font-weight: 700;
