@@ -1,14 +1,13 @@
 ---
 draft: false
 title: "Renfe"
-description: "Information about the FIP conditions at Renfe: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
   - "france"
 operator: "renfe"
 ---
 
-Renfe Operadora is a Spanish state-owned railroad company. It operates comfortable high-speed trains, various regional trains and suburban trains.
+Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.
 
 ## Summary
 
@@ -163,7 +162,7 @@ It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hot
 
 #### FIP Global Fare
 
-Tickets for trains requiring reservations can be sold at DB Travel Centers. Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels. It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee.
+Tickets for trains requiring reservations can be sold at DB Reisezentrum (ticket office). Please ensure that either "T" (for Elige Estándar / Turista) or "P" (for Elige Confort) is specified as the class. If 1st class or 2nd class is selected as the class, tickets will not be issued with an error message. A booking of Premium class tickets is not possible through Deutsche Bahn's sales channels. It has also been reported that the booking of class "P" sometimes fails, in which case a booking of class "T" often works. There is no booking fee.
 ![Example ticket AVE from Malaga to Madrid](./images/ave_ticket.webp)
 {{% /booking %}}
 

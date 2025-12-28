@@ -1,14 +1,13 @@
 ---
 draft: false
 title: "Renfe"
-description: "Informations sur les conditions FIP chez Renfe : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "spain"
   - "france"
 operator: "renfe"
 ---
 
-Renfe Operadora est la compagnie ferroviaire publique espagnole. Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.
+Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spain "Espagne"). Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.
 
 ## Résumé
 
@@ -183,7 +182,7 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 ### Renfe Feve
 
-Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l'Espagne.
+Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l’Espagne.
 
 ## Recommandations
 

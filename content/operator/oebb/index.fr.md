@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Informations sur les conditions FIP chez ÖBB : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "austria"
   - "liechtenstein"
@@ -11,14 +10,14 @@ aliases:
   - obb
 ---
 
-Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’Autriche et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
+Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
 
 ## Résumé
 
 - Les Coupons FIP et Billets FIP 50 sont acceptés.
-- Attention aux trains d'autres opérateurs qui n’acceptent pas FIP.
-- FIP non valable dans le train express `CAT` vers l'aéroport de Vienne.
-- Règles spécifiques pour les trains vers l'Italie, les Nightjet, les trains auto, et les IC Bus.
+- Attention aux trains d’autres opérateurs qui n’acceptent pas FIP.
+- FIP non valable dans le train express `CAT` vers l’aéroport de Vienne.
+- Règles spécifiques pour les trains vers l’Italie, les Nightjet, les trains auto, et les IC Bus.
 - Le Coupon FIP ÖBB est aussi valable au Liechtenstein.
 
 ## Validité des Billets FIP
@@ -152,13 +151,13 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et l'Autriche pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
@@ -192,7 +191,7 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 ## Conditions tarifaires spéciales
 
-### Trafic vers l’Italie
+### Trains vers l’Italie
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 

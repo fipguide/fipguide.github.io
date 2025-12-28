@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "United Kingdom"
-description: "Information about FIP conditions for the United Kingdom and which operators offer discounts."
 country: "united-kingdom"
 params:
   operators_without_fip:
@@ -12,7 +11,7 @@ params:
     - Getlink (Eurotunnel LeShuttle)
     - Glasgow Subway
     - Hovertravel (Portsmouth to Ryde on the Isle of Wight)
-    - '[London Underground]({{< ref "/operator/gb#verkehr-in-london" >}} "London Underground")'
+    - '[London Underground](/operator/gb#verkehr-in-london "London Underground")'
     - Midland Metro (Birmingham to Wolverhampton)
     - Nottingham Express Transit
     - Sheffield Supertram
@@ -26,17 +25,17 @@ params:
 
 ## FIP Information
 
-In England, Scotland, and Wales, FIP is accepted by all train operators integrated into [National Rail]({{< ref "/operator/gb" >}} "National Rail"). This includes some urban rail operators in major cities, such as London Overground and the Elizabeth Line. Other modes of transport, such as subways and trams, are not included, as is usual with FIP. All operators accepting FIP are listed in the [list of operators]({{< ref "/operator/gb#train-categories-and-reservations" >}} "List of operators").
+In England, Scotland, and Wales, FIP is accepted by all train operators integrated into [National Rail](/operator/gb "National Rail"). This includes some urban rail operators in major cities, such as London Overground and the Elizabeth Line. Other modes of transport, such as subways and trams, are not included, as is usual with FIP. All operators accepting FIP are listed in the [list of operators](/operator/gb#train-categories-and-reservations "List of operators").
 
 Northern Ireland, on the other hand, is served by its own railway company (NIR), where FIP discounts are explicitly valid for this company. Ferry connections between Great Britain and Northern Ireland with Stena Line can be used with FIP.
 
-Additionally, there are [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains to continental Europe, which can be used with FIP global fares. Alternatively, ferry connections to the Netherlands between Harwich and Hoek van Holland or ferry connections to Ireland can be used with FIP.
+Additionally, there are [Eurostar](/operator/eurostar "Eurostar") trains to continental Europe, which can be used with FIP global fares. Alternatively, ferry connections to the Netherlands between Harwich and Hoek van Holland or ferry connections to Ireland can be used with FIP.
 
 ## Interesting
 
 The United Kingdom is the birthplace of the railway, and it has a long tradition. The rail network covers the whole country, with many (direct) connections to all regions. The quality of trains and stations varies greatly, as many operators act independently. Some offer modern and comfortable trains, while others still use older models.
 
-There are also many large historic stations such as London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads, or York. Numerous [heritage railways]({{< ref "/operator/gb#heritage-railways--historic-journeys" >}} "Heritage Railways") offer discounted fares for FIP holders.
+There are also many large historic stations such as London Paddington, London King's Cross, London St. Pancras, Bristol Temple Meads, or York. Numerous [heritage railways](/operator/gb#heritage-railways--historic-journeys "Heritage Railways") offer discounted fares for FIP holders.
 
 A special highlight is traveling through the breathtaking landscapes of the Scottish Highlands or the idyllic Cornwall. Both destinations are easily accessible by night trains via the Caledonian Sleeper or the Night Riviera Sleeper.
 
@@ -61,15 +60,15 @@ From Belfast, Stena Line ferries operate to Cairnryan in Scotland and Liverpool 
 
 ### France and Belgium
 
-From Paris Nord, Lille Europe, and Brussels Midi, [Eurostar trains]({{< ref "/operator/eurostar" >}} "Eurostar page") run to London St. Pancras International. These trains require reservations and FIP Global Fare tickets must be purchased.
+From Paris Nord, Lille Europe, and Brussels Midi, [Eurostar trains](/operator/eurostar "Eurostar page") run to London St. Pancras International. These trains require reservations and FIP Global Fare tickets must be purchased.
 
 From Calais, there is also the LeShuttle car train through the Eurotunnel, but no FIP discount is granted. Additionally, there are various ferry connections between France/Belgium and Great Britain, but no FIP discount is granted on these.
 
 ### Netherlands
 
-From Amsterdam and Rotterdam, direct [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains run to London St. Pancras. Alternatively, [Eurostar Red]({{< ref "/operator/eurostar" >}} "Eurostar Red") and [Eurocity]({{< ref "/operator/ns#train-categories-and-reservations" >}} "Eurocity") trains run to Brussels Midi (Belgium), where you can transfer to a [Eurostar Blue]({{< ref "/operator/eurostar" >}} "Eurostar Blue") train to London St. Pancras. Eurostar trains always require reservations and FIP Global Fare tickets must be purchased.
+From Amsterdam and Rotterdam, direct [Eurostar](/operator/eurostar "Eurostar") trains run to London St. Pancras. Alternatively, [Eurostar Red](/operator/eurostar "Eurostar Red") and [Eurocity](/operator/ns#train-categories-and-reservations "Eurocity") trains run to Brussels Midi (Belgium), where you can transfer to a [Eurostar Blue](/operator/eurostar "Eurostar Blue") train to London St. Pancras. Eurostar trains always require reservations and FIP Global Fare tickets must be purchased.
 
-Additionally, there is a ferry connection from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
+Additionally, there is a [ferry connection](/operator/stl "ferry connection") from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
 
 ### Ireland
 

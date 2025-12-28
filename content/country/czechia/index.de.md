@@ -2,7 +2,6 @@
 draft: false
 title: "Tschechien"
 country: "czechia"
-description: "Informationen über die FIP-Bedingungen für Tschechien und für welche Betreiber Vergünstigungen genutzt werden können."
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
@@ -15,7 +14,7 @@ params:
 
 ## FIP Nutzung
 
-Tschechien ist nicht das einfachste Land für die Nutzung von FIP, lässt sich jedoch zumindest Stand jetzt immer noch ganz gut damit bereisen. Die tschechische Staatsbahn České dráhy ([ČD]({{< ref "/operator/cd" >}} "ČD")) ist der einzige FIP-Anbieter in dem Land, betreibt jedoch auch einen großen Teil des Streckennetzes.
+Tschechien ist nicht das einfachste Land für die Nutzung von FIP, lässt sich jedoch zumindest Stand jetzt immer noch ganz gut damit bereisen. Die tschechische Staatsbahn České dráhy ([ČD](/operator/cd "ČD")) ist der einzige FIP-Anbieter in dem Land, betreibt jedoch auch einen großen Teil des Streckennetzes.
 
 Jedoch ist zu beachten, dass nicht mehr auf allen Strecken, auf denen die ČD fährt, auch FIP gültig ist. Zudem gibt es einzelne _kommerzielle Verbindungen_, bei denen ein Aufschlag zu zahlen ist. Mit einem FIP-Freifahrtschein müssen diese Ausnahmen alle beachtet werden, bei durch die ČD verkauften FIP 50 Tickets sollte es einfacher erkenntlich sein, für welche Züge diese gelten. Bei den privaten Betreibern wie Arriva oder Die Länderbahn wird FIP in keinem Fall anerkannt, allerdings sind die Tickets in Tschechien vergleichsweise günstig.
 
@@ -45,7 +44,7 @@ Die Pünktlichkeit ist solide, oft warten Anschlusszüge auch, jedoch nicht in g
 
 ### Deutschland
 
-Von Deutschland aus bestehen diverse Schienen-Grenzübergänge, die genutzt werden können. Der bekannteste ist Schöna, über den die internationalen Fernzüge zwischen den beiden Ländern verkehren. Daneben gibt es hier auch grenzüberschreitende Regionalzüge im 2-Stunden-Takt, die genauso wie die EC-/RJ-Züge in Kooperation von der Deutschen Bahn und ČD betrieben werden und somit FIP-Freifahrtscheine beider Länder oder ein durchgängiges FIP 50 Ticket für die Fahrt gültig sind.
+Von Deutschland aus bestehen diverse Schienen-Grenzübergänge, die genutzt werden können. Der bekannteste ist Schöna, über den die internationalen Fernzüge zwischen den beiden Ländern verkehren. Daneben gibt es hier auch grenzüberschreitende Regionalzüge im 2-Stunden-Takt, die genauso wie die `RJ`/`RJX` Züge in Kooperation von der Deutschen Bahn und ČD betrieben werden und somit FIP-Freifahrtscheine beider Länder oder ein durchgängiges FIP 50 Ticket für die Fahrt gültig sind.
 
 Genauso sieht es auch im Nordabschnitt des Regionalzugs aus, der dort nochmal die Grenze bei Dolní Poustevna überquert (Strecke Decin – Bad Schandau – Sebnitz – Rumburk).
 

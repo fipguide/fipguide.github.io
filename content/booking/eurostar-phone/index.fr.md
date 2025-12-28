@@ -20,3 +20,5 @@ Les billets au Tarif Global FIP peuvent être achetés via la hotline Eurostar :
 - Belgique : [+32 (0)2 400 67 76](tel:+3224006776)
 
 La réservation est possible en anglais, français, allemand et néerlandais. Il peut être utile d’utiliser un alphabet phonétique pour épeler les noms et adresses. Le paiement se fait uniquement par carte bancaire. Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
+
+{{% satellite %}}

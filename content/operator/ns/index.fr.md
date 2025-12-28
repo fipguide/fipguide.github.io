@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "NS"
-description: "Informations sur les conditions FIP chez NS : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "netherlands"
 operator: "ns"
 ---
 
-Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des Pays-Bas et assurent la majorité du trafic voyageurs dans le pays.
+Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pays-Bas](/country/netherlands "Pays-Bas") et assurent la majorité du trafic voyageurs dans le pays.
 
 ## Résumé
 
@@ -32,7 +31,7 @@ Un supplément est nécessaire pour les trains Eurocity Direct et, partiellement
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category %}}
 **Description :** \
-Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés à l’intérieur des Pays-Bas (Amsterdam, Utrecht, Arnhem) avec un Coupon FIP sans supplément. Un Billet FIP 50 nécessite cependant un supplément. \
+Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main ou Hanovre / Berlin), mais peuvent également être utilisés à l’intérieur des Pays-Bas entre Amsterdam et Arnhem ou Hengelo avec un Coupon FIP sans supplément. Avec un Billet FIP 50, un supplément est toutefois requis. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ non (sauf pour les trajets transfrontaliers en haute saison) \
 **Supplément :** ⚠️ \
@@ -74,15 +73,11 @@ Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tar
 Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Description :** \
 Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts. \
-Exception : le `IC` Amsterdam – Berlin, qui est un vrai Intercity transfrontalier avec arrêts uniquement dans les grandes gares. \
-**Réservation possible :** uniquement pour le `IC` Amsterdam – Berlin \
-**Réservation obligatoire :** non (sauf pour les trajets transfrontaliers en haute saison) \
-**Supplément** : ⚠️ \
-À partir du 18 octobre 2025, la ligne `IC` Amsterdam – Berlin sera progressivement remplacée par des trains ICE 3neo. Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP. \
-Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place aux distributeurs ou guichets. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet à usage unique.
+**Réservation possible :** non \
+**Réservation obligatoire :** non
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE) ℹ️" traincategory category %}}
@@ -116,11 +111,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas, avec part de billet uniquement pour la section néerlandaise. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et les Pays-Bas, avec part de billet uniquement pour la section néerlandaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
-    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et les Pays-Bas pour l'ensemble du trajet (non valables dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et les Pays-Bas pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
 ### En gare
@@ -146,15 +141,15 @@ Ce n’est pas un billet, mais un badge d’accès, valable :
 
 - Pendant 8 jours distincts, sur une période de 3 mois.
 - Chaque jour (de 00h00 à 23h59) :
-  - Jusqu'à 6 passages (entrée/sortie) à la même gare.
-  - Jusqu'à 12 passages en tout par jour.
+  - Jusqu’à 6 passages (entrée/sortie) à la même gare.
+  - Jusqu’à 12 passages en tout par jour.
 
 Si nécessaire, un nouveau coupon d’accès peut être demandé au guichet NS.
 
 ## Recommandations
 
 {{% highlight tip %}}
-NS se distingue par une grande fréquence et des connexions efficaces. Des retards et annulations peuvent survenir, mais ils sont souvent compensés par des fréquences élevées. Évitez de planifier des correspondances serrées, car les trains n'attendent généralement pas. La 1ʳᵉ classe NS offre peu de différences par rapport à la 2ᵉ classe.
+NS se distingue par une grande fréquence et des connexions efficaces. Des retards et annulations peuvent survenir, mais ils sont souvent compensés par des fréquences élevées. Évitez de planifier des correspondances serrées, car les trains n’attendent généralement pas. La 1ʳᵉ classe NS offre peu de différences par rapport à la 2ᵉ classe.
 {{% /highlight %}}
 
 ## Sources

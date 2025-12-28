@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "SNCB / NMBS"
-description: "Informationen über die FIP-Bedingungen bei SNCB: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "belgium"
 operator: "sncb"
 ---
 
-Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in Belgien.
+Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in [Belgien](/country/belgium "Belgien").
 
 ## Zusammenfassung
 
@@ -114,6 +113,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
+
+### Telefon
+
+{{% booking id="sncb-phone" /%}}
 
 ### Vor Ort
 

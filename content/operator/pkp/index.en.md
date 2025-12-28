@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "PKP"
-description: "Information about FIP conditions at PKP: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "poland"
 operator: "pkp"
 ---
 
-The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of Polish passenger rail transport.
+The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").
 
 ## Summary
 
@@ -92,14 +91,14 @@ Within Poland: \
 Sleeping car: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
 Couchette car: 3/4-berth compartment 69 PLN, 6-berth compartment 59 PLN [^1]
 
-Different prices for international connections. [More information](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
+Different prices for international connections. [More information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
 {{% /expander %}}
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}
 **Description:** \
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-ℹ️ Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland]({{< ref "/country/poland" >}} "Poland") \
+ℹ️ Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland") \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}

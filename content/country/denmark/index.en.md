@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Denmark"
-description: "Information about FIP conditions for Denmark and which operators offer discounts."
 country: "denmark"
 params:
   operators_without_fip:
@@ -16,7 +15,7 @@ params:
 
 ## FIP Information
 
-In Denmark, it is possible to travel across the country on main routes using FIP 50 and FIP Coupon. The Danske Statsbaner ([DSB]({{< ref "/operator/dsb" >}} "DSB")) operates a continuous network, with some branch lines operated by private railway companies (e.g., GoCollective) where FIP is not accepted.
+In Denmark, it is possible to travel across the country on main routes using FIP 50 and FIP Coupon. The Danske Statsbaner ([DSB](/operator/dsb "DSB")) operates a continuous network, with some branch lines operated by private railway companies (e.g., GoCollective) where FIP is not accepted.
 
 FIP discounts are also not available for night trains passing through Denmark operated by SJ and Snälltåget. Connections from Copenhagen towards Sweden are similarly excluded.
 

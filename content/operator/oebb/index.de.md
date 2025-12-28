@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Informationen über die FIP-Bedingungen bei den ÖBB: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "austria"
   - "liechtenstein"
@@ -11,7 +10,7 @@ aliases:
   - obb
 ---
 
-Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft Österreichs und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
+Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
 
 ## Zusammenfassung
 
@@ -188,7 +187,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
 
 ## Tarifliche Besonderheiten
 
-### Verkehr nach Italien
+### Züge nach Italien
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 

@@ -14,23 +14,31 @@
         {{- end }}
       </div>
       <div class="o-booking__meta">
-        {{- if ne .reservations "nil" -}}
-          <div>
-            {{- T "booking.reservation" }}
-            {{ if .reservations -}}✅{{- else -}}⛔{{- end -}}
-          </div>
-        {{- end -}}
-        {{- if ne .fip_50 "nil" -}}
-          <div>
-            {{- T "booking.fip-50" }}
-            {{ if .fip_50 -}}✅{{- else -}}⛔{{- end -}}
-          </div>
-        {{- end -}}
-        {{- if ne .fip_global_fare "nil" -}}
-          <div>
-            {{- T "booking.fip-global-fare" }}
-            {{ if .fip_global_fare -}}✅{{- else -}}⛔{{- end -}}
-          </div>
+        {{- $metaFields := slice
+          (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
+          (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
+          (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
+        -}}
+        {{- range $metaFields -}}
+          {{- if ne .value "nil" -}}
+            {{- if .value -}}
+              <div
+                class="o-booking__meta-item o-booking__meta-item--success"
+                aria-label="{{ T .label }} {{ T "booking.bookable" }}"
+              >
+                {{- partial "icon" "check_circle" -}}
+                <span aria-hidden="true">{{- T .label -}}</span>
+              </div>
+            {{- else -}}
+              <div
+                class="o-booking__meta-item o-booking__meta-item--error"
+                aria-label="{{ T .label }} {{ T "booking.not-bookable" }}"
+              >
+                {{- partial "icon" "cancel" -}}
+                <span aria-hidden="true">{{- T .label -}}</span>
+              </div>
+            {{- end -}}
+          {{- end -}}
         {{- end -}}
       </div>
       <div class="o-booking__classes">
@@ -75,6 +83,7 @@
     {{- $content := partial "increase-headings" (dict "content" .page.Content "offset" 2) -}}
     {{- $content := partial "prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
     {{- $content := partial "prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
+    {{- $content := partial "remove-newlines" $content -}}
     {{- $content | safeHTML -}}
   </div>
 

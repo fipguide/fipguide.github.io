@@ -1,12 +1,11 @@
 ---
 draft: false
 title: "Österreich"
-description: "Informationen über die FIP-Bedingungen für Österreich und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "austria"
 params:
   operators_without_fip:
     - Achenseebahn
-    - '[CAT (City Airport Train) Wien]({{< ref "/operator/oebb#wien-flughafen-city-airport-train-cat" >}} "CAT")'
+    - '[CAT (City Airport Train) Wien](/operator/oebb#wien-flughafen-city-airport-train-cat "CAT")'
     - GKB
     - Graz–Köflacher Bahn
     - Montafonerbahn
@@ -22,11 +21,11 @@ params:
 
 ## FIP Nutzung
 
-In Österreich können Züge der [Österreichischen Bundesbahnen (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.
+In Österreich können Züge der [Österreichischen Bundesbahnen (ÖBB)](/operator/oebb "ÖBB") mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.
 
 Außerdem gibt es weitere regionale Betriber von Nahverkehrszügen, die keine FIP Tickets akzeptieren. Diese nutzen genau wie die ÖBB die Zugkategorien `RE`, `REX` und `S`. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
 
-Die [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") ist ein zweites EVU welches FIP Tickets innerhalb von Österreich und Ungarn akzeptiert. GySEV Freifahrtscheine sind jedoch primär für Ungarn gedacht und gelten auf den Strecken der GySEV in Österreich daher nur eingeschränkt.
+Die [GySEV / Raaberbahn](/operator/gysev "GySEV") ist ein zweites EVU welches FIP Tickets innerhalb von Österreich und Ungarn akzeptiert. GySEV Freifahrtscheine sind jedoch primär für Ungarn gedacht und gelten auf den Strecken der GySEV in Österreich daher nur eingeschränkt.
 
 ## Wissenswertes
 
@@ -76,11 +75,11 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
 
-Eine Einreise aus der Schweiz ist auch über Buchs SG und Feldkirch durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
+Eine Einreise aus der Schweiz ist auch über Buchs SG und Feldkirch durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
 ### Liechtenstein
 
-Liechtenstein und Österreich sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den Österrischen Bundesbahnen [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") betrieben. Demnach gelten in Liechtenstein auch Freifahrten und FIP 50 Tickets der ÖBB.
+Liechtenstein und Österreich sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten in Liechtenstein auch Freifahrten und FIP 50 Tickets der ÖBB.
 
 Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
@@ -91,7 +90,7 @@ Es zwei internationale Routen von Italien nach Österreich:
 - Die Brennerbahn: mit Eurocity-Zügen von Bozen und Veron über den Brennerpass und Innsbruck München sowie Züge der Linie `S3` von Brenner nach Insbruck. Nach Brenner könne Regionalzüge aus Richtung Bozen genutzt werden.
 - Die Strecke über Tarvisio Boscoverde: mit Railjets aus Venedig weiter nach Wien und einzelnen Regionalzügen von Trieste nach Villach
 
-Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen.
+Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen (siehe [Züge nach Italien](/operator/oebb/#züge-nach-italien)).
 
 Außerdem existieren Eurocity Verbindungen aus Triest über Slowenien nach Österreich (`EC` 151/134): \
 Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
@@ -100,15 +99,12 @@ Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, 
 
 Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
 
-- Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025)
-- Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien.
+- Eine Verbindung führt nördlich der Donau vom Hauptbahnhof Bratislava (Bratislava hl.st.) über Marchegg nach Wien.
+- Eine andere Verbindung startet im Süden von Bratislava (Bratislava Petrzalka) und führt über Kittsee nach Wien.
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") benötigt. \
-Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025). \
-In diesen Zügen gilt:
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt.
 
-- FIP Freifahrtscheine der ÖBB bis zur Grenze
-- FIP Freifahrtscheine der ZSSK dem kompletten Abschnitt (auch in Österreich)
+Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Slowenien
 

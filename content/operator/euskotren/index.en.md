@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "Euskotren"
-description: "Information about FIP conditions for Euskotren: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "spain"
 operator: "euskotren"
 ---
 
-In northern Spain, Euskotren operates a Basque railway network that connects the picturesque coastal towns and mountainous hinterland between the French border at Hendaye and the metropolis of Bilbao. Euskotren is owned by the Basque regional government.
+In northern [Spain](/country/spain "Spain"), Euskotren operates a Basque railway network that connects the picturesque coastal towns and mountainous hinterland between the French border at Hendaye and the metropolis of Bilbao. Euskotren is owned by the Basque regional government.
 
 ## Summary
 
@@ -21,13 +20,18 @@ FIP Coupon: ⛔ \
 FIP 50 Tickets: ⛔ \
 Special "Euskotren FIP Ticket" (for holders & relatives): ✅
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/operator/euskotren/images/euskotren_fip_ticket.webp" alt="Euskotren FIP Ticket" style="width: 30%; float: left; margin-right: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="euskotren_fip_ticket.webp"
+  alt="Euskotren FIP Ticket"
+  width="30%"
+  position="left"
+%}}
+
 The staff at Euskotren customer centers will issue you a special "Euskotren FIP Ticket" upon presentation of your FIP Card.
 The ticket is also issued for relatives with their own FIP Card. It is valid for 7 days including the day of issue and you can use it for the entire Euskotren network except for regional bus lines and the museum railway.
 You use the "Euskotren FIP Ticket" to pass through platform barriers. After expiry, you can have the ticket reissued multiple times per year. Euskotren does not apply the usual limitation for FIP Coupons.
 
-<br style="clear:both" aria-hidden="true" />
+{{% /float-image %}}
 
 {{% highlight tip %}}
 Some train operators also issue FIP Coupones for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.

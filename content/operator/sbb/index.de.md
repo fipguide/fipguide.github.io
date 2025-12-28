@@ -1,12 +1,11 @@
 ---
 draft: false
 title: "SBB CFF FFS"
-description: "Informationen über die FIP-Bedingungen bei der SBB CFF FFS: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "switzerland"
 ---
 
-Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der Schweiz. Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
+Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
 
 ## Zusammenfassung
 
@@ -25,60 +24,97 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Beschreibung:** \
-Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt.
+{{% /train-category %}}
 
-{{% expander "Train à Grande Vitesse (TGV) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel. \
-Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ nur grenzüberschreitende Fahrten
-{{% /expander %}}
+{{% train-category
+    id="tgv"
+    title="Train à Grande Vitesse (TGV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
 
-{{% expander "Eurocity (EC) / Eurocity-Express (ECE) ⚠️" traincategory category %}}
-**Beschreibung:** \
+#### Reservierung
+
+Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig.
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC) / Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
 Internationale Züge Richtung Deutschland und Italien.
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze Aufschlags- und Reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien]({{< ref "/country/switzerland#italien" >}} "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden. \
-Aufschlag/Reservierung: \
+#### Reservierung
+
 1\. Klasse: 13€ \
-2\. Klasse: 11€ \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ nur für den italienischen Abschnitt
-{{% /expander %}}
+2\. Klasse: 11€
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Beschreibung:** \
-Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforderlich. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([Siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am SBB Ticketschalter oder im Zug erworben werden.
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb. \
-Die Züge verkehren teilweise zusätzlich auch als Intercity, Eurocity oder Regionalzug und erfordern dann für die Sitzwagen keine Reservierung. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (nicht in Sitzwagen bei Intercity, Eurocity und Regionalzügen)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "InterRegio (IR) / RegionalExpress (RE)" traincategory category %}}
-**Beschreibung:** \
-Nationale Züge mit Halten in größeren Städten. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
+{{% /train-category %}}
 
-{{% expander "Regio (R) / S-Bahn (S)" traincategory category %}}
-**Beschreibung:** \
-Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet. \
-**Reservierung möglich:** nein
-{{% /expander %}}
+{{% train-category
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
+
+#### Reservierung
+
+Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity und Regionalzügen.
+{{% /train-category %}}
+
+{{% train-category
+    id="ir"
+    title="InterRegio (IR) / RegionalExpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Nationale Züge mit Halten in größeren Städten.
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regio (R) / S-Bahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
@@ -118,7 +154,7 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 6 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
+Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
 
 ## Tarifliche Besonderheiten
 
@@ -128,13 +164,16 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, 
 
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
-Die Schweizer Bahnunternehmen SBB und BLS haben eine Vereinbarung zur gegenseitigen Anerkennung der FIP-Fahrscheine getroffen. Die internationalen Freifahrtscheine der SBB werden auf dem gesamten Bahnnetz der BLS vollständig akzeptiert. [^2]
+Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP Freifahrtscheine: [^2]
 
-Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren. [^2]
+- Die FIP Freifahrtscheine der SBB werden in allen Zügen der BLS akzeptiert.
+- Die FIP Freifahrtscheine der BLS werden in Zügen der SBB auf Strecken akzeptiert, auf denen auch Züge der BLS verkehren, also zwischen zwei Bahnhöfen, zwischen denen sowohl Züge der SBB als auch der BLS fahren. Das Liniennetz der BLS ist [online einsehbar](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
+
+Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
-Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien]({{< ref "/country/switzerland#italien" >}} "Einreise Italien")
+Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien](/country/switzerland#italien "Einreise Italien")
 
 ## Empfehlungen
 
@@ -146,4 +185,4 @@ Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit w
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: DB Reisemarkt
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

@@ -1,12 +1,11 @@
 ---
 draft: false
 title: "Austria"
-description: "Information about FIP conditions for Austria and which operators offer discounts."
 country: "austria"
 params:
   operators_without_fip:
     - Achenseebahn
-    - '[CAT (City Airport Train) Vienna]({{< ref "/operator/oebb#vienna-airport-city-airport-train-cat" >}} "CAT")'
+    - '[CAT (City Airport Train) Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
     - GKB
     - Graz–Köflacher Bahn
     - Montafonerbahn
@@ -22,11 +21,11 @@ params:
 
 ## FIP Information
 
-In Austria, trains of the [Austrian Federal Railways (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") can be used with FIP Tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP Tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
+In Austria, trains of the [Austrian Federal Railways (ÖBB)](/operator/oebb "ÖBB") can be used with FIP Tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP Tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
 
 There are also other regional operators of local trains that do not accept FIP Tickets. These use the same train categories as ÖBB: `RE`, `REX`, and `S`. If in doubt, check the operator via their website or [Bahn.de](https://int.bahn.de/en).
 
-The [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") is a second railway company that accepts FIP Tickets within Austria and Hungary. GySEV FIP Coupons are mainly intended for Hungary and are only valid to a limited extent on GySEV routes in Austria.
+The [GySEV / Raaberbahn](/operator/gysev "GySEV") is a second railway company that accepts FIP Tickets within Austria and Hungary. GySEV FIP Coupons are mainly intended for Hungary and are only valid to a limited extent on GySEV routes in Austria.
 
 ## Interesting
 
@@ -76,11 +75,11 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 Austria and Switzerland have only one main border crossing, at St. Margrethen. Mostly regional trains operate here, but there are also Eurocity trains that only stop in Bregenz on the Austrian side and otherwise run from Germany (Munich).
 
-Entry from Switzerland is also possible via Buchs SG and Feldkirch through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") are valid. This means it is possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main line between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna/Graz and Zurich, as well as regional trains.
+Entry from Switzerland is also possible via Buchs SG and Feldkirch through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. This means it is possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main line between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna/Graz and Zurich, as well as regional trains.
 
 ### Liechtenstein
 
-Liechtenstein and Austria are only connected by rarely running trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the Austrian Federal Railways [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are also valid in Liechtenstein.
+Liechtenstein and Austria are only connected by rarely running trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are also valid in Liechtenstein.
 
 Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
 
@@ -94,21 +93,18 @@ Besides regional train connections, there are two international routes from Aust
 On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
 
 There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
-On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies.
+On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### Slovakia
 
-From Slovakia, there are two local train connections to Austria:
+Arrival from Slovakia is possible via two different regional train connections:
 
-- The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna (from 10.10.2025)
-- The slower route starts at Bratislava Petrzalka and goes via Kittsee to Vienna.
+- One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
+- Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
 
-For both, a FIP 50 ticket from [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") is required for the Slovak section. \
-Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
-These trains can be used with:
+For both routes, a FIP 50 Ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
 
-- ÖBB FIP Coupons up to the border
-- ZSSK FIP Coupone on the entire section (also in Austria)
+Additionally, there are some `EC` connections.
 
 ### Slovenia
 

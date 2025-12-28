@@ -1,24 +1,38 @@
-_operator__list_title: Betreiber mit FIP
-_operator__nearby: Angrenzende Betreiber
 anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
   copy: Link zu diesem Abschnitt kopieren
 booking:
+  bookable: buchbar
   classes:
     first: 1. Klasse
     second: 2. Klasse
   fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
   fip-global-fare: FIP Globalpreis
+  not-bookable: nicht buchbar
   reservation: Reservierung
   reservation-costs: Reservierungskosten
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+contact:
+  emailLabel: 'E-Mail-Adresse:'
+  emailSubject: Neue Nachricht vom FIP Guide
+  formAriaLabel: Kontaktformular
+  messageLabel: 'Nachricht:'
+  nameLabel: 'Name:'
+  submitButton: Absenden
+  successMessage: >-
+    Vielen Dank! Deine Nachricht wurde erfolgreich gesendet. Wir melden uns
+    schnellstmöglich zurück.
 contentNavigation:
   button: Inhaltsübersicht öffnen und schließen
   relatedCountries: Länder, in den der Betreibers aktiv ist
   title: Inhaltsübersicht
 countries:
+  descriptionTemplate: >-
+    Informationen über die FIP-Bedingungen für %s und für welche Betreiber
+    Vergünstigungen wie FIP 50 Tickets und FIP Freifahrtscheine genutzt werden
+    können.
   overview: Länder mit FIP Akzeptanz
   without-fip: Länder ohne FIP Akzeptanz
 country:
@@ -26,12 +40,14 @@ country:
   one: Land
   other: Länder
 discord: FIP Guide Community
+donation: Spenden
 editPage: Seite bearbeiten
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
 general: Übergreifendes
 highlight:
+  confusion: Verwechslungsgefahr
   important: Wichtige Information
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
@@ -80,10 +96,18 @@ menu:
     switch-to-dark: Zu dunklem Modus wechseln
     switch-to-light: Zu hellem Modus wechseln
 navigate-to-country: Gehe zu Land
-news-headline: Was gibt's Neues?
-news-other: Weitere News
-operators_without_fip: Betreiber ohne FIP
+news:
+  all: Alle News
+  further: Weitere News
+  headline: Was gibt's Neues?
+operators:
+  descriptionTemplate: >-
+    Informationen über die FIP-Bedingungen bei %s: Gültigkeit, Ticket- und
+    Reservierungskauf, Tarifliche Besonderheiten
+  listTitle: Betreiber mit FIP
+  withoutFIP: Betreiber ohne FIP
 related:
+  booking: Bei diesen Betreibern nutzbar
   countries: Verwandte Länder
   news: Verwandte News
   operators: Verwandte Betreiber
@@ -92,6 +116,13 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
+satellite:
+  content: >-
+    Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App
+    [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100
+    kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
+    wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
+    in Anspruch nehmen.
 search:
   label: Durchsuche alle Seiteninhalte
   placeholder: Suche
@@ -104,6 +135,21 @@ support:
     href="/de/contact">Kontaktformular</a> schreiben.
   title: Unterstütze uns
 toc_name: Inhalt
+trainCategory:
+  acceptance:
+    accepted: FIP akzeptiert
+    notAccepted: FIP nicht akzeptiert
+    partiallyAccepted: FIP teilweise akzeptiert
+  additionalInformation: Zusätzliche Informationen
+  importantInformation: Wichtige Informationen
+  reservation:
+    notPossible: Keine Reservierung möglich
+    partiallyPossible: Reservierung teilweise möglich
+    partiallyRequired: Reservierung teilweise erforderlich
+    possible: Reservierung möglich
+    required: Reservierung erforderlich
+  riskOfConfusion: Verwechslungsgefahr
+  routeOverview: Streckenübersicht
 updateDate:
   aria-label: Öffne die Commit-Verlauf der Seite
   label: Zuletzt aktualisiert

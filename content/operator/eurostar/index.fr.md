@@ -1,16 +1,16 @@
 ---
 draft: false
 title: "Eurostar"
-description: "Informations sur les conditions FIP pour Eurostar : Validité, Achat de billets et réservations, Conditions tarifaires spéciales"
 country:
   - "belgium"
+  - "germany"
   - "netherlands"
   - "united-kingdom"
   - "france"
 operator: "eurostar"
 ---
 
-Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge).
+Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").
 
 ## Résumé
 
@@ -121,11 +121,11 @@ Lors de la réservation, les cartes FIP de tous les voyageurs doivent être pré
 
 ### À bord du train
 
-Impossible d'acheter un billet à bord. Achat préalable obligatoire.
+Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu'à 3 ans inclus: gratuit, mais sans place attribuée. Pas d'autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d'un adulte. [^2]
+Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d’un adulte. [^2]
 
 ## Conditions tarifaires spéciales
 

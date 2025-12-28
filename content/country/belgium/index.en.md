@@ -1,21 +1,20 @@
 ---
 draft: false
 title: "Belgium"
-description: "Find out about the FIP conditions for Belgium and for which operators you can benefit from discounts."
 country: "belgium"
 params:
   operators_without_fip:
     - European Sleeper
-    - OuiGo
+    - OUIGO
 ---
 
 ## FIP Information
 
-In Belgium, both FIP 50 and FIP Coupons can be extensively used. The Belgian National Railway operator [SNCB]({{< ref "/operator/sncb" >}} "SNCB") (Société nationale des chemins de fer belges) or [NMBS]({{< ref "/operator/sncb" >}} "NMBS") (Nationale Maatschappij der Belgische Spoorwegen) is almost the sole operator of public passenger trains and can be used with FIP. Special attention should be paid to surcharges for Brussels Airport Zaventem.
+In Belgium, both FIP 50 and FIP Coupons can be extensively used. The Belgian National Railway operator [SNCB](/operator/sncb "SNCB") (Société nationale des chemins de fer belges) or [NMBS](/operator/sncb "NMBS") (Nationale Maatschappij der Belgische Spoorwegen) is almost the sole operator of public passenger trains and can be used with FIP. Special attention should be paid to surcharges for Brussels Airport Zaventem.
 
-Additionally, international [Eurostar]({{< ref "/operator/eurostar" >}} "Eurostar") trains operate, which can be used at a discount with special FIP Tickets. The trains are listed as train category `EST` in the connection information.
+Additionally, international [Eurostar](/operator/eurostar "Eurostar") trains operate, which can be used at a discount with special FIP Tickets. The trains are listed as train category `EST` in the connection information.
 
-Furthermore, international `TGV` trains of the SNCF from France operate, for which the FIP Coupon of SNCB are not valid. Only special FIP Global Fares can be booked for these trains. For the Eurocity trains from Brussels to Paris operated by OuiGo, no FIP discounts apply.
+Furthermore, international `TGV` trains of the [SNCF](/operator/sncf "SNCF") from France operate, for which the FIP Coupon of SNCB are not valid. Only special FIP Global Fares can be booked for these trains. For the Eurocity trains from Brussels to Paris operated by OUIGO, no FIP discounts apply.
 
 ## Interesting
 
@@ -44,13 +43,13 @@ From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 
 
 From Germany, the cross-border `ICE` from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required.
 
-The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
 
 ### Netherlands
 
 From the Netherlands, cross-border regional trains (including the `IC`) can be used; for these, an additional FIP Ticket from NS is required. Furthermore, long-distance trains (`ECD` and `EC`) operate, where an extra surcharge may apply on the Dutch section (between Rotterdam and Schiphol).
 
-The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section, including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section, including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
 
 ### France
 
@@ -58,4 +57,4 @@ From France, cross-border regional trains can be used, requiring an additional F
 
 For international `TGV` trains, there is a Global Fare, and FIP Coupons passes are not valid as they are not operated by SNCB.
 
-The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar]({{% ref "/operator/eurostar" %}} "Eurostar"))
+The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))

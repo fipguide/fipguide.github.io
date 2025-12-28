@@ -1,19 +1,18 @@
 ---
 draft: false
 title: "Poland"
-description: "Find out about the FIP conditions for Poland and for which operators you can benefit from discounts."
 country: "poland"
 params:
   operators_without_fip:
     - Arriva
-    - LeoExpress
+    - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
 ---
 
 ## FIP Information
 
-Poland is the country with the most different railway companies that offer FIP. It depends very much on which voivodeships (parts of Poland) the journeys should go through. The most important operator is the state railway company [PKP]({{< ref "/operator/pkp" >}} "PKP") (Polskie Koleje Państwowe), which with its subsidiaries covers almost the complete long-distance traffic as well as large parts of regional traffic. In addition to PKP Intercity and Polregio, PKP also includes the local rail system of Gdansk (Tri-City) and the regional traffic of Koleje Mazowieckie (KM). The following regionally operating railway companies offer FIP separately:
+Poland is the country with the most different railway companies that offer FIP. It depends very much on which voivodeships (parts of Poland) the journeys should go through. The most important operator is the state railway company [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), which with its subsidiaries covers almost the complete long-distance traffic as well as large parts of regional traffic. In addition to PKP Intercity and Polregio, PKP also includes the local rail system of Gdansk (Tri-City) and the regional traffic of Koleje Mazowieckie (KM). The following regionally operating railway companies offer FIP separately:
 
 - Koleje Dolnośląskie (KD)
 - Koleje Śląskie (KS)
@@ -56,7 +55,9 @@ The other border crossings are currently only served by regional traffic. For tr
 
 ### Lithuania
 
-Between Lithuania and Poland, currently only one train pair daily is offered from Vilnius via Kaunas to Warsaw and Krakow. With this InterCity connection, you have to change trains once at the border in Mockava, as the two countries have different track gauges in their rail networks. However, the route is sold as one continuous connection in Poland and Lithuania, so there is a connection guarantee. With FIP Tickets from PKP and Lithuanian LTG-Link plus paid reservation, you can travel completely with FIP here.
+From Vilnius and Kaunas, starting in December 2025, there will be two daily connections to Warsaw and in some cases further to Szczecin, with a transfer required at the border station Mockava—either on the same platform or via a level crossing to the adjacent platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket Purchase](/operator/ltg#online)). For cross-border journeys to or from Poland, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
+
+The number of tickets is limited, as travel is only possible with a seat reservation. From December 2025, a fixed seat reservation will only be assigned in the PKP `IC`, while on the LTG-Link trainsets, free seating will apply.
 
 ### Slovakia
 

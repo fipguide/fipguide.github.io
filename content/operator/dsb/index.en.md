@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "DSB"
-description: "Information about FIP conditions at DSB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "denmark"
 operator: "dsb"
 ---
 
-The DSB (Danske Statsbaner) is the state-owned railway company in Denmark. It operates the majority of passenger traffic on the Danish rail network.
+The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
 
 ## Summary
 
@@ -24,7 +23,7 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 
 ## Train Categories and Reservations
 
-Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the EC trains Hamburg – Copenhagen are usually reservation-required during the summer.
+Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the `ECE` trains Hamburg – Copenhagen are usually reservation-required during the summer.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Description:** \
@@ -40,9 +39,9 @@ Intercity trains are similar to `ICL` trains but stop more frequently and are sl
 **Reservation mandatory:** no
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Description:** \
-Eurocity trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. As of 2025, they use former IC coaches of Deutsche Bahn. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
+Eurocity-Express trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense. A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer). \
 **Reservation possible:** yes \
 **Reservation mandatory:** ⚠️ Only in the peak season (summer)
 {{% /expander %}}

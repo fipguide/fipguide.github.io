@@ -2,21 +2,21 @@
 draft: false
 title: "Italy"
 country: "italy"
-description: "Information about FIP conditions for Italy and which operators offer discounts."
 params:
   operators_without_fip:
     - Azienda Regionale Sarda Trasporti
     - Circumflegrea
     - Circumvesuviana
     - Cumana
-    - '[Ferrovie Sud Est]({{< ref "/operator/fs##validity-of-fip-tickets" >}} "Ferrovie Sud Est")'
+    - European Sleeper
+    - '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud Est")'
     - Italo / NTV
-    - '[Trenord]({{< ref "/operator/fs##validity-of-fip-tickets" >}} "Trenord")'
+    - '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'
 ---
 
 ## FIP Information
 
-In Italy, local trains are mostly operated by [Trenitalia]({{< ref "/operator/fs" >}} "Trenitalia") and can be used with FIP Tickets. Exceptions are trains operated by Trenord in northern Italy and Ferrovie Sud Est (even if the trains have Trenitalia logos). In the Naples area, some narrow-gauge lines are not operated by Trenitalia and cannot be used with FIP Tickets.
+In Italy, local trains are mostly operated by [Trenitalia](/operator/fs "Trenitalia") and can be used with FIP Tickets. Exceptions are trains operated by Trenord in northern Italy and Ferrovie Sud Est (even if the trains have Trenitalia logos). In the Naples area, some narrow-gauge lines are not operated by Trenitalia and cannot be used with FIP Tickets.
 
 For long-distance travel, the Frecce trains of Trenitalia can only be used with expensive reservations (including surcharge). Additionally, trains of the private operator Italo are not usable with FIP Tickets.
 
@@ -68,7 +68,7 @@ There are two international routes from Austria to Italy:
 - The Brenner railway: With Eurocity trains from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, and S3 trains from Brenner to Innsbruck. From Brenner, regional trains to Bolzano can be used.
 - The route via Tarvisio Boscoverde: With Railjets from Vienna to Venice and some regional trains from Villach to Trieste.
 
-On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian section for long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border. This can be paid directly on the train.
+On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian section for long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border. This can be paid directly on the train (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### France
 

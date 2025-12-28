@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "CP"
-description: "Informationen über die FIP-Bedingungen bei Comboios de Portugal (CP): Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "portugal"
 operator: "cp"
 ---
 
-Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in Portugal.
+Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in [Portugal](/country/portugal "Portugal").
 
 ## Zusammenfassung
 

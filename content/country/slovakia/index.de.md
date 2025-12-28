@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Slowakei"
-description: "Informationen über die FIP-Bedingungen für die Slowakei und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "slovakia"
 params:
   operators_without_fip:
@@ -10,7 +9,7 @@ params:
 
 ## FIP Nutzung
 
-Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná
+Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná
 spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig.
 Besonders zu beachten sind Reservierungsbedingung im Fernverkehr sowie erweiterte Regleung zu kostenfreien Mitnahme von Kindern.
 
@@ -43,7 +42,14 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 ### Österreich
 
-Von Österreich werden grenzüberschreitende Intercitys, Railjets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. Ausgenommen davon sind die `D` Züge zwischen Bratislava und Wien. Diese sind im gesamten Abschnitt (auch in Österreich) mit dem Freifahrtschein der ZSSK nutzbar.
+Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
+
+- Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
+- Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
+
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
+
+Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Ungarn
 

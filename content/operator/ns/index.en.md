@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "NS"
-description: "Information about FIP conditions at NS: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "netherlands"
 operator: "ns"
 ---
 
-Nederlandse Spoorwegen (NS) is the state railway company of the Netherlands and operates the majority of passenger traffic on the Dutch rail network.
+Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/country/netherlands "Netherlands") and operates the majority of passenger traffic on the Dutch rail network.
 
 ## Summary
 
@@ -32,7 +31,7 @@ Supplements must be paid for Eurocity Direct and partly for Intercity Direct tra
 
 {{% expander "Intercity-Express (ICE) ⚠️" traincategory category  %}}
 **Description:** \
-High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main), but can also be used within the Netherlands between Amsterdam, Utrecht, and Arnhem with FIP Coupons without a supplement. However, a supplement is required with FIP 50 Tickets. \
+High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main or Hanover / Berlin), but can also be used within the Netherlands between Amsterdam and Arnhem or Hengelo with an FIP Coupon without a supplement. However, with FIP 50 Tickets, a supplement is required. \
 **Reservation possible:** yes \
 **Reservation required:** ⚠️ no (cross-border during high season: yes) \
 **Supplement:** ⚠️ \
@@ -74,15 +73,11 @@ Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the s
 With FIP 50 Tickets, prices may vary by train category.
 {{% /expander %}}
 
-{{% expander "Intercity (IC) ⚠️" traincategory category %}}
+{{% expander "Intercity (IC)" traincategory category %}}
 **Description:** \
-Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops.
-An exception is the `IC` Amsterdam – Berlin, which is a true cross-border `IC` with stops only at major hubs. \
-**Reservation possible:** only on the `IC` Amsterdam – Berlin \
-**Reservation required:** no (cross-border during high season: yes) \
-**Supplement**: ⚠️ \
-From October 18, 2025, the `IC` line Amsterdam – Berlin will gradually be converted to ICE 3neo trains. When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of 3 € per journey must be paid. No supplement is required when using FIP Coupons. \
-The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or on site at ticket machines or counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
+Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops. \
+**Reservation possible:** no \
+**Reservation required:** no
 {{% /expander %}}
 
 {{% expander "Sneltrein (RE) ℹ️" traincategory category %}}

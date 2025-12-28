@@ -11,12 +11,16 @@
     <header id="header" class="o-header">{{ partial "header.html" . }}</header>
     <main
       id="content"
-      class="{{ if .IsHome }}o-startpage{{ end }}{{ if eq .Page.Type "news" }}
-        o-newspage
-      {{ end }}"
+      {{- if .IsHome -}}
+        class="o-startpage"
+      {{- else if eq .Page.Type "news" -}}
+        class="o-newspage"
+      {{- else if eq .Page.Type "booking" -}}
+        class="o-bookingpage"
+      {{- end -}}
     >
       <div class="o-container">
-        {{ if not .IsHome }}
+        {{- if not .IsHome -}}
           <div
             id="search"
             class="o-search o-container o-search--contentpage"
@@ -28,7 +32,7 @@
       </div>
     </main>
     <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
-    {{ if and (eq .Kind "page") (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
+    {{ if or (eq .Page.Type "country") (eq .Page.Type "operator") (eq .Page.Type "generalinformation") }}
       {{ partial "snackbar" . }}
     {{ end }}
   </body>

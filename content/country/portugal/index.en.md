@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Portugal"
-description: "Find out about the FIP conditions for Portugal and for which operators you can benefit from discounts."
 country: "portugal"
 params:
   operators_without_fip:
@@ -10,7 +9,7 @@ params:
 
 ## FIP Information
 
-In Portugal, FIP 50 Tickets and FIP Coupons can be used on the majority of the rail network. The [state railway company CP]({{< ref "/operator/cp" >}} "CP") operates most lines in Portugal — FIP is generally well usable here, with a few caveats. High-speed services require a reservation and in the Lisbon urban area there are ticket barriers at some stations.
+In Portugal, FIP 50 Tickets and FIP Coupons can be used on the majority of the rail network. The [state railway company CP](/operator/cp "CP") operates most lines in Portugal — FIP is generally well usable here, with a few caveats. High-speed services require a reservation and in the Lisbon urban area there are ticket barriers at some stations.
 
 The private operator Fertagus runs the `R` line between Lisbon Roma-Areeiro and Setúbal. This route is unfortunately not valid with FIP. In the [CP journey planner](https://www.cp.pt/en) Fertagus trains do not appear; on Google Maps they are visible under the line name `Setúbal`.
 
@@ -44,6 +43,6 @@ Particularly recommended stations to visit:
 
 There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP Tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey.
 
-There is also the Celta service from Vigo to Porto. A special FIP Global fare applies on the entire route ([see CP – Celta]({{< ref "/operator/cp#train-categories-and-reservations" >}} "CP")).
+There is also the Celta service from Vigo to Porto. A special FIP Global fare applies on the entire route ([see CP – Celta](/operator/cp#train-categories-and-reservations "CP")).
 
 Work is underway on a continuous high-speed connection between Lisbon and Madrid.

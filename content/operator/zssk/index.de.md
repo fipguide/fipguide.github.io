@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ZSSK / ZSR"
-description: "Informationen über die FIP-Bedingungen bei ZSR / ZSSK: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "slovakia"
 operator: "zssk"
@@ -10,7 +9,7 @@ aliases:
   - zsr
 ---
 
-Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der Slowakei.
+Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der [Slowakei](/country/slovakia "Slowakei").
 
 ## Zusammenfassung
 

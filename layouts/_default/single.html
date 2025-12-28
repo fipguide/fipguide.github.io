@@ -1,5 +1,10 @@
 {{ define "main" }}
-  <article class="o-single">
+  <article
+    class="o-single"
+    {{- if .Params.pagefind_ignore -}}
+      data-pagefind-ignore="all"
+    {{- end -}}
+  >
     <div class="o-single__header">
       <h1 data-pagefind-meta="title">{{ .Title }}</h1>
     </div>

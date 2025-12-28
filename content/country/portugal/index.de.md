@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Portugal"
-description: "Informationen über die FIP-Bedingungen für Portugal und für welche Betreiber Vergünstigungen genutzt werden können."
 country: "portugal"
 params:
   operators_without_fip:
@@ -11,7 +10,7 @@ params:
 ## FIP Nutzung
 
 In Portugal können FIP 50 Tickets und FIP Freifahrtscheine auf dem Großteil des Schienennetzes genutzt werden.
-Die [staatliche Bahngesellschaft CP]({{< ref "/operator/cp" >}} "CP") betreibt die meisten Strecken in Portugal – hier ist FIP mit einzelnen Herausforderungen sehr gut nutzbar.
+Die [staatliche Bahngesellschaft CP](/operator/cp "CP") betreibt die meisten Strecken in Portugal – hier ist FIP mit einzelnen Herausforderungen sehr gut nutzbar.
 So ist im Hochgeschwindigkeitsverkehr eine Reservierung notwendig und im Ballungsraum Lissabon gibt es teilweise Ticketschranken.
 
 Das private Eisenbahnverkehrsunternehmen Fertagus betreibt die `R`-Linie zwischen Lissabon Roma-Areeiro und Setúbal. Diese Strecke ist leider nicht mit FIP nutzbar.
@@ -52,6 +51,6 @@ Besonders empfehlenswert ist ein Besuch der folgenden Bahnhöfe:
 
 Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Madrid nach Lissabon zu kommen, werden mehrere Umstiege notwendig, unter anderem an der spanischen Grenze in Badajoz, und es müssen lange Fahrtzeiten in Regionalzügen in Kauf genommen werden. Für die Reise werden FIP Tickets / Freifahrtscheine der CP sowie ein Renfe-Ticket für den spanischen Abschnitt benötigt.
 
-Ansonsten gibt es noch die Celta-Verbindung von Vigo nach Porto. Hier gilt ein FIP Globalpreis auf der gesamten Route ([siehe CP – Celta]({{< ref "/operator/cp#zugkategorien-und-reservierungen" >}} "CP")).
+Ansonsten gibt es noch die Celta-Verbindung von Vigo nach Porto. Hier gilt ein FIP Globalpreis auf der gesamten Route ([siehe CP – Celta](/operator/cp#zugkategorien-und-reservierungen "CP")).
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.

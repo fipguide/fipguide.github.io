@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "ČD"
-description: "Information about FIP conditions at České dráhy (ČD): validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "czechia"
 operator: "cd"
 ---
 
-České dráhy (ČD) is the state railway company of the Czech Republic and operates a large part of passenger services on the Czech rail network.
+České dráhy (ČD) is the state railway company of the [Czech Republic](/country/czechia "Czech Republic") and operates a large part of passenger services on the Czech rail network.
 
 ## Summary
 
@@ -27,7 +26,7 @@ FIP Coupons and FIP 50 Tickets are valid on ČD services. For cross-border journ
 {{% highlight important %}}
 On some routes and in some regions, FIP Tickets are not valid, even if the services are operated by ČD.
 
-Further information: [ČD services without FIP]({{% ref "#čd-services-without-fip" %}})
+Further information: [ČD services without FIP](#čd-services-without-fip)
 {{% /highlight %}}
 
 ## Train Categories and Reservations

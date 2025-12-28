@@ -1,5 +1,18 @@
 {{ $pageType := .pageType | default .index }}
-{{ $related := where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
+{{ $related := "" }}
+
+{{ if eq $pageType "booking" }}
+  {{ $related = slice }}
+  {{ $searchPattern := printf "booking id=\"%s\"" .page.File.ContentBaseName }}
+  {{ range where .page.Site.RegularPages "Type" "operator" }}
+    {{ if in .RawContent $searchPattern }}
+      {{ $related = $related | append . }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $related = where (.page.Site.RegularPages.RelatedIndices .page .index) ".Page.Type" $pageType }}
+{{ end }}
+
 {{ if gt (len $related) 0 }}
   <h3 id="o-related__title-{{ .identifier }}">{{ .title }}</h3>
   <ul
@@ -11,13 +24,13 @@
         {{ $text := .LinkTitle }}
         {{ if eq .Page.Type "news" }}
           {{ $text = print (partial "icon" "newspaper") $text }}
-        {{ else if eq .Page.Type "operator" }}
+        {{ else if or (eq .Page.Type "operator") (eq .Page.Type "booking") }}
           {{ $text = print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) $text }}
         {{ else if eq .Page.Type "country" }}
           {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
         {{ end }}
 
-        {{ partial "internal_link" (
+        {{ partial "link" (
           dict
           "Destination" .RelPermalink
           "Text" ($text | .Page.RenderString)

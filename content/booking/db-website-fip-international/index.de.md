@@ -23,6 +23,8 @@ aliases:
 
 Über die Deutsche Bahn können Online FIP 50 Fahrkarten für Fahrten in Deutschland und angrenzenden Ländern gebucht werden. Die Tickets müssen mindestens einen Teilabschnitt in Deutschland haben. Die FIP 50 Fahrkarte wird für die komplette Strecke ausgestellt. **Das Ticket hat keine Gültigkeit im Ausstellungsland des FIP Ausweises**. Dort ist ein zusätzliches Ticket erforderlich.
 
+Mitarbeitende der ÖBB, SBB und PKP können zudem Tickets buchen, die nur Gültigkeit im deutschen Streckenabschnitt haben. Für den Streckenabschnitt im eigenen Land ist ein zusätzliches Ticket erforderlich, da der Ticketpreis erst ab der deutschen Grenze berechnet wird. **Das Ticket hat keine Gültigkeit im Ausstellungsland des FIP Ausweises**.
+
 Die Buchung ist nur über den [Link](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) möglich. Vergünstigungen müssen nicht ausgewählt werden, sondern werden automatisch angewendet.
 
 FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ein Teilabschnitt in Deutschland enthalten ist:
@@ -41,6 +43,8 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 - Schweiz
 - Tschechien
 {.o-section--columns-3}
+
+![Ticketauswahl](ticket-selection.webp)
 
 {{% /booking-section %}}
 

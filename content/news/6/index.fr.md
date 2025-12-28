@@ -7,9 +7,9 @@ country:
   - switzerland
 ---
 
-Les Rigi-Bahnen exploitent diverses lignes de montagne vers le Rigi, connu sous le nom de "Reine des Montagnes". L'entreprise comprend à la fois des chemins de fer à crémaillère et des téléphériques et relie plusieurs localités autour du lac des Quatre-Cantons à cette destination touristique populaire. Le chemin de fer Vitznau-Rigi fut le premier chemin de fer de montagne d'Europe en 1871.
+Les Rigi-Bahnen exploitent diverses lignes de montagne vers le Rigi, connu sous le nom de "Reine des Montagnes". L’entreprise comprend à la fois des chemins de fer à crémaillère et des téléphériques et relie plusieurs localités autour du lac des Quatre-Cantons à cette destination touristique populaire. Le chemin de fer Vitznau-Rigi fut le premier chemin de fer de montagne d’Europe en 1871.
 
-Depuis le 1er janvier 2025, les Rigi-Bahnen en Suisse acceptent les réductions FIP. Il est possible d'acheter des Billets FIP 50 à tarif réduit ou d'utiliser le Coupon FIP pour les chemins de fer privés suisses (SP).
+Depuis le 1er janvier 2025, les Rigi-Bahnen en Suisse acceptent les réductions FIP. Il est possible d’acheter des Billets FIP 50 à tarif réduit ou d’utiliser le Coupon FIP pour les chemins de fer privés suisses (SP).
 
 Les réductions FIP sont valables sur les lignes suivantes des Rigi-Bahnen [^1] :
 

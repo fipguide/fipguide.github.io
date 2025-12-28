@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Czechia"
-description: "Information about FIP conditions for Czechia and which operators offer discounts."
 country: "czechia"
 params:
   operators_without_fip:
@@ -15,7 +14,7 @@ params:
 
 ## FIP Information
 
-Czechia is not the easiest country for using FIP, but it is still quite possible to travel with it. The Czech state railway České dráhy ([ČD]({{< ref "/operator/cd" >}} "ČD")) is the only FIP operator in the country, but it also operates a large part of the rail network.
+Czechia is not the easiest country for using FIP, but it is still quite possible to travel with it. The Czech state railway České dráhy ([ČD](/operator/cd "ČD")) is the only FIP operator in the country, but it also operates a large part of the rail network.
 
 However, note that FIP is no longer valid on all routes operated by ČD. There are also some _commercial services_ where a supplement must be paid. With a FIP Coupon, all these exceptions must be considered, while FIP 50 Tickets sold by ČD should make it easier to see which trains are valid. Private operators like Arriva or Die Länderbahn do not accept FIP at all, but tickets in Czechia are generally quite affordable.
 
@@ -44,7 +43,7 @@ Punctuality is solid, and connecting trains often wait, but not in major hubs li
 
 ### Germany
 
-There are various rail border crossings from Germany that can be used. The most well-known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the EC/RJ trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a continuous FIP 50 Ticket are valid for the journey.
+There are various rail border crossings from Germany that can be used. The most well-known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the `RJ`/`RJX` trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a continuous FIP 50 Ticket are valid for the journey.
 
 The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin – Bad Schandau – Sebnitz – Rumburk).
 

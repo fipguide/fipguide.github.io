@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Slovakia"
-description: "Find out about the FIP conditions for slovakia and for which operators you can benefit from discounts."
 country: "slovakia"
 params:
   operators_without_fip:
@@ -10,7 +9,7 @@ params:
 
 ## FIP Information
 
-Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK]({{< ref "/operator/zssk" >}} "ZSR/ZSSK") (Železničná spoločnosť Slovensko), for which the FIP Tickets of ŽSR are valid.
+Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná spoločnosť Slovensko), for which the FIP Tickets of ŽSR are valid.
 
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
@@ -43,7 +42,14 @@ From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used 
 
 ### Austria
 
-From Austria, cross-border Intercity, Railjet, and regional trains (REX) are available. For all connections, an additional FIP Coupon of the Austrian Federal Railways (ÖBB) is required. The exception is the `D` trains between Bratislava and Vienna, which can be used with the ZSSK Coupon for the entire route (including in Austria).
+Arrival from Austria is possible via two different local train connections:
+
+- One connection runs north of the Danube from Vienna via Marchegg to Bratislava main station (Bratislava hl.st.).
+- Another connection goes from Vienna via Kittsee to the south of Bratislava (Bratislava Petrzalka).
+
+For both routes, an FIP 50 Ticket of [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
+
+Additionally, there are some individual `EC` connections.
 
 ### Hungary
 

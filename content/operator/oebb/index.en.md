@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "ÖBB"
-description: "Information about FIP conditions at ÖBB: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "austria"
   - "liechtenstein"
@@ -11,7 +10,7 @@ aliases:
   - obb
 ---
 
-ÖBB (Austrian Federal Railways) is Austria’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
+ÖBB (Austrian Federal Railways) is [Austria](/country/austria "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
 
 ## Summary
 
@@ -192,7 +191,7 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 ## Special Tariff Conditions
 
-### Traffic to Italy
+### Trains to Italy
 
 On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 

@@ -1,28 +1,39 @@
-{{ if and .Destination (or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://")) }}
+{{- if and .Destination (or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://")) -}}
   <!-- If the picture is fetched from external sources, don't do image processing -->
-  {{ $remoteImage := resources.GetRemote .Destination }}
+  {{- $remoteImage := resources.GetRemote .Destination -}}
   <img
     src="{{ $remoteImage.Permalink }}"
     alt="{{ .Title }}"
     title="{{ .Title }}"
     loading="lazy"
   />
-{{ else }}
+{{- else -}}
   <!-- Local picture with image processing -->
-  {{ $image := "" }}
+  {{- $image := "" -}}
   <!-- Check the page context first -->
-  {{ with $.Page.Resources.Get .Destination }}
-    {{ $image = . }}
-  {{ else }}
+  {{- with $.Page.Resources.Get .Destination -}}
+    {{- $image = . -}}
+  {{- else -}}
     <!-- Otherwise look for the image in the static folders -->
-    {{ with resources.Get .Destination }}
-      {{ $image = . }}
-    {{ end }}
-  {{ end }}
+    {{- with resources.Get .Destination -}}
+      {{- $image = . -}}
+    {{- end -}}
+  {{- end -}}
 
-  {{ if $image }}
-    {{ partial "image" $image }}
-  {{ else }}
-    {{ warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $.Page.File.Path }}
-  {{ end }}
-{{ end }}
+  {{- if $image -}}
+    {{- $parts := split $image.Permalink "." -}}
+    {{- $extension := index $parts (sub (len $parts) 1) -}}
+    {{- if eq $extension "svg" -}}
+      <img
+        src="{{ $image.RelPermalink }}"
+        alt="{{ $image.Title }}"
+        title="{{ $image.Title }}"
+        loading="lazy"
+      />
+    {{- else -}}
+      {{- partial "image" (dict "image" $image) -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $.Page.File.Path -}}
+  {{- end -}}
+{{- end -}}

@@ -1,13 +1,12 @@
 ---
 draft: false
 title: "PKP"
-description: "Informationen über die FIP-Bedingungen bei der PKP: Gültigkeit, Ticket- und Reservierungskauf, Tarifliche Besonderheiten"
 country:
   - "poland"
 operator: "pkp"
 ---
 
-Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des polnischen Schienenpersonenverkehrs.
+Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des Schienenpersonenverkehrs in [Polen](/country/poland "Polen").
 
 ## Zusammenfassung
 
@@ -92,14 +91,14 @@ Innerhalb Polens: \
 Schlafwagen: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
 Liegewagen: 3er/4er Abteil 69 PLN, 6er Abteil 59 PLN [^1]
 
-Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html)
+Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
 {{% /expander %}}
 
 {{% expander "Regio (R) ℹ️" traincategory category %}}
 **Beschreibung:** \
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
 
-ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen]({{< ref "/country/poland" >}} "Polen") \
+ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen](/country/poland "Polen") \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}

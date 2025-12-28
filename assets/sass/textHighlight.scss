@@ -1,9 +1,11 @@
 .m-text-highlight {
-  background-color: var(--bg-neutral);
   padding: 1.2rem;
   margin-bottom: 1.2rem;
   border-radius: var(--border-radius-m);
-  border-left: var(--bg-neutral) solid 1rem;
+
+  @media print {
+    border-width: 0.1rem;
+  }
 
   // Remove margins from last elements of expander (up to 2 levels deep)
   & > *:last-child,
@@ -28,29 +30,18 @@
   gap: 0.4rem;
 }
 
-.m-text-highlight--tip {
-  background-color: var(--highlight-color-tip);
-  border-left: #1db5df solid 1rem;
+@each $name, $color in $highlight-colors {
+  .m-text-highlight--#{$name} {
+    background-color: var(--highlight-#{$name}-bg);
+    border: var(--highlight-#{$name}-color) solid 0.1rem;
+    border-width: 0.1rem 0.1rem 0.1rem 1rem;
 
-  @media print {
-    border: 0.2rem solid #1db5df;
-  }
-}
+    @media print {
+      background-color: none;
+    }
 
-.m-text-highlight--inofficial {
-  background-color: var(--highlight-color-inofficial);
-  border-left: #878c96 solid 1rem;
-
-  @media print {
-    border: 0.2rem solid #878c96;
-  }
-}
-
-.m-text-highlight--important {
-  background-color: var(--highlight-color-important);
-  border-left: #ba3d12 solid 1rem;
-
-  @media print {
-    border: 0.2rem solid #ba3d12;
+    > .m-text-highlight__roofline {
+      color: var(--highlight-#{$name}-color);
+    }
   }
 }

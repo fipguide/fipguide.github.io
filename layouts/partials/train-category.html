@@ -1,0 +1,139 @@
+<details
+  class="o-expander o-expander--train-category"
+  name="train-category"
+  id="{{ .id }}"
+>
+  <summary class="o-expander__summary o-expander__summary--train-category">
+    <div class="o-train-category__header">
+      <div class="o-train-category__title">
+        {{ $iconMapping := dict
+          "highspeed" "train"
+          "regional" "directions_subway"
+          "subway" "subway"
+          "sleeper" "hotel"
+          "funicular" "funicular"
+          "bus" "directions_bus"
+          "ship" "directions_boat"
+          "tram" "tram"
+          "ship" "directions_boat"
+          }}
+        {{- partial "icon" (index $iconMapping .type) -}}
+        <span class="o-train-category__title-text">{{- .title -}}</span>
+      </div>
+      <div class="o-train-category__tags">
+        {{- if eq .fip_accepted true -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "check_circle"
+            "Text" "trainCategory.acceptance.accepted"
+            "Type" "success"
+            )
+          }}
+        {{- else if eq .fip_accepted "partially" -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "info"
+            "Text" "trainCategory.acceptance.partiallyAccepted"
+            "Type" "warning"
+            )
+          }}
+        {{- else -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "cancel"
+            "Text" "trainCategory.acceptance.notAccepted"
+            "Type" "error"
+            )
+          }}
+        {{- end -}}
+
+        {{- if eq .reservation_required true -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_add_on"
+            "Text" "trainCategory.reservation.required"
+            "Type" "error"
+            )
+          }}
+        {{- else if eq .reservation_required "partially" -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_add_on"
+            "Text" "trainCategory.reservation.partiallyRequired"
+            "Type" "warning"
+            )
+          }}
+        {{- else if eq .reservation_possible true -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_check"
+            "Text" "trainCategory.reservation.possible"
+            "Type" "info"
+            )
+          }}
+        {{- else if eq .reservation_possible "partially" -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_lock"
+            "Text" "trainCategory.reservation.partiallyPossible"
+            "Type" "info"
+            )
+          }}
+        {{- else if eq .reservation_possible false -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "calendar_lock"
+            "Text" "trainCategory.reservation.notPossible"
+            "Type" "info"
+            )
+          }}
+        {{- end -}}
+
+        {{- if .risk_of_confusion -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "question_exchange"
+            "Text" "trainCategory.riskOfConfusion"
+            "Type" "warning"
+            )
+          }}
+        {{- end -}}
+
+        {{- if .important_info -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "campaign"
+            "Text" "trainCategory.importantInformation"
+            "Type" "warning"
+            )
+          }}
+        {{- end -}}
+      </div>
+    </div>
+    {{- partial "icon" "keyboard_arrow_down" -}}
+  </summary>
+  <hr aria-hidden="true" />
+  <div class="o-expander__content o-train-category__content">
+    {{ .content }}
+    {{- if or .route_overview_url .additional_information_url -}}
+      <div>
+        {{- if .route_overview_url -}}
+          {{- partial "button"
+            (dict
+            "Destination" .route_overview_url
+            "Text" (T "trainCategory.routeOverview")
+            )
+          -}}
+        {{- end -}}
+        {{- if .additional_information_url -}}
+          {{- partial "button"
+            (dict
+            "Destination" .additional_information_url
+            "Text" (T "trainCategory.additionalInformation")
+            )
+          -}}
+        {{- end -}}
+      </div>
+    {{- end -}}
+  </div>
+</details>

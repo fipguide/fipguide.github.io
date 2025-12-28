@@ -1,12 +1,11 @@
 ---
 draft: false
 title: "Autriche"
-description: "Informations sur les conditions FIP en Autriche et les opérateurs qui proposent des réductions."
 country: "austria"
 params:
   operators_without_fip:
     - Achenseebahn
-    - '[CAT (City Airport Train) Vienne]({{< ref "/operator/oebb#aéroport-de-vienne--city-airport-train-cat" >}} "CAT")'
+    - ’[CAT (City Airport Train) Vienne](/operator/oebb#aéroport-de-vienne--city-airport-train-cat "CAT")’
     - GKB
     - Graz–Köflacher Bahn
     - Montafonerbahn
@@ -22,11 +21,11 @@ params:
 
 ## Informations FIP
 
-En Autriche, les trains des [Chemins de fer fédéraux autrichiens (ÖBB)]({{% ref "/operator/oebb" %}} "ÖBB") sont accessibles avec les Billets FIP. Westbahn et RegioJet exploitent également des trains grandes lignes en parallèle avec l’ÖBB, mais ne sont pas utilisables avec des Billets FIP. Dans les planificateurs de trajet, ces trains sont abrégés en `IC` ou `WB` (à ne pas confondre avec les `IC` de l’ÖBB).
+En Autriche, les trains des [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb "ÖBB") sont accessibles avec les Billets FIP. Westbahn et RegioJet exploitent également des trains grandes lignes en parallèle avec l’ÖBB, mais ne sont pas utilisables avec des Billets FIP. Dans les planificateurs de trajet, ces trains sont abrégés en `IC` ou `WB` (à ne pas confondre avec les `IC` de l’ÖBB).
 
 Il existe aussi plusieurs opérateurs régionaux de trains locaux qui n’acceptent pas les Billets FIP. Ils utilisent souvent les mêmes catégories que l’ÖBB : `RE`, `REX` et `S`. En cas de doute, consultez le site de l’opérateur ou [Bahn.de](https://int.bahn.de/fr/).
 
-La [GySEV / Raaberbahn]({{% ref "/operator/gysev" %}} "GySEV") est une deuxième compagnie ferroviaire qui accepte les Billets FIP en Autriche et en Hongrie. Les Coupons FIP GySEV sont principalement destinés à la Hongrie et ne sont valables que de façon limitée sur les lignes GySEV en Autriche.
+La [GySEV / Raaberbahn](/operator/gysev "GySEV") est une deuxième compagnie ferroviaire qui accepte les Billets FIP en Autriche et en Hongrie. Les Coupons FIP GySEV sont principalement destinés à la Hongrie et ne sont valables que de façon limitée sur les lignes GySEV en Autriche.
 
 ## Informations générales
 
@@ -76,11 +75,11 @@ Sinon, un Billet FIP GySEV est requis pour les lignes GySEV.
 
 L’Autriche et la Suisse ne sont reliées que par un seul passage frontalier principal, à St. Margrethen. Ce point est desservi principalement par des trains régionaux, mais aussi par des EuroCity qui ne s’arrêtent qu’à Bregenz côté autrichien et circulent sinon depuis l’Allemagne (Munich).
 
-L’entrée depuis la Suisse est également possible via Buchs SG et Feldkirch en traversant le Liechtenstein. Au Liechtenstein, les [Billets FIP ÖBB]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB") sont valables. Il est donc possible d’obtenir un billet continu entre l’Autriche et la Suisse en utilisant des Coupons FIP ÖBB et SBB. La ligne principale entre les deux pays passe ici, avec des trains Railjet autrichiens et EuroCity entre Vienne/Graz et Zurich, ainsi que des trains régionaux.
+L’entrée depuis la Suisse est également possible via Buchs SG et Feldkirch en traversant le Liechtenstein. Au Liechtenstein, les [Billets FIP ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables. Il est donc possible d’obtenir un billet continu entre l’Autriche et la Suisse en utilisant des Coupons FIP ÖBB et SBB. La ligne principale entre les deux pays passe ici, avec des trains Railjet autrichiens et EuroCity entre Vienne/Graz et Zurich, ainsi que des trains régionaux.
 
 ### Liechtenstein
 
-Le Liechtenstein et l’Autriche ne sont reliés que par quelques trains en semaine. Ces trains S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les Chemins de fer fédéraux autrichiens [(ÖBB)]({{< ref "/operator/oebb#liechtenstein" >}} "ÖBB"). Les Coupons FIP ÖBB et les Billets FIP 50 sont donc également valables au Liechtenstein.
+Le Liechtenstein et l’Autriche ne sont reliés que par quelques trains en semaine. Ces trains S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP ÖBB et les Billets FIP 50 sont donc également valables au Liechtenstein.
 
 Sinon, le trafic transfrontalier est principalement assuré par des bus, sur lesquels les Billets FIP ne sont pas valables.
 
@@ -94,21 +93,18 @@ Outre les liaisons régionales, il existe deux itinéraires internationaux entre
 Sur ces trajets, les Coupons FIP ÖBB sont valables en Italie, mais un supplément est requis côté italien.
 
 Il existe aussi des EuroCity via la Slovénie vers Trieste (`EC` 151/134) : \
-entre Villa Opicina et Trieste, le Coupon FIP ÖBB est valable, mais un petit supplément s’applique.
+entre Villa Opicina et Trieste, le Coupon FIP ÖBB est valable, mais un petit supplément s’applique (voir [Trains vers l’Italie](/operator/oebb/#trains-vers-litalie)).
 
 ### Slovaquie
 
-Deux lignes locales relient la Slovaquie à l’Autriche :
+Depuis la Slovaquie, il existe deux liaisons régionales possibles pour rejoindre l’Autriche :
 
-- La plus rapide : Bratislava hl.st. – Marchegg – Vienne\*(à partir du 10/10/2025).
-- L’autre : Bratislava Petržalka – Kittsee – Vienne.
+- Une liaison part du nord du Danube depuis la gare principale de Bratislava (Bratislava hl.st.) via Marchegg jusqu’à Vienne.
+- Une autre liaison démarre au sud de Bratislava (Bratislava Petrzalka) et passe par Kittsee jusqu’à Vienne.
 
-Pour les deux, un Billet FIP 50 [ZSR / ZSSK]({{% ref "/operator/zssk" %}} "ZSR / ZSSK") est requis pour la partie slovaque. \
-En complément, 4 paires de trains `D` relient Vienne à Bratislava hl.st. (également à partir du 10/10/2025). \
-Ces trains peuvent être utilisés :
+Pour les deux itinéraires, un Billet FIP 50 de la [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
 
-- avec un Coupon FIP ÖBB jusqu’à la frontière, ou
-- avec un Coupon FIP ZSSK pour l’ensemble du trajet (y compris côté autrichien).
+Il existe également quelques liaisons `EC`.
 
 ### Slovénie
 

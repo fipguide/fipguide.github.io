@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "SNCF Voyageurs"
-description: "Information about FIP conditions at SNCF Voyageurs: validity, ticket and reservation purchase, special tariff conditions"
 country:
   - "france"
   - "monaco"
@@ -12,7 +11,7 @@ country:
 operator: "sncf"
 ---
 
-SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in France. It operates almost all long-distance and regional trains in France.
+SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.
 
 ## Summary
 
@@ -37,84 +36,145 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 
 ### Long-distance
 
-{{% expander "Train à grande vitesse inOui (TGV inOui) ⚠️ℹ️" traincategory "long-distance" %}}
-**Description:** \
-The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). [Route overview](https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
+{{% train-category
+  id="tgv-inoui"
+  title="Train à grande vitesse inOui (TGV inOui)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
+%}}
+The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
 
-ℹ️ SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
+{{% highlight confusion %}}
+SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
+{{% /highlight %}}
 
-⚠️ Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains). \
-**Reservation possible:** yes \
-**Reservation required:** yes ⚠️ \
-**Reservation cost:** \
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
+{{% highlight important %}}
+Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 
-On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
-{{% /expander %}}
+{{% /highlight %}}
 
-{{% expander "OUIGO (Grande Vitesse / Train Classique) ⛔⚠️ℹ️" traincategory "long-distance" %}}
-**Description:** \
+#### Reservation
+
+Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
+
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €16       |
+| International     | €40       | €20       |
+
+{{% /train-category %}}
+
+{{% train-category
+  id="ouigo"
+  title="OUIGO (Grande Vitesse / Train Classique)"
+  type="highspeed"
+  fip_accepted=false
+  reservation_required=true
+%}}
+
 OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
 
-ℹ️ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP. \
-**Reservation possible:** yes \
-**Reservation required:** yes ⚠️ \
-**FIP:** ⛔ FIP not accepted
-{{% /expander %}}
+{{% highlight confusion %}}
+SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
+{{% /highlight %}}
+{{% /train-category %}}
 
-{{% expander "Intercity-Express (ICE) ⚠️" traincategory "long-distance" %}}
-**Description:** \
+{{% train-category
+  id="ice"
+  title="Intercity-Express (ICE)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+%}}
 International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Stuttgart, Munich).
 
-⚠️ Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains). \
-**Reservation possible:** yes \
-**Reservation required:** yes ⚠️ \
-**Reservation cost:** \
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
+{{% highlight important %}}
+Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
+{{% /highlight %}}
 
-On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
-{{% /expander %}}
+#### Reservation
 
-{{% expander "Intercité (IC) ⚠️" traincategory "long-distance" %}}
-**Description:** \
+Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
+
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €16       |
+| International     | €40       | €20       |
+
+{{% /train-category %}}
+
+{{% train-category
+  id="intercites"
+  title="Intercité (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 Intercity trains operated by SNCF, connecting various cities in France, mostly requiring reservations.
 
-SNCF does not provide public information on which `IC` trains require reservations. If in doubt, check with SNCF or purchase a reservation. \
-**Reservation possible:** yes \
-**Reservation required:** mostly ⚠️ \
-**Reservation cost:** \
-Reservation prices differ between peak and off-peak trains. Off-peak: €2 (1st/2nd class); peak: €16 (1st class), €11 (2nd class). The classification of trains is unfortunately not publicly available.
+SNCF does not provide public information on which `IC` trains require reservations. If in doubt, check with SNCF or purchase a reservation.
 
-On international journeys, the reservation price is €40 (1st class) and €20 (2nd class).
-{{% /expander %}}
+#### Reservation
 
-{{% expander "Intercité de nuit ⚠️" traincategory "long-distance" %}}
-**Description:** \
-SNCF night trains within France. International Nightjet connections ended in December 2025. \
-**Reservation possible:** yes \
-**Reservation required:** yes ⚠️ \
-**Reservation cost:** depends on route and occupancy
-{{% /expander %}}
+Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
+
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €16       |
+| International     | €40       | €20       |
+
+{{% /train-category %}}
+
+{{% train-category
+  id="intercites-de-nuit"
+  title="Intercité de nuit"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+%}}
+SNCF night trains within France. International Nightjet connections ended in December 2025.
+
+#### Reservation
+
+Cost depends on route and occupancy.
+
+{{% /train-category %}}
 
 ### Regional
 
-{{% expander "Train express régional (TER) ⚠️ℹ️" traincategory "regional" %}}
-**Description:** \
-`TER` is a regional train, connecting various cities in France.
+{{% train-category
+  id="ter"
+  title="Train express régional (TER)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=partially
+%}}
+`TER` is SNCF's regional train, connecting various cities in France.
+Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains).
 
-ℹ️ On the Marseille – Toulon – Nice route, FIP is not valid as `TER` trains are operated by Transdev. \
-**Reservation possible:** sometimes \
-**Reservation required:** sometimes ⚠️ \
-Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains)
-{{% /expander %}}
+{{% highlight confusion %}}
+On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here.
+{{% /highlight %}}
+{{% /train-category %}}
 
-{{% expander "Réseau Express Régional (RER) ⚠️" traincategory "regional" %}}
-**Description:** \
+{{% train-category
+  id="rer"
+  title="Réseau Express Régional (RER)"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=false
+%}}
 RER is a suburban train operated by SNCF in Île de France (Greater Paris) and surrounding cities.
 
-⚠️ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in-greater-paris) \
-**Reservation possible:** no
-{{% /expander %}}
+{{% highlight important %}}
+FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in-greater-paris)
+{{% /highlight %}}
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
@@ -131,7 +191,7 @@ Domestic journeys unfortunately cannot be purchased online.
 /%}}
 
 {{% booking id="sncb-website"
-  subtitle="Cross-border FIP 50 Tickets for regional trains from Belgium."
+  subtitle="Cross-border tickets with FIP Coupon for SNCB"
 /%}}
 
 ### By Phone
@@ -160,7 +220,7 @@ With regular tickets, children up to and including 4 years travel free. Children
 
 ### Reservation requirement in regional trains
 
-On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. For travel between all other destinations and route sections there is no reservation requirement. [^2]
+On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. There is no reservation requirement for all other journeys. [^2]
 
 This reservation requirement applies to the following lines:
 
@@ -178,22 +238,40 @@ This reservation requirement applies to the following lines:
 
 #### TER Grand Est
 
-- Line 1: Paris – Troyes – Chaumont – Mulhouse
-- Line 4: Paris – Épernay – Châlons – Strasbourg
+- Line 1: Paris – Épernay – Châlons – Strasbourg
+- Line 4: Paris – Troyes – Chaumont – Mulhouse
 
 ### International TGV inOui / ICE trains
 
-{{% expander "TGV/ICE trains to Germany" info %}}
+{{% train-category
+  id="tgv-ice-germany"
+  title="TGV/ICE trains to Germany"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=partially
+%}}
 International `TGV` and `ICE` trains are reservation-required in the French section. In Germany, reservations are not required and FIP Coupons are valid.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "TGV trains to Italy, Spain, and Belgium" info %}}
-International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130). [^1]
-{{% /expander %}}
+{{% train-category
+  id="tgv-italy-spain-belgium"
+  title="TGV trains to Italy, Spain, and Belgium"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130).
+{{% /train-category %}}
 
-{{% expander "TGV Lyria trains to Switzerland" info %}}
+{{% train-category
+  id="tgv-lyria"
+  title="TGV Lyria trains to Switzerland"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=partially
+%}}
 International `TGV` Lyria services from France to Switzerland are reservation-required in the French section and FIP Coupons are not valid. FIP Global Fares can be purchased. In Switzerland, reservations are not required and FIP Coupons are valid.
-{{% /expander %}}
+{{% /train-category %}}
 
 ### Trains in Greater Paris
 
@@ -201,7 +279,13 @@ International `TGV` Lyria services from France to Switzerland are reservation-re
 
 RATP operates the Paris Métro, bus lines, and part of the tram and RER networks. SNCF operates the rest of the RER network and some tram lines. FIP discounts do not apply on RATP services.
 
-{{% expander "RER trains" info %}}
+{{% train-category
+  id="rer-paris"
+  title="RER trains"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+%}}
 Some RER lines are operated by SNCF. FIP discounts apply on the following sections:
 
 - RER Line A – only branches A3 & A5 west of Nanterre Préfecture to Poissy or Cergy-le-Haut
@@ -211,23 +295,36 @@ Some RER lines are operated by SNCF. FIP discounts apply on the following sectio
 - RER Line E – entire line
 
 Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-operated RER Line D can be used. FIP discounts are not valid on RATP-operated RER Line B on the same section.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Transilien trains" info %}}
+{{% train-category
+  id="transilien"
+  title="Transilien trains"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=nil
+%}}
 FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Trams" info %}}
+{{% train-category
+  id="trams-paris"
+  title="Trams"
+  type="tram"
+  fip_accepted=partially
+  reservation_possible=nil
+%}}
 Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis and can be used with FIP discounts as well. FIP discounts do not apply on other tram lines.
-{{% /expander %}}
+{{% /train-category %}}
 
-<img src="/en/operator/sncf/contramarquedePassage.webp" alt="Contramarque de Passage" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
-
+{{% float-image
+  src="contramarquedePassage.webp"
+  alt="Contramarque de Passage"
+  width="60%"
+  position="right"
+%}}
 Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
-
-### Léman Express
-
-International `TER` trains between France and Geneva in Switzerland are marketed as Léman Express and operated jointly by SNCF and SBB. FIP discounts apply throughout the Léman Express network. SNCF FIP Coupons are also valid on the Swiss section.
+{{% /float-image %}}
 
 ### Bus Services
 
