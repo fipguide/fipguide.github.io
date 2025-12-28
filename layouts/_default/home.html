@@ -41,8 +41,15 @@
       <h2>{{ T "support.title" }}</h2>
       <p>{{ T "support.text" | safeHTML }}</p>
     </section>
-    <section>
-      <h2>{{ T "news-headline" }}</h2>
+    <section class="o-startpage__news">
+      <div class="o-startpage__news-header">
+        <h2>{{ T "news.headline" }}</h2>
+        {{ $newsPage := site.GetPage "news" }}
+        <a href="{{ $newsPage.RelPermalink }}">
+          {{- partial "icon" "arrow_forward" -}}
+          {{ T "news.all" }}
+        </a>
+      </div>
       <div class="o-startpage__news-wrapper">
         {{ range first 3 (where site.RegularPages "Section" "news") }}
           {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}

@@ -30,11 +30,9 @@ Different prices for long-distance trains towards Switzerland/Austria: e.g. €2
 
 When booking, you must first select a connection via the journey planner. Then, in the ticket selection, you can choose the _DIRITTO AMMISSIONE_ fare via the _Show more offers_ button. You can enter the number of your FIP Coupon as the access number.
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-    <img src="/en/booking/fs-website/reservation_1.en.webp" alt="Show more offers" style="width: 49%;">
-    <img src="/en/booking/fs-website/reservation_2.en.webp" alt="Select fare" style="width: 49%;">
-</div>
+![Show more offers](reservation_1.webp)
+![Select fare](reservation_2.webp)
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

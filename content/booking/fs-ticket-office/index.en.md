@@ -26,8 +26,12 @@ Sometimes tickets at ticket offices are issued at different rates, so prices may
 
 ## Reservations
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="bigliettigratuiti.webp"
+  alt="FS Biglietti Gratuiti"
+  width="50%"
+  position="right"
+%}}
 
 Sometimes the _DIRITTO AMMISSIONE_ fare is sold. Although this does not explicitly refer to FIP, it is accepted. To use it, a FIP Coupon is also required. Use of Business and Executive classes is not permitted with FIP. The correct fare would be _Biglietti Gratuiti FS 1/2 Classe_, which refers to the price difference between regional and long-distance trains. This fare is usually more expensive than _DIRITTO AMMISSIONE_.
 
@@ -38,6 +42,8 @@ InterCity: €3 (1st/2nd class) \
 Different prices for long-distance trains to Switzerland/Austria: e.g. €20 Chiasso – Milano (`ECE`/`EC`)
 
 We are not aware of any problems during ticket inspection on board.
+
+{{% /float-image %}}
 
 {{% /booking-section %}}
 

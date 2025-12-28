@@ -30,7 +30,7 @@
           {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
         {{ end }}
 
-        {{ partial "internal_link" (
+        {{ partial "link" (
           dict
           "Destination" .RelPermalink
           "Text" ($text | .Page.RenderString)

@@ -32,12 +32,14 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
+    - GoVolta
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
+    - Leo Express
     - Mecklenburgische Bäderbahn Molli – MBB
     - metronom – ME
     - Mitteldeutsche Regiobahn – MRB
@@ -180,7 +182,7 @@ There is also a CFL long-distance bus from Luxembourg to Saarbrücken, but no FI
 
 ### Netherlands
 
-From Amsterdam, the cross-border `ICE` to Frankfurt / Cologne / Düsseldorf can be used to access the DB network. For cross-border journeys, FIP Tickets from NS and DB are required.
+From Amsterdam, the cross-border `ICE` to Frankfurt / Cologne / Düsseldorf or Berlin / Hanover can be used to access the DB network. For cross-border journeys, FIP Tickets from NS and DB are required.
 
 There are also various regional trains, but only two on which FIP is valid:
 

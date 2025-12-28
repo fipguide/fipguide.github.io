@@ -32,12 +32,14 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
+    - GoVolta
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
+    - Leo Express
     - Mecklenburgische Bäderbahn Molli – MBB
     - metronom – ME
     - Mitteldeutsche Regiobahn – MRB
@@ -184,7 +186,7 @@ Darüber hinaus besteht die Möglichkeit den Fernbus der CFL von Luxemburg nach 
 
 ### Niederlande
 
-Von Amsterdam aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Düsseldorf genutzt werden, um ins Netz der DB zu kommen. Bei grenzüberschreitenden Fahrten werden FIP Tickets der NS und DB benötigt.
+Von Amsterdam aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Düsseldorf bzw. Berlin / Hannover genutzt werden, um ins Netz der DB zu kommen. Bei grenzüberschreitenden Fahrten werden FIP Tickets der NS und DB benötigt.
 
 Darüber hinaus gibt es diverse Regionalzüge, jedoch nur zwei, auf denen FIP gültig ist:
 

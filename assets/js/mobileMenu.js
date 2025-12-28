@@ -18,6 +18,13 @@ function initMobileMenu() {
       closeMobileMenu();
     }
   };
+
+  // Close search on ESC
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      closeMobileMenu();
+    }
+  });
 }
 
 function openMobileMenu() {

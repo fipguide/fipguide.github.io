@@ -241,22 +241,44 @@ Regional trains are classified as train-bound (_prenotabile_) and not train-boun
 **Train-bound:** \
 Tickets for train-bound trains are valid only for the train indicated on the ticket. Train-bound trains are identified by:
 
-<img src="/en/operator/fs/prenotabile_2.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="prenotabile_2.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 The note "prenotabile" in the train information:
-<br style="clear:both" />
-<img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="prenotabile_1.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 Ticket label "Prenotazione - Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 **Not train-bound:** \
 Tickets for not train-bound trains are valid on the booked train and all other not train-bound trains on the route, but not on train-bound trains.
 
-<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="ordinaria_2.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 The note "non prenotabile" in the train information:
-<br style="clear:both" />
-<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="ordinaria_1.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 Ticket label "Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 {{% /expander %}}
 

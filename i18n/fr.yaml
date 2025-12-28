@@ -14,14 +14,24 @@ booking:
   reservation-costs: Frais de réservation
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+contact:
+  emailLabel: 'E-mail :'
+  emailSubject: Nouveau message depuis FIP Guide
+  formAriaLabel: Formulaire de contact
+  messageLabel: 'Message :'
+  nameLabel: 'Nom :'
+  submitButton: Envoyer
+  successMessage: >-
+    Merci ! Votre message a été envoyé avec succès. Nous vous répondrons dès que
+    possible.
 contentNavigation:
   button: Ouvrir et fermer l’aperçu du contenu
   relatedCountries: Pays dans lesquels l'opérateur est actif
   title: Aperçu du contenu
 countries:
   descriptionTemplate: >-
-    Informations sur les conditions FIP pour %s et pour quels opérateurs des
-    réductions peuvent être utilisées.
+    Information sur les conditions FIP pour %s et pour quels opérateurs des
+    réductions les billets FIP 50 et coupons FIP peuvent être utilisés.
   overview: Pays acceptation FIP
   without-fip: Pays sans acceptation FIP
 country:
@@ -82,8 +92,10 @@ menu:
     switch-to-dark: Passer en mode sombre
     switch-to-light: Passer en mode clair
 navigate-to-country: Aller au pays
-news-headline: Quoi de neuf ?
-news-other: Autres actualités
+news:
+  all: Toutes les actualités
+  further: Autres actualités
+  headline: Quoi de neuf ?
 operators:
   descriptionTemplate: >-
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et

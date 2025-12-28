@@ -1,0 +1,14 @@
+.m-float-image {
+  display: flow-root;
+  margin-bottom: 1rem;
+
+  &--right > img {
+    float: right;
+    margin-left: 2rem;
+  }
+
+  &--left > img {
+    float: left;
+    margin-right: 2rem;
+  }
+}

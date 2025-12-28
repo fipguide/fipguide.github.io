@@ -83,7 +83,7 @@ From Switzerland, cross-border TGV trains run from Zurich via Basel to France. I
 
 There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
-In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF. SNCF FIP Coupons are also valid in the Swiss section on Léman Express trains.
+In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF.
 
 ### Italy
 

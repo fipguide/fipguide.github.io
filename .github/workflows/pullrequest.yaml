@@ -26,7 +26,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.150.1
+      HUGO_VERSION: 0.153.2
     steps:
       - name: Install Hugo CLI
         run: |
@@ -54,7 +54,5 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Create custom 404 page
-        run: cp public/en/404.html public/404.html
       - name: Initialize search index
         run: npx -y pagefind --site public

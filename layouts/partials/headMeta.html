@@ -2,9 +2,9 @@
 {{- if .Description -}}
   {{- $description = .Description -}}
 {{- else if eq .Type "operator" -}}
-  {{- $description = printf (i18n "operators.descriptionTemplate") .Title -}}
+  {{- $description = printf (T "operators.descriptionTemplate") .Title -}}
 {{- else if eq .Type "country" -}}
-  {{- $description = printf (i18n "countries.descriptionTemplate") .Title -}}
+  {{- $description = printf (T "countries.descriptionTemplate") .Title -}}
 {{- end -}}
 <meta charset="utf-8" />
 <meta name="description" content="{{ $description }}" />

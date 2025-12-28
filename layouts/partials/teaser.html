@@ -5,10 +5,10 @@
 {{ $dateHuman := $page.Date | time.Format ":date_long" }}
 <div class="m-teaser {{ if $listview }}m-teaser--listview{{ end }}">
   <a href="{{ $page.RelPermalink }}" class="m-teaser__wrapper">
-    {{ $image := (partial "helper/contentImage" $page ) }}
+    {{ $image := (partial "helper/contentImage" $page) }}
     {{ if $image }}
       <div class="m-teaser__image">
-        {{ partialCached "image" $image $image }}
+        {{ partial "image" $image }}
       </div>
     {{ end }}
     <div class="m-teaser__content">
