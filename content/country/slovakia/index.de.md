@@ -54,6 +54,8 @@ Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird
 
 Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können über die Website der ZSSK nicht gekauft werden, evtl. klappt dies an einem Schalter der ZSSK.
 
+Weitere grenzüberschreitende Strecken, die jedoch nur saisonal bedient werden, sind die Strecken Muszyna - Plaveč - Poprad-Tatry (nur am Wochenende bedient) sowie Rzeszów - Łupków - Medzilaborce (nur in der Hochsaison Juli/August am Wochenende bedient). Auf beiden Strecken werden im slowakischen Abschnitt FIP-Vergünstigungen der ZSSK erkannt, im polnischen braucht es bei erstgennanter Strecke ein FIP-Ticket der KM, bei letztgenannter der PKP.
+
 ### Ukraine
 
 Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukacheve. Da in der Ukraine FIP nicht gültig sind, wird ein reguläres Ticket mindestens ab dem Grenzpunkt benötigt.

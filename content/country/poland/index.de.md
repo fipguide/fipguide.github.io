@@ -61,9 +61,11 @@ Zwischen Litauen und Polen werden aktuell nur sehr wenige Züge täglich angebot
 
 ### Slowakei
 
-Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardon. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der slowakischen ZSSK gelten bis zum Grenzpunkt.
+Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardoń. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der slowakischen ZSSK gelten bis zum Grenzpunkt.
 
 Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können weder über die Website der KŚ noch der ZSSK gekauft werden, evtl. klappt dies an einem Schalter der KŚ oder ZSSK.
+
+Weitere grenzüberschreitende Strecken, die jedoch nur saisonal bedient werden, sind die Strecken Poprad-Tatry - Plaveč - Muszyna (nur am Wochenende bedient) sowie Medzilaborce - Łupków - Rzeszów (nur in der Hochsaison Juli/August am Wochenende bedient). Auf beiden Strecken werden im slowakischen Abschnitt FIP-Vergünstigungen der ZSSK erkannt, im polnischen braucht es bei erstgennanter Strecke ein FIP-Ticket der KM, bei letztgenannter der PKP.
 
 ### Tschechien
 
