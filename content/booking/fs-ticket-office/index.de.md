@@ -26,8 +26,12 @@ Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgest
 
 ## Reservierungen
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/booking/fs-ticket-office/bigliettigratuiti.webp" alt="FS Biglietti Gratuiti" style="width: 50%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="bigliettigratuiti.webp"
+  alt="FS Biglietti Gratuiti"
+  width="50%"
+  position="right"
+%}}
 
 Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Bussiness und Executive Klassen ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_.
 
@@ -36,6 +40,8 @@ Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar
 Le Frecce: 25€ (1./2. Klasse) \
 InterCity: 3€ (1./2. Klasse) \
 Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20€ Chiasso – Milano (`ECE`/`EC`)
+
+{{% /float-image %}}
 
 {{% /booking-section %}}
 

@@ -1,14 +1,10 @@
-{{ $image := . }}
-{{ $loading := "lazy" }}
+{{- $image := .image -}}
+{{- $width := .width | default "100%" -}}
 
-{{ if .Permalink }}
-  {{ $image = . }}
-{{ else if .image }}
-  {{ $image = .image }}
-  {{ if .eager }}
-    {{ $loading = "eager" }}
-  {{ end }}
-{{ end }}
+{{- $loading := "lazy" -}}
+{{- if .eager -}}
+  {{- $loading = "eager" -}}
+{{- end -}}
 
 {{- $name := $image.RelPermalink | strings.TrimSuffix (printf ".%s" $image.MediaType.SubType) -}}
 {{- $extension := $image.MediaType.SubType -}}
@@ -38,18 +34,23 @@
 {{- end -}}
 {{- $srcset = $srcset | append (printf "%s %dw" $image.RelPermalink $image.Width) -}}
 
-{{- $styles := "" -}}
-{{- if and $image.Width -}}
-  {{- $styles = printf "aspect-ratio: %d / %d" $image.Width $image.Height -}}
+{{- $styles := slice -}}
+{{- if and $image.Width $image.Height -}}
+  {{- $styles = $styles | append (printf "aspect-ratio: %d / %d" $image.Width $image.Height) -}}
+{{- end -}}
+{{- if $width -}}
+  {{- $styles = $styles | append (printf "width: %s" $width) -}}
 {{- end -}}
 
 
 <img
   src="{{ $image.RelPermalink }}"
-  alt=""
-  data-decorative="true"
+  alt="{{ .alt }}"
+  {{- if not .alt }}
+    data-decorative="true"
+  {{- end }}
   loading="{{ $loading }}"
   srcset="{{ delimit $srcset ", " }}"
   sizes="(max-width: 576px) calc(100vw - 3.2rem), (max-width: 768px) 540px, (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px) 1140px, 1320px"
-  style="{{ $styles | safeCSS }}"
+  style="{{ delimit $styles "; " | safeCSS }}"
 />

@@ -28,11 +28,11 @@ The FIP Coupon for StL covers, deviating from the standard, a maximum of two fie
 ## Ship Categories and Reservations
 
 {{% train-category
-title="Ferry (Day Service)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  title="Ferry (Day Service)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 One ferry operates in each direction:
 
@@ -48,15 +48,15 @@ On board you will find a variety of services:
 - duty free shop
 - deck bar with a view
 
-A cabin can be booked optionally.
+A cabin can be booked as an optional extra.
 {{% /train-category %}}
 
 {{% train-category
-title="Ferry (Night Service)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=true
+  title="Ferry (Night Service)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
 %}}
 One ferry operates in each direction:
 
@@ -89,15 +89,55 @@ FIP only grants a discount on the fare; all additional services are charged at f
 With a FIP Coupon, the fare is free of charge.
 Generally, the overnight crossing is more expensive than the day crossing. This is because the fare is higher at night and cabin reservation is mandatory.[^4]
 
-{{% highlight inofficial %}}
-We have the following experience reports from the FIP Guide Community (as of 08.12.2025):
+{{% expander "Find costs online" info %}}
 
-- Port fees for two adults: £26
-- Total price for night crossing (FIP Coupon for two adults, cheapest cabin): £81
-- Total price for night crossing (FIP Coupon for one adult and cabin): £59
+{{% float-image
+  src="determine_costs_1.webp"
+  alt="Step 1"
+  width="40%"
+  position="right"
+%}}
 
-As these are individual booking processes, all information is without guarantee. [^5]
-{{% /highlight %}}
+The costs for day and night crossings can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
+
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_2.webp"
+  alt="Step 2"
+  width="40%"
+  position="right"
+%}}
+
+In the next step, you need to switch to the old booking system. The new booking system does not show a detailed cost breakdown.
+
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_3.webp"
+  alt="Step 3"
+  width="40%"
+  position="right"
+%}}
+
+Then you can proceed through the booking steps. When choosing the fare, you can select Flexi or Economy.
+
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_4.webp"
+  alt="Step 4"
+  width="40%"
+  position="right"
+%}}
+
+After selecting all desired additional options and cabins, you will receive a cost breakdown in the sidebar. With a FIP Coupon, the travel costs (listed as Economy or Flexi) are set to 0, while the remaining amount stays the same. Therefore, the travel costs can simply be subtracted to determine the costs with a FIP Coupon.
+
+As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10.30 / € 12 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
+
+{{% /float-image %}}
+
+{{% /expander %}}
 
 ### Telephone
 
@@ -139,5 +179,3 @@ Stena Line offers a great way to be in London before 10 am if you invest a littl
 [^3]: [Stena Line Website](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [FIP Guide Team email inquiry to Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
-
-[^5]: [FIP Guide Community (Discord)](https://discord.com/channels/1250522473188032512/1446912039409942678)

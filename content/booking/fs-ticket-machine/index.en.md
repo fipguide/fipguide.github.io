@@ -28,12 +28,10 @@ Different prices for long-distance trains to Switzerland/Austria: e.g. 20€ Chi
 
 On the machine's start screen, select "Buy your tickets / Special Discounts". Then choose the fare via "Diritti di Ammissione" &#10132; "Diritto Ammissione Non FS".
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-    <img src="/en/booking/fs-ticket-machine/machine_1.webp" alt="Start screen" style="width: 32%;">
-    <img src="/en/booking/fs-ticket-machine/machine_2.webp" alt="Select fare" style="width: 32%;">
-    <img src="/en/booking/fs-ticket-machine/machine_3.webp" alt="Select Diritto Ammissione Non FS" style="width: 32%;">
-</div>
+![Start screen](machine_1.webp)
+![Select fare](machine_2.webp)
+![Select Diritto Ammissione Non FS](machine_3.webp)
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

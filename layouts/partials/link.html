@@ -1,7 +1,35 @@
-<a
-  href="{{ .Destination }}"
-  target="_blank"
-  rel="noopener noreferrer external"
-  class="o-link__external"
-  >{{- .Text -}}{{- partial "icon" "arrow_outward" -}}</a
->
+{{- $url := .Destination -}}
+{{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
+  <a
+    href="{{ .Destination }}"
+    target="_blank"
+    rel="noopener noreferrer external"
+    class="o-link__external"
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
+  >
+    {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
+  </a>
+{{- else if strings.HasPrefix $url "mailto:" -}}
+  <a
+    href="{{ $url }}"
+    class="o-link__mail"
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
+  >
+    {{- partial "icon" "mail" -}}{{- .Text -}}
+  </a>
+{{- else if strings.HasPrefix $url "tel:" -}}
+  <a
+    href="{{ $url | safeURL }}"
+    class="o-link__tel"
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
+  >
+    {{- partial "icon" "call" -}}{{- .Text -}}
+  </a>
+{{- else -}}
+  <a
+    href="{{ .Page.Ref (dict "path" $url) }}"
+    {{- with .Title -}}title="{{ . }}"{{- end -}}
+  >
+    {{- .Text -}}
+  </a>
+{{- end -}}
