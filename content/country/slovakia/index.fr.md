@@ -42,9 +42,14 @@ Depuis la Tchéquie, les trains transfrontaliers de České dráhy (ČD) ou ZSSK
 
 ### Autriche
 
-Depuis l’Autriche, il existe des trains transfrontaliers Intercity, Railjet et REX. Pour toutes ces lignes, un Coupon FIP ÖBB est requis. Exception : les trains `D` entre Bratislava et Vienne peuvent être utilisés avec un coupon ZSSK, y compris sur le territoire autrichien.
+Depuis l’Autriche, il existe deux liaisons régionales possibles pour rejoindre la Slovaquie :
 
-### Hongrie
+- Une liaison traverse le nord du Danube depuis Vienne via Marchegg jusqu’à la gare principale de Bratislava (Bratislava hl.st.)
+- Une autre liaison part de Vienne via Kittsee vers le sud de Bratislava (Bratislava Petrzalka)
+
+Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
+
+Il existe également quelques liaisons `EC` supplémentaires.
 
 Depuis la Hongrie, des trains régionaux transfrontaliers et EuroCity sont disponibles. Sur la ligne Bratislava – Hegyeshalom via Rajka, un Billet FIP GySEV est requis. Sur les autres lignes, un Billet FIP MAV-Start est nécessaire.
 
