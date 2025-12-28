@@ -191,7 +191,7 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 ## Conditions tarifaires spéciales
 
-### Trafic vers l’Italie
+### Trains vers l’Italie
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 

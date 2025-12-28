@@ -28,11 +28,11 @@ Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Fe
 ## Schiffskategorien und Reservierungen
 
 {{% train-category
-title="Fähre (Tagfahrt)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  title="Fähre (Tagfahrt)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 Pro Richtung verkehrt eine Fähre:
 
@@ -41,7 +41,7 @@ Pro Richtung verkehrt eine Fähre:
 
 An Bord gibt es eine Vielzahl an Services:
 
-- zahlreiche Sitzgelegenheiten
+- Zahlreiche Sitzgelegenheiten
 - Lounges
 - Restaurants
 - Spielbereich für Kinder
@@ -52,11 +52,11 @@ Eine Kabine kann optional dazugebucht werden.
 {{% /train-category %}}
 
 {{% train-category
-title="Fähre (Nachtfahrt)"
-type="ship"
-fip_accepted=true
-reservation_possible=true
-reservation_required=true
+  title="Fähre (Nachtfahrt)"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
 %}}
 Pro Richtung verkehrt eine Fähre:
 
@@ -65,7 +65,7 @@ Pro Richtung verkehrt eine Fähre:
 
 An Bord gibt es eine Vielzahl an Services:
 
-- zahlreiche Sitzgelegenheiten
+- Zahlreiche Sitzgelegenheiten
 - Lounges
 - Restaurants
 - Spielbereich für Kinder
@@ -89,15 +89,55 @@ FIP gewährt lediglich einen Rabatt auf den Fahrpreis, alle zusätzlichen Leistu
 Mit einem FIP Freifahrtschein ist der Fahrpreis kostenlos.
 Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. Dies liegt daran, dass der Fahrpreis nachts höher ist und eine Kabinenreservierung obligatorisch ist.[^4]
 
-{{% highlight inofficial %}}
-Uns liegen folgende Erfahrungswerte aus der FIP Guide Community vor (Stand 08.12.2025):
+{{% expander "Kosten online herausfinden" info %}}
 
-- Hafengebühren für zwei Erwachsene: 26 £
-- Gesamtpreis Nachtfahrt (FIP Freifahrtschein für zwei Erwachsene, günstigste Kabine): 81 £
-- Gesamtpreis Nachtfahrt (FIP Freifahrtschein für einen Erwachsenen und Kabine): 59 £
+{{% float-image
+  src="determine_costs_1.webp"
+  alt="Step 1"
+  width="40%"
+  position="right"
+%}}
 
-Da es sich um einzelne Buchungsvorgänge handelt, sind alle Angaben ohne Gewähr. [^5]
-{{% /highlight %}}
+Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
+
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_2.webp"
+  alt="Step 2"
+  width="40%"
+  position="right"
+%}}
+
+Im nächsten Schritt musst du zur alten Buchung wechseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
+
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_3.webp"
+  alt="Step 3"
+  width="40%"
+  position="right"
+%}}
+
+Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des Tarifs kann Flexi oder Economy ausgewählt werden.
+
+{{% /float-image %}}
+
+{{% float-image
+  src="determine_costs_4.webp"
+  alt="Step 4"
+  width="40%"
+  position="right"
+%}}
+
+Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhälst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
+
+Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühren 10,30 £ / 12 € pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
+
+{{% /float-image %}}
+
+{{% /expander %}}
 
 ### Telefon
 
@@ -139,5 +179,3 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 [^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
-
-[^5]: [FIP Guide Community (Discord)](https://discord.com/channels/1250522473188032512/1446912039409942678)
