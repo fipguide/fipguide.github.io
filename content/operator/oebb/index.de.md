@@ -187,7 +187,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
 
 ## Tarifliche Besonderheiten
 
-### Verkehr nach Italien
+### Züge nach Italien
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 

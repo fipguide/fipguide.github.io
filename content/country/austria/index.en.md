@@ -93,7 +93,7 @@ Besides regional train connections, there are two international routes from Aust
 On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
 
 There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
-On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies.
+On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### Slovakia
 

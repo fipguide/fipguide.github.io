@@ -70,6 +70,8 @@ Il existe deux itinéraires internationaux entre l’Autriche et l’Italie :
 
 Sur ces itinéraires, le Billet FIP ou le Coupon FIP ÖBB est également valable sur le tronçon italien pour les trains longue distance (`EC` et `RJ`), mais un supplément doit être payé à partir de la frontière italienne. Ce supplément peut être payé directement dans le train.
 
+(voir [Trains vers l’Italie](/operator/oebb/#züge-nach-italien)).
+
 ### France
 
 Entre Milan et Paris circulent des trains Frecciarossa transfrontaliers. Les Billets FIP ou Coupons FIP ne sont pas valables en France sur ces trains.

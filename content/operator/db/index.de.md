@@ -59,7 +59,7 @@ Es gibt drei Wagenklassen:
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Verkehr nach Italien bei der ÖBB](/operator/oebb#verkehr-nach-italien "Verkehr nach Italien bei der ÖBB")). \
+Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Züge nach Italien bei der ÖBB](/operator/oebb#züge-nach-italien "Züge nach Italien bei der ÖBB")). \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** nein
 {{% /expander %}}
