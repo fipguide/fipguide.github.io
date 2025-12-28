@@ -1,39 +1,39 @@
 ---
 draft: false
-title: "Lettland"
+title: "Latvia"
 country: "latvia"
 params:
   operators_without_fip:
     - "Latvijas dzelzceļš (LDz)"
 ---
 
-## FIP Nutzung
+## FIP Information
 
-Die wichtigste Eisenbahngesellschaft in Lettland ist die lettische Staatsbahn Latvijas dzelzceļš (LDz). Bei dieser gelten jedoch keine FIP-Vergünstigungen.
+The main railway company in Latvia is the state-owned Latvijas dzelzceļš (LDz). However, FIP discounts do not apply to this operator.
 
-Zusätzlich verkehrt litauische Eisenbahngesellschaft [LTG-Link](/operator/ltg) zwischen der litauischen Hauptstadt Vilnius über die lettischen Hauptstadt Riga bis nach Valga. FIP-Vergünstigungen gelten im lettischen Abschnitt bis Riga zu den gleichen Konditionen wie in Litauen.
+Additionally, the Lithuanian railway company [LTG-Link](/operator/ltg) operates trains from the Lithuanian capital Vilnius via the Latvian capital Riga to Valga. FIP discounts are valid on the Latvian section up to Riga under the same conditions as in Lithuania.
 
-## Wissenswertes
+## Interesting
 
-Lettlands Eisenbahnnetz basiert auf der 1520 mm‑Breitspur. Der Personenverkehr konzentriert sich auf Riga; der Hauptbahnhof dient als zentraler Knoten, von dem die meisten Regional- und Nahverkehrslinien ausgehen. Die Elektrifizierung beschränkt sich weitgehend auf die Vorortstrecken im Großraum Riga und nutzt 3 kV Gleichstrom, während der übrige Betrieb zumeist mit Diesel erfolgt. Gleichzeitig entsteht mit Rail Baltica eine neue internationale Achse, deren Bauarbeiten im Umfeld des Hauptbahnhofs deutlich sichtbar sind.
+Latvia’s railway network is based on the 1520 mm broad gauge. Passenger traffic is concentrated in Riga; the main station serves as a central hub from which most regional and suburban lines depart. Electrification is largely limited to the suburban routes in the Riga area and uses 3 kV DC, while the rest of the network is mostly operated with diesel. At the same time, the new international Rail Baltica corridor is under construction, with work clearly visible around the main station.
 
-## Anreise und Grenzpunkte
+## Arrival and Border Points
 
-{{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
+{{% expander "Border Point" border %}}
+| Country | Border Points |
 | --- | --- |
-| Estland | Valga |
-| Lettland (LDz) | Joniškis |
-| Belarus/Weißrussland | Grenze gesperrt |
-| Russland | Grenze gesperrt |
+| Estonia | Valga |
+| Latvia (LDz) | Joniškis |
+| Belarus | Border closed |
+| Russia | Border closed |
 {{% /expander %}}
 
-### Estland
+### Estonia
 
-Von Tallin fahren Züge der estnischen Eisenbahngesellschaft Elron bis zum lettisch-estnischen Grenzbahnhof Valga. Von dort besteht Anschluss zu Zügen nach Riga und Vilnius. In Estland gelten keine FIP-Vergünstigungen.
+Trains of the Estonian railway company Elron run from Tallinn to the Latvian-Estonian border station Valga. From there, connections are available to Riga and Vilnius. FIP discounts do not apply on the Riga - Valga route or in Estonia.
 
-### Lettland
+### Lithuania
 
-Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. In Valga besteht direkter Anschluss von/nach Tartu und Tallinn. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
+Regular train service between Latvia and Lithuania resumed only at the end of 2023. LTG-Link operates a morning train from Vilnius via Siauliai and Riga to the Latvian-Estonian border station Valga, returning in the evening. FIP discounts from LTG-Link are also valid between Vilnius and Riga ([see Validity of FIP Tickets](/operator/ltg#validity-of-fip-tickets)). Tickets and reservations can be purchased online ([see Ticket and Reservation Purchase](/operator/ltg#online)).
 
-Seit Sommer 2025 wird über eine Weiterführung der Züge Vilnius – Turmantas bis ins lettische Daugavpils verhandelt.
+Since summer 2025, there have been negotiations about extending the Vilnius – Turmantas trains to Daugavpils in Latvia.

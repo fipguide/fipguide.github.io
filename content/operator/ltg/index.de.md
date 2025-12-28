@@ -46,7 +46,7 @@ Züge mit Reservierungspflicht sind teilweise schon viele Tage im Voraus ausgebu
 
 Buchungsbeginn ist bei Inlandsfahrkarten 30 Tage vor Abfahrt und bei Auslandsfahrten 60 Tage vor Abfahrt.
 
-Somit ist vor **jeder** Fahrt mit FIP Freifahrtschein ein kostenloses Ticket (0er-Fahrschein) mit/ohne Pflichtreservierung oder ein FIP 50 Ticket zu erwerben, das ggf. eine kostenlose Reservierung enthält. (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)).
+Somit ist vor **jeder** Fahrt mit FIP Freifahrtschein ein kostenloses Ticket (0er-Fahrschein) mit/ohne Pflichtreservierung oder ein FIP 50 Ticket zu erwerben, das ggf. eine kostenlose Reservierung enthält. (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)). [^2]
 {{% /highlight %}}
 
 FIP Vergünstigungen der 1. Klasse gelten in allen Klassen. FIP Vergünstigungen der 2. Klasse gelten in der 2. und 3. Klasse.
@@ -92,3 +92,5 @@ In Vilnius betreibt LTG-Link die einzige Lounge. Den Zugang erhält man bereits 
 ## Quellen
 
 [^1]: [LTG-Link Mail Feedback Strecke Vilnius – Riga](https://github.com/fipguide/fipguide.github.io/issues/517)
+
+[^2]: [LTG-Link Mail Feedback Verpflichtende Reservierung](https://github.com/fipguide/fipguide.github.io/issues/553)
