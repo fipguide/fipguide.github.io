@@ -1,5 +1,8 @@
 $search-z-index: 12;
 
+// ---------------------------------------------
+// SEARCH BLOCK (ID bleibt erhalten)
+// ---------------------------------------------
 #search {
   width: 100%;
   display: flex;
@@ -9,142 +12,200 @@ $search-z-index: 12;
     display: none;
   }
 
-  .pagefind-ui__search-input,
-  .pagefind-ui__message {
-    font-family: "Roboto", Arial, Helvetica, sans-serif;
-    font-weight: 400;
-  }
-
-  .pagefind-ui__message {
-    padding: 1rem;
-  }
-
-  .pagefind-ui__results-area {
-    margin-top: 0;
-    max-height: 50vh;
-    padding: 0 1rem;
-    overflow-y: scroll;
-
-    @media (max-width: #{$breakpoint-md}) {
-      max-height: calc(100dvh - 17rem);
-    }
-  }
-
-  .pagefind-ui__results li:last-child {
-    border-bottom: none;
-  }
-
-  input.pagefind-ui__search-input {
-    z-index: $search-z-index;
-    outline: 0.2rem solid transparent;
-    border: var(--border);
-    box-shadow: var(--box-shadow);
-    border-radius: var(--border-radius-l);
-
-    @include focus-indicator(0.2rem);
-
-    &::placeholder {
-      opacity: 0.7;
-      color: var(--color-body);
-    }
-
-    // This selector is used to identify if search results are visible
-    &:has(
-      + .pagefind-ui__search-clear
-        + .pagefind-ui__drawer
-        .pagefind-ui__results-area
-    ) {
-      border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-    }
-  }
-
-  button.pagefind-ui__search-clear {
-    display: none;
-  }
-
-  .pagefind-ui__suppressed {
-    display: none;
-  }
-
-  .pagefind-ui__form::before {
-    z-index: $search-z-index + 1;
-  }
-
-  .pagefind-ui__drawer {
-    background-color: var(--bg-default);
-    padding: 0;
-    overscroll-behavior: contain;
-    overflow: hidden;
-    position: absolute;
+  // ---------------------------------------------
+  // PAGEFIND BLOCK
+  // ---------------------------------------------
+  .pagefind-ui {
     width: 100%;
-    z-index: $search-z-index;
-    border: var(--border);
-    border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
-  }
 
-  .pagefind-ui__result {
-    padding: 2rem 0;
-    margin: 0 1rem;
-    border-top: 0.2rem solid grey;
-  }
+    &__form {
+      position: relative;
 
-  .pagefind-ui__result-inner,
-  .pagefind-ui__result-thumb {
-    margin-top: 0;
-  }
+      &::before {
+        content: "search";
+        position: absolute;
+        top: 23px;
+        left: 20px;
+        z-index: $search-z-index + 1;
+        font-family: "Material Symbols Rounded";
+        opacity: 0.7;
+        pointer-events: none;
+        line-height: 1;
+      }
+    }
 
-  .pagefind-ui__result-thumb {
-    width: 10rem;
+    &__message {
+      padding: 1rem;
+    }
 
-    @media (max-width: #{$breakpoint-md}) {
+    &__results-area {
+      max-height: 50vh;
+      padding: 0 2rem;
+      overflow-y: scroll;
+
+      @media (max-width: #{$breakpoint-md}) {
+        max-height: calc(100dvh - 17rem);
+      }
+    }
+
+    &__results {
+      padding-left: 0;
+      margin-bottom: 0;
+    }
+
+    // ---------------------------------------------
+    // SEARCH INPUT
+    // ---------------------------------------------
+    &__search-input {
+      z-index: $search-z-index;
+      outline: 0.2rem solid transparent;
+      border: var(--border);
+      box-shadow: var(--box-shadow);
+      border-radius: var(--border-radius-l);
+      height: 64px;
+      background-color: var(--bg-default);
+      color: var(--color-body);
+      padding: 0 70px 0 54px;
+      font-size: 2rem;
+      position: relative;
+      display: flex;
+      width: 100%;
+      box-sizing: border-box;
+
+      @include focus-indicator(0.2rem);
+
+      &::placeholder {
+        opacity: 0.7;
+        color: var(--color-body);
+      }
+
+      // Wenn Ergebnisse sichtbar sind
+      &:has(
+        + .pagefind-ui__search-clear
+          + .pagefind-ui__drawer
+          .pagefind-ui__results-area
+      ) {
+        border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+      }
+    }
+
+    &__search-clear {
       display: none;
     }
-  }
 
-  .pagefind-ui__result-link {
-    color: var(--link-default);
-    text-decoration: underline;
-    border-radius: var(--border-radius-s);
-
-    &:hover,
-    &:focus {
-      color: var(--link-hovered);
+    &__suppressed {
+      display: none;
     }
-  }
 
-  .pagefind-ui__result-link:hover,
-  .pagefind-ui__result-link:focus {
-    color: var(--link-hovered);
-  }
+    // ---------------------------------------------
+    // DRAWER
+    // ---------------------------------------------
+    &__drawer {
+      background-color: var(--bg-default);
+      overscroll-behavior: contain;
+      overflow: hidden;
+      position: absolute;
+      width: 100%;
+      z-index: $search-z-index;
+      border: var(--border);
+      border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
+      box-sizing: border-box;
+    }
 
-  .pagefind-ui__result-link {
-    @include focus-indicator(0.2rem);
-  }
+    // ---------------------------------------------
+    // RESULT LIST
+    // ---------------------------------------------
+    &__result {
+      list-style-type: none;
+      display: flex;
+      align-items: flex-start;
+      gap: 3.2rem;
+      padding: 2rem 0;
+      border-top: 0.2rem solid grey;
 
-  .pagefind-ui__result-link::before {
-    top: -0.2rem;
-  }
+      &-inner,
+      &-thumb {
+        margin-top: 0;
+      }
 
-  .pagefind-ui--reset mark {
-    background-color: var(--bg-accent);
-    color: black;
-  }
+      &-thumb {
+        width: 10rem;
 
-  button.pagefind-ui__button {
-    border: 0.2rem solid var(--link-default);
-    border-radius: var(--border-radius-m);
-    background: transparent;
-    color: var(--body-color);
-    margin-top: 0;
-    margin-bottom: 1rem;
+        @media (max-width: #{$breakpoint-md}) {
+          display: none;
+        }
+      }
 
-    &:hover,
-    &:focus {
-      background: rgba($link-hovered, 0.15);
+      &-title {
+        display: inline-block;
+        font-weight: 700;
+        margin: 0;
+      }
+
+      &-nested {
+        display: flex;
+        flex-direction: column;
+        padding-top: 0.8rem;
+        padding-left: 2.4rem;
+
+        .pagefind-ui__result-link::before {
+          content: "subdirectory_arrow_right";
+          font-family: "Material Symbols Rounded";
+          position: absolute;
+          right: calc(100% + 0.1em);
+        }
+      }
+
+      &-excerpt {
+        margin-bottom: 0;
+      }
+    }
+
+    // ---------------------------------------------
+    // LINKS
+    // ---------------------------------------------
+    &__result-link {
+      position: relative;
+    }
+
+    // ---------------------------------------------
+    // BUTTON
+    // ---------------------------------------------
+    &__button {
+      border: 0.2rem solid var(--link-default);
+      border-radius: var(--border-radius-m);
+      background: transparent;
+      height: 4.8rem;
+      padding: 1.2rem;
+      width: 100%;
+      text-align: center;
+      font-weight: 700;
+      transition:
+        background 0.2s,
+        color 0.2s;
+
+      &:hover,
+      &:focus {
+        background: rgba($link-hovered, 0.15);
+      }
+    }
+
+    &__hidden {
+      display: none;
+    }
+
+    &--reset {
+      mark {
+        background-color: var(--bg-accent);
+        color: black;
+      }
     }
   }
 }
 
+// ---------------------------------------------
+// SEARCH OVERLAY MODIFIER
+// ---------------------------------------------
 .o-search {
   &--contentpage {
     position: fixed;
