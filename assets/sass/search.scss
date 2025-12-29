@@ -47,9 +47,6 @@ $search-z-index: 12;
       margin-bottom: 0;
     }
 
-    // ---------------------------------------------
-    // SEARCH INPUT
-    // ---------------------------------------------
     &__search-input {
       z-index: $search-z-index;
       outline: 0.2rem solid transparent;
@@ -91,9 +88,6 @@ $search-z-index: 12;
       display: none;
     }
 
-    // ---------------------------------------------
-    // DRAWER
-    // ---------------------------------------------
     &__drawer {
       background-color: var(--bg-default);
       overscroll-behavior: contain;
@@ -106,9 +100,6 @@ $search-z-index: 12;
       box-sizing: border-box;
     }
 
-    // ---------------------------------------------
-    // RESULT LIST
-    // ---------------------------------------------
     &__result {
       list-style-type: none;
       display: flex;
@@ -155,16 +146,10 @@ $search-z-index: 12;
       }
     }
 
-    // ---------------------------------------------
-    // LINKS
-    // ---------------------------------------------
     &__result-link {
       position: relative;
     }
 
-    // ---------------------------------------------
-    // BUTTON
-    // ---------------------------------------------
     &__button {
       border: 0.2rem solid var(--link-default);
       border-radius: var(--border-radius-m);
@@ -198,9 +183,6 @@ $search-z-index: 12;
   }
 }
 
-// ---------------------------------------------
-// SEARCH OVERLAY MODIFIER
-// ---------------------------------------------
 .o-search {
   &--contentpage {
     position: fixed;
