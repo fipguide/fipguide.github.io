@@ -36,7 +36,7 @@
   >
     {{- .Text -}}
   </a>
-{{- else if or (strings.HasPrefix $url "/") ((not (strings.HasPrefix $url site.BaseURL))) -}}
+{{- else if or (strings.HasPrefix $url "/") (strings.HasPrefix $url site.BaseURL) -}}
   <!-- Internal links, referenced by URL (e. g. `/en/news/1`) -->
   <a
     href="{{ $url | relURL }}"

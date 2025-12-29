@@ -47,7 +47,8 @@
         {{ partial "link"
           (dict
           "Destination" (site.GetPage "news").RelPermalink
-          "Text" (print (partial "icon" "arrow_forward") (T "news.all") | safeHTML))
+          "Text" (print (partial "icon" "arrow_forward") (T "news.all") | safeHTML)
+          )
         }}
       </div>
       <div class="o-startpage__news-wrapper">
