@@ -55,7 +55,9 @@ Les autres passages frontaliers ne sont actuellement desservis que par le trafic
 
 ### Lituanie
 
-Entre la Lituanie et la Pologne, actuellement seule une paire de trains quotidienne est proposée de Vilnius via Kaunas vers Varsovie et Cracovie. Avec cette connexion InterCity, il faut changer de train une fois à la frontière à Mockava, car les deux pays ont des écartements de voie différents dans leurs réseaux ferroviaires. Cependant, la liaison est vendue comme une connexion continue en Pologne et en Lituanie, il y a donc une garantie de correspondance. Avec des Billets FIP de PKP et de la lituanienne LTG-Link plus une réservation payante, on peut voyager complètement avec FIP ici.
+À partir de Vilnius et Kaunas, deux liaisons quotidiennes vers Varsovie et parfois jusqu’à Szczecin seront proposées à partir de 12/2025. Un changement est nécessaire à la gare frontière de Mockava, soit sur le même quai, soit via un passage de plain-pied vers le quai voisin. À Mockava, les trains en correspondance attendent en cas de retard. Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)). Pour les voyages transfrontaliers vers/depuis la Pologne, il faut soit un Billet FIP 50 valable pour tout le trajet, soit des Coupons FIP des deux pays.
+
+Le nombre de billets est limité, car le voyage n’est possible qu’avec une place assise. À partir de 12/2025, une réservation de place fixe ne sera attribuée que dans le PKP `IC`, tandis que dans les automotrices LTG-Link, le choix de la place sera libre.
 
 ### Slovaquie
 
