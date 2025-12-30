@@ -55,11 +55,11 @@ Depuis la Hongrie, des trains régionaux transfrontaliers et EuroCity sont dispo
 
 ### Pologne
 
-La seule ligne transfrontalière actuellement en service régulier est Skalité (SK) – Zwardoń (PL). Elle est opérée conjointement par ZSSK et Koleje Śląskie. Les passes gratuits ZSSK sont valables jusqu’au point frontière.
+La seule ligne transfrontalière actuellement desservie de façon régulière relie Skalité, en Slovaquie, à Zwardoń, en Pologne. Elle est exploitée conjointement par la ZSSK et la Koleje Śląskie. Les Coupons FIP de la ZSSK sont valables jusqu’au point frontière.
 
-En théorie, le trajet transfrontalier peut être complété avec un pass gratuit Koleje Śląskie, mais cela doit être confirmé à l’avance. Les Billets FIP 50 transfrontaliers ne peuvent pas être achetés en ligne sur le site de la ZSSK, mais sont parfois disponibles au guichet ZSSK.
+En théorie, il devrait être possible de voyager gratuitement au-delà de la frontière avec un Coupon FIP supplémentaire de la Koleje Śląskie, mais il est recommandé de se renseigner au préalable. Les billets FIP 50 transfrontaliers ne peuvent pas être achetés sur les sites de la KŚ ou de la ZSSK ; il est éventuellement possible de les obtenir à un guichet KŚ ou ZSSK.
 
-D’autres lignes transfrontalières, exploitées uniquement de façon saisonnière, sont les liaisons Muszyna – Plaveč – Poprad-Tatry (circulant uniquement le week-end) ainsi que Rzeszów – Łupków – Medzilaborce (circulant uniquement les week-ends en haute saison, en juillet/août). Sur les deux lignes, les réductions FIP de la ZSSK sont reconnues sur le tronçon slovaque. Côté polonais, un billet FIP de la KM est requis pour la première liaison, et un billet FIP de la PKP pour la seconde.
+D’autres liaisons transfrontalières, uniquement saisonnières, existent également : la ligne Poprad-Tatry – Plaveč – Muszyna (circulant uniquement le week-end) et la ligne Medzilaborce – Łupków – Rzeszów (uniquement en haute saison, les week-ends de juillet/août). Sur ces deux lignes, les réductions FIP de la ZSSK sont reconnues sur le tronçon slovaque ; côté polonais, un billet FIP de la KM est nécessaire pour la première liaison, et un billet FIP de la PKP pour la seconde.
 
 ### Ukraine
 
