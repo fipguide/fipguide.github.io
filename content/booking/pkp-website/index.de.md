@@ -20,7 +20,7 @@ params:
 
 PKP Intercity verkauft online Fahrkarten mit FIP 50 Rabatt. Dazu muss während der Verbindungssuche als Vergünstigung die Option "50% MKZ-FIP" für die jeweilige Person ausgewählt werden.
 
-Tickets mit FIP 50 Rabatt können nur für Verbindungen der PKP innerhalb Polens verkauft werden.
+Tickets mit FIP 50 Rabatt können nur für Verbindungen der PKP Intercity innerhalb Polens verkauft werden.
 
 ![PKP FIP 50 Buchen](pkp_fip_50.webp)
 {{% /booking-section %}}
@@ -29,7 +29,7 @@ Tickets mit FIP 50 Rabatt können nur für Verbindungen der PKP innerhalb Polens
 
 ## Reservierungen
 
-Auf der PKP Intercity Website werden Reservierungen für nationale und grenzüberschreitende Züge der PKP verkauft. Dazu muss während der Verbindungssuche die Option "Buy a reservation for your ticket" bzw. "Kup rezerwację do biletu" ausgewählt werden:
+Auf der PKP Intercity Website werden Reservierungen für nationale und grenzüberschreitende Züge der PKP Intercity verkauft. Dazu muss während der Verbindungssuche die Option "Buy a reservation for your ticket" bzw. "Kup rezerwację do biletu" ausgewählt werden:
 
 ![PKP Reservierung Buchen](pkp_reservation.webp)
 

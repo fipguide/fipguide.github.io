@@ -54,6 +54,8 @@ La seule ligne transfrontalière actuellement en service régulier est Skalité 
 
 En théorie, le trajet transfrontalier peut être complété avec un pass gratuit Koleje Śląskie, mais cela doit être confirmé à l’avance. Les Billets FIP 50 transfrontaliers ne peuvent pas être achetés en ligne sur le site de la ZSSK, mais sont parfois disponibles au guichet ZSSK.
 
+D’autres lignes transfrontalières, exploitées uniquement de façon saisonnière, sont les liaisons Muszyna – Plaveč – Poprad-Tatry (circulant uniquement le week-end) ainsi que Rzeszów – Łupków – Medzilaborce (circulant uniquement les week-ends en haute saison, en juillet/août). Sur les deux lignes, les réductions FIP de la ZSSK sont reconnues sur le tronçon slovaque. Côté polonais, un billet FIP de la KM est requis pour la première liaison, et un billet FIP de la PKP pour la seconde.
+
 ### Ukraine
 
 Depuis Košice, des trains régionaux circulent vers Chop et Mukachevo. Le FIP n’est pas valable en Ukraine, un billet standard est requis à partir de la frontière.

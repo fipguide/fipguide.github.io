@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "PKP Ticket Office"
-description: "Booking information for PKP ticket offices."
+title: "PKP Intercity Ticket Office"
+description: "Booking information for PKP Intercity ticket offices."
 
 params:
   classes:
@@ -13,18 +13,18 @@ params:
   type: "onsite"
 ---
 
-PKP operates an extensive network of ticket offices even at smaller stations. Linguistically, it is advantageous to speak some Polish or have a suitable translator app, as English is often not very widespread.
+PKP Intercity operates an extensive network of ticket offices even at smaller stations. Linguistically, it is advantageous to speak some Polish or have a suitable translator app, as English is often not very widespread.
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets for national and cross-border journeys can be purchased at PKP ticket offices.
+FIP 50 Tickets for national and cross-border journeys can be purchased at PKP Intercity ticket offices.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Reservations
 
-Reservations can be purchased for all national and cross-border connections at PKP ticket offices.
+Reservations can be purchased for all national and cross-border connections at PKP Intercity ticket offices.
 {{% /booking-section %}}

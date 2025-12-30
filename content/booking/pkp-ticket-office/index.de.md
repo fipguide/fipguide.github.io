@@ -26,5 +26,5 @@ FIP 50 Fahrkarten für nationale und grenzüberschreitende Fahrten können am PK
 
 ## Reservierungen
 
-Reservierungen können für alle nationalen und grenzüberschreitenden Verbindungen an PKP Ticketschaltern erworben werden.
+Reservierungen können für alle nationalen und grenzüberschreitenden Verbindungen an PKP Intercity Ticketschaltern erworben werden.
 {{% /booking-section %}}

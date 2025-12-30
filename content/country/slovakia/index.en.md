@@ -54,6 +54,8 @@ The only regularly served cross-border route currently is the route from Slovak 
 
 Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 Tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
 
+Further cross-border routes, which are only served seasonally, include the Muszyna – Plaveč – Poprad-Tatry line (operated only on weekends) and the Rzeszów – Łupków – Medzilaborce line (operated only on weekends during the peak season in July/August). On both routes, FIP discounts of ZSSK are recognized on the Slovak section; for the first route, a FIP ticket of KM is required for the Polish section, and for the latter, a FIP ticket of PKP is needed.
+
 ### Ukraine
 
 From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point.
