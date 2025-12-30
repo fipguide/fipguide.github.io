@@ -159,7 +159,7 @@ With Eurostar (formerly Thalys), the DB network can also be reached from Belgium
 
 ### Denmark
 
-From Denmark, the direct `EC` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
+From Denmark, the direct `ECE` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
 
 It is also possible to enter via Tønder by regional train. However, since neither DSB on the Danish side nor DB on the German side operates here, FIP discounts are not available on this route. Alternatively, you can enter by ferry to Puttgarden or Warnemünde.
 
@@ -216,7 +216,7 @@ The other border crossings are currently only served by regional trains. For tra
 
 ### Czech Republic
 
-There are various rail border crossings from the Czech Republic into the German network. The best known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the EC/RJ trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a through FIP 50 Ticket are valid for the journey.
+There are various rail border crossings from the Czech Republic into the German network. The best known is Schöna, used by international long-distance trains between the two countries. There are also cross-border regional trains every 2 hours, which, like the `RJ`/`RJX` trains, are operated in cooperation by Deutsche Bahn and ČD, so FIP Coupons from both countries or a through FIP 50 Ticket are valid for the journey.
 
 The same applies to the northern section of the regional train, which crosses the border again at Dolní Poustevna (route Decin – Bad Schandau – Sebnitz – Rumburk).
 

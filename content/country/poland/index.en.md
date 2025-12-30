@@ -57,7 +57,9 @@ The other border crossings are currently only served by regional traffic. For tr
 
 ### Lithuania
 
-Between Lithuania and Poland, currently only a few trains per day are offered. One train pair runs continuously from Vilnius via Kaunas to Warsaw and Krakow. For this InterCity connection, you must change trains once at the border in Mockava, as the two countries have different track gauges in their rail networks. However, the route is sold as a through connection in both Poland and Lithuania, thus providing connection guarantee. With FIP Tickets from PKP and Lithuanian LTG-Link plus paid reservation, you can travel completely with FIP here - as well as on other cross-border connections.
+From Vilnius and Kaunas, starting in December 2025, there will be two daily connections to Warsaw and in some cases further to Szczecin, with a transfer required at the border station Mockava—either on the same platform or via a level crossing to the adjacent platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket Purchase](/operator/ltg#online)). For cross-border journeys to or from Poland, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
+
+The number of tickets is limited, as travel is only possible with a seat reservation. From December 2025, a fixed seat reservation will only be assigned in the PKP `IC`, while on the LTG-Link trainsets, free seating will apply.
 
 ### Slovakia
 

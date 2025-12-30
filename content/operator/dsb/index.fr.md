@@ -23,7 +23,7 @@ Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les tra
 
 ## Catégories de trains et réservations
 
-Au Danemark, les réservations sont possibles mais non obligatoires. Sur les trajets transfrontaliers avec l’Allemagne, notamment les EC Hambourg — Copenhague, la réservation est souvent obligatoire en été.
+Au Danemark, les réservations sont possibles mais non obligatoires. Sur les trajets transfrontaliers avec l’Allemagne, notamment les `ECE` Hambourg — Copenhague, la réservation est souvent obligatoire en été.
 
 {{% expander "IntercityLyn (ICL)" traincategory category %}}
 **Description :** \
@@ -39,9 +39,9 @@ Similaires aux ICL mais avec plus d’arrêts et une vitesse inférieure. Ils de
 **Réservation obligatoire :** non
 {{% /expander %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory category %}}
+{{% expander "Eurocity-Express (ECE) ⚠️" traincategory category %}}
 **Description :** \
-Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Odense. Dès 2025, ils utiliseront d’anciennes voitures IC de la DB. Réservation conseillée et généralement obligatoire en été. \
+Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Odense. Réservation conseillée et généralement obligatoire en été. \
 **Réservation possible :** oui \
 **Réservation obligatoire :** ⚠️ seulement en haute saison (été)
 {{% /expander %}}

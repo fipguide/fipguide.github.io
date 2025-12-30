@@ -42,7 +42,14 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 ### Österreich
 
-Von Österreich werden grenzüberschreitende Intercitys, Railjets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. Ausgenommen davon sind die `D` Züge zwischen Bratislava und Wien. Diese sind im gesamten Abschnitt (auch in Österreich) mit dem Freifahrtschein der ZSSK nutzbar.
+Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
+
+- Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
+- Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
+
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
+
+Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Ungarn
 

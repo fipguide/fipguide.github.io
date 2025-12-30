@@ -159,7 +159,7 @@ Avec Eurostar (anciennement Thalys), le réseau DB est également accessible dep
 
 ### Danemark
 
-Depuis le Danemark, l’`EC` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
+Depuis le Danemark, l’`ECE` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
 
 En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni la DSB côté danois ni la DB côté allemand n’y circulent, donc aucune réduction FIP n’est possible sur cet itinéraire. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde.
 
@@ -216,7 +216,7 @@ Les autres points frontières sont actuellement desservis uniquement en trafic r
 
 ### Tchéquie
 
-Depuis la Tchéquie, de nombreux points frontières ferroviaires permettent de rejoindre l’Allemagne. Le plus connu est Schöna, utilisé par les grandes lignes internationales. Il existe aussi des trains régionaux transfrontaliers toutes les 2 heures, exploités en coopération DB et ČD, donc Coupons FIP des deux pays ou billet FIP 50 valable sur tout le trajet.
+Il existe divers passages ferroviaires frontaliers depuis la Tchéquie vers le réseau allemand. Le plus connu est Schöna, utilisé par les trains grandes lignes internationaux entre les deux pays. Il existe également des trains régionaux transfrontaliers toutes les 2 heures, qui, comme les trains `RJ`/`RJX`, sont exploités en coopération par la Deutsche Bahn et les ČD, de sorte que les Coupons FIP des deux pays ou un billet FIP 50 valable pour tout le trajet sont acceptés pour le voyage.
 
 Il en va de même pour la section nord du train régional franchissant à nouveau la frontière à Dolní Poustevna (ligne Decin – Bad Schandau – Sebnitz – Rumburk).
 
