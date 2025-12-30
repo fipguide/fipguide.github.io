@@ -61,7 +61,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 |                   | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 16 €      |
+| National Peak     | 16 €      | 11 €      |
 | International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
@@ -101,7 +101,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 |                   | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 16 €      |
+| National Peak     | 16 €      | 11 €      |
 | International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
@@ -124,7 +124,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 |                   | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 16 €      |
+| National Peak     | 16 €      | 11 €      |
 | International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
