@@ -40,7 +40,7 @@
 
           <div class="o-identify-operator__image-wrapper">
             {{ with $page.Resources.Get "image.webp" }}
-              {{- partial "image" . -}}
+              {{- partial "image" (dict "image" .) -}}
             {{ end }}
           </div>
         </div>
