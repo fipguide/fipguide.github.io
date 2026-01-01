@@ -5,7 +5,7 @@ country: "poland"
 params:
   operators_without_fip:
     - Arriva
-    - LeoExpress
+    - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
 ---
@@ -49,19 +49,25 @@ Actuellement, aucun train ne circule entre la Biélorussie et la Pologne.
 
 Depuis l’Allemagne, le réseau polonais peut être atteint par plusieurs voies. Le passage frontalier le plus utilisé est à Frankfurt (Oder). Des trains Eurocity entre Berlin et Varsovie circulent toutes les 2 heures pendant la journée via ce passage. De plus, des services individuels entre Berlin et Gdynia / Cracovie / Przemysl peuvent également être trouvés dans les horaires.
 
-En plus des trains grandes lignes, des trains régionaux entre Frankfurt (Oder) et Rzepin / Zielona Góra circulent environ toutes les 2 heures, qui comme les trains `EC` peuvent être utilisés avec des Billets FIP PKP plus un billet pour la section DB. Dans le trafic grandes lignes, le passage frontalier de Horka sera probablement également utilisé à partir de décembre 2025 pour des trains directs entre Leipzig et Wrocław / Cracovie.
+En plus des trains grandes lignes, quelques trains régionaux circulent également entre Francfort (Oder) et Rzepin / Zielona Góra, qui peuvent être utilisés comme les trains « EC » avec des Billets FIP PKP plus un billet pour la section DB.
 
-Les autres passages frontaliers ne sont actuellement desservis que par le trafic régional. Pour les trains via Forst, Grambow, Guben et Tantow, la même règle s’applique que pour Frankfurt (Oder), donc des Billets FIP PKP plus un billet pour la section DB doivent être disponibles. À Kostrzyn, l’opérateur du côté allemand est Niederbarnimer Eisenbahn (NEB), pour laquelle aucun Billet FIP n’est valable ; pour la section polonaise, les Billets FIP PKP devraient être valables. Une particularité est le passage frontalier de Zgorzelec, où aucun billet n’est requis pour la section entre Görlitz allemande et la gare de Zgorzelec.
+Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
+
+Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables. Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
 
 ### Lituanie
 
-Entre la Lituanie et la Pologne, actuellement seule une paire de trains quotidienne est proposée de Vilnius via Kaunas vers Varsovie et Cracovie. Avec cette connexion InterCity, il faut changer de train une fois à la frontière à Mockava, car les deux pays ont des écartements de voie différents dans leurs réseaux ferroviaires. Cependant, la liaison est vendue comme une connexion continue en Pologne et en Lituanie, il y a donc une garantie de correspondance. Avec des Billets FIP de PKP et de la lituanienne LTG-Link plus une réservation payante, on peut voyager complètement avec FIP ici.
+À partir de Vilnius et Kaunas, deux liaisons quotidiennes vers Varsovie et parfois jusqu’à Szczecin seront proposées à partir de 12/2025. Un changement est nécessaire à la gare frontière de Mockava, soit sur le même quai, soit via un passage de plain-pied vers le quai voisin. À Mockava, les trains en correspondance attendent en cas de retard. Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)). Pour les voyages transfrontaliers vers/depuis la Pologne, il faut soit un Billet FIP 50 valable pour tout le trajet, soit des Coupons FIP des deux pays.
+
+Le nombre de billets est limité, car le voyage n’est possible qu’avec une place assise. À partir de 12/2025, une réservation de place fixe ne sera attribuée que dans le PKP `IC`, tandis que dans les automotrices LTG-Link, le choix de la place sera libre.
 
 ### Slovaquie
 
-La seule ligne transfrontalière actuellement en service régulier est la ligne de Skalité slovaque à Zwardoń polonais. Elle est opérée en coopération par ZSSK avec Koleje Śląskie. Les Coupons FIP de la ZSSK slovaque sont valables jusqu’au point frontière.
+La seule ligne transfrontalière actuellement desservie régulièrement est celle reliant Skalite en Slovaquie à Zwardoń en Pologne. Elle est exploitée en coopération par la ZSSK et Koleje Śląskie. Les Coupons FIP de la ZSSK slovaque sont valables jusqu’au point frontière.
 
-En théorie, il devrait être possible de voyager transfrontalier gratuitement avec un Coupon FIP de Koleje Śląskie, mais cela devrait être confirmé à l’avance. Les Billets FIP 50 transfrontaliers ne peuvent être achetés ni via le site web de KŚ ni de ZSSK, mais peuvent être possibles à un guichet KŚ ou ZSSK.
+En théorie, il devrait être possible de voyager gratuitement au-delà de la frontière avec un Coupon FIP supplémentaire de Koleje Śląskie, mais il est recommandé de se renseigner au préalable. Les Billets FIP 50 transfrontaliers ne peuvent être achetés ni sur le site de la KŚ ni sur celui de la ZSSK ; il est éventuellement possible de les obtenir à un guichet de la KŚ ou de la ZSSK.
+
+D’autres lignes transfrontalières, mais uniquement desservies en saison, sont les liaisons Poprad-Tatry – Plaveč – Muszyna (seulement les week-ends) ainsi que Medzilaborce – Łupków – Rzeszów (seulement en haute saison, juillet/août, les week-ends). Sur les deux lignes, les réductions FIP de la ZSSK sont reconnues sur le tronçon slovaque ; côté polonais, un Billet FIP de la KM est nécessaire pour la première liaison, et un Billet FIP de la PKP pour la seconde.
 
 ### République tchèque
 

@@ -50,11 +50,11 @@ From Folkestone, there is also the LeShuttle Motorail train through the Eurotunn
 
 ### Belgium
 
-From Belgium, SNCF operates international `TGV` trains from Brussels to Paris. Expensive FIP Global Fare tickets are required for these. There is also a OUIGO service from Brussels to Paris, which cannot be used with FIP.
+From Belgium, SNCF operates international `TGV` trains from Brussels to Lyon, Marseille, Rennes, Nantes, and Strasbourg. Expensive FIP Global Fare tickets are required for these trains. There is also an OUIGO service from Brussels to Paris, but FIP is not valid on this train.
 
-Alternatively, [Eurostar](/operator/eurostar "Eurostar") trains run from Brussels to Paris, which can also be used with FIP Global Fare tickets and are cheaper than the `TGV` trains.
+Alternatively, [Eurostar](/operator/eurostar "Eurostar") trains run from Brussels to Paris, which can also be used with FIP Global Fare tickets. These are usually cheaper than the `TGV` trains.
 
-There are also various regional train connections from Belgium to France that can be used with FIP. Standard FIP 50 Tickets and a combination of FIP Coupon from SNCB and SNCF are valid.
+There are also various `TER` regional train connections from Belgium to France that can be used with FIP. For example, between Namur and Lille as well as between Antwerp and Lille. Standard FIP 50 Tickets are valid, as well as a combination of an SNCB FIP Coupon and an SNCF FIP Coupon.
 
 ### Luxembourg
 
@@ -83,7 +83,7 @@ From Switzerland, cross-border TGV trains run from Zurich via Basel to France. I
 
 There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
-In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF. SNCF FIP Coupons are also valid in the Swiss section on Léman Express trains.
+In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF.
 
 ### Italy
 

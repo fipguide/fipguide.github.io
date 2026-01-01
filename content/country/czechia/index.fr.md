@@ -41,7 +41,7 @@ La ponctualité est correcte, les trains en correspondance attendent souvent, ma
 
 ### Allemagne
 
-Il existe divers points de passage ferroviaires depuis l’Allemagne. Le plus connu est Schöna, utilisé par les trains grandes lignes internationaux entre les deux pays. Il existe aussi des trains régionaux transfrontaliers toutes les 2 heures, qui, comme les trains EC/RJ, sont exploités en coopération par la Deutsche Bahn et la ČD, de sorte que les Coupons FIP des deux pays ou un Billet FIP 50 continu sont valables pour le trajet.
+Il existe divers points de passage ferroviaires depuis l’Allemagne. Le plus connu est Schöna, utilisé par les trains grandes lignes internationaux entre les deux pays. Il existe aussi des trains régionaux transfrontaliers toutes les 2 heures, qui, comme les trains `RJ`/`RJX`, sont exploités en coopération par la Deutsche Bahn et la ČD, de sorte que les Coupons FIP des deux pays ou un Billet FIP 50 continu sont valables pour le trajet.
 
 Il en va de même pour la section nord du train régional, qui franchit à nouveau la frontière à Dolní Poustevna (ligne Decin – Bad Schandau – Sebnitz – Rumburk).
 

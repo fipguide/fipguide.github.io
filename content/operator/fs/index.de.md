@@ -38,6 +38,8 @@ Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 {{% /expander %}}
 
 {{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
@@ -48,6 +50,8 @@ Hochgeschwindigkeitszüge mit Neigetechnik.
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 {{% /expander %}}
 
 {{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
@@ -56,6 +60,8 @@ Schnellzug abseits von Hochgeschwindigkeitsstrecken. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 {{% /expander %}}
 
 {{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
@@ -92,12 +98,14 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25 € (1./2. Klasse), außer im Brennerverkehr
+**Kosten für Reservierung**: Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
-**Kosten im Brennerverkehr:**
+Abweichende Kosten im Brennerverkehr (Brennerzuschlag):
 
 - 1\. Klasse: 15 €
 - 2\. Klasse: 10 €
+
+Reservierungen für den Brennerverkehr können im Zug oder Ticketschalter der FS erworben werden.
 
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 {{% /expander %}}
@@ -175,7 +183,10 @@ Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen M�
 {{% booking id="db-ticket-office"
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
-/%}}
+  subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
+%}}
+Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
+{{% /booking %}}
 
 ### Im Zug
 
@@ -241,23 +252,44 @@ Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_n
 **Zuggebunden:** \
 Tickets für zuggebundene Züge gelten ausschließlich für den auf dem Ticket angegebenen Zug. Die zuggebundenen Züge sind erkennbar an:
 
-<img src="/en/operator/fs/prenotabile_2.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="prenotabile_2.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Bemerkung "prenotabile" in den Zuginformationen:
-<br style="clear:both" />
-<img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="prenotabile_1.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Ticketbezeichnung "Prenotazione - Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 **Nicht Zuggebunden:** \
 Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="ordinaria_2.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Bemerkung "non prenotabile" in den Zuginformationen:
-<br style="clear:both" />
-<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="ordinaria_1.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 Der Ticketbezeichung "Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 {{% /expander %}}
 

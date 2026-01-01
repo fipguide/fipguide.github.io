@@ -38,6 +38,8 @@ Highest Italian train category for long-distance high-speed trains. Frecciarossa
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
 The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 {{% /expander %}}
 
 {{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
@@ -48,6 +50,8 @@ High-speed tilting trains.
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
 The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 {{% /expander %}}
 
 {{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
@@ -56,6 +60,8 @@ Fast trains outside high-speed lines. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
 The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 {{% /expander %}}
 
 {{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
@@ -92,12 +98,14 @@ The reservation price always includes a surcharge when using a FIP Coupon. For c
 International fast trains to Germany, Austria, and Switzerland. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 25 € (1st/2nd class), except Brenner route
+**Reservation cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-**Brenner route costs:**
+Different costs for Brenner route (Brenner supplement):
 
-- 1st class: 15 €
-- 2nd class: 10 €
+- 1st class: €15
+- 2nd class: €10
+
+Reservations for the Brenner route can be purchased on the train or at FS ticket offices.
 
 The reservation price always includes a surcharge when using a FIP Coupon.
 {{% /expander %}}
@@ -175,7 +183,9 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
 {{% booking id="db-ticket-office"
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
-/%}}
+%}}
+The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+{{% /booking %}}
 
 ### On the train
 
@@ -241,22 +251,44 @@ Regional trains are classified as train-bound (_prenotabile_) and not train-boun
 **Train-bound:** \
 Tickets for train-bound trains are valid only for the train indicated on the ticket. Train-bound trains are identified by:
 
-<img src="/en/operator/fs/prenotabile_2.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="prenotabile_2.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 The note "prenotabile" in the train information:
-<br style="clear:both" />
-<img src="/en/operator/fs/prenotabile_1.webp" alt="FS Prenotabile Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="prenotabile_1.webp"
+  alt="FS Prenotabile Ticket"
+  width="60%"
+  position="right"
+%}}
 Ticket label "Prenotazione - Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 **Not train-bound:** \
 Tickets for not train-bound trains are valid on the booked train and all other not train-bound trains on the route, but not on train-bound trains.
 
-<img src="/en/operator/fs/ordinaria_2.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% float-image
+  src="ordinaria_2.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 The note "non prenotabile" in the train information:
-<br style="clear:both" />
-<img src="/en/operator/fs/ordinaria_1.webp" alt="FS Ordinaria Ticket" style="width: 60%; float: right; margin-left: 2rem; margin-bottom: 1rem">
+{{% /float-image %}}
+
+{{% float-image
+  src="ordinaria_1.webp"
+  alt="FS Ordinaria Ticket"
+  width="60%"
+  position="right"
+%}}
 Ticket label "Ordinaria":
-<br style="clear:both" />
+{{% /float-image %}}
 
 {{% /expander %}}
 

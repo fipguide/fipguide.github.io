@@ -3,12 +3,12 @@
     <aside id="aside" class="o-aside">
       {{ partial "image" (partial "helper/contentImage" .) }}
       <div class="o-single__container">
-        <h3 id="o-related__title">{{ T "news-other" }}</h3>
+        <h3 id="o-related__title">{{ T "news.further" }}</h3>
         <ul class="o-related__list" aria-labelledby="o-related__title">
           {{ $current := . }}
           {{ range first 5 (where (where site.RegularPages "Section" "news") "Permalink" "ne" $current.Permalink) }}
             <li class="o-related__item">
-              {{ partial "internal_link"
+              {{ partial "link"
                 (dict
                 "Destination" .RelPermalink
                 "Text" ((print (partial "icon" "newspaper") (.Title)) | .Page.RenderString)

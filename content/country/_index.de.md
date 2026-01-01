@@ -1,6 +1,6 @@
 ---
 title: "Übersicht der Länder"
-description: "Übersicht über die Länder, in denen FIP-Vergünstigungen genutzt werden können."
+description: "Übersichtliche Darstellung aller Länder, in denen FIP-Vergünstigungen genutzt werden können. Erfahre, in welchen Ländern FIP 50 Tickets und internationale Freifahrten genutzt werden können."
 params:
   countriesWithoutFip:
     - Andorra

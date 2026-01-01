@@ -30,11 +30,9 @@ Prix différents pour les trains longue distance vers la Suisse/l’Autriche : 
 
 Lors de la réservation, il faut d’abord sélectionner une connexion via la recherche d’itinéraire. Ensuite, dans la sélection du billet, il est possible de choisir le tarif _DIRITTO AMMISSIONE_ via le bouton _Afficher plus d’offres_. Le numéro du Coupon FIP peut être indiqué comme numéro d’accès.
 
-<!-- TODO: Replace with markdown image and find ways to customize width -->
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-    <img src="/fr/booking/fs-website/reservation_1.fr.webp" alt="Afficher plus d’offres" style="width: 49%;">
-    <img src="/fr/booking/fs-website/reservation_2.fr.webp" alt="Choisir le tarif" style="width: 49%;">
-</div>
+![Afficher plus d’offres](reservation_1.webp)
+![Choisir le tarif](reservation_2.webp)
+{.o-section--columns-flex}
 
 {{% /booking-section %}}
 

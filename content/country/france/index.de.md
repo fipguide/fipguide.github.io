@@ -50,11 +50,11 @@ Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem j
 
 ### Belgien
 
-Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OUIGO Verbindung von Brüssel nach Paris, die jedoch nicht mit FIP genutzt werden kann.
+Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Lyon, Marseille, Rennes, Nantes und Straßburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OUIGO Verbindung von Brüssel nach Paris, die jedoch nicht mit FIP genutzt werden kann.
 
 Alternativ verkehren auch [Eurostar](/operator/eurostar "Eurostar") Züge von Brüssel nach Paris, die ebenfalls mit FIP Globalpreistickets genutzt werden können, jedoch günstiger als die `TGV` Züge sind.
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Belgien nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets sowie die Kombination aus einem FIP Freifahrtschein der SNCB und SNCF.
+Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Belgien nach Frankreich, die mit FIP genutzt werden können. Beispielsweise zwischen Namur und Lille sowie auch zwischen Antwerpen und Lille. Dabei gelten normale FIP 50 Tickets sowie die Kombination aus einem FIP Freifahrtschein der SNCB und SNCF.
 
 ### Luxemburg
 
@@ -83,7 +83,7 @@ Aus der Schweiz verkehren von Zürich über Basel grenzüberschreitende TGV Züg
 
 Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
-Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
 ### Italien
 

@@ -53,8 +53,8 @@ The Eurostar (formerly Thalys) can also be used from the Netherlands to reach th
 
 ### France
 
-From France, cross-border regional trains can be used, requiring an additional FIP Ticket for the French section.
+From France, SNCF operates international `TGV` trains from Brussels to Lyon, Marseille, Rennes, Nantes, and Strasbourg. For these, expensive FIP Global Fare tickets must be purchased. There is also an OUIGO connection from Paris to Brussels, which cannot be used with FIP.
 
-For international `TGV` trains, there is a Global Fare, and FIP Coupons passes are not valid as they are not operated by SNCB.
+Alternatively, [Eurostar](/operator/eurostar "Eurostar") trains run from Paris to Brussels, which can also be used with FIP Global Fare tickets, and are cheaper than the `TGV` trains.
 
-The Eurostar (formerly Thalys) can also be used from France to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
+There are also various `TER` regional train connections from France to Belgium that can be used with FIP. For example, between Lille and Namur as well as between Lille and Antwerp. Normal FIP 50 Tickets as well as a combination of an FIP Coupon from SNCB and SNCF are valid on these routes.

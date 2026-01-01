@@ -3,4 +3,4 @@
   {{ $contentImage = resources.Get "images/default.webp" }}
 {{ end }}
 
-{{ return $contentImage }}
+{{ return dict "image" $contentImage }}

@@ -50,11 +50,11 @@ Depuis Folkestone, il existe également le train auto LeShuttle à travers le tu
 
 ### Belgique
 
-Depuis la Belgique, la SNCF exploite des trains internationaux `TGV` entre Bruxelles et Paris. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OUIGO entre Bruxelles et Paris, qui n’est pas accessible avec FIP.
+Au départ de la Belgique, la SNCF exploite des trains internationaux `TGV` depuis Bruxelles vers Lyon, Marseille, Rennes, Nantes et Strasbourg. Pour ces trains, il est nécessaire d’acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OUIGO entre Bruxelles et Paris, mais celle-ci n’est pas accessible avec FIP.
 
-Alternativement, des trains [Eurostar](/operator/eurostar "Eurostar") relient Bruxelles à Paris, accessibles avec des billets au Tarif Global FIP, généralement moins chers que les `TGV`.
+En alternative, des trains [Eurostar](/operator/eurostar "Eurostar") relient Bruxelles à Paris et peuvent aussi être utilisés avec des billets au Tarif Global FIP, généralement moins chers que ceux des trains `TGV`.
 
-Il existe aussi plusieurs liaisons régionales entre la Belgique et la France, accessibles avec FIP. Les Billets FIP 50 ainsi que la combinaison d’un Coupon FIP SNCB et SNCF sont valables.
+Il existe aussi différentes liaisons régionales `TER` entre la Belgique et la France, accessibles avec FIP. Par exemple, entre Namur et Lille ou entre Anvers et Lille. Les Billets FIP 50 classiques ainsi que la combinaison d’un Coupon FIP SNCB et d’un Coupon FIP SNCF sont valables sur ces liaisons.
 
 ### Luxembourg
 
@@ -83,7 +83,7 @@ Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
-Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF. Les Coupons FIP SNCF sont aussi valables sur le tronçon suisse dans les trains Léman Express.
+Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF.
 
 ### Italie
 

@@ -5,7 +5,7 @@ country: "poland"
 params:
   operators_without_fip:
     - Arriva
-    - LeoExpress
+    - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
 ---
@@ -49,19 +49,25 @@ Currently no trains operate between Belarus and Poland.
 
 From Germany, the Polish network can be reached via several routes. The most used border crossing is in Frankfurt (Oder). Eurocity trains between Berlin and Warsaw run every 2 hours during the day via this crossing. In addition, individual services between Berlin and Gdynia / Krakow / Przemysl can also be found in the timetable.
 
-In addition to long-distance trains, regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra run approximately every 2 hours, which like the `EC` trains can be used with PKP FIP Tickets plus ticket for the DB section. In long-distance traffic, the Horka border crossing will probably also be used from December 2025 for direct trains between Leipzig and Wrocław / Krakow.
+In addition to the long-distance trains, there are also individual regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra, which like the `EC` trains can be used with PKP FIP Tickets plus ticket for the DB section.
 
-The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for Frankfurt (Oder), so PKP FIP Tickets plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid; for the Polish section, PKP FIP Tickets should be valid. A special feature is the Zgorzelec border crossing, where no ticket is required for the section between German Görlitz and Zgorzelec station.
+Exclusively in long-distance traffic, the Horka border crossing has also been used since December 2025 for direct trains between Leipzig and Wrocław, Krakow to Przemyśl. These `EC` trains can also be used with PKP FIP Tickets plus ticket for the DB section.
+
+The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for the border crossings mentioned above, so FIP Tickets from PKP plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section PKP FIP Tickets should be valid. A special feature is the Zgorzelec border crossing, here no ticket is required for the section between German Görlitz and Zgorzelec station.
 
 ### Lithuania
 
-Between Lithuania and Poland, currently only one train pair daily is offered from Vilnius via Kaunas to Warsaw and Krakow. With this InterCity connection, you have to change trains once at the border in Mockava, as the two countries have different track gauges in their rail networks. However, the route is sold as one continuous connection in Poland and Lithuania, so there is a connection guarantee. With FIP Tickets from PKP and Lithuanian LTG-Link plus paid reservation, you can travel completely with FIP here.
+From Vilnius and Kaunas, starting in December 2025, there will be two daily connections to Warsaw and in some cases further to Szczecin, with a transfer required at the border station Mockava—either on the same platform or via a level crossing to the adjacent platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket Purchase](/operator/ltg#online)). For cross-border journeys to or from Poland, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
+
+The number of tickets is limited, as travel is only possible with a seat reservation. From December 2025, a fixed seat reservation will only be assigned in the PKP `IC`, while on the LTG-Link trainsets, free seating will apply.
 
 ### Slovakia
 
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK with Koleje Śląskie. The FIP Coupon of Slovak ZSSK are valid up to the border point.
+The only cross-border route currently served regularly is the route from Slovak Skalite to Polish Zwardoń. It is operated in cooperation by ZSSK with Koleje Śląskie. The FIP Coupons of Slovak ZSSK are valid up to the border point.
 
-Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 Tickets cannot be purchased through either the KŚ or ZSSK website, but may be possible at a KŚ or ZSSK ticket counter.
+Theoretically, it should be possible to travel cross-border free of charge with an additional FIP Coupon from Koleje Śląskie, but this should be inquired about beforehand. Cross-border FIP 50 Tickets cannot be purchased via the KŚ or ZSSK website, but this may be possible at a KŚ or ZSSK ticket office.
+
+Other cross-border routes, which are only served seasonally, are the routes Poprad-Tatry - Plaveč - Muszyna (only served on weekends) and Medzilaborce - Łupków - Rzeszów (only served on weekends during the high season July/August). On both routes, FIP discounts from ZSSK are recognized in the Slovak section, while in the Polish section the first-mentioned route requires an FIP Ticket from KM, and the latter one from PKP.
 
 ### Czechia
 
