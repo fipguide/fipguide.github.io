@@ -41,8 +41,6 @@ Le Frecce : 25€ (1ère/2ème classe) \
 InterCity : 3€ (1ère/2ème classe) \
 Tarifs différents pour les trains longue distance vers la Suisse/Autriche : par exemple 20€ Chiasso – Milan (`ECE`/`EC`)
 
-Aucun problème de contrôle des billets à bord n’a été signalé jusqu’à présent.
-
 {{% /float-image %}}
 
 {{% /booking-section %}}

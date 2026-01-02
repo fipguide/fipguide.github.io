@@ -42,7 +42,14 @@ Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK
 
 ### Österreich
 
-Von Österreich werden grenzüberschreitende Intercitys, Railjets sowie Regionalzüge (REX) angeboten. Bei allen Verbindungen wird zusätzlich ein Freifahrtschein der Österreichischen Bundesbahnen (ÖBB) benötigt. Ausgenommen davon sind die `D` Züge zwischen Bratislava und Wien. Diese sind im gesamten Abschnitt (auch in Österreich) mit dem Freifahrtschein der ZSSK nutzbar.
+Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
+
+- Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
+- Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
+
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
+
+Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Ungarn
 
@@ -50,9 +57,11 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Polen
 
-Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardon. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der ZSSK gelten nur bis zum Grenzpunkt.
+Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardoń. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der slowakischen ZSSK gelten bis zum Grenzpunkt.
 
-Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können über die Website der ZSSK nicht gekauft werden, evtl. klappt dies an einem Schalter der ZSSK.
+Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können weder über die Website der KŚ noch der ZSSK gekauft werden, evtl. klappt dies an einem Schalter der KŚ oder ZSSK.
+
+Weitere grenzüberschreitende Strecken, die jedoch nur saisonal bedient werden, sind die Strecken Poprad-Tatry - Plaveč - Muszyna (nur am Wochenende bedient) sowie Medzilaborce - Łupków - Rzeszów (nur in der Hochsaison Juli/August am Wochenende bedient). Auf beiden Strecken werden im slowakischen Abschnitt FIP-Vergünstigungen der ZSSK erkannt, im polnischen braucht es bei erstgennanter Strecke ein FIP-Ticket der KM, bei letztgenannter der PKP.
 
 ### Ukraine
 

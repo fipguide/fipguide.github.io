@@ -38,6 +38,8 @@ Highest Italian train category for long-distance high-speed trains. Frecciarossa
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
 The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 {{% /expander %}}
 
 {{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
@@ -48,6 +50,8 @@ High-speed tilting trains.
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
 The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 {{% /expander %}}
 
 {{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
@@ -56,6 +60,8 @@ Fast trains outside high-speed lines. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
 The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 {{% /expander %}}
 
 {{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
@@ -92,12 +98,14 @@ The reservation price always includes a surcharge when using a FIP Coupon. For c
 International fast trains to Germany, Austria, and Switzerland. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 25 € (1st/2nd class), except Brenner route
+**Reservation cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-**Brenner route costs:**
+Different costs for Brenner route (Brenner supplement):
 
-- 1st class: 15 €
-- 2nd class: 10 €
+- 1st class: €15
+- 2nd class: €10
+
+Reservations for the Brenner route can be purchased on the train or at FS ticket offices.
 
 The reservation price always includes a surcharge when using a FIP Coupon.
 {{% /expander %}}
@@ -175,7 +183,9 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
 {{% booking id="db-ticket-office"
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
-/%}}
+%}}
+The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+{{% /booking %}}
 
 ### On the train
 

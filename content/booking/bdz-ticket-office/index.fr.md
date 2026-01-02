@@ -4,8 +4,8 @@ title: "Guichet BDŽ"
 description: "Informations de réservation pour les guichets BDŽ."
 params:
   classes:
-    first: "1 Lev / 0,51 €"
-    second: "1 Lev / 0,51 €"
+    first: "0,51 €"
+    second: "0,51 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.bdz.bg/en/a/stations"
@@ -23,5 +23,5 @@ Aux guichets BDŽ, il est possible d’acheter des Billets FIP 50 pour des voyag
 
 ## Réservations
 
-Les réservations pour les trains peuvent être effectuées sur place pour 1 Lev ou 0,51 €. Si vous utilisez un Coupon FIP, il doit être présenté ; le numéro du coupon sera imprimé sur le billet.
+Les réservations pour les trains peuvent être effectuées sur place pour 0,51 €. Si vous utilisez un Coupon FIP, il doit être présenté ; le numéro du coupon sera imprimé sur le billet.
 {{% /booking-section %}}

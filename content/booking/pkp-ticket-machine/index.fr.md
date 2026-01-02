@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Distributeurs de billets PKP"
-description: "Informations de réservation pour les distributeurs de billets PKP."
+title: "Distributeurs de billets PKP Intercity"
+description: "Informations de réservation pour les distributeurs de billets PKP Intercity."
 
 params:
   fip_50: true
@@ -9,7 +9,7 @@ params:
   type: "onsite"
 ---
 
-Dans les grandes villes, il y a parfois des distributeurs de billets PKP.
+Dans les grandes villes, il y a parfois des distributeurs de billets PKP Intercity.
 
 {{% booking-section "fip_50" %}}
 
