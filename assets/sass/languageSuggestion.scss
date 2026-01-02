@@ -1,0 +1,44 @@
+@import "variables";
+
+.o-language-suggestion {
+  padding: 1.2rem 1.6rem;
+  margin-bottom: 1.5rem;
+  border: 0.2rem solid;
+  position: relative;
+
+  &__message {
+    margin: 0 0 1rem 0;
+    padding-right: 3rem;
+  }
+
+  &__actions {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+  }
+
+  &__dismiss {
+    position: absolute;
+    top: 1.2rem;
+    right: 1.2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.4rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: var(--color-body);
+
+    &:hover,
+    &:focus {
+      color: var(--link-default);
+    }
+
+    svg {
+      width: 2rem;
+      height: 2rem;
+    }
+  }
+}

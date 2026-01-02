@@ -1,10 +1,14 @@
+{{ $supportedLanguages := slice }}
+{{ range site.Languages }}
+  {{ $supportedLanguages = $supportedLanguages | append .Lang }}
+{{ end }}
 {{- with resources.Get "js/main.js" }}
   {{- if eq hugo.Environment "development" }}
-    {{- with . | js.Build }}
+    {{- with . | js.Build (dict "params" (dict "supportedLanguages" $supportedLanguages)) }}
       <script src="{{ .RelPermalink }}"></script>
     {{- end }}
   {{- else }}
-    {{- $opts := dict "minify" true }}
+    {{- $opts := dict "minify" true "params" (dict "supportedLanguages" $supportedLanguages) }}
     {{- with . | js.Build
       $opts | fingerprint
     }}
