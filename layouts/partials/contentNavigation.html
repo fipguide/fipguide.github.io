@@ -63,7 +63,7 @@
           {{ partial "link"
             (dict
             "Destination" (print .Site.Params.githubDevUrl "blob/main/content" .Path "/index." .Language ".md")
-            "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | .Page.RenderString)
+            "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | safeHTML)
             )
           }}
         </li>
@@ -73,7 +73,7 @@
             {{ partial "link"
               (dict
               "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+operator+" .LinkTitle "&labels=content,operator::" $operator)
-              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | safeHTML)
               )
             }}
           {{ end }}
@@ -82,7 +82,7 @@
             {{ partial "link"
               (dict
               "Destination" (print .Site.Params.gitHubUrl "/issues/new?title=Issue+with+country+" .LinkTitle "&labels=content,country::" $country)
-              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | .Page.RenderString)
+              "Text" ((print (partial "icon" "bug_report" ) (T "reportError")) | safeHTML)
               )
             }}
           {{ end }}
