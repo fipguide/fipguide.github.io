@@ -1,3 +1,9 @@
+import {
+  openOverlay,
+  closeOverlay,
+  addOverlayClickListener,
+} from "./overlay.js";
+
 const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 const isMac = navigator.platform.toUpperCase().indexOf("MAC") >= 0;
 
@@ -5,7 +11,6 @@ const initSearch = () => {
   const search = document.getElementById("search");
   const searchButtons = document.querySelectorAll(".o-header__search");
   const isHome = document.querySelector(".o-startpage");
-  const overlay = document.getElementById("overlay");
   let placeholderText = search.dataset.placeholder;
   let searchLabelText = search.dataset.label;
 
@@ -50,13 +55,13 @@ const initSearch = () => {
 
   const closeSearch = () => {
     search.querySelector(".pagefind-ui__search-clear").click();
-    overlay.classList.remove("overlay--show", "overlay--search");
+    closeOverlay();
     search.classList.remove("o-search--show");
     updateSearchButtonLabels(false);
   };
 
   const openSearch = () => {
-    overlay.classList.add("overlay--show", "overlay--search");
+    openOverlay("search");
     search.classList.add("o-search--show");
     searchElement.focus();
     search.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -110,7 +115,7 @@ const initSearch = () => {
     }
   });
 
-  overlay.addEventListener("click", closeSearch);
+  addOverlayClickListener(closeSearch);
 };
 
 if (document.readyState === "interactive") {
