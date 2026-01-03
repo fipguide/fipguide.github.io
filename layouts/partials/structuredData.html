@@ -4,7 +4,11 @@
   {{ $mainEntity = "Article" }}
 {{ else if eq .Page.Type "news" }}
   {{ $mainEntity = "NewsArticle" }}
+{{ else if eq .Page.Type "generalinformation" }}
+  {{ $mainEntity = "FAQPage" }}
 {{ end }}
+
+{{ $faq := site.GetPage "section" "generalinformation/faq" }}
 
 {{ $image := (partial "helper/contentImage" .).Permalink }}
 
@@ -55,6 +59,21 @@
         "@type": "{{ $mainEntity }}",
         "headline": "{{ page.Title }}",
         "image": {{ $image }},
+        {{- if eq $mainEntity "FAQPage" }}
+          "mainEntity": [
+            {{- $last := sub (len $faq.Pages) 1 -}}
+            {{- range $i, $item := $faq.Pages }}
+              {
+                "@type": "Question",
+                "name": "{{ $item.Title }}",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": {{ $item.Content | jsonify | safeJS }}
+                }
+              }{{ if lt $i $last }},{{ end }}
+            {{- end }}
+          ],
+        {{- end }}
         "dateModified": {{ $dateMachine }},
         "author": {
           "@type":"Organization",

@@ -1,0 +1,9 @@
+---
+title: "Que signifie FIP ?"
+weight: 1
+---
+
+FIP signifie _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. C’est l’association des réductions de voyage FIP pour le personnel ferroviaire international.
+Les entreprises ferroviaires et maritimes de l’UIC (Union internationale des chemins de fer) y sont affiliées.
+
+Le document d’accréditation est la Carte Internationale de Réduction pour le Personnel Ferroviaire, en bref Carte FIP ou FIP-Card.

@@ -1,0 +1,8 @@
+---
+title: "Qui a droit au FIP ?"
+weight: 2
+---
+
+Généralement, les employés actifs et retraités des membres FIP y ont droit. Les membres de la famille peuvent également y avoir droit dans certaines conditions.
+Après douze mois d’emploi, les employés peuvent demander la Carte FIP.
+Veuillez contacter votre département des ressources humaines pour la demande et l’utilisation.

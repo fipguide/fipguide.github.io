@@ -1,0 +1,7 @@
+---
+title: "Welche Bahngesellschaften akzeptieren FIP?"
+weight: 14
+---
+
+Über 30 europäische Bahngesellschaften sowie einige Schifffahrtsunternehmen nehmen am FIP-System teil. Eine Liste, welche Unternehmen dabei sind, findest du im FIP Guide in der [Liste der Betreibergesellschaften](operator).
+Informationen für dein Reiseziel findest du auf unserer [Länderseite](country).

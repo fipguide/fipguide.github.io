@@ -1,0 +1,7 @@
+---
+title: "Quelles entreprises ferroviaires acceptent le FIP ?"
+weight: 14
+---
+
+Plus de 30 entreprises ferroviaires européennes et certaines compagnies maritimes participent au système FIP. Une liste des entreprises impliquées peut être trouvée dans le Guide FIP dans la [liste des opérateurs](operator).
+Pour plus d’informations sur votre destination de voyage, voir notre [page du pays](country).
