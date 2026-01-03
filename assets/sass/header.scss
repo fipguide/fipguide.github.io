@@ -7,6 +7,10 @@
   height: 6rem;
   z-index: 12;
   border-bottom: var(--border);
+
+  @media print {
+    display: none;
+  }
 }
 
 .o-header {
@@ -17,10 +21,6 @@
 
   @media (min-width: #{$breakpoint-md}) {
     justify-content: unset;
-  }
-
-  @media print {
-    display: none;
   }
 }
 
