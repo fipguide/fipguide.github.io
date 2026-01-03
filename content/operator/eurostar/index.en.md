@@ -41,8 +41,7 @@ High-speed train between Great Britain and Europe \
 | Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
-| London - Amsterdam / Rotterdam | ?€ / 44.50 £ | ?€ / 62 £ |
-| Brussels - Amsterdam / Rotterdam | ?€ / 15.50 £ | ?€ / 30.50 £ |
+| London - Amsterdam / Rotterdam | 51 € / 44.50 £ | 71 € / 62 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
