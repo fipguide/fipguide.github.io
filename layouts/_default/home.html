@@ -7,7 +7,7 @@
         </div>
         <div class="o-startpage__image">
           {{ $image := resources.Get "images/startpage.webp" }}
-          {{ partial "image" (dict "image" $image "eager" true) }}
+          {{ partial "image" (dict "image" $image "eager" true "fetchpriority" "high") }}
         </div>
       </div>
 
