@@ -1,7 +1,14 @@
 {{ $gi := site.GetPage "section" "generalinformation" }}
+{{ $faq := $gi.GetPage "faq" }}
 
-{{ $faq := where $gi.Pages ".File.Dir" "==" "generalinformation/faq/" }}
+{{ $pages := where $faq.Sections "Lang" .Site.Language.Lang }}
 
-{{ range sort $faq ".File.BaseFileName" }}
-  {{ partial "expander" (dict "title" .Title "type" "faq" "name" "faq" "content" .Content) }}
+{{ range sort $pages "Weight" }}
+  {{ partial "expander" (dict
+    "Title" .Title
+    "Variant" "faq"
+    "Name" "faq"
+    "Content" .Content
+    )
+  }}
 {{ end }}

@@ -1,11 +1,7 @@
-{{- $title := .Get 0 -}}
-{{- $type := .Get 1 -}}
-{{- $name := .Get 2 -}}
-
 {{ partial "expander" (dict
-  "title"   $title
-  "type"   $type
-  "name"    $name
-  "content" .Inner
+  "Title" (.Get 0)
+  "Variant" (.Get 1)
+  "Name" (.Get 2)
+  "Content" .Inner
   )
 }}

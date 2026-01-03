@@ -1,11 +1,11 @@
 {{ $iconMapping := dict "border" "share_location" "traincategory" "train" "info" "info" "faq" "help" }}
 
 
-<details name="{{ .name }}" class="o-expander">
+<details name="{{ .Name }}" class="o-expander">
   <summary class="o-expander__summary">
     <div class="o-expander__summary-title">
-      {{- partial "icon" (index $iconMapping .type) -}}
-      <span class="o-expander__summary-text">{{ .title }}</span>
+      {{- partial "icon" (index $iconMapping .Variant) -}}
+      <span class="o-expander__summary-text">{{ .Title }}</span>
     </div>
     {{ partial "icon" "keyboard_arrow_down" }}
   </summary>
@@ -13,6 +13,6 @@
   <hr aria-hidden="true" />
 
   <div class="o-expander__content">
-    {{ .content }}
+    {{ .Content }}
   </div>
 </details>

@@ -69,8 +69,8 @@
                 "name": "{{ $item.Title }}",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": {{ $item.Content | jsonify | safeHTML }}
-    }
+                  "text": {{ $item.Content | jsonify | safeJS }}
+                }
               }{{ if lt $i $last }},{{ end }}
             {{- end }}
           ],
