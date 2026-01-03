@@ -8,8 +8,7 @@
   {{ $mainEntity = "FAQPage" }}
 {{ end }}
 
-{{ $gi := site.GetPage "section" "generalinformation" }}
-{{ $faq := where $gi.Pages ".File.Dir" "==" "generalinformation/faq/" }}
+{{ $faq := site.GetPage "section" "generalinformation/faq" }}
 
 {{ $image := (partial "helper/contentImage" .).Permalink }}
 
@@ -62,8 +61,8 @@
         "image": {{ $image }},
         {{- if eq $mainEntity "FAQPage" }}
           "mainEntity": [
-            {{- $last := sub (len $faq) 1 -}}
-            {{- range $i, $item := $faq }}
+            {{- $last := sub (len $faq.Pages) 1 -}}
+            {{- range $i, $item := $faq.Pages }}
               {
                 "@type": "Question",
                 "name": "{{ $item.Title }}",

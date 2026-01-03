@@ -1,9 +1,6 @@
-{{ $gi := site.GetPage "section" "generalinformation" }}
-{{ $faq := $gi.GetPage "faq" }}
+{{ $faq := site.GetPage "section" "generalinformation/faq" }}
 
-{{ $pages := where $faq.Sections "Lang" .Site.Language.Lang }}
-
-{{ range sort $pages "Weight" }}
+{{ range sort $faq.Pages "Weight" }}
   {{ partial "expander" (dict
     "Title" .Title
     "Variant" "faq"
