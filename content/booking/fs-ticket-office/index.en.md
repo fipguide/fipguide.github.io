@@ -41,8 +41,6 @@ Le Frecce: €25 (1st/2nd class) \
 InterCity: €3 (1st/2nd class) \
 Different prices for long-distance trains to Switzerland/Austria: e.g. €20 Chiasso – Milano (`ECE`/`EC`)
 
-We are not aware of any problems during ticket inspection on board.
-
 {{% /float-image %}}
 
 {{% /booking-section %}}

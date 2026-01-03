@@ -59,7 +59,7 @@ There are three classes:
 
 [Detailed overview of classes at ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-For Railjets to Italy, a surcharge must be paid from the Italian border (see [Travel to Italy at ÖBB](/operator/oebb#verkehr-nach-italien "Travel to Italy at ÖBB")). \
+For Railjets to Italy, a surcharge is required from the Italian border onward (see [Trains to Italy at ÖBB](/operator/oebb#trains-to-italy "Trains to Italy at ÖBB")). \
 **Reservation possible:** yes \
 **Reservation required:** no
 {{% /expander %}}
@@ -73,7 +73,7 @@ Intercity trains are an important addition to the ICE network. They run at lower
 
 {{% expander "Eurocity-Express (ECE) ⚠️" traincategory "long-distance" %}}
 **Description:**
-An international express train between Frankfurt and Milan as well as between Munich and Zurich. Since December 2025, the train category is also used for further services between Switzerland and Germany and many trains on the Hamburg - Copenhagen route.
+An international express train between Frankfurt and Milan as well as between Munich and Zurich. Since December 2025, the train category is also used for further services between Switzerland and Germany and trains on the Hamburg - Copenhagen route.
 
 ⚠️ Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([see Arrival Italy](/country/switzerland#italien "Arrival Italy")). The surcharge can be purchased at DB or SBB ticket offices or on the train.
 
@@ -83,15 +83,15 @@ An international express train between Frankfurt and Milan as well as between Mu
 - 2nd class: €11
 
 **Reservation possible:** Yes \
-**Reservation required:** For cross-border journeys to Italy ⚠️
+**Reservation required:** For cross-border journeys to Italy and during the high season to Denmark ⚠️
 {{% /expander %}}
 
 {{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
 **Description:**
-Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland or the Czech Republic. \
+Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland. \
 **Reservation possible:** Yes \
 **Reservation required:** For cross-border journeys to Poland ⚠️ \
-In the past, there was a reservation requirement for cross-border journeys in summer months to Denmark or the Czech Republic. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+In the past, there was a reservation requirement for cross-border journeys in summer months to the Czech Republic. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}

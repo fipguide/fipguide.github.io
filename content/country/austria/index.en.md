@@ -93,21 +93,18 @@ Besides regional train connections, there are two international routes from Aust
 On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
 
 There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
-On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies.
+On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### Slovakia
 
-From Slovakia, there are two local train connections to Austria:
+Arrival from Slovakia is possible via two different regional train connections:
 
-- The faster route runs north of the Danube from Bratislava hl.st. via Marchegg to Vienna (from 10.10.2025)
-- The slower route starts at Bratislava Petrzalka and goes via Kittsee to Vienna.
+- One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
+- Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
 
-For both, a FIP 50 ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section. \
-Additionally, 4 `D` train pairs run daily from Vienna to Bratislava hl.st. (from 10.10.2025). \
-These trains can be used with:
+For both routes, a FIP 50 Ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
 
-- ÖBB FIP Coupons up to the border
-- ZSSK FIP Coupone on the entire section (also in Austria)
+Additionally, there are some `EC` connections.
 
 ### Slovenia
 

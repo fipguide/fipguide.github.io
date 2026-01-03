@@ -68,7 +68,7 @@ Il existe deux itinéraires internationaux entre l’Autriche et l’Italie :
 - La ligne du Brenner : avec des trains Eurocity de Munich via Innsbruck et le col du Brenner vers Bolzano et Vérone, et des trains S3 de Brenner vers Innsbruck. Depuis Brenner, des trains régionaux vers Bolzano sont accessibles.
 - La ligne via Tarvisio Boscoverde : avec des Railjets de Vienne vers Venise et quelques trains régionaux de Villach vers Trieste.
 
-Sur ces itinéraires, le Billet FIP ou le Coupon FIP ÖBB est également valable sur le tronçon italien pour les trains longue distance (`EC` et `RJ`), mais un supplément doit être payé à partir de la frontière italienne. Ce supplément peut être payé directement dans le train.
+Sur ces itinéraires, le Billet FIP ou le Coupon FIP ÖBB est également valable sur le tronçon italien pour les trains longue distance (`EC` et `RJ`), mais un supplément doit être payé à partir de la frontière italienne. Ce supplément peut être payé directement dans le train (voir [Trains vers l’Italie](/operator/oebb/#trains-vers-litalie)).
 
 ### France
 

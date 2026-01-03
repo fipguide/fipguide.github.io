@@ -90,7 +90,7 @@ Es zwei internationale Routen von Italien nach Österreich:
 - Die Brennerbahn: mit Eurocity-Zügen von Bozen und Veron über den Brennerpass und Innsbruck München sowie Züge der Linie `S3` von Brenner nach Insbruck. Nach Brenner könne Regionalzüge aus Richtung Bozen genutzt werden.
 - Die Strecke über Tarvisio Boscoverde: mit Railjets aus Venedig weiter nach Wien und einzelnen Regionalzügen von Trieste nach Villach
 
-Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen.
+Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen (siehe [Züge nach Italien](/operator/oebb/#züge-nach-italien)).
 
 Außerdem existieren Eurocity Verbindungen aus Triest über Slowenien nach Österreich (`EC` 151/134): \
 Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
@@ -99,15 +99,12 @@ Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, 
 
 Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
 
-- Die schnelle führt nördlich der Donau von Bratislava hl.st. über Marchegg nach Wien (ab 10.10.2025)
-- Eine langsamere Verbindung startet in Bratislava Petrzalka und führt über Kittsee nach Wien.
+- Eine Verbindung führt nördlich der Donau vom Hauptbahnhof Bratislava (Bratislava hl.st.) über Marchegg nach Wien.
+- Eine andere Verbindung startet im Süden von Bratislava (Bratislava Petrzalka) und führt über Kittsee nach Wien.
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
-Außerdem fahren 4 `D` Zug Paare täglich von Wien nach Bratislava hl.st. (ab 10.10.2025). \
-In diesen Zügen gilt:
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt.
 
-- FIP Freifahrtscheine der ÖBB bis zur Grenze
-- FIP Freifahrtscheine der ZSSK dem kompletten Abschnitt (auch in Österreich)
+Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Slowenien
 

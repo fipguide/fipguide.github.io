@@ -62,7 +62,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 |                   | 1ʳᵉ classe | 2ᵉ classe |
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 16 €      |
+| National Peak     | 16 €       | 11 €      |
 | International     | 40 €       | 20 €      |
 
 {{% /train-category %}}
@@ -102,7 +102,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 |                   | 1ʳᵉ classe | 2ᵉ classe |
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 16 €      |
+| National Peak     | 16 €       | 11 €      |
 | International     | 40 €       | 20 €      |
 
 {{% /train-category %}}
@@ -125,7 +125,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 |                   | 1ʳᵉ classe | 2ᵉ classe |
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 16 €      |
+| National Peak     | 16 €       | 11 €      |
 | International     | 40 €       | 20 €      |
 
 {{% /train-category %}}

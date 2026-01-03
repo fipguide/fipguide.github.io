@@ -121,10 +121,10 @@ search:
 skipToContent: Skip to content
 support:
   text: >-
-    Would you like to share your knowledge about FIP regulations? Visit our <a
-    href="https://github.com/fipguide/fipguide.github.io">GitHub Repository</a>
-    to contribute content. Alternatively, you can also write to us via the <a
-    href="/en/contact">contact form</a>.
+    Would you like to share your knowledge about FIP regulations? Visit our
+    [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to
+    contribute content. Alternatively, you can also write to us via the [contact
+    form](/contact).
   title: Support Us
 toc_name: Contents
 trainCategory:
