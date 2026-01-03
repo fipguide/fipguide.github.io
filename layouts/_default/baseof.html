@@ -7,8 +7,15 @@
     {{ partial "head" . }}
   </head>
   <body>
-    <div id="overlay" aria-hidden="true"></div>
-    <header id="header" class="o-header">{{ partial "header.html" . }}</header>
+    <div id="header">
+      <div class="o-container o-header">
+        <div id="overlay" aria-hidden="true"></div>
+        <header>{{ partial "header.html" . }}</header>
+        <nav class="o-header__nav o-container">
+          {{ partial "navigation.html" . }}
+        </nav>
+      </div>
+    </div>
     <main
       id="content"
       {{- if .IsHome -}}

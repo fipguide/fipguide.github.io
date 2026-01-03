@@ -1,9 +1,14 @@
-$search-z-index: 12;
+$search-z-index: 10;
+$search-z-index-focus: 12;
 
 #search {
   width: 100%;
   display: flex;
   z-index: $search-z-index;
+
+  &:focus-within {
+    z-index: $search-z-index-focus;
+  }
 
   @media print {
     display: none;
@@ -40,6 +45,10 @@ $search-z-index: 12;
     border: var(--border);
     box-shadow: var(--box-shadow);
     border-radius: var(--border-radius-l);
+
+    &:focus {
+      z-index: $search-z-index-focus;
+    }
 
     @include focus-indicator(0.2rem);
 
