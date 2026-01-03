@@ -1,0 +1,31 @@
+<div
+  id="language-suggestion"
+  class="o-single__container o-language-suggestion"
+  style="display: none;"
+  data-current-lang="{{ site.Language.Lang }}"
+  {{ range .AllTranslations }}
+    data-translation-{{ .Language.Lang }}="{{ .RelPermalink }}"
+    data-language-name-{{ .Language.Lang }}="{{ .Language.LanguageName }}"
+  {{ end }}
+  data-message-en="This page is also available in English."
+  data-message-de="Diese Seite ist auch auf Deutsch verfügbar."
+  data-message-fr="Cette page est également disponible en français."
+  data-button-text-en="Switch to English version"
+  data-button-text-de="Zu deutscher Version wechseln"
+  data-button-text-fr="Passer à la version française"
+>
+  <button
+    class="o-language-suggestion__dismiss"
+    aria-label="{{ T "menu.close.label" }}"
+  >
+    {{ partial "icon" "close" }}
+  </button>
+  <p class="o-language-suggestion__message"></p>
+  <div class="o-language-suggestion__actions">
+    <a
+      href="#"
+      class="o-language-suggestion__link a-button"
+      style="display: none;"
+    ></a>
+  </div>
+</div>

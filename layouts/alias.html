@@ -7,34 +7,22 @@
     <noscript>
       <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
     </noscript>
-    <script>
+    {{ $supportedLanguages := slice }}
+    {{ range site.Languages }}
+      {{ $supportedLanguages = $supportedLanguages | append .Lang }}
+    {{ end }}
+    {{ $built := resources.Get "js/languageSuggestion.js" | js.Build (dict "format" "esm" "minify" true "params" (dict "supportedLanguages" $supportedLanguages)) }}
+    <script type="module">
+      import languageSuggestion from "{{ $built.RelPermalink }}";
+
       (() => {
-        const supportedLanguages = [{{ range site.Languages }}"{{ .Lang }}",{{ end }}];
-        const defaultLanguage = "en";
-
-        const getTargetLanguage = () => {
-          const nav = window.navigator;
-          if (!Array.isArray(nav.languages)) {
-            return defaultLanguage;
-          }
-
-          for (const language of nav.languages) {
-            for (const lang of supportedLanguages) {
-              if (language.toLowerCase().includes(lang)) {
-                return lang;
-              }
-            }
-          }
-          return defaultLanguage;
-        };
-
         let targetLocation = '{{ .Permalink }}'
         if (window.location.pathname === '/') {
           // On root, redirect to the target language root
-          targetLocation = `/${getTargetLanguage()}/`
+          targetLocation = `/${languageSuggestion.getPreferredLanguage()}/`
         } else if ('{{ relURL .Permalink }}' === '/en/404/'){
           // On 404, redirect to the 404 page of the target language
-          targetLocation = `/${getTargetLanguage()}/404/`
+          targetLocation = `/${languageSuggestion.getPreferredLanguage()}/404/`
         }
         window.location.replace(targetLocation);
       })();

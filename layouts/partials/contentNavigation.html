@@ -20,6 +20,7 @@
     id="o-aside__content"
     aria-label="{{ T "contentNavigation.title" }}"
   >
+    {{ partial "language-suggestion" . }}
     <div class="o-single__container">
       {{ if eq .Page.Type "operator" }}
         <ul aria-label="{{ T "contentNavigation.relatedCountries" }}">

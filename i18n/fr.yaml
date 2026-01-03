@@ -67,6 +67,7 @@ interactiveMap:
 language-switcher:
   aria-label: Changer de langue
   dropdown-label: Langues disponibles
+  suggestion: Cette page est disponible dans votre langue préférée.
 menu:
   close:
     label: Fermer
