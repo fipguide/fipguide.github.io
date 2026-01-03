@@ -203,9 +203,9 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" %}}
+{{< booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" >}}
 Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
-{{% /booking %}}
+{{< /booking >}}
 
 ### Im Zug
 

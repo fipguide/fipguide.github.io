@@ -8,7 +8,7 @@
             {{ partial "operator-logo" (dict "operator" .File.ContentBaseName "pagefind" true) }}
             <h1 data-pagefind-meta="title">{{ .Title }}</h1>
           </div>
-          {{ partial "updateDate.html" . }}
+          {{ partial "updateDate" . }}
         </div>
         <div class="o-single__content" data-pagefind-weight="2.5">
           {{ partial "content" . }}

@@ -23,7 +23,7 @@
 
 
       <div class="m-teaser__text">
-        {{ partial "strip-material-icons" $page.Summary | plainify | truncate 500 }}
+        {{ partial "modifiers/strip-material-icons" $page.Summary | plainify | truncate 500 }}
       </div>
       {{- partial "icon" "arrow_forward" -}}
     </div>

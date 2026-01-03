@@ -53,7 +53,7 @@
       </div>
       <div class="o-startpage__news-wrapper">
         {{ range first 3 (where site.RegularPages "Section" "news") }}
-          {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
+          {{ partial "teaser" (dict "listview" false "type" "news" "page" .) }}
         {{ end }}
       </div>
     </section>

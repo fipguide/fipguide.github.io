@@ -4,7 +4,7 @@
       <h1 data-pagefind-meta="title">{{ .Title }}</h1>
       {{ .Content }}
       {{ range .Pages }}
-        {{ partial "teaser.html" (dict "listview" "true" "page" .) }}
+        {{ partial "teaser" (dict "listview" "true" "page" .) }}
       {{ end }}
     </div>
   </div>

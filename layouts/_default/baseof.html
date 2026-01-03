@@ -8,7 +8,7 @@
   </head>
   <body>
     <div id="overlay" aria-hidden="true"></div>
-    <header id="header" class="o-header">{{ partial "header.html" . }}</header>
+    <header id="header" class="o-header">{{ partial "header" . }}</header>
     <main
       id="content"
       {{- if .IsHome -}}
@@ -31,7 +31,7 @@
         {{ block "main" . }}{{ end }}
       </div>
     </main>
-    <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
+    <footer class="o-footer o-container">{{ partial "footer" . }}</footer>
     {{ if or (eq .Page.Type "country") (eq .Page.Type "operator") (eq .Page.Type "generalinformation") }}
       {{ partial "snackbar" . }}
     {{ end }}
