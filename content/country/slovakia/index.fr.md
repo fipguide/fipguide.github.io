@@ -42,17 +42,24 @@ Depuis la Tchéquie, les trains transfrontaliers de České dráhy (ČD) ou ZSSK
 
 ### Autriche
 
-Depuis l’Autriche, il existe des trains transfrontaliers Intercity, Railjet et REX. Pour toutes ces lignes, un Coupon FIP ÖBB est requis. Exception : les trains `D` entre Bratislava et Vienne peuvent être utilisés avec un coupon ZSSK, y compris sur le territoire autrichien.
+Depuis l’Autriche, il existe deux liaisons régionales possibles pour rejoindre la Slovaquie :
 
-### Hongrie
+- Une liaison traverse le nord du Danube depuis Vienne via Marchegg jusqu’à la gare principale de Bratislava (Bratislava hl.st.)
+- Une autre liaison part de Vienne via Kittsee vers le sud de Bratislava (Bratislava Petrzalka)
+
+Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
+
+Il existe également quelques liaisons `EC` supplémentaires.
 
 Depuis la Hongrie, des trains régionaux transfrontaliers et EuroCity sont disponibles. Sur la ligne Bratislava – Hegyeshalom via Rajka, un Billet FIP GySEV est requis. Sur les autres lignes, un Billet FIP MAV-Start est nécessaire.
 
 ### Pologne
 
-La seule ligne transfrontalière actuellement en service régulier est Skalité (SK) – Zwardoń (PL). Elle est opérée conjointement par ZSSK et Koleje Śląskie. Les passes gratuits ZSSK sont valables jusqu’au point frontière.
+La seule ligne transfrontalière actuellement desservie de façon régulière relie Skalité, en Slovaquie, à Zwardoń, en Pologne. Elle est exploitée conjointement par la ZSSK et la Koleje Śląskie. Les Coupons FIP de la ZSSK sont valables jusqu’au point frontière.
 
-En théorie, le trajet transfrontalier peut être complété avec un pass gratuit Koleje Śląskie, mais cela doit être confirmé à l’avance. Les Billets FIP 50 transfrontaliers ne peuvent pas être achetés en ligne sur le site de la ZSSK, mais sont parfois disponibles au guichet ZSSK.
+En théorie, il devrait être possible de voyager gratuitement au-delà de la frontière avec un Coupon FIP supplémentaire de la Koleje Śląskie, mais il est recommandé de se renseigner au préalable. Les billets FIP 50 transfrontaliers ne peuvent pas être achetés sur les sites de la KŚ ou de la ZSSK ; il est éventuellement possible de les obtenir à un guichet KŚ ou ZSSK.
+
+D’autres liaisons transfrontalières, uniquement saisonnières, existent également : la ligne Poprad-Tatry – Plaveč – Muszyna (circulant uniquement le week-end) et la ligne Medzilaborce – Łupków – Rzeszów (uniquement en haute saison, les week-ends de juillet/août). Sur ces deux lignes, les réductions FIP de la ZSSK sont reconnues sur le tronçon slovaque ; côté polonais, un billet FIP de la KM est nécessaire pour la première liaison, et un billet FIP de la PKP pour la seconde.
 
 ### Ukraine
 

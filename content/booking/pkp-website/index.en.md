@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "PKP Website"
-description: "Booking information for the PKP website."
+title: "PKP Intercity Website"
+description: "Booking information for the PKP Intercity website."
 
 params:
   fip_50: true
@@ -10,7 +10,7 @@ params:
     first: "3 PLN"
     second: "3 PLN"
   booking_link: "https://ebilet.intercity.pl/"
-  additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/bilet/przejazdy-z-fip.html"
+  additional_info_link: "https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html"
   type: "website"
 ---
 
@@ -18,9 +18,9 @@ params:
 
 ## FIP 50 Tickets
 
-PKP sells tickets online with FIP 50 discount. During the connection search, the option "50% MKZ-FIP" must be selected as a discount for the respective person.
+PKP Intercity sells tickets online with FIP 50 discount. During the connection search, the option "50% MKZ-FIP" must be selected as a discount for the respective person.
 
-Tickets with FIP 50 discount can only be sold for PKP connections within Poland.
+Tickets with FIP 50 discount can only be sold for PKP Intercity connections within Poland.
 
 ![PKP FIP 50 Booking](pkp_fip_50.webp)
 {{% /booking-section %}}
@@ -29,7 +29,7 @@ Tickets with FIP 50 discount can only be sold for PKP connections within Poland.
 
 ## Reservations
 
-The PKP website sells reservations for national and cross-border PKP trains. During the connection search, the option "Buy a reservation for your ticket" or "Kup rezerwację do biletu" must be selected:
+The PKP Intercity website sells reservations for national and cross-border PKP Intercity trains. During the connection search, the option "Buy a reservation for your ticket" or "Kup rezerwację do biletu" must be selected:
 
 ![PKP Reservation Booking](pkp_reservation.webp)
 
