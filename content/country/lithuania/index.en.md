@@ -9,7 +9,7 @@ params:
 
 ## FIP Information
 
-Lithuania is a relatively straightforward country for using FIP; [LTG-Link](/operator/ltg "LTG-Link") is the only passenger operator and thus the only FIP provider in the country. LTG-Link has been a FIP member since early 2024.
+Lithuania is a relatively straightforward country for using FIP. [LTG-Link](/operator/ltg "LTG-Link") is the only passenger operator and thus the only FIP provider in the country. LTG-Link has been a FIP member since early 2024.
 
 When using FIP Coupons, a free ticket (e.g., online) must be obtained for each journey.
 
@@ -46,14 +46,18 @@ On the route to Turmantas, the old DR1A trains from Soviet production are still 
 | Russia | No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad |
 {{% /expander %}}
 
-### Poland
-
-The only way to reach Lithuania is via Warsaw. From Warsaw or Szczecin – Warsaw, there will be two daily connections to Kaunas – Vilnius from 12/2025, with a change at the border station Mockava, either on the same platform or via a level crossing to the neighboring platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket and Reservation Purchase](/operator/ltg#online)). For cross-border journeys to/from Poland, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
-
-The number of tickets is limited, as travel is only possible with a seat reservation. From 12/2025, a fixed seat reservation will only be assigned in the PKP `IC`, while on the LTG-Link train, seats are unreserved.
-
 ### Latvia
 
 Regular train service between Latvia and Lithuania resumed only at the end of 2023. LTG-Link operates in the morning from Vilnius via Siauliai and Riga to the Latvian-Estonian border station Valga and returns in the evening. FIP discounts from LTG-Link also apply between Vilnius and Riga ([see Validity of FIP Tickets](/operator/ltg#validity-of-fip-tickets)). Tickets and reservations can be purchased online ([see Ticket and Reservation Purchase](/operator/ltg#online)).
 
 Since summer 2025, there have been negotiations to extend the Vilnius – Turmantas trains to Daugavpils in Latvia.
+
+### Poland
+
+There are only very few cross-border trains between Poland and Lithuania. One train pair runs from Krakow via Warsaw to Vilnius. At the border station Mockava, a change of trains is required, but the journey is sold as a through connection. The transfer is either on the same platform or via a level crossing to the adjacent platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket and Reservation Purchase](/operator/ltg#online)). For cross-border journeys to/from Poland, you must have either a continuous FIP 50 Ticket or FIP Coupons for both countries.
+
+The number of tickets is limited, as travel is only possible with a seat reservation. Since December 2025, a fixed seat reservation is only assigned in the PKP `IC` train, while on the LTG-Link railcar there is free choice of seats.
+
+### Russia
+
+Trains regularly run between Russia and the Russian exclave of Kaliningrad via Lithuania. However, these trains cannot be used for transit travel between Lithuania and Russia. These services only make operational stops in Lithuania.

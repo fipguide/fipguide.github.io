@@ -9,7 +9,7 @@ operator: "ltg"
 
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochtergesellschaft LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.
 
-LTG-Link veröffentlich online eine [Übersicht des Streckennetzes](https://ltglink.lt/en/route-map).
+LTG-Link veröffentlicht online eine [Übersicht des Streckennetzes](https://ltglink.lt/en/route-map).
 
 ## Zusammenfassung
 
@@ -32,7 +32,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der LTG-Link gült
 {{% highlight tip %}}
 FIP 50 Tickets und Freifahrtscheine von LTG-Link gelten auch in Zügen von LTG-Link auf der Strecke Vilnius – Riga.[^1]
 
-Ab Riga bis Valga verkehren die Züge von LTG-Link im Auftrag von Vivi (Latvian Railways). FIP Vergünstigungen sind daher dort nicht gültig. Bei der Buchung sollte der Abschnitt getrennt gebucht werden, damit für die restliche Strecke FIP Vergünstigungen bei der Buchung berücksichtigt werden.
+Ab Riga bis Valga verkehren die Züge von LTG-Link im Auftrag von Vivi (Latvian Railways). FIP Vergünstigungen sind daher dort nicht gültig. Bei der Buchung sollte der Abschnitt getrennt gebucht werden, damit für die restliche Strecke (Litauen – Riga) FIP Vergünstigungen bei der Buchung berücksichtigt werden.
 {{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
@@ -40,7 +40,7 @@ Ab Riga bis Valga verkehren die Züge von LTG-Link im Auftrag von Vivi (Latvian 
 In Litauen wird nicht zwischen verschiedenen Zugkategorien unterschieden.
 
 {{% highlight important %}}
-LTG-Link verlangt in Fernverkehrszügen eine verpflichtende kostenlose Sitzplatzreservierung (eine Auflistung der Verbindungen ist auf [LTG-Link Website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes) zu finden). Mit FIP Freifahrtschein muss jedoch auch in Zügen ohne Reservierungspflicht ein kostenloses Ticket (_0er-Fahrschein_) vor der Fahrt erworben werden.
+LTG-Link verlangt in Fernverkehrszügen eine verpflichtende kostenlose Sitzplatzreservierung. Eine Auflistung der Verbindungen ist auf der [LTG-Link Website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes) zu finden. Die Preise sind dabei zu ignorieren, da sie sich mit FIP auf 0 Euro reduzieren. Mit FIP Freifahrtschein muss jedoch auch in Zügen ohne Reservierungspflicht ein kostenloses Ticket (_0er-Fahrschein_) vor der Fahrt erworben werden.
 
 Züge mit Reservierungspflicht sind teilweise schon viele Tage im Voraus ausgebucht. In der Hochsaison und an Feiertagen zwischen Vilnius und Klaipeda bzw. Riga sind Züge teilweise 2-3 Wochen zuvor ausgebucht.
 

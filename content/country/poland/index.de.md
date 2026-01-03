@@ -57,9 +57,9 @@ Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Fü
 
 ### Litauen
 
-Ab Vilnius und Kaunas gibt es ab 12/2025 zwei tägliche Verbindungen nach Warschau und teilweise weiter bis Stettin, wobei am Grenzbahnhof Mockava umgestiegen werden muss, entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)). Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+Es verkehren nur sehr wenige grenzüberschreitende Züge zwischen Polen und Litauen. Ein Zugpaar fährt dabei von Krakau über Warschau bis nach Vilnius. Am Grenzbahnhof Mockava muss hier zwar umgestiegen werden, der Zug wird jedoch durchgehend verkauft. Der Umstieg ist dabei entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)). Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Ab 12/2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
+Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Seit Dezember 2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
 
 ### Slowakei
 

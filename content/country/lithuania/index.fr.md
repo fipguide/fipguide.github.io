@@ -9,7 +9,7 @@ params:
 
 ## Informations FIP
 
-La Lituanie est un pays relativement simple pour l’utilisation du Coupon FIP ; [LTG-Link](/operator/ltg "LTG-Link") est le seul opérateur de transport de passagers et donc le seul fournisseur FIP dans le pays. LTG-Link est membre FIP depuis début 2024.
+La Lituanie est un pays relativement simple pour l’utilisation du Coupon FIP. [LTG-Link](/operator/ltg "LTG-Link") est le seul opérateur de transport de passagers et donc le seul fournisseur FIP dans le pays. LTG-Link est membre FIP depuis début 2024.
 
 Pour utiliser un Coupon FIP, il est toutefois nécessaire d’obtenir un billet gratuit pour chaque trajet (par exemple en ligne).
 
@@ -46,14 +46,18 @@ Sur la ligne vers Turmantas, les anciennes automotrices DR1A d’origine soviét
 | Russie | Pas de montée/descente en transit Russie-Biélorussie-Lituanie-Kaliningrad |
 {{% /expander %}}
 
-### Pologne
-
-La seule possibilité de rejoindre la Lituanie est via Varsovie. Depuis Varsovie ou Szczecin – Varsovie, à partir de 12/2025, il y aura deux liaisons quotidiennes vers Kaunas – Vilnius, avec un changement obligatoire à la gare frontière de Mockava, soit sur le même quai, soit via un passage de plain-pied vers le quai voisin. À Mockava, les trains en correspondance retardés sont attendus. Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)). Pour les trajets transfrontaliers vers/depuis la Pologne, il faut soit un Billet FIP 50 valable de bout en bout, soit des Coupons FIP des deux pays.
-
-Le nombre de billets est contingenté, car le voyage n’est possible qu’avec une place assise. À partir de 12/2025, seule une réservation de place fixe sera attribuée dans le PKP `IC`, tandis que dans l’automotrice LTG-Link, le placement sera libre.
-
 ### Lettonie
 
 Le trafic ferroviaire régulier entre la Lettonie et la Lituanie n’a repris qu’à la fin de 2023. LTG-Link circule le matin de Vilnius via Siauliai et Riga jusqu’à la gare frontière lettonne-estonienne de Valga, et le soir en sens inverse. Entre Vilnius et Riga, les réductions FIP de LTG-Link s’appliquent également ([voir Validité des Billets FIP](/operator/ltg#validité-des-billets-fip)). Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)).
 
 Depuis l’été 2025, une extension des trains Vilnius – Turmantas jusqu’à Daugavpils (Lettonie) est en discussion.
+
+### Pologne
+
+Il n’existe que très peu de trains transfrontaliers entre la Pologne et la Lituanie. Une paire de trains circule de Cracovie via Varsovie jusqu’à Vilnius. À la gare frontière de Mockava, une correspondance est nécessaire, mais le trajet est vendu comme un seul parcours. La correspondance se fait soit sur le même quai, soit via un passage de plain-pied vers le quai voisin. À Mockava, les trains en correspondance attendent en cas de retard. Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)). Pour les trajets transfrontaliers vers/depuis la Pologne, il faut disposer soit d’un Billet FIP 50 valable pour tout le trajet, soit de Coupons FIP des deux pays.
+
+Le nombre de billets est contingenté, car le voyage n’est possible qu’avec une place assise réservée. Depuis décembre 2025, une réservation de place fixe n’est attribuée que dans le train PKP `IC`, tandis que dans l’automotrice LTG-Link, le choix de la place est libre.
+
+### Russie
+
+Des trains circulent régulièrement entre la Russie et l’enclave russe de Kaliningrad via la Lituanie. Cependant, ces trains ne peuvent pas être utilisés pour le trafic de transit entre la Lituanie et la Russie. Ces trains ne marquent des arrêts en Lituanie qu’à des fins opérationnelles.
