@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "PKP Fahrkartenautomat"
-description: "Buchungsinformationen für die PKP Fahrkartenautomaten."
+title: "PKP Intercity Fahrkartenautomat"
+description: "Buchungsinformationen für die PKP Intercity Fahrkartenautomaten."
 
 params:
   fip_50: true
@@ -9,7 +9,7 @@ params:
   type: "onsite"
 ---
 
-In größeren Städten gibt es teilweise PKP Fahrkartenautomaten.
+In größeren Städten gibt es teilweise PKP Intercity Fahrkartenautomaten.
 
 {{% booking-section "fip_50" %}}
 

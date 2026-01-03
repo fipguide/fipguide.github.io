@@ -62,7 +62,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 |                   | 1st class | 2nd class |
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
-| National Peak     | €16       | €16       |
+| National Peak     | €16       | €11       |
 | International     | €40       | €20       |
 
 {{% /train-category %}}
@@ -102,7 +102,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 |                   | 1st class | 2nd class |
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
-| National Peak     | €16       | €16       |
+| National Peak     | €16       | €11       |
 | International     | €40       | €20       |
 
 {{% /train-category %}}
@@ -125,7 +125,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 |                   | 1st class | 2nd class |
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
-| National Peak     | €16       | €16       |
+| National Peak     | €16       | €11       |
 | International     | €40       | €20       |
 
 {{% /train-category %}}
