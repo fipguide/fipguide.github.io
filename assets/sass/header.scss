@@ -62,3 +62,46 @@
     pointer-events: auto;
   }
 }
+
+#overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0);
+  backdrop-filter: blur(0px);
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity 0.3s ease,
+    background-color 0.3s ease,
+    backdrop-filter 0.3s ease;
+
+  @media print {
+    display: none;
+  }
+}
+
+#overlay.overlay--show {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  pointer-events: auto;
+}
+
+#header:has(.overlay--contentNavigation),
+.overlay--contentNavigation {
+  z-index: 6;
+}
+
+#header:has(.overlay--search),
+.overlay--search {
+  z-index: 10;
+}
+
+#header:has(.overlay--mobileMenu),
+.overlay--mobileMenu {
+  z-index: 14;
+}
+
+body:has(.overlay--show) {
+  overflow: hidden;
+}

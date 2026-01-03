@@ -91,11 +91,11 @@ menu > li > menu {
   .o-dropdown__button[aria-expanded="true"] + .o-dropdown__menu {
     display: grid;
     justify-items: flex-end;
-    z-index: 14;
 
     @media (min-width: #{$breakpoint-md}) {
       padding: 1rem;
       justify-items: flex-start;
+      z-index: 14;
 
       display: grid;
       grid-auto-flow: row;
