@@ -80,10 +80,9 @@
     {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
   {{- end -}}
   <div class="{{ delimit $contentClasses " " }}">
-    {{- $content := partial "increase-headings" (dict "content" .page.Content "offset" 2) -}}
-    {{- $content := partial "prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
-    {{- $content := partial "prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
-    {{- $content := partial "remove-newlines" $content -}}
+    {{- $content := partial "modifiers/increase-headings" (dict "content" .page.Content "offset" 2) -}}
+    {{- $content := partial "modifiers/prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
+    {{- $content := partial "modifiers/prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
     {{- $content | safeHTML -}}
   </div>
 

@@ -36,7 +36,7 @@
     <div class="o-single__container" data-pagefind-body>
       <div class="o-single__content-header">
         <h1 data-pagefind-meta="title">{{ .Title }}</h1>
-        {{ partial "updateDate.html" . }}
+        {{ partial "updateDate" . }}
       </div>
       <div class="o-single__news-image">
         {{ partial "image" (partial "helper/contentImage" .) }}

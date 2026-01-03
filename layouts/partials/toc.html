@@ -55,7 +55,7 @@
             "endLevel" $endLevel
             "headings" .
           }}
-          {{- partial "inline/toc/walk.html" $ctx }}
+          {{- partial "inline/toc/walk" $ctx }}
         </ul>
       </nav>
     {{- end }}
@@ -78,13 +78,13 @@
         {{- with and (lt .Level $ctx.endLevel) .Headings }}
           <ul>
             {{- $ctx = merge $ctx (dict "headings" .) }}
-            {{- partial "inline/toc/walk.html" $ctx }}
+            {{- partial "inline/toc/walk" $ctx }}
           </ul>
         {{- end }}
       </li>
     {{- else }}
       {{- $ctx = merge $ctx (dict "headings" .Headings) }}
-      {{- partial "inline/toc/walk.html" $ctx }}
+      {{- partial "inline/toc/walk" $ctx }}
     {{- end }}
   {{- end }}
 {{- end }}
