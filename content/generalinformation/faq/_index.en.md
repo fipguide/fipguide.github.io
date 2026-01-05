@@ -3,7 +3,7 @@ title: "FAQ"
 
 cascade:
   - build:
-      list: false
+      list: local
       publishResources: false
       render: never
 ---
