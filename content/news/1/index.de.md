@@ -4,6 +4,10 @@ draft: false
 author: "Lennart"
 title: "Neues FIP Mitglied: LTG Link (Litauen)"
 description: "Seit 1. Januar 2024 ist LTG Link (Litauen) Teil des FIP-Programms. Bahnmitarbeitende profitieren von neuen Vergünstigungen im Baltikum."
+country:
+  - lithuania
+operator:
+  - ltg
 ---
 
 Ab dem 1. Januar 2024 ist die Litauische Staatsbahn (LTG Link) offizielles Mitglied in FIP. Bahnmitarbeitende profitieren dadurch von Freifahrten und vergünstigten Tickets auf internationalen Bahnstrecken. Diese Kooperation stärkt die grenzüberschreitende Mobilität und macht es für Bahnmitarbeiter noch attraktiver, die Schiene für private Reisen zu nutzen.

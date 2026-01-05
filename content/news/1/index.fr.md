@@ -4,6 +4,10 @@ draft: false
 author: "Lennart"
 title: "Nouveau membre FIP : LTG Link (Lituanie)"
 description: "Depuis le 1er janvier 2024, LTG Link (Lituanie) rejoint le programme FIP. Les cheminots bénéficient désormais de nouvelles réductions de voyage dans les pays baltes."
+country:
+  - lithuania
+operator:
+  - ltg
 ---
 
 Depuis le 1er janvier 2024, la compagnie nationale des chemins de fer lituaniens (LTG Link) est officiellement membre du FIP. Les employés des chemins de fer bénéficient de trajets gratuits et de billets à tarif réduit sur les lignes internationales. Cette coopération renforce la mobilité transfrontalière et rend l’utilisation du train encore plus attractive pour les cheminots lors de leurs déplacements privés.
