@@ -183,10 +183,16 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=false
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets für Regionalzüge zwischen Deutschland und Frankreich für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=false
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -203,7 +209,11 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" %}}
+{{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
 {{% /booking %}}
 

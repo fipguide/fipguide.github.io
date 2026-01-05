@@ -184,10 +184,16 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="db-website-fip-db"
   subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
   subtitle="Billets FIP 50 transfrontaliers pour trains régionaux entre l’Allemagne et la France pour l’ensemble du trajet (non valables dans le pays d’émission du Carte FIP)."
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -204,7 +210,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="transilien-ticket-office" subtitle="Pour tramways et trains en Île-de-France" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France" %}}
+{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 Au DB Reisezentrum, il est possible d’acheter des Billets FIP 50 transfrontaliers pour TGV/ICE entre l’Allemagne et la France. On ne sait pas actuellement si la réservation de trains intérieurs français est possible.
 {{% /booking %}}
 

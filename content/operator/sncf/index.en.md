@@ -184,10 +184,16 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="db-website-fip-db"
   subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
   subtitle="Cross-border FIP 50 Tickets for regional trains between Germany and France for the entire route (not valid in the country of issue of the FIP Card)."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -204,7 +210,11 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="transilien-ticket-office" subtitle="For tram lines and trains in Greater Paris" /%}}
 
-{{% booking id="db-ticket-office" subtitle="For cross-border TGV/ICE trains between Germany and France" %}}
+{{% booking id="db-ticket-office" subtitle="For cross-border TGV/ICE trains between Germany and France"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 At DB Reisezentrum, cross-border FIP 50 Tickets for TGV/ICE trains between Germany and France can be purchased. It is currently unknown if booking for domestic French trains is possible.
 {{% /booking %}}
 
