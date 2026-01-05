@@ -288,7 +288,7 @@ Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien od
 %}}
 Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Luxemburg sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden.
 
-Die Preise betragen Stand 2026:
+Die Preise betragen Stand 2026: [^3]
 | | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | Paris – Luxemburg | 61 € | 88 € |
@@ -373,3 +373,5 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)

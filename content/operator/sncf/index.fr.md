@@ -288,7 +288,7 @@ Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Be
 %}}
 Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
 
-Les prix sont valables à partir de 2026 :
+Les prix sont valables à partir de 2026 : [^3]
 | | 1ʳᵉ classe | 2ᵉ classe |
 | ---------------------- | ---------- | --------- |
 | Paris – Luxembourg | 61 € | 88 € |
@@ -375,3 +375,5 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)

@@ -289,7 +289,7 @@ International `TGV` services from France to Italy, Spain, or Belgium are reserva
 %}}
 Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.
 
-Prices as of 2026:
+Prices as of 2026: [^3]
 | | 1st class | 2nd class |
 | ---------------------- | --------- | --------- |
 | Paris – Luxembourg | €61 | €88 |
@@ -375,3 +375,5 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [FIP Guide Community: TGV to Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
