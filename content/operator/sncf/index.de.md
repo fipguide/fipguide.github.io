@@ -62,7 +62,6 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
 | National Peak     | 16 €      | 11 €      |
-| International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
 
@@ -125,7 +124,6 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
 | National Peak     | 16 €      | 11 €      |
-| International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
 
@@ -260,6 +258,15 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
   reservation_required=partially
 %}}
 Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt reservierungspflichtig. Innerhalb von Deutschland sind die Züge nicht reservierungspflichtig und mit FIP Freifahrtscheinen nutzbar.
+
+Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reservierungsgebühren. Internationale Fahrten benötigen eine grenzüberschreitende Reservierung:
+
+|                   | 1. Klasse | 2. Klasse |
+| ----------------- | --------- | --------- |
+| National Off-peak | 2 €       | 2 €       |
+| National Peak     | 16 €      | 11 €      |
+| International     | 40 €      | 20 €      |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -270,6 +277,22 @@ Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt res
   reservation_required=true
 %}}
 Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130€).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV Züge nach Luxemburg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Luxemburg sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden.
+
+Die Preise betragen Stand 2026:
+| | 1. Klasse | 2. Klasse |
+| ----------------- | --------- | --------- |
+| Paris – Luxemburg | 61 € | 88 € |
+| Marseille – Luxemburg | 74 € | 113 € |
 {{% /train-category %}}
 
 {{% train-category

@@ -63,7 +63,6 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
 | National Peak     | €16       | €11       |
-| International     | €40       | €20       |
 
 {{% /train-category %}}
 
@@ -126,7 +125,6 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
 | National Peak     | €16       | €11       |
-| International     | €40       | €20       |
 
 {{% /train-category %}}
 
@@ -261,6 +259,15 @@ This reservation requirement applies to the following lines:
   reservation_required=partially
 %}}
 International `TGV` and `ICE` trains are reservation-required in the French section. In Germany, reservations are not required and FIP Coupons are valid.
+
+For journeys within France, the standard domestic `TGV` reservation fees apply. International journeys require a cross-border reservation:
+
+|                   | 1st class | 2nd class |
+| ----------------- | --------- | --------- |
+| National Off-peak | €2        | €2        |
+| National Peak     | €16       | €11       |
+| International     | €40       | €20       |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -271,6 +278,23 @@ International `TGV` and `ICE` trains are reservation-required in the French sect
   reservation_required=true
 %}}
 International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV trains to Luxembourg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.
+
+Prices as of 2026:
+| | 1st class | 2nd class |
+| ---------------------- | --------- | --------- |
+| Paris – Luxembourg | €61 | €88 |
+| Marseille – Luxembourg | €74 | €113 |
+
 {{% /train-category %}}
 
 {{% train-category

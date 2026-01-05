@@ -63,7 +63,6 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
 | National Peak     | 16 €       | 11 €      |
-| International     | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
@@ -126,7 +125,6 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
 | National Peak     | 16 €       | 11 €      |
-| International     | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
@@ -261,6 +259,14 @@ Cette obligation s’applique aux lignes suivantes :
   reservation_required=partially
 %}}
 Les trains TGV et ICE internationaux sont à réservation obligatoire sur la section française. En Allemagne, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
+Pour les trajets à l’intérieur de la France, les frais de réservation nationaux habituels pour les `TGV` s’appliquent. Les trajets internationaux nécessitent une réservation transfrontalière :
+
+|                   | 1ʳᵉ classe | 2ᵉ classe |
+| ----------------- | ---------- | --------- |
+| National Off-peak | 2 €        | 2 €       |
+| National Peak     | 16 €       | 11 €      |
+| International     | 40 €       | 20 €      |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -271,6 +277,23 @@ Les trains TGV et ICE internationaux sont à réservation obligatoire sur la sec
   reservation_required=true
 %}}
 Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu’à 130 €).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV vers le Luxembourg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
+
+Les prix sont valables à partir de 2026 :
+| | 1ʳᵉ classe | 2ᵉ classe |
+| ---------------------- | ---------- | --------- |
+| Paris – Luxembourg | 61 € | 88 € |
+| Marseille – Luxembourg | 74 € | 113 € |
+
 {{% /train-category %}}
 
 {{% train-category
