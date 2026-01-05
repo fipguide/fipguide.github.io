@@ -18,4 +18,4 @@ Das litauische Schienennetz umfasst ca. 1.900 Kilometer und ist breitspurig (1.5
 
 Mit dem Beitritt zur FIP setzt LTG ein Zeichen für die Integration in das internationale Bahnnetz und stärkt zugleich die Attraktivität der Schiene als nachhaltiges Verkehrsmittel.
 
-Informationen zur Nutzung von Fahrvergünstigungen mit FIP in Litauen sind in Kürze hier auf der Seite zu finden.
+Informationen zur Nutzung von Fahrvergünstigungen mit FIP in [Litauen](/country/lithuania) und [LTG-Link](/operator/ltg) sind jetzt hier im FIP Guide verfügbar.

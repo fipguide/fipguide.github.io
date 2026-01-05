@@ -18,4 +18,4 @@ Le réseau ferroviaire lituanien s’étend sur environ 1 900 kilomètres et est
 
 L’adhésion au FIP marque l’intégration de LTG dans le réseau ferroviaire international et renforce l’attractivité du train comme mode de transport durable.
 
-Les informations sur l’utilisation des réductions FIP en Lituanie seront bientôt disponibles sur ce site.
+Des informations sur l’utilisation des avantages de voyage FIP en [Lituanie](/country/lithuania) et avec [LTG Link](/operator/ltg) sont désormais disponibles ici dans le FIP Guide.

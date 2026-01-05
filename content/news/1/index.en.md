@@ -18,4 +18,4 @@ The Lithuanian rail network covers approximately 1,900 kilometers and is broad-g
 
 By joining FIP, LTG is signaling its integration into the international rail network and at the same time strengthening the attractiveness of rail as a sustainable mode of transport.
 
-Information on the use of travel discounts with FIP in Lithuania will be available here on the site shortly.
+Information on using FIP travel discounts in [Lithuania](/country/lithuania) and with [LTG Link](/operator/ltg) is now available here in the FIP Guide.
