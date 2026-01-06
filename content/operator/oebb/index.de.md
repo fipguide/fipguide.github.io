@@ -253,6 +253,10 @@ Mit einem FIP Freifahrtschein kann die Autoschleuse Tauerntunnel (Böckstein–M
 
 FIP 50 Ermäßigungen sind nicht erhältlich.
 
+### Korridorverkehr Salzburg - Kufstein
+
+Fernzüge der ÖBB verkehren zwischen Salzburg und Kufstein auf dem deutschen Streckennetz ohne Halt. FIP Freifahrtscheine der ÖBB sind hier gültig.
+
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
