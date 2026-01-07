@@ -116,7 +116,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 %}}
 Trains Intercités de la SNCF reliant différentes villes françaises, généralement à réservation obligatoire.
 
-La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En cas de doute, il faut vérifier auprès de la SNCF ou acheter une réservation.
+Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
 
 #### Réservation
 
