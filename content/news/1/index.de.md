@@ -2,7 +2,7 @@
 date: "2025-01-01"
 draft: false
 author: "Lennart"
-title: "Neues FIP Mitglied: LTG Link (Litauen)"
+title: "Update: Neues FIP Mitglied: LTG Link (Litauen)"
 description: "Seit 1. Januar 2024 ist LTG Link (Litauen) Teil des FIP-Programms. Bahnmitarbeitende profitieren von neuen Vergünstigungen im Baltikum."
 country:
   - lithuania
@@ -18,4 +18,7 @@ Das litauische Schienennetz umfasst ca. 1.900 Kilometer und ist breitspurig (1.5
 
 Mit dem Beitritt zur FIP setzt LTG ein Zeichen für die Integration in das internationale Bahnnetz und stärkt zugleich die Attraktivität der Schiene als nachhaltiges Verkehrsmittel.
 
+Informationen zur Nutzung von Fahrvergünstigungen mit FIP in Litauen sind in Kürze hier auf der Seite zu finden.
+
+**Update 08.01.2026:** \
 Informationen zur Nutzung von Fahrvergünstigungen mit FIP in [Litauen](/country/lithuania) und [LTG-Link](/operator/ltg) sind jetzt hier im FIP Guide verfügbar.

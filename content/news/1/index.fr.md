@@ -2,7 +2,7 @@
 date: "2025-01-01"
 draft: false
 author: "Lennart"
-title: "Nouveau membre FIP : LTG Link (Lituanie)"
+title: "Mise à jour : Nouveau membre FIP : LTG Link (Lituanie)"
 description: "Depuis le 1er janvier 2024, LTG Link (Lituanie) rejoint le programme FIP. Les cheminots bénéficient désormais de nouvelles réductions de voyage dans les pays baltes."
 country:
   - lithuania
@@ -18,4 +18,7 @@ Le réseau ferroviaire lituanien s’étend sur environ 1 900 kilomètres et est
 
 L’adhésion au FIP marque l’intégration de LTG dans le réseau ferroviaire international et renforce l’attractivité du train comme mode de transport durable.
 
+Les informations sur l’utilisation des réductions FIP en Lituanie seront bientôt disponibles sur ce site.
+
+**Mise à jour 17.06.2025 :** \
 Des informations sur l’utilisation des avantages de voyage FIP en [Lituanie](/country/lithuania) et avec [LTG Link](/operator/ltg) sont désormais disponibles ici dans le FIP Guide.
