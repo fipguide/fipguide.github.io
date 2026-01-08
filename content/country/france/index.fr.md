@@ -85,7 +85,7 @@ Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la 
 
 Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF.
 
-Les trains régionaux `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP SNCF.
+Les trains régionaux `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP SNCF.[^2]
 
 ### Italie
 
@@ -112,3 +112,5 @@ Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en
 Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
 
 [^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

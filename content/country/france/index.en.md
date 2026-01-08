@@ -85,7 +85,7 @@ There are also various cross-border regional train connections. In Basel, the st
 
 In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF.
 
-`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF FIP Coupon.
+`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF FIP Coupon.[^2]
 
 ### Italy
 
@@ -112,3 +112,5 @@ Overall, there are very few cross-border connections, which were much better dev
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
 
 [^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

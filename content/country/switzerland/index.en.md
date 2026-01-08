@@ -72,7 +72,7 @@ There are also various cross-border regional train connections. In Basel, Basel 
 
 In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
 
-`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF Coupon.
+`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF Coupon.[^2]
 
 ### Italy
 
@@ -99,3 +99,5 @@ Entry from Austria is also possible via the Buchs SG border crossing through Lie
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

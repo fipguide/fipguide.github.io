@@ -72,7 +72,7 @@ Il existe également différentes liaisons régionales transfrontalières. À B�
 
 Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom de Léman Express, exploités par la SBB et la SNCF.
 
-Les trains `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP de la SNCF.
+Les trains `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP de la SNCF.[^2]
 
 ### Italie
 
@@ -99,3 +99,5 @@ Il est aussi possible d’entrer en Suisse depuis l’Autriche via Buchs SG en p
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

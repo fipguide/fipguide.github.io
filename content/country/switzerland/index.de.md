@@ -72,7 +72,7 @@ Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen.
 
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
-`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.
+`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
 
 ### Italien
 
@@ -99,3 +99,5 @@ Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch L
 ## Quellen
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
