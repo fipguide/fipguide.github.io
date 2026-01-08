@@ -8,7 +8,6 @@
     {{ printf "%s | %s" .Title site.Title }}
   {{ end }}
 </title>
-{{ partialCached "head/js" . }}
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
   {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
@@ -24,6 +23,8 @@
   await import("/pagefind/pagefind-highlight.js");
   new PagefindHighlight({ highlightParam: "highlight" });
 </script>
+
+{{ partialCached "head/js" . }}
 
 <!-- include a favicon for your site if you have it, else omit the line below
      Location of favicon can be in mytheme/static/favicon.ico -->
