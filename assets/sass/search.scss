@@ -31,11 +31,12 @@ $search-z-index-focus: 12;
 
     &__message {
       padding: 1rem;
+      margin-bottom: 0;
     }
 
     &__results-area {
       max-height: 50vh;
-      padding: 0 2rem;
+      padding: 0 1rem;
       overflow-y: scroll;
 
       @media (max-width: #{$breakpoint-md}) {
@@ -63,6 +64,7 @@ $search-z-index-focus: 12;
       display: flex;
       width: 100%;
       box-sizing: border-box;
+      font-family: "Roboto", Arial, Helvetica, sans-serif;
 
       @include focus-indicator(0.2rem);
 
@@ -108,6 +110,7 @@ $search-z-index-focus: 12;
       gap: 3.2rem;
       padding: 2rem 0;
       border-top: 0.2rem solid grey;
+      margin: 0 1rem;
 
       &-inner,
       &-thumb {
@@ -134,11 +137,15 @@ $search-z-index-focus: 12;
         padding-top: 0.8rem;
         padding-left: 2.4rem;
 
+        .pagefind-ui__result-link {
+          font-size: 1.8rem;
+        }
+
         .pagefind-ui__result-link::before {
           content: "subdirectory_arrow_right";
           font-family: "Material Symbols Rounded";
           position: absolute;
-          right: calc(100% + 0.1em);
+          left: -2.4rem;
         }
       }
 
@@ -149,12 +156,14 @@ $search-z-index-focus: 12;
 
     &__result-link {
       position: relative;
+      font-size: 2.2rem;
     }
 
     &__button {
       border: 0.2rem solid var(--link-default);
       border-radius: var(--border-radius-m);
       background: transparent;
+      color: var(--body-color);
       height: 4.8rem;
       padding: 1.2rem;
       margin-bottom: 1rem;
