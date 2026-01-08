@@ -66,16 +66,13 @@ Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. A
 
 ### Frankreich
 
-Aus Frankreich gibt es verschiedene Verbindungen:
+Aus Frankreich verkehren grenzüberschreitende TGV Züge nach Zürich über Basel. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge").
 
-- Direkte `TGV`-Züge von Paris nach Basel oder Genf.
-- Regionalzüge über Pontarlier, Vallorbe und weitere Grenzpunkte.
+Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
-In den `TGV`-Zügen sind reguläre FIP-Tickets nicht gültig. Hier wird ein FIP Globalpreis Ticket benötigt. Für Regionalzüge reicht ein FIP 50 Ticket oder Freifahrtscheine beider beteiligten Bahngesellschaften aus.
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
-In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, bis zu welchem SNCF Freifahrtscheine für Züge z. B. `TER` aus Straßburg gelten.
-
-Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF. FIP Freifahrtscheine für die SNCF gelten hier auch im Schweizer Abschnitt in Léman Express Zügen.
+`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.
 
 ### Italien
 

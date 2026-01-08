@@ -85,6 +85,8 @@ Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen.
 
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
+`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.
+
 ### Italien
 
 Von Mailand verkehren grenzüberschreitende Frecciarossa Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.

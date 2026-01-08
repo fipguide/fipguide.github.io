@@ -66,16 +66,13 @@ Il existe aussi plusieurs liaisons régionales transfrontalières. La Suisse est
 
 ### France
 
-Depuis la France, plusieurs liaisons existent :
+Depuis la France, des trains TGV transfrontaliers circulent vers Zurich via Bâle. En Suisse, ces trains peuvent être utilisés sans réservation avec des Billets FIP 50 ou un Coupon FIP de la SBB. Pour les liaisons transfrontalières, il est nécessaire d’acheter un FIP Global Fare, voir [Trains TGV inOui / ICE transfrontaliers](/operator/sncf#trains-tgv-inoui--ice-internationaux "Trains TGV inOui / ICE internationaux").
 
-- Trains directs `TGV` de Paris vers Bâle ou Genève.
-- Trains régionaux via Pontarlier, Vallorbe et autres points frontières.
+Il existe également différentes liaisons régionales transfrontalières. À Bâle, la gare de Basel SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains, par exemple les `TER` en direction de Strasbourg.
 
-Dans les trains `TGV`, les Billets FIP classiques ne sont pas valables. Un Billet FIP Globalpreis est nécessaire. Pour les trains régionaux, un Billet FIP 50 ou des Coupons FIP des deux compagnies ferroviaires suffisent.
+Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom de Léman Express, exploités par la SBB et la SNCF.
 
-À Bâle, la gare de Basel SBB est le point frontière jusqu’auquel les Coupons FIP SNCF sont valables pour les trains, par exemple les `TER` en provenance de Strasbourg.
-
-Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom de Léman Express, exploités par la SBB et la SNCF. Les Coupons FIP de la SNCF sont également valables sur le tronçon suisse dans les trains Léman Express.
+Les trains `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP de la SNCF.
 
 ### Italie
 
