@@ -152,7 +152,8 @@ button {
   hyphens: auto;
 }
 
-.material-symbols-rounded {
+.material-symbols-rounded::before {
+  content: attr(data-icon);
   font-family: "Material Symbols Rounded";
   font-weight: normal;
   font-style: normal;

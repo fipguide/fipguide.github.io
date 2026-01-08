@@ -44,6 +44,14 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "npm ci"
+      - name: Cache Hugo Resources
+        uses: actions/cache@v4
+        with:
+          key: hugo-resources-pr-${{ github.event.pull_request.number }}-${{ github.sha }}
+          restore-keys: |
+            hugo-resources-pr-${{ github.event.pull_request.number }}-
+            hugo-resources-main-
+          path: resources/
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache

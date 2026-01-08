@@ -68,7 +68,7 @@ There are two international routes from Austria to Italy:
 - The Brenner railway: With Eurocity trains from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, and S3 trains from Brenner to Innsbruck. From Brenner, regional trains to Bolzano can be used.
 - The route via Tarvisio Boscoverde: With Railjets from Vienna to Venice and some regional trains from Villach to Trieste.
 
-On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian section for long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border. This can be paid directly on the train.
+On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian section for long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border. This can be paid directly on the train (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### France
 

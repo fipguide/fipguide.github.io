@@ -191,7 +191,7 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 ## Conditions tarifaires spéciales
 
-### Trafic vers l’Italie
+### Trains vers l’Italie
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
@@ -256,6 +256,10 @@ Les Billets FIP sont valables sur les trains auto ÖBB. Les frais de transport d
 Avec un Coupon FIP, la navette auto du tunnel du Tauern (Böckstein–Mallnitz-Obervellach) peut être utilisée. Le véhicule doit être immatriculé au nom d’un des détenteurs du Coupon FIP pour être transporté gratuitement. Les passagers accompagnants sans Coupon FIP paient le tarif normal.
 
 La réduction FIP 50 n’est pas disponible.
+
+### Trafic de corridor Salzbourg – Kufstein
+
+Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le réseau ferroviaire allemand sans arrêt. Les Coupons FIP ÖBB y sont valables.
 
 ### Arrêts intermédiaires
 

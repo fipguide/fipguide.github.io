@@ -1,0 +1,7 @@
+---
+title: "Where can I get discounted tickets with the FIP Card?"
+weight: 7
+---
+
+The purchase method differs depending on the operator, for example online, by phone, or at a travel center.
+You can find a detailed overview sorted by FIP member [here](operator).

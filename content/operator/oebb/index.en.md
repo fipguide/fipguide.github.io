@@ -191,7 +191,7 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 ## Special Tariff Conditions
 
-### Traffic to Italy
+### Trains to Italy
 
 On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
@@ -256,6 +256,10 @@ FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra
 With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervellach) can be used. The vehicle must be registered to one of the FIP Coupon holders to be transported free of charge. Regular fares apply for accompanying passengers without a FIP Coupon.
 
 FIP 50 discounts are not available.
+
+### Corridor Traffic Salzburg – Kufstein
+
+ÖBB long-distance trains operate between Salzburg and Kufstein on the German rail network without stopping. ÖBB FIP Coupons are valid on this section.
 
 ### Break of journey
 

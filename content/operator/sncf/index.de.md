@@ -61,7 +61,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 |                   | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 16 €      |
+| National Peak     | 16 €      | 11 €      |
 | International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
@@ -101,7 +101,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 |                   | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 16 €      |
+| National Peak     | 16 €      | 11 €      |
 | International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
@@ -115,7 +115,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 %}}
 Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und meistens reservierungspflichtig sind.
 
-Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Züge reservierungspflichtig sind. Im Zweifelsfall muss für jeden Zug bei der SNCF nachgefragt oder eine Reservierung erworben werden.
+Auf der [Intercité-Website](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) der SNCF werden Verbindungen mit und ohne Reservierungspflicht aufgelistet. Alternativ kann über die [Zugsuche](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) der SNCF für jede Zugnummer die Reservierungsbedingungen abgerufen werden.
 
 #### Reservierung
 
@@ -124,7 +124,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 |                   | 1. Klasse | 2. Klasse |
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 16 €      |
+| National Peak     | 16 €      | 11 €      |
 | International     | 40 €      | 20 €      |
 
 {{% /train-category %}}

@@ -126,10 +126,10 @@ search:
 skipToContent: Zum Inhalt springen
 support:
   text: >-
-    Du möchtest dein Wissen rund um FIP-Regelungen teilen? Schau auf unserem <a
-    href="https://github.com/fipguide/fipguide.github.io">GitHub Repository</a>
-    vorbei, um Inhalte beizutragen. Alternativ kannst du uns auch über das <a
-    href="/de/contact">Kontaktformular</a> schreiben.
+    Du möchtest dein Wissen rund um FIP-Regelungen teilen? Schau auf unserem
+    [GitHub Repository](https://github.com/fipguide/fipguide.github.io) vorbei,
+    um Inhalte beizutragen. Alternativ kannst du uns auch über das
+    [Kontaktformular](/contact) schreiben.
   title: Unterstütze uns
 toc_name: Inhalt
 trainCategory:

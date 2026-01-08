@@ -49,19 +49,25 @@ Aktuell verkehren keine Züge zwischen Belarus / Weißrussland und Polen.
 
 Von Deutschland aus kann über mehrere Wege das polnische Netz erreicht werden. Der meistgenutzte Grenzübergang ist in Frankfurt (Oder). Über diesen verkehren Eurocity-Züge zwischen Berlin und Warschau tagsüber alle 2 Stunden. Darüber hinaus sind hier auch Einzelleistungen zwischen Berlin und Gdingen (Gdynia) / Krakau / Przemysl im Fahrplan zu finden.
 
-Neben den Fernzügen kommen noch etwa alle 2 Stunden Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können. Im Fernverkehr wird voraussichtlich ab Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau / Krakau genutzt.
+Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können.
 
-Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei Frankfurt (Oder), also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein. Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
+Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt befahren werden.
+
+Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein. Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
 
 ### Litauen
 
-Zwischen Litauen und Polen wird aktuell nur ein Zugpaar täglich angeboten von Vilnius über Kaunas bis nach Warschau und Krakau. Bei dieser InterCity-Verbindung muss an der Grenze in Mockava einmal der Zug gewechselt werden, da die beiden Länder unterschiedliche Spurweiten im Schienennetz haben. Jedoch wird die Relation in Polen und Litauen als eine durchgängige Verbindung verkauft, es besteht somit Anschlussgarantie. Mit FIP-Tickets der PKP und der litauischen LTG-Link plus kostenpflichtiger Reservierung kann hier komplett mit FIP gefahren werden.
+Ab Vilnius und Kaunas gibt es ab 12/2025 zwei tägliche Verbindungen nach Warschau und teilweise weiter bis Stettin, wobei am Grenzbahnhof Mockava umgestiegen werden muss, entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)). Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+
+Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Ab 12/2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
 
 ### Slowakei
 
-Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardon. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der slowakischen ZSSK gelten bis zum Grenzpunkt.
+Die einzige grenzüberschreitende Strecke, die derzeit regelmäßig bedient wird, ist die Strecke vom slowakischen Skalite ins polnische Zwardoń. Sie wird in Kooperation von der ZSSK mit der Koleje Śląskie befahren. Die Freifahrtscheine der slowakischen ZSSK gelten bis zum Grenzpunkt.
 
 Theoretisch müsste es möglich sein, mit einem zusätzlichen Freifahrtschein der Koleje Śląskie auch grenzüberschreitend kostenlos unterwegs zu sein, dies sollte jedoch vorher erfragt werden. Grenzüberschreitende FIP 50 Tickets können weder über die Website der KŚ noch der ZSSK gekauft werden, evtl. klappt dies an einem Schalter der KŚ oder ZSSK.
+
+Weitere grenzüberschreitende Strecken, die jedoch nur saisonal bedient werden, sind die Strecken Poprad-Tatry - Plaveč - Muszyna (nur am Wochenende bedient) sowie Medzilaborce - Łupków - Rzeszów (nur in der Hochsaison Juli/August am Wochenende bedient). Auf beiden Strecken werden im slowakischen Abschnitt FIP-Vergünstigungen der ZSSK erkannt, im polnischen braucht es bei erstgennanter Strecke ein FIP-Ticket der KM, bei letztgenannter der PKP.
 
 ### Tschechien
 

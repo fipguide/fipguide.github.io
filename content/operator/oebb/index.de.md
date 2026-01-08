@@ -187,7 +187,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
 
 ## Tarifliche Besonderheiten
 
-### Verkehr nach Italien
+### Züge nach Italien
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
@@ -252,6 +252,10 @@ FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugt
 Mit einem FIP Freifahrtschein kann die Autoschleuse Tauerntunnel (Böckstein–Mallnitz-Obervellach) genutzt werden. Das Fahrzeug muss auf einen der mitreisenden FIP Freifahrtschein-Inhaber zugelassen sein, um kostenlos befördert zu werden. Für Mitreisende ohne FIP Freifahrtschein gilt der reguläre Fahrpreis.
 
 FIP 50 Ermäßigungen sind nicht erhältlich.
+
+### Korridorverkehr Salzburg - Kufstein
+
+Fernzüge der ÖBB verkehren zwischen Salzburg und Kufstein auf dem deutschen Streckennetz ohne Halt. FIP Freifahrtscheine der ÖBB sind hier gültig.
 
 ### Fahrtunterbrechung
 

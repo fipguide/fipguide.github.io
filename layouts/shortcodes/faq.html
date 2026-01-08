@@ -1,0 +1,11 @@
+{{ $faq := site.GetPage "section" "generalinformation/faq" }}
+
+{{ range sort $faq.Pages "Weight" }}
+  {{ partial "expander" (dict
+    "Title" .Title
+    "Variant" "faq"
+    "Name" "faq"
+    "Content" .Content
+    )
+  }}
+{{ end }}

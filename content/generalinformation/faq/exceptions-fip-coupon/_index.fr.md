@@ -1,0 +1,8 @@
+---
+title: "Existe-t-il des exceptions lors de l’utilisation des Coupons FIP ?"
+weight: 15
+---
+
+Oui. Avec certaines entreprises, aucun Coupon FIP ne peut être utilisé, tandis qu’avec d’autres, ils ne s’appliquent qu’à certaines catégories de trains.
+
+Les détails sur les règles des membres FIP peuvent être trouvés sur les [pages des opérateurs](operator).

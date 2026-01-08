@@ -38,6 +38,8 @@ Catégorie la plus élevée pour les trains à grande vitesse longue distance. L
 **Réservation possible :** Oui \
 **Réservation obligatoire :** ⚠️ Oui \
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+
+Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 {{% /expander %}}
 
 {{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
@@ -48,6 +50,8 @@ Trains à grande vitesse à pendulation.
 **Réservation possible :** Oui \
 **Réservation obligatoire :** ⚠️ Oui \
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+
+Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 {{% /expander %}}
 
 {{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
@@ -56,6 +60,8 @@ Trains rapides hors lignes à grande vitesse. \
 **Réservation possible :** Oui \
 **Réservation obligatoire :** ⚠️ Oui \
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+
+Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 {{% /expander %}}
 
 {{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
@@ -92,14 +98,16 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP. Po
 Trains rapides internationaux vers l’Allemagne, l’Autriche et la Suisse. \
 **Réservation possible :** Oui \
 **Réservation obligatoire :** ⚠️ Oui \
-**Coût de la réservation :** 25 € (1ère/2ᵉ classe), sauf sur la ligne du Brenner
+**Coût de la réservation** : Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-**Coûts sur la ligne du Brenner :**
+Tarifs différents pour le trafic du Brenner (supplément Brenner) :
 
-- 1ère classe : 15 €
-- 2ᵉ classe : 10 €
+- 1ʳᵉ classe : 15 €
+- 2ᵉ classe : 10 €
 
-Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+Les réservations pour le trafic du Brenner peuvent être achetées à bord du train ou au guichet FS.
+
+Le prix de la réservation inclut toujours un supplément lors de l’utilisation avec un Coupon FIP.
 {{% /expander %}}
 
 {{% expander "Nightjet (NJ) / Euronight (EN) ⚠️" traincategory "int-long-distance" %}}
@@ -175,7 +183,9 @@ Pour le `ECE` Francfort – Milan ou le `EC` sur la ligne du Brenner entre Munic
 {{% booking id="db-ticket-office"
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
-/%}}
+%}}
+Le supplément ou le prix de la réservation pour les trains internationaux `EC`/`ECE` entre la Suisse et l’Italie coûte seulement 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) au guichet DB Reisezentrum et inclut une réservation de siège (par exemple jusqu’à Francfort).
+{{% /booking %}}
 
 ### À bord du train
 
