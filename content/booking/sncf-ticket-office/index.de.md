@@ -15,7 +15,7 @@ params:
 
 Ticketschalter der SNCF werden SNCF Connect Shops genannt und befinden sich an allen größeren Bahnhöfen in Frankreich. Dort können Fahrkarten für inländische und internationale Reisen gekauft werden. Die Ticketschalter haben oftmals eingeschränkte Öffungszeiten, die vor einem Besuch überprüft werden sollten. Für Reisen innerhalb Frankreichs können auch Upgrades von der 2. Klasse in die 1. Klasse gekauft werden. Dabei muss die Differenz gezahlt werden.
 
-Wenn das Personal am Ticketschalter unsicher ist, welchen Tarifcode es verwenden soll, können Sie auf Folgendes hinweisen:
+Wenn das Personal am Ticketschalter unsicher ist, welchen Tarifcode es verwenden soll, können Sie auf Folgendes hinweisen: [^1]
 
 - FIP Freifahrtschein — CF70: Zahlung nur für Reservierung.
 - FIP Freifahrtschein — CF71: Upgrade der FIP Coupon-Reservierung ausschließlich auf die 1. Klasse.
@@ -39,3 +39,5 @@ Die SNCF verkauft an ihren Ticketschaltern Fahrkarten mit 50% FIP Ermäßigung.
 Die SNCF verkauft Reservierungen für Fernverkehrszüge.
 
 {{% /booking-section %}}
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
