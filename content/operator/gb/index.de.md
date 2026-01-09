@@ -180,7 +180,7 @@ ScotRail deckt das gesamte schottische Regionalnetz ab, inklusive der Highlands 
 **Reservierungspflicht:** Nein
 {{% /expander %}}
 
-{{% expander "South Western Railway (SW)" traincategory "category" %}}
+{{% expander "South Western Railway (SWR)" traincategory "category" %}}
 **Beschreibung:** \
 South Western Railway verbindet London Waterloo mit dem Südwesten Englands und betreibt zahlreiche Pendlerstrecken. \
 **Reservierung möglich:** Nein
@@ -249,7 +249,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 
 Als allgemeine Faustregel gilt: Tickets, die ausschließlich für National Rail gelten, werden in der Regel akzeptiert. Kombinierte Bahn- und Bustickets sind meist nicht gültig. Bei Tickets, die sowohl National Rail als auch Museumsbahnen umfassen, sollte die Gültigkeit im Einzelfall geprüft werden.
 
-Beispielsweise ist der Isle of Wight Ranger, der nur für SW-Verbindungen gilt, unter FIP nutzbar, während die Variante inklusive Dampfzug nicht gültig ist (obwohl diese teilweise mit FIP Rabatt verkauft wird).[^3]
+Beispielsweise ist der Isle of Wight Ranger, der nur für SWR-Verbindungen gilt, unter FIP nutzbar, während die Variante inklusive Dampfzug nicht gültig ist (obwohl diese teilweise mit FIP Rabatt verkauft wird).[^3]
 {{% /highlight %}}
 
 - **Saisonfahrkarten und London-Fahrkarten:** \

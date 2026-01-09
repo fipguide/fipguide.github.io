@@ -180,7 +180,7 @@ ScotRail covers the entire Scottish regional network, including the Highlands an
 **Reservation required:** No
 {{% /expander %}}
 
-{{% expander "South Western Railway (SW)" traincategory "category" %}}
+{{% expander "South Western Railway (SWR)" traincategory "category" %}}
 **Description:** \
 South Western Railway connects London Waterloo with southwest England and operates many commuter routes. \
 **Reservation possible:** No

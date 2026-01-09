@@ -180,7 +180,7 @@ ScotRail couvre tout le réseau régional écossais, y compris les Highlands et 
 **Réservation obligatoire :** Non
 {{% /expander %}}
 
-{{% expander "South Western Railway (SW)" traincategory "category" %}}
+{{% expander "South Western Railway (SWR)" traincategory "category" %}}
 **Description :** \
 South Western Railway relie London Waterloo au sud-ouest de l’Angleterre et exploite de nombreuses lignes pour navetteurs. \
 **Réservation possible :** Non
