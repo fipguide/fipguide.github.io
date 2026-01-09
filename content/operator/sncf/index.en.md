@@ -116,7 +116,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 %}}
 Intercity trains operated by SNCF, connecting various cities in France, mostly requiring reservations.
 
-SNCF does not provide public information on which `IC` trains require reservations. If in doubt, check with SNCF or purchase a reservation.
+On the [Intercités website](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) of SNCF, you can find a list of routes with and without mandatory reservations. Alternatively, you can use the [train search](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) on the SNCF website to check the reservation requirements for each train number.
 
 #### Reservation
 

@@ -257,6 +257,10 @@ With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervella
 
 FIP 50 discounts are not available.
 
+### Corridor Traffic Salzburg – Kufstein
+
+ÖBB long-distance trains operate between Salzburg and Kufstein on the German rail network without stopping. ÖBB FIP Coupons are valid on this section.
+
 ### Break of journey
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
