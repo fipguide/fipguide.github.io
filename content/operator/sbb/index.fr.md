@@ -15,7 +15,7 @@ Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) son
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables sans restriction sur les trains des CFF. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.

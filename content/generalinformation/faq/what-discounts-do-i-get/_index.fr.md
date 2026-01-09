@@ -9,7 +9,7 @@ Des règles différentes s’appliquent selon l’opérateur. Vous pouvez trouve
 Il y a différents types de réductions :
 
 1. **Billets à prix réduit :** Avec la Carte FIP, vous recevez des billets fortement réduits (généralement 50 % de réduction sur le prix flexible ou le tarif global). Il n’y a pas de restrictions de quantité ou de délais de demande.
-2. **Voyage gratuit avec Coupons FIP :** Avec de nombreux membres FIP, vous pouvez voyager gratuitement avec un Coupon FIP. Par opérateur, un coupon avec un à quatre champs peut être commandé une fois par année civile.
+2. **Voyage gratuit avec Coupons FIP :** Avec de nombreux membres FIP, vous pouvez voyager gratuitement avec un Coupon FIP. Par opérateur, un coupon avec un à quatre cases peut être commandé une fois par année civile.
 
 {{% highlight tip %}}
 Le voyage avec FIP n’est pas toujours l’option la moins chère. Dans certains pays, des tarifs de réduction sont disponibles qui sont moins chers.

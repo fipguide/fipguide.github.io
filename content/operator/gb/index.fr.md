@@ -19,7 +19,7 @@ Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et Billets FIP 50 sont valables auprès de toutes les compagnies listées, voir [Catégories de trains et réservations](#catégories-de-trains-et-réservations).

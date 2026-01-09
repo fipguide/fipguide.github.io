@@ -34,7 +34,7 @@ operator: "{{ .File.ContentBaseName }}"
 -->
 
 Coupon FIP : <✅/⛔> \
-Coupon FIP accompagnant : <✅/⛔> \
+Coupon FIP pour les ayants droit : <✅/⛔> \
 Billets FIP 50 : <✅/⛔> \
 Tarif Global FIP : <✅/⛔>
 

@@ -23,7 +23,7 @@ aliases:
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ✅ \
+FIP Coupon for relatives: ✅ \
 FIP 50 Tickets: ✅
 
 FIP Coupons and FIP 50 Tickets are valid on ÖBB services. For cross-border journeys, either a through FIP 50 Ticket or FIP Coupons for both countries are required.

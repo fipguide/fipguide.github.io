@@ -20,7 +20,7 @@ LTG-Link publie en ligne un [aperçu du réseau ferroviaire](https://ltglink.lt/
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ✅
 
 {{% highlight important %}}

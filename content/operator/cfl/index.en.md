@@ -16,7 +16,7 @@ CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 {{< highlight important >}}

@@ -18,7 +18,7 @@ operator: "cd"
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
@@ -151,7 +151,7 @@ Sur les liaisons dites _commerciales_ de ČD, un supplément doit être acheté.
 
 Pour les trains à réservation obligatoire figurant dans la liste, des règles particulières s’appliquent, voir [Trains avec réservation obligatoire](#trains-avec-réservation-obligatoire).
 
-Le supplément coûte environ 125 CZK (à partir de novembre 2025) et peut être acheté avant le départ au guichet ČD ou à bord du train (veuillez contacter directement le personnel du train). La validité du supplément correspond à la même durée que le champ actuel du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3]
+Le supplément coûte environ 125 CZK (à partir de novembre 2025) et peut être acheté avant le départ au guichet ČD ou à bord du train (veuillez contacter directement le personnel du train). La validité du supplément correspond à la même durée que la case actuel du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3]
 
 Les remboursements de suppléments sont possibles jusqu’à 23h59 la veille du premier jour de validité (sans retenue) ou dans les 15 minutes suivant l’achat (sans retenue). Si un supplément inutilisé est restitué avant 8h00 le premier jour de validité, des frais de traitement de 100 CZK sont appliqués. Dans tous les autres cas, aucun remboursement n’est possible. [^1]
 

@@ -17,7 +17,7 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les trains de la SNCB. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP des deux pays concernés sont nécessaires.

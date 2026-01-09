@@ -17,7 +17,7 @@ Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leu
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables chez PKP. Cela inclut :

@@ -18,7 +18,7 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
 Billets FIP 50 : ✅
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un Billet FIP 50 continu ou des Coupons FIP valables dans les deux pays.

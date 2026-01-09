@@ -21,7 +21,7 @@ La ZSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Že
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s’appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.

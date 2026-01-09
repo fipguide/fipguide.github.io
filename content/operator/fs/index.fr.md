@@ -17,7 +17,7 @@ Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italie
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
 Billet FIP 50 : ✅
 
 {{% highlight important %}}
