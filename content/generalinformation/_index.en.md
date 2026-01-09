@@ -30,7 +30,7 @@ There are exceptions here too: for example, some Nightjet trains are operated by
 
 To use FIP discounts, you need a valid International Discount Card for Railway Staff, commonly known as the _FIP Card_. The FIP Card is required as proof of eligibility for FIP 50 Tickets. It is issued either for 1st or 2nd class. With a 1st class card, you can obtain FIP Coupons and FIP 50 Tickets for both 1st and 2nd class; with a 2nd class card, only for 2nd class. The card can be ordered through your respective railway company. The exact ordering process varies by company.
 
-The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from 01 December of the previous year) and up to one month after the last year of validity (until 31 January of the following year).
+The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from December 1st of the previous year) and up to one month after the last year of validity (until January 31th of the following year).
 
 For the following railway companies, we have information on the validity period:
 
