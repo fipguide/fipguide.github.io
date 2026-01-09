@@ -316,10 +316,8 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
 %}}
 Les lignes de tramway suivantes acceptent FIP :[^4]
 
-- T4 : Exploité par SNCF[^5]
+- T4, T11, T14 : Exploité par Stretto (groupement SNCF et Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
 - T9 : Exploité par Keolis[^6]
-- T11 : Exploité par Transkeo (groupement SNCF et Keolis)[^7]
-- T14 : Exploité par Stretto (groupement SNCF et Keolis)[^8]
 
 Les tramways T12 et T13 ne sont plus valables avec FIP depuis décembre 2025.[^3]<sup>,</sup>[^10] Les autres tramways ne sont pas valables avec FIP, car ils sont exploités par RATP.
 {{% /train-category %}}

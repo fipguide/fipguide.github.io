@@ -315,10 +315,8 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
 %}}
 Folgende Straßenbahnlinien akzeptieren FIP:[^4]
 
-- T4: Betrieben von SNCF[^5]
+- T4, T11, T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
 - T9: Betrieben von Keolis[^6]
-- T11: Betrieben von Transkeo (Zusammenschluss SNCF und Keolis)[^7]
-- T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^8]
 
 Auf den Straßenbahnlinien T12 und T13 ist FIP seit Dezember 2025 nicht mehr gültig.[^3]<sup>,</sup>[^10] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
 {{% /train-category %}}
