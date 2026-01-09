@@ -38,13 +38,13 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 
 {{% train-category
   id="tgv-inoui"
-  title="Train à grande vitesse inOui (TGV inOui)"
+  title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
   type="highspeed"
   fip_accepted=true
   reservation_required=true
   route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
-Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Zürich, Mailand). Im Wagen existieren alle Platznummern doppelt, der reservierte Platz ist der, an dem die Zahl beleuchtet ist. Der andere Platz hat auf der jeweiligen Fahrt keine Gültigkeit.
+Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Mailand). Zusätzlich fahren `TGV` Lyria Züge von Frankreich in die Schweiz (Basel, Zürich, Lausanne, Genf).
 
 {{% highlight confusion %}}
 Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
@@ -88,7 +88,7 @@ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar
   fip_accepted=true
   reservation_required=true
 %}}
-Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Strasbourg) und Deutschland (Karlsruhe, Mannheim und Frankfurt am Main bzw. Stuttgart und München) verkehren.
+Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Strasbourg) und Deutschland (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) und Berlin bzw. Stuttgart und München) verkehren.
 
 {{% highlight important %}}
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).

@@ -25,7 +25,7 @@ FIP discounts apply with the following operators:
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 ## Train Categories and Reservations
