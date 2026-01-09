@@ -320,7 +320,7 @@ Les lignes de tramway suivantes acceptent FIP :
 - T11, T12 : Exploité par Transkeo (groupement SNCF et Keolis)[^6]
 - T14 : Exploité par Stretto (groupement SNCF et Keolis)[^7]
 
-Le tramway T13 n'est plus valable avec FIP depuis 2026.[^3] Il existe des informations contradictoires concernant T9 (exploité par Keolis[^5]).[^2][^8] Les autres tramways ne sont pas valables avec FIP, car ils sont exploités par RATP.
+Le tramway T13 n'est plus valable avec FIP depuis 2026.[^3]<sup>,</sup>[^9] Il existe des informations contradictoires concernant T9 (exploité par Keolis[^5]).[^2][^8] Les autres tramways ne sont pas valables avec FIP, car ils sont exploités par RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -360,3 +360,5 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)
 
 [^8]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^9]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)

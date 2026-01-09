@@ -319,7 +319,7 @@ Folgende Straßenbahnlinien akzeptieren FIP:
 - T11, T12: Betrieben von Transkeo (Zusammenschluss SNCF und Keolis)[^6]
 - T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^7]
 
-Auf der Straßenbahnlinie T13 ist FIP seit 2026 nicht mehr gültig.[^3] Zu T9 (betrieben von Keolis[^5]) gibt es widersprüchliche Informationen.[^2][^8] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
+Auf der Straßenbahnlinie T13 ist FIP seit 2026 nicht mehr gültig.[^3]<sup>,</sup>[^9] Zu T9 (betrieben von Keolis[^5]) gibt es widersprüchliche Informationen.[^2][^8] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
 {{% /train-category %}}
 
 {{% float-image
@@ -358,3 +358,5 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)
 
 [^8]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^9]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
