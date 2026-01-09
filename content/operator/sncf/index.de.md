@@ -285,12 +285,12 @@ Die RATP betreibt die Pariser Métro (Métro de Paris), Buslinien sowie einen Te
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten in folgenden Abschnitten:[^8]
+Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten in folgenden Abschnitten:
 
 - RER Linie A – nur die Äste A3 & A5 westlich von Nanterre Préfecture bis Poissy oder Cergy-le-Haut
 - RER Linie B – nur die Äste B3 & B5 nördlich von Gare du Nord bis Aéroport Charles de Gaulle oder Mitry-Claye
 - RER Linie C – gesamter Abschnitt
-- RER Linie D – gesamter Abschnitt außer zwischen Châtelet und Gare du Nord
+- RER Linie D – gesamter Abschnitt
 - RER Linie E – gesamter Abschnitt
 
 Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.
@@ -313,13 +313,14 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Folgende Straßenbahnlinien akzeptieren FIP:
+Folgende Straßenbahnlinien akzeptieren FIP:[^4]
 
-- T4: Betrieben von SNCF[^4]
-- T11, T12: Betrieben von Transkeo (Zusammenschluss SNCF und Keolis)[^6]
-- T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^7]
+- T4: Betrieben von SNCF[^5]
+- T9: Betrieben von Keolis[^6]
+- T11: Betrieben von Transkeo (Zusammenschluss SNCF und Keolis)[^7]
+- T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^8]
 
-Auf der Straßenbahnlinie T13 ist FIP seit 2026 nicht mehr gültig.[^3]<sup>,</sup>[^9] Zu T9 (betrieben von Keolis[^5]) gibt es widersprüchliche Informationen.[^2][^8] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
+Auf den Straßenbahnlinien T12 und T13 ist FIP seit Dezember 2025 nicht mehr gültig.[^3]<sup>,</sup>[^10] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
 {{% /train-category %}}
 
 {{% float-image
@@ -349,14 +350,16 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 
 [^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
 
-[^4]: [Wikipedia: Île-de-France tramway T4](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_4)
+[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
 
-[^5]: [Wikipedia: Île-de-France tramway T9](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_9)
+[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
 
-[^6]: [Wikipedia: Île-de-France tramway T11](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_11_Express)
+[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
 
-[^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)
+[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
 
-[^8]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
 
-[^9]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)

@@ -286,12 +286,12 @@ RATP operates the Paris Métro, bus lines, and part of the tram and RER networks
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Some RER lines are operated by SNCF. FIP discounts apply on the following sections:[^8]
+Some RER lines are operated by SNCF. FIP discounts apply on the following sections:
 
 - RER Line A – only branches A3 & A5 west of Nanterre Préfecture to Poissy or Cergy-le-Haut
 - RER Line B – only branches B3 & B5 north of Gare du Nord to Aéroport Charles de Gaulle or Mitry-Claye
 - RER Line C – entire line
-- RER Line D – entire line except between Châtelet and Gare du Nord
+- RER Line D – entire line
 - RER Line E – entire line
 
 Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-operated RER Line D can be used. FIP discounts are not valid on RATP-operated RER Line B on the same section.
@@ -314,13 +314,14 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
   fip_accepted=partially
   reservation_possible=nil
 %}}
-The following tram lines accept FIP:
+The following tram lines accept FIP:[^4]
 
-- T4: Operated by SNCF[^4]
-- T11, T12: Operated by Transkeo (joint venture of SNCF and Keolis)[^6]
-- T14: Operated by Stretto (joint venture of SNCF and Keolis)[^7]
+- T4: Operated by SNCF[^5]
+- T9: Operated by Keolis[^6]
+- T11: Operated by Transkeo (joint venture of SNCF and Keolis)[^7]
+- T14: Operated by Stretto (joint venture of SNCF and Keolis)[^8]
 
-FIP discounts are no longer valid on tram line T13 since 2026.[^3]<sup>,</sup>[^9] There is contradictory information regarding T9 (operated by Keolis[^5]).[^2][^8] FIP discounts do not apply on other tram lines, as these are operated by RATP.
+FIP discounts are no longer valid on tram lines T12 and T13 since December 2025.[^3]<sup>,</sup>[^10] FIP discounts do not apply on other tram lines, as these are operated by RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -350,14 +351,16 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 [^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
 
-[^4]: [Wikipedia: Île-de-France tramway T4](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_4)
+[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
 
-[^5]: [Wikipedia: Île-de-France tramway T9](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_9)
+[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
 
-[^6]: [Wikipedia: Île-de-France tramway T11](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_11_Express)
+[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
 
-[^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)
+[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
 
-[^8]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
 
-[^9]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
