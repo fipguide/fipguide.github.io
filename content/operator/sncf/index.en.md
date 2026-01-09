@@ -314,7 +314,14 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis and can be used with FIP discounts as well. FIP discounts do not apply on other tram lines.
+The following tram lines accept FIP:
+
+- T4: Operated by SNCF[^4]
+- T9: Operated by Keolis[^5]
+- T11: Operated by Transkeo (joint venture of SNCF and Keolis)[^6]
+- T14: Operated by Stretto (joint venture of SNCF and Keolis)[^7]
+
+FIP discounts are no longer valid on tram line T13 since 2026.[^3] FIP discounts do not apply on other tram lines, as these are operated by RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -341,3 +348,13 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
+
+[^4]: [Wikipedia: Île-de-France tramway T4](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_4)
+
+[^5]: [Wikipedia: Île-de-France tramway T9](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_9)
+
+[^6]: [Wikipedia: Île-de-France tramway T11](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_11_Express)
+
+[^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)

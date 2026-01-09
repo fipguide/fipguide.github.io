@@ -313,7 +313,14 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIP Vergünstigungen
+Folgende Straßenbahnlinien akzeptieren FIP:
+
+- T4: Betrieben von SNCF[^4]
+- T9: Betrieben von Keolis[^5]
+- T11: Betrieben von Transkeo (Zusammenschluss SNCF und Keolis)[^6]
+- T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^7]
+
+Auf der Straßenbahnlinie T13 ist FIP seit 2026 nicht mehr gültig.[^3] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
 {{% /train-category %}}
 
 {{% float-image
@@ -340,3 +347,13 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
+
+[^4]: [Wikipedia: Île-de-France tramway T4](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_4)
+
+[^5]: [Wikipedia: Île-de-France tramway T9](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_9)
+
+[^6]: [Wikipedia: Île-de-France tramway T11](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_11_Express)
+
+[^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)
