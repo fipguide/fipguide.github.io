@@ -317,11 +317,10 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
 The following tram lines accept FIP:
 
 - T4: Operated by SNCF[^4]
-- T9: Operated by Keolis[^5]
-- T11: Operated by Transkeo (joint venture of SNCF and Keolis)[^6]
+- T11, T12: Operated by Transkeo (joint venture of SNCF and Keolis)[^6]
 - T14: Operated by Stretto (joint venture of SNCF and Keolis)[^7]
 
-FIP discounts are no longer valid on tram line T13 since 2026.[^3] FIP discounts do not apply on other tram lines, as these are operated by RATP.
+FIP discounts are no longer valid on tram line T13 since 2026.[^3] There is contradictory information regarding T9 (operated by Keolis[^5]).[^2][^8] FIP discounts do not apply on other tram lines, as these are operated by RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -358,3 +357,5 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^6]: [Wikipedia: Île-de-France tramway T11](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_11_Express)
 
 [^7]: [Wikipedia: Île-de-France tramway T14](https://en.wikipedia.org/wiki/%C3%8Ele-de-France_tramway_Line_14)
+
+[^8]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
