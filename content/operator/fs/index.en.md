@@ -201,13 +201,13 @@ Children up to 4 years old travel free on public fares. On regional trains, chil
 
 On international long-distance trains from Italy to Austria, ÖBB FIP Coupons are also recognized in the Italian section (not on regional trains), but a supplement (as in other Italian long-distance trains) must be paid. This can be purchased on the train or at FS or ÖBB ticket counters.
 
-#### Brenner – Bolzano – Verona
+#### Brenner – Bolzano – Verona – Venice/Ancona/Bologna
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `EC` and `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid.
+ÖBB or FS FIP Coupons are valid in the Italian section on `EC` and `RJ` trains. For journeys to/from Italy or entirely within Italy, a supplement of €10 (2nd class) or €15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde – Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid.
+ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 ### Regional trains in Emilia-Romagna
 
