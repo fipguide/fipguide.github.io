@@ -257,6 +257,10 @@ Avec un Coupon FIP, la navette auto du tunnel du Tauern (Böckstein–Mallnitz-O
 
 La réduction FIP 50 n’est pas disponible.
 
+### Trafic de corridor Salzbourg – Kufstein
+
+Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le réseau ferroviaire allemand sans arrêt. Les Coupons FIP ÖBB y sont valables.
+
 ### Arrêts intermédiaires
 
 Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
