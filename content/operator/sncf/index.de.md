@@ -285,12 +285,12 @@ Die RATP betreibt die Pariser Métro (Métro de Paris), Buslinien sowie einen Te
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten in folgenden Abschnitten:
+Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten in folgenden Abschnitten:[^8]
 
 - RER Linie A – nur die Äste A3 & A5 westlich von Nanterre Préfecture bis Poissy oder Cergy-le-Haut
 - RER Linie B – nur die Äste B3 & B5 nördlich von Gare du Nord bis Aéroport Charles de Gaulle oder Mitry-Claye
 - RER Linie C – gesamter Abschnitt
-- RER Linie D – gesamter Abschnitt
+- RER Linie D – gesamter Abschnitt außer zwischen Châtelet und Gare du Nord
 - RER Linie E – gesamter Abschnitt
 
 Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.

@@ -286,12 +286,12 @@ RATP operates the Paris Métro, bus lines, and part of the tram and RER networks
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Some RER lines are operated by SNCF. FIP discounts apply on the following sections:
+Some RER lines are operated by SNCF. FIP discounts apply on the following sections:[^8]
 
 - RER Line A – only branches A3 & A5 west of Nanterre Préfecture to Poissy or Cergy-le-Haut
 - RER Line B – only branches B3 & B5 north of Gare du Nord to Aéroport Charles de Gaulle or Mitry-Claye
 - RER Line C – entire line
-- RER Line D – entire line
+- RER Line D – entire line except between Châtelet and Gare du Nord
 - RER Line E – entire line
 
 Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-operated RER Line D can be used. FIP discounts are not valid on RATP-operated RER Line B on the same section.

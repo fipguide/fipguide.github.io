@@ -286,12 +286,12 @@ La RATP exploite le métro de Paris, des lignes de bus et une partie du réseau 
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont valables sur les sections suivantes :
+Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont valables sur les sections suivantes :[^8]
 
 - RER ligne A – uniquement les branches A3 & A5 à l’ouest de Nanterre Préfecture jusqu’à Poissy ou Cergy-le-Haut
 - RER ligne B – uniquement les branches B3 & B5 au nord de Gare du Nord jusqu’à Aéroport Charles de Gaulle ou Mitry-Claye
 - RER ligne C – toute la ligne
-- RER ligne D – toute la ligne
+- RER ligne D – toute la ligne sauf entre Châtelet et Gare du Nord
 - RER ligne E – toute la ligne
 
 Attention : pour les trajets entre Gare du Nord et Châtelet – Les Halles, seule la ligne RER D exploitée par la SNCF est valable. Les réductions FIP ne sont pas valables sur la ligne RER B exploitée par la RATP sur le même tronçon.
