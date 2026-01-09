@@ -245,7 +245,11 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 Discount is only granted on request.
 
 {{% highlight inofficial %}}
-[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers. [^3]
+[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers.
+
+As a general guideline: Tickets valid exclusively for National Rail services are typically accepted. Combined rail and bus tickets are generally not valid. For tickets that include National Rail and heritage rail services, validity should be confirmed individually.
+
+For example, the Isle of Wight Ranger covering only SWR services is valid under FIP, whereas the version including steam trains is not (although these are sometimes sold with FIP discount). [^3]
 {{% /highlight %}}
 
 - **Season Tickets and London Tickets:** \
