@@ -34,7 +34,7 @@ Es verkehren aktuell keine Züge zwischen den beiden Ländern.
 
 ### Estland
 
-Von Tallin fahren Züge der estnischen Eisenbahngesellschaft Elron bis zum lettisch-estnischen Grenzbahnhof Valga. Von dort besteht Anschluss zu Zügen nach Riga und Vilnius. Sowohl auf der Strecke Riga – Valga als auch in Estland gelten keine FIP-Vergünstigungen.
+Von Tallin fahren Züge der estnischen Eisenbahngesellschaft Elron bis zum lettisch-estnischen Grenzbahnhof Valga. Von dort besteht Anschluss zu Zügen nach Riga und Vilnius. Sowohl auf der Strecke Riga - Valga als auch in Estland gelten keine FIP-Vergünstigungen.
 
 ### Litauen
 
