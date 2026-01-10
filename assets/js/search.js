@@ -30,6 +30,9 @@ const initSearch = () => {
       placeholder: placeholderText,
       search_label: searchLabelText,
     },
+    ranking: {
+      termSimilarity: 6.0
+    }
   });
 
   // Close keyboard when touching search results (mobile only)
