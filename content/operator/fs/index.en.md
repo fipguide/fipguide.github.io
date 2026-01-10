@@ -78,7 +78,7 @@ Connecting buses for high-speed trains.
 Fast trains mostly outside high-speed lines. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 3 € (1st/2nd class) \
+**Reservation cost:** € 3 (1st/2nd class) \
 The reservation price always includes a surcharge when using a FIP Coupon.
 {{% /expander %}}
 
@@ -87,7 +87,7 @@ The reservation price always includes a surcharge when using a FIP Coupon.
 National night train with sleeper, couchette, and seat cars. \
 **Reservation possible:** Yes \
 **Reservation required:** ⚠️ Yes \
-**Reservation cost:** 25 € (1st/2nd class, seat car) \
+**Reservation cost:** € 25 (1st/2nd class, seat car) \
 The reservation price always includes a surcharge when using a FIP Coupon. For couchette or sleeper, an additional supplement applies.
 {{% /expander %}}
 
@@ -102,8 +102,8 @@ International fast trains to Germany, Austria, and Switzerland. \
 
 Different costs for Brenner route (Brenner supplement):
 
-- 1st class: €15
-- 2nd class: €10
+- 1st class: € 15
+- 2nd class: € 10
 
 Reservations for the Brenner route can be purchased on the train or at FS ticket offices.
 
@@ -181,10 +181,10 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="db-ticket-office"
-  classes.first="3 € / 25 €"
-  classes.second="3 € / 25 €"
+  classes.first="€ 3 / € 25"
+  classes.second="€ 3 / € 25"
 %}}
-The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 {{% /booking %}}
 
 ### On the train
@@ -203,11 +203,11 @@ On international long-distance trains from Italy to Austria, ÖBB FIP Coupons ar
 
 #### Brenner – Bolzano – Verona – Venice/Ancona/Bologna
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `EC` and `RJ` trains. For journeys to/from Italy or entirely within Italy, a supplement of €10 (2nd class) or €15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
+ÖBB or FS FIP Coupons are valid in the Italian section on `EC` and `RJ` trains. For journeys to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde – Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
+ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 ### Regional trains in Emilia-Romagna
 
