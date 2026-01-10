@@ -32,8 +32,8 @@ FIP Coupons and FIP 50 Tickets are valid on ÖBB services. For cross-border jour
 When traveling with a FIP Coupon, the use of ÖBB long-distance trains in Austria (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) requires a supplement. The supplement can be purchased on board during ticket inspection, or alternatively at ÖBB ticket counters and machines. The supplement is valid for a maximum of 2 days, matching the date on the FIP Coupon. Seat reservations are not included in the supplement and must be purchased separately. With FIP 50 Tickets, no additional supplement is required.
 
 Cost: \
-1st class:€15 \
-2nd class:€10
+1st class:€ 15 \
+2nd class:€ 10
 {{% /highlight %}}
 
 ## Train Categories and Reservations
@@ -185,7 +185,7 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Free Travel Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
-With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
+With children, the ÖBB Vorteilscard Family for € 19 is quickly worthwhile. \
 [See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -195,17 +195,17 @@ With children, the ÖBB Vorteilscard Family for €19 is quickly worthwhile. \
 
 On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
 
-#### Brenner – Bolzano – Verona
+#### Brenner – Bolzano – Verona – Venice/Ancona/Bologna
 
-ÖBB or FS FIP Coupons are valid in the Italian section up to Verona. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
+ÖBB or FS FIP Coupons are valid in the Italian section on `EC` and `RJ` trains. For journeys to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde – Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section up to Venice. For journeys to/from Italy or entirely within Italy, a supplement of €10 for 2nd class and €15 for 1st class is payable. The [ÖBB supplement](#validity-of-fip-tickets) is not charged on Brenner services.
+ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Eurocity Trieste
 
-ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of €2.60 for 2nd class and €4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
+ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of € 2.60 for 2nd class and € 4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
 ### REX63 (Pamhagen – Neusiedl am See)
 
@@ -256,6 +256,10 @@ FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra
 With a FIP Coupon, the Tauerntunnel car shuttle (Böckstein–Mallnitz-Obervellach) can be used. The vehicle must be registered to one of the FIP Coupon holders to be transported free of charge. Regular fares apply for accompanying passengers without a FIP Coupon.
 
 FIP 50 discounts are not available.
+
+### Corridor Traffic Salzburg – Kufstein
+
+ÖBB long-distance trains operate between Salzburg and Kufstein on the German rail network without stopping. ÖBB FIP Coupons are valid on this section.
 
 ### Break of journey
 

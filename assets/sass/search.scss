@@ -1,4 +1,5 @@
-$search-z-index: 12;
+$search-z-index: 10;
+$search-z-index-focus: 12;
 
 #search {
   width: 100%;
@@ -145,7 +146,7 @@ $search-z-index: 12;
   }
 }
 
-.o-search {
+#search.o-search {
   &--contentpage {
     position: fixed;
     display: none;
@@ -158,6 +159,18 @@ $search-z-index: 12;
     display: block;
     opacity: 1;
     visibility: visible;
-    z-index: $search-z-index;
+    z-index: $search-z-index-focus;
+
+    input.pagefind-ui__search-input {
+      z-index: $search-z-index-focus;
+    }
+
+    .pagefind-ui__drawer {
+      z-index: $search-z-index-focus;
+    }
+
+    .pagefind-ui__form::before {
+      z-index: $search-z-index-focus + 1;
+    }
   }
 }
