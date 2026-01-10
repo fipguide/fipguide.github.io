@@ -31,8 +31,8 @@ const initSearch = () => {
       search_label: searchLabelText,
     },
     ranking: {
-      termSimilarity: 6.0
-    }
+      termSimilarity: 6.0,
+    },
   });
 
   // Close keyboard when touching search results (mobile only)
