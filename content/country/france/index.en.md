@@ -79,11 +79,13 @@ The Deutschlandticket, a cheap option for regional travel in Germany, is also va
 
 ### Switzerland
 
-From Switzerland, cross-border TGV trains run from Zurich via Basel to France. In Switzerland, these can be used without reservation with FIP 50 Tickets or SBB FIP Coupon. For cross-border connections, a FIP Global Fare must be purchased, see [Cross-border TGV inOui / ICE trains](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Cross-border TGV inOui / ICE trains").
+From Switzerland, cross-border TGV trains run from Zurich via Basel to France. In Switzerland, these can be used without reservation with FIP 50 Tickets or SBB FIP Coupon. For cross-border connections, a FIP Global Fare must be purchased, see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains").
 
 There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
 In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF.
+
+`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF FIP Coupon.[^2]
 
 ### Italy
 
@@ -110,3 +112,5 @@ Overall, there are very few cross-border connections, which were much better dev
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
 
 [^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

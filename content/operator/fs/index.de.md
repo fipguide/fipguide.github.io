@@ -202,13 +202,13 @@ Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahren kostenlos. 
 
 In internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag (wie im restlichen italienischen Fernverkehr) zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
-#### Brenner – Bozen – Verona
+#### Brenner – Bozen – Verona - Venedig/Ancona/Bologna
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` und `RJ` Zügen. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](/operator/oebb#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Railjet Tarvisio Boscoverde – Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](/operator/oebb#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 ### Regionalzüge in Emilia-Romagna
 
