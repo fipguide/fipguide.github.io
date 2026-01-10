@@ -3,6 +3,7 @@ title: "Übersicht der Länder"
 description: "Übersichtliche Darstellung aller Länder, in denen FIP-Vergünstigungen genutzt werden können. Erfahre, in welchen Ländern FIP 50 Tickets und internationale Freifahrten genutzt werden können."
 params:
   countriesWithoutFip:
+    - Albanien
     - Andorra
     - Belarus
     - Estland
