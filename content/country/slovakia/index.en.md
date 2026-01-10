@@ -57,9 +57,11 @@ From Hungary, both cross-border regional trains and Eurocity trains can be used.
 
 ### Poland
 
-The only regularly served cross-border route currently is the route from Slovak Skalite to Polish Zwardon. It is operated in cooperation by ZSSK and Koleje Śląskie. ZSSK FIP Coupon are only valid up to the border point.
+The only cross-border route that is currently served regularly is the line from Slovak Skalité to Polish Zwardoń. It is operated in cooperation by ZSSK and Koleje Śląskie. The FIP Coupons of Slovak ZSSK are valid up to the border point.
 
-Theoretically, it should be possible to travel cross-border for free with an additional FIP Coupon of Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 Tickets cannot be purchased through the ZSSK website, but may be possible at a ZSSK ticket counter.
+In theory, it should be possible to travel cross-border for free with an additional FIP Coupon from Koleje Śląskie, but this should be confirmed in advance. Cross-border FIP 50 Tickets cannot be purchased via the KŚ or ZSSK websites; it may be possible at a ticket office of KŚ or ZSSK.
+
+Other cross-border routes, which are only served seasonally, are the routes Poprad-Tatry – Plaveč – Muszyna (operated only on weekends) and Medzilaborce – Łupków – Rzeszów (operated only on weekends during the high season in July/August). On both routes, FIP discounts from ZSSK are recognized on the Slovak section; for the Polish section, a FIP Ticket from KM is required for the first route, and from PKP for the latter.
 
 ### Ukraine
 

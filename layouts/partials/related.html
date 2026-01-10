@@ -33,7 +33,7 @@
         {{ partial "link" (
           dict
           "Destination" .RelPermalink
-          "Text" ($text | .Page.RenderString)
+          "Text" ($text | safeHTML)
           )
         }}
 

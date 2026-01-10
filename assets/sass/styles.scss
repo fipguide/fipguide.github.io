@@ -413,26 +413,3 @@ details > summary {
     margin-right: 0.4rem;
   }
 }
-
-.overlay--show {
-  backdrop-filter: blur(4px);
-  background-color: rgba(0, 0, 0, 0.6);
-  position: fixed;
-  inset: 0;
-
-  @media print {
-    display: none;
-  }
-}
-
-.overlay--content {
-  z-index: 6;
-}
-
-.overlay--search {
-  z-index: 10;
-}
-
-body:has(.overlay--show) {
-  overflow: hidden;
-}

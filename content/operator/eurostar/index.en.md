@@ -41,8 +41,7 @@ High-speed train between Great Britain and Europe \
 | Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
-| London - Amsterdam / Rotterdam | ?€ / 44.50 £ | ?€ / 62 £ |
-| Brussels - Amsterdam / Rotterdam | ?€ / 15.50 £ | ?€ / 30.50 £ |
+| London - Amsterdam / Rotterdam | 51 € / 44.50 £ | 71 € / 62 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
@@ -136,6 +135,13 @@ All FIP fares are subject to quotas, so early booking is recommended.
 {{% /highlight %}}
 
 For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM and 7:00 PM, the FIP offer (1st Class and 2nd Class) is not available. [^2]
+
+Checking available ticket quotas is possible via the following websites:
+
+- [Interrail Website](https://www.interrail.eu/en/book-reservations) \
+   Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
+- [Traivelling](https://traivelling.com/home) \
+   Select the _FIP 50%_ discount. Tickets are also sold here, but we cannot comment on the legitimacy of this offer.
 
 ### Connections
 

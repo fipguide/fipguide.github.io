@@ -1,0 +1,9 @@
+---
+title: "Wofür steht FIP?"
+weight: 1
+---
+
+FIP steht für _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. Es ist die Vereinigung für die internationalen Fahrvergünstigungen des Eisenbahnpersonals.
+Hierbei sind Eisenbahn- und Schifffahrtunternehmen der UIC (Internationaler Eisenbahnverband) angeschlossen.
+
+Als Berechtigungsausweis gilt die Internationale Ermäßigungskarte für Eisenbahnpersonal, kurz FIP-Ausweis oder FIP-Card.

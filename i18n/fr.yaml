@@ -126,9 +126,9 @@ skipToContent: Aller au contenu
 support:
   text: >-
     Souhaitez-vous partager vos connaissances sur la réglementation FIP ?
-    Visitez notre <a href="https://github.com/fipguide/fipguide.github.io">dépôt
-    GitHub</a> pour contribuer au contenu. Vous pouvez également nous écrire via
-    le <a href="/fr/contact">formulaire de contact</a>.
+    Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
+    pour contribuer au contenu. Vous pouvez également nous écrire via le
+    [formulaire de contact](/contact).
   title: Soutenez-nous
 toc_name: Sommaire
 trainCategory:
