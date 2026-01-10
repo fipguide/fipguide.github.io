@@ -177,12 +177,6 @@ FIP Coupons and national travel discounts of dependents are counted toward the e
 
 {{< faq >}}
 
-## Who is behind the FIP Guide?
-
-We are a dedicated team of railway employees who regularly use FIP ourselves.
-Our goal is to provide a quick and easy-to-use overview for using FIP.
-Our focus is on providing useful information for our users.
-
 ## Additional useful resources
 
 The [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html) provides a comprehensive overview of FIP in various countries.

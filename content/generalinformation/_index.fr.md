@@ -177,12 +177,6 @@ Les Coupons FIP et les réductions FIP de voyage nationales des personnes à cha
 
 {{< faq >}}
 
-## Qui est derrière le Guide FIP ?
-
-Nous sommes une équipe dévouée d’employés ferroviaires qui utilisent régulièrement le FIP nous-mêmes.
-Notre objectif est de fournir un aperçu rapide et facile à utiliser pour l’utilisation du FIP.
-Notre objectif est de fournir des informations utiles à nos utilisateurs.
-
 ## Ressources utiles supplémentaires
 
 Le [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html) fournit un aperçu complet du FIP dans divers pays.
