@@ -221,7 +221,7 @@ Germany is divided into so-called _Verkehrsverbünde_ (combined tariff structure
 For FIP 50 Tickets, the departure and destination stations must be in different transport associations. This also applies to journeys with FIP Coupon.
 
 {{% highlight tip %}}
-An overview of all transport associations is available on [Wikipedia](https://en.wikipedia.org/wiki/List_of_German_tariff_and_transport_associations).
+An overview of all transport associations is available on [Wikipedia](https://en.wikipedia.org/wiki/List_of_German_transport_associations).
 
 As a rough guide, you can also check in DB Navigator or on the [DB website](https://bahn.de) whether association tickets are sold for a route. These are marked as _Verbund-Angebote_, with the logo and under offers of \[association name\].
 {{% /highlight %}}
