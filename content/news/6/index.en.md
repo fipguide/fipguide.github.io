@@ -5,6 +5,8 @@ title: "FIP Benefits Rigi-Bahnen (Switzerland)"
 description: "From 01.01.2025, FIP benefits are also valid on some routes of the Rigi-Bahnen in Switzerland."
 country:
   - switzerland
+operator:
+  - sp
 ---
 
 Rigi-Bahnen operate various mountain railways to the Rigi, known as the "Queen of the Mountains". The company includes both rack railways and cable cars and connects several locations around Lake Lucerne with this popular tourist destination. The Vitznau-Rigi Railway was Europe's first mountain railway in 1871.

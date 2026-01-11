@@ -6,6 +6,8 @@ description: "From May 1, 2025, Eurostar increases FIP Ticket prices by €5/£5
 country:
   - belgium
   - netherlands
+  - france
+  - united-kingdom
 operator:
   - eurostar
 ---

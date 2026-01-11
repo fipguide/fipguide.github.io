@@ -5,6 +5,8 @@ title: "Avantages FIP Rigi-Bahnen (Suisse)"
 description: "À partir du 01.01.2025, les réductions FIP sont également valables sur certaines lignes des Rigi-Bahnen en Suisse."
 country:
   - switzerland
+operator:
+  - sp
 ---
 
 Les Rigi-Bahnen exploitent diverses lignes de montagne vers le Rigi, connu sous le nom de "Reine des Montagnes". L’entreprise comprend à la fois des chemins de fer à crémaillère et des téléphériques et relie plusieurs localités autour du lac des Quatre-Cantons à cette destination touristique populaire. Le chemin de fer Vitznau-Rigi fut le premier chemin de fer de montagne d’Europe en 1871.
