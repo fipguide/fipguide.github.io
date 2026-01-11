@@ -5,7 +5,7 @@ description: "Faites connaissance avec l'équipe derrière le site web FIP Guide
 
 {{% float-image
 src="image.webp"
-alt="Das FIP Guide Team"
+alt="L'équipe principale du guide FIP"
 width="50%"
 position="right"
 %}}
