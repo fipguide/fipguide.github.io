@@ -28,6 +28,10 @@ Le réseau ferroviaire letton utilise l’écartement large de 1520 mm. Le tra
 | Russie | Frontière fermée |
 {{% /expander %}}
 
+### Biélorussie
+
+Il n’y a actuellement aucun train entre la Lettonie et la Biélorussie.
+
 ### Estonie
 
 Depuis Tallinn, les trains de la compagnie estonienne Elron circulent jusqu’à la gare frontière de Valga, à la frontière estonienne-lettone. De là, correspondance vers Riga et Vilnius. Aucun avantage FIP n’est accordé ni sur la ligne Riga – Valga, ni en Estonie.
@@ -37,3 +41,7 @@ Depuis Tallinn, les trains de la compagnie estonienne Elron circulent jusqu’à
 Le trafic ferroviaire régulier entre la Lettonie et la Lituanie n’a repris qu’à la fin de 2023. LTG-Link assure un train le matin de Vilnius via Siauliai et Riga jusqu’à Valga, puis le soir en sens inverse. Entre Vilnius et Riga, les avantages FIP de LTG-Link s’appliquent ([voir Validité des Billets FIP](/operator/ltg#validité-des-billets-fip)). Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#en-ligne)).
 
 Depuis l’été 2025, une extension des trains Vilnius – Turmantas jusqu’à Daugavpils (Lettonie) est en discussion.
+
+### Russie
+
+Il n’y a actuellement aucun train entre la Lettonie et la Russie.
