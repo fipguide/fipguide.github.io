@@ -10,13 +10,11 @@ width="50%"
 position="right"
 %}}
 
-## Who is behind the FIP Guide?
-
 We are a team of Deutsche Bahn employees who regularly use FIP ourselves and explore Europe by train. In the past, we have repeatedly encountered challenges and uncertainties about the acceptance of FIP. We have searched through forums, asked other railway workers, and submitted support requests to find the information we needed.
 
 Based on this experience, we launched the FIP Guide in 2025 – a community project by railway workers for railway workers. Our goal: to make information clear, transparent, and accessible, to promote Europe-wide exchange, and to give everyone the opportunity to contribute changes independently.
 
-To address individual questions in the best possible way, we also operate the FIP Guide Community on Discord. There we moderate active discussions and transfer relevant insights to the website. We are also happy to answer requests via our contact form.
+To address individual questions in the best possible way, we also operate the [FIP Guide Community on Discord](https://discord.gg/5nWS9Eu9zz). There we moderate active discussions and transfer relevant insights to the website. We are also happy to answer requests via our [contact form](/contact).
 
-The core team currently consists of Robert Schubert, Lennart Rommeiß, Moritz Weber, and Willy Schreiter. But without our great community, the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
+The core team currently consists of Robert Schuster, Lennart Rommeiß, Moritz Weber, and Willy Schreiter. But without our great community, the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
 {{% /float-image %}}
