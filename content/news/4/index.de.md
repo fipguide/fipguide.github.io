@@ -6,6 +6,8 @@ description: "Eurostar erhöht ab 1. Mai 2025 die Preise für FIP-Fahrkarten um 
 country:
   - belgium
   - netherlands
+  - france
+  - united-kingdom
 operator:
   - eurostar
 ---
