@@ -51,7 +51,7 @@ Une fois que vous êtes revenu au réseau ferroviaire de votre pays d’origine,
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Officiellement, la _Carte FIP_ n’est requise que pour commander des _Coupons FIP_, non pour l’utilisation au point de voyage. Cependant, en pratique, le personnel des trains la demande parfois quand même. Pour éviter les problèmes, vous devriez pouvoir la présenter lors de l’utilisation des _Coupons FIP_.
+Officiellement, la _Carte FIP_ n’a pas besoin d’être présentée lors de l’utilisation des _Coupons FIP_ dans le train. Cependant, dans la pratique, les contrôleurs la demandent parfois. Pour éviter tout problème, il est donc conseillé de pouvoir la présenter également lors de l’utilisation des _Coupons FIP_.
 {{% /highlight %}}
 
 {{% expander "Exemple d’utilisation d’un Coupon FIP" info %}}
