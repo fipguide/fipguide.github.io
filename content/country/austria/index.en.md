@@ -67,6 +67,17 @@ Between Germany and Austria, there are several regional train connections and tw
 
 For the German section, a FIP Ticket from DB is required.
 
+#### Ausserfern Railway
+
+On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Kempten (Allgäu) via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
+
+- Direct journeys from Germany via Austria back to Germany (transit travel)
+- Journeys that start or end in Germany (cross-border travel)
+
+Journeys that take place entirely within Austria (start and end in Austria) are excluded. ÖBB FIP Coupons are not valid for any journeys on this route.
+
+The rules are analogous to those for the Deutschlandticket or Bahncard 100. [^1] [^2]
+
 ### Hungary
 
 From Hungary, both cross-border regional trains and Eurocity/Railjet trains can be used. On the Vienna-Budapest route via Hegyeshalom, an additional FIP Ticket from MAV is required from the border; in other cases, an additional FIP Ticket from GySEV is needed.
@@ -113,3 +124,9 @@ From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-d
 ## FIP Rating
 
 Overall, Austria has an impeccable infrastructure and scenic routes, and most journeys are operated by ÖBB. This makes it possible to travel a large part of the country with FIP Tickets. However, the surcharge (without reservation) on long-distance trains, regardless of the route (in 1st class € 15, in 2nd class € 10), slightly dampens the FIP experience.
+
+## Sources
+
+[^1]: [DB Regio Terms of Carriage for Ausserfern Railway](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^2]: [Ausserfern Railway Feedback](https://github.com/fipguide/fipguide.github.io/issues/606)

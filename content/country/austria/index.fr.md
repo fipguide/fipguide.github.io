@@ -66,6 +66,19 @@ Entre l’Allemagne et l’Autriche, on trouve plusieurs liaisons régionales et
 
 Pour la section allemande, un Billet FIP DB est requis.
 
+Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP ÖBB et DB ou un billet FIP 50 valable sur tout le trajet.
+
+#### Außenfernbahn
+
+Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Kempten (Allgäu) via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
+
+- trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
+- trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
+
+Les trajets purement internes à l’Autriche (départ et arrivée en Autriche) sont exclus. Les Coupons FIP de l’ÖBB ne sont valables pour aucun trajet sur cette ligne.
+
+Les règles sont analogues à celles du Deutschlandticket ou de la Bahncard 100. [^1] [^2]
+
 ### Hongrie
 
 Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles. Sur la ligne Vienne–Budapest via Hegyeshalom, un Billet FIP MÁV est nécessaire à partir de la frontière.
@@ -113,3 +126,9 @@ Des liaisons longues distances et régionales existent entre Vienne/Graz et Ljub
 ## Évaluation FIP
 
 L’Autriche dispose d’une infrastructure exemplaire et de lignes particulièrement pittoresques. La majorité des trains étant opérée par l’ÖBB, il est possible de parcourir une grande partie du pays avec les Billets FIP. Cependant, le supplément obligatoire (même sans réservation) sur les trains grandes lignes — 10 € en 2ᵉ classe, 15 € en 1ʳᵉ classe — réduit légèrement l’attrait du FIP en Autriche.
+
+## Sources
+
+[^1]: [Conditions de transport DB Regio Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^2]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)

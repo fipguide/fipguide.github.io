@@ -204,6 +204,17 @@ For the Austrian section, a FIP Ticket from ÖBB is required.
 
 There are also some regional train connections, for which FIP Coupons from ÖBB and DB or a through FIP 50 Ticket are always required.
 
+#### Ausserfern Railway
+
+On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Kempten (Allgäu) via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
+
+- Direct journeys from Germany via Austria back to Germany (transit travel)
+- Journeys that start or end in Germany (cross-border travel)
+
+Journeys that take place entirely within Austria (start and end in Austria) are excluded. ÖBB FIP Coupons are not valid for any journeys on this route.
+
+The rules are analogous to those for the Deutschlandticket or Bahncard 100. [^2] [^3]
+
 ### Poland
 
 From Poland, the German network can be reached via several routes. The most frequently used border crossing is at Frankfurt (Oder). Eurocity trains run here between Berlin and Warsaw every 2 hours during the day. In addition, there are individual services between Berlin and Gdynia / Kraków / Przemyśl in the timetable.
@@ -257,3 +268,7 @@ There are also some cross-border regional train connections. Germany can also be
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [DB Regio Terms of Carriage for Ausserfern Railway](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^3]: [Ausserfern Railway Feedback](https://github.com/fipguide/fipguide.github.io/issues/606)
