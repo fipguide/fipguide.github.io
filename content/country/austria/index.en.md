@@ -69,7 +69,7 @@ For the German section, a FIP Ticket from DB is required.
 
 #### Ausserfern Railway
 
-On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Kempten (Allgäu) via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
+On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Pfronten-Steinach via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
 
 - Direct journeys from Germany via Austria back to Germany (transit travel)
 - Journeys that start or end in Germany (cross-border travel)

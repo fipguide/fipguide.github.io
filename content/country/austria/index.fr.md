@@ -70,7 +70,7 @@ Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP �
 
 #### Außenfernbahn
 
-Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Kempten (Allgäu) via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
+Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Pfronten-Steinach via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
 
 - trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
 - trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
