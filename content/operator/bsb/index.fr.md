@@ -41,7 +41,7 @@ Sur les itinéraires suivants, il est possible d’embarquer des voitures :
 
 Certains navires disposent d’un restaurant ou proposent des snacks et des boissons.
 
-Une [vue d’ensemble des trajets](https://www.bsb.de/sites/default/files/2024-11/Fahrplan-2025-Web_0.pdf) est disponible sur cette page.
+Une [vue d’ensemble des trajets](https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf) est disponible sur cette page.
 
 **Réservation possible :** Non \
 **Réservation obligatoire :** Non

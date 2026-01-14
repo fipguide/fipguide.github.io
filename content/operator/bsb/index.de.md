@@ -41,7 +41,7 @@ Auf den folgenden Strecken können Autos mitgeführt werden:
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 
-Auf dieser Seite gibt es eine [Übersicht der Fahrten](https://www.bsb.de/sites/default/files/2024-11/Fahrplan-2025-Web_0.pdf).
+Auf dieser Seite gibt es eine [Übersicht der Fahrten](https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf).
 
 **Reservierung möglich:** Nein \
 **Reservierungspflicht:** Nein
