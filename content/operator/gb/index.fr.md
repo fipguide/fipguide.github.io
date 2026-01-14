@@ -257,6 +257,10 @@ Par exemple, le Isle of Wight Ranger couvrant uniquement les services SWR est va
 
 Sur certaines lignes, des trains de différents opérateurs circulent. Différents billets Anytime et Off-Peak sont vendus pour ces lignes. Ces billets ne sont valables que dans les trains de l’opérateur concerné ou auprès de tous les opérateurs sur la ligne (_Any Route_). [BR Fares](https://www.brfares.com/) donne un aperçu des billets disponibles par ligne. Les billets Advance sont toujours liés à un train précis.
 
+{{% highlight tip %}}
+Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’acheter des surclassements en première classe pour les Billets FIP 50 et Coupons FIP de 2ᵉ classe. [^4]
+{{% /highlight %}}
+
 ### En ligne
 
 {{% booking id="caledonian-sleeper-website" subtitle="Uniquement Caledonian Sleeper" /%}}
