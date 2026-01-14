@@ -2,7 +2,7 @@
 date: "2025-01-01"
 draft: false
 author: "Lennart"
-title: "Mise à jour : Nouveau membre FIP : LTG Link (Lituanie)"
+title: "Nouveau membre FIP : LTG Link (Lituanie)"
 description: "Depuis le 1er janvier 2024, LTG Link (Lituanie) rejoint le programme FIP. Les cheminots bénéficient désormais de nouvelles réductions de voyage dans les pays baltes."
 country:
   - lithuania
