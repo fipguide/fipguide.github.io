@@ -28,7 +28,23 @@ Il y a aussi des exceptions ici : par exemple, certains trains Nightjet sont exp
 
 ## Carte FIP
 
-Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Carte Internationale de Réduction pour le Personnel Ferroviaire en cours de validité, communément appelée _Carte FIP_. La Carte FIP est toujours valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027. La Carte FIP sert de justificatif pour l’achat des Billets FIP 50. Elle est délivrée soit pour la 1ʳᵉ, soit pour la 2ᵉ classe. Avec une carte de 1ʳᵉ classe, il est possible d’obtenir des Coupons FIP et des Billets FIP 50 pour la 1ʳᵉ et la 2ᵉ classe ; avec une carte de 2ᵉ classe, uniquement pour la 2ᵉ classe. Elle peut être commandée auprès de la compagnie ferroviaire employeuse. La procédure exacte varie selon l’entreprise.
+Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Carte Internationale de Réduction pour le Personnel Ferroviaire, communément appelée _Carte FIP_. La Carte FIP sert de justificatif pour l’achat des Billets FIP 50. Elle est délivrée soit pour la 1ʳᵉ, soit pour la 2ᵉ classe. Avec une carte de 1ʳᵉ classe, il est possible d’obtenir des Coupons FIP et des Billets FIP 50 pour la 1ʳᵉ et la 2ᵉ classe ; avec une carte de 2ᵉ classe, uniquement pour la 2ᵉ classe. La demande de Carte FIP se fait auprès de la compagnie ferroviaire employeuse, selon une procédure qui varie d’une entreprise à l’autre.
+
+La durée de validité de la Carte FIP dépend de la compagnie ferroviaire émettrice. En règle générale, la Carte FIP est valable à partir du 1ᵉʳ décembre de l’année précédant la première année de validité imprimée, et jusqu’au 31 janvier de l’année suivant la dernière année de validité.
+
+Pour les compagnies ferroviaires suivantes, nous disposons d’informations sur la durée de validité :
+
+{{% expander "Deutsche Bahn (DB)" info "national" %}}
+La Carte FIP est toujours valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
+La Carte FIP est valable trois ans.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
+La Carte FIP est valable un an.
+{{% /expander %}}
 
 Certaines entreprises ferroviaires permettent également aux employés d’obtenir des Cartes FIP pour leurs ayants droit, leur permettant d’acheter des Billets FIP 50.
 

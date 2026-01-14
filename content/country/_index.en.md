@@ -4,6 +4,7 @@ description: "A clear overview of all countries where FIP benefits are available
 
 params:
   countriesWithoutFip:
+    - Albania
     - Andorra
     - Belarus
     - Cyprus

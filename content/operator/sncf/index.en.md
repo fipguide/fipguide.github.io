@@ -314,7 +314,12 @@ FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Tram lines T4 and T11 are operated by SNCF and can be used with FIP discounts. Tram lines T9 and T13 are operated by SNCF and Keolis and can be used with FIP discounts as well. FIP discounts do not apply on other tram lines.
+The following tram lines accept FIP:[^4]
+
+- T4, T11, T14: Operated by Stretto (joint venture of SNCF and Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
+- T9: Operated by Keolis[^6]
+
+FIP discounts are no longer valid on tram lines T12 and T13 since December 2025.[^3]<sup>,</sup>[^10] FIP discounts do not apply on other tram lines, as these are operated by RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -341,3 +346,19 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
+
+[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
+
+[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
+
+[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
+
+[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
+
+[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
+
+[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)

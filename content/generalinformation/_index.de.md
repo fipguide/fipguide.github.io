@@ -28,7 +28,23 @@ Auch hier gibt es Ausnahmen, so werden einige Nightjets auf der gesamten Laufstr
 
 ## FIP Ausweis
 
-Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermäßigungskarte für Eisenbahnpersonal, umgangssprachlich _FIP Ausweis_ genannt, erforderlich. Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027. Der FIP Ausweis wird als Legitimation für FIP 50 Tickets benötigt. Er wird entweder für die 1. oder 2. Klasse ausgestellt. Mit einem 1. Klasse Ausweis können Freifahrtscheine und FIP 50 Tickets für die 1. und 2. Klasse erworben werden, mit einem 2. Klasse Ausweis nur für die 2. Klasse. Er kann über die jeweilige Bahngesellschaft, bei der man arbeitet, bestellt werden. Der genaue Bestellweg unterscheidet sich pro Unternehmen.
+Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermäßigungskarte für Eisenbahnpersonal, umgangssprachlich _FIP Ausweis_ genannt, erforderlich. Der FIP Ausweis wird als Legitimation für FIP 50 Tickets benötigt. Er wird entweder für die 1. oder 2. Klasse ausgestellt. Mit einem 1. Klasse Ausweis können Freifahrtscheine und FIP 50 Tickets für die 1. und 2. Klasse erworben werden, mit einem 2. Klasse Ausweis nur für die 2. Klasse. Er kann über die jeweilige Bahngesellschaft, bei der man arbeitet, bestellt werden. Der genaue Bestellweg unterscheidet sich pro Unternehmen.
+
+Der FIP Ausweis hat je nach eigener Bahngesellschaft eine unterschiedliche Gültigkeitsdauer. Der FIP Ausweis gilt bereits einen Monat vor dem aufgedruckten ersten Gültigkeitsjahr (01.12. des Vorjahres) sowie einen Monat nach dem letzten Gültigkeitsjahr (31.01 des Folgejahres).
+
+Für folgende Bahngesellschaften liegen uns Informationen zur Gültigkeitsdauer vor:
+
+{{% expander "Deutsche Bahn (DB)" info "national" %}}
+Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
+Der FIP Ausweis ist drei Jahre gültig.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
+Der FIP Ausweis ist ein Jahr gültig.
+{{% /expander %}}
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
