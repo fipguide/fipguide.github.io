@@ -386,3 +386,5 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 [^2]: [Caledonian Sleeper - Avant votre voyage](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
 [^3]: [Retour d’expérience Rover sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1452026899705368738)
+
+[^4] : [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
