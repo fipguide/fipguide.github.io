@@ -74,7 +74,11 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
 
 {{% expander "Elizabeth Line (XR)" traincategory "category" %}}
 **Description:** \
-The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. \
+The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network.
+
+{{% highlight tip %}}
+Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
+{{% /highlight %}}
 **Reservation possible:** No
 {{% /expander %}}
 
@@ -122,7 +126,9 @@ Reservations for this train cannot be made online. \
 
 {{% expander "Heathrow Express (HX)" traincategory "category" %}}
 **Description:** \
-Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. \
+Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. FIP Coupons and FIP 50 (or FIP 75) Tickets are accepted.
+
+At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^4]
 **Reservation possible:** No
 {{% /expander %}}
 
@@ -287,13 +293,11 @@ Many stations in Great Britain have ticket barriers that must be opened with a t
 
 ### Transport in London
 
-Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The Elizabeth Line and London Overground can be used without restriction with FIP. Some regional trains such as Thameslink, which run through London, can also be used with FIP Coupons.
+Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The [Elizabeth Line](#elizabeth-line) and London Overground can be used without restriction with FIP. Some regional trains such as [Thameslink](#thameslink), which run through London, can also be used with FIP Coupons. [Heathrow Express](#heathrow-express) can also be used.
 {{% expander "Elizabeth Line" info "london" %}}
 The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
 
-{{% highlight tip %}}
-Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your Coupon.
-{{% /highlight %}}
+Further information: [see Elizabeth Line](#elizabeth-line)
 {{% /expander %}}
 
 {{% expander "London Overground" info "london" %}}
@@ -382,3 +386,5 @@ Great Britain can also be explored by night trains:
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
 [^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
+
+[^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)

@@ -74,7 +74,11 @@ East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic 
 
 {{% expander "Elizabeth Line (XR)" traincategory "category" %}}
 **Description :** \
-La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain. \
+La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain.
+
+{{% highlight tip %}}
+Certaines stations de la Elizabeth Line sont aussi desservies par le métro londonien. Les portiques de ces stations sont souvent surveillés par du personnel TfL. Pour éviter toute confusion, il convient de préciser l’utilisation de la Elizabeth Line lors de la présentation du Coupon FIP.
+{{% /highlight %}}
 **Réservation possible :** Non
 {{% /expander %}}
 
@@ -122,7 +126,9 @@ La réservation pour ce train ne peut pas se faire en ligne. \
 
 {{% expander "Heathrow Express (HX)" traincategory "category" %}}
 **Description :** \
-Heathrow Express propose une liaison rapide et directe entre London Paddington et l’aéroport d’Heathrow en environ 15 minutes. \
+Heathrow Express propose une liaison rapide et directe entre London Paddington et l’aéroport d’Heathrow en environ 15 minutes. Les Coupons FIP et Billets FIP 50 (ou FIP 75) sont acceptés.
+
+À Heathrow, les billets avec réduction FIP peuvent être achetés directement aux portiques auprès du personnel. [Les billets aller-retour](#achat-de-billets-et-réservations) avec réduction FIP peuvent être moins chers que deux allers simples avec la [Elizabeth Line](#elizabeth-line). Les prix sont de 50 % (ou 75 %) des prix simples ou aller-retour publiés sur le [site du Heathrow Express](https://www.heathrowexpress.com/ticket-fares). [^4]
 **Réservation possible :** Non
 {{% /expander %}}
 
@@ -287,13 +293,11 @@ De nombreuses gares au Royaume-Uni sont équipées de portiques de contrôle qui
 
 ### Transports à Londres
 
-La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n’offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La Elizabeth Line et la London Overground peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme Thameslink, qui traversent Londres, peuvent également être utilisés avec les Coupons FIP.
+La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n’offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La [Elizabeth Line](#elizabeth-line) et la London Overground peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme [Thameslink](#thameslink), qui traversent Londres, peuvent également être utilisés avec les Coupons FIP. Le [Heathrow Express](#heathrow-express) peut également être utilisé.
 {{% expander "Elizabeth Line" info "london" %}}
 La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
 
-{{% highlight tip %}}
-Certaines stations de la Elizabeth Line sont également desservies par le métro londonien. Les portiques de ces stations sont souvent surveillés par du personnel TfL. Pour éviter toute confusion, il convient de préciser l’utilisation de la Elizabeth Line lors de la présentation du Coupon.
-{{% /highlight %}}
+Plus d’informations : [voir Elizabeth Line](#elizabeth-line)
 {{% /expander %}}
 
 {{% expander "London Overground" info "london" %}}
@@ -382,3 +386,5 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 [^2]: [Caledonian Sleeper - Avant votre voyage](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
 [^3]: [Retour d’expérience Rover sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1452026899705368738)
+
+[^4]: [Retour d’expérience Heathrow Express sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
