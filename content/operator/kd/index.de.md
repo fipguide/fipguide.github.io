@@ -6,7 +6,7 @@ country:
 operator: "kd"
 ---
 
-Die Koleje Dolnośląskie, kurz KD, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Niederschlesien anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland "Polen") FIP anbietet.
+Die Koleje Dolnośląskie, kurz KD, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Niederschlesien anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
 
 ## Zusammenfassung
 
@@ -26,11 +26,12 @@ Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticke
 
 ## Zugkategorien und Reservierungen
 
-Bei der KD fahren alle Züge in der gleichen Kategorie. Sie haben meist eine Liniennummer mit "D" beginnend, die jedoch in den Auskunftsmedien oft nicht mit ausgegeben wird (hier steht oft einfach "KD" und dann eine Zugnummer). Marketingtechnisch werden manche Züge als "KD Sprinter" oder "KD Supersprinter" bezeichnet, es bleiben jedoch Regionalzüge. Es werden nur Tickets der 2. Klasse angeboten, da es in KD-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
+Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben meist eine Liniennummer mit "D" beginnend, die jedoch in den Auskunftsmedien oft nicht mit ausgegeben wird (hier steht oft einfach "KD" und dann eine Zugnummer). Zur Vermarktung werden manche Züge als "KD Sprinter" oder "KD Supersprinter" bezeichnet, es bleiben jedoch Regionalzüge. Es werden nur Tickets der 2. Klasse angeboten, da es in KD-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
 ## Ticket- und Reservierungskauf
 
 ### Online
+
 {{% booking id="kd-website"
     subtitle="Für nationale Verbindungen"
 %}}
@@ -42,7 +43,7 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden. Wenn ein
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 
-Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polregio.pl/) gebucht werden. Die Funktionsweise ist identisch zu Koleo.
+Alternativ kann auch über die [Website von Polregio](https://bilety.polregio.pl/) gebucht werden. Die Funktionsweise ist identisch zu Koleo.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
@@ -71,7 +72,7 @@ Unabhängig von FIP gibt es für die Region Niederschlesien ein preisgünstiges 
 
 ## Tarifliche Besonderheiten
 
-### Sonderzüge, bei denen FIP nicht gültig ist
+### Sonderzüge
 
 Es gibt wenige "KD Specjal" Züge, die über den normalen Linienverkehr hinaus verkehren. In diesen Zügen sind FIP-Vergünstigungen nicht gültig.
 
