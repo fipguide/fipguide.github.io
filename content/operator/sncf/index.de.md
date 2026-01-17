@@ -289,10 +289,12 @@ Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien od
 Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Luxemburg sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden.
 
 Die Preise betragen Stand 2026: [^3]
-| | 1. Klasse | 2. Klasse |
-| ----------------- | --------- | --------- |
-| Paris – Luxemburg | 61 € | 88 € |
-| Marseille – Luxemburg | 74 € | 113 € |
+
+|                       | 1. Klasse | 2. Klasse |
+| --------------------- | --------- | --------- |
+| Paris – Luxemburg     | 61 €      | 88 €      |
+| Marseille – Luxemburg | 74 €      | 113 €     |
+
 {{% /train-category %}}
 
 {{% train-category

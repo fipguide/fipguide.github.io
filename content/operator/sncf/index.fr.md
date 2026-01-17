@@ -289,10 +289,11 @@ Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Be
 Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
 
 Les prix sont valables à partir de 2026 : [^3]
-| | 1ʳᵉ classe | 2ᵉ classe |
+
+|                        | 1ʳᵉ classe | 2ᵉ classe |
 | ---------------------- | ---------- | --------- |
-| Paris – Luxembourg | 61 € | 88 € |
-| Marseille – Luxembourg | 74 € | 113 € |
+| Paris – Luxembourg     | 61 €       | 88 €      |
+| Marseille – Luxembourg | 74 €       | 113 €     |
 
 {{% /train-category %}}
 

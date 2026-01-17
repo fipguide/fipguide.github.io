@@ -290,10 +290,11 @@ International `TGV` services from France to Italy, Spain, or Belgium are reserva
 Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.
 
 Prices as of 2026: [^3]
-| | 1st class | 2nd class |
+
+|                        | 1st class | 2nd class |
 | ---------------------- | --------- | --------- |
-| Paris – Luxembourg | €61 | €88 |
-| Marseille – Luxembourg | €74 | €113 |
+| Paris – Luxembourg     | €61       | €88       |
+| Marseille – Luxembourg | €74       | €113      |
 
 {{% /train-category %}}
 
