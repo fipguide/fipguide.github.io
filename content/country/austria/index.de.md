@@ -71,7 +71,7 @@ Darüber hinaus bestehen einige Verbindungen im Regionalverkehr, für die dann i
 
 #### Außenfernbahn
 
-Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfernbahn) zwischen Garmisch-Partenkirchen und Pfronten-Steinach über Reutte in Tirol verkehren Züge von DB Regio aus Deutschland nach Österreich und wieder nach Deutschland. FIP Freifahrtscheine der DB (und nationale Fahrvergünstigungen für DB Mitarbeiter) gelten hier für folgende Fahrten:
+Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfernbahn) zwischen Garmisch-Partenkirchen und Pfronten-Steinach über Reutte in Tirol verkehren Züge von DB Regio aus Deutschland nach Österreich und wieder nach Deutschland. FIP Freifahrtscheine der DB (und nationale Fahrvergünstigungen für DB‑Mitarbeitende) gelten hier für folgende Fahrten:
 
 - durchgehende Fahrten von Deutschland über Österreich nach Deutschland (Fahren im Transit)
 - Fahrten die in Deutschland beginnen oder enden (Grenzüberschreitende Fahrten)
