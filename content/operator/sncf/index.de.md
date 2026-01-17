@@ -261,11 +261,11 @@ Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt res
 
 Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reservierungsgebühren. Internationale Fahrten benötigen eine grenzüberschreitende Reservierung:
 
-|                   | 1. Klasse | 2. Klasse |
-| ----------------- | --------- | --------- |
-| National Off-peak | 2 €       | 2 €       |
-| National Peak     | 16 €      | 11 €      |
-| International     | 40 €      | 20 €      |
+|                                | 1. Klasse | 2. Klasse |
+| ------------------------------ | --------- | --------- |
+| Innerhalb Frankreichs Off-peak | 2 €       | 2 €       |
+| Innerhalb Frankreichs Peak     | 16 €      | 11 €      |
+| International                  | 40 €      | 20 €      |
 
 {{% /train-category %}}
 

@@ -262,11 +262,11 @@ International `TGV` and `ICE` trains are reservation-required in the French sect
 
 For journeys within France, the standard domestic `TGV` reservation fees apply. International journeys require a cross-border reservation:
 
-|                   | 1st class | 2nd class |
-| ----------------- | --------- | --------- |
-| National Off-peak | €2        | €2        |
-| National Peak     | €16       | €11       |
-| International     | €40       | €20       |
+|                        | 1st class | 2nd class |
+| ---------------------- | --------- | --------- |
+| Within France Off-peak | €2        | €2        |
+| Within France Peak     | €16       | €11       |
+| International          | €40       | €20       |
 
 {{% /train-category %}}
 

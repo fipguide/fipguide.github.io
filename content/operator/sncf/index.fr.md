@@ -98,11 +98,11 @@ Des conditions particulières s’appliquent pour les liaisons internationales, 
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
-|                   | 1ʳᵉ classe | 2ᵉ classe |
-| ----------------- | ---------- | --------- |
-| National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 11 €      |
-| International     | 40 €       | 20 €      |
+|                    | 1ʳᵉ classe | 2ᵉ classe |
+| ------------------ | ---------- | --------- |
+| En France Off-peak | 2 €        | 2 €       |
+| En France Peak     | 16 €       | 11 €      |
+| International      | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
