@@ -62,7 +62,6 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
 | National Peak     | 16 €      | 11 €      |
-| International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
 
@@ -125,7 +124,6 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 | ----------------- | --------- | --------- |
 | National Off-peak | 2 €       | 2 €       |
 | National Peak     | 16 €      | 11 €      |
-| International     | 40 €      | 20 €      |
 
 {{% /train-category %}}
 
@@ -183,10 +181,16 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=false
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets für Regionalzüge zwischen Deutschland und Frankreich für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=false
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -203,7 +207,11 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich" %}}
+{{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
 {{% /booking %}}
 
@@ -250,6 +258,15 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
   reservation_required=partially
 %}}
 Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt reservierungspflichtig. Innerhalb von Deutschland sind die Züge nicht reservierungspflichtig und mit FIP Freifahrtscheinen nutzbar.
+
+Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reservierungsgebühren. Internationale Fahrten benötigen eine grenzüberschreitende Reservierung:
+
+|                                | 1. Klasse | 2. Klasse |
+| ------------------------------ | --------- | --------- |
+| Innerhalb Frankreichs Off-peak | 2 €       | 2 €       |
+| Innerhalb Frankreichs Peak     | 16 €      | 11 €      |
+| International                  | 40 €      | 20 €      |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -260,6 +277,24 @@ Grenzüberschreitende `TGV` und `ICE` Züge sind im französischen Abschnitt res
   reservation_required=true
 %}}
 Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130€).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV Züge nach Luxemburg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Luxemburg sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden.
+
+Die Preise betragen Stand 2026: [^11]
+
+|                       | 1. Klasse | 2. Klasse |
+| --------------------- | --------- | --------- |
+| Paris – Luxemburg     | 61 €      | 88 €      |
+| Marseille – Luxemburg | 74 €      | 113 €     |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -361,3 +396,5 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
 
 [^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+
+[^11]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)

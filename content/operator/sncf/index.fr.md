@@ -63,7 +63,6 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
 | National Peak     | 16 €       | 11 €      |
-| International     | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
@@ -99,11 +98,11 @@ Des conditions particulières s’appliquent pour les liaisons internationales, 
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
-|                   | 1ʳᵉ classe | 2ᵉ classe |
-| ----------------- | ---------- | --------- |
-| National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 11 €      |
-| International     | 40 €       | 20 €      |
+|                    | 1ʳᵉ classe | 2ᵉ classe |
+| ------------------ | ---------- | --------- |
+| En France Off-peak | 2 €        | 2 €       |
+| En France Peak     | 16 €       | 11 €      |
+| International      | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
@@ -126,7 +125,6 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
 | National Peak     | 16 €       | 11 €      |
-| International     | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
@@ -184,10 +182,16 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="db-website-fip-db"
   subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
   subtitle="Billets FIP 50 transfrontaliers pour trains régionaux entre l’Allemagne et la France pour l’ensemble du trajet (non valables dans le pays d’émission du Carte FIP)."
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -204,7 +208,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="transilien-ticket-office" subtitle="Pour tramways et trains en Île-de-France" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France" %}}
+{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 Au DB Reisezentrum, il est possible d’acheter des Billets FIP 50 transfrontaliers pour TGV/ICE entre l’Allemagne et la France. On ne sait pas actuellement si la réservation de trains intérieurs français est possible.
 {{% /booking %}}
 
@@ -251,6 +259,14 @@ Cette obligation s’applique aux lignes suivantes :
   reservation_required=partially
 %}}
 Les trains TGV et ICE internationaux sont à réservation obligatoire sur la section française. En Allemagne, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
+Pour les trajets à l’intérieur de la France, les frais de réservation nationaux habituels pour les `TGV` s’appliquent. Les trajets internationaux nécessitent une réservation transfrontalière :
+
+|                   | 1ʳᵉ classe | 2ᵉ classe |
+| ----------------- | ---------- | --------- |
+| National Off-peak | 2 €        | 2 €       |
+| National Peak     | 16 €       | 11 €      |
+| International     | 40 €       | 20 €      |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -261,6 +277,24 @@ Les trains TGV et ICE internationaux sont à réservation obligatoire sur la sec
   reservation_required=true
 %}}
 Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu’à 130 €).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV vers le Luxembourg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
+
+Les prix sont valables à partir de 2026 : [^11]
+
+|                        | 1ʳᵉ classe | 2ᵉ classe |
+| ---------------------- | ---------- | --------- |
+| Paris – Luxembourg     | 61 €       | 88 €      |
+| Marseille – Luxembourg | 74 €       | 113 €     |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -363,3 +397,5 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
 
 [^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+
+[^11]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
