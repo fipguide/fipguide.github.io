@@ -16,7 +16,7 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ✅
 
 {{< highlight important >}}

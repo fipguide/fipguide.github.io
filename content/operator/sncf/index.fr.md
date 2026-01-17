@@ -24,7 +24,7 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅ \
 Tarif Global FIP : ✅ (pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux))
 
@@ -38,13 +38,13 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 {{% train-category
   id="tgv-inoui"
-  title="Train à grande vitesse inOui (TGV inOui)"
+  title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
   type="highspeed"
   fip_accepted=true
   reservation_required=true
   route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
-Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
+Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Milan). Des trains `TGV` Lyria relient également la France à la Suisse (Bâle, Zurich, Lausanne, Genève).
 
 {{% highlight confusion %}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
@@ -88,7 +88,7 @@ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le
   fip_accepted=true
   reservation_required=true
 %}}
-Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort, Stuttgart, Munich).
+Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort-sur-le-Main, Erfurt, Halle-sur-Saale et Berlin ou Stuttgart et Munich).
 
 {{% highlight important %}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
