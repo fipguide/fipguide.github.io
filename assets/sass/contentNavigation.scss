@@ -126,7 +126,7 @@
     gap: 0;
     overflow: hidden;
     flex-flow: column;
-    transition: transform 0.5s ease-in-out;
+    transition: transform 0.25s ease-in-out;
     border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
     transform: translateY(calc(100% - 6.4rem - env(safe-area-inset-bottom)));
     box-shadow: var(--box-shadow);

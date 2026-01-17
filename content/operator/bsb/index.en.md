@@ -41,7 +41,7 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
-A [list of journeys](https://www.bsb.de/sites/default/files/2024-11/Fahrplan-2025-Web_0.pdf) is available on this page.
+A [list of journeys](https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf) is available on this page.
 
 **Reservation possible:** No \
 **Reservation required:** No
