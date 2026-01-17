@@ -37,6 +37,20 @@ _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
 
 {{% satellite %}}
 
+Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, kann auf folgende Tarifcodes hingeweisen werden:[^1]
+
+**Reservierungen:**
+
+- FIP Freifahrtschein — CF70: Nur Reservierungskauf.
+- FIP Freifahrtschein — CF71: Upgrade der FIP Freifahrtschein-Reservierung auf die 1. Klasse.
+
+**FIP 50/75 Tickets:**
+
+- FIP Ausweis aktive Mitarbeitende und deren Angehörige (außer GB National Rail), Personen im Ruhestand — CF52 : FIP 50 Ticket (50% Rabatt) + obligatorische Reservierung in Zügen.
+- FIP Ausweis aktive Mitarbeitende und deren Angehörige (außer GB National Rail), Personen im Ruhestand — CF54 : Upgrade mit FIP 50 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
+- FIP Ausweis aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF77 : FIP 75 Ticket (75% Rabatt) + obligatorische Reservierung in Zügen.
+- FIP Ausweis aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF78 : Upgrade mit FIP 75 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
