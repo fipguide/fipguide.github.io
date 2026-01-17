@@ -42,15 +42,17 @@
         {{- end -}}
       </div>
       <div class="o-booking__classes">
-        {{- if and (ne .reservations "nil") .classes -}}
+        {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
           <span class="o-booking__classes-title"
             >{{ T "booking.reservation-costs" }}</span
           >
           {{- range $k, $v := .classes -}}
-            <div>
-              <strong>{{- T (print "booking.classes." $k) -}}:</strong>
-              {{ $v -}}
-            </div>
+            {{- if ne $v "nil" }}
+              <div>
+                <strong>{{- T (print "booking.classes." $k) -}}:</strong>
+                {{ $v -}}
+              </div>
+            {{- end }}
           {{- end -}}
         {{- end -}}
         {{- if ne .fee "nil" -}}
