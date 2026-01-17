@@ -257,6 +257,10 @@ For example, the Isle of Wight Ranger covering only SWR services is valid under 
 
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
+{{% highlight tip %}}
+Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^4]
+{{% /highlight %}}
+
 ### Online
 
 {{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
@@ -382,3 +386,5 @@ Great Britain can also be explored by night trains:
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
 [^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
+
+[^4]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
