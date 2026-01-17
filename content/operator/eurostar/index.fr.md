@@ -136,6 +136,13 @@ Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 
 Les vendredi, samedi et dimanche entre 17h30 et 19h00, les Billets FIP ne sont pas proposés. [^2]
 
+La vérification des contingents de billets disponibles est possible via les sites suivants :
+
+- [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
+   Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
+- [Traivelling](https://traivelling.com/home) \
+   Indiquer la réduction _FIP 50%_. Des billets sont également vendus ici, mais nous ne pouvons pas nous prononcer sur la légitimité de cette offre.
+
 ### Correspondances
 
 #### HOTNAT (Correspondance à Bruxelles, Cologne, Paris)

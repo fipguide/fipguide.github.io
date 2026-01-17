@@ -180,7 +180,7 @@ ScotRail deckt das gesamte schottische Regionalnetz ab, inklusive der Highlands 
 **Reservierungspflicht:** Nein
 {{% /expander %}}
 
-{{% expander "South Western Railway (SW)" traincategory "category" %}}
+{{% expander "South Western Railway (SWR)" traincategory "category" %}}
 **Beschreibung:** \
 South Western Railway verbindet London Waterloo mit dem Südwesten Englands und betreibt zahlreiche Pendlerstrecken. \
 **Reservierung möglich:** Nein
@@ -245,7 +245,11 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
   Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt wird jedoch nur auf Nachfrage gewährt.
 
 {{% highlight inofficial %}}
-[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) gibt es eine inoffizielle Liste auf welche Rover nationale Fahrvergünstigungen gewährt werden. Vermutlich wird auf diese Rover auch der FIP Rabatt gewährt. [^3]
+[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) gibt es eine inoffizielle Liste auf welche Rover nationale Fahrvergünstigungen gewährt werden. Vermutlich wird auf diese Rover auch der FIP Rabatt gewährt.
+
+Als allgemeine Faustregel gilt: Tickets, die ausschließlich für National Rail gelten, werden in der Regel akzeptiert. Kombinierte Bahn- und Bustickets sind meist nicht gültig. Bei Tickets, die sowohl National Rail als auch Museumsbahnen umfassen, sollte die Gültigkeit im Einzelfall geprüft werden.
+
+Beispielsweise ist der Isle of Wight Ranger, der nur für SWR-Verbindungen gilt, unter FIP nutzbar, während die Variante inklusive Dampfzug nicht gültig ist (obwohl diese teilweise mit FIP Rabatt verkauft wird).[^3]
 {{% /highlight %}}
 
 - **Saisonfahrkarten und London-Fahrkarten:** \
@@ -253,6 +257,10 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
   angegebenen Londoner Zonen für einen bestimmten Zeitraum. FIP 50 Rabatt ist nicht verfügbar.
 
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
+
+{{% highlight tip %}}
+Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^4]
+{{% /highlight %}}
 
 ### Online
 
@@ -381,3 +389,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
 [^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
+
+[^4]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)

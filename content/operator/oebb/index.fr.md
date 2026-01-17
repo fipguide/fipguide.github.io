@@ -195,13 +195,13 @@ La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfant
 
 Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
 
-#### Brenner – Bolzano – Vérone
+#### Brenner – Bozen – Vérone – Venise/Ancône/Bologne
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Vérone. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Railjet Tarvisio Boscoverde – Venise
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne jusqu’à Venise. Pour les trajets à destination, en provenance ou entièrement en Italie, un supplément de 10 € en 2ᵉ classe et 15 € en 1ʳᵉ classe doit être payé. Le [supplément ÖBB](#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Eurocity Trieste
 
@@ -256,6 +256,10 @@ Les Billets FIP sont valables sur les trains auto ÖBB. Les frais de transport d
 Avec un Coupon FIP, la navette auto du tunnel du Tauern (Böckstein–Mallnitz-Obervellach) peut être utilisée. Le véhicule doit être immatriculé au nom d’un des détenteurs du Coupon FIP pour être transporté gratuitement. Les passagers accompagnants sans Coupon FIP paient le tarif normal.
 
 La réduction FIP 50 n’est pas disponible.
+
+### Trafic de corridor Salzbourg – Kufstein
+
+Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le réseau ferroviaire allemand sans arrêt. Les Coupons FIP ÖBB y sont valables.
 
 ### Arrêts intermédiaires
 

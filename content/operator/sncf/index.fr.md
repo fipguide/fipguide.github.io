@@ -115,7 +115,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 %}}
 Trains Intercités de la SNCF reliant différentes villes françaises, généralement à réservation obligatoire.
 
-La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En cas de doute, il faut vérifier auprès de la SNCF ou acheter une réservation.
+Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
 
 #### Réservation
 
@@ -288,7 +288,7 @@ Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Be
 %}}
 Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
 
-Les prix sont valables à partir de 2026 : [^3]
+Les prix sont valables à partir de 2026 : [^11]
 
 |                        | 1ʳᵉ classe | 2ᵉ classe |
 | ---------------------- | ---------- | --------- |
@@ -348,7 +348,12 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis et accessibles avec FIP aussi. Les autres tramways ne sont pas valables avec FIP.
+Les lignes de tramway suivantes acceptent FIP :[^4]
+
+- T4, T11, T14 : Exploité par Stretto (groupement SNCF et Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
+- T9 : Exploité par Keolis[^6]
+
+Les tramways T12 et T13 ne sont plus valables avec FIP depuis décembre 2025.[^3]<sup>,</sup>[^10] Les autres tramways ne sont pas valables avec FIP, car ils sont exploités par RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -377,4 +382,20 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 
-[^3]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
+
+[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
+
+[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
+
+[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
+
+[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
+
+[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
+
+[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+
+[^11]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)

@@ -37,6 +37,20 @@ _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 
 {{% satellite %}}
 
+Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est possible d’indiquer les codes suivants :[^1]
+
+**Réservations :**
+
+- Coupon FIP — CF70 : Achat de réservation uniquement.
+- Coupon FIP — CF71 : Surclassement de la réservation Coupon FIP en 1re classe.
+
+**Billets FIP 50/75 :**
+
+- Carte FIP pour les agents actifs et leurs ayants droit (sauf GB National Rail), personnes retraitées — CF52 : Billet FIP 50 (réduction de 50 %) + réservation obligatoire dans les trains.
+- Carte FIP pour les agents actifs et leurs ayants droit (sauf GB National Rail), personnes retraitées — CF54 : Surclassement avec billet FIP 50 en 1re classe + réservation obligatoire dans les trains.
+- Carte FIP pour les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF77 : Billet FIP 75 (réduction de 75 %) + réservation obligatoire dans les trains.
+- Carte FIP pour les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF78 : Surclassement avec billet FIP 75 en 1re classe + réservation obligatoire dans les trains.
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

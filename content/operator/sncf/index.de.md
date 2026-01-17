@@ -114,7 +114,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 %}}
 Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und meistens reservierungspflichtig sind.
 
-Die SNCF stellt keine öffentlichen Informationen zur Verfügung, welche `IC` Züge reservierungspflichtig sind. Im Zweifelsfall muss für jeden Zug bei der SNCF nachgefragt oder eine Reservierung erworben werden.
+Auf der [Intercité-Website](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) der SNCF werden Verbindungen mit und ohne Reservierungspflicht aufgelistet. Alternativ kann über die [Zugsuche](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) der SNCF für jede Zugnummer die Reservierungsbedingungen abgerufen werden.
 
 #### Reservierung
 
@@ -288,7 +288,7 @@ Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien od
 %}}
 Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Luxemburg sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden.
 
-Die Preise betragen Stand 2026: [^3]
+Die Preise betragen Stand 2026: [^11]
 
 |                       | 1. Klasse | 2. Klasse |
 | --------------------- | --------- | --------- |
@@ -348,7 +348,12 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Die Straßenbahnlinien T4 und T11 werden von der SNCF betrieben und können mit FIP Vergünstigungen genutzt werden. Die Straßenbahnlinien T9 und T13 werden von einer Kooperation aus SNCF und Keolis betrieben und können ebenfalls mit FIP Vergünstigungen genutzt werden. Auf allen anderen Linien gelten keine FIP Vergünstigungen
+Folgende Straßenbahnlinien akzeptieren FIP:[^4]
+
+- T4, T11, T14: Betrieben von Stretto (Zusammenschluss SNCF und Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
+- T9: Betrieben von Keolis[^6]
+
+Auf den Straßenbahnlinien T12 und T13 ist FIP seit Dezember 2025 nicht mehr gültig.[^3]<sup>,</sup>[^10] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
 {{% /train-category %}}
 
 {{% float-image
@@ -376,4 +381,20 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 
-[^3]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
+
+[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
+
+[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
+
+[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
+
+[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
+
+[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
+
+[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+
+[^11]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)
