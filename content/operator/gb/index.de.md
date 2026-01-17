@@ -258,6 +258,10 @@ Beispielsweise ist der Isle of Wight Ranger, der nur für SWR-Verbindungen gilt,
 
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
+{{% highlight tip %}}
+Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^4]
+{{% /highlight %}}
+
 ### Online
 
 {{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
@@ -385,3 +389,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
 [^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
+
+[^4]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
