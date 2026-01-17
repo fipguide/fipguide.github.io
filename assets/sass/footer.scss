@@ -49,6 +49,11 @@
 }
 
 .footnote-backref {
+  display: inline-flex;
+  width: 2.4rem;
+  height: 2.4rem;
+  justify-content: center;
+
   @media print {
     display: none;
   }
