@@ -136,16 +136,6 @@ Gatwick Express ist eine schnelle Direktverbindung zwischen London Victoria und 
 
 {{% /train-category %}}
 
-{{% expander "Elizabeth Line (XR)" traincategory "category" %}}
-
-Die Elizabeth Line bietet durchgehende S-Bahn-Verbindungen von Ost- nach West-London und ergänzt das städtische Nahverkehrsnetz.
-
-{{% highlight tip %}}
-Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
-{{% /highlight %}}
-
-{{% /expander %}}
-
 {{% train-category
   id="grand-central"
   title="Grand Central (GC)"
