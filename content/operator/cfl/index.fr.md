@@ -26,12 +26,12 @@ Le Luxembourg offre la gratuité des transports publics pour les trajets intéri
 ## Catégories de trains et réservations
 
 {{% train-category
-id="intercity"
-title="InterCity (IC)"
-type="highspeed"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  id="intercity"
+  title="InterCity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
@@ -39,11 +39,11 @@ Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
 {{% /train-category %}}
 
 {{% train-category
-id="regionalexpress"
-title="Regionalexpress (RE)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="regionalexpress"
+  title="Regionalexpress (RE)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Trains avec arrêt dans certaines gares.
@@ -51,11 +51,11 @@ Trains avec arrêt dans certaines gares.
 {{% /train-category %}}
 
 {{% train-category
-id="regionalbahn"
-title="Regionalbahn (RB)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="regionalbahn"
+  title="Regionalbahn (RB)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Trains avec arrêt dans toutes les gares.
@@ -63,11 +63,11 @@ Trains avec arrêt dans toutes les gares.
 {{% /train-category %}}
 
 {{% train-category
-id="bus"
-title="Bus"
-type="bus"
-fip_accepted=false
-reservation_possible=false
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+  reservation_possible=false
 %}}
 
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.
@@ -75,11 +75,11 @@ La CFL exploite également des lignes de bus interurbaines. Celles-ci n’accept
 {{% /train-category %}}
 
 {{% train-category
-id="standseilbahn"
-title="Funiculaire Pfaffenthal-Kirchberg"
-type="funicular"
-fip_accepted=true
-reservation_possible=false
+  id="standseilbahn"
+  title="Funiculaire Pfaffenthal-Kirchberg"
+  type="funicular"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme de correspondance sur le plateau du Kirchberg.

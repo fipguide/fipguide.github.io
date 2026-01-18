@@ -26,12 +26,12 @@ Luxembourg offers free public transport for domestic journeys regardless of FIP.
 ## Train Categories and Reservations
 
 {{% train-category
-id="intercity"
-title="InterCity (IC)"
-type="highspeed"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  id="intercity"
+  title="InterCity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 
 InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
@@ -39,11 +39,11 @@ InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
 {{% /train-category %}}
 
 {{% train-category
-id="regionalexpress"
-title="Regionalexpress (RE)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="regionalexpress"
+  title="Regionalexpress (RE)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Trains stopping at some stations.
@@ -51,11 +51,11 @@ Trains stopping at some stations.
 {{% /train-category %}}
 
 {{% train-category
-id="regionalbahn"
-title="Regionalbahn (RB)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="regionalbahn"
+  title="Regionalbahn (RB)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Trains stopping at all stations.
@@ -63,11 +63,11 @@ Trains stopping at all stations.
 {{% /train-category %}}
 
 {{% train-category
-id="bus"
-title="Bus"
-type="bus"
-fip_accepted=false
-reservation_possible=false
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+  reservation_possible=false
 %}}
 
 CFL also operates interregional bus lines. These do not accept FIP, but due to free public transport, no ticket is required.
@@ -75,11 +75,11 @@ CFL also operates interregional bus lines. These do not accept FIP, but due to f
 {{% /train-category %}}
 
 {{% train-category
-id="standseilbahn"
-title="Funicular Pfaffenthal-Kirchberg"
-type="funicular"
-fip_accepted=true
-reservation_possible=false
+  id="standseilbahn"
+  title="Funicular Pfaffenthal-Kirchberg"
+  type="funicular"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchange platform on the Kirchberg plateau.

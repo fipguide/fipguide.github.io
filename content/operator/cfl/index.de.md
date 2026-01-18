@@ -26,12 +26,12 @@ Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabh�
 ## Zugkategorien und Reservierungen
 
 {{% train-category
-id="intercity"
-title="InterCity (IC)"
-type="highspeed"
-fip_accepted=true
-reservation_possible=true
-reservation_required=false
+  id="intercity"
+  title="InterCity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
 %}}
 
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
@@ -39,11 +39,11 @@ InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
 {{% /train-category %}}
 
 {{% train-category
-id="regionalexpress"
-title="Regionalexpress (RE)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="regionalexpress"
+  title="Regionalexpress (RE)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Züge mit Halt an manchen Stationen.
@@ -51,11 +51,11 @@ Züge mit Halt an manchen Stationen.
 {{% /train-category %}}
 
 {{% train-category
-id="regionalbahn"
-title="Regionalbahn (RB)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="regionalbahn"
+  title="Regionalbahn (RB)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Züge mit Halt an allen Stationen.
@@ -63,11 +63,11 @@ Züge mit Halt an allen Stationen.
 {{% /train-category %}}
 
 {{% train-category
-id="bus"
-title="Bus"
-type="bus"
-fip_accepted=false
-reservation_possible=false
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+  reservation_possible=false
 %}}
 
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.
@@ -75,11 +75,11 @@ Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP,
 {{% /train-category %}}
 
 {{% train-category
-id="standseilbahn"
-title="Standseilbahn Pfaffenthal-Kirchberg"
-type="funicular"
-fip_accepted=true
-reservation_possible=false
+  id="standseilbahn"
+  title="Standseilbahn Pfaffenthal-Kirchberg"
+  type="funicular"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.

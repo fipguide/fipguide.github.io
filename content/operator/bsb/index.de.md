@@ -31,12 +31,12 @@ FIP 50 Tickets: ✅
 ## Kategorien und Reservierungen
 
 {{% train-category
-id="ferry"
-title="Fähre"
-type="ship"
-fip_accepted=true
-reservation_possible=false
-route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+  id="ferry"
+  title="Fähre"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=false
+  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Fähren auf dem Bodensee.
