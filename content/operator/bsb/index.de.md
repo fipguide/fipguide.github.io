@@ -30,8 +30,15 @@ FIP 50 Tickets: ✅
 
 ## Kategorien und Reservierungen
 
-{{% expander "Fähre" traincategory %}}
-**Beschreibung:** \
+{{% train-category
+id="ferry"
+title="Fähre"
+type="ship"
+fip_accepted=true
+reservation_possible=false
+route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+%}}
+
 Fähren auf dem Bodensee.
 
 Auf den folgenden Strecken können Autos mitgeführt werden:
@@ -41,11 +48,7 @@ Auf den folgenden Strecken können Autos mitgeführt werden:
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 
-Auf dieser Seite gibt es eine [Übersicht der Fahrten](https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf).
-
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Klassenkategorien
 
