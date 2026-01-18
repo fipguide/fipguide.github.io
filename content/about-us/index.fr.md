@@ -18,3 +18,10 @@ Pour répondre au mieux aux questions individuelles, nous exploitons également 
 
 L'équipe principale se compose actuellement de Robert Schuster, Lennart Rommeiß, Moritz Weber et Willy Schreiter. Mais sans notre formidable communauté, le projet ne serait pas là où il en est aujourd'hui. Par conséquent, un grand merci du cœur à tous ceux qui nous soutiennent – que ce soit par des traductions, des retours d'expérience ou le partage d'informations précieuses sur l'utilisation du FIP !
 {{% /float-image %}}
+
+## L’équipe
+
+{{% team-members %}}
+
+Mais sans notre formidable [communauté](https://discord.gg/5nWS9Eu9zz), le projet ne serait pas là où il en est aujourd’hui. Un grand merci à toutes celles et ceux qui nous soutiennent – que ce soit par des traductions, des retours ou le partage d’informations précieuses sur l’utilisation du FIP !
+Une mention spéciale à Toni Arndt ainsi qu’aux collègues de la DB, SNCF, PKP et ČD pour leurs nombreux soutiens de contenu.

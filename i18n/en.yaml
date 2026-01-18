@@ -126,6 +126,19 @@ support:
     contribute content. Alternatively, you can also write to us via the [contact
     form](/contact).
   title: Support Us
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Development & Technical Infrastructure
+  moritz:
+    name: Moritz Weber
+    position: Content Creation & Research
+  robert:
+    name: Robert Schuster
+    position: Project Management & Community Management
+  willy:
+    name: Willy Schreiter
+    position: Translations & International Coordination
 toc_name: Contents
 trainCategory:
   acceptance:

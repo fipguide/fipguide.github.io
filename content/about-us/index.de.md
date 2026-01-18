@@ -16,5 +16,11 @@ Aus dieser Erfahrung heraus haben wir 2025 den FIP Guide ins Leben gerufen – e
 
 Um individuellen Fragen bestmöglich zu begegnen, betreiben wir zusätzlich die [FIP Guide Community auf Discord](https://discord.gg/5nWS9Eu9zz). Dort moderieren wir aktive Diskussionen und übernehmen relevante Erkenntnisse auf die Website. Auch Anfragen über unser [Kontaktformular](/contact) beantworten wir gerne.
 
-Das Kernteam besteht derzeit aus Robert Schuster, Lennart Rommeiß, Moritz Weber und Willy Schreiter. Doch ohne unsere großartige Community wäre das Projekt nicht dort, wo es heute steht. Daher ein herzliches Dankeschön an alle, die uns unterstützen – sei es durch Übersetzungen, Feedback oder das Teilen wertvoller Informationen zur Nutzung von FIP!
 {{% /float-image %}}
+
+## Das Team
+
+{{% team-members %}}
+
+Doch ohne unsere großartige [Community](https://discord.gg/5nWS9Eu9zz) wäre das Projekt nicht dort, wo es heute steht. Daher ein herzliches Dankeschön an alle, die uns unterstützen – sei es durch Übersetzungen, Feedback oder das Teilen wertvoller Informationen zur Nutzung von FIP!
+Besonderen Dank gilt dabei Toni Arndt sowie Kollegen und Kolleginnen der DB, SNCF, PKP und ČD für zahlreichriche inhaltliche Unterstützungen.

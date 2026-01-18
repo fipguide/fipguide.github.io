@@ -131,6 +131,19 @@ support:
     um Inhalte beizutragen. Alternativ kannst du uns auch über das
     [Kontaktformular](/contact) schreiben.
   title: Unterstütze uns
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Cloud-Specialist @ DB Systel
+  moritz:
+    name: Moritz Weber
+    position: Referent Digitalisierung Bahnsystem @ DB InfraGO
+  robert:
+    name: Robert Schuster
+    position: User Experience Consulting @ DB Systel
+  willy:
+    name: Willy Schreiter
+    position: 'Product Owner bei der #Einfachbahn @ DB InfraGO'
 toc_name: Inhalt
 trainCategory:
   acceptance:

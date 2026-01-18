@@ -18,3 +18,10 @@ To address individual questions in the best possible way, we also operate the [F
 
 The core team currently consists of Robert Schuster, Lennart Rommeiß, Moritz Weber, and Willy Schreiter. But without our great community, the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
 {{% /float-image %}}
+
+## The Team
+
+{{% team-members %}}
+
+But without our great [community](https://discord.gg/5nWS9Eu9zz), the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
+Special thanks go to Toni Arndt as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.

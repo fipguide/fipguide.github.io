@@ -1,0 +1,32 @@
+{{- $members := slice
+  (dict "key" "lennart" "image" "https://avatars.githubusercontent.com/u/61516567" "link" "https://www.linkedin.com/in/lennart-rommeiss/")
+  (dict "key" "moritz" "image" "https://avatars.githubusercontent.com/u/23395732" "link" "https://www.linkedin.com/in/moritzbweber/")
+  (dict "key" "robert" "image" "https://avatars.githubusercontent.com/u/77234379" "link" "")
+  (dict "key" "willy" "image" "https://avatars.githubusercontent.com/u/33377662" "link" "https://www.linkedin.com/in/willy-schreiter-049410286/")
+-}}
+
+
+<div class="m-team-members">
+  {{- range $members -}}
+    {{- $name := i18n (printf "teamMembers.%s.name" .key) -}}
+    {{- $position := i18n (printf "teamMembers.%s.position" .key) -}}
+    <div class="m-team-member">
+      <img src="{{ .image }}" alt="{{ $name }}" class="m-team-member__image" />
+      <div class="m-team-member__info">
+        {{- if .link -}}
+          <a
+            href="{{ .link }}"
+            class="m-team-member__name o-link__external"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {{- $name -}}{{- partial "icon" "arrow_outward" -}}
+          </a>
+        {{- else -}}
+          <div class="m-team-member__name">{{ $name }}</div>
+        {{- end -}}
+        <div class="m-team-member__position">{{ $position }}</div>
+      </div>
+    </div>
+  {{- end -}}
+</div>
