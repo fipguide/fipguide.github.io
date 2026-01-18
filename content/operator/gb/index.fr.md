@@ -137,7 +137,6 @@ Gatwick Express est une liaison rapide et directe entre London Victoria et l’a
 
 {{% /train-category %}}
 
-
 {{% train-category
   id="grand-central"
   title="Grand Central (GC)"
