@@ -25,51 +25,66 @@ Luxembourg offers free public transport for domestic journeys regardless of FIP.
 
 ## Train Categories and Reservations
 
-{{% expander "InterCity (IC)" traincategory "category" %}}
+{{% train-category
+id="intercity"
+title="InterCity (IC)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
+%}}
 
-**Description:**\
 InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
 
-**Reservation possible:** Yes \
-**Reservation required:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="regionalexpress"
+title="Regionalexpress (RE)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Regional Express (RE)" traincategory "category" %}}
-
-**Description:**\
 Trains stopping at some stations.
 
-**Reservation possible:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="regionalbahn"
+title="Regionalbahn (RB)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Regional Train (RB)" traincategory "category" %}}
-
-**Description:**\
 Trains stopping at all stations.
 
-**Reservation possible:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="bus"
+title="Bus"
+type="bus"
+fip_accepted=false
+reservation_possible=false
+%}}
 
-{{% expander "Bus" traincategory "category" %}}
-
-**Description:**\
 CFL also operates interregional bus lines. These do not accept FIP, but due to free public transport, no ticket is required.
 
-**Reservation possible:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="standseilbahn"
+title="Funicular Pfaffenthal-Kirchberg"
+type="funicular"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Pfaffenthal-Kirchberg Funicular" traincategory "category" %}}
-
-**Description:**\
 The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchange platform on the Kirchberg plateau.
 
-**Reservation possible:** No
-
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 

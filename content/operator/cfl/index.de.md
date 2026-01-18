@@ -25,51 +25,66 @@ Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabh�
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "InterCity (IC)" traincategory "category" %}}
+{{% train-category
+id="intercity"
+title="InterCity (IC)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
+%}}
 
-**Beschreibung:**\
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
 
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="regionalexpress"
+title="Regionalexpress (RE)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Regionalexpress (RE)" traincategory "category" %}}
-
-**Beschreibung:**\
 Züge mit Halt an manchen Stationen.
 
-**Reservierung möglich:** Nein
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="regionalbahn"
+title="Regionalbahn (RB)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Regionalbahn (RB)" traincategory "category" %}}
-
-**Beschreibung:**\
 Züge mit Halt an allen Stationen.
 
-**Reservierung möglich:** Nein
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="bus"
+title="Bus"
+type="bus"
+fip_accepted=false
+reservation_possible=false
+%}}
 
-{{% expander "Bus" traincategory "category" %}}
-
-**Beschreibung:**\
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.
 
-**Reservierung möglich:** Nein
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="standseilbahn"
+title="Standseilbahn Pfaffenthal-Kirchberg"
+type="funicular"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Standseilbahn Pfaffenthal-Kirchberg" traincategory "category" %}}
-
-**Beschreibung:**\
 Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.
 
-**Reservierung möglich:** Nein
-
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 

@@ -25,51 +25,66 @@ Le Luxembourg offre la gratuité des transports publics pour les trajets intéri
 
 ## Catégories de trains et réservations
 
-{{% expander "InterCity (IC)" traincategory "category" %}}
+{{% train-category
+id="intercity"
+title="InterCity (IC)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
+%}}
 
-**Description :**\
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
 
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Non
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="regionalexpress"
+title="Regionalexpress (RE)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Regionalexpress (RE)" traincategory "category" %}}
-
-**Description :**\
 Trains avec arrêt dans certaines gares.
 
-**Réservation possible :** Non
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="regionalbahn"
+title="Regionalbahn (RB)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Regionalbahn (RB)" traincategory "category" %}}
-
-**Description :**\
 Trains avec arrêt dans toutes les gares.
 
-**Réservation possible :** Non
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="bus"
+title="Bus"
+type="bus"
+fip_accepted=false
+reservation_possible=false
+%}}
 
-{{% expander "Bus" traincategory "category" %}}
-
-**Description :**\
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.
 
-**Réservation possible :** Non
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+id="standseilbahn"
+title="Funiculaire Pfaffenthal-Kirchberg"
+type="funicular"
+fip_accepted=true
+reservation_possible=false
+%}}
 
-{{% expander "Funiculaire Pfaffenthal-Kirchberg" traincategory "category" %}}
-
-**Description :**\
 Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme de correspondance sur le plateau du Kirchberg.
 
-**Réservation possible :** Non
-
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Achat de billets et de réservations
 
