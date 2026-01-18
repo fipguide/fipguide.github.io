@@ -308,8 +308,8 @@ Die Island Line verkehrt auf der Isle of Wight und wird von South Western Railwa
   title="ScotRail (SR)"
   type="regional"
   fip_accepted=true
-  reservation_possible=false
-  reservation_required=partially
+  reservation_possible=partially
+  reservation_required=false
 %}}
 
 ScotRail deckt das gesamte schottische Regionalnetz ab, inklusive der Highlands und der Westküste.

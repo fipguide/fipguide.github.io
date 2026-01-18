@@ -309,8 +309,8 @@ La Island Line circule sur l’île de Wight et est exploitée par South Western
   title="ScotRail (SR)"
   type="regional"
   fip_accepted=true
-  reservation_possible=false
-  reservation_required=partially
+  reservation_possible=partially
+  reservation_required=false
 %}}
 
 ScotRail couvre tout le réseau régional écossais, y compris les Highlands et la côte ouest.

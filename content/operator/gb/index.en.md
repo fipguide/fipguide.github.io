@@ -308,8 +308,8 @@ The Island Line runs on the Isle of Wight and is operated by South Western Railw
   title="ScotRail (SR)"
   type="regional"
   fip_accepted=true
-  reservation_possible=false
-  reservation_required=partially
+  reservation_possible=partially
+  reservation_required=false
 %}}
 
 ScotRail covers the entire Scottish regional network, including the Highlands and the west coast.
