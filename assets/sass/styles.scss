@@ -145,10 +145,27 @@ main {
   }
 }
 
-img {
-  width: 100%;
-  height: auto;
+figure {
   border-radius: var(--border-radius-l);
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+
+  > img {
+    width: 100%;
+    height: auto;
+  }
+
+  > hr {
+    margin: 0;
+  }
+
+  > figcaption {
+    background-color: var(--bg-neutral);
+    font-size: 0.9em;
+    padding: 0.8rem;
+  }
 
   @media print {
     display: none;

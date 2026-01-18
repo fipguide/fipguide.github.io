@@ -112,7 +112,7 @@
   }
 }
 
-.o-related__item img {
+.o-related__item figure {
   border-radius: var(--border-radius-s);
 }
 
@@ -211,7 +211,7 @@
   }
 
   main.o-newspage .o-aside {
-    img {
+    figure {
       display: none;
     }
   }
