@@ -4,6 +4,11 @@
   gap: 2rem;
   width: 100%;
 
+  &:not(:has(.o-booking__classes)) {
+    grid-template-columns: 1.5fr 2fr;
+    margin-right: 2rem;
+  }
+
   @media screen and (max-width: #{$breakpoint-md}) {
     display: flex;
     flex-direction: column;
