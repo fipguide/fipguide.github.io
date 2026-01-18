@@ -30,8 +30,15 @@ FIP 50 Tickets: ✅
 
 ## Train Categories and Reservations
 
-{{% expander "Ferry" traincategory %}}
-**Description:** \
+{{% train-category
+  id="ferry"
+  title="Fähre"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=false
+  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+%}}
+
 Ferries on Lake Constance.
 
 On the following routes, cars can be transported:
@@ -41,11 +48,7 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
-A [list of journeys](https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf) is available on this page.
-
-**Reservation possible:** No \
-**Reservation required:** No
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Class Categories
 
