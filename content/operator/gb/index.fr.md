@@ -213,8 +213,6 @@ Heathrow Express propose une liaison rapide et directe entre London Paddington e
 
 À Heathrow, les billets avec réduction FIP peuvent être achetés directement aux portiques auprès du personnel. [Les billets aller-retour](#achat-de-billets-et-réservations) avec réduction FIP peuvent être moins chers que deux allers simples avec la [Elizabeth Line](#elizabeth-line). Les prix sont de 50 % (ou 75 %) des prix simples ou aller-retour publiés sur le [site du Heathrow Express](https://www.heathrowexpress.com/ticket-fares). [^4]
 
-{{% /expander %}}
-
 {{% /train-category %}}
 
 {{% train-category
