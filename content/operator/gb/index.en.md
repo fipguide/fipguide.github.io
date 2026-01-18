@@ -118,6 +118,10 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
 
 The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network.
 
+{{% highlight tip %}}
+Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -204,7 +208,9 @@ Reservations are required for the Night Riviera Sleeper.
   reservation_possible=false
 %}}
 
-Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes.
+Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. FIP Coupons and FIP 50 (or FIP 75) Tickets are accepted.
+
+At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^4]
 
 {{% /train-category %}}
 
@@ -302,8 +308,8 @@ The Island Line runs on the Isle of Wight and is operated by South Western Railw
   title="ScotRail (SR)"
   type="regional"
   fip_accepted=true
-  reservation_possible=false
-  reservation_required=partially
+  reservation_possible=partially
+  reservation_required=false
 %}}
 
 ScotRail covers the entire Scottish regional network, including the Highlands and the west coast.
@@ -436,7 +442,7 @@ For example, the Isle of Wight Ranger covering only SWR services is valid under 
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}
-Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^4]
+Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^5]
 {{% /highlight %}}
 
 ### Online
@@ -469,13 +475,11 @@ Many stations in Great Britain have ticket barriers that must be opened with a t
 
 ### Transport in London
 
-Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The Elizabeth Line and London Overground can be used without restriction with FIP. Some regional trains such as Thameslink, which run through London, can also be used with FIP Coupons.
+Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The [Elizabeth Line](#elizabeth-line) and London Overground can be used without restriction with FIP. Some regional trains such as [Thameslink](#thameslink), which run through London, can also be used with FIP Coupons. [Heathrow Express](#heathrow-express) can also be used.
 {{% expander "Elizabeth Line" info "london" %}}
 The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
 
-{{% highlight tip %}}
-Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your Coupon.
-{{% /highlight %}}
+Further information: [see Elizabeth Line](#elizabeth-line)
 {{% /expander %}}
 
 {{% expander "London Overground" info "london" %}}
@@ -565,4 +569,6 @@ Great Britain can also be explored by night trains:
 
 [^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
 
-[^4]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
+[^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+
+[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)

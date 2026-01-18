@@ -118,6 +118,10 @@ East Midlands Railway verbindet London mit den East Midlands und Yorkshire im Re
 
 Die Elizabeth Line bietet durchgehende S-Bahn-Verbindungen von Ost- nach West-London und ergänzt das städtische Nahverkehrsnetz.
 
+{{% highlight tip %}}
+Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -204,7 +208,9 @@ Im Night Riviera Sleeper besteht Reservierungspflicht.
   reservation_possible=false
 %}}
 
-Heathrow Express bietet eine schnelle Nonstop-Verbindung zwischen London Paddington und dem Flughafen Heathrow in nur etwa 15 Minuten.
+Heathrow Express bietet eine schnelle Nonstop-Verbindung zwischen London Paddington und dem Flughafen Heathrow in nur etwa 15 Minuten. FIP Freifahrtscheine und FIP 50 (bzw. FIP 75) Tickets werden akzeptiert.
+
+In Heathrow können Tickets mit FIP Rabatt direkt an den Ticketschranken beim Personal gekauft werden. [Return-Tickets](#ticket--und-reservierungskauf) mit FIP Rabatt können dabei günstiger sein als zwei Einzelfahrten mit der [Elizabeth Line](#elizabeth-line). Die Preise betragen 50% (bzw. 75%)der Single oder Return-Preise, die auf der [Website des Heathrow Express](https://www.heathrowexpress.com/ticket-fares) veröffentlicht werden. [^4]
 
 {{% /train-category %}}
 
@@ -302,8 +308,8 @@ Die Island Line verkehrt auf der Isle of Wight und wird von South Western Railwa
   title="ScotRail (SR)"
   type="regional"
   fip_accepted=true
-  reservation_possible=false
-  reservation_required=partially
+  reservation_possible=partially
+  reservation_required=false
 %}}
 
 ScotRail deckt das gesamte schottische Regionalnetz ab, inklusive der Highlands und der Westküste.
@@ -437,7 +443,7 @@ Beispielsweise ist der Isle of Wight Ranger, der nur für SWR-Verbindungen gilt,
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
 {{% highlight tip %}}
-Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^4]
+Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^5]
 {{% /highlight %}}
 
 ### Online
@@ -471,13 +477,12 @@ An vielen Bahnhöfen in Großbritannien gibt es Ticketschranken, die mit einem T
 
 ### Verkehr in London
 
-Die meisten Verkehrsangebote in London werden von Transport for London (TfL) betrieben. Für diese gelten in der Regel keine FIP Vergünstigungen bzw. nur unter besonderen Bedingungen. Uneingeschränkt nutzbar mit FIP sind hingegen die Elizabeth Line und London Overground. Auch einige Regionalzüge wie Thameslink, die durch London verkehren, können mit FIP Freifahrtscheinen genutzt werden.
+Die meisten Verkehrsangebote in London werden von Transport for London (TfL) betrieben. Für diese gelten in der Regel keine FIP Vergünstigungen bzw. nur unter besonderen Bedingungen. Uneingeschränkt nutzbar mit FIP sind hingegen die [Elizabeth Line](#elizabeth-line) und London Overground. Auch einige Regionalzüge wie [Thameslink](#thameslink), die durch London verkehren, können mit FIP Freifahrtscheinen genutzt werden. Auch der [Heathrow Express](#heathrow-express) kann genutzt werden.
+
 {{% expander "Elizabeth Line" info "london" %}}
 Die Elizabeth Line ist Teil von National Rail und kann mit FIP Vergünstigungen genutzt werden. Sie bietet eine gute Möglichkeit, um mit FIP durch die ganze Stadt zu kommen. [^1]
 
-{{% highlight tip %}}
-Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
-{{% /highlight %}}
+Weitere Informationen [siehe Elizabeth Line](#elizabeth-line)
 {{% /expander %}}
 
 {{% expander "London Overground" info "london" %}}
@@ -568,4 +573,6 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 
 [^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
 
-[^4]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
+[^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+
+[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
