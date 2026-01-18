@@ -126,20 +126,19 @@ support:
     Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
     pour contribuer au contenu. Vous pouvez également nous écrire via le
     [formulaire de contact](/contact).
-  title: Soutenez-nous
 teamMembers:
   lennart:
     name: Lennart Rommeiß
-    position: Développement & infrastructure technique
+    position: Spécialiste Cloud @ DB Systel
   moritz:
     name: Moritz Weber
-    position: Création de contenu & recherche
+    position: Expert digitalisation de l'exploitation ferroviaire @ DB InfraGO
   robert:
     name: Robert Schuster
-    position: Gestion de projet & gestion de communauté
+    position: Conseil en expérience utilisateur @ DB Systel
   willy:
     name: Willy Schreiter
-    position: Traductions & coordination internationale
+    position: 'Product Owner chez #Einfachbahn @ DB InfraGO'
 toc_name: Sommaire
 trainCategory:
   acceptance:

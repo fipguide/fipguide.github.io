@@ -17,7 +17,6 @@ Fort de cette expérience, nous avons lancé le Guide FIP en 2025 – un projet 
 
 Pour répondre au mieux aux questions individuelles, nous exploitons également la [communauté FIP Guide sur Discord](https://discord.gg/5nWS9Eu9zz). Nous y modérons des discussions actives et transférons les informations pertinentes sur le site web. Nous répondons également volontiers aux demandes via notre [formulaire de contact](/contact).
 
-L'équipe principale se compose actuellement de Robert Schuster, Lennart Rommeiß, Moritz Weber et Willy Schreiter. Mais sans notre formidable communauté, le projet ne serait pas là où il en est aujourd'hui. Par conséquent, un grand merci du cœur à tous ceux qui nous soutiennent – que ce soit par des traductions, des retours d'expérience ou le partage d'informations précieuses sur l'utilisation du FIP !
 {{% /float-image %}}
 
 ## L’équipe
@@ -25,4 +24,5 @@ L'équipe principale se compose actuellement de Robert Schuster, Lennart Rommei�
 {{% team-members %}}
 
 Mais sans notre formidable [communauté](https://discord.gg/5nWS9Eu9zz), le projet ne serait pas là où il en est aujourd’hui. Un grand merci à toutes celles et ceux qui nous soutiennent – que ce soit par des traductions, des retours ou le partage d’informations précieuses sur l’utilisation du FIP !
-Une mention spéciale à Toni Arndt ainsi qu’aux collègues de la DB, SNCF, PKP et ČD pour leurs nombreux soutiens de contenu.
+
+Une mention spéciale à [Toni Arndt](https://www.linkedin.com/in/toni-arndt-683228174/) ainsi qu’aux collègues de la DB, SNCF, PKP et ČD pour leurs nombreux soutiens de contenu.

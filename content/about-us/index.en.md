@@ -17,7 +17,6 @@ Based on this experience, we launched the FIP Guide in 2025 – a community proj
 
 To address individual questions in the best possible way, we also operate the [FIP Guide Community on Discord](https://discord.gg/5nWS9Eu9zz). There we moderate active discussions and transfer relevant insights to the website. We are also happy to answer requests via our [contact form](/contact).
 
-The core team currently consists of Robert Schuster, Lennart Rommeiß, Moritz Weber, and Willy Schreiter. But without our great community, the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
 {{% /float-image %}}
 
 ## The Team
@@ -25,4 +24,5 @@ The core team currently consists of Robert Schuster, Lennart Rommeiß, Moritz We
 {{% team-members %}}
 
 But without our great [community](https://discord.gg/5nWS9Eu9zz), the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
-Special thanks go to Toni Arndt as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.
+
+Special thanks go to [Toni Arndt](https://www.linkedin.com/in/toni-arndt-683228174/) as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.
