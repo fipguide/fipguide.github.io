@@ -20,9 +20,11 @@
       <div class="m-team-member__info">
         <div class="m-team-member__name">
           {{- if .link -}}
+            {{ $arialabel := print $name " " (T "teamMembers.linkedin") }}
             {{ partial "link"
               (dict
               "Destination" .link
+              "Arialabel" $arialabel
               "Text" $name
               )
             }}
