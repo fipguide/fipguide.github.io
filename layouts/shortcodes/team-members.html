@@ -11,7 +11,12 @@
     {{- $name := i18n (printf "teamMembers.%s.name" .key) -}}
     {{- $position := i18n (printf "teamMembers.%s.position" .key) -}}
     <div class="m-team-member">
-      <img src="{{ .image }}" alt="{{ $name }}" class="m-team-member__image" />
+      <img
+        src="{{ .image }}"
+        alt="{{ $name }}"
+        class="m-team-member__image"
+        loading="lazy"
+      />
       <div class="m-team-member__info">
         <div class="m-team-member__name">
           {{- if .link -}}
