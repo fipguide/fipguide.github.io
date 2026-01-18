@@ -4,10 +4,11 @@ description: "Lerne das Team hinter der FIP Guide Website kennen und entdecke, w
 ---
 
 {{% float-image
-src="image.webp"
-alt="Das FIP Guide Team"
-width="50%"
-position="right"
+    src="image.webp"
+    alt="Das FIP Guide Team"
+    caption="Das FIP Guide Team von links nach rechts: Robert Schuster, Lennart Rommeiß, Moritz Weber, Willy Schreiter"
+    width="50%"
+    position="right"
 %}}
 
 Wir sind ein Team von Mitarbeitern der Deutschen Bahn, die selbst regelmäßig FIP nutzen und Europa mit dem Zug erkunden. In der Vergangenheit sind wir dabei immer wieder auf Herausforderungen und Unklarheiten zur Akzeptanz von FIP gestoßen. Wir haben uns durch Foren gewühlt, andere Eisenbahner:innen befragt und Supportanfragen gestellt, um die benötigten Informationen zu finden.

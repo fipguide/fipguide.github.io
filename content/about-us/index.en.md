@@ -4,10 +4,11 @@ description: "Get to know the team behind the FIP Guide website and discover why
 ---
 
 {{% float-image
-src="image.webp"
-alt="The FIP Guide core team"
-width="50%"
-position="right"
+    src="image.webp"
+    alt="The FIP Guide core team"
+    caption="The FIP Guide core team from left to right: Robert Schuster, Lennart Rommeiß, Moritz Weber, Willy Schreiter"
+    width="50%"
+    position="right"
 %}}
 
 We are a team of Deutsche Bahn employees who regularly use FIP ourselves and explore Europe by train. In the past, we have repeatedly encountered challenges and uncertainties about the acceptance of FIP. We have searched through forums, asked other railway workers, and submitted support requests to find the information we needed.
