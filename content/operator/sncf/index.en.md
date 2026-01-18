@@ -38,13 +38,13 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 
 {{% train-category
   id="tgv-inoui"
-  title="Train à grande vitesse inOui (TGV inOui)"
+  title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
   type="highspeed"
   fip_accepted=true
   reservation_required=true
   route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
-The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Zurich, Milan). Each seat number exists twice in the carriage; the reserved seat is the one with the illuminated number.
+The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Milan). Additionally, `TGV` Lyria trains run from France to Switzerland (Basel, Zurich, Lausanne, Geneva).
 
 {{% highlight confusion %}}
 SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
@@ -63,7 +63,6 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
 | National Peak     | €16       | €11       |
-| International     | €40       | €20       |
 
 {{% /train-category %}}
 
@@ -89,7 +88,7 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
   fip_accepted=true
   reservation_required=true
 %}}
-International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Stuttgart, Munich).
+International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) and Berlin or Stuttgart and Munich).
 
 {{% highlight important %}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
@@ -126,7 +125,6 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 | ----------------- | --------- | --------- |
 | National Off-peak | €2        | €2        |
 | National Peak     | €16       | €11       |
-| International     | €40       | €20       |
 
 {{% /train-category %}}
 
@@ -184,10 +182,16 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="db-website-fip-db"
   subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
   subtitle="Cross-border FIP 50 Tickets for regional trains between Germany and France for the entire route (not valid in the country of issue of the FIP Card)."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -204,7 +208,11 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="transilien-ticket-office" subtitle="For tram lines and trains in Greater Paris" /%}}
 
-{{% booking id="db-ticket-office" subtitle="For cross-border TGV/ICE trains between Germany and France" %}}
+{{% booking id="db-ticket-office" subtitle="For cross-border TGV/ICE trains between Germany and France"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 At DB Reisezentrum, cross-border FIP 50 Tickets for TGV/ICE trains between Germany and France can be purchased. It is currently unknown if booking for domestic French trains is possible.
 {{% /booking %}}
 
@@ -251,6 +259,15 @@ This reservation requirement applies to the following lines:
   reservation_required=partially
 %}}
 International `TGV` and `ICE` trains are reservation-required in the French section. In Germany, reservations are not required and FIP Coupons are valid.
+
+For journeys within France, the standard domestic `TGV` reservation fees apply. International journeys require a cross-border reservation:
+
+|                        | 1st class | 2nd class |
+| ---------------------- | --------- | --------- |
+| Within France Off-peak | €2        | €2        |
+| Within France Peak     | €16       | €11       |
+| International          | €40       | €20       |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -261,6 +278,24 @@ International `TGV` and `ICE` trains are reservation-required in the French sect
   reservation_required=true
 %}}
 International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV trains to Luxembourg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.
+
+Prices as of 2026: [^11]
+
+|                        | 1st class | 2nd class |
+| ---------------------- | --------- | --------- |
+| Paris – Luxembourg     | €61       | €88       |
+| Marseille – Luxembourg | €74       | €113      |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -362,3 +397,5 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
 
 [^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+
+[^11]: [FIP Guide Community: TGV to Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)

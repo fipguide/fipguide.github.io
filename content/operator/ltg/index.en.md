@@ -20,7 +20,7 @@ LTG-Link publishes an [overview of the route network](https://ltglink.lt/en/rout
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}

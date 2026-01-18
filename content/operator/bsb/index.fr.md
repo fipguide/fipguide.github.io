@@ -30,8 +30,15 @@ Billets FIP 50 : ✅
 
 ## Catégories de trains et réservations
 
-{{% expander "Ferry" traincategory %}}
-**Description :** \
+{{% train-category
+  id="ferry"
+  title="Fähre"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=false
+  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+%}}
+
 Ferries sur le lac de Constance.
 
 Sur les itinéraires suivants, il est possible d’embarquer des voitures :
@@ -41,11 +48,7 @@ Sur les itinéraires suivants, il est possible d’embarquer des voitures :
 
 Certains navires disposent d’un restaurant ou proposent des snacks et des boissons.
 
-Une [vue d’ensemble des trajets](https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf) est disponible sur cette page.
-
-**Réservation possible :** Non \
-**Réservation obligatoire :** Non
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Catégories de classes
 
