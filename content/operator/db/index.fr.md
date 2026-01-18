@@ -217,7 +217,7 @@ L’Allemagne est divisée en _Verkehrsverbünde_ (structure tarifaire combinée
 Pour les billets FIP 50, la gare de départ et d’arrivée doivent être dans des réseaux différents. Cela vaut aussi pour les trajets avec FIP Coupon.
 
 {{% highlight tip %}}
-Un aperçu de tous les réseaux de transport est disponible sur [Wikipedia](https://de.wikipedia.org/wiki/Liste_deutscher_Tarif-_und_Verkehrsverb%C3%BCnde).
+Un aperçu de tous les réseaux de transport est disponible sur [Wikipedia](https://en.wikipedia.org/wiki/List_of_German_transport_associations).
 
 Pour s’orienter, il est aussi possible de vérifier dans DB Navigator ou sur le [site de la DB](https://bahn.de) si des billets de réseau sont vendus pour un trajet. Ceux-ci sont indiqués comme _Verbund-Angebote_, avec le logo et sous les offres du \[nom du réseau\].
 {{% /highlight %}}
