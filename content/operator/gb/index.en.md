@@ -125,11 +125,11 @@ Some Elizabeth Line stations are also served by London Underground lines. Ticket
 {{% /train-category %}}
 
 {{% train-category
-id="gatwick-express"
-title="Gatwick Express (GX)"
-type="regional"
-fip_accepted=true
-reservation_possible=false
+  id="gatwick-express"
+  title="Gatwick Express (GX)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
 %}}
 
 Gatwick Express is a fast direct connection between London Victoria and Gatwick Airport.

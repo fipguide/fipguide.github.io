@@ -118,6 +118,10 @@ East Midlands Railway verbindet London mit den East Midlands und Yorkshire im Re
 
 Die Elizabeth Line bietet durchgehende S-Bahn-Verbindungen von Ost- nach West-London und ergänzt das städtische Nahverkehrsnetz.
 
+{{% highlight tip %}}
+Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
