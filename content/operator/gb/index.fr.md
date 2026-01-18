@@ -52,7 +52,7 @@ En première classe, des snacks, repas et boissons (alcoolisées) sont servis. \
   reservation_possible=false
 %}}
 
-c2c relie London Fenchurch Street à des villes du South Essex, principalement pour les navetteurs. \
+c2c relie London Fenchurch Street à des villes du South Essex, principalement pour les navetteurs.
 
 {{% /train-category %}}
 
@@ -77,7 +77,7 @@ Le Caledonian Sleeper est un train de nuit entre Londres et l’Écosse avec voi
   reservation_possible=false
 %}}
 
-Chiltern Railways propose des liaisons régionales entre London Marylebone, Birmingham et Aylesbury. \
+Chiltern Railways propose des liaisons régionales entre London Marylebone, Birmingham et Aylesbury.
 
 {{% /train-category %}}
 
@@ -92,7 +92,7 @@ Chiltern Railways propose des liaisons régionales entre London Marylebone, Birm
 
 CrossCountry propose des liaisons longue distance entre le nord-est, le centre et le sud-ouest de l’Angleterre, ainsi que l’Écosse et le Pays de Galles. Les trains relient notamment Aberdeen, Birmingham, Bristol, Cardiff, Manchester et Penzance, desservant de nombreuses régions en dehors des lignes principales.
 
-En première classe, des snacks, repas et boissons (alcoolisées) sont parfois servis. \
+En première classe, des snacks, repas et boissons (alcoolisées) sont parfois servis.
 
 {{% /train-category %}}
 
@@ -105,7 +105,7 @@ En première classe, des snacks, repas et boissons (alcoolisées) sont parfois s
   reservation_possible=partially
 %}}
 
-East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic régional et longue distance. \
+East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic régional et longue distance.
 
 {{% /train-category %}}
 
@@ -117,7 +117,7 @@ East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic 
   reservation_possible=false
 %}}
 
-La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain. \
+La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain.
 
 {{% /train-category %}}
 
@@ -129,7 +129,7 @@ La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à
   reservation_possible=false
 %}}
 
-Gatwick Express est une liaison rapide et directe entre London Victoria et l’aéroport de Gatwick. \
+Gatwick Express est une liaison rapide et directe entre London Victoria et l’aéroport de Gatwick.
 
 {{% /train-category %}}
 
@@ -144,7 +144,7 @@ Gatwick Express est une liaison rapide et directe entre London Victoria et l’a
 
 Grand Central propose des liaisons directes entre London King’s Cross, le Yorkshire et le nord-est de l’Angleterre, notamment Sunderland, Bradford et York.
 
-En première classe, des snacks et boissons sont servis. \
+En première classe, des snacks et boissons sont servis.
 
 {{% /train-category %}}
 
@@ -156,7 +156,7 @@ En première classe, des snacks et boissons sont servis. \
   reservation_possible=false
 %}}
 
-Great Northern propose des liaisons pour navetteurs de Londres vers le Hertfordshire, le Cambridgeshire et au-delà. \
+Great Northern propose des liaisons pour navetteurs de Londres vers le Hertfordshire, le Cambridgeshire et au-delà.
 
 {{% /train-category %}}
 
@@ -170,7 +170,7 @@ Great Northern propose des liaisons pour navetteurs de Londres vers le Hertfords
 
 Greater Anglia relie London Liverpool Street aux comtés de l’est de l’Angleterre et à Norwich.
 
-En première classe, snacks et boissons du café à bord peuvent être retirés gratuitement. \
+En première classe, snacks et boissons du café à bord peuvent être retirés gratuitement.
 
 {{% /train-category %}}
 
@@ -189,7 +189,7 @@ En première classe, snacks et boissons sont servis.
 
 GWR exploite aussi un train de nuit de Londres à Penzance – le Night Riviera Sleeper, avec réservation obligatoire. Les Coupons FIP doivent seulement être valables le jour d’arrivée.[^1]
 
-La réservation pour ce train ne peut pas se faire en ligne. \
+La réservation pour ce train ne peut pas se faire en ligne.
 
 {{% highlight important %}}
 Réservation obligatoire pour le Night Riviera Sleeper.
@@ -205,7 +205,7 @@ Réservation obligatoire pour le Night Riviera Sleeper.
   reservation_possible=false
 %}}
 
-Heathrow Express propose une liaison rapide et directe entre London Paddington et l’aéroport d’Heathrow en environ 15 minutes. \
+Heathrow Express propose une liaison rapide et directe entre London Paddington et l’aéroport d’Heathrow en environ 15 minutes.
 
 {{% /train-category %}}
 
@@ -218,7 +218,7 @@ Heathrow Express propose une liaison rapide et directe entre London Paddington e
   reservation_required=false
 %}}
 
-Hull Trains propose des liaisons directes entre London King’s Cross et les principales villes du Yorkshire, dont Hull, Doncaster et Selby. \
+Hull Trains propose des liaisons directes entre London King’s Cross et les principales villes du Yorkshire, dont Hull, Doncaster et Selby.
 
 {{% /train-category %}}
 
@@ -233,7 +233,7 @@ Hull Trains propose des liaisons directes entre London King’s Cross et les pri
 
 LNER exploite des trains longue distance sur la côte est entre Londres, Édimbourg et York.
 
-En première classe, snacks, repas et boissons (alcoolisées) sont servis. \
+En première classe, snacks, repas et boissons (alcoolisées) sont servis.
 
 {{% /train-category %}}
 
@@ -245,7 +245,7 @@ En première classe, snacks, repas et boissons (alcoolisées) sont servis. \
   reservation_possible=false
 %}}
 
-London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres. \
+London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres.
 
 {{% /train-category %}}
 
@@ -258,7 +258,7 @@ London Overground complète le réseau du métro comme un réseau suburbain et p
   reservation_required=false
 %}}
 
-Lumo exploite des trains longue distance entre London King’s Cross, Newcastle et Édimbourg. \
+Lumo exploite des trains longue distance entre London King’s Cross, Newcastle et Édimbourg.
 
 {{% /train-category %}}
 
@@ -270,7 +270,7 @@ Lumo exploite des trains longue distance entre London King’s Cross, Newcastle 
   reservation_possible=false
 %}}
 
-Merseyrail exploite le réseau local de Liverpool et de la région de Merseyside. \
+Merseyrail exploite le réseau local de Liverpool et de la région de Merseyside.
 
 {{% /train-category %}}
 
@@ -282,7 +282,7 @@ Merseyrail exploite le réseau local de Liverpool et de la région de Merseyside
   reservation_possible=false
 %}}
 
-Northern exploite des trains régionaux dans le nord de l’Angleterre, des grandes villes aux régions rurales. \
+Northern exploite des trains régionaux dans le nord de l’Angleterre, des grandes villes aux régions rurales.
 
 {{% /train-category %}}
 
@@ -294,7 +294,7 @@ Northern exploite des trains régionaux dans le nord de l’Angleterre, des gran
   reservation_possible=false
 %}}
 
-La Island Line circule sur l’île de Wight et est exploitée par South Western Railway. \
+La Island Line circule sur l’île de Wight et est exploitée par South Western Railway.
 
 {{% /train-category %}}
 
@@ -307,7 +307,7 @@ La Island Line circule sur l’île de Wight et est exploitée par South Western
   reservation_required=partially
 %}}
 
-ScotRail couvre tout le réseau régional écossais, y compris les Highlands et la côte ouest. \
+ScotRail couvre tout le réseau régional écossais, y compris les Highlands et la côte ouest.
 
 {{% /train-category %}}
 
@@ -319,7 +319,7 @@ ScotRail couvre tout le réseau régional écossais, y compris les Highlands et 
   reservation_possible=false
 %}}
 
-South Western Railway relie London Waterloo au sud-ouest de l’Angleterre et exploite de nombreuses lignes pour navetteurs. \
+South Western Railway relie London Waterloo au sud-ouest de l’Angleterre et exploite de nombreuses lignes pour navetteurs.
 
 {{% /train-category %}}
 
@@ -331,7 +331,7 @@ South Western Railway relie London Waterloo au sud-ouest de l’Angleterre et ex
   reservation_possible=false
 %}}
 
-Southeastern Railway propose des liaisons pour navetteurs et régionales de Londres vers le Kent et le sud-est de l’Angleterre. \
+Southeastern Railway propose des liaisons pour navetteurs et régionales de Londres vers le Kent et le sud-est de l’Angleterre.
 
 {{% /train-category %}}
 
@@ -343,7 +343,7 @@ Southeastern Railway propose des liaisons pour navetteurs et régionales de Lond
   reservation_possible=false
 %}}
 
-Southern exploite des trains régionaux et pour navetteurs entre Londres, le Sussex et le Surrey. \
+Southern exploite des trains régionaux et pour navetteurs entre Londres, le Sussex et le Surrey.
 
 {{% /train-category %}}
 
@@ -355,7 +355,7 @@ Southern exploite des trains régionaux et pour navetteurs entre Londres, le Sus
   reservation_possible=false
 %}}
 
-Stansted Express est la liaison rapide et directe entre London Liverpool Street et l’aéroport de Stansted. \
+Stansted Express est la liaison rapide et directe entre London Liverpool Street et l’aéroport de Stansted.
 
 {{% /train-category %}}
 
@@ -367,7 +367,7 @@ Stansted Express est la liaison rapide et directe entre London Liverpool Street 
   reservation_possible=false
 %}}
 
-Thameslink propose des liaisons nord-sud continues à travers Londres et relie des villes comme Bedford, Luton, St Albans, Londres, Gatwick Airport, Brighton, Cambridge et Peterborough. Les trains circulent 24h/24 et desservent des points de correspondance importants ainsi que plusieurs gares londoniennes, dont St Pancras International, London Bridge et Blackfriars. Thameslink est particulièrement adapté pour les trajets vers les aéroports de Gatwick et Luton ainsi que pour les liaisons entre les banlieues nord et sud de Londres. \
+Thameslink propose des liaisons nord-sud continues à travers Londres et relie des villes comme Bedford, Luton, St Albans, Londres, Gatwick Airport, Brighton, Cambridge et Peterborough. Les trains circulent 24h/24 et desservent des points de correspondance importants ainsi que plusieurs gares londoniennes, dont St Pancras International, London Bridge et Blackfriars. Thameslink est particulièrement adapté pour les trajets vers les aéroports de Gatwick et Luton ainsi que pour les liaisons entre les banlieues nord et sud de Londres.
 
 {{% /train-category %}}
 
@@ -382,7 +382,7 @@ Thameslink propose des liaisons nord-sud continues à travers Londres et relie d
 
 TransPennine Express relie le nord-ouest et le nord-est de l’Angleterre ainsi que l’Écosse via les Pennines.
 
-En première classe, snacks, repas et boissons (alcoolisées) sont parfois servis. \
+En première classe, snacks, repas et boissons (alcoolisées) sont parfois servis.
 
 {{% /train-category %}}
 
@@ -394,7 +394,7 @@ En première classe, snacks, repas et boissons (alcoolisées) sont parfois servi
   reservation_possible=false
 %}}
 
-Transport for Wales exploite des trains régionaux et longue distance au Pays de Galles et dans les régions frontalières de l’Angleterre. \
+Transport for Wales exploite des trains régionaux et longue distance au Pays de Galles et dans les régions frontalières de l’Angleterre.
 
 {{% /train-category %}}
 
@@ -406,7 +406,7 @@ Transport for Wales exploite des trains régionaux et longue distance au Pays de
   reservation_possible=false
 %}}
 
-West Midlands Trains exploite des liaisons locales et régionales sous deux marques : London Northwestern Railway propose des liaisons entre Londres et les West Midlands, tandis que West Midlands Railway dessert les lignes régionales au sein des West Midlands. \
+West Midlands Trains exploite des liaisons locales et régionales sous deux marques : London Northwestern Railway propose des liaisons entre Londres et les West Midlands, tandis que West Midlands Railway dessert les lignes régionales au sein des West Midlands.
 
 {{% /train-category %}}
 

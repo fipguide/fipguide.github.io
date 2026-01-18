@@ -39,7 +39,7 @@ There are no classic train categories in Great Britain. Instead, services are op
 
 Avanti West Coast offers fast long-distance connections along the West Coast of Great Britain, including London, Manchester, and Glasgow.
 
-In First Class, snacks, meals, and (alcoholic) drinks are served. \
+In First Class, snacks, meals, and (alcoholic) drinks are served.
 
 {{% /train-category %}}
 
@@ -51,7 +51,7 @@ In First Class, snacks, meals, and (alcoholic) drinks are served. \
   reservation_possible=false
 %}}
 
-c2c connects London Fenchurch Street with towns in South Essex, mainly serving commuters. \
+c2c connects London Fenchurch Street with towns in South Essex, mainly serving commuters.
 
 {{% /train-category %}}
 
@@ -76,7 +76,7 @@ The Caledonian Sleeper is a night train between London and Scotland with sleepin
   reservation_possible=false
 %}}
 
-Chiltern Railways offers regional connections between London Marylebone, Birmingham, and Aylesbury. \
+Chiltern Railways offers regional connections between London Marylebone, Birmingham, and Aylesbury.
 
 {{% /train-category %}}
 
@@ -91,7 +91,7 @@ Chiltern Railways offers regional connections between London Marylebone, Birming
 
 CrossCountry offers long-distance connections between northeast, central, and southwest England, as well as Scotland and Wales. Trains connect cities such as Aberdeen, Birmingham, Bristol, Cardiff, Manchester, and Penzance, serving many regions beyond the main lines.
 
-In First Class, snacks, meals, and (alcoholic) drinks are sometimes served. \
+In First Class, snacks, meals, and (alcoholic) drinks are sometimes served.
 
 {{% /train-category %}}
 
@@ -104,7 +104,7 @@ In First Class, snacks, meals, and (alcoholic) drinks are sometimes served. \
   reservation_possible=partially
 %}}
 
-East Midlands Railway connects London with the East Midlands and Yorkshire in regional and long-distance services. \
+East Midlands Railway connects London with the East Midlands and Yorkshire in regional and long-distance services.
 
 {{% /train-category %}}
 
@@ -116,7 +116,7 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
   reservation_possible=false
 %}}
 
-The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. \
+The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network.
 
 {{% /train-category %}}
 
@@ -128,7 +128,7 @@ The Elizabeth Line offers continuous suburban connections from east to west Lond
   reservation_possible=false
 %}}
 
-Gatwick Express is a fast direct connection between London Victoria and Gatwick Airport. \
+Gatwick Express is a fast direct connection between London Victoria and Gatwick Airport.
 
 {{% /train-category %}}
 
@@ -143,7 +143,7 @@ Gatwick Express is a fast direct connection between London Victoria and Gatwick 
 
 Grand Central offers direct connections between London King’s Cross, Yorkshire, and northeast England, including Sunderland, Bradford, and York.
 
-In First Class, snacks and drinks are served. \
+In First Class, snacks and drinks are served.
 
 {{% /train-category %}}
 
@@ -155,7 +155,7 @@ In First Class, snacks and drinks are served. \
   reservation_possible=false
 %}}
 
-Great Northern offers commuter connections from London to Hertfordshire, Cambridgeshire, and beyond. \
+Great Northern offers commuter connections from London to Hertfordshire, Cambridgeshire, and beyond.
 
 {{% /train-category %}}
 
@@ -169,7 +169,7 @@ Great Northern offers commuter connections from London to Hertfordshire, Cambrid
 
 Greater Anglia runs from London Liverpool Street to the eastern counties of England and Norwich.
 
-In First Class, snacks and drinks from the onboard café can be collected free of charge. \
+In First Class, snacks and drinks from the onboard café can be collected free of charge.
 
 {{% /train-category %}}
 
@@ -188,7 +188,7 @@ In First Class, snacks and drinks are served.
 
 GWR also operates a night train from London to Penzance – the Night Riviera Sleeper, which requires a reservation. FIP Coupons only need to be valid for the day of arrival.[^1]
 
-Reservations for this train cannot be made online. \
+Reservations for this train cannot be made online.
 
 {{% highlight important %}}
 Reservations are required for the Night Riviera Sleeper.
@@ -204,7 +204,7 @@ Reservations are required for the Night Riviera Sleeper.
   reservation_possible=false
 %}}
 
-Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. \
+Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes.
 
 {{% /train-category %}}
 
@@ -217,7 +217,7 @@ Heathrow Express offers a fast nonstop connection between London Paddington and 
   reservation_required=false
 %}}
 
-Hull Trains offers direct connections between London King’s Cross and major cities in Yorkshire, including Hull, Doncaster, and Selby. \
+Hull Trains offers direct connections between London King’s Cross and major cities in Yorkshire, including Hull, Doncaster, and Selby.
 
 {{% /train-category %}}
 
@@ -232,7 +232,7 @@ Hull Trains offers direct connections between London King’s Cross and major ci
 
 LNER operates long-distance trains along the East Coast from London to Edinburgh and York.
 
-In First Class, snacks, meals, and (alcoholic) drinks are served. \
+In First Class, snacks, meals, and (alcoholic) drinks are served.
 
 {{% /train-category %}}
 
@@ -244,7 +244,7 @@ In First Class, snacks, meals, and (alcoholic) drinks are served. \
   reservation_possible=false
 %}}
 
-London Overground complements the Underground network as a kind of suburban railway, offering wide-area local connections in London. \
+London Overground complements the Underground network as a kind of suburban railway, offering wide-area local connections in London.
 
 {{% /train-category %}}
 
@@ -257,7 +257,7 @@ London Overground complements the Underground network as a kind of suburban rail
   reservation_required=false
 %}}
 
-Lumo operates long-distance trains between London King’s Cross, Newcastle, and Edinburgh. \
+Lumo operates long-distance trains between London King’s Cross, Newcastle, and Edinburgh.
 
 {{% /train-category %}}
 
@@ -269,7 +269,7 @@ Lumo operates long-distance trains between London King’s Cross, Newcastle, and
   reservation_possible=false
 %}}
 
-Merseyrail operates the local transport network in Liverpool and the Merseyside region. \
+Merseyrail operates the local transport network in Liverpool and the Merseyside region.
 
 {{% /train-category %}}
 
@@ -281,7 +281,7 @@ Merseyrail operates the local transport network in Liverpool and the Merseyside 
   reservation_possible=false
 %}}
 
-Northern operates regional trains in northern England, from major cities to rural areas. \
+Northern operates regional trains in northern England, from major cities to rural areas.
 
 {{% /train-category %}}
 
@@ -293,7 +293,7 @@ Northern operates regional trains in northern England, from major cities to rura
   reservation_possible=false
 %}}
 
-The Island Line runs on the Isle of Wight and is operated by South Western Railway. \
+The Island Line runs on the Isle of Wight and is operated by South Western Railway.
 
 {{% /train-category %}}
 
@@ -306,7 +306,7 @@ The Island Line runs on the Isle of Wight and is operated by South Western Railw
   reservation_required=partially
 %}}
 
-ScotRail covers the entire Scottish regional network, including the Highlands and the west coast. \
+ScotRail covers the entire Scottish regional network, including the Highlands and the west coast.
 
 {{% /train-category %}}
 
@@ -318,7 +318,7 @@ ScotRail covers the entire Scottish regional network, including the Highlands an
   reservation_possible=false
 %}}
 
-South Western Railway connects London Waterloo with southwest England and operates many commuter routes. \
+South Western Railway connects London Waterloo with southwest England and operates many commuter routes.
 
 {{% /train-category %}}
 
@@ -330,7 +330,7 @@ South Western Railway connects London Waterloo with southwest England and operat
   reservation_possible=false
 %}}
 
-Southeastern Railway offers commuter and regional services from London to Kent and southeast England. \
+Southeastern Railway offers commuter and regional services from London to Kent and southeast England.
 
 {{% /train-category %}}
 
@@ -342,7 +342,7 @@ Southeastern Railway offers commuter and regional services from London to Kent a
   reservation_possible=false
 %}}
 
-Southern operates regional and commuter trains between London, Sussex, and Surrey. \
+Southern operates regional and commuter trains between London, Sussex, and Surrey.
 
 {{% /train-category %}}
 
@@ -354,7 +354,7 @@ Southern operates regional and commuter trains between London, Sussex, and Surre
   reservation_possible=false
 %}}
 
-Stansted Express is the fast direct connection between London Liverpool Street and Stansted Airport. \
+Stansted Express is the fast direct connection between London Liverpool Street and Stansted Airport.
 
 {{% /train-category %}}
 
@@ -366,7 +366,7 @@ Stansted Express is the fast direct connection between London Liverpool Street a
   reservation_possible=false
 %}}
 
-Thameslink offers continuous north-south connections through London, linking cities such as Bedford, Luton, St Albans, London, Gatwick Airport, Brighton, Cambridge, and Peterborough. Trains run around the clock and serve key interchange points and several London stations, including St Pancras International, London Bridge, and Blackfriars. Thameslink is especially suitable for journeys to Gatwick and Luton airports and for connections between northern and southern London suburbs. \
+Thameslink offers continuous north-south connections through London, linking cities such as Bedford, Luton, St Albans, London, Gatwick Airport, Brighton, Cambridge, and Peterborough. Trains run around the clock and serve key interchange points and several London stations, including St Pancras International, London Bridge, and Blackfriars. Thameslink is especially suitable for journeys to Gatwick and Luton airports and for connections between northern and southern London suburbs.
 
 {{% /train-category %}}
 
@@ -381,7 +381,7 @@ Thameslink offers continuous north-south connections through London, linking cit
 
 TransPennine Express connects northwest and northeast England as well as Scotland via the Pennines.
 
-In First Class, snacks, meals, and (alcoholic) drinks are sometimes served. \
+In First Class, snacks, meals, and (alcoholic) drinks are sometimes served.
 
 {{% /train-category %}}
 
@@ -393,7 +393,7 @@ In First Class, snacks, meals, and (alcoholic) drinks are sometimes served. \
   reservation_possible=false
 %}}
 
-Transport for Wales operates regional and long-distance trains in Wales and the bordering regions of England. \
+Transport for Wales operates regional and long-distance trains in Wales and the bordering regions of England.
 
 {{% /train-category %}}
 
@@ -405,7 +405,7 @@ Transport for Wales operates regional and long-distance trains in Wales and the 
   reservation_possible=false
 %}}
 
-West Midlands Trains operates local and regional services under two brands: London Northwestern Railway offers connections between London and the West Midlands, while West Midlands Railway serves regional routes within the West Midlands. \
+West Midlands Trains operates local and regional services under two brands: London Northwestern Railway offers connections between London and the West Midlands, while West Midlands Railway serves regional routes within the West Midlands.
 
 {{% /train-category %}}
 
