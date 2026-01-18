@@ -35,27 +35,18 @@ _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
 {{% /highlight %}}
 
-{{% satellite %}}
+{{% booking-section "fip_50" %}}
+
+## FIP 50/75 Tickets
+
+SNCF sells tickets with a 50% FIP discount.
 
 If the staff on the phone is unsure which fare code to use, you can refer them to the following fare codes:[^1]
 
-**Reservations:**
-
-- FIP Coupon — CF70: Reservation purchase only.
-- FIP Coupon — CF71: Upgrade the FIP Coupon reservation to 1st class.
-
-**FIP 50/75 Tickets:**
-
-- FIP Card for active employees and their dependents (except GB National Rail), retirees — CF52: FIP 50 Ticket (50% discount) + mandatory reservation on trains.
-- FIP Card for active employees and their dependents (except GB National Rail), retirees — CF54: Upgrade with FIP 50 Ticket to 1st class + mandatory reservation on trains.
-- FIP Card for active employees and their dependents (GB National Rail only) — CF77: FIP 75 Ticket (75% discount) + mandatory reservation on trains.
-- FIP Card for active employees and their dependents (GB National Rail only) — CF78: Upgrade with FIP 75 Ticket to 1st class + mandatory reservation on trains.
-
-{{% booking-section "fip_50" %}}
-
-## FIP 50 Tickets
-
-SNCF sells tickets with a 50% FIP discount.
+- active employees and their dependents (except GB National Rail), retirees — CF52: FIP 50 Ticket (50% discount) + mandatory reservation on trains.
+- active employees and their dependents (except GB National Rail), retirees — CF54: Upgrade with FIP 50 Ticket to 1st class + mandatory reservation on trains.
+- active employees and their dependents (GB National Rail only) — CF77: FIP 75 Ticket (75% discount) + mandatory reservation on trains.
+- active employees and their dependents (GB National Rail only) — CF78: Upgrade with FIP 75 Ticket to 1st class + mandatory reservation on trains.
 
 {{% /booking-section %}}
 
@@ -65,4 +56,13 @@ SNCF sells tickets with a 50% FIP discount.
 
 SNCF sells reservations for long-distance trains.
 
+If the staff on the phone is unsure which fare code to use, you can refer them to the following fare codes:[^1]
+
+- FIP Coupon — CF70: Reservation purchase only.
+- FIP Coupon — CF71: Upgrade the FIP Coupon reservation to 1st class.
+
 {{% /booking-section %}}
+
+{{% satellite %}}
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
