@@ -13,18 +13,18 @@
     <div class="m-team-member">
       <img src="{{ .image }}" alt="{{ $name }}" class="m-team-member__image" />
       <div class="m-team-member__info">
-        {{- if .link -}}
-          <a
-            href="{{ .link }}"
-            class="m-team-member__name o-link__external"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            {{- $name -}}{{- partial "icon" "arrow_outward" -}}
-          </a>
-        {{- else -}}
-          <div class="m-team-member__name">{{ $name }}</div>
-        {{- end -}}
+        <div class="m-team-member__name">
+          {{- if .link -}}
+            {{ partial "link"
+              (dict
+              "Destination" .link
+              "Text" $name
+              )
+            }}
+          {{- else -}}
+            {{ $name }}
+          {{- end -}}
+        </div>
         <div class="m-team-member__position">{{ $position }}</div>
       </div>
     </div>

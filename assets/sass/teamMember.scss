@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 2rem;
-  margin: 3rem 0;
+  margin: 2rem 0;
 
   @media (max-width: #{$breakpoint-md}) {
     grid-template-columns: 1fr;
@@ -43,12 +43,10 @@
     line-height: 1.3;
     word-wrap: break-word;
 
-    &.o-link__external {
+    > a {
       text-decoration: none;
-      color: var(--link-default);
 
       &:hover {
-        color: var(--link-hovered);
         text-decoration: underline;
       }
     }

@@ -6,7 +6,7 @@ description: "Lerne das Team hinter der FIP Guide Website kennen und entdecke, w
 {{% float-image
     src="image.webp"
     alt="Das FIP Guide Team"
-    caption="Das FIP Guide Team von links nach rechts: Robert Schuster, Lennart Rommeiß, Moritz Weber, Willy Schreiter"
+    caption="Das FIP Guide Team von links nach rechts: Robert Schuster, Lennart Rommeiß, Moritz Weber, Willy Schreiter. 📷 Toni Arndt"
     width="50%"
     position="right"
 %}}
@@ -24,4 +24,4 @@ Um individuellen Fragen bestmöglich zu begegnen, betreiben wir zusätzlich die 
 {{% team-members %}}
 
 Doch ohne unsere großartige [Community](https://discord.gg/5nWS9Eu9zz) wäre das Projekt nicht dort, wo es heute steht. Daher ein herzliches Dankeschön an alle, die uns unterstützen – sei es durch Übersetzungen, Feedback oder das Teilen wertvoller Informationen zur Nutzung von FIP!
-Besonderen Dank gilt dabei Toni Arndt sowie Kollegen und Kolleginnen der DB, SNCF, PKP und ČD für zahlreichriche inhaltliche Unterstützungen.
+Besonderen Dank gilt dabei Toni Arndt sowie Kolleg:innen der DB, SNCF, PKP und ČD für zahlreiche inhaltliche Unterstützung.
