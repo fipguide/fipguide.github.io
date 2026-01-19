@@ -1,0 +1,11 @@
+{{- $url := .Get "url" -}}
+{{- $text := .Get "text" -}}
+{{- $arialabel := .Get "arialabel" -}}
+
+{{- partial "link"
+  (dict
+  "Destination" $url
+  "Text" $text
+  "Arialabel" $arialabel
+  )
+-}}
