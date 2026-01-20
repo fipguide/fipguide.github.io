@@ -16,7 +16,7 @@ La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise e
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
 Billets FIP 50 : ✅ \
 Tarif Global FIP : ✅ (uniquement pour le train Celta)
 

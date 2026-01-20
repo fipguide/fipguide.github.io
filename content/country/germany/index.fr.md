@@ -204,6 +204,17 @@ Pour la section autrichienne, un Coupon FIP ÖBB est requis.
 
 Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP ÖBB et DB ou un billet FIP 50 valable sur tout le trajet.
 
+#### Außenfernbahn
+
+Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Pfronten-Steinach via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
+
+- trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
+- trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
+
+Les trajets purement internes à l’Autriche (départ et arrivée en Autriche) sont exclus. Les Coupons FIP de l’ÖBB ne sont valables pour aucun trajet sur cette ligne.
+
+Les règles sont analogues à celles du Deutschlandticket ou de la Bahncard 100. [^2] [^3]
+
 ### Pologne
 
 Depuis la Pologne, il existe plusieurs possibilités pour rejoindre le réseau ferroviaire allemand. Le point frontière le plus utilisé est Francfort (Oder). Des trains Eurocity circulent toutes les 2 heures entre Berlin et Varsovie via ce point. On trouve également des liaisons directes entre Berlin et Gdynia / Cracovie / Przemyśl dans les horaires.
@@ -257,3 +268,7 @@ Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est �
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [Conditions de transport DB Regio Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^3]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)

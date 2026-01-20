@@ -20,7 +20,7 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 Coupon FIP : ⛔ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ⛔ \
 Tarif Global FIP : ✅
 

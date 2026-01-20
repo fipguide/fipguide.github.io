@@ -41,9 +41,9 @@
           {{- end -}}
         {{- end -}}
       </div>
-      {{- if or (and .classes (ne .reservations "nil")) (ne .fee "nil") -}}
+      {{- if or (and (ne .reservations "nil") (ne .reservations false) .classes) (ne .fee "nil") -}}
         <div class="o-booking__classes">
-          {{- if and (ne .reservations "nil") .classes -}}
+          {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
             <span class="o-booking__classes-title"
               >{{ T "booking.reservation-costs" }}</span
             >
