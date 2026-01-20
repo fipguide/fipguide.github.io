@@ -53,7 +53,9 @@ En plus des trains grandes lignes, quelques trains régionaux circulent égaleme
 
 Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
 
-Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables. Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
+Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables.
+
+Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
 
 ### Lituanie
 

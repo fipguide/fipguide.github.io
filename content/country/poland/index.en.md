@@ -53,7 +53,9 @@ In addition to the long-distance trains, there are also individual regional trai
 
 Exclusively in long-distance traffic, the Horka border crossing has also been used since December 2025 for direct trains between Leipzig and Wrocław, Krakow to Przemyśl. These `EC` trains can also be used with PKP FIP Tickets plus ticket for the DB section.
 
-The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for the border crossings mentioned above, so FIP Tickets from PKP plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section PKP FIP Tickets should be valid. A special feature is the Zgorzelec border crossing, here no ticket is required for the section between German Görlitz and Zgorzelec station.
+The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for the border crossings mentioned above, so FIP Tickets from PKP plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section PKP FIP Tickets should be valid.
+
+A special feature is the Zgorzelec border crossing, here no ticket is required for the section between German Görlitz and Zgorzelec station.
 
 ### Lithuania
 
