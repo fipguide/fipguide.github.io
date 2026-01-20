@@ -5,7 +5,6 @@ description: "Buchungsinformationen für die Koleje Dolnośląskie Ticketschalte
 
 params:
   fip_50: true
-  reservations: false
   additional_info_link: "https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/kasy-biletowe/"
   type: "onsite"
 ---

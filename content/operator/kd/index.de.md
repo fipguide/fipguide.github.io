@@ -1,12 +1,14 @@
 ---
 draft: false
-title: "Koleje Dolnośląskie"
+title: "KD"
 country:
   - "poland"
 operator: "kd"
 ---
 
 Die Koleje Dolnośląskie, kurz KD, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Niederschlesien anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
+
+Auf ihrer Website bietet die KD eine [Übersichtskarte der Strecken](https://kolejedolnoslaskie.pl/wp-content/uploads/2025/12/Schemat-UMWD-2025-2026-1.1.pdf) an.
 
 ## Zusammenfassung
 
@@ -22,7 +24,7 @@ FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KD gültig.
 
-Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber in den zwei Ländern vorhanden sein. Eine Ausnahme besteht zwischen Görlitz und Zgorzelec, auf der kein extra Ticket benötigt wird.
+Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber in den zwei Ländern vorhanden sein. Eine Ausnahme besteht zwischen Görlitz und Zgorzelec, auf der kein extra Ticket benötigt wird. (siehe [Züge zwischen Zgorzelec und Görlitz](#züge-zwischen-zgorzelec-und-görlitz))
 
 ## Zugkategorien und Reservierungen
 
@@ -35,10 +37,11 @@ Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben me
 {{% booking id="kd-website"
     subtitle="Für nationale Verbindungen"
 %}}
-FIP 50 Tickets können nur für nationale Verbindungen verkauft werden. Wenn eine grenzüberschreitende Verbindung angegeben wird, findet der FIP 50 Rabatt nur für den polnischen Abschnitt Anwendung.
+FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
+    reservations=nil
     subtitle="Für nationale Verbindungen"
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
@@ -47,10 +50,12 @@ Alternativ kann auch über die [Website von Polregio](https://bilety.polregio.pl
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
+    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 {{% booking id="db-website-fip-international"
+    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
@@ -58,7 +63,7 @@ Alternativ kann auch über die [Website von Polregio](https://bilety.polregio.pl
 
 {{% booking id="kd-ticket-office"/%}}
 
-{{% booking id="db-ticket-office"/%}}
+{{% booking id="db-ticket-office" reservations=nil /%}}
 
 ### Im Zug
 

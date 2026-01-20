@@ -5,7 +5,6 @@ description: "Buchungsinformationen für die Koleje Dolnośląskie Website."
 
 params:
   fip_50: true
-  reservations: false
   booking_link: "https://kolejedolnoslaskie.pl/"
   type: "website"
 ---

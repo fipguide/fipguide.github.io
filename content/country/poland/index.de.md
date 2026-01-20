@@ -14,7 +14,7 @@ params:
 
 Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
 
-- Koleje Dolnośląskie (KD)
+- [Koleje Dolnośląskie (KD)](/operator/kd)
 - Koleje Śląskie (KS)
 - Koleje Wielkopolskie (KW)
 - Łódzka Kolej Aglomeracyjna (ŁKA)
@@ -51,7 +51,9 @@ Von Deutschland aus kann über mehrere Wege das polnische Netz erreicht werden. 
 
 Neben den Fernzügen kommen noch etwa alle 2 Stunden Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können. Im Fernverkehr wird voraussichtlich ab Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau / Krakau genutzt.
 
-Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei Frankfurt (Oder), also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein. Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
+Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei Frankfurt (Oder), also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein.
+
+Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
 
 ### Litauen
 
