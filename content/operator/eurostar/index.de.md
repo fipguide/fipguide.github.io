@@ -41,8 +41,7 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa \
 | Relation | Standard | Plus |
 | ----------- | -------- | ---- |
 | London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
-| Brüssel - Amsterdam / Rotterdam | ?€ / 15,50 £ | ?€ / 30,50 £ |
+| London - Amsterdam / Rotterdam | 51 € / 44,50 £ | 71 € / 62 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Red): Paris - Amsterdam / Brüssel / Köln / Dortmund ⚠️" traincategory category %}}
@@ -135,6 +134,13 @@ Alle FIP-Tarife unterliegen einer Kontingentierung, weshalb eine frühzeitige Bu
 {{% /highlight %}}
 
 Für Eurostar-Züge, die freitags, samstags und sonntags zwischen 17.30 Uhr und 19.00 Uhr abfahren, besteht das FIP-Angebot (1. Klasse und 2. Klasse) nicht. [^2]
+
+Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich:
+
+- [Interrail Website](https://www.interrail.eu/de/book-reservations) \
+  Nur zum Prüfen von Reservierungskontingenten. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
+- [Traivelling](https://traivelling.com/home) \
+  Angabe der Vergünstigung _FIP 50%_. Hier werden auch Tickets verkauft, zur Legitimität dieses Angebots können wir jedoch keine Aussage treffen.
 
 ### Anschlüsse
 

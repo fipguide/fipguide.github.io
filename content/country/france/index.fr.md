@@ -50,11 +50,11 @@ Depuis Folkestone, il existe également le train auto LeShuttle à travers le tu
 
 ### Belgique
 
-Depuis la Belgique, la SNCF exploite des trains internationaux `TGV` entre Bruxelles et Paris. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OUIGO entre Bruxelles et Paris, qui n’est pas accessible avec FIP.
+Au départ de la Belgique, la SNCF exploite des trains internationaux `TGV` depuis Bruxelles vers Lyon, Marseille, Rennes, Nantes et Strasbourg. Pour ces trains, il est nécessaire d’acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe également une liaison OUIGO entre Bruxelles et Paris, mais celle-ci n’est pas accessible avec FIP.
 
-Alternativement, des trains [Eurostar](/operator/eurostar "Eurostar") relient Bruxelles à Paris, accessibles avec des billets au Tarif Global FIP, généralement moins chers que les `TGV`.
+En alternative, des trains [Eurostar](/operator/eurostar "Eurostar") relient Bruxelles à Paris et peuvent aussi être utilisés avec des billets au Tarif Global FIP, généralement moins chers que ceux des trains `TGV`.
 
-Il existe aussi plusieurs liaisons régionales entre la Belgique et la France, accessibles avec FIP. Les Billets FIP 50 ainsi que la combinaison d’un Coupon FIP SNCB et SNCF sont valables.
+Il existe aussi différentes liaisons régionales `TER` entre la Belgique et la France, accessibles avec FIP. Par exemple, entre Namur et Lille ou entre Anvers et Lille. Les Billets FIP 50 classiques ainsi que la combinaison d’un Coupon FIP SNCB et d’un Coupon FIP SNCF sont valables sur ces liaisons.
 
 ### Luxembourg
 
@@ -79,11 +79,13 @@ Le Deutschlandticket, une option économique pour le trafic régional allemand, 
 
 ### Suisse
 
-Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "TGV inOui / ICE transfrontaliers").
+Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers](/operator/sncf#trains-tgv-inoui--ice-internationaux "TGV inOui / ICE internationaux").
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
 Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF.
+
+Les trains régionaux `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP SNCF.[^2]
 
 ### Italie
 
@@ -110,3 +112,5 @@ Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en
 Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
 
 [^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

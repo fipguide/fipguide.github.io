@@ -204,13 +204,26 @@ Pour la section autrichienne, un Coupon FIP ÖBB est requis.
 
 Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP ÖBB et DB ou un billet FIP 50 valable sur tout le trajet.
 
+#### Außenfernbahn
+
+Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Pfronten-Steinach via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
+
+- trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
+- trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
+
+Les trajets purement internes à l’Autriche (départ et arrivée en Autriche) sont exclus. Les Coupons FIP de l’ÖBB ne sont valables pour aucun trajet sur cette ligne.
+
+Les règles sont analogues à celles du Deutschlandticket ou de la Bahncard 100. [^2] [^3]
+
 ### Pologne
 
-Par le point frontière de Francfort (Oder), des Eurocity relient Varsovie à Berlin toutes les 2 heures en journée. Il existe aussi des trains directs entre Gdynia / Cracovie / Przemysl et Berlin.
+Depuis la Pologne, il existe plusieurs possibilités pour rejoindre le réseau ferroviaire allemand. Le point frontière le plus utilisé est Francfort (Oder). Des trains Eurocity circulent toutes les 2 heures entre Berlin et Varsovie via ce point. On trouve également des liaisons directes entre Berlin et Gdynia / Cracovie / Przemyśl dans les horaires.
 
-En plus des grandes lignes, des trains régionaux relient Rzepin / Zielona Góra à Francfort (Oder) toutes les 2 heures, utilisables avec des Coupons FIP PKP plus un billet pour la section DB. Depuis décembre 2025, la frontière de Horka est aussi utilisée pour des directs Leipzig – Wrocław / Cracovie. Une réservation est obligatoire dans tous les trains grandes lignes transfrontaliers.
+En plus des trains grandes lignes, quelques trains régionaux circulent entre Francfort (Oder) et Rzepin / Zielona Góra, qui peuvent être utilisés avec un Coupon FIP PKP ainsi qu’un billet pour la section allemande (DB), tout comme les trains `EC`.
 
-Les autres points frontières ne sont desservis qu’en régional. Pour Forst, Grambow, Guben et Tantow, même règle que Francfort (Oder) : Coupons FIP PKP plus billet pour la section DB. À Kostrzyn, l’opérateur allemand est la NEB, qui n’accepte pas le FIP, mais les Coupons FIP PKP sont valables côté polonais. Particularité à Zgorzelec : entre Görlitz et Zgorzelec, aucun billet n’est requis.
+Uniquement en trafic grandes lignes, le point frontière de Horka sera également utilisé à partir de décembre 2025 pour des trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains `EC` sont également accessibles avec un Coupon FIP PKP plus un billet pour la section DB.
+
+Les autres points frontières sont actuellement desservis uniquement en trafic régional. Pour les trains passant par Forst, Grambow, Gubin et Tantow, la même règle s’applique : il faut un Coupon FIP PKP ainsi qu’un billet pour la section allemande (DB). À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Coupons FIP ne sont pas valables ; pour la section polonaise, les Coupons FIP PKP devraient être acceptés. Une particularité concerne le point frontière de Zgorzelec : entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
 
 ### Tchéquie
 
@@ -255,3 +268,7 @@ Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est �
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [Conditions de transport DB Regio Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^3]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)

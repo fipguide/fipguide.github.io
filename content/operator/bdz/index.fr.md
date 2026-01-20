@@ -17,7 +17,7 @@ Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale d
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.

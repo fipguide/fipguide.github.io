@@ -21,7 +21,7 @@
   >
     {{ range $related }}
       <li class="o-related__item">
-        {{ $text := .LinkTitle }}
+        {{ $text := printf "<span>%s</span>" .LinkTitle }}
         {{ if eq .Page.Type "news" }}
           {{ $text = print (partial "icon" "newspaper") $text }}
         {{ else if or (eq .Page.Type "operator") (eq .Page.Type "booking") }}
@@ -29,11 +29,10 @@
         {{ else if eq .Page.Type "country" }}
           {{ $text = print (partial "flag" (dict "country" .File.ContentBaseName)) $text }}
         {{ end }}
-
         {{ partial "link" (
           dict
           "Destination" .RelPermalink
-          "Text" ($text | .Page.RenderString)
+          "Text" ($text | safeHTML)
           )
         }}
 

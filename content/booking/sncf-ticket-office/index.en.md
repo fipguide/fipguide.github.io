@@ -5,8 +5,8 @@ description: "Booking information for SNCF ticket offices."
 
 params:
   classes:
-    first: "€ 1.70 / € 15"
-    second: "€ 1.70 / € 10"
+    first: "2 € / 16 €"
+    second: "2 € / 11 €"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.garesetconnexions.sncf/en/stations-services"
@@ -17,9 +17,16 @@ SNCF ticket offices are called SNCF Connect Shops and can be found at all major 
 
 {{% booking-section "fip_50" %}}
 
-## FIP 50 Tickets
+## FIP 50/75 Tickets
 
 SNCF sells tickets with a 50% FIP discount at its ticket offices.
+
+If the staff at the ticket office are unsure which fare code to use, you can refer them to the following fare codes:[^1]
+
+- active employees and their dependents (except GB National Rail), retirees — CF52: FIP 50 Ticket (50% discount) + mandatory reservation on trains.
+- active employees and their dependents (except GB National Rail), retirees — CF54: Upgrade with FIP 50 Ticket to 1st class + mandatory reservation on trains.
+- active employees and their dependents (GB National Rail only) — CF77: FIP 75 Ticket (75% discount) + mandatory reservation on trains.
+- active employees and their dependents (GB National Rail only) — CF78: Upgrade with FIP 75 Ticket to 1st class + mandatory reservation on trains.
 
 {{% /booking-section %}}
 
@@ -29,4 +36,13 @@ SNCF sells tickets with a 50% FIP discount at its ticket offices.
 
 SNCF sells reservations for long-distance trains.
 
+If the staff at the ticket office are unsure which fare code to use, you can refer them to the following fare codes:[^1]
+
+- FIP Coupon — CF70: Reservation purchase only.
+- FIP Coupon — CF71: Upgrade the FIP Coupon reservation to 1st class.
+
 {{% /booking-section %}}
+
+{{% satellite %}}
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

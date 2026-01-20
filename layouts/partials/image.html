@@ -34,23 +34,34 @@
 {{- end -}}
 {{- $srcset = $srcset | append (printf "%s %dw" $image.RelPermalink $image.Width) -}}
 
-{{- $styles := slice -}}
+{{- $imgStyles := slice -}}
 {{- if and $image.Width $image.Height -}}
-  {{- $styles = $styles | append (printf "aspect-ratio: %d / %d" $image.Width $image.Height) -}}
+  {{- $imgStyles = $imgStyles | append (printf "aspect-ratio: %d / %d" $image.Width $image.Height) -}}
 {{- end -}}
+
+{{- $figStyles := slice -}}
 {{- if $width -}}
-  {{- $styles = $styles | append (printf "width: %s" $width) -}}
+  {{- $figStyles = $figStyles | append (printf "width: %s" $width) -}}
 {{- end -}}
 
 
-<img
-  src="{{ $image.RelPermalink }}"
-  alt="{{ .alt }}"
-  {{- if not .alt }}
-    data-decorative="true"
-  {{- end }}
-  loading="{{ $loading }}"
-  srcset="{{ delimit $srcset ", " }}"
-  sizes="(max-width: 576px) calc(100vw - 3.2rem), (max-width: 768px) 540px, (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px) 1140px, 1320px"
-  style="{{ delimit $styles "; " | safeCSS }}"
-/>
+<figure style="{{ delimit $figStyles "; " | safeCSS }}">
+  <img
+    src="{{ $image.RelPermalink }}"
+    alt="{{ .alt }}"
+    {{- if not .alt }}
+      data-decorative="true"
+    {{- end }}
+    loading="{{ $loading }}"
+    {{- with .fetchpriority -}}fetchpriority="{{ . }}"{{- end -}}
+    srcset="{{ delimit $srcset ", " }}"
+    sizes="(max-width: 576px) calc(100vw - 3.2rem), (max-width: 768px) 540px, (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px) 1140px, 1320px"
+    style="{{ delimit $imgStyles "; " | safeCSS }}"
+  />
+  {{- if .caption -}}
+    <hr aria-hidden="true" />
+    <figcaption>
+      {{ .caption }}
+    </figcaption>
+  {{- end -}}
+</figure>

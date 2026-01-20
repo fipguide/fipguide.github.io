@@ -204,13 +204,26 @@ For the Austrian section, a FIP Ticket from ÖBB is required.
 
 There are also some regional train connections, for which FIP Coupons from ÖBB and DB or a through FIP 50 Ticket are always required.
 
+#### Ausserfern Railway
+
+On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Pfronten-Steinach via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
+
+- Direct journeys from Germany via Austria back to Germany (transit travel)
+- Journeys that start or end in Germany (cross-border travel)
+
+Journeys that take place entirely within Austria (start and end in Austria) are excluded. ÖBB FIP Coupons are not valid for any journeys on this route.
+
+The rules are analogous to those for the Deutschlandticket or Bahncard 100. [^2] [^3]
+
 ### Poland
 
-Eurocity trains run every 2 hours during the day between Warsaw and Berlin via the border crossing at Frankfurt (Oder). There are also individual services between Gdynia / Kraków / Przemyśl and Berlin in the timetable.
+From Poland, the German network can be reached via several routes. The most frequently used border crossing is at Frankfurt (Oder). Eurocity trains run here between Berlin and Warsaw every 2 hours during the day. In addition, there are individual services between Berlin and Gdynia / Kraków / Przemyśl in the timetable.
 
-In addition to long-distance trains, there are also regional trains every 2 hours between Rzepin / Zielona Góra and Frankfurt (Oder), which, like the `EC` trains, can be used with PKP FIP Tickets plus a ticket for the DB section. Since December 2025, the border crossing at Horka is also used for direct trains between Leipzig and Wrocław / Kraków. A reservation is required for all cross-border long-distance trains.
+In addition to long-distance trains, there are also some regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra, which, like the `EC` trains, can be used with PKP FIP Tickets plus a ticket for the DB section.
 
-The other border crossings are currently only served by regional trains. For trains via Forst, Grambow, Guben, and Tantow, the same rule applies as at Frankfurt (Oder): PKP FIP Tickets plus a ticket for the DB section are required. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), where FIP Tickets are not valid; for the Polish section, PKP FIP Tickets should be valid. A special case is the border crossing at Zgorzelec, where no ticket is required for the section between Görlitz (Germany) and Zgorzelec station.
+Since December 2025, the Horka border crossing is also used exclusively for long-distance trains, with direct trains between Leipzig and Wrocław, Kraków, and even Przemyśl. These `EC` trains can also be used with PKP FIP Tickets plus a ticket for the DB section.
+
+The other border crossings are currently only served by regional trains. For trains via Forst, Grambow, Guben, and Tantow, the same rule applies as for the border crossings mentioned above: PKP FIP Tickets plus a ticket for the DB section are required. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), where FIP Tickets are not valid; for the Polish section, PKP FIP Tickets should be valid. A special case is the Zgorzelec border crossing: for the section between the German Görlitz and Zgorzelec station, no ticket is required.
 
 ### Czech Republic
 
@@ -255,3 +268,7 @@ There are also some cross-border regional train connections. Germany can also be
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [DB Regio Terms of Carriage for Ausserfern Railway](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^3]: [Ausserfern Railway Feedback](https://github.com/fipguide/fipguide.github.io/issues/606)

@@ -1,0 +1,7 @@
+---
+title: "Which railway companies accept FIP?"
+weight: 14
+---
+
+Over 30 European railway companies and some shipping companies participate in the FIP system. A list of which companies are involved can be found in the FIP Guide in the [list of operators](operator).
+For information about your travel destination, see our [country page](country).

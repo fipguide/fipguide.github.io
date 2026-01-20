@@ -208,13 +208,26 @@ Im österreichischen Abschnitt wird für die Züge ein FIP Ticket der ÖBB benö
 
 Darüber hinaus bestehen einige Verbindungen im Regionalverkehr, für die dann immer FIP-Freifahrtscheine der ÖBB und DB oder ein durchgehendes FIP 50 Ticket vorhanden sein müssen.
 
+#### Außenfernbahn
+
+Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfernbahn) zwischen Garmisch-Partenkirchen und Pfronten-Steinach über Reutte in Tirol verkehren Züge von DB Regio aus Deutschland nach Österreich und wieder nach Deutschland. FIP Freifahrtscheine der DB (und nationale Fahrvergünstigungen für DB‑Mitarbeitende) gelten hier für folgende Fahrten:
+
+- Durchgehende Fahrten von Deutschland über Österreich nach Deutschland (Fahren im Transit)
+- Fahrten die in Deutschland beginnen oder enden (Grenzüberschreitende Fahrten)
+
+Außgenommen sind Fahrten, die im reinen Binnenverkehr stattfinden (also in Österreich beginnen und enden). FIP Freifahrtscheine der ÖBB gelten für keine Fahrten auf der Strecke.
+
+Die Regeln gelten analog zu den Regeln des Deutschlandtickets oder der Bahncard 100. [^2] [^3]
+
 ### Polen
 
-Über den Grenzübergang in Frankfurt (Oder) verkehren Eurocity-Züge zwischen Warschau und Berlin tagsüber alle 2 Stunden. Darüber hinaus sind hier auch Einzelleistungen zwischen Gdingen (Gdynia) / Krakau / Przemysl und Berlin im Fahrplan zu finden.
+Von Polen aus kann über mehrere Wege das deutsche Netz erreicht werden. Der meistgenutzte Grenzübergang ist in Frankfurt (Oder). Über diesen verkehren Eurocity-Züge zwischen Berlin und Warschau tagsüber alle 2 Stunden. Darüber hinaus sind hier auch Einzelleistungen zwischen Berlin und Gdingen (Gdynia) / Krakau / Przemysl im Fahrplan zu finden.
 
-Neben den Fernzügen kommen noch etwa alle 2 Stunden Regionalzüge zwischen Rzepin / Zielona Góra und Frankfurt (Oder) dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können. Im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau / Krakau genutzt. Grenzüberschreitend ist in allen Fernzügen eine Reservierung erforderlich.
+Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können.
 
-Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei Frankfurt (Oder), also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein. Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
+Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt befahren werden.
+
+Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein. Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
 
 ### Tschechien
 
@@ -259,3 +272,7 @@ Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. A
 ## Quellen
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [DB Regio Beförderungsbestimmungen Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^3]: [Feedback Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)

@@ -23,7 +23,7 @@
 
   @include focus-indicator(0.3rem);
 
-  .material-symbols-rounded {
+  .material-symbols-rounded::before {
     font-size: 2.4rem;
     margin-top: 1rem;
   }
@@ -46,7 +46,7 @@
       flex-direction: column;
     }
 
-    .m-teaser__image img {
+    .m-teaser__image figure {
       border-radius: var(--border-radius-l) 0 0 var(--border-radius-l);
 
       @media (max-width: #{$breakpoint-md}) {
@@ -83,7 +83,7 @@
   }
 }
 
-.m-teaser__image img {
+.m-teaser__image figure {
   border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
   object-fit: cover;
   height: 100%;

@@ -123,10 +123,22 @@ skipToContent: Aller au contenu
 support:
   text: >-
     Souhaitez-vous partager vos connaissances sur la réglementation FIP ?
-    Visitez notre <a href="https://github.com/fipguide/fipguide.github.io">dépôt
-    GitHub</a> pour contribuer au contenu. Vous pouvez également nous écrire via
-    le <a href="/fr/contact">formulaire de contact</a>.
-  title: Soutenez-nous
+    Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
+    pour contribuer au contenu. Vous pouvez également nous écrire via le
+    [formulaire de contact](/contact).
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Spécialiste Cloud @ DB Systel
+  moritz:
+    name: Moritz Weber
+    position: Expert digitalisation de l'exploitation ferroviaire @ DB InfraGO
+  robert:
+    name: Robert Schuster
+    position: Conseil en expérience utilisateur @ DB Systel
+  willy:
+    name: Willy Schreiter
+    position: 'Product Owner chez #Einfachbahn @ DB InfraGO'
 toc_name: Sommaire
 trainCategory:
   acceptance:

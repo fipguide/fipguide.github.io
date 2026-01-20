@@ -1,3 +1,4 @@
+import "./overlay.js";
 import "./mobileMenu.js";
 import "./resizeObserver.js";
 import "./mediaqueries.js";

@@ -53,8 +53,8 @@ L’Eurostar (anciennement Thalys) peut également être utilisé depuis les Pay
 
 ### France
 
-Depuis la France, plusieurs trains régionaux transfrontaliers sont accessibles, avec un Billet FIP SNCF requis pour la section française.
+Depuis la France, la SNCF exploite des trains internationaux `TGV` de Bruxelles vers Lyon, Marseille, Rennes, Nantes et Strasbourg. Pour ces trains, il est nécessaire d’acheter des Billets FIP au Tarif Global, qui sont relativement coûteux. Il existe également une liaison OUIGO entre Paris et Bruxelles, qui n’est pas accessible avec les titres FIP.
 
-Pour les `TGV` internationaux, un Tarif Global FIP peut être réservé, mais les Coupons FIP gratuits ne sont pas valables, car ces trains ne sont pas opérés par la SNCB.
+En alternative, des trains [Eurostar](/operator/eurostar "Eurostar") relient Paris à Bruxelles et peuvent aussi être utilisés avec des Billets FIP au Tarif Global, généralement à un prix inférieur à celui des trains `TGV`.
 
-L’Eurostar (ancien Thalys) depuis la France vers la Belgique est utilisable uniquement avec un Billet FIP spécial Eurostar. ([voir Eurostar](/operator/eurostar "Eurostar"))
+Par ailleurs, plusieurs liaisons régionales `TER` existent entre la France et la Belgique, accessibles avec les titres FIP. Par exemple, entre Lille et Namur ou entre Lille et Anvers. Dans ce cas, les Billets FIP 50 classiques sont valables, ainsi que la combinaison d’un Coupon FIP de la SNCB et de la SNCF.

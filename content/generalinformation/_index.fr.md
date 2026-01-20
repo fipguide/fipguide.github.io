@@ -1,6 +1,6 @@
 ---
 title: "Informations générales"
-description: "Informations générales sur le FIP, la Carte FIP (Carte Internationale de Réduction pour le Personnel Ferroviaire) ainsi que l’utilisation des avantages de voyage internationaux tels que les Billets FIP 50 et les Coupons FIP (voyages gratuits à l’étranger)."
+description: "Informations générales sur le FIP, la Carte FIP (Carte Internationale de Réduction pour le Personnel Ferroviaire) ainsi que l’utilisation des avantages de voyage internationaux tels que les Billets FIP 50 et les Coupons FIP (permis FIP)."
 toc: true
 ---
 
@@ -28,9 +28,25 @@ Il y a aussi des exceptions ici : par exemple, certains trains Nightjet sont exp
 
 ## Carte FIP
 
-Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Carte Internationale de Réduction pour le Personnel Ferroviaire en cours de validité, communément appelée _Carte FIP_. La Carte FIP est toujours valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027. La Carte FIP sert de justificatif pour l’achat des Billets FIP 50. Elle est délivrée soit pour la 1ʳᵉ, soit pour la 2ᵉ classe. Avec une carte de 1ʳᵉ classe, il est possible d’obtenir des Coupons FIP et des Billets FIP 50 pour la 1ʳᵉ et la 2ᵉ classe ; avec une carte de 2ᵉ classe, uniquement pour la 2ᵉ classe. Elle peut être commandée auprès de la compagnie ferroviaire employeuse. La procédure exacte varie selon l’entreprise.
+Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Carte Internationale de Réduction pour le Personnel Ferroviaire, communément appelée _Carte FIP_. La Carte FIP sert de justificatif pour l’achat des Billets FIP 50. Elle est délivrée soit pour la 1ʳᵉ, soit pour la 2ᵉ classe. Avec une carte de 1ʳᵉ classe, il est possible d’obtenir des Coupons FIP et des Billets FIP 50 pour la 1ʳᵉ et la 2ᵉ classe ; avec une carte de 2ᵉ classe, uniquement pour la 2ᵉ classe. La demande de Carte FIP se fait auprès de la compagnie ferroviaire employeuse, selon une procédure qui varie d’une entreprise à l’autre.
 
-Certaines entreprises ferroviaires permettent également aux employés d’obtenir des Cartes FIP pour leurs personnes à charge, leur permettant d’acheter des Billets FIP 50.
+La durée de validité de la Carte FIP dépend de la compagnie ferroviaire émettrice. En règle générale, la Carte FIP est valable à partir du 1ᵉʳ décembre de l’année précédant la première année de validité imprimée, et jusqu’au 31 janvier de l’année suivant la dernière année de validité.
+
+Pour les compagnies ferroviaires suivantes, nous disposons d’informations sur la durée de validité :
+
+{{% expander "Deutsche Bahn (DB)" info "national" %}}
+La Carte FIP est toujours valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
+La Carte FIP est valable trois ans.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
+La Carte FIP est valable un an.
+{{% /expander %}}
+
+Certaines entreprises ferroviaires permettent également aux employés d’obtenir des Cartes FIP pour leurs ayants droit, leur permettant d’acheter des Billets FIP 50.
 
 ![Carte FIP](fip-pass.webp)
 
@@ -40,26 +56,26 @@ Les réductions FIP se présentent sous diverses formes; une Carte FIP est toujo
 
 ### Coupons FIP
 
-Les Coupons FIP (communément appelés « voyages gratuits à l’étranger ») donnent droit à des voyages sur les trains de l’opérateur indiqué sur le coupon. Un _Coupon FIP_ se compose de plusieurs _champs_. Chaque champ est valable pendant deux jours consécutifs. La date du premier jour de validité doit être inscrite sur le coupon ; il est alors valable pour ce jour et le lendemain. Les différents champs n’ont pas besoin d’être utilisés à la suite : les dates choisies doivent simplement se situer dans la période de validité imprimée sur le coupon.
+Les Coupons FIP (communément appelés « permis FIP ») donnent droit à des voyages sur les trains de l’opérateur indiqué sur le coupon. Un _Coupon FIP_ se compose de plusieurs _cases_. Chaque case est valable pendant deux jours consécutifs. La date du premier jour de validité doit être inscrite sur le coupon ; il est alors valable pour ce jour et le lendemain. Les différents cases n’ont pas besoin d’être utilisés à la suite : les dates choisies doivent simplement se situer dans la période de validité imprimée sur le coupon.
 
-Il est possible de demander un Coupon FIP par opérateur et par année civile. Certaines compagnies ferroviaires peuvent appliquer des règles différentes pour leurs propres employés. Cela signifie qu’il est possible de commander chaque année un Coupon FIP (avec un à quatre champs) auprès de chaque opérateur souhaité. L’année civile prise en compte est celle du début de validité du coupon. La demande de coupon international se fait généralement via le service du personnel ou le centre de voyage de votre entreprise ferroviaire. Certaines entreprises proposent également des portails en ligne.
+Il est possible de demander un Coupon FIP par opérateur et par année civile. Certaines compagnies ferroviaires peuvent appliquer des règles différentes pour leurs propres employés. Cela signifie qu’il est possible de commander chaque année un Coupon FIP (avec une à quatre cases) auprès de chaque opérateur souhaité. L’année civile prise en compte est celle du début de validité du coupon. La demande de coupon international se fait généralement via le service du personnel ou le centre de voyage de votre entreprise ferroviaire. Certaines entreprises proposent également des portails en ligne.
 
-Les Coupons FIP sont parfois également disponibles pour les personnes à charge. La disponibilité dépend des accords bilatéraux entre l’entreprise ferroviaire émettrice et l’entreprise ferroviaire où vous souhaitez utiliser les réductions FIP.
+Les Coupons FIP sont parfois également disponibles pour les ayants droit. La disponibilité dépend des accords bilatéraux entre l’entreprise ferroviaire émettrice et l’entreprise ferroviaire où vous souhaitez utiliser les réductions FIP.
 
 {{% highlight important %}}
 Une fois que vous êtes revenu au réseau ferroviaire de votre pays d’origine, vous ne pouvez plus utiliser le Coupon FIP dans sa période de validité si le pays du coupon borde directement le réseau ferroviaire de votre pays d’origine.
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Officiellement, la _Carte FIP_ n’est requise que pour commander des _Coupons FIP_, non pour l’utilisation au point de voyage. Cependant, en pratique, le personnel des trains la demande parfois quand même. Pour éviter les problèmes, vous devriez pouvoir la présenter lors de l’utilisation des _Coupons FIP_.
+Officiellement, la _Carte FIP_ n’a pas besoin d’être présentée lors de l’utilisation des _Coupons FIP_ dans le train. Cependant, dans la pratique, les contrôleurs la demandent parfois. Pour éviter tout problème, il est donc conseillé de pouvoir la présenter également lors de l’utilisation des _Coupons FIP_.
 {{% /highlight %}}
 
 {{% expander "Exemple d’utilisation d’un Coupon FIP" info %}}
-Supposons que je sois employé d’une entreprise ferroviaire européenne (par exemple, Deutsche Bahn) et que je veuille voyager pendant un total de huit jours sur différents trains en Autriche. Pour ce faire, je dois commander un Coupon FIP pour les Chemins de fer fédéraux autrichiens (ÖBB) avec quatre champs (4 champs = jusqu’à 8 jours de voyage gratuit avec cet opérateur).
+Supposons que je sois employé d’une entreprise ferroviaire européenne (par exemple, Deutsche Bahn) et que je veuille voyager pendant un total de huit jours sur différents trains en Autriche. Pour ce faire, je dois commander un Coupon FIP pour les Chemins de fer fédéraux autrichiens (ÖBB) avec quatre cases (4 cases = jusqu’à 8 jours de voyage gratuit avec cet opérateur).
 
-Le Coupon FIP est valable trois mois ; je ne peux voyager que pendant cette période (exemple de validité : 10.02.2026 - 09.05.2026). Je rentre dans le pays le 01.03.2026 et, avant mon premier voyage en train en Autriche, je remplis 01.03.2026 dans le premier champ. Maintenant je peux utiliser les trains ÖBB le 01.03 et le 02.03.2026 (les exceptions et règles spéciales sont trouvées sur la [page de l’opérateur](/operator "page de l’opérateur") respectif).
+Le Coupon FIP est valable trois mois ; je ne peux voyager que pendant cette période (exemple de validité : 10.02.2026 - 09.05.2026). Je rentre dans le pays le 01.03.2026 et, avant mon premier voyage en train en Autriche, je remplis 01.03.2026 dans la premier case. Maintenant je peux utiliser les trains ÖBB le 01.03 et le 02.03.2026 (les exceptions et règles spéciales sont trouvées sur la [page de l’opérateur](/operator "page de l’opérateur") respectif).
 
-Le 03.03.2026, je ne voyage pas en train, mais je le fais le 04.03. Je remplis donc 04.03.2026 dans le deuxième champ, me permettant également de voyager le 05.03. Cela continue jusqu’à ce que j’aie utilisé les quatre champs. J’utilise le dernier champ, par exemple, le 10.03.2026 et je retourne en dehors de l’Autriche le 11.03.2026.
+Le 03.03.2026, je ne voyage pas en train, mais je le fais le 04.03. Je remplis donc 04.03.2026 dans la deuxième case, me permettant également de voyager le 05.03. Cela continue jusqu’à ce que j’aie utilisé les quatre cases. J’utilise la dernier case, par exemple, le 10.03.2026 et je retourne en dehors de l’Autriche le 11.03.2026.
 {{% /expander %}}
 
 {{% highlight tip %}}
@@ -153,123 +169,13 @@ La valeur évaluée varie selon la longueur du réseau qui peut être couverte a
 
 Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse un certain seuil (50 € en 2025), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
 
-Les Coupons FIP et les réductions FIP de voyage nationales des personnes à charge sont comptabilisés auprès de l’employé.
+Les Coupons FIP et les réductions FIP de voyage nationales des ayants droit sont comptabilisés auprès de l’employé.
 
 {{% /expander %}}
 
 ## FAQ
 
-{{% expander "Que signifie FIP ?" info "faq" %}}
-
-FIP signifie _Groupement pour les facilités de circulation internationales du personnel des chemins de fer_. C’est l’association des réductions de voyage FIP pour le personnel ferroviaire international.
-Les entreprises ferroviaires et maritimes de l’UIC (Union internationale des chemins de fer) y sont affiliées.
-
-Le document d’accréditation est la Carte Internationale de Réduction pour le Personnel Ferroviaire, en bref Carte FIP ou FIP-Card.
-
-{{% /expander %}}
-
-{{% expander "Qui a droit au FIP ?" info "faq" %}}
-
-Généralement, les employés actifs et retraités des membres FIP y ont droit. Les membres de la famille peuvent également y avoir droit dans certaines conditions.
-Après douze mois d’emploi, les employés peuvent demander la Carte FIP.
-Veuillez contacter votre département des ressources humaines pour la demande et l’utilisation.
-
-{{% /expander %}}
-
-{{% expander "Le FIP s’applique-t-il également aux personnes à charge ?" info "faq" %}}
-
-Selon l’accord entre les membres FIP, les membres de la famille (enfants, partenaires) peuvent également utiliser les réductions FIP. Ceci est toujours mentionné sur les [pages des opérateurs respectifs](operator). Les réductions pour enfants y sont également listées.
-
-{{% /expander %}}
-
-{{% expander "Qu’est-ce que la Carte FIP ?" info "faq" %}}
-La Carte FIP est la preuve du droit à voyager à prix réduit auprès des membres FIP à l’étranger.
-Elle permet des voyages gratuits ou à prix réduit auprès des entreprises ferroviaires et maritimes participantes.
-{{% /expander %}}
-
-{{% expander "Où puis-je obtenir ma Carte FIP ?" info "faq" %}}
-
-Contactez votre département des ressources humaines.
-Notez que vous n’avez généralement droit aux réductions de voyage internationales qu’après douze mois d’emploi.
-
-{{% /expander %}}
-
-{{% expander "Quelles réductions j’obtiens grâce au FIP ?" info "faq" %}}
-
-Avec la Carte FIP, vous êtes autorisé à utiliser les services de transport du membre FIP respectif à des tarifs réduits.
-Des règles différentes s’appliquent selon l’opérateur. Vous pouvez trouver des détails sur les [pages des opérateurs](operator).
-
-Il y a différents types de réductions :
-
-1. **Billets à prix réduit :** Avec la Carte FIP, vous recevez des billets fortement réduits (généralement 50 % de réduction sur le prix flexible ou le tarif global). Il n’y a pas de restrictions de quantité ou de délais de demande.
-2. **Voyage gratuit avec Coupons FIP :** Avec de nombreux membres FIP, vous pouvez voyager gratuitement avec un Coupon FIP. Par opérateur, un coupon avec un à quatre champs peut être commandé une fois par année civile.
-
-{{% highlight tip %}}
-Le voyage avec FIP n’est pas toujours l’option la moins chère. Dans certains pays, des tarifs de réduction sont disponibles qui sont moins chers.
-{{% /highlight %}}
-{{% /expander %}}
-
-{{% expander "Où puis-je obtenir des billets à prix réduit avec la Carte FIP ?" info "faq" %}}
-La méthode d’achat varie selon l’opérateur, par exemple en ligne, par téléphone ou dans un centre de voyage.
-Vous pouvez trouver un aperçu détaillé trié par membre FIP [ici](operator).
-{{% /expander %}}
-
-{{% expander "Quelles règles s’appliquent aux Coupons FIP ?" info "faq" %}}
-
-En un an civil, vous pouvez demander un Coupon FIP avec un à quatre champs par membre FIP.
-
-En règle générale, un délai de traitement s’applique lors de la demande.
-
-{{% /expander %}}
-
-{{% expander "Où puis-je commander les Coupons FIP ?" info "faq" %}}
-La demande de Coupons FIP se fait généralement via le service du personnel ou le centre de voyage de votre entreprise ferroviaire. Certaines entreprises proposent également des portails en ligne.
-{{% /expander %}}
-
-{{% expander "Combien de champs puis-je demander pour les Coupons FIP ?" info "faq" %}}
-Selon vos besoins, des Coupons FIP avec 1 à 4 champs par membre FIP peuvent être demandés.
-Chaque champ vous autorise à un nombre illimité de voyages sur le réseau de l’entreprise ferroviaire ou maritime respective le jour indiqué et le jour suivant.
-{{% /expander %}}
-
-{{% expander "Que signifie un champ sur un Coupon FIP ?" info "faq" %}}
-Un champ vous autorise à des voyages illimités sur le réseau de l’entreprise ferroviaire ou maritime respective pendant la période de validité le jour indiqué et le jour suivant.
-{{% /expander %}}
-
-{{% expander "Combien de temps est valable un Coupon FIP ?" info "faq" %}}
-Un Coupon FIP est valable trois mois à partir de la date d’émission. Les champs qu’il contient peuvent être utilisés pendant cette période.
-{{% /expander %}}
-
-{{% expander "Combien de temps un champ est-il valable ?" info "faq" %}}
-La validité d’un champ commence à la date indiquée par l’utilisateur et se termine le jour suivant à minuit (24:00).
-Ainsi, chaque champ est valable pendant une période de deux jours.
-Avec le maximum de quatre champs, vous pouvez voyager pendant huit jours.
-{{% /expander %}}
-
-{{% expander "Quelles entreprises ferroviaires acceptent le FIP ?" info "faq" %}}
-
-Plus de 30 entreprises ferroviaires européennes et certaines compagnies maritimes participent au système FIP. Une liste des entreprises impliquées peut être trouvée dans le Guide FIP dans la [liste des opérateurs](operator).
-Pour plus d’informations sur votre destination de voyage, voir notre [page du pays](country).
-
-{{% /expander %}}
-
-{{% expander "Existe-t-il des exceptions lors de l’utilisation des Coupons FIP ?" info "faq" %}}
-Oui. Avec certaines entreprises, aucun Coupon FIP ne peut être utilisé, tandis qu’avec d’autres, ils ne s’appliquent qu’à certaines catégories de trains.
-
-Les détails sur les règles des membres FIP peuvent être trouvés sur les [pages des opérateurs](operator).
-
-{{% /expander %}}
-
-{{% expander "Ai-je besoin d’une réservation pour utiliser les trains ?" info "faq" %}}
-
-Une réservation est requise pour de nombreux trains, principalement les trains à grande vitesse et de nuit. Vous pouvez trouver un aperçu sur la [page de l’opérateur](operator) respectif.
-
-{{% /expander %}}
-
-## Qui est derrière le Guide FIP ?
-
-Nous sommes une équipe dévouée d’employés ferroviaires qui utilisent régulièrement le FIP nous-mêmes.
-Notre objectif est de fournir un aperçu rapide et facile à utiliser pour l’utilisation du FIP.
-Notre objectif est de fournir des informations utiles à nos utilisateurs.
+{{< faq >}}
 
 ## Ressources utiles supplémentaires
 

@@ -20,7 +20,7 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 Coupon FIP : ⛔ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ⛔ \
 Tarif Global FIP : ✅
 
@@ -41,8 +41,7 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe. \
 | Trajet | Standard | Plus |
 |------------------------------|----------|------|
 | Londres - Paris / Bruxelles | 39€ / 34,50 £ | 60€ / 52,50 £ |
-| Londres - Amsterdam / Rotterdam | ?€ / 44,50 £ | ?€ / 62 £ |
-| Bruxelles - Amsterdam / Rotterdam | ?€ / 15,50 £ | ?€ / 30,50 £ |
+| Londres - Amsterdam / Rotterdam | 51€ / 44,50 £ | 71€ / 62 £ |
 {{% /expander %}}
 
 {{% expander "Eurostar (Rouge) : Paris - Amsterdam / Bruxelles / Cologne / Dortmund ⚠️" traincategory category %}}
@@ -136,6 +135,13 @@ Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 {{% /highlight %}}
 
 Les vendredi, samedi et dimanche entre 17h30 et 19h00, les Billets FIP ne sont pas proposés. [^2]
+
+La vérification des contingents de billets disponibles est possible via les sites suivants :
+
+- [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
+   Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
+- [Traivelling](https://traivelling.com/home) \
+   Indiquer la réduction _FIP 50%_. Des billets sont également vendus ici, mais nous ne pouvons pas nous prononcer sur la légitimité de cette offre.
 
 ### Correspondances
 

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "PKP Ticket Machine"
-description: "Booking information for PKP ticket machines."
+title: "PKP Intercity Ticket Machine"
+description: "Booking information for PKP Intercity ticket machines."
 
 params:
   fip_50: true
@@ -9,7 +9,7 @@ params:
   type: "onsite"
 ---
 
-In larger cities, there are sometimes PKP ticket machines.
+In larger cities, there are sometimes PKP Intercity ticket machines.
 
 {{% booking-section "fip_50" %}}
 

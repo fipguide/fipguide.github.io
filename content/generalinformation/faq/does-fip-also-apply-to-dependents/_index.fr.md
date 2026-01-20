@@ -1,0 +1,6 @@
+---
+title: "Le FIP s’applique-t-il également aux ayants droit ?"
+weight: 3
+---
+
+Selon l’accord entre les membres FIP, les membres de la famille (enfants, partenaires) peuvent également utiliser les réductions FIP. Ceci est toujours mentionné sur les [pages des opérateurs respectifs](operator). Les réductions pour enfants y sont également listées.

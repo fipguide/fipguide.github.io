@@ -121,11 +121,23 @@ search:
 skipToContent: Skip to content
 support:
   text: >-
-    Would you like to share your knowledge about FIP regulations? Visit our <a
-    href="https://github.com/fipguide/fipguide.github.io">GitHub Repository</a>
-    to contribute content. Alternatively, you can also write to us via the <a
-    href="/en/contact">contact form</a>.
-  title: Support Us
+    Would you like to share your knowledge about FIP regulations? Visit our
+    [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to
+    contribute content. Alternatively, you can also write to us via the [contact
+    form](/contact).
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Cloud Specialist @ DB Systel
+  moritz:
+    name: Moritz Weber
+    position: Expert for Digitalization of Railway Operations @ DB InfraGO
+  robert:
+    name: Robert Schuster
+    position: User Experience Consulting @ DB Systel
+  willy:
+    name: Willy Schreiter
+    position: 'Product Owner at #Einfachbahn @ DB InfraGO'
 toc_name: Contents
 trainCategory:
   acceptance:

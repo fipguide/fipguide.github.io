@@ -7,7 +7,7 @@
         </div>
         <div class="o-startpage__image">
           {{ $image := resources.Get "images/startpage.webp" }}
-          {{ partial "image" (dict "image" $image "eager" true) }}
+          {{ partial "image" (dict "image" $image "eager" true "fetchpriority" "high") }}
         </div>
       </div>
 
@@ -39,16 +39,17 @@
     </section>
     <section>
       <h2>{{ T "support.title" }}</h2>
-      <p>{{ T "support.text" | safeHTML }}</p>
+      <p>{{ T "support.text" | .Page.RenderString }}</p>
     </section>
     <section class="o-startpage__news">
       <div class="o-startpage__news-header">
         <h2>{{ T "news.headline" }}</h2>
-        {{ $newsPage := site.GetPage "news" }}
-        <a href="{{ $newsPage.RelPermalink }}">
-          {{- partial "icon" "arrow_forward" -}}
-          {{ T "news.all" }}
-        </a>
+        {{ partial "link"
+          (dict
+          "Destination" (site.GetPage "news").RelPermalink
+          "Text" (print (partial "icon" "arrow_forward") (T "news.all") | safeHTML)
+          )
+        }}
       </div>
       <div class="o-startpage__news-wrapper">
         {{ range first 3 (where site.RegularPages "Section" "news") }}

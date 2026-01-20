@@ -24,7 +24,7 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅ \
 Tarif Global FIP : ✅ (pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux))
 
@@ -38,13 +38,13 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 {{% train-category
   id="tgv-inoui"
-  title="Train à grande vitesse inOui (TGV inOui)"
+  title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
   type="highspeed"
   fip_accepted=true
   reservation_required=true
   route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
-Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Zurich, Milan). Chaque numéro de place existe deux fois dans la voiture ; la place réservée est celle dont le numéro est illuminé.
+Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Milan). Des trains `TGV` Lyria relient également la France à la Suisse (Bâle, Zurich, Lausanne, Genève).
 
 {{% highlight confusion %}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
@@ -62,8 +62,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 |                   | 1ʳᵉ classe | 2ᵉ classe |
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 16 €      |
-| International     | 40 €       | 20 €      |
+| National Peak     | 16 €       | 11 €      |
 
 {{% /train-category %}}
 
@@ -89,7 +88,7 @@ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le
   fip_accepted=true
   reservation_required=true
 %}}
-Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort, Stuttgart, Munich).
+Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort-sur-le-Main, Erfurt, Halle-sur-Saale et Berlin ou Stuttgart et Munich).
 
 {{% highlight important %}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
@@ -99,11 +98,11 @@ Des conditions particulières s’appliquent pour les liaisons internationales, 
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
-|                   | 1ʳᵉ classe | 2ᵉ classe |
-| ----------------- | ---------- | --------- |
-| National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 16 €      |
-| International     | 40 €       | 20 €      |
+|                    | 1ʳᵉ classe | 2ᵉ classe |
+| ------------------ | ---------- | --------- |
+| En France Off-peak | 2 €        | 2 €       |
+| En France Peak     | 16 €       | 11 €      |
+| International      | 40 €       | 20 €      |
 
 {{% /train-category %}}
 
@@ -116,7 +115,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 %}}
 Trains Intercités de la SNCF reliant différentes villes françaises, généralement à réservation obligatoire.
 
-La SNCF ne publie pas la liste des trains `IC` à réservation obligatoire. En cas de doute, il faut vérifier auprès de la SNCF ou acheter une réservation.
+Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
 
 #### Réservation
 
@@ -125,8 +124,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 |                   | 1ʳᵉ classe | 2ᵉ classe |
 | ----------------- | ---------- | --------- |
 | National Off-peak | 2 €        | 2 €       |
-| National Peak     | 16 €       | 16 €      |
-| International     | 40 €       | 20 €      |
+| National Peak     | 16 €       | 11 €      |
 
 {{% /train-category %}}
 
@@ -184,10 +182,16 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="db-website-fip-db"
   subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="db-website-fip-international"
   subtitle="Billets FIP 50 transfrontaliers pour trains régionaux entre l’Allemagne et la France pour l’ensemble du trajet (non valables dans le pays d’émission du Carte FIP)."
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
 /%}}
 
 {{% booking id="sncb-website"
@@ -204,7 +208,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="transilien-ticket-office" subtitle="Pour tramways et trains en Île-de-France" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France" %}}
+{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France"
+    reservations="nil"
+    classes.first="nil"
+    classes.second="nil"
+%}}
 Au DB Reisezentrum, il est possible d’acheter des Billets FIP 50 transfrontaliers pour TGV/ICE entre l’Allemagne et la France. On ne sait pas actuellement si la réservation de trains intérieurs français est possible.
 {{% /booking %}}
 
@@ -251,6 +259,14 @@ Cette obligation s’applique aux lignes suivantes :
   reservation_required=partially
 %}}
 Les trains TGV et ICE internationaux sont à réservation obligatoire sur la section française. En Allemagne, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
+Pour les trajets à l’intérieur de la France, les frais de réservation nationaux habituels pour les `TGV` s’appliquent. Les trajets internationaux nécessitent une réservation transfrontalière :
+
+|                   | 1ʳᵉ classe | 2ᵉ classe |
+| ----------------- | ---------- | --------- |
+| National Off-peak | 2 €        | 2 €       |
+| National Peak     | 16 €       | 11 €      |
+| International     | 40 €       | 20 €      |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -261,6 +277,24 @@ Les trains TGV et ICE internationaux sont à réservation obligatoire sur la sec
   reservation_required=true
 %}}
 Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu’à 130 €).
+{{% /train-category %}}
+
+{{% train-category
+  id="tgv-luxembourg"
+  title="TGV vers le Luxembourg"
+  type="highspeed"
+  fip_accepted=partially
+  reservation_required=true
+%}}
+Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
+
+Les prix sont valables à partir de 2026 : [^11]
+
+|                        | 1ʳᵉ classe | 2ᵉ classe |
+| ---------------------- | ---------- | --------- |
+| Paris – Luxembourg     | 61 €       | 88 €      |
+| Marseille – Luxembourg | 74 €       | 113 €     |
+
 {{% /train-category %}}
 
 {{% train-category
@@ -314,7 +348,12 @@ Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N
   fip_accepted=partially
   reservation_possible=nil
 %}}
-Les tramways T4 et T11 sont exploités par la SNCF et accessibles avec FIP. Les tramways T9 et T13 sont exploités par la SNCF et Keolis et accessibles avec FIP aussi. Les autres tramways ne sont pas valables avec FIP.
+Les lignes de tramway suivantes acceptent FIP :[^4]
+
+- T4, T11, T14 : Exploité par Stretto (groupement SNCF et Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
+- T9 : Exploité par Keolis[^6]
+
+Les tramways T12 et T13 ne sont plus valables avec FIP depuis décembre 2025.[^3]<sup>,</sup>[^10] Les autres tramways ne sont pas valables avec FIP, car ils sont exploités par RATP.
 {{% /train-category %}}
 
 {{% float-image
@@ -342,3 +381,21 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
+
+[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
+
+[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
+
+[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
+
+[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
+
+[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
+
+[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
+
+[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
+
+[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+
+[^11]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)

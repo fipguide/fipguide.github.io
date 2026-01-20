@@ -50,11 +50,11 @@ Ab Folkestone gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem j
 
 ### Belgien
 
-Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OUIGO Verbindung von Brüssel nach Paris, die jedoch nicht mit FIP genutzt werden kann.
+Aus Belgien betreibt die SNCF internationale `TGV` Züge von Brüssel nach Lyon, Marseille, Rennes, Nantes und Straßburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OUIGO Verbindung von Brüssel nach Paris, die jedoch nicht mit FIP genutzt werden kann.
 
 Alternativ verkehren auch [Eurostar](/operator/eurostar "Eurostar") Züge von Brüssel nach Paris, die ebenfalls mit FIP Globalpreistickets genutzt werden können, jedoch günstiger als die `TGV` Züge sind.
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Belgien nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets sowie die Kombination aus einem FIP Freifahrtschein der SNCB und SNCF.
+Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Belgien nach Frankreich, die mit FIP genutzt werden können. Beispielsweise zwischen Namur und Lille sowie auch zwischen Antwerpen und Lille. Dabei gelten normale FIP 50 Tickets sowie die Kombination aus einem FIP Freifahrtschein der SNCB und SNCF.
 
 ### Luxemburg
 
@@ -85,6 +85,8 @@ Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen.
 
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
+`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
+
 ### Italien
 
 Von Mailand verkehren grenzüberschreitende Frecciarossa Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
@@ -110,3 +112,5 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
 
 [^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

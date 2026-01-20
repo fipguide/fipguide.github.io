@@ -53,8 +53,8 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Ne
 
 ### Frankreich
 
-Von Frankreich aus können grenzüberschreitende Regionalzüge genutzt werden, dafür wird ein zusätzliches FIP Ticket für den französischen Abschnitt benötigt.
+Aus Frankreich betreibt die SNCF internationale `TGV` Züge von Brüssel nach Lyon, Marseille, Rennes, Nantes und Straßburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es eine OUIGO Verbindung von Paris nach Brüssel, die jedoch nicht mit FIP genutzt werden kann.
 
-Bei den internationalen `TGV`-Zügen gibt es einen Globalpreis, FIP Freifahrtscheine haben hier keine Gültigkeit, sie werden nicht von der SNCB betrieben.
+Alternativ verkehren auch [Eurostar](/operator/eurostar "Eurostar") Züge von Paris nach Brüssel, die ebenfalls mit FIP Globalpreistickets genutzt werden können, jedoch günstiger als die `TGV` Züge sind.
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Frankreich aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))
+Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Frankreich nach Belgien, die mit FIP genutzt werden können. Beispielsweise zwischen Lille und Namur sowie auch zwischen Lille und Antwerpen. Dabei gelten normale FIP 50 Tickets sowie die Kombination aus einem FIP Freifahrtschein der SNCB und SNCF.

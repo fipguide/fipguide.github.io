@@ -20,7 +20,7 @@ LTG-Link publishes an [overview of the route network](https://ltglink.lt/en/rout
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
@@ -32,7 +32,7 @@ FIP Coupons and FIP 50 Tickets are valid on LTG-Link services. For cross-border 
 {{% highlight tip %}}
 FIP 50 Tickets and Coupons from LTG-Link are also valid on LTG-Link trains on the Vilnius – Riga route.[^1]
 
-From Riga to Valga, LTG-Link trains operate on behalf of Vivi (Latvian Railways). FIP discounts are therefore not valid there. When booking, the section should be booked separately so that FIP discounts can be applied to the remaining route.
+From Riga to Valga, LTG-Link trains operate on behalf of Vivi (Latvian Railways). FIP discounts are therefore not valid there. When booking, the section should be booked separately so that FIP discounts can be applied to the remaining route (Latvia – Riga).
 {{% /highlight %}}
 
 ## Train Categories and Reservations
@@ -40,7 +40,7 @@ From Riga to Valga, LTG-Link trains operate on behalf of Vivi (Latvian Railways)
 No distinction is made between different train categories in Lithuania.
 
 {{% highlight important %}}
-LTG-Link requires a mandatory free seat reservation in long-distance trains (a list of connections can be found on the [LTG-Link website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes)). However, with a FIP Coupon, a free ticket (_zero-fare ticket_) must also be obtained before travel on trains without a reservation requirement.
+LTG-Link requires a mandatory free seat reservation on long-distance trains. A list of connections can be found on the [LTG-Link website](https://ltglink.lt/en/passengers-with-interrail-eurail-passes). The prices shown there should be ignored, as they are reduced to zero with a FIP Coupon. With a FIP Coupon, a free ticket (zero-fare ticket) must also be obtained before travel on trains without a reservation requirement.
 
 Trains with mandatory reservations are sometimes fully booked many days in advance. During high season and on holidays between Vilnius and Klaipeda or Riga, trains may be fully booked 2-3 weeks in advance.
 
