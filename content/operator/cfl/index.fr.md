@@ -91,7 +91,9 @@ Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme
 L’achat de billets n’est pertinent que pour la première classe.
 
 {{% highlight tip %}}
-La CFL propose des options de billets avantageuses pour la première classe à partir de 3 €. Ces billets ne sont pas liés à un trajet spécifique, mais sont valables pour une durée déterminée sur l’ensemble du réseau. Ces billets peuvent (par exemple en raison de frais de réservation) être moins chers que les Billets FIP 50 de première classe. Plus d’informations sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/national)
+La CFL propose des options de billets avantageuses pour la première classe à partir de 3 €. Ces billets ne sont pas liés à un trajet spécifique, mais sont valables pour une durée déterminée sur l’ensemble du réseau. Ces billets peuvent être achetés sur le [site Web de la CFL](https://www.cfl.lu/fr-fr/ticket/national).
+
+Aux [Guichets CFL](#en-gare), les billets de première classe sont disponibles avec une remise de 50 % sur présentation de la Carte FIP.
 {{% /highlight %}}
 
 ### En ligne
@@ -114,6 +116,10 @@ fip_50=true
 En raison des frais de réservation, il peut être avantageux d’acheter un billet de première classe régulier via l’application CFL ou un distributeur automatique.
 
 {{% /booking %}}
+
+### En gare
+
+{{% booking id="cfl-ticket-office" /%}}
 
 ### À bord du train
 
