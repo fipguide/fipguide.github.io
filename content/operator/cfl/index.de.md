@@ -91,7 +91,9 @@ Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Um
 Der Ticketkauf ist nur für die erste Klasse relevant.
 
 {{% highlight tip %}}
-Die CFL bietet günstige Ticketoptionen für die erste Klasse bereits ab 3 € an. Diese Tickets sind nicht streckenabhängig, sondern gelten für einen bestimmten Zeitraum für das gesamte Streckennetz. Diese Tickets können (z. B. durch Buchungsgebühren) günstiger sein als FIP 50 Tickets der ersten Klasse. Weitere Informationen auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/national)
+Die CFL bietet günstige Ticketoptionen für die erste Klasse bereits ab 3 € an. Diese Tickets sind nicht streckenabhängig, sondern gelten für einen bestimmten Zeitraum für das gesamte Streckennetz. Diese Tickets können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/national) erworben werden.
+
+An [CFL-Ticketschaltern](#vor-ort) sind die erste Klasse Tickets bei Vorlage des FIP Ausweises mit 50 % Rabatt erhältlich.
 {{% /highlight %}}
 
 ### Online
@@ -114,6 +116,10 @@ fip_50=true
 Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulären erste Klasse Fahrkarte via CFL-App oder Fahrkartenautomat.
 
 {{% /booking %}}
+
+### Vor Ort
+
+{{% booking id="cfl-ticket-office" /%}}
 
 ### Im Zug
 
