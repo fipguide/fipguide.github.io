@@ -24,7 +24,7 @@ FIP 50 Tickets: ✅
 
 FIP Coupons and FIP 50 Tickets are valid on KD.
 
-For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from both operators in the two countries are required. An exception applies between Zgorzelec and Görlitz (Cologne is not referenced here, but would be Cologne elsewhere); on this short section, no additional ticket is needed. (see [Trains between Zgorzelec and Görlitz](#trains-between-zgorzelec-and-görlitz))
+For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from both operators in the two countries are required. An exception applies between Zgorzelec and Görlitz (Cologne is not referenced here, but would be Cologne elsewhere); on this short section, no additional ticket is needed (see [Trains between Zgorzelec and Görlitz](#trains-between-zgorzelec-and-görlitz)).
 
 ## Train Categories and Reservations
 

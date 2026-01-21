@@ -24,7 +24,7 @@ FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KD gültig.
 
-Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber in den zwei Ländern vorhanden sein. Eine Ausnahme besteht zwischen Görlitz und Zgorzelec, auf der kein extra Ticket benötigt wird. (siehe [Züge zwischen Zgorzelec und Görlitz](#züge-zwischen-zgorzelec-und-görlitz))
+Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber in den zwei Ländern vorhanden sein. Eine Ausnahme besteht zwischen Görlitz und Zgorzelec, auf der kein extra Ticket benötigt wird (siehe [Züge zwischen Zgorzelec und Görlitz](#züge-zwischen-zgorzelec-und-görlitz)).
 
 ## Zugkategorien und Reservierungen
 
@@ -67,7 +67,7 @@ Alternativ kann auch über die [Website von Polregio](https://bilety.polregio.pl
 
 ### Im Zug
 
-FIP 50 Fahrkarten können auch aufschlagsfrei direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg der Zugbegleiter aufgesucht werden. Die Tickets können entweder bar oder mit kontaktloser Kreditkarte (Visa, Visa Electron, V Pay, Mastercard, Maestro) bezahlt werden.[^1] Eine Zahlung ist nur in der Landeswährung Złoty möglich.
+FIP 50 Fahrkarten können auch aufschlagsfrei direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Die Tickets können entweder bar oder mit kontaktloser Kreditkarte (Visa, Visa Electron, V Pay, Mastercard, Maestro) bezahlt werden.[^1] Eine Zahlung ist nur in der Landeswährung Złoty möglich.
 
 ## Ermäßigungen
 
@@ -85,7 +85,7 @@ Die KD bietet zudem in der Sommersaison spezielle "KD Premium" Züge an, die wei
 
 ### Züge zwischen Zgorzelec und Görlitz
 
-FIP-Vergünstigungen der KD gelten im Regelfall nur für die Abschnitte innerhalb von Polen. Eine Ausnahme stellen die grenzüberschreitenden Fahrten zwischen Polen und Deutschland auf dem Abschnitt Zgorzelec - Görlitz dar. Hier wird kein extra Ticket zwischen den beiden Bahnhöfen benötigt. Alle aus Polen kommenden bis Zgorzelec gültigen Tickets gelten auch bis zum Bahnhof Görlitz, andersrum genauso.
+FIP-Vergünstigungen der KD gelten im Regelfall nur für die Abschnitte innerhalb von Polen. Eine Ausnahme stellen die grenzüberschreitenden Fahrten zwischen Polen und Deutschland auf dem Abschnitt Zgorzelec – Görlitz dar. Hier wird kein zusätzliches Ticket zwischen den beiden Bahnhöfen benötigt. Alle aus Polen kommenden bis Zgorzelec gültigen Tickets gelten auch bis zum Bahnhof Görlitz, andersrum genauso.
 
 ### Busse
 

@@ -24,7 +24,7 @@ Billets FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont acceptés chez KD.
 
-Pour les voyages transfrontaliers, il faut soit un Billet FIP 50 continu, soit des Coupons FIP des deux opérateurs dans les deux pays. Exception entre Zgorzelec et Görlitz (eau de Cologne se traduit seulement pour la ville Cologne), aucun billet supplémentaire n’est requis sur ce court tronçon. (voir [Trains entre Zgorzelec et Görlitz](#trains-entre-zgorzelec-et-görlitz))
+Pour les voyages transfrontaliers, il faut soit un Billet FIP 50 continu, soit des Coupons FIP des deux opérateurs dans les deux pays. Exception entre Zgorzelec et Görlitz (eau de Cologne se traduit seulement pour la ville Cologne), aucun billet supplémentaire n’est requis sur ce court tronçon (voir [Trains entre Zgorzelec et Görlitz](#trains-entre-zgorzelec-et-görlitz)).
 
 ## Catégories de trains et réservations
 
