@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Bodensee-Schiffsbetriebe"
+title: "BSB"
 country:
   - "austria"
   - "germany"
@@ -8,7 +8,7 @@ country:
 operator: "bsb"
 ---
 
-Die Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
+Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
 
 Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
