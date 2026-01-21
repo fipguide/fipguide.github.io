@@ -6,6 +6,8 @@ agent: build
 Translate the page $ARGUMENTS into the other languages.
 If the page already exists, only translate the added or changed parts. If the page doesn't exist, create it.
 
+Find out the changes which needs to be translated with the GIT version control system. Usually the changes are not yet commited.
+
 Follow these rules:
 
 - Do not modify the meaning of content. Translate as 1:1 where possible.
