@@ -1,8 +1,4 @@
 {{- $url := .Destination -}}
-{{- $arialabel := "" -}}
-{{- if reflect.IsMap . -}}
-  {{- $arialabel = .Arialabel | default "" -}}
-{{- end -}}
 {{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
   {{- /* Absolute links pointing to external pages, e. g. `https://example.com` */ -}}
   <a
