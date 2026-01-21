@@ -35,9 +35,9 @@ KD ne distingue pas de catégories de trains différentes. Les trains ont en gé
 ### En ligne
 
 {{% booking id="kd-website"
-    subtitle="Pour trajets nationaux"
+    subtitle="Pour trajets nationaux et internationaux"
 %}}
-Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
+Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux. Pour les trajets internationaux, la réduction FIP 50 ne s’applique qu’en Pologne ; en dehors de la Pologne, le tarif normal s’applique.
 {{% /booking %}}
 
 {{% booking id="koleo-website"

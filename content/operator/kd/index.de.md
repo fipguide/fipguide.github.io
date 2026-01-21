@@ -35,9 +35,9 @@ Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben me
 ### Online
 
 {{% booking id="kd-website"
-    subtitle="Für nationale Verbindungen"
+    subtitle="Für nationale und internationale Verbindungen"
 %}}
-FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
+FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen verfügbar. Bei internationalen Verbindungen wird der FIP 50 Rabatt nur innerhalb Polens berücksichtigt. Außerhalb Polens wird der reguläre Preis berechnet.
 {{% /booking %}}
 
 {{% booking id="koleo-website"

@@ -35,9 +35,9 @@ KD does not distinguish different train categories. Its trains usually have a li
 ### Online
 
 {{% booking id="kd-website"
-    subtitle="For domestic connections"
+    subtitle="For domestic and international connections"
 %}}
-FIP 50 Tickets can only be sold for domestic journeys.
+FIP 50 Tickets are available for domestic and international connections. For international journeys, the FIP 50 discount is only applied within Poland; outside Poland, the regular fare is charged.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
