@@ -91,7 +91,9 @@ The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchan
 Ticket purchase is only relevant for first class.
 
 {{% highlight tip %}}
-CFL offers affordable ticket options for first class starting from €3. These tickets are not route-dependent but are valid for a certain period for the entire network. These tickets can (e.g. due to booking fees) be cheaper than FIP 50 Tickets for first class. More information on the [CFL website](https://www.cfl.lu/en-gb/ticket/national)
+CFL offers affordable first class ticket options starting from €3. These tickets are not route-dependent, but valid for a specific period for the entire network. Tickets can be purchased on the [CFL website](https://www.cfl.lu/en-gb/ticket/national).
+
+At [CFL Ticket Offices](#on-site), first class tickets are available with a 50% discount on presentation of your FIP Card.
 {{% /highlight %}}
 
 ### Online
@@ -114,6 +116,10 @@ fip_50=true
 Due to the booking fee, it may be worthwhile to purchase a regular first class ticket via the CFL app or ticket machine.
 
 {{% /booking %}}
+
+### On-site
+
+{{% booking id="cfl-ticket-office" /%}}
 
 ### On the Train
 
