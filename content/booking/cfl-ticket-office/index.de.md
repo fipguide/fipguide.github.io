@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "CFL Ticketschalter"
-description: "Buchungsinformationen für die CFL Ticketschaltern im Bahnhof."
+description: "Buchungsinformationen für die CFL Ticketschalter im Bahnhof."
 
 params:
   fip_50: true
