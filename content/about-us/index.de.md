@@ -6,7 +6,7 @@ description: "Lerne das Team hinter der FIP Guide Website kennen und entdecke, w
 {{% float-image
     src="image.webp"
     alt="Das FIP Guide Team"
-    caption="Das FIP Guide Team von links nach rechts: Robert Schuster, Lennart Rommeiß, Moritz Weber, Willy Schreiter. 📸 Toni Arndt"
+    caption="Das FIP Guide Team von links nach rechts: Robert Schuster, Lennart Rommeiß, Moritz Weber und Willy Schreiter. <br> 📸 Toni Arndt"
     width="50%"
     position="right"
 %}}
