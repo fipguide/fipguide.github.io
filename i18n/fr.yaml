@@ -130,7 +130,7 @@ teamMembers:
   lennart:
     name: Lennart Rommeiß
     position: Spécialiste Cloud @ DB Systel
-  linkedin: Profil LinkedIn
+  linkedin: Profil LinkedIn de {{ . }}
   moritz:
     name: Moritz Weber
     position: Expert digitalisation de l'exploitation ferroviaire @ DB InfraGO

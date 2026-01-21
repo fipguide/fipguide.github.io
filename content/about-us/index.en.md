@@ -25,4 +25,4 @@ To address individual questions in the best possible way, we also operate the [F
 
 But without our great [community](https://discord.gg/5nWS9Eu9zz "FIP Guide Community on Discord"), the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
 
-Special thanks go to [Toni Arndt](https://www.linkedin.com/in/toni-arndt-683228174/ "Toni Arndt") as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.
+Special thanks go to [Toni Arndt](https://www.linkedin.com/in/toni-arndt-683228174/ "LinkedIn profile of Toni Arndt") as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.

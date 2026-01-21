@@ -23,7 +23,7 @@
             {{ partial "link"
               (dict
               "Destination" .link
-              "Title" (print $name " " (T "teamMembers.linkedin"))
+              "Title" (T "teamMembers.linkedin" $name)
               "Text" $name
               )
             }}
