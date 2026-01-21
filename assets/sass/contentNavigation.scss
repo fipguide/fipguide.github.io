@@ -48,6 +48,11 @@
   min-height: 2.4rem;
 
   @include focus-indicator(0.1rem);
+
+  > .material-symbols-rounded {
+    align-self: flex-start;
+    margin-top: 0.1rem;
+  }
 }
 
 .o-aside__backlink-text {
