@@ -23,6 +23,7 @@ Special "Euskotren FIP Ticket" (for holders & relatives): ✅
 {{% float-image
   src="euskotren_fip_ticket.webp"
   alt="Euskotren FIP Ticket"
+  caption="Euskotren FIP Ticket"
   width="30%"
   position="left"
 %}}
