@@ -33,87 +33,146 @@ Weiter Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne
 
 Sitzplatzreservierungen sind nur in SuperCity `SC` und einigen `IC` Zügen verpflichtend.
 
-{{% expander "SuperCity (SC)⚠️" traincategory traincategory %}}
-**Beschreibung:** \
+{{% train-category
+    id="sc"
+    title="SuperCity (SC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/"
+%}}
 Die SuperCity Züge bieten die schnellsten Verbindungen auf der Strecke Prag – Pardubice – Olomouc – Ostrava. Zweimal täglich verkehren Züge ab Ostrava weiter in die Slowakei. Sie halten nur an den wichtigsten Bahnhöfen und bieten sehr komfortables Reisen in der 1. und 2. Klasse. Die modernen Neigetechnikzüge vom Typ „Pendolino“ verfügen über ein Bistro und bieten einen hohen Servicestandard. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden.
+
+In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann.
+
+#### Reservierung
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 
-In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/) \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
 Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Railjet (RJ)ℹ️" traincategory traincategory %}}
-**Beschreibung:** \
+{{% train-category
+    id="rj"
+    title="Railjet (RJ)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
+%}}
 Die Railjet-Züge verbinden Brno und Prag schnell und komfortabel und bieten zudem eine Direktverbindung über Břeclav nach Wien und Graz. Sie halten nur an den wichtigsten Bahnhöfen. Auch die internationalen ComfortJet-Züge zwischen Prag und Deutschland bzw. Dänemark fallen ab Dezember 2025 unter diese Kategorie. Es gibt meist drei Wagenklassen:
 
 **Economy**: Vergleichbar mit der 2. Klasse. \
 **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
 **Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
 
-Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend. Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, allerdings mit blauer Außengestaltung. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden. Speisen und Getränke sind im Bordrestaurant oder per Am-Platz-Service erhältlich. In der 1. Klasse erhalten Fahrgäste kostenlos eine Flasche Wasser und eine Tageszeitung, in der Business Class zusätzlich ein Begrüßungsgetränk sowie einen Gutschein im Wert von 50 CZK für das Restaurantangebot (nur innerhalb Tschechiens). Für Kinder gibt es ein eigenes Kinderkino mit speziellen Programmen. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/)
+Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, allerdings mit blauer Außengestaltung. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden. Speisen und Getränke sind im Bordrestaurant oder per Am-Platz-Service erhältlich. In der 1. Klasse erhalten Fahrgäste kostenlos eine Flasche Wasser und eine Tageszeitung, in der Business Class zusätzlich ein Begrüßungsgetränk sowie einen Gutschein im Wert von 50 CZK für das Restaurantangebot (nur innerhalb Tschechiens). Für Kinder gibt es ein eigenes Kinderkino mit speziellen Programmen.
 
-ℹ️ Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit `RJ` gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein (Nur Business Class)
-{{% /expander %}}
+{{% highlight confusion %}}
+Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit `RJ` gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine.
+{{% /highlight %}}
 
-{{% expander "Eurocity (EC)" traincategory traincategory %}}
-**Beschreibung:** \
-Internationale Fernverkehrszüge im Taktverkehr mit hohem Komfort. Die klimatisierten Wagen stammen von verschiedenen Bahnverwaltungen und verfügen oft über einen Speisewagen, der sich internationaler Beliebtheit erfreut. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+#### Reservierung
 
-{{% expander "Intercity (IC) ⚠️" traincategory traincategory %}}
-**Beschreibung:** \
-Fernverkehrszüge mit hohem Komfort und Halten nur an wichtigeren Bahnhöfen. Teilweise sind sie mit einem Bordrestaurant oder einer Minibar ausgestattet. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/) \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Teilweise (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht))
-{{% /expander %}}
+Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend.
+{{% /train-category %}}
 
-{{% expander "Expres (Ex)" traincategory traincategory %}}
-**Beschreibung:** \
-Schnellzüge im innertschechischen Verkehr sowie zwischen Praha und Žilina oder Košice. Sie verfügen meist über modernisiertes Wagenmaterial und Zuggastronomie. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/) \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% train-category
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/"
+%}}
+Internationale Fernverkehrszüge im Taktverkehr mit hohem Komfort. Die klimatisierten Wagen stammen von verschiedenen Bahnverwaltungen und verfügen oft über einen Speisewagen, der sich internationaler Beliebtheit erfreut.
+{{% /train-category %}}
 
-{{% expander "Rychlík (R)" traincategory traincategory %}}
-**Beschreibung:** \
-Schnellzüge im Regional- und Fernverkehr mit häufigeren Halten als Express-Züge. Sie verwenden teilweise älteres Wagenmaterial und verbinden u. a. Prag mit Urlaubsgebieten im Riesen- und Isergebirge sowie Kurorten in Mähren und Westböhmen. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/) \
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/"
+%}}
+Fernverkehrszüge mit hohem Komfort und Halten nur an wichtigeren Bahnhöfen. Teilweise sind sie mit einem Bordrestaurant oder einer Minibar ausgestattet.
 
-{{% expander "Spěšný vlak (Sp)" traincategory traincategory %}}
-**Beschreibung:** \
-Eilzüge im Nahverkehr, die häufig nur über die 2. Klasse verfügen. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/) \
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+#### Reservierung
 
-{{% expander "Osobní vlak (Os)" traincategory traincategory %}}
-**Beschreibung:** \
-Nahverkehrszüge mit Halt an allen Bahnhöfen, die häufig nur über die 2. Klasse verfügen. [Weitere Informationen](https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/) \
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+Eine Reservierung ist für einige Züge erforderlich (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
+{{% /train-category %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory traincategory %}}
-**Beschreibung:** \
-Nachtzüge verbinden Tschechien mit Deutschland, Östereich, Polen, der Schweiz, der Slowakei und Ungarn. Die Züge bieten Schlaf-, Liege- und Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben. [Weitere Informationen und Streckennetz](https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/)
+{{% train-category
+    id="ex"
+    title="Expres (Ex)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/"
+%}}
+Schnellzüge im innertschechischen Verkehr sowie zwischen Praha und Žilina oder Košice. Sie verfügen meist über modernisiertes Wagenmaterial und Zuggastronomie.
+{{% /train-category %}}
 
-Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden. \
-⚠️ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis:** ja \
-**Kosten für Reservierung:** \
+{{% train-category
+    id="r"
+    title="Rychlík (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/"
+%}}
+Schnellzüge im Regional- und Fernverkehr mit häufigeren Halten als Express-Züge. Sie verwenden teilweise älteres Wagenmaterial und verbinden u. a. Prag mit Urlaubsgebieten im Riesen- und Isergebirge sowie Kurorten in Mähren und Westböhmen.
+{{% /train-category %}}
+
+{{% train-category
+    id="sp"
+    title="Spěšný vlak (Sp)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/"
+%}}
+Eilzüge im Nahverkehr, die häufig nur über die 2. Klasse verfügen.
+{{% /train-category %}}
+
+{{% train-category
+    id="os"
+    title="Osobní vlak (Os)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    additional_information_url="https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/"
+%}}
+Nahverkehrszüge mit Halt an allen Bahnhöfen, die häufig nur über die 2. Klasse verfügen.
+{{% /train-category %}}
+
+{{% train-category
+    id="nj-en"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    route_overview_url="https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/"
+%}}
+Nachtzüge verbinden Tschechien mit Deutschland, Östereich, Polen, der Schweiz, der Slowakei und Ungarn. Die Züge bieten Schlaf-, Liege- und Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
+
+Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
+
+{{% highlight important %}}
+Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar.
+{{% /highlight %}}
+
+#### Reservierung
+
 Abhängig von Strecke und Auslastung sowie Wagenkategorie.
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
