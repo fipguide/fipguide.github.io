@@ -172,6 +172,10 @@ figure {
   }
 }
 
+.o-single__content figure {
+  border-radius: var(--border-radius-m);
+}
+
 .o-list__picture {
   margin-right: 1.2rem;
   display: flex;
