@@ -28,42 +28,70 @@ FIP Coupons and FIP 50 Tickets are valid on BDŽ services. For cross-border jour
 Train categories are shown in BDŽ journey planners as described below. In other planners, trains are often simply listed as `R` or `IR`.
 {{% /highlight %}}
 
-{{% expander "Cross-country International Train (IC-INT) ⚠️" traincategory traincategory %}}
-**Description:** \
-International trains running between Bucharest in Romania and Sofia or Varna. These trains run directly only in the summer; otherwise, a change in Ruse is required. In other planners, they may also be shown as `IR`. A seat reservation is mandatory in both classes.
+{{% train-category
+    id="ic-int"
+    title="Cross-country International Train (IC-INT)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+%}}
+International trains running between Bucharest in Romania and Sofia or Varna. These trains run directly only in the summer; otherwise, a change in Ruse is required. In other planners, they may also be shown as `IR`.
 
-Some overnight trains also include couchette or sleeper cars, which can be used with a corresponding reservation. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes
-{{% /expander %}}
+Some overnight trains also include couchette or sleeper cars, which can be used with a corresponding reservation.
 
-{{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
-**Description:** \
-Relatively fast trains connecting major cities with few stops. Some require reservations, indicated by an _R_ in the journey planner. They often use more modern rolling stock, e.g., former DB IC coaches. Overnight trains may include couchette or sleeper cars, which require a reservation. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ sometimes (marked with _R_)
-{{% /expander %}}
+#### Reservation
 
-{{% expander "Express train (EXP) ⚠️" traincategory traincategory %}}
-**Description:** \
-National trains connecting cities with few stops. Some require reservations, indicated by an _R_ in the journey planner. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ sometimes (marked with _R_)
-{{% /expander %}}
+A seat reservation is mandatory in both classes.
+{{% /train-category %}}
 
-{{% expander "Regional Train (REG)" traincategory traincategory %}}
-**Description:** \
-Regional trains in domestic traffic, usually with many stops and not very fast. Only 2nd class coaches are available. Reservations are not required but may be possible. \
-**Reservation possible:** sometimes \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+    id="icf"
+    title="Intercity Fast Train (ICF)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+%}}
+Relatively fast trains connecting major cities with few stops. They often use more modern rolling stock, e.g., former DB IC coaches. Overnight trains may include couchette or sleeper cars, which require a reservation.
 
-{{% expander "Suburban Commuter Train (SUB)" traincategory traincategory %}}
-**Description:** \
-Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+#### Reservation
+
+A reservation is required for some trains (marked with _R_).
+{{% /train-category %}}
+
+{{% train-category
+    id="exp"
+    title="Express train (EXP)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+%}}
+National trains connecting cities with few stops.
+
+#### Reservation
+
+A reservation is required for some trains (marked with _R_).
+{{% /train-category %}}
+
+{{% train-category
+    id="reg"
+    title="Regional Train (REG)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Regional trains in domestic traffic, usually with many stops and not very fast. Only 2nd class coaches are available.
+{{% /train-category %}}
+
+{{% train-category
+    id="sub"
+    title="Suburban Commuter Train (SUB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains.
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 

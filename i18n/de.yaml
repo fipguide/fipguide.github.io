@@ -135,12 +135,13 @@ teamMembers:
   lennart:
     name: Lennart Rommeiß
     position: Cloud-Specialist @ DB Systel
+  linkedin: LinkedIn-Profil von {{ . }}
   moritz:
     name: Moritz Weber
     position: Experte Digitalisierung Bahnbetrieb @ DB InfraGO
   robert:
     name: Robert Schuster
-    position: User Experience Consulting @ DB Systel
+    position: User Experience Consultant @ DB Systel
   willy:
     name: Willy Schreiter
     position: 'Product Owner bei der #Einfachbahn @ DB InfraGO'

@@ -14,7 +14,7 @@ params:
 
 La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM). Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
 
-- Koleje Dolnośląskie (KD)
+- [Koleje Dolnośląskie (KD)](/operator/kd)
 - Koleje Śląskie (KS)
 - Koleje Wielkopolskie (KW)
 - Łódzka Kolej Aglomeracyjna (ŁKA)
@@ -53,7 +53,9 @@ En plus des trains grandes lignes, quelques trains régionaux circulent égaleme
 
 Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
 
-Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables. Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
+Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables.
+
+Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
 
 ### Lituanie
 

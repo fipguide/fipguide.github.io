@@ -25,52 +25,87 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour 
 ## Catégories de trains et réservations
 
 {{% highlight important %}}
-Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d’autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
+Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d'autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
 {{% /highlight %}}
 
-{{% expander "Cross-country International Train (IC-INT) ⚠️" traincategory traincategory %}}
-**Description :** \
-Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu’en été ; sinon, une correspondance à Ruse est nécessaire. Dans d’autres horaires, ils peuvent aussi être indiqués comme `IR`. La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
+{{% train-category
+    id="ic-int"
+    title="Cross-country International Train (IC-INT)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+%}}
+Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu'en été ; sinon, une correspondance à Ruse est nécessaire. Dans d'autres horaires, ils peuvent aussi être indiqués comme `IR`.
 
-Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui
-{{% /expander %}}
+Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée.
 
-{{% expander "Intercity Fast Train (ICF) ⚠️" traincategory traincategory %}}
-**Description :** \
-Trains relativement rapides reliant les grandes villes avec peu d’arrêts. Certains nécessitent une réservation, indiquée par un _R_ dans les horaires. Ils utilisent souvent du matériel plus moderne, par exemple d’anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ parfois (indiqué par _R_)
-{{% /expander %}}
+#### Réservation
 
-{{% expander "Express train (EXP) ⚠️" traincategory traincategory %}}
-**Description :** \
-Trains nationaux reliant des villes avec peu d’arrêts. Certains nécessitent une réservation, indiquée par un _R_ dans les horaires. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ parfois (indiqué par _R_)
-{{% /expander %}}
+La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
+{{% /train-category %}}
 
-{{% expander "Regional Train (REG)" traincategory traincategory %}}
-**Description :** \
-Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts et peu rapides. Seules des voitures de 2ᵉ classe sont disponibles. La réservation n’est pas obligatoire mais parfois possible. \
-**Réservation possible :** parfois \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+    id="icf"
+    title="Intercity Fast Train (ICF)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+%}}
+Trains relativement rapides reliant les grandes villes avec peu d'arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d'anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
 
-{{% expander "Suburban Commuter Train (SUB)" traincategory traincategory %}}
-**Description :** \
-Trains régionaux en trafic intérieur desservant la plupart des gares, circulant souvent à une fréquence plus élevée que les autres trains. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+#### Réservation
 
-{{% expander "Train de nuit" traincategory traincategory %}}
-**Description :** \
-Trains circulant de nuit et nécessitant une réservation. Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés que pour les réservations classiques. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui
-{{% /expander %}}
+Une réservation est obligatoire pour certains trains (indiqué par _R_).
+{{% /train-category %}}
+
+{{% train-category
+    id="exp"
+    title="Express train (EXP)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+%}}
+Trains nationaux reliant des villes avec peu d'arrêts.
+
+#### Réservation
+
+Une réservation est obligatoire pour certains trains (indiqué par _R_).
+{{% /train-category %}}
+
+{{% train-category
+    id="reg"
+    title="Regional Train (REG)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts et peu rapides. Seules des voitures de 2ᵉ classe sont disponibles.
+{{% /train-category %}}
+
+{{% train-category
+    id="sub"
+    title="Suburban Commuter Train (SUB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Trains régionaux en trafic intérieur desservant la plupart des gares, circulant souvent à une fréquence plus élevée que les autres trains.
+{{% /train-category %}}
+
+{{% train-category
+    id="night-train"
+    title="Train de nuit"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+%}}
+Trains circulant de nuit et nécessitant une réservation.
+
+{{% highlight important %}}
+Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés que pour les réservations classiques.
+{{% /highlight %}}
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
