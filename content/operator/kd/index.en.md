@@ -12,7 +12,7 @@ On their website, KD provides an [overview map of the routes](https://kolejedoln
 
 ## Summary
 
-- KD accepts FIP Coupon and FIP 50 Tickets (as per glossary).
+- KD accepts FIP Coupon and FIP 50 Tickets.
 - Only 2nd class is available in KD trains and reservations are not possible.
 - Some special trains are excluded from FIP.
 
@@ -24,11 +24,11 @@ FIP 50 Tickets: ✅
 
 FIP Coupons and FIP 50 Tickets are valid on KD.
 
-For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from both operators in the two countries are required. An exception applies between Zgorzelec and Görlitz (Cologne is not referenced here, but would be Cologne elsewhere); on this short section, no additional ticket is needed (see [Trains between Zgorzelec and Görlitz](#trains-between-zgorzelec-and-görlitz)).
+For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from both operators in the two countries are required. An exception applies between Zgorzelec and Görlitz; on this short section, no additional ticket is needed (see [Trains between Zgorzelec and Görlitz](#trains-between-zgorzelec-and-görlitz)). For journeys involving different operators within Poland, either a continuous FIP 50 Ticket or FIP Coupons from both operators must be presented.
 
 ## Train Categories and Reservations
 
-KD does not distinguish different train categories. Its trains usually have a line number beginning with "D". In many journey planners, only “KD” and a train number are given. Some trains are marketed as "KD Sprinter" or "KD Supersprinter" but remain regional trains. Only 2nd class tickets are offered as there is no 1st class on KD trains. There are no reservation facilities.
+KD does not distinguish different train categories. Its trains usually have a line number beginning with "D". In many journey planners, only "KD" and a train number are given. Some trains are marketed as "KD Sprinter" or "KD Supersprinter" but remain regional trains. Only 2nd class tickets are offered as there is no 1st class on KD trains. There are no reservation facilities.
 
 ## Ticket and Reservation Purchase
 

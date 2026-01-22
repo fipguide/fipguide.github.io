@@ -24,7 +24,7 @@ FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KD gültig.
 
-Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber in den zwei Ländern vorhanden sein. Eine Ausnahme besteht zwischen Görlitz und Zgorzelec, auf der kein extra Ticket benötigt wird (siehe [Züge zwischen Zgorzelec und Görlitz](#züge-zwischen-zgorzelec-und-görlitz)).
+Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber in den zwei Ländern vorhanden sein. Eine Ausnahme besteht zwischen Görlitz und Zgorzelec, auf der kein extra Ticket benötigt wird (siehe [Züge zwischen Zgorzelec und Görlitz](#züge-zwischen-zgorzelec-und-görlitz)). Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Betreiber vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
