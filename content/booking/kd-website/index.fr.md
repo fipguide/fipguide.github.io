@@ -15,6 +15,6 @@ params:
 
 Sur le site Web de Koleje Dolnośląskie, disponible uniquement en polonais, vous pouvez réserver en ligne des billets avec la réduction FIP 50 pour les trajets KD. Lors de l’achat, sélectionnez l’option de réduction « MIĘDZYNARODOWA KARTA ZNIŻEK FIP (50%) ».
 
-![Option réduction KD](koleo_account.webp)
+![Option réduction KD](kd_discount.webp)
 
 {{% /booking-section %}}

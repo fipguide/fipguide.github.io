@@ -15,6 +15,6 @@ params:
 
 Auf der Website der Koleje Dolnośląskie, die nur auf Polnisch verfügbar ist, können online Fahrkarten mit FIP 50 Rabatt für Fahrten der KD gekauft werden. Dafür muss beim Ticketkauf als Rabattoption "MIĘDZYNARODOWA KARTA ZNIŻEK FIP (50%)" angegeben werden.
 
-![KD Rabattoption](koleo_account.webp)
+![KD Rabattoption](kd_discount.webp)
 
 {{% /booking-section %}}
