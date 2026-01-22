@@ -118,6 +118,17 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
 When booking, the FIP Cards of all travelers must be presented.
 {{% /booking %}}
 
+{{% booking id="cfl-ticket-office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+
+#### FIP Global Fare
+
+When booking, the FIP Cards of all travelers must be presented.
+{{% /booking %}}
+
 ### Onboard
 
 Tickets must be purchased before boarding the train. Ticket sales onboard are not possible.

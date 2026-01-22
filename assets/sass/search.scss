@@ -127,6 +127,10 @@ $search-z-index-focus: 12;
         }
       }
 
+      &-image {
+        max-width: 100%;
+      }
+
       &-title {
         display: inline-block;
         font-weight: 700;
