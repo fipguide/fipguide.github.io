@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Bodensee-Schiffsbetriebe"
+title: "BSB"
 country:
   - "austria"
   - "germany"
@@ -8,7 +8,7 @@ country:
 operator: "bsb"
 ---
 
-Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").
+BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").
 
 FIP discounts apply with the following operators:
 
@@ -25,13 +25,20 @@ FIP discounts apply with the following operators:
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 ## Train Categories and Reservations
 
-{{% expander "Ferry" traincategory %}}
-**Description:** \
+{{% train-category
+  id="ferry"
+  title="Fähre"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=false
+  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+%}}
+
 Ferries on Lake Constance.
 
 On the following routes, cars can be transported:
@@ -41,11 +48,7 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
-A [list of journeys](https://www.bsb.de/sites/default/files/2024-11/Fahrplan-2025-Web_0.pdf) is available on this page.
-
-**Reservation possible:** No \
-**Reservation required:** No
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Class Categories
 

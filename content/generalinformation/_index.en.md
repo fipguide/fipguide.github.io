@@ -28,7 +28,23 @@ There are exceptions here too: for example, some Nightjet trains are operated by
 
 ## FIP Card
 
-To use FIP discounts, you need a valid International Discount Card for Railway Staff, commonly referred to as the _FIP Card_. The FIP Card is always valid for a fixed period of three years. The current period is 2025-2026-2027. The FIP Card is required as proof of entitlement for FIP 50 Tickets. It is issued either for 1st or 2nd class. With a 1st class card, you can purchase FIP Coupons and FIP 50 Tickets for both 1st and 2nd class; with a 2nd class card, only for 2nd class. The card can be ordered through your respective railway company. The exact ordering process varies by company.
+To use FIP discounts, you need a valid International Discount Card for Railway Staff, commonly known as the _FIP Card_. The FIP Card is required as proof of eligibility for FIP 50 Tickets. It is issued either for 1st or 2nd class. With a 1st class card, you can obtain FIP Coupons and FIP 50 Tickets for both 1st and 2nd class; with a 2nd class card, only for 2nd class. The card can be ordered through your respective railway company. The exact ordering process varies by company.
+
+The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from December 1st of the previous year) and up to one month after the last year of validity (until January 31th of the following year).
+
+For the following railway companies, we have information on the validity period:
+
+{{% expander "Deutsche Bahn (DB)" info "national" %}}
+The FIP Card is always valid for a fixed period of three years. The current period is 2025-2026-2027.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
+The FIP Card is valid for three years.
+{{% /expander %}}
+
+{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
+The FIP Card is valid for one year.
+{{% /expander %}}
 
 Some railway companies also allow employees to obtain FIP Cards for their dependents, allowing them to purchase FIP 50 Tickets.
 
@@ -51,7 +67,7 @@ Once you return to the rail network of your home country, you may not use the FI
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Officially, the _FIP Card_ is only required for ordering _FIP Coupons_, not for use at the point of travel. However, in practice, train staff sometimes request it anyway. To avoid problems, you should be able to present it when using _FIP Coupons_.
+Officially, the _FIP Card_ does not have to be shown on the train when using _FIP Coupons_. However, in practice, train staff may still ask for it. To avoid any issues, you should be able to present your _FIP Card_ even when using _FIP Coupons_.
 {{% /highlight %}}
 
 {{% expander "Example of using an FIP Coupon" info %}}
@@ -160,12 +176,6 @@ FIP Coupons and national travel discounts of dependents are counted toward the e
 ## FAQ
 
 {{< faq >}}
-
-## Who is behind the FIP Guide?
-
-We are a dedicated team of railway employees who regularly use FIP ourselves.
-Our goal is to provide a quick and easy-to-use overview for using FIP.
-Our focus is on providing useful information for our users.
 
 ## Additional useful resources
 

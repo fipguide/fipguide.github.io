@@ -117,6 +117,17 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
 Bei der Buchung muss der FIP Ausweis aller Reisenden vorgezeigt werden.
 {{% /booking %}}
 
+{{% booking id="cfl-ticket-office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+
+#### FIP Globalpreis
+
+Bei der Buchung muss der FIP Ausweis aller Reisenden vorgezeigt werden.
+{{% /booking %}}
+
 ### Im Zug
 
 Tickets müssen vor dem Betreten des Zuges gekauft werden. Ein Verkauf von Tickets an Bord ist nicht möglich.

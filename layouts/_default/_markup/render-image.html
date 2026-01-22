@@ -31,7 +31,7 @@
         loading="lazy"
       />
     {{- else -}}
-      {{- partial "image" (dict "image" $image) -}}
+      {{- partial "image" (dict "image" $image "caption" .PlainText "Page" .Page) -}}
     {{- end -}}
   {{- else -}}
     {{- warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $.Page.File.Path -}}

@@ -8,7 +8,8 @@
     {{ printf "%s | %s" .Title site.Title }}
   {{ end }}
 </title>
-{{ partialCached "head/js" . }}
+{{ partial "head/js" (dict "file" "js/darkmode.js" "defer" false) }}
+
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
   {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
@@ -19,12 +20,14 @@
     as="style"
   />
 {{ end }}
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <script src="/pagefind/pagefind-ui.js" defer></script>
 <script type="module">
   await import("/pagefind/pagefind-highlight.js");
   new PagefindHighlight({ highlightParam: "highlight" });
 </script>
+
+{{ partial "head/js" (dict "file" "js/main.js") }}
+
 
 <!-- include a favicon for your site if you have it, else omit the line below
      Location of favicon can be in mytheme/static/favicon.ico -->

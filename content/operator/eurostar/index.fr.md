@@ -20,7 +20,7 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 Coupon FIP : ⛔ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ⛔ \
 Tarif Global FIP : ✅
 
@@ -113,7 +113,18 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     reservations=nil
 %}}
 
-#### Billet FIP Global
+#### Tarif Global FIP
+
+Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
+{{% /booking %}}
+
+{{% booking id="cfl-ticket-office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+
+#### Tarif Global FIP
 
 Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
 {{% /booking %}}
