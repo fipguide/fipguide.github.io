@@ -1,8 +1,7 @@
 ---
-title: "DB Website"
+title: "ČD Website"
 params:
-  url: "https://example.com/de/mehr"
+  url: "https://www.cd.cz/en/spojeni-a-jizdenka/"
 ---
 
-Willkommen auf unserer deutschen Seite!
-Hier erfährst du mehr über unsere Produkte.
+Die ČD zeigt innerhalb Tschechien größtenteils nur eigene Züge an. Züge von anderen Betreibern sind in der Verbindungssuche durch einen "/" und Abkürzung für den Betreiber gekennzeichnet.

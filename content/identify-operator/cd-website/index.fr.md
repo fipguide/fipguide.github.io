@@ -1,8 +1,7 @@
 ---
-title: "DB Website"
+title: "Site Web ČD"
 params:
-  url: "https://example.com/fr/plus"
+  url: "https://www.cd.cz/en/spojeni-a-jizdenka/"
 ---
 
-Bienvenue sur notre page française!
-Découvrez nos services ici.
+La ČD affiche principalement ses propres trains en République tchèque. Les trains d’autres opérateurs sont indiqués dans la recherche d’itinéraires par un "/" et une abréviation de l’opérateur.

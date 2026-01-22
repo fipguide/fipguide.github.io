@@ -12,7 +12,14 @@
   </summary>
   <hr aria-hidden="true" />
   <div class="o-expander__content">
-    {{ range $index, $operatorId := .operators }}
+    {{ if .innerContent }}
+      <div class="o-identify-operator__intro">
+        <div class="o-single__content">
+          {{ .innerContent | markdownify }}
+        </div>
+      </div>
+    {{ end }}
+    {{ range $index, $operatorId := .sources }}
       {{- $page := site.GetPage (print "identify-operator/" $operatorId) -}}
       {{ if gt $index 0 }}
         <hr class="o-identify-operator__separator" />

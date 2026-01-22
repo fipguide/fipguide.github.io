@@ -11,6 +11,8 @@ params:
 
 In Bulgaria, FIP can be used relatively easily, but online booking options are very limited. The Bulgarian State Railways Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) is currently almost the only passenger rail operator in the country. FIP is accepted here. With a valid FIP Coupon, you only need to buy reservations for reservation-required trains at the ticket office. FIP 50 Tickets can also be purchased at the ticket office. For international journeys, the required tickets are only available at special international ticket counters at major stations.
 
+{{< identify-operator sources="bdz-website,db-website,vagonweb" />}}
+
 ## Interesting
 
 The rail network in Bulgaria is mainly oriented east-west, with various routes connecting the country's largest cities. One of the most important routes is from Sofia to Varna, which can be taken either via Pleven (north) or Plovdiv (south). There are also a few north-south routes, mainly serving as feeders to the main lines.

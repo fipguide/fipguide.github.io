@@ -20,6 +20,8 @@ Züge im Nahverkehr werden in Italien größtenteils von der [Trenitalia](/opera
 
 Im Fernverkehr sind die Frecce-Züge der Trenitalia nur mit teuren Reservierungen (inkl. Aufschlag) nutzbar. Zusätzlich verkehren Züge des privaten Anbieters Italo, die nicht mit FIP nutzbar sind.
 
+{{< identify-operator sources="fs-website,db-website" />}}
+
 ## Wissenswertes
 
 Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die schnellen und hochwertigen Fernzugverbindungen. Dadurch sind Reisen zwischen Nord- und Süditalien in kurzer Zeit möglich. Abseits der Hochgeschwindigkeitsstrecken gibt es auch viele klassische und teilweise sehr schöne Regionalzugstrecken. Ein Beispiel dafür ist die Bahnstrecke durch Cinque Terre in Ligurien, in der in einer dichten Frequenz Züge in allen fünf Orten halten. Diese Bahnstrecke ist gleichzeitig die wichtigste Verbindung zwischen den sonst schwer erreichbaren Orten. Die Regionalzüge in Italien verkehren dabei jedoch nicht in einem klassischen Taktsystem, sondern meist in ungelmäßigen Abständen. Außerdem kann die Insel Sizilien mit Nacht- und InterCity-Zügen erreicht werden. Diese passieren dabei per Trenitalia-Fähre die Straße von Messina.
