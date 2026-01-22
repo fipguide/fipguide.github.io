@@ -417,7 +417,7 @@ West Midlands Trains betreibt Nah- und Regionalverkehr unter zwei Marken: London
 
 ## Ticket- und Reservierungskauf
 
-In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 Rabatt gewährt.
+In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 Rabatt gewährt. Die [BR Fares Website](https://www.brfares.com/) ermöglicht es, nach Tarifen auf einer Strecke zu suchen, indem man "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigung hinzufügt.
 
 - **Anytime Tickets:** \
   Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preis ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
@@ -427,6 +427,8 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
   Diese Tickets sind stark rabattiert, jedoch nur für den ausgewählten Zug gültig. Die Tickets können bis 10 Minuten vor Abfahrt des Zuges erworben werden. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
 - **Rovers:** \
   Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt wird jedoch nur auf Nachfrage gewährt.
+
+  [BR Fares](https://www.brfares.com/!roverhome) bietet eine Seite an, auf der man den Rover-Namen eingeben und "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigungsoption auswählen kann. Wenn ein Ergebnis angezeigt wird, ist der Rover mit FIP gültig, andernfalls nicht.
 
 {{% highlight inofficial %}}
 [Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) gibt es eine inoffizielle Liste auf welche Rover nationale Fahrvergünstigungen gewährt werden. Vermutlich wird auf diese Rover auch der FIP Rabatt gewährt.

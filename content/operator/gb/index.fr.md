@@ -418,7 +418,7 @@ West Midlands Trains exploite des liaisons locales et régionales sous deux marq
 
 ## Achat de billets et réservations
 
-Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 n’est pas accordée sur tous les billets.
+Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 n’est pas accordée sur tous les billets. Le [site BR Fares](https://www.brfares.com/) permet de rechercher des tarifs sur une ligne en ajoutant "FIP Discount 50%" ou "FIP Discount 75%" comme réduction.
 
 - **Billets Anytime :** \
   Ces billets sont flexibles et peuvent être utilisés à tout moment de la journée. Le prix est constant et non soumis à des quotas. La Réduction FIP 50 s’applique à ces billets. Il existe des billets Single (aller simple) et Return (aller-retour). Un billet Return peut parfois être moins cher que deux billets Single. L’interruption de voyage est possible.
@@ -427,14 +427,16 @@ Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP
 - **Billets Advance :** \
   Ces billets sont fortement réduits mais ne sont valables que pour le train sélectionné. Ils peuvent être achetés jusqu’à 10 minutes avant le départ. La Réduction FIP 50 ne s’applique pas à ces billets.
 - **Rovers :** \
-  Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s’applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n’est accordée que sur demande.
+  Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s'applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n'est accordée que sur demande.
+
+  [BR Fares](https://www.brfares.com/!roverhome) propose une page où vous pouvez saisir le nom du Rover et sélectionner "FIP Discount 50%" ou "FIP Discount 75%" comme option de réduction. Si un résultat s'affiche, le Rover est valable avec FIP, sinon il ne l'est pas.
 
 {{% highlight inofficial %}}
-[En ligne](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s’applique également à ces Rovers.
+[En ligne](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s'applique également à ces Rovers.
 
-En règle générale : les billets valables exclusivement sur les services National Rail sont généralement acceptés. Les billets combinés train et bus ne sont en principe pas valables. Pour les billets couvrant à la fois National Rail et des lignes historiques, la validité doit être vérifiée au cas par cas.
+En règle générale : les billets valables exclusivement sur les services National Rail sont généralement acceptés. Les billets combinés train et bus ne sont en principe pas valables. Pour les billets couvrant à la fois National Rail et des lignes historiques, la validité doit être vérifiée au cas par cas.
 
-Par exemple, le Isle of Wight Ranger couvrant uniquement les services SWR est valable avec FIP, tandis que la version incluant les trains à vapeur ne l’est pas (même si ceux-ci sont parfois vendus avec réduction FIP). [^3]
+Par exemple, le Isle of Wight Ranger couvrant uniquement les services SWR est valable avec FIP, tandis que la version incluant les trains à vapeur ne l'est pas (même si ceux-ci sont parfois vendus avec réduction FIP). [^3]
 {{% /highlight %}}
 
 - **Abonnements et billets Londres :** \

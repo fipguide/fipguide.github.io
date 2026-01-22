@@ -417,7 +417,7 @@ West Midlands Trains operates local and regional services under two brands: Lond
 
 ## Ticket and Reservation Purchase
 
-Great Britain distinguishes between different ticket categories. FIP 50 Discount is not granted on all tickets.
+Great Britain distinguishes between different ticket categories. FIP 50 Discount is not granted on all tickets. The [BR Fares website](https://www.brfares.com/) allows you to search for fares on a route by adding "FIP Discount 50%" or "FIP Discount 75%" as discount.
 
 - **Anytime Tickets:** \
   These tickets are flexible and can be used at any time of day. The price is constant and not quota-based. FIP 50 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is possible.
@@ -427,6 +427,8 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   These tickets are heavily discounted but only valid for the selected train. Tickets can be purchased up to 10 minutes before departure. FIP 50 Discount does not apply to these tickets.
 - **Rovers:** \
   Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 Discount is only granted on request.
+
+  [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
 {{% highlight inofficial %}}
 [Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers.
