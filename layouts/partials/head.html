@@ -8,6 +8,8 @@
     {{ printf "%s | %s" .Title site.Title }}
   {{ end }}
 </title>
+{{ partial "head/js" (dict "file" "js/darkmode.js" "defer" false) }}
+
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
   {{ $style := (resources.ExecuteAsTemplate "sass/main_templated.scss" $ .) | toCSS $options | minify }}
@@ -24,7 +26,7 @@
   new PagefindHighlight({ highlightParam: "highlight" });
 </script>
 
-{{ partialCached "head/js" . }}
+{{ partial "head/js" (dict "file" "js/main.js") }}
 
 
 <!-- include a favicon for your site if you have it, else omit the line below

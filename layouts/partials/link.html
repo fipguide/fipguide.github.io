@@ -6,7 +6,8 @@
     target="_blank"
     rel="noopener noreferrer external"
     class="o-link__external"
-    {{- with .Title -}}title="{{ . }}"{{- end -}}
+    {{- with .Title }}title="{{ . }}"{{- end -}}
+    {{- with .Title }}aria-label="{{ . }}"{{- end -}}
   >
     {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
   </a>

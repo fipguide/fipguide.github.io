@@ -18,10 +18,6 @@
   border-radius: var(--border-radius-m);
   transition: transform 0.2s ease;
 
-  &:hover {
-    transform: translateY(-0.2rem);
-  }
-
   &__image {
     width: 8rem;
     height: 8rem;

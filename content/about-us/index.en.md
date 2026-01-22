@@ -6,7 +6,7 @@ description: "Get to know the team behind the FIP Guide website and discover why
 {{% float-image
     src="image.webp"
     alt="The FIP Guide core team"
-    caption="The FIP Guide core team from left to right: Robert Schuster, Lennart Rommeiß, Moritz Weber, Willy Schreiter. 📸 Toni Arndt"
+    caption="The FIP Guide team from left to right: Robert Schuster, Lennart Rommeiß, Moritz Weber and Willy Schreiter. <br> 📸 Toni Arndt"
     width="50%"
     position="right"
 %}}
@@ -23,6 +23,6 @@ To address individual questions in the best possible way, we also operate the [F
 
 {{% team-members %}}
 
-But without our great [community](https://discord.gg/5nWS9Eu9zz), the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
+But without our great [community](https://discord.gg/5nWS9Eu9zz "FIP Guide Community on Discord"), the project would not be where it is today. Therefore, a heartfelt thank you to everyone who supports us – whether through translations, feedback, or sharing valuable information about using FIP!
 
-Special thanks go to [Toni Arndt](https://www.linkedin.com/in/toni-arndt-683228174/) as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.
+Special thanks go to [Toni Arndt](https://www.linkedin.com/in/toni-arndt-683228174/ "LinkedIn profile of Toni Arndt") as well as colleagues from DB, SNCF, PKP, and ČD for their numerous contributions and support.

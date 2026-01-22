@@ -61,7 +61,7 @@
   {{- if .caption -}}
     <hr aria-hidden="true" />
     <figcaption>
-      {{ .caption }}
+      {{- .caption | .Page.RenderString -}}
     </figcaption>
   {{- end -}}
 </figure>
