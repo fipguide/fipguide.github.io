@@ -431,11 +431,11 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
 {{% highlight inofficial %}}
-[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers.
+[On RailUKForums](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers.
 
 As a general guideline: Tickets valid exclusively for National Rail services are typically accepted. Combined rail and bus tickets are generally not valid. For tickets that include National Rail and heritage rail services, validity should be confirmed individually.
 
-For example, the Isle of Wight Ranger covering only SWR services is valid under FIP, whereas the version including steam trains is not (although these are sometimes sold with FIP discount). [^3]
+For example, the Island Line Day Ranger covering only SWR services is valid under FIP, whereas the version including steam trains (Island Line & Steam Day Ranger) is not (although these are sometimes sold with FIP discount). [^3]
 {{% /highlight %}}
 
 - **Season Tickets and London Tickets:** \

@@ -432,11 +432,11 @@ Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP
   [BR Fares](https://www.brfares.com/!roverhome) propose une page où vous pouvez saisir le nom du Rover et sélectionner "FIP Discount 50%" ou "FIP Discount 75%" comme option de réduction. Si un résultat s'affiche, le Rover est valable avec FIP, sinon il ne l'est pas.
 
 {{% highlight inofficial %}}
-[En ligne](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s'applique également à ces Rovers.
+[Sur RailUKForums](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s'applique également à ces Rovers.
 
 En règle générale : les billets valables exclusivement sur les services National Rail sont généralement acceptés. Les billets combinés train et bus ne sont en principe pas valables. Pour les billets couvrant à la fois National Rail et des lignes historiques, la validité doit être vérifiée au cas par cas.
 
-Par exemple, le Isle of Wight Ranger couvrant uniquement les services SWR est valable avec FIP, tandis que la version incluant les trains à vapeur ne l'est pas (même si ceux-ci sont parfois vendus avec réduction FIP). [^3]
+Par exemple, le Island Line Day Ranger couvrant uniquement les services SWR est valable avec FIP, tandis que la version incluant les trains à vapeur (Island Line & Steam Day Ranger) ne l'est pas (même si ceux-ci sont parfois vendus avec réduction FIP). [^3]
 {{% /highlight %}}
 
 - **Abonnements et billets Londres :** \
