@@ -572,4 +572,4 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 
 [^4]: [Retour d’expérience Heathrow Express sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
-[^5]: [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
+[^5]: [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)

@@ -575,4 +575,4 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 
 [^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
-[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
+[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
