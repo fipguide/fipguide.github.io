@@ -139,9 +139,9 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 {{% /expander %}}
 
-#### Mail
+### Online
 
-{{% booking id="stena-line-mail" /%}}
+{{% booking id="stena-line-email" /%}}
 
 ### Telefon
 
@@ -160,7 +160,7 @@ Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind b
 ## Empfehlungen
 
 {{% highlight important %}}
-Beachte bitte, dass der CheckIn nur bis 45 Minuten vor dem Ablegen möglich ist. Plane für die Anreise also ausreichend Zeit ein.
+Bitte beachte, dass der CheckIn nur bis 45 Minuten vor dem Ablegen möglich ist. Plane für die Anreise also ausreichend Zeit ein.
 {{% /highlight %}}
 
 Die Anreise zur Station _Hoek van Holland Haven_ erfolgt in der Regel mit der Metro-Linie B aus Richtung Rotterdam und Schiedam.
