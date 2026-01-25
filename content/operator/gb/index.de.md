@@ -430,13 +430,42 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 
   [BR Fares](https://www.brfares.com/!roverhome) bietet eine Seite an, auf der man den Rover-Namen eingeben und "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigungsoption auswählen kann. Wenn ein Ergebnis angezeigt wird, ist der Rover mit FIP gültig, andernfalls nicht.
 
-{{% highlight inofficial %}}
-[In den RailUKForums](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) gibt es eine inoffizielle Liste auf welche Rover nationale Fahrvergünstigungen gewährt werden. Vermutlich wird auf diese Rover auch der FIP Rabatt gewährt.
+  {{% expander "Liste der verfügbaren Rovers mit FIP Rabatt" info "rover" %}}
+  Dies ist eine inoffizielle Liste verfügbarer Rovers aus der Community (Stand 24. Januar 2026). [^3]
 
-Als allgemeine Faustregel gilt: Tickets, die ausschließlich für National Rail gelten, werden in der Regel akzeptiert. Kombinierte Bahn- und Bustickets sind meist nicht gültig. Bei Tickets, die sowohl National Rail als auch Museumsbahnen umfassen, sollte die Gültigkeit im Einzelfall geprüft werden.
+  Sie kann als Orientierung genutzt werden, individuelle Angebote sollten jedoch über BR Fares geprüft werden.
 
-Beispielsweise ist der Island Line Day Ranger, der nur für SWR-Verbindungen gilt, unter FIP nutzbar, während die Variante inklusive Dampfzug (Island Line & Steam Day Ranger) nicht gültig ist (obwohl diese teilweise mit FIP Rabatt verkauft wird).[^3]
-{{% /highlight %}}
+  | Name                        | Rover Code | NLC  | FIP 50 | FIP 75 |
+  | --------------------------- | ---------- | ---- | ------ | ------ |
+  | ANGLIA PLUS DAY RANGER      | AP1        | K285 | 14.85  | X      |
+  | BITTERN LINE DAY RANGER     | BV1        | I013 | 9.50   | X      |
+  | CAMBRIAN COASTER DAY RANGER | CCD        | I395 | 9.50   | 4.75   |
+  | CORNWALL RANGER             | CRD        | J118 | 8.50   | 4.25   |
+  | DEVON RANGER                | TSA        | I857 | 8.50   | 4.25   |
+  | EAST SUFFOLK DAY RANGER     | ESR        | I531 | 12.45  | X      |
+  | EXPLORE CARDIFF & VALLEYS   | VDR        | I494 | 8.00   | 4      |
+  | EXPLORE NORTH WALES         | W37        | H515 | 59.50  | 29.75  |
+  | EXPLORE SOUTH WALES         | SW3        | H746 | 59.50  | 29.75  |
+  | EXPLORE THE CAPITAL         | ECC        | I512 | 3.75   | 1.85   |
+  | EXPLORE WALES               | SW4        | H743 | 74.50  | 37.25  |
+  | FODC ROVER 3 IN 7           | D07        | I650 | 33.50  | X      |
+  | FODC ROVER 8 IN 15 DAYS     | D37        | I659 | 53.75  | X      |
+  | FOSS ROVER 3 IN 7 DAYS      | S37        | I863 | 39.75  | 19.90  |
+  | FOSS ROVER 8IN 15 DAYS      | WR7        | I862 | 53.75  | 26.90  |
+  | FOSW ROVER 3 IN 7 DAYS      | TSR        | I855 | 67.75  | 33.90  |
+  | FOSW ROVER 8 IN 15 DAYS     | SW7        | I621 | 94.25  | 125.55 |
+  | HEART OF WESSEX RANGER      | TSV        | I858 | 13.75  | 6.90   |
+  | KENNET DAY RANGER           | KDR        | I784 | 8.75   | 4.40   |
+  | NORTH DOWNS DAY RANGER      | NDD        | I358 | 11.00  | 5.50   |
+  | NORTH WALES ALL ZONE        | NMW        | H522 | 22.50  | 11.25  |
+  | OXFORDSHIRE DAY RANGER      | ODR        | I432 | 11.00  | 5.50   |
+  | ST IVES LINE DAY            | SID        | I294 | 2.10   | 1.05   |
+  | THAMES BRANCHES DAY RANGER  | TBR        | I066 | 13.75  | 6.9    |
+  | THAMES ROVER 3 DAYS         | TR3        | I367 | 33.50  | X      |
+  | THAMES ROVER 7 DAYS         | TR7        | I367 | 60.50  | X      |
+  | Waterside Wander Ranger     | WRR        | I437 | 6.75   | X      |
+
+  {{% /expander %}}
 
 - **Saisonfahrkarten und London-Fahrkarten:** \
   Unbegrenzte Fahrt zwischen zwei Stationen für einen bestimmten Zeitraum oder innerhalb der
@@ -573,7 +602,7 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
+[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
 [^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
