@@ -330,6 +330,8 @@ Some RER lines are operated by SNCF. FIP discounts apply on the following sectio
 - RER Line E – entire line
 
 Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-operated RER Line D can be used. FIP discounts are not valid on RATP-operated RER Line B on the same section.
+
+Access with FIP Coupons is practically limited, see [Ticket barriers](#ticket-barriers).
 {{% /train-category %}}
 
 {{% train-category
@@ -340,6 +342,8 @@ Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-
   reservation_possible=nil
 %}}
 FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
+
+Access with FIP Coupons is practically limited, see [Ticket barriers](#ticket-barriers).
 {{% /train-category %}}
 
 {{% train-category
@@ -355,7 +359,11 @@ The following tram lines accept FIP:[^4]
 - T9: Operated by Keolis[^6]
 
 FIP discounts are no longer valid on tram lines T12 and T13 since December 2025.[^3]<sup>,</sup>[^10] FIP discounts do not apply on other tram lines, as these are operated by RATP.
+
+Access with FIP Coupons is practically limited, see [Ticket barriers](#ticket-barriers).
 {{% /train-category %}}
+
+#### Ticket barriers
 
 {{% float-image
   src="contramarquedePassage.webp"
@@ -365,6 +373,10 @@ FIP discounts are no longer valid on tram lines T12 and T13 since December 2025.
 %}}
 Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
 {{% /float-image %}}
+
+{{% highlight important %}}
+Entrances to train and tram stations are often equipped with ticket barriers. These are often not staffed. Without the _Contremarque de Passage_ (temporary access card), there is often no way to gain access to the stations.
+{{% /highlight %}}
 
 ### Bus Services
 
