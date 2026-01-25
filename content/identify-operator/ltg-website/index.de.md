@@ -1,7 +1,7 @@
 ---
-title: "Trenitalia Website"
+title: "LTG-Link Website"
 params:
-  url: "https://www.trenitalia.com/de.html"
+  url: "https://ltglink.lt/en"
 ---
 
-Über die Verbidungsauskunft können Fahrten gesucht werden. Dabei werden in Italien nur Züge der Trenitalia und Trenord angezeigt. Züge von Trenord sind in der Verbindungsübersicht gekennzeichnet.
+Auf der Website von LTG-Link werden innerhalb von Litauen und Lettland nur eigene Zugverbindungen von LTG-Link angezeigt. Außerdem werden direkte Fahrten von Lithauen nach Polen angezeigt.

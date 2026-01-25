@@ -24,6 +24,8 @@ Together, these cover almost the entire Swiss rail network, including some means
 
 Only a few very touristy services are not included in FIP. Additionally, cross-border travel on long-distance trains to France and Italy involves some effort, as special surcharges apply here.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Interesting
 
 Switzerland has one of the densest rail networks in the world. Despite challenging topography, most of the country is accessible by train. Trains run frequently, especially on main lines, and are well coordinated in an integrated timetable. Although most lines are not built for very high speeds, short connections often result in manageable travel times. The Swiss rail system is also known for its punctuality, though exceptions exist. The country is well connected by rail to its neighbors, with regular trains.
