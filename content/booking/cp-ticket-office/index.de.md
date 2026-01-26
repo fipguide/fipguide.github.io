@@ -31,5 +31,5 @@ An Ticketschaltern der CP werden FIP Globalpreistickets für den internationalen
 
 ## Reservierungen
 
-Reservierungen für reservierungspflichtige Züge können vor Ort zu einem Preis von 5€ erworben werden.
+Reservierungen für reservierungspflichtige Züge können vor Ort zu einem Preis von 5 € erworben werden.
 {{% /booking-section %}}
