@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ZSSK / ZSR"
+title: "ZSSK / ŽSR"
 country:
   - "slovakia"
 operator: "zssk"
@@ -9,7 +9,7 @@ aliases:
   - zsr
 ---
 
-Die ZSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der [Slowakei](/country/slovakia "Slowakei").
+Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der [Slowakei](/country/slovakia "Slowakei").
 
 ## Zusammenfassung
 
@@ -130,10 +130,6 @@ In `IC` Zügen: Zuschlag mit obligatorischer Reservierung
 Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internationale Studenten in der Slowakei können ebenfalls kostenfrei reisen. Für Studenten ist mindestens 3 Tage vor der ersten Fahrt eine Registrierung am ZSSK Schalter erforderlich. Zuvor muss ein Registrierungsformular ausgefüllt und von der Schule/Universität unterschrieben werden. Details dazu finden sich auf der Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Tarifliche Besonderheiten
-
-### D-Züge nach Wien
-
-`D` Züge zwischen Bratislava und Wien können im gesamten Abschnitt (auch in Österreich) mit FIP Freifahrtscheinen der ZSSK genutzt werden. Alternativ gilt im österreichichen Abschnitt auch der FIP Freifahrtschein der ÖBB.
 
 ### Fahrtunterbrechung
 
