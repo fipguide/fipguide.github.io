@@ -139,6 +139,10 @@ As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10
 
 {{% /expander %}}
 
+### Online
+
+{{% booking id="stena-line-email" /%}}
+
 ### Telephone
 
 {{% booking id="stena-line-phone" /%}}
@@ -154,6 +158,10 @@ Purchase on board the ships is not possible.
 Children up to 4 years travel free of charge, children aged 4 to 14 are entitled to a 50% discount on the adult fare, from 14 years they pay the adult fare. [^2]
 
 ## Recommendations
+
+{{% highlight important %}}
+Please note that check-in is only possible up to 45 minutes before departure. Therefore, please allow sufficient time for your journey.
+{{% /highlight %}}
 
 Arrival at the station _Hoek van Holland Haven_ is usually via Metro Line B from Rotterdam and Schiedam.
 
