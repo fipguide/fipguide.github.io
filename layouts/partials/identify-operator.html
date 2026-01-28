@@ -30,26 +30,27 @@
         <h3 class="o-identify-operator__item-title">{{ $page.Title }}</h3>
 
         <div class="o-identify-operator__item-content">
-          <div class="o-identify-operator__text">
-            <div class="o-single__content">
-              {{ $page.Content | safeHTML }}
+          {{ with $page.Resources.Get "image.webp" }}
+            <div class="o-identify-operator__image-wrapper">
+              {{- partial "image" (dict "image" .) -}}
             </div>
+          {{ end }}
 
-            {{ if $page.Params.url }}
+
+          <div class="o-single__content">
+            {{ $page.Content | safeHTML }}
+          </div>
+
+          {{ if $page.Params.url }}
+            <div class="o-identify-operator__actions">
               {{- partial "button"
                 (dict
                 "Destination" $page.Params.url
                 "Text" (T "identify-operator.learn-more")
                 )
               -}}
-            {{ end }}
-          </div>
-
-          <div class="o-identify-operator__image-wrapper">
-            {{ with $page.Resources.Get "image.webp" }}
-              {{- partial "image" (dict "image" .) -}}
-            {{ end }}
-          </div>
+            </div>
+          {{ end }}
         </div>
       </div>
     {{ end }}
