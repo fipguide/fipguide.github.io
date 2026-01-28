@@ -41,7 +41,7 @@ Sur la ligne vers Turmantas, les anciennes automotrices DR1A d’origine soviét
 | Pays | Points frontière |
 | --- | --- |
 | [Pologne](/country/poland) ([PKP](/operator/pkp)) | Mockava |
-| [Lettonie](/country/latvia) ([LTG-Link](/operator/ltg)) | Joniškis |
+| [Lettonie](/country/latvia) (LDz) | Joniškis |
 | Biélorussie | Frontière fermée |
 | Russie | Pas de montée/descente en transit Russie-Biélorussie-Lituanie-Kaliningrad |
 {{% /expander %}}

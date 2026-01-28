@@ -41,7 +41,7 @@ On the route to Turmantas, the old DR1A trains from Soviet production are still 
 | Country | Border Points |
 | --- | --- |
 | [Poland](/country/poland) ([PKP](/operator/pkp)) | Mockava |
-| [Latvia](/country/latvia) ([LTG-Link](/operator/ltg)) | Joniškis |
+| [Latvia](/country/latvia) (LDz) | Joniškis |
 | Belarus | Border closed |
 | Russia | No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad |
 {{% /expander %}}

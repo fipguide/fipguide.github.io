@@ -41,7 +41,7 @@ Auf der Strecke nach Turmantas kommen noch die alten DR1A-Triebwagen aus sowjeti
 | Land | Grenzpunkte |
 | --- | --- |
 | [Polen](/country/poland) ([PKP](/operator/pkp)) | Mockava |
-| [Lettland](/country/latvia) ([LTG-Link](/operator/ltg)) | Joniškis |
+| [Lettland](/country/latvia) (LDz) | Joniškis |
 | Belarus/Weißrussland | Grenze gesperrt |
 | Russland | Kein Ein-/Ausstieg im Transitverkehr Russland-Belarus-Litauen-Kaliningrad |
 {{% /expander %}}
