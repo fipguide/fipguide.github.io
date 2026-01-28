@@ -417,7 +417,7 @@ West Midlands Trains operates local and regional services under two brands: Lond
 
 ## Ticket and Reservation Purchase
 
-Great Britain distinguishes between different ticket categories. FIP 50 Discount is not granted on all tickets.
+Great Britain distinguishes between different ticket categories. FIP 50 Discount is not granted on all tickets. The [BR Fares website](https://www.brfares.com/) allows you to search for fares on a route by adding "FIP Discount 50%" or "FIP Discount 75%" as discount.
 
 - **Anytime Tickets:** \
   These tickets are flexible and can be used at any time of day. The price is constant and not quota-based. FIP 50 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is possible.
@@ -428,13 +428,44 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
 - **Rovers:** \
   Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 Discount is only granted on request.
 
-{{% highlight inofficial %}}
-[Online](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) there is an unofficial list of which Rovers are eligible for national staff discounts. It is likely that the FIP Discount is also granted on these Rovers.
+  [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
-As a general guideline: Tickets valid exclusively for National Rail services are typically accepted. Combined rail and bus tickets are generally not valid. For tickets that include National Rail and heritage rail services, validity should be confirmed individually.
+  {{% expander "List of Available Rovers with FIP Discount" info "rover" %}}
+  This is an unofficial list of available Rovers provided by the community (as of 24 January 2026). [^3]
 
-For example, the Isle of Wight Ranger covering only SWR services is valid under FIP, whereas the version including steam trains is not (although these are sometimes sold with FIP discount). [^3]
-{{% /highlight %}}
+  It can be used as guidance; however, individual offers should be verified via BR Fares.
+
+  | Name                        | Rover Code | NLC  | FIP 50 | FIP 75 |
+  | --------------------------- | ---------- | ---- | ------ | ------ |
+  | ANGLIA PLUS DAY RANGER      | AP1        | K285 | 14.85  | X      |
+  | BITTERN LINE DAY RANGER     | BV1        | I013 | 9.50   | X      |
+  | CAMBRIAN COASTER DAY RANGER | CCD        | I395 | 9.50   | 4.75   |
+  | CORNWALL RANGER             | CRD        | J118 | 8.50   | 4.25   |
+  | DEVON RANGER                | TSA        | I857 | 8.50   | 4.25   |
+  | EAST SUFFOLK DAY RANGER     | ESR        | I531 | 12.45  | X      |
+  | EXPLORE CARDIFF & VALLEYS   | VDR        | I494 | 8.00   | 4      |
+  | EXPLORE NORTH WALES         | W37        | H515 | 59.50  | 29.75  |
+  | EXPLORE SOUTH WALES         | SW3        | H746 | 59.50  | 29.75  |
+  | EXPLORE THE CAPITAL         | ECC        | I512 | 3.75   | 1.85   |
+  | EXPLORE WALES               | SW4        | H743 | 74.50  | 37.25  |
+  | FODC ROVER 3 IN 7           | D07        | I650 | 33.50  | X      |
+  | FODC ROVER 8 IN 15 DAYS     | D37        | I659 | 53.75  | X      |
+  | FOSS ROVER 3 IN 7 DAYS      | S37        | I863 | 39.75  | 19.90  |
+  | FOSS ROVER 8IN 15 DAYS      | WR7        | I862 | 53.75  | 26.90  |
+  | FOSW ROVER 3 IN 7 DAYS      | TSR        | I855 | 67.75  | 33.90  |
+  | FOSW ROVER 8 IN 15 DAYS     | SW7        | I621 | 94.25  | 125.55 |
+  | HEART OF WESSEX RANGER      | TSV        | I858 | 13.75  | 6.90   |
+  | KENNET DAY RANGER           | KDR        | I784 | 8.75   | 4.40   |
+  | NORTH DOWNS DAY RANGER      | NDD        | I358 | 11.00  | 5.50   |
+  | NORTH WALES ALL ZONE        | NMW        | H522 | 22.50  | 11.25  |
+  | OXFORDSHIRE DAY RANGER      | ODR        | I432 | 11.00  | 5.50   |
+  | ST IVES LINE DAY            | SID        | I294 | 2.10   | 1.05   |
+  | THAMES BRANCHES DAY RANGER  | TBR        | I066 | 13.75  | 6.9    |
+  | THAMES ROVER 3 DAYS         | TR3        | I367 | 33.50  | X      |
+  | THAMES ROVER 7 DAYS         | TR7        | I367 | 60.50  | X      |
+  | Waterside Wander Ranger     | WRR        | I437 | 6.75   | X      |
+
+  {{% /expander %}}
 
 - **Season Tickets and London Tickets:** \
   Unlimited travel between two stations for a set period or within specified London zones for a set period. FIP 50 Discount is not available.
@@ -567,8 +598,8 @@ Great Britain can also be explored by night trains:
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [FIP Guide Community Feedback Rover](https://discord.com/channels/1250522473188032512/1452026899705368738)
+[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
 [^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
-[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
+[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)

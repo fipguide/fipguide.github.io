@@ -418,7 +418,7 @@ West Midlands Trains exploite des liaisons locales et régionales sous deux marq
 
 ## Achat de billets et réservations
 
-Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 n’est pas accordée sur tous les billets.
+Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 n’est pas accordée sur tous les billets. Le [site BR Fares](https://www.brfares.com/) permet de rechercher des tarifs sur une ligne en ajoutant "FIP Discount 50%" ou "FIP Discount 75%" comme réduction.
 
 - **Billets Anytime :** \
   Ces billets sont flexibles et peuvent être utilisés à tout moment de la journée. Le prix est constant et non soumis à des quotas. La Réduction FIP 50 s’applique à ces billets. Il existe des billets Single (aller simple) et Return (aller-retour). Un billet Return peut parfois être moins cher que deux billets Single. L’interruption de voyage est possible.
@@ -427,15 +427,49 @@ Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP
 - **Billets Advance :** \
   Ces billets sont fortement réduits mais ne sont valables que pour le train sélectionné. Ils peuvent être achetés jusqu’à 10 minutes avant le départ. La Réduction FIP 50 ne s’applique pas à ces billets.
 - **Rovers :** \
-  Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s’applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n’est accordée que sur demande.
+  Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s'applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n'est accordée que sur demande.
 
-{{% highlight inofficial %}}
-[En ligne](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s’applique également à ces Rovers.
+  [BR Fares](https://www.brfares.com/!roverhome) propose une page où vous pouvez saisir le nom du Rover et sélectionner "FIP Discount 50%" ou "FIP Discount 75%" comme option de réduction. Si un résultat s'affiche, le Rover est valable avec FIP, sinon il ne l'est pas.
 
-En règle générale : les billets valables exclusivement sur les services National Rail sont généralement acceptés. Les billets combinés train et bus ne sont en principe pas valables. Pour les billets couvrant à la fois National Rail et des lignes historiques, la validité doit être vérifiée au cas par cas.
+  {{% expander "Liste des Rovers disponibles avec réduction FIP" info "rover" %}}
+  Il s’agit d’une liste non officielle des Rovers disponibles fournie par la communauté (état au 24 janvier 2026). [^3]
 
-Par exemple, le Isle of Wight Ranger couvrant uniquement les services SWR est valable avec FIP, tandis que la version incluant les trains à vapeur ne l’est pas (même si ceux-ci sont parfois vendus avec réduction FIP). [^3]
-{{% /highlight %}}
+  Elle peut servir d’orientation ; toutefois, les offres individuelles doivent être vérifiées via BR Fares.
+
+  | Name                        | Rover Code | NLC  | FIP 50 | FIP 75 |
+  | --------------------------- | ---------- | ---- | ------ | ------ |
+  | ANGLIA PLUS DAY RANGER      | AP1        | K285 | 14.85  | X      |
+  | BITTERN LINE DAY RANGER     | BV1        | I013 | 9.50   | X      |
+  | CAMBRIAN COASTER DAY RANGER | CCD        | I395 | 9.50   | 4.75   |
+  | CORNWALL RANGER             | CRD        | J118 | 8.50   | 4.25   |
+  | DEVON RANGER                | TSA        | I857 | 8.50   | 4.25   |
+  | EAST SUFFOLK DAY RANGER     | ESR        | I531 | 12.45  | X      |
+  | EXPLORE CARDIFF & VALLEYS   | VDR        | I494 | 8.00   | 4      |
+  | EXPLORE NORTH WALES         | W37        | H515 | 59.50  | 29.75  |
+  | EXPLORE SOUTH WALES         | SW3        | H746 | 59.50  | 29.75  |
+  | EXPLORE THE CAPITAL         | ECC        | I512 | 3.75   | 1.85   |
+  | EXPLORE WALES               | SW4        | H743 | 74.50  | 37.25  |
+  | FODC ROVER 3 IN 7           | D07        | I650 | 33.50  | X      |
+  | FODC ROVER 8 IN 15 DAYS     | D37        | I659 | 53.75  | X      |
+  | FOSS ROVER 3 IN 7 DAYS      | S37        | I863 | 39.75  | 19.90  |
+  | FOSS ROVER 8IN 15 DAYS      | WR7        | I862 | 53.75  | 26.90  |
+  | FOSW ROVER 3 IN 7 DAYS      | TSR        | I855 | 67.75  | 33.90  |
+  | FOSW ROVER 8 IN 15 DAYS     | SW7        | I621 | 94.25  | 125.55 |
+  | HEART OF WESSEX RANGER      | TSV        | I858 | 13.75  | 6.90   |
+  | KENNET DAY RANGER           | KDR        | I784 | 8.75   | 4.40   |
+  | NORTH DOWNS DAY RANGER      | NDD        | I358 | 11.00  | 5.50   |
+  | NORTH WALES ALL ZONE        | NMW        | H522 | 22.50  | 11.25  |
+  | OXFORDSHIRE DAY RANGER      | ODR        | I432 | 11.00  | 5.50   |
+  | ST IVES LINE DAY            | SID        | I294 | 2.10   | 1.05   |
+  | THAMES BRANCHES DAY RANGER  | TBR        | I066 | 13.75  | 6.9    |
+  | THAMES ROVER 3 DAYS         | TR3        | I367 | 33.50  | X      |
+  | THAMES ROVER 7 DAYS         | TR7        | I367 | 60.50  | X      |
+  | Waterside Wander Ranger     | WRR        | I437 | 6.75   | X      |
+
+  {{% highlight important %}}
+  FOSW ROVER 8 IN 15 DAYS est plus cher avec FIP 75.
+  {{% /highlight %}}
+  {{% /expander %}}
 
 - **Abonnements et billets Londres :** \
   Trajets illimités entre deux gares pour une période donnée ou dans les zones londoniennes spécifiées pour une période donnée. La Réduction FIP 50 n’est pas disponible.
@@ -568,8 +602,8 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 
 [^2]: [Caledonian Sleeper - Avant votre voyage](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [Retour d’expérience Rover sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1452026899705368738)
+[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
 [^4]: [Retour d’expérience Heathrow Express sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
-[^5]: [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1459162934839345244)
+[^5]: [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)

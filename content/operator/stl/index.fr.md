@@ -137,6 +137,10 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes e
 {{% /float-image %}}
 {{% /expander %}}
 
+### En ligne
+
+{{% booking id="stena-line-email" /%}}
+
 ### Par téléphone
 
 {{% booking id="stena-line-phone" /%}}
@@ -152,6 +156,10 @@ L’achat à bord des navires n’est pas possible.
 Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 14 ans ils paient le tarif adulte. [^2]
 
 ## Recommandations
+
+{{% highlight important %}}
+Veuillez noter que l'enregistrement n'est possible que jusqu'à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.
+{{% /highlight %}}
 
 L’accès à la station _Hoek van Holland Haven_ se fait généralement par la ligne de métro B depuis Rotterdam et Schiedam.
 
