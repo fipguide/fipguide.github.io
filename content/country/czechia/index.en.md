@@ -69,4 +69,4 @@ The same applies to regional trains between Mikulovice and Krnov, which make a s
 
 ### Slovakia
 
-From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ZSR is required. Cross-border trains from RegioJet cannot be used with FIP.
+From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ŽSR is required. Cross-border trains from RegioJet cannot be used with FIP.

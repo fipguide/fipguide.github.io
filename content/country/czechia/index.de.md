@@ -70,4 +70,4 @@ Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kur
 
 ### Slowakei
 
-Von der Slowakei aus können grenzüberschreitende Züge der ČD bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ZSR benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
+Von der Slowakei aus können grenzüberschreitende Züge der ČD bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ŽSR benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
