@@ -43,14 +43,14 @@ Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterrei
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Tschechien (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr),
-| Ungarn (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron|
+| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr),
+| Ungarn ([GySEV](/operator/gysev)) | Pamhagen (Gr), Szentgotthárd, Sopron|
 | Ungarn (MÁV) | Hegyshalom (Gr), Sopron |
-| Deutschland (DB) | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slowenien (SZ) | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr) |
-| Slowakei (ZSR)| Marchegg(Gr), Kittsee(Gr)
-| Schweiz (SBB) | Buchs SG, St. Margrethen |
-| Italien (FS)| Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slowenien (SŽ) | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr) |
+| [Slowakei](/country/slovakia) ([ZSSK](/operator/zssk))| Marchegg(Gr), Kittsee(Gr)
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb)) | Buchs SG, St. Margrethen |
+| [Italien](/country/italy) ([FS](/operator/fs))| Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde
 
 {{% /expander %}}
 

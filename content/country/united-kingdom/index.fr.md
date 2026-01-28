@@ -46,9 +46,9 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| France, Belgique, Pays-Bas (Eurostar) | London St. Pancras International |
-| Pays-Bas (Stena Line) | Harwich P.Q. |
-| Irlande (Stena Line) | Holyhead, Fishguard |
+| [France](/country/france), [Belgique](/country/belgium), [Pays-Bas](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
+| [Pays-Bas](/country/netherlands) ([Stena Line](/operator/stl)) | Harwich P.Q. |
+| Irlande ([Stena Line](/operator/stl)) | Holyhead, Fishguard |
 | Irlande (CIE) | Dundalk |
 {{% /expander %}}
 

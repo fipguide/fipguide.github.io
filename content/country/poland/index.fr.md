@@ -33,12 +33,12 @@ L’état, la densité et la fréquence des lignes ferroviaires dépendent souve
 | Pays | Points frontières |
 |----------------------------|-------------------|
 | Biélorussie (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie) |
-| Tchéquie (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
-| Allemagne (DB AG) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Lituanie (LTG-Link) | Mockava (Gr) |
+| [Tchéquie](/country/czechia) ([ČD](/operator/cd)) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
+| [Allemagne](/country/germany) ([DB AG](/operator/db)) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg)) | Mockava (Gr) |
 | Russie (RZD) | Braniewo (Gr) |
 | Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr) |
-| Slovaquie (ŽSR) | Lupkow (Gr) |
+| [Slovaquie](/country/slovakia) ([ZSSK](/operator/zssk)) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Biélorussie

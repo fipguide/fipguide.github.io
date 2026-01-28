@@ -17,9 +17,9 @@ La ligne principale nord-sud traverse tout le pays et passe en partie par les mo
 {{% expander "Point frontière" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Belgique (SNCB) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Allemagne (DB) | Igel (Gr) |
-| France (SNCF) | Bettembourg (fr), Rodange (fr) |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Igel (Gr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Bettembourg (fr), Rodange (fr) |
 
 {{% /expander %}}
 
