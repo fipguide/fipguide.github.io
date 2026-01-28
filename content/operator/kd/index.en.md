@@ -45,8 +45,6 @@ FIP 50 Tickets are available for domestic and international connections. For int
     subtitle="For domestic connections"
 %}}
 FIP 50 Tickets can only be sold for domestic journeys.
-
-Alternatively, booking is possible via the [Polregio website](https://bilety.polregio.pl/), following the same procedure as Koleo.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"

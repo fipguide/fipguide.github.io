@@ -45,8 +45,6 @@ FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen 
     subtitle="Für nationale Verbindungen"
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
-
-Alternativ kann auch über die [Website von Polregio](https://bilety.polregio.pl/) gebucht werden. Die Funktionsweise ist identisch zu Koleo.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
