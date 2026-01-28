@@ -23,7 +23,7 @@ Lettlands Eisenbahnnetz basiert auf der 1520 mm‑Breitspur. Der Personenverke
 | Land | Grenzpunkte |
 | --- | --- |
 | Estland | Valga |
-| Lettland (LDz) | Joniškis |
+| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis |
 | Belarus/Weißrussland | Grenze gesperrt |
 | Russland | Grenze gesperrt |
 {{% /expander %}}

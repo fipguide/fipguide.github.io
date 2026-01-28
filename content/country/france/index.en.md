@@ -33,13 +33,13 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Luxembourg (CFL) | Bettembourg (fr), Rodange (fr) |
-| Germany (DB) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
-| Eurostar (EIL) | Paris, Lille |
-| Italy (FS) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Spain (Renfe) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
-| Switzerland (SBB, BLS and SP) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| Belgium (SNCB) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Bettembourg (fr), Rodange (fr) |
+| [Germany](/country/germany) ([DB](/operator/db)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
+| [Eurostar](/operator/eurostar) | Paris, Lille |
+| [Italy](/country/italy) ([FS](/operator/fs)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Spain](/country/spain) ([Renfe](/operator/renfe)) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS and [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### United Kingdom

@@ -29,10 +29,10 @@ Besonders erwähnenswert sind die beeindruckenden Bahnhofsgebäude von Liège-Gu
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Luxemburg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Deutschland (DB) | Aachen Süd (Gr) |
-| Niederlande (NS) | Roosendaal (fr), Visé (fr) |
-| Frankreich (SNCF) | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
+| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Aachen Süd (Gr) |
+| [Niederlande](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr) |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### Luxemburg

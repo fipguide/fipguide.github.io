@@ -31,9 +31,9 @@ A special highlight is the ride in the High Tatras with the Tatranská železnic
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Czechia (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| Hungary (GySEV) | Rajka (Gr) |
-| Hungary (MÁV) | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
+| [Czechia](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Hungary ([GySEV](/operator/gysev)) | Rajka (Gr) |
+| Hungary (MÁV) | Bánréve (Gr), Čaňa (Gr), Fil'akovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
 {{% /expander %}}
 
 ### Czech Republic

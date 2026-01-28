@@ -17,9 +17,9 @@ The main north-south line runs through the entire country and partly through the
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Belgium (SNCB) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Germany (DB) | Igel (Gr) |
-| France (SNCF) | Bettembourg (fr), Rodange (fr) |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Germany](/country/germany) ([DB](/operator/db)) | Igel (Gr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Bettembourg (fr), Rodange (fr) |
 
 {{% /expander %}}
 

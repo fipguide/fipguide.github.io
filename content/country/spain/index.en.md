@@ -30,8 +30,8 @@ Furthermore, for long-distance travel, luggage checks are conducted at the stati
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Portugal (CP) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| France (SNCF) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
+| [Portugal](/country/portugal) ([CP](/operator/cp)) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
 {{% /expander %}}
 
 ### France

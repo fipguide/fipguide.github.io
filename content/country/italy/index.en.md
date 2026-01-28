@@ -29,9 +29,9 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Austria (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Switzerland (SBB, BLS, SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| France (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slovenia (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
 | Ferry (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
