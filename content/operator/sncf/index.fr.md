@@ -330,7 +330,7 @@ Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont vala
 
 Attention : pour les trajets entre Gare du Nord et Châtelet – Les Halles, seule la ligne RER D exploitée par la SNCF est valable. Les réductions FIP ne sont pas valables sur la ligne RER B exploitée par la RATP sur le même tronçon.
 
-L'accès avec les Coupons FIP est pratiquement limité, voir [Portillons](#portillons).
+L'accès à certaines gares est limité par des portillons. Lors de l'utilisation de Coupons FIP, un pass d'accès temporaire est nécessaire, voir [Portillons](#portillons).
 {{% /train-category %}}
 
 {{% train-category
@@ -342,7 +342,7 @@ L'accès avec les Coupons FIP est pratiquement limité, voir [Portillons](#porti
 %}}
 Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N, P, R, U et V.
 
-L'accès avec les Coupons FIP est pratiquement limité, voir [Portillons](#portillons).
+L'accès à certaines gares est limité par des portillons. Lors de l'utilisation de Coupons FIP, un pass d'accès temporaire est nécessaire, voir [Portillons](#portillons).
 {{% /train-category %}}
 
 {{% train-category
@@ -359,7 +359,7 @@ Les lignes de tramway suivantes acceptent FIP :[^4]
 
 Les tramways T12 et T13 ne sont plus valables avec FIP depuis décembre 2025.[^3]<sup>,</sup>[^10] Les autres tramways ne sont pas valables avec FIP, car ils sont exploités par RATP.
 
-L'accès avec les Coupons FIP est pratiquement limité, voir [Portillons](#portillons).
+L'accès à certaines gares est limité par des portillons. Lors de l'utilisation de Coupons FIP, un pass d'accès temporaire est nécessaire, voir [Portillons](#portillons).
 {{% /train-category %}}
 
 #### Portillons
@@ -375,7 +375,7 @@ Les Billets FIP à tarif réduit pour `RER`, Transilien et tramways peuvent êtr
 {{% /float-image %}}
 
 {{% highlight important %}}
-Les entrées des gares de trains et de tramways sont souvent équipées de portillons. Ceux-ci ne sont souvent pas surveillés par du personnel. Sans la _Contremarque de Passage_ (carte d'accès temporaire), il n'est donc souvent pas possible d'accéder aux gares.
+De nombreuses gares équipées de portillons ne sont pas surveillées par du personnel. Il existe des interphones d'assistance, mais ils fonctionnent de manière peu fiable. Sans la _Contremarque de Passage_ (carte d'accès temporaire), il n'est donc souvent pas possible d'accéder aux gares.
 {{% /highlight %}}
 
 ### Bus SNCF

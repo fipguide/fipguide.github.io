@@ -330,7 +330,7 @@ Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten
 
 Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.
 
-Zugang mit FIP Freifahrtscheinen ist praktisch nur eingeschränkt möglich, siehe [Ticketschranken](#ticketschranken).
+Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei Nutzung von FIP Freifahrtscheinen ist ein temporärer Zugangspass notwendig, siehe [Ticketschranken](#ticketschranken).
 {{% /train-category %}}
 
 {{% train-category
@@ -342,7 +342,7 @@ Zugang mit FIP Freifahrtscheinen ist praktisch nur eingeschränkt möglich, sieh
 %}}
 FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, und V.
 
-Zugang mit FIP Freifahrtscheinen ist praktisch nur eingeschränkt möglich, siehe [Ticketschranken](#ticketschranken).
+Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei Nutzung von FIP Freifahrtscheinen ist ein temporärer Zugangspass notwendig, siehe [Ticketschranken](#ticketschranken).
 {{% /train-category %}}
 
 {{% train-category
@@ -359,7 +359,7 @@ Folgende Straßenbahnlinien akzeptieren FIP:[^4]
 
 Auf den Straßenbahnlinien T12 und T13 ist FIP seit Dezember 2025 nicht mehr gültig.[^3]<sup>,</sup>[^10] Auf allen anderen Linien gelten keine FIP Vergünstigungen, da diese von RATP betrieben werden.
 
-Zugang mit FIP Freifahrtscheinen ist praktisch nur eingeschränkt möglich, siehe [Ticketschranken](#ticketschranken).
+Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei Nutzung von FIP Freifahrtscheinen ist ein temporärer Zugangspass notwendig, siehe [Ticketschranken](#ticketschranken).
 {{% /train-category %}}
 
 #### Ticketschranken
@@ -374,7 +374,7 @@ Vergünstigte FIP Tickets für `RER`, Transilien-Züge und Straßenbahnen könne
 {{% /float-image %}}
 
 {{% highlight important %}}
-Eingänge zu Stationen von Zügen und Straßenbahnen sind oftmals mit Ticketschranken ausgerüstet. Diese sind oft nicht mit Personal besetzt. Ohne die _Contremarque de Passage_ (Temporäre Zugangskarte) besteht daher oft keine Möglichkeit, Zugang zu den Stationen zu erhalten.
+Viele Stationen mit Ticketschranken sind nicht mit Personal besetzt. Es gibt zwar Hilfssprechanlagen, diese funktionieren aber unzuverlässig. Ohne die _Contremarque de Passage_ (Temporäre Zugangskarte) besteht daher oft keine Möglichkeit, Zugang zu den Stationen zu erhalten.
 {{% /highlight %}}
 
 ### Busverkehr
