@@ -68,10 +68,10 @@ Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein
 Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris nach München und Straßburg oder Karlsruhe/Saarbrücken, Mannheim und Frankfurt. Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht bereits ab dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Deutschland und Straßburg zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitenden der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
-Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4 von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitendenvergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
+Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^3] (TagesTicket M Fern F, DB Job-Ticket M, Netzcard + NE-Zusatzfahrkarte). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
-Außerdem gibt es verschiedene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
+Außerdem gibt es verschiedene von DB und SNCF betriebene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
 Das Deutschlandticket, das eine günstige Option zur Nutzung im deutschen Regionalverkehr ist, gilt auch ohne zusätzliches Ticket auf den Regionalzugverbindungen von Deutschland nach Lauterbourg und Wissembourg oder mit der Saarbahn nach Sarreguemines.
@@ -114,3 +114,5 @@ Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Mon
 [^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

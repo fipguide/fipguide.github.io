@@ -172,7 +172,7 @@ Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch wed
 Zwischen Frankreich und Deutschland verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris über Straßburg oder Saarbrücken nach München oder Karlsruhe, Mannheim und Frankfurt (Main). Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht auf der Route über Straßburg und Karlsruhe bis zu dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Straßburg und Deutschland zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
-Eine günstige Option für die Fahrt von Straßburg nach Deutschland besteht mit der Straßenbahn von Straßburg nach Kehl, für welche ein günstiges Tram Ticket erforderlich ist. Ab Kehl besteht Anschluss an die Ortenau S-Bahn Linie RS4 bis Offenburg. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket (DB-Mitarbeitervergünstigungen gelten auf dieser Linie nur mit NE-Fahrscheinen).
+Eine günstige Option für die Fahrt von Straßburg nach Deutschland besteht mit der Straßenbahn von Straßburg nach Kehl, für welche ein günstiges Tram Ticket erforderlich ist. Ab Kehl besteht Anschluss an die Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, bis Offenburg. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^4] (TagesTicket M Fern F, DB Job-Ticket M, Netzcard + NE-Zusatzfahrkarte).
 {{% /highlight %}}
 
 Neben den Fernverkehrsverbindungen werden noch eine Reihe von Verbindungen mit Nahverkehrszügen angeboten. Um diese auf der kompletten Strecke zu nutzen, sind Freifahrtscheine der DB und SNCF oder ein durchgängiges FIP 50 Ticket erforderlich. Beispiele dafür sind die Routen zwischen Metz und Saarbrücken oder Wissembourg und Neustadt an der Weinstraße. Die Züge zwischen Straßburg und Kehl/Offenburg werden dagegen auf deutscher Seite durch die SWEG betrieben, wo FIP-Fahrscheine der DB keine Gültigkeit haben.
@@ -276,3 +276,5 @@ Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. A
 [^2]: [DB Regio Beförderungsbestimmungen Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
 
 [^3]: [Feedback Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)
+
+[^4]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
