@@ -276,7 +276,7 @@ Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reser
   fip_accepted=partially
   reservation_required=true
 %}}
-Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130€).
+Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien oder Belgien sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden. Diese können jedoch teilweise sehr teuer sein (bis zu 130 €).
 {{% /train-category %}}
 
 {{% train-category

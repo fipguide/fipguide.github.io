@@ -24,9 +24,9 @@ Dafür kann der Tarif _DIRITTO AMMISSIONE_ genutzt werden. Dieser bezieht sich z
 
 **Preise für _DIRITTO AMMISSIONE_:**
 
-Le Frecce: 25€ (1./2. Klasse) \
-InterCity: 3€ (1./2. Klasse) \
-Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20€ Chiasso – Milano (`ECE`/`EC`)
+Le Frecce: 25 € (1./2. Klasse) \
+InterCity: 3 € (1./2. Klasse) \
+Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20 € Chiasso – Milano (`ECE`/`EC`)
 
 Bei der Buchung muss über die Verbindungsauskunft erst eine Verbindung ausgewählt werden. Anschließend kann in der Ticketauswahl über den Button _Weitere Angebote anzeigen_ die Auswahl des Tarifs _DIRITTO AMMISSIONE_ erfolgen. Als Zugangsnummer kann die Nummer des FIP Freifahrtscheins angegeben werden.
 

@@ -35,7 +35,7 @@ Der FIP Ausweis hat je nach eigener Bahngesellschaft eine unterschiedliche Gült
 Für folgende Bahngesellschaften liegen uns Informationen zur Gültigkeitsdauer vor:
 
 {{% expander "Deutsche Bahn (DB)" info "national" %}}
-Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027.
+Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025–2026–2027.
 {{% /expander %}}
 
 {{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}

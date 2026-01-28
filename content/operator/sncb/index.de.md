@@ -48,7 +48,7 @@ Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüs
 **Reservierungspflicht:** nein \
 **Zuschlag**: ⚠️ \
 Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3 € zu entrichten. \
-Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
+Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80 € erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /expander %}}
@@ -130,7 +130,7 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von 6 bis 11 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 12 zahlen sie den Erwachsenen-Tarif. Sind sie FIP-berechtigt, zahlen sie entsprechend hier auch bei FIP 50 nur die Hälfte des Normalpreises.[^1]
+Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von 6 bis 11 Jahren sind berechtigt für ein Rabatt von 50 % auf den Erwachsenen-Tarif, ab 12 zahlen sie den Erwachsenen-Tarif. Sind sie FIP-berechtigt, zahlen sie entsprechend hier auch bei FIP 50 nur die Hälfte des Normalpreises.[^1]
 
 ## Tarifliche Besonderheiten
 

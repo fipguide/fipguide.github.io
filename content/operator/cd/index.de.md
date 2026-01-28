@@ -206,7 +206,7 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Aufschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `IC` und `Ex`. (Und `R` Züge, die mit "NATO Days" gekennzeichnet sind).[^3]
 
-Die ČD stellt eine Übersicht mit betroffenen Fahrten zur Verfügung: [ČD kommerzielle Zuge und ausgewahlte Linien 2024-2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
+Die ČD stellt eine Übersicht mit betroffenen Fahrten zur Verfügung: [ČD kommerzielle Zuge und ausgewahlte Linien 2024–2025](https://www.raildeliverygroup.com/images/RST/CD%20kommerzielle%20Zuge%20und%20ausgewahlte%20Linien%202024-2025.pdf)
 
 Für Reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
 
@@ -235,13 +235,13 @@ Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie
 
 FIP Fahrkarten sind in Regionalzügen in Süd-Mähren nicht gültig, auch wenn diese von der ČD betrieben werden
 
-Übersicht über die Verbindungen: [Sperrliste CD JMK 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
+Übersicht über die Verbindungen: [Sperrliste CD JMK 2024–2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20JMK%202024-2025.pdf)
 
 #### Regionalzüge in der Region Pilsen
 
 FIP Fahrkarten sind auf einigen Regionalzügen im Raum Pilsen nicht gültig.
 
-Übersicht über die Verbindungen: [Sperrliste CD Region Pilsen 2024-2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
+Übersicht über die Verbindungen: [Sperrliste CD Region Pilsen 2024–2025](https://www.raildeliverygroup.com/images/RST/Sperrliste%20CD%20Region%20Pilsen%202024%20-%202025.pdf)
 
 ### Busse und Ersatzverkehr
 

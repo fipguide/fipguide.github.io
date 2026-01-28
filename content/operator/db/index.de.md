@@ -79,8 +79,8 @@ Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen Mü
 
 **Aufschlag/Reservierung Italien:**
 
-- 1\. Klasse: 13€
-- 2\. Klasse: 11€
+- 1\. Klasse: 13 €
+- 2\. Klasse: 11 €
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark ⚠️
@@ -235,7 +235,7 @@ In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
-Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte [_Produktklassen_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte [_Produktklassen_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z. B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
 
 Es gibt folgende Produktklassen:
 

@@ -25,6 +25,8 @@ Ein praxisorientierter Leitfaden für einheitliche Texte: Bindestrich/Durchkoppl
 
 **Hinweis:** Non‑breaking hyphen (U+2011) im CMS verwenden, um Zeilenumbruch zu vermeiden.
 
+**Ausnahmen:** Eigennamen und Verbindungen mit Abkürzungen von Bahngesellschaften (z. B. FIP Guide, DB Ticketschalter, SNCB Hotline)
+
 ## 2. Striche — Bindestrich vs. Gedankenstrich
 
 | Strich         | Zeichen | Unicode | Verwendung        | Beispiel                        |
