@@ -13,6 +13,8 @@ Au Portugal, les Billets FIP 50 et les Coupons FIP peuvent être utilisés sur l
 
 L’opérateur privé Fertagus exploite la ligne `R` entre Lisbonne Roma-Areeiro et Setúbal. Cette ligne n’est malheureusement pas couverte par le FIP. Dans le [planificateur de trajets de la CP](https://www.cp.pt/en) les trains Fertagus n’apparaissent pas ; sur Google Maps ils sont visibles sous le nom de ligne `Setúbal`.
 
+{{< identify-operator sources="cp-website,db-website" />}}
+
 ## Informations générales
 
 Le Portugal ne dispose pas d’un réseau ferroviaire particulièrement dense. Le trafic ferroviaire se concentre sur l’axe principal reliant Braga, Porto, Lisbonne et Faro, ainsi que sur les zones métropolitaines de Lisbonne et Porto. Plusieurs relations ont été fermées ces dernières décennies, privant certaines villes (par exemple Mora et Monsaraz) de desserte ferroviaire.

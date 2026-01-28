@@ -15,6 +15,8 @@ In Spanien ist die Nutzung von FIP nicht immer einfach, da hier einfach einsteig
 
 Die [Renfe](/operator/renfe "Renfe") ist das größte Eisenbahnverkehrsunternehmen in Spanien und akzeptiert FIP. Auf den lukrativen Relationen konkurriert sie dabei mit jeder Menge privater Anbieter wie [OUIGO](/operator/sncf#Fernverkehr "OUIGO") oder Iryo, bei denen kein FIP akzeptiert wird. Ein weiterer Anbieter im Baskenland ist [Euskotren](/operator/euskotren), der ebenfalls FIP akzeptiert.
 
+{{< identify-operator sources="renfe-website,renfe-commuter-website,euskotren-website,db-website" />}}
+
 ## Wissenswertes
 
 Spanien hat kein besonders engmaschiges Netz, stattdessen besteht es vor allem aus neuen Hochgeschwindigkeitsstrecken in Normalspur und älteren Regionalstrecken in iberischer Breitspur.

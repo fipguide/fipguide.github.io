@@ -27,6 +27,10 @@ Il existe aussi plusieurs opérateurs régionaux de trains locaux qui n’accept
 
 La [GySEV / Raaberbahn](/operator/gysev "GySEV") est une deuxième compagnie ferroviaire qui accepte les Billets FIP en Autriche et en Hongrie. Les Coupons FIP GySEV sont principalement destinés à la Hongrie et ne sont valables que de façon limitée sur les lignes GySEV en Autriche.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+Dans la [recherche d’horaires en ligne de l’ÖBB](https://fahrplan.oebb.at/), seuls les types de trains sont indiqués, sans distinction entre les opérateurs.
+{{< /identify-operator >}}
+
 ## Informations générales
 
 L’Autriche dispose d’un réseau ferroviaire dense, structuré autour de deux lignes principales :

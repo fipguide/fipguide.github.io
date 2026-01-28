@@ -1,0 +1,58 @@
+<details class="o-expander o-expander--booking">
+  <summary class="o-expander__summary o-expander__summary--identify-operator">
+    <div class="o-identify-operator__header">
+      <div class="o-identify-operator__title">
+        {{- partial "icon" "search" -}}
+        <span class="o-identify-operator__title-text"
+          >{{ T "identify-operator.title" }}</span
+        >
+      </div>
+    </div>
+    {{- partial "icon" "keyboard_arrow_down" -}}
+  </summary>
+  <hr aria-hidden="true" />
+  <div class="o-expander__content">
+    {{ if .innerContent }}
+      <div class="o-identify-operator__intro">
+        <div class="o-single__content">
+          {{ .innerContent | markdownify }}
+        </div>
+      </div>
+    {{ end }}
+    {{ range $index, $operatorId := .sources }}
+      {{- $page := site.GetPage (print "identify-operator/" $operatorId) -}}
+      {{ if gt $index 0 }}
+        <hr class="o-identify-operator__separator" />
+      {{ end }}
+
+
+      <div class="o-identify-operator__item">
+        <h3 class="o-identify-operator__item-title">{{ $page.Title }}</h3>
+
+        <div class="o-identify-operator__item-content">
+          {{ with $page.Resources.Get "image.webp" }}
+            <div class="o-identify-operator__image-wrapper">
+              {{- partial "image" (dict "image" .) -}}
+            </div>
+          {{ end }}
+
+
+          <div class="o-single__content">
+            {{ $page.Content | safeHTML }}
+          </div>
+
+          {{ if $page.Params.url }}
+            <div class="o-identify-operator__actions">
+              {{- partial "button"
+                (dict
+                "Destination" $page.Params.url
+                "Text" (T "identify-operator.learn-more")
+                )
+              -}}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</details>

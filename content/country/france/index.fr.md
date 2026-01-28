@@ -18,6 +18,8 @@ En France, presque tout le réseau ferroviaire peut être parcouru avec FIP, car
 
 Sur les liaisons internationales, les trains [Eurostar](/operator/eurostar "Eurostar") vers le Royaume-Uni, la Belgique, les Pays-Bas et l’Allemagne peuvent être utilisés avec des Tarifs Globaux FIP spécifiques. Il existe également des Tarifs Globaux FIP pour les trains internationaux `TGV` (sauf vers l’Allemagne). De plus, les billets au Tarif Global FIP permettent d’emprunter les trains AVE de la Renfe espagnole sur la liaison vers l’Espagne. Les trains Frecciarossa de [Trenitalia](/operator/fs "Trenitalia") vers l’Italie ne sont pas accessibles avec FIP en France.
 
+{{< identify-operator sources="sncf-connect,db-website" />}}
+
 ## Informations générales
 
 La France dispose d’un réseau ferroviaire bien développé, mais est surtout connue pour ses liaisons TGV rapides et fréquentes entre Paris et les autres grandes villes du pays. Le réseau est fortement centré sur Paris, ce qui fait que de nombreuses liaisons passent par la capitale. Lors d’une correspondance à Paris, il est conseillé de prévoir un temps de changement suffisant, car il faut souvent changer de gare en métro (FIP non valable). De plus, dans les trains longue distance, les portes ferment généralement deux minutes avant le départ pour garantir la ponctualité.

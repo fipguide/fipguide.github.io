@@ -31,6 +31,8 @@ Nordirland wird dagegen von einem eigenen Bahnbetreiber (NIR) bedient, bei dem F
 
 Zusätzlich gibt es Züge von [Eurostar](/operator/eurostar "Eurostar") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 
+{{< identify-operator sources="gb-website,db-website" />}}
+
 ## Wissenswertes
 
 Das Vereinigte Königreich ist das Ursprungsland der Eisenbahn und diese hat dort eine dementsprechend lange Tradition. Das Bahnnetz erstreckt sich über das ganze Land und es gibt viele (Direkt-)Verbindungen in alle Regionen. Die Qualität der Züge und Bahnhöfe ist sehr unterschiedlich, da viele Betreiber unabhängig voneinander agieren. Einige Betreiber bieten moderne und komfortable Züge, während andere noch ältere Modelle im Einsatz haben.

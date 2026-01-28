@@ -8,6 +8,8 @@ country: "luxembourg"
 
 In Luxemburg ist der komplette öffentliche Nahverkehr kostenlos. Daher werden FIP 50 Tickets und Freifahrtscheine der [CFL](/operator/cfl "CFL") nur für Fahrten in der ersten Klasse oder für grenzüberschreitende Verbindungen benötigt. Die `TGV` Verbindungen von/nach Frankreich können mit einem FIP Freifahrtschein der CFL nicht für Fahrten in Luxemburg genutzt werden. Stattdessen müssen hier teure FIP Globalpreistickets gekauft werden.
 
+{{< identify-operator sources="cfl-website,db-website" />}}
+
 ## Wissenswertes
 
 Die Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise auch durch die Berge, u. a. in Clervaux. Von dieser Hauptstrecke zweigen auch einige Nebenbahnen ab, die meist eher langsam sind, dafür aber auch einige schöne Orte beinhalten, z. B. zwischen Kautenbach und Wiltz.

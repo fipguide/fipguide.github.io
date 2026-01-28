@@ -22,6 +22,8 @@ Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent é
 
 D’autres opérateurs, comme Arriva Nederland, ou les trains régionaux transfrontaliers `RE` (Arnhem – Düsseldorf, Venlo – Hamm, Maastricht – Aix-la-Chapelle) n’acceptent pas les Billets FIP. Tous les bus (sauf remplacement rail), trams et métros sont également exclus.
 
+{{< identify-operator sources="ns-website,db-website" />}}
+
 ## Informations générales
 
 Les Pays-Bas disposent d’un réseau ferroviaire extrêmement dense et d’un service cadencé parmi les meilleurs d’Europe. La plupart des lignes sont desservies au moins toutes les 30 minutes, voire plus fréquemment sur les axes principaux.

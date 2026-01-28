@@ -8,6 +8,8 @@ country: "liechtenstein"
 
 The railway in Liechtenstein is operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb "ÖBB"). All ÖBB tickets are valid here, including FIP 50 Tickets and FIP Coupons for ÖBB. ÖBB FIP conditions also apply in Liechtenstein.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Interesting
 
 Only one railway line runs through Liechtenstein - the approximately 8 km long route from Feldkirch (Austria) to Buchs SG (Switzerland), which includes three stations on Liechtenstein territory. This route is part of the international long-distance connection Vienna - Salzburg - Innsbruck - Switzerland and is operated by the Austrian Federal Railways.

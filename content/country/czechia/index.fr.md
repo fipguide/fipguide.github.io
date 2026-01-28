@@ -18,6 +18,8 @@ La Tchéquie n’est pas le pays le plus simple pour utiliser la FIP, mais il re
 
 Attention, la FIP n’est plus valable sur toutes les lignes exploitées par la ČD. Il existe aussi certains _services commerciaux_ nécessitant un supplément. Avec un Coupon FIP, il faut tenir compte de toutes ces exceptions, tandis que les Billets FIP 50 vendus par la ČD devraient permettre d’identifier plus facilement les trains valables. Les opérateurs privés comme Arriva ou Die Länderbahn n’acceptent pas du tout la FIP, mais les billets en Tchéquie restent généralement très abordables.
 
+{{< identify-operator sources="db-website,cd-website,vagonweb" />}}
+
 ## Informations générales
 
 La Tchéquie possède l’un des réseaux ferroviaires les plus denses au monde. Il est possible de rejoindre de nombreux endroits du pays en train. Les vitesses ne sont généralement pas très élevées et il n’existe actuellement pas de lignes à grande vitesse. Le confort de voyage est cependant bon, ou il règne au moins une certaine nostalgie dans les trains plus anciens.
