@@ -48,7 +48,7 @@ A special highlight is the ride on the Schneebergbahn in Lower Austria, which is
 | Hungary (MÁV) | Hegyshalom (Gr), Sopron |
 | [Germany](/country/germany) ([DB](/operator/db)) | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slovenia (SŽ) | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr) |
-| [Slovakia](/country/slovakia) ([ZSSK](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr) |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr) |
 | [Switzerland](/country/switzerland) ([SBB](/operator/sbb)) | Buchs SG, St. Margrethen |
 | [Italy](/country/italy) ([FS](/operator/fs)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 

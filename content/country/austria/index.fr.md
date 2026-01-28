@@ -48,7 +48,7 @@ Un coup de cœur est la Schneebergbahn en Basse-Autriche. Elle n’est pas explo
 | Hongrie (MÁV) | Hegyeshalom (Gr), Sopron |
 | [Allemagne](/country/germany) ([DB](/operator/db)) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slovénie (SŽ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
-| [Slovaquie](/country/slovakia) ([ZSSK](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr) |
+| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr) |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb)) | Buchs SG, St. Margrethen |
 | [Italie](/country/italy) ([FS](/operator/fs)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 {{% /expander %}}

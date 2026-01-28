@@ -38,7 +38,7 @@ L’état, la densité et la fréquence des lignes ferroviaires dépendent souve
 | [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg)) | Mockava (Gr) |
 | Russie (RZD) | Braniewo (Gr) |
 | Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr) |
-| [Slovaquie](/country/slovakia) ([ZSSK](/operator/zssk)) | Lupkow (Gr) |
+| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Biélorussie

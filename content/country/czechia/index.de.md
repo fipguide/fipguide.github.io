@@ -36,7 +36,7 @@ Die Pünktlichkeit ist solide, oft warten Anschlusszüge auch, jedoch nicht in g
 | [Deutschland](/country/germany) ([DB AG](/operator/db)) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
 | [Polen](/country/poland) ([PKP](/operator/pkp), KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
-| [Slowakei](/country/slovakia) ([ZSSK](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 
 {{% /expander %}}
 

@@ -38,7 +38,7 @@ The condition, density and frequency of railway lines are often very dependent o
 | [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg)) | Mockava (Gr) |
 | Russia (RZD) | Braniewo (Gr) |
 | Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr) |
-| [Slovakia](/country/slovakia) ([ZSSK](/operator/zssk)) | Lupkow (Gr) |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Belarus

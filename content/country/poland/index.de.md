@@ -38,7 +38,7 @@ Der Zustand, die Dichte und Taktung der Bahnstrecken sind oft sehr abhängig von
 | [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg)) | Mockava (Gr) |
 | Russland (RZD) | Braniewo (Gr) |
 | Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn oder Ягодин), Medyka (Gr) |
-| [Slowakei](/country/slovakia) ([ZSSK](/operator/zssk)) | Lupkow (Gr) |
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Belarus / Weißrussland

@@ -48,7 +48,7 @@ Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterrei
 | Ungarn (MÁV) | Hegyshalom (Gr), Sopron |
 | [Deutschland](/country/germany) ([DB](/operator/db)) | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slowenien (SŽ) | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr) |
-| [Slowakei](/country/slovakia) ([ZSSK](/operator/zssk))| Marchegg(Gr), Kittsee(Gr)
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk))| Marchegg(Gr), Kittsee(Gr)
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb)) | Buchs SG, St. Margrethen |
 | [Italien](/country/italy) ([FS](/operator/fs))| Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde
 
