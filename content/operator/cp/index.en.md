@@ -28,41 +28,70 @@ FIP Coupons and FIP 50 Tickets are valid on CP services. For cross-border journe
 
 Reservations are only mandatory on long-distance services (`AP` and `IC`).
 
-{{% expander "Alfa Pendular (AP) ⚠️" traincategory "category" %}}
-**Description:** \
+{{% train-category
+  id="alfa-pendular"
+  title="Alfa Pendular (AP)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
+%}}
+
 High-speed tilting trains (Pendolino) operating on the main axis between Braga, Porto, Lisbon and Faro with few stops. Trains offer a high level of comfort, Wi‑Fi, power sockets at every seat and a cafeteria/bar service.
 
 FIP Coupons (regardless of pass class) are only valid in second class. [^1]
 
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Reservation cost:** €5
-{{% /expander %}}
+**Reservation cost:** € 5
 
-{{% expander "Intercidades (IC) ⚠️" traincategory "category" %}}
-**Description:** \
-Fast national services formed by locomotive-hauled coaches serving main routes. They offer Wi‑Fi, power sockets in some first-class seats and a bistro service. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Reservation cost:** €5
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Serviço InterRegional (IR)" traincategory "category" %}}
-**Description:** \
-Regional services that cover longer distances with few stops. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+  id="intercidades"
+  title="Intercidades (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
+%}}
 
-{{% expander "Serviço Regional (R)" traincategory "category" %}}
-**Description:** \
-Regional trains with many stops. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+Fast national services formed by locomotive-hauled coaches serving main routes. They offer Wi‑Fi, power sockets in some first-class seats and a bistro service.
 
-{{% expander "Comboios Urbanos (U)" traincategory "category" %}}
-**Description:** \
+**Reservation cost:** € 5
+
+{{% /train-category %}}
+
+{{% train-category
+  id="interregional"
+  title="Serviço InterRegional (IR)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
+Regional services that cover longer distances with few stops.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="regional"
+  title="Serviço Regional (R)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
+Regional trains with many stops.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="urbanos"
+  title="Comboios Urbanos (U)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 Commuter trains serving the urban networks of Lisbon, Porto and Coimbra (similar to S‑trains). FIP Coupons are valid without restrictions.
 
 **Lisbon:** \
@@ -92,17 +121,22 @@ The [network](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto)
 **Coimbra:** \
 Single line between Coimbra and Figueira da Foz.
 
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Celta: Porto – Vigo ⚠️" traincategory "category" %}}
-**Description:** \
-The Celta is an international cooperation service between CP and Renfe from Porto to Vigo. FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (distance-independent):** €4
-{{% /expander %}}
+{{% train-category
+  id="celta"
+  title="Celta: Porto – Vigo"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
+%}}
+
+The Celta is an international cooperation service between CP and Renfe from Porto to Vigo. FIP Coupons are not accepted.
+
+**FIP Global Fare (distance-independent):** € 4
+
+{{% /train-category %}}
 
 ## Class Categories
 
