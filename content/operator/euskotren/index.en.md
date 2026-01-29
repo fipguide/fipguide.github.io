@@ -42,33 +42,63 @@ Some train operators also issue FIP Coupones for Euskotren. According to our inf
 
 Reservations are generally not possible with Euskotren.
 
-{{% expander "Meter-gauge Railway" traincategory "category" %}}
-**Description:** \
-Euskotren operates trains on the electrified meter-gauge railway in the provinces of Bizkaia and Gipuzkoa. The "Euskotren FIP Tickets" are valid on all lines, including the line to the TGV station Hendaye in France.
-{{% /expander %}}
+{{% train-category
+  id="meter-gauge"
+  title="Meter-gauge Railway"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
 
-{{% expander "Trams" traincategory "category" %}}
-**Description:** \
+Euskotren operates trains on the electrified meter-gauge railway in the provinces of Bizkaia and Gipuzkoa. The "Euskotren FIP Tickets" are valid on all lines, including the line to the TGV station Hendaye in France.
+
+{{% /train-category %}}
+
+{{% train-category
+id="tram"
+title="Trams"
+type="tram"
+fip_accepted=true
+reservation_possible=false
+%}}
+
 The "Euskotren FIP Tickets" are valid on both the tram in Bilbao and in Vitoria-Gasteiz.
 
 According to the Rail Delivery Group guide, the ticket must be validated when using the tram in Bilbao.[^1] However, how this works in practice is unclear.
-{{% /expander %}}
 
-{{% expander "Metro Line L3 in Bilbao ℹ️" traincategory "category" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="subway"
+  title="Metro Line L3 in Bilbao"
+  type="subway"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 In Bilbao there is a metro network with three lines. On line L3, Euskotren accepts the "Euskotren FIP Tickets".
 
-ℹ️ On all other lines (L1 and L2) in Bilbao's metro network, Metro Bilbao does not recognize FIP. Only line L3 is operated by Euskotren.[^3]
-{{% /expander %}}
+{{% highlight important %}}
+On all other lines (L1 and L2) in Bilbao's metro network, Metro Bilbao does not recognize FIP. Only line L3 is operated by Euskotren.[^3]
+{{% /highlight %}}
 
-{{% expander "Funicular Railway \"Funicular de Larreineta\"" traincategory "category" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="funicular"
+  title="Funicular Railway \"Funicular de Larreineta\""
+  type="funicular"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 Euskotren operates the historic funicular railway between Trapagaran and Larreineta, connecting the mountain settlements above Trapagaran with the valley.
 
 The machines at the stations accept the "Euskotren FIP Ticket". If it is not accepted, please contact the staff on site.
 
 If you don't have an "Euskotren FIP Ticket", the staff at the stations will issue free individual tickets for the funicular railway upon presentation of the FIP Card.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ## Class Categories
 
