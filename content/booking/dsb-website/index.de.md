@@ -24,7 +24,7 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 Über die Website der DSB können Sitzplatzreservierungen für inländische dänische Zugverbindungen gebucht werden. Für die Buchung von Sitzplätzen muss als Personenanzahl "0" und anschließend die entsprechende Anzahl an Sitzplatzreservierungen angegeben werden.
 
-Ausländische Reservierungen können [DSB Travel B-Europe](https://travel.b-europe.com/dsb-rail/en/reservation-only) für folgende Länder erworben werden:
+Ausländische Reservierungen können bei [DSB International](https://www.dsb.dk/en/international/) für folgende Länder erworben werden:
 
 <!-- prettier-ignore -->
 - Belgien
