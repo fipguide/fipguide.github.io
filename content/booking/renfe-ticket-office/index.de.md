@@ -18,7 +18,7 @@ aliases:
 ## FIP Globalpreis
 
 In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis gebucht werden. \
-Es fällt eine zusätzliche Gebühr von 0,55€ an.
+Es fällt eine zusätzliche Gebühr von 0,55 € an.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}

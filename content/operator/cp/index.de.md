@@ -36,7 +36,7 @@ FIP Freifahrtscheine (egal welcher Klasse) sind nur in der zweiten Klasse gülti
 
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung:** 5€
+**Kosten für Reservierung:** 5 €
 {{% /expander %}}
 
 {{% expander "Intercidades (IC) ⚠️" traincategory "category" %}}
@@ -44,7 +44,7 @@ FIP Freifahrtscheine (egal welcher Klasse) sind nur in der zweiten Klasse gülti
 Schnelle nationale Züge mit Reisezugwagen, welche auf den Hauptrelationen verkehren. Die Züge bieten Wi-Fi, Steckdosen an manchen Plätzen in der ersten Klasse sowie ein Bistroangebot. \
 **Reservierung möglich:** Ja \
 **Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung:** 5€
+**Kosten für Reservierung:** 5 €
 {{% /expander %}}
 
 {{% expander "Serviço InterRegional (IR)" traincategory "category" %}}
@@ -77,7 +77,7 @@ Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-b
 
 Der Zugang zur Sintra-Linie und Cascais-Linie erfolgt über Ticketschranken.
 
-- Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50€ kaufen, um die Ticketschranke passieren zu können.
+- Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50 € kaufen, um die Ticketschranke passieren zu können.
 - Fahrgäste mit FIP Freifahrtschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
   {{% /highlight %}}
 
@@ -102,7 +102,7 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
 Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
 **Reservierung möglich:** ja \
 **Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** 4€
+**FIP Globalpreis (Distanzunabhängig):** 4 €
 {{% /expander %}}
 
 ## Klassenkategorien
@@ -122,7 +122,7 @@ Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 50%. Ab 12 Jahren wird der volle Preis berechnet. [^1]
+Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 50 %. Ab 12 Jahren wird der volle Preis berechnet. [^1]
 
 ## Tarifliche Besonderheiten
 
@@ -133,7 +133,7 @@ Passagiere mit einem in Portugal erworbenen FIP-Ermäßigungsticket dürfen ihre
 ## Empfehlungen
 
 {{% highlight tip %}}
-Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmuseums in Entroncamento an. Besuchende, die mit dem Zug anreisen, erhalten 50% Rabatt auf den Eintrittspreis. [^2]
+Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmuseums in Entroncamento an. Besuchende, die mit dem Zug anreisen, erhalten 50 % Rabatt auf den Eintrittspreis. [^2]
 
 [Weitere Informationen zum Museum](https://www.fmnf.pt/apps/frontend/public/static/site/MNF_DE.pdf) <!-- Link austauschen für jeweilige Sprache -->
 {{% /highlight %}}
