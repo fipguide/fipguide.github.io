@@ -145,7 +145,7 @@ Reservations are required only in 1st class.
     title="Osobní vlak (Os)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=partially
     reservation_possible=true
 %}}
 

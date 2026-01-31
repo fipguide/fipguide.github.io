@@ -145,7 +145,7 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Osobní vlak (Os)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=partially
     reservation_possible=true
 %}}
 
