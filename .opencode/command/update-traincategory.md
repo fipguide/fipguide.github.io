@@ -11,7 +11,7 @@ A shortcode looks like:
 {{% train-category
     id="train-id" (lowercase, hyphenated abbreviation of the train category)
     title="title"
-    type="highspeed" (can be highspeed, regional, subway, bus, funicular, sleeper, ship)
+    type="highspeed" (can be highspeed, regional, subway, bus, funicular, tram, sleeper, ship)
     fip_accepted=true (can be true, false, partially)
     reservation_required=true (can be true, false, partially)
     reservation_possible=true (can be true, false, partially; omit the attribute if false or if reservation_required is true)
