@@ -37,8 +37,8 @@ Particularité : la plupart des grandes gares sont équipées de portiques. L’
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Allemagne (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Belgique (SNCB) | Roosendaal (fr), Visé |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
 {{% /expander %}}
 
 ### Allemagne
