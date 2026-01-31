@@ -24,15 +24,4 @@ The reservation price is charged per journey. This means that for connections wi
 
 Through the DSB website, you can book seat reservations for domestic Danish train connections. When booking seats, you must enter "0" as the number of passengers and then specify the desired number of seat reservations.
 
-Foreign reservations can be purchased via [DSB International](https://www.dsb.dk/en/international/) for the following countries:
-
-<!-- prettier-ignore -->
-- Austria
-- Belgium
-- Czech Republic
-- Germany
-- Luxembourg
-- Netherlands
-{.o-section--columns-2}
-
 {{% /booking-section %}}

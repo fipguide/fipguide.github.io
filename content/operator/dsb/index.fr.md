@@ -69,6 +69,10 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
     subtitle="Uniquement pour les trajets nationaux"
 /%}}
 
+{{% booking id="dsb-international-website"
+    subtitle="Pour les trajets nationaux et transfrontaliers"
+/%}}
+
 {{% booking id="db-website"
     subtitle="Pour les trajets nationaux et transfrontaliers"
 /%}}

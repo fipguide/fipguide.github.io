@@ -69,6 +69,10 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
     subtitle="Only for domestic connections"
 /%}}
 
+{{% booking id="dsb-international-website"
+    subtitle="For national and cross-border connections"
+/%}}
+
 {{% booking id="db-website"
     subtitle="For national and cross-border connections"
 /%}}

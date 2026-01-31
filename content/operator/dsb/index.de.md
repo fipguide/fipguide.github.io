@@ -69,6 +69,10 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
     subtitle="Nur für nationale Verbindungen"
 /%}}
 
+{{% booking id="dsb-international-website"
+    subtitle="Für nationale und grenzüberschreitende Verbindungen"
+/%}}
+
 {{% booking id="db-website"
     subtitle="Für nationale und grenzüberschreitende Verbindungen"
 /%}}

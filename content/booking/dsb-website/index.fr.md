@@ -24,15 +24,4 @@ Le tarif de réservation est facturé par trajet. Cela signifie que pour des cor
 
 Via le site web de la DSB, vous pouvez réserver des sièges pour les trains nationaux danois. Lors de la réservation, vous devez indiquer « 0 » comme nombre de passagers, puis préciser le nombre de réservations souhaitées.
 
-Les réservations internationales peuvent être achetées via [DSB International](https://www.dsb.dk/en/international/) pour les pays suivants :
-
-<!-- prettier-ignore -->
-- Autriche
-- Belgique
-- République tchèque
-- Allemagne
-- Luxembourg
-- Pays-Bas
-{.o-section--columns-2}
-
 {{% /booking-section %}}
