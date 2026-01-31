@@ -32,62 +32,130 @@ FIP Coupons and FIP 50 Tickets are valid on ZSSK connections with the restrictio
 Reservation required for `SC` and `IC` trains. Other ZSSK trains only require a reservation in 1st class. [^2]
 {{% /highlight %}}
 
-{{% expander "SuperCity (SC) ⚠️" traincategory category %}}
-**Description:** \
-Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Cost of reservation:** From €7 \
-Depending on route and occupancy (including surcharge for train category)
-{{% /expander %}}
+{{% train-category
+    id="sc"
+    title="SuperCity (SC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-{{% expander "Intercity (IC) ⚠️" traincategory category %}}
-**Description:** \
-_Currently, the operation of Intercity trains has been suspended for economic reasons. The trains are being replaced by `Ex` trains._ \
-Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Cost of reservation:** From €7 \
-Depending on route and occupancy (including surcharge for train category)
-{{% /expander %}}
+Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops.
 
-{{% expander "Eurocity (EC) / Railjet (RJ) ⚠️1️⃣ ℹ️" traincategory category %}}
-**Description:** \
-Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. `RJ` trains are Railjet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section. \
-ℹ️ `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class
-{{% /expander %}}
+#### Reservation
 
-{{% expander "EuroNight (EN) ⚠️" traincategory category %}}
-**Description:** \
-`EN` are international night trains that require reservations and offer the option to pay a surcharge for couchette or sleeper cars. Otherwise, they are similar to `EC` trains. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Cost of reservation:** \
-Depending on route and occupancy as well as car category (including surcharge for train category)
-{{% /expander %}}
+**Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
-{{% expander "Express (Ex) ⚠️1️⃣" traincategory category %}}
-**Description:** \
-A type of InterRegional train with fewer stops than a regional train but more than, for example, `IC` trains. They often have a dining car and run with comfortable locomotive-hauled trains. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Rychlik (R) ⚠️1️⃣" traincategory category %}}
-**Description:** \
-Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class
-{{% /expander %}}
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-{{% expander "Osobní vlak (Os) ⚠️1️⃣" traincategory category%}}
-**Description:** \
-Standard regional trains that usually stop everywhere (there are exceptions). Especially on branch lines, they often run with outdated rolling stock. They are sometimes marketed as S-Bahn trains, but without really running on an S-Bahn schedule. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️1️⃣ only in 1st class
-{{% /expander %}}
+_Currently, the operation of Intercity trains has been suspended for economic reasons. The trains are being replaced by `Ex` trains._
+
+Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed.
+
+#### Reservation
+
+**Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC) / Railjet (RJ)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. `RJ` trains are Railjet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section.
+
+{{% highlight confusion %}}
+`RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
+{{% /highlight %}}
+
+#### Reservation
+
+Reservations are required only in 1st class.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="en"
+    title="EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+`EN` are international night trains that require reservations and offer the option to pay a surcharge for couchette or sleeper cars. Otherwise, they are similar to `EC` trains.
+
+#### Reservation
+
+**Cost:** Depending on route and occupancy as well as car category (including surcharge for train category).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ex"
+    title="Express (Ex)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+A type of InterRegional train with fewer stops than a regional train but more than, for example, `IC` trains. They often have a dining car and run with comfortable locomotive-hauled trains.
+
+#### Reservation
+
+Reservations are required only in 1st class.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Rychlik (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock.
+
+#### Reservation
+
+Reservations are required only in 1st class.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="os"
+    title="Osobní vlak (Os)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Standard regional trains that usually stop everywhere (there are exceptions). Especially on branch lines, they often run with outdated rolling stock. They are sometimes marketed as S-Bahn trains, but without really running on an S-Bahn schedule.
+
+#### Reservation
+
+Reservations are required only in 1st class.
+
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
