@@ -39,74 +39,140 @@ PKP FIP Tickets are not valid in the Warsaw local rail system, which is operated
 Polish long-distance trains are partially reservation-required. The reservation requirement applies to all EIP and EIC trains and partially to IC and TLK trains.
 {{% /highlight %}}
 
-{{% expander "Express Intercity Premium (EIP) ⚠️" traincategory category %}}
-**Description:** \
-High-speed trains with tilting technology (Pendolino), operated by PKP Intercity and mainly running between Gdynia/Gdańsk and Kraków/Katowice via Warsaw, but also occasionally found on other routes. \
-In 1st class, small meals and drinks are included at the seat in the ticket price. [^2] \
+{{% train-category
+    id="eip"
+    title="Express Intercity Premium (EIP)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+High-speed trains with tilting technology (Pendolino), operated by PKP Intercity and mainly running between Gdynia/Gdańsk and Kraków/Katowice via Warsaw, but also occasionally found on other routes.
+In 1st class, small meals and drinks are included at the seat in the ticket price. [^2]
+
+#### Reservation
+
 The trains require a surcharge with an increased reservation fee. Tickets and reservations cannot be purchased on board the train.
 
-For reservations not sold at the corresponding price by PKP, payment of a surcharge on board the train may be required. [^1] \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**Reservation cost:** \
-43 PLN \
-(Fixed price and only bookable through PKP)
-{{% /expander %}}
+For reservations not sold at the corresponding price by PKP, payment of a surcharge on board the train may be required. [^1]
 
-{{% expander "Express InterCity (EIC) ⚠️" traincategory category %}}
-**Description:** \
-Comfortable trains with modernized passenger cars, operated by PKP Intercity and stopping only in the most important cities. Cross-border EICs are also designated as EC in other countries. [^3] \
-In 1st and 2nd class, there is a free bottle of water per person. \
-Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/). \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ partially
-{{% /expander %}}
+**Cost:** PLN 43 (fixed price and only bookable through PKP)
 
-{{% expander "InterCity (IC) ⚠️" traincategory category %}}
-**Description:** \
-Express trains with passenger cars or modern multiple units, operated by PKP Intercity and stopping only at important stations. [^4] \
-Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/). \
-Some trains also operate with sleeping and couchette cars (see category "EN"). \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ partially
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Twoje Linie Kolejowe (TLK) ⚠️" traincategory category %}}
-**Description:** \
-Interregional trains operated by PKP Intercity, characterized by particularly affordable ticket prices with basic comfort features. [^5] \
-Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://www.intercity.pl/en/). \
-Some trains also operate with sleeping and couchette cars (see category "EN"). \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ partially
-{{% /expander %}}
+{{% train-category
+    id="eic"
+    title="Express InterCity (EIC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
 
-{{% expander "EuroNight (EN) ⚠️" traincategory category %}}
-**Description:** \
-International night train connections operated by PKP Intercity, running from or to Germany, Czech Republic, Austria, Hungary and Ukraine. \
-Night train connections that only run within Poland are operated as IC or TLK. Connections to Ukraine are marked as D. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes (in sleeping and couchette cars) \
-**Reservation cost:** \
-Within Poland: \
-Sleeping car: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
-Couchette car: 3/4-berth compartment 69 PLN, 6-berth compartment 59 PLN [^1]
+Comfortable trains with modernized passenger cars, operated by PKP Intercity and stopping only in the most important cities. Cross-border EICs are also designated as EC in other countries. [^3]
+In 1st and 2nd class, there is a free bottle of water per person.
+
+#### Reservation
+
+Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/)
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Express trains with passenger cars or modern multiple units, operated by PKP Intercity and stopping only at important stations. [^4]
+
+Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
+
+#### Reservation
+
+Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="tlk"
+    title="Twoje Linie Kolejowe (TLK)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Interregional trains operated by PKP Intercity, characterized by particularly affordable ticket prices with basic comfort features. [^5]
+
+Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
+
+#### Reservation
+
+Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="en"
+    title="EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+International night train connections operated by PKP Intercity, running from or to Germany, Czech Republic, Austria, Hungary and Ukraine.
+Night train connections that only run within Poland are operated as `IC` or `TLK`. Connections to Ukraine are marked as `D`.
+
+#### Reservation
+
+Reservation is required in sleeping and couchette cars.
+
+**Reservation cost:**
+
+Within Poland:
+
+- Sleeping car: Single PLN 299, Double PLN 159, Triple PLN 79
+- Couchette car: 3/4-berth compartment PLN 69, 6-berth compartment PLN 59 [^1]
 
 Different prices for international connections. [More information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
-{{% /expander %}}
 
-{{% expander "Regio (R) ℹ️" traincategory category %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regio (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-ℹ️ Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland") \
-**Reservation possible:** yes \
-**Reservation required:** no
-{{% /expander %}}
+{{% highlight confusion %}}
+Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
+{{% /highlight %}}
 
-{{% expander "superREGIO (sR)" traincategory category %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="sr"
+    title="superREGIO (sR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
 Interregional trains operated by Polregio and equipped with higher comfort than normal regional trains.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
@@ -152,7 +218,7 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 
 #### PKP Intercity (EIC, IC, TLK)
 
-For a surcharge of 20 PLN, tickets can be purchased on the train if the train crew is approached immediately after the train's departure. [^1]
+For a surcharge of PLN 20, tickets can be purchased on the train if the train crew is approached immediately after the train's departure. [^1]
 
 #### Polregio
 
