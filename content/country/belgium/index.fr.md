@@ -29,10 +29,10 @@ Sur les autres lignes, la vitesse est moyenne mais les trains circulent généra
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Luxembourg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Allemagne (DB) | Aachen Süd (Gr) |
-| Pays-Bas (NS) | Roosendaal (fr), Visé (fr) |
-| France (SNCF) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Aachen Süd (Gr) |
+| [Pays-Bas](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### Luxembourg

@@ -46,8 +46,8 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| France, Belgium, Netherlands (Eurostar) | London St. Pancras International |
-| Netherlands (Stena Line) | Harwich P.Q. |
+| [France](/country/france), [Belgium](/country/belgium), [Netherlands](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
+| [Netherlands](/country/netherlands) ([Stena Line](/operator/stl)) | Harwich P.Q. |
 | Ireland (Stena Line) | Holyhead, Fishguard |
 | Ireland (CIE) | Dundalk |
 {{% /expander %}}
