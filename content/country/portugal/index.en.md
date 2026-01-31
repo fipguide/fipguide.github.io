@@ -33,7 +33,7 @@ Particularly recommended stations to visit:
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Spain | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
+| [Spain](/country/spain) ([Renfe](/operator/renfe)) | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
 
 \
 [>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] = the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)

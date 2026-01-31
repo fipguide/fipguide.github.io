@@ -33,7 +33,7 @@ Gares particulièrement recommandées :
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Espagne | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
+| [Espagne](/country/spain) ([Renfe](/operator/renfe)) | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
 
 \
 [>] = Direction (par exemple : V. Real de Sto António Guardiana [> Ayamonte] = le point frontalier à V. Real de Sto António Guardiana est orienté vers Ayamonte)
