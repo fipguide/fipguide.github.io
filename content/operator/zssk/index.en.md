@@ -9,7 +9,7 @@ aliases:
   - zsr
 ---
 
-The ZSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").
+The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").
 
 ## Summary
 
@@ -130,10 +130,6 @@ On `IC` trains: surcharge with mandatory reservation
 Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. For students, registration at a ZSSK counter is required at least 3 days before the first trip. A registration form must be completed and signed by the school/university. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
 
 ## Special Tariff Conditions
-
-### D trains to Vienna
-
-`D` trains between Bratislava and Vienna can be used on the entire route (including the Austrian section) with ZSSK FIP coupons. Alternatively, ÖBB FIP coupons are also valid on the Austrian section.
 
 ### Break in the journey
 

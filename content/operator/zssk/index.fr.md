@@ -9,7 +9,7 @@ aliases:
   - zsr
 ---
 
-La ZSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Železničná spoločnosť Slovensko) sont les chemins de fer nationaux slovaques et constituent l’opérateur ferroviaire principal du [Slovaquie](/country/slovakia "Slovaquie").
+La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Železničná spoločnosť Slovensko) sont les chemins de fer nationaux slovaques et constituent l’opérateur ferroviaire principal du [Slovaquie](/country/slovakia "Slovaquie").
 
 ## Résumé
 
@@ -130,10 +130,6 @@ Dans les trains `IC` : supplément avec réservation obligatoire
 Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires de l’UE, ainsi que les étudiants internationaux en Slovaquie, peuvent également voyager gratuitement. Les étudiants doivent s’enregistrer au guichet ZSSK au moins 3 jours avant leur premier voyage avec un formulaire d’inscription signé par l’école/université. Plus de détails sont disponibles sur la page [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Conditions tarifaires spéciales
-
-### Trains D vers Vienne
-
-Les trains `D` entre Bratislava et Vienne sont utilisables avec un Coupon FIP ZSSK pour l’ensemble du trajet, y compris en Autriche. Les Coupons FIP ÖBB sont également valables sur la section autrichienne.
 
 ### Interruption de trajet
 

@@ -113,7 +113,7 @@ Arrival from Slovakia is possible via two different regional train connections:
 - One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
 - Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
 
-For both routes, a FIP 50 Ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
+For both routes, a FIP 50 Ticket from [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
 
 Additionally, there are some `EC` connections.
 

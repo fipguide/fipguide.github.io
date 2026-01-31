@@ -115,7 +115,7 @@ Depuis la Slovaquie, il existe deux liaisons régionales possibles pour rejoindr
 - Une liaison part du nord du Danube depuis la gare principale de Bratislava (Bratislava hl.st.) via Marchegg jusqu’à Vienne.
 - Une autre liaison démarre au sud de Bratislava (Bratislava Petrzalka) et passe par Kittsee jusqu’à Vienne.
 
-Pour les deux itinéraires, un Billet FIP 50 de la [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
+Pour les deux itinéraires, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") est requis pour la section slovaque.
 
 Il existe également quelques liaisons `EC`.
 

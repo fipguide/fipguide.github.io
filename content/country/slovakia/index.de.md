@@ -9,7 +9,7 @@ params:
 
 ## FIP Nutzung
 
-Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná
+Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK](/operator/zssk "ŽSR/ZSSK") (Železničná
 spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig.
 Besonders zu beachten sind Reservierungsbedingung im Fernverkehr sowie erweiterte Regleung zu kostenfreien Mitnahme von Kindern.
 
@@ -47,7 +47,7 @@ Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen 
 - Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
 - Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
 
 Zusätzlich gibt es einzelne `EC` Verbindungen.
 

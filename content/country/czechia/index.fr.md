@@ -69,4 +69,4 @@ Des trains `EC` circulent via Lichkov entre Wrocław (parfois en provenance de G
 
 ### Slovaquie
 
-Depuis la Slovaquie, des trains transfrontaliers de la ČD ou de la ZSSK peuvent être utilisés sur différentes lignes. Un Billet FIP 50 ou un Coupon FIP de la ZSR est nécessaire en plus. Les trains transfrontaliers de RegioJet ne sont pas utilisables avec la FIP.
+Depuis la Slovaquie, des trains transfrontaliers de la ČD ou de la ZSSK peuvent être utilisés sur différentes lignes. Un Billet FIP 50 ou un Coupon FIP de la ŽSR est nécessaire en plus. Les trains transfrontaliers de RegioJet ne sont pas utilisables avec la FIP.

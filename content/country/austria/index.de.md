@@ -115,7 +115,7 @@ Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen
 - Eine Verbindung führt nördlich der Donau vom Hauptbahnhof Bratislava (Bratislava hl.st.) über Marchegg nach Wien.
 - Eine andere Verbindung startet im Süden von Bratislava (Bratislava Petrzalka) und führt über Kittsee nach Wien.
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt.
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
 
 Zusätzlich gibt es einzelne `EC` Verbindungen.
 
