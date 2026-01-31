@@ -50,6 +50,7 @@ En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise
 {{% /highlight %}}
 
 #### Réservation
+
 Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les trajets entre Sopron et Győr, aucune réservation n’est requise.
 
 {{% /train-category %}}

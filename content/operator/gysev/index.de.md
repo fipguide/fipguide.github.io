@@ -50,6 +50,7 @@ In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV.
 {{% /highlight %}}
 
 #### Reservierung
+
 Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten zwischen Sopron und Győr ist keine Reservierung erforderlich.
 
 {{% /train-category %}}

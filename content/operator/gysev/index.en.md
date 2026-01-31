@@ -50,6 +50,7 @@ In Hungary, InterCity trains are also operated by MÁV, the Hungarian state rail
 {{% /highlight %}}
 
 #### Reservation
+
 Reservations are only mandatory between Győr and Budapest. For journeys between Sopron and Győr, no reservation is required.
 
 {{% /train-category %}}
