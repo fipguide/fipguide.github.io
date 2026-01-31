@@ -98,6 +98,8 @@ In Deutschland verkehren über 80 unterschiedliche Betreiber, nur ist FIP für d
 
 Durch die große Vielfalt der Betreiber ist eine Planung der Reise im Voraus sinnvoll, um FIP in Anspruch nehmen zu können. Mit Ausnahme von Flixtrain, WESTbahn und einzelnen Nachtzug-Verbindungen kann der deutsche Fernverkehr befahren werden. Im Nahverkehr betreibt die DB viele Linien, wodurch man auch dort gut reisen kann.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Wissenswertes
 
 Das Schienennetz in Deutschland umfasst rund 39.200 km und ist somit eines der größten in Europa. Neben stark frequentierten Hauptstrecken gibt es eine Vielzahl an Nebenstrecken, welche u. a. durch Vereine und lokale Akteure betrieben werden.

@@ -18,6 +18,8 @@ In France, almost the entire rail network can be used with FIP, as most trains a
 
 On international routes, [Eurostar](/operator/eurostar "Eurostar") trains to the UK, Belgium, the Netherlands, and Germany can be used with special FIP Global Fares. International `TGV` trains also offer Global Fares (except to Germany). Additionally, FIP Global Gare tickets can be used on AVE trains operated by Spanish Renfe to Spain. Frecciarossa trains from [Trenitalia](/operator/fs "Trenitalia") to Italy cannot be used with FIP in France.
 
+{{< identify-operator sources="sncf-connect,db-website" />}}
+
 ## Interesting
 
 France has a well-developed rail network, especially known for its fast and frequent TGV connections between Paris and other major cities. The network is strongly centered on Paris, so many connections pass through the capital. When changing trains in Paris, allow enough time, as you often need to change stations via the Metro (FIP is not valid here). Also, on long-distance trains, doors usually close two minutes before departure for punctuality.

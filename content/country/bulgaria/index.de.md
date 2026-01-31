@@ -11,6 +11,8 @@ params:
 
 In Bulgarien lässt sich FIP vergleichsweise einfach nutzen, nur die Online-Buchungsmöglichkeiten sind sehr eingeschränkt. Die bulgarische Staatsbahn Balgarski Darschawni Schelesnizi ([BDŽ](/operator/bdz "BDZ")) ist derzeit fast das einzige Eisenbahnverkehrsunternehmen mit Personenverkehr in dem Land. FIP wird hier anerkannt. Mit einem vorhandenen FIP Freifahrtschein müssen lediglich bei reservierungspflichtigen Zügen Reservierungen vor Ort am Fahrkartenschalter erworben werden. FIP 50 Tickets können ebenfalls am Fahrkartenschalter erworben werden. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten lediglich an speziell dafür ausgelegte Fahrkartenschaltern an großen Bahnhöfen.
 
+{{< identify-operator sources="bdz-website,db-website,vagonweb" />}}
+
 ## Wissenswertes
 
 Das Schienennetz in Bulgarien ist vor allem auf die Ost-West-Richtung ausgelegt. Hier gibt es verschiedene Verbindungen, welche die größten Städte des Landes miteinander verbinden. Eine der wichtigsten Verbindungen führt von Sofia nach Varna; diese kann sowohl über Pleven im Norden als auch über Plovdiv im Süden befahren werden. Es existieren auch wenige Nord-Süd-Verbindungen, die vor allem auch als Zubringer zu den anderen Hauptstrecken genutzt werden.

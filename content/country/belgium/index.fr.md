@@ -16,6 +16,10 @@ Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent é
 
 Par ailleurs, les trains `TGV` internationaux opérés par la [SNCF](/operator/sncf "SNCF") en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au Tarif Global FIP peut être réservé. Les trains Eurocity opérés par OUIGO entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+Dans le [planificateur de voyage en ligne de la SNCB](https://www.belgiantrain.be/fr/), tous les trains du pays (par exemple, les `ICE`) ne sont pas affichés.
+{{< /identify-operator >}}
+
 ## Informations générales
 
 La Belgique dispose d’un réseau ferroviaire dense et bien développé. Contrairement à d’autres pays, il n’existe pas de distinction tarifaire entre les différentes catégories de trains (sauf pour les connexions internationales comme `ICE`, `TGV` et Eurostar). Grâce à la position centrale de Bruxelles, celle-ci est le nœud ferroviaire du pays, reliée à l’Allemagne, la France et les Pays-Bas par quatre lignes à grande vitesse.

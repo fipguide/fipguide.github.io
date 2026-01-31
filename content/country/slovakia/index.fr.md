@@ -15,6 +15,8 @@ Une attention particulière doit être portée aux conditions de réservation su
 
 D’autres opérateurs comme LeoExpress et RegioJet circulent également en Slovaquie, mais n’acceptent pas les Billets FIP. Dans les horaires, ils sont abrégés `LE` et `RJ` (à ne pas confondre avec `RJ` pour Railjet). En cas de doute, vérifiez l’opérateur via son site ou via [Bahn.de](https://int.bahn.de/fr/).
 
+{{< identify-operator sources="zssk-website,db-website,vagonweb" />}}
+
 ## Informations générales
 
 La Slovaquie dispose d’un réseau ferroviaire dense, structuré autour de deux grandes lignes :

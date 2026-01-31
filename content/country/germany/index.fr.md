@@ -98,6 +98,8 @@ En Allemagne, il existe plus de 80 opérateurs différents, mais le FIP n’est 
 
 En raison de la grande diversité des opérateurs, il est conseillé de planifier son voyage à l’avance pour pouvoir profiter du FIP. À l’exception de Flixtrain, WESTbahn et de certaines liaisons de trains de nuit, les trains grandes lignes allemands sont accessibles. En trafic régional, la DB exploite de nombreuses lignes, ce qui permet de voyager facilement.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Informations générales
 
 Le réseau ferroviaire allemand s’étend sur environ 39 200 km, ce qui en fait l’un des plus grands d’Europe. Outre les axes principaux très fréquentés, il existe de nombreuses lignes secondaires exploitées notamment par des associations ou des acteurs locaux.

@@ -27,6 +27,10 @@ Außerdem gibt es weitere regionale Betriber von Nahverkehrszügen, die keine FI
 
 Die [GySEV / Raaberbahn](/operator/gysev "GySEV") ist ein zweites EVU welches FIP Tickets innerhalb von Österreich und Ungarn akzeptiert. GySEV Freifahrtscheine sind jedoch primär für Ungarn gedacht und gelten auf den Strecken der GySEV in Österreich daher nur eingeschränkt.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+In der [Onlinefahrplanauskunft der ÖBB](https://fahrplan.oebb.at/) wird nur nach Zugkategorien, aber nicht nach Betreibern unterschieden.
+{{< /identify-operator >}}
+
 ## Wissenswertes
 
 Österreich verfügt über ein dichtes Bahnnetz, welches vor allem aus zwei Hauptstrecken besteht:

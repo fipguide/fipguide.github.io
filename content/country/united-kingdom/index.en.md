@@ -31,6 +31,8 @@ Northern Ireland, on the other hand, is served by its own railway company (NIR),
 
 Additionally, there are [Eurostar](/operator/eurostar "Eurostar") trains to continental Europe, which can be used with FIP global fares. Alternatively, ferry connections to the Netherlands between Harwich and Hoek van Holland or ferry connections to Ireland can be used with FIP.
 
+{{< identify-operator sources="gb-website,db-website" />}}
+
 ## Interesting
 
 The United Kingdom is the birthplace of the railway, and it has a long tradition. The rail network covers the whole country, with many (direct) connections to all regions. The quality of trains and stations varies greatly, as many operators act independently. Some offer modern and comfortable trains, while others still use older models.

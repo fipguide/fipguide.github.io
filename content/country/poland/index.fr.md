@@ -21,6 +21,8 @@ La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires 
 
 Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
 
+{{< identify-operator sources="plk-website,db-website,vagonweb" />}}
+
 ## Informations générales
 
 Le pays dispose de l’un des plus grands réseaux ferroviaires d’Europe avec environ 19 000 km. Les lignes principales entre les villes les plus importantes ont été particulièrement développées ces dernières années pour plus de capacité et des vitesses plus élevées. Le leader est l’axe Gdansk - Varsovie - Katowice avec jusqu’à 200 km/h. En revanche, il existe certaines lignes (surtout dans le trafic régional) qui ne peuvent être parcourues qu’à 60 km/h. À l’avenir, des lignes à grande vitesse avec des vitesses plus élevées à travers la Pologne sont également prévues.

@@ -16,6 +16,8 @@ So ist im Hochgeschwindigkeitsverkehr eine Reservierung notwendig und im Ballung
 Das private Eisenbahnverkehrsunternehmen Fertagus betreibt die `R`-Linie zwischen Lissabon Roma-Areeiro und Setúbal. Diese Strecke ist leider nicht mit FIP nutzbar.
 In der [Verbindungsauskunft der CP](https://www.cp.pt/en) erscheinen die Züge von Fertagus nicht, bei Google Maps sind sie über die Linienbezeichnung `Setúbal` erkennbar.
 
+{{< identify-operator sources="cp-website,db-website" />}}
+
 ## Wissenswertes
 
 Portugal verfügt über kein besonders dichtes Streckennetz.

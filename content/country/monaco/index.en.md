@@ -8,6 +8,8 @@ country: "monaco"
 
 The railway in Monaco is operated by the French national railway company [SNCF](/operator/sncf "SNCF"). All SNCF tickets are valid here, including FIP 50 Tickets and FIP Coupons for SNCF. SNCF FIP conditions also apply in Monaco.
 
+{{< identify-operator sources="sncf-connect,db-website" />}}
+
 ## Interesting
 
 The only railway line through Monaco is part of the international connection Marseille – Nice – Monaco – Ventimiglia (Italy) and is operated by the French national railway SNCF. The country’s only station, Monaco-Monte-Carlo, is centrally located in the city and served by numerous regional trains.

@@ -18,6 +18,8 @@ Czechia is not the easiest country for using FIP, but it is still quite possible
 
 However, note that FIP is no longer valid on all routes operated by ČD. There are also some _commercial services_ where a supplement must be paid. With a FIP Coupon, all these exceptions must be considered, while FIP 50 Tickets sold by ČD should make it easier to see which trains are valid. Private operators like Arriva or Die Länderbahn do not accept FIP at all, but tickets in Czechia are generally quite affordable.
 
+{{< identify-operator sources="db-website,cd-website,vagonweb" />}}
+
 ## Interesting
 
 Czechia has one of the densest rail networks in the world. It is possible to reach many places in the country by train. Speeds are usually not very high, and there are currently no high-speed lines in the country. Nevertheless, travel comfort is usually good, or there is at least a certain nostalgia in older trains.

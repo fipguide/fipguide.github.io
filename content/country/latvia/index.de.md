@@ -13,6 +13,8 @@ Die wichtigste Eisenbahngesellschaft in Lettland ist die lettische Staatsbahn La
 
 Zusätzlich verkehrt die litauische Eisenbahngesellschaft [LTG-Link](/operator/ltg) zwischen der litauischen Hauptstadt Vilnius über die lettische Hauptstadt Riga bis nach Valga. FIP-Vergünstigungen gelten im lettischen Abschnitt bis Riga zu den gleichen Konditionen wie in Litauen.
 
+{{< identify-operator sources="ltg-website" />}}
+
 ## Wissenswertes
 
 Lettlands Eisenbahnnetz basiert auf der 1520 mm‑Breitspur. Der Personenverkehr konzentriert sich auf Riga; der Hauptbahnhof dient als zentraler Knoten, von dem die meisten Regional- und Nahverkehrslinien ausgehen. Die Elektrifizierung beschränkt sich weitgehend auf die Vorortstrecken im Großraum Riga und nutzt 3 kV Gleichstrom, während der übrige Betrieb zumeist mit Diesel erfolgt. Gleichzeitig entsteht mit Rail Baltica eine neue internationale Achse, deren Bauarbeiten im Umfeld des Hauptbahnhofs deutlich sichtbar sind.
