@@ -68,10 +68,10 @@ Au Luxembourg, les voyages en 2ᵉ classe sont gratuits, donc un Coupon FIP CFL 
 Entre la France et l’Allemagne circulent des trains longue distance en coopération entre la SNCF et la Deutsche Bahn, exploités en tant que `TGV` ou `ICE` entre Paris, Munich, Strasbourg, Karlsruhe/Sarrebruck, Mannheim et Francfort. La réservation est obligatoire uniquement en France. En Allemagne, les trains peuvent être utilisés sans réservation. Comme l’obligation de réservation commence dès le point-frontière Kehl (Gr), une réservation est également nécessaire pour les trajets entre l’Allemagne et Strasbourg. Ces billets FIP transfrontaliers peuvent également être achetés en ligne par les employés de la Deutsche Bahn, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Options de réservation – en ligne").
 
 {{% highlight tip %}}
-Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4 d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket (réductions DB valables uniquement avec billets NE) est accepté. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
+Une option économique pour rejoindre Strasbourg depuis l'Allemagne est la ligne Ortenau S-Bahn RS4, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, d'Offenburg à Kehl. FIP n'est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^3] (TagesTicket M Fern F, DB Job-Ticket M, Netzcard + billet supplémentaire NE) sont acceptés. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
 {{% /highlight %}}
 
-Il existe aussi plusieurs liaisons régionales entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Achat de billets et réservations – en ligne").
+Il existe aussi plusieurs liaisons régionales exploitées par la DB et la SNCF entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Achat de billets et réservations – en ligne").
 
 {{% highlight tip %}}
 Le Deutschlandticket, une option économique pour le trafic régional allemand, est aussi valable sans billet supplémentaire sur les liaisons régionales vers Lauterbourg et Wissembourg ou avec le Saarbahn vers Sarreguemines.
@@ -114,3 +114,5 @@ Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant
 [^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

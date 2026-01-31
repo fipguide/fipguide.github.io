@@ -168,7 +168,7 @@ En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni
 Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
 
 {{% highlight tip %}}
-Une option économique pour rejoindre l’Allemagne depuis Strasbourg est le tram jusqu’à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l’Ortenau S-Bahn jusqu’à Offenburg. Le FIP n’est pas valable sur cette ligne, mais le Deutschlandticket l’est (les réductions DB ne s’appliquent ici qu’avec des billets NE).
+Une option économique pour rejoindre l'Allemagne depuis Strasbourg est le tram jusqu'à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l'Ortenau S-Bahn, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, jusqu'à Offenburg. Le FIP n'est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^4] (TagesTicket M Fern F, DB Job-Ticket M, Netzcard + billet supplémentaire NE) le sont.
 {{% /highlight %}}
 
 En plus des grandes lignes, plusieurs liaisons régionales existent. Pour les utiliser sur tout le trajet, il faut des Coupons FIP de la DB et de la SNCF ou un billet FIP 50 valable sur toute la ligne. Exemples : Metz – Sarrebruck ou Wissembourg – Neustadt an der Weinstraße. Les trains Strasbourg – Kehl/Offenburg sont exploités côté allemand par la SWEG, où les Coupons FIP DB ne sont pas valables.
@@ -272,3 +272,5 @@ Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est �
 [^2]: [Conditions de transport DB Regio Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
 
 [^3]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)
+
+[^4]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
