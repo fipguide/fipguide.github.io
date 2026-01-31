@@ -78,9 +78,9 @@ Gemäß dem Guide der Rail Delivery Group muss das Ticket bei der Nutzung der St
 
 In Bilbao gibt es ein U-Bahn-Netz mit drei Linien. Auf der Linie L3 erkennt das Euskotren die "Euskotren FIP Tickets" an.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Auf allen anderen Linien (L1 und L2) im Metronetz von Bilbao erkennt die Metro Bilbao FIP nicht an. Nur die Linie L3 betreibt Euskotren.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

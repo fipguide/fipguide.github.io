@@ -78,9 +78,9 @@ According to the Rail Delivery Group guide, the ticket must be validated when us
 
 In Bilbao there is a metro network with three lines. On line L3, Euskotren accepts the "Euskotren FIP Tickets".
 
-{{% highlight important %}}
+{{< highlight important >}}
 On all other lines (L1 and L2) in Bilbao's metro network, Metro Bilbao does not recognize FIP. Only line L3 is operated by Euskotren.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
