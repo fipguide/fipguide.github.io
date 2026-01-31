@@ -29,9 +29,9 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Österreich (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Schweiz (SBB, BLS und SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| Frankreich (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slowenien (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
 | Fähre (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
