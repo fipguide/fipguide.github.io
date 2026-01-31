@@ -132,7 +132,7 @@ Ligne entre Coimbra et Figueira da Foz.
   reservation_required=true
 %}}
 
-Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus. \
+Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus.
 
 **Tarif Global FIP (indépendant de la distance) :** 4 €
 
