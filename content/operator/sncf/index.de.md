@@ -329,6 +329,8 @@ Ein Teil des RER-Netzes wird von der SNCF betrieben. FIP Vergünstigungen gelten
 - RER Linie E – gesamter Abschnitt
 
 Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nur die von der SNCF betriebene RER Linie D genutzt werden. FIP Vergünstigungen sind auf der von der RATP betriebenen RER Linie B auf derselben Strecke nicht gültig.
+
+Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei Nutzung von FIP Freifahrtscheinen ist ein temporärer Zugangspass notwendig, siehe [Ticketschranken](#ticketschranken).
 {{% /train-category %}}
 
 {{% train-category
@@ -339,6 +341,8 @@ Achtung: Für Fahrten zwischen Gare du Nord und Châtelet – Les Halles kann nu
   reservation_possible=nil
 %}}
 FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, und V.
+
+Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei Nutzung von FIP Freifahrtscheinen ist ein temporärer Zugangspass notwendig, siehe [Ticketschranken](#ticketschranken).
 {{% /train-category %}}
 
 {{% train-category
@@ -351,6 +355,8 @@ FIP Vergünstigungen gelten auf allen Transilien Linien H, J, K, L, N, P, R, U, 
 FIP wird seit dem 1. Januar 2026 in Straßenbahnen im Großraum Paris nicht mehr akzeptiert.[^3]
 {{% /train-category %}}
 
+#### Ticketschranken
+
 {{% float-image
   src="contramarquedePassage.webp"
   alt="Contramarque de Passage"
@@ -359,6 +365,10 @@ FIP wird seit dem 1. Januar 2026 in Straßenbahnen im Großraum Paris nicht mehr
 %}}
 Vergünstigte FIP Tickets für `RER`, Transilien-Züge und Straßenbahnen können an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Züge und Straßenbahnen mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter eine kostenlose _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
 {{% /float-image %}}
+
+{{% highlight important %}}
+Viele Stationen mit Ticketschranken sind nicht mit Personal besetzt. Es gibt zwar Hilfssprechanlagen, diese funktionieren aber unzuverlässig. Ohne die _Contremarque de Passage_ (Temporäre Zugangskarte) besteht daher oft keine Möglichkeit, Zugang zu den Stationen zu erhalten.
+{{% /highlight %}}
 
 ### Busverkehr
 
