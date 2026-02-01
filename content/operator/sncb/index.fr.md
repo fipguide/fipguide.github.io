@@ -26,75 +26,132 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les trains de la SNCB. P
 
 En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains ICE transfrontaliers vers l’Allemagne, la réservation est possible et a été obligatoire en été 2024 (uniquement pour la partie transfrontalière).
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Description :** \
-Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés avec des Billets FIP sans supplément en Belgique entre Bruxelles-Midi et Liège-Guillemins. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="ice"
+  title="Intercity-Express (ICE)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=true
+%}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Description :** \
-Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés avec des Billets FIP sans supplément en Belgique entre Bruxelles-Midi et Liège-Guillemins.
 
-{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
-**Description :** \
-Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers. \
-[Plus d’informations](https://www.nsinternational.com/en/trains/eurocity) \
-**Réservation possible :** non \
-**Réservation obligatoire :** non \
-**Supplément :** ⚠️ \
-Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP. \
+{{% /train-category %}}
+
+{{% train-category
+  id="ic"
+  title="Intercity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="ecd"
+  title="Eurocity Direct (ECD)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+  additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
+
+Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
+
+{{% highlight important %}}
+**Supplément :**
+Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP.
 Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
-Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html).
 Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
-{{% /expander %}}
+{{% /highlight %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
-**Description :** \
-Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires. \
-[Plus d’informations](https://www.nsinternational.com/en/trains/eurocity) \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Train local ou Lokale trein (L)" traincategory category %}}
-**Description :** \
-Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement appelés `R` pour train régional dans les informations de correspondance. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="ec"
+  title="Eurocity (EC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+  additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
 
-{{% expander "Train S ou S-Trein (S)" traincategory category %}}
-**Description :** \
-Train suburbain dans les agglomérations d’Anvers, Bruxelles, Charleroi, Gand ou Liège. Ils relient les grandes villes aux banlieues et s’arrêtent généralement partout. Contrairement à d’autres pays, les trains S n’ont pas d’horaires plus denses que les autres catégories. Dans les informations de correspondance, ils sont parfois aussi regroupés sous `R` pour train régional. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires.
 
-{{% expander "Train d’heure de pointe ou Piekuurtrein (P)" traincategory category %}}
-**Description :** \
-Trains supplémentaires aux heures de pointe du lundi au vendredi matin et en fin d’après-midi, souvent simplement appelés `R` pour train régional dans les informations de correspondance. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Express (E/EXP/EXTRA)" traincategory category %}}
-**Description :** \
-Trains supplémentaires lors des périodes de forte affluence, notamment pendant l’été vers la côte belge. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="l"
+  title="Train local oder Lokale trein (L)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
 
-{{% expander "Tourist (T)" traincategory category %}}
-**Description :** \
-Trains supplémentaires vers certaines destinations touristiques, souvent simplement appelés `R` pour train régional. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement appelés `R` pour train régional dans les informations de correspondance.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="s"
+  title="Train S oder S-Trein (S)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Train suburbain dans les agglomérations d’Anvers, Bruxelles, Charleroi, Gand ou Liège. Ils relient les grandes villes aux banlieues et s’arrêtent généralement partout. Contrairement à d’autres pays, les trains S n’ont pas d’horaires plus denses que les autres catégories. Dans les informations de correspondance, ils sont parfois aussi regroupés sous `R` pour train régional.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="p"
+  title="Train d’heure de pointe oder Piekuurtrein (P)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains supplémentaires aux heures de pointe du lundi au vendredi matin et en fin d’après-midi, souvent simplement appelés `R` pour train régional dans les informations de correspondance.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="e"
+  title="Express (E/EXP/EXTRA)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains supplémentaires lors des périodes de forte affluence, notamment pendant l’été vers la côte belge.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="t"
+  title="Tourist (T)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains supplémentaires vers certaines destinations touristiques, souvent simplement appelés `R` pour train régional.
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
