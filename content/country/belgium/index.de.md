@@ -17,7 +17,7 @@ Zusätzlich verkehren internationale [Eurostar](/operator/eurostar "Eurostar") Z
 Darüber hinaus verkehren internationale `TGV` Züge der [SNCF](/operator/sncf "SNCF") aus Frankreich, für die Freifahrtscheine der belgischen Staatsbahn keine Gültigkeit haben. Für diese Züge lassen sich ausschließlich spezielle FIP Globalpreise buchen. Für die Eurocity Züge von Brüssel nach Paris von OUIGO gelten keine FIP Vergünstigungen.
 
 {{< identify-operator sources="db-website,vagonweb" >}}
-In der [Onlinefahrplanauskunft der SNCB / NMBS](https://www.belgiantrain.be/de/) werden nicht alle Züge im Land (z.B. `ICE`) angezeigt.
+In der [Onlinefahrplanauskunft der SNCB / NMBS](https://www.belgiantrain.be/de/) werden nicht alle Züge im Land (z. B. `ICE`) angezeigt.
 {{< /identify-operator >}}
 
 ## Wissenswertes

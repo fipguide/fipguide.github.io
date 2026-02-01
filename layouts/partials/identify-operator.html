@@ -1,22 +1,16 @@
-<details class="o-expander o-expander--booking">
-  <summary class="o-expander__summary o-expander__summary--identify-operator">
-    <div class="o-identify-operator__header">
-      <div class="o-identify-operator__title">
-        {{- partial "icon" "search" -}}
-        <span class="o-identify-operator__title-text"
-          >{{ T "identify-operator.title" }}</span
-        >
-      </div>
+<details class="o-expander">
+  <summary class="o-expander__summary">
+    <div class="o-identify-operator__title">
+      {{- partial "icon" "search" -}}
+      <span>{{ T "identify-operator.title" }}</span>
     </div>
     {{- partial "icon" "keyboard_arrow_down" -}}
   </summary>
   <hr aria-hidden="true" />
   <div class="o-expander__content">
     {{ if .innerContent }}
-      <div class="o-identify-operator__intro">
-        <div class="o-single__content">
-          {{ .innerContent | markdownify }}
-        </div>
+      <div class="o-identify-operator__text">
+        {{ .innerContent | markdownify }}
       </div>
     {{ end }}
     {{ range $index, $operatorId := .sources }}
@@ -27,7 +21,7 @@
 
 
       <div class="o-identify-operator__item">
-        <h3 class="o-identify-operator__item-title">{{ $page.Title }}</h3>
+        <h3>{{ $page.Title }}</h3>
 
         <div class="o-identify-operator__item-content">
           {{ with $page.Resources.Get "image.webp" }}
@@ -37,7 +31,7 @@
           {{ end }}
 
 
-          <div class="o-single__content">
+          <div class="o-identify-operator__text">
             {{ $page.Content | safeHTML }}
           </div>
 

@@ -28,7 +28,7 @@ There are also other regional operators of local trains that do not accept FIP T
 The [GySEV / Raaberbahn](/operator/gysev "GySEV") is a second railway company that accepts FIP Tickets within Austria and Hungary. GySEV FIP Coupons are mainly intended for Hungary and are only valid to a limited extent on GySEV routes in Austria.
 
 {{< identify-operator sources="db-website,vagonweb" >}}
-In the [ÖBB online timetable](https://fahrplan.oebb.at/), only train categories are shown, not operators.
+In the [ÖBB online timetable](https://fahrplan.oebb.at/) only train categories are shown, not operators.
 {{< /identify-operator >}}
 
 ## Interesting
