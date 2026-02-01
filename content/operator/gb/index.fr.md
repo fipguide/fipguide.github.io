@@ -117,7 +117,7 @@ East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic 
   reservation_possible=false
 %}}
 
-La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain.
+La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain. La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
 
 {{% highlight tip %}}
 Certaines stations de la Elizabeth Line sont aussi desservies par le métro londonien. Les portiques de ces stations sont souvent surveillés par du personnel TfL. Pour éviter toute confusion, il convient de préciser l’utilisation de la Elizabeth Line lors de la présentation du Coupon FIP.
@@ -251,7 +251,7 @@ En première classe, snacks, repas et boissons (alcoolisées) sont servis.
   reservation_possible=false
 %}}
 
-London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres.
+London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres. Toutes les lignes de la London Overground font partie de National Rail et peuvent être utilisées avec les réductions FIP. [^1]
 
 {{% /train-category %}}
 
@@ -511,32 +511,6 @@ De nombreuses gares au Royaume-Uni sont équipées de portiques de contrôle qui
 ### Transports à Londres
 
 La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n'offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La [Elizabeth Line](#elizabeth-line) et la [London Overground](#london-overground) peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme [Thameslink](#thameslink), qui traversent Londres, peuvent également être utilisés avec les Coupons FIP. Le [Gatwick Express](#gatwick-express) et le [Heathrow Express](#heathrow-express) peuvent également être utilisés.
-
-{{% train-category
-  id="elizabeth-line-london"
-  title="Elizabeth Line"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-%}}
-
-La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
-
-Plus d'informations : [voir Elizabeth Line](#elizabeth-line)
-
-{{% /train-category %}}
-
-{{% train-category
-  id="london-overground-london"
-  title="London Overground"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-%}}
-
-Toutes les lignes de la London Overground font partie de National Rail et peuvent être utilisées avec les réductions FIP. [^1]
-
-{{% /train-category %}}
 
 {{% train-category
   id="london-buses-dlr-tram"
