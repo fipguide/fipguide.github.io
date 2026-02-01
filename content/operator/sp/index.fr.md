@@ -276,11 +276,6 @@ Une réservation est obligatoire pour le Glacier Express, exploité conjointemen
 La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
 {{% /train-category %}}
 
-{{% expander "Meiringen–Innertkirchen (MIB)" traincategory "category" %}}
-**Description :** \
-La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
-{{% /expander %}}
-
 {{% train-category
     id="mob"
     title="Chemin de fer Montreux–Oberland Bernois (MOB)"
