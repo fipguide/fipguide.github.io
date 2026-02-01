@@ -36,7 +36,7 @@ Tous les trains nécessitent une réservation obligatoire et un Billet FIP globa
     id="eurostar-blue"
     title="Eurostar (Bleu) : Londres – Paris / Bruxelles / Amsterdam"
     type="highspeed"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=true
     reservation_possible=true
 %}}
@@ -55,7 +55,7 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe.
     id="eurostar-red"
     title="Eurostar (Rouge) : Paris – Amsterdam / Bruxelles / Cologne / Dortmund"
     type="highspeed"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=true
     reservation_possible=true
 %}}

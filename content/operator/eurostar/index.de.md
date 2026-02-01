@@ -36,7 +36,7 @@ Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abf
     id="eurostar-blue"
     title="Eurostar (Blue): London – Paris / Brüssel / Amsterdam"
     type="highspeed"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=true
     reservation_possible=true
 %}}
@@ -55,7 +55,7 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
     id="eurostar-red"
     title="Eurostar (Red): Paris – Amsterdam / Brüssel / Köln / Dortmund"
     type="highspeed"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=true
     reservation_possible=true
 %}}

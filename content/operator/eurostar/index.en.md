@@ -36,7 +36,7 @@ All trains require reservations, and a train-specific ticket must be purchased a
     id="eurostar-blue"
     title="Eurostar (Blue): London – Paris / Brussels / Amsterdam"
     type="highspeed"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=true
     reservation_possible=true
 %}}
@@ -55,7 +55,7 @@ High-speed train between Great Britain and Europe.
     id="eurostar-red"
     title="Eurostar (Red): Paris – Amsterdam / Brussels / Cologne / Dortmund"
     type="highspeed"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=true
     reservation_possible=true
 %}}
