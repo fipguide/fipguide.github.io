@@ -127,7 +127,7 @@ Ligne entre Coimbra et Figueira da Foz.
   id="celta"
   title="Celta: Porto – Vigo"
   type="regional"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=true
   reservation_required=true
 %}}

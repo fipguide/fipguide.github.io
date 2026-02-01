@@ -87,7 +87,7 @@ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar
   fip_accepted=true
   reservation_required=true
 %}}
-Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Strasbourg) und Deutschland (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) und Berlin bzw. Stuttgart und München) verkehren.
+Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Straßburg) und Deutschland (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) und Berlin bzw. Stuttgart und München) verkehren. Im Juli und August gibt es samstags zudem [Direktzüge zwischen Frankfurt (Main) und Bordeaux](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
 
 {{% highlight important %}}
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
