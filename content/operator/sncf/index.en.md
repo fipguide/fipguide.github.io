@@ -330,6 +330,8 @@ Some RER lines are operated by SNCF. FIP discounts apply on the following sectio
 - RER Line E – entire line
 
 Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-operated RER Line D can be used. FIP discounts are not valid on RATP-operated RER Line B on the same section.
+
+Access to some stations is restricted by ticket barriers. When using FIP Coupons, a temporary access pass is required, see [Ticket barriers](#ticket-barriers).
 {{% /train-category %}}
 
 {{% train-category
@@ -340,22 +342,21 @@ Note: For journeys between Gare du Nord and Châtelet – Les Halles, only SNCF-
   reservation_possible=nil
 %}}
 FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
+
+Access to some stations is restricted by ticket barriers. When using FIP Coupons, a temporary access pass is required, see [Ticket barriers](#ticket-barriers).
 {{% /train-category %}}
 
 {{% train-category
   id="trams-paris"
   title="Trams"
   type="tram"
-  fip_accepted=partially
+  fip_accepted=false
   reservation_possible=nil
 %}}
-The following tram lines accept FIP:[^4]
-
-- T4, T11, T14: Operated by Stretto (joint venture of SNCF and Keolis)[^5]<sup>,</sup>[^7]<sup>,</sup>[^8]
-- T9: Operated by Keolis[^6]
-
-FIP discounts are no longer valid on tram lines T12 and T13 since December 2025.[^3]<sup>,</sup>[^10] FIP discounts do not apply on other tram lines, as these are operated by RATP.
+FIP is no longer accepted on trams in the Paris area since 1st January 2026.[^3]
 {{% /train-category %}}
+
+#### Ticket barriers
 
 {{% float-image
   src="contramarquedePassage.webp"
@@ -365,6 +366,10 @@ FIP discounts are no longer valid on tram lines T12 and T13 since December 2025.
 %}}
 Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
 {{% /float-image %}}
+
+{{% highlight important %}}
+Many stations with ticket barriers are not staffed. While there are help intercoms, they work unreliably. Without the _Contremarque de Passage_ (temporary access card), there is often no way to gain access to the stations.
+{{% /highlight %}}
 
 ### Bus Services
 
@@ -382,20 +387,6 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 
-[^3]: [Le Parisien](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/keolis-exploitera-la-ligne-18-du-grand-paris-express-et-ratp-dev-recuperera-les-trams-t12-et-t13-05-06-2024-Y24JESM3Q5FJREHDTNCN2MSAQU.php)
-
-[^4]: [Wikipedia: Tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Tramway_d%27%C3%8Ele-de-France#Principales_caract%C3%A9ristiques)
-
-[^5]: [Wikipedia: Ligne 4 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_4_du_tramway_d%27%C3%8Ele-de-France)
-
-[^6]: [Wikipedia: Ligne 9 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_9_du_tramway_d%27%C3%8Ele-de-France)
-
-[^7]: [Wikipedia: Ligne 11 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_11_du_tramway_d%27%C3%8Ele-de-France)
-
-[^8]: [Wikipedia: Ligne 14 du tramway d'Île-de-France](https://fr.wikipedia.org/wiki/Ligne_14_du_tramway_d%27%C3%8Ele-de-France)
-
-[^9]: [Discord](https://discord.com/channels/1250522473188032512/1459083587361046702/1459089440118145065)
-
-[^10]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/stop-press/469780253-changes-to-fip-on-the-paris-tramway.html)
+[^3]: [FIP Guide Community: Trams in Paris](https://discord.com/channels/1250522473188032512/1465705899158147072/1465705899158147072)
 
 [^11]: [FIP Guide Community: TGV to Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)

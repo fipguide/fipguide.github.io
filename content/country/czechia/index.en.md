@@ -33,10 +33,10 @@ Punctuality is solid, and connecting trains often wait, but not in major hubs li
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Germany (DB AG) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| Austria (ÖBB) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
-| Poland (PKP, KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
-| Slovakia (ŽSR) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| [Germany](/country/germany) ([DB AG](/operator/db)) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
+| [Poland](/country/poland) ([PKP](/operator/pkp), KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 {{% /expander %}}
 
 ### Germany
@@ -69,4 +69,4 @@ The same applies to regional trains between Mikulovice and Krnov, which make a s
 
 ### Slovakia
 
-From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ZSR is required. Cross-border trains from RegioJet cannot be used with FIP.
+From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ŽSR is required. Cross-border trains from RegioJet cannot be used with FIP.
