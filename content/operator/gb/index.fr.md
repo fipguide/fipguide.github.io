@@ -510,28 +510,61 @@ De nombreuses gares au Royaume-Uni sont équipées de portiques de contrôle qui
 
 ### Transports à Londres
 
-La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n’offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La [Elizabeth Line](#elizabeth-line) et la London Overground peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme [Thameslink](#thameslink), qui traversent Londres, peuvent également être utilisés avec les Coupons FIP. Le [Heathrow Express](#heathrow-express) peut également être utilisé.
-{{% expander "Elizabeth Line" info "london" %}}
+La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n'offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La [Elizabeth Line](#elizabeth-line) et la [London Overground](#london-overground) peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme [Thameslink](#thameslink), qui traversent Londres, peuvent également être utilisés avec les Coupons FIP. Le [Gatwick Express](#gatwick-express) et le [Heathrow Express](#heathrow-express) peuvent également être utilisés.
+
+{{% train-category
+  id="elizabeth-line-london"
+  title="Elizabeth Line"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+%}}
+
 La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
 
-Plus d’informations : [voir Elizabeth Line](#elizabeth-line)
-{{% /expander %}}
+Plus d'informations : [voir Elizabeth Line](#elizabeth-line)
 
-{{% expander "London Overground" info "london" %}}
+{{% /train-category %}}
+
+{{% train-category
+  id="london-overground-london"
+  title="London Overground"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+%}}
+
 Toutes les lignes de la London Overground font partie de National Rail et peuvent être utilisées avec les réductions FIP. [^1]
-{{% /expander %}}
 
-{{% expander "Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise" info "london" %}}
-Les bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line,
-Téléphérique et bateaux sur la Tamise sont exploités par TfL et n’acceptent pas les réductions FIP. [^1]
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "London Underground" info "london" %}}
-Le métro londonien est exploité par TfL et n’accepte pas les réductions FIP.
+{{% train-category
+  id="london-buses-dlr-tram"
+  title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise"
+  type="bus"
+  fip_accepted=false
+  reservation_required=false
+%}}
 
-**Exception :** \
-Avec les Billets FIP 50 National Rail nécessitant un transfert entre gares londoniennes, le métro peut être utilisé exclusivement pour la liaison entre ces gares. L’interruption du trajet dans le métro n’est pas autorisée. Les billets valables pour ce transfert sont marqués ✠ (croix de Malte) ou † (poignard). [^1]
-{{% /expander %}}
+Les bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise sont exploités par TfL et n'acceptent pas les réductions FIP. [^1]
+
+{{% /train-category %}}
+
+{{% train-category
+  id="london-underground-london"
+  title="London Underground"
+  type="subway"
+  fip_accepted=false
+  reservation_required=false
+%}}
+
+Le métro londonien est exploité par TfL et n'accepte pas les réductions FIP.
+
+{{< highlight important >}}
+Avec les Billets FIP 50 National Rail nécessitant un transfert entre gares londoniennes, le métro peut être utilisé exclusivement pour la liaison entre ces gares. L'interruption du trajet dans le métro n'est pas autorisée. Les billets valables pour ce transfert sont marqués ✠ (croix de Malte) ou † (poignard). [^1]
+{{< /highlight >}}
+
+{{% /train-category %}}
 
 ### Lignes historiques / trains touristiques
 
@@ -541,47 +574,110 @@ Les lignes historiques circulent généralement selon des horaires saisonniers e
 
 Les billets enfants réguliers peuvent être moins chers que les billets avec réduction FIP.
 
-{{% expander "Dartmouth Steam Railway and River Boat Company" info "heritage_railway" %}}
-**Description :** \
-La [Dartmouth Steam Railway and River Boat Company](https://dartmouthrailriver.co.uk) propose des trajets en locomotive à vapeur et voitures historiques entre Paignton et Kingswear le long de la pittoresque Riviera anglaise. La ligne offre de superbes vues sur la côte du Devon et la rivière Dart. Le ferry de Kingswear à Dartmouth est inclus dans le prix. La gare National Rail la plus proche est Paignton – à seulement 1 minute à pied de la gare de la ligne historique. \
-**Réduction :** 75 %
-{{% /expander %}}
+{{% train-category
+  id="dartmouth-steam-railway"
+  title="Dartmouth Steam Railway and River Boat Company"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://dartmouthrailriver.co.uk"
+%}}
 
-{{% expander "Ffestiniog and Welsh Highland Railway" info "heritage_railway" %}}
-**Description :** \
-La [Ffestiniog and Welsh Highland Railway](https://festrail.co.uk) est l’une des plus anciennes lignes à voie étroite du monde, reliant Porthmadog, Caernarfon, Blaenau Ffestiniog et Minffordd. Elle traverse les montagnes spectaculaires du Snowdonia. Depuis la gare National Rail de Bangor, prendre le bus 5C (environ 30 minutes) jusqu’à Caernarfon Bus Station, puis marcher (4 minutes, 500 m) jusqu’à la gare. Des correspondances directes existent aussi à Blaenau Ffestiniog (National Rail, quai 1), Minffordd (50 m à pied) et Porthmadog (environ 13 minutes à pied, 1 km). \
-**Réduction :** 75 %
-{{% /expander %}}
+La Dartmouth Steam Railway and River Boat Company propose des trajets en locomotive à vapeur et voitures historiques entre Paignton et Kingswear le long de la pittoresque Riviera anglaise. La ligne offre de superbes vues sur la côte du Devon et la rivière Dart. Le ferry de Kingswear à Dartmouth est inclus dans le prix. La gare National Rail la plus proche est Paignton – à seulement 1 minute à pied de la gare de la ligne historique.
 
-{{% expander "Isle of Wight Steam Railway" info "heritage_railway" %}}
-**Description :** \
-La [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk) circule sur l’île de Wight entre Smallbrook Junction et Wootton. Elle est connue pour ses locomotives et voitures victoriennes restaurées avec soin. L’accès le plus simple se fait via Smallbrook Junction, avec une correspondance directe depuis National Rail (1 minute à pied). \
-**Réduction :** 50 %
-{{% /expander %}}
+La réduction est de 75 % sur le tarif adulte régulier.
 
-{{% expander "Kent and East Sussex Railway" info "heritage_railway" %}}
-**Description :** \
-La [Kent and East Sussex Railway](https://kesr.org.uk) relie Tenterden à Bodiam à travers les collines du sud-est de l’Angleterre. La ligne propose des trains à vapeur et diesel. Depuis Ashford International, prendre le bus 2 ou 2A (45–55 minutes, 20 km) jusqu’à Tenterden Town Centre (The Vine), puis marcher (3 minutes, 250 m) jusqu’à la gare. Depuis Headcorn, prendre le bus 12 ou 12RL (25 minutes). \
-**Réduction :** 50 %
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Llanberis Lake Railway" info "heritage_railway" %}}
-**Description :** \
-La [Llanberis Lake Railway](https://lake-railway.co.uk) longe le Llyn Padarn au cœur du parc national de Snowdonia. La ligne historique à voie étroite offre de magnifiques vues sur les montagnes autour de Llanberis. Depuis la gare de Bangor, prendre le bus 85 ou 86 (environ 50 minutes) jusqu’à Llanberis Interchange ; de là, 1 minute à pied jusqu’à la gare de la ligne historique. \
-**Réduction :** 50 %
-{{% /expander %}}
+{{% train-category
+  id="ffestiniog-welsh-highland-railway"
+  title="Ffestiniog and Welsh Highland Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://festrail.co.uk"
+%}}
 
-{{% expander "National Tramway Museum (Crich Tramway Village)" info "heritage_railway" %}}
-**Description :** \
-Le [National Tramway Museum](https://tramway.co.uk) à Crich abrite l’une des plus grandes collections de tramways historiques au monde. Les visiteurs peuvent voyager à bord de trams restaurés sur une ligne traversant le village reconstitué « Crich Tramway Village ». Depuis la gare de Matlock, prendre le bus 140 ou 141 (environ 32 minutes, 11 km), ou marcher depuis Whatstandwell (environ 35 minutes, 2,2 km). \
-**Réduction :** 2 personnes pour le prix d’1
-{{% /expander %}}
+La Ffestiniog and Welsh Highland Railway est l'une des plus anciennes lignes à voie étroite du monde, reliant Porthmadog, Caernarfon, Blaenau Ffestiniog et Minffordd. Elle traverse les montagnes spectaculaires du Snowdonia. Depuis la gare National Rail de Bangor, prendre le bus 5C (environ 30 minutes) jusqu'à Caernarfon Bus Station, puis marcher (4 minutes, 500 m) jusqu'à la gare. Des correspondances directes existent aussi à Blaenau Ffestiniog (National Rail, quai 1), Minffordd (50 m à pied) et Porthmadog (environ 13 minutes à pied, 1 km).
 
-{{% expander "Talyllyn Railway Company" info "heritage_railway" %}}
-**Description :** \
-La [Talyllyn Railway](https://talyllyn.co.uk) est la plus ancienne ligne à voie étroite préservée au monde circulant encore sur son tracé d’origine. Elle relie Tywyn Wharf à Nant Gwernol au centre du Pays de Galles. La gare National Rail de Tywyn est à seulement 350 m (4 minutes à pied) de la gare Wharf Station. \
-**Réduction :** 50 %
-{{% /expander %}}
+La réduction est de 75 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="isle-of-wight-steam-railway"
+  title="Isle of Wight Steam Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://iwsteamrailway.co.uk"
+%}}
+
+La Isle of Wight Steam Railway circule sur l'île de Wight entre Smallbrook Junction et Wootton. Elle est connue pour ses locomotives et voitures victoriennes restaurées avec soin. L'accès le plus simple se fait via Smallbrook Junction, avec une correspondance directe depuis National Rail (1 minute à pied).
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="kent-east-sussex-railway"
+  title="Kent and East Sussex Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://kesr.org.uk"
+%}}
+
+La Kent and East Sussex Railway relie Tenterden à Bodiam à travers les collines du sud-est de l'Angleterre. La ligne propose des trains à vapeur et diesel. Depuis Ashford International, prendre le bus 2 ou 2A (45–55 minutes, 20 km) jusqu'à Tenterden Town Centre (The Vine), puis marcher (3 minutes, 250 m) jusqu'à la gare. Depuis Headcorn, prendre le bus 12 ou 12RL (25 minutes).
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="llanberis-lake-railway"
+  title="Llanberis Lake Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://lake-railway.co.uk"
+%}}
+
+La Llanberis Lake Railway longe le Llyn Padarn au cœur du parc national de Snowdonia. La ligne historique à voie étroite offre de magnifiques vues sur les montagnes autour de Llanberis. Depuis la gare de Bangor, prendre le bus 85 ou 86 (environ 50 minutes) jusqu'à Llanberis Interchange ; de là, 1 minute à pied jusqu'à la gare de la ligne historique.
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="national-tramway-museum"
+  title="National Tramway Museum (Crich Tramway Village)"
+  type="tram"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://tramway.co.uk"
+%}}
+
+Le National Tramway Museum à Crich abrite l'une des plus grandes collections de tramways historiques au monde. Les visiteurs peuvent voyager à bord de trams restaurés sur une ligne traversant le village reconstitué « Crich Tramway Village ». Depuis la gare de Matlock, prendre le bus 140 ou 141 (environ 32 minutes, 11 km), ou marcher depuis Whatstandwell (environ 35 minutes, 2,2 km).
+
+La réduction est de 2 personnes pour le prix d'1.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="talyllyn-railway"
+  title="Talyllyn Railway Company"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://talyllyn.co.uk"
+%}}
+
+La Talyllyn Railway est la plus ancienne ligne à voie étroite préservée au monde circulant encore sur son tracé d'origine. Elle relie Tywyn Wharf à Nant Gwernol au centre du Pays de Galles. La gare National Rail de Tywyn est à seulement 350 m (4 minutes à pied) de la gare Wharf Station.
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
 
 ## Recommandations
 
