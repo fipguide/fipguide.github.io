@@ -116,7 +116,7 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
   reservation_possible=false
 %}}
 
-The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network.
+The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
 
 {{% highlight tip %}}
 Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
@@ -250,7 +250,7 @@ In First Class, snacks, meals, and (alcoholic) drinks are served.
   reservation_possible=false
 %}}
 
-London Overground complements the Underground network as a kind of suburban railway, offering wide-area local connections in London.
+London Overground complements the Underground network as a kind of suburban railway, offering wide-area local connections in London. All London Overground lines are part of National Rail and can be used with FIP discounts. [^1]
 
 {{% /train-category %}}
 
@@ -506,28 +506,35 @@ Many stations in Great Britain have ticket barriers that must be opened with a t
 
 ### Transport in London
 
-Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The [Elizabeth Line](#elizabeth-line) and London Overground can be used without restriction with FIP. Some regional trains such as [Thameslink](#thameslink), which run through London, can also be used with FIP Coupons. [Heathrow Express](#heathrow-express) can also be used.
-{{% expander "Elizabeth Line" info "london" %}}
-The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
+Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The [Elizabeth Line](#elizabeth-line) and [London Overground](#london-overground) can be used without restriction with FIP. Some regional trains such as [Thameslink](#thameslink), which run through London, can also be used with FIP Coupons. [Gatwick Express](#gatwick-express) and [Heathrow Express](#heathrow-express) can also be used.
 
-Further information: [see Elizabeth Line](#elizabeth-line)
-{{% /expander %}}
+{{% train-category
+  id="london-buses-dlr-tram"
+  title="London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats"
+  type="bus"
+  fip_accepted=false
+  reservation_required=false
+%}}
 
-{{% expander "London Overground" info "london" %}}
-All London Overground lines are part of National Rail and can be used with FIP discounts. [^1]
-{{% /expander %}}
+London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats are operated by TfL and do not accept FIP discounts. [^1]
 
-{{% expander "London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats" info "london" %}}
-London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line,
-Cable Car, and River Thames Boats are operated by TfL and do not accept FIP discounts. [^1]
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "London Underground" info "london" %}}
+{{% train-category
+  id="london-underground-london"
+  title="London Underground"
+  type="subway"
+  fip_accepted=false
+  reservation_required=false
+%}}
+
 The London Underground is operated by TfL and does not accept FIP discounts.
 
-**Exception:** \
+{{< highlight important >}}
 With FIP 50 National Rail Tickets requiring a transfer between London stations, the Underground may be used exclusively for the connection between these stations. Break of journey in the Underground is not permitted. Tickets valid for this transfer are marked with ✠ (Maltese cross) or † (dagger). [^1]
-{{% /expander %}}
+{{< /highlight >}}
+
+{{% /train-category %}}
 
 ### Heritage Railways / Historic Journeys
 
@@ -537,47 +544,110 @@ Heritage railways usually operate seasonal timetables and distinguish between re
 
 Regular child tickets may be cheaper than tickets with FIP discount.
 
-{{% expander "Dartmouth Steam Railway and River Boat Company" info "heritage_railway" %}}
-**Description:** \
-The [Dartmouth Steam Railway and River Boat Company](https://dartmouthrailriver.co.uk) operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The ferry from Kingswear to Dartmouth is included in the price. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station. \
-**Discount:** 75 %
-{{% /expander %}}
+{{% train-category
+  id="dartmouth-steam-railway"
+  title="Dartmouth Steam Railway and River Boat Company"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://dartmouthrailriver.co.uk"
+%}}
 
-{{% expander "Ffestiniog and Welsh Highland Railway" info "heritage_railway" %}}
-**Description:** \
-The [Ffestiniog and Welsh Highland Railway](https://festrail.co.uk) is one of the oldest narrow-gauge railways in the world, connecting Porthmadog, Caernarfon, Blaenau Ffestiniog, and Minffordd. It runs through the stunning Snowdonia mountains. From Bangor National Rail station, take bus 5C (about 30 minutes) to Caernarfon Bus Station, then walk (4 minutes, 500 m) to the railway station. Direct connections also exist at Blaenau Ffestiniog (National Rail, platform 1), Minffordd (50 m walk), and Porthmadog (about 13 minutes walk, 1 km). \
-**Discount:** 75 %
-{{% /expander %}}
+The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The ferry from Kingswear to Dartmouth is included in the price. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
 
-{{% expander "Isle of Wight Steam Railway" info "heritage_railway" %}}
-**Description:** \
-The [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk) runs on the Isle of Wight between Smallbrook Junction and Wootton. It is known for lovingly restored Victorian locomotives and carriages. The easiest access is via Smallbrook Junction, with a direct transfer from National Rail (1 minute walk). \
-**Discount:** 50 %
-{{% /expander %}}
+The discount is 75% off the regular adult fare.
 
-{{% expander "Kent and East Sussex Railway" info "heritage_railway" %}}
-**Description:** \
-The [Kent and East Sussex Railway](https://kesr.org.uk) runs from Tenterden to Bodiam through the hilly landscape of southeast England. The railway offers both steam and diesel trains. From Ashford International, take bus 2 or 2A (45–55 minutes, 20 km) to Tenterden Town Centre (The Vine), then walk (3 minutes, 250 m) to Tenterden Town station. Alternatively, from Headcorn, take bus 12 or 12RL (25 minutes). \
-**Discount:** 50 %
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Llanberis Lake Railway" info "heritage_railway" %}}
-**Description:** \
-The [Llanberis Lake Railway](https://lake-railway.co.uk) runs along Llyn Padarn in the heart of Snowdonia National Park. The historic narrow-gauge railway offers beautiful views of the mountains around Llanberis. From Bangor station, take bus 85 or 86 (about 50 minutes) to Llanberis Interchange; from there, it is only 1 minute walk to the heritage railway station. \
-**Discount:** 50 %
-{{% /expander %}}
+{{% train-category
+  id="ffestiniog-welsh-highland-railway"
+  title="Ffestiniog and Welsh Highland Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://festrail.co.uk"
+%}}
 
-{{% expander "National Tramway Museum (Crich Tramway Village)" info "heritage_railway" %}}
-**Description:** \
-The [National Tramway Museum](https://tramway.co.uk) in Crich houses one of the largest collections of historic trams in the world. Visitors can ride original restored trams on a route through the reconstructed village "Crich Tramway Village". From Matlock station, take bus 140 or 141 (about 32 minutes, 11 km), or walk from Whatstandwell (about 35 minutes, 2.2 km). \
-**Discount:** 2 people for the price of 1
-{{% /expander %}}
+The Ffestiniog and Welsh Highland Railway is one of the oldest narrow-gauge railways in the world, connecting Porthmadog, Caernarfon, Blaenau Ffestiniog, and Minffordd. It runs through the stunning Snowdonia mountains. From Bangor National Rail station, take bus 5C (about 30 minutes) to Caernarfon Bus Station, then walk (4 minutes, 500 m) to the railway station. Direct connections also exist at Blaenau Ffestiniog (National Rail, platform 1), Minffordd (50 m walk), and Porthmadog (about 13 minutes walk, 1 km).
 
-{{% expander "Talyllyn Railway Company" info "heritage_railway" %}}
-**Description:** \
-The [Talyllyn Railway](https://talyllyn.co.uk) is the oldest preserved narrow-gauge railway in the world still running on its original route. It runs from Tywyn Wharf to Nant Gwernol in Mid Wales. Tywyn National Rail station is only 350 m (4 minutes walk) from Wharf Station. \
-**Discount:** 50 %
-{{% /expander %}}
+The discount is 75% off the regular adult fare.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="isle-of-wight-steam-railway"
+  title="Isle of Wight Steam Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://iwsteamrailway.co.uk"
+%}}
+
+The Isle of Wight Steam Railway runs on the Isle of Wight between Smallbrook Junction and Wootton. It is known for lovingly restored Victorian locomotives and carriages. The easiest access is via Smallbrook Junction, with a direct transfer from National Rail (1 minute walk).
+
+The discount is 50% off the regular adult fare.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="kent-east-sussex-railway"
+  title="Kent and East Sussex Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://kesr.org.uk"
+%}}
+
+The Kent and East Sussex Railway runs from Tenterden to Bodiam through the hilly landscape of southeast England. The railway offers both steam and diesel trains. From Ashford International, take bus 2 or 2A (45–55 minutes, 20 km) to Tenterden Town Centre (The Vine), then walk (3 minutes, 250 m) to Tenterden Town station. Alternatively, from Headcorn, take bus 12 or 12RL (25 minutes).
+
+The discount is 50% off the regular adult fare.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="llanberis-lake-railway"
+  title="Llanberis Lake Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://lake-railway.co.uk"
+%}}
+
+The Llanberis Lake Railway runs along Llyn Padarn in the heart of Snowdonia National Park. The historic narrow-gauge railway offers beautiful views of the mountains around Llanberis. From Bangor station, take bus 85 or 86 (about 50 minutes) to Llanberis Interchange; from there, it is only 1 minute walk to the heritage railway station.
+
+The discount is 50% off the regular adult fare.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="national-tramway-museum"
+  title="National Tramway Museum (Crich Tramway Village)"
+  type="tram"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://tramway.co.uk"
+%}}
+
+The National Tramway Museum in Crich houses one of the largest collections of historic trams in the world. Visitors can ride original restored trams on a route through the reconstructed village "Crich Tramway Village". From Matlock station, take bus 140 or 141 (about 32 minutes, 11 km), or walk from Whatstandwell (about 35 minutes, 2.2 km).
+
+The discount is 2 people for the price of 1.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="talyllyn-railway"
+  title="Talyllyn Railway Company"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://talyllyn.co.uk"
+%}}
+
+The Talyllyn Railway is the oldest preserved narrow-gauge railway in the world still running on its original route. It runs from Tywyn Wharf to Nant Gwernol in Mid Wales. Tywyn National Rail station is only 350 m (4 minutes walk) from Wharf Station.
+
+The discount is 50% off the regular adult fare.
+
+{{% /train-category %}}
 
 ## Recommendations
 
