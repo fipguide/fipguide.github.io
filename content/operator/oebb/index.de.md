@@ -59,6 +59,10 @@ Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die 
 
 Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien).
 
+{{% highlight confusion %}}
+`RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -66,7 +70,7 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
     title="Intercity (IC) / Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 

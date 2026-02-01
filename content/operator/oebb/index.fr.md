@@ -59,6 +59,10 @@ Il existe trois classes de voitures :
 
 Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
 
+{{% highlight confusion %}}
+`RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -66,7 +70,7 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
     title="Intercity (IC) / Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 

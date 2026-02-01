@@ -59,6 +59,10 @@ There are three classes:
 
 For Railjets to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy).
 
+{{% highlight confusion %}}
+`RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -66,7 +70,7 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
         title="Intercity (IC) / Intercity-Express (ICE)"
         type="highspeed"
         fip_accepted=true
-        reservation_required=false
+        reservation_required=partially
         reservation_possible=true
 %}}
 
