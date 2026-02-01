@@ -135,18 +135,18 @@ The "Allianz pro Schiene" annually awards the most beautiful stations in the cou
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Belgium (SNCB) | Aachen Süd (Gr) |
-| BSB | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen |
-| Denmark (DSB) | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr) |
-| Eurostar | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne |
-| France (SNCF) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr) |
-| Luxembourg (CFL) | Igel (Gr) |
-| Netherlands (NS) | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Austria (ÖBB) | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn |
-| Poland (PKP) | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Czech Republic (ČD) | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Aachen Süd (Gr) |
+| [BSB](/operator/bsb) | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen |
+| [Denmark](/country/denmark) ([DSB](/operator/dsb)) | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr) |
+| [Eurostar](/operator/eurostar) | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Igel (Gr) |
+| [Netherlands](/country/netherlands) ([NS](/operator/ns)) | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn |
+| [Poland](/country/poland) ([PKP](/operator/pkp)) | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Czech Republic](/country/czechia) ([ČD](/operator/cd)) | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
 | Sweden (SJ) | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr) |
-| Switzerland (SBB, BLS, SP) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
 
 MS = Middle of the lake
 {{% /expander %}}
@@ -165,7 +165,7 @@ It is also possible to enter via Tønder by regional train. However, since neith
 
 ### France
 
-Long-distance cooperation trains of SNCF and Deutsche Bahn run between France and Germany. These are operated as `TGV` or `ICE` trains and run from Paris via Strasbourg or Saarbrücken to Munich or Karlsruhe, Mannheim, and Frankfurt (Main). Reservations are only mandatory within France. In Germany, the trains can be used without a reservation. Since the reservation requirement on the route via Strasbourg and Karlsruhe applies up to the border point Kehl (Gr), reservations are also mandatory for journeys between Strasbourg and Germany. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees, see [Booking Options – Online](/operator/sncf#online "Booking Options - Online").
+Long-distance cooperation trains of SNCF and Deutsche Bahn run between France and Germany. These are operated as `TGV` or `ICE` trains and run from Paris via Strasbourg or Saarbrücken to Munich or Karlsruhe, Mannheim, and Frankfurt (Main). In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservations are only mandatory within France. In Germany, the trains can be used without a reservation. Since the reservation requirement on the route via Strasbourg and Karlsruhe applies up to the border point Kehl (Gr), reservations are also mandatory for journeys between Strasbourg and Germany. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees, see [Booking Options – Online](/operator/sncf#online "Booking Options - Online").
 
 {{% highlight tip %}}
 A cheap option for travel from Strasbourg to Germany is the tram from Strasbourg to Kehl, for which a cheap tram ticket is required. From Kehl, there is a connection to the Ortenau S-Bahn line RS4 to Offenburg. FIP is not valid on this line, but the Deutschlandticket is (DB employee discounts are only valid here with NE tickets).

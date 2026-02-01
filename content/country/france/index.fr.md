@@ -33,13 +33,13 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Luxembourg (CFL) | Bettembourg (fr), Rodange (fr) |
-| Allemagne (DB) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
-| Eurostar (EIL) | Paris, Lille |
-| Italie (FS) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Espagne (Renfe) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
-| Suisse (SBB, BLS et SP) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| Belgique (SNCB) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Bettembourg (fr), Rodange (fr) |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
+| [Eurostar](/operator/eurostar) | Paris, Lille |
+| [Italie](/country/italy) ([FS](/operator/fs)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Espagne](/country/spain) ([Renfe](/operator/renfe)) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### Royaume-Uni
@@ -65,7 +65,7 @@ Au Luxembourg, les voyages en 2ᵉ classe sont gratuits, donc un Coupon FIP CFL 
 
 ### Allemagne
 
-Entre la France et l’Allemagne circulent des trains longue distance en coopération entre la SNCF et la Deutsche Bahn, exploités en tant que `TGV` ou `ICE` entre Paris, Munich, Strasbourg, Karlsruhe/Sarrebruck, Mannheim et Francfort. La réservation est obligatoire uniquement en France. En Allemagne, les trains peuvent être utilisés sans réservation. Comme l’obligation de réservation commence dès le point-frontière Kehl (Gr), une réservation est également nécessaire pour les trajets entre l’Allemagne et Strasbourg. Ces billets FIP transfrontaliers peuvent également être achetés en ligne par les employés de la Deutsche Bahn, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Options de réservation – en ligne").
+Entre la France et l’Allemagne circulent des trains longue distance en coopération entre la SNCF et la Deutsche Bahn, exploités en tant que `TGV` ou `ICE` entre Paris, Munich, Strasbourg, Karlsruhe/Sarrebruck, Mannheim et Francfort. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). La réservation est obligatoire uniquement en France. En Allemagne, les trains peuvent être utilisés sans réservation. Comme l’obligation de réservation commence dès le point-frontière Kehl (Gr), une réservation est également nécessaire pour les trajets entre l’Allemagne et Strasbourg. Ces billets FIP transfrontaliers peuvent également être achetés en ligne par les employés de la Deutsche Bahn, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Options de réservation – en ligne").
 
 {{% highlight tip %}}
 Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4 d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket (réductions DB valables uniquement avec billets NE) est accepté. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.

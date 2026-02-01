@@ -33,13 +33,13 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Luxembourg (CFL) | Bettembourg (fr), Rodange (fr) |
-| Germany (DB) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
-| Eurostar (EIL) | Paris, Lille |
-| Italy (FS) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Spain (Renfe) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
-| Switzerland (SBB, BLS and SP) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| Belgium (SNCB) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Bettembourg (fr), Rodange (fr) |
+| [Germany](/country/germany) ([DB](/operator/db)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
+| [Eurostar](/operator/eurostar) | Paris, Lille |
+| [Italy](/country/italy) ([FS](/operator/fs)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Spain](/country/spain) ([Renfe](/operator/renfe)) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS and [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### United Kingdom
@@ -65,7 +65,7 @@ Travel within Luxembourg is free in 2nd class, so a CFL Coupon is not strictly n
 
 ### Germany
 
-Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
+Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
 
 {{% highlight tip %}}
 A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4 from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket (DB employee discounts only apply with NE tickets) is. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
