@@ -167,7 +167,7 @@ Regional trains in Poland are sometimes also operated by railway companies other
     type="regional"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=true
+    reservation_possible=false
 %}}
 
 Interregional trains operated by Polregio and equipped with higher comfort than normal regional trains.

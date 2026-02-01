@@ -166,7 +166,7 @@ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als 
     type="regional"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=true
+    reservation_possible=false
 %}}
 
 Überregionale Züge, die von Polregio betrieben werden und mit höherem Komfort als normale Regiozüge ausgestattet sind.

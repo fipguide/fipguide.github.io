@@ -164,7 +164,7 @@ Les trains régionaux en Pologne sont parfois aussi exploités par d’autres co
     type="regional"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=true
+    reservation_possible=false
 %}}
 
 Trains interrégionaux exploités par Polregio et équipés d’un confort supérieur aux trains régionaux normaux.
