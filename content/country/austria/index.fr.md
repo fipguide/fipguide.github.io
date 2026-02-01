@@ -43,14 +43,14 @@ Un coup de cœur est la Schneebergbahn en Basse-Autriche. Elle n’est pas explo
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| République tchèque (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
-| Hongrie (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron |
+| [République tchèque](/country/czechia) ([ČD](/operator/cd)) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
+| Hongrie ([GySEV](/operator/gysev)) | Pamhagen (Gr), Szentgotthárd, Sopron |
 | Hongrie (MÁV) | Hegyeshalom (Gr), Sopron |
-| Allemagne (DB) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slovénie (SZ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
-| Slovaquie (ŽSR) | Marchegg (Gr), Kittsee (Gr) |
-| Suisse (CFF) | Buchs SG, St. Margrethen |
-| Italie (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slovénie (SŽ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
+| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr) |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb)) | Buchs SG, St. Margrethen |
+| [Italie](/country/italy) ([FS](/operator/fs)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 {{% /expander %}}
 
 ### République tchèque

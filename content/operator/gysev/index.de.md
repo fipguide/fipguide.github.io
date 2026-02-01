@@ -34,39 +34,74 @@ Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den
 
 ## Zugkategorien und Reservierungen
 
-{{% expander "InterCity (IC) ⚠️ℹ️" traincategory "local" %}}
-**Beschreibung:** \
+{{% train-category
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
 Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
 
-ℹ️ In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Teilweise \
-Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten zwischen Sopron und Győr ist keine Reservierung erforderlich.
-{{% /expander %}}
+{{% highlight confusion %}}
+In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV.
+{{% /highlight %}}
 
-{{% expander "Regionalexpress (REX) ℹ️" traincategory "local" %}}
-**Beschreibung:** \
+#### Reservierung
+
+Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten zwischen Sopron und Győr ist keine Reservierung erforderlich.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rex"
+    title="Regionalexpress (REX)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-ℹ️ Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight confusion %}}
+Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
+{{% /highlight %}}
 
-{{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
-**Beschreibung:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regionalzug (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-ℹ️ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight confusion %}}
+Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
+{{% /highlight %}}
 
-{{% expander "Személyvonat (Sz) ℹ️" traincategory "local" %}}
-**Beschreibung:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="sz"
+    title="Személyvonat (Sz)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-ℹ️ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden. \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight confusion %}}
+Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
+{{% /highlight %}}
+
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 

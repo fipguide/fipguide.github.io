@@ -31,8 +31,8 @@ Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská že
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Tschechien (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| Ungarn (GySEV) | Rajka (Gr) |
+| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Ungarn ([GySEV](/operator/gysev)) | Rajka (Gr) |
 | Ungarn (MÁV) | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
 {{% /expander %}}
 
