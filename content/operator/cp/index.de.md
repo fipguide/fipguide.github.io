@@ -133,7 +133,7 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
   reservation_required=true
 %}}
 
-Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
+Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt.
 
 **FIP Globalpreis (Distanzunabhängig):** 4 €
 
