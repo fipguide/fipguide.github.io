@@ -147,7 +147,7 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
     type="regional"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=true
+    reservation_possible=false
 %}}
 
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.

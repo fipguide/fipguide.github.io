@@ -150,7 +150,7 @@ Different prices for international connections. [More information](https://www.i
     type="regional"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=true
+    reservation_possible=false
 %}}
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.

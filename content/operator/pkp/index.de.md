@@ -149,7 +149,7 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
     type="regional"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=true
+    reservation_possible=false
 %}}
 
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
