@@ -1,15 +1,17 @@
 <details class="o-expander">
   <summary class="o-expander__summary">
-    <div class="o-identify-operator__title">
+    <div class="o-expander__summary-title">
       {{- partial "icon" "search" -}}
-      <span>{{ T "identify-operator.title" }}</span>
+      <span class="o-expander__summary-text"
+        >{{ T "identify-operator.title" }}</span
+      >
     </div>
     {{- partial "icon" "keyboard_arrow_down" -}}
   </summary>
   <hr aria-hidden="true" />
   <div class="o-expander__content">
     {{ if .innerContent }}
-      <div class="o-identify-operator__text">
+      <div class="o-identify-operator__intro">
         {{ .innerContent | markdownify }}
       </div>
     {{ end }}
@@ -36,7 +38,7 @@
           </div>
 
           {{ if $page.Params.url }}
-            <div class="o-identify-operator__actions">
+            <div class="o-identify-operator__button">
               {{- partial "button"
                 (dict
                 "Destination" $page.Params.url
