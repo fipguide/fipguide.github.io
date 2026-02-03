@@ -28,23 +28,50 @@ Il n’existe pas d’obligation de réservation, sauf sur certaines liaisons tr
 
 ### Longue distance
 
-{{% expander "Intercity-Express (ICE) ⚠️" traincategory "long-distance" %}}
-**Description :**
-L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la DB. Il relie les grandes villes allemandes à jusqu’à 300 km/h et circule aussi vers certains pays voisins. Les liaisons particulièrement rapides avec peu d’arrêts sont appelées `ICE Sprinter`. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Pour les trajets transfrontaliers vers la France ⚠️ \
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la DB. Il relie les grandes villes allemandes à jusqu’à 300 km/h et circule aussi vers certains pays voisins. Les liaisons particulièrement rapides avec peu d’arrêts sont appelées `ICE Sprinter`.
+
+#### Réservation
+
+Réservation obligatoire pour les trajets transfrontaliers vers la France.
 Pour les trajets transfrontaliers en été vers l’Autriche et les Pays-Bas, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
-{{% /expander %}}
 
-{{% expander "Train à grande vitesse (TGV) ⚠️" traincategory "long-distance" %}}
-**Description :**
-Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Pour les trajets transfrontaliers vers la France ⚠️
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Railjet (RJ) / Railjet Xpress (RJX)" traincategory "long-distance" %}}
-**Description :** \
+{{% train-category
+    id="tgv"
+    title="Train à grande vitesse (TGV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
+
+#### Réservation
+
+Réservation obligatoire pour les trajets transfrontaliers vers la France.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rj"
+    title="Railjet (RJ) / Railjet Xpress (RJX)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
 Trains internationaux de la catégorie la plus élevée de l’ÖBB/ČD en coopération avec la DB entre Hambourg, Berlin, Dresde et Prague ainsi que Munich, l’Autriche et l’Italie ou la Hongrie. Les Railjets avec moins d’arrêts sont commercialisés comme Railjet Xpress. Les trains disposent d’un bistro.
 
 Il existe trois classes de voitures :
@@ -55,53 +82,93 @@ Il existe trois classes de voitures :
 
 [Aperçu détaillé des classes chez ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Pour les Railjets à destination de l’Italie, un supplément est requis à partir de la frontière italienne (voir [Trains vers l’Italie chez ÖBB](/operator/oebb#trains-vers-litalie "Trains vers l’Italie chez ÖBB")). \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Pour les Railjets à destination de l’Italie, un supplément est requis à partir de la frontière italienne (voir [Trains vers l’Italie chez ÖBB](/operator/oebb#trains-vers-litalie "Trains vers l’Italie chez ÖBB")).
 
-{{% expander "Intercity (IC)" traincategory "long-distance" %}}
-**Description :**
-Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Eurocity-Express (ECE) ⚠️" traincategory "long-distance" %}}
-**Description :**
-Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de trains sur la route Hambourg - Copenhague.
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
 
-⚠️ Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie](/country/switzerland#italien "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
+Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de trains sur la route Hambourg – Copenhague.
+
+{{% highlight important %}}
+Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie](/country/switzerland#italien "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
 
 **Supplément/Réservation Italie :**
 
 - 1ʳᵉ classe : 13€
 - 2ᵉ classe : 11€
 
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Pour les trajets transfrontaliers vers l’Italie et pendant la haute saison vers le Danemark ⚠️
-{{% /expander %}}
+{{% /highlight %}}
 
-{{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
-**Description :**
-Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin - Pologne. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Pour les trajets transfrontaliers vers la Pologne ⚠️ \
+#### Réservation
+
+Réservation obligatoire pour les trajets transfrontaliers vers l’Italie et pendant la haute saison vers le Danemark.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin – Pologne.
+
+#### Réservation
+
+Réservation obligatoire pour les trajets transfrontaliers vers la Pologne.
 Pour les trajets transfrontaliers en été vers la République tchèque, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
-{{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
-**Description :** \
-Trains de nuit de l’ÖBB en coopération avec la DB vers différents pays européens. Les trains proposent des voitures-lits, couchettes et places assises et sont exploités à l’étranger avec d’autres compagnies. \
-Pour les Nightjet, des réservations/suppléments pour les voitures-lits et couchettes peuvent être réservés. Un FIP Coupon pour les pays/compagnies traversés est nécessaire. Sans FIP Coupon, un billet au Tarif Global FIP pour tout le trajet peut être acheté. \
-⚠️ Les trajets nationaux gratuits pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés de la DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors d’Allemagne avec FIP Coupon, une réservation/supplément est nécessaire. \
-_Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux gratuits jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
+{{% /train-category %}}
+
+{{% train-category
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Trains de nuit de l’ÖBB en coopération avec la DB vers différents pays européens. Les trains proposent des voitures-lits, couchettes et places assises et sont exploités à l’étranger avec d’autres compagnies.
+
+{{% highlight important %}}
+Les trajets nationaux gratuits pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés de la DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors d’Allemagne avec FIP Coupon, une réservation/supplément est nécessaire.
+{{% /highlight %}}
+
 **Tarif Global FIP :** oui \
-**Coût de la réservation :** \
-Selon le trajet, la fréquentation et la catégorie de voiture.
-{{% /expander %}}
+_Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux gratuits jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
+
+#### Réservation
+
+Pour les Nightjet, des réservations/suppléments pour les voitures-lits et couchettes peuvent être réservés. Un FIP Coupon pour les pays/compagnies traversés est nécessaire. Sans FIP Coupon, un billet au Tarif Global FIP pour tout le trajet peut être acheté.
+
+**Coût :** Selon le trajet, la fréquentation et la catégorie de voiture.
+
+{{% /train-category %}}
 
 ### Trafic local
 
@@ -111,42 +178,69 @@ Les trains du trafic local sont souvent exploités par d’autres opérateurs qu
 Une orientation est fournie par les [cartes d’aperçu](https://www.schienennahverkehr.de/veroeffentlichungen/spnv-karten/) indiquant quels opérateurs circulent sur quelles lignes. Les liaisons de la Deutsche Bahn sont en rouge et marquées _DB - DB Regio AG_.
 {{% /highlight %}}
 
-{{% expander "Regionalexpress (RE) ℹ️" traincategory "local" %}}
-**Description :**
+{{% train-category
+    id="re"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=partially
+%}}
+
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
 
-ℹ️ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
+{{% highlight confusion %}}
+Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
+{{% /highlight %}}
 
-**Réservation possible :** Parfois \
-**Réservation obligatoire :** Non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regionalbahn (RB) ℹ️" traincategory "local" %}}
-**Description :**
+{{% train-category
+    id="rb"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=partially
+%}}
+
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
 
-ℹ️ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
+{{% highlight confusion %}}
+Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
+{{% /highlight %}}
 
-**Réservation possible :** Parfois \
-**Réservation obligatoire :** Non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "S-Bahn (S) ℹ️" traincategory "local" %}}
-**Description :**
+{{% train-category
+    id="s"
+    title="S-Bahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
 
-ℹ️ Les trains de la catégorie `S` sont parfois exploités par d’autres opérateurs.
+{{% highlight confusion %}}
+Les trains de la catégorie `S` sont souvent exploités par d’autres opérateurs.
+{{% /highlight %}}
 
-**Réservation possible :** Non \
-**Réservation obligatoire :** Non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Flughafenexpress (FEX)" traincategory "local" %}}
-**Description :**
-Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER). \
-**Réservation possible :** Non \
-**Réservation obligatoire :** Non
-{{% /expander %}}
+{{% train-category
+    id="fex"
+    title="Flughafenexpress (FEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER).
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 

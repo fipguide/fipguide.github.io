@@ -45,8 +45,6 @@ Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux
     subtitle="Pour trajets nationaux"
 %}}
 Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
-
-Il est aussi possible de réserver via le [site Web Polregio](https://bilety.polregio.pl/), avec une procédure identique à Koleo.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"

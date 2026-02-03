@@ -47,14 +47,14 @@ A special highlight is the ride on the Schneebergbahn in Lower Austria, which is
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Czech Republic (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
-| Hungary (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron |
+| [Czech Republic](/country/czechia) ([ČD](/operator/cd)) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
+| Hungary ([GySEV](/operator/gysev)) | Pamhagen (Gr), Szentgotthárd, Sopron |
 | Hungary (MÁV) | Hegyshalom (Gr), Sopron |
-| Germany (DB) | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slovenia (SZ) | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr) |
-| Slovakia (ZSR) | Marchegg(Gr), Kittsee(Gr) |
-| Switzerland (SBB) | Buchs SG, St. Margrethen |
-| Italy (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Germany](/country/germany) ([DB](/operator/db)) | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slovenia (SŽ) | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr) |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr) |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb)) | Buchs SG, St. Margrethen |
+| [Italy](/country/italy) ([FS](/operator/fs)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 
 {{% /expander %}}
 
@@ -117,7 +117,7 @@ Arrival from Slovakia is possible via two different regional train connections:
 - One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
 - Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
 
-For both routes, a FIP 50 Ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
+For both routes, a FIP 50 Ticket from [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
 
 Additionally, there are some `EC` connections.
 

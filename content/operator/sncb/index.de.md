@@ -26,75 +26,132 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. 
 
 Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Beschreibung:** \
-Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Beschreibung:** \
-Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten. \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
 
-{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen. \
-[Weitere Informationen](https://www.nsinternational.com/en/trains/eurocity) \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein \
-**Zuschlag**: ⚠️ \
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ecd"
+    title="Eurocity Direct (ECD)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
+
+Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
+
+{{% highlight important %}}
+**Zuschlag**:
 Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3 € zu entrichten. \
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80 € erwerben. \
 Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
-{{% /expander %}}
+{{% /highlight %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
-**Beschreibung:** \
-Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten. \
-[Weitere Informationen](https://www.nsinternational.com/en/trains/eurocity) \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Train local oder Lokale trein (L)" traincategory category %}}
-**Beschreibung:** \
-Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden. \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
 
-{{% expander "Train S oder S-Trein (S)" traincategory category %}}
-**Beschreibung:** \
-Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als `R` für Regionalzug zusammengefasst. \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
 
-{{% expander "Train d’heure de pointe oder Piekuurtrein (P)" traincategory category %}}
-**Beschreibung:** \
-Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden. \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Express (E/EXP/EXTRA)" traincategory category %}}
-**Beschreibung:** \
-Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste. \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% train-category
+    id="l"
+    title="Train local oder Lokale trein (L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
 
-{{% expander "Tourist (T)" traincategory category %}}
-**Beschreibung:** \
-Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` für Regionalzug zu finden. \
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="s"
+    title="Train S oder S-Trein (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als `R` für Regionalzug zusammengefasst.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="p"
+    title="Train d’heure de pointe oder Piekuurtrein (P)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="e"
+    title="Express (E/EXP/EXTRA)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="t"
+    title="Tourist (T)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` für Regionalzug zu finden.
+
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 

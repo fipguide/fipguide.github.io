@@ -25,7 +25,7 @@ Latvia’s railway network is based on the 1520 mm broad gauge. Passenger traf
 | Country | Border Points |
 | --- | --- |
 | Estonia | Valga |
-| Latvia (LDz) | Joniškis |
+| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis |
 | Belarus | Border closed |
 | Russia | Border closed |
 {{% /expander %}}

@@ -31,9 +31,9 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Autriche (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Suisse (CFF, BLS, SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| France (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slovénie (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
 | Ferry (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 

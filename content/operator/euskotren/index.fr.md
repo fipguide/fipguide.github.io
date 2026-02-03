@@ -42,33 +42,63 @@ Certains opérateurs ferroviaires délivrent également des titres de transport 
 
 Les réservations ne sont généralement pas possibles chez Euskotren.
 
-{{% expander "Chemin de fer à voie métrique" traincategory "category" %}}
-**Description :** \
-Euskotren exploite des trains sur le chemin de fer électrifié à voie métrique dans les provinces de Bizkaia et Gipuzkoa. Les "Euskotren FIP Tickets" sont valables sur toutes les lignes, y compris la ligne jusqu’à la gare TGV d’Hendaye en France.
-{{% /expander %}}
+{{% train-category
+  id="meter-gauge"
+  title="Chemin de fer à voie métrique"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
 
-{{% expander "Tramways" traincategory "category" %}}
-**Description :** \
+Euskotren exploite des trains sur le chemin de fer électrifié à voie métrique dans les provinces de Bizkaia et Gipuzkoa. Les "Euskotren FIP Tickets" sont valables sur toutes les lignes, y compris la ligne jusqu’à la gare TGV d’Hendaye en France.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="tram"
+  title="Tramways"
+  type="tram"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 Les "Euskotren FIP Tickets" sont valables aussi bien sur le tramway de Bilbao que sur celui de Vitoria-Gasteiz.
 
 Selon le guide du Rail Delivery Group, le billet doit être validé lors de l’utilisation du tramway à Bilbao.[^1] Cependant, comment cela fonctionne en pratique n’est pas clair.
-{{% /expander %}}
 
-{{% expander "Ligne de métro L3 à Bilbao ℹ️" traincategory "category" %}}
-**Description :** \
+{{% /train-category %}}
+
+{{% train-category
+  id="subway"
+  title="Ligne de métro L3 à Bilbao"
+  type="subway"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 À Bilbao, il existe un réseau de métro avec trois lignes. Sur la ligne L3, Euskotren accepte les "Euskotren FIP Tickets".
 
-ℹ️ Sur toutes les autres lignes (L1 et L2) du réseau métro de Bilbao, Metro Bilbao ne reconnaît pas la FIP. Seule la ligne L3 est exploitée par Euskotren.[^3]
-{{% /expander %}}
+{{< highlight important >}}
+Sur toutes les autres lignes (L1 et L2) du réseau métro de Bilbao, Metro Bilbao ne reconnaît pas la FIP. Seule la ligne L3 est exploitée par Euskotren.[^3]
+{{< /highlight >}}
 
-{{% expander "Funiculaire \"Funicular de Larreineta\"" traincategory "category" %}}
-**Description :** \
+{{% /train-category %}}
+
+{{% train-category
+  id="funicular"
+  title="Funiculaire \"Funicular de Larreineta\""
+  type="funicular"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 Euskotren exploite le funiculaire historique entre Trapagaran et Larreineta, reliant ainsi les villages de montagne au-dessus de Trapagaran à la vallée.
 
 Les automates des stations acceptent l’"Euskotren FIP Ticket". S’il n’est pas accepté, veuillez vous adresser au personnel sur place.
 
 Si vous n’avez pas d’"Euskotren FIP Ticket", le personnel des stations délivre des billets individuels gratuits pour le funiculaire sur présentation de la Carte FIP.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ## Catégories de classes
 

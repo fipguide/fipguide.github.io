@@ -39,8 +39,8 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Belgien (SNCB) | Roosendaal (fr), Visé |
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
 {{% /expander %}}
 
 ### Deutschland

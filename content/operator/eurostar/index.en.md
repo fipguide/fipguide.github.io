@@ -32,38 +32,57 @@ The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. 
 All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" traincategory category %}}
-**Description:** \
-High-speed train between Great Britain and Europe \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
+{{% train-category
+    id="eurostar-blue"
+    title="Eurostar (Blue): London – Paris / Brussels / Amsterdam"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+High-speed train between Great Britain and Europe.
+
 **FIP Global Fare:**
 | Route | Standard | Plus |
 | ----------- | -------- | ---- |
-| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
-| London - Amsterdam / Rotterdam | 51 € / 44.50 £ | 71 € / 62 £ |
-{{% /expander %}}
+| London - Paris / Brussels | € 39 / £ 34.50 | € 60 / £ 52.50 |
+| London - Amsterdam / Rotterdam | € 51 / £ 44.50 | € 71 / £ 62 |
 
-{{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
-**Description:** \
-High-speed train between Belgium, Germany, France, and the Netherlands \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
+{{% /train-category %}}
+
+{{% train-category
+    id="eurostar-red"
+    title="Eurostar (Red): Paris – Amsterdam / Brussels / Cologne / Dortmund"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+High-speed train between Belgium, Germany, France, and the Netherlands.
+
 **FIP Global Fare:**
 | Route | Standard | Plus |
 | ----------- | -------- | ---- |
 | Travel within one country | No FIP | No FIP |
-| Travel between 2 countries | 18 € | 35 € |
-| Travel between 3 countries | 20 € | 40 € |
-{{% /expander %}}
+| Travel between 2 countries | € 18 | € 35 |
+| Travel between 3 countries | € 20 | € 40 |
 
-{{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" traincategory category %}}
-**Description:** \
-High-speed train from Amsterdam and Brussels to the French Alps. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP:** ⛔ FIP is not accepted
-{{% /expander %}}
+{{% /train-category %}}
+
+{{% train-category
+id="eurostar-snow"
+title="Eurostar Snow: Amsterdam / Brussels – French Alps"
+type="highspeed"
+fip_accepted=false
+reservation_required=true
+reservation_possible=true
+%}}
+
+High-speed train from Amsterdam and Brussels to the French Alps.
+
+{{% /train-category %}}
 
 {{% highlight tip %}}
 When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
