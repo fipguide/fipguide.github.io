@@ -98,6 +98,8 @@ There are over 80 different operators in Germany, but FIP is not valid with most
 
 Due to the large variety of operators, it is advisable to plan your trip in advance to make use of FIP. With the exception of Flixtrain, WESTbahn, and some night train connections, German long-distance trains can be used. In regional transport, DB operates many lines, making travel possible there as well.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Interesting
 
 The rail network in Germany covers around 39,200 km, making it one of the largest in Europe. In addition to heavily used main lines, there are many branch lines operated by associations and local actors.

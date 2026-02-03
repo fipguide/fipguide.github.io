@@ -15,6 +15,8 @@ Particular attention should be paid to reservation conditions on long-distance t
 
 Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP Tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://int.bahn.de/en).
 
+{{< identify-operator sources="zssk-website,db-website,vagonweb" />}}
+
 ## Interesting
 
 Slovakia has a dense rail network, which mainly consists of two main routes:

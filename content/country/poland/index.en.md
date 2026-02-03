@@ -21,6 +21,8 @@ Poland is the country with the most different railway companies that offer FIP. 
 
 The local rail system in Warsaw (Szybka Kolej Miejska w Warszawie) cannot be used with FIP Tickets. It is abbreviated as SKM, just like the one in Gdansk. Apart from this, FIP coverage in Poland is very high. In long-distance traffic, reservations are sometimes necessary at PKP InterCity and also generally recommended, as the trains are often very well utilized. In regional traffic, generally only 2nd class is offered.
 
+{{< identify-operator sources="plk-website,db-website,vagonweb" />}}
+
 ## Interesting
 
 The country has one of the larger rail networks in Europe with about 19,000 km. Especially the main routes between the most important cities have been expanded in recent years for more capacity and higher speeds. The top performer is the Gdansk - Warsaw - Katowice axis with up to 200 km/h. In contrast, there are some routes (especially in regional traffic) that can only be traveled at 60 km/h. In the future, however, high-speed lines with higher speeds across Poland are also planned.

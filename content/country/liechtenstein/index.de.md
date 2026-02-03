@@ -8,6 +8,8 @@ country: "liechtenstein"
 
 Die Eisenbahn in Liechtenstein wird von den [Österreichischen Bundesbahnen (ÖBB)](/operator/oebb "ÖBB") betrieben. Hier gelten alle ÖBB Fahrscheine, inklusive FIP 50 Tickets und FIP Freifahrten für die ÖBB. FIP Bedinungen der ÖBB gelten auch in Liechtenstein.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Wissenswertes
 
 Durch Liechtenstein führt ausschließlich die etwa 8 km lange Bahnstrecke Feldkirch (Österreich) – Buchs SG (Schweiz), die drei Stationen auf liechtensteinischem Staatsgebiet umfasst. Diese Strecke ist Teil der internationalen Fernverkehrsverbindung Wien – Salzburg – Innsbruck – Schweiz und wird von den Östereichischen Bundesbahnen betrieben.

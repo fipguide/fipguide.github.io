@@ -8,6 +8,8 @@ country: "monaco"
 
 Die Eisenbahn in Monaco wird von der französischen Staatsbahn [SNCF](/operator/sncf "SNCF") betrieben. Hier gelten alle SNCF Fahrscheine, inklusive FIP 50 Tickets und FIP Freifahrtscheine für die SNCF. FIP Bedinungen der SNCF gelten auch in Monaco.
 
+{{< identify-operator sources="sncf-connect,db-website" />}}
+
 ## Wissenswertes
 
 Die einzige Eisenbahnstrecke durch Monaco ist Teil der internationalen Verbindung Marseille – Nizza – Monaco – Ventimiglia (Italien) und wird von der französischen Staatsbahn SNCF betrieben. Der einzige Bahnhof des Landes Monaco-Monte-Carlo liegt zentral in der Stadt und wird von zahlreichen Regionalzügen bedient.

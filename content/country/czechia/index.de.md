@@ -18,6 +18,8 @@ Tschechien ist nicht das einfachste Land für die Nutzung von FIP, lässt sich j
 
 Jedoch ist zu beachten, dass nicht mehr auf allen Strecken, auf denen die ČD fährt, auch FIP gültig ist. Zudem gibt es einzelne _kommerzielle Verbindungen_, bei denen ein Aufschlag zu zahlen ist. Mit einem FIP-Freifahrtschein müssen diese Ausnahmen alle beachtet werden, bei durch die ČD verkauften FIP 50 Tickets sollte es einfacher erkenntlich sein, für welche Züge diese gelten. Bei den privaten Betreibern wie Arriva oder Die Länderbahn wird FIP in keinem Fall anerkannt, allerdings sind die Tickets in Tschechien vergleichsweise günstig.
 
+{{< identify-operator sources="db-website,cd-website,vagonweb" />}}
+
 ## Wissenswertes
 
 Tschechien besitzt eines der dichtesten Bahnnetze weltweit. Es ist somit möglich, in viele Orte des Landes per Bahn zu gelangen. Die Geschwindigkeiten sind meist nicht besonders hoch, auch gibt es bisher keine Hochgeschwindigkeitsstrecken im Land. Trotzdem ist der Reisekomfort meistens gut oder es herrscht zumindest eine gewisse Nostalgie in älteren Zügen mit.

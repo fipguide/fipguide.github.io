@@ -17,6 +17,8 @@ Bei der Nutzung von FIP Freifahrtscheinen muss jedoch für jede Fahrt ein kosten
 An Feiertagen und im Sommer (v. a. Mitte Juni bis Ende August) empfiehlt sich auf den internationalen Strecken sowie auf der Strecke Vilnius – Klaipeda eine rechtzeitige Reservierung! Sobald die Fahrkarten verkauft werden, sind in den Fahrplänen auch alle Baustellen berücksichtigt, insbesondere wegen der Elektrifizierung der Strecke Vilnius – Siauliai – Klaipeda.
 {{% /highlight %}}
 
+{{< identify-operator sources="ltg-website,db-website" />}}
+
 ## Wissenswertes
 
 Litauens Bahnnetz stammt im Wesentlichen noch aus der Zeit des russischen Zaren und weist damit auch die russische Breitspur auf. Die Geschwindigkeiten sind meist nicht besonders hoch, werden aber nun auf bis zu 120 bzw. 160 km/h erhöht. Trotzdem ist der Reisekomfort sehr gut, auf vielen Strecken verkehren inzwischen moderne Triebwagen polnischer oder schweizer Hersteller.

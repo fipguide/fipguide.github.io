@@ -18,6 +18,8 @@ In Frankreich kann fast das komplette Streckennetz mit FIP befahren werden, da d
 
 Auf internationalen Verbindungen können [Eurostar](/operator/eurostar "Eurostar") Züge Richtung Großbritannien, Belgien, Niederlande und Deutschland mit speziellen FIP Globalpreisen genutzt werden. Auch für internationale `TGV` Züge gibt es Globalpreise (außer nach Deutschland). Des Weiteren können mit FIP Globalpreistickets auch die AVE Züge der spanischen Renfe auf der Strecke nach Spanien genutzt werden. Frecciarossa Züge von [Trenitalia](/operator/fs "Trenitalia") Richtung Italien können hingegen in Frankreich nicht mit FIP genutzt werden.
 
+{{< identify-operator sources="sncf-connect,db-website" />}}
+
 ## Wissenswertes
 
 Frankreich hat ein gutes ausgebautes Bahnnetz, ist aber insbesondere für die schnellen und häufigen TGV Verbindungen zwischen Paris und den anderen großen Städten des Landes bekannt. Das Netz ist stark auf Paris als Zentrum ausgerichtet, sodass viele Verbindungen über die Hauptstadt führen. Beim Umstieg in Paris sollte eine ausreichende Umstiegszeit eingeplant werden, da oftmals der Bahnhof mit der Metro (keine Gültigkeit von FIP) gewechselt werden muss. Zusätzlich schließen im Fernverkehr die Türen für eine pünktliche Abfahrt meist schon zwei Minuten vorher.

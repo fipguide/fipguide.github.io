@@ -24,6 +24,8 @@ In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einige
 
 Lediglich einige sehr touristische Verkehre sind nicht in FIP enthalten. Zudem sind grenzüberschreitende Reisen in Fernzügen nach Frankreich und Italien mit etwas Aufwand verbunden, da hier spezielle Aufschläge dazu kommen.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Wissenswertes
 
 Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der topografisch nicht einfachen Umstände ist ein Großteil des Landes per Bahn erreichbar. Die Züge verkehren oft in einem dichten Takt, insbesondere auf den Hauptstrecken und sind in einem integralen Taktfahrplan miteinander gut vertaktet. Auch wenn die meisten Strecken im Land nicht für eine sehr hohe Geschwindigkeit ausgebaut sind, ergibt sich durch die kurzen Anschlüsse trotzdem oft eine überschaubare Reisezeit. Zudem ist das Bahnsystem in der Schweiz für seine Pünktlichkeit bekannt, Ausnahmen gibt es natürlich aber auch hier. Das Land ist auch gut mit seinen Nachbarländern per Bahn verbunden, auch hier gibt es regelmäßige Züge.
