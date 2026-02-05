@@ -456,18 +456,20 @@ Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Absc
     reservation_required=false
     reservation_possible=true
 %}}
-Die Schweizerische Südostbahn betreibt Linienverkehr sowohl auf eigenen als auch einigen Strecken der SBB. In Kooperation mit der SBB werden auch die überregional bekannten Züge Treno Gottardo, Alpenrhein-Express und der Aare Linth durch die SOB betrieben.
+Die Schweizerische Südostbahn betreibt Linienverkehr sowohl auf eigenen als auch einigen Strecken der SBB. In Kooperation mit der SBB werden auch die überregional bekannten Züge Voralpen-Express/Treno Gottardo, Alpenrhein-Express und der Aare Linth durch die SOB betrieben.
 
-Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nicht auf Strecken gelten, auf denen die SOB nur über eine Lizenz der SBB verkehrt, so zum Beispiel zwischen Basel SBB und Arth-Goldau. Auf diesen Routen müssen stattdessen FIP Freifahrtscheine der SBB genutzt werden. Durchgehende FIP 50 Tickets sind dagegen möglich. Im Folgenden aufgelistet sind daher nur die Strecken, auf denen Freifahrtscheine der SP gelten.
+{{% highlight important %}}
+Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nicht auf Strecken gelten, auf denen die SOB in Kooperation mit der SBB verkehrt, so zum Beispiel zwischen Basel SBB und Arth-Goldau. Auf diesen Routen gelten stattdessen nur FIP Freifahrtscheine der SBB. Durchgehende FIP 50 Tickets sind dagegen möglich.
+{{% /highlight %}}
 
-#### Strecken im Linienverkehr
-
-##### Strecken mit FIP-Gültigkeit
+#### Strecken ohne SBB Kooperation (Freifahrtschein SP erforderlich)
 
 - Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
 - Arth-Goldau – Bellinzona (egal ob über Göschenen – Airolo oder durch den Gotthard-Basistunnel)
+
+Auf allen anderen Routen gilt nur der SBB Freifahrtschein.
 
 {{% /train-category %}}
 

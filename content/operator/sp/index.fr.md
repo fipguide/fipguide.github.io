@@ -454,21 +454,22 @@ Pour le Glacier Express, des réservations payantes doivent être achetées à l
     type="regional"
     fip_accepted=partially
     reservation_required=false
-    reservation_possible=partially
+    reservation_possible=true
 %}}
-La Schweizerische Südostbahn exploite des liaisons à la fois sur ses propres lignes et sur certaines lignes des CFF. En coopération avec les CFF, les trains Intervilles connus Treno Gottardo, Alpenrhein-Express et Aare Linth sont exploités par la SOB.
+La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l'Alpenrhein-Express et l'Aare Linth sont également exploités par la SOB.
 
-Pour les réductions FIP, il convient de noter que les Coupons SP ne sont pas valables sur les lignes où la SOB ne circule qu’avec une licence des CFF, par exemple entre Basel SBB et Arth-Goldau. Sur ces lignes, des Coupons FIP des CFF doivent être utilisés. Les Billets FIP 50 continus sont toutefois possibles. La liste ci-dessous ne comprend donc que les lignes sur lesquelles les Coupons SP sont valables.
+{{% highlight important %}}
+Il est à noter que les Coupons FIP ne sont pas valables sur les lignes où la SOB opère en coopération avec la CFF, par exemple entre Bâle CFF et Arth-Goldau. Sur ces itinéraires, seuls les Coupons FIP de la CFF sont valables. En revanche, les billets FIP 50 sont possibles.
+{{% /highlight %}}
 
-#### Lignes régulières
+#### Lignes sans coopération CFF (Coupon FIP SP requis)
 
-##### Lignes avec validité FIP
-
-- Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
+- Romanshorn – Saint-Gall – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
-- Arth-Goldau – Bellinzona (via Göschenen – Airolo ou par le tunnel de base du Gothard)
+- Arth-Goldau – Bellinzona (que ce soit par Göschenen – Airolo ou par le tunnel de base du Gothard)
 
+Sur tous les autres itinéraires, seul le Coupon FIP de la CFF est valable.
 {{% /train-category %}}
 
 {{% train-category
