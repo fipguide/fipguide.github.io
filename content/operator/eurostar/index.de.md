@@ -121,6 +121,12 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
 
 {{% booking id="trainseurope-phone" /%}}
 
+{{% booking id="ns-phone"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 ### Vor Ort
 
 {{% booking id="eurostar-ticket-office" /%}}

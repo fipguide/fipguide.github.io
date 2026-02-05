@@ -202,11 +202,21 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncf-phone" /%}}
 
+{{% booking id="ns-phone"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 ### On Site
 
 {{% booking id="sncf-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office" subtitle="For tram lines and trains in Greater Paris" /%}}
+
+{{% booking id="ns-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
 
 {{% booking id="db-ticket-office" subtitle="For cross-border TGV/ICE trains between Germany and France"
     reservations="nil"

@@ -202,11 +202,21 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncf-phone" /%}}
 
+{{% booking id="ns-phone"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 ### En gare
 
 {{% booking id="sncf-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office" subtitle="Pour tramways et trains en Île-de-France" /%}}
+
+{{% booking id="ns-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
 
 {{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France"
     reservations="nil"
