@@ -235,6 +235,7 @@ Eine Fahrtunterbrechung ist erlaubt, unterliegt jedoch den Beförderungsbedingun
 ### Nutzung von PKP Freifahrtscheinen auf KŚ Routen
 
 Auf folgenden Routen der [KŚ](/operator/ks) sind sowohl FIP-Tickets der KŚ als auch der PKP gültig:
+
 - Gliwice – Katowice – Częstochowa
 - Częstochowa – Lubliniec
 - Katowice – Tychy – Pszczyna – Czechowice Dziedzice – Bielsko Biała – Zwardoń

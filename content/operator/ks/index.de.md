@@ -82,6 +82,7 @@ In von der KŚ betriebenen Sonderzügen sind FIP-Fahrkarten nicht gültig.
 ### Nutzung von PKP Freifahrtscheinen auf KŚ Routen
 
 Auf folgenden Routen der KŚ sind sowohl FIP-Tickets der KŚ als auch der PKP gültig:
+
 - Gliwice – Katowice – Częstochowa
 - Częstochowa – Lubliniec
 - Katowice – Tychy – Pszczyna – Czechowice Dziedzice – Bielsko Biała – Zwardoń
