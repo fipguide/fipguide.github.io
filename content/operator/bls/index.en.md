@@ -1,119 +1,102 @@
 ---
 draft: false
-title: "SBB CFF FFS"
+title: "BLS"
 country:
   - "switzerland"
 ---
 
-SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
+The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.
 
 ## Summary
 
-- SBB accepts FIP Coupons and FIP 50 Tickets.
-- Reservation requirement and surcharges for international Eurocity trains from the Italian border and `TGV` trains from the French border.
+- The BLS accepts FIP Coupon and FIP 50 Tickets.
+- The use of all trains, buses, and ships with FIP is possible. (Except for car trains)
+- No reservation requirement.
 
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Ticket: ✅
+FIP Family Coupon: ✅ \
+FIP 50 Tickets: ✅
 
-FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
-
-[Overview SBB Network](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
+[Overview BLS Network](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
 
 ## Train Categories and Reservations
 
+There is no reservation requirement on any BLS train.
+
 {{% train-category
-    id="ice"
-    title="Intercity-Express (ICE)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+        id="ir"
+        title="InterRegio (IR) / RegionalExpress (RE)"
+        type="regional"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=true
 %}}
-High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland.
+National trains with stops in larger cities.
 {{% /train-category %}}
 
 {{% train-category
-    id="tgv"
-    title="Train à Grande Vitesse (TGV)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+        id="r"
+        title="Regio (R) / S-Bahn (S)"
+        type="regional"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=false
 %}}
-High-speed trains from France to Zurich via Basel.
-
-#### Reservation
-
-Reservations are mandatory outside Switzerland and for cross-border journeys.
+Trains that stop at all stations. In urban areas also referred to as S-Bahn.
 {{% /train-category %}}
 
 {{% train-category
-    id="ec"
-    title="Eurocity (EC) / Eurocity-Express (ECE)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+        id="r"
+        title="PanoramaExpress (PE) GoldenPassExpress"
+        type="regional"
+        fip_accepted=true
+        reservation_required=partially
+        reservation_possible=true
 %}}
-International trains to Germany and Italy.
+The GoldenPassExpress is a continuous train connection from Montreux to Interlaken Ost operated by the BLS in cooperation with the [MOB](/operator/sp#mob). The MOB operates the train on the narrow-gauge section between Montreux and Zweisimmen, and the BLS on the standard-gauge section between Zweisimmen and Interlaken Ost. In the connection information, these trains are marked as `PE`.
 
-#### Reservation
+This means that both the SP and BLS Coupons must be present to travel the entire route. FIP 50 Tickets can be booked continuously.
 
-1st class: €13 \
-2nd class: €11
+#### Reservations
 
-A reservation and surcharge are required for the Italian section. It is cheaper to travel to Italy by changing trains in Chiasso ([See Travel to Italy](/country/switzerland#italy "Travel to Italy")). The surcharge can be purchased at the SBB ticket counter or on the train.
-
+Traveling without a seat reservation is only possible if there are free seats available. Otherwise, a paid reservation can be purchased through the MOB website.
 {{% /train-category %}}
 
 {{% train-category
-    id="ic"
-    title="Intercity (IC)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+        id="at"
+        title="Car Transport (AT)"
+        fip_accepted=false
+        type="regional"
 %}}
-Fast national trains stopping only in major cities and transfer stations.
+Car trains on the routes Kandersteg - Göppenstein, Brig - Iselle, and Kandersteg - Iselle.
+
+FIP is not valid on these trains, but the parallel running trains of the `RE 1` can be used.
+{{% /train-category %}}
+
+### Other Transport Means
+
+{{% train-category
+        id="bus"
+        title="Bus"
+        type="bus"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=false
+%}}
+FIP is valid on all BLS buses, including those of _Busland AG_.
 {{% /train-category %}}
 
 {{% train-category
-    id="nj"
-    title="Nightjet (NJ) / EuroNight (EN)"
-    type="sleeper"
-    fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+        id="ship"
+        title="Ship"
+        type="ship"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=false
 %}}
-Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
-
-#### Reservation
-
-A reservation is required except in seat cars when operating as Intercity, Eurocity, or regional trains.
-{{% /train-category %}}
-
-{{% train-category
-    id="ir"
-    title="InterRegio (IR) / RegionalExpress (RE)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-National trains stopping in larger cities.
-{{% /train-category %}}
-
-{{% train-category
-    id="r"
-    title="Regio (R) / S-Bahn (S)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-Trains stopping at all stations. In metropolitan areas also called S-Bahn.
+FIP is valid on BLS ships on Lake Thun and Lake Brienz.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -124,61 +107,39 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn.
 
 {{% booking id="db-website"/%}}
 
-{{% booking id="db-website-fip-db"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
-%}}
-Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
-{{% /booking %}}
+### On-Site
 
-{{% booking id="db-website-fip-international"
-    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the issuing country of the FIP Card)"
-%}}
-Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
-{{% /booking %}}
-
-### By Phone
-
-{{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
-
-### On Site
+{{% booking id="bls-ticket-office"/%}}
 
 {{% booking id="sbb-ticket-office"/%}}
 
-{{% booking id="sbb-ticket-machine"/%}}
-
-{{% booking id="db-ticket-office"/%}}
-
 ### On the Train
 
-FIP Tickets cannot be purchased on the train. A penalty fee is charged for passengers without tickets. The only exception is the surcharge for cross-border long-distance trains to Italy.
+Purchasing FIP tickets on the train is not possible. A penalty fee is charged for passengers without tickets.
 
 ## Discounts
 
-Children travel free on regular journeys (not special trips) up to and including 5 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
+For regular journeys, children up to and including 5 years travel for free. Children up to and including 15 years receive a 50% discount on the adult fare. Persons aged 16 and older pay the regular adult fare.
 
 ## Special Tariff Conditions
 
-### Buses and Rail Replacement Services
+### Cable Cars
 
-FIP Tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
+FIP is not valid on cable cars and funiculars operated by the BLS. [^1]
 
-### Mutual Recognition of SBB and BLS Coupons
+### Mutual Recognition of Coupons between SBB and BLS
 
-The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: [^2]
+The Swiss railway companies SBB and BLS partially accept each other's FIP Coupons: [^2]
 
-- SBB FIP Coupons are accepted on all BLS trains.
-- BLS FIP Coupons are accepted on SBB trains on routes where BLS trains also operate, i.e. between two stations served by both SBB and BLS. The BLS network map is available online: https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf
+- The FIP Coupons of the SBB are accepted on all BLS trains.
+- The FIP Coupons of the BLS are accepted on SBB trains on routes where BLS trains also run, i.e., between two stations where both SBB and BLS trains operate. The BLS network is [available online](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
-- SBB FIP Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses, which mainly operate in the Emmental.
-
-### Cross-border Trains (Italy, France)
-
-For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
+However, the SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses that primarily operate in the Emmental.
 
 ## Recommendations
 
 {{% highlight tip %}}
-The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a dense rail network with few special conditions. Since reservations are uncommon on national connections in Switzerland, traveling is very relaxed. 1st class is also highly recommended, as the comfort is noticeably higher, especially in Giruno trains.
+With the BLS, large parts of Switzerland can be explored with family members who cannot obtain a Coupon for the SBB.
 {{% /highlight %}}
 
 ## Sources

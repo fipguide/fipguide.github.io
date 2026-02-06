@@ -1,0 +1,149 @@
+---
+draft: false
+title: "BLS"
+country:
+  - "switzerland"
+---
+
+La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviaire publique de la [Suisse](/country/switzerland "Suisse"). Elle exploite de nombreuses liaisons de trains, de bus et de bateaux et circule principalement dans le canton de Berne.
+
+## Résumé
+
+- La BLS accepte les Coupons FIP et les Billets FIP 50.
+- L'utilisation de tous les trains, bus et bateaux avec FIP est possible. (Sauf les trains motorail)
+- Pas d'obligation de réservation
+
+## Validité des billets FIP
+
+Coupon FIP: ✅ \
+Coupon FIP pour les proches: ✅ \
+Billets FIP 50: ✅
+
+[Vue d'ensemble du réseau BLS](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
+
+## Catégories de trains et réservations
+
+Il n'y a pas d'obligation de réservation dans aucun train de la BLS.
+
+{{% train-category
+        id="ir"
+        title="InterRegio (IR) / RegionalExpress (RE)"
+        type="regional"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=true
+%}}
+Trains nationaux avec arrêts dans les grandes villes.
+{{% /train-category %}}
+
+{{% train-category
+        id="r"
+        title="Regio (R) / S-Bahn (S)"
+        type="regional"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=false
+%}}
+Trains s'arrêtant à toutes les stations. Dans les zones urbaines, également appelés S-Bahn.
+{{% /train-category %}}
+
+{{% train-category
+        id="r"
+        title="PanormaExpress (PE) GoldenPassExpress"
+        type="regional"
+        fip_accepted=true
+        reservation_required=partially
+        reservation_possible=true
+%}}
+Le GoldenPassExpress est une liaison ferroviaire continue de Montreux à Interlaken Ost, exploitée par la BLS en coopération avec la [MOB](/operator/sp#mob). La MOB exploite le train sur le tronçon à voie métrique entre Montreux et Zweisimmen, et la BLS sur le tronçon à voie normale entre Zweisimmen et Interlaken Ost. Dans les informations de connexion, ces trains sont marqués comme `PE`.
+
+Cela signifie que des Coupons FIP des deux, SP et BLS, doivent être présents pour parcourir l'ensemble du trajet. Les Billets FIP 50 peuvent être réservés en continu.
+
+#### Réservations
+
+Un voyage sans réservation de siège n'est possible que s'il reste des places disponibles. Sinon, une réservation payante peut être effectuée via le site Web de la MOB.
+{{% /train-category %}}
+
+{{% train-category
+        id="at"
+        title="Autoverlad (AT)"
+        fip_accepted=false
+        type="regional"
+%}}
+Trains motorail sur les lignes Kandersteg - Göppenstein, Brig - Iselle et Kandersteg - Iselle.
+
+Le FIP n'est pas valable dans ces trains, mais les trains circulant parallèlement du `RE 1` peuvent être utilisés.
+{{% /train-category %}}
+
+### Autres moyens de transport
+
+{{% train-category
+        id="bus"
+        title="Bus"
+        type="bus"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=false
+%}}
+Le FIP est valable dans tous les bus de la BLS, y compris les bus de _Busland AG_
+{{% /train-category %}}
+
+{{% train-category
+        id="ship"
+        title="Bateau"
+        type="ship"
+        fip_accepted=true
+        reservation_required=false
+        reservation_possible=false
+%}}
+Le FIP est valable sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz.
+{{% /train-category %}}
+
+## Achat de billets et réservations
+
+### En ligne
+
+{{% booking id="sbb-website"/%}}
+
+{{% booking id="db-website"/%}}
+
+### Sur place
+
+{{% booking id="bls-ticket-office"/%}}
+
+{{% booking id="sbb-ticket-office"/%}}
+
+### Dans le train
+
+L'achat de billets FIP dans le train n'est pas possible. Des frais de pénalité sont appliqués aux passagers sans billets.
+
+## Réductions
+
+Pour les trajets réguliers, les enfants jusqu'à 5 ans inclus voyagent gratuitement. Les enfants jusqu'à 15 ans inclus bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.
+
+## Conditions tarifaires particulières
+
+### Téléphériques
+
+Le FIP n'est pas valable dans les téléphériques et funiculaires exploités par la BLS. [^1]
+
+### Reconnaissance mutuelle des Coupons FIP de la SBB et de la BLS
+
+Les entreprises ferroviaires suisses SBB et BLS acceptent partiellement les Coupons FIP: [^2]
+
+- Les Coupons FIP de la SBB sont acceptés dans tous les trains de la BLS.
+- Les Coupons FIP de la BLS sont acceptés dans les trains de la SBB sur les lignes où circulent également des trains de la BLS, c'est-à-dire entre deux gares où circulent à la fois des trains de la SBB et de la BLS. Le réseau de la BLS est [consultable en ligne](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
+
+Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l'Emmental.
+
+## Recommandations
+
+{{% highlight tip %}}
+Avec la BLS, il est possible d'explorer une grande partie de la Suisse avec des proches qui ne peuvent pas obtenir de Coupon FIP pour la SBB.
+{{% /highlight %}}
+
+## Sources
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
