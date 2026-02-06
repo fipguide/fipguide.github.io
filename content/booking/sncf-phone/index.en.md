@@ -5,8 +5,8 @@ description: "Booking information for the SNCF hotline."
 
 params:
   classes:
-    first: "2 € / 16 €"
-    second: "2 € / 11 €"
+    first: "€ 2 / € 16"
+    second: "€ 2 / € 11"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"

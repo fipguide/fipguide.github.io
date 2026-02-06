@@ -14,7 +14,7 @@ aliases:
   - ns_ticket_office
 ---
 
-Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeiter:innen der NS entfällt diese Gebühr. Ob Mitarbeiter:innen anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
+Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
 
 FIP Tickets und internationale Reservierungen können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies:
 

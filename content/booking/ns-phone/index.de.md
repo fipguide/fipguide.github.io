@@ -15,11 +15,11 @@ Die NS bietet eine Buchungshotline für Tickets und Reservierungen an:
 
 [+31 30 23 000 23](tel:+31302300023)
 
-Für die Buchung ist eine Kreditkarte erforderlich, die Bezahlung erfolgt per Link der per Mail zugesandt wird.
+Für die Buchung ist eine Kreditkarte erforderlich, die Bezahlung erfolgt per Link, welcher per E-Mail zugesandt wird.
 
 Die Hotline ist täglich von 7 Uhr bis 23 Uhr erreichbar.
 
-Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeiter:innen der NS entfällt diese Gebühr. Ob Mitarbeiter:innen anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
+Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr befreit sind, ist nicht bekannt.
 
 {{% satellite %}}
 
