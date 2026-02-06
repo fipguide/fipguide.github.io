@@ -18,6 +18,8 @@ Tschechien ist nicht das einfachste Land für die Nutzung von FIP, lässt sich j
 
 Jedoch ist zu beachten, dass nicht mehr auf allen Strecken, auf denen die ČD fährt, auch FIP gültig ist. Zudem gibt es einzelne _kommerzielle Verbindungen_, bei denen ein Aufschlag zu zahlen ist. Mit einem FIP-Freifahrtschein müssen diese Ausnahmen alle beachtet werden, bei durch die ČD verkauften FIP 50 Tickets sollte es einfacher erkenntlich sein, für welche Züge diese gelten. Bei den privaten Betreibern wie Arriva oder Die Länderbahn wird FIP in keinem Fall anerkannt, allerdings sind die Tickets in Tschechien vergleichsweise günstig.
 
+{{< identify-operator sources="db-website,cd-website,vagonweb" />}}
+
 ## Wissenswertes
 
 Tschechien besitzt eines der dichtesten Bahnnetze weltweit. Es ist somit möglich, in viele Orte des Landes per Bahn zu gelangen. Die Geschwindigkeiten sind meist nicht besonders hoch, auch gibt es bisher keine Hochgeschwindigkeitsstrecken im Land. Trotzdem ist der Reisekomfort meistens gut oder es herrscht zumindest eine gewisse Nostalgie in älteren Zügen mit.
@@ -33,10 +35,10 @@ Die Pünktlichkeit ist solide, oft warten Anschlusszüge auch, jedoch nicht in g
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB AG) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| Österreich (ÖBB) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
-| Polen (PKP, KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
-| Slowakei (ŽSR) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| [Deutschland](/country/germany) ([DB AG](/operator/db)) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
+| [Polen](/country/poland) ([PKP](/operator/pkp), KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 
 {{% /expander %}}
 
@@ -70,4 +72,4 @@ Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kur
 
 ### Slowakei
 
-Von der Slowakei aus können grenzüberschreitende Züge der ČD bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ZSR benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
+Von der Slowakei aus können grenzüberschreitende Züge der ČD bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ŽSR benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.

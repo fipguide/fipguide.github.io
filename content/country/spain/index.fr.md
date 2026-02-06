@@ -15,6 +15,8 @@ En Espagne, l’utilisation du FIP n’est pas toujours simple, car monter à bo
 
 La [Renfe](/operator/renfe "Renfe") est le principal opérateur ferroviaire espagnol et accepte les titres FIP. Cependant, sur les axes rentables, Renfe est en concurrence avec des opérateurs privés comme [OUIGO](/operator/sncf#grandes-lignes "OUIGO") ou Iryo, qui n’acceptent pas le FIP. Un autre opérateur régional, [Euskotren](/operator/euskotren) (Pays basque), accepte également le FIP.
 
+{{< identify-operator sources="renfe-website,renfe-commuter-website,euskotren-website,db-website" />}}
+
 ## Informations générales
 
 L’Espagne ne dispose pas d’un réseau ferroviaire particulièrement dense. Il se compose surtout de lignes à grande vitesse à écartement standard, récentes, et de lignes régionales plus anciennes à écartement ibérique.
@@ -30,8 +32,8 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Portugal (CP) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| France (SNCF) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
+| [Portugal](/country/portugal) ([CP](/operator/cp)) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
 {{% /expander %}}
 
 ### France

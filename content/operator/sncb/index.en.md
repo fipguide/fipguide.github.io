@@ -26,75 +26,132 @@ FIP Coupons and FIP 50 Tickets are valid on SNCB connections. For cross-border t
 
 Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border journeys).
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Description:** \
-High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP Tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins. \
-**Reservation possible:** yes \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Description:** \
-Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP Tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins.
 
-{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
-**Description:** \
-International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp. \
-[More information](https://www.nsinternational.com/en/trains/eurocity) \
-**Reservation possible:** no \
-**Reservation required:** no \
-**Supplement:** ⚠️ \
-Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of 3 € must be paid for both FIP 50 Tickets and FIP Coupons.
-This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50€ is charged for a single-use ticket. \
-Holders of an OV-chipkaart can buy a discounted supplement for 1.80 € at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ecd"
+    title="Eurocity Direct (ECD)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
+
+International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp.
+
+{{% highlight important %}}
+**Supplement:**
+Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of € 3 must be paid for both FIP 50 Tickets and FIP Coupons.
+This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
+Holders of an OV-chipkaart can buy a discounted supplement for € 1.80 at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html).
 With FIP 50 Tickets, prices may vary by train category.
-{{% /expander %}}
+{{% /highlight %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
-**Description:** \
-International train between Rotterdam and Brussels with several intermediate stops. \
-[More information](https://www.nsinternational.com/en/trains/eurocity) \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Train local or Lokale trein (L)" traincategory category %}}
-**Description:** \
-Regional trains stopping at most stations, often simply referred to as `R` for regional train in connection information. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
 
-{{% expander "Train S or S-Trein (S)" traincategory category %}}
-**Description:** \
-A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as `R` for regional train. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+International train between Rotterdam and Brussels with several intermediate stops.
 
-{{% expander "Train d’heure de pointe or Piekuurtrein (P)" traincategory category %}}
-**Description:** \
-Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as `R` for regional train in connection information. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Express (E/EXP/EXTRA)" traincategory category %}}
-**Description:** \
-Additional trains during high traffic periods, especially in the summer months to the Belgian coast. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% train-category
+    id="l"
+    title="Train local oder Lokale trein (L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
 
-{{% expander "Tourist (T)" traincategory category %}}
-**Description:** \
-Additional trains to certain tourist destinations, often simply referred to as `R` for regional train. \
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+Regional trains stopping at most stations, often simply referred to as `R` for regional train in connection information.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="s"
+    title="Train S oder S-Trein (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as `R` for regional train.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="p"
+    title="Train d’heure de pointe oder Piekuurtrein (P)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as `R` for regional train in connection information.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="e"
+    title="Express (E/EXP/EXTRA)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Additional trains during high traffic periods, especially in the summer months to the Belgian coast.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="t"
+    title="Tourist (T)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Additional trains to certain tourist destinations, often simply referred to as `R` for regional train.
+
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
@@ -136,7 +193,7 @@ Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to 6.70€ (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. For FIP 50 Tickets, this is already included in the price. [^1]
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 6.70 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. For FIP 50 Tickets, this is already included in the price. [^1]
 
 ## Recommendations
 

@@ -18,6 +18,8 @@ La Tchéquie n’est pas le pays le plus simple pour utiliser la FIP, mais il re
 
 Attention, la FIP n’est plus valable sur toutes les lignes exploitées par la ČD. Il existe aussi certains _services commerciaux_ nécessitant un supplément. Avec un Coupon FIP, il faut tenir compte de toutes ces exceptions, tandis que les Billets FIP 50 vendus par la ČD devraient permettre d’identifier plus facilement les trains valables. Les opérateurs privés comme Arriva ou Die Länderbahn n’acceptent pas du tout la FIP, mais les billets en Tchéquie restent généralement très abordables.
 
+{{< identify-operator sources="db-website,cd-website,vagonweb" />}}
+
 ## Informations générales
 
 La Tchéquie possède l’un des réseaux ferroviaires les plus denses au monde. Il est possible de rejoindre de nombreux endroits du pays en train. Les vitesses ne sont généralement pas très élevées et il n’existe actuellement pas de lignes à grande vitesse. Le confort de voyage est cependant bon, ou il règne au moins une certaine nostalgie dans les trains plus anciens.
@@ -33,10 +35,10 @@ La ponctualité est correcte, les trains en correspondance attendent souvent, ma
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Allemagne (DB AG) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| Autriche (ÖBB) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
-| Pologne (PKP, KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Voïvodie de Silésie |
-| Slovaquie (ŽSR) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| [Allemagne](/country/germany) ([DB AG](/operator/db)) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb)) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
+| [Pologne](/country/poland) ([PKP](/operator/pkp), KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Voïvodie de Silésie |
+| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 {{% /expander %}}
 
 ### Allemagne
@@ -69,4 +71,4 @@ Des trains `EC` circulent via Lichkov entre Wrocław (parfois en provenance de G
 
 ### Slovaquie
 
-Depuis la Slovaquie, des trains transfrontaliers de la ČD ou de la ZSSK peuvent être utilisés sur différentes lignes. Un Billet FIP 50 ou un Coupon FIP de la ZSR est nécessaire en plus. Les trains transfrontaliers de RegioJet ne sont pas utilisables avec la FIP.
+Depuis la Slovaquie, des trains transfrontaliers de la ČD ou de la ZSSK peuvent être utilisés sur différentes lignes. Un Billet FIP 50 ou un Coupon FIP de la ŽSR est nécessaire en plus. Les trains transfrontaliers de RegioJet ne sont pas utilisables avec la FIP.

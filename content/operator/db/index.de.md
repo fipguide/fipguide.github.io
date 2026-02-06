@@ -32,23 +32,50 @@ Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreit
 
 ### Fernverkehr
 
-{{% expander "Intercity-Express (ICE) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
-Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Frankreich ⚠️ \
+{{% train-category
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
+
+#### Reservierung
+
+Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
-{{% /expander %}}
 
-{{% expander "Train à grande vitesse (TGV) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
-Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Frankreich ⚠️
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Railjet (RJ) / Railjet Xpress (RJX)" traincategory "long-distance" %}}
-**Beschreibung:** \
+{{% train-category
+    id="tgv"
+    title="Train à grande vitesse (TGV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris.
+
+#### Reservierung
+
+Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rj"
+    title="Railjet (RJ) / Railjet Xpress (RJX)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
 Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden und Prag sowie München, Österreich und Italien oder Ungarn. Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
 
 Es gibt drei Wagenklassen:
@@ -59,53 +86,92 @@ Es gibt drei Wagenklassen:
 
 [Detaillierter Überblick über die Klassen bei der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/abteile-komfortklassen)
 
-Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Züge nach Italien bei der ÖBB](/operator/oebb#züge-nach-italien "Züge nach Italien bei der ÖBB")). \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen (siehe [Züge nach Italien bei der ÖBB](/operator/oebb#züge-nach-italien "Züge nach Italien bei der ÖBB")).
 
-{{% expander "Intercity (IC)" traincategory "long-distance" %}}
-**Beschreibung:**
-Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit geringerer Geschwindigkeit als ICE-Züge, verbinden zahlreiche Städte und bedienen auch viele Urlaubs- und Ferienregionen. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Eurocity-Express (ECE) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
-Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg - Kopenhagen genutzt.
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
 
-⚠️ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit geringerer Geschwindigkeit als ICE-Züge, verbinden zahlreiche Städte und bedienen auch viele Urlaubs- und Ferienregionen.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg – Kopenhagen genutzt.
+
+{{% highlight important %}}
+Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung Italien:**
 
-- 1\. Klasse: 13€
-- 2\. Klasse: 11€
+- 1\. Klasse: 13 €
+- 2\. Klasse: 11 €
+  {{% /highlight %}}
 
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark ⚠️
-{{% /expander %}}
+#### Reservierung
 
-{{% expander "Eurocity (EC) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:**
-Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** Bei grenzüberschreitenden Fahrten nach Polen ⚠️ \
+Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen.
+
+#### Reservierung
+
+Reservierungspflicht bei grenzüberschreitenden Fahrten nach Polen.
 Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
-{{% /expander %}}
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Nachtzüge der ÖBB in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben. \
-Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden. \
-⚠️ Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich. \
-_Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
+{{% /train-category %}}
+
+{{% train-category
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Nachtzüge der ÖBB in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
+
+{{% highlight important %}}
+Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
+{{% /highlight %}}
+
 **FIP Globalpreis:** ja \
-**Kosten für Reservierung:** \
-Abhängig von Strecke und Auslastung sowie Wagenkategorie.
-{{% /expander %}}
+_Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
+
+#### Reservierung
+
+Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
+
+**Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
+
+{{% /train-category %}}
 
 ### Nahverkehr
 
@@ -115,42 +181,69 @@ Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, di
 Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/veroeffentlichungen/spnv-karten/), welche Betreiber auf welchen Linien verkehren. Verbindungen der Deutschen Bahn sind auf dieser Karte rot und mit _DB - DB Regio AG_ gekennzeichnet.
 {{% /highlight %}}
 
-{{% expander "Regionalexpress (RE) ℹ️" traincategory "local" %}}
-**Beschreibung:**
+{{% train-category
+    id="re"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=partially
+%}}
+
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
 
-ℹ️ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
+{{% highlight confusion %}}
+Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
+{{% /highlight %}}
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regionalbahn (RB) ℹ️" traincategory "local" %}}
-**Beschreibung:**
+{{% train-category
+    id="rb"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=partially
+%}}
+
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
 
-ℹ️ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
+{{% highlight confusion %}}
+Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
+{{% /highlight %}}
 
-**Reservierung möglich:** Teilweise \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "S-Bahn (S) ℹ️" traincategory "local" %}}
-**Beschreibung:**
+{{% train-category
+    id="s"
+    title="S-Bahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
 
-ℹ️ Die Züge der Kategorie `S` werden teilweise auch von anderen Betreibern betrieben.
+{{% highlight confusion %}}
+Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben.
+{{% /highlight %}}
 
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Flughafenexpress (FEX)" traincategory "local" %}}
-**Beschreibung:**
-Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Willy Brandt (BER). \
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% train-category
+    id="fex"
+    title="Flughafenexpress (FEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Willy Brandt (BER).
+
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 

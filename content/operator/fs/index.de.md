@@ -30,74 +30,137 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 
 ### Le Frecce
 
-{{% expander "Frecciarossa (FR AV) ⚠️ℹ️" traincategory "le frecce" %}}
-**Beschreibung:** \
+{{% train-category
+  id="fr-av"
+  title="Frecciarossa (FR AV)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
 
-ℹ️ Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+{{% highlight confusion %}}
+Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
+{{% /highlight %}}
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
-{{% /expander %}}
 
-{{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
-**Beschreibung:** \
+#### Reservierung
+
+Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="fa-av"
+  title="Frecciargento (FA AV)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
 Hochgeschwindigkeitszüge mit Neigetechnik.
 
-ℹ️ Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+{{% highlight confusion %}}
+Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
+{{% /highlight %}}
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
-{{% /expander %}}
 
-{{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
-**Beschreibung:** \
-Schnellzug abseits von Hochgeschwindigkeitsstrecken. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
+#### Reservierung
+
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 
-Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
-**Beschreibung:** \
+{{% train-category
+  id="fb"
+  title="Frecciabianca (FB)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
+Schnellzug abseits von Hochgeschwindigkeitsstrecken.
+
+Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
+
+#### Reservierung
+
+Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="fl"
+  title="FrecciaLink (FL)"
+  type="bus"
+  fip_accepted=false
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Anschlussbusse für Hochgeschwindigkeitszüge.
 
-⛔ In diesen Bussen gelten keine FIP Vergünstigungen.
-{{% /expander %}}
+{{% /train-category %}}
 
 ### Sonstiger Fernverkehr
 
-{{% expander "InterCity (IC) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Schnellzug meist abseits von Hochgeschwindigkeitsstrecken. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 3 € (1./2. Klasse) \
-Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
-{{% /expander %}}
+{{% train-category
+  id="ic"
+  title="InterCity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
 
-{{% expander "InterCity Notte (ICN) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
-**Kosten für Reservierung**: 25 € (1./2. Klasse) im Sitzwagen \
+Schnellzug meist abseits von Hochgeschwindigkeitsstrecken.
+
+#### Reservierung
+
+**Kosten**: 3 € (1./2. Klasse)
+Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="icn"
+  title="InterCity Notte (ICN)"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
+Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen.
+
+#### Reservierung
+
+**Kosten**: 25 € (1./2. Klasse) im Sitzwagen
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ### Internationaler Fernverkehr
 
-{{% expander "Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX) ⚠️" traincategory "int-long-distance" %}}
-**Beschreibung:** \
-Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
+{{% train-category
+  id="ec"
+  title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
+Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz.
+
+#### Reservierung
+
 **Kosten für Reservierung**: Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 Abweichende Kosten im Brennerverkehr (Brennerzuschlag):
@@ -108,44 +171,84 @@ Abweichende Kosten im Brennerverkehr (Brennerzuschlag):
 Reservierungen für den Brennerverkehr können im Zug oder Ticketschalter der FS erworben werden.
 
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
-{{% /expander %}}
 
-{{% expander "Nightjet (NJ) / Euronight (EN) ⚠️" traincategory "int-long-distance" %}}
-**Beschreibung:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="nj"
+  title="Nightjet (NJ) / Euronight (EN)"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
 Internationale Nachtzüge nach Deutschland, Österreich und in die Schweiz.
 
-⚠️ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeitende der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich. \
-_Tipp:_ Für Fahrten von Deutschland nach Italien die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden. \
-**Reservierung möglich:** Ja \
-**Reservierungspflicht:** ⚠️ Ja \
+{{% highlight important %}}
+Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeitende der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
+{{% /highlight %}}
+
+_Tipp:_ Für Fahrten von Deutschland nach Italien die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
+
+#### Reservierung
+
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ### Nahverkehr
 
-{{% expander "Regionale Veloce (RV) ⚠️" traincategory "local" %}}
-**Beschreibung:** \
+{{% train-category
+  id="rv"
+  title="Regionale Veloce (RV)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Schnelle Regionalzüge mit Halt an den wichtigsten Stationen.
 
-⚠️ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr) \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight important %}}
+Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
+{{% /highlight %}}
 
-{{% expander "Regionale (R / REG) ️️⚠️" traincategory "local" %}}
-**Beschreibung:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="r"
+  title="Regionale (R / REG)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Regionalzüge mit Halt an den meisten Stationen.
 
-⚠️ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr) \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight important %}}
+Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
+{{% /highlight %}}
 
-{{% expander "Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm) ℹ️" traincategory "local" %}}
-**Beschreibung:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="m"
+  title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
 
-ℹ️ U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP genutzt werden. \
-**Reservierung möglich:** Nein
-{{% /expander %}}
+{{% highlight confusion %}}
+U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP genutzt werden.
+{{% /highlight %}}
+
+{{% /train-category %}}
 
 ## Klassenkategorien
 
@@ -202,13 +305,13 @@ Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahren kostenlos. 
 
 In internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag (wie im restlichen italienischen Fernverkehr) zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
-#### Brenner – Bozen – Verona
+#### Brenner – Bozen – Verona - Venedig/Ancona/Bologna
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` Zügen bis Verona. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` und `RJ` Zügen. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](/operator/oebb#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 #### Railjet Tarvisio Boscoverde – Venedig
 
-FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen bis Venedig. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen.
+FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](/operator/oebb#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
 
 ### Regionalzüge in Emilia-Romagna
 

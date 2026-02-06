@@ -17,7 +17,7 @@ The Raab-Oedenburg-Ebenfurter Eisenbahn AG (Hungarian: Győr-Sopron-Ebenfurti Va
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 {{% highlight important %}}
@@ -34,39 +34,74 @@ The following lines can be used with the GySEV FIP Coupon in Austria in the spec
 
 ## Train Categories and Reservations
 
-{{% expander "InterCity (IC) ⚠️ℹ️" traincategory "local" %}}
-**Description:** \
+{{% train-category
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
 GySEV operates Scarbantia IC trains between Sopron and Budapest.
 
-ℹ️ In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ partially \
-Reservations are only mandatory between Győr and Budapest. For journeys between Sopron and Győr, no reservation is required.
-{{% /expander %}}
+{{% highlight confusion %}}
+In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway.
+{{% /highlight %}}
 
-{{% expander "Regionalexpress (REX) ℹ️" traincategory "local" %}}
-**Description:** \
+#### Reservation
+
+Reservations are only mandatory between Győr and Budapest. For journeys between Sopron and Győr, no reservation is required.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rex"
+    title="Regionalexpress (REX)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Fast local train with fewer stops and modern rolling stock.
 
-ℹ️ Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [Bahn.de](https://int.bahn.de/en). \
-**Reservation possible:** No
-{{% /expander %}}
+{{% highlight confusion %}}
+Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
+{{% /highlight %}}
 
-{{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regionalzug (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Local train stopping at most stations.
 
-ℹ️ Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [Bahn.de](https://int.bahn.de/en). \
-**Reservation possible:** No
-{{% /expander %}}
+{{% highlight confusion %}}
+Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
+{{% /highlight %}}
 
-{{% expander "Személyvonat (Sz) ℹ️" traincategory "local" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="sz"
+    title="Személyvonat (Sz)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Local train stopping at most stations.
 
-ℹ️ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [Bahn.de](https://int.bahn.de/en). \
-**Reservation possible:** No
-{{% /expander %}}
+{{% highlight confusion %}}
+Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
+{{% /highlight %}}
+
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 

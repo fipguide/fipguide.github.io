@@ -27,6 +27,10 @@ There are also other regional operators of local trains that do not accept FIP T
 
 The [GySEV / Raaberbahn](/operator/gysev "GySEV") is a second railway company that accepts FIP Tickets within Austria and Hungary. GySEV FIP Coupons are mainly intended for Hungary and are only valid to a limited extent on GySEV routes in Austria.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+In the [ÖBB online timetable](https://fahrplan.oebb.at/) only train categories are shown, not operators.
+{{< /identify-operator >}}
+
 ## Interesting
 
 Austria has a dense rail network, mainly consisting of two main lines:
@@ -43,14 +47,14 @@ A special highlight is the ride on the Schneebergbahn in Lower Austria, which is
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Czech Republic (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
-| Hungary (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron |
+| [Czech Republic](/country/czechia) ([ČD](/operator/cd)) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
+| Hungary ([GySEV](/operator/gysev)) | Pamhagen (Gr), Szentgotthárd, Sopron |
 | Hungary (MÁV) | Hegyshalom (Gr), Sopron |
-| Germany (DB) | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slovenia (SZ) | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr) |
-| Slovakia (ZSR) | Marchegg(Gr), Kittsee(Gr) |
-| Switzerland (SBB) | Buchs SG, St. Margrethen |
-| Italy (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Germany](/country/germany) ([DB](/operator/db)) | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slovenia (SŽ) | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr) |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr) |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb)) | Buchs SG, St. Margrethen |
+| [Italy](/country/italy) ([FS](/operator/fs)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 
 {{% /expander %}}
 
@@ -66,6 +70,17 @@ Between Germany and Austria, there are several regional train connections and tw
 - `ICE`, `RJ`, and `IC` trains from Munich via Salzburg to various destinations in Austria.
 
 For the German section, a FIP Ticket from DB is required.
+
+#### Ausserfern Railway
+
+On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Pfronten-Steinach via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
+
+- Direct journeys from Germany via Austria back to Germany (transit travel)
+- Journeys that start or end in Germany (cross-border travel)
+
+Journeys that take place entirely within Austria (start and end in Austria) are excluded. ÖBB FIP Coupons are not valid for any journeys on this route.
+
+The rules are analogous to those for the Deutschlandticket or Bahncard 100. [^1] [^2]
 
 ### Hungary
 
@@ -102,7 +117,7 @@ Arrival from Slovakia is possible via two different regional train connections:
 - One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
 - Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
 
-For both routes, a FIP 50 Ticket from [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
+For both routes, a FIP 50 Ticket from [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
 
 Additionally, there are some `EC` connections.
 
@@ -113,3 +128,9 @@ From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-d
 ## FIP Rating
 
 Overall, Austria has an impeccable infrastructure and scenic routes, and most journeys are operated by ÖBB. This makes it possible to travel a large part of the country with FIP Tickets. However, the surcharge (without reservation) on long-distance trains, regardless of the route (in 1st class € 15, in 2nd class € 10), slightly dampens the FIP experience.
+
+## Sources
+
+[^1]: [DB Regio Terms of Carriage for Ausserfern Railway](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^2]: [Ausserfern Railway Feedback](https://github.com/fipguide/fipguide.github.io/issues/606)

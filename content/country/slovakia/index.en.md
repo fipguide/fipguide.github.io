@@ -9,11 +9,13 @@ params:
 
 ## FIP Information
 
-Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná spoločnosť Slovensko), for which the FIP Tickets of ŽSR are valid.
+Slovakia can be easily traveled by train with both FIP 50 and FIP Coupons. Included in FIP is the operator ŽSR (Železnice Slovenskej republiky, translated as Railways of the Slovak Republic). The trains themselves are operated by [ZSSK](/operator/zssk "ŽSR/ZSSK") (Železničná spoločnosť Slovensko), for which the FIP Tickets of ŽSR are valid.
 
 Particular attention should be paid to reservation conditions on long-distance trains as well as extended regulations for the free transport of children.
 
 Also operating in Slovakia are the operators LeoExpress and RegioJet, which cannot be used with FIP Tickets. These are abbreviated in the connection information with `LE` and `RJ` (not to be confused with `RJ` for Railjet). In case of doubt, the operator can be clarified via the respective provider's website or via [Bahn.de](https://int.bahn.de/en).
+
+{{< identify-operator sources="zssk-website,db-website,vagonweb" />}}
 
 ## Interesting
 
@@ -31,9 +33,9 @@ A special highlight is the ride in the High Tatras with the Tatranská železnic
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Czechia (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| Hungary (GySEV) | Rajka (Gr) |
-| Hungary (MÁV) | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
+| [Czechia](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Hungary ([GySEV](/operator/gysev)) | Rajka (Gr) |
+| Hungary (MÁV) | Bánréve (Gr), Čaňa (Gr), Fil'akovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
 {{% /expander %}}
 
 ### Czech Republic
@@ -47,7 +49,7 @@ Arrival from Austria is possible via two different local train connections:
 - One connection runs north of the Danube from Vienna via Marchegg to Bratislava main station (Bratislava hl.st.).
 - Another connection goes from Vienna via Kittsee to the south of Bratislava (Bratislava Petrzalka).
 
-For both routes, an FIP 50 Ticket of [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") is required for the Slovak section.
+For both routes, an FIP 50 Ticket of [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
 
 Additionally, there are some individual `EC` connections.
 

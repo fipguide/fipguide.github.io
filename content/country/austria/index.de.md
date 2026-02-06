@@ -27,6 +27,10 @@ Außerdem gibt es weitere regionale Betriber von Nahverkehrszügen, die keine FI
 
 Die [GySEV / Raaberbahn](/operator/gysev "GySEV") ist ein zweites EVU welches FIP Tickets innerhalb von Österreich und Ungarn akzeptiert. GySEV Freifahrtscheine sind jedoch primär für Ungarn gedacht und gelten auf den Strecken der GySEV in Österreich daher nur eingeschränkt.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+In der [Onlinefahrplanauskunft der ÖBB](https://fahrplan.oebb.at/) wird nur nach Zugkategorien, aber nicht nach Betreibern unterschieden.
+{{< /identify-operator >}}
+
 ## Wissenswertes
 
 Österreich verfügt über ein dichtes Bahnnetz, welches vor allem aus zwei Hauptstrecken besteht:
@@ -43,14 +47,14 @@ Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterrei
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Tschechien (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr),
-| Ungarn (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron|
+| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr),
+| Ungarn ([GySEV](/operator/gysev)) | Pamhagen (Gr), Szentgotthárd, Sopron|
 | Ungarn (MÁV) | Hegyshalom (Gr), Sopron |
-| Deutschland (DB) | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slowenien (SZ) | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr) |
-| Slowakei (ZSR)| Marchegg(Gr), Kittsee(Gr)
-| Schweiz (SBB) | Buchs SG, St. Margrethen |
-| Italien (FS)| Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slowenien (SŽ) | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr) |
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk))| Marchegg(Gr), Kittsee(Gr)
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb)) | Buchs SG, St. Margrethen |
+| [Italien](/country/italy) ([FS](/operator/fs))| Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde
 
 {{% /expander %}}
 
@@ -66,6 +70,19 @@ Zwischen Deutschland und Österreich existieren neben verschiedenen Regionalzugv
 - `ICE`, `RJ` und `IC` Züge von München über Salzburg in verschiedene Ziele in Österreich.
 
 Im Deutschen Abschnitt wird für die Züge ein FIP Ticket der DB benötigt.
+
+Darüber hinaus bestehen einige Verbindungen im Regionalverkehr, für die dann immer FIP-Freifahrtscheine der ÖBB und DB oder ein durchgehendes FIP 50 Ticket vorhanden sein müssen.
+
+#### Außenfernbahn
+
+Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfernbahn) zwischen Garmisch-Partenkirchen und Pfronten-Steinach über Reutte in Tirol verkehren Züge von DB Regio aus Deutschland nach Österreich und wieder nach Deutschland. FIP Freifahrtscheine der DB (und nationale Fahrvergünstigungen für DB‑Mitarbeitende) gelten hier für folgende Fahrten:
+
+- Durchgehende Fahrten von Deutschland über Österreich nach Deutschland (Fahren im Transit)
+- Fahrten die in Deutschland beginnen oder enden (Grenzüberschreitende Fahrten)
+
+Außgenommen sind Fahrten, die im reinen Binnenverkehr stattfinden (also in Österreich beginnen und enden). FIP Freifahrtscheine der ÖBB gelten für keine Fahrten auf der Strecke.
+
+Die Regeln gelten analog zu den Regeln des Deutschlandtickets oder der Bahncard 100. [^1] [^2]
 
 ### Ungarn
 
@@ -102,7 +119,7 @@ Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen
 - Eine Verbindung führt nördlich der Donau vom Hauptbahnhof Bratislava (Bratislava hl.st.) über Marchegg nach Wien.
 - Eine andere Verbindung startet im Süden von Bratislava (Bratislava Petrzalka) und führt über Kittsee nach Wien.
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt.
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
 
 Zusätzlich gibt es einzelne `EC` Verbindungen.
 
@@ -113,3 +130,9 @@ Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und
 ## FIP Bewertung
 
 Insgesamt verfügt Österreich über eine tadellose Infrastruktur und sehenswerte Strecken und die meisten Fahrten werden durch die ÖBB bedient. Dadurch ist es möglich, mit FIP-Fahrscheinen einen großen Teil des Landes zu bereisen. Durch den Zuschlag (ohne Reservierung) im Fernverkehr unabhängig von der Relation (in der 1. Klasse 15 €, in der 2. Klasse 10 €) wird die FIP-Erfahrung jedoch etwas getrübt.
+
+## Quellen
+
+[^1]: [DB Regio Beförderungsbestimmungen Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^2]: [Feedback Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)

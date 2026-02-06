@@ -98,6 +98,8 @@ There are over 80 different operators in Germany, but FIP is not valid with most
 
 Due to the large variety of operators, it is advisable to plan your trip in advance to make use of FIP. With the exception of Flixtrain, WESTbahn, and some night train connections, German long-distance trains can be used. In regional transport, DB operates many lines, making travel possible there as well.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Interesting
 
 The rail network in Germany covers around 39,200 km, making it one of the largest in Europe. In addition to heavily used main lines, there are many branch lines operated by associations and local actors.
@@ -135,18 +137,18 @@ The "Allianz pro Schiene" annually awards the most beautiful stations in the cou
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Belgium (SNCB) | Aachen Süd (Gr) |
-| BSB | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen |
-| Denmark (DSB) | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr) |
-| Eurostar | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne |
-| France (SNCF) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr) |
-| Luxembourg (CFL) | Igel (Gr) |
-| Netherlands (NS) | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Austria (ÖBB) | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn |
-| Poland (PKP) | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Czech Republic (ČD) | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Aachen Süd (Gr) |
+| [BSB](/operator/bsb) | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen |
+| [Denmark](/country/denmark) ([DSB](/operator/dsb)) | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr) |
+| [Eurostar](/operator/eurostar) | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Igel (Gr) |
+| [Netherlands](/country/netherlands) ([NS](/operator/ns)) | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn |
+| [Poland](/country/poland) ([PKP](/operator/pkp)) | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Czech Republic](/country/czechia) ([ČD](/operator/cd)) | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
 | Sweden (SJ) | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr) |
-| Switzerland (SBB, BLS, SP) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
 
 MS = Middle of the lake
 {{% /expander %}}
@@ -165,7 +167,7 @@ It is also possible to enter via Tønder by regional train. However, since neith
 
 ### France
 
-Long-distance cooperation trains of SNCF and Deutsche Bahn run between France and Germany. These are operated as `TGV` or `ICE` trains and run from Paris via Strasbourg or Saarbrücken to Munich or Karlsruhe, Mannheim, and Frankfurt (Main). Reservations are only mandatory within France. In Germany, the trains can be used without a reservation. Since the reservation requirement on the route via Strasbourg and Karlsruhe applies up to the border point Kehl (Gr), reservations are also mandatory for journeys between Strasbourg and Germany. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees, see [Booking Options – Online](/operator/sncf#online "Booking Options - Online").
+Long-distance cooperation trains of SNCF and Deutsche Bahn run between France and Germany. These are operated as `TGV` or `ICE` trains and run from Paris via Strasbourg or Saarbrücken to Munich or Karlsruhe, Mannheim, and Frankfurt (Main). In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservations are only mandatory within France. In Germany, the trains can be used without a reservation. Since the reservation requirement on the route via Strasbourg and Karlsruhe applies up to the border point Kehl (Gr), reservations are also mandatory for journeys between Strasbourg and Germany. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees, see [Booking Options – Online](/operator/sncf#online "Booking Options - Online").
 
 {{% highlight tip %}}
 A cheap option for travel from Strasbourg to Germany is the tram from Strasbourg to Kehl, for which a cheap tram ticket is required. From Kehl, there is a connection to the Ortenau S-Bahn line RS4 to Offenburg. FIP is not valid on this line, but the Deutschlandticket is (DB employee discounts are only valid here with NE tickets).
@@ -203,6 +205,17 @@ Between Austria and Germany, there are, in addition to various regional train co
 For the Austrian section, a FIP Ticket from ÖBB is required.
 
 There are also some regional train connections, for which FIP Coupons from ÖBB and DB or a through FIP 50 Ticket are always required.
+
+#### Ausserfern Railway
+
+On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) route between Garmisch-Partenkirchen and Pfronten-Steinach via Reutte in Tyrol, DB Regio trains operate from Germany to Austria and back to Germany. DB FIP Coupons (and national travel concessions for DB employees) are valid here for the following journeys:
+
+- Direct journeys from Germany via Austria back to Germany (transit travel)
+- Journeys that start or end in Germany (cross-border travel)
+
+Journeys that take place entirely within Austria (start and end in Austria) are excluded. ÖBB FIP Coupons are not valid for any journeys on this route.
+
+The rules are analogous to those for the Deutschlandticket or Bahncard 100. [^2] [^3]
 
 ### Poland
 
@@ -257,3 +270,7 @@ There are also some cross-border regional train connections. Germany can also be
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
+
+[^2]: [DB Regio Terms of Carriage for Ausserfern Railway](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^3]: [Ausserfern Railway Feedback](https://github.com/fipguide/fipguide.github.io/issues/606)

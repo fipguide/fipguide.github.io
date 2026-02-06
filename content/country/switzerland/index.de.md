@@ -24,6 +24,8 @@ In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einige
 
 Lediglich einige sehr touristische Verkehre sind nicht in FIP enthalten. Zudem sind grenzüberschreitende Reisen in Fernzügen nach Frankreich und Italien mit etwas Aufwand verbunden, da hier spezielle Aufschläge dazu kommen.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Wissenswertes
 
 Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der topografisch nicht einfachen Umstände ist ein Großteil des Landes per Bahn erreichbar. Die Züge verkehren oft in einem dichten Takt, insbesondere auf den Hauptstrecken und sind in einem integralen Taktfahrplan miteinander gut vertaktet. Auch wenn die meisten Strecken im Land nicht für eine sehr hohe Geschwindigkeit ausgebaut sind, ergibt sich durch die kurzen Anschlüsse trotzdem oft eine überschaubare Reisezeit. Zudem ist das Bahnsystem in der Schweiz für seine Pünktlichkeit bekannt, Ausnahmen gibt es natürlich aber auch hier. Das Land ist auch gut mit seinen Nachbarländern per Bahn verbunden, auch hier gibt es regelmäßige Züge.
@@ -33,10 +35,10 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| Italien (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| Österreich (ÖBB) | Buchs (SG), St. Margrethen |
-| Frankreich (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+| [Deutschland](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Italien](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
 
 \
 [>] = In Richtung (z. B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)

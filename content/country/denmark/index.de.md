@@ -19,6 +19,10 @@ In Dänemark ist es möglich quer durch das Land auf den Hauptstrecken mit FIP 5
 
 Auch für die durch Dänemark verkehrenden Nachtzüge der Betreiber SJ und Snälltåget sind keine FIP-Vergünstigungen möglich. Ebenfalls betroffen sind die Verbindungen, die von Kopenhagen aus in Richtung Schweden verkehren.
 
+{{< identify-operator sources="db-website" >}}
+In der [Onlinefahrplanauskunft der DSB](https://www.dsb.dk/en/) wird nur nach Zugkategorien, aber nicht nach Betreibern unterschieden.
+{{< /identify-operator >}}
+
 ## Wissenswertes
 
 Dänemark besitzt ein vergleichsweise dichtes Bahnnetz, über das sowohl das Festland Jütland als auch die Inseln Falster, Seeland und Fünen erreicht werden können. Das Bahnnetz ist dabei zusammenhängend. Tariflich wird in dem Land unterschieden zwischen Regional- und Fernverkehrszügen. Zudem gibt es oft noch spezielle Tarife pro Betreiber (z. B. eine spezielle Tageskarte für das Netz von GoCollective am Wochenende), es können jedoch auch betreiberübergreifende Tickets erworben werden.
@@ -37,7 +41,7 @@ Auf diesen verkehren Fernverkehrszüge mit einer überdurchschnittlichen Durchsc
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
 | Schweden (SJ) | Helsingborg (über Helsingør) |
 {{% /expander %}}
 

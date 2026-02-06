@@ -51,6 +51,9 @@ highlight:
   inofficial: Unofficial Information
   tip: Personal Tip
 home-page-text: FIP Guide Home Page
+identify-operator:
+  learn-more: To Website
+  title: Identify Train Operators and Search Connections
 information-disclaimer-short: >-
   The information provided is unofficial and without guarantee. There is no
   legal connection to FIP or railway companies.
@@ -125,7 +128,20 @@ support:
     [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to
     contribute content. Alternatively, you can also write to us via the [contact
     form](/contact).
-  title: Support Us
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Cloud Specialist @ DB Systel
+  linkedin: LinkedIn profile of {{ . }}
+  moritz:
+    name: Moritz Weber
+    position: Expert for Digitalization of Railway Operations @ DB InfraGO
+  robert:
+    name: Robert Schuster
+    position: User Experience Consultant @ DB Systel
+  willy:
+    name: Willy Schreiter
+    position: 'Product Owner at #Einfachbahn @ DB InfraGO'
 toc_name: Contents
 trainCategory:
   acceptance:

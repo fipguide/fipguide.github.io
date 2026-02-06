@@ -27,6 +27,10 @@ Il existe aussi plusieurs opérateurs régionaux de trains locaux qui n’accept
 
 La [GySEV / Raaberbahn](/operator/gysev "GySEV") est une deuxième compagnie ferroviaire qui accepte les Billets FIP en Autriche et en Hongrie. Les Coupons FIP GySEV sont principalement destinés à la Hongrie et ne sont valables que de façon limitée sur les lignes GySEV en Autriche.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+Dans la [recherche d’horaires en ligne de l’ÖBB](https://fahrplan.oebb.at/), seuls les types de trains sont indiqués, sans distinction entre les opérateurs.
+{{< /identify-operator >}}
+
 ## Informations générales
 
 L’Autriche dispose d’un réseau ferroviaire dense, structuré autour de deux lignes principales :
@@ -43,14 +47,14 @@ Un coup de cœur est la Schneebergbahn en Basse-Autriche. Elle n’est pas explo
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| République tchèque (ČD) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
-| Hongrie (GySEV) | Pamhagen (Gr), Szentgotthárd, Sopron |
+| [République tchèque](/country/czechia) ([ČD](/operator/cd)) | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr) |
+| Hongrie ([GySEV](/operator/gysev)) | Pamhagen (Gr), Szentgotthárd, Sopron |
 | Hongrie (MÁV) | Hegyeshalom (Gr), Sopron |
-| Allemagne (DB) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-| Slovénie (SZ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
-| Slovaquie (ZSR) | Marchegg (Gr), Kittsee (Gr) |
-| Suisse (CFF) | Buchs SG, St. Margrethen |
-| Italie (FS) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
+| Slovénie (SŽ) | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr) |
+| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr) |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb)) | Buchs SG, St. Margrethen |
+| [Italie](/country/italy) ([FS](/operator/fs)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
 {{% /expander %}}
 
 ### République tchèque
@@ -65,6 +69,19 @@ Entre l’Allemagne et l’Autriche, on trouve plusieurs liaisons régionales et
 - Des trains `ICE`, `RJ` et `IC` de Munich via Salzbourg vers plusieurs destinations en Autriche.
 
 Pour la section allemande, un Billet FIP DB est requis.
+
+Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP ÖBB et DB ou un billet FIP 50 valable sur tout le trajet.
+
+#### Außenfernbahn
+
+Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Pfronten-Steinach via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
+
+- trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
+- trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
+
+Les trajets purement internes à l’Autriche (départ et arrivée en Autriche) sont exclus. Les Coupons FIP de l’ÖBB ne sont valables pour aucun trajet sur cette ligne.
+
+Les règles sont analogues à celles du Deutschlandticket ou de la Bahncard 100. [^1] [^2]
 
 ### Hongrie
 
@@ -102,7 +119,7 @@ Depuis la Slovaquie, il existe deux liaisons régionales possibles pour rejoindr
 - Une liaison part du nord du Danube depuis la gare principale de Bratislava (Bratislava hl.st.) via Marchegg jusqu’à Vienne.
 - Une autre liaison démarre au sud de Bratislava (Bratislava Petrzalka) et passe par Kittsee jusqu’à Vienne.
 
-Pour les deux itinéraires, un Billet FIP 50 de la [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
+Pour les deux itinéraires, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") est requis pour la section slovaque.
 
 Il existe également quelques liaisons `EC`.
 
@@ -113,3 +130,9 @@ Des liaisons longues distances et régionales existent entre Vienne/Graz et Ljub
 ## Évaluation FIP
 
 L’Autriche dispose d’une infrastructure exemplaire et de lignes particulièrement pittoresques. La majorité des trains étant opérée par l’ÖBB, il est possible de parcourir une grande partie du pays avec les Billets FIP. Cependant, le supplément obligatoire (même sans réservation) sur les trains grandes lignes — 10 € en 2ᵉ classe, 15 € en 1ʳᵉ classe — réduit légèrement l’attrait du FIP en Autriche.
+
+## Sources
+
+[^1]: [Conditions de transport DB Regio Außenfernbahn](https://assets.static-bahn.de/dam/jcr:c1a8a3da-1cdf-43a2-abea-21483a20b01b/2023_BB%20Au%C3%9Ferfernbahn_final.pdf)
+
+[^2]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)

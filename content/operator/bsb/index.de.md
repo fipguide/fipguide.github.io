@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Bodensee-Schiffsbetriebe"
+title: "BSB"
 country:
   - "austria"
   - "germany"
@@ -8,7 +8,7 @@ country:
 operator: "bsb"
 ---
 
-Die Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
+Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
 
 Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
@@ -30,8 +30,15 @@ FIP 50 Tickets: ✅
 
 ## Kategorien und Reservierungen
 
-{{% expander "Fähre" traincategory %}}
-**Beschreibung:** \
+{{% train-category
+  id="ferry"
+  title="Fähre"
+  type="ship"
+  fip_accepted=true
+  reservation_possible=false
+  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+%}}
+
 Fähren auf dem Bodensee.
 
 Auf den folgenden Strecken können Autos mitgeführt werden:
@@ -41,11 +48,7 @@ Auf den folgenden Strecken können Autos mitgeführt werden:
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 
-Auf dieser Seite gibt es eine [Übersicht der Fahrten](https://www.bsb.de/sites/default/files/2024-11/Fahrplan-2025-Web_0.pdf).
-
-**Reservierung möglich:** Nein \
-**Reservierungspflicht:** Nein
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Klassenkategorien
 

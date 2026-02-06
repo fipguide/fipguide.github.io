@@ -1,0 +1,6 @@
+{{- $params := dict
+  "sources" (split (.Get "sources") ",")
+  "innerContent" .Inner
+-}}
+
+{{- partial "identify-operator" $params -}}

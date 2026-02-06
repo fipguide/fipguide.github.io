@@ -30,122 +30,225 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 
 ### Le Frecce
 
-{{% expander "Frecciarossa (FR AV) ⚠️ℹ️" traincategory "le frecce" %}}
-**Description:** \
+{{% train-category
+  id="fr-av"
+  title="Frecciarossa (FR AV)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-ℹ️ Trains of the private operator Italo are also marked as AV but cannot be used with FIP. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+{{% highlight confusion %}}
+Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
+{{% /highlight %}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
-{{% /expander %}}
 
-{{% expander "Frecciargento (FA AV) ⚠️ℹ️" traincategory "le frecce" %}}
-**Description:** \
+#### Reservation
+
+The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="fa-av"
+  title="Frecciargento (FA AV)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
 High-speed tilting trains.
 
-ℹ️ Trains of the private operator Italo are also marked as AV but cannot be used with FIP. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+{{% highlight confusion %}}
+Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
+{{% /highlight %}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
-{{% /expander %}}
 
-{{% expander "Frecciabianca (FB) ⚠️" traincategory "le frecce" %}}
-**Description:** \
-Fast trains outside high-speed lines. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
+#### Reservation
+
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
-Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "FrecciaLink (FL) ⛔" traincategory "le frecce" %}}
-**Description:** \
+{{% train-category
+  id="fb"
+  title="Frecciabianca (FB)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
+Fast trains outside high-speed lines.
+
+Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
+
+#### Reservation
+
+The variable reservation price always includes a surcharge when using a FIP Coupon.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="fl"
+  title="FrecciaLink (FL)"
+  type="bus"
+  fip_accepted=false
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Connecting buses for high-speed trains.
 
-⛔ FIP discounts do not apply on these buses.
-{{% /expander %}}
+{{% /train-category %}}
 
 ### Other Long-Distance
 
-{{% expander "InterCity (IC) ⚠️" traincategory "long-distance" %}}
-**Description:** \
-Fast trains mostly outside high-speed lines. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-**Reservation cost:** 3 € (1st/2nd class) \
-The reservation price always includes a surcharge when using a FIP Coupon.
-{{% /expander %}}
+{{% train-category
+  id="ic"
+  title="InterCity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
 
-{{% expander "InterCity Notte (ICN) ⚠️" traincategory "long-distance" %}}
-**Description:** \
-National night train with sleeper, couchette, and seat cars. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-**Reservation cost:** 25 € (1st/2nd class, seat car) \
+Fast trains mostly outside high-speed lines.
+
+#### Reservierung
+
+**Cost:** € 3 (1st/2nd class)
+
+The reservation price always includes a surcharge when using a FIP Coupon.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="icn"
+  title="InterCity Notte (ICN)"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
+National night train with sleeper, couchette, and seat cars.
+
+**Cost:** € 25 (1st/2nd class, seat car)
+
 The reservation price always includes a surcharge when using a FIP Coupon. For couchette or sleeper, an additional supplement applies.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ### International Long-Distance
 
-{{% expander "Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX) ⚠️" traincategory "int-long-distance" %}}
-**Description:** \
-International fast trains to Germany, Austria, and Switzerland. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
-**Reservation cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
+{{% train-category
+  id="ec"
+  title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
+International fast trains to Germany, Austria, and Switzerland.
+
+#### Reservation
+
+**Cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 Different costs for Brenner route (Brenner supplement):
 
-- 1st class: €15
-- 2nd class: €10
+- 1st class: € 15
+- 2nd class: € 10
 
 Reservations for the Brenner route can be purchased on the train or at FS ticket offices.
 
 The reservation price always includes a surcharge when using a FIP Coupon.
-{{% /expander %}}
 
-{{% expander "Nightjet (NJ) / Euronight (EN) ⚠️" traincategory "int-long-distance" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="nj"
+  title="Nightjet (NJ) / Euronight (EN)"
+  type="sleeper"
+  fip_accepted=true
+  reservation_required=true
+  reservation_possible=true
+%}}
+
 International night trains to Germany, Austria, and Switzerland.
 
-⚠️ National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the Nightjet journey is in Germany, DB staff must buy a ticket at the FIP global fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/supplement is required. \
-_Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP global fare. \
-**Reservation possible:** Yes \
-**Reservation required:** ⚠️ Yes \
+{{% highlight important %}}
+National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the Nightjet journey is in Germany, DB staff must buy a ticket at the FIP global fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/supplement is required.
+{{% /highlight %}}
+
+_Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP global fare.
+
+#### Reservation
+
 The variable reservation price always includes a surcharge when using a FIP Coupon.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ### Regional Trains
 
-{{% expander "Regionale Veloce (RV) ⚠️" traincategory "local" %}}
-**Description:** \
+{{% train-category
+  id="rv"
+  title="Regionale Veloce (RV)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Fast regional trains stopping at main stations.
 
-⚠️ Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains) \
-**Reservation possible:** No
-{{% /expander %}}
+{{% highlight important %}}
+Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains)
+{{% /highlight %}}
 
-{{% expander "Regionale (R / REG) ⚠️" traincategory "local" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="r"
+  title="Regionale (R / REG)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Regional trains stopping at most stations.
 
-⚠️ Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains) \
-**Reservation possible:** No
-{{% /expander %}}
+{{% highlight important %}}
+Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains)
+{{% /highlight %}}
 
-{{% expander "Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm) ℹ️" traincategory "local" %}}
-**Description:** \
+{{% /train-category %}}
+
+{{% train-category
+  id="m"
+  title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-ℹ️ Metro lines are sometimes also marked as `M` and cannot be used with FIP. \
-**Reservation possible:** No
-{{% /expander %}}
+{{% highlight confusion %}}
+Metro lines are sometimes also marked as `M` and cannot be used with FIP.
+{{% /highlight %}}
+
+{{% /train-category %}}
 
 ## Class Categories
 
@@ -181,10 +284,10 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="db-ticket-office"
-  classes.first="3 € / 25 €"
-  classes.second="3 € / 25 €"
+  classes.first="€ 3 / € 25"
+  classes.second="€ 3 / € 25"
 %}}
-The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 {{% /booking %}}
 
 ### On the train
@@ -201,13 +304,13 @@ Children up to 4 years old travel free on public fares. On regional trains, chil
 
 On international long-distance trains from Italy to Austria, ÖBB FIP Coupons are also recognized in the Italian section (not on regional trains), but a supplement (as in other Italian long-distance trains) must be paid. This can be purchased on the train or at FS or ÖBB ticket counters.
 
-#### Brenner – Bolzano – Verona
+#### Brenner – Bolzano – Verona – Venice/Ancona/Bologna
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `EC` trains to Verona. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid.
+ÖBB or FS FIP Coupons are valid in the Italian section on `EC` and `RJ` trains. For journeys to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 #### Railjet Tarvisio Boscoverde – Venice
 
-ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains to Venice. For trips to/from Italy or entirely within Italy, a supplement of 10 € (2nd class) or 15€ (1st class) must be paid.
+ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
 
 ### Regional trains in Emilia-Romagna
 

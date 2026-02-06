@@ -1,5 +1,6 @@
 {{- $image := $.Page.Resources.GetMatch (.Get "src") -}}
 {{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
 {{- $width := .Get "width" | default "50%" -}}
 {{- $position := .Get "position" | default "right" -}}
 
@@ -9,7 +10,9 @@
     (dict
     "image" $image
     "alt" $alt
+    "caption" $caption
     "width" $width
+    "Page" .Page
     )
   -}}
   <div class="m-float-image__content">

@@ -13,6 +13,8 @@ In Portugal, FIP 50 Tickets and FIP Coupons can be used on the majority of the r
 
 The private operator Fertagus runs the `R` line between Lisbon Roma-Areeiro and Setúbal. This route is unfortunately not valid with FIP. In the [CP journey planner](https://www.cp.pt/en) Fertagus trains do not appear; on Google Maps they are visible under the line name `Setúbal`.
 
+{{< identify-operator sources="cp-website,db-website" />}}
+
 ## Interesting
 
 Portugal does not have a particularly dense rail network. Rail traffic is concentrated on the main axis connecting Braga, Porto, Lisbon and Faro, and on the Lisbon and Porto urban areas. Several lines have been closed in recent decades, leaving many towns (for example Mora and Monsaraz) without rail service.
@@ -33,7 +35,7 @@ Particularly recommended stations to visit:
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Spain | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
+| [Spain](/country/spain) ([Renfe](/operator/renfe)) | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
 
 \
 [>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] = the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)

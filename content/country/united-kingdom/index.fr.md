@@ -31,6 +31,8 @@ L’Irlande du Nord est desservie par sa propre compagnie ferroviaire (NIR), où
 
 Il existe également des trains [Eurostar](/operator/eurostar "Eurostar") vers l’Europe continentale, accessibles avec les tarifs globaux FIP. Alternativement, les liaisons par ferry vers les Pays-Bas entre Harwich et Hoek van Holland ou vers l’Irlande peuvent être utilisées avec le FIP.
 
+{{< identify-operator sources="gb-website,db-website" />}}
+
 ## Informations générales
 
 Le Royaume-Uni est le berceau du chemin de fer et possède une longue tradition ferroviaire. Le réseau ferroviaire couvre tout le pays et propose de nombreuses liaisons (directes) vers toutes les régions. La qualité des trains et des gares varie fortement, car de nombreux opérateurs agissent de manière indépendante. Certains proposent des trains modernes et confortables, tandis que d’autres utilisent encore d’anciens modèles.
@@ -46,8 +48,8 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| France, Belgique, Pays-Bas (Eurostar) | London St. Pancras International |
-| Pays-Bas (Stena Line) | Harwich P.Q. |
+| [France](/country/france), [Belgique](/country/belgium), [Pays-Bas](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
+| [Pays-Bas](/country/netherlands) ([Stena Line](/operator/stl)) | Harwich P.Q. |
 | Irlande (Stena Line) | Holyhead, Fishguard |
 | Irlande (CIE) | Dundalk |
 {{% /expander %}}

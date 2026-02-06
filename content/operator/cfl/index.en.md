@@ -16,7 +16,7 @@ CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Coupon for Relatives: ⛔ \
+FIP Coupon for relatives: ⛔ \
 FIP 50 Tickets: ✅
 
 {{< highlight important >}}
@@ -25,58 +25,75 @@ Luxembourg offers free public transport for domestic journeys regardless of FIP.
 
 ## Train Categories and Reservations
 
-{{% expander "InterCity (IC)" traincategory "category" %}}
+{{% train-category
+  id="intercity"
+  title="InterCity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=false
+%}}
 
-**Description:**\
 InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
 
-**Reservation possible:** Yes \
-**Reservation required:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+  id="regionalexpress"
+  title="Regionalexpress (RE)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
 
-{{% expander "Regional Express (RE)" traincategory "category" %}}
-
-**Description:**\
 Trains stopping at some stations.
 
-**Reservation possible:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+  id="regionalbahn"
+  title="Regionalbahn (RB)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
 
-{{% expander "Regional Train (RB)" traincategory "category" %}}
-
-**Description:**\
 Trains stopping at all stations.
 
-**Reservation possible:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+  reservation_possible=false
+%}}
 
-{{% expander "Bus" traincategory "category" %}}
-
-**Description:**\
 CFL also operates interregional bus lines. These do not accept FIP, but due to free public transport, no ticket is required.
 
-**Reservation possible:** No
+{{% /train-category %}}
 
-{{% /expander %}}
+{{% train-category
+  id="standseilbahn"
+  title="Funicular Pfaffenthal-Kirchberg"
+  type="funicular"
+  fip_accepted=true
+  reservation_possible=false
+%}}
 
-{{% expander "Pfaffenthal-Kirchberg Funicular" traincategory "category" %}}
-
-**Description:**\
 The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchange platform on the Kirchberg plateau.
 
-**Reservation possible:** No
-
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
 Ticket purchase is only relevant for first class.
 
 {{% highlight tip %}}
-CFL offers affordable ticket options for first class starting from €3. These tickets are not route-dependent but are valid for a certain period for the entire network. These tickets can (e.g. due to booking fees) be cheaper than FIP 50 Tickets for first class. More information on the [CFL website](https://www.cfl.lu/en-gb/ticket/national)
+CFL offers affordable first class ticket options starting from €3. These tickets are not route-dependent, but valid for a specific period for the entire network. Tickets can be purchased on the [CFL website](https://www.cfl.lu/en-gb/ticket/national).
+
+At [CFL Ticket Offices](#on-site), first class tickets are available with a 50% discount on presentation of your FIP Card.
 {{% /highlight %}}
 
 ### Online
@@ -99,6 +116,10 @@ fip_50=true
 Due to the booking fee, it may be worthwhile to purchase a regular first class ticket via the CFL app or ticket machine.
 
 {{% /booking %}}
+
+### On-site
+
+{{% booking id="cfl-ticket-office" /%}}
 
 ### On the Train
 

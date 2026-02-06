@@ -20,7 +20,7 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 Coupon FIP : ⛔ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ⛔ \
 Tarif Global FIP : ✅
 
@@ -32,38 +32,57 @@ Les billets à Tarif Global FIP peuvent être achetés à prix fixe. Tous les bi
 Tous les trains nécessitent une réservation obligatoire et un Billet FIP global spécifique au train concerné.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Bleu) : Londres - Paris / Bruxelles / Amsterdam ⚠️" traincategory category %}}
-**Description :** \
-Train à grande vitesse entre le Royaume-Uni et l’Europe. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
+{{% train-category
+    id="eurostar-blue"
+    title="Eurostar (Bleu) : Londres – Paris / Bruxelles / Amsterdam"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Train à grande vitesse entre le Royaume-Uni et l’Europe.
+
 **Tarif Global FIP :**
 | Trajet | Standard | Plus |
 |------------------------------|----------|------|
-| Londres - Paris / Bruxelles | 39€ / 34,50 £ | 60€ / 52,50 £ |
-| Londres - Amsterdam / Rotterdam | 51€ / 44,50 £ | 71€ / 62 £ |
-{{% /expander %}}
+| Londres - Paris / Bruxelles | 39 € / 34,50 £ | 60 € / 52,50 £ |
+| Londres - Amsterdam / Rotterdam | 51 € / 44,50 £ | 71 € / 62 £ |
 
-{{% expander "Eurostar (Rouge) : Paris - Amsterdam / Bruxelles / Cologne / Dortmund ⚠️" traincategory category %}}
-**Description :** \
-Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
+{{% /train-category %}}
+
+{{% train-category
+    id="eurostar-red"
+    title="Eurostar (Rouge) : Paris – Amsterdam / Bruxelles / Cologne / Dortmund"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne.
+
 **Tarif Global FIP :**
 | Trajet | Standard | Plus |
 |-----------------------------|----------|------|
 | Trajet dans un seul pays | Non disponible | Non disponible |
 | Trajet entre 2 pays | 18 € | 35 € |
 | Trajet entre 3 pays | 20 € | 40 € |
-{{% /expander %}}
 
-{{% expander "Eurostar Snow : Amsterdam / Bruxelles – Alpes françaises ⛔⚠️" traincategory category %}}
-**Description :** \
-Train à grande vitesse saisonnier vers les Alpes françaises. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
-**FIP :** ⛔ non accepté
-{{% /expander %}}
+{{% /train-category %}}
+
+{{% train-category
+    id="eurostar-snow"
+    title="Eurostar Snow : Amsterdam / Bruxelles – Alpes françaises"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Train à grande vitesse saisonnier vers les Alpes françaises.
+
+{{% /train-category %}}
 
 {{% highlight tip %}}
 Lors de la réservation, les prix en euros sont généralement plus avantageux que ceux en livres sterling.
@@ -113,7 +132,18 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     reservations=nil
 %}}
 
-#### Billet FIP Global
+#### Tarif Global FIP
+
+Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
+{{% /booking %}}
+
+{{% booking id="cfl-ticket-office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+
+#### Tarif Global FIP
 
 Lors de la réservation, les cartes FIP de tous les voyageurs doivent être présentées.
 {{% /booking %}}

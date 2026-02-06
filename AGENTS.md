@@ -30,6 +30,7 @@
 | <operator> Fahrkartenautomat | <operator> Ticket Machine | Distributeurs de billets <operator> |
 | Grenzpunkt                   | Border Point              | Point frontière                     |
 | FIP Rabatt / FIP Ermäßigung  | FIP Discount              | Remise FIP / Réduction FIP          |
+| FIP Freifahrt Angehörige     | FIP Coupon for relatives  | Coupon FIP pour les ayants droit    |
 
 #### Headlines
 

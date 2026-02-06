@@ -14,12 +14,14 @@ params:
 
 Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
 
-- Koleje Dolnośląskie (KD)
+- [Koleje Dolnośląskie (KD)](/operator/kd)
 - Koleje Śląskie (KS)
 - Koleje Wielkopolskie (KW)
 - Łódzka Kolej Aglomeracyjna (ŁKA)
 
 Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit FIP genutzt werden. Sie wird genauso wie die in Danzig mit SKM abgekürzt. Abgesehen von dieser ist die FIP-Abdeckung in Polen sehr hoch. Im Fernverkehr sind bei PKP InterCity teilweise Reservierungen nötig und auch allgemein empfehlenswert, da die Züge oft sehr gut ausgelastet sind. Im Regionalverkehr wird grundsätzlich nur die 2. Klasse angeboten.
+
+{{< identify-operator sources="plk-website,db-website,vagonweb" />}}
 
 ## Wissenswertes
 
@@ -33,12 +35,12 @@ Der Zustand, die Dichte und Taktung der Bahnstrecken sind oft sehr abhängig von
 | Land | Grenzpunkte |
 |-----------------------|-------------|
 | Belarus / Weißrussland (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship) |
-| Tschechien (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
-| Deutschland (DB AG) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Litauen (LTG-Link) | Mockava (Gr) |
+| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
+| [Deutschland](/country/germany) ([DB AG](/operator/db)) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg)) | Mockava (Gr) |
 | Russland (RZD) | Braniewo (Gr) |
 | Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn oder Ягодин), Medyka (Gr) |
-| Slowakei (ŽSR) | Lupkow (Gr) |
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr) |
 {{% /expander %}}
 
 ### Belarus / Weißrussland
@@ -53,7 +55,9 @@ Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (O
 
 Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt befahren werden.
 
-Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein. Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
+Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein.
+
+Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
 
 ### Litauen
 

@@ -17,7 +17,7 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 ## Validité des Billets FIP
 
 Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
+Coupon FIP pour les ayants droit : ⛔ \
 Billets FIP 50 : ✅
 
 {{% highlight important %}}
@@ -34,39 +34,74 @@ Les lignes suivantes peuvent être utilisées avec le Coupon FIP GySEV en Autric
 
 ## Catégories de trains et réservations
 
-{{% expander "InterCity (IC) ⚠️ℹ️" traincategory "local" %}}
-**Description :** \
+{{% train-category
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
 GySEV exploite des trains Scarbantia `IC` entre Sopron et Budapest.
 
-ℹ️ En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise MÁV circulent également. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** ⚠️ partiellement \
-Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les trajets entre Sopron et Győr, aucune réservation n’est requise.
-{{% /expander %}}
+{{% highlight confusion %}}
+En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise MÁV circulent également.
+{{% /highlight %}}
 
-{{% expander "Regionalexpress (REX) ℹ️" traincategory "local" %}}
-**Description :** \
+#### Réservation
+
+Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les trajets entre Sopron et Győr, aucune réservation n’est requise.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rex"
+    title="Regionalexpress (REX)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Train régional rapide avec moins d’arrêts et matériel roulant moderne.
 
-ℹ️ Certains trains Regionalexpress sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
-**Réservation possible :** Non
-{{% /expander %}}
+{{% highlight confusion %}}
+Certains trains Regionalexpress sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
+{{% /highlight %}}
 
-{{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
-**Description :** \
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regionalzug (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Train régional avec arrêts dans la plupart des gares.
 
-ℹ️ Certains trains régionaux sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
-**Réservation possible :** Non
-{{% /expander %}}
+{{% highlight confusion %}}
+Certains trains régionaux sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
+{{% /highlight %}}
 
-{{% expander "Személyvonat (Sz) ℹ️" traincategory "local" %}}
-**Description :** \
+{{% /train-category %}}
+
+{{% train-category
+    id="sz"
+    title="Személyvonat (Sz)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
 Train régional avec arrêts dans la plupart des gares.
 
-ℹ️ Certains trains Személyvonat sont également exploités par MÁV où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
-**Réservation possible :** Non
-{{% /expander %}}
+{{% highlight confusion %}}
+Certains trains Személyvonat sont également exploités par MÁV où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
+{{% /highlight %}}
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
