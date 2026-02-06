@@ -19,7 +19,7 @@ Die Ticketschalter der BLS werden _BLS Reisezentrum_ genannt.
 
 ## FIP 50 Fahrkarten
 
-In BLS Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweitz erworben werden.
+In BLS Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweiz erworben werden.
 
 {{% /booking-section %}}
 

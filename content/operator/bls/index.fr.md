@@ -10,14 +10,14 @@ La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviai
 ## Résumé
 
 - La BLS accepte les Coupons FIP et les Billets FIP 50.
-- L'utilisation de tous les trains, bus et bateaux avec FIP est possible. (Sauf les trains motorail)
-- Pas d'obligation de réservation
+- L'utilisation de tous les trains (sauf les trains motorail), bus et bateaux avec FIP est possible.
+- Pas d'obligation de réservation.
 
 ## Validité des billets FIP
 
-Coupon FIP: ✅ \
-Coupon FIP pour les proches: ✅ \
-Billets FIP 50: ✅
+Coupon FIP : ✅ \
+Coupon FIP pour les ayants droit : ✅ \
+Billets FIP 50 : ✅
 
 [Vue d'ensemble du réseau BLS](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
 
@@ -70,7 +70,7 @@ Un voyage sans réservation de siège n'est possible que s'il reste des places d
         fip_accepted=false
         type="regional"
 %}}
-Trains motorail sur les lignes Kandersteg - Göppenstein, Brig - Iselle et Kandersteg - Iselle.
+Trains motorail sur les lignes Kandersteg – Göppenstein, Brig – Iselle et Kandersteg – Iselle.
 
 Le FIP n'est pas valable dans ces trains, mais les trains circulant parallèlement du `RE 1` peuvent être utilisés.
 {{% /train-category %}}
@@ -85,7 +85,7 @@ Le FIP n'est pas valable dans ces trains, mais les trains circulant parallèleme
         reservation_required=false
         reservation_possible=false
 %}}
-Le FIP est valable dans tous les bus de la BLS, y compris les bus de _Busland AG_
+Le FIP est valable dans tous les bus de la BLS, y compris les bus de _Busland AG_.
 {{% /train-category %}}
 
 {{% train-category
@@ -119,7 +119,7 @@ L'achat de billets FIP dans le train n'est pas possible. Des frais de pénalité
 
 ## Réductions
 
-Pour les trajets réguliers, les enfants jusqu'à 5 ans inclus voyagent gratuitement. Les enfants jusqu'à 15 ans inclus bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.
+Pour les trajets réguliers, les enfants jusqu'à 5 ans inclus voyagent gratuitement. Les enfants jusqu'à 15 ans inclus bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.[^1]
 
 ## Conditions tarifaires particulières
 
@@ -139,7 +139,7 @@ Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la 
 ## Recommandations
 
 {{% highlight tip %}}
-Avec la BLS, il est possible d'explorer une grande partie de la Suisse avec des proches qui ne peuvent pas obtenir de Coupon FIP pour la SBB.
+Les membres de la famille ne sont parfois pas éligibles aux Coupon FIP des SBB. Cependant, la Coupon FIP des BLS leur permet de découvrir une grande partie de la Suisse.
 {{% /highlight %}}
 
 ## Sources

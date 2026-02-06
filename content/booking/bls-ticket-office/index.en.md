@@ -5,8 +5,8 @@ description: "Booking information for BLS travel centres."
 
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: "CHF 5"
+    second: "CHF 5"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.bls.ch/de/dienstleistungen/an-den-haltestellen/reisezentren"

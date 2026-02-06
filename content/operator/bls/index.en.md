@@ -9,17 +9,17 @@ The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in 
 
 ## Summary
 
-- The BLS accepts FIP Coupon and FIP 50 Tickets.
-- The use of all trains, buses, and ships with FIP is possible. (Except for car trains)
+- BLS accepts FIP Coupon and FIP 50 Tickets.
+- The use of all trains (except for car trains), buses, and ships with FIP is possible.
 - No reservation requirement.
 
 ## Validity of FIP Tickets
 
 FIP Coupon: ✅ \
-FIP Family Coupon: ✅ \
+FIP Coupon for relatives: ✅ \
 FIP 50 Tickets: ✅
 
-[Overview BLS Network](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
+[Overview of the BLS Network](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
 
 ## Train Categories and Reservations
 
@@ -70,7 +70,7 @@ Traveling without a seat reservation is only possible if there are free seats av
         fip_accepted=false
         type="regional"
 %}}
-Car trains on the routes Kandersteg - Göppenstein, Brig - Iselle, and Kandersteg - Iselle.
+Car trains on the routes Kandersteg – Göppenstein, Brig – Iselle, and Kandersteg – Iselle.
 
 FIP is not valid on these trains, but the parallel running trains of the `RE 1` can be used.
 {{% /train-category %}}
@@ -119,7 +119,7 @@ Purchasing FIP tickets on the train is not possible. A penalty fee is charged fo
 
 ## Discounts
 
-For regular journeys, children up to and including 5 years travel for free. Children up to and including 15 years receive a 50% discount on the adult fare. Persons aged 16 and older pay the regular adult fare.
+For regular journeys, children up to and including 5 years travel for free. Children up to and including 15 years receive a 50% discount on the adult fare. Persons aged 16 and older pay the regular adult fare.[^1]
 
 ## Special Tariff Conditions
 
@@ -132,14 +132,14 @@ FIP is not valid on cable cars and funiculars operated by the BLS. [^1]
 The Swiss railway companies SBB and BLS partially accept each other's FIP Coupons: [^2]
 
 - The FIP Coupons of the SBB are accepted on all BLS trains.
-- The FIP Coupons of the BLS are accepted on SBB trains on routes where BLS trains also run, i.e., between two stations where both SBB and BLS trains operate. The BLS network is [available online](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
+- The FIP Coupons of the BLS are accepted on SBB trains on routes where BLS trains also run, i.e. between two stations where both SBB and BLS trains operate. The BLS network is [available online](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
 However, the SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses that primarily operate in the Emmental.
 
 ## Recommendations
 
 {{% highlight tip %}}
-With the BLS, large parts of Switzerland can be explored with family members who cannot obtain a Coupon for the SBB.
+At some operators, family members are not entitled to FIP Coupons from SBB. With the Coupons from BLS, it is nevertheless possible to explore large parts of Switzerland together with family members.
 {{% /highlight %}}
 
 ## Sources

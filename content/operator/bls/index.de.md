@@ -10,8 +10,8 @@ Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahng
 ## Zusammenfassung
 
 - Die BLS akzeptiert FIP Freifahrt und FIP 50 Tickets.
-- Die Nutzung aller Züge, Busse und Schiffe mit FIP möglich. (Außer Autozüge)
-- Keine Reservierungspflich
+- Die Nutzung aller Züge (außer Autozüge), Busse und Schiffe mit FIP möglich.
+- Keine Reservierungspflicht.
 
 ## Gültigkeit FIP-Tickets
 
@@ -55,7 +55,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     reservation_required=partially
     reservation_possible=true
 %}}
-Der GoldenPassExpress ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
+Der GoldenPassExpress ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
 
 Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sein müssen, um die komplette Strecke zu befahren. FIP 50 Tickets können durchgehend gebucht werden.
 
@@ -70,7 +70,7 @@ Eine Mitfahrt ohne Sitzplatzreservierung ist nur möglich, wenn noch Plätze fre
     fip_accepted=false
     type="regional"
 %}}
-Autozüge auf den Strecken Kandersteg - Göppenstein, Brig - Iselle und Kandersteg - Iselle.
+Autozüge auf den Strecken Kandersteg – Göppenstein, Brig – Iselle und Kandersteg – Iselle.
 
 FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Züge des `RE 1` genutzt werden.
 {{% /train-category %}}
@@ -85,7 +85,7 @@ FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Z�
     reservation_required=false
     reservation_possible=false
 %}}
-FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_
+FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_.
 {{% /train-category %}}
 
 {{% train-category
@@ -119,13 +119,13 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Für reguläre Fahrten reisen Kinder bis einschließlich 5 Jahre kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 16 Jahren zahlen den regulären Erwachsenentarif.
+Für reguläre Fahrten reisen Kinder bis einschließlich 5 Jahre kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 16 Jahren zahlen den regulären Erwachsenentarif.[^1]
 
 ## Tarifliche Besonderheiten
 
 ### Seilbahnen
 
-FIP ist nicht gültig in Seilbahnen und Standseilbahnen die von der BLS betrieben werden. [^1]
+FIP ist nicht gültig in Seilbahnen und Standseilbahnen, die von der BLS betrieben werden. [^1]
 
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
@@ -139,7 +139,7 @@ Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Mit der BLS lässt sich die Schweiz zu großen Teilen mit Angehörigen erkunden, die keinen Freifahrtschein für die SBB bekommen können.
+Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB. Mit dem Freifahrtschein der BLS kann man mit Angehörigen die Schweiz dennoch zu großen Teilen erkunden.
 {{% /highlight %}}
 
 ## Quellen
