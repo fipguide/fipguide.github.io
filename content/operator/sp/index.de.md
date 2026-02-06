@@ -489,7 +489,7 @@ Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nich
     reservation_required=partially
     reservation_possible=true
 %}}
-Die Società Subalpina di Imprese Ferroviarie betriebt den italienischen Abschnitt der aus dem schweizerischen Locarno kommenden Centovallibahn von Camedo bis Domodossola in Italien, inklusive des Treno Panoramico Vigezzo Vision.
+Die Società Subalpina di Imprese Ferroviarie betreibt den italienischen Abschnitt der aus dem schweizerischen Locarno kommenden Centovallibahn von Camedo bis Domodossola in Italien, inklusive des Treno Panoramico Vigezzo Vision.
 
 FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweizer Abschnitt, da dieser durch die FART betrieben wird, die ebenfalls Teil von SP ist.
 
