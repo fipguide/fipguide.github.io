@@ -12,7 +12,7 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 
 - PKP akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen.
-- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD).
+- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Śląskie (KŚ).
 
 ## Gültigkeit FIP-Tickets
 
@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 - Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (Regionalzüge im Großraum Warschau)
-- Einige Strecken der Koleje Dolnośląskie (KD).
+- Einige Strecken der Koleje Śląskie (KŚ)
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
@@ -231,6 +231,17 @@ Eine Fahrtunterbrechung ist grundsätzlich erlaubt, es gibt jedoch Ausnahmen. Im
 #### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
 
 Eine Fahrtunterbrechung ist erlaubt, unterliegt jedoch den Beförderungsbedingungen (RPO-PKP SKM) auf der Website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+
+### Nutzung von PKP Freifahrtscheinen auf KŚ Routen
+
+Auf folgenden Routen der [KŚ](/operator/ks) sind sowohl FIP-Tickets der KŚ als auch der PKP gültig:
+- Gliwice – Katowice – Częstochowa
+- Częstochowa – Lubliniec
+- Katowice – Tychy – Pszczyna – Czechowice Dziedzice – Bielsko Biała – Zwardoń
+- Żywiec – Sucha Beskidzka – Zakopane
+- Czechowice Dziedzice – Zebrzydowice
+- Pszczyna – Wisła Głębce
+- Kluczbork – Katowice
 
 ### Busse Warschau Modlin
 
