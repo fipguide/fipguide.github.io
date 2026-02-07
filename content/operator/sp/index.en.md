@@ -135,15 +135,25 @@ All of these services can be used with FIP.
     reservation_required=partially
     reservation_possible=true
 %}}
-Ferrovie autolinee regionali ticinesi operates, in addition to some bus routes, the Swiss section of the Centovalli Railway from Locarno to Domodossola in Italy, as well as two small aerial cableways.
+The Ferrovie Autolinee Regionali Ticinesi (FART) operates, in addition to several bus routes, the Swiss section of the Centovallibahn from Locarno to Domodossola in Italy, where the Treno Panoramico Vigezzo Vision also runs.
 
-Even though the Centovalli Railway runs into Italy, SP FIP tickets are valid on the entire route because the Italian section is operated by SSIF, which is also an SP FIP member.
+Even though the Centovallibahn leads to Italy, FIP tickets from SP are valid for the entire route, as the Italian section is operated by SSIF, which is also a member of SP FIP.
 
-For the cable cars, it is unknown whether FIP is recognized. On bus routes, FIP is accepted.
+{{% highlight important %}}
+In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
+{{% /highlight %}}
 
-#### Reservation
+Additionally, FART operates two small cable cars. It is not known whether FIP is accepted here.
 
-A reservation is required for the special Treno Panoramico Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
+In bus transport, FIP is fully recognized.
+
+#### Reservations
+
+Reservations are only required during the Christmas markets and the Raduno degli Spazzacamini (the international chimney sweep meeting) in Santa Maria Maggiore.
+
+On the panoramic trains, traveling in standing places is not allowed for comfort reasons.
+
+Seat reservations can be purchased [online on the Centovalli website](https://prenota.vigezzinacentovalli.com/) for €4 per person and route.
 
 #### Scheduled routes
 
@@ -484,9 +494,17 @@ Società Subalpina di Imprese Ferroviarie operates the Italian section of the Ce
 
 SP FIP tickets are valid on the entire route, including the Swiss section, as this is operated by FART, which is also part of SP.
 
+{{% highlight important %}}
+In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
+{{% /highlight %}}
+
 #### Reservation
 
-A reservation is required for the special Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
+Reservations are only required during the Christmas markets and the Raduno degli Spazzacamini (the international chimney sweep meeting) in Santa Maria Maggiore.
+
+On the panoramic trains, traveling in standing places is not allowed for comfort reasons.
+
+Seat reservations can be purchased [online on the Centovalli website](https://prenota.vigezzinacentovalli.com/) for €4 per person and route.
 
 #### Scheduled routes
 
@@ -874,12 +892,6 @@ The Bernina Express is another well-known panoramic train in Switzerland. It run
 SP FIP Coupons and FIP 50 Tickets are valid on this train, but only with an additional paid seat reservation. This can be booked via the [Bernina Express website](https://tickets.rhb.ch/de/routing/bernina-express) and should be made well in advance, as trains can sell out quickly.
 
 As an alternative to the Bernina Express (marked as `PE` in timetables), other services are available on the route for which no reservation is required.
-
-### Treno Panoramico Vigezzo Vision
-
-The Treno Panoramico Vigezzo Vision runs on the route Domodossola – Càmedo – Locarno and is jointly operated by Ferrovie Autolinee Regionali Ticinesi (FART) and Società Subalpina di Imprese Ferroviarie (SSIF).
-
-SP FIP Coupons and FIP 50 Tickets are valid on this train, but only with an additional paid seat reservation. This can be booked via [this link](https://prenota.vigezzinacentovalli.com/).
 
 ### Pilatusbahn
 
