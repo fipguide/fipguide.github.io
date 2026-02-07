@@ -466,19 +466,20 @@ A reservation is required for the Glacier Express; see the [dedicated section](#
     reservation_required=false
     reservation_possible=true
 %}}
-The Schweizerische Südostbahn operates services both on its own lines and on some SBB lines. In cooperation with SBB, the well-known long-distance trains Treno Gottardo, Alpenrhein-Express, and Aare Linth are operated by SOB.
+The Schweizerische Südostbahn (SOB) operates scheduled services on both its own lines and some SBB routes. In cooperation with SBB, SOB also operates the internationally known trains Voralpen-Express/Treno Gottardo, Alpenrhein-Express, and the Aare Linth.
 
-For FIP discounts it should be noted that SP Coupons are not valid on lines where SOB operates only under an SBB licence, for example between Basel SBB and Arth-Goldau. On these routes, SBB FIP Coupons must be used instead. Continuous FIP 50 Tickets are possible, however. The following list includes only those routes on which SP Coupons are valid.
+{{% highlight important %}}
+When using FIP discounts, note that SP Coupons are not valid on routes where SOB operates in cooperation with SBB, for example between Basel SBB and Arth-Goldau. On these routes, only SBB FIP Coupons are valid instead. However, continuous FIP 50 Tickets are possible.
+{{% /highlight %}}
 
-#### Scheduled routes
-
-##### Routes with FIP validity
+#### Routes without SBB cooperation (SP Coupon required)
 
 - Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
-- Arth-Goldau – Bellinzona (either via Göschenen – Airolo or through the Gotthard Base Tunnel)
+- Arth-Goldau – Bellinzona (regardless of whether via Göschenen – Airolo or through the Gotthard Base Tunnel)
 
+On all other routes, only the SBB Coupon is valid.
 {{% /train-category %}}
 
 {{% train-category
