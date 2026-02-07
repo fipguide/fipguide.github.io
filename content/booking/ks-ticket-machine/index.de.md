@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Koleje Śląskie Fahrkartenautomate
 params:
   fip_50: true
   additional_info_link: "https://www.kolejeslaskie.pl/kup_bilet/na-dworcu/"
-  type: "onsite"
+  type: "machine"
 ---
 
 An einigen Bahnhöfen gibt es Koleje Śląskie Fahrkartenautomaten.

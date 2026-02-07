@@ -67,7 +67,7 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 
 ### Im Zug
 
-FIP 50 Fahrkarten können auch aufschlagsfrei direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Die Tickets können auf jeden Fall bar, oft auch mit kontaktloser Kreditkarte bezahlt werden. Eine Zahlung ist nur in der Landeswährung Złoty möglich.
+FIP 50 Fahrkarten können auch aufschlagsfrei direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Die Tickets können in bar oder mit kontaktloser Kreditkarte bezahlt werden. Eine Zahlung ist nur in der Landeswährung Złoty möglich.
 
 ## Ermäßigungen
 
