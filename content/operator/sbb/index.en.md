@@ -7,6 +7,8 @@ country:
 
 SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
 
+SBB provides a [network map of its routes](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf).
+
 ## Summary
 
 - SBB accepts FIP Coupons and FIP 50 Tickets.
@@ -19,8 +21,6 @@ FIP Coupon for relatives: ⛔ \
 FIP 50 Ticket: ✅
 
 FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
-
-[Overview SBB Network](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
 
 ## Train Categories and Reservations
 

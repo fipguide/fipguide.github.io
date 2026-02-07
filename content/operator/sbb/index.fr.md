@@ -7,6 +7,8 @@ country:
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
 
+Les CFF mettent à disposition une [carte de synthèse de leurs lignes](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf).
+
 ## Résumé
 
 - Les CFF acceptent les Coupons FIP et les Billets FIP 50.
@@ -19,8 +21,6 @@ Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables sans restriction sur les trains des CFF. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
-
-[Carte du réseau CFF (PDF)](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
 
 ## Catégories de trains et réservations
 

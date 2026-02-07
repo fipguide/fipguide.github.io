@@ -7,6 +7,8 @@ country:
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
 
+Die SBB stellt eine [Übersichtskarte ihrer Strecken](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf) zur Verfügung.
+
 ## Zusammenfassung
 
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
@@ -19,8 +21,6 @@ FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einschränkung gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
-
-[Übersicht SBB Netz](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
 
 ## Zugkategorien und Reservierungen
 
