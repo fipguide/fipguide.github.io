@@ -7,6 +7,8 @@ country:
 
 La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviaire publique de la [Suisse](/country/switzerland "Suisse"). Elle exploite de nombreuses liaisons de trains, de bus et de bateaux et circule principalement dans le canton de Berne.
 
+Sur son site web, la BLS propose une [carte schématique des lignes](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
+
 ## Résumé
 
 - La BLS accepte les Coupons FIP et les Billets FIP 50.
@@ -19,15 +21,13 @@ Coupon FIP : ✅ \
 Coupon FIP pour les ayants droit : ✅ \
 Billets FIP 50 : ✅
 
-[Vue d'ensemble du réseau BLS](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
-
 ## Catégories de trains et réservations
 
 Il n'y a pas d'obligation de réservation dans aucun train de la BLS.
 
 {{% train-category
         id="ir"
-        title="InterRegio (IR) / RegionalExpress (RE)"
+        title="InterRegio (IR) / RegioExpress (RE)"
         type="regional"
         fip_accepted=true
         reservation_required=false
@@ -49,7 +49,7 @@ Trains s'arrêtant à toutes les stations. Dans les zones urbaines, également a
 
 {{% train-category
         id="r"
-        title="PanormaExpress (PE) GoldenPassExpress"
+        title="PanormaExpress (PE)"
         type="regional"
         fip_accepted=true
         reservation_required=partially
@@ -106,6 +106,18 @@ Le FIP est valable sur les bateaux de la BLS sur le lac de Thoune et le lac de B
 {{% booking id="sbb-website"/%}}
 
 {{% booking id="db-website"/%}}
+
+{{% booking id="db-website-fip-db"
+        subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux collaborateurs de la Deutsche Bahn."
+%}}
+Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
+{{% /booking %}}
+
+{{% booking id="db-website-fip-international"
+        subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (non valable dans le pays d'émission de la Carte FIP)"
+%}}
+Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
+{{% /booking %}}
 
 ### Sur place
 

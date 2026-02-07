@@ -7,6 +7,8 @@ country:
 
 The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.
 
+The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf) on its website.
+
 ## Summary
 
 - BLS accepts FIP Coupon and FIP 50 Tickets.
@@ -19,15 +21,13 @@ FIP Coupon: ✅ \
 FIP Coupon for relatives: ✅ \
 FIP 50 Tickets: ✅
 
-[Overview of the BLS Network](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
-
 ## Train Categories and Reservations
 
 There is no reservation requirement on any BLS train.
 
 {{% train-category
         id="ir"
-        title="InterRegio (IR) / RegionalExpress (RE)"
+        title="InterRegio (IR) / RegioExpress (RE)"
         type="regional"
         fip_accepted=true
         reservation_required=false
@@ -49,7 +49,7 @@ Trains that stop at all stations. In urban areas also referred to as S-Bahn.
 
 {{% train-category
         id="r"
-        title="PanoramaExpress (PE) GoldenPassExpress"
+        title="Panorama Express (PE)"
         type="regional"
         fip_accepted=true
         reservation_required=partially
@@ -106,6 +106,18 @@ FIP is valid on BLS ships on Lake Thun and Lake Brienz.
 {{% booking id="sbb-website"/%}}
 
 {{% booking id="db-website"/%}}
+
+{{% booking id="db-website-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
+%}}
+For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
+{{% /booking %}}
+
+{{% booking id="db-website-fip-international"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the country of issuance of the FIP Card)"
+%}}
+For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
+{{% /booking %}}
 
 ### On-Site
 

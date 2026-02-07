@@ -7,6 +7,8 @@ country:
 
 Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.
 
+Auf ihrer Website bietet die BLS eine [Übersichtskarte der Strecken](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf) an.
+
 ## Zusammenfassung
 
 - Die BLS akzeptiert FIP Freifahrt und FIP 50 Tickets
@@ -18,8 +20,6 @@ Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahng
 FIP Freifahrtschein: ✅ \
 FIP Freifahrt Angehörige: ✅ \
 FIP 50 Tickets: ✅
-
-[Übersicht BLS Netz](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf)
 
 ## Zugkategorien und Reservierungen
 

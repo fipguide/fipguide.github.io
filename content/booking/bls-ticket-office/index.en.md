@@ -9,7 +9,7 @@ params:
     second: "CHF 5"
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.bls.ch/de/dienstleistungen/an-den-haltestellen/reisezentren"
+  additional_info_link: "https://www.bls.ch/en/dienstleistungen/an-den-haltestellen/reisezentren"
   type: "onsite"
 ---
 
