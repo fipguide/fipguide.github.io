@@ -5,13 +5,13 @@ country:
   - "switzerland"
 ---
 
-Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.
+Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.
 
 ## Zusammenfassung
 
-- Die BLS akzeptiert FIP Freifahrt und FIP 50 Tickets.
-- Die Nutzung aller Züge (außer Autozüge), Busse und Schiffe mit FIP möglich.
-- Keine Reservierungspflicht.
+- Die BLS akzeptiert FIP Freifahrt und FIP 50 Tickets
+- Die Nutzung aller Züge (außer Autozüge), Busse und Schiffe ist mit FIP möglich
+- Keine Reservierungspflicht
 
 ## Gültigkeit FIP-Tickets
 
@@ -27,7 +27,7 @@ In keinem Zug der BLS gibt es eine Reservierungspflicht.
 
 {{% train-category
     id="ir"
-    title="InterRegio (IR) / RegionalExpress (RE)"
+    title="InterRegio (IR) / RegioExpress (RE)"
     type="regional"
     fip_accepted=true
     reservation_required=false
@@ -49,7 +49,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 
 {{% train-category
     id="r"
-    title="PanormaExpress (PE) GoldenPassExpress"
+    title="Panorama Express (PE)"
     type="regional"
     fip_accepted=true
     reservation_required=partially
@@ -107,6 +107,18 @@ FIP ist auf den Schiffen der BLS auf dem Thunersee und Brienzersee gültig.
 
 {{% booking id="db-website"/%}}
 
+{{% booking id="db-website-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
+{{% /booking %}}
+
+{{% booking id="db-website-fip-international"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+%}}
+Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="bls-ticket-office"/%}}
@@ -139,7 +151,7 @@ Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB. Mit dem Freifahrtschein der BLS kann man mit Angehörigen die Schweiz dennoch zu großen Teilen erkunden.
+Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB. Mit dem Freifahrtschein der BLS kann man mit Angehörigen die Schweiz dennoch zu einem großen Teil erkunden.
 {{% /highlight %}}
 
 ## Quellen
