@@ -22,6 +22,8 @@ Additionally, international [Eurostar](/operator/eurostar "Eurostar") trains ope
 
 Other operators such as Arriva Nederland or the cross-border `RE` trains Arnhem - Düsseldorf, Venlo - Hamm, and Maastricht - Aachen unfortunately do not accept FIP. All buses (except rail replacement services), trams, and metros are also excluded.
 
+{{< identify-operator sources="ns-website,db-website" />}}
+
 ## Interesting
 
 The Netherlands has a very dense rail network, offering some of the best regular interval services internationally. Most routes are served at least every 30 minutes, with main lines much more frequently.
@@ -37,8 +39,8 @@ A special feature in the Netherlands is that almost all larger stations have tic
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Germany (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Belgium (SNCB) | Roosendaal (fr), Visé |
+| [Germany](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
 {{% /expander %}}
 
 ### Germany

@@ -131,13 +131,17 @@ Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des 
   position="right"
 %}}
 
-Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhälst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
+Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhältst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
 
 Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühren 10,30 £ / 12 € pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
 
 {{% /float-image %}}
 
 {{% /expander %}}
+
+### Online
+
+{{% booking id="stena-line-email" /%}}
 
 ### Telefon
 
@@ -154,6 +158,10 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 14 Jahren zahlen sie den Erwachsenen-Tarif. [^2]
 
 ## Empfehlungen
+
+{{% highlight important %}}
+Bitte beachte, dass der CheckIn nur bis 45 Minuten vor dem Ablegen möglich ist. Plane für die Anreise also ausreichend Zeit ein.
+{{% /highlight %}}
 
 Die Anreise zur Station _Hoek van Holland Haven_ erfolgt in der Regel mit der Metro-Linie B aus Richtung Rotterdam und Schiedam.
 

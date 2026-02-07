@@ -8,6 +8,8 @@ country: "luxembourg"
 
 In Luxemburg ist der komplette öffentliche Nahverkehr kostenlos. Daher werden FIP 50 Tickets und Freifahrtscheine der [CFL](/operator/cfl "CFL") nur für Fahrten in der ersten Klasse oder für grenzüberschreitende Verbindungen benötigt. Die `TGV` Verbindungen von/nach Frankreich können mit einem FIP Freifahrtschein der CFL nicht für Fahrten in Luxemburg genutzt werden. Stattdessen müssen hier teure FIP Globalpreistickets gekauft werden.
 
+{{< identify-operator sources="cfl-website,db-website" />}}
+
 ## Wissenswertes
 
 Die Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise auch durch die Berge, u. a. in Clervaux. Von dieser Hauptstrecke zweigen auch einige Nebenbahnen ab, die meist eher langsam sind, dafür aber auch einige schöne Orte beinhalten, z. B. zwischen Kautenbach und Wiltz.
@@ -17,9 +19,9 @@ Die Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise 
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Belgien (SNCB) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Deutschland (DB) | Igel (Gr) |
-| Frankreich (SNCF) | Bettembourg (fr), Rodange (fr) |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Igel (Gr) |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Bettembourg (fr), Rodange (fr) |
 
 {{% /expander %}}
 

@@ -15,6 +15,8 @@ In Spain, using FIP is not always straightforward, as simply boarding and riding
 
 [Renfe](/operator/renfe "Renfe") is the largest railway operator in Spain and accepts FIP. On lucrative routes, it competes with many private providers like [OUIGO](/operator/sncf#long-distance "OUIGO") or Iryo, which do not accept FIP. Another provider in the Basque Country is [Euskotren](/operator/euskotren), which also accepts FIP.
 
+{{< identify-operator sources="renfe-website,renfe-commuter-website,euskotren-website,db-website" />}}
+
 ## Insteresting
 
 Spain does not have a particularly dense rail network; instead, it mainly consists of new high-speed standard gauge lines and older regional lines in Iberian broad gauge.
@@ -30,8 +32,8 @@ Furthermore, for long-distance travel, luggage checks are conducted at the stati
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Portugal (CP) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| France (SNCF) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
+| [Portugal](/country/portugal) ([CP](/operator/cp)) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
 {{% /expander %}}
 
 ### France

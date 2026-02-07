@@ -117,7 +117,7 @@ East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic 
   reservation_possible=false
 %}}
 
-La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain.
+La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain. La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
 
 {{% highlight tip %}}
 Certaines stations de la Elizabeth Line sont aussi desservies par le métro londonien. Les portiques de ces stations sont souvent surveillés par du personnel TfL. Pour éviter toute confusion, il convient de préciser l’utilisation de la Elizabeth Line lors de la présentation du Coupon FIP.
@@ -251,7 +251,7 @@ En première classe, snacks, repas et boissons (alcoolisées) sont servis.
   reservation_possible=false
 %}}
 
-London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres.
+London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres. Toutes les lignes de la London Overground font partie de National Rail et peuvent être utilisées avec les réductions FIP. [^1]
 
 {{% /train-category %}}
 
@@ -418,7 +418,7 @@ West Midlands Trains exploite des liaisons locales et régionales sous deux marq
 
 ## Achat de billets et réservations
 
-Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 n’est pas accordée sur tous les billets.
+Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 n’est pas accordée sur tous les billets. Le [site BR Fares](https://www.brfares.com/) permet de rechercher des tarifs sur une ligne en ajoutant "FIP Discount 50%" ou "FIP Discount 75%" comme réduction.
 
 - **Billets Anytime :** \
   Ces billets sont flexibles et peuvent être utilisés à tout moment de la journée. Le prix est constant et non soumis à des quotas. La Réduction FIP 50 s’applique à ces billets. Il existe des billets Single (aller simple) et Return (aller-retour). Un billet Return peut parfois être moins cher que deux billets Single. L’interruption de voyage est possible.
@@ -427,15 +427,49 @@ Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP
 - **Billets Advance :** \
   Ces billets sont fortement réduits mais ne sont valables que pour le train sélectionné. Ils peuvent être achetés jusqu’à 10 minutes avant le départ. La Réduction FIP 50 ne s’applique pas à ces billets.
 - **Rovers :** \
-  Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s’applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n’est accordée que sur demande.
+  Les Rovers sont des billets valables un ou plusieurs jours pour des trajets illimités dans une zone spécifique. La Réduction FIP 50 s'applique à certains Rovers. Le [site National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) donne un aperçu des Rovers disponibles. La Réduction FIP 50 n'est accordée que sur demande.
 
-{{% highlight inofficial %}}
-[En ligne](https://www.railforums.co.uk/threads/priv-rovers-and-rangers-2024.270531/) il existe une liste non officielle des Rovers pour lesquels des réductions nationales sont accordées. Il est probable que la réduction FIP s’applique également à ces Rovers.
+  [BR Fares](https://www.brfares.com/!roverhome) propose une page où vous pouvez saisir le nom du Rover et sélectionner "FIP Discount 50%" ou "FIP Discount 75%" comme option de réduction. Si un résultat s'affiche, le Rover est valable avec FIP, sinon il ne l'est pas.
 
-En règle générale : les billets valables exclusivement sur les services National Rail sont généralement acceptés. Les billets combinés train et bus ne sont en principe pas valables. Pour les billets couvrant à la fois National Rail et des lignes historiques, la validité doit être vérifiée au cas par cas.
+  {{% expander "Liste des Rovers disponibles avec réduction FIP" info "rover" %}}
+  Il s’agit d’une liste non officielle des Rovers disponibles fournie par la communauté (état au 24 janvier 2026). [^3]
 
-Par exemple, le Isle of Wight Ranger couvrant uniquement les services SWR est valable avec FIP, tandis que la version incluant les trains à vapeur ne l’est pas (même si ceux-ci sont parfois vendus avec réduction FIP). [^3]
-{{% /highlight %}}
+  Elle peut servir d’orientation ; toutefois, les offres individuelles doivent être vérifiées via BR Fares.
+
+  | Name                        | Rover Code | NLC  | FIP 50 | FIP 75 |
+  | --------------------------- | ---------- | ---- | ------ | ------ |
+  | ANGLIA PLUS DAY RANGER      | AP1        | K285 | 14.85  | X      |
+  | BITTERN LINE DAY RANGER     | BV1        | I013 | 9.50   | X      |
+  | CAMBRIAN COASTER DAY RANGER | CCD        | I395 | 9.50   | 4.75   |
+  | CORNWALL RANGER             | CRD        | J118 | 8.50   | 4.25   |
+  | DEVON RANGER                | TSA        | I857 | 8.50   | 4.25   |
+  | EAST SUFFOLK DAY RANGER     | ESR        | I531 | 12.45  | X      |
+  | EXPLORE CARDIFF & VALLEYS   | VDR        | I494 | 8.00   | 4      |
+  | EXPLORE NORTH WALES         | W37        | H515 | 59.50  | 29.75  |
+  | EXPLORE SOUTH WALES         | SW3        | H746 | 59.50  | 29.75  |
+  | EXPLORE THE CAPITAL         | ECC        | I512 | 3.75   | 1.85   |
+  | EXPLORE WALES               | SW4        | H743 | 74.50  | 37.25  |
+  | FODC ROVER 3 IN 7           | D07        | I650 | 33.50  | X      |
+  | FODC ROVER 8 IN 15 DAYS     | D37        | I659 | 53.75  | X      |
+  | FOSS ROVER 3 IN 7 DAYS      | S37        | I863 | 39.75  | 19.90  |
+  | FOSS ROVER 8IN 15 DAYS      | WR7        | I862 | 53.75  | 26.90  |
+  | FOSW ROVER 3 IN 7 DAYS      | TSR        | I855 | 67.75  | 33.90  |
+  | FOSW ROVER 8 IN 15 DAYS     | SW7        | I621 | 94.25  | 125.55 |
+  | HEART OF WESSEX RANGER      | TSV        | I858 | 13.75  | 6.90   |
+  | KENNET DAY RANGER           | KDR        | I784 | 8.75   | 4.40   |
+  | NORTH DOWNS DAY RANGER      | NDD        | I358 | 11.00  | 5.50   |
+  | NORTH WALES ALL ZONE        | NMW        | H522 | 22.50  | 11.25  |
+  | OXFORDSHIRE DAY RANGER      | ODR        | I432 | 11.00  | 5.50   |
+  | ST IVES LINE DAY            | SID        | I294 | 2.10   | 1.05   |
+  | THAMES BRANCHES DAY RANGER  | TBR        | I066 | 13.75  | 6.9    |
+  | THAMES ROVER 3 DAYS         | TR3        | I367 | 33.50  | X      |
+  | THAMES ROVER 7 DAYS         | TR7        | I367 | 60.50  | X      |
+  | Waterside Wander Ranger     | WRR        | I437 | 6.75   | X      |
+
+  {{% highlight important %}}
+  FOSW ROVER 8 IN 15 DAYS est plus cher avec FIP 75.
+  {{% /highlight %}}
+  {{% /expander %}}
 
 - **Abonnements et billets Londres :** \
   Trajets illimités entre deux gares pour une période donnée ou dans les zones londoniennes spécifiées pour une période donnée. La Réduction FIP 50 n’est pas disponible.
@@ -476,28 +510,35 @@ De nombreuses gares au Royaume-Uni sont équipées de portiques de contrôle qui
 
 ### Transports à Londres
 
-La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n’offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La [Elizabeth Line](#elizabeth-line) et la London Overground peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme [Thameslink](#thameslink), qui traversent Londres, peuvent également être utilisés avec les Coupons FIP. Le [Heathrow Express](#heathrow-express) peut également être utilisé.
-{{% expander "Elizabeth Line" info "london" %}}
-La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
+La plupart des services de transport à Londres sont exploités par Transport for London (TfL). Ceux-ci n'offrent généralement pas de réductions FIP, sauf dans des conditions particulières. La [Elizabeth Line](#elizabeth-line) et la [London Overground](#london-overground) peuvent être utilisées sans restriction avec FIP. Certains trains régionaux comme [Thameslink](#thameslink), qui traversent Londres, peuvent également être utilisés avec les Coupons FIP. Le [Gatwick Express](#gatwick-express) et le [Heathrow Express](#heathrow-express) peuvent également être utilisés.
 
-Plus d’informations : [voir Elizabeth Line](#elizabeth-line)
-{{% /expander %}}
+{{% train-category
+  id="london-buses-dlr-tram"
+  title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise"
+  type="bus"
+  fip_accepted=false
+  reservation_required=false
+%}}
 
-{{% expander "London Overground" info "london" %}}
-Toutes les lignes de la London Overground font partie de National Rail et peuvent être utilisées avec les réductions FIP. [^1]
-{{% /expander %}}
+Les bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise sont exploités par TfL et n'acceptent pas les réductions FIP. [^1]
 
-{{% expander "Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise" info "london" %}}
-Les bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line,
-Téléphérique et bateaux sur la Tamise sont exploités par TfL et n’acceptent pas les réductions FIP. [^1]
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "London Underground" info "london" %}}
-Le métro londonien est exploité par TfL et n’accepte pas les réductions FIP.
+{{% train-category
+  id="london-underground-london"
+  title="London Underground"
+  type="subway"
+  fip_accepted=false
+  reservation_required=false
+%}}
 
-**Exception :** \
-Avec les Billets FIP 50 National Rail nécessitant un transfert entre gares londoniennes, le métro peut être utilisé exclusivement pour la liaison entre ces gares. L’interruption du trajet dans le métro n’est pas autorisée. Les billets valables pour ce transfert sont marqués ✠ (croix de Malte) ou † (poignard). [^1]
-{{% /expander %}}
+Le métro londonien est exploité par TfL et n'accepte pas les réductions FIP.
+
+{{< highlight important >}}
+Avec les Billets FIP 50 National Rail nécessitant un transfert entre gares londoniennes, le métro peut être utilisé exclusivement pour la liaison entre ces gares. L'interruption du trajet dans le métro n'est pas autorisée. Les billets valables pour ce transfert sont marqués ✠ (croix de Malte) ou † (poignard). [^1]
+{{< /highlight >}}
+
+{{% /train-category %}}
 
 ### Lignes historiques / trains touristiques
 
@@ -507,47 +548,110 @@ Les lignes historiques circulent généralement selon des horaires saisonniers e
 
 Les billets enfants réguliers peuvent être moins chers que les billets avec réduction FIP.
 
-{{% expander "Dartmouth Steam Railway and River Boat Company" info "heritage_railway" %}}
-**Description :** \
-La [Dartmouth Steam Railway and River Boat Company](https://dartmouthrailriver.co.uk) propose des trajets en locomotive à vapeur et voitures historiques entre Paignton et Kingswear le long de la pittoresque Riviera anglaise. La ligne offre de superbes vues sur la côte du Devon et la rivière Dart. Le ferry de Kingswear à Dartmouth est inclus dans le prix. La gare National Rail la plus proche est Paignton – à seulement 1 minute à pied de la gare de la ligne historique. \
-**Réduction :** 75 %
-{{% /expander %}}
+{{% train-category
+  id="dartmouth-steam-railway"
+  title="Dartmouth Steam Railway and River Boat Company"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://dartmouthrailriver.co.uk"
+%}}
 
-{{% expander "Ffestiniog and Welsh Highland Railway" info "heritage_railway" %}}
-**Description :** \
-La [Ffestiniog and Welsh Highland Railway](https://festrail.co.uk) est l’une des plus anciennes lignes à voie étroite du monde, reliant Porthmadog, Caernarfon, Blaenau Ffestiniog et Minffordd. Elle traverse les montagnes spectaculaires du Snowdonia. Depuis la gare National Rail de Bangor, prendre le bus 5C (environ 30 minutes) jusqu’à Caernarfon Bus Station, puis marcher (4 minutes, 500 m) jusqu’à la gare. Des correspondances directes existent aussi à Blaenau Ffestiniog (National Rail, quai 1), Minffordd (50 m à pied) et Porthmadog (environ 13 minutes à pied, 1 km). \
-**Réduction :** 75 %
-{{% /expander %}}
+La Dartmouth Steam Railway and River Boat Company propose des trajets en locomotive à vapeur et voitures historiques entre Paignton et Kingswear le long de la pittoresque Riviera anglaise. La ligne offre de superbes vues sur la côte du Devon et la rivière Dart. Le ferry de Kingswear à Dartmouth est inclus dans le prix. La gare National Rail la plus proche est Paignton – à seulement 1 minute à pied de la gare de la ligne historique.
 
-{{% expander "Isle of Wight Steam Railway" info "heritage_railway" %}}
-**Description :** \
-La [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk) circule sur l’île de Wight entre Smallbrook Junction et Wootton. Elle est connue pour ses locomotives et voitures victoriennes restaurées avec soin. L’accès le plus simple se fait via Smallbrook Junction, avec une correspondance directe depuis National Rail (1 minute à pied). \
-**Réduction :** 50 %
-{{% /expander %}}
+La réduction est de 75 % sur le tarif adulte régulier.
 
-{{% expander "Kent and East Sussex Railway" info "heritage_railway" %}}
-**Description :** \
-La [Kent and East Sussex Railway](https://kesr.org.uk) relie Tenterden à Bodiam à travers les collines du sud-est de l’Angleterre. La ligne propose des trains à vapeur et diesel. Depuis Ashford International, prendre le bus 2 ou 2A (45–55 minutes, 20 km) jusqu’à Tenterden Town Centre (The Vine), puis marcher (3 minutes, 250 m) jusqu’à la gare. Depuis Headcorn, prendre le bus 12 ou 12RL (25 minutes). \
-**Réduction :** 50 %
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Llanberis Lake Railway" info "heritage_railway" %}}
-**Description :** \
-La [Llanberis Lake Railway](https://lake-railway.co.uk) longe le Llyn Padarn au cœur du parc national de Snowdonia. La ligne historique à voie étroite offre de magnifiques vues sur les montagnes autour de Llanberis. Depuis la gare de Bangor, prendre le bus 85 ou 86 (environ 50 minutes) jusqu’à Llanberis Interchange ; de là, 1 minute à pied jusqu’à la gare de la ligne historique. \
-**Réduction :** 50 %
-{{% /expander %}}
+{{% train-category
+  id="ffestiniog-welsh-highland-railway"
+  title="Ffestiniog and Welsh Highland Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://festrail.co.uk"
+%}}
 
-{{% expander "National Tramway Museum (Crich Tramway Village)" info "heritage_railway" %}}
-**Description :** \
-Le [National Tramway Museum](https://tramway.co.uk) à Crich abrite l’une des plus grandes collections de tramways historiques au monde. Les visiteurs peuvent voyager à bord de trams restaurés sur une ligne traversant le village reconstitué « Crich Tramway Village ». Depuis la gare de Matlock, prendre le bus 140 ou 141 (environ 32 minutes, 11 km), ou marcher depuis Whatstandwell (environ 35 minutes, 2,2 km). \
-**Réduction :** 2 personnes pour le prix d’1
-{{% /expander %}}
+La Ffestiniog and Welsh Highland Railway est l'une des plus anciennes lignes à voie étroite du monde, reliant Porthmadog, Caernarfon, Blaenau Ffestiniog et Minffordd. Elle traverse les montagnes spectaculaires du Snowdonia. Depuis la gare National Rail de Bangor, prendre le bus 5C (environ 30 minutes) jusqu'à Caernarfon Bus Station, puis marcher (4 minutes, 500 m) jusqu'à la gare. Des correspondances directes existent aussi à Blaenau Ffestiniog (National Rail, quai 1), Minffordd (50 m à pied) et Porthmadog (environ 13 minutes à pied, 1 km).
 
-{{% expander "Talyllyn Railway Company" info "heritage_railway" %}}
-**Description :** \
-La [Talyllyn Railway](https://talyllyn.co.uk) est la plus ancienne ligne à voie étroite préservée au monde circulant encore sur son tracé d’origine. Elle relie Tywyn Wharf à Nant Gwernol au centre du Pays de Galles. La gare National Rail de Tywyn est à seulement 350 m (4 minutes à pied) de la gare Wharf Station. \
-**Réduction :** 50 %
-{{% /expander %}}
+La réduction est de 75 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="isle-of-wight-steam-railway"
+  title="Isle of Wight Steam Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://iwsteamrailway.co.uk"
+%}}
+
+La Isle of Wight Steam Railway circule sur l'île de Wight entre Smallbrook Junction et Wootton. Elle est connue pour ses locomotives et voitures victoriennes restaurées avec soin. L'accès le plus simple se fait via Smallbrook Junction, avec une correspondance directe depuis National Rail (1 minute à pied).
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="kent-east-sussex-railway"
+  title="Kent and East Sussex Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://kesr.org.uk"
+%}}
+
+La Kent and East Sussex Railway relie Tenterden à Bodiam à travers les collines du sud-est de l'Angleterre. La ligne propose des trains à vapeur et diesel. Depuis Ashford International, prendre le bus 2 ou 2A (45–55 minutes, 20 km) jusqu'à Tenterden Town Centre (The Vine), puis marcher (3 minutes, 250 m) jusqu'à la gare. Depuis Headcorn, prendre le bus 12 ou 12RL (25 minutes).
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="llanberis-lake-railway"
+  title="Llanberis Lake Railway"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://lake-railway.co.uk"
+%}}
+
+La Llanberis Lake Railway longe le Llyn Padarn au cœur du parc national de Snowdonia. La ligne historique à voie étroite offre de magnifiques vues sur les montagnes autour de Llanberis. Depuis la gare de Bangor, prendre le bus 85 ou 86 (environ 50 minutes) jusqu'à Llanberis Interchange ; de là, 1 minute à pied jusqu'à la gare de la ligne historique.
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="national-tramway-museum"
+  title="National Tramway Museum (Crich Tramway Village)"
+  type="tram"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://tramway.co.uk"
+%}}
+
+Le National Tramway Museum à Crich abrite l'une des plus grandes collections de tramways historiques au monde. Les visiteurs peuvent voyager à bord de trams restaurés sur une ligne traversant le village reconstitué « Crich Tramway Village ». Depuis la gare de Matlock, prendre le bus 140 ou 141 (environ 32 minutes, 11 km), ou marcher depuis Whatstandwell (environ 35 minutes, 2,2 km).
+
+La réduction est de 2 personnes pour le prix d'1.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="talyllyn-railway"
+  title="Talyllyn Railway Company"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=nil
+  additional_information_url="https://talyllyn.co.uk"
+%}}
+
+La Talyllyn Railway est la plus ancienne ligne à voie étroite préservée au monde circulant encore sur son tracé d'origine. Elle relie Tywyn Wharf à Nant Gwernol au centre du Pays de Galles. La gare National Rail de Tywyn est à seulement 350 m (4 minutes à pied) de la gare Wharf Station.
+
+La réduction est de 50 % sur le tarif adulte régulier.
+
+{{% /train-category %}}
 
 ## Recommandations
 
@@ -568,7 +672,7 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 
 [^2]: [Caledonian Sleeper - Avant votre voyage](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [Retour d’expérience Rover sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1452026899705368738)
+[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
 [^4]: [Retour d’expérience Heathrow Express sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 

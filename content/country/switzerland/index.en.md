@@ -24,6 +24,8 @@ Together, these cover almost the entire Swiss rail network, including some means
 
 Only a few very touristy services are not included in FIP. Additionally, cross-border travel on long-distance trains to France and Italy involves some effort, as special surcharges apply here.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Interesting
 
 Switzerland has one of the densest rail networks in the world. Despite challenging topography, most of the country is accessible by train. Trains run frequently, especially on main lines, and are well coordinated in an integrated timetable. Although most lines are not built for very high speeds, short connections often result in manageable travel times. The Swiss rail system is also known for its punctuality, though exceptions exist. The country is well connected by rail to its neighbors, with regular trains.
@@ -33,10 +35,10 @@ Switzerland has one of the densest rail networks in the world. Despite challengi
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Germany (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| Italy (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| Austria (ÖBB) | Buchs (SG), St. Margrethen |
-| France (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+| [Germany](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Italy](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
 
 \
 [>] = Direction (e.g. Locarno [> Domodossola] = Locarno is the border point towards Domodossola)

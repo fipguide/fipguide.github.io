@@ -13,6 +13,8 @@ La principale compagnie ferroviaire en Lettonie est Latvijas dzelzceļš (LDz), 
 
 De plus, la compagnie ferroviaire lituanienne [LTG-Link](/operator/ltg) assure des liaisons entre la capitale lituanienne Vilnius, la capitale lettone Riga et Valga. Les avantages FIP sont valables sur la section lettone jusqu’à Riga, selon les mêmes conditions qu’en Lituanie.
 
+{{< identify-operator sources="ltg-website" />}}
+
 ## Informations générales
 
 Le réseau ferroviaire letton utilise l’écartement large de 1520 mm. Le trafic voyageurs est centré sur Riga : la gare principale sert de nœud central pour la plupart des lignes régionales et locales. L’électrification concerne principalement les lignes de banlieue autour de Riga et utilise du courant continu 3 kV, tandis que le reste du réseau fonctionne principalement au diesel. Parallèlement, le projet Rail Baltica crée un nouvel axe international, avec des travaux visibles autour de la gare principale.
@@ -23,7 +25,7 @@ Le réseau ferroviaire letton utilise l’écartement large de 1520 mm. Le tra
 | Pays | Points frontières |
 | --- | --- |
 | Estonie | Valga |
-| Lettonie (LDz) | Joniškis |
+| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis |
 | Biélorussie | Frontière fermée |
 | Russie | Frontière fermée |
 {{% /expander %}}

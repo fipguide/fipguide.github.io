@@ -8,6 +8,8 @@ country: "luxembourg"
 
 In Luxembourg, all local public transport is free of charge. Therefore, FIP 50 Tickets and FIP Coupons of [CFL](/operator/cfl "CFL") are only required for first class journeys or for cross-border connections. The `TGV` connections to/from France cannot be used within Luxembourg with a CFL FIP Coupon. Instead, expensive FIP Global Fare tickets must be purchased.
 
+{{< identify-operator sources="cfl-website,db-website" />}}
+
 ## Interesting
 
 The main north-south line runs through the entire country and partly through the mountains, for example in Clervaux. Several branch lines diverge from this main line, which are usually rather slow but pass through some beautiful places, such as between Kautenbach and Wiltz.
@@ -17,9 +19,9 @@ The main north-south line runs through the entire country and partly through the
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Belgium (SNCB) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Germany (DB) | Igel (Gr) |
-| France (SNCF) | Bettembourg (fr), Rodange (fr) |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Germany](/country/germany) ([DB](/operator/db)) | Igel (Gr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Bettembourg (fr), Rodange (fr) |
 
 {{% /expander %}}
 

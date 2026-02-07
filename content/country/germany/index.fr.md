@@ -98,6 +98,8 @@ En Allemagne, il existe plus de 80 opérateurs différents, mais le FIP n’est 
 
 En raison de la grande diversité des opérateurs, il est conseillé de planifier son voyage à l’avance pour pouvoir profiter du FIP. À l’exception de Flixtrain, WESTbahn et de certaines liaisons de trains de nuit, les trains grandes lignes allemands sont accessibles. En trafic régional, la DB exploite de nombreuses lignes, ce qui permet de voyager facilement.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Informations générales
 
 Le réseau ferroviaire allemand s’étend sur environ 39 200 km, ce qui en fait l’un des plus grands d’Europe. Outre les axes principaux très fréquentés, il existe de nombreuses lignes secondaires exploitées notamment par des associations ou des acteurs locaux.
@@ -135,18 +137,18 @@ L’« Allianz pro Schiene » récompense chaque année les plus belles gares 
 {{% expander "Points frontière" border %}}
 | Pays | Points frontière |
 | --- | --- |
-| Belgique (SNCB) | Aachen Süd (Gr) |
-| BSB | Friedrichshafen, Langenargen, Lindau, Constance, Radolfzell, Schaffhausen, Überlingen |
-| Danemark (DSB) | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr) |
-| Eurostar | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne |
-| France (SNCF) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr) |
-| Luxembourg (CFL) | Igel (Gr) |
-| Pays-Bas (NS) | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Autriche (ÖBB) | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn |
-| Pologne (PKP) | Alhlbeck (Gr), Forst (Gr), Francfort (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Tchéquie (ČD) | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Aachen Süd (Gr) |
+| [BSB](/operator/bsb) | Friedrichshafen, Langenargen, Lindau, Constance, Radolfzell, Schaffhausen, Überlingen |
+| [Danemark](/country/denmark) ([DSB](/operator/dsb)) | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr) |
+| [Eurostar](/operator/eurostar) | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Igel (Gr) |
+| [Pays-Bas](/country/netherlands) ([NS](/operator/ns)) | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb)) | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn |
+| [Pologne](/country/poland) ([PKP](/operator/pkp)) | Alhlbeck (Gr), Forst (Gr), Francfort (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Tchéquie](/country/czechia) ([ČD](/operator/cd)) | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
 | Suède (SJ) | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr) |
-| Suisse (SBB, BLS, SP) | Basel Bad Bf, Constance, Schaffhausen, Waldshut |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Constance, Schaffhausen, Waldshut |
 
 MS = Mitte See
 {{% /expander %}}
@@ -165,7 +167,7 @@ En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni
 
 ### France
 
-Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
+Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
 
 {{% highlight tip %}}
 Une option économique pour rejoindre l’Allemagne depuis Strasbourg est le tram jusqu’à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l’Ortenau S-Bahn jusqu’à Offenburg. Le FIP n’est pas valable sur cette ligne, mais le Deutschlandticket l’est (les réductions DB ne s’appliquent ici qu’avec des billets NE).

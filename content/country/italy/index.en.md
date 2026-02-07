@@ -20,6 +20,8 @@ In Italy, local trains are mostly operated by [Trenitalia](/operator/fs "Trenita
 
 For long-distance travel, the Frecce trains of Trenitalia can only be used with expensive reservations (including surcharge). Additionally, trains of the private operator Italo are not usable with FIP Tickets.
 
+{{< identify-operator sources="fs-website,db-website" />}}
+
 ## Interesting
 
 Italy has an extensive rail network. The fast and high-quality long-distance connections are particularly noteworthy, making it possible to travel between northern and southern Italy in a short time. Away from the high-speed lines, there are many classic and sometimes very scenic regional train routes. For example, the railway line through Cinque Terre in Liguria, where trains stop frequently in all five towns, is the most important connection between these otherwise hard-to-reach places. Regional trains in Italy do not run on a classic regular interval timetable, but usually at irregular intervals. Sicily can be reached by night and InterCity trains, which cross the Strait of Messina by Trenitalia ferry.
@@ -29,9 +31,9 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Austria (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Switzerland (SBB, BLS, SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| France (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slovenia (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
 | Ferry (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 

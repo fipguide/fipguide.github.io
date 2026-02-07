@@ -9,11 +9,13 @@ params:
 
 ## Informations FIP
 
-La Slovaquie peut être facilement parcourue en train avec un Billet FIP 50 ou un Coupon FIP. Le dispositif FIP inclut l’opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les Billets FIP ŽSR sont valables.
+La Slovaquie peut être facilement parcourue en train avec un Billet FIP 50 ou un Coupon FIP. Le dispositif FIP inclut l’opérateur ŽSR (Železnice Slovenskej republiky — Chemins de fer de la République slovaque). Les trains sont exploités par la [ZSSK](/operator/zssk "ŽSR/ZSSK") (Železničná spoločnosť Slovensko), pour laquelle les Billets FIP ŽSR sont valables.
 
 Une attention particulière doit être portée aux conditions de réservation sur les trains grandes lignes, ainsi qu’aux règles étendues pour le transport gratuit des enfants.
 
 D’autres opérateurs comme LeoExpress et RegioJet circulent également en Slovaquie, mais n’acceptent pas les Billets FIP. Dans les horaires, ils sont abrégés `LE` et `RJ` (à ne pas confondre avec `RJ` pour Railjet). En cas de doute, vérifiez l’opérateur via son site ou via [Bahn.de](https://int.bahn.de/fr/).
+
+{{< identify-operator sources="zssk-website,db-website,vagonweb" />}}
 
 ## Informations générales
 
@@ -31,8 +33,8 @@ Un point fort est le voyage dans les Hautes Tatras à bord de la Tatranská žel
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Tchéquie (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| Hongrie (GySEV) | Rajka (Gr) |
+| [Tchéquie](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Hongrie ([GySEV](/operator/gysev)) | Rajka (Gr) |
 | Hongrie (MÁV) | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
 {{% /expander %}}
 
@@ -47,7 +49,7 @@ Depuis l’Autriche, il existe deux liaisons régionales possibles pour rejoindr
 - Une liaison traverse le nord du Danube depuis Vienne via Marchegg jusqu’à la gare principale de Bratislava (Bratislava hl.st.)
 - Une autre liaison part de Vienne via Kittsee vers le sud de Bratislava (Bratislava Petrzalka)
 
-Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ZSR / ZSSK") est requis pour la section slovaque.
+Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") est requis pour la section slovaque.
 
 Il existe également quelques liaisons `EC` supplémentaires.
 

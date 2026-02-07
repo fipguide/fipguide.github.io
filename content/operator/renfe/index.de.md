@@ -31,89 +31,157 @@ Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen
 
 ### Langstrecke
 
-{{% expander "AVE ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
+{{% train-category
+    id="ave"
+    title="AVE"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
 Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
 Die internationalen AVE von / nach Frankreich sind zu den gleichen Konditionen wie inländische AVE buchbar, wobei es keine Premium Kategorie gibt. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
 
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 10€ \
-Elige Confort: 13€ \
-Premium: 23,50€
-{{% /expander %}}
+**FIP Globalpreis (Distanzunabhängig):**
 
-{{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h). \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP:** ⛔ FIP wird nicht anerkannt
-{{% /expander %}}
+- Elige: 10 €
+- Elige Confort: 13 €
+- Premium: 23,50 €
 
-{{% expander "Euromed ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 6,50€ \
-Elige Confort: 10€ \
-Premium: 23,50€
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Alvia ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 6,50€ \
-Elige Confort: 10€
-{{% /expander %}}
+{{% train-category
+    id="avlo"
+    title="Avlo"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-{{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** \
-Elige: 6,50€ \
-Elige Confort: 10€
-{{% /expander %}}
+Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h).
 
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
-**Beschreibung:** \
-Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** 4€
-{{% /expander %}}
+{{% /train-category %}}
+
+{{% train-category
+    id="euromed"
+    title="Euromed"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtscheine werden nicht anerkannt.
+
+**FIP Globalpreis (Distanzunabhängig):**
+
+- Elige: 6,50 €
+- Elige Confort: 10 €
+- Premium: 23,50 €
+
+{{% /train-category %}}
+
+{{% train-category
+    id="alvia"
+    title="Alvia"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
+
+**FIP Globalpreis (Distanzunabhängig):**
+
+- Elige: 6,50 €
+- Elige Confort: 10 €
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
+
+**FIP Globalpreis (Distanzunabhängig):**
+
+- Elige: 6,50 €
+- Elige Confort: 10 €
+
+{{% /train-category %}}
+
+{{% train-category
+    id="celta"
+    title="Celta: Porto – Vigo"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt.
+
+**FIP Globalpreis (Distanzunabhängig):** 4 €
+
+{{% /train-category %}}
 
 ### Mittelstrecke
 
-{{% expander "Avant ⚠️" traincategory "middle-distance" %}}
-**Beschreibung:** \
-Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden nicht anerkannt. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**FIP Globalpreis (Distanzunabhängig):** 4€
-{{% /expander %}}
+{{% train-category
+    id="avant"
+    title="Avant"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-{{% expander "MD ⚠️" traincategory "middle-distance" %}}
-**Beschreibung:** \
-Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (Außnahme: Route Barcelona(-Girona-Figueres)-Port Bou[^1]) \
-**FIP Globalpreis (Distanzunabhängig):** 4€
-{{% /expander %}}
+Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden nicht anerkannt.
+
+**FIP Globalpreis (Distanzunabhängig):** 4 €
+
+{{% /train-category %}}
+
+{{% train-category
+    id="md"
+    title="MD"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall.
+
+**FIP Globalpreis (Distanzunabhängig):** 4 €
+
+#### Reservierung
+
+Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres)-Port Bou[^1].
+
+{{% /train-category %}}
 
 ### Nahverkehr
 
-{{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
-**Beschreibung:** \
+{{% train-category
+    id="regional"
+    title="Cercanías / Rodalia / Aldiriak"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
 - Cercanías Asturias
@@ -129,9 +197,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier unei
 - Cercanías Zaragoza
 - Rodalies de Catalunya
 
-**Reservierung möglich:** nein \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Klassenkategorien
 
