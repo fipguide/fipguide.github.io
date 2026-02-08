@@ -16,9 +16,9 @@ In northern [Spain](/country/spain "Spain"), Euskotren operates a Basque railway
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ⛔ \
-FIP 50 Tickets: ⛔ \
-Special "Euskotren FIP Ticket" (for holders & relatives): ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-coupon" status="valid" text="Special 'Euskotren FIP Ticket' (for holders & relatives)" disable_dialog=true >}}
 
 {{% float-image
   src="euskotren_fip_ticket.webp"

@@ -15,11 +15,11 @@ Auf ihrer Website bietet die BLS eine [Übersichtskarte der Strecken](https://ww
 - Die Nutzung aller Züge (außer Autozüge), Busse und Schiffe ist mit FIP möglich.
 - Es besteht keine Reservierungspflicht.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Zugkategorien und Reservierungen
 

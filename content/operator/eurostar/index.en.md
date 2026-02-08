@@ -19,10 +19,10 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ⛔ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ⛔ \
-FIP Global Fare: ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
 

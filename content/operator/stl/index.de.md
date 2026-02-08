@@ -19,9 +19,9 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Felder. [^1]
 
