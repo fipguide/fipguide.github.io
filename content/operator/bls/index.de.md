@@ -11,9 +11,9 @@ Auf ihrer Website bietet die BLS eine [Übersichtskarte der Strecken](https://ww
 
 ## Zusammenfassung
 
-- Die BLS akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Die Nutzung aller Züge (außer Autozüge), Busse und Schiffe ist mit FIP möglich
-- Keine Reservierungspflicht
+- Die BLS akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- Die Nutzung aller Züge (außer Autozüge), Busse und Schiffe ist mit FIP möglich.
+- Es besteht keine Reservierungspflicht.
 
 ## Gültigkeit FIP-Tickets
 

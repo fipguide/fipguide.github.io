@@ -13,7 +13,7 @@ Sur son site web, la BLS propose une [carte schématique des lignes](https://www
 
 - La BLS accepte les Coupons FIP et les Billets FIP 50.
 - L'utilisation de tous les trains (sauf les trains motorail), bus et bateaux avec FIP est possible.
-- Pas d'obligation de réservation.
+- Il n'y a pas d'obligation de réservation.
 
 ## Validité des billets FIP
 
