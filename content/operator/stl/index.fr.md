@@ -193,8 +193,8 @@ Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si
 
 # RE: Vielen Dank für Ihre E-Mail - CASE:172468
 
-**De :** Stena Line UK contact.uk.info@stenaline.com
-**À :** Robert Schuster nextstop@fipguide.org
+**De :** Stena Line UK contact.uk.info@stenaline.com \
+**À :** Robert Schuster nextstop@fipguide.org \
 **Date :** lun. 1 déc. 2025, 10:59
 
 Hello,

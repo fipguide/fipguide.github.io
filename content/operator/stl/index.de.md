@@ -195,8 +195,8 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 
 # RE: Vielen Dank für Ihre E-Mail - CASE:172468
 
-**Von:** Stena Line UK contact.uk.info@stenaline.com
-**An:** Robert Schuster nextstop@fipguide.org
+**Von:** Stena Line UK contact.uk.info@stenaline.com \
+**An:** Robert Schuster nextstop@fipguide.org \
 **Datum:** Mo. 1. Dez. 2025, 10:59
 
 Hello,
