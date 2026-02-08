@@ -102,8 +102,8 @@
   z-index: 14;
 }
 
-#header:has(.overlay--modal),
-.overlay--modal {
+#header:has(.overlay--dialog),
+.overlay--dialog {
   z-index: 10;
 }
 
