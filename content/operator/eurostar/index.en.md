@@ -122,6 +122,12 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
 
 {{% booking id="trainseurope-phone" /%}}
 
+{{% booking id="ns-phone"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 ### On-site
 
 {{% booking id="eurostar-ticket-office" /%}}

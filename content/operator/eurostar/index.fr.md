@@ -122,6 +122,12 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
 
 {{% booking id="trainseurope-phone" /%}}
 
+{{% booking id="ns-phone"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 ### En gare
 
 {{% booking id="eurostar-ticket-office" /%}}
