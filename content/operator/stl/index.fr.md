@@ -13,7 +13,7 @@ Params:
         text: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
       fip-coupon-relatives:
         status: valid
-        text: "Disponible"
+        text: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
