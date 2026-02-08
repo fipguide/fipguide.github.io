@@ -11,7 +11,7 @@ function openDialog(dialogId) {
   dialog.show();
   openOverlay("dialog");
 
-  const closeButton = dialog.querySelector(".dialog__header > .a-button");
+  const closeButton = dialog.querySelector(".o-dialog__header > .a-button");
   if (closeButton) {
     closeButton.addEventListener("click", () => closeDialog(dialog));
   }
@@ -23,7 +23,7 @@ function closeDialog(dialog) {
 }
 
 function closeAllDialogs() {
-  document.querySelectorAll("dialog.dialog[open]").forEach((dialog) => {
+  document.querySelectorAll("dialog[open]").forEach((dialog) => {
     closeDialog(dialog);
   });
 }

@@ -1,15 +1,5 @@
-.dialog {
-  position: fixed;
-  top: 7rem;
-  border: none;
-  padding: 0;
-  background-color: var(--bg-default);
-  color: var(--color-body);
-  border-radius: var(--border-radius-m);
-  max-width: 80vw;
-  max-height: 80vh;
-  overflow: auto;
-  z-index: 12;
+.o-dialog {
+  max-height: calc(100vh - 14rem);
 
   .a-anchorlink {
     margin-bottom: 0;
@@ -21,6 +11,20 @@
 
   @media (min-width: $breakpoint-md) {
     max-width: 60rem;
+  }
+
+  &__wrapper {
+    width: fit-content;
+    position: fixed;
+    top: 7rem;
+    border: none;
+    padding: 0;
+    background-color: var(--bg-default);
+    color: var(--color-body);
+    border-radius: var(--border-radius-m);
+    z-index: 12;
+    border: var(--border);
+    overflow: auto;
   }
 
   &__header {
