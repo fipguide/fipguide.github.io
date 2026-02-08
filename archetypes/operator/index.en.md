@@ -7,6 +7,18 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+Params:
+  fip-validity:
+    operator1:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: invalid # or valid with corresponding text
+        text: "Not available" # or "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-reduced-ticket:
+        status: valid
+        text: "50% discount"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
@@ -33,10 +45,18 @@ operator: "{{ .File.ContentBaseName }}"
   The ticket categories may vary depending on the operator.
 -->
 
-FIP Coupon: <✅/⛔> \
-FIP Coupon for relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
+<!--
+  Use the following shortcodes to display FIP validity. The following parameters can be passed:
+  - `type`: fip-coupon, fip-coupon-relatives, fip-reduced-ticket, fip-global-fare, additional
+  - `status`: valid, invalid, unknown
+  - `text`: Optional custom text to display
+  - `disable_dialog`: true/false (default: false) - Set to true to disable the dialog
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" >}}
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
