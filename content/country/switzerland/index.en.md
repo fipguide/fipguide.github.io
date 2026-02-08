@@ -18,7 +18,7 @@ In Switzerland, there are three different operators for which FIP Coupons and FI
 
 - The state railway company [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Swiss Federal Railways), which operates mainly on most main lines
 - A consortium of Swiss private railways [(SP - Schweizer Privatbahnen)](/operator/sp "SP")
-- The Bernese Alpine Railway Company Bern–Lötschberg–Simplon (BLS)
+- The [BLS](/operator/bls)
 
 Together, these cover almost the entire Swiss rail network, including some means of transport that are unique in Europe with FIP, such as cable cars or certain bus lines.
 
