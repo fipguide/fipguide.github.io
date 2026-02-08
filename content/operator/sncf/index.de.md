@@ -201,11 +201,21 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncf-phone" /%}}
 
+{{% booking id="ns-phone"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 ### Vor Ort
 
 {{% booking id="sncf-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
+
+{{% booking id="ns-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
 
 {{% booking id="db-ticket-office" subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich"
     reservations="nil"
