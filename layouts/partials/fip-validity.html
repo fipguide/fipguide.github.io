@@ -1,0 +1,37 @@
+{{- $iconMapping := dict
+  "valid" "check_circle"
+  "invalid" "close"
+  "unknown" "help"
+-}}
+
+{{- $dialogId := printf "fip-validity-%s" .type -}}
+{{- $icon := index $iconMapping .status -}}
+{{- $typeI18n := printf "fipValidity.%s" .type -}}
+
+
+<div class="o-fip-validity o-fip-validity--{{ .status }}">
+  {{ partial "icon" $icon }}
+  <span class="o-fip-validity__text">
+    {{ i18n $typeI18n }}{{ with .text }}: {{ . | $.page.RenderString }}{{ end }}
+  </span>
+  {{- if not .disable_dialog -}}
+    <button
+      type="button"
+      class="o-fip-validity__info-button"
+      data-dialog-trigger="{{ $dialogId }}"
+      aria-label="{{ i18n "trainCategory.additionalInformation" }}"
+    >
+      {{ partial "icon" "info" }}
+    </button>
+  {{- end -}}
+</div>
+
+{{- if not .disable_dialog -}}
+  {{- partial "dialog" (
+    dict
+    "ID" $dialogId
+    "Title" (T $typeI18n)
+    "Content" (partial "fip-validity-dialog" (dict "type" .type "page" .page))
+    )
+  -}}
+{{- end -}}
