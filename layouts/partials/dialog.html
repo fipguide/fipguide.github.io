@@ -1,0 +1,16 @@
+{{ if .ButtonText }}
+  <button type="button" data-dialog-trigger="{{ .ID }}">
+    {{ .ButtonText }}
+  </button>
+{{ end }}
+
+
+<dialog id="{{ .ID }}" class="dialog" aria-labelledby="{{ .ID }}-title">
+  <div class="dialog__header">
+    <h2 id="{{ .ID }}-title" class="dialog__title">{{ .Title }}</h2>
+    {{ partial "button-internal" (dict "Text" (partial "icon" "close")) }}
+  </div>
+  <div class="dialog__body">
+    {{ .Content }}
+  </div>
+</dialog>

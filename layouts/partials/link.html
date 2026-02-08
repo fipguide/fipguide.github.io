@@ -1,6 +1,6 @@
 {{- $url := .Destination -}}
 {{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
-  {{- /* Absolute links pointing to external pages, e. g. `https://example.com` */ -}}
+  {{- /* Absolute links pointing to external pages, e.g. `https://example.com` */ -}}
   <a
     href="{{ .Destination }}"
     target="_blank"
@@ -11,8 +11,18 @@
   >
     {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
   </a>
+{{- else if strings.HasPrefix $url "dialog:" -}}
+  {{- /* Dialog triggers, e.g. `dialog:test` */ -}}
+  <button
+    type="button"
+    class="o-link"
+    data-dialog-trigger="{{ strings.TrimPrefix "dialog:" $url }}"
+    {{- with .Title }}title="{{ . }}"{{- end -}}
+  >
+    {{- .Text -}}{{- partial "icon" "open_in_browser" -}}
+  </button>
 {{- else if strings.HasPrefix $url "mailto:" -}}
-  {{- /* Email links, e. g. `mailto:example@example.com` */ -}}
+  {{- /* Email links, e.g. `mailto:example@example.com` */ -}}
   <a
     href="{{ $url }}"
     class="o-link__mail"
@@ -21,7 +31,7 @@
     {{- partial "icon" "mail" -}}{{- .Text -}}
   </a>
 {{- else if strings.HasPrefix $url "tel:" -}}
-  {{- /* Telephone links, e. g. `tel:+1234567890` */ -}}
+  {{- /* Telephone links, e.g. `tel:+1234567890` */ -}}
   <a
     href="{{ $url | safeURL }}"
     class="o-link__tel"
@@ -30,7 +40,7 @@
     {{- partial "icon" "call" -}}{{- .Text -}}
   </a>
 {{- else if .Page.Ref (dict "path" $url) -}}
-  {{- /* Internal links, referenced by path (e. g. `/news/1`) */ -}}
+  {{- /* Internal links, referenced by path (e.g. `/news/1`) */ -}}
   <a
     href="{{ .Page.Ref (dict "path" $url) }}"
     {{- with .Title -}}title="{{ . }}"{{- end -}}
@@ -38,7 +48,7 @@
     {{- .Text -}}
   </a>
 {{- else if or (strings.HasPrefix $url "/") (strings.HasPrefix $url site.BaseURL) -}}
-  {{- /* Internal links, referenced by URL (e. g. `/en/news/1`) */ -}}
+  {{- /* Internal links, referenced by URL (e.g. `/en/news/1`) */ -}}
   <a
     href="{{ $url | relURL }}"
     {{- with .Title -}}title="{{ . }}"{{- end -}}

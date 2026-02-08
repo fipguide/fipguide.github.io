@@ -1,0 +1,47 @@
+.dialog {
+  position: fixed;
+  top: 7rem;
+  border: none;
+  padding: 0;
+  background-color: var(--bg-default);
+  color: var(--color-body);
+  border-radius: var(--border-radius-m);
+  max-width: 80vw;
+  max-height: 80vh;
+  overflow: auto;
+  z-index: 12;
+
+  .a-anchorlink {
+    margin-bottom: 0;
+
+    &__link {
+      display: none;
+    }
+  }
+
+  @media (min-width: $breakpoint-md) {
+    max-width: 60rem;
+  }
+
+  &__header {
+    display: flex;
+    column-gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.6rem 2rem;
+    border-bottom: var(--border);
+    border-color: var(--color-table-border);
+
+    .o-divider {
+      display: none;
+    }
+  }
+
+  &__body {
+    padding: 2rem;
+
+    > *:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

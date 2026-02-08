@@ -102,6 +102,11 @@
   z-index: 14;
 }
 
+#header:has(.overlay--modal),
+.overlay--modal {
+  z-index: 10;
+}
+
 body:has(.overlay--show) {
   overflow: hidden;
 }
