@@ -18,7 +18,7 @@ In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahr
 
 - Die staatliche Bahngesellschaft [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Schweizerische Bundesbahnen - Chemins de fer fédéraux suisses - Ferrovie federali svizzere FFS), die besonders auf den meisten Hauptstrecken verkehrt
 - Ein Konsortium von [Schweizer Privatbahnen (SP)](/operator/sp "SP")
-- Die Berner Alpenbahngesellschaft Bern–Lötschberg–Simplon (BLS)
+- Die [BLS](/operator/bls)
 
 In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einigen Verkehrsmitteln, die europaweit einmalig mit FIP sind, beispielsweise Seilbahnen oder bestimmte Buslinien.
 

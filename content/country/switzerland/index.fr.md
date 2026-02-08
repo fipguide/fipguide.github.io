@@ -18,7 +18,7 @@ En Suisse, il existe trois opérateurs différents pour lesquels des FIP Coupons
 
 - La compagnie ferroviaire nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Chemins de fer fédéraux suisses), qui circule principalement sur les lignes principales
 - Un consortium de chemins de fer privés suisses [(SP - Schweizer Privatbahnen)](/operator/sp "SP")
-- La compagnie ferroviaire des Alpes bernoises Bern–Lötschberg–Simplon (BLS)
+- La [BLS](/operator/bls)
 
 En combinaison, ces opérateurs couvrent presque tout le réseau ferroviaire suisse, y compris certains moyens de transport uniques en Europe accessibles avec FIP, comme des téléphériques ou certaines lignes de bus.
 
