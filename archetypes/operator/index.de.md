@@ -7,6 +7,18 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+Params:
+  fip-validity:
+    operator1:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: invalid # oder valid mit entsprechendem Text
+        text: "Nicht verfügbar" # oder "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -33,10 +45,18 @@ operator: "{{ .File.ContentBaseName }}"
   Die Ticketkategorien können je nach Betreiber abweichen.
 -->
 
-FIP Freifahrtschein: <✅/⛔> \
-FIP Freifahrt Angehörige: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Globalpreis: <✅/⛔>
+<!--
+  Verwende die folgenden Shortcodes, um die FIP-Gültigkeit anzuzeigen. Die folgenden Parameter können übergeben werden:
+  - `type`: fip-coupon, fip-coupon-relatives, fip-reduced-ticket, fip-global-fare, additional
+  - `status`: valid, invalid, unknown
+  - `text`: Optionaler benutzerdefinierter Text zur Anzeige
+  - `disable_dialog`: true/false (Standard: false) - Auf true setzen, um den Dialog zu deaktivieren
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" >}}
 
 <!--
   Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
