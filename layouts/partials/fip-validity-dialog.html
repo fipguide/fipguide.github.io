@@ -14,8 +14,10 @@
   </thead>
   <tbody>
     {{- range where .page.Site.RegularPages "Type" "operator" -}}
-      {{- $operatorPage := . -}}
-      {{- $operatorParam := index (index $.page.Params "fip-validity" $operatorPage.File.ContentBaseName) $.type -}}
+      {{- if eq .File.ContentBaseName $.page.File.ContentBaseName -}}
+        {{- continue -}}
+      {{- end -}}
+      {{- $operatorParam := index (index $.page.Params "fip-validity" .File.ContentBaseName) $.type -}}
 
       {{- $status := "unknown" -}}
       {{- $text := i18n "fipValidity.unknown" -}}
@@ -27,7 +29,7 @@
       {{- $statusIcon := index $iconMapping $status -}}
       <tr>
         <td>
-          {{ partial "link" (dict "Destination" (print "/operator/" $operatorPage.File.ContentBaseName) "Text" $operatorPage.Title "Page" $.page) }}
+          {{ partial "link" (dict "Destination" (print "/operator/" .File.ContentBaseName) "Text" .Title "Page" $.page) }}
         </td>
         <td class="o-fip-validity--{{ $status }}">
           {{ partial "icon" $statusIcon }}
