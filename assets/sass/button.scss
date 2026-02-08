@@ -25,11 +25,11 @@
     display: block;
   }
 
-  &--external {
+  &__external {
     border: 0.2rem solid var(--link-default);
   }
 
-  &--internal {
+  &__internal {
     border: none;
   }
 }
