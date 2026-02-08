@@ -1,5 +1,6 @@
 .o-dialog {
   max-height: calc(100vh - 14rem);
+  overflow: auto;
 
   .a-anchorlink {
     margin-bottom: 0;
@@ -7,10 +8,6 @@
     &__link {
       display: none;
     }
-  }
-
-  @media (min-width: $breakpoint-md) {
-    max-width: 60rem;
   }
 
   &__wrapper {
@@ -24,7 +21,7 @@
     border-radius: var(--border-radius-m);
     z-index: 12;
     border: var(--border);
-    overflow: auto;
+    overflow: hidden;
   }
 
   &__header {
