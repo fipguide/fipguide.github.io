@@ -10,7 +10,7 @@ Params:
     db:
       fip-coupon:
         status: valid
-        text: "4 fields with 2 days each"
+        text: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
       fip-coupon-relatives:
         status: valid
         text: "Available"
