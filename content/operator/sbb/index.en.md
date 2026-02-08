@@ -19,6 +19,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.

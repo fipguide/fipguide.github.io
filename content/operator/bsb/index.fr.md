@@ -22,6 +22,13 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon par an"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Non disponible"
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").

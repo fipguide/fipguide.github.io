@@ -20,6 +20,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").

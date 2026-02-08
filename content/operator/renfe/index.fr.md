@@ -21,6 +21,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon par an"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Non disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spain "Espagne"). Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.

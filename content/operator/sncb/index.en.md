@@ -26,6 +26,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % discount"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
+      fip-reduced-ticket:
+        status: valid
+        text: "Active staff: 75 % discount. Retired staff: 50 % discount"
 ---
 
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in [Belgium](/country/belgium "Belgium").

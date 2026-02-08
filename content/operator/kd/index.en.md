@@ -20,6 +20,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 Koleje Dolnośląskie (KD) is a Polish railway company offering regional services in the Lower Silesia Province. It is one of five different operators in [Poland](/country/poland) which provide FIP benefits.

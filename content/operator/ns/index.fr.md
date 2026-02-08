@@ -26,6 +26,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Personnel actif: 2 coupons par an. Personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "Personnel actif: 2 coupons par an. Personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pays-Bas](/country/netherlands "Pays-Bas") et assurent la majorité du trafic voyageurs dans le pays.

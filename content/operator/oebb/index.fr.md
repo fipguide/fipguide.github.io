@@ -24,6 +24,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Personnel actif et personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon par an"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.

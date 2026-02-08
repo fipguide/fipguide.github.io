@@ -22,6 +22,13 @@ Params:
       fip-coupon:
         status: valid
         text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
 ---
 
 Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").

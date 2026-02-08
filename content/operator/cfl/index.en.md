@@ -26,6 +26,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % discount"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Active staff and retired staff (safeguarded only): 1 coupon per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "Active staff and retired staff (safeguarded only): 1 coupon per year"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish state railway and the main railway company in [Luxembourg](/country/luxembourg "Luxembourg").

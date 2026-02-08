@@ -21,6 +21,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "2 coupons per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "2 coupons per year"
+      fip-reduced-ticket:
+        status: valid
+        text: "75 % discount"
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.

@@ -20,6 +20,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon per year"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) is the state railway company of [Bulgaria](/country/bulgaria "Bulgaria") and currently operates almost all passenger services on the Bulgarian rail network.
