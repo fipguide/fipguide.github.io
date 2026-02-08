@@ -13,7 +13,7 @@ Params:
         text: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
       fip-coupon-relatives:
         status: valid
-        text: "Verfügbar"
+        text: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"

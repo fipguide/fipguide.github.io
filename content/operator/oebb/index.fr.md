@@ -16,7 +16,7 @@ Params:
         text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
       fip-coupon-relatives:
         status: valid
-        text: "Disponible"
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
