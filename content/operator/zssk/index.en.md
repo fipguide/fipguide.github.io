@@ -4,7 +4,19 @@ title: "ZSSK / ZSR"
 country:
   - "slovakia"
 operator: "zssk"
-
+Params:
+  fip-coupon-relatives: invalid
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 fields with 2 days each"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 aliases:
   - zsr
 ---
