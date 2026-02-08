@@ -15,6 +15,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
 ---
 
 The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.

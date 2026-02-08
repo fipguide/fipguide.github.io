@@ -15,6 +15,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
 ---
 
 Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.

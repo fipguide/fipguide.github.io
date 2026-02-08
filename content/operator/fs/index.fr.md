@@ -16,6 +16,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
 ---
 
 Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia en [Italie](/country/italy "Italie").

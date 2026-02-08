@@ -7,7 +7,6 @@ country:
   - "italy"
 operator: "sp"
 Params:
-  fip-coupon-relatives: invalid
   fip-validity:
     db:
       fip-coupon:
@@ -19,6 +18,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
 ---
 
 En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") et de la plus petite BLS, il existe une association de nombreuses entreprises ferroviaires regroupées sous l’appellation _Schweizer Privatbahnen_ (Chemins de fer privés suisses). On y trouve à la fois des trains réguliers du réseau suisse et des services plutôt touristiques. En plus des trains, certains bateaux, téléphériques et bus en font partie.

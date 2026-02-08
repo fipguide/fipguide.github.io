@@ -17,6 +17,13 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich ([Vereinigtes Königreich](/country/united-kingdom)) und Hoek van Holland ([Niederlande](/country/netherlands)) wird im Kontext von FIP als Stena Line BV (StL) genannt.

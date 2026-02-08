@@ -20,6 +20,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
 ---
 
 ÖBB (Austrian Federal Railways) is [Austria](/country/austria "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.

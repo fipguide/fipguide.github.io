@@ -4,6 +4,12 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+Params:
+  fip-validity:
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
 ---
 
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.

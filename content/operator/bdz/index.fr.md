@@ -16,6 +16,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de [Bulgarie](/country/bulgaria "Bulgarie") et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.

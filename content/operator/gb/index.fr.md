@@ -16,6 +16,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-coupon-relatives:
+        status: valid
+        text: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses compagnies ferroviaires différentes, regroupées sous le nom de _National Rail_. Chaque entreprise exploite ses propres lignes, la plupart se concentrant sur une région du pays.

@@ -16,6 +16,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
 ---
 
 Die Koleje Dolnośląskie, kurz KD, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Niederschlesien anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.

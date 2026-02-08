@@ -6,7 +6,6 @@ country:
   - "latvia"
 operator: "ltg"
 Params:
-  fip-coupon-relatives: invalid
   fip-validity:
     db:
       fip-coupon:
@@ -18,6 +17,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
 ---
 
 LTG est la compagnie ferroviaire nationale de la République de Lituanie et, avec sa filiale LTG-Link, exploite toutes les liaisons de transport de passagers sur le réseau ferroviaire lituanien ainsi qu’à l’étranger.

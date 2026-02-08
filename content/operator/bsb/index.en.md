@@ -7,7 +7,6 @@ country:
   - "switzerland"
 operator: "bsb"
 Params:
-  fip-coupon-relatives: invalid
   fip-validity:
     db:
       fip-coupon:
@@ -19,6 +18,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
 ---
 
 BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").

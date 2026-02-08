@@ -5,7 +5,6 @@ country:
   - "pologne"
 operator: "kd"
 Params:
-  fip-coupon-relatives: invalid
   fip-validity:
     db:
       fip-coupon:
@@ -17,6 +16,10 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
 ---
 
 Koleje Dolnośląskie (KD) est une compagnie ferroviaire polonaise assurant principalement des services régionaux dans la voïvodie de Basse-Silésie. C’est l’une des cinq compagnies différentes de [Pologne](/country/poland) qui proposent le FIP.
