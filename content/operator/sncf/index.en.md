@@ -14,7 +14,7 @@ Params:
     db:
       fip-coupon:
         status: valid
-        text: "4 Felder mit jeweils zwei Tagen"
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
       fip-coupon-relatives:
         status: invalid
         text: "Nicht verfügbar"

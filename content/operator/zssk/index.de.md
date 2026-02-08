@@ -12,7 +12,7 @@ Params:
     db:
       fip-coupon:
         status: valid
-        text: "4 Felder mit jeweils zwei Tagen"
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
       fip-coupon-relatives:
         status: invalid
         text: "Nicht verfügbar"
