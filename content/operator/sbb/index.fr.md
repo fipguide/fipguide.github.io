@@ -170,6 +170,10 @@ Les compagnies ferroviaires suisses SBB et BLS acceptent partiellement mutuellem
 
 Les Coupons FIP des SBB ne sont cependant pas valables sur les navires BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
 
+### Schweizerische Südostbahn (SOB)
+
+Les Coupons FIP des CFF sont valables sur certains itinéraires de Schweizerische Südostbahn (SOB), voir [Schweizer Privatbahnen - SOB](/operator/sp#sob).
+
 ### Trains transfrontaliers (Italie, France)
 
 Pour les trains `EC` transfrontaliers vers l’Italie et les trains `TGV` vers la France, un supplément est requis en dehors de la Suisse. \

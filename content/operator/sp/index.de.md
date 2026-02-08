@@ -135,15 +135,25 @@ Alle diese Verkehre können mit FIP genutzt werden.
     reservation_required=partially
     reservation_possible=true
 %}}
-Die Ferrovie autolinee regionali ticinesi betreibt neben einigen Buslinien auch den Schweizer Abschnitt der Centovallibahn von Locarno nach Domodossola in Italien und zwei Kleinluftseilbahnen.
+Die Ferrovie autolinee regionali ticinesi (FART) betreibt neben einigen Buslinien auch den Schweizer Abschnitt der Centovallibahn von Locarno nach Domodossola in Italien, auf der auch der Treno Panoramico Vigezzo Vision verkehrt.
 
 Auch wenn die Centovallibahn nach Italien führt, sind FIP-Tickets der SP auf der kompletten Strecke gültig, da der italienische Abschnitt von der SSIF, ebenfalls SP FIP-Mitglied, betrieben wird.
 
-Bei den Seilbahnen ist nicht bekannt, ob hier FIP anerkannt wird. Im Busverkehr wird FIP dagegen anerkannt.
+{{% highlight important %}}
+In einigen Zügen ist ein Panoramaaufschlag in Höhe von 1,50 € zu zahlen. Die betroffenen Zugverbindungen sind nur [Online auf der Centovalli Website](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) und nicht über die Verbindungsauskunft einsehbar. Der Zuschlag kann [online](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) oder vor Ort im Zug erworben werden.
+{{% /highlight %}}
+
+Außerdem werden von FART zwei Kleinseilbahnen betrieben. Bei diesen ist nicht bekannt, ob hier FIP anerkannt wird.
+
+Im Busverkehr wird FIP vollständig anerkannt.
 
 #### Reservierung
 
-Eine Reservierung ist erforderlich für den speziellen Treno Panoramico Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet), siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision)
+Reservierungen sind nur während der Weihnachtsmärkte und dem Raduno degli Spazzacamini (dem internationalen Kaminfegertreffen) in Santa Maria Maggiore erforderlich.
+
+Auf den Panoramazügen ist das Reisen auf Stehplätzen aus Komfortgründen nicht erlaubt.
+
+Sitzplatzreservierungen können [Online auf der Centovalli Website](https://prenota.vigezzinacentovalli.com/) für 4 € pro Person und Strecke erworben werden.
 
 #### Strecken im Linienverkehr
 
@@ -456,18 +466,20 @@ Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Absc
     reservation_required=false
     reservation_possible=true
 %}}
-Die Schweizerische Südostbahn betreibt Linienverkehr sowohl auf eigenen als auch einigen Strecken der SBB. In Kooperation mit der SBB werden auch die überregional bekannten Züge Treno Gottardo, Alpenrhein-Express und der Aare Linth durch die SOB betrieben.
+Die Schweizerische Südostbahn betreibt Linienverkehr sowohl auf eigenen als auch einigen Strecken der SBB. In Kooperation mit der SBB werden auch die überregional bekannten Züge Voralpen-Express/Treno Gottardo, Alpenrhein-Express und der Aare Linth durch die SOB betrieben.
 
-Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nicht auf Strecken gelten, auf denen die SOB nur über eine Lizenz der SBB verkehrt, so zum Beispiel zwischen Basel SBB und Arth-Goldau. Auf diesen Routen müssen stattdessen FIP Freifahrtscheine der SBB genutzt werden. Durchgehende FIP 50 Tickets sind dagegen möglich. Im Folgenden aufgelistet sind daher nur die Strecken, auf denen Freifahrtscheine der SP gelten.
+{{% highlight important %}}
+Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nicht auf Strecken gelten, auf denen die SOB in Kooperation mit der SBB verkehrt, so zum Beispiel zwischen Basel SBB und Arth-Goldau. Auf diesen Routen gelten stattdessen nur FIP Freifahrtscheine der SBB. Durchgehende FIP 50 Tickets sind dagegen möglich.
+{{% /highlight %}}
 
-#### Strecken im Linienverkehr
-
-##### Strecken mit FIP-Gültigkeit
+#### Strecken ohne SBB Kooperation (Freifahrtschein SP erforderlich)
 
 - Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
 - Arth-Goldau – Bellinzona (egal ob über Göschenen – Airolo oder durch den Gotthard-Basistunnel)
+
+Auf allen anderen Routen gilt nur der SBB Freifahrtschein.
 
 {{% /train-category %}}
 
@@ -479,13 +491,21 @@ Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nich
     reservation_required=partially
     reservation_possible=true
 %}}
-Die Società Subalpina di Imprese Ferroviarie betriebt den italienischen Abschnitt der aus dem schweizerischen Locarno kommenden Centovallibahn von Camedo bis Domodossola in Italien.
+Die Società Subalpina di Imprese Ferroviarie betreibt den italienischen Abschnitt der aus dem schweizerischen Locarno kommenden Centovallibahn von Camedo bis Domodossola in Italien, inklusive des Treno Panoramico Vigezzo Vision.
 
 FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweizer Abschnitt, da dieser durch die FART betrieben wird, die ebenfalls Teil von SP ist.
 
+{{% highlight important %}}
+In einigen Zügen ist ein Panoramaaufschlag in Höhe von 1,50 € zu zahlen. Die betroffenen Zugverbindungen sind nur [Online auf der Centovalli Website](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) und nicht über die Verbindungsauskunft einsehbar. Der Zuschlag kann [online](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) oder vor Ort im Zug erworben werden.
+{{% /highlight %}}
+
 #### Reservierung
 
-Eine Reservierung ist erforderlich für den speziellen Vigezzo Vision (in der Verbindungsauskunft als `PE` für Panorama Express gekennzeichnet), siehe [eigener Abschnitt](#treno-panoramico-vigezzo-vision).
+Reservierungen sind nur während der Weihnachtsmärkte und dem Raduno degli Spazzacamini (dem internationalen Kaminfegertreffen) in Santa Maria Maggiore erforderlich.
+
+Auf den Panoramazügen ist das Reisen auf Stehplätzen aus Komfortgründen nicht erlaubt.
+
+Sitzplatzreservierungen können [Online auf der Centovalli Website](https://prenota.vigezzinacentovalli.com/) für 4 € pro Person und Strecke erworben werden.
 
 #### Strecken im Linienverkehr
 
@@ -873,12 +893,6 @@ Der Bernina Express ist neben dem Glacier Express ein weiterer bekannter Panoram
 FIP Freifahrtscheine der SP und FIP 50 Tickets sind gültig in dem Zug, aber nur mit zusätzlicher kostenpflichtiger Sitzplatzreservierung. Diese kann über die [Bernina Express Website](https://tickets.rhb.ch/de/routing/bernina-express) gebucht werden und sollte möglichst einige Zeit im Voraus gemacht werden, da Züge schnell ausgebucht sein können.
 
 Alternativ zum Bernina Express (in der Reiseauskunft als `PE` gekennzeichnet) stehen andere Verbindungen auf der Route zur Verfügung, bei denen keine Reservierungspflicht besteht.
-
-### Treno Panoramico Vigezzo Vision
-
-Der Treno Panoramico Vigezza Vision verkehrt auf der Route Domodossola – Càmedo – Locarno und wird gemeinsam von Ferrovie Autolinee Regionali Ticinesi (FART) and Società Subalpina di Imprese Ferroviarie (SSIF) betrieben.
-
-FIP Freifahrtscheine der SP und FIP 50 Tickets sind gültig in dem Zug, aber nur mit zusätzlicher kostenpflichtiger Sitzplatzreservierung. Diese kann unter [diesem Link](https://prenota.vigezzinacentovalli.com/) gebucht werden.
 
 ### Pilatusbahn
 

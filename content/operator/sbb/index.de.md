@@ -171,6 +171,10 @@ Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP 
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
+### Schweizerische Südostbahn (SOB)
+
+Auf einigen Routen der Schweizerischen Südostbahn (SOB) gelten FIP Freifahrtscheine der SBB, siehe [Schweizer Privatbahnen - SOB](/operator/sp#sob).
+
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien](/country/switzerland#italien "Einreise Italien")
