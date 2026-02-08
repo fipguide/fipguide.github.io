@@ -30,11 +30,16 @@ function closeAllDialogs() {
 
 function initDialogs() {
   document.querySelectorAll("[data-dialog-trigger]").forEach((trigger) => {
-    trigger.addEventListener("click", (e) => {
-      e.preventDefault();
-      const dialogId = trigger.getAttribute("data-dialog-trigger");
-      openDialog(dialogId);
-    });
+    const handler = (e) => {
+      if (e.type === "click" || (e.type === "keydown" && e.key === "Enter")) {
+        e.preventDefault();
+        const dialogId = trigger.getAttribute("data-dialog-trigger");
+        openDialog(dialogId);
+      }
+    };
+
+    trigger.addEventListener("click", handler);
+    trigger.addEventListener("keydown", handler);
   });
 
   addOverlayClickListener(() => {
