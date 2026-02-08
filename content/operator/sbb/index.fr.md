@@ -8,13 +8,17 @@ Params:
     db:
       fip-coupon:
         status: valid
-        text: "4 Felder mit jeweils zwei Tagen"
+        text: "4 champs avec 2 jours chacun"
       fip-coupon-relatives:
         status: invalid
-        text: "Nicht verfügbar"
+        text: "Non disponible"
       fip-reduced-ticket:
         status: valid
-        text: "50 % Rabatt"
+        text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
 ---
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
