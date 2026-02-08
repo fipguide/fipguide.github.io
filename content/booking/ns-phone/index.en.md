@@ -6,7 +6,7 @@ description: "Booking information for the NS hotline."
 params:
   fip_50: true
   reservations: true
-  fee: "€ 7.50 per person *"
+  fee: "€ 7.50 per person*"
   additional_info_link: "https://www.nsinternational.com/en/where-to-buy/telephone-nsinternational-service-center"
   type: "phone"
 ---

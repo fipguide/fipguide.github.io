@@ -6,7 +6,7 @@ description: "Booking information for NS ticket offices."
 params:
   fip_50: true
   reservations: true
-  fee: "€ 7,50 per person *"
+  fee: "€ 7,50 per person*"
   additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
   type: "onsite"
 

@@ -6,7 +6,7 @@ description: "Informations de réservation aux guichets de la NS."
 params:
   fip_50: true
   reservations: true
-  fee: "7,50 € par personne *"
+  fee: "7,50 € par personne*"
   additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
   type: "onsite"
 
