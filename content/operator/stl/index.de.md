@@ -32,7 +32,7 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Felder. [^1]

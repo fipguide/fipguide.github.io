@@ -28,7 +28,7 @@ The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/cou
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.

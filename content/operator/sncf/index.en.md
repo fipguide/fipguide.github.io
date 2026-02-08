@@ -36,7 +36,7 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="For international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)" disable_dialog=true >}}
 

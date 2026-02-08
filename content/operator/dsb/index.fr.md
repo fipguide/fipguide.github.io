@@ -28,7 +28,7 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un Billet FIP 50 couvrant l’ensemble du trajet ou des Coupons FIP valables dans les deux pays sont requis.

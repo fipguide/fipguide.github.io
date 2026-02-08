@@ -32,7 +32,7 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 The FIP Coupon for StL covers, deviating from the standard, a maximum of two fields. [^1]
