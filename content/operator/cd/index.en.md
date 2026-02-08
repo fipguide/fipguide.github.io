@@ -17,9 +17,9 @@ operator: "cd"
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Ticket: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ČD services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 

@@ -19,9 +19,9 @@ LTG-Link veröffentlicht online eine [Übersicht des Streckennetzes](https://ltg
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}
 Bei allen Fahrten mit einem FIP Freifahrtschein muss vor jeder Fahrt ein kostenloses Ticket bzw. Reservierung erworben werden ([siehe Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen)).

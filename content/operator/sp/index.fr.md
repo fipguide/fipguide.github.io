@@ -18,9 +18,9 @@ En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [S
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Billets FIP 50 sont valables auprès de toutes les entreprises ferroviaires listées, voir [Opérateurs ferroviaires et d’autobus](#operateurs-ferroviaires-et-dautobus), ainsi qu’auprès des [opérateurs de bateaux](#operateurs-de-bateaux). Les Coupons FIP sont également valables presque partout, à quelques exceptions près.
 

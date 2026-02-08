@@ -17,9 +17,9 @@ operator: "cd"
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billet FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 

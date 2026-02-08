@@ -18,10 +18,10 @@ Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/sp
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅ (Ausnahmen: Reservierungspflichtige Züge) \
-FIP Globalpreis: ✅ für reservierungspflichtige Züge außer Avlo
+{{< fip-validity type="fip-coupon" status="valid" text="Ausnahmen: Reservierungspflichtige Züge" >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="partial" text="Ausnahmen: Reservierungspflichtige Züge" >}}
+{{< fip-validity type="fip-global-fare" status="partial" text="Für reservierungspflichtige Züge außer Avlo" disable_dialog=true >}}
 
 ## Zugkategorien und Reservierungen
 

@@ -16,9 +16,9 @@ Im Norden [Spaniens](/country/spain "Spaniens") betreibt Euskotren ein Netz der 
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ⛔ \
-FIP 50 Tickets: ⛔ \
-Spezielles "Euskotren FIP Ticket" (für Inhaber & Angehörige): ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-coupon" status="valid" text="Spezielles 'Euskotren FIP Ticket' (für Inhaber & Angehörige)" disable_dialog=true >}}
 
 {{% float-image
   src="euskotren_fip_ticket.webp"

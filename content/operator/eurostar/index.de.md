@@ -19,10 +19,10 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ⛔ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ⛔ \
-FIP Globalpreis: ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich. Sämtliche Tickets sind aufgrund der Reservierungspflicht in allen Zügen zuggebunden. Das Umbuchen auf andere Züge oder Stornieren von FIP Tickets ist dabei jedoch über die [Eurostar Website](https://www.eurostar.com/) möglich. Die Tickets können nur separat und nicht als Teil von durchgehenden Fahrkarten erworben werden. [^1]
 

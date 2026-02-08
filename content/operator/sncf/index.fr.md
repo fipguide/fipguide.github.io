@@ -23,10 +23,10 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billet FIP 50 : ✅ \
-Tarif Global FIP : ✅ (pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux))
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)" disable_dialog=true >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 
