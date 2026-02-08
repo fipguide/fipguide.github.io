@@ -4,6 +4,19 @@ title: "ČD"
 country:
   - "czechia"
 operator: "cd"
+Params:
+  fip-coupon-relatives: invalid
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 fields with 2 days each"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 České dráhy (ČD) is the state railway company of the [Czech Republic](/country/czechia "Czech Republic") and operates a large part of passenger services on the Czech rail network.

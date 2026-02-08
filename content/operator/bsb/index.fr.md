@@ -6,6 +6,19 @@ country:
   - "germany"
   - "switzerland"
 operator: "bsb"
+Params:
+  fip-coupon-relatives: invalid
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 champs avec 2 jours chacun"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Non disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").

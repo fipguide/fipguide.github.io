@@ -5,6 +5,18 @@ country:
   - "netherlands"
   - "united-kingdom"
 operator: "stl"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 fields with 2 days each"
+      fip-coupon-relatives:
+        status: valid
+        text: "Available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek van Holland ([Netherlands](/country/netherlands)) is referred to as Stena Line BV (StL) in the context of FIP.

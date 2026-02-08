@@ -7,6 +7,18 @@ operator: "zssk"
 
 aliases:
   - zsr
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 Felder mit jeweils zwei Tagen"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der [Slowakei](/country/slovakia "Slowakei").

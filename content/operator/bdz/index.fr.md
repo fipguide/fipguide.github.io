@@ -4,6 +4,18 @@ title: "BDŽ"
 country:
   - "bulgaria"
 operator: "bdz"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 champs avec 2 jours chacun"
+      fip-coupon-relatives:
+        status: valid
+        text: "Disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de [Bulgarie](/country/bulgaria "Bulgarie") et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.

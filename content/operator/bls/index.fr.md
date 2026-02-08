@@ -3,6 +3,18 @@ draft: false
 title: "BLS"
 country:
   - "switzerland"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 champs avec 2 jours chacun"
+      fip-coupon-relatives:
+        status: valid
+        text: "Disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviaire publique de la [Suisse](/country/switzerland "Suisse"). Elle exploite de nombreuses liaisons de trains, de bus et de bateaux et circule principalement dans le canton de Berne.

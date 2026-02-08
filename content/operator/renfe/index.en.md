@@ -5,6 +5,18 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 fields with 2 days each"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.

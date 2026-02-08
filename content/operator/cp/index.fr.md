@@ -4,6 +4,18 @@ title: "CP"
 country:
   - "portugal"
 operator: "cp"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 champs avec 2 jours chacun"
+      fip-coupon-relatives:
+        status: valid
+        text: "Disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au [Portugal](/country/portugal "Portugal").

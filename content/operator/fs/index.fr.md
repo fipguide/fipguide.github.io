@@ -4,6 +4,18 @@ title: "Trenitalia"
 country:
   - "italy"
 operator: "trenitalia"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 champs avec 2 jours chacun"
+      fip-coupon-relatives:
+        status: valid
+        text: "Disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia en [Italie](/country/italy "Italie").

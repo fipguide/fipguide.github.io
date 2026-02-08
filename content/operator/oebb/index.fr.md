@@ -8,6 +8,18 @@ operator: "oebb"
 
 aliases:
   - obb
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 champs avec 2 jours chacun"
+      fip-coupon-relatives:
+        status: valid
+        text: "Disponible"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.

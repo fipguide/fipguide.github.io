@@ -4,6 +4,18 @@ title: "PKP"
 country:
   - "poland"
 operator: "pkp"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 fields with 2 days each"
+      fip-coupon-relatives:
+        status: valid
+        text: "Available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").

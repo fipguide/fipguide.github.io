@@ -9,6 +9,18 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "4 Felder mit jeweils zwei Tagen"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en [France](/country/france "France"). Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.
