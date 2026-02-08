@@ -1,0 +1,36 @@
+.o-fip-validity {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  @each $status in valid, invalid, unknown {
+    &--#{$status} {
+      color: var(--fip-validity-#{$status});
+    }
+  }
+
+  &__info-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: var(--color-body);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    .material-symbols-rounded {
+      font-size: 1.8rem;
+    }
+
+    &:hover {
+      color: var(--link-hovered);
+    }
+
+    &:focus-visible {
+      outline: 0.2rem solid var(--outline-focus-indicator);
+      outline-offset: 0.2rem;
+      border-radius: var(--border-radius-s);
+    }
+  }
+}

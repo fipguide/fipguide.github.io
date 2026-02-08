@@ -44,6 +44,13 @@ dialog:
 discord: FIP Guide Community
 donation: Donate
 editPage: Edit page
+fipValidity:
+  fip-coupon: FIP Coupon
+  fip-coupon-relatives: FIP Coupon for relatives
+  fip-global-fare: FIP Global Fare
+  fip-reduced-ticket: FIP Reduced Ticket
+  issuer: FIP Card Issuer
+  unknown: Unknown
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
