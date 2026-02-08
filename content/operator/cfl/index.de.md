@@ -26,6 +26,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxemburgische Staatsbahn und die wichtigste Bahngesellschaft in [Luxemburg](/country/luxembourg "Luxemburg").

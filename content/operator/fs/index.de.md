@@ -20,6 +20,16 @@ Params:
       fip-coupon:
         status: valid
         text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergünstigungen gelten jedoch nur bei der Tochtergesellschaft Trenitalia in [Italien](/country/italy "Italien").

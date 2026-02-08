@@ -24,6 +24,13 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % discount"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek van Holland ([Netherlands](/country/netherlands)) is referred to as Stena Line BV (StL) in the context of FIP.

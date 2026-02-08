@@ -21,6 +21,16 @@ Params:
       fip-reduced-ticket:
         status: valid
         text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "2 Freifahrtscheine pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "2 Freifahrtscheine pro Jahr"
+      fip-reduced-ticket:
+        status: valid
+        text: "75 % Rabatt"
 ---
 
 Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in [Frankreich](/country/france "Frankreich"). Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.
