@@ -65,10 +65,8 @@ a,
     background-color 0.3s ease;
   text-underline-offset: 0.2rem;
   border-radius: var(--border-radius-s);
-  border: none;
-  background: transparent;
   text-decoration: underline;
-  padding: 0;
+  cursor: pointer;
 
   &:hover,
   &:focus {
