@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die NS Ticketschalter."
 params:
   fip_50: true
   reservations: true
-  fee: "(7,50 € pro Person)"
+  fee: "7,50 € pro Person *"
   additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
   type: "onsite"
 
@@ -14,7 +14,7 @@ aliases:
   - ns_ticket_office
 ---
 
-Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
+\* Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
 
 FIP Tickets und internationale Reservierungen können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies:
 
