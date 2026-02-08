@@ -31,7 +31,7 @@ There are many different railway companies in [Great Britain](/country/united-ki
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="invalid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with all listed railway companies, see [Train Categories and Reservations](#train-categories-and-reservations).
