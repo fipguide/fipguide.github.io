@@ -17,9 +17,9 @@
     class="o-link"
     role="button"
     tabindex="0"
+    aria-haspopup="dialog"
+    aria-label="{{ T "dialog.open" }}"
     data-dialog-trigger="{{ strings.TrimPrefix "dialog:" $url }}"
-    {{- with .Title }}title="{{ . }}"{{- end -}}
-    {{- with .Title }}aria-label="{{ . }}"{{- end -}}
   >
     {{- .Text -}}{{- partial "icon" "open_in_browser" -}}
   </span>

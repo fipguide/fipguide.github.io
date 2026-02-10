@@ -39,6 +39,8 @@ country:
   one: pays
   other: pays
 countryselection: Choisir un pays
+dialog:
+  open: Ouvre le dialogue
 discord: Communauté FIP Guide
 donation: Donation
 editPage: Modifier la page
