@@ -186,40 +186,4 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 
 [^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
-[^4]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](dialog:stena-line-email)
-
-{{% dialog
-  id="stena-line-email"
-  title="E-Mail-Anfrage des FIP Guide Teams bei Stena Line"
-%}}
-
-# RE: Vielen Dank für Ihre E-Mail - CASE:172468
-
-**Von:** Stena Line UK contact.uk.info@stenaline.com
-**An:** Robert Schuster nextstop@fipguide.org
-**Datum:** Mo. 1. Dez. 2025, 10:59
-
-Hello,
-
-Thank you for contacting us.
-
-Concessions bookings can be made by phone or on the day of travel, subject to availability.
-
-The cost of the booking depends on the type of concessions pass you hold. Generally, the overnight sailing is more expensive than the daytime crossing, as the fare for the overnight journey is higher and cabins are mandatory.
-
-The concessions fare only provides a discount on the fare price; any additional extras are charged at full price and are not discounted.
-
-For more information or a travel quote, please contact [03447 7070 70](tel:03447707070), and a member of our team will be glad to assist you.
-
-Thank you
-
-Best regards
-
-Stacey
-
-Contact Centre agent
-
-Call: [03447 707070](tel:03447707070) (UK) [+353 1871 4711](tel:+35318714711) (IRL)
-
-Internet: www.stenaline.co.uk
-{{% /dialog %}}
+[^4]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
