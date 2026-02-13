@@ -40,6 +40,7 @@ country:
   one: Land
   other: Länder
 dialog:
+  close: Schließen
   open: Öffnet Dialog
 discord: FIP Guide Community
 donation: Spenden

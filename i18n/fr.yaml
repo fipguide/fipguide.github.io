@@ -40,6 +40,7 @@ country:
   other: pays
 countryselection: Choisir un pays
 dialog:
+  close: Fermer
   open: Ouvre le dialogue
 discord: Communauté FIP Guide
 donation: Donation

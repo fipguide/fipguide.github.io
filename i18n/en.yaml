@@ -39,6 +39,7 @@ country:
   one: country
   other: countries
 dialog:
+  close: Close
   open: Opens dialog
 discord: FIP Guide Community
 donation: Donate
