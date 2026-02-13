@@ -1,6 +1,8 @@
 .o-dialog {
   max-height: calc(100dvh - 14rem);
   overflow: auto;
+  display: flex;
+  flex-direction: column;
 
   .a-anchorlink {
     margin-bottom: 0;
@@ -25,6 +27,9 @@
   }
 
   &__header {
+    position: sticky;
+    top: 0;
+    background-color: var(--bg-default);
     display: flex;
     column-gap: 1rem;
     align-items: center;
@@ -40,6 +45,7 @@
 
   &__body {
     padding: 2rem;
+    overflow: auto;
 
     > *:last-child {
       margin-bottom: 0;
