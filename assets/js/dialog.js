@@ -4,6 +4,10 @@ import {
   addOverlayClickListener,
 } from "./overlay.js";
 
+function getCloseButton(dialog) {
+  return dialog.querySelector(".o-dialog__header > .a-button");
+}
+
 function openDialog(dialogId) {
   const dialog = document.getElementById(dialogId);
   if (!dialog) return;
@@ -11,13 +15,17 @@ function openDialog(dialogId) {
   dialog.show();
   openOverlay("dialog");
 
-  const closeButton = dialog.querySelector(".o-dialog__header > .a-button");
+  const closeButton = getCloseButton(dialog);
   if (closeButton) {
     closeButton.addEventListener("click", () => closeDialog(dialog));
   }
 }
 
 function closeDialog(dialog) {
+  const closeButton = getCloseButton(dialog);
+  if (closeButton) {
+    closeButton.replaceWith(closeButton.cloneNode(true));
+  }
   dialog.close();
   closeOverlay();
 }
