@@ -6,7 +6,7 @@
   <div class="o-dialog o-container">
     <header class="o-dialog__header">
       <h1 id="{{ .ID }}-title" class="o-dialog__title">{{ .Title }}</h1>
-      {{- partial "button-internal" (dict "Text" (partial "icon" "close") "Title" (i18n "dialog.close")) -}}
+      {{- partial "button" (dict "Text" (partial "icon" "close") "Title" (i18n "dialog.close")) -}}
     </header>
     <div class="o-dialog__body">
       {{- partial "increase-headings" (dict "content" .Content) | safeHTML -}}
