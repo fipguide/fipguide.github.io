@@ -1,6 +1,8 @@
 .o-dialog {
   max-height: calc(100dvh - 14rem);
   overflow: auto;
+  display: flex;
+  flex-direction: column;
 
   .a-anchorlink {
     margin-bottom: 0;
@@ -8,6 +10,14 @@
     &__link {
       display: none;
     }
+
+    > h2 {
+      margin-bottom: 1rem;
+    }
+  }
+
+  .o-divider {
+    display: none;
   }
 
   &__wrapper {
@@ -25,21 +35,30 @@
   }
 
   &__header {
+    position: sticky;
+    top: 0;
+    background-color: var(--bg-default);
     display: flex;
     column-gap: 1rem;
     align-items: center;
     justify-content: space-between;
-    padding: 1.6rem 2rem;
+    padding: 1rem 1rem 1rem 2rem;
     border-bottom: var(--border);
     border-color: var(--color-table-border);
 
     .o-divider {
       display: none;
     }
+
+    > h1 {
+      margin: 0;
+      font-size: 2.2rem;
+    }
   }
 
   &__body {
     padding: 2rem;
+    overflow: auto;
 
     > *:last-child {
       margin-bottom: 0;

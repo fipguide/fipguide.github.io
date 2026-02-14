@@ -1,6 +1,6 @@
 {{ partial "dialog" (dict
   "ID" (.Get "id")
   "Title" (.Get "title")
-  "Content" .Inner
+  "Content" (.Inner | $.Page.RenderString)
   )
 }}
