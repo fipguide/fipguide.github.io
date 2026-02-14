@@ -4,6 +4,32 @@ title: "BDŽ"
 country:
   - "bulgaria"
 operator: "bdz"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "1 Freifahrtschein pro Jahr"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von [Bulgarien](/country/bulgaria "Bulgarien") und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz.
@@ -16,9 +42,9 @@ Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellsc
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der BDŽ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 

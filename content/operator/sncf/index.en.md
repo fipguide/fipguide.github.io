@@ -9,6 +9,28 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "2 coupons per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "2 coupons per year"
+      fip-reduced-ticket:
+        status: valid
+        text: "75 % discount"
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.
@@ -23,10 +45,10 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Ticket: ✅ \
-FIP Global Fare: ✅ (For international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains))
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" text="For international `TGV` trains, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)" disable_dialog=true >}}
 
 FIP Coupons and FIP 50 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
 

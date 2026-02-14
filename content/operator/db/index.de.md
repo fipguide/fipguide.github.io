@@ -4,6 +4,22 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+Params:
+  fip-validity:
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
@@ -16,13 +32,9 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutsch
 
 ## Gültigkeit FIP Tickets
 
-<!--
-  Die Ticketkategorien können je nach Betreiber abweichen.
--->
-
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: unbekannt \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 

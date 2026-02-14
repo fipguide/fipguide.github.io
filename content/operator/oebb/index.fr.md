@@ -8,6 +8,32 @@ operator: "oebb"
 
 aliases:
   - obb
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Personnel actif et personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon par an"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
@@ -22,9 +48,9 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les coupons et Billets FIP 50 sont valables sur les trains ÖBB. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP des deux pays sont nécessaires.
 

@@ -4,6 +4,38 @@ title: "NS"
 country:
   - "netherlands"
 operator: "ns"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande](/country/netherlands "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.
@@ -17,9 +49,9 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 

@@ -5,6 +5,22 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
 ---
 
 LTG is the state railway company of the Republic of Lithuania and, through its subsidiary LTG-Link, operates all passenger services on the Lithuanian rail network as well as international connections.
@@ -19,9 +35,9 @@ LTG-Link publishes an [overview of the route network](https://ltglink.lt/en/rout
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}
 For all journeys with a FIP Coupon, a free ticket or reservation must be obtained before each journey ([see Train Categories and Reservations](#train-categories-and-reservations)).

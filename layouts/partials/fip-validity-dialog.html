@@ -1,0 +1,41 @@
+{{- $iconMapping := dict
+  "valid" "check_circle"
+  "invalid" "cancel"
+  "unknown" "help"
+-}}
+
+
+<table>
+  <thead>
+    <tr>
+      <th>{{ i18n "fipValidity.issuer" }}</th>
+      <th>{{ i18n "trainCategory.additionalInformation" }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range where .page.Site.RegularPages "Type" "operator" -}}
+      {{- if eq .File.ContentBaseName $.page.File.ContentBaseName -}}
+        {{- continue -}}
+      {{- end -}}
+      {{- $operatorParam := index (index $.page.Params "fip-validity" .File.ContentBaseName) $.type -}}
+
+      {{- $status := "unknown" -}}
+      {{- $text := i18n "fipValidity.unknown" -}}
+      {{- if $operatorParam -}}
+        {{- $status = $operatorParam.status -}}
+        {{- $text = $operatorParam.text -}}
+      {{- end -}}
+
+      {{- $statusIcon := index $iconMapping $status -}}
+      <tr>
+        <td>
+          {{ partial "link" (dict "Destination" (print "/operator/" .File.ContentBaseName) "Text" .Title "Page" $.page) }}
+        </td>
+        <td class="o-fip-validity--{{ $status }}">
+          {{ partial "icon" $statusIcon }}
+          {{ $text }}
+        </td>
+      </tr>
+    {{- end -}}
+  </tbody>
+</table>

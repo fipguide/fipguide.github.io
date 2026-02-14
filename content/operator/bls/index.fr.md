@@ -3,6 +3,32 @@ draft: false
 title: "BLS"
 country:
   - "switzerland"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon par an"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviaire publique de la [Suisse](/country/switzerland "Suisse"). Elle exploite de nombreuses liaisons de trains, de bus et de bateaux et circule principalement dans le canton de Berne.
@@ -15,11 +41,11 @@ Sur son site web, la BLS propose une [carte schématique des lignes](https://www
 - L'utilisation de tous les trains (sauf les trains motorail), bus et bateaux avec FIP est possible.
 - Il n'y a pas d'obligation de réservation.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de trains et réservations
 

@@ -7,6 +7,18 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+Params:
+  fip-validity:
+    operator1:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-coupon-relatives:
+        status: invalid # ou valid avec texte correspondant
+        text: "Pas disponible" # ou "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 <!-- Supprimez ce message si la page est complète -->
@@ -33,10 +45,18 @@ operator: "{{ .File.ContentBaseName }}"
   Les catégories de billets peuvent varier selon l’opérateur.
 -->
 
-Coupon FIP : <✅/⛔> \
-Coupon FIP pour les ayants droit : <✅/⛔> \
-Billets FIP 50 : <✅/⛔> \
-Tarif Global FIP : <✅/⛔>
+<!--
+  Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
+  - `type` : fip-coupon, fip-coupon-relatives, fip-reduced-ticket, fip-global-fare, additional
+  - `status` : valid, invalid, unknown
+  - `text` : Texte personnalisé optionnel à afficher
+  - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?

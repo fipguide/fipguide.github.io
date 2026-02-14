@@ -4,6 +4,28 @@ title: "National Rail"
 country:
   - "united-kingdom"
 operator: "gb"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: valid
+        text: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.
@@ -18,9 +40,9 @@ In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele ve
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen).
 

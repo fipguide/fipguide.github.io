@@ -4,6 +4,32 @@ title: "Trenitalia"
 country:
   - "italy"
 operator: "trenitalia"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Personnel actif et personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "Personnel actif et personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
 ---
 
 Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia en [Italie](/country/italy "Italie").
@@ -16,9 +42,9 @@ Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italie
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billet FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}
 Les Coupons FIP et les Billets FIP 50 sont valables dans les trains Trenitalia. Dans les filiales autres que Trenitalia (ex. Trenord, Ferrovie Sud Est), les rabais FIP ne s’appliquent pas, même si les trains portent le logo Trenitalia. Exception : TPER en Émilie-Romagne. [Voir Trains régionaux en Émilie-Romagne](#trains-régionaux-en-émilie-romagne)

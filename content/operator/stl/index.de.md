@@ -5,6 +5,32 @@ country:
   - "netherlands"
   - "united-kingdom"
 operator: "stl"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
 ---
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich ([Vereinigtes Königreich](/country/united-kingdom)) und Hoek van Holland ([Niederlande](/country/netherlands)) wird im Kontext von FIP als Stena Line BV (StL) genannt.
@@ -19,9 +45,9 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Felder. [^1]
 

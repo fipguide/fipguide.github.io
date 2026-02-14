@@ -4,6 +4,38 @@ title: "CFL"
 country:
   - "luxembourg"
 operator: "cfl"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: valid
+        text: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: valid
+        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxemburgische Staatsbahn und die wichtigste Bahngesellschaft in [Luxemburg](/country/luxembourg "Luxemburg").
@@ -15,9 +47,9 @@ Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxembur
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{< highlight important >}}
 Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabhängig von FIP an. Dies umfasst alle Zugverbindungen (außer TGV), Straßenbahnen und Busse. Die Fahrt mit der CFL ist somit in der zweiten Klasse kostenlos und es muss kein zusätzliches Ticket erworben werden. Die Fahrt in der ersten Klasse erfordert einen FIP Freifahrtschein oder FIP 50 Ticket der ersten Klasse. Für Fahrten über Luxemburg hinaus z. B. Richtung Deutschland oder Belgien wird eine Fahrkarte ab dem Grenztarifpunkt benötigt. Das bedeutet, dass beispielsweise ein durchgehendes Ticket, ein gültiger Freifahrtschein oder eine nationale Fahrvergünstigung bei Fahrten nach Deutschland nötig sind, um bis ins Nachbarland zu fahren. Eine Fahrkarte ab dem ersten Bahnhof nach der Grenze ist nicht ausreichend.

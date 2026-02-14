@@ -1,0 +1,9 @@
+{{- partial "fip-validity" (
+  dict
+  "type" (.Get "type")
+  "status" (.Get "status")
+  "text" (.Get "text")
+  "disable_dialog" (.Get "disable_dialog")
+  "page" .Page
+  )
+-}}

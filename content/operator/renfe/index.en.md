@@ -5,6 +5,32 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.
@@ -18,10 +44,10 @@ Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "S
 
 ## Validity of FIP Tickets
 
-FIP free ticket: ✅ (exceptions: trains requiring reservations) \
-FIP Coupons for relatives: ⛔ \
-FIP 50 Tickets: ✅ (exceptions: trains requiring reservations) \
-FIP Global Fare: ✅ for trains subject to reservation except Avlo
+{{< fip-validity type="fip-coupon" status="valid" text="Exceptions: trains requiring reservations" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" text="Exceptions: trains requiring reservations" >}}
+{{< fip-validity type="fip-global-fare" status="valid" text="For trains subject to reservation except Avlo" disable_dialog=true >}}
 
 ## Train Categories and Reservations
 

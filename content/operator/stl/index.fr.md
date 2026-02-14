@@ -5,6 +5,32 @@ country:
   - "netherlands"
   - "united-kingdom"
 operator: "stl"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % de réduction"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Personnel actif: 2 coupons par an. Personnel retraité (sécurisés uniquement): 1 coupon par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "Personnel actif: 2 coupons par an. Personnel retraité (sécurisés uniquement): 1 coupon par an"
 ---
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).
@@ -19,9 +45,9 @@ Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur 
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Le Coupon FIP pour StL comprend, contrairement à la norme, au maximum deux cases. [^1]
 

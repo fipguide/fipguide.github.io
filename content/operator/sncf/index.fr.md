@@ -9,6 +9,28 @@ country:
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "2 coupons par an"
+      fip-coupon-relatives:
+        status: valid
+        text: "2 coupons par an"
+      fip-reduced-ticket:
+        status: valid
+        text: "75 % de réduction"
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en [France](/country/france "France"). Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.
@@ -23,10 +45,10 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billet FIP 50 : ✅ \
-Tarif Global FIP : ✅ (pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux))
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)" disable_dialog=true >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 

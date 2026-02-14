@@ -4,6 +4,38 @@ title: "SNCB / NMBS"
 country:
   - "belgium"
 operator: "sncb"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "4 coupons with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: valid
+        text: "2 coupons with 4 fields each per year. Each field is valid for two days."
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
+    gb:
+      fip-coupon:
+        status: valid
+        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
+      fip-coupon-relatives:
+        status: valid
+        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
+      fip-reduced-ticket:
+        status: valid
+        text: "Active staff: 75 % discount. Retired staff: 50 % discount"
 ---
 
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in [Belgium](/country/belgium "Belgium").
@@ -16,9 +48,9 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
 

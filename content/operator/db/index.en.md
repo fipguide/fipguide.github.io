@@ -4,6 +4,22 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+Params:
+  fip-validity:
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.
@@ -16,13 +32,9 @@ Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany 
 
 ## Validity of FIP Tickets
 
-<!--
-    Ticket categories may vary depending on the operator.
--->
-
-FIP Coupon: ✅ \
-FIP Coupon for relatives: unknown \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 

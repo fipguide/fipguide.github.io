@@ -6,6 +6,32 @@ country:
   - "switzerland"
   - "italy"
 operator: "sp"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 Freifahrtschein pro Jahr"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Nicht verfügbar"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % Rabatt"
 ---
 
 In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [SBB CFF FFS](/operator/sbb "SBB CFF FFS") und der kleineren BLS auch noch einen Zusammenschluss vieler verschiedener Eisenbahnverkehrsunternehmen, die als _Schweizer Privatbahnen_ zusammengefasst werden. Darunter sind sowohl reguläre Züge im Schweizer Streckennetz, als auch eher touristische Verkehre. Neben Zügen sind hier auch einige Schiffe, Seilbahnen oder Busse zu finden.
@@ -18,9 +44,9 @@ In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [S
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zug- und Busbetreiber](#zug--und-busbetreiber), sowie bei den [Schiffbetreibern](#betreiber-von-schiffen). FIP Freifahrtscheine gelten mit wenigen Ausnahmen auch überall.
 

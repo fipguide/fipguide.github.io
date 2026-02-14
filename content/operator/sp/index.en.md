@@ -6,6 +6,32 @@ country:
   - "switzerland"
   - "italy"
 operator: "sp"
+Params:
+  fip-validity:
+    db:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
+    sncf:
+      fip-coupon:
+        status: valid
+        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
+    gb:
+      fip-coupon:
+        status: valid
+        text: "1 coupon per year"
+      fip-coupon-relatives:
+        status: invalid
+        text: "Not available"
+      fip-reduced-ticket:
+        status: valid
+        text: "50 % discount"
 ---
 
 In [Switzerland](/country/switzerland "Switzerland"), in addition to the national railway [SBB CFF FFS](/operator/sbb "SBB CFF FFS") and the smaller BLS, there is also an association of many different railway companies grouped together as the _Schweizer Privatbahnen_ (Swiss Private Railways). These include both regular trains in the Swiss rail network and more tourist-oriented services. In addition to trains, some boats, cable cars, and buses are also included.
@@ -18,9 +44,9 @@ In [Switzerland](/country/switzerland "Switzerland"), in addition to the nationa
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP 50 Tickets are valid with all listed railway companies, see [Rail and Bus Operators](#rail-and-bus-operators), as well as with the [ship operators](#ship-operators). FIP Coupons are also valid almost everywhere, with a few exceptions.
 
