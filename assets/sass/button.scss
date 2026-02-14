@@ -3,7 +3,6 @@
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  border: 0.2rem solid var(--link-default);
   border-radius: var(--border-radius-m);
   font-size: 1.5rem;
   cursor: pointer;
@@ -24,5 +23,13 @@
   @media print {
     padding: 0.6rem;
     display: block;
+  }
+
+  &__external {
+    border: 0.2rem solid var(--link-default);
+  }
+
+  &__internal {
+    border: none;
   }
 }
