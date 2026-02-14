@@ -17,7 +17,7 @@ Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP
 - [Koleje Dolnośląskie (KD)](/operator/kd)
 - Koleje Śląskie (KS)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
-- Łódzka Kolej Aglomeracyjna (ŁKA)
+- [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
 Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit FIP genutzt werden. Sie wird genauso wie die in Danzig mit SKM abgekürzt. Abgesehen von dieser ist die FIP-Abdeckung in Polen sehr hoch. Im Fernverkehr sind bei PKP InterCity teilweise Reservierungen nötig und auch allgemein empfehlenswert, da die Züge oft sehr gut ausgelastet sind. Im Regionalverkehr wird grundsätzlich nur die 2. Klasse angeboten.
 

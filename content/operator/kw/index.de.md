@@ -8,7 +8,7 @@ operator: "kw"
 
 Die Koleje Wielkopolskie, kurz KW, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Großpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
 
-Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecken](https://kolejedolnoslaskie.pl/wp-content/uploads/2025/12/Schemat-UMWD-2025-2026-1.1.pdf) der KW eingesehen werden. Dabei ist zu beachten, dass die Strecken oft auch durch andere Betreiber parallel bedient wird. 
+Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecken](https://koleje-wielkopolskie.com.pl/rozklad-jazdy/liniowe-rozklady-jazdy/) der KW eingesehen werden. Dabei ist zu beachten, dass die Strecken oft auch durch andere Betreiber parallel bedient wird. 
 
 ## Zusammenfassung
 
@@ -63,11 +63,13 @@ FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen 
 
 ### Im Zug
 
-FIP 50 Fahrkarten können auch aufschlagsfrei direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Die Tickets können in bar oder mit kontaktloser Kreditkarte bezahlt werden. Eine Zahlung ist nur in der Landeswährung Złoty möglich.
+FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Bei Einstieg an Bahnhöfen, an denen auch ein Ticketschalter oder Fahrkartenautomat vorhanden ist, kann eine Gebühr für die Ausstellung im Zug zu dem Ticketpreis dazu kommen. Die Tickets können in bar oder mit kontaktloser Kreditkarte bezahlt werden. Eine Zahlung ist nur in der Landeswährung Złoty möglich.
 
 ## Ermäßigungen
 
 Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder bis einschließlich 11 Jahren erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
+
+Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, das in der Form des "BILET TURYSTYCZNY" auch für Züge der KW gültig ist. Damit können von Freitag 18 Uhr bis Montag 6 Uhr alle "Regio"-Züge der Polregio sowie alle Züge der KW, KMŁ, Arriva RP und ŁKA (außer ŁKA Sprinter) genutzt werden. Weitere Informationen auf der [Polregio Website](https://bilety.polregio.pl/en/sieciowe/47).
 
 ## Tarifliche Besonderheiten
 

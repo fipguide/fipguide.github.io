@@ -9,7 +9,7 @@ params:
   type: "onsite"
 ---
 
-An einigen Bahnhöfen gibt es Koleje Wielkopolskie Fahrkartenautomaten.
+An einigen Bahnhöfen gibt es Koleje Wielkopolskie Fahrkartenautomaten. Zudem sind sie auf bestimmten Strecken auch direkt in den Zügen zu finden.
 
 {{% booking-section "fip_50" %}}
 
