@@ -15,7 +15,7 @@ On its website, KŚ provides a [route map overview](https://www.kolejeslaskie.pl
 - KŚ accepts FIP Coupons and FIP 50 Tickets.
 - Only 2nd class available on trains and no reservations possible.
 - Some special services are excluded from FIP.
-- Individual routes can also be used with PKP coupons.
+- Individual routes can also be used with FIP coupons from PKP.
 
 ## Validity of FIP Tickets
 
@@ -29,7 +29,7 @@ For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from
 
 ## Train Categories and Reservations
 
-KŚ does not distinguish different train categories. Trains usually have a line number starting with "S", which is often not provided in information systems (here it often just says "KŚ" followed by a train number). Only 2nd class tickets are offered, as there is no 1st class on KŚ trains. Additionally, no reservations are possible.
+KŚ does not distinguish between different train categories. Trains usually have a line number starting with "S", which is often not provided in information systems (here it often just says "KŚ" followed by a train number). Only 2nd class tickets are offered, as there is no 1st class on KŚ trains. Additionally, no reservations are possible.
 
 ## Ticket and Reservation Purchase
 

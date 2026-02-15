@@ -8,7 +8,7 @@ operator: "ks"
 
 Koleje Śląskie, abrégées KŚ, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Silésie. C'est l'une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).
 
-Sur son site Web, KŚ propose une [carte d'aperçu des lignes](https://www.kolejeslaskie.pl/rozklad_jazdy/schemat-linii-komunikacyjnych/).
+Sur son site Web KŚ propose une [carte d'aperçu des lignes](https://www.kolejeslaskie.pl/rozklad_jazdy/schemat-linii-komunikacyjnych/).
 
 ## Résumé
 

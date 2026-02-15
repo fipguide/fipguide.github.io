@@ -12,10 +12,10 @@ Auf ihrer Website bietet die KŚ eine [Übersichtskarte der Strecken](https://ww
 
 ## Zusammenfassung
 
-- KŚ akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- KŚ akzeptiert FIP Freifahrtscheine und FIP 50 Tickets.
 - Nur 2. Klasse in den Zügen vorhanden und keine Reservierungen möglich.
 - Einige spezielle Fahrten sind von FIP ausgenommen.
-- Einzelne Routen sind auch mit PKP Freifahrten nutzbar.
+- Einzelne Routen sind auch mit PKP Freifahrtscheinen nutzbar.
 
 ## Gültigkeit FIP-Tickets
 
