@@ -17,7 +17,7 @@ aliases:
 - ÖBB accepts FIP Coupons and FIP 50 Tickets.
 - Pay attention to trains of other operators without FIP acceptance.
 - No FIP on Vienna Airport Express `CAT`.
-- Special rules for trains to Italy, Nightjets, Motorail trains, and IC Buses.
+- Special rules for trains to Italy, Nightjets, and Motorail trains.
 - ÖBB FIP Coupon is also valid in Liechtenstein.
 
 ## Validity of FIP Tickets
@@ -318,18 +318,6 @@ The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% 
 ### ÖBB Postbus
 
 FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services (SEV).
-
-### IC Bus (ICB)
-
-FIP Tickets are not valid on IC Bus (ICB), except for rail replacement services (SEV) and the following routes:
-
-#### Graz – Klagenfurt
-
-Until December 2025, FIP Tickets are also valid on the IC Bus between Graz and Klagenfurt.
-
-#### Klagenfurt/Villach – Udine/Venice
-
-Special FIP Global Fares apply on IC Bus (ICB). Seat reservation is mandatory and included in the ticket price.
 
 ### Motorail
 
