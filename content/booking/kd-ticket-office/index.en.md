@@ -15,5 +15,5 @@ KD operates an extensive network of ticket offices, including at smaller station
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets for domestic journeys can be purchased at PKP ticket offices. It is currently unknown if international tickets are also sold here.
+FIP 50 Tickets for domestic journeys can be purchased at KD ticket offices. It is currently unknown if international tickets are also sold here.
 {{% /booking-section %}}

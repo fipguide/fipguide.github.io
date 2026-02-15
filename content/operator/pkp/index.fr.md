@@ -12,7 +12,7 @@ Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leu
 
 - PKP accepte les Coupons FIP et les Billets FIP 50.
 - Réservation obligatoire pour les trains `EIP` et `EIC` et partiellement pour les trains `IC` et `TLK`.
-- Validité des Billets FIP de PKP également dans le système RER de Gdansk (Tri-Cité), chez Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) et sur certaines lignes de Koleje Dolnośląskie (KD).
+- Validité des Billets FIP de PKP également dans le système RER de Gdansk (Tri-Cité), chez Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) et sur certaines lignes de Koleje Śląskie (KŚ).
 
 ## Validité des Billets FIP
 
@@ -27,7 +27,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables chez PKP. Cela inclut :
 - Koleje Mazowieckie (KM) (trains régionaux autour de Varsovie et de la voïvodie de Mazovie)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (RER entre Gdansk, Gdynia et Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (trains régionaux dans la grande région de Varsovie)
-- Certaines lignes de Koleje Dolnośląskie (KD).
+- Certaines lignes de Koleje Śląskie (KŚ), voir [Utilisation des Coupons FIP de PKP sur les lignes KŚ](#utilisation-des-coupons-fip-de-pkp-sur-les-lignes-kś)
 
 Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
@@ -294,6 +294,18 @@ L’interruption de voyage est généralement autorisée, mais il y a des except
 #### PKP Szybka Koleje Miejska w Trójmieście (SKM)
 
 L’interruption de voyage est autorisée mais soumise aux conditions de transport (RPO-PKP SKM) sur le site [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+
+### Utilisation des Coupons FIP de PKP sur les lignes KŚ
+
+Sur les lignes suivantes de [KŚ](/operator/ks), les billets FIP de KŚ et de PKP sont tous deux valables :
+
+- Gliwice – Katowice – Częstochowa
+- Częstochowa – Lubliniec
+- Katowice – Tychy – Pszczyna – Czechowice Dziedzice – Bielsko Biała – Zwardoń
+- Żywiec – Sucha Beskidzka – Zakopane
+- Czechowice Dziedzice – Zebrzydowice
+- Pszczyna – Wisła Głębce
+- Kluczbork – Katowice
 
 ### Bus Varsovie Modlin
 
