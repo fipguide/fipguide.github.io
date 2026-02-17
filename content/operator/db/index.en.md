@@ -255,7 +255,7 @@ Reservation for individual trains without transfer is cheaper via ÖBB.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-        subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
+    subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
 %}}
 Reservation for individual trains without transfer is cheaper via ÖBB.
 {{% /booking %}}

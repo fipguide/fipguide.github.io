@@ -251,7 +251,7 @@ La réservation de trains directs sans correspondance est moins chère via l’�
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-        subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
+    subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
 %}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}

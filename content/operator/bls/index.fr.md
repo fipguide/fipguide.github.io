@@ -108,13 +108,13 @@ Le FIP est valable sur les bateaux de la BLS sur le lac de Thoune et le lac de B
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-        subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux collaborateurs de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux collaborateurs de la Deutsche Bahn."
 %}}
 Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-        subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (non valable dans le pays d'émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l'Allemagne et la Suisse pour l'ensemble du trajet (non valable dans le pays d'émission de la Carte FIP)"
 %}}
 Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
 {{% /booking %}}
