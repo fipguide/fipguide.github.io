@@ -18,6 +18,6 @@ An einigen Bahnhöfen gibt es Koleje Wielkopolskie Fahrkartenautomaten. Zudem si
 An den Fahrkartenautomaten können ermäßigte FIP 50 Fahrkarten erworben werden. Dafür muss der Rabatt “UMOWA (ulga 50%)” angegeben werden.
 
 {{% highlight important %}}
-In der Vergangenheit war "UMOWA" nicht immer korrekt für FIP-Fahrkarten, bei der KW gibt es jedoch keine andere Auswahlmöglichkeit. Im Zweifelsfall sollte aber vor Ort nachgefragt werden, ob dies auch wirklich der korrekte Tarif für FIP-Fahrkarten ist.
+In der Vergangenheit war “UMOWA” nicht immer korrekt für FIP-Fahrkarten, bei der KW gibt es jedoch keine andere Auswahlmöglichkeit. Im Zweifelsfall sollte aber vor Ort nachgefragt werden, ob dies auch wirklich der korrekte Tarif für FIP-Fahrkarten ist.
 {{% /highlight %}}
 {{% /booking-section %}}
