@@ -108,13 +108,13 @@ FIP is valid on BLS ships on Lake Thun and Lake Brienz.
 {{% booking id="db-website"/%}}
 
 {{% booking id="db-website-fip-db"
-        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
 %}}
 For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-international"
-        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the country of issuance of the FIP Card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland for the entire route (not valid in the country of issuance of the FIP Card)"
 %}}
 For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 {{% /booking %}}
