@@ -12,7 +12,7 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 
 - NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Reservierung ist grundsätzlich nicht erforderlich.
-- Zuschlag für Eurocity Direct (`ECD`) und teilweise Intercity Direct (`ICD`) erforderlich.
+- Zuschlag teilweise für Eurocity Direct (`ECD`) und Intercity Direct (`ICD`) erforderlich.
 - Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
 
 ## Gültigkeit FIP Tickets
@@ -104,7 +104,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
     id="icd"
     title="Intercity Direct (ICD)"
     type="highspeed"
-    fip_accepted=partially
+    fip_accepted=true
     reservation_required=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
