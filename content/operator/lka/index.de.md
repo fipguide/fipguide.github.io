@@ -8,7 +8,7 @@ operator: "lka"
 
 Die Łódzka Kolej Aglomeracyjna, kurz ŁKA, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Łódz anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
 
-Auf ihrer Website bietet die ŁKA eine [Übersichtskarte der Strecken](https://lka.lodzkie.pl/kolejowa-komunikacja-autobusowa/) an. 
+Auf ihrer Website bietet die ŁKA eine [Übersichtskarte der Strecken](https://lka.lodzkie.pl/kolejowa-komunikacja-autobusowa/) an.
 
 ## Zusammenfassung
 
@@ -39,7 +39,7 @@ Die ŁKA unterscheidet in zwei Zugkategorien:
     reservation_possible=true
 %}}
 
-Regionalzüge, die zwischen Łódz und Warschau verkehren und dabei unterwegs nur an wenigen Bahnhöfen halten. Teilweise halten die Züge nur an den wichtigsten Bahnhöfen der beiden Städte und dazwischen gar nicht mehr. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "ŁS" und im Anschluss eine konkrete Zugnummer
+Regionalzüge, die zwischen Łódz und Warschau verkehren und dabei unterwegs nur an wenigen Bahnhöfen halten. Teilweise halten die Züge nur an den wichtigsten Bahnhöfen der beiden Städte und dazwischen gar nicht mehr. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁS` und im Anschluss eine konkrete Zugnummer
 
 #### Reservierung
 
@@ -56,7 +56,7 @@ Bei diesen Zügen ist eine kostenlose Reservierung möglich. Sie können jedoch 
     reservation_possible=false
 %}}
 
-Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warschau verkehren.  Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "ŁKA" und im Anschluss eine konkrete Zugnummer. Hier ist keine Reservierung möglich. Es werden nur Tickets der 2. Klasse angeboten, da es in ŁKA-Zügen keine 1. Klasse gibt.
+Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warschau verkehren. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁKA` und im Anschluss eine konkrete Zugnummer. Hier ist keine Reservierung möglich. Es werden nur Tickets der 2. Klasse angeboten, da es in ŁKA-Zügen keine 1. Klasse gibt.
 
 {{% /train-category %}}
 
@@ -67,22 +67,25 @@ Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warsc
 {{% booking id="koleo-website"
     reservations=true
 %}}
+
 #### Reservierungen
-Reservierungen für die ŁS Züge können beim Ticketkauf direkt kostenfrei mit gebucht werden.
+
+Reservierungen für die `ŁS` Züge können beim Ticketkauf direkt kostenfrei mit gebucht werden.
 {{% /booking %}}
 
 ### Vor Ort
+
 {{% booking id="lka-ticket-machine"/%}}
 
 {{% booking id="lka-ticket-office"/%}}
 
 ### Im Zug
 
-FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Bei Einstieg an Bahnhöfen, an denen auch ein Ticketschalter oder Fahrkartenautomat vorhanden ist, kann eine Gebühr für die Ausstellung im Zug zu dem Ticketpreis dazu kommen. Die Tickets können in bar oder mit kontaktloser Kreditkarte bezahlt werden. Eine Zahlung ist nur in der Landeswährung Złoty möglich.[^2] Auch Reservierungen für die ŁS Züge können hier noch spontan kostenfrei erworben werden, falls noch Plätze verfügbar sind.
+FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Bei Einstieg an Bahnhöfen, an denen auch ein Ticketschalter oder Fahrkartenautomat vorhanden ist, kann eine Gebühr für die Ausstellung im Zug zu dem Ticketpreis dazu kommen. Die Tickets können in bar oder mit kontaktloser Kreditkarte bezahlt werden. Eine Zahlung ist nur in der Landeswährung Złoty möglich. Auch Reservierungen für die `ŁS` Züge können hier noch spontan kostenfrei erworben werden, falls noch Plätze verfügbar sind. [^2]
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder bis einschließlich 11 Jahren erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
+Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder bis einschließlich 11 Jahren erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif. [^1]
 
 Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, das in der Form des "BILET TURYSTYCZNY" auch für die normalen ŁKA Züge gültig ist. Damit können von Freitag 18 Uhr bis Montag 6 Uhr alle "Regio"-Züge der Polregio sowie alle Züge der KW, KMŁ, Arriva RP und ŁKA (außer ŁKA Sprinter) genutzt werden. Weitere Informationen auf der [Polregio Website](https://bilety.polregio.pl/en/sieciowe/47).
 
@@ -111,4 +114,5 @@ Auf ihrer Website bietet die ŁKA eine [Live-Karte](https://infoportal.lka.lodzk
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
 [^2]: [ŁKA Ticketverkauf im Zug](https://lka.lodzkie.pl/obsluga-pociagu/)

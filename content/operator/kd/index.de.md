@@ -61,6 +61,8 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 
 {{% booking id="kd-ticket-office"/%}}
 
+{{% booking id="kd-ticket-machine"/%}}
+
 {{% booking id="db-ticket-office" reservations=nil /%}}
 
 ### Im Zug
