@@ -19,7 +19,7 @@ An einigen Bahnhöfen in Polen gibt es Fahrkartenautomaten, die auch Fahrkarten 
 An den Fahrkartenautomaten können ermäßigte FIP 50 Fahrkarten erworben werden. Dafür muss, falls möglich, ein Rabatt “FIP (50%)” angegeben werden. Falls dies nicht möglich ist, sollte der Rabatt “UMOWA (ulga 50%)” angegeben werden.
 
 {{% highlight important %}}
-In der Vergangenheit war “UMOWA” nicht immer korrekt für FIP-Fahrkarten. Im Zweifelsfall sollte vor Ort nachgefragt werden, ob dies auch wirklich der korrekte Tarif für FIP-Fahrkarten ist.
+In der Vergangenheit war "UMOWA" nicht immer korrekt für FIP-Fahrkarten. Im Zweifelsfall sollte vor Ort nachgefragt werden, ob dies auch wirklich der korrekte Tarif für FIP-Fahrkarten ist.
 {{% /highlight %}}
 
 ## Reservierungen
