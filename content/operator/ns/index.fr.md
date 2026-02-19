@@ -80,7 +80,7 @@ Exemples de billets sans supplément requis :
 
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l'application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s'appliquent pour un billet unique.
 
-Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^2] [^3] [^4]
+Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
 ![Réseau Eurocity (Direct)](eurocity-map.webp)
@@ -115,7 +115,7 @@ Pour les trajets sur le tronçon entre Rotterdam et Schiphol, un [supplément](h
 
 Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l'application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s'appliquent pour un billet unique.
 
-Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^2] [^3] [^4]
+Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
 ![Réseau Intercity Direct, Spag85, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg" target="_blank">Wikimedia Commons</a>](intercity-direct-map.webp)

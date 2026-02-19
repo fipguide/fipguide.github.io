@@ -80,7 +80,7 @@ Example tickets without supplement required:
 
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
 
-Holders of an OV-chipkaart can buy a discounted supplement for 1.92 € (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^2] [^3] [^4]
+Holders of an OV-chipkaart can buy a discounted supplement for 1.92 € (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
 ![Eurocity (Direct) Network](eurocity-map.webp)
@@ -115,7 +115,7 @@ For journeys on the section between Rotterdam and Schiphol, a [supplement](https
 
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of 1.50 € is charged for a single-use ticket.
 
-Holders of an OV-chipkaart can buy a discounted supplement for 1.92 € (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^2] [^3] [^4]
+Holders of an OV-chipkaart can buy a discounted supplement for 1.92 € (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
 ![Intercity Direct Network, Spag85, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg" target="_blank">Wikimedia Commons</a>](intercity-direct-map.webp)
