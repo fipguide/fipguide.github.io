@@ -16,8 +16,8 @@ La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires 
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
 - [Koleje Śląskie (KŚ)](/operator/ks)
-- Koleje Wielkopolskie (KW)
-- Łódzka Kolej Aglomeracyjna (ŁKA)
+- [Koleje Wielkopolskie (KW)](/operator/kw)
+- [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
 Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
 

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Koleje Dolnośląskie Fahrkartenautomat"
-description: "Buchungsinformationen für die Koleje Dolnośląskie Fahrkartenautomaten."
+title: "Koleje Dolnośląskie Ticket Machine"
+description: "Booking information for the Koleje Dolnośląskie ticket machines."
 
 params:
   fip_50: true
@@ -9,16 +9,15 @@ params:
   type: "machine"
 ---
 
-An einigen Bahnhöfen gibt es Koleje Dolnośląskie Fahrkartenautomaten. Auf der Website der KD sind alle Bahnhöfe mit Fahrkartenautomaten aufgelistet.
+At some stations, Koleje Dolnośląskie ticket machines are available. All stations with ticket machines are listed on the KD website.
 
 {{% booking-section "fip_50" %}}
 
-## FIP 50 Fahrkarten
+## FIP 50 Tickets
 
-An den Fahrkartenautomaten können ermäßigte FIP 50 Fahrkarten erworben werden. Dafür muss unter "Weitere Rabatte" der Rabatt "Międzynarodowej Karty Zniżek FIP 50%" ausgewählt werden. Alle Rabattoptionen verteilen sich auf mehrere Seiten. Anschließend erscheint im vorherigen Menü die Möglichkeit Personen mit dem Rabatt hinzuzufügen.
+Discounted FIP 50 Tickets can be purchased at the ticket machines. Under "Weitere Rabatte" (further discounts), the discount "Międzynarodowej Karty Zniżek FIP 50%" must be selected. All discount options are spread across multiple pages. Afterwards, the option to add passengers with the discount appears in the previous menu.
 
 ![](kd-passengers.webp)
 
 ![](kd-discounts.webp)
-
 {{% /booking-section %}}

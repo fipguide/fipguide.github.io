@@ -7,7 +7,7 @@ params:
   fip_50: true
   reservations: true
   additional_info_link: "https://lka.lodzkie.pl/biletomaty/"
-  type: "onsite"
+  type: "machine"
 ---
 
 An einigen Bahnhöfen in Polen gibt es Fahrkartenautomaten, die auch Fahrkarten für die ŁKA verkaufen. Zudem sind sie auf bestimmten Strecken auch direkt in den Zügen zu finden.

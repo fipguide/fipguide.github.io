@@ -16,8 +16,8 @@ Poland is the country with the most different railway companies that offer FIP. 
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
 - [Koleje Śląskie (KŚ)](/operator/ks)
-- Koleje Wielkopolskie (KW)
-- Łódzka Kolej Aglomeracyjna (ŁKA)
+- [Koleje Wielkopolskie (KW)](/operator/kw)
+- [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
 The local rail system in Warsaw (Szybka Kolej Miejska w Warszawie) cannot be used with FIP Tickets. It is abbreviated as SKM, just like the one in Gdansk. Apart from this, FIP coverage in Poland is very high. In long-distance traffic, reservations are sometimes necessary at PKP InterCity and also generally recommended, as the trains are often very well utilized. In regional traffic, generally only 2nd class is offered.
 

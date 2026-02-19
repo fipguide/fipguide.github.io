@@ -6,7 +6,7 @@ description: "Buchungsinformationen für die Koleje Wielkopolskie Fahrkartenauto
 params:
   fip_50: true
   additional_info_link: "https://koleje-wielkopolskie.com.pl/dla-pasazera/gdzie-kupic-bilet/"
-  type: "onsite"
+  type: "machine"
 ---
 
 An einigen Bahnhöfen gibt es Koleje Wielkopolskie Fahrkartenautomaten. Zudem sind sie auf bestimmten Strecken auch direkt in den Zügen zu finden.
