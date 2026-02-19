@@ -67,7 +67,7 @@ FIP 50 Tickets can only be sold for domestic connections.
 
 ### On the Train
 
-FIP 50 tickets can also be purchased directly on the train without surcharge. For this, you must contact the train staff immediately after boarding. Tickets can be paid in cash or by contactless credit card. Payment is only possible in the local currency Złoty.
+FIP 50 Tickets can also be purchased directly on the train. To do this, you must contact the train staff immediately after boarding. When boarding at stations that also have a ticket office or ticket machine, a surcharge for issuing the ticket on the train may be added to the ticket price. Tickets can be paid for in cash or by contactless credit card. Payment is only possible in the local currency, złoty.
 
 ## Discounts
 

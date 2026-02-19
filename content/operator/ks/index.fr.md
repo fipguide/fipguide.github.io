@@ -67,7 +67,7 @@ Les Billets FIP 50 ne peuvent être vendus que pour les connexions nationales.
 
 ### À bord du train
 
-Les Billets FIP 50 peuvent également être achetés sans supplément directement dans le train. Pour cela, le personnel de bord doit être contacté immédiatement après l'embarquement. Les billets peuvent être payés en espèces ou par carte de crédit sans contact. Le paiement est possible uniquement en devise locale, le złoty.
+Les Billets FIP 50 peuvent également être achetés directement dans le train. Pour cela, le personnel de bord doit être contacté immédiatement après l'embarquement. En cas d'embarquement aux gares disposant également d'un guichet ou d'un distributeur de billets, des frais de délivrance en train peuvent s'ajouter au prix du billet. Les billets peuvent être payés en espèces ou par carte de crédit sans contact. Le paiement n'est possible que dans la devise locale, le Złoty.
 
 ## Réductions
 
