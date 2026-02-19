@@ -12,7 +12,7 @@ The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together wit
 
 - PKP accepts FIP Coupons and FIP 50 Tickets.
 - Reservation requirement for `EIP` and `EIC` trains and partially for `IC` and `TLK` trains.
-- Validity of PKP FIP Tickets also in the local rail system of Gdansk (Tri-City), at Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) and some routes of Koleje Dolnośląskie (KD).
+- Validity of PKP FIP Tickets also in the local rail system of Gdansk (Tri-City), at Warszawska Kolej Dojazdowa (WKD), Koleje Mazowieckie (KM) and some routes of Koleje Śląskie (KŚ).
 
 ## Validity of FIP Tickets
 
@@ -27,7 +27,7 @@ FIP Coupons and FIP 50 Tickets are valid with PKP. This includes:
 - Koleje Mazowieckie (KM) (Regional trains around Warsaw and the Masovian Voivodeship)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (local rail between Gdansk, Gdynia and Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (Regional trains in the greater Warsaw area)
-- Some routes of Koleje Dolnośląskie (KD).
+- Some routes of Koleje Śląskie (KŚ), see [Using PKP FIP Coupons on KŚ Routes](#using-pkp-fip-coupons-on-kś-routes)
 
 For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
@@ -297,6 +297,18 @@ Journey interruption is generally allowed, but there are exceptions. When in dou
 #### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
 
 Journey interruption is allowed but subject to the transport conditions (RPO-PKP SKM) on the website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+
+### Using PKP FIP Coupons on KŚ Routes
+
+FIP Tickets of both KŚ and PKP are valid on the following KŚ routes:
+
+- Gliwice – Katowice – Częstochowa
+- Częstochowa – Lubliniec
+- Katowice – Tychy – Pszczyna – Czechowice Dziedzice – Bielsko Biała – Zwardoń
+- Żywiec – Sucha Beskidzka – Zakopane
+- Czechowice Dziedzice – Zebrzydowice
+- Pszczyna – Wisła Głębce
+- Kluczbork – Katowice
 
 ### Warsaw Modlin Buses
 

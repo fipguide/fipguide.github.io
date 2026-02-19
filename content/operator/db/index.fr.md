@@ -250,14 +250,8 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}
 
-{{% booking id="db-website-fip-db"
-        subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche avec part de billet uniquement pour le tronçon étranger. Réservé aux employés de la Deutsche Bahn."
-%}}
-La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
-{{% /booking %}}
-
 {{% booking id="db-website-fip-international"
-        subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
+    subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
 %}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}
