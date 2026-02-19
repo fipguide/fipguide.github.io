@@ -63,16 +63,16 @@ Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderl
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
 {{< highlight important >}}
-Bei nationalen Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3,20 € zu entrichten.
+Beim einer ausschließlich nationale Fahrt auf dem Abschnitt zwischen Rotterdam und Schiphol ist bei FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
-Bei internationalen Fahrten (bei Ein- oder Ausstieg in den `ECD` außerhalb der Niederlande), muss kein Zuschlag für FIP 50 Tickets und FIP Freifahrtscheine erworben werden, selbst wenn man dabei den Abschnitt Rotterdam - Schiphol mit dem `ECD` befährt.
+Beinhaltet das FIP 50 Ticket auch einen internationalen Abschnitt (bei Ein- oder Ausstieg in den `ECD` außerhalb der Niederlande), muss kein Zuschlag für FIP 50 Tickets erworben werden, selbst wenn man dabei den Abschnitt Rotterdam - Schiphol mit dem `ECD` befährt.
 
-Beispielfahrten mit Zuschlagspflicht:
+Beispieltickets mit Zuschlagspflicht:
 
 - Rotterdam - Amsterdam
 - Breda - Amsterdam
 
-Beispielfahrten ohne Zuschlagspflicht:
+Beispieltickets ohne Zuschlagspflicht:
 
 - Brüssel - Amsterdam
 - Brüssel - Rotterdam
@@ -83,7 +83,7 @@ Der Zuschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in 
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Eurocity Direct Netz, <a href="https://www.b-europe.com/DE/Zuege/Eurocity-Direct" target="_blank">SNCB-NMBS International</a>](eurocity-direct-map.webp)
+![Eurocity (Direct) Netz](eurocity-map.webp)
 
 {{% /train-category %}}
 
@@ -96,6 +96,8 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
+
+![Eurocity (Direct) Netz](eurocity-map.webp)
 {{% /train-category %}}
 
 {{% train-category
@@ -109,7 +111,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
 {{< highlight important >}}
-Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3,20 € zu entrichten.
+Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
