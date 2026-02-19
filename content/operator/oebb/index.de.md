@@ -17,7 +17,7 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 - ÖBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Aufpassen bei Zügen anderer Betreiber ohne FIP Akzeptanz.
 - Kein FIP im Wiener Flughafenexpress `CAT`.
-- Besondere Regeln gelten in Zügen nach Italien, Nightjets, Autozügen und IC Bussen.
+- Besondere Regeln gelten in Zügen nach Italien, Nightjets und Autozügen.
 - FIP Freifahrt der ÖBB gilt auch in Liechtenstein.
 
 ## Gültigkeit FIP Tickets
@@ -309,18 +309,6 @@ Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewährt jedoch bei Vorl
 ### ÖBB Postbus
 
 FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverkehren (SEV).
-
-### IC Bus (ICB)
-
-FIP Fahrkarten sind im IC Bus (ICB) nicht gültig, außer bei Schienenersatzverkehren (SEV) und den folgenden Verbindungen:
-
-#### Graz – Klagenfurt
-
-Bis Dezember 2025 gelten FIP Fahrscheine auch im IC Bus zwischen Graz und Klagenfurt.
-
-#### Klagenfurt/Villach – Udine/Venedig
-
-Im IC Bus (ICB) gelten besondere FIP Globalpreise. Eine Sitzplatzreservierung ist verpflichtend und Ticketpreise enthalten.
 
 ### Motorail
 

@@ -15,5 +15,5 @@ KD exploite un vaste réseau de guichets, y compris dans de petites gares. Il es
 
 ## Billets FIP 50
 
-Les Billets FIP 50 pour les trajets nationaux peuvent être achetés au guichet PKP. Il n’est actuellement pas connu si des billets internationaux peuvent également y être achetés.
+Les Billets FIP 50 pour les trajets nationaux peuvent être achetés au guichet KD. Il n’est actuellement pas connu si des billets internationaux peuvent également y être achetés.
 {{% /booking-section %}}
