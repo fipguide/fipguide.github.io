@@ -8,7 +8,7 @@ operator: "kw"
 
 Die Koleje Wielkopolskie, kurz KW, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Großpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
 
-Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecken](https://koleje-wielkopolskie.com.pl/rozklad-jazdy/liniowe-rozklady-jazdy/) der KW eingesehen werden. Dabei ist zu beachten, dass die Strecken oft auch durch andere Betreiber parallel bedient wird. 
+Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecken](https://koleje-wielkopolskie.com.pl/rozklad-jazdy/liniowe-rozklady-jazdy/) der KW eingesehen werden. Dabei ist zu beachten, dass die Strecken oft auch durch andere Betreiber parallel bedient wird.
 
 ## Zusammenfassung
 
@@ -55,6 +55,7 @@ FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen 
 /%}}
 
 ### Vor Ort
+
 {{% booking id="kw-ticket-machine"/%}}
 
 {{% booking id="kw-ticket-office"/%}}
