@@ -22,16 +22,18 @@
 
   &__wrapper {
     width: fit-content;
-    position: fixed;
-    top: 7rem;
     border: none;
     padding: 0;
     background-color: var(--bg-default);
     color: var(--color-body);
     border-radius: var(--border-radius-m);
-    z-index: 12;
     border: var(--border);
     overflow: hidden;
+
+    &::backdrop {
+      background-color: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(4px);
+    }
   }
 
   &__header {
