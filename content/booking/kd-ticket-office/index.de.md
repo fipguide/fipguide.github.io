@@ -15,5 +15,5 @@ Die KD betreibt ein umfängliches Netz von Ticketschaltern, auch an kleineren Ba
 
 ## FIP 50 Fahrkarten
 
-FIP 50 Fahrkarten für nationale Fahrten können am PKP Ticketschalter erworben werden. Ob auch internationale Fahrkarten verkauft werden können, ist uns aktuell nicht bekannt.
+FIP 50 Fahrkarten für nationale Fahrten können am KD Ticketschalter erworben werden. Ob auch internationale Fahrkarten verkauft werden können, ist uns aktuell nicht bekannt.
 {{% /booking-section %}}
