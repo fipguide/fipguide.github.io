@@ -15,7 +15,7 @@ params:
 Poland is the country with the most different railway companies that offer FIP. It depends very much on which voivodeships (parts of Poland) the journeys should go through. The most important operator is the state railway company [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), which with its subsidiaries covers almost the complete long-distance traffic as well as large parts of regional traffic. In addition to PKP Intercity and Polregio, PKP also includes the local rail system of Gdansk (Tri-City) and the regional traffic of Koleje Mazowieckie (KM). The following regionally operating railway companies offer FIP separately:
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
-- Koleje Śląskie (KS)
+- [Koleje Śląskie (KŚ)](/operator/ks)
 - Koleje Wielkopolskie (KW)
 - Łódzka Kolej Aglomeracyjna (ŁKA)
 

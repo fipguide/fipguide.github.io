@@ -17,7 +17,7 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 - Les Coupons FIP et Billets FIP 50 sont acceptés.
 - Attention aux trains d’autres opérateurs qui n’acceptent pas FIP.
 - FIP non valable dans le train express `CAT` vers l’aéroport de Vienne.
-- Règles spécifiques pour les trains vers l’Italie, les Nightjet, les trains auto, et les IC Bus.
+- Règles spécifiques pour les trains vers l’Italie, les Nightjet et les trains auto.
 - Le Coupon FIP ÖBB est aussi valable au Liechtenstein.
 
 ## Validité des Billets FIP
@@ -236,8 +236,7 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
-%}}
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
@@ -319,18 +318,6 @@ La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentatio
 ### ÖBB Postbus
 
 Les Billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de remplacement ferroviaire (SEV).
-
-### IC Bus (ICB)
-
-Les Billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de remplacement ferroviaire (SEV) et les itinéraires suivants :
-
-#### Graz – Klagenfurt
-
-Jusqu’en décembre 2025, les Billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
-
-#### Klagenfurt/Villach – Udine/Venise
-
-Des Tarifs Globaux FIP spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
 
 ### Trains auto
 

@@ -1,9 +1,3 @@
-import {
-  openOverlay,
-  closeOverlay,
-  addOverlayClickListener,
-} from "./overlay.js";
-
 function getCloseButton(dialog) {
   return dialog.querySelector(".o-dialog__header > .a-button");
 }
@@ -12,31 +6,23 @@ function openDialog(dialogId) {
   const dialog = document.getElementById(dialogId);
   if (!dialog) return;
 
-  dialog.show();
-  openOverlay("dialog");
-
-  const closeButton = getCloseButton(dialog);
-  if (closeButton) {
-    closeButton.addEventListener("click", () => closeDialog(dialog));
-  }
-}
-
-function closeDialog(dialog) {
-  const closeButton = getCloseButton(dialog);
-  if (closeButton) {
-    closeButton.replaceWith(closeButton.cloneNode(true));
-  }
-  dialog.close();
-  closeOverlay();
-}
-
-function closeAllDialogs() {
-  document.querySelectorAll("dialog[open]").forEach((dialog) => {
-    closeDialog(dialog);
-  });
+  dialog.showModal();
 }
 
 function initDialogs() {
+  document.querySelectorAll("dialog").forEach((dialog) => {
+    dialog.addEventListener("click", (e) => {
+      if (e.target === dialog) {
+        dialog.close();
+      }
+    });
+
+    const closeButton = getCloseButton(dialog);
+    if (closeButton) {
+      closeButton.addEventListener("click", () => dialog.close());
+    }
+  });
+
   document.querySelectorAll("[data-dialog-trigger]").forEach((trigger) => {
     const handler = (e) => {
       if (e.type === "click" || (e.type === "keydown" && e.key === "Enter")) {
@@ -48,16 +34,6 @@ function initDialogs() {
 
     trigger.addEventListener("click", handler);
     trigger.addEventListener("keydown", handler);
-  });
-
-  addOverlayClickListener(() => {
-    closeAllDialogs();
-  });
-
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") {
-      closeAllDialogs();
-    }
   });
 }
 

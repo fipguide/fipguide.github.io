@@ -253,12 +253,6 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
-{{% booking id="db-website-fip-db"
-    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich mit Ticketanteil nur für den ausländischen Abschnitt. Nur für Mitarbeiter der Deutschen Bahn."
-%}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
-
 {{% booking id="db-website-fip-international"
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
 %}}
