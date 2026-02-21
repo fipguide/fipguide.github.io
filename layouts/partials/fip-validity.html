@@ -10,20 +10,27 @@
 
 
 <div class="o-fip-validity o-fip-validity--{{ .status }}">
-  {{ partial "icon" $icon }}
-  <span class="o-fip-validity__text">
-    {{ i18n $typeI18n }}{{ with .text }}: {{ . | $.page.RenderString }}{{ end }}
-  </span>
-  {{- if not .disable_dialog -}}
-    <button
-      type="button"
-      class="o-fip-validity__info-button"
-      data-dialog-trigger="{{ $dialogId }}"
-      aria-label="{{ i18n "trainCategory.additionalInformation" }}"
-    >
-      {{ partial "icon" "info" }}
-    </button>
-  {{- end -}}
+  <button
+    type="button"
+    class="a-button a-button__internal"
+    data-dialog-trigger="{{ $dialogId }}"
+    title="{{ T "fipValidity.buttonLabel" }}"
+    aria-label="{{ T "fipValidity.buttonLabel" }}"
+    {{- if .disable_dialog -}}
+      disabled aria-disabled="true"
+    {{ end }}
+  >
+    {{ partial "icon" $icon }}
+    <span class="o-fip-validity__text">
+      {{ T $typeI18n -}}{{- with .text -}}
+        :
+        {{ . | $.page.RenderString }}
+      {{ end }}
+    </span>
+    {{- if not .disable_dialog -}}
+      {{ partial "icon" "open_in_browser" }}
+    {{- end }}
+  </button>
 </div>
 
 {{- if not .disable_dialog -}}

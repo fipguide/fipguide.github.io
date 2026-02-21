@@ -8,8 +8,8 @@
 <table>
   <thead>
     <tr>
-      <th>{{ i18n "fipValidity.issuer" }}</th>
-      <th>{{ i18n "trainCategory.additionalInformation" }}</th>
+      <th>{{ T "fipValidity.issuer" }}</th>
+      <th>{{ T "fipValidity.rules" }}</th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +20,7 @@
       {{- $operatorParam := index (index $.page.Params "fip-validity" .File.ContentBaseName) $.type -}}
 
       {{- $status := "unknown" -}}
-      {{- $text := i18n "fipValidity.unknown" -}}
+      {{- $text := T "fipValidity.unknown" -}}
       {{- if $operatorParam -}}
         {{- $status = $operatorParam.status -}}
         {{- $text = $operatorParam.text -}}

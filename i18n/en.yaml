@@ -46,11 +46,13 @@ donation: Donate
 editPage: Edit page
 fipValidity:
   additional: Other
+  buttonLabel: More information on FIP validity
   fip-coupon: FIP Coupon
   fip-coupon-relatives: FIP Coupon for relatives
   fip-global-fare: FIP Global Fare
   fip-reduced-ticket: FIP Reduced Ticket
   issuer: FIP Card Issuer
+  rules: Rules
   unknown: Unknown
 footer-love:
   aria-label: Made with love in Europe
