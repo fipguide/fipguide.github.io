@@ -322,7 +322,7 @@ FIP discounts apply for crossing the Strait of Messina only if the journey is ma
 
 ### Leonardo Express (Rome Fiumicino Airport Shuttle)
 
-FIP discounts do not apply on the Leonardo Express to/from Rome Fiumicino Airport. Regular regional trains can be used as an alternative.
+FIP discounts do not apply on the Leonardo Express to/from Rome Fiumicino Airport. Regular regional trains can be used as an alternative. A minimum ticket price of € 8 applies, which cannot be reduced even with the FIP 50 discount. However, FIP free travel vouchers can be used normally on regular regional trains.
 
 ### Trinacria Express (Palermo Airport)
 
