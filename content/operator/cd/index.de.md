@@ -249,7 +249,7 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Aufschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC` und `IC`. (Und `R` Züge, die mit "NATO Days" gekennzeichnet sind). [^3]
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC` und `IC`. (Und `R` Züge, die mit "NATO Days" gekennzeichnet sind). [^3]
 
 Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
 
@@ -480,24 +480,24 @@ Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazel
 
 Für Reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
 
-Der Aufschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter oder im Zug (bitte das Zugpersonal direkt aufsuchen) gekauft werden. Die Gültigkeit des Aufschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3]
+Der Zuschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter oder im Zug (bitte das Zugpersonal direkt aufsuchen) gekauft werden. Die Gültigkeit des Zuschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3]
 
-Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Aufschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich. [^1]
+Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Zuschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich. [^1]
 
 #### Züge mit Reservierungspflicht
 
 Einige Züge der ČD haben eine Reservierungspflicht. Dies umfasst alle `SC` sowie einige `IC` Züge (alle Verbindungen sind aufgeführt in den [kommerziellen Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)). Die betroffenen `IC` Züge verkehren primär auf der Strecke Prag – Ostrava.
 
-Diese Züge benötigen eine spezielle Sitzplatzreservierung (inkl. Aufschlag). Die ČD hat dafür zur Zeit keine eigene Tarifoption. Folgende Möglichkeiten für die Sitzplatzreservierung werden in der Regel akzeptiert: [^3]
+Diese Züge benötigen eine spezielle Sitzplatzreservierung (inkl. Zuschlag). Die ČD hat dafür zur Zeit keine eigene Tarifoption. Folgende Möglichkeiten für die Sitzplatzreservierung werden in der Regel akzeptiert: [^3]
 
 - Der Kauf einer Reservierung für ČD Personal (Tarif: _Rail card ČD_) über die Website der ČD ([ČD eshop](https://www.cd.cz/en/eshop/default.htm)) oder die ČD App (Můj vlak)
-- Der Kauf einer herkömmlichen Reservierung (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)) und zusätzlich des [kommerziellen Aufschlags](#čd-kommerzielle-verbindungen-zuschlagspflichtig)
+- Der Kauf einer herkömmlichen Reservierung (siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)) und zusätzlich des [kommerziellen Zuschlags](#čd-kommerzielle-verbindungen-zuschlagspflichtig)
 
 Vor dem Einstieg in den Zug kann es hilfreich sein, das Zugbegleitpersonal zu informieren.
 
 ### Verbindungen der ČD ohne FIP
 
-Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren und nicht wenigstens ein Teilabschnitt direkt durch das Verkehrsministerium vergeben wurde. Züge der Kategorie `RJ` sind in der Regel nicht betroffen und können innerhalb Tschechiens immer mit FIP genutzt werden. Alle anderen Verbindungen des Fernverkehrs (z. B. `SC`, `EC`, `IC`, `R`) werden teilweise als [kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig) bezeichnet und sind nur mit Aufschlag nutzbar.
+Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewonnenen öffentlichen Ausschreibungen verkehren und nicht wenigstens ein Teilabschnitt direkt durch das Verkehrsministerium vergeben wurde. Züge der Kategorie `RJ` sind in der Regel nicht betroffen und können innerhalb Tschechiens immer mit FIP genutzt werden. Alle anderen Verbindungen des Fernverkehrs (z. B. `SC`, `EC`, `IC`, `R`) werden teilweise als [kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig) bezeichnet und sind nur mit Zuschlag nutzbar.
 
 Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie `SP` und `OS`), gilt FIP in einigen Regionen überhaupt nicht.
 
