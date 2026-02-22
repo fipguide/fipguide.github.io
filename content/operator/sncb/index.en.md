@@ -62,15 +62,13 @@ Unlike in other countries, these are not real long-distance trains, but rather f
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
-International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp.
+International train between Lelystad, Amsterdam and Brussels with stops in Almere, Schiphol, Rotterdam and Antwerp.
 
 {{% highlight important %}}
-**Supplement:**
-Between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of € 3 must be paid for both FIP 50 Tickets and FIP Coupons.
-This can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
-Holders of an OV-chipkaart can buy a discounted supplement for € 1.80 at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html).
-With FIP 50 Tickets, prices may vary by train category.
+For journeys within the Netherlands, special regulations apply, see [NS ECD](/operator/ns#ecd)
 {{% /highlight %}}
+
+![Eurocity (Direct) Network](eurocity-map.webp)
 
 {{% /train-category %}}
 

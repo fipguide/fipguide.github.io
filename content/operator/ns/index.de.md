@@ -12,7 +12,7 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 
 - NS akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Reservierung ist grundsätzlich nicht erforderlich.
-- Zuschlag für Eurocity Direct (`ECD`) und teilweise Intercity Direct (`ICD`) erforderlich.
+- Zuschlag teilweise für Eurocity Direct (`ECD`) und Intercity Direct (`ICD`) erforderlich.
 - Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
 
 ## Gültigkeit FIP Tickets
@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Be
 
 Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
-Zuschläge müssen für Eurocity Direct und teilweise Intercity Direct Züge gezahlt werden.
+Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gezahlt werden.
 
 {{% train-category
     id="ice"
@@ -62,13 +62,28 @@ Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderl
 %}}
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
-{{% highlight important %}}
-Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3 € zu entrichten.
+{{< highlight important >}}
+Beim einer ausschließlich nationale Fahrt auf dem Abschnitt zwischen Rotterdam und Schiphol ist bei FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
-Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Beinhaltet das FIP 50 Ticket auch einen internationalen Abschnitt (bei Ein- oder Ausstieg in den `ECD` außerhalb der Niederlande), muss kein Zuschlag für FIP 50 Tickets erworben werden, selbst wenn man dabei den Abschnitt Rotterdam - Schiphol mit dem `ECD` befährt.
 
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80 € erwerben.
-{{% /highlight %}}
+Beispieltickets mit Zuschlagspflicht:
+
+- Rotterdam - Amsterdam
+- Breda - Amsterdam
+
+Beispieltickets ohne Zuschlagspflicht:
+
+- Brüssel - Amsterdam
+- Brüssel - Rotterdam
+- Breda - Rotterdam
+
+Der Zuschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+{{< /highlight >}}
+
+![Eurocity (Direct) Netz](eurocity-map.webp)
 
 {{% /train-category %}}
 
@@ -81,28 +96,30 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
+
+![Eurocity (Direct) Netz](eurocity-map.webp)
 {{% /train-category %}}
 
 {{% train-category
     id="icd"
     title="Intercity Direct (ICD)"
     type="highspeed"
-    fip_accepted=partially
+    fip_accepted=true
     reservation_required=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
-{{% highlight important %}}
-Bei der Nutzung von FIP 50 Tickets zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3 € zu entrichten. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich.
+{{< highlight important >}}
+Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80 € erwerben.
+Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+{{< /highlight >}}
 
-{{% /highlight %}}
+![Intercity Direct Netz, Spag85, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg" target="_blank">Wikimedia Commons</a>](intercity-direct-map.webp)
 
-Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
 {{% /train-category %}}
 
 {{% train-category
@@ -202,3 +219,9 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [FIP Guide Community ICD / ECD Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1470087243040428176)
+
+[^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
+
+[^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)

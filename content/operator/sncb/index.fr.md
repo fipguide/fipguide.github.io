@@ -62,16 +62,13 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
   additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
-Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
+Train international entre Lelystad, Amsterdam et Bruxelles avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
 {{% highlight important %}}
-**Supplément :**
-Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP.
-Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
-Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html).
-Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
+Pour les trajets aux Pays-Bas, des règles spéciales s'appliquent, voir [NS ECD](/operator/ns#ecd)
 {{% /highlight %}}
 
+![Réseau Eurocity (Direct)](eurocity-map.webp)
 {{% /train-category %}}
 
 {{% train-category
