@@ -1,8 +1,17 @@
-<a
-  href="{{ .Destination }}"
-  target="_blank"
-  rel="noopener noreferrer"
-  class="a-button o-link__external"
->
-  {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
-</a>
+{{ if .Destination }}
+  <a
+    href="{{ .Destination }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="a-button a-button__external o-link__external"
+  >
+    {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
+  </a>
+{{ else }}
+  <button
+    class="a-button a-button__internal"
+    {{- with .Title }}title="{{ . }}"{{- end -}}
+  >
+    {{- .Text -}}
+  </button>
+{{ end }}

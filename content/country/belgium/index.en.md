@@ -17,7 +17,7 @@ Additionally, international [Eurostar](/operator/eurostar "Eurostar") trains ope
 Furthermore, international `TGV` trains of the [SNCF](/operator/sncf "SNCF") from France operate, for which the FIP Coupon of SNCB are not valid. Only special FIP Global Fares can be booked for these trains. For the Eurocity trains from Brussels to Paris operated by OUIGO, no FIP discounts apply.
 
 {{< identify-operator sources="db-website,vagonweb" >}}
-Not all trains in the country (e. g. `ICE`) are shown in the [SNCB / NMBS online timetable](https://www.belgiantrain.be/en/).
+Not all trains in the country (e.g. `ICE`) are shown in the [SNCB / NMBS online timetable](https://www.belgiantrain.be/en/).
 {{< /identify-operator >}}
 
 ## Interesting
