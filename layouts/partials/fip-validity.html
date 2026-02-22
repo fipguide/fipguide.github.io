@@ -1,0 +1,44 @@
+{{- $iconMapping := dict
+  "valid" "check_circle"
+  "invalid" "cancel"
+  "unknown" "help"
+-}}
+
+{{- $dialogId := printf "fip-validity-%s" .type -}}
+{{- $icon := index $iconMapping .status -}}
+{{- $typeI18n := printf "fipValidity.%s" .type -}}
+
+
+<div class="o-fip-validity o-fip-validity--{{ .status }}">
+  <button
+    type="button"
+    class="a-button a-button__internal"
+    data-dialog-trigger="{{ $dialogId }}"
+    title="{{ T "fipValidity.buttonLabel" }}"
+    aria-label="{{ T "fipValidity.buttonLabel" }}"
+    {{- if .disable_dialog -}}
+      disabled aria-disabled="true"
+    {{ end }}
+  >
+    {{ partial "icon" $icon }}
+    <span class="o-fip-validity__text">
+      {{ T $typeI18n -}}{{- with .text -}}
+        :
+        {{ . | $.page.RenderString }}
+      {{ end }}
+    </span>
+    {{- if not .disable_dialog -}}
+      {{ partial "icon" "open_in_browser" }}
+    {{- end }}
+  </button>
+</div>
+
+{{- if not .disable_dialog -}}
+  {{- partial "dialog" (
+    dict
+    "ID" $dialogId
+    "Title" (T $typeI18n)
+    "Content" (partial "fip-validity-dialog" (dict "type" .type "page" .page))
+    )
+  -}}
+{{- end -}}

@@ -45,6 +45,16 @@ dialog:
 discord: FIP Guide Community
 donation: Spenden
 editPage: Seite bearbeiten
+fipValidity:
+  additional: Sonstige
+  buttonLabel: Mehr Informationen zur FIP Gültigkeit
+  fip-coupon: FIP Freifahrtschein
+  fip-coupon-relatives: FIP Freifahrtschein für Angehörige
+  fip-global-fare: FIP Globalpreis
+  fip-reduced-ticket: FIP Ermäßigtes Ticket
+  issuer: Aussteller des FIP Ausweises
+  rules: Regeln
+  unknown: Unbekannt
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe

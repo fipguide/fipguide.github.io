@@ -45,6 +45,16 @@ dialog:
 discord: Communauté FIP Guide
 donation: Donation
 editPage: Modifier la page
+fipValidity:
+  additional: Autre
+  buttonLabel: Plus d'informations sur la validité FIP
+  fip-coupon: Coupon FIP
+  fip-coupon-relatives: Coupon FIP pour les ayants droit
+  fip-global-fare: Tarif Global FIP
+  fip-reduced-ticket: Billet FIP à tarif réduit
+  issuer: Émetteur de la carte FIP
+  rules: Règles
+  unknown: Inconnu
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe

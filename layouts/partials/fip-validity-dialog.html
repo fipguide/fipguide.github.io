@@ -1,0 +1,47 @@
+{{- $iconMapping := dict
+  "valid" "check_circle"
+  "invalid" "cancel"
+  "unknown" "help"
+-}}
+
+
+<table>
+  <thead>
+    <tr>
+      <th>{{ T "fipValidity.issuer" }}</th>
+      <th>{{ T "fipValidity.rules" }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- $currentSlug := .page.File.ContentBaseName -}}
+    {{- $lang := .page.Language.Lang -}}
+    {{- range where .page.Site.RegularPages "Type" "operator" -}}
+      {{- if eq .File.ContentBaseName $currentSlug -}}
+        {{- continue -}}
+      {{- end -}}
+
+      {{- $status := "unknown" -}}
+      {{- $text := T "fipValidity.unknown" -}}
+
+      {{- with .Resources.Get "validity.yaml" -}}
+        {{- $validity := . | transform.Unmarshal -}}
+        {{- $entry := index (index $validity $currentSlug) $.type -}}
+        {{- if $entry -}}
+          {{- $status = $entry.status -}}
+          {{- $text = index $entry.text $lang -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $statusIcon := index $iconMapping $status -}}
+      <tr>
+        <td>
+          {{ partial "link" (dict "Destination" (print "/operator/" .File.ContentBaseName) "Text" .Title "Page" $.page) }}
+        </td>
+        <td class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
+          {{ partial "icon" $statusIcon }}
+          {{ $text | $.page.RenderString }}
+        </td>
+      </tr>
+    {{- end -}}
+  </tbody>
+</table>

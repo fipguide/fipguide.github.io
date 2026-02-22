@@ -14,11 +14,11 @@ Die SBB stellt eine [Übersichtskarte ihrer Strecken](https://www.raildeliverygr
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Reservierungspflicht und Zuschläge für internationale Eurocity-Züge ab der italienischen Grenze und `TGV` Züge ab der französischen Grenze.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einschränkung gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 

@@ -28,6 +28,18 @@ $tag-colors-dark: (
   info: #d1d1d1,
 );
 
+$fip-validity-colors: (
+  valid: map-get($tag-colors, success),
+  invalid: map-get($tag-colors, error),
+  unknown: map-get($tag-colors, info),
+);
+
+$fip-validity-colors-dark: (
+  valid: map-get($tag-colors-dark, success),
+  invalid: map-get($tag-colors-dark, error),
+  unknown: map-get($tag-colors-dark, info),
+);
+
 $highlight-colors: (
   tip: #116278,
   inofficial: #42454a,
@@ -59,6 +71,10 @@ html {
   --color-body: rgb(33, 37, 41);
   --color-success: #096640;
   --color-error: #ad1731;
+
+  @each $name, $color in $fip-validity-colors {
+    --fip-validity-#{$name}: #{$color};
+  }
 
   @each $name, $color in $tag-colors {
     --tag-#{$name}-bg: #{mix(white, $color, 90%)};
@@ -100,6 +116,10 @@ html[data-theme="dark"] {
     --color-body: #e0e0e0;
     --color-success: #2ea44f;
     --color-error: #f85149;
+
+    @each $name, $color in $fip-validity-colors-dark {
+      --fip-validity-#{$name}: #{$color};
+    }
 
     @each $name, $color in $tag-colors-dark {
       --tag-#{$name}-bg: #{mix(black, $color, 65%)};

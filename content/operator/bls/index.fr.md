@@ -15,11 +15,11 @@ Sur son site web, la BLS propose une [carte schématique des lignes](https://www
 - L'utilisation de tous les trains (sauf les trains motorail), bus et bateaux avec FIP est possible.
 - Il n'y a pas d'obligation de réservation.
 
-## Validité des billets FIP
+## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de trains et réservations
 

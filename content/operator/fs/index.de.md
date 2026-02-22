@@ -16,9 +16,9 @@ Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergüns
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅\
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}
 In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z. B. Trenord und Ferrovie Sud Est), selbst wenn die Züge Trenitalia-Logos haben. Außgenommen davon ist die Tochtergesellschaft TPER. [Siehe Regionalzüge in Emilia-Romagna](#regionalzüge-in-emilia-romagna)

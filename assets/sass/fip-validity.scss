@@ -1,0 +1,22 @@
+.o-fip-validity {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  @each $status in valid, invalid, unknown {
+    &--#{$status} {
+      color: var(--fip-validity-#{$status});
+    }
+  }
+
+  > .a-button {
+    font-size: 1.7rem;
+  }
+
+  &-dialog-value {
+    display: flex;
+    align-items: start;
+    gap: 1rem;
+    min-width: 150px;
+  }
+}

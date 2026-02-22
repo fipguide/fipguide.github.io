@@ -33,10 +33,18 @@ operator: "{{ .File.ContentBaseName }}"
   Les catégories de billets peuvent varier selon l’opérateur.
 -->
 
-Coupon FIP : <✅/⛔> \
-Coupon FIP pour les ayants droit : <✅/⛔> \
-Billets FIP 50 : <✅/⛔> \
-Tarif Global FIP : <✅/⛔>
+<!--
+  Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
+  - `type` : fip-coupon, fip-coupon-relatives, fip-reduced-ticket, fip-global-fare, additional
+  - `status` : valid, invalid, unknown
+  - `text` : Texte personnalisé optionnel à afficher
+  - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?

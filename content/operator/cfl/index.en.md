@@ -15,9 +15,9 @@ CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{< highlight important >}}
 Luxembourg offers free public transport for domestic journeys regardless of FIP. This includes all train services (except TGV), trams, and buses. Travel with CFL is therefore free of charge in second class and no additional ticket is required. Travel in first class requires a FIP Coupon or FIP 50 Ticket for first class. For journeys beyond Luxembourg, e.g. towards Germany or Belgium, a ticket from the border point is required. This means that, for example, a through ticket, a valid FIP Coupon, or a national travel concession is needed for journeys to Germany to travel into the neighboring country. A ticket from the first station after the border is not sufficient.
