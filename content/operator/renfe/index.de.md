@@ -5,32 +5,6 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-    gb:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein pro Jahr"
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
 ---
 
 Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/spain "Spanien"). Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.

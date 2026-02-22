@@ -7,18 +7,6 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
-Params:
-  fip-validity:
-    operator1:
-      fip-coupon:
-        status: valid
-        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
-      fip-coupon-relatives:
-        status: invalid # ou valid avec texte correspondant
-        text: "Pas disponible" # ou "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % de réduction"
 ---
 
 <!-- Supprimez ce message si la page est complète -->

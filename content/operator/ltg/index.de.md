@@ -5,22 +5,6 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
 ---
 
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochtergesellschaft LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.

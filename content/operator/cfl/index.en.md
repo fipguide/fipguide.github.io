@@ -4,38 +4,6 @@ title: "CFL"
 country:
   - "luxembourg"
 operator: "cfl"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Not available"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "6 coupons with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: valid
-        text: "6 coupons with 4 fields each per year. Each field is valid for two days."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
-    gb:
-      fip-coupon:
-        status: valid
-        text: "Active staff and retired staff (safeguarded only): 1 coupon per year"
-      fip-coupon-relatives:
-        status: valid
-        text: "Active staff and retired staff (safeguarded only): 1 coupon per year"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
 ---
 
 CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish state railway and the main railway company in [Luxembourg](/country/luxembourg "Luxembourg").

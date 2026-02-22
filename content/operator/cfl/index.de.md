@@ -4,38 +4,6 @@ title: "CFL"
 country:
   - "luxembourg"
 operator: "cfl"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: valid
-        text: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    gb:
-      fip-coupon:
-        status: valid
-        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-      fip-coupon-relatives:
-        status: valid
-        text: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
 ---
 
 Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxemburgische Staatsbahn und die wichtigste Bahngesellschaft in [Luxemburg](/country/luxembourg "Luxemburg").

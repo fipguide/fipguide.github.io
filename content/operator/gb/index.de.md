@@ -4,28 +4,6 @@ title: "National Rail"
 country:
   - "united-kingdom"
 operator: "gb"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: valid
-        text: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
 ---
 
 In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.

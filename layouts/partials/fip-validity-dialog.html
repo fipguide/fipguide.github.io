@@ -13,17 +13,23 @@
     </tr>
   </thead>
   <tbody>
+    {{- $currentSlug := .page.File.ContentBaseName -}}
+    {{- $lang := .page.Language.Lang -}}
     {{- range where .page.Site.RegularPages "Type" "operator" -}}
-      {{- if eq .File.ContentBaseName $.page.File.ContentBaseName -}}
+      {{- if eq .File.ContentBaseName $currentSlug -}}
         {{- continue -}}
       {{- end -}}
-      {{- $operatorParam := index (index $.page.Params "fip-validity" .File.ContentBaseName) $.type -}}
 
       {{- $status := "unknown" -}}
       {{- $text := T "fipValidity.unknown" -}}
-      {{- if $operatorParam -}}
-        {{- $status = $operatorParam.status -}}
-        {{- $text = $operatorParam.text -}}
+
+      {{- with .Resources.Get "validity.yaml" -}}
+        {{- $validity := . | transform.Unmarshal -}}
+        {{- $entry := index (index $validity $currentSlug) $.type -}}
+        {{- if $entry -}}
+          {{- $status = $entry.status -}}
+          {{- $text = index $entry.text $lang -}}
+        {{- end -}}
       {{- end -}}
 
       {{- $statusIcon := index $iconMapping $status -}}

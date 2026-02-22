@@ -4,38 +4,6 @@ title: "SNCB / NMBS"
 country:
   - "belgium"
 operator: "sncb"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: valid
-        text: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    gb:
-      fip-coupon:
-        status: valid
-        text: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-      fip-coupon-relatives:
-        status: valid
-        text: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-      fip-reduced-ticket:
-        status: valid
-        text: "Aktive Mitarbeitende: 75 % Rabatt. Ruheständler: 50 % Rabatt"
 ---
 
 Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in [Belgien](/country/belgium "Belgien").

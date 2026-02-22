@@ -5,22 +5,6 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Not available"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
 ---
 
 LTG is the state railway company of the Republic of Lithuania and, through its subsidiary LTG-Link, operates all passenger services on the Lithuanian rail network as well as international connections.

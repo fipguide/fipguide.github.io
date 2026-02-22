@@ -7,18 +7,6 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
-Params:
-  fip-validity:
-    operator1:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: invalid # oder valid mit entsprechendem Text
-        text: "Nicht verfügbar" # oder "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

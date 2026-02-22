@@ -4,32 +4,6 @@ title: "ZSSK / ZSR"
 country:
   - "slovakia"
 operator: "zssk"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Non disponible"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % de réduction"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
-    gb:
-      fip-coupon:
-        status: valid
-        text: "1 coupon par an"
-      fip-coupon-relatives:
-        status: invalid
-        text: "Non disponible"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % de réduction"
 aliases:
   - zsr
 ---

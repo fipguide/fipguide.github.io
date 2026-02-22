@@ -7,18 +7,6 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
-Params:
-  fip-validity:
-    operator1:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: invalid # or valid with corresponding text
-        text: "Not available" # or "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-reduced-ticket:
-        status: valid
-        text: "50% discount"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

@@ -4,32 +4,6 @@ title: "DSB"
 country:
   - "denmark"
 operator: "dsb"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-    gb:
-      fip-coupon:
-        status: valid
-        text: "1 Freifahrtschein pro Jahr"
-      fip-coupon-relatives:
-        status: invalid
-        text: "Nicht verfügbar"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % Rabatt"
 ---
 
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.

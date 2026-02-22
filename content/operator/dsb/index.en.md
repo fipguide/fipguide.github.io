@@ -4,32 +4,6 @@ title: "DSB"
 country:
   - "denmark"
 operator: "dsb"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: invalid
-        text: "Not available"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-    gb:
-      fip-coupon:
-        status: valid
-        text: "1 coupon per year"
-      fip-coupon-relatives:
-        status: invalid
-        text: "Not available"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.

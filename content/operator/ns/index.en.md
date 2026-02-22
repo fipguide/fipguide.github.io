@@ -4,38 +4,6 @@ title: "NS"
 country:
   - "netherlands"
 operator: "ns"
-Params:
-  fip-validity:
-    db:
-      fip-coupon:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "4 coupons with 4 fields each per year. Each field is valid for two days."
-      fip-coupon-relatives:
-        status: valid
-        text: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
-    gb:
-      fip-coupon:
-        status: valid
-        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
-      fip-coupon-relatives:
-        status: valid
-        text: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % discount"
 ---
 
 Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/country/netherlands "Netherlands") and operates the majority of passenger traffic on the Dutch rail network.

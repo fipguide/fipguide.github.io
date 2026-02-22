@@ -4,22 +4,6 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
-Params:
-  fip-validity:
-    sncf:
-      fip-coupon:
-        status: valid
-        text: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
-    gb:
-      fip-coupon:
-        status: valid
-        text: "1 coupon par an"
-      fip-coupon-relatives:
-        status: invalid
-        text: "Non disponible"
-      fip-reduced-ticket:
-        status: valid
-        text: "50 % de réduction"
 ---
 
 La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.
