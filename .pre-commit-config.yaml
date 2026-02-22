@@ -24,6 +24,7 @@ repos:
       - id: check-xml
         exclude: "^layouts/_default/rss.xml$"
       - id: check-yaml
+        exclude: "validity.yaml$"
       - id: debug-statements
       - id: destroyed-symlinks
       - id: end-of-file-fixer

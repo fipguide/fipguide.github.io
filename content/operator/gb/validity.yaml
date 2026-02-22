@@ -138,9 +138,6 @@ dsb:
   fip-coupon: *coupon-active-1
   fip-coupon-relatives: *coupon-not-available
   fip-reduced-ticket: *reduced-50
-eil:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
 fs:
   fip-coupon: *coupon-active-1-retired-1-safeguarded
   fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded

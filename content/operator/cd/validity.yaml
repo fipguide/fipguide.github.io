@@ -1,5 +1,11 @@
-# This file shows the rules for FIP cards issued by SNCF.
+# This file shows the rules for FIP cards issued by CD.
 _anchors:
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
   coupon-4fields: &coupon-4fields
     status: valid
     text:
@@ -12,13 +18,7 @@ _anchors:
       fr: |
         1 coupon avec 4 champs chacun par an. \
         Chaque champ est valable deux jours.
-  coupon-not-available: &coupon-not-available
-    status: invalid
-    text:
-      de: "Nicht verfügbar"
-      en: "Not available"
-      fr: "Non disponible"
-  coupon-2fields: &coupon-2fields
+  coupon-4fields-2: &coupon-4fields-2
     status: valid
     text:
       de: |
@@ -30,29 +30,17 @@ _anchors:
       fr: |
         2 coupons avec 4 champs chacun par an. \
         Chaque champ est valable deux jours.
-  coupon-4fields-4: &coupon-4fields-4
+  coupon-4fields-3: &coupon-4fields-3
     status: valid
     text:
       de: |
-        4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. \
+        3 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. \
         Jedes Feld ist zwei Tage gültig.
       en: |
-        4 coupons with 4 fields each per year. \
+        3 coupons with 4 fields each per year. \
         Each field is valid for two days.
       fr: |
-        4 coupons avec 4 champs chacun par an. \
-        Chaque champ est valable deux jours.
-  coupon-6fields: &coupon-6fields
-    status: valid
-    text:
-      de: |
-        6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        6 coupons with 4 fields each per year. \
-        Each field is valid for two days.
-      fr: |
-        6 coupons avec 4 champs chacun par an. \
+        3 coupons avec 4 champs chacun par an. \
         Chaque champ est valable deux jours.
   coupon-crossing: &coupon-crossing
     status: valid
@@ -66,107 +54,59 @@ _anchors:
       fr: |
         1 coupon avec 2 champs chacun par an. \
         Chaque champ est valable pour une traversée.
-db:
-  fip-coupon: *coupon-4fields
+  coupon-zssk: &coupon-zssk
+    status: valid
+    text:
+      de: Nur gültig mit einer „In Karta" in der ŽP-App.
+      en: Only valid with an "In Karta" in the ŽP app.
+      fr: "Valable uniquement avec une \xABIn Karta\xBB dans l\u2019application \u017dP."
+attica:
+  fip-coupon: *coupon-not-available
   fip-coupon-relatives: *coupon-not-available
-sncb:
-  fip-coupon: *coupon-4fields-4
-  fip-coupon-relatives: *coupon-2fields
-ns:
-  fip-coupon: *coupon-4fields-4
-  fip-coupon-relatives: *coupon-4fields
-cfl:
-  fip-coupon: *coupon-6fields
-  fip-coupon-relatives: *coupon-6fields
-gb:
-  fip-coupon: *coupon-2fields
-  fip-coupon-relatives: *coupon-2fields
-stl:
-  fip-coupon: *coupon-crossing
-  fip-coupon-relatives: *coupon-not-available
-pkp:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-oebb:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-gysev:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-cp:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-fs:
+bdz:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
 bls:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-bdz:
+bsb:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-zssk:
+cfr:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-sp:
+cfl:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-sbb:
+cie:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-renfe:
+cp:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-kd:
+db:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
 dsb:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-cd:
+fs:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-bsb:
+gb:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-ltg:
-  fip-coupon: *coupon-4fields
+gysev:
+  fip-coupon: *coupon-4fields-2
   fip-coupon-relatives: *coupon-not-available
-zfbh:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
-zrs:
+ht:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
 hz:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-ht:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-attica:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
-mav:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-cie:
-  fip-coupon: *coupon-2fields
-  fip-coupon-relatives: *coupon-2fields
-nir:
-  fip-coupon: *coupon-2fields
-  fip-coupon-relatives: *coupon-2fields
-sll:
-  fip-coupon: *coupon-crossing
-  fip-coupon-relatives: *coupon-not-available
-zrms:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-zpcg:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-vy:
-  fip-coupon: *coupon-4fields
+kd:
+  fip-coupon: *coupon-4fields-2
   fip-coupon-relatives: *coupon-not-available
 ks:
   fip-coupon: *coupon-4fields
@@ -177,8 +117,41 @@ kw:
 lka:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
-cfr:
+mav:
+  fip-coupon: *coupon-4fields-3
+  fip-coupon-relatives: *coupon-not-available
+nir:
   fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+ns:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+oebb:
+  fip-coupon: *coupon-4fields-3
+  fip-coupon-relatives: *coupon-not-available
+pkp:
+  fip-coupon: *coupon-4fields-2
+  fip-coupon-relatives: *coupon-not-available
+renfe:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+sbb:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+sll:
+  fip-coupon: *coupon-crossing
+  fip-coupon-relatives: *coupon-not-available
+sncb:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+sncf:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+sp:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+stl:
+  fip-coupon: *coupon-crossing
   fip-coupon-relatives: *coupon-not-available
 sv:
   fip-coupon: *coupon-4fields
@@ -186,3 +159,21 @@ sv:
 sz:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
+vy:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+zfbh:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+zpcg:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+zrms:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+zrs:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+zssk:
+  fip-coupon: *coupon-zssk
+  fip-coupon-relatives: *coupon-zssk
