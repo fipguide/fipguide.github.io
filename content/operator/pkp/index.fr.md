@@ -159,6 +159,19 @@ Les trains régionaux en Pologne sont parfois aussi exploités par d’autres co
 {{% /train-category %}}
 
 {{% train-category
+    id="IR"
+    title="InterRegio (IR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Trains directs entre Łódź et Varsovie, exploités par Polregio et dans une classe tarifaire supérieure aux trains Regio normaux.
+
+{{% /train-category %}}
+
+{{% train-category
     id="sr"
     title="superREGIO (sR)"
     type="regional"
@@ -244,7 +257,7 @@ Aucun frais n’est facturé pour l’émission d’un billet dans le train pour
 
 ## Réductions
 
-Nous ne connaissons pas d’autres réductions.
+Indépendamment du FIP, Polregio propose un billet week-end avantageux, disponible soit en tant que « MINI BILET TURYSTYCZNY » uniquement pour les trains « Regio » de Polregio, soit en tant que « BILET TURYSTYCZNY » qui est également valable dans tous les trains de KW, KMŁ, Arriva RP et ŁKA (sauf ŁKA Sprinter). Il permet de voyager du vendredi 18h au lundi 6h dans les trains correspondants. Plus d’informations sur le [site Web de Polregio](https://bilety.polregio.pl/en/sieciowe/47).
 
 ## Conditions tarifaires spéciales
 

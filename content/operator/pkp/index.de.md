@@ -161,6 +161,19 @@ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als 
 {{% /train-category %}}
 
 {{% train-category
+    id="IR"
+    title="InterRegio (IR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden und eine höhere Preisklasse als normale Regios haben..
+
+{{% /train-category %}}
+
+{{% train-category
     id="sr"
     title="superREGIO (sR)"
     type="regional"
@@ -246,7 +259,7 @@ Keine Gebühr wird für die Ausstellung eines Tickets im Zug für folgende Fahrg
 
 ## Ermäßigungen
 
-Uns sind keine weiteren Ermäßigungen bekannt.
+Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, das entweder als "MINI BILET TURYSTYCZNY" nur für "Regio"-Züge der Polregio oder als "BILET TURYSTYCZNY" auch für alle Züge der KW, KMŁ, Arriva RP und ŁKA (außer ŁKA Sprinter) genutzt werden kann. Damit kann von Freitag 18 Uhr bis Montag 6 Uhr mit den entsprechenden Zügen gefahren werden. Weitere Informationen auf der [Polregio Website](https://bilety.polregio.pl/en/sieciowe/47).
 
 ## Tarifliche Besonderheiten
 
