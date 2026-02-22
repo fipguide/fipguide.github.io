@@ -9,11 +9,13 @@ params:
 
 ## FIP Nutzung
 
-Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK](/operator/zssk "ZSR/ZSSK") (Železničná
+Die Slowakei ist sowohl mit FIP 50 als auch mit FIP Freifahrtscheinen gut per Bahn zu bereisen. In FIP enthalten ist das Unternehmen ŽSR (Železnice Slovenskej republiky, zu deutsch Eisenbahnen der Slowakei). Die Züge selbst werden von der [ZSSK](/operator/zssk "ŽSR/ZSSK") (Železničná
 spoločnosť Slovensko) betrieben, für diese sind die FIP-Fahrscheiner der ŽSR gültig.
 Besonders zu beachten sind Reservierungsbedingung im Fernverkehr sowie erweiterte Regleung zu kostenfreien Mitnahme von Kindern.
 
 Ebenfalls in der Slowakei unterwegs sind die Unternehmen LeoExpress und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `LE` bzw. `RJ` (nicht zu verwechseln mit `RJ` für den Railjet) abgekürzt. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [Bahn.de](https://www.bahn.de) geklärt werden.
+
+{{< identify-operator sources="zssk-website,db-website,vagonweb" />}}
 
 ## Wissenswertes
 
@@ -31,8 +33,8 @@ Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská že
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Tschechien (ČD) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| Ungarn (GySEV) | Rajka (Gr) |
+| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+| Ungarn ([GySEV](/operator/gysev)) | Rajka (Gr) |
 | Ungarn (MÁV) | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
 {{% /expander %}}
 
@@ -47,7 +49,7 @@ Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen 
 - Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
 - Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
 
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ZSR / ZSSK](/operator/zssk "ZSR / ZSSK") benötigt. \
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
 
 Zusätzlich gibt es einzelne `EC` Verbindungen.
 

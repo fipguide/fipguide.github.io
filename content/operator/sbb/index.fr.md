@@ -7,6 +7,8 @@ country:
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
 
+Les CFF mettent à disposition une [carte de synthèse de leurs lignes](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf).
+
 ## Résumé
 
 - Les CFF acceptent les Coupons FIP et les Billets FIP 50.
@@ -19,8 +21,6 @@ Coupon FIP pour les ayants droit : ⛔ \
 Billet FIP 50 : ✅
 
 Les Coupons FIP et les Billets FIP 50 sont valables sans restriction sur les trains des CFF. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
-
-[Carte du réseau CFF (PDF)](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
 
 ## Catégories de trains et réservations
 
@@ -169,6 +169,10 @@ Les compagnies ferroviaires suisses SBB et BLS acceptent partiellement mutuellem
 - Les Coupons FIP de la BLS sont acceptés dans les trains des SBB sur les lignes où circulent également des trains de la BLS, c’est‑à‑dire entre deux gares desservies à la fois par des trains SBB et BLS. Le réseau de la BLS est consultable en ligne : https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf
 
 Les Coupons FIP des SBB ne sont cependant pas valables sur les navires BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
+
+### Schweizerische Südostbahn (SOB)
+
+Les Coupons FIP des CFF sont valables sur certains itinéraires de Schweizerische Südostbahn (SOB), voir [Schweizer Privatbahnen - SOB](/operator/sp#sob).
 
 ### Trains transfrontaliers (Italie, France)
 

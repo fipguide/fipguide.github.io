@@ -17,6 +17,8 @@ When using FIP Coupons, a free ticket (e.g., online) must be obtained for each j
 On public holidays and in summer (especially from mid-June to the end of August), it is recommended to reserve seats in advance on international routes such as Vilnius – Klaipeda! Once tickets are on sale, all construction works are already reflected in the timetables, especially due to the electrification of the Vilnius – Siauliai – Klaipeda line.
 {{% /highlight %}}
 
+{{< identify-operator sources="ltg-website,db-website" />}}
+
 ## Interesting
 
 Lithuania’s rail network essentially dates back to the time of the Russian Tsar and therefore uses Russian broad gauge. Speeds are generally not very high, but are now being increased to up to 120 or 160 km/h. Nevertheless, travel comfort is very good, and many routes are now served by modern trains from Polish or Swiss manufacturers.
@@ -40,8 +42,8 @@ On the route to Turmantas, the old DR1A trains from Soviet production are still 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Poland (PKP) | Mockava |
-| Latvia (LDz) | Joniškis |
+| [Poland](/country/poland) ([PKP](/operator/pkp)) | Mockava |
+| [Latvia](/country/latvia) (LDz) | Joniškis |
 | Belarus | Border closed |
 | Russia | No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad |
 {{% /expander %}}

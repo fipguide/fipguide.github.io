@@ -18,11 +18,13 @@ In Switzerland, there are three different operators for which FIP Coupons and FI
 
 - The state railway company [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Swiss Federal Railways), which operates mainly on most main lines
 - A consortium of Swiss private railways [(SP - Schweizer Privatbahnen)](/operator/sp "SP")
-- The Bernese Alpine Railway Company Bern–Lötschberg–Simplon (BLS)
+- The [BLS](/operator/bls)
 
 Together, these cover almost the entire Swiss rail network, including some means of transport that are unique in Europe with FIP, such as cable cars or certain bus lines.
 
 Only a few very touristy services are not included in FIP. Additionally, cross-border travel on long-distance trains to France and Italy involves some effort, as special surcharges apply here.
+
+{{< identify-operator sources="db-website" />}}
 
 ## Interesting
 
@@ -33,10 +35,10 @@ Switzerland has one of the densest rail networks in the world. Despite challengi
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Germany (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| Italy (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| Austria (ÖBB) | Buchs (SG), St. Margrethen |
-| France (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+| [Germany](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Italy](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
 
 \
 [>] = Direction (e.g. Locarno [> Domodossola] = Locarno is the border point towards Domodossola)

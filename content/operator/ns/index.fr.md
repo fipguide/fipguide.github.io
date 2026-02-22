@@ -159,6 +159,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et les Pays-Bas pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="ns-phone" /%}}
+
 ### En gare
 
 {{% booking id="ns-ticket-office" /%}}

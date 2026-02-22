@@ -17,6 +17,8 @@ Pour utiliser un Coupon FIP, il est toutefois nécessaire d’obtenir un billet 
 Les jours fériés et en été (surtout de mi-juin à fin août), il est recommandé de réserver à l’avance sur les lignes internationales, comme la liaison Vilnius – Klaipeda ! Dès que les billets sont mis en vente, tous les travaux sont pris en compte dans les horaires, notamment en raison de l’électrification de la ligne Vilnius – Siauliai – Klaipeda.
 {{% /highlight %}}
 
+{{< identify-operator sources="ltg-website,db-website" />}}
+
 ## Informations générales
 
 Le réseau ferroviaire lituanien date essentiellement de l’époque du tsar russe et utilise donc l’écartement large russe. Les vitesses ne sont généralement pas très élevées, mais elles sont désormais portées à 120 voire 160 km/h. Malgré cela, le confort de voyage est très bon, de nombreuses lignes étant désormais desservies par des automotrices modernes de fabricants polonais ou suisses.
@@ -40,8 +42,8 @@ Sur la ligne vers Turmantas, les anciennes automotrices DR1A d’origine soviét
 {{% expander "Point frontière" border %}}
 | Pays | Points frontière |
 | --- | --- |
-| Pologne (PKP) | Mockava |
-| Lettonie (LDz) | Joniškis |
+| [Pologne](/country/poland) ([PKP](/operator/pkp)) | Mockava |
+| [Lettonie](/country/latvia) (LDz) | Joniškis |
 | Biélorussie | Frontière fermée |
 | Russie | Pas de montée/descente en transit Russie-Biélorussie-Lituanie-Kaliningrad |
 {{% /expander %}}

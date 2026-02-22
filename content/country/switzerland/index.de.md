@@ -18,11 +18,13 @@ In der Schweiz gibt es gleich drei verschiedene Betreiber, für die FIP-Freifahr
 
 - Die staatliche Bahngesellschaft [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Schweizerische Bundesbahnen - Chemins de fer fédéraux suisses - Ferrovie federali svizzere FFS), die besonders auf den meisten Hauptstrecken verkehrt
 - Ein Konsortium von [Schweizer Privatbahnen (SP)](/operator/sp "SP")
-- Die Berner Alpenbahngesellschaft Bern–Lötschberg–Simplon (BLS)
+- Die [BLS](/operator/bls)
 
 In Kombination decken diese fast das gesamte Schweizer Bahnnetz ab, inkl. einigen Verkehrsmitteln, die europaweit einmalig mit FIP sind, beispielsweise Seilbahnen oder bestimmte Buslinien.
 
 Lediglich einige sehr touristische Verkehre sind nicht in FIP enthalten. Zudem sind grenzüberschreitende Reisen in Fernzügen nach Frankreich und Italien mit etwas Aufwand verbunden, da hier spezielle Aufschläge dazu kommen.
+
+{{< identify-operator sources="db-website" />}}
 
 ## Wissenswertes
 
@@ -33,10 +35,10 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| Italien (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| Österreich (ÖBB) | Buchs (SG), St. Margrethen |
-| Frankreich (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+| [Deutschland](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Italien](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
 
 \
 [>] = In Richtung (z. B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)

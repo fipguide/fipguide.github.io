@@ -12,7 +12,7 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 
 - PKP akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen.
-- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Dolnośląskie (KD).
+- Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Śląskie (KŚ).
 
 ## Gültigkeit FIP-Tickets
 
@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 - Koleje Mazowieckie (KM) (Regionalzüge um Warschau bzw. der Woiwodschaft Masowien)
 - PKP Szybka Kolej Miejska w Trojmiescie (SKM) (S-Bahnen zwischen Danzig, Gdingen und Sopot)
 - Warszawska Kolej Dojazdowa (WKD) (Regionalzüge im Großraum Warschau)
-- Einige Strecken der Koleje Dolnośląskie (KD).
+- Einige Strecken der Koleje Śląskie (KŚ), siehe [Nutzung von PKP Freifahrtscheinen auf KŚ Routen](#nutzung-von-pkp-freifahrtscheinen-auf-kś-routen)
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
@@ -39,74 +39,139 @@ Die PKP FIP Tickets haben keine Gültigkeit im S-Bahn System von Warschau, welch
 Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspflicht gilt für alle EIP und EIC Züge sowie teilweise für IC und TLK Züge.
 {{% /highlight %}}
 
-{{% expander "Express Intercity Premium (EIP) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Hochgeschwindigkeitszüge mit Neigetechnik (Pendolino), die von PKP Intercity betrieben werden und hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind. \
-In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2] \
+{{% train-category
+    id="eip"
+    title="Express Intercity Premium (EIP)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Hochgeschwindigkeitszüge mit Neigetechnik (Pendolino), die von PKP Intercity betrieben werden und hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind.
+In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2]
+
+#### Reservierung
+
 Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
 
-Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkauft wurden, kann die Zahlung eines Zuschlags an Bord des Zuges erforderlich sein. [^1] \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja \
-**Kosten für Reservierung:** \
-43 PLN \
-(Zum Festpreis und nur über die PKP buchbar)
-{{% /expander %}}
+Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkauft wurden, kann die Zahlung eines Zuschlags an Bord des Zuges erforderlich sein. [^1]
 
-{{% expander "Express InterCity (EIC) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3] \
-In der 1. und 2. Klasse gibt es eine kostenlose Flasche Wasser pro Person. \
-Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ teilweise
-{{% /expander %}}
+**Kosten für Reservierung:** 43 PLN (zum Festpreis und nur über die PKP buchbar)
 
-{{% expander "InterCity (IC) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity betrieben werden und nur an wichtigen Bahnhöfen halten. [^4] \
-Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden. \
-Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe Kategorie "EN"). \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ teilweise
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Twoje Linie Kolejowe (TLK) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Überregionale Züge, die von PKP Intercity betrieben werden und sich durch besonders günstige Ticketpreise mit einfachen Komfortmerkmalen auszeichnen. [^5] \
-Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden. \
-Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe Kategorie "EN"). \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ teilweise
-{{% /expander %}}
+{{% train-category
+    id="eic"
+    title="Express InterCity (EIC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
 
-{{% expander "EuroNight (EN) ⚠️" traincategory category %}}
-**Beschreibung:** \
-Internationale Nachtzugverbindungen, betrieben von PKP Intercity, die aus oder in Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine verkehren. \
-Nachtzugverbindungen, die nur innerhalb von Polen fahren, werden als IC oder TLK geführt. Verbindungen in die Ukraine sind als D gekennzeichnet. \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** ⚠️ ja (in Schlaf- und Liegewagen) \
-**Kosten für Reservierung:** \
-Innerhalb Polens: \
-Schlafwagen: Single 299 PLN, Double 159 PLN, Triple 79 PLN \
-Liegewagen: 3er/4er Abteil 69 PLN, 6er Abteil 59 PLN [^1]
+Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3]
+In der 1. und 2. Klasse gibt es eine kostenlose Flasche Wasser pro Person.
+
+#### Reservierung
+
+Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity betrieben werden und nur an wichtigen Bahnhöfen halten. [^4]
+
+Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN"](#en)).
+
+#### Reservierung
+
+Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="tlk"
+    title="Twoje Linie Kolejowe (TLK)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Überregionale Züge, die von PKP Intercity betrieben werden und sich durch besonders günstige Ticketpreise mit einfachen Komfortmerkmalen auszeichnen. [^5]
+
+Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN"](#en)).
+
+#### Reservierung
+
+Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="en"
+    title="EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Internationale Nachtzugverbindungen, betrieben von PKP Intercity, die aus oder in Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine verkehren.
+Nachtzugverbindungen, die nur innerhalb von Polen fahren, werden als `IC` oder `TLK` geführt. Verbindungen in die Ukraine sind als `D` gekennzeichnet.
+
+#### Reservierung
+
+Es besteht Reservierungspflicht in Schlaf- und Liegewagen.
+
+**Kosten für Reservierung:**
+
+Innerhalb Polens:
+
+- Schlafwagen: Single 299 PLN, Double 159 PLN, Triple 79 PLN
+- Liegewagen: 3er/4er Abteil 69 PLN, 6er Abteil 59 PLN [^1]
 
 Abweichende Preise für internationale Verbindungen. [Weitere Informationen](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Regio (R) ℹ️" traincategory category %}}
-**Beschreibung:** \
+{{% train-category
+    id="r"
+    title="Regio (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
 
-ℹ️ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen. [Siehe Polen](/country/poland "Polen") \
-**Reservierung möglich:** ja \
-**Reservierungspflicht:** nein
-{{% /expander %}}
+{{% highlight confusion %}}
+Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen ([siehe Polen](/country/poland "Polen")).
+{{% /highlight %}}
 
-{{% expander "superREGIO (sR)" traincategory category %}}
-**Beschreibung:** \
+{{% /train-category %}}
+
+{{% train-category
+    id="sr"
+    title="superREGIO (sR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Überregionale Züge, die von Polregio betrieben werden und mit höherem Komfort als normale Regiozüge ausgestattet sind.
-{{% /expander %}}
+
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
@@ -231,6 +296,18 @@ Eine Fahrtunterbrechung ist grundsätzlich erlaubt, es gibt jedoch Ausnahmen. Im
 #### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
 
 Eine Fahrtunterbrechung ist erlaubt, unterliegt jedoch den Beförderungsbedingungen (RPO-PKP SKM) auf der Website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+
+### Nutzung von PKP Freifahrtscheinen auf KŚ Routen
+
+Auf folgenden Routen der [KŚ](/operator/ks) sind sowohl FIP-Tickets der KŚ als auch der PKP gültig:
+
+- Gliwice – Katowice – Częstochowa
+- Częstochowa – Lubliniec
+- Katowice – Tychy – Pszczyna – Czechowice Dziedzice – Bielsko Biała – Zwardoń
+- Żywiec – Sucha Beskidzka – Zakopane
+- Czechowice Dziedzice – Zebrzydowice
+- Pszczyna – Wisła Głębce
+- Kluczbork – Katowice
 
 ### Busse Warschau Modlin
 

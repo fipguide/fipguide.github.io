@@ -18,11 +18,13 @@ En Suisse, il existe trois opérateurs différents pour lesquels des FIP Coupons
 
 - La compagnie ferroviaire nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") (Chemins de fer fédéraux suisses), qui circule principalement sur les lignes principales
 - Un consortium de chemins de fer privés suisses [(SP - Schweizer Privatbahnen)](/operator/sp "SP")
-- La compagnie ferroviaire des Alpes bernoises Bern–Lötschberg–Simplon (BLS)
+- La [BLS](/operator/bls)
 
 En combinaison, ces opérateurs couvrent presque tout le réseau ferroviaire suisse, y compris certains moyens de transport uniques en Europe accessibles avec FIP, comme des téléphériques ou certaines lignes de bus.
 
 Il existe seulement quelques liaisons touristiques qui ne sont pas couvertes par le FIP. De plus, les voyages transfrontaliers en trains de grande ligne vers la France et l’Italie peuvent nécessiter un peu plus d’efforts, car des frais supplémentaires peuvent s’appliquer dans ces cas.
+
+{{< identify-operator sources="db-website" />}}
 
 ## Informations générales
 
@@ -33,10 +35,10 @@ La Suisse possède l’un des réseaux ferroviaires les plus denses au monde. Ma
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Allemagne (DB AG) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| Italie (FS) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| Autriche (ÖBB) | Buchs (SG), St. Margrethen |
-| France (SNCF) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+| [Allemagne](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
+| [Italie](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
 
 \
 [>] = En direction de (par exemple, Locarno [> Domodossola] = Locarno est le point frontière en direction de Domodossola)

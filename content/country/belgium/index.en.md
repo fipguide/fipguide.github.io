@@ -16,6 +16,10 @@ Additionally, international [Eurostar](/operator/eurostar "Eurostar") trains ope
 
 Furthermore, international `TGV` trains of the [SNCF](/operator/sncf "SNCF") from France operate, for which the FIP Coupon of SNCB are not valid. Only special FIP Global Fares can be booked for these trains. For the Eurocity trains from Brussels to Paris operated by OUIGO, no FIP discounts apply.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+Not all trains in the country (e. g. `ICE`) are shown in the [SNCB / NMBS online timetable](https://www.belgiantrain.be/en/).
+{{< /identify-operator >}}
+
 ## Interesting
 
 Belgium has an extensive and dense rail network. Unlike other countries, there is no real fare distinction between train categories in Belgium, except for international `ICE`, `TGV`, and Eurostar connections. Due to the central location of the capital Brussels, it is the hub of Belgian train traffic and is connected via 4 high-speed lines to Germany, France, and the Netherlands.
@@ -29,10 +33,10 @@ Particularly noteworthy are the impressive station buildings of Liège-Guillemin
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| Luxembourg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Germany (DB) | Aachen Süd (Gr) |
-| Netherlands (NS) | Roosendaal (fr), Visé (fr) |
-| France (SNCF) | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Germany](/country/germany) ([DB](/operator/db)) | Aachen Süd (Gr) |
+| [Netherlands](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### Luxembourg

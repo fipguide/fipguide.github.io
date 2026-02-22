@@ -17,7 +17,7 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 - Les Coupons FIP et Billets FIP 50 sont acceptés.
 - Attention aux trains d’autres opérateurs qui n’acceptent pas FIP.
 - FIP non valable dans le train express `CAT` vers l’aéroport de Vienne.
-- Règles spécifiques pour les trains vers l’Italie, les Nightjet, les trains auto, et les IC Bus.
+- Règles spécifiques pour les trains vers l’Italie, les Nightjet et les trains auto.
 - Le Coupon FIP ÖBB est aussi valable au Liechtenstein.
 
 ## Validité des Billets FIP
@@ -40,85 +40,170 @@ Coût : \
 
 ### Trains grandes lignes
 
-{{% expander "Railjet (RJ) / Railjet Xpress (RJX)" traincategory "long-distance" %}}
-**Description :** \
+{{% train-category
+    id="rj"
+    title="Railjet (RJ) / Railjet Xpress (RJX)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
 
-Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales). \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Il existe trois classes de voitures :
 
-{{% expander "Intercity (IC) / Intercity-Express (ICE) ℹ️" traincategory "long-distance" %}}
-**Description :** \
+- **Economy** : Comparable à la 2ᵉ classe. En Allemagne, les billets de 2ᵉ classe sont valables dans cette classe
+- **First Class** : Comparable à la 1ʳᵉ classe. Une Carte FIP pour la 1ʳᵉ classe est nécessaire. En Allemagne, les billets de 1ʳᵉ classe sont valables dans cette classe
+- **Business** : 1ʳᵉ classe avec boisson de bienvenue (à partir de l’Autriche / République tchèque) et compartiments privés. Non accessible avec le FIP Coupon hors d’Allemagne, même avec le supplément correspondant. En Allemagne, ces espaces sont accessibles avec un billet de 1ʳᵉ classe.
+
+Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
+
+{{% highlight confusion %}}
+`RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
+{{% /highlight %}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="Intercity (IC) / Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
 La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
 
-ℹ️ Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** parfois en haute saison (été) sur les liaisons internationales vers l’Allemagne, uniquement pour les trajets transfrontaliers.
-{{% /expander %}}
+{{% highlight confusion %}}
+Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables.
+{{% /highlight %}}
 
-{{% expander "InterRegio (IR)" traincategory "long-distance" %}}
-**Description :** \
-À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz – Unzmarkt ou Graz – Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+#### Réservation
 
-{{% expander "Eurocity (EC)" traincategory "long-distance" %}}
-**Description :** \
+Les réservations sont parfois obligatoires pendant la haute saison (été) pour les liaisons internationales vers l’Allemagne, uniquement pour les trajets transfrontaliers.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ir"
+    title="InterRegio (IR)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz – Unzmarkt ou Graz – Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
 Trains internationaux vers les pays voisins, exploités par ÖBB en coopération avec d’autres compagnies ferroviaires. Certaines liaisons sont aussi désignées comme `IC`.
 
-Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales). \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
 
-{{% expander "Nightjet (NJ) / EuroNight (EN) ⚠️" traincategory "long-distance" %}}
-**Description :** \
-Trains de nuit ÖBB vers plusieurs pays européens. Wagons couchettes, wagons-lits et places assises, exploités à l’étranger en coopération avec d’autres compagnies. \
-Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au Tarif Global FIP pour tout le trajet. \
-⚠️ Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire. \
-_Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
+{{% /train-category %}}
+
+{{% train-category
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Trains de nuit ÖBB vers plusieurs pays européens. Wagons couchettes, wagons-lits et places assises, exploités à l’étranger en coopération avec d’autres compagnies.
+
+{{% highlight important %}}
+Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire.
+{{% /highlight %}}
+
 **Tarif Global FIP :** oui \
-**Coût de la réservation :** \
-Selon la ligne, la catégorie et l’occupation.
-{{% /expander %}}
+_Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
 
-{{% expander "D-Zug (D)" traincategory "long-distance" %}}
-**Description :** \
-Les trains `D` sont principalement utilisés comme trains de renfort lors des périodes de forte affluence (vendredi et dimanche par exemple), généralement uniquement en 2ᵉ classe et sans confort particulier, car ils utilisent du matériel roulant plus ancien. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+#### Réservation
+
+Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au Tarif Global FIP pour tout le trajet.
+
+**Coût :** selon la ligne, la catégorie et l’occupation.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="d"
+    title="D-Zug (D)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+Les trains `D` sont principalement utilisés comme trains de renfort lors des périodes de forte affluence (vendredi et dimanche par exemple), généralement uniquement en 2ᵉ classe et sans confort particulier, car ils utilisent du matériel roulant plus ancien.
+
+{{% /train-category %}}
 
 ### Trains régionaux
 
-{{% expander "Regionalexpress (REX) / Cityjet Xpress (CJX) ℹ️" traincategory "local" %}}
-**Description :** \
+{{% train-category
+    id="rex"
+    title="Regionalexpress (REX) / Cityjet Xpress (CJX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Train régional rapide avec moins d’arrêts et matériel moderne.
 
-ℹ️ Certains Regionalexpress sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/). \
-**Réservation possible :** non
-{{% /expander %}}
+{{% highlight confusion %}}
+Certains Regionalexpress sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
+{{% /highlight %}}
 
-{{% expander "Regionalzug (R) ℹ️" traincategory "local" %}}
-**Description :** \
+{{% /train-category %}}
+
+{{% train-category
+    id="r"
+    title="Regionalzug (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Train régional avec arrêts dans la plupart des gares.
 
-ℹ️ Certains trains régionaux sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/).
+{{% highlight confusion %}}
+Certains trains régionaux sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
-La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains touristiques où les Billets FIP ne sont pas valables. Ceux-ci sont signalés par une note « tarif spécial ». \
-**Réservation possible :** non
-{{% /expander %}}
+La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains touristiques où les Billets FIP ne sont pas valables. Ceux-ci sont signalés par une note « tarif spécial ».
+{{% /highlight %}}
 
-{{% expander "Schnellbahn (S) ℹ️" traincategory "local" %}}
-**Description :** \
+{{% /train-category %}}
+
+{{% train-category
+    id="s"
+    title="Schnellbahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Train régional au moins toutes les heures, arrêt à toutes les gares. Comparable à un S-Bahn.
 
-ℹ️ Certaines Schnellbahn sont exploitées par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [Bahn.de](https://int.bahn.de/fr/).
+{{% highlight confusion %}}
+Certaines Schnellbahn sont exploitées par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 Exemples :
 
@@ -126,9 +211,9 @@ Exemples :
 - S-Bahn Salzbourg : S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styrie : S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
+  {{% /highlight %}}
 
-**Réservation possible :** non
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Catégories de classes
 
@@ -151,8 +236,7 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
-%}}
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
@@ -234,18 +318,6 @@ La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentatio
 ### ÖBB Postbus
 
 Les Billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de remplacement ferroviaire (SEV).
-
-### IC Bus (ICB)
-
-Les Billets FIP ne sont pas valables sur IC Bus (ICB), sauf pour les services de remplacement ferroviaire (SEV) et les itinéraires suivants :
-
-#### Graz – Klagenfurt
-
-Jusqu’en décembre 2025, les Billets FIP sont également valables sur l’IC Bus entre Graz et Klagenfurt.
-
-#### Klagenfurt/Villach – Udine/Venise
-
-Des Tarifs Globaux FIP spéciaux s’appliquent sur l’IC Bus (ICB). La réservation de siège est obligatoire et incluse dans le prix du billet.
 
 ### Trains auto
 

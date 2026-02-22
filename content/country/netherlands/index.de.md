@@ -22,6 +22,8 @@ Zusätzlich verkehren internationale [Eurostar](/operator/eurostar "Eurostar") Z
 
 Andere Betreiber wie Arriva Nederland oder die grenzüberschreitenden `RE` Züge Arnhem - Düsseldorf, Venlo - Hamm und Maastricht - Aachen sind dagegen leider nicht mit FIP nutzbar. Auch sämtliche Busse (außer im Schienenersatzverkehr), Straßenbahnen und U-Bahnen sind nicht enthalten.
 
+{{< identify-operator sources="ns-website,db-website" />}}
+
 ## Wissenswertes
 
 Die Niederlande verfügen über ein ziemlich dichtes Bahnnetz, auf dem wohl im internationalen Vergleich mit die besten Taktverkehre angeboten werden. Die meisten Strecken werden mindestens alle 30 Minuten bedient, die Hauptstrecken meist deutlich öfter.
@@ -37,8 +39,8 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Deutschland (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Belgien (SNCB) | Roosendaal (fr), Visé |
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
 {{% /expander %}}
 
 ### Deutschland

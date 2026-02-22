@@ -16,6 +16,10 @@ Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent é
 
 Par ailleurs, les trains `TGV` internationaux opérés par la [SNCF](/operator/sncf "SNCF") en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au Tarif Global FIP peut être réservé. Les trains Eurocity opérés par OUIGO entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+Dans le [planificateur de voyage en ligne de la SNCB](https://www.belgiantrain.be/fr/), tous les trains du pays (par exemple, les `ICE`) ne sont pas affichés.
+{{< /identify-operator >}}
+
 ## Informations générales
 
 La Belgique dispose d’un réseau ferroviaire dense et bien développé. Contrairement à d’autres pays, il n’existe pas de distinction tarifaire entre les différentes catégories de trains (sauf pour les connexions internationales comme `ICE`, `TGV` et Eurostar). Grâce à la position centrale de Bruxelles, celle-ci est le nœud ferroviaire du pays, reliée à l’Allemagne, la France et les Pays-Bas par quatre lignes à grande vitesse.
@@ -29,10 +33,10 @@ Sur les autres lignes, la vitesse est moyenne mais les trains circulent généra
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Luxembourg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Allemagne (DB) | Aachen Süd (Gr) |
-| Pays-Bas (NS) | Roosendaal (fr), Visé (fr) |
-| France (SNCF) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Aachen Süd (Gr) |
+| [Pays-Bas](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr) |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 {{% /expander %}}
 
 ### Luxembourg

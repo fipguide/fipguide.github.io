@@ -19,6 +19,10 @@ Au Danemark, il est possible de voyager sur les principales lignes avec un Bille
 
 Les trains de nuit qui traversent le Danemark, opérés par SJ et Snälltåget, n’acceptent pas non plus les réductions FIP. Les liaisons entre Copenhague et la Suède sont également exclues du dispositif FIP.
 
+{{< identify-operator sources="db-website" >}}
+Dans la [recherche d’horaires en ligne de DSB](https://www.dsb.dk/en/), seuls les types de trains sont indiqués, sans distinction entre les opérateurs.
+{{< /identify-operator >}}
+
 ## Informations générales
 
 Le Danemark dispose d’un réseau ferroviaire relativement dense, qui relie à la fois le continent du Jutland et les îles de Zealand, Funen et Falster. Le réseau est bien interconnecté. Le pays distingue les trains régionaux et grandes lignes en termes de tarification. Il existe également des offres spéciales par opérateur, comme le pass week-end sur le réseau GoCollective, mais des billets interopérateurs sont également disponibles.
@@ -37,7 +41,7 @@ Les trains danois circulent généralement à horaires réguliers et sont ponctu
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| Allemagne (DB) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
 | Suède (SJ) | Helsingborg (via Helsingør) |
 {{% /expander %}}
 

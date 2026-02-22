@@ -7,6 +7,8 @@ country:
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
 
+Die SBB stellt eine [Übersichtskarte ihrer Strecken](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf) zur Verfügung.
+
 ## Zusammenfassung
 
 - Die SBB akzeptiert FIP Freifahrt und FIP 50 Tickets.
@@ -19,8 +21,6 @@ FIP Freifahrt Angehörige: ⛔ \
 FIP 50 Tickets: ✅
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einschränkung gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
-
-[Übersicht SBB Netz](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_SBB_Map.pdf)
 
 ## Zugkategorien und Reservierungen
 
@@ -170,6 +170,10 @@ Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP 
 - Die FIP Freifahrtscheine der BLS werden in Zügen der SBB auf Strecken akzeptiert, auf denen auch Züge der BLS verkehren, also zwischen zwei Bahnhöfen, zwischen denen sowohl Züge der SBB als auch der BLS fahren. Das Liniennetz der BLS ist [online einsehbar](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
+
+### Schweizerische Südostbahn (SOB)
+
+Auf einigen Routen der Schweizerischen Südostbahn (SOB) gelten FIP Freifahrtscheine der SBB, siehe [Schweizer Privatbahnen - SOB](/operator/sp#sob).
 
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 

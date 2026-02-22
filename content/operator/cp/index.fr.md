@@ -28,41 +28,70 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services de la CP. P
 
 Les réservations ne sont obligatoires que sur les services longue distance (`AP` et `IC`).
 
-{{% expander "Alfa Pendular (AP) ⚠️" traincategory "category" %}}
-**Description :** \
+{{% train-category
+  id="alfa-pendular"
+  title="Alfa Pendular (AP)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
+%}}
+
 Trains rapides pendulaires (Pendolino) circulant sur l’axe principal Braga, Porto, Lisbonne et Faro avec peu d’arrêts. Les trains offrent un bon confort, Wi‑Fi, prises électriques à chaque siège et un service cafétéria/bar.
 
 Les Coupons FIP (quelle que soit la classe du titre) ne sont valables qu’en seconde classe. [^1]
 
-**Réservation possible :** Oui \
-**Réservation obligatoire :** ⚠️ Oui \
-**Coût de la réservation :** 5€
-{{% /expander %}}
+**Coût de la réservation :** 5 €
 
-{{% expander "Intercidades (IC) ⚠️" traincategory "category" %}}
-**Description :** \
-Trains rapides nationaux composés de voitures tractées circulant sur les principales relations. Ils offrent Wi‑Fi, prises électriques à certains sièges de 1re classe et un service bistrot. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** ⚠️ Oui \
-**Coût de la réservation :** 5€
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Serviço InterRegional (IR)" traincategory "category" %}}
-**Description :** \
-Trains régionaux sur de plus longues distances avec peu d’arrêts. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="intercidades"
+  title="Intercidades (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_possible=true
+  reservation_required=true
+%}}
 
-{{% expander "Serviço Regional (R)" traincategory "category" %}}
-**Description :** \
-Trains régionaux avec de nombreux arrêts. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Trains rapides nationaux composés de voitures tractées circulant sur les principales relations. Ils offrent Wi‑Fi, prises électriques à certains sièges de 1re classe et un service bistrot.
 
-{{% expander "Comboios Urbanos (U)" traincategory "category" %}}
-**Description :** \
+**Coût de la réservation :** 5 €
+
+{{% /train-category %}}
+
+{{% train-category
+  id="interregional"
+  title="Serviço InterRegional (IR)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
+Trains régionaux sur de plus longues distances avec peu d’arrêts.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="regional"
+  title="Serviço Regional (R)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
+Trains régionaux avec de nombreux arrêts.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="urbanos"
+  title="Comboios Urbanos (U)"
+  type="regional"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+
 Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les Coupons FIP sont valables sans restriction.
 
 **Lisbonne :** \
@@ -92,17 +121,22 @@ Le [réseau](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) 
 **Coimbra :** \
 Ligne entre Coimbra et Figueira da Foz.
 
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Celta : Porto – Vigo ⚠️" traincategory "category" %}}
-**Description :** \
-Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** ⚠️ oui \
-**Tarif Global FIP (indépendant de la distance) :** 4€
-{{% /expander %}}
+{{% train-category
+  id="celta"
+  title="Celta: Porto – Vigo"
+  type="regional"
+  fip_accepted=partially
+  reservation_possible=true
+  reservation_required=true
+%}}
+
+Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus.
+
+**Tarif Global FIP (indépendant de la distance) :** 4 €
+
+{{% /train-category %}}
 
 ## Catégories de classes
 
