@@ -47,22 +47,22 @@ To initialize the search index, run the following command in a separate terminal
 npx -y pagefind --site public
 ```
 
-### Run pre-commit hooks
+### Run prek hooks
 
-We use the [pre-commit framework](https://pre-commit.com/) to run some checks to ensure a consistent code quality.
+We use the [prek framework](https://prek.dev/) to run some checks to ensure a consistent code quality.
 
 First of all, install the package manager uv: [Installing uv](https://docs.astral.sh/uv/getting-started/installation/).
 
-Then, install the `pre-commit` tool:
+Then, install the `prek` tool:
 
 ```zsh
-uv tool install pre-commit --with pre-commit-uv --force-reinstall
+uv tool install prek --force-reinstall
 ```
 
-Now, enable `pre-commit` to run the check every time you want to commit changes:
+Now, enable `prek` to run the check every time you want to commit changes:
 
 ```zsh
-pre-commit install
+prek install
 ```
 
 ## Content Contributions

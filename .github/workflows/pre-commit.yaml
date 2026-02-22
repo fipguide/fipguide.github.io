@@ -11,16 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: astral-sh/setup-uv@v7
         with:
-          python-version: "3.12"
-      - name: Install uv
-        uses: astral-sh/setup-uv@v5
+          python-version: "3.14"
       - name: Install npm packages
         run: npm install
-      - name: Run pre-commit
-        run: |-
-          uvx --with pre-commit-uv pre-commit run --all-files
+      - name: Run prek
+        run: uvx prek -a
       - name: Print changed files
         if: failure()
         run: |-
