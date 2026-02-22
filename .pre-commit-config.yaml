@@ -1,15 +1,14 @@
 default_install_hook_types: [pre-commit]
 default_stages: [pre-commit, pre-merge-commit]
-minimum_pre_commit_version: 3.2.0
 default_language_version:
-  python: python3.12
+  python: python3.14
 repos:
   - repo: https://github.com/gitleaks/gitleaks.git
-    rev: v8.24.0
+    rev: v8.30.0
     hooks:
       - id: gitleaks
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
         args: [--maxkb=2048]
@@ -35,8 +34,9 @@ repos:
         name: Sort i18n YAML files
         entry: npx yaml-sort -i
         language: system
-        types: [file]
-        files: ^i18n/.*\.ya?ml$
+        files:
+          glob:
+            - "i18n/*.yaml"
   - repo: local
     hooks:
       - id: prettier
