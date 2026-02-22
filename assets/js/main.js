@@ -9,3 +9,4 @@ import "./dropdown.js";
 import "./search.js";
 import "./interactiveMap.js";
 import "./expander.js";
+import "./dialog.js";

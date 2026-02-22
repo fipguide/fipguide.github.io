@@ -57,13 +57,16 @@ button {
   @include focus-indicator(0.2rem);
 }
 
-a {
+a,
+.o-link {
   color: var(--link-default);
   transition:
     color 0.3s ease,
     background-color 0.3s ease;
   text-underline-offset: 0.2rem;
   border-radius: var(--border-radius-s);
+  text-decoration: underline;
+  cursor: pointer;
 
   &:hover,
   &:focus {
@@ -79,6 +82,10 @@ a {
     > .material-symbols-rounded {
       display: none;
     }
+  }
+
+  & > .material-symbols-rounded {
+    margin: 0 0.2rem;
   }
 }
 
