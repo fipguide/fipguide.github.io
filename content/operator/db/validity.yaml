@@ -25,12 +25,7 @@ _anchors:
       en: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
       fr: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
 sncf:
-  fip-coupon:
-    status: valid
-    text:
-      de: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fr: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+  fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
   fip-reduced-ticket: *reduced-50
 stl:

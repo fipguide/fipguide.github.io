@@ -18,63 +18,41 @@ _anchors:
       de: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
       en: "2 coupons with 4 fields each per year. Each field is valid for two days."
       fr: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-db:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
-sncb:
-  fip-coupon:
+  coupon-4fields-4: &coupon-4fields-4
     status: valid
     text:
       de: "4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
       en: "4 coupons with 4 fields each per year. Each field is valid for two days."
       fr: "4 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-  fip-coupon-relatives:
-    status: valid
-    text:
-      de: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "2 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-ns:
-  fip-coupon:
-    status: valid
-    text:
-      de: "4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "4 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "4 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-  fip-coupon-relatives: *coupon-4fields
-cfl:
-  fip-coupon:
+  coupon-6fields: &coupon-6fields
     status: valid
     text:
       de: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
       en: "6 coupons with 4 fields each per year. Each field is valid for two days."
       fr: "6 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-  fip-coupon-relatives:
-    status: valid
-    text:
-      de: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "6 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "6 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-gb:
-  fip-coupon:
-    status: valid
-    text:
-      de: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "2 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-  fip-coupon-relatives:
-    status: valid
-    text:
-      de: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "2 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
-stl:
-  fip-coupon:
+  coupon-crossing: &coupon-crossing
     status: valid
     text:
       de: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
       en: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
       fr: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
+db:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+sncb:
+  fip-coupon: *coupon-4fields-4
+  fip-coupon-relatives: *coupon-2fields
+ns:
+  fip-coupon: *coupon-4fields-4
+  fip-coupon-relatives: *coupon-4fields
+cfl:
+  fip-coupon: *coupon-6fields
+  fip-coupon-relatives: *coupon-6fields
+gb:
+  fip-coupon: *coupon-2fields
+  fip-coupon-relatives: *coupon-2fields
+stl:
+  fip-coupon: *coupon-crossing
   fip-coupon-relatives: *coupon-not-available
 pkp:
   fip-coupon: *coupon-4fields
@@ -152,12 +130,7 @@ nir:
   fip-coupon: *coupon-2fields
   fip-coupon-relatives: *coupon-2fields
 sll:
-  fip-coupon:
-    status: valid
-    text:
-      de: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
-      en: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
-      fr: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
+  fip-coupon: *coupon-crossing
   fip-coupon-relatives: *coupon-not-available
 zrms:
   fip-coupon: *coupon-4fields
