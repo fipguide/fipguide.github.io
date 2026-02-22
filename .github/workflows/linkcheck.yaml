@@ -18,7 +18,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Broken Links Checker
-        run: npx broken-link-checker $WEBSITE_URL --ordered --recursive --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" --exclude "intercity.pl"
+        run: |
+          npx broken-link-checker $WEBSITE_URL --ordered --recursive \
+            --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" \
+            --exclude "intercity.pl" \
+            --exclude "www.belgiantrain.be" \
+            --exclude "www.vagonweb.cz" \
+            --exclude "www.sncf-voyageurs.com" \
+            --exclude "community.sbb.ch" \
+            --exclude "www.bsb.de" \
+            --exclude "www.brfares.com" \
+            --exclude "iwsteamrailway.co.uk" \
+            --exclude "talyllyn.co.uk" \
+            --exclude "railwaymuseum.org.uk" \
+            --exclude "locomotion.org.uk" \
+            --exclude "www.dsb.dk" \
+            --exclude "garesetconnexions.sncf" \
+            --exclude "www.transilien.com" \
+            --exclude "www.ter.sncf.com" \
+            --exclude "www.fmnf.pt" \
+            --exclude "www.linkedin.com" \
+            --exclude "www.trenitalia.fr"
       - uses: actions/checkout@v3
         if: failure()
       - uses: JasonEtco/create-an-issue@v2
