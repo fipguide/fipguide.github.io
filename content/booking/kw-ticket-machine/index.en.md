@@ -15,9 +15,10 @@ At some stations, Koleje Wielkopolskie ticket machines are available. Additional
 
 ## FIP 50 Tickets
 
-Discounted FIP 50 Tickets can be purchased at the ticket machines. The discount "UMOWA (ulga 50%)" must be selected.
+Discounted FIP 50 Tickets can be purchased at the ticket machines. The discount "UMOWA (ulga 50%)" must be selected. [^1]
 
-{{% highlight important %}}
-In the past, "UMOWA" was not always the correct option for FIP tickets, but at KW there is no other selection available. If in doubt, ask on-site whether this is indeed the correct fare for FIP tickets.
-{{% /highlight %}}
+## Sources
+
+[^1]: [PKP FIP information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
+
 {{% /booking-section %}}

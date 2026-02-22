@@ -15,9 +15,10 @@ Dans certaines gares, des distributeurs de billets Koleje Wielkopolskie sont dis
 
 ## Billets FIP 50
 
-Des Billets FIP 50 à tarif réduit peuvent être achetés aux distributeurs de billets. La réduction « UMOWA (ulga 50%) » doit être sélectionnée.
+Des Billets FIP 50 à tarif réduit peuvent être achetés aux distributeurs de billets. La réduction « UMOWA (ulga 50%) » doit être sélectionnée. [^1]
 
-{{% highlight important %}}
-Par le passé, « UMOWA » n’était pas toujours l’option correcte pour les billets FIP, mais chez KW il n’y a pas d’autre choix disponible. En cas de doute, demandez sur place si c’est bien le tarif correct pour les billets FIP.
-{{% /highlight %}}
+## Sources
+
+[^1]: [PKP FIP information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
+
 {{% /booking-section %}}

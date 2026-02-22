@@ -8,18 +8,24 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
+    - Koleje Małopolskie (KML)
+    - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
 ---
 
 ## FIP Information
 
-Poland is the country with the most different railway companies that offer FIP. It depends very much on which voivodeships (parts of Poland) the journeys should go through. The most important operator is the state railway company [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), which with its subsidiaries covers almost the complete long-distance traffic as well as large parts of regional traffic. In addition to PKP Intercity and Polregio, PKP also includes the local rail system of Gdansk (Tri-City) and the regional traffic of Koleje Mazowieckie (KM). The following regionally operating railway companies offer FIP separately:
+Poland is the country with the most different railway companies that offer FIP. It depends very much on which voivodeships (parts of Poland) the journeys should go through. The most important operator is the state railway company [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), which with its subsidiaries covers almost the complete long-distance traffic as well as large parts of regional traffic. In addition to PKP Intercity and Polregio, PKP also includes the local rail system of Gdansk (Tri-City) and the regional traffic of Koleje Mazowieckie (KM).
+
+The following regionally operating railway companies offer FIP separately:
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
-The local rail system in Warsaw (Szybka Kolej Miejska w Warszawie) cannot be used with FIP Tickets. It is abbreviated as SKM, just like the one in Gdansk. Apart from this, FIP coverage in Poland is very high. In long-distance traffic, reservations are sometimes necessary at PKP InterCity and also generally recommended, as the trains are often very well utilized. In regional traffic, generally only 2nd class is offered.
+The local rail system in Warsaw (Szybka Kolej Miejska w Warszawie) cannot be used with FIP Tickets. It is abbreviated as SKM, just like the one in Gdansk. FIP is also not accepted on trains of the Koleje Małopolskie (KML). The Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) cannot be used with FIP, unless it operates on behalf of railway companies that accept FIP.
+
+Apart from this, FIP coverage in Poland is very high. In long-distance traffic, reservations are sometimes necessary at PKP InterCity and also generally recommended, as the trains are often very well utilized. In regional traffic, generally only 2nd class is offered.
 
 {{< identify-operator sources="plk-website,db-website,vagonweb" />}}
 
@@ -79,7 +85,9 @@ Between Czechia and Poland, regular trains are offered in both long-distance and
 
 The same applies to regional trains between Mikulovice and Krnov, which make a short detour to Poland and stop in Głuchołazy. Easier is the Harrachov border crossing, via which regional trains run between Szklarska Poreba and Liberec. These trains are operated on the Polish side by KD and on the Czech side by ČD.
 
-Via Lichkov, EC trains run between Wrocław (sometimes coming from Gdynia) and Prague, for which tickets from PKP and ČD plus reservation are required. Regional trains are operated on the Polish side by KD, on the Czech side it should be ČD without guarantee.
+Via Lichkov, EC trains run between Wrocław (sometimes coming from Gdynia) and Prague, for which tickets from PKP and ČD plus reservation are required. Regional trains are operated on the Polish side by KD. In Czechia, services are operated by Leo Express, therefore FIP is not valid on this section.
+
+Further cross-border regional train connections can only be used with FIP on the Polish side.
 
 ### Ukraine
 

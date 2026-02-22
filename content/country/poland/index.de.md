@@ -8,18 +8,24 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
+    - Koleje Małopolskie (KML)
+    - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
 ---
 
 ## FIP Nutzung
 
-Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM). Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
+Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP anbieten. Dabei kommt es sehr darauf an, durch welche Woiwodschaften (Teile von Polens) die Fahrten gehen sollen. Der wichtigste Anbieter ist die staatliche Bahngesellschaft [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), die mit ihren Tochtergesellschaften fast den kompletten Fernverkehr sowie große Teile des Regionalverkehrs abdeckt. Neben PKP Intercity und Polregio gehört zur PKP auch das S-Bahn System von Danzig (Dreistadt) und der Regionalverkehr von Koleje Mazowieckie (KM).
+
+Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
-Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit FIP genutzt werden. Sie wird genauso wie die in Danzig mit SKM abgekürzt. Abgesehen von dieser ist die FIP-Abdeckung in Polen sehr hoch. Im Fernverkehr sind bei PKP InterCity teilweise Reservierungen nötig und auch allgemein empfehlenswert, da die Züge oft sehr gut ausgelastet sind. Im Regionalverkehr wird grundsätzlich nur die 2. Klasse angeboten.
+Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit FIP genutzt werden. Sie wird genauso wie die in Danzig mit SKM abgekürzt. Auch in den Zügen der Koleje Małopolskie (KML) wird FIP nicht akzeptiert. Die Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) kann mit FIP nicht genutzt werden, außer sie fährt im Auftrag für Bahngesellschaften, die FIP akzeptieren.
+
+Abgesehen von dieser ist die FIP-Abdeckung in Polen sehr hoch. Im Fernverkehr sind bei PKP InterCity teilweise Reservierungen nötig und auch allgemein empfehlenswert, da die Züge oft sehr gut ausgelastet sind. Im Regionalverkehr wird grundsätzlich nur die 2. Klasse angeboten.
 
 {{< identify-operator sources="plk-website,db-website,vagonweb" />}}
 
@@ -79,7 +85,9 @@ Zwischen Tschechien und Polen werden regelmäßige Züge sowohl im Fern- als auc
 
 Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kurzen Abstecher nach Polen machen und in Głuchołazy halten. Einfacher ist hier der Grenzübergang Harrachov, über den Regionalzüge zwischen Szklarska Poreba und Liberec verkehren. Diese Züge werden auf polnischer Seite von der KD und auf tschechischer Seite von der ČD betrieben.
 
-Über Lichkov fahren EC-Züge zwischen Breslau (teilweise aus Gdingen kommend) und Prag, für die Tickets von der PKP und ČD plus Reservierung benötigt werden. Regionalzüge sind auf polnischer Seite von der KD, auf tschechischer dürfte es ohne Gewähr die ČD sein.
+Über Lichkov fahren EC-Züge zwischen Breslau (teilweise aus Gdingen kommend) und Prag, für die Tickets von der PKP und ČD plus Reservierung benötigt werden. Regionalzüge werden auf polnischer Seite durch die KD betrieben. In Tschechien wird der Betrieb von Leo Express durchgeführt, daher gilt in diesem Abschnitt kein FIP.
+
+Weitere grenzüberschreitende Regionalzugverbindungen können nur auf polnischer Seite mit FIP genutzt werden.
 
 ### Ukraine
 
