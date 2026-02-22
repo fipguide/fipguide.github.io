@@ -1,0 +1,257 @@
+# This file shows the rules for FIP cards issued by NS.
+_anchors:
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
+  free-travel: &free-travel
+    status: valid
+    text:
+      de: "Unbegrenzte Anzahl an Ländercoupons möglich (jeweils ein Coupon pro Anfrage)."
+      en: "Unlimited country coupons can be requested (one coupon per request)."
+      fr: "Un nombre illimité de coupons pays peut être demandé (un coupon par demande)."
+  coupon-a1-c1: &coupon-a1-c1
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende (mind. 50 %): 1 Freifahrtschein pro Jahr. \
+        Ehemalige Mitarbeitende (mind. 11 Jahre): 1 Freifahrtschein pro Jahr.
+      en: |
+        Active employees (min. 50 %): 1 coupon per year. \
+        Former employees (min. 11 years): 1 coupon per year.
+      fr: |
+        Employés actifs (min. 50 %) : 1 coupon par an. \
+        Anciens employés (min. 11 ans) : 1 coupon par an.
+  coupon-a1-d1: &coupon-a1-d1
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende (mind. 50 %): 1 Freifahrtschein pro Jahr. \
+        Ehemalige Mitarbeitende (mind. 11 Jahre): 1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt).
+      en: |
+        Active employees (min. 50 %): 1 coupon per year. \
+        Former employees (min. 11 years): 1 coupon (one-time, within 45 months after leaving).
+      fr: |
+        Employés actifs (min. 50 %) : 1 coupon par an. \
+        Anciens employés (min. 11 ans) : 1 coupon (unique, dans les 45 mois suivant le départ).
+  coupon-a2-c1: &coupon-a2-c1
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende (mind. 50 %): 2 Freifahrtscheine pro Jahr. \
+        Ehemalige Mitarbeitende (mind. 11 Jahre): 1 Freifahrtschein pro Jahr.
+      en: |
+        Active employees (min. 50 %): 2 coupons per year. \
+        Former employees (min. 11 years): 1 coupon per year.
+      fr: |
+        Employés actifs (min. 50 %) : 2 coupons par an. \
+        Anciens employés (min. 11 ans) : 1 coupon par an.
+  coupon-a4-c2: &coupon-a4-c2
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende (mind. 50 %): 4 Freifahrtscheine pro Jahr. \
+        Ehemalige Mitarbeitende (mind. 11 Jahre): 2 Freifahrtscheine pro Jahr.
+      en: |
+        Active employees (min. 50 %): 4 coupons per year. \
+        Former employees (min. 11 years): 2 coupons per year.
+      fr: |
+        Employés actifs (min. 50 %) : 4 coupons par an. \
+        Anciens employés (min. 11 ans) : 2 coupons par an.
+  coupon-a4-d1: &coupon-a4-d1
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende (mind. 50 %): 4 Freifahrtscheine pro Jahr. \
+        Ehemalige Mitarbeitende (mind. 11 Jahre): 1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt).
+      en: |
+        Active employees (min. 50 %): 4 coupons per year. \
+        Former employees (min. 11 years): 1 coupon (one-time, within 45 months after leaving).
+      fr: |
+        Employés actifs (min. 50 %) : 4 coupons par an. \
+        Anciens employés (min. 11 ans) : 1 coupon (unique, dans les 45 mois suivant le départ).
+  relatives-b1-e1: &relatives-b1-e1
+    status: valid
+    text:
+      de: |
+        Partner/Kind aktiver Mitarbeitender (mind. 50 %): 1 Freifahrtschein pro Jahr. \
+        Partner ehemaliger Mitarbeitender (mind. 11 Jahre): 1 Freifahrtschein pro Jahr.
+      en: |
+        Partner/child of active employees (min. 50 %): 1 coupon per year. \
+        Partner of former employees (min. 11 years): 1 coupon per year.
+      fr: |
+        Partenaire/enfant d'employés actifs (min. 50 %) : 1 coupon par an. \
+        Partenaire d'anciens employés (min. 11 ans) : 1 coupon par an.
+  relatives-b2-e1: &relatives-b2-e1
+    status: valid
+    text:
+      de: |
+        Partner/Kind aktiver Mitarbeitender (mind. 50 %): 2 Freifahrtscheine pro Jahr. \
+        Partner ehemaliger Mitarbeitender (mind. 11 Jahre): 1 Freifahrtschein pro Jahr.
+      en: |
+        Partner/child of active employees (min. 50 %): 2 coupons per year. \
+        Partner of former employees (min. 11 years): 1 coupon per year.
+      fr: |
+        Partenaire/enfant d'employés actifs (min. 50 %) : 2 coupons par an. \
+        Partenaire d'anciens employés (min. 11 ans) : 1 coupon par an.
+  relatives-b4-e2: &relatives-b4-e2
+    status: valid
+    text:
+      de: |
+        Partner/Kind aktiver Mitarbeitender (mind. 50 %): 4 Freifahrtscheine pro Jahr. \
+        Partner ehemaliger Mitarbeitender (mind. 11 Jahre): 2 Freifahrtscheine pro Jahr.
+      en: |
+        Partner/child of active employees (min. 50 %): 4 coupons per year. \
+        Partner of former employees (min. 11 years): 2 coupons per year.
+      fr: |
+        Partenaire/enfant d'employés actifs (min. 50 %) : 4 coupons par an. \
+        Partenaire d'anciens employés (min. 11 ans) : 2 coupons par an.
+  relatives-b1-f1: &relatives-b1-f1
+    status: valid
+    text:
+      de: |
+        Partner/Kind aktiver Mitarbeitender (mind. 50 %): 1 Freifahrtschein pro Jahr. \
+        Partner ehemaliger Mitarbeitender (mind. 11 Jahre): 1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt).
+      en: |
+        Partner/child of active employees (min. 50 %): 1 coupon per year. \
+        Partner of former employees (min. 11 years): 1 coupon (one-time, within 45 months after leaving).
+      fr: |
+        Partenaire/enfant d'employés actifs (min. 50 %) : 1 coupon par an. \
+        Partenaire d'anciens employés (min. 11 ans) : 1 coupon (unique, dans les 45 mois suivant le départ).
+  relatives-sncf: &relatives-sncf
+    status: valid
+    text:
+      de: |
+        SNCF: Partner/Kind aktiver Mitarbeitender (mind. 50 %): 1 Freifahrtschein pro Jahr. \
+        Région Nord: Partner/Kind aktiver Mitarbeitender (mind. 50 %): 3 Freifahrtscheine pro Jahr. \
+        SNCF: Partner ehemaliger Mitarbeitender (mind. 11 Jahre): 1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt).
+      en: |
+        SNCF: Partner/child of active employees (min. 50 %): 1 coupon per year. \
+        Région Nord: Partner/child of active employees (min. 50 %): 3 coupons per year. \
+        SNCF: Partner of former employees (min. 11 years): 1 coupon (one-time, within 45 months after leaving).
+      fr: |
+        SNCF: Partenaire/enfant d'employés actifs (min. 50 %) : 1 coupon par an. \
+        Région Nord: Partenaire/enfant d'employés actifs (min. 50 %) : 3 coupons par an. \
+        SNCF: Partenaire d'anciens employés (min. 11 ans) : 1 coupon unique (dans les 45 mois suivant le départ).
+attica:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+bdz:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+bls:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+bsb:
+  fip-coupon: *coupon-a1-d1
+  fip-coupon-relatives: *coupon-not-available
+cd:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+cfr:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+cfl:
+  fip-coupon: *free-travel
+  fip-coupon-relatives: *free-travel
+cie:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+cp:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+db:
+  fip-coupon: *coupon-a1-d1
+  fip-coupon-relatives: *relatives-b1-f1
+dsb:
+  fip-coupon: *coupon-a1-d1
+  fip-coupon-relatives: *coupon-not-available
+fs:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+gb:
+  fip-coupon: *coupon-a2-c1
+  fip-coupon-relatives: *relatives-b2-e1
+gysev:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+ht:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+hz:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+kd:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+ks:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+kw:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+lka:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+ltg:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+mav:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+nir:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+oebb:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-f1
+pkp:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+renfe:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+sbb:
+  fip-coupon: *coupon-a1-d1
+  fip-coupon-relatives: *coupon-not-available
+sll:
+  fip-coupon: *coupon-a2-c1
+  fip-coupon-relatives: *relatives-b2-e1
+sncb:
+  fip-coupon: *free-travel
+  fip-coupon-relatives: *free-travel
+sncf:
+  fip-coupon: *coupon-a4-d1
+  fip-coupon-relatives: *relatives-sncf
+sp:
+  fip-coupon: *coupon-a1-d1
+  fip-coupon-relatives: *coupon-not-available
+stl:
+  fip-coupon: *coupon-a4-c2
+  fip-coupon-relatives: *relatives-b4-e2
+sv:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+sz:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+vy:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+zfbh:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+zpcg:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+zrms:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+zrs:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
+zssk:
+  fip-coupon: *coupon-a1-c1
+  fip-coupon-relatives: *relatives-b1-e1
