@@ -1,154 +1,212 @@
 # This file shows the rules for FIP cards issued by GB (National Rail).
 _anchors:
-  t-1-coupon: &t-1-coupon
-    de: "1 Freifahrtschein pro Jahr"
-    en: "1 coupon per year"
-    fr: "1 coupon par an"
-  t-2-coupons: &t-2-coupons
-    de: "2 Freifahrtscheine pro Jahr"
-    en: "2 coupons per year"
-    fr: "2 coupons par an"
-  t-not-available: &t-not-available
-    de: "Nicht verfügbar"
-    en: "Not available"
-    fr: "Non disponible"
-  t-50-discount: &t-50-discount
-    de: "50 % Rabatt"
-    en: "50 % discount"
-    fr: "50 % de réduction"
-  t-75-discount: &t-75-discount
-    de: "75 % Rabatt"
-    en: "75 % discount"
-    fr: "75 % de réduction"
-  t-active-retired-1: &t-active-retired-1
-    de: "Aktive Mitarbeitende und Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-    en: "Active staff and retired staff (safeguarded only): 1 coupon per year"
-    fr: "Personnel actif et personnel retraité (sécurisés uniquement): 1 coupon par an"
-  t-active-2-retired-1: &t-active-2-retired-1
-    de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-    en: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
-    fr: "Personnel actif: 2 coupons par an. Personnel retraité (sécurisés uniquement): 1 coupon par an"
-  coupon-1: &coupon-1
-    status: valid
-    text: *t-1-coupon
   coupon-not-available: &coupon-not-available
     status: invalid
-    text: *t-not-available
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
   reduced-50: &reduced-50
     status: valid
-    text: *t-50-discount
-bls:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-1
-  fip-reduced-ticket: *reduced-50
-bsb:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-bdz:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-1
-  fip-reduced-ticket: *reduced-50
-cd:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-cfl:
-  fip-coupon:
+    text:
+      de: "50 % Rabatt"
+      en: "50 % discount"
+      fr: "50 % de réduction"
+  reduced-75: &reduced-75
     status: valid
-    text: *t-active-retired-1
-  fip-coupon-relatives:
+    text:
+      de: "Aktive Mitarbeitende und Ruheständler (safeguarded): 75 % Rabatt. Ruheständler (nicht safeguarded): 50 % Rabatt"
+      en: "Active staff and retired staff (safeguarded): 75 % discount. Retired staff (non-safeguarded): 50 % discount"
+      fr: "Personnel actif et personnel retraité (sécurisés) : 75 % de réduction. Personnel retraité (non sécurisés) : 50 % de réduction"
+  coupon-active-1: &coupon-active-1
     status: valid
-    text: *t-active-retired-1
-  fip-reduced-ticket: *reduced-50
-cp:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-db:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-dsb:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-fs:
-  fip-coupon:
+    text:
+      de: "Aktive Mitarbeitende: 1 Freifahrtschein pro Jahr. Ruheständler: Nicht verfügbar"
+      en: "Active staff: 1 coupon per year. Retired staff: Not available"
+      fr: "Personnel actif : 1 coupon par an. Personnel retraité : Non disponible"
+  coupon-active-1-retired-1-safeguarded: &coupon-active-1-retired-1-safeguarded
     status: valid
-    text: *t-active-retired-1
-  fip-coupon-relatives:
+    text:
+      de: "Aktive Mitarbeitende: 1 Freifahrtschein pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      en: "Active staff: 1 coupon per year. Retired staff (safeguarded only): 1 coupon per year"
+      fr: "Personnel actif : 1 coupon par an. Personnel retraité (sécurisés uniquement) : 1 coupon par an"
+  coupon-active-2-retired-1-safeguarded: &coupon-active-2-retired-1-safeguarded
     status: valid
-    text: *t-active-retired-1
-  fip-reduced-ticket: *reduced-50
-gysev:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-kd:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-ns:
-  fip-coupon:
+    text:
+      de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
+      en: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
+      fr: "Personnel actif : 2 coupons par an. Personnel retraité (sécurisés uniquement) : 1 coupon par an"
+  coupon-active-2-retired-not-available: &coupon-active-2-retired-not-available
     status: valid
-    text: *t-active-2-retired-1
-  fip-coupon-relatives:
-    status: valid
-    text: *t-active-2-retired-1
-  fip-reduced-ticket: *reduced-50
-oebb:
-  fip-coupon:
-    status: valid
-    text: *t-active-retired-1
-  fip-coupon-relatives: *coupon-1
-  fip-reduced-ticket: *reduced-50
-pkp:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-renfe:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-sbb:
-  fip-coupon: *coupon-1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
-sncb:
-  fip-coupon:
-    status: valid
-    text: *t-active-2-retired-1
-  fip-coupon-relatives:
-    status: valid
-    text: *t-active-2-retired-1
-  fip-reduced-ticket:
+    text:
+      de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler: Nicht verfügbar"
+      en: "Active staff: 2 coupons per year. Retired staff: Not available"
+      fr: "Personnel actif : 2 coupons par an. Personnel retraité : Non disponible"
+  reduced-active-75-retired-50: &reduced-active-75-retired-50
     status: valid
     text:
       de: "Aktive Mitarbeitende: 75 % Rabatt. Ruheständler: 50 % Rabatt"
       en: "Active staff: 75 % discount. Retired staff: 50 % discount"
-      fr: "Personnel actif: 75 % de réduction. Personnel retraité: 50 % de réduction"
+      fr: "Personnel actif : 75 % de réduction. Personnel retraité : 50 % de réduction"
+  coupon-active-2-retired-2-safeguarded: &coupon-active-2-retired-2-safeguarded
+    status: valid
+    text:
+      de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 2 Freifahrtscheine pro Jahr"
+      en: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 2 coupons per year"
+      fr: "Personnel actif : 2 coupons par an. Personnel retraité (sécurisés uniquement) : 2 coupons par an"
+attica:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+bdz:
+  fip-coupon: *coupon-active-1-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+bls:
+  fip-coupon: *coupon-active-1-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+bsb:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+cd:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+cfr:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+cfl:
+  fip-coupon: *coupon-active-1-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+cie:
+  fip-coupon: *coupon-active-2-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-2-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-75
+cp:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+db:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+dsb:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+eil:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+fs:
+  fip-coupon: *coupon-active-1-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+gysev:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ht:
+  fip-coupon: *coupon-active-1-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+hz:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+kd:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ks:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+kw:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+lka:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+mav:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+nir:
+  fip-coupon: *coupon-active-2-retired-2-safeguarded
+  fip-coupon-relatives: *coupon-active-2-retired-2-safeguarded
+  fip-reduced-ticket: *reduced-75
+ns:
+  fip-coupon: *coupon-active-2-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-2-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+oebb:
+  fip-coupon: *coupon-active-1-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-1-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-50
+pkp:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+renfe:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sbb:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sll:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sncb:
+  fip-coupon: *coupon-active-2-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-2-retired-1-safeguarded
+  fip-reduced-ticket: *reduced-active-75-retired-50
 sncf:
-  fip-coupon:
-    status: valid
-    text: *t-2-coupons
-  fip-coupon-relatives:
-    status: valid
-    text: *t-2-coupons
-  fip-reduced-ticket:
-    status: valid
-    text: *t-75-discount
+  fip-coupon: *coupon-active-2-retired-not-available
+  fip-coupon-relatives: *coupon-active-2-retired-not-available
+  fip-reduced-ticket: *reduced-75
 sp:
-  fip-coupon: *coupon-1
+  fip-coupon: *coupon-active-1
   fip-coupon-relatives: *coupon-not-available
   fip-reduced-ticket: *reduced-50
 stl:
-  fip-coupon:
-    status: valid
-    text: *t-active-2-retired-1
-  fip-coupon-relatives:
-    status: valid
-    text: *t-active-2-retired-1
+  fip-coupon: *coupon-active-2-retired-1-safeguarded
+  fip-coupon-relatives: *coupon-active-2-retired-1-safeguarded
+sv:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sz:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+vy:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zfbh:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zpcg:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zrs:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zrms:
+  fip-coupon: *coupon-active-1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
 zssk:
-  fip-coupon: *coupon-1
+  fip-coupon: *coupon-active-1
   fip-coupon-relatives: *coupon-not-available
   fip-reduced-ticket: *reduced-50
