@@ -70,10 +70,10 @@ Travel within Luxembourg is free in 2nd class, so a CFL Coupon is not strictly n
 Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
 
 {{% highlight tip %}}
-A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4 from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket (DB employee discounts only apply with NE tickets) is. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
+A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4, operated by SWEG Südwestdeutsche Landesverkehrs-GmbH, from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket and national DB employee discounts[^3] (TagesTicket M Fern F, DB Job-Ticket M, Netzcard + NE supplementary ticket) are. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
 {{% /highlight %}}
 
-There are also various regional train connections from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid. FIP 50 Tickets for these connections can be purchased online; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
+There are also various regional train connections operated by DB and SNCF from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid. FIP 50 Tickets for these connections can be purchased online; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
 
 {{% highlight tip %}}
 The Deutschlandticket, a cheap option for regional travel in Germany, is also valid without an additional ticket on regional train connections from Germany to Lauterbourg and Wissembourg or with the Saarbahn to Sarreguemines.
@@ -116,3 +116,5 @@ There are no border points between the two countries for fare purposes, as Monac
 [^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
