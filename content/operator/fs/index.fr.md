@@ -323,7 +323,7 @@ Les rabais FIP s’appliquent pour la traversée du détroit de Messine uniqueme
 
 ### Leonardo Express (navette aéroport Rome Fiumicino)
 
-Les rabais FIP ne s’appliquent pas dans le Leonardo Express vers/depuis l’aéroport de Rome Fiumicino. Les trains régionaux classiques peuvent être utilisés en alternative.
+Les rabais FIP ne s’appliquent pas dans le Leonardo Express vers/depuis l’aéroport de Rome Fiumicino. Les trains régionaux classiques peuvent être utilisés en alternative. Un prix minimum de billet de 8 € s’applique, qui ne peut pas être abaissé même avec le Billet FIP 50. Les Coupons FIP peuvent toutefois être utilisés normalement dans les trains régionaux.
 
 ### Trinacria Express (aéroport de Palerme)
 
