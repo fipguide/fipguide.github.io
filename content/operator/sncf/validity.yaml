@@ -3,9 +3,15 @@ _anchors:
   coupon-4fields: &coupon-4fields
     status: valid
     text:
-      de: "1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "1 coupon with 4 fields each per year. Each field is valid for two days."
-      fr: "1 coupon avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      de: |
+        1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. \
+        Jedes Feld ist zwei Tage gültig.
+      en: |
+        1 coupon with 4 fields each per year. \
+        Each field is valid for two days.
+      fr: |
+        1 coupon avec 4 champs chacun par an. \
+        Chaque champ est valable deux jours.
   coupon-not-available: &coupon-not-available
     status: invalid
     text:
@@ -15,27 +21,51 @@ _anchors:
   coupon-2fields: &coupon-2fields
     status: valid
     text:
-      de: "2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "2 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "2 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      de: |
+        2 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. \
+        Jedes Feld ist zwei Tage gültig.
+      en: |
+        2 coupons with 4 fields each per year. \
+        Each field is valid for two days.
+      fr: |
+        2 coupons avec 4 champs chacun par an. \
+        Chaque champ est valable deux jours.
   coupon-4fields-4: &coupon-4fields-4
     status: valid
     text:
-      de: "4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "4 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "4 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      de: |
+        4 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. \
+        Jedes Feld ist zwei Tage gültig.
+      en: |
+        4 coupons with 4 fields each per year. \
+        Each field is valid for two days.
+      fr: |
+        4 coupons avec 4 champs chacun par an. \
+        Chaque champ est valable deux jours.
   coupon-6fields: &coupon-6fields
     status: valid
     text:
-      de: "6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig."
-      en: "6 coupons with 4 fields each per year. Each field is valid for two days."
-      fr: "6 coupons avec 4 champs chacun par an. Chaque champ est valable deux jours."
+      de: |
+        6 Freifahrtscheine mit jeweils 4 Feldern pro Jahr. \
+        Jedes Feld ist zwei Tage gültig.
+      en: |
+        6 coupons with 4 fields each per year. \
+        Each field is valid for two days.
+      fr: |
+        6 coupons avec 4 champs chacun par an. \
+        Chaque champ est valable deux jours.
   coupon-crossing: &coupon-crossing
     status: valid
     text:
-      de: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
-      en: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
-      fr: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
+      de: |
+        1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. \
+        Jedes Feld ist für eine Überfahrt gültig.
+      en: |
+        1 coupon with 2 fields each per year. \
+        Each field is valid for one crossing.
+      fr: |
+        1 coupon avec 2 champs chacun par an. \
+        Chaque champ est valable pour une traversée.
 db:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available

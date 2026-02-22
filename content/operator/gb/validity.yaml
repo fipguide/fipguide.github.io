@@ -15,45 +15,87 @@ _anchors:
   reduced-75: &reduced-75
     status: valid
     text:
-      de: "Aktive Mitarbeitende und Ruheständler (safeguarded): 75 % Rabatt. Ruheständler (nicht safeguarded): 50 % Rabatt"
-      en: "Active staff and retired staff (safeguarded): 75 % discount. Retired staff (non-safeguarded): 50 % discount"
-      fr: "Personnel actif et personnel retraité (sécurisés) : 75 % de réduction. Personnel retraité (non sécurisés) : 50 % de réduction"
+      de: |
+        Aktive Mitarbeitende und Ruheständler (safeguarded): 75 % Rabatt. \
+        Ruheständler (nicht safeguarded): 50 % Rabatt
+      en: |
+        Active staff and retired staff (safeguarded): 75 % discount. \
+        Retired staff (non-safeguarded): 50 % discount
+      fr: |
+        Personnel actif et personnel retraité (sécurisés) : 75 % de réduction. \
+        Personnel retraité (non sécurisés) : 50 % de réduction
   coupon-active-1: &coupon-active-1
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 1 Freifahrtschein pro Jahr. Ruheständler: Nicht verfügbar"
-      en: "Active staff: 1 coupon per year. Retired staff: Not available"
-      fr: "Personnel actif : 1 coupon par an. Personnel retraité : Non disponible"
+      de: |
+        Aktive Mitarbeitende: 1 Freifahrtschein pro Jahr. \
+        Ruheständler: Nicht verfügbar
+      en: |
+        Active staff: 1 coupon per year. \
+        Retired staff: Not available
+      fr: |
+        Personnel actif : 1 coupon par an. \
+        Personnel retraité : Non disponible
   coupon-active-1-retired-1-safeguarded: &coupon-active-1-retired-1-safeguarded
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 1 Freifahrtschein pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-      en: "Active staff: 1 coupon per year. Retired staff (safeguarded only): 1 coupon per year"
-      fr: "Personnel actif : 1 coupon par an. Personnel retraité (sécurisés uniquement) : 1 coupon par an"
+      de: |
+        Aktive Mitarbeitende: 1 Freifahrtschein pro Jahr. \
+        Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr
+      en: |
+        Active staff: 1 coupon per year. \
+        Retired staff (safeguarded only): 1 coupon per year
+      fr: |
+        Personnel actif : 1 coupon par an. \
+        Personnel retraité (sécurisés uniquement) : 1 coupon par an
   coupon-active-2-retired-1-safeguarded: &coupon-active-2-retired-1-safeguarded
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr"
-      en: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 1 coupon per year"
-      fr: "Personnel actif : 2 coupons par an. Personnel retraité (sécurisés uniquement) : 1 coupon par an"
+      de: |
+        Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. \
+        Ruheständler (nur safeguarded): 1 Freifahrtschein pro Jahr
+      en: |
+        Active staff: 2 coupons per year. \
+        Retired staff (safeguarded only): 1 coupon per year
+      fr: |
+        Personnel actif : 2 coupons par an. \
+        Personnel retraité (sécurisés uniquement) : 1 coupon par an
   coupon-active-2-retired-not-available: &coupon-active-2-retired-not-available
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler: Nicht verfügbar"
-      en: "Active staff: 2 coupons per year. Retired staff: Not available"
-      fr: "Personnel actif : 2 coupons par an. Personnel retraité : Non disponible"
+      de: |
+        Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. \
+        Ruheständler: Nicht verfügbar
+      en: |
+        Active staff: 2 coupons per year. \
+        Retired staff: Not available
+      fr: |
+        Personnel actif : 2 coupons par an. \
+        Personnel retraité : Non disponible
   reduced-active-75-retired-50: &reduced-active-75-retired-50
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 75 % Rabatt. Ruheständler: 50 % Rabatt"
-      en: "Active staff: 75 % discount. Retired staff: 50 % discount"
-      fr: "Personnel actif : 75 % de réduction. Personnel retraité : 50 % de réduction"
+      de: |
+        Aktive Mitarbeitende: 75 % Rabatt. \
+        Ruheständler: 50 % Rabatt
+      en: |
+        Active staff: 75 % discount. \
+        Retired staff: 50 % discount
+      fr: |
+        Personnel actif : 75 % de réduction. \
+        Personnel retraité : 50 % de réduction
   coupon-active-2-retired-2-safeguarded: &coupon-active-2-retired-2-safeguarded
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. Ruheständler (nur safeguarded): 2 Freifahrtscheine pro Jahr"
-      en: "Active staff: 2 coupons per year. Retired staff (safeguarded only): 2 coupons per year"
-      fr: "Personnel actif : 2 coupons par an. Personnel retraité (sécurisés uniquement) : 2 coupons par an"
+      de: |
+        Aktive Mitarbeitende: 2 Freifahrtscheine pro Jahr. \
+        Ruheständler (nur safeguarded): 2 Freifahrtscheine pro Jahr
+      en: |
+        Active staff: 2 coupons per year. \
+        Retired staff (safeguarded only): 2 coupons per year
+      fr: |
+        Personnel actif : 2 coupons par an. \
+        Personnel retraité (sécurisés uniquement) : 2 coupons par an
 attica:
   fip-coupon: *coupon-not-available
   fip-coupon-relatives: *coupon-not-available

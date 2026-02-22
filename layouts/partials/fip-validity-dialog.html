@@ -37,9 +37,9 @@
         <td>
           {{ partial "link" (dict "Destination" (print "/operator/" .File.ContentBaseName) "Text" .Title "Page" $.page) }}
         </td>
-        <td class="o-fip-validity--{{ $status }}">
+        <td class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
           {{ partial "icon" $statusIcon }}
-          {{ $text }}
+          {{ $text | $.page.RenderString }}
         </td>
       </tr>
     {{- end -}}

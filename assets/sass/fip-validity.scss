@@ -12,4 +12,11 @@
   > .a-button {
     font-size: 1.7rem;
   }
+
+  &-dialog-value {
+    display: flex;
+    align-items: start;
+    gap: 1rem;
+    min-width: 150px;
+  }
 }
