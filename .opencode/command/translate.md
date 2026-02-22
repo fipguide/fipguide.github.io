@@ -3,7 +3,7 @@ description: Translate a page
 agent: build
 ---
 
-The following line provides user-provided input. If no arguments are passed, the line will be `ARGUMENTS:`. If arguments are passed, you'll see them after `ARGUMENTS:` 
+The following line provides user-provided input. If no arguments are passed, the line will be `ARGUMENTS:`. If arguments are passed, you'll see them after `ARGUMENTS:`
 ARGUMENTS: $ARGUMENTS
 
 If ARGUMENTS are passed:
