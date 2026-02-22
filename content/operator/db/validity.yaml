@@ -18,6 +18,12 @@ _anchors:
       de: "50 % Rabatt"
       en: "50 % discount"
       fr: "50 % de réduction"
+  coupon-crossing: &coupon-crossing
+    status: valid
+    text:
+      de: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
+      en: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
+      fr: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
 sncf:
   fip-coupon:
     status: valid
@@ -28,15 +34,8 @@ sncf:
   fip-coupon-relatives: *coupon-not-available
   fip-reduced-ticket: *reduced-50
 stl:
-  fip-coupon:
-    status: valid
-    text: &stl-coupon
-      de: "1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig."
-      en: "1 coupon with 2 fields each per year. Each field is valid for one crossing."
-      fr: "1 coupon avec 2 champs chacun par an. Chaque champ est valable pour une traversée."
-  fip-coupon-relatives:
-    status: valid
-    text: *stl-coupon
+  fip-coupon: *coupon-crossing
+  fip-coupon-relatives: *coupon-crossing
   fip-reduced-ticket: *reduced-50
 pkp:
   fip-coupon: *coupon-4fields
@@ -117,4 +116,80 @@ ltg:
 gb:
   fip-coupon: *coupon-4fields
   fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+cfr:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+cie:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+eil:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ht:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+hz:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ks:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+kw:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+lka:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+mav:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+nir:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sll:
+  fip-coupon: *coupon-crossing
+  fip-coupon-relatives: *coupon-crossing
+  fip-reduced-ticket: *reduced-50
+sv:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sz:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+vr:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+vy:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zfbh:
+  fip-coupon: *coupon-not-available
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zpcg:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zrs:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zrms:
+  fip-coupon: *coupon-4fields
+  fip-coupon-relatives: *coupon-4fields
   fip-reduced-ticket: *reduced-50
