@@ -1,0 +1,243 @@
+# This file shows the rules for FIP cards issued by SNCB.
+_anchors:
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
+  reduced-50: &reduced-50
+    status: valid
+    text:
+      de: "50 % FIP-Ermäßigung"
+      en: "50 % FIP discount"
+      fr: "50 % de réduction FIP"
+  reduced-75: &reduced-75
+    status: valid
+    text:
+      de: "75 % FIP-Ermäßigung"
+      en: "75 % FIP discount"
+      fr: "75 % de réduction FIP"
+  coupon-active1: &coupon-active1
+    status: valid
+    text:
+      de: "Aktive Mitarbeitende: 1 FIP Freifahrtschein pro Jahr."
+      en: "Active employees: 1 FIP Coupon per year."
+      fr: "Agents actifs : 1 Coupon FIP par an."
+  coupon-active1-retired1: &coupon-active1-retired1
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende: 1 FIP Freifahrtschein pro Jahr. \
+        Rentner: 1 FIP Freifahrtschein pro Jahr.
+      en: |
+        Active employees: 1 FIP Coupon per year. \
+        Retirees: 1 FIP Coupon per year.
+      fr: |
+        Agents actifs : 1 Coupon FIP par an. \
+        Retraités : 1 Coupon FIP par an.
+  coupon-active2-retired1: &coupon-active2-retired1
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende: 2 FIP Freifahrtscheine pro Jahr. \
+        Rentner: 1 FIP Freifahrtschein pro Jahr.
+      en: |
+        Active employees: 2 FIP Coupons per year. \
+        Retirees: 1 FIP Coupon per year.
+      fr: |
+        Agents actifs : 2 Coupons FIP par an. \
+        Retraités : 1 Coupon FIP par an.
+  coupon-sncf: &coupon-sncf
+    status: valid
+    text:
+      de: |
+        Aktive Mitarbeitende (Réseau Nord): 8 FIP Freifahrtscheine pro Jahr. \
+        Aktive Mitarbeitende (Réseau entier): 4 FIP Freifahrtscheine pro Jahr.
+      en: |
+        Active employees (Réseau Nord): 8 FIP Coupons per year. \
+        Active employees (Réseau entier): 4 FIP Coupons per year.
+      fr: |
+        Agents actifs (Réseau Nord) : 8 Coupons FIP par an. \
+        Agents actifs (Réseau entier) : 4 Coupons FIP par an.
+  relatives-active1: &relatives-active1
+    status: valid
+    text:
+      de: "Angehörige aktiver Mitarbeitender: 1 FIP Freifahrtschein pro Jahr."
+      en: "Family of active employees: 1 FIP Coupon per year."
+      fr: "Ayants droit des agents actifs : 1 Coupon FIP par an."
+  relatives-active1-retired1: &relatives-active1-retired1
+    status: valid
+    text:
+      de: |
+        Angehörige aktiver Mitarbeitender: 1 FIP Freifahrtschein pro Jahr. \
+        Angehörige von Rentnern: 1 FIP Freifahrtschein pro Jahr.
+      en: |
+        Family of active employees: 1 FIP Coupon per year. \
+        Family of retirees: 1 FIP Coupon per year.
+      fr: |
+        Ayants droit des agents actifs : 1 Coupon FIP par an. \
+        Ayants droit des retraités : 1 Coupon FIP par an.
+  relatives-active2-retired1: &relatives-active2-retired1
+    status: valid
+    text:
+      de: |
+        Angehörige aktiver Mitarbeitender: 2 FIP Freifahrtscheine pro Jahr. \
+        Angehörige von Rentnern: 1 FIP Freifahrtschein pro Jahr.
+      en: |
+        Family of active employees: 2 FIP Coupons per year. \
+        Family of retirees: 1 FIP Coupon per year.
+      fr: |
+        Ayants droit des agents actifs : 2 Coupons FIP par an. \
+        Ayants droit des retraités : 1 Coupon FIP par an.
+  relatives-sncf: &relatives-sncf
+    status: valid
+    text:
+      de: |
+        Angehörige aktiver Mitarbeitender (Réseau Nord): 4 FIP Freifahrtscheine pro Jahr. \
+        Angehörige aktiver Mitarbeitender (Réseau entier): 2 FIP Freifahrtscheine pro Jahr. \
+        Angehörige von Rentnern (Kind): 1 FIP Freifahrtschein pro Jahr.
+      en: |
+        Family of active employees (Réseau Nord): 4 FIP Coupons per year. \
+        Family of active employees (Réseau entier): 2 FIP Coupons per year. \
+        Family of retirees (child): 1 FIP Coupon per year.
+      fr: |
+        Ayants droit des agents actifs (Réseau Nord) : 4 Coupons FIP par an. \
+        Ayants droit des agents actifs (Réseau entier) : 2 Coupons FIP par an. \
+        Ayants droit des retraités (enfant) : 1 Coupon FIP par an.
+bdz:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+bls:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+cd:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+cfr:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+cie:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+cp:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+db:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *relatives-active1
+  fip-reduced-ticket: *reduced-50
+dsb:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+euskotren:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+fs:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+gb:
+  fip-coupon: *coupon-active2-retired1
+  fip-coupon-relatives: *relatives-active2-retired1
+  fip-reduced-ticket: *reduced-75
+gysev:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ht:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+hz:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+kd:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ks:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+kw:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+lka:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+ltg:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+mav:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *relatives-active1
+  fip-reduced-ticket: *reduced-50
+nir:
+  fip-coupon: *coupon-active2-retired1
+  fip-coupon-relatives: *relatives-active2-retired1
+  fip-reduced-ticket: *reduced-75
+oebb:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1
+  fip-reduced-ticket: *reduced-50
+pkp:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *relatives-active1
+  fip-reduced-ticket: *reduced-50
+renfe:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+sncf:
+  fip-coupon: *coupon-sncf
+  fip-coupon-relatives: *relatives-sncf
+  fip-reduced-ticket: *reduced-50
+sv:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+sz:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+sbb:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+sp:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+vy:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zpcg:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+zrms:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
+zrs:
+  fip-coupon: *coupon-active1
+  fip-coupon-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50
+zssk:
+  fip-coupon: *coupon-active1-retired1
+  fip-coupon-relatives: *relatives-active1-retired1
+  fip-reduced-ticket: *reduced-50
