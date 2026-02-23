@@ -16,7 +16,7 @@ aliases:
 
 \* Une commission de 7,50 € par personne (maximum 22,50 € par réservation) s'ajoute à la réservation. Cette commission ne s'applique pas aux employé·e·s de la NS. Il n'est pas connu si les employé·e·s d'autres entreprises ferroviaires en sont également exempté·e·s.
 
-Les Billets FIP et les réservations internationales ne peuvent être achetés que dans les gares avec guichet complet (« light »). En date de février 2026, ces gares sont :
+Les Billets FIP et les réservations internationales ne peuvent être achetés que dans les gares avec guichet NS International. En date de février 2026, ces gares sont :
 
 <!-- prettier-ignore -->
 - Amsterdam (entrée ouest du hall principal - Taxis)
@@ -31,7 +31,7 @@ Les Billets FIP et les réservations internationales ne peuvent être achetés q
 
 ## Billets FIP 50
 
-Les Billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »).
+Les Billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets NS International.
 
 {{% /booking-section %}}
 
@@ -39,5 +39,5 @@ Les Billets FIP 50 peuvent uniquement être achetés dans les gares disposant de
 
 ## Réservations
 
-Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des réservations internationales dans les gares avec guichet complet (« light »).
+Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des réservations internationales dans les gares avec guichet NS International.
 {{% /booking-section %}}

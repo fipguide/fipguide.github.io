@@ -16,7 +16,7 @@ aliases:
 
 \* Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
 
-FIP Tickets und internationale Reservierungen können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Februar 2026 sind dies:
+FIP Tickets und internationale Reservierungen können nur an NS International Fahrkartenschaltern erworben werden. Stand Februar 2026 sind dies:
 
 <!-- prettier-ignore -->
 - Amsterdam (Westlicher Eingang der Haupthalle - Taxis)
@@ -31,7 +31,7 @@ FIP Tickets und internationale Reservierungen können nur an Full-Service (Light
 
 ## FIP 50 Fahrkarten
 
-FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden.
+FIP 50 Tickets können nur an NS International Fahrkartenschaltern erworben werden.
 
 {{% /booking-section %}}
 
@@ -39,5 +39,5 @@ FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenscha
 
 ## Reservierungen
 
-Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind verkauft die NS nur internationale Reservierungen an Full-Service (Light) Bahnhöfen.
+Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind, verkauft die NS nur internationale Reservierungen an NS International Fahrkartenschaltern.
 {{% /booking-section %}}

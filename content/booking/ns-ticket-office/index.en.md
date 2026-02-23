@@ -16,7 +16,7 @@ aliases:
 
 \* A fee of € 7.50 per person (maximum € 22.50 per booking) applies to bookings. NS employees are exempt from this fee. Whether employees of other railway companies are also exempt from the fee is unknown.
 
-FIP Tickets and international reservations can only be purchased at full-service (light) stations with ticket counters. As of February 2026, these are:
+FIP Tickets and international reservations can only be purchased at NS International ticket counters. As of February 2026, these are:
 
 <!-- prettier-ignore -->
 - Amsterdam (Western entrance of the main hall - Taxis)
@@ -31,7 +31,7 @@ FIP Tickets and international reservations can only be purchased at full-service
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets can only be purchased at full-service (light) stations with ticket counters.
+FIP 50 Tickets can only be purchased at NS International ticket counters.
 
 {{% /booking-section %}}
 
@@ -39,5 +39,5 @@ FIP 50 Tickets can only be purchased at full-service (light) stations with ticke
 
 ## Reservations
 
-Since reservations for trains cannot be purchased within the Netherlands, NS only sells international reservations at full-service (light) stations.
+Since reservations for trains cannot be purchased within the Netherlands, NS only sells international reservations at NS International ticket counters.
 {{% /booking-section %}}
