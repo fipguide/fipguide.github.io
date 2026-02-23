@@ -9,6 +9,21 @@ function openDialog(dialogId) {
   dialog.showModal();
 }
 
+function openDialogOnHash() {
+  const hash = window.location.hash;
+  if (!hash) return;
+
+  const targetId = decodeURIComponent(hash.substring(1));
+  const targetElement = document.getElementById(targetId);
+
+  if (targetElement) {
+    const dialog = targetElement.closest("dialog");
+    if (dialog && !dialog.open) {
+      dialog.showModal();
+    }
+  }
+}
+
 function initDialogs() {
   document.querySelectorAll("dialog").forEach((dialog) => {
     dialog.addEventListener("click", (e) => {
@@ -35,6 +50,10 @@ function initDialogs() {
     trigger.addEventListener("click", handler);
     trigger.addEventListener("keydown", handler);
   });
+
+  // Initialize hash check
+  openDialogOnHash();
+  window.addEventListener("hashchange", openDialogOnHash);
 }
 
 if (document.readyState === "loading") {
