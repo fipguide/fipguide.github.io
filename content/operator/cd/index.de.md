@@ -28,13 +28,13 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. B
 {{< float-image
 src="cd-fip-map-26.webp"
 alt="FIP Gültigkeitskarte für Tschechien"
-caption="FIP Gültigkeitskarte für Tschechien (Petr Duda)"
+caption="[FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-26.webp) für Tschechien (Petr Duda)"
 width="30%"
 position="left" >}}
 
 Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Verbindungen von der ČD betrieben werden. Teilweise sind Strecken auch zuschlagspflichtig.
 
-Als Orientierungshilfe kann die [FIP Gültigkeitskarte für Tschechien](https://raw.githubusercontent.com/fipguide/fipguide.github.io/refs/heads/main/content/operator/cd/cd-fip-map-26.webp) genutzt werden.
+Als Orientierungshilfe kann die [FIP Gültigkeitskarte für Tschechien](/en/operator/cd/cd-fip-map-26.webp) genutzt werden.
 
 Weitere Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip) und [ČD kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig)
 
@@ -249,7 +249,7 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC` und `IC`. (Und `R` Züge, die mit "NATO Days" gekennzeichnet sind). [^3]
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC`, `IC` und `R` Züge. [^3]
 
 Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
 
@@ -332,97 +332,97 @@ Detailliert betroffen sind folgende Verbindungen:
 | R 646 | Dny NATO | Mošnov, Ostr.Airport | Brno hl.n. |
 | R 647 | Dny NATO | Brno hl.n. | Mošnov, Ostr.Airport |
 
-IC 546 \*: Kommerzieller Zugverkehr an Sonntagen und am 27.12., 4.4., 2.5., 9.5.; ausgenommen 24.12., 3.4., 1.5, 8.5., 28.10., 17.11.
+IC 546 \*: Kommerzieller Zugverkehr an Sonntagen und am 27.12., 4.4., 2.5., 9.5.; ausgenommen 24.12., 3.4., 1.5, 8.5., 28.10., 17.11. \
 IC 547 \*\*: Kommerzieller Zugverkehr an Samstagen und am 24. – 26., 31.12., 3. – 5.4., 1., 8.5., 5.7., 27.9.
 
 **Andere Fernverkehrslinien - R17, Ex7, R31**
 
-| Zugnummer | Zugname | Von                   | Nach                  |
-| --------- | ------- | --------------------- | --------------------- |
-| EC 330    | Ex7     | Horní Dvořiště st.hr. | Praha hl.n.           |
-| EC 331    | Ex7     | Praha hl.n.           | Horní Dvořiště st.hr. |
-| EC 332    | Ex7     | Horní Dvořiště st.hr. | Praha hl.n.           |
-| EC 333    | Ex7     | Praha hl.n.           | Horní Dvořiště st.hr. |
-| EC 334    | Ex7     | Horní Dvořiště st.hr. | Praha hl.n.           |
-| EC 335    | Ex7     | Praha hl.n.           | Horní Dvořiště st.hr. |
-| EC 336    | Ex7     | Horní Dvořiště st.hr. | Praha hl.n.           |
-| EC 337    | Ex7     | Praha hl.n.           | Horní Dvořiště st.hr. |
-| IC 500    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 501    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 528    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 529    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 530    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 531    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 532    | Ex7     | Český Krumlov         | Praha hl.n.           |
-| IC 533    | Ex7     | Praha hl.n.           | Český Krumlov         |
-| IC 534    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 535    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 536    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 537    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 538    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 539    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 540    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| IC 541    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 543    | Ex7     | Praha hl.n.           | Č. Budějovice         |
-| IC 544    | Ex7     | Č. Budějovice         | Praha hl.n.           |
-| R 320     | R17     | České Velenice        | Praha hl.n.           |
-| R 321     | R17     | Praha hl.n.           | České Velenice        |
-| R 322     | R17     | České Velenice        | Praha hl.n.           |
-| R 323     | R17     | Praha hl.n.           | České Velenice        |
-| R 324     | R17     | České Velenice        | Praha hl.n.           |
-| R 326     | R17     | České Velenice        | Praha hl.n.           |
-| R 700     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 701     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 702     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 703     | R17     | Tábor                 | Č. Budějovice         |
-| R 704     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 705     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 706     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 708     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 709     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 710     | R17     | České Velenice        | Praha hl.n.           |
-| R 711     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 712     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 713     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 714     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 715     | R17     | Praha hl.n.           | České Velenice        |
-| R 716     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 717     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 719     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 720     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 721     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 722     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 723     | R17     | Praha hl.n.           | České Velenice        |
-| R 724     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 725     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 726     | R17     | České Velenice        | Praha hl.n.           |
-| R 728     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 729     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 730     | R17     | České Velenice        | Praha hl.n.           |
-| R 731     | R17     | Praha hl.n.           | Tábor                 |
-| R 732     | R17     | Č. Budějovice         | Praha hl.n.           |
-| R 733     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 734     | R17     | Tábor                 | Praha hl.n.           |
-| R 735     | R17     | Praha hl.n.           | Č. Budějovice         |
-| R 737     | R17     | Praha hl.n.           | Tábor                 |
-| R 624     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 625     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 626     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 627     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 628     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 629     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 630     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 631     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 632     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 633     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 634     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 635     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 636     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 637     | R31     | Plzeň hl.n.           | Č. Budějovice         |
-| R 638     | R31     | Č. Budějovice         | Plzeň hl.n.           |
-| R 639     | R31     | Plzeň hl.n.           | Č. Budějovice         |
+| Zugnummer | Linie | Von                   | Nach                  |
+| --------- | ----- | --------------------- | --------------------- |
+| EC 330    | Ex7   | Horní Dvořiště st.hr. | Praha hl.n.           |
+| EC 331    | Ex7   | Praha hl.n.           | Horní Dvořiště st.hr. |
+| EC 332    | Ex7   | Horní Dvořiště st.hr. | Praha hl.n.           |
+| EC 333    | Ex7   | Praha hl.n.           | Horní Dvořiště st.hr. |
+| EC 334    | Ex7   | Horní Dvořiště st.hr. | Praha hl.n.           |
+| EC 335    | Ex7   | Praha hl.n.           | Horní Dvořiště st.hr. |
+| EC 336    | Ex7   | Horní Dvořiště st.hr. | Praha hl.n.           |
+| EC 337    | Ex7   | Praha hl.n.           | Horní Dvořiště st.hr. |
+| IC 500    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 501    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 528    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 529    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 530    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 531    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 532    | Ex7   | Český Krumlov         | Praha hl.n.           |
+| IC 533    | Ex7   | Praha hl.n.           | Český Krumlov         |
+| IC 534    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 535    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 536    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 537    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 538    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 539    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 540    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| IC 541    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 543    | Ex7   | Praha hl.n.           | Č. Budějovice         |
+| IC 544    | Ex7   | Č. Budějovice         | Praha hl.n.           |
+| R 320     | R17   | České Velenice        | Praha hl.n.           |
+| R 321     | R17   | Praha hl.n.           | České Velenice        |
+| R 322     | R17   | České Velenice        | Praha hl.n.           |
+| R 323     | R17   | Praha hl.n.           | České Velenice        |
+| R 324     | R17   | České Velenice        | Praha hl.n.           |
+| R 326     | R17   | České Velenice        | Praha hl.n.           |
+| R 700     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 701     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 702     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 703     | R17   | Tábor                 | Č. Budějovice         |
+| R 704     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 705     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 706     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 708     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 709     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 710     | R17   | České Velenice        | Praha hl.n.           |
+| R 711     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 712     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 713     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 714     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 715     | R17   | Praha hl.n.           | České Velenice        |
+| R 716     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 717     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 719     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 720     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 721     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 722     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 723     | R17   | Praha hl.n.           | České Velenice        |
+| R 724     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 725     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 726     | R17   | České Velenice        | Praha hl.n.           |
+| R 728     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 729     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 730     | R17   | České Velenice        | Praha hl.n.           |
+| R 731     | R17   | Praha hl.n.           | Tábor                 |
+| R 732     | R17   | Č. Budějovice         | Praha hl.n.           |
+| R 733     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 734     | R17   | Tábor                 | Praha hl.n.           |
+| R 735     | R17   | Praha hl.n.           | Č. Budějovice         |
+| R 737     | R17   | Praha hl.n.           | Tábor                 |
+| R 624     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 625     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 626     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 627     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 628     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 629     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 630     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 631     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 632     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 633     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 634     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 635     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 636     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 637     | R31   | Plzeň hl.n.           | Č. Budějovice         |
+| R 638     | R31   | Č. Budějovice         | Plzeň hl.n.           |
+| R 639     | R31   | Plzeň hl.n.           | Č. Budějovice         |
 
-Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 13)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
+Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 13)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=13)
 {{% /dialog %}}
 
 **Regionalzüge (Sp, Os):**
@@ -443,12 +443,12 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
 | P1 West | Karlovarský (Karlsbad) | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`) |
 | S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur an Werktagen), 3101, 3103, 3104 (nur an Wochenenden), 3105 (nur an Werktagen), 3106, 3107, 3108, 3109, 3110, 3111, 3112, 3113, 3114, 3115, 3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, 3128, 3129, 3130, 3131, 3132, 3133 (nur an Wochenenden), 3134, 3135, 3136 (nur an Werktagen), 3137 (nur an Wochenenden), 3138, 3140 (nur an Sonntagen), 3141, 3142 (nur an Wochenenden), 3150, 3152, 3153, 3154, 3155, 3156, 3157, 3158, 3159, 3160, 3161, 3163, 3164, 3165, 3168 |
 
-Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
+Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=17)
 
 Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazeleznic.cz/documents/50004227/184412001/mapa+KJ%C5%98.pdf/842ee5f5-0d77-4f0b-b601-927d63aab022) zu finden.
 {{% /dialog %}}
 
-Zuschlagspflichtige Grenzübergänge:
+**Zuschlagspflichtige Grenzübergänge (Os):**
 
 - Vojtanov – Vojtanov Gr.
 - Znojmo – Unterretzbach Gr.
@@ -463,17 +463,15 @@ Zuschlagspflichtige Grenzübergänge:
     title="ČD kommerzielle Verbindungen 2026 - Grenzübergänge"
 %}}
 
-| Linie | Strecke  | Streckenabschnitt und Züge                                                          |
-| ----- | -------- | ----------------------------------------------------------------------------------- |
-| S3    | 250, 251 | Křižanov – Brno hl. n. – Hustopeče u Brna; Hrušovany u Brna – Židlochovice: in `Os` |
-| R13   | 251, 252 | Brno hl. n. – Šakvice – Břeclav: in `Sp` 818, 834–836, 1787–1788, 14671–14674       |
-| S51   | 252      | Šakvice – Břeclav: in `Os`                                                          |
-| S2    | 260      | Letovice – Brno hl. n. – Holubice: in `Sp` und `Os`                                 |
-| S2    | 300      | Holubice – Vyškov na Moravě: in `Os` 4000, 4037, 4060, 4702, 4755                   |
-| R13   | 330      | Břeclav – Hodonín: in `Sp` 818, 834–836, 1789                                       |
-| S9    | 330      | Břeclav – Hodonín: in `Os` 4250–4252, 4255–4264, 4669                               |
+| Typ | Zugnummer(n)           | Streckenabschnitt                                  |
+| --- | ---------------------- | -------------------------------------------------- |
+| Os  | 20980–20990            | im Abschnitt Vojtanov – Vojtanov Gr. und zurück    |
+| Os  | 2206–2291              | im Abschnitt Znojmo – Unterretzbach Gr. und zurück |
+| Os  | 2960–2969              | im Abschnitt Bohumín – Bohumín Gr. und zurück      |
+| Os  | 2300–2379; 22300–22379 | im Abschnitt Břeclav – Břeclav Gr. und zurück      |
+| Os  | 320–326; 2102–2192     | im Abschnitt České Velenice – Gmünd Gr. und zurück |
 
-Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 16)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
+Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 15)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
 
 Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazeleznic.cz/documents/50004227/184412001/mapa+KJ%C5%98.pdf/842ee5f5-0d77-4f0b-b601-927d63aab022) zu finden.
 {{% /dialog %}}
@@ -528,7 +526,7 @@ FIP Vergünstigungen sind in Regionalzügen in Süd-Mähren (Brno) nicht gültig
 
 FIP Vergünstigungen gelten nur im angegebenen Abschnitt nicht.
 
-Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
+Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=17)
 
 Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazeleznic.cz/documents/50004227/184412001/mapa+KJ%C5%98.pdf/842ee5f5-0d77-4f0b-b601-927d63aab022) zu finden.
 {{% /dialog %}}
@@ -633,7 +631,7 @@ FIP Vergünstigungen sind in Regionalzügen der Linien P1 West und P2 im Raum Pi
 
 FIP Vergünstigungen gelten nur im angegebenen Abschnitt nicht.
 
-Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 18)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
+Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 18)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=18)
 
 {{% /dialog %}}
 
