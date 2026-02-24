@@ -39,7 +39,7 @@ Die ŁKA unterscheidet in zwei Zugkategorien:
     reservation_possible=true
 %}}
 
-Regionalzüge, die zwischen Łódz und Warschau verkehren und dabei unterwegs nur an wenigen Bahnhöfen halten. Teilweise halten die Züge nur an den wichtigsten Bahnhöfen der beiden Städte und dazwischen gar nicht mehr. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁS` und im Anschluss eine konkrete Zugnummer
+Regionalzüge, die zwischen Łódz und Warschau verkehren und dabei unterwegs nur an wenigen Bahnhöfen halten. Teilweise halten die Züge nur an den wichtigsten Bahnhöfen der beiden Städte und dazwischen gar nicht mehr. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁS` und im Anschluss eine konkrete Zugnummer.
 
 #### Reservierung
 
