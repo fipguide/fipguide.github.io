@@ -20,7 +20,6 @@ LTG-Link publishes an [overview of the route network](https://ltglink.lt/en/rout
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}

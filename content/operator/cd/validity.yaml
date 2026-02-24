@@ -6,22 +6,7 @@ _anchors:
       de: "Nicht verfügbar"
       en: "Not available"
       fr: "Non disponible"
-  coupon-i1-iii1: &coupon-i1-iii1
-    status: valid
-    text:
-      de: |
-        Aktive Mitarbeitende: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Rentner: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Active employees: 1 coupon with 4 fields per year. \
-        Retirees: 1 coupon with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Employés actifs : 1 coupon avec 4 champs par an. \
-        Retraités : 1 coupon avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  coupon-i1: &coupon-i1
+  coupon-1: &coupon-1
     status: valid
     text:
       de: |
@@ -33,52 +18,19 @@ _anchors:
       fr: |
         1 coupon avec 4 champs par an. \
         Chaque champ est valable deux jours.
-  coupon-i2-iii1: &coupon-i2-iii1
+  coupon-2: &coupon-2
     status: valid
     text:
       de: |
-        Aktive Mitarbeitende: 2 Freifahrtscheine mit 4 Feldern pro Jahr. \
-        Rentner: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
+        2 Freifahrtscheine mit 4 Feldern pro Jahr. \
         Jedes Feld ist zwei Tage gültig.
       en: |
-        Active employees: 2 coupons with 4 fields per year. \
-        Retirees: 1 coupon with 4 fields per year. \
+        2 coupons with 4 fields per year. \
         Each field is valid for two days.
       fr: |
-        Employés actifs : 2 coupons avec 4 champs par an. \
-        Retraités : 1 coupon avec 4 champs par an. \
+        2 coupons avec 4 champs par an. \
         Chaque champ est valable deux jours.
-  coupon-i2-iii2: &coupon-i2-iii2
-    status: valid
-    text:
-      de: |
-        Aktive Mitarbeitende: 2 Freifahrtscheine mit 4 Feldern pro Jahr. \
-        Rentner: 2 Freifahrtscheine mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Active employees: 2 coupons with 4 fields per year. \
-        Retirees: 2 coupons with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Employés actifs : 2 coupons avec 4 champs par an. \
-        Retraités : 2 coupons avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  coupon-i3-iii1: &coupon-i3-iii1
-    status: valid
-    text:
-      de: |
-        Aktive Mitarbeitende: 3 Freifahrtscheine mit 4 Feldern pro Jahr. \
-        Rentner: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Active employees: 3 coupons with 4 fields per year. \
-        Retirees: 1 coupon with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Employés actifs : 3 coupons avec 4 champs par an. \
-        Retraités : 1 coupon avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  coupon-i3: &coupon-i3
+  coupon-3: &coupon-3
     status: valid
     text:
       de: |
@@ -90,22 +42,7 @@ _anchors:
       fr: |
         3 coupons avec 4 champs par an. \
         Chaque champ est valable deux jours.
-  coupon-crossing-i1-iii1: &coupon-crossing-i1-iii1
-    status: valid
-    text:
-      de: |
-        Aktive Mitarbeitende: 1 Freifahrtschein mit 2 Feldern pro Jahr. \
-        Rentner: 1 Freifahrtschein mit 2 Feldern pro Jahr. \
-        Jedes Feld ist für eine Überfahrt gültig.
-      en: |
-        Active employees: 1 coupon with 2 fields per year. \
-        Retirees: 1 coupon with 2 fields per year. \
-        Each field is valid for one crossing.
-      fr: |
-        Employés actifs : 1 coupon avec 2 champs par an. \
-        Retraités : 1 coupon avec 2 champs par an. \
-        Chaque champ est valable pour une traversée.
-  coupon-crossing-i1: &coupon-crossing-i1
+  coupon-crossing-1: &coupon-crossing-1
     status: valid
     text:
       de: |
@@ -117,228 +54,310 @@ _anchors:
       fr: |
         1 coupon avec 2 champs par an. \
         Chaque champ est valable pour une traversée.
-  relatives-ii1-iv1-v1: &relatives-ii1-iv1-v1
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Angehörige von Rentnern: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Witwen, Witwer und Waisen: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Family of active employees: 1 coupon with 4 fields per year. \
-        Family of retirees: 1 coupon with 4 fields per year. \
-        Widows, widowers and orphans: 1 coupon with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Ayants droit des employés actifs : 1 coupon avec 4 champs par an. \
-        Ayants droit des retraités : 1 coupon avec 4 champs par an. \
-        Veuves, veufs et orphelins : 1 coupon avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  relatives-ii1-iv1: &relatives-ii1-iv1
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Angehörige von Rentnern: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Family of active employees: 1 coupon with 4 fields per year. \
-        Family of retirees: 1 coupon with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Ayants droit des employés actifs : 1 coupon avec 4 champs par an. \
-        Ayants droit des retraités : 1 coupon avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  relatives-ii1: &relatives-ii1
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Family of active employees: 1 coupon with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Ayants droit des employés actifs : 1 coupon avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  relatives-ii2-iv2-v1: &relatives-ii2-iv2-v1
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 2 Freifahrtscheine mit 4 Feldern pro Jahr. \
-        Angehörige von Rentnern: 2 Freifahrtscheine mit 4 Feldern pro Jahr. \
-        Witwen, Witwer und Waisen: 1 Freifahrtschein mit 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
-      en: |
-        Family of active employees: 2 coupons with 4 fields per year. \
-        Family of retirees: 2 coupons with 4 fields per year. \
-        Widows, widowers and orphans: 1 coupon with 4 fields per year. \
-        Each field is valid for two days.
-      fr: |
-        Ayants droit des employés actifs : 2 coupons avec 4 champs par an. \
-        Ayants droit des retraités : 2 coupons avec 4 champs par an. \
-        Veuves, veufs et orphelins : 1 coupon avec 4 champs par an. \
-        Chaque champ est valable deux jours.
-  relatives-crossing-ii1-iv1: &relatives-crossing-ii1-iv1
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 1 Freifahrtschein mit 2 Feldern pro Jahr. \
-        Angehörige von Rentnern: 1 Freifahrtschein mit 2 Feldern pro Jahr. \
-        Jedes Feld ist für eine Überfahrt gültig.
-      en: |
-        Family of active employees: 1 coupon with 2 fields per year. \
-        Family of retirees: 1 coupon with 2 fields per year. \
-        Each field is valid for one crossing.
-      fr: |
-        Ayants droit des employés actifs : 1 coupon avec 2 champs par an. \
-        Ayants droit des retraités : 1 coupon avec 2 champs par an. \
-        Chaque champ est valable pour une traversée.
-  relatives-crossing-ii1: &relatives-crossing-ii1
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 1 Freifahrtschein mit 2 Feldern pro Jahr. \
-        Jedes Feld ist für eine Überfahrt gültig.
-      en: |
-        Family of active employees: 1 coupon with 2 fields per year. \
-        Each field is valid for one crossing.
-      fr: |
-        Ayants droit des employés actifs : 1 coupon avec 2 champs par an. \
-        Chaque champ est valable pour une traversée.
   coupon-zssk: &coupon-zssk
     status: valid
     text:
       de: Nur gültig mit einer „In Karta" in der ŽP-App.
       en: Only valid with an "In Karta" in the ŽP app.
-      fr: "Valable uniquement avec une \xABIn Karta\xBB dans l\u2019application \u017dP."
+      fr: "Valable uniquement avec une «In Karta» dans l'application ŽP."
 attica:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 bdz:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 bls:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 bsb:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 cfr:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 cfl:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 cie:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 cp:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 db:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 dsb:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 eil:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 euskotren:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 fs:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 gb:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 gysev:
-  fip-coupon: *coupon-i2-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 ht:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 hz:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 kd:
-  fip-coupon: *coupon-i2-iii1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-not-available
+    retired: *coupon-1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 ks:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 kw:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 lka:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 mav:
-  fip-coupon: *coupon-i3-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-3
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 nir:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 ns:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-not-available
 oebb:
-  fip-coupon: *coupon-i3-iii1
-  fip-coupon-relatives: *relatives-ii1
+  fip-coupon:
+    active: *coupon-3
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 pkp:
-  fip-coupon: *coupon-i2-iii2
-  fip-coupon-relatives: *relatives-ii2-iv2-v1
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-2
+    retired: *coupon-2
+    retired-relatives: *coupon-2
+    widows: *coupon-1
 renfe:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 sbb:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 sll:
-  fip-coupon: *coupon-crossing-i1-iii1
-  fip-coupon-relatives: *relatives-crossing-ii1-iv1
+  fip-coupon:
+    active: *coupon-crossing-1
+    active-relatives: *coupon-crossing-1
+    retired: *coupon-crossing-1
+    retired-relatives: *coupon-crossing-1
+    widows: *coupon-crossing-1
 sncb:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 sncf:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 sp:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 stl:
-  fip-coupon: *coupon-crossing-i1
-  fip-coupon-relatives: *relatives-crossing-ii1
+  fip-coupon:
+    active: *coupon-crossing-1
+    active-relatives: *coupon-crossing-1
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 sv:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 sz:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 thi:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 vy:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 vr:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 zfbh:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 zpcg:
-  fip-coupon: *coupon-i1-iii1
-  fip-coupon-relatives: *relatives-ii1-iv1-v1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+    widows: *coupon-1
 zrms:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *relatives-ii1
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 zrs:
-  fip-coupon: *coupon-i1
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 zssk:
-  fip-coupon: *coupon-zssk
-  fip-coupon-relatives: *coupon-zssk
+  fip-coupon:
+    active: *coupon-zssk
+    active-relatives: *coupon-zssk
+    retired: *coupon-zssk
+    retired-relatives: *coupon-zssk
+    widows: *coupon-zssk

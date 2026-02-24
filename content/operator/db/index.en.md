@@ -17,7 +17,6 @@ Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.

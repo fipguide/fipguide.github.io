@@ -46,15 +46,32 @@ discord: FIP Guide Community
 donation: Spenden
 editPage: Seite bearbeiten
 fipValidity:
+  active: Aktive Mitarbeitende
+  active-relatives: Angehörige aktiver Mitarbeitender
   additional: Sonstige
   buttonLabel: Mehr Informationen zur FIP Gültigkeit
   fip-coupon: FIP Freifahrtschein
-  fip-coupon-relatives: FIP Freifahrtschein für Angehörige
+  fip-coupon-description: >-
+    Um herauszufinden, unter welchen Konditionen Freifahrtscheine ausgegeben
+    werden, suche zunächst die Spalte für die passende Personengruppe und dann
+    die Zeile mit dem Betreiber, der einen FIP Ausweis ausgestellt hat. Wenn du
+    berechtigt bist, dann kannst du die Freifahrtscheine über deinen Arbeitgeber
+    beantragen. Bitte beachte, dass wir bei der Ausgabe der Freifahrtscheine
+    nicht weiterhelfen können.
   fip-global-fare: FIP Globalpreis
-  fip-reduced-ticket: FIP Ermäßigtes Ticket
+  fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP50 / FIP75)
+  fip-reduced-ticket-description: >-
+    Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als
+    FIP50 oder FIP75 bekannt. Der Rabatt beläuft sich meistens auf 50%,
+    teilweise auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, suche
+    zunächst die Spalte für die passende Personengruppe und dann die Zeile mit
+    dem Betreiber, der einen FIP Ausweis ausgestellt hat.
   issuer: Aussteller des FIP Ausweises
+  retired: Rentner
+  retired-relatives: Angehörige von Rentnern
   rules: Regeln
   unknown: Unbekannt
+  widows: Witwen, Witwer und Waisen
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe

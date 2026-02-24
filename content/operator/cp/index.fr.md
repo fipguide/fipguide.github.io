@@ -16,7 +16,6 @@ La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise e
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="uniquement pour le train Celta" >}}
 

@@ -35,14 +35,13 @@ operator: "{{ .File.ContentBaseName }}"
 
 <!--
   Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
-  - `type` : fip-coupon, fip-coupon-relatives, fip-reduced-ticket, fip-global-fare, additional
+  - `type` : fip-coupon, fip-reduced-ticket, fip-global-fare, additional
   - `status` : valid, invalid, unknown
   - `text` : Texte personnalisé optionnel à afficher
   - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
 -->
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 {{< fip-validity type="fip-global-fare" status="valid" >}}
 

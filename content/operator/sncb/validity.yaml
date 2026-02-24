@@ -12,232 +12,299 @@ _anchors:
       de: "50 % FIP-Ermäßigung"
       en: "50 % FIP discount"
       fr: "50 % de réduction FIP"
+  reduced-50-group: &reduced-50-group
+    active: *reduced-50
+    active-relatives: *reduced-50
+    retired: *reduced-50
+    retired-relatives: *reduced-50
   reduced-75: &reduced-75
     status: valid
     text:
       de: "75 % FIP-Ermäßigung"
       en: "75 % FIP discount"
       fr: "75 % de réduction FIP"
-  coupon-active1: &coupon-active1
+  reduced-75-group: &reduced-75-group
+    active: *reduced-75
+    active-relatives: *reduced-75
+    retired: *reduced-75
+    retired-relatives: *reduced-75
+  coupon-1: &coupon-1
     status: valid
     text:
-      de: "Aktive Mitarbeitende: 1 FIP Freifahrtschein pro Jahr."
-      en: "Active employees: 1 FIP Coupon per year."
-      fr: "Agents actifs : 1 Coupon FIP par an."
-  coupon-active1-retired1: &coupon-active1-retired1
+      de: "1 FIP Freifahrtschein pro Jahr."
+      en: "1 FIP Coupon per year."
+      fr: "1 Coupon FIP par an."
+  coupon-2: &coupon-2
     status: valid
     text:
-      de: |
-        Aktive Mitarbeitende: 1 FIP Freifahrtschein pro Jahr. \
-        Rentner: 1 FIP Freifahrtschein pro Jahr.
-      en: |
-        Active employees: 1 FIP Coupon per year. \
-        Retirees: 1 FIP Coupon per year.
-      fr: |
-        Agents actifs : 1 Coupon FIP par an. \
-        Retraités : 1 Coupon FIP par an.
-  coupon-active2-retired1: &coupon-active2-retired1
-    status: valid
-    text:
-      de: |
-        Aktive Mitarbeitende: 2 FIP Freifahrtscheine pro Jahr. \
-        Rentner: 1 FIP Freifahrtschein pro Jahr.
-      en: |
-        Active employees: 2 FIP Coupons per year. \
-        Retirees: 1 FIP Coupon per year.
-      fr: |
-        Agents actifs : 2 Coupons FIP par an. \
-        Retraités : 1 Coupon FIP par an.
-  coupon-sncf: &coupon-sncf
+      de: "2 FIP Freifahrtscheine pro Jahr."
+      en: "2 FIP Coupons per year."
+      fr: "2 Coupons FIP par an."
+  coupon-sncf-nord: &coupon-sncf-nord
     status: valid
     text:
       de: |
-        Aktive Mitarbeitende (Réseau Nord): 8 FIP Freifahrtscheine pro Jahr. \
-        Aktive Mitarbeitende (Réseau entier): 4 FIP Freifahrtscheine pro Jahr.
+        Réseau Nord: 8 FIP Freifahrtscheine pro Jahr. \
+        Réseau entier: 4 FIP Freifahrtscheine pro Jahr.
       en: |
-        Active employees (Réseau Nord): 8 FIP Coupons per year. \
-        Active employees (Réseau entier): 4 FIP Coupons per year.
+        Réseau Nord: 8 FIP Coupons per year. \
+        Réseau entier: 4 FIP Coupons per year.
       fr: |
-        Agents actifs (Réseau Nord) : 8 Coupons FIP par an. \
-        Agents actifs (Réseau entier) : 4 Coupons FIP par an.
-  relatives-active1: &relatives-active1
-    status: valid
-    text:
-      de: "Angehörige aktiver Mitarbeitender: 1 FIP Freifahrtschein pro Jahr."
-      en: "Family of active employees: 1 FIP Coupon per year."
-      fr: "Ayants droit des agents actifs : 1 Coupon FIP par an."
-  relatives-active1-retired1: &relatives-active1-retired1
+        Réseau Nord : 8 Coupons FIP par an. \
+        Réseau entier : 4 Coupons FIP par an.
+  relatives-sncf-nord: &relatives-sncf-nord
     status: valid
     text:
       de: |
-        Angehörige aktiver Mitarbeitender: 1 FIP Freifahrtschein pro Jahr. \
-        Angehörige von Rentnern: 1 FIP Freifahrtschein pro Jahr.
+        Réseau Nord: 4 FIP Freifahrtscheine pro Jahr. \
+        Réseau entier: 2 FIP Freifahrtscheine pro Jahr.
       en: |
-        Family of active employees: 1 FIP Coupon per year. \
-        Family of retirees: 1 FIP Coupon per year.
+        Réseau Nord: 4 FIP Coupons per year. \
+        Réseau entier: 2 FIP Coupons per year.
       fr: |
-        Ayants droit des agents actifs : 1 Coupon FIP par an. \
-        Ayants droit des retraités : 1 Coupon FIP par an.
-  relatives-active2-retired1: &relatives-active2-retired1
+        Réseau Nord : 4 Coupons FIP par an. \
+        Réseau entier : 2 Coupons FIP par an.
+  relatives-sncf-retired: &relatives-sncf-retired
     status: valid
     text:
-      de: |
-        Angehörige aktiver Mitarbeitender: 2 FIP Freifahrtscheine pro Jahr. \
-        Angehörige von Rentnern: 1 FIP Freifahrtschein pro Jahr.
-      en: |
-        Family of active employees: 2 FIP Coupons per year. \
-        Family of retirees: 1 FIP Coupon per year.
-      fr: |
-        Ayants droit des agents actifs : 2 Coupons FIP par an. \
-        Ayants droit des retraités : 1 Coupon FIP par an.
-  relatives-sncf: &relatives-sncf
-    status: valid
-    text:
-      de: |
-        Angehörige aktiver Mitarbeitender (Réseau Nord): 4 FIP Freifahrtscheine pro Jahr. \
-        Angehörige aktiver Mitarbeitender (Réseau entier): 2 FIP Freifahrtscheine pro Jahr. \
-        Angehörige von Rentnern (Kind): 1 FIP Freifahrtschein pro Jahr.
-      en: |
-        Family of active employees (Réseau Nord): 4 FIP Coupons per year. \
-        Family of active employees (Réseau entier): 2 FIP Coupons per year. \
-        Family of retirees (child): 1 FIP Coupon per year.
-      fr: |
-        Ayants droit des agents actifs (Réseau Nord) : 4 Coupons FIP par an. \
-        Ayants droit des agents actifs (Réseau entier) : 2 Coupons FIP par an. \
-        Ayants droit des retraités (enfant) : 1 Coupon FIP par an.
+      de: "1 FIP Freifahrtschein pro Jahr (nur Kind)."
+      en: "1 FIP Coupon per year (child only)."
+      fr: "1 Coupon FIP par an (enfant uniquement)."
 bdz:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 bls:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 cd:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 cfr:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 cie:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 cp:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 db:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *relatives-active1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 dsb:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 euskotren:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 fs:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 gb:
-  fip-coupon: *coupon-active2-retired1
-  fip-coupon-relatives: *relatives-active2-retired1
-  fip-reduced-ticket: *reduced-75
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-2
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-75-group
 gysev:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 ht:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 hz:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 kd:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 ks:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 kw:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 lka:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 ltg:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 mav:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *relatives-active1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 nir:
-  fip-coupon: *coupon-active2-retired1
-  fip-coupon-relatives: *relatives-active2-retired1
-  fip-reduced-ticket: *reduced-75
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-2
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-75-group
 oebb:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 pkp:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *relatives-active1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 renfe:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 sncf:
-  fip-coupon: *coupon-sncf
-  fip-coupon-relatives: *relatives-sncf
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-sncf-nord
+    active-relatives: *relatives-sncf-nord
+    retired: *coupon-not-available
+    retired-relatives: *relatives-sncf-retired
+  fip-reduced-ticket: *reduced-50-group
 sv:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 sz:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 sbb:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 sp:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 vy:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 zpcg:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 zrms:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group
 zrs:
-  fip-coupon: *coupon-active1
-  fip-coupon-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 zssk:
-  fip-coupon: *coupon-active1-retired1
-  fip-coupon-relatives: *relatives-active1-retired1
-  fip-reduced-ticket: *reduced-50
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+  fip-reduced-ticket: *reduced-50-group

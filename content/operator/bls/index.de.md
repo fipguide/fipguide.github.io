@@ -18,7 +18,6 @@ Auf ihrer Website bietet die BLS eine [Übersichtskarte der Strecken](https://ww
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Zugkategorien und Reservierungen

@@ -24,7 +24,6 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`" disable_dialog=true >}}
 

@@ -67,122 +67,242 @@ _anchors:
         1 coupon avec 2 champs chacun par an. \
         Chaque champ est valable pour une traversée.
 db:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 sncb:
-  fip-coupon: *coupon-4fields-4
-  fip-coupon-relatives: *coupon-2fields
+  fip-coupon:
+    active: *coupon-4fields-4
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 ns:
-  fip-coupon: *coupon-4fields-4
-  fip-coupon-relatives: *coupon-4fields
+  fip-coupon:
+    active: *coupon-4fields-4
+    active-relatives: *coupon-4fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 cfl:
-  fip-coupon: *coupon-6fields
-  fip-coupon-relatives: *coupon-6fields
+  fip-coupon:
+    active: *coupon-6fields
+    active-relatives: *coupon-6fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 gb:
-  fip-coupon: *coupon-2fields
-  fip-coupon-relatives: *coupon-2fields
+  fip-coupon:
+    active: *coupon-2fields
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 stl:
-  fip-coupon: *coupon-crossing
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-crossing
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 pkp:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 oebb:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 gysev:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 cp:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 fs:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 bls:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 bdz:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 zssk:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 sp:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 sbb:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 renfe:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 kd:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 dsb:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 cd:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 bsb:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 ltg:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 zfbh:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 zrs:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 hz:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 ht:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 attica:
-  fip-coupon: *coupon-not-available
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 mav:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 cie:
-  fip-coupon: *coupon-2fields
-  fip-coupon-relatives: *coupon-2fields
+  fip-coupon:
+    active: *coupon-2fields
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 nir:
-  fip-coupon: *coupon-2fields
-  fip-coupon-relatives: *coupon-2fields
+  fip-coupon:
+    active: *coupon-2fields
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 sll:
-  fip-coupon: *coupon-crossing
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-crossing
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 zrms:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 zpcg:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 vy:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 ks:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 kw:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 lka:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 cfr:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 sv:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
 sz:
-  fip-coupon: *coupon-4fields
-  fip-coupon-relatives: *coupon-not-available
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available

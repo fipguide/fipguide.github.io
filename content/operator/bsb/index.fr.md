@@ -25,7 +25,6 @@ Les remises FIP sont valables auprès des opérateurs suivants :
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de trains et réservations

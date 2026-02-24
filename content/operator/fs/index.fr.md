@@ -17,7 +17,6 @@ Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italie
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}

@@ -16,7 +16,6 @@ Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigs
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="nur Celta Zug" disable_dialog=true >}}
 

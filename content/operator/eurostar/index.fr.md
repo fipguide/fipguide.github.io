@@ -20,7 +20,6 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-coupon-relatives" status="invalid" disable_dialog=true >}}
 {{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 

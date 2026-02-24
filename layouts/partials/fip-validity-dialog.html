@@ -1,15 +1,13 @@
-{{- $iconMapping := dict
-  "valid" "check_circle"
-  "invalid" "cancel"
-  "unknown" "help"
--}}
-
-
-<table>
+<p>{{ T (printf "fipValidity.%s-description" .type) }}</p>
+<table class="o-fip-validity__table">
   <thead>
     <tr>
       <th>{{ T "fipValidity.issuer" }}</th>
-      <th>{{ T "fipValidity.rules" }}</th>
+      <th>{{ T "fipValidity.active" }}</th>
+      <th>{{ T "fipValidity.active-relatives" }}</th>
+      <th>{{ T "fipValidity.retired" }}</th>
+      <th>{{ T "fipValidity.retired-relatives" }}</th>
+      <th>{{ T "fipValidity.widows" }}</th>
     </tr>
   </thead>
   <tbody>
@@ -20,27 +18,23 @@
         {{- continue -}}
       {{- end -}}
 
-      {{- $status := "unknown" -}}
-      {{- $text := T "fipValidity.unknown" -}}
+      {{- $entry := false -}}
 
       {{- with .Resources.Get "validity.yaml" -}}
         {{- $validity := . | transform.Unmarshal -}}
-        {{- $entry := index (index $validity $currentSlug) $.type -}}
-        {{- if $entry -}}
-          {{- $status = $entry.status -}}
-          {{- $text = index $entry.text $lang -}}
-        {{- end -}}
+        {{- $entry = index (index $validity $currentSlug) $.type -}}
       {{- end -}}
 
-      {{- $statusIcon := index $iconMapping $status -}}
+
       <tr>
         <td>
           {{ partial "link" (dict "Destination" (print "/operator/" .File.ContentBaseName) "Text" .Title "Page" $.page) }}
         </td>
-        <td class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
-          {{ partial "icon" $statusIcon }}
-          {{ $text | $.page.RenderString }}
-        </td>
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "active" "lang" $lang "page" $.page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "active-relatives" "lang" $lang "page" $.page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "retired" "lang" $lang "page" $.page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "retired-relatives" "lang" $lang "page" $.page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "widows" "lang" $lang "page" $.page) }}
       </tr>
     {{- end -}}
   </tbody>

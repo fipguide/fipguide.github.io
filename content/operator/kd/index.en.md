@@ -19,7 +19,6 @@ On their website, KD provides an [overview map of the routes](https://kolejedoln
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on KD.

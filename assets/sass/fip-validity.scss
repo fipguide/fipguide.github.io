@@ -15,8 +15,29 @@
 
   &-dialog-value {
     display: flex;
-    align-items: start;
-    gap: 1rem;
+    align-items: center;
+    gap: 0.4rem;
     min-width: 150px;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  &__table {
+    table-layout: fixed;
+    margin-left: 0;
+
+    @media (min-width: $breakpoint-lg) {
+      table-layout: fixed;
+      width: 100%;
+    }
+
+    > thead > tr > th,
+    > tbody > tr > td {
+      text-align: center;
+
+      &:first-child {
+        width: 150px;
+      }
+    }
   }
 }

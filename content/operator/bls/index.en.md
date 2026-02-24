@@ -18,7 +18,6 @@ The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Train Categories and Reservations

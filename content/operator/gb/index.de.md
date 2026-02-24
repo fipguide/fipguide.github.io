@@ -19,7 +19,6 @@ In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele ve
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-coupon-relatives" status="unknown" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen).
