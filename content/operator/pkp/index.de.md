@@ -169,7 +169,7 @@ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als 
     reservation_possible=false
 %}}
 
-Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden und eine höhere Preisklasse als normale Regios haben..
+Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden und eine höhere Preisklasse als normale Regios haben.
 
 {{% /train-category %}}
 
