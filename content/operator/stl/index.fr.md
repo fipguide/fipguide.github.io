@@ -9,7 +9,7 @@ operator: "stl"
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).
 
-Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom Stena Line Limited (SLL).
+Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom [Stena Line Limited (SLL)](/operator/sll).
 
 ## Résumé
 
