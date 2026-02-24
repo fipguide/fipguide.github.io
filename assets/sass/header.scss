@@ -102,6 +102,12 @@
   z-index: 14;
 }
 
-body:has(.overlay--show) {
+#header:has(.overlay--dialog),
+.overlay--dialog {
+  z-index: 10;
+}
+
+body:has(.overlay--show),
+body:has(dialog[open]) {
   overflow: hidden;
 }
