@@ -68,7 +68,7 @@ Train international entre Lelystad, Amsterdam et Bruxelles avec arrêts à Almer
 Pour les trajets aux Pays-Bas, des règles spéciales s'appliquent, voir [NS ECD](/operator/ns#ecd)
 {{% /highlight %}}
 
-![Réseau Eurocity (Direct)](eurocity-map.webp)
+![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
 {{% /train-category %}}
 
 {{% train-category

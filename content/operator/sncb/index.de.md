@@ -66,7 +66,7 @@ Internationaler Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere
 Für Fahrten innerhalb der Niederlande gelten besondere Regelungen, siehe [NS ECD](/operator/ns#ecd)
 {{< /highlight >}}
 
-![Eurocity (Direct) Netz](eurocity-map.webp)
+![Eurocity (Direct) Netz](eurocity-map.de.svg)
 
 {{% /train-category %}}
 
