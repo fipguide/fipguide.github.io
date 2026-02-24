@@ -83,7 +83,7 @@ Der Zuschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in 
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Eurocity (Direct) Netz](eurocity-map.webp)
+![Eurocity (Direct) Netz](eurocity-map.de.svg)
 
 {{% /train-category %}}
 
@@ -97,7 +97,7 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
 %}}
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
 
-![Eurocity (Direct) Netz](eurocity-map.webp)
+![Eurocity (Direct) Netz](eurocity-map.de.svg)
 {{% /train-category %}}
 
 {{% train-category

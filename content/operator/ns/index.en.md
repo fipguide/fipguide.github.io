@@ -83,7 +83,7 @@ The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supple
 Holders of an OV-chipkaart can buy a discounted supplement for 1.92 € (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Eurocity (Direct) Network](eurocity-map.webp)
+![Eurocity (Direct) Network](eurocity-map.en.svg)
 
 {{% /train-category %}}
 
@@ -97,7 +97,7 @@ Holders of an OV-chipkaart can buy a discounted supplement for 1.92 € (40 % di
 %}}
 International train between Rotterdam and Brussels with several intermediate stops.
 
-![Eurocity (Direct) Network](eurocity-map.webp)
+![Eurocity (Direct) Network](eurocity-map.en.svg)
 {{% /train-category %}}
 
 {{% train-category

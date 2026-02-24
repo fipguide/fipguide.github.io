@@ -83,7 +83,7 @@ Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-su
 Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Réseau Eurocity (Direct)](eurocity-map.webp)
+![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
 
 {{% /train-category %}}
 
@@ -97,7 +97,7 @@ Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif
 %}}
 Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires.
 
-![Réseau Eurocity (Direct)](eurocity-map.webp)
+![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
 {{% /train-category %}}
 
 {{% train-category
