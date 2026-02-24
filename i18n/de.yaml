@@ -54,7 +54,7 @@ fipValidity:
   fip-coupon-description: >-
     Um herauszufinden, unter welchen Konditionen Freifahrtscheine ausgegeben
     werden, suche zunächst die Spalte für die passende Personengruppe und dann
-    die Zeile mit dem Betreiber, der einen FIP Ausweis ausgestellt hat. Wenn du
+    die Zeile mit dem Betreiber, der deinen FIP Ausweis ausgestellt hat. Wenn du
     berechtigt bist, dann kannst du die Freifahrtscheine über deinen Arbeitgeber
     beantragen. Bitte beachte, dass wir bei der Ausgabe der Freifahrtscheine
     nicht weiterhelfen können.
@@ -65,11 +65,12 @@ fipValidity:
     FIP50 oder FIP75 bekannt. Der Rabatt beläuft sich meistens auf 50%,
     teilweise auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, suche
     zunächst die Spalte für die passende Personengruppe und dann die Zeile mit
-    dem Betreiber, der einen FIP Ausweis ausgestellt hat.
+    dem Betreiber, der deinen FIP Ausweis ausgestellt hat.
   issuer: Aussteller des FIP Ausweises
   retired: Rentner
   retired-relatives: Angehörige von Rentnern
   rules: Regeln
+  selectIssuer: 'FIP Ausweis Aussteller wählen:'
   unknown: Unbekannt
   widows: Witwen, Witwer und Waisen
 footer-love:

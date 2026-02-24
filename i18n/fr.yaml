@@ -70,6 +70,7 @@ fipValidity:
   retired: Retraités
   retired-relatives: Ayants droit des retraités
   rules: Règles
+  selectIssuer: 'Sélectionner l''émetteur de votre Carte FIP :'
   unknown: Inconnu
   widows: Veuves, veufs et orphelins
 footer-love:

@@ -1,0 +1,33 @@
+{{- $lang := .lang -}}
+{{- $page := .page -}}
+{{- $entries := .entries -}}
+{{- $firstColHeader := or .firstColHeader "operators.listTitle" -}}
+
+
+<table class="o-fip-validity__table">
+  <thead>
+    <tr>
+      <th>{{ T $firstColHeader }}</th>
+      <th>{{ T "fipValidity.active" }}</th>
+      <th>{{ T "fipValidity.active-relatives" }}</th>
+      <th>{{ T "fipValidity.retired" }}</th>
+      <th>{{ T "fipValidity.retired-relatives" }}</th>
+      <th>{{ T "fipValidity.widows" }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range $targetSlug, $entry := $entries -}}
+      {{- $targetPage := $page.Site.GetPage (printf "/operator/%s" $targetSlug) -}}
+      <tr>
+        <td>
+          {{ partial "link" (dict "Destination" (print "/operator/" $targetSlug) "Text" $targetPage.Title "Page" $page) }}
+        </td>
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "active" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "active-relatives" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "retired" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "retired-relatives" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "widows" "lang" $lang "page" $page) }}
+      </tr>
+    {{- end -}}
+  </tbody>
+</table>

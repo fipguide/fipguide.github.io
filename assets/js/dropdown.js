@@ -30,4 +30,14 @@ document.addEventListener("DOMContentLoaded", function () {
   registerEventListeners("language-switcher");
   registerEventListeners("navbar-country-selection");
   registerEventListeners("navbar-operator-selection");
+  if (document.querySelector("#fip-validity-issuer-button")) {
+    registerEventListeners("fip-validity-issuer");
+  }
 });
+
+export const closeDropdown = (id) => {
+  const button = document.querySelector(`#${id}-button`);
+  const dropdown = document.querySelector(`#${id}-dropdown`);
+  button.setAttribute("aria-expanded", "false");
+  dropdown.setAttribute("aria-hidden", "true");
+};

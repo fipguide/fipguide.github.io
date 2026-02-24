@@ -137,9 +137,16 @@ eil:
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
     widows: *coupon-not-available
+eurostar:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
 euskotren:
   fip-coupon:
-    active: *coupon-1
+    active: *coupon-not-available
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available

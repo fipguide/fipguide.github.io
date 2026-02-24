@@ -310,6 +310,7 @@ figure {
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
   border: var(--border);
+  overflow-x: auto;
 
   &--with-sidemenu {
     padding: 0;
