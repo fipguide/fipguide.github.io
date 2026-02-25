@@ -1,4 +1,4 @@
-{{ if .Destination }}
+{{- if .Destination -}}
   <a
     href="{{ .Destination }}"
     target="_blank"
@@ -7,11 +7,11 @@
   >
     {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
   </a>
-{{ else }}
+{{- else -}}
   <button
     class="a-button a-button__internal"
     {{- with .Title }}title="{{ . }}"{{- end -}}
   >
     {{- .Text -}}
   </button>
-{{ end }}
+{{- end -}}
