@@ -7,6 +7,7 @@
   height: 6rem;
   z-index: 12;
   border-bottom: var(--border);
+  padding-left: calc((100vw - 100%) / 2);
 
   @media print {
     display: none;
@@ -14,7 +15,6 @@
 }
 
 .o-header {
-  padding-left: calc((100vw - 100%) / 2);
   justify-content: space-between;
   align-items: center;
   display: flex;
