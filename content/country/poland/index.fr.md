@@ -8,18 +8,24 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
+    - Koleje Małopolskie (KML)
+    - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
 ---
 
 ## Informations FIP
 
-La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM). Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
+La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM).
+
+Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
 - [Koleje Śląskie (KŚ)](/operator/ks)
-- Koleje Wielkopolskie (KW)
-- Łódzka Kolej Aglomeracyjna (ŁKA)
+- [Koleje Wielkopolskie (KW)](/operator/kw)
+- [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
-Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
+Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. La FIP n’est pas non plus acceptée dans les trains des Koleje Małopolskie (KML). La Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) ne peut pas être utilisée avec la FIP, sauf lorsqu’elle opère pour le compte de compagnies ferroviaires qui acceptent la FIP.
+
+À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
 
 {{< identify-operator sources="plk-website,db-website,vagonweb" />}}
 
@@ -79,7 +85,9 @@ Entre la Tchéquie et la Pologne, des trains réguliers sont proposés tant dans
 
 Il en va de même pour les trains régionaux entre Mikulovice et Krnov, qui font un court détour en Pologne et s’arrêtent à Głuchołazy. Plus simple est le passage frontalier de Harrachov, via lequel des trains régionaux circulent entre Szklarska Poreba et Liberec. Ces trains sont opérés du côté polonais par KD et du côté tchèque par ČD.
 
-Via Lichkov, des trains EC circulent entre Wrocław (parfois en provenance de Gdynia) et Prague, pour lesquels des billets de PKP et ČD plus réservation sont requis. Les trains régionaux sont opérés du côté polonais par KD, du côté tchèque ce devrait être ČD sans garantie.
+Via Lichkov, des trains EC circulent entre Wrocław (parfois en provenance de Gdynia) et Prague, pour lesquels des billets de PKP et ČD plus réservation sont requis. Les trains régionaux sont opérés du côté polonais par KD. En Tchéquie, l’exploitation est assurée par Leo Express, la FIP n’est donc pas valable sur ce tronçon.
+
+Les autres liaisons régionales transfrontalières ne peuvent être utilisées avec la FIP que du côté polonais.
 
 ### Ukraine
 

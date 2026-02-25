@@ -11,7 +11,7 @@
 {{- end -}}
 
 {{- if $image -}}
-  {{- partial "image" (dict "image" $image "caption" .PlainText "Page" .Page) -}}
+  {{- partial "image" (dict "image" $image "caption" .Text "Page" .Page) -}}
 {{- else -}}
   {{- warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $.Page.File.Path -}}
 {{- end -}}
