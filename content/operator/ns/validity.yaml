@@ -88,13 +88,13 @@ _anchors:
     status: valid
     text:
       de: |
-        SNCF: 1 Freifahrtschein pro Jahr. \
+        Gesamtes Netz: 1 Freifahrtschein pro Jahr. \
         Région Nord: 3 Freifahrtscheine pro Jahr.
       en: |
-        SNCF: 1 coupon per year. \
+        Whole network: 1 coupon per year. \
         Région Nord: 3 coupons per year.
       fr: |
-        SNCF: 1 coupon par an. \
+        Réseau entier : 1 coupon par an. \
         Région Nord : 3 coupons par an.
 attica:
   fip-coupon:

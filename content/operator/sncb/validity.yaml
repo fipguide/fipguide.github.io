@@ -44,26 +44,26 @@ _anchors:
     status: valid
     text:
       de: |
-        Réseau Nord: 8 Freifahrtscheine pro Jahr. \
-        Réseau entier: 4 Freifahrtscheine pro Jahr.
+        Gesamtes Netz: 4 Freifahrtscheine pro Jahr. \
+        Région Nord: 8 Freifahrtscheine pro Jahr.
       en: |
-        Réseau Nord: 8 coupons per year. \
-        Réseau entier: 4 coupons per year.
+        Whole network: 4 coupons per year. \
+        Région Nord: 8 coupons per year.
       fr: |
-        Réseau Nord : 8 coupons par an. \
-        Réseau entier : 4 coupons par an.
+        Réseau entier : 4 coupons par an. \
+        Région Nord : 8 coupons par an.
   relatives-sncf-nord: &relatives-sncf-nord
     status: valid
     text:
       de: |
-        Réseau Nord: 4 Freifahrtscheine pro Jahr. \
-        Réseau entier: 2 Freifahrtscheine pro Jahr.
+        Gesamtes Netz: 2 Freifahrtscheine pro Jahr. \
+        Région Nord: 4 Freifahrtscheine pro Jahr.
       en: |
-        Réseau Nord: 4 coupons per year. \
-        Réseau entier: 2 coupons per year.
+        Whole network: 2 coupons per year. \
+        Région Nord: 4 coupons per year.
       fr: |
-        Réseau Nord : 4 coupons par an. \
-        Réseau entier : 2 coupons par an.
+        Réseau entier : 2 coupons par an. \
+        Région Nord : 4 coupons par an.
   relatives-sncf-retired: &relatives-sncf-retired
     status: valid
     text:
