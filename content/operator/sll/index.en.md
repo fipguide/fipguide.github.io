@@ -116,6 +116,13 @@ Purchase on board the ships is not possible.
 
 Children up to 4 years travel free of charge, children aged 4 to 16 are entitled to a 50% discount on the adult fare, from 16 years they pay the adult fare. [^1]
 
+{{% highlight tip %}}
+Stena Line and Irish Ferries offer combined ferry and train tickets, independent of FIP. This makes an affordable crossing possible even without FIP.
+
+* [Information and booking at Stena Line](https://www.stenaline.co.uk/rail-and-sail)
+* [Information and booking at Irish Ferries](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+{{% /highlight %}}
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-98)

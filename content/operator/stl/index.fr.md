@@ -155,6 +155,12 @@ L’achat à bord des navires n’est pas possible.
 
 Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 14 ans ils paient le tarif adulte. [^2]
 
+{{% highlight tip %}}
+Stena Line propose des billets combinés ferry et train, indépendants de la FIP. Ainsi, une traversée à prix abordable est possible même sans carte FIP.
+
+[Informations et réservations](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}
+
 ## Recommandations
 
 {{% highlight important %}}
