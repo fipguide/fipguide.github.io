@@ -87,7 +87,9 @@ Les Billets FIP 50 peuvent également être achetés directement dans le train. 
 
 Pour les billets réguliers, les enfants de moins de 4 ans voyagent gratuitement. Les enfants jusqu’à 11 ans inclus bénéficient de 50 % de réduction sur le tarif adulte. À partir de 12 ans, plein tarif adulte. [^1]
 
+{{% highlight tip %}}
 Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous la forme du « BILET TURYSTYCZNY », est également valable dans les trains ŁKA normaux. Il permet de voyager du vendredi 18h au lundi 6h dans tous les trains « Regio » de Polregio ainsi que dans tous les trains de KW, KMŁ, Arriva RP et ŁKA (sauf ŁKA Sprinter). Plus d’informations sur le [site Web de Polregio](https://bilety.polregio.pl/en/sieciowe/47).
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
