@@ -15,87 +15,87 @@ _anchors:
   coupon-active-1: &coupon-active-1
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr (mind. 50 % Arbeitszeit)."
-      en: "1 coupon per year (min. 50 % employment)."
-      fr: "1 coupon par an (min. 50 % d'emploi)."
+      de: "1 Freifahrtschein pro Jahr."
+      en: "1 coupon per year."
+      fr: "1 coupon par an."
   coupon-active-2: &coupon-active-2
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr (mind. 50 % Arbeitszeit)."
-      en: "2 coupons per year (min. 50 % employment)."
-      fr: "2 coupons par an (min. 50 % d'emploi)."
+      de: "2 Freifahrtscheine pro Jahr."
+      en: "2 coupons per year."
+      fr: "2 coupons par an."
   coupon-active-4: &coupon-active-4
     status: valid
     text:
-      de: "4 Freifahrtscheine pro Jahr (mind. 50 % Arbeitszeit)."
-      en: "4 coupons per year (min. 50 % employment)."
-      fr: "4 coupons par an (min. 50 % d'emploi)."
+      de: "4 Freifahrtscheine pro Jahr."
+      en: "4 coupons per year."
+      fr: "4 coupons par an."
   coupon-former-1: &coupon-former-1
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr (mind. 11 Jahre Dienstzeit)."
-      en: "1 coupon per year (min. 11 years of service)."
-      fr: "1 coupon par an (min. 11 ans de service)."
+      de: "1 Freifahrtschein pro Jahr."
+      en: "1 coupon per year."
+      fr: "1 coupon par an."
   coupon-former-2: &coupon-former-2
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr (mind. 11 Jahre Dienstzeit)."
-      en: "2 coupons per year (min. 11 years of service)."
-      fr: "2 coupons par an (min. 11 ans de service)."
+      de: "2 Freifahrtscheine pro Jahr."
+      en: "2 coupons per year."
+      fr: "2 coupons par an."
   coupon-former-1-onetime: &coupon-former-1-onetime
     status: valid
     text:
-      de: "1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt, mind. 11 Jahre Dienstzeit)."
-      en: "1 coupon (one-time, within 45 months after leaving, min. 11 years of service)."
-      fr: "1 coupon (unique, dans les 45 mois suivant le départ, min. 11 ans de service)."
+      de: "1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt)."
+      en: "1 coupon (one-time, within 45 months after leaving)."
+      fr: "1 coupon (unique, dans les 45 mois suivant le départ)."
   relatives-active-1: &relatives-active-1
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr (Partner/Kind aktiver Mitarbeitender, mind. 50 % Arbeitszeit)."
-      en: "1 coupon per year (partner/child of active employees, min. 50 % employment)."
-      fr: "1 coupon par an (partenaire/enfant d'employés actifs, min. 50 % d'emploi)."
+      de: "1 Freifahrtschein pro Jahr."
+      en: "1 coupon per year."
+      fr: "1 coupon par an."
   relatives-active-2: &relatives-active-2
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr (Partner/Kind aktiver Mitarbeitender, mind. 50 % Arbeitszeit)."
-      en: "2 coupons per year (partner/child of active employees, min. 50 % employment)."
-      fr: "2 coupons par an (partenaire/enfant d'employés actifs, min. 50 % d'emploi)."
+      de: "2 Freifahrtscheine pro Jahr."
+      en: "2 coupons per year."
+      fr: "2 coupons par an."
   relatives-active-4: &relatives-active-4
     status: valid
     text:
-      de: "4 Freifahrtscheine pro Jahr (Partner/Kind aktiver Mitarbeitender, mind. 50 % Arbeitszeit)."
-      en: "4 coupons per year (partner/child of active employees, min. 50 % employment)."
-      fr: "4 coupons par an (partenaire/enfant d'employés actifs, min. 50 % d'emploi)."
+      de: "4 Freifahrtscheine pro Jahr."
+      en: "4 coupons per year."
+      fr: "4 coupons par an."
   relatives-former-1: &relatives-former-1
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr (Partner ehemaliger Mitarbeitender, mind. 11 Jahre Dienstzeit)."
-      en: "1 coupon per year (partner of former employees, min. 11 years of service)."
-      fr: "1 coupon par an (partenaire d'anciens employés, min. 11 ans de service)."
+      de: "1 Freifahrtschein pro Jahr."
+      en: "1 coupon per year."
+      fr: "1 coupon par an."
   relatives-former-2: &relatives-former-2
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr (Partner ehemaliger Mitarbeitender, mind. 11 Jahre Dienstzeit)."
-      en: "2 coupons per year (partner of former employees, min. 11 years of service)."
-      fr: "2 coupons par an (partenaire d'anciens employés, min. 11 ans de service)."
+      de: "2 Freifahrtscheine pro Jahr."
+      en: "2 coupons per year."
+      fr: "2 coupons par an."
   relatives-former-1-onetime: &relatives-former-1-onetime
     status: valid
     text:
-      de: "1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt, Partner ehemaliger Mitarbeitender, mind. 11 Jahre Dienstzeit)."
-      en: "1 coupon (one-time, within 45 months after leaving, partner of former employees, min. 11 years of service)."
-      fr: "1 coupon (unique, dans les 45 mois suivant le départ, partenaire d'anciens employés, min. 11 ans de service)."
+      de: "1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt)."
+      en: "1 coupon (one-time, within 45 months after leaving)."
+      fr: "1 coupon (unique, dans les 45 mois suivant le départ)."
   relatives-sncf-active: &relatives-sncf-active
     status: valid
     text:
       de: |
-        SNCF: 1 Freifahrtschein pro Jahr (Partner/Kind aktiver Mitarbeitender, mind. 50 % Arbeitszeit). \
-        Région Nord: 3 Freifahrtscheine pro Jahr (Partner/Kind aktiver Mitarbeitender, mind. 50 % Arbeitszeit).
+        SNCF: 1 Freifahrtschein pro Jahr. \
+        Région Nord: 3 Freifahrtscheine pro Jahr.
       en: |
-        SNCF: 1 coupon per year (partner/child of active employees, min. 50 % employment). \
-        Région Nord: 3 coupons per year (partner/child of active employees, min. 50 % employment).
+        SNCF: 1 coupon per year. \
+        Région Nord: 3 coupons per year.
       fr: |
-        SNCF: 1 coupon par an (partenaire/enfant d'employés actifs, min. 50 % d'emploi). \
-        Région Nord: 3 coupons par an (partenaire/enfant d'employés actifs, min. 50 % d'emploi).
+        SNCF: 1 coupon par an. \
+        Région Nord : 3 coupons par an.
 attica:
   fip-coupon:
     active: *coupon-not-available

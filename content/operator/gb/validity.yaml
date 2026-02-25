@@ -23,28 +23,23 @@ _anchors:
       de: "75 % Rabatt"
       en: "75 % discount"
       fr: "75 % de réduction"
-  reduced-75: &reduced-75
+  reduced-75-safeguarded-50: &reduced-75-safeguarded-50
     status: valid
     text:
       de: |
-        Aktive Mitarbeitende und Ruheständler (safeguarded): 75 % Rabatt. \
-        Ruheständler (nicht safeguarded): 50 % Rabatt
+        Safeguarded: 75 % Rabatt. \
+        Nicht safeguarded: 50 % Rabatt
       en: |
-        Active staff and retired staff (safeguarded): 75 % discount. \
-        Retired staff (non-safeguarded): 50 % discount
+        Safeguarded: 75 % discount. \
+        Non-safeguarded: 50 % discount
       fr: |
-        Personnel actif et personnel retraité (sécurisés) : 75 % de réduction. \
-        Personnel retraité (non sécurisés) : 50 % de réduction
-  reduced-75-group: &reduced-75-group
-    active: *reduced-75
-    active-relatives: *reduced-75
-    retired: *reduced-75
-    retired-relatives: *reduced-75
+        Sécurisés : 75 % de réduction. \
+        Non sécurisés : 50 % de réduction
   reduced-active-75-retired-50-group: &reduced-active-75-retired-50-group
     active: *reduced-75-single
     active-relatives: *reduced-75-single
-    retired: *reduced-50
-    retired-relatives: *reduced-50
+    retired: *reduced-75-safeguarded-50
+    retired-relatives: *reduced-75-safeguarded-50
   coupon-active-1: &coupon-active-1
     status: valid
     text:
@@ -122,7 +117,7 @@ cie:
     active-relatives: *coupon-active-2
     retired: *coupon-retired-1-safeguarded
     retired-relatives: *coupon-retired-1-safeguarded
-  fip-reduced-ticket: *reduced-75-group
+  fip-reduced-ticket: *reduced-active-75-retired-50-group
 cp:
   fip-coupon:
     active: *coupon-active-1
@@ -213,7 +208,7 @@ nir:
     active-relatives: *coupon-active-2
     retired: *coupon-retired-2-safeguarded
     retired-relatives: *coupon-retired-2-safeguarded
-  fip-reduced-ticket: *reduced-75-group
+  fip-reduced-ticket: *reduced-active-75-retired-50-group
 ns:
   fip-coupon:
     active: *coupon-active-2
@@ -269,7 +264,7 @@ sncf:
     active-relatives: *coupon-active-2
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
-  fip-reduced-ticket: *reduced-75-group
+  fip-reduced-ticket: *reduced-active-75-retired-50-group
 sp:
   fip-coupon:
     active: *coupon-active-1

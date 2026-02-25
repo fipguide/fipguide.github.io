@@ -9,9 +9,9 @@ _anchors:
   reduced-50: &reduced-50
     status: valid
     text:
-      de: "50 % FIP-Ermäßigung"
-      en: "50 % FIP discount"
-      fr: "50 % de réduction FIP"
+      de: "50 % Rabatt"
+      en: "50 % discount"
+      fr: "50 % de réduction"
   reduced-50-group: &reduced-50-group
     active: *reduced-50
     active-relatives: *reduced-50
@@ -20,9 +20,9 @@ _anchors:
   reduced-75: &reduced-75
     status: valid
     text:
-      de: "75 % FIP-Ermäßigung"
-      en: "75 % FIP discount"
-      fr: "75 % de réduction FIP"
+      de: "75 % Rabatt"
+      en: "75 % discount"
+      fr: "75 % de réduction"
   reduced-75-group: &reduced-75-group
     active: *reduced-75
     active-relatives: *reduced-75
@@ -31,45 +31,45 @@ _anchors:
   coupon-1: &coupon-1
     status: valid
     text:
-      de: "1 FIP Freifahrtschein pro Jahr."
-      en: "1 FIP Coupon per year."
-      fr: "1 Coupon FIP par an."
+      de: "1 Freifahrtschein pro Jahr."
+      en: "1 coupon per year."
+      fr: "1 coupon par an."
   coupon-2: &coupon-2
     status: valid
     text:
-      de: "2 FIP Freifahrtscheine pro Jahr."
-      en: "2 FIP Coupons per year."
-      fr: "2 Coupons FIP par an."
+      de: "2 Freifahrtscheine pro Jahr."
+      en: "2 coupons per year."
+      fr: "2 coupons par an."
   coupon-sncf-nord: &coupon-sncf-nord
     status: valid
     text:
       de: |
-        Réseau Nord: 8 FIP Freifahrtscheine pro Jahr. \
-        Réseau entier: 4 FIP Freifahrtscheine pro Jahr.
+        Réseau Nord: 8 Freifahrtscheine pro Jahr. \
+        Réseau entier: 4 Freifahrtscheine pro Jahr.
       en: |
-        Réseau Nord: 8 FIP Coupons per year. \
-        Réseau entier: 4 FIP Coupons per year.
+        Réseau Nord: 8 coupons per year. \
+        Réseau entier: 4 coupons per year.
       fr: |
-        Réseau Nord : 8 Coupons FIP par an. \
-        Réseau entier : 4 Coupons FIP par an.
+        Réseau Nord : 8 coupons par an. \
+        Réseau entier : 4 coupons par an.
   relatives-sncf-nord: &relatives-sncf-nord
     status: valid
     text:
       de: |
-        Réseau Nord: 4 FIP Freifahrtscheine pro Jahr. \
-        Réseau entier: 2 FIP Freifahrtscheine pro Jahr.
+        Réseau Nord: 4 Freifahrtscheine pro Jahr. \
+        Réseau entier: 2 Freifahrtscheine pro Jahr.
       en: |
-        Réseau Nord: 4 FIP Coupons per year. \
-        Réseau entier: 2 FIP Coupons per year.
+        Réseau Nord: 4 coupons per year. \
+        Réseau entier: 2 coupons per year.
       fr: |
-        Réseau Nord : 4 Coupons FIP par an. \
-        Réseau entier : 2 Coupons FIP par an.
+        Réseau Nord : 4 coupons par an. \
+        Réseau entier : 2 coupons par an.
   relatives-sncf-retired: &relatives-sncf-retired
     status: valid
     text:
-      de: "1 FIP Freifahrtschein pro Jahr (nur Kind)."
-      en: "1 FIP Coupon per year (child only)."
-      fr: "1 Coupon FIP par an (enfant uniquement)."
+      de: "1 Freifahrtschein pro Jahr (nur Kind)."
+      en: "1 coupon per year (child only)."
+      fr: "1 coupon par an (enfant uniquement)."
 bdz:
   fip-coupon:
     active: *coupon-1
