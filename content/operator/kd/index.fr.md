@@ -73,7 +73,9 @@ Les Billets FIP 50 peuvent également être achetés directement à bord du trai
 
 Pour les billets ordinaires, les enfants de moins de 4 ans voyagent gratuitement. Les enfants jusqu’à 11 ans inclus bénéficient de 50% de réduction sur le tarif adulte. À partir de 12 ans, plein tarif adulte.[^1]
 
+{{% highlight tip %}}
 Indépendamment du FIP, un billet spécial week-end permet, en Basse-Silésie, de voyager sur tous les trains régionaux du vendredi 18h au lundi 6h. Plus d’informations sur le [site KD](https://kolejedolnoslaskie.pl/oferty-taryfowe/dolnoslaski-bilet-weekendowy/).
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

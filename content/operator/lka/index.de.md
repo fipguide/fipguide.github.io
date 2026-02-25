@@ -87,7 +87,9 @@ FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt
 
 Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder bis einschließlich 11 Jahren erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif. [^1]
 
+{{% highlight tip %}}
 Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, das in der Form des "BILET TURYSTYCZNY" auch für die normalen ŁKA Züge gültig ist. Damit können von Freitag 18 Uhr bis Montag 6 Uhr alle "Regio"-Züge der Polregio sowie alle Züge der KW, KMŁ, Arriva RP und ŁKA (außer ŁKA Sprinter) genutzt werden. Weitere Informationen auf der [Polregio Website](https://bilety.polregio.pl/en/sieciowe/47).
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

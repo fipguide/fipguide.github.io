@@ -257,7 +257,9 @@ Aucun frais n’est facturé pour l’émission d’un billet dans le train pour
 
 ## Réductions
 
+{{% highlight tip %}}
 Indépendamment du FIP, Polregio propose un billet week-end avantageux, disponible soit en tant que « MINI BILET TURYSTYCZNY » uniquement pour les trains « Regio » de Polregio, soit en tant que « BILET TURYSTYCZNY » qui est également valable dans tous les trains de KW, KMŁ, Arriva RP et ŁKA (sauf ŁKA Sprinter). Il permet de voyager du vendredi 18h au lundi 6h dans les trains correspondants. Plus d’informations sur le [site Web de Polregio](https://bilety.polregio.pl/en/sieciowe/47).
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

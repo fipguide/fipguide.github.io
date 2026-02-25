@@ -260,7 +260,9 @@ No fee is charged for issuing a ticket on the train for the following passengers
 
 ## Discounts
 
+{{% highlight tip %}}
 Regardless of FIP, Polregio offers an affordable weekend ticket, available either as "MINI BILET TURYSTYCZNY" for "Regio" trains of Polregio only, or as "BILET TURYSTYCZNY" which is also valid on all trains of KW, KMŁ, Arriva RP and ŁKA (except ŁKA Sprinter). It allows travel from Friday 18:00 to Monday 06:00 on the corresponding trains. More information on the [Polregio website](https://bilety.polregio.pl/en/sieciowe/47).
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
