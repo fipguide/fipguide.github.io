@@ -118,7 +118,7 @@ Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-su
 Les détenteurs d'une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Réseau Intercity Direct, Spag85, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg" target="_blank">Wikimedia Commons</a>](intercity-direct-map.webp)
+![Réseau Intercity Direct, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
 
 {{% /train-category %}}
 
