@@ -61,11 +61,13 @@ FIP 50 Tickets can only be sold for domestic journeys.
 
 {{% booking id="kd-ticket-office"/%}}
 
+{{% booking id="kd-ticket-machine"/%}}
+
 {{% booking id="db-ticket-office" reservations=nil /%}}
 
 ### On the Train
 
-FIP 50 Tickets can also be purchased on the train without surcharge. After boarding, contact the conductor immediately. Tickets can be paid for in cash or by contactless credit card (Visa, Visa Electron, V Pay, Mastercard, Maestro). Payment is only possible in Polish zloty.[^1]
+FIP 50 Tickets can also be purchased directly on the train. To do this, you must contact the train staff immediately after boarding. When boarding at stations that also have a ticket office or ticket machine, a surcharge for issuing the ticket on the train may be added to the ticket price. Tickets can be paid for in cash or by contactless credit card (Visa, Visa Electron, V Pay, Mastercard, Maestro). Payment is only possible in Polish zloty.[^1]
 
 ## Discounts
 
