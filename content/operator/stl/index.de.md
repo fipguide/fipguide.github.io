@@ -141,11 +141,11 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 ### Online
 
-{{% booking id="stena-line-email" /%}}
+{{% booking id="stena-line-bv-email" /%}}
 
 ### Telefon
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### Vor Ort
 

@@ -139,11 +139,11 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes e
 
 ### En ligne
 
-{{% booking id="stena-line-email" /%}}
+{{% booking id="stena-line-bv-email" /%}}
 
 ### Par téléphone
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### En gare
 
