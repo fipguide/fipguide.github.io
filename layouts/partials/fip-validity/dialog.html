@@ -13,4 +13,4 @@
   {{- end -}}
   {{- $entries = merge $entries (dict .File.ContentBaseName $entry) -}}
 {{- end -}}
-{{ partial "fip-validity-table" (dict "entries" $entries "lang" .page.Language.Lang "page" .page "firstColHeader" "fipValidity.issuer") }}
+{{ partial "fip-validity/table" (dict "entries" $entries "lang" .page.Language.Lang "page" .page "firstColHeader" "fipValidity.issuer") }}

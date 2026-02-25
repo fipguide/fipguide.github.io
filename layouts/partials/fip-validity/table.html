@@ -22,11 +22,11 @@
         <td>
           {{ partial "link" (dict "Destination" (print "/operator/" $targetSlug) "Text" $targetPage.Title "Page" $page) }}
         </td>
-        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "active" "lang" $lang "page" $page) }}
-        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "active-relatives" "lang" $lang "page" $page) }}
-        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "retired" "lang" $lang "page" $page) }}
-        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "retired-relatives" "lang" $lang "page" $page) }}
-        {{ partial "fip-validity-cell" (dict "entry" $entry "field" "widows" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "active" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "active-relatives" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "retired" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "retired-relatives" "lang" $lang "page" $page) }}
+        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "widows" "lang" $lang "page" $page) }}
       </tr>
     {{- end -}}
   </tbody>
