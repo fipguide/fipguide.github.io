@@ -158,9 +158,9 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 14 Jahren zahlen sie den Erwachsenen-Tarif. [^2]
 
 {{% highlight tip %}}
-Stena Line bietet unabhängig von FIP Kombitickets aus Fähre und Zug an. So ist auch ohne FIP eine günstige Überfahrt möglich.
+Stena Line und bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
-[Informationen und Buchung](https://www.stenaline.co.uk/rail-and-sail)
+[Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 {{% /highlight %}}
 
 ## Empfehlungen

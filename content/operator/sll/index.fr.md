@@ -110,15 +110,15 @@ Au 25.02.2026, les taxes portuaires s’élèvent à 1,50 £ et les taxes enviro
 
 L’achat à bord des navires n’est pas possible.
 
-## Discounts
+## Réductions
 
 Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 16 ans ils paient le tarif adulte. [^1]
 
 {{% highlight tip %}}
-Stena Line et Irish Ferries proposent des billets combinés ferry et train, indépendants de la FIP. Ainsi, une traversée abordable est possible même sans FIP.
+Stena Line et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
 
-- [Informations et réservations auprès de Stena Line](https://www.stenaline.co.uk/rail-and-sail/to-ireland)
-- [Informations et réservations auprès d'Irish Ferries](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+- [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Informations chez Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
   {{% /highlight %}}
 
 ## Sources

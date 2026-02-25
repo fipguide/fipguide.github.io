@@ -117,10 +117,10 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 16 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 16 Jahren zahlen sie den Erwachsenen-Tarif. [^1]
 
 {{% highlight tip %}}
-Stena Line und Irish Ferries bieten unabhängig von FIP Kombitickets aus Fähre und Zug an. So ist auch ohne FIP eine günstige Überfahrt möglich.
+Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
-- [Informationen und Buchung bei Stena Line](https://www.stenaline.co.uk/rail-and-sail)
-- [Informationen und Buchung bei Irish Ferries](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+- [Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Informationen bei Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
   {{% /highlight %}}
 
 ## Quellen
