@@ -310,7 +310,6 @@ figure {
   background-color: var(--bg-default);
   border-radius: var(--border-radius-l);
   border: var(--border);
-  overflow-x: auto;
 
   &--with-sidemenu {
     padding: 0;
@@ -334,6 +333,7 @@ figure {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    overflow-x: auto;
 
     p {
       text-align: justify;
