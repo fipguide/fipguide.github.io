@@ -20,5 +20,5 @@ FIP 50 Fahrkarten für Fahrten der ŁKA können am ŁKA Ticketschalter erworben 
 
 ## Reservierungen
 
-Reservierungen für die ŁS Züge können beim Ticketkauf direkt kostenfrei mit gebucht werden. Es ist wahrscheinlich, dass dort auch ausschließlich Reservierungen gebucht werden können, dies können wir jedoch nicht garantieren.
+Reservierungen für die ŁS Züge können beim Ticketkauf direkt kostenfrei mit gebucht werden. Es ist wahrscheinlich, dass dort auch Reservierungen ohne Ticket gebucht werden können, dies können wir jedoch nicht garantieren.
 {{% /booking-section %}}
