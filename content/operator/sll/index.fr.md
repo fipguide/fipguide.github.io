@@ -62,7 +62,7 @@ width="40%"
 position="right"
 %}}
 
-Les coûts pour les traversées de jour et de nuit peuvent être consultés sur le site Web de Stena Line avant la réservation. Pour ce faire, visitez d’abord le [site Web de Stena Line (UK)](https://www.stenaline.co.uk/). Si vous souhaitez voir les prix en euros, sélectionnez la langue appropriée en bas de la page d’accueil.
+Les coûts peuvent être consultés sur le site Web de Stena Line avant la réservation. Pour ce faire, visitez d’abord le [site Web de Stena Line (UK)](https://www.stenaline.co.uk/). Si vous souhaitez voir les prix en euros, sélectionnez la langue appropriée en bas de la page d’accueil.
 
 {{% /float-image %}}
 

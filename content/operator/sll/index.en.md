@@ -63,7 +63,7 @@ With a FIP Coupon, the fare is free of charge.
   position="right"
 %}}
 
-The costs for day and night crossings can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
+The costs can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
 
 {{% /float-image %}}
 

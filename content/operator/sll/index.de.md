@@ -63,7 +63,7 @@ Mit einem FIP Freifahrtschein ist der Fahrpreis kostenlos.
   position="right"
 %}}
 
-Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
+Die anfallenden Kosten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
 
 {{% /float-image %}}
 
