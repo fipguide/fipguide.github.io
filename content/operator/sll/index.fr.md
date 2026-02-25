@@ -97,7 +97,7 @@ position="right"
 
 Après avoir sélectionné toutes les options supplémentaires et cabines souhaitées, vous recevrez un détail des coûts dans la barre latérale. Avec un Coupon FIP, les frais de traversée (indiqués comme Economy ou Flexi) sont fixés à 0, le montant restant demeure. Par conséquent, les frais de traversée peuvent simplement être soustraits pour déterminer le coût avec un Coupon FIP.
 
-Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes environnementales à 10,30 £ / 12 € par personne et par traversée. S’y ajoutent les frais de cabine et autres options supplémentaires, facturés au tarif plein.
+Au 25.02.2026, les taxes portuaires s’élèvent à 1,50 £ et les taxes environnementales à 2,00 £ par personne et par traversée. S’y ajoutent les frais de cabine et autres options supplémentaires, facturés au tarif plein.
 
 {{% /float-image %}}
 {{% /expander %}}

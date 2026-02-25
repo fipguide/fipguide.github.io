@@ -98,7 +98,7 @@ Then you can proceed through the booking steps. When choosing the fare, you can 
 
 After selecting all desired additional options and cabins, you will receive a cost breakdown in the sidebar. With a FIP Coupon, the travel costs (listed as Economy or Flexi) are set to 0, while the remaining amount stays the same. Therefore, the travel costs can simply be subtracted to determine the costs with a FIP Coupon.
 
-As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10.30 / € 12 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
+As of 25.02.2026, port fees are £ 1,50 and environmental charges are £ 2,00 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
 
 {{% /float-image %}}
 
