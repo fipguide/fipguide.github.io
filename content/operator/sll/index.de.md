@@ -119,9 +119,9 @@ Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 16 Jahren sind b
 {{% highlight tip %}}
 Stena Line und Irish Ferries bieten unabhängig von FIP Kombitickets aus Fähre und Zug an. So ist auch ohne FIP eine günstige Überfahrt möglich.
 
-* [Informationen und Buchung bei Stena Line](https://www.stenaline.co.uk/rail-and-sail)
-* [Informationen und Buchung bei Irish Ferries](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
-{{% /highlight %}}
+- [Informationen und Buchung bei Stena Line](https://www.stenaline.co.uk/rail-and-sail)
+- [Informationen und Buchung bei Irish Ferries](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}
 
 ## Quellen
 
