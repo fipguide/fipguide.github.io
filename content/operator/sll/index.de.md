@@ -24,15 +24,23 @@ FIP 50 Tickets: ✅
 
 ## Schiffskategorien und Reservierungen
 
+{{% float-image
+  src="stena_line_limited_route_map.svg"
+  width="40%"
+  position="right"
+%}}
 Bei den Fährfahrten auf der irischen See wird nicht zwischen Kategorien unterschieden. Je nach Strecke werden unterschiedliche Schiffe mit voneinander abweichender Ausstattung eingesetzt.
 
 FIP wird auf folgenden Routen akzeptiert:
-- Holyhead – Dublin Bay 
+
+- Holyhead – Dublin Bay
 - Fishguard – Rosslare
 - Cairnryan – Belfast
 - Liverpool – Belfast
 
-Eine Übersicht über die eingesetzten Schiffe ist auf der [Website der Stena Line](https://www.stenaline.co.uk/ferries) zu finden.
+Eine Übersicht über die eingesetzten Schiffe ist auf der [Website der Stena Line](https://www.stenaline.de/faehren) zu finden.
+
+{{% /float-image %}}
 
 ## Klassenkategorien
 

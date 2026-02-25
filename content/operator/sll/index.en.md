@@ -24,6 +24,11 @@ FIP 50 Tickets: ✅
 
 ## Ship Categories and Reservations
 
+{{% float-image
+  src="stena_line_limited_route_map.svg"
+  width="40%"
+  position="right"
+%}}
 Ferry services on the Irish Sea do not differentiate between categories. Depending on the route, different ships with varying amenities are used.
 
 FIP is accepted on the following routes:
@@ -34,6 +39,7 @@ FIP is accepted on the following routes:
 - Liverpool – Belfast
 
 An overview of the ships used can be found on the [Stena Line website](https://www.stenaline.co.uk/ferries).
+{{% /float-image %}}
 
 ## Class Categories
 
