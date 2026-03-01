@@ -421,12 +421,14 @@ RBS is a regional transport company and operates four metre-gauge railway lines 
 #### Scheduled routes
 
 ##### Routes with FIP validity
+
 - Bern – Solothurn (RE 5)
 - Bern – Worb Dorf (S7)
 - Bern – Bätterkinden (S8)
 - All RBS buses
 
 ##### Routes without FIP validity
+
 - Bern – Unterzollikofen (S9)
 - Tram line 6: Bern – Gümligen – Worb Dorf
 

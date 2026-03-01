@@ -421,12 +421,14 @@ Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahns
 #### Strecken im Linienverkehr
 
 ##### Strecken mit FIP-Gültigkeit
+
 - Bern – Solothurn (RE 5)
 - Bern – Worb Dorf (S7)
 - Bern – Bätterkinden (S8)
 - Alle Busse der RBS
 
 ##### Strecken ohne FIP-Gültigkeit
+
 - Bern – Unterzollikofen (S9)
 - Tramlinie 6: Bern - Gümligen - Worb Dorf
 

@@ -421,12 +421,14 @@ La RBS est une entreprise de transport régional qui exploite quatre lignes ferr
 #### Lignes régulières
 
 ##### Lignes avec validité FIP
+
 - Berne – Soleure (RE 5)
 - Berne – Worb Dorf (S7)
 - Berne – Bätterkinden (S8)
 - Tous les bus de la RBS
 
 ##### Lignes sans validité FIP
+
 - Berne – Unterzollikofen (S9)
 - Ligne de tram 6 : Berne – Gümligen – Worb Dorf
 
