@@ -113,33 +113,23 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
 
 ## Klassenkategorien
 
-- **Second Class**: Standardklasse, die mit FIP Ausweisen und FIP Freifahrtscheinen der 2. Klasse genutzt werden kann.
-- **Premier Class**: Wird auf der Strecke Dublin - Tralee und auf der Verbindung Dublin - Cork angeboten. Kann mit FIP Freifahrtscheinen der 1. Klasse genutzt werden, mit Zuschlag auf mit FIP Freifahrtscheinen der 2. Klasse. **Wichtig**: Zu den Haupverkehrszeiten wird statt der Premier Class die "First Class" eingesetzt, die nicht mit FIP genutzt werden kann!
-- **First Class**: Wird nur zwischen Dublin und Cork zu den Haupverkehrszeiten angeboten und auch als City Gold bezeichnet. Kann nicht mit FIP genutzt werden.[^2] Stand März 2026 werden alle Verbindungen _außer_ folgender Verbindungen mit der First Class bedient[^1]:
+- **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der zweiten und ersten Klasse genutzt werden kann.
+- **Premier Class**: Wird auf der Strecke Dublin - Tralee und auf der Verbindung Dublin - Cork angeboten. Kann mit FIP Freifahrtscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Freifahrtscheinen der 2. Klasse. **Wichtig**: Zu den Hauptverkehrszeiten wird statt der Premier Class die "First Class" eingesetzt, die nicht mit FIP genutzt werden kann!
+- **First Class**: Wird nur zwischen Dublin und Cork zu den Hauptverkehrszeiten angeboten und auch als City Gold bezeichnet. Kann nicht mit FIP genutzt werden.[^2] Stand März 2026 werden alle Verbindungen _außer_ folgender Verbindungen mit der First Class bedient[^1]:
   - Dublin - Cork Premier Class Verbindungen: 10:00 Uhr (Montag - Samstag), 12:00 Uhr (Montag - Freitag) und 14:00 Uhr (Montag - Freitag)
   - Cork - Dublin Premier Class Verbindungen: 13:25 Uhr (Montag - Samstag), 14:25 Uhr (nur Sonntag), 15:25 Uhr (Montag - Freitag) und 17:25 Uhr (Montag - Donnerstag und Samstag)
 
   Eine aktuelle Liste kann [hier](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel) abgerufen werden.
 
-- **Enterprise Plus**: Erste Klasse auf der Verbindung Dublin - Belfast. Kann mit FIP Fahrscheinen der 1. Klasse genutzt werden, mit Zuschlag auf mit FIP Fahrscheinen der 2. Klasse.
+- **Enterprise Plus**: Erste Klasse auf der Verbindung Dublin - Belfast. Kann mit FIP Fahrscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Fahrscheinen der 2. Klasse.
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-<!--
-  Bette hier Buchungsplattformen mit Onlinebuchung ein.
-
-  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
-  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
-
-  Mehr Informationen sind im booking archetype zu finden.
--->
-
 FIP 50 Tickets sind online nicht buchbar.
 
-{{% booking id="irish-rail-website" %}}
-{{% /booking %}}
+{{% booking id="irish-rail-website" /%}}
 
 ### Telefon
 
@@ -147,8 +137,7 @@ FIP 50 Tickets oder Reservierungen können telefonisch nicht gebucht werden.
 
 ### Vor Ort
 
-{{% booking id="irish-rail-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="irish-rail-ticket-office" /%}}
 
 ### Im Zug
 
@@ -157,7 +146,7 @@ Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden
 
 ## Ermäßigungen
 
-Kinder fahren bis 5 Jahre kostenlos. Jugendliche bis 16 Jahre erhalten 50 % Ermäßigung auf den FIP-Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP-Erwachsenentarif.
+Kinder fahren bis 5 Jahre kostenlos. Jugendliche bis 16 Jahre erhalten 50 % Ermäßigung auf den FIP Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^2]
 
 ## Tarifliche Besonderheiten
 

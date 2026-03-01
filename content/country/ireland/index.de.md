@@ -2,9 +2,6 @@
 draft: false
 title: "Ireland" # Ändere den Name auf den deutschen Ländernamen
 country: "ireland"
-params:
-  operators_without_fip:
-    -  # Liste Betreiber, die kein FIP akzeptieren
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -13,46 +10,33 @@ params:
 
 ## FIP Nutzung
 
-<!--
-    Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
-    - Welche FIP Fahrtkarten (FIP 50/FIP Freifahrtscheine) werden im Land anerkannt und bei welchen Bahngesellschaften?
-    - Welche Besonderheiten bei der Nutzung von FIP gibt es bei den jeweiligen Bahngesellschaften? (Verlinkung zur Bahngesellschaft hinzufügen)
-    - Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft?
--->
+In Irland gibt es ein überschaubares Bahnnetz, das von der staatlichen Bahngesellschaft [Iarnród Éireann](/operator/cie) betrieben wird. FIP Vergünstigungen gelten für alle Züge von Iarnród Éireann mit Ausnahmen in der First Class.
 
 ## Wissenswertes
 
-<!--
-    Ein kurzer Abschnitt über die allgemeine Zugsituation im Land. Folgende Themen können bspw. behandelt werden:
-    - Ausbaustand des Bahnnetzes
-    - wichtige Verbindungen
-    - Qualität und Zustand der Züge
-    - Pünktlichkeit
-    - Taktung
-    - Besondere Züge/Strecken/Linien
-    - Schöne Bahnhöfe
--->
+Das Bahnnetz in Irland fokusiert sich auf Dublin, von dort aus Verbindungen in viele Regionen des Landes bestehen. Die Taktung der Züge ist zwischen den größeren Städten gut. Eine Reservierung von Zügen ist nicht erforderlich, jedoch empfehlenswert, da die Züge oft voll sind.
 
 ## Anreise und Grenzpunkte
 
-<!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
--->
-
 {{% expander "Grenzpunkte" border %}}
 
-| Land | Grenzpunkte |
-| Vereinigtes Königreich (NIR) | Dundalk |
+| Land                                                                     | Grenzpunkte |
+| ------------------------------------------------------------------------ | ----------- |
+| [Vereinigtes Königreich](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk     |
 
 {{% /expander %}}
 
-### Vereinigtes Königreich (Nordirland)
+### Vereinigtes Königreich
 
-Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin (Enterprise), die von Iarnród Éireann und den Northern Ireland Railways betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIR-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich.
+Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin (Enterprise), die von [Iarnród Éireann](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIR-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
 
-Neben dem Enterprise gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
+Neben dem Enterprise Service gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
 
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
+Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von [Stena Line Limited](/operator/sll) sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar.
+
+{{% highlight tip %}}
+Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+
+- [Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Informationen bei Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}

@@ -14,26 +14,6 @@ params:
   type: "website" # Akzeptierte Typen sind: website, onsite, phone, email und machine
 ---
 
-{{% booking-section "fip_50" %}}
-
-## FIP 50 Fahrkarten
-
-<!--
-    Erkläre hier die Buchungswege, um FIP 50 Tickets zu erwerben.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## FIP Globalpreis
-
-<!--
-    Erkläre hier die Buchungswege, um FIP Globalpreise zu erwerben.
--->
-
-{{% /booking-section %}}
-
 {{% booking-section "reservations" %}}
 
 ## Reservierungen
@@ -51,5 +31,7 @@ Reservierungen für die 2. Klasse werden kostenfrei ausgegeben. Lediglich auf ei
 Die angezeigten Preise für die Premier Class enthalten die Preisdifferenz zwischen der 1. und 2. Klasse, sodass diese Reservierungen gebucht werden können, um mit einem FIP Ausweis der 2. Klasse in der Premier Class zu reisen.
 
 Reservierungen für FIP Freifahrtscheine der 1. Klasse können nicht online gebucht werden.
+
+In Irland wird grundsätzlich der Name der Passagiere an den Reservierungsanzeigen in den Zügen angezeigt. Wenn das nicht gewünscht wird, kann bei der Buchung angegeben werden, dass stattdessen die Ticketnummer angezeigt wird.
 
 {{% /booking-section %}}

@@ -90,4 +90,4 @@ Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und F�
 - [Informationen bei Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
   {{% /highlight %}}
 
-Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland (CIE) und Nordirland (NIR) oder ein durchgängiges FIP 50 Ticket erforderlich.
+Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland ([CIE](/operator/cie)) und Nordirland ([NIR](/operator/nir)) oder ein durchgängiges FIP 50 Ticket erforderlich.

@@ -17,13 +17,3 @@ Station Booking Offices sind an den größeren Intercity Bahnhöfen verfügbar. 
 FIP 50 Tickets können an den "Station Booking Offices" von Iarnród Éireann erworben werden.
 
 {{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Reservierungen
-
-<!--
-    Erkläre hier die Buchungswege, um Reservierungen zu erwerben.
--->
-
-{{% /booking-section %}}
