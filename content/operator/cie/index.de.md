@@ -29,7 +29,7 @@ FIP 50 Tickets: ✅
     type="highspeed"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=false
+    reservation_possible=true
     route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map"
 %}}
 

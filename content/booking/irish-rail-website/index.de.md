@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "Irish Rail Website" # Ändere den Titel auf den Name der Buchungsplattform
-description: "" # Ergänze eine Beschreibung für die Buchungsplattform
+title: "Irish Rail Website"
+description: ""
 params:
   classes:
-    # Definiere Klassen und entsprechende Preise für die zugehörigen Reservierungen.
-    # Stelle sicher, dass die Klassen auch in den i18n-Dateien unter `booking.classes` definiert sind.
     first: "-"
     second: "0€ / 2,50€"
-  fip_50: false # Definiere, ob FIP 50 Tickets bei dem Buchungsanbieter gebucht werden können.
-  reservations: true # Definiere, ob Reservierungen bei dem Buchungsanbieter gebucht werden können.
-  booking_link: "https://www.irishrail.ie/en-ie/" # Füge ein Link zur Buchungsplattform hinzu
-  type: "website" # Akzeptierte Typen sind: website, onsite, phone, email und machine
+  fip_50: false
+  reservations: true
+  booking_link: "https://www.irishrail.ie/en-ie/"
+  type: "website"
 ---
 
 {{% booking-section "reservations" %}}
