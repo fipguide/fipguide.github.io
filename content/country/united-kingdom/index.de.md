@@ -27,7 +27,7 @@ params:
 
 In England, Schottland und Wales wird FIP von allen Zugbetreibern akzeptiert, die in [National Rail](/operator/gb "National Rail") integriert sind. Dazu gehören auch einige Betreiber von Nahverkehrszügen in Großstädten wie London Overground und die Elizabeth Line. Andere Verkehrsmittel wie U-Bahnen und Straßenbahnen sind – wie bei FIP üblich – nicht inbegriffen. Alle Betreiber, die FIP akzeptieren, sind in der [Liste der Betreiber](/operator/gb#zugkategorien-und-reservierungen "Liste der Betreiber") aufgeführt.
 
-Nordirland wird dagegen von einem eigenen Bahnbetreiber (NIR) bedient, bei dem FIP Vergünstigungen explizit für diese Bahngesellschaft gültig sind. Zwischen Großbritannien und Nordirland können Fährverbindungen von Stena Line mit FIP genutzt werden.
+Nordirland wird dagegen von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) bedient, bei dem FIP Vergünstigungen explizit für diese Bahngesellschaft gültig sind. Zwischen Großbritannien und Nordirland können Fährverbindungen von Stena Line mit FIP genutzt werden.
 
 Zusätzlich gibt es Züge von [Eurostar](/operator/eurostar "Eurostar") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 
@@ -56,7 +56,7 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 
 ### Reisen zwischen dem Vereinigten Königreich und Nordirland
 
-Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber (NIR) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es [Fährverbindungen mit Stena Line Limited](/operator/sll), welche mit FIP genutzt werden können.
+Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es [Fährverbindungen mit Stena Line Limited](/operator/sll), welche mit FIP genutzt werden können.
 
 Von Belfast verkehren Stena Line Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar.
 
