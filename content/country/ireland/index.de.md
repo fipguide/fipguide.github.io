@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Ireland" # Ändere den Name auf den deutschen Ländernamen
+title: "Irland"
 country: "ireland"
 ---
-
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
 
 {{< wip >}}
 
