@@ -9,7 +9,7 @@ operator: "stl"
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).
 
-Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom Stena Line Limited (SLL).
+Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom [Stena Line Limited (SLL)](/operator/sll).
 
 ## Résumé
 
@@ -138,11 +138,11 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes e
 
 ### En ligne
 
-{{% booking id="stena-line-email" /%}}
+{{% booking id="stena-line-bv-email" /%}}
 
 ### Par téléphone
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### En gare
 
@@ -153,6 +153,12 @@ L’achat à bord des navires n’est pas possible.
 ## Réductions
 
 Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 14 ans ils paient le tarif adulte. [^2]
+
+{{% highlight tip %}}
+Stena Line propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+
+[Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}
 
 ## Recommandations
 

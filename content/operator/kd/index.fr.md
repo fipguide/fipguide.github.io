@@ -60,17 +60,21 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
 
 {{% booking id="kd-ticket-office"/%}}
 
+{{% booking id="kd-ticket-machine"/%}}
+
 {{% booking id="db-ticket-office" reservations=nil /%}}
 
 ### À bord du train
 
-Les Billets FIP 50 peuvent également être achetés sans supplément directement à bord du train. Il faut se présenter immédiatement auprès du contrôleur après la montée. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
+Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l'embarquement. En cas d'embarquement aux gares disposant également d'un guichet ou d'un distributeur de billets, des frais de délivrance à bord peuvent s'ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
 
 ## Réductions
 
 Pour les billets ordinaires, les enfants de moins de 4 ans voyagent gratuitement. Les enfants jusqu’à 11 ans inclus bénéficient de 50% de réduction sur le tarif adulte. À partir de 12 ans, plein tarif adulte.[^1]
 
+{{% highlight tip %}}
 Indépendamment du FIP, un billet spécial week-end permet, en Basse-Silésie, de voyager sur tous les trains régionaux du vendredi 18h au lundi 6h. Plus d’informations sur le [site KD](https://kolejedolnoslaskie.pl/oferty-taryfowe/dolnoslaski-bilet-weekendowy/).
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
