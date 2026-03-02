@@ -2,7 +2,7 @@
 {{- $excluded := slice "eurostar" "euskotren" -}}
 {{- $issuers := slice -}}
 {{- range where .Site.RegularPages "Type" "operator" -}}
-  {{- if and (.Resources.Get "validity.yaml") (not (in $excluded .File.ContentBaseName)) -}}
+  {{- if .Resources.Get "validity.yaml" -}}
     {{- $issuers = $issuers | append . -}}
   {{- end -}}
 {{- end -}}
@@ -64,7 +64,7 @@
     {{- $entries := dict -}}
     {{- range where $.Site.RegularPages "Type" "operator" -}}
       {{- $targetSlug := .File.ContentBaseName -}}
-      {{- if ne $targetSlug $issuerSlug -}}
+      {{- if and (ne $targetSlug $issuerSlug) (not (in $excluded $targetSlug)) -}}
         {{- $entries = merge $entries (dict $targetSlug (index (index $validity $targetSlug) $types)) -}}
       {{- end -}}
     {{- end -}}
