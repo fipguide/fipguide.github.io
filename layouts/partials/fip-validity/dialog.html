@@ -3,6 +3,7 @@
 {{- $type := .type -}}
 {{- $lang := .page.Language.Lang -}}
 {{- $issuers := slice -}}
+{{- $issuerPages := slice -}}
 {{- range where .page.Site.RegularPages "Type" "operator" -}}
   {{- if eq .File.ContentBaseName $currentSlug -}}
     {{- continue -}}
@@ -14,6 +15,7 @@
   {{- end -}}
   {{- if $entry -}}
     {{- $issuers = $issuers | append (dict "page" . "entry" $entry) -}}
+    {{- $issuerPages = $issuerPages | append . -}}
   {{- end -}}
 {{- end -}}
 
@@ -21,8 +23,7 @@
 <div class="o-fip-validity-dialog__controls">
   {{ partial "fip-validity/issuer-dropdown" (dict
     "id" (printf "fip-validity-dialog-%s" $type)
-    "type" $type
-    "issuers" $issuers
+    "issuers" $issuerPages
     )
   }}
 </div>

@@ -25,7 +25,7 @@
     aria-hidden="true"
   >
     {{- range .issuers -}}
-      {{- $slug := .page.File.ContentBaseName -}}
+      {{- $slug := .File.ContentBaseName -}}
       <li class="o-dropdown__item">
         <button
           class="a-button a-button__internal"
@@ -34,7 +34,7 @@
           data-fip-option="{{ $slug }}"
         >
           {{ partial "operator-logo" (dict "operator" $slug) }}
-          {{ .page.Title }}
+          {{ .Title }}
         </button>
       </li>
     {{- end -}}
