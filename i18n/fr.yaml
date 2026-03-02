@@ -52,20 +52,18 @@ fipValidity:
   buttonLabel: Plus d'informations sur la validité FIP
   fip-coupon: Coupon FIP
   fip-coupon-description: >-
-    Pour savoir dans quelles conditions les Coupons FIP sont délivrés, cherchez
-    d'abord la colonne correspondant au groupe de personnes concerné, puis
-    trouvez la ligne de l'opérateur qui a émis la Carte FIP. Si vous êtes
-    éligible, vous pouvez demander les Coupons FIP auprès de votre employeur.
-    Veuillez noter que nous ne sommes pas en mesure d'aider à l'obtention des
-    Coupons FIP.
+    Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
+    vous pouvez demander les Coupons FIP auprès de votre employeur. Veuillez
+    noter que nous ne sommes pas en mesure d'aider à l'obtention des Coupons
+    FIP. Vous trouverez un aperçu de tous les Coupons FIP [ici](/fip-validity).
   fip-global-fare: Tarif Global FIP
   fip-reduced-ticket: Billet FIP à tarif réduit
   fip-reduced-ticket-description: >-
     Les compagnies ferroviaires accordent généralement une réduction avec FIP,
     également connue sous le nom de FIP50 ou FIP75. La réduction est
     habituellement de 50%, parfois de 75%. Pour savoir quelle réduction
-    s'applique à votre cas, trouvez la ligne de l'opérateur qui a émis la Carte
-    FIP.
+    s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
+    Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
   issuer: Émetteur de la carte FIP
   retired: Retraités
   retired-relatives: Ayants droit des retraités

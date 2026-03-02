@@ -52,20 +52,19 @@ fipValidity:
   buttonLabel: Mehr Informationen zur FIP Gültigkeit
   fip-coupon: FIP Freifahrtschein
   fip-coupon-description: >-
-    Um herauszufinden, unter welchen Konditionen Freifahrtscheine ausgegeben
-    werden, suche zunächst die Spalte für die passende Personengruppe und dann
-    die Zeile mit dem Betreiber, der deinen FIP Ausweis ausgestellt hat. Wenn du
-    berechtigt bist, dann kannst du die Freifahrtscheine über deinen Arbeitgeber
-    beantragen. Bitte beachte, dass wir bei der Ausgabe der Freifahrtscheine
-    nicht weiterhelfen können.
+    Wähle zunächst den Aussteller deines FIP Ausweises. Wenn du berechtigt bist,
+    dann kannst du die Freifahrtscheine über deinen Arbeitgeber beantragen.
+    Bitte beachte, dass wir bei der Ausgabe der Freifahrtscheine nicht
+    weiterhelfen können. Einen Überblick aller Freifahrtscheine erhälst du
+    [hier](/fip-validity).
   fip-global-fare: FIP Globalpreis
   fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP50 / FIP75)
   fip-reduced-ticket-description: >-
     Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als
     FIP50 oder FIP75 bekannt. Der Rabatt beläuft sich meistens auf 50%,
-    teilweise auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, suche
-    zunächst die Spalte für die passende Personengruppe und dann die Zeile mit
-    dem Betreiber, der deinen FIP Ausweis ausgestellt hat.
+    teilweise auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle
+    zunächst den Aussteller deines FIP Ausweises aus. Einen Überblick aller
+    Rabatte erhälst du [hier](/fip-validity).
   issuer: Aussteller des FIP Ausweises
   retired: Rentner
   retired-relatives: Angehörige von Rentnern

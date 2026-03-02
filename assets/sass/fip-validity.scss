@@ -37,6 +37,7 @@
 
       &:first-child {
         width: 150px;
+        text-align: left;
       }
     }
   }
@@ -44,4 +45,12 @@
   &__text {
     text-align: left;
   }
+}
+
+[data-fip-select-first] {
+  margin-top: 1rem;
+}
+
+[id^="fip-validity"] .o-dialog {
+  height: 100vh;
 }

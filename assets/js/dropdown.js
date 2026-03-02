@@ -30,9 +30,15 @@ document.addEventListener("DOMContentLoaded", function () {
   registerEventListeners("language-switcher");
   registerEventListeners("navbar-country-selection");
   registerEventListeners("navbar-operator-selection");
-  if (document.querySelector("#fip-validity-issuer-button")) {
-    registerEventListeners("fip-validity-issuer");
-  }
+  [
+    "fip-validity-issuer",
+    "fip-validity-dialog-fip-coupon",
+    "fip-validity-dialog-fip-reduced-ticket",
+  ].forEach((id) => {
+    if (document.querySelector(`#${id}-button`)) {
+      registerEventListeners(id);
+    }
+  });
 });
 
 export const closeDropdown = (id) => {
