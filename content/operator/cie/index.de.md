@@ -8,7 +8,7 @@ operator: "cie"
 
 {{< wip >}}
 
-Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft Irlands und das Mutterunternehmen von Iarnród Éireann, die die Züge in Irland betreiben. Sie betreibt den Großteil des Schienenverkehrs auf der Insel Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen, primär in der Gegend von Dublin.
+Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft Irlands und das Mutterunternehmen von Iarnród Éireann. Iarnród Éireann (Irish Rail) betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.
 
 ## Zusammenfassung
 
@@ -115,7 +115,7 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
 
 - **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der zweiten und ersten Klasse genutzt werden kann.
 - **Premier Class**: Wird auf der Strecke Dublin - Tralee und auf der Verbindung Dublin - Cork angeboten. Kann mit FIP Freifahrtscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Freifahrtscheinen der 2. Klasse. **Wichtig**: Zu den Hauptverkehrszeiten wird statt der Premier Class die "First Class" eingesetzt, die nicht mit FIP genutzt werden kann!
-- **First Class**: Wird nur zwischen Dublin und Cork zu den Hauptverkehrszeiten angeboten und auch als City Gold bezeichnet. Kann nicht mit FIP genutzt werden.[^2] Stand März 2026 werden alle Verbindungen _außer_ folgender Verbindungen mit der First Class bedient[^1]:
+- **First Class**: Wird nur zwischen Dublin und Cork zu den Hauptverkehrszeiten angeboten und auch als City Gold bezeichnet. Kann nicht mit FIP genutzt werden.[^2] Stand März 2026 werden alle Verbindungen zwischen Dublin und Cork _außer_ folgender Verbindungen mit der First Class bedient[^1]:
   - Dublin - Cork Premier Class Verbindungen: 10:00 Uhr (Montag - Samstag), 12:00 Uhr (Montag - Freitag) und 14:00 Uhr (Montag - Freitag)
   - Cork - Dublin Premier Class Verbindungen: 13:25 Uhr (Montag - Samstag), 14:25 Uhr (nur Sonntag), 15:25 Uhr (Montag - Freitag) und 17:25 Uhr (Montag - Donnerstag und Samstag)
 

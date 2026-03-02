@@ -26,7 +26,7 @@ Das Bahnnetz in Irland fokusiert sich auf Dublin, von dort aus Verbindungen in v
 
 ### Vereinigtes Königreich
 
-Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin (Enterprise), die von [Iarnród Éireann](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIR-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
+Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin (Enterprise), die von [Iarnród Éireann](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIE-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
 
 Neben dem Enterprise Service gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
 
