@@ -5,9 +5,6 @@
     {{- $issuers = $issuers | append . -}}
   {{- end -}}
 {{- end -}}
-{{- $initialIssuer := (index $issuers 0).File.ContentBaseName }}
-
-
 <div class="o-fip-validity-comparison__controls">
   <span>
     {{ T "fipValidity.selectIssuer" }}
@@ -21,9 +18,11 @@
       aria-controls="fip-validity-issuer-dropdown"
       data-fip-validity-button
     >
-      <span data-fip-validity-label>
-        {{- with index $issuers 0 -}}{{ .Title }}{{- end -}}
-      </span>
+      <span
+        data-fip-validity-label
+        data-fip-validity-placeholder="{{ T "fipValidity.selectIssuerPlaceholder" }}"
+        >{{ T "fipValidity.selectIssuerPlaceholder" }}</span
+      >
       <div class="o-dropdown__icon">
         {{ partial "icon" "keyboard_arrow_down" }}
       </div>
@@ -40,11 +39,7 @@
           <button
             class="a-button a-button__internal"
             role="option"
-            aria-selected="{{ if eq $slug $initialIssuer }}
-              true
-            {{ else }}
-              false
-            {{ end }}"
+            aria-selected="false"
             data-fip-option="{{ $slug }}"
           >
             {{ partial "operator-logo" (dict "operator" $slug) }}
@@ -58,6 +53,8 @@
 
 {{- range $types := slice "fip-coupon" "fip-reduced-ticket" -}}
   <h2>{{ T (printf "fipValidity.%s" $types) }}</h2>
+
+  <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
 
   {{- range $issuers -}}
     {{- $issuerSlug := .File.ContentBaseName -}}
@@ -75,9 +72,7 @@
     <div
       data-fip-issuer="{{ $issuerSlug }}"
       data-fip-type="{{ $types }}"
-      {{- if ne $issuerSlug $initialIssuer -}}
-        hidden
-      {{- end -}}
+      hidden
     >
       {{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $) }}
     </div>

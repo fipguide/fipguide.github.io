@@ -68,6 +68,8 @@ fipValidity:
   retired-relatives: Relatives of Retirees
   rules: Rules
   selectIssuer: 'Select your FIP Card issuer:'
+  selectIssuerFirst: Please select a FIP Card issuer first.
+  selectIssuerPlaceholder: Select FIP Card issuer
   unknown: Unknown
   widows: Widows, Widowers and Orphans
 footer-love:

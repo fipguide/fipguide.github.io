@@ -71,6 +71,8 @@ fipValidity:
   retired-relatives: Ayants droit des retraités
   rules: Règles
   selectIssuer: 'Sélectionner l''émetteur de votre Carte FIP :'
+  selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
+  selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
   unknown: Inconnu
   widows: Veuves, veufs et orphelins
 footer-love:

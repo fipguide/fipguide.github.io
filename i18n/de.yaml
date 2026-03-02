@@ -71,6 +71,8 @@ fipValidity:
   retired-relatives: Angehörige von Rentnern
   rules: Regeln
   selectIssuer: 'FIP Ausweis Aussteller wählen:'
+  selectIssuerFirst: Bitte zuerst einen FIP Ausweis Aussteller auswählen.
+  selectIssuerPlaceholder: FIP Ausweis Aussteller wählen
   unknown: Unbekannt
   widows: Witwen, Witwer und Waisen
 footer-love:
