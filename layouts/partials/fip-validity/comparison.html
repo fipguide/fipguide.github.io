@@ -1,7 +1,8 @@
 {{- $lang := .Language.Lang -}}
+{{- $excluded := slice "eurostar" "euskotren" -}}
 {{- $issuers := slice -}}
 {{- range where .Site.RegularPages "Type" "operator" -}}
-  {{- if .Resources.Get "validity.yaml" -}}
+  {{- if and (.Resources.Get "validity.yaml") (not (in $excluded .File.ContentBaseName)) -}}
     {{- $issuers = $issuers | append . -}}
   {{- end -}}
 {{- end -}}
