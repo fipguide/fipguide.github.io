@@ -27,14 +27,14 @@ _anchors:
     status: valid
     text:
       de: |
-        Safeguarded: 75 % Rabatt. \
-        Nicht safeguarded: 50 % Rabatt
+        **75 % / 50 % Rabatt**
+        <small>Safeguarded: 75 % Rabatt. Nicht safeguarded: 50 % Rabatt.</small>
       en: |
-        Safeguarded: 75 % discount. \
-        Non-safeguarded: 50 % discount
+        **75 % / 50 % discount**
+        <small>Safeguarded: 75 % discount. Non-safeguarded: 50 % discount.</small>
       fr: |
-        Sécurisés : 75 % de réduction. \
-        Non sécurisés : 50 % de réduction
+        **75 % / 50 % de réduction**
+        <small>Sécurisés : 75 % de réduction. Non sécurisés : 50 % de réduction.</small>
   reduced-active-75-retired-50-group: &reduced-active-75-retired-50-group
     active: *reduced-75-single
     active-relatives: *reduced-75-single
@@ -43,27 +43,51 @@ _anchors:
   coupon-active-1: &coupon-active-1
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr."
-      en: "1 coupon per year."
-      fr: "1 coupon par an."
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr.</small>
+      en: |
+        **1 coupon**
+        <small>Per year.</small>
+      fr: |
+        **1 coupon**
+        <small>Par an.</small>
   coupon-active-2: &coupon-active-2
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr."
-      en: "2 coupons per year."
-      fr: "2 coupons par an."
+      de: |
+        **2 Freifahrtscheine**
+        <small>Pro Jahr.</small>
+      en: |
+        **2 coupons**
+        <small>Per year.</small>
+      fr: |
+        **2 coupons**
+        <small>Par an.</small>
   coupon-retired-1-safeguarded: &coupon-retired-1-safeguarded
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr (nur safeguarded)."
-      en: "1 coupon per year (safeguarded only)."
-      fr: "1 coupon par an (sécurisés uniquement)."
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr (nur safeguarded).</small>
+      en: |
+        **1 coupon**
+        <small>Per year (safeguarded only).</small>
+      fr: |
+        **1 coupon**
+        <small>Par an (sécurisés uniquement).</small>
   coupon-retired-2-safeguarded: &coupon-retired-2-safeguarded
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr (nur safeguarded)."
-      en: "2 coupons per year (safeguarded only)."
-      fr: "2 coupons par an (sécurisés uniquement)."
+      de: |
+        **2 Freifahrtscheine**
+        <small>Pro Jahr (nur safeguarded).</small>
+      en: |
+        **2 coupons**
+        <small>Per year (safeguarded only).</small>
+      fr: |
+        **2 coupons**
+        <small>Par an (sécurisés uniquement).</small>
 attica:
   fip-coupon:
     active: *coupon-not-available

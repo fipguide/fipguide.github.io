@@ -4,14 +4,14 @@ _anchors:
     status: valid
     text:
       de: |
-        1 Freifahrtschein mit jeweils 4 Feldern pro Jahr. \
-        Jedes Feld ist zwei Tage gültig.
+        **1 Freifahrtschein**
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
       en: |
-        1 coupon with 4 fields each per year. \
-        Each field is valid for two days.
+        **1 coupon**
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
       fr: |
-        1 coupon avec 4 champs chacun par an. \
-        Chaque champ est valable deux jours.
+        **1 coupon**
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
   coupon-not-available: &coupon-not-available
     status: invalid
     text:
@@ -33,20 +33,26 @@ _anchors:
     status: valid
     text:
       de: |
-        1 Freifahrtschein mit jeweils 2 Feldern pro Jahr. \
-        Jedes Feld ist für eine Überfahrt gültig.
+        **1 Freifahrtschein**
+        <small>Mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
       en: |
-        1 coupon with 2 fields each per year. \
-        Each field is valid for one crossing.
+        **1 coupon**
+        <small>With 2 fields each per year. Each field is valid for one crossing.</small>
       fr: |
-        1 coupon avec 2 champs chacun par an. \
-        Chaque champ est valable pour une traversée.
+        **1 coupon**
+        <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
   coupon-former-1-onetime: &coupon-former-1-onetime
     status: valid
     text:
-      de: "1 Freifahrtschein (einmalig, innerhalb von 45 Monaten nach Austritt)."
-      en: "1 coupon (one-time, within 45 months after leaving)."
-      fr: "1 coupon (unique, dans les 45 mois suivant le départ)."
+      de: |
+        **1 Freifahrtschein**
+        <small>Einmalig, innerhalb von 45 Monaten nach Austritt.</small>
+      en: |
+        **1 coupon**
+        <small>One-time, within 45 months after leaving.</small>
+      fr: |
+        **1 coupon**
+        <small>Unique, dans les 45 mois suivant le départ.</small>
 sncf:
   fip-coupon:
     active: *coupon-4fields

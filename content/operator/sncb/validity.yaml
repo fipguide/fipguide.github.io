@@ -31,45 +31,63 @@ _anchors:
   coupon-1: &coupon-1
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr."
-      en: "1 coupon per year."
-      fr: "1 coupon par an."
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr.</small>
+      en: |
+        **1 coupon**
+        <small>Per year.</small>
+      fr: |
+        **1 coupon**
+        <small>Par an.</small>
   coupon-2: &coupon-2
     status: valid
     text:
-      de: "2 Freifahrtscheine pro Jahr."
-      en: "2 coupons per year."
-      fr: "2 coupons par an."
+      de: |
+        **2 Freifahrtscheine**
+        <small>Pro Jahr.</small>
+      en: |
+        **2 coupons**
+        <small>Per year.</small>
+      fr: |
+        **2 coupons**
+        <small>Par an.</small>
   coupon-sncf-nord: &coupon-sncf-nord
     status: valid
     text:
       de: |
-        Gesamtes Netz: 4 Freifahrtscheine pro Jahr. \
-        Région Nord: 8 Freifahrtscheine pro Jahr.
+        **4 / 8 Freifahrtscheine**
+        <small>Gesamtes Netz: 4 Freifahrtscheine pro Jahr. Région Nord: 8 Freifahrtscheine pro Jahr.</small>
       en: |
-        Whole network: 4 coupons per year. \
-        Région Nord: 8 coupons per year.
+        **4 / 8 coupons**
+        <small>Whole network: 4 coupons per year. Région Nord: 8 coupons per year.</small>
       fr: |
-        Réseau entier : 4 coupons par an. \
-        Région Nord : 8 coupons par an.
+        **4 / 8 coupons**
+        <small>Réseau entier : 4 coupons par an. Région Nord : 8 coupons par an.</small>
   relatives-sncf-nord: &relatives-sncf-nord
     status: valid
     text:
       de: |
-        Gesamtes Netz: 2 Freifahrtscheine pro Jahr. \
-        Région Nord: 4 Freifahrtscheine pro Jahr.
+        **2 / 4 Freifahrtscheine**
+        <small>Gesamtes Netz: 2 Freifahrtscheine pro Jahr. Région Nord: 4 Freifahrtscheine pro Jahr.</small>
       en: |
-        Whole network: 2 coupons per year. \
-        Région Nord: 4 coupons per year.
+        **2 / 4 coupons**
+        <small>Whole network: 2 coupons per year. Région Nord: 4 coupons per year.</small>
       fr: |
-        Réseau entier : 2 coupons par an. \
-        Région Nord : 4 coupons par an.
+        **2 / 4 coupons**
+        <small>Réseau entier : 2 coupons par an. Région Nord : 4 coupons par an.</small>
   relatives-sncf-retired: &relatives-sncf-retired
     status: valid
     text:
-      de: "1 Freifahrtschein pro Jahr (nur Kind)."
-      en: "1 coupon per year (child only)."
-      fr: "1 coupon par an (enfant uniquement)."
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr (nur Kind).</small>
+      en: |
+        **1 coupon**
+        <small>Per year (child only).</small>
+      fr: |
+        **1 coupon**
+        <small>Par an (enfant uniquement).</small>
 bdz:
   fip-coupon:
     active: *coupon-1
