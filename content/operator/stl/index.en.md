@@ -9,7 +9,7 @@ operator: "stl"
 
 The company Stena Line operates various passenger and vehicle ferries. The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek van Holland ([Netherlands](/country/netherlands)) is referred to as Stena Line BV (StL) in the context of FIP.
 
-The ferry connections on the Irish Sea are operated as a separate FIP operator, Stena Line Limited (SLL).
+The ferry connections on the Irish Sea are operated as a separate FIP operator, [Stena Line Limited (SLL)](/operator/sll).
 
 ## Summary
 
@@ -141,11 +141,11 @@ As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10
 
 ### Online
 
-{{% booking id="stena-line-email" /%}}
+{{% booking id="stena-line-bv-email" /%}}
 
 ### Telephone
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### On-Site
 
@@ -156,6 +156,12 @@ Purchase on board the ships is not possible.
 ## Discounts
 
 Children up to 4 years travel free of charge, children aged 4 to 14 are entitled to a 50% discount on the adult fare, from 14 years they pay the adult fare. [^2]
+
+{{% highlight tip %}}
+Stena Line offers tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+
+[Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}
 
 ## Recommendations
 

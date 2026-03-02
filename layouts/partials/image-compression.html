@@ -1,0 +1,29 @@
+{{- $image := . -}}
+{{- $extension := $image.MediaType.SubType -}}
+{{- $name := $image.RelPermalink | strings.TrimSuffix (printf ".%s" $extension) -}}
+
+{{- $widths := slice -}}
+{{- if gt $image.Width 500 -}}
+  {{- $widths = $widths | append 500 -}}
+{{- end -}}
+{{- if gt $image.Width 800 -}}
+  {{- $widths = $widths | append 800 -}}
+{{- end -}}
+{{- if gt $image.Width 1200 -}}
+  {{- $widths = $widths | append 1200 -}}
+{{- end -}}
+{{- if gt $image.Width 1500 -}}
+  {{- $widths = $widths | append 1500 -}}
+{{- end -}}
+{{- if gt $image.Width 2200 -}}
+  {{- $widths = $widths | append 2200 -}}
+{{- end -}}
+
+{{- $srcset := slice -}}
+{{- range $i, $width := $widths -}}
+  {{- with $image.Resize (printf "%dx" $width) | resources.Copy (print $name "_" $width "." $extension) -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" .RelPermalink $width) -}}
+  {{- end -}}
+{{- end -}}
+{{- $srcset = $srcset | append (printf "%s %dw" $image.RelPermalink $image.Width) -}}
+{{- return $srcset -}}

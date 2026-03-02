@@ -1,12 +1,15 @@
 ---
 draft: false
-title: "Stena Line Telephone"
-description: "Booking information for booking by telephone with Stena Line"
+title: "Stena Line BV Telephone"
+description: "Booking information for booking by telephone with Stena Line BV"
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
   type: "phone"
+
+aliases:
+  - stena-line-phone
 ---
 
 An individual offer can be requested and booked by telephone: [+44 3447 707070](tel:+443447707070)

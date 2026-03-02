@@ -6,7 +6,6 @@ description: "Buchungsinformationen für die NS Hotline."
 params:
   fip_50: true
   reservations: true
-  fee: "7,50 € pro Person*"
   additional_info_link: "https://www.nsinternational.com/en/where-to-buy/telephone-nsinternational-service-center"
   type: "phone"
 ---
@@ -18,8 +17,6 @@ Die NS bietet eine Buchungshotline für Tickets und Reservierungen an:
 Für die Buchung ist eine Kreditkarte erforderlich, die Bezahlung erfolgt per Link, welcher per E-Mail zugesandt wird.
 
 Die Hotline ist täglich von 7 Uhr bis 23 Uhr erreichbar.
-
-\* Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr befreit sind, ist nicht bekannt.
 
 {{% satellite %}}
 
