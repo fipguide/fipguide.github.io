@@ -20,10 +20,14 @@ Les réservations par téléphone sont possibles via la hotline SNCF :
 La réservation est possible en français et en anglais. Lors de la réservation, il faut fournir les coordonnées bancaires, des informations personnelles et une adresse e-mail.
 
 À la fin des options du menu présentées en français, il est possible d’être mis en relation avec un agent anglophone – pour cela, il faut appuyer sur #85.
-Dans le menu suivant, « Voyages/Journey » peut être sélectionné en appuyant sur 1.
-Dans le menu suivant, « Voyages on TGV » peut être sélectionné en appuyant sur 1.
 
-Un alphabet phonétique peut aider lors de la communication des noms et adresses. Le paiement s’effectue uniquement par carte bancaire (Visa, Eurocard ou American Express). Avant de donner le numéro de carte, il faut indiquer le type de carte à l’agent. Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
+Dans le menu suivant, il faut appuyer sur 1. Un message informe ensuite que l’appel est susceptible d’être enregistré. Il est possible de s’y opposer en appuyant sur \*.
+
+Un alphabet phonétique peut aider lors de la communication des noms et adresses.
+
+Le paiement s’effectue uniquement par carte bancaire (Visa, Eurocard ou American Express). Pour le paiement, on est redirigé vers un processus de paiement automatisé où il faut saisir le numéro de carte, la date de validité et le code de sécurité à l’aide du clavier. On est ensuite remis en relation avec l’agent, qui confirme que le paiement a été effectué avec succès.
+
+Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
 
 Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la Carte FIP.
 
@@ -41,7 +45,7 @@ _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 
 La SNCF vend des billets avec une réduction FIP de 50%.
 
-Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est possible d'indiquer les codes suivants :[^1]
+Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est possible d’indiquer les codes suivants :[^1]
 
 - les agents actifs et leurs ayants droit (sauf GB National Rail), personnes retraitées — CF52 : Billet FIP 50 (réduction de 50 %) + réservation obligatoire dans les trains.
 - les agents actifs et leurs ayants droit (sauf GB National Rail), personnes retraitées — CF54 : Surclassement avec billet FIP 50 en 1re classe + réservation obligatoire dans les trains.
@@ -56,7 +60,7 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 
 La SNCF vend des réservations pour les trains longue distance.
 
-Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est possible d'indiquer les codes suivants :[^1]
+Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est possible d’indiquer les codes suivants :[^1]
 
 - Coupon FIP — CF70 : Achat de réservation uniquement.
 - Coupon FIP — CF71 : Surclassement de la réservation Coupon FIP en 1re classe.
