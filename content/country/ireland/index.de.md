@@ -8,11 +8,13 @@ country: "ireland"
 
 ## FIP Nutzung
 
-In Irland gibt es ein überschaubares Bahnnetz, das von der staatlichen Bahngesellschaft [Iarnród Éireann](/operator/cie) betrieben wird. FIP Vergünstigungen gelten für alle Züge von Iarnród Éireann mit Ausnahmen in der First Class.
+Das Bahnnetz in Irland wird von der staatlichen Bahngesellschaft [Iarnród Éireann](/operator/cie) betrieben. FIP Vergünstigungen gelten für alle Züge von Iarnród Éireann.
 
 ## Wissenswertes
 
-Das Bahnnetz in Irland fokusiert sich auf Dublin, von dort aus Verbindungen in viele Regionen des Landes bestehen. Die Taktung der Züge ist zwischen den größeren Städten gut. Eine Reservierung von Zügen ist nicht erforderlich, jedoch empfehlenswert, da die Züge oft voll sind.
+Das Bahnnetz in Irland ist sternförmig auf Dublin ausgerichtet, von wo aus Verbindungen in viele Regionen des Landes führen. Die Taktung zwischen den größeren Städten ist dabei meist gut. In ländlicheren Regionen sind die Taktungen teilweise deutlich geringer.
+
+Reservierungen sind nicht zwingend erforderlich, werden jedoch aufgrund der häufig hohen Auslastung empfohlen.
 
 ## Anreise und Grenzpunkte
 
@@ -26,7 +28,7 @@ Das Bahnnetz in Irland fokusiert sich auf Dublin, von dort aus Verbindungen in v
 
 ### Vereinigtes Königreich
 
-Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin (Enterprise), die von [Iarnród Éireann](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIE-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
+Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin, die als _Enterprise_ bezeichnet und von [Iarnród Éireann](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIE-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
 
 Neben dem Enterprise Service gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
 
