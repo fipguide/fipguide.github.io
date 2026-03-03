@@ -33,15 +33,15 @@
 {{- range $issuers -}}
   {{- $slug := .page.File.ContentBaseName -}}
   {{- $entry := .entry -}}
-  <table class="o-fip-validity__table" data-fip-issuer="{{ $slug }}" hidden>
-    <tbody>
-      {{- $fields := slice "active" "active-relatives" "retired" "retired-relatives" "widows" -}}
-      {{- range $fields -}}
-        <tr>
-          <th scope="row">{{ T (printf "fipValidity.%s" .) }}</th>
-          {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" . "lang" $lang "page" $.page) }}
-        </tr>
-      {{- end -}}
-    </tbody>
-  </table>
+  <div class="o-fip-validity__cards" data-fip-issuer="{{ $slug }}" hidden>
+    {{- $fields := slice "active" "active-relatives" "retired" "retired-relatives" "widows" -}}
+    {{- range $fields -}}
+      <div class="o-fip-validity__card">
+        <div class="o-fip-validity__card-title">
+          {{ T (printf "fipValidity.%s" .) }}
+        </div>
+        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" . "lang" $lang "page" $.page) }}
+      </div>
+    {{- end -}}
+  </div>
 {{- end -}}

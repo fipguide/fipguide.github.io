@@ -15,9 +15,7 @@
 {{- end -}}
 
 
-<td>
-  <div class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
-    {{ partial "icon" (index $iconMapping $status) }}
-    {{ $text | $.page.RenderString }}
-  </div>
-</td>
+<div class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
+  {{ partial "icon" (index $iconMapping $status) }}
+  {{ $text | $.page.RenderString }}
+</div>
