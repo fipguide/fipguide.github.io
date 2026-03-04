@@ -183,7 +183,7 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. [^1] [^3]
+Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis, Isi+-Karte, Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^1] [^3]
 
 ## Tarifliche Besonderheiten
 
