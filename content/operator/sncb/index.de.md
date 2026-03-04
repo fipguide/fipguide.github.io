@@ -183,7 +183,7 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von 6 bis 11 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 12 zahlen sie den Erwachsenen-Tarif. Sind sie FIP-berechtigt, zahlen sie entsprechend hier auch bei FIP 50 nur die Hälfte des Normalpreises.[^1]
+Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. [^1] [^3]
 
 ## Tarifliche Besonderheiten
 
@@ -202,3 +202,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/tickets-and-railcards/child)

@@ -184,7 +184,7 @@ Si aucun guichet n’est disponible ou ouvert, un billet peut être acheté à b
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. Les enfants de 6 à 11 ans bénéficient d’une réduction de 50 % sur le tarif adulte, et à partir de 12 ans, ils paient le tarif adulte. S’ils sont éligibles FIP, ils ne paient également que la moitié du prix normal avec le Billet FIP 50. [^1]
+Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils sont accompagnés d’un adulte (une personne de 12 ans ou plus en possession d’un titre de transport valable) et n’ont pas besoin de billet. Si un enfant voyage seul ou si la limite de quatre enfants gratuits par adulte est dépassée, un billet au tarif Youth doit être acheté, celui-ci étant 40 % moins cher que le tarif standard. [^1] [^3]
 
 ## Conditions tarifaires spéciales
 
@@ -203,3 +203,5 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/child)
