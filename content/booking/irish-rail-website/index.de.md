@@ -31,7 +31,7 @@ Im Anschluss kann die Auswahl "Adults" abgewählt und die Option "Free Travel Pa
 
 {{% /float-image %}}
 
-Reservierungen für die 2. Klasse werden kostenfrei ausgegeben. Lediglich auf einigen stark ausgelasteten Verbindungen werden Reservierungsgebühren von 2,50€ erhoben.
+Reservierungen für die 2. Klasse werden kostenfrei ausgegeben. Lediglich auf einigen stark ausgelasteten Verbindungen werden Reservierungsgebühren von 2,50 € erhoben.
 
 Die angezeigten Preise für die Premier Class enthalten die Preisdifferenz zwischen der 1. und 2. Klasse, sodass diese Reservierungen gebucht werden können, um mit einem FIP Ausweis der 2. Klasse in der Premier Class zu reisen.
 
