@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const dropdownId = button.id.replace(/-button$/, "");
       const scope = button.closest("dialog") || document;
       const label = button.querySelector("[data-fip-validity-label]");
+      const logoSlot = button.querySelector("[data-fip-validity-logo]");
       const options = scope.querySelectorAll("[data-fip-option]");
       const wrappers = scope.querySelectorAll("[data-fip-issuer]");
       const selectFirstMessages = scope.querySelectorAll(
@@ -38,6 +39,13 @@ document.addEventListener("DOMContentLoaded", function () {
           );
         });
         label.textContent = text;
+        const operatorLogo = scope
+          .querySelector(`[data-fip-option="${slug}"]`)
+          ?.querySelector("img");
+        logoSlot.innerHTML = "";
+        if (operatorLogo) {
+          logoSlot.appendChild(operatorLogo.cloneNode());
+        }
         showIssuer(slug);
         closeDropdown(dropdownId);
         localStorage.setItem(ISSUER_KEY, slug);

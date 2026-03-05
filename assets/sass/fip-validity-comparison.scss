@@ -9,6 +9,12 @@
   &__dropdown-button {
     border: var(--border);
     border-radius: var(--border-radius-m);
+
+    [data-fip-validity-logo] {
+      display: flex;
+      align-items: center;
+      margin-right: 0.5rem;
+    }
   }
 
   &__dropdown {
