@@ -20,10 +20,14 @@ Buchungen per Telefon sind über die SNCF Hotline möglich:
 Die Buchung ist auf Französisch und Englisch möglich. Bei der Buchung müssen Kreditkartendaten, persönliche Informationen und eine E-Mail-Adresse angegeben werden.
 
 Am Ende der auf Französisch vorgestellten Menüoptionen gibt es die Möglichkeit, mit einem englischsprachigen Mitarbeitenden verbunden zu werden – dafür muss die #85 gedrückt werden.
-Im nächsten Sprachmenü kann „Voyages/Journey“ durch Drücken der 1 gewählt werden.
-Im folgenden Sprachmenü kann „Voyages on TGV“ durch Drücken der 1 gewählt werden.
 
-Ein Buchstabieralphabet kann bei der Angabe von Namen und Adressen helfen. Die Bezahlung ist nur per Kreditkarte (Visa, Eurocard oder American Express) möglich. Vor der Angabe der Kartennummer sollte dem Mitarbeitenden der Kartentyp mitgeteilt werden. Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
+Im nächsten Sprachmenü muss die 1 gedrückt werden. Anschließend wird darauf hingewiesen, dass das Gespräch möglicherweise aufgezeichnet wird. Mit \* kann dem widersprochen werden.
+
+Ein Buchstabieralphabet kann bei der Angabe von Namen und Adressen helfen.
+
+Die Bezahlung ist nur per Kreditkarte (Visa, Eurocard oder American Express) möglich. Für die Zahlung wird man an einen automatisierten Zahlungsvorgang weitergeleitet, auf dem die Kartennummer, das Gültigkeitsdatum und der Sicherheitscode per Ziffernfeld eingegeben werden müssen. Anschließend wird man wieder mit dem Mitarbeitenden verbunden, der die erfolgreiche Zahlung bestätigt.
+
+Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
 
 Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buchungsbestätigung) sowie das eTicket per E-Mail versendet. Bei der Zugreise muss das eTicket zusammen mit dem FIP Freifahrtschein oder dem FIP Ausweis vorgelegt werden.
 

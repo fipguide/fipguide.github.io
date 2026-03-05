@@ -10,6 +10,9 @@ params:
     - Estonie
     - Finlande
     - Islande
+    - Île de Man
+    - Îles Féroé
+    - Îles Åland
     - Malte
     - Moldavie
     - Russie
