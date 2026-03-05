@@ -20,9 +20,10 @@ Reservierungen sind nicht zwingend erforderlich, werden jedoch aufgrund der häu
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                                                                     | Grenzpunkte |
-| ------------------------------------------------------------------------ | ----------- |
-| [Vereinigtes Königreich](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk     |
+| Land                                                                            | Grenzpunkte          |
+| ------------------------------------------------------------------------------- | -------------------- |
+| [Vereinigtes Königreich](/country/united-kingdom) ([NIR](/operator/nir))        | Dundalk              |
+| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line](/operator/sll)) | Dublin Bay, Rosslare |
 
 {{% /expander %}}
 

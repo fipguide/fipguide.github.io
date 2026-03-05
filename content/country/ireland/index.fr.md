@@ -42,6 +42,8 @@ Uniquement les points frontaliers situés à la frontière nationale avec d’au
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
+| [Royaume-Uni](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk |
+| [Royaume-Uni](/country/united-kingdom) ([Stena Line](/operator/sll)) | Dublin Bay, Rosslare |
 {{% /expander %}}
 
 ### <Nom du pays>
