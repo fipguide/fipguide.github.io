@@ -35,7 +35,7 @@ FIP 50 Tickets: ✅
     route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map"
 %}}
 
-InterCity-Züge verbinden die wichtigsten Städte Irlands, darunter Dublin, Cork, Galway und Limerick. FIP wird auf allen InterCity-Verbindungen akzeptiert.
+InterCity-Züge verbinden die wichtigsten Städte Irlands, darunter Dublin, Cork, Galway und Limerick. FIP wird auf allen InterCity-Verbindungen akzeptiert. Zudem wird der Enterprise Service zwischen Dublin und Belfast von InterCity-Zügen bedient. Mehr Informationen zum Enterprise sind auf der [Irland-Seite](/country/ireland#vereinigtes-königreich) zu finden.
 
 {{% highlight important %}}
 Die First Class zwischen Dublin und Cork darf nicht mit FIP genutzt werden. Mehr Informationen zu den Klassenkategorien sind [weiter unten](#klassenkategorien) zu finden.
