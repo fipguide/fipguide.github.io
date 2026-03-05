@@ -173,7 +173,7 @@ Great Northern bietet Pendlerverbindungen von London nach Hertfordshire, Cambrid
 
 Greater Anglia fährt von London Liverpool Street in die östlichen Counties Englands und nach Norwich.
 
-In der ersten Klasse können Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden.
+Auf der Hauptlinie zwischen Norwich und London können in der ersten Klasse an Werktagen (Montag bis Freitag, einschl. Feiertage) Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden.[^3]
 
 {{% /train-category %}}
 
@@ -210,7 +210,7 @@ Im Night Riviera Sleeper besteht Reservierungspflicht.
 
 Heathrow Express bietet eine schnelle Nonstop-Verbindung zwischen London Paddington und dem Flughafen Heathrow in nur etwa 15 Minuten. FIP Freifahrtscheine und FIP 50 (bzw. FIP 75) Tickets werden akzeptiert.
 
-In Heathrow können Tickets mit FIP Rabatt direkt an den Ticketschranken beim Personal gekauft werden. [Return-Tickets](#ticket--und-reservierungskauf) mit FIP Rabatt können dabei günstiger sein als zwei Einzelfahrten mit der [Elizabeth Line](#elizabeth-line). Die Preise betragen 50% (bzw. 75%)der Single oder Return-Preise, die auf der [Website des Heathrow Express](https://www.heathrowexpress.com/ticket-fares) veröffentlicht werden. [^4]
+In Heathrow können Tickets mit FIP Rabatt direkt an den Ticketschranken beim Personal gekauft werden. [Return-Tickets](#ticket--und-reservierungskauf) mit FIP Rabatt können dabei günstiger sein als zwei Einzelfahrten mit der [Elizabeth Line](#elizabeth-line). Die Preise betragen 50% (bzw. 75%)der Single oder Return-Preise, die auf der [Website des Heathrow Express](https://www.heathrowexpress.com/ticket-fares) veröffentlicht werden. [^5]
 
 {{% /train-category %}}
 
@@ -431,7 +431,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
   [BR Fares](https://www.brfares.com/!roverhome) bietet eine Seite an, auf der man den Rover-Namen eingeben und "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigungsoption auswählen kann. Wenn ein Ergebnis angezeigt wird, ist der Rover mit FIP gültig, andernfalls nicht.
 
   {{% expander "Liste der verfügbaren Rovers mit FIP Rabatt" info "rover" %}}
-  Dies ist eine inoffizielle Liste verfügbarer Rovers aus der Community (Stand 24. Januar 2026). [^3]
+  Dies ist eine inoffizielle Liste verfügbarer Rovers aus der Community (Stand 24. Januar 2026). [^4]
 
   Sie kann als Orientierung genutzt werden, individuelle Angebote sollten jedoch über BR Fares geprüft werden.
 
@@ -474,7 +474,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
 {{% highlight tip %}}
-Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^5]
+Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^6]
 {{% /highlight %}}
 
 ### Online
@@ -670,8 +670,10 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
+[^3]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+[^4]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
-[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+[^5]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+
+[^6]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)

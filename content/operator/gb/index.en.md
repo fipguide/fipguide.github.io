@@ -173,7 +173,7 @@ Great Northern offers commuter connections from London to Hertfordshire, Cambrid
 
 Greater Anglia runs from London Liverpool Street to the eastern counties of England and Norwich.
 
-In First Class, snacks and drinks from the onboard café can be collected free of charge.
+On the mainline route between Norwich and London, first class passengers can collect snacks and drinks from the café bar free of charge on weekdays (Monday to Friday, including bank holidays).[^3]
 
 {{% /train-category %}}
 
@@ -210,7 +210,7 @@ Reservations are required for the Night Riviera Sleeper.
 
 Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. FIP Coupons and FIP 50 (or FIP 75) Tickets are accepted.
 
-At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^4]
+At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^5]
 
 {{% /train-category %}}
 
@@ -431,7 +431,7 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
   {{% expander "List of Available Rovers with FIP Discount" info "rover" %}}
-  This is an unofficial list of available Rovers provided by the community (as of 24 January 2026). [^3]
+  This is an unofficial list of available Rovers provided by the community (as of 24 January 2026). [^4]
 
   It can be used as guidance; however, individual offers should be verified via BR Fares.
 
@@ -473,7 +473,7 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}
-Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^5]
+Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^6]
 {{% /highlight %}}
 
 ### Online
@@ -668,8 +668,10 @@ Great Britain can also be explored by night trains:
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
+[^3]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+[^4]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
-[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+[^5]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+
+[^6]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
