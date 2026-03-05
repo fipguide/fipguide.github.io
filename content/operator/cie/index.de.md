@@ -115,7 +115,7 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
 
 ## Klassenkategorien
 
-- **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der zweiten und ersten Klasse genutzt werden kann.
+- **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der ersten und zweiten Klasse genutzt werden kann.
 - **Premier Class**: Wird auf der Strecke Dublin - Tralee und auf der Verbindung Dublin - Cork angeboten. Kann mit FIP Freifahrtscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Freifahrtscheinen der 2. Klasse. **Wichtig**: Zu den Hauptverkehrszeiten wird statt der Premier Class die "First Class" eingesetzt, die nicht mit FIP genutzt werden kann!
 - **First Class**: Wird nur zwischen Dublin und Cork zu den Hauptverkehrszeiten angeboten und auch als City Gold bezeichnet. Kann nicht mit FIP genutzt werden.[^2] Stand März 2026 werden alle Verbindungen zwischen Dublin und Cork _außer_ folgender Verbindungen mit der First Class bedient[^1]:
   - Dublin - Cork Premier Class Verbindungen: 10:00 Uhr (Montag - Samstag), 12:00 Uhr (Montag - Freitag) und 14:00 Uhr (Montag - Freitag)
