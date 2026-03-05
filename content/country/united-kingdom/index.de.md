@@ -50,8 +50,8 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 | --- | --- |
 | [Frankreich](/country/france), [Belgien](/country/belgium), [Niederlande](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
 | [Niederlande](/country/netherlands) ([Stena Line](/operator/stl)) | Harwich P.Q. |
-| Irland (Stena Line) | Holyhead, Fishguard |
-| Irland (CIE) | Dundalk |
+| [Irland](/country/ireland) (Stena Line) | Holyhead, Fishguard |
+| [Irland](/country/ireland) ([CIE](/operator/cie)) | Dundalk |
 {{% /expander %}}
 
 ### Reisen zwischen dem Vereinigten Königreich und Nordirland

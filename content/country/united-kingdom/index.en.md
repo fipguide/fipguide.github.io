@@ -27,7 +27,7 @@ params:
 
 In England, Scotland, and Wales, FIP is accepted by all train operators integrated into [National Rail](/operator/gb "National Rail"). This includes some urban rail operators in major cities, such as London Overground and the Elizabeth Line. Other modes of transport, such as subways and trams, are not included, as is usual with FIP. All operators accepting FIP are listed in the [list of operators](/operator/gb#train-categories-and-reservations "List of operators").
 
-Northern Ireland, on the other hand, is served by its own railway company (NIR), where FIP discounts are explicitly valid for this company. Ferry connections between Great Britain and Northern Ireland with Stena Line can be used with FIP.
+Northern Ireland, on the other hand, is served by its own railway company ([NIR](/operator/nir)), where FIP discounts are explicitly valid for this company. Ferry connections between Great Britain and Northern Ireland with Stena Line can be used with FIP.
 
 Additionally, there are [Eurostar](/operator/eurostar "Eurostar") trains to continental Europe, which can be used with FIP global fares. Alternatively, ferry connections to the Netherlands between Harwich and Hoek van Holland or ferry connections to Ireland can be used with FIP.
 
@@ -50,13 +50,13 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 | --- | --- |
 | [France](/country/france), [Belgium](/country/belgium), [Netherlands](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
 | [Netherlands](/country/netherlands) ([Stena Line](/operator/stl)) | Harwich P.Q. |
-| Ireland (Stena Line) | Holyhead, Fishguard |
-| Ireland (CIE) | Dundalk |
+| [Ireland](/country/ireland) ([Stena Line](/operator/sll)) | Holyhead, Fishguard |
+| [Ireland](/country/ireland) ([CIE](/operator/cie)) | Dundalk |
 {{% /expander %}}
 
 ### Travel between the United Kingdom and Northern Ireland
 
-Northern Ireland is part of the United Kingdom but is served by its own railway company (NIR). Due to the separation by the Irish Sea, there are no direct train connections between Northern Ireland and the rest of the United Kingdom. Instead, there are [ferry connections with Stena Line Limited](/operator/sll), which can be used with FIP.
+Northern Ireland is part of the United Kingdom but is served by its own railway company ([NIR](/operator/nir)). Due to the separation by the Irish Sea, there are no direct train connections between Northern Ireland and the rest of the United Kingdom. Instead, there are [ferry connections with Stena Line Limited](/operator/sll), which can be used with FIP.
 
 From Belfast, Stena Line ferries operate to Cairnryan in Scotland and Liverpool in England. Stena Line ferry connections can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
 
