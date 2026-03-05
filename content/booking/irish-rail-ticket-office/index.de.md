@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Irish Rail Ticketschalter"
-description: ""
+description: "Buchungsinformationen für den Irish Rail Ticketschalter."
 params:
   fip_50: true
   reservations: true
