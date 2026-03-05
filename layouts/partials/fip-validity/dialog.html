@@ -40,7 +40,7 @@
         <div class="o-fip-validity__card-title">
           {{ T (printf "fipValidity.%s" .) }}
         </div>
-        {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" . "lang" $lang "page" $.page) }}
+        {{ partial "fip-validity/value" (dict "entry" $entry "field" . "lang" $lang "page" $.page) }}
       </div>
     {{- end -}}
   </div>

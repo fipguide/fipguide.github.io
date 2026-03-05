@@ -23,19 +23,19 @@
           {{ partial "link" (dict "Destination" (print "/operator/" $targetSlug) "Text" $targetPage.Title "Page" $page) }}
         </td>
         <td>
-          {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "active" "lang" $lang "page" $page) }}
+          {{ partial "fip-validity/value" (dict "entry" $entry "field" "active" "lang" $lang "page" $page) }}
         </td>
         <td>
-          {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "active-relatives" "lang" $lang "page" $page) }}
+          {{ partial "fip-validity/value" (dict "entry" $entry "field" "active-relatives" "lang" $lang "page" $page) }}
         </td>
         <td>
-          {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "retired" "lang" $lang "page" $page) }}
+          {{ partial "fip-validity/value" (dict "entry" $entry "field" "retired" "lang" $lang "page" $page) }}
         </td>
         <td>
-          {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "retired-relatives" "lang" $lang "page" $page) }}
+          {{ partial "fip-validity/value" (dict "entry" $entry "field" "retired-relatives" "lang" $lang "page" $page) }}
         </td>
         <td>
-          {{ partial "fip-validity/table-cell" (dict "entry" $entry "field" "widows" "lang" $lang "page" $page) }}
+          {{ partial "fip-validity/value" (dict "entry" $entry "field" "widows" "lang" $lang "page" $page) }}
         </td>
       </tr>
     {{- end -}}
