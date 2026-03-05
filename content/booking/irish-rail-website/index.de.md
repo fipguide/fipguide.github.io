@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Irish Rail Website"
-description: ""
+description: "Buchungsinformationen für die Irish Rail Website."
 params:
   classes:
     first: "-"

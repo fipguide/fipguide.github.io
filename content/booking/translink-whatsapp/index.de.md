@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Translink Whatsapp"
-description: ""
+description: "Buchungsinformationen für den Translink WhatsApp Kundendienst."
 params:
   classes:
     first: "0€"

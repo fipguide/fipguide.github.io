@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Translink Ticketschalter"
-description: ""
+description: "Buchungsinformationen für den Translink Ticketschalter."
 params:
   fip_50: true
   reservations: true
