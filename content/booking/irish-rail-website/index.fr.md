@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Remplacez le titre par le nom de la plateforme de réservation
+title: "Irish-Rail-Website" # Remplacez le titre par le nom de la plateforme de réservation
 description: "" # Complète une description pour la plateforme de réservation
 params:
   classes:
@@ -13,7 +13,7 @@ params:
   reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
   booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
   additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-  type: "onsite" # Types acceptés : website, onsite, phone, email, socialmedia et machine
+  type: "onsite" # Types acceptés : website, onsite, phone, email et machine
 ---
 
 {{% booking-section "fip_50" %}}

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Change the name to the English country name
-country: "{{ .File.ContentBaseName }}"
+title: "Ireland" # Change the name to the English country name
+country: "ireland"
 params:
   operators_without_fip:
     -  # List operators without FIP here
@@ -19,9 +19,6 @@ params:
     - What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
     - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
 -->
-
-{{< identify-operator sources="" >}}
-{{< /identify-operator >}}
 
 ## Interesting
 
@@ -45,6 +42,8 @@ Only border points at the national border with other countries. These should be 
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
+| [United Kingdom](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk |
+| [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
 {{% /expander %}}
 
 ### <Country Name>

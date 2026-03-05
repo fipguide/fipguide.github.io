@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Change le nom par le nom du pays français
-country: "{{ .File.ContentBaseName }}"
+title: "Ireland" # Change le nom par le nom du pays français
+country: "ireland"
 params:
   operators_without_fip:
     -  # Listez ici les opérateurs ne participant pas au FIP
@@ -19,9 +19,6 @@ params:
     - Quelles sont les particularités de l’utilisation des Billets FIP avec ces opérateurs ? (Ajoutez un lien vers l’opérateur ferroviaire)
     - Quels opérateurs ne reconnaissent pas les Billets FIP et comment les identifier dans les informations de correspondance ?
 -->
-
-{{< identify-operator sources="" >}}
-{{< /identify-operator >}}
 
 ## Informations générales
 
@@ -45,6 +42,8 @@ Uniquement les points frontaliers situés à la frontière nationale avec d’au
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
+| [Royaume-Uni](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk |
+| [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
 {{% /expander %}}
 
 ### <Nom du pays>
