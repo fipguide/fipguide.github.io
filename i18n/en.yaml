@@ -44,6 +44,33 @@ dialog:
 discord: FIP Guide Community
 donation: Donate
 editPage: Edit page
+fipValidity:
+  active: Active Employees
+  active-relatives: Relatives of Active Employees
+  additional: Other
+  buttonLabel: More information on FIP validity
+  fip-coupon: FIP Coupon
+  fip-coupon-description: >-
+    First select the issuer of your FIP Card. If you are eligible, you can
+    request the FIP Coupons through your employer. Please note that we are
+    unable to assist with the issuance of FIP Coupons. You can find an overview
+    of all FIP Coupons [here](/fip-validity).
+  fip-global-fare: FIP Global Fare
+  fip-reduced-ticket: FIP Reduced Ticket
+  fip-reduced-ticket-description: >-
+    Railway companies typically offer a discount with FIP, also known as FIP50
+    or FIP75. The discount is usually 50%, sometimes 75%. To find out what
+    discount applies to you, first select the issuer of your FIP Card. You can
+    find an overview of all discounts [here](/fip-validity).
+  issuer: FIP Card Issuer
+  retired: Retirees
+  retired-relatives: Relatives of Retirees
+  rules: Rules
+  selectIssuer: 'Select your FIP Card issuer:'
+  selectIssuerFirst: Please select a FIP Card issuer first.
+  selectIssuerPlaceholder: Select FIP Card issuer
+  unknown: Unknown
+  widows: Widows, Widowers and Orphans
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe

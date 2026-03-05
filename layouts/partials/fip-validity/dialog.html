@@ -1,0 +1,47 @@
+<p>{{ T (printf "fipValidity.%s-description" .type) | .page.RenderString }}</p>
+{{- $currentSlug := .page.File.ContentBaseName -}}
+{{- $type := .type -}}
+{{- $lang := .page.Language.Lang -}}
+{{- $issuers := slice -}}
+{{- $issuerPages := slice -}}
+{{- range where .page.Site.RegularPages "Type" "operator" -}}
+  {{- if eq .File.ContentBaseName $currentSlug -}}
+    {{- continue -}}
+  {{- end -}}
+  {{- $entry := false -}}
+  {{- with .Resources.Get "validity.yaml" -}}
+    {{- $validity := . | transform.Unmarshal -}}
+    {{- $entry = index (index $validity $currentSlug) $type -}}
+  {{- end -}}
+  {{- if $entry -}}
+    {{- $issuers = $issuers | append (dict "page" . "entry" $entry) -}}
+    {{- $issuerPages = $issuerPages | append . -}}
+  {{- end -}}
+{{- end -}}
+
+
+<div class="o-fip-validity-dialog__controls">
+  {{ partial "fip-validity/issuer-dropdown" (dict
+    "id" (printf "fip-validity-dialog-%s" $type)
+    "issuers" $issuerPages
+    )
+  }}
+</div>
+
+<p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+
+{{- range $issuers -}}
+  {{- $slug := .page.File.ContentBaseName -}}
+  {{- $entry := .entry -}}
+  <div class="o-fip-validity__cards" data-fip-issuer="{{ $slug }}" hidden>
+    {{- $fields := slice "active" "active-relatives" "retired" "retired-relatives" "widows" -}}
+    {{- range $fields -}}
+      <div class="o-fip-validity__card">
+        <div class="o-fip-validity__card-title">
+          {{ T (printf "fipValidity.%s" .) }}
+        </div>
+        {{ partial "fip-validity/value" (dict "entry" $entry "field" . "lang" $lang "page" $.page) }}
+      </div>
+    {{- end -}}
+  </div>
+{{- end -}}
