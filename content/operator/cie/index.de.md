@@ -135,7 +135,7 @@ FIP 50 Tickets sind online nicht buchbar.
 
 ### Telefon
 
-FIP 50 Tickets oder Reservierungen können telefonisch nicht gebucht werden.
+FIP 50 Tickets und Reservierungen können telefonisch nicht gebucht werden.
 
 ### Vor Ort
 

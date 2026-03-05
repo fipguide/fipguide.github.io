@@ -50,9 +50,9 @@ NIR betreibt zusammen mit [CIE](/operator/cie) den Enterprise Service zwischen D
 
 ## Klassenkategorien
 
-- **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der zweiten und ersten Klasse genutzt werden kann.
+- **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der ersten und zweiten Klasse genutzt werden kann.
 
-- **Enterprise Plus**: Erste Klasse auf der Verbindung Dublin - Belfast. Kann mit FIP Fahrscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Fahrscheinen der 2. Klasse.
+- **Enterprise Plus**: Erste Klasse auf der Verbindung Dublin – Belfast. Kann mit FIP Fahrscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Fahrscheinen der 2. Klasse.
 
 ## Ticket- und Reservierungskauf
 
@@ -61,23 +61,23 @@ NIR betreibt zusammen mit [CIE](/operator/cie) den Enterprise Service zwischen D
 FIP 50 Tickets lassen sich online nicht erwerben.
 
 {{% booking id="irish-rail-website"
-    subtitle="Reservierungen (2. Klasse) für den Enterprise Service (Dublin - Belfast)."
+    subtitle="Reservierungen (2. Klasse) für den Enterprise Service (Dublin – Belfast)."
 /%}}
 
 {{% booking id="translink-whatsapp"
-    subtitle="Reservierungen (1. Klasse) für den Enterprise Service (Dublin - Belfast)."
+    subtitle="Reservierungen (1. Klasse) für den Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### Telefon
 
-FIP 50 Tickets oder Reservierungen können telefonisch nicht gebucht werden.
+FIP 50 Tickets und Reservierungen können telefonisch nicht gebucht werden.
 
 ### Vor Ort
 
 {{% booking id="translink-ticket-office" /%}}
 
 {{% booking id="irish-rail-ticket-office"
-    subtitle="Reservierungen und FIP 50 Tickets für den Enterprise Service (Dublin - Belfast)."
+    subtitle="Reservierungen und FIP 50 Tickets für den Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### Im Zug
