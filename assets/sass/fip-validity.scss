@@ -94,6 +94,42 @@
   &__text {
     text-align: left;
   }
+
+  &__controls {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+
+  &__dropdown-button {
+    border: var(--border-visible);
+    border-radius: var(--border-radius-m);
+
+    [data-fip-validity-logo] {
+      display: flex;
+      align-items: center;
+      margin-right: 0.5rem;
+    }
+  }
+
+  &__dropdown {
+    .o-dropdown__item {
+      margin: 0;
+
+      .a-button {
+        width: 100%;
+        font-size: 1em;
+        white-space: nowrap;
+        gap: 1rem;
+
+        &[aria-selected="true"] {
+          color: var(--link-hovered);
+          font-weight: bold;
+        }
+      }
+    }
+  }
 }
 
 [data-fip-select-first] {
