@@ -8,7 +8,7 @@ country: "ireland"
 
 ## FIP Nutzung
 
-Das Bahnnetz in Irland wird von der staatlichen Bahngesellschaft [Iarnród Éireann](/operator/cie) betrieben. FIP Vergünstigungen gelten für alle Züge von Iarnród Éireann.
+Das Bahnnetz in Irland wird von der staatlichen Bahngesellschaft [Irish Rail](/operator/cie) (Iarnród Éireann) betrieben. FIP Vergünstigungen gelten für alle Züge von Irish Rail.
 
 {{< identify-operator sources="" >}}
 Mit Ausnahme von Sonderfahrten ist Irish Rail der einzige Betreiber von regulären Zugverbindungen in Irland. Lediglich beim Enterprise Service übernimmt die nordirische Bahngesellschaft [NIR](/operator/nir) den Betrieb auf dem Abschnitt zwischen Dundalk und Belfast.
@@ -33,7 +33,7 @@ Reservierungen sind nicht zwingend erforderlich, werden jedoch aufgrund der häu
 
 ### Vereinigtes Königreich
 
-Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin, die als _Enterprise_ bezeichnet und von [Iarnród Éireann](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIE-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
+Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung zwischen Belfast und Dublin, die als _Enterprise_ bezeichnet und von [Irish Rail](/operator/cie) und den [Northern Ireland Railways](/operator/nir) betrieben wird. Zwischen Dublin und Dundalk können die Züge mit CIE-Freifahrtscheinen genutzt werden, zwischen Dundalk und Belfast sind NIR-Freifahrtscheine erforderlich. Alternativ können FIP 50 Tickets für die gesamte Strecke erworben werden.
 
 Neben dem Enterprise Service gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
 

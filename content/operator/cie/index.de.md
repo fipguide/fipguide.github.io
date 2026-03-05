@@ -8,13 +8,13 @@ operator: "cie"
 
 {{< wip >}}
 
-Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/country/ireland) und das Mutterunternehmen von Iarnród Éireann. Iarnród Éireann (Irish Rail) betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.
+Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/country/ireland) und das Mutterunternehmen von Irish Rail (Iarnród Éireann). Die Tochtergesellschaft betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.
 
 Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map) an.
 
 ## Zusammenfassung
 
-- FIP wird auf allen Zugverbindungen von Iarnród Éireann akzeptiert.
+- FIP wird auf allen Zugverbindungen von Irish Rail akzeptiert.
 - Die First Class darf nicht mit FIP genutzt werden.
 - FIP 50 Tickets sind nur noch schwierig buchbar und oftmals teurer als öffentlich verfügbare "Low Fare Tickets", die jedoch im Vorhinein gebucht werden müssen.
 
