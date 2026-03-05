@@ -9,7 +9,7 @@ params:
   type: "onsite"
 ---
 
-Station Booking Offices sind an den größeren Intercity Bahnhöfen verfügbar. Um zu prüfen, ob eine Station ein Station Booking Office hat, kann in der [Bahnhofsübersicht](https://www.irishrail.ie/en-ie/travel-information/find-a-station) der entsprechende Bahnhof ausgewählt werden. In der Sektion "General information" und "Opening Hours" sind die Öffnungszeiten gelistet, wenn es ein Ticket Office gibt.
+Ticketschalter von Irish Rail sind an den größeren Intercity Bahnhöfen verfügbar. Um zu prüfen, ob eine Station ein Ticketschalter hat, kann in der [Bahnhofsübersicht](https://www.irishrail.ie/en-ie/travel-information/find-a-station) der entsprechende Bahnhof ausgewählt werden. In der Sektion "General information" und "Opening Hours" sind die Öffnungszeiten gelistet, wenn es ein Ticket Office gibt. Die Ticketschalter werden auf der Website als "Station Booking Offices" bezeichnet.
 
 {{% booking-section "fip_50" %}}
 
