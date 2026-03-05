@@ -43,8 +43,10 @@ Only border points at the national border with other countries. These should be 
 -->
 
 {{% expander "Border Points" border %}}
+
 | Country | Border Points |
-| --- | --- |
+| ------- | ------------- |
+
 {{% /expander %}}
 
 ### <Country Name>

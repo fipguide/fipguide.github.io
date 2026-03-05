@@ -33,15 +33,17 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Bettembourg (fr), Rodange (fr) |
-| [Allemagne](/country/germany) ([DB](/operator/db)) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
-| [Eurostar](/operator/eurostar) | Paris, Lille |
-| [Italie](/country/italy) ([FS](/operator/fs)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| [Espagne](/country/spain) ([Renfe](/operator/renfe)) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
+
+| Pays                                                                             | Points frontières                                                                                                                            |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                         | Bettembourg (fr), Rodange (fr)                                                                                                               |
+| [Allemagne](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                   |
+| [Eurostar](/operator/eurostar)                                                   | Paris, Lille                                                                                                                                 |
+| [Italie](/country/italy) ([FS](/operator/fs))                                    | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                    |
+| [Espagne](/country/spain) ([Renfe](/operator/renfe))                             | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                              |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                            | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                          |
+
 {{% /expander %}}
 
 ### Royaume-Uni

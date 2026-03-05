@@ -33,15 +33,17 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| [Deutschland](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| [Italien](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+
+| Land                                                    | Grenzpunkte                                                                                                                         |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Deutschland](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
+| [Italien](/country/italy) ([FS](/operator/fs))          | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb))  | Buchs (SG), St. Margrethen                                                                                                          |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf))  | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
 [>] = In Richtung (z. B. Locarno [> Domodossola] = Locarno ist der Grenzpunkt in Richtung Domodossola)
+
 {{% /expander %}}
 
 ### Deutschland

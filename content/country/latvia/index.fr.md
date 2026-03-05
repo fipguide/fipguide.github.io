@@ -22,12 +22,14 @@ Le réseau ferroviaire letton utilise l’écartement large de 1520 mm. Le tra
 ## Arrivée et points frontières
 
 {{% expander "Point frontière" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| Estonie | Valga |
-| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis |
-| Biélorussie | Frontière fermée |
-| Russie | Frontière fermée |
+
+| Pays                                                       | Points frontières |
+| ---------------------------------------------------------- | ----------------- |
+| Estonie                                                    | Valga             |
+| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis          |
+| Biélorussie                                                | Frontière fermée  |
+| Russie                                                     | Frontière fermée  |
+
 {{% /expander %}}
 
 ### Biélorussie

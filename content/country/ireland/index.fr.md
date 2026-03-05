@@ -40,10 +40,12 @@ Uniquement les points frontaliers situés à la frontière nationale avec d’au
 -->
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| [Royaume-Uni](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk |
+
+| Pays                                                                         | Points frontières    |
+| ---------------------------------------------------------------------------- | -------------------- |
+| [Royaume-Uni](/country/united-kingdom) ([NIR](/operator/nir))                | Dundalk              |
 | [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
+
 {{% /expander %}}
 
 ### <Nom du pays>

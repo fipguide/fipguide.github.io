@@ -33,15 +33,17 @@ Switzerland has one of the densest rail networks in the world. Despite challengi
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
-| [Germany](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut |
-| [Italy](/country/italy) ([FS](/operator/fs)) | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen |
-| [France](/country/france) ([SNCF](/operator/sncf)) | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe |
+
+| Country                                             | Border Points                                                                                                                       |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Germany](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
+| [Italy](/country/italy) ([FS](/operator/fs))        | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen                                                                                                          |
+| [France](/country/france) ([SNCF](/operator/sncf))  | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
 [>] = Direction (e.g. Locarno [> Domodossola] = Locarno is the border point towards Domodossola)
+
 {{% /expander %}}
 
 ### Germany

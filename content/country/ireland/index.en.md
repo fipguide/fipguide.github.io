@@ -40,10 +40,12 @@ Only border points at the national border with other countries. These should be 
 -->
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
-| [United Kingdom](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk |
+
+| Country                                                                         | Border Points        |
+| ------------------------------------------------------------------------------- | -------------------- |
+| [United Kingdom](/country/united-kingdom) ([NIR](/operator/nir))                | Dundalk              |
 | [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
+
 {{% /expander %}}
 
 ### <Country Name>
