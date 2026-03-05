@@ -323,7 +323,7 @@ FIP-Vergünstigungen gelten für die Überquerung der Straße von Messina nur, w
 
 ### Leonardo Express (Flughafen-Shuttle Rom Fiumicino)
 
-Im Leonardo Express von/zum Flughafen Rom Fiumicino gelten keine FIP Vergünstigungen. Als Alternative können normale Regionalzüge genutzt werden.
+Im Leonardo Express von/zum Flughafen Rom Fiumicino gelten keine FIP Vergünstigungen. Als Alternative können normale Regionalzüge genutzt werden. Bei diesen gilt ein Ticketmindestpreis von 8 €, der auch mit FIP 50 Rabatt nicht unterschritten werden kann. FIP Freifahrtscheine können jedoch in den regulären Regionalzügen normal genutzt werden.
 
 ### Trinacria Express (Palermo Flughafen)
 
