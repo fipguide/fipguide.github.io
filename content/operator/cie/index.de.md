@@ -50,7 +50,7 @@ Reservierungen sind optional, werden aber für viele Verbindungen kostenfrei aus
 {{% train-category
     id="commuter"
     title="Commuter Trains / Local rail services"
-    type="subway"
+    type="regional"
     fip_accepted=true
     reservation_required=false
     reservation_possible=false
