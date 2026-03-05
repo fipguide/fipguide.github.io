@@ -24,10 +24,10 @@ Reservierungen sind nicht zwingend erforderlich, werden jedoch aufgrund der häu
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                                                                            | Grenzpunkte          |
-| ------------------------------------------------------------------------------- | -------------------- |
-| [Vereinigtes Königreich](/country/united-kingdom) ([NIR](/operator/nir))        | Dundalk              |
-| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line](/operator/sll)) | Dublin Bay, Rosslare |
+| Land                                                                                    | Grenzpunkte          |
+| --------------------------------------------------------------------------------------- | -------------------- |
+| [Vereinigtes Königreich](/country/united-kingdom) ([NIR](/operator/nir))                | Dundalk              |
+| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
 
 {{% /expander %}}
 
@@ -37,10 +37,10 @@ Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung z
 
 Neben dem Enterprise Service gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
 
-Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von [Stena Line Limited](/operator/sll) sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar.
+Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Limited Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von [Stena Line Limited](/operator/sll) sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar.
 
 {{% highlight tip %}}
-Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+Stena Line Limited und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
 - [Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 - [Informationen bei Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)

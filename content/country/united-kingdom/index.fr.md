@@ -27,7 +27,7 @@ params:
 
 En Angleterre, en Écosse et au Pays de Galles, le FIP est accepté par tous les opérateurs ferroviaires intégrés à [National Rail](/operator/gb "National Rail"). Cela inclut certains opérateurs de trains urbains dans les grandes villes, comme London Overground et la Elizabeth Line. Les autres moyens de transport, tels que les métros et les tramways, ne sont pas inclus, comme c’est généralement le cas avec le FIP. Tous les opérateurs acceptant le FIP sont listés dans la [liste des opérateurs](/operator/gb#catégories-de-trains-et-réservations "Liste des opérateurs").
 
-L’Irlande du Nord est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)), où les réductions FIP sont explicitement valables pour cette société. Les liaisons par ferry entre la Grande-Bretagne et l’Irlande du Nord avec Stena Line peuvent être utilisées avec le FIP.
+L’Irlande du Nord est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)), où les réductions FIP sont explicitement valables pour cette société. Les liaisons par ferry entre la Grande-Bretagne et l’Irlande du Nord avec [Stena Line Limited](/operator/sll) peuvent être utilisées avec le FIP.
 
 Il existe également des trains [Eurostar](/operator/eurostar "Eurostar") vers l’Europe continentale, accessibles avec les tarifs globaux FIP. Alternativement, les liaisons par ferry vers les Pays-Bas entre Harwich et Hoek van Holland ou vers l’Irlande peuvent être utilisées avec le FIP.
 
@@ -49,8 +49,9 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 | Pays | Points frontières |
 | --- | --- |
 | [France](/country/france), [Belgique](/country/belgium), [Pays-Bas](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
-| [Pays-Bas](/country/netherlands) ([Stena Line](/operator/stl)) | Harwich P.Q. |
-| [Irlande](/country/ireland) (Stena Line) | Holyhead, Fishguard |
+| [Pays-Bas](/country/netherlands) ([Stena Line BV](/operator/stl)) | Harwich P.Q. |
+| [Irlande](/country/ireland) ([Stena Line Limited](/operator/sll)) | Holyhead, Fishguard |
+| [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Cairnryan, Liverpool, Belfast |
 | [Irlande](/country/ireland) ([CIE](/operator/cie)) | Dundalk |
 {{% /expander %}}
 
@@ -58,10 +59,10 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 
 L’Irlande du Nord fait partie du Royaume-Uni mais est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)). En raison de la séparation par la mer d’Irlande, il n’existe pas de liaisons ferroviaires directes entre l’Irlande du Nord et le reste du Royaume-Uni. À la place, il existe des [liaisons par ferry avec Stena Line Limited](/operator/sll), qui peuvent être utilisées avec le FIP.
 
-Depuis Belfast, des ferries Stena Line relient Cairnryan en Écosse et Liverpool en Angleterre. Les liaisons par ferry Stena Line sont accessibles à tarif réduit avec les Coupons FIP Stena Line ou les billets FIP 50.
+Depuis Belfast, des ferries Stena Line Limited relient Cairnryan en Écosse et Liverpool en Angleterre. Les liaisons par ferry Stena Line Limited sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
 
 {{% highlight tip %}}
-Stena Line et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+Stena Line Limited et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
 
 - [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 - [Informations chez Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
@@ -81,10 +82,10 @@ De plus, une [liaison par ferry de Stena Line BV](/operator/stl) relie Hoek van 
 
 ### Irlande
 
-Depuis Dublin et Rosslare, des ferries Irish Ferries et Stena Line relient Holyhead et Fishguard au Pays de Galles. Les liaisons par ferry de [Stena Line Limited](/operator/sll) sont accessibles à tarif réduit avec les Coupons FIP Stena Line ou les billets FIP 50.
+Depuis Dublin et Rosslare, des ferries Irish Ferries et Stena Line Limited relient Holyhead et Fishguard au Pays de Galles. Les liaisons par ferry de [Stena Line Limited](/operator/sll) sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
 
 {{% highlight tip %}}
-Stena Line et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+Stena Line Limited et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
 
 - [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 - [Informations chez Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)

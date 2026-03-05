@@ -41,6 +41,7 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 | --- | --- |
 | [Deutschland](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
 | [Belgien](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
+| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland |
 {{% /expander %}}
 
 ### Deutschland
@@ -69,7 +70,7 @@ Von London St. Pancras verkehren durchgängige [Eurostar](/operator/eurostar "Eu
 Zusätzlich verkehrt ab Harwich eine [Fährverbindung von Stena Line BV](/operator/stl) nach Hoek van Holland, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die von Hoek van Holland in Richtung Rotterdam / Nesselande verkehrende RET Metro keine FIP Vergünstigungen gewährt.
 
 {{% highlight tip %}}
-Stena Line und bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+Stena Line BV bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
 
 [Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 {{% /highlight %}}

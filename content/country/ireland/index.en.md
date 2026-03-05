@@ -43,7 +43,7 @@ Only border points at the national border with other countries. These should be 
 | Country | Border Points |
 | --- | --- |
 | [United Kingdom](/country/united-kingdom) ([NIR](/operator/nir)) | Dundalk |
-| [United Kingdom](/country/united-kingdom) ([Stena Line](/operator/sll)) | Dublin Bay, Rosslare |
+| [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
 {{% /expander %}}
 
 ### <Country Name>
