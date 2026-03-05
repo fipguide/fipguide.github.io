@@ -17,11 +17,12 @@ Die Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise 
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
-| [Deutschland](/country/germany) ([DB](/operator/db)) | Igel (Gr) |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Bettembourg (fr), Rodange (fr) |
+
+| Land                                                   | Grenzpunkte                        |
+| ------------------------------------------------------ | ---------------------------------- |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb))   | Athus, Gouvy (fr), Sterpenich (fr) |
+| [Deutschland](/country/germany) ([DB](/operator/db))   | Igel (Gr)                          |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Bettembourg (fr), Rodange (fr)     |
 
 {{% /expander %}}
 
