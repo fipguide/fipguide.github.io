@@ -61,7 +61,7 @@
     align-items: center;
     gap: 0.8rem;
     padding: 0.8rem;
-    border: var(--border);
+    border: var(--border-visible);
     border-radius: var(--border-radius-m);
     flex: 1 1 100%;
     text-align: center;
@@ -78,7 +78,7 @@
   &__card-title {
     font-weight: bold;
     font-size: 0.9em;
-    border-bottom: var(--border);
+    border-bottom: var(--border-visible);
     width: 100%;
     padding-bottom: 0.6rem;
     text-align: center;

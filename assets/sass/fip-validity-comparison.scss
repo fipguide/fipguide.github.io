@@ -7,7 +7,7 @@
   }
 
   &__dropdown-button {
-    border: var(--border);
+    border: var(--border-visible);
     border-radius: var(--border-radius-m);
 
     [data-fip-validity-logo] {
