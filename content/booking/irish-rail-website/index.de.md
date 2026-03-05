@@ -20,16 +20,25 @@ Online können Reservierungen für die 2. Klasse erworben werden. Hierzu muss zu
 
 ![Passagieroptionen öffnen](./reservation-step-1.png)
 
-Im Anschluss kann die Auswahl "Adults" abgewählt und die Option "Free Travel Pass" ausgewählt werden:
+{{% float-image
+  src="reservation-step-2.png"
+  alt="Auswahl Free Travel Pass"
+  width="50%"
+  position="left"
+%}}
 
-![Auswahl Free Travel Pass](./reservation-step-2.png)
+Im Anschluss kann die Auswahl "Adults" abgewählt und die Option "Free Travel Pass" ausgewählt werden.
+
+{{% /float-image %}}
 
 Reservierungen für die 2. Klasse werden kostenfrei ausgegeben. Lediglich auf einigen stark ausgelasteten Verbindungen werden Reservierungsgebühren von 2,50€ erhoben.
 
 Die angezeigten Preise für die Premier Class enthalten die Preisdifferenz zwischen der 1. und 2. Klasse, sodass diese Reservierungen gebucht werden können, um mit einem FIP Ausweis der 2. Klasse in der Premier Class zu reisen.
 
-Reservierungen für FIP Freifahrtscheine der 1. Klasse können nicht online gebucht werden.
+Reservierungen für FIP Freifahrtscheine der 1. Klasse können nicht online gebucht über Irish Rail werden.
 
+{{% highlight tip %}}
 In Irland wird grundsätzlich der Name der Passagiere an den Reservierungsanzeigen in den Zügen angezeigt. Wenn das nicht gewünscht wird, kann bei der Buchung angegeben werden, dass stattdessen die Ticketnummer angezeigt wird.
+{{% /highlight %}}
 
 {{% /booking-section %}}
