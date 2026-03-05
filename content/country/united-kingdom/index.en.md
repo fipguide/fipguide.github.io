@@ -49,10 +49,10 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 | Country | Border Points |
 | --- | --- |
 | [France](/country/france), [Belgium](/country/belgium), [Netherlands](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
-| [Netherlands](/country/netherlands) ([Stena Line BV](/operator/stl)) | Harwich P.Q. |
-| [Ireland](/country/ireland) ([Stena Line Limited](/operator/sll)) | Holyhead, Fishguard |
-| [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Cairnryan, Liverpool, Belfast |
 | [Ireland](/country/ireland) ([CIE](/operator/cie)) | Dundalk |
+| [Ireland](/country/ireland) ([Stena Line Limited](/operator/sll)) | Holyhead, Fishguard |
+| [Netherlands](/country/netherlands) ([Stena Line BV](/operator/stl)) | Harwich P.Q. |
+| [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Cairnryan, Liverpool, Belfast |
 {{% /expander %}}
 
 ### Travel between the United Kingdom and Northern Ireland
