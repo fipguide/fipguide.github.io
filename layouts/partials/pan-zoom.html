@@ -1,0 +1,31 @@
+<div class="o-pan-zoom__wrapper" aria-labelledby="{{ .ID }}">
+  <div id="{{ .ID }}" class="o-pan-zoom__container">
+    {{- .Content -}}
+  </div>
+  <div class="o-pan-zoom__controls">
+    <button
+      class="o-pan-zoom__zoom-in"
+      data-pan-zoom="{{ .ID }}"
+      title="{{ T "panZoom.zoomIn" }}"
+      aria-label="{{ T "panZoom.zoomIn" }}"
+    >
+      {{- partial "icon" "add" -}}
+    </button>
+    <button
+      class="o-pan-zoom__zoom-out"
+      data-pan-zoom="{{ .ID }}"
+      title="{{ T "panZoom.zoomOut" }}"
+      aria-label="{{ T "panZoom.zoomOut" }}"
+    >
+      {{- partial "icon" "remove" -}}
+    </button>
+    <button
+      class="o-pan-zoom__reset"
+      data-pan-zoom="{{ .ID }}"
+      title="{{ T "panZoom.resetZoom" }}"
+      aria-label="{{ T "panZoom.resetZoom" }}"
+    >
+      {{- partial "icon" "reset_focus" -}}
+    </button>
+  </div>
+</div>
