@@ -3,8 +3,19 @@
 }
 
 .o-dialog__wrapper--lightbox {
+  .o-dialog__wrapper {
+    width: 90dvw;
+    max-width: 90dvh;
+  }
+
   .o-dialog__body {
     padding: 0;
     overflow: hidden;
+    flex: 1;
+    display: flex;
+  }
+
+  .o-pan-zoom__wrapper {
+    flex: 1;
   }
 }
