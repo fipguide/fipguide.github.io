@@ -482,7 +482,7 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 {{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
 {{% booking id="gwr-website"
-subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
+  subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}

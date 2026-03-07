@@ -481,7 +481,7 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 {{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
 
 {{% booking id="gwr-website"
-subtitle="For all national operators (except night trains)"
+  subtitle="For all national operators (except night trains)"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
