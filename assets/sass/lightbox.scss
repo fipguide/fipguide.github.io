@@ -1,0 +1,10 @@
+.o-lightbox__trigger {
+  cursor: zoom-in;
+}
+
+.o-dialog__wrapper--lightbox {
+  .o-dialog__body {
+    padding: 0;
+    overflow: hidden;
+  }
+}

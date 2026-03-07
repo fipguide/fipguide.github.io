@@ -42,42 +42,8 @@
       </div>
       <div class="o-interactive-map">
         <h2 id="interactive-map">{{ T "interactiveMap.title" }}</h2>
-        <div
-          class="o-interactive-map__wrapper"
-          aria-labelledby="interactive-map"
-        >
-          <div
-            id="interactive-map__container"
-            class="o-interactive-map__container"
-          >
-            <p class="o-interactive-map--loading">
-              <em>{{ T "interactiveMap.loading" }}</em>
-            </p>
-          </div>
-          <div class="o-interactive-map__controls">
-            <button
-              class="o-interactive-map__zoom-in"
-              title="{{ T "interactiveMap.zoomIn" }}"
-              aria-label="{{ T "interactiveMap.zoomIn" }}"
-            >
-              {{ partial "icon" "add" }}
-            </button>
-            <button
-              class="o-interactive-map__zoom-out"
-              title="{{ T "interactiveMap.zoomOut" }}"
-              aria-label="{{ T "interactiveMap.zoomOut" }}"
-            >
-              {{ partial "icon" "remove" }}
-            </button>
-            <button
-              class="o-interactive-map__reset"
-              title="{{ T "interactiveMap.resetZoom" }}"
-              aria-label="{{ T "interactiveMap.resetZoom" }}"
-            >
-              {{ partial "icon" "reset_focus" }}
-            </button>
-          </div>
-        </div>
+        {{- $loadingContent := printf `<p class="o-interactive-map--loading"><em>%s</em></p>` (T "interactiveMap.loading") | safeHTML -}}
+        {{- partial "pan-zoom" (dict "ID" "interactive-map__container" "Content" $loadingContent) -}}
         <div class="o-interactive-map__legend">
           {{ range (slice "available" "unavailable" "pending") }}
             <div class="o-interactive-map__legend-item">

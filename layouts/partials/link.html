@@ -1,4 +1,5 @@
 {{- $url := .Destination -}}
+{{- $imageResource := partial "image-resource" (dict "Destination" $url "Page" .Page) -}}
 {{- if and (strings.HasPrefix $url "http") (not (strings.HasPrefix $url site.BaseURL)) -}}
   {{- /* Absolute links pointing to external pages, e.g. `https://example.com` */ -}}
   <a
@@ -41,6 +42,20 @@
   >
     {{- partial "icon" "call" -}}{{- .Text -}}
   </a>
+{{- else if and $imageResource (strings.HasPrefix $imageResource.MediaType.Type "image") -}}
+  {{- /* Internal image resources, e.g. `/operator/cd/file.png` */ -}}
+  {{- $lightboxID := printf "lightbox-%s" ($imageResource.RelPermalink | sha1) -}}
+  <span
+    class="o-link"
+    role="button"
+    tabindex="0"
+    aria-haspopup="dialog"
+    aria-label="{{ T "lightbox.open" }}"
+    data-dialog-trigger="{{ $lightboxID }}"
+  >
+    {{- .Text -}}{{- partial "icon" "image" -}}
+  </span>
+  {{- partial "lightbox" (dict "ID" $lightboxID "Image" $imageResource "Alt" .Text) -}}
 {{- else if .Page.Ref (dict "path" $url) -}}
   {{- /* Internal links, referenced by path (e.g. `/news/1`) */ -}}
   <a
