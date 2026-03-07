@@ -29,12 +29,12 @@ FIP Coupons and FIP 50 Tickets are valid with all listed railway companies, see 
 There are no classic train categories in Great Britain. Instead, services are operated by many different railway companies. Reservations are only required on night trains, but are sometimes recommended for long journeys. FIP is accepted by the following operators:
 
 {{% train-category
-  id="avanti-west-coast"
-  title="Avanti West Coast (VT)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=true
+id="avanti-west-coast"
+title="Avanti West Coast (VT)"
+type="highspeed"
+fip_accepted=true
+reservation_required=false
+reservation_possible=true
 %}}
 
 Avanti West Coast offers fast long-distance connections along the West Coast of Great Britain, including London, Manchester, and Glasgow.
@@ -44,11 +44,11 @@ In First Class, snacks, meals, and (alcoholic) drinks are served.
 {{% /train-category %}}
 
 {{% train-category
-  id="c2c"
-  title="c2c (CC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=false
+id="c2c"
+title="c2c (CC)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 c2c connects London Fenchurch Street with towns in South Essex, mainly serving commuters.
@@ -56,12 +56,12 @@ c2c connects London Fenchurch Street with towns in South Essex, mainly serving c
 {{% /train-category %}}
 
 {{% train-category
-  id="caledonian-sleeper"
-  title="Caledonian Sleeper (CS)"
-  type="sleeper"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+id="caledonian-sleeper"
+title="Caledonian Sleeper (CS)"
+type="sleeper"
+fip_accepted=true
+reservation_required=true
+reservation_possible=true
 %}}
 
 The Caledonian Sleeper is a night train between London and Scotland with sleeping, couchette, and seating cars. FIP Coupons only need to be valid for the day of arrival.[^2] \
@@ -69,11 +69,11 @@ The Caledonian Sleeper is a night train between London and Scotland with sleepin
 {{% /train-category %}}
 
 {{% train-category
-  id="chiltern-railways"
-  title="Chiltern Railways (CH)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="chiltern-railways"
+title="Chiltern Railways (CH)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Chiltern Railways offers regional connections between London Marylebone, Birmingham, and Aylesbury.
@@ -81,12 +81,12 @@ Chiltern Railways offers regional connections between London Marylebone, Birming
 {{% /train-category %}}
 
 {{% train-category
-  id="cross-country"
-  title="CrossCountry (XC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=true
+id="cross-country"
+title="CrossCountry (XC)"
+type="highspeed"
+fip_accepted=true
+reservation_required=false
+reservation_possible=true
 %}}
 
 CrossCountry offers long-distance connections between northeast, central, and southwest England, as well as Scotland and Wales. Trains connect cities such as Aberdeen, Birmingham, Bristol, Cardiff, Manchester, and Penzance, serving many regions beyond the main lines.
@@ -96,12 +96,12 @@ In First Class, snacks, meals, and (alcoholic) drinks are sometimes served.
 {{% /train-category %}}
 
 {{% train-category
-  id="east-midlands-railway"
-  title="East Midlands Railway (EM)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=partially
+id="east-midlands-railway"
+title="East Midlands Railway (EM)"
+type="highspeed"
+fip_accepted=true
+reservation_required=false
+reservation_possible=partially
 %}}
 
 East Midlands Railway connects London with the East Midlands and Yorkshire in regional and long-distance services.
@@ -109,11 +109,11 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
 {{% /train-category %}}
 
 {{% train-category
-  id="elizabeth-line"
-  title="Elizabeth Line (XR)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="elizabeth-line"
+title="Elizabeth Line (XR)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
@@ -125,11 +125,11 @@ Some Elizabeth Line stations are also served by London Underground lines. Ticket
 {{% /train-category %}}
 
 {{% train-category
-  id="gatwick-express"
-  title="Gatwick Express (GX)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="gatwick-express"
+title="Gatwick Express (GX)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Gatwick Express is a fast direct connection between London Victoria and Gatwick Airport.
@@ -137,12 +137,12 @@ Gatwick Express is a fast direct connection between London Victoria and Gatwick 
 {{% /train-category %}}
 
 {{% train-category
-  id="grand-central"
-  title="Grand Central (GC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=true
+id="grand-central"
+title="Grand Central (GC)"
+type="highspeed"
+fip_accepted=true
+reservation_required=false
+reservation_possible=true
 %}}
 
 Grand Central offers direct connections between London King’s Cross, Yorkshire, and northeast England, including Sunderland, Bradford, and York.
@@ -152,11 +152,11 @@ In First Class, snacks and drinks are served.
 {{% /train-category %}}
 
 {{% train-category
-  id="great-northern"
-  title="Great Northern (GN)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="great-northern"
+title="Great Northern (GN)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Great Northern offers commuter connections from London to Hertfordshire, Cambridgeshire, and beyond.
@@ -164,26 +164,26 @@ Great Northern offers commuter connections from London to Hertfordshire, Cambrid
 {{% /train-category %}}
 
 {{% train-category
-  id="greater-anglia"
-  title="Greater Anglia (LA)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=false
+id="greater-anglia"
+title="Greater Anglia (LA)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Greater Anglia runs from London Liverpool Street to the eastern counties of England and Norwich.
 
-On the mainline route between Norwich and London, first class passengers can collect snacks and drinks from the café bar free of charge on weekdays (Monday to Friday, including bank holidays).[^3]
+On the mainline route between Norwich and London, first class passengers can collect snacks and drinks from the café bar free of charge on weekdays (Monday to Friday, including bank holidays).[^6] Check the [availability and opening hours of the café bar](https://www.greateranglia.co.uk/travel-information/your-journey/catering) beforehand.
 
 {{% /train-category %}}
 
 {{% train-category
-  id="great-western-railway"
-  title="Great Western Railway (GWR/GW)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=partially
-  reservation_required=partially
+id="great-western-railway"
+title="Great Western Railway (GWR/GW)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=partially
+reservation_required=partially
 %}}
 
 Great Western Railway connects London Paddington with southwest England, South Wales, and Bristol in long-distance and regional services.
@@ -201,26 +201,26 @@ Reservations are required for the Night Riviera Sleeper.
 {{% /train-category %}}
 
 {{% train-category
-  id="heathrow-express"
-  title="Heathrow Express (HX)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="heathrow-express"
+title="Heathrow Express (HX)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. FIP Coupons and FIP 50 (or FIP 75) Tickets are accepted.
 
-At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^5]
+At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^4]
 
 {{% /train-category %}}
 
 {{% train-category
-  id="hull-trains"
-  title="Hull Trains (HT)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+id="hull-trains"
+title="Hull Trains (HT)"
+type="regional"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
 %}}
 
 Hull Trains offers direct connections between London King’s Cross and major cities in Yorkshire, including Hull, Doncaster, and Selby.
@@ -228,12 +228,12 @@ Hull Trains offers direct connections between London King’s Cross and major ci
 {{% /train-category %}}
 
 {{% train-category
-  id="london-north-eastern-railway"
-  title="London North Eastern Railway (LNER/GR)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+id="london-north-eastern-railway"
+title="London North Eastern Railway (LNER/GR)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
 %}}
 
 LNER operates long-distance trains along the East Coast from London to Edinburgh and York.
@@ -243,11 +243,11 @@ In First Class, snacks, meals, and (alcoholic) drinks are served.
 {{% /train-category %}}
 
 {{% train-category
-  id="london-overground"
-  title="London Overground (LO)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="london-overground"
+title="London Overground (LO)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 London Overground complements the Underground network as a kind of suburban railway, offering wide-area local connections in London. All London Overground lines are part of National Rail and can be used with FIP discounts. [^1]
@@ -255,12 +255,12 @@ London Overground complements the Underground network as a kind of suburban rail
 {{% /train-category %}}
 
 {{% train-category
-  id="lumo"
-  title="Lumo (LD)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+id="lumo"
+title="Lumo (LD)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=true
+reservation_required=false
 %}}
 
 Lumo operates long-distance trains between London King’s Cross, Newcastle, and Edinburgh.
@@ -268,11 +268,11 @@ Lumo operates long-distance trains between London King’s Cross, Newcastle, and
 {{% /train-category %}}
 
 {{% train-category
-  id="merseyrail"
-  title="Merseyrail (ME)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="merseyrail"
+title="Merseyrail (ME)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Merseyrail operates the local transport network in Liverpool and the Merseyside region.
@@ -280,11 +280,11 @@ Merseyrail operates the local transport network in Liverpool and the Merseyside 
 {{% /train-category %}}
 
 {{% train-category
-  id="northern"
-  title="Northern (NT)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="northern"
+title="Northern (NT)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Northern operates regional trains in northern England, from major cities to rural areas.
@@ -292,11 +292,11 @@ Northern operates regional trains in northern England, from major cities to rura
 {{% /train-category %}}
 
 {{% train-category
-  id="island-line"
-  title="Island Line (Isle of Wight) (IL)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="island-line"
+title="Island Line (Isle of Wight) (IL)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 The Island Line runs on the Isle of Wight and is operated by South Western Railway.
@@ -304,12 +304,12 @@ The Island Line runs on the Isle of Wight and is operated by South Western Railw
 {{% /train-category %}}
 
 {{% train-category
-  id="scot-rail"
-  title="ScotRail (SR)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=partially
-  reservation_required=false
+id="scot-rail"
+title="ScotRail (SR)"
+type="regional"
+fip_accepted=true
+reservation_possible=partially
+reservation_required=false
 %}}
 
 ScotRail covers the entire Scottish regional network, including the Highlands and the west coast.
@@ -317,11 +317,11 @@ ScotRail covers the entire Scottish regional network, including the Highlands an
 {{% /train-category %}}
 
 {{% train-category
-  id="south-western-railway"
-  title="South Western Railway (SWR)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="south-western-railway"
+title="South Western Railway (SWR)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 South Western Railway connects London Waterloo with southwest England and operates many commuter routes.
@@ -329,11 +329,11 @@ South Western Railway connects London Waterloo with southwest England and operat
 {{% /train-category %}}
 
 {{% train-category
-  id="southeastern-railway"
-  title="Southeastern Railway (SE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="southeastern-railway"
+title="Southeastern Railway (SE)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Southeastern Railway offers commuter and regional services from London to Kent and southeast England.
@@ -341,11 +341,11 @@ Southeastern Railway offers commuter and regional services from London to Kent a
 {{% /train-category %}}
 
 {{% train-category
-  id="southern"
-  title="Southern (SN)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="southern"
+title="Southern (SN)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Southern operates regional and commuter trains between London, Sussex, and Surrey.
@@ -353,11 +353,11 @@ Southern operates regional and commuter trains between London, Sussex, and Surre
 {{% /train-category %}}
 
 {{% train-category
-  id="stansted-express"
-  title="Stansted Express (LE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="stansted-express"
+title="Stansted Express (LE)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Stansted Express is the fast direct connection between London Liverpool Street and Stansted Airport.
@@ -365,11 +365,11 @@ Stansted Express is the fast direct connection between London Liverpool Street a
 {{% /train-category %}}
 
 {{% train-category
-  id="thameslink"
-  title="Thameslink (TL)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="thameslink"
+title="Thameslink (TL)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Thameslink offers continuous north-south connections through London, linking cities such as Bedford, Luton, St Albans, London, Gatwick Airport, Brighton, Cambridge, and Peterborough. Trains run around the clock and serve key interchange points and several London stations, including St Pancras International, London Bridge, and Blackfriars. Thameslink is especially suitable for journeys to Gatwick and Luton airports and for connections between northern and southern London suburbs.
@@ -377,12 +377,12 @@ Thameslink offers continuous north-south connections through London, linking cit
 {{% /train-category %}}
 
 {{% train-category
-  id="transpennine-express"
-  title="TransPennine Express (TPE/TP)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=partially
-  reservation_required=false
+id="transpennine-express"
+title="TransPennine Express (TPE/TP)"
+type="highspeed"
+fip_accepted=true
+reservation_possible=partially
+reservation_required=false
 %}}
 
 TransPennine Express connects northwest and northeast England as well as Scotland via the Pennines.
@@ -392,11 +392,11 @@ In First Class, snacks, meals, and (alcoholic) drinks are sometimes served.
 {{% /train-category %}}
 
 {{% train-category
-  id="transport-for-wales"
-  title="Transport for Wales (AW)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="transport-for-wales"
+title="Transport for Wales (AW)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 Transport for Wales operates regional and long-distance trains in Wales and the bordering regions of England.
@@ -404,11 +404,11 @@ Transport for Wales operates regional and long-distance trains in Wales and the 
 {{% /train-category %}}
 
 {{% train-category
-  id="west-midland-trains"
-  title="West Midlands Trains / London Northwestern Railway / West Midlands Railway (LM)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+id="west-midland-trains"
+title="West Midlands Trains / London Northwestern Railway / West Midlands Railway (LM)"
+type="regional"
+fip_accepted=true
+reservation_possible=false
 %}}
 
 West Midlands Trains operates local and regional services under two brands: London Northwestern Railway offers connections between London and the West Midlands, while West Midlands Railway serves regional routes within the West Midlands.
@@ -431,7 +431,7 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
   {{% expander "List of Available Rovers with FIP Discount" info "rover" %}}
-  This is an unofficial list of available Rovers provided by the community (as of 24 January 2026). [^4]
+  This is an unofficial list of available Rovers provided by the community (as of 24 January 2026). [^3]
 
   It can be used as guidance; however, individual offers should be verified via BR Fares.
 
@@ -473,7 +473,7 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}
-Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^6]
+Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^5]
 {{% /highlight %}}
 
 ### Online
@@ -481,7 +481,7 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 {{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
 
 {{% booking id="gwr-website"
-    subtitle="For all national operators (except night trains)"
+subtitle="For all national operators (except night trains)"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
@@ -509,11 +509,11 @@ Many stations in Great Britain have ticket barriers that must be opened with a t
 Most transport services in London are operated by Transport for London (TfL). These generally do not offer FIP discounts, except under special conditions. The [Elizabeth Line](#elizabeth-line) and [London Overground](#london-overground) can be used without restriction with FIP. Some regional trains such as [Thameslink](#thameslink), which run through London, can also be used with FIP Coupons. [Gatwick Express](#gatwick-express) and [Heathrow Express](#heathrow-express) can also be used.
 
 {{% train-category
-  id="london-buses-dlr-tram"
-  title="London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats"
-  type="bus"
-  fip_accepted=false
-  reservation_required=false
+id="london-buses-dlr-tram"
+title="London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats"
+type="bus"
+fip_accepted=false
+reservation_required=false
 %}}
 
 London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats are operated by TfL and do not accept FIP discounts. [^1]
@@ -521,11 +521,11 @@ London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cab
 {{% /train-category %}}
 
 {{% train-category
-  id="london-underground-london"
-  title="London Underground"
-  type="subway"
-  fip_accepted=false
-  reservation_required=false
+id="london-underground-london"
+title="London Underground"
+type="subway"
+fip_accepted=false
+reservation_required=false
 %}}
 
 The London Underground is operated by TfL and does not accept FIP discounts.
@@ -545,12 +545,12 @@ Heritage railways usually operate seasonal timetables and distinguish between re
 Regular child tickets may be cheaper than tickets with FIP discount.
 
 {{% train-category
-  id="dartmouth-steam-railway"
-  title="Dartmouth Steam Railway and River Boat Company"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://dartmouthrailriver.co.uk"
+id="dartmouth-steam-railway"
+title="Dartmouth Steam Railway and River Boat Company"
+type="regional"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
 
 The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The ferry from Kingswear to Dartmouth is included in the price. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
@@ -560,12 +560,12 @@ The discount is 75% off the regular adult fare.
 {{% /train-category %}}
 
 {{% train-category
-  id="ffestiniog-welsh-highland-railway"
-  title="Ffestiniog and Welsh Highland Railway"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://festrail.co.uk"
+id="ffestiniog-welsh-highland-railway"
+title="Ffestiniog and Welsh Highland Railway"
+type="regional"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://festrail.co.uk"
 %}}
 
 The Ffestiniog and Welsh Highland Railway is one of the oldest narrow-gauge railways in the world, connecting Porthmadog, Caernarfon, Blaenau Ffestiniog, and Minffordd. It runs through the stunning Snowdonia mountains. From Bangor National Rail station, take bus 5C (about 30 minutes) to Caernarfon Bus Station, then walk (4 minutes, 500 m) to the railway station. Direct connections also exist at Blaenau Ffestiniog (National Rail, platform 1), Minffordd (50 m walk), and Porthmadog (about 13 minutes walk, 1 km).
@@ -575,12 +575,12 @@ The discount is 75% off the regular adult fare.
 {{% /train-category %}}
 
 {{% train-category
-  id="isle-of-wight-steam-railway"
-  title="Isle of Wight Steam Railway"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://iwsteamrailway.co.uk"
+id="isle-of-wight-steam-railway"
+title="Isle of Wight Steam Railway"
+type="regional"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://iwsteamrailway.co.uk"
 %}}
 
 The Isle of Wight Steam Railway runs on the Isle of Wight between Smallbrook Junction and Wootton. It is known for lovingly restored Victorian locomotives and carriages. The easiest access is via Smallbrook Junction, with a direct transfer from National Rail (1 minute walk).
@@ -590,12 +590,12 @@ The discount is 50% off the regular adult fare.
 {{% /train-category %}}
 
 {{% train-category
-  id="kent-east-sussex-railway"
-  title="Kent and East Sussex Railway"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://kesr.org.uk"
+id="kent-east-sussex-railway"
+title="Kent and East Sussex Railway"
+type="regional"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://kesr.org.uk"
 %}}
 
 The Kent and East Sussex Railway runs from Tenterden to Bodiam through the hilly landscape of southeast England. The railway offers both steam and diesel trains. From Ashford International, take bus 2 or 2A (45–55 minutes, 20 km) to Tenterden Town Centre (The Vine), then walk (3 minutes, 250 m) to Tenterden Town station. Alternatively, from Headcorn, take bus 12 or 12RL (25 minutes).
@@ -605,12 +605,12 @@ The discount is 50% off the regular adult fare.
 {{% /train-category %}}
 
 {{% train-category
-  id="llanberis-lake-railway"
-  title="Llanberis Lake Railway"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://lake-railway.co.uk"
+id="llanberis-lake-railway"
+title="Llanberis Lake Railway"
+type="regional"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://lake-railway.co.uk"
 %}}
 
 The Llanberis Lake Railway runs along Llyn Padarn in the heart of Snowdonia National Park. The historic narrow-gauge railway offers beautiful views of the mountains around Llanberis. From Bangor station, take bus 85 or 86 (about 50 minutes) to Llanberis Interchange; from there, it is only 1 minute walk to the heritage railway station.
@@ -620,12 +620,12 @@ The discount is 50% off the regular adult fare.
 {{% /train-category %}}
 
 {{% train-category
-  id="national-tramway-museum"
-  title="National Tramway Museum (Crich Tramway Village)"
-  type="tram"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://tramway.co.uk"
+id="national-tramway-museum"
+title="National Tramway Museum (Crich Tramway Village)"
+type="tram"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://tramway.co.uk"
 %}}
 
 The National Tramway Museum in Crich houses one of the largest collections of historic trams in the world. Visitors can ride original restored trams on a route through the reconstructed village "Crich Tramway Village". From Matlock station, take bus 140 or 141 (about 32 minutes, 11 km), or walk from Whatstandwell (about 35 minutes, 2.2 km).
@@ -635,12 +635,12 @@ The discount is 2 people for the price of 1.
 {{% /train-category %}}
 
 {{% train-category
-  id="talyllyn-railway"
-  title="Talyllyn Railway Company"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
-  additional_information_url="https://talyllyn.co.uk"
+id="talyllyn-railway"
+title="Talyllyn Railway Company"
+type="regional"
+fip_accepted=partially
+reservation_possible=nil
+additional_information_url="https://talyllyn.co.uk"
 %}}
 
 The Talyllyn Railway is the oldest preserved narrow-gauge railway in the world still running on its original route. It runs from Tywyn Wharf to Nant Gwernol in Mid Wales. Tywyn National Rail station is only 350 m (4 minutes walk) from Wharf Station.
@@ -668,10 +668,10 @@ Great Britain can also be explored by night trains:
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
-[^3]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
+[^3]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
 
-[^4]: [FIP Guide Community Feedback Rovers](https://discord.com/channels/1250522473188032512/1452026899705368738/1464672406097625128)
+[^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
-[^5]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
+[^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
 
-[^6]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+[^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
