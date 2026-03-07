@@ -77,9 +77,6 @@
         >
           <a
             href="{{ .Permalink }}"
-            class="o-dropdown__link{{ if eq $.Site.Language .Language }}
-              o-dropdown__link--active
-            {{ end }}"
             {{ if eq $.Site.Language .Language }}aria-current="page"{{ end }}
           >
             {{ .Language.LanguageName }}
