@@ -27,7 +27,7 @@
     display: grid;
   }
 
-  &__button[aria-expanded="true"] + &__icon {
+  &__button[aria-expanded="true"] &__icon {
     transform: rotate(180deg);
   }
 
