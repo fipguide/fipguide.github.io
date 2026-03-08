@@ -1,3 +1,25 @@
+@keyframes dropdown-open-below {
+  from {
+    opacity: 0;
+    transform: translateY(-0.4rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes dropdown-open-above {
+  from {
+    opacity: 0;
+    transform: translateY(0.4rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .o-dropdown {
   position: relative;
 
@@ -86,15 +108,19 @@
     padding-left: 0;
     box-shadow: var(--box-shadow);
     border: var(--border-visible);
+    animation-duration: 0.2s;
+    animation-timing-function: ease;
 
     &--above {
       bottom: 100%;
       top: auto;
+      animation-name: dropdown-open-above;
     }
 
     &--below {
       top: 100%;
       bottom: auto;
+      animation-name: dropdown-open-below;
     }
 
     &--right {
