@@ -1,25 +1,25 @@
 ---
 date: "2026-02-22"
 draft: false
-title: "Tschechien: Weitere FIP-Einschränkungen der ČD"
-description: "Die České dráhy (ČD) hat die Einschränkungen für die FIP Nutzung in Tschechien ausgeweitet. Neue Regionen, höhere Aufschläge und mehr betroffene Zugkategorien."
+title: "Tchéquie : nouvelles restrictions FIP de ČD"
+description: "Les České dráhy (ČD) ont élargi les restrictions d’utilisation du FIP en Tchéquie. Nouvelles régions, suppléments plus élevés et davantage de catégories de trains concernées."
 country:
   - czechia
 operator:
   - cd
 ---
 
-In Tschechien hat die České dráhy (ČD) hat die Bedingungen für die Nutzung von FIP Vergünstigungen weiter eingeschränkt. Hintergrund sind neue öffentliche Ausschreibungen und ein zunehmender Konkurrenzdruck durch private Anbieter wie Leo Express und Regiojet.
+En Tchéquie, les České dráhy (ČD) ont encore restreint les conditions d’utilisation des avantages FIP. En cause : de nouveaux appels d’offres publics et une pression concurrentielle croissante de la part d’opérateurs privés tels que Leo Express et Regiojet.
 
-### Änderungen im Überblick
+### Aperçu des changements
 
-- Der Aufschlag für kommerzielle Verbindungen wurde von 125 CZK auf 250 CZK erhöht.
-- Während sich kommerzielle (zuschlagspflichtige) Verbindungen bisher hauptsächlich auf Verbindungen zwischen Prag und Ostrava beschränkt haben, sind jetzt auch viele Verbindungen zwischen Praha (Prag) und Ceske Budejovice (Budweis) sowie Ceske Budejovice (Budweis) und Plzen (Pilsen) betroffen.
-- Auch im Regionalverkehr sind zusätzliche Verbindungen betroffen. Insgesamt zählen dazu jetzt Züge im Raum Cheb (Eger), Karlovy Vary (Karlsbad) und Mariánské Lázně (Marienbad), einem Teilstück zwischen Praha (Prag) und Plzen (Pilsen), sowie südlich von Ostrava. Insgesamt ist auf deutlich mehr Verbindungen ein Zuschlag erforderlich.
-- Zusätzlich sind auch Zuschläge auf einigen Grenzübertritten erforderlich.
+- Le supplément pour les liaisons commerciales est passé de 125 CZK à 250 CZK.
+- Alors que les liaisons commerciales (avec supplément obligatoire) se limitaient principalement aux liaisons entre Prague et Ostrava, de nombreuses liaisons entre Praha (Prague) et České Budějovice ainsi qu’entre České Budějovice et Plzeň (Pilsen) sont désormais également concernées.
+- Des liaisons supplémentaires dans le trafic régional sont également concernées. Celles-ci incluent désormais des trains dans la zone de Cheb (Eger), Karlovy Vary (Carlsbad) et Mariánské Lázně (Marienbad), un tronçon entre Praha (Prague) et Plzeň (Pilsen), ainsi qu’au sud d’Ostrava. Au total, un supplément est désormais nécessaire sur un nombre nettement plus important de liaisons.
+- Des suppléments sont également requis sur certains passages frontaliers dans le trafic régional.
 
-Die Regeln für FIP in Tschechien sind deutlich komplexer geworden. Wir empfehlen, die neuen Regeln auf der [ČD Seite im FIP Guide](/operator/cd) zu lesen. Dort sind alle betroffenen Züge und Regionen im Detail aufgeführt.
+Les règles du FIP en Tchéquie sont devenues nettement plus complexes. Nous recommandons de consulter les nouvelles règles sur la [page ČD du FIP Guide](/operator/cd). Tous les trains et régions concernés y sont détaillés.
 
-Für einen einfachen und schnellen Überblick lohnt sich auch ein Blick auf die [FIP Gültigkeitskarte für Tschechien](/operator/cd#gültigkeit-fip-tickets). Dort sind die neuen Einschränkungen bereits eingearbeitet.
+Pour un aperçu rapide et simple, la [carte de validité FIP pour la Tchéquie](/operator/cd#validité-des-billets-fip) mérite également un coup d’œil. Les nouvelles restrictions y sont déjà intégrées.
 
-Zum Fahrplanwechsel Ende 2026 werden weitere Einschränkungen der FIP Gültigkeit erwartet, da auf einigen Strecken der Betreiber in Tschechien wechselt.
+D’autres restrictions de la validité FIP sont attendues lors du changement d’horaire fin 2026, car des changements d’opérateurs sont prévus sur certaines lignes en Tchéquie.

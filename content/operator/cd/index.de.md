@@ -449,7 +449,7 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
 | --- | --- | --- | --- |
 | P2 | Středočeský (Mittelböhmen) | 170 | Beroun – Kařez (nur in `Os`) |
 | P1 West | Karlovarský (Karlsbad) | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`) |
-| S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os` in folgenden Zügen: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
+| S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=17)
 
