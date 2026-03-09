@@ -20,17 +20,19 @@ Bookings by phone are possible via the SNCF hotline:
 Booking is available in French and English. You will need to provide credit card details, personal information, and an email address.
 
 At the end of the menu options presented in French, you can be connected to an English-speaking agent by pressing #85.
-In the next language menu, select “Voyages/Journey” by pressing 1.
-In the following menu, select “Voyages on TGV” by pressing 1.
 
-A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card (Visa, Eurocard, or American Express). Before giving the card number, inform the agent of the card type. No additional booking fee applies for FIP tickets.
+In the next language menu, press 1. You will then be informed that the call may be recorded. Press \* to opt out.
+
+A spelling alphabet can help when providing names and addresses.
+
+Payment is only possible by credit card (Visa, Eurocard, or American Express). For payment, you will be redirected to an automated payment process where you must enter the card number, expiry date, and security code using the keypad. Afterwards, you will be reconnected to the agent, who will confirm that the payment was successful.
+
+No additional booking fee applies for FIP tickets.
 
 Once tickets or reservations are confirmed, a PNR (booking confirmation) and the eTicket will be sent by email. When traveling by train, you must present the eTicket together with the FIP Coupon or FIP Card.
 
 {{% highlight tip %}}
-To avoid waiting times, you can schedule a callback appointment on the [SNCF website](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). You can provide your name and email address in advance, so you do not need to spell them over the phone. You can also specify your desired connection and indicate the FIP discount in the free text field.
-
-SNCF sometimes refers to these as: \
+SNCF sometimes refers to FIP discounts as:
 _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
 {{% /highlight %}}
