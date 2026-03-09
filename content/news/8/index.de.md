@@ -1,5 +1,5 @@
 ---
-date: "2026-02-22"
+date: "2026-03-09"
 draft: false
 title: "Tschechien: Weitere FIP-Einschränkungen der ČD"
 description: "Die České dráhy (ČD) hat die Einschränkungen für die FIP Nutzung in Tschechien ausgeweitet. Neue Regionen, höhere Aufschläge und mehr betroffene Zugkategorien."
