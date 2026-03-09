@@ -11,7 +11,7 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechis
 ## Zusammenfassung
 
 - FIP 50 und FIP Freifahrtscheine werden akzeptiert
-- Reservierungspflicht nur in SuperCitys und einige Intercitys
+- Reservierungspflicht nur in SuperCitys und einigen Intercitys
 - Aufschläge für _kommerzielle Züge_
 - In einigen Regionen gilt kein FIP in ausgewählten Zügen der ČD (Pilsen und Brno)
 
@@ -26,18 +26,26 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. B
 {{< highlight important >}}
 
 {{< float-image
-src="cd-fip-map-26.webp"
-alt="FIP Gültigkeitskarte für Tschechien"
-caption="[FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-26.webp) für Tschechien (Petr Duda)"
-width="30%"
+src="cd-fip-map-overview-26.webp"
+alt="FIP Gültigkeitskarte Überblick für Tschechien"
+caption="[Überblick FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)"
+width="40%"
 position="left" >}}
 
 Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Verbindungen von der ČD betrieben werden. Teilweise sind Strecken auch zuschlagspflichtig.
 
-Als Orientierungshilfe kann die [FIP Gültigkeitskarte für Tschechien](/en/operator/cd/cd-fip-map-26.webp) genutzt werden.
+Für einen ersten Eindruck, kann die Übersichtskarte für FIP Vergünstigungen in Tschechien genutzt werden.
+{{< /float-image >}}
+
+{{< float-image
+src="cd-fip-map-detail-26.webp"
+alt="FIP Gültigkeitskarte Detail für Tschechien"
+caption="[Detail FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)"
+width="40%"
+position="left" >}}
+Für detaillierte Informartionen kann die Detailkarte für FIP Vergünstigungen genutzt werden.
 
 Weitere Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip) und [ČD kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig)
-
 {{< /float-image >}}
 
 {{< /highlight >}}
@@ -249,23 +257,23 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
-Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC`, `IC` und `R` Züge. [^3]
+Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC`, `IC` und `R`. [^3]
 
-Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
+Als Orientierung können die [FIP Gültigkeitskarten für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
 
-Detailliert betroffen sind folgende Verbindungen:
+Betrofene Verbindungen im Detail:
 
 **Fernzüge (EC, IC, SC, EN, NJ, R):**
 
-- Praha (Prag) - Ostrava [ - Bohumín]
-- Linie Ex7 / R17: Praha (Prag) - České Budějovice (Budweis) - Horní Dvořiště
-- Linie R31: Plzeň (Pilsen) - České Budějovice (Budweis)
+- Praha (Prag) – Ostrava [– Bohumín]
+- Linie Ex7 / R17: Praha (Prag) – České Budějovice (Budweis) – Horní Dvořiště
+- Linie R31: Plzeň (Pilsen) – České Budějovice (Budweis)
 
-[Vollständige Liste 2026 - Fernzüge ansehen](dialog:commercial-supplement-long-distance)
+[Vollständige Liste 2026 – Fernzüge ansehen](dialog:commercial-supplement-long-distance)
 
 {{% dialog
   id="commercial-supplement-long-distance"
-  title="ČD kommerzielle Verbindungen 2026 - Fernzüge"
+  title="ČD kommerzielle Verbindungen 2026 – Fernzüge"
 %}}
 | Zugnummer | Zugname | Von | Nach |
 | --------- | ----------------- | ---------------------- | -------------------- |
@@ -332,8 +340,8 @@ Detailliert betroffen sind folgende Verbindungen:
 | R 646 | Dny NATO | Mošnov, Ostr.Airport | Brno hl.n. |
 | R 647 | Dny NATO | Brno hl.n. | Mošnov, Ostr.Airport |
 
-IC 546 \*: Kommerzieller Zugverkehr an Sonntagen und am 27.12., 4.4., 2.5., 9.5.; ausgenommen 24.12., 3.4., 1.5, 8.5., 28.10., 17.11. \
-IC 547 \*\*: Kommerzieller Zugverkehr an Samstagen und am 24. – 26., 31.12., 3. – 5.4., 1., 8.5., 5.7., 27.9.
+\* IC 546: Kommerzieller Zugverkehr an Sonntagen und am 27.12., 4.4., 2.5., 9.5.; ausgenommen 24.12., 3.4., 1.5, 8.5., 28.10., 17.11. \
+\*\* IC 547: Kommerzieller Zugverkehr an Samstagen und am 24. – 26., 31.12., 3. – 5.4., 1., 8.5., 5.7., 27.9.
 
 **Andere Fernverkehrslinien - R17, Ex7, R31**
 
@@ -431,17 +439,17 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
 - Zwischen Karlovy Vary (Karlsbad), Cheb (Eger), Mariánské Lázně (Marienbad) und Chodová Planá
 - Einem Teilstück zwischen Plzeň (Pilsen) und Praha (Prag)
 
-[Vollständige Liste 2026 - Regionalzüge ansehen](dialog:commercial-supplement-short-distance)
+[Vollständige Liste 2026 – Regionalzüge ansehen](dialog:commercial-supplement-short-distance)
 
 {{% dialog
   id="commercial-supplement-short-distance"
-  title="ČD kommerzielle Verbindungen 2026 - Regionalzüge"
+  title="ČD kommerzielle Verbindungen 2026 – Regionalzüge"
 %}}
 | Linie | Region | Strecke | Streckenabschnitt und Züge |
 | --- | --- | --- | --- |
 | P2 | Středočeský (Mittelböhmen) | 170 | Beroun – Kařez (nur in `Os`) |
 | P1 West | Karlovarský (Karlsbad) | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`) |
-| S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur an Werktagen), 3101, 3103, 3104 (nur an Wochenenden), 3105 (nur an Werktagen), 3106, 3107, 3108, 3109, 3110, 3111, 3112, 3113, 3114, 3115, 3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, 3128, 3129, 3130, 3131, 3132, 3133 (nur an Wochenenden), 3134, 3135, 3136 (nur an Werktagen), 3137 (nur an Wochenenden), 3138, 3140 (nur an Sonntagen), 3141, 3142 (nur an Wochenenden), 3150, 3152, 3153, 3154, 3155, 3156, 3157, 3158, 3159, 3160, 3161, 3163, 3164, 3165, 3168 |
+| S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os` in folgenden Zügen: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=17)
 
@@ -456,27 +464,27 @@ Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazel
 - Břeclav – Břeclav Gr.
 - České Velenice – Gmünd Gr.
 
-[Vollständige Liste 2026 - Grenzübergänge ansehen](dialog:commercial-supplement-border-crossings)
+[Vollständige Liste 2026 – Grenzübergänge ansehen](dialog:commercial-supplement-border-crossings)
 
 {{% dialog
     id="commercial-supplement-border-crossings"
-    title="ČD kommerzielle Verbindungen 2026 - Grenzübergänge"
+    title="ČD kommerzielle Verbindungen 2026 – Grenzübergänge"
 %}}
 
-| Typ | Zugnummer(n)           | Streckenabschnitt                                  |
-| --- | ---------------------- | -------------------------------------------------- |
-| Os  | 20980–20990            | im Abschnitt Vojtanov – Vojtanov Gr. und zurück    |
-| Os  | 2206–2291              | im Abschnitt Znojmo – Unterretzbach Gr. und zurück |
-| Os  | 2960–2969              | im Abschnitt Bohumín – Bohumín Gr. und zurück      |
-| Os  | 2300–2379; 22300–22379 | im Abschnitt Břeclav – Břeclav Gr. und zurück      |
-| Os  | 320–326; 2102–2192     | im Abschnitt České Velenice – Gmünd Gr. und zurück |
+| Typ | Zugnummer(n)               | Streckenabschnitt          |
+| --- | -------------------------- | -------------------------- |
+| Os  | 20980 – 20990              | Vojtanov – Vojtanov Gr.    |
+| Os  | 2206 – 2291                | Znojmo – Unterretzbach Gr. |
+| Os  | 2960 – 2969                | Bohumín – Bohumín Gr.      |
+| Os  | 2300 – 2379; 22300 – 22379 | Břeclav – Břeclav Gr.      |
+| Os  | 320 – 326; 2102 – 2192     | České Velenice – Gmünd Gr. |
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 15)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
 
 Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazeleznic.cz/documents/50004227/184412001/mapa+KJ%C5%98.pdf/842ee5f5-0d77-4f0b-b601-927d63aab022) zu finden.
 {{% /dialog %}}
 
-Für Reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
+Für reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
 
 Der Zuschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter oder im Zug (bitte das Zugpersonal direkt aufsuchen) gekauft werden. Die Gültigkeit des Zuschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3]
 
@@ -501,7 +509,7 @@ Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie
 
 Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
 
-Detailliert betroffen sind folgende Regionen:
+Betrofene Regionen im Detail:
 
 #### Regionalzüge in der Region Süd-Mähren (Brno)
 
@@ -511,7 +519,7 @@ FIP Vergünstigungen sind in Regionalzügen in Süd-Mähren (Brno) nicht gültig
 
 {{% dialog
     id="no-fip-south-moravia"
-    title="ČD Verbindungen ohne FIP 2026 - Süd-Mähren (Brno)"
+    title="ČD Verbindungen ohne FIP 2026 – Süd-Mähren (Brno)"
 %}}
 
 | Linie | Strecke  | Streckenabschnitt und Züge                                                           |
@@ -539,7 +547,7 @@ FIP Vergünstigungen sind in Regionalzügen der Linien P1 West und P2 im Raum Pi
 
 {{% dialog
     id="no-fip-pilsen"
-    title="ČD Verbindungen ohne FIP 2026 - Pilsen (Plzeňský kraj)"
+    title="ČD Verbindungen ohne FIP 2026 – Pilsen (Plzeňský kraj)"
 %}}
 
 ### Linie P2
