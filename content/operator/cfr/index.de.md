@@ -109,9 +109,9 @@ Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedene
 
 #### Reservierung
 
-Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet), wobei hier kein konkreter Sitzplatz verkauft wird.
+Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
 
-**Kosten für Reservierung:** 1 RON (zum Festpreis und nur über die CFR Călători buchbar)
+**Kosten für Reservierung:** 1 RON
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
