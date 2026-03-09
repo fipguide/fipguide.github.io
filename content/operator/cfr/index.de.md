@@ -37,6 +37,10 @@ Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genu
 %}}
 Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise höherem Komfort. Sie fahren hauptsächlich von Bukarest aus in die verschiedenen Richtungen des Landes.
 
+{{% highlight confusion %}}
+Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
+{{% /highlight %}}
+
 #### Reservierung
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
@@ -52,6 +56,10 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     reservation_required=true
 %}}
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Teilweise verkehren sie auch grenzüberschreitend, insbesondere nach Ungarn.
+
+{{% highlight confusion %}}
+Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
+{{% /highlight %}}
 
 #### Reservierung
 
@@ -71,11 +79,17 @@ Meist internationale Züge, die über Nacht verkehren. Sie werden in der Verbind
 
 Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
+{{% highlight confusion %}}
+Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
+{{% /highlight %}}
+
 #### Reservierung
 
 Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schlafplatz. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
 **Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
+
+Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
 
 {{% train-category
@@ -89,11 +103,17 @@ Internationale Züge nach Bulgarien, Moldau und der Ukraine verkehren ohne eigen
 
 Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
+{{% highlight confusion %}}
+Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
+{{% /highlight %}}
+
 #### Reservierung
 
 Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindungsauskunft). Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
 **Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
+
+Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
 
 {{% train-category
@@ -104,6 +124,10 @@ Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindun
     reservation_required=partially
 %}}
 Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedenen Züge auf einer Strecke oft kein festes Halteschema, d. h. die kleineren Halte werden nur von manchen `R` Zügen angefahren.
+
+{{% highlight confusion %}}
+Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
+{{% /highlight %}}
 
 #### Reservierung
 
@@ -131,10 +155,6 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 ## Ermäßigungen
 
 Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 10 Jahren erhalten eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
-
-## Tarifliche Besonderheiten
-
-Uns sind bis auf die umfängliche Reservierungspflicht keine Besonderheiten bekannt.
 
 ## Empfehlungen
 

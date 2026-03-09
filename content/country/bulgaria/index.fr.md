@@ -27,7 +27,7 @@ Les points forts de la ligne sont, d’une part, les itinéraires nord–sud tra
 | Pays | Points frontières |
 | --- | --- |
 | Grèce (TrainOSE) | Kulata (fr) (bulgare : Кулата), Svilengrad (fr) (bulgare : Свиленград) |
-| Roumanie (CFR) | Ruse (fr) (bulgare : Русе), Vidin (fr) |
+| [Roumanie](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (bulgare : Русе), Vidin (fr) |
 | Serbie (SV) | Dimitrovgrad (fr) (bulgare : Цариброд, Tsaribrod) |
 | Turquie (TCDD) | Kapikule (fr) |
 {{% /expander %}}

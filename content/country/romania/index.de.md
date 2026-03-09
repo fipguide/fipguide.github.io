@@ -14,7 +14,9 @@ params:
 
 ## FIP Nutzung
 
-Rumänien lässt sich mit FIP insgesamt gut bereisen. Auf den Hauptrouten fährt größtenteils die rumänische Staatsbahn [CFR Călători](/operator/cfr "CFR"), bei der FIP Freifahrtscheine und FIP 50 Tickets buchbar sind. Zu beachten ist, dass auf einigen Routen auch parallel andere Anbieter verkehren, die nicht mit FIP genutzt werden können. Reservierungen sind auf den meisten Routen verpflichtend, diese sind jedoch vergleichsweise günstig. Für FIP 50 Tickets und Reservierungen ist oft der stationäre Fahrkartenschalter der einzige Ort, an dem diese erworben werden können. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten an speziell dafür ausgelegten Fahrkartenschaltern an größeren Bahnhöfen.
+Rumänien lässt sich mit FIP insgesamt gut bereisen. Auf den Hauptrouten fährt größtenteils die rumänische Staatsbahn [CFR Călători](/operator/cfr "CFR"), bei der FIP Freifahrtscheine und FIP 50 Tickets buchbar sind. Zu beachten ist, dass auf einigen Routen auch parallel andere Anbieter verkehren, die nicht mit FIP genutzt werden können.
+
+Reservierungen sind auf den meisten Routen verpflichtend, diese sind jedoch vergleichsweise günstig. Für FIP 50 Tickets und Reservierungen ist oft der stationäre Fahrkartenschalter der einzige Ort, an dem diese erworben werden können. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten an speziell dafür ausgelegten Fahrkartenschaltern an größeren Bahnhöfen.
 
 {{< identify-operator sources="cfr-website,cfr-international-website,db-website,vagonweb" />}}
 
@@ -31,7 +33,7 @@ Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwis
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| Bulgarien (BDŽ) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
+| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
 | Moldau (CFM) | Iasi, Ungheni (fr) |
 | Serbien (SV) | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац) |
 | Ukraine (UZ) | Vicsani (fr) |
@@ -41,7 +43,9 @@ Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwis
 
 ### Bulgarien
 
-Zwischen Rumänien und Bulgarien verkehren täglich wenige Züge. Vor allem in der Sommersaison haben diese Züge Relevanz, da es dann ein durchgängiges Zugpaar pro Tag zwischen den beiden Hauptstädten Bukarest und Sofia bzw. per Kurswagen ans schwarze Meer nach Varna und sogar über Nacht ins türkische Istanbul gibt. Außerhalb der Saison verkehrt dieses Zugpaar nur zwischen Bukarest und Ruse, dem ersten Halt in Bulgarien. Dort ist ein Umstieg nötig. Um mit FIP diese grenzüberschreitenden Züge zu nutzen, wird entweder ein FIP Freifahrtschein beider Länder oder ein durchgängiges FIP 50 Ticket benötigt. Darüber hinaus ist eine durchgängige Reservierung verpflichtend. Außerhalb der Sommersaison reicht diese für den bulgarischen Abschnitt ab Ruse. Für den Nachtzug kann darüber hinaus auch ein aufpreispflichtiger Platz im Liege- oder Schlafwagen reserviert werden.
+Zwischen Rumänien und Bulgarien verkehren täglich wenige Züge. Vor allem in der Sommersaison haben diese Züge Relevanz, da es dann ein durchgängiges Zugpaar pro Tag zwischen den beiden Hauptstädten Bukarest und Sofia bzw. per Kurswagen ans schwarze Meer nach Varna und sogar über Nacht ins türkische Istanbul gibt. Außerhalb der Saison verkehrt dieses Zugpaar nur zwischen Bukarest und Ruse, dem ersten Halt in Bulgarien. Dort ist ein Umstieg nötig.
+
+Um mit FIP diese grenzüberschreitenden Züge zu nutzen, wird entweder ein FIP Freifahrtschein beider Länder oder ein durchgängiges FIP 50 Ticket benötigt. Darüber hinaus ist eine durchgängige Reservierung verpflichtend. Außerhalb der Sommersaison reicht diese für den bulgarischen Abschnitt ab Ruse. Für den Nachtzug kann darüber hinaus auch ein aufpreispflichtiger Platz im Liege- oder Schlafwagen reserviert werden.
 
 Eine weitere tägliche Verbindung zwischen den beiden Ländern existiert über den Grenzübergang Vidin. Hier wird täglich vom bulgarischen Vidin ins rumänische Craiova gefahren. Auf dieser Verbindung reichen FIP Freifahrtscheine beider Länder bzw. ein durchgängiges FIP 50 Ticket aus.
 
@@ -59,4 +63,4 @@ Es wurden in der Vergangenheit immer mal wieder direkte Züge über die ukrainis
 
 ### Ungarn
 
-Die meisten internationalen Verbindungen nach Rumänien kommen aus Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte ´Dacia´, der vom österreichischen Wien kommend über Budapest nach Bukarest fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV (wenn aus Österreich gefahren wird ist auch noch ÖBB nötig) vorhanden sein.
+Die meisten internationalen Verbindungen nach Rumänien kommen aus Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte _Dacia_, der vom österreichischen Wien kommend über Budapest nach Bukarest fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV vorhanden sein (wenn aus Österreich gefahren wird ist auch noch ein Ticket für den Abschnitt der ÖBB notwendig).
