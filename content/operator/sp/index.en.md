@@ -416,13 +416,13 @@ FIP is only partially valid on the routes listed below; on the other routes neit
     fip_accepted=partially
     reservation_required=false
 %}}
-RBS is a regional transport company and operates four metre-gauge railway lines in the cantons of Bern and Solothurn. These are partly integrated into the Bern S-Bahn. FIP is recognized on all routes, except for the S9 and tram line 6. In addition, RBS also operates bus lines on which FIP is fully recognized.
+RBS is a regional transport company and operates four metre-gauge railway lines in the cantons of Bern and Solothurn. These are partly integrated into the Bern S-Bahn. FIP is recognized on all routes, except for the S9 and tram line 6. In addition, RBS also operates bus lines on which FIP is fully recognized. [^2]
 
 #### Scheduled routes
 
 ##### Routes with FIP validity
 
-- Bern – Solothurn (RE 5)
+- Bern – Solothurn (RE5)
 - Bern – Worb Dorf (S7)
 - Bern – Bätterkinden (S8)
 - All RBS buses
@@ -915,3 +915,5 @@ When traveling with a Coupon, it is advisable, if possible, also to have the Cou
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)
