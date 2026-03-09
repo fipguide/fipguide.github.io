@@ -203,4 +203,4 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 
 [^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
 
-[^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/tickets-and-railcards/child)
+[^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)

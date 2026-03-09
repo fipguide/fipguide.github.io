@@ -204,4 +204,4 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 
 [^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
 
-[^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/child)
+[^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/products/child)

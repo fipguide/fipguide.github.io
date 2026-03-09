@@ -205,4 +205,4 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 
 [^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
 
-[^3]: [SNCB Child Policy](https://www.belgiantrain.be/en/tickets-and-railcards/child)
+[^3]: [SNCB Child Policy](https://www.belgiantrain.be/en/products/child)
