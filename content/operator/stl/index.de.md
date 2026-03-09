@@ -9,7 +9,7 @@ operator: "stl"
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich ([Vereinigtes Königreich](/country/united-kingdom)) und Hoek van Holland ([Niederlande](/country/netherlands)) wird im Kontext von FIP als Stena Line BV (StL) genannt.
 
-Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betreiber Stena Line Limited (SLL) betrieben.
+Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betreiber [Stena Line Limited (SLL)](/operator/sll) betrieben.
 
 ## Zusammenfassung
 
@@ -141,11 +141,11 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 ### Online
 
-{{% booking id="stena-line-email" /%}}
+{{% booking id="stena-line-bv-email" /%}}
 
 ### Telefon
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### Vor Ort
 
@@ -156,6 +156,12 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 ## Ermäßigungen
 
 Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 14 Jahren zahlen sie den Erwachsenen-Tarif. [^2]
+
+{{% highlight tip %}}
+Stena Line und bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+
+[Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}
 
 ## Empfehlungen
 

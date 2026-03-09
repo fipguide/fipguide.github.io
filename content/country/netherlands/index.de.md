@@ -66,4 +66,10 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Ne
 
 Von London St. Pancras verkehren durchgängige [Eurostar](/operator/eurostar "Eurostar") Züge nach Amsterdam und Rotterdam. Die Eurostar Züge sind immer reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
 
-Zusätzlich verkehrt ab Harwich eine [Fährverbindung](/operator/stl "Fährverbindung") nach Hoek van Holland, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die von Hoek van Holland in Richtung Rotterdam / Nesselande verkehrende RET Metro keine FIP Vergünstigungen gewährt.
+Zusätzlich verkehrt ab Harwich eine [Fährverbindung von Stena Line BV](/operator/stl) nach Hoek van Holland, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die von Hoek van Holland in Richtung Rotterdam / Nesselande verkehrende RET Metro keine FIP Vergünstigungen gewährt.
+
+{{% highlight tip %}}
+Stena Line und bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+
+[Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}

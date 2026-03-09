@@ -56,9 +56,16 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 
 ### Travel between the United Kingdom and Northern Ireland
 
-Northern Ireland is part of the United Kingdom but is served by its own railway company (NIR). Due to the separation by the Irish Sea, there are no direct train connections between Northern Ireland and the rest of the United Kingdom. Instead, there are ferry connections that can be used with FIP.
+Northern Ireland is part of the United Kingdom but is served by its own railway company (NIR). Due to the separation by the Irish Sea, there are no direct train connections between Northern Ireland and the rest of the United Kingdom. Instead, there are [ferry connections with Stena Line Limited](/operator/sll), which can be used with FIP.
 
-From Belfast, Stena Line ferries operate to Cairnryan in Scotland and Liverpool in England. Stena Line ferry connections can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets. Alternatively, [_Rail & Sail_](https://www.seat61.com/train-and-ferry-to-belfast.htm) tickets are offered, which allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+From Belfast, Stena Line ferries operate to Cairnryan in Scotland and Liverpool in England. Stena Line ferry connections can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
+
+{{% highlight tip %}}
+Stena Line and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+
+- [Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Information at Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}
 
 ### France and Belgium
 
@@ -70,10 +77,17 @@ From Calais, there is also the LeShuttle car train through the Eurotunnel, but n
 
 From Amsterdam and Rotterdam, direct [Eurostar](/operator/eurostar "Eurostar") trains run to London St. Pancras. Alternatively, [Eurostar Red](/operator/eurostar "Eurostar Red") and [Eurocity](/operator/ns#train-categories-and-reservations "Eurocity") trains run to Brussels Midi (Belgium), where you can transfer to a [Eurostar Blue](/operator/eurostar "Eurostar Blue") train to London St. Pancras. Eurostar trains always require reservations and FIP Global Fare tickets must be purchased.
 
-Additionally, there is a [ferry connection](/operator/stl "ferry connection") from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
+Additionally, there is a [ferry connection from Stena Line BV](/operator/stl) from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
 
 ### Ireland
 
-From Dublin and Rosslare, Irish Ferries and Stena Line ferries operate to Holyhead and Fishguard in Wales. Stena Line ferry connections can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets. Alternatively, [_Rail & Sail_](https://www.seat61.com/train-and-ferry-to-belfast.htm) tickets are offered, which allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+From Dublin and Rosslare, Irish Ferries and Stena Line ferries operate to Holyhead and Fishguard in Wales. Ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
+
+{{% highlight tip %}}
+Stena Line and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+
+- [Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Information at Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}
 
 From Dublin, the Enterprise train also runs to Belfast in Northern Ireland, which can be used at a discount with FIP. To use this train, a FIP Coupon for Ireland (CIE) and Northern Ireland (NIR) or a through FIP 50 Ticket is required.

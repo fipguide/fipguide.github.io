@@ -1,12 +1,15 @@
 ---
 draft: false
-title: "Stena Line e-Mail"
-description: "Informations relatives à la réservation par e-mail auprès de Stena Line"
+title: "Stena Line BV e-Mail"
+description: "Informations relatives à la réservation par e-mail auprès de Stena Line BV"
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
   type: "email"
+
+aliases:
+  - stena-line-email
 ---
 
 La réservation auprès de Stena Line peut être effectuée facilement par e-mail. Pour cela, il suffit d'envoyer un e-mail en anglais ou en néerlandais à [contact.nl@stenaline.com](mailto:contact.nl@stenaline.com).

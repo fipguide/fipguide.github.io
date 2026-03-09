@@ -10,7 +10,7 @@
     (dict
     "image" $image
     "alt" $alt
-    "caption" $caption
+    "caption" ($caption | $.Page.RenderString)
     "width" $width
     "Page" .Page
     )

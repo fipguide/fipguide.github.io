@@ -6,7 +6,6 @@ description: "Buchungsinformationen für die NS Ticketschalter."
 params:
   fip_50: true
   reservations: true
-  fee: "7,50 € pro Person*"
   additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
   type: "onsite"
 
@@ -14,35 +13,43 @@ aliases:
   - ns_ticket_office
 ---
 
-\* Bei der Buchung wird eine Gebühr von 7,50 € pro Person (maximal 22,50 € pro Buchung) fällig. Für Mitarbeitende der NS entfällt diese Gebühr. Ob Mitarbeitende anderer Bahngesellschaften ebenfalls von der Gebühr bereit sind, ist nicht bekannt.
-
-FIP Tickets und internationale Reservierungen können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies:
+Internationale FIP Tickets und Reservierungen können nur an NS International Fahrkartenschaltern erworben werden. Stand Februar 2026 sind dies die Fahrkartenschalter in den folgenden Bahnhöfen:
 
 <!-- prettier-ignore -->
-- Amsterdam Centraal
-- Amsterdam Sloterdijk
-- Amsterdam Zuid
+- Amsterdam (Westlicher Eingang der Haupthalle - Taxis)
+- Amsterdam (Flussseite)
 - Arnhem Centraal
-- Breda
-- Den Haag Centraal
-- Eindhoven Centraal
-- Enschede
-- Haarlem
-- Leeuwarden
-- Leiden Centraal
-- Maastricht
 - Rotterdam Centraal
-- Schiphol Airport
+- Schiphol Airport (Haupthalle)
 - Utrecht Centraal
-- Zaandam
-- Zwolle
 {.o-section--columns-3}
+
+Weitere Informationen bei [NS International](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
 
-FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden.
+FIP 50 Tickets für die Niederlande können an NS Ticketschaltern erworben werden. Stand Februar 2026 sind dies die Fahrkartenschalter in den folgenden Bahnhöfen:
+
+<!-- prettier-ignore -->
+- Amsterdam Centraal (Westlicher Eingang der Haupthalle - Taxis)
+- Amsterdam Centraal (Flussseite)
+- Amsterdam Schiphol
+- Amsterdam Sloterdijk
+- Arnhem
+- Breda
+- Den Haag Centraal
+- Den Haag HS
+- Eindhoven Centraal (Stadtseite)
+- Leeuwarden
+- Leiden Centraal
+- Maastricht
+- Rotterdam Centraal
+- Utrecht Centraal (Stadtseite)
+- Zaandam
+- Zwolle
+{.o-section--columns-3}
 
 {{% /booking-section %}}
 
@@ -50,5 +57,5 @@ FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenscha
 
 ## Reservierungen
 
-Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind verkauft die NS nur internationale Reservierungen an Full-Service (Light) Bahnhöfen.
+Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind, verkauft die NS nur internationale Reservierungen an NS International Fahrkartenschaltern.
 {{% /booking-section %}}
