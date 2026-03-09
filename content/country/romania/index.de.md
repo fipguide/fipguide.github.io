@@ -4,12 +4,12 @@ title: "Rumänien"
 country: "romania"
 params:
   operators_without_fip:
-  - Astra Trains Carpatic (ATC)
-  - IRC (InterRegional Călători)
-  - RC (Regio Călători)
-  - SFTRA (Softrans)
-  - TFC (Transferoviar Călători)
-  - TFI (Ferotrans)
+    - Astra Trains Carpatic (ATC)
+    - IRC (InterRegional Călători)
+    - RC (Regio Călători)
+    - SFTRA (Softrans)
+    - TFC (Transferoviar Călători)
+    - TFI (Ferotrans)
 ---
 
 ## FIP Nutzung
@@ -20,7 +20,7 @@ Rumänien lässt sich mit FIP insgesamt gut bereisen. Auf den Hauptrouten fährt
 
 ## Wissenswertes
 
-Das Schienennetz in Rumänien ist etwa 10.000 Kilometer lang und verbindet die wichtigsten Städte miteinander. Eine der wichtigsten Routen stellt die aus Ungarn kommende West-Ost-Verbindung bis nach Constanța am Schwarzen Meer dar. Der größte Bahnhof des Landes ist București Nord in der Hauptstadt Bukarest. Von dort bestehen Verbindungen in alle Richtung, inkl. internationale Verbindungen nach Ungarn, Bulgarien, Moldau und in die Ukraine. 
+Das Schienennetz in Rumänien ist etwa 10.000 Kilometer lang und verbindet die wichtigsten Städte miteinander. Eine der wichtigsten Routen stellt die aus Ungarn kommende West-Ost-Verbindung bis nach Constanța am Schwarzen Meer dar. Der größte Bahnhof des Landes ist București Nord in der Hauptstadt Bukarest. Von dort bestehen Verbindungen in alle Richtung, inkl. internationale Verbindungen nach Ungarn, Bulgarien, Moldau und in die Ukraine.
 
 Das größtenteils in die Jahre gekommene rumänische Netz wird derzeit in Teilen zukunftsfähig und für höhere Geschwindigkeiten ausgebaut. Die bisher schnellste Strecke ist zwischen Bukarest und Constanța, auf der 160 km/h möglich sind. Es gibt oft keine wirklichen Taktverkehre, aber zumindest auf den Hauptstrecken trotzdem über den Tag verteilt einige Verbindungen.
 

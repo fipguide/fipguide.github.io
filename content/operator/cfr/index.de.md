@@ -8,7 +8,6 @@ operator: "cfr"
 
 Die Societatea Natională de Transport Feroviar de Călători “CFR Călători” S.A., kurz CFR Călători ist die staatliche Eisenbahngesellschaft von [Rumänien](/country/romania "Rumänien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem rumänischen Schienennetz.
 
-
 ## Zusammenfassung
 
 - FIP 50 und FIP Freifahrtscheine werden akzeptiert
@@ -78,7 +77,6 @@ Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schl
 
 **Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
 {{% /train-category %}}
-
 
 {{% train-category
     id="other"
