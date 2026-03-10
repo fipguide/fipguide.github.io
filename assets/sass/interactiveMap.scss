@@ -1,4 +1,9 @@
 .o-interactive-map {
+  .o-pan-zoom__container {
+    border-radius: var(--border-radius-m);
+    box-shadow: var(--box-shadow);
+  }
+
   .o-interactive-map__country--available {
     path,
     circle {

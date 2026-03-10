@@ -28,6 +28,14 @@ export function initPanZoom(container) {
     contain: "outside",
   });
 
+  pannable.style.cursor = "grab";
+  pannable.addEventListener("pointerdown", () => {
+    pannable.style.cursor = "grabbing";
+  });
+  pannable.addEventListener("pointerup", () => {
+    pannable.style.cursor = "grab";
+  });
+
   container.addEventListener("wheel", panzoom.zoomWithWheel);
 
   pannable.addEventListener("dblclick", (e) => {
