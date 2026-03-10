@@ -132,7 +132,7 @@ Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden
 
 ## Ermäßigungen
 
-Kinder fahren bis 5 Jahre kostenlos. Jugendliche bis 16 Jahre erhalten 50 % Ermäßigung auf den FIP Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^2]
+Kinder bis 5 Jahre fahren kostenlos. Jugendliche bis 16 Jahre erhalten 50 % Ermäßigung auf den Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^2]
 
 ## Tarifliche Besonderheiten
 
