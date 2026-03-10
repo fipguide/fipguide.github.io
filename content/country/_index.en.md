@@ -9,8 +9,10 @@ params:
     - Belarus
     - Cyprus
     - Estonia
+    - Faroe Islands
     - Finland
     - Iceland
+    - Isle of Man
     - Malta
     - Moldova
     - Russia
@@ -19,6 +21,7 @@ params:
     - Turkey
     - Ukraine
     - Vatican City
+    - Åland Islands
 ---
 
 Find the FIP regulations for your destination on the following pages.

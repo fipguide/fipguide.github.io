@@ -173,7 +173,7 @@ Great Northern bietet Pendlerverbindungen von London nach Hertfordshire, Cambrid
 
 Greater Anglia fährt von London Liverpool Street in die östlichen Counties Englands und nach Norwich.
 
-In der ersten Klasse können Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden.
+Auf der Hauptlinie zwischen Norwich und London können in der ersten Klasse an Werktagen (Montag bis Freitag, einschl. Feiertage) Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden.[^6] Checke vorher die [Verfügbarkeit und Öffnungszeiten des Bordcafé](https://www.greateranglia.co.uk/travel-information/your-journey/catering).
 
 {{% /train-category %}}
 
@@ -675,3 +675,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
 [^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+
+[^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)

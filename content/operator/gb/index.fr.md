@@ -174,7 +174,7 @@ Great Northern propose des liaisons pour navetteurs de Londres vers le Hertfords
 
 Greater Anglia relie London Liverpool Street aux comtés de l’est de l’Angleterre et à Norwich.
 
-En première classe, snacks et boissons du café à bord peuvent être retirés gratuitement.
+Sur la ligne principale entre Norwich et Londres, les passagers de première classe peuvent récupérer gratuitement des en-cas et des boissons au café-bar en semaine (du lundi au vendredi, jours fériés inclus).[^6] Vérifiez au préalable la [disponibilité et les horaires d'ouverture du café-bar](https://www.greateranglia.co.uk/travel-information/your-journey/catering).
 
 {{% /train-category %}}
 
@@ -677,3 +677,5 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 [^4]: [Retour d’expérience Heathrow Express sur la communauté FIP Guide](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
 [^5]: [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+
+[^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
