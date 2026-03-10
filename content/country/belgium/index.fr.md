@@ -47,7 +47,7 @@ Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Brux
 
 #### Grande vitesse
 
-Depuis l’Allemagne, il est possible d’emprunter l’`ICE` transfrontalier depuis Francfort, Cologne et Aix-la-Chapelle pour rejoindre Bruxelles. À partir de juin 2026, une liaison en week-end entre Cologne et Oostende sera également proposée [^1]. À partir de septembre 2026, une connexion directe entre Cologne et Anvers via l’aéroport de Bruxelles-Zaventem sera introduite [^2].
+Depuis l’Allemagne, il est possible d’emprunter l’`ICE` transfrontalier depuis Francfort, Cologne et Aix-la-Chapelle pour rejoindre Bruxelles. À partir de juin 2026, une liaison en week-end entre Cologne et Oostende sera également proposée. [^1] À partir de septembre 2026, une connexion directe entre Cologne et Anvers via l’aéroport de Bruxelles-Zaventem sera introduite. [^2]
 
 Pour toutes les liaisons `ICE`, un billet pour la section allemande jusqu’à Aachen Süd(Gr) de la DB ainsi qu’un billet pour la section belge à partir de Aachen Süd(Gr) de la SNCB ou un Billet FIP 50 direct est nécessaire.
 

@@ -47,7 +47,7 @@ From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 
 
 #### Long-distance
 
-From Germany, the cross-border `ICE` from Frankfurt, Cologne and Aachen can be used to reach Brussels. From June 2026, a weekend service between Cologne and Oostende will also be offered [^1]. From September 2026, a direct connection between Cologne and Antwerp via Brussels Airport Zaventem will be introduced [^2].
+From Germany, the cross-border `ICE` from Frankfurt, Cologne and Aachen can be used to reach Brussels. From June 2026, a weekend service between Cologne and Oostende will also be offered. [^1] From September 2026, a direct connection between Cologne and Antwerp via Brussels Airport Zaventem will be introduced. [^2]
 
 For all `ICE` connections, a ticket for the German section to Aachen Süd(Gr) of DB as well as a ticket for the Belgian section from Aachen Süd(Gr) of SNCB or a through FIP 50 Ticket is required.
 

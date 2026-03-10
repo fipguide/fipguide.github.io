@@ -47,7 +47,7 @@ Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Br
 
 #### Fernverkehr
 
-Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt, Köln und Aachen aus genutzt werden, um ins Brüssel zu erreichen. Ab Juni 2026 wird zudem wochenends eine Verbindung zwischen Köln und Oostende angeboten [^1]. Ab September 2026 wird eine Direktverbindung zwischen Köln und Antwerpen über den Brüsseler Flughafen Zaventem eingeführt [^2].
+Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt, Köln und Aachen aus genutzt werden, um Brüssel zu erreichen. Ab Juni 2026 wird zudem wochenends eine Verbindung zwischen Köln und Oostende angeboten. [^1] Ab September 2026 wird eine Direktverbindung zwischen Köln und Antwerpen über den Brüsseler Flughafen Zaventem eingeführt. [^2]
 
 Bei allen `ICE`-Verbindungen wird ein Ticket für den deutschen Abschnitt bis Aachen Süd(Gr) der DB sowie ein Ticket für den belgischen Abschnitt ab Aachen Süd(Gr) der SNCB oder ein durchgängiges FIP 50 Ticket benötigt.
 
