@@ -76,18 +76,6 @@ DART (Dublin Area Rapid Transit) ist ein Vorortbahnnetz, das die Vororte von Dub
 {{% /train-category %}}
 
 {{% train-category
-    id="luas"
-    title="Straßenbahn Dublin (Luas)"
-    type="tram"
-    fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
-%}}
-
-FIP ist auf Straßenbahnverbindungen in Dublin nicht gültig.[^2]
-
-{{% /train-category %}}
-{{% train-category
     id="bus-eireann"
     title="Bus Éireann"
     type="bus"
