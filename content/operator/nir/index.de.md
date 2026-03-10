@@ -68,10 +68,6 @@ FIP 50 Tickets lassen sich online nicht erwerben.
     subtitle="Reservierungen (1. Klasse) für den Enterprise Service (Dublin – Belfast)."
 /%}}
 
-### Telefon
-
-FIP 50 Tickets und Reservierungen können telefonisch nicht gebucht werden.
-
 ### Vor Ort
 
 {{% booking id="translink-ticket-office" /%}}

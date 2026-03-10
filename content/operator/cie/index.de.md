@@ -133,10 +133,6 @@ FIP 50 Tickets sind online nicht buchbar.
 
 {{% booking id="irish-rail-website" /%}}
 
-### Telefon
-
-FIP 50 Tickets und Reservierungen können telefonisch nicht gebucht werden.
-
 ### Vor Ort
 
 {{% booking id="irish-rail-ticket-office" /%}}
