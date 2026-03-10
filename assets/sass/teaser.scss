@@ -83,10 +83,16 @@
   }
 }
 
-.m-teaser__image figure {
-  border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-  object-fit: cover;
-  height: 100%;
+.m-teaser__image {
+  figure {
+    border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
+    height: 100%;
+  }
+
+  img {
+    object-fit: cover;
+    height: 100%;
+  }
 }
 
 .m-teaser__dateline {
