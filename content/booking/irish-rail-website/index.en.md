@@ -1,47 +1,44 @@
 ---
 draft: false
-title: "Irish-Rail-Website" # Change the title to the name of the booking platform
-description: "" # Add a description for the booking platform
+title: "Irish Rail Website"
+description: "Booking information for the Irish Rail website."
 params:
   classes:
-    # Define classes and prices for the corresponding reservations.
-    # Make sure that each class exists under `booking.classes` in i18n.
-    first: "X.XX€"
-    second: "X.XX€"
-  fip_50: true # Define if FIP 50 Tickets can be booked with this booking platform
-  fip_global_fare: true # Define if FIP Global Fare tickets can be booked with this booking platform
-  reservations: true # Define if reservations can be booked with this booking platform
-  booking_link: "https://example.com" # Add a link to the booking platform
-  additional_info_link: "https://example.com/additional-info" # Add a link with additional information
-  type: "onsite" # Accepted types are: website, onsite, phone, email and machine
+    first: "-"
+    second: "0 € / 2.50 €"
+  fip_50: false
+  reservations: true
+  booking_link: "https://www.irishrail.ie/en-ie/"
+  type: "website"
 ---
-
-{{% booking-section "fip_50" %}}
-
-## FIP 50 Tickets
-
-<!--
-    Explain the steps for booking FIP 50 Tickets with this booking platform.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## FIP Global Fare
-
-<!--
-    Explain the steps for booking FIP Global Fares with this booking platform.
--->
-
-{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Reservations
 
-<!--
-    Explain the steps for booking reservations with this booking platform.
--->
+Reservations for 2nd class can be purchased online. To do so, the passenger option must first be selected:
+
+![Open passenger options](./reservation-step-1.png)
+
+{{% float-image
+  src="reservation-step-2.png"
+  alt="Select Free Travel Pass"
+  width="50%"
+  position="left"
+%}}
+
+Then the "Adults" selection can be deselected and the "Free Travel Pass" option selected.
+
+{{% /float-image %}}
+
+Reservations for 2nd class are issued free of charge. Only on some heavily used services are reservation fees of 2.50 € charged.
+
+The prices displayed for Premier Class include the price difference between 1st and 2nd class, so these reservations can be booked to travel in Premier Class with a 2nd class FIP Card.
+
+Reservations for 1st class FIP Coupons cannot be booked online via Irish Rail.
+
+{{% highlight tip %}}
+In Ireland, the names of passengers are generally displayed on the reservation indicators in the trains. If this is not desired, the booking can indicate that the ticket number should be displayed instead.
+{{% /highlight %}}
 
 {{% /booking-section %}}

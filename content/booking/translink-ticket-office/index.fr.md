@@ -1,47 +1,20 @@
 ---
 draft: false
-title: "Translink-Ticket-Office" # Remplacez le titre par le nom de la plateforme de réservation
-description: "" # Complète une description pour la plateforme de réservation
+title: "Guichet Translink"
+description: "Informations de réservation pour le guichet Translink."
 params:
-  classes:
-    # Définissez les classes et les tarifs correspondants aux réservations.
-    # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "X,XX€"
-    second: "X,XX€"
-  fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
-  reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-  booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
-  additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-  type: "onsite" # Types acceptés : website, onsite, phone, email et machine
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.translink.co.uk/using-translink/station-finder"
+  type: "onsite"
 ---
+
+Les gares disposant de guichets peuvent être trouvées via le [répertoire des gares Translink](https://www.translink.co.uk/using-translink/station-finder). Les guichets correspondants sont désignés comme « customer information desk ».
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## Tarif Global FIP
-
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Réservations
-
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
+Les Billets FIP 50 peuvent être achetés aux guichets Translink.
 
 {{% /booking-section %}}

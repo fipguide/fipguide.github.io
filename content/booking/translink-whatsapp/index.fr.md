@@ -1,47 +1,22 @@
 ---
 draft: false
-title: "Translink-Whatsapp" # Remplacez le titre par le nom de la plateforme de réservation
-description: "" # Complète une description pour la plateforme de réservation
+title: "Translink WhatsApp"
+description: "Informations de réservation pour le service client WhatsApp de Translink."
 params:
   classes:
-    # Définissez les classes et les tarifs correspondants aux réservations.
-    # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "X,XX€"
-    second: "X,XX€"
-  fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
-  reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-  booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
-  additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-  type: "onsite" # Types acceptés : website, onsite, phone, email et machine
+    first: "0 €"
+    second: "-"
+  reservations: true
+  additional_info_link: "https://www.translink.co.uk/help-and-support/feedback"
+  type: "socialmedia"
 ---
-
-{{% booking-section "fip_50" %}}
-
-## Billets FIP 50
-
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## Tarif Global FIP
-
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Réservations
 
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
+Des réservations gratuites pour le service Enterprise peuvent être effectuées via le service client WhatsApp de Translink lorsque le voyage commence à Belfast. Seules des réservations pour la 1re classe (Enterprise Plus) avec un Coupon FIP de 1re classe sont délivrées.
+
+Pour ce faire, un message doit être envoyé au numéro WhatsApp [+44 7583122646](https://api.whatsapp.com/send/?phone=447583122646) en indiquant les détails du voyage (date, heure, gare de départ et de destination) ainsi que le nombre de voyageurs. Il est recommandé de rédiger le message en anglais.
 
 {{% /booking-section %}}

@@ -2,179 +2,92 @@
 draft: false
 title: "NIR"
 country:
-  # Add the abbreviations of the countries the railway company operates in.
-  - "country1"
-  - "country2"
-  - "country3"
+  - "united-kingdom"
 operator: "nir"
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-
 {{< wip >}}
 
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+Northern Ireland Railways (NIR) is the state railway company in Northern Ireland and is part of Translink, a state transport company. The rail network is compact and mainly consists of connections to and from Belfast.
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- FIP tickets are valid on all train services.
 
 ## Validity of FIP Tickets
 
-<!--
-  The ticket categories may vary depending on the operator.
--->
-
-FIP Coupon: <✅/⛔> \
-FIP Coupon for relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
-
-<!--
-  Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
+FIP Coupon: ✅ \
+FIP 50 Tickets: ✅
 
 ## Train Categories and Reservations
 
-<!--
-  For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
-  - `id`: Lowercase, hyphenated abbreviation of the train category (e.g., "ice", "tgv-inoui")
-  - `title`: Title of the train category
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` or `ship`
-  - `fip_accepted`: true, false, partially
-  - `reservation_required`: true, false, partially
-  - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)
-  - `route_overview_url`: Link to a page with an overview of the routes of this category (can be omitted if not available)
-  - `additional_information_url`: Link to a page with additional information about this category (can be omitted if not available)
--->
-
 {{% train-category
-    id="expander-id"
-    title="title"
-    type="highspeed"
+    id="regional-trains"
+    title="Regional Trains"
+    type="regional"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    reservation_possible=false
+    route_overview_url="https://en.wikipedia.org/wiki/NI_Railways#/media/File:NIRailways_Map.png"
 %}}
 
-<!--
-  A description of the train category can be added here.
--->
+NIR operates various regional train services from Belfast. Regional trains cannot be reserved and can be used with FIP.
 
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
-{{% /highlight %}}
+{{% /train-category %}}
 
-{{% highlight important %}}
-Further important information can be added here.
-{{% /highlight %}}
+{{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_possible=true
+%}}
 
-#### Reservation
-
-<!--
-  Description of the reservation conditions for this train category.
--->
-
-#### Scheduled routes
-
-<!--
-  List of all routes of this train category in scheduled services.
-
-  For partial FIP validity, the following subheadings can be used:
--->
-
-<!--
-##### Routes with FIP validity
-
-- Route 1
-- Route 2
-
-##### Routes without FIP validity
-
-- Route 3
-- Route 4
--->
+NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
 
 {{% /train-category %}}
 
 ## Class Categories
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
+- **Second Class**: Standard class, usable with FIP 50 Tickets and FIP Coupons of both first and second class.
 
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+- **Enterprise Plus**: First class on the Dublin – Belfast connection. Can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons.
 
 ## Ticket and Reservation Purchase
 
 ### Online
 
-<!--
-  Embed the information of a defined booking platform here.
+FIP 50 Tickets cannot be purchased online.
 
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
+{{% booking id="irish-rail-website"
+    subtitle="Reservations (2nd class) for the Enterprise Service (Dublin – Belfast)."
+/%}}
 
-  For more information how to define a booking platform, check the booking archetype.
--->
-
-<!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->
-
-### Telephone
-
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
+{{% booking id="translink-whatsapp"
+    subtitle="Reservations (1st class) for the Enterprise Service (Dublin – Belfast)."
+/%}}
 
 ### On-Site
 
-<!--
-  Embed additional booking platforms with booking on site here.
--->
+{{% booking id="translink-ticket-office" /%}}
+
+{{% booking id="irish-rail-ticket-office"
+    subtitle="Reservations and FIP 50 Tickets for the Enterprise Service (Dublin – Belfast)."
+/%}}
 
 ### On the Train
 
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
+FIP 50 Tickets must be purchased before boarding. On the Enterprise Service, it is possible to purchase the upgrade between 1st and 2nd class on the train.
 
 ## Discounts
 
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^2]
 
 ## Special Tariff Conditions
 
-### <Route or Name>
+### Break of Journey
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
-
-## Recommendations
-
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+Break of journey is only permitted in order to catch connecting trains.[^1]
 
 ## Sources
 
-[^1]: [<Source Name 1>](Link)
-
-[^2]: [<Source Name 2>](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-143)

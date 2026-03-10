@@ -1,47 +1,20 @@
 ---
 draft: false
-title: "Irish-Rail-Ticket-Office" # Remplacez le titre par le nom de la plateforme de réservation
-description: "" # Complète une description pour la plateforme de réservation
+title: "Guichet Irish Rail"
+description: "Informations de réservation pour le guichet Irish Rail."
 params:
-  classes:
-    # Définissez les classes et les tarifs correspondants aux réservations.
-    # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "X,XX€"
-    second: "X,XX€"
-  fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
-  reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-  booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
-  additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-  type: "onsite" # Types acceptés : website, onsite, phone, email et machine
+  fip_50: true
+  reservations: true
+  additional_info_link: "https://www.irishrail.ie/en-ie/travel-information/find-a-station"
+  type: "onsite"
 ---
+
+Les guichets Irish Rail sont disponibles dans les grandes gares InterCity. Pour vérifier si une gare dispose d'un guichet, il suffit de sélectionner la gare correspondante dans le [répertoire des gares](https://www.irishrail.ie/en-ie/travel-information/find-a-station). Les horaires d'ouverture sont indiqués dans les sections « General information » et « Opening Hours » si un guichet est disponible. Les guichets sont désignés comme « Station Booking Offices » sur le site web.
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## Tarif Global FIP
-
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Réservations
-
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
+Les Billets FIP 50 peuvent être achetés aux « Station Booking Offices » d'Irish Rail.
 
 {{% /booking-section %}}

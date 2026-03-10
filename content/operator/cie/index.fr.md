@@ -2,168 +2,146 @@
 draft: false
 title: "CIE"
 country:
-  # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
-  - "country1"
-  - "country2"
-  - "country3"
+  - "ireland"
 operator: "cie"
 ---
 
-<!-- Supprimez ce message si la page est complète -->
-
 {{< wip >}}
 
-<!--
-  Brève description de la compagnie ferroviaire. Par exemple, le nom complet dans la langue locale, les noms alternatifs, et si c’est une compagnie privée ou publique.
--->
+Córas Iompair Éireann (CIE) est la compagnie ferroviaire nationale d'[Irlande](/country/ireland) et la société mère d'Irish Rail (Iarnród Éireann). La filiale exploite la majorité du trafic ferroviaire en République d'Irlande, notamment les lignes principales entre Dublin, Cork, Galway et Limerick, ainsi que des liaisons régionales dans les environs de Dublin et Cork.
+
+Sur son site web, Irish Rail propose une [carte d'ensemble des lignes](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map).
 
 ## Résumé
 
-<!--
-  Liste à puces des principales caractéristiques / règles FIP de la compagnie ferroviaire.
-  Par exemple :
-  - Les Billets FIP 50 et les Coupons FIP sont-ils acceptés ?
-  - Y a-t-il une obligation de réservation ?
-  - Existe-t-il d’autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
--->
+- Le FIP est accepté sur toutes les liaisons ferroviaires d'Irish Rail.
+- La First Class ne peut pas être utilisée avec le FIP.
+- Les Billets FIP 50 sont désormais difficiles à réserver et souvent plus chers que les « Low Fare Tickets » disponibles publiquement, qui doivent toutefois être réservés à l'avance.
 
 ## Validité des Billets FIP
 
-<!--
-  Les catégories de billets peuvent varier selon l’opérateur.
--->
-
-Coupon FIP : <✅/⛔> \
-Coupon FIP pour les ayants droit : <✅/⛔> \
-Billets FIP 50 : <✅/⛔> \
-Tarif Global FIP : <✅/⛔>
-
-<!--
-  Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
--->
+Coupon FIP : ✅ \
+Billets FIP 50 : ✅
 
 ## Catégories de trains et réservations
 
-<!--
-  Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant. Les paramètres suivants peuvent être utilisés :
-  - `id` : Abréviation en minuscules avec traits d'union de la catégorie de train (par ex. "ice", "tgv-inoui")
-  - `title` : Titre de la catégorie de train
-  - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` ou `ship`
-  - `fip_accepted` : true, false, partially
-  - `reservation_required` : true, false, partially
-  - `reservation_possible` : true, false, partially (défaut false, peut être omis si reservation_required est true)
-  - `route_overview_url` : Lien vers une page avec un aperçu des lignes de cette catégorie (peut être omis si non disponible)
-  - `additional_information_url` : Lien vers une page avec des informations supplémentaires sur cette catégorie (peut être omis si non disponible)
--->
-
 {{% train-category
-    id="expander-id"
-    title="titre"
+    id="ic"
+    title="InterCity"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=false
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map"
 %}}
 
-<!--
-  Une description de la catégorie de train peut être ajoutée ici.
--->
-
-{{% highlight confusion %}}
-Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit confondue avec une autre.
-{{% /highlight %}}
+Les trains InterCity relient les principales villes d'Irlande, notamment Dublin, Cork, Galway et Limerick. Le FIP est accepté sur toutes les liaisons InterCity. Le service Enterprise entre Dublin et Belfast est également assuré par des trains InterCity. Plus d'informations sur l'Enterprise sont disponibles sur la [page Irlande](/country/ireland#royaume-uni).
 
 {{% highlight important %}}
-D’autres informations importantes peuvent être ajoutées ici.
+La First Class entre Dublin et Cork ne peut pas être utilisée avec le FIP. Plus d'informations sur les catégories de classes sont disponibles [ci-dessous](#catégories-de-classes).
 {{% /highlight %}}
 
 #### Réservation
 
-<!--
-  Description des conditions de réservation pour cette catégorie de train.
--->
+Les réservations sont facultatives, mais sont délivrées gratuitement pour de nombreuses liaisons et sont donc recommandées en 2e classe.
 
-#### Lignes régulières
+{{% /train-category %}}
 
-<!--
-  Liste de toutes les lignes de cette catégorie de train en service régulier.
+{{% train-category
+    id="commuter"
+    title="Commuter Trains / Local rail services"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/dublin-symbolic-map"
+%}}
 
-  Pour une validité FIP partielle, les sous-titres suivants peuvent être utilisés :
--->
+Les Commuter Trains sont des trains régionaux circulant principalement dans les régions de Dublin et Cork. Le FIP est accepté sur ces liaisons.
 
-<!--
-##### Lignes avec validité FIP
+{{% /train-category %}}
 
-- Ligne 1
-- Ligne 2
+{{% train-category
+    id="dart"
+    title="Dublin Area Rapid Transit (DART)"
+    type="subway"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/dublin-symbolic-map"
+%}}
 
-##### Lignes sans validité FIP
+Le DART (Dublin Area Rapid Transit) est un réseau ferroviaire de banlieue reliant les quartiers périphériques de Dublin au centre-ville. Le FIP est accepté sur les liaisons DART.[^2]
 
-- Ligne 3
-- Ligne 4
--->
+{{% /train-category %}}
+
+{{% train-category
+    id="bus-eireann"
+    title="Bus Éireann"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Le FIP n'est pas valable sur les liaisons en bus de Bus Éireann.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="dublin-bus"
+    title="Dublin Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Le FIP n'est pas valable sur les liaisons en bus de Dublin Bus.
 
 {{% /train-category %}}
 
 ## Catégories de classes
 
-<!--
-  Si les catégories de classes incluent des classes supplémentaires/différentes au-delà de la 1ère et 2ème classe, elles peuvent être décrites ici. Sinon, cette section peut être supprimée.
--->
+- **Second Class** : Classe standard, utilisable avec les Billets FIP 50 et les Coupons FIP de première et deuxième classe.
+- **Premier Class** : Disponible sur le trajet Dublin – Tralee et la liaison Dublin – Cork. Elle peut être utilisée avec les Coupons FIP de 1re classe, et moyennant un supplément aussi avec les Coupons FIP de 2e classe. **Important** : Aux heures de pointe, la « First Class » remplace la Premier Class et ne peut pas être utilisée avec le FIP.
+- **First Class** : Uniquement disponible entre Dublin et Cork aux heures de pointe, également appelée City Gold. La First Class offre un service à bord et des sièges à réglage électronique. Elle ne peut pas être utilisée avec le FIP.[^2] À partir de mars 2026, toutes les liaisons entre Dublin et Cork _à l'exception_ des suivantes sont assurées avec la First Class[^1] :
+  - Liaisons Premier Class Dublin – Cork : 10h00 (lundi – samedi), 12h00 (lundi – vendredi) et 14h00 (lundi – vendredi)
+  - Liaisons Premier Class Cork – Dublin : 13h25 (lundi – samedi), 14h25 (dimanche uniquement), 15h25 (lundi – vendredi) et 17h25 (lundi – jeudi et samedi)
 
-<!--
-**Standard** : Comparable à la 2ème classe. \
-**Plus** : 1ère classe sans restauration. Un pass FIP pour la 1ère classe est requis. \
-**Premium** : 1ère classe avec restauration. Non réservable avec FIP.
--->
+  Une liste à jour est disponible [ici](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
+
+- **Enterprise Plus** : Première classe sur la liaison Dublin – Belfast. Peut être utilisée avec les Coupons FIP de 1re classe, et moyennant un supplément aussi avec les Coupons FIP de 2e classe.
 
 ## Achat de billets et réservations
 
 ### En ligne
 
-### Par téléphone
+Les Billets FIP 50 ne peuvent pas être réservés en ligne.
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
--->
+{{% booking id="irish-rail-website" /%}}
 
 ### En gare
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation en gare.
--->
+{{% booking id="irish-rail-ticket-office" /%}}
 
 ### À bord du train
 
-<!--
-  Les billets avec réduction FIP peuvent-ils encore être achetés à bord du train ? Si oui, comment et y a-t-il un supplément ?
--->
+Les Billets FIP 50 doivent être achetés avant le départ.
+Les suppléments pour passer de la 2e classe à la Premier Class peuvent être achetés à bord du train si aucun guichet n'est disponible à la gare.[^2]
 
 ## Réductions
 
-<!--
-  Quelles réductions les enfants peuvent-ils obtenir et dans quelles circonstances ?
-  Quelles autres réductions peuvent exister ?
--->
+Les enfants jusqu'à 5 ans voyagent gratuitement. Les jeunes jusqu'à 16 ans bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^2]
 
 ## Conditions tarifaires spéciales
 
-### <Trajet ou nom>
+### Interruption de voyage
 
-<!--
-  Description de la condition spéciale, s’il existe des réglementations particulières sur certains trajets.
--->
-
-## Recommandations
-
-<!--
-  Recommandations personnelles et conseils particuliers pour le voyage.
--->
+Les interruptions de voyage sont autorisées avec les billets FIP, mais doivent être documentées par une annotation à la gare où le voyage a été interrompu.
 
 ## Sources
 
-[^1]: [<Nom de la source 1>](Lien)
+[^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
-[^2]: [<Nom de la source 2>](Lien)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
