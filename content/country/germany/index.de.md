@@ -159,9 +159,21 @@ MS = Mitte See
 
 ### Belgien
 
-Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Aachen genutzt werden. Auch ein Regionalzug der SNCB verkehrt zwischen Lüttich und Aachen. In beiden Fällen wird zusätzlich ein Ticket für den belgischen Abschnitt der SNCB benötigt.
+#### Fernverkehr
+
+Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt, Köln und Aachen genutzt werden. Ab Juni 2026 wird zudem wochenends eine Verbindung zwischen Oostende und Köln angeboten. Ab September 2026 wird eine Direktverbindung zwischen Antwerpen und Köln über den Brüsseler Flughafen Zaventem eingeführt.
+
+Bei allen `ICE`-Verbindungen wird ein Ticket für den belgischen Abschnitt bis Aachen Süd(Gr) der SNCB sowie ein Ticket für den deutschen Abschnitt ab Aachen Süd(Gr) der DB oder ein durchgängiges FIP 50 Ticket benötigt.
 
 Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Deutschland) benötigt ([siehe Eurostar](/operator/eurostar "Eurostar")).
+
+#### Regionalverkehr
+
+Auch eine S-Bahn der SNCB verkehrt zwischen Lüttich und Aachen, bei dem jedoch auf dem deutschen Abschnitt zwischen Aachen Süd(Gr) und Aachen Hbf keine nationalen Fahrvergünstigungen für DB Mitarbeitende akzeptiert werden.
+
+{{% highlight tip %}}
+Bei Nutzung der S41 zwischen Liège-Saint-Lambert und Aachen lohnt es sich, das Zugpersonal anzusprechen, da der Grenzübertritt oftmals kulant gehandhabt wird. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt auch beim Zugpersonal gekauft werden.
+{{% /highlight %}}
 
 ### Dänemark
 

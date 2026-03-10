@@ -45,9 +45,21 @@ From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 
 
 ### Germany
 
-From Germany, the cross-border `ICE` from Frankfurt / Cologne / Aachen can be used to enter the SNCB network. A regional train of SNCB also runs between Aachen and Liège. In both cases, an additional ticket for the German section of DB is required.
+#### Long-distance
+
+From Germany, the cross-border `ICE` from Frankfurt, Cologne and Aachen can be used to reach Brussels. From June 2026, a weekend service between Cologne and Oostende will also be offered [^1]. From September 2026, a direct connection between Cologne and Antwerp via Brussels Airport Zaventem will be introduced [^2].
+
+For all `ICE` connections, a ticket for the German section to Aachen Süd(Gr) of DB as well as a ticket for the Belgian section from Aachen Süd(Gr) of SNCB or a through FIP 50 Ticket is required.
 
 The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
+
+#### Regional
+
+An SNCB suburban train also runs between Aachen and Liège, however national travel benefits for DB employees are not accepted on the German section between Aachen Hbf and Aachen Süd(Gr).
+
+{{% highlight tip %}}
+When using the S41 between Aachen and Liège-Saint-Lambert, it is worth approaching the train staff before boarding, as the border crossing is often handled leniently. If in doubt, the ticket for the short German section can also be purchased from the train staff.
+{{% /highlight %}}
 
 ### Netherlands
 
@@ -62,3 +74,9 @@ From France, SNCF operates international `TGV` trains from Brussels to Lyon, Mar
 Alternatively, [Eurostar](/operator/eurostar "Eurostar") trains run from Paris to Brussels, which can also be used with FIP Global Fare tickets, and are cheaper than the `TGV` trains.
 
 There are also various `TER` regional train connections from France to Belgium that can be used with FIP. For example, between Lille and Namur as well as between Lille and Antwerp. Normal FIP 50 Tickets as well as a combination of an FIP Coupon from SNCB and SNCF are valid on these routes.
+
+## Sources
+
+[^1]: [DB Press: ICE to the Belgian North Sea coast](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Im-Sommer-mit-dem-ICE-erstmals-bis-an-die-belgische-Nordseekueste-13762752)
+
+[^2]: [DB Press: ICE to Brussels Airport](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)

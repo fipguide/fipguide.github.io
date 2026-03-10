@@ -35,7 +35,7 @@ Within Belgium, no reservation is required for SNCB and in many trains, it is no
     reservation_possible=true
 %}}
 
-High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP Tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins.
+High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main). Some trains also run between Germany and Antwerp via Brussels Airport Zaventem or in summer between Germany and the Belgian coast. All ICE trains can also be used within Belgium with FIP Tickets without surcharge.
 
 {{% /train-category %}}
 
@@ -181,7 +181,7 @@ Domestic journeys unfortunately cannot be purchased online.
 
 ### On the train
 
-If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. The usual SNCB surcharge for on-board sales is not charged in this case. [^2]
+FIP discounted tickets can generally be purchased on board the trains. The usual SNCB surcharge for on-board sales is not charged, as the tickets are not available at ticket machines. [^2]<sup>, </sup>[^3]
 
 ## Discounts
 
@@ -204,3 +204,5 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)

@@ -155,9 +155,21 @@ MS = Middle of the lake
 
 ### Belgium
 
-From Belgium, the cross-border `ICE` to Frankfurt / Cologne / Aachen can be used. There is also a regional train operated by SNCB between Liège and Aachen. In both cases, an additional ticket for the Belgian SNCB section is required.
+#### Long-distance
+
+From Belgium, the cross-border `ICE` to Frankfurt, Cologne and Aachen can be used. From June 2026, a weekend service between Oostende and Cologne will also be offered. From September 2026, a direct connection between Antwerp and Cologne via Brussels Airport Zaventem will be introduced.
+
+For all `ICE` connections, a ticket for the Belgian section to Aachen Süd(Gr) of SNCB as well as a ticket for the German section from Aachen Süd(Gr) of DB or a through FIP 50 Ticket is required.
 
 With Eurostar (formerly Thalys), the DB network can also be reached from Belgium. Here, a special FIP Ticket from Eurostar is required for the entire route (including within Germany) ([see Eurostar](/operator/eurostar "Eurostar")).
+
+#### Regional
+
+An SNCB suburban train also runs between Liège and Aachen, however national travel benefits for DB employees are not accepted on the German section between Aachen Süd(Gr) and Aachen Hbf.
+
+{{% highlight tip %}}
+When using the S41 between Liège-Saint-Lambert and Aachen, it is worth approaching the train staff, as the border crossing is often handled leniently. If in doubt, the ticket for the short German section can also be purchased from the train staff.
+{{% /highlight %}}
 
 ### Denmark
 

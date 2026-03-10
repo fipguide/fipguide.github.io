@@ -45,9 +45,21 @@ Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Brux
 
 ### Allemagne
 
-Depuis l’Allemagne, il est possible d’entrer sur le réseau SNCB via l’ `ICE` (Francfort / Cologne / Aix-la-Chapelle) ou un train régional SNCB entre Aix-la-Chapelle et Liège. Dans les deux cas, un Billet FIP DB est nécessaire pour la section allemande.
+#### Grande vitesse
+
+Depuis l’Allemagne, il est possible d’emprunter l’`ICE` transfrontalier depuis Francfort, Cologne et Aix-la-Chapelle pour rejoindre Bruxelles. À partir de juin 2026, une liaison en week-end entre Cologne et Oostende sera également proposée [^1]. À partir de septembre 2026, une connexion directe entre Cologne et Anvers via l’aéroport de Bruxelles-Zaventem sera introduite [^2].
+
+Pour toutes les liaisons `ICE`, un billet pour la section allemande jusqu’à Aachen Süd(Gr) de la DB ainsi qu’un billet pour la section belge à partir de Aachen Süd(Gr) de la SNCB ou un Billet FIP 50 direct est nécessaire.
 
 L’Eurostar (anciennement Thalys) peut également être utilisé depuis l’Allemagne pour rejoindre la Belgique, mais nécessite un Billet FIP spécial Eurostar valable pour l’ensemble du trajet, y compris en Belgique. ([voir Eurostar](/operator/eurostar "Eurostar"))
+
+#### Régional
+
+Un train de banlieue de la SNCB circule également entre Aix-la-Chapelle et Liège, mais les avantages tarifaires nationaux pour les employés de la DB ne sont pas acceptés sur la section allemande entre Aachen Hbf et Aachen Süd(Gr).
+
+{{% highlight tip %}}
+Lors de l’utilisation du S41 entre Aix-la-Chapelle et Liège-Saint-Lambert, il vaut la peine d’aborder le personnel du train avant de monter à bord, car le passage de la frontière est souvent géré avec souplesse. En cas de doute, le billet pour la courte section allemande peut également être acheté auprès du personnel du train.
+{{% /highlight %}}
 
 ### Pays-Bas
 
@@ -62,3 +74,9 @@ Depuis la France, la SNCF exploite des trains internationaux `TGV` de Bruxelles 
 En alternative, des trains [Eurostar](/operator/eurostar "Eurostar") relient Paris à Bruxelles et peuvent aussi être utilisés avec des Billets FIP au Tarif Global, généralement à un prix inférieur à celui des trains `TGV`.
 
 Par ailleurs, plusieurs liaisons régionales `TER` existent entre la France et la Belgique, accessibles avec les titres FIP. Par exemple, entre Lille et Namur ou entre Lille et Anvers. Dans ce cas, les Billets FIP 50 classiques sont valables, ainsi que la combinaison d’un Coupon FIP de la SNCB et de la SNCF.
+
+## Sources
+
+[^1]: [DB Presse : ICE vers la côte de la mer du Nord belge](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Im-Sommer-mit-dem-ICE-erstmals-bis-an-die-belgische-Nordseekueste-13762752)
+
+[^2]: [DB Presse : ICE vers l’aéroport de Bruxelles](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)

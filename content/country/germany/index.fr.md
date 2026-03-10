@@ -155,9 +155,21 @@ MS = Mitte See
 
 ### Belgique
 
-Depuis la Belgique, l’`ICE` transfrontalier vers Francfort / Cologne / Aix-la-Chapelle peut être utilisé. Un train régional de la SNCB circule également entre Liège et Aix-la-Chapelle. Dans les deux cas, un billet supplémentaire pour la section belge de la SNCB est nécessaire.
+#### Grande vitesse
+
+Depuis la Belgique, l’`ICE` transfrontalier vers Francfort, Cologne et Aix-la-Chapelle peut être utilisé. À partir de juin 2026, une liaison en week-end entre Oostende et Cologne sera également proposée. À partir de septembre 2026, une connexion directe entre Anvers et Cologne via l’aéroport de Bruxelles-Zaventem sera introduite.
+
+Pour toutes les liaisons `ICE`, un billet pour la section belge jusqu’à Aachen Süd(Gr) de la SNCB ainsi qu’un billet pour la section allemande à partir de Aachen Süd(Gr) de la DB ou un Billet FIP 50 direct est nécessaire.
 
 Avec Eurostar (anciennement Thalys), le réseau DB est également accessible depuis la Belgique. Un billet FIP spécial Eurostar est requis pour l’ensemble du trajet (y compris en Allemagne) ([voir Eurostar](/operator/eurostar "Eurostar")).
+
+#### Régional
+
+Un train de banlieue de la SNCB circule également entre Liège et Aix-la-Chapelle, mais les avantages tarifaires nationaux pour les employés de la DB ne sont pas acceptés sur la section allemande entre Aachen Süd(Gr) et Aachen Hbf.
+
+{{% highlight tip %}}
+Lors de l’utilisation du S41 entre Liège-Saint-Lambert et Aix-la-Chapelle, il vaut la peine d’aborder le personnel du train, car le passage de la frontière est souvent géré avec souplesse. En cas de doute, le billet pour la courte section allemande peut également être acheté auprès du personnel du train.
+{{% /highlight %}}
 
 ### Danemark
 
