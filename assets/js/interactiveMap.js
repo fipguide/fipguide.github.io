@@ -1,4 +1,4 @@
-import { initPanZoom } from "./panZoom.js";
+import { addClickListener, initPanZoom } from "./panZoom.js";
 
 window.initializeInteractiveMap = function () {
   const container = document.getElementById("interactive-map__container");
@@ -10,6 +10,8 @@ window.initializeInteractiveMap = function () {
   const svg = container.querySelector("svg");
   if (!svg) return;
 
+  svg.setAttribute("viewBox", "0 0 1300 1300");
+
   const countries = svg.querySelectorAll("[id]");
   countries.forEach((country) => {
     if (
@@ -19,8 +21,7 @@ window.initializeInteractiveMap = function () {
       country.style.cursor = "pointer";
       country.classList.add("o-interactive-map__country--available");
 
-      country.addEventListener("click", (e) => {
-        e.stopPropagation();
+      addClickListener(country, (e) => {
         window.location.href = `/${window.currentLanguage}/country/${country.id}/`;
       });
     }

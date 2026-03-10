@@ -1,12 +1,25 @@
 import Panzoom from "@panzoom/panzoom";
 
+export function addClickListener(element, onClick) {
+  let pointerDownPos = null;
+
+  element.addEventListener("pointerdown", (e) => {
+    pointerDownPos = { x: e.clientX, y: e.clientY };
+  });
+
+  element.addEventListener("click", (e) => {
+    if (!pointerDownPos) return;
+    const dx = e.clientX - pointerDownPos.x;
+    const dy = e.clientY - pointerDownPos.y;
+    pointerDownPos = null;
+    if (Math.hypot(dx, dy) >= 5) return;
+    onClick(e);
+  });
+}
+
 export function initPanZoom(container) {
   const pannable = container.querySelector("svg, img");
   if (!pannable) return null;
-
-  if (pannable.tagName.toLowerCase() === "svg") {
-    pannable.setAttribute("viewBox", "0 0 1300 1300");
-  }
 
   const panzoom = Panzoom(pannable, {
     maxScale: 5,
