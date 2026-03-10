@@ -4,8 +4,8 @@ title: "CFR Călători Ticket Office"
 description: "Booking information for the CFR Călători Ticket Office."
 params:
   classes:
-    first: "5 RON / 1 RON"
-    second: "5 RON / 1 RON"
+    first: "RON 5 / RON 1"
+    second: "RON 5 / RON 1"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.cfrcalatori.ro/en/services-major-railstations/"
@@ -25,7 +25,7 @@ An overview of the international ticket counters can be found on the [CFR Călă
 
 ## Reservations
 
-Seat and standing reservations for national routes can be purchased on-site for a price of 5 RON for long-distance trains and 1 RON for `R` trains. When using a FIP Coupon, it must be presented. The number of the FIP Coupon will then be printed on the ticket.
+Seat and standing reservations for national routes can be purchased on-site for a price of RON 5 for long-distance trains and RON 1 for `R` trains. When using a FIP Coupon, it must be presented. The number of the FIP Coupon will then be printed on the ticket.
 
 For couchette and sleeper cars, the following prices apply on national routes: [Price list for couchette and sleeper cars](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /booking-section %}}

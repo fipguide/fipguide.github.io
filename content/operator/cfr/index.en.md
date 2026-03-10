@@ -45,7 +45,7 @@ National long-distance trains with few intermediate stops and comparatively high
 
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
-**Reservation cost:** 5 RON
+**Reservation cost:** RON 5
 {{% /train-category %}}
 
 {{% train-category
@@ -65,7 +65,7 @@ Comparatively fast trains connecting major cities with few intermediate stops. S
 
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
-**Reservation cost:** 5 RON for national routes
+**Reservation cost:** RON 5 for national routes
 {{% /train-category %}}
 
 {{% train-category
@@ -87,7 +87,7 @@ These trains usually include couchette or sleeper cars, which can be used with a
 
 A reservation is mandatory, either for a seat, couchette or sleeper berth. If the train is fully booked, a standing reservation can be purchased.
 
-**Reservation cost:** 5 RON for seat and standing reservations on national routes
+**Reservation cost:** RON 5 for seat and standing reservations on national routes
 
 For couchette and sleeper cars, the following prices apply on national routes: [Price list for couchette and sleeper cars](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
@@ -111,7 +111,7 @@ These trains are partially operated by other operators in Romania as well. For F
 
 A reservation is often mandatory (indicated by an _R_ in the journey planner). If the train is fully booked, a standing reservation can be purchased.
 
-**Reservation cost:** 5 RON for seat and standing reservations on national routes
+**Reservation cost:** RON 5 for seat and standing reservations on national routes
 
 For couchette and sleeper cars, the following prices apply on national routes: [Price list for couchette and sleeper cars](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
@@ -133,7 +133,7 @@ Regional trains that also serve smaller towns. The various trains on a route oft
 
 A reservation is required for some trains, indicated by an _R_.
 
-**Reservation cost:** 1 RON
+**Reservation cost:** RON 1
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase

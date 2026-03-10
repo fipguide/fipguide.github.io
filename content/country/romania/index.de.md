@@ -14,7 +14,7 @@ params:
 
 ## FIP Nutzung
 
-Rumänien lässt sich mit FIP insgesamt gut bereisen. Auf den Hauptrouten fährt größtenteils die rumänische Staatsbahn [CFR Călători](/operator/cfr "CFR"), bei der FIP Freifahrtscheine und FIP 50 Tickets buchbar sind. Zu beachten ist, dass auf einigen Routen auch parallel andere Anbieter verkehren, die nicht mit FIP genutzt werden können.
+Rumänien lässt sich mit FIP insgesamt gut bereisen. Auf den Hauptrouten fährt größtenteils die rumänische Staatsbahn [CFR Călători](/operator/cfr "CFR"), bei der FIP Freifahrtscheine und FIP 50 Tickets genutzt werden können. Zu beachten ist, dass auf einigen Routen auch parallel andere Anbieter verkehren, die keine FIP-Vergünstigungen akzeptieren.
 
 Reservierungen sind auf den meisten Routen verpflichtend, diese sind jedoch vergleichsweise günstig. Für FIP 50 Tickets und Reservierungen ist oft der stationäre Fahrkartenschalter der einzige Ort, an dem diese erworben werden können. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten an speziell dafür ausgelegten Fahrkartenschaltern an größeren Bahnhöfen.
 
