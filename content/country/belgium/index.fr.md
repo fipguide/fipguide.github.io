@@ -55,10 +55,10 @@ L’Eurostar (anciennement Thalys) peut également être utilisé depuis l’All
 
 #### Régional
 
-Un train de banlieue de la SNCB circule également entre Aix-la-Chapelle et Liège, mais les avantages tarifaires nationaux pour les employés de la DB ne sont pas acceptés sur la section allemande entre Aachen Hbf et Aachen Süd(Gr).
+Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
 
 {{% highlight tip %}}
-Lors de l’utilisation du S41 entre Aix-la-Chapelle et Liège-Saint-Lambert, il vaut la peine d’aborder le personnel du train avant de monter à bord, car le passage de la frontière est souvent géré avec souplesse. En cas de doute, le billet pour la courte section allemande peut également être acheté auprès du personnel du train.
+Nous recommandons d'interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
 {{% /highlight %}}
 
 ### Pays-Bas
@@ -80,3 +80,5 @@ Par ailleurs, plusieurs liaisons régionales `TER` existent entre la France et l
 [^1]: [DB Presse : ICE vers la côte de la mer du Nord belge](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Im-Sommer-mit-dem-ICE-erstmals-bis-an-die-belgische-Nordseekueste-13762752)
 
 [^2]: [DB Presse : ICE vers l’aéroport de Bruxelles](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)
+
+[^3]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)

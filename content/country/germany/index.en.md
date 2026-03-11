@@ -165,10 +165,10 @@ With Eurostar (formerly Thalys), the DB network can also be reached from Belgium
 
 #### Regional
 
-An SNCB suburban train also runs between Liège and Aachen, however national travel benefits for DB employees are not accepted on the German section between Aachen Süd(Gr) and Aachen Hbf.
+The S41 operated by SNCB runs between Liège-Saint-Lambert and Aachen. When using the S41, it is currently not clearly regulated whether a tariff operator change takes place at Aachen Süd(Gr).[^5] Therefore, it is unclear whether a DB ticket (e.g. DB FIP Coupon, national travel benefit for DB employees, or FIP 50 Ticket) is required between Aachen Süd (Gr) and Aachen Hbf, or whether FIP Coupons from SNCB are accepted through to Aachen Hbf.
 
 {{% highlight tip %}}
-When using the S41 between Liège-Saint-Lambert and Aachen, it is worth approaching the train staff, as the border crossing is often handled leniently. If in doubt, the ticket for the short German section can also be purchased from the train staff.
+We recommend speaking to the train staff. If in doubt, the ticket for the short German section can be purchased from the train staff at the standard fare of €2.20 (1st & 2nd class, as of March 2026).
 {{% /highlight %}}
 
 ### Denmark
@@ -288,3 +288,5 @@ There are also some cross-border regional train connections. Germany can also be
 [^3]: [Ausserfern Railway Feedback](https://github.com/fipguide/fipguide.github.io/issues/606)
 
 [^4]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
+[^5]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)

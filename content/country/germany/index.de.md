@@ -169,10 +169,10 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB
 
 #### Regionalverkehr
 
-Auch eine S-Bahn der SNCB verkehrt zwischen Lüttich und Aachen, bei dem jedoch auf dem deutschen Abschnitt zwischen Aachen Süd(Gr) und Aachen Hbf keine nationalen Fahrvergünstigungen für DB Mitarbeitende akzeptiert werden.
+Zwischen Liège-Saint-Lambert und Aachen verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^5] Daher ist es unklar, ob zwischen Aachen Süd (Gr) und Aachen Hbf ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB bis Aachen Hbf anerkannt werden.
 
 {{% highlight tip %}}
-Bei Nutzung der S41 zwischen Liège-Saint-Lambert und Aachen lohnt es sich, das Zugpersonal anzusprechen, da der Grenzübertritt oftmals kulant gehandhabt wird. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt auch beim Zugpersonal gekauft werden.
+Wir empfehlen, das Zugpersonal anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
 {{% /highlight %}}
 
 ### Dänemark
@@ -292,3 +292,5 @@ Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. A
 [^3]: [Feedback Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)
 
 [^4]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
+[^5]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)

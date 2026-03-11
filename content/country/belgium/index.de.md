@@ -55,10 +55,10 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz de
 
 #### Regionalverkehr
 
-Auch eine S-Bahn der SNCB verkehrt zwischen Aachen und Lüttich, bei dem jedoch auf dem deutschen Abschnitt zwischen Aachen Hbf und Aachen Süd(Gr) keine nationalen Fahrvergünstigungen für DB Mitarbeitende akzeptiert werden.
+Zwischen Aachen und Liège-Saint-Lambert verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^3] Daher ist es unklar, ob zwischen Aachen Hbf und Aachen Süd (Gr) ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB ab Aachen Hbf anerkannt werden.
 
 {{% highlight tip %}}
-Bei Nutzung der S41 zwischen Aachen und Liège-Saint-Lambert lohnt es sich, das Zugpersonal vor dem Einstieg anzusprechen, da der Grenzübertritt oftmals kulant gehandhabt wird. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt auch beim Zugpersonal gekauft werden.
+Wir empfehlen, das Zugpersonal vor Abfahrt anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
 {{% /highlight %}}
 
 ### Niederlande
@@ -80,3 +80,5 @@ Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Frankreich nach
 [^1]: [DB Presse: ICE an die belgische Nordseeküste](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Im-Sommer-mit-dem-ICE-erstmals-bis-an-die-belgische-Nordseekueste-13762752)
 
 [^2]: [DB Presse: ICE zum Flughafen Brüssel](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)
+
+[^3]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)

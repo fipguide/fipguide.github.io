@@ -165,10 +165,10 @@ Avec Eurostar (anciennement Thalys), le réseau DB est également accessible dep
 
 #### Régional
 
-Un train de banlieue de la SNCB circule également entre Liège et Aix-la-Chapelle, mais les avantages tarifaires nationaux pour les employés de la DB ne sont pas acceptés sur la section allemande entre Aachen Süd(Gr) et Aachen Hbf.
+Le S41 exploité par la SNCB circule entre Liège-Saint-Lambert et Aix-la-Chapelle. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^5] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Süd (Gr) et Aachen Hbf, ou si les Coupons FIP de la SNCB sont acceptés jusqu'à Aachen Hbf.
 
 {{% highlight tip %}}
-Lors de l’utilisation du S41 entre Liège-Saint-Lambert et Aix-la-Chapelle, il vaut la peine d’aborder le personnel du train, car le passage de la frontière est souvent géré avec souplesse. En cas de doute, le billet pour la courte section allemande peut également être acheté auprès du personnel du train.
+Nous recommandons d'interroger le personnel du train. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
 {{% /highlight %}}
 
 ### Danemark
@@ -288,3 +288,5 @@ Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est �
 [^3]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)
 
 [^4]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
+[^5]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)
