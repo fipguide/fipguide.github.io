@@ -295,7 +295,7 @@ The validity of tickets depends on the distance:
 - 51 km to 100 km: 6 hours from the date and time of issue or at the passenger's choice,
 - from 101 km: 1 day (one day is valid from 00:01 to 24:00).
 
-### Journey Interruption
+### Break of journey
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
@@ -303,15 +303,15 @@ Interrupting a journey is not allowed.
 
 #### Polregio
 
-One journey interruption is possible without confirmation.
+One break of journey is possible without confirmation.
 
 #### Koleje Mazowieckie (KM)
 
-Journey interruption is generally allowed, but there are exceptions. When in doubt, you should ask when buying the ticket whether an interruption is possible.
+Break of journey is generally allowed, but there are exceptions. When in doubt, you should ask when buying the ticket whether an interruption is possible.
 
 #### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
 
-Journey interruption is allowed but subject to the transport conditions (RPO-PKP SKM) on the website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+Break of journey is allowed but subject to the transport conditions (RPO-PKP SKM) on the website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
 
 ### Using PKP FIP Coupons on KŚ Routes
 
