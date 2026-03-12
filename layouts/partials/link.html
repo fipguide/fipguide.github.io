@@ -41,7 +41,7 @@
   >
     {{- partial "icon" "call" -}}{{- .Text -}}
   </a>
-{{- else if .Page.Ref (dict "path" $url) -}}
+{{- else if and (not (or (strings.HasSuffix $url ".webp") (strings.HasSuffix $url ".png") (strings.HasSuffix $url ".jpg") (strings.HasSuffix $url ".jpeg") (strings.HasSuffix $url ".svg") (strings.HasSuffix $url ".gif") (strings.HasSuffix $url ".pdf"))) (.Page.Ref (dict "path" $url)) -}}
   {{- /* Internal links, referenced by path (e.g. `/news/1`) */ -}}
   <a
     href="{{ .Page.Ref (dict "path" $url) }}"

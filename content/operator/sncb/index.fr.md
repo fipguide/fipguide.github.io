@@ -35,7 +35,7 @@ En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et 
   reservation_possible=true
 %}}
 
-Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés avec des Billets FIP sans supplément en Belgique entre Bruxelles-Midi et Liège-Guillemins.
+Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main). Certains trains circulent également entre l’Allemagne et Anvers via l’aéroport de Bruxelles-Zaventem ou en été entre l’Allemagne et la côte belge. Tous les trains ICE peuvent également être utilisés en Belgique avec des Billets FIP sans supplément.
 
 {{% /train-category %}}
 
@@ -180,11 +180,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 ### À bord du train
 
-Si aucun guichet n’est disponible ou ouvert, un billet peut être acheté à bord du train auprès du contrôleur si celui-ci est abordé immédiatement. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé dans ce cas. [^2]
+Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. Les enfants de 6 à 11 ans bénéficient d’une réduction de 50 % sur le tarif adulte, et à partir de 12 ans, ils paient le tarif adulte. S’ils sont éligibles FIP, ils ne paient également que la moitié du prix normal avec le Billet FIP 50. [^1]
+Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils sont accompagnés d’un adulte (une personne de 12 ans ou plus en possession d’un titre de transport valable) et n’ont pas besoin de billet. Si tous les enfants appartiennent au même ménage, plus de quatre enfants peuvent voyager gratuitement. Un document officiel valide (carte d’identité ou passeport) attestant l’âge de l’enfant est requis pour le voyage. Si un enfant voyage seul ou si la limite de quatre enfants gratuits par adulte est dépassée, un billet au tarif Youth doit être acheté, celui-ci étant 40 % moins cher que le tarif standard. Si les enfants sont éligibles FIP, ils bénéficient d’une réduction de 50 % sur le tarif standard avec le Billet FIP 50. [^3]
 
 ## Conditions tarifaires spéciales
 
@@ -203,3 +203,7 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/products/child)
+
+[^4]: [Site Web SNCB](https://www.belgiantrain.be/en/products/supplements/onboard)

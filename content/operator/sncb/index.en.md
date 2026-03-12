@@ -35,7 +35,7 @@ Within Belgium, no reservation is required for SNCB and in many trains, it is no
     reservation_possible=true
 %}}
 
-High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main), but can also be used with FIP Tickets without surcharge within Belgium between Brussels Midi and Liège-Guillemins.
+High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main). Some trains also run between Germany and Antwerp via Brussels Airport Zaventem or in summer between Germany and the Belgian coast. All ICE trains can also be used within Belgium with FIP Tickets without surcharge.
 
 {{% /train-category %}}
 
@@ -181,11 +181,11 @@ Domestic journeys unfortunately cannot be purchased online.
 
 ### On the train
 
-If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. The usual SNCB surcharge for on-board sales is not charged in this case. [^2]
+FIP discounted tickets can generally be purchased on board the trains. The usual SNCB surcharge for on-board sales is not charged, as the tickets are not available at ticket machines. [^2]<sup>, </sup>[^4]
 
 ## Discounts
 
-Children up to 5 years old travel free on SNCB trains. Children aged 6 to 11 are entitled to a 50% discount on the adult fare, and from 12 years old, they pay the adult fare. If they are FIP eligible, they also pay only half the normal price with FIP 50. [^1]
+Up to four children under the age of 12 travel for free when accompanied by an adult (a person aged 12 or over in possession of a valid ticket) and do not need a ticket. If all children belong to the same household, more than four children may travel for free. A valid official document (identity card or passport) proving the child's age is required for the journey. If a child is travelling alone or the limit of four free children per adult is exceeded, a ticket must be purchased at the Youth rate, which is 40% less than the Standard rate. If the children are FIP eligible, they receive a 50% discount on the Standard rate with the FIP 50 Ticket. [^3]
 
 ## Special Tariff Conditions
 
@@ -204,3 +204,7 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [SNCB Child Policy](https://www.belgiantrain.be/en/products/child)
+
+[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
