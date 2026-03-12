@@ -412,19 +412,24 @@ Le FIP n’est valable que partiellement sur les lignes listées ci-dessous ; su
     id="rbs"
     title="Regionalverkehr Bern–Solothurn (RBS)"
     type="regional"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=false
 %}}
-RBS est une entreprise de transport régional et exploite quatre lignes à voie métrique dans les cantons de Berne et de Soleure. Elles sont en partie intégrées au RER de Berne. Des lignes d’autobus sont également proposées.
-
-Le FIP est valable sur toutes les lignes.
+La RBS est une entreprise de transport régional qui exploite quatre lignes ferroviaires à voie métrique dans les cantons de Berne et de Soleure. Celles-ci sont en partie intégrées au RER de Berne. Le FIP est reconnu sur toutes les lignes, à l’exception de la S9 et de la ligne de tram 6. De plus, la RBS exploite également des lignes de bus sur lesquelles le FIP est intégralement reconnu. [^2]
 
 #### Lignes régulières
 
-- Bern – Solothurn (RE 5)
-- Bern – Worb Dorf (S7)
-- Bern – Bätterkinden (S8)
-- Bern – Unterzollikofen (S9)
+##### Lignes avec validité FIP
+
+- Berne – Soleure (RE5)
+- Berne – Worb Dorf (S7)
+- Berne – Bätterkinden (S8)
+- Tous les bus de la RBS
+
+##### Lignes sans validité FIP
+
+- Berne – Unterzollikofen (S9)
+- Ligne de tram 6 : Berne – Gümligen – Worb Dorf
 
 {{% /train-category %}}
 
@@ -909,3 +914,5 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

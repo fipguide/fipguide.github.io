@@ -172,7 +172,7 @@ Great Northern bietet Pendlerverbindungen von London nach Hertfordshire, Cambrid
 
 Greater Anglia fährt von London Liverpool Street in die östlichen Counties Englands und nach Norwich.
 
-In der ersten Klasse können Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden.
+Auf der Hauptlinie zwischen Norwich und London können in der ersten Klasse an Werktagen (Montag bis Freitag, einschl. Feiertage) Snacks und Getränke aus dem Bordcafé kostenlos abgeholt werden.[^6] Checke vorher die [Verfügbarkeit und Öffnungszeiten des Bordcafé](https://www.greateranglia.co.uk/travel-information/your-journey/catering).
 
 {{% /train-category %}}
 
@@ -497,7 +497,7 @@ Gebieten, in denen Fahrkarten allgemein nur in Zügen ausgestellt werden (_Pay-T
 
 ## Ermäßigungen
 
-Aktive und pensionierte Mitarbeitende der SNCB/NMBS (Belgien), SNCF (Frankreich), Irish Rail (CIE) und Northern Ireland Railways (NIR) sowie deren Ehepartner und unterhaltsberechtigte Kinder erhalten unter Vorlage des FIP Ausweises eine Ermäßigung von 75% auf den Ticketpreis (statt der sonst üblichen 50% bei FIP 50 Tickets). [^1]
+Aktive und pensionierte Mitarbeitende der SNCB/NMBS (Belgien), SNCF (Frankreich), Irish Rail ([CIE](/operator/cie)) und Northern Ireland Railways ([NIR](/operator/nir)) sowie deren Ehepartner und unterhaltsberechtigte Kinder erhalten unter Vorlage des FIP Ausweises eine Ermäßigung von 75% auf den Ticketpreis (statt der sonst üblichen 50% bei FIP 50 Tickets). [^1]
 
 ## Tarifliche Besonderheiten
 
@@ -674,3 +674,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
 [^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+
+[^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)

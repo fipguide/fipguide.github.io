@@ -210,7 +210,7 @@ Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier unei
 
 Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
 
-### Telefonisch
+### Telefon
 
 Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotline wird man lediglich an Ticketschalter verwiesen, wenn man nach FIP-Tickets fragt.
 

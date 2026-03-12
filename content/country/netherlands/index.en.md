@@ -41,6 +41,7 @@ A special feature in the Netherlands is that almost all larger stations have tic
 | --- | --- |
 | [Germany](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
 | [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
+| [United Kingdom](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland |
 {{% /expander %}}
 
 ### Germany
@@ -69,7 +70,7 @@ Direct [Eurostar](/operator/eurostar "Eurostar") trains run from London St. Panc
 Additionally, there is a [ferry connection from Stena Line BV](/operator/stl) from Harwich to Hoek van Holland, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
 
 {{% highlight tip %}}
-Stena Line offers tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+Stena Line BV offers tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
 
 [Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 {{% /highlight %}}
