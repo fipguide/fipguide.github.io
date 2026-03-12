@@ -7,8 +7,6 @@ params:
     - Transdev (Luas - Straßenbahn Dublin)
 ---
 
-{{< wip >}}
-
 ## FIP Nutzung
 
 Das Bahnnetz in Irland wird von der staatlichen Bahngesellschaft [Irish Rail](/operator/cie) (Iarnród Éireann) betrieben. FIP Vergünstigungen gelten für alle Züge von Irish Rail.

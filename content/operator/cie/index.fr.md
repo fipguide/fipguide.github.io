@@ -6,8 +6,6 @@ country:
 operator: "cie"
 ---
 
-{{< wip >}}
-
 Córas Iompair Éireann (CIE) est la compagnie ferroviaire nationale d'[Irlande](/country/ireland) et la société mère d'Irish Rail (Iarnród Éireann). La filiale exploite la majorité du trafic ferroviaire en République d'Irlande, notamment les lignes principales entre Dublin, Cork, Galway et Limerick, ainsi que des liaisons régionales dans les environs de Dublin et Cork.
 
 Sur son site web, Irish Rail propose une [carte d'ensemble des lignes](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map).

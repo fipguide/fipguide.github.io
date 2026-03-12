@@ -6,10 +6,6 @@ country:
 operator: "nir"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
 Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirland und gehört zu Translink, einem staatlichen Verkehrsunternehmen. Das Zugnetz ist überschaubar und umfasst hauptsächlich Verbindungen von bzw. nach Belfast.
 
 ## Zusammenfassung

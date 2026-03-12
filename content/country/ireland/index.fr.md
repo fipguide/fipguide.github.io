@@ -7,8 +7,6 @@ params:
     - Transdev (Luas - Tramway de Dublin)
 ---
 
-{{< wip >}}
-
 ## Informations FIP
 
 Le réseau ferroviaire irlandais est exploité par la compagnie ferroviaire nationale [Irish Rail](/operator/cie) (Iarnród Éireann). Les réductions FIP s'appliquent à tous les trains d'Irish Rail.

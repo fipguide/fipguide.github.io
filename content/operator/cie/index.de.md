@@ -6,8 +6,6 @@ country:
 operator: "cie"
 ---
 
-{{< wip >}}
-
 Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/country/ireland) und das Mutterunternehmen von Irish Rail (Iarnród Éireann). Die Tochtergesellschaft betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.
 
 Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map) an.
