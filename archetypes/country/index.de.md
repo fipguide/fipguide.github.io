@@ -20,6 +20,9 @@ params:
     - Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft?
 -->
 
+{{< identify-operator sources="" >}}
+{{< /identify-operator >}}
+
 ## Wissenswertes
 
 <!--
