@@ -44,10 +44,11 @@ All trains require reservations, and a train-specific ticket must be purchased a
 High-speed train between Great Britain and Europe.
 
 **FIP Global Fare:**
-| Route | Standard | Plus |
-| ----------- | -------- | ---- |
-| London - Paris / Brussels | € 39 / £ 34.50 | € 60 / £ 52.50 |
-| London - Amsterdam / Rotterdam | € 51 / £ 44.50 | € 71 / £ 62 |
+
+| Route                          | Standard       | Plus           |
+| ------------------------------ | -------------- | -------------- |
+| London - Paris / Brussels      | € 39 / £ 34.50 | € 60 / £ 52.50 |
+| London - Amsterdam / Rotterdam | € 51 / £ 44.50 | € 71 / £ 62    |
 
 {{% /train-category %}}
 
@@ -63,11 +64,12 @@ High-speed train between Great Britain and Europe.
 High-speed train between Belgium, Germany, France, and the Netherlands.
 
 **FIP Global Fare:**
-| Route | Standard | Plus |
-| ----------- | -------- | ---- |
-| Travel within one country | No FIP | No FIP |
-| Travel between 2 countries | € 18 | € 35 |
-| Travel between 3 countries | € 20 | € 40 |
+
+| Route                      | Standard | Plus   |
+| -------------------------- | -------- | ------ |
+| Travel within one country  | No FIP   | No FIP |
+| Travel between 2 countries | € 18     | € 35   |
+| Travel between 3 countries | € 20     | € 40   |
 
 {{% /train-category %}}
 
