@@ -11,8 +11,8 @@ params:
 
 Das Bahnnetz in Irland wird von der staatlichen Bahngesellschaft [Irish Rail](/operator/cie) (Iarnród Éireann) betrieben. FIP Vergünstigungen gelten für alle Züge von Irish Rail.
 
-{{< identify-operator sources="" >}}
-Mit Ausnahme von Sonderfahrten ist Irish Rail der einzige Betreiber von regulären Zugverbindungen in Irland. Lediglich beim Enterprise Service übernimmt die nordirische Bahngesellschaft [NIR](/operator/nir) den Betrieb auf dem Abschnitt zwischen Dundalk und Belfast.
+{{< identify-operator sources="irish-rail-website,db-website" >}}
+Mit Ausnahme von Sonderfahrten ist Irish Rail der einzige Betreiber von regulären Zugverbindungen in Irland.
 {{< /identify-operator >}}
 
 ## Wissenswertes

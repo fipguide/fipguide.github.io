@@ -11,8 +11,8 @@ params:
 
 Le réseau ferroviaire irlandais est exploité par la compagnie ferroviaire nationale [Irish Rail](/operator/cie) (Iarnród Éireann). Les réductions FIP s'appliquent à tous les trains d'Irish Rail.
 
-{{< identify-operator sources="" >}}
-À l'exception des services spéciaux, Irish Rail est le seul opérateur de liaisons ferroviaires régulières en Irlande. Seul sur le service Enterprise, la compagnie ferroviaire nord-irlandaise [NIR](/operator/nir) assure l'exploitation sur la section entre Dundalk et Belfast.
+{{< identify-operator sources="irish-rail-website,db-website" >}}
+À l'exception des services spéciaux, Irish Rail est le seul opérateur de liaisons ferroviaires régulières en Irlande.
 {{< /identify-operator >}}
 
 ## Informations générales

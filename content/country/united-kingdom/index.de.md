@@ -31,7 +31,9 @@ Nordirland wird dagegen von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) b
 
 Zusätzlich gibt es Züge von [Eurostar](/operator/eurostar "Eurostar") nach Kontinentaleuropa, die mit FIP Globalpreisen genutzt werden können. Alternativ können Fährverbindungen in die Niederlande zwischen Harwich und Hoek van Holland oder Fährverbindungen nach Irland mit FIP genutzt werden.
 
-{{< identify-operator sources="gb-website,db-website" />}}
+{{< identify-operator sources="gb-website,translink-website,db-website" >}}
+Für Verbindungen in Großbritannien empfiehlt sich die National Rail Website, in Nordirland die Translink Website.
+{{< /identify-operator >}}
 
 ## Wissenswertes
 
@@ -55,9 +57,9 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 | [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Cairnryan, Liverpool, Belfast |
 {{% /expander %}}
 
-### Reisen zwischen dem Vereinigten Königreich und Nordirland
+### Reisen zwischen Großbritannien und Nordirland
 
-Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und dem Rest des Vereinigten Königreichs. Stattdessen gibt es [Fährverbindungen mit Stena Line Limited](/operator/sll), welche mit FIP genutzt werden können.
+Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und Großbritannien. Stattdessen gibt es [Fährverbindungen mit Stena Line Limited](/operator/sll), welche mit FIP genutzt werden können.
 
 Von Belfast verkehren Stena Line Limited Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line Limited sind mit eigenen FIP Freifahrtscheinen von Stena Line Limited bzw. FIP 50 Tickets vergünstigt nutzbar.
 

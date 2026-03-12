@@ -31,7 +31,9 @@ L’Irlande du Nord est desservie par sa propre compagnie ferroviaire ([NIR](/op
 
 Il existe également des trains [Eurostar](/operator/eurostar "Eurostar") vers l’Europe continentale, accessibles avec les tarifs globaux FIP. Alternativement, les liaisons par ferry vers les Pays-Bas entre Harwich et Hoek van Holland ou vers l’Irlande peuvent être utilisées avec le FIP.
 
-{{< identify-operator sources="gb-website,db-website" />}}
+{{< identify-operator sources="gb-website,translink-website,db-website" >}}
+Pour les liaisons en Grande-Bretagne, le site web National Rail est recommandé ; en Irlande du Nord, le site web Translink.
+{{< /identify-operator >}}
 
 ## Informations générales
 
@@ -55,9 +57,9 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 | [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Cairnryan, Liverpool, Belfast |
 {{% /expander %}}
 
-### Voyage entre le Royaume-Uni et l’Irlande du Nord
+### Voyages entre la Grande-Bretagne et l’Irlande du Nord
 
-L’Irlande du Nord fait partie du Royaume-Uni mais est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)). En raison de la séparation par la mer d’Irlande, il n’existe pas de liaisons ferroviaires directes entre l’Irlande du Nord et le reste du Royaume-Uni. À la place, il existe des [liaisons par ferry avec Stena Line Limited](/operator/sll), qui peuvent être utilisées avec le FIP.
+L’Irlande du Nord fait partie du Royaume-Uni mais est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)). En raison de la séparation par la mer d’Irlande, il n’existe pas de liaisons ferroviaires directes entre l’Irlande du Nord et la Grande-Bretagne. À la place, il existe des [liaisons par ferry avec Stena Line Limited](/operator/sll), qui peuvent être utilisées avec le FIP.
 
 Depuis Belfast, des ferries Stena Line Limited relient Cairnryan en Écosse et Liverpool en Angleterre. Les liaisons par ferry Stena Line Limited sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
 

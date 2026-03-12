@@ -11,8 +11,8 @@ params:
 
 The railway network in Ireland is operated by the state railway company [Irish Rail](/operator/cie) (Iarnród Éireann). FIP discounts apply to all Irish Rail trains.
 
-{{< identify-operator sources="" >}}
-With the exception of special services, Irish Rail is the only operator of regular train services in Ireland. Only on the Enterprise Service does the Northern Irish railway company [NIR](/operator/nir) take over operations on the section between Dundalk and Belfast.
+{{< identify-operator sources="irish-rail-website,db-website" >}}
+With the exception of special services, Irish Rail is the only operator of regular train services in Ireland.
 {{< /identify-operator >}}
 
 ## Interesting

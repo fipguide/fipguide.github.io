@@ -31,7 +31,9 @@ Northern Ireland, on the other hand, is served by its own railway company ([NIR]
 
 Additionally, there are [Eurostar](/operator/eurostar "Eurostar") trains to continental Europe, which can be used with FIP global fares. Alternatively, ferry connections to the Netherlands between Harwich and Hoek van Holland or ferry connections to Ireland can be used with FIP.
 
-{{< identify-operator sources="gb-website,db-website" />}}
+{{< identify-operator sources="gb-website,translink-website,db-website" >}}
+For connections in Great Britain, the National Rail website is recommended; in Northern Ireland, the Translink website.
+{{< /identify-operator >}}
 
 ## Interesting
 
@@ -55,9 +57,9 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 | [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Cairnryan, Liverpool, Belfast |
 {{% /expander %}}
 
-### Travel between the United Kingdom and Northern Ireland
+### Travel between Great Britain and Northern Ireland
 
-Northern Ireland is part of the United Kingdom but is served by its own railway company ([NIR](/operator/nir)). Due to the separation by the Irish Sea, there are no direct train connections between Northern Ireland and the rest of the United Kingdom. Instead, there are [ferry connections with Stena Line Limited](/operator/sll), which can be used with FIP.
+Northern Ireland is part of the United Kingdom but is served by its own railway company ([NIR](/operator/nir)). Due to the separation by the Irish Sea, there are no direct train connections between Northern Ireland and Great Britain. Instead, there are [ferry connections with Stena Line Limited](/operator/sll), which can be used with FIP.
 
 From Belfast, Stena Line Limited ferries operate to Cairnryan in Scotland and Liverpool in England. Stena Line Limited ferry connections can be used at a discount with Stena Line Limited FIP Coupons or FIP 50 Tickets.
 
