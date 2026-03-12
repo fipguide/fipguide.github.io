@@ -6,7 +6,7 @@ description: "Booking information for the SNCB hotline."
 params:
   fip_50: true
   type: "phone"
-  fee: " "
+  fee: "€0.30 / minute + service charge"
   additional_info_link: "https://www.b-europe.com/EN/Contact/Contact-Centre"
 ---
 
