@@ -35,7 +35,7 @@ Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in viele
     reservation_possible=true
 %}}
 
-Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
+Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main). Einzelne Züge verkehren auch zwischen Deutschland und Antwerpen über den Flughafen Brüssel Zaventem und im Sommer zwischen Deutschland und der belgischen Küste. Alle ICE-Züge können auch innerhalb Belgiens mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
 
 {{% /train-category %}}
 
@@ -179,7 +179,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 ### Im Zug
 
-Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet. [^2]
+FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet, da die Tickets nicht an Ticketautomaten verfügbar sind. [^2]<sup>, </sup>[^4]
 
 ## Ermäßigungen
 
@@ -204,3 +204,5 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 [^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
 
 [^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)
+
+[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
