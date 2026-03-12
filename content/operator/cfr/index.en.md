@@ -24,9 +24,7 @@ FIP Coupons and FIP 50 Tickets are valid on CFR Călători services. For cross-b
 
 ## Train Categories and Reservations
 
-{{% highlight confusion %}}
 The train categories are partially used by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
-{{% /highlight %}}
 
 {{% train-category
     id="ic"

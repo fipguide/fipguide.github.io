@@ -24,9 +24,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services de CFR Căl
 
 ## Catégories de trains et réservations
 
-{{% highlight confusion %}}
 Les catégories de trains sont en partie également utilisées par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
-{{% /highlight %}}
 
 {{% train-category
     id="ic"

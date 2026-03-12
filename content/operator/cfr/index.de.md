@@ -24,9 +24,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CFR Călători
 
 ## Zugkategorien und Reservierungen
 
-{{% highlight confusion %}}
 Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genutzt. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
 
 {{% train-category
     id="ic"
