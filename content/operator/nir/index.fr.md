@@ -80,7 +80,7 @@ Les Billets FIP 50 doivent être achetés avant le départ. Sur le service Enter
 
 ## Réductions
 
-Les enfants jusqu'à 5 ans voyagent gratuitement. Les jeunes jusqu'à 16 ans bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^2]
+Les enfants jusqu'à 5 ans voyagent gratuitement. Les jeunes jusqu'à 16 ans bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^1]
 
 ## Conditions tarifaires spéciales
 

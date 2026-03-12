@@ -80,7 +80,7 @@ FIP 50 Tickets must be purchased before boarding. On the Enterprise Service, it 
 
 ## Discounts
 
-Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^2]
+Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^1]
 
 ## Special Tariff Conditions
 
