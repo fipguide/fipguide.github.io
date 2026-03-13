@@ -12,7 +12,7 @@ params:
 
 ## FIP Nutzung
 
-In Griechenland werden **FIP 50 Tickets** sowie **FIP-Freifahrtscheine** bei der staatlichen Eisenbahn **Hellenic Train** anerkannt. Die Anerkennung gilt für nahezu das gesamte von Hellenic Train betriebene Streckennetz, einschließlich Fernverkehr, Regionalzügen und dem Vorortverkehr (Proastiakos).
+In Griechenland werden FIP 50 Tickets sowie FIP-Freifahrtscheine bei der staatlichen Eisenbahn Hellenic Train anerkannt. Die Anerkennung gilt für nahezu das gesamte von Hellenic Train betriebene Streckennetz, einschließlich Fernverkehr, Regionalzügen und dem Vorortverkehr (Proastiakos).
 
 Bei der Nutzung von FIP‑Fahrkarten sind folgende Besonderheiten zu beachten: Für bestimmte Schnellzüge, insbesondere auf der Hauptstrecke Athen – Thessaloniki, ist eine reservierungspflichtige Sitzplatzbuchung erforderlich, die zusätzlich bezahlt werden muss. Die Pelion-Museumsbahn wird ebenfalls von Hellenic Train betrieben, allerdings wird FIP auf dieser Strecke nicht anerkannt.
 
