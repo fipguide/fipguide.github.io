@@ -500,7 +500,7 @@ Les billets à tarif réduit FIP ne sont pas délivrés à bord des trains, sauf
 
 ## Réductions
 
-Les agents actifs et retraités de la SNCB/NMBS (Belgique), SNCF (France), Irish Rail (CIE) et Northern Ireland Railways (NIR), ainsi que leurs conjoints et enfants à charge, bénéficient d’une réduction de 75 % sur le prix du billet sur présentation de la Carte FIP (au lieu des 50 % habituels pour les Billets FIP 50). [^1]
+Les agents actifs et retraités de la SNCB/NMBS (Belgique), SNCF (France), Irish Rail ([CIE](/operator/cie)) et Northern Ireland Railways ([NIR](/operator/nir)), ainsi que leurs conjoints et enfants à charge, bénéficient d’une réduction de 75 % sur le prix du billet sur présentation de la Carte FIP (au lieu des 50 % habituels pour les Billets FIP 50). [^1]
 
 ## Conditions tarifaires spéciales
 

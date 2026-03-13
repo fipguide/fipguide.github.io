@@ -20,6 +20,9 @@ params:
     - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
 -->
 
+{{< identify-operator sources="" >}}
+{{< /identify-operator >}}
+
 ## Interesting
 
 <!--

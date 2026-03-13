@@ -496,7 +496,7 @@ FIP-discounted tickets are not issued on trains, except in certain rural areas w
 
 ## Discounts
 
-Active and retired employees of SNCB/NMBS (Belgium), SNCF (France), Irish Rail (CIE), and Northern Ireland Railways (NIR), as well as their spouses and dependent children, receive a 75% discount on the ticket price upon presentation of the FIP Card (instead of the usual 50% for FIP 50 Tickets). [^1]
+Active and retired employees of SNCB/NMBS (Belgium), SNCF (France), Irish Rail ([CIE](/operator/cie)), and Northern Ireland Railways ([NIR](/operator/nir)), as well as their spouses and dependent children, receive a 75% discount on the ticket price upon presentation of the FIP Card (instead of the usual 50% for FIP 50 Tickets). [^1]
 
 ## Special Tariff Conditions
 

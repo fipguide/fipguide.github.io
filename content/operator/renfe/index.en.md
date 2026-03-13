@@ -211,7 +211,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 
 It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
-### By telephone
+### Telephone
 
 It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hotline asks you to use the on-site ticket counters.
 

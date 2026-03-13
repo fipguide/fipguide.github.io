@@ -41,6 +41,7 @@ Particularité : la plupart des grandes gares sont équipées de portiques. L’
 | --- | --- |
 | [Allemagne](/country/germany) ([DB](/operator/db)) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
 | [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Roosendaal (fr), Visé |
+| [Royaume-Uni](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland |
 {{% /expander %}}
 
 ### Allemagne
@@ -69,7 +70,7 @@ Depuis London St. Pancras, des trains [Eurostar](/operator/eurostar "Eurostar") 
 De plus, une [liaison par ferry de Stena Line BV](/operator/stl) relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
 
 {{% highlight tip %}}
-Stena Line propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+Stena Line BV propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
 
 [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 {{% /highlight %}}
