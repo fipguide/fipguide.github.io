@@ -6,170 +6,180 @@ country:
 operator: "ht"
 ---
 
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
-
-<!--
-  Kurze Beschreibung der Bahngesellschaft. z. B. Der vollstandige Name in Landessprache, alternative Namen und Angabe über Privat/Staatsbahn
--->
+Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fernzugverbindungen, Regionalzügen und dem Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).
 
 ## Zusammenfassung
 
-<!--
-  Stichpunktartige Zusammenfassung der wichtigsten Besonderheiten/FIP-Reglungen der Bahngesellschaft.
-  z. B.
-  - Werden FIP 50 und FIP Freifahrtscheine akzeptiert?
-  - Gibt es eine Reservierungspflicht?
-  - Gibt es sonstige tarifliche Sonderregelungen oder Abweichungen zu anderen FIP Bahngesellschaften?
--->
+- FIP‑Freifahrtscheine und FIP 50 Tickets werden akzeptiert.
+- Es besteht Reservierungspflicht auf Fernverkehrszügen.
 
 ## Gültigkeit FIP Tickets
 
-<!--
-  Die Ticketkategorien können je nach Betreiber abweichen.
--->
-
-FIP Freifahrtschein: <✅/⛔> \
-FIP Freifahrt Angehörige: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Globalpreis: <✅/⛔>
-
-<!--
-  Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
--->
+FIP Freifahrtschein: ✅ \
+FIP Freifahrt Angehörige: ⛔ \
+FIP 50 Tickets: ✅
 
 ## Zugkategorien und Reservierungen
 
-<!--
-  Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden. Folgende Parameter können übergeben werden:
-  - `id`: Kleingeschriebene, mit Bindestrichen getrennte Abkürzung der Zugkategorie (z.B. "ice", "tgv-inoui")
-  - `title`: Titel der Zugkategorie
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` oder `ship`
-  - `fip_accepted`: true, false, partially
-  - `reservation_required`: true, false, partially
-  - `reservation_possible`: true, false, partially (default false, kann weggelassen werden, wenn  reservation_required true ist)
-  - `route_overview_url`: Link zu einer Seite mit einer Übersicht der Routen dieser Kategorie (kann weggelassen werden, wenn nicht vorhanden)
-  - `additional_information_url`: Link zu einer Seite mit zusätzlichen Informationen zu dieser Kategorie (kann weggelassen werden, wenn nicht vorhanden)
--->
-
 {{% train-category
-    id="expander-id"
-    title="title"
+    id="intercity"
+    title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
     reservation_required=true
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
 %}}
 
-<!--
-  Hier kann eine Beschreibung der Zugkategorie ergänzt werden.
--->
-
-{{% highlight confusion %}}
-Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird.
-{{% /highlight %}}
-
-{{% highlight important %}}
-Hier können weitere wichtige Informationen ergänzt werden.
-{{% /highlight %}}
+Diese Züge verbinden Athen und Thessaloniki sowie Larisa und andere größere Städte. Die Verbindung ist elektrifiziert und bietet die schnellsten Reisezeiten im Land. FIP wird vollständig anerkannt, jedoch ist eine kostenpflichtige Sitzplatzreservierung zwingend erforderlich.
 
 #### Reservierung
 
-<!--
-  Beschreibung der Reservierungsbedingung für diese Zugkategorie.
--->
+Reservierungen sind vorab zwingend zu erwerben. Sie können online oder vor Ort gekauft werden.
+Supplements are payable by holders of FIP coupons and FIP discounted tickets for travel on IC services. The full supplement is payable by children between the ages of 4 and 12.[^1]
 
 #### Strecken im Linienverkehr
 
-<!--
-  Auflistung aller Strecken dieser Zugkategorie im Linienverkehr.
-
-  Bei teilweiser FIP-Gültigkeit können die folgenden Unterüberschriften verwendet werden:
--->
-
-<!--
-##### Strecken mit FIP-Gültigkeit
-
-- Route 1
-- Route 2
-
-##### Strecken ohne FIP-Gültigkeit
-
-- Route 3
-- Route 4
--->
+- Athen – Thessaloniki
+- Thessaloniki – Larisa
+- Larisa – Athen
 
 {{% /train-category %}}
 
+{{% train-category
+    id="regional"
+    title="Regionalzüge (REG)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+
+Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
+
+#### Strecken im Linienverkehr
+
+**Thessaloniki** https://www.hellenictrain.gr/en/thessaloniki-regional-railway-lines
+
+- Thessaloniki – Larisa
+- Thessaloniki – Florina (der Abschnitt Edessa – Florina wird temporär mit Bussen bedient)
+- Thessaloniki – Sindos
+
+**Athen**
+
+- Piraeus – Athen – Kiato
+- Athens – Chalkida
+
+- Larisa – Volos
+- Patras – Kiato (mit Anschluss an die Vorortbahn nach Athen)
+
+{{% /train-category %}}
+
+{{% train-category
+    id="proastiakos"
+    title="Proastiakos (S-Bahn / Vorortzüge)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+
+Der Proastiakos verbindet Vororte mit größeren Städten und sind vergleichbar mit einer S-Bahn.
+
+#### Strecken im Linienverkehr
+
+- Piräus – Chalkida – Athen – Ano Liosia
+- Kiato – Flughafen Athen
+- Thessaloniki – Larisa
+- Thessaloniki – Edessa (– Florina)
+- Agios Andreas – Rio (– Agios Vasilios)
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+    reservation_required=false
+%}}
+
+Frühere Zugverbindungen wurden durch Busse ersetzt. FIP-Vergünstigungen werden anerkannt.[^1]
+
+#### Strecken im Linienverkehr
+
+- Rio – Agios Vasilios
+- Edessa – Florina (temporär)
+- Kiato – Patras
+- Kato Achaia – Kaminia
+- Kastelokampos – Agios Vasileios (ist es von Hellenic Train?)
+- Kastelokampos – University of Patras (ist es von Hellenic Train?)
+
+{{% /train-category %}}
+
+{{% train-category
+    id="pelion"
+    title="Pelion Train (Museumsbahn)"
+    type="regional"
+    fip_accepted=false
+    reservation_required=true
+    additional_information_url="https://www.hellenictrain.gr/en/mythical-route"
+%}}
+
+Die Pelion-Bahn von Ano Lechonia nach Mileai wird von Hellenic Train betrieben, jedoch wird FIP hier nicht anerkannt.[^1]
+
+{{% /train-category %}}
+
+Werden diese historischen / touristischen Verkehre anerkannt?
+
+- https://www.hellenictrain.gr/en/katakolo-olympia
+- https://www.hellenictrain.gr/en/attraction-rails
+
 ## Klassenkategorien
 
-<!--
-  Wenn die Klassenkategorien zusätzliche/andere Klassen zu 1. und 2. Klasse haben, dann können diese hier beschrieben werden. Ansonsten kann dieser Abschnitt entfernt werden.
--->
-
-<!--
-**Standard**: Vergleichbar mit der 2. Klasse. \
-**Plus**: 1. Klasse ohne Verpflegung. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
-**Premium**: 1. Klasse inkl. Verpflegung. Nicht mit FIP buchbar.
--->
+- Die meisten Züge von Hellenic Train besitzen ausschließlich eine 2. Klasse.
+- Auf manchen IC‑Zügen existiert eine 1. Klasse, welche mit FIP nutzbar ist, sofern der entsprechende FIP‑Ausweis vorhanden ist.
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-<!--
-  Bette hier Buchungsplattformen mit Onlinebuchung ein.
+{{% booking id="ht-website"
+    fip_global_fare=nil
+    fip_50=true
+/%}}
 
-  Individuelle Buchungsparameter können überschrieben werden, aber müssen nicht überschrieben werden.
-  Wenn sie nicht übergeben werden, dann werden die definieren defaults der Seite der Buchungsplattform verwendet.
+Hellenic Train App
+https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app
 
-  Mehr Informationen sind im booking archetype zu finden.
--->
-
-### Telefon
-
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung per Telefon hinzu.
--->
+Telefon (auch FIP?): https://www.hellenictrain.gr/en/ticket-issue-call-center-14511
 
 ### Vor Ort
 
-<!--
-  Füge hier weitere Buchungsplattformen mit Buchung vor Ort hinzu.
--->
+Hellenic Train ticket offices: https://www.hellenictrain.gr/en/sale-points
 
 ### Im Zug
 
-<!--
-  Können im Zug noch Fahrkarten mit FIP Rabatt gekauft werden, wenn ja wie und gibt einen Preisaufschlag?
--->
+Reservierungen sind nicht im Zug erhältlich.
+
+FIP discounted tickets may only be purchased on-board trains if arriving into Greece and continuing a journey in the same train which crossed the frontier, or when starting a journey at a station where the ticket office is unstaffed.[^1]
+
+https://www.hellenictrain.gr/en/ticket-sales-board
 
 ## Ermäßigungen
 
-<!--
-  Welche Ermäßigungen können Kinder bekommen und unter welchen Umständen?
-  Welche Ermäßigungen kann es sonst noch geben?
--->
+For public fares, children up to 4 years old travel free. Children up to 12 years old are eligible for a 50% reduction on the adult fare. Persons aged 12 and older pay the adult fare.[^1]
 
 ## Tarifliche Besonderheiten
 
-### <Route bzw. Name>
+### Fahrtunterbrechung
 
-<!--
-  Beschreibung der Besonderheit, wenn es auf bestimmten Routen z. B. Sonderregelungen gibt.
--->
+Break of journey is not permitted.[^1]
 
-## Empfehlungen
+### IC-Verbindungen zwischen Athen und Thessaloniki
 
-<!--
-  Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
--->
+Für die IC-Verbindungen besteht eine Reservierungspflicht,
+Die Gebühr ist auch bei FIP‑Freifahrt obligatorisch.
 
 ## Quellen
 
-[^1]: [<Quellenname 1>](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [<Quellenname 2](Link)

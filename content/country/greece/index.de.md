@@ -8,11 +8,9 @@ params:
     - THEMA S.A. – Thessaloniki Metro
 ---
 
-{{< wip >}}
-
 ## FIP Nutzung
 
-In Griechenland werden FIP 50 Tickets sowie FIP-Freifahrtscheine bei der staatlichen Eisenbahn Hellenic Train anerkannt. Die Anerkennung gilt für nahezu das gesamte von Hellenic Train betriebene Streckennetz, einschließlich Fernverkehr, Regionalzügen und dem Vorortverkehr (Proastiakos).
+In Griechenland werden FIP 50 Tickets sowie FIP-Freifahrtscheine bei der staatlichen Eisenbahn [Hellenic Train](/operator/ht) anerkannt. Die Anerkennung gilt für nahezu das gesamte von Hellenic Train betriebene Streckennetz, einschließlich Fernverkehr, Regionalzügen und dem Vorortverkehr (Proastiakos).
 
 Bei der Nutzung von FIP‑Fahrkarten sind folgende Besonderheiten zu beachten: Für bestimmte Schnellzüge, insbesondere auf der Hauptstrecke Athen – Thessaloniki, ist eine reservierungspflichtige Sitzplatzbuchung erforderlich, die zusätzlich bezahlt werden muss. Die Pelion-Museumsbahn wird ebenfalls von Hellenic Train betrieben, allerdings wird FIP auf dieser Strecke nicht anerkannt.
 
@@ -20,7 +18,8 @@ FIP-Vergünstigungen können zudem auf den Schiffen von Attica genutzt werden.
 
 Nicht anerkannt werden FIP‑Fahrkarten im städtischen Verkehr von Athen und Thessaloniki.
 
-{{< identify-operator sources="" >}}
+{{< identify-operator sources="ht-website" >}}
+Mit Ausnahme der städischen Verkehre ist Hellenic Train der einzige Betreiber von regulären Zugverbindungen in Griechenland.
 {{< /identify-operator >}}
 
 ## Wissenswertes
