@@ -35,7 +35,7 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 | [France](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slovénie (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
-| Ferry (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
+| [Grèce](/country/greece) (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
 \
 [>] = Vers (par exemple, Domodossola [> Locarno] = Domodossola est le point frontière vers Locarno)

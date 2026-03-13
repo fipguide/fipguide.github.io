@@ -35,7 +35,7 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 | [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 | [France](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
 | Slovenia (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
-| Ferry (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
+| [Greece](/country/greece) (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
 
 \
 [>] = Towards (e.g., Domodossola [> Locarno] = Domodossola is the border point towards Locarno)
