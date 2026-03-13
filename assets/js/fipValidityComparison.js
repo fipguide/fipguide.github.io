@@ -1,4 +1,4 @@
-const { closeDropdown } = require("./dropdown");
+import { closeDropdown } from "./dropdown.js";
 
 const ISSUER_KEY = "fipguide-issuer";
 
