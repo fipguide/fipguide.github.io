@@ -154,6 +154,12 @@ FIP-discounted tickets cannot be purchased on the train. Reservations must also 
 
 For regular tickets, children under 5 travel free of charge. Children under 10 receive a 50% discount on the adult fare. Older children pay the full adult fare.[^1]
 
+## Special Tariff Conditions
+
+### Break of journey
+
+With FIP 50 tickets, a journey interruption is permitted only once and for a maximum of 24 hours from the time of arrival at the station where the journey is interrupted. To qualify, the ticket must be validated within one hour of arrival.[^1]
+
 ## Recommendations
 
 {{% highlight tip %}}
