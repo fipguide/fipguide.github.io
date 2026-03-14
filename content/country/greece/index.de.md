@@ -12,7 +12,7 @@ params:
 
 In Griechenland werden FIP 50 Tickets sowie FIP-Freifahrtscheine bei der staatlichen Eisenbahn [Hellenic Train](/operator/ht) anerkannt. Die Anerkennung gilt für nahezu das gesamte von Hellenic Train betriebene Streckennetz, einschließlich Fern-, Regional- und dem Vorortverkehr (Proastiakos).
 
-FIP-Vergünstigungen können zudem auf den Schiffen von Attica genutzt werden.
+FIP-Vergünstigungen können zudem auf den Schiffen von [Attica](/operator/attica) genutzt werden.
 
 Nicht anerkannt werden FIP‑Fahrkarten im städtischen Verkehr von Athen und Thessaloniki.
 
@@ -34,7 +34,7 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 | [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr) |
 | Nordmazedonien (ŽRSM) | Gevgelija (fr) |
 | Türkei (TCDD) | Pythio (Πύθιο) |
-| [Italien](/country/italy) (Attica) | Patras [>Ancona, >Bari] |
+| [Italien](/country/italy) ([Attica](/operator/attica)) | Patras [>Ancona, >Bari] |
 
 [>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung Ancona)
 {{% /expander %}}
@@ -57,4 +57,4 @@ Derzeit besteht keine direkte Personenverkehrsverbindung zwischen Griechenland u
 
 ### Italien
 
-Zwischen Italien und Griechenland können die Fährverbindungen von Attica genutzt werden.
+Zwischen Italien und Griechenland können die Fährverbindungen von [Attica](/operator/attica) genutzt werden.

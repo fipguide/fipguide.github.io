@@ -79,3 +79,7 @@ Entre Milan et Paris circulent des trains Frecciarossa transfrontaliers. Les Bil
 De plus, des trains `TGV` concurrents de la SNCF circulent entre Turin et Paris. Ils sont accessibles en France avec des réductions FIP, mais il faut acheter des Billets FIP au tarif global.
 
 Les trains régionaux transfrontaliers de la SNCF peuvent être utilisés depuis Grasse/Cannes/Nice via Monaco jusqu’à Vintimille. Les Billets FIP et Coupons FIP de la SNCF sont valables jusqu’à Vintimille.
+
+### Grèce
+
+Les services de ferry exploités par [Attica](/operator/attica) peuvent être utilisés entre l’Italie et la Grèce.
