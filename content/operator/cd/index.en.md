@@ -28,7 +28,7 @@ FIP Coupons and FIP 50 Tickets are valid on ČD services. For cross-border journ
 {{< float-image
 src="cd-fip-map-overview-26.webp"
 alt="FIP validity map overview for Czechia"
-caption="[Overview FIP validity map](/en/operator/cd/cd-fip-map-overview-26.webp) for Czechia (© Petr Duda)"
+caption="Overview FIP validity map for Czechia (© Petr Duda)"
 width="40%"
 position="left" >}}
 
@@ -40,7 +40,7 @@ For a first impression, the overview map for FIP benefits in Czechia can be used
 {{< float-image
 src="cd-fip-map-detail-26.webp"
 alt="FIP validity map detail for Czechia"
-caption="[Detailed FIP validity map](/en/operator/cd/cd-fip-map-detail-26.webp) for Czechia (© Petr Duda)"
+caption="Detailed FIP validity map for Czechia (© Petr Duda)"
 width="40%"
 position="left" >}}
 For detailed information, the detailed map for FIP benefits can be used.
