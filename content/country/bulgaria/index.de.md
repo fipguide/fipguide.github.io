@@ -25,12 +25,12 @@ Als Streckenhighlight gelten zum einen die Nord-Süd-Strecken durch das Balkange
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                    | Grenzpunkte                                                                |
-| ----------------------- | -------------------------------------------------------------------------- |
-| Griechenland (TrainOSE) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
-| Rumänien (CFR)          | Ruse (fr) (bulgarisch: Русе), Vidin (fr)                                   |
-| Serbien (SV)            | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod)                        |
-| Türkei (TCDD)           | Kapikule (fr)                                                              |
+| Land                                                | Grenzpunkte                                                                |
+| --------------------------------------------------- | -------------------------------------------------------------------------- |
+| Griechenland (TrainOSE)                             | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
+| [Rumänien](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr)                                   |
+| Serbien (SV)                                        | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod)                        |
+| Türkei (TCDD)                                       | Kapikule (fr)                                                              |
 
 {{% /expander %}}
 
