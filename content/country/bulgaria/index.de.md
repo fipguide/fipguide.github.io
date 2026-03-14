@@ -27,7 +27,7 @@ Als Streckenhighlight gelten zum einen die Nord-Süd-Strecken durch das Balkange
 | Land | Grenzpunkte |
 | --- | --- |
 | [Griechenland](/country/greece) ([Hellenic Train](/operator/ht) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
-| Rumänien (CFR) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
+| [Rumänien](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
 | Serbien (SV) | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
 | Türkei (TCDD) | Kapikule (fr) |
 
