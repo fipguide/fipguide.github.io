@@ -17,7 +17,20 @@ params:
 
 ## FIP 50 Fahrkarten
 
-FIP 50 Tickets können auf der Website gebucht werden. Im Buchungsverlauf muss "FIP Card" ausgewählt werden und die Nummer des FIP Ausweises eingetragen werden.
+FIP 50 Tickets können auf der Website gebucht werden.
+
+{{% float-image
+src="ht-fipcard.webp"
+alt="Auswahl FIP CARD"
+width="50%"
+position="right"
+%}}
+
+Zunächst mus eine Verbindung gewählt werden, wobei der reguläre Ticketpreis gezeigt wird.
+Im nächsten Schritt muss im Feld "Offer" die Auswahl "FIP CARD" gewählt werden und die Nummer des FIP Ausweises eingetragen werden.
+Der reguläre Ticketpreis wird dann um 50 % reduziert.
+
+{{% /float-image %}}
 
 {{% /booking-section %}}
 
@@ -26,6 +39,6 @@ FIP 50 Tickets können auf der Website gebucht werden. Im Buchungsverlauf muss "
 ## Reservierungen
 
 Für IC‑Züge können Reservierungen in Kombination mit einem FIP 50 Ticket gekauft werden.
-Reservierungen für FIP Freifahrtscheine sind nur vor Ort erhältlich. (online nicht einzeln auswählbar)
+Reservierungen für FIP Freifahrtscheine sind online nicht erhältlich.
 
 {{% /booking-section %}}

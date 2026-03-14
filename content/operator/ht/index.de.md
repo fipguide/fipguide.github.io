@@ -6,7 +6,7 @@ country:
 operator: "ht"
 ---
 
-Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fernzugverbindungen, Regionalzügen und dem Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).
+Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fern-, Regional- und dem Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).
 
 ## Zusammenfassung
 
@@ -35,19 +35,16 @@ Diese Züge verbinden Athen und Thessaloniki sowie Larisa und andere größere S
 #### Reservierung
 
 Reservierungen sind vorab zwingend zu erwerben. Sie können online oder vor Ort gekauft werden.
-Supplements are payable by holders of FIP coupons and FIP discounted tickets for travel on IC services. The full supplement is payable by children between the ages of 4 and 12.[^1]
 
-#### Strecken im Linienverkehr
-
-- Athen – Thessaloniki
-- Thessaloniki – Larisa
-- Larisa – Athen
+{{< highlight important >}}
+Bei Nutzung von FIP Freifahrtscheinen ist ein Zuschlag zu zahlen.[^1] Der Zuschlag kann nur vor Ort erworben werden.
+{{< /highlight >}}
 
 {{% /train-category %}}
 
 {{% train-category
     id="regional"
-    title="Regionalzüge (REG)"
+    title="Regionalzug (REG)"
     type="regional"
     fip_accepted=true
     reservation_required=false
@@ -55,41 +52,7 @@ Supplements are payable by holders of FIP coupons and FIP discounted tickets for
 
 Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
 
-#### Strecken im Linienverkehr
-
-**Thessaloniki** https://www.hellenictrain.gr/en/thessaloniki-regional-railway-lines
-
-- Thessaloniki – Larisa
-- Thessaloniki – Florina (der Abschnitt Edessa – Florina wird temporär mit Bussen bedient)
-- Thessaloniki – Sindos
-
-**Athen**
-
-- Piraeus – Athen – Kiato
-- Athens – Chalkida
-
-- Larisa – Volos
-- Patras – Kiato (mit Anschluss an die Vorortbahn nach Athen)
-
-{{% /train-category %}}
-
-{{% train-category
-    id="proastiakos"
-    title="Proastiakos (S-Bahn / Vorortzüge)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-
-Der Proastiakos verbindet Vororte mit größeren Städten und sind vergleichbar mit einer S-Bahn.
-
-#### Strecken im Linienverkehr
-
-- Piräus – Chalkida – Athen – Ano Liosia
-- Kiato – Flughafen Athen
-- Thessaloniki – Larisa
-- Thessaloniki – Edessa (– Florina)
-- Agios Andreas – Rio (– Agios Vasilios)
+Teilweise werden die Züge als Proastiakos oder Suburban Railway bezeichnet, was vergleichbar mit einer S-Bahn ist. In der Verbindungsauskunft erscheinen diese Verbindungen allerdings ebenfalls als Regionalzüge `REG`.
 
 {{% /train-category %}}
 
@@ -101,36 +64,24 @@ Der Proastiakos verbindet Vororte mit größeren Städten und sind vergleichbar 
     reservation_required=false
 %}}
 
-Frühere Zugverbindungen wurden durch Busse ersetzt. FIP-Vergünstigungen werden anerkannt.[^1]
-
-#### Strecken im Linienverkehr
-
-- Rio – Agios Vasilios
-- Edessa – Florina (temporär)
-- Kiato – Patras
-- Kato Achaia – Kaminia
-- Kastelokampos – Agios Vasileios (ist es von Hellenic Train?)
-- Kastelokampos – University of Patras (ist es von Hellenic Train?)
+Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
 
 {{% /train-category %}}
 
 {{% train-category
-    id="pelion"
-    title="Pelion Train (Museumsbahn)"
+    id="tourist"
+    title="Touristische und historische Züge"
     type="regional"
     fip_accepted=false
-    reservation_required=true
-    additional_information_url="https://www.hellenictrain.gr/en/mythical-route"
 %}}
 
-Die Pelion-Bahn von Ano Lechonia nach Mileai wird von Hellenic Train betrieben, jedoch wird FIP hier nicht anerkannt.[^1]
+Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkennen.[^1]
+
+- Pelion Train von Ano Lechonia nach Mileai (https://www.hellenictrain.gr/en/mythical-route)
+- Odontotos Rack Railway von Diakopto nach Kalavryta (https://www.hellenictrain.gr/en/attraction-rails)
+- Katakolo – Olympia (https://www.hellenictrain.gr/en/katakolo-olympia)
 
 {{% /train-category %}}
-
-Werden diese historischen / touristischen Verkehre anerkannt?
-
-- https://www.hellenictrain.gr/en/katakolo-olympia
-- https://www.hellenictrain.gr/en/attraction-rails
 
 ## Klassenkategorien
 
@@ -146,40 +97,32 @@ Werden diese historischen / touristischen Verkehre anerkannt?
     fip_50=true
 /%}}
 
-Hellenic Train App
-https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app
-
-Telefon (auch FIP?): https://www.hellenictrain.gr/en/ticket-issue-call-center-14511
+**Hellenic Train App:** https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app
 
 ### Vor Ort
 
-Hellenic Train ticket offices: https://www.hellenictrain.gr/en/sale-points
+{{% booking id="ht-ticket-office"
+    fip_global_fare=nil
+    fip_50=true
+/%}}
 
 ### Im Zug
 
 Reservierungen sind nicht im Zug erhältlich.
-
-FIP discounted tickets may only be purchased on-board trains if arriving into Greece and continuing a journey in the same train which crossed the frontier, or when starting a journey at a station where the ticket office is unstaffed.[^1]
-
-https://www.hellenictrain.gr/en/ticket-sales-board
+Wenn man die Reise an einem Bahnhof beginnt, an dem der Fahrkartenschalter unbesetzt ist, können Tickets im Zug gekauft werden.[^2]
 
 ## Ermäßigungen
 
-For public fares, children up to 4 years old travel free. Children up to 12 years old are eligible for a 50% reduction on the adult fare. Persons aged 12 and older pay the adult fare.[^1]
+Bei öffentlichen Fahrpreisen reisen Kinder bis 4 Jahre kostenlos, Kinder bis 12 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 12 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
 
 ## Tarifliche Besonderheiten
 
 ### Fahrtunterbrechung
 
-Break of journey is not permitted.[^1]
-
-### IC-Verbindungen zwischen Athen und Thessaloniki
-
-Für die IC-Verbindungen besteht eine Reservierungspflicht,
-Die Gebühr ist auch bei FIP‑Freifahrt obligatorisch.
+Eine Fahrtunterbrechung ist nicht gestattet.[^1]
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [<Quellenname 2](Link)
+[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
