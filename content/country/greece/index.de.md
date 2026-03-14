@@ -28,10 +28,6 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 
 ## Anreise und Grenzpunkte
 
-<!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
--->
-
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
