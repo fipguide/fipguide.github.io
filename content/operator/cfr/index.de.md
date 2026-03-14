@@ -154,6 +154,12 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 
 Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 10 Jahren erhalten eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
 
+## Tarifliche Besonderheiten
+
+### Fahrtunterbrechungen
+
+Eine Reiseunterbrechung ist bei FIP 50 Tickets nur einmal und für maximal 24 Stunden ab Ankunft am Bahnhof, an dem die Reise unterbrochen wird, zulässig. Die Fahrkarte muss dafür innerhalb einer Stunde nach Ankunft abgestempelt werden. [^1]
+
 ## Empfehlungen
 
 {{% highlight tip %}}
