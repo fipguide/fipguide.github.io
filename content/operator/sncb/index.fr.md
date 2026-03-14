@@ -35,7 +35,7 @@ En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et 
   reservation_possible=true
 %}}
 
-Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés avec des Billets FIP sans supplément en Belgique entre Bruxelles-Midi et Liège-Guillemins.
+Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main). Certains trains circulent également entre l’Allemagne et Anvers via l’aéroport de Bruxelles-Zaventem ou en été entre l’Allemagne et la côte belge. Tous les trains ICE peuvent également être utilisés en Belgique avec des Billets FIP sans supplément.
 
 {{% /train-category %}}
 
@@ -180,7 +180,7 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 ### À bord du train
 
-Si aucun guichet n’est disponible ou ouvert, un billet peut être acheté à bord du train auprès du contrôleur si celui-ci est abordé immédiatement. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé dans ce cas. [^2]
+Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
 
 ## Réductions
 
@@ -205,3 +205,5 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 [^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
 
 [^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/products/child)
+
+[^4]: [Site Web SNCB](https://www.belgiantrain.be/en/products/supplements/onboard)

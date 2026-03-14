@@ -159,9 +159,21 @@ MS = Mitte See
 
 ### Belgien
 
-Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Aachen genutzt werden. Auch ein Regionalzug der SNCB verkehrt zwischen Lüttich und Aachen. In beiden Fällen wird zusätzlich ein Ticket für den belgischen Abschnitt der SNCB benötigt.
+#### Fernverkehr
+
+Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt, Köln und Aachen genutzt werden. Ab Juni 2026 wird zudem wochenends eine Verbindung zwischen Oostende und Köln angeboten. Ab September 2026 wird eine Direktverbindung zwischen Antwerpen und Köln über den Brüsseler Flughafen Zaventem eingeführt.
+
+Bei allen `ICE`-Verbindungen wird ein Ticket für den belgischen Abschnitt bis Aachen Süd(Gr) der SNCB sowie ein Ticket für den deutschen Abschnitt ab Aachen Süd(Gr) der DB oder ein durchgängiges FIP 50 Ticket benötigt.
 
 Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Deutschland) benötigt ([siehe Eurostar](/operator/eurostar "Eurostar")).
+
+#### Regionalverkehr
+
+Zwischen Liège-Saint-Lambert und Aachen verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^5] Daher ist es unklar, ob zwischen Aachen Süd (Gr) und Aachen Hbf ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB bis Aachen Hbf anerkannt werden.
+
+{{% highlight tip %}}
+Wir empfehlen, das Zugpersonal anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
+{{% /highlight %}}
 
 ### Dänemark
 
@@ -280,3 +292,5 @@ Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. A
 [^3]: [Feedback Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)
 
 [^4]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
+[^5]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)

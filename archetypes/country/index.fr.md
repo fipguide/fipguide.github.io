@@ -20,6 +20,9 @@ params:
     - Quels opérateurs ne reconnaissent pas les Billets FIP et comment les identifier dans les informations de correspondance ?
 -->
 
+{{< identify-operator sources="" >}}
+{{< /identify-operator >}}
+
 ## Informations générales
 
 <!--
