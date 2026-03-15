@@ -6,7 +6,7 @@ country:
 operator: "ht"
 ---
 
-Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fern-, Regional- und dem Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).
+Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fern-, Regional- und den Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).
 
 ## Zusammenfassung
 
@@ -75,7 +75,7 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
     fip_accepted=false
 %}}
 
-Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkennen.[^1]
+Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]
 
 - Pelion Train von Ano Lechonia nach Mileai (https://www.hellenictrain.gr/en/mythical-route)
 - Odontotos Rack Railway von Diakopto nach Kalavryta (https://www.hellenictrain.gr/en/attraction-rails)

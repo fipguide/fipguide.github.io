@@ -4,4 +4,4 @@ params:
   url: "https://newtickets.hellenictrain.gr/"
 ---
 
-Alle Zuverbindungen, welche von Hellenic Train betrieben werden, sind in der Verbindungsauskunft enthalten.
+Alle Zugverbindungen, welche von Hellenic Train betrieben werden, sind in der Verbindungsauskunft enthalten.
