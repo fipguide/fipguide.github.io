@@ -277,6 +277,8 @@ Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reser
 | Innerhalb Frankreichs Peak     | 16 €      | 11 €      |
 | International                  | 40 €      | 20 €      |
 
+Für die Direktzüge zwischen Frankfurt (Main) und Bordeaux im Juli und August werden von der DB keine FIP 50 Tickets für die Fahrt innerhalb Frankreichs verkauft. Eine Nutzung mit FIP Freifahrtschein und Reservierung der SNCF ist jedoch möglich. [^5]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -298,7 +300,7 @@ Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Italien, Spanien od
 %}}
 Grenzüberschreitende `TGV` Verbindungen von Frankreich nach Luxemburg sind im gesamten Abschnitt reservierungspflichtig und es gelten keine FIP Freifahrtscheine. Stattdessen können FIP Globalpreise erworben werden.
 
-Die Preise betragen Stand 2026: [^11]
+Die Preise betragen Stand 2026: [^4]
 
 |                       | 1. Klasse | 2. Klasse |
 | --------------------- | --------- | --------- |
@@ -398,4 +400,6 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 
 [^3]: [FIP Guide Community: Straßenbahnen in Paris](https://discord.com/channels/1250522473188032512/1465705899158147072/1465705899158147072)
 
-[^11]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+[^4]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+
+[^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
