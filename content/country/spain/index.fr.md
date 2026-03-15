@@ -30,10 +30,12 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
+
+| Pays                                               | Points frontières                                                                                           |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [Portugal](/country/portugal) ([CP](/operator/cp)) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| [France](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
+| [France](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg                                        |
+
 {{% /expander %}}
 
 ### France

@@ -15,6 +15,10 @@ Das Bahnnetz in Irland wird von der staatlichen Bahngesellschaft [Irish Rail](/o
 Mit Ausnahme von Sonderfahrten ist Irish Rail der einzige Betreiber von regulären Zugverbindungen in Irland.
 {{< /identify-operator >}}
 
+{{< identify-operator sources="" >}}
+Mit Ausnahme von Sonderfahrten ist Irish Rail der einzige Betreiber von regulären Zugverbindungen in Irland. Lediglich beim Enterprise Service übernimmt die nordirische Bahngesellschaft [NIR](/operator/nir) den Betrieb auf dem Abschnitt zwischen Dundalk und Belfast.
+{{< /identify-operator >}}
+
 ## Wissenswertes
 
 Das Bahnnetz in Irland ist sternförmig auf Dublin ausgerichtet, von wo aus Verbindungen in viele Regionen des Landes führen. Die Taktung zwischen den größeren Städten ist dabei meist gut. In ländlicheren Regionen sind die Taktungen teilweise deutlich geringer.

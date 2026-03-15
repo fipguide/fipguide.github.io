@@ -29,16 +29,18 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| [Autriche](/country/austria) ([ÖBB](/operator/oebb)) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
+
+| Pays                                                                           | Points frontières                                                                                   |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| [France](/country/france) ([SNCF](/operator/sncf)) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Slovénie (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
-| [Grèce](/country/greece) (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
+| [France](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
+| Slovénie (SŽ)                                                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Grèce](/country/greece) (Attica)                                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 
 \
 [>] = Vers (par exemple, Domodossola [> Locarno] = Domodossola est le point frontière vers Locarno)
+
 {{% /expander %}}
 
 ### Slovénie

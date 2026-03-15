@@ -30,10 +30,12 @@ Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, d
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| [Portugal](/country/portugal) ([CP](/operator/cp)) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg |
+
+| Land                                                   | Grenzpunkte                                                                                                 |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| [Portugal](/country/portugal) ([CP](/operator/cp))     | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg                                        |
+
 {{% /expander %}}
 
 ### Frankreich

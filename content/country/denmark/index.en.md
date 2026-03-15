@@ -39,10 +39,12 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
+
+| Country                                          | Border Points                                                                  |
+| ------------------------------------------------ | ------------------------------------------------------------------------------ |
 | [Germany](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
-| Sweden (SJ) | Helsingborg (via Helsingør)
+| Sweden (SJ)                                      | Helsingborg (via Helsingør)                                                    |
+
 {{% /expander %}}
 
 ### Germany

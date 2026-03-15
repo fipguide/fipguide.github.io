@@ -39,10 +39,12 @@ Les trains danois circulent généralement à horaires réguliers et sont ponctu
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
+
+| Pays                                               | Points frontières                                                              |
+| -------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Allemagne](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
-| Suède (SJ) | Helsingborg (via Helsingør) |
+| Suède (SJ)                                         | Helsingborg (via Helsingør)                                                    |
+
 {{% /expander %}}
 
 ### Allemagne
