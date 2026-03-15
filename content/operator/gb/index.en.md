@@ -262,10 +262,11 @@ London Overground complements the Underground network as a kind of suburban rail
   reservation_possible=true
   reservation_required=false
 %}}
+Lumo operates on two routes in Great Britain:
 
-Lumo operates long-distance trains between London King's Cross, Newcastle, and Edinburgh. FIP is accepted on these East Coast services.
+- On the East Coast Main Line between London King's Cross, Newcastle and Edinburgh. FIP is accepted on these East Coast services.
 
-First Lumo Stirling is expected to launch new Lumo West Coast services in Spring 2026 from London Euston, calling at Milton Keynes, Nuneaton, Crewe, Preston, Carlisle, Lockerbie, Motherwell, Whifflet, Greenfaulds, Larbert and Stirling. There is no agreement in place with First Lumo Stirling for the acceptance of any staff travel facilities on these services, as they are not yet operational. [^7]
+- On the West Coast Main Line, First Lumo Stirling plans to launch new Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. Currently, FIP is not valid on these services. [^7]
 
 {{% /train-category %}}
 
@@ -678,4 +679,4 @@ Great Britain can also be explored by night trains:
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html), [Lumo: Stirling to London](https://www.lumo.co.uk/where-we-go/stirling-london)
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)

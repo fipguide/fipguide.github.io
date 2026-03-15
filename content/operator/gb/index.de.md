@@ -262,10 +262,11 @@ London Overground ergänzt als eine Art S-Bahn das U-Bahn-Netz und bietet großr
   reservation_possible=true
   reservation_required=false
 %}}
+Lumo verkehrt auf zwei Strecken in Großbritannien:
 
-Lumo betreibt Fernzüge zwischen London King's Cross, Newcastle und Edinburgh. FIP wird auf diesen East Coast Verbindungen akzeptiert.
+- Auf der East Coast Main Line zwischen London King's Cross, Newcastle und Edinburgh. FIP wird auf diesen East Coast Verbindungen akzeptiert.
 
-First Lumo Stirling plant, im Frühjahr 2026 neue Lumo West Coast Verbindungen ab London Euston einzuführen, mit Halten in Milton Keynes, Nuneaton, Crewe, Preston, Carlisle, Lockerbie, Motherwell, Whifflet, Greenfaulds, Larbert und Stirling. Es besteht keine Vereinbarung mit First Lumo Stirling zur Anerkennung von Personalreisevergünstigungen auf diesen Verbindungen, da sie noch nicht in Betrieb sind. [^7]
+- Auf der West Coast Main Line plant First Lumo Stirling, im Frühjahr 2026 neue Lumo West Coast Verbindungen ab London Euston über Milton Keynes, Crewe, Preston und Carlisle bis nach Stirling. Aktuell ist FIP auf diesen Verbindungen nicht gültig. [^7]
 
 {{% /train-category %}}
 
@@ -680,4 +681,4 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html), [Lumo: Stirling to London](https://www.lumo.co.uk/where-we-go/stirling-london)
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)
