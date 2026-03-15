@@ -4,28 +4,11 @@ title: "Attica E-Mail"
 description: "Buchungsinformationen für die Buchung per E-Mail bei Attica."
 params:
   fip_50: true
-  reservations: true
+  reservations: false
   type: "email"
 ---
 
-{{% booking-section "fip_50" %}}
+FIP 50 Tickets können per E-Mail bestellt werden.
+Hierzu muss das [FIP Reservierungsformular](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_90032_Attica.xls) ausgefüllt und an folgende E-Mail-Adresse gesendet werden:
 
-## FIP 50 Fahrkarten
-
-For Superfast Ferries use the Attica FIP Reservation Form and e-mail to to helpdesk@attica-group.com.
-All passengers are liable for the Port Fees, Environmental Charges and Fuel Surcharges.
-
-2. Per Mail an folgende Adresse: helpdesk@attica-group.com oder helpdesk1@anek-
-   superfast.com
-
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Reservierungen
-
-<!--
-    Erkläre hier die Buchungswege, um Reservierungen zu erwerben.
--->
-
-{{% /booking-section %}}
+helpdesk@attica-group.com
