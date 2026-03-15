@@ -100,7 +100,7 @@ Les billets sont émis exclusivement sous forme numérique (email requis).
 
 ### En ligne
 
-Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le [site Eurostar](https://www.eurostar.com/).
+Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations)
 
 Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
@@ -164,13 +164,21 @@ Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’au
 
 ## Conditions tarifaires spéciales
 
+### Modifications & Annulations
+
+Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu'à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
+
+En principe, il n'est possible de rebooker que sur d'autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d'une modification, il est également possible de passer d'Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d'Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
+
+En cas d'annulation, le prix total des Billets FIP est remboursé. Les éventuels frais de réservation facturés par des prestataires externes ne sont pas remboursés.
+
+La modification, l'annulation et le passage à une classe supérieure sont possibles avec le numéro de réservation via le [site Eurostar](https://www.eurostar.com/customer-dashboard/en/get-booking).
+
 ### Quotas de billets
 
 {{% highlight tip %}}
 Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 {{% /highlight %}}
-
-Les vendredi, samedi et dimanche entre 17h30 et 19h00, les Billets FIP ne sont pas proposés. [^2]
 
 La vérification des contingents de billets disponibles est possible via les sites suivants :
 
@@ -183,21 +191,13 @@ La vérification des contingents de billets disponibles est possible via les sit
 
 #### HOTNAT (Correspondance à Bruxelles, Cologne, Paris)
 
-{{% highlight tip %}}
+Pour Eurostar, l'achat de billets directs n'est pas possible. Cependant, pour garantir la correspondance lors d'un changement, il est possible d'utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
 
-Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, pour garantir la correspondance lors d’un changement, il est possible d’utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
+Si la correspondance entre deux trains à grande vitesse est manquée en raison d'un retard ou d'une suppression, il est possible d'emprunter le prochain train disponible du même opérateur ou d'un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
 
-Si la correspondance entre deux trains à grande vitesse est manquée en raison d’un retard ou d’une suppression, il est possible d’emprunter le prochain train disponible du même opérateur ou d’un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
-
-HOTNAT s’applique uniquement lors d’une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L’utilisation dépend du taux d’occupation des trains.
-
-{{% /highlight %}}
+HOTNAT s'applique uniquement lors d'une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L'utilisation dépend du taux d'occupation des trains.
 
 #### London International CIV (Correspondance à Londres)
-
-{{% highlight tip %}}
-
-**Explication**
 
 Pour garantir la correspondance lors d’un changement à Londres entre un train britannique et Eurostar (ou inversement), il est possible de réserver un billet avec la gare de départ ou d’arrivée _London International CIV_.
 
@@ -210,23 +210,21 @@ Les billets vers London International sont disponibles sur certaines, mais la pl
 
 La disponibilité des billets peut être vérifiée sur [BR Fares](https://www.brfares.com/) en sélectionnant _(LNE) London International (CIV)_ comme gare. La présence d’un tarif spécial avec garantie de correspondance est indiquée par la mention _EURO_ dans le nom du tarif.
 
-**Garantie de correspondance**
+##### Garantie de correspondance
 
 Les billets vers ou depuis _London International CIV_ sont soumis aux Conditions Internationales de Transport (CIV, Convention Internationale pour le transport des Voyageurs) pour l’ensemble du trajet, et non aux conditions nationales britanniques (National Rail Conditions of Travel).
 
 Cela garantit une protection en cas de retard d’un train britannique entraînant la perte de la correspondance Eurostar. Eurostar est alors tenu de rebooker gratuitement sur le prochain train disponible. Si Eurostar arrive en retard à Londres et que la correspondance est manquée, la compagnie ferroviaire britannique doit permettre la poursuite du voyage avec le prochain train disponible, même si le billet est nominatif.
 
-**Métro de Londres**
+##### Métro de Londres
 
 Si l’arrivée se fait dans une autre gare terminus de Londres et qu’il est nécessaire d’utiliser le métro pour rejoindre St Pancras, les billets vers London International incluent le trajet en métro.
 
-**Réservation des billets**
+##### Réservation des billets
 
 Les Billets FIP vers London International CIV ne peuvent probablement être achetés qu’au guichet dans les gares britanniques.
 
 Sans réduction FIP, la réservation en ligne est possible via [Trainsplit](https://trainsplit.com/). Il faut désactiver l’option _Use Split Tickets_, puis réserver un billet depuis ou vers _London International (for Eurostar) (LNE)_. Le tarif sélectionné doit impérativement contenir _EURO_ dans le nom pour garantir la correspondance. Sinon, il s’agit d’un billet classique sans garantie de correspondance. [^3]
-
-{{% /highlight %}}
 
 ## Sources
 
