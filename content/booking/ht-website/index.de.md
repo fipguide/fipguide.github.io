@@ -46,6 +46,7 @@ Hellenic Train bietet auch eine [App](https://www.hellenictrain.gr/en/ht-new-pla
 **Schritt 2**
 
 Wähle eine passende Verbindung aus. Hierbei wird zunächst der reguläre Ticketpreis gezeigt.
+Die Stationsnamen müssen hierbei in der englischen Schreibweise eingegeben werden.
 
 {{% /float-image %}}
 

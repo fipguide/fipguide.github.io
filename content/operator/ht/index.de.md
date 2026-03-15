@@ -30,7 +30,7 @@ FIP 50 Tickets: ✅
     reservation_possible=true
 %}}
 
-Diese Züge verbinden Athen und Thessaloniki sowie Larisa und andere größere Städte. Die Verbindung ist elektrifiziert und bietet die schnellsten Reisezeiten im Land. FIP wird vollständig anerkannt, jedoch ist eine kostenfreie Sitzplatzreservierung zwingend erforderlich.
+Diese Züge verbinden Athen (Αθήνα) und Thessaloniki (Θεσσαλονίκη) sowie Larisa (Λάρισα) und andere größere Städte. Die Verbindung ist elektrifiziert und bietet die schnellsten Reisezeiten im Land. FIP wird vollständig anerkannt, jedoch ist eine kostenfreie Sitzplatzreservierung zwingend erforderlich.
 
 #### Reservierung
 
@@ -84,9 +84,9 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
 
 Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]
 
-- Pelion Train von Ano Lechonia nach Milies (https://www.hellenictrain.gr/en/mythical-route)
-- Zahnradbahn "Odontotos" von Diakopto nach Kalavryta (https://www.hellenictrain.gr/en/attraction-rails)
-- Katakolo – Olympia (https://www.hellenictrain.gr/en/katakolo-olympia)
+- Pelion Train von Ano Lechonia (Άνω Λεχώνια) nach Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
+- Zahnradbahn "Odontotos" von Diakopto (Διακοπτό) nach Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
+- Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
 {{% highlight info %}}
 Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mit FIP Freifahrtschein und vor Ort erhältlicher, kostenfreier Reservierung genutzt werden. Die Nutzbarkeit mit FIP 50 können wir derzeit nicht validieren, da der Betrieb vorerst eingestellt wurde.[^3]
