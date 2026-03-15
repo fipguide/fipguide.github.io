@@ -108,8 +108,6 @@ Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’af
 
 {{% booking id="internationalrail-email" fip_50=nil /%}}
 
-{{% booking id="trainseurope-email" /%}}
-
 ### Par téléphone
 
 {{% booking id="eurostar-phone"
@@ -121,8 +119,6 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
-
-{{% booking id="trainseurope-phone" /%}}
 
 {{% booking id="ns-phone"
     fip_50=nil
