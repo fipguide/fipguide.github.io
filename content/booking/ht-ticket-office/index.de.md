@@ -25,7 +25,6 @@ FIP 50 Tickets können vor Ort gebucht werden.
 
 ## Reservierungen
 
-Reservierungen für IC-Züge sind vor Ort in Kombination mit einem FIP 50 Ticket erhältlich.
-Vermutlich sind hier auch einzelne Reservierungen für die Reise mit FIP Freifahrtscheinen erhältlich. Uns ist derzeit nicht bekannt, ob diese kostenfrei sind oder ein Aufpreis zu zahlen ist.
+Kostenfreie Reservierungen für IC-Züge sind vor Ort erhältlich.
 
 {{% /booking-section %}}

@@ -1,19 +1,16 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Change the title to the name of the booking platform
-description: "" # Add a description for the booking platform
+title: "Hellenic Train Website"
+description: "Booking information for the Hellenic Train website."
 params:
   classes:
-    # Define classes and prices for the corresponding reservations.
-    # Make sure that each class exists under `booking.classes` in i18n.
-    first: "X.XX€"
-    second: "X.XX€"
-  fip_50: true # Define if FIP 50 Tickets can be booked with this booking platform
-  fip_global_fare: true # Define if FIP Global Fare tickets can be booked with this booking platform
-  reservations: true # Define if reservations can be booked with this booking platform
-  booking_link: "https://example.com" # Add a link to the booking platform
-  additional_info_link: "https://example.com/additional-info" # Add a link with additional information
-  type: "onsite" # Accepted types are: website, onsite, phone, email, socialmedia and machine
+    first: "0,00 €"
+    second: "0,00 €"
+  fip_50: true
+  fip_global_fare: false
+  reservations: false
+  booking_link: "https://newtickets.hellenictrain.gr/"
+  type: "website"
 ---
 
 {{% booking-section "fip_50" %}}
