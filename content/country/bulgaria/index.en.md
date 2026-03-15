@@ -27,7 +27,7 @@ The route highlights include, on the one hand, the north–south lines running t
 | Country | Border Points |
 | --- | --- |
 | Greece (TrainOSE) | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
-| Romania (CFR) | Ruse (fr) (Bulgarian: Русе), Vidin (fr) |
+| [Romania](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr) |
 | Serbia (SV) | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod) |
 | Turkey (TCDD) | Kapikule (fr) |
 {{% /expander %}}

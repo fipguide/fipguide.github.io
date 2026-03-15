@@ -413,19 +413,24 @@ FIP ist hier nur teilweise auf den im Folgenden genannten Strecken gültig, auf 
     id="rbs"
     title="Regionalverkehr Bern-Solothurn (RBS)"
     type="regional"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=false
 %}}
-Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahnstrecken in den Kantonen Bern und Solothurn. Diese sind auch zum Teil in die S-Bahn Bern integriert. Daneben werden auch Busse angeboten.
-
-FIP ist auf allen Strecken gültig.
+Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahnstrecken in den Kantonen Bern und Solothurn. Diese sind auch zum Teil in die S-Bahn Bern integriert. FIP wird auf allen Strecken anerkannt, außer der S9 und Tramlinie 6. Zusätzlich betreibt die RBS auch Buslinien, auf denen FIP vollständig anerkannt wird. [^2]
 
 #### Strecken im Linienverkehr
 
-- Bern – Solothurn (RE 5)
+##### Strecken mit FIP-Gültigkeit
+
+- Bern – Solothurn (RE5)
 - Bern – Worb Dorf (S7)
 - Bern – Bätterkinden (S8)
+- Alle Busse der RBS
+
+##### Strecken ohne FIP-Gültigkeit
+
 - Bern – Unterzollikofen (S9)
+- Tramlinie 6: Bern - Gümligen - Worb Dorf
 
 {{% /train-category %}}
 
@@ -911,3 +916,5 @@ Bei Fahrt mit einem Freifahrtschein ist es empfehlenswert, falls möglich auch d
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

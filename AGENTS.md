@@ -64,7 +64,7 @@ Use these exact translations for headlines on the pages:
 - `hugo --gc --minify`: Build for production
 - `npx prettier --write .`: Format code
 - `npx pagefind --site public`: Generate search index
-- `pre-commit run --all-files`: Run all pre-commit checks
+- `prek run -a`: Run all prek checks
 
 ### Code Style & Conventions
 
@@ -86,7 +86,7 @@ Use these exact translations for headlines on the pages:
 
 ## Quality Standards
 
-- All commits MUST pass the pre-commit hooks defined in `.pre-commit-config.yaml`
+- All commits MUST pass the prek hooks defined in `.prek-config.yaml`
 - HTML templates must be valid Go template syntax
 - Do NOT add any comments to the code
 - NEVER create markdown files outside the content directory

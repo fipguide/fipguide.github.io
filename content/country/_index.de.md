@@ -7,7 +7,9 @@ params:
     - Andorra
     - Belarus
     - Estland
+    - Färöer
     - Finnland
+    - Isle of Man
     - Island
     - Malta
     - Moldau
@@ -18,6 +20,7 @@ params:
     - Ukraine
     - Vatikanstadt
     - Zypern
+    - Åland
 ---
 
 Finde auf den nachfolgenden Seiten die FIP-Regelungen für Dein Reiseziel.

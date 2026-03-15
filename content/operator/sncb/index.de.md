@@ -35,7 +35,7 @@ Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in viele
     reservation_possible=true
 %}}
 
-Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main), können jedoch auch innerhalb Belgiens zwischen Bruxelles Midi und Liège-Guillemins mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
+Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main). Einzelne Züge verkehren auch zwischen Deutschland und Antwerpen über den Flughafen Brüssel Zaventem und im Sommer zwischen Deutschland und der belgischen Küste. Alle ICE-Züge können auch innerhalb Belgiens mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
 
 {{% /train-category %}}
 
@@ -58,19 +58,15 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     type="highspeed"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+Internationaler Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
-Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
+{{< highlight important >}}
+Für Fahrten innerhalb der Niederlande gelten besondere Regelungen, siehe [NS ECD](/operator/ns#ecd)
+{{< /highlight >}}
 
-{{% highlight important %}}
-**Zuschlag**:
-Zwischen Rotterdam und Schiphol ist ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) zum FIP 50 Ticket und FIP Freifahrtschein in Höhe von 3 € zu entrichten. \
-Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50€ für ein Einmalticket erhoben.
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,80 € erwerben. \
-Bei FIP 50 Tickets kommt es allgemein zu abweichenden Preisen für die Zugkategorie.
-{{% /highlight %}}
+![Eurocity (Direct) Netz](eurocity-map.de.svg)
 
 {{% /train-category %}}
 
@@ -183,11 +179,11 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 ### Im Zug
 
-Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges ein Ticket beim Zugbegleiter gekauft werden, wenn dieser sofort aufgesucht wird. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet. [^2]
+FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet, da die Tickets nicht an Ticketautomaten verfügbar sind. [^2]<sup>, </sup>[^4]
 
 ## Ermäßigungen
 
-Kinder bis 5 Jahren reisen kostenlos in den Zügen der SNCB. Kinder im Alter von 6 bis 11 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 12 zahlen sie den Erwachsenen-Tarif. Sind sie FIP-berechtigt, zahlen sie entsprechend hier auch bei FIP 50 nur die Hälfte des Normalpreises.[^1]
+Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
 
 ## Tarifliche Besonderheiten
 
@@ -206,3 +202,7 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)
+
+[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)

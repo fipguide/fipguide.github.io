@@ -173,7 +173,7 @@ Great Northern offers commuter connections from London to Hertfordshire, Cambrid
 
 Greater Anglia runs from London Liverpool Street to the eastern counties of England and Norwich.
 
-In First Class, snacks and drinks from the onboard café can be collected free of charge.
+On the mainline route between Norwich and London, first class passengers can collect snacks and drinks from the café bar free of charge on weekdays (Monday to Friday, including bank holidays).[^6] Check the [availability and opening hours of the café bar](https://www.greateranglia.co.uk/travel-information/your-journey/catering) beforehand.
 
 {{% /train-category %}}
 
@@ -496,7 +496,7 @@ FIP-discounted tickets are not issued on trains, except in certain rural areas w
 
 ## Discounts
 
-Active and retired employees of SNCB/NMBS (Belgium), SNCF (France), Irish Rail (CIE), and Northern Ireland Railways (NIR), as well as their spouses and dependent children, receive a 75% discount on the ticket price upon presentation of the FIP Card (instead of the usual 50% for FIP 50 Tickets). [^1]
+Active and retired employees of SNCB/NMBS (Belgium), SNCF (France), Irish Rail ([CIE](/operator/cie)), and Northern Ireland Railways ([NIR](/operator/nir)), as well as their spouses and dependent children, receive a 75% discount on the ticket price upon presentation of the FIP Card (instead of the usual 50% for FIP 50 Tickets). [^1]
 
 ## Special Tariff Conditions
 
@@ -673,3 +673,5 @@ Great Britain can also be explored by night trains:
 [^4]: [FIP Guide Community Feedback Heathrow Express](https://discord.com/channels/1250522473188032512/1450571187099930764/1461483154027184318)
 
 [^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
+
+[^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)

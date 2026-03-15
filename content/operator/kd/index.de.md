@@ -61,17 +61,21 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 
 {{% booking id="kd-ticket-office"/%}}
 
+{{% booking id="kd-ticket-machine"/%}}
+
 {{% booking id="db-ticket-office" reservations=nil /%}}
 
 ### Im Zug
 
-FIP 50 Fahrkarten können auch aufschlagsfrei direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Die Tickets können entweder bar oder mit kontaktloser Kreditkarte (Visa, Visa Electron, V Pay, Mastercard, Maestro) bezahlt werden.[^1] Eine Zahlung ist nur in der Landeswährung Złoty möglich.
+FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt nach dem Einstieg das Zugbegleitpersonal aufgesucht werden. Bei Einstieg an Bahnhöfen, an denen auch ein Ticketschalter oder Fahrkartenautomat vorhanden ist, kann eine Gebühr für die Ausstellung im Zug zu dem Ticketpreis dazu kommen. Die Tickets können entweder bar oder mit kontaktloser Kreditkarte (Visa, Visa Electron, V Pay, Mastercard, Maestro) bezahlt werden.[^1] Eine Zahlung ist nur in der Landeswährung Złoty möglich.
 
 ## Ermäßigungen
 
 Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder bis einschließlich 11 Jahren erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
 
+{{% highlight tip %}}
 Unabhängig von FIP gibt es für die Region Niederschlesien ein preisgünstiges Wochenendticket, mit dem von Freitag 18 Uhr bis Montag 6 Uhr alle Regionalzüge in der Region genutzt werden können. Weitere Informationen auf der [KD Website](https://kolejedolnoslaskie.pl/oferty-taryfowe/dolnoslaski-bilet-weekendowy/).
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

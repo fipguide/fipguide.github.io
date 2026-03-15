@@ -162,6 +162,19 @@ Regional trains in Poland are sometimes also operated by railway companies other
 {{% /train-category %}}
 
 {{% train-category
+    id="IR"
+    title="InterRegio (IR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Direct trains between Łódź and Warsaw, operated by Polregio and in a higher fare class than regular Regio trains.
+
+{{% /train-category %}}
+
+{{% train-category
     id="sr"
     title="superREGIO (sR)"
     type="regional"
@@ -247,7 +260,9 @@ No fee is charged for issuing a ticket on the train for the following passengers
 
 ## Discounts
 
-We are not aware of any additional discounts.
+{{% highlight tip %}}
+Regardless of FIP, Polregio offers an affordable weekend ticket, available either as "MINI BILET TURYSTYCZNY" for "Regio" trains of Polregio only, or as "BILET TURYSTYCZNY" which is also valid on all trains of KW, KMŁ, Arriva RP and ŁKA (except ŁKA Sprinter). It allows travel from Friday 18:00 to Monday 06:00 on the corresponding trains. More information on the [Polregio website](https://bilety.polregio.pl/en/sieciowe/47).
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
@@ -280,7 +295,7 @@ The validity of tickets depends on the distance:
 - 51 km to 100 km: 6 hours from the date and time of issue or at the passenger's choice,
 - from 101 km: 1 day (one day is valid from 00:01 to 24:00).
 
-### Journey Interruption
+### Break of journey
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
@@ -288,15 +303,15 @@ Interrupting a journey is not allowed.
 
 #### Polregio
 
-One journey interruption is possible without confirmation.
+One break of journey is possible without confirmation.
 
 #### Koleje Mazowieckie (KM)
 
-Journey interruption is generally allowed, but there are exceptions. When in doubt, you should ask when buying the ticket whether an interruption is possible.
+Break of journey is generally allowed, but there are exceptions. When in doubt, you should ask when buying the ticket whether an interruption is possible.
 
 #### PKP Szybka Koleje Miejska w Trójmieśce (SKM)
 
-Journey interruption is allowed but subject to the transport conditions (RPO-PKP SKM) on the website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
+Break of journey is allowed but subject to the transport conditions (RPO-PKP SKM) on the website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
 
 ### Using PKP FIP Coupons on KŚ Routes
 
