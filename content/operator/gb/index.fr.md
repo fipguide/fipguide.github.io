@@ -487,8 +487,8 @@ Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’ach
 
 {{% booking id="caledonian-sleeper-website" subtitle="Uniquement Caledonian Sleeper" /%}}
 
-{{% booking id="gwr-website"
-    subtitle="Pour tous les opérateurs nationaux (sauf trains de nuit)"
+{{% booking id="lner-website"
+    subtitle="Uniquement services LNER"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
