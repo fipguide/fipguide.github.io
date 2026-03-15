@@ -1,0 +1,21 @@
+{{- $iconMapping := dict
+  "valid" "check_circle"
+  "invalid" "cancel"
+  "unknown" "help"
+-}}
+
+{{- $status := "unknown" -}}
+{{- $text := T "fipValidity.unknown" -}}
+{{- if .entry -}}
+  {{- $fieldData := index .entry .field -}}
+  {{- if $fieldData -}}
+    {{- $status = $fieldData.status -}}
+    {{- $text = index $fieldData.text .lang -}}
+  {{- end -}}
+{{- end -}}
+
+
+<div class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
+  {{ partial "icon" (index $iconMapping $status) }}
+  {{ $text | $.page.RenderString }}
+</div>

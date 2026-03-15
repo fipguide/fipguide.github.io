@@ -1,0 +1,320 @@
+# This file shows the rules for FIP cards issued by NS.
+_anchors:
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
+  free-travel: &free-travel
+    status: valid
+    text:
+      de: |
+        **Unbegrenzt**
+        <small>Unbegrenzte Anzahl an Ländercoupons möglich (jeweils ein Coupon pro Anfrage).</small>
+      en: |
+        **Unlimited**
+        <small>Unlimited country coupons can be requested (one coupon per request).</small>
+      fr: |
+        **Illimité**
+        <small>Un nombre illimité de coupons pays peut être demandé (un coupon par demande).</small>
+  coupon-1: &coupon-1
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr.</small>
+      en: |
+        **1 coupon**
+        <small>Per year.</small>
+      fr: |
+        **1 coupon**
+        <small>Par an.</small>
+  coupon-2: &coupon-2
+    status: valid
+    text:
+      de: |
+        **2 Freifahrtscheine**
+        <small>Pro Jahr.</small>
+      en: |
+        **2 coupons**
+        <small>Per year.</small>
+      fr: |
+        **2 coupons**
+        <small>Par an.</small>
+  coupon-4: &coupon-4
+    status: valid
+    text:
+      de: |
+        **4 Freifahrtscheine**
+        <small>Pro Jahr.</small>
+      en: |
+        **4 coupons**
+        <small>Per year.</small>
+      fr: |
+        **4 coupons**
+        <small>Par an.</small>
+  coupon-1-onetime: &coupon-1-onetime
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Einmalig, innerhalb von 45 Monaten nach Austritt.</small>
+      en: |
+        **1 coupon**
+        <small>One-time, within 45 months after leaving.</small>
+      fr: |
+        **1 coupon**
+        <small>Unique, dans les 45 mois suivant le départ.</small>
+  relatives-sncf-active: &relatives-sncf-active
+    status: valid
+    text:
+      de: |
+        **1 / 3 Freifahrtscheine**
+        <small>Gesamtes Netz: 1 Freifahrtschein pro Jahr. Région Nord: 3 Freifahrtscheine pro Jahr.</small>
+      en: |
+        **1 / 3 coupons**
+        <small>Whole network: 1 coupon per year. Région Nord: 3 coupons per year.</small>
+      fr: |
+        **1 / 3 coupons**
+        <small>Réseau entier : 1 coupon par an. Région Nord : 3 coupons par an.</small>
+attica:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+bdz:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+bls:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+bsb:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-1-onetime
+    retired-relatives: *coupon-not-available
+cd:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+cfr:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+cfl:
+  fip-coupon:
+    active: *free-travel
+    active-relatives: *free-travel
+    retired: *free-travel
+    retired-relatives: *free-travel
+cie:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+cp:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+db:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1-onetime
+    retired-relatives: *coupon-1-onetime
+dsb:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-1-onetime
+    retired-relatives: *coupon-not-available
+fs:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+gb:
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-2
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+gysev:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+ht:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+hz:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+kd:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+ks:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+kw:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+lka:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+ltg:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+mav:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+nir:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+oebb:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1-onetime
+pkp:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+renfe:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+sbb:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-1-onetime
+    retired-relatives: *coupon-not-available
+sll:
+  fip-coupon:
+    active: *coupon-2
+    active-relatives: *coupon-2
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+sncb:
+  fip-coupon:
+    active: *free-travel
+    active-relatives: *free-travel
+    retired: *free-travel
+    retired-relatives: *free-travel
+sncf:
+  fip-coupon:
+    active: *coupon-4
+    active-relatives: *relatives-sncf-active
+    retired: *coupon-1-onetime
+    retired-relatives: *coupon-1-onetime
+sp:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-1-onetime
+    retired-relatives: *coupon-not-available
+stl:
+  fip-coupon:
+    active: *coupon-4
+    active-relatives: *coupon-4
+    retired: *coupon-2
+    retired-relatives: *coupon-2
+sv:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+sz:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+vy:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zfbh:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zpcg:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+zrms:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+zrs:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
+zssk:
+  fip-coupon:
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
