@@ -15,6 +15,9 @@ params:
 For Superfast Ferries use the Attica FIP Reservation Form and e-mail to to helpdesk@attica-group.com.
 All passengers are liable for the Port Fees, Environmental Charges and Fuel Surcharges.
 
+2. Per Mail an folgende Adresse: helpdesk@attica-group.com oder helpdesk1@anek-
+   superfast.com
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

@@ -12,6 +12,8 @@ params:
 
 ## FIP 50 Fahrkarten
 
+Durch eine Verkaufsagentur von Attica. Eine Liste von Attica-Verkaufsagenturen finden Sie im Anhang.
+
 FIP‑Ermäßigte Tickets können an Hafenbüros und Schaltern gekauft werden.
 Tipp: _Am Tag der Abfahrt sind die Kontingente sehr begrenzt._
 
