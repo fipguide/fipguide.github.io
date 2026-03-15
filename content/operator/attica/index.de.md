@@ -7,18 +7,18 @@ country:
 operator: "attica"
 ---
 
-Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrerer Marken, darunter Superfast Ferries, Blue Star Ferries, Hellenic Seaways und Anek Lines. Das Unternehmen betreibt nationale sowie internationale Schiffsverbindungen zwischen Griechenland, Italien und den griechischen Inseln.
+Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrerer Marken, darunter Superfast Ferries, Blue Star Ferries, Hellenic Seaways und Anek Lines. Das Unternehmen betreibt nationale sowie internationale Schiffsverbindungen zwischen dem griechischen Festland, Italien und den griechischen Inseln.
 
 ## Zusammenfassung
 
-- FIP 50 wird auf internationalen Italien–Griechenland‑Routen und in der Ägäis akzeptiert.
-- Es besteht Reservierungspflicht, Extras wie Kabinen, Camping‑an‑Bord, Haustiere & Fahrzeuge sind nicht FIP‑reduziert.
+- FIP 50 wird auf internationalen Italien–Griechenland‑Routen und in der Ägäis (außer im Juli und August) akzeptiert.
+- Es besteht Reservierungspflicht. Extras wie Kabinen, Camping‑an‑Bord, Haustiere & Fahrzeuge sind nicht FIP‑reduziert.
 
 ## Gültigkeit FIP Tickets
 
 FIP Freifahrtschein: ⛔ \
 FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅ (Mitarbeitende, Familienangehörige, Rentner und deren Familienangehörige)
+FIP 50 Tickets: ✅
 
 **Gültigkeit:**
 FIP 50‑Ermäßigungen gelten auf den internationalen Adria-Linien zwischen Italien und Griechenland und in der Ägäis:
