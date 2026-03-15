@@ -1,74 +1,36 @@
-import Panzoom from "@panzoom/panzoom";
+import { addClickListener, initPanZoom } from "./panZoom.js";
 
 window.initializeInteractiveMap = function () {
-  const svg = document.querySelector(".o-interactive-map__container svg");
-  if (svg) {
-    // Ensure proper scaling
-    svg.setAttribute("viewBox", "0 0 1300 1300");
+  const container = document.getElementById("interactive-map__container");
+  if (!container) return;
 
-    const panzoom = Panzoom(svg, {
-      maxScale: 5,
-      minScale: 1,
-      startScale: 1,
-      contain: "outside",
-    });
+  const panzoom = initPanZoom(container);
+  if (!panzoom) return;
 
-    // Enable mouse wheel zoom
-    svg.parentElement.addEventListener("wheel", panzoom.zoomWithWheel);
+  const svg = container.querySelector("svg");
+  if (!svg) return;
 
-    // Enable double-click zoom
-    svg.addEventListener("dblclick", (e) => {
-      e.preventDefault();
-      panzoom.zoomIn({ step: 0.5 });
-    });
+  svg.setAttribute("viewBox", "0 0 1300 1300");
 
-    const zoomInBtn = document.querySelector(".o-interactive-map__zoom-in");
-    const zoomOutBtn = document.querySelector(".o-interactive-map__zoom-out");
-    const resetBtn = document.querySelector(".o-interactive-map__reset");
+  const countries = svg.querySelectorAll("[id]");
+  countries.forEach((country) => {
+    if (
+      window.availableCountries &&
+      window.availableCountries.includes(country.id)
+    ) {
+      country.style.cursor = "pointer";
+      country.classList.add("o-interactive-map__country--available");
 
-    if (zoomInBtn) {
-      zoomInBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        panzoom.zoomIn({ step: 0.5 });
+      addClickListener(country, (e) => {
+        window.location.href = `/${window.currentLanguage}/country/${country.id}/`;
       });
     }
 
-    if (zoomOutBtn) {
-      zoomOutBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        panzoom.zoomOut({ step: 0.5 });
-      });
+    if (
+      window.unavailableCountries &&
+      window.unavailableCountries.includes(country.id)
+    ) {
+      country.classList.add("o-interactive-map__country--unavailable");
     }
-
-    if (resetBtn) {
-      resetBtn.addEventListener("click", (e) => {
-        e.preventDefault();
-        panzoom.reset();
-      });
-    }
-
-    // Add country click functionality
-    const countries = svg.querySelectorAll("[id]");
-    countries.forEach((country) => {
-      if (
-        window.availableCountries &&
-        window.availableCountries.includes(country.id)
-      ) {
-        country.style.cursor = "pointer";
-        country.classList.add("o-interactive-map__country--available");
-
-        country.addEventListener("click", (e) => {
-          e.stopPropagation();
-          window.location.href = `/${window.currentLanguage}/country/${country.id}/`;
-        });
-      }
-
-      if (
-        window.unavailableCountries &&
-        window.unavailableCountries.includes(country.id)
-      ) {
-        country.classList.add("o-interactive-map__country--unavailable");
-      }
-    });
-  }
+  });
 };
