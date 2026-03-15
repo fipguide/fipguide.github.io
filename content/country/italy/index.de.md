@@ -36,7 +36,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 | [Frankreich](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | Slowenien (SŽ)                                                                     | Nova Gorica (fr), Villa Opicina (fr)                                                                |
-| Fähre (Attica)                                                                     | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
+| [Griechenland](/country/greece) ([Attica](/operator/attica))                       | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 
 \
 [>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
@@ -82,3 +82,7 @@ Zwischen Mailand und Paris fahren grenzüberschreitende Frecciarossa-Züge. Für
 Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, für diese müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf/#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge")
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
+
+### Griechenland
+
+Zwischen Italien und Griechenland können die Fährverbindungen von [Attica](/operator/attica) genutzt werden.
