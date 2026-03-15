@@ -44,10 +44,11 @@ Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abf
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
 
 **FIP Globalpreis:**
-| Relation | Standard | Plus |
-| ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | 51 € / 44,50 £ | 71 € / 62 £ |
+
+| Relation                       | Standard       | Plus           |
+| ------------------------------ | -------------- | -------------- |
+| London - Paris / Brüssel       | 39 € / 34,50 £ | 60 € / 52,50 £ |
+| London - Amsterdam / Rotterdam | 51 € / 44,50 £ | 71 € / 62 £    |
 
 {{% /train-category %}}
 
@@ -63,11 +64,12 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden.
 
 **FIP Globalpreis:**
-| Relation | Standard | Plus |
-| ----------- | -------- | ---- |
-| Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18 € | 35 € |
-| Fahrt zwischen 3 Ländern | 20 € | 40 € |
+
+| Relation                 | Standard | Plus     |
+| ------------------------ | -------- | -------- |
+| Fahrt in einem Land      | Kein FIP | Kein FIP |
+| Fahrt zwischen 2 Ländern | 18 €     | 35 €     |
+| Fahrt zwischen 3 Ländern | 20 €     | 40 €     |
 
 {{% /train-category %}}
 

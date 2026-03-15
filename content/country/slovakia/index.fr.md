@@ -31,11 +31,13 @@ Un point fort est le voyage dans les Hautes Tatras à bord de la Tatranská žel
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
+
+| Pays                                              | Points frontières                                                                                           |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [Tchéquie](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-| Hongrie ([GySEV](/operator/gysev)) | Rajka (Gr) |
-| Hongrie (MÁV) | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr) |
+| Hongrie ([GySEV](/operator/gysev))                | Rajka (Gr)                                                                                                  |
+| Hongrie (MÁV)                                     | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                       |
+
 {{% /expander %}}
 
 ### République tchèque
