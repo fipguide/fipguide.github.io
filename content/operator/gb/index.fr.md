@@ -264,7 +264,18 @@ London Overground complète le réseau du métro comme un réseau suburbain et p
   reservation_required=false
 %}}
 
-Lumo exploite des trains longue distance entre London King’s Cross, Newcastle et Édimbourg.
+Lumo exploite des trains longue distance entre London King's Cross, Newcastle et Édimbourg.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="lumo-west-coast"
+  title="Lumo West Coast (LD)"
+  type="highspeed"
+  fip_accepted=false
+%}}
+
+Lumo West Coast exploite des trains longue distance de London Euston via Milton Keynes, Nuneaton, Crewe, Preston, Carlisle, Lockerbie, Motherwell, Whifflet, Greenfaulds et Larbert jusqu'à Stirling. Il n'existe actuellement aucun accord pour l'acceptation des facilités FIP sur ces services. [^7]
 
 {{% /train-category %}}
 
@@ -679,3 +690,5 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 [^5]: [Retour d’expérience Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
+
+[^7]: [Rail Delivery Group : Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)

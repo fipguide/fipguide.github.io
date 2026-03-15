@@ -263,7 +263,18 @@ London Overground ergänzt als eine Art S-Bahn das U-Bahn-Netz und bietet großr
   reservation_required=false
 %}}
 
-Lumo betreibt Fernzüge zwischen London King’s Cross, Newcastle und Edinburgh.
+Lumo betreibt Fernzüge zwischen London King's Cross, Newcastle und Edinburgh.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="lumo-west-coast"
+  title="Lumo West Coast (LD)"
+  type="highspeed"
+  fip_accepted=false
+%}}
+
+Lumo West Coast betreibt Fernzüge von London Euston über Milton Keynes, Nuneaton, Crewe, Preston, Carlisle, Lockerbie, Motherwell, Whifflet, Greenfaulds und Larbert nach Stirling. Derzeit besteht keine Vereinbarung zur Anerkennung von FIP-Vergünstigungen auf diesen Verbindungen. [^7]
 
 {{% /train-category %}}
 
@@ -677,3 +688,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
+
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)
