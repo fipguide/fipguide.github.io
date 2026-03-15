@@ -322,11 +322,7 @@ FIP discounts apply for crossing the Strait of Messina only if the journey is ma
 
 ### Leonardo Express (Rome Fiumicino Airport Shuttle)
 
-FIP discounts do not apply on the Leonardo Express to/from Rome Fiumicino Airport. Regular regional trains can be used as an alternative.
-
-### Trinacria Express (Palermo Airport)
-
-FIP discounts do not apply on the Trinacria Express to/from Palermo Falcone Borsellino Airport.
+FIP discounts do not apply on the Leonardo Express to/from Rome Fiumicino Airport. Regular regional trains can be used as an alternative. A minimum ticket price of € 8 applies, which cannot be reduced even with the FIP 50 discount. However, FIP Coupons can be used normally on regular regional trains. [^2]
 
 ### International Frecciarossa trains to Paris
 
@@ -408,3 +404,5 @@ For long-distance travel, the FIP Coupon is only worthwhile to a limited extent,
 ## Sources
 
 [^1]: [Frecciarossa Classes](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
+
+[^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
