@@ -108,8 +108,6 @@ If an email address associated with an existing Eurostar account is provided dur
 
 {{% booking id="internationalrail-email" fip_50=nil /%}}
 
-{{% booking id="trainseurope-email" /%}}
-
 ### Phone
 
 {{% booking id="eurostar-phone"
@@ -121,8 +119,6 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
-
-{{% booking id="trainseurope-phone" /%}}
 
 {{% booking id="ns-phone"
     fip_50=nil
