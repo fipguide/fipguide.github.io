@@ -49,7 +49,7 @@ Zwischen Griechenland und Nordmazedonien gibt es keinen planmäßigen Personenve
 
 ### Albanien
 
-Albanien und Griechenland verfügen über keinerlei internationale Zugverbindungen. Das albanische Eisenbahnnetz ist außerdem nur teilweise in Betrieb und nicht mit dem griechischen Netz verbunden. In Albanien gelten zudem keine FIP-Vergünstigungen. Eine Anreise ist daher ausschließlich auf der Straße oder via Flugzeug möglich.
+Es gibt keine Schienenverbindung zwischen Albanien und Griechenland.
 
 ### Türkei
 
