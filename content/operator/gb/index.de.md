@@ -258,12 +258,15 @@ London Overground ergänzt als eine Art S-Bahn das U-Bahn-Netz und bietet großr
   id="lumo"
   title="Lumo (LD)"
   type="highspeed"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=true
   reservation_required=false
 %}}
+Lumo verkehrt auf zwei Strecken in Großbritannien:
 
-Lumo betreibt Fernzüge zwischen London King’s Cross, Newcastle und Edinburgh.
+- Auf der East Coast Main Line zwischen London King's Cross, Newcastle und Edinburgh. FIP wird auf diesen East Coast Verbindungen akzeptiert.
+
+- Auf der West Coast Main Line plant First Lumo Stirling, im Frühjahr 2026 neue Lumo West Coast Verbindungen ab London Euston über Milton Keynes, Crewe, Preston und Carlisle bis nach Stirling. Aktuell ist FIP auf diesen Verbindungen nicht gültig. [^7]
 
 {{% /train-category %}}
 
@@ -481,8 +484,8 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 {{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
-{{% booking id="gwr-website"
-    subtitle="Für alle nationalen Betreiber (außer Nachtzüge)"
+{{% booking id="lner-website"
+    subtitle="Nur LNER-Verbindungen"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
@@ -677,3 +680,5 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
+
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)

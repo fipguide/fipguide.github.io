@@ -108,8 +108,6 @@ Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Kont
 
 {{% booking id="internationalrail-email" fip_50=nil /%}}
 
-{{% booking id="trainseurope-email" /%}}
-
 ### Telefon
 
 {{% booking id="eurostar-phone"
@@ -120,8 +118,6 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
-
-{{% booking id="trainseurope-phone" /%}}
 
 {{% booking id="ns-phone"
     fip_50=nil
