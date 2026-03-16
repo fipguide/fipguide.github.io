@@ -8,7 +8,6 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
-    - Koleje Małopolskie (KML)
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
 ---
 
@@ -19,11 +18,12 @@ Poland is the country with the most different railway companies that offer FIP. 
 The following regionally operating railway companies offer FIP separately:
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
+- [Koleje Małopolskie (KMŁ)]()
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
-The local rail system in Warsaw (Szybka Kolej Miejska w Warszawie) cannot be used with FIP Tickets. It is abbreviated as SKM, just like the one in Gdansk. FIP is also not accepted on trains of the Koleje Małopolskie (KML). The Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) cannot be used with FIP, unless it operates on behalf of railway companies that accept FIP.
+The local rail system in Warsaw (Szybka Kolej Miejska w Warszawie) cannot be used with FIP Tickets. It is abbreviated as SKM, just like the one in Gdansk. The Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) cannot be used with FIP, unless it operates on behalf of railway companies that accept FIP.
 
 Apart from this, FIP coverage in Poland is very high. In long-distance traffic, reservations are sometimes necessary at PKP InterCity and also generally recommended, as the trains are often very well utilized. In regional traffic, generally only 2nd class is offered.
 
