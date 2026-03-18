@@ -23,10 +23,9 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billet FIP 50 : ✅ \
-Tarif Global FIP : ✅ (pour les trains internationaux `TGV`, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux))
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`" disable_dialog=true >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 
@@ -103,6 +102,8 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | En France Off-peak | 2 €        | 2 €       |
 | En France Peak     | 16 €       | 11 €      |
 | International      | 40 €       | 20 €      |
+
+Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 pour le trajet à l'intérieur de la France. Cependant, l'utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
 
 {{% /train-category %}}
 
@@ -298,7 +299,7 @@ Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Be
 %}}
 Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
 
-Les prix sont valables à partir de 2026 : [^11]
+Les prix sont valables à partir de 2026 : [^4]
 
 |                        | 1ʳᵉ classe | 2ᵉ classe |
 | ---------------------- | ---------- | --------- |
@@ -399,4 +400,6 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 [^3]: [Communauté FIP Guide : Tramways à Paris](https://discord.com/channels/1250522473188032512/1465705899158147072/1465705899158147072)
 
-[^11]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+[^4]: [Communauté FIP Guide : TGV vers le Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+
+[^5]: [Communauté FIP Guide : ICE Francfort–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)

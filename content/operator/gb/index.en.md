@@ -10,7 +10,7 @@ There are many different railway companies in [Great Britain](/country/united-ki
 
 ## Summary
 
-- FIP 50 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail.
+- FIP 50 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail. Exceptions exist only on certain [Lumo](#lumo) routes.
 - Reservations are only required on night trains.
 - FIP 50 Discount mostly applies only to Anytime and Off-Peak Tickets.
 - The London Overground and Elizabeth Line are part of National Rail and can be used with FIP.
@@ -18,9 +18,8 @@ There are many different railway companies in [Great Britain](/country/united-ki
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with all listed railway companies, see [Train Categories and Reservations](#train-categories-and-reservations).
 
@@ -258,12 +257,15 @@ London Overground complements the Underground network as a kind of suburban rail
   id="lumo"
   title="Lumo (LD)"
   type="highspeed"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=true
   reservation_required=false
 %}}
+Lumo operates on two routes in Great Britain:
 
-Lumo operates long-distance trains between London King’s Cross, Newcastle, and Edinburgh.
+- On the East Coast Main Line between London King's Cross, Newcastle and Edinburgh. FIP is accepted on these East Coast services.
+
+- On the West Coast Main Line, First Lumo Stirling plans to launch new Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. Currently, FIP is not valid on these services. [^7]
 
 {{% /train-category %}}
 
@@ -480,8 +482,8 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 {{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
 
-{{% booking id="gwr-website"
-    subtitle="For all national operators (except night trains)"
+{{% booking id="lner-website"
+    subtitle="LNER services only"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
@@ -675,3 +677,5 @@ Great Britain can also be explored by night trains:
 [^5]: [Feedback Seatfrog](https://discord.com/channels/1250522473188032512/1456208770404323463/1464016020489637989)
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
+
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)

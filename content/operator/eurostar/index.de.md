@@ -19,10 +19,9 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ⛔ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ⛔ \
-FIP Globalpreis: ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich. Sämtliche Tickets sind aufgrund der Reservierungspflicht in allen Zügen zuggebunden. Das Umbuchen auf andere Züge oder Stornieren von FIP Tickets ist dabei jedoch über die [Eurostar Website](https://www.eurostar.com/) möglich. Die Tickets können nur separat und nicht als Teil von durchgehenden Fahrkarten erworben werden. [^1]
 
@@ -44,10 +43,11 @@ Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abf
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
 
 **FIP Globalpreis:**
-| Relation | Standard | Plus |
-| ----------- | -------- | ---- |
-| London - Paris / Brüssel | 39 € / 34,50 £ | 60 € / 52,50 £ |
-| London - Amsterdam / Rotterdam | 51 € / 44,50 £ | 71 € / 62 £ |
+
+| Relation                       | Standard       | Plus           |
+| ------------------------------ | -------------- | -------------- |
+| London - Paris / Brüssel       | 39 € / 34,50 £ | 60 € / 52,50 £ |
+| London - Amsterdam / Rotterdam | 51 € / 44,50 £ | 71 € / 62 £    |
 
 {{% /train-category %}}
 
@@ -63,11 +63,12 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden.
 
 **FIP Globalpreis:**
-| Relation | Standard | Plus |
-| ----------- | -------- | ---- |
-| Fahrt in einem Land | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18 € | 35 € |
-| Fahrt zwischen 3 Ländern | 20 € | 40 € |
+
+| Relation                 | Standard | Plus     |
+| ------------------------ | -------- | -------- |
+| Fahrt in einem Land      | Kein FIP | Kein FIP |
+| Fahrt zwischen 2 Ländern | 18 €     | 35 €     |
+| Fahrt zwischen 3 Ländern | 20 €     | 40 €     |
 
 {{% /train-category %}}
 
@@ -100,13 +101,11 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 ### Online
 
-Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die [Eurostar Website](https://www.eurostar.com/) möglich.
+Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen)
 
 Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
 {{% booking id="internationalrail-email" fip_50=nil /%}}
-
-{{% booking id="trainseurope-email" /%}}
 
 ### Telefon
 
@@ -118,8 +117,6 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
 {{% booking id="cfl-phone"
     fip_global_fare=true
 /%}}
-
-{{% booking id="trainseurope-phone" /%}}
 
 {{% booking id="ns-phone"
     fip_50=nil
@@ -163,13 +160,21 @@ Kinder bis einschließlich 3 Jahre reisen kostenfrei, jedoch ohne garantierten S
 
 ## Tarifliche Besonderheiten
 
+### Umbuchungen & Stornierungen
+
+FIP Tickets können bis eine Stunde vor Abfahrt umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
+
+Grundsätzlich kann nur auf andere verfügbare Züge umgebucht werden, bei denen noch entsprechende Kontingente vorhanden sind, siehe auch [Ticketkontingente](#ticketkontingente). Bei der Umbuchung ist auch das Upgrade von Eurostar Standard auf Eurostar Plus gegen Zahlung der Differenz möglich. Bei einem Downgrade von Eurostar Plus auf Eurostar Standard wird die Differenz jedoch nicht erstattet.
+
+Bei Stornierung wird der gesamte Preis der FIP Tickets erstattet. Mögliche Buchungsgebühren von externen Buchungsanbietern werden nicht erstattet.
+
+Das Umbuchen, Stornieren und Upgraden von Tickets ist mit der Buchungsnummer über die [Eurostar Website](https://www.eurostar.com/customer-dashboard/en/get-booking) möglich.
+
 ### Ticketkontingente
 
 {{% highlight tip %}}
 Alle FIP-Tarife unterliegen einer Kontingentierung, weshalb eine frühzeitige Buchung zu empfehlen ist.
 {{% /highlight %}}
-
-Für Eurostar-Züge, die freitags, samstags und sonntags zwischen 17.30 Uhr und 19.00 Uhr abfahren, besteht das FIP-Angebot (1. Klasse und 2. Klasse) nicht. [^2]
 
 Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich:
 
@@ -182,21 +187,13 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 
 #### HOTNAT (Umstieg in Brüssel, Köln, Paris)
 
-{{% highlight tip %}}
-
 Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
 
 Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers oder eines anderen Railteam Mitglieds ausgewichen werden. Dazu muss am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
 
 HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
 
-{{% /highlight %}}
-
 #### London International CIV (Umstieg in London)
-
-{{% highlight tip %}}
-
-**Erklärung**
 
 Für eine Anschlusssicherung beim Umstieg in London von einem britischen Zug auf den Eurostar oder umgekehrt, kann eine Fahrkarte mit dem Abfahrts- oder Ankunftsbahnhof _London International CIV_ gebucht werden.
 
@@ -209,23 +206,21 @@ Fahrkarten nach London International sind nur auf bestimmten, jedoch den meisten
 
 Auf [BR Fares](https://www.brfares.com/) kann die Verfügbarkeit von Fahrkarten geprüft werden. Dazu _(LNE) London International (CIV)_ als Bahnhof eintragen. Eine Verfügbarkeit von diesen speziellen Fahrkarten mit Anschlusssicherung wird durch einen Tarif mit _EURO_ im Namen angezeigt.
 
-**Anschlusssicherung**
+##### Anschlusssicherung
 
 Fahrkarten nach oder von _London International CIV_ unterliegen für die gesamte Reise den Internationalen Beförderungsbedingungen (CIV, Convention Internationale pour le transport des Voyageurs) und nicht den nationalen britischen Beförderungsbedingungen (National Rail Conditions of Travel).
 
 Dadurch ist eine Absicherung im Falle einer Verspätung eines britischen Zugs und eines dadurch verpassten Eurostar-Anschlusses gewährleistet. Eurostar ist verpflichtet, ohne Aufpreis auf den nächsten verfügbaren Zug umzubuchen. Oder sollte Eurostar verspätet in London ankommen und dadurch der Anschlusszug in UK verpasst werden, ist das britische Eisenbahnunternehmen verpflichtet, die Weiterreise mit dem nächsten verfügbaren Zug zu ermöglichen – auch wenn das Ticket zuggebunden ist.
 
-**London Underground**
+##### London Underground
 
 Bei Ankunft an einem anderen Londoner Kopfbahnhof und der Notwendigkeit, die U-Bahn zu nutzen, um St Pancras zu erreichen, beinhalten Fahrkarten nach London International die Fahrt mit der London Underground.
 
-**Ticketbuchung**
+##### Ticketbuchung
 
 FIP Tickets nach London International CIV können vermutlich nur an Schaltern an Bahnhöfen in Großbritannien erworben werden.
 
 Ohne FIP Ermäßigung ist die Buchung Online möglich über [Trainsplit](https://trainsplit.com/). Dazu muss die Option _Use Split Tickets_ deaktiviert werden. Anschließend kann ein Ticket von oder nach _London International (for Eurostar) (LNE)_ gebucht werden. Der Tarif muss aber zwingend _EURO_ im Namen enthalten, wenn eine Verbindung ausgewählt wurde. Andernfalls handelt es sich um ein normales Ticket nach London ohne Anschlusssicherung. [^3]
-
-{{% /highlight %}}
 
 ## Quellen
 

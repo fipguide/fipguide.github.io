@@ -16,9 +16,8 @@ Ferrovie dello Stato Italiane (FS) ist die italienische Staatsbahn. FIP Vergüns
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅\
-FIP Freifahrt Angehörige: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}
 In anderen Tochtergesellschaften der FS abgesehen von Trenitalia gelten keine FIP Vergünstigungen (z. B. Trenord und Ferrovie Sud Est), selbst wenn die Züge Trenitalia-Logos haben. Außgenommen davon ist die Tochtergesellschaft TPER. [Siehe Regionalzüge in Emilia-Romagna](#regionalzüge-in-emilia-romagna)
@@ -323,11 +322,7 @@ FIP-Vergünstigungen gelten für die Überquerung der Straße von Messina nur, w
 
 ### Leonardo Express (Flughafen-Shuttle Rom Fiumicino)
 
-Im Leonardo Express von/zum Flughafen Rom Fiumicino gelten keine FIP Vergünstigungen. Als Alternative können normale Regionalzüge genutzt werden.
-
-### Trinacria Express (Palermo Flughafen)
-
-Im Trinacria Express von/zum Flughafen Palermo Falcone Borsellino gelten keine FIP Vergünstigungen.
+Im Leonardo Express von/zum Flughafen Rom Fiumicino gelten keine FIP Vergünstigungen. Als Alternative können normale Regionalzüge genutzt werden. Bei diesen gilt ein Ticketmindestpreis von 8 €, der auch mit FIP 50 Rabatt nicht unterschritten werden kann. FIP Freifahrtscheine können jedoch in den regulären Regionalzügen normal genutzt werden. [^2]
 
 ### Internationale Frecciarossa-Züge nach Paris
 
@@ -409,3 +404,5 @@ Für Fahrten im Fernverkehr lohnt sich der FIP Freifahrtschein nur eingeschränk
 ## Quellen
 
 [^1]: [Frecciarossa Klassen](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
+
+[^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)

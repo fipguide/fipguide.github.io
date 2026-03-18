@@ -43,8 +43,10 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 -->
 
 {{% expander "Grenzpunkte" border %}}
+
 | Land | Grenzpunkte |
-| --- | --- |
+| ---- | ----------- |
+
 {{% /expander %}}
 
 ### <Name des Nachbarlandes>

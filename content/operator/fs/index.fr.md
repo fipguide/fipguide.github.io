@@ -16,9 +16,8 @@ Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italie
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billet FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 {{% highlight important %}}
 Les Coupons FIP et les Billets FIP 50 sont valables dans les trains Trenitalia. Dans les filiales autres que Trenitalia (ex. Trenord, Ferrovie Sud Est), les rabais FIP ne s’appliquent pas, même si les trains portent le logo Trenitalia. Exception : TPER en Émilie-Romagne. [Voir Trains régionaux en Émilie-Romagne](#trains-régionaux-en-émilie-romagne)
@@ -323,11 +322,7 @@ Les rabais FIP s’appliquent pour la traversée du détroit de Messine uniqueme
 
 ### Leonardo Express (navette aéroport Rome Fiumicino)
 
-Les rabais FIP ne s’appliquent pas dans le Leonardo Express vers/depuis l’aéroport de Rome Fiumicino. Les trains régionaux classiques peuvent être utilisés en alternative.
-
-### Trinacria Express (aéroport de Palerme)
-
-Les rabais FIP ne s’appliquent pas dans le Trinacria Express vers/depuis l’aéroport de Palerme Falcone Borsellino.
+Les rabais FIP ne s’appliquent pas dans le Leonardo Express vers/depuis l’aéroport de Rome Fiumicino. Les trains régionaux classiques peuvent être utilisés en alternative. Un prix minimum de billet de 8 € s’applique, qui ne peut pas être abaissé même avec le Billet FIP 50. Les Coupons FIP peuvent toutefois être utilisés normalement dans les trains régionaux. [^2]
 
 ### Trains Frecciarossa internationaux vers Paris
 
@@ -409,3 +404,5 @@ Pour les trajets longue distance, le Coupon FIP n’est rentable que dans une ce
 ## Sources
 
 [^1]: [Classes Frecciarossa](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
+
+[^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)

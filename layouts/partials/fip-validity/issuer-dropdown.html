@@ -1,0 +1,45 @@
+{{- $id := .id -}}
+{{- $type := .type -}}
+<div class="o-dropdown o-fip-validity__dropdown">
+  <button
+    id="{{ $id }}-button"
+    class="o-dropdown__button o-fip-validity__dropdown-button"
+    aria-expanded="false"
+    aria-haspopup="listbox"
+    aria-controls="{{ $id }}-dropdown"
+    data-fip-validity-button
+    title="{{ T "fipValidity.selectIssuer" }}"
+  >
+    <span data-fip-validity-logo></span>
+    <span
+      data-fip-validity-label
+      data-fip-validity-placeholder="{{ T "fipValidity.selectIssuerPlaceholder" }}"
+    >
+      {{ T "fipValidity.selectIssuerPlaceholder" }}
+    </span>
+    <div class="o-dropdown__icon">
+      {{ partial "icon" "keyboard_arrow_down" }}
+    </div>
+  </button>
+  <menu
+    id="{{ $id }}-dropdown"
+    class="o-dropdown__menu o-dropdown__menu--below"
+    role="listbox"
+    aria-hidden="true"
+  >
+    {{- range .issuers -}}
+      {{- $slug := .File.ContentBaseName -}}
+      <li class="o-dropdown__item">
+        <button
+          class="a-button a-button__internal"
+          role="option"
+          aria-selected="false"
+          data-fip-option="{{ $slug }}"
+        >
+          {{ partial "operator-logo" (dict "operator" $slug) }}
+          {{ .Title }}
+        </button>
+      </li>
+    {{- end -}}
+  </menu>
+</div>

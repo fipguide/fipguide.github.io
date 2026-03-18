@@ -33,12 +33,14 @@ Punctuality is solid, and connecting trains often wait, but not in major hubs li
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
-| [Germany](/country/germany) ([DB AG](/operator/db)) | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr) |
-| [Poland](/country/poland) ([PKP](/operator/pkp), KD, KŚ) | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship) |
-| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
+
+| Country                                                      | Border Points                                                                                                                                                                                             |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Germany](/country/germany) ([DB AG](/operator/db))          | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb))          | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr)                                                                                                                                                        |
+| [Poland](/country/poland) ([PKP](/operator/pkp), KD, KŚ)     | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship)                                                |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)                                                                                               |
+
 {{% /expander %}}
 
 ### Germany

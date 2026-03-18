@@ -17,9 +17,8 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechis
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
@@ -275,70 +274,71 @@ Betrofene Verbindungen im Detail:
   id="commercial-supplement-long-distance"
   title="ČD kommerzielle Verbindungen 2026 – Fernzüge"
 %}}
-| Zugnummer | Zugname | Von | Nach |
-| --------- | ----------------- | ---------------------- | -------------------- |
-| EC 112 | Silesia | Ostrava hl.n. | Praha hl.n. |
-| EC 113 | Silesia | Praha hl.n. | Ostrava hl.n. |
-| EC 114 | Cracovia | Ostrava hl.n. | Praha hl.n. |
-| EC 115 | Cracovia | Praha hl.n. | Ostrava hl.n. |
-| EC 116 | Silesia | Ostrava hl.n. | Praha hl.n. |
-| EC 117 | Silesia | Praha hl.n. | Ostrava hl.n. |
-| EC 140 | Ostravan | Ostrava hl.n. | Praha hl.n. |
-| EC 141 | Ostravan | Praha hl.n. | Ostrava hl.n. |
-| EC 142 | Ostravan | Ostrava hl.n. | Praha hl.n. |
-| EC 143 | Ostravan | Praha hl.n. | Ostrava hl.n. |
-| EC 144 | Ostravan | Ostrava hl.n. | Praha hl.n. |
-| EC 145 | Ostravan | Praha hl.n. | Ostrava hl.n. |
-| IC 212 | Comenius | Petrovice u K.st.hr. | Bohumín |
-| IC 213 | Comenius | Bohumín | Petrovice u K.st.hr. |
-| IC 216 | Olza | Petrovice u K.st.hr. | Bohumín |
-| IC 217 | Olza | Bohumín | Petrovice u K.st.hr. |
-| SC 240 | Pendolino Košičan | Mosty u Jabl.st.hr. | Praha hl.n. |
-| SC 241 | Pendolino Košičan | Praha hl.n. | Mosty u Jabl.st.hr. |
-| EC 298 | Lanžhot | st.hr. | Praha hl.n. |
-| EC 299 | | Praha hl.n. | Lanžhot st.hr. |
-| IC 302 | | Bohumín | Bohumín st.hr. |
-| IC 303 | | Bohumín st.hr. | Bohumín |
-| IC 306 | | Bohumín | Bohumín st.hr. |
-| IC 307 | | Bohumín st.hr. | Bohumín |
-| R 402 | Wydmy | Bohumín st.hr. | Bohumín |
-| R 403 | Wydmy | Bohumín | Bohumín st.hr. |
-| EN 406 | Chopin | Břeclav st.hr. | Bohumín st.hr. |
-| EN 407 | Chopin | Bohumín | Břeclav st.hr. |
-| EN 416 | Carpatia | Bohumín | Bohumín st.hr. |
-| EN 417 | Carpatia | Bohumín | Bohumín |
-| EN 442 | Slovakia | Mosty u Jabl.st.hr. | Praha-Michle auto. |
-| EN 443 | Slovakia | Praha-Michle auto. | Mosty u Jabl.st.hr. |
-| NJ 456 | nightjet | Břeclav st.hr. | Děčín st.hr. |
-| NJ 457 | nightjet | Děčín st.hr. | Břeclav st.hr. |
-| SC 500 | Pendolino | Ostrava hl.n. | Praha hl.n. |
-| SC 502 | Opavan | Opava východ | Praha hl.n. |
-| SC 503 | Pendolino | Praha hl.n. | Ostrava hl.n. |
-| SC 504 | Pendolino | Ostrava hl.n. | Praha hl.n. |
-| SC 505 | Pendolino | Praha hl.n. | Ostrava hl.n. |
-| SC 506 | Pendolino | Ostrava hl.n. | Praha hl.n. |
-| SC 507 | Pendolino | Praha hl.n. | Ostrava hl.n. |
-| SC 510 | Pendolino | Bohumín | Praha hl.n. |
-| SC 511 | Pendolino | Praha hl.n. | Bohumín |
-| IC 512 | Ostravan | Bohumín | Praha hl.n. |
-| SC 513 | Opavan | Praha hl.n. | Opava východ |
-| IC 515 | Ostravan | Praha hl.n. | Bohumín |
-| SC 516 | Pendolino | Bohumín | Praha hl.n. |
-| SC 517 | Pendolino | Praha hl.n. | Bohumín |
-| IC 546 \* | Ostravan | Bohumín | Ostrava hl.n. |
-| IC 546 | | Ostravan Ostrava hl.n. | Praha hl.n. |
-| IC 547 | Ostravan | Praha hl.n. | Ostrava hl.n. |
-| IC 547 \*\* | Ostravan | Ostrava hl.n. | Bohumín |
-| IC 548 | Ostravan | Bohumín | Praha hl.n. |
-| IC 549 | Ostravan | Praha hl.n. | Bohumín |
-| IC 594 | | Břeclav | Praha hl.n. |
-| IC 597 | | Praha hl.n. | Břeclav |
-| R 642 | Dny NATO | Mošnov, Ostr.Airport | Olomouc hl.n. |
-| R 643 | Dny NATO | Olomouc hl.n. | Mošnov, Ostr.Airport |
-| IC 644 | Dny NATO | Mošnov, Ostr.Airport | Praha hl.n. |
-| IC 645 | Dny NATO | Praha hl.n. | Mošnov, Ostr.Airport |
-| R 646 | Dny NATO | Mošnov, Ostr.Airport | Brno hl.n. |
-| R 647 | Dny NATO | Brno hl.n. | Mošnov, Ostr.Airport |
+
+| Zugnummer   | Zugname           | Von                    | Nach                 |
+| ----------- | ----------------- | ---------------------- | -------------------- |
+| EC 112      | Silesia           | Ostrava hl.n.          | Praha hl.n.          |
+| EC 113      | Silesia           | Praha hl.n.            | Ostrava hl.n.        |
+| EC 114      | Cracovia          | Ostrava hl.n.          | Praha hl.n.          |
+| EC 115      | Cracovia          | Praha hl.n.            | Ostrava hl.n.        |
+| EC 116      | Silesia           | Ostrava hl.n.          | Praha hl.n.          |
+| EC 117      | Silesia           | Praha hl.n.            | Ostrava hl.n.        |
+| EC 140      | Ostravan          | Ostrava hl.n.          | Praha hl.n.          |
+| EC 141      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
+| EC 142      | Ostravan          | Ostrava hl.n.          | Praha hl.n.          |
+| EC 143      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
+| EC 144      | Ostravan          | Ostrava hl.n.          | Praha hl.n.          |
+| EC 145      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
+| IC 212      | Comenius          | Petrovice u K.st.hr.   | Bohumín              |
+| IC 213      | Comenius          | Bohumín                | Petrovice u K.st.hr. |
+| IC 216      | Olza              | Petrovice u K.st.hr.   | Bohumín              |
+| IC 217      | Olza              | Bohumín                | Petrovice u K.st.hr. |
+| SC 240      | Pendolino Košičan | Mosty u Jabl.st.hr.    | Praha hl.n.          |
+| SC 241      | Pendolino Košičan | Praha hl.n.            | Mosty u Jabl.st.hr.  |
+| EC 298      | Lanžhot           | st.hr.                 | Praha hl.n.          |
+| EC 299      |                   | Praha hl.n.            | Lanžhot st.hr.       |
+| IC 302      |                   | Bohumín                | Bohumín st.hr.       |
+| IC 303      |                   | Bohumín st.hr.         | Bohumín              |
+| IC 306      |                   | Bohumín                | Bohumín st.hr.       |
+| IC 307      |                   | Bohumín st.hr.         | Bohumín              |
+| R 402       | Wydmy             | Bohumín st.hr.         | Bohumín              |
+| R 403       | Wydmy             | Bohumín                | Bohumín st.hr.       |
+| EN 406      | Chopin            | Břeclav st.hr.         | Bohumín st.hr.       |
+| EN 407      | Chopin            | Bohumín                | Břeclav st.hr.       |
+| EN 416      | Carpatia          | Bohumín                | Bohumín st.hr.       |
+| EN 417      | Carpatia          | Bohumín                | Bohumín              |
+| EN 442      | Slovakia          | Mosty u Jabl.st.hr.    | Praha-Michle auto.   |
+| EN 443      | Slovakia          | Praha-Michle auto.     | Mosty u Jabl.st.hr.  |
+| NJ 456      | nightjet          | Břeclav st.hr.         | Děčín st.hr.         |
+| NJ 457      | nightjet          | Děčín st.hr.           | Břeclav st.hr.       |
+| SC 500      | Pendolino         | Ostrava hl.n.          | Praha hl.n.          |
+| SC 502      | Opavan            | Opava východ           | Praha hl.n.          |
+| SC 503      | Pendolino         | Praha hl.n.            | Ostrava hl.n.        |
+| SC 504      | Pendolino         | Ostrava hl.n.          | Praha hl.n.          |
+| SC 505      | Pendolino         | Praha hl.n.            | Ostrava hl.n.        |
+| SC 506      | Pendolino         | Ostrava hl.n.          | Praha hl.n.          |
+| SC 507      | Pendolino         | Praha hl.n.            | Ostrava hl.n.        |
+| SC 510      | Pendolino         | Bohumín                | Praha hl.n.          |
+| SC 511      | Pendolino         | Praha hl.n.            | Bohumín              |
+| IC 512      | Ostravan          | Bohumín                | Praha hl.n.          |
+| SC 513      | Opavan            | Praha hl.n.            | Opava východ         |
+| IC 515      | Ostravan          | Praha hl.n.            | Bohumín              |
+| SC 516      | Pendolino         | Bohumín                | Praha hl.n.          |
+| SC 517      | Pendolino         | Praha hl.n.            | Bohumín              |
+| IC 546 \*   | Ostravan          | Bohumín                | Ostrava hl.n.        |
+| IC 546      |                   | Ostravan Ostrava hl.n. | Praha hl.n.          |
+| IC 547      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
+| IC 547 \*\* | Ostravan          | Ostrava hl.n.          | Bohumín              |
+| IC 548      | Ostravan          | Bohumín                | Praha hl.n.          |
+| IC 549      | Ostravan          | Praha hl.n.            | Bohumín              |
+| IC 594      |                   | Břeclav                | Praha hl.n.          |
+| IC 597      |                   | Praha hl.n.            | Břeclav              |
+| R 642       | Dny NATO          | Mošnov, Ostr.Airport   | Olomouc hl.n.        |
+| R 643       | Dny NATO          | Olomouc hl.n.          | Mošnov, Ostr.Airport |
+| IC 644      | Dny NATO          | Mošnov, Ostr.Airport   | Praha hl.n.          |
+| IC 645      | Dny NATO          | Praha hl.n.            | Mošnov, Ostr.Airport |
+| R 646       | Dny NATO          | Mošnov, Ostr.Airport   | Brno hl.n.           |
+| R 647       | Dny NATO          | Brno hl.n.             | Mošnov, Ostr.Airport |
 
 \* IC 546: Kommerzieller Zugverkehr an Sonntagen und am 27.12., 4.4., 2.5., 9.5.; ausgenommen 24.12., 3.4., 1.5, 8.5., 28.10., 17.11. \
 \*\* IC 547: Kommerzieller Zugverkehr an Samstagen und am 24. – 26., 31.12., 3. – 5.4., 1., 8.5., 5.7., 27.9.
@@ -445,11 +445,12 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
   id="commercial-supplement-short-distance"
   title="ČD kommerzielle Verbindungen 2026 – Regionalzüge"
 %}}
-| Linie | Region | Strecke | Streckenabschnitt und Züge |
-| --- | --- | --- | --- |
-| P2 | Středočeský (Mittelböhmen) | 170 | Beroun – Kařez (nur in `Os`) |
-| P1 West | Karlovarský (Karlsbad) | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`) |
-| S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
+
+| Linie   | Region                               | Strecke  | Streckenabschnitt und Züge                                                                                                                                                                                                                                                                         |
+| ------- | ------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| P2      | Středočeský (Mittelböhmen)           | 170      | Beroun – Kařez (nur in `Os`)                                                                                                                                                                                                                                                                       |
+| P1 West | Karlovarský (Karlsbad)               | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`)                                                                                                                                                                                                                                                      |
+| S6      | Moravskoslezský (Mährisch-Schlesien) | 323      | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=17)
 

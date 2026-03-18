@@ -43,8 +43,10 @@ Uniquement les points frontaliers situés à la frontière nationale avec d’au
 -->
 
 {{% expander "Points frontières" border %}}
+
 | Pays | Points frontières |
-| --- | --- |
+| ---- | ----------------- |
+
 {{% /expander %}}
 
 ### <Nom du pays>
