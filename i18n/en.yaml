@@ -49,6 +49,8 @@ fipValidity:
   active-relatives: Relatives of Active Employees
   additional: Other
   buttonLabel: Show more information on FIP validity
+  cardValidityHeading: Validity Period of the FIP Card
+  cardValidityMissingInfo: We currently do not have information on the validity period.
   fip-coupon: FIP Coupon
   fip-coupon-description: >-
     First select the issuer of your FIP Card. If you are eligible, you can

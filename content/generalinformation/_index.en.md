@@ -32,19 +32,7 @@ To use FIP discounts, you need a valid International Discount Card for Railway S
 
 The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from December 1st of the previous year) and up to one month after the last year of validity (until January 31th of the following year).
 
-For the following railway companies, we have information on the validity period:
-
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
-The FIP Card is always valid for a fixed period of three years. The current period is 2025-2026-2027.
-{{% /expander %}}
-
-{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
-The FIP Card is valid for three years.
-{{% /expander %}}
-
-{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
-The FIP Card is valid for one year.
-{{% /expander %}}
+You can find out the validity period of your FIP Card on our [overview page](/fip-validity/).
 
 Some railway companies also allow employees to obtain FIP Cards for their dependents, allowing them to purchase FIP 50 Tickets.
 

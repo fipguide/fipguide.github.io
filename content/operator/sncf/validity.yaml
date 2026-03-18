@@ -66,6 +66,10 @@ _anchors:
       fr: |
         **1 coupon**
         <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
+card-validity:
+  de: Der FIP Ausweis ist drei Jahre gültig.
+  en: The FIP Card is valid for three years.
+  fr: La Carte FIP est valable trois ans.
 db:
   fip-coupon:
     active: *coupon-4fields

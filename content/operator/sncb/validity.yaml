@@ -88,6 +88,10 @@ _anchors:
       fr: |
         **1 coupon**
         <small>Par an (enfant uniquement).</small>
+card-validity:
+  de: Der FIP Ausweis ist ein Jahr gültig.
+  en: The FIP Card is valid for one year.
+  fr: La Carte FIP est valable un an.
 bdz:
   fip-coupon:
     active: *coupon-1

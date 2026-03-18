@@ -50,6 +50,10 @@ fipValidity:
   active-relatives: Ayants droit des employés actifs
   additional: Autre
   buttonLabel: Afficher plus d'informations sur la validité du FIP
+  cardValidityHeading: Durée de validité de la Carte FIP
+  cardValidityMissingInfo: >-
+    Nous ne disposons actuellement d’aucune information sur la durée de
+    validité.
   fip-coupon: Coupon FIP
   fip-coupon-description: >-
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,

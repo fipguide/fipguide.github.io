@@ -53,6 +53,10 @@ _anchors:
       fr: |
         **1 coupon**
         <small>Unique, dans les 45 mois suivant le départ.</small>
+card-validity:
+  de: Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027.
+  en: The FIP Card is always valid for a fixed period of three years. The current period is 2025-2026-2027.
+  fr: La Carte FIP est toujours valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027.
 sncf:
   fip-coupon:
     active: *coupon-4fields

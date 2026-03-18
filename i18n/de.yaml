@@ -50,6 +50,8 @@ fipValidity:
   active-relatives: Angehörige aktiver Mitarbeitender
   additional: Sonstige
   buttonLabel: Mehr Informationen zur FIP Gültigkeit anzeigen
+  cardValidityHeading: Gültigkeitsdauer des FIP Ausweises
+  cardValidityMissingInfo: Derzeit liegen uns keine Informationen zur Gültigkeitsdauer vor.
   fip-coupon: FIP Freifahrtschein
   fip-coupon-description: >-
     Wähle zunächst den Aussteller deines FIP Ausweises. Wenn du berechtigt bist,
