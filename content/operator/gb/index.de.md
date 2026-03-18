@@ -10,7 +10,7 @@ In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele ve
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine gelten bei allen [Eisenbahnverkehrsunternehmen](#zugkategorien-und-reservierungen), die in National Rail integriert sind.
+- FIP 50 und FIP Freifahrtscheine gelten bei allen [Eisenbahnverkehrsunternehmen](#zugkategorien-und-reservierungen), die in National Rail integriert sind. Ausnahmen gibt es nur auf einigen Routen von [Lumo](#lumo).
 - Reservierungen sind nur in Nachtzügen erforderlich.
 - FIP 50 Rabatt ist größtenteils nur auf Anytime und Off-Peak Tickets anwendbar.
 - Die London Overground und Elizabeth Line sind Teil von National Rail und können mit FIP genutzt werden.

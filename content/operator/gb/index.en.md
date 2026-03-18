@@ -10,7 +10,7 @@ There are many different railway companies in [Great Britain](/country/united-ki
 
 ## Summary
 
-- FIP 50 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail.
+- FIP 50 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail. Exceptions exist only on certain [Lumo](#lumo) routes.
 - Reservations are only required on night trains.
 - FIP 50 Discount mostly applies only to Anytime and Off-Peak Tickets.
 - The London Overground and Elizabeth Line are part of National Rail and can be used with FIP.
