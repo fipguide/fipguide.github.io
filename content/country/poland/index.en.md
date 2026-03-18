@@ -38,15 +38,17 @@ The condition, density and frequency of railway lines are often very dependent o
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-|-------------------------|---------------|
-| Belarus (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship) |
-| [Czechia](/country/czechia) ([ČD](/operator/cd)) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
-| [Germany](/country/germany) ([DB AG](/operator/db)) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg)) | Mockava (Gr) |
-| Russia (RZD) | Braniewo (Gr) |
-| Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr) |
-| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr) |
+
+| Country                                                      | Border Points                                                                                                     |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| Belarus (BC)                                                 | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
+| [Czechia](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
+| [Germany](/country/germany) ([DB AG](/operator/db))          | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg))  | Mockava (Gr)                                                                                                      |
+| Russia (RZD)                                                 | Braniewo (Gr)                                                                                                     |
+| Ukraine (UZ)                                                 | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr)                                                            |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
+
 {{% /expander %}}
 
 ### Belarus

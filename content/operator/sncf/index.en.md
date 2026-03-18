@@ -277,6 +277,8 @@ For journeys within France, the standard domestic `TGV` reservation fees apply. 
 | Within France Peak     | €16       | €11       |
 | International          | €40       | €20       |
 
+For the direct trains between Frankfurt (Main) and Bordeaux in July and August, DB does not sell FIP 50 Tickets for the journey within France. However, using them with an FIP Coupon and an SNCF reservation is possible. [^5]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -298,7 +300,7 @@ International `TGV` services from France to Italy, Spain, or Belgium are reserva
 %}}
 Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.
 
-Prices as of 2026: [^11]
+Prices as of 2026: [^4]
 
 |                        | 1st class | 2nd class |
 | ---------------------- | --------- | --------- |
@@ -398,4 +400,6 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 [^3]: [FIP Guide Community: Trams in Paris](https://discord.com/channels/1250522473188032512/1465705899158147072/1465705899158147072)
 
-[^11]: [FIP Guide Community: TGV to Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+[^4]: [FIP Guide Community: TGV to Luxembourg](https://discord.com/channels/1250522473188032512/1456387852836274240)
+
+[^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)

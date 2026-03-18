@@ -86,6 +86,28 @@ details {
   background-color: var(--bg-neutral);
   border-radius: var(--border-radius-m);
   margin-bottom: 1.2rem;
+  interpolate-size: allow-keywords;
+
+  &::details-content {
+    overflow: hidden;
+    block-size: 0;
+    transition:
+      block-size 0.25s ease,
+      content-visibility 0.25s ease allow-discrete;
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
+
+    @media print {
+      content-visibility: visible;
+      height: auto !important;
+    }
+  }
+
+  &[open]::details-content {
+    block-size: auto;
+  }
 
   table {
     width: 100%;
@@ -108,11 +130,6 @@ details {
     border: 0.2rem solid #bbb;
     page-break-inside: avoid;
     display: block;
-
-    &::details-content {
-      content-visibility: visible;
-      height: auto !important;
-    }
   }
 }
 
