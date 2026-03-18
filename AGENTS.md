@@ -18,20 +18,20 @@
 
 ### Translations
 
-| Deutsch                      | Englisch                  | Französisch                         |
-| ---------------------------- | ------------------------- | ----------------------------------- |
-| FIP Freifahrtschein          | FIP Coupon                | Coupon FIP                          |
-| FIP Globalpreis              | FIP Global Fare           | Tarif Global FIP                    |
-| FIP 50 Ticket                | FIP 50 Ticket             | Billet FIP 50                       |
-| FIP Ausweis                  | FIP Card                  | Carte FIP                           |
-| <operator> Ticketschalter    | <operator> Ticket Office  | Guichet <operator>                  |
-| <operator> Website           | <operator> Website        | Site Web <operator>                 |
-| <operator> Telefon           | <operator> Telephone      | Téléphone <operator>                |
-| <operator> Fahrkartenautomat | <operator> Ticket Machine | Distributeurs de billets <operator> |
-| Grenzpunkt                   | Border Point              | Point frontière                     |
-| FIP Rabatt / FIP Ermäßigung  | FIP Discount              | Remise FIP / Réduction FIP          |
-| FIP Freifahrt Angehörige     | FIP Coupon for relatives  | Coupon FIP pour les ayants droit    |
-| SBB                          | SBB                       | CFF                                 |
+| Deutsch                            | Englisch                  | Französisch                         |
+| ---------------------------------- | ------------------------- | ----------------------------------- |
+| FIP Freifahrtschein                | FIP Coupon                | Coupon FIP                          |
+| FIP Globalpreis                    | FIP Global Fare           | Tarif Global FIP                    |
+| FIP 50 Ticket                      | FIP 50 Ticket             | Billet FIP 50                       |
+| FIP Ausweis                        | FIP Card                  | Carte FIP                           |
+| <operator> Ticketschalter          | <operator> Ticket Office  | Guichet <operator>                  |
+| <operator> Website                 | <operator> Website        | Site Web <operator>                 |
+| <operator> Telefon                 | <operator> Telephone      | Téléphone <operator>                |
+| <operator> Fahrkartenautomat       | <operator> Ticket Machine | Distributeurs de billets <operator> |
+| Grenzpunkt                         | Border Point              | Point frontière                     |
+| FIP Rabatt / FIP Ermäßigung        | FIP Discount              | Remise FIP / Réduction FIP          |
+| FIP Freifahrtschein für Angehörige | FIP Coupon for relatives  | Coupon FIP pour les ayants droit    |
+| SBB                                | SBB                       | CFF                                 |
 
 #### Headlines
 
