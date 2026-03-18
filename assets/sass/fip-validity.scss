@@ -1,0 +1,154 @@
+.o-fip-validity {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  @each $status in valid, invalid, unknown {
+    &--#{$status} {
+      color: var(--fip-validity-#{$status});
+    }
+  }
+
+  > .a-button {
+    font-size: 1.7rem;
+  }
+
+  &-dialog-value {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    flex-direction: column;
+    text-align: center;
+    flex: 1;
+  }
+
+  &__table-wrapper {
+    margin-bottom: 5rem;
+  }
+
+  &__table {
+    table-layout: fixed;
+    margin-left: 0;
+
+    @media (min-width: $breakpoint-lg) {
+      table-layout: fixed;
+      width: 100%;
+    }
+
+    > thead > tr > th,
+    > tbody > tr > td {
+      text-align: center;
+      min-width: 150px;
+
+      &:first-child {
+        min-width: 100px;
+        text-align: left;
+      }
+    }
+  }
+
+  &__cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    margin-top: 1rem;
+
+    &[hidden] {
+      display: none;
+    }
+  }
+
+  &__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 0.8rem;
+    border: var(--border-visible);
+    border-radius: var(--border-radius-m);
+    flex: 1 1 100%;
+    text-align: center;
+
+    @media (min-width: $breakpoint-sm) {
+      flex: 1 1 calc(50% - 0.6rem);
+    }
+
+    @media (min-width: $breakpoint-lg) {
+      flex: 1 1 0;
+    }
+  }
+
+  &__card-title {
+    font-weight: bold;
+    font-size: 0.9em;
+    border-bottom: var(--border-visible);
+    width: 100%;
+    padding-bottom: 0.6rem;
+    text-align: center;
+
+    @media (min-width: $breakpoint-lg) {
+      height: 2lh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  &__text {
+    text-align: left;
+  }
+
+  &__controls {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+
+  &__dropdown-button {
+    border: var(--border-visible);
+    border-radius: var(--border-radius-m);
+
+    [data-fip-validity-logo] {
+      display: flex;
+      align-items: center;
+      margin-right: 0.5rem;
+    }
+  }
+
+  &__dropdown {
+    .o-dropdown__item {
+      margin: 0;
+
+      .a-button {
+        width: 100%;
+        font-size: 1em;
+        white-space: nowrap;
+        gap: 1rem;
+        border-radius: 0;
+
+        &[aria-selected="true"] {
+          color: var(--link-hovered);
+          font-weight: bold;
+        }
+      }
+
+      &:first-of-type .a-button {
+        border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
+      }
+
+      &:last-of-type .a-button {
+        border-radius: 0 0 var(--border-radius-m) var(--border-radius-m);
+      }
+    }
+  }
+}
+
+[data-fip-select-first] {
+  margin-top: 1rem;
+}
+
+[id^="fip-validity"] .o-dialog {
+  height: 100vh;
+}
