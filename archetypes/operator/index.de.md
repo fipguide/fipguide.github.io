@@ -43,7 +43,7 @@ operator: "{{ .File.ContentBaseName }}"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
-{{< fip-validity type="fip-global-fare" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
   Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)

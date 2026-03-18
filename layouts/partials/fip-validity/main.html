@@ -37,7 +37,7 @@
   {{- partial "dialog" (
     dict
     "ID" $dialogId
-    "Title" (T $typeI18n)
+    "Title" (printf "%s %s" (T "fipValidity.validity") (T $typeI18n))
     "Content" (partial "fip-validity/dialog" (dict "type" .type "page" .page))
     )
   -}}

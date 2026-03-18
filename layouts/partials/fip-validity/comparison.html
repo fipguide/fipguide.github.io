@@ -18,29 +18,31 @@
 </div>
 
 {{- range $types := slice "fip-coupon" "fip-reduced-ticket" -}}
-  <h2>{{ T (printf "fipValidity.%s" $types) }}</h2>
+  <div class="o-fip-validity__table-wrapper">
+    <h2>{{ T (printf "fipValidity.%s" $types) }}</h2>
 
-  <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+    <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
 
-  {{- range $issuers -}}
-    {{- $issuerSlug := .File.ContentBaseName -}}
-    {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
+    {{- range $issuers -}}
+      {{- $issuerSlug := .File.ContentBaseName -}}
+      {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
 
-    {{- $entries := dict -}}
-    {{- range where $.Site.RegularPages "Type" "operator" -}}
-      {{- $targetSlug := .File.ContentBaseName -}}
-      {{- if and (ne $targetSlug $issuerSlug) (not (in $excluded $targetSlug)) -}}
-        {{- $entries = merge $entries (dict $targetSlug (index (index $validity $targetSlug) $types)) -}}
+      {{- $entries := dict -}}
+      {{- range where $.Site.RegularPages "Type" "operator" -}}
+        {{- $targetSlug := .File.ContentBaseName -}}
+        {{- if and (ne $targetSlug $issuerSlug) (not (in $excluded $targetSlug)) -}}
+          {{- $entries = merge $entries (dict $targetSlug (index (index $validity $targetSlug) $types)) -}}
+        {{- end -}}
       {{- end -}}
+
+
+      <div
+        data-fip-issuer="{{ $issuerSlug }}"
+        data-fip-type="{{ $types }}"
+        hidden
+      >
+        {{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $) }}
+      </div>
     {{- end -}}
-
-
-    <div
-      data-fip-issuer="{{ $issuerSlug }}"
-      data-fip-type="{{ $types }}"
-      hidden
-    >
-      {{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $) }}
-    </div>
-  {{- end -}}
+  </div>
 {{- end -}}

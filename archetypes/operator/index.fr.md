@@ -43,7 +43,7 @@ operator: "{{ .File.ContentBaseName }}"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
-{{< fip-validity type="fip-global-fare" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?

@@ -48,7 +48,7 @@ fipValidity:
   active: Active Employees
   active-relatives: Relatives of Active Employees
   additional: Other
-  buttonLabel: More information on FIP validity
+  buttonLabel: Show more information on FIP validity
   fip-coupon: FIP Coupon
   fip-coupon-description: >-
     First select the issuer of your FIP Card. If you are eligible, you can
@@ -59,7 +59,7 @@ fipValidity:
   fip-reduced-ticket: FIP Reduced Ticket
   fip-reduced-ticket-description: >-
     Railway companies typically offer a discount with FIP, also known as FIP50
-    or FIP75. The discount is usually 50%, sometimes 75%. To find out what
+    or FIP75. The discount is usually 50 %, sometimes 75 %. To find out what
     discount applies to you, first select the issuer of your FIP Card. You can
     find an overview of all discounts [here](/fip-validity).
   issuer: FIP Card Issuer
@@ -70,6 +70,7 @@ fipValidity:
   selectIssuerFirst: Please select a FIP Card issuer first.
   selectIssuerPlaceholder: Select FIP Card issuer
   unknown: Unknown
+  validity: validity
   widows: Widows, Widowers and Orphans
 footer-love:
   aria-label: Made with love in Europe

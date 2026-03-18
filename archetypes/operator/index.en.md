@@ -43,7 +43,7 @@ operator: "{{ .File.ContentBaseName }}"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
-{{< fip-validity type="fip-global-fare" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?

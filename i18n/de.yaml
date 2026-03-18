@@ -49,7 +49,7 @@ fipValidity:
   active: Aktive Mitarbeitende
   active-relatives: Angehörige aktiver Mitarbeitender
   additional: Sonstige
-  buttonLabel: Mehr Informationen zur FIP Gültigkeit
+  buttonLabel: Mehr Informationen zur FIP Gültigkeit anzeigen
   fip-coupon: FIP Freifahrtschein
   fip-coupon-description: >-
     Wähle zunächst den Aussteller deines FIP Ausweises. Wenn du berechtigt bist,
@@ -58,21 +58,22 @@ fipValidity:
     weiterhelfen können. Einen Überblick aller Freifahrtscheine erhälst du
     [hier](/fip-validity).
   fip-global-fare: FIP Globalpreis
-  fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP50 / FIP75)
+  fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP 50 / FIP 75)
   fip-reduced-ticket-description: >-
-    Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als
-    FIP50 oder FIP75 bekannt. Der Rabatt beläuft sich meistens auf 50%,
-    teilweise auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle
-    zunächst den Aussteller deines FIP Ausweises aus. Einen Überblick aller
-    Rabatte erhälst du [hier](/fip-validity).
+    Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als FIP
+    50 oder FIP 75 bekannt. Der Rabatt beläuft sich meistens auf 50%, teilweise
+    auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle zunächst den
+    Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
+    du [hier](/fip-validity).
   issuer: Aussteller des FIP Ausweises
-  retired: Rentner
-  retired-relatives: Angehörige von Rentnern
+  retired: Rentner:innen
+  retired-relatives: Angehörige von Rentner:innen
   rules: Regeln
   selectIssuer: 'FIP Ausweis Aussteller wählen:'
   selectIssuerFirst: Bitte zuerst einen FIP Ausweis Aussteller auswählen.
   selectIssuerPlaceholder: FIP Ausweis Aussteller wählen
   unknown: Unbekannt
+  validity: Gültigkeit
   widows: Witwen, Witwer und Waisen
 footer-love:
   aria-label: Made with love in Europe

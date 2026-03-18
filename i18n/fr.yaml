@@ -49,7 +49,7 @@ fipValidity:
   active: Employés actifs
   active-relatives: Ayants droit des employés actifs
   additional: Autre
-  buttonLabel: Plus d'informations sur la validité FIP
+  buttonLabel: Afficher plus d'informations sur la validité du FIP
   fip-coupon: Coupon FIP
   fip-coupon-description: >-
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
@@ -60,8 +60,8 @@ fipValidity:
   fip-reduced-ticket: Billet FIP à tarif réduit
   fip-reduced-ticket-description: >-
     Les compagnies ferroviaires accordent généralement une réduction avec FIP,
-    également connue sous le nom de FIP50 ou FIP75. La réduction est
-    habituellement de 50%, parfois de 75%. Pour savoir quelle réduction
+    également connue sous le nom de FIP 50 ou FIP 75. La réduction est
+    habituellement de 50 %, parfois de 75 %. Pour savoir quelle réduction
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
   issuer: Émetteur de la carte FIP
@@ -72,6 +72,7 @@ fipValidity:
   selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
   selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
   unknown: Inconnu
+  validity: validité
   widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe

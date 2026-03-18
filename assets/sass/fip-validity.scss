@@ -23,6 +23,10 @@
     flex: 1;
   }
 
+  &__table-wrapper {
+    margin-bottom: 5rem;
+  }
+
   &__table {
     table-layout: fixed;
     margin-left: 0;
@@ -122,11 +126,20 @@
         font-size: 1em;
         white-space: nowrap;
         gap: 1rem;
+        border-radius: 0;
 
         &[aria-selected="true"] {
           color: var(--link-hovered);
           font-weight: bold;
         }
+      }
+
+      &:first-of-type .a-button {
+        border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
+      }
+
+      &:last-of-type .a-button {
+        border-radius: 0 0 var(--border-radius-m) var(--border-radius-m);
       }
     }
   }
