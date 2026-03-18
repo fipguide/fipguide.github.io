@@ -102,7 +102,7 @@ language-switcher:
   aria-label: Sprache wechseln
   dropdown-label: Verfügbare Sprachen
 lightbox:
-  open: Bild im Lightbox öffnen
+  open: Öffne Bild in Großbildansicht
 menu:
   close:
     label: Schließen

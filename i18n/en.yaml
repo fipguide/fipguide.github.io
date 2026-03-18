@@ -99,7 +99,7 @@ language-switcher:
   aria-label: Switch language
   dropdown-label: Available languages
 lightbox:
-  open: Open image in lightbox
+  open: Open picture in large screen view
 menu:
   close:
     label: Close

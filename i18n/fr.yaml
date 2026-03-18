@@ -100,7 +100,7 @@ language-switcher:
   aria-label: Changer de langue
   dropdown-label: Langues disponibles
 lightbox:
-  open: Ouvrir l'image dans la visionneuse
+  open: Ouvrir l'image en plein écran
 menu:
   close:
     label: Fermer
