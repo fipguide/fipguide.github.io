@@ -73,7 +73,7 @@
       text-decoration: none;
       font-weight: 400;
       white-space: nowrap;
-      border-radius: var(--border-radius-m);
+      border-radius: 0;
       padding: 0.8rem 1rem;
       align-items: center;
       color: var(--color-body);
@@ -90,12 +90,18 @@
       }
     }
 
-    &:first-of-type .a-button {
-      border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
+    &:first-of-type {
+      a,
+      button {
+        border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
+      }
     }
 
-    &:last-of-type .a-button {
-      border-radius: 0 0 var(--border-radius-m) var(--border-radius-m);
+    &:last-of-type {
+      a,
+      button {
+        border-radius: 0 0 var(--border-radius-m) var(--border-radius-m);
+      }
     }
   }
 
