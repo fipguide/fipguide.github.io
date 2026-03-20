@@ -18,9 +18,8 @@ The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Ship Categories and Reservations
 

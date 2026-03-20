@@ -20,8 +20,8 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Zugkategorien und Reservierungen
 
