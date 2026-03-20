@@ -41,5 +41,10 @@
         </button>
       </li>
     {{- end -}}
+    {{- if not .issuers -}}
+      <li class="o-dropdown__item o-dropdown__item--empty">
+        {{ T "fipValidity.noIssuers" }}
+      </li>
+    {{- end -}}
   </menu>
 </div>

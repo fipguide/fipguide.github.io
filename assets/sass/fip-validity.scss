@@ -134,6 +134,11 @@
         }
       }
 
+      &--empty {
+        min-width: 28rem;
+        padding: 0.5rem 1rem;
+      }
+
       &:first-of-type .a-button {
         border-radius: var(--border-radius-m) var(--border-radius-m) 0 0;
       }

@@ -17,8 +17,8 @@ Auf der Website bietet die KMŁ eine [Übersicht der betriebenen Linien](https:/
 
 ## Gültigkeit FIP-Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KMŁ gültig.
 
