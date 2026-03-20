@@ -1,0 +1,48 @@
+{{- $lang := .Language.Lang -}}
+{{- $excluded := slice "eurostar" "euskotren" -}}
+{{- $issuers := slice -}}
+{{- range where .Site.RegularPages "Type" "operator" -}}
+  {{- if .Resources.Get "validity.yaml" -}}
+    {{- $issuers = $issuers | append . -}}
+  {{- end -}}
+{{- end -}}
+<div class="o-fip-validity__controls">
+  <span>
+    {{ T "fipValidity.selectIssuer" }}
+  </span>
+  {{ partial "fip-validity/issuer-dropdown" (dict
+    "id" "fip-validity-issuer"
+    "issuers" $issuers
+    )
+  }}
+</div>
+
+{{- range $types := slice "fip-coupon" "fip-reduced-ticket" -}}
+  <div class="o-fip-validity__table-wrapper">
+    <h2>{{ T (printf "fipValidity.%s" $types) }}</h2>
+
+    <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+
+    {{- range $issuers -}}
+      {{- $issuerSlug := .File.ContentBaseName -}}
+      {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
+
+      {{- $entries := dict -}}
+      {{- range where $.Site.RegularPages "Type" "operator" -}}
+        {{- $targetSlug := .File.ContentBaseName -}}
+        {{- if and (ne $targetSlug $issuerSlug) (not (in $excluded $targetSlug)) -}}
+          {{- $entries = merge $entries (dict $targetSlug (index (index $validity $targetSlug) $types)) -}}
+        {{- end -}}
+      {{- end -}}
+
+
+      <div
+        data-fip-issuer="{{ $issuerSlug }}"
+        data-fip-type="{{ $types }}"
+        hidden
+      >
+        {{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $) }}
+      </div>
+    {{- end -}}
+  </div>
+{{- end -}}
