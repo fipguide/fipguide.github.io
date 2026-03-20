@@ -10,8 +10,6 @@ Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/cou
 
 Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map) an.
 
-Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map) an.
-
 ## Zusammenfassung
 
 - FIP wird auf allen Zugverbindungen von Irish Rail akzeptiert.
