@@ -10,7 +10,7 @@ Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses
 
 ## Résumé
 
-- Les Billets FIP 50 et Coupon FIP sont valables auprès de tous les [opérateurs ferroviaires](#catégories-de-trains-et-réservations) intégrés à National Rail.
+- Les Billets FIP 50 et Coupon FIP sont valables auprès de tous les [opérateurs ferroviaires](#catégories-de-trains-et-réservations) intégrés à National Rail. Des exceptions existent uniquement sur certaines lignes de [Lumo](#lumo).
 - Les réservations ne sont obligatoires que dans les trains de nuit.
 - La Réduction FIP 50 s’applique principalement aux billets Anytime et Off-Peak.
 - La London Overground et la Elizabeth Line font partie de National Rail et peuvent être utilisées avec FIP.
@@ -18,9 +18,8 @@ Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billet FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables auprès de toutes les compagnies listées, voir [Catégories de trains et réservations](#catégories-de-trains-et-réservations).
 
