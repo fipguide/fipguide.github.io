@@ -16,9 +16,8 @@ Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrer
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ⛔ \
-FIP Freifahrt Angehörige: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" disable_dialog=true >}}
 
 ## Schiffskategorien und Reservierungen
 
