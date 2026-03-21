@@ -70,8 +70,15 @@ menu > li > menu {
     &__button[aria-expanded="true"] + .o-dropdown__menu {
       justify-items: flex-end;
 
+      .o-dropdown__item {
+        a,
+        button {
+          border-radius: var(--border-radius-m);
+        }
+      }
+
       @media (min-width: #{$breakpoint-md}) {
-        padding: 1rem;
+        padding: 0.4rem;
         justify-items: flex-start;
         z-index: 14;
 
@@ -79,17 +86,9 @@ menu > li > menu {
         grid-auto-flow: row;
         grid-template-rows: auto;
         grid-template-columns: 1fr 1fr 1fr;
-        column-gap: 1rem;
 
         @media (max-width: #{$breakpoint-lg}) {
           grid-template-columns: 1fr 1fr;
-        }
-
-        .o-dropdown__item {
-          a,
-          button {
-            border-radius: var(--border-radius-m);
-          }
         }
       }
     }
