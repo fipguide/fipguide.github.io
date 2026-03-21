@@ -40,10 +40,10 @@
   border-radius: var(--border-radius-m);
   list-style: none;
   width: min-content;
-  margin-bottom: 0;
+  margin: 0;
   padding-left: 0;
   box-shadow: var(--box-shadow);
-  border: var(--border);
+  border: var(--border-visible);
 
   &--above {
     bottom: 100%;

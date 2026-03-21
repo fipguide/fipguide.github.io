@@ -1,0 +1,308 @@
+# This file shows the rules for FIP cards issued by SNCF.
+_anchors:
+  coupon-4fields: &coupon-4fields
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **1 coupon**
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
+      fr: |
+        **1 coupon**
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
+  coupon-2fields: &coupon-2fields
+    status: valid
+    text:
+      de: |
+        **2 Freifahrtscheine**
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **2 coupons**
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
+      fr: |
+        **2 coupons**
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
+  coupon-4fields-4: &coupon-4fields-4
+    status: valid
+    text:
+      de: |
+        **4 Freifahrtscheine**
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **4 coupons**
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
+      fr: |
+        **4 coupons**
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
+  coupon-6fields: &coupon-6fields
+    status: valid
+    text:
+      de: |
+        **6 Freifahrtscheine**
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **6 coupons**
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
+      fr: |
+        **6 coupons**
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
+  coupon-crossing: &coupon-crossing
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
+      en: |
+        **1 coupon**
+        <small>With 2 fields each per year. Each field is valid for one crossing.</small>
+      fr: |
+        **1 coupon**
+        <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
+db:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+sncb:
+  fip-coupon:
+    active: *coupon-4fields-4
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+ns:
+  fip-coupon:
+    active: *coupon-4fields-4
+    active-relatives: *coupon-4fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+cfl:
+  fip-coupon:
+    active: *coupon-6fields
+    active-relatives: *coupon-6fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+gb:
+  fip-coupon:
+    active: *coupon-2fields
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+stl:
+  fip-coupon:
+    active: *coupon-crossing
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+pkp:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+oebb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+gysev:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+cp:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+fs:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+bls:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+bdz:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zssk:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+sp:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+sbb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+renfe:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+kd:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+dsb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+cd:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+bsb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+ltg:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zfbh:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zrs:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+hz:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+ht:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+attica:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+mav:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+cie:
+  fip-coupon:
+    active: *coupon-2fields
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+nir:
+  fip-coupon:
+    active: *coupon-2fields
+    active-relatives: *coupon-2fields
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+sll:
+  fip-coupon:
+    active: *coupon-crossing
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zrms:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+zpcg:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+vy:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+ks:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+kw:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+lka:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+cfr:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+sv:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+sz:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available

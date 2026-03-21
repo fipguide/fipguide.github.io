@@ -14,8 +14,8 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
 
 ## Gültigkeit FIP Tickets
 
-FIP Freifahrtschein: ✅ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Zugkategorien und Reservierungen
 
