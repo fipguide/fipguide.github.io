@@ -31,6 +31,10 @@
 
     @include focus-indicator(0.2rem);
   }
+
+  select {
+    width: calc(50% + 2.8rem);
+  }
 }
 
 #success {

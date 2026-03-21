@@ -32,7 +32,48 @@
     <input type="email" id="email" name="email" autocomplete="email" required />
   </label>
 
-  <label for="message"
+  <label for="topic"
+    >Thema auswählen:
+    <select id="topic" name="topic" required>
+      <option value="">Bitte wählen…</option>
+      <option value="general">Allgemeine Frage</option>
+      <option value="request">Änderungsvorschlag</option>
+      <option value="feedback">Feedback</option>
+      <option value="accessibility">Barriere melden</option>
+      <option value="other">Sonstiges</option>
+    </select>
+  </label>
+
+  <div class="field-group" data-field="general" style="display:none;">
+    <p>
+      Bitte prüfe vor Absenden deiner Anfrage, ob die Antwort bereits im FIP
+      Guide vorhanden ist. Schaue auf der passenden Seite des
+      <a href="/de/country">Landes</a> oder
+      <a href="/de/operator">Betreibers</a>. Du kannst hierfür auch die Suche
+      nutzen.
+    </p>
+  </div>
+
+  <label for="page" data-field="accessibility" style="display:none;"
+    >Betroffene Seite (URL)
+    <input type="text" id="page" name="page" required />
+  </label>
+
+  <label for="accessibility" data-field="accessibility" style="display:none;"
+    >Beschreibe bitte, welcher Fehler aufgetreten ist:
+    <textarea
+      id="accessibility"
+      name="accessibility"
+      rows="4"
+      cols="50"
+      required
+    ></textarea>
+  </label>
+
+  <label
+    for="message"
+    data-field="general,request,feedback,other"
+    style="display:none;"
     >{{ T "contact.messageLabel" }}
     <textarea
       id="message"
@@ -46,6 +87,8 @@
   <input
     type="submit"
     class="a-button"
+    data-field="general,request,feedback,accessibility,other"
+    style="display:none;"
     value="{{ T "contact.submitButton" }}"
   />
 </form>
@@ -57,6 +100,23 @@
     if (urlParams.get("success") === "true") {
       document.getElementById("form").style.display = "none";
       document.getElementById("success").style.display = "block";
+    }
+  });
+
+  document.getElementById("topic").addEventListener("change", function () {
+    // Alle Gruppen verstecken
+    document
+      .querySelectorAll("[data-field]")
+      .forEach((field) => (field.style.display = "none"));
+
+    // Ausgewählte Gruppe anzeigen
+    const value = this.value;
+    if (value) {
+      document.querySelectorAll("[data-field]").forEach((el) => {
+        if (el.dataset.field.split(",").includes(value)) {
+          el.style.display = "flex";
+        }
+      });
     }
   });
 </script>
