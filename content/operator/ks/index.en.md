@@ -19,9 +19,8 @@ On its website, KŚ provides a [route map overview](https://www.kolejeslaskie.pl
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with KŚ.
 
