@@ -22,8 +22,6 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
-Der FIP Freifahrtschein für StL umfasst abweichend zum Standard maximal zwei Felder. [^1]
-
 ## Schiffskategorien und Reservierungen
 
 {{% train-category
@@ -184,8 +182,6 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 {{% /highlight %}}
 
 ## Quellen
-
-[^1]: DB Reisemarkt
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
 
