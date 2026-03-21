@@ -25,7 +25,7 @@ A credit card and email address are required for booking.
 ÖBB does not charge any additional fees for the booking process.
 
 {{% satellite %}}
-To contact ÖBB, first call the switchboard of ÖBB at [+43 (0) 1 930 000](tel:+431930000) and then ask to be put through to the telephone ticket booking service.
+Since Satellite [blocks](https://help.satellite.me/hc/en-us/articles/360000395345-Which-countries-can-I-call-with-satellite "Which countries can I call with satellite?") the +43517 number range, first call the ÖBB switchboard at [+43 (0) 1 930 000](tel:+431930000) and then ask to be transferred to the telephone ticket booking service.
 {{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
