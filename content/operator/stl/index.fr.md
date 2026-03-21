@@ -20,7 +20,7 @@ Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Le Coupon FIP pour StL comprend, contrairement à la norme, au maximum deux cases. [^1]
 

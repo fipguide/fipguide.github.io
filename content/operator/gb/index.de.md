@@ -10,18 +10,18 @@ In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele ve
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine gelten bei allen [Eisenbahnverkehrsunternehmen](#zugkategorien-und-reservierungen), die in National Rail integriert sind. Ausnahmen gibt es nur auf einigen Routen von [Lumo](#lumo).
+- FIP 50 / FIP 75 und FIP Freifahrtscheine gelten bei allen [Eisenbahnverkehrsunternehmen](#zugkategorien-und-reservierungen), die in National Rail integriert sind. Ausnahmen gibt es nur auf einigen Routen von [Lumo](#lumo).
 - Reservierungen sind nur in Nachtzügen erforderlich.
-- FIP 50 Rabatt ist größtenteils nur auf Anytime und Off-Peak Tickets anwendbar.
+- FIP 50 / FIP 75 Rabatt ist größtenteils nur auf Anytime und Off-Peak Tickets anwendbar.
 - Die London Overground und Elizabeth Line sind Teil von National Rail und können mit FIP genutzt werden.
 - Einige Museumsbahnen bieten FIP Vergünstigungen an.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen).
+FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen).
 
 ## Zugkategorien und Reservierungen
 
@@ -207,7 +207,7 @@ Im Night Riviera Sleeper besteht Reservierungspflicht.
   reservation_possible=false
 %}}
 
-Heathrow Express bietet eine schnelle Nonstop-Verbindung zwischen London Paddington und dem Flughafen Heathrow in nur etwa 15 Minuten. FIP Freifahrtscheine und FIP 50 (bzw. FIP 75) Tickets werden akzeptiert.
+Heathrow Express bietet eine schnelle Nonstop-Verbindung zwischen London Paddington und dem Flughafen Heathrow in nur etwa 15 Minuten. FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets werden akzeptiert.
 
 In Heathrow können Tickets mit FIP Rabatt direkt an den Ticketschranken beim Personal gekauft werden. [Return-Tickets](#ticket--und-reservierungskauf) mit FIP Rabatt können dabei günstiger sein als zwei Einzelfahrten mit der [Elizabeth Line](#elizabeth-line). Die Preise betragen 50% (bzw. 75%)der Single oder Return-Preise, die auf der [Website des Heathrow Express](https://www.heathrowexpress.com/ticket-fares) veröffentlicht werden. [^4]
 
@@ -419,16 +419,16 @@ West Midlands Trains betreibt Nah- und Regionalverkehr unter zwei Marken: London
 
 ## Ticket- und Reservierungskauf
 
-In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 Rabatt gewährt. Die [BR Fares Website](https://www.brfares.com/) ermöglicht es, nach Tarifen auf einer Strecke zu suchen, indem man "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigung hinzufügt.
+In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 / FIP 75 Rabatt gewährt. Die [BR Fares Website](https://www.brfares.com/) ermöglicht es, nach Tarifen auf einer Strecke zu suchen, indem man "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigung hinzufügt.
 
 - **Anytime Tickets:** \
-  Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preis ist konstant und nicht an Kontingente gebunden. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
+  Diese Tickets sind flexibel und können zu jeder Zeit des Tages genutzt werden. Der Preis ist konstant und nicht an Kontingente gebunden. FIP 50 / FIP 75 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind möglich.
 - **Off-Peak Tickets:** \
-  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu eingeschränkten Zeiten genutzt werden. Im Regelfall ist die morgendliche Hauptreisezeit ausgenommen, die genauen Einschränkungen können sich aber je nach Ticket unterscheiden und sind in den Ticketbedingungen angegeben. FIP 50 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
+  Diese Tickets sind günstiger als Anytime Tickets, können jedoch nur zu eingeschränkten Zeiten genutzt werden. Im Regelfall ist die morgendliche Hauptreisezeit ausgenommen, die genauen Einschränkungen können sich aber je nach Ticket unterscheiden und sind in den Ticketbedingungen angegeben. FIP 50 / FIP 75 Rabatt ist auf diese Tickets anwendbar. Es wird unterschieden zwischen Single (einfache Fahrt) und Return (Hin- und Rückfahrt). Ein Return Ticket ist dabei teilweise günstiger als zwei Single Tickets. Reiseunterbrechungen sind nicht möglich.
 - **Advance Tickets:** \
-  Diese Tickets sind stark rabattiert, jedoch nur für den ausgewählten Zug gültig. Die Tickets können bis 10 Minuten vor Abfahrt des Zuges erworben werden. FIP 50 Rabatt ist auf diese Tickets nicht anwendbar.
+  Diese Tickets sind stark rabattiert, jedoch nur für den ausgewählten Zug gültig. Die Tickets können bis 10 Minuten vor Abfahrt des Zuges erworben werden. FIP 50 / FIP 75 Rabatt ist auf diese Tickets nicht anwendbar.
 - **Rovers:** \
-  Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 Rabatt wird jedoch nur auf Nachfrage gewährt.
+  Rovers sind Tages- oder Mehrtagestickets, die für unbegrenzte Fahrten in einem bestimmten Gebiet gelten. FIP 50 / FIP 75 Rabatt ist auf einige Rovers anwendbar. Die [Website von National Rail](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) gibt einen Überblick über die verfügbaren Rovers. Ein FIP 50 / FIP 75 Rabatt wird jedoch nur auf Nachfrage gewährt.
 
   [BR Fares](https://www.brfares.com/!roverhome) bietet eine Seite an, auf der man den Rover-Namen eingeben und "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigungsoption auswählen kann. Wenn ein Ergebnis angezeigt wird, ist der Rover mit FIP gültig, andernfalls nicht.
 
@@ -471,12 +471,12 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 
 - **Saisonfahrkarten und London-Fahrkarten:** \
   Unbegrenzte Fahrt zwischen zwei Stationen für einen bestimmten Zeitraum oder innerhalb der
-  angegebenen Londoner Zonen für einen bestimmten Zeitraum. FIP 50 Rabatt ist nicht verfügbar.
+  angegebenen Londoner Zonen für einen bestimmten Zeitraum. FIP 50 / FIP 75 Rabatt ist nicht verfügbar.
 
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
 {{% highlight tip %}}
-Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^5]
+Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 / FIP 75 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^5]
 {{% /highlight %}}
 
 ### Online
@@ -497,10 +497,6 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 FIP-ermäßigte Fahrkarten werden nicht in Zügen ausgestellt, außer in bestimmten ländlichen
 Gebieten, in denen Fahrkarten allgemein nur in Zügen ausgestellt werden (_Pay-Trains_).
-
-## Ermäßigungen
-
-Aktive und pensionierte Mitarbeitende der SNCB/NMBS (Belgien), SNCF (Frankreich), Irish Rail ([CIE](/operator/cie)) und Northern Ireland Railways ([NIR](/operator/nir)) sowie deren Ehepartner und unterhaltsberechtigte Kinder erhalten unter Vorlage des FIP Ausweises eine Ermäßigung von 75% auf den Ticketpreis (statt der sonst üblichen 50% bei FIP 50 Tickets). [^1]
 
 ## Tarifliche Besonderheiten
 
@@ -535,7 +531,7 @@ Londoner Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line, S
 Die London Underground wird von TfL betrieben und akzeptiert keine FIP Vergünstigungen.
 
 {{< highlight important >}}
-Bei FIP 50 National Rail Tickets, die einen Umstieg zwischen Londoner Bahnhöfen erfordern, darf die London Underground ausschließlich für die Verbindung zwischen diesen Bahnhöfen genutzt werden. Die Unterbrechung der Fahrt in der London Underground ist hierbei nicht gestattet. Tickets, die in der London Underground für diesen Transfer verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet. [^1]
+Bei FIP 50 / FIP 75 National Rail Tickets, die einen Umstieg zwischen Londoner Bahnhöfen erfordern, darf die London Underground ausschließlich für die Verbindung zwischen diesen Bahnhöfen genutzt werden. Die Unterbrechung der Fahrt in der London Underground ist hierbei nicht gestattet. Tickets, die in der London Underground für diesen Transfer verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet. [^1]
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -658,7 +654,7 @@ Der Rabatt beträgt 50% auf den regulären Fahrpreis für Erwachsene.
 In Großbritannien gibt es zwei verschiedene, große Eisenbahnmuseen. Der Hauptstandort befindet sich neben dem Bahnhof York. Ein zweiter Standort befindet sich neben dem Bahnhof Shildon und wird Locomotion genannt. Beide Museen sind kostenlos und bieten einen guten Einblick in die Geschichte der Eisenbahn in Großbritannien. Weitere Informationen auf der Website des [Eisenbahnmuseums in York](https://railwaymuseum.org.uk) und [Locomotion in Shildon](https://locomotion.org.uk).
 
 {{% highlight tip %}}
-Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alkoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 Tickets der 1. Klasse zugänglich sind. Dort werden je nach Betreiber ebenfalls Snacks, Speisen sowie (alkoholische) Getränke serviert. Ein FIP Freifahrtschein der 1. Klasse lohnt sich daher in Großbritannien besonders.
+Fernverkehrszüge in Großbritannien bieten in der 1. Klasse oftmals einen besonders guten Service, welcher Snacks, Speisen sowie (alkoholische) Getränke umfassen kann. Hervorzuheben sind insbesondere die Betreiber Avanti auf der West-Coast-Mainline sowie LNER auf der East-Coast-Mainline. An größeren Bahnhöfen gibt es zudem oftmals Lounges, die auch mit FIP Freifahrtschein und FIP 50 / FIP 75 Tickets der 1. Klasse zugänglich sind. Dort werden je nach Betreiber ebenfalls Snacks, Speisen sowie (alkoholische) Getränke serviert. Ein FIP Freifahrtschein der 1. Klasse lohnt sich daher in Großbritannien besonders.
 {{% /highlight %}}
 
 Großbritannien kann auch mit Nachtzügen bereist werden:

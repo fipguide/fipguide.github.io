@@ -8,6 +8,7 @@ params:
     first: "kostenlos"
     second: "kostenlos"
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.nationalrail.co.uk/stations/"
   type: "onsite"

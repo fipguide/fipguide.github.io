@@ -24,14 +24,14 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`" disable_dialog=true >}}
 
-Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
+Les Coupons FIP et Billets FIP 50 / FIP 75 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 / FIP 75 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 
 ## Catégories de trains et réservations
 
-La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC` et certains trains régionaux (`TER`). FIP n’est pas valable dans les trains OUIGO. Pour les trains à réservation obligatoire, le prix du Billet FIP 50 inclut toujours la réservation.
+La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC` et certains trains régionaux (`TER`). FIP n’est pas valable dans les trains OUIGO. Pour les trains à réservation obligatoire, le prix du Billet FIP 50 / FIP 75 inclut toujours la réservation.
 
 ### Grandes lignes
 
@@ -103,7 +103,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | En France Peak     | 16 €       | 11 €      |
 | International      | 40 €       | 20 €      |
 
-Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 pour le trajet à l'intérieur de la France. Cependant, l'utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
+Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 / FIP 75 pour le trajet à l'intérieur de la France. Cependant, l'utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
 
 {{% /train-category %}}
 

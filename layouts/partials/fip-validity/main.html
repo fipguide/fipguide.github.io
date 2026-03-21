@@ -22,7 +22,9 @@
   >
     {{ partial "icon" $icon }}
     <span class="o-fip-validity__text">
-      {{ T $typeI18n -}}{{- with .text -}}
+      {{ T $typeI18n -}}{{- with .subtitle }}
+        ({{ . }})
+      {{- end -}}{{- with .text -}}
         :
         {{ . | $.page.RenderString }}
       {{ end }}

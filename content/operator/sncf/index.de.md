@@ -24,14 +24,14 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="Für internationale `TGV` Züge" disable_dialog=true >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehrsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
+FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehrsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 
 ## Zugkategorien und Reservierungen
 
-Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OUIGO-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 Ticketpreis immer eine Reservierung enthalten.
+Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OUIGO-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 / FIP 75 Ticketpreis immer eine Reservierung enthalten.
 
 ### Fernverkehr
 
@@ -221,7 +221,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
     classes.first="nil"
     classes.second="nil"
 %}}
-Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
+Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inlandszügen möglich ist, ist uns derzeit nicht bekannt.
 {{% /booking %}}
 
 ### Im Zug
@@ -276,7 +276,7 @@ Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reser
 | Innerhalb Frankreichs Peak     | 16 €      | 11 €      |
 | International                  | 40 €      | 20 €      |
 
-Für die Direktzüge zwischen Frankfurt (Main) und Bordeaux im Juli und August werden von der DB keine FIP 50 Tickets für die Fahrt innerhalb Frankreichs verkauft. Eine Nutzung mit FIP Freifahrtschein und Reservierung der SNCF ist jedoch möglich. [^5]
+Für die Direktzüge zwischen Frankfurt (Main) und Bordeaux im Juli und August werden von der DB keine FIP 50 / FIP 75 Tickets für die Fahrt innerhalb Frankreichs verkauft. Eine Nutzung mit FIP Freifahrtschein und Reservierung der SNCF ist jedoch möglich. [^5]
 
 {{% /train-category %}}
 
