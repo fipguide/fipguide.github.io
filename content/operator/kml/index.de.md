@@ -33,7 +33,7 @@ Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nic
 ## Ticket- und Reservierungskauf
 
 {{% highlight important %}}
-Da die KMŁ erst zum 01.04.2026 FIP-Mitglied wird sind die Buchungsmöglichkeiten derzeit noch sehr eingeschränkt und werden voraussichtlich erst nach und nach weiter ergänzt.
+Da die KMŁ erst seit dem 01.04.2026 FIP-Mitglied ist sind die Buchungsmöglichkeiten derzeit noch sehr eingeschränkt und werden voraussichtlich erst nach und nach weiter ergänzt.
 {{% /highlight %}}
 
 ### Vor Ort
