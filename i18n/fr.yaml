@@ -151,16 +151,6 @@ satellite:
     offre 100 minutes gratuites par mois pour les appels internationaux. Une
     résidence allemande est requise pour l'inscription et l'inscription peut
     prendre quelques jours.
-satelliteOebb:
-  content: >-
-    Pour éviter des frais supplémentaires lors d'appels à l'étranger, vous
-    pouvez utiliser l'application [Satellite](https://www.satellite.me/). Elle
-    offre 100 minutes gratuites par mois pour les appels internationaux. Une
-    résidence allemande est requise pour l'inscription et l'inscription peut
-    prendre quelques jours. Pour contacter l'ÖBB, appelez d'abord le centre
-    d'appel de l'ÖBB au [+43 (0) 1 930 000](tel:+431930000), puis demandez à
-    être mis en relation avec le service de réservation de billets par
-    téléphone.
 search:
   label: Rechercher dans tout le contenu de la page
   placeholder: Rechercher

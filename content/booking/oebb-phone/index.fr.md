@@ -23,7 +23,9 @@ aliases:
 
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
-{{% satellite-oebb %}}
+{{% satellite %}}
+Pour contacter l'ÖBB, appelez d'abord le centre d'appel de l'ÖBB au [+43 (0) 1 930 000](tel:+431930000), puis demandez à être mis en relation avec le service de réservation de billets par téléphone.
+{{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
 

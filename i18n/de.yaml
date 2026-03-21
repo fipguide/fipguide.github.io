@@ -156,16 +156,6 @@ satellite:
     kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
     wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
     in Anspruch nehmen.
-satelliteOebb:
-  content: >-
-    Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App
-    [Satellite](https://www.satellite.me/) verwendet werden. Darüber sind 100
-    kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
-    wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
-    in Anspruch nehmen. Zur Kontaktierung der ÖBB ist zunächst die
-    Telefonzentrale der ÖBB unter [+43 (0) 1 930 000](tel:+431930000) zu wählen
-    und anschließend nach einer Weiterleitung zur Telefonischen Buchung von
-    Fahrkarten zu bitten.
 search:
   label: Durchsuche alle Seiteninhalte
   placeholder: Suche

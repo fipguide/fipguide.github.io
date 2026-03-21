@@ -24,7 +24,9 @@ Die ÖBB bietet eine Buchungshotline für Tickets und Reservierungen an:
 Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
 Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
-{{% satellite-oebb %}}
+{{% satellite %}}
+Zur Kontaktierung der ÖBB ist zunächst die Telefonzentrale der ÖBB unter [+43 (0) 1 930 000](tel:+431930000) zu wählen und anschließend nach einer Weiterleitung zur Telefonischen Buchung von Fahrkarten zu bitten.
+{{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
 
