@@ -4,6 +4,7 @@ title: "Translink Ticket Office"
 description: "Booking information for the Translink Ticket Office."
 params:
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.translink.co.uk/using-translink/station-finder"
   type: "onsite"
