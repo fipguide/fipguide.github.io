@@ -84,6 +84,13 @@ menu > li > menu {
         @media (max-width: #{$breakpoint-lg}) {
           grid-template-columns: 1fr 1fr;
         }
+
+        .o-dropdown__item {
+          a,
+          button {
+            border-radius: var(--border-radius-m);
+          }
+        }
       }
     }
   }
