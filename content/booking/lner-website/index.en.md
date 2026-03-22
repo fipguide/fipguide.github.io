@@ -16,12 +16,12 @@ params:
 
 ## Reservations
 
-Reservations can only be made on the British version of LNER (www.lner.co.uk). When visiting the site, be sure to select the option "Stay on lner.co.uk" in the pop-up window.
+Reservations can only be made on the British version of the LNER website (www.lner.co.uk). When visiting the site, make sure to select the option "Stay on lner.co.uk" in the pop-up window.
 
 ![LNER Website stay on lner.co.uk](lner-website.webp)
 
-On the LNER website, free seat reservations can be made for LNER services. To do so, select _Reserve Spaces_ on the homepage and enter the travel details. After selecting a train, the website asks for a booking confirmation. Select _My booking is not listed_ and then _Other_. The form also requires a booking reference, but any value can be entered. We recommend specifying "FIP Coupon" under _additional details_.
+On the LNER website, free seat reservations can be made for LNER services. To do so, select _Reserve Spaces_ on the main homepage and enter your itinerary. After selecting a train, the website asks for a booking confirmation. Select _My booking is not listed_ and then _Other_. The form also requires a booking reference, but any value can be entered. We recommend entering "FIP Coupon" under _additional details_.
 
-After selecting _Reserve a seat_ and/or _Reserve a bike space_, the reservation is issued as an e-ticket that can be displayed in the app and added to the mobile wallet. A seat is automatically assigned but can be changed afterwards.
+After selecting _Reserve a seat_ and/or _Reserve a bike space_, the reservation is issued as an e-ticket that can be viewed in the app and added to a mobile wallet. A seat is automatically assigned but can be changed afterward.
 
 {{% /booking-section %}}
