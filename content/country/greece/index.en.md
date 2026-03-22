@@ -4,54 +4,58 @@ title: "Greece"
 country: "greece"
 params:
   operators_without_fip:
-    -  # List operators without FIP here
+    - STASY (Urban Rail Transport S.A.)
+    - THEMA S.A. – Thessaloniki Metro
 ---
-
-<!-- Remove the WIP snippet if the page is complete -->
-
-{{< wip >}}
 
 ## FIP Information
 
-<!--
-    A short summary text that should answer the following questions in this order:
-    - Which FIP Tickets (FIP 50/FIP Coupon tickets) are recognized in the country and by which railway operator?
-    - What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
-    - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
--->
+In Greece, FIP 50 Tickets and FIP Coupons are accepted by the state railway [Hellenic Train](/operator/ht). This applies to almost the entire network operated by Hellenic Train, including long-distance, regional and suburban services (Proastiakos).
 
-{{< identify-operator sources="" >}}
+FIP benefits can also be used on ships operated by [Attica](/operator/attica).
+
+FIP tickets are not accepted on urban transport in Athens (Αθήνα) and Thessaloniki (Θεσσαλονίκη).
+
+{{< identify-operator sources="ht-website,db-website" >}}
+With the exception of urban transport, Hellenic Train is the only operator of regular train services in Greece.
 {{< /identify-operator >}}
 
 ## Interesting
 
-<!--
-    A short section about the general train situation in the country. The following topics can be covered, for example:
-    - State of the railway network
-    - Important connections
-    - Quality and condition of the trains
-    - Punctuality
-    - Frequency
-    - Special trains/routes/lines
-    - Beautiful train stations
--->
+The Greek rail network has been undergoing gradual expansion and modernisation for years, with the Athens – Thessaloniki axis being the most important connection. This route is also electrified. Regional connections outside this main axis are often slower and less frequent.
+
+The quality of trains varies: while modern electric multiple units operate on the main lines, many regional trains are older. Punctuality is average by European standards and depends heavily on the specific route. Particularly scenic routes include the Pelion Railway and the line through the Tempi Valley between Larisa and Katerini. The stations in Thessaloniki and Athens are considered the country's most important transport hubs.
 
 ## Arrival and Border Points
 
-<!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
--->
-
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
 
-[>] = Towards (e.g., Patras [> Ancona] = Patras is the border point towards Ancona)
+| Country                                              | Border Points                   |
+| ---------------------------------------------------- | ------------------------------- |
+| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr)    |
+| North Macedonia (ŽRSM)                               | Gevgelija (fr)                  |
+| Turkey (TCDD)                                        | Pythio (Πύθιο)                  |
+| [Italy](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
+
+[>] = In the direction of (e.g. Patras [> Ancona] = Patras is the border point in the direction of Ancona)
 {{% /expander %}}
 
-### <Country Name>
+### Bulgaria
 
-<!--
-  Which routes can be used from the respective country?
-  What tips & recommendations are there for entry from the country
--->
+There are currently no train services between Bulgaria and Greece. Previously operated lines, such as Sofia – Thessaloniki, have been discontinued. Travelling between the two countries must therefore be done by long-distance bus or by air.
+
+### North Macedonia
+
+There is no scheduled passenger rail service between Greece and North Macedonia. The historic connection between Thessaloniki and Gevgelija/Skopje is currently not in operation. Border crossings cannot therefore be made by train; long-distance buses via the Balkan routes are an alternative.
+
+### Albania
+
+There is no rail connection between Albania and Greece.
+
+### Turkey
+
+There is currently no direct passenger rail service between Greece and Turkey. The former rail route via Pythio to Edirne/Istanbul is not served by international trains. FIP benefits are also not valid in Turkey. Travellers are therefore advised to use international buses or flights between the two countries.
+
+### Italy
+
+The ferry services operated by [Attica](/operator/attica) can be used between Italy and Greece.

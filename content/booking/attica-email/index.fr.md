@@ -1,15 +1,14 @@
 ---
 draft: false
-title: "E-mail Attica"
-description: "Informations de réservation pour la réservation par e-mail auprès Attica."
+title: "Attica E-Mail"
+description: "Informations de réservation pour la réservation par e-mail auprès d'Attica."
 params:
   fip_50: true
   reservations: false
   type: "email"
 ---
 
-Les billets FIP 50 peuvent être commandés par courriel.
-
-Pour ce faire, veuillez remplir le [formulaire de réservation FIP](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_90032_Attica.xls) et l'envoyer à l'adresse courriel suivante :
+Les Billets FIP 50 peuvent être commandés par e-mail.
+Pour cela, le [formulaire de réservation FIP](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_90032_Attica.xls) doit être rempli et envoyé à l'adresse e-mail suivante :
 
 helpdesk@attica-group.com

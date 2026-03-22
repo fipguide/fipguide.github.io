@@ -7,170 +7,117 @@ country:
 operator: "attica"
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-
-{{< wip >}}
-
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+The Attica Group is a major Greek ferry operator running several brands, including Superfast Ferries, Blue Star Ferries, Hellenic Seaways and Anek Lines. The company operates domestic and international shipping services between the Greek mainland, Italy and the Greek islands.
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- FIP 50 is accepted on international routes and domestic routes (except in July and August).
+- FIP benefits on all cabin and seat categories (except LUX cabins).
 
 ## Validity of FIP Tickets
 
-<!--
-  The ticket categories may vary depending on the operator.
--->
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" disable_dialog=true >}}
 
-FIP Coupon: <✅/⛔> \
-FIP Coupon for relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
-
-<!--
-  Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
-
-## Train Categories and Reservations
-
-<!--
-  For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
-  - `id`: Lowercase, hyphenated abbreviation of the train category (e.g., "ice", "tgv-inoui")
-  - `title`: Title of the train category
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` or `ship`
-  - `fip_accepted`: true, false, partially
-  - `reservation_required`: true, false, partially
-  - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)
-  - `route_overview_url`: Link to a page with an overview of the routes of this category (can be omitted if not available)
-  - `additional_information_url`: Link to a page with additional information about this category (can be omitted if not available)
--->
+## Ship Categories and Reservations
 
 {{% train-category
-    id="expander-id"
-    title="title"
-    type="highspeed"
+    id="international"
+    title="Italy – Greece (Superfast Ferries & Anek Line)"
+    type="ship"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=false
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    additional_information_url="https://www.superfast.com/de-de/hafen-und-destinationen"
 %}}
 
-<!--
-  A description of the train category can be added here.
--->
-
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
-{{% /highlight %}}
-
-{{% highlight important %}}
-Further important information can be added here.
-{{% /highlight %}}
-
-#### Reservation
-
-<!--
-  Description of the reservation conditions for this train category.
--->
+FIP beneficiaries receive a 50% discount on cabin or seat classes, regardless of entitlement class.[^2]
 
 #### Scheduled routes
 
-<!--
-  List of all routes of this train category in scheduled services.
+- Patras – Ancona / Bari / Venice
+- Igoumenitsa – Ancona / Bari / Venice
+- Corfu – Ancona / Bari / Venice (summer season only)
+- Venice – Patras / Igoumenitsa / Corfu (Venice – Corfu summer season only)
+- Ancona – Patras / Igoumenitsa / Corfu (Ancona – Corfu summer season only)
+- Bari – Patras / Igoumenitsa / Corfu (Bari – Corfu summer season only)
 
-  For partial FIP validity, the following subheadings can be used:
--->
+{{% /train-category %}}
 
-<!--
-##### Routes with FIP validity
+{{% train-category
+    id="national"
+    title="Greek Domestic Routes (Blue Star Ferries, Hellenic Seaways & Anek Line)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+    additional_information_url="https://www.bluestarferries.com/en-gb/destinations"
+%}}
 
-- Route 1
-- Route 2
+FIP beneficiaries receive a 50% discount on cabin or seat classes.
 
-##### Routes without FIP validity
+- FIP beneficiaries with 1st class entitlement may travel in Business Class or on aircraft-type seats. On the Piraeus – Heraklion and Piraeus – Chania routes, the discount also applies to a shared AB4 cabin (4 berths inside).
+- FIP beneficiaries with 2nd class entitlement may travel in Economy Class on deck. On the Piraeus – Heraklion and Piraeus – Chania routes, the discount also applies to aircraft-type seats.[^2]
 
-- Route 3
-- Route 4
--->
+The discount applies only to active staff and their family members, not to retirees and their family members.[^2]
+
+No FIP benefits are granted in July and August.[^2]
+
+#### Scheduled routes
+
+- Cyclades
+- Dodecanese
+- Saronic Islands
+- North Aegean Islands
+- Crete
 
 {{% /train-category %}}
 
 ## Class Categories
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
+Attica offers various travel classes:
 
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+- Economy and aircraft-type seats
+- Inside, outside and lux cabins
+
+LUX cabins are excluded from all FIP benefits.[^2]
 
 ## Ticket and Reservation Purchase
 
+Ferry tickets must be booked before departure; registration at the port office is mandatory.[^1]
+
+On international services, fuel surcharges, environmental surcharges, EU ETS fees and port fees apply.[^2]
+For domestic routes, port fees do not need to be paid separately as they are included in the fare.
+No discount is granted for the transport of vehicles.[^1]
+
 ### Online
 
-<!--
-  Embed the information of a defined booking platform here.
-
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
-
-  For more information how to define a booking platform, check the booking archetype.
--->
+{{% booking id="attica-email" /%}}
 
 ### Telephone
 
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
+{{% booking id="attica-phone" /%}}
 
 ### On-Site
 
-<!--
-  Embed additional booking platforms with booking on site here.
--->
+{{% booking id="attica-agents" /%}}
 
-### On the Train
-
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
+On the day of travel, bookings can be made on site subject to availability. Purchasing on board ships is not possible.[^1]
 
 ## Discounts
 
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+Children under 4 years who do not occupy a bed, berth or seat pay €5.50 per crossing.
+On services to and from Ancona and Venice, children between 4 and 16 years pay 50% of the adult fare. Passengers aged 16 and over pay the full adult fare.
+On services to and from Bari, children between 4 and 12 years pay 50% of the adult fare. Passengers aged 12 and over pay the full adult fare.[^1]
 
 ## Special Tariff Conditions
 
-### <Route or Name>
+### Upgrades
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
-
-## Recommendations
-
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+A seat upgrade to any cabin (except LUX) is possible with a 25% discount based on the price difference between the original and the requested arrangement. Upgrades are available subject to availability at port agencies of Blue Star Ferries/Hellenic Seaways/Superfast Ferries/Anek Lines or at the Purser's Office on board.[^2]
 
 ## Sources
 
-[^1]: [<Source Name 1>](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [<Source Name 2>](Link)
+[^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)

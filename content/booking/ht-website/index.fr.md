@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Hellenic Train Website"
+title: "Site Web Hellenic Train"
 description: "Informations de réservation pour le site web Hellenic Train."
 params:
   classes:
-    first: "0,00 €"
-    second: "0,00 €"
+    first: "gratuit"
+    second: "gratuit"
   fip_50: true
   fip_global_fare: false
   reservations: false
@@ -17,19 +17,54 @@ params:
 
 ## Billets FIP 50
 
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
+Les Billets FIP 50 peuvent être réservés sur le site web.
 
-{{% /booking-section %}}
+Hellenic Train propose également une [application](https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app) permettant de réserver des Billets FIP 50.
 
-{{% booking-section "fip_global_fare" %}}
+## Processus de réservation
 
-## Tarif Global FIP
+{{% float-image
+    src="step-1.webp"
+    alt="Sélection de la langue"
+    width="50%"
+    position="right"
+%}}
 
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
+**Étape 1**
+
+Changez la langue en anglais ou en italien si nécessaire.
+
+{{% /float-image %}}
+
+{{% float-image
+    src="step-2.webp"
+    alt="Sélection de la correspondance"
+    width="50%"
+    position="right"
+%}}
+
+**Étape 2**
+
+Sélectionnez une correspondance appropriée. Le prix du billet régulier est d'abord affiché.
+Les noms de gares doivent être saisis en anglais.
+
+{{% /float-image %}}
+
+{{% float-image
+    src="step-3.webp"
+    alt="Sélection FIP CARD"
+    width="50%"
+    position="right"
+%}}
+
+**Étape 3**
+
+À l'étape suivante, sélectionnez « FIP CARD » dans le champ « Offer » et saisissez le numéro de la Carte FIP.
+Le prix du billet régulier est alors réduit de 50 %.
+
+Pour les services nécessitant une réservation, une réservation est ajoutée gratuitement. Le siège peut optionnellement être choisi en sélectionnant l'option « Choose seat ».
+
+{{% /float-image %}}
 
 {{% /booking-section %}}
 
@@ -37,8 +72,7 @@ params:
 
 ## Réservations
 
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
+Pour les trains IC, les réservations peuvent être achetées en combinaison avec un Billet FIP 50.
+Les réservations pour les Coupons FIP ne sont pas disponibles en ligne.
 
 {{% /booking-section %}}

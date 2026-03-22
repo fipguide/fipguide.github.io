@@ -8,8 +8,7 @@ params:
   type: "email"
 ---
 
-FIP 50 tickets can be ordered via email.
-
-To do so, please fill out the [FIP reservation form](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_90032_Attica.xls) and send it to the following email address:
+FIP 50 Tickets can be ordered by email.
+To do so, the [FIP reservation form](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_90032_Attica.xls) must be completed and sent to the following email address:
 
 helpdesk@attica-group.com

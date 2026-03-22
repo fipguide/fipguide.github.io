@@ -8,10 +8,9 @@ params:
   type: "onsite"
 ---
 
-Attica dispose d'un réseau mondial de bureaux et d'agents de vente Premium proposant des billets FIP 50 :
+Attica dispose d'un réseau mondial de bureaux propres et de Premium Sales Agents qui vendent des Billets FIP 50 :
 
-- [Liste des adresses pour les liaisons internationales](https://www.superfast.com/fr-fr/agents-de-vente-premium)
+- [Liste d'adresses pour les routes internationales](https://www.superfast.com/de-de/premium-sales-agents)
+- [Liste d'adresses pour les routes intérieures grecques](https://www.bluestarferries.com/en-gb/network)
 
-- [Liste des adresses pour les liaisons intérieures grecques](https://www.bluestarferries.com/en-gb/network)
-
-Les billets FIP 50 peuvent également être achetés dans les bureaux portuaires et aux guichets.
+Les Billets FIP 50 peuvent également être achetés aux bureaux et guichets portuaires.

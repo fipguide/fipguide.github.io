@@ -40,16 +40,15 @@
           </button>
           <menu
             id="navbar-country-selection-dropdown"
-            class="o-header__item-countries o-dropdown__menu o-dropdown__menu--below"
+            class="o-dropdown__menu o-dropdown__menu--below"
             role="listbox"
             aria-hidden="true"
             aria-label="{{ T "menu.country-dropdown.dropdown-label" }}"
           >
             {{ range  where site.RegularPages "Section" "country" }}
               <li
-                class="o-header__item{{ if (.Eq $currentPage) }}
-                  o-header__item--current
-                {{ end }}"
+                class="o-dropdown__item"
+                {{ if (.Eq $currentPage) }}aria-selected="true"{{ end }}
               >
                 {{- partial "link"
                   (dict
@@ -79,16 +78,15 @@
           </button>
           <menu
             id="navbar-operator-selection-dropdown"
-            class="o-header__item-operators o-dropdown__menu o-dropdown__menu--below"
+            class="o-dropdown__menu o-dropdown__menu--below"
             role="listbox"
             aria-hidden="true"
             aria-label="{{ T "menu.operator-dropdown.dropdown-label" }}"
           >
             {{ range  where site.RegularPages "Section" "operator" }}
               <li
-                class="o-header__item{{ if (.Eq $currentPage) }}
-                  o-header__item--current
-                {{ end }}"
+                class="o-dropdown__item"
+                {{ if (.Eq $currentPage) }}aria-selected="true"{{ end }}
               >
                 {{- partial "link"
                   (dict

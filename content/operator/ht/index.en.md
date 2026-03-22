@@ -6,170 +6,148 @@ country:
 operator: "ht"
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-
-{{< wip >}}
-
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) operates all state passenger services on the Greek standard-gauge network. The company runs long-distance, regional and suburban services ("Proastiakos"). Since 2017, it has been a wholly owned subsidiary of the Italian state railway Ferrovie dello Stato Italiane (FS).
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- FIP Coupons and FIP 50 Tickets are accepted.
+- Reservation is mandatory on long-distance trains.
 
 ## Validity of FIP Tickets
 
-<!--
-  The ticket categories may vary depending on the operator.
--->
-
-FIP Coupon: <✅/⛔> \
-FIP Coupon for relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
-
-<!--
-  Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Train Categories and Reservations
 
-<!--
-  For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
-  - `id`: Lowercase, hyphenated abbreviation of the train category (e.g., "ice", "tgv-inoui")
-  - `title`: Title of the train category
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` or `ship`
-  - `fip_accepted`: true, false, partially
-  - `reservation_required`: true, false, partially
-  - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)
-  - `route_overview_url`: Link to a page with an overview of the routes of this category (can be omitted if not available)
-  - `additional_information_url`: Link to a page with additional information about this category (can be omitted if not available)
--->
-
 {{% train-category
-    id="expander-id"
-    title="title"
+    id="intercity"
+    title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
     reservation_required=true
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
 %}}
 
-<!--
-  A description of the train category can be added here.
--->
-
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
-{{% /highlight %}}
-
-{{% highlight important %}}
-Further important information can be added here.
-{{% /highlight %}}
+These trains connect Athens (Αθήνα) and Thessaloniki (Θεσσαλονίκη) as well as Larisa (Λάρισα) and other major cities. The route is electrified and offers the fastest travel times in the country. FIP is fully accepted, but a free seat reservation is mandatory.
 
 #### Reservation
 
-<!--
-  Description of the reservation conditions for this train category.
--->
+Reservations must be obtained in advance. They can be purchased online or on site.
 
-#### Scheduled routes
+{{% highlight tip %}}
+IC trains are frequently sold out a few days in advance. It is advisable to arrange a reservation in good time.
 
-<!--
-  List of all routes of this train category in scheduled services.
+Tip for travellers with an FIP Coupon:
+Since individual reservations are not available online, first book an FIP 50 Ticket. This can be cancelled free of charge. On site, you can check whether reservations are still available. If so, cancel the FIP 50 Ticket; otherwise, travel with the FIP 50 Ticket.
+{{% /highlight %}}
 
-  For partial FIP validity, the following subheadings can be used:
--->
+{{% /train-category %}}
 
-<!--
-##### Routes with FIP validity
+{{% train-category
+    id="regional"
+    title="Regional Train (REG)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
 
-- Route 1
-- Route 2
+Regional trains connect cities and regions outside the main axis.
 
-##### Routes without FIP validity
+Some trains are referred to as Proastiakos or Suburban Railway, which is comparable to an S-Bahn. In the journey planner, these services also appear as regional trains `REG`.
 
-- Route 3
-- Route 4
--->
+{{% highlight confusion %}}
+Tourist services such as the Pelion Train are also shown as `REG` in the journey planner, but FIP is not valid on these.
+{{% /highlight %}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+    reservation_required=true
+%}}
+
+Buses operated by Hellenic Train accept FIP benefits.[^1]
+
+{{% /train-category %}}
+
+{{% train-category
+    id="tourist"
+    title="Tourist and historic trains"
+    type="regional"
+    fip_accepted=false
+%}}
+
+Hellenic Train operates three tourist or historic train services on which FIP is not accepted.[^1]
+
+- Pelion Train from Ano Lechonia (Άνω Λεχώνια) to Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
+- Rack railway "Odontotos" from Diakopto (Διακοπτό) to Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
+- Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
+
+{{< highlight info >}}
+According to experience reports, the rack railway between Diakopto and Kalavryta can be used with an FIP Coupon and a free reservation obtainable on site. We are currently unable to verify usability with FIP 50, as services have been temporarily suspended.[^3]
+{{< /highlight >}}
 
 {{% /train-category %}}
 
 ## Class Categories
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
-
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+- **Class B**: Usable with an FIP Card or FIP Coupon for 2nd class. Most Hellenic Train services only have Class B.
+- **Class A**: Usable with an FIP Card or FIP Coupon for 1st class. This class exists on some IC trains. Complimentary refreshments, coffee, water and snacks are offered.[^4]
 
 ## Ticket and Reservation Purchase
 
 ### Online
 
-<!--
-  Embed the information of a defined booking platform here.
-
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
-
-  For more information how to define a booking platform, check the booking archetype.
--->
-
-### Telephone
-
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
+{{% booking id="ht-website"
+    fip_global_fare=nil
+    fip_50=true
+/%}}
 
 ### On-Site
 
-<!--
-  Embed additional booking platforms with booking on site here.
--->
+{{% booking id="ht-ticket-office"
+    fip_global_fare=nil
+    fip_50=true
+/%}}
 
 ### On the Train
 
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
+Reservations are not available on the train.
+If you start your journey at a station where the ticket office is unstaffed, tickets can be purchased on the train.[^2]
 
 ## Discounts
 
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+At public fares, children up to 4 years travel free of charge, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies.[^1]
 
 ## Special Tariff Conditions
 
-### <Route or Name>
+### Break of journey
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
+A break of journey is not permitted.[^1]
 
-## Recommendations
+### Rebookings and cancellations of FIP 50 Tickets
 
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+Before the start of travel, tickets can be cancelled up to 10 minutes before the scheduled departure.[^5]
+
+- For cancellations up to 48 hours before the scheduled departure time from the departure station, 100% of the face value of the original ticket is refunded.
+- For cancellations between 48 and 2 hours before the scheduled departure time from the departure station, 80% of the face value of the original ticket is refunded.
+- For cancellations less than 2 hours before the scheduled departure time from the departure station and up to the closing of the issuing system, 50% of the face value of the original ticket is refunded.
+
+To cancel a ticket purchased at the ticket office, the ticket must be presented. The ticket price is refunded via the originally chosen payment method.
+A ticket purchased online can be cancelled at the ticket office or via the [telephone hotline](https://www.hellenictrain.gr/en/contact-us) by providing the ticket number. The ticket price is refunded via the chosen payment method. Registered users can cancel the ticket themselves via the ticket management in the "My Trips" menu.
 
 ## Sources
 
-[^1]: [<Source Name 1>](Link)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [<Source Name 2>](Link)
+[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
+
+[^3]: [LOK Report](https://www.lok-report.de/news/europa/item/65837-griechenland-betrieb-der-zahnradbahn-diakopto-kalvrita-vorlaeufig-eingestellt.html)
+
+[^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
+
+[^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)

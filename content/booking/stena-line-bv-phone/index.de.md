@@ -34,4 +34,4 @@ Für Übernachtungsfahrten ist die Kabinenreservierung obligatorisch.
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}

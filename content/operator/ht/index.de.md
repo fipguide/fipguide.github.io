@@ -11,7 +11,7 @@ Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) bet
 ## Zusammenfassung
 
 - FIP‑Freifahrtscheine und FIP 50 Tickets werden akzeptiert.
-- Es besteht Reservierungspflicht auf Fernverkehrszügen.
+- Es besteht Reservierungspflicht in Fernverkehrszügen.
 
 ## Gültigkeit FIP Tickets
 

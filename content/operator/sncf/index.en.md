@@ -17,7 +17,7 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 
 - Reservations are always required for long-distance trains (`TGV` inOui and Intercités).
 - FIP discounts are not valid on OUIGO trains.
-- Some suburban trains and tram lines in Paris can be used under special conditions.
+- Some suburban trains in Paris can be used under special conditions.
 - Global fares apply for international long-distance trains.
 - FIP discounts also apply on SNCF buses (except long-distance buses).
 
@@ -210,7 +210,7 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="transilien-ticket-office" subtitle="For tram lines and trains in Greater Paris" /%}}
+{{% booking id="transilien-ticket-office" subtitle="For trains in Greater Paris" /%}}
 
 {{% booking id="ns-ticket-office"
     classes.first="€ 2 / € 16"
@@ -323,7 +323,7 @@ International `TGV` Lyria services from France to Switzerland are reservation-re
 
 Île-de-France Mobilités (ÎDF Mobilités) coordinates various transport operators in Greater Paris, including RATP and SNCF.
 
-RATP operates the Paris Métro, bus lines, and part of the tram and RER networks. SNCF operates the rest of the RER network and some tram lines. FIP discounts do not apply on RATP services.
+RATP operates the Paris Métro, bus lines, and part of the RER network. SNCF operates the rest of the RER network. FIP discounts do not apply on RATP services.
 
 {{% train-category
   id="rer-paris"
@@ -364,7 +364,7 @@ Access to some stations is restricted by ticket barriers. When using FIP Coupons
   fip_accepted=false
   reservation_possible=nil
 %}}
-FIP is no longer accepted on trams in the Paris area since 1st January 2026.[^3]
+FIP discounts do not apply on trams in Greater Paris.[^3]
 {{% /train-category %}}
 
 #### Ticket barriers
@@ -375,7 +375,7 @@ FIP is no longer accepted on trams in the Paris area since 1st January 2026.[^3]
   width="60%"
   position="right"
 %}}
-Discounted FIP tickets for `RER`, Transilien trains, and trams can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
+Discounted FIP tickets for `RER` and Transilien trains can be purchased at Transilien ticket counters. When using these services with an SNCF FIP Coupon, a free _Contremarque de Passage_ (temporary access card) must be collected at the Transilien ticket counter for each journey. Usually, only a few are issued at a time.
 {{% /float-image %}}
 
 {{% highlight important %}}

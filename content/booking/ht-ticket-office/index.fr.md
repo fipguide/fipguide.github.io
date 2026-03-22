@@ -1,12 +1,12 @@
 ---
 draft: false
 title: "Guichet Hellenic Train"
-description: "Informations de réservation aux guichets de la Hellenic Train."
+description: "Informations de réservation pour les guichets Hellenic Train."
 
 params:
   classes:
-    first: "0,00 €"
-    second: "0,00 €"
+    first: "gratuit"
+    second: "gratuit"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.hellenictrain.gr/en/sale-points"
@@ -17,19 +17,7 @@ params:
 
 ## Billets FIP 50
 
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## Tarif Global FIP
-
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
+Les Billets FIP 50 peuvent être achetés en gare.
 
 {{% /booking-section %}}
 
@@ -37,8 +25,6 @@ params:
 
 ## Réservations
 
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
+Des réservations gratuites pour les trains IC sont disponibles en gare.
 
 {{% /booking-section %}}

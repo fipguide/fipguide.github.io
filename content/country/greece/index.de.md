@@ -22,18 +22,19 @@ Mit Ausnahme der städtischen Verkehre ist Hellenic Train der einzige Betreiber 
 
 ## Wissenswertes
 
-Das griechische Bahnnetz befindet sich seit Jahren in einer Phase des schrittweisen Aus- und Umbaus, wobei insbesondere die Achse Athen – Thessaloniki als wichtigste Verbindung gilt. Diese Strecke ist weitgehend modernisiert und elektrifiziert. Regionalverbindungen außerhalb dieser Hauptachse sind dagegen oft langsamer und weniger frequentiert.
+Das griechische Bahnnetz befindet sich seit Jahren in einer Phase des schrittweisen Aus- und Umbaus, wobei insbesondere die Achse Athen – Thessaloniki als wichtigste Verbindung gilt. Diese Strecke ist auch elektrifiziert. Regionalverbindungen außerhalb dieser Hauptachse sind dagegen oft langsamer und weniger frequentiert.
 
 Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf den Hauptlinien verkehren, sind viele Regionalzüge älteren Baujahrs. Die Pünktlichkeit ist im europäischen Vergleich eher durchschnittlich und hängt stark von der jeweiligen Strecke ab. Besonders reizvoll sind landschaftlich beeindruckende Strecken wie die Pelion-Bahn oder die Verbindung durch das Tempi-Tal zwischen Larisa und Katerini. Die Bahnhöfe von Thessaloniki und Athen gelten als die wichtigsten Verkehrsknoten des Landes.
 
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr) |
-| Nordmazedonien (ŽRSM) | Gevgelija (fr) |
-| Türkei (TCDD) | Pythio (Πύθιο) |
+
+| Land                                                   | Grenzpunkte                     |
+| ------------------------------------------------------ | ------------------------------- |
+| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
+| Nordmazedonien (ŽRSM)                                  | Gevgelija (fr)                  |
+| Türkei (TCDD)                                          | Pythio (Πύθιο)                  |
 | [Italien](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
 
 [>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung Ancona)

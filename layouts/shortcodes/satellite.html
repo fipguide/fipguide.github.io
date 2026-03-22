@@ -1,6 +1,11 @@
+{{ $content := T "satellite.content" }}
+{{ with .Inner }}
+  {{ $content = printf "%s\n\n%s" $content . }}
+{{ end }}
+
 {{ partial "highlight"
   (dict
   "Type" "tip"
-  "Content" (T "satellite.content" | .Page.RenderString)
+  "Content" ($content | .Page.RenderString)
   )
 }}

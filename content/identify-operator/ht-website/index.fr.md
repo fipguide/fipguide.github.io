@@ -4,4 +4,4 @@ params:
   url: "https://newtickets.hellenictrain.gr/"
 ---
 
-Toutes les liaisons opérées par Hellenic Train sont incluses dans le planificateur de voyage.
+Toutes les liaisons par train et bus exploitées par Hellenic Train sont incluses dans le planificateur de voyage.

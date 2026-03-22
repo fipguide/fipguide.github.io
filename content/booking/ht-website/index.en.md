@@ -4,8 +4,8 @@ title: "Hellenic Train Website"
 description: "Booking information for the Hellenic Train website."
 params:
   classes:
-    first: "0,00 €"
-    second: "0,00 €"
+    first: "free"
+    second: "free"
   fip_50: true
   fip_global_fare: false
   reservations: false
@@ -17,19 +17,54 @@ params:
 
 ## FIP 50 Tickets
 
-<!--
-    Explain the steps for booking FIP 50 Tickets with this booking platform.
--->
+FIP 50 Tickets can be booked on the website.
 
-{{% /booking-section %}}
+Hellenic Train also offers an [app](https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app) through which FIP 50 Tickets can be booked.
 
-{{% booking-section "fip_global_fare" %}}
+## Booking process
 
-## FIP Global Fare
+{{% float-image
+    src="step-1.webp"
+    alt="Language selection"
+    width="50%"
+    position="right"
+%}}
 
-<!--
-    Explain the steps for booking FIP Global Fares with this booking platform.
--->
+**Step 1**
+
+Change the language to English or Italian if needed.
+
+{{% /float-image %}}
+
+{{% float-image
+    src="step-2.webp"
+    alt="Connection selection"
+    width="50%"
+    position="right"
+%}}
+
+**Step 2**
+
+Select a suitable connection. The regular ticket price is shown initially.
+Station names must be entered in the English spelling.
+
+{{% /float-image %}}
+
+{{% float-image
+    src="step-3.webp"
+    alt="FIP CARD selection"
+    width="50%"
+    position="right"
+%}}
+
+**Step 3**
+
+In the next step, select "FIP CARD" in the "Offer" field and enter the FIP Card number.
+The regular ticket price is then reduced by 50%.
+
+For services requiring a reservation, a reservation is added free of charge. Optionally, a seat can be selected by choosing the "Choose seat" option.
+
+{{% /float-image %}}
 
 {{% /booking-section %}}
 
@@ -37,8 +72,7 @@ params:
 
 ## Reservations
 
-<!--
-    Explain the steps for booking reservations with this booking platform.
--->
+For IC trains, reservations can be purchased in combination with an FIP 50 Ticket.
+Reservations for FIP Coupons are not available online.
 
 {{% /booking-section %}}

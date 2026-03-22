@@ -20,4 +20,4 @@ aliases:
 
 Die Buchung ist auf Deutsch, Englisch, Französisch und Niederländisch möglich. Ein Buchstabieralphabet kann bei der Angabe von Namen und Adressen helfen. Die Bezahlung ist nur per Kreditkarte möglich. Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
 
-{{% satellite %}}
+{{% satellite /%}}
