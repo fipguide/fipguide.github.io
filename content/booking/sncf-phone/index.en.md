@@ -65,6 +65,6 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

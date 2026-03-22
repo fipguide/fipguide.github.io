@@ -18,7 +18,7 @@ A credit card is required for booking. Payment is made via a link sent by email.
 
 The hotline is available daily from 7 a.m. to 11 p.m.
 
-{{% satellite %}}
+{{% satellite /%}}
 
 {{% booking-section "fip_50" %}}
 

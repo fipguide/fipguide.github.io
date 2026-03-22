@@ -18,9 +18,8 @@ Sur le site Web de KW, toutes les [lignes actuellement desservies en service ré
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ⛔ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez KW.
 

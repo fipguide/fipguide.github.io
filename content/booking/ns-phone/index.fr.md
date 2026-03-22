@@ -18,7 +18,7 @@ Pour la réservation, une carte de crédit est requise, le paiement se fait par 
 
 La hotline est joignable tous les jours de 7h à 23h.
 
-{{% satellite %}}
+{{% satellite /%}}
 
 {{% booking-section "fip_50" %}}
 
