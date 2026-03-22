@@ -12,4 +12,4 @@ Attica propose une ligne de réservation téléphonique permettant d'acheter des
 
 [+30 (0) 2108919 800](tel:+302108919800)
 
-{{% satellite %}}
+{{% satellite /%}}

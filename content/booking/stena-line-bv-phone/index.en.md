@@ -34,4 +34,4 @@ For overnight journeys, cabin reservation is mandatory.
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}
