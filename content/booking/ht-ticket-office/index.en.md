@@ -5,8 +5,8 @@ description: "Booking information for Hellenic Train ticket offices."
 
 params:
   classes:
-    first: "€0.00"
-    second: "€0.00"
+    first: "free"
+    second: "free"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.hellenictrain.gr/en/sale-points"

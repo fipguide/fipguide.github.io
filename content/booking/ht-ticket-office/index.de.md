@@ -5,8 +5,8 @@ description: "Buchungsinformationen für die Hellenic Train Ticketschalter."
 
 params:
   classes:
-    first: "0,00 €"
-    second: "0,00 €"
+    first: "kostenlos"
+    second: "kostenlos"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.hellenictrain.gr/en/sale-points"

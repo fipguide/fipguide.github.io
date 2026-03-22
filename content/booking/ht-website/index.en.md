@@ -4,8 +4,8 @@ title: "Hellenic Train Website"
 description: "Booking information for the Hellenic Train website."
 params:
   classes:
-    first: "€0.00"
-    second: "€0.00"
+    first: "free"
+    second: "free"
   fip_50: true
   fip_global_fare: false
   reservations: false
