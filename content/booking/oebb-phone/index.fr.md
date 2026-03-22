@@ -23,7 +23,7 @@ aliases:
 
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
-{{% satellite /%}}
+{{% satellite %}}
 Comme Satellite [bloque](https://help.satellite.me/hc/fr/articles/360000395345-Dans-quels-pays-puis-je-appeler-avec-satellite "Dans quels pays puis-je appeler avec satellite ?") la plage de numéros +43517, appelez d’abord le centre d’appel de l’ÖBB au [+43 (0) 1 930 000](tel:+431930000), puis demandez à être mis en relation avec le service de réservation de billets par téléphone.
 {{% /satellite %}}
 
