@@ -65,6 +65,6 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

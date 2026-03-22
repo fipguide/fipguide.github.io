@@ -14,8 +14,8 @@ Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d'Irlande
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de trains et réservations
 

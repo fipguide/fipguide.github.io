@@ -23,4 +23,4 @@ Les billets FIP 50 peuvent être réservés.
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}

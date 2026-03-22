@@ -18,7 +18,7 @@ Für die Buchung ist eine Kreditkarte erforderlich, die Bezahlung erfolgt per Li
 
 Die Hotline ist täglich von 7 Uhr bis 23 Uhr erreichbar.
 
-{{% satellite %}}
+{{% satellite /%}}
 
 {{% booking-section "fip_50" %}}
 

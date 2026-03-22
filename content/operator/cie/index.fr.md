@@ -18,8 +18,8 @@ Sur son site web, Irish Rail propose une [carte d'ensemble des lignes](https://w
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de trains et réservations
 
