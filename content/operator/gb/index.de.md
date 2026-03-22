@@ -38,7 +38,7 @@ In Großbritannien gibt es keine klassischen Zugkategorien. Stattdessen wird in 
 
 Avanti West Coast bietet schnelle Fernverbindungen entlang der Westküste Großbritanniens, unter anderem zwischen London, Manchester und Glasgow.
 
-In der ersten Klasse werden Snacks, Essen und (alkoholische) Getränke serviert.
+In der ersten Klasse werden Snacks, Essen und (alkoholische) Getränke serviert. [Mehr Informationen zum Angebot gibt es hier.](https://www.avantiwestcoast.co.uk/travel-information/onboard/food-and-drinks/first-class-service). Auf kürzeren Strecken gibt es ggf. nur einen eingeschränkten Service – Getränke sind erhältlich, die vollständige Speisekarte aus Zeitgründen jedoch möglicherweise nicht.
 
 {{% /train-category %}}
 
@@ -90,7 +90,7 @@ Chiltern Railways bietet regionale Verbindungen zwischen London Marylebone, Birm
 
 CrossCountry bietet Fernverbindungen zwischen Nordost-, Mittel- und Südwestengland sowie Schottland und Wales. Die Züge verbinden unter anderem Städte wie Aberdeen, Birmingham, Bristol, Cardiff, Manchester und Penzance und bedienen zahlreiche Regionen abseits der klassischen Hauptlinien.
 
-In der ersten Klasse werden teilweise Snacks, Essen und (alkoholische) Getränke serviert.
+In der ersten Klasse werden teilweise Snacks, Essen und (alkoholische) Getränke serviert. [Mehr Informationen zum Angebot gibt es hier.](https://www.crosscountrytrains.co.uk/travel-information/on-board/first-class-food-and-drink)
 
 {{% /train-category %}}
 
@@ -146,7 +146,7 @@ Gatwick Express ist eine schnelle Direktverbindung zwischen London Victoria und 
 
 Grand Central bietet Direktverbindungen zwischen London King’s Cross, Yorkshire und dem Nordosten Englands, darunter Städte wie Sunderland, Bradford und York.
 
-In der ersten Klasse werden Snacks und Getränke serviert.
+In der ersten Klasse werden Snacks und Getränke serviert. [Mehr Informationen zum Angebot gibt es hier.](https://www.grandcentralrail.com/tickets/ticket-types/first-class-and-business-travel)
 
 {{% /train-category %}}
 
@@ -187,7 +187,7 @@ Auf der Hauptlinie zwischen Norwich und London können in der ersten Klasse an W
 
 Great Western Railway verbindet London Paddington mit dem Südwesten Englands, South Wales und Bristol im Fern- und Regionalverkehr.
 
-In der ersten Klasse werden Snacks und Getränke serviert.
+In der ersten Klasse werden Snacks und Getränke serviert. [Mehr Informationen zum Angebot gibt es hier.](https://www.gwr.com/travelling-with-us/first-class/food-and-drink)
 
 GWR betreibt auch einen Nachtzug von London nach Penzance – den reservierungspflichtigen Night Riviera Sleeper. FIP Freifahrtscheine müssen nur für den Tag der Ankunft gültig sein.[^1]
 
@@ -237,7 +237,7 @@ Hull Trains bietet Direktverbindungen zwischen London King’s Cross und wichtig
 
 LNER betreibt Fernzüge entlang der Ostküste von London nach Edinburgh und York.
 
-In der ersten Klasse werden Snacks, Essen und (alkoholische) Getränke serviert.
+In der ersten Klasse werden Snacks, Essen und (alkoholische) Getränke serviert. [Mehr Informationen zum Angebot gibt es hier.](https://www.lner.co.uk/first-class-travel/menu/)
 
 {{% /train-category %}}
 
@@ -389,7 +389,7 @@ Thameslink bietet durchgehende Nord-Süd-Verbindungen durch London und verbindet
 
 TransPennine Express verbindet Nordwest- und Nordostengland sowie Schottland über die Pennines.
 
-In der ersten Klasse werden teilweise Snacks, Essen und (alkoholische) Getränke serviert.
+In der ersten Klasse werden teilweise Snacks, Essen und (alkoholische) Getränke serviert. [Mehr Informationen zum Angebot gibt es hier.](https://www.tpexpress.co.uk/travelling-with-us/first-class)
 
 {{% /train-category %}}
 
