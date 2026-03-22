@@ -18,7 +18,7 @@ La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires 
 Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
-- [Koleje Małopolskie (KMŁ)]()
+- [Koleje Małopolskie (KMŁ)](/operator/kml)
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)

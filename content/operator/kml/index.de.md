@@ -26,7 +26,7 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 
 ## Zugkategorien und Reservierungen
 
-Die KMŁ unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KMŁ" und im Anschluss eine konkrete Zugnummer, Liniennummern sind zwar vorhanden, werden aber in der Verbindungsauskunft meist nicht angezeigt. Es werden nur Tickets der 2. Klasse angeboten, da es in KMŁ-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
+Die KMŁ unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KMŁ" und im Anschluss eine konkrete Zugnummer. Liniennummern sind zwar vorhanden, werden aber in der Verbindungsauskunft meist nicht angezeigt. Es werden nur Tickets der 2. Klasse angeboten, da es in KMŁ-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
 Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nicht bekannt. Im Schienenersatzverkehr sollten sie aber wie bei anderen Betreibern auch akzeptiert werden.
 

@@ -18,7 +18,7 @@ Poland is the country with the most different railway companies that offer FIP. 
 The following regionally operating railway companies offer FIP separately:
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
-- [Koleje Małopolskie (KMŁ)]()
+- [Koleje Małopolskie (KMŁ)](/operator/kml)
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
