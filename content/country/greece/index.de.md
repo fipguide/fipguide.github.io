@@ -29,6 +29,7 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
+
 | Land | Grenzpunkte |
 | --- | --- |
 | [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr) |
