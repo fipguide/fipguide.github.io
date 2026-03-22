@@ -116,16 +116,6 @@ Auf Verbindungen von und nach Bari zahlen Kinder zwischen 4 und 12 Jahren 50 % d
 
 Ein Sitzplatz-Upgrade für jede Kabine (außer LUX) ist mit einem Rabatt von 25 % basierend auf der Preisdifferenz zwischen dem ursprünglichen und dem angeforderten Arrangement möglich. Upgrades sind je nach Verfügbarkeit in den Hafenagenturen von Blue Star Ferries/Hellenic Seaways/Superfast Ferries/Anek Lines oder im Purser’s Office an Bord möglich.[^2]
 
-### Saisonpreise
-
-Die Fähren zwischen Italien und Griechenland haben drei Tarifzonen:
-
-- Low Season
-- Shoulder Season
-- High Season
-
-Die FIP‑Ermäßigung gilt in jeder Saison, jedoch oft nur auf den Grundtarif der jeweils niedrigsten verfügbaren Kategorie.
-
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

@@ -116,16 +116,6 @@ Sur les liaisons vers et depuis Bari, les enfants de 4 à 12 ans paient 50 % du 
 
 Un surclassement de siège vers toute cabine (sauf LUX) est possible avec une réduction de 25 % sur la différence de prix entre l'arrangement initial et celui demandé. Les surclassements sont disponibles sous réserve de disponibilité dans les agences portuaires de Blue Star Ferries/Hellenic Seaways/Superfast Ferries/Anek Lines ou au bureau du commissaire de bord.[^2]
 
-### Tarifs saisonniers
-
-Les ferries entre l'Italie et la Grèce ont trois zones tarifaires :
-
-- Basse saison
-- Saison intermédiaire
-- Haute saison
-
-La Réduction FIP s'applique à chaque saison, mais souvent uniquement sur le tarif de base de la catégorie disponible la plus basse.
-
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

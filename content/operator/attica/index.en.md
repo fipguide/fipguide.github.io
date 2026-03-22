@@ -116,16 +116,6 @@ On services to and from Bari, children between 4 and 12 years pay 50% of the adu
 
 A seat upgrade to any cabin (except LUX) is possible with a 25% discount based on the price difference between the original and the requested arrangement. Upgrades are available subject to availability at port agencies of Blue Star Ferries/Hellenic Seaways/Superfast Ferries/Anek Lines or at the Purser's Office on board.[^2]
 
-### Seasonal pricing
-
-The ferries between Italy and Greece have three tariff zones:
-
-- Low Season
-- Shoulder Season
-- High Season
-
-The FIP discount applies in every season, but often only to the base fare of the lowest available category.
-
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
