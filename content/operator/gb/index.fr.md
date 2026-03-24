@@ -38,9 +38,8 @@ Il n’existe pas de catégories de trains classiques au Royaume-Uni. Les servic
 
 Avanti West Coast propose des liaisons rapides sur la côte ouest de la Grande-Bretagne, notamment entre Londres, Manchester et Glasgow.
 
-En première classe, des snacks, repas et boissons (alcoolisées) sont servis. \
-**Réservation possible :** Oui \
-**Réservation obligatoire :** Non
+En première classe, des snacks, repas et boissons (alcoolisées) sont servis. [Plus d'informations sur l'offre sont disponibles ici.](https://www.avantiwestcoast.co.uk/travel-information/onboard/food-and-drinks/first-class-service). Sur les trajets plus courts, le service peut être limité : les boissons sont disponibles, mais la carte complète peut ne pas être proposée par manque de temps.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -91,7 +90,7 @@ Chiltern Railways propose des liaisons régionales entre London Marylebone, Birm
 
 CrossCountry propose des liaisons longue distance entre le nord-est, le centre et le sud-ouest de l’Angleterre, ainsi que l’Écosse et le Pays de Galles. Les trains relient notamment Aberdeen, Birmingham, Bristol, Cardiff, Manchester et Penzance, desservant de nombreuses régions en dehors des lignes principales.
 
-En première classe, des snacks, repas et boissons (alcoolisées) sont parfois servis.
+En première classe, des snacks, repas et boissons (alcoolisées) sont parfois servis. [Plus d'informations sur l'offre sont disponibles ici.](https://www.crosscountrytrains.co.uk/travel-information/on-board/first-class-food-and-drink)
 
 {{% /train-category %}}
 
@@ -147,7 +146,7 @@ Gatwick Express est une liaison rapide et directe entre London Victoria et l’a
 
 Grand Central propose des liaisons directes entre London King’s Cross, le Yorkshire et le nord-est de l’Angleterre, notamment Sunderland, Bradford et York.
 
-En première classe, des snacks et boissons sont servis.
+En première classe, des snacks et boissons sont servis. [Plus d'informations sur l'offre sont disponibles ici.](https://www.grandcentralrail.com/tickets/ticket-types/first-class-and-business-travel)
 
 {{% /train-category %}}
 
@@ -188,7 +187,7 @@ Sur la ligne principale entre Norwich et Londres, les passagers de première cla
 
 Great Western Railway relie London Paddington au sud-ouest de l’Angleterre, au South Wales et à Bristol en trafic longue distance et régional.
 
-En première classe, snacks et boissons sont servis.
+En première classe, snacks et boissons sont servis. [Plus d'informations sur l'offre sont disponibles ici.](https://www.gwr.com/travelling-with-us/first-class/food-and-drink)
 
 GWR exploite aussi un train de nuit de Londres à Penzance – le Night Riviera Sleeper, avec réservation obligatoire. Les Coupons FIP doivent seulement être valables le jour d’arrivée.[^1]
 
@@ -238,7 +237,7 @@ Hull Trains propose des liaisons directes entre London King’s Cross et les pri
 
 LNER exploite des trains longue distance sur la côte est entre Londres, Édimbourg et York.
 
-En première classe, snacks, repas et boissons (alcoolisées) sont servis.
+En première classe, snacks, repas et boissons (alcoolisées) sont servis. [Plus d'informations sur l'offre sont disponibles ici.](https://www.lner.co.uk/first-class-travel/menu/)
 
 {{% /train-category %}}
 
@@ -390,7 +389,7 @@ Thameslink propose des liaisons nord-sud continues à travers Londres et relie d
 
 TransPennine Express relie le nord-ouest et le nord-est de l’Angleterre ainsi que l’Écosse via les Pennines.
 
-En première classe, snacks, repas et boissons (alcoolisées) sont parfois servis.
+En première classe, snacks, repas et boissons (alcoolisées) sont parfois servis. [Plus d'informations sur l'offre sont disponibles ici.](https://www.tpexpress.co.uk/travelling-with-us/first-class)
 
 {{% /train-category %}}
 
