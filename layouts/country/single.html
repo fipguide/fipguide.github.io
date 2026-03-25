@@ -9,7 +9,9 @@
         <div class="o-single__content-header">
           <div class="o-single__content-header-title">
             {{ partial "flag" (dict "country" .File.ContentBaseName "pagefind" true) }}
-            <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+            <h1 data-pagefind-meta="title" data-pagefind-weight="10">
+              {{ .Title }}
+            </h1>
           </div>
           {{ partial "updateDate.html" . }}
         </div>

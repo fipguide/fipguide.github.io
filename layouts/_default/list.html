@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="o-list">
     <div>
-      <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+      <h1 data-pagefind-meta="title" data-pagefind-weight="10">{{ .Title }}</h1>
       {{ .Content }}
       {{ range .Pages }}
         {{ partial "teaser.html" (dict "listview" "true" "page" .) }}

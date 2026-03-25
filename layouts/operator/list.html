@@ -1,6 +1,6 @@
 {{ define "main" }}
   <article class="o-list o-list__container">
-    <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+    <h1 data-pagefind-meta="title" data-pagefind-weight="10">{{ .Title }}</h1>
     {{ .Content }}
     <ul class="o-list__list">
       {{ range .Pages }}
