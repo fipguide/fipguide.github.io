@@ -4,6 +4,10 @@ draft: false
 author: "Lennart"
 title: "New FIP Member: LTG Link (Lithuania)"
 description: "As of January 1, 2024, LTG Link (Lithuania) joins the FIP program. Railway staff can now enjoy new travel discounts across the Baltics."
+country:
+  - lithuania
+operator:
+  - ltg
 ---
 
 As of January 1, 2024, the Lithuanian State Railways (LTG Link) is an official member of FIP. Railway employees benefit from free rides and discounted tickets on international rail routes. This cooperation strengthens cross-border mobility and makes it even more attractive for railway employees to use the railways for private travel.
@@ -15,3 +19,6 @@ The Lithuanian rail network covers approximately 1,900 kilometers and is broad-g
 By joining FIP, LTG is signaling its integration into the international rail network and at the same time strengthening the attractiveness of rail as a sustainable mode of transport.
 
 Information on the use of travel discounts with FIP in Lithuania will be available here on the site shortly.
+
+**Update 08.01.2026:** \
+Information on using FIP travel discounts in [Lithuania](/country/lithuania) and with [LTG Link](/operator/ltg) is now available here in the FIP Guide.

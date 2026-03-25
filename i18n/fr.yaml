@@ -39,9 +39,41 @@ country:
   one: pays
   other: pays
 countryselection: Choisir un pays
+dialog:
+  close: Fermer
+  open: Ouvre le dialogue
 discord: Communauté FIP Guide
 donation: Donation
 editPage: Modifier la page
+fipValidity:
+  active: Employés actifs
+  active-relatives: Ayants droit des employés actifs
+  additional: Autre
+  buttonLabel: Afficher plus d'informations sur la validité du FIP
+  fip-coupon: Coupon FIP
+  fip-coupon-description: >-
+    Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
+    vous pouvez demander les Coupons FIP auprès de votre employeur. Veuillez
+    noter que nous ne sommes pas en mesure d'aider à l'obtention des Coupons
+    FIP. Vous trouverez un aperçu de tous les Coupons FIP [ici](/fip-validity).
+  fip-global-fare: Tarif Global FIP
+  fip-reduced-ticket: Billet FIP à tarif réduit
+  fip-reduced-ticket-description: >-
+    Les compagnies ferroviaires accordent généralement une réduction avec FIP,
+    également connue sous le nom de FIP 50 ou FIP 75. La réduction est
+    habituellement de 50 %, parfois de 75 %. Pour savoir quelle réduction
+    s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
+    Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
+  issuer: Émetteur de la carte FIP
+  retired: Retraités
+  retired-relatives: Ayants droit des retraités
+  rules: Règles
+  selectIssuer: 'Sélectionner l''émetteur de votre Carte FIP :'
+  selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
+  selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
+  unknown: Inconnu
+  validity: validité
+  widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
@@ -51,6 +83,9 @@ highlight:
   inofficial: Informations non officielles
   tip: Conseil personnel
 home-page-text: Page d'accueil du FIP Guide
+identify-operator:
+  learn-more: Vers le site Web
+  title: Identifier les opérateurs de trains et rechercher des connexions
 information-disclaimer-short: >-
   Les informations fournies sont non officielles et sans garantie. Il n'existe
   aucun lien juridique avec le FIP ou les compagnies ferroviaires.
@@ -126,7 +161,20 @@ support:
     Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
     pour contribuer au contenu. Vous pouvez également nous écrire via le
     [formulaire de contact](/contact).
-  title: Soutenez-nous
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Spécialiste Cloud @ DB Systel
+  linkedin: Profil LinkedIn de {{ . }}
+  moritz:
+    name: Moritz Weber
+    position: Expert digitalisation de l'exploitation ferroviaire @ DB InfraGO
+  robert:
+    name: Robert Schuster
+    position: Consultant en expérience utilisateur @ DB Systel
+  willy:
+    name: Willy Schreiter
+    position: 'Product Owner chez #Einfachbahn @ DB InfraGO'
 toc_name: Sommaire
 trainCategory:
   acceptance:

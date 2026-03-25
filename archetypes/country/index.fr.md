@@ -20,6 +20,9 @@ params:
     - Quels opérateurs ne reconnaissent pas les Billets FIP et comment les identifier dans les informations de correspondance ?
 -->
 
+{{< identify-operator sources="" >}}
+{{< /identify-operator >}}
+
 ## Informations générales
 
 <!--
@@ -40,8 +43,10 @@ Uniquement les points frontaliers situés à la frontière nationale avec d’au
 -->
 
 {{% expander "Points frontières" border %}}
+
 | Pays | Points frontières |
-| --- | --- |
+| ---- | ----------------- |
+
 {{% /expander %}}
 
 ### <Nom du pays>

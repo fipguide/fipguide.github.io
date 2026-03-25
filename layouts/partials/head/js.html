@@ -1,7 +1,11 @@
-{{- with resources.Get "js/main.js" }}
+{{ $defer := .defer | default true }}
+{{- with resources.Get .file }}
   {{- if eq hugo.Environment "development" }}
     {{- with . | js.Build }}
-      <script src="{{ .RelPermalink }}"></script>
+      <script
+        src="{{ .RelPermalink }}"
+        {{ if $defer -}}defer{{- end }}
+      ></script>
     {{- end }}
   {{- else }}
     {{- $opts := dict "minify" true }}
@@ -12,6 +16,7 @@
         src="{{ .RelPermalink }}"
         integrity="{{- .Data.Integrity }}"
         crossorigin="anonymous"
+        {{- if $defer }}defer{{- end }}
       ></script>
     {{- end }}
   {{- end }}

@@ -8,6 +8,8 @@ country: "liechtenstein"
 
 Le chemin de fer au Liechtenstein est exploité par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb "ÖBB"). Tous les billets ÖBB sont valables ici, y compris les Billets FIP 50 et les Coupons FIP pour les ÖBB. Les conditions FIP des ÖBB s’appliquent également au Liechtenstein.
 
+{{< identify-operator sources="db-website" />}}
+
 ## Informations générales
 
 Seule la ligne ferroviaire d’environ 8 km Feldkirch (Autriche) – Buchs SG (Suisse) traverse le Liechtenstein, comprenant trois gares sur le territoire liechtensteinois. Cette ligne fait partie de la liaison internationale grandes lignes Vienne – Salzbourg – Innsbruck – Suisse et est exploitée par les Chemins de fer fédéraux autrichiens.

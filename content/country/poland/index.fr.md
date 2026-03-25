@@ -8,18 +8,26 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
+    - Koleje Małopolskie (KML)
+    - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
 ---
 
 ## Informations FIP
 
-La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM). Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
+La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires différentes proposant la FIP. Cela dépend beaucoup des voïvodies (régions de Pologne) que les trajets doivent traverser. L’opérateur le plus important est la compagnie ferroviaire d’État [PKP](/operator/pkp "PKP") (Polskie Koleje Państwowe), qui avec ses filiales couvre presque tout le trafic grandes lignes ainsi qu’une grande partie du trafic régional. En plus de PKP Intercity et Polregio, PKP comprend également le système de RER de Gdansk (Tri-City) et le trafic régional de Koleje Mazowieckie (KM).
 
-- Koleje Dolnośląskie (KD)
-- Koleje Śląskie (KS)
-- Koleje Wielkopolskie (KW)
-- Łódzka Kolej Aglomeracyjna (ŁKA)
+Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
 
-Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
+- [Koleje Dolnośląskie (KD)](/operator/kd)
+- [Koleje Śląskie (KŚ)](/operator/ks)
+- [Koleje Wielkopolskie (KW)](/operator/kw)
+- [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
+
+Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. La FIP n’est pas non plus acceptée dans les trains des Koleje Małopolskie (KML). La Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) ne peut pas être utilisée avec la FIP, sauf lorsqu’elle opère pour le compte de compagnies ferroviaires qui acceptent la FIP.
+
+À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
+
+{{< identify-operator sources="plk-website,db-website,vagonweb" />}}
 
 ## Informations générales
 
@@ -30,15 +38,17 @@ L’état, la densité et la fréquence des lignes ferroviaires dépendent souve
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-|----------------------------|-------------------|
-| Biélorussie (BC) | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie) |
-| Tchéquie (ČD) | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr) |
-| Allemagne (DB AG) | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| Lituanie (LTG-Link) | Mockava (Gr) |
-| Russie (RZD) | Braniewo (Gr) |
-| Ukraine (UZ) | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr) |
-| Slovaquie (ŽSR) | Lupkow (Gr) |
+
+| Pays                                                          | Points frontières                                                                                                 |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Biélorussie (BC)                                              | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie)                                  |
+| [Tchéquie](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
+| [Allemagne](/country/germany) ([DB AG](/operator/db))         | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
+| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg))    | Mockava (Gr)                                                                                                      |
+| Russie (RZD)                                                  | Braniewo (Gr)                                                                                                     |
+| Ukraine (UZ)                                                  | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr)                                                            |
+| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
+
 {{% /expander %}}
 
 ### Biélorussie
@@ -53,7 +63,9 @@ En plus des trains grandes lignes, quelques trains régionaux circulent égaleme
 
 Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
 
-Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables. Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
+Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables.
+
+Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
 
 ### Lituanie
 
@@ -75,7 +87,9 @@ Entre la Tchéquie et la Pologne, des trains réguliers sont proposés tant dans
 
 Il en va de même pour les trains régionaux entre Mikulovice et Krnov, qui font un court détour en Pologne et s’arrêtent à Głuchołazy. Plus simple est le passage frontalier de Harrachov, via lequel des trains régionaux circulent entre Szklarska Poreba et Liberec. Ces trains sont opérés du côté polonais par KD et du côté tchèque par ČD.
 
-Via Lichkov, des trains EC circulent entre Wrocław (parfois en provenance de Gdynia) et Prague, pour lesquels des billets de PKP et ČD plus réservation sont requis. Les trains régionaux sont opérés du côté polonais par KD, du côté tchèque ce devrait être ČD sans garantie.
+Via Lichkov, des trains EC circulent entre Wrocław (parfois en provenance de Gdynia) et Prague, pour lesquels des billets de PKP et ČD plus réservation sont requis. Les trains régionaux sont opérés du côté polonais par KD. En Tchéquie, l’exploitation est assurée par Leo Express, la FIP n’est donc pas valable sur ce tronçon.
+
+Les autres liaisons régionales transfrontalières ne peuvent être utilisées avec la FIP que du côté polonais.
 
 ### Ukraine
 

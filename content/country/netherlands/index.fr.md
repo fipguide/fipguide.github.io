@@ -22,6 +22,8 @@ Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent é
 
 D’autres opérateurs, comme Arriva Nederland, ou les trains régionaux transfrontaliers `RE` (Arnhem – Düsseldorf, Venlo – Hamm, Maastricht – Aix-la-Chapelle) n’acceptent pas les Billets FIP. Tous les bus (sauf remplacement rail), trams et métros sont également exclus.
 
+{{< identify-operator sources="ns-website,db-website" />}}
+
 ## Informations générales
 
 Les Pays-Bas disposent d’un réseau ferroviaire extrêmement dense et d’un service cadencé parmi les meilleurs d’Europe. La plupart des lignes sont desservies au moins toutes les 30 minutes, voire plus fréquemment sur les axes principaux.
@@ -35,10 +37,13 @@ Particularité : la plupart des grandes gares sont équipées de portiques. L’
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| Allemagne (DB) | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| Belgique (SNCB) | Roosendaal (fr), Visé |
+
+| Pays                                                                    | Points frontières                                                        |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Allemagne](/country/germany) ([DB](/operator/db))                      | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                   | Roosendaal (fr), Visé                                                    |
+| [Royaume-Uni](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                         |
+
 {{% /expander %}}
 
 ### Allemagne
@@ -64,4 +69,10 @@ L’Eurostar (anciennement Thalys) permet aussi de rejoindre la Belgique depuis 
 
 Depuis London St. Pancras, des trains [Eurostar](/operator/eurostar "Eurostar") directs relient Amsterdam et Rotterdam. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
 
-De plus, une [liaison par ferry](/operator/stl "liaison par ferry") relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
+De plus, une [liaison par ferry de Stena Line BV](/operator/stl) relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
+
+{{% highlight tip %}}
+Stena Line BV propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+
+[Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}

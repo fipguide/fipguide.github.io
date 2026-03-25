@@ -67,7 +67,7 @@ Once you return to the rail network of your home country, you may not use the FI
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Officially, the _FIP Card_ is only required for ordering _FIP Coupons_, not for use at the point of travel. However, in practice, train staff sometimes request it anyway. To avoid problems, you should be able to present it when using _FIP Coupons_.
+Officially, the _FIP Card_ does not have to be shown on the train when using _FIP Coupons_. However, in practice, train staff may still ask for it. To avoid any issues, you should be able to present your _FIP Card_ even when using _FIP Coupons_.
 {{% /highlight %}}
 
 {{% expander "Example of using an FIP Coupon" info %}}
@@ -176,12 +176,6 @@ FIP Coupons and national travel discounts of dependents are counted toward the e
 ## FAQ
 
 {{< faq >}}
-
-## Who is behind the FIP Guide?
-
-We are a dedicated team of railway employees who regularly use FIP ourselves.
-Our goal is to provide a quick and easy-to-use overview for using FIP.
-Our focus is on providing useful information for our users.
 
 ## Additional useful resources
 

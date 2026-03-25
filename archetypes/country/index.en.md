@@ -20,6 +20,9 @@ params:
     - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
 -->
 
+{{< identify-operator sources="" >}}
+{{< /identify-operator >}}
+
 ## Interesting
 
 <!--
@@ -40,8 +43,10 @@ Only border points at the national border with other countries. These should be 
 -->
 
 {{% expander "Border Points" border %}}
+
 | Country | Border Points |
-| --- | --- |
+| ------- | ------------- |
+
 {{% /expander %}}
 
 ### <Country Name>

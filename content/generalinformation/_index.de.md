@@ -67,7 +67,7 @@ Nach Rückkehr ins Bahnnetz des Heimatlandes ist innerhalb der Geltungsdauer des
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Offiziell wird der _FIP Ausweis_ für die Nutzung von _FIP Freifahrtsscheinen_ nur für die Bestellung und nicht vor Ort bei der Nutzung benötigt. Jedoch fordern Zugbegleiter ihn in der Praxis trotzdem teilweise ein. Um Probleme zu vermeiden, sollte er also auch bei der Nutzung von _FIP Freifahrtscheinen_ vorgezeigt werden können.
+Offiziell muss der _FIP Ausweis_ bei der Nutzung von _FIP Freifahrtsscheinen_ im Zug nicht vorgezeigt werden. Jedoch fordern Zugbegleiter ihn in der Praxis trotzdem teilweise ein. Um Probleme zu vermeiden, sollte er also auch bei der Nutzung von _FIP Freifahrtscheinen_ vorgezeigt werden können.
 {{% /highlight %}}
 
 {{% expander "Beispiel für die Nutzung eines FIP Freifahrtscheins" info %}}
@@ -176,12 +176,6 @@ FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden 
 ## FAQ
 
 {{< faq >}}
-
-## Wer steckt hinter dem FIP Guide?
-
-Wir sind ein engagiertes Team von Bahn-Mitarbeitenden, welche selbst regelmäßig FIP nutzen.
-Unser Ziel ist, eine schnell und einfach nutzbare Übersicht zur Nutzung von FIP bereitzustellen.
-Unser Fokus liegt auf der Bereitstellung von nützlichen Informationen für die Nutzerinnen und Nutzer.
 
 ## Zusätzliche nützliche Ressourcen
 

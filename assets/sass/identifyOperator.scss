@@ -1,0 +1,46 @@
+.o-identify-operator {
+  &__item {
+    h3 {
+      margin-top: 0;
+    }
+  }
+
+  &__intro {
+    margin-bottom: 2rem;
+  }
+
+  &__item-content {
+    display: flow-root;
+  }
+
+  &__text {
+    margin-bottom: 2rem;
+  }
+
+  &__image-wrapper {
+    float: right;
+    width: 50%;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+
+    @media (max-width: #{$breakpoint-md}) {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      margin-bottom: 2rem;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  &__button {
+    clear: both;
+  }
+
+  &__separator {
+    margin: 2rem 0;
+  }
+}

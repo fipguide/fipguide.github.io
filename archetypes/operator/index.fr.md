@@ -33,10 +33,17 @@ operator: "{{ .File.ContentBaseName }}"
   Les catégories de billets peuvent varier selon l’opérateur.
 -->
 
-Coupon FIP : <✅/⛔> \
-Coupon FIP accompagnant : <✅/⛔> \
-Billets FIP 50 : <✅/⛔> \
-Tarif Global FIP : <✅/⛔>
+<!--
+  Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
+  - `type` : fip-coupon, fip-reduced-ticket, fip-global-fare, additional
+  - `status` : valid, invalid, unknown
+  - `text` : Texte personnalisé optionnel à afficher
+  - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
@@ -48,7 +55,7 @@ Tarif Global FIP : <✅/⛔>
   Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant. Les paramètres suivants peuvent être utilisés :
   - `id` : Abréviation en minuscules avec traits d'union de la catégorie de train (par ex. "ice", "tgv-inoui")
   - `title` : Titre de la catégorie de train
-  - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` ou `ship`
+  - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` ou `ship`
   - `fip_accepted` : true, false, partially
   - `reservation_required` : true, false, partially
   - `reservation_possible` : true, false, partially (défaut false, peut être omis si reservation_required est true)

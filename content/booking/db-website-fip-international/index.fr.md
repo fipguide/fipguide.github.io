@@ -34,7 +34,8 @@ Les Billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 - Belgique
 - République tchèque
 - Danemark
-- France
+- France \
+  <small>uniquement les trains régionaux entre l'Allemagne et la France</small>
 - Allemagne
 - Italie \
   <small>uniquement la ligne du Brenner avec l’Autriche et le ECE Francfort – Milan</small>

@@ -18,9 +18,8 @@ In [Switzerland](/country/switzerland "Switzerland"), in addition to the nationa
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP 50 Tickets are valid with all listed railway companies, see [Rail and Bus Operators](#rail-and-bus-operators), as well as with the [ship operators](#ship-operators). FIP Coupons are also valid almost everywhere, with a few exceptions.
 
@@ -135,15 +134,25 @@ All of these services can be used with FIP.
     reservation_required=partially
     reservation_possible=true
 %}}
-Ferrovie autolinee regionali ticinesi operates, in addition to some bus routes, the Swiss section of the Centovalli Railway from Locarno to Domodossola in Italy, as well as two small aerial cableways.
+The Ferrovie Autolinee Regionali Ticinesi (FART) operates, in addition to several bus routes, the Swiss section of the Centovallibahn from Locarno to Domodossola in Italy, where the Treno Panoramico Vigezzo Vision also runs.
 
-Even though the Centovalli Railway runs into Italy, SP FIP tickets are valid on the entire route because the Italian section is operated by SSIF, which is also an SP FIP member.
+Even though the Centovallibahn leads to Italy, FIP tickets from SP are valid for the entire route, as the Italian section is operated by SSIF, which is also a member of SP FIP.
 
-For the cable cars, it is unknown whether FIP is recognized. On bus routes, FIP is accepted.
+{{% highlight important %}}
+In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
+{{% /highlight %}}
 
-#### Reservation
+Additionally, FART operates two small cable cars. It is not known whether FIP is accepted here.
 
-A reservation is required for the special Treno Panoramico Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
+In bus transport, FIP is fully recognized.
+
+#### Reservations
+
+Reservations are only required during the Christmas markets and the Raduno degli Spazzacamini (the international chimney sweep meeting) in Santa Maria Maggiore.
+
+On the panoramic trains, traveling in standing places is not allowed for comfort reasons.
+
+Seat reservations can be purchased [online on the Centovalli website](https://prenota.vigezzinacentovalli.com/) for €4 per person and route.
 
 #### Scheduled routes
 
@@ -403,19 +412,24 @@ FIP is only partially valid on the routes listed below; on the other routes neit
     id="rbs"
     title="Regionalverkehr Bern–Solothurn (RBS)"
     type="regional"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=false
 %}}
-RBS is a regional transport company and operates four metre-gauge railway lines in the cantons of Bern and Solothurn. These are partly integrated into the Bern S-Bahn. Buses are also operated.
-
-FIP is valid on all routes.
+RBS is a regional transport company and operates four metre-gauge railway lines in the cantons of Bern and Solothurn. These are partly integrated into the Bern S-Bahn. FIP is recognized on all routes, except for the S9 and tram line 6. In addition, RBS also operates bus lines on which FIP is fully recognized. [^2]
 
 #### Scheduled routes
 
-- Bern – Solothurn (RE 5)
+##### Routes with FIP validity
+
+- Bern – Solothurn (RE5)
 - Bern – Worb Dorf (S7)
 - Bern – Bätterkinden (S8)
+- All RBS buses
+
+##### Routes without FIP validity
+
 - Bern – Unterzollikofen (S9)
+- Tram line 6: Bern – Gümligen – Worb Dorf
 
 {{% /train-category %}}
 
@@ -456,19 +470,20 @@ A reservation is required for the Glacier Express; see the [dedicated section](#
     reservation_required=false
     reservation_possible=true
 %}}
-The Schweizerische Südostbahn operates services both on its own lines and on some SBB lines. In cooperation with SBB, the well-known long-distance trains Treno Gottardo, Alpenrhein-Express, and Aare Linth are operated by SOB.
+The Schweizerische Südostbahn (SOB) operates scheduled services on both its own lines and some SBB routes. In cooperation with SBB, SOB also operates the internationally known trains Voralpen-Express/Treno Gottardo, Alpenrhein-Express, and the Aare Linth.
 
-For FIP discounts it should be noted that SP Coupons are not valid on lines where SOB operates only under an SBB licence, for example between Basel SBB and Arth-Goldau. On these routes, SBB FIP Coupons must be used instead. Continuous FIP 50 Tickets are possible, however. The following list includes only those routes on which SP Coupons are valid.
+{{% highlight important %}}
+When using FIP discounts, note that SP Coupons are not valid on routes where SOB operates in cooperation with SBB, for example between Basel SBB and Arth-Goldau. On these routes, only SBB FIP Coupons are valid instead. However, continuous FIP 50 Tickets are possible.
+{{% /highlight %}}
 
-#### Scheduled routes
-
-##### Routes with FIP validity
+#### Routes without SBB cooperation (SP Coupon required)
 
 - Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
-- Arth-Goldau – Bellinzona (either via Göschenen – Airolo or through the Gotthard Base Tunnel)
+- Arth-Goldau – Bellinzona (regardless of whether via Göschenen – Airolo or through the Gotthard Base Tunnel)
 
+On all other routes, only the SBB Coupon is valid.
 {{% /train-category %}}
 
 {{% train-category
@@ -483,9 +498,17 @@ Società Subalpina di Imprese Ferroviarie operates the Italian section of the Ce
 
 SP FIP tickets are valid on the entire route, including the Swiss section, as this is operated by FART, which is also part of SP.
 
+{{% highlight important %}}
+In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
+{{% /highlight %}}
+
 #### Reservation
 
-A reservation is required for the special Vigezzo Vision (marked as `PE` for Panorama Express in timetables); see the [dedicated section](#treno-panoramico-vigezzo-vision).
+Reservations are only required during the Christmas markets and the Raduno degli Spazzacamini (the international chimney sweep meeting) in Santa Maria Maggiore.
+
+On the panoramic trains, traveling in standing places is not allowed for comfort reasons.
+
+Seat reservations can be purchased [online on the Centovalli website](https://prenota.vigezzinacentovalli.com/) for €4 per person and route.
 
 #### Scheduled routes
 
@@ -874,12 +897,6 @@ SP FIP Coupons and FIP 50 Tickets are valid on this train, but only with an addi
 
 As an alternative to the Bernina Express (marked as `PE` in timetables), other services are available on the route for which no reservation is required.
 
-### Treno Panoramico Vigezzo Vision
-
-The Treno Panoramico Vigezzo Vision runs on the route Domodossola – Càmedo – Locarno and is jointly operated by Ferrovie Autolinee Regionali Ticinesi (FART) and Società Subalpina di Imprese Ferroviarie (SSIF).
-
-SP FIP Coupons and FIP 50 Tickets are valid on this train, but only with an additional paid seat reservation. This can be booked via [this link](https://prenota.vigezzinacentovalli.com/).
-
 ### Pilatusbahn
 
 Pilatusbahn is not a member of FIP, but currently still offers a 50% discount on tickets upon presentation of the FIP Card when purchased at a Pilatusbahn ticket counter.
@@ -897,3 +914,5 @@ When traveling with a Coupon, it is advisable, if possible, also to have the Cou
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

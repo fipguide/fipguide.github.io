@@ -20,6 +20,8 @@ En Italie, les trains régionaux sont principalement exploités par [Trenitalia]
 
 Pour les trajets longue distance, les trains Frecce de Trenitalia ne sont accessibles qu’avec des réservations coûteuses (incluant un supplément). Les trains du transporteur privé Italo ne sont pas accessibles avec les Billets FIP.
 
+{{< identify-operator sources="fs-website,db-website" />}}
+
 ## Informations générales
 
 L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et de grande qualité en longue distance sont particulièrement remarquables, permettant de voyager rapidement entre le nord et le sud du pays. En dehors des lignes à grande vitesse, il existe de nombreuses lignes régionales classiques et parfois très pittoresques. Par exemple, la ligne ferroviaire des Cinque Terre en Ligurie, où les trains desservent fréquemment les cinq villages, est la principale connexion entre ces lieux difficilement accessibles autrement. Les trains régionaux en Italie ne circulent pas selon un horaire cadencé classique, mais plutôt à intervalles irréguliers. La Sicile est accessible par trains de nuit et InterCity, qui traversent le détroit de Messine par ferry Trenitalia.
@@ -27,16 +29,18 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| Autriche (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Suisse (CFF, BLS, SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| France (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Slovénie (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
-| Ferry (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
+
+| Pays                                                                           | Points frontières                                                                                   |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| [France](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
+| Slovénie (SŽ)                                                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Grèce](/country/greece) (Attica)                                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 
 \
 [>] = Vers (par exemple, Domodossola [> Locarno] = Domodossola est le point frontière vers Locarno)
+
 {{% /expander %}}
 
 ### Slovénie
@@ -77,3 +81,7 @@ Entre Milan et Paris circulent des trains Frecciarossa transfrontaliers. Les Bil
 De plus, des trains `TGV` concurrents de la SNCF circulent entre Turin et Paris. Ils sont accessibles en France avec des réductions FIP, mais il faut acheter des Billets FIP au tarif global.
 
 Les trains régionaux transfrontaliers de la SNCF peuvent être utilisés depuis Grasse/Cannes/Nice via Monaco jusqu’à Vintimille. Les Billets FIP et Coupons FIP de la SNCF sont valables jusqu’à Vintimille.
+
+### Grèce
+
+Les services de ferry exploités par [Attica](/operator/attica) peuvent être utilisés entre l’Italie et la Grèce.

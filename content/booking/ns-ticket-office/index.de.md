@@ -13,28 +13,40 @@ aliases:
   - ns_ticket_office
 ---
 
+Internationale FIP Tickets und Reservierungen können nur an NS International Fahrkartenschaltern erworben werden. Stand Februar 2026 sind dies die Fahrkartenschalter in den folgenden Bahnhöfen:
+
+<!-- prettier-ignore -->
+- Amsterdam (Westlicher Eingang der Haupthalle - Taxis)
+- Amsterdam (Flussseite)
+- Arnhem Centraal
+- Rotterdam Centraal
+- Schiphol Airport (Haupthalle)
+- Utrecht Centraal
+{.o-section--columns-3}
+
+Weitere Informationen bei [NS International](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
 
-FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenschaltern erworben werden. Stand Dezember 2023 sind dies:
+FIP 50 Tickets für die Niederlande können an NS Ticketschaltern erworben werden. Stand Februar 2026 sind dies die Fahrkartenschalter in den folgenden Bahnhöfen:
 
 <!-- prettier-ignore -->
-- Amsterdam Centraal
+- Amsterdam Centraal (Westlicher Eingang der Haupthalle - Taxis)
+- Amsterdam Centraal (Flussseite)
+- Amsterdam Schiphol
 - Amsterdam Sloterdijk
-- Amsterdam Zuid
-- Arnhem Centraal
+- Arnhem
 - Breda
 - Den Haag Centraal
-- Eindhoven Centraal
-- Enschede
-- Haarlem
+- Den Haag HS
+- Eindhoven Centraal (Stadtseite)
 - Leeuwarden
 - Leiden Centraal
 - Maastricht
 - Rotterdam Centraal
-- Schiphol Airport
-- Utrecht Centraal
+- Utrecht Centraal (Stadtseite)
 - Zaandam
 - Zwolle
 {.o-section--columns-3}
@@ -45,5 +57,5 @@ FIP 50 Tickets können nur an Full-Service (Light) Bahnhöfen mit Fahrkartenscha
 
 ## Reservierungen
 
-Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind verkauft die NS nur internationale Reservierungen an Full-Service (Light) Bahnhöfen.
+Da in den Niederlanden keine Reservierungen für Züge erwerbbar sind, verkauft die NS nur internationale Reservierungen an NS International Fahrkartenschaltern.
 {{% /booking-section %}}

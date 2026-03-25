@@ -18,9 +18,8 @@ En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [S
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP accompagnant : ⛔ \
-Billets FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Billets FIP 50 sont valables auprès de toutes les entreprises ferroviaires listées, voir [Opérateurs ferroviaires et d’autobus](#operateurs-ferroviaires-et-dautobus), ainsi qu’auprès des [opérateurs de bateaux](#operateurs-de-bateaux). Les Coupons FIP sont également valables presque partout, à quelques exceptions près.
 
@@ -135,15 +134,25 @@ Tous ces services sont accessibles avec le FIP.
     reservation_required=partially
     reservation_possible=true
 %}}
-Ferrovie autolinee regionali ticinesi exploite, en plus de certaines lignes d’autobus, la section suisse de la ligne Centovalli entre Locarno et Domodossola en Italie, ainsi que deux petits téléphériques.
+Ferrovie Autolinee Regionali Ticinesi (FART) exploite, outre quelques lignes d'autobus, la section suisse de la Centovallibahn de Locarno à Domodossola en Italie, sur laquelle circule également le Treno Panoramico Vigezzo Vision.
 
-Même si la ligne des Centovalli se prolonge en Italie, les billets FIP SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre FIP SP.
+Bien que la Centovallibahn mène en Italie, les billets FIP de SP sont valables sur l'ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre SP du FIP.
 
-Pour les téléphériques, on ne sait pas si le FIP est accepté. Sur les lignes d’autobus, le FIP est accepté.
+{{% highlight important %}}
+Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
+{{% /highlight %}}
+
+FART exploite également deux petits téléphériques. Il n'est pas connu si le FIP est reconnu sur ceux-ci.
+
+Dans le transport par bus, le FIP est pleinement reconnu.
 
 #### Réservation
 
-Une réservation est obligatoire pour le Treno Panoramico Vigezzo Vision (indiqué `PE` pour Panorama Express dans les horaires) ; voir la [section dédiée](#treno-panoramico-vigezzo-vision).
+Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
+
+Dans les trains panoramiques, il n'est pas permis de voyager debout pour des raisons de confort.
+
+Les réservations de sièges peuvent être achetées [en ligne sur le site de Centovalli](https://prenota.vigezzinacentovalli.com/) pour 4 € par personne et par trajet.
 
 #### Lignes régulières
 
@@ -276,11 +285,6 @@ Une réservation est obligatoire pour le Glacier Express, exploité conjointemen
 La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
 {{% /train-category %}}
 
-{{% expander "Meiringen–Innertkirchen (MIB)" traincategory "category" %}}
-**Description :** \
-La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
-{{% /expander %}}
-
 {{% train-category
     id="mob"
     title="Chemin de fer Montreux–Oberland Bernois (MOB)"
@@ -408,19 +412,24 @@ Le FIP n’est valable que partiellement sur les lignes listées ci-dessous ; su
     id="rbs"
     title="Regionalverkehr Bern–Solothurn (RBS)"
     type="regional"
-    fip_accepted=true
+    fip_accepted=partially
     reservation_required=false
 %}}
-RBS est une entreprise de transport régional et exploite quatre lignes à voie métrique dans les cantons de Berne et de Soleure. Elles sont en partie intégrées au RER de Berne. Des lignes d’autobus sont également proposées.
-
-Le FIP est valable sur toutes les lignes.
+La RBS est une entreprise de transport régional qui exploite quatre lignes ferroviaires à voie métrique dans les cantons de Berne et de Soleure. Celles-ci sont en partie intégrées au RER de Berne. Le FIP est reconnu sur toutes les lignes, à l’exception de la S9 et de la ligne de tram 6. De plus, la RBS exploite également des lignes de bus sur lesquelles le FIP est intégralement reconnu. [^2]
 
 #### Lignes régulières
 
-- Bern – Solothurn (RE 5)
-- Bern – Worb Dorf (S7)
-- Bern – Bätterkinden (S8)
-- Bern – Unterzollikofen (S9)
+##### Lignes avec validité FIP
+
+- Berne – Soleure (RE5)
+- Berne – Worb Dorf (S7)
+- Berne – Bätterkinden (S8)
+- Tous les bus de la RBS
+
+##### Lignes sans validité FIP
+
+- Berne – Unterzollikofen (S9)
+- Ligne de tram 6 : Berne – Gümligen – Worb Dorf
 
 {{% /train-category %}}
 
@@ -459,21 +468,22 @@ Pour le Glacier Express, des réservations payantes doivent être achetées à l
     type="regional"
     fip_accepted=partially
     reservation_required=false
-    reservation_possible=partially
+    reservation_possible=true
 %}}
-La Schweizerische Südostbahn exploite des liaisons à la fois sur ses propres lignes et sur certaines lignes des CFF. En coopération avec les CFF, les trains Intervilles connus Treno Gottardo, Alpenrhein-Express et Aare Linth sont exploités par la SOB.
+La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l'Alpenrhein-Express et l'Aare Linth sont également exploités par la SOB.
 
-Pour les réductions FIP, il convient de noter que les Coupons SP ne sont pas valables sur les lignes où la SOB ne circule qu’avec une licence des CFF, par exemple entre Basel SBB et Arth-Goldau. Sur ces lignes, des Coupons FIP des CFF doivent être utilisés. Les Billets FIP 50 continus sont toutefois possibles. La liste ci-dessous ne comprend donc que les lignes sur lesquelles les Coupons SP sont valables.
+{{% highlight important %}}
+Il est à noter que les Coupons FIP ne sont pas valables sur les lignes où la SOB opère en coopération avec la CFF, par exemple entre Bâle CFF et Arth-Goldau. Sur ces itinéraires, seuls les Coupons FIP de la CFF sont valables. En revanche, les billets FIP 50 sont possibles.
+{{% /highlight %}}
 
-#### Lignes régulières
+#### Lignes sans coopération CFF (Coupon FIP SP requis)
 
-##### Lignes avec validité FIP
-
-- Romanshorn – St. Gallen – Wattwil – Nesslau – Neu St Johann
+- Romanshorn – Saint-Gall – Wattwil – Nesslau – Neu St Johann
 - Rapperswil – Pfäffikon SZ – Biberbrugg – Arth-Goldau
 - Wädenswil – Biberbrugg – Einsiedeln
-- Arth-Goldau – Bellinzona (via Göschenen – Airolo ou par le tunnel de base du Gothard)
+- Arth-Goldau – Bellinzona (que ce soit par Göschenen – Airolo ou par le tunnel de base du Gothard)
 
+Sur tous les autres itinéraires, seul le Coupon FIP de la CFF est valable.
 {{% /train-category %}}
 
 {{% train-category
@@ -488,9 +498,17 @@ La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la
 
 Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
 
+{{% highlight important %}}
+Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
+{{% /highlight %}}
+
 #### Réservation
 
-Pour le Vigezzo Vision (indiqué `PE` pour Panorama Express), une réservation est obligatoire ; voir la [section dédiée](#treno-panoramico-vigezzo-vision).
+Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
+
+Dans les trains panoramiques, il n'est pas permis de voyager debout pour des raisons de confort.
+
+Les réservations de sièges peuvent être achetées [en ligne sur le site de Centovalli](https://prenota.vigezzinacentovalli.com/) pour 4 € par personne et par trajet.
 
 #### Lignes régulières
 
@@ -879,12 +897,6 @@ Les Coupons FIP SP et les Billets FIP 50 sont valables dans ce train, mais uniqu
 
 En alternative au Bernina Express (indiqué `PE` dans les horaires), d’autres liaisons existent sur l’itinéraire et ne nécessitent pas de réservation.
 
-### Treno Panoramico Vigezzo Vision
-
-Le Treno Panoramico Vigezzo Vision circule entre Domodossola – Càmedo – Locarno et est exploité conjointement par Ferrovie Autolinee Regionali Ticinesi (FART) et Società Subalpina di Imprese Ferroviarie (SSIF).
-
-Les Coupons FIP SP et les Billets FIP 50 sont valables dans ce train, mais uniquement avec une réservation de siège payante supplémentaire. Celle-ci peut être réservée via [ce lien](https://prenota.vigezzinacentovalli.com/).
-
 ### Pilatusbahn
 
 La Pilatusbahn n’est pas membre du FIP, mais propose actuellement une réduction de 50 % sur les billets sur présentation de la Carte FIP lors de l’achat à un guichet de la Pilatusbahn.
@@ -902,3 +914,5 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

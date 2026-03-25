@@ -33,10 +33,17 @@ operator: "{{ .File.ContentBaseName }}"
   The ticket categories may vary depending on the operator.
 -->
 
-FIP Coupon: <✅/⛔> \
-FIP Coupon for relatives: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Global Fare: <✅/⛔>
+<!--
+  Use the following shortcodes to display FIP validity. The following parameters can be passed:
+  - `type`: fip-coupon, fip-reduced-ticket, fip-global-fare, additional
+  - `status`: valid, invalid, unknown
+  - `text`: Optional custom text to display
+  - `disable_dialog`: true/false (default: false) - Set to true to disable the dialog
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
@@ -48,7 +55,7 @@ FIP Global Fare: <✅/⛔>
   For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
   - `id`: Lowercase, hyphenated abbreviation of the train category (e.g., "ice", "tgv-inoui")
   - `title`: Title of the train category
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` or `ship`
+  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` or `ship`
   - `fip_accepted`: true, false, partially
   - `reservation_required`: true, false, partially
   - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)

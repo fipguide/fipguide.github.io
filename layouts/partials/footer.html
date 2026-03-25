@@ -15,6 +15,13 @@
       "Text" $contactPage.Title
       )
     -}}
+    {{ $aboutUsPage := site.GetPage "about-us" }}
+    {{- partial "link"
+      (dict
+      "Destination" $aboutUsPage.RelPermalink
+      "Text" $aboutUsPage.Title
+      )
+    -}}
     {{ $imprintPage := site.GetPage "imprint" }}
     {{- partial "link"
       (dict
@@ -52,7 +59,7 @@
       {{ partial "icon" "translate" }}
       <div>{{ $.Site.Language.LanguageName }}</div>
       <div class="o-dropdown__icon">
-        {{ partial "icon" "keyboard_arrow_down" }}
+        {{ partial "icon" "keyboard_arrow_up" }}
       </div>
     </button>
     <menu
@@ -70,9 +77,6 @@
         >
           <a
             href="{{ .Permalink }}"
-            class="o-dropdown__link{{ if eq $.Site.Language .Language }}
-              o-dropdown__link--active
-            {{ end }}"
             {{ if eq $.Site.Language .Language }}aria-current="page"{{ end }}
           >
             {{ .Language.LanguageName }}

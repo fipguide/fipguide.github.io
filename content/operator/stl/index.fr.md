@@ -9,7 +9,7 @@ operator: "stl"
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).
 
-Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom Stena Line Limited (SLL).
+Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur FIP indépendant sous le nom [Stena Line Limited (SLL)](/operator/sll).
 
 ## Résumé
 
@@ -19,11 +19,8 @@ Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur 
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP pour les ayants droit : ✅ \
-Billets FIP 50 : ✅
-
-Le Coupon FIP pour StL comprend, contrairement à la norme, au maximum deux cases. [^1]
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de navires et réservations
 
@@ -137,9 +134,13 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes e
 {{% /float-image %}}
 {{% /expander %}}
 
+### En ligne
+
+{{% booking id="stena-line-bv-email" /%}}
+
 ### Par téléphone
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### En gare
 
@@ -151,7 +152,17 @@ L’achat à bord des navires n’est pas possible.
 
 Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 14 ans ils paient le tarif adulte. [^2]
 
+{{% highlight tip %}}
+Stena Line propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+
+[Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}
+
 ## Recommandations
+
+{{% highlight important %}}
+Veuillez noter que l'enregistrement n'est possible que jusqu'à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.
+{{% /highlight %}}
 
 L’accès à la station _Hoek van Holland Haven_ se fait généralement par la ligne de métro B depuis Rotterdam et Schiedam.
 
@@ -169,8 +180,6 @@ Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si
 {{% /highlight %}}
 
 ## Sources
-
-[^1]: DB Reisemarkt
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
 

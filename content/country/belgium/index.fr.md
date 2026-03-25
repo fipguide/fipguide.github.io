@@ -16,6 +16,10 @@ Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent é
 
 Par ailleurs, les trains `TGV` internationaux opérés par la [SNCF](/operator/sncf "SNCF") en provenance de France circulent aussi en Belgique. Les fichets FIP gratuits de la SNCB ne sont pas valables sur ces trains — seul un billet au Tarif Global FIP peut être réservé. Les trains Eurocity opérés par OUIGO entre Bruxelles et Paris ne donnent droit à aucun avantage FIP.
 
+{{< identify-operator sources="db-website,vagonweb" >}}
+Dans le [planificateur de voyage en ligne de la SNCB](https://www.belgiantrain.be/fr/), tous les trains du pays (par exemple, les `ICE`) ne sont pas affichés.
+{{< /identify-operator >}}
+
 ## Informations générales
 
 La Belgique dispose d’un réseau ferroviaire dense et bien développé. Contrairement à d’autres pays, il n’existe pas de distinction tarifaire entre les différentes catégories de trains (sauf pour les connexions internationales comme `ICE`, `TGV` et Eurostar). Grâce à la position centrale de Bruxelles, celle-ci est le nœud ferroviaire du pays, reliée à l’Allemagne, la France et les Pays-Bas par quatre lignes à grande vitesse.
@@ -27,12 +31,14 @@ Sur les autres lignes, la vitesse est moyenne mais les trains circulent généra
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| Luxembourg (CFL) | Athus, Gouvy (fr), Sterpenich (fr) |
-| Allemagne (DB) | Aachen Süd (Gr) |
-| Pays-Bas (NS) | Roosendaal (fr), Visé (fr) |
-| France (SNCF) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+
+| Pays                                                     | Points frontières                                                   |
+| -------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
+| [Allemagne](/country/germany) ([DB](/operator/db))       | Aachen Süd (Gr)                                                     |
+| [Pays-Bas](/country/netherlands) ([NS](/operator/ns))    | Roosendaal (fr), Visé (fr)                                          |
+| [France](/country/france) ([SNCF](/operator/sncf))       | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+
 {{% /expander %}}
 
 ### Luxembourg
@@ -41,9 +47,21 @@ Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Brux
 
 ### Allemagne
 
-Depuis l’Allemagne, il est possible d’entrer sur le réseau SNCB via l’ `ICE` (Francfort / Cologne / Aix-la-Chapelle) ou un train régional SNCB entre Aix-la-Chapelle et Liège. Dans les deux cas, un Billet FIP DB est nécessaire pour la section allemande.
+#### Grande vitesse
+
+Depuis l’Allemagne, il est possible d’emprunter l’`ICE` transfrontalier depuis Francfort, Cologne et Aix-la-Chapelle pour rejoindre Bruxelles. À partir de juin 2026, une liaison en week-end entre Cologne et Oostende sera également proposée. [^1] À partir de septembre 2026, une connexion directe entre Cologne et Anvers via l’aéroport de Bruxelles-Zaventem sera introduite. [^2]
+
+Pour toutes les liaisons `ICE`, un billet pour la section allemande jusqu’à Aachen Süd(Gr) de la DB ainsi qu’un billet pour la section belge à partir de Aachen Süd(Gr) de la SNCB ou un Billet FIP 50 direct est nécessaire.
 
 L’Eurostar (anciennement Thalys) peut également être utilisé depuis l’Allemagne pour rejoindre la Belgique, mais nécessite un Billet FIP spécial Eurostar valable pour l’ensemble du trajet, y compris en Belgique. ([voir Eurostar](/operator/eurostar "Eurostar"))
+
+#### Régional
+
+Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
+
+{{% highlight tip %}}
+Nous recommandons d'interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
+{{% /highlight %}}
 
 ### Pays-Bas
 
@@ -58,3 +76,11 @@ Depuis la France, la SNCF exploite des trains internationaux `TGV` de Bruxelles 
 En alternative, des trains [Eurostar](/operator/eurostar "Eurostar") relient Paris à Bruxelles et peuvent aussi être utilisés avec des Billets FIP au Tarif Global, généralement à un prix inférieur à celui des trains `TGV`.
 
 Par ailleurs, plusieurs liaisons régionales `TER` existent entre la France et la Belgique, accessibles avec les titres FIP. Par exemple, entre Lille et Namur ou entre Lille et Anvers. Dans ce cas, les Billets FIP 50 classiques sont valables, ainsi que la combinaison d’un Coupon FIP de la SNCB et de la SNCF.
+
+## Sources
+
+[^1]: [DB Presse : ICE vers la côte de la mer du Nord belge](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Im-Sommer-mit-dem-ICE-erstmals-bis-an-die-belgische-Nordseekueste-13762752)
+
+[^2]: [DB Presse : ICE vers l’aéroport de Bruxelles](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)
+
+[^3]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)

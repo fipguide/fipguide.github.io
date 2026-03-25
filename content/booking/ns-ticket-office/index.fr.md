@@ -13,28 +13,40 @@ aliases:
   - ns_ticket_office
 ---
 
+Les Coupons FIP internationaux et les réservations ne peuvent être achetés que dans les gares avec guichet NS International. En date de février 2026, ce sont les guichets des gares suivantes :
+
+<!-- prettier-ignore -->
+- Amsterdam (entrée ouest du hall principal - Taxis)
+- Amsterdam (côté fleuve)
+- Arnhem Centraal
+- Rotterdam Centraal
+- Aéroport de Schiphol (hall principal)
+- Utrecht Centraal
+{.o-section--columns-3}
+
+Plus d’informations chez [NS International](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-Les Billets FIP 50 peuvent uniquement être achetés dans les gares disposant de guichets complets (dits « light »). En date de décembre 2023, ces gares sont :
+Les Billets FIP 50 pour les Pays-Bas peuvent être achetés aux guichets NS. En date de février 2026, ce sont les guichets des gares suivantes :
 
 <!-- prettier-ignore -->
-- Amsterdam Centraal
+- Amsterdam Centraal (entrée ouest du hall principal - Taxis)
+- Amsterdam Centraal (côté fleuve)
+- Aéroport de Schiphol
 - Amsterdam Sloterdijk
-- Amsterdam Zuid
-- Arnhem Centraal
+- Arnhem
 - Breda
-- Den Haag Centraal
-- Eindhoven Centraal
-- Enschede
-- Haarlem
+- La Haye Centraal
+- La Haye HS
+- Eindhoven Centraal (côté ville)
 - Leeuwarden
 - Leiden Centraal
 - Maastricht
 - Rotterdam Centraal
-- Aéroport de Schiphol
-- Utrecht Centraal
+- Utrecht Centraal (côté ville)
 - Zaandam
 - Zwolle
 {.o-section--columns-3}
@@ -45,5 +57,5 @@ Les Billets FIP 50 peuvent uniquement être achetés dans les gares disposant de
 
 ## Réservations
 
-Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des réservations internationales dans les gares avec guichet complet (« light »).
+Comme il n’est pas possible d’acheter de réservations pour les trains intérieurs aux Pays-Bas, la NS ne vend que des réservations internationales dans les gares avec guichet NS International.
 {{% /booking-section %}}

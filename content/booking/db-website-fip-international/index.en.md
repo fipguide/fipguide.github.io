@@ -34,7 +34,8 @@ FIP 50 Tickets can be purchased for the following countries, as long as a sectio
 - Belgium
 - Czech Republic
 - Denmark
-- France
+- France \
+  <small>only regional trains between Germany and France</small>
 - Germany
 - Italy \
   <small>only Brenner route with Austria and ECE Frankfurt – Milan</small>

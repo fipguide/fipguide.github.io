@@ -18,18 +18,20 @@
 
 ### Translations
 
-| Deutsch                      | Englisch                  | Französisch                         |
-| ---------------------------- | ------------------------- | ----------------------------------- |
-| FIP Freifahrtschein          | FIP Coupon                | Coupon FIP                          |
-| FIP Globalpreis              | FIP Global Fare           | Tarif Global FIP                    |
-| FIP 50 Ticket                | FIP 50 Ticket             | Billet FIP 50                       |
-| FIP Ausweis                  | FIP Card                  | Carte FIP                           |
-| <operator> Ticketschalter    | <operator> Ticket Office  | Guichet <operator>                  |
-| <operator> Website           | <operator> Website        | Site Web <operator>                 |
-| <operator> Telefon           | <operator> Telephone      | Téléphone <operator>                |
-| <operator> Fahrkartenautomat | <operator> Ticket Machine | Distributeurs de billets <operator> |
-| Grenzpunkt                   | Border Point              | Point frontière                     |
-| FIP Rabatt / FIP Ermäßigung  | FIP Discount              | Remise FIP / Réduction FIP          |
+| Deutsch                            | Englisch                  | Französisch                         |
+| ---------------------------------- | ------------------------- | ----------------------------------- |
+| FIP Freifahrtschein                | FIP Coupon                | Coupon FIP                          |
+| FIP Globalpreis                    | FIP Global Fare           | Tarif Global FIP                    |
+| FIP 50 Ticket                      | FIP 50 Ticket             | Billet FIP 50                       |
+| FIP Ausweis                        | FIP Card                  | Carte FIP                           |
+| <operator> Ticketschalter          | <operator> Ticket Office  | Guichet <operator>                  |
+| <operator> Website                 | <operator> Website        | Site Web <operator>                 |
+| <operator> Telefon                 | <operator> Telephone      | Téléphone <operator>                |
+| <operator> Fahrkartenautomat       | <operator> Ticket Machine | Distributeurs de billets <operator> |
+| Grenzpunkt                         | Border Point              | Point frontière                     |
+| FIP Rabatt / FIP Ermäßigung        | FIP Discount              | Remise FIP / Réduction FIP          |
+| FIP Freifahrtschein für Angehörige | FIP Coupon for relatives  | Coupon FIP pour les ayants droit    |
+| SBB                                | SBB                       | CFF                                 |
 
 #### Headlines
 
@@ -62,7 +64,7 @@ Use these exact translations for headlines on the pages:
 - `hugo --gc --minify`: Build for production
 - `npx prettier --write .`: Format code
 - `npx pagefind --site public`: Generate search index
-- `pre-commit run --all-files`: Run all pre-commit checks
+- `prek run -a`: Run all prek checks
 
 ### Code Style & Conventions
 
@@ -84,7 +86,7 @@ Use these exact translations for headlines on the pages:
 
 ## Quality Standards
 
-- All commits MUST pass the pre-commit hooks defined in `.pre-commit-config.yaml`
+- All commits MUST pass the prek hooks defined in `.prek-config.yaml`
 - HTML templates must be valid Go template syntax
 - Do NOT add any comments to the code
 - NEVER create markdown files outside the content directory

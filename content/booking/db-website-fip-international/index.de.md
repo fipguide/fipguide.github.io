@@ -33,7 +33,8 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 - Belgien
 - Dänemark
 - Deutschland
-- Frankreich
+- Frankreich \
+  <small>Nur Regionalzüge zwischen Deutschland und Frankreich</small>
 - Italien \
   <small>Nur Brennerverkehr mit Österreich und ECE Frankfurt – Mailand</small>
 - Luxemburg

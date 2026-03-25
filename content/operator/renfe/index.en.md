@@ -18,10 +18,9 @@ Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "S
 
 ## Validity of FIP Tickets
 
-FIP free ticket: ✅ (exceptions: trains requiring reservations) \
-FIP Coupons for relatives: ⛔ \
-FIP 50 Tickets: ✅ (exceptions: trains requiring reservations) \
-FIP Global Fare: ✅ for trains subject to reservation except Avlo
+{{< fip-validity type="fip-coupon" status="valid" text="Exceptions: trains requiring reservations" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" text="Exceptions: trains requiring reservations" >}}
+{{< fip-validity type="fip-global-fare" status="valid" text="For trains subject to reservation except Avlo" disable_dialog=true >}}
 
 ## Train Categories and Reservations
 
@@ -31,93 +30,157 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 ### Long distance
 
-{{% expander "AVE ⚠️" traincategory "long-distance" %}}
-**Description:** \
+{{% train-category
+    id="ave"
+    title="AVE"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
 Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
 
 International connections from / to France can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet.
 
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
 **FIP Global Fare (regardless of distance):**
 
-- 10€ (Elige Estándar)
-- 13€ (Elige Confort)
-- 23,50€ (Premium)
-  {{% /expander %}}
+- € 10 (Elige Estándar)
+- € 13 (Elige Confort)
+- € 23,50 (Premium)
 
-{{% expander "Avlo ⛔⚠️" traincategory "long-distance" %}}
-**Description:** \
-Low-cost high-speed trains (up to 300 km/h). \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP:** ⛔ FIP is not accepted
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Euromed ⚠️" traincategory "long-distance" %}}
-**Description:** \
-High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
+{{% train-category
+    id="avlo"
+    title="Avlo"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Low-cost high-speed trains (up to 300 km/h).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="euromed"
+    title="Euromed"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are not accepted.
+
 **FIP Global Fare (regardless of distance):**
 
-- 6,50€ (Elige Estándar)
-- 10€ (Elige Confort)
-- 23,50€ (Premium)
-  {{% /expander %}}
+- € 6,50 (Elige Estándar)
+- € 10 (Elige Confort)
+- € 23,50 (Premium)
 
-{{% expander "Alvia ⚠️" traincategory "long-distance" %}}
-**Description:** \
-High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
+{{% /train-category %}}
+
+{{% train-category
+    id="alvia"
+    title="Alvia"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted.
+
 **FIP Global Fare (regardless of distance):**
 
-- 6,50€ (Elige Estándar)
-- 10€ (Elige Confort)
-  {{% /expander %}}
+- € 6,50 (Elige Estándar)
+- € 10 (Elige Confort)
 
-{{% expander "Intercity (IC) ⚠️" traincategory "long-distance" %}}
-**Description:** \
-Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
+{{% /train-category %}}
+
+{{% train-category
+    id="ic"
+    title="Intercity (IC)"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted.
+
 **FIP Global Fare (regardless of distance):**
 
-- 6,50€ (Elige Estándar)
-- 10€ (Elige Confort)
-  {{% /expander %}}
+- € 6,50 (Elige Estándar)
+- € 10 (Elige Confort)
 
-{{% expander "Celta: Porto - Vigo ⚠️" traincategory "long-distance" %}}
-**Description:** \
-The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (regardless of distance):** 4€
-{{% /expander %}}
+{{% /train-category %}}
+
+{{% train-category
+    id="celta"
+    title="Celta: Porto – Vigo"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+The Celta is an international cooperation train between Renfe and the Portuguese CP from Porto to Vigo. FIP Coupons are not accepted.
+
+**FIP Global Fare (regardless of distance):** € 4
+
+{{% /train-category %}}
 
 ### Middle distance
 
-{{% expander "Avant ⚠️" traincategory "middle-distance" %}}
-**Description:** \
-High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare (regardless of distance):** 4€
-{{% /expander %}}
+{{% train-category
+    id="avant"
+    title="Avant"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-{{% expander "MD ⚠️" traincategory "middle-distance" %}}
-**Description:** \
-Accelerated regional transport. FIP Coupons are only accepted on trains that do not require reservations. Currently, this is only the case on the Barcelona (Girona-Figueres)-Port Bou route. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes (exception: Barcelona(-Girona-Figueres)-Port Bou route[^1]) \
-**FIP Global Fare (regardless of distance):** 4€
-{{% /expander %}}
+High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted.
+
+**FIP Global Fare (regardless of distance):** € 4
+
+{{% /train-category %}}
+
+{{% train-category
+    id="md"
+    title="MD"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Accelerated regional transport. FIP Coupons are only accepted on trains that do not require reservations. Currently, this is only the case on the Barcelona (Girona-Figueres)-Port Bou route.
+
+**FIP Global Fare (regardless of distance):** € 4
+
+#### Reservation
+
+Reservations are required, except on the Barcelona(-Girona-Figueres)-Port Bou route[^1].
+
+{{% /train-category %}}
 
 ### Local transportation
 
-{{% expander "Cercanías / Rodalia / Aldiriak" traincategory "local-transportation" %}}
-**Description:** \
+{{% train-category
+    id="regional"
+    title="Cercanías / Rodalia / Aldiriak"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
 
 - Cercanías Asturias
@@ -133,9 +196,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 - Cercanías Zaragoza
 - Rodalies de Catalunya
 
-**Reservation possible:** no \
-**Reservation required:** no
-{{% /expander %}}
+{{% /train-category %}}
 
 ## Class Categories
 
@@ -149,7 +210,7 @@ Commuter trains, comparable to suburban trains. FIP Coupons are valid without re
 
 It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
-### By telephone
+### Telephone
 
 It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hotline asks you to use the on-site ticket counters.
 

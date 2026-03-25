@@ -4,8 +4,10 @@ draft: false
 title: "Mise à jour : Augmentation des prix Eurostar"
 description: "À partir du 1er mai 2025, Eurostar augmente les prix des Billets FIP de 5 €/£5. On ne sait pas si le changement est permanent – restez informé."
 country:
-  - belgique
-  - pays-bas
+  - belgium
+  - netherlands
+  - france
+  - united-kingdom
 operator:
   - eurostar
 ---

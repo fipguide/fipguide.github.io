@@ -18,6 +18,8 @@ In France, almost the entire rail network can be used with FIP, as most trains a
 
 On international routes, [Eurostar](/operator/eurostar "Eurostar") trains to the UK, Belgium, the Netherlands, and Germany can be used with special FIP Global Fares. International `TGV` trains also offer Global Fares (except to Germany). Additionally, FIP Global Gare tickets can be used on AVE trains operated by Spanish Renfe to Spain. Frecciarossa trains from [Trenitalia](/operator/fs "Trenitalia") to Italy cannot be used with FIP in France.
 
+{{< identify-operator sources="sncf-connect,db-website" />}}
+
 ## Interesting
 
 France has a well-developed rail network, especially known for its fast and frequent TGV connections between Paris and other major cities. The network is strongly centered on Paris, so many connections pass through the capital. When changing trains in Paris, allow enough time, as you often need to change stations via the Metro (FIP is not valid here). Also, on long-distance trains, doors usually close two minutes before departure for punctuality.
@@ -31,15 +33,17 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
-| Luxembourg (CFL) | Bettembourg (fr), Rodange (fr) |
-| Germany (DB) | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr) |
-| Eurostar (EIL) | Paris, Lille |
-| Italy (FS) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Spain (Renfe) | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg |
-| Switzerland (SBB, BLS and SP) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| Belgium (SNCB) | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
+
+| Country                                                                                | Border Points                                                                                                                                 |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                               | Bettembourg (fr), Rodange (fr)                                                                                                                |
+| [Germany](/country/germany) ([DB](/operator/db))                                       | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                    |
+| [Eurostar](/operator/eurostar)                                                         | Paris, Lille                                                                                                                                  |
+| [Italy](/country/italy) ([FS](/operator/fs))                                           | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                     |
+| [Spain](/country/spain) ([Renfe](/operator/renfe))                                     | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                               |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS and [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                                   | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
+
 {{% /expander %}}
 
 ### United Kingdom
@@ -65,13 +69,13 @@ Travel within Luxembourg is free in 2nd class, so a CFL Coupon is not strictly n
 
 ### Germany
 
-Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
+Between Germany and France, SNCF and Deutsche Bahn operate joint long-distance trains as `TGV` or `ICE` services from Paris to Munich and Strasbourg or Karlsruhe/Saarbrücken, Mannheim, and Frankfurt. In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservations are only required within France. In Germany, the trains can be used without reservation. Since the reservation requirement starts at the border point Kehl (Gr), reservations are also mandatory for journeys between Germany and Strasbourg. These cross-border FIP tickets can also be purchased online by Deutsche Bahn employees; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
 
 {{% highlight tip %}}
-A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4 from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket (DB employee discounts only apply with NE tickets) is. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
+A cheap option for travel from Germany to Strasbourg is the Ortenau S-Bahn line RS4, operated by SWEG Südwestdeutsche Landesverkehrs-GmbH, from Offenburg to Kehl. FIP is not valid here, but the Deutschlandticket and national DB employee discounts[^3] (TagesTicket M Fern F, DB Job-Ticket M, Netzcard + NE supplementary ticket) are. From Kehl, the tram to Strasbourg runs, for which a cheap tram ticket is required.
 {{% /highlight %}}
 
-There are also various regional train connections from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid. FIP 50 Tickets for these connections can be purchased online; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
+There are also various regional train connections operated by DB and SNCF from Germany to France that can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from DB are valid in Germany, and from the border point, FIP Coupons from SNCF are valid. FIP 50 Tickets for these connections can be purchased online; see [Booking options – Online](/operator/sncf#online "Booking options - Online").
 
 {{% highlight tip %}}
 The Deutschlandticket, a cheap option for regional travel in Germany, is also valid without an additional ticket on regional train connections from Germany to Lauterbourg and Wissembourg or with the Saarbahn to Sarreguemines.
@@ -114,3 +118,5 @@ There are no border points between the two countries for fare purposes, as Monac
 [^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

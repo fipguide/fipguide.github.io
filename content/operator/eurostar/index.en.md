@@ -19,10 +19,9 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ⛔ \
-FIP Coupon for relatives: ⛔ \
-FIP 50 Tickets: ⛔ \
-FIP Global Fare: ✅
+{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
 
@@ -32,38 +31,59 @@ The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. 
 All trains require reservations, and a train-specific ticket must be purchased at the FIP Global Fare before departure.
 {{% /highlight %}}
 
-{{% expander "Eurostar (Blue): London - Paris / Brussels / Amsterdam ⚠️" traincategory category %}}
-**Description:** \
-High-speed train between Great Britain and Europe \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare:**
-| Route | Standard | Plus |
-| ----------- | -------- | ---- |
-| London - Paris / Brussels | 39 € / 34.50 £ | 60 € / 52.50 £ |
-| London - Amsterdam / Rotterdam | 51 € / 44.50 £ | 71 € / 62 £ |
-{{% /expander %}}
+{{% train-category
+    id="eurostar-blue"
+    title="Eurostar (Blue): London – Paris / Brussels / Amsterdam"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-{{% expander "Eurostar (Red): Paris - Amsterdam / Brussels / Cologne / Dortmund ⚠️" traincategory category %}}
-**Description:** \
-High-speed train between Belgium, Germany, France, and the Netherlands \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP Global Fare:**
-| Route | Standard | Plus |
-| ----------- | -------- | ---- |
-| Travel within one country | No FIP | No FIP |
-| Travel between 2 countries | 18 € | 35 € |
-| Travel between 3 countries | 20 € | 40 € |
-{{% /expander %}}
+High-speed train between Great Britain and Europe.
 
-{{% expander "Eurostar Snow: Amsterdam / Brussels - French Alps ⛔⚠️" traincategory category %}}
-**Description:** \
-High-speed train from Amsterdam and Brussels to the French Alps. \
-**Reservation possible:** yes \
-**Reservation required:** ⚠️ yes \
-**FIP:** ⛔ FIP is not accepted
-{{% /expander %}}
+**FIP Global Fare:**
+
+| Route                          | Standard       | Plus           |
+| ------------------------------ | -------------- | -------------- |
+| London - Paris / Brussels      | € 39 / £ 34.50 | € 60 / £ 52.50 |
+| London - Amsterdam / Rotterdam | € 51 / £ 44.50 | € 71 / £ 62    |
+
+{{% /train-category %}}
+
+{{% train-category
+    id="eurostar-red"
+    title="Eurostar (Red): Paris – Amsterdam / Brussels / Cologne / Dortmund"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+High-speed train between Belgium, Germany, France, and the Netherlands.
+
+**FIP Global Fare:**
+
+| Route                      | Standard | Plus   |
+| -------------------------- | -------- | ------ |
+| Travel within one country  | No FIP   | No FIP |
+| Travel between 2 countries | € 18     | € 35   |
+| Travel between 3 countries | € 20     | € 40   |
+
+{{% /train-category %}}
+
+{{% train-category
+id="eurostar-snow"
+title="Eurostar Snow: Amsterdam / Brussels – French Alps"
+type="highspeed"
+fip_accepted=false
+reservation_required=true
+reservation_possible=true
+%}}
+
+High-speed train from Amsterdam and Brussels to the French Alps.
+
+{{% /train-category %}}
 
 {{% highlight tip %}}
 When booking, payment can sometimes be made in pounds or euros. Generally, euro prices are cheaper.
@@ -81,13 +101,11 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 ### Online
 
-Online booking of tickets is currently not possible. However, checking in, rebooking, canceling, and upgrading tickets is possible via the [Eurostar website](https://www.eurostar.com/).
+Online booking of tickets is currently not possible. However, checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations)
 
 If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
 {{% booking id="internationalrail-email" fip_50=nil /%}}
-
-{{% booking id="trainseurope-email" /%}}
 
 ### Phone
 
@@ -101,13 +119,28 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     fip_global_fare=true
 /%}}
 
-{{% booking id="trainseurope-phone" /%}}
+{{% booking id="ns-phone"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
 
 ### On-site
 
 {{% booking id="eurostar-ticket-office" /%}}
 
 {{% booking id="ns-ticket-office"
+    fip_50=nil
+    fip_global_fare=true
+    reservations=nil
+%}}
+
+#### FIP Global Fare
+
+When booking, the FIP Cards of all travelers must be presented.
+{{% /booking %}}
+
+{{% booking id="cfl-ticket-office"
     fip_50=nil
     fip_global_fare=true
     reservations=nil
@@ -128,13 +161,21 @@ Children up to and including 3 years old travel free of charge but without a gua
 
 ## Special Tariff Conditions
 
+### Rebookings & Cancellations
+
+FIP Tickets can be rebooked or canceled free of charge up to one hour before departure. After that, rebooking or cancellation is no longer possible.
+
+In general, rebooking is only possible to other available trains with remaining quotas, see also [Ticket Quotas](#ticket-quotas). When rebooking, upgrading from Eurostar Standard to Eurostar Plus by paying the difference is also possible. However, a downgrade from Eurostar Plus to Eurostar Standard will not be refunded.
+
+Upon cancellation, the full price of the FIP Tickets will be refunded. Any booking fees charged by external booking providers will not be refunded.
+
+Rebooking, canceling, and upgrading tickets is possible using the booking reference via the [Eurostar website](https://www.eurostar.com/customer-dashboard/en/get-booking).
+
 ### Ticket Quotas
 
 {{% highlight tip %}}
 All FIP fares are subject to quotas, so early booking is recommended.
 {{% /highlight %}}
-
-For Eurostar trains departing on Fridays, Saturdays, and Sundays between 5:30 PM and 7:00 PM, the FIP offer (1st Class and 2nd Class) is not available. [^2]
 
 Checking available ticket quotas is possible via the following websites:
 
@@ -147,21 +188,13 @@ Checking available ticket quotas is possible via the following websites:
 
 #### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
-{{% highlight tip %}}
-
 Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/en/am-i-eligible-for-hotnat/) can be used.
 
 If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
 
 HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
 
-{{% /highlight %}}
-
 #### London International CIV (Transfer in London)
-
-{{% highlight tip %}}
-
-**Explanation**
 
 To ensure a protected connection when transferring in London between a British train and Eurostar (or vice versa), you can book a ticket with the departure or arrival station _London International CIV_.
 
@@ -174,23 +207,21 @@ Tickets to London International are only available on certain, but most, routes.
 
 You can check ticket availability on [BR Fares](https://www.brfares.com/) by entering _(LNE) London International (CIV)_ as the station. The availability of these special protected connection tickets is indicated by a fare with _EURO_ in the name.
 
-**Connection Protection**
+##### Connection Protection
 
 Tickets to or from _London International CIV_ are subject to the International Conditions of Carriage (CIV, Convention Internationale pour le transport des Voyageurs) for the entire journey, not the UK National Rail Conditions of Travel.
 
 This ensures protection in case a British train is delayed and a Eurostar connection is missed. Eurostar is obliged to rebook you onto the next available train at no extra cost. Similarly, if Eurostar arrives late in London on your return and you miss your onward UK train, the British train company must allow you to continue your journey on the next available train—even if your ticket is train-specific.
 
-**London Underground**
+##### London Underground
 
 If you arrive at a different London terminus and need to use the Underground to reach St Pancras, tickets to London International include travel on the London Underground.
 
-**Ticket Purchase**
+##### Ticket Purchase
 
 FIP Tickets to London International CIV can likely only be purchased at ticket counters in stations in Great Britain.
 
 Without FIP discount, online booking is possible via [Trainsplit](https://trainsplit.com/). You must deselect the _Use Split Tickets_ option. Then, book a ticket from or to _London International (for Eurostar) (LNE)_. The fare must include _EURO_ in the name for connection protection. Otherwise, it is a regular ticket to London without connection protection. [^3]
-
-{{% /highlight %}}
 
 ## Sources
 

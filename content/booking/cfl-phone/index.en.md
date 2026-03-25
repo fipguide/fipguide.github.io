@@ -20,4 +20,4 @@ To authenticate FIP eligibility, a photo of the inside of the FIP Card for all t
 
 **CFL charges a booking fee of €5 per booking.**
 
-{{% satellite %}}
+{{% satellite /%}}

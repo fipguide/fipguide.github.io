@@ -33,10 +33,17 @@ operator: "{{ .File.ContentBaseName }}"
   Die Ticketkategorien können je nach Betreiber abweichen.
 -->
 
-FIP Freifahrtschein: <✅/⛔> \
-FIP Freifahrt Angehörige: <✅/⛔> \
-FIP 50 Tickets: <✅/⛔> \
-FIP Globalpreis: <✅/⛔>
+<!--
+  Verwende die folgenden Shortcodes, um die FIP-Gültigkeit anzuzeigen. Die folgenden Parameter können übergeben werden:
+  - `type`: fip-coupon, fip-reduced-ticket, fip-global-fare, additional
+  - `status`: valid, invalid, unknown
+  - `text`: Optionaler benutzerdefinierter Text zur Anzeige
+  - `disable_dialog`: true/false (Standard: false) - Auf true setzen, um den Dialog zu deaktivieren
+-->
+
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
   Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
@@ -48,7 +55,7 @@ FIP Globalpreis: <✅/⛔>
   Für jede Zugkategorie kann ein eigene Abschnitt nach dem folgenden Prinzip eingefügt werden. Folgende Parameter können übergeben werden:
   - `id`: Kleingeschriebene, mit Bindestrichen getrennte Abkürzung der Zugkategorie (z.B. "ice", "tgv-inoui")
   - `title`: Titel der Zugkategorie
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `sleeper` oder `ship`
+  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` oder `ship`
   - `fip_accepted`: true, false, partially
   - `reservation_required`: true, false, partially
   - `reservation_possible`: true, false, partially (default false, kann weggelassen werden, wenn  reservation_required true ist)

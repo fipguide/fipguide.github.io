@@ -39,9 +39,42 @@ country:
   many: Länder
   one: Land
   other: Länder
+dialog:
+  close: Schließen
+  open: Öffnet Dialog
 discord: FIP Guide Community
 donation: Spenden
 editPage: Seite bearbeiten
+fipValidity:
+  active: Aktive Mitarbeitende
+  active-relatives: Angehörige aktiver Mitarbeitender
+  additional: Sonstige
+  buttonLabel: Mehr Informationen zur FIP Gültigkeit anzeigen
+  fip-coupon: FIP Freifahrtschein
+  fip-coupon-description: >-
+    Wähle zunächst den Aussteller deines FIP Ausweises. Wenn du berechtigt bist,
+    dann kannst du die Freifahrtscheine über deinen Arbeitgeber beantragen.
+    Bitte beachte, dass wir bei der Ausgabe der Freifahrtscheine nicht
+    weiterhelfen können. Einen Überblick aller Freifahrtscheine erhältst du
+    [hier](/fip-validity).
+  fip-global-fare: FIP Globalpreis
+  fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP 50 / FIP 75)
+  fip-reduced-ticket-description: >-
+    Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als FIP
+    50 oder FIP 75 bekannt. Der Rabatt beläuft sich meistens auf 50%, teilweise
+    auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle zunächst den
+    Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
+    du [hier](/fip-validity).
+  issuer: Aussteller des FIP Ausweises
+  retired: Rentner:innen
+  retired-relatives: Angehörige von Rentner:innen
+  rules: Regeln
+  selectIssuer: 'FIP Ausweis Aussteller wählen:'
+  selectIssuerFirst: Bitte zuerst einen FIP Ausweis Aussteller auswählen.
+  selectIssuerPlaceholder: FIP Ausweis Aussteller wählen
+  unknown: Unbekannt
+  validity: Gültigkeit
+  widows: Witwen, Witwer und Waisen
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
@@ -52,6 +85,9 @@ highlight:
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
 home-page-text: FIP Guide Startseite
+identify-operator:
+  learn-more: Zur Website
+  title: Zugbetreiber identifizieren und Verbindungen suchen
 information-disclaimer-short: >-
   Diese Informationen sind inoffiziell und ohne Gewähr. Es besteht keine
   rechtliche Verbindung zu FIP oder Bahngesellschaften.
@@ -131,6 +167,20 @@ support:
     um Inhalte beizutragen. Alternativ kannst du uns auch über das
     [Kontaktformular](/contact) schreiben.
   title: Unterstütze uns
+teamMembers:
+  lennart:
+    name: Lennart Rommeiß
+    position: Cloud-Specialist @ DB Systel
+  linkedin: LinkedIn-Profil von {{ . }}
+  moritz:
+    name: Moritz Weber
+    position: Experte Digitalisierung Bahnbetrieb @ DB InfraGO
+  robert:
+    name: Robert Schuster
+    position: User Experience Consultant @ DB Systel
+  willy:
+    name: Willy Schreiter
+    position: 'Product Owner bei der #Einfachbahn @ DB InfraGO'
 toc_name: Inhalt
 trainCategory:
   acceptance:

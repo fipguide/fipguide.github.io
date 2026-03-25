@@ -9,7 +9,7 @@ operator: "stl"
 
 The company Stena Line operates various passenger and vehicle ferries. The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek van Holland ([Netherlands](/country/netherlands)) is referred to as Stena Line BV (StL) in the context of FIP.
 
-The ferry connections on the Irish Sea are operated as a separate FIP operator, Stena Line Limited (SLL).
+The ferry connections on the Irish Sea are operated as a separate FIP operator, [Stena Line Limited (SLL)](/operator/sll).
 
 ## Summary
 
@@ -19,11 +19,8 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
 
 ## Validity of FIP Tickets
 
-FIP Coupon: ✅ \
-FIP Coupon for relatives: ✅ \
-FIP 50 Tickets: ✅
-
-The FIP Coupon for StL covers, deviating from the standard, a maximum of two fields. [^1]
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Ship Categories and Reservations
 
@@ -139,9 +136,13 @@ As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10
 
 {{% /expander %}}
 
+### Online
+
+{{% booking id="stena-line-bv-email" /%}}
+
 ### Telephone
 
-{{% booking id="stena-line-phone" /%}}
+{{% booking id="stena-line-bv-phone" /%}}
 
 ### On-Site
 
@@ -153,7 +154,17 @@ Purchase on board the ships is not possible.
 
 Children up to 4 years travel free of charge, children aged 4 to 14 are entitled to a 50% discount on the adult fare, from 14 years they pay the adult fare. [^2]
 
+{{% highlight tip %}}
+Stena Line offers tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+
+[Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+{{% /highlight %}}
+
 ## Recommendations
+
+{{% highlight important %}}
+Please note that check-in is only possible up to 45 minutes before departure. Therefore, please allow sufficient time for your journey.
+{{% /highlight %}}
 
 Arrival at the station _Hoek van Holland Haven_ is usually via Metro Line B from Rotterdam and Schiedam.
 
@@ -171,8 +182,6 @@ Stena Line offers a great way to be in London before 10 am if you invest a littl
 {{% /highlight %}}
 
 ## Sources
-
-[^1]: DB Reisemarkt
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
 

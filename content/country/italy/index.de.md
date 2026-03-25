@@ -20,6 +20,8 @@ Züge im Nahverkehr werden in Italien größtenteils von der [Trenitalia](/opera
 
 Im Fernverkehr sind die Frecce-Züge der Trenitalia nur mit teuren Reservierungen (inkl. Aufschlag) nutzbar. Zusätzlich verkehren Züge des privaten Anbieters Italo, die nicht mit FIP nutzbar sind.
 
+{{< identify-operator sources="fs-website,db-website" />}}
+
 ## Wissenswertes
 
 Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die schnellen und hochwertigen Fernzugverbindungen. Dadurch sind Reisen zwischen Nord- und Süditalien in kurzer Zeit möglich. Abseits der Hochgeschwindigkeitsstrecken gibt es auch viele klassische und teilweise sehr schöne Regionalzugstrecken. Ein Beispiel dafür ist die Bahnstrecke durch Cinque Terre in Ligurien, in der in einer dichten Frequenz Züge in allen fünf Orten halten. Diese Bahnstrecke ist gleichzeitig die wichtigste Verbindung zwischen den sonst schwer erreichbaren Orten. Die Regionalzüge in Italien verkehren dabei jedoch nicht in einem klassischen Taktsystem, sondern meist in ungelmäßigen Abständen. Außerdem kann die Insel Sizilien mit Nacht- und InterCity-Zügen erreicht werden. Diese passieren dabei per Trenitalia-Fähre die Straße von Messina.
@@ -27,16 +29,18 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| Österreich (ÖBB) | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde |
-| Schweiz (SBB, BLS und SP) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| Frankreich (SNCF) | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr) |
-| Slowenien (SŽ) | Nova Gorica (fr), Villa Opicina (fr) |
-| Fähre (Attica) | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras] |
+
+| Land                                                                               | Grenzpunkte                                                                                         |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb))                             | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
+| Slowenien (SŽ)                                                                     | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Griechenland](/country/greece) ([Attica](/operator/attica))                       | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 
 \
 [>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
+
 {{% /expander %}}
 
 ### Slowenien
@@ -78,3 +82,7 @@ Zwischen Mailand und Paris fahren grenzüberschreitende Frecciarossa-Züge. Für
 Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, für diese müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf/#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge")
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
+
+### Griechenland
+
+Zwischen Italien und Griechenland können die Fährverbindungen von [Attica](/operator/attica) genutzt werden.

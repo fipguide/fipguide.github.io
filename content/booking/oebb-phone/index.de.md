@@ -25,6 +25,8 @@ Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
 Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
 {{% satellite %}}
+Da Satellite den Rufnummernbereich +43517 [sperrt](https://help.satellite.me/hc/de/articles/360000395345-Welche-L%C3%A4nder-sind-mit-satellite-erreichbar "Welche Länder sind mit satellite erreichbar?"), ist zunächst die Telefonzentrale der ÖBB unter [+43 (0) 1 930 000](tel:+431930000) zu wählen und anschließend nach einer Weiterleitung zur Telefonischen Buchung von Fahrkarten zu bitten.
+{{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
 

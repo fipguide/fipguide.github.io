@@ -2,12 +2,12 @@
   display: flow-root;
   margin-bottom: 1rem;
 
-  &--right > img {
+  &--right > figure {
     float: right;
     margin-left: 2rem;
   }
 
-  &--left > img {
+  &--left > figure {
     float: left;
     margin-right: 2rem;
   }

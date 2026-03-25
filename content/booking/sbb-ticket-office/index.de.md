@@ -20,7 +20,7 @@ aliases:
 
 ## FIP 50 Fahrkarten
 
-In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweitz und in viele europäischen Länder erworben werden.
+In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweiz und in viele europäischen Länder erworben werden.
 
 {{% /booking-section %}}
 

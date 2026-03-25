@@ -16,9 +16,8 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 
 ## Validité des Billets FIP
 
-Coupon FIP : ✅ \
-Coupon FIP accompagnant : ✅ \
-Billet FIP 50 : ✅
+{{< fip-validity type="fip-coupon" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les trains de la SNCB. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP des deux pays concernés sont nécessaires.
 
@@ -26,75 +25,129 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les trains de la SNCB. P
 
 En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains ICE transfrontaliers vers l’Allemagne, la réservation est possible et a été obligatoire en été 2024 (uniquement pour la partie transfrontalière).
 
-{{% expander "Intercity-Express (ICE)" traincategory category %}}
-**Description :** \
-Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main), mais peuvent aussi être utilisés avec des Billets FIP sans supplément en Belgique entre Bruxelles-Midi et Liège-Guillemins. \
-**Réservation possible :** oui \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="ice"
+  title="Intercity-Express (ICE)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=true
+%}}
 
-{{% expander "Intercity (IC)" traincategory category %}}
-**Description :** \
-Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main). Certains trains circulent également entre l’Allemagne et Anvers via l’aéroport de Bruxelles-Zaventem ou en été entre l’Allemagne et la côte belge. Tous les trains ICE peuvent également être utilisés en Belgique avec des Billets FIP sans supplément.
 
-{{% expander "Eurocity Direct (ECD) ⚠️" traincategory category %}}
-**Description :** \
-Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers. \
-[Plus d’informations](https://www.nsinternational.com/en/trains/eurocity) \
-**Réservation possible :** non \
-**Réservation obligatoire :** non \
-**Supplément :** ⚠️ \
-Entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3 € est requis pour les Billets FIP 50 et les Coupons FIP. \
-Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
-Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit (1,80 €) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). \
-Pour les Billets FIP 50, les prix peuvent varier selon la catégorie de train.
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Eurocity (EC)" traincategory category %}}
-**Description :** \
-Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires. \
-[Plus d’informations](https://www.nsinternational.com/en/trains/eurocity) \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="ic"
+  title="Intercity (IC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
 
-{{% expander "Train local ou Lokale trein (L)" traincategory category %}}
-**Description :** \
-Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement appelés `R` pour train régional dans les informations de correspondance. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts.
 
-{{% expander "Train S ou S-Trein (S)" traincategory category %}}
-**Description :** \
-Train suburbain dans les agglomérations d’Anvers, Bruxelles, Charleroi, Gand ou Liège. Ils relient les grandes villes aux banlieues et s’arrêtent généralement partout. Contrairement à d’autres pays, les trains S n’ont pas d’horaires plus denses que les autres catégories. Dans les informations de correspondance, ils sont parfois aussi regroupés sous `R` pour train régional. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% /train-category %}}
 
-{{% expander "Train d’heure de pointe ou Piekuurtrein (P)" traincategory category %}}
-**Description :** \
-Trains supplémentaires aux heures de pointe du lundi au vendredi matin et en fin d’après-midi, souvent simplement appelés `R` pour train régional dans les informations de correspondance. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% train-category
+  id="ecd"
+  title="Eurocity Direct (ECD)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+  additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
 
-{{% expander "Express (E/EXP/EXTRA)" traincategory category %}}
-**Description :** \
-Trains supplémentaires lors des périodes de forte affluence, notamment pendant l’été vers la côte belge. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+Train international entre Lelystad, Amsterdam et Bruxelles avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
-{{% expander "Tourist (T)" traincategory category %}}
-**Description :** \
-Trains supplémentaires vers certaines destinations touristiques, souvent simplement appelés `R` pour train régional. \
-**Réservation possible :** non \
-**Réservation obligatoire :** non
-{{% /expander %}}
+{{% highlight important %}}
+Pour les trajets aux Pays-Bas, des règles spéciales s'appliquent, voir [NS ECD](/operator/ns#ecd)
+{{% /highlight %}}
+
+![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
+{{% /train-category %}}
+
+{{% train-category
+  id="ec"
+  title="Eurocity (EC)"
+  type="highspeed"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+  additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
+%}}
+
+Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="l"
+  title="Train local oder Lokale trein (L)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement appelés `R` pour train régional dans les informations de correspondance.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="s"
+  title="Train S oder S-Trein (S)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Train suburbain dans les agglomérations d’Anvers, Bruxelles, Charleroi, Gand ou Liège. Ils relient les grandes villes aux banlieues et s’arrêtent généralement partout. Contrairement à d’autres pays, les trains S n’ont pas d’horaires plus denses que les autres catégories. Dans les informations de correspondance, ils sont parfois aussi regroupés sous `R` pour train régional.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="p"
+  title="Train d’heure de pointe oder Piekuurtrein (P)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains supplémentaires aux heures de pointe du lundi au vendredi matin et en fin d’après-midi, souvent simplement appelés `R` pour train régional dans les informations de correspondance.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="e"
+  title="Express (E/EXP/EXTRA)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains supplémentaires lors des périodes de forte affluence, notamment pendant l’été vers la côte belge.
+
+{{% /train-category %}}
+
+{{% train-category
+  id="t"
+  title="Tourist (T)"
+  type="regional"
+  fip_accepted=true
+  reservation_required=false
+  reservation_possible=false
+%}}
+
+Trains supplémentaires vers certaines destinations touristiques, souvent simplement appelés `R` pour train régional.
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
@@ -126,11 +179,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 ### À bord du train
 
-Si aucun guichet n’est disponible ou ouvert, un billet peut être acheté à bord du train auprès du contrôleur si celui-ci est abordé immédiatement. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé dans ce cas. [^2]
+Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans voyagent gratuitement dans les trains de la SNCB. Les enfants de 6 à 11 ans bénéficient d’une réduction de 50 % sur le tarif adulte, et à partir de 12 ans, ils paient le tarif adulte. S’ils sont éligibles FIP, ils ne paient également que la moitié du prix normal avec le Billet FIP 50. [^1]
+Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils sont accompagnés d’un adulte (une personne de 12 ans ou plus en possession d’un titre de transport valable) et n’ont pas besoin de billet. Si tous les enfants appartiennent au même ménage, plus de quatre enfants peuvent voyager gratuitement. Un document officiel valide (carte d’identité ou passeport) attestant l’âge de l’enfant est requis pour le voyage. Si un enfant voyage seul ou si la limite de quatre enfants gratuits par adulte est dépassée, un billet au tarif Youth doit être acheté, celui-ci étant 40 % moins cher que le tarif standard. Si les enfants sont éligibles FIP, ils bénéficient d’une réduction de 50 % sur le tarif standard avec le Billet FIP 50. [^3]
 
 ## Conditions tarifaires spéciales
 
@@ -149,3 +202,7 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 [^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
+
+[^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/products/child)
+
+[^4]: [Site Web SNCB](https://www.belgiantrain.be/en/products/supplements/onboard)

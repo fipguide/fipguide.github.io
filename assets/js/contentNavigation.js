@@ -19,6 +19,8 @@ const initAside = () => {
   let isClosed = true;
 
   const closeSheet = () => {
+    if (isClosed) return;
+
     isClosed = true;
     aside.classList.remove("o-aside--open");
     asideContent.removeAttribute("role");
@@ -107,10 +109,9 @@ const initAside = () => {
       wasMobile = true;
       closeSheet();
     }
-    if (!isMobile()) {
+    if (wasMobile && !isMobile()) {
       wasMobile = false;
-      closeOverlay();
-      aside.classList.remove("o-aside--open");
+      closeSheet();
     }
   };
 
