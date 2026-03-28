@@ -153,15 +153,19 @@ main {
 }
 
 figure {
-  border-radius: var(--border-radius-l);
   margin: 0;
-  overflow: hidden;
   display: flex;
   flex-direction: column;
 
   > img {
     width: 100%;
     height: auto;
+    border-radius: var(--border-radius-m);
+  }
+
+  &:has(> hr + figcaption) > img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
   }
 
   > hr {
@@ -172,6 +176,7 @@ figure {
     background-color: var(--bg-neutral);
     font-size: 0.9em;
     padding: 0.8rem;
+    border-radius: 0 0 var(--border-radius-m) var(--border-radius-m);
   }
 
   @media print {
