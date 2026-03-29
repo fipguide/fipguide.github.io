@@ -88,6 +88,19 @@ _anchors:
       fr: |
         **2 coupons**
         <small>Par an (sécurisés uniquement).</small>
+card-validity:
+  de: Der FIP Ausweis ist für eine feste Periode von zwei Jahren gültig.
+  en: The FIP Card is valid for a fixed period of two years.
+  fr: La Carte FIP est valable pour une période fixe de deux ans.
+general:
+  fip-coupon:
+    de: FIP Freifahrtscheine können über [diesen Link](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html) beantragt werden.
+    en: FIP Coupons can be requested via [this link](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html).
+    fr: Les Coupons FIP peuvent être demandés via [ce lien](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html).
+national-discounts:
+  de: Für nationale Fahrten können je nach Mitarbeitendenstatus verschiedene Vergünstigungen genutzt werden. Mehr Informationen sind [hier](https://www.raildeliverygroup.com/rst/) zu finden.
+  en: For domestic journeys, different discounts can be used depending on employee status. More information can be found [here](https://www.raildeliverygroup.com/rst/).
+  fr: Pour les trajets nationaux, différentes réductions peuvent être utilisées selon le statut d’employé. Plus d’informations sont disponibles [ici](https://www.raildeliverygroup.com/rst/).
 attica:
   fip-coupon:
     active: *coupon-not-available

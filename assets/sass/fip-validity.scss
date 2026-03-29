@@ -30,6 +30,7 @@
   &__table {
     table-layout: fixed;
     margin-left: 0;
+    margin-top: 1rem;
 
     @media (min-width: $breakpoint-lg) {
       table-layout: fixed;
