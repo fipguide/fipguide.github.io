@@ -19,13 +19,9 @@
 
 <div class="o-fip-validity__wrapper">
   <h2 id="general">{{ T "general" }}</h2>
+  <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
 
   {{- range $entryKey := slice "card-validity" "taxation" "national-discounts" -}}
-    <h3 id="{{ $entryKey }}">
-      {{ T (printf "fipValidity.%sHeading" $entryKey) }}
-    </h3>
-    <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
-
     {{- range $issuers -}}
       {{- $issuerSlug := .File.ContentBaseName -}}
       {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
@@ -37,6 +33,9 @@
 
 
       <div data-fip-issuer="{{ $issuerSlug }}" hidden>
+        <h3 id="{{ $entryKey }}">
+          {{ T (printf "fipValidity.%sHeading" $entryKey) }}
+        </h3>
         {{ $text | .Page.RenderString }}
       </div>
     {{- end -}}
@@ -45,10 +44,6 @@
 
 {{- range $type := slice "fip-coupon" "fip-reduced-ticket" -}}
   <div class="o-fip-validity__wrapper">
-    <h2 id="{{ $type }}">{{ T (printf "fipValidity.%s" $type) }}</h2>
-
-    <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
-
     {{- range $issuers -}}
       {{- $issuerSlug := .File.ContentBaseName -}}
       {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
@@ -72,6 +67,8 @@
         data-fip-type="{{ $type }}"
         hidden
       >
+        <h2 id="{{ $type }}">{{ T (printf "fipValidity.%s" $type) }}</h2>
+
         {{- if $generalText -}}
           <div class="o-fip-validity__general">
             {{ $generalText | $.Page.RenderString }}
