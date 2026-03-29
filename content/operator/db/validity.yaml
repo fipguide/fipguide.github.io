@@ -99,6 +99,20 @@ national-discounts:
     Les employés de Deutsche Bahn peuvent utiliser les réductions nationales pour voyager jusqu’au point tarifaire frontière. Pour cela, un Tagesticket M Fern (Billet Journalier M Longue Distance) ou une Netzcard (Carte Réseau) peuvent être utilisés. Ceux-ci sont valables sur tout le réseau et donc jusqu’au point tarifaire frontière vers les pays voisins.
 
     Dans certains cas, d’autres billets valables pour le segment entier offrent des alternatives moins chères au FIP. Ceux-ci comprennent (Super) Sparpreise Europa DB-PEP (uniquement en combinaison avec un voyageur avec FIP, voir conditions d’utilisation) ou les (Super) Sparpreise réguliers (tarifs de réduction). Plus d’informations peuvent être trouvées sur le DB Reisemarkt et le portail des employés DB.
+general:
+  fip-coupon:
+    de: |
+      Die Beantragung von FIP Freifahrtscheinen für DB Mitarbeitende muss mind. vier Wochen vor Gültigkeitsbeginn über das DB Personalportal beantragt werden.
+
+      Freifahrtscheine können mit 1 bis 4 Feldern beantragt werden. Wenn bereits ein Freifahrtschein mit weniger als vier Feldern im gleichen Jahr bentragt wurde, verfallen die weiteren Felder und können nicht erneut beantragt werden. Jedes Feld wird individuell versteuert. Mehr Informationen dazu unter [Versteuerung](/fip-validity#taxation).
+    en: |
+      FIP Coupon requests for DB employees must be submitted via the DB employee portal at least four weeks before the start of validity.
+
+      Coupons can be requested with 1 to 4 fields. If a coupon with fewer than four fields has already been requested in the same year, the remaining fields expire and cannot be requested again. Each field is taxed individually. More information is available under [Taxation](/fip-validity#taxation).
+    fr: |
+      Les demandes de Coupons FIP pour les employés DB doivent être soumises via le portail des employés DB au moins quatre semaines avant le début de validité.
+
+      Les Coupons peuvent être demandés avec 1 à 4 champs. Si un coupon avec moins de quatre champs a déjà été demandé la même année, les champs restants expirent et ne peuvent pas être redemandés. Chaque champ est imposé individuellement. Plus d’informations sous [Imposition](/fip-validity#taxation).
 sncf:
   fip-coupon:
     active: *coupon-4fields
