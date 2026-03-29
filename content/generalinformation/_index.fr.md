@@ -100,15 +100,9 @@ Pour certains trains, des tarifs spéciaux et des règles spéciales s’appliqu
 
 ### Réductions nationales (non-FIP)
 
-Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre propre entreprise ferroviaire. Par conséquent, un billet différent est nécessaire dans votre pays d’origine. Pour les employés des entreprises ferroviaires suivantes, nous avons ces informations disponibles :
+Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre propre entreprise ferroviaire. Par conséquent, un billet différent est nécessaire dans votre pays d’origine.
 
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
-
-Les employés de Deutsche Bahn peuvent utiliser les réductions nationales pour voyager jusqu’au [point tarifaire frontière](#points-frontières). Pour cela, un Tagesticket M Fern (Billet Journalier M Longue Distance) ou une Netzcard (Carte Réseau) peuvent être utilisés. Ceux-ci sont valables sur tout le réseau et donc jusqu’au point tarifaire frontière vers les pays voisins.
-
-Dans certains cas, d’autres billets valables pour le segment entier offrent des alternatives moins chères au FIP. Ceux-ci comprennent (Super) Sparpreise Europa DB-PEP (uniquement en combinaison avec un voyageur avec FIP, voir conditions d’utilisation) ou les (Super) Sparpreise réguliers (tarifs de réduction). Plus d’informations peuvent être trouvées sur le DB Reisemarkt et le portail des employés DB.
-
-{{% /expander %}}
+Vous trouverez plus d’informations dans la [Vue d’ensemble des informations d’émission FIP](/fip-validity).
 
 ## Points frontières
 
@@ -147,19 +141,9 @@ J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort 
 
 ## Imposition
 
-Pour les employés dans certains pays, une imposition supplémentaire des réductions FIP est nécessaire, ce qui entraîne des coûts supplémentaires. Pour les pays suivants, nous avons des informations disponibles :
+Pour les employés dans certains pays, une imposition supplémentaire des réductions FIP est nécessaire, ce qui entraîne des coûts supplémentaires.
 
-{{% expander "Allemagne" info "tax" %}}
-
-Les Coupons FIP pour les employés en Allemagne sont considérés comme une _réduction non monétaire_ assujettie à l’article 8 de la Loi de l’impôt sur le revenu allemand (EStG). Les Coupons FIP sont donc assujettis à l’impôt sur le revenu et aux cotisations de sécurité sociale.
-
-La valeur évaluée varie selon la longueur du réseau qui peut être couverte avec le coupon respectif et est mise à jour annuellement. Une liste des montants actuels est disponible sur le marché des voyages DB ou le portail des employés DB.
-
-Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse un certain seuil (50 € en 2025), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
-
-Les Coupons FIP et les réductions FIP de voyage nationales des ayants droit sont comptabilisés auprès de l’employé.
-
-{{% /expander %}}
+Vous trouverez plus d’informations dans la [Vue d’ensemble des informations d’émission FIP](/fip-validity).
 
 ## FAQ
 

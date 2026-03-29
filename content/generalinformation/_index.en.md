@@ -100,15 +100,9 @@ For some trains, special fares and rules apply. These cannot be used with either
 
 ### National Discounts (Non-FIP)
 
-FIP discounts never apply on trains operated by your own railway company. Therefore, a different ticket is needed within your home country. For employees of the following railway companies, we have this information available:
+FIP discounts never apply on trains operated by your own railway company. Therefore, a different ticket is needed within your home country.
 
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
-
-Employees of Deutsche Bahn can use national discounts for travel up to the [border tariff point](#border-points). For this, a Tagesticket M Fern (Day Ticket M Long Distance) or a Netzcard (Network Card) can be used. These are valid on the entire network and thus up to the border tariff point to neighboring countries.
-
-In some cases, other tickets valid for the entire segment offer cheaper alternatives to FIP. These include (Super) Sparpreise Europa DB-PEP (only in combination with a traveler with FIP, see terms of use) or regular (Super) Sparpreise (savings fares). More information can be found in the DB Reisemarkt and DB employee portal.
-
-{{% /expander %}}
+More information is available in the [FIP Issuer Information Overview](/fip-validity).
 
 ## Border Points
 
@@ -147,19 +141,9 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 
 ## Taxation
 
-For employees in some countries, additional taxation of FIP discounts is necessary, which incurs additional costs. For the following countries, we have information available:
+For employees in some countries, additional taxation of FIP discounts is necessary, which incurs additional costs.
 
-{{% expander "Germany" info "tax" %}}
-
-FIP Coupons for employees in Germany are considered _non-monetary compensation_ subject to § 8 of the German Income Tax Act (EStG). FIP Coupons are therefore subject to income tax and social security contributions.
-
-The assessed value differs depending on the network length that can be covered with the respective coupon and is updated annually. A list of the current amounts is available in the DB Reisemarkt or DB employee portal.
-
-Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds a certain threshold (€50 in 2025), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
-
-FIP Coupons and national travel discounts of dependents are counted toward the employee.
-
-{{% /expander %}}
+More information is available in the [FIP Issuer Information Overview](/fip-validity).
 
 ## FAQ
 

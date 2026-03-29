@@ -17,25 +17,29 @@
   }}
 </div>
 
-<h2>{{ T "fipValidity.cardValidityHeading" }}</h2>
-<p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+<h2>{{ T "general" }}</h2>
 
-<div class="o-fip-validity__wrapper">
-  {{- range $issuers -}}
-    {{- $issuerSlug := .File.ContentBaseName -}}
-    {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
-    {{- $cardValidity := index $validity "card-validity" -}}
-    {{- $text := T "fipValidity.cardValidityMissingInfo" -}}
-    {{- if $cardValidity -}}
-      {{- $text = index $cardValidity $lang -}}
+{{- range $entryKey := slice "card-validity" "taxation" "national-discounts" -}}
+  <h3>{{ T (printf "fipValidity.%sHeading" $entryKey) }}</h3>
+  <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+
+  <div class="o-fip-validity__wrapper">
+    {{- range $issuers -}}
+      {{- $issuerSlug := .File.ContentBaseName -}}
+      {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}
+      {{- $entry := index $validity $entryKey -}}
+      {{- $text := T (printf "fipValidity.%sMissingInfo" $entryKey) -}}
+      {{- if $entry -}}
+        {{- $text = index $entry $lang -}}
+      {{- end -}}
+
+
+      <div data-fip-issuer="{{ $issuerSlug }}" hidden>
+        {{ $text | .Page.RenderString }}
+      </div>
     {{- end -}}
-
-
-    <div data-fip-issuer="{{ $issuerSlug }}" hidden>
-      {{ $text | .Page.RenderString }}
-    </div>
-  {{- end -}}
-</div>
+  </div>
+{{- end -}}
 
 {{- range $type := slice "fip-coupon" "fip-reduced-ticket" -}}
   <div class="o-fip-validity__wrapper">
