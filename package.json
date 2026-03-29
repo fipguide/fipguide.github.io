@@ -17,9 +17,9 @@
   "homepage": "https://github.com/fipguide/fipguide.github.io#readme",
   "description": "",
   "dependencies": {
-    "@fontsource/material-symbols-rounded": "^5.2.33",
     "@fontsource/roboto": "^5.2.9",
     "@fontsource/sansita": "^5.2.8",
+    "@material-symbols/svg-700": "^0.43.0",
     "@panzoom/panzoom": "^4.6.1",
     "pagefind": "^1.4.0"
   },
