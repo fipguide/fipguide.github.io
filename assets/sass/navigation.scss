@@ -233,6 +233,10 @@ menu > li > menu {
   &:hover {
     color: var(--link-hovered);
   }
+
+  > .a-icon {
+    font-size: 1.15em;
+  }
 }
 
 body:has(.o-header__nav--open) {
