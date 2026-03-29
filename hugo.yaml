@@ -30,6 +30,8 @@ module:
       target: "static"
     - source: "node_modules/@fontsource"
       target: "static/css/@fontsource"
+    - source: "node_modules/@material-symbols/svg-700/rounded"
+      target: "static/icons/material-symbols-rounded"
 
 related:
   includeNewer: true

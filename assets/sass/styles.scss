@@ -79,12 +79,12 @@ a,
     text-decoration: none;
     color: var(--bs-body-color);
 
-    > .material-symbols-rounded {
+    > .a-icon {
       display: none;
     }
   }
 
-  & > .material-symbols-rounded {
+  & > .a-icon {
     margin: 0 0.2rem;
   }
 }
@@ -439,7 +439,7 @@ details > summary {
 
 .o-link__mail,
 .o-link__tel {
-  & > .material-symbols-rounded {
+  & > .a-icon {
     margin-right: 0.4rem;
   }
 }
