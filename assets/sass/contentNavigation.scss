@@ -33,6 +33,10 @@
   @media print {
     display: none;
   }
+
+  .a-icon {
+    font-size: 1.2em;
+  }
 }
 
 .o-aside__header {
@@ -51,7 +55,7 @@
 
   > .a-icon {
     align-self: flex-start;
-    margin-top: 0.1rem;
+    margin-top: 0.3rem;
   }
 }
 
@@ -108,19 +112,22 @@
     padding-left: 0;
   }
 
-  &-date {
-    padding-left: 2.5rem;
+  &__date {
+    margin-left: 2.5rem;
+    position: relative;
+    top: -0.2rem;
   }
 
   p {
     margin-bottom: 0;
   }
-}
 
-.o-related__item figure {
-  border-radius: var(--border-radius-s);
+  &__item {
+    figure {
+      border-radius: var(--border-radius-s);
+    }
+  }
 }
-
 @media (max-width: #{$breakpoint-lg}) {
   .o-aside {
     position: fixed;
