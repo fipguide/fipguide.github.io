@@ -34,6 +34,8 @@ Une fois les billets ou réservations confirmés, une PNR (confirmation de rése
 {{% highlight tip %}}
 Pour éviter les temps d’attente, il est possible de prendre un rendez-vous de rappel sur le [site web de la SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). Le nom et l’adresse e-mail peuvent être indiqués à l’avance, il n’est donc plus nécessaire de les dicter au téléphone. Il est également possible d’indiquer la liaison souhaitée et la réduction FIP dans la case de texte libre.
 
+Le service de rappel ne fonctionne qu’avec des numéros de téléphone français ou des numéros fixes étrangers. Les numéros de portables étrangers ne fonctionnent pas.
+
 La SNCF connaît parfois ces billets sous les noms suivants : \
 _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF

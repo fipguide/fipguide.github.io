@@ -34,6 +34,8 @@ Once tickets or reservations are confirmed, a PNR (booking confirmation) and the
 {{% highlight tip %}}
 To avoid waiting times, you can schedule a callback appointment on the [SNCF website](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). You can provide your name and email address in advance, so you do not need to spell them over the phone. You can also specify your desired connection and indicate the FIP discount in the free text field.
 
+The callback service only works with French phone numbers or foreign landline numbers. Foreign mobile numbers do not work.
+
 SNCF sometimes refers to these as: \
 _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
