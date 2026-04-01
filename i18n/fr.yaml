@@ -73,6 +73,9 @@ fipValidity:
   national-discountsMissingInfo: >-
     Nous ne disposons actuellement d’aucune information sur les réductions
     nationales.
+  noIssuers: >-
+    Malheureusement, aucune information n'est encore disponible pour l'opérateur
+    actuel.
   retired: Retraités
   retired-relatives: Ayants droit des retraités
   rules: Règles

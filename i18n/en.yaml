@@ -67,6 +67,7 @@ fipValidity:
   issuer: FIP Card Issuer
   national-discountsHeading: National Discounts (Non-FIP)
   national-discountsMissingInfo: We currently do not have information on national discounts.
+  noIssuers: Unfortunately, no information is available yet for the current operator.
   retired: Retirees
   retired-relatives: Relatives of Retirees
   rules: Rules

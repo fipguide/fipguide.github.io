@@ -70,6 +70,7 @@ fipValidity:
   issuer: Aussteller des FIP Ausweises
   national-discountsHeading: Nationale Vergünstigungen (kein FIP)
   national-discountsMissingInfo: Derzeit liegen uns keine Informationen zu nationalen Vergünstigungen vor.
+  noIssuers: Für den aktuellen Betreiber sind leider noch keine Informationen verfügbar.
   retired: Rentner:innen
   retired-relatives: Angehörige von Rentner:innen
   rules: Regeln
