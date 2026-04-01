@@ -1,5 +1,5 @@
 ---
-date: "2026-03-21"
+date: "2026-04-01"
 draft: false
 title: "L'opérateur polonais Koleje Małopolskie est le plus récent membre FIP"
 description: "Les Koleje Małopolskie (KMŁ) sont le plus récent membre FIP depuis le 1er avril 2026, élargissant ainsi la validité de la FIP en Pologne. Tous les détails ne sont pas encore connus."
