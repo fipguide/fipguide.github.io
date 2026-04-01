@@ -1,7 +1,7 @@
 function initHighlightHeadline() {
   const headings = Array.from(
     document.querySelectorAll(".o-single__highlight :is(h1, h2, h3)"),
-  );
+  ).filter((heading) => !heading.closest("dialog"));
   const windowPath = window.location.pathname;
   if (headings.length === 0) {
     return;
