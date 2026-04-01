@@ -32,7 +32,7 @@ To use FIP discounts, you need a valid International Discount Card for Railway S
 
 The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from December 1st of the previous year) and up to one month after the last year of validity (until January 31th of the following year).
 
-You can find out the validity period of your FIP Card on our [overview page](/fip-validity/).
+You can find out the validity period of your FIP Card on our [overview page for FIP validity](/fip-validity/).
 
 Some railway companies also allow employees to obtain FIP Cards for their dependents, allowing them to purchase FIP 50 Tickets.
 
@@ -102,7 +102,7 @@ For some trains, special fares and rules apply. These cannot be used with either
 
 FIP discounts never apply on trains operated by your own railway company. Therefore, a different ticket is needed within your home country.
 
-More information is available in the [FIP Issuer Information Overview](/fip-validity).
+More information is available in the [Information Overview for FIP Issuer](/fip-validity).
 
 ## Border Points
 
@@ -143,7 +143,7 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 
 For employees in some countries, additional taxation of FIP discounts is necessary, which incurs additional costs.
 
-More information is available in the [FIP Issuer Information Overview](/fip-validity).
+More information is available in the [Information Overview for FIP Issuer](/fip-validity).
 
 ## FAQ
 

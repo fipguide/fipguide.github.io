@@ -32,7 +32,7 @@ Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermä
 
 Der FIP Ausweis hat je nach eigener Bahngesellschaft eine unterschiedliche Gültigkeitsdauer. Der FIP Ausweis gilt bereits einen Monat vor dem aufgedruckten ersten Gültigkeitsjahr (01.12. des Vorjahres) sowie einen Monat nach dem letzten Gültigkeitsjahr (31.01 des Folgejahres).
 
-Die Gültigkeitsdauer deines FIP Ausweises kannst du auf unserer [Übersichtlichkeitsseite](/fip-validity/) herausfinden.
+Die Gültigkeitsdauer deines FIP Ausweises kannst du auf unserer [Übersichtsseite zur FIP Gültigkeit](/fip-validity/) herausfinden.
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
@@ -102,7 +102,7 @@ Für einige Züge existieren spezielle Preise und Sonderregeln. Diese sind weder
 
 FIP Vergünstigungen gelten nicht in Zügen der eigenen Bahngesellschaft. Daher wird innerhalb des Heimatlandes ein anderes Ticket benötigt.
 
-Weitere Informationen findest du in der [FIP Ausstellungsinformationen Übersicht](/fip-validity).
+Weitere Informationen findest du in der [Übersicht der FIP Ausstellungsinformationen](/fip-validity).
 
 ## Grenzpunkte
 
@@ -143,7 +143,7 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 
 Für Mitarbeitende einiger Länder ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursacht.
 
-Weitere Informationen findest du in der [FIP Ausstellungsinformationen Übersicht](/fip-validity).
+Weitere Informationen findest du in der [Übersicht der FIP Ausstellungsinformationen](/fip-validity).
 
 ## FAQ
 
