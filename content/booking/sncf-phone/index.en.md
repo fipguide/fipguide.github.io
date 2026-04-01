@@ -36,7 +36,7 @@ To avoid waiting times, you can schedule a callback appointment on the [SNCF web
 
 The callback service only works with French phone numbers or foreign landline numbers. Foreign mobile numbers do not work.
 
-SNCF sometimes refers to these as: \
+SNCF sometimes refers to FIP discounts as: \
 _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
 {{% /highlight %}}

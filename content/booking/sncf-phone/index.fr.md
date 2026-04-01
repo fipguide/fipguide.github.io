@@ -36,7 +36,7 @@ Pour éviter les temps d’attente, il est possible de prendre un rendez-vous de
 
 Le service de rappel ne fonctionne qu’avec des numéros de téléphone français ou des numéros fixes étrangers. Les numéros de portables étrangers ne fonctionnent pas.
 
-La SNCF connaît parfois ces billets sous les noms suivants : \
+La SNCF connaît parfois les billets FIP sous les noms suivants : \
 _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 {{% /highlight %}}
