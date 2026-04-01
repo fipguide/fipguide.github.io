@@ -8,6 +8,7 @@ booking:
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
+  fip-75: Billets FIP 75
   fip-global-fare: Tarif Global FIP
   not-bookable: non réservable
   reservation: Réservation

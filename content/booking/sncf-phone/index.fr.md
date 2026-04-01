@@ -8,6 +8,7 @@ params:
     first: "2 € / 16 €"
     second: "2 € / 11 €"
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.sncf-voyageurs.com/fr/contactez-nous/nos-points-de-contact/par-telephone/"
   type: "phone"

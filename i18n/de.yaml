@@ -8,6 +8,7 @@ booking:
     second: 2. Klasse
   fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
+  fip-75: FIP 75 Fahrkarten
   fip-global-fare: FIP Globalpreis
   not-bookable: nicht buchbar
   reservation: Reservierung
@@ -58,7 +59,7 @@ fipValidity:
     weiterhelfen können. Einen Überblick aller Freifahrtscheine erhältst du
     [hier](/fip-validity).
   fip-global-fare: FIP Globalpreis
-  fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP 50 / FIP 75)
+  fip-reduced-ticket: FIP Ermäßigtes Ticket
   fip-reduced-ticket-description: >-
     Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als FIP
     50 oder FIP 75 bekannt. Der Rabatt beläuft sich meistens auf 50%, teilweise

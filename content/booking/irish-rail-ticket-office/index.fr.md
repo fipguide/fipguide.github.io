@@ -4,6 +4,7 @@ title: "Guichet Irish Rail"
 description: "Informations de réservation pour le guichet Irish Rail."
 params:
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.irishrail.ie/en-ie/travel-information/find-a-station"
   type: "onsite"

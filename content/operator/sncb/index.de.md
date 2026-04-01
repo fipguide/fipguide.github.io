@@ -10,16 +10,16 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 
 ## Zusammenfassung
 
-- SNCB akzeptiert FIP Freifahrt und FIP 50 Tickets.
+- SNCB akzeptiert FIP Freifahrt und FIP 50 / FIP 75 Tickets.
 - Keine Reservierungspflicht.
 - Aufschlag für Fahrten von/zum Flughafen Brüssel Zaventem.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
@@ -164,6 +164,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    fip_75=false
 /%}}
 
 ### Telefon
@@ -182,13 +183,13 @@ FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. 
 
 ## Ermäßigungen
 
-Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
+Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 / FIP 75 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
 
 ## Tarifliche Besonderheiten
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen. [^1]
 
 ## Empfehlungen
 

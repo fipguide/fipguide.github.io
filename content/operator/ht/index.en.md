@@ -16,7 +16,7 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) operate
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Train Categories and Reservations
 

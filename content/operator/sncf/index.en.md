@@ -24,14 +24,14 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="For international `TGV` trains" disable_dialog=true >}}
 
-FIP Coupons and FIP 50 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
+FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 / FIP 75 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
 
 ## Train Categories and Reservations
 
-Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OUIGO trains. For trains requiring reservations, the FIP 50 Ticket price always includes a reservation.
+Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OUIGO trains. For trains requiring reservations, the FIP 50 / FIP 75 Ticket price always includes a reservation.
 
 ### Long-distance
 
@@ -277,7 +277,7 @@ For journeys within France, the standard domestic `TGV` reservation fees apply. 
 | Within France Peak     | €16       | €11       |
 | International          | €40       | €20       |
 
-For the direct trains between Frankfurt (Main) and Bordeaux in July and August, DB does not sell FIP 50 Tickets for the journey within France. However, using them with an FIP Coupon and an SNCF reservation is possible. [^5]
+For the direct trains between Frankfurt (Main) and Bordeaux in July and August, DB does not sell FIP 50 / FIP 75 Tickets for the journey within France. However, using them with an FIP Coupon and an SNCF reservation is possible. [^5]
 
 {{% /train-category %}}
 
