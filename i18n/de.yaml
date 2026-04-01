@@ -67,6 +67,7 @@ fipValidity:
     Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
     du [hier](/fip-validity).
   issuer: Aussteller des FIP Ausweises
+  noIssuers: Für den aktuellen Betreiber sind leider noch keine Informationen verfügbar.
   retired: Rentner:innen
   retired-relatives: Angehörige von Rentner:innen
   rules: Regeln

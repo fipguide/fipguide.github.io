@@ -8,7 +8,6 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
-    - Koleje Małopolskie (KML)
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
 ---
 
@@ -19,11 +18,12 @@ La Pologne est le pays comptant le plus grand nombre de compagnies ferroviaires 
 Les compagnies ferroviaires régionales suivantes proposent la FIP séparément :
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
+- [Koleje Małopolskie (KMŁ)](/operator/kml)
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
-Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. La FIP n’est pas non plus acceptée dans les trains des Koleje Małopolskie (KML). La Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) ne peut pas être utilisée avec la FIP, sauf lorsqu’elle opère pour le compte de compagnies ferroviaires qui acceptent la FIP.
+Le RER de Varsovie (Szybka Kolej Miejska w Warszawie) ne peut pas être utilisé avec les Billets FIP. Il est abrégé SKM, tout comme celui de Gdansk. La Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) ne peut pas être utilisée avec la FIP, sauf lorsqu’elle opère pour le compte de compagnies ferroviaires qui acceptent la FIP.
 
 À part cela, la couverture FIP en Pologne est très élevée. Dans le trafic grandes lignes, des réservations sont parfois nécessaires chez PKP InterCity et également recommandées en général, car les trains sont souvent très bien remplis. Dans le trafic régional, seule la 2ᵉ classe est généralement proposée.
 
