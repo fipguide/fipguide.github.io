@@ -101,9 +101,9 @@ Les billets sont émis exclusivement sous forme numérique (email requis).
 
 ### En ligne
 
-Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations)
+{{% booking id="railtourguide-website" fip_50=nil fip_75=nil fip_global_fare=true /%}}
 
-Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
+Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations) Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
 {{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
 
