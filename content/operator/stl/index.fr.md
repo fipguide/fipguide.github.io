@@ -20,9 +20,7 @@ Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
-
-Le Coupon FIP pour StL comprend, contrairement à la norme, au maximum deux cases. [^1]
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Catégories de navires et réservations
 
@@ -182,8 +180,6 @@ Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si
 {{% /highlight %}}
 
 ## Sources
-
-[^1]: DB Reisemarkt
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
 

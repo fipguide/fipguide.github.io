@@ -4,6 +4,7 @@ title: "Translink Ticketschalter"
 description: "Buchungsinformationen für den Translink Ticketschalter."
 params:
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.translink.co.uk/using-translink/station-finder"
   type: "onsite"

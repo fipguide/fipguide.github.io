@@ -20,4 +20,4 @@ Pour justifier de l’éligibilité FIP, une photo de l’intérieur de la Carte
 
 **La CFL facture des frais de réservation de 5€ par commande.**
 
-{{% satellite %}}
+{{% satellite /%}}

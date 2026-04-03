@@ -17,21 +17,21 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 
 - Réservation obligatoire dans tous les trains grandes lignes (`TGV` inOui et Intercités).
 - Les réductions FIP ne sont pas valables dans les trains OUIGO.
-- Certaines lignes de banlieue et tramways à Paris sont accessibles sous conditions particulières.
+- Certaines lignes de banlieue à Paris sont accessibles sous conditions particulières.
 - Les trains internationaux grandes lignes sont soumis à des Tarifs Globaux.
 - Les réductions FIP sont aussi valables dans les bus SNCF (hors autocars longue distance).
 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`" disable_dialog=true >}}
 
-Les Coupons FIP et Billets FIP 50 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
+Les Coupons FIP et Billets FIP 50 / FIP 75 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 / FIP 75 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 
 ## Catégories de trains et réservations
 
-La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC` et certains trains régionaux (`TER`). FIP n’est pas valable dans les trains OUIGO. Pour les trains à réservation obligatoire, le prix du Billet FIP 50 inclut toujours la réservation.
+La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC` et certains trains régionaux (`TER`). FIP n’est pas valable dans les trains OUIGO. Pour les trains à réservation obligatoire, le prix du Billet FIP 50 / FIP 75 inclut toujours la réservation.
 
 ### Grandes lignes
 
@@ -103,7 +103,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | En France Peak     | 16 €       | 11 €      |
 | International      | 40 €       | 20 €      |
 
-Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 pour le trajet à l'intérieur de la France. Cependant, l'utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
+Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 / FIP 75 pour le trajet à l'intérieur de la France. Cependant, l'utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
 
 {{% /train-category %}}
 
@@ -212,7 +212,7 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="transilien-ticket-office" subtitle="Pour tramways et trains en Île-de-France" /%}}
+{{% booking id="transilien-ticket-office" subtitle="Pour trains en Île-de-France" /%}}
 
 {{% booking id="ns-ticket-office"
     classes.first="2 € / 16 €"
@@ -322,7 +322,7 @@ Les trains TGV Lyria internationaux de la France vers la Suisse sont à réserva
 
 Île-de-France Mobilités (ÎDF Mobilités) coordonne différents opérateurs dans la région parisienne, dont la RATP et la SNCF.
 
-La RATP exploite le métro de Paris, des lignes de bus et une partie du réseau tram/RER. La SNCF exploite le reste du réseau RER et certaines lignes de tram. Les réductions FIP ne sont pas valables sur les services RATP.
+La RATP exploite le métro de Paris, des lignes de bus et une partie du réseau RER. La SNCF exploite le reste du réseau RER. Les réductions FIP ne sont pas valables sur les services RATP.
 
 {{% train-category
   id="rer-paris"
@@ -363,7 +363,7 @@ L'accès à certaines gares est limité par des portillons. Lors de l'utilisatio
   fip_accepted=false
   reservation_possible=nil
 %}}
-FIP n'est plus accepté dans les tramways de la région parisienne depuis le 1ᵉʳ janvier 2026.[^3]
+Les réductions FIP ne sont pas valables dans les tramways de la région parisienne.[^3]
 {{% /train-category %}}
 
 #### Portillons
@@ -375,7 +375,7 @@ FIP n'est plus accepté dans les tramways de la région parisienne depuis le 1�
   position="right"
 %}}
 
-Les Billets FIP à tarif réduit pour `RER`, Transilien et tramways peuvent être achetés aux guichets Transilien. Lors de l’utilisation de ces services avec un Coupon FIP SNCF, il faut retirer une _Contremarque de Passage_ (carte d’accès temporaire) gratuite au guichet Transilien pour chaque trajet. Généralement, seules quelques cartes sont délivrées à la fois.
+Les Billets FIP à tarif réduit pour `RER` et Transilien peuvent être achetés aux guichets Transilien. Lors de l’utilisation de ces services avec un Coupon FIP SNCF, il faut retirer une _Contremarque de Passage_ (carte d’accès temporaire) gratuite au guichet Transilien pour chaque trajet. Généralement, seules quelques cartes sont délivrées à la fois.
 {{% /float-image %}}
 
 {{% highlight important %}}

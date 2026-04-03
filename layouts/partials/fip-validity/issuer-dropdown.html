@@ -29,16 +29,20 @@
   >
     {{- range .issuers -}}
       {{- $slug := .File.ContentBaseName -}}
-      <li class="o-dropdown__item">
+      <li class="o-dropdown__item" aria-selected="false">
         <button
           class="a-button a-button__internal"
           role="option"
-          aria-selected="false"
           data-fip-option="{{ $slug }}"
         >
           {{ partial "operator-logo" (dict "operator" $slug) }}
           {{ .Title }}
         </button>
+      </li>
+    {{- end -}}
+    {{- if not .issuers -}}
+      <li class="o-dropdown__item o-dropdown__item--empty">
+        {{ T "fipValidity.noIssuers" }}
       </li>
     {{- end -}}
   </menu>

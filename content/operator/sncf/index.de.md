@@ -17,21 +17,21 @@ Die SNCF (Société Nationale des Chemins de fer Français) ist die französisch
 
 - Im Fernverkehr (`TGV` inOui und Intercités) ist immer eine Reservierung erforderlich.
 - In OUIGO Zügen gelten keine FIP Vergünstigungen.
-- In Paris können einige S-Bahnen und Straßenbahnlinien zu besonderen Konditionen genutzt werden.
+- In Paris können einige S-Bahnen zu besonderen Konditionen genutzt werden.
 - Für grenzüberschreitende Fernzugverbindungen gelten Globalpreise.
 - FIP Vergünstigungen gelten auch in SNCF Bussen (außer Fernbusse).
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="Für internationale `TGV` Züge" disable_dialog=true >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehrsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
+FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCF gültig. Bei grenzüberschreitenden Fahrten im Nahverkehr muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Auf internationalen Fernverkehrsverbindungen mittels `TGV` oder `ICE` gelten jedoch Globalpreise, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 
 ## Zugkategorien und Reservierungen
 
-Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OUIGO-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 Ticketpreis immer eine Reservierung enthalten.
+Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OUIGO-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 / FIP 75 Ticketpreis immer eine Reservierung enthalten.
 
 ### Fernverkehr
 
@@ -209,7 +209,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="transilien-ticket-office" subtitle="Für Tramlinien und Züge im Großraum Paris" /%}}
+{{% booking id="transilien-ticket-office" subtitle="Für Züge im Großraum Paris" /%}}
 
 {{% booking id="ns-ticket-office"
     classes.first="2 € / 16 €"
@@ -221,7 +221,7 @@ Nationale Verbindungen können online leider nicht erworben werden.
     classes.first="nil"
     classes.second="nil"
 %}}
-Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inslandszügen möglich ist, ist uns derzeit nicht bekannt.
+Im DB Reisezentrum können grenzüberschreitende FIP 50 Tickets für grenzüberschreitende `TGV`/`ICE` Züge zwischen Deutschland und Frankreich gekauft werden. Ob auch eine Buchung von französischen Inlandszügen möglich ist, ist uns derzeit nicht bekannt.
 {{% /booking %}}
 
 ### Im Zug
@@ -276,7 +276,7 @@ Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reser
 | Innerhalb Frankreichs Peak     | 16 €      | 11 €      |
 | International                  | 40 €      | 20 €      |
 
-Für die Direktzüge zwischen Frankfurt (Main) und Bordeaux im Juli und August werden von der DB keine FIP 50 Tickets für die Fahrt innerhalb Frankreichs verkauft. Eine Nutzung mit FIP Freifahrtschein und Reservierung der SNCF ist jedoch möglich. [^5]
+Für die Direktzüge zwischen Frankfurt (Main) und Bordeaux im Juli und August werden von der DB keine FIP 50 / FIP 75 Tickets für die Fahrt innerhalb Frankreichs verkauft. Eine Nutzung mit FIP Freifahrtschein und Reservierung der SNCF ist jedoch möglich. [^5]
 
 {{% /train-category %}}
 
@@ -322,7 +322,7 @@ Grenzüberschreitende `TGV` Lyria Verbindungen von Frankreich in die Schweiz sin
 
 Île-de-France Mobilités (ÎDF Mobilités) ist die Behörde, die verschiedene Verkehrsunternehmen im Großraum Paris koordiniert und überwacht, darunter RATP (Régie Autonome des Transports Parisiens) und SNCF.
 
-Die RATP betreibt die Pariser Métro (Métro de Paris), Buslinien sowie einen Teil der Tramlinien und des RER (Réseau Express Régional) Netzes. Die SNCF betreibt den übrigen Teil des RER-Netzes und einige Tramlinien. In RATP Verkehren gelten keine FIP Vergünstigungen.
+Die RATP betreibt die Pariser Métro (Métro de Paris), Buslinien sowie einen Teil des RER (Réseau Express Régional) Netzes. Die SNCF betreibt den übrigen Teil des RER-Netzes. In RATP Verkehren gelten keine FIP Vergünstigungen.
 
 {{% train-category
   id="rer-paris"
@@ -363,7 +363,7 @@ Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei N
   fip_accepted=false
   reservation_possible=nil
 %}}
-FIP wird seit dem 1. Januar 2026 in Straßenbahnen im Großraum Paris nicht mehr akzeptiert.[^3]
+FIP Vergünstigungen gelten nicht in Straßenbahnen im Großraum Paris.[^3]
 {{% /train-category %}}
 
 #### Ticketschranken
@@ -374,7 +374,7 @@ FIP wird seit dem 1. Januar 2026 in Straßenbahnen im Großraum Paris nicht mehr
   width="60%"
   position="right"
 %}}
-Vergünstigte FIP Tickets für `RER`, Transilien-Züge und Straßenbahnen können an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Züge und Straßenbahnen mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter eine kostenlose _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
+Vergünstigte FIP Tickets für `RER` und Transilien-Züge können an Transilien Ticketschaltern gekauft werden. Bei Nutzung der Züge mit einem SNCF FIP Freifahrtschein muss pro Fahrt am Transilien Ticketschalter eine kostenlose _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Üblicherweise werden davon leider nur wenige auf einmal ausgegeben.
 {{% /float-image %}}
 
 {{% highlight important %}}

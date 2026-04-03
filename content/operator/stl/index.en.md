@@ -20,9 +20,7 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
-
-The FIP Coupon for StL covers, deviating from the standard, a maximum of two fields. [^1]
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Ship Categories and Reservations
 
@@ -184,8 +182,6 @@ Stena Line offers a great way to be in London before 10 am if you invest a littl
 {{% /highlight %}}
 
 ## Sources
-
-[^1]: DB Reisemarkt
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
 

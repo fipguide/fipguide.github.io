@@ -34,4 +34,4 @@ Pour les traversées de nuit, la réservation de cabine est obligatoire.
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}

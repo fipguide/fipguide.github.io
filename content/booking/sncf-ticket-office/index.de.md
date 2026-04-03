@@ -8,6 +8,7 @@ params:
     first: "2 € / 16 €"
     second: "2 € / 11 €"
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.garesetconnexions.sncf/de/bahnhoefe-services"
   type: "onsite"
@@ -43,6 +44,6 @@ Wenn das Personal am Ticketschalter unsicher ist, welchen Tarifcode es verwenden
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

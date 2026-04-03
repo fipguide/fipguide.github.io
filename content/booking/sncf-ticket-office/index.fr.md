@@ -8,6 +8,7 @@ params:
     first: "2 € / 16 €"
     second: "2 € / 11 €"
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.garesetconnexions.sncf/fr/gares-services"
   type: "onsite"
@@ -43,6 +44,6 @@ Si le personnel au guichet ne sait pas quel code tarifaire utiliser, il est poss
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
