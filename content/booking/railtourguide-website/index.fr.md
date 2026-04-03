@@ -13,7 +13,9 @@ type: "website"
 
 ## Tarif Global FIP
 
-Des billets au Tarif Global FIP peuvent être achetés via RailTourGuide. Pour ce faire, le formulaire sur le site web doit être rempli.
+Des billets au Tarif Global FIP peuvent être achetés via RailTourGuide. Les prix sont disponibles sur le site web et varient selon l'itinéraire, la classe de voyage et le statut du passager (personne protégée/non protégée).
+
+Pour obtenir un devis, veuillez remplir le formulaire en ligne et vous inscrire comme client auprès de RailTourGuide. Votre demande sera traitée sous 24 heures, pendant les heures d'ouverture de RailTourGuide. Le paiement sera effectué ultérieurement.
 
 {{% /booking-section %}}
 

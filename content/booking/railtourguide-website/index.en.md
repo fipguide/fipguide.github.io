@@ -13,7 +13,9 @@ type: "website"
 
 ## FIP Global Fare
 
-FIP Global Fare tickets can be purchased via RailTourGuide. To do so, the form on the website must be completed.
+FIP Global Fare tickets can be purchased via RailTourGuide. Prices are available on the website and vary depending on the route, travel class, and passenger status (Safeguarded/Non-Safeguarded).
+
+To request a booking quote, you must complete the form on the website and register as a customer with RailTourGuide. Your request will then be processed within 24 hours during RailTourGuide's business hours. Payment is due afterward.
 
 {{% /booking-section %}}
 
