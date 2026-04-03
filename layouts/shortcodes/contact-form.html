@@ -33,61 +33,62 @@
   </label>
 
   <label for="topic"
-    >Thema auswählen:
+    >{{ T "contact.topic.label" }}
     <select id="topic" name="topic" required>
-      <option value="">Bitte wählen…</option>
-      <option value="general">Allgemeine Frage</option>
-      <option value="request">Änderungsvorschlag</option>
-      <option value="feedback">Feedback</option>
-      <option value="accessibility">Barriere melden</option>
-      <option value="other">Sonstiges</option>
+      <option value="">{{ T "contact.topic.empty" }}</option>
+      <option value="general">{{ T "contact.topic.general" }}</option>
+      <option value="request">{{ T "contact.topic.request" }}</option>
+      <option value="feedback">{{ T "contact.topic.feedback" }}</option>
+      <option value="accessibility">
+        {{ T "contact.topic.accessibility" }}
+      </option>
+      <option value="others">{{ T "contact.topic.others" }}</option>
     </select>
   </label>
 
-  <div class="field-group" data-field="general" style="display:none;">
+  <div data-field="general" style="display:none;">
     <p>
-      Bitte prüfe vor Absenden deiner Anfrage, ob die Antwort bereits im FIP
-      Guide vorhanden ist. Schaue auf der passenden Seite des
-      <a href="/de/country">Landes</a> oder
-      <a href="/de/operator">Betreibers</a>. Du kannst hierfür auch die Suche
-      nutzen.
+      {{ T "contact.topic.general-note" | .Page.RenderString }}
     </p>
   </div>
 
-  <label for="page" data-field="accessibility" style="display:none;"
-    >Betroffene Seite (URL)
-    <input type="text" id="page" name="page" required />
+  <label
+    for="accessibility-webpage"
+    data-field="accessibility"
+    style="display:none;"
+    >{{ T "contact.topic.accessibility-webpage" }}
+    <input
+      type="text"
+      id="accessibility-webpage"
+      name="accessibility-webpage"
+    />
   </label>
 
-  <label for="accessibility" data-field="accessibility" style="display:none;"
-    >Beschreibe bitte, welcher Fehler aufgetreten ist:
+  <label
+    for="accessibility-note"
+    data-field="accessibility"
+    style="display:none;"
+    >{{ T "contact.topic.accessibility-note" }}
     <textarea
-      id="accessibility"
-      name="accessibility"
+      id="accessibility-note"
+      name="accessibility-note"
       rows="4"
       cols="50"
-      required
     ></textarea>
   </label>
 
   <label
     for="message"
-    data-field="general,request,feedback,other"
+    data-field="general,request,feedback,others"
     style="display:none;"
     >{{ T "contact.messageLabel" }}
-    <textarea
-      id="message"
-      name="message"
-      rows="4"
-      cols="50"
-      required
-    ></textarea>
+    <textarea id="message" name="message" rows="4" cols="50"></textarea>
   </label>
 
   <input
     type="submit"
     class="a-button"
-    data-field="general,request,feedback,accessibility,other"
+    data-field="general,request,feedback,accessibility,others"
     style="display:none;"
     value="{{ T "contact.submitButton" }}"
   />
@@ -104,17 +105,21 @@
   });
 
   document.getElementById("topic").addEventListener("change", function () {
-    // Alle Gruppen verstecken
-    document
-      .querySelectorAll("[data-field]")
-      .forEach((field) => (field.style.display = "none"));
+    document.querySelectorAll("[data-field]").forEach((field) => {
+      field.style.display = "none";
+      field
+        .querySelectorAll("input, textarea, select")
+        .forEach((el) => el.removeAttribute("required"));
+    });
 
-    // Ausgewählte Gruppe anzeigen
     const value = this.value;
     if (value) {
       document.querySelectorAll("[data-field]").forEach((el) => {
         if (el.dataset.field.split(",").includes(value)) {
           el.style.display = "flex";
+          el.querySelectorAll("input, textarea, select").forEach((input) =>
+            input.setAttribute("required", "required"),
+          );
         }
       });
     }

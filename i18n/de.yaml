@@ -24,6 +24,20 @@ contact:
   successMessage: >-
     Vielen Dank! Deine Nachricht wurde erfolgreich gesendet. Wir melden uns
     schnellstmöglich zurück.
+  topic:
+    accessibility: Barriere melden
+    accessibility-note: 'Beschreibe bitte, wie wir uns verbessern können:'
+    accessibility-webpage: Betroffene Seite (URL)
+    empty: Bitte wählen …
+    feedback: Feedback zur Website
+    general: Allgemeine Frage
+    general-note: >-
+      Bitte prüfe vor Absenden deiner Anfrage, ob die Antwort bereits im FIP
+      Guide vorhanden ist. Schaue auf der passenden Seite des [Landes](/country)
+      oder [Betreibers](/operator). Du kannst hierfür auch die Suche nutzen.
+    label: 'Thema:'
+    others: Sonstiges
+    request: Inhaltliche Ergänzung oder Korrektur vorschlagen
 contentNavigation:
   button: Inhaltsübersicht öffnen und schließen
   relatedCountries: Länder, in den der Betreibers aktiv ist
