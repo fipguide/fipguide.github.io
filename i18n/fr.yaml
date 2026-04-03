@@ -25,6 +25,21 @@ contact:
   successMessage: >-
     Merci ! Votre message a été envoyé avec succès. Nous vous répondrons dès que
     possible.
+  topic:
+    accessibility: Signaler une barrière d'accessibilité
+    accessibility-note: 'Veuillez décrire comment nous pouvons nous améliorer :'
+    accessibility-webpage: Page concernée (URL)
+    empty: Veuillez sélectionner …
+    feedback: Commentaires sur le site Web
+    general: Question générale
+    general-note: >-
+      Avant d'envoyer votre demande, veuillez vérifier si la réponse est déjà
+      disponible dans le FIP Guide. Consultez la page du [pays](/country) ou de
+      l'[opérateur](/operator) appropriée. Vous pouvez également utiliser la
+      recherche à cet effet.
+    label: 'Sujet :'
+    others: Autre
+    request: Proposer un ajout ou une correction de contenu
 contentNavigation:
   button: Ouvrir et fermer l’aperçu du contenu
   relatedCountries: Pays dans lesquels l'opérateur est actif
@@ -81,6 +96,7 @@ fipValidity:
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
+general: Général
 highlight:
   confusion: Risque de confusion
   important: Informations importantes

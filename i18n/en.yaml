@@ -25,6 +25,21 @@ contact:
   successMessage: >-
     Thank you! Your message has been sent successfully. We'll get back to you as
     soon as possible.
+  topic:
+    accessibility: Report an accessibility barrier
+    accessibility-note: 'Please describe how we can improve:'
+    accessibility-webpage: Affected page (URL)
+    empty: Please select …
+    feedback: Feedback on the website
+    general: General question
+    general-note: >-
+      Before submitting your request, please check whether the answer is already
+      available in the FIP Guide. Have a look at the appropriate
+      [country](/country) or [operator](/operator) page. You can also use the
+      search for this.
+    label: 'Topic:'
+    others: Other
+    request: Suggest a content addition or correction
 contentNavigation:
   button: Open and close content overview
   relatedCountries: Countries in which the operator is active
