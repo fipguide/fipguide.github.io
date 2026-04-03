@@ -44,7 +44,6 @@ jobs:
             --exclude "www.lner.co.uk" \
             --exclude "www.greateranglia.co.uk" \
             --exclude "www.crosscountrytrains.co.uk" \
-            --exclude "help.satellite.me" \
             --exclude "www.trenitalia.fr"
       - uses: actions/checkout@v3
         if: failure()
