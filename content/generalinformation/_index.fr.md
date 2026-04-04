@@ -102,7 +102,9 @@ Pour certains trains, des tarifs spéciaux et des règles spéciales s’appliqu
 
 Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre propre entreprise ferroviaire. Par conséquent, un billet différent est nécessaire dans votre pays d’origine.
 
-Vous trouverez plus d’informations dans la [Vue d’ensemble des informations d’émission FIP](/fip-validity).
+Ce n'est pas toujours le voyage avec des billets FIP qui est la solution la moins chère. Les billets FIP réduits accordent généralement une réduction sur le prix du billet flexible. Cependant, les billets liés aux trains, comme les tarifs réduits, peuvent néanmoins être moins chers.
+
+De plus, certaines compagnies ferroviaires accordent à leurs propres employés des billets à tarif réduit pour les trajets transfrontaliers vers l’étranger ou jusqu’à la frontière. L’utilisation de ces billets peut parfois être moins chère que l’utilisation du FIP pour le voyage à l’étranger. Vous trouverez plus d’informations sur ces offres dans l’[aperçu de la validité du FIP](/fip-validity).
 
 ## Points frontières
 
@@ -141,7 +143,7 @@ J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort 
 
 ## Imposition
 
-Pour les employés dans certains pays, une imposition supplémentaire des réductions FIP est nécessaire, ce qui entraîne des coûts supplémentaires.
+Pour les employés de certains pays, une taxation supplémentaire des avantages FIP est nécessaire, ce qui peut entraîner des coûts supplémentaires.
 
 Vous trouverez plus d’informations dans la [Vue d’ensemble des informations d’émission FIP](/fip-validity).
 

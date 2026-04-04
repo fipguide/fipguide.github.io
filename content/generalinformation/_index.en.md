@@ -102,7 +102,9 @@ For some trains, special fares and rules apply. These cannot be used with either
 
 FIP discounts never apply on trains operated by your own railway company. Therefore, a different ticket is needed within your home country.
 
-More information is available in the [Information Overview for FIP Issuer](/fip-validity).
+Traveling with FIP tickets is not always the cheapest option. Discounted FIP tickets typically offer a discount on the flexible ticket price. However, train-bound tickets such as savings fares can still be cheaper.
+
+In addition, some railway companies offer their own employees discounted tickets for cross-border travel into other countries or up to the border. Using these tickets can sometimes be cheaper for travel abroad than using FIP. More information about these offers is available in the [overview of FIP validity](/fip-validity).
 
 ## Border Points
 
@@ -141,7 +143,7 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 
 ## Taxation
 
-For employees in some countries, additional taxation of FIP discounts is necessary, which incurs additional costs.
+For employees of some countries, additional taxation of FIP benefits is necessary, which can result in additional costs.
 
 More information is available in the [Information Overview for FIP Issuer](/fip-validity).
 
