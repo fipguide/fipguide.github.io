@@ -17,7 +17,7 @@ La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Pour les trajets transfrontaliers, il faut soit un billet FIP 50 continu, soit des FIP Coupons des deux pays.
 

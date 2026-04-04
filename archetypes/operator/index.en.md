@@ -42,7 +42,7 @@ operator: "{{ .File.ContentBaseName }}"
 -->
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--

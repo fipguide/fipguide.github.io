@@ -17,29 +17,22 @@ _anchors:
     active-relatives: *reduced-50
     retired: *reduced-50
     retired-relatives: *reduced-50
-  reduced-75-single: &reduced-75-single
+  reduced-75: &reduced-75
     status: valid
     text:
       de: "75 % Rabatt"
       en: "75 % discount"
       fr: "75 % de réduction"
-  reduced-75-safeguarded-50: &reduced-75-safeguarded-50
-    status: valid
-    text:
-      de: |
-        **75 % / 50 % Rabatt**
-        <small>Safeguarded: 75 % Rabatt. Nicht safeguarded: 50 % Rabatt.</small>
-      en: |
-        **75 % / 50 % discount**
-        <small>Safeguarded: 75 % discount. Non-safeguarded: 50 % discount.</small>
-      fr: |
-        **75 % / 50 % de réduction**
-        <small>Sécurisés : 75 % de réduction. Non sécurisés : 50 % de réduction.</small>
+  reduced-75-group: &reduced-75-group
+    active: *reduced-75
+    active-relatives: *reduced-75
+    retired: *reduced-75
+    retired-relatives: *reduced-75
   reduced-active-75-retired-50-group: &reduced-active-75-retired-50-group
-    active: *reduced-75-single
-    active-relatives: *reduced-75-single
-    retired: *reduced-75-safeguarded-50
-    retired-relatives: *reduced-75-safeguarded-50
+    active: *reduced-75
+    active-relatives: *reduced-75
+    retired: *reduced-50
+    retired-relatives: *reduced-50
   coupon-active-1: &coupon-active-1
     status: valid
     text:
@@ -154,7 +147,7 @@ cie:
     active-relatives: *coupon-active-2
     retired: *coupon-retired-1-safeguarded
     retired-relatives: *coupon-retired-1-safeguarded
-  fip-reduced-ticket: *reduced-active-75-retired-50-group
+  fip-reduced-ticket: *reduced-75-group
 cp:
   fip-coupon:
     active: *coupon-active-1
@@ -245,7 +238,7 @@ nir:
     active-relatives: *coupon-active-2
     retired: *coupon-retired-2-safeguarded
     retired-relatives: *coupon-retired-2-safeguarded
-  fip-reduced-ticket: *reduced-active-75-retired-50-group
+  fip-reduced-ticket: *reduced-75-group
 ns:
   fip-coupon:
     active: *coupon-active-2

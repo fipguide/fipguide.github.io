@@ -1,0 +1,15 @@
+# This file shows the rules for FIP cards issued by CIE.
+_anchors:
+  reduced-75: &reduced-75
+    status: valid
+    text:
+      de: "75 % Rabatt"
+      en: "75 % discount"
+      fr: "75 % de réduction"
+  reduced-75-group: &reduced-75-group
+    active: *reduced-75
+    active-relatives: *reduced-75
+    retired: *reduced-75
+    retired-relatives: *reduced-75
+gb:
+  fip-reduced-ticket: *reduced-75-group

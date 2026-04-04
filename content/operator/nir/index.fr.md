@@ -15,7 +15,7 @@ Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d'Irlande
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Catégories de trains et réservations
 
@@ -46,7 +46,7 @@ NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [C
 
 ## Catégories de classes
 
-- **Second Class** : Classe standard, utilisable avec les Billets FIP 50 et les Coupons FIP de première et deuxième classe.
+- **Second Class** : Classe standard, utilisable avec les Billets FIP 50 / FIP 75 et les Coupons FIP de première et deuxième classe.
 
 - **Enterprise Plus** : Première classe sur la liaison Dublin – Belfast. Peut être utilisée avec les Coupons FIP de 1re classe, et moyennant un supplément aussi avec les Coupons FIP de 2e classe.
 
@@ -54,7 +54,7 @@ NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [C
 
 ### En ligne
 
-Les Billets FIP 50 ne peuvent pas être achetés en ligne.
+Les Billets FIP 50 / FIP 75 ne peuvent pas être achetés en ligne.
 
 {{% booking id="irish-rail-website"
     subtitle="Réservations (2e classe) pour le service Enterprise (Dublin – Belfast)."
@@ -69,12 +69,12 @@ Les Billets FIP 50 ne peuvent pas être achetés en ligne.
 {{% booking id="translink-ticket-office" /%}}
 
 {{% booking id="irish-rail-ticket-office"
-    subtitle="Réservations et Billets FIP 50 pour le service Enterprise (Dublin – Belfast)."
+    subtitle="Réservations et Billets FIP 50 / FIP 75 pour le service Enterprise (Dublin – Belfast)."
 /%}}
 
 ### À bord du train
 
-Les Billets FIP 50 doivent être achetés avant le départ. Sur le service Enterprise, il est possible d'acheter le supplément entre la 1re et la 2e classe à bord du train.
+Les Billets FIP 50 / FIP 75 doivent être achetés avant le départ. Sur le service Enterprise, il est possible d'acheter le supplément entre la 1re et la 2e classe à bord du train.
 
 ## Réductions
 

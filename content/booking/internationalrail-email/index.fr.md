@@ -6,6 +6,7 @@ description: "Informations de réservation pour la réservation par e-mail aupr�
 params:
   fip_global_fare: true
   fip_50: true
+  fip_75: true
   type: "email"
   fee: 10 £
 
