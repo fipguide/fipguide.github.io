@@ -4,7 +4,10 @@ title: "Norway"
 country: "norway"
 params:
   operators_without_fip:
-    -  # Liste Betreiber, die kein FIP akzeptieren
+    - Flåmsbana between Myrdal and Flåm
+    - Ofoten Line between Narvik and Bjørnfjell
+    - Flytoget Airport Express
+    - SJ
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
