@@ -50,6 +50,8 @@ fipValidity:
   active-relatives: Relatives of Active Employees
   additional: Other
   buttonLabel: Show more information on FIP validity
+  card-validityHeading: Validity Period of the FIP Card
+  card-validityMissingInfo: We currently do not have information on the validity period.
   fip-coupon: FIP Coupon
   fip-coupon-description: >-
     First select the issuer of your FIP Card. If you are eligible, you can
@@ -64,6 +66,10 @@ fipValidity:
     discount applies to you, first select the issuer of your FIP Card. You can
     find an overview of all discounts [here](/fip-validity).
   issuer: FIP Card Issuer
+  national-discountsHeading: National Discounts (Non-FIP)
+  national-discountsMissingInfo: >-
+    We currently do not have information on national discounts that can help
+    with travel abroad.
   noIssuers: Unfortunately, no information is available yet for the current operator.
   retired: Retirees
   retired-relatives: Relatives of Retirees
@@ -71,6 +77,8 @@ fipValidity:
   selectIssuer: 'Select your FIP Card issuer:'
   selectIssuerFirst: Please select a FIP Card issuer first.
   selectIssuerPlaceholder: Select FIP Card issuer
+  taxationHeading: Taxation
+  taxationMissingInfo: We currently do not have information on taxation.
   unknown: Unknown
   validity: validity
   widows: Widows, Widowers and Orphans

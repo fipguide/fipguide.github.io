@@ -53,6 +53,72 @@ _anchors:
       fr: |
         **1 coupon**
         <small>Unique, dans les 45 mois suivant le départ.</small>
+card-validity:
+  de: |
+    Der FIP Ausweis ist für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027.
+  en: |
+    The FIP Card is valid for a fixed period of three years. The current period is 2025-2026-2027.
+  fr: |
+    La Carte FIP est valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027.
+
+taxation:
+  de: |
+    FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vorteil_ und unterliegen § 8 des Einkommensteuergesetzes (EStG). Die FIP Freifahrtscheine sind somit steuer- und sozialversicherungspflichtig.
+
+    Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im DB Reisemarkt oder DB Personalportal verfügbar.
+
+    Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2025) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
+
+    FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden dem Mitarbeitenden angerechnet.
+
+    Für FIP 50 Tickets wird kein Geldwerter Vorteil berechnet.
+  en: |
+    FIP Coupons for employees in Germany are considered _non-monetary compensation_ subject to § 8 of the German Income Tax Act (EStG). FIP Coupons are therefore subject to income tax and social security contributions.
+
+    The assessed value differs depending on the network length that can be covered with the respective coupon and is updated annually. A list of the current amounts is available in the DB Reisemarkt or DB employee portal.
+
+    Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds a certain threshold (€50 in 2025), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
+
+    FIP Coupons and national travel discounts of dependents are counted toward the employee.
+
+    No non-monetary compensation is calculated for FIP 50 tickets.
+  fr: |
+    Les Coupons FIP pour les employés en Allemagne sont considérés comme une _réduction non monétaire_ assujettie à l’article 8 de la Loi de l’impôt sur le revenu allemand (EStG). Les Coupons FIP sont donc assujettis à l’impôt sur le revenu et aux cotisations de sécurité sociale.
+
+    La valeur évaluée varie selon la longueur du réseau qui peut être couverte avec le coupon respectif et est mise à jour annuellement. Une liste des montants actuels est disponible sur le marché des voyages DB ou le portail des employés DB.
+
+    Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse un certain seuil (50 € en 2025), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
+
+    Les Coupons FIP et les réductions FIP de voyage nationales des ayants droit sont comptabilisés auprès de l’employé.
+
+    Aucune réduction non monétaire n’est calculée pour les billets FIP 50.
+national-discounts:
+  de: |
+    Bei Fahrten ins Ausland, können Mitarbeitende der Deutschen Bahn für die Fahrt bis zum Grenztarifpunkt nationale Vergünstigungen nutzen. Dafür kann ein Tagesticket M Fern oder eine NetzCard genutzt werden. Diese gelten im gesamten Netz und somit bis zum Grenztarifpunkt zu den Nachbarländern.
+
+    Teilweise sind andere Tickets, die auf dem gesamten Abschnitt gelten, günstigere Alternativen zu FIP. Dazu gehören (Super) Sparpreise Europa DB-PEP (Nur in Verbindung mit einem Reisenden mit FIP, siehe Nutzungsbestimmungen) oder auch normale (Super) Sparpreise. Weitere Informationen dazu sind im DB Reisemarkt und DB Personalportal zu finden.
+  en: |
+    When traveling abroad, DB employees can use national discounts for travel up to the border tariff point. For this, a Tagesticket M Fern or a NetzCard can be used. These are valid on the entire network and thus up to the border tariff point to neighboring countries.
+
+    In some cases, other tickets valid for the entire segment offer cheaper alternatives to FIP. These include (Super) Sparpreise Europa DB-PEP (only in combination with a traveler with FIP, see terms of use) or regular (Super) Sparpreise (savings fares). More information can be found in the DB Reisemarkt and DB employee portal.
+  fr: |
+    Lors de déplacements à l’étranger, les employés de la Deutsche Bahn peuvent bénéficier de réductions nationales pour le trajet jusqu’au point de tarif frontalier. Pour cela, un Tagesticket M Fern ou une NetzCard peut être utilisé. Ceux-ci sont valables sur l’ensemble du réseau et donc jusqu’au point de tarif frontalier vers les pays voisins.
+
+    Dans certains cas, d’autres billets valables pour le segment entier offrent des alternatives moins chères au FIP. Ceux-ci comprennent (Super) Sparpreise Europa DB-PEP (uniquement en combinaison avec un voyageur avec FIP, voir conditions d’utilisation) ou les (Super) Sparpreise réguliers (tarifs de réduction). Plus d’informations peuvent être trouvées sur le DB Reisemarkt et le portail des employés DB.
+general:
+  fip-coupon:
+    de: |
+      Die Beantragung von FIP Freifahrtscheinen für DB Mitarbeitende muss mind. vier Wochen vor Gültigkeitsbeginn über das DB Personalportal beantragt werden.
+
+      Freifahrtscheine können mit 1 bis 4 Feldern beantragt werden. Wenn bereits ein Freifahrtschein mit weniger als vier Feldern im gleichen Jahr bentragt wurde, verfallen die weiteren Felder und können nicht erneut beantragt werden. Jedes Feld wird individuell versteuert. Mehr Informationen dazu unter [Versteuerung](/fip-validity#taxation).
+    en: |
+      FIP Coupon requests for DB employees must be submitted via the DB employee portal at least four weeks before the start of validity.
+
+      Coupons can be requested with 1 to 4 fields. If a coupon with fewer than four fields has already been requested in the same year, the remaining fields expire and cannot be requested again. Each field is taxed individually. More information is available under [Taxation](/fip-validity#taxation).
+    fr: |
+      Les demandes de Coupons FIP pour les employés DB doivent être soumises via le portail des employés DB au moins quatre semaines avant le début de validité.
+
+      Les Coupons peuvent être demandés avec 1 à 4 champs. Si un coupon avec moins de quatre champs a déjà été demandé la même année, les champs restants expirent et ne peuvent pas être redemandés. Chaque champ est imposé individuellement. Plus d’informations sous [Imposition](/fip-validity#taxation).
 sncf:
   fip-coupon:
     active: *coupon-4fields

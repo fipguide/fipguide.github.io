@@ -51,6 +51,10 @@ fipValidity:
   active-relatives: Ayants droit des employés actifs
   additional: Autre
   buttonLabel: Afficher plus d'informations sur la validité du FIP
+  card-validityHeading: Durée de validité de la Carte FIP
+  card-validityMissingInfo: >-
+    Nous ne disposons actuellement d’aucune information sur la durée de
+    validité.
   fip-coupon: Coupon FIP
   fip-coupon-description: >-
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
@@ -66,6 +70,10 @@ fipValidity:
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
   issuer: Émetteur de la carte FIP
+  national-discountsHeading: Réductions nationales (non-FIP)
+  national-discountsMissingInfo: >-
+    Nous ne disposons actuellement d’aucune information sur les réductions
+    nationales susceptibles d’aider lors d’un voyage à l’étranger.
   noIssuers: >-
     Malheureusement, aucune information n'est encore disponible pour l'opérateur
     actuel.
@@ -75,6 +83,8 @@ fipValidity:
   selectIssuer: 'Sélectionner l''émetteur de votre Carte FIP :'
   selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
   selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
+  taxationHeading: Imposition
+  taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu
   validity: validité
   widows: Veuves, veufs et orphelins
