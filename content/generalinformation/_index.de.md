@@ -104,7 +104,7 @@ FIP Vergünstigungen gelten nicht in Zügen der eigenen Bahngesellschaft. Daher 
 
 Nicht immer ist die Fahrt mit FIP Tickets die günstigste Option. Vergünstigte FIP Tickets gewähren im Regelfall einen Rabatt auf den flexiblen Ticketpreis. Zuggebundene Tickets wie Sparpreise können trotzdem günstiger sein.
 
-Zusätzlich gewähren einige Bahngesellschaft ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten sind in der [Übersicht der FIP Gültigkeit](/fip-validity).
+Zusätzlich gewähren einige Bahngesellschaften ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten sind in der [Übersicht der FIP Gültigkeit](/fip-validity) zu finden.
 
 ## Grenzpunkte
 
