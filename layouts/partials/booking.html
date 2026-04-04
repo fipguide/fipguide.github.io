@@ -17,6 +17,7 @@
         {{- $metaFields := slice
           (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
           (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
+          (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
           (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
         -}}
         {{- range $metaFields -}}

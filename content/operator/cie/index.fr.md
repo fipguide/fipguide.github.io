@@ -14,12 +14,12 @@ Sur son site web, Irish Rail propose une [carte d'ensemble des lignes](https://w
 
 - Le FIP est accepté sur toutes les liaisons ferroviaires d'Irish Rail.
 - La First Class ne peut pas être utilisée avec le FIP.
-- Les Billets FIP 50 sont désormais difficiles à réserver et souvent plus chers que les « Low Fare Tickets » disponibles publiquement, qui doivent toutefois être réservés à l'avance.
+- Les Billets FIP 50 / FIP 75 sont désormais difficiles à réserver et souvent plus chers que les « Low Fare Tickets » disponibles publiquement, qui doivent toutefois être réservés à l'avance.
 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Catégories de trains et réservations
 
@@ -101,7 +101,7 @@ Le FIP n'est pas valable sur les liaisons en bus de Dublin Bus.
 
 ## Catégories de classes
 
-- **Second Class** : Classe standard, utilisable avec les Billets FIP 50 et les Coupons FIP de première et deuxième classe.
+- **Second Class** : Classe standard, utilisable avec les Billets FIP 50 / FIP 75 et les Coupons FIP de première et deuxième classe.
 - **Premier Class** : Disponible sur le trajet Dublin – Tralee et la liaison Dublin – Cork. Elle peut être utilisée avec les Coupons FIP de 1re classe, et moyennant un supplément aussi avec les Coupons FIP de 2e classe. **Important** : Aux heures de pointe, la « First Class » remplace la Premier Class et ne peut pas être utilisée avec le FIP.
 - **First Class** : Uniquement disponible entre Dublin et Cork aux heures de pointe, également appelée City Gold. La First Class offre un service à bord et des sièges à réglage électronique. Elle ne peut pas être utilisée avec le FIP.[^2] À partir de mars 2026, toutes les liaisons entre Dublin et Cork _à l'exception_ des suivantes sont assurées avec la First Class[^1] :
   - Liaisons Premier Class Dublin – Cork : 10h00 (lundi – samedi), 12h00 (lundi – vendredi) et 14h00 (lundi – vendredi)
@@ -115,7 +115,7 @@ Le FIP n'est pas valable sur les liaisons en bus de Dublin Bus.
 
 ### En ligne
 
-Les Billets FIP 50 ne peuvent pas être réservés en ligne.
+Les Billets FIP 50 / FIP 75 ne peuvent pas être réservés en ligne.
 
 {{% booking id="irish-rail-website" /%}}
 
@@ -125,7 +125,7 @@ Les Billets FIP 50 ne peuvent pas être réservés en ligne.
 
 ### À bord du train
 
-Les Billets FIP 50 doivent être achetés avant le départ.
+Les Billets FIP 50 / FIP 75 doivent être achetés avant le départ.
 Les suppléments pour passer de la 2e classe à la Premier Class peuvent être achetés à bord du train si aucun guichet n'est disponible à la gare.[^2]
 
 ## Réductions

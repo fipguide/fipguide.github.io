@@ -70,6 +70,23 @@ card-validity:
   de: Der FIP Ausweis ist drei Jahre gültig.
   en: The FIP Card is valid for three years.
   fr: La Carte FIP est valable trois ans.
+  reduced-50: &reduced-50
+    status: valid
+    text:
+      de: "50 % Rabatt"
+      en: "50 % discount"
+      fr: "50 % de réduction"
+  reduced-75: &reduced-75
+    status: valid
+    text:
+      de: "75 % Rabatt"
+      en: "75 % discount"
+      fr: "75 % de réduction"
+  reduced-active-75-retired-50-group: &reduced-active-75-retired-50-group
+    active: *reduced-75
+    active-relatives: *reduced-75
+    retired: *reduced-50
+    retired-relatives: *reduced-50
 db:
   fip-coupon:
     active: *coupon-4fields
@@ -100,6 +117,7 @@ gb:
     active-relatives: *coupon-2fields
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-active-75-retired-50-group
 stl:
   fip-coupon:
     active: *coupon-crossing

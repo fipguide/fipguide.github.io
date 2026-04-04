@@ -19,7 +19,7 @@ Auf ihrer Website bietet die KD eine [Übersichtskarte der Strecken](https://kol
 ## Gültigkeit FIP-Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KD gültig.
 

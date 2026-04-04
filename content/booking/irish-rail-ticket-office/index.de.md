@@ -4,6 +4,7 @@ title: "Irish Rail Ticketschalter"
 description: "Buchungsinformationen für den Irish Rail Ticketschalter."
 params:
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.irishrail.ie/en-ie/travel-information/find-a-station"
   type: "onsite"

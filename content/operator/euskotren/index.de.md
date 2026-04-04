@@ -17,7 +17,7 @@ Im Norden [Spaniens](/country/spain "Spaniens") betreibt Euskotren ein Netz der 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50" disable_dialog=true >}}
 {{< fip-validity type="additional" status="valid" text="Spezielles 'Euskotren FIP Ticket' (für Inhaber & Angehörige)" disable_dialog=true >}}
 
 {{% float-image
