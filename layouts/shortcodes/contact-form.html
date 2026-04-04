@@ -22,23 +22,16 @@
     value="{{ ref . "contact" }}?success=true"
   />
 
-  <label for="name"
-    >{{ T "contact.nameLabel" }}
-    <input type="text" id="name" name="name" autocomplete="name" required />
-  </label>
-
-  <label for="email"
-    >{{ T "contact.emailLabel" }}
-    <input type="email" id="email" name="email" autocomplete="email" required />
-  </label>
-
   <label for="topic"
     >{{ T "contact.topic.label" }}
     <select id="topic" name="topic" required>
       <option value="">{{ T "contact.topic.empty" }}</option>
       <option value="general">{{ T "contact.topic.general" }}</option>
-      <option value="request">{{ T "contact.topic.request" }}</option>
+      <option value="routes">{{ T "contact.topic.routes" }}</option>
+      <option value="tickets">{{ T "contact.topic.tickets" }}</option>
+      <option value="fipcard">{{ T "contact.topic.fipcard" }}</option>
       <option value="feedback">{{ T "contact.topic.feedback" }}</option>
+      <option value="content">{{ T "contact.topic.content" }}</option>
       <option value="accessibility">
         {{ T "contact.topic.accessibility" }}
       </option>
@@ -47,9 +40,31 @@
   </label>
 
   <div data-field="general" style="display:none;">
-    <p>
-      {{ T "contact.topic.general-note" | .Page.RenderString }}
-    </p>
+    {{- partial "highlight"
+      (dict "Content" (T "contact.topic.general-note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="routes" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.topic.routes-note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="tickets" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.topic.tickets-note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="fipcard" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.topic.fipcard-note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="feedback,content,accessibility" style="display:none;">
+    {{ T "contact.topic.feedback-note" }}
   </div>
 
   <label
@@ -79,16 +94,32 @@
 
   <label
     for="message"
-    data-field="general,request,feedback,others"
+    data-field="feedback,content,others"
     style="display:none;"
     >{{ T "contact.messageLabel" }}
     <textarea id="message" name="message" rows="4" cols="50"></textarea>
   </label>
 
+  <label
+    for="name"
+    data-field="feedback,content,accessibility,others"
+    style="display:none;"
+    >{{ T "contact.nameLabel" }}
+    <input type="text" id="name" name="name" autocomplete="name" />
+  </label>
+
+  <label
+    for="email"
+    data-field="feedback,content,accessibility,others"
+    style="display:none;"
+    >{{ T "contact.emailLabel" }}
+    <input type="email" id="email" name="email" autocomplete="email" />
+  </label>
+
   <input
     type="submit"
     class="a-button"
-    data-field="general,request,feedback,accessibility,others"
+    data-field="feedback,content,accessibility,others"
     style="display:none;"
     value="{{ T "contact.submitButton" }}"
   />
