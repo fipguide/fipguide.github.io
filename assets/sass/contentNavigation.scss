@@ -106,6 +106,16 @@
     list-style-type: none;
     list-style-position: outside;
     padding-left: 0;
+
+    @media print {
+      list-style-type: disc !important;
+      display: block !important;
+      padding-left: 20px !important;
+
+      .a-operator-logo {
+        display: none;
+      }
+    }
   }
 
   &-date {
