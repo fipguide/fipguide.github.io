@@ -17,7 +17,7 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 ## Gültigkeit FIP-Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 

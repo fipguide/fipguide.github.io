@@ -7,6 +7,7 @@ params:
     first: "kostenlos"
     second: "kostenlos"
   fip_50: false
+  fip_75: false
   reservations: true
   booking_link: "https://www.lner.co.uk/"
   type: "website"

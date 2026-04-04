@@ -8,6 +8,7 @@ params:
     first: "2 € / 16 €"
     second: "2 € / 11 €"
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
   type: "phone"
@@ -32,7 +33,11 @@ Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
 Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buchungsbestätigung) sowie das eTicket per E-Mail versendet. Bei der Zugreise muss das eTicket zusammen mit dem FIP Freifahrtschein oder dem FIP Ausweis vorgelegt werden.
 
 {{% highlight tip %}}
-Die SNCF kennt FIP Vergünstigungen teilweise auch unter den Namen: \
+Um Wartezeiten zu vermeiden, kann auf der [Website der SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous) ein Rückruftermin vereinbart werden. Dabei kann der Name und die E-Mail-Adresse bereits vorab angegeben werden und muss nicht mehr am Telefon diktiert werden. Außerdem kann im Freitextfeld die gewünschte Verbindung angegeben und der FIP Ermäßigung angegeben werden.
+
+Der Rückrufservice funktioniert nur mit französischen Telefonnummern oder ausländischen Festnetznummern. Ausländische Mobilfunknummern funktionieren nicht.
+
+Die SNCF kennt die FIP Ermäßigungen teilweise auch unter den Namen: \
 _FIP cheminot étranger_ = 50% FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
 {{% /highlight %}}

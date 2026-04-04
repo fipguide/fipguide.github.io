@@ -8,6 +8,7 @@ booking:
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
+  fip-75: Billets FIP 75
   fip-global-fare: Tarif Global FIP
   not-bookable: non réservable
   reservation: Réservation
@@ -65,6 +66,9 @@ fipValidity:
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
   issuer: Émetteur de la carte FIP
+  noIssuers: >-
+    Malheureusement, aucune information n'est encore disponible pour l'opérateur
+    actuel.
   retired: Retraités
   retired-relatives: Ayants droit des retraités
   rules: Règles

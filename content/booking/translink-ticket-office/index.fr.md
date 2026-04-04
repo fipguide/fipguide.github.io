@@ -4,6 +4,7 @@ title: "Guichet Translink"
 description: "Informations de réservation pour le guichet Translink."
 params:
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.translink.co.uk/using-translink/station-finder"
   type: "onsite"

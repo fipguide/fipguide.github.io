@@ -6,6 +6,7 @@ description: "Buchungsinformationen für die Buchung per E-Mail bei Internationa
 params:
   fip_global_fare: true
   fip_50: true
+  fip_75: true
   type: "email"
   fee: 10 £
 
