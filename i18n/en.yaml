@@ -16,30 +16,71 @@ booking:
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
 contact:
+  accessibility:
+    label: 'Website Feedback: Accessibility'
+    message: 'Please describe how we can improve:'
+    webpage: Affected page (URL)
+  content:
+    label: 'Website Feedback: Content Addition or Correction'
   emailLabel: 'Email:'
   emailSubject: New Message from FIP Guide
+  empty: Please select …
+  feedback:
+    label: 'Website Feedback: Praise and Criticism'
+    note: >-
+      We welcome any feedback to improve the website for our colleagues who are
+      FIP members.
+  fipcard:
+    label: Application for FIP Card and FIP Coupon
+    note: >-
+      Unfortunately, we are unable to help in this case. We are an independent
+      community project and therefore cannot influence the issuance of FIP Cards
+      and FIP Coupons.
+
+      Please contact your responsible HR department.
   formAriaLabel: Contact Form
+  general:
+    label: General question about using FIP
+    note: >-
+      We answer general questions on the [General
+      Information](/generalinformation) page. Feel free to use the search for
+      specific terms.
+
+      Detailed information can be found on [country pages](/country) and
+      [operator pages](/operator).
+
+      Specific questions are answered by the community and the FIP Guide team on
+      [Discord](https://discord.gg/5nWS9Eu9zz).
   messageLabel: 'Message:'
   nameLabel: 'Name:'
+  others:
+    label: Other
+    topicLabel: 'Summary:'
+  routes:
+    label: Question about travel routes and trains
+    note: >-
+      Use the search to find relevant information for your journey.
+
+      Detailed information can be found on [country pages](/country) and
+      [operator pages](/operator).
+
+      Specific questions are answered by the community and the FIP Guide team on
+      [Discord](https://discord.gg/5nWS9Eu9zz).
   submitButton: Submit
   successMessage: >-
     Thank you! Your message has been sent successfully. We'll get back to you as
     soon as possible.
-  topic:
-    accessibility: Report an accessibility barrier
-    accessibility-note: 'Please describe how we can improve:'
-    accessibility-webpage: Affected page (URL)
-    empty: Please select …
-    feedback: Feedback on the website
-    general: General question
-    general-note: >-
-      Before submitting your request, please check whether the answer is already
-      available in the FIP Guide. Have a look at the appropriate
-      [country](/country) or [operator](/operator) page. You can also use the
-      search for this.
-    label: 'Topic:'
-    others: Other
-    request: Suggest a content addition or correction
+  tickets:
+    label: Question about ticket purchase and reservations
+    note: >-
+      We cannot sell tickets and reservations for trains.
+
+      Information on booking options can be found on the [operator
+      page](/operator) of the respective company.
+
+      Specific questions are answered by the community and the FIP Guide team on
+      [Discord](https://discord.gg/5nWS9Eu9zz).
+  topicLabel: 'Category:'
 contentNavigation:
   button: Open and close content overview
   relatedCountries: Countries in which the operator is active
