@@ -7,6 +7,7 @@ params:
     - Arctic Train
     - Flåmbahn
     - Flytoget Airport Express
+    - SJ Sverige
 ---
 
 ## FIP Nutzung
@@ -14,11 +15,8 @@ params:
 In Norwegen kann FIP bei den staatlich beauftragten Eisenbahnverkehrsunternehmen im öffentlichen Schienenpersonenverkehr genutzt werden.
 Im Rahmen von Ausschreibungsverfahren des norwegischen Ministerium für Verkehr und Kommunikation werden die Verkehrspakete vergeben.
 
-Auf dem FIP-Ausweis und den FIP Freifahrtscheinen ist **Vy Group AS** abgedruckt, worin folgende Unternehmen enthalten sind:
-
-- [Vy Tog und Vy Tog Vest](https://www.vy.no)
-- [SJ Nord](https://www.sjnorge.no)
-- [Go-Ahead Nordic](https://www.go-aheadnordic.com)
+Auf dem FIP-Ausweis und den FIP Freifahrtscheinen ist **Vy Group AS** abgedruckt, gefahren werden kann aber mit den Zügen der Betreiber Vy Tog, SJ Nord und Go-Ahead Nordic.
+Details sind auf der [Betreiberseite von Vy](/operator/vy) nachzulesen.
 
 {{< identify-operator sources="entur-website,db-website" >}}
 {{< /identify-operator >}}
