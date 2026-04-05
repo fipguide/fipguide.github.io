@@ -25,6 +25,7 @@
     background-color: var(--bg-neutral);
     color: var(--body-color);
     resize: vertical;
+    text-overflow: ellipsis;
 
     @include focus-indicator(0.2rem);
   }
