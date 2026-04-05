@@ -183,6 +183,8 @@ Reservations are required, except on the Barcelona(-Girona-Figueres)-Port Bou ro
 
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
 
+In Barcelona, Cercanías services (including to the airport) are only accessible through ticket gates. At a staffed ticket office, you can request a "Bono Gratuit" (for the FIP Coupon) – a free ticket that opens the gates. It is only valid for a single journey.[^4]
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -261,4 +263,6 @@ Renfe can often be compared more to an airline than to other railway companies. 
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
 
-[^3]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+[^3]: [User feedback: ticket purchase on the train](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^4]: [User feedback: ticket gates in Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)
