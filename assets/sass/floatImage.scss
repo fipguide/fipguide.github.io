@@ -11,4 +11,10 @@
     float: left;
     margin-right: 2rem;
   }
+
+  &--center > figure {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
