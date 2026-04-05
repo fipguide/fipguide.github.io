@@ -3,5 +3,4 @@ title: "How many fields can I request for FIP Coupons?"
 weight: 10
 ---
 
-Depending on your needs, FIP Coupons with 1 to 4 fields per FIP member can be requested.
-Each field entitles you to an unlimited number of journeys on the network of the respective railway or shipping company on the date entered and the following day.
+The number of fields varies depending on the operator, the issuer of your FIP Card, and your employee status. More information can be found in the [issuer overview](/fip-validity).
