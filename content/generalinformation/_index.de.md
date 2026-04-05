@@ -32,19 +32,7 @@ Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermä
 
 Der FIP Ausweis hat je nach eigener Bahngesellschaft eine unterschiedliche Gültigkeitsdauer. Der FIP Ausweis gilt bereits einen Monat vor dem aufgedruckten ersten Gültigkeitsjahr (01.12. des Vorjahres) sowie einen Monat nach dem letzten Gültigkeitsjahr (31.01 des Folgejahres).
 
-Für folgende Bahngesellschaften liegen uns Informationen zur Gültigkeitsdauer vor:
-
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
-Der FIP Ausweis ist immer für eine feste Periode von drei Jahren gültig. Die aktuelle Periode ist 2025-2026-2027.
-{{% /expander %}}
-
-{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
-Der FIP Ausweis ist drei Jahre gültig.
-{{% /expander %}}
-
-{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
-Der FIP Ausweis ist ein Jahr gültig.
-{{% /expander %}}
+Die Gültigkeitsdauer deines FIP Ausweises kannst du auf unserer [Übersichtsseite zur FIP Gültigkeit](/fip-validity/) herausfinden.
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
@@ -112,15 +100,11 @@ Für einige Züge existieren spezielle Preise und Sonderregeln. Diese sind weder
 
 ### Nationale Vergünstigungen (kein FIP)
 
-FIP Vergünstigungen gelten nie in Zügen der eigenen Bahngesellschaft. Daher wird innerhalb des Heimatlandes ein anderes Ticket benötigt. Für die Mitarbeitenden folgender Bahngesellschaften stehen uns diese Informationen zur Verfügung:
+FIP Vergünstigungen gelten nicht in Zügen der eigenen Bahngesellschaft. Daher wird innerhalb des Heimatlandes ein anderes Ticket benötigt.
 
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
+Nicht immer ist die Fahrt mit FIP Tickets die günstigste Option. Vergünstigte FIP Tickets gewähren im Regelfall einen Rabatt auf den flexiblen Ticketpreis. Zuggebundene Tickets wie Sparpreise können trotzdem günstiger sein.
 
-Mitarbeitende der Deutschen Bahn können für die Fahrt bis zum [Grenztarifpunkt](#grenzpunkte) nationale Vergünstigungen nutzen. Dafür kann ein Tagesticket M Fern oder eine Netzcard genutzt werden. Diese gelten im gesamten Netz und somit bis zum Grenztarifpunkt zu den Nachbarländern.
-
-Teilweise sind andere Tickets, die auf dem gesamten Abschnitt gelten, günstigere Alternativen zu FIP. Dazu gehören (Super) Sparpreise Europa DB-PEP (Nur in Verbindung mit einem Reisenden mit FIP, siehe Nutzungsbestimmungen) oder auch normale (Super) Sparpreise. Weitere Informationen dazu sind im DB Reisemarkt und DB Personalportal zu finden.
-
-{{% /expander %}}
+Zusätzlich gewähren einige Bahngesellschaften ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten sind in der [Übersicht der FIP Gültigkeit](/fip-validity) zu finden.
 
 ## Grenzpunkte
 
@@ -159,19 +143,9 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 
 ## Versteuerung
 
-Für Mitarbeitende einiger Länder ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursacht. Für die folgenden Ländern stehen uns Informationen zur Verfügung:
+Für Mitarbeitende einiger Länder ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursachen kann.
 
-{{% expander "Deutschland" info "tax" %}}
-
-FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vorteil_ und unterliegen § 8 des Einkommensteuergesetzes (EStG). Die FIP Freifahrtscheine sind somit steuer- und sozialversicherungspflichtig.
-
-Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im DB Reisemarkt oder DB Personalportal verfügbar.
-
-Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2025) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
-
-FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden dem Mitarbeitenden angerechnet.
-
-{{% /expander %}}
+Weitere Informationen findest du in der [Übersicht der FIP Ausstellungsinformationen](/fip-validity).
 
 ## FAQ
 

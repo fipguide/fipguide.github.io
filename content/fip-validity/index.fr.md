@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Comparaison de la validité FIP"
+title: "Validité FIP"
 pagefind_ignore: true
 ---
 
