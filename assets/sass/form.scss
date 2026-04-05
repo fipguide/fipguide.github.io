@@ -28,6 +28,14 @@
 
     @include focus-indicator(0.2rem);
   }
+
+  select {
+    height: 5.1rem;
+  }
+
+  .a-button {
+    border: 0.2rem solid var(--link-default);
+  }
 }
 
 #success {
