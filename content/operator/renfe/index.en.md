@@ -11,7 +11,7 @@ Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "S
 
 ## Summary
 
-- FIP free tickets are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
+- FIP Coupons are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
 - For trains requiring reservations, tickets can be purchased at the FIP Global Fare (regardless of distance), including the reservation; FIP Coupons are not needed.
 - FIP is not accepted on Avlo trains.
 - For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP Global Fares apply as for domestic AVEs.
