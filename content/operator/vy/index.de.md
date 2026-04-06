@@ -39,28 +39,22 @@ Auf dem FIP Ausweis und den FIP Freifahrtscheinen ist allerdings nur **Vy Group 
     reservation_possible=true
 %}}
 
-Fernzüge auf den Hauptstrecken des Landes. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond gekennzeichnet.
-
-Mehr Infos zu den Nachtzügen:
-
-- Vy: https://www.vy.no/en/buy-tickets/train-tickets#travel-by-night
-- SJ Nord: https://www.sj.no/en/plan-your-journey/night-train/
-- Go-Ahead Nordic: https://go-aheadnordic.no/welcome-aboard/travelling-on-the-night-train
+Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond gekennzeichnet.
 
 #### Strecken im Linienverkehr
 
 Vy:
 
-- F4 Oslo S – Bergen (Bergensbanen)
+- F4: Oslo S – Bergen (Bergensbanen)
 
 SJ Nord:
 
-- F6 Oslo S – Trondheim (Dovrebanen)
-- F7 Trondheim – Bodø (Nordlandsbanen)
+- F6: Oslo S – Trondheim (Dovrebanen)
+- F7: Trondheim – Bodø (Nordlandsbanen)
 
 Go-Ahead Nordic:
 
-- F5 Oslo S – Kongsberg – Kristiansand – Stavanger (Sørlandsbanen)
+- F5: Oslo S – Kongsberg – Kristiansand – Stavanger (Sørlandsbanen)
 
 #### Reservierung
 
@@ -77,14 +71,14 @@ Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich.
     reservation_possible=true
 %}}
 
-Der Regionekspress verbindet Orte und Städte mit Halten an den wichtigsten Stationen.
+Der Regionekspress verbindet Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise führen die Züge Automaten für Snacks und Getränke mit.
 
 Vy:
 
-- RE10 Lillehammer – Oslo Airport Gardermoen – Oslo S – Drammen
-- RE11 Eidsvoll – Oslo Airport Gardermoen – Oslo S – Skien
-- RE20 Oslo S – Halden – (Göteborg – Malmö)
-- RE30/R31 Oslo S – Nittedal – Jaren/Gjøvik (Gjøvikbanen)
+- RE10: Lillehammer – Oslo Airport Gardermoen – Oslo S – Drammen
+- RE11: Eidsvoll – Oslo Airport Gardermoen – Oslo S – Skien
+- RE20: Oslo S – Halden – (Göteborg – Malmö)
+- RE30: Oslo S – Nittedal – Jaren/Gjøvik (Gjøvikbanen)
 
 {{% highlight important %}}
 Auf dem RE20 wird FIP nur zwischen Oslo S und Halden anerkannt, aber nicht bei der grenzüberschreitenden Fahrt.
@@ -101,28 +95,29 @@ Auf dem RE20 wird FIP nur zwischen Oslo S und Halden anerkannt, aber nicht bei d
     reservation_possible=true
 %}}
 
-Der Regiontog verbindet Orte und Städte mit Halten an fast allen Stationen.
+Der Regiontog verbindet Orte und Städte mit Halten an fast allen Stationen. Teilweise führen die Züge Automaten für Snacks und Getränke mit.
 
 Vy:
 
-- R12 Kongsberg – Drammen – Oslo S – Oslo Airport Gardermoen–Eidsvoll
-- R13 Drammen – Oslo S – Jessheim – Dal
-- R14 Asker – Oslo S – Kongsvinger
-- R21 Stabekk – Oslo S – Moss
-- R22 Oslo S – Mysen – Rakkestad
-- R40 Bergen – Voss – Myrdal (Vossebanen)
-- R55 Notodden – Porsgrunn (Bratsbergbanen)
+- R12: Kongsberg – Drammen – Oslo S – Oslo Airport Gardermoen–Eidsvoll
+- R13: Drammen – Oslo S – Jessheim – Dal
+- R14: Asker – Oslo S – Kongsvinger
+- R21: Stabekk – Oslo S – Moss
+- R22: Oslo S – Mysen – Rakkestad
+- R31: Oslo S – Nittedal – Jaren/Gjøvik (Gjøvikbanen)
+- R40: Bergen – Voss – Myrdal (Vossebanen)
+- R55: Notodden – Porsgrunn (Bratsbergbanen)
 
 SJ Nord:
 
-- R60 Trondheim – Røros – Hamar (Rørosbanen)
-- R65 Oslo S – Dombås – Åndalsnes (Raumabanen)
-- R70 Oppdal/Lundamo – Trondheim – Trondheim Airport – Steinkjer
-- R71 Trondheim – Storlien
+- R60: Trondheim – Røros – Hamar (Rørosbanen)
+- R65: Oslo S – Dombås – Åndalsnes (Raumabanen)
+- R70: Oppdal/Lundamo – Trondheim – Trondheim Airport – Steinkjer
+- R71: Trondheim – Storlien
 
 Go-Ahead Nordic:
 
-- R50 Arendal – Nelaug (Arendalsbanen)
+- R50: Arendal – Nelaug (Arendalsbanen)
 
 #### Reservierung
 
@@ -143,13 +138,13 @@ Lokalzüge in den Ballungsräumen Oslo, Bergen und Stavanger.
 
 Vy:
 
-- L1 Spikkestad – Asker – Oslo S – Lillestrøm
-- L2 Stabekk – Oslo S – Holmlia – Ski
-- L4 Bergen – Arna
+- L1: Spikkestad – Asker – Oslo S – Lillestrøm
+- L2: Stabekk – Oslo S – Holmlia – Ski
+- L4: Bergen – Arna
 
 Go-Ahead Nordic:
 
-- L5 Stavanger – Sandnes – Egersund (Jærbanen)
+- L5: Stavanger – Sandnes – Egersund (Jærbanen)
 
 Züge, welche mit X markiert sind, halten nicht an allen Stationen (z. B. L2x).
 
@@ -189,13 +184,44 @@ Vy betreibt ein Netzwerk an Fernbuslinien, welche allerdings nicht mit FIP genut
 
 Die Klassen in den Zügen unterschieden sich je nach Betreiber und Zugkategorie.
 
-siehe RDG
+**Vy**
 
-Infos zu Getränken und Snacks
+- Standard (Lavpris / Flex): Vergleichbar mit der 2. Klasse.
+- Pluss: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee und Tee.
+- Kupé: Sechs-Sitzer-Abteil. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Tagzügen.
+- PlussNatt: Liegesessel, welcher sich komplett flach legen lässt. Nur verfügbar in Nachtzügen.
+- Hvilekupé: Liegeabteil mit 6 Schlafplätzen. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Nachtzügen.
+- Sovekupé: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
+
+[Mehr Infos zu den Klassen bei Vy.](https://www.vy.no/en/buy-tickets/train-tickets)
+
+**SJ Nord:**
+
+- Standard: Vergleichbar mit der 2. Klasse.
+- Premium: Vergleichbar mit der 1. Klasse. Es gibt kostenlose kalte und warme Getränke. Nicht verfügbar im Nachtzug.
+- Premium Pluss: Liegesessel, kostenlose kalte und warme Getränke, Obst und Schokolade
+- Sovekupé: Schlafabteil mit zwei Betten und einem Waschbecken sowie Toiletten auf dem Gang.
+
+[Mehr Infos zu den Klassen bei SJ Nord.](https://www.sj.no/en/ticket-categories/)
+
+**Go-Ahead Nordic:**
+
+- Standard: Vergleichbar mit der 2. Klasse.
+- Ekstra: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee, Tee und Snacks.
+- Hvile: Liegesessel, welcher sich um 45° neigen lässt. Ansonsten wie Ekstra. Verfügbar in Nachtzügen und ausgewählten Tagzügen
+- Sove: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
+
+[Mehr Infos zu den Klassen bei Go-Ahead Nordic](https://go-aheadnordic.no/velkommen-om-bord/om-vare-reiseklasser)
+
+Die Züge der Kategorie `RE`, `R` und `L` führen in der Regel nur die Standard-Klasse.
+
+Mit einem FIP-Ausweis / FIP Freifahrtschein für die 2. Klasse können Fahrten in der 1. Klasse gegen Aufpreis gebucht werden.
 
 ## Ticket- und Reservierungskauf
 
 FIP Tickets und Reservierungen können nicht als Self-Service gebucht werden, aber via Chat, Telefon-Hotline oder an den Ticketschaltern der Bahnhöfe.
+
+Für die Reservierung im Sitz-, Liege- oder Schlafwagen ist unabhängig von der Wagenklasse eine Reservierungsgebühr zu entrichten.
 
 ### Online
 

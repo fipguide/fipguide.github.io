@@ -16,7 +16,7 @@ In Norwegen kann FIP bei den staatlich beauftragten Eisenbahnverkehrsunternehmen
 Im Rahmen von Ausschreibungsverfahren des norwegischen Ministerium für Verkehr und Kommunikation werden die Verkehrspakete vergeben.
 
 Auf dem FIP-Ausweis und den FIP Freifahrtscheinen ist **Vy Group AS** abgedruckt, gefahren werden kann aber mit den Zügen der Betreiber Vy Tog, SJ Nord und Go-Ahead Nordic.
-Details sind auf der [Betreiberseite von Vy](/operator/vy) nachzulesen.
+Details sind auf der [Betreiberseite](/operator/vy) nachzulesen.
 
 {{< identify-operator sources="entur-website,db-website" >}}
 {{< /identify-operator >}}
