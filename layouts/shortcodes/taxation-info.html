@@ -1,0 +1,13 @@
+{{- $dbPage := .Page.Site.GetPage "/operator/db" -}}
+{{- $lang := .Page.Language.Lang -}}
+{{- if $dbPage -}}
+  {{- with $dbPage.Resources.Get "validity.yaml" -}}
+    {{- $validity := . | transform.Unmarshal -}}
+    {{- with index $validity "taxation" -}}
+      {{- $text := index . $lang -}}
+      {{- if $text -}}
+        {{ $text | $.Page.RenderString }}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

@@ -11,3 +11,4 @@ import "./interactiveMap.js";
 import "./expander.js";
 import "./dialog.js";
 import "./fipValidityComparison.js";
+import "./taxationCalculator.js";

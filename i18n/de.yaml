@@ -50,6 +50,8 @@ fipValidity:
   active-relatives: Angehörige aktiver Mitarbeitender
   additional: Sonstige
   buttonLabel: Mehr Informationen zur FIP Gültigkeit anzeigen
+  card-validityHeading: Gültigkeit FIP Ausweis
+  card-validityMissingInfo: Keine Informationen zur Gültigkeit des FIP Ausweises verfügbar.
   fip-coupon: FIP Freifahrtschein
   fip-coupon-description: >-
     Wähle zunächst den Aussteller deines FIP Ausweises. Wenn du berechtigt bist,
@@ -66,12 +68,15 @@ fipValidity:
     Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
     du [hier](/fip-validity).
   issuer: Aussteller des FIP Ausweises
+  national-discountsHeading: Nationale Vergünstigungen
+  national-discountsMissingInfo: Keine Informationen zu nationalen Vergünstigungen verfügbar.
   retired: Rentner:innen
   retired-relatives: Angehörige von Rentner:innen
   rules: Regeln
   selectIssuer: 'FIP Ausweis Aussteller wählen:'
   selectIssuerFirst: Bitte zuerst einen FIP Ausweis Aussteller auswählen.
   selectIssuerPlaceholder: FIP Ausweis Aussteller wählen
+  taxationHeading: Versteuerung
   unknown: Unbekannt
   validity: Gültigkeit
   widows: Witwen, Witwer und Waisen
@@ -167,6 +172,83 @@ support:
     um Inhalte beizutragen. Alternativ kannst du uns auch über das
     [Kontaktformular](/contact) schreiben.
   title: Unterstütze uns
+taxation:
+  add-national: Nationale Vergünstigung hinzufügen
+  add-operator: Betreiber hinzufügen
+  calculator: Steuerrechner
+  category-international: Internationale FIP Freifahrtscheine
+  category-national: Nationale Vergünstigungen
+  category-other: Sonstiges
+  children: Kinder
+  children-half: Kinder bis einschließlich 15 Jahren die Hälfte
+  class-mixed-warning: >-
+    Bei Mischung von 1. und 2. Klasse für den gleichen Betreiber müssen die
+    Freifahrtscheine auf zwei verschiedene Personen (z. B. Angehörige)
+    aufgeteilt werden.
+  decrease: Verringern
+  disclaimer: >-
+    Wir übernehmen keine Haftung oder Garantie für die Richtigkeit der
+    berechneten Daten. Die Berechnung dient ausschließlich zur Orientierung.
+  field: Feld
+  fields: Felder
+  first-class: 1. Klasse
+  increase: Erhöhen
+  manual-mode: Manueller Modus
+  no-first-class: Nur 2. Klasse
+  no-relatives-warning: >-
+    Für diesen Betreiber sind Freifahrtscheine nur für aktive Mitarbeitende
+    verfügbar. Es kann nur eine Klassenart ausgewählt werden.
+  optimization-impossible: >-
+    Mindestens eine Bestellung überschreitet bereits alleine die Freigrenze.
+    Eine vollständige Aufteilung ohne Überschreitung ist daher nicht möglich.
+    Alle Bestellungen, die einzeln einen Monat überschreiten würden, werden
+    gemeinsam in einem Monat zusammengefasst.
+  optimization-items: Bestellungen
+  optimization-month: Monat
+  optimization-title: Optimale Aufteilung auf Monate
+  optimize: Optimieren
+  other-placeholder: Sonstige Sachbezüge (€)
+  per-field: pro Feld
+  person: Person
+  person-limit: Anzahl Personen
+  person-limit-not-supported-warning: >-
+    Für diesen Betreiber sind Coupons für Angehörige nicht verfügbar. Die
+    Berechnung erfolgt daher immer mit x 1, auch wenn oben mehr Personen
+    ausgewählt sind.
+  persons: Personen
+  persons-required: Benötigte Personen
+  planning: Planung
+  remove: Entfernen
+  reset: Zurücksetzen
+  second-class: 2. Klasse
+  second-person-hint: Zweite Person benötigt
+  sum: Summe
+  summary-all-assigned-ok: >-
+    Alle Freifahrtscheine sind auf Monate verteilt. Kein Monat überschreitet {{
+    .Threshold }} €.
+  summary-all-assigned-over-month: >-
+    Alle Freifahrtscheine sind zugewiesen, aber mindestens ein Monat liegt über
+    {{ .Threshold }} €. In diesem Fall wird der gesamte Monatsbetrag versteuert,
+    nicht nur der Anteil über dem Grenzwert.
+  summary-over-limit-unassigned: >-
+    Die Summe liegt über {{ .Threshold }} € und ist noch nicht vollständig auf
+    Monate verteilt. Sobald {{ .Threshold }} € überschritten sind, ist der
+    gesamte Monatsbetrag steuerpflichtig, nicht nur der Anteil über dem
+    Grenzwert.
+  summary-under-limit: >-
+    Die Summe liegt bei höchstens {{ .Threshold }} €. Es entsteht keine
+    zusätzliche Versteuerung.
+  threshold-above: >-
+    Die Summe liegt über der Freigrenze von {{ .Threshold }} €. Der gesamte
+    Betrag (nicht nur was über der Grenze liegt) wird auf das zu versteuernde
+    Einkommen aufgeschlagen.
+  threshold-below: >-
+    Die Summe liegt unter der Freigrenze von {{ .Threshold }} €. Es fallen keine
+    zusätzlichen Steuer- und Sozialabgaben an.
+  threshold-excess: 'Davon über der Freigrenze:'
+  title: Sachbezugswerte Internationaler Freifahrtscheine {{ .Year }}
+  unassigned: Nicht zugewiesen
+  unlock: Zuordnung aufheben
 teamMembers:
   lennart:
     name: Lennart Rommeiß

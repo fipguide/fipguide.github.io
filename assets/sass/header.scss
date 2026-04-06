@@ -107,6 +107,11 @@
   z-index: 10;
 }
 
+#header:has(.overlay--taxationSheet),
+.overlay--taxationSheet {
+  z-index: 9;
+}
+
 body:has(.overlay--show),
 body:has(dialog[open]) {
   overflow: hidden;

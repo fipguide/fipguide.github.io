@@ -49,6 +49,8 @@ fipValidity:
   active-relatives: Relatives of Active Employees
   additional: Other
   buttonLabel: Show more information on FIP validity
+  card-validityHeading: FIP Card Validity
+  card-validityMissingInfo: No information on FIP Card validity available.
   fip-coupon: FIP Coupon
   fip-coupon-description: >-
     First select the issuer of your FIP Card. If you are eligible, you can
@@ -63,12 +65,15 @@ fipValidity:
     discount applies to you, first select the issuer of your FIP Card. You can
     find an overview of all discounts [here](/fip-validity).
   issuer: FIP Card Issuer
+  national-discountsHeading: National Discounts
+  national-discountsMissingInfo: No information on national discounts available.
   retired: Retirees
   retired-relatives: Relatives of Retirees
   rules: Rules
   selectIssuer: 'Select your FIP Card issuer:'
   selectIssuerFirst: Please select a FIP Card issuer first.
   selectIssuerPlaceholder: Select FIP Card issuer
+  taxationHeading: Taxation
   unknown: Unknown
   validity: validity
   widows: Widows, Widowers and Orphans
@@ -159,6 +164,74 @@ support:
     [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to
     contribute content. Alternatively, you can also write to us via the [contact
     form](/contact).
+taxation:
+  add-national: Add national discount
+  add-operator: Add operator
+  calculator: Tax Calculator
+  category-international: International FIP Coupons
+  category-national: National Discounts
+  category-other: Other
+  children: Children
+  children-half: Children up to and including 15 years of age pay half
+  class-mixed-warning: >-
+    When mixing 1st and 2nd class for the same operator, the coupons must be
+    split between two different persons (e.g. relatives).
+  decrease: Decrease
+  disclaimer: >-
+    We assume no liability or guarantee for the accuracy of the calculated data.
+    The calculation is for orientation purposes only.
+  field: field
+  fields: fields
+  first-class: 1st Class
+  increase: Increase
+  manual-mode: Manual mode
+  no-first-class: 2nd Class only
+  no-relatives-warning: >-
+    For this operator, coupons are only available for active employees. Only one
+    class type can be selected.
+  optimization-impossible: >-
+    At least one booking alone already exceeds the threshold. A complete split
+    without exceeding the threshold is therefore not possible. All bookings that
+    would exceed a single month on their own are grouped into one month.
+  optimization-items: Bookings
+  optimization-month: Month
+  optimization-title: Optimal split by month
+  optimize: Optimize
+  other-placeholder: Other taxable benefits (€)
+  per-field: per field
+  person: Person
+  person-limit: Number of persons
+  person-limit-not-supported-warning: >-
+    For this operator, coupons for relatives are not available. The calculation
+    therefore always uses x 1, even if more persons are selected above.
+  persons: Persons
+  persons-required: Persons required
+  planning: Planning
+  remove: Remove
+  reset: Reset
+  second-class: 2nd Class
+  second-person-hint: Second person required
+  sum: Total
+  summary-all-assigned-ok: All coupons are assigned to months, and no month exceeds €{{ .Threshold }}.
+  summary-all-assigned-over-month: >-
+    All coupons are assigned, but at least one month exceeds €{{ .Threshold }}.
+    In that case, the full monthly amount is taxable, not just the part above
+    the threshold.
+  summary-over-limit-unassigned: >-
+    The total exceeds €{{ .Threshold }} and is not yet fully split across
+    months. Once €{{ .Threshold }} is exceeded, the full monthly amount is
+    taxable, not just the part above the threshold.
+  summary-under-limit: The total is at most €{{ .Threshold }}. No additional taxation applies.
+  threshold-above: >-
+    The total exceeds the tax-free threshold of €{{ .Threshold }}. The entire
+    amount (not just what exceeds the threshold) is added to taxable income.
+  threshold-below: >-
+    The total is below the tax-free threshold of €{{ .Threshold }}. No
+    additional tax or social contributions apply.
+  threshold-excess: 'Amount exceeding threshold:'
+  title: Taxable Values of International FIP Coupons {{ .Year }}
+  unassigned: Unassigned
+  unlock: Remove assignment
 teamMembers:
   lennart:
     name: Lennart Rommeiß

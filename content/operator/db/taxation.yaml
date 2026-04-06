@@ -1,0 +1,209 @@
+year: 2026
+threshold: 50
+national:
+  tagesticket-m-fern-zu:
+    title: TagesTicket M Fern Zu
+    first_class: 50.00
+    second_class: 24.96
+    children_half: true
+  tagesticket-m-fern-f:
+    title: TagesTicket M Fern F
+    first_class: 87.25
+    second_class: 49.96
+    children_half: true
+operators:
+  bdz:
+    title: BDŽ (Bulgarien)
+    max_fields: 4
+    first_class: 5.27
+    second_class: 3.23
+  bls:
+    title: BLS (Schweiz)
+    max_fields: 4
+    first_class: 0.57
+    second_class: 0.35
+  cd:
+    title: ČD (Tschechien)
+    max_fields: 4
+    first_class: 12.24
+    second_class: 7.50
+  cfl:
+    title: CFL (Luxemburg)
+    max_fields: 4
+    first_class: 0.35
+    second_class: 0.22
+  cfr:
+    title: CFR Călători (Rumänien)
+    max_fields: 4
+    first_class: 13.90
+    second_class: 8.51
+  cie:
+    title: CIE (Irland)
+    max_fields: 4
+    first_class: 2.16
+    second_class: 1.32
+  cp:
+    title: CP (Portugal)
+    max_fields: 4
+    first_class: 3.31
+    second_class: 2.03
+  dsb:
+    title: DSB (Dänemark)
+    max_fields: 4
+    first_class: 2.79
+    second_class: 1.71
+  euskotren:
+    title: Euskotren (Spanien)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.15
+  fs:
+    title: Trenitalia (Italien)
+    max_fields: 4
+    first_class: 22.72
+    second_class: 13.91
+  gb:
+    title: National Rail (Vereinigtes Königreich)
+    max_fields: 4
+    first_class: 20.53
+    second_class: 12.57
+  gysev:
+    title: GySEV / Raaberbahn (Österreich)
+    max_fields: 4
+    first_class: 0.66
+    second_class: 0.41
+  ht:
+    title: Hellenic Train (Griechenland)
+    max_fields: 4
+    first_class: 2.39
+    second_class: 1.46
+  hz:
+    title: HŽPP (Kroatien)
+    max_fields: 4
+    first_class: 3.43
+    second_class: 2.10
+  kd:
+    title: KD (Polen)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.85
+  ks:
+    title: KŚ (Polen)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.61
+  kw:
+    title: KW (Polen)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.74
+  lka:
+    title: ŁKA (Polen)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.52
+  ltg:
+    title: LTG-Link (Litauen)
+    max_fields: 4
+    first_class: 2.51
+    second_class: 1.54
+  mav:
+    title: MÁV-START (Ungarn)
+    max_fields: 4
+    first_class: 9.00
+    second_class: 5.51
+  nir:
+    title: NIR (Vereinigtes Königreich)
+    max_fields: 4
+    first_class: 0.44
+    second_class: 0.27
+  ns:
+    title: NS (Niederlande)
+    max_fields: 4
+    first_class: 3.97
+    second_class: 2.43
+  oebb:
+    title: ÖBB (Österreich)
+    max_fields: 4
+    first_class: 6.57
+    second_class: 4.02
+  pkp:
+    title: PKP (Polen)
+    max_fields: 4
+    first_class: 24.65
+    second_class: 15.10
+  renfe:
+    title: Renfe (Spanien)
+    max_fields: 4
+    first_class: 20.49
+    second_class: 12.55
+  sbb:
+    title: SBB CFF FFS (Schweiz)
+    max_fields: 4
+    first_class: 4.28
+    second_class: 2.62
+  sncb:
+    title: SNCB / NMBS (Belgien)
+    max_fields: 4
+    first_class: 4.75
+    second_class: 2.91
+  sncf:
+    title: SNCF Voyageurs (Frankreich)
+    max_fields: 4
+    first_class: 35.42
+    second_class: 21.70
+  sp:
+    title: Schweizer Privatbahnen (Schweiz)
+    max_fields: 4
+    first_class: 0.46
+    second_class: 0.28
+  sv:
+    title: Srbija Voz (Serbien)
+    max_fields: 4
+    first_class: 4.40
+    second_class: 2.69
+  sz:
+    title: SŽ (Slowenien)
+    max_fields: 4
+    first_class: 1.58
+    second_class: 0.97
+  vy:
+    title: Vy (Norwegen)
+    max_fields: 4
+    first_class: 5.09
+    second_class: 3.12
+  zpcg:
+    title: ŽPCG (Montenegro)
+    max_fields: 4
+    first_class: 0.33
+    second_class: 0.20
+  zrs:
+    title: ŽRS (Bosnien und Herzegowina)
+    max_fields: 4
+    first_class: 0.55
+    second_class: 0.33
+  zrsm:
+    title: ŽRSM (Nordmazedonien)
+    max_fields: 4
+    first_class: 0.89
+    second_class: 0.55
+  zssk:
+    title: ZSSK / ŽSR (Slowakei)
+    max_fields: 4
+    first_class: 4.75
+    second_class: 2.91
+  sll:
+    title: Stena Line Limited (Irland)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.28
+  stl:
+    title: Stena Line BV (Niederlande)
+    max_fields: 2
+    no_first_class: true
+    second_class: 0.28
+  bsb:
+    title: BSB (Österreich)
+    max_fields: 4
+    no_first_class: true
+    second_class: 0.41

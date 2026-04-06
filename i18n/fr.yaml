@@ -50,6 +50,8 @@ fipValidity:
   active-relatives: Ayants droit des employés actifs
   additional: Autre
   buttonLabel: Afficher plus d'informations sur la validité du FIP
+  card-validityHeading: Validité de la Carte FIP
+  card-validityMissingInfo: Aucune information sur la validité de la Carte FIP disponible.
   fip-coupon: Coupon FIP
   fip-coupon-description: >-
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
@@ -65,18 +67,22 @@ fipValidity:
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
   issuer: Émetteur de la carte FIP
+  national-discountsHeading: Réductions nationales
+  national-discountsMissingInfo: Aucune information sur les réductions nationales disponible.
   retired: Retraités
   retired-relatives: Ayants droit des retraités
   rules: Règles
   selectIssuer: 'Sélectionner l''émetteur de votre Carte FIP :'
   selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
   selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
+  taxationHeading: Imposition
   unknown: Inconnu
   validity: validité
   widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
+general: Général
 highlight:
   confusion: Risque de confusion
   important: Informations importantes
@@ -161,6 +167,81 @@ support:
     Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
     pour contribuer au contenu. Vous pouvez également nous écrire via le
     [formulaire de contact](/contact).
+taxation:
+  add-national: Ajouter une réduction nationale
+  add-operator: Ajouter un opérateur
+  calculator: Calculateur d’imposition
+  category-international: Coupons FIP internationaux
+  category-national: Réductions nationales
+  category-other: Autres
+  children: Enfants
+  children-half: Enfants jusqu’à 15 ans inclus paient la moitié
+  class-mixed-warning: >-
+    En cas de mélange de 1re et 2nd classe pour le même opérateur, les coupons
+    doivent être répartis entre deux personnes différentes (p. ex. ayants
+    droit).
+  decrease: Diminuer
+  disclaimer: >-
+    Nous n’assumons aucune responsabilité ni garantie quant à l’exactitude des
+    données calculées. Le calcul est fourni à titre indicatif uniquement.
+  field: champ
+  fields: champs
+  first-class: 1re classe
+  increase: Augmenter
+  manual-mode: Mode manuel
+  no-first-class: 2nd classe uniquement
+  no-relatives-warning: >-
+    Pour cet opérateur, les coupons ne sont disponibles que pour les employés
+    actifs. Une seule classe peut être sélectionnée.
+  optimization-impossible: >-
+    Au moins une réservation dépasse déjà à elle seule le seuil. Une répartition
+    complète sans dépassement n’est donc pas possible. Toutes les réservations
+    qui dépasseraient un mois à elles seules sont regroupées dans un même mois.
+  optimization-items: Réservations
+  optimization-month: Mois
+  optimization-title: Répartition optimale par mois
+  optimize: Optimiser
+  other-placeholder: Autres avantages imposables (€)
+  per-field: par champ
+  person: Personne
+  person-limit: Nombre de personnes
+  person-limit-not-supported-warning: >-
+    Pour cet opérateur, les coupons pour les ayants droit ne sont pas
+    disponibles. Le calcul utilise donc toujours x 1, même si plusieurs
+    personnes sont sélectionnées ci-dessus.
+  persons: Personnes
+  persons-required: Personnes requises
+  planning: Planification
+  remove: Supprimer
+  reset: Réinitialiser
+  second-class: 2nd classe
+  second-person-hint: Deuxième personne requise
+  sum: Total
+  summary-all-assigned-ok: >-
+    Tous les coupons sont répartis par mois et aucun mois ne dépasse {{
+    .Threshold }} €.
+  summary-all-assigned-over-month: >-
+    Tous les coupons sont attribués, mais au moins un mois dépasse {{ .Threshold
+    }} €. Dans ce cas, le montant mensuel entier est imposable, et pas seulement
+    la part au-dessus du seuil.
+  summary-over-limit-unassigned: >-
+    Le total dépasse {{ .Threshold }} € et n’est pas encore entièrement réparti
+    par mois. Dès que {{ .Threshold }} € sont dépassés, le montant mensuel
+    entier est imposable, et pas seulement la part au-dessus du seuil.
+  summary-under-limit: >-
+    Le total est au maximum de {{ .Threshold }} €. Aucune imposition
+    supplémentaire ne s’applique.
+  threshold-above: >-
+    Le total dépasse le seuil d’exonération de {{ .Threshold }} €. Le montant
+    entier (pas seulement ce qui dépasse le seuil) est ajouté au revenu
+    imposable.
+  threshold-below: >-
+    Le total est inférieur au seuil d’exonération de {{ .Threshold }} €. Aucune
+    cotisation fiscale ou sociale supplémentaire ne s’applique.
+  threshold-excess: 'Montant dépassant le seuil :'
+  title: Valeurs imposables des Coupons FIP internationaux {{ .Year }}
+  unassigned: Non attribué
+  unlock: Supprimer l’attribution
 teamMembers:
   lennart:
     name: Lennart Rommeiß
