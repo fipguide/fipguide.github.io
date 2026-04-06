@@ -1,5 +1,8 @@
 .o-taxation-calculator {
   margin-top: 1rem;
+  --taxation-controls-width: 10.1rem;
+  --taxation-btn-width: 3.2rem;
+  --taxation-field-value-width: 3.6rem;
 
   &__subtitle {
     color: var(--color-body);
@@ -590,7 +593,7 @@
     flex-shrink: 0;
     white-space: nowrap;
     color: var(--color-body);
-    opacity: 0.8;
+    opacity: 0.7;
   }
 
   &__class-value {
@@ -606,7 +609,7 @@
   &__class-hint {
     font-size: 0.85em;
     font-style: italic;
-    width: 10rem;
+    width: var(--taxation-controls-width);
     text-align: center;
   }
 
@@ -615,6 +618,8 @@
     font-size: 1.2em;
     font-variant-numeric: tabular-nums;
     white-space: nowrap;
+    margin-left: auto;
+    text-align: right;
     transition: color 0.2s;
 
     &--active {
@@ -625,6 +630,7 @@
   &__field-controls {
     display: flex;
     align-items: center;
+    width: var(--taxation-controls-width);
     gap: 0;
   }
 
@@ -640,7 +646,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 3.2rem;
+    width: var(--taxation-btn-width);
     height: 3.2rem;
     border: 0.2rem solid var(--link-default);
     background: transparent;
@@ -673,12 +679,23 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 3.6rem;
+    width: var(--taxation-field-value-width);
     height: 3.2rem;
     background: transparent;
     font-weight: bold;
     font-size: 1.2rem;
     font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  &__field-value--text {
+    font-size: 0.85em;
+    font-weight: normal;
+    font-style: italic;
+    opacity: 0.75;
+    flex: 0 0 var(--taxation-field-value-width);
+    text-align: center;
+    transform: translateX(0.72rem);
   }
 
   &__multiplier {
@@ -967,7 +984,7 @@
     &__row-col--right {
       margin-left: 0;
       align-self: stretch;
-      justify-content: flex-start;
+      justify-content: flex-end;
     }
 
     &__summary-actions {
@@ -991,12 +1008,6 @@
       width: auto;
       min-width: 4.8rem;
       text-align: left;
-    }
-
-    &__class-hint {
-      width: auto;
-      text-align: left;
-      flex: 1 1 100%;
     }
 
     &__field-controls {

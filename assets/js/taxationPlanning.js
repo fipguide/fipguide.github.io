@@ -273,13 +273,56 @@ export function optimizePlan(config, state, i18n) {
   var fixed = [];
   var free = [];
   var oversizedAnchorMonth = 1;
+  var oversizedAnchorLocked = false;
+  var fixedMonths = new Set();
+  var fixedMonthTotals = {};
+
+  for (const item of items) {
+    var month = parseInt(existingAssignments[item.id], 10);
+    if (manualAssignments[item.id] && month > 0) {
+      fixedMonths.add(month);
+      if (!fixedMonthTotals[month]) {
+        fixedMonthTotals[month] = 0;
+      }
+      fixedMonthTotals[month] += item.value;
+    }
+  }
 
   for (const item of items) {
     if (item.value <= threshold) continue;
     var assignedMonth = parseInt(existingAssignments[item.id], 10);
     if (manualAssignments[item.id] && assignedMonth > 0) {
       oversizedAnchorMonth = assignedMonth;
+      oversizedAnchorLocked = true;
       break;
+    }
+  }
+
+  if (!oversizedAnchorLocked) {
+    var monthKeys = Object.keys(fixedMonthTotals)
+      .map(function (k) {
+        return parseInt(k, 10);
+      })
+      .sort(function (a, b) {
+        return a - b;
+      });
+
+    for (const month of monthKeys) {
+      if (fixedMonthTotals[month] > threshold) {
+        oversizedAnchorMonth = month;
+        oversizedAnchorLocked = true;
+        break;
+      }
+    }
+  }
+
+  if (
+    !oversizedAnchorLocked &&
+    oversizedAnchorMonth === 1 &&
+    fixedMonths.has(1)
+  ) {
+    while (fixedMonths.has(oversizedAnchorMonth)) {
+      oversizedAnchorMonth += 1;
     }
   }
 

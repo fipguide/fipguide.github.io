@@ -175,78 +175,67 @@ taxation:
   add-operator: Add operator
   calculator: Tax Calculator {{ .Year }}
   calculator-description: >-
-    1) Entry: Add all FIP Coupons, national discounts, and any other taxable
-    benefits if needed. 2) Planning: Click “Optimize” to get a sensible monthly
-    split, then fine-tune it manually with drag and drop if required.
+    The tax calculator helps you determine the taxable non-cash benefit value of
+    your travel benefits.
+
+    1. Select the number of persons for whom you want to calculate
+       international coupons.
+    2. Select the coupons and the number of fields you need (the same class and
+       quantity are applied to each person, where possible).
+    3. Add national discounts and any additional taxable non-cash benefits.
+
+    The total taxable amount is then calculated.
+
+    In [Planning & Optimization](#planning-optimization), you can reduce your
+    tax impact by distributing amounts across multiple months.
   category-international: International FIP Coupons
   category-national: National Discounts
   category-other: Other
   children: Children
-  children-half: Children up to and including 15 years of age pay half
-  class-mixed-warning: >-
-    When mixing 1st and 2nd class for the same operator, the coupons must be
-    split between two different persons (e.g. relatives).
   decrease: Decrease
   disclaimer: >-
     We assume no liability or guarantee for the accuracy of the calculated data.
     The calculation is for orientation purposes only.
-  field: field
-  fields: fields
   first-class: 1st Class
   general-heading: General
   increase: Increase
-  manual-mode: Manual mode
   missing-info: We currently do not have information on taxation.
   no-first-class: 2nd Class only
-  no-relatives-warning: >-
-    For this operator, coupons are only available for active employees. Only one
-    class type can be selected.
-  optimization-impossible: >-
-    At least one booking alone already exceeds the threshold. A complete split
-    without exceeding the threshold is therefore not possible. All bookings that
-    would exceed a single month on their own are grouped into one month.
-  optimization-items: Bookings
   optimization-month: Month
-  optimization-title: Optimal split by month
   optimize: Optimize
   other-placeholder: Other taxable benefits (€)
-  per-field: per field
   person: Person
   person-limit: Number of persons
   person-limit-not-supported-warning: >-
     For this operator, coupons for relatives are not available. The calculation
-    therefore always uses x 1, even if more persons are selected above.
-  persons: Persons
-  persons-required: Persons required
+    therefore always uses one person, even if more persons were selected.
+  person-one: Person
+  person-other: Persons
   planning: Planning & Optimization
   planning-description: >-
-    Start with “Optimize” to generate a sensible monthly distribution. Then you
-    can move individual coupons with drag and drop, add months, or release fixed
-    assignments.
+    In Planning & Optimization mode, “Optimize” distributes your coupons across
+    months in an optimal way. If you need a specific coupon in a specific month,
+    move it via drag and drop. It stays fixed in that month until you unlock it.
+    “Optimize” respects these fixed assignments and adjusts all remaining
+    coupons accordingly. Individual coupons that exceed the threshold on their
+    own are grouped as early as possible.
   planning-focus: Optimize taxes
   remove: Remove
   reset: Reset
   second-class: 2nd Class
-  second-person-hint: Second person required
   sum: Total
   summary-all-assigned-ok: All coupons are assigned to months, and no month exceeds €{{ .Threshold }}.
   summary-all-assigned-over-month: >-
-    All coupons are assigned, but at least one month exceeds €{{ .Threshold }}.
-    In that case, the full monthly amount is taxable, not just the part above
-    the threshold.
+    All coupons are assigned, but at least one month is above the €{{ .Threshold
+    }} threshold. In that case, the full monthly amount is taxable, not just the
+    part above the threshold.
   summary-over-limit-unassigned: >-
-    The total exceeds €{{ .Threshold }} and is not yet fully split across
-    months. Once €{{ .Threshold }} is exceeded, the full monthly amount is
-    taxable, not just the part above the threshold.
-  summary-under-limit: The total is at most €{{ .Threshold }}. No additional taxation applies.
-  threshold-above: >-
-    The total exceeds the tax-free threshold of €{{ .Threshold }}. The entire
-    amount (not just what exceeds the threshold) is added to taxable income.
-  threshold-below: >-
-    The total is below the tax-free threshold of €{{ .Threshold }}. No
-    additional tax or social contributions apply.
-  threshold-excess: 'Amount exceeding threshold:'
-  title: Taxable Values of International FIP Coupons {{ .Year }}
+    The total is above the €{{ .Threshold }} threshold. The full monthly amount
+    is taxable, not just the part above the threshold. Distribute the amount
+    across multiple months to optimize your tax impact.
+  summary-under-limit: >-
+    The total is within the €{{ .Threshold }} threshold. No additional taxation
+    applies.
   unassigned: Unassigned
   unlock: Remove assignment
 teamMembers:

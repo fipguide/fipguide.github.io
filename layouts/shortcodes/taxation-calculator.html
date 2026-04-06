@@ -166,7 +166,6 @@
         data-i18n-other-placeholder="{{ T "taxation.other-placeholder" }}"
         data-i18n-highlight-important="{{ T "highlight.important" }}"
         data-i18n-person-limit="{{ T "taxation.person-limit" }}"
-        data-i18n-no-relatives-warning="{{ T "taxation.no-relatives-warning" }}"
         data-i18n-planning="{{ T "taxation.planning" }}"
         data-i18n-planning-description="{{ T "taxation.planning-description" }}"
         data-i18n-planning-focus="{{ T "taxation.planning-focus" }}"
@@ -175,7 +174,8 @@
         data-i18n-optimization-month="{{ T "taxation.optimization-month" }}"
         data-i18n-unassigned="{{ T "taxation.unassigned" }}"
         data-i18n-person="{{ T "taxation.person" }}"
-        data-i18n-persons="{{ T "taxation.persons" }}"
+        data-i18n-person-one="{{ T "taxation.person-one" }}"
+        data-i18n-person-other="{{ T "taxation.person-other" }}"
         data-i18n-unlock="{{ T "taxation.unlock" }}"
         data-i18n-person-limit-not-supported-warning="{{ T "taxation.person-limit-not-supported-warning" }}"
         data-i18n-summary-under-limit="{{ T "taxation.summary-under-limit" (dict "Threshold" $threshold) }}"
@@ -183,9 +183,9 @@
         data-i18n-summary-all-assigned-ok="{{ T "taxation.summary-all-assigned-ok" (dict "Threshold" $threshold) }}"
         data-i18n-summary-all-assigned-over-month="{{ T "taxation.summary-all-assigned-over-month" (dict "Threshold" $threshold) }}"
       >
-        <p class="o-taxation-calculator__subtitle">
-          {{ T "taxation.calculator-description" }}
-        </p>
+        <div class="o-taxation-calculator__subtitle">
+          {{ T "taxation.calculator-description" | $.Page.RenderString }}
+        </div>
 
         <div class="o-taxation-calculator__body">
           <div class="o-taxation-calculator__main">

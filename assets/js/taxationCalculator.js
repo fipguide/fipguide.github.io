@@ -204,7 +204,6 @@ function getI18n(container) {
     categoryOther: container.dataset.i18nCategoryOther,
     otherPlaceholder: container.dataset.i18nOtherPlaceholder,
     highlightImportant: container.dataset.i18nHighlightImportant,
-    noRelativesWarning: container.dataset.i18nNoRelativesWarning,
     planning: container.dataset.i18nPlanning,
     planningDescription: container.dataset.i18nPlanningDescription,
     planningFocus: container.dataset.i18nPlanningFocus,
@@ -214,7 +213,8 @@ function getI18n(container) {
     personLimit: container.dataset.i18nPersonLimit,
     unassigned: container.dataset.i18nUnassigned,
     person: container.dataset.i18nPerson,
-    persons: container.dataset.i18nPersons,
+    personOne: container.dataset.i18nPersonOne,
+    personOther: container.dataset.i18nPersonOther,
     unlock: container.dataset.i18nUnlock,
     personLimitNotSupportedWarning:
       container.dataset.i18nPersonLimitNotSupportedWarning,
@@ -225,6 +225,15 @@ function getI18n(container) {
     summaryAllAssignedOverMonth:
       container.dataset.i18nSummaryAllAssignedOverMonth,
   };
+}
+
+function getPersonLabelByCount(i18n, count) {
+  const lang = document.documentElement.lang || "en";
+  const category = new Intl.PluralRules(lang).select(count);
+  if (category === "one") {
+    return i18n.personOne || i18n.person;
+  }
+  return i18n.personOther || i18n.person;
 }
 
 function loadState(config) {
@@ -674,7 +683,8 @@ function createClassLine(options) {
     line.appendChild(priceSpacer);
 
     const hint = document.createElement("span");
-    hint.className = "o-taxation-calculator__class-hint";
+    hint.className =
+      "o-taxation-calculator__field-value o-taxation-calculator__field-value--text";
     hint.textContent = disabledHint;
     line.appendChild(hint);
 
@@ -752,11 +762,11 @@ function createClassLine(options) {
   if (showMultiplier) {
     const multiplier = document.createElement("span");
     multiplier.className = "o-taxation-calculator__multiplier";
-    if (effectivePersonLimit === 1) {
-      multiplier.textContent = "x 1 " + i18n.person;
-    } else {
-      multiplier.textContent = "x " + effectivePersonLimit + " " + i18n.persons;
-    }
+    multiplier.textContent =
+      "x " +
+      effectivePersonLimit +
+      " " +
+      getPersonLabelByCount(i18n, effectivePersonLimit);
     line.appendChild(multiplier);
   }
 
@@ -1133,7 +1143,7 @@ function renderOther(ctx) {
 
 function updateRowWarning(
   row,
-  singleClassOnly,
+  _singleClassOnly,
   singlePersonOnly,
   personLimit,
   i18n,
@@ -1143,17 +1153,6 @@ function updateRowWarning(
   );
 
   warningEl.innerHTML = "";
-
-  if (singleClassOnly) {
-    warningEl.appendChild(
-      createHighlight(
-        "important",
-        i18n.highlightImportant,
-        "campaign",
-        i18n.noRelativesWarning,
-      ),
-    );
-  }
 
   if (singlePersonOnly && personLimit > 1) {
     warningEl.appendChild(
@@ -1229,12 +1228,11 @@ function updateRowMultipliers(row, effectivePersonLimit, i18n) {
     ".o-taxation-calculator__multiplier",
   );
   for (const multiplierEl of multiplierEls) {
-    if (effectivePersonLimit === 1) {
-      multiplierEl.textContent = "x 1 " + i18n.person;
-    } else {
-      multiplierEl.textContent =
-        "x " + effectivePersonLimit + " " + i18n.persons;
-    }
+    multiplierEl.textContent =
+      "x " +
+      effectivePersonLimit +
+      " " +
+      getPersonLabelByCount(i18n, effectivePersonLimit);
   }
 }
 

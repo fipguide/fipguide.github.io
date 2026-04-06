@@ -183,88 +183,72 @@ taxation:
   add-operator: Betreiber hinzufügen
   calculator: Steuerrechner {{ .Year }}
   calculator-description: >-
-    1) Erfassung: Trage alle FIP Freifahrtscheine, nationale Vergünstigungen und
-    ggf. weitere Sachbezüge ein. 2) Planung: Klicke auf „Optimieren“, um eine
-    sinnvolle Monatsverteilung zu erhalten, und passe sie bei Bedarf
-    anschließend per Drag-and-Drop manuell an.
+    Hier kannst du den Sachbezugswert deiner Fahrvergünstigungen berechnen.
+
+    1. Wähle die Anzahl der Personen aus, für die Freifahrtscheine
+
+    2. Wähle die Betreiber und die Anzahl der Felder aus
+
+    3. Füge nationale Vergünstigungen und weitere steuerpflichtige
+       Sachbezugswerte hinzu
+
+    Anschließend wird die Summe deiner Sachbezugswerte berechnet.
+
+    Im Bereich [Planung & Optimierung](#planning-optimization) kannst du deine
+    Steuerlast optimieren, indem du sie auf mehrere Monate verteilst.
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
   children: Kinder
-  children-half: Kinder bis einschließlich 15 Jahren die Hälfte
-  class-mixed-warning: >-
-    Bei Mischung von 1. und 2. Klasse für den gleichen Betreiber müssen die
-    Freifahrtscheine auf zwei verschiedene Personen (z. B. Angehörige)
-    aufgeteilt werden.
   decrease: Verringern
   disclaimer: >-
     Wir übernehmen keine Haftung oder Garantie für die Richtigkeit der
     berechneten Daten. Die Berechnung dient ausschließlich zur Orientierung.
-  field: Feld
-  fields: Felder
   first-class: 1. Klasse
   general-heading: Allgemein
   increase: Erhöhen
-  manual-mode: Manueller Modus
   missing-info: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   no-first-class: Nur 2. Klasse
-  no-relatives-warning: >-
-    Für diesen Betreiber sind Freifahrtscheine nur für aktive Mitarbeitende
-    verfügbar. Es kann nur eine Klassenart ausgewählt werden.
-  optimization-impossible: >-
-    Mindestens eine Bestellung überschreitet bereits alleine die Freigrenze.
-    Eine vollständige Aufteilung ohne Überschreitung ist daher nicht möglich.
-    Alle Bestellungen, die einzeln einen Monat überschreiten würden, werden
-    gemeinsam in einem Monat zusammengefasst.
-  optimization-items: Bestellungen
   optimization-month: Monat
-  optimization-title: Optimale Aufteilung auf Monate
   optimize: Optimieren
   other-placeholder: Sonstige Sachbezüge (€)
-  per-field: pro Feld
   person: Person
   person-limit: Anzahl Personen
   person-limit-not-supported-warning: >-
-    Für diesen Betreiber sind Coupons für Angehörige nicht verfügbar. Die
-    Berechnung erfolgt daher immer mit x 1, auch wenn oben mehr Personen
-    ausgewählt sind.
-  persons: Personen
-  persons-required: Benötigte Personen
+    Für diesen Betreiber sind Freifahrtscheine für Angehörige nicht verfügbar.
+    Die Berechnung erfolgt daher immer mit nur einer Person, auch wenn mehr
+    Personen ausgewählt wurden.
+  person-one: Person
+  person-other: Personen
   planning: Planung & Optimierung
   planning-description: >-
-    Klicke zuerst auf „Optimieren“, um eine sinnvolle Verteilung auf Monate zu
-    erhalten. Anschließend kannst du einzelne Freifahrtscheine per Drag-and-Drop
-    verschieben, Monate ergänzen oder feste Zuordnungen wieder lösen.
+    Hier kannst du über „Optimieren“ deine Freifahrtscheine optimal auf Monate
+    verteilen.
+
+    Wenn du einen Freifahrtschein in einem bestimmten Monat brauchst, kannst du
+    ihn per Drag-and-Drop verschieben. Er ist dann in diesem Monat fest
+    zugeordnet, bis du ihn über das Schloss wieder löst. Die
+    „Optimieren“-Funktion berücksichtigt deine Zuordnung und passt die
+    Verteilung der übrigen Freifahrtscheine entsprechend an.
   planning-focus: Steuer optimieren
   remove: Entfernen
   reset: Zurücksetzen
   second-class: 2. Klasse
-  second-person-hint: Zweite Person benötigt
   sum: Summe
   summary-all-assigned-ok: >-
     Alle Freifahrtscheine sind auf Monate verteilt. Kein Monat überschreitet {{
     .Threshold }} €.
   summary-all-assigned-over-month: >-
     Alle Freifahrtscheine sind zugewiesen, aber mindestens ein Monat liegt über
-    {{ .Threshold }} €. In diesem Fall wird der gesamte Monatsbetrag versteuert,
-    nicht nur der Anteil über dem Grenzwert.
+    dem {{ .Threshold }}-€-Grenzwert. In diesem Fall wird der gesamte
+    Monatsbetrag versteuert, nicht nur der Anteil über dem Grenzwert.
   summary-over-limit-unassigned: >-
-    Die Summe liegt über {{ .Threshold }} € und ist noch nicht vollständig auf
-    Monate verteilt. Sobald {{ .Threshold }} € überschritten sind, ist der
-    gesamte Monatsbetrag steuerpflichtig, nicht nur der Anteil über dem
-    Grenzwert.
+    Die Summe liegt oberhalb des {{ .Threshold }} € Grenzwerts. Der gesamte
+    Monatsbetrag ist steuerpflichtig, nicht nur der Anteil über dem Grenzwert.
+    Verteile den Betrag auf mehrere Monate, um die Steuerlast zu optimieren.
   summary-under-limit: >-
-    Die Summe liegt bei höchstens {{ .Threshold }} €. Es entsteht keine
-    zusätzliche Versteuerung.
-  threshold-above: >-
-    Die Summe liegt über der Freigrenze von {{ .Threshold }} €. Der gesamte
-    Betrag (nicht nur was über der Grenze liegt) wird auf das zu versteuernde
-    Einkommen aufgeschlagen.
-  threshold-below: >-
-    Die Summe liegt unter der Freigrenze von {{ .Threshold }} €. Es fallen keine
-    zusätzlichen Steuer- und Sozialabgaben an.
-  threshold-excess: 'Davon über der Freigrenze:'
-  title: Sachbezugswerte Internationaler Freifahrtscheine {{ .Year }}
+    Die Summe liegt innerhalb des {{ .Threshold }} € Grenzwerts. Es entsteht
+    keine zusätzliche Versteuerung.
   unassigned: Nicht zugewiesen
   unlock: Zuordnung aufheben
 teamMembers:

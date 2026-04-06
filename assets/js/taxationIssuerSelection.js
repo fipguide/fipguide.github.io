@@ -18,8 +18,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function showIssuer(slug) {
     wrappers.forEach(function (wrapper) {
+      var planning = wrapper.querySelector("[data-taxation-planning]");
+      if (planning) {
+        planning.removeAttribute("id");
+      }
       if (wrapper.dataset.fipIssuer === slug) {
         wrapper.removeAttribute("hidden");
+        if (planning) {
+          planning.id = "planning-optimization";
+        }
       } else {
         wrapper.setAttribute("hidden", "");
       }
