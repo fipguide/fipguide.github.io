@@ -19,7 +19,7 @@ Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spai
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" text="Sauf trains à réservation obligatoire" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" text="Sauf trains à réservation obligatoire" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Sauf trains à réservation obligatoire" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="Pour les trains à réservation obligatoire (sauf Avlo)" disable_dialog=true >}}
 
 ## Catégories de trains et réservations
@@ -183,6 +183,8 @@ Les réservations sont obligatoires, sauf sur la ligne Barcelone(-Gérone-Figuer
 
 Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont valables sans restriction.
 
+À Barcelone, les Cercanías (y compris vers l'aéroport) ne sont accessibles que par des portiques. À un guichet avec du personnel, il est possible de demander un « Bono Gratuit » (pour le Coupon FIP) – un billet gratuit qui ouvre les portiques. Il n'est valable que pour un seul trajet.[^4]
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -261,4 +263,6 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
 
-[^3]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
+[^3]: [Retour utilisateur : achat de billets à bord](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^4]: [Retour utilisateur : portiques à Barcelone](https://github.com/fipguide/fipguide.github.io/issues/796)

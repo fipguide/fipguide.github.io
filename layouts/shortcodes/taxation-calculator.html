@@ -1,28 +1,25 @@
-{{- $dbPage := .Page.Site.GetPage "/operator/db" -}}
-{{- if $dbPage -}}
-  {{- with $dbPage.Resources.Get "taxation.yaml" -}}
-    {{- $taxation := . | transform.Unmarshal -}}
-    {{- $lang := $.Page.Language.Lang -}}
-    {{- $year := $taxation.year -}}
-    {{- $threshold := $taxation.threshold -}}
-    {{- $operators := $taxation.operators -}}
-    {{- $national := $taxation.national -}}
-    {{- $validityRes := $dbPage.Resources.Get "validity.yaml" -}}
+{{- $lang := .Page.Language.Lang -}}
+{{- $logoSlugMapping := dict "hz" "hzpp" -}}
+{{- $issuerConfigs := slice -}}
+
+{{- range where .Site.RegularPages "Type" "operator" -}}
+  {{- $taxationRes := .Resources.Get "taxation.yaml" -}}
+  {{- if $taxationRes -}}
+    {{- $taxation := $taxationRes | transform.Unmarshal -}}
+    {{- $validityRes := .Resources.Get "validity.yaml" -}}
     {{- $validity := dict -}}
     {{- if $validityRes -}}
       {{- $validity = $validityRes | transform.Unmarshal -}}
     {{- end -}}
 
-    {{- $logoSlugMapping := dict "hz" "hzpp" -}}
-
     {{- $operatorData := slice -}}
-    {{- range $slug, $data := $operators -}}
+    {{- range $slug, $data := $taxation.operators -}}
       {{- $operatorPage := $.Page.Site.GetPage (printf "/operator/%s" $slug) -}}
       {{- $detailedTitle := "" -}}
       {{- if $data.title -}}
         {{- $detailedTitle = $data.title -}}
       {{- else -}}
-        {{- errorf "Missing required operator title in content/operator/db/taxation.yaml for '%s'" $slug -}}
+        {{- errorf "Missing required operator title in content/operator/%s/taxation.yaml for '%s'" .File.ContentBaseName $slug -}}
       {{- end -}}
       {{- $title := replaceRE `\s*\([^()]*\)\s*$` "" $detailedTitle -}}
       {{- if $operatorPage -}}
@@ -77,20 +74,7 @@
           -}}
             {{- $singleClassOnly = true -}}
           {{- end -}}
-
-          {{- $activeRelExact := "" -}}
-          {{- with index $coupon "active-relatives" -}}
-            {{- with index . "status" -}}
-              {{- $activeRelExact = . -}}
-            {{- end -}}
-          {{- end -}}
-          {{- $retiredRelExact := "" -}}
-          {{- with index $coupon "retired-relatives" -}}
-            {{- with index . "status" -}}
-              {{- $retiredRelExact = . -}}
-            {{- end -}}
-          {{- end -}}
-          {{- if and (eq $activeRelExact "invalid") (eq $retiredRelExact "invalid") -}}
+          {{- if and (eq $activeRelStatus "invalid") (eq $retiredRelStatus "invalid") -}}
             {{- $singlePersonOnly = true -}}
           {{- end -}}
         {{- end -}}
@@ -114,12 +98,12 @@
     {{- end -}}
 
     {{- $nationalData := slice -}}
-    {{- range $key, $data := $national -}}
+    {{- range $key, $data := $taxation.national -}}
       {{- $title := "" -}}
       {{- if $data.title -}}
         {{- $title = $data.title -}}
       {{- else -}}
-        {{- errorf "Missing required national title in content/operator/db/taxation.yaml for '%s'" $key -}}
+        {{- errorf "Missing required national title in content/operator/%s/taxation.yaml for '%s'" .File.ContentBaseName $key -}}
       {{- end -}}
       {{- $entry := dict
         "key" $key
@@ -139,119 +123,119 @@
       {{- end -}}
     {{- end -}}
 
-    {{- $calcData := dict
-      "year" $year
-      "threshold" $threshold
+    {{- $issuerConfigs = $issuerConfigs | append (dict
+      "slug" .File.ContentBaseName
+      "year" $taxation.year
+      "threshold" $taxation.threshold
       "operators" $operatorData
       "national" $nationalData
+      )
     -}}
+  {{- end -}}
+{{- end -}}
 
+{{- if gt (len $issuerConfigs) 0 -}}
+  {{- $headingYear := (index $issuerConfigs 0).year -}}
+  <h2 id="calculator">
+    {{ T "taxation.calculator" (dict "Year" $headingYear) }}
+  </h2>
 
-    <div
-      class="o-taxation-calculator"
-      data-taxation-calculator
-      data-taxation-config="{{ $calcData | jsonify }}"
-      data-i18n-first-class="{{ T "taxation.first-class" }}"
-      data-i18n-second-class="{{ T "taxation.second-class" }}"
-      data-i18n-no-first-class="{{ T "taxation.no-first-class" }}"
-      data-i18n-add-operator="{{ T "taxation.add-operator" }}"
-      data-i18n-add-national="{{ T "taxation.add-national" }}"
-      data-i18n-remove="{{ T "taxation.remove" }}"
-      data-i18n-per-field="{{ T "taxation.per-field" }}"
-      data-i18n-field="{{ T "taxation.field" }}"
-      data-i18n-fields="{{ T "taxation.fields" }}"
-      data-i18n-increase="{{ T "taxation.increase" }}"
-      data-i18n-decrease="{{ T "taxation.decrease" }}"
-      data-i18n-sum="{{ T "taxation.sum" }}"
-      data-i18n-category-international="{{ T "taxation.category-international" }}"
-      data-i18n-category-national="{{ T "taxation.category-national" }}"
-      data-i18n-category-other="{{ T "taxation.category-other" }}"
-      data-i18n-other-placeholder="{{ T "taxation.other-placeholder" }}"
-      data-i18n-class-mixed-warning="{{ T "taxation.class-mixed-warning" }}"
-      data-i18n-second-person-hint="{{ T "taxation.second-person-hint" }}"
-      data-i18n-highlight-important="{{ T "highlight.important" }}"
-      data-i18n-highlight-tip="{{ T "highlight.tip" }}"
-      data-i18n-threshold-above="{{ T "taxation.threshold-above" (dict "Threshold" $threshold) }}"
-      data-i18n-threshold-below="{{ T "taxation.threshold-below" (dict "Threshold" $threshold) }}"
-      data-i18n-threshold-excess="{{ T "taxation.threshold-excess" }}"
-      data-i18n-disclaimer="{{ T "taxation.disclaimer" }}"
-      data-i18n-persons-required="{{ T "taxation.persons-required" }}"
-      data-i18n-person-limit="{{ T "taxation.person-limit" }}"
-      data-i18n-no-relatives-warning="{{ T "taxation.no-relatives-warning" }}"
-      data-i18n-reset="{{ T "taxation.reset" }}"
-      data-i18n-planning="{{ T "taxation.planning" }}"
-      data-i18n-optimize="{{ T "taxation.optimize" }}"
-      data-i18n-manual-mode="{{ T "taxation.manual-mode" }}"
-      data-i18n-optimization-title="{{ T "taxation.optimization-title" }}"
-      data-i18n-optimization-month="{{ T "taxation.optimization-month" }}"
-      data-i18n-optimization-items="{{ T "taxation.optimization-items" }}"
-      data-i18n-optimization-impossible="{{ T "taxation.optimization-impossible" }}"
-      data-i18n-unassigned="{{ T "taxation.unassigned" }}"
-      data-i18n-person="{{ T "taxation.person" }}"
-      data-i18n-persons="{{ T "taxation.persons" }}"
-      data-i18n-unlock="{{ T "taxation.unlock" }}"
-      data-i18n-person-limit-not-supported-warning="{{ T "taxation.person-limit-not-supported-warning" }}"
-      data-i18n-summary-under-limit="{{ T "taxation.summary-under-limit" (dict "Threshold" $threshold) }}"
-      data-i18n-summary-over-limit-unassigned="{{ T "taxation.summary-over-limit-unassigned" (dict "Threshold" $threshold) }}"
-      data-i18n-summary-all-assigned-ok="{{ T "taxation.summary-all-assigned-ok" (dict "Threshold" $threshold) }}"
-      data-i18n-summary-all-assigned-over-month="{{ T "taxation.summary-all-assigned-over-month" (dict "Threshold" $threshold) }}"
-    >
-      <h2 id="calculator">{{ T "taxation.calculator" }}</h2>
-      <p class="o-taxation-calculator__subtitle">
-        {{ T "taxation.title" (dict "Year" $year) }}
-      </p>
+  {{- range $issuerConfigs -}}
+    {{- $threshold := .threshold -}}
+    {{- $calcData := dict
+      "year" .year
+      "threshold" $threshold
+      "operators" .operators
+      "national" .national
+    -}}
+    <div data-fip-issuer="{{ .slug }}" hidden>
+      <div
+        class="o-taxation-calculator"
+        data-taxation-calculator
+        data-taxation-issuer="{{ .slug }}"
+        data-taxation-config="{{ $calcData | jsonify }}"
+        data-i18n-first-class="{{ T "taxation.first-class" }}"
+        data-i18n-second-class="{{ T "taxation.second-class" }}"
+        data-i18n-no-first-class="{{ T "taxation.no-first-class" }}"
+        data-i18n-add-operator="{{ T "taxation.add-operator" }}"
+        data-i18n-add-national="{{ T "taxation.add-national" }}"
+        data-i18n-remove="{{ T "taxation.remove" }}"
+        data-i18n-increase="{{ T "taxation.increase" }}"
+        data-i18n-decrease="{{ T "taxation.decrease" }}"
+        data-i18n-category-other="{{ T "taxation.category-other" }}"
+        data-i18n-other-placeholder="{{ T "taxation.other-placeholder" }}"
+        data-i18n-highlight-important="{{ T "highlight.important" }}"
+        data-i18n-person-limit="{{ T "taxation.person-limit" }}"
+        data-i18n-no-relatives-warning="{{ T "taxation.no-relatives-warning" }}"
+        data-i18n-planning="{{ T "taxation.planning" }}"
+        data-i18n-planning-description="{{ T "taxation.planning-description" }}"
+        data-i18n-planning-focus="{{ T "taxation.planning-focus" }}"
+        data-i18n-optimize="{{ T "taxation.optimize" }}"
+        data-i18n-add-month="{{ T "taxation.add-month" }}"
+        data-i18n-optimization-month="{{ T "taxation.optimization-month" }}"
+        data-i18n-unassigned="{{ T "taxation.unassigned" }}"
+        data-i18n-person="{{ T "taxation.person" }}"
+        data-i18n-persons="{{ T "taxation.persons" }}"
+        data-i18n-unlock="{{ T "taxation.unlock" }}"
+        data-i18n-person-limit-not-supported-warning="{{ T "taxation.person-limit-not-supported-warning" }}"
+        data-i18n-summary-under-limit="{{ T "taxation.summary-under-limit" (dict "Threshold" $threshold) }}"
+        data-i18n-summary-over-limit-unassigned="{{ T "taxation.summary-over-limit-unassigned" (dict "Threshold" $threshold) }}"
+        data-i18n-summary-all-assigned-ok="{{ T "taxation.summary-all-assigned-ok" (dict "Threshold" $threshold) }}"
+        data-i18n-summary-all-assigned-over-month="{{ T "taxation.summary-all-assigned-over-month" (dict "Threshold" $threshold) }}"
+      >
+        <p class="o-taxation-calculator__subtitle">
+          {{ T "taxation.calculator-description" }}
+        </p>
 
-      <div class="o-taxation-calculator__body">
-        <div class="o-taxation-calculator__main">
-          <div class="o-taxation-calculator__sections" data-taxation-sections>
-            <div class="o-taxation-calculator__section">
-              <h3>
-                {{- partial "icon" "public" -}}
-                {{ T "taxation.category-international" }}
-              </h3>
-              <div
-                class="o-taxation-calculator__person-limit"
-                data-taxation-person-limit
-              ></div>
-              <div
-                class="o-taxation-calculator__operators"
-                data-taxation-operators
-              ></div>
+        <div class="o-taxation-calculator__body">
+          <div class="o-taxation-calculator__main">
+            <div class="o-taxation-calculator__sections" data-taxation-sections>
+              <div class="o-taxation-calculator__section">
+                <h3>
+                  {{- partial "icon" "public" -}}
+                  {{ T "taxation.category-international" }}
+                </h3>
+                <div
+                  class="o-taxation-calculator__person-limit"
+                  data-taxation-person-limit
+                ></div>
+                <div
+                  class="o-taxation-calculator__operators"
+                  data-taxation-operators
+                ></div>
+              </div>
+
+              <div class="o-taxation-calculator__section">
+                <h3>
+                  {{- partial "icon" "train" -}}
+                  {{ T "taxation.category-national" }}
+                </h3>
+                <div
+                  class="o-taxation-calculator__national"
+                  data-taxation-national
+                ></div>
+              </div>
+
+              <div class="o-taxation-calculator__section">
+                <h3>
+                  {{- partial "icon" "other_admission" -}}
+                  {{ T "taxation.category-other" }}
+                </h3>
+                <div
+                  class="o-taxation-calculator__other"
+                  data-taxation-other
+                ></div>
+              </div>
             </div>
 
-            <div class="o-taxation-calculator__section">
-              <h3>
-                {{- partial "icon" "train" -}}
-                {{ T "taxation.category-national" }}
-              </h3>
-              <div
-                class="o-taxation-calculator__national"
-                data-taxation-national
-              ></div>
-            </div>
-
-            <div class="o-taxation-calculator__section">
-              <h3>
-                {{- partial "icon" "other_admission" -}}
-                {{ T "taxation.category-other" }}
-              </h3>
-              <div
-                class="o-taxation-calculator__other"
-                data-taxation-other
-              ></div>
-            </div>
+            <div
+              class="o-taxation-calculator__planning"
+              data-taxation-planning
+            ></div>
           </div>
 
-          <div
-            class="o-taxation-calculator__planning"
-            data-taxation-planning
-          ></div>
-
-          <div
-            class="o-taxation-calculator__bottom-summary"
-            data-taxation-bottom-summary
-          >
-            <div class="o-taxation-calculator__summary">
+          <div class="o-taxation-calculator__sidebar">
+            <div class="o-taxation-calculator__summary" data-taxation-summary>
               <div class="o-taxation-calculator__sum-row">
                 <span class="o-taxation-calculator__sum-label">
                   {{- partial "icon" "equal" -}}
@@ -260,14 +244,14 @@
                 <span class="o-taxation-calculator__sum-right">
                   <span
                     class="o-taxation-calculator__sum-value"
-                    data-taxation-bottom-total
+                    data-taxation-total
                     >0,00&nbsp;&euro;</span
                   >
                 </span>
               </div>
               <div
                 class="o-taxation-calculator__threshold-info"
-                data-taxation-bottom-threshold
+                data-taxation-threshold-info
               ></div>
               <div class="o-taxation-calculator__summary-actions">
                 <button
@@ -283,26 +267,46 @@
           </div>
         </div>
 
-        <div class="o-taxation-calculator__sidebar">
-          <div class="o-taxation-calculator__summary" data-taxation-summary>
-            <div class="o-taxation-calculator__sum-row">
-              <span class="o-taxation-calculator__sum-label">
+        <div class="o-taxation-calculator__mobile-sheet" data-taxation-sheet>
+          <button
+            class="o-taxation-calculator__mobile-header"
+            data-taxation-sheet-toggle
+            aria-expanded="false"
+          >
+            <span class="o-taxation-calculator__mobile-drag"></span>
+            <span class="o-taxation-calculator__mobile-bar">
+              <span class="o-taxation-calculator__mobile-sum-group">
                 {{- partial "icon" "equal" -}}
-                {{ T "taxation.sum" }}
+                <span class="o-taxation-calculator__mobile-sum-label">
+                  {{- T "taxation.sum" -}}
+                </span>
               </span>
-              <span class="o-taxation-calculator__sum-right">
+              <span
+                class="o-taxation-calculator__mobile-threshold-icon"
+                data-taxation-mobile-threshold-icon
+              ></span>
+              <span class="o-taxation-calculator__mobile-bar-right">
                 <span
                   class="o-taxation-calculator__sum-value"
-                  data-taxation-total
+                  data-taxation-mobile-total
                   >0,00&nbsp;&euro;</span
                 >
               </span>
-            </div>
+            </span>
+          </button>
+          <div
+            class="o-taxation-calculator__mobile-content"
+            data-taxation-sheet-content
+            aria-hidden="true"
+            inert
+          >
             <div
               class="o-taxation-calculator__threshold-info"
-              data-taxation-threshold-info
+              data-taxation-mobile-threshold-detail
             ></div>
-            <div class="o-taxation-calculator__summary-actions">
+            <div
+              class="o-taxation-calculator__summary-actions o-taxation-calculator__mobile-reset-actions"
+            >
               <button
                 type="button"
                 class="o-taxation-calculator__reset-btn"
@@ -314,49 +318,9 @@
             </div>
           </div>
         </div>
-      </div>
 
-      <div class="o-taxation-calculator__mobile-sheet" data-taxation-sheet>
-        <button
-          class="o-taxation-calculator__mobile-header"
-          data-taxation-sheet-toggle
-          aria-expanded="false"
-        >
-          <span class="o-taxation-calculator__mobile-drag"></span>
-          <span class="o-taxation-calculator__mobile-bar">
-            <span class="o-taxation-calculator__mobile-sum-group">
-              {{- partial "icon" "equal" -}}
-              <span class="o-taxation-calculator__mobile-sum-label">
-                {{- T "taxation.sum" -}}
-              </span>
-            </span>
-            <span
-              class="o-taxation-calculator__mobile-threshold-icon"
-              data-taxation-mobile-threshold-icon
-            ></span>
-            <span class="o-taxation-calculator__mobile-bar-right">
-              <span
-                class="o-taxation-calculator__sum-value"
-                data-taxation-mobile-total
-                >0,00&nbsp;&euro;</span
-              >
-            </span>
-          </span>
-        </button>
-        <div
-          class="o-taxation-calculator__mobile-content"
-          data-taxation-sheet-content
-          aria-hidden="true"
-          inert
-        >
-          <div
-            class="o-taxation-calculator__threshold-info"
-            data-taxation-mobile-threshold-detail
-          ></div>
-        </div>
+        {{ partial "highlight" (dict "Type" "inofficial" "Content" (T "taxation.disclaimer")) }}
       </div>
-
-      {{ partial "highlight" (dict "Type" "inofficial" "Content" (T "taxation.disclaimer")) }}
     </div>
   {{- end -}}
 {{- end -}}

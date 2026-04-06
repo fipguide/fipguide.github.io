@@ -19,7 +19,7 @@ In [Switzerland](/country/switzerland "Switzerland"), in addition to the nationa
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP 50 Tickets are valid with all listed railway companies, see [Rail and Bus Operators](#rail-and-bus-operators), as well as with the [ship operators](#ship-operators). FIP Coupons are also valid almost everywhere, with a few exceptions.
 
@@ -551,7 +551,7 @@ SZU operates the two Zurich S-Bahn lines S4 and S10. These run from Zürich HB t
 %}}
 Thurbo AG is a railway company in Eastern Switzerland and in cross-border traffic with Germany and Austria. It operates various lines of the St. Gallen S-Bahn and Zurich S-Bahn, plus some `RE` services.
 
-FIP Coupons are valid on all routes within Switzerland. The international sections are operated in Germany by SBB GmbH and in Austria by ÖBB. For Austria, an additional ÖBB Coupon is required; routes into Germany are not usable with FIP. An exception is travel from Switzerland to Konstanz, as Konstanz counts as a border station. FIP 50 Tickets can be purchased for all routes within Switzerland as well as the routes to Austria and to Konstanz.
+FIP Coupons are valid on all routes within Switzerland. The international sections are operated in Germany by SBB GmbH and in Austria by ÖBB. For Austria, an additional ÖBB Coupon is required; routes into Germany are not usable with FIP. Exceptions are travel from Switzerland to Konstanz and to Waldshut, as these count as border stations. FIP 50 Tickets can be purchased for all routes within Switzerland as well as the routes to Austria, to Konstanz and to Waldshut.
 
 #### Scheduled routes
 
@@ -559,16 +559,17 @@ FIP Coupons are valid on all routes within Switzerland. The international sectio
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
-- Weinfelden – St. Gallen – St. Margarethen (S5)
-- Weinfelden – Romanshorn – St. Margarethen (– Bregenz) (S7)
+- Weinfelden – St. Gallen (– St. Margrethen) (S5)
+- Weinfelden – Romanshorn (– Rorschach) (selected trains: – St. Margrethen – Lindau-Insel) (S7)
 - Wil – Wattwil (S9)
 - Wil – Romanshorn (S10)
 - Sargans – Chur (S12)
 - Weinfelden – Konstanz (S14 and S44)
-- St. Gallen – Herisau (S81)
 - St. Gallen – Wittenbach (S82)
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
+
+The S5 runs only hourly to St. Margrethen; otherwise it terminates in St. Gallen. The S7 runs hourly between Weinfelden and Rorschach and is occasionally extended via St. Margrethen to Lindau-Insel. From St. Margrethen (Border Point), ÖBB FIP Coupons are required.
 
 ##### Lines in the Zurich area
 
@@ -576,10 +577,12 @@ FIP Coupons are valid on all routes within Switzerland. The international sectio
 - Winterthur – Stein am Rhein (S29)
 - Winterthur – Weinfelden (S30)
 - Winterthur – Wil (S35)
-- Bülach – Koblenz (CH) (S36)
+- Bülach – Koblenz(CH) – Waldshut(D) (S36)
 - Winterthur – Bülach (S41)
 
 There are also night lines in both regions, replacing regular S-Bahn lines during night hours, which can also be used with FIP.
+
+From the timetable change in December 2026, the S5 will become S3 and run hourly on the route Weinfelden – St. Gallen – St. Margrethen – Bregenz.
 {{% /train-category %}}
 
 {{% train-category

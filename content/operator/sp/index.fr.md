@@ -19,7 +19,7 @@ En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [S
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Billets FIP 50 sont valables auprès de toutes les entreprises ferroviaires listées, voir [Opérateurs ferroviaires et d’autobus](#operateurs-ferroviaires-et-dautobus), ainsi qu’auprès des [opérateurs de bateaux](#operateurs-de-bateaux). Les Coupons FIP sont également valables presque partout, à quelques exceptions près.
 
@@ -551,7 +551,7 @@ La SZU exploite les deux lignes S-Bahn S4 et S10 du RER de Zurich. Elles relient
 %}}
 Thurbo AG est une entreprise ferroviaire en Suisse orientale ainsi qu’en trafic transfrontalier avec l’Allemagne et l’Autriche. Elle exploite diverses lignes du RER de Saint-Gall et du RER de Zurich, ainsi que quelques liaisons `RE`.
 
-Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections internationales sont exploitées en Allemagne par SBB GmbH et en Autriche par ÖBB. Vers l’Autriche, un Coupon ÖBB supplémentaire est donc nécessaire ; les lignes vers l’Allemagne ne sont pas utilisables avec le FIP. Exception : le trajet de la Suisse jusqu’à Constance, car Constance est considérée comme gare frontière. Les Billets FIP 50 peuvent être achetés pour toutes les lignes en Suisse ainsi que vers l’Autriche et Constance.
+Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections internationales sont exploitées en Allemagne par SBB GmbH et en Autriche par ÖBB. Vers l’Autriche, un Coupon ÖBB supplémentaire est donc nécessaire ; les lignes vers l’Allemagne ne sont pas utilisables avec le FIP. Exceptions : les trajets de la Suisse jusqu’à Constance et jusqu’à Waldshut, car ces gares sont considérées comme gares frontières. Les Billets FIP 50 peuvent être achetés pour toutes les lignes en Suisse ainsi que vers l’Autriche, Constance et Waldshut.
 
 #### Lignes régulières
 
@@ -559,16 +559,17 @@ Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections inte
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
-- Weinfelden – St. Gallen – St. Margarethen (S5)
-- Weinfelden – Romanshorn – St. Margarethen (– Bregenz) (S7)
+- Weinfelden – St. Gallen (– St. Margrethen) (S5)
+- Weinfelden – Romanshorn (– Rorschach) (certains trains : – St. Margrethen – Lindau-Insel) (S7)
 - Wil – Wattwil (S9)
 - Wil – Romanshorn (S10)
 - Sargans – Chur (S12)
 - Weinfelden – Konstanz (S14 et S44)
-- St. Gallen – Herisau (S81)
 - St. Gallen – Wittenbach (S82)
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
+
+La S5 circule une fois par heure seulement jusqu’à St. Margrethen, sinon elle a son terminus à St. Gallen. La S7 circule une fois par heure entre Weinfelden et Rorschach et est ponctuellement prolongée via St. Margrethen jusqu’à Lindau-Insel. À partir de St. Margrethen (gare frontière), des Coupons FIP de l’ÖBB sont nécessaires.
 
 ##### Lignes dans la région de Zurich
 
@@ -576,10 +577,12 @@ Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections inte
 - Winterthur – Stein am Rhein (S29)
 - Winterthur – Weinfelden (S30)
 - Winterthur – Wil (S35)
-- Bülach – Koblenz (CH) (S36)
+- Bülach – Koblenz(CH) – Waldshut(D) (S36)
 - Winterthur – Bülach (S41)
 
 Il existe également des lignes de nuit dans les deux régions, remplaçant les lignes RER habituelles pendant les heures nocturnes, également utilisables avec le FIP.
+
+À partir du changement d’horaire de décembre 2026, le S5 deviendra S3 et circulera toutes les heures sur la ligne Weinfelden – St. Gallen – St. Margrethen – Bregenz.
 {{% /train-category %}}
 
 {{% train-category

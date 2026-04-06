@@ -32,19 +32,7 @@ Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Ca
 
 La durée de validité de la Carte FIP dépend de la compagnie ferroviaire émettrice. En règle générale, la Carte FIP est valable à partir du 1ᵉʳ décembre de l’année précédant la première année de validité imprimée, et jusqu’au 31 janvier de l’année suivant la dernière année de validité.
 
-Pour les compagnies ferroviaires suivantes, nous disposons d’informations sur la durée de validité :
-
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
-La Carte FIP est toujours valable pour une période fixe de trois ans. La période actuelle est 2025-2026-2027.
-{{% /expander %}}
-
-{{% expander "Société nationale des chemins de fer français (SNCF)" info "national" %}}
-La Carte FIP est valable trois ans.
-{{% /expander %}}
-
-{{% expander "Société nationale des chemins de fer belges (SNCB) / Nationale Maatschappij der Belgische Spoorwegen (NMBS)" info "national" %}}
-La Carte FIP est valable un an.
-{{% /expander %}}
+Vous pouvez consulter la durée de validité de votre Carte FIP sur notre [page de présentation de la validité du FIP](/fip-validity/).
 
 Certaines entreprises ferroviaires permettent également aux employés d’obtenir des Cartes FIP pour leurs ayants droit, leur permettant d’acheter des Billets FIP 50.
 
@@ -112,15 +100,11 @@ Pour certains trains, des tarifs spéciaux et des règles spéciales s’appliqu
 
 ### Réductions nationales (non-FIP)
 
-Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre propre entreprise ferroviaire. Par conséquent, un billet différent est nécessaire dans votre pays d’origine. Pour les employés des entreprises ferroviaires suivantes, nous avons ces informations disponibles :
+Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre propre entreprise ferroviaire. Par conséquent, un billet différent est nécessaire dans votre pays d’origine.
 
-{{% expander "Deutsche Bahn (DB)" info "national" %}}
+Ce n'est pas toujours le voyage avec des billets FIP qui est la solution la moins chère. Les billets FIP réduits accordent généralement une réduction sur le prix du billet flexible. Cependant, les billets liés aux trains, comme les tarifs réduits, peuvent néanmoins être moins chers.
 
-Les employés de Deutsche Bahn peuvent utiliser les réductions nationales pour voyager jusqu’au [point tarifaire frontière](#points-frontières). Pour cela, un Tagesticket M Fern (Billet Journalier M Longue Distance) ou une Netzcard (Carte Réseau) peuvent être utilisés. Ceux-ci sont valables sur tout le réseau et donc jusqu’au point tarifaire frontière vers les pays voisins.
-
-Dans certains cas, d’autres billets valables pour le segment entier offrent des alternatives moins chères au FIP. Ceux-ci comprennent (Super) Sparpreise Europa DB-PEP (uniquement en combinaison avec un voyageur avec FIP, voir conditions d’utilisation) ou les (Super) Sparpreise réguliers (tarifs de réduction). Plus d’informations peuvent être trouvées sur le DB Reisemarkt et le portail des employés DB.
-
-{{% /expander %}}
+De plus, certaines compagnies ferroviaires accordent à leurs propres employés des billets à tarif réduit pour les trajets transfrontaliers vers l’étranger ou jusqu’à la frontière. L’utilisation de ces billets peut parfois être moins chère que l’utilisation du FIP pour le voyage à l’étranger. Vous trouverez plus d’informations sur ces offres dans l’[aperçu de la validité du FIP](/fip-validity).
 
 ## Points frontières
 
@@ -159,19 +143,9 @@ J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort 
 
 ## Imposition
 
-Pour les employés dans certains pays, une imposition supplémentaire des réductions FIP est nécessaire, ce qui entraîne des coûts supplémentaires. Pour les pays suivants, nous avons des informations disponibles :
+Pour les employés de certains pays, une taxation supplémentaire des avantages FIP est nécessaire, ce qui peut entraîner des coûts supplémentaires.
 
-{{% expander "Allemagne" info "tax" %}}
-
-Les Coupons FIP pour les employés en Allemagne sont considérés comme une _réduction non monétaire_ assujettie à l’article 8 de la Loi de l’impôt sur le revenu allemand (EStG). Les Coupons FIP sont donc assujettis à l’impôt sur le revenu et aux cotisations de sécurité sociale.
-
-La valeur évaluée varie selon la longueur du réseau qui peut être couverte avec le coupon respectif et est mise à jour annuellement. Une liste des montants actuels est disponible sur le marché des voyages DB ou le portail des employés DB.
-
-Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse un certain seuil (50 € en 2025), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
-
-Les Coupons FIP et les réductions FIP de voyage nationales des ayants droit sont comptabilisés auprès de l’employé.
-
-{{% /expander %}}
+Vous trouverez plus d’informations dans la [Vue d’ensemble des informations d’émission FIP](/fip-validity).
 
 ## FAQ
 

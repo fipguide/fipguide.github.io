@@ -369,9 +369,22 @@ export function renderOptimization(container, plan, i18n, options) {
   if (!target) return;
   target.innerHTML = "";
 
+  var focusRow = document.createElement("div");
+  focusRow.className = "o-taxation-calculator__planning-focus";
+  focusRow.appendChild(createIcon("keyboard_double_arrow_down"));
+  var focusText = document.createElement("span");
+  focusText.textContent = i18n.planningFocus;
+  focusRow.appendChild(focusText);
+  focusRow.appendChild(createIcon("keyboard_double_arrow_down"));
+  target.appendChild(focusRow);
+
   var title = document.createElement("h3");
   title.className = "o-taxation-calculator__planning-title";
   title.textContent = i18n.planning;
+
+  var description = document.createElement("p");
+  description.className = "o-taxation-calculator__planning-description";
+  description.textContent = i18n.planningDescription;
 
   var header = document.createElement("div");
   header.className = "o-taxation-calculator__planning-header";
@@ -382,6 +395,8 @@ export function renderOptimization(container, plan, i18n, options) {
     button.type = "button";
     button.className = "o-taxation-calculator__optimization-run";
     button.disabled = !plan.hasItems;
+    button.title = i18n.optimize;
+    button.setAttribute("aria-label", i18n.optimize);
     button.appendChild(createIcon("wand_stars"));
     button.appendChild(document.createTextNode(i18n.optimize));
     button.addEventListener("click", function () {
@@ -392,8 +407,13 @@ export function renderOptimization(container, plan, i18n, options) {
     return button;
   }
 
-  header.appendChild(createOptimizeButton());
   target.appendChild(header);
+  target.appendChild(description);
+
+  var actions = document.createElement("div");
+  actions.className = "o-taxation-calculator__planning-actions";
+  actions.appendChild(createOptimizeButton());
+  target.appendChild(actions);
 
   var list = document.createElement("div");
   list.className = "o-taxation-calculator__optimization-list";
@@ -408,6 +428,23 @@ export function renderOptimization(container, plan, i18n, options) {
     );
   }
 
+  function deactivateAllDropZones() {
+    var activeZones = list.querySelectorAll(
+      ".o-taxation-calculator__optimization-drop-zone--active",
+    );
+    for (const zone of activeZones) {
+      deactivateDropZone(zone);
+    }
+  }
+
+  function getDropZoneAtPoint(x, y) {
+    var dropTarget = document.elementFromPoint(x, y);
+    if (!dropTarget) return null;
+    return dropTarget.closest(
+      "[data-month-index], .o-taxation-calculator__optimization-new-month",
+    );
+  }
+
   function createCard(item) {
     var card = document.createElement("li");
     card.className = "o-taxation-calculator__optimization-item";
@@ -418,8 +455,83 @@ export function renderOptimization(container, plan, i18n, options) {
 
     var dragHandle = document.createElement("span");
     dragHandle.className = "o-taxation-calculator__optimization-drag-handle";
+    dragHandle.setAttribute("role", "button");
+    dragHandle.setAttribute("tabindex", "0");
     dragHandle.draggable = true;
     dragHandle.appendChild(createIcon("drag_indicator"));
+    dragHandle.addEventListener("touchstart", function (event) {
+      var touch = event.touches && event.touches[0];
+      if (!touch) return;
+      var rect = card.getBoundingClientRect();
+      card.classList.add("o-taxation-calculator__optimization-item--dragging");
+      card.dataset.touchDragging = "true";
+      card.style.position = "fixed";
+      card.style.width = rect.width + "px";
+      card.style.height = rect.height + "px";
+      card.style.boxSizing = "border-box";
+      card.style.left = touch.clientX - 16 + "px";
+      card.style.top = touch.clientY - 16 + "px";
+      card.style.zIndex = "9999";
+      card.style.pointerEvents = "none";
+      event.preventDefault();
+    });
+    dragHandle.addEventListener("touchmove", function (event) {
+      if (card.dataset.touchDragging !== "true") return;
+      var touch = event.touches && event.touches[0];
+      if (!touch) return;
+      card.style.left = touch.clientX - 16 + "px";
+      card.style.top = touch.clientY - 16 + "px";
+      deactivateAllDropZones();
+      var dropZone = getDropZoneAtPoint(touch.clientX, touch.clientY);
+      if (dropZone) {
+        activateDropZone(dropZone);
+      }
+      event.preventDefault();
+    });
+    function finishTouchDrag(event) {
+      if (card.dataset.touchDragging !== "true") return;
+      var touch = event.changedTouches && event.changedTouches[0];
+      if (!touch) return;
+      var dropZone = getDropZoneAtPoint(touch.clientX, touch.clientY);
+      card.classList.remove(
+        "o-taxation-calculator__optimization-item--dragging",
+      );
+      card.dataset.touchDragging = "false";
+      card.style.position = "";
+      card.style.width = "";
+      card.style.height = "";
+      card.style.boxSizing = "";
+      card.style.left = "";
+      card.style.top = "";
+      card.style.zIndex = "";
+      card.style.pointerEvents = "";
+      deactivateAllDropZones();
+
+      if (!dropZone || typeof onMove !== "function") {
+        event.preventDefault();
+        return;
+      }
+
+      if (
+        dropZone.classList.contains(
+          "o-taxation-calculator__optimization-new-month",
+        )
+      ) {
+        var nextMonth =
+          plan.months.length > 0
+            ? plan.months[plan.months.length - 1].index + 1
+            : 1;
+        onMove(item.id, nextMonth);
+      } else {
+        var monthIndex = parseInt(dropZone.dataset.monthIndex, 10);
+        if (Number.isFinite(monthIndex)) {
+          onMove(item.id, monthIndex);
+        }
+      }
+      event.preventDefault();
+    }
+    dragHandle.addEventListener("touchend", finishTouchDrag);
+    dragHandle.addEventListener("touchcancel", finishTouchDrag);
     dragHandle.addEventListener("dragstart", function (event) {
       card.classList.add("o-taxation-calculator__optimization-item--dragging");
       event.dataTransfer.setData("text/plain", item.id);
@@ -594,7 +706,11 @@ export function renderOptimization(container, plan, i18n, options) {
   newMonthDrop.type = "button";
   newMonthDrop.className =
     "o-taxation-calculator__optimization-new-month o-taxation-calculator__optimization-drop-zone";
-  newMonthDrop.textContent = i18n.optimizationMonth + " +";
+  newMonthDrop.textContent = i18n.addMonth || i18n.optimizationMonth + " +";
+  newMonthDrop.setAttribute(
+    "aria-label",
+    i18n.addMonth || i18n.optimizationMonth + " +",
+  );
   newMonthDrop.addEventListener("click", function () {
     if (typeof onAddMonth === "function") {
       onAddMonth();

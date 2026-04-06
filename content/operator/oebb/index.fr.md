@@ -23,7 +23,7 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les coupons et Billets FIP 50 sont valables sur les trains ÖBB. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP des deux pays sont nécessaires.
 

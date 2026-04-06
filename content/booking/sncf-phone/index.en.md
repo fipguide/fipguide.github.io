@@ -8,6 +8,7 @@ params:
     first: "€ 2 / € 16"
     second: "€ 2 / € 11"
   fip_50: true
+  fip_75: true
   reservations: true
   additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
   type: "phone"
@@ -32,7 +33,11 @@ No additional booking fee applies for FIP tickets.
 Once tickets or reservations are confirmed, a PNR (booking confirmation) and the eTicket will be sent by email. When traveling by train, you must present the eTicket together with the FIP Coupon or FIP Card.
 
 {{% highlight tip %}}
-SNCF sometimes refers to FIP discounts as:
+To avoid waiting times, you can schedule a callback appointment on the [SNCF website](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). You can provide your name and email address in advance, so you do not need to spell them over the phone. You can also specify your desired connection and indicate the FIP discount in the free text field.
+
+The callback service only works with French phone numbers or foreign landline numbers. Foreign mobile numbers do not work.
+
+SNCF sometimes refers to FIP discounts as: \
 _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
 {{% /highlight %}}

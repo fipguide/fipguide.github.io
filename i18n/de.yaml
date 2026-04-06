@@ -8,6 +8,7 @@ booking:
     second: 2. Klasse
   fee: Buchungsgebühr
   fip-50: FIP 50 Fahrkarten
+  fip-75: FIP 75 Fahrkarten
   fip-global-fare: FIP Globalpreis
   not-bookable: nicht buchbar
   reservation: Reservierung
@@ -50,8 +51,8 @@ fipValidity:
   active-relatives: Angehörige aktiver Mitarbeitender
   additional: Sonstige
   buttonLabel: Mehr Informationen zur FIP Gültigkeit anzeigen
-  card-validityHeading: Gültigkeit FIP Ausweis
-  card-validityMissingInfo: Keine Informationen zur Gültigkeit des FIP Ausweises verfügbar.
+  card-validityHeading: Gültigkeitsdauer des FIP Ausweises
+  card-validityMissingInfo: Derzeit liegen uns keine Informationen zur Gültigkeitsdauer vor.
   fip-coupon: FIP Freifahrtschein
   fip-coupon-description: >-
     Wähle zunächst den Aussteller deines FIP Ausweises. Wenn du berechtigt bist,
@@ -60,7 +61,7 @@ fipValidity:
     weiterhelfen können. Einen Überblick aller Freifahrtscheine erhältst du
     [hier](/fip-validity).
   fip-global-fare: FIP Globalpreis
-  fip-reduced-ticket: FIP Ermäßigtes Ticket (FIP 50 / FIP 75)
+  fip-reduced-ticket: FIP Ermäßigtes Ticket
   fip-reduced-ticket-description: >-
     Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als FIP
     50 oder FIP 75 bekannt. Der Rabatt beläuft sich meistens auf 50%, teilweise
@@ -68,8 +69,11 @@ fipValidity:
     Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
     du [hier](/fip-validity).
   issuer: Aussteller des FIP Ausweises
-  national-discountsHeading: Nationale Vergünstigungen
-  national-discountsMissingInfo: Keine Informationen zu nationalen Vergünstigungen verfügbar.
+  national-discountsHeading: Nationale Vergünstigungen (kein FIP)
+  national-discountsMissingInfo: >-
+    Derzeit liegen uns keine Informationen zu nationalen Vergünstigungen vor,
+    die bei der Fahrt ins Ausland helfen können.
+  noIssuers: Für den aktuellen Betreiber sind leider noch keine Informationen verfügbar.
   retired: Rentner:innen
   retired-relatives: Angehörige von Rentner:innen
   rules: Regeln
@@ -77,6 +81,7 @@ fipValidity:
   selectIssuerFirst: Bitte zuerst einen FIP Ausweis Aussteller auswählen.
   selectIssuerPlaceholder: FIP Ausweis Aussteller wählen
   taxationHeading: Versteuerung
+  taxationMissingInfo: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   unknown: Unbekannt
   validity: Gültigkeit
   widows: Witwen, Witwer und Waisen
@@ -173,9 +178,15 @@ support:
     [Kontaktformular](/contact) schreiben.
   title: Unterstütze uns
 taxation:
+  add-month: Monat hinzufügen
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
-  calculator: Steuerrechner
+  calculator: Steuerrechner {{ .Year }}
+  calculator-description: >-
+    1) Erfassung: Trage alle FIP Freifahrtscheine, nationale Vergünstigungen und
+    ggf. weitere Sachbezüge ein. 2) Planung: Klicke auf „Optimieren“, um eine
+    sinnvolle Monatsverteilung zu erhalten, und passe sie bei Bedarf
+    anschließend per Drag-and-Drop manuell an.
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
@@ -192,8 +203,10 @@ taxation:
   field: Feld
   fields: Felder
   first-class: 1. Klasse
+  general-heading: Allgemein
   increase: Erhöhen
   manual-mode: Manueller Modus
+  missing-info: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   no-first-class: Nur 2. Klasse
   no-relatives-warning: >-
     Für diesen Betreiber sind Freifahrtscheine nur für aktive Mitarbeitende
@@ -217,7 +230,12 @@ taxation:
     ausgewählt sind.
   persons: Personen
   persons-required: Benötigte Personen
-  planning: Planung
+  planning: Planung & Optimierung
+  planning-description: >-
+    Klicke zuerst auf „Optimieren“, um eine sinnvolle Verteilung auf Monate zu
+    erhalten. Anschließend kannst du einzelne Freifahrtscheine per Drag-and-Drop
+    verschieben, Monate ergänzen oder feste Zuordnungen wieder lösen.
+  planning-focus: Steuer optimieren
   remove: Entfernen
   reset: Zurücksetzen
   second-class: 2. Klasse

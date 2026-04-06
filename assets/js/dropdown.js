@@ -31,6 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
   registerEventListeners("navbar-country-selection");
   registerEventListeners("navbar-operator-selection");
   [
+    "taxation-issuer",
     "fip-validity-issuer",
     "fip-validity-dialog-fip-coupon",
     "fip-validity-dialog-fip-reduced-ticket",

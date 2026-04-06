@@ -1,13 +1,43 @@
-{{- $dbPage := .Page.Site.GetPage "/operator/db" -}}
 {{- $lang := .Page.Language.Lang -}}
-{{- if $dbPage -}}
-  {{- with $dbPage.Resources.Get "validity.yaml" -}}
-    {{- $validity := . | transform.Unmarshal -}}
-    {{- with index $validity "taxation" -}}
-      {{- $text := index . $lang -}}
-      {{- if $text -}}
-        {{ $text | $.Page.RenderString }}
+{{- $issuers := slice -}}
+{{- range where .Site.RegularPages "Type" "operator" -}}
+  {{- if .Resources.Get "taxation.yaml" -}}
+    {{- $issuers = $issuers | append . -}}
+  {{- end -}}
+{{- end -}}
+
+
+<div class="o-fip-validity__controls">
+  <span>
+    {{ T "fipValidity.selectIssuer" }}
+  </span>
+  {{ partial "fip-validity/issuer-dropdown" (dict
+    "id" "taxation-issuer"
+    "issuers" $issuers
+    )
+  }}
+</div>
+
+<h2 id="general">{{ T "taxation.general-heading" }}</h2>
+
+<p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+
+{{- range $issuers -}}
+  {{- $issuerSlug := .File.ContentBaseName -}}
+  {{- $taxationRes := .Resources.Get "taxation.yaml" -}}
+  {{- $text := T "taxation.missing-info" -}}
+  {{- if $taxationRes -}}
+    {{- $taxation := $taxationRes | transform.Unmarshal -}}
+    {{- $info := index $taxation "info" -}}
+    {{- if $info -}}
+      {{- with index $info $lang -}}
+        {{- $text = . -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
+  <div data-fip-issuer="{{ $issuerSlug }}" hidden>
+    {{ $text | $.Page.RenderString }}
+  </div>
 {{- end -}}
+
+{{ partial "intersector" }}

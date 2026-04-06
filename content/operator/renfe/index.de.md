@@ -19,7 +19,7 @@ Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/sp
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" text="Außer reservierungspflichtige Züge" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" text="Außer reservierungspflichtige Züge" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Außer reservierungspflichtige Züge" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="Für reservierungspflichtige Züge außer Avlo" disable_dialog=true >}}
 
 ## Zugkategorien und Reservierungen
@@ -183,6 +183,8 @@ Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres
 
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
+In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken erreichbar. An einem personenbesetzten Ticketschalter kann ein „Bono Gratuit" (für den FIP Freifahrtschein) angefordert werden – ein kostenloses Ticket, das die Schranken öffnet. Es ist nur für eine einzelne Fahrt gültig.[^4]
+
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
 - Cercanías Cádiz
@@ -263,4 +265,6 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
 
-[^3]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+[^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^4]: [Nutzerfeedback: Zugangsschranken Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)

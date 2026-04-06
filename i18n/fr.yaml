@@ -8,6 +8,7 @@ booking:
     second: 2nd classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
+  fip-75: Billets FIP 75
   fip-global-fare: Tarif Global FIP
   not-bookable: non réservable
   reservation: Réservation
@@ -50,8 +51,10 @@ fipValidity:
   active-relatives: Ayants droit des employés actifs
   additional: Autre
   buttonLabel: Afficher plus d'informations sur la validité du FIP
-  card-validityHeading: Validité de la Carte FIP
-  card-validityMissingInfo: Aucune information sur la validité de la Carte FIP disponible.
+  card-validityHeading: Durée de validité de la Carte FIP
+  card-validityMissingInfo: >-
+    Nous ne disposons actuellement d’aucune information sur la durée de
+    validité.
   fip-coupon: Coupon FIP
   fip-coupon-description: >-
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
@@ -67,8 +70,13 @@ fipValidity:
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
   issuer: Émetteur de la carte FIP
-  national-discountsHeading: Réductions nationales
-  national-discountsMissingInfo: Aucune information sur les réductions nationales disponible.
+  national-discountsHeading: Réductions nationales (non-FIP)
+  national-discountsMissingInfo: >-
+    Nous ne disposons actuellement d’aucune information sur les réductions
+    nationales susceptibles d’aider lors d’un voyage à l’étranger.
+  noIssuers: >-
+    Malheureusement, aucune information n'est encore disponible pour l'opérateur
+    actuel.
   retired: Retraités
   retired-relatives: Ayants droit des retraités
   rules: Règles
@@ -76,6 +84,7 @@ fipValidity:
   selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
   selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
   taxationHeading: Imposition
+  taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu
   validity: validité
   widows: Veuves, veufs et orphelins
@@ -168,9 +177,15 @@ support:
     pour contribuer au contenu. Vous pouvez également nous écrire via le
     [formulaire de contact](/contact).
 taxation:
+  add-month: Ajouter un mois
   add-national: Ajouter une réduction nationale
   add-operator: Ajouter un opérateur
-  calculator: Calculateur d’imposition
+  calculator: Calculateur d’imposition {{ .Year }}
+  calculator-description: >-
+    1) Saisie : renseigner tous les Coupons FIP, les réductions nationales et,
+    si nécessaire, d’autres avantages imposables. 2) Planification : cliquer sur
+    « Optimiser » pour obtenir une répartition mensuelle cohérente, puis
+    l’ajuster manuellement par glisser-déposer si besoin.
   category-international: Coupons FIP internationaux
   category-national: Réductions nationales
   category-other: Autres
@@ -187,8 +202,10 @@ taxation:
   field: champ
   fields: champs
   first-class: 1re classe
+  general-heading: Général
   increase: Augmenter
   manual-mode: Mode manuel
+  missing-info: Nous ne disposons actuellement d’aucune information sur l’imposition.
   no-first-class: 2nd classe uniquement
   no-relatives-warning: >-
     Pour cet opérateur, les coupons ne sont disponibles que pour les employés
@@ -211,7 +228,12 @@ taxation:
     personnes sont sélectionnées ci-dessus.
   persons: Personnes
   persons-required: Personnes requises
-  planning: Planification
+  planning: Planification et optimisation
+  planning-description: >-
+    Commencez par « Optimiser » pour obtenir une répartition mensuelle
+    cohérente. Ensuite, vous pouvez déplacer des coupons par glisser-déposer,
+    ajouter des mois ou supprimer des affectations fixes.
+  planning-focus: Optimiser les impôts
   remove: Supprimer
   reset: Réinitialiser
   second-class: 2nd classe

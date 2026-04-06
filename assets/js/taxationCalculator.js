@@ -23,8 +23,22 @@ function init() {
   const resetBtns = container.querySelectorAll("[data-taxation-reset]");
 
   const ctx = { container, config, i18n, state };
+  const mobileMq = window.matchMedia("(max-width: 992px)");
+
+  function scrollCalculatorToTopOnMobile() {
+    if (!mobileMq.matches) return;
+    const MOBILE_HEADER_OFFSET = 88;
+    const targetTop = window.scrollY + container.getBoundingClientRect().top;
+    window.scrollTo({
+      top: Math.max(0, targetTop - MOBILE_HEADER_OFFSET),
+      behavior: "smooth",
+    });
+  }
+
+  ctx.scrollCalculatorToTopOnMobile = scrollCalculatorToTopOnMobile;
 
   function rerenderAll() {
+    renderPersonLimitControlInput(ctx, saveState);
     operatorsWrapper.innerHTML = "";
     nationalWrapper.innerHTML = "";
     const otherWrapper = container.querySelector("[data-taxation-other]");
@@ -94,10 +108,64 @@ function init() {
     updateSummary(container, config, i18n, state);
   }
 
+  function onPersonLimitChange() {
+    for (const op of config.operators) {
+      const opState = state.operators[op.slug];
+      if (!hasActiveState(opState)) continue;
+      const row = operatorsWrapper.querySelector(
+        '[data-taxation-row="' + op.slug + '"]',
+      );
+      if (!row) continue;
+      updateRowState(
+        row,
+        opState,
+        op.firstClass || 0,
+        op.secondClass,
+        state.personLimit,
+        true,
+        op.singlePersonOnly || false,
+      );
+      updateRowMultipliers(
+        row,
+        op.singlePersonOnly ? 1 : state.personLimit,
+        i18n,
+      );
+      updateRowWarning(
+        row,
+        op.singleClassOnly || false,
+        op.singlePersonOnly || false,
+        state.personLimit,
+        i18n,
+      );
+    }
+
+    for (const nat of config.national) {
+      const natState = state.national[nat.key];
+      if (!hasActiveState(natState)) continue;
+      const row = nationalWrapper.querySelector(
+        '[data-taxation-row="' + nat.key + '"]',
+      );
+      if (!row) continue;
+      updateRowState(
+        row,
+        natState,
+        nat.firstClass,
+        nat.secondClass,
+        state.personLimit,
+        false,
+        false,
+      );
+    }
+
+    runPlanning(ctx);
+    updateSummary(container, config, i18n, state);
+  }
+
+  ctx.onPersonLimitChange = onPersonLimitChange;
+
   ctx.rerenderAll = rerenderAll;
   ctx.runOptimization = runOptimization;
 
-  renderPersonLimitControlInput(ctx, saveState);
   rerenderAll();
 
   if (resetBtns.length > 0 && operatorsWrapper && nationalWrapper) {
@@ -105,6 +173,7 @@ function init() {
       state.operators = {};
       state.national = {};
       state.other = 0;
+      state.personLimit = 1;
       state.planningAssignments = {};
       state.planningManualAssignments = {};
       state.planningMonthCount = 0;
@@ -130,35 +199,19 @@ function getI18n(container) {
     addOperator: container.dataset.i18nAddOperator,
     addNational: container.dataset.i18nAddNational,
     remove: container.dataset.i18nRemove,
-    perField: container.dataset.i18nPerField,
-    field: container.dataset.i18nField,
-    fields: container.dataset.i18nFields,
     increase: container.dataset.i18nIncrease,
     decrease: container.dataset.i18nDecrease,
-    sum: container.dataset.i18nSum,
-    categoryInternational: container.dataset.i18nCategoryInternational,
-    categoryNational: container.dataset.i18nCategoryNational,
     categoryOther: container.dataset.i18nCategoryOther,
     otherPlaceholder: container.dataset.i18nOtherPlaceholder,
-    classMixedWarning: container.dataset.i18nClassMixedWarning,
-    secondPersonHint: container.dataset.i18nSecondPersonHint,
     highlightImportant: container.dataset.i18nHighlightImportant,
-    highlightTip: container.dataset.i18nHighlightTip,
-    thresholdAbove: container.dataset.i18nThresholdAbove,
-    thresholdBelow: container.dataset.i18nThresholdBelow,
-    thresholdExcess: container.dataset.i18nThresholdExcess,
-    disclaimer: container.dataset.i18nDisclaimer,
-    personsRequired: container.dataset.i18nPersonsRequired,
-    personLimit: container.dataset.i18nPersonLimit,
     noRelativesWarning: container.dataset.i18nNoRelativesWarning,
-    reset: container.dataset.i18nReset,
     planning: container.dataset.i18nPlanning,
+    planningDescription: container.dataset.i18nPlanningDescription,
+    planningFocus: container.dataset.i18nPlanningFocus,
     optimize: container.dataset.i18nOptimize,
-    manualMode: container.dataset.i18nManualMode,
-    optimizationTitle: container.dataset.i18nOptimizationTitle,
+    addMonth: container.dataset.i18nAddMonth,
     optimizationMonth: container.dataset.i18nOptimizationMonth,
-    optimizationItems: container.dataset.i18nOptimizationItems,
-    optimizationImpossible: container.dataset.i18nOptimizationImpossible,
+    personLimit: container.dataset.i18nPersonLimit,
     unassigned: container.dataset.i18nUnassigned,
     person: container.dataset.i18nPerson,
     persons: container.dataset.i18nPersons,
@@ -736,6 +789,7 @@ function createSearchSelect(options) {
   list.className = "o-taxation-calculator__search-list";
   list.setAttribute("role", "listbox");
   list.setAttribute("aria-hidden", "true");
+  list.inert = true;
 
   const activeKeys = new Set();
 
@@ -755,6 +809,7 @@ function createSearchSelect(options) {
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "o-taxation-calculator__search-item-btn";
+      btn.setAttribute("aria-label", item.label);
 
       const addIcon = createIcon("add_circle");
       addIcon.classList.add("o-taxation-calculator__search-add-icon");
@@ -785,34 +840,24 @@ function createSearchSelect(options) {
 
   function ensureDropdownSpace() {
     const wrapperRect = wrapper.getBoundingClientRect();
-    const maxHeight = parseFloat(window.getComputedStyle(list).maxHeight) || 0;
-    const listHeight = Math.min(
-      list.scrollHeight,
-      maxHeight || list.scrollHeight,
-    );
-    const requiredBottom = wrapperRect.bottom + listHeight;
-
-    const calculator = wrapper.closest("[data-taxation-calculator]");
-    const sheet = calculator
-      ? calculator.querySelector("[data-taxation-sheet]")
-      : null;
-    const hasVisibleSheet =
-      sheet && window.getComputedStyle(sheet).display !== "none";
-    const bottomLimit = hasVisibleSheet
-      ? sheet.getBoundingClientRect().top - 28
-      : window.innerHeight - 28;
-
-    const delta = requiredBottom - bottomLimit;
-    if (hasVisibleSheet) {
-      window.scrollTo(window.scrollX, window.scrollY + delta);
-    } else if (delta > 0) {
-      window.scrollTo(window.scrollX, window.scrollY + delta);
+    const header = document.getElementById("header");
+    const headerHeight = header ? header.getBoundingClientRect().height : 60;
+    const extraTopGap = 12;
+    const targetTop =
+      window.scrollY + wrapperRect.top - (headerHeight + extraTopGap);
+    const currentTop = window.scrollY;
+    if (Math.abs(targetTop - currentTop) > 2) {
+      window.scrollTo({
+        top: Math.max(0, targetTop),
+        behavior: "smooth",
+      });
     }
   }
 
   function openList() {
     const count = buildItems();
     if (count > 0) {
+      list.inert = false;
       list.setAttribute("aria-hidden", "false");
       input.setAttribute("aria-expanded", "true");
       wrapper.classList.add("o-taxation-calculator__search-select--open");
@@ -821,6 +866,10 @@ function createSearchSelect(options) {
   }
 
   function closeList() {
+    if (list.contains(document.activeElement)) {
+      input.focus({ preventScroll: true });
+    }
+    list.inert = true;
     list.setAttribute("aria-hidden", "true");
     input.setAttribute("aria-expanded", "false");
     wrapper.classList.remove("o-taxation-calculator__search-select--open");
@@ -998,6 +1047,7 @@ function renderOperators(ctx, wrapper) {
     items: selectItems,
     onSelect(item) {
       addOperatorCard(ctx, wrapper, searchSelect, item.data);
+      ctx.scrollCalculatorToTopOnMobile();
     },
   });
 
@@ -1030,6 +1080,7 @@ function renderNational(ctx, wrapper) {
     items: selectItems,
     onSelect(item) {
       addNationalCard(ctx, wrapper, searchSelect, item.data);
+      ctx.scrollCalculatorToTopOnMobile();
     },
   });
 
@@ -1138,18 +1189,6 @@ function updateSummary(container, config, i18n, state) {
     summaryHint,
   );
 
-  updateSummaryBlock(
-    container,
-    {
-      totalEl: container.querySelector("[data-taxation-bottom-total]"),
-      personsEl: container.querySelector("[data-taxation-bottom-persons]"),
-      thresholdEl: container.querySelector("[data-taxation-bottom-threshold]"),
-    },
-    total,
-    totalPersons,
-    summaryHint,
-  );
-
   updateThresholdBlock(
     container.querySelector("[data-taxation-mobile-threshold-detail]"),
     summaryHint,
@@ -1182,6 +1221,20 @@ function updateSummary(container, config, i18n, state) {
 function runPlanning(ctx) {
   if (ctx && typeof ctx.runOptimization === "function") {
     ctx.runOptimization();
+  }
+}
+
+function updateRowMultipliers(row, effectivePersonLimit, i18n) {
+  var multiplierEls = row.querySelectorAll(
+    ".o-taxation-calculator__multiplier",
+  );
+  for (const multiplierEl of multiplierEls) {
+    if (effectivePersonLimit === 1) {
+      multiplierEl.textContent = "x 1 " + i18n.person;
+    } else {
+      multiplierEl.textContent =
+        "x " + effectivePersonLimit + " " + i18n.persons;
+    }
   }
 }
 

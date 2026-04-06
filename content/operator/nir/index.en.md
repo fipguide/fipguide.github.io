@@ -15,7 +15,7 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Train Categories and Reservations
 
@@ -46,7 +46,7 @@ NIR operates the Enterprise Service between Dublin and Belfast together with [CI
 
 ## Class Categories
 
-- **Second Class**: Standard class, usable with FIP 50 Tickets and FIP Coupons of both first and second class.
+- **Second Class**: Standard class, usable with FIP 50 / FIP 75 Tickets and FIP Coupons of both first and second class.
 
 - **Enterprise Plus**: First class on the Dublin – Belfast connection. Can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons.
 
@@ -54,7 +54,7 @@ NIR operates the Enterprise Service between Dublin and Belfast together with [CI
 
 ### Online
 
-FIP 50 Tickets cannot be purchased online.
+FIP 50 / FIP 75 Tickets cannot be purchased online.
 
 {{% booking id="irish-rail-website"
     subtitle="Reservations (2nd class) for the Enterprise Service (Dublin – Belfast)."
@@ -69,12 +69,12 @@ FIP 50 Tickets cannot be purchased online.
 {{% booking id="translink-ticket-office" /%}}
 
 {{% booking id="irish-rail-ticket-office"
-    subtitle="Reservations and FIP 50 Tickets for the Enterprise Service (Dublin – Belfast)."
+    subtitle="Reservations and FIP 50 / FIP 75 Tickets for the Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### On the Train
 
-FIP 50 Tickets must be purchased before boarding. On the Enterprise Service, it is possible to purchase the upgrade between 1st and 2nd class on the train.
+FIP 50 / FIP 75 Tickets must be purchased before boarding. On the Enterprise Service, it is possible to purchase the upgrade between 1st and 2nd class on the train.
 
 ## Discounts
 

@@ -33,6 +33,8 @@ export function renderPersonLimitControl(ctx, saveState) {
   decreaseBtn.type = "button";
   decreaseBtn.className = "o-taxation-calculator__btn";
   decreaseBtn.appendChild(createIcon("remove"));
+  decreaseBtn.title = i18n.decrease;
+  decreaseBtn.setAttribute("aria-label", i18n.decrease);
 
   const value = document.createElement("span");
   value.className = "o-taxation-calculator__person-limit-value";
@@ -42,6 +44,8 @@ export function renderPersonLimitControl(ctx, saveState) {
   increaseBtn.type = "button";
   increaseBtn.className = "o-taxation-calculator__btn";
   increaseBtn.appendChild(createIcon("add"));
+  increaseBtn.title = i18n.increase;
+  increaseBtn.setAttribute("aria-label", i18n.increase);
 
   function updateButtons() {
     decreaseBtn.disabled = state.personLimit <= 1;
@@ -58,7 +62,9 @@ export function renderPersonLimitControl(ctx, saveState) {
   decreaseBtn.addEventListener("click", function () {
     if (state.personLimit <= 1) return;
     state.personLimit -= 1;
-    ctx.rerenderAll();
+    if (typeof ctx.onPersonLimitChange === "function") {
+      ctx.onPersonLimitChange();
+    }
     saveState(state);
     updateButtons();
   });
@@ -66,7 +72,9 @@ export function renderPersonLimitControl(ctx, saveState) {
   increaseBtn.addEventListener("click", function () {
     if (state.personLimit >= MAX_PERSONS) return;
     state.personLimit += 1;
-    ctx.rerenderAll();
+    if (typeof ctx.onPersonLimitChange === "function") {
+      ctx.onPersonLimitChange();
+    }
     saveState(state);
     updateButtons();
   });

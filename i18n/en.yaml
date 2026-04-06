@@ -8,6 +8,7 @@ booking:
     second: 2nd Class
   fee: Booking Fee
   fip-50: FIP 50 Tickets
+  fip-75: FIP 75 Tickets
   fip-global-fare: FIP Global Fare
   not-bookable: not bookable
   reservation: Reservation
@@ -49,8 +50,8 @@ fipValidity:
   active-relatives: Relatives of Active Employees
   additional: Other
   buttonLabel: Show more information on FIP validity
-  card-validityHeading: FIP Card Validity
-  card-validityMissingInfo: No information on FIP Card validity available.
+  card-validityHeading: Validity Period of the FIP Card
+  card-validityMissingInfo: We currently do not have information on the validity period.
   fip-coupon: FIP Coupon
   fip-coupon-description: >-
     First select the issuer of your FIP Card. If you are eligible, you can
@@ -65,8 +66,11 @@ fipValidity:
     discount applies to you, first select the issuer of your FIP Card. You can
     find an overview of all discounts [here](/fip-validity).
   issuer: FIP Card Issuer
-  national-discountsHeading: National Discounts
-  national-discountsMissingInfo: No information on national discounts available.
+  national-discountsHeading: National Discounts (Non-FIP)
+  national-discountsMissingInfo: >-
+    We currently do not have information on national discounts that can help
+    with travel abroad.
+  noIssuers: Unfortunately, no information is available yet for the current operator.
   retired: Retirees
   retired-relatives: Relatives of Retirees
   rules: Rules
@@ -74,6 +78,7 @@ fipValidity:
   selectIssuerFirst: Please select a FIP Card issuer first.
   selectIssuerPlaceholder: Select FIP Card issuer
   taxationHeading: Taxation
+  taxationMissingInfo: We currently do not have information on taxation.
   unknown: Unknown
   validity: validity
   widows: Widows, Widowers and Orphans
@@ -165,9 +170,14 @@ support:
     contribute content. Alternatively, you can also write to us via the [contact
     form](/contact).
 taxation:
+  add-month: Add month
   add-national: Add national discount
   add-operator: Add operator
-  calculator: Tax Calculator
+  calculator: Tax Calculator {{ .Year }}
+  calculator-description: >-
+    1) Entry: Add all FIP Coupons, national discounts, and any other taxable
+    benefits if needed. 2) Planning: Click “Optimize” to get a sensible monthly
+    split, then fine-tune it manually with drag and drop if required.
   category-international: International FIP Coupons
   category-national: National Discounts
   category-other: Other
@@ -183,8 +193,10 @@ taxation:
   field: field
   fields: fields
   first-class: 1st Class
+  general-heading: General
   increase: Increase
   manual-mode: Manual mode
+  missing-info: We currently do not have information on taxation.
   no-first-class: 2nd Class only
   no-relatives-warning: >-
     For this operator, coupons are only available for active employees. Only one
@@ -206,7 +218,12 @@ taxation:
     therefore always uses x 1, even if more persons are selected above.
   persons: Persons
   persons-required: Persons required
-  planning: Planning
+  planning: Planning & Optimization
+  planning-description: >-
+    Start with “Optimize” to generate a sensible monthly distribution. Then you
+    can move individual coupons with drag and drop, add months, or release fixed
+    assignments.
+  planning-focus: Optimize taxes
   remove: Remove
   reset: Reset
   second-class: 2nd Class

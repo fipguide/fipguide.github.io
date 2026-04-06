@@ -3,7 +3,7 @@
 
   &__subtitle {
     color: var(--color-body);
-    opacity: 0.7;
+    opacity: 1;
     margin-bottom: 2rem;
   }
 
@@ -80,6 +80,15 @@
     @include focus-indicator(0.2rem);
   }
 
+  &__reset-btn,
+  &__optimization-run,
+  &__optimization-new-month,
+  &__optimization-lock,
+  &__search-item-btn,
+  &__mobile-header {
+    @include focus-indicator(0.2rem);
+  }
+
   &__summary-actions {
     display: flex;
     justify-content: flex-end;
@@ -95,86 +104,69 @@
     margin-top: 2rem;
   }
 
+  &__planning-focus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+    font-size: 1em;
+    font-weight: normal;
+    font-style: italic;
+    color: var(--color-body);
+
+    .a-icon {
+      color: var(--tag-warning-color);
+      opacity: 1;
+      font-size: 1.6em;
+      flex-shrink: 0;
+    }
+  }
+
   &__planning-title {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
     margin: 0;
     font-size: 1.15em;
+
+    &::before {
+      content: "";
+      display: inline-flex;
+      width: 1.2em;
+      height: 1.2em;
+      background: var(--color-body);
+      mask: var(--icon-url) center / contain no-repeat;
+      -webkit-mask: var(--icon-url) center / contain no-repeat;
+      --icon-url: url("/icons/material-symbols-rounded/calendar_month.svg");
+      opacity: 0.6;
+      flex-shrink: 0;
+    }
+  }
+
+  &__planning-description {
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
   }
 
   &__planning-header {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    align-items: flex-start;
+    justify-content: flex-start;
     gap: 0.8rem;
-    margin-bottom: 0.8rem;
+    padding-bottom: 0.8rem;
+    border-bottom: var(--border-visible);
   }
 
-  &__planning-controls {
+  &__planning-actions {
     display: flex;
     justify-content: flex-end;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-
-    &--bottom {
-      margin-top: 1rem;
-      margin-bottom: 0;
-    }
+    margin-top: 0.2rem;
+    margin-bottom: 0.8rem;
   }
 
   &__planning-header > &__optimization-run {
     margin: 0;
-  }
-
-  &__optimization-title {
-    font-size: 1em;
-    margin-bottom: 0.6rem;
-  }
-
-  &__optimization-controls {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.8rem;
-    margin-bottom: 0.8rem;
-  }
-
-  &__optimization-toggle {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.9em;
-
-    input {
-      position: absolute;
-      opacity: 0;
-      pointer-events: none;
-    }
-
-    input:checked + .o-taxation-calculator__optimization-switch {
-      background: var(--link-default);
-
-      > span {
-        transform: translateX(1.8rem);
-      }
-    }
-  }
-
-  &__optimization-switch {
-    display: inline-flex;
-    align-items: center;
-    width: 4rem;
-    height: 2.2rem;
-    background: #6c6c6c;
-    border-radius: 999px;
-    padding: 0.2rem;
-    transition: background 0.2s;
-
-    > span {
-      width: 1.8rem;
-      height: 1.8rem;
-      border-radius: 50%;
-      background: white;
-      transition: transform 0.2s;
-    }
   }
 
   &__optimization-run {
@@ -210,6 +202,15 @@
     background: var(--bg-neutral);
     border-radius: var(--border-radius-s);
     padding: 0.8rem 1rem;
+
+    &--unassigned {
+      background: color-mix(in srgb, var(--bg-neutral) 72%, var(--bg-default));
+      border: 0.2rem dashed rgba($link-default, 0.35);
+
+      .o-taxation-calculator__optimization-month-label {
+        opacity: 0.85;
+      }
+    }
   }
 
   &__optimization-month-title {
@@ -389,22 +390,6 @@
     }
   }
 
-  &__optimization-line {
-    display: block;
-    padding: 0.2rem 0;
-  }
-
-  &__optimization-drag {
-    display: inline-flex;
-    align-items: center;
-    color: var(--color-body);
-    opacity: 0.5;
-
-    .a-icon {
-      font-size: 1.4rem;
-    }
-  }
-
   &__optimization-item--dragging {
     opacity: 0.5;
   }
@@ -481,15 +466,6 @@
     display: flex;
     flex-direction: column;
     gap: 2.5rem;
-  }
-
-  &__bottom-summary {
-    margin-top: 2rem;
-    display: none;
-
-    @media (max-width: $breakpoint-lg) {
-      display: none;
-    }
   }
 
   &__section {
@@ -1189,8 +1165,24 @@
       margin-top: 0;
     }
 
+    > .o-taxation-calculator__mobile-reset-actions {
+      margin-top: 1rem;
+      justify-content: flex-end;
+      display: flex;
+    }
+
     * {
       transition: opacity 0.3s ease-in-out;
+    }
+  }
+
+  @media (max-width: $breakpoint-lg) {
+    &__optimization-item {
+      touch-action: none;
+    }
+
+    &__optimization-drag-handle {
+      touch-action: none;
     }
   }
 }

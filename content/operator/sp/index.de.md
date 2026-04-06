@@ -19,7 +19,7 @@ In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [S
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zug- und Busbetreiber](#zug--und-busbetreiber), sowie bei den [Schiffbetreibern](#betreiber-von-schiffen). FIP Freifahrtscheine gelten mit wenigen Ausnahmen auch überall.
 
@@ -552,7 +552,7 @@ Die SZU betreibt die beiden S-Bahn Linien S4 und S10 der S-Bahn Zürich. Diese f
 %}}
 Die Thurbo AG ist eine Eisenbahngesellschaft in der Ostschweiz sowie im grenzüberschreitenden Verkehr mit Deutschland und Österreich. Sie betreibt diverse S-Bahn Linien der S-Bahn St. Gallen sowie der S-Bahn Zürich. Dazu kommen noch einzelne `RE` Verbindungen.
 
-FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die internationalen Abschnitte werden dagegen in Deutschland von der SBB GmbH und in Österreich von der ÖBB übernommen. Nach Österreich wird daher zusätzlich ein Freifahrtschein der ÖBB benötigt, die Strecken nach Deutschland sind mit FIP nicht nutzbar. Eine Ausnahme stellt die Fahrt von der Schweiz bis Konstanz dar, da Konstanz als Grenzbahnhof gilt. FIP 50 Tickets können für alle Strecken innerhalb der Schweiz sowie den Strecken nach Österreich und nach Konstanz erworben werden.
+FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die internationalen Abschnitte werden dagegen in Deutschland von der SBB GmbH und in Österreich von der ÖBB übernommen. Nach Österreich wird daher zusätzlich ein Freifahrtschein der ÖBB benötigt, die Strecken nach Deutschland sind mit FIP nicht nutzbar. Ausnahmen stellen die Fahrten von der Schweiz bis Konstanz und bis Waldshut dar, da diese als Grenzbahnhöfe gelten. FIP 50 Tickets können für alle Strecken innerhalb der Schweiz sowie den Strecken nach Österreich, nach Konstanz und nach Waldshut erworben werden.
 
 #### Strecken im Linienverkehr
 
@@ -560,16 +560,17 @@ FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die 
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
-- Weinfelden – St. Gallen – St. Margarethen (S5)
-- Weinfelden – Romanshorn – St. Margarethen (– Bregenz) (S7)
+- Weinfelden – St. Gallen (– St. Margrethen) (S5)
+- Weinfelden – Romanshorn (– Rorschach) (einzelne Züge: – St. Margrethen – Lindau-Insel) (S7)
 - Wil – Wattwil (S9)
 - Wil – Romanshorn (S10)
 - Sargans – Chur (S12)
 - Weinfelden – Konstanz (S14 und S44)
-- St. Gallen – Herisau (S81)
 - St. Gallen – Wittenbach (S82)
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
+
+Die S5 fährt nur stündlich bis St. Margrethen, ansonsten endet sie in St. Gallen. Die S7 verkehrt stündlich zwischen Weinfelden und Rorschach und wird vereinzelt über St. Margrethen bis Lindau-Insel verlängert. Ab St. Margrethen (Grenzbahnhof) sind FIP Freifahrtscheine der ÖBB erforderlich.
 
 ##### Linien im Raum Zürich
 
@@ -577,10 +578,12 @@ FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die 
 - Winterthur – Stein am Rhein (S29)
 - Winterthur – Weinfelden (S30)
 - Winterthur – Wil (S35)
-- Bülach – Koblenz(CH) (S36)
+- Bülach – Koblenz(CH) – Waldshut(D) (S36)
 - Winterthur – Bülach (S41)
 
 Dazu kommen noch Nachtlinien in beiden Regionen, die die normalen S-Bahn Linien in den nächtlichen Stunden ersetzen, die auch mit FIP genutzt werden können.
+
+Ab dem Fahrplanwechsel im Dezember 2026 wird die S5 zur S3 und verkehrt stündlich auf der Strecke Weinfelden – St. Gallen – St. Margrethen – Bregenz.
 {{% /train-category %}}
 
 {{% train-category
