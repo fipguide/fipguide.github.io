@@ -487,7 +487,7 @@ Meanings of route numbers can be found in the [ČD route network](https://www.sp
 
 For trains with mandatory reservations listed there, special rules apply—see [Trains with Mandatory Reservations](#trains-with-mandatory-reservations).
 
-The surcharge costs 250 CZK (as of February 2026) and can be purchased before departure at a ČD Ticket Office or on board (please contact the train staff directly). The validity of the surcharge matches the current field on the FIP Coupon (2 days) and is valid on all commercial services. [^3]
+The surcharge costs 250 CZK (as of February 2026) and can be purchased before departure at a ČD Ticket Office, on board (please contact the train staff directly) or online. The validity of the surcharge matches the current field on the FIP Coupon (2 days) and is valid on all commercial services. [^3] Online purchases are possible only on the [ČD website in Czech here](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) (_Jednorázový příplatek na komerční vlaky a vybrané linky_, choose the date and on the next page after clicking _Koupit_ the website can be switched to English again).
 
 Refunds for surcharges are possible until 23:59 on the day before the first day of validity (no deduction) or within 15 minutes of purchase (no deduction). If an unused surcharge is returned by 08:00 on the first day of validity, a handling fee of 100 CZK is charged. In all other cases, no refund is possible. [^1]
 
