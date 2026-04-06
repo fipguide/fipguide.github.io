@@ -94,6 +94,25 @@ Une réservation est requise sauf dans les voitures à places assises lorsqu’i
 {{% /train-category %}}
 
 {{% train-category
+    id="pe"
+    title="Panorama Express (PE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://www.sbb.ch/fr/loisirs-vacances/trains-bateaux/voyages-panoramiques/gotthard-panorama-express.html"
+%}}
+Train panoramique des CFF prenant la ligne du Gothard classique de mi-avril à mi-octobre. Promu comme voyage en combinaision avec le bateau da la Société de navigation du lac des Quatre-Cantons (SGV), y étant valable les réductions SP, voir [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Pour les voyageurs faisant le parcours complet avec train et bateau entre Lugano et Lucerne (et vice versa) un transfer de bagages gratuit est offert.
+
+#### Réservation
+24 CHF
+
+{{% highlight important %}}
+Les trains ne sont composés que des voitures 1ère classe. Avec un permis FIP en 2ᵉ un surclassement est nécessaire. Avec une carte FIP en 2ᵉ aucune réduction est disponible.
+{{% /highlight %}}
+{{% /train-category %}}
+
+{{% train-category
     id="ir"
     title="InterRegio (IR) / RegionalExpress (RE)"
     type="regional"

@@ -97,7 +97,7 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
 {{% train-category
     id="pe"
     title="Panorama Express (PE)"
-    type="highspeed"
+    type="regional"
     fip_accepted=true
     reservation_required=true
     reservation_possible=true
