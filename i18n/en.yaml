@@ -169,6 +169,75 @@ support:
     [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to
     contribute content. Alternatively, you can also write to us via the [contact
     form](/contact).
+taxation:
+  add-month: Add month
+  add-national: Add national discount
+  add-operator: Add operator
+  calculator: Tax Calculator {{ .Year }}
+  calculator-description: >-
+    The tax calculator helps you determine the taxable non-cash benefit value of
+    your travel benefits.
+
+    1. Select the number of persons for whom you want to calculate
+       international coupons.
+    2. Select the coupons and the number of fields you need (the same class and
+       quantity are applied to each person, where possible).
+    3. Add national discounts and any additional taxable non-cash benefits.
+
+    The total taxable amount is then calculated.
+
+    In [Planning & Optimization](#planning-optimization), you can reduce your
+    tax impact by distributing amounts across multiple months.
+  category-international: International FIP Coupons
+  category-national: National Discounts
+  category-other: Other
+  children: Children
+  decrease: Decrease
+  disclaimer: >-
+    We assume no liability or guarantee for the accuracy of the calculated data.
+    The calculation is for orientation purposes only.
+  first-class: 1st Class
+  general-heading: General
+  increase: Increase
+  missing-info: We currently do not have information on taxation.
+  no-first-class: 2nd Class only
+  optimization-month: Month
+  optimize: Optimize
+  other-placeholder: Other taxable benefits (€)
+  person: Person
+  person-limit: Number of persons
+  person-limit-not-supported-warning: >-
+    For this operator, coupons for relatives are not available. The calculation
+    therefore always uses one person, even if more persons were selected.
+  person-one: Person
+  person-other: Persons
+  planning: Planning & Optimization
+  planning-description: >-
+    In Planning & Optimization mode, “Optimize” distributes your coupons across
+    months in an optimal way. If you need a specific coupon in a specific month,
+    move it via drag and drop. It stays fixed in that month until you unlock it.
+    “Optimize” respects these fixed assignments and adjusts all remaining
+    coupons accordingly. Individual coupons that exceed the threshold on their
+    own are grouped as early as possible.
+  planning-focus: Optimize taxes
+  remove: Remove
+  reset: Reset
+  second-class: 2nd Class
+  sum: Total
+  summary-all-assigned-ok: All coupons are assigned to months, and no month exceeds €{{ .Threshold }}.
+  summary-all-assigned-over-month: >-
+    All coupons are assigned, but at least one month is above the €{{ .Threshold
+    }} threshold. In that case, the full monthly amount is taxable, not just the
+    part above the threshold.
+  summary-over-limit-unassigned: >-
+    The total is above the €{{ .Threshold }} threshold. The full monthly amount
+    is taxable, not just the part above the threshold. Distribute the amount
+    across multiple months to optimize your tax impact.
+  summary-under-limit: >-
+    The total is within the €{{ .Threshold }} threshold. No additional taxation
+    applies.
+  unassigned: Unassigned
+  unlock: Remove assignment
 teamMembers:
   lennart:
     name: Lennart Rommeiß

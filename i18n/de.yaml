@@ -177,6 +177,80 @@ support:
     um Inhalte beizutragen. Alternativ kannst du uns auch über das
     [Kontaktformular](/contact) schreiben.
   title: Unterstütze uns
+taxation:
+  add-month: Monat hinzufügen
+  add-national: Nationale Vergünstigung hinzufügen
+  add-operator: Betreiber hinzufügen
+  calculator: Steuerrechner {{ .Year }}
+  calculator-description: >-
+    Hier kannst du den Sachbezugswert deiner Fahrvergünstigungen berechnen.
+
+    1. Wähle die Anzahl der Personen aus, für die Freifahrtscheine
+
+    2. Wähle die Betreiber und die Anzahl der Felder aus
+
+    3. Füge nationale Vergünstigungen und weitere steuerpflichtige
+       Sachbezugswerte hinzu
+
+    Anschließend wird die Summe deiner Sachbezugswerte berechnet.
+
+    Im Bereich [Planung & Optimierung](#planning-optimization) kannst du deine
+    Steuerlast optimieren, indem du sie auf mehrere Monate verteilst.
+  category-international: Internationale FIP Freifahrtscheine
+  category-national: Nationale Vergünstigungen
+  category-other: Sonstiges
+  children: Kinder
+  decrease: Verringern
+  disclaimer: >-
+    Wir übernehmen keine Haftung oder Garantie für die Richtigkeit der
+    berechneten Daten. Die Berechnung dient ausschließlich zur Orientierung.
+  first-class: 1. Klasse
+  general-heading: Allgemein
+  increase: Erhöhen
+  missing-info: Derzeit liegen uns keine Informationen zur Versteuerung vor.
+  no-first-class: Nur 2. Klasse
+  optimization-month: Monat
+  optimize: Optimieren
+  other-placeholder: Sonstige Sachbezüge (€)
+  person: Person
+  person-limit: Anzahl Personen
+  person-limit-not-supported-warning: >-
+    Für diesen Betreiber sind Freifahrtscheine für Angehörige nicht verfügbar.
+    Die Berechnung erfolgt daher immer mit nur einer Person, auch wenn mehr
+    Personen ausgewählt wurden.
+  person-one: Person
+  person-other: Personen
+  planning: Planung & Optimierung
+  planning-description: >-
+    Hier kannst du über „Optimieren“ deine Freifahrtscheine optimal auf Monate
+    verteilen.
+
+    Wenn du einen Freifahrtschein in einem bestimmten Monat brauchst, kannst du
+    ihn per Drag-and-Drop verschieben. Er ist dann in diesem Monat fest
+    zugeordnet, bis du ihn über das Schloss wieder löst. Die
+    „Optimieren“-Funktion berücksichtigt deine Zuordnung und passt die
+    Verteilung der übrigen Freifahrtscheine entsprechend an.
+  planning-focus: Steuer optimieren
+  remove: Entfernen
+  reset: Zurücksetzen
+  second-class: 2. Klasse
+  sum: Summe
+  summary-all-assigned-ok: >-
+    Alle Freifahrtscheine sind auf Monate verteilt. Kein Monat überschreitet {{
+    .Threshold }} €.
+  summary-all-assigned-over-month: >-
+    Alle Freifahrtscheine sind zugewiesen, aber mindestens ein Monat liegt über
+    dem {{ .Threshold }}-€-Grenzwert. In diesem Fall wird der gesamte
+    Monatsbetrag versteuert, nicht nur der Anteil über dem Grenzwert.
+  summary-over-limit-unassigned: >-
+    Die Summe liegt oberhalb des {{ .Threshold }} € Grenzwerts. Der gesamte
+    Monatsbetrag ist steuerpflichtig, nicht nur der Anteil über dem Grenzwert.
+    Verteile den Betrag auf mehrere Monate, um die Steuerlast zu optimieren.
+  summary-under-limit: >-
+    Die Summe liegt innerhalb des {{ .Threshold }} € Grenzwerts. Es entsteht
+    keine zusätzliche Versteuerung.
+  unassigned: Nicht zugewiesen
+  unlock: Zuordnung aufheben
 teamMembers:
   lennart:
     name: Lennart Rommeiß

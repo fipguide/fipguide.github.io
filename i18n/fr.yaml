@@ -91,6 +91,7 @@ fipValidity:
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
+general: Général
 highlight:
   confusion: Risque de confusion
   important: Informations importantes
@@ -175,6 +176,82 @@ support:
     Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
     pour contribuer au contenu. Vous pouvez également nous écrire via le
     [formulaire de contact](/contact).
+taxation:
+  add-month: Ajouter un mois
+  add-national: Ajouter une réduction nationale
+  add-operator: Ajouter un opérateur
+  calculator: Calculateur d’imposition {{ .Year }}
+  calculator-description: >-
+    Le calculateur fiscal vous permet de déterminer la valeur imposable de vos
+    avantages de voyage.
+
+    1. Sélectionnez le nombre de personnes pour lesquelles vous souhaitez
+       calculer des coupons internationaux.
+    2. Sélectionnez les coupons et le nombre de champs nécessaires (la même
+       classe et la même quantité sont prises en compte pour chaque personne,
+       dans la mesure du possible).
+    3. Ajoutez les réductions nationales et, si nécessaire, d’autres avantages
+       imposables.
+
+    Le total imposable est ensuite calculé.
+
+    Dans la section [Planification et optimisation](#planning-optimization),
+    vous pouvez réduire la charge fiscale en répartissant les montants sur
+    plusieurs mois.
+  category-international: Coupons FIP internationaux
+  category-national: Réductions nationales
+  category-other: Autres
+  children: Enfants
+  decrease: Diminuer
+  disclaimer: >-
+    Nous n’assumons aucune responsabilité ni garantie quant à l’exactitude des
+    données calculées. Le calcul est fourni à titre indicatif uniquement.
+  first-class: 1re classe
+  general-heading: Général
+  increase: Augmenter
+  missing-info: Nous ne disposons actuellement d’aucune information sur l’imposition.
+  no-first-class: 2nd classe uniquement
+  optimization-month: Mois
+  optimize: Optimiser
+  other-placeholder: Autres avantages imposables (€)
+  person: Personne
+  person-limit: Nombre de personnes
+  person-limit-not-supported-warning: >-
+    Pour cet opérateur, les coupons pour les ayants droit ne sont pas
+    disponibles. Le calcul est donc toujours effectué avec une seule personne,
+    même si plusieurs personnes ont été sélectionnées.
+  person-one: Personne
+  person-other: Personnes
+  planning: Planification et optimisation
+  planning-description: >-
+    En mode Planification et optimisation, « Optimiser » répartit vos coupons de
+    manière optimale sur les mois. Si vous avez besoin d’un coupon dans un mois
+    précis, déplacez-le par glisser-déposer. Il reste alors affecté à ce mois
+    jusqu’à ce que vous le déverrouilliez. La fonction « Optimiser » tient
+    compte de ces affectations fixes et ajuste la répartition des coupons
+    restants en conséquence. Les coupons qui dépassent à eux seuls le seuil sont
+    regroupés le plus tôt possible.
+  planning-focus: Optimiser les impôts
+  remove: Supprimer
+  reset: Réinitialiser
+  second-class: 2nd classe
+  sum: Total
+  summary-all-assigned-ok: >-
+    Tous les coupons sont répartis par mois et aucun mois ne dépasse {{
+    .Threshold }} €.
+  summary-all-assigned-over-month: >-
+    Tous les coupons sont attribués, mais au moins un mois dépasse le seuil de
+    {{ .Threshold }} €. Dans ce cas, le montant mensuel complet est imposable,
+    et pas seulement la part au-dessus du seuil.
+  summary-over-limit-unassigned: >-
+    Le total dépasse le seuil de {{ .Threshold }} €. Le montant mensuel complet
+    est imposable, et pas seulement la part au-dessus du seuil. Répartissez le
+    montant sur plusieurs mois pour optimiser la charge fiscale.
+  summary-under-limit: >-
+    Le total reste dans la limite du seuil de {{ .Threshold }} €. Aucune
+    imposition supplémentaire ne s’applique.
+  unassigned: Non attribué
+  unlock: Supprimer l’attribution
 teamMembers:
   lennart:
     name: Lennart Rommeiß

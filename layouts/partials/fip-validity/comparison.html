@@ -21,7 +21,7 @@
   <h2 id="general">{{ T "general" }}</h2>
   <p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
 
-  {{- range $entryKey := slice "card-validity" "taxation" "national-discounts" -}}
+  {{- range $entryKey := slice "card-validity" "national-discounts" -}}
     {{- range $issuers -}}
       {{- $issuerSlug := .File.ContentBaseName -}}
       {{- $validity := .Resources.Get "validity.yaml" | transform.Unmarshal -}}

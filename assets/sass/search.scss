@@ -17,15 +17,19 @@ $search-z-index-focus: 12;
       position: relative;
 
       &::before {
-        content: "search";
+        content: "";
+        display: block;
         position: absolute;
-        top: 23px;
+        top: 22px;
         left: 20px;
         z-index: $search-z-index + 1;
-        font-family: "Material Symbols Rounded";
+        width: 2.4rem;
+        height: 2.4rem;
+        background-color: currentColor;
+        mask: url("/icons/material-symbols-rounded/search.svg") no-repeat
+          center / contain;
         opacity: 0.7;
         pointer-events: none;
-        line-height: 1;
       }
     }
 
@@ -148,8 +152,13 @@ $search-z-index-focus: 12;
         }
 
         .pagefind-ui__result-link::before {
-          content: "subdirectory_arrow_right";
-          font-family: "Material Symbols Rounded";
+          content: "";
+          display: block;
+          width: 1.8rem;
+          height: 1.8rem;
+          background-color: currentColor;
+          mask: url("/icons/material-symbols-rounded/subdirectory_arrow_right.svg")
+            no-repeat center / contain;
           position: absolute;
           left: -2.4rem;
         }
