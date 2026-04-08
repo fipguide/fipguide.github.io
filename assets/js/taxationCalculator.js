@@ -6,6 +6,13 @@ import {
 } from "./taxationPlanning.js";
 import { initStickySidebar as initStickySidebarUI } from "./taxationUi.js";
 import { renderPersonLimitControl as renderPersonLimitControlInput } from "./taxationInputs.js";
+import {
+  formatCurrency,
+  createIcon,
+  createOperatorLogo,
+  normalizeText,
+  clampCounter,
+} from "./taxationUtils.js";
 
 const STORAGE_KEY = "fipguide-taxation";
 const MAX_PERSONS = 10;
@@ -288,10 +295,6 @@ function saveState(state) {
   }
 }
 
-function clampCounter(value) {
-  return Math.max(Number(value) || 0, 0);
-}
-
 function sanitizeState(state) {
   state.personLimit = Math.min(
     Math.max(Number(state.personLimit) || 1, 1),
@@ -356,22 +359,6 @@ function getNationalState(state, key) {
   return state.national[key];
 }
 
-function formatCurrency(value) {
-  return (
-    value
-      .toFixed(2)
-      .replace(".", ",")
-      .replace(/\B(?=(\d{3})+(?!\d))/g, ".") + "\u00A0\u20AC"
-  );
-}
-
-function normalizeText(text) {
-  return text
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-}
-
 function calculateTotal(config, state) {
   let total = 0;
 
@@ -433,18 +420,6 @@ function canIncreaseByClassLimit(stateObj, maxFields, field) {
   return stateObj.second < maxFields;
 }
 
-function createIcon(name) {
-  const span = document.createElement("span");
-  span.className = "a-icon";
-  span.setAttribute("aria-hidden", "true");
-  span.setAttribute("data-icon", name);
-  span.style.setProperty(
-    "--icon-url",
-    "url('/icons/material-symbols-rounded/" + name + ".svg')",
-  );
-  return span;
-}
-
 function createHighlight(type, rooflineLabel, iconName, content) {
   const wrapper = document.createElement("div");
   wrapper.className = "m-text-highlight m-text-highlight--" + type;
@@ -460,15 +435,6 @@ function createHighlight(type, rooflineLabel, iconName, content) {
   wrapper.appendChild(body);
 
   return wrapper;
-}
-
-function createOperatorLogo(logoUrl) {
-  const img = document.createElement("img");
-  img.src = logoUrl;
-  img.alt = "";
-  img.className = "a-operator-logo";
-  img.setAttribute("data-decorative", "true");
-  return img;
 }
 
 function updateRowState(
@@ -1166,13 +1132,8 @@ function updateRowWarning(
   }
 }
 
-function calculateTotalPersons(config, state) {
-  return state.personLimit;
-}
-
 function updateSummary(container, config, i18n, state) {
   const total = calculateTotal(config, state);
-  const totalPersons = calculateTotalPersons(config, state);
   const threshold = config.threshold;
   const summaryHint = getSummaryHint(config, state, i18n, total, threshold);
 
@@ -1184,11 +1145,11 @@ function updateSummary(container, config, i18n, state) {
       thresholdEl: container.querySelector("[data-taxation-threshold-info]"),
     },
     total,
-    totalPersons,
+    state.personLimit,
     summaryHint,
   );
 
-  updateThresholdBlock(
+  renderThresholdInfo(
     container.querySelector("[data-taxation-mobile-threshold-detail]"),
     summaryHint,
   );
@@ -1236,43 +1197,7 @@ function updateRowMultipliers(row, effectivePersonLimit, i18n) {
   }
 }
 
-function updateSummaryBlock(container, els, total, totalPersons, summaryHint) {
-  if (!els.totalEl) return;
-
-  els.totalEl.textContent = formatCurrency(total);
-
-  if (els.personsEl) {
-    els.personsEl.innerHTML = "";
-    for (var i = 0; i < totalPersons; i++) {
-      var icon = createIcon("person");
-      icon.classList.add("o-taxation-calculator__person");
-      els.personsEl.appendChild(icon);
-    }
-  }
-
-  if (!els.thresholdEl) return;
-  els.thresholdEl.innerHTML = "";
-
-  if (!summaryHint) {
-    els.thresholdEl.className = "o-taxation-calculator__threshold-info";
-    return;
-  }
-
-  els.thresholdEl.className =
-    "o-taxation-calculator__threshold-info a-tag " +
-    (summaryHint.kind === "warning" ? "a-tag--warning" : "a-tag--success");
-
-  els.thresholdEl.appendChild(
-    createIcon(summaryHint.kind === "warning" ? "warning" : "check_circle"),
-  );
-
-  var textEl = document.createElement("span");
-  textEl.className = "o-taxation-calculator__threshold-text";
-  textEl.textContent = summaryHint.text;
-  els.thresholdEl.appendChild(textEl);
-}
-
-function updateThresholdBlock(el, summaryHint) {
+function renderThresholdInfo(el, summaryHint) {
   if (!el) return;
   el.innerHTML = "";
 
@@ -1293,6 +1218,23 @@ function updateThresholdBlock(el, summaryHint) {
   textEl.className = "o-taxation-calculator__threshold-text";
   textEl.textContent = summaryHint.text;
   el.appendChild(textEl);
+}
+
+function updateSummaryBlock(container, els, total, totalPersons, summaryHint) {
+  if (!els.totalEl) return;
+
+  els.totalEl.textContent = formatCurrency(total);
+
+  if (els.personsEl) {
+    els.personsEl.innerHTML = "";
+    for (var i = 0; i < totalPersons; i++) {
+      var icon = createIcon("person");
+      icon.classList.add("o-taxation-calculator__person");
+      els.personsEl.appendChild(icon);
+    }
+  }
+
+  renderThresholdInfo(els.thresholdEl, summaryHint);
 }
 
 function getSummaryHint(config, state, i18n, total, threshold) {

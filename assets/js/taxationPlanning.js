@@ -1,23 +1,4 @@
-function formatCurrency(value) {
-  return (
-    value
-      .toFixed(2)
-      .replace(".", ",")
-      .replace(/\B(?=(\d{3})+(?!\d))/g, ".") + "\u00A0\u20AC"
-  );
-}
-
-function createIcon(name) {
-  const span = document.createElement("span");
-  span.className = "a-icon";
-  span.setAttribute("aria-hidden", "true");
-  span.setAttribute("data-icon", name);
-  span.style.setProperty(
-    "--icon-url",
-    "url('/icons/material-symbols-rounded/" + name + ".svg')",
-  );
-  return span;
-}
+import { formatCurrency, createIcon } from "./taxationUtils.js";
 
 function getClassLabel(classKey, i18n) {
   return classKey === "first" ? i18n.firstClass : i18n.secondClass;

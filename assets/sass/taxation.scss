@@ -99,10 +99,6 @@
     margin-top: 1.2rem;
   }
 
-  &__optimization {
-    margin-top: 1.2rem;
-  }
-
   &__planning {
     margin-top: 2rem;
   }
@@ -266,12 +262,6 @@
     }
   }
 
-  &__optimization-items-label {
-    font-size: 0.9em;
-    opacity: 0.8;
-    margin-bottom: 0.2rem;
-  }
-
   &__optimization-month-items {
     margin: 0;
     padding: 0;
@@ -373,6 +363,7 @@
       margin: 0.3rem;
       gap: 0.4rem;
       padding: 0.45rem 0.5rem;
+      touch-action: none;
     }
 
     &__optimization-item-text {
@@ -390,6 +381,10 @@
     &__optimization-item-lock-slot {
       width: 2.4rem;
       min-width: 2.4rem;
+    }
+
+    &__optimization-drag-handle {
+      touch-action: none;
     }
   }
 
@@ -606,13 +601,6 @@
     opacity: 0.8;
   }
 
-  &__class-hint {
-    font-size: 0.85em;
-    font-style: italic;
-    width: var(--taxation-controls-width);
-    text-align: center;
-  }
-
   &__row-total {
     font-weight: bold;
     font-size: 1.2em;
@@ -709,17 +697,6 @@
     padding-left: 0;
   }
 
-  &__persons-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-  }
-
-  &__persons {
-    display: flex;
-    gap: 0.1rem;
-  }
-
   &__person {
     font-size: 2rem;
     color: var(--link-default);
@@ -737,13 +714,13 @@
     }
   }
 
-  &__other-input {
+  &__other-input,
+  &__search-input {
     width: 100%;
-    max-width: 100%;
     box-sizing: border-box;
     padding: 0.8rem 1.2rem;
     border: var(--border-visible);
-    border-radius: var(--border-radius-s);
+    border-radius: var(--border-radius-m);
     background: var(--bg-default);
     color: var(--color-body);
     font-size: 1em;
@@ -758,6 +735,11 @@
       outline: var(--outline-focus-indicator) solid 0.2rem;
       outline-offset: 0.2rem;
     }
+  }
+
+  &__other-input {
+    max-width: 100%;
+    border-radius: var(--border-radius-s);
   }
 
   &__summary {
@@ -819,15 +801,6 @@
     &__sidebar &__sum-value {
       order: 1;
     }
-
-    &__sidebar &__sum-persons {
-      order: 2;
-    }
-  }
-
-  &__sum-persons {
-    display: flex;
-    gap: 0.1rem;
   }
 
   &__threshold-info {
@@ -847,37 +820,9 @@
     }
   }
 
-  &__threshold-excess {
-    margin-top: 0.4rem;
-    font-weight: bold;
-    font-size: 1.05em;
-  }
-
   &__search-select {
     position: relative;
     margin-top: 0.4rem;
-  }
-
-  &__search-input {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 0.8rem 1.2rem;
-    border: var(--border-visible);
-    border-radius: var(--border-radius-m);
-    background: var(--bg-default);
-    color: var(--color-body);
-    font-size: 1em;
-    font-family: inherit;
-    transition: border-color 0.15s ease;
-
-    &::placeholder {
-      opacity: 0.45;
-    }
-
-    &:focus {
-      outline: var(--outline-focus-indicator) solid 0.2rem;
-      outline-offset: 0.2rem;
-    }
   }
 
   &__search-list {
@@ -1156,18 +1101,9 @@
     color: var(--tag-success-color);
   }
 
-  &__mobile-persons {
-    display: flex;
-    gap: 0.1rem;
-
-    .o-taxation-calculator__person {
-      font-size: 1.6rem;
-    }
-  }
-
   &__mobile-content {
     background: var(--bg-default);
-    border-top: 1px solid #3d444d;
+    border-top: var(--border-visible);
     overflow-y: auto;
     overscroll-behavior-y: contain;
     padding: 1.5rem;
@@ -1184,16 +1120,6 @@
 
     * {
       transition: opacity 0.3s ease-in-out;
-    }
-  }
-
-  @media (max-width: $breakpoint-lg) {
-    &__optimization-item {
-      touch-action: none;
-    }
-
-    &__optimization-drag-handle {
-      touch-action: none;
     }
   }
 }

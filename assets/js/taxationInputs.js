@@ -1,16 +1,6 @@
-const MAX_PERSONS = 10;
+import { createIcon } from "./taxationUtils.js";
 
-function createIcon(name) {
-  const span = document.createElement("span");
-  span.className = "a-icon";
-  span.setAttribute("aria-hidden", "true");
-  span.setAttribute("data-icon", name);
-  span.style.setProperty(
-    "--icon-url",
-    "url('/icons/material-symbols-rounded/" + name + ".svg')",
-  );
-  return span;
-}
+const MAX_PERSONS = 10;
 
 export function renderPersonLimitControl(ctx, saveState) {
   const { container, i18n, state } = ctx;
