@@ -181,6 +181,10 @@ Domestic journeys unfortunately cannot be purchased online.
 
 ### On the train
 
+{{% highlight important %}}
+Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects FIP discounted tickets. All passengers must have a valid ticket before boarding. [^5]<sup>, </sup>[^6]
+{{% /highlight %}}
+
 FIP discounted tickets can generally be purchased on board the trains. The usual SNCB surcharge for on-board sales is not charged, as the tickets are not available at ticket machines. [^2]<sup>, </sup>[^4]
 
 ## Discounts
@@ -208,3 +212,7 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 [^3]: [SNCB Child Policy](https://www.belgiantrain.be/en/products/child)
 
 [^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
+
+[^5]: [SNCB -- End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
+
+[^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
