@@ -1,5 +1,5 @@
 ---
-date: "2026-04-05"
+date: "2026-04-09"
 draft: false
 title: "Belgium: SNCB Ends On-Board Ticket Sales from 1 July 2026"
 description: "Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects the purchase of FIP discounted tickets."
@@ -23,6 +23,6 @@ We will keep you informed as more details become available. In the meantime, che
 
 ### Further Information:
 
-[SNCB -- End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
+[SNCB: End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
 
-[Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+[Rail Delivery Group: Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)

@@ -1,5 +1,5 @@
 ---
-date: "2026-04-05"
+date: "2026-04-09"
 draft: false
 title: "Belgique : la SNCB met fin à la vente de billets à bord à partir du 1er juillet 2026"
 description: "À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à bord de ses trains. Cela concerne également l'achat de billets FIP à tarif réduit."
@@ -23,6 +23,6 @@ Nous vous tiendrons informés dès que de plus amples détails seront disponible
 
 ### Informations complémentaires :
 
-[SNCB -- Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
+[SNCB: Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
 
-[Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+[Rail Delivery Group: Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
