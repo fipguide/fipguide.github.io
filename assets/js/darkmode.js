@@ -68,6 +68,10 @@
       const iconElement = button.querySelector(".a-icon");
       if (iconElement) {
         iconElement.dataset.icon = icon;
+        iconElement.style.setProperty(
+          "--icon-url",
+          `url('/icons/material-symbols-rounded/${icon}.svg')`,
+        );
       }
       button.setAttribute("title", label);
       button.setAttribute("aria-label", label);
