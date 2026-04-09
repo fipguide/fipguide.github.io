@@ -146,7 +146,7 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 ### Vor Ort
 
-Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügbarkeit. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Der Kauf an Bord der Schiffe ist nicht möglich.
 
