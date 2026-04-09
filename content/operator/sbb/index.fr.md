@@ -105,6 +105,7 @@ Une réservation est requise sauf dans les voitures à places assises lorsqu’i
 Train panoramique des CFF prenant la ligne du Gothard classique de mi-avril à mi-octobre. Promu comme voyage en combinaision avec le bateau da la Société de navigation du lac des Quatre-Cantons (SGV), y étant valable les réductions SP, voir [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Pour les voyageurs faisant le parcours complet avec train et bateau entre Lugano et Lucerne (et vice versa) un transfer de bagages gratuit est offert.
 
 #### Réservation
+
 24 CHF
 
 {{% highlight important %}}

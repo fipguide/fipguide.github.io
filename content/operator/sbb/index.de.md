@@ -106,6 +106,7 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
 Panoramazüge der SBB über die Gotthardbergstrecke von Mitte April bis Mitte Oktober. Beworben wird eine Fahrt in Kombination mit dem Schiff der Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), dort gelten die Fahrvergünstigungen SP, siehe [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Für Reisende auf der Gesamtstrecke mit Zug und Schiff zwischen Lugano und Luzern (und umgekehrt) wird ein kostenloser Gepäcktransport angeboten.
 
 #### Reservierung
+
 24 CHF
 
 {{% highlight important %}}

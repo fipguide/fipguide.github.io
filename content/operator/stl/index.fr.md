@@ -168,7 +168,7 @@ L’accès à la station _Hoek van Holland Haven_ se fait généralement par la 
 
 - Station _Schiedam Centrum_ : correspondance directe avec les trains `IC` et `RE` de la NS.
 - Station _Rotterdam Centraal_ : correspondances avec les trains NS. Pour rejoindre Hoek van Holland, il faut changer de la ligne de métro D à la station _Beurs_.
-Station _Rotterdam Alexander_: correspondance directe avec les trains de la NS vers le nœud ferroviaire des Pays-Bas _Utrecht Centraal_.
+  Station _Rotterdam Alexander_: correspondance directe avec les trains de la NS vers le nœud ferroviaire des Pays-Bas _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. n’accepte pas FIP, il faut donc acheter un billet régulier pour le métro. Cela fonctionne aussi sans contact et avec ApplePay.

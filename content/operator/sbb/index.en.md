@@ -106,6 +106,7 @@ A reservation is required except in seat cars when operating as Intercity, Euroc
 SBB Panoramic trains via the classic Gotthard route running mid-April to mid-October. Advertised as a journey in combination with a boat of Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), where SP discounts apply, see [Schweizer Privatbahnen - SGV](/operator/sp#sgv). For travellers doing the full journey by rail and ship between Lugano and Lucerne (and vice versa) a free luggage transfer is offered.
 
 #### Reservation
+
 24 CHF
 
 {{% highlight important %}}
