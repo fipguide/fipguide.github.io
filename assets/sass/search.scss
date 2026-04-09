@@ -20,7 +20,7 @@ $search-z-index-focus: 12;
         content: "";
         display: block;
         position: absolute;
-        top: 22px;
+        top: 20px;
         left: 20px;
         z-index: $search-z-index + 1;
         width: 2.4rem;
@@ -161,6 +161,7 @@ $search-z-index-focus: 12;
             no-repeat center / contain;
           position: absolute;
           left: -2.4rem;
+          top: 0;
         }
       }
 
