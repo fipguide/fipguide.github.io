@@ -11,8 +11,12 @@ Neben Vy betreiben auch SJ Nord und Go-Ahead Nordic Verkehrsleistungen in Norweg
 
 {{% highlight important %}}
 In Norwegen wird der Betrieb der Eisenbahnverkehre im Rahmen von Ausschreibungen in mehreren Losen durch das Ministerium für Verkehr und Kommunikation vergeben.
-FIP-Vergünstigungen werden – anders als bei den meisten anderen FIP-Mitgliedern – nicht nur von Vy, sondern auch von SJ Nord und Go-Ahead Nordic anerkannt.
+FIP-Vergünstigungen werden – anders als bei den meisten anderen FIP-Mitgliedern – nicht nur von Vy, sondern auch von SJ Nord und Go-Ahead Nordic anerkannt. Der FIP Freifahrtschein "Vy Group" gilt ebenfalls bei diesen Bahngesellschaften.
 {{% /highlight %}}
+
+Online ist das [Streckennetz der Vy](https://www.vy.no/files/eyx1eny7/vyno-production/1e6de6b67ae9aa2f456b4845da049a9998ea0047.pdf) und das [Streckennetz von Oslo](https://www.vy.no/files/eyx1eny7/vyno-production/9dade0562e68cb1ec14644cdb1f443be1b29115c.pdf) einsehbar.
+
+Auf ihrer Website bietet die KD eine Übersichtskarte der Strecken an.
 
 ## Zusammenfassung
 
@@ -39,20 +43,20 @@ Auf dem FIP Ausweis und den FIP Freifahrtscheinen ist allerdings nur **Vy Group 
     reservation_possible=true
 %}}
 
-Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond gekennzeichnet.
+Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond 🌙 gekennzeichnet.
 
 #### Strecken im Linienverkehr
 
-Vy:
+**Vy:**
 
 - F4: Oslo S – Bergen (Bergensbanen)
 
-SJ Nord:
+**SJ Nord:**
 
 - F6: Oslo S – Trondheim (Dovrebanen)
 - F7: Trondheim – Bodø (Nordlandsbanen)
 
-Go-Ahead Nordic:
+**Go-Ahead Nordic:**
 
 - F5: Oslo S – Kongsberg – Kristiansand – Stavanger (Sørlandsbanen)
 
@@ -73,7 +77,7 @@ Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich.
 
 Der Regionekspress verbindet Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise führen die Züge Automaten für Snacks und Getränke mit.
 
-Vy:
+**Vy:**
 
 - RE10: Lillehammer – Oslo Airport Gardermoen – Oslo S – Drammen
 - RE11: Eidsvoll – Oslo Airport Gardermoen – Oslo S – Skien
@@ -97,7 +101,7 @@ Auf dem RE20 wird FIP nur zwischen Oslo S und Halden anerkannt, aber nicht bei d
 
 Der Regiontog verbindet Orte und Städte mit Halten an fast allen Stationen. Teilweise führen die Züge Automaten für Snacks und Getränke mit.
 
-Vy:
+**Vy:**
 
 - R12: Kongsberg – Drammen – Oslo S – Oslo Airport Gardermoen–Eidsvoll
 - R13: Drammen – Oslo S – Jessheim – Dal
@@ -108,14 +112,14 @@ Vy:
 - R40: Bergen – Voss – Myrdal (Vossebanen)
 - R55: Notodden – Porsgrunn (Bratsbergbanen)
 
-SJ Nord:
+**SJ Nord:**
 
 - R60: Trondheim – Røros – Hamar (Rørosbanen)
 - R65: Oslo S – Dombås – Åndalsnes (Raumabanen)
 - R70: Oppdal/Lundamo – Trondheim – Trondheim Airport – Steinkjer
 - R71: Trondheim – Storlien
 
-Go-Ahead Nordic:
+**Go-Ahead Nordic:**
 
 - R50: Arendal – Nelaug (Arendalsbanen)
 
@@ -136,13 +140,13 @@ Auf den Linien R60 und R65 ist eine Reservierung erforderlich.
 
 Lokalzüge in den Ballungsräumen Oslo, Bergen und Stavanger.
 
-Vy:
+**Vy:**
 
 - L1: Spikkestad – Asker – Oslo S – Lillestrøm
 - L2: Stabekk – Oslo S – Holmlia – Ski
 - L4: Bergen – Arna
 
-Go-Ahead Nordic:
+**Go-Ahead Nordic:**
 
 - L5: Stavanger – Sandnes – Egersund (Jærbanen)
 
@@ -161,6 +165,9 @@ Züge, welche mit X markiert sind, halten nicht an allen Stationen (z. B. L2x).
 
 Flytoget ist der Flughafenexpress zwischen Oslo Airport und Oslo S. FIP-Vergünstigungen können hier nicht genutzt werden.
 
+{{% highlight tip %}}
+Alternativ können jedoch die Regionalzuglinien R10, R11 und R12 für die Fahrt zum Flughafen mit FIP genutzt werden. Weitere Informationen im Abschnitt [Oslo Airport](#oslo-airport)
+{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -176,40 +183,36 @@ Vy betreibt ein Netzwerk an Fernbuslinien, welche allerdings nicht mit FIP genut
 
 {{% /train-category %}}
 
-[Streckennetz Vy](https://www.vy.no/files/eyx1eny7/vyno-production/1e6de6b67ae9aa2f456b4845da049a9998ea0047.pdf)
-
-[Streckennetz Oslo ](https://www.vy.no/files/eyx1eny7/vyno-production/9dade0562e68cb1ec14644cdb1f443be1b29115c.pdf)
-
 ## Klassenkategorien
 
 Die Klassen in den Zügen unterschieden sich je nach Betreiber und Zugkategorie.
 
 **Vy**
 
-- Standard (Lavpris / Flex): Vergleichbar mit der 2. Klasse.
-- Pluss: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee und Tee.
-- Kupé: Sechs-Sitzer-Abteil. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Tagzügen.
-- PlussNatt: Liegesessel, welcher sich komplett flach legen lässt. Nur verfügbar in Nachtzügen.
-- Hvilekupé: Liegeabteil mit 6 Schlafplätzen. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Nachtzügen.
-- Sovekupé: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
+- **Standard** (Lavpris / Flex): Vergleichbar mit der 2. Klasse.
+- **Pluss**: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee und Tee.
+- **Kupé**: Sechs-Sitzer-Abteil. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Tagzügen.
+- **PlussNatt**: Liegesessel, welcher sich komplett flach legen lässt. Nur verfügbar in Nachtzügen.
+- **Hvilekupé**: Liegeabteil mit 6 Schlafplätzen. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Nachtzügen.
+- **Sovekupé**: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
 
 [Mehr Infos zu den Klassen bei Vy.](https://www.vy.no/en/buy-tickets/train-tickets)
 
 **SJ Nord:**
 
-- Standard: Vergleichbar mit der 2. Klasse.
-- Premium: Vergleichbar mit der 1. Klasse. Es gibt kostenlose kalte und warme Getränke. Nicht verfügbar im Nachtzug.
-- Premium Pluss: Liegesessel, kostenlose kalte und warme Getränke, Obst und Schokolade
-- Sovekupé: Schlafabteil mit zwei Betten und einem Waschbecken sowie Toiletten auf dem Gang.
+- **Standard**: Vergleichbar mit der 2. Klasse.
+- **Premium**: Vergleichbar mit der 1. Klasse. Es gibt kostenlose kalte und warme Getränke. Nicht verfügbar im Nachtzug.
+- **Premium Pluss**: Liegesessel, kostenlose kalte und warme Getränke, Obst und Schokolade
+- **Sovekupé**: Schlafabteil mit zwei Betten und einem Waschbecken sowie Toiletten auf dem Gang.
 
 [Mehr Infos zu den Klassen bei SJ Nord.](https://www.sj.no/en/ticket-categories/)
 
 **Go-Ahead Nordic:**
 
-- Standard: Vergleichbar mit der 2. Klasse.
-- Ekstra: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee, Tee und Snacks.
-- Hvile: Liegesessel, welcher sich um 45° neigen lässt. Ansonsten wie Ekstra. Verfügbar in Nachtzügen und ausgewählten Tagzügen
-- Sove: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
+- **Standard**: Vergleichbar mit der 2. Klasse.
+- **Ekstra**: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee, Tee und Snacks.
+- **Hvile**: Liegesessel, welcher sich um 45° neigen lässt. Ansonsten wie Ekstra. Verfügbar in Nachtzügen und ausgewählten Tagzügen
+- **Sove**: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
 
 [Mehr Infos zu den Klassen bei Go-Ahead Nordic](https://go-aheadnordic.no/velkommen-om-bord/om-vare-reiseklasser)
 
@@ -281,9 +284,10 @@ Es ist möglich, FIP 50 Tickets für Fahrten zu kaufen, die teilweise innerhalb 
 
 ### Oslo Airport
 
-- FIP Vergünstigungen können auf der Strecke zwischen Oslo Airport, Oslo und Drammen nur in Zügen von Vy, SJ Nord und Go-Ahead Nordic genutzt werden.
-- Die Fernzüge von Trondheim nach Oslo Airport (Linie F6) halten am Flughafen nur zum Aussteigen, weshalb FIP hier ausgeschlossen ist.
+- FIP Vergünstigungen können auf der Strecke zwischen Oslo Airport, Oslo und Drammen nur in Zügen von Vy, SJ Nord und Go-Ahead Nordic genutzt werden (Linien R10, R11, R12). Weitere Informationen auf der [Website der Vy zu Flughafentransfers](https://www.vy.no/en/travelling-with-vy/to-and-from-airport).
+- Die Reise darf offiziell nicht in der Tarifzone von Oslo (Ruter) enden, siehe [Fahrten in den Tarifgebieten](#fahrten-in-den-tarifgebieten-oslo-bergen-trondheim-und-stavanger).
 - In den Zügen des Flytoget Airport Express kann FIP nicht genutzt werden.
+- Die Fernzüge von Trondheim nach Oslo Airport (Linie F6) halten am Flughafen nur zum Aussteigen, weshalb FIP hier ausgeschlossen ist.
 
 ### Flåmbahn
 

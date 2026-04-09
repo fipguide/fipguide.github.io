@@ -29,7 +29,7 @@ Die Züge sind überwiegend modern, sauber und komfortabel, wobei der Standard a
 
 Besonders hervorzuheben sind die landschaftlich spektakulären Strecken mit Fjorden, Hochgebirgen und zahlreichen Tunneln sowie mehrere architektonisch auffällige Bahnhöfe, vor allem entlang der neueren Ausbauten im Raum Oslo.
 
-Das staatliche Unternehmen Entur spielt eine zentrale Rolle im öffentlichen Verkehr in Norwegen. Über die Website und App können die Fahrpläne eingesehen und Tickets für den gesamten öffentlichen Verkehr in Norwegen gebucht werden.
+Das staatliche Unternehmen _Entur_ spielt eine zentrale Rolle im öffentlichen Verkehr in Norwegen. Über die Website und App können die Fahrpläne eingesehen und Tickets für den gesamten öffentlichen Verkehr in Norwegen gebucht werden.
 
 ## Anreise und Grenzpunkte
 
@@ -38,8 +38,6 @@ Das staatliche Unternehmen Entur spielt eine zentrale Rolle im öffentlichen Ver
 | Land          | Grenzpunkte                                                              |
 | ------------- | ------------------------------------------------------------------------ |
 | Schweden (SJ) | Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien (Gr) |
-
-Warum fehlt hier Bjørnfjell?
 
 {{% /expander %}}
 
