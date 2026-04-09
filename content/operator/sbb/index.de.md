@@ -107,7 +107,7 @@ Panoramazüge der SBB über die Gotthardbergstrecke von Mitte April bis Mitte Ok
 
 #### Reservierung
 
-24 CHF
+Eine besondere Reservierung für 24 CHF ist erforderlich.
 
 {{% highlight important %}}
 Die Züge führen nur Wagen der 1. Klasse. Zu einem Freifahrschein der 2. Klasse ist daher ein Klassenübergang notwendig. Mit einem FIP-Ausweis der 2. Klasse gibt es keine Ermäßigung.

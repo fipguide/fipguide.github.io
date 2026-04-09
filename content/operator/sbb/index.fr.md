@@ -106,7 +106,7 @@ Train panoramique des CFF prenant la ligne du Gothard classique de mi-avril à m
 
 #### Réservation
 
-24 CHF
+Une réservation spéciale pour 24 CHF est requise.
 
 {{% highlight important %}}
 Les trains ne sont composés que des voitures 1ère classe. Avec un permis FIP en 2ᵉ un surclassement est nécessaire. Avec une carte FIP en 2ᵉ aucune réduction est disponible.
