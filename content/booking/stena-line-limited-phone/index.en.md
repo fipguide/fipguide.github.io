@@ -5,7 +5,7 @@ description: "Booking information for booking by telephone with Stena Line Limit
 params:
   fip_50: true
   fip_global_fare: nil
-  reservations: true
+  reservations: false
   type: "phone"
 ---
 
