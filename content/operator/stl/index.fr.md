@@ -144,7 +144,7 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes e
 
 ### En gare
 
-Le jour du voyage, il est possible de réserver sur place, selon disponibilité. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 L’achat à bord des navires n’est pas possible.
 

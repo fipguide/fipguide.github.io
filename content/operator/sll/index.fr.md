@@ -101,6 +101,10 @@ Au 25.02.2026, les taxes portuaires s’élèvent à 1,50 £ et les taxes enviro
 {{% /float-image %}}
 {{% /expander %}}
 
+### En ligne
+
+{{% booking id="stena-line-limited-email" /%}}
+
 ### Par téléphone
 
 {{% booking id="stena-line-limited-phone" /%}}
