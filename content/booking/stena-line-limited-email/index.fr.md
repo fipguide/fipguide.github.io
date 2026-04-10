@@ -5,7 +5,7 @@ description: "Informations relatives à la réservation par e-mail auprès de St
 params:
   fip_50: true
   fip_global_fare: nil
-  reservations: true
+  reservations: false
   type: "email"
 ---
 

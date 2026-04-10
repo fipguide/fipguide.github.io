@@ -22,7 +22,7 @@ Dies kann sowohl vorab als auch am Tag der Reise erfolgen, je nach Verfügbarkei
 
 ## Reservierungen
 
-Für Übernachtungsfahrten ist die Kabinenreservierung obligatorisch.
+Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
 {{% /booking-section %}}
 

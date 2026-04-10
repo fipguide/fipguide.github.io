@@ -5,7 +5,7 @@ description: "Buchungsinformationen für die Buchung per E-Mail bei Stena Line L
 params:
   fip_50: true
   fip_global_fare: nil
-  reservations: true
+  reservations: false
   type: "email"
 ---
 

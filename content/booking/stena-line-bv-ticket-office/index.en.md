@@ -22,7 +22,7 @@ This can be done both in advance and on the day of travel, depending on availabi
 
 ## Reservations
 
-For overnight journeys, cabin reservation is mandatory.
+Cabin reservations are available and mandatory for overnight journeys.
 
 {{% /booking-section %}}
 

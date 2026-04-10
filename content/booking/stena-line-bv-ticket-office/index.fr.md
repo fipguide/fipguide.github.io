@@ -22,7 +22,7 @@ Cela peut se faire aussi bien à l’avance que le jour du voyage, selon les dis
 
 ## Réservations
 
-Pour les trajets de nuit, la réservation de cabine est obligatoire.
+Les réservations de cabine sont disponibles et obligatoires pour les trajets de nuit.
 
 {{% /booking-section %}}
 
