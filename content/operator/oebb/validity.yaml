@@ -1,0 +1,423 @@
+# This file shows the rules for FIP cards issued by ÖBB.
+_anchors:
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
+  reduced-50: &reduced-50
+    status: valid
+    text:
+      de: "50 % Rabatt"
+      en: "50 % discount"
+      fr: "50 % de réduction"
+  reduced-50-group: &reduced-50-group
+    retired: *reduced-50
+    retired-relatives: *reduced-50
+    widows: *reduced-50
+  reduced-no-discount: &reduced-no-discount
+    status: invalid
+    text:
+      de: "Kein Rabatt"
+      en: "No discount"
+      fr: "Pas de réduction"
+  coupon-y1-9x1-45x0: &coupon-y1-9x1-45x0
+    status: valid
+    text:
+      de: >
+        **1 / 1 / 0 Freifahrtscheine**
+        <small>
+        Jährlich: 1 Freifahrtschein
+        <hr>
+        **Einmalig innerhalb von 9 Monaten** nach Versetzung in den Ruhestand: 1 Freifahrtschein
+        <hr>
+        **Einmalig innerhalb von 45 Monaten** nach Versetzung in den Ruhestand: 0 Freifahrtscheine
+        </small>
+      en: >
+        **1 / 1 / 0 coupons**
+        <small>
+        Yearly: 1 coupon
+        <hr>
+        **One-time within 9 months** after retirement: 1 coupon
+        <hr>
+        **One-time within 45 months** after retirement: 0 coupons
+        </small>
+      fr: >
+        **1 / 1 / 0 coupons**
+        <small>
+        Annuel: 1 coupon
+        <hr>
+        **Unique dans les 9 mois** après le départ à la retraite: 1 coupon
+        <hr>
+        **Unique dans les 45 mois** après le départ à la retraite: 0 coupon
+        </small>
+  coupon-y0-9x1-45x1: &coupon-y0-9x1-45x1
+    status: valid
+    text:
+      de: >
+        **0 / 1 / 1 Freifahrtscheine**
+        <small>
+        Jährlich: 0 Freifahrtscheine
+        <hr>
+        **Einmalig innerhalb von 9 Monaten** nach Versetzung in den Ruhestand: 1 Freifahrtschein
+        <hr>
+        **Einmalig innerhalb von 45 Monaten** nach Versetzung in den Ruhestand: 1 Freifahrtschein
+        </small>
+      en: >
+        **0 / 1 / 1 coupons**
+        <small>
+        Yearly: 0 coupons
+        <hr>
+        **One-time within 9 months** after retirement: 1 coupon
+        <hr>
+        **One-time within 45 months** after retirement: 1 coupon
+        </small>
+      fr: >
+        **0 / 1 / 1 coupons**
+        <small>
+        Annuel: 0 coupon
+        <hr>
+        **Unique dans les 9 mois** après le départ à la retraite: 1 coupon
+        <hr>
+        **Unique dans les 45 mois** après le départ à la retraite: 1 coupon
+        </small>
+  coupon-y0-9x2-45x1: &coupon-y0-9x2-45x1
+    status: valid
+    text:
+      de: >
+        **0 / 2 / 1 Freifahrtscheine**
+        <small>
+        Jährlich: 0 Freifahrtscheine
+        <hr>
+        **Einmalig innerhalb von 9 Monaten** nach Versetzung in den Ruhestand: 2 Freifahrtscheine
+        <hr>
+        **Einmalig innerhalb von 45 Monaten** nach Versetzung in den Ruhestand: 1 Freifahrtschein
+        </small>
+      en: >
+        **0 / 2 / 1 coupons**
+        <small>
+        Yearly: 0 coupons
+        <hr>
+        **One-time within 9 months** after retirement: 2 coupons
+        <hr>
+        **One-time within 45 months** after retirement: 1 coupon
+        </small>
+      fr: >
+        **0 / 2 / 1 coupons**
+        <small>
+        Annuel: 0 coupon
+        <hr>
+        **Unique dans les 9 mois** après le départ à la retraite: 2 coupons
+        <hr>
+        **Unique dans les 45 mois** après le départ à la retraite: 1 coupon
+        </small>
+  coupon-y1-9x3-45x0: &coupon-y1-9x3-45x0
+    status: valid
+    text:
+      de: >
+        **1 / 3 / 0 Freifahrtscheine**
+        <small>
+        Jährlich: 1 Freifahrtschein
+        <hr>
+        **Einmalig innerhalb von 9 Monaten** nach Versetzung in den Ruhestand: 3 Freifahrtscheine
+        <hr>
+        **Einmalig innerhalb von 45 Monaten** nach Versetzung in den Ruhestand: 0 Freifahrtscheine
+        </small>
+      en: >
+        **1 / 3 / 0 coupons**
+        <small>
+        Yearly: 1 coupon
+        <hr>
+        **One-time within 9 months** after retirement: 3 coupons
+        <hr>
+        **One-time within 45 months** after retirement: 0 coupons
+        </small>
+      fr: >
+        **1 / 3 / 0 coupons**
+        <small>
+        Annuel: 1 coupon
+        <hr>
+        **Unique dans les 9 mois** après le départ à la retraite: 3 coupons
+        <hr>
+        **Unique dans les 45 mois** après le départ à la retraite: 0 coupon
+        </small>
+  coupon-y0-9x0-45x1: &coupon-y0-9x0-45x1
+    status: valid
+    text:
+      de: >
+        **0 / 0 / 1 Freifahrtscheine**
+        <small>
+        Jährlich: 0 Freifahrtscheine
+        <hr>
+        **Einmalig innerhalb von 9 Monaten** nach Versetzung in den Ruhestand: 0 Freifahrtscheine
+        <hr>
+        **Einmalig innerhalb von 45 Monaten** nach Versetzung in den Ruhestand: 1 Freifahrtschein
+        </small>
+      en: >
+        **0 / 0 / 1 coupons**
+        <small>
+        Yearly: 0 coupons
+        <hr>
+        **One-time within 9 months** after retirement: 0 coupons
+        <hr>
+        **One-time within 45 months** after retirement: 1 coupon
+        </small>
+      fr: >
+        **0 / 0 / 1 coupons**
+        <small>
+        Annuel: 0 coupon
+        <hr>
+        **Unique dans les 9 mois** après le départ à la retraite: 0 coupon
+        <hr>
+        **Unique dans les 45 mois** après le départ à la retraite: 1 coupon
+        </small>
+
+taxation:
+  de: Pro Bestellung und Person wird der Sachbezug von € 39,42 in der 2.Klasse und € 62,69 in der 1.Klasse verrechnet.
+  en: For each order and person, a taxable benefit of €39.42 in 2nd class and €62.69 in 1st class is charged.
+  fr: Pour chaque commande et par personne, un avantage imposable de 39,42 € en 2e classe et de 62,69 € en 1re classe est facturé.
+
+national-discounts:
+  de: Informationen zu nationalen Fahrvergünstigungen sind [hier](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/inland) zu finden.
+  en: Information on national travel discounts can be found [here](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/inland).
+  fr: Les informations sur les réductions nationales peuvent être consultées [ici](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/inland).
+
+general:
+  fip-coupon:
+    de: >
+      Informationen über den FIP Freifahrtscheinanspruch sowie die Beantragung
+      für Ruheständler sind auf der Website des ÖBB Pensionsservice
+      [verfügbar](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/ausland/ermaessigung-im-ausland).
+
+      Die Beantragung muss mind. drei Wochen vor dem Gültigkeitsbeginn des FIP
+      Freifahrtscheins erfolgen.
+    en: >
+      Information about FIP Coupon entitlement and the application process for
+      retirees is
+      [available](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/ausland/ermaessigung-im-ausland)
+      on the ÖBB pension service website.
+
+      The application must be submitted at least three weeks before the start
+      of validity of the FIP Coupon.
+    fr: >
+      Les informations sur le droit au Coupon FIP ainsi que sur la procédure de
+      demande pour les retraités sont
+      [disponibles](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/ausland/ermaessigung-im-ausland)
+      sur le site du service de pension ÖBB.
+
+      La demande doit être soumise au moins trois semaines avant le début de
+      validité du Coupon FIP.
+
+attica:
+  fip-coupon:
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket:
+    retired: *reduced-no-discount
+    retired-relatives: *reduced-no-discount
+bdz:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+bls:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+bsb:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+cd:
+  fip-coupon:
+    retired: *coupon-y1-9x3-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+cfl:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+cfr:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+cie:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+cp:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+db:
+  fip-coupon:
+    retired: *coupon-y0-9x2-45x1
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+dsb:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+eurostar:
+  fip-coupon:
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+euskotren:
+  fip-coupon:
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+fs:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+gb:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+gb-en:
+  fip-coupon:
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+gysev:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+ht:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+kd:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ks:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+kw:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+lka:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ltg:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+nir:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+ns:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+oebb:
+  fip-coupon:
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+pkp:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+renfe:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+sbb:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+sll:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+sncb:
+  fip-coupon:
+    retired: *coupon-y1-9x1-45x0
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+sncf:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sp:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+stl:
+  fip-coupon:
+    retired: *coupon-y0-9x1-45x1
+    retired-relatives: *coupon-y0-9x1-45x1
+    widows: *coupon-y0-9x0-45x1
+  fip-reduced-ticket: *reduced-50-group
+zssk:
+  fip-coupon:
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
