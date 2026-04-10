@@ -40,6 +40,6 @@ Les billets FIP 50 peuvent être réservés.
 
 ## Réservations
 
-Pour les traversées de nuit, la réservation de cabine est obligatoire.
+Les réservations de cabine sont disponibles et obligatoires pour les traversées de nuit.
 
 {{% /booking-section %}}
