@@ -81,7 +81,7 @@ fipValidity:
   taxationHeading: Taxation
   taxationMissingInfo: We currently do not have information on taxation.
   unknown: Unknown
-  validity: validity
+  validity: Validity
   widows: Widows, Widowers and Orphans
 footer-love:
   aria-label: Made with love in Europe

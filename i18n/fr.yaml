@@ -86,7 +86,7 @@ fipValidity:
   taxationHeading: Imposition
   taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu
-  validity: validité
+  validity: Validité
   widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe
