@@ -1,6 +1,23 @@
 .o-startpage__search {
-  pagefind-searchbox {
+  pagefind-modal-trigger {
     display: block;
     width: 100%;
+
+    &::part(button) {
+      width: 100%;
+    }
   }
+}
+
+.pf-result-image {
+  object-fit: contain !important;
+  background-color: unset !important;
+}
+
+.pf-result-excerpt {
+  display: -webkit-box !important;
+  -webkit-line-clamp: 2 !important;
+  line-clamp: 2 !important;
+  -webkit-box-orient: vertical !important;
+  white-space: wrap !important;
 }

@@ -57,12 +57,7 @@ $highlight-colors-dark: (
 );
 
 html {
-  --pf-text: #000;
-  --pf-text-secondary: #555;
-  --pf-background: #{$bg-default};
-  --pf-border: #d0d0d0;
   --pf-font: roboto, Arial, Helvetica, sans-serif;
-  --pf-border-radius: 0.8rem;
   --link-default: #{$link-default};
   --link-hovered: #{$link-hovered};
   --link-special: #{$link-special};
@@ -132,10 +127,6 @@ html[data-theme="dark"] {
       --highlight-#{$name}-color: #{$color};
     }
 
-    --pf-text: #e0e0e0;
-    --pf-text-secondary: #a0a0a0;
-    --pf-background: #151b23;
-    --pf-border: #3d444d;
     --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
     --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);
     --border: 0.1rem solid #3d444d;
