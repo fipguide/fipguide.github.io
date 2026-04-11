@@ -57,8 +57,12 @@ $highlight-colors-dark: (
 );
 
 html {
-  --pagefind-ui-scale: 1 !important;
-  --pagefind-ui-text: #000;
+  --pf-text: #000;
+  --pf-text-secondary: #555;
+  --pf-background: #{$bg-default};
+  --pf-border: #d0d0d0;
+  --pf-font: roboto, Arial, Helvetica, sans-serif;
+  --pf-border-radius: 0.8rem;
   --link-default: #{$link-default};
   --link-hovered: #{$link-hovered};
   --link-special: #{$link-special};
@@ -89,13 +93,10 @@ html {
   --border-radius-s: 0.4rem;
   --border-radius-m: 0.8rem;
   --border-radius-l: 1.6rem;
-  --pagefind-ui-border-radius: var(--border-radius-l) !important;
-  --pagefind-ui-border: #000 !important;
   --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
   --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.1);
   --border: 0.1rem solid transparent;
   --border-visible: 0.1rem solid #d0d0d0;
-  --pagefind-ui-font: roboto, Arial, Helvetica, sans-serif;
   --outline-focus-indicator: #257fa8;
 
   @media print {
@@ -105,7 +106,6 @@ html {
 
 html[data-theme="dark"] {
   @media screen {
-    --pagefind-ui-text: #fff;
     --link-default: #ff6b3d;
     --link-hovered: #ff8a5b;
     --link-special: #ffffff;
@@ -132,10 +132,12 @@ html[data-theme="dark"] {
       --highlight-#{$name}-color: #{$color};
     }
 
-    --pagefind-ui-border: #555;
+    --pf-text: #e0e0e0;
+    --pf-text-secondary: #a0a0a0;
+    --pf-background: #151b23;
+    --pf-border: #3d444d;
     --box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.5);
     --box-shadow-light: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.3);
-    --pagefind-ui-background: var(--bg-default);
     --border: 0.1rem solid #3d444d;
     --border-visible: 0.1rem solid #3d444d;
     --outline-focus-indicator: #2e9acb;

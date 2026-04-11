@@ -131,9 +131,6 @@ menu:
     dropdown-label: Verfügbare Betreiber
     label: Betreiber
     title: Betreiber-Dropdown öffnen
-  search:
-    close: Suche schließen
-    open: Suche öffnen
   theme:
     switch-to-auto: Zu automatischem Modus wechseln
     switch-to-dark: Zu dunklem Modus wechseln
@@ -166,9 +163,6 @@ satellite:
     kostenlose Minuten pro Monat ins Ausland verfügbar. Für die Registrierung
     wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
     in Anspruch nehmen.
-search:
-  label: Durchsuche alle Seiteninhalte
-  placeholder: Suche
 skipToContent: Zum Inhalt springen
 support:
   text: >-

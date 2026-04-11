@@ -128,9 +128,6 @@ menu:
     dropdown-label: Available operators
     label: Operators
     title: Open Operator-Dropdown
-  search:
-    close: Close search
-    open: Open search
   theme:
     switch-to-auto: Switch to auto mode
     switch-to-dark: Switch to dark mode
@@ -159,9 +156,6 @@ satellite:
     [Satellite](https://www.satellite.me/). It offers 100 free minutes per month
     for international calls. A German residence is required for registration and
     registration may take a few days.
-search:
-  label: Search all page content
-  placeholder: Search
 skipToContent: Skip to content
 support:
   text: >-
