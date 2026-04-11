@@ -1,5 +1,3 @@
-baseURL: "https://www.fipguide.org/"
-
 enableRobotsTXT: true
 enableGitInfo: true
 
