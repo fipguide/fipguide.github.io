@@ -58,6 +58,9 @@ $highlight-colors-dark: (
 
 :root {
   --pf-font: roboto, Arial, Helvetica, sans-serif;
+  --pf-summary-font-size: 1.5rem;
+  --pf-result-title-font-size: 1.8rem;
+  --pf-result-excerpt-font-size: 1.5rem;
   --container-max-width: 1320px;
   --pf-modal-max-width: var(--container-max-width);
 
