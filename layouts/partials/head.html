@@ -20,8 +20,7 @@
     as="style"
   />
 {{ end }}
-<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
-<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+{{ partial "head/search" . }}
 
 {{ partial "head/js" (dict "file" "js/main.js") }}
 
