@@ -56,8 +56,33 @@ $highlight-colors-dark: (
   default: map-get($tag-colors-dark, info),
 );
 
-html {
+:root {
   --pf-font: roboto, Arial, Helvetica, sans-serif;
+  --container-max-width: 1320px;
+  --pf-modal-max-width: var(--container-max-width);
+
+  @media (max-width: #{$breakpoint-xxl}) {
+    --container-max-width: 1140px;
+  }
+
+  @media (max-width: #{$breakpoint-xl}) {
+    --container-max-width: 960px;
+  }
+
+  @media (max-width: #{$breakpoint-lg}) {
+    --container-max-width: 720px;
+  }
+
+  @media (max-width: #{$breakpoint-md}) {
+    --container-max-width: 540px;
+  }
+
+  @media (max-width: #{$breakpoint-sm}) {
+    --container-max-width: calc(100vw - 3.2rem);
+  }
+}
+
+html {
   --link-default: #{$link-default};
   --link-hovered: #{$link-hovered};
   --link-special: #{$link-special};

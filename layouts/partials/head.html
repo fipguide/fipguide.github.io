@@ -9,6 +9,7 @@
   {{ end }}
 </title>
 {{ partial "head/js" (dict "file" "js/darkmode.js" "defer" false) }}
+{{ partial "head/search" . }}
 
 {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
 {{ with resources.Get "sass/main.scss" }}
@@ -20,7 +21,6 @@
     as="style"
   />
 {{ end }}
-{{ partial "head/search" . }}
 
 {{ partial "head/js" (dict "file" "js/main.js") }}
 

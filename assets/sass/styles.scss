@@ -100,27 +100,7 @@ main {
 }
 
 .o-container {
-  max-width: 1320px;
-
-  @media (max-width: #{$breakpoint-xxl}) {
-    max-width: 1140px;
-  }
-
-  @media (max-width: #{$breakpoint-xl}) {
-    max-width: 960px;
-  }
-
-  @media (max-width: #{$breakpoint-lg}) {
-    max-width: 720px;
-  }
-
-  @media (max-width: #{$breakpoint-md}) {
-    max-width: 540px;
-  }
-
-  @media (max-width: #{$breakpoint-sm}) {
-    max-width: calc(100vw - 3.2rem);
-  }
+  max-width: var(--container-max-width);
 
   @media print {
     max-width: 100%;
