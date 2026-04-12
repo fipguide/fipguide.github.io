@@ -3,6 +3,7 @@ draft: false
 title: "Ffestiniog Travel Telefon"
 description: "Buchungsinformationen für die Hotline von Ffestiniog Travel."
 params:
+  fee: 5,00 £
   fip_global_fare: true
   type: "phone"
 ---

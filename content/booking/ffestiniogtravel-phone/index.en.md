@@ -3,6 +3,7 @@ draft: false
 title: "Ffestiniog Travel Telephone"
 description: "Booking information for the Ffestiniog Travel hotline."
 params:
+  fee: £ 5,00
   fip_global_fare: true
   type: "phone"
 ---
@@ -20,7 +21,7 @@ FIP Global Fare tickets for Eurostar can be purchased via the Ffestiniog Travel 
 
 [+44 (0)1766 515630](tel:+441766515630)
 
-Booking is available in English. A spelling alphabet can help when providing names and addresses. A booking fee of 5.00 £ applies.
+Booking is available in English. A spelling alphabet can help when providing names and addresses. A booking fee of £ 5.00 applies.
 
 {{% /booking-section %}}
 

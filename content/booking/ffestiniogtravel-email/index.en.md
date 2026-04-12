@@ -3,6 +3,7 @@ draft: false
 title: "Ffestiniog Travel Email"
 description: "Booking information for booking by email with Ffestiniog Travel."
 params:
+  fee: £ 5,00
   fip_global_fare: true
   type: "email"
 ---
