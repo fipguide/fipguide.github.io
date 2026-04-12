@@ -43,7 +43,7 @@ Auf dem FIP Ausweis und den FIP Freifahrtscheinen ist allerdings nur **Vy Group 
     reservation_possible=true
 %}}
 
-Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond 🌙 gekennzeichnet.
+Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond {{% icon "bedtime" %}} gekennzeichnet.
 
 #### Strecken im Linienverkehr
 
@@ -64,12 +64,12 @@ Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge
 
 Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich:
 
-| Klasse         | FIP Ausweis 2. Klasse                            | FIP Ausweis 1. Klasse |
-| -------------- | ------------------------------------------------ | --------------------- |
-| Standard       | 50 kr (F5, F6, F7) <br> 90 kr (F4)               | 0 kr                  |
-| Plus           | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4)    | 0 kr                  |
-| PlusNight (🌙) | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
-| Sleeper (🌙)   | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
+| Klasse                           | FIP Ausweis 2. Klasse                            | FIP Ausweis 1. Klasse |
+| -------------------------------- | ------------------------------------------------ | --------------------- |
+| Standard                         | 50 kr (F5, F6, F7) <br> 90 kr (F4)               | 0 kr                  |
+| Plus                             | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4)    | 0 kr                  |
+| PlusNight {{% icon "bedtime" %}} | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
+| Sleeper {{% icon "bedtime" %}}   | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
 
 {{% /train-category %}}
 
