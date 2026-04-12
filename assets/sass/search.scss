@@ -50,3 +50,14 @@ pagefind-modal-trigger {
 .o-header__item > pagefind-modal-trigger > .pf-trigger-btn {
   height: 4.2rem !important;
 }
+
+.pagefind-highlight {
+  color: var(--color-body);
+  background: linear-gradient(
+    to right,
+    hsla(48, 92%, 75%, 0.3),
+    hsla(48, 92%, 75%, 0.58)
+  );
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+}
