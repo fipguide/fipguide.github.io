@@ -89,3 +89,8 @@ pagefind-modal-trigger {
     opacity: 1;
   }
 }
+
+.pf-result-card:focus-within,
+.pf-heading-chip:focus-within {
+  background: rgba($link-hovered, 0.15) !important;
+}
