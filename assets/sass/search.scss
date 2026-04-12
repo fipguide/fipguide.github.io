@@ -50,7 +50,8 @@ pagefind-modal-trigger {
   height: 4.2rem !important;
 }
 
-.pf-result-excerpt > mark {
+.pf-result-excerpt > mark,
+.pf-heading-excerpt > mark {
   color: var(--link-default) !important;
 }
 
