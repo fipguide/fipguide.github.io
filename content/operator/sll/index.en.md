@@ -103,6 +103,10 @@ As of 25.02.2026, port fees are £ 1,50 and environmental charges are £ 2,00 pe
 
 {{% /expander %}}
 
+### Online
+
+{{% booking id="stena-line-limited-email" /%}}
+
 ### Telephone
 
 {{% booking id="stena-line-limited-phone" /%}}

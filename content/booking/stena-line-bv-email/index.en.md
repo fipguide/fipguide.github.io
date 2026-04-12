@@ -40,6 +40,6 @@ FIP 50 Tickets can be booked.
 
 ## Reservations
 
-For overnight journeys, cabin reservation is mandatory.
+Cabin reservations are available and mandatory for overnight journeys.
 
 {{% /booking-section %}}
