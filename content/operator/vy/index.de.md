@@ -11,12 +11,10 @@ Neben Vy betreiben auch SJ Nord und Go-Ahead Nordic Verkehrsleistungen in Norweg
 
 {{% highlight important %}}
 In Norwegen wird der Betrieb der Eisenbahnverkehre im Rahmen von Ausschreibungen in mehreren Losen durch das Ministerium für Verkehr und Kommunikation vergeben.
-FIP-Vergünstigungen werden – anders als bei den meisten anderen FIP-Mitgliedern – nicht nur von Vy, sondern auch von SJ Nord und Go-Ahead Nordic anerkannt. Der FIP Freifahrtschein "Vy Group" gilt ebenfalls bei diesen Bahngesellschaften.
+FIP-Vergünstigungen werden – anders als bei den meisten anderen FIP-Mitgliedern – nicht nur von Vy, sondern auch von SJ Nord und Go-Ahead Nordic anerkannt. Der FIP Freifahrtschein "Vy Group" gilt ebenfalls bei diesen Bahngesellschaften.[^2]
 {{% /highlight %}}
 
 Online ist das [Streckennetz der Vy](https://www.vy.no/files/eyx1eny7/vyno-production/1e6de6b67ae9aa2f456b4845da049a9998ea0047.pdf) und das [Streckennetz von Oslo](https://www.vy.no/files/eyx1eny7/vyno-production/9dade0562e68cb1ec14644cdb1f443be1b29115c.pdf) einsehbar.
-
-Auf ihrer Website bietet die KD eine Übersichtskarte der Strecken an.
 
 ## Zusammenfassung
 
@@ -209,17 +207,17 @@ Die Klassen in den Zügen unterschieden sich je nach Betreiber und Zugkategorie.
 
 - **Standard**: Vergleichbar mit der 2. Klasse.
 - **Premium**: Vergleichbar mit der 1. Klasse. Es gibt kostenlose kalte und warme Getränke. Nicht verfügbar im Nachtzug.
-- **Premium Pluss**: Liegesessel, kostenlose kalte und warme Getränke, Obst und Schokolade
-- **Sovekupé**: Schlafabteil mit zwei Betten und einem Waschbecken sowie Toiletten auf dem Gang.
+- **Premium Pluss** (Premium Plus): Liegesessel, kostenlose kalte und warme Getränke, Obst und Schokolade
+- **Sovekupé** (Sleeper): Schlafabteil mit zwei Betten und einem Waschbecken sowie Toiletten auf dem Gang.
 
 [Mehr Infos zu den Klassen bei SJ Nord.](https://www.sj.no/en/ticket-categories/)
 
 **Go-Ahead Nordic:**
 
 - **Standard**: Vergleichbar mit der 2. Klasse.
-- **Ekstra**: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee, Tee und Snacks.
-- **Hvile**: Liegesessel, welcher sich um 45° neigen lässt. Ansonsten wie Ekstra. Verfügbar in Nachtzügen und ausgewählten Tagzügen
-- **Sove**: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
+- **Ekstra** (Extra): Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee, Tee und Snacks.
+- **Hvile** (Reclining Seat): Liegesessel, welcher sich um 45° neigen lässt. Ansonsten wie Ekstra. Verfügbar in Nachtzügen und ausgewählten Tagzügen
+- **Sove** (Sleeper): Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
 
 [Mehr Infos zu den Klassen bei Go-Ahead Nordic](https://go-aheadnordic.no/velkommen-om-bord/om-vare-reiseklasser)
 

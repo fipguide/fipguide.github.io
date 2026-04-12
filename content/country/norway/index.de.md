@@ -35,9 +35,9 @@ Das staatliche Unternehmen _Entur_ spielt eine zentrale Rolle im öffentlichen V
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land          | Grenzpunkte                                                              |
-| ------------- | ------------------------------------------------------------------------ |
-| Schweden (SJ) | Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien (Gr) |
+| Land          | Grenzpunkte                                                                               |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| Schweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien (Gr) |
 
 {{% /expander %}}
 
