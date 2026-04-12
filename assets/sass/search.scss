@@ -58,6 +58,30 @@ pagefind-modal-trigger {
     hsla(48, 92%, 75%, 0.3),
     hsla(48, 92%, 75%, 0.58)
   );
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   border-radius: 0.5rem;
   padding: 0.4rem;
+  margin: 0 -0.4rem;
+  animation: pagefind-highlight-reveal 260ms ease-out;
+
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+  }
+}
+
+:is(h1, h2, h3, h4, h5, h6) .pagefind-highlight {
+  margin: 0;
+}
+
+@keyframes pagefind-highlight-reveal {
+  from {
+    background-size: 0% 100%;
+    opacity: 0.7;
+  }
+
+  to {
+    background-size: 100% 100%;
+    opacity: 1;
+  }
 }
