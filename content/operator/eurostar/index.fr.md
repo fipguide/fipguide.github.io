@@ -101,7 +101,17 @@ Les billets sont émis exclusivement sous forme numérique (email requis).
 
 ### En ligne
 
-{{% booking id="railtourguide-website" fip_50=nil fip_75=nil fip_global_fare=true /%}}
+{{% booking id="railtourguide-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
 Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations) Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
@@ -123,6 +133,12 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     fip_50=nil
     fip_global_fare=true
     reservations=nil
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
 /%}}
 
 ### En gare

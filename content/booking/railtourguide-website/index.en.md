@@ -4,9 +4,9 @@ title: "RailTourGuide Website"
 description: "Booking information for the RailTourGuide website."
 params:
   fee: £3.00 (until 31 May 2026), thereafter £5.00
-
-booking_link: "https://www.railtourguide.com/rail-staff-travel-eurostar/"
-type: "website"
+  fip_global_fare: true
+  booking_link: "https://www.railtourguide.com/rail-staff-travel-eurostar/"
+  type: "website"
 ---
 
 {{% booking-section "fip_global_fare" %}}

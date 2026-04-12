@@ -101,7 +101,17 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 ### Online
 
-{{% booking id="railtourguide-website" fip_50=nil fip_75=nil fip_global_fare=true /%}}
+{{% booking id="railtourguide-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations) If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
@@ -123,6 +133,12 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     fip_50=nil
     fip_global_fare=true
     reservations=nil
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
 /%}}
 
 ### On-site
