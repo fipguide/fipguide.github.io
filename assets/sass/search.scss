@@ -73,8 +73,8 @@ pagefind-modal-trigger {
     animation: none;
   }
 }
-
-h1 .pagefind-highlight {
+// The negative margin influences the box sizing in flexbox environments
+:is(h1, .o-related__item) .pagefind-highlight {
   margin: 0;
 }
 
