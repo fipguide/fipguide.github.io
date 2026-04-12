@@ -46,7 +46,7 @@ ol {
 @mixin focus-indicator($offset) {
   &:focus,
   &:focus-visible {
-    outline: var(--outline-focus-indicator) solid 0.2rem;
+    outline: var(--outline-focus-indicator) solid 2px;
     outline-offset: $offset;
   }
 }

@@ -9,6 +9,14 @@
   }
 }
 
+pagefind-modal-trigger {
+  height: 100% !important;
+
+  > .pf-trigger-btn {
+    height: 100% !important;
+  }
+}
+
 .pf-result-image {
   object-fit: contain !important;
   background-color: unset !important;
@@ -32,4 +40,13 @@
 
 .pf-trigger-text {
   text-transform: capitalize !important;
+  font-family: var(--font-family) !important;
+  font-size: var(--pf-input-font-size) !important;
+}
+.o-startpage__search > pagefind-modal-trigger > .pf-trigger-btn {
+  box-shadow: var(--box-shadow) !important;
+}
+
+.o-header__item > pagefind-modal-trigger > .pf-trigger-btn {
+  height: 4.2rem !important;
 }

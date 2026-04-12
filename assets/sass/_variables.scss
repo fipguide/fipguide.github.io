@@ -112,10 +112,14 @@ $highlight-colors-dark: (
   }
 
   --pf-font: var(--font-family);
+  --pf-input-font-size: 1.8rem;
   --pf-summary-font-size: 1.5rem;
   --pf-result-title-font-size: 1.8rem;
   --pf-result-excerpt-font-size: 1.5rem;
   --pf-modal-max-width: var(--container-max-width);
+  --pf-outline-focus: var(--outline-focus-indicator);
+  --pf-border-radius: var(--border-radius-l);
+  --pf-background: var(--bg-default);
 
   @each $name, $color in $fip-validity-colors {
     --fip-validity-#{$name}: #{$color};
