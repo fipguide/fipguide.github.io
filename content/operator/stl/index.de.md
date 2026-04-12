@@ -146,7 +146,7 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 ### Vor Ort
 
-Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügbarkeit. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Der Kauf an Bord der Schiffe ist nicht möglich.
 
@@ -170,9 +170,11 @@ Die Anreise zur Station _Hoek van Holland Haven_ erfolgt in der Regel mit der Me
 
 - Station _Schiedam Centrum_: direkte Umsteigemöglichkeit zu `IC`- und `RE`-Zügen der NS.
 - Station _Rotterdam Centraal_: Umsteigemöglichkeiten zu Zügen der NS. Nach Hoek van Holland muss von Metro-Linie D an der Station _Beurs_ umgestiegen werden.
+- Station _Rotterdam Alexander_: direkte Umsteigemöglichkeit zu Zügen der NS zum zentralen niederländischen Bahnknoten _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. akzeptiert kein FIP, sodass für die Metro-Fahrt ein reguläres Ticket erworben werden muss. Dies funktioniert auch kontaktlos und mit ApplePay.
+Da Hoek van Holland weit vom Zentrum Rotterdams entfernt ist, ist es je nach Ziel günstiger ein 2-Stundenticket zu erwerben (5,50 € Stand 2026), zu den üblichen Umstiegshaltestellen ist derzeit nur nach _Schiedam Centrum_ der Kilometertarif günstiger (5,28 €), am größten ist die Ersparnis bei _Rotterdam Centraal_ (8,28 €).
 {{% /highlight %}}
 
 In Harwich besteht an der Station _Harwich International_ Anschluss an Züge von Greater Anglia aus / in Richtung London.
