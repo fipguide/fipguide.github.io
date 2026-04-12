@@ -187,7 +187,7 @@ Vy betreibt ein Netzwerk an Fernbuslinien, welche allerdings nicht mit FIP genut
 
 Die Klassen in den Zügen unterschieden sich je nach Betreiber und Zugkategorie.
 
-**Vy**
+**Vy:**
 
 - **Standard** (Lavpris / Flex): Vergleichbar mit der 2. Klasse.
 - **Pluss**: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee und Tee.
@@ -237,6 +237,9 @@ Für die Reservierung im Sitz-, Liege- oder Schlafwagen ist unabhängig von der 
 ### Vor Ort
 
 {{% booking id="entur-ticket-office" /%}}
+{{% booking id="db-ticket-office"
+    classes=nil
+/%}}
 
 An Ticketautomaten können FIP Vergünstigungen nicht erworben werden.
 
