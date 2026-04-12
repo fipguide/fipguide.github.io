@@ -30,7 +30,7 @@ FIP 50 Tickets können gebucht werden.
 
 ## Reservierungen
 
-Für Übernachtungsfahrten ist die Kabinenreservierung obligatorisch.
+Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
 {{% /booking-section %}}
 

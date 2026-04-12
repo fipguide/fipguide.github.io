@@ -146,7 +146,7 @@ As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10
 
 ### On-Site
 
-On the day of travel, bookings can be made on-site, subject to availability. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Purchase on board the ships is not possible.
 
