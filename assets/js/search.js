@@ -1,16 +1,18 @@
 function initMobileSearchButton() {
-  const searchButton = document.querySelector(".o-header__search-toggle");
+  const searchButtons = document.querySelectorAll(".o-header__search-toggle");
   const pagefindTrigger = document.querySelector("pagefind-modal-trigger");
 
-  if (!searchButton || !pagefindTrigger) return;
+  if (searchButtons.length === 0 || !pagefindTrigger) return;
 
-  searchButton.addEventListener("click", () => {
-    if (typeof pagefindTrigger.openModal === "function") {
-      pagefindTrigger.openModal();
-      return;
-    }
+  searchButtons.forEach((searchButton) => {
+    searchButton.addEventListener("click", () => {
+      if (typeof pagefindTrigger.openModal === "function") {
+        pagefindTrigger.openModal();
+        return;
+      }
 
-    pagefindTrigger.querySelector("button")?.click();
+      pagefindTrigger.querySelector("button")?.click();
+    });
   });
 }
 

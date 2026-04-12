@@ -226,6 +226,20 @@ menu > li > menu {
   }
 }
 
+.o-header__item--desktop-search {
+  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+    display: none;
+  }
+}
+
+.o-header__item--desktop-search-icon {
+  display: none;
+
+  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+    display: inline-flex;
+  }
+}
+
 .o-header__button {
   padding: 1rem;
   border: none;
