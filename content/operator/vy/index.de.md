@@ -68,8 +68,8 @@ Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich:
 | -------------------------------- | ------------------------------------------------ | --------------------- |
 | Standard                         | 50 kr (F5, F6, F7) <br> 90 kr (F4)               | 0 kr                  |
 | Plus                             | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4)    | 0 kr                  |
-| PlusNight {{% icon "bedtime" %}} | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
-| Sleeper {{% icon "bedtime" %}}   | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
+| PlusNight {{< icon "bedtime" >}} | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
+| Sleeper {{< icon "bedtime" >}}   | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
 
 {{% /train-category %}}
 
