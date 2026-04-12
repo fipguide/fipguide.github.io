@@ -6,8 +6,7 @@ params:
   operators_without_fip:
     - Achenseebahn
     - '[CAT (City Airport Train) Wien](/operator/oebb#wien-flughafen-city-airport-train-cat "CAT")'
-    - GKB
-    - Graz–Köflacher Bahn
+    - Graz–Köflacher Bahn (GKB)
     - Montafonerbahn
     - NÖVOG
     - Pinzgauer Lokalbahn
