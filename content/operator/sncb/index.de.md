@@ -179,6 +179,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 ### Im Zug
 
+{{% highlight important %}}
+Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das betrifft auch FIP reduzierte Tickets. Alle Reisenden müssen vor dem Einsteigen ein gültiges Ticket besitzen. [^5]<sup>, </sup>[^6]
+{{% /highlight %}}
+
 FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet, da die Tickets nicht an Ticketautomaten verfügbar sind. [^2]<sup>, </sup>[^4]
 
 ## Ermäßigungen
@@ -206,3 +210,7 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 [^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)
 
 [^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
+
+[^5]: [SNCB -- Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)
+
+[^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)

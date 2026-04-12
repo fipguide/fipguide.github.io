@@ -180,7 +180,11 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 ### À bord du train
 
-Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
+{{% highlight important %}}
+À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à bord de ses trains. Cela concerne également les billets FIP à tarif réduit. Tous les voyageurs devront être en possession d'un billet valable avant de monter à bord. [^5]<sup>, </sup>[^6]
+{{% /highlight %}}
+
+Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n'est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
 
 ## Réductions
 
@@ -207,3 +211,7 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 [^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/products/child)
 
 [^4]: [Site Web SNCB](https://www.belgiantrain.be/en/products/supplements/onboard)
+
+[^5]: [SNCB -- Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
+
+[^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)

@@ -108,9 +108,9 @@ national-discounts:
 general:
   fip-coupon:
     de: |
-      Die Beantragung von FIP Freifahrtscheinen für DB Mitarbeitende muss mind. vier Wochen vor Gültigkeitsbeginn über das DB Personalportal beantragt werden.
+      Die Beantragung von FIP Freifahrtscheinen für DB Mitarbeitende muss mind. vier Wochen vor Gültigkeitsbeginn über das DB Personalportal erfolgen.
 
-      Freifahrtscheine können mit 1 bis 4 Feldern beantragt werden. Wenn bereits ein Freifahrtschein mit weniger als vier Feldern im gleichen Jahr bentragt wurde, verfallen die weiteren Felder und können nicht erneut beantragt werden. Jedes Feld wird individuell versteuert. Mehr Informationen dazu unter [Versteuerung](/fip-validity#taxation).
+      Freifahrtscheine können mit 1 bis 4 Feldern beantragt werden. Wenn bereits ein Freifahrtschein mit weniger als vier Feldern im gleichen Jahr beantragt wurde, verfallen die weiteren Felder und können nicht erneut beantragt werden. Jedes Feld wird individuell versteuert. Mehr Informationen dazu unter [Versteuerung](/fip-validity#taxation).
     en: |
       FIP Coupon requests for DB employees must be submitted via the DB employee portal at least four weeks before the start of validity.
 

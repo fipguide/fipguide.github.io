@@ -144,7 +144,7 @@ Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes e
 
 ### En gare
 
-Le jour du voyage, il est possible de réserver sur place, selon disponibilité. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 L’achat à bord des navires n’est pas possible.
 
@@ -168,9 +168,11 @@ L’accès à la station _Hoek van Holland Haven_ se fait généralement par la 
 
 - Station _Schiedam Centrum_ : correspondance directe avec les trains `IC` et `RE` de la NS.
 - Station _Rotterdam Centraal_ : correspondances avec les trains NS. Pour rejoindre Hoek van Holland, il faut changer de la ligne de métro D à la station _Beurs_.
+  Station _Rotterdam Alexander_: correspondance directe avec les trains de la NS vers le nœud ferroviaire des Pays-Bas _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. n’accepte pas FIP, il faut donc acheter un billet régulier pour le métro. Cela fonctionne aussi sans contact et avec ApplePay.
+Hoek van Holland étant loin du centre de Rotterdam, dépendant de la destination, le billet 2 heures (2026: 5,50 €) peut être moins cher que le tarif kilométrique, vers les destinations ci-dessus uniquement pour _Schiedam Centrum_ le tarif kilométrique est moins cher (5,28 €), on peut économiser le plus vers _Rotterdam Centraal_ (8,28 €).
 {{% /highlight %}}
 
 À Harwich, à la station _Harwich International_, il y a une correspondance avec les trains Greater Anglia vers/depuis Londres.
