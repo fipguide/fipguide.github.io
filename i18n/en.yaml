@@ -124,6 +124,7 @@ fipValidity:
     or FIP75. The discount is usually 50 %, sometimes 75 %. To find out what
     discount applies to you, first select the issuer of your FIP Card. You can
     find an overview of all discounts [here](/fip-validity).
+  general: General
   issuer: FIP Card Issuer
   national-discountsHeading: National Discounts (Non-FIP)
   national-discountsMissingInfo: >-
@@ -139,12 +140,11 @@ fipValidity:
   taxationHeading: Taxation
   taxationMissingInfo: We currently do not have information on taxation.
   unknown: Unknown
-  validity: validity
+  validity: Validity
   widows: Widows, Widowers and Orphans
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
-general: general
 highlight:
   confusion: Risk of Confusion
   important: Important Information

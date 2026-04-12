@@ -99,7 +99,6 @@ country:
   many: pays
   one: pays
   other: pays
-countryselection: Choisir un pays
 dialog:
   close: Fermer
   open: Ouvre le dialogue
@@ -129,6 +128,7 @@ fipValidity:
     habituellement de 50 %, parfois de 75 %. Pour savoir quelle réduction
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
+  general: Général
   issuer: Émetteur de la carte FIP
   national-discountsHeading: Réductions nationales (non-FIP)
   national-discountsMissingInfo: >-
@@ -146,7 +146,7 @@ fipValidity:
   taxationHeading: Imposition
   taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu
-  validity: validité
+  validity: Validité
   widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe
