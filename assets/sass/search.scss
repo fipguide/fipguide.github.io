@@ -3,6 +3,7 @@ $search-z-index-focus: 12;
 
 #search {
   width: 100%;
+  height: 64px;
   display: flex;
   z-index: $search-z-index;
 
@@ -12,9 +13,11 @@ $search-z-index-focus: 12;
 
   .pagefind-ui {
     width: 100%;
+    height: 100%;
 
     &__form {
       position: relative;
+      height: 100%;
 
       &::before {
         content: "search";
@@ -55,7 +58,7 @@ $search-z-index-focus: 12;
       border: var(--border);
       box-shadow: var(--box-shadow);
       border-radius: var(--border-radius-l);
-      height: 64px;
+      height: 100%;
       background-color: var(--bg-default);
       color: var(--color-body);
       padding: 0 70px 0 54px;

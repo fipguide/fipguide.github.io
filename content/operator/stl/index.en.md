@@ -146,7 +146,7 @@ As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10
 
 ### On-Site
 
-On the day of travel, bookings can be made on-site, subject to availability. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Purchase on board the ships is not possible.
 
@@ -170,9 +170,11 @@ Arrival at the station _Hoek van Holland Haven_ is usually via Metro Line B from
 
 - Station _Schiedam Centrum_: direct transfer to `IC` and `RE` trains of NS.
 - Station _Rotterdam Centraal_: transfer options to NS trains. To reach Hoek van Holland, change from Metro Line D at station _Beurs_.
+- Station _Rotterdam Alexander_: direct transfer to NS trains to the main Dutch rail interchange _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. does not accept FIP, so a regular ticket must be purchased for the metro ride. This also works contactless and with ApplePay.
+Due to Hoek van Holland being far from central Rotterdam it can be cheaper to buy a 2 hour ticket depending on your destination (€5.50 as of 2026). To the main interchanges currently the kilometric fare is only cheaper to _Schiedam Centrum_ (€5.28), the biggest saving can be had for _Rotterdam Centraal_ (€8.28).
 {{% /highlight %}}
 
 In Harwich, there is a connection at _Harwich International_ station to Greater Anglia trains to/from London.
