@@ -62,7 +62,14 @@ Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge
 
 #### Reservierung
 
-Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich.
+Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich:
+
+| Klasse         | FIP Ausweis 2. Klasse                            | FIP Ausweis 1. Klasse |
+| -------------- | ------------------------------------------------ | --------------------- |
+| Standard       | 50 kr (F5, F6, F7) <br> 90 kr (F4)               | 0 kr                  |
+| Plus           | 200 kr (F6) <br> 250 kr (F5) <br> 430 kr (F4)    | 0 kr                  |
+| PlusNight (🌙) | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
+| Sleeper (🌙)   | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
 
 {{% /train-category %}}
 
@@ -125,7 +132,7 @@ Der Regiontog verbindet Orte und Städte mit Halten an fast allen Stationen. Tei
 
 #### Reservierung
 
-Auf den Linien R60 und R65 ist eine Reservierung erforderlich.
+Auf den Linien R60 und R65 ist eine kostenfreie Reservierung erforderlich.
 
 {{% /train-category %}}
 
@@ -190,11 +197,11 @@ Die Klassen in den Zügen unterschieden sich je nach Betreiber und Zugkategorie.
 **Vy:**
 
 - **Standard** (Lavpris / Flex): Vergleichbar mit der 2. Klasse.
-- **Pluss**: Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee und Tee.
-- **Kupé**: Sechs-Sitzer-Abteil. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Tagzügen.
-- **PlussNatt**: Liegesessel, welcher sich komplett flach legen lässt. Nur verfügbar in Nachtzügen.
-- **Hvilekupé**: Liegeabteil mit 6 Schlafplätzen. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Nachtzügen.
-- **Sovekupé**: Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
+- **Pluss** (Plus): Vergleichbar mit der 1. Klasse. Es gibt kostenlosen Kaffee und Tee.
+- **Kupé** (Compartment): Sechs-Sitzer-Abteil. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Tagzügen.
+- **PlussNatt** (PlusNight): Liegesessel, welcher sich komplett flach legen lässt. Nur verfügbar in Nachtzügen.
+- **Hvilekupé** (Rest): Liegeabteil mit 6 Schlafplätzen. Es kann nur das ganze Abteil gebucht werden, nicht einzelne Plätze. Nur verfügbar in Nachtzügen.
+- **Sovekupé** (Sleeper): Schlafabteil mit 2 Betten. Nur verfügbar in Nachtzügen.
 
 [Mehr Infos zu den Klassen bei Vy.](https://www.vy.no/en/buy-tickets/train-tickets)
 
