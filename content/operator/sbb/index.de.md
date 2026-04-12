@@ -95,6 +95,26 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
 {{% /train-category %}}
 
 {{% train-category
+    id="pe"
+    title="Panorama Express (PE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://www.sbb.ch/de/freizeit-ferien/zuege-schiffe/panoramareisen/gotthard-panorama-express.html"
+%}}
+Panoramazüge der SBB über die Gotthardbergstrecke von Mitte April bis Mitte Oktober. Beworben wird eine Fahrt in Kombination mit dem Schiff der Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), dort gelten die Fahrvergünstigungen SP, siehe [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Für Reisende auf der Gesamtstrecke mit Zug und Schiff zwischen Lugano und Luzern (und umgekehrt) wird ein kostenloser Gepäcktransport angeboten.
+
+#### Reservierung
+
+Eine besondere Reservierung für 24 CHF ist erforderlich.
+
+{{% highlight important %}}
+Die Züge führen nur Wagen der 1. Klasse. Zu einem Freifahrschein der 2. Klasse ist daher ein Klassenübergang notwendig. Mit einem FIP-Ausweis der 2. Klasse gibt es keine Ermäßigung.
+{{% /highlight %}}
+{{% /train-category %}}
+
+{{% train-category
     id="ir"
     title="InterRegio (IR) / RegionalExpress (RE)"
     type="regional"

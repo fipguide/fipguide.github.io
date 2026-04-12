@@ -260,7 +260,7 @@ Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft w
 
 Als Orientierung können die [FIP Gültigkeitskarten für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
 
-Betrofene Verbindungen im Detail:
+Betroffene Verbindungen im Detail:
 
 **Fernzüge (EC, IC, SC, EN, NJ, R):**
 
@@ -487,7 +487,7 @@ Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazel
 
 Für reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
 
-Der Zuschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter oder im Zug (bitte das Zugpersonal direkt aufsuchen) gekauft werden. Die Gültigkeit des Zuschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3]
+Der Zuschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter, im Zug (bitte das Zugpersonal direkt aufsuchen) oder online gekauft werden. Die Gültigkeit des Zuschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3] Der Onlinekauf ist auf der Webseite der [ČD auf Tschechisch hier](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) möglich (_Jednorázový příplatek na komerční vlaky a vybrané linky_ und das Datum auswählen, auf der nächsten Seite nach dem Klick auf _Koupit_ kann die Webseite wieder auf Englisch gestellt werden).
 
 Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Zuschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich. [^1]
 
