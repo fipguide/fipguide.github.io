@@ -63,8 +63,8 @@ pagefind-modal-trigger {
   color: var(--color-body);
   background: linear-gradient(
     to right,
-    hsla(48, 92%, 75%, 0.3),
-    hsla(48, 92%, 75%, 0.58)
+    hsla(48, 92%, 75%, 0.55),
+    hsla(48, 92%, 75%, 0.85)
   );
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -75,6 +75,16 @@ pagefind-modal-trigger {
 
   @media (prefers-reduced-motion: reduce) {
     animation: none;
+  }
+}
+
+:root[data-theme="dark"] {
+  .pagefind-highlight {
+    background: linear-gradient(
+      to right,
+      hsla(48, 92%, 85%, 0.25),
+      hsla(48, 92%, 85%, 0.45)
+    );
   }
 }
 // The negative margin influences the box sizing in flexbox environments
