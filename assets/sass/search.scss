@@ -28,6 +28,10 @@ pagefind-modal-trigger {
 
 .pf-heading-link {
   font-size: 1.8rem !important;
+
+  &::before {
+    content: "#" / "" !important;
+  }
 }
 
 .pf-heading-excerpt {
