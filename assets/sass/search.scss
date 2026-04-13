@@ -107,3 +107,11 @@ pagefind-modal-trigger {
 :is(.pf-result-card, .pf-heading-chip):is(:focus-within, :hover) {
   background: rgba($link-hovered, 0.15) !important;
 }
+
+:is(.pf-input, .pf-input-clear, .pf-result-card, .pf-heading-chip):is(
+  :focus-within
+) {
+  outline: var(--outline-focus-indicator) solid 2px !important;
+  outline-offset: 0.2rem !important;
+  box-shadow: none !important;
+}
