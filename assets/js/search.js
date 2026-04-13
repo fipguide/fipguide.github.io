@@ -1,6 +1,10 @@
 function initSearchAriaLabel() {
-  document.querySelectorAll(".pf-trigger-btn").forEach((btn) => {
-    btn.setAttribute("aria-label", "Suchbereich öffnen");
+  document.querySelectorAll("pagefind-modal-trigger").forEach((trigger) => {
+    const ariaLabel = trigger.dataset.searchOpenAriaLabel;
+    if (!ariaLabel) return;
+    const btn = trigger.querySelector(".pf-trigger-btn");
+    if (!btn) return;
+    btn.setAttribute("aria-label", ariaLabel);
   });
 }
 

@@ -156,6 +156,8 @@ satellite:
     [Satellite](https://www.satellite.me/). It offers 100 free minutes per month
     for international calls. A German residence is required for registration and
     registration may take a few days.
+search:
+  open-aria-label: Open search area
 skipToContent: Skip to content
 support:
   text: >-
