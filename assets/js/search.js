@@ -1,3 +1,9 @@
+function initSearchAriaLabel() {
+  document.querySelectorAll(".pf-trigger-btn").forEach((btn) => {
+    btn.setAttribute("aria-label", "Suchbereich öffnen");
+  });
+}
+
 function initMobileSearchButton() {
   const searchButtons = document.querySelectorAll(".o-header__search-toggle");
   const pagefindTrigger = document.querySelector("pagefind-modal-trigger");
@@ -16,8 +22,13 @@ function initMobileSearchButton() {
   });
 }
 
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initMobileSearchButton);
-} else {
+function init() {
   initMobileSearchButton();
+  initSearchAriaLabel();
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
 }
