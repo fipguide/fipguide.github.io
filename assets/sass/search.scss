@@ -82,8 +82,8 @@ pagefind-modal-trigger {
   .pagefind-highlight {
     background: linear-gradient(
       to right,
-      hsla(48, 92%, 85%, 0.25),
-      hsla(48, 92%, 85%, 0.45)
+      hsla(48, 92%, 85%, 0.2),
+      hsla(48, 92%, 85%, 0.4)
     );
   }
 }
@@ -104,7 +104,6 @@ pagefind-modal-trigger {
   }
 }
 
-.pf-result-card:focus-within,
-.pf-heading-chip:focus-within {
+:is(.pf-result-card, .pf-heading-chip):is(:focus-within, :hover) {
   background: rgba($link-hovered, 0.15) !important;
 }
