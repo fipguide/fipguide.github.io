@@ -21,7 +21,7 @@
     "@fontsource/roboto": "^5.2.9",
     "@fontsource/sansita": "^5.2.8",
     "@panzoom/panzoom": "^4.6.1",
-    "pagefind": "^1.5.0"
+    "pagefind": "^1.5.2"
   },
   "devDependencies": {
     "prettier": "^3.8.1",
