@@ -68,6 +68,7 @@ fipValidity:
     auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle zunächst den
     Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
     du [hier](/fip-validity).
+  general: Übergreifendes
   issuer: Aussteller des FIP Ausweises
   national-discountsHeading: Nationale Vergünstigungen (kein FIP)
   national-discountsMissingInfo: >-
@@ -88,7 +89,6 @@ fipValidity:
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
-general: Übergreifendes
 highlight:
   confusion: Verwechslungsgefahr
   important: Wichtige Information
@@ -131,9 +131,6 @@ menu:
     dropdown-label: Verfügbare Betreiber
     label: Betreiber
     title: Betreiber-Dropdown öffnen
-  search:
-    close: Suche schließen
-    open: Suche öffnen
   theme:
     switch-to-auto: Zu automatischem Modus wechseln
     switch-to-dark: Zu dunklem Modus wechseln
@@ -167,8 +164,7 @@ satellite:
     wird ein deutscher Wohnsitz benötigt und die Registrierung kann einige Tage
     in Anspruch nehmen.
 search:
-  label: Durchsuche alle Seiteninhalte
-  placeholder: Suche
+  open-aria-label: Suchbereich öffnen
 skipToContent: Zum Inhalt springen
 support:
   text: >-

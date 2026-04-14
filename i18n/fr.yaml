@@ -39,7 +39,6 @@ country:
   many: pays
   one: pays
   other: pays
-countryselection: Choisir un pays
 dialog:
   close: Fermer
   open: Ouvre le dialogue
@@ -69,6 +68,7 @@ fipValidity:
     habituellement de 50 %, parfois de 75 %. Pour savoir quelle réduction
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
+  general: Général
   issuer: Émetteur de la carte FIP
   national-discountsHeading: Réductions nationales (non-FIP)
   national-discountsMissingInfo: >-
@@ -86,7 +86,7 @@ fipValidity:
   taxationHeading: Imposition
   taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu
-  validity: validité
+  validity: Validité
   widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe
@@ -133,9 +133,6 @@ menu:
     dropdown-label: Opérateurs disponibles
     label: Opérateurs
     title: Ouvrir la liste déroulante de l'opérateur
-  search:
-    close: Fermer la recherche
-    open: Ouvrir la recherche
   theme:
     switch-to-auto: Passer en mode automatique
     switch-to-dark: Passer en mode sombre
@@ -166,8 +163,7 @@ satellite:
     résidence allemande est requise pour l'inscription et l'inscription peut
     prendre quelques jours.
 search:
-  label: Rechercher dans tout le contenu de la page
-  placeholder: Rechercher
+  open-aria-label: Ouvrir la zone de recherche
 skipToContent: Aller au contenu
 support:
   text: >-
