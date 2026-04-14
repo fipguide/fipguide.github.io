@@ -1,240 +1,128 @@
-$search-z-index: 10;
-$search-z-index-focus: 12;
-
-#search {
-  width: 100%;
-  height: 64px;
-  display: flex;
-  z-index: $search-z-index;
-
-  @media print {
-    display: none;
-  }
-
-  .pagefind-ui {
+.o-startpage__search {
+  pagefind-modal-trigger {
+    display: block;
     width: 100%;
-    height: 100%;
 
-    &__form {
-      position: relative;
-      height: 100%;
-
-      &::before {
-        content: "search";
-        position: absolute;
-        top: 23px;
-        left: 20px;
-        z-index: $search-z-index + 1;
-        font-family: "Material Symbols Rounded";
-        opacity: 0.7;
-        pointer-events: none;
-        line-height: 1;
-      }
-    }
-
-    &__message {
-      padding: 1rem;
-      margin-bottom: 0;
-    }
-
-    &__results-area {
-      max-height: 50vh;
-      padding: 0 1rem;
-      overflow-y: scroll;
-
-      @media (max-width: #{$breakpoint-md}) {
-        max-height: calc(100dvh - 17rem);
-      }
-    }
-
-    &__results {
-      padding-left: 0;
-      margin-bottom: 0;
-    }
-
-    &__search-input {
-      z-index: $search-z-index;
-      outline: 0.2rem solid transparent;
-      border: var(--border);
-      box-shadow: var(--box-shadow);
-      border-radius: var(--border-radius-l);
-      height: 100%;
-      background-color: var(--bg-default);
-      color: var(--color-body);
-      padding: 0 70px 0 54px;
-      font-size: 2rem;
-      position: relative;
-      display: flex;
+    &::part(button) {
       width: 100%;
-      box-sizing: border-box;
-      font-family: "Roboto", Arial, Helvetica, sans-serif;
-
-      @include focus-indicator(0.2rem);
-
-      &::placeholder {
-        opacity: 0.7;
-        color: var(--color-body);
-      }
-
-      // When results are visible
-      &:has(
-        + .pagefind-ui__search-clear
-          + .pagefind-ui__drawer
-          .pagefind-ui__results-area
-      ) {
-        border-radius: var(--border-radius-l) var(--border-radius-l) 0 0;
-      }
-    }
-
-    &__search-clear {
-      display: none;
-    }
-
-    &__suppressed {
-      display: none;
-    }
-
-    &__drawer {
-      background-color: var(--bg-default);
-      overscroll-behavior: contain;
-      overflow: hidden;
-      position: absolute;
-      width: 100%;
-      z-index: $search-z-index;
-      border: var(--border);
-      border-radius: 0 0 var(--border-radius-l) var(--border-radius-l);
-      box-sizing: border-box;
-    }
-
-    &__result {
-      list-style-type: none;
-      display: flex;
-      align-items: flex-start;
-      gap: 3.2rem;
-      padding: 2rem 0;
-      border-top: 0.2rem solid grey;
-      margin: 0 1rem;
-
-      &-inner,
-      &-thumb {
-        margin-top: 0;
-      }
-
-      &-thumb {
-        width: 10rem;
-        height: auto;
-        aspect-ratio: 3 / 2;
-
-        @media (max-width: #{$breakpoint-md}) {
-          display: none;
-        }
-      }
-
-      &-image {
-        max-width: 100%;
-      }
-
-      &-title {
-        display: inline-block;
-        font-weight: 700;
-        margin: 0;
-      }
-
-      &-nested {
-        display: flex;
-        flex-direction: column;
-        padding-top: 0.8rem;
-        padding-left: 2.4rem;
-
-        .pagefind-ui__result-link {
-          font-size: 1.8rem;
-        }
-
-        .pagefind-ui__result-link::before {
-          content: "subdirectory_arrow_right";
-          font-family: "Material Symbols Rounded";
-          position: absolute;
-          left: -2.4rem;
-        }
-      }
-
-      &-excerpt {
-        margin-bottom: 0;
-        margin-top: 0.4rem;
-      }
-    }
-
-    &__result-link {
-      position: relative;
-      font-size: 2.2rem;
-    }
-
-    &__button {
-      border: 0.2rem solid var(--link-default);
-      border-radius: var(--border-radius-m);
-      background: transparent;
-      color: var(--body-color);
-      height: 4.8rem;
-      padding: 1.2rem;
-      margin-bottom: 1rem;
-      width: 100%;
-      text-align: center;
-      font-weight: 700;
-      transition:
-        background 0.2s,
-        color 0.2s;
-
-      &:hover,
-      &:focus {
-        background: rgba($link-hovered, 0.15);
-      }
-    }
-
-    &__hidden {
-      display: none;
-    }
-
-    &--reset {
-      mark {
-        background-color: var(--bg-accent);
-        color: black;
-      }
-    }
-
-    &__loading {
-      color: var(--bg-neutral);
-      background-color: var(--bg-neutral);
-      border-radius: var(--border-radius-s);
-      pointer-events: none;
     }
   }
 }
 
-#search.o-search {
-  &--contentpage {
-    position: fixed;
-    display: none;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.5s ease;
+pagefind-modal-trigger {
+  height: 100% !important;
+}
+
+.pf-result-image {
+  object-fit: contain !important;
+  background-color: unset !important;
+}
+
+.pf-result-excerpt {
+  display: -webkit-box !important;
+  -webkit-line-clamp: 2 !important;
+  line-clamp: 2 !important;
+  -webkit-box-orient: vertical !important;
+  white-space: wrap !important;
+}
+
+.pf-heading-link {
+  font-size: 1.8rem !important;
+
+  &::before {
+    content: "#" / "" !important;
+  }
+}
+
+.pf-heading-excerpt {
+  font-size: 1.4rem !important;
+}
+
+.pf-trigger-text {
+  text-transform: capitalize !important;
+  font-family: var(--font-family) !important;
+  font-size: var(--pf-input-font-size) !important;
+}
+
+.o-startpage__search > pagefind-modal-trigger > .pf-trigger-btn {
+  box-shadow: var(--box-shadow) !important;
+  height: 100% !important;
+  border-radius: var(--border-radius-l) !important;
+}
+
+.o-header__item > pagefind-modal-trigger > .pf-trigger-btn {
+  height: 4.2rem !important;
+}
+
+.pf-result-excerpt > mark,
+.pf-heading-excerpt > mark {
+  color: var(--link-default) !important;
+}
+
+.pagefind-highlight {
+  color: var(--color-body);
+  background: linear-gradient(
+    to right,
+    hsla(48, 92%, 75%, 0.55),
+    hsla(48, 92%, 75%, 0.85)
+  );
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+  margin: 0 -0.4rem;
+  animation: pagefind-highlight-reveal 260ms ease-out;
+
+  @media (prefers-reduced-motion: reduce) {
+    animation: none;
+  }
+}
+
+:root[data-theme="dark"] {
+  .pagefind-highlight {
+    background: linear-gradient(
+      to right,
+      hsla(48, 92%, 85%, 0.2),
+      hsla(48, 92%, 85%, 0.4)
+    );
+  }
+}
+// The negative margin influences the box sizing in flexbox environments
+:is(h1, .o-related__item) .pagefind-highlight {
+  margin: 0;
+}
+
+@keyframes pagefind-highlight-reveal {
+  from {
+    background-size: 0% 100%;
+    opacity: 0.7;
   }
 
-  &--show {
-    display: block;
+  to {
+    background-size: 100% 100%;
     opacity: 1;
-    visibility: visible;
-    z-index: $search-z-index-focus;
-
-    input.pagefind-ui__search-input {
-      z-index: $search-z-index-focus;
-    }
-
-    .pagefind-ui__drawer {
-      z-index: $search-z-index-focus;
-    }
-
-    .pagefind-ui__form::before {
-      z-index: $search-z-index-focus + 1;
-    }
   }
+}
+
+:is(.pf-result-card, .pf-heading-chip):is(:focus-within, :hover) {
+  background: rgba($link-hovered, 0.15) !important;
+}
+
+:is(.pf-input, .pf-result-card, .pf-heading-chip) {
+  outline: var(--border-visible) !important;
+  border: none !important;
+  box-shadow: none !important;
+  transition:
+    background 0.2s,
+    color 0.2s !important;
+}
+
+:is(
+  .pf-input,
+  .pf-result-card,
+  .pf-heading-chip,
+  .pf-input-clear
+):focus-within {
+  outline: var(--outline-focus-indicator) solid 2px !important;
+  outline-offset: 0.2rem !important;
 }

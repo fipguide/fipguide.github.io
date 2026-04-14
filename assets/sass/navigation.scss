@@ -33,6 +33,10 @@ menu > li > menu {
   padding-inline-start: 0;
 }
 
+.o-header__utility-menu {
+  gap: 0.6rem;
+}
+
 .o-header__item {
   list-style: none;
   display: flex;
@@ -219,6 +223,20 @@ menu > li > menu {
 
   @media (min-width: #{$breakpoint-md}) {
     display: none;
+  }
+}
+
+.o-header__item--desktop-search {
+  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+    display: none;
+  }
+}
+
+.o-header__item--desktop-search-icon {
+  display: none;
+
+  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+    display: inline-flex;
   }
 }
 
