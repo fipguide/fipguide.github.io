@@ -108,16 +108,21 @@ pagefind-modal-trigger {
   background: rgba($link-hovered, 0.15) !important;
 }
 
-:is(.pf-input, .pf-input-clear, .pf-result-card, .pf-heading-chip) {
+:is(.pf-input, .pf-result-card, .pf-heading-chip) {
   outline: var(--border-visible) !important;
   border: none !important;
   box-shadow: none !important;
   transition:
     background 0.2s,
     color 0.2s !important;
+}
 
-  &:focus-within {
-    outline: var(--outline-focus-indicator) solid 2px !important;
-    outline-offset: 0.2rem !important;
-  }
+:is(
+  .pf-input,
+  .pf-result-card,
+  .pf-heading-chip,
+  .pf-input-clear
+):focus-within {
+  outline: var(--outline-focus-indicator) solid 2px !important;
+  outline-offset: 0.2rem !important;
 }
