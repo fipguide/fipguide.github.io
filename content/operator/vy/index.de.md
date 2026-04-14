@@ -69,6 +69,13 @@ Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich:
 | PlusNight {{< icon "bedtime" >}} | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                  |
 | Sleeper {{< icon "bedtime" >}}   | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                  |
 
+{{% highlight tip %}}
+**Nachtzug: Aufenthalt, Dusche und Früstück**
+
+Die Bahngesellschaften betreiben Kooperationen mit lokalen Hotels.
+Mit einem Ticket für den Nachtzug kann man die Zeit bis zur Abfahrt in der Hotel-Lobby verbringen. Nach Ankunft des Zuges kann zu einem guten Preis-Leistungs-Verhältnis im Hotel gefrühstückt und/oder geduscht werden.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -264,14 +271,14 @@ Eine Fahrtunterbrechung ist nicht gestattet.[^2]
 
 ### Grenzüberschreitende Fahrten
 
-FIP-Vergünstigungen können auf grenzüberschreitenden Fahrten nicht genutzt werden.[^1]
-
-Dies betrifft die folgenden Verbindungen:
+FIP-Vergünstigungen können auf den folgenden grenzüberschreitenden Fahrten nicht genutzt werden[^1]:
 
 - Halden – Gøteborg (RE20 wird auf diesem Abschnitt von Vy Tåg Sverige betrieben)
 - Oslo S – Kongsvinger – Charlottenberg – Stockholm (von SJ Sverige betrieben, daher auf der gesamten Strecke nicht gültig)
 - Oslo S – Karlstad – Stockholm (von SJ Sverige betrieben, daher auf der gesamten Strecke nicht gültig)
 - Narvik – Luleå (von SJ Sverige betrieben)
+
+Allein auf der Fahrt von Trondheim nach Storlien wird FIP auf dem kompletten Laufweg anerkannt.[^3]
 
 ### Fahrten in den Tarifgebieten Oslo, Bergen, Trondheim und Stavanger
 
@@ -310,3 +317,5 @@ Die Ofotbanen zwischen Narvik und Bjørnfjell ist von FIP Vergünstigungen ausge
 [^1]: [Entur – FIP travel in Norway](https://personalbillett.entur.no/fip-travel-in-norway)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
+
+[^3]: Anfrage des FIP Guide Teams per E-Mail bei Entur
