@@ -109,7 +109,7 @@ pagefind-modal-trigger {
 }
 
 :is(.pf-input, .pf-input-clear, .pf-result-card, .pf-heading-chip) {
-  outline: var(--border) !important;
+  outline: var(--border-visible) !important;
   border: none !important;
   box-shadow: none !important;
   transition:
