@@ -27,17 +27,10 @@
       {{- end -}}
     >
       <div class="o-container">
-        {{- if not .IsHome -}}
-          <div
-            id="search"
-            class="o-search o-container o-search--contentpage"
-            data-placeholder="{{ T "search.placeholder" }}"
-            data-label="{{ T "search.label" }}"
-          ></div>
-        {{ end }}
         {{ block "main" . }}{{ end }}
       </div>
     </main>
+    {{ partial "search" . }}
     <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
     {{ if or (eq .Page.Type "country") (eq .Page.Type "operator") (eq .Page.Type "generalinformation") }}
       {{ partial "snackbar" . }}

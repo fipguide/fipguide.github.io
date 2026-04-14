@@ -133,9 +133,6 @@ menu:
     dropdown-label: Opérateurs disponibles
     label: Opérateurs
     title: Ouvrir la liste déroulante de l'opérateur
-  search:
-    close: Fermer la recherche
-    open: Ouvrir la recherche
   theme:
     switch-to-auto: Passer en mode automatique
     switch-to-dark: Passer en mode sombre
@@ -166,8 +163,7 @@ satellite:
     résidence allemande est requise pour l'inscription et l'inscription peut
     prendre quelques jours.
 search:
-  label: Rechercher dans tout le contenu de la page
-  placeholder: Rechercher
+  open-aria-label: Ouvrir la zone de recherche
 skipToContent: Aller au contenu
 support:
   text: >-
