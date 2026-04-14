@@ -1,47 +1,18 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Change the title to the name of the booking platform
-description: "" # Add a description for the booking platform
+title: "Entur Chat"
+description: "Booking information for the Entur chat."
 params:
-  classes:
-    # Define classes and prices for the corresponding reservations.
-    # Make sure that each class exists under `booking.classes` in i18n.
-    first: "X.XX€"
-    second: "X.XX€"
-  fip_50: true # Define if FIP 50 Tickets can be booked with this booking platform
-  fip_global_fare: true # Define if FIP Global Fare tickets can be booked with this booking platform
-  reservations: true # Define if reservations can be booked with this booking platform
-  booking_link: "https://example.com" # Add a link to the booking platform
-  additional_info_link: "https://example.com/additional-info" # Add a link with additional information
-  type: "onsite" # Accepted types are: website, onsite, phone, email, socialmedia and machine
+  fip_50: true
+  reservations: true
+  booking_link: "https://om.entur.no/kontakt-oss"
+  type: "socialmedia"
 ---
 
-{{% booking-section "fip_50" %}}
+FIP 50 Tickets and reservations can be booked via the online chat.
 
-## FIP 50 Tickets
+**Opening hours:**
 
-<!--
-    Explain the steps for booking FIP 50 Tickets with this booking platform.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## FIP Global Fare
-
-<!--
-    Explain the steps for booking FIP Global Fares with this booking platform.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Reservations
-
-<!--
-    Explain the steps for booking reservations with this booking platform.
--->
-
-{{% /booking-section %}}
+- Monday to Friday: 07:00 – 23:00 (CET)
+- Saturday: 08:00 – 21:00 (CET)
+- Sunday: 09:00 – 23:00 (CET)

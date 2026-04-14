@@ -1,47 +1,18 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | title }}" # Remplacez le titre par le nom de la plateforme de réservation
-description: "" # Complète une description pour la plateforme de réservation
+title: "Entur Chat"
+description: "Informations de réservation pour le chat Entur."
 params:
-  classes:
-    # Définissez les classes et les tarifs correspondants aux réservations.
-    # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "X,XX€"
-    second: "X,XX€"
-  fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
-  reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-  booking_link: "https://example.com" # Ajoutez un lien vers la plateforme de réservation
-  additional_info_link: "https://example.com/additional-info" # Ajoutez un lien vers des informations supplémentaires
-  type: "onsite" # Types acceptés : website, onsite, phone, email, socialmedia et machine
+  fip_50: true
+  reservations: true
+  booking_link: "https://om.entur.no/kontakt-oss"
+  type: "socialmedia"
 ---
 
-{{% booking-section "fip_50" %}}
+Les Billets FIP 50 et les réservations peuvent être réservés via le chat en ligne.
 
-## Billets FIP 50
+**Horaires d’ouverture :**
 
-<!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "fip_global_fare" %}}
-
-## Tarif Global FIP
-
-<!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
-
-{{% booking-section "reservations" %}}
-
-## Réservations
-
-<!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
--->
-
-{{% /booking-section %}}
+- Lundi à vendredi : 07:00 – 23:00 (CET)
+- Samedi : 08:00 – 21:00 (CET)
+- Dimanche : 09:00 – 23:00 (CET)

@@ -4,57 +4,52 @@ title: "Norway"
 country: "norway"
 params:
   operators_without_fip:
-    - Flåmsbana between Myrdal and Flåm
-    - Ofoten Line between Narvik and Bjørnfjell
+    - Arctic Train
+    - Flåm Railway
     - Flytoget Airport Express
-    - SJ
+    - SJ Sverige
 ---
-
-<!-- Remove the WIP snippet if the page is complete -->
-
-{{< wip >}}
 
 ## FIP Information
 
-<!--
-    A short summary text that should answer the following questions in this order:
-    - Which FIP Tickets (FIP 50/FIP Coupon tickets) are recognized in the country and by which railway operator?
-    - What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
-    - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
--->
+In Norway, FIP can be used on the public passenger rail services of the railway undertakings commissioned by the state.
+The traffic packages are awarded in tendering procedures by the Norwegian Ministry of Transport and Communications.
 
-{{< identify-operator sources="" >}}
+Vy Group AS is printed on the FIP Card and the FIP Coupons, but travel is possible on the trains of the operators Vy Tog, SJ Nord and Go-Ahead Nordic.
+Details can be found on the [operator page](/operator/vy).
+
+{{< identify-operator sources="entur-website,db-website" >}}
 {{< /identify-operator >}}
 
 ## Interesting
 
-<!--
-    A short section about the general train situation in the country. The following topics can be covered, for example:
-    - State of the railway network
-    - Important connections
-    - Quality and condition of the trains
-    - Punctuality
-    - Frequency
-    - Special trains/routes/lines
-    - Beautiful train stations
--->
+The Norwegian railway network is rather small by international comparison, but it is technically well maintained and exceptionally scenic. The focus is on long main routes between Oslo and the most important regions. Important lines include the Bergen Line, Dovre Line, Sørland Line and the Nordland Line to Bodø.
+
+The trains are predominantly modern, clean and comfortable, although the standard on long-distance routes is higher than in regional transport. Frequencies are usually lower outside the greater Oslo area. Punctuality is generally considered good, but can be limited due to weather conditions such as snow, storms or avalanche risk.
+
+Particularly noteworthy are the scenically spectacular routes with fjords, high mountains and numerous tunnels, as well as several architecturally striking railway stations, especially along the newer extensions in the Oslo area.
+
+The state-owned company _Entur_ plays a central role in public transport in Norway. Timetables can be checked and tickets for all public transport in Norway can be booked via the website and app.
 
 ## Arrival and Border Points
 
-<!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
--->
-
 {{% expander "Border Points" border %}}
 
-| Country | Border Points |
-| ------- | ------------- |
+| Country     | Border Points                                                                            |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| Sweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Kongsvinger (Charlottenberg (Gr)), Storlien (Gr) |
 
 {{% /expander %}}
 
-### <Country Name>
+### Sweden
 
-<!--
-  Which routes can be used from the respective country?
-  What tips & recommendations are there for entry from the country
--->
+Entry from Sweden is possible on the following routes:
+
+- Gothenburg – Halden – Oslo
+- Stockholm – Karlstad – Kongsvinger – Oslo
+- Luleå – Narvik
+- Storlien – Trondheim
+
+FIP is valid across the border only on the Storlien – Trondheim route.
+
+On the routes via Halden and Kongsvinger, FIP is valid only on the Norwegian section; an additional SJ ticket is required for the Swedish section, as FIP is not accepted there. In addition, on the route via Kongsvinger, FIP is recognized only when using trains operated by Vy Tog Norge, but not on trains of Vy Tåg Sverige or SJ Sverige.
