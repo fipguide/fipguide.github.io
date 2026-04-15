@@ -104,23 +104,6 @@
     U+2215, U+FEFF, U+FFFD;
 }
 
-/* material-symbols-rounded-latin-400-normal */
-@font-face {
-  font-family: "Material Symbols Rounded";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src:
-    url(@fontsource/material-symbols-rounded/files/material-symbols-rounded-latin-400-normal.woff2)
-      format("woff2"),
-    url(@fontsource/material-symbols-rounded/files/material-symbols-rounded-latin-400-normal.woff)
-      format("woff");
-  unicode-range:
-    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
-    U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
-    U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
 body,
 button {
   font-family: var(--font-family);
@@ -128,22 +111,16 @@ button {
   hyphens: auto;
 }
 
-.material-symbols-rounded::before {
-  content: attr(data-icon);
-  font-family: "Material Symbols Rounded";
-  font-weight: normal;
-  font-style: normal;
+.a-icon {
   display: inline-block;
   font-size: 2rem;
-  line-height: 1;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-  vertical-align: text-bottom;
-  text-decoration: none;
   width: 1em;
   height: 1em;
+  aspect-ratio: 1 / 1;
+  line-height: 1;
+  vertical-align: text-bottom;
+  text-decoration: none;
   user-select: none;
+  background-color: currentColor;
+  mask: var(--icon-url) no-repeat center / contain;
 }
