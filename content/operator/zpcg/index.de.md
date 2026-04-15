@@ -6,110 +6,101 @@ country:
 operator: "zpcg"
 ---
 
-ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.[^1]
+ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.
 
 ## Zusammenfassung
 
-- FIP 50 Tickets und FIP Freifahrtscheine werden akzeptiert.[^1]
-- FIP-ermäßigte Fahrkarten können im Zug gekauft werden, dabei fällt in der Regel ein Aufpreis an.[^1]
-- Bei internationalen Schlafwagenreservierungen fällt eine Servicegebühr von 10 % an.[^1]
-- Fahrten mit Schienenersatzverkehr sind mit FIP möglich; sonstige Busverkehre von ŽPCG sind ausgenommen.[^1]
+- FIP 50 Tickets und FIP Freifahrtscheine werden akzeptiert.
+- Es werden nationale Fahrten sowie internationale Nachtzugverbindungen von/nach Serbien angeboten.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
-{{< fip-validity type="fip-global-fare" status="valid" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
-Laut RDG gelten ŽPCG-FIP Freifahrtscheine auf dem eigenen Netz bis zum Grenzpunkt Bijelo Polje (Gr) in Richtung Serbien.[^1]
-
-Für Züge mit Globalpreisen müssen Inhaber von FIP Freifahrtscheinen einen Zuschlag zahlen. Für Inhaber eines FIP Ausweises wird die FIP-Ermäßigung auf Globalpreistickets angewendet.[^1]
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽPCG gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
 {{% train-category
-    id="binnenverkehr"
-    title="Binnenverkehr"
+    id="national"
+    title="Nationaler Tagzug"
     type="regional"
     fip_accepted=true
     reservation_required=false
 %}}
-ŽPCG betreibt den inländischen Personenverkehr insbesondere auf den Relationen Bar - Podgorica - Bijelo Polje sowie Podgorica - Nikšić.[^2][^3][^4]
+Die ŽPCG betreibt Regionalzüge im Binnenverkehr, welche ausschließlich die zweite Klasse führen.
+Die Züge haben keine Linienbezeichnungen, sondern führen ausschließlich eine Zugnummer.
+
+Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticketpreise](https://zpcg.me/en/lokalni-prevoz/cijene) gewährt.
 
 #### Strecken im Linienverkehr
 
-- Bar - Podgorica - Bijelo Polje
-- Podgorica - Nikšić
+- Bar – Podgorica – Bijelo Polje
+- Podgorica – Nikšić
 
 {{% /train-category %}}
 
 {{% train-category
     id="international"
-    title="Internationale Züge"
+    title="Internationaler Nachtzug"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
+    reservation_required=true
 %}}
-Die internationale Relation wird im Regelfall Richtung Serbien über Bijelo Polje genutzt. In internationalen Schlafwagenzügen fällt bei Liege-/Schlafwagenreservierungen eine zusätzliche Servicegebühr von 10 % an.[^1]
+
+Zwischen Montenegro und Serbien betreibt die ŽPCG Nachtzüge mit Sitz-, Liege- und Schlafwagen sowie (teilweise) Speisewagen.
+Diese verkehren auf der Strecke Bar – Podgorica – Bijelo Polje – Belgrad.
+
+Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticketpreise](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf) gewährt.
 
 #### Reservierung
 
-Sitzplatzreservierungen sind abhängig vom konkreten Zugangebot. Für internationale Schlafwagenreservierungen wird eine Servicegebühr von 10 % erhoben.[^1]
+Eine Reservierung ist verpflichtend. Die Kosten betragen in der ersten und zweiten Klasse 3 € pro Sitzplatz.[^1]
 
-#### Strecken im Linienverkehr
-
-- Montenegro - Serbien (über Bijelo Polje)
+Die [Kosten für Liege- und Schlafwagenreservierungen](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf) variieren je nach Wagenklasse.
+Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^2]
 
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
-### Online
-
-Für FIP-spezifische Onlinebuchungen sind derzeit keine belastbaren, einheitlichen Informationen veröffentlicht. Für verbindliche Auskünfte empfiehlt sich der Kontakt mit ŽPCG.[^2]
-
-### Telefon
-
-ŽPCG veröffentlicht zentrale Kontaktmöglichkeiten sowie Stationskontakte (u. a. Podgorica, Bar, Nikšić, Bijelo Polje) auf der eigenen Website.[^2]
-
 ### Vor Ort
 
-FIP-ermäßigte Fahrkarten und Reservierungen sollten bevorzugt am Ticketschalter gekauft werden, insbesondere vor internationalen Fahrten und bei Bedarf für Schlafwagen.[^1]
+{{% booking id="zpcg-ticket-office" /%}}
 
 ### Im Zug
 
-FIP-ermäßigte Fahrkarten können im Zug gekauft werden. Es fällt ein Aufpreis an, außer wenn die Reise an einem Bahnhof ohne Ticketschalter beginnt.[^1]
+FIP-ermäßigte Fahrkarten können im Zug gekauft werden. Es fällt ein Aufpreis von 1 € an, wenn die Reise an einem Bahnhof mit Ticketschalter beginnt (Bar, Sutomore, Podgorica, Nikšić, and Bijelo Polje).[^3]
 
 ## Ermäßigungen
 
-Bei öffentlichen Tarifen reisen Kinder bis 6 Jahre kostenlos. Kinder bis 14 Jahre erhalten 50 % Ermäßigung auf den Erwachsenentarif.[^1]
+Bei öffentlichen Tarifen reisen Kinder bis 6 Jahre kostenlos. Kinder bis 14 Jahre erhalten 50 % Ermäßigung auf den Erwachsenentarif. Kinder ab 14 zahlen den Erwachsenenpreis.[^2]
 
 ## Tarifliche Besonderheiten
 
+### Busse und Schienenersatzverkehr
+
+FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^2]
+
 ### Globalpreise
 
-Bei Zügen mit Globalpreisen zahlen Inhaber von FIP Freifahrtscheinen einen Zuschlag. Für Inhaber eines FIP Ausweises wird die FIP-Ermäßigung auf den Globalpreis angewendet.[^1]
+Im Globalpreiszügen zahlen Inhaber von FIP Freifahrtscheinen einen Zuschlag. Für Inhaber eines FIP Ausweises wird eine Ermäßigung von 50 % auf den Globalpreis angewendet.[^2]
 
 ### Fahrtunterbrechung
 
-Fahrtunterbrechungen sind innerhalb der Ticketgültigkeit erlaubt.[^1]
+Fahrtunterbrechungen sind innerhalb der Ticketgültigkeit erlaubt.[^2]
 
 ### Gepäck
 
-Für Gepäck können zusätzliche Gebühren anfallen. Die Klärung soll laut RDG vor Fahrtantritt am Ticketschalter erfolgen.[^1]
-
-## Empfehlungen
-
-{{% highlight tip %}}
-Für internationale Reisen Richtung Serbien empfiehlt sich, Fahrkarte und ggf. Schlafwagenreservierung vorab am Ticketschalter zu organisieren. So lassen sich Zugangsfragen zu Aufpreisen, Globalpreisen und Reservierungsgebühren zuverlässig vor Reiseantritt klären.
-{{% /highlight %}}
+Für Gepäcktransport fallen zusätzliche Gebühren an. Erkundige dich hierfür vor Fahrtantritt am Ticketschalter vor Ort.[^2]
+Bei Reisenden mit FIP Freifahrtschein wird für die Mitnahme von Reisegepäck bis 30 kg keine Gebühr erhoben.
 
 ## Quellen
 
-[^1]: [Rail Delivery Group - Montenegro / ŽPCG FIP facilities](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
+[^1]: [ŽPCG - Internationale Ticketpreise](https://zpcg.me/en/medjunarodni-prevoz/cijene)
 
-[^2]: [ŽPCG - Željeznički prevoz Crne Gore](https://zpcg.me/)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
 
-[^3]: [Wikipedia - Belgrade-Bar railway](https://en.wikipedia.org/wiki/Belgrade%E2%80%93Bar_railway)
-
-[^4]: [Wikipedia - Nikšić-Podgorica railway](https://en.wikipedia.org/wiki/Nik%C5%A1i%C4%87%E2%80%93Podgorica_railway)
+[^3]: [ZPCG – Nationale Ticketpreise](https://zpcg.me/en/lokalni-prevoz/cijene)
