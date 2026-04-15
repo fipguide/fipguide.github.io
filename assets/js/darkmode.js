@@ -26,8 +26,10 @@
     const effectiveTheme = getEffectiveTheme(theme);
     if (effectiveTheme === DARK_THEME) {
       document.documentElement.setAttribute("data-theme", DARK_THEME);
+      document.documentElement.setAttribute("data-pf-theme", DARK_THEME);
     } else {
       document.documentElement.removeAttribute("data-theme");
+      document.documentElement.removeAttribute("data-pf-theme");
     }
   }
 

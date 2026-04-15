@@ -106,7 +106,7 @@
 
 body,
 button {
-  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-family: var(--font-family);
   word-wrap: break-word;
   hyphens: auto;
 }

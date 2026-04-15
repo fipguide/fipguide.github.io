@@ -21,7 +21,7 @@
     "@fontsource/sansita": "^5.2.8",
     "@material-symbols/svg-700": "^0.43.0",
     "@panzoom/panzoom": "^4.6.1",
-    "pagefind": "^1.4.0"
+    "pagefind": "^1.5.2"
   },
   "devDependencies": {
     "prettier": "^3.8.1",
