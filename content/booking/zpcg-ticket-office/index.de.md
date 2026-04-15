@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "ŽPCG Ticketschalter"
-description: "Buchungsinformationen für die ŽPCG."
+description: "Buchungsinformationen für die ŽPCG Ticketschalter."
 
 params:
   fip_50: true

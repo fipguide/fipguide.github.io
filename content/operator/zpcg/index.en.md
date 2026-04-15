@@ -1,12 +1,9 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | upper }}"
+title: "ŽPCG"
 country:
-  # Add the abbreviations of the countries the railway company operates in.
-  - "country1"
-  - "country2"
-  - "country3"
-operator: "{{ .File.ContentBaseName }}"
+  - "montenegro"
+operator: "zpcg"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

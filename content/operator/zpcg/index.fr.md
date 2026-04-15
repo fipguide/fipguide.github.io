@@ -1,12 +1,9 @@
 ---
 draft: false
-title: "{{ .File.ContentBaseName | upper }}"
+title: "ŽPCG"
 country:
-  # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
-  - "country1"
-  - "country2"
-  - "country3"
-operator: "{{ .File.ContentBaseName }}"
+  - "montenegro"
+operator: "zpcg"
 ---
 
 <!-- Supprimez ce message si la page est complète -->
