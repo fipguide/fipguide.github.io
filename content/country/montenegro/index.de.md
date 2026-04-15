@@ -3,55 +3,65 @@ draft: false
 title: "Montenegro"
 country: "montenegro"
 params:
-  operators_without_fip:
-    -  # Liste Betreiber, die kein FIP akzeptieren
+  operators_without_fip: []
 ---
-
-<!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
-
-{{< wip >}}
 
 ## FIP Nutzung
 
-<!--
-    Ein kurzer zusammenfassender Text, der folgende Fragen in dieser Reihenfolge beantworten sollte:
-    - Welche FIP Fahrtkarten (FIP 50/FIP Freifahrtscheine) werden im Land anerkannt und bei welchen Bahngesellschaften?
-    - Welche Besonderheiten bei der Nutzung von FIP gibt es bei den jeweiligen Bahngesellschaften? (Verlinkung zur Bahngesellschaft hinzufügen)
-    - Welche Bahngesellschaften erkennen keine FIP-Fahrkarten an und wie erkennt man diese Bahngesellschaften in der Verbindungsaufkunft?
--->
+In Montenegro ist für den Personenverkehr vor allem [ŽPCG](/operator/zpcg) relevant. Bei ŽPCG werden FIP Freifahrtscheine und FIP 50 Tickets anerkannt.[^1]
 
-{{< identify-operator sources="" >}}
+Wichtig sind die tariflichen Besonderheiten: FIP-ermäßigte Fahrkarten können auch im Zug gekauft werden (mit Aufpreis, außer bei Zustieg ohne geöffneten Ticketschalter), bei Globalpreisen gelten Zuschlagsregeln für Inhaber von FIP Freifahrtscheinen, und Schienenersatzverkehr ist mit FIP nutzbar.[^1]
+
+{{< identify-operator sources="db-website,vagonweb" >}}
+In der Praxis ist ŽPCG der zentrale Betreiber im montenegrinischen Personenverkehr.[^2]
 {{< /identify-operator >}}
 
 ## Wissenswertes
 
-<!--
-    Ein kurzer Abschnitt über die allgemeine Zugsituation im Land. Folgende Themen können bspw. behandelt werden:
-    - Ausbaustand des Bahnnetzes
-    - wichtige Verbindungen
-    - Qualität und Zustand der Züge
-    - Pünktlichkeit
-    - Taktung
-    - Besondere Züge/Strecken/Linien
-    - Schöne Bahnhöfe
--->
+Das Bahnnetz in Montenegro ist klein, aber für Reisen im Land strategisch wichtig. Die zentrale Nord-Süd-Achse ist die Belgrad-Bar-Strecke mit den wichtigsten montenegrinischen Zwischenstationen wie Bar, Podgorica und Bijelo Polje.[^3]
+
+Zusätzlich ist die Strecke Podgorica-Nikšić für den Binnenverkehr relevant. Sie bindet die zweitgrößte Stadt des Landes direkt an die Hauptstadt an.[^4]
+
+Die Verbindung Podgorica-Shkodër nach Albanien existiert, wird aktuell jedoch nur im Güterverkehr genutzt.[^5]
 
 ## Anreise und Grenzpunkte
 
-<!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
--->
-
 {{% expander "Grenzpunkte" border %}}
 
-| Land | Grenzpunkte |
-| ---- | ----------- |
+| Land         | Grenzpunkte       |
+| ------------ | ----------------- |
+| Serbien (SV) | Bijelo Polje (Gr) |
 
 {{% /expander %}}
 
-### <Name des Nachbarlandes>
+### Serbien
 
-<!--
-  Welche Routen kann man aus dem entsprechenden Land nutzen.
-  Welche Hinweise & Empfehlungen gibt es für die Einreise aus dem Land
--->
+Die wichtigste internationale Bahnrelation führt über die Belgrad-Bar-Strecke nach Serbien. Für grenzüberschreitende Fahrten im FIP-Kontext ist laut RDG der Übergang bis Bijelo Polje (Gr) auf montenegrinischer Seite relevant.[^1]
+
+### Albanien
+
+Eine grenzüberschreitende Bahnstrecke zwischen Montenegro und Albanien ist vorhanden, wird derzeit aber nur für Güterverkehr genutzt. Für Reisende besteht damit aktuell keine reguläre internationale Personenverkehrsverbindung auf der Schiene.[^5]
+
+### Bosnien und Herzegowina
+
+Zwischen Montenegro und Bosnien und Herzegowina besteht aktuell keine grenzüberschreitende Personenverkehrsverbindung auf der Schiene.
+
+### Kroatien
+
+Zwischen Montenegro und Kroatien besteht aktuell keine grenzüberschreitende Personenverkehrsverbindung auf der Schiene.
+
+### Kosovo
+
+Zwischen Montenegro und Kosovo besteht aktuell keine grenzüberschreitende Personenverkehrsverbindung auf der Schiene.
+
+## Quellen
+
+[^1]: [Rail Delivery Group - Montenegro / ŽPCG FIP facilities](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
+
+[^2]: [ŽPCG - Željeznički prevoz Crne Gore](https://zpcg.me/)
+
+[^3]: [Wikipedia - Belgrade-Bar railway](https://en.wikipedia.org/wiki/Belgrade%E2%80%93Bar_railway)
+
+[^4]: [Wikipedia - Nikšić-Podgorica railway](https://en.wikipedia.org/wiki/Nik%C5%A1i%C4%87%E2%80%93Podgorica_railway)
+
+[^5]: [Wikipedia - Podgorica-Shkodër railway](https://en.wikipedia.org/wiki/Podgorica%E2%80%93Shkod%C3%ABr_railway)
