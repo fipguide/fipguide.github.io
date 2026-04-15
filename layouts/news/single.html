@@ -15,9 +15,9 @@
                 )
               }}
               {{ if eq .Page.Type "news" }}
-                <span class="o-related__date"
-                  >{{ .Date | time.Format ":date_long" }}</span
-                >
+                <span class="o-related__date">
+                  {{ .Date | time.Format ":date_long" }}
+                </span>
               {{ end }}
             </li>
           {{ end }}

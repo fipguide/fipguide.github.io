@@ -139,7 +139,7 @@ menu > li > menu {
 
   &:hover,
   &:focus {
-    :not(.material-symbols-rounded) {
+    :not(.a-icon) {
       text-decoration: underline;
     }
     color: var(--link-hovered);
@@ -154,7 +154,7 @@ menu > li > menu {
     display: none;
   }
 
-  > .material-symbols-rounded {
+  > .a-icon {
     margin-left: 0.8rem;
     align-self: center;
     text-decoration: none;
