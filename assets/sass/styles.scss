@@ -44,7 +44,7 @@ ol {
 @mixin focus-indicator($offset) {
   &:focus,
   &:focus-visible {
-    outline: var(--outline-focus-indicator) solid 0.2rem;
+    outline: var(--outline-focus-indicator) solid 2px;
     outline-offset: $offset;
   }
 }
@@ -77,12 +77,12 @@ a,
     text-decoration: none;
     color: var(--bs-body-color);
 
-    > .material-symbols-rounded {
+    > .a-icon {
       display: none;
     }
   }
 
-  & > .material-symbols-rounded {
+  & > .a-icon {
     margin: 0 0.2rem;
   }
 }
@@ -98,27 +98,7 @@ main {
 }
 
 .o-container {
-  max-width: 1320px;
-
-  @media (max-width: #{$breakpoint-xxl}) {
-    max-width: 1140px;
-  }
-
-  @media (max-width: #{$breakpoint-xl}) {
-    max-width: 960px;
-  }
-
-  @media (max-width: #{$breakpoint-lg}) {
-    max-width: 720px;
-  }
-
-  @media (max-width: #{$breakpoint-md}) {
-    max-width: 540px;
-  }
-
-  @media (max-width: #{$breakpoint-sm}) {
-    max-width: calc(100vw - 3.2rem);
-  }
+  max-width: var(--container-max-width);
 
   @media print {
     max-width: 100%;
@@ -201,10 +181,6 @@ figure {
     gap: 1rem;
     align-items: center;
   }
-}
-
-.o-related__date {
-  margin-left: 2.4rem;
 }
 
 .o-list__list {
@@ -390,12 +366,6 @@ figure {
   border: none;
 }
 
-.pagefind-highlight {
-  padding: 0;
-  background-color: var(--bg-accent);
-  color: black;
-}
-
 .sr-only {
   opacity: 0;
   position: absolute;
@@ -437,7 +407,7 @@ details > summary {
 
 .o-link__mail,
 .o-link__tel {
-  & > .material-symbols-rounded {
+  & > .a-icon {
     margin-right: 0.4rem;
   }
 }

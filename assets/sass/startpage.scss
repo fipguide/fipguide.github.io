@@ -45,6 +45,10 @@
   gap: 2rem;
   margin-bottom: 2rem;
 
+  @media (max-width: #{$breakpoint-xl}) {
+    grid-template-columns: 1fr 1fr 1fr 1fr 2fr;
+  }
+
   @media (max-width: #{$breakpoint-lg}) {
     display: flex;
     gap: 1rem;
@@ -81,6 +85,7 @@
 
 .o-startpage__search {
   margin-bottom: 2rem;
+  height: 6rem;
   width: 100%;
 
   @media print {
