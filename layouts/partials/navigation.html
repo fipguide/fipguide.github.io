@@ -1,8 +1,8 @@
 <div class="o-header__item--mobile">
-  {{ partial "theme-toggle-button" }}
+  {{ partial "search-button-mobile" }}
 </div>
 <div class="o-header__item--mobile">
-  {{ partial "search-button" }}
+  {{ partial "theme-toggle-button" }}
 </div>
 <button
   class="o-nav__menu-button"
@@ -122,16 +122,21 @@
       </menu>
     </li>
     <li class="o-header__item o-header__item--desktop">
-      <menu>
+      <menu class="o-header__utility-menu">
         <li
-          class="o-header__item o-header__item--button o-header__item--desktop"
+          class="o-header__item o-header__item--button o-header__item--desktop o-header__item--desktop-search-icon"
         >
-          {{ partial "theme-toggle-button" }}
+          {{ partial "search-button-mobile" }}
+        </li>
+        <li
+          class="o-header__item o-header__item--button o-header__item--desktop o-header__item--desktop-search"
+        >
+          {{ partial "search-button" }}
         </li>
         <li
           class="o-header__item o-header__item--button o-header__item--desktop"
         >
-          {{ partial "search-button" }}
+          {{ partial "theme-toggle-button" }}
         </li>
       </menu>
     </li>
