@@ -1,11 +1,15 @@
 .o-booking__header-content {
   display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
-  gap: 2rem;
+  grid-template-columns: 2fr 1fr;
+  gap: 0.8rem;
   width: 100%;
 
   &:not(:has(.o-booking__classes)) {
-    grid-template-columns: 1.5fr 2fr;
+    margin-right: 2rem;
+  }
+
+  &:has(> :only-child) {
+    grid-template-columns: 1fr;
     margin-right: 2rem;
   }
 
@@ -26,18 +30,15 @@
 
 .o-booking__classes {
   display: flex;
-  align-items: flex-start;
-  justify-content: center;
   align-items: center;
-  flex-direction: column;
-  text-align: center;
+  gap: 0.4rem;
+  grid-column: 1 / -1;
+  flex-wrap: wrap;
   > p {
     margin-bottom: 0rem;
   }
 
   @media (max-width: #{$breakpoint-md}) {
-    align-items: flex-start;
-
     &:empty {
       display: none;
     }
@@ -46,7 +47,13 @@
 
 .o-booking__classes-title {
   font-size: 1.6rem;
-  font-style: italic;
+  flex-basis: 100%;
+}
+
+.o-booking__classes-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
 }
 
 .o-booking__title-wrapper {
@@ -69,18 +76,16 @@
 
 .o-booking__subtitle {
   font-weight: 400;
-  font-style: italic;
   font-size: 1.4rem;
 }
 
 .o-booking__meta {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.4rem;
 
   @media (max-width: #{$breakpoint-md}) {
-    align-items: flex-start;
-
     &:empty {
       display: none;
     }
