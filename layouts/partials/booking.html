@@ -12,53 +12,37 @@
             {{- .subtitle -}}
           </div>
         {{- end }}
-      </div>
-      <div class="o-booking__meta">
-        {{- $metaFields := slice
-          (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
-          (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
-          (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
-          (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
-        -}}
-        {{- range $metaFields -}}
-          {{- if ne .value "nil" -}}
-            {{- if .value -}}
-              <div
-                class="o-booking__meta-item o-booking__meta-item--success"
-                aria-label="{{ T .label }} {{ T "booking.bookable" }}"
-              >
-                {{- partial "icon" "check_circle" -}}
-                <span aria-hidden="true">{{- T .label -}}</span>
-              </div>
-            {{- else -}}
-              <div
-                class="o-booking__meta-item o-booking__meta-item--error"
-                aria-label="{{ T .label }} {{ T "booking.not-bookable" }}"
-              >
-                {{- partial "icon" "cancel" -}}
-                <span aria-hidden="true">{{- T .label -}}</span>
-              </div>
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-      </div>
-      {{- if or (and (ne .reservations "nil") (ne .reservations false) .classes) (ne .fee "nil") -}}
-        <div class="o-booking__classes">
-          {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
-            <span class="o-booking__classes-title"
-              >{{ T "booking.reservation-costs" }}</span
-            >
-            {{- range $k, $v := .classes -}}
-              <div>
-                <strong>{{- T (print "booking.classes." $k) -}}:</strong>
-                {{ $v -}}
-              </div>
+        <div class="o-booking__meta">
+          {{- $metaFields := slice
+            (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
+            (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
+            (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
+            (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
+          -}}
+          {{- range $metaFields -}}
+            {{- if ne .value "nil" -}}
+              {{- if .value -}}
+                {{- partial "tag" (dict "Icon" "check_circle" "Text" .label "Type" "success") -}}
+              {{- else -}}
+                {{- partial "tag" (dict "Icon" "cancel" "Text" .label "Type" "error") -}}
+              {{- end -}}
             {{- end -}}
           {{- end -}}
           {{- if ne .fee "nil" -}}
-            <span class="o-booking__classes-title">{{ T "booking.fee" }}</span>
-            <div>{{ .fee }}</div>
+            {{- partial "tag" (dict "Icon" "payments" "RawText" .fee "Type" "info") -}}
           {{- end -}}
+        </div>
+      </div>
+      {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
+        <div class="o-booking__classes">
+          <span class="o-booking__classes-title"
+            >{{ T "booking.reservation-costs" }}:</span
+          >
+          <div class="o-booking__classes-tags">
+            {{- range $k, $v := .classes -}}
+              {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T (print "booking.classes." $k)) ": " $v) "Type" "info") -}}
+            {{- end -}}
+          </div>
         </div>
       {{- end -}}
     </div>
