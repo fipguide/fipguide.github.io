@@ -1,0 +1,86 @@
+<div class="o-expander-filter" data-filter-for="train-category">
+  <div class="o-expander-filter__groups">
+    <div
+      class="o-expander-filter__group"
+      role="group"
+      aria-label="{{ i18n "expanderFilter.fip.label" }}"
+    >
+      {{- $fipFilters := slice
+        (dict "value" "accepted" "icon" "check_circle" "type" "success" "text" "trainCategory.acceptance.accepted")
+        (dict "value" "partially" "icon" "info" "type" "warning" "text" "trainCategory.acceptance.partiallyAccepted")
+        (dict "value" "not-accepted" "icon" "cancel" "type" "error" "text" "trainCategory.acceptance.notAccepted")
+      -}}
+      {{- range $fipFilters -}}
+        <button
+          class="a-tag a-tag--{{ .type }} a-tag--interactive"
+          data-filter-key="fip"
+          data-filter-value="{{ .value }}"
+          aria-pressed="false"
+        >
+          {{- partial "icon" .icon -}}
+          <span class="a-tag__text">{{- i18n .text -}}</span>
+        </button>
+      {{- end -}}
+    </div>
+    <div
+      class="o-expander-filter__group"
+      role="group"
+      aria-label="{{ i18n "expanderFilter.reservation.label" }}"
+    >
+      {{- $reservationFilters := slice
+        (dict "value" "required" "icon" "calendar_add_on" "type" "error" "text" "trainCategory.reservation.required")
+        (dict "value" "partially-required" "icon" "calendar_add_on" "type" "warning" "text" "trainCategory.reservation.partiallyRequired")
+        (dict "value" "possible" "icon" "calendar_check" "type" "info" "text" "trainCategory.reservation.possible")
+        (dict "value" "partially-possible" "icon" "calendar_lock" "type" "info" "text" "trainCategory.reservation.partiallyPossible")
+        (dict "value" "not-possible" "icon" "calendar_lock" "type" "info" "text" "trainCategory.reservation.notPossible")
+      -}}
+      {{- range $reservationFilters -}}
+        <button
+          class="a-tag a-tag--{{ .type }} a-tag--interactive"
+          data-filter-key="reservation"
+          data-filter-value="{{ .value }}"
+          aria-pressed="false"
+        >
+          {{- partial "icon" .icon -}}
+          <span class="a-tag__text">{{- i18n .text -}}</span>
+        </button>
+      {{- end -}}
+    </div>
+    <div
+      class="o-expander-filter__group"
+      role="group"
+      aria-label="{{ i18n "expanderFilter.type.label" }}"
+    >
+      {{- $typeFilters := slice
+        (dict "value" "highspeed" "icon" "train" "text" "expanderFilter.type.highspeed")
+        (dict "value" "regional" "icon" "directions_subway" "text" "expanderFilter.type.regional")
+        (dict "value" "subway" "icon" "subway" "text" "expanderFilter.type.subway")
+        (dict "value" "sleeper" "icon" "hotel" "text" "expanderFilter.type.sleeper")
+        (dict "value" "funicular" "icon" "funicular" "text" "expanderFilter.type.funicular")
+        (dict "value" "bus" "icon" "directions_bus" "text" "expanderFilter.type.bus")
+        (dict "value" "ship" "icon" "directions_boat" "text" "expanderFilter.type.ship")
+        (dict "value" "tram" "icon" "tram" "text" "expanderFilter.type.tram")
+      -}}
+      {{- range $typeFilters -}}
+        <button
+          class="a-tag a-tag--info a-tag--interactive"
+          data-filter-key="type"
+          data-filter-value="{{ .value }}"
+          aria-pressed="false"
+        >
+          {{- partial "icon" .icon -}}
+          <span class="a-tag__text">{{- i18n .text -}}</span>
+        </button>
+      {{- end -}}
+    </div>
+  </div>
+  <div class="o-expander-filter__footer">
+    <button class="o-expander-filter__reset" hidden>
+      {{- partial "icon" "filter_alt_off" -}}
+      <span>{{- i18n "expanderFilter.reset" -}}</span>
+    </button>
+    <p class="o-expander-filter__no-results" hidden>
+      {{- i18n "expanderFilter.noResults" -}}
+    </p>
+  </div>
+</div>

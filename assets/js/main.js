@@ -8,6 +8,7 @@ import "./anchorlinks.js";
 import "./dropdown.js";
 import "./interactiveMap.js";
 import "./expander.js";
+import "./expander-filter.js";
 import "./dialog.js";
 import "./fipValidityComparison.js";
 import "./search.js";

@@ -1,0 +1,71 @@
+<div class="o-expander-filter" data-filter-for="booking">
+  <div class="o-expander-filter__groups">
+    <div
+      class="o-expander-filter__group"
+      role="group"
+      aria-label="{{ i18n "expanderFilter.type.label" }}"
+    >
+      {{- $typeFilters := slice
+        (dict "value" "website" "icon" "computer" "text" "expanderFilter.type.website")
+        (dict "value" "phone" "icon" "call" "text" "expanderFilter.type.phone")
+        (dict "value" "onsite" "icon" "person" "text" "expanderFilter.type.onsite")
+        (dict "value" "email" "icon" "mail" "text" "expanderFilter.type.email")
+        (dict "value" "machine" "icon" "confirmation_number" "text" "expanderFilter.type.machine")
+        (dict "value" "socialmedia" "icon" "add_reaction" "text" "expanderFilter.type.socialmedia")
+      -}}
+      {{- range $typeFilters -}}
+        <button
+          class="a-tag a-tag--info a-tag--interactive"
+          data-filter-key="type"
+          data-filter-value="{{ .value }}"
+          aria-pressed="false"
+        >
+          {{- partial "icon" .icon -}}
+          <span class="a-tag__text">{{- i18n .text -}}</span>
+        </button>
+      {{- end -}}
+    </div>
+    <div
+      class="o-expander-filter__group"
+      role="group"
+      aria-label="{{ i18n "expanderFilter.features.label" }}"
+    >
+      <button
+        class="a-tag a-tag--success a-tag--interactive"
+        data-filter-key="fip50"
+        data-filter-value="true"
+        aria-pressed="false"
+      >
+        {{- partial "icon" "check_circle" -}}
+        <span class="a-tag__text">{{- i18n "booking.fip-50" -}}</span>
+      </button>
+      <button
+        class="a-tag a-tag--success a-tag--interactive"
+        data-filter-key="fipglobalfare"
+        data-filter-value="true"
+        aria-pressed="false"
+      >
+        {{- partial "icon" "check_circle" -}}
+        <span class="a-tag__text">{{- i18n "booking.fip-global-fare" -}}</span>
+      </button>
+      <button
+        class="a-tag a-tag--success a-tag--interactive"
+        data-filter-key="reservations"
+        data-filter-value="true"
+        aria-pressed="false"
+      >
+        {{- partial "icon" "check_circle" -}}
+        <span class="a-tag__text">{{- i18n "booking.reservation" -}}</span>
+      </button>
+    </div>
+  </div>
+  <div class="o-expander-filter__footer">
+    <button class="o-expander-filter__reset" hidden>
+      {{- partial "icon" "filter_alt_off" -}}
+      <span>{{- i18n "expanderFilter.reset" -}}</span>
+    </button>
+    <p class="o-expander-filter__no-results" hidden>
+      {{- i18n "expanderFilter.noResults" -}}
+    </p>
+  </div>
+</div>

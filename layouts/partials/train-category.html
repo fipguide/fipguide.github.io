@@ -1,7 +1,25 @@
+{{- $fipValue := "not-accepted" -}}
+{{- if eq .fip_accepted true -}}{{- $fipValue = "accepted" -}}{{- end -}}
+{{- if eq .fip_accepted "partially" -}}
+  {{- $fipValue = "partially" -}}
+{{- end -}}
+{{- $reservationValue := "not-possible" -}}
+{{- if eq .reservation_required true -}}
+  {{- $reservationValue = "required" -}}
+{{- else if eq .reservation_required "partially" -}}
+  {{- $reservationValue = "partially-required" -}}
+{{- else if eq .reservation_possible true -}}
+  {{- $reservationValue = "possible" -}}
+{{- else if eq .reservation_possible "partially" -}}
+  {{- $reservationValue = "partially-possible" -}}
+{{- end -}}
 <details
   class="o-expander o-expander--train-category"
   name="train-category"
   id="{{ .id }}"
+  data-filter-type="{{ .type }}"
+  data-filter-fip="{{ $fipValue }}"
+  data-filter-reservation="{{ $reservationValue }}"
 >
   <summary class="o-expander__summary o-expander__summary--train-category">
     <div class="o-train-category__header">

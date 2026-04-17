@@ -25,6 +25,8 @@ Pour les trajets transfrontaliers, il faut soit un billet FIP 50 continu, soit d
 
 Il n’existe pas d’obligation de réservation, sauf sur certaines liaisons transfrontalières pour le passage de frontière. Les trajets uniquement en Allemagne ne nécessitent pas de réservation.
 
+{{< train-category-filter >}}
+
 ### Longue distance
 
 {{% train-category
@@ -244,6 +246,8 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
 ## Achat de billets et réservations
 
 ### En ligne
+
+{{< booking-filter >}}
 
 {{% booking id="db-website" %}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.

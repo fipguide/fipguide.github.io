@@ -19,7 +19,36 @@
   "classes" $classes
 -}}
 
-
-<details class="o-expander o-expander--booking">
+{{- $fip50attr := "nil" -}}
+{{- if ne $params.fip_50 "nil" -}}
+  {{- if $params.fip_50 -}}
+    {{- $fip50attr = "true" -}}
+  {{- else -}}
+    {{- $fip50attr = "false" -}}
+  {{- end -}}
+{{- end -}}
+{{- $fipGlobalFareAttr := "nil" -}}
+{{- if ne $params.fip_global_fare "nil" -}}
+  {{- if $params.fip_global_fare -}}
+    {{- $fipGlobalFareAttr = "true" -}}
+  {{- else -}}
+    {{- $fipGlobalFareAttr = "false" -}}
+  {{- end -}}
+{{- end -}}
+{{- $reservationsAttr := "nil" -}}
+{{- if ne $params.reservations "nil" -}}
+  {{- if $params.reservations -}}
+    {{- $reservationsAttr = "true" -}}
+  {{- else -}}
+    {{- $reservationsAttr = "false" -}}
+  {{- end -}}
+{{- end -}}
+<details
+  class="o-expander o-expander--booking"
+  data-filter-type="{{ $page.Params.type }}"
+  data-filter-fip50="{{ $fip50attr }}"
+  data-filter-fipglobalfare="{{ $fipGlobalFareAttr }}"
+  data-filter-reservations="{{ $reservationsAttr }}"
+>
   {{- partial "booking" $params -}}
 </details>

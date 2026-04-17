@@ -46,6 +46,31 @@ dialog:
 discord: FIP Guide Community
 donation: Spenden
 editPage: Seite bearbeiten
+expanderFilter:
+  features:
+    label: Merkmale
+  fip:
+    label: FIP Akzeptanz
+  noResults: Keine Ergebnisse für die gewählten Filter.
+  reservation:
+    label: Reservierung
+  reset: Filter zurücksetzen
+  type:
+    bus: Bus
+    email: E-Mail
+    funicular: Standseilbahn
+    highspeed: Hochgeschwindigkeitszug
+    label: Typ
+    machine: Fahrkartenautomat
+    onsite: Vor Ort
+    phone: Telefon
+    regional: Regionalzug
+    ship: Schiff
+    sleeper: Nachtzug
+    socialmedia: Social Media
+    subway: U-Bahn / Metro
+    tram: Straßenbahn
+    website: Website
 fipValidity:
   active: Aktive Mitarbeitende
   active-relatives: Angehörige aktiver Mitarbeitender

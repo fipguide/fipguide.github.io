@@ -25,6 +25,8 @@ For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for 
 
 There is no reservation requirement except for certain cross-border connections at border crossings. Journeys within Germany do not require a reservation.
 
+{{< train-category-filter >}}
+
 ### Long-Distance
 
 {{% train-category
@@ -244,6 +246,8 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
 ## Ticket and Reservation Purchase
 
 ### Online
+
+{{< booking-filter >}}
 
 {{% booking id="db-website" %}}
 Reservation for individual trains without transfer is cheaper via ÖBB.

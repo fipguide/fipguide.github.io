@@ -45,6 +45,31 @@ dialog:
 discord: Communauté FIP Guide
 donation: Donation
 editPage: Modifier la page
+expanderFilter:
+  features:
+    label: Fonctionnalités
+  fip:
+    label: Acceptation FIP
+  noResults: Aucun résultat pour les filtres sélectionnés.
+  reservation:
+    label: Réservation
+  reset: Réinitialiser les filtres
+  type:
+    bus: Bus
+    email: E-mail
+    funicular: Funiculaire
+    highspeed: Train grande vitesse
+    label: Type
+    machine: Distributeur de billets
+    onsite: En gare
+    phone: Téléphone
+    regional: Train régional
+    ship: Bateau
+    sleeper: Train de nuit
+    socialmedia: Réseaux sociaux
+    subway: Métro
+    tram: Tramway
+    website: Site Web
 fipValidity:
   active: Employés actifs
   active-relatives: Ayants droit des employés actifs

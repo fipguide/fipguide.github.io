@@ -25,6 +25,8 @@ Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticke
 
 Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreitenden Verbindungen für Grenzübertritte. Fahrten, die nur in Deutschland stattfinden, benötigen keine Reservierung.
 
+{{< train-category-filter >}}
+
 ### Fernverkehr
 
 {{% train-category
@@ -243,6 +245,8 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 ## Ticket- und Reservierungskauf
 
 ### Online
+
+{{< booking-filter >}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
