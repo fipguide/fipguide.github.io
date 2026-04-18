@@ -35,9 +35,9 @@ Das staatliche Unternehmen _Entur_ spielt eine zentrale Rolle im öffentlichen V
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land          | Grenzpunkte                                                                               |
-| ------------- | ----------------------------------------------------------------------------------------- |
-| Schweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien (Gr) |
+| Land          | Grenzpunkte                                                                          |
+| ------------- | ------------------------------------------------------------------------------------ |
+| Schweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien |
 
 {{% /expander %}}
 
@@ -50,6 +50,10 @@ Die Einreise aus Schweden ist auf den folgenden Routen möglich:
 - Luleå – Narvik
 - Storlien – Trondheim
 
-Nur auf der Route Storlien – Trondheim ist FIP grenzüberschreitend gültig.
+Nur auf der Route Storlien – Trondheim ist FIP grenzüberschreitend gültig. [^1]
 
 Auf den Strecke via Halden und Kongsvinger ist FIP nur auf dem norwegischen Abschnitt gültig, für den schwedischen Abschnitt ist ein zusätzliches Ticket der SJ erforderlich, da FIP hier nicht anerkannt wird. Zusätzlich wird FIP auf der Strecke via Kongsvinger nur bei Nutzung von Zügen von Vy Tog Norge anerkannt, nicht jedoch bei Zügen von Vy Tåg Sverige oder SJ Sverige.
+
+## Quellen
+
+[^1]: [Feedback: FIP in Norway: R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
