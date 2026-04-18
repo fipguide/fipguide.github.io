@@ -22,8 +22,8 @@ An Fahrkartenautomaten der SBB dürfen FIP 50 Tickets mit "50% Halbtax" Rabatt g
 Unter anderem in städtischen Gebieten kann eine Fahrkarte mit Halbtax Rabatt auch Verkehrsmittel von Betreibern enthalten, die kein FIP akzeptieren (z. B. Straßenbahnen oder Busse). Diese Abschnitte können mit FIP nicht genutzt werden und das erworbene Ticket ist dort ohne Halbtax-Abo nicht gültig.
 {{% /highlight %}}
 
-{{% /booking-section %}}
-
-## Quellen
+### Quellen
 
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
+
+{{% /booking-section %}}

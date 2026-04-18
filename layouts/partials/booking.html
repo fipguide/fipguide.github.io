@@ -86,7 +86,8 @@
         class="o-single__content o-booking__section o-booking__section-{{ $sectionName }}"
       >
         {{- $sectionContent := index $section "content" -}}
-        {{- partial "booking/section-rendering" (dict "content" $sectionContent "prefix" $.page.File.ContentBaseName) -}}
+        {{- $sectionFootnotePrefix := print $.page.File.ContentBaseName "-" $sectionName -}}
+        {{- partial "booking/section-rendering" (dict "content" $sectionContent "headingPrefix" $.page.File.ContentBaseName "footnotePrefix" $sectionFootnotePrefix) -}}
       </div>
     {{- end -}}
 
