@@ -1,3 +1,4 @@
-<div class="o-booking__section o-booking__section-{{ .Get 0 }}">
-  {{ .Inner }}
-</div>
+{{- $content := .Inner | .Page.RenderString -}}
+{{- $sections := .Page.Store.Get "booking_sections" | default (slice) -}}
+{{- $sections = $sections | append (dict "name" (.Get 0) "content" $content) -}}
+{{- .Page.Store.Set "booking_sections" $sections -}}
