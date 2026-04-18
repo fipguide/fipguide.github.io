@@ -73,7 +73,7 @@
     </div>
   {{- end -}}
   {{- $content := .page.Content -}}
-  <div class="o-single__content o-booking__section">
+  <div class="o-single__content o-booking__sections">
     {{- partial "booking/section-rendering" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
     {{- $sections := .page.Store.Get "booking_sections" | default (slice) -}}
     {{- range $section := $sections -}}

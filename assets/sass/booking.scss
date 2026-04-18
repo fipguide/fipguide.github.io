@@ -128,3 +128,9 @@
 .o-booking__info {
   margin-bottom: 1.5rem;
 }
+
+.o-booking__sections {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
