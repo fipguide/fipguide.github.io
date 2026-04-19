@@ -318,4 +318,4 @@ The Ofoten Line between Narvik and Bjørnfjell is excluded from FIP Discounts.[^
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
 
-[^3]: Inquiry by the FIP Guide team via email to Entur
+[^3]: [Feedback: FIP in Norway: R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)

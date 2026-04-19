@@ -318,4 +318,4 @@ Die Ofotbanen zwischen Narvik und Bjørnfjell ist von FIP Vergünstigungen ausge
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
 
-[^3]: Anfrage des FIP Guide Teams per E-Mail bei Entur
+[^3]: [Feedback: FIP in Norway: R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
