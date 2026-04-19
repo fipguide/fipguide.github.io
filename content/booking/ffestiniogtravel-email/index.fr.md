@@ -3,17 +3,20 @@ draft: false
 title: "Ffestiniog Travel e-mail"
 description: "Informations de réservation pour la réservation par e-mail auprès de Ffestiniog Travel."
 params:
-  fee: 5,00 £
+  fee: 12 % (min. 5,00 £, max. 60,00 £)
+  fip_50: true
   fip_global_fare: true
   type: "email"
 ---
 
 Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.
-Sur demande, le personnel établit l’offre adaptée au voyage.
+Les exceptions sont la France (SNCF) et la Norvège (Vy Group).
 
-La demande doit être envoyée en anglais à l’adresse e-mail suivante : [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk)
+Sur demande, le personnel établit l'offre adaptée au voyage :
 
-Actuellement, nous savons que des billets au Tarif Global FIP pour Eurostar peuvent être émis.
+- La demande doit être envoyée en anglais à l'adresse e-mail suivante : [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk)
+- Initialement, une photo de votre Carte FIP (ou Staff Travel Card pour Safeguarded) doit être envoyée.
+- **Des frais de réservation de 12 % de la valeur de la réservation s'appliquent (minimum 5,00 £, maximum 60,00 £).**
 
 {{% booking-section "fip_global_fare" %}}
 

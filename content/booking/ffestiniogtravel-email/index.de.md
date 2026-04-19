@@ -3,22 +3,25 @@ draft: false
 title: "Ffestiniog Travel E-Mail"
 description: "Buchungsinformationen für die Buchung per E-Mail bei Ffestiniog Travel."
 params:
-  fee: 5,00 £
+  fee: 12 % (min. 5,00 £, max. 60,00 £)
+  fip_50: true
   fip_global_fare: true
   type: "email"
 ---
 
 Ffestiniog Travel hat direkten Zugriff auf die Buchungssysteme vieler Bahnbetreiber und kann Tickets für viele Züge in Europa anbieten.
-Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise.
+Ausnahmen sind Frankreich (SNCF) und Norwegen (Vy Group).
 
-Die Anfrage ist auf englisch an folgende E-Mail-Adresse zu richten: [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk)
+Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 
-Derzeit ist uns bekannt, dass FIP Globalpreis-Tickets für Eurostar ausgestellt werden können.
+- Die Anfrage ist auf englisch an folgende E-Mail-Adresse zu richten: [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk)
+- Initial muss ein Foto des FIP-Ausweises (bzw. Staff Travel Card für Safeguarded) mitgeschickt werden.
+- **Es fällt eine Buchungsgebühr von 12 % des Buchungswertes an (mindestens 5,00 £, maximal 60,00 £).**
 
 {{% booking-section "fip_global_fare" %}}
 
 ## FIP Globalpreis
 
-Über Ffestiniog Travel können Eurostar-Tickets erworben werden. Es fällt eine Buchungsgebühr von 5,00 £ an.
+Über Ffestiniog Travel können Eurostar-Tickets erworben werden.
 
 {{% /booking-section %}}
