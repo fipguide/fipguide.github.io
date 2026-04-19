@@ -3,7 +3,7 @@ draft: false
 title: "Ffestiniog Travel E-Mail"
 description: "Buchungsinformationen für die Buchung per E-Mail bei Ffestiniog Travel."
 params:
-  fee: 12 % (min. 5,00 £, max. 60,00 £)
+  fee: 12 % p. P. (min. 5,00 £, max. 60,00 £)
   fip_50: true
   fip_global_fare: true
   type: "email"
@@ -16,7 +16,7 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 
 - Die Anfrage ist auf englisch an folgende E-Mail-Adresse zu richten: [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk)
 - Initial muss ein Foto des FIP-Ausweises (bzw. Staff Travel Card für Safeguarded) mitgeschickt werden.
-- **Es fällt eine Buchungsgebühr von 12 % des Buchungswertes an (mindestens 5,00 £, maximal 60,00 £).**
+- **Es fällt eine Buchungsgebühr pro Person von 12 % des Buchungswertes an (mindestens 5,00 £, maximal 60,00 £).**
 
 {{% booking-section "fip_global_fare" %}}
 

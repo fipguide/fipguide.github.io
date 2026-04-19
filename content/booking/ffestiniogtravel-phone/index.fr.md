@@ -3,7 +3,7 @@ draft: false
 title: "Ffestiniog Travel Téléphone"
 description: "Informations de réservation pour la hotline de Ffestiniog Travel."
 params:
-  fee: 12 % (min. 5,00 £, max. 60,00 £)
+  fee: 12 % p/p (min. 5,00 £, max. 60,00 £)
   fip_50: true
   fip_global_fare: true
   type: "phone"
@@ -18,8 +18,7 @@ La réservation est possible en anglais. Un alphabet d’épellation peut aider 
 
 Pour réserver des billets par téléphone, vous devez d'abord envoyer une photo de votre Carte FIP (ou Staff Travel Card pour Safeguarded) à [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk).
 
-**Des frais de réservation de 12 % de la valeur de la réservation s'appliquent (minimum 5,00 £, maximum 60,00 £).**
-
+**Des frais de réservation de 12 % par personne du montant de la réservation s'appliquent (minimum 5,00 £, maximum 60,00 £).**
 {{% booking-section "fip_global_fare" %}}
 
 ## Tarif Global FIP
