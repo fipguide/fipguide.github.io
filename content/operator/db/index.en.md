@@ -241,6 +241,16 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -341,9 +351,9 @@ FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge an
 
 Regionalverkehre Start GmbH is a subsidiary of DB Regio AG but does not accept FIP discounts.
 
-### Buses and Replacement Transport
+### Rail Replacement Services
 
-Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 ## Recommendations
 

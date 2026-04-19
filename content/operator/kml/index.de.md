@@ -28,7 +28,7 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 
 Die KMŁ unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KMŁ" und im Anschluss eine konkrete Zugnummer. Liniennummern sind zwar vorhanden, werden aber in der Verbindungsauskunft meist nicht angezeigt. Es werden nur Tickets der 2. Klasse angeboten, da es in KMŁ-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
-Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nicht bekannt. Im Schienenersatzverkehr sollten sie aber wie bei anderen Betreibern auch akzeptiert werden.
+Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nicht bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Ticket- und Reservierungskauf
 
@@ -47,6 +47,12 @@ FIP 50 Fahrkarten müssen bei Einstieg an Bahnhöfen, an denen der Ticketschalte
 ## Ermäßigungen
 
 Uns sind derzeit noch keine Informationen über Ermäßigungen bekannt.
+
+## Tarifliche Besonderheiten
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

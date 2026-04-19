@@ -214,6 +214,16 @@ Dazu gehören unter anderem:
 
 {{% /train-category %}}
 
+{{% train-category
+    id="oebb-postbus"
+    title="ÖBB Postbus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -305,10 +315,6 @@ Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stund
 
 Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewährt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
 
-### ÖBB Postbus
-
-FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverkehren (SEV).
-
 ### Motorail
 
 FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Ermäßigung ausgeschlossen.
@@ -323,13 +329,17 @@ FIP 50 Ermäßigungen sind nicht erhältlich.
 
 Fernzüge der ÖBB verkehren zwischen Salzburg und Kufstein auf dem deutschen Streckennetz ohne Halt. FIP Freifahrtscheine der ÖBB sind hier gültig.
 
+### Unterscheidung zwischen Nah- und Fernverkehr
+
+Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
+
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
 
-### Unterscheidung zwischen Nah- und Fernverkehr
+### Schienenersatzverkehr
 
-Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Quellen
 

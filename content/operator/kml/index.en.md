@@ -28,7 +28,7 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 KMŁ does not differentiate between train categories. The trains are indicated in the timetable with the abbreviation "KMŁ" at the beginning, followed by a specific train number. Line numbers do exist but are usually not displayed in the timetable. Only 2nd class tickets are offered, as there is no 1st class on KMŁ trains. Additionally, there is no possibility to make reservations.
 
-Whether FIP tickets are also valid on KMŁ buses is currently unknown to us. However, on rail replacement services, they should be accepted as with other operators.
+Whether FIP tickets are also valid on KMŁ buses is currently unknown to us. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Ticket and Reservation Purchase
 
@@ -47,6 +47,12 @@ FIP 50 Tickets must be purchased before departure at stations where the ticket o
 ## Discounts
 
 We currently have no information about discounts.
+
+## Special Tariff Conditions
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

@@ -156,6 +156,16 @@ Reservierungspflicht nur in der 1. Klasse.
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -202,9 +212,9 @@ Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internation
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
-### Busse und Ersatzverkehr
+### Schienenersatzverkehr
 
-Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
 
 ## Quellen
 

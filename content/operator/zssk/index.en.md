@@ -155,6 +155,16 @@ Reservations are required only in 1st class.
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -201,9 +211,9 @@ Students under 26 years old and seniors aged 62 and over from the EU, as well as
 
 A break in the journey is only possible for distances of 101 km and more.
 
-### Busses and replacement services
+### Rail Replacement Services
 
-Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 ## Sources
 

@@ -249,6 +249,16 @@ Metro lines are sometimes also marked as `M` and cannot be used with FIP.
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+  reservation_possible=false
+%}}
+Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Class Categories
 
 Le Frecce long-distance trains have special class categories. [^1]
@@ -331,14 +341,6 @@ FIP discounts do not apply on international Frecciarossa trains between Paris an
 
 FIP discounts do not apply on [Treni Touristici](https://www.fstrenituristici.it/) (Tourist Trains), even if operated by Trenitalia.
 
-### Buses and Replacement Services
-
-Buses are excluded from FIP discounts, except when replacing a train where FIP would have been recognized (rail replacement services).
-
-### Break of Journey
-
-Break of journey is not permitted on long-distance trains. On regional trains, break of journey is possible without notice or formalities, except for train-bound FIP 50 Tickets with printed train number (see [Train binding in regional trains](#train-binding-in-regional-trains)).
-
 ### Train Binding in Regional Trains
 
 On Italian regional trains (`R`/`RV`), tickets may be train-bound. This applies to FIP 50 Tickets, but not to FIP Coupons.
@@ -393,6 +395,14 @@ Ticket label "Ordinaria":
 ### Validation of Regional Train Tickets
 
 Tickets for not train-bound regional trains (_non prenotabile_) must be validated at the platform (obliteratrici).
+
+### Break of Journey
+
+Break of journey is not permitted on long-distance trains. On regional trains, break of journey is possible without notice or formalities, except for train-bound FIP 50 Tickets with printed train number (see [Train binding in regional trains](#train-binding-in-regional-trains)).
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

@@ -226,6 +226,26 @@ National free travel for Deutsche Bahn employees is not recognized in Germany. I
 Depends on route, occupancy, and coach category.
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+FIP Coupons are not valid on buses operated by ČD. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
+Discounted FIP tickets are available for some bus services:
+
+- Václav Havel Airport Prague – Praha hl. n. (Prague Main Station)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+No FIP discounts apply on other bus services.
+
+A ticket (reservation mandatory) must be purchased no later than 15 minutes before departure at a ČD Ticket Office, ticket machine (no FIP available), or in the ČD eShop (no FIP available).
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -644,19 +664,6 @@ The list is also provided by ČD: [ČD commercial trains 2026 (page 18)](https:/
 
 {{% /dialog %}}
 
-### Buses and Replacement Services
-
-FIP Coupons are not valid on buses operated by ČD, except for rail replacement services.
-
-For some connections, discounted tickets are available:
-
-- Václav Havel Airport Prague – Praha hl. n. (Prague Main Station)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-No FIP discounts apply on other connections.
-
-A ticket (reservation required) must be purchased at least 15 minutes before departure at a ČD ticket office, ticket machine (no FIP available), or in the ČD eShop (no FIP available).
-
 ### Cable Cars
 
 FIP discounts are not valid on cable cars operated by ČD.
@@ -672,6 +679,10 @@ FIP Tickets are valid on the through routes 083 and 098 (Děčín – Rumburk vi
 ### Break of journey
 
 A break of journey is not permitted on domestic journeys up to 100 km. For journeys of 101 km or more, interruption is possible (but not at an international station).
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

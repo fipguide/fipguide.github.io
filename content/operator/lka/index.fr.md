@@ -59,6 +59,16 @@ Tous les trains ŁKA qui ne circulent pas sur la ligne Sprinter entre Łódź et
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=unknown
+    reservation_possible=false
+%}}
+Nous ne disposons actuellement d’aucune information sur la validité des Billets FIP dans les autobus exploités par ŁKA. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -100,9 +110,9 @@ Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par ŁK
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 
-### Autobus
+### Services de remplacement ferroviaire
 
-Nous ne disposons actuellement d’aucune information sur la validité des Billets FIP dans les autobus exploités par ŁKA. Nous supposons cependant qu’au moins les autobus qui remplacent un train peuvent être utilisés avec les avantages FIP.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

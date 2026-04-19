@@ -172,6 +172,16 @@ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#z
 {{% /highlight %}}
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. BlaBlaCar Bus). In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre. [^1]
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -381,9 +391,9 @@ Vergünstigte FIP Tickets für `RER` und Transilien-Züge können an Transilien 
 Viele Stationen mit Ticketschranken sind nicht mit Personal besetzt. Es gibt zwar Hilfssprechanlagen, diese funktionieren aber unzuverlässig. Ohne die _Contremarque de Passage_ (Temporäre Zugangskarte) besteht daher oft keine Möglichkeit, Zugang zu den Stationen zu erhalten.
 {{% /highlight %}}
 
-### Busverkehr
+### Schienenersatzverkehr
 
-FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. BlaBlaCar Bus). [^1]
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

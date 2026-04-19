@@ -78,7 +78,6 @@ DART (Dublin Area Rapid Transit) ist ein Vorortbahnnetz, das die Vororte von Dub
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -91,7 +90,6 @@ FIP ist auf Busverbindungen von Bus Éireann nicht gültig.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 

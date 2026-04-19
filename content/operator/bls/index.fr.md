@@ -81,10 +81,9 @@ Le FIP n'est pas valable dans ces trains, mais les trains circulant parallèleme
         title="Bus"
         type="bus"
         fip_accepted=true
-        reservation_required=false
         reservation_possible=false
 %}}
-Le FIP est valable dans tous les bus de la BLS, y compris les bus de _Busland AG_.
+FIP est valable dans tous les bus de la BLS, y compris les bus de _Busland AG_ et les bus utilisés pour le service de remplacement ferroviaire.
 {{% /train-category %}}
 
 {{% train-category
@@ -146,6 +145,10 @@ Les entreprises ferroviaires suisses SBB et BLS acceptent partiellement les Coup
 - Les Coupons FIP de la BLS sont acceptés dans les trains de la SBB sur les lignes où circulent également des trains de la BLS, c'est-à-dire entre deux gares où circulent à la fois des trains de la SBB et de la BLS. Le réseau de la BLS est [consultable en ligne](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
 Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l'Emmental.
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

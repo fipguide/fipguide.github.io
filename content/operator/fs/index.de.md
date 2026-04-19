@@ -249,6 +249,16 @@ U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP ge
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+  reservation_possible=false
+%}}
+Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Klassenkategorien
 
 In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
@@ -332,14 +342,6 @@ FIP-Vergünstigungen gelten nicht in internationalen Frecciarossa-Zügen zwische
 
 FIP Vergünstigungen gelten nicht in den [Treni Touristici](https://www.fstrenituristici.it/) (Touristische Züge), selbst wenn sie von Trenitalia betrieben werden.
 
-### Busse und Ersatzverkehr
-
-Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).
-
-### Fahrtunterbrechnung
-
-Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne Ankündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets mit aufgedruckter Zugnummer (siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)).
-
 ### Zugbindung im Nahverkehr
 
 Im italienischen Nahverkehr (`R`/`RV`) besteht teilweise eine Zugbindung. Dies betrifft auch FIP 50 Tickets, ist jedoch für Freifahrtscheine nicht relevant.
@@ -394,6 +396,14 @@ Der Ticketbezeichung "Ordinaria":
 ### Abstempeln von Regionalzugtickets
 
 Tickets für nicht zuggebundene Regionalzüge (_non prenotabile_) müssen am Bahnsteig entwertet bzw. abgestempelt werden (obliteratrici).
+
+### Fahrtunterbrechnung
+
+Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne Ankündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets mit aufgedruckter Zugnummer (siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)).
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

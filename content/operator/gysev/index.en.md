@@ -102,6 +102,16 @@ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+FIP discounts are not valid on GySEV bus connections. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -138,9 +148,9 @@ With public fares, children under 6 travel free of charge. Children up to 15 yea
 
 ## Special Tariff Conditions
 
-### Bus Services
+### Rail replacement services
 
-FIP discounts are not valid on GySEV bus connections.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ### Break of journey
 

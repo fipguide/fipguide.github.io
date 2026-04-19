@@ -134,6 +134,16 @@ Trains nationaux s’arrêtant dans les grandes villes.
 Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aussi appelés S-Bahn.
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -176,10 +186,6 @@ Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéc
 
 ## Conditions tarifaires spéciales
 
-### Bus et substitutions
-
-Les Billets FIP ne sont pas valables sur les lignes de bus des CFF, sauf si elles sont en remplacement ferroviaire (SEV).
-
 ### Reconnaissance mutuelle CFF / BLS
 
 Les compagnies ferroviaires suisses SBB et BLS acceptent partiellement mutuellement les Coupons FIP : [^2]
@@ -202,6 +208,10 @@ Ce supplément (incluant la réservation) est obligatoire, même avec un Coupon 
 - 1ère classe : 13 €
 
 Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandation
 

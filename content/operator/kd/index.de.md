@@ -29,6 +29,16 @@ Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticke
 
 Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben meist eine Liniennummer mit "D" beginnend, die jedoch in den Auskunftsmedien oft nicht mit ausgegeben wird (hier steht oft einfach "KD" und dann eine Zugnummer). Zur Vermarktung werden manche Züge als "KD Sprinter" oder "KD Supersprinter" bezeichnet, es bleiben jedoch Regionalzüge. Es werden nur Tickets der 2. Klasse angeboten, da es in KD-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+Auf allen Buslinien der KD ist FIP gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -88,9 +98,9 @@ Die KD bietet zudem in der Sommersaison spezielle "KD Premium" Züge an, die wei
 
 FIP-Vergünstigungen der KD gelten im Regelfall nur für die Abschnitte innerhalb von Polen. Eine Ausnahme stellen die grenzüberschreitenden Fahrten zwischen Polen und Deutschland auf dem Abschnitt Zgorzelec – Görlitz dar. Hier wird kein zusätzliches Ticket zwischen den beiden Bahnhöfen benötigt. Alle aus Polen kommenden bis Zgorzelec gültigen Tickets gelten auch bis zum Bahnhof Görlitz, andersrum genauso.
 
-### Busse
+### Schienenersatzverkehr
 
-Auf allen Buslinien der KD ist FIP auch gültig. Diese fahren meist im Schienenersatzverkehr oder als vorbereitender Verkehr für eine bald reaktivierte Bahnstrecke.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

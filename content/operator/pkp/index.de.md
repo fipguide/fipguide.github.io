@@ -185,6 +185,15 @@ Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden un
 
 {{% /train-category %}}
 
+{{% train-category
+    id="busse-warschau-modlin"
+    title="Bus Warschau Modlin"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modlin nicht gültig.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -323,21 +332,17 @@ Auf folgenden Routen der [KŚ](/operator/ks) sind sowohl FIP-Tickets der KŚ als
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Busse Warschau Modlin
-
-FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modlin nicht gültig.
-
 ### Sonderzüge Słoneczny
 
 FIP Fahrkarten sind im Słoneczny Sonderzug der KM (Warschau nach Danzig/Gdingen) nicht gültig.
 
-### Busse und Ersatzverkehr
-
-FIP-Fahrkarten gelten auch auf von der PKP betriebenen Schienenersatzverkehren (Busse).
-
 ### Seilbahnen und Zahnradbahnen
 
 FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

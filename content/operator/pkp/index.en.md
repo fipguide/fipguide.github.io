@@ -186,6 +186,15 @@ Interregional trains operated by Polregio and equipped with higher comfort than 
 
 {{% /train-category %}}
 
+{{% train-category
+    id="warsaw-modlin-buses"
+    title="Warsaw Modlin Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -324,21 +333,17 @@ FIP Tickets of both KŚ and PKP are valid on the following KŚ routes:
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Warsaw Modlin Buses
-
-FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
-
 ### Słoneczny Special Trains
 
 FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/Gdynia).
 
-### Buses and Replacement Services
-
-FIP Tickets are also valid on rail replacement services (buses) operated by PKP.
-
 ### Cable Cars and Rack Railways
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

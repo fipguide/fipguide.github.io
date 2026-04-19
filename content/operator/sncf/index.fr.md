@@ -175,6 +175,16 @@ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-F
 {{% /highlight %}}
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=true
+  reservation_possible=false
+%}}
+Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable. [^1]
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -382,9 +392,9 @@ Les Billets FIP à tarif réduit pour `RER` et Transilien peuvent être achetés
 De nombreuses gares équipées de portillons ne sont pas surveillées par du personnel. Il existe des interphones d'assistance, mais ils fonctionnent de manière peu fiable. Sans la _Contremarque de Passage_ (carte d'accès temporaire), il n'est donc souvent pas possible d'accéder aux gares.
 {{% /highlight %}}
 
-### Bus SNCF
+### Services de remplacement ferroviaire
 
-Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). [^1]
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandation
 
