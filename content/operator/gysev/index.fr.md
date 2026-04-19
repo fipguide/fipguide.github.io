@@ -148,13 +148,13 @@ Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Le
 
 ## Conditions tarifaires spéciales
 
-### Bus de remplacement ferroviaire
+### Possibilité d'interrompre le trajet
+
+Pour un arrêt intermédiaire, le billet doit être composté à la gare où l'arrêt doit avoir lieu.
+
+### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
-
-### Arrêts intermédiaires
-
-Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
 
 ## Sources
 

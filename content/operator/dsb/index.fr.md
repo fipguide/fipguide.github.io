@@ -136,7 +136,7 @@ Les enfants de moins de 16 ans bénéficient d’une réduction de 50 % sur le t
 
 ## Conditions tarifaires spéciales
 
-### Arrêts intermédiaires
+### Possibilité d’interrompre le trajet
 
 Avec un Billet FIP 50, le trajet peut être interrompu, mais cela doit être validé par le personnel du train.[^1]
 

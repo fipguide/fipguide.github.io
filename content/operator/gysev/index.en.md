@@ -148,13 +148,13 @@ With public fares, children under 6 travel free of charge. Children up to 15 yea
 
 ## Special Tariff Conditions
 
-### Rail replacement services
-
-On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
-
 ### Break of journey
 
 For a break of journey, the ticket must be stamped at the station where the break should be.
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Sources
 

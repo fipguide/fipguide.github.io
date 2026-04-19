@@ -101,7 +101,7 @@ Sur les lignes suivantes de KŚ, tant les Billets FIP de KŚ que ceux de PKP son
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n'est requise pour cela.
 

@@ -101,7 +101,7 @@ On the following KŚ routes, both FIP tickets from KŚ and PKP are valid:
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Break of Journey
+### Break of journey
 
 Breaks of journey are possible at any time; no documentation is required for this.
 

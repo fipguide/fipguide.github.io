@@ -132,7 +132,7 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind mit FIP-Tickets erlaubt, müssen jedoch im Bahnhof, in dem die Fahrt unterbrochen wurde, durch einen Vermerk dokumentiert werden.
 

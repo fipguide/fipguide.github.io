@@ -155,7 +155,7 @@ Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Avec les billets FIP 50, une interruption de voyage n'est autorisée qu'une seule fois et pour une durée maximale de 24 heures à compter de l'arrivée à la gare où le voyage est interrompu. Pour cela, le billet doit être composté dans l'heure qui suit l'arrivée.[^1]
 

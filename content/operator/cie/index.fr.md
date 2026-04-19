@@ -132,7 +132,7 @@ Les enfants jusqu'à 5 ans voyagent gratuitement. Les jeunes jusqu'à 16 ans bé
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Les interruptions de voyage sont autorisées avec les billets FIP, mais doivent être documentées par une annotation à la gare où le voyage a été interrompu.
 

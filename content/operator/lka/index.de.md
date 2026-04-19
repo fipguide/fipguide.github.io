@@ -106,7 +106,7 @@ Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, da
 
 In von der ŁKA betriebenen Sonderzügen sind FIP-Fahrkarten nicht gültig.
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind jederzeit möglich, es werden dafür keinerlei Nachweise benötigt.
 

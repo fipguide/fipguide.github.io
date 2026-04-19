@@ -82,7 +82,7 @@ Les enfants jusqu'à 5 ans voyagent gratuitement. Les jeunes jusqu'à 16 ans bé
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Les interruptions de voyage ne sont autorisées que pour prendre des trains de correspondance.[^1]
 

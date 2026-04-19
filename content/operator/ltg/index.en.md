@@ -76,7 +76,7 @@ With regular tickets, up to 2 children up to and including 7 years old travel fr
 
 In summer, LTG-Link operates direct trains between Vilnius and the Baltic Sea (“seaside express") on Fridays to Sundays, stopping only in Kretinga and Klaipeda. There is currently no information as to whether FIP is accepted on these trains. In Kretinga there is a bus connection to Palanga, in Klaipeda to the Curonian Spit.
 
-### Break of Journey
+### Break of journey
 
 A break of journey is not possible, as a separate ticket must be obtained for each journey.
 

@@ -125,7 +125,7 @@ Aux tarifs publics, les enfants jusqu'à 4 ans voyagent gratuitement, les enfant
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 L'interruption de voyage n'est pas autorisée.[^1]
 

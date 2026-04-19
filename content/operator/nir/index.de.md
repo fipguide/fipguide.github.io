@@ -82,7 +82,7 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind nur erlaubt, um Anschlusszüge zu erreichen.[^1]
 

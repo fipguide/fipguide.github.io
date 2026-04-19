@@ -676,7 +676,7 @@ Les Réductions FIP ne sont pas valables sur les trains spéciaux et historiques
 
 Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n’est pas autorisée.
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée pour les trajets intérieurs jusqu’à 100 km. Pour les trajets de 101 km ou plus, l’interruption est possible (mais pas en gare internationale).
 

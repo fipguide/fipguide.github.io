@@ -158,7 +158,7 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Les enfa
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Les passagers titulaires d’un billet de réduction FIP acheté au Portugal ne sont pas autorisés à interrompre leur voyage. Pour les billets achetés en dehors du Portugal, une interruption de voyage est autorisée (éventuellement sous réserve de réservation). [^1]
 

@@ -342,7 +342,7 @@ Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le rés
 
 À part le supplément pour le Coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les Billets FIP 50, sont valables sur tous les trains ÖBB.
 
-### Arrêts intermédiaires
+### Possibilité d'interrompre le trajet
 
 Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
 

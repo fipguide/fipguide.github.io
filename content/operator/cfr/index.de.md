@@ -155,7 +155,7 @@ Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 1
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Reiseunterbrechung ist bei FIP 50 Tickets nur einmal und für maximal 24 Stunden ab Ankunft am Bahnhof, an dem die Reise unterbrochen wird, zulässig. Die Fahrkarte muss dafür innerhalb einer Stunde nach Ankunft abgestempelt werden.[^1]
 

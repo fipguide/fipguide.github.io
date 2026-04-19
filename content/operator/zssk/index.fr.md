@@ -205,7 +205,7 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 
 ## Conditions tarifaires spéciales
 
-### Interruption de trajet
+### Possibilité d'interrompre le trajet
 
 Possible uniquement pour les trajets de 101 km ou plus.
 

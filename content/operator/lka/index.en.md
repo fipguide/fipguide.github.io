@@ -106,7 +106,7 @@ Regardless of FIP, Polregio offers an affordable weekend ticket which, in the fo
 
 FIP tickets are not valid on special trains operated by ŁKA.
 
-### Break of Journey
+### Break of journey
 
 Breaks of journey are possible at any time; no documentation is required for this.
 

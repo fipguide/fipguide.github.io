@@ -396,7 +396,7 @@ Ticket label "Ordinaria":
 
 Tickets for not train-bound regional trains (_non prenotabile_) must be validated at the platform (obliteratrici).
 
-### Break of Journey
+### Break of journey
 
 Break of journey is not permitted on long-distance trains. On regional trains, break of journey is possible without notice or formalities, except for train-bound FIP 50 Tickets with printed train number (see [Train binding in regional trains](#train-binding-in-regional-trains)).
 

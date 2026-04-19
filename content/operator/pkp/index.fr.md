@@ -300,7 +300,7 @@ La validité des billets dépend de la distance :
 - 51 km à 100 km : 6 heures à partir de la date et de l’heure d’émission ou au choix du voyageur,
 - à partir de 101 km : 1 jour (un jour est valable de 00h01 à 24h00).
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
