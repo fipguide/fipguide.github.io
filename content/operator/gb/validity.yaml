@@ -57,62 +57,42 @@ _anchors:
       fr: |
         **2 coupons**
         <small>Par an.</small>
-  coupon-retired-1-safeguarded: &coupon-retired-1-safeguarded
-    status: valid
-    text:
-      de: |
-        **1 Freifahrtschein**
-        <small>Pro Jahr (nur safeguarded).</small>
-      en: |
-        **1 coupon**
-        <small>Per year (safeguarded only).</small>
-      fr: |
-        **1 coupon**
-        <small>Par an (sécurisés uniquement).</small>
-  coupon-retired-2-safeguarded: &coupon-retired-2-safeguarded
-    status: valid
-    text:
-      de: |
-        **2 Freifahrtscheine**
-        <small>Pro Jahr (nur safeguarded).</small>
-      en: |
-        **2 coupons**
-        <small>Per year (safeguarded only).</small>
-      fr: |
-        **2 coupons**
-        <small>Par an (sécurisés uniquement).</small>
 card-validity:
   de: Der FIP Ausweis ist für eine feste Periode von zwei Jahren gültig.
   en: The FIP Card is valid for a fixed period of two years.
   fr: La Carte FIP est valable pour une période fixe de deux ans.
 general:
   fip-coupon:
-    de: FIP Freifahrtscheine können über [diesen Link](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html) beantragt werden.
-    en: FIP Coupons can be requested via [this link](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html).
-    fr: Les Coupons FIP peuvent être demandés via [ce lien](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html).
-national-discounts:
-  de: Für nationale Fahrten können je nach Mitarbeitendenstatus verschiedene Vergünstigungen genutzt werden. Diese Vergünstigungen helfen jedoch nicht bei der Fahrt ins Ausland, sondern nur bis zur Fahrt zum Eurostar oder den Fähren nach Kontinentaleuropa. Zusätzlich können Mitarbeitende, teilweise auch andere Fahrvergünstigungen im Ausland unabhängig von FIP in Anspruch nehmen. Mehr Informationen sind bei der [Rail Delivery Group](https://www.raildeliverygroup.com/rst/) zu finden.
-  en: For domestic journeys, different discounts can be used depending on employee status. These discounts do not apply when traveling abroad, but only up to the Eurostar or ferry connections to continental Europe. Additionally, employees may, in some cases, also use other travel discounts while abroad, independent of FIP. More information is available at the [Rail Delivery Group](https://www.raildeliverygroup.com/rst/).
-  fr: Pour les trajets nationaux, différentes réductions peuvent être utilisées en fonction du statut de l'employé. Ces réductions ne s'appliquent toutefois pas aux voyages à l'étranger, mais seulement jusqu'aux connexions Eurostar ou aux ferries vers l'Europe continentale. De plus, les employés peuvent, dans certains cas, utiliser d'autres réductions de voyage à l'étranger, indépendamment du FIP. Plus d'informations sont disponibles auprès de la [Rail Delivery Group](https://www.raildeliverygroup.com/rst/).
+    de: FIP Freifahrtscheine können über [diesen Link](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html) beantragt werden. Freifahrtscheine haben mit Ausnahme der Stena Line grundsätzlich vier Felder, die jeweils zwei Tage gültig sind. Eine zusätzliche Übersicht verfügbarer Coupons ist auf der [Website der Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html) unter „List of FIP coupons and the discounts available“ verfügbar. Die Kriterien dafür, ob der FIP Anspruch nach dem Ausscheiden aus dem Bahndienst bestehen bleibt, sind komplex; siehe [Leaving Railway Employment](https://www.raildeliverygroup.com/rst/for-non-safeguarded-employees.html#Leaving).
+    en: FIP Coupons can be requested via [this link](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html). With the exception of Stena Line, coupons generally have four boxes, each valid for two days. An additional list of available coupons is provided on the [Rail Delivery Group website](https://www.raildeliverygroup.com/rst/europe-and-fip.html) under “List of FIP coupons and the discounts available”. The criteria used to determine whether travel facilities continue after leaving railway service are complex; see [Leaving Railway Employment](https://www.raildeliverygroup.com/rst/for-non-safeguarded-employees.html#Leaving).
+    fr: Les Coupons FIP peuvent être demandés via [ce lien](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_XX09c_IntCoup.html). À l’exception de Stena Line, les coupons comportent en principe quatre cases, chacune valable deux jours. Une liste supplémentaire des coupons disponibles est proposée sur le [site Web de la Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html), sous « List of FIP coupons and the discounts available ». Les critères permettant de déterminer si les facilités de voyage sont maintenues après le départ du service ferroviaire sont complexes ; voir [Leaving Railway Employment](https://www.raildeliverygroup.com/rst/for-non-safeguarded-employees.html#Leaving).
+  national-discounts:
+    de: Für nationale Fahrten können je nach Mitarbeitendenstatus verschiedene Vergünstigungen genutzt werden. Diese Vergünstigungen helfen jedoch nicht bei der Fahrt ins Ausland, sondern nur bis zur Fahrt zum Eurostar oder den Fähren nach Kontinentaleuropa. Zusätzlich können Mitarbeitende, teilweise auch andere Fahrvergünstigungen im Ausland unabhängig von FIP in Anspruch nehmen. Die Kriterien dafür, ob der FIP Anspruch nach dem Ausscheiden aus dem Bahndienst bestehen bleibt, sind komplex; siehe [Leaving Railway Employment](https://www.raildeliverygroup.com/rst/for-non-safeguarded-employees.html#Leaving). Mehr Informationen sind bei der [Rail Delivery Group](https://www.raildeliverygroup.com/rst/) zu finden.
+    en: For domestic journeys, different discounts can be used depending on employee status. These discounts do not apply when traveling abroad, but only up to the Eurostar or ferry connections to continental Europe. Additionally, employees may, in some cases, also use other travel discounts while abroad, independent of FIP. The criteria used to determine whether travel facilities continue after leaving railway service are complex; see [Leaving Railway Employment](https://www.raildeliverygroup.com/rst/for-non-safeguarded-employees.html#Leaving). More information is available at the [Rail Delivery Group](https://www.raildeliverygroup.com/rst/).
+    fr: Pour les trajets nationaux, différentes réductions peuvent être utilisées en fonction du statut de l’employé. Ces réductions ne s'appliquent toutefois pas aux voyages à l'étranger, mais seulement jusqu'aux connexions Eurostar ou aux ferries vers l'Europe continentale. De plus, les employés peuvent, dans certains cas, utiliser d'autres réductions de voyage à l'étranger, indépendamment du FIP. Les critères permettant de déterminer si les facilités de voyage sont maintenues après le départ du service ferroviaire sont complexes ; voir [Leaving Railway Employment](https://www.raildeliverygroup.com/rst/for-non-safeguarded-employees.html#Leaving). Plus d'informations sont disponibles auprès de la [Rail Delivery Group](https://www.raildeliverygroup.com/rst/).
 attica:
   fip-coupon:
     active: *coupon-not-available
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 bdz:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-active-1
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 bls:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-active-1
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 bsb:
   fip-coupon:
@@ -120,12 +100,15 @@ bsb:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
 cd:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 cfr:
   fip-coupon:
@@ -133,20 +116,23 @@ cfr:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 cfl:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-active-1
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-active-1
   fip-reduced-ticket: *reduced-50-group
 cie:
   fip-coupon:
     active: *coupon-active-2
     active-relatives: *coupon-active-2
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-active-1
   fip-reduced-ticket: *reduced-75-group
 cp:
   fip-coupon:
@@ -154,6 +140,7 @@ cp:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 db:
   fip-coupon:
@@ -161,6 +148,7 @@ db:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 dsb:
   fip-coupon:
@@ -168,13 +156,15 @@ dsb:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 fs:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-active-1
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-active-1
   fip-reduced-ticket: *reduced-50-group
 gysev:
   fip-coupon:
@@ -182,13 +172,15 @@ gysev:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 ht:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-active-1
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 hz:
   fip-coupon:
@@ -196,6 +188,7 @@ hz:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 kd:
   fip-coupon:
@@ -203,6 +196,7 @@ kd:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 ks:
   fip-coupon:
@@ -210,6 +204,7 @@ ks:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 kw:
   fip-coupon:
@@ -217,6 +212,15 @@ kw:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+kml:
+  fip-coupon:
+    active: *coupon-active-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 lka:
   fip-coupon:
@@ -224,6 +228,15 @@ lka:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ltg:
+  fip-coupon:
+    active: *coupon-active-1
+    active-relatives: *coupon-not-available
+    retired: *coupon-not-available
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 mav:
   fip-coupon:
@@ -231,27 +244,31 @@ mav:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 nir:
   fip-coupon:
     active: *coupon-active-2
     active-relatives: *coupon-active-2
-    retired: *coupon-retired-2-safeguarded
-    retired-relatives: *coupon-retired-2-safeguarded
+    retired: *coupon-active-2
+    retired-relatives: *coupon-active-2
+    widows: *coupon-active-2
   fip-reduced-ticket: *reduced-75-group
 ns:
   fip-coupon:
     active: *coupon-active-2
     active-relatives: *coupon-active-2
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-active-1
   fip-reduced-ticket: *reduced-50-group
 oebb:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-active-1
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 pkp:
   fip-coupon:
@@ -259,6 +276,7 @@ pkp:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 renfe:
   fip-coupon:
@@ -266,6 +284,7 @@ renfe:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 sbb:
   fip-coupon:
@@ -273,6 +292,7 @@ sbb:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 sll:
   fip-coupon:
@@ -280,13 +300,15 @@ sll:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 sncb:
   fip-coupon:
     active: *coupon-active-2
     active-relatives: *coupon-active-2
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-active-1
   fip-reduced-ticket: *reduced-active-75-retired-50-group
 sncf:
   fip-coupon:
@@ -294,6 +316,7 @@ sncf:
     active-relatives: *coupon-active-2
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-active-75-retired-50-group
 sp:
   fip-coupon:
@@ -301,19 +324,23 @@ sp:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 stl:
   fip-coupon:
     active: *coupon-active-2
     active-relatives: *coupon-active-2
-    retired: *coupon-retired-1-safeguarded
-    retired-relatives: *coupon-retired-1-safeguarded
+    retired: *coupon-active-1
+    retired-relatives: *coupon-active-1
+    widows: *coupon-active-1
+  fip-reduced-ticket: *reduced-50-group
 sv:
   fip-coupon:
     active: *coupon-active-1
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 sz:
   fip-coupon:
@@ -321,6 +348,7 @@ sz:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 vy:
   fip-coupon:
@@ -328,6 +356,7 @@ vy:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 zfbh:
   fip-coupon:
@@ -335,6 +364,7 @@ zfbh:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 zpcg:
   fip-coupon:
@@ -342,6 +372,7 @@ zpcg:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 zrs:
   fip-coupon:
@@ -349,6 +380,7 @@ zrs:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 zrms:
   fip-coupon:
@@ -356,6 +388,7 @@ zrms:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
 zssk:
   fip-coupon:
@@ -363,4 +396,5 @@ zssk:
     active-relatives: *coupon-not-available
     retired: *coupon-not-available
     retired-relatives: *coupon-not-available
+    widows: *coupon-not-available
   fip-reduced-ticket: *reduced-50-group
