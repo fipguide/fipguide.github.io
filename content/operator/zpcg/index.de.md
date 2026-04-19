@@ -64,6 +64,18 @@ Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr vo
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=nil
+%}}
+
+FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^2]
+
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Vor Ort
@@ -80,7 +92,7 @@ Bei öffentlichen Tarifen reisen Kinder bis 6 Jahre kostenlos. Kinder bis 14 Jah
 
 ## Tarifliche Besonderheiten
 
-### Busse und Schienenersatzverkehr
+### Schienenersatzverkehr
 
 FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^2]
 
@@ -92,9 +104,9 @@ Im Globalpreiszügen zahlen Inhaber von FIP Freifahrtscheinen einen Zuschlag. F�
 
 Fahrtunterbrechungen sind innerhalb der Ticketgültigkeit erlaubt.[^2]
 
-### Gepäck
+### Sperrgepäck
 
-Für Gepäcktransport fallen zusätzliche Gebühren an. Erkundige dich hierfür vor Fahrtantritt am Ticketschalter vor Ort.[^2]
+Gepäck, das weder über noch unter dem Sitz verstaut werden kann, gilt als Sperrgepäck. Hierfür fallen zusätzliche Gebühren an. Die genauen Preise sind in den Beförderungsbedingungen nachlesbar. [^5]
 Bei Reisenden mit FIP Freifahrtschein wird für die Mitnahme von Reisegepäck bis 30 kg keine Gebühr erhoben.
 
 ## Quellen
@@ -103,4 +115,6 @@ Bei Reisenden mit FIP Freifahrtschein wird für die Mitnahme von Reisegepäck b
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
 
-[^3]: [ZPCG – Nationale Ticketpreise](https://zpcg.me/en/lokalni-prevoz/cijene)
+[^3]: [ŽPCG – Nationale Ticketpreise](https://zpcg.me/en/lokalni-prevoz/cijene)
+
+[^4]: [ŽPCG – Beförderungsbedingungen, Abschnitt 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)
