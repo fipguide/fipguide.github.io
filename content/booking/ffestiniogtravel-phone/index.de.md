@@ -29,3 +29,7 @@ Um Tickets telefonisch buchen zu können, muss initial ein Foto des FIP-Ausweise
 {{% /booking-section %}}
 
 {{% satellite /%}}
+
+## Quellen
+
+[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)

@@ -25,3 +25,7 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 Über Ffestiniog Travel können Eurostar-Tickets erworben werden.
 
 {{% /booking-section %}}
+
+## Quellen
+
+[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)

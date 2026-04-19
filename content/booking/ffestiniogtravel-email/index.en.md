@@ -25,3 +25,7 @@ On request, staff create a suitable offer for the journey:
 Eurostar tickets can be purchased via Ffestiniog Travel. A booking fee of £ 5.00 applies.
 
 {{% /booking-section %}}
+
+## Sources
+
+[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)

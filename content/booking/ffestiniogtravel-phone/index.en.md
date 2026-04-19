@@ -29,3 +29,7 @@ FIP Global Fare tickets for Eurostar can be purchased via the Ffestiniog Travel 
 {{% /booking-section %}}
 
 {{% satellite /%}}
+
+## Sources
+
+[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
