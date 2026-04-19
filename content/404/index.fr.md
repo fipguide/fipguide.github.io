@@ -4,15 +4,7 @@ params:
   pagefind_ignore: true
 ---
 
-{{% float-image
-  src="error.webp"
-  height="50%"
-  position="center"
-/%}}
-
-<p style="text-align: center;">Oups ! La page que vous recherchez est indisponible ou a été déplacée.</p>
-
-{{% intersector %}}
+Oups ! La page que vous recherchez est indisponible ou a été déplacée.
 
 Voici ce que vous pouvez faire ensuite :
 

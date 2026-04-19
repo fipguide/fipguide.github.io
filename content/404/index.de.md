@@ -4,15 +4,7 @@ params:
   pagefind_ignore: true
 ---
 
-{{% float-image
-  src="error.webp"
-  height="50%"
-  position="center"
-/%}}
-
-<p style="text-align: center;">Hoppla! Die gesuchte Seite ist nicht verfügbar oder wurde verschoben.</p>
-
-{{% intersector %}}
+Hoppla! Die gesuchte Seite ist nicht verfügbar oder wurde verschoben.
 
 Probiere folgende Dinge:
 

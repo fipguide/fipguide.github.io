@@ -4,15 +4,7 @@ params:
   pagefind_ignore: true
 ---
 
-{{% float-image
-  src="error.webp"
-  height="50%"
-  position="center"
-/%}}
-
-<p style="text-align: center;">Oops! The page you're looking for is unavailable or has been moved.</p>
-
-{{% intersector %}}
+Oops! The page you're looking for is unavailable or has been moved.
 
 Here's what you can do next:
 

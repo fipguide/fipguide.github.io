@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <article class="o-error" data-pagefind-ignore="all">
+    <h1>{{ .Title }}</h1>
+    <div class="o-error__body">
+      <div class="o-error__image">
+        {{- $image := .Resources.GetMatch "404.webp" -}}
+        {{- partial "image"
+          (dict
+          "image" $image
+          "width" "100%"
+          "Page" .
+          )
+        -}}
+      </div>
+      <div class="o-error__divider">
+        {{ partial "intersector" }}
+      </div>
+      <div class="o-error__content">
+        {{ .Content }}
+      </div>
+    </div>
+  </article>
+{{ end }}
