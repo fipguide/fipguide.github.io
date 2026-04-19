@@ -106,7 +106,7 @@ Fahrtunterbrechungen sind innerhalb der Ticketgültigkeit erlaubt.[^2]
 
 ### Sperrgepäck
 
-Gepäck, das weder über noch unter dem Sitz verstaut werden kann, gilt als Sperrgepäck. Hierfür fallen zusätzliche Gebühren an. Die genauen Preise sind in den Beförderungsbedingungen nachlesbar. [^5]
+Gepäck, das weder über noch unter dem Sitz verstaut werden kann, gilt als Sperrgepäck. Hierfür fallen zusätzliche Gebühren an. Die genauen Preise sind in den Beförderungsbedingungen nachlesbar. [^4]
 Bei Reisenden mit FIP Freifahrtschein wird für die Mitnahme von Reisegepäck bis 30 kg keine Gebühr erhoben.
 
 ## Quellen
