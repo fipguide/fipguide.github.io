@@ -107,7 +107,6 @@ Certains trains Személyvonat sont également exploités par MÁV où les Billet
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=false
 %}}
 Les réductions FIP ne sont pas valables sur les liaisons d'autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}

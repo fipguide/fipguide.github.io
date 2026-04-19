@@ -246,7 +246,6 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=false
 %}}
 FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 {{% /train-category %}}

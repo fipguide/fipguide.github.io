@@ -140,7 +140,6 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=false
 %}}
 FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}

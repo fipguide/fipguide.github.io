@@ -107,7 +107,6 @@ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=false
 %}}
 FIP discounts are not valid on GySEV bus connections. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}

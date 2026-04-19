@@ -186,7 +186,7 @@ Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden un
 {{% /train-category %}}
 
 {{% train-category
-    id="busse-warschau-modlin"
+    id="bus-warschau-modlin"
     title="Bus Warschau Modlin"
     type="bus"
     fip_accepted=false

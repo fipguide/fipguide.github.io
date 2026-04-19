@@ -81,7 +81,6 @@ Le FIP n'est pas valable dans ces trains, mais les trains circulant parallèleme
         title="Bus"
         type="bus"
         fip_accepted=true
-        reservation_possible=false
 %}}
 FIP est valable dans tous les bus de la BLS, y compris les bus de _Busland AG_ et les bus utilisés pour le service de remplacement ferroviaire.
 {{% /train-category %}}

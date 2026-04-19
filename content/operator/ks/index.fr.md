@@ -35,8 +35,6 @@ KŚ ne distingue pas différentes catégories de trains. Les trains ont généra
         title="Bus"
         type="bus"
         fip_accepted=false
-        reservation_required=false
-        reservation_possible=false
 %}}
 Les Billets FIP ne sont généralement pas valables dans les bus KŚ. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}

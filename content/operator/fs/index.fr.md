@@ -255,7 +255,6 @@ Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}

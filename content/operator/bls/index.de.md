@@ -81,7 +81,6 @@ FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Z�
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_possible=false
 %}}
 FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_ und Bussen des Schienenersatzverkehrs.
 {{% /train-category %}}

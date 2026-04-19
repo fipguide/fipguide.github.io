@@ -34,8 +34,6 @@ KD does not distinguish different train categories. Its trains usually have a li
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
 %}}
 FIP is valid on all KD bus routes. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}

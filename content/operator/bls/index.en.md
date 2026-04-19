@@ -81,7 +81,6 @@ FIP is not valid on these trains, but the parallel running trains of the `RE 1` 
         title="Bus"
         type="bus"
         fip_accepted=true
-        reservation_possible=false
 %}}
 FIP is valid on all BLS buses, including those of _Busland AG_ and buses used for rail replacement services.
 {{% /train-category %}}

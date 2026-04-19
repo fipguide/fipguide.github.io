@@ -187,7 +187,7 @@ Interregional trains operated by Polregio and equipped with higher comfort than 
 {{% /train-category %}}
 
 {{% train-category
-    id="warsaw-modlin-buses"
+    id="warsaw-modlin-bus"
     title="Warsaw Modlin Bus"
     type="bus"
     fip_accepted=false

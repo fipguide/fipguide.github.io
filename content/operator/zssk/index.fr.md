@@ -158,7 +158,6 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=false
 %}}
 Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s'appliquent lorsqu'ils remplacent un train sur lequel le FIP aurait été valable.[^1]
 {{% /train-category %}}

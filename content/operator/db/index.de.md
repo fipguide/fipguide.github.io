@@ -245,7 +245,6 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
 {{% /train-category %}}

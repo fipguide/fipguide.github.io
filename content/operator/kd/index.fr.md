@@ -34,8 +34,6 @@ KD ne distingue pas de catégories de trains différentes. Les trains ont en gé
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
 %}}
 Le FIP est accepté sur toutes les lignes de bus KD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}

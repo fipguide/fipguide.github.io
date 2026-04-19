@@ -66,7 +66,6 @@ Trains avec arrêt dans toutes les gares.
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.

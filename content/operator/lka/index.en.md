@@ -64,7 +64,6 @@ All ŁKA trains that do not operate on the Sprinter route between Łódź and Wa
     title="Bus"
     type="bus"
     fip_accepted=unknown
-    reservation_possible=false
 %}}
 We currently have no information about the validity of FIP tickets on buses operated by ŁKA. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}

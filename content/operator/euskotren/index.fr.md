@@ -104,7 +104,6 @@ Si vous n’avez pas d’"Euskotren FIP Ticket", le personnel des stations déli
     title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 Les Billets FIP ne sont pas valables sur les lignes de bus régionales d'Euskotren. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}

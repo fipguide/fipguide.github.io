@@ -66,7 +66,6 @@ Trains stopping at all stations.
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 
 CFL also operates interregional bus lines. These do not accept FIP, but due to free public transport, no ticket is required.

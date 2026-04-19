@@ -140,7 +140,6 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=false
 %}}
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 {{% /train-category %}}

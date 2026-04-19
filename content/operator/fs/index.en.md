@@ -254,7 +254,6 @@ Metro lines are sometimes also marked as `M` and cannot be used with FIP.
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}

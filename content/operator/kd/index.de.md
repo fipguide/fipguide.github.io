@@ -34,7 +34,6 @@ Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben me
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_possible=false
 %}}
 Auf allen Buslinien der KD ist FIP gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 {{% /train-category %}}

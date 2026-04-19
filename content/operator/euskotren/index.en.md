@@ -105,7 +105,6 @@ If you don't have an "Euskotren FIP Ticket", the staff at the stations will issu
     title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 FIP Tickets are not valid on Euskotren's regional bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}
