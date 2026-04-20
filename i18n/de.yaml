@@ -16,15 +16,75 @@ booking:
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
 contact:
+  accessibility:
+    label: 'Feedback zur Website: Barrierefreiheit'
+    message: 'Beschreibe bitte, wie wir uns verbessern können:'
+    webpage: Betroffene Seite (URL)
+  content:
+    label: 'Feedback zur Website: Inhaltliche Ergänzung oder Korrektur'
   emailLabel: 'E-Mail-Adresse:'
   emailSubject: Neue Nachricht vom FIP Guide
+  empty: Bitte wählen …
+  feedback:
+    label: 'Feedback zur Website: Lob und Kritik'
+    note: >-
+      Wir freuen uns über jedes Feedback, um die Website für unsere Kolleginnen
+      und Kollegen der FIP-Mitglieder zu verbessern.
+  fipcard:
+    label: Beantragung von FIP Ausweis und FIP Freifahrtschein
+    note: >-
+      Leider können wir in diesem Fall nicht weiterhelfen. Wir sind ein
+      unabhängiges Community-Projekt und können daher die Ausstellung von FIP
+      Ausweisen und Freifahrtscheinen nicht beeinflussen.
+
+
+      Bitte wende dich an deine zuständige Personalabteilung.
   formAriaLabel: Kontaktformular
+  general:
+    label: Allgemeine Frage zur FIP-Nutzung
+    note: >-
+      Allgemeine Fragen beantworten wir auf der Seite [Übergreifende
+      Informationen](/generalinformation). Nutze auch gern die Suche für
+      konkrete Suchbegriffe.
+
+      Detaillierte Informationen sind auf [Landesseiten](/country) und
+      [Betreiberseiten](/operator) zu finden.
+
+
+      Konkrete Fragen beantwortet die Community und das FIP Guide Team auf
+      [Discord](https://discord.gg/5nWS9Eu9zz).
   messageLabel: 'Nachricht:'
   nameLabel: 'Name:'
+  others:
+    label: Sonstiges
+    topicLabel: 'Zusammenfassung:'
+  routes:
+    label: Frage zu Reiserouten und Zügen
+    note: >-
+      Nutze die Suche, um passende Informationen zu deiner Reise zu finden.
+
+      Detaillierte Informationen sind auf [Landesseiten](/country) und
+      [Betreiberseiten](/operator) zu lesen.
+
+
+      Konkrete Fragen beantwortet die Community und das FIP Guide Team auf
+      [Discord](https://discord.gg/5nWS9Eu9zz).
   submitButton: Absenden
   successMessage: >-
     Vielen Dank! Deine Nachricht wurde erfolgreich gesendet. Wir melden uns
     schnellstmöglich zurück.
+  tickets:
+    label: Frage zum Ticketkauf und zu Reservierungen
+    note: >-
+      Wir können keine Tickets und Reservierungen für Züge verkaufen.
+
+      Informationen zu den Buchungsmöglichkeiten findest du auf der
+      [Betreiberseite](/operator) des jeweiligen Unternehmens.
+
+
+      Konkrete Fragen beantwortet die Community und das FIP Guide Team auf
+      [Discord](https://discord.gg/5nWS9Eu9zz).
+  topicLabel: 'Kategorie:'
 contentNavigation:
   button: Inhaltsübersicht öffnen und schließen
   relatedCountries: Länder, in den der Betreibers aktiv ist

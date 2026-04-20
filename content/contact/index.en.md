@@ -18,5 +18,3 @@ The FIP Guide Community is available on the online platform _Discord_ and suppor
 Contact the team behind the FIP Guide – we are here for questions and comments and look forward to your content contribution.
 
 {{< contact-form >}}
-
-Or write us an email: [nextstop@fipguide.org](mailto:nextstop@fipguide.org)
