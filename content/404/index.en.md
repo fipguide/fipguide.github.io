@@ -1,7 +1,7 @@
 ---
 title: "404 – Page not found"
 aliases:
-  - /404.html
+  - ../404.html
 params:
   pagefind_ignore: true
 ---
