@@ -29,7 +29,7 @@
             {{- end -}}
           {{- end -}}
           {{- if ne .fee "nil" -}}
-            {{- partial "tag" (dict "Icon" "payments" "RawText" .fee "Type" "info") -}}
+            {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T "booking.fee") " " .fee) "Type" "info") -}}
           {{- end -}}
         </div>
       </div>
