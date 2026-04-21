@@ -1,51 +1,49 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
 <summary class="o-expander__summary o-expander__summary--booking">
-  <div class="o-booking__header">
-    <div class="o-booking__header-content">
-      <div class="o-booking__title-wrapper">
-        <div class="o-booking__title">
-          {{- partial "icon" (index $iconMapping .page.Params.type) -}}
-          <span class="o-booking__title-text">{{- .page.Title -}}</span>
+  <div class="o-booking__header-content">
+    <div class="o-booking__title-wrapper">
+      <div class="o-booking__title">
+        {{- partial "icon" (index $iconMapping .page.Params.type) -}}
+        <span class="o-booking__title-text">{{- .page.Title -}}</span>
+      </div>
+      {{- if .subtitle }}
+        <div class="o-booking__subtitle">
+          {{- .subtitle -}}
         </div>
-        {{- if .subtitle }}
-          <div class="o-booking__subtitle">
-            {{- .subtitle -}}
-          </div>
-        {{- end }}
-        <div class="o-booking__meta">
-          {{- $metaFields := slice
-            (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
-            (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
-            (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
-            (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
-          -}}
-          {{- range $metaFields -}}
-            {{- if ne .value "nil" -}}
-              {{- if .value -}}
-                {{- partial "tag" (dict "Icon" "check_circle" "Text" .label "Type" "success") -}}
-              {{- else -}}
-                {{- partial "tag" (dict "Icon" "cancel" "Text" .label "Type" "error") -}}
-              {{- end -}}
+      {{- end }}
+      <div class="o-booking__meta">
+        {{- $metaFields := slice
+          (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
+          (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
+          (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
+          (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
+        -}}
+        {{- range $metaFields -}}
+          {{- if ne .value "nil" -}}
+            {{- if .value -}}
+              {{- partial "tag" (dict "Icon" "check_circle" "Text" .label "Type" "success") -}}
+            {{- else -}}
+              {{- partial "tag" (dict "Icon" "cancel" "Text" .label "Type" "error") -}}
             {{- end -}}
           {{- end -}}
-          {{- if ne .fee "nil" -}}
-            {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T "booking.fee") " " .fee) "Type" "info") -}}
+        {{- end -}}
+        {{- if ne .fee "nil" -}}
+          {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T "booking.fee") " " .fee) "Type" "info") -}}
+        {{- end -}}
+      </div>
+    </div>
+    {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
+      <div class="o-booking__classes">
+        <span class="o-booking__classes-title"
+          >{{ T "booking.reservation-costs" }}:</span
+        >
+        <div class="o-booking__classes-tags">
+          {{- range $k, $v := .classes -}}
+            {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T (print "booking.classes." $k)) ": " $v) "Type" "info") -}}
           {{- end -}}
         </div>
       </div>
-      {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
-        <div class="o-booking__classes">
-          <span class="o-booking__classes-title"
-            >{{ T "booking.reservation-costs" }}:</span
-          >
-          <div class="o-booking__classes-tags">
-            {{- range $k, $v := .classes -}}
-              {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T (print "booking.classes." $k)) ": " $v) "Type" "info") -}}
-            {{- end -}}
-          </div>
-        </div>
-      {{- end -}}
-    </div>
+    {{- end -}}
   </div>
   {{- partial "icon" "keyboard_arrow_down" -}}
 </summary>
