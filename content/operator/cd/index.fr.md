@@ -27,7 +27,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour l
 {{< float-image
 src="cd-fip-map-overview-26.webp"
 alt="Carte de validité FIP vue d’ensemble pour la Tchéquie"
-caption="[Carte de validité FIP vue d’ensemble](/en/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)"
+caption="Carte de validité FIP vue d’ensemble pour la Tchéquie (© Petr Duda)"
 width="40%"
 position="left" >}}
 
@@ -39,7 +39,7 @@ Pour un premier aperçu, la carte de validité FIP pour la Tchéquie peut être 
 {{< float-image
 src="cd-fip-map-detail-26.webp"
 alt="Carte de validité FIP détaillée pour la Tchéquie"
-caption="[Carte de validité FIP détaillée](/en/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)"
+caption="Carte de validité FIP détaillée pour la Tchéquie (© Petr Duda)"
 width="40%"
 position="left" >}}
 Pour des informations détaillées, la carte détaillée de validité FIP peut être consultée.

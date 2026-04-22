@@ -9,5 +9,6 @@ import "./dropdown.js";
 import "./interactiveMap.js";
 import "./expander.js";
 import "./dialog.js";
+import "./lightbox.js";
 import "./fipValidityComparison.js";
 import "./search.js";

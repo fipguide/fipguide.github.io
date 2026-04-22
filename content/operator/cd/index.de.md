@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. B
 {{< float-image
 src="cd-fip-map-overview-26.webp"
 alt="FIP Gültigkeitskarte Überblick für Tschechien"
-caption="[Überblick FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)"
+caption="Überblick FIP Gültigkeitskarte für Tschechien (© Petr Duda)"
 width="40%"
 position="left" >}}
 
@@ -39,7 +39,7 @@ Für einen ersten Eindruck, kann die Übersichtskarte für FIP Vergünstigungen 
 {{< float-image
 src="cd-fip-map-detail-26.webp"
 alt="FIP Gültigkeitskarte Detail für Tschechien"
-caption="[Detail FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)"
+caption="Detail FIP Gültigkeitskarte für Tschechien (© Petr Duda)"
 width="40%"
 position="left" >}}
 Für detaillierte Informartionen kann die Detailkarte für FIP Vergünstigungen genutzt werden.

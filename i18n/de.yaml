@@ -167,13 +167,12 @@ interactiveMap:
     pending: Inhalt noch nicht im FIP Guide verfügbar
     unavailable: Keine FIP-Akzeptanz
   loading: Lade interaktive Karte...
-  resetZoom: Zoom zurücksetzen
   title: Interaktive Länderkarte
-  zoomIn: Hineinzoomen
-  zoomOut: Herauszoomen
 language-switcher:
   aria-label: Sprache wechseln
   dropdown-label: Verfügbare Sprachen
+lightbox:
+  open: Öffne Bild in Großbildansicht
 menu:
   close:
     label: Schließen
@@ -206,6 +205,10 @@ operators:
     Reservierungskauf, Tarifliche Besonderheiten
   listTitle: Betreiber mit FIP
   withoutFIP: Betreiber ohne FIP
+panZoom:
+  resetZoom: Zoom zurücksetzen
+  zoomIn: Hineinzoomen
+  zoomOut: Herauszoomen
 related:
   booking: Bei diesen Betreibern nutzbar
   countries: Verwandte Länder

@@ -163,13 +163,12 @@ interactiveMap:
     pending: Content not yet available in the FIP Guide
     unavailable: No FIP acceptance
   loading: Loading interactive map...
-  resetZoom: Reset Zoom
   title: Interactive Country Map
-  zoomIn: Zoom In
-  zoomOut: Zoom Out
 language-switcher:
   aria-label: Switch language
   dropdown-label: Available languages
+lightbox:
+  open: Open picture in large screen view
 menu:
   close:
     label: Close
@@ -202,6 +201,10 @@ operators:
     purchase, special tariff conditions
   listTitle: Operators supporting FIP
   withoutFIP: Operators without FIP
+panZoom:
+  resetZoom: Reset Zoom
+  zoomIn: Zoom In
+  zoomOut: Zoom Out
 related:
   booking: Usable with these operators
   countries: Related Countries

@@ -1,0 +1,10 @@
+{{- $panZoomContent := printf `<img src="%s" alt="%s" loading="lazy" />` .Image.RelPermalink (.Alt | default "") | safeHTML -}}
+{{- $panZoomHTML := partial "pan-zoom" (dict "ID" (printf "%s-pan-zoom" .ID) "Content" $panZoomContent) -}}
+<div class="o-dialog__wrapper--lightbox">
+  {{- partial "dialog" (dict
+    "ID" .ID
+    "Title" (.Alt | default "")
+    "Content" $panZoomHTML
+    )
+  -}}
+</div>
