@@ -3,7 +3,7 @@ draft: false
 title: "RailTourGuide Website"
 description: "Buchungsinformationen für die RailTourGuide Website."
 params:
-  fee: 3,00 £ (bis 31.05.2026), danach 5,00 £
+  fee: 3 £ (bis 31.05.2026), danach 5 £ / 10 £
   fip_global_fare: true
   booking_link: "https://www.railtourguide.com/rail-staff-travel-eurostar/"
   type: "website"
@@ -21,5 +21,5 @@ Um ein Buchungsangebot anzufragen, muss man das Formular auf der Website ausfül
 
 **Pro Buchung wird eine Buchungsgebühr erhoben:**
 
-- Bei Zahlung per Überweisung 3,00 £ (bis 31.05.2026), danach 5,00 £.
-- Bei Zahlung per Kreditkarte 10,00 £.
+- Bei Zahlung per Überweisung 3 £ (bis 31.05.2026), danach 5 £.
+- Bei Zahlung per Kreditkarte 10 £.

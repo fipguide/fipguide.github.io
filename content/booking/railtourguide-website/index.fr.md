@@ -3,7 +3,7 @@ draft: false
 title: "Site Web RailTourGuide"
 description: "Informations de réservation pour le site web RailTourGuide."
 params:
-  fee: 3,00 £ (jusqu'au 31.05.2026), ensuite 5,00 £
+  fee: 3 £ (jusqu'au 31.05.2026), ensuite 5 £ / 10 £
   fip_global_fare: true
   booking_link: "https://www.railtourguide.com/rail-staff-travel-eurostar/"
   type: "website"
@@ -21,5 +21,5 @@ Pour obtenir un devis, veuillez remplir le formulaire en ligne et vous inscrire 
 
 **Des frais de réservation sont facturés par réservation :**
 
-- Paiement par virement bancaire : 3,00 £ (jusqu'au 31.05.2026), ensuite 5,00 £.
-- Paiement par carte de crédit : 10,00 £.
+- Paiement par virement bancaire : 3 £ (jusqu'au 31.05.2026), ensuite 5 £.
+- Paiement par carte de crédit : 10 £.

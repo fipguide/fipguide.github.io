@@ -3,7 +3,7 @@ draft: false
 title: "Ffestiniog Travel Telefon"
 description: "Buchungsinformationen für die Hotline von Ffestiniog Travel."
 params:
-  fee: 12 % p. P. (min. 5,00 £, max. 60,00 £)
+  fee: 12 % p. P. (min. 5 £, max. 60 £)
   fip_50: true
   fip_global_fare: true
   type: "phone"
@@ -18,7 +18,7 @@ Die Buchung ist auf Englisch möglich. Ein Buchstabieralphabet kann bei der Anga
 
 Um Tickets telefonisch buchen zu können, muss initial ein Foto des FIP-Ausweises (bzw. Staff Travel Card für Safeguarded) an [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk) geschickt werden.
 
-**Es fällt eine Buchungsgebühr von 12 % pro Person des Buchungswertes an (mindestens 5,00 £, maximal 60,00 £).**
+**Es fällt eine Buchungsgebühr von 12 % pro Person des Buchungswertes an (mindestens 5 £, maximal 60 £).**
 
 {{% booking-section "fip_global_fare" %}}
 

@@ -3,7 +3,7 @@ draft: false
 title: "Ffestiniog Travel Telephone"
 description: "Booking information for the Ffestiniog Travel hotline."
 params:
-  fee: 12 % p.p. (min. £ 5.00, max. £ 60.00)
+  fee: 12 % p.p. (min. £ 5, max. £ 60
   fip_50: true
   fip_global_fare: true
   type: "phone"
@@ -18,7 +18,7 @@ Booking is available in English. A spelling alphabet can help when providing nam
 
 To book tickets by phone, you must initially send a photo of your FIP Card (or Staff Travel Card for Safeguarded) to [rail@ffestiniogtravel.co.uk](mailto:rail@ffestiniogtravel.co.uk).
 
-**A booking fee of 12 % per person of the booking value applies (minimum £ 5.00, maximum £ 60.00).**
+**A booking fee of 12 % per person of the booking value applies (minimum £ 5, maximum £ 60).**
 
 {{% booking-section "fip_global_fare" %}}
 
