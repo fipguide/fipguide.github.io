@@ -24,7 +24,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Be
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gezahlt werden.
 
@@ -48,7 +48,7 @@ Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in
 #### Reservierung
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
-
+Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
 {{% /train-category %}}
 
 {{% train-category

@@ -11,7 +11,7 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 ## Résumé
 
 - La SNCB accepte les Coupons FIP et les Billets FIP 50 / FIP 75.
-- Aucune réservation nécessaire.
+- Aucune réservation nécessaire en Belgique; temporairement obligatoire pour les trajets transfrontaliers en `ICE`.
 - Supplément obligatoire pour les trajets à destination ou en provenance de l’aéroport de Bruxelles-Zaventem.
 
 ## Validité des Billets FIP
@@ -23,18 +23,22 @@ Les Coupons FIP et les Billets FIP 50 / FIP 75 sont valables sur les trains de l
 
 ## Catégories de trains et réservations
 
-En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains ICE transfrontaliers vers l’Allemagne, la réservation est possible et a été obligatoire en été 2024 (uniquement pour la partie transfrontalière).
+En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains `ICE` transfrontaliers vers l’Allemagne, la réservation est possible et obligatoire du 26.06 au 16.08.2026 (uniquement pour les trajets transfrontaliers).
 
 {{% train-category
   id="ice"
   title="Intercity-Express (ICE)"
   type="highspeed"
   fip_accepted=true
-  reservation_required=false
+  reservation_required=partially
   reservation_possible=true
 %}}
 
 Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main). Certains trains circulent également entre l’Allemagne et Anvers via l’aéroport de Bruxelles-Zaventem ou en été entre l’Allemagne et la côte belge. Tous les trains ICE peuvent également être utilisés en Belgique avec des Billets FIP sans supplément.
+
+#### Réservation
+
+Une réservation est obligatoire pour les trajets transfrontaliers du 26.06 au 16.08.2026.
 
 {{% /train-category %}}
 

@@ -23,18 +23,22 @@ FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCB 
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden `ICE` nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 {{% train-category
     id="ice"
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main). Einzelne Züge verkehren auch zwischen Deutschland und Antwerpen über den Flughafen Brüssel Zaventem und im Sommer zwischen Deutschland und der belgischen Küste. Alle ICE-Züge können auch innerhalb Belgiens mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
+
+#### Reservierung
+
+Bei grenzüberschreitenden Fahrten ist eine Reservierung vom 26.06. bis 16.08.2026 verpflichtend.
 
 {{% /train-category %}}
 
