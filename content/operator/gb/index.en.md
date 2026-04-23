@@ -546,7 +546,7 @@ Regular child tickets may be cheaper than tickets with FIP discount.
   id="dartmouth-steam-railway"
   title="Dartmouth Steam Railway and River Boat Company"
   type="regional"
-  fip_accepted=partially
+  fip_accepted=false
   reservation_possible=nil
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}

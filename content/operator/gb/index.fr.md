@@ -549,7 +549,7 @@ Les billets enfants réguliers peuvent être moins chers que les billets avec r�
   id="dartmouth-steam-railway"
   title="Dartmouth Steam Railway and River Boat Company"
   type="regional"
-  fip_accepted=partially
+  fip_accepted=false
   reservation_possible=nil
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
