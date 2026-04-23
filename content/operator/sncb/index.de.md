@@ -11,7 +11,7 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 ## Zusammenfassung
 
 - SNCB akzeptiert FIP Freifahrt und FIP 50 / FIP 75 Tickets.
-- Keine Reservierungspflicht.
+- Keine Reservierungspflicht innerhalb Belgiens.
 - Aufschlag für Fahrten von/zum Flughafen Brüssel Zaventem.
 
 ## Gültigkeit FIP Tickets
