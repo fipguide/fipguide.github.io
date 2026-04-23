@@ -8,7 +8,7 @@ country: "montenegro"
 
 In Montenegro werden FIP 50 Tickets sowie FIP-Freifahrtscheine bei der Bahngesellschaft [ŽPCG (Željeznički prevoz Crne Gore)](/operator/zpcg) anerkannt. Die Anerkennung gilt auf dem gesamten Schienennetz.
 
-{{< identify-operator sources="zpcg-website,db-website,vagonweb" />}}
+{{< identify-operator sources="zpcg-website,vagonweb" />}}
 
 ## Wissenswertes
 

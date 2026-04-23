@@ -17,7 +17,6 @@ operator: "zpcg"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽPCG gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
@@ -25,7 +24,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽPCG gültig.
 
 {{% train-category
     id="national"
-    title="Nationaler Tagzug"
+    title="Nationale Züge"
     type="regional"
     fip_accepted=true
     reservation_required=false
@@ -44,13 +43,13 @@ Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticke
 
 {{% train-category
     id="international"
-    title="Internationaler Nachtzug"
+    title="Internationale Züge"
     type="sleeper"
     fip_accepted=true
     reservation_required=true
 %}}
 
-Zwischen Montenegro und Serbien betreibt die ŽPCG Nachtzüge mit Sitz-, Liege- und Schlafwagen sowie (teilweise) Speisewagen.
+Zwischen Montenegro und Serbien betreibt die ŽPCG in den Sommermonaten Tagzüge sowie ganzjährig Nachtzüge mit Sitz-, Liege- und Schlafwagen sowie (teilweise) Speisewagen.
 Diese verkehren auf der Strecke Bar – Podgorica – Bijelo Polje – Belgrad.
 
 Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticketpreise](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf) gewährt.
@@ -77,6 +76,14 @@ FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
+
+{{% highlight inofficial %}}
+Scheinbar können Tickets und Reservierungen auch via E-Mail an [info@zpcg.me](mailto:info@zpcg.me) gebucht und an einem [ŽPCG Ticketschalter](#vor-ort) abgeholt werden. Da dieses Vorgehen für Interrail funktioniert, sollte es auch mit FIP möglich sein.
+
+Offizielle Informationen zu diesem Vorgehen liegen uns jedoch nicht vor.
+
+Quelle: [Reddit](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
+{{% /highlight %}}
 
 ### Vor Ort
 
