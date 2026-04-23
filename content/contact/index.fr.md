@@ -18,5 +18,3 @@ La communauté FIP Guide est accessible via la plateforme en ligne _Discord_ et 
 Contactez l'équipe derrière le FIP Guide – nous sommes à votre disposition pour vos questions, remarques ou contributions de contenu.
 
 {{< contact-form >}}
-
-Ou écrivez-nous un e-mail : [nextstop@fipguide.org](mailto:nextstop@fipguide.org)
