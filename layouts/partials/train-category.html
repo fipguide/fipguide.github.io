@@ -3,7 +3,13 @@
   name="train-category"
   id="{{ .id }}"
 >
-  <summary class="o-expander__summary o-expander__summary--train-category">
+  <h3 style="display: none" id="{{ .id }}">
+    {{- .title -}}
+  </h3>
+  <summary
+    class="o-expander__summary o-expander__summary--train-category"
+    data-pagefind-ignore
+  >
     <div class="o-train-category__header">
       <div class="o-train-category__title">
         {{ $iconMapping := dict
@@ -114,9 +120,11 @@
   </summary>
   <hr aria-hidden="true" />
   <div class="o-expander__content o-train-category__content">
-    {{ .content }}
+    {{- $content := partial "increase-headings" (dict "content" .content "offset" 1) -}}
+    {{- $content := partial "pagefind-ignore-headings" (dict "content" $content) -}}
+    {{- $content | safeHTML -}}
     {{- if or .route_overview_url .additional_information_url -}}
-      <div>
+      <div data-pagefind-ignore>
         {{- if .route_overview_url -}}
           {{- partial "button"
             (dict

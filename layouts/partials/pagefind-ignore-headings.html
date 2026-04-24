@@ -1,0 +1,4 @@
+{{- $pattern := `(<h[1-6])(\s[^>]*?)?>` -}}
+{{- $replacement := `${1}${2} data-pagefind-ignore="index">` -}}
+{{- $content := replaceRE $pattern $replacement .content -}}
+{{- return $content -}}

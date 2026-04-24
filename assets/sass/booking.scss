@@ -99,3 +99,17 @@
   flex-direction: column;
   gap: 1rem;
 }
+
+.o-booking__content {
+  h4 {
+    @extend %h3;
+  }
+
+  h5 {
+    @extend %h4;
+  }
+
+  h6 {
+    @extend %h5;
+  }
+}

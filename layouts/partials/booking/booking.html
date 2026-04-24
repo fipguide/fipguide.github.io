@@ -1,4 +1,7 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
+<h4 style="display: none" id="{{ .id }}">
+  {{- .page.Title -}}
+</h4>
 <summary class="o-expander__summary o-expander__summary--booking">
   <div class="o-booking__header-content">
     <div class="o-booking__title-wrapper">
@@ -11,7 +14,7 @@
           {{- .subtitle -}}
         </div>
       {{- end }}
-      <div class="o-booking__meta">
+      <div class="o-booking__meta" data-pagefind-ignore>
         {{- $metaFields := slice
           (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
           (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
@@ -33,7 +36,7 @@
       </div>
     </div>
     {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
-      <div class="o-booking__classes">
+      <div class="o-booking__classes" data-pagefind-ignore>
         <span class="o-booking__classes-title"
           >{{ T "booking.reservation-costs" }}:</span
         >
@@ -48,7 +51,7 @@
   {{- partial "icon" "keyboard_arrow_down" -}}
 </summary>
 <hr aria-hidden="true" />
-<div class="o-expander__content">
+<div class="o-expander__content o-booking__content">
   {{- if .info -}}
     <div class="o-booking__info">
       {{- .info | .original_page.RenderString -}}
@@ -68,6 +71,7 @@
       >
         {{- $sectionContent := index $section "content" -}}
         {{- $sectionFootnotePrefix := print $.page.File.ContentBaseName "-" $sectionName -}}
+        {{- $sectionContent := partial "pagefind-ignore-headings" (dict "content" $sectionContent) -}}
         {{- $sectionContent | safeHTML -}}
       </div>
     {{- end -}}
