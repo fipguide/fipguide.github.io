@@ -24,6 +24,12 @@ params:
     Explain the steps for booking FIP 50 Tickets with this booking platform.
 -->
 
+### Sources
+
+<!--
+    Add source footnotes for this section here.
+ -->
+
 {{% /booking-section %}}
 
 {{% booking-section "fip_global_fare" %}}
@@ -34,6 +40,12 @@ params:
     Explain the steps for booking FIP Global Fares with this booking platform.
 -->
 
+### Sources
+
+<!--
+    Add source footnotes for this section here.
+ -->
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -43,5 +55,11 @@ params:
 <!--
     Explain the steps for booking reservations with this booking platform.
 -->
+
+### Sources
+
+<!--
+    Add source footnotes for this section here.
+ -->
 
 {{% /booking-section %}}

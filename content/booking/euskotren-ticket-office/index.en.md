@@ -17,4 +17,6 @@ Upon presentation of the FIP Card, a ticket valid for 7 days is issued at the fo
 - **Durango**: Durango station ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))
 - **Hendaye**: Hendaye station ([Google Maps](https://maps.app.goo.gl/YZV2uBX66KpiyCjZ7)) [^1]
 
+## Sources
+
 [^1]: [Euskotren sells FIP 50 Tickets in Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)

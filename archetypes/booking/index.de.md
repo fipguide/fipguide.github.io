@@ -24,6 +24,12 @@ params:
     Erkläre hier die Buchungswege, um FIP 50 Tickets zu erwerben.
 -->
 
+### Quellen
+
+<!--
+    Füge hier Quellen-Fußnoten für diesen Abschnitt hinzu.
+ -->
+
 {{% /booking-section %}}
 
 {{% booking-section "fip_global_fare" %}}
@@ -34,6 +40,12 @@ params:
     Erkläre hier die Buchungswege, um FIP Globalpreise zu erwerben.
 -->
 
+### Quellen
+
+<!--
+    Füge hier Quellen-Fußnoten für diesen Abschnitt hinzu.
+ -->
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -43,5 +55,11 @@ params:
 <!--
     Erkläre hier die Buchungswege, um Reservierungen zu erwerben.
 -->
+
+### Quellen
+
+<!--
+    Füge hier Quellen-Fußnoten für diesen Abschnitt hinzu.
+ -->
 
 {{% /booking-section %}}
