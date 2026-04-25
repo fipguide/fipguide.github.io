@@ -58,7 +58,7 @@ Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticke
 
 Eine Reservierung ist verpflichtend. Die Kosten betragen in der ersten und zweiten Klasse 3 € pro Sitzplatz.[^1]
 
-Die [Kosten für Liege- und Schlafwagenreservierungen](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf) variieren je nach Wagenklasse.
+Die [Kosten für Liege- und Schlafwagenreservierungen](https://zpcg.me/en/red-voznje/medjunarodni) (Klick auf eine Fahrt und dort auf "Beds") variieren je nach Wagenklasse.
 Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^2]
 
 {{% /train-category %}}
