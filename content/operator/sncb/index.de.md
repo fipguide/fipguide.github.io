@@ -23,7 +23,7 @@ FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCB 
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden `ICE` nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden `ICE` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 {{% train-category
     id="ice"

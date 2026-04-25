@@ -23,7 +23,7 @@ FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCB connections. For cross
 
 ## Train Categories and Reservations
 
-Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For cross-border `ICE` trains to Germany, reservations are possible and was mandatory in summer 2026 (only for cross-border journeys).
+Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For cross-border `ICE` trains to Germany, reservations are possible and, for example, mandatory in summer 2026 (only for cross-border journeys).
 
 {{% train-category
     id="ice"

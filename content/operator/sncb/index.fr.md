@@ -23,7 +23,7 @@ Les Coupons FIP et les Billets FIP 50 / FIP 75 sont valables sur les trains de l
 
 ## Catégories de trains et réservations
 
-En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains `ICE` transfrontaliers vers l’Allemagne, la réservation est possible a été obligatoire en été 2026 (uniquement pour la partie transfrontalière).
+En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains internationaux `ICE` vers l'Allemagne, la réservation est possible et sera obligatoire en été 2026 (uniquement pour les trajets transfrontaliers).
 
 {{% train-category
   id="ice"
