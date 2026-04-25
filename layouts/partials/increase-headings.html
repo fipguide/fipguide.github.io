@@ -1,10 +1,8 @@
 {{- $content := .content -}}
 {{- $offset := .offset | default 1 -}}
 
-{{- range $level := (seq 4 1) -}}
-  {{- $newLevel := add $level $offset -}}
-  {{- $content = $content | replaceRE (printf `<h%d(\s[^>]*)?>` $level) (printf `<h%d${1}>` $newLevel) -}}
-  {{- $content = $content | replaceRE (printf `</h%d>` $level) (printf `</h%d>` $newLevel) -}}
+{{- range seq $offset -}}
+  {{- $content = replaceRE `(?m)^(\s{0,3})(#{1,5})(\s+)` `${1}#${2}${3}` $content -}}
 {{- end -}}
 
 {{- return $content -}}

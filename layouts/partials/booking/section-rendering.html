@@ -1,7 +1,0 @@
-{{- $sectionContent := .content -}}
-{{- $footnotePrefix := .footnotePrefix | default .prefix -}}
-{{- $headingPrefix := .headingPrefix | default .prefix -}}
-{{- $sectionContent := partial "increase-headings" (dict "content" $sectionContent "offset" 2) -}}
-{{- $sectionContent := partial "prefix-footnotes" (dict "content" $sectionContent "prefix" $footnotePrefix) -}}
-{{- $sectionContent := partial "prefix-heading-ids" (dict "content" $sectionContent "prefix" $headingPrefix) -}}
-{{- $sectionContent | safeHTML -}}

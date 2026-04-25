@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Spezielles "Euskotren FIP Ticket"'
+title: "Euskotren Ticketschalter"
 params:
   fip_50: nil
   fip_global_fare: nil
