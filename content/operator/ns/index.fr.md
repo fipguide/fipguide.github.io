@@ -24,7 +24,7 @@ Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les traj
 
 ## Catégories de trains et réservations
 
-Aucune réservation n'est requise pour les trains NS aux Pays-Bas, et elle n'est généralement pas possible. Pour les trains internationaux `ICE` et `IC` vers l'Allemagne, la réservation est possible et sera obligatoire en été 2025 (uniquement pour les trajets transfrontaliers).
+Aucune réservation n'est requise pour les trains NS aux Pays-Bas, et elle n'est généralement pas possible. Pour les trains internationaux `ICE` vers l'Allemagne, la réservation est possible et sera obligatoire en été 2025 (uniquement pour les trajets transfrontaliers).
 
 Un supplément est partiellement nécessaire pour les trains Eurocity Direct et Intercity Direct.
 
@@ -48,6 +48,7 @@ Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-su
 #### Réservation
 
 Une réservation est obligatoire pour les trajets transfrontaliers en haute saison.
+En 2026, ce sera le cas du 26 juin au 16 août.
 
 {{% /train-category %}}
 
