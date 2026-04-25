@@ -6,177 +6,122 @@ country:
 operator: "zpcg"
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-
-{{< wip >}}
-
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) is the national passenger transport operator in Montenegro.
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- FIP 50 Tickets and FIP Coupons are accepted.
+- National journeys and international night train connections to/from Serbia are offered.
 
 ## Validity of FIP Tickets
 
-<!--
-  The ticket categories may vary depending on the operator.
--->
-
-<!--
-  Use the following shortcodes to display FIP validity. The following parameters can be passed:
-  - `type`: fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status`: valid, invalid, unknown
-  - `text`: Optional custom text to display
-  - `disable_dialog`: true/false (default: false) - Set to true to disable the dialog
--->
-
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-<!--
-  Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
+FIP Coupons and FIP 50 Tickets are valid on ŽPCG services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
 
 ## Train Categories and Reservations
 
-<!--
-  For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
-  - `id`: Lowercase, hyphenated abbreviation of the train category (e.g., "ice", "tgv-inoui")
-  - `title`: Title of the train category
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` or `ship`
-  - `fip_accepted`: true, false, partially
-  - `reservation_required`: true, false, partially
-  - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)
-  - `route_overview_url`: Link to a page with an overview of the routes of this category (can be omitted if not available)
-  - `additional_information_url`: Link to a page with additional information about this category (can be omitted if not available)
--->
-
 {{% train-category
-    id="expander-id"
-    title="title"
-    type="highspeed"
+    id="national"
+    title="National Trains"
+    type="regional"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    reservation_required=false
 %}}
+The ŽPCG operates regional trains in domestic traffic, which are second class only.
+The trains do not have line designations and only carry a train number.
 
-<!--
-  A description of the train category can be added here.
--->
-
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
-{{% /highlight %}}
-
-{{% highlight important %}}
-Further important information can be added here.
-{{% /highlight %}}
-
-#### Reservation
-
-<!--
-  Description of the reservation conditions for this train category.
--->
+Upon presentation of the FIP Card, a 50% discount is granted on [regular ticket prices](https://zpcg.me/en/lokalni-prevoz/cijene).
 
 #### Scheduled routes
 
-<!--
-  List of all routes of this train category in scheduled services.
-
-  For partial FIP validity, the following subheadings can be used:
--->
-
-<!--
-##### Routes with FIP validity
-
-- Route 1
-- Route 2
-
-##### Routes without FIP validity
-
-- Route 3
-- Route 4
--->
+- Bar - Podgorica - Bijelo Polje
+- Podgorica - Nikšić
 
 {{% /train-category %}}
 
-## Class Categories
+{{% train-category
+    id="international"
+    title="International Trains"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+%}}
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
+Between Montenegro and Serbia, ŽPCG operates daytime trains in the summer months as well as year-round night trains with seated, couchette and sleeping cars and (partly) dining cars.
+These run on the route Bar - Podgorica - Bijelo Polje - Belgrade.
 
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+Upon presentation of the FIP Card, a 50% discount is granted on [regular ticket prices](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf).
+
+#### Reservation
+
+A reservation is mandatory. The cost in first and second class is EUR 3 per seat.[^1]
+
+The [costs for couchette and sleeping car reservations](https://zpcg.me/en/red-voznje/medjunarodni) (click on a service and then on "Beds") vary depending on the coach class.
+An additional 10% service fee applies for couchette/sleeping car reservations.[^2]
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=nil
+%}}
+
+FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail replacement services.[^2]
+
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
-### Online
+{{% highlight inofficial %}}
+Apparently, tickets and reservations can also be booked by email via [info@zpcg.me](mailto:info@zpcg.me) and collected at a [ŽPCG Ticket Office](#on-site). Since this works for Interrail, it should also be possible with FIP.
 
-<!--
-  Embed the information of a defined booking platform here.
+However, we do not have official information on this procedure.
 
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
-
-  For more information how to define a booking platform, check the booking archetype.
--->
-
-### Telephone
-
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
+Source: [Reddit](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
+{{% /highlight %}}
 
 ### On-Site
 
-<!--
-  Embed additional booking platforms with booking on site here.
--->
+{{% booking id="zpcg-ticket-office" /%}}
 
 ### On the Train
 
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
+FIP discounted tickets can be purchased on the train. A surcharge of EUR 1 applies if the journey starts at a station with a ticket office (Bar, Sutomore, Podgorica, Nikšić, and Bijelo Polje).[^3]
 
 ## Discounts
 
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+For public fares, children up to 6 years travel free of charge. Children up to 14 years receive a 50% discount on the adult fare. Children aged 14 and older pay the adult fare.[^2]
 
 ## Special Tariff Conditions
 
-### <Route or Name>
+### Rail Replacement Services
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
+FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail replacement services.[^2]
 
-## Recommendations
+### Global Fares
 
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+On Global Fare trains, holders of FIP Coupons pay a surcharge. For holders of a FIP Card, a 50% discount is applied to the Global Fare.[^2]
+
+### Break of journey
+
+Breaks of journey are permitted within the validity period of the ticket.[^2]
+
+### Bulky Luggage
+
+Luggage that cannot be stored either above or below the seat is considered bulky luggage. Additional fees apply. The exact prices can be found in the conditions of carriage.[^4]
+For travellers with an FIP Coupon, no fee is charged for carrying travel luggage up to 30 kg.
 
 ## Sources
 
-[^1]: [<Source Name 1>](Link)
+[^1]: [ŽPCG - International ticket prices](https://zpcg.me/en/medjunarodni-prevoz/cijene)
 
-[^2]: [<Source Name 2>](Link)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
+
+[^3]: [ŽPCG - National ticket prices](https://zpcg.me/en/lokalni-prevoz/cijene)
+
+[^4]: [ŽPCG - Conditions of carriage, section 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)

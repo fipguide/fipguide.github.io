@@ -4,51 +4,64 @@ title: "Montenegro"
 country: "montenegro"
 ---
 
-<!-- Remove the WIP snippet if the page is complete -->
-
-{{< wip >}}
-
 ## FIP Information
 
-<!--
-    A short summary text that should answer the following questions in this order:
-    - Which FIP Tickets (FIP 50/FIP Coupon tickets) are recognized in the country and by which railway operator?
-    - What are the special features of using FIP with the respective railway operator? (Add link to the railway operator)
-    - Which railway operators do not recognize FIP Tickets and how can you identify these operators in the connection information?
--->
+In Montenegro, FIP 50 Tickets and FIP Coupons are accepted by the railway company [ŽPCG (Željeznički prevoz Crne Gore)](/operator/zpcg). Acceptance applies across the entire rail network.
 
-{{< identify-operator sources="" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="zpcg-website,vagonweb" />}}
 
 ## Interesting
 
-<!--
-    A short section about the general train situation in the country. The following topics can be covered, for example:
-    - State of the railway network
-    - Important connections
-    - Quality and condition of the trains
-    - Punctuality
-    - Frequency
-    - Special trains/routes/lines
-    - Beautiful train stations
--->
+The rail network in Montenegro is small, but strategically important for travel within the country. The central north-south axis (Belgrade - Bar) serves the most important Montenegrin intermediate stations such as Bar, Podgorica and Bijelo Polje.
+
+In addition, the Podgorica - Nikšić line is relevant for domestic traffic. It directly connects the country’s second-largest city to the capital.
+
+The connection from Podgorica to Shkoder (Albania) exists, but is currently only used for freight traffic.
 
 ## Arrival and Border Points
 
-<!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
--->
-
 {{% expander "Border Points" border %}}
 
-| Country | Border Points |
-| ------- | ------------- |
+| Country     | Border Points     |
+| ----------- | ----------------- |
+| Serbia (SV) | Bijelo Polje (Gr) |
 
 {{% /expander %}}
 
-### <Country Name>
+### Serbia
 
-<!--
-  Which routes can be used from the respective country?
-  What tips & recommendations are there for entry from the country
--->
+From Serbia, Montenegro can be reached by the [only cross-border night train](/operator/zpcg#international).
+
+### Albania
+
+A cross-border railway line between Montenegro and Albania exists, but is currently only used for freight traffic. At present, there is therefore no regular international passenger rail connection for travellers.
+
+### Bosnia and Herzegovina
+
+There is no rail connection between Bosnia and Herzegovina and Montenegro.
+
+### Croatia
+
+There is no rail connection between Croatia and Montenegro.
+
+### Kosovo
+
+There is no rail connection between Kosovo and Montenegro.
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ŽRS),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}

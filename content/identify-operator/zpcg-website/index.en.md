@@ -4,4 +4,4 @@ params:
   url: "https://zpcg.me/en/"
 ---
 
-The ŽPCG website displays all connections.
+All trains are listed on the ŽPCG website.
