@@ -24,7 +24,7 @@ FIP Coupons and FIP 50 Tickets are valid on NS services. For cross-border journe
 
 ## Train Categories and Reservations
 
-Within the Netherlands, reservations are not required on NS and are often not possible. For cross-border ICE and IC trains to Germany, reservations are possible and, for example, mandatory in summer 2025 (only for cross-border journeys).
+Within the Netherlands, reservations are not required on NS and are often not possible. For cross-border `ICE` trains to Germany, reservations are possible and, for example, mandatory in summer 2026 (only for cross-border journeys).
 
 Supplements must partly be paid for Eurocity Direct and Intercity Direct trains.
 
@@ -48,6 +48,7 @@ The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supple
 #### Reservation
 
 A reservation is required for cross-border journeys during high season.
+In 2026, this will be the case from June 26th to August 16th.
 
 {{% /train-category %}}
 
