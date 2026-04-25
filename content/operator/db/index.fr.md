@@ -41,7 +41,13 @@ L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la
 #### Réservation
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
-Pour les trajets transfrontaliers en été vers l’Autriche et les Pays-Bas, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
+Obligation de réservation temporaire pour les trajets transfrontaliers:
+
+- vers/depuis le Danemark: 26.06 – 16.08.2026
+- vers/depuis la Belgique: 26.06 – 16.08.2026
+- vers/depuis les Pays-Bas: 26.06 – 31.08.2026
+
+Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
 
 {{% /train-category %}}
 
