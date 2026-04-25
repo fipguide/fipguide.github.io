@@ -33,7 +33,7 @@ FIP discounts apply with the following operators:
   id="ferry"
   title="Fähre"
   type="ship"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
   route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
@@ -47,9 +47,9 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
-{{% highlight important %}}
+{{< highlight important >}}
 FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

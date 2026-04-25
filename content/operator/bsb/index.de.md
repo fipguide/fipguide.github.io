@@ -47,9 +47,9 @@ Auf den folgenden Strecken können Autos mitgeführt werden:
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Auf der SBS Fähre zwischen Altnau-Hagnau und Immenstaad werden FIP Ermäßigungen nicht anerkannt.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
