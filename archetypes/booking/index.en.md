@@ -16,19 +16,21 @@ params:
   type: "onsite" # Accepted types are: website, onsite, phone, email, socialmedia and machine
 ---
 
+{{% booking-section "general" %}}
+
+<!--
+    This section is always rendered unless it is explicitly disabled via `general: false`.
+-->
+
+{{% /booking-section %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
 
 <!--
-    Explain the steps for booking FIP 50 Tickets with this booking platform.
+    Explain the booking steps to purchase FIP 50 Tickets.
 -->
-
-### Sources
-
-<!--
-    Add source footnotes for this section here.
- -->
 
 {{% /booking-section %}}
 
@@ -37,14 +39,8 @@ params:
 ## FIP Global Fare
 
 <!--
-    Explain the steps for booking FIP Global Fares with this booking platform.
+    Explain the booking steps to purchase FIP Global Fare tickets.
 -->
-
-### Sources
-
-<!--
-    Add source footnotes for this section here.
- -->
 
 {{% /booking-section %}}
 
@@ -53,13 +49,7 @@ params:
 ## Reservations
 
 <!--
-    Explain the steps for booking reservations with this booking platform.
+    Explain the booking steps to purchase reservations.
 -->
-
-### Sources
-
-<!--
-    Add source footnotes for this section here.
- -->
 
 {{% /booking-section %}}

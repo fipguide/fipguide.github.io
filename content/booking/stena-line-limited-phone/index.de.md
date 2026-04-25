@@ -9,12 +9,15 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Ein individuelles Angebot kann via Telefon eingeholt und gebucht werden: [+44 3432 081801](tel:+443432081801)
 
 Die Buchung ist nur in Englisch möglich.
 Ein Buchstabieralphabet kann bei der Angabe von Namen und weiteren Daten helfen.
 Die Reisedaten, Reisepass und FIP Ausweis sollten bereitgehalten werden.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
@@ -22,5 +25,7 @@ Die Reisedaten, Reisepass und FIP Ausweis sollten bereitgehalten werden.
 FIP 50 Tickets können gebucht werden.
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% satellite /%}}
+{{% /booking-section %}}

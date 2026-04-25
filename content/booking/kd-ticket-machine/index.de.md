@@ -9,8 +9,11 @@ params:
   type: "machine"
 ---
 
+{{% booking-section "general" %}}
+
 An einigen Bahnhöfen gibt es Koleje Dolnośląskie Fahrkartenautomaten. Auf der Website der KD sind alle Bahnhöfe mit Fahrkartenautomaten aufgelistet.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

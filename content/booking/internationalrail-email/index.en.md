@@ -42,5 +42,7 @@ FIP 50 tickets can be purchased via International Rail Ltd. To do so, send an em
 - Photo of the FIP Card for all traveling persons
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 **A booking fee of £ 10 is charged per booking.**
+{{% /booking-section %}}

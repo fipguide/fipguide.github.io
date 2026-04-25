@@ -12,6 +12,8 @@ aliases:
   - cfl_phone
 ---
 
+{{% booking-section "general" %}}
+
 Die CFL bietet eine Buchungshotline, über die FIP 50 Fahrkarten erworben werden können. Die Hotline ist auf Luxemburgisch, Französisch, Deutsch und Englisch verfügbar.
 
 [+352 (0) 2489 2489](tel:+35224892489)
@@ -21,3 +23,4 @@ Zur Authentifizierung der FIP-Berechtigung muss ein Foto der Innenseite des FIP-
 **Die CFL erhebt eine Buchungsgebühr von 5 € pro Buchung.**
 
 {{% satellite /%}}
+{{% /booking-section %}}

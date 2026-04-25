@@ -14,6 +14,7 @@
   "original_page" .Page
   "subtitle" (.Get "subtitle")
   "info" (.Inner)
+  "general" ((.Get "general" ) | default "true")
   "fip_50" ((.Get "fip_50" ) | default $page.Params.fip_50 | default "nil")
   "fip_75" ((.Get "fip_75" ) | default $page.Params.fip_75 | default "nil")
   "fip_global_fare" ((.Get "fip_global_fare" ) | default $page.Params.fip_global_fare | default "nil")

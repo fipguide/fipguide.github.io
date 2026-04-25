@@ -9,8 +9,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 In larger cities, there are sometimes PKP Intercity ticket machines.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

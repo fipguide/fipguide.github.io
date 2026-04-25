@@ -8,6 +8,8 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Über die Hotline können FIP 50 Fahrkarten und Reservierungen gebucht werden.
 
 [+47 61 27 90 88](tel:+4761279088) – wähle die 9 für Englisch.
@@ -21,3 +23,4 @@ Die Wartezeit am Telefon variiert: wenn man sich an einem geschäftigen Tag in d
 - Sonntag: 09:00 – 23:00 (CET)
 
 {{% satellite /%}}
+{{% /booking-section %}}

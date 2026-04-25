@@ -12,6 +12,8 @@ aliases:
   - cfl_phone
 ---
 
+{{% booking-section "general" %}}
+
 La CFL propose une hotline de réservation auprès de laquelle les Billets FIP 50 peuvent être achetés. Le service est disponible en luxembourgeois, français, allemand et anglais.
 
 [+352 (0) 2489 2489](tel:+35224892489)
@@ -21,3 +23,4 @@ Pour justifier de l’éligibilité FIP, une photo de l’intérieur de la Carte
 **La CFL facture des frais de réservation de 5€ par commande.**
 
 {{% satellite /%}}
+{{% /booking-section %}}

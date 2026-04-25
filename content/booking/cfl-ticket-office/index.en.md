@@ -9,8 +9,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 CFL ticket offices are located at Luxembourg and Belval-Université stations.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

@@ -9,6 +9,8 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Ffestiniog Travel has direct access to the booking systems of many railway operators and can offer tickets for many trains in Europe.
 Exceptions are France (SNCF) and Norway (Vy Group).
 
@@ -20,6 +22,7 @@ To book tickets by phone, you must initially send a photo of your FIP Card (or S
 
 **A booking fee of 12 % per person of the booking value applies (minimum £ 5, maximum £ 60).**
 
+{{% /booking-section %}}
 {{% booking-section "fip_global_fare" %}}
 
 ## FIP Global Fare
@@ -27,9 +30,11 @@ To book tickets by phone, you must initially send a photo of your FIP Card (or S
 FIP Global Fare tickets for Eurostar can be purchased via the Ffestiniog Travel hotline.
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% satellite /%}}
 
 ## Sources
 
 [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+{{% /booking-section %}}

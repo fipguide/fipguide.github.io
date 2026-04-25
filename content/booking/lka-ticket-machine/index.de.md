@@ -10,8 +10,11 @@ params:
   type: "machine"
 ---
 
+{{% booking-section "general" %}}
+
 An einigen Bahnhöfen in Polen gibt es Fahrkartenautomaten, die auch Fahrkarten für die ŁKA verkaufen. Zudem sind sie auf bestimmten Strecken auch direkt in den Zügen zu finden.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

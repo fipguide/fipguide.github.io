@@ -14,6 +14,8 @@ aliases:
   - sncb_website
 ---
 
+{{% booking-section "general" %}}
+
 Bei Nutzung einer Freifahrt für die SNCB, CFL oder NS kann über die Website ein grenzüberschreitendes Ticket gebucht werden, welches die Freifahrt im belgischen, luxemburgischen oder niederländischen Abschnitt berücksichtigt. Dafür bei den Reisenden die Ermäßigung eine der folgenden Ermäßigungen auswählen:
 
 - _Freifahrtschein Belgien (SNCB)_ bzw. _100% Ermäßigung Belgien (SNCB)_
@@ -23,3 +25,4 @@ Bei Nutzung einer Freifahrt für die SNCB, CFL oder NS kann über die Website ei
 Somit lassen sich grenzüberschreitende Züge von Belgien z. B. nach Lille in Frankreich (außer mit dem `TGV`, der einen Globalpreis besitzt und nicht von der SNCB betrieben wird) sehr günstig buchen. Im Abschnitt, bei dem keine Vergünstigung angegeben wird, wird jedoch kein FIP 50, sondern der volle Fahrpreis berechnet.
 
 ![SNCB FIP Ticket buchen](fip_sncb_website.webp)
+{{% /booking-section %}}

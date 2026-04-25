@@ -13,8 +13,11 @@ params:
   type: "website"
 ---
 
+{{% booking-section "general" %}}
+
 Les Billets FIP 50 ne peuvent **pas** être achetés via l’application ČD, car les réductions de 50% proposées dans l’application ne proviennent pas des quotas FIP.
 
+{{% /booking-section %}}
 {{% booking-section "reservations" %}}
 
 ## Réservations

@@ -9,6 +9,8 @@ params:
   type: "socialmedia"
 ---
 
+{{% booking-section "general" %}}
+
 FIP 50 Tickets and reservations can be booked via the online chat.
 
 **Opening hours:**
@@ -16,3 +18,4 @@ FIP 50 Tickets and reservations can be booked via the online chat.
 - Monday to Friday: 07:00 – 23:00 (CET)
 - Saturday: 08:00 – 21:00 (CET)
 - Sunday: 09:00 – 23:00 (CET)
+  {{% /booking-section %}}

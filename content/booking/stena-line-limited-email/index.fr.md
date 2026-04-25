@@ -9,6 +9,8 @@ params:
   type: "email"
 ---
 
+{{% booking-section "general" %}}
+
 La réservation auprès de Stena Line est facilement possible par e-mail. Pour ce faire, envoyez un e-mail à [info.cherbourg@stenaline.com](mailto:info.cherbourg@stenaline.com).[^1]
 L'e-mail doit contenir les informations suivantes:
 
@@ -21,6 +23,7 @@ L'e-mail doit contenir les informations suivantes:
 En règle générale, vous recevrez deux e-mails de réponse de Stena Line. Le premier e-mail confirme votre demande de réservation. Le deuxième e-mail vous propose une option de paiement via pay per link. Vous devez alors saisir les données de votre carte de crédit.
 Après le paiement, vous recevez un e-mail avec la confirmation de réservation, qui fait également office de billet. Vous devez bien sûr emporter les billets FIP avec vous.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
@@ -28,7 +31,10 @@ Après le paiement, vous recevez un e-mail avec la confirmation de réservation,
 Les billets FIP 50 peuvent être réservés.
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 ## Sources
 
-[^1]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1433789686039707688/1481942947917467669)
+[^1]:
+    [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1433789686039707688/1481942947917467669)
+    {{% /booking-section %}}

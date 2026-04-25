@@ -9,8 +9,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 KD operates an extensive network of ticket offices, including at smaller stations. It is helpful to know some Polish or to use a suitable translation app, as English is not widely spoken.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

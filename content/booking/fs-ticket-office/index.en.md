@@ -44,9 +44,11 @@ Different prices for long-distance trains to Switzerland/Austria: e.g. €20 Chi
 {{% /float-image %}}
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% highlight tip %}}
 For short journeys on Le Frecce and other long-distance trains, the regular fare is cheaper than FIP reduced tickets.
 
 Additionally, supplements for Le Frecce and other long-distance trains can sometimes be more expensive than a FIP 50 Ticket.
 {{% /highlight %}}
+{{% /booking-section %}}

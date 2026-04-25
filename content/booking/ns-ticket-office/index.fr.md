@@ -13,6 +13,8 @@ aliases:
   - ns_ticket_office
 ---
 
+{{% booking-section "general" %}}
+
 Les Coupons FIP internationaux et les réservations ne peuvent être achetés que dans les gares avec guichet NS International. En date de février 2026, ce sont les guichets des gares suivantes :
 
 <!-- prettier-ignore -->
@@ -26,6 +28,7 @@ Les Coupons FIP internationaux et les réservations ne peuvent être achetés qu
 
 Plus d’informations chez [NS International](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

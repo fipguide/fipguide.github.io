@@ -14,6 +14,8 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Les réservations par téléphone sont possibles via la hotline SNCF :
 
 [+33 1 84 94 36 35](tel:+33184943635)
@@ -42,6 +44,7 @@ _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
 {{% /highlight %}}
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50/75
@@ -77,5 +80,7 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% satellite /%}}
+{{% /booking-section %}}

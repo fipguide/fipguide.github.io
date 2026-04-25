@@ -9,12 +9,15 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 An individual offer can be requested and booked by telephone: [+44 3432 081801](tel:+443432081801)
 
 Booking is only possible in English.
 A spelling alphabet can help when providing names and other details.
 Travel dates, passport, and FIP Card should be kept ready.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Ticket
@@ -22,5 +25,7 @@ Travel dates, passport, and FIP Card should be kept ready.
 FIP 50 Tickets can be booked.
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% satellite /%}}
+{{% /booking-section %}}

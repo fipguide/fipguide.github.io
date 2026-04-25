@@ -13,8 +13,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 PKP Intercity operates an extensive network of ticket offices even at smaller stations. Linguistically, it is advantageous to speak some Polish or have a suitable translator app, as English is often not very widespread.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

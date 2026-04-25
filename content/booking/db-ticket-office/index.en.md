@@ -16,8 +16,11 @@ aliases:
   - db_ticket_office
 ---
 
+{{% booking-section "general" %}}
+
 Deutsche Bahn ticket offices are called _DB Reisezentrum_ and are located in many larger stations throughout Germany.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

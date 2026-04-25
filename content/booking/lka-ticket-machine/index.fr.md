@@ -10,8 +10,11 @@ params:
   type: "machine"
 ---
 
+{{% booking-section "general" %}}
+
 Dans certaines gares en Pologne, des distributeurs de billets sont disponibles qui vendent également des billets pour ŁKA. De plus, on les trouve également directement dans les trains sur certaines lignes.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

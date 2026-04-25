@@ -14,8 +14,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 Les guichets SNCF, appelés SNCF Connect Shops, sont présents dans toutes les grandes gares en France. Vous pouvez y acheter des billets pour des voyages nationaux et internationaux. Les horaires d’ouverture des guichets sont souvent limités, il est donc conseillé de les vérifier avant votre visite. Pour les voyages en France, il est également possible d’acheter des surclassements de la 2de à la 1re classe en payant la différence.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50/75
@@ -51,5 +54,7 @@ Si le personnel au guichet ne sait pas quel code tarifaire utiliser, il est poss
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% satellite /%}}
+{{% /booking-section %}}

@@ -13,6 +13,8 @@ aliases:
   - ns_ticket_office
 ---
 
+{{% booking-section "general" %}}
+
 International FIP Coupons and reservations can only be purchased at NS International ticket counters. As of February 2026, these are the ticket counters at the following stations:
 
 <!-- prettier-ignore -->
@@ -26,6 +28,7 @@ International FIP Coupons and reservations can only be purchased at NS Internati
 
 More information at [NS International](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

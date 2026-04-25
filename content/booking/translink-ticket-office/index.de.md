@@ -10,8 +10,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 Über die [Stationssuche von Translink](https://www.translink.co.uk/using-translink/station-finder) können Stationen mit Ticketschaltern gefunden werden. Die entsprechenden Ticketschalter werden als "customer information desk" bezeichnet.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

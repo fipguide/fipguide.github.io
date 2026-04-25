@@ -61,6 +61,10 @@
   gap: 0.6rem;
   margin-top: 0.4rem;
 
+  &:empty {
+    margin-top: 0;
+  }
+
   @media (max-width: #{$breakpoint-md}) {
     &:empty {
       display: none;

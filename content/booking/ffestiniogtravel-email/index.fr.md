@@ -9,6 +9,8 @@ params:
   type: "email"
 ---
 
+{{% booking-section "general" %}}
+
 Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.
 Les exceptions sont la France (SNCF) et la Norvège (Vy Group).
 
@@ -18,6 +20,7 @@ Sur demande, le personnel établit l'offre adaptée au voyage :
 - Initialement, une photo de votre Carte FIP (ou Staff Travel Card pour Safeguarded) doit être envoyée.
 - **Des frais de réservation de 12 % par personne du montant de la réservation s'appliquent (minimum 5 £, maximum 60 £).**
 
+{{% /booking-section %}}
 {{% booking-section "fip_global_fare" %}}
 
 ## Tarif Global FIP
@@ -25,7 +28,9 @@ Sur demande, le personnel établit l'offre adaptée au voyage :
 Des billets Eurostar peuvent être achetés via Ffestiniog Travel. Des frais de réservation de 5 £ s’appliquent.
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 ## Sources
 
 [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+{{% /booking-section %}}

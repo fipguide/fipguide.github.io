@@ -17,6 +17,8 @@ aliases:
   - obb-phone
 ---
 
+{{% booking-section "general" %}}
+
 Die ÖBB bietet eine Buchungshotline für Tickets und Reservierungen an:
 
 [+43 (0) 5 1717](tel:+4351717)
@@ -28,6 +30,7 @@ Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 Da Satellite den Rufnummernbereich +43517 [sperrt](https://help.satellite.me/mit-satellite-telefonieren/telefonie/welche-laender-sind-mit-satellite-erreichbar "Welche Länder sind mit satellite erreichbar?"), ist zunächst die Telefonzentrale der ÖBB unter [+43 (0) 1 930 000](tel:+431930000) zu wählen und anschließend nach einer Weiterleitung zur Telefonischen Buchung von Fahrkarten zu bitten.
 {{% /satellite %}}
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

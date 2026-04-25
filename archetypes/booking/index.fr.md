@@ -16,19 +16,21 @@ params:
   type: "onsite" # Types acceptés : website, onsite, phone, email, socialmedia et machine
 ---
 
+{{% booking-section "general" %}}
+
+<!--
+    Cette section est toujours affichée sauf si elle est explicitement désactivée via `general: false`.
+-->
+
+{{% /booking-section %}}
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
 <!--
-    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
+    Expliquez les étapes de réservation pour acheter des Billets FIP 50.
 -->
-
-### Sources
-
-<!--
-    Ajoutez ici les notes de bas de page de source pour cette section.
- -->
 
 {{% /booking-section %}}
 
@@ -37,14 +39,8 @@ params:
 ## Tarif Global FIP
 
 <!--
-    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
+    Expliquez les étapes de réservation pour acheter des billets au Tarif Global FIP.
 -->
-
-### Sources
-
-<!--
-    Ajoutez ici les notes de bas de page de source pour cette section.
- -->
 
 {{% /booking-section %}}
 
@@ -53,13 +49,7 @@ params:
 ## Réservations
 
 <!--
-    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
+    Expliquez les étapes de réservation pour acheter des réservations.
 -->
-
-### Sources
-
-<!--
-    Ajoutez ici les notes de bas de page de source pour cette section.
- -->
 
 {{% /booking-section %}}

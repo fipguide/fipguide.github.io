@@ -8,8 +8,11 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Attica offers a booking hotline where FIP 50 Tickets can be purchased. FIP must be explicitly mentioned.
 
 [+30 (0) 2108919 800](tel:+302108919800)
 
 {{% satellite /%}}
+{{% /booking-section %}}

@@ -13,8 +13,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 Die Ticketschalter der BLS werden _BLS Reisezentrum_ genannt.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

@@ -16,8 +16,11 @@ aliases:
   - zssk_ticket_office
 ---
 
+{{% booking-section "general" %}}
+
 In Slovakia, there is an extensive network of ticket counters even at smaller stations. It is advantageous to speak some Slovak or Czech or have the appropriate translator app, as English is often not widely spoken.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

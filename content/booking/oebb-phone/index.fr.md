@@ -17,6 +17,8 @@ aliases:
   - obb_phone
 ---
 
+{{% booking-section "general" %}}
+
 ÖBB propose une hotline pour la réservation de billets et de places :
 
 [+43 (0) 5 1717](tel:+4351717)
@@ -27,6 +29,7 @@ Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une r�
 Comme Satellite [bloque](https://help.satellite.me/mit-satellite-telefonieren/telefonie/welche-laender-sind-mit-satellite-erreichbar "Dans quels pays puis-je appeler avec satellite ?") la plage de numéros +43517, appelez d’abord le centre d’appel de l’ÖBB au [+43 (0) 1 930 000](tel:+431930000), puis demandez à être mis en relation avec le service de réservation de billets par téléphone.
 {{% /satellite %}}
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

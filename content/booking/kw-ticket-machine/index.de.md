@@ -9,8 +9,11 @@ params:
   type: "machine"
 ---
 
+{{% booking-section "general" %}}
+
 An einigen Bahnhöfen gibt es Koleje Wielkopolskie Fahrkartenautomaten. Zudem sind sie auf bestimmten Strecken auch direkt in den Zügen zu finden.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

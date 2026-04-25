@@ -9,8 +9,11 @@ params:
   type: "website"
 ---
 
+{{% booking-section "general" %}}
+
 Le site Web est théoriquement disponible en polonais et en anglais, cependant, l'outil de recherche de connexions ne fonctionne actuellement qu'en polonais.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

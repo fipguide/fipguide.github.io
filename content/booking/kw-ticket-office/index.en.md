@@ -9,8 +9,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 KW operates an extensive network of ticket offices, even at smaller stations. It is helpful to speak some Polish or have a suitable translation app, as English (or German) is often not widely spoken.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

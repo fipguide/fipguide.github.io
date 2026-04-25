@@ -14,7 +14,10 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 Ticket offices in Great Britain are usually operated by the respective train company of the station. However, the different operators also sell tickets and reservations for trains of other railway companies in the country.
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

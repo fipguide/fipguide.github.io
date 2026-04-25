@@ -17,6 +17,8 @@ aliases:
   - obb_phone
 ---
 
+{{% booking-section "general" %}}
+
 ÖBB offers a booking hotline for tickets and reservations:
 
 [+43 (0) 5 1717](tel:+4351717)
@@ -28,6 +30,7 @@ A credit card and email address are required for booking.
 Since Satellite [blocks](https://help.satellite.me/mit-satellite-telefonieren/telefonie/welche-laender-sind-mit-satellite-erreichbar "Which countries can I call with satellite?") the +43517 number range, first call the ÖBB switchboard at [+43 (0) 1 930 000](tel:+431930000) and then ask to be transferred to the telephone ticket booking service.
 {{% /satellite %}}
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

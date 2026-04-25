@@ -8,6 +8,9 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 ## FIP Globalpreis
 
 An den Eurostar Ticketschaltern in den Bahnhöfen Paris Nord und London St. Pancras International können Fahrkarten zum FIP Globalpreis erworben werden. Beim Buchen der Fahrkarten muss der FIP-Ausweise aller Reisender vorgelegt werden.
+{{% /booking-section %}}

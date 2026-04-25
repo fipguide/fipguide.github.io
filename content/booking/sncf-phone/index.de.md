@@ -14,6 +14,8 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Buchungen per Telefon sind über die SNCF Hotline möglich:
 
 [+33 1 84 94 36 35](tel:+33184943635)
@@ -42,6 +44,7 @@ _FIP cheminot étranger_ = 50% FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
 {{% /highlight %}}
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50/75 Fahrkarten
@@ -77,5 +80,7 @@ Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 {{% satellite /%}}
+{{% /booking-section %}}

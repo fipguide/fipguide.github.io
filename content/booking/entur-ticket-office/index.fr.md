@@ -9,6 +9,8 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 Dans les cinq gares suivantes en Norvège, il existe un guichet où des Billets FIP 50 et des réservations peuvent être achetés :
 
 - Bergen
@@ -16,3 +18,4 @@ Dans les cinq gares suivantes en Norvège, il existe un guichet où des Billets 
 - gare centrale d’Oslo (Oslo S)
 - Stavanger
 - gare centrale de Trondheim (Trondheim S)
+  {{% /booking-section %}}

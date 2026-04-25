@@ -11,8 +11,11 @@ params:
   type: "machine"
 ---
 
+{{% booking-section "general" %}}
+
 Ticket machines from MÁV are available at many major train stations. FIP 50 Tickets and reservations for MÁV and GySEV are sold here.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

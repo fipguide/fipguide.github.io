@@ -16,6 +16,14 @@ params:
   type: "onsite" # Akzeptierte Typen sind: website, onsite, phone, email, socialmedia und machine
 ---
 
+{{% booking-section "general" %}}
+
+<!--
+    Diese Sektion wird immer gerendert, außer sie wird per general false explizit deaktiviert.
+-->
+
+{{% /booking-section %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
@@ -23,12 +31,6 @@ params:
 <!--
     Erkläre hier die Buchungswege, um FIP 50 Tickets zu erwerben.
 -->
-
-### Quellen
-
-<!--
-    Füge hier Quellen-Fußnoten für diesen Abschnitt hinzu.
- -->
 
 {{% /booking-section %}}
 
@@ -40,12 +42,6 @@ params:
     Erkläre hier die Buchungswege, um FIP Globalpreise zu erwerben.
 -->
 
-### Quellen
-
-<!--
-    Füge hier Quellen-Fußnoten für diesen Abschnitt hinzu.
- -->
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -55,11 +51,5 @@ params:
 <!--
     Erkläre hier die Buchungswege, um Reservierungen zu erwerben.
 -->
-
-### Quellen
-
-<!--
-    Füge hier Quellen-Fußnoten für diesen Abschnitt hinzu.
- -->
 
 {{% /booking-section %}}

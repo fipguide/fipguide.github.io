@@ -9,8 +9,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 KŚ exploite un vaste réseau de guichets, également dans les petites gares. Il est avantageux de parler un peu polonais ou d'avoir l'application traducteur appropriée, car l'anglais (ou l'allemand) n'est souvent pas très répandu.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

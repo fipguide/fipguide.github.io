@@ -13,6 +13,8 @@ aliases:
   - ns_ticket_office
 ---
 
+{{% booking-section "general" %}}
+
 Internationale FIP Tickets und Reservierungen können nur an NS International Fahrkartenschaltern erworben werden. Stand Februar 2026 sind dies die Fahrkartenschalter in den folgenden Bahnhöfen:
 
 <!-- prettier-ignore -->
@@ -26,6 +28,7 @@ Internationale FIP Tickets und Reservierungen können nur an NS International Fa
 
 Weitere Informationen bei [NS International](https://www.nsinternational.com/en/tickets/opening-hours-ticket-and-service-shops).
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

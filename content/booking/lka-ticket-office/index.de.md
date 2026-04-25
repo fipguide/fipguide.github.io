@@ -10,8 +10,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 Die ŁKA betreibt eine kleine Anzahl von eigenen Ticketschaltern. Sprachlich ist es von Vorteil, etwas polnisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

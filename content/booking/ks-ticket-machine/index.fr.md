@@ -9,8 +9,11 @@ params:
   type: "machine"
 ---
 
+{{% booking-section "general" %}}
+
 Des distributeurs de billets Koleje Śląskie sont disponibles dans certaines gares.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billet FIP 50

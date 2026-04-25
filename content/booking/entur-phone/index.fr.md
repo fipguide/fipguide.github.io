@@ -8,6 +8,8 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 Les Billets FIP 50 et les réservations peuvent être réservés via la hotline.
 
 [+47 61 27 90 88](tel:+4761279088) – composez le 9 pour l’anglais.
@@ -21,3 +23,4 @@ Le temps d’attente au téléphone varie : si vous êtes dans la file d’atten
 - Dimanche : 09:00 – 23:00 (CET)
 
 {{% satellite /%}}
+{{% /booking-section %}}

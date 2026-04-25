@@ -18,8 +18,10 @@ params:
 Um ein Buchungsangebot anzufragen, muss man das Formular auf der Website ausfüllen und sich als Kunde bei RailTourGuide registrieren. Die Anfrage wird dann innerhalb von 24 Stunden innerhalb der Geschäftszeiten von RailTourGuide bearbeitet. Anschließend erfolgt die Bezahlung.
 
 {{% /booking-section %}}
+{{% booking-section "general" %}}
 
 **Pro Buchung wird eine Buchungsgebühr erhoben:**
 
 - Bei Zahlung per Überweisung 3 £ (bis 31.05.2026), danach 5 £.
 - Bei Zahlung per Kreditkarte 10 £.
+  {{% /booking-section %}}

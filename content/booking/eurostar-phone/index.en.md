@@ -12,6 +12,8 @@ aliases:
   - eurostar_phone
 ---
 
+{{% booking-section "general" %}}
+
 ## FIP Global Fare
 
 FIP Global Fare tickets can be purchased via the Eurostar hotline:
@@ -25,3 +27,4 @@ FIP Global Fare tickets can be purchased via the Eurostar hotline:
 Booking is possible in English, French, German and Dutch. A spelling alphabet can help when providing names and addresses. Payment is only possible by credit card. No additional booking fee is charged for FIP Tickets.
 
 {{% satellite /%}}
+{{% /booking-section %}}

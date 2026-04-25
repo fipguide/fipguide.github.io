@@ -9,6 +9,8 @@ params:
   additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
 ---
 
+{{% booking-section "general" %}}
+
 Upon presentation of the FIP Card, a ticket valid for 7 days is issued at the following outlets.
 
 - **Bilbao**: Zazpikaleak station ([Google Maps](https://maps.app.goo.gl/hvwrJBTd35r4j2eP8))
@@ -19,4 +21,6 @@ Upon presentation of the FIP Card, a ticket valid for 7 days is issued at the fo
 
 ## Sources
 
-[^1]: [Euskotren sells FIP 50 Tickets in Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)
+[^1]:
+    [Euskotren sells FIP 50 Tickets in Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)
+    {{% /booking-section %}}

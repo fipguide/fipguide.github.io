@@ -12,6 +12,8 @@ params:
   type: "website"
 ---
 
+{{% booking-section "general" %}}
+
 Sur le site de réservation de LTG-Link, des billets FIP 50, des réservations ainsi que des billets à 0 € pour les liaisons LTG-Link en Lituanie et en Lettonie sont proposés. Une réservation est également possible via l’application LTG-Link.
 
 Les billets pour le trafic intérieur sont disponibles 30 jours à l’avance, pour le trafic international 60 jours avant le départ.
@@ -20,6 +22,7 @@ Les billets pour le trafic intérieur sont disponibles 30 jours à l’avance, p
 
 ![Réduction FIP](ltg-website-fip-discount.webp)
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

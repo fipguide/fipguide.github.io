@@ -10,6 +10,8 @@ params:
   type: "phone"
 ---
 
+{{% booking-section "general" %}}
+
 La NS propose une hotline de réservation pour les billets et les réservations :
 
 [+31 30 23 000 23](tel:+31302300023)
@@ -20,6 +22,7 @@ La hotline est joignable tous les jours de 7h à 23h.
 
 {{% satellite /%}}
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

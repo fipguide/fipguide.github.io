@@ -9,8 +9,11 @@ params:
   type: "onsite"
 ---
 
+{{% booking-section "general" %}}
+
 KMŁ operates a manageable network of ticket offices at the most important stations. In terms of language, it is helpful to speak some Polish or to have a suitable translation app, as English (or German) is often not widely spoken.
 
+{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
