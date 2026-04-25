@@ -27,8 +27,6 @@ Sur le site des CFF, les Billets FIP 50 peuvent être achetés en sélectionnant
 Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des transports exploités par des compagnies non participantes au FIP (par exemple : trams ou bus). Ces sections ne sont pas valables avec un Billet FIP, sauf si vous avez un abonnement demi-tarif.
 {{% /highlight %}}
 
-### Sources
-
 [^1]: [Communauté CFF](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
 
 {{% /booking-section %}}

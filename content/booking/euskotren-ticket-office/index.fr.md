@@ -19,8 +19,6 @@ Sur présentation de la Carte FIP, un billet valable 7 jours est délivré dans 
 - **Durango** – Gare Durango ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))
 - **Hendaye** – Gare Hendaye ([Google Maps](https://maps.app.goo.gl/YZV2uBX66KpiyCjZ7)) [^1]
 
-## Sources
+[^1]: [Euskotren vend des Billets FIP 50 à Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)
 
-[^1]:
-    [Euskotren vend des Billets FIP 50 à Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)
-    {{% /booking-section %}}
+{{% /booking-section %}}

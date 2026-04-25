@@ -24,4 +24,5 @@ Pour obtenir un devis, veuillez remplir le formulaire en ligne et vous inscrire 
 
 - Paiement par virement bancaire : 3 £ (jusqu'au 31.05.2026), ensuite 5 £.
 - Paiement par carte de crédit : 10 £.
-  {{% /booking-section %}}
+
+{{% /booking-section %}}

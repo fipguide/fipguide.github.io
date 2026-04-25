@@ -30,7 +30,6 @@ Des billets Eurostar peuvent être achetés via Ffestiniog Travel. Des frais de 
 {{% /booking-section %}}
 {{% booking-section "general" %}}
 
-## Sources
-
 [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+
 {{% /booking-section %}}

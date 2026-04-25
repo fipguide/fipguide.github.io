@@ -54,6 +54,7 @@
       {{- .info | .original_page.RenderString -}}
     </div>
   {{- end -}}
+  {{- .page.Content -}}
   <div class="o-single__content o-booking__sections">
     {{- $sections := .page.Store.Get "booking_sections" | default (slice) -}}
     {{- range $section := $sections -}}

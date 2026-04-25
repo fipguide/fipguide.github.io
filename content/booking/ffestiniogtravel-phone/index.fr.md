@@ -32,7 +32,5 @@ Des billets au Tarif Global FIP pour Eurostar peuvent être achetés via la hotl
 
 {{% satellite /%}}
 
-## Sources
-
 [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
 {{% /booking-section %}}

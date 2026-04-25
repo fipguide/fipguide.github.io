@@ -58,8 +58,6 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 - les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF77 : Billet FIP 75 (réduction de 75 %) + réservation obligatoire dans les trains.
 - les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF78 : Surclassement avec billet FIP 75 en 1re classe + réservation obligatoire dans les trains.
 
-### Sources
-
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 {{% /booking-section %}}
@@ -74,8 +72,6 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 
 - Coupon FIP — CF70 : Achat de réservation uniquement.
 - Coupon FIP — CF71 : Surclassement de la réservation Coupon FIP en 1re classe.
-
-### Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 

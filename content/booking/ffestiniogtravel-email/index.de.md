@@ -30,7 +30,6 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 {{% /booking-section %}}
 {{% booking-section "general" %}}
 
-## Quellen
-
 [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+
 {{% /booking-section %}}

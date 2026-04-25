@@ -24,4 +24,5 @@ Um ein Buchungsangebot anzufragen, muss man das Formular auf der Website ausfül
 
 - Bei Zahlung per Überweisung 3 £ (bis 31.05.2026), danach 5 £.
 - Bei Zahlung per Kreditkarte 10 £.
-  {{% /booking-section %}}
+
+{{% /booking-section %}}

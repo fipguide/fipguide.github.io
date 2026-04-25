@@ -33,8 +33,6 @@ Les billets FIP 50 peuvent être réservés.
 {{% /booking-section %}}
 {{% booking-section "general" %}}
 
-## Sources
+[^1]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1433789686039707688/1481942947917467669)
 
-[^1]:
-    [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1433789686039707688/1481942947917467669)
-    {{% /booking-section %}}
+{{% /booking-section %}}
