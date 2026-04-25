@@ -108,7 +108,8 @@ body,
 input,
 textarea,
 select,
-.a-button {
+.a-button,
+.o-dropdown__button {
   font-family: var(--font-family);
   word-wrap: break-word;
   hyphens: auto;
