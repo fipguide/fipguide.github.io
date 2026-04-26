@@ -59,3 +59,7 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 
 ![Réserver une place DB](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+Si une erreur survient lors de la réservation de trains avec réservation obligatoire, il se peut que les réservations ne soient pas encore en vente pour cette liaison. Cela peut être vérifié, par exemple, pour les trajets avec PKP Intercity sur le [site web de l’opérateur](https://www.intercity.pl/en/).
+{{% /highlight %}}
