@@ -1,6 +1,6 @@
 {{- $content := .Inner -}}
 {{- $content = partial "helper/resolve-images" (dict "content" $content "page" .Page) -}}
-{{- $content = partial "increase-headings" (dict "content" $content "offset" 2) -}}
+{{- $content = partial "increase-headings" (dict "content" $content "offset" 3) -}}
 {{- $sectionName := .Get 0 -}}
 {{- $footnoteId := print .Page.File.ContentBaseName "-" $sectionName -}}
 {{- $content = partial "prefix-footnotes" (dict "content" $content "id" $footnoteId) -}}
