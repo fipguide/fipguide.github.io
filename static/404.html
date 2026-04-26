@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>404 – Page not found</title>
+    <meta name="robots" content="noindex" />
+    <meta charset="utf-8" />
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=/en/404/" />
+    </noscript>
+    <script>
+      (() => {
+        const supportedLanguages = ["en", "de", "fr"];
+        const defaultLanguage = "en";
+
+        const getTargetLanguage = () => {
+          const nav = window.navigator;
+          if (!Array.isArray(nav.languages)) {
+            return defaultLanguage;
+          }
+
+          for (const language of nav.languages) {
+            for (const lang of supportedLanguages) {
+              if (language.toLowerCase().includes(lang)) {
+                return lang;
+              }
+            }
+          }
+          return defaultLanguage;
+        };
+
+        window.location.replace(`/${getTargetLanguage()}/404/`);
+      })();
+    </script>
+  </head>
+  <body>
+    <h1>Rerouting</h1>
+    <p>
+      You should be rerouted in a second, if not,
+      <a href="/en/404/">click here</a>.
+    </p>
+  </body>
+</html>

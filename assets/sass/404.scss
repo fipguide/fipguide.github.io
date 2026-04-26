@@ -1,0 +1,32 @@
+.o-error {
+  background-color: var(--bg-default);
+  border-radius: var(--border-radius-l);
+  border: var(--border);
+  padding: 2rem;
+
+  &__body {
+    @media (min-width: #{$breakpoint-lg}) {
+      display: flex;
+      align-items: center;
+      gap: 3rem;
+    }
+  }
+
+  &__image {
+    @media (min-width: #{$breakpoint-lg}) {
+      flex: 0 0 40%;
+    }
+  }
+
+  &__divider {
+    @media (min-width: #{$breakpoint-lg}) {
+      display: none;
+    }
+  }
+
+  &__content {
+    @media (min-width: #{$breakpoint-lg}) {
+      flex: 1;
+    }
+  }
+}
