@@ -1,18 +1,16 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
 <summary class="o-expander__summary o-expander__summary--booking">
-  <div class="o-booking__header">
-    <div class="o-booking__header-content">
-      <div class="o-booking__title-wrapper">
-        <div class="o-booking__title">
-          {{- partial "icon" (index $iconMapping .page.Params.type) -}}
-          <span class="o-booking__title-text">{{- .page.Title -}}</span>
-        </div>
-        {{- if .subtitle }}
-          <div class="o-booking__subtitle">
-            {{- .subtitle -}}
-          </div>
-        {{- end }}
+  <div class="o-booking__header-content">
+    <div class="o-booking__title-wrapper">
+      <div class="o-booking__title">
+        {{- partial "icon" (index $iconMapping .page.Params.type) -}}
+        <span class="o-booking__title-text">{{- .page.Title -}}</span>
       </div>
+      {{- if .subtitle }}
+        <div class="o-booking__subtitle">
+          {{- .subtitle -}}
+        </div>
+      {{- end }}
       <div class="o-booking__meta">
         {{- $metaFields := slice
           (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
@@ -23,45 +21,29 @@
         {{- range $metaFields -}}
           {{- if ne .value "nil" -}}
             {{- if .value -}}
-              <div
-                class="o-booking__meta-item o-booking__meta-item--success"
-                aria-label="{{ T .label }} {{ T "booking.bookable" }}"
-              >
-                {{- partial "icon" "check_circle" -}}
-                <span aria-hidden="true">{{- T .label -}}</span>
-              </div>
+              {{- partial "tag" (dict "Icon" "check_circle" "Text" .label "Type" "success") -}}
             {{- else -}}
-              <div
-                class="o-booking__meta-item o-booking__meta-item--error"
-                aria-label="{{ T .label }} {{ T "booking.not-bookable" }}"
-              >
-                {{- partial "icon" "cancel" -}}
-                <span aria-hidden="true">{{- T .label -}}</span>
-              </div>
+              {{- partial "tag" (dict "Icon" "cancel" "Text" .label "Type" "error") -}}
             {{- end -}}
           {{- end -}}
         {{- end -}}
+        {{- if ne .fee "nil" -}}
+          {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T "booking.fee") " " .fee) "Type" "info") -}}
+        {{- end -}}
       </div>
-      {{- if or (and (ne .reservations "nil") (ne .reservations false) .classes) (ne .fee "nil") -}}
-        <div class="o-booking__classes">
-          {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
-            <span class="o-booking__classes-title"
-              >{{ T "booking.reservation-costs" }}</span
-            >
-            {{- range $k, $v := .classes -}}
-              <div>
-                <strong>{{- T (print "booking.classes." $k) -}}:</strong>
-                {{ $v -}}
-              </div>
-            {{- end -}}
-          {{- end -}}
-          {{- if ne .fee "nil" -}}
-            <span class="o-booking__classes-title">{{ T "booking.fee" }}</span>
-            <div>{{ .fee }}</div>
+    </div>
+    {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
+      <div class="o-booking__classes">
+        <span class="o-booking__classes-title"
+          >{{ T "booking.reservation-costs" }}:</span
+        >
+        <div class="o-booking__classes-tags">
+          {{- range $k, $v := .classes -}}
+            {{- partial "tag" (dict "Icon" "payments" "RawText" (print (T (print "booking.classes." $k)) ": " $v) "Type" "info") -}}
           {{- end -}}
         </div>
-      {{- end -}}
-    </div>
+      </div>
+    {{- end -}}
   </div>
   {{- partial "icon" "keyboard_arrow_down" -}}
 </summary>

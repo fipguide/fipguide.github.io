@@ -11,7 +11,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 ## Summary
 
 - SNCB accepts FIP Coupons and FIP 50 / FIP 75 Tickets.
-- No reservation required.
+- No reservation required within Belgium.
 - Surcharge for trips to/from Brussels Zaventem Airport.
 
 ## Validity of FIP Tickets
@@ -23,18 +23,22 @@ FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCB connections. For cross
 
 ## Train Categories and Reservations
 
-Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border journeys).
+Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For cross-border `ICE` trains to Germany, reservations are possible and, for example, mandatory in summer 2026 (only for cross-border journeys).
 
 {{% train-category
     id="ice"
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main). Some trains also run between Germany and Antwerp via Brussels Airport Zaventem or in summer between Germany and the Belgian coast. All ICE trains can also be used within Belgium with FIP Tickets without surcharge.
+
+#### Reservation
+
+A reservation is mandatory for cross-border journeys from 26.06 to 16.08.2026.
 
 {{% /train-category %}}
 

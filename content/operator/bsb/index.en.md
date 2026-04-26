@@ -19,8 +19,8 @@ FIP discounts apply with the following operators:
 
 ## Summary
 
-- FIP 50 Tickets and FIP Coupons are accepted
-- Booking options at the Ticket Office and on the ferry
+- FIP 50 Tickets and FIP Coupons are accepted.
+- Booking options at the Ticket Office and on the ferry.
 
 ## Validity of FIP Tickets
 
@@ -33,7 +33,7 @@ FIP discounts apply with the following operators:
   id="ferry"
   title="Fähre"
   type="ship"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
   route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
@@ -46,6 +46,10 @@ On the following routes, cars can be transported:
 - Friedrichshafen – Romanshorn
 
 Some ships offer a restaurant or snacks and drinks.
+
+{{< highlight important >}}
+FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -82,8 +86,14 @@ A break of journey is permitted without formalities.[^1]
 The full regular fare applies for bicycles.
 There is no discount for vehicles between Friedrichshafen and Romanshorn.
 
+### zellerSEEticket (zSEEt)
+
+FIP Card Holders receive a 50% discount on the zellerSEEticket (zSEEt). No other discounts are accepted.[^3]
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
 
 [^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+
+[^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)

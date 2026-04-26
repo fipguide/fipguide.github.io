@@ -19,8 +19,8 @@ Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden akzeptiert
-- Buchungsmöglichkeiten am Ticketschalter und auf der Fähre
+- FIP 50 und FIP Freifahrtscheine werden akzeptiert.
+- Buchungsmöglichkeiten am Ticketschalter und auf der Fähre.
 
 ## Gültigkeit FIP Tickets
 
@@ -33,7 +33,7 @@ Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
   id="ferry"
   title="Fähre"
   type="ship"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
   route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
@@ -46,6 +46,10 @@ Auf den folgenden Strecken können Autos mitgeführt werden:
 - Friedrichshafen – Romanshorn
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
+
+{{< highlight important >}}
+Auf der SBS Fähre zwischen Altnau-Hagnau und Immenstaad werden FIP Ermäßigungen nicht anerkannt.[^3]
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -82,8 +86,14 @@ Eine Reiseunterbrechung ist ohne Formalitäten gestattet.[^1]
 Es gilt der volle reguläre Fahrpreis für Fahrräder.
 Für Fahrzeuge zwischen Friedrichshafen und Romanshorn gibt es keine Ermäßigung.
 
+### zellerSEEticket (zSEEt)
+
+FIP-Berechtigte erhalten eine Ermäßigung von 50% auf das zellerSEEticket (zSEEt). Weitere Ermäßigungen werden nicht anerkannt.[^3]
+
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
 
 [^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+
+[^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)
