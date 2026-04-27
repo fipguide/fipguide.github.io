@@ -11,8 +11,6 @@ params:
   additional_info_link: "https://www.b-europe.com/FR/Contact/Contact-Center"
 ---
 
-{{% booking-section "general" %}}
-
 Les réservations par téléphone sont possibles via la hotline SNCB :
 
 [+32 70 79 79 79](tel:+3270797979)
@@ -25,7 +23,6 @@ Lors de la réservation, il faut fournir des informations personnelles et une ad
 
 **Des frais de service sont appliqués.**
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

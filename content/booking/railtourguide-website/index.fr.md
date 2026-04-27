@@ -18,11 +18,8 @@ Des billets au Tarif Global FIP peuvent être achetés via RailTourGuide. Les pr
 Pour obtenir un devis, veuillez remplir le formulaire en ligne et vous inscrire comme client auprès de RailTourGuide. Votre demande sera traitée sous 24 heures, pendant les heures d'ouverture de RailTourGuide. Le paiement sera effectué ultérieurement.
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 **Des frais de réservation sont facturés par réservation :**
 
 - Paiement par virement bancaire : 3 £ (jusqu'au 31.05.2026), ensuite 5 £.
 - Paiement par carte de crédit : 10 £.
-
-{{% /booking-section %}}

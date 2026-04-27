@@ -13,11 +13,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 PKP Intercity exploite un vaste réseau de guichets même dans les petites gares. Linguistiquement, il est avantageux de parler un peu polonais ou d’avoir une application de traduction appropriée, car l’anglais (ou le français) n’est souvent pas très répandu.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

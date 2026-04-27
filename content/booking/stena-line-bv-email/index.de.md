@@ -12,8 +12,6 @@ aliases:
   - stena-line-email
 ---
 
-{{% booking-section "general" %}}
-
 Die Buchung der Stena Line ist per E-Mail unkompliziert möglich. Hierzu ist eine Mail auf englisch oder niederländisch an [contact.nl@stenaline.com](mailto:contact.nl@stenaline.com) zu schicken.
 In der Mail sind folgende Daten anzugeben:
 
@@ -30,7 +28,6 @@ Nach Bezahlung bekommst du eine Mail mit der Resevierungsbestätigung, die auch 
 Die Bezahlung über pay per link ist nur am selben Tag möglich, an dem die entsprechende Mail zur Zahlungsaufforderung erhalten wurde. Der Link verliert um Mitternacht seine Gültigkeit. Sollte dem so sein, ist erneut Kontakt zu Stena Line aufzunehmen.
 {{% /highlight %}}
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

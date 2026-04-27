@@ -42,7 +42,5 @@ aliases:
 - Foto des FIP Ausweises aller reisender Personen
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 **Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.**
-{{% /booking-section %}}

@@ -9,8 +9,6 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 At the following five railway stations in Norway, there is a ticket office where FIP 50 Tickets and reservations can be purchased:
 
 - Bergen
@@ -18,4 +16,3 @@ At the following five railway stations in Norway, there is a ticket office where
 - Oslo Central (Oslo S)
 - Stavanger
 - Trondheim Central (Trondheim S)
-  {{% /booking-section %}}

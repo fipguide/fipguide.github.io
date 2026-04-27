@@ -9,11 +9,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 An einigen Bahnhöfen gibt es Koleje Śląskie Fahrkartenautomaten.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

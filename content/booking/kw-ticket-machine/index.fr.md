@@ -9,11 +9,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 Dans certaines gares, des distributeurs de billets Koleje Wielkopolskie sont disponibles. De plus, on les trouve également directement dans les trains sur certaines lignes.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

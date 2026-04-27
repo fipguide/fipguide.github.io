@@ -11,11 +11,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 An Ticketschaltern der MÁV wird zwischen nationalen und internationalen Ticketschaltern unterschieden. In der Regel spricht das Personal an den internationalen Ticketschaltern Fremdsprachen wie Englisch oder Deutsch.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

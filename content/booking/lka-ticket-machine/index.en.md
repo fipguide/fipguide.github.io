@@ -10,11 +10,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 At some stations in Poland, ticket machines are available that also sell tickets for ŁKA. Additionally, they can also be found directly on trains on certain routes.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

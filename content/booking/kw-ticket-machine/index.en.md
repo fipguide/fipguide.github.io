@@ -9,11 +9,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 At some stations, Koleje Wielkopolskie ticket machines are available. Additionally, they can also be found directly on trains on certain routes.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

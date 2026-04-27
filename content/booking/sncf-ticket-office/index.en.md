@@ -14,11 +14,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 SNCF ticket offices are called SNCF Connect Shops and can be found at all major train stations in France. Tickets for domestic and international journeys can be purchased there. The ticket offices often have limited opening hours, so it is recommended to check them before visiting. For travel within France, upgrades from 2nd to 1st class can also be purchased by paying the difference.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50/75 Tickets
@@ -50,7 +47,5 @@ If the staff at the ticket office are unsure which fare code to use, you can ref
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% satellite /%}}
-{{% /booking-section %}}

@@ -9,11 +9,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 KD exploite un vaste réseau de guichets, y compris dans de petites gares. Il est conseillé de comprendre un peu le polonais ou d’utiliser une application de traduction, car l’anglais est rarement parlé.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

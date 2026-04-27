@@ -14,10 +14,7 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 Les guichets au Royaume-Uni sont généralement exploités par la compagnie ferroviaire du site. Cependant, les différents opérateurs vendent également des billets et des réservations pour les trains d’autres compagnies ferroviaires du pays.
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

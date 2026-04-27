@@ -9,11 +9,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 La KMŁ exploite un réseau limité de guichets dans les gares les plus importantes. Il est utile de parler un peu polonais ou de disposer d'une application de traduction adaptée, car l'anglais (ou l'allemand) n'est souvent pas très répandu.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

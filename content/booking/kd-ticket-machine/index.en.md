@@ -9,11 +9,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 At some stations, Koleje Dolnośląskie ticket machines are available. All stations with ticket machines are listed on the KD website.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

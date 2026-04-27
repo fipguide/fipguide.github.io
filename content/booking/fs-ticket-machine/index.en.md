@@ -34,11 +34,9 @@ On the machine's start screen, select "Buy your tickets / Special Discounts". Th
 {.o-section--columns-flex}
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% highlight tip %}}
 For short distances on Le Frecce, the regular fare may be cheaper than FIP reduced tickets.
 
 Additionally, surcharges for Le Frecce and other long-distance trains can sometimes be more expensive than a FIP 50 Ticket.
 {{% /highlight %}}
-{{% /booking-section %}}

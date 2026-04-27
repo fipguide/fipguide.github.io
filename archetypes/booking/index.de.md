@@ -16,14 +16,6 @@ params:
   type: "onsite" # Akzeptierte Typen sind: website, onsite, phone, email, socialmedia und machine
 ---
 
-{{% booking-section "general" %}}
-
-<!--
-    Diese Sektion wird immer gerendert, außer sie wird per general false explizit deaktiviert.
--->
-
-{{% /booking-section %}}
-
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

@@ -16,11 +16,8 @@ aliases:
   - zssk_ticket_office
 ---
 
-{{% booking-section "general" %}}
-
 In der Slowakei gibt es ein umfängliches Netz von Ticketschaltern auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas slowakisch oder tschechisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

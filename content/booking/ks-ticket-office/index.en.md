@@ -9,11 +9,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 KŚ operates an extensive network of ticket offices, including at smaller stations. It is advantageous to speak some Polish or have a suitable translator app, as English (or German) is often not widely spoken.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Ticket

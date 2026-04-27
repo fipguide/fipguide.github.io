@@ -57,25 +57,13 @@
       {{- .info | .original_page.RenderString -}}
     </div>
   {{- end -}}
-  {{- .page.Content -}}
+  {{- $content := .page.RenderShortcodes -}}
   <div class="o-single__content o-booking__sections">
-    {{- $sections := .page.Store.Get "booking_sections" | default (slice) -}}
-    {{- range $section := $sections -}}
-      {{- $sectionName := index $section "name" -}}
-      {{- $sectionValue := index $ $sectionName -}}
-      {{- if or (eq $sectionValue false) (eq $sectionValue "nil") -}}
-        {{- continue -}}
-      {{- end -}}
-      <div
-        class="o-single__content o-booking__section o-booking__section-{{ $sectionName }}"
-      >
-        {{- $sectionContent := index $section "content" -}}
-        {{- $sectionFootnotePrefix := print $.page.File.ContentBaseName "-" $sectionName -}}
-        {{- $sectionContent := partial "pagefind-ignore-headings" (dict "content" $sectionContent) -}}
-        {{- $sectionContent | safeHTML -}}
-      </div>
-    {{- end -}}
+    {{- $content = partial "increase-headings" (dict "content" $content "offset" 3) -}}
+    {{- $content = partial "pagefind-ignore-headings" (dict "content" $content) -}}
+    {{- $content = partial "prefix-footnotes" (dict "content" $content "id" .id) -}}
+    {{- $content = partial "helper/resolve-images" (dict "content" $content "page" .page) -}}
+    {{- $content | safeHTML -}}
   </div>
-
   {{ partial "booking/links" .page }}
 </div>

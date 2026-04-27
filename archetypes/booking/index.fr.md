@@ -16,14 +16,6 @@ params:
   type: "onsite" # Types acceptés : website, onsite, phone, email, socialmedia et machine
 ---
 
-{{% booking-section "general" %}}
-
-<!--
-    Cette section est toujours affichée sauf si elle est explicitement désactivée via `general: false`.
--->
-
-{{% /booking-section %}}
-
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

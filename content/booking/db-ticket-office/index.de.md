@@ -16,11 +16,8 @@ aliases:
   - db_ticket_office
 ---
 
-{{% booking-section "general" %}}
-
 Die Ticketschalter der Deutschen Bahn werden _DB Reisezentrum_ genannt und befinden sich in vielen größeren Bahnhöfen in Deutschland.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

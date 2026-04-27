@@ -11,11 +11,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 Les distributeurs de billets MÁV sont disponibles dans de nombreuses gares principales. Les Billets FIP 50 et les réservations pour MÁV et GySEV y sont vendus.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

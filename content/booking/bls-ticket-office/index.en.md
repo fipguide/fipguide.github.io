@@ -13,11 +13,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 The ticket offices of BLS are called _BLS Travel Centres_.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Ticket

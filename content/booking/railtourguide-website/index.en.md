@@ -18,11 +18,8 @@ FIP Global Fare tickets can be purchased via RailTourGuide. Prices are available
 To request a booking quote, you must complete the form on the website and register as a customer with RailTourGuide. Your request will then be processed within 24 hours during RailTourGuide's business hours. Payment is due afterward.
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 **A booking fee is charged per booking:**
 
 - Payment by bank transfer: £3 (until 31 May 2026), thereafter £5.
 - Payment by credit card: £10.
-
-{{% /booking-section %}}

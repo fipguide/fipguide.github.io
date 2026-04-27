@@ -9,8 +9,6 @@ params:
   type: "email"
 ---
 
-{{% booking-section "general" %}}
-
 Ffestiniog Travel hat direkten Zugriff auf die Buchungssysteme vieler Bahnbetreiber und kann Tickets für viele Züge in Europa anbieten.
 Ausnahmen sind Frankreich (SNCF) und Norwegen (Vy Group).
 
@@ -20,7 +18,6 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 - Initial muss ein Foto des FIP-Ausweises (bzw. Staff Travel Card für Safeguarded) mitgeschickt werden.
 - **Es fällt eine Buchungsgebühr pro Person von 12 % des Buchungswertes an (mindestens 5 £, maximal 60 £).**
 
-{{% /booking-section %}}
 {{% booking-section "fip_global_fare" %}}
 
 ## FIP Globalpreis
@@ -28,8 +25,5 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 Über Ffestiniog Travel können Eurostar-Tickets erworben werden.
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
-
-{{% /booking-section %}}

@@ -9,7 +9,4 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 An Transilien Ticketschaltern können reduzierte FIP Tickets für einige Züge im Großraum Paris erworben werden. Außerdem kann die _Contremarque de Passage_ (Temporäre Zugangskarte) abgeholt werden. Diese ist notwendig, um die Linien mit einem FIP Freifahrtschein zu nutzen. Pro Fahrt wird davon eine eigene benötigt, siehe [Züge im Großraum Paris](/operator/sncf#züge-im-großraum-paris "Züge im Großraum Paris"). Üblicherweise werden davon leider nur wenige auf einmal pro Schalter ausgegeben.
-{{% /booking-section %}}

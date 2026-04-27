@@ -35,11 +35,9 @@ Bei der Buchung muss über die Verbindungsauskunft erst eine Verbindung ausgewä
 {.o-section--columns-flex}
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% highlight tip %}}
 Bei Kurzstrecken im Le Frecce kann der Normaltarif günstiger als FIP reduzierte Tickets sein.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
 {{% /highlight %}}
-{{% /booking-section %}}

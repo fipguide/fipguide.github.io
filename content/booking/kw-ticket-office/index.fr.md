@@ -9,11 +9,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 KW exploite un vaste réseau de guichets, même dans les petites gares. Il est utile de parler un peu polonais ou d’avoir une application de traduction adaptée, car l’anglais (ou l’allemand) n’est souvent pas très répandu.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

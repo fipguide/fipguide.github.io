@@ -9,11 +9,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 Les guichets de vente CFL se trouvent dans les gares de Luxembourg et Belval-Université.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

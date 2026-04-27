@@ -9,11 +9,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 At some stations there are Koleje Śląskie ticket machines.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

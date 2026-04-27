@@ -42,7 +42,5 @@ Les billets FIP 50 peuvent être achetés auprès d’International Rail Ltd. Po
 - Photo de la Carte FIP de chaque voyageur
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 **Des frais de réservation de 10 £ sont facturés par réservation.**
-{{% /booking-section %}}

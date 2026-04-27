@@ -9,11 +9,8 @@ params:
   type: "website"
 ---
 
-{{% booking-section "general" %}}
-
 Die Website ist theoretisch auf Polnisch und Englisch verfügbar, allerdings funktioniert die Verbindungsauskunft aktuell nur auf Polnisch.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

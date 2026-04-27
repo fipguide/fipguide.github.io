@@ -10,6 +10,7 @@
   {{- $classes = dict -}}
 {{- end }}
 {{- $params := dict
+  "id" (.Get "id")
   "page" $page
   "original_page" .Page
   "subtitle" (.Get "subtitle")
@@ -21,6 +22,7 @@
   "fee" ((.Get "fee" ) | default $page.Params.fee | default "nil")
   "classes" $classes
 -}}
+{{- $page.Store.Set "booking_context" $params -}}
 
 
 <details class="o-expander o-expander--booking" id="{{ .Get "id" }}">

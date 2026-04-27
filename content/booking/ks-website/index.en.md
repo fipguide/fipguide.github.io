@@ -9,11 +9,8 @@ params:
   type: "website"
 ---
 
-{{% booking-section "general" %}}
-
 The website is theoretically available in Polish and English, however the connection information currently only works in Polish.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

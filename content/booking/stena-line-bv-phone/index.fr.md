@@ -12,15 +12,12 @@ aliases:
   - stena-line-phone
 ---
 
-{{% booking-section "general" %}}
-
 Une offre individuelle peut être obtenue et réservée par téléphone : [+44 3447 707070](tel:+443447707070)
 
 La réservation n’est possible qu’en anglais.
 Un alphabet phonétique peut aider lors de la communication des noms et autres données.
 Les données du voyage, le passeport et la Carte FIP doivent être préparés.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billet FIP 50
@@ -36,7 +33,5 @@ Les billets FIP 50 peuvent être réservés.
 Les réservations de cabine sont disponibles et obligatoires pour les traversées de nuit.
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% satellite /%}}
-{{% /booking-section %}}

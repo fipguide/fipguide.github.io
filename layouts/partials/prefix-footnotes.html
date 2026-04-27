@@ -2,7 +2,7 @@
 {{- $id := .id -}}
 
 {{- if and $content $id -}}
-  {{- $content = replaceRE `\[\^([0-9]+)\]` (print "[^" $id ":${1}]") $content -}}
+  {{- $content = replaceRE `\[\^([^\]]+)\]` (print "[^" $id ":${1}]") $content -}}
 {{- end -}}
 
 {{- return $content -}}

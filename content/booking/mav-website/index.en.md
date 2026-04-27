@@ -12,13 +12,10 @@ params:
   type: "website"
 ---
 
-{{% booking-section "general" %}}
-
 FIP 50 Tickets and reservations for MÁV and GySEV connections are sold on the MÁV booking website.
 
 ![MÁV Website Overview](mav-website-overview.webp)
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

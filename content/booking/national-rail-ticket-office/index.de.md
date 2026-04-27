@@ -14,10 +14,7 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 Die Ticketschalter in Großbritannien werden in der Regel vom jeweiligen Bahnbetreiber des Bahnhofs betrieben. Dennoch verkaufen die verschiedenen Betreiber auch Fahrkarten und Reservierungen für die Züge anderer Bahngesellschaften im Land.
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

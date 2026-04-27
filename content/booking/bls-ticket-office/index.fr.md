@@ -13,11 +13,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 Les guichets BLS sont appelés _Centres de voyage BLS_.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

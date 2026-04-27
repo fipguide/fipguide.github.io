@@ -9,11 +9,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 Dans certaines gares, des distributeurs de billets Koleje Dolnośląskie sont disponibles. Toutes les gares équipées de distributeurs de billets sont répertoriées sur le site Web de KD.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

@@ -44,11 +44,9 @@ Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20�
 {{% /float-image %}}
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% highlight tip %}}
 Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güstiger als FIP reduzierte Tickets.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
 {{% /highlight %}}
-{{% /booking-section %}}

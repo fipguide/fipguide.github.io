@@ -12,8 +12,6 @@ params:
   type: "website"
 ---
 
-{{% booking-section "general" %}}
-
 On the LTG-Link booking website, FIP 50 Tickets, reservations, and zero-fare tickets for LTG-Link connections in Lithuania and Latvia are sold. Booking is also possible via the LTG-Link app.
 
 Tickets for domestic journeys can be booked 30 days in advance, and for international journeys 60 days in advance.
@@ -22,7 +20,6 @@ Tickets for domestic journeys can be booked 30 days in advance, and for internat
 
 ![FIP Discount](ltg-website-fip-discount.webp)
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

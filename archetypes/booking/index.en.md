@@ -16,14 +16,6 @@ params:
   type: "onsite" # Accepted types are: website, onsite, phone, email, socialmedia and machine
 ---
 
-{{% booking-section "general" %}}
-
-<!--
-    This section is always rendered unless it is explicitly disabled via `general: false`.
--->
-
-{{% /booking-section %}}
-
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

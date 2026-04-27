@@ -27,7 +27,6 @@ Des frais supplémentaires de 0,55€ s’appliquent.
 
 Aux guichets de la Renfe, tous les billets sans réservation (FIP 50) peuvent y être achetés.
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% highlight tip %}}
 L’expérience montre que les guichets des grandes gares sont souvent très fréquentés. \
@@ -38,4 +37,3 @@ Si possible, il est recommandé d’acheter les billets en dehors de l’Espagne
 Si vous devez absolument passer par un guichet en Espagne, il est conseillé de vous rendre à la gare le matin, surtout si le billet est pour un autre jour. \
 À l’heure du déjeuner, les files peuvent être très longues, même en semaine.
 {{% /highlight %}}
-{{% /booking-section %}}

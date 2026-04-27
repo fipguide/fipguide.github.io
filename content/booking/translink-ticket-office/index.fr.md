@@ -10,11 +10,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 Les gares disposant de guichets peuvent être trouvées via le [répertoire des gares Translink](https://www.translink.co.uk/using-translink/station-finder). Les guichets correspondants sont désignés comme « customer information desk ».
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

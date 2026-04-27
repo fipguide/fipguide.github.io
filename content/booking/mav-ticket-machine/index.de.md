@@ -11,11 +11,8 @@ params:
   type: "machine"
 ---
 
-{{% booking-section "general" %}}
-
 Fahrkartenautomaten der MÁV gibt es an vielen größeren Bahnhöfen. Hier werden FIP 50 Tickets und Reservierungen für die MÁV und GySEV verkauft.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten

@@ -11,11 +11,8 @@ params:
   type: "onsite"
 ---
 
-{{% booking-section "general" %}}
-
 At MÁV ticket offices, a distinction is made between national and international ticket offices. As a rule, staff at international ticket offices speak foreign languages such as English or German.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

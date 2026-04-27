@@ -9,15 +9,12 @@ params:
   type: "phone"
 ---
 
-{{% booking-section "general" %}}
-
 Une offre individuelle peut être obtenue et réservée par téléphone : [+44 3432 081801](tel:+443432081801)
 
 La réservation n’est possible qu’en anglais.
 Un alphabet phonétique peut aider lors de la communication des noms et autres données.
 Les données du voyage, le passeport et la Carte FIP doivent être préparés.
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## Billet FIP 50
@@ -25,7 +22,5 @@ Les données du voyage, le passeport et la Carte FIP doivent être préparés.
 Les billets FIP 50 peuvent être réservés.
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% satellite /%}}
-{{% /booking-section %}}

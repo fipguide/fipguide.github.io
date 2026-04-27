@@ -14,8 +14,6 @@ params:
   type: "phone"
 ---
 
-{{% booking-section "general" %}}
-
 Bookings by phone are possible via the SNCF hotline:
 
 [+33 1 84 94 36 35](tel:+33184943635)
@@ -44,7 +42,6 @@ _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
 {{% /highlight %}}
 
-{{% /booking-section %}}
 {{% booking-section "fip_50" %}}
 
 ## FIP 50/75 Tickets
@@ -76,7 +73,5 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
 {{% /booking-section %}}
-{{% booking-section "general" %}}
 
 {{% satellite /%}}
-{{% /booking-section %}}

@@ -13,11 +13,8 @@ params:
   type: "website"
 ---
 
-{{% booking-section "general" %}}
-
 FIP 50 Tickets können **nicht** über die ČD-App gekauft werden, da die in der App angebotenen 50%-Rabatte nicht aus FIP-Kontingenten stammen.
 
-{{% /booking-section %}}
 {{% booking-section "reservations" %}}
 
 ## Reservierungen
