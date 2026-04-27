@@ -26,8 +26,6 @@ Cabin reservations are available and mandatory for overnight journeys.
 
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [FIP Guide Team email inquiry to Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1433789686039707688/1491886477347651764)

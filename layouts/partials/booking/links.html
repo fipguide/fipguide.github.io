@@ -1,0 +1,19 @@
+<div class="o-booking__links">
+  {{- if .page.Params.booking_link -}}
+    {{- partial "button"
+      (dict
+      "Destination" .page.Params.booking_link
+      "Text" (T "booking.visit-booking-website")
+      )
+    -}}
+  {{- end -}}
+  {{- if .page.Params.additional_info_link -}}
+    {{- partial "button"
+      (dict
+      "Destination" .page.Params.additional_info_link
+      "Text" (T "booking.visit-additional-information-website")
+      )
+    -}}
+  {{- end -}}
+  {{- partial "anchorlink-button" (dict "id" .id) -}}
+</div>

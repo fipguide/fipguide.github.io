@@ -29,6 +29,4 @@ FIP 50 Tickets can be booked.
 
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1433789686039707688/1481942947917467669)

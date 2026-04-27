@@ -38,6 +38,4 @@ Des réservations individuelles pour des trajets nationaux peuvent être acheté
 ![Réserver une place CFF](sbb_reservation.webp)
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [Communauté CFF](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

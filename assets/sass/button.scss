@@ -13,6 +13,7 @@
   background: transparent;
   color: var(--body-color);
   width: fit-content;
+  border: 0.2rem solid var(--link-default);
 
   &:hover,
   &:focus {
@@ -24,10 +25,6 @@
   @media print {
     padding: 0.6rem;
     display: block;
-  }
-
-  &__external {
-    border: 0.2rem solid var(--link-default);
   }
 
   &__internal {
