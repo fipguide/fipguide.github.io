@@ -65,5 +65,5 @@
     {{- $content = partial "transformations/resolve-images" (dict "content" $content "page" .page) -}}
     {{- $content | safeHTML -}}
   </div>
-  {{ partial "booking/links" .page }}
+  {{ partial "booking/links" (dict "page" .page "id" .id) }}
 </div>
