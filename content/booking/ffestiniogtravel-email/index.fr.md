@@ -9,7 +9,7 @@ params:
   type: "email"
 ---
 
-Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.
+Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.[^1]
 Les exceptions sont la France (SNCF) et la Norvège (Vy Group).
 
 Sur demande, le personnel établit l'offre adaptée au voyage :
@@ -26,4 +26,4 @@ Des billets Eurostar peuvent être achetés via Ffestiniog Travel. Des frais de 
 
 {{% /booking-section %}}
 
-[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+[^1]: [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
