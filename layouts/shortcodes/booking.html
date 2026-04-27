@@ -1,4 +1,4 @@
-{{- $page := site.GetPage (print "booking/" (.Get "id")) -}}
+{{- $page := .Page.GetPage (print "/booking/" (.Get "id")) -}}
 {{- $classes := ($page.Params.classes | default dict) -}}
 {{- range $k, $v := .Params }}
   {{- if (hasPrefix $k "classes.") }}
