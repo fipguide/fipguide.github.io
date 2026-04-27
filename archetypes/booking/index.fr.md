@@ -21,7 +21,7 @@ params:
 ## Billets FIP 50
 
 <!--
-    Expliquez les étapes de réservation pour acheter des Billets FIP 50.
+    Expliquez les étapes pour réserver des Billets FIP 50 via cette plateforme de réservation.
 -->
 
 {{% /booking-section %}}
@@ -31,7 +31,7 @@ params:
 ## Tarif Global FIP
 
 <!--
-    Expliquez les étapes de réservation pour acheter des billets au Tarif Global FIP.
+    Expliquez les étapes pour réserver des billets au Tarif Global FIP via cette plateforme de réservation.
 -->
 
 {{% /booking-section %}}
@@ -41,7 +41,7 @@ params:
 ## Réservations
 
 <!--
-    Expliquez les étapes de réservation pour acheter des réservations.
+    Expliquez les étapes pour effectuer des réservations via cette plateforme de réservation.
 -->
 
 {{% /booking-section %}}

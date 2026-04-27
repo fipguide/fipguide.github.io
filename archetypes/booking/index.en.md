@@ -21,7 +21,7 @@ params:
 ## FIP 50 Tickets
 
 <!--
-    Explain the booking steps to purchase FIP 50 Tickets.
+    Explain the steps for booking FIP 50 Tickets with this booking platform.
 -->
 
 {{% /booking-section %}}
@@ -31,7 +31,7 @@ params:
 ## FIP Global Fare
 
 <!--
-    Explain the booking steps to purchase FIP Global Fare tickets.
+    Explain the steps for booking FIP Global Fares with this booking platform.
 -->
 
 {{% /booking-section %}}
@@ -41,7 +41,7 @@ params:
 ## Reservations
 
 <!--
-    Explain the booking steps to purchase reservations.
+    Explain the steps for booking reservations with this booking platform.
 -->
 
 {{% /booking-section %}}
