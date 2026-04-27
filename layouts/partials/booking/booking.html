@@ -59,10 +59,10 @@
   {{- end -}}
   {{- $content := .page.RenderShortcodes -}}
   <div class="o-single__content o-booking__sections">
-    {{- $content = partial "increase-headings" (dict "content" $content "offset" 3) -}}
-    {{- $content = partial "transform-expander-headings" (dict "content" $content "id" .id) -}}
-    {{- $content = partial "prefix-footnotes" (dict "content" $content "id" .id) -}}
-    {{- $content = partial "helper/resolve-images" (dict "content" $content "page" .page) -}}
+    {{- $content = partial "transformations/increase-headings" (dict "content" $content "offset" 3) -}}
+    {{- $content = partial "transformations/transform-expander-headings" (dict "content" $content "id" .id) -}}
+    {{- $content = partial "transformations/prefix-footnotes" (dict "content" $content "id" .id) -}}
+    {{- $content = partial "transformations/resolve-images" (dict "content" $content "page" .page) -}}
     {{- $content | safeHTML -}}
   </div>
   {{ partial "booking/links" .page }}

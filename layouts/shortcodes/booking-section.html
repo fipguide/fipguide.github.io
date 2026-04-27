@@ -5,7 +5,7 @@
 {{- if or (eq $sectionValue false) (eq $sectionValue "nil") -}}
   {{- return -}}
 {{- end -}}
-{{- $content = partial "prefix-footnotes" (dict "content" $content "id" $sectionName) -}}
+{{- $content = partial "transformations/prefix-footnotes" (dict "content" $content "id" $sectionName) -}}
 <div
   class="o-single__content o-booking__section o-booking__section-{{ $sectionName }}"
 >
