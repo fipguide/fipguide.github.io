@@ -121,7 +121,7 @@
   <hr aria-hidden="true" />
   <div class="o-expander__content o-train-category__content">
     {{- $content := partial "increase-headings" (dict "content" .content "offset" 1) -}}
-    {{- $content := partial "pagefind-ignore-headings" (dict "content" $content) -}}
+    {{- $content := partial "transform-expander-headings" (dict "content" $content "id" .id) -}}
     {{- $content | safeHTML -}}
     {{- if or .route_overview_url .additional_information_url -}}
       <div data-pagefind-ignore>

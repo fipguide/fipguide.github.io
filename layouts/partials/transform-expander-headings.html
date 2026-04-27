@@ -1,4 +1,4 @@
 {{- $pattern := `(?m)^(#{1,6}\s+.+?)\s*$` -}}
-{{- $replacement := `${1} {data-pagefind-ignore="all"}` -}}
+{{- $replacement := print `${1} {prefix="` .id `", data-pagefind-ignore="all"}` -}}
 {{- $content := replaceRE $pattern $replacement .content -}}
 {{- return $content -}}
