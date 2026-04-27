@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "Validité FIP"
+title: "Demande FIP"
 pagefind_ignore: true
 ---
 
-Sur cette page, vous trouverez un aperçu de la délivrance des Coupons FIP ainsi que de la remise pour les billets FIP 50 / FIP 75. La délivrance dépendant de l'émetteur de votre Carte FIP, vous pouvez le sélectionner ici. Veuillez noter que nous n'avons actuellement aucune information si votre émetteur n'est pas répertorié.
+Sur cette page, vous trouverez toutes les informations relatives à votre Carte FIP. Cela comprend des informations sur la délivrance des Coupons FIP, le niveau de la remise ainsi que des informations sur la demande. Comme les informations dépendent de l’émetteur de la Carte FIP, vous pouvez le sélectionner ici. Veuillez noter que nous n’avons actuellement aucune information si votre émetteur n’est pas répertorié.
 
 {{< fip-validity-comparison >}}

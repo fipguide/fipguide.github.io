@@ -32,7 +32,7 @@ Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermä
 
 Der FIP Ausweis hat je nach eigener Bahngesellschaft eine unterschiedliche Gültigkeitsdauer. Der FIP Ausweis gilt bereits einen Monat vor dem aufgedruckten ersten Gültigkeitsjahr (01.12. des Vorjahres) sowie einen Monat nach dem letzten Gültigkeitsjahr (31.01 des Folgejahres).
 
-Die Gültigkeitsdauer deines FIP Ausweises kannst du auf unserer [Übersichtsseite zur FIP Gültigkeit](/fip-validity/) herausfinden.
+Die Gültigkeitsdauer deines FIP Ausweises kannst du auf der Seite [FIP Beantragung](/fip-validity/) herausfinden.
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
@@ -104,7 +104,7 @@ FIP Vergünstigungen gelten nicht in Zügen der eigenen Bahngesellschaft. Daher 
 
 Nicht immer ist die Fahrt mit FIP Tickets die günstigste Option. Vergünstigte FIP Tickets gewähren im Regelfall einen Rabatt auf den flexiblen Ticketpreis. Zuggebundene Tickets wie Sparpreise können trotzdem günstiger sein.
 
-Zusätzlich gewähren einige Bahngesellschaften ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten sind in der [Übersicht der FIP Gültigkeit](/fip-validity) zu finden.
+Zusätzlich gewähren einige Bahngesellschaften ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten findest du auf der Seite [FIP Beantragung](/fip-validity).
 
 ## Grenzpunkte
 
@@ -145,7 +145,7 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 
 Für Mitarbeitende einiger Länder ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursachen kann.
 
-Weitere Informationen findest du in der [Übersicht der FIP Ausstellungsinformationen](/fip-validity).
+Weitere Informationen findest du auf der Seite [FIP Beantragung](/fip-validity).
 
 ## FAQ
 
