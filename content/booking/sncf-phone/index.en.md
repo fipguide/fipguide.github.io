@@ -55,8 +55,6 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 - active employees and their dependents (GB National Rail only) — CF77: FIP 75 Ticket (75% discount) + mandatory reservation on trains.
 - active employees and their dependents (GB National Rail only) — CF78: Upgrade with FIP 75 Ticket to 1st class + mandatory reservation on trains.
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -70,8 +68,8 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 - FIP Coupon — CF70: Reservation purchase only.
 - FIP Coupon — CF71: Upgrade the FIP Coupon reservation to 1st class.
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 {{% /booking-section %}}
 
 {{% satellite /%}}
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

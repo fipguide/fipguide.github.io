@@ -29,8 +29,6 @@ Wenn das Personal am Ticketschalter unsicher ist, welchen Tarifcode es verwenden
 - Aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF77 : FIP 75 Ticket (75% Rabatt) + obligatorische Reservierung in Zügen.
 - Aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF78 : Upgrade mit FIP 75 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -44,8 +42,8 @@ Wenn das Personal am Ticketschalter unsicher ist, welchen Tarifcode es verwenden
 - FIP Freifahrtschein — CF70: Nur Reservierungskauf.
 - FIP Freifahrtschein — CF71: Upgrade der FIP Freifahrtschein-Reservierung auf die 1. Klasse.
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
-
 {{% /booking-section %}}
 
 {{% satellite /%}}
+
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

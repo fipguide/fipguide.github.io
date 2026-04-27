@@ -27,8 +27,6 @@ On the SBB website, FIP 50 Tickets can be purchased with the "50% Halbtax" disco
 In urban areas, a ticket with Halbtax discount may also include transport operated by companies that do not accept FIP (e.g., trams or buses). These sections cannot be used with FIP, and the purchased ticket is not valid there without a Halbtax subscription.
 {{% /highlight %}}
 
-[^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -39,3 +37,5 @@ Individual national reservations can be purchased online at SBB. To do so, searc
 
 ![Book SBB reservation](sbb_reservation.webp)
 {{% /booking-section %}}
+
+[^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

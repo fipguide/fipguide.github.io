@@ -1,13 +1,11 @@
-{{- $content := .Inner -}}
 {{- $sectionName := .Get 0 -}}
 {{- $bookingContext := .Page.Store.Get "booking_context" | default dict -}}
 {{- $sectionValue := index $bookingContext $sectionName | default "nil" -}}
 {{- if or (eq $sectionValue false) (eq $sectionValue "nil") -}}
   {{- return -}}
 {{- end -}}
-{{- $content = partial "transformations/prefix-footnotes" (dict "content" $content "id" $sectionName) -}}
 <div
   class="o-single__content o-booking__section o-booking__section-{{ $sectionName }}"
 >
-  {{- $content | safeHTML -}}
+  {{- .Inner | safeHTML -}}
 </div>

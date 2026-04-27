@@ -16,10 +16,6 @@ params:
 FIP 50 Fahrkarten können an den Ticketschaltern von Stena Line BV in Hoek van Holland und Harwich erworben werden.
 Dies kann sowohl vorab als auch am Tag der Reise erfolgen, je nach Verfügbarkeit. [^1]<sup>, </sup>[^2]
 
-[^1]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
-
-[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1433789686039707688/1491886477347651764)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -29,3 +25,7 @@ Dies kann sowohl vorab als auch am Tag der Reise erfolgen, je nach Verfügbarkei
 Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
 {{% /booking-section %}}
+
+[^1]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1433789686039707688/1491886477347651764)
