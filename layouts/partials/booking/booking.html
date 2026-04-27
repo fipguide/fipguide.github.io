@@ -57,8 +57,8 @@
       {{- .info | .original_page.RenderString -}}
     </div>
   {{- end -}}
-  {{- $content := .page.RenderShortcodes -}}
   <div class="o-single__content o-booking__sections">
+    {{- $content := .page.RenderShortcodes -}}
     {{- $content = partial "transformations/increase-headings" (dict "content" $content "offset" 3) -}}
     {{- $content = partial "transformations/transform-expander-headings" (dict "content" $content "id" .id) -}}
     {{- $content = partial "transformations/prefix-footnotes" (dict "content" $content "id" .id) -}}
