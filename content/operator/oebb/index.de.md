@@ -8,6 +8,10 @@ operator: "oebb"
 
 aliases:
   - obb
+  - /booking/oebb-phone
+  - /booking/oebb-ticket-machine
+  - /booking/oebb-ticket-office
+  - /booking/oebb-website
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.

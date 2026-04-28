@@ -6,6 +6,9 @@ country:
   - "germany"
   - "switzerland"
 operator: "bsb"
+
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").

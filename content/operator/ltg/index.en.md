@@ -5,6 +5,9 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
+
+aliases:
+  - /booking/ltg-website
 ---
 
 LTG is the state railway company of the Republic of Lithuania and, through its subsidiary LTG-Link, operates all passenger services on the Lithuanian rail network as well as international connections.

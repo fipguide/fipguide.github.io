@@ -5,6 +5,11 @@ country:
   - "greece"
   - "italy"
 operator: "attica"
+
+aliases:
+  - /booking/attica-agents
+  - /booking/attica-email
+  - /booking/attica-phone
 ---
 
 Le groupe Attica est un important opérateur grec de ferries exploitant plusieurs marques, dont Superfast Ferries, Blue Star Ferries, Hellenic Seaways et Anek Lines. L'entreprise exploite des liaisons maritimes nationales et internationales entre la Grèce continentale, l'Italie et les îles grecques.

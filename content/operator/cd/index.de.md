@@ -4,6 +4,10 @@ title: "ČD"
 country:
   - "czechia"
 operator: "cd"
+
+aliases:
+  - /booking/cd-ticket-office
+  - /booking/cd-website
 ---
 
 Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechischen Republik](/country/czechia "Tschechischen Republik") und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.
