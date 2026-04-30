@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "FIP Gültigkeit"
+title: "FIP Beantragung"
 pagefind_ignore: true
 ---
 
-Auf dieser Seite findest du eine Übersicht über die Ausgabe von FIP-Coupons sowie den Rabatt für FIP50 / FIP75 Tickets. Da die Ausgabe abhängig vom Aussteller deines FIP-Ausweises ist, kannst du diesen hier auswählen. Bitte beachte, dass wir derzeit noch keine Informationen haben, wenn dein Aussteller nicht gelistet ist.
+Auf dieser Seite findest du alle Informationen, die deinen FIP Ausweis betreffen. Dazu gehören Informationen über die Ausgabe von FIP-Coupons, die Höhe des Rabatts sowie Informationen zur Beantragung. Da die Informationen abhängig vom Aussteller des FIP-Ausweises ist, kannst du diesen hier auswählen. Bitte beachte, dass wir derzeit noch keine Informationen haben, wenn dein Aussteller nicht gelistet ist.
 
 {{< fip-validity-comparison >}}

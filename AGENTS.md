@@ -31,6 +31,7 @@
 | Grenzpunkt                         | Border Point              | Point frontière                     |
 | FIP Rabatt / FIP Ermäßigung        | FIP Discount              | Remise FIP / Réduction FIP          |
 | FIP Freifahrtschein für Angehörige | FIP Coupon for relatives  | Coupon FIP pour les ayants droit    |
+| FIP Beantragung                    | FIP Application           | Demande FIP                         |
 | SBB                                | SBB                       | CFF                                 |
 
 #### Headlines
