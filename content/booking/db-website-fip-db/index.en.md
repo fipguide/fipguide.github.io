@@ -53,3 +53,7 @@ Seat reservations can be purchased via the Deutsche Bahn website. To do so, sele
 
 ![Book DB reservation](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+If an error occurs during the booking of trains requiring reservations, it may be that reservations are not yet being sold for that connection. This can be checked, for example, for journeys with PKP Intercity on the [operator website](https://www.intercity.pl/en/).
+{{% /highlight %}}

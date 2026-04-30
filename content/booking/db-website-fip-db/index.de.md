@@ -53,3 +53,7 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 ![DB Reservierung buchen](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+Falls es während der Buchung von reservierungspflichtigen Zügen zu einem Fehler kommt, kann es sein, dass für die Verbindung noch keine Reservierungen verkauft werden. Dies kann z. B. bei Fahrten mit PKP Intercity auf der [Betreiberwebsite](https://www.intercity.pl/en/) geprüft werden.
+{{% /highlight %}}
