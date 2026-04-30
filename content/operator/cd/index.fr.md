@@ -230,6 +230,26 @@ La gratuité nationale pour les employés de la Deutsche Bahn n’est pas reconn
 Dépend de la ligne, de l’occupation et de la catégorie.
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+Les Coupons FIP ne sont pas valables dans les bus exploités par ČD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
+Des Billets FIP à tarif réduit sont disponibles pour certaines liaisons en bus :
+
+- Václav Havel Airport Prague (aéroport de Prague) – Praha hl. n. (gare principale de Prague)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+Aucune réduction FIP n’est valable sur les autres liaisons en bus.
+
+Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes avant le départ, à un Guichet ČD, à un distributeur de billets (FIP non disponible) ou dans l’eShop ČD (FIP non disponible).
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -648,19 +668,6 @@ La liste est également fournie par ČD : [Trains commerciaux ČD 2026 (page 18)
 
 {{% /dialog %}}
 
-### Bus et services de remplacement
-
-Les Coupons FIP ne sont pas valables dans les bus exploités par ČD, sauf pour les services de remplacement ferroviaire.
-
-Pour certaines liaisons, des billets à tarif réduit sont disponibles :
-
-- Aéroport Václav Havel Prague – Praha hl. n. (gare principale de Prague)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-Aucune Réduction FIP sur les autres liaisons.
-
-Un billet (réservation obligatoire) doit être acheté au moins 15 minutes avant le départ au Guichet ČD, au distributeur (pas de FIP) ou sur l’eShop ČD (pas de FIP).
-
 ### Téléphériques
 
 Les Réductions FIP ne sont pas valables sur les téléphériques exploités par ČD.
@@ -673,9 +680,13 @@ Les Réductions FIP ne sont pas valables sur les trains spéciaux et historiques
 
 Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n’est pas autorisée.
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée pour les trajets intérieurs jusqu’à 100 km. Pour les trajets de 101 km ou plus, l’interruption est possible (mais pas en gare internationale).
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

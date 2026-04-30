@@ -252,6 +252,15 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -352,9 +361,9 @@ FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wange
 
 Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
 
-### Busse und Ersatzverkehr
+### Schienenersatzverkehr
 
-Busse sind ausgeschlossen von FIP-Vergünstigungen, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
 
 ## Empfehlungen
 

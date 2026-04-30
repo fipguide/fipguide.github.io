@@ -107,6 +107,15 @@ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtk
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -143,13 +152,13 @@ Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Ja
 
 ## Tarifliche Besonderheiten
 
-### Busverkehr
-
-FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV.
-
 ### Fahrtunterbrechung
 
 Im Falle einer Fahrtunterbrechung muss das Ticket an dem Bahnhof, an dem die Unterbrechung erfolgt, abgestempelt werden.
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Quellen
 

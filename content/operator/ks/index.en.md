@@ -35,6 +35,15 @@ For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from
 
 KŚ does not distinguish between different train categories. Trains usually have a line number starting with "S", which is often not provided in information systems (here it often just says "KŚ" followed by a train number). Only 2nd class tickets are offered, as there is no 1st class on KŚ trains. Additionally, no reservations are possible.
 
+{{% train-category
+        id="bus"
+        title="Bus"
+        type="bus"
+        fip_accepted=false
+%}}
+FIP tickets are generally not valid on KŚ buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -95,13 +104,13 @@ On the following KŚ routes, both FIP tickets from KŚ and PKP are valid:
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Break of Journey
+### Break of journey
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-FIP tickets are only valid on KŚ buses that operate as a replacement service for a train.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

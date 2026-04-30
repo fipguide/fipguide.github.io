@@ -37,6 +37,14 @@
             "Type" "warning"
             )
           }}
+        {{- else if eq .fip_accepted "unknown" -}}
+          {{ partial "tag" (
+            dict
+            "Icon" "help"
+            "Text" "trainCategory.acceptance.unknown"
+            "Type" "info"
+            )
+          }}
         {{- else -}}
           {{ partial "tag" (
             dict

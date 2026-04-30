@@ -230,6 +230,26 @@ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschlan
 Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+
+Für einige Busverbindungen sind vergünstigte FIP Tickets verfügbar:
+
+- Václav Havel Airport Prague (Prag Flughafen) – Praha hl. n. (Prag Hauptbahnhof)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+Auf anderen Busverbindungen gelten keine FIP Ermäßigungen.
+
+Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt an einem ČD Ticketschalter, Fahrkartenautomaten (kein FIP verfügbar) oder im ČD-eShop (kein FIP verfügbar) gekauft werden.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -648,19 +668,6 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
 
 {{% /dialog %}}
 
-### Busse und Ersatzverkehr
-
-FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden, ausgenommen davon sind Schienenersatzverkehre.
-
-Für einige Verbindungen sind jedoch vergünstigte Tickets verfügbar:
-
-- Václav Havel Airport Prague (Prag Flughafen) – Praha hl. n. (Prag Hauptbahnhof)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-Auf anderen Verbindungen gelten keine FIP Ermäßigungen.
-
-Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt an einem ČD Ticketschalter, Fahrkartenautomaten (kein FIP verfügbar) oder im ČD-eShop (kein FIP verfügbar) gekauft werden.
-
 ### Seilbahnen
 
 FIP Ermäßigungen gelten nicht in Seilbahnen, die von der ČD betrieben werden.
@@ -676,6 +683,10 @@ FIP Tickets sind auf den durchgehenden Strecken 083 und 098 (Děčín – Rumbur
 ### Fahrtunterberchungen
 
 Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfernung von bis zu 100 km nicht gestattet. Bei Reiseentfernungen ab 101 km ist eine Fahrtunterbrechung möglich (allerdings nicht an einem internationalen Bahnhof).
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

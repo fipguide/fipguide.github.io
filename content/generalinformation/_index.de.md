@@ -17,7 +17,7 @@ Im Folgenden erklären wir die allgemeinen FIP Grundlagen. Abweichende Informati
 - [Übersicht der Länder](/country "Übersicht Länder")
   {{% /highlight %}}
 
-FIP Vergünstigungen gelten häufig nur für im Eisenbahnverkehr und nicht für Busse, U-Bahnen oder Straßenbahnen. Hierbei kann es jedoch Ausnahmen geben, die auf den jeweiligen Betreiberseiten beschrieben sind.
+FIP Vergünstigungen gelten häufig nur für im Eisenbahnverkehr und nicht für Busse, U-Bahnen oder Straßenbahnen. Hierbei kann es jedoch Ausnahmen geben, die auf den jeweiligen [Betreiberseiten](/operator) beschrieben sind. Im Schenfall von Schienenersatzverkehrsbussen gelten FIP Vergünstigungen, wenn der Schienenersatzverkehr einen Zug ersetzt, in dem FIP gültig gewesen wäre.
 
 Für die Nutzung von FIP Vergünstigungen ist es relevant, von welcher Bahngesellschaft ein Zug betrieben wird. Es gibt grenzüberschreitende Kooperationszüge, die in zwei Ländern von unterschiedlichen Bahngesellschaften betrieben werden (z. B. viele `EC` Verbindungen). Auf den [Länderseiten im FIP Guide](/country "Länderseiten im FIP Guide") wird beschrieben, wie im jeweiligen Land herausgefunden werden kann, wer der Betreiber eines Zuges ist. Allgemein sind dabei auch die Websites der Betreiber hilfreich. Die [Website der Deutschen Bahn](https://bahn.de) zeigt viele europäischen Verbindungen und ihre Betreiber an.
 

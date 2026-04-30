@@ -63,6 +63,15 @@ All ŁKA trains that do not operate on the Sprinter route between Łódź and Wa
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=unknown
+%}}
+We currently have no information about the validity of FIP tickets on buses operated by ŁKA. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -100,13 +109,13 @@ Regardless of FIP, Polregio offers an affordable weekend ticket which, in the fo
 
 FIP tickets are not valid on special trains operated by ŁKA.
 
-### Break of Journey
+### Break of journey
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-We currently have no information about the validity of FIP tickets on buses operated by ŁKA. However, we assume that at least the buses that replace a train can be used with FIP benefits.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

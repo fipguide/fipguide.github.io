@@ -82,7 +82,6 @@ DART (Dublin Area Rapid Transit) is a suburban rail network connecting Dublin's 
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -94,8 +93,6 @@ FIP is not valid on Bus Éireann bus services.
     id="dublin-bus"
     title="Dublin Bus"
     type="bus"
-    fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -138,7 +135,7 @@ Children up to 5 years of age travel free of charge. Young people up to 16 years
 
 ## Special Tariff Conditions
 
-### Break of Journey
+### Break of journey
 
 Break of journey is permitted with FIP tickets, but must be documented with a note at the station where the journey was interrupted.
 

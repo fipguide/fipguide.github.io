@@ -129,7 +129,7 @@ Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement
 
 Si vous souhaitez voyager au-delà de la destination réservée, un supplément doit être payé en plus du billet pour la distance supplémentaire. [^1]
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée avec un billet continu.
 

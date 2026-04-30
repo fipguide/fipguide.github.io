@@ -217,6 +217,16 @@ Including:
 
 {{% /train-category %}}
 
+{{% train-category
+        id="oebb-postbus"
+        title="ÖBB Postbus"
+        type="bus"
+        fip_accepted=false
+        reservation_possible=false
+%}}
+FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Class Categories
 
 Railjet(Xpress) trains have special class categories:
@@ -318,10 +328,6 @@ If you travel with regular Vienna public transport tickets (e.g., single journey
 
 The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
 
-### ÖBB Postbus
-
-FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services (SEV).
-
 ### Motorail
 
 FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra and excluded from the FIP discount.
@@ -336,13 +342,17 @@ FIP 50 discounts are not available.
 
 ÖBB long-distance trains operate between Salzburg and Kufstein on the German rail network without stopping. ÖBB FIP Coupons are valid on this section.
 
+### Distinction Between Local and Long-Distance
+
+Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
+
 ### Break of journey
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
-### Distinction Between Local and Long-Distance
+### Rail Replacement Services
 
-Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Sources
 

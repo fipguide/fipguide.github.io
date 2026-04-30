@@ -34,6 +34,8 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 KW does not distinguish between different train categories. Trains have the abbreviation "KW" at the beginning in journey planners followed by a specific train number; line numbers are not used. Only 2nd class tickets are offered, as there is no 1st class on KW trains. Additionally, no reservations are possible.
 
+FIP tickets are generally not valid on KW buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -84,13 +86,13 @@ Regardless of FIP, Polregio offers an affordable weekend ticket which, in the fo
 
 FIP tickets are not valid on special trains operated by KW.
 
-### Break of Journey
+### Break of journey
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-FIP tickets are only valid on KW buses that operate as a replacement service for a train.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

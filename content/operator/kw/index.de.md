@@ -34,6 +34,8 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 
 Die KW unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KW" und im Anschluss eine konkrete Zugnummer, Liniennummern werden nicht genutzt. Es werden nur Tickets der 2. Klasse angeboten, da es in KW-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
+FIP-Fahrkarten sind in Bussen der KW grundsätzlich nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -84,13 +86,13 @@ Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, da
 
 In von der KW betriebenen Sonderzügen sind FIP-Fahrkarten nicht gültig.
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind jederzeit möglich, es werden dafür keinerlei Nachweise benötigt.
 
-### Busse
+### Schienenersatzverkehr
 
-FIP-Fahrkarten sind nur in Bussen der KW gültig, die als Ersatz für einen Zug verkehren.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

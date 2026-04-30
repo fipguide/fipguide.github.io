@@ -218,6 +218,16 @@ Exemples :
 
 {{% /train-category %}}
 
+{{% train-category
+    id="oebb-postbus"
+    title="ÖBB Postbus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
+
 ## Catégories de classes
 
 Dans les Railjet(Xpress) :
@@ -318,10 +328,6 @@ Si vous voyagez avec des tickets de transport public viennois classiques (par ex
 
 La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une Carte FIP donne droit à une réduction de 50 % sur les billets.
 
-### ÖBB Postbus
-
-Les Billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de remplacement ferroviaire (SEV).
-
 ### Trains auto
 
 Les Billets FIP sont valables sur les trains auto ÖBB. Les frais de transport du véhicule sont en supplément et exclus de la réduction FIP.
@@ -336,13 +342,17 @@ La réduction FIP 50 n’est pas disponible.
 
 Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le réseau ferroviaire allemand sans arrêt. Les Coupons FIP ÖBB y sont valables.
 
-### Arrêts intermédiaires
-
-Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
-
 ### Distinction entre trains locaux et grandes lignes
 
 À part le supplément pour le Coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les Billets FIP 50, sont valables sur tous les trains ÖBB.
+
+### Possibilité d'interrompre le trajet
+
+Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Sources
 

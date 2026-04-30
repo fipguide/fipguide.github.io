@@ -70,7 +70,6 @@ Züge mit Halt an allen Stationen.
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.

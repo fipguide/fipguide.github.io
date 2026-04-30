@@ -86,7 +86,7 @@ Children up to 5 years of age travel free of charge. Young people up to 16 years
 
 ## Special Tariff Conditions
 
-### Break of Journey
+### Break of journey
 
 Break of journey is only permitted in order to catch connecting trains.[^1]
 

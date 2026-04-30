@@ -80,7 +80,7 @@ Le billet anniversaire doit être retiré avant le départ aux points de vente.[
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Une interruption de voyage est autorisée sans formalités.[^1]
 

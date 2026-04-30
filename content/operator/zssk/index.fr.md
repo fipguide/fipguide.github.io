@@ -155,6 +155,15 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s'appliquent lorsqu'ils remplacent un train sur lequel le FIP aurait été valable.[^1]
+{{% /train-category %}}
+
 ## Achat de billets et de réservations
 
 ### En ligne
@@ -197,13 +206,13 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 
 ## Conditions tarifaires spéciales
 
-### Interruption de trajet
+### Possibilité d'interrompre le trajet
 
 Possible uniquement pour les trajets de 101 km ou plus.
 
-### Bus et remplacements
+### Services de remplacement ferroviaire
 
-Les bus ne sont pas valables avec FIP\*\*, sauf s’ils remplacent un train éligible FIP (service de substitution). [^1]
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
 ## Sources
 
