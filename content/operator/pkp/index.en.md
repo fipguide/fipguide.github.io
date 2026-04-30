@@ -4,6 +4,12 @@ title: "PKP"
 country:
   - "poland"
 operator: "pkp"
+
+aliases:
+  - /booking/pkp-ticket-machine
+  - /booking/pkp-ticket-office
+  - /booking/pkp-website
+  - /booking/koleo-website
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").

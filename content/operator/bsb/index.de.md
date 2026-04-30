@@ -6,6 +6,9 @@ country:
   - "germany"
   - "switzerland"
 operator: "bsb"
+
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
