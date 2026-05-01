@@ -168,6 +168,8 @@ Passagiere mit einem in Portugal erworbenen FIP-Ermäßigungsticket dürfen ihre
 
 ## Empfehlungen
 
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zur portugiesischen Eisenbahn](https://zugpost.org/stippvisite-portugal).
+
 {{% highlight tip %}}
 Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmuseums in Entroncamento an. Besuchende, die mit dem Zug anreisen, erhalten 50% Rabatt auf den Eintrittspreis. [^2]
 
