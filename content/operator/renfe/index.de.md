@@ -43,7 +43,7 @@ Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300�
 
 Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt unterschiedliche FIP Globalpreise. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets bei Einstieg in Spanien an einem Ticketschalter in Spanien erworben werden müssen. Bei Zustieg in Frankreich können FIP Tickets im Zug erworben werden, Kartenzahlung ist möglich. [^3]
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 | Strecke                                                       | Elige | Elige Confort | Prémium |
 | ------------------------------------------------------------- | ----- | ------------- | ------- |
@@ -77,7 +77,7 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h).
 
 Umspurbare Hochgeschwindigkeitszüge (Figueres {{< icon "arrow_range" >}} Alicante). FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 - Elige: 6,50 €
 - Elige Confort: 10 €
@@ -96,7 +96,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres {{< icon "arrow_range" >}} Alican
 
 Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 - Elige: 6,50 €
 - Elige Confort: 10 €
@@ -115,7 +115,7 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden
 
 Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 - Elige: 6,50 €
 - Elige Confort: 10 €
@@ -151,7 +151,7 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 
 Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):** 4 €
+**FIP Globalpreis (Distanzunabhängig):** 4 € [^5]
 
 {{% /train-category %}}
 
@@ -166,7 +166,7 @@ Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden ni
 
 Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall.
 
-**FIP Globalpreis (Distanzunabhängig):** 4 €
+**FIP Globalpreis (Distanzunabhängig):** 4 € [^5]
 
 #### Reservierung
 
@@ -272,3 +272,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 [^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^4]: [Nutzerfeedback: Zugangsschranken Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)
+
+[^5]: [Renfe FIP-Preise (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)

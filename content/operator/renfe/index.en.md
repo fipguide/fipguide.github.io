@@ -43,7 +43,7 @@ Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons a
 
 International connections from / to France have different FIP Global Fares depending on the route section. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain when boarding in Spain. FIP tickets can be purchased on the train when boarding in France; card payment is accepted. [^3]
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 | Route                                                   | Elige | Elige Confort | Prémium |
 | ------------------------------------------------------- | ----- | ------------- | ------- |
@@ -77,7 +77,7 @@ Low-cost high-speed trains (up to 300 km/h).
 
 High-speed trains that can be re-gauged (Figueres {{< icon "arrow_range" >}} Alicante). FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 - € 6,50 (Elige Estándar)
 - € 10 (Elige Confort)
@@ -96,7 +96,7 @@ High-speed trains that can be re-gauged (Figueres {{< icon "arrow_range" >}} Ali
 
 High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 - € 6,50 (Elige Estándar)
 - € 10 (Elige Confort)
@@ -115,7 +115,7 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 
 Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 - € 6,50 (Elige Estándar)
 - € 10 (Elige Confort)
@@ -151,7 +151,7 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 
 High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):** € 4
+**FIP Global Fare (regardless of distance):** € 4 [^5]
 
 {{% /train-category %}}
 
@@ -166,7 +166,7 @@ High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted.
 
 Accelerated regional transport. FIP Coupons are only accepted on trains that do not require reservations. Currently, this is only the case on the Barcelona (Girona-Figueres)-Port Bou route.
 
-**FIP Global Fare (regardless of distance):** € 4
+**FIP Global Fare (regardless of distance):** € 4 [^5]
 
 #### Reservation
 
@@ -270,3 +270,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 [^3]: [User feedback: ticket purchase on the train](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^4]: [User feedback: ticket gates in Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)
+
+[^5]: [Renfe FIP prices (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)

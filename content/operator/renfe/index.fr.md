@@ -43,7 +43,7 @@ Trains à grande vitesse à voie normale (jusqu’à 300 km/h). Les Coupons FI
 
 Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différents selon le tronçon. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole lors de l’embarquement en Espagne. Les billets FIP peuvent être achetés à bord lors de l’embarquement en France ; le paiement par carte est accepté. [^3]
 
-**Tarif Global FIP (indépendant de la distance) :**
+**Tarif Global FIP (indépendant de la distance) :**[^5]
 
 | Tronçon                                                   | Elige | Elige Confort | Prémium |
 | --------------------------------------------------------- | ----- | ------------- | ------- |
@@ -77,7 +77,7 @@ Trains à grande vitesse à bas prix (jusqu’à 300 km/h).
 
 Trains à grande vitesse à écartement variable (Figueres {{< icon "arrow_range" >}} Alicante). Les Coupons FIP gratuits ne sont pas acceptés.
 
-**Tarif Global FIP (indépendant de la distance) :**
+**Tarif Global FIP (indépendant de la distance) :**[^5]
 
 - Elige : 6,50 €
 - Elige Confort : 10 €
@@ -96,7 +96,7 @@ Trains à grande vitesse à écartement variable (Figueres {{< icon "arrow_range
 
 Trains à grande vitesse à écartement variable (jusqu’à 250 km/h). Les Coupons FIP gratuits ne sont pas acceptés.
 
-**Tarif Global FIP (indépendant de la distance) :**
+**Tarif Global FIP (indépendant de la distance) :**[^5]
 
 - Elige : 6,50 €
 - Elige Confort : 10 €
@@ -115,7 +115,7 @@ Trains à grande vitesse à écartement variable (jusqu’à 250 km/h). Les Co
 
 Trains de voyageurs entre le régional et la grande vitesse (jusqu’à 250 km/h). Les Coupons FIP gratuits ne sont pas acceptés.
 
-**Tarif Global FIP (indépendant de la distance) :**
+**Tarif Global FIP (indépendant de la distance) :**[^5]
 
 - Elige : 6,50 €
 - Elige Confort : 10 €
@@ -151,7 +151,7 @@ Le Celta est un train international entre Renfe et CP (Portugal) de Porto à Vig
 
 Trains à grande vitesse, durée de trajet < 90 minutes. Les Coupons FIP gratuits ne sont pas acceptés.
 
-**Tarif Global FIP (indépendant de la distance) :** 4 €
+**Tarif Global FIP (indépendant de la distance) :** 4 € [^5]
 
 {{% /train-category %}}
 
@@ -166,7 +166,7 @@ Trains à grande vitesse, durée de trajet < 90 minutes. Les Coupons FIP gratuit
 
 Trains régionaux accélérés. Les Coupons FIP gratuits ne sont acceptés que sur les trains non soumis à réservation obligatoire de cette catégorie. Actuellement, cela ne concerne que la ligne Barcelone(-Girona-Figueres)-Port Bou.
 
-**Tarif Global FIP (indépendant de la distance) :** 4 €
+**Tarif Global FIP (indépendant de la distance) :** 4 € [^5]
 
 #### Réservation
 
@@ -270,3 +270,5 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 [^3]: [Retour utilisateur : achat de billets à bord](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^4]: [Retour utilisateur : portiques à Barcelone](https://github.com/fipguide/fipguide.github.io/issues/796)
+
+[^5]: [Tarifs FIP Renfe (PKP, avril 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
