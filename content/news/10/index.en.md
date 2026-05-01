@@ -21,6 +21,9 @@ There are plans to make tickets with a 50% discount available at SNCB ticket mac
 
 We will keep you informed as more details become available. In the meantime, check the [SNCB](/operator/sncb) page for the latest information on ticket purchase options.
 
+**Update 01.05.2026:** \
+It has been confirmed that neither FIP 50 nor FIP 75 Tickets will be available from SNCB ticket machines.
+
 ### Further Information:
 
 [SNCB: End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)

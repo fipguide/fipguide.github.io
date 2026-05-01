@@ -21,6 +21,9 @@ Es ist geplant, Tickets mit 50% Rabatt am SNCB Fahrkartenautomat für SNCB-Perso
 
 Wir informieren, sobald weitere Details bekannt werden. In der Zwischenzeit findest du auf der [SNCB](/operator/sncb) Seite die aktuellsten Informationen zu den Kaufmöglichkeiten.
 
+**Update 01.05.2026:** \
+Es wurde bestätigt, dass weder FIP 50 noch FIP 75 Tickets am SNCB Fahrkartenautomaten erhältlich sein werden.
+
 ### Weitere Informationen:
 
 [SNCB: Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)

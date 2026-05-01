@@ -21,6 +21,9 @@ Il est prévu de rendre disponibles des billets avec une réduction de 50 % aux 
 
 Nous vous tiendrons informés dès que de plus amples détails seront disponibles. En attendant, consultez la page [SNCB](/operator/sncb) pour les dernières informations sur les options d'achat de billets.
 
+**Update 01.05.2026:** \
+Il a été confirmé que ni les Billets FIP 50 ni les Billets FIP 75 ne seront disponibles aux distributeurs automatiques de la SNCB.
+
 ### Informations complémentaires :
 
 [SNCB: Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
