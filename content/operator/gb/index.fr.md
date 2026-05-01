@@ -516,13 +516,19 @@ La plupart des services de transport à Londres sont exploités par Transport fo
 
 {{% train-category
   id="london-buses-dlr-tram"
-  title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise"
+  title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, London Cable Car et bateaux sur la Tamise"
   type="bus"
   fip_accepted=false
   reservation_required=false
 %}}
 
-Les bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise sont exploités par TfL et n'acceptent pas les réductions FIP. [^1]
+Les services suivants n'acceptent pas le FIP : [^1]
+
+- Bus de Londres
+- Docklands Light Railway (DLR)
+- Tram de Londres
+- London Cable Car / Téléphérique (anciennement IFS Cloud Cable Car / Emirates Air Line)
+- Bateaux sur la Tamise
 
 {{% /train-category %}}
 

@@ -515,13 +515,19 @@ Die meisten Verkehrsangebote in London werden von Transport for London (TfL) bet
 
 {{% train-category
   id="london-buses-dlr-tram"
-  title="London Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Seilbahn und Fluss Themse Boote"
+  title="London Busse, Docklands Light Railway (DLR), London Tram, London Cable Car und Fluss Themse Boote"
   type="bus"
   fip_accepted=false
   reservation_required=false
 %}}
 
-Londoner Busse, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Seilbahn und Fluss Themse Boote werden von TfL betrieben und akzeptieren keine FIP Vergünstigungen. [^1]
+Folgende Verkehrsmittel akzeptieren kein FIP: [^1]
+
+- Londoner Busse
+- Docklands Light Railway (DLR)
+- London Tram
+- London Cable Car / Seilbahn (ehemals IFS Cloud Cable Car / Emirates Air Line)
+- Fluss Themse Boote
 
 {{% /train-category %}}
 
