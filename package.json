@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "prettier": "^3.8.1",
-    "prettier-plugin-go-template": "^0.0.15"
+    "prettier-plugin-go-template": "^0.0.15",
+    "sass": "^1.0.0"
   }
 }
