@@ -4,6 +4,11 @@ title: "National Rail"
 country:
   - "united-kingdom"
 operator: "gb"
+
+aliases:
+  - /booking/caledonian-sleeper-website
+  - /booking/lner-website
+  - /booking/national-rail-ticket-office
 ---
 
 In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.
@@ -548,7 +553,7 @@ Reguläre Tickets für Kinder können günstiger sein als Tickets mit FIP-Rabatt
   id="dartmouth-steam-railway"
   title="Dartmouth Steam Railway and River Boat Company"
   type="regional"
-  fip_accepted=partially
+  fip_accepted=false
   reservation_possible=nil
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}

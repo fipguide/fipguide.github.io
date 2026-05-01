@@ -4,6 +4,10 @@ title: "CFL"
 country:
   - "luxembourg"
 operator: "cfl"
+
+aliases:
+  - /booking/cfl-phone
+  - /booking/cfl-ticket-office
 ---
 
 La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie ferroviaire nationale du [Luxembourg](/country/luxembourg "Luxembourg") et la principale société ferroviaire du pays.
