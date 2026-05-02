@@ -78,11 +78,9 @@ FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn
 ## Ticket- und Reservierungskauf
 
 {{% highlight inofficial %}}
-Scheinbar können Tickets und Reservierungen auch via E-Mail an [info@zpcg.me](mailto:info@zpcg.me) gebucht und an einem [ŽPCG Ticketschalter](#vor-ort) abgeholt werden. Da dieses Vorgehen für Interrail funktioniert, sollte es auch mit FIP möglich sein.
+Anscheinend können Tickets und Reservierungen auch via E-Mail an [info@zpcg.me](mailto:info@zpcg.me) gebucht und an einem [ŽPCG Ticketschalter](#vor-ort) abgeholt werden. Da dieses Vorgehen für Interrail funktioniert, sollte es auch mit FIP möglich sein. [^5]
 
 Offizielle Informationen zu diesem Vorgehen liegen uns jedoch nicht vor.
-
-Quelle: [Reddit](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
 {{% /highlight %}}
 
 ### Vor Ort
@@ -103,10 +101,6 @@ Bei öffentlichen Tarifen reisen Kinder bis 6 Jahre kostenlos. Kinder bis 14 Jah
 
 FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^2]
 
-### Globalpreise
-
-Im Globalpreiszügen zahlen Inhaber von FIP Freifahrtscheinen einen Zuschlag. Für Inhaber eines FIP Ausweises wird eine Ermäßigung von 50 % auf den Globalpreis angewendet.[^2]
-
 ### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind innerhalb der Ticketgültigkeit erlaubt.[^2]
@@ -125,3 +119,5 @@ Bei Reisenden mit FIP Freifahrtschein wird für die Mitnahme von Reisegepäck b
 [^3]: [ŽPCG – Nationale Ticketpreise](https://zpcg.me/en/lokalni-prevoz/cijene)
 
 [^4]: [ŽPCG – Beförderungsbedingungen, Abschnitt 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)
+
+[^5]: [Reddit: How to book the Bar to Belgrade railway?](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)

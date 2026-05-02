@@ -78,11 +78,9 @@ FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail 
 ## Ticket and Reservation Purchase
 
 {{% highlight inofficial %}}
-Apparently, tickets and reservations can also be booked by email via [info@zpcg.me](mailto:info@zpcg.me) and collected at a [ŽPCG Ticket Office](#on-site). Since this works for Interrail, it should also be possible with FIP.
+Apparently, tickets and reservations can also be booked by email via [info@zpcg.me](mailto:info@zpcg.me) and collected at a [ŽPCG Ticket Office](#on-site). Since this works for Interrail, it should also be possible with FIP. [^5]
 
 However, we do not have official information on this procedure.
-
-Source: [Reddit](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
 {{% /highlight %}}
 
 ### On-Site
@@ -103,10 +101,6 @@ For public fares, children up to 6 years travel free of charge. Children up to 1
 
 FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail replacement services.[^2]
 
-### Global Fares
-
-On Global Fare trains, holders of FIP Coupons pay a surcharge. For holders of a FIP Card, a 50% discount is applied to the Global Fare.[^2]
-
 ### Break of journey
 
 Breaks of journey are permitted within the validity period of the ticket.[^2]
@@ -125,3 +119,5 @@ For travellers with an FIP Coupon, no fee is charged for carrying travel luggage
 [^3]: [ŽPCG - National ticket prices](https://zpcg.me/en/lokalni-prevoz/cijene)
 
 [^4]: [ŽPCG - Conditions of carriage, section 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)
+
+[^5]: [Reddit: How to book the Bar to Belgrade railway?](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)

@@ -78,11 +78,9 @@ Les billets FIP ne sont pas valables sur les lignes de bus exploitées par ŽPCG
 ## Achat de billets et réservations
 
 {{% highlight inofficial %}}
-Apparemment, les billets et réservations peuvent aussi être réservés par e-mail via [info@zpcg.me](mailto:info@zpcg.me) et retirés à un [guichet ŽPCG](#en-gare). Étant donné que cette procédure fonctionne pour Interrail, elle devrait aussi être possible avec FIP.
+Apparemment, les billets et réservations peuvent aussi être réservés par e-mail via [info@zpcg.me](mailto:info@zpcg.me) et retirés à un [guichet ŽPCG](#en-gare). Étant donné que cette procédure fonctionne pour Interrail, elle devrait aussi être possible avec FIP. [^5]
 
-Nous ne disposons toutefois pas d’informations officielles sur cette procédure.
-
-Source : [Reddit](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
+Nous ne disposons toutefois pas d'informations officielles sur cette procédure.
 {{% /highlight %}}
 
 ### En gare
@@ -103,10 +101,6 @@ Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement. Les
 
 Les billets FIP ne sont pas valables sur les lignes de bus exploitées par ŽPCG, sauf s’il s’agit d’un service de remplacement ferroviaire.[^2]
 
-### Tarifs Global FIP
-
-Dans les trains à tarif global, les détenteurs de Coupons FIP paient un supplément. Pour les détenteurs d’une Carte FIP, une réduction de 50 % est appliquée sur le Tarif Global FIP.[^2]
-
 ### Interruption de voyage
 
 Les interruptions de voyage sont autorisées dans la période de validité du billet.[^2]
@@ -125,3 +119,5 @@ Pour les voyageurs avec un Coupon FIP, aucun frais n’est facturé pour le tran
 [^3]: [ŽPCG - Tarifs nationaux](https://zpcg.me/en/lokalni-prevoz/cijene)
 
 [^4]: [ŽPCG - Conditions de transport, section 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)
+
+[^5]: [Reddit: How to book the Bar to Belgrade railway?](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
