@@ -675,7 +675,7 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 
 ## Quellen
 
-[^1]: [Rail Delivery Group Guide für Großbritannien](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
+[^1]: [Rail Delivery Group Guide für Großbritannien](https://www.raildeliverygroup.com/doclink/d7431aa-guide-for-visitors-to-britain-using-fip-facilities-v11-2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkNzQzMWFhLWd1aWRlLWZvci12aXNpdG9ycy10by1icml0YWluLXVzaW5nLWZpcC1mYWNpbGl0aWVzLXYxMS0yIiwiaWF0IjoxNzc2MjU3MDY4LCJleHAiOjE3NzYzNDM0Njh9.7NUnbQlUsO30LWptEoRrFN49dwxKSxAqAgMCpL-Ngzk)
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
