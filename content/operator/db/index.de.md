@@ -4,6 +4,12 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+
+aliases:
+  - /booking/db-ticket-office
+  - /booking/db-website
+  - /booking/db-website-fip-db
+  - /booking/db-website-fip-international
 ---
 
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.

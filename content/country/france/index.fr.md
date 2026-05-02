@@ -83,7 +83,7 @@ Le Deutschlandticket, une option économique pour le trafic régional allemand, 
 
 ### Suisse
 
-Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers](/operator/sncf#trains-tgv-inoui--ice-internationaux "TGV inOui / ICE internationaux").
+Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV Lyria vers la Suisse](/operator/sncf#tgv-lyria).
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
@@ -95,7 +95,7 @@ Les trains régionaux `TER` de Lyon à Genève peuvent être utilisés jusqu’�
 
 Depuis Milan, des trains Frecciarossa internationaux relient Paris. Ces trains ne sont pas accessibles avec FIP en France.
 
-Entre Turin et Paris circulent aussi des trains `TGV` SNCF. Ceux-ci sont accessibles avec FIP en France, mais il faut acheter des billets au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "TGV inOui / ICE transfrontaliers").
+Entre Turin et Paris circulent aussi des trains `TGV` SNCF. Ceux-ci sont accessibles avec FIP en France, mais il faut acheter des billets au Tarif Global FIP, voir [TGV vers l'Italie, l'Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium).
 
 Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia. Les Billets FIP 50 et les Coupons FIP SNCF sont valables jusqu’à Ventimiglia.
 
@@ -103,7 +103,7 @@ Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia
 
 Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
 
-Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux](/operator/sncf#trains-tgv-inoui--ice-internationaux "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. [^1]
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV vers l'Italie, l'Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium)). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à 25 € / 28 € (à jour : mai 2026), voir [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Ces billets peuvent être achetés aux guichets Renfe en Espagne. [^1]
 
 Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
 

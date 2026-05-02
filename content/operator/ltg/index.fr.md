@@ -5,6 +5,9 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
+
+aliases:
+  - /booking/ltg-website
 ---
 
 LTG est la compagnie ferroviaire nationale de la République de Lituanie et, avec sa filiale LTG-Link, exploite toutes les liaisons de transport de passagers sur le réseau ferroviaire lituanien ainsi qu’à l’étranger.

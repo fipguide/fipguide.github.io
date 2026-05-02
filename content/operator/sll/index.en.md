@@ -5,6 +5,10 @@ country:
   - "ireland"
   - "united-kingdom"
 operator: "sll"
+
+aliases:
+  - /booking/stena-line-limited-email
+  - /booking/stena-line-limited-phone
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The ferry connections on the Irish Sea are referred to as Stena Line Limited (SLL) in the context of FIP.

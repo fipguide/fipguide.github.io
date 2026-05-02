@@ -4,6 +4,11 @@ title: "Vy Group"
 country:
   - "norway"
 operator: "vy"
+
+aliases:
+  - /booking/entur-chat
+  - /booking/entur-phone
+  - /booking/entur-ticket-office
 ---
 
 Die Vy Group (ehemals Norges Statsbaner) ist die staatliche Bahngesellschaft in [Norwegen](/country/norway). Sie betreibt mit ihren Tochtergesellschaften den Großteil des Schienenpersonenverkehrs in Norwegen.
