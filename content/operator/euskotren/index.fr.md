@@ -129,6 +129,8 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 
 ## Recommandations
 
+Sur le site de Zugpost, il y a un [récit de voyage intéressant sur Euskotren (uniquement en allemand)](https://zugpost.org/euskotren-baskenland/).
+
 ### Musée ferroviaire d’Azpeitia
 
 Euskotren exploite également le musée ferroviaire basque d’Azpeitia, accessible en bus depuis Eibar, Zumaia et Zumarraga[^2]. L’entrée gratuite est accordée sur présentation de la Carte FIP. Les réductions FIP ne sont pas acceptées dans le train à vapeur du musée.
