@@ -2,9 +2,10 @@
   margin-bottom: 1.6rem;
   margin-left: 0;
   margin-right: 0;
+  width: 100%;
 
-  @media (max-width: #{$breakpoint-md}) {
-    max-width: fit-content;
+  @media (min-width: #{$breakpoint-md}) {
+    width: 66%;
   }
 
   label {
@@ -24,12 +25,17 @@
     background-color: var(--bg-neutral);
     color: var(--body-color);
     resize: vertical;
-
-    @media (min-width: #{$breakpoint-md}) {
-      width: 50%;
-    }
+    text-overflow: ellipsis;
 
     @include focus-indicator(0.2rem);
+  }
+
+  select {
+    height: 5.5rem;
+  }
+
+  .a-button {
+    border: 0.2rem solid var(--link-default);
   }
 }
 
@@ -40,4 +46,5 @@
   background-color: green;
   color: white;
   text-align: left;
+  width: fit-content;
 }

@@ -4,6 +4,10 @@ title: "Hellenic Train"
 country:
   - "greece"
 operator: "ht"
+
+aliases:
+  - /booking/ht-ticket-office
+  - /booking/ht-website
 ---
 
 Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fern-, Regional- und den Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).

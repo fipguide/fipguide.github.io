@@ -4,6 +4,9 @@ title: "KMŁ"
 country:
   - "poland"
 operator: "kml"
+
+aliases:
+  - /booking/kml-ticket-office
 ---
 
 Die Koleje Małopolskie, kurz KMŁ, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Kleinpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.

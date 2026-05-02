@@ -4,6 +4,12 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+
+aliases:
+  - /booking/db-ticket-office
+  - /booking/db-website
+  - /booking/db-website-fip-db
+  - /booking/db-website-fip-international
 ---
 
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
@@ -41,7 +47,13 @@ Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. 
 #### Reservierung
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten:
+
+- von/nach Dänemark: 26.06. – 16.08.2026
+- von/nach Belgien: 26.06. – 16.08.2026
+- von/nach Niederlande: 26.06. – 31.08.2026
+
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 
 {{% /train-category %}}
 

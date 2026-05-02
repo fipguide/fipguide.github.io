@@ -59,3 +59,7 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 ![DB Reservierung buchen](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+Falls es während der Buchung von reservierungspflichtigen Zügen zu einem Fehler kommt, kann es sein, dass für die Verbindung noch keine Reservierungen verkauft werden. Bitte beachte entsprechende Vorverkaufsfristen und probiere es in diesem Fall zu einem späteren Zeitpunkt erneut, prüfe die Verbindung auf der entsprechenden Betreiberwebsite oder nutze andere Buchungswege.
+{{% /highlight %}}

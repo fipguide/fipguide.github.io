@@ -4,6 +4,11 @@ title: "DSB"
 country:
   - "denmark"
 operator: "dsb"
+
+aliases:
+  - /booking/dsb-international-website
+  - /booking/dsb-ticket-office
+  - /booking/dsb-website
 ---
 
 La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.
@@ -112,7 +117,7 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 /%}}
 
 {{% booking id="oebb-website"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen"
+    subtitle="Pour les trajets nationaux et transfrontaliers"
 /%}}
 
 {{% booking id="db-website-fip-db"

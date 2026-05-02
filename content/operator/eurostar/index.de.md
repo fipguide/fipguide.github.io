@@ -8,6 +8,14 @@ country:
   - "united-kingdom"
   - "france"
 operator: "eurostar"
+
+aliases:
+  - /booking/eurostar-phone
+  - /booking/eurostar-ticket-office
+  - /booking/ffestiniogtravel-email
+  - /booking/ffestiniogtravel-phone
+  - /booking/internationalrail-email
+  - /booking/railtourguide-website
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet. Eurostar verkehrt in [Deutschland](/country/germany "Deutschland"), [Frankreich](/country/france "Frankreich"), dem [Vereinigten Königreich](/country/united-kingdom "Vereinigtes Königreich"), [Belgien](/country/belgium "Belgien") und den [Niederlanden](/country/netherlands "Niederlande").
@@ -101,9 +109,19 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 ### Online
 
-Die Online-Buchung von Tickets ist bisher nicht möglich. Jedoch ist das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen)
+Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen). Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
+{{% booking id="railtourguide-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
 {{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
 
@@ -122,6 +140,12 @@ Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotlin
     fip_50=nil
     fip_global_fare=true
     reservations=nil
+/%}}
+
+{{% booking id="ffestiniogtravel-phone"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
 /%}}
 
 ### Vor Ort
