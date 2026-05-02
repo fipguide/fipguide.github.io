@@ -146,7 +146,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     type="bus"
     fip_accepted=false
 %}}
-FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -210,7 +210,7 @@ Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankre
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

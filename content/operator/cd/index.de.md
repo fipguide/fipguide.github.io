@@ -238,7 +238,7 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
     reservation_required=true
     reservation_possible=true
 %}}
-FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 Für einige Busverbindungen sind vergünstigte FIP Tickets verfügbar:
 
@@ -686,7 +686,7 @@ Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfer
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

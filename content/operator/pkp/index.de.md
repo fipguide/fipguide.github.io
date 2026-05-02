@@ -348,7 +348,7 @@ FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

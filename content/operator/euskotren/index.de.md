@@ -109,7 +109,7 @@ Wenn du kein "Euskotren FIP Ticket" hast, stellt das Personal an den Stationen b
   type="bus"
   fip_accepted=false
 %}}
-FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Klassenkategorien
@@ -126,7 +126,7 @@ Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Kla
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

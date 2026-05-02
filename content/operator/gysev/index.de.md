@@ -113,7 +113,7 @@ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtk
     type="bus"
     fip_accepted=false
 %}}
-FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -158,7 +158,7 @@ Im Falle einer Fahrtunterbrechung muss das Ticket an dem Bahnhof, an dem die Unt
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Quellen
 

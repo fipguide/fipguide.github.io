@@ -225,7 +225,7 @@ Dazu gehören unter anderem:
     fip_accepted=false
     reservation_possible=false
 %}}
-FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -343,7 +343,7 @@ Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr mö
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Quellen
 

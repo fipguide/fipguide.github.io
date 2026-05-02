@@ -260,7 +260,7 @@ U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP ge
   type="bus"
   fip_accepted=false
 %}}
-Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Klassenkategorien
@@ -407,7 +407,7 @@ Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzüge
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

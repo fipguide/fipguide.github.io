@@ -258,7 +258,7 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
   type="bus"
   fip_accepted=false
 %}}
-FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
+FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -363,7 +363,7 @@ Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, ak
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.[^1]
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
 
 ## Empfehlungen
 

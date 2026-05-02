@@ -69,7 +69,7 @@ Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warsc
     type="bus"
     fip_accepted=unknown
 %}}
-Über die Gültigkeit von FIP-Fahrkarten in den von der ŁKA betriebenen Bussen ist uns aktuell nichts bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+Über die Gültigkeit von FIP-Fahrkarten in den von der ŁKA betriebenen Bussen ist uns aktuell nichts bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -115,7 +115,7 @@ Fahrtunterbrechungen sind jederzeit möglich, es werden dafür keinerlei Nachwei
 
 ### Schienenersatzverkehr
 
-In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
