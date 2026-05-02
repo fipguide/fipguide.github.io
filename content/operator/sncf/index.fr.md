@@ -179,7 +179,7 @@ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-F
   id="bus"
   title="Bus"
   type="bus"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
 %}}
 Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable. [^1]

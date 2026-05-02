@@ -176,7 +176,7 @@ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#z
   id="bus"
   title="Bus"
   type="bus"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
 %}}
 FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. BlaBlaCar Bus). In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre. [^1]

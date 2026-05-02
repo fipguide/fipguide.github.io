@@ -303,7 +303,7 @@ The validity of tickets depends on the distance:
 - 51 km to 100 km: 6 hours from the date and time of issue or at the passenger's choice,
 - from 101 km: 1 day (one day is valid from 00:01 to 24:00).
 
-### Break of journey
+### Break of Journey
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 

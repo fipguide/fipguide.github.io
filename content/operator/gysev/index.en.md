@@ -147,7 +147,7 @@ With public fares, children under 6 travel free of charge. Children up to 15 yea
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 For a break of journey, the ticket must be stamped at the station where the break should be.
 

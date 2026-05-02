@@ -155,7 +155,7 @@ For regular tickets, children under 5 travel free of charge. Children under 10 r
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 With FIP 50 tickets, a journey interruption is permitted only once and for a maximum of 24 hours from the time of arrival at the station where the journey is interrupted. To qualify, the ticket must be validated within one hour of arrival.[^1]
 

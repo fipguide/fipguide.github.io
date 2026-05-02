@@ -112,7 +112,7 @@ For regular tickets, children under 7 years travel free. On domestic routes, chi
 
 If you wish to travel beyond the booked destination, you must pay a surcharge in addition to the ticket for the extra distance. [^1]
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted with a continuous ticket.
 

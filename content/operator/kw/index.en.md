@@ -81,7 +81,7 @@ Regardless of FIP, Polregio offers an affordable weekend ticket which, in the fo
 
 FIP tickets are not valid on special trains operated by KW.
 
-### Break of journey
+### Break of Journey
 
 Breaks of journey are possible at any time; no documentation is required for this.
 

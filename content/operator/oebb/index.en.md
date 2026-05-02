@@ -342,7 +342,7 @@ FIP 50 discounts are not available.
 
 Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
 
-### Break of journey
+### Break of Journey
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 

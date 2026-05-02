@@ -177,7 +177,7 @@ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in
   id="bus"
   title="Bus"
   type="bus"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
 %}}
 FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid. [^1]
@@ -392,7 +392,7 @@ Discounted FIP tickets for `RER` and Transilien trains can be purchased at Trans
 Many stations with ticket barriers are not staffed. While there are help intercoms, they work unreliably. Without the _Contremarque de Passage_ (temporary access card), there is often no way to gain access to the stations.
 {{% /highlight %}}
 
-### Break of journey
+### Break of Journey
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 

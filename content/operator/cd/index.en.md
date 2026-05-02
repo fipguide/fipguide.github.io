@@ -676,7 +676,7 @@ FIP discounts are not valid on special trains and historic services operated by 
 
 FIP Tickets are valid on the through routes 083 and 098 (Děčín – Rumburk via Dolní Žleb and Dolní Poustevna and back) even for journeys that leave and re-enter Czechia. However, boarding or alighting at an international station is not permitted.
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted on domestic journeys up to 100 km. For journeys of 101 km or more, interruption is possible (but not at an international station).
 
