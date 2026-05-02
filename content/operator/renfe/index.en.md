@@ -260,6 +260,8 @@ FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarrile
 
 ## Recommendations
 
+On the Zugpost website, there is a [worth reading travel report about the FEVE network (German only)](https://zugpost.org/feve-schmalspurbahn/).
+
 {{% highlight tip %}}
 Renfe can often be compared more to an airline than to other railway companies. Luggage checks are common on long-distance routes, and there are few trains that allow spontaneous boarding. Therefore, an FIP Coupon is only marginally worthwhile, as it can be used in only a few cases. Due to ticket barriers at many stations, staff must be contacted each time in order to open them with the FIP Coupon. Personal experience shows that especially in the greater Madrid area, the free travel option is sometimes not recognized, and access is consequently denied.
 {{% /highlight %}}
