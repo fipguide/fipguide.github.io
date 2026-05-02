@@ -35,9 +35,12 @@ contact:
     note: >-
       Malheureusement, nous ne pouvons pas vous aider dans ce cas. Nous sommes
       un projet communautaire indépendant et ne pouvons donc pas influencer la
-      délivrance des Cartes FIP et Coupons FIP.
+      délivrance des Cartes FIP et Coupons FIP. Toutes les informations dont
+      nous disposons concernant la demande de Cartes FIP et de Coupons FIP se
+      trouvent sur la page [Demande FIP](/fip-validity).
 
-      Veuillez contacter votre service des ressources humaines compétent.
+      Pour plus d'informations, veuillez contacter votre service des ressources
+      humaines compétent.
   formAriaLabel: Formulaire de contact
   general:
     label: Question générale sur l'utilisation du FIP
@@ -119,7 +122,8 @@ fipValidity:
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
     vous pouvez demander les Coupons FIP auprès de votre employeur. Veuillez
     noter que nous ne sommes pas en mesure d'aider à l'obtention des Coupons
-    FIP. Vous trouverez un aperçu de tous les Coupons FIP [ici](/fip-validity).
+    FIP. Vous trouverez un aperçu de tous les Coupons FIP dans la [Demande
+    FIP](/fip-validity).
   fip-global-fare: Tarif Global FIP
   fip-reduced-ticket: Billet FIP à tarif réduit
   fip-reduced-ticket-description: >-
@@ -127,7 +131,8 @@ fipValidity:
     également connue sous le nom de FIP 50 ou FIP 75. La réduction est
     habituellement de 50 %, parfois de 75 %. Pour savoir quelle réduction
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
-    Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
+    Vous trouverez un aperçu de toutes les réductions dans la [Demande
+    FIP](/fip-validity).
   general: Général
   issuer: Émetteur de la carte FIP
   national-discountsHeading: Réductions nationales (non-FIP)
