@@ -496,6 +496,8 @@ Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’ach
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
+{{% booking id="gwr-whatsapp" /%}}
+
 ### En gare
 
 {{% booking id="national-rail-ticket-office" /%}}
