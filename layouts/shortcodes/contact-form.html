@@ -22,30 +22,115 @@
     value="{{ ref . "contact" }}?success=true"
   />
 
-  <label for="name"
-    >{{ T "contact.nameLabel" }}
-    <input type="text" id="name" name="name" autocomplete="name" required />
+  <label for="topic"
+    >{{ T "contact.topicLabel" }}
+    <select id="topic" name="topic" required>
+      <option value="">{{ T "contact.empty" }}</option>
+      <option value="general">{{ T "contact.general.label" }}</option>
+      <option value="routes">{{ T "contact.routes.label" }}</option>
+      <option value="tickets">{{ T "contact.tickets.label" }}</option>
+      <option value="fipcard">{{ T "contact.fipcard.label" }}</option>
+      <option value="feedback">{{ T "contact.feedback.label" }}</option>
+      <option value="content">{{ T "contact.content.label" }}</option>
+      <option value="accessibility">
+        {{ T "contact.accessibility.label" }}
+      </option>
+      <option value="others">{{ T "contact.others.label" }}</option>
+    </select>
   </label>
 
-  <label for="email"
-    >{{ T "contact.emailLabel" }}
-    <input type="email" id="email" name="email" autocomplete="email" required />
+  <div data-field="general" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.general.note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="routes" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.routes.note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="tickets" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.tickets.note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <div data-field="fipcard" style="display:none;">
+    {{- partial "highlight"
+      (dict "Content" (T "contact.fipcard.note" | .Page.RenderString) "Type" "important")
+    -}}
+  </div>
+
+  <p data-field="feedback,content,accessibility" style="display:none;">
+    {{ T "contact.feedback.note" }}
+  </p>
+
+  <label
+    for="accessibility-webpage"
+    data-field="accessibility"
+    style="display:none;"
+    >{{ T "contact.accessibility.webpage" }}
+    <input
+      type="text"
+      id="accessibility-webpage"
+      name="accessibility-webpage"
+    />
   </label>
 
-  <label for="message"
-    >{{ T "contact.messageLabel" }}
+  <label
+    for="accessibility-note"
+    data-field="accessibility"
+    style="display:none;"
+    >{{ T "contact.accessibility.message" }}
     <textarea
-      id="message"
-      name="message"
+      id="accessibility-note"
+      name="accessibility-note"
       rows="4"
       cols="50"
-      required
     ></textarea>
+  </label>
+
+  <label for="others" data-field="others" style="display:none;"
+    >{{ T "contact.others.topicLabel" }}
+    <input type="text" id="others" name="others" />
+  </label>
+
+  <label
+    for="message"
+    data-field="feedback,content,others"
+    style="display:none;"
+    >{{ T "contact.messageLabel" }}
+    <textarea id="message" name="message" rows="4" cols="50"></textarea>
+  </label>
+
+  <hr
+    data-field="feedback,content,accessibility,others"
+    style="display:none;"
+  />
+
+  <label
+    for="name"
+    data-field="feedback,content,accessibility,others"
+    style="display:none;"
+    >{{ T "contact.nameLabel" }}
+    <input type="text" id="name" name="name" autocomplete="name" />
+  </label>
+
+  <label
+    for="email"
+    data-field="feedback,content,accessibility,others"
+    style="display:none;"
+    >{{ T "contact.emailLabel" }}
+    <input type="email" id="email" name="email" autocomplete="email" />
   </label>
 
   <input
     type="submit"
     class="a-button"
+    data-field="feedback,content,accessibility,others"
+    style="display:none;"
     value="{{ T "contact.submitButton" }}"
   />
 </form>
@@ -57,6 +142,27 @@
     if (urlParams.get("success") === "true") {
       document.getElementById("form").style.display = "none";
       document.getElementById("success").style.display = "block";
+    }
+  });
+
+  document.getElementById("topic").addEventListener("change", function () {
+    document.querySelectorAll("[data-field]").forEach((field) => {
+      field.style.display = "none";
+      field
+        .querySelectorAll("input, textarea, select")
+        .forEach((el) => el.removeAttribute("required"));
+    });
+
+    const value = this.value;
+    if (value) {
+      document.querySelectorAll("[data-field]").forEach((el) => {
+        if (el.dataset.field.split(",").includes(value)) {
+          el.style.display = "flex";
+          el.querySelectorAll("input, textarea, select").forEach((input) =>
+            input.setAttribute("required", "required"),
+          );
+        }
+      });
     }
   });
 </script>

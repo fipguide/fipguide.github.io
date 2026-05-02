@@ -4,6 +4,12 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+
+aliases:
+  - /booking/db-ticket-office
+  - /booking/db-website
+  - /booking/db-website-fip-db
+  - /booking/db-website-fip-international
 ---
 
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.
@@ -41,7 +47,13 @@ The `ICE` is a high-speed train and the highest train category of DB. It connect
 #### Reservation
 
 Reservation required for cross-border journeys to France.
-In the past, there was a reservation requirement for cross-border journeys in summer months to Austria and the Netherlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+Temporary reservation requirement for cross-border journeys:
+
+- to/from Denmark: 26.06 – 16.08.2026
+- to/from Belgium: 26.06 – 16.08.2026
+- to/from the Netherlands: 26.06 – 31.08.2026
+
+In the past, there was a reservation requirement for cross-border journeys in summer months to Austria. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 
 {{% /train-category %}}
 

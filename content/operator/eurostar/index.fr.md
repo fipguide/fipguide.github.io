@@ -8,6 +8,14 @@ country:
   - "united-kingdom"
   - "france"
 operator: "eurostar"
+
+aliases:
+  - /booking/eurostar-phone
+  - /booking/eurostar-ticket-office
+  - /booking/ffestiniogtravel-email
+  - /booking/ffestiniogtravel-phone
+  - /booking/internationalrail-email
+  - /booking/railtourguide-website
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").
@@ -101,9 +109,19 @@ Les billets sont émis exclusivement sous forme numérique (email requis).
 
 ### En ligne
 
-Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations)
+Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
+{{% booking id="railtourguide-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
 {{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
 
@@ -123,6 +141,12 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     fip_50=nil
     fip_global_fare=true
     reservations=nil
+/%}}
+
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
 /%}}
 
 ### En gare

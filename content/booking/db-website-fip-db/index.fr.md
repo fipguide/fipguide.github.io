@@ -9,6 +9,7 @@ params:
     second: "5,50 €"
   fip_50: true
   reservations: true
+  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
   additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
   type: "website"
 
@@ -52,3 +53,7 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 
 ![Réserver une place DB](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l'opérateur ou utiliser d'autres méthodes de réservation.
+{{% /highlight %}}

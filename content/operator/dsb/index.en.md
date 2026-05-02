@@ -4,6 +4,11 @@ title: "DSB"
 country:
   - "denmark"
 operator: "dsb"
+
+aliases:
+  - /booking/dsb-international-website
+  - /booking/dsb-ticket-office
+  - /booking/dsb-website
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
@@ -112,7 +117,7 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 /%}}
 
 {{% booking id="oebb-website"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen"
+    subtitle="For national and cross-border connections"
 /%}}
 
 {{% booking id="db-website-fip-db"

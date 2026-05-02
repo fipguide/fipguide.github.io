@@ -26,3 +26,7 @@ Seat reservations can be purchased via the Deutsche Bahn website. To do so, sele
 
 ![Book DB reservation](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+If an error occurs while booking trains requiring reservations, it may be that reservations are not yet available for that connection. Please observe the relevant advance booking deadlines and, in this case, try again later, check the connection on the operator's website, or use other booking methods.
+{{% /highlight %}}
