@@ -167,6 +167,8 @@ Les passagers titulaires d’un billet de réduction FIP acheté au Portugal ne 
 
 ## Recommandations
 
+Sur le site de Zugpost, il y a un [récit de voyage intéressant sur les chemins de fer portugais (uniquement en allemand)](https://zugpost.org/stippvisite-portugal).
+
 {{% highlight tip %}}
 
 Lors d’un voyage au Portugal, nous recommandons la visite du Musée national du chemin de fer à Entroncamento. Les visiteurs arrivant en train bénéficient d’une réduction de 50 % sur le prix d’entrée. [^2]

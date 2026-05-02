@@ -167,6 +167,8 @@ Passengers holding a FIP discounted ticket purchased in Portugal are not permitt
 
 ## Recommendations
 
+On the Zugpost website, there is a [worth reading travel report about Portuguese railways (German only)](https://zugpost.org/stippvisite-portugal).
+
 {{% highlight tip %}}
 
 When travelling through Portugal we recommend a visit to the National Railway Museum in Entroncamento. Visitors arriving by train receive a 50% discount on admission. [^2]
