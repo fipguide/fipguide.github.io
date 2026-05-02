@@ -513,13 +513,19 @@ Most transport services in London are operated by Transport for London (TfL). Th
 
 {{% train-category
   id="london-buses-dlr-tram"
-  title="London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats"
+  title="London Buses, Docklands Light Railway (DLR), London Tram, London Cable Car, and River Thames Boats"
   type="bus"
   fip_accepted=false
   reservation_required=false
 %}}
 
-London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats are operated by TfL and do not accept FIP discounts. [^1]
+The following services do not accept FIP: [^1]
+
+- London Buses
+- Docklands Light Railway (DLR)
+- London Tram
+- London Cable Car (previously IFS Cloud Cable Car / Emirates Air Line)
+- River Thames Boats
 
 {{% /train-category %}}
 
