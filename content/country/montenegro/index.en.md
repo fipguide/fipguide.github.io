@@ -60,7 +60,7 @@ For travellers through several Balkan countries, the Balkan Flexipass could be w
 - Montenegro (ŽPCG),
 - Romania (CFR Calatori & Regiotrans),
 - Serbia (SV),
-- Slovakia (ŽRS),
+- Slovakia (ZSSK / ŽSR),
 - Turkey (TCDD).
 
 [More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)

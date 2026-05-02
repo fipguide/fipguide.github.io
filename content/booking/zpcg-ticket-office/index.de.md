@@ -5,7 +5,6 @@ description: "Buchungsinformationen für die ŽPCG Ticketschalter."
 
 params:
   fip_50: true
-  fip_global_fare: true
   reservations: true
   additional_info_link: "https://zpcg.me/en/lokalni-prevoz/prodajna-mjesta"
   type: "onsite"

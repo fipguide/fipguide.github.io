@@ -60,7 +60,7 @@ Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass prei
 - Montenegro (ŽPCG),
 - Rumänien (CFR Calatori & Regiotrans),
 - Serbien (SV),
-- Slowakei (ŽRS),
+- Slowakei (ZSSK / ŽSR),
 - Türkei (TCDD).
 
 [Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)

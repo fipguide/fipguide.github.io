@@ -60,7 +60,7 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass pe
 - Monténégro (ŽPCG),
 - Roumanie (CFR Calatori & Regiotrans),
 - Serbie (SV),
-- Slovaquie (ŽRS),
+- Slovaquie (ZSSK / ŽSR),
 - Turquie (TCDD).
 
 [Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
