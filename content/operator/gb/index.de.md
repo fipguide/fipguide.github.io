@@ -494,6 +494,8 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
+{{% booking id="gwr-whatsapp" /%}}
+
 ### Vor Ort
 
 {{% booking id="national-rail-ticket-office" /%}}

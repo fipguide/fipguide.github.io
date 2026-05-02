@@ -493,6 +493,8 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
+{{% booking id="gwr-whatsapp" /%}}
+
 ### On-Site
 
 {{% booking id="national-rail-ticket-office" /%}}
