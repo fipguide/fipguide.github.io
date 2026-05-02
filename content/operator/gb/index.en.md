@@ -15,7 +15,7 @@ There are many different railway companies in [Great Britain](/country/united-ki
 
 ## Summary
 
-- FIP 50 / FIP 75 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail. Exceptions exist only on certain [Lumo](#lumo) routes.
+- FIP 50 / FIP 75 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail.
 - Reservations are only required on night trains.
 - FIP 50 / FIP 75 Discount mostly applies only to Anytime and Off-Peak Tickets.
 - The London Overground and Elizabeth Line are part of National Rail and can be used with FIP.
@@ -262,7 +262,7 @@ London Overground complements the Underground network as a kind of suburban rail
   id="lumo"
   title="Lumo (LD)"
   type="highspeed"
-  fip_accepted=partially
+  fip_accepted=true
   reservation_possible=true
   reservation_required=false
 %}}
@@ -270,7 +270,7 @@ Lumo operates on two routes in Great Britain:
 
 - On the East Coast Main Line between London King's Cross, Newcastle and Edinburgh. FIP is accepted on these East Coast services.
 
-- On the West Coast Main Line, First Lumo Stirling plans to launch new Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. Currently, FIP is not valid on these services. [^7]
+- On the West Coast Main Line, First Lumo Stirling launches Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. FIP is accepted on these West Coast services. [^7]
 
 {{% /train-category %}}
 
@@ -685,4 +685,4 @@ Great Britain can also be explored by night trains:
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)
