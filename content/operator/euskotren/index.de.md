@@ -121,7 +121,7 @@ FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren.
 
 ## Empfehlungen
 
-Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zu Euskotren (nur auf Deutsch)](https://zugpost.org/euskotren-baskenland/).
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zu Euskotren](https://zugpost.org/euskotren-baskenland/).
 
 ### Eisenbahnmuseum in Azpeitia
 
