@@ -256,7 +256,7 @@ FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (
 
 ## Empfehlungen
 
-Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zum FEVE-Netz](https://zugpost.org/feve-schmalspurbahn/).
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zum FEVE-Netz (nur auf Deutsch)](https://zugpost.org/feve-schmalspurbahn/).
 
 {{% highlight tip %}}
 Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen Bahngesellschaften zu vergleichen. So sind Gepäckkontrollen bei Fernreisen genauso üblich wie wenige Züge, bei denen spontan mitgefahren werden kann. Ein FIP Freifahrtschein lohnt sich daher nur sehr bedingt, da er nur in wenigen Fällen Anwendung findet. Durch die Ticketbarrieren in vielen Bahnhöfen muss zudem das Personal jedes Mal aufgesucht werden, um mit dem Freifahrtschein diese öffnen zu können. Die eigene Erfahrung zeigt hier, dass gerade im Großraum Madrid die Freifahrt hin und wieder nicht bekannt ist und somit der Zugang verweigert wird.

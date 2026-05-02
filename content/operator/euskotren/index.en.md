@@ -121,6 +121,8 @@ FIP Tickets are not valid on Euskotren's regional bus lines.
 
 ## Recommendations
 
+On the Zugpost website, there is a [worth reading travel report about Euskotren (German only)](https://zugpost.org/euskotren-baskenland/).
+
 ### Railway Museum in Azpeitia
 
 Euskotren also operates the Basque Railway Museum in Azpeitia, which is accessible by bus from Eibar, Zumaia and Zumarraga[^2]. Free admission is granted upon presentation of the FIP Card. FIP discounts are not accepted on the museum's steam train.

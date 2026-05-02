@@ -256,6 +256,8 @@ Les bénéfices FIP s’appliquent également au réseau à voie métrique de Re
 
 ## Recommandations
 
+Sur le site de Zugpost, il y a un [récit de voyage intéressant sur le réseau FEVE (uniquement en allemand)](https://zugpost.org/feve-schmalspurbahn/).
+
 {{% highlight tip %}}
 Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, accès limité, peu de flexibilité. Les Coupons FIP sont donc peu utiles, sauf pour les Cercanías. Des portiques sont présents dans de nombreuses gares – il faut demander l’ouverture manuelle par le personnel. En particulier dans la région de Madrid, les FIP gratuits ne sont pas toujours acceptés.
 {{% /highlight %}}
