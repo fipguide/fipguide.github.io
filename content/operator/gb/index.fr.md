@@ -4,13 +4,18 @@ title: "National Rail"
 country:
   - "united-kingdom"
 operator: "gb"
+
+aliases:
+  - /booking/caledonian-sleeper-website
+  - /booking/lner-website
+  - /booking/national-rail-ticket-office
 ---
 
 Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses compagnies ferroviaires différentes, regroupées sous le nom de _National Rail_. Chaque entreprise exploite ses propres lignes, la plupart se concentrant sur une région du pays.
 
 ## Résumé
 
-- Les Billets FIP 50 / FIP 75 et Coupon FIP sont valables auprès de tous les [opérateurs ferroviaires](#catégories-de-trains-et-réservations) intégrés à National Rail. Des exceptions existent uniquement sur certaines lignes de [Lumo](#lumo).
+- Les Billets FIP 50 / FIP 75 et Coupon FIP sont valables auprès de tous les [opérateurs ferroviaires](#catégories-de-trains-et-réservations) intégrés à National Rail.
 - Les réservations ne sont obligatoires que dans les trains de nuit.
 - La Réduction FIP 50 / FIP 75 s’applique principalement aux billets Anytime et Off-Peak.
 - La London Overground et la Elizabeth Line font partie de National Rail et peuvent être utilisées avec FIP.
@@ -257,7 +262,7 @@ London Overground complète le réseau du métro comme un réseau suburbain et p
   id="lumo"
   title="Lumo (LD)"
   type="highspeed"
-  fip_accepted=partially
+  fip_accepted=true
   reservation_possible=true
   reservation_required=false
 %}}
@@ -265,7 +270,7 @@ Lumo circule sur deux lignes en Grande-Bretagne :
 
 - Sur l'East Coast Main Line entre London King's Cross, Newcastle et Édimbourg. Le FIP est accepté sur ces liaisons East Coast.
 
-- Sur la West Coast Main Line, First Lumo Stirling prévoit de lancer de nouvelles liaisons Lumo West Coast au printemps 2026 au départ de London Euston via Milton Keynes, Crewe, Preston et Carlisle jusqu'à Stirling. Actuellement, le FIP n'est pas valable sur ces liaisons. [^7]
+- Sur la West Coast Main Line, First Lumo Stirling lance des liaisons Lumo West Coast au printemps 2026 au départ de London Euston via Milton Keynes, Crewe, Preston et Carlisle jusqu'à Stirling. Le FIP est accepté sur ces liaisons West Coast. [^7]
 
 {{% /train-category %}}
 
@@ -511,13 +516,19 @@ La plupart des services de transport à Londres sont exploités par Transport fo
 
 {{% train-category
   id="london-buses-dlr-tram"
-  title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise"
+  title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, London Cable Car et bateaux sur la Tamise"
   type="bus"
   fip_accepted=false
   reservation_required=false
 %}}
 
-Les bus de Londres, Docklands Light Railway (DLR), Tram de Londres, Emirates Air Line, Téléphérique et bateaux sur la Tamise sont exploités par TfL et n'acceptent pas les réductions FIP. [^1]
+Les services suivants n'acceptent pas le FIP : [^1]
+
+- Bus de Londres
+- Docklands Light Railway (DLR)
+- Tram de Londres
+- London Cable Car / Téléphérique (anciennement IFS Cloud Cable Car / Emirates Air Line)
+- Bateaux sur la Tamise
 
 {{% /train-category %}}
 
@@ -549,7 +560,7 @@ Les billets enfants réguliers peuvent être moins chers que les billets avec r�
   id="dartmouth-steam-railway"
   title="Dartmouth Steam Railway and River Boat Company"
   type="regional"
-  fip_accepted=partially
+  fip_accepted=false
   reservation_possible=nil
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
@@ -677,4 +688,4 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^7]: [Rail Delivery Group : Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)
+[^7]: [Rail Delivery Group : Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)

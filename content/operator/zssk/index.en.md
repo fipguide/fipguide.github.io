@@ -6,6 +6,8 @@ country:
 operator: "zssk"
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").

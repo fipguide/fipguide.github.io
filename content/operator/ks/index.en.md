@@ -4,6 +4,11 @@ title: "KŚ"
 country:
   - "poland"
 operator: "ks"
+
+aliases:
+  - /booking/ks-ticket-machine
+  - /booking/ks-ticket-office
+  - /booking/ks-website
 ---
 
 Koleje Śląskie, short KŚ, is a Polish railway operator that primarily offers regional transport in the Silesian Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).

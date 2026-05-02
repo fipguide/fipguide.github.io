@@ -6,6 +6,9 @@
     {{- $classes = (dict $classKey $v) | merge $classes -}}
   {{- end }}
 {{- end }}
+{{- if eq (.Get "classes" | default true) "nil" }}
+  {{- $classes = dict -}}
+{{- end }}
 {{- $params := dict
   "page" $page
   "original_page" .Page

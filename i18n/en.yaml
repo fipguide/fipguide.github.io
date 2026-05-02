@@ -16,15 +16,76 @@ booking:
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
 contact:
+  accessibility:
+    label: 'Website Feedback: Accessibility'
+    message: 'Please describe how we can improve:'
+    webpage: Affected page (URL)
+  content:
+    label: 'Website Feedback: Content Addition or Correction'
   emailLabel: 'Email:'
   emailSubject: New Message from FIP Guide
+  empty: Please select …
+  feedback:
+    label: 'Website Feedback: Praise and Criticism'
+    note: >-
+      We welcome any feedback to improve the website for our colleagues who are
+      FIP members.
+  fipcard:
+    label: Application for FIP Card and FIP Coupon
+    note: >-
+      Unfortunately, we are unable to help in this case. We are an independent
+      community project and therefore cannot influence the issuance of FIP Cards
+      and FIP Coupons. All information we have regarding the application for FIP
+      Cards and FIP Coupons can be found on the [FIP Application](/fip-validity)
+      page.
+
+      For further information, please contact your responsible HR department.
   formAriaLabel: Contact Form
+  general:
+    label: General question about using FIP
+    note: >-
+      We answer general questions on the [General
+      Information](/generalinformation) page. Feel free to use the search for
+      specific terms.
+
+      Detailed information can be found on [country pages](/country) and
+      [operator pages](/operator).
+
+
+      Specific questions are answered by the community and the FIP Guide team on
+      [Discord](https://discord.gg/5nWS9Eu9zz).
   messageLabel: 'Message:'
   nameLabel: 'Name:'
+  others:
+    label: Other
+    topicLabel: 'Summary:'
+  routes:
+    label: Question about travel routes and trains
+    note: >-
+      Use the search to find relevant information for your journey.
+
+      Detailed information can be found on [country pages](/country) and
+      [operator pages](/operator).
+
+
+      Specific questions are answered by the community and the FIP Guide team on
+      [Discord](https://discord.gg/5nWS9Eu9zz).
   submitButton: Submit
   successMessage: >-
     Thank you! Your message has been sent successfully. We'll get back to you as
     soon as possible.
+  tickets:
+    label: Question about ticket purchase and reservations
+    note: >-
+      We cannot sell tickets and reservations for trains.
+
+      Information on booking options can be found on the [operator
+      page](/operator) of the respective company.
+
+
+      Specific questions are answered by the community and the FIP Guide team on
+      [Discord](https://discord.gg/5nWS9Eu9zz).
+  topicLabel: 'Category:'
 contentNavigation:
   button: Open and close content overview
   relatedCountries: Countries in which the operator is active
@@ -57,14 +118,14 @@ fipValidity:
     First select the issuer of your FIP Card. If you are eligible, you can
     request the FIP Coupons through your employer. Please note that we are
     unable to assist with the issuance of FIP Coupons. You can find an overview
-    of all FIP Coupons [here](/fip-validity).
+    of all FIP Coupons in the [FIP Application](/fip-validity).
   fip-global-fare: FIP Global Fare
   fip-reduced-ticket: FIP Reduced Ticket
   fip-reduced-ticket-description: >-
     Railway companies typically offer a discount with FIP, also known as FIP50
     or FIP75. The discount is usually 50 %, sometimes 75 %. To find out what
     discount applies to you, first select the issuer of your FIP Card. You can
-    find an overview of all discounts [here](/fip-validity).
+    find an overview of all discounts in the [FIP Application](/fip-validity).
   general: General
   issuer: FIP Card Issuer
   national-discountsHeading: National Discounts (Non-FIP)

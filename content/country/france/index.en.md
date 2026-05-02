@@ -83,7 +83,7 @@ The Deutschlandticket, a cheap option for regional travel in Germany, is also va
 
 ### Switzerland
 
-From Switzerland, cross-border TGV trains run from Zurich via Basel to France. In Switzerland, these can be used without reservation with FIP 50 Tickets or SBB FIP Coupon. For cross-border connections, a FIP Global Fare must be purchased, see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains").
+From Switzerland, cross-border TGV trains run from Zurich via Basel to France. In Switzerland, these can be used without reservation with FIP 50 Tickets or SBB FIP Coupon. For cross-border connections, a FIP Global Fare must be purchased, see [TGV Lyria trains to Switzerland](/operator/sncf#tgv-lyria).
 
 There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
@@ -95,7 +95,7 @@ In the Geneva area, cross-border regional trains operate under the name Léman E
 
 Frecciarossa trains run from Milan to Paris. FIP discounts are not valid for these trains in France.
 
-Additionally, `TGV` trains operated by SNCF run between Turin and Paris. These can be used with FIP discounts in France, but FIP Global Fare tickets must be purchased, see [Cross-border TGV inOui / ICE trains](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Cross-border TGV inOui / ICE trains").
+Additionally, `TGV` trains operated by SNCF run between Turin and Paris. These can be used with FIP discounts in France, but FIP Global Fare tickets must be purchased, see [TGV trains to Italy, Spain, and Belgium](/operator/sncf#tgv-italy-spain-belgium).
 
 SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco to Ventimiglia. FIP 50 Tickets and SNCF FIP Coupons are valid up to Ventimiglia.
 
@@ -103,7 +103,7 @@ SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco
 
 Direct `TGV` trains operated by the French SNCF run from Barcelona to Paris. Renfe also operates cross-border services between Barcelona and Lyon as well as Madrid and Marseille.
 
-FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains")). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available from €15 (as of October 2025). These tickets can be purchased at Renfe Ticket Offices in Spain. [^1]
+FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [TGV trains to Italy, Spain, and Belgium](/operator/sncf#tgv-italy-spain-belgium)). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available for €25 / €28 (as of May 2026), see [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). These tickets can be purchased at Renfe Ticket Offices in Spain. [^1]
 
 With [Euskotren](/operator/euskotren), you can travel with the special FIP Ticket as far as Hendaye on the Atlantic coast.
 

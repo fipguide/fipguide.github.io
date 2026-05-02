@@ -6,6 +6,8 @@ country:
 operator: "zssk"
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Železničná spoločnosť Slovensko) sont les chemins de fer nationaux slovaques et constituent l’opérateur ferroviaire principal du [Slovaquie](/country/slovakia "Slovaquie").

@@ -4,6 +4,9 @@ title: "CFR Călători"
 country:
   - "romania"
 operator: "cfr"
+
+aliases:
+  - /booking/cfr-ticket-office
 ---
 
 Die Societatea Natională de Transport Feroviar de Călători “CFR Călători” S.A., kurz CFR Călători ist die staatliche Eisenbahngesellschaft von [Rumänien](/country/romania "Rumänien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem rumänischen Schienennetz.
