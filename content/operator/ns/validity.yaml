@@ -200,10 +200,10 @@ lka:
     retired-relatives: *coupon-not-available
 ltg:
   fip-coupon:
-    active: *coupon-not-available
-    active-relatives: *coupon-not-available
-    retired: *coupon-not-available
-    retired-relatives: *coupon-not-available
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
 mav:
   fip-coupon:
     active: *coupon-1
@@ -284,10 +284,10 @@ sz:
     retired-relatives: *coupon-1
 vy:
   fip-coupon:
-    active: *coupon-not-available
-    active-relatives: *coupon-not-available
-    retired: *coupon-not-available
-    retired-relatives: *coupon-not-available
+    active: *coupon-1
+    active-relatives: *coupon-1
+    retired: *coupon-1
+    retired-relatives: *coupon-1
 zfbh:
   fip-coupon:
     active: *coupon-not-available
