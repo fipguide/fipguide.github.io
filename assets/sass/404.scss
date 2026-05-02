@@ -13,7 +13,10 @@
   }
 
   &__image {
+    margin-bottom: 2rem;
+
     @media (min-width: #{$breakpoint-lg}) {
+      margin-bottom: 0;
       flex: 0 0 40%;
     }
   }
