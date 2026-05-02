@@ -1,12 +1,11 @@
 .a-tag {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.4rem;
   padding: 0.4rem 0.8rem;
   border-radius: var(--border-radius-s);
   font-size: 0.7em;
   font-weight: 500;
-  white-space: nowrap;
 
   @each $name, $color in $tag-colors {
     &--#{$name} {
