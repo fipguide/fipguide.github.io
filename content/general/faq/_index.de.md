@@ -5,4 +5,5 @@ aliases:
   - "generalinformation/faq/"
 ---
 
+Test
 {{< faq >}}

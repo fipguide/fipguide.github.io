@@ -37,7 +37,8 @@ contact:
       unabhängiges Community-Projekt und können daher die Ausstellung von FIP
       Ausweisen und Freifahrtscheinen nicht beeinflussen. Alle Informationen,
       die uns zur Beantragung von FIP Ausweisen und FIP Freifahrtscheinen
-      vorliegen, findest du auf der Seite [FIP Beantragung](/fip-validity).
+      vorliegen, findest du auf der Seite [FIP
+      Beantragung](/general/fip-validity).
 
       Für weitere Informationen wende dich an deine zuständige
       Personalabteilung.
@@ -121,7 +122,7 @@ fipValidity:
     dann kannst du die Freifahrtscheine über deinen Arbeitgeber beantragen.
     Bitte beachte, dass wir bei der Ausgabe der Freifahrtscheine nicht
     weiterhelfen können. Einen Überblick aller Freifahrtscheine erhältst du auf
-    der Seite [FIP Beantragung](/fip-validity).
+    der Seite [FIP Beantragung](/general/fip-validity).
   fip-global-fare: FIP Globalpreis
   fip-reduced-ticket: FIP Ermäßigtes Ticket
   fip-reduced-ticket-description: >-
@@ -129,7 +130,7 @@ fipValidity:
     50 oder FIP 75 bekannt. Der Rabatt beläuft sich meistens auf 50%, teilweise
     auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle zunächst den
     Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
-    du auf der Seite [FIP Beantragung](/fip-validity).
+    du auf der Seite [FIP Beantragung](/general/fip-validity).
   general: Übergreifendes
   issuer: Aussteller des FIP Ausweises
   national-discountsHeading: Nationale Vergünstigungen (kein FIP)

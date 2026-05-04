@@ -34,7 +34,7 @@ To use FIP discounts, you need a valid International Discount Card for Railway S
 
 The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from December 1st of the previous year) and up to one month after the last year of validity (until January 31th of the following year).
 
-You can find out the validity period of your FIP Card on our [FIP Application](/fip-validity/).
+You can find out the validity period of your FIP Card on our [FIP Application](/general/fip-validity/).
 
 Some railway companies also allow employees to obtain FIP Cards for their dependents, allowing them to purchase FIP 50 Tickets.
 
@@ -106,7 +106,7 @@ FIP discounts never apply on trains operated by your own railway company. Theref
 
 Traveling with FIP tickets is not always the cheapest option. Discounted FIP tickets typically offer a discount on the flexible ticket price. However, train-bound tickets such as savings fares can still be cheaper.
 
-In addition, some railway companies offer their own employees discounted tickets for cross-border travel into other countries or up to the border. Using these tickets can sometimes be cheaper for travel abroad than using FIP. More information about these offers are available in the [FIP Application](/fip-validity).
+In addition, some railway companies offer their own employees discounted tickets for cross-border travel into other countries or up to the border. Using these tickets can sometimes be cheaper for travel abroad than using FIP. More information about these offers are available in the [FIP Application](/general/fip-validity).
 
 ## Border Points
 
@@ -147,7 +147,7 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 
 For employees of some countries, additional taxation of FIP benefits is necessary, which can result in additional costs.
 
-More information is available in the [FIP Application](/fip-validity).
+More information is available in the [FIP Application](/general/fip-validity).
 
 ## FAQ
 

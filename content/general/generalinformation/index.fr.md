@@ -34,7 +34,7 @@ Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Ca
 
 La durée de validité de la Carte FIP dépend de la compagnie ferroviaire émettrice. En règle générale, la Carte FIP est valable à partir du 1ᵉʳ décembre de l’année précédant la première année de validité imprimée, et jusqu’au 31 janvier de l’année suivant la dernière année de validité.
 
-Vous pouvez consulter la durée de validité de votre Carte FIP sur notre [Demande FIP](/fip-validity/).
+Vous pouvez consulter la durée de validité de votre Carte FIP sur notre [Demande FIP](/general/fip-validity/).
 
 Certaines entreprises ferroviaires permettent également aux employés d’obtenir des Cartes FIP pour leurs ayants droit, leur permettant d’acheter des Billets FIP 50.
 
@@ -106,7 +106,7 @@ Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre
 
 Ce n'est pas toujours le voyage avec des billets FIP qui est la solution la moins chère. Les billets FIP réduits accordent généralement une réduction sur le prix du billet flexible. Cependant, les billets liés aux trains, comme les tarifs réduits, peuvent néanmoins être moins chers.
 
-De plus, certaines compagnies ferroviaires accordent à leurs propres employés des billets à tarif réduit pour les trajets transfrontaliers vers l’étranger ou jusqu’à la frontière. L’utilisation de ces billets peut parfois être moins chère que l’utilisation du FIP pour le voyage à l’étranger. Vous trouverez plus d’informations sur ces offres dans la [Demande FIP](/fip-validity).
+De plus, certaines compagnies ferroviaires accordent à leurs propres employés des billets à tarif réduit pour les trajets transfrontaliers vers l’étranger ou jusqu’à la frontière. L’utilisation de ces billets peut parfois être moins chère que l’utilisation du FIP pour le voyage à l’étranger. Vous trouverez plus d’informations sur ces offres dans la [Demande FIP](/general/fip-validity).
 
 ## Points frontières
 
@@ -147,7 +147,7 @@ J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort 
 
 Pour les employés de certains pays, une taxation supplémentaire des avantages FIP est nécessaire, ce qui peut entraîner des coûts supplémentaires.
 
-Vous trouverez plus d’informations dans la [Demande FIP](/fip-validity).
+Vous trouverez plus d’informations dans la [Demande FIP](/general/fip-validity).
 
 ## FAQ
 
