@@ -4,11 +4,11 @@
   {{ $mainEntity = "Article" }}
 {{ else if eq .Page.Type "news" }}
   {{ $mainEntity = "NewsArticle" }}
-{{ else if eq .Page.Type "generalinformation" }}
+{{ else if eq .Page.Type "faq" }}
   {{ $mainEntity = "FAQPage" }}
 {{ end }}
 
-{{ $faq := site.GetPage "section" "generalinformation/faq" }}
+{{ $faq := site.GetPage "section" "general/faq" }}
 
 {{ $image := (partial "helper/contentImage" .).Permalink }}
 

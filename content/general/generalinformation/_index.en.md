@@ -2,10 +2,8 @@
 title: "General Information"
 description: "General information about FIP, the FIP Card (International Discount Card for Railway Staff), and the use of international travel concessions such as FIP 50 Tickets and FIP Coupons (free international travel)."
 toc: true
-url: "general/general-information/"
 aliases:
-  - "general/"
-  - "generalinformation/"
+  - "/generalinformation/"
 ---
 
 ## General
@@ -74,7 +72,7 @@ On 03.03.2026 I don't travel by train, but I do on 04.03. So I fill in 04.03.202
 To travel by train for longer than eight days in one country or with one operator, you can skip a day without using a coupon and instead purchase an FIP 50 Ticket for that day's journey. These can be purchased at any time independently of a coupon.
 {{% /highlight %}}
 
-![FIP Coupon](./fip-coupon.webp)
+![FIP Coupon](fip-coupon.webp)
 
 ### FIP 50 Tickets
 
@@ -153,7 +151,7 @@ More information is available in the [FIP Application](/fip-validity).
 
 ## FAQ
 
-You can find the FAQ on the page [FAQ](/generalinformation/faq/).
+You can find the FAQ on the page [FAQ](/general/faq/).
 
 ## Additional useful resources
 

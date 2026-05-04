@@ -2,10 +2,8 @@
 title: "Informations générales"
 description: "Informations générales sur le FIP, la Carte FIP (Carte Internationale de Réduction pour le Personnel Ferroviaire) ainsi que l’utilisation des avantages de voyage internationaux tels que les Billets FIP 50 et les Coupons FIP (permis FIP)."
 toc: true
-url: "general/general-information/"
 aliases:
-  - "general/"
-  - "generalinformation/"
+  - "/generalinformation/"
 ---
 
 ## Généralités
@@ -74,7 +72,7 @@ Le 03.03.2026, je ne voyage pas en train, mais je le fais le 04.03. Je remplis d
 Pour voyager en train pendant plus de huit jours dans un pays ou avec un opérateur, vous pouvez ignorer un jour sans utiliser de coupon et acheter plutôt un Billet FIP 50 pour le voyage de ce jour. Ceux-ci peuvent être achetés à tout moment indépendamment d’un coupon.
 {{% /highlight %}}
 
-![Coupon FIP](./fip-coupon.webp)
+![Coupon FIP](fip-coupon.webp)
 
 ### Billets FIP 50
 
@@ -153,7 +151,7 @@ Vous trouverez plus d’informations dans la [Demande FIP](/fip-validity).
 
 ## FAQ
 
-Vous pouvez trouver la FAQ sur la page [FAQ](/generalinformation/faq/).
+Vous pouvez trouver la FAQ sur la page [FAQ](/general/faq/).
 
 ## Ressources utiles supplémentaires
 

@@ -2,10 +2,8 @@
 title: "Übergreifende Infos"
 description: "Übergreifende Informationen zu FIP, FIP Ausweis (Internationale Ermäßigungskarte für Eisenbahnpersonal) sowie der Nutzung Internationaler Fahrvergünstigungen wie FIP 50 und FIP Freifahrtscheinen (Auslandsfreifahrten)."
 toc: true
-url: "general/general-information/"
 aliases:
-  - "general/"
-  - "generalinformation/"
+  - "/generalinformation/"
 ---
 
 ## Allgemein
@@ -74,7 +72,7 @@ Am 03.03.2026 fahre ich nicht mit dem Zug, dafür wieder am 04.03. Also trage ic
 Um länger als acht Tage in einem Land bzw. bei einem Betreiber Zug fahren zu können, kann auch zwischendrin ein Tag kein Freifahrtschein benutzt werden und z. B. ein FIP 50 Ticket für die Fahrt an diesem Tag gekauft werden. Diese können unabhängig von einem Freifahrtschein jederzeit erworben werden.
 {{% /highlight %}}
 
-![FIP Freifahrtschein](./fip-coupon.webp)
+![FIP Freifahrtschein](fip-coupon.webp)
 
 ### FIP 50 Tickets
 
@@ -153,7 +151,7 @@ Weitere Informationen findest du auf der Seite [FIP Beantragung](/fip-validity).
 
 ## FAQ
 
-Das FAQ findest du auf der Seite [FAQ](/generalinformation/faq/).
+Das FAQ findest du auf der Seite [FAQ](/general/faq/).
 
 ## Zusätzliche nützliche Ressourcen
 

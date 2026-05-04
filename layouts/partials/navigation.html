@@ -110,8 +110,8 @@
         </li>
         <hr aria-hidden="true" />
         <li class="o-header__item o-dropdown">
-          {{ $generalInformationPage := site.GetPage "section" "generalinformation" }}
-          {{ $generalFaqPage := site.GetPage "/generalinformation/faq" }}
+          {{ $generalInformationPage := site.GetPage "section" "/general/generalinformation" }}
+          {{ $generalFaqPage := site.GetPage "/general/faq" }}
           {{ $fipValidityPage := site.GetPage "/fip-validity" }}
           <button
             id="navbar-generalinformation-selection-button"
