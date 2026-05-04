@@ -110,9 +110,6 @@
         </li>
         <hr aria-hidden="true" />
         <li class="o-header__item o-dropdown">
-          {{ $generalInformationPage := site.GetPage "section" "/general/generalinformation" }}
-          {{ $generalFaqPage := site.GetPage "/general/faq" }}
-          {{ $fipValidityPage := site.GetPage "/general/fip-validity" }}
           <button
             id="navbar-generalinformation-selection-button"
             class="o-dropdown__button"
@@ -134,41 +131,19 @@
             aria-hidden="true"
             aria-label="{{ T "menu.generalinformation-dropdown.dropdown-label" }}"
           >
-            <li
-              class="o-dropdown__item"
-              {{ if (.Eq $generalInformationPage) }}
-                aria-selected="true"
-              {{ end }}
-            >
-              {{- partial "link"
-                (dict
-                "Destination" $generalInformationPage.RelPermalink
-                "Text" (T "menu.generalinformation-dropdown.items.general-information")
-                )
-              -}}
-            </li>
-            <li
-              class="o-dropdown__item"
-              {{ if (.Eq $fipValidityPage) }}aria-selected="true"{{ end }}
-            >
-              {{- partial "link"
-                (dict
-                "Destination" $fipValidityPage.RelPermalink
-                "Text" (T "menu.generalinformation-dropdown.items.fip-validity")
-                )
-              -}}
-            </li>
-            <li
-              class="o-dropdown__item"
-              {{ if (.Eq $generalFaqPage) }}aria-selected="true"{{ end }}
-            >
-              {{- partial "link"
-                (dict
-                "Destination" $generalFaqPage.RelPermalink
-                "Text" (T "menu.generalinformation-dropdown.items.faq")
-                )
-              -}}
-            </li>
+            {{ range  where site.RegularPages "Section" "general" }}
+              <li
+                class="o-dropdown__item"
+                {{ if (.Eq $currentPage) }}aria-selected="true"{{ end }}
+              >
+                {{- partial "link"
+                  (dict
+                  "Destination" .RelPermalink
+                  "Text" (print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) .Title | safeHTML)
+                  )
+                -}}
+              </li>
+            {{ end }}
           </menu>
         </li>
         <hr aria-hidden="true" />

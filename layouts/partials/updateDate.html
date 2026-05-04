@@ -6,7 +6,7 @@
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   </div>
 {{ else if .GitInfo }}
-  {{ $href := print .Site.Params.gitHubUrl "/commits/" .GitInfo.Hash "/content" .Path "/index." .Language ".md" }}
+  {{ $href := print .Site.Params.gitHubUrl "/commits/" .GitInfo.Hash "/content/" .File.Path }}
   <a
     href="{{ $href }}"
     target="_blank"
