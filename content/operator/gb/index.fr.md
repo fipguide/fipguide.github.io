@@ -496,6 +496,8 @@ Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’ach
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
+{{% booking id="gwr-whatsapp" /%}}
+
 ### En gare
 
 {{% booking id="national-rail-ticket-office" /%}}
@@ -676,7 +678,7 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 
 ## Sources
 
-[^1]: [Rail Delivery Group Guide pour les visiteurs en Grande-Bretagne utilisant FIP](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
+[^1]: [Rail Delivery Group Guide pour les visiteurs en Grande-Bretagne utilisant FIP](https://www.raildeliverygroup.com/doclink/d7431aa-guide-for-visitors-to-britain-using-fip-facilities-v11-2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkNzQzMWFhLWd1aWRlLWZvci12aXNpdG9ycy10by1icml0YWluLXVzaW5nLWZpcC1mYWNpbGl0aWVzLXYxMS0yIiwiaWF0IjoxNzc2MjU3MDY4LCJleHAiOjE3NzYzNDM0Njh9.7NUnbQlUsO30LWptEoRrFN49dwxKSxAqAgMCpL-Ngzk)
 
 [^2]: [Caledonian Sleeper - Avant votre voyage](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
