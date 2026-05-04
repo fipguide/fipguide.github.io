@@ -122,6 +122,8 @@ East Midlands Railway verbindet London mit den East Midlands und Yorkshire im Re
 
 Die Elizabeth Line bietet durchgehende S-Bahn-Verbindungen von Ost- nach West-London und ergänzt das städtische Nahverkehrsnetz. Sie ist Teil von National Rail, kann mit FIP Vergünstigungen genutzt werden und bietet eine gute Möglichkeit, mit FIP durch London zu kommen. [^1]
 
+Es gibt keine Ticketschalter zwischen Abbey Wood und Canary Wharf bei denen FIP 50 Tickets erworben werden können.
+
 {{% highlight tip %}}
 Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
 {{% /highlight %}}
