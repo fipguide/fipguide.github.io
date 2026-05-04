@@ -41,7 +41,7 @@ Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna v
 
 Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 {{% /train-category %}}
@@ -55,7 +55,7 @@ Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 %}}
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
 {{% /train-category %}}
@@ -69,7 +69,7 @@ Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
 %}}
 Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
 {{% /train-category %}}

@@ -41,7 +41,7 @@ Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise 
 Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -61,7 +61,7 @@ Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwisc
 Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -83,7 +83,7 @@ Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer
 Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schlafplatz. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -107,7 +107,7 @@ Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer e
 Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindungsauskunft). Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -129,7 +129,7 @@ Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedene
 Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
 

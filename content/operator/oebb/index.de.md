@@ -83,7 +83,7 @@ Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets
 Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Es besteht Reservierungspflicht teilweise in der Hauptsaison (Sommer) auf internationalen Verbindungen nach Deutschland nur für grenzüberschreitende Fahrten.
 
@@ -135,7 +135,7 @@ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschlan
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
 
-#### Reservierung
+#### Reservierungen
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
 

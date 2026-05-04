@@ -44,7 +44,7 @@ Il n’existe pas d’obligation de réservation, sauf sur certaines liaisons tr
 
 L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la DB. Il relie les grandes villes allemandes à jusqu’à 300 km/h et circule aussi vers certains pays voisins. Les liaisons particulièrement rapides avec peu d’arrêts sont appelées `ICE Sprinter`.
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
 Obligation de réservation temporaire pour les trajets transfrontaliers:
@@ -68,7 +68,7 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
 
@@ -131,7 +131,7 @@ Les trains vers l’Italie sont soumis à supplément et réservation obligatoir
 
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers l’Italie et pendant la haute saison vers le Danemark.
 
@@ -148,7 +148,7 @@ Réservation obligatoire pour les trajets transfrontaliers vers l’Italie et pe
 
 Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin – Pologne.
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la Pologne.
 Pour les trajets transfrontaliers en été vers la République tchèque, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
@@ -173,7 +173,7 @@ Les trajets nationaux gratuits pour les employés de la Deutsche Bahn ne sont pa
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux gratuits jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
 
-#### Réservation
+#### Réservations
 
 Pour les Nightjet, des réservations/suppléments pour les voitures-lits et couchettes peuvent être réservés. Un FIP Coupon pour les pays/compagnies traversés est nécessaire. Sans FIP Coupon, un billet au Tarif Global FIP pour tout le trajet peut être acheté.
 

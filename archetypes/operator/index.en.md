@@ -86,7 +86,7 @@ This highlight can be added if there is a risk that the train category could be 
 Further important information can be added here.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 <!--
   Description of the reservation conditions for this train category.

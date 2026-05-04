@@ -56,7 +56,7 @@ Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspfli
 Hochgeschwindigkeitszüge mit Neigetechnik (Pendolino), die von PKP Intercity betrieben werden und hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind.
 In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2]
 
-#### Reservierung
+#### Reservierungen
 
 Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
 
@@ -78,7 +78,7 @@ Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkau
 Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3]
 In der 1. und 2. Klasse gibt es eine kostenlose Flasche Wasser pro Person.
 
-#### Reservierung
+#### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
 
@@ -97,7 +97,7 @@ Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity 
 
 Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN"](#en)).
 
-#### Reservierung
+#### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
 
@@ -116,7 +116,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
 
 Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN"](#en)).
 
-#### Reservierung
+#### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden.
 
@@ -134,7 +134,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
 Internationale Nachtzugverbindungen, betrieben von PKP Intercity, die aus oder in Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine verkehren.
 Nachtzugverbindungen, die nur innerhalb von Polen fahren, werden als `IC` oder `TLK` geführt. Verbindungen in die Ukraine sind als `D` gekennzeichnet.
 
-#### Reservierung
+#### Reservierungen
 
 Es besteht Reservierungspflicht in Schlaf- und Liegewagen.
 

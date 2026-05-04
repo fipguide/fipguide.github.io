@@ -146,7 +146,7 @@ FART exploite également deux petits téléphériques. Il n'est pas connu si le 
 
 Dans le transport par bus, le FIP est pleinement reconnu.
 
-#### Réservation
+#### Réservations
 
 Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
 
@@ -263,7 +263,7 @@ Les bus et trains à voie étroite sont accessibles avec le FIP ; pour le funicu
 %}}
 La Matterhorn Gotthard Bahn dispose d’un réseau de 144 km dans les cantons du Valais, d’Uri et des Grisons. Si toutes les réductions FIP sont reconnues sur certaines lignes, ce n’est pas le cas entre Zermatt et Gornergrat, où seuls les Billets FIP 50 sont acceptés. Le transport auto par le tunnel de la Furka est totalement exclu du FIP. Le FIP est entièrement accepté sur les lignes d’autobus.
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour le Glacier Express, exploité conjointement par MGB et les Chemins de fer rhétiques (RhB) ; voir la [section dédiée](#glacier-express).
 
@@ -299,7 +299,7 @@ Elle est également l’entreprise exploitante sur les lignes des Transports Mon
 
 Le FIP est valable sur l’ensemble des itinéraires de la MOB indiqués ci-dessous. Entre Zweisimmen et Interlaken Ost, les trains sont toutefois exploités par BLS SA. Cela signifie que des Coupons FIP tant pour SP que pour BLS sont nécessaires pour parcourir l’intégralité de la ligne. Les Billets FIP 50 peuvent être réservés de bout en bout.
 
-#### Réservation
+#### Réservations
 
 Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le GoldenPass Panoramic (trains entre Montreux et Zweisimmen), tous deux indiqués `PE` dans les horaires, le voyage sans réservation de siège n’est possible que s’il reste des places disponibles. Sinon, une réservation payante peut être achetée via le [site de la MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). Pour certains wagons panoramiques du GoldenPass Panoramic, un supplément peut être perçu sur place.
 
@@ -445,7 +445,7 @@ Les Chemins de fer rhétiques exploitent principalement des lignes dans le canto
 
 Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s’applique aux navettes auto par les tunnels de l’Albula et de la Vereina.
 
-#### Réservation
+#### Réservations
 
 Pour le Glacier Express, des réservations payantes doivent être achetées à l’avance ; voir la [section dédiée](#glacier-express). Pour le Bernina Express, circulant entre Coire et Tirano et indiqué `PE`, un supplément doit être payé en plus de la réservation ; voir la [section dédiée](#bernina-express).
 
@@ -502,7 +502,7 @@ Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la sect
 Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
 
@@ -599,7 +599,7 @@ Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur
 
 Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d’en-Haut et Finhaut – Lac d’Emosson.
 
-#### Réservation
+#### Réservations
 
 Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 minutes avant le départ et gratuitement via le [site officiel](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
 
@@ -723,7 +723,7 @@ La Zentralbahn exploite un réseau à voie métrique constitué de la ligne du B
 
 Les réductions FIP SP sont valables sur les trois lignes. Les trains indiqués `PE` entre Lucerne et Interlaken Ost peuvent être utilisés sans supplément.
 
-#### Réservation
+#### Réservations
 
 Une réservation pour le `PE` entre Lucerne et Interlaken Ost peut être achetée contre paiement via le [site officiel](https://shop.luzern.com/de/stories/luzern-interlaken-express), mais elle n’est pas obligatoire.
 

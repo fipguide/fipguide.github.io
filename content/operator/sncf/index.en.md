@@ -59,7 +59,7 @@ Special conditions apply for international connections, see [International TGV i
 
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -98,7 +98,7 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -121,7 +121,7 @@ Intercity trains operated by SNCF, connecting various cities in France, mostly r
 
 On the [Intercités website](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) of SNCF, you can find a list of routes with and without mandatory reservations. Alternatively, you can use the [train search](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) on the SNCF website to check the reservation requirements for each train number.
 
-#### Reservation
+#### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -141,7 +141,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 %}}
 SNCF night trains within France. International Nightjet connections ended in December 2025.
 
-#### Reservation
+#### Reservations
 
 Cost depends on route and occupancy.
 
@@ -250,7 +250,7 @@ With regular tickets, children up to and including 4 years travel free. Children
 
 ## Special Tariff Conditions
 
-### Reservation requirement in regional trains
+### Reservations requirement in regional trains
 
 On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. There is no reservation requirement for all other journeys. [^2]
 

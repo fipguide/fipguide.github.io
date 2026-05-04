@@ -82,7 +82,7 @@ Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` t
 {{% highlight confusion %}}
 Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains.{{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservation is mandatory sometimes in high season (summer) on international routes to Germany, only for cross-border journeys.
 

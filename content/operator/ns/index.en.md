@@ -49,7 +49,7 @@ When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE su
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is required for cross-border journeys during high season.
 In 2026, this will be the case from June 26th to August 16th.

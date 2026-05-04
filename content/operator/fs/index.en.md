@@ -51,7 +51,7 @@ Trains of the private operator Italo are also marked as AV but cannot be used wi
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -74,7 +74,7 @@ Trains of the private operator Italo are also marked as AV but cannot be used wi
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -93,7 +93,7 @@ Fast trains outside high-speed lines.
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -125,7 +125,7 @@ Connecting buses for high-speed trains.
 
 Fast trains mostly outside high-speed lines.
 
-#### Reservierung
+#### Reservierungen
 
 **Cost:** € 3 (1st/2nd class)
 
@@ -163,7 +163,7 @@ The reservation price always includes a surcharge when using a FIP Coupon. For c
 
 International fast trains to Germany, Austria, and Switzerland.
 
-#### Reservation
+#### Reservations
 
 **Cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -195,7 +195,7 @@ National free travel for Deutsche Bahn staff is not recognized in Germany. If an
 
 _Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP global fare.
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 

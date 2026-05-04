@@ -171,7 +171,7 @@ Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reserv
 
 **FIP Globalpreis (Distanzunabhängig):** 4 € [^5]
 
-#### Reservierung
+#### Reservierungen
 
 Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres)-Port Bou[^1].
 

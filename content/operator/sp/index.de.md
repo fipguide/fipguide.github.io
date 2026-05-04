@@ -146,7 +146,7 @@ Außerdem werden von FART zwei Kleinseilbahnen betrieben. Bei diesen ist nicht b
 
 Im Busverkehr wird FIP vollständig anerkannt.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind nur während der Weihnachtsmärkte und dem Raduno degli Spazzacamini (dem internationalen Kaminfegertreffen) in Santa Maria Maggiore erforderlich.
 
@@ -263,7 +263,7 @@ Die Busse und Schmalspurbahnen können mit FIP genutzt werden, bei der Standseil
 %}}
 Die Matterhorn Gotthard Bahn besitzt ein 144 Kilometer langes Streckennetz in den Kantonen Wallis, Uri und Graubünden. Während auf einigen Strecken alle FIP Vergünstigungen anerkannt werden, ist dies auf der Strecke zwischen Zermatt und Gornergrat nicht der Fall. Dort können lediglich FIP 50 Tickets genutzt werden. Der Autotransport durch den Furka Tunnel ist komplett von FIP ausgenommen. Auf den Buslinien wird FIP komplett anerkannt.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist erforderlich beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betrieben wird, siehe [eigener Abschnitt](#glacier-express).
 
@@ -299,7 +299,7 @@ Daneben ist sie auch das betreibende Eisenbahnverkehrsunternehmen auf den Streck
 
 FIP ist gültig auf den kompletten unten genannten Routen der MOB. Zwischen Zweisimmen und Interlaken Ost werden die Züge jedoch durch die BLS AG betrieben. Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sein müssen, um die komplette Strecke zu befahren. FIP 50 Tickets können durchgehend gebucht werden.
 
-#### Reservierung
+#### Reservierungen
 
 Für den GoldenPass Express (Durchgehende Züge von Montreux bis Interlaken Ost) und GoldenPass Panoramic (Züge zwischen Montreux und Zweisimmen), die beide in der Verbindungsauskunft als `PE` gekennzeichnet werden, ist eine Mitfahrt ohne Sitzplatzreservierung nur möglich, wenn noch Plätze frei sind. Ansonsten kann über die [Website der MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets) eine kostenpflichtige Reservierung erworben werden. Für bestimmte Panoramawagen beim GoldenPass Panoramic kann zusätzlich vor Ort ein Zuschlag erhoben werden.
 
@@ -445,7 +445,7 @@ Die Rhätische Bahn ist ein Eisenbahnverkehrsunternehmen, das hauptsächlich im 
 
 FIP ist fast auf allen Verbindungen gültig. Keine Vergünstigungen bestehen auf den Autozügen durch die Albula und Vereina Tunnel.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Abschnitt](#glacier-express). Für den Bernina Express, verkehrt auf der Strecke Chur – Tirano als `PE`, muss neben der Reservierung ein Aufschlag gezahlt werden, siehe [eigener Abschnitt](#bernina-express).
 
@@ -503,7 +503,7 @@ FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweiz
 In einigen Zügen ist ein Panoramaaufschlag in Höhe von 1,50 € zu zahlen. Die betroffenen Zugverbindungen sind nur [Online auf der Centovalli Website](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) und nicht über die Verbindungsauskunft einsehbar. Der Zuschlag kann [online](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) oder vor Ort im Zug erworben werden.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind nur während der Weihnachtsmärkte und dem Raduno degli Spazzacamini (dem internationalen Kaminfegertreffen) in Santa Maria Maggiore erforderlich.
 
@@ -600,7 +600,7 @@ FIP-Vergünstigungen sind zwischen Martigny und Le Châtelard-Frontière auf dem
 
 Im Busverkehr gelten FIP-Vergünstigungen der SP auf allen Routen, außer auf den Strecken Salvan – La Creusaz – Van-d'en-Haut sowie Finhaut – Lac d'Emosson.
 
-#### Reservierung
+#### Reservierungen
 
 Die Züge nach 23 Uhr sind reservierungspflichtig und müssen mindestens 30 Minuten vor Abfahrt kostenlos über die [offizielle Website](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441) getätigt werden.
 
@@ -724,7 +724,7 @@ Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – 
 
 FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `PE` gekennzeichneten Züge zwischen Luzern und Interlaken Ost sind ohne Aufschlag nutzbar.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung für den `PE` zwischen Luzern und Interlaken Ost kann über die [offizielle Website](https://shop.luzern.com/de/stories/luzern-interlaken-express) kostenpflichtig erworben werden, ist jedoch keine Pflicht.
 

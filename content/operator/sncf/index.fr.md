@@ -59,7 +59,7 @@ Des conditions particulières s’appliquent pour les liaisons internationales, 
 
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
@@ -98,7 +98,7 @@ Trains à grande vitesse internationaux exploités par la SNCF en coopération a
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
@@ -123,7 +123,7 @@ Trains Intercités de la SNCF reliant différentes villes françaises, général
 
 Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
 
-#### Réservation
+#### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
@@ -143,7 +143,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 %}}
 Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025.
 
-#### Réservation
+#### Réservations
 
 Coût selon la ligne et l’affluence.
 
@@ -252,7 +252,7 @@ Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratui
 
 ## Conditions tarifaires spéciales
 
-### Réservation obligatoire en TER
+### Réservations obligatoire en TER
 
 Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour tous les autres trajets, il n’y a pas d’obligation de réservation. [^2]
 

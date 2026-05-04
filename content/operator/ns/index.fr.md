@@ -49,7 +49,7 @@ Lors de l'utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas,
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l'application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s'appliquent pour un billet unique.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour les trajets transfrontaliers en haute saison.
 En 2026, ce sera le cas du 26 juin au 16 août.

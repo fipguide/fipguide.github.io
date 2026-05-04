@@ -44,7 +44,7 @@ There is no reservation requirement except for certain cross-border connections 
 
 The `ICE` is a high-speed train and the highest train category of DB. It connects major cities in Germany at up to 300 km/h and also operates to some neighboring countries. Especially fast connections with few stops are called `ICE Sprinter`.
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to France.
 Temporary reservation requirement for cross-border journeys:
@@ -68,7 +68,7 @@ In the past, there was a reservation requirement for cross-border journeys in su
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to France.
 
@@ -131,7 +131,7 @@ Trains to Italy require a surcharge and reservation from the Italian border. It 
 
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to Italy and during the high season to Denmark.
 
@@ -148,7 +148,7 @@ Reservation required for cross-border journeys to Italy and during the high seas
 
 Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland.
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to Poland.
 In the past, there was a reservation requirement for cross-border journeys in summer months to the Czech Republic. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
@@ -173,7 +173,7 @@ National free travel for DB employees is not recognized in Germany. If part of t
 **FIP Global Fare:** yes \
 _Tip:_ For journeys from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP Global Fare.
 
-#### Reservation
+#### Reservations
 
 For Nightjet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railway companies on the journey is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased.
 

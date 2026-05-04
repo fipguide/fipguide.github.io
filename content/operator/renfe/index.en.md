@@ -171,7 +171,7 @@ Accelerated regional transport. FIP Coupons are only accepted on trains that do 
 
 **FIP Global Fare (regardless of distance):** € 4 [^5]
 
-#### Reservation
+#### Reservations
 
 Reservations are required, except on the Barcelona(-Girona-Figueres)-Port Bou route[^1].
 

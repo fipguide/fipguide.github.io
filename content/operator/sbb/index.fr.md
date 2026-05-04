@@ -49,7 +49,7 @@ Trains à grande vitesse en provenance d’Allemagne vers Bâle et parfois jusqu
 %}}
 Trains à grande vitesse en provenance de France vers Zurich via Bâle.
 
-#### Réservation
+#### Réservations
 
 La réservation est obligatoire hors de Suisse et pour les trajets transfrontaliers.
 {{% /train-category %}}
@@ -64,7 +64,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 %}}
 Trains internationaux vers l’Allemagne et l’Italie.
 
-#### Réservation
+#### Réservations
 
 1ère classe : 13 € \
 2ᵉ classe : 11 €
@@ -93,7 +93,7 @@ Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gar
 %}}
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
 
-#### Réservation
+#### Réservations
 
 Une réservation est requise sauf dans les voitures à places assises lorsqu’ils circulent comme Intercity, Eurocity ou trains régionaux.
 {{% /train-category %}}
@@ -109,7 +109,7 @@ Une réservation est requise sauf dans les voitures à places assises lorsqu’i
 %}}
 Train panoramique des CFF prenant la ligne du Gothard classique de mi-avril à mi-octobre. Promu comme voyage en combinaision avec le bateau da la Société de navigation du lac des Quatre-Cantons (SGV), y étant valable les réductions SP, voir [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Pour les voyageurs faisant le parcours complet avec train et bateau entre Lugano et Lucerne (et vice versa) un transfer de bagages gratuit est offert.
 
-#### Réservation
+#### Réservations
 
 Une réservation spéciale pour 24 CHF est requise.
 
