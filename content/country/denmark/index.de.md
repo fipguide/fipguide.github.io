@@ -42,10 +42,17 @@ Auf diesen verkehren Fernverkehrszüge mit einer überdurchschnittlichen Durchsc
 
 | Land                                                 | Grenzpunkte                                                                      |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Deutschland](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
 | Schweden (SJ)                                        | Helsingborg (über Helsingør)                                                     |
+| [Deutschland](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
 
 {{% /expander %}}
+
+### Schweden
+
+Aus Schweden kann angereist werden:
+
+- aus Malmö über den Öresund gefahren
+- aus Helsingborg mit Fähre nach Helsingør
 
 ### Deutschland
 
@@ -54,12 +61,5 @@ Von Deutschland aus kann der durchgängige `EC` Hamburg – Kopenhagen genutzt w
 Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen.
 
 Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
-
-### Schweden
-
-Aus Schweden kann angereist werden:
-
-- aus Malmö über den Öresund gefahren
-- aus Helsingborg mit Fähre nach Helsingør
 
 Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö – Kopenhagen Normalpreistickets gekauft werden.

@@ -48,19 +48,62 @@ A special highlight is the ride on the Schneebergbahn in Lower Austria, which is
 | Country                                                      | Border Points                                                                                                   |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
 | [Czech Republic](/country/czechia) ([ČD](/operator/cd))      | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr)                                            |
+| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                       |
 | Hungary ([GySEV](/operator/gysev))                           | Pamhagen (Gr), Szentgotthárd, Sopron                                                                            |
 | Hungary (MÁV)                                                | Hegyshalom (Gr), Sopron                                                                                         |
-| [Germany](/country/germany) ([DB](/operator/db))             | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slovenia (SŽ)                                                | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr)                                                               |
-| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                       |
-| [Switzerland](/country/switzerland) ([SBB](/operator/sbb))   | Buchs SG, St. Margrethen                                                                                        |
 | [Italy](/country/italy) ([FS](/operator/fs))                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                                     |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb))   | Buchs SG, St. Margrethen                                                                                        |
+| [Germany](/country/germany) ([DB](/operator/db))             | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 
 {{% /expander %}}
 
 ### Czech Republic
 
 From the Czech Republic, cross-border trains of Ceske Drahy can be used on various routes. An additional FIP 50 ticket or FIP Coupon from Ceske Drahy is required. Cross-border trains operated by RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
+
+### Slovakia
+
+Arrival from Slovakia is possible via two different regional train connections:
+
+- One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
+- Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
+
+For both routes, a FIP 50 Ticket from [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
+
+Additionally, there are some `EC` connections.
+
+### Hungary
+
+From Hungary, both cross-border regional trains and Eurocity/Railjet trains can be used. On the Vienna-Budapest route via Hegyeshalom, an additional FIP Ticket from MAV is required from the border; in other cases, an additional FIP Ticket from GySEV is needed.
+
+### Slovenia
+
+From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽis required from the border or a FIP 50 ticket must be booked.
+
+### Italy
+
+Besides regional train connections, there are two international routes from Austria to Italy:
+
+- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona,
+- Railjets via Tarvisio Boscoverde to Venice.
+
+On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
+
+There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
+On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
+
+### Liechtenstein
+
+Liechtenstein and Austria are only connected by rarely running trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are also valid in Liechtenstein.
+
+Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
+
+### Switzerland
+
+Austria and Switzerland have only one main border crossing, at St. Margrethen. Mostly regional trains operate here, but there are also Eurocity trains that only stop in Bregenz on the Austrian side and otherwise run from Germany (Munich).
+
+Entry from Switzerland is also possible via Buchs SG and Feldkirch through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. This means it is possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main line between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna/Graz and Zurich, as well as regional trains.
 
 ### Germany
 
@@ -81,49 +124,6 @@ On the [Ausserfern Railway](https://en.wikipedia.org/wiki/Ausserfern_Railway) ro
 Journeys that take place entirely within Austria (start and end in Austria) are excluded. ÖBB FIP Coupons are not valid for any journeys on this route.
 
 The rules are analogous to those for the Deutschlandticket or Bahncard 100. [^1] [^2]
-
-### Hungary
-
-From Hungary, both cross-border regional trains and Eurocity/Railjet trains can be used. On the Vienna-Budapest route via Hegyeshalom, an additional FIP Ticket from MAV is required from the border; in other cases, an additional FIP Ticket from GySEV is needed.
-
-### Switzerland
-
-Austria and Switzerland have only one main border crossing, at St. Margrethen. Mostly regional trains operate here, but there are also Eurocity trains that only stop in Bregenz on the Austrian side and otherwise run from Germany (Munich).
-
-Entry from Switzerland is also possible via Buchs SG and Feldkirch through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. This means it is possible to have a continuous ticket between Austria and Switzerland using FIP Coupons from ÖBB and SBB. The main line between the two countries runs here, with Austrian Railjet and Eurocity trains operating between Vienna/Graz and Zurich, as well as regional trains.
-
-### Liechtenstein
-
-Liechtenstein and Austria are only connected by rarely running trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB FIP Coupons and FIP 50 Tickets are also valid in Liechtenstein.
-
-Otherwise, cross-border traffic is mainly provided by buses, where FIP Tickets are not valid.
-
-### Italy
-
-Besides regional train connections, there are two international routes from Austria to Italy:
-
-- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona,
-- Railjets via Tarvisio Boscoverde to Venice.
-
-On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
-
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
-On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
-
-### Slovakia
-
-Arrival from Slovakia is possible via two different regional train connections:
-
-- One connection runs north of the Danube from Bratislava Main Station (Bratislava hl.st.) via Marchegg to Vienna.
-- Another connection starts in the south of Bratislava (Bratislava Petrzalka) and runs via Kittsee to Vienna.
-
-For both routes, a FIP 50 Ticket from [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
-
-Additionally, there are some `EC` connections.
-
-### Slovenia
-
-From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽis required from the border or a FIP 50 ticket must be booked.
 
 ## FIP Rating
 
