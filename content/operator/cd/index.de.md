@@ -247,7 +247,7 @@ Für einige Busverbindungen sind vergünstigte FIP Tickets verfügbar:
 
 Auf anderen Busverbindungen gelten keine FIP Ermäßigungen.
 
-Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt an einem ČD Ticketschalter, Fahrkartenautomaten (kein FIP verfügbar) oder im ČD-eShop (kein FIP verfügbar) gekauft werden.
+Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt erworben werden. Ticket mit FIP Rabatt sind an ČD Ticketschalter erhältlich. Tickets ohne Rabatt können auch an Fahrkartenautomaten oder im ČD-eShop gekauft werden.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf

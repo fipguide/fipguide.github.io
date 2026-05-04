@@ -247,7 +247,7 @@ Des Billets FIP à tarif réduit sont disponibles pour certaines liaisons en bus
 
 Aucune réduction FIP n’est valable sur les autres liaisons en bus.
 
-Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes avant le départ, à un Guichet ČD, à un distributeur de billets (FIP non disponible) ou dans l’eShop ČD (FIP non disponible).
+Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes avant le départ. Les billets avec réduction FIP sont disponibles aux guichets de la ČD. Les billets sans réduction peuvent également être achetés aux automates ou via le ČD-eShop.
 {{% /train-category %}}
 
 ## Achat de billets et réservations

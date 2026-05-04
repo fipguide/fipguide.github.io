@@ -247,7 +247,7 @@ Discounted FIP tickets are available for some bus services:
 
 No FIP discounts apply on other bus services.
 
-A ticket (reservation mandatory) must be purchased no later than 15 minutes before departure at a ČD Ticket Office, ticket machine (no FIP available), or in the ČD eShop (no FIP available).
+A ticket (reservation mandatory) must be purchased at the latest 15 minutes before departure. Tickets with FIP discount are available at ČD ticket offices. Tickets without discount can also be purchased at ticket machines or in the ČD eShop.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase

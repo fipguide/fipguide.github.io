@@ -35,14 +35,7 @@ Pour les trajets transfrontaliers, un Billet FIP 50 ininterrompu ou les Coupons 
 
 KŚ ne distingue pas différentes catégories de trains. Les trains ont généralement un numéro de ligne commençant par « S », qui n'est cependant souvent pas indiqué dans les médias d'information (il y a souvent simplement « KŚ » puis un numéro de train). Seuls les billets de 2ème classe sont proposés, car il n'y a pas de 1ère classe dans les trains KŚ. De plus, aucune réservation n'est possible.
 
-{{% train-category
-        id="bus"
-        title="Bus"
-        type="bus"
-        fip_accepted=false
-%}}
 Les Billets FIP ne sont généralement pas valables dans les bus KŚ. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
-{{% /train-category %}}
 
 ## Achat de billets et réservations
 
