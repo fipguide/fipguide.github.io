@@ -2,6 +2,10 @@
 title: "Übergreifende Infos"
 description: "Übergreifende Informationen zu FIP, FIP Ausweis (Internationale Ermäßigungskarte für Eisenbahnpersonal) sowie der Nutzung Internationaler Fahrvergünstigungen wie FIP 50 und FIP Freifahrtscheinen (Auslandsfreifahrten)."
 toc: true
+url: "general/general-information/"
+aliases:
+  - "general/"
+  - "generalinformation/"
 ---
 
 ## Allgemein
@@ -149,7 +153,7 @@ Weitere Informationen findest du auf der Seite [FIP Beantragung](/fip-validity).
 
 ## FAQ
 
-{{< faq >}}
+Das FAQ findest du auf der Seite [FAQ](/generalinformation/faq/).
 
 ## Zusätzliche nützliche Ressourcen
 

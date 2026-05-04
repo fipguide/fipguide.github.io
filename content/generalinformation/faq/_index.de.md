@@ -1,9 +1,8 @@
 ---
 title: "FAQ"
-
-cascade:
-  - build:
-      list: local
-      publishResources: false
-      render: never
+url: "general/faq/"
+aliases:
+  - "generalinformation/faq/"
 ---
+
+{{< faq >}}

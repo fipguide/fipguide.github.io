@@ -185,6 +185,15 @@ menu:
     dropdown-label: Verfügbare Länder
     label: Länder
     title: Länder-Dropdown öffnen
+  generalinformation-dropdown:
+    aria-label: Allgemeines-Dropdown öffnen
+    dropdown-label: Verfügbare Seiten im Bereich Allgemeines
+    items:
+      faq: FAQ
+      fip-validity: FIP Beantragung
+      general-information: Allgemeine Informationen
+    label: Allgemeines
+    title: Allgemeines-Dropdown öffnen
   open:
     label: Menü
     title: Menü öffnen

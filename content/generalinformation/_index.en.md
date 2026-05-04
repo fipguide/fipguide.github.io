@@ -2,6 +2,10 @@
 title: "General Information"
 description: "General information about FIP, the FIP Card (International Discount Card for Railway Staff), and the use of international travel concessions such as FIP 50 Tickets and FIP Coupons (free international travel)."
 toc: true
+url: "general/general-information/"
+aliases:
+  - "general/"
+  - "generalinformation/"
 ---
 
 ## General
@@ -149,7 +153,7 @@ More information is available in the [FIP Application](/fip-validity).
 
 ## FAQ
 
-{{< faq >}}
+You can find the FAQ on the page [FAQ](/generalinformation/faq/).
 
 ## Additional useful resources
 

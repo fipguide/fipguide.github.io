@@ -191,6 +191,15 @@ menu:
     dropdown-label: Pays disponibles
     label: Pays
     title: Menu déroulant du pays ouvert
+  generalinformation-dropdown:
+    aria-label: Ouvrir le menu déroulant Général
+    dropdown-label: Pages disponibles dans Général
+    items:
+      faq: FAQ
+      fip-validity: Demande FIP
+      general-information: Informations générales
+    label: Général
+    title: Ouvrir le menu déroulant Général
   open:
     label: Menu
     title: Ouvrir le menu

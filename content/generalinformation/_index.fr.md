@@ -2,6 +2,10 @@
 title: "Informations générales"
 description: "Informations générales sur le FIP, la Carte FIP (Carte Internationale de Réduction pour le Personnel Ferroviaire) ainsi que l’utilisation des avantages de voyage internationaux tels que les Billets FIP 50 et les Coupons FIP (permis FIP)."
 toc: true
+url: "general/general-information/"
+aliases:
+  - "general/"
+  - "generalinformation/"
 ---
 
 ## Généralités
@@ -149,7 +153,7 @@ Vous trouverez plus d’informations dans la [Demande FIP](/fip-validity).
 
 ## FAQ
 
-{{< faq >}}
+Vous pouvez trouver la FAQ sur la page [FAQ](/generalinformation/faq/).
 
 ## Ressources utiles supplémentaires
 
