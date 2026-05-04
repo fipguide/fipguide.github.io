@@ -277,7 +277,7 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" /%}}
 
 ### Vor Ort
 

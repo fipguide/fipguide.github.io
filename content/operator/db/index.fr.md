@@ -278,7 +278,7 @@ La réservation de trains directs sans correspondance est moins chère via l’�
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" classes.first="6,90 €" classes.second="5,50 €" /%}}
 
 ### En gare
 

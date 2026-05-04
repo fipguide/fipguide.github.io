@@ -278,7 +278,7 @@ Reservation for individual trains without transfer is cheaper via ÖBB.
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" /%}}
+{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="6,90 €" classes.second="5,50 €" /%}}
 
 ### On-Site
 
