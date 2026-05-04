@@ -305,7 +305,7 @@ Children traveling free do not need to be related to the accompanying adult.
 
 Up to 3 children can be taken on local trains and up to 4 children on long-distance trains. For FIP 50 Tickets that include a long-distance section, up to 4 children can also be taken on the specified local trains.
 
-Children traveling free do not need to be entered on the ticket. For FIP 50 Tickets, it is still recommended to book them free of charge to avoid problems during ticket inspection.
+Unlike public fares, children traveling free explicitly do not need to be entered on the ticket. They do not need their own ticket.
 
 Children not accompanied by a person over 15 years old with travel entitlement must purchase their own ticket.
 

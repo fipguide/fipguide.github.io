@@ -304,7 +304,7 @@ Die kostenlos mitreisenden Kinder müssen nicht mit dem begleitenden Erwachsenen
 
 In Nahverkehrszügen können bis zu 3 Kinder mitgenommen werden und in Fernverkehszügen bis zu 4 Kinder. Bei FIP 50 Tickets, die einen Abschnitt im Fernverkehr haben, können auch in den angegebenen Nahverkehrszügen bis zu 4 Kinder mitgenommen werden.
 
-Kostenlos mitreisende Kinder müssen nicht auf dem Ticket eingetragen werden. Bei FIP 50 Tickets empfiehlt es sich trotzdem, diese kostenlos mitzubuchen, um Probleme bei der Fahrtkartenkontrolle zu vermeiden.
+Kostenlos mitreisende Kinder müssen im Gegensatz zu öffentlichen Tarifen explizit nicht auf dem Ticket eingetragen werden. Sie benötigen kein eigenes Ticket.
 
 Kinder, die nicht von einer über 15 Jahre alten Person mit Reiseberechtigung begleitet werden, müssen ein eigenes Ticket kaufen.
 
