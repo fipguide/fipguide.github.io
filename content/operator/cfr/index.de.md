@@ -148,6 +148,10 @@ Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennz
 
 {{% booking id="cfr-ticket-office" /%}}
 
+{{% booking id="db-ticket-office" subtitle="Für den Nachtzug Wien – Bukarest und InterCitys" %}}
+Im DB Reisezentrum können FIP 50 Tickets und Reservierungen für den Nachtzug Wien – Bukarest erworben werden. Für InterCitys sind Reservierungen erhältlich.
+{{% /booking %}}
+
 ### Im Zug
 
 Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierungen müssen bereits vor Abfahrt vorhanden sein.
