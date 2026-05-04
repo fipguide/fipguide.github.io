@@ -296,7 +296,7 @@ Les enfants voyageant gratuitement n’ont pas besoin d’être apparentés à l
 
 Dans les trains locaux, jusqu’à 3 enfants peuvent être emmenés et dans les trains longue distance jusqu’à 4 enfants. Pour les billets FIP 50 comprenant une section en longue distance, jusqu’à 4 enfants peuvent aussi être emmenés dans les trains locaux indiqués.
 
-Les enfants voyageant gratuitement n’ont pas besoin d’être inscrits sur le billet. Pour les billets FIP 50, il est toutefois recommandé de les réserver gratuitement pour éviter des problèmes lors du contrôle.
+Contrairement aux tarifs publics, les enfants voyageant gratuitement n’ont explicitement pas besoin d’être inscrits sur le billet. Ils n’ont pas besoin d’un billet propre.
 
 Les enfants non accompagnés par une personne de plus de 15 ans avec droit de voyage doivent acheter leur propre billet.
 
