@@ -162,7 +162,7 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Passagiere mit einem in Portugal erworbenen FIP-Ermäßigungsticket dürfen ihre Reise nicht unterbrechen. Für außerhalb Portugals erworbene Tickets ist eine Reiseunterbrechung (ggf. mit Reservierung) zulässig. [^1]
 

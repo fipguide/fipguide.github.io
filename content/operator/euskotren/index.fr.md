@@ -102,6 +102,14 @@ Les automates des stations acceptent l’"Euskotren FIP Ticket". S’il n’est 
 Si vous n’avez pas d’"Euskotren FIP Ticket", le personnel des stations délivre des billets individuels gratuits pour le funiculaire sur présentation de la Carte FIP.
 
 {{% /train-category %}}
+{{% train-category
+  id="bus"
+    title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+Les Billets FIP ne sont pas valables sur les lignes de bus régionales d'Euskotren. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
 
 ## Catégories de classes
 
@@ -115,9 +123,9 @@ Il existe une classe uniforme qui peut être utilisée avec les cartes FIP de 1�
 
 ## Conditions tarifaires spéciales
 
-### Bus
+### Services de remplacement ferroviaire
 
-Les Billets FIP ne sont pas valables sur les lignes de bus régionales d’Euskotren.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

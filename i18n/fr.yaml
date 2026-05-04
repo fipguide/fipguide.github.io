@@ -257,6 +257,7 @@ trainCategory:
     accepted: FIP accepté
     notAccepted: FIP non accepté
     partiallyAccepted: FIP partiellement accepté
+    unknown: Acceptation FIP inconnue
   additionalInformation: Informations complémentaires
   importantInformation: Informations importantes
   reservation:

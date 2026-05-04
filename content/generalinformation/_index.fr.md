@@ -17,7 +17,7 @@ Ci-dessous, nous expliquons les bases générales du FIP. Cependant, des informa
 - [Aperçu des Pays](/country "Aperçu des Pays")
   {{% /highlight %}}
 
-Les réductions FIP s’appliquent souvent uniquement au transport ferroviaire et non aux bus, métros ou tramways. Cependant, il peut y avoir des exceptions, qui sont décrites sur les pages des opérateurs concernés.
+Les réductions FIP s’appliquent souvent uniquement au transport ferroviaire et non aux bus, métros ou tramways. Cependant, il peut y avoir des exceptions, qui sont décrites sur les [pages des opérateurs](/operator) concernés. Dans le cas des bus de remplacement ferroviaire, les réductions FIP s’appliquent si le service de remplacement remplace un train où le FIP aurait été valable.
 
 Lors de l’utilisation des réductions FIP, il importe de savoir quelle entreprise ferroviaire exploite le train. Il existe des trains coopératifs transfrontaliers exploités par différentes entreprises ferroviaires dans deux pays (par exemple, de nombreuses liaisons `EC`). Les [pages par pays dans le Guide FIP](/country "Pages par pays dans le Guide FIP") expliquent comment découvrir qui exploite un train dans chaque pays. En général, les sites web des opérateurs sont également utiles. Le [site de la Deutsche Bahn](https://bahn.de) affiche de nombreuses liaisons européennes et leurs opérateurs.
 

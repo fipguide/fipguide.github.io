@@ -80,7 +80,7 @@ The birthday ticket must be obtained at the sales points before departure.[^2]
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 A break of journey is permitted without formalities.[^1]
 

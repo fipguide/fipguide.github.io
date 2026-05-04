@@ -189,6 +189,15 @@ Trains interrégionaux exploités par Polregio et équipés d’un confort supé
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus-varsovie-modlin"
+    title="Bus Varsovie Modlin"
+    type="bus"
+    fip_accepted=false
+%}}
+Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -297,7 +306,7 @@ La validité des billets dépend de la distance :
 - 51 km à 100 km : 6 heures à partir de la date et de l’heure d’émission ou au choix du voyageur,
 - à partir de 101 km : 1 jour (un jour est valable de 00h01 à 24h00).
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
@@ -327,21 +336,17 @@ Sur les lignes suivantes de [KŚ](/operator/ks), les billets FIP de KŚ et de PK
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Bus Varsovie Modlin
-
-Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.
-
 ### Trains spéciaux Słoneczny
 
 Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Varsovie vers Gdansk/Gdynia).
 
-### Bus et services de remplacement
-
-Les Billets FIP sont également valables sur les services de remplacement ferroviaire (bus) exploités par PKP.
-
 ### Téléphériques et chemins de fer à crémaillère
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

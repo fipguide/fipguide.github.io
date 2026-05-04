@@ -270,7 +270,7 @@ On public fares, children up to 6 years travel free of charge, children up to 18
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted.[^2]
 

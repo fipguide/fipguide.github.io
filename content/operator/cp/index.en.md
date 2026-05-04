@@ -161,7 +161,7 @@ Children under 4 years travel free without their own seat. Children under 12 yea
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 Passengers holding a FIP discounted ticket purchased in Portugal are not permitted to interrupt their journey. For tickets purchased outside Portugal, a break of journey is allowed (possibly subject to reservation). [^1]
 

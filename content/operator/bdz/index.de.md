@@ -115,7 +115,7 @@ Für reguläre Fahrkarten reisen Kinder unter 7 Jahren kostenlos. Auf nationalen
 
 Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Ticket, das die zusätzliche Distanz abbildet, auch ein Zuschlag gezahlt werden. [^1]
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Fahrtunterbrechung ist bei einem durchgängigen Ticket nicht gestattet.
 

@@ -17,7 +17,7 @@ Below we explain the general FIP basics. However, specific information may vary 
 - [Overview of Countries](/country "Overview of Countries")
   {{% /highlight %}}
 
-FIP discounts often apply only to rail travel and not to buses, subways, or trams. However, there may be exceptions, which are described on the relevant operator pages.
+FIP discounts often apply only to rail travel and not to buses, subways, or trams. However, there may be exceptions, which are described on the relevant [operator pages](/operator). In the case of rail replacement buses, FIP discounts apply if the rail replacement service replaces a train where FIP would have been valid.
 
 When using FIP discounts, it matters which railway company operates the train. There are cross-border cooperative trains that are operated by different railway companies in two countries (e.g., many `EC` connections). The [country pages in the FIP Guide](/country "Country pages in the FIP Guide") explain how to find out who operates a train in each country. In general, the operators' websites are also helpful. The [Deutsche Bahn website](https://bahn.de) shows many European connections and their operators.
 

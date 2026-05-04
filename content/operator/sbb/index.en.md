@@ -140,6 +140,15 @@ National trains stopping in larger cities.
 Trains stopping at all stations. In metropolitan areas also called S-Bahn.
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -182,10 +191,6 @@ Children travel free on regular journeys (not special trips) up to and including
 
 ## Special Tariff Conditions
 
-### Buses and Rail Replacement Services
-
-FIP Tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
-
 ### Mutual Recognition of SBB and BLS Coupons
 
 The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: [^2]
@@ -202,6 +207,10 @@ SBB FIP Coupons are valid on some routes of the Schweizerische Südostbahn (SOB)
 ### Cross-border Trains (Italy, France)
 
 For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

@@ -80,7 +80,7 @@ Das Geburtstagsticket ist vor Fahrtantritt an den Verkaufsstellen zu lösen.[^2]
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Reiseunterbrechung ist ohne Formalitäten gestattet.[^1]
 

@@ -255,6 +255,15 @@ Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
+
 ## Catégories de classes
 
 Les trains Le Frecce longue distance ont des catégories de classes particulières. [^1]
@@ -337,14 +346,6 @@ Les rabais FIP ne s’appliquent pas dans les trains Frecciarossa internationaux
 
 Les rabais FIP ne s’appliquent pas dans les [Treni Touristici](https://www.fstrenituristici.it/) (trains touristiques), même s’ils sont exploités par Trenitalia.
 
-### Bus et services de remplacement
-
-Les bus sont exclus des réductions FIP, sauf s’ils remplacent un train où FIP aurait été reconnu (service de remplacement ferroviaire).
-
-### Interruption de voyage
-
-L’interruption de voyage n’est pas autorisée dans les trains longue distance. Dans les trains régionaux, elle est possible sans formalités, sauf pour les Billets FIP 50 liés à un train spécifique avec numéro de train imprimé (voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)).
-
 ### Billets liés à un train dans les trains régionaux
 
 Dans les trains régionaux italiens (`R`/`RV`), les billets peuvent être liés à un train spécifique. Cela concerne les Billets FIP 50, mais pas les Coupons FIP.
@@ -399,6 +400,14 @@ L'intitulé du billet "Ordinaria" :
 ### Validation des billets de train régional
 
 Les billets pour les trains régionaux non liés à un train (_non prenotabile_) doivent être validés sur le quai (obliteratrici).
+
+### Possibilité d'interrompre le trajet
+
+L’interruption de voyage n’est pas autorisée dans les trains longue distance. Dans les trains régionaux, elle est possible sans formalités, sauf pour les Billets FIP 50 liés à un train spécifique avec numéro de train imprimé (voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)).
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandation
 
