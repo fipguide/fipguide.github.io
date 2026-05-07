@@ -277,7 +277,11 @@ Les trains Le Frecce longue distance ont des catégories de classes particulièr
 
 ### En ligne
 
-{{% booking id="fs-website" /%}}
+{{% booking id="fs-website" %}}
+{{% highlight inofficial %}}
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places sur le site Web FS n'est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d'acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+{{% /highlight %}}
+{{% /booking %}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Uniquement trains ECE de Milan vers l’Allemagne ou EC sur la ligne du Brenner entre l’Italie et l’Allemagne. Billets FIP 50 transfrontaliers, avec part de billet uniquement pour la section suisse/autrichienne et italienne, réservé aux employés de la Deutsche Bahn."
@@ -301,6 +305,9 @@ Pour le `ECE` Francfort – Milan ou le `EC` sur la ligne du Brenner entre Munic
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
 %}}
+{{% highlight inofficial %}}
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places aux guichets DB n'est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d'acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+{{% /highlight %}}
 Le supplément ou le prix de la réservation pour les trains internationaux `EC`/`ECE` entre la Suisse et l’Italie coûte seulement 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) au guichet DB Reisezentrum et inclut une réservation de siège (par exemple jusqu’à Francfort).
 {{% /booking %}}
 
