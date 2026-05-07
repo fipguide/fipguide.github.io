@@ -278,7 +278,11 @@ Reservation for individual trains without transfer is cheaper via ÖBB.
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" /%}}
+{{% booking id="oebb-phone" subtitle="Including Nightjet booking" %}}
+{{% highlight inofficial %}}
+Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
+{{% /highlight %}}
+{{% /booking %}}
 
 ### On-Site
 

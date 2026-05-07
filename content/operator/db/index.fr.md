@@ -278,7 +278,11 @@ La réservation de trains directs sans correspondance est moins chère via l’�
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" %}}
+{{% highlight inofficial %}}
+Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
+{{% /highlight %}}
+{{% /booking %}}
 
 ### En gare
 
