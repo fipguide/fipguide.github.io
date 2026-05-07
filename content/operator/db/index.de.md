@@ -265,25 +265,21 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 
 ### Online
 
-{{% booking id="db-website" %}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
-%}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+/%}}
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" /%}}
+{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" %}}
+Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
+{{% /booking %}}
 
 ### Vor Ort
 
-{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
 
 ### Im Zug
 
