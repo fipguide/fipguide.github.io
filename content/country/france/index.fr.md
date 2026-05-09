@@ -36,13 +36,13 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 
 | Pays                                                                             | Points frontières                                                                                                                            |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Eurostar](/operator/eurostar)                                                   | Paris, Lille                                                                                                                                 |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                            | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                          |
 | [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                         | Bettembourg (fr), Rodange (fr)                                                                                                               |
 | [Allemagne](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                   |
-| [Eurostar](/operator/eurostar)                                                   | Paris, Lille                                                                                                                                 |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
 | [Italie](/country/italy) ([FS](/operator/fs))                                    | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                    |
 | [Espagne](/country/spain) ([Renfe](/operator/renfe))                             | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                              |
-| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                            | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                          |
 
 {{% /expander %}}
 
@@ -99,6 +99,16 @@ Entre Turin et Paris circulent aussi des trains `TGV` SNCF. Ceux-ci sont accessi
 
 Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia. Les Billets FIP 50 et les Coupons FIP SNCF sont valables jusqu’à Ventimiglia.
 
+### Monaco
+
+Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
+
+[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
 ### Espagne
 
 Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
@@ -110,13 +120,3 @@ Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hen
 Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
 
 Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
-
-### Monaco
-
-Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
-
-[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

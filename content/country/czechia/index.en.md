@@ -36,12 +36,28 @@ Punctuality is solid, and connecting trains often wait, but not in major hubs li
 
 | Country                                                      | Border Points                                                                                                                                                                                             |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Germany](/country/germany) ([DB AG](/operator/db))          | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| [Austria](/country/austria) ([ÖBB](/operator/oebb))          | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr)                                                                                                                                                        |
 | [Poland](/country/poland) ([PKP](/operator/pkp), KD, KŚ)     | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship)                                                |
 | [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)                                                                                               |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb))          | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr)                                                                                                                                                        |
+| [Germany](/country/germany) ([DB AG](/operator/db))          | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
 
 {{% /expander %}}
+
+### Poland
+
+There are regular trains between Poland and Czechia, both long-distance and regional. Eurocity trains run via Zebrzydowice and Bohumin between Krakow or Warsaw and Ostrava (sometimes continuing to Vienna). These can be used with FIP Tickets from PKP and ČD plus reservation. Regional trains over these two border crossings are sometimes operated by PKP and sometimes by KŚ. Regional trains via Cesky Tesin run to Polish Cieszyn, operated by ČD on the Czech side; the Polish operator is currently unknown.
+
+The same applies to regional trains between Mikulovice and Krnov, which make a short detour into Poland and stop at Głuchołazy. The Harrachov border crossing is easier, with regional trains between Szklarska Poreba and Liberec. These trains are operated by KD on the Polish side and ČD on the Czech side.
+
+`EC` trains run via Lichkov between Wrocław (sometimes originating from Gdynia) and Prague, for which tickets from PKP and ČD plus a reservation are required. Regional trains are operated by KD on the Polish side and by LEO Express on the Czech side. Therefore, FIP discounts are not valid on the Czech section.
+
+### Slovakia
+
+From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ŽSR is required. Cross-border trains from RegioJet cannot be used with FIP.
+
+### Austria
+
+From Austria, cross-border trains of ÖBB can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ÖBB is required. Cross-border trains from RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
 
 ### Germany
 
@@ -58,19 +74,3 @@ At Cheb, cross-border trains operated by DB Regio can be used with FIP Coupons f
 The same applies to the northern border crossing at Aš. Similarly, at Furth im Wald, the cross-border regional express, which is an EC in the Czech section, can be used with a ČD FIP Ticket in Czechia, but a regular ticket is needed for the German section.
 
 At the border crossings Hrádek nad Nisou (route Zittau – Liberec), Varnsdorf (route Seifhennersdorf – Zittau), Vejprty (route Cranzahl – Chomutov, only served in summer on weekends and holidays), and Vojtanov (route Zwickau – Cheb), FIP is useless, as on both sides of the border the trains are operated by private railways that do not accept FIP.
-
-### Austria
-
-From Austria, cross-border trains of ÖBB can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ÖBB is required. Cross-border trains from RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
-
-### Poland
-
-There are regular trains between Poland and Czechia, both long-distance and regional. Eurocity trains run via Zebrzydowice and Bohumin between Krakow or Warsaw and Ostrava (sometimes continuing to Vienna). These can be used with FIP Tickets from PKP and ČD plus reservation. Regional trains over these two border crossings are sometimes operated by PKP and sometimes by KŚ. Regional trains via Cesky Tesin run to Polish Cieszyn, operated by ČD on the Czech side; the Polish operator is currently unknown.
-
-The same applies to regional trains between Mikulovice and Krnov, which make a short detour into Poland and stop at Głuchołazy. The Harrachov border crossing is easier, with regional trains between Szklarska Poreba and Liberec. These trains are operated by KD on the Polish side and ČD on the Czech side.
-
-`EC` trains run via Lichkov between Wrocław (sometimes originating from Gdynia) and Prague, for which tickets from PKP and ČD plus a reservation are required. Regional trains are operated by KD on the Polish side and by LEO Express on the Czech side. Therefore, FIP discounts are not valid on the Czech section.
-
-### Slovakia
-
-From Slovakia, cross-border trains of ČD or ZSSK can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ŽSR is required. Cross-border trains from RegioJet cannot be used with FIP.

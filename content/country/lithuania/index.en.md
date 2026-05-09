@@ -43,9 +43,9 @@ On the route to Turmantas, the old DR1A trains from Soviet production are still 
 
 | Country                                          | Border Points                                                                 |
 | ------------------------------------------------ | ----------------------------------------------------------------------------- |
-| [Poland](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                       |
 | [Latvia](/country/latvia) (LDz)                  | Joniškis                                                                      |
 | Belarus                                          | Border closed                                                                 |
+| [Poland](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                       |
 | Russia                                           | No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad |
 
 {{% /expander %}}
@@ -55,6 +55,10 @@ On the route to Turmantas, the old DR1A trains from Soviet production are still 
 Regular train service between Latvia and Lithuania resumed only at the end of 2023. LTG-Link operates in the morning from Vilnius via Siauliai and Riga to the Latvian-Estonian border station Valga and returns in the evening. FIP discounts from LTG-Link also apply between Vilnius and Riga ([see Validity of FIP Tickets](/operator/ltg#validity-of-fip-tickets)). Tickets and reservations can be purchased online ([see Ticket and Reservation Purchase](/operator/ltg#online)).
 
 Since summer 2025, there have been negotiations to extend the Vilnius – Turmantas trains to Daugavpils in Latvia.
+
+### Belarus
+
+There are currently no trains running between Lithuania and Belarus.
 
 ### Poland
 

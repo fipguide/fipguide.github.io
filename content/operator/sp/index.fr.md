@@ -276,16 +276,6 @@ Une réservation est obligatoire pour le Glacier Express, exploité conjointemen
 {{% /train-category %}}
 
 {{% train-category
-    id="mib"
-    title="Meiringen–Innertkirchen (MIB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
-{{% /train-category %}}
-
-{{% train-category
     id="mob"
     title="Chemin de fer Montreux–Oberland Bernois (MOB)"
     type="regional"
@@ -719,7 +709,7 @@ La WSB fait désormais partie d’Aargau Verkehr AG (AVA). Voir la section dédi
     reservation_required=false
     reservation_possible=partially
 %}}
-La Zentralbahn exploite un réseau à voie métrique constitué de la ligne du Brünig (Lucerne – Interlaken Ost), du chemin de fer Lucerne–Stans–Engelberg et de la ligne Meiringen–Innertkirchen.
+La Zentralbahn exploite un réseau à voie métrique constitué de la ligne du Brünig (Lucerne – Interlaken Ost), du chemin de fer Lucerne–Stans–Engelberg et de la ligne Meiringen–Innertkirchen (MIB).
 
 Les réductions FIP SP sont valables sur les trois lignes. Les trains indiqués `PE` entre Lucerne et Interlaken Ost peuvent être utilisés sans supplément.
 

@@ -122,6 +122,8 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
 
 The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
 
+There are no ticket counters between Abbey Wood and Canary Wharf where FIP 50 Tickets can be purchased.
+
 {{% highlight tip %}}
 Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
 {{% /highlight %}}

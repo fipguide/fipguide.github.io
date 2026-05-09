@@ -51,38 +51,25 @@ Zusätzlich gibt es zahlreiche Freizeit- und Touristenattraktionen, die "2FOR1"-
 
 | Land                                                                                                                             | Grenzpunkte                      |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Niederlande](/country/netherlands) ([Stena Line BV](/operator/stl))                                                             | Harwich P.Q.                     |
 | [Frankreich](/country/france), [Belgien](/country/belgium), [Niederlande](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
 | [Irland](/country/ireland) ([CIE](/operator/cie))                                                                                | Dundalk                          |
 | [Irland](/country/ireland) ([Stena Line Limited](/operator/sll))                                                                 | Holyhead, Fishguard              |
-| [Niederlande](/country/netherlands) ([Stena Line BV](/operator/stl))                                                             | Harwich P.Q.                     |
 | [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line Limited](/operator/sll))                                          | Cairnryan, Liverpool, Belfast    |
 
 {{% /expander %}}
-
-### Reisen zwischen Großbritannien und Nordirland
-
-Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und Großbritannien. Stattdessen gibt es [Fährverbindungen mit Stena Line Limited](/operator/sll), welche mit FIP genutzt werden können.
-
-Von Belfast verkehren Stena Line Limited Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line Limited sind mit eigenen FIP Freifahrtscheinen von Stena Line Limited bzw. FIP 50 Tickets vergünstigt nutzbar.
-
-{{% highlight tip %}}
-Stena Line Limited und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
-
-- [Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
-- [Informationen bei Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
-  {{% /highlight %}}
-
-### Frankreich und Belgien
-
-Von Paris Nord, Lille Europe und Brüssel Midi verkehren [Eurostar-Züge](/operator/eurostar "Eurostar-Seite") nach London St. Pancras International. Diese Züge sind reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
-
-Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch keine FIP Ermäßigung gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch keine FIP Ermäßigung gewährt wird.
 
 ### Niederlande
 
 Von Amsterdam und Rotterdam verkehren durchgängige [Eurostar](/operator/eurostar "Eurostar") Züge nach London St. Pancras. Alternativ können auch [Eurostar Red](/operator/eurostar "Eurostar Red") und [Eurocity](/operator/ns#zugkategorien-und-reservierungen "Eurocity") Züge nach Brüssel Midi (Belgien) genutzt werden und dort in einen in Brüssel startenden [Eurostar Blue](/operator/eurostar "Eurostar Blue") Zug nach London St. Pancras umgestiegen werden. Die Eurostar Züge sind immer reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
 
 Zusätzlich verkehrt ab Hoek van Holland eine [Fährverbindung von Stena Line BV](/operator/stl) nach Harwich, die mit FIP vergünstigt genutzt werden kann. Dabei ist zu beachten, dass die aus Richtung Rotterdam / Nesselande nach Hoek van Holland verkehrende RET Metro keine FIP Vergünstigungen gewährt.
+
+### Frankreich und Belgien
+
+Von Paris Nord, Lille Europe und Brüssel Midi verkehren [Eurostar-Züge](/operator/eurostar "Eurostar-Seite") nach London St. Pancras International. Diese Züge sind reservierungspflichtig und es müssen FIP Globalpreis-Tickets erworben werden.
+
+Ab Calais gibt es auch den LeShuttle Autozug durch den Eurotunnel, bei dem jedoch keine FIP Ermäßigung gewährt wird. Zusätzlich gibt es verschiedene Fährverbindungen zwischen Frankreich/Belgien und Großbritannien, bei denen jedoch keine FIP Ermäßigung gewährt wird.
 
 ### Irland
 
@@ -96,3 +83,16 @@ Stena Line Limited und Irish Ferries bieten Tickets an, die eine kombinierte Zug
   {{% /highlight %}}
 
 Ab Dublin verkehrt außerdem der Enterprise-Zug nach Belfast in Nordirland, der mit FIP vergünstigt genutzt werden kann. Zur Nutzung dieses Zuges ist ein FIP Freifahrtschein für Irland ([CIE](/operator/cie)) und Nordirland ([NIR](/operator/nir)) oder ein durchgängiges FIP 50 Ticket erforderlich.
+
+### Reisen zwischen Großbritannien und Nordirland
+
+Nordirland gehört zum Vereinigten Königreich, wird aber von einem eigenen Bahnbetreiber ([NIR](/operator/nir)) bedient. Wegen der Abgrenzung durch die Irische See gibt es keine direkten Zugverbindungen zwischen Nordirland und Großbritannien. Stattdessen gibt es [Fährverbindungen mit Stena Line Limited](/operator/sll), welche mit FIP genutzt werden können.
+
+Von Belfast verkehren Stena Line Limited Fähren nach Cairnryan in Schottland und Liverpool in England. Die Fährverbindungen von Stena Line Limited sind mit eigenen FIP Freifahrtscheinen von Stena Line Limited bzw. FIP 50 Tickets vergünstigt nutzbar.
+
+{{% highlight tip %}}
+Stena Line Limited und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
+
+- [Informationen bei Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Informationen bei Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}
