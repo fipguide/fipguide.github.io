@@ -36,13 +36,13 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 
 | Land                                                                               | Grenzpunkte                                                                                                                                   |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Eurostar](/operator/eurostar)                                                     | Paris, Lille                                                                                                                                  |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 | [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))                            | Bettembourg (fr), Rodange (fr)                                                                                                                |
 | [Deutschland](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                    |
-| [Eurostar](/operator/eurostar)                                                     | Paris, Lille                                                                                                                                  |
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
 | [Italien](/country/italy) ([FS](/operator/fs))                                     | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                     |
 | [Spanien](/country/spain) ([Renfe](/operator/renfe))                               | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                               |
-| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 
 {{% /expander %}}
 
@@ -99,6 +99,16 @@ Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese 
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP 50 Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
 
+### Monaco
+
+Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
+
+[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
 ### Spanien
 
 Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
@@ -110,13 +120,3 @@ Mit [Euskotren](/operator/euskotren) kann mit dem speziellen FIP Ticket bis nach
 Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen nach Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal oder am Renfe Ticketschalter in Spanien erworben werden.
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
-
-### Monaco
-
-Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
-
-[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

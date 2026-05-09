@@ -142,98 +142,28 @@ Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgefüh
 
 | Land                                                                            | Grenzpunkte                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                            | Aachen Süd (Gr)                                                                                                                                                                                        |
-| [BSB](/operator/bsb)                                                            | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen                                                                                                                   |
 | [Dänemark](/country/denmark) ([DSB](/operator/dsb))                             | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr)                                                                                                                      |
-| [Eurostar](/operator/eurostar)                                                  | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Köln                                                                                                                                          |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf))                          | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr)                                                                                        |
-| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))                         | Igel (Gr)                                                                                                                                                                                              |
-| [Niederlande](/country/netherlands) ([NS](/operator/ns))                        | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr)                                                                                                      |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb))                          | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn                                                                                                                     |
+| Schweden (SJ)                                                                   | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr)                                                                                                                              |
 | [Polen](/country/poland) ([PKP](/operator/pkp))                                 | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr)                                                                        |
 | [Tschechien](/country/czechia) ([ČD](/operator/cd))                             | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
-| Schweden (SJ)                                                                   | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr)                                                                                                                              |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb))                          | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn                                                                                                                     |
+| [BSB](/operator/bsb)                                                            | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen                                                                                                                   |
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                                                                                         |
+| [Frankreich](/country/france) ([SNCF](/operator/sncf))                          | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr)                                                                                        |
+| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))                         | Igel (Gr)                                                                                                                                                                                              |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                            | Aachen Süd (Gr)                                                                                                                                                                                        |
+| [Eurostar](/operator/eurostar)                                                  | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Köln                                                                                                                                          |
+| [Niederlande](/country/netherlands) ([NS](/operator/ns))                        | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr)                                                                                                      |
 
 MS = Mitte See
 
 {{% /expander %}}
-
-### Belgien
-
-#### Fernverkehr
-
-Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt, Köln und Aachen genutzt werden. Ab Juni 2026 wird zudem wochenends eine Verbindung zwischen Oostende und Köln angeboten. Ab September 2026 wird eine Direktverbindung zwischen Antwerpen und Köln über den Brüsseler Flughafen Zaventem eingeführt.
-
-Bei allen `ICE`-Verbindungen wird ein Ticket für den belgischen Abschnitt bis Aachen Süd(Gr) der SNCB sowie ein Ticket für den deutschen Abschnitt ab Aachen Süd(Gr) der DB oder ein durchgängiges FIP 50 Ticket benötigt.
-
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Deutschland) benötigt ([siehe Eurostar](/operator/eurostar "Eurostar")).
-
-#### Regionalverkehr
-
-Zwischen Liège-Saint-Lambert und Aachen verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^5] Daher ist es unklar, ob zwischen Aachen Süd (Gr) und Aachen Hbf ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB bis Aachen Hbf anerkannt werden.
-
-{{% highlight tip %}}
-Wir empfehlen, das Zugpersonal anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
-{{% /highlight %}}
 
 ### Dänemark
 
 Von Dänemark aus kann der durchgängige `ECE` Kopenhagen – Hamburg genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich `IC` Züge von Fredericia bis Flensburg.
 
 Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DSB auf dänischer Seite noch die DB auf deutscher Seite fährt, sind FIP-Ermäßigungen auf dieser Route nicht möglich. Alternativ gibt es die Möglichkeit, per Fähre nach Puttgarden oder Warnemünde einzureisen.
-
-### Frankreich
-
-Zwischen Frankreich und Deutschland verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris über Straßburg oder Saarbrücken nach München oder Karlsruhe, Mannheim und Frankfurt (Main). Im Juli und August gibt es samstags zudem [Direktzüge zwischen Frankfurt (Main) und Bordeaux](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht auf der Route über Straßburg und Karlsruhe bis zu dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Straßburg und Deutschland zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
-
-{{% highlight tip %}}
-Eine günstige Option für die Fahrt von Straßburg nach Deutschland besteht mit der Straßenbahn von Straßburg nach Kehl, für welche ein günstiges Tram Ticket erforderlich ist. Ab Kehl besteht Anschluss an die Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, bis Offenburg. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^4] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + NE-Zusatzfahrkarte).
-{{% /highlight %}}
-
-Neben den Fernverkehrsverbindungen werden noch eine Reihe von Verbindungen mit Nahverkehrszügen angeboten. Um diese auf der kompletten Strecke zu nutzen, sind Freifahrtscheine der DB und SNCF oder ein durchgängiges FIP 50 Ticket erforderlich. Beispiele dafür sind die Routen zwischen Metz und Saarbrücken oder Wissembourg und Neustadt an der Weinstraße. Die Züge zwischen Straßburg und Kehl/Offenburg werden dagegen auf deutscher Seite durch die SWEG betrieben, wo FIP-Fahrscheine der DB keine Gültigkeit haben.
-
-### Luxemburg
-
-Von Luxemburg aus verkehren grenzüberschreitende Regionalzüge nach Koblenz / Wittlich / Trier. Für den luxemburgischen Abschnitt ist in der zweiten Klasse kein Ticket erforderlich, da der Nahverkehr dort kostenfrei nutzbar ist. Im deutschen Streckenabschnitt ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
-Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Luxemburg nach Düsseldorf. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug geführt.
-
-Darüber hinaus besteht die Möglichkeit den Fernbus der CFL von Luxemburg nach Saarbrücken zu nutzen, hier wird jedoch kein FIP-Rabatt gewährt.
-
-### Niederlande
-
-Von Amsterdam aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Düsseldorf bzw. Berlin / Hannover genutzt werden, um ins Netz der DB zu kommen. Bei grenzüberschreitenden Fahrten werden FIP Tickets der NS und DB benötigt.
-
-Darüber hinaus gibt es diverse Regionalzüge, jedoch nur zwei, auf denen FIP gültig ist:
-
-- Enschede nach Dortmund
-- Enschede nach Münster
-
-Hier fährt die DB Regio auf dem deutschen Abschnitt. Mit einem zusätzlichen Ticket für den niederländischen Abschnitt der NS oder einem durchgehenden FIP 50 Ticket hat man hier ausgesorgt
-
-Auf den `RE` Verbindungen Venlo – Hamm und Arnhem – Düsseldorf gilt derweil das Deutschlandticket auf der kompletten Strecke. Wenn man im Besitz dieses Tickets ist, kann somit auch nach Deutschland eingereist werden.
-
-### Österreich
-
-Zwischen Österreich und Deutschland existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen:
-
-- Eine `ICE` Linie von Frankfurt / Köln (oder einzelne Züge von Berlin) über Nürnberg, Passau und Linz nach Wien.
-- `ICE`, `RJ` und `IC` Züge von verschiedenen Zielen in Österreich über Salzburg nach München.
-
-Im österreichischen Abschnitt wird für die Züge ein FIP Ticket der ÖBB benötigt.
-
-Darüber hinaus bestehen einige Verbindungen im Regionalverkehr, für die dann immer FIP-Freifahrtscheine der ÖBB und DB oder ein durchgehendes FIP 50 Ticket vorhanden sein müssen.
-
-#### Außenfernbahn
-
-Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfernbahn) zwischen Garmisch-Partenkirchen und Pfronten-Steinach über Reutte in Tirol verkehren Züge von DB Regio aus Deutschland nach Österreich und wieder nach Deutschland. FIP Freifahrtscheine der DB (und nationale Fahrvergünstigungen für DB‑Mitarbeitende) gelten hier für folgende Fahrten:
-
-- Durchgehende Fahrten von Deutschland über Österreich nach Deutschland (Fahren im Transit)
-- Fahrten die in Deutschland beginnen oder enden (Grenzüberschreitende Fahrten)
-
-Außgenommen sind Fahrten, die im reinen Binnenverkehr stattfinden (also in Österreich beginnen und enden). FIP Freifahrtscheine der ÖBB gelten für keine Fahrten auf der Strecke.
-
-Die Regeln gelten analog zu den Regeln des Deutschlandtickets oder der Bahncard 100. [^2] [^3]
 
 ### Polen
 
@@ -261,6 +191,28 @@ Das gleiche gilt für den nördlichen Grenzübergang Aš. Ähnlich sieht es bei 
 
 Bei den Grenzübergängen Hrádek nad Nisou (Strecke Liberec – Zittau), Varnsdorf (Strecke Zittau – Seifhennersdorf), Vejprty (Strecke Chomutov – Cranzahl, wird nur im Sommer an Wochenenden und Feiertagen bedient) und Vojtanov (Strecke Cheb – Zwickau) ist FIP derweil nutzlos, da auf beiden Seiten der Grenze die Züge von Privatbahnen, die kein FIP akzeptieren, betrieben werden.
 
+### Österreich
+
+Zwischen Österreich und Deutschland existieren neben verschiedenen Regionalzugverbindungen zwei Fernverkehrsverbindungen:
+
+- Eine `ICE` Linie von Frankfurt / Köln (oder einzelne Züge von Berlin) über Nürnberg, Passau und Linz nach Wien.
+- `ICE`, `RJ` und `IC` Züge von verschiedenen Zielen in Österreich über Salzburg nach München.
+
+Im österreichischen Abschnitt wird für die Züge ein FIP Ticket der ÖBB benötigt.
+
+Darüber hinaus bestehen einige Verbindungen im Regionalverkehr, für die dann immer FIP-Freifahrtscheine der ÖBB und DB oder ein durchgehendes FIP 50 Ticket vorhanden sein müssen.
+
+#### Außenfernbahn
+
+Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfernbahn) zwischen Garmisch-Partenkirchen und Pfronten-Steinach über Reutte in Tirol verkehren Züge von DB Regio aus Deutschland nach Österreich und wieder nach Deutschland. FIP Freifahrtscheine der DB (und nationale Fahrvergünstigungen für DB‑Mitarbeitende) gelten hier für folgende Fahrten:
+
+- Durchgehende Fahrten von Deutschland über Österreich nach Deutschland (Fahren im Transit)
+- Fahrten die in Deutschland beginnen oder enden (Grenzüberschreitende Fahrten)
+
+Außgenommen sind Fahrten, die im reinen Binnenverkehr stattfinden (also in Österreich beginnen und enden). FIP Freifahrtscheine der ÖBB gelten für keine Fahrten auf der Strecke.
+
+Die Regeln gelten analog zu den Regeln des Deutschlandtickets oder der Bahncard 100. [^2] [^3]
+
 ### Schweiz
 
 Die Schweiz verfügt über mehrere grenzüberschreitende Verbindungen nach Deutschland.
@@ -284,6 +236,54 @@ Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theore
 {{% /highlight %}}
 
 Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. Auch mit Fähren, die teilweise mit FIP nutzbar sind, kann Deutschland aus der Schweiz erreicht werden.
+
+### Frankreich
+
+Zwischen Frankreich und Deutschland verkehren im Fernverkehr Kooperationszüge der SNCF und der Deutschen Bahn. Diese werden als `TGV` oder `ICE` Züge betrieben und verkehren von Paris über Straßburg oder Saarbrücken nach München oder Karlsruhe, Mannheim und Frankfurt (Main). Im Juli und August gibt es samstags zudem [Direktzüge zwischen Frankfurt (Main) und Bordeaux](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). Reservierungspflichtig sind diese nur innerhalb Frankreichs. In Deutschland können die Züge ohne Reservierung genutzt werden. Da die Reservierungspflicht auf der Route über Straßburg und Karlsruhe bis zu dem Grenzpunkt Kehl (Gr) besteht, sind auch für Fahrten zwischen Straßburg und Deutschland zwangsweise Reservierungen erforderlich. Diese grenzüberschreitenden FIP-Tickets können von Mitarbeitern der Deutschen Bahn auch Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
+
+{{% highlight tip %}}
+Eine günstige Option für die Fahrt von Straßburg nach Deutschland besteht mit der Straßenbahn von Straßburg nach Kehl, für welche ein günstiges Tram Ticket erforderlich ist. Ab Kehl besteht Anschluss an die Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, bis Offenburg. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^4] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + NE-Zusatzfahrkarte).
+{{% /highlight %}}
+
+Neben den Fernverkehrsverbindungen werden noch eine Reihe von Verbindungen mit Nahverkehrszügen angeboten. Um diese auf der kompletten Strecke zu nutzen, sind Freifahrtscheine der DB und SNCF oder ein durchgängiges FIP 50 Ticket erforderlich. Beispiele dafür sind die Routen zwischen Metz und Saarbrücken oder Wissembourg und Neustadt an der Weinstraße. Die Züge zwischen Straßburg und Kehl/Offenburg werden dagegen auf deutscher Seite durch die SWEG betrieben, wo FIP-Fahrscheine der DB keine Gültigkeit haben.
+
+### Luxemburg
+
+Von Luxemburg aus verkehren grenzüberschreitende Regionalzüge nach Koblenz / Wittlich / Trier. Für den luxemburgischen Abschnitt ist in der zweiten Klasse kein Ticket erforderlich, da der Nahverkehr dort kostenfrei nutzbar ist. Im deutschen Streckenabschnitt ist ein FIP Ticket (Freifahrtschein oder FIP 50) der DB erforderlich.
+Einmal täglich verkehrt zusätzlich ein durchgehender Zug der CFL von Luxemburg nach Düsseldorf. Auf dem Abschnitt Düsseldorf – Koblenz wird dieser als `IC` Fernverkehrszug geführt.
+
+Darüber hinaus besteht die Möglichkeit den Fernbus der CFL von Luxemburg nach Saarbrücken zu nutzen, hier wird jedoch kein FIP-Rabatt gewährt.
+
+### Belgien
+
+#### Fernverkehr
+
+Von Belgien aus kann der grenzüberschreitende `ICE` nach Frankfurt, Köln und Aachen genutzt werden. Ab Juni 2026 wird zudem wochenends eine Verbindung zwischen Oostende und Köln angeboten. Ab September 2026 wird eine Direktverbindung zwischen Antwerpen und Köln über den Brüsseler Flughafen Zaventem eingeführt.
+
+Bei allen `ICE`-Verbindungen wird ein Ticket für den belgischen Abschnitt bis Aachen Süd(Gr) der SNCB sowie ein Ticket für den deutschen Abschnitt ab Aachen Süd(Gr) der DB oder ein durchgängiges FIP 50 Ticket benötigt.
+
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Belgien aus das Netz der DB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Deutschland) benötigt ([siehe Eurostar](/operator/eurostar "Eurostar")).
+
+#### Regionalverkehr
+
+Zwischen Liège-Saint-Lambert und Aachen verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^5] Daher ist es unklar, ob zwischen Aachen Süd (Gr) und Aachen Hbf ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB bis Aachen Hbf anerkannt werden.
+
+{{% highlight tip %}}
+Wir empfehlen, das Zugpersonal anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
+{{% /highlight %}}
+
+### Niederlande
+
+Von Amsterdam aus kann der grenzüberschreitende `ICE` nach Frankfurt / Köln / Düsseldorf bzw. Berlin / Hannover genutzt werden, um ins Netz der DB zu kommen. Bei grenzüberschreitenden Fahrten werden FIP Tickets der NS und DB benötigt.
+
+Darüber hinaus gibt es diverse Regionalzüge, jedoch nur zwei, auf denen FIP gültig ist:
+
+- Enschede nach Dortmund
+- Enschede nach Münster
+
+Hier fährt die DB Regio auf dem deutschen Abschnitt. Mit einem zusätzlichen Ticket für den niederländischen Abschnitt der NS oder einem durchgehenden FIP 50 Ticket hat man hier ausgesorgt
+
+Auf den `RE` Verbindungen Venlo – Hamm und Arnhem – Düsseldorf gilt derweil das Deutschlandticket auf der kompletten Strecke. Wenn man im Besitz dieses Tickets ist, kann somit auch nach Deutschland eingereist werden.
 
 ## Quellen
 

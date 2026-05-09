@@ -42,37 +42,33 @@ The condition, density and frequency of railway lines are often very dependent o
 
 | Country                                                      | Border Points                                                                                                     |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Belarus (BC)                                                 | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
-| [Czechia](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
-| [Germany](/country/germany) ([DB AG](/operator/db))          | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg))  | Mockava (Gr)                                                                                                      |
 | Russia (RZD)                                                 | Braniewo (Gr)                                                                                                     |
+| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg))  | Mockava (Gr)                                                                                                      |
+| Belarus (BC)                                                 | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
 | Ukraine (UZ)                                                 | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr)                                                            |
 | [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
+| [Czechia](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
+| [Germany](/country/germany) ([DB AG](/operator/db))          | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
 
 {{% /expander %}}
 
-### Belarus
+### Russia
 
-Currently no trains operate between Belarus and Poland.
-
-### Germany
-
-From Germany, the Polish network can be reached via several routes. The most used border crossing is in Frankfurt (Oder). Eurocity trains between Berlin and Warsaw run every 2 hours during the day via this crossing. In addition, individual services between Berlin and Gdynia / Krakow / Przemysl can also be found in the timetable.
-
-In addition to the long-distance trains, there are also individual regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra, which like the `EC` trains can be used with PKP FIP Tickets plus ticket for the DB section.
-
-Exclusively in long-distance traffic, the Horka border crossing has also been used since December 2025 for direct trains between Leipzig and Wrocław, Krakow to Przemyśl. These `EC` trains can also be used with PKP FIP Tickets plus ticket for the DB section.
-
-The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for the border crossings mentioned above, so FIP Tickets from PKP plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section PKP FIP Tickets should be valid.
-
-A special feature is the Zgorzelec border crossing, here no ticket is required for the section between German Görlitz and Zgorzelec station.
+Currently no trains operate between Russia and Poland.
 
 ### Lithuania
 
 There are very few cross-border trains between Poland and Lithuania. One train pair runs from Krakow via Warsaw to Vilnius. At the border station Mockava, a change of trains is required, but the journey is sold as a through connection. The transfer is either on the same platform or via a level crossing to the neighboring platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket Purchase](/operator/ltg#online)). For cross-border journeys to or from Poland, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
 The number of tickets is limited, as travel is only possible with a seat reservation. Since December 2025, a fixed seat reservation is assigned only in the PKP `IC` train, while on the LTG-Link railcar there is free choice of seats.
+
+### Belarus
+
+Currently no trains operate between Belarus and Poland.
+
+### Ukraine
+
+Coming from Ukraine, you can travel to Poland either via the route Kyiv - Chełm or via Kyiv - Lviv - Przemyśl. Long-distance trains run on both routes, operated by Ukrzaliznytsia in the Ukrainian section and PKP Intercity on the Polish section. Continuous FIP Tickets are not possible, as Ukrzaliznytsia is not a FIP member. So at most you can try to get a discount for the Polish partial section, but since this is very small, it is probably more sensible to simply buy a ticket at normal price.
 
 ### Slovakia
 
@@ -92,10 +88,14 @@ Via Lichkov, EC trains run between Wrocław (sometimes coming from Gdynia) and P
 
 Further cross-border regional train connections can only be used with FIP on the Polish side.
 
-### Ukraine
+### Germany
 
-Coming from Ukraine, you can travel to Poland either via the route Kyiv - Chełm or via Kyiv - Lviv - Przemyśl. Long-distance trains run on both routes, operated by Ukrzaliznytsia in the Ukrainian section and PKP Intercity on the Polish section. Continuous FIP Tickets are not possible, as Ukrzaliznytsia is not a FIP member. So at most you can try to get a discount for the Polish partial section, but since this is very small, it is probably more sensible to simply buy a ticket at normal price.
+From Germany, the Polish network can be reached via several routes. The most used border crossing is in Frankfurt (Oder). Eurocity trains between Berlin and Warsaw run every 2 hours during the day via this crossing. In addition, individual services between Berlin and Gdynia / Krakow / Przemysl can also be found in the timetable.
 
-### Russia
+In addition to the long-distance trains, there are also individual regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra, which like the `EC` trains can be used with PKP FIP Tickets plus ticket for the DB section.
 
-Currently no trains operate between Russia and Poland.
+Exclusively in long-distance traffic, the Horka border crossing has also been used since December 2025 for direct trains between Leipzig and Wrocław, Krakow to Przemyśl. These `EC` trains can also be used with PKP FIP Tickets plus ticket for the DB section.
+
+The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for the border crossings mentioned above, so FIP Tickets from PKP plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section PKP FIP Tickets should be valid.
+
+A special feature is the Zgorzelec border crossing, here no ticket is required for the section between German Görlitz and Zgorzelec station.
