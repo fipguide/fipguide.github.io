@@ -266,25 +266,21 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 ### En ligne
 
-{{% booking id="db-website" %}}
-La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
-%}}
-La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
-{{% /booking %}}
+/%}}
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" classes.first="6,90 €" classes.second="5,50 €" %}}
+Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+{{% /booking %}}
 
 ### En gare
 
-{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
-La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
-{{% /booking %}}
+{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
 
 ### À bord du train
 

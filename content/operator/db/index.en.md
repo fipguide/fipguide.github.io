@@ -266,25 +266,21 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 ### Online
 
-{{% booking id="db-website" %}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
-%}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+/%}}
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" /%}}
+{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="€ 6,90" classes.second="€ 5,50" %}}
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+{{% /booking %}}
 
 ### On-Site
 
-{{% booking id="db-ticket-office" subtitle="Including Nightjet booking" %}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+{{% booking id="db-ticket-office" subtitle="Including Nightjet booking" /%}}
 
 ### On the Train
 
