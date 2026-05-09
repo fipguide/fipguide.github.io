@@ -149,7 +149,7 @@ Une réservation est nécessaire pour certains trains, indiqués par un _R_.
 {{% booking id="cfr-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Pour le train de nuit Vienne – Bucarest et les InterCity" %}}
-Au guichet DB, des Billets FIP 50 et des réservations pour le train de nuit Vienne – Bucarest peuvent être achetés. Des réservations sont disponibles pour les InterCity.
+Au guichet DB, des Billets FIP 50 et des réservations pour le train de nuit Vienne – Bucarest peuvent être achetés. Les réservations peuvent être effectuées 90 jours à l'avance. Des réservations sont disponibles pour les InterCity.
 {{% /booking %}}
 
 ### À bord du train
