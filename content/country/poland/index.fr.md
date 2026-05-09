@@ -9,6 +9,7 @@ params:
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
+    - Warszawska Kolej Dojazdowa (WKD)
 ---
 
 ## Informations FIP
