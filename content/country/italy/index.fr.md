@@ -85,3 +85,11 @@ Le supplément ou le prix de la réservation pour les trains transfrontaliers `E
 {{% highlight tip %}}
 Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option beaucoup plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
 {{% /highlight %}}
+
+### Vatican
+
+Il n’existe actuellement aucun train public de voyageurs vers le Vatican.
+
+### Saint-Marin
+
+Il n’existe actuellement aucune liaison ferroviaire entre Saint-Marin et l’Italie.

@@ -49,6 +49,10 @@ Für die Route zwischen der Türkei und Bulgarien lässt sich dies nur an einem 
 
 Zurzeit verkehren leider keine Personenzüge zwischen Griechenland und Bulgarien.
 
+### Nordmazedonien
+
+Es gibt zur Zeit keine Schienenverbindung zwischen Nordmazedonien und Bulgarien.
+
 ### Serbien
 
 Aktuell verkehrt nur der private Optima Express einmal wöchentlich über die Grenze zwischen Serbien und Bulgarien. Dieser Zug fährt zwischen dem österreichischen Villach bis in die Türkei und befährt dabei einige Strecken, die sonst im Personenverkehr gar nicht mehr bedient werden. Auch die Mitnahme eines Autos ist hier möglich. Mit FIP gibt es hier auf der kompletten Route keinerlei Rabatt, ein Ausstieg ist außerdem ausschließlich in Edirne in der Türkei möglich. Weitere Infos gibt es auf der [Website vom Optima Express](https://optimatours.de/).
