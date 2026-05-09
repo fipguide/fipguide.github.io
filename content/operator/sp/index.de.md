@@ -276,16 +276,6 @@ Eine Reservierung ist erforderlich beim Glacier Express, der von MGB und der Rh�
 {{% /train-category %}}
 
 {{% train-category
-    id="mib"
-    title="Meiringen-Innertkirchen Bahn (MIB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-Die Meiringen-Innertkirchen-Bahn, abgekürzt MIB, ist eine meterspurige Schmalspurbahn im Kanton Bern. Sie wird in der Zwischenzeit von der Zentralbahn betrieben, alle Details sind daher unter "Zentralbahn (ZB)" zu finden.
-{{% /train-category %}}
-
-{{% train-category
     id="mob"
     title="Chemin du fer Montreux-Oberland Bernois (MOB)"
     type="regional"
@@ -720,7 +710,7 @@ Die WSB ist mittlerweile Teil der Aargau Verkehr AG (AVA). Alle Infos dazu siehe
     reservation_required=false
     reservation_possible=partially
 %}}
-Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – Interlaken Ost), der Luzern-Stans-Engelberg-Bahn und aus der Meiringen-Innertkirchen-Bahn besteht.
+Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – Interlaken Ost), der Luzern-Stans-Engelberg-Bahn und aus der Meiringen-Innertkirchen-Bahn (MIB) besteht.
 
 FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `PE` gekennzeichneten Züge zwischen Luzern und Interlaken Ost sind ohne Aufschlag nutzbar.
 
