@@ -41,37 +41,33 @@ L’état, la densité et la fréquence des lignes ferroviaires dépendent souve
 
 | Pays                                                          | Points frontières                                                                                                 |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Biélorussie (BC)                                              | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie)                                  |
-| [Tchéquie](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
-| [Allemagne](/country/germany) ([DB AG](/operator/db))         | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg))    | Mockava (Gr)                                                                                                      |
 | Russie (RZD)                                                  | Braniewo (Gr)                                                                                                     |
+| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg))    | Mockava (Gr)                                                                                                      |
+| Biélorussie (BC)                                              | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie)                                  |
 | Ukraine (UZ)                                                  | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr)                                                            |
 | [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
+| [Tchéquie](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
+| [Allemagne](/country/germany) ([DB AG](/operator/db))         | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
 
 {{% /expander %}}
 
-### Biélorussie
+### Russie
 
-Actuellement, aucun train ne circule entre la Biélorussie et la Pologne.
-
-### Allemagne
-
-Depuis l’Allemagne, le réseau polonais peut être atteint par plusieurs voies. Le passage frontalier le plus utilisé est à Frankfurt (Oder). Des trains Eurocity entre Berlin et Varsovie circulent toutes les 2 heures pendant la journée via ce passage. De plus, des services individuels entre Berlin et Gdynia / Cracovie / Przemysl peuvent également être trouvés dans les horaires.
-
-En plus des trains grandes lignes, quelques trains régionaux circulent également entre Francfort (Oder) et Rzepin / Zielona Góra, qui peuvent être utilisés comme les trains « EC » avec des Billets FIP PKP plus un billet pour la section DB.
-
-Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
-
-Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables.
-
-Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.
+Actuellement, aucun train ne circule entre la Russie et la Pologne.
 
 ### Lituanie
 
 Il n’existe que très peu de trains transfrontaliers entre la Pologne et la Lituanie. Une paire de trains circule de Cracovie via Varsovie jusqu’à Vilnius. À la gare frontière de Mockava, une correspondance est nécessaire, mais le trajet est vendu comme un seul parcours. Le changement se fait soit sur le même quai, soit via un passage de plain-pied vers le quai voisin. À Mockava, les trains en correspondance attendent en cas de retard. Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)). Pour les trajets transfrontaliers vers/depuis la Pologne, il faut disposer soit d’un Billet FIP 50 valable pour tout le trajet, soit de Coupons FIP des deux pays.
 
 Le nombre de billets est limité, car le voyage n’est possible qu’avec une place assise réservée. Depuis décembre 2025, une réservation de place fixe n’est attribuée que dans le PKP « IC », tandis que dans l’automotrice LTG-Link, le choix de la place est libre.
+
+### Biélorussie
+
+Actuellement, aucun train ne circule entre la Biélorussie et la Pologne.
+
+### Ukraine
+
+En provenance d’Ukraine, on peut voyager vers la Pologne soit via la route Kiev - Chełm soit via Kiev - Lviv - Przemyśl. Des trains grandes lignes circulent sur les deux liaisons, opérés par Ukrzaliznytsia dans la section ukrainienne et PKP Intercity sur la section polonaise. Les Billets FIP continus ne sont pas possibles, car Ukrzaliznytsia n’est pas membre FIP. On peut donc au maximum essayer d’obtenir une réduction pour la section partielle polonaise, mais comme celle-ci est très petite, il est probablement plus sensé d’acheter simplement un billet au prix normal.
 
 ### Slovaquie
 
@@ -91,10 +87,14 @@ Via Lichkov, des trains EC circulent entre Wrocław (parfois en provenance de Gd
 
 Les autres liaisons régionales transfrontalières ne peuvent être utilisées avec la FIP que du côté polonais.
 
-### Ukraine
+### Allemagne
 
-En provenance d’Ukraine, on peut voyager vers la Pologne soit via la route Kiev - Chełm soit via Kiev - Lviv - Przemyśl. Des trains grandes lignes circulent sur les deux liaisons, opérés par Ukrzaliznytsia dans la section ukrainienne et PKP Intercity sur la section polonaise. Les Billets FIP continus ne sont pas possibles, car Ukrzaliznytsia n’est pas membre FIP. On peut donc au maximum essayer d’obtenir une réduction pour la section partielle polonaise, mais comme celle-ci est très petite, il est probablement plus sensé d’acheter simplement un billet au prix normal.
+Depuis l’Allemagne, le réseau polonais peut être atteint par plusieurs voies. Le passage frontalier le plus utilisé est à Frankfurt (Oder). Des trains Eurocity entre Berlin et Varsovie circulent toutes les 2 heures pendant la journée via ce passage. De plus, des services individuels entre Berlin et Gdynia / Cracovie / Przemysl peuvent également être trouvés dans les horaires.
 
-### Russie
+En plus des trains grandes lignes, quelques trains régionaux circulent également entre Francfort (Oder) et Rzepin / Zielona Góra, qui peuvent être utilisés comme les trains « EC » avec des Billets FIP PKP plus un billet pour la section DB.
 
-Actuellement, aucun train ne circule entre la Russie et la Pologne.
+Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
+
+Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables.
+
+Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.

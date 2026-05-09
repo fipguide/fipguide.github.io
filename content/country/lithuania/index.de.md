@@ -43,22 +43,22 @@ Auf der Strecke nach Turmantas kommen noch die alten DR1A-Triebwagen aus sowjeti
 
 | Land                                            | Grenzpunkte                                                               |
 | ----------------------------------------------- | ------------------------------------------------------------------------- |
-| [Polen](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                   |
 | [Lettland](/country/latvia) (LDz)               | Joniškis                                                                  |
 | Belarus/Weißrussland                            | Grenze gesperrt                                                           |
+| [Polen](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                   |
 | Russland                                        | Kein Ein-/Ausstieg im Transitverkehr Russland-Belarus-Litauen-Kaliningrad |
 
 {{% /expander %}}
-
-### Belarus / Weißrussland
-
-Derzeit verkehren keine Züge zwischen Litauen und Belarus / Weißrussland.
 
 ### Lettland
 
 Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. Zwischen Vilnius und Riga gelten auch FIP Vergünstigungen von LTG-Link ([siehe Gültigkeit FIP Tickets](/operator/ltg#gültigkeit-fip-tickets)). Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
 
 Seit Sommer 2025 wird über eine Weiterführung der Züge Vilnius – Turmantas bis ins lettische Daugavpils verhandelt.
+
+### Belarus / Weißrussland
+
+Derzeit verkehren keine Züge zwischen Litauen und Belarus / Weißrussland.
 
 ### Polen
 
