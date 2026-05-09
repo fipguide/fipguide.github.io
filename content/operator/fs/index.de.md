@@ -278,7 +278,7 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 {{% booking id="fs-website" %}}
 {{% highlight inofficial %}}
-Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen auf der FS Website nicht möglich ist. Uns ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung, empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
+Zurzeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen auf der FS Website nicht möglich ist. Uns ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
 {{% /highlight %}}
 {{% /booking %}}
 
