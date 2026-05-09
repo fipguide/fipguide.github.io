@@ -185,10 +185,6 @@ menu:
   generalinformation-dropdown:
     aria-label: Open General dropdown
     dropdown-label: Available pages in General
-    items:
-      faq: FAQ
-      fip-validity: FIP Application
-      general-information: General Information
     label: General
     title: Open General dropdown
   open:
