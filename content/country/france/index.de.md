@@ -75,6 +75,10 @@ Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge d
 Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + NE-Zusatzfahrkarte). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
+{{% highlight important %}}
+Einige wenige `TGV` Züge verkehren von Freiburg nach Paris und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
+{{% /highlight %}}
+
 Außerdem gibt es verschiedene von DB und SNCF betriebene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
