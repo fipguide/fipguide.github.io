@@ -94,6 +94,10 @@ menu > li > menu {
         @media (max-width: #{$breakpoint-lg}) {
           grid-template-columns: 1fr 1fr;
         }
+
+        &--vertical {
+          grid-template-columns: auto;
+        }
       }
     }
   }

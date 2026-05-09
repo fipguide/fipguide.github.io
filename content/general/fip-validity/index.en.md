@@ -2,6 +2,7 @@
 draft: false
 title: "FIP Application"
 pagefind_ignore: true
+layout: "list"
 aliases:
   - "/fip-validity/"
 ---

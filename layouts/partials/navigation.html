@@ -126,12 +126,13 @@
           </button>
           <menu
             id="navbar-generalinformation-selection-dropdown"
-            class="o-dropdown__menu o-dropdown__menu--below"
+            class="o-dropdown__menu o-dropdown__menu--below o-dropdown__menu--vertical"
             role="listbox"
             aria-hidden="true"
             aria-label="{{ T "menu.generalinformation-dropdown.dropdown-label" }}"
           >
-            {{ range  where site.RegularPages "Section" "general" }}
+            {{ $generalSection := site.GetPage "section" "general" }}
+            {{ range $generalSection.Pages.ByTitle }}
               <li
                 class="o-dropdown__item"
                 {{ if (.Eq $currentPage) }}aria-selected="true"{{ end }}
