@@ -306,7 +306,7 @@ Pour le `ECE` Francfort – Milan ou le `EC` sur la ligne du Brenner entre Munic
   classes.second="3 € / 25 €"
 %}}
 {{% highlight inofficial %}}
-Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places aux guichets DB n'est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d'acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places aux guichets DB n’est pas possible. La réservation n’est possible qu’avec l’ancien système de vente. Lorsque cela est possible, le personnel du DB Reisezentrum peut basculer vers ce système (voir [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d’acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
 {{% /highlight %}}
 Le supplément ou le prix de la réservation pour les trains internationaux `EC`/`ECE` entre la Suisse et l’Italie coûte seulement 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) au guichet DB Reisezentrum et inclut une réservation de siège (par exemple jusqu’à Francfort).
 {{% /booking %}}

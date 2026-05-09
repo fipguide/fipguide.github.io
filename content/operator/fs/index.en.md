@@ -305,7 +305,7 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
   classes.second="€ 3 / € 25"
 %}}
 {{% highlight inofficial %}}
-We are currently receiving increasing feedback that booking FIP Tickets and reservations at DB ticket offices is not possible. It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
+We are currently receiving increasing feedback that booking FIP Tickets and reservations at DB ticket offices is not possible. Booking is only possible via the old sales system. Where possible, staff at the DB Reisezentrum can switch to this system (see [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
 {{% /highlight %}}
 The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 {{% /booking %}}
