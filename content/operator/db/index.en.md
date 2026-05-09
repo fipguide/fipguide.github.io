@@ -274,7 +274,7 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="6,90 €" classes.second="5,50 €" %}}
+{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="€ 6,90" classes.second="€ 5,50" %}}
 Reservations for domestic German connections cost €5.50 (2nd class) or €6.90 (1st class). Cross-border connections cost €3.
 {{% /booking %}}
 
