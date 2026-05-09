@@ -31,7 +31,7 @@ Pour les trajets avec différents opérateurs en Pologne, il faut disposer soit 
 
 La KMŁ ne distingue pas de catégories de trains différentes. Les trains sont indiqués dans les horaires avec l'abréviation « KMŁ » au début, suivie d'un numéro de train spécifique. Des numéros de lignes existent mais ne sont généralement pas affichés dans les horaires. Seuls des billets de 2ᵉ classe sont proposés, car il n'y a pas de 1ʳᵉ classe dans les trains KMŁ. De plus, aucune réservation n'est possible.
 
-Il ne nous est pas actuellement possible de confirmer si les Billets FIP sont également valables dans les bus de la KMŁ. En cas de service de remplacement par autocar, ils devraient toutefois être acceptés comme chez les autres opérateurs.
+Il ne nous est pas actuellement possible de confirmer si les Billets FIP sont également valables dans les bus de la KMŁ. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Achat de billets et réservations
 
@@ -50,6 +50,12 @@ Les Billets FIP 50 doivent être achetés avant le départ dans les gares où le
 ## Réductions
 
 Nous ne disposons actuellement d'aucune information concernant les réductions.
+
+## Conditions tarifaires spéciales
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

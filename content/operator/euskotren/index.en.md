@@ -103,6 +103,15 @@ If you don't have an "Euskotren FIP Ticket", the staff at the stations will issu
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+    title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+FIP Tickets are not valid on Euskotren's regional bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Class Categories
 
 There is a uniform class that can be used with both 1st and 2nd class FIP Cards.
@@ -115,9 +124,9 @@ There is a uniform class that can be used with both 1st and 2nd class FIP Cards.
 
 ## Special Tariff Conditions
 
-### Buses
+### Rail Replacement Services
 
-FIP Tickets are not valid on Euskotren's regional bus lines.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

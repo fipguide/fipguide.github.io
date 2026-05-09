@@ -101,7 +101,7 @@ For public fares, children up to 6 years travel free of charge. Children up to 1
 
 FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail replacement services.[^2]
 
-### Break of journey
+### Break of Journey
 
 Breaks of journey are permitted within the validity period of the ticket.[^2]
 

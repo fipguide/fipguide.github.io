@@ -253,6 +253,15 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -296,7 +305,7 @@ Les enfants voyageant gratuitement n’ont pas besoin d’être apparentés à l
 
 Dans les trains locaux, jusqu’à 3 enfants peuvent être emmenés et dans les trains longue distance jusqu’à 4 enfants. Pour les billets FIP 50 comprenant une section en longue distance, jusqu’à 4 enfants peuvent aussi être emmenés dans les trains locaux indiqués.
 
-Les enfants voyageant gratuitement n’ont pas besoin d’être inscrits sur le billet. Pour les billets FIP 50, il est toutefois recommandé de les réserver gratuitement pour éviter des problèmes lors du contrôle.
+Contrairement aux tarifs publics, les enfants voyageant gratuitement n’ont explicitement pas besoin d’être inscrits sur le billet. Ils n’ont pas besoin d’un billet propre.
 
 Les enfants non accompagnés par une personne de plus de 15 ans avec droit de voyage doivent acheter leur propre billet.
 
@@ -353,9 +362,9 @@ Les Coupons FIP sont valables sur la liaison par ferry entre Harlesiel et Wanger
 
 Regionalverkehre Start GmbH est une filiale de DB Regio AG, mais n’accepte pas les réductions FIP.
 
-### Bus et service de remplacement
+### Services de remplacement ferroviaire
 
-Les bus sont exclus des réductions FIP, sauf s’ils remplacent un train où le FIP aurait été reconnu (service de remplacement ferroviaire).[^1]
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
 ## Recommandations
 

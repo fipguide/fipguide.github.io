@@ -253,6 +253,15 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -296,7 +305,7 @@ Children traveling free do not need to be related to the accompanying adult.
 
 Up to 3 children can be taken on local trains and up to 4 children on long-distance trains. For FIP 50 Tickets that include a long-distance section, up to 4 children can also be taken on the specified local trains.
 
-Children traveling free do not need to be entered on the ticket. For FIP 50 Tickets, it is still recommended to book them free of charge to avoid problems during ticket inspection.
+Unlike public fares, children traveling free explicitly do not need to be entered on the ticket. They do not need their own ticket.
 
 Children not accompanied by a person over 15 years old with travel entitlement must purchase their own ticket.
 
@@ -353,9 +362,9 @@ FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge an
 
 Regionalverkehre Start GmbH is a subsidiary of DB Regio AG but does not accept FIP discounts.
 
-### Buses and Replacement Transport
+### Rail Replacement Services
 
-Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 ## Recommendations
 

@@ -13,7 +13,6 @@
 - Use "Freifahrtschein" instead of "Freifahrtsschein"
 - Use "FIP Coupon" instead of "FIP free travel"
 - Use "Motorail train" instead of "car train"
-- Use "Break of journey" instead of "Journey Interruption"
 - Use ’ (U+2019) instead of ' (U+0027) for apostrophes in French content
 
 ### Translations
@@ -33,6 +32,7 @@
 | FIP Freifahrtschein für Angehörige | FIP Coupon for relatives  | Coupon FIP pour les ayants droit    |
 | FIP Beantragung                    | FIP Application           | Demande FIP                         |
 | SBB                                | SBB                       | CFF                                 |
+| Fahrtunterbrechung                 | Break of journey          | Possibilité d'interrompre le trajet |
 
 #### Headlines
 

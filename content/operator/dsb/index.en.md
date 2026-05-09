@@ -141,7 +141,7 @@ Children under 16 years receive a 50% discount on the adult fare.[^1]
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 With FIP 50 Tickets, the journey can be interrupted, but it must be confirmed by train staff.[^1]
 

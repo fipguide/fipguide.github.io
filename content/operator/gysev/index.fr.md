@@ -107,6 +107,15 @@ Certains trains Személyvonat sont également exploités par MÁV où les Billet
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Les réductions FIP ne sont pas valables sur les liaisons d'autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -143,13 +152,13 @@ Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Le
 
 ## Conditions tarifaires spéciales
 
-### Services d’autobus
+### Possibilité d'interrompre le trajet
 
-Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV.
+Pour un arrêt intermédiaire, le billet doit être composté à la gare où l'arrêt doit avoir lieu.
 
-### Arrêts intermédiaires
+### Services de remplacement ferroviaire
 
-Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Sources
 
