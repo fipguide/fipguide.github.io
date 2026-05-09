@@ -32,18 +32,6 @@ Die Verbindung von Podgorica nach Shkodër (Albanien) existiert, wird aktuell je
 
 Von Serbien aus ist Montenegro mit dem [einzigen grenzüberschreitenden Nachtzug](/operator/zpcg#international) erreichbar.
 
-### Albanien
-
-Eine grenzüberschreitende Bahnstrecke zwischen Montenegro und Albanien ist vorhanden, wird derzeit aber nur für Güterverkehr genutzt. Für Reisende besteht damit aktuell keine reguläre internationale Personenverkehrsverbindung auf der Schiene.
-
-### Bosnien und Herzegowina
-
-Es gibt keine Schienenverbindung zwischen Bosnien und Herzegowina und Montenegro.
-
-### Kroatien
-
-Es gibt keine Schienenverbindung zwischen Kroatien und Montenegro.
-
 ### Kosovo
 
 Es gibt keine Schienenverbindung zwischen dem Kosovo und Montenegro.
@@ -65,3 +53,15 @@ Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass prei
 
 [Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
 {{% /highlight %}}
+
+### Albanien
+
+Eine grenzüberschreitende Bahnstrecke zwischen Montenegro und Albanien ist vorhanden, wird derzeit aber nur für Güterverkehr genutzt. Für Reisende besteht damit aktuell keine reguläre internationale Personenverkehrsverbindung auf der Schiene.
+
+### Kroatien
+
+Es gibt keine Schienenverbindung zwischen Kroatien und Montenegro.
+
+### Bosnien und Herzegowina
+
+Es gibt keine Schienenverbindung zwischen Bosnien und Herzegowina und Montenegro.

@@ -34,30 +34,11 @@ A special highlight is the ride in the High Tatras with the Tatranská železnic
 
 | Country                                          | Border Points                                                                                               |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| [Czechia](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 | Hungary ([GySEV](/operator/gysev))               | Rajka (Gr)                                                                                                  |
 | Hungary (MÁV)                                    | Bánréve (Gr), Čaňa (Gr), Fil'akovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                      |
+| [Czechia](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 
 {{% /expander %}}
-
-### Czech Republic
-
-From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
-
-### Austria
-
-Arrival from Austria is possible via two different local train connections:
-
-- One connection runs north of the Danube from Vienna via Marchegg to Bratislava main station (Bratislava hl.st.).
-- Another connection goes from Vienna via Kittsee to the south of Bratislava (Bratislava Petrzalka).
-
-For both routes, an FIP 50 Ticket of [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
-
-Additionally, there are some individual `EC` connections.
-
-### Hungary
-
-From Hungary, both cross-border regional trains and Eurocity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP Ticket of GySEV is required; in other cases, an additional FIP Ticket of MAV-Start is required.
 
 ### Poland
 
@@ -72,6 +53,25 @@ Other cross-border routes, which are only served seasonally, are the routes Popr
 From Košice, cross-border regional trains run to Chop and Mukacheve. Since FIP is not valid in Ukraine, a regular ticket is required at least from the border point.
 
 A cross-border ticket can only be purchased without FIP discount on the ZSSK website. If the train has an intermediate stop in Cierna nad Tisou, it is possible to buy a regular ticket from this station via the website. For a cheaper ticket, it is best to ask at a ZSSK ticket counter if there are better options.
+
+### Hungary
+
+From Hungary, both cross-border regional trains and Eurocity trains can be used. On the connection from Bratislava south via the Rajka border crossing to Hegyeshalom, an additional FIP Ticket of GySEV is required; in other cases, an additional FIP Ticket of MAV-Start is required.
+
+### Austria
+
+Arrival from Austria is possible via two different local train connections:
+
+- One connection runs north of the Danube from Vienna via Marchegg to Bratislava main station (Bratislava hl.st.).
+- Another connection goes from Vienna via Kittsee to the south of Bratislava (Bratislava Petrzalka).
+
+For both routes, an FIP 50 Ticket of [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") is required for the Slovak section.
+
+Additionally, there are some individual `EC` connections.
+
+### Czech Republic
+
+From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
 
 ## FIP Rating
 

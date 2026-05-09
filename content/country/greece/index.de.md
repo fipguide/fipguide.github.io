@@ -32,25 +32,21 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 
 | Land                                                   | Grenzpunkte                     |
 | ------------------------------------------------------ | ------------------------------- |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
 | Nordmazedonien (ŽRSM)                                  | Gevgelija (fr)                  |
+| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
 | Türkei (TCDD)                                          | Pythio (Πύθιο)                  |
 | [Italien](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
 
 [>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung Ancona)
 {{% /expander %}}
 
-### Bulgarien
-
-Derzeit bestehen keine Zugverbindungen zwischen Bulgarien und Griechenland. Früher betriebene Linien, etwa Sofia – Thessaloniki, sind eingestellt. Der Wechsel zwischen beiden Ländern muss daher über Fernbusse oder den Flugverkehr erfolgen.
-
 ### Nordmazedonien
 
 Zwischen Griechenland und Nordmazedonien gibt es keinen planmäßigen Personenverkehr auf der Schiene. Die historische Verbindung zwischen Thessaloniki und Gevgelija/Skopje wird gegenwärtig nicht betrieben. Grenzübergänge können daher nicht per Zug überquert werden; alternativ bieten sich Fernbusse über die Balkanrouten an.
 
-### Albanien
+### Bulgarien
 
-Es gibt keine Schienenverbindung zwischen Albanien und Griechenland.
+Derzeit bestehen keine Zugverbindungen zwischen Bulgarien und Griechenland. Früher betriebene Linien, etwa Sofia – Thessaloniki, sind eingestellt. Der Wechsel zwischen beiden Ländern muss daher über Fernbusse oder den Flugverkehr erfolgen.
 
 ### Türkei
 
@@ -59,3 +55,7 @@ Derzeit besteht keine direkte Personenverkehrsverbindung zwischen Griechenland u
 ### Italien
 
 Zwischen Italien und Griechenland können die Fährverbindungen von [Attica](/operator/attica) genutzt werden.
+
+### Albanien
+
+Es gibt keine Schienenverbindung zwischen Albanien und Griechenland.
