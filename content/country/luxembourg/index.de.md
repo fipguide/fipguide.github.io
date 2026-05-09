@@ -28,9 +28,11 @@ Die Nord-Süd Hauptstrecke verläuft durch das gesamte Land und dabei teilweise 
 
 ### Belgien
 
-Von Liers, Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+Von Liers, Lüttich oder Brüssel aus können grenzüberschreitende SNCB-Züge nach Luxemburg genutzt werden. Auch im Westen des Landes gibt es grenzüberschreitende Verbindungen von Arlon nach Luxemburg über Athus oder Sterpenich (fr).
 
-Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. Das bedeutet, dass entweder ein durchgehendes Ticket oder zumindest ein gültiger Freifahrtschein der SNCB/NMBS vorhanden sein müssen. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
+In der 2. Klasse reicht der FIP Freifahrtschein der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+
+Bei der Nutzung von FIP 50 Tickets wird für grenzüberschreitende Fahrten ein Ticket bis zum Grenzpunkt (Gouvy (fr) bzw. Sterpenich (fr)) oder zum ersten Halt in Luxemburg benötigt. Eine Ausnahme bildet hierbei die Fahrt über Athus. Hier gilt die kostenlose Fahrt in Luxemburg bis zum Bahnhof Athus in Belgien. Tickets in Belgien müssen also nur bis/ab hier gekauft werden. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
 
 ### Deutschland
 
@@ -45,3 +47,5 @@ Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenz
 Die SNCF betreibt internationale `TGV` Züge u. a. von Paris, Strasbourg, Lyon, Montpellier oder Marseille nach Luxemburg. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Frankreich nach Luxemburg über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten FIP Tickets der SNCF und ab dem Grenzpunkt normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt.
 
 Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. Das bedeutet, dass entweder ein durchgehendes Ticket oder zumindest ein gültiger Freifahrtschein der SNCF vorhanden sein müssen. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
+
+Die Fahrt auf den Stichstrecken von Volmerange-les-Mines und Audun-le-Tiche nach Luxemburg ist vollständig von der CFL abgedeckt. Ein zusätzlicher Fahrschein (außer für die 1. Klasse) ist hier nicht erforderlich.

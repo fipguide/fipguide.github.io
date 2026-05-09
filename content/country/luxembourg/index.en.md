@@ -28,9 +28,11 @@ The main north-south line runs through the entire country and partly through the
 
 ### Belgium
 
-From Liers, Liège or Brussels, cross-border SNCB trains can be used to reach Luxembourg. In 2nd class, the FIP Ticket (FIP Coupon or FIP 50) of SNCB is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP Ticket for CFL is required.
+From Liers, Liège or Brussels, cross-border SNCB trains can be used to reach Luxembourg. There are also cross-border connections in the west of the country from Arlon to Luxembourg via Athus or Sterpenich (fr).
 
-Even though travel in 2nd class is free in Luxembourg, a ticket or FIP Coupon is required for cross-border journeys from the border point. This means that either a through ticket or at least a valid FIP Coupon of SNCB/NMBS must be available. In 1st class, this is also required for the Luxembourg section.
+In 2nd class, the FIP Coupon of SNCB is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP Ticket for CFL is required.
+
+When using FIP 50 Tickets, a ticket up to the border point (Gouvy (fr) or Sterpenich (fr)) or to the first stop in Luxembourg is required for cross-border journeys. An exception is travel via Athus. Here, free travel in Luxembourg applies up to the station Athus in Belgium. Tickets in Belgium therefore only need to be purchased until/from here. In 1st class, this is also required for the Luxembourg section.
 
 ### Germany
 
@@ -45,3 +47,5 @@ Even though travel in 2nd class is free in Luxembourg, a ticket or FIP Coupon is
 SNCF operates international `TGV` trains from Paris, Strasbourg, Lyon, Montpellier or Marseille to Luxembourg. For these, expensive FIP Global Fare tickets must be purchased. There are also various regional train connections from France to Luxembourg via Rodange or Bettembourg, which can be used with FIP. FIP Tickets of SNCF are valid and from the border point, normal FIP 50 Tickets and FIP Coupons of CFL are valid in the Luxembourg section.
 
 Even though travel in 2nd class is free in Luxembourg, a ticket or FIP Coupon is required for cross-border journeys from the border point. This means that either a through ticket or at least a valid FIP Coupon of SNCF must be available. In 1st class, this is also required for the Luxembourg section.
+
+Travel on the spur lines from Volmerange-les-Mines and Audun-le-Tiche to Luxembourg is fully covered by CFL. No additional ticket is required here (except for 1st class).

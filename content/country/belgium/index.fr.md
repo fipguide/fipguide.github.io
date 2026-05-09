@@ -59,15 +59,19 @@ L’Eurostar (anciennement Thalys) peut également être utilisé depuis l’All
 
 #### Régional
 
-Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
+Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l’utilisation du S41, il n’est actuellement pas clairement réglementé si un changement tarifaire d’opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
 
 {{% highlight tip %}}
-Nous recommandons d'interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
+Nous recommandons d’interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
 {{% /highlight %}}
 
 ### Luxembourg
 
-Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Bruxelles peuvent être utilisés. En 2ᵉ classe, un Billet FIP (coupon ou FIP 50) suffit pour tout le trajet, car le transport public est gratuit en 2ᵉ classe au Luxembourg. En 1ʳᵉ classe, un Billet FIP supplémentaire pour le CFL est requis.
+Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liers, Liège ou Bruxelles peuvent être utilisés. Il existe également des liaisons transfrontalières à l’ouest du pays, de Luxembourg vers Arlon via Athus ou Sterpenich (fr).
+
+En 2ᵉ classe, un Coupon FIP de la SNCB suffit pour tout le trajet, car le transport public est gratuit en 2ᵉ classe au Luxembourg. En 1ʳᵉ classe, un Billet FIP supplémentaire pour la CFL est requis.
+
+Lors de l’utilisation de Billets FIP 50, un billet à partir du point frontière (Gouvy (fr) ou Sterpenich (fr)) ou à partir du dernier arrêt au Luxembourg est requis pour les trajets transfrontaliers. Une exception est le voyage via Athus. Ici, le voyage gratuit au Luxembourg s’applique à partir de la gare d’Athus en Belgique. Les billets en Belgique ne doivent donc être achetés que jusqu’à/à partir d’ici. En 1ʳᵉ classe, cela s’applique également à la section luxembourgeoise.
 
 ### France
 

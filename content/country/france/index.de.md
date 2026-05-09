@@ -62,10 +62,11 @@ Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Belgien nach Fr
 
 ### Luxemburg
 
-Aus Luxemburg betreibt die SNCF internationale `TGV` Züge von Luxemburg nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Luxemburg nach Frankreich über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
-{{% highlight tip %}}
-Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein Freifahrtschein der CFL nicht unbedingt erforderlich. Bei der Fahrt nach Frankreich muss aber ein grenzüberschreitendes Ticket (z. B. ein FIP 50 Ticket) vorhanden sein.
-{{% /highlight %}}
+Die SNCF betreibt internationale `TGV` Züge u. a. aus Luxemburg nach Paris, Strasbourg, Lyon, Montpellier oder Marseille. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Luxemburg nach Frankreich über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten FIP Tickets der SNCF und bis zum Grenzpunkt normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt.
+
+Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. Das bedeutet, dass entweder ein durchgehendes Ticket oder zumindest ein gültiger Freifahrtschein der SNCF vorhanden sein müssen. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
+
+Die Fahrt auf den Stichstrecken von Luxemburg nach Volmerange-les-Mines und Audun-le-Tiche ist vollständig von der CFL abgedeckt. Ein zusätzlicher Fahrschein (außer für die 1. Klasse) ist hier nicht erforderlich.
 
 ### Deutschland
 

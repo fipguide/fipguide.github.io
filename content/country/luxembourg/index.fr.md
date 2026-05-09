@@ -28,9 +28,11 @@ La ligne principale nord-sud traverse tout le pays et passe en partie par les mo
 
 ### Belgique
 
-Depuis Liers, Liège ou Bruxelles, il est possible d’utiliser des trains transfrontaliers SNCB vers le Luxembourg. En 2e classe, un billet FIP (Coupon FIP ou FIP 50) de la SNCB suffit pour l’ensemble du trajet, car les transports publics sont gratuits en 2e classe au Luxembourg. Pour la 1re classe, un billet FIP de la CFL est également nécessaire.
+Depuis Liers, Liège ou Bruxelles, il est possible d’utiliser des trains transfrontaliers SNCB vers le Luxembourg. Il existe également des liaisons transfrontalières à l’ouest du pays, d’Arlon vers le Luxembourg via Athus ou Sterpenich (fr).
 
-Même si le voyage en 2e classe est gratuit au Luxembourg, un billet ou un Coupon FIP est requis à partir du point frontière pour les trajets transfrontaliers. Cela signifie qu’il faut soit un billet direct, soit au moins un Coupon FIP valide de la SNCB/NMBS. En 1re classe, cela s’applique également à la section luxembourgeoise.
+En 2e classe, un Coupon FIP de la SNCB suffit pour l’ensemble du trajet, car les transports publics sont gratuits en 2e classe au Luxembourg. Pour la 1re classe, un billet FIP de la CFL est également nécessaire.
+
+Lors de l’utilisation de Billets FIP 50, un billet jusqu’au point frontière (Gouvy (fr) ou Sterpenich (fr)) ou jusqu’au premier arrêt au Luxembourg est requis pour les trajets transfrontaliers. Une exception est le voyage via Athus. Ici, le voyage gratuit au Luxembourg s’applique jusqu’à la gare d’Athus en Belgique. Les billets en Belgique ne doivent donc être achetés que jusqu’à/à partir d’ici. En 1re classe, cela s’applique également à la section luxembourgeoise.
 
 ### Allemagne
 
@@ -45,3 +47,4 @@ Même si le voyage en 2e classe est gratuit au Luxembourg, un billet ou un Coupo
 La SNCF exploite des trains internationaux `TGV` notamment depuis Paris, Strasbourg, Lyon, Montpellier ou Marseille vers le Luxembourg. Pour ceux-ci, il est nécessaire d’acheter des Billets FIP Global Fare coûteux. Il existe également plusieurs liaisons régionales de la France vers le Luxembourg via Rodange ou Bettembourg, qui peuvent être utilisées avec FIP. Les billets FIP de la SNCF sont valables et, à partir du point frontière, les Billets FIP 50 et les Coupons FIP de la CFL sont valables sur la section luxembourgeoise.
 
 Même si le voyage en 2e classe est gratuit au Luxembourg, un billet ou un Coupon FIP est requis à partir du point frontière pour les trajets transfrontaliers. Cela signifie qu’il faut soit un billet direct, soit au moins un Coupon FIP valide de la SNCF. En 1re classe, cela s’applique également à la section luxembourgeoise.
+Le voyage sur les lignes d’embranchement de Volmerange-les-Mines et Audun-le-Tiche vers le Luxembourg est entièrement couvert par la CFL. Aucun billet supplémentaire n’est requis ici (sauf pour la 1re classe).
