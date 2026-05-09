@@ -27,16 +27,12 @@ Les points forts de la ligne sont, d’une part, les itinéraires nord–sud tra
 
 | Pays                                                      | Points frontières                                                      |
 | --------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [Grèce](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (bulgare : Кулата), Svilengrad (fr) (bulgare : Свиленград) |
 | [Roumanie](/country/romania) ([CFR](/operator/cfr))       | Ruse (fr) (bulgare : Русе), Vidin (fr)                                 |
-| Serbie (SV)                                               | Dimitrovgrad (fr) (bulgare : Цариброд, Tsaribrod)                      |
 | Turquie (TCDD)                                            | Kapikule (fr)                                                          |
+| [Grèce](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (bulgare : Кулата), Svilengrad (fr) (bulgare : Свиленград) |
+| Serbie (SV)                                               | Dimitrovgrad (fr) (bulgare : Цариброд, Tsaribrod)                      |
 
 {{% /expander %}}
-
-### Grèce
-
-Actuellement, aucun train de voyageurs ne circule entre la Grèce et la Bulgarie.
 
 ### Roumanie
 
@@ -44,12 +40,16 @@ Quelques trains quotidiens relient la Roumanie et la Bulgarie, constituant la pr
 
 Une autre liaison quotidienne existe via le passage frontalier de Vidin, avec un train de Craiova (Roumanie) à Vidin (Bulgarie). Pour cette liaison, des Coupons FIP pour les deux pays ou un Billet FIP 50 continu suffisent.
 
-### Serbie
-
-Actuellement, seul l’Optima Express privé circule une fois par semaine entre la Serbie et la Bulgarie. Ce train relie Villach (Autriche) à la Turquie et emprunte des lignes qui ne sont plus desservies par des trains de voyageurs. Le transport de voitures est également possible. La FIP n’est valable sur aucune partie de ce trajet, et la descente n’est possible qu’à Edirne, en Turquie. Plus d’informations sur le [site de l’Optima Express](https://optimatours.de/en).
-
 ### Turquie
 
 En haute saison, un train de nuit circule entre Istanbul Halkali et différentes destinations en Bulgarie, notamment Sofia et Plovdiv, ou via Ruse vers le nord jusqu’à Bucarest, en Roumanie. La FIP n’étant pas valable en Turquie, il n’est possible d’utiliser un Billet FIP 50 ou un Coupon FIP que pour la section bulgare ou roumaine. Pour les trajets directs, il peut être plus simple d’acheter un billet plein tarif incluant une place en couchette ou en voiture-lit.
 
 Pour la liaison entre la Turquie et la Bulgarie, les billets ne peuvent être achetés qu’à un guichet international sur place. Si la Roumanie est le point de départ ou d’arrivée, il est également possible d’acheter un billet via les [chemins de fer roumains CFR](https://bileteinternationale.cfrcalatori.ro/en/). L’Optima Express privé circule également sur cette ligne, mais la FIP n’est pas valable ([voir Serbie](#serbie)).
+
+### Grèce
+
+Actuellement, aucun train de voyageurs ne circule entre la Grèce et la Bulgarie.
+
+### Serbie
+
+Actuellement, seul l’Optima Express privé circule une fois par semaine entre la Serbie et la Bulgarie. Ce train relie Villach (Autriche) à la Turquie et emprunte des lignes qui ne sont plus desservies par des trains de voyageurs. Le transport de voitures est également possible. La FIP n’est valable sur aucune partie de ce trajet, et la descente n’est possible qu’à Edirne, en Turquie. Plus d’informations sur le [site de l’Optima Express](https://optimatours.de/en).

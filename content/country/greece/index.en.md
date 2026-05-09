@@ -32,25 +32,21 @@ The quality of trains varies: while modern electric multiple units operate on th
 
 | Country                                              | Border Points                   |
 | ---------------------------------------------------- | ------------------------------- |
-| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr)    |
 | North Macedonia (ŽRSM)                               | Gevgelija (fr)                  |
+| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr)    |
 | Turkey (TCDD)                                        | Pythio (Πύθιο)                  |
 | [Italy](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
 
 [>] = In the direction of (e.g. Patras [> Ancona] = Patras is the border point in the direction of Ancona)
 {{% /expander %}}
 
-### Bulgaria
-
-There are currently no train services between Bulgaria and Greece. Previously operated lines, such as Sofia – Thessaloniki, have been discontinued. Travelling between the two countries must therefore be done by long-distance bus or by air.
-
 ### North Macedonia
 
 There is no scheduled passenger rail service between Greece and North Macedonia. The historic connection between Thessaloniki and Gevgelija/Skopje is currently not in operation. Border crossings cannot therefore be made by train; long-distance buses via the Balkan routes are an alternative.
 
-### Albania
+### Bulgaria
 
-There is no rail connection between Albania and Greece.
+There are currently no train services between Bulgaria and Greece. Previously operated lines, such as Sofia – Thessaloniki, have been discontinued. Travelling between the two countries must therefore be done by long-distance bus or by air.
 
 ### Turkey
 
@@ -59,3 +55,7 @@ There is currently no direct passenger rail service between Greece and Turkey. T
 ### Italy
 
 The ferry services operated by [Attica](/operator/attica) can be used between Italy and Greece.
+
+### Albania
+
+There is no rail connection between Albania and Greece.

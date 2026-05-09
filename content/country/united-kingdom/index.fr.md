@@ -51,38 +51,25 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 
 | Pays                                                                                                                       | Points frontières                |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Pays-Bas](/country/netherlands) ([Stena Line BV](/operator/stl))                                                          | Harwich P.Q.                     |
 | [France](/country/france), [Belgique](/country/belgium), [Pays-Bas](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
 | [Irlande](/country/ireland) ([CIE](/operator/cie))                                                                         | Dundalk                          |
 | [Irlande](/country/ireland) ([Stena Line Limited](/operator/sll))                                                          | Holyhead, Fishguard              |
-| [Pays-Bas](/country/netherlands) ([Stena Line BV](/operator/stl))                                                          | Harwich P.Q.                     |
 | [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll))                                               | Cairnryan, Liverpool, Belfast    |
 
 {{% /expander %}}
-
-### Voyages entre la Grande-Bretagne et l’Irlande du Nord
-
-L’Irlande du Nord fait partie du Royaume-Uni mais est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)). En raison de la séparation par la mer d’Irlande, il n’existe pas de liaisons ferroviaires directes entre l’Irlande du Nord et la Grande-Bretagne. À la place, il existe des [liaisons par ferry avec Stena Line Limited](/operator/sll), qui peuvent être utilisées avec le FIP.
-
-Depuis Belfast, des ferries Stena Line Limited relient Cairnryan en Écosse et Liverpool en Angleterre. Les liaisons par ferry Stena Line Limited sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
-
-{{% highlight tip %}}
-Stena Line Limited et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
-
-- [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
-- [Informations chez Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
-  {{% /highlight %}}
-
-### France et Belgique
-
-Depuis Paris Nord, Lille Europe et Bruxelles Midi, des [trains Eurostar](/operator/eurostar "Page Eurostar") relient London St. Pancras International. Ces trains sont soumis à réservation et des billets au tarif global FIP doivent être achetés.
-
-Depuis Calais, il existe également le train auto LeShuttle via le tunnel sous la Manche, mais aucun rabais FIP n’est accordé. De plus, il existe diverses liaisons par ferry entre la France/la Belgique et la Grande-Bretagne, mais aucun rabais FIP n’est accordé sur celles-ci.
 
 ### Pays-Bas
 
 Depuis Amsterdam et Rotterdam, des trains [Eurostar](/operator/eurostar "Eurostar") directs relient London St. Pancras. Alternativement, des trains [Eurostar Red](/operator/eurostar "Eurostar Red") et [Eurocity](/operator/ns#catégories-de-trains-et-réservations "Eurocity") relient Bruxelles Midi (Belgique), où il est possible de prendre un [Eurostar Blue](/operator/eurostar "Eurostar Blue") vers London St. Pancras. Les trains Eurostar sont toujours soumis à réservation et des billets au tarif global FIP doivent être achetés.
 
 De plus, une [liaison par ferry de Stena Line BV](/operator/stl) relie Hoek van Holland à Harwich, accessible à tarif réduit avec le FIP. À noter que le métro RET de Rotterdam / Nesselande à Hoek van Holland n’accorde pas de réduction FIP.
+
+### France et Belgique
+
+Depuis Paris Nord, Lille Europe et Bruxelles Midi, des [trains Eurostar](/operator/eurostar "Page Eurostar") relient London St. Pancras International. Ces trains sont soumis à réservation et des billets au tarif global FIP doivent être achetés.
+
+Depuis Calais, il existe également le train auto LeShuttle via le tunnel sous la Manche, mais aucun rabais FIP n’est accordé. De plus, il existe diverses liaisons par ferry entre la France/la Belgique et la Grande-Bretagne, mais aucun rabais FIP n’est accordé sur celles-ci.
 
 ### Irlande
 
@@ -96,3 +83,16 @@ Stena Line Limited et Irish Ferries proposent des billets permettant un voyage c
   {{% /highlight %}}
 
 Depuis Dublin, le train Enterprise relie également Belfast en Irlande du Nord, accessible à tarif réduit avec le FIP. Pour utiliser ce train, il faut un Coupon FIP pour l’Irlande (CIE) et l’Irlande du Nord (NIR) ou un billet FIP 50 valable sur tout le trajet.
+
+### Voyages entre la Grande-Bretagne et l’Irlande du Nord
+
+L’Irlande du Nord fait partie du Royaume-Uni mais est desservie par sa propre compagnie ferroviaire ([NIR](/operator/nir)). En raison de la séparation par la mer d’Irlande, il n’existe pas de liaisons ferroviaires directes entre l’Irlande du Nord et la Grande-Bretagne. À la place, il existe des [liaisons par ferry avec Stena Line Limited](/operator/sll), qui peuvent être utilisées avec le FIP.
+
+Depuis Belfast, des ferries Stena Line Limited relient Cairnryan en Écosse et Liverpool en Angleterre. Les liaisons par ferry Stena Line Limited sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
+
+{{% highlight tip %}}
+Stena Line Limited et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
+
+- [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Informations chez Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}

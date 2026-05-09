@@ -32,18 +32,6 @@ La liaison de Podgorica vers Shkoder (Albanie) existe, mais elle est actuellemen
 
 Depuis la Serbie, le Monténégro est accessible avec le [seul train de nuit transfrontalier](/operator/zpcg#international).
 
-### Albanie
-
-Une ligne ferroviaire transfrontalière entre le Monténégro et l’Albanie existe, mais elle est actuellement utilisée uniquement pour le fret. Pour les voyageurs, il n’existe donc actuellement aucune liaison internationale régulière de transport ferroviaire de voyageurs.
-
-### Bosnie-Herzégovine
-
-Il n’existe pas de liaison ferroviaire entre la Bosnie-Herzégovine et le Monténégro.
-
-### Croatie
-
-Il n’existe pas de liaison ferroviaire entre la Croatie et le Monténégro.
-
 ### Kosovo
 
 Il n’existe pas de liaison ferroviaire entre le Kosovo et le Monténégro.
@@ -65,3 +53,15 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass pe
 
 [Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
 {{% /highlight %}}
+
+### Albanie
+
+Une ligne ferroviaire transfrontalière entre le Monténégro et l’Albanie existe, mais elle est actuellement utilisée uniquement pour le fret. Pour les voyageurs, il n’existe donc actuellement aucune liaison internationale régulière de transport ferroviaire de voyageurs.
+
+### Croatie
+
+Il n’existe pas de liaison ferroviaire entre la Croatie et le Monténégro.
+
+### Bosnie-Herzégovine
+
+Il n’existe pas de liaison ferroviaire entre la Bosnie-Herzégovine et le Monténégro.
