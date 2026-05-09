@@ -32,18 +32,6 @@ The connection from Podgorica to Shkoder (Albania) exists, but is currently only
 
 From Serbia, Montenegro can be reached by the [only cross-border night train](/operator/zpcg#international).
 
-### Albania
-
-A cross-border railway line between Montenegro and Albania exists, but is currently only used for freight traffic. At present, there is therefore no regular international passenger rail connection for travellers.
-
-### Bosnia and Herzegovina
-
-There is no rail connection between Bosnia and Herzegovina and Montenegro.
-
-### Croatia
-
-There is no rail connection between Croatia and Montenegro.
-
 ### Kosovo
 
 There is no rail connection between Kosovo and Montenegro.
@@ -65,3 +53,15 @@ For travellers through several Balkan countries, the Balkan Flexipass could be w
 
 [More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
 {{% /highlight %}}
+
+### Albania
+
+A cross-border railway line between Montenegro and Albania exists, but is currently only used for freight traffic. At present, there is therefore no regular international passenger rail connection for travellers.
+
+### Croatia
+
+There is no rail connection between Croatia and Montenegro.
+
+### Bosnia and Herzegovina
+
+There is no rail connection between Bosnia and Herzegovina and Montenegro.

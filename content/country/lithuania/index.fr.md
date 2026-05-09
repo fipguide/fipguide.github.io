@@ -43,9 +43,9 @@ Sur la ligne vers Turmantas, les anciennes automotrices DR1A d’origine soviét
 
 | Pays                                              | Points frontière                                                          |
 | ------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Pologne](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                   |
 | [Lettonie](/country/latvia) (LDz)                 | Joniškis                                                                  |
 | Biélorussie                                       | Frontière fermée                                                          |
+| [Pologne](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                   |
 | Russie                                            | Pas de montée/descente en transit Russie-Biélorussie-Lituanie-Kaliningrad |
 
 {{% /expander %}}
@@ -55,6 +55,10 @@ Sur la ligne vers Turmantas, les anciennes automotrices DR1A d’origine soviét
 Le trafic ferroviaire régulier entre la Lettonie et la Lituanie n’a repris qu’à la fin de 2023. LTG-Link circule le matin de Vilnius via Siauliai et Riga jusqu’à la gare frontière lettonne-estonienne de Valga, et le soir en sens inverse. Entre Vilnius et Riga, les réductions FIP de LTG-Link s’appliquent également ([voir Validité des Billets FIP](/operator/ltg#validité-des-billets-fip)). Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)).
 
 Depuis l’été 2025, une extension des trains Vilnius – Turmantas jusqu’à Daugavpils (Lettonie) est en discussion.
+
+### Biélorussie
+
+Actuellement, aucun train ne circule entre la Lituanie et la Biélorussie.
 
 ### Pologne
 

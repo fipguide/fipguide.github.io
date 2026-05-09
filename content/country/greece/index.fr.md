@@ -32,25 +32,21 @@ La qualité des trains varie : si des rames électriques modernes circulent sur 
 
 | Pays                                                  | Points frontières               |
 | ----------------------------------------------------- | ------------------------------- |
-| [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
 | Macédoine du Nord (ŽRSM)                              | Gevgelija (fr)                  |
+| [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
 | Turquie (TCDD)                                        | Pythio (Πύθιο)                  |
 | [Italie](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
 
 [>] = En direction de (par ex. Patras [> Ancona] = Patras est le point frontière en direction d'Ancona)
 {{% /expander %}}
 
-### Bulgarie
-
-Il n'existe actuellement aucune liaison ferroviaire entre la Bulgarie et la Grèce. Les lignes exploitées par le passé, comme Sofia – Thessalonique, ont été supprimées. Le passage entre les deux pays doit donc se faire par bus longue distance ou par avion.
-
 ### Macédoine du Nord
 
 Il n'existe pas de service régulier de transport de voyageurs par rail entre la Grèce et la Macédoine du Nord. La liaison historique entre Thessalonique et Gevgelija/Skopje n'est actuellement pas exploitée. Les passages frontaliers ne peuvent donc pas être effectués en train ; les bus longue distance via les routes balkaniques constituent une alternative.
 
-### Albanie
+### Bulgarie
 
-Il n'existe pas de liaison ferroviaire entre l'Albanie et la Grèce.
+Il n'existe actuellement aucune liaison ferroviaire entre la Bulgarie et la Grèce. Les lignes exploitées par le passé, comme Sofia – Thessalonique, ont été supprimées. Le passage entre les deux pays doit donc se faire par bus longue distance ou par avion.
 
 ### Turquie
 
@@ -59,3 +55,7 @@ Il n'existe actuellement aucune liaison directe de transport de voyageurs entre 
 ### Italie
 
 Les liaisons par ferry d'[Attica](/operator/attica) peuvent être utilisées entre l'Italie et la Grèce.
+
+### Albanie
+
+Il n'existe pas de liaison ferroviaire entre l'Albanie et la Grèce.

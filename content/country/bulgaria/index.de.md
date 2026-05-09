@@ -26,16 +26,12 @@ Als Streckenhighlight gelten zum einen die Nord-Süd-Strecken durch das Balkange
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Griechenland](/country/greece) ([Hellenic Train](/operator/ht) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
 | [Rumänien](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
-| Serbien (SV) | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
 | Türkei (TCDD) | Kapikule (fr) |
+| [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
+| Serbien (SV) | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
 
 {{% /expander %}}
-
-### Griechenland
-
-Zurzeit verkehren leider keine Personenzüge zwischen Griechenland und Bulgarien.
 
 ### Rumänien
 
@@ -43,12 +39,16 @@ Zwischen Rumänien und Bulgarien verkehren täglich wenige Züge und sind die wi
 
 Eine weitere tägliche Verbindung zwischen den beiden Ländern existiert über den Grenzübergang Vidin. Hier wird täglich vom rumänischen Craiova ins bulgarische Vidin gefahren. Auf dieser Verbindung reichen FIP Freifahrtscheine beider Länder bzw. ein durchgängiges FIP 50 Ticket aus.
 
-### Serbien
-
-Aktuell verkehrt nur der private Optima Express einmal wöchentlich über die Grenze zwischen Serbien und Bulgarien. Dieser Zug fährt zwischen dem österreichischen Villach bis in die Türkei und befährt dabei einige Strecken, die sonst im Personenverkehr gar nicht mehr bedient werden. Auch die Mitnahme eines Autos ist hier möglich. Mit FIP gibt es hier auf der kompletten Route keinerlei Rabatt, ein Ausstieg ist außerdem ausschließlich in Edirne in der Türkei möglich. Weitere Infos gibt es auf der [Website vom Optima Express](https://optimatours.de/).
-
 ### Türkei
 
 Zwischen der Türkei und Bulgarien verkehrt in der Sommersaison ein Nachtzug zwischen Istanbul Halkali und verschiedenen Zielen in Bulgarien, u. a. Sofia und Plovdiv, oder über Ruse nach Norden weiter ins rumänische Bukarest. Da in der Türkei kein FIP gültig ist, kann hier höchstens für den Teilabschnitt in Bulgarien oder Rumänien ein FIP 50 Ticket bzw. der Freifahrtschein genutzt werden. Für durchgängige Fahrten kann es jedoch auch einfacher sein, direkt ein Ticket zum Vollpreis inkl. einem Platz im Liege- oder Schlafwagen zu erwerben.
 
 Für die Route zwischen der Türkei und Bulgarien lässt sich dies nur an einem internationalen Fahrkartenschalter vor Ort machen. Wenn Rumänien der Start- oder Zielpunkt ist, kann jedoch auch über [Rumänische Staatsbahn CFR](https://bileteinternationale.cfrcalatori.ro/en/) ein Ticket gekauft werden. Zudem verkehrt auf der Strecke noch der private Optima Express, in dem kein FIP gültig ist (siehe [Serbien](#serbien)).
+
+### Griechenland
+
+Zurzeit verkehren leider keine Personenzüge zwischen Griechenland und Bulgarien.
+
+### Serbien
+
+Aktuell verkehrt nur der private Optima Express einmal wöchentlich über die Grenze zwischen Serbien und Bulgarien. Dieser Zug fährt zwischen dem österreichischen Villach bis in die Türkei und befährt dabei einige Strecken, die sonst im Personenverkehr gar nicht mehr bedient werden. Auch die Mitnahme eines Autos ist hier möglich. Mit FIP gibt es hier auf der kompletten Route keinerlei Rabatt, ein Ausstieg ist außerdem ausschließlich in Edirne in der Türkei möglich. Weitere Infos gibt es auf der [Website vom Optima Express](https://optimatours.de/).

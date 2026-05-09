@@ -36,13 +36,13 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 
 | Country                                                                                | Border Points                                                                                                                                 |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Eurostar](/operator/eurostar)                                                         | Paris, Lille                                                                                                                                  |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                                   | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 | [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                               | Bettembourg (fr), Rodange (fr)                                                                                                                |
 | [Germany](/country/germany) ([DB](/operator/db))                                       | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                    |
-| [Eurostar](/operator/eurostar)                                                         | Paris, Lille                                                                                                                                  |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS and [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
 | [Italy](/country/italy) ([FS](/operator/fs))                                           | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                     |
 | [Spain](/country/spain) ([Renfe](/operator/renfe))                                     | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                               |
-| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS and [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                                   | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 
 {{% /expander %}}
 
@@ -99,6 +99,16 @@ Additionally, `TGV` trains operated by SNCF run between Turin and Paris. These c
 
 SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco to Ventimiglia. FIP 50 Tickets and SNCF FIP Coupons are valid up to Ventimiglia.
 
+### Monaco
+
+There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
+
+[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
 ### Spain
 
 Direct `TGV` trains operated by the French SNCF run from Barcelona to Paris. Renfe also operates cross-border services between Barcelona and Lyon as well as Madrid and Marseille.
@@ -110,13 +120,3 @@ With [Euskotren](/operator/euskotren), you can travel with the special FIP Ticke
 There are also regional Rodalies de Catalunya trains operated by Renfe with cross-border connections to Cerbère and Latour-de-Carol. FIP Tickets can be purchased directly on the train from the train staff or at Renfe ticket counters in Spain.
 
 Overall, there are very few cross-border connections, which were much better developed a few years ago.
-
-### Monaco
-
-There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
-
-[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
