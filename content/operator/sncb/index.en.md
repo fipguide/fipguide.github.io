@@ -27,7 +27,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 
 FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 / FIP 75 ticket or FIP Coupons from both countries must be available.
 
-Employees of [NS](/operator/ns) can get an _Unlimited Pass_, which allows them to use SNCB / NMBS trains in Belgium for the entire year. However, this pass is subject to a charge for employees. [^7]
+Employees of [NS](/operator/ns) can get an _Unlimited Pass_, which allows them to use SNCB / NMBS trains in Belgium for the entire year. However, this pass is subject to a charge. [^7]
 
 ## Train Categories and Reservations
 

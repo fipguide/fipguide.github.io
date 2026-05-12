@@ -27,7 +27,7 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 
 FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-Mitarbeitende der [NS](/operator/ns) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der SNCB / NMBS in Belgien nutzen können. Dieser ist für Mitarbeiter jedoch kostenpflichtig. [^7]
+Mitarbeitende der [NS](/operator/ns) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der SNCB / NMBS in Belgien nutzen können. Dieser ist jedoch kostenpflichtig. [^7]
 
 ## Zugkategorien und Reservierungen
 

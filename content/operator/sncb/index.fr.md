@@ -27,7 +27,7 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 
 Les Coupons FIP et les Billets FIP 50 / FIP 75 sont valables sur les trains de la SNCB. Pour les trajets transfrontaliers, un Billet FIP 50 / FIP 75 continu ou des Coupons FIP des deux pays concernés sont nécessaires.
 
-Les agents de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains SNCB / NMBS en Belgique toute l’année. Cependant, ce pass est payant pour les agents. [^7]
+Les agents de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains SNCB / NMBS en Belgique toute l’année. Cependant, ce pass est payant. [^7]
 
 ## Catégories de trains et réservations
 
