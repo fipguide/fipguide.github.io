@@ -266,25 +266,21 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 ### Online
 
-{{% booking id="db-website" %}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
-%}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+/%}}
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" /%}}
+{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="€ 6,90" classes.second="€ 5,50" %}}
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+{{% /booking %}}
 
 ### On-Site
 
-{{% booking id="db-ticket-office" subtitle="Including Nightjet booking" %}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+{{% booking id="db-ticket-office" subtitle="Including Nightjet booking" /%}}
 
 ### On the Train
 
@@ -317,6 +313,23 @@ Children under 6 years always travel free and do not need their own ticket.
 
 In the Nordhessischer Verkehrsverbund (NVV), no discounts for DB employees are recognized in regional transport. Therefore, no FIP discounts apply here.
 A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) of the affected regional train lines is available.
+
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (formerly SWEG Bahn Stuttgart) does not accept FIP discounts. These include the following lines: [^2]
+
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
 
 ### Journeys in Transport Associations
 
@@ -377,3 +390,5 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

@@ -50,6 +50,10 @@ There are also Renfe's Rodalies de Catalunya regional trains with cross-border c
 
 Overall, there are very few cross-border connections, and the network was significantly better developed just a few years ago.
 
+### Andorra
+
+There is currently no rail connection between Andorra and Spain.
+
 ### Portugal
 
 Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP Tickets or Coupones from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section.
