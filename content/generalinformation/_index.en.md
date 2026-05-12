@@ -44,7 +44,11 @@ FIP discounts come in various forms; a FIP Card is always required to use them.
 
 ### FIP Coupons
 
-FIP Coupons (colloquially known as international free travel passes) entitle you to travel on trains operated by the company indicated on the coupon. An _FIP Coupon_ consists of several _fields_. Each field is valid for two consecutive days. You must enter the first day of validity on the ticket; the ticket is then valid on that day and the following day. The different fields do not have to be used on consecutive days, but the dates must fall within the printed validity period.
+FIP Coupons (colloquially known as international free travel passes) entitle you to travel on trains operated by the company indicated on the coupon. An _FIP Coupon_ consists of several _fields_. Each field is valid for two consecutive days. You must enter the first day of validity on the ticket; the ticket is then valid on that day and the following day. The different fields do not have to be used on consecutive days, but the dates must fall within the printed validity period. Some railway companies have different rules for FIP Coupons for their own employees.
+
+{{% highlight tip %}}
+In practice, the 2-day rule is not always known. On the train, it can help to have [this translated explanatory table](/en/generalinformation/2-day-rule.pdf) printed out.
+{{% /highlight %}}
 
 You can apply for one FIP Coupon per operator per calendar year. Some railway companies may have different rules for their own employees. This means you can order one FIP Coupon with one to four fields from as many operators as you like each year. The relevant calendar year is determined by the date the validity begins. The application for the international free travel pass is usually made through your railway company's personnel service or travel center. Some companies also offer online portals.
 
