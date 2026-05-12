@@ -265,19 +265,16 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 
 ### Online
 
-{{% booking id="db-website" %}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
-%}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+/%}}
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" %}}
+{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" %}}
+Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
 {{% highlight inofficial %}}
 Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -320,6 +317,23 @@ Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.
 Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) der betroffenen Regionalzug-Linien.
+
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (früher SWEG Bahn Stuttgart) akzeptiert keine FIP Vergünstigungen. Dazu zählen die Linien: [^2]
+
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
 
 ### Fahrten in Verkehrsverbünden
 
@@ -380,3 +394,5 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

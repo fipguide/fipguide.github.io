@@ -200,6 +200,10 @@ figure {
   }
 }
 
+.o-list__list--single-column {
+  grid-template-columns: 1fr;
+}
+
 .o-list__list-item {
   &--country,
   &--operator {

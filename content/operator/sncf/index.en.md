@@ -3,6 +3,7 @@ draft: false
 title: "SNCF Voyageurs"
 country:
   - "france"
+  - "germany"
   - "monaco"
   - "italy"
   - "spain"
@@ -294,6 +295,8 @@ For journeys within France, the standard domestic `TGV` reservation fees apply. 
 
 For the direct trains between Frankfurt (Main) and Bordeaux in July and August, DB does not sell FIP 50 / FIP 75 Tickets for the journey within France. However, using them with an FIP Coupon and an SNCF reservation is possible. [^5]
 
+Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, including within Germany. Only SNCF is listed as the operator for these trains, see [Identify train operators and search connections](/country/germany#fip-information). On these trains, DB Coupons and national travel concessions for DB employees are not valid in Germany. Instead, SNCF FIP Global Fare tickets can be purchased.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -397,9 +400,9 @@ Discounted FIP tickets for `RER` and Transilien trains can be purchased at Trans
 Many stations with ticket barriers are not staffed. While there are help intercoms, they work unreliably. Without the _Contremarque de Passage_ (temporary access card), there is often no way to gain access to the stations.
 {{% /highlight %}}
 
-### Break of Journey
+### Rail Replacement Buses
 
-Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
