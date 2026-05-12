@@ -16,6 +16,7 @@ Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxembur
 
 - Kostenfreie Fahrt auch ohne FIP in der zweiten Klasse
 - Aufpreis für die erste Klasse möglich
+- Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können einen _Unlimited Pass_ erhalten.
 
 ## Gültigkeit FIP Tickets
 
@@ -25,6 +26,8 @@ Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxembur
 {{< highlight important >}}
 Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabhängig von FIP an. Dies umfasst alle Zugverbindungen (außer TGV), Straßenbahnen und Busse. Die Fahrt mit der CFL ist somit in der zweiten Klasse kostenlos und es muss kein zusätzliches Ticket erworben werden. Die Fahrt in der ersten Klasse erfordert einen FIP Freifahrtschein oder FIP 50 Ticket der ersten Klasse. Für Fahrten über Luxemburg hinaus z. B. Richtung Deutschland oder Belgien wird eine Fahrkarte ab dem Grenztarifpunkt benötigt. Das bedeutet, dass beispielsweise ein durchgehendes Ticket, ein gültiger Freifahrtschein oder eine nationale Fahrvergünstigung bei Fahrten nach Deutschland nötig sind, um bis ins Nachbarland zu fahren. Eine Fahrkarte ab dem ersten Bahnhof nach der Grenze ist nicht ausreichend.
 {{< /highlight >}}
+
+Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der CFL in Luxemburg nutzen können. Dieser ist für Mitarbeitende der NS jedoch kostenpflichtig. [^2]
 
 ## Zugkategorien und Reservierungen
 
@@ -147,3 +150,5 @@ Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informatione
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+
+[^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)

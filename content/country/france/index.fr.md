@@ -122,3 +122,7 @@ Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hen
 Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
 
 Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
+
+### Andorre
+
+Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et la France.

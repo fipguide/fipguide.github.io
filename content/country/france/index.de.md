@@ -124,3 +124,7 @@ Mit [Euskotren](/operator/euskotren) kann mit dem speziellen FIP Ticket bis nach
 Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen nach Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal oder am Renfe Ticketschalter in Spanien erworben werden.
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
+
+### Andorra
+
+Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Frankreich.

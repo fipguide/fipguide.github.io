@@ -18,23 +18,31 @@
 <meta property="og:site_name" content="{{ site.Title }}" />
 <meta
   property="og:title"
-  content="{{ if .IsHome }}
-    {{ site.Title }}
-  {{ else }}
-    {{ printf "%s | %s" .Title site.Title }}
+  content="{{- if .IsHome -}}
+    {{- site.Title -}}
+  {{- else -}}
+    {{- printf "%s | %s" .Title site.Title -}}
   {{ end }}"
 />
 <meta property="og:description" content="{{ $description }}" />
 <meta
   property="og:type"
-  content="{{ if .IsPage }}
+  content="{{- if .IsPage -}}
     article
-  {{ else }}
+  {{- else -}}
     website
-  {{ end }}"
+  {{- end -}}"
 />
 <meta property="og:image" content="{{ .Site.BaseURL }}og-image.jpg" />
 <meta property="og:image:type" content="image/jpg" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta name="robots" content="index,follow" />
+{{- $isNoIndexPage := or (in .RelPermalink "/privacy/") (in .RelPermalink "/imprint/") (eq .RelPermalink "/404.html") (in .RelPermalink "/404/") -}}
+<meta
+  name="robots"
+  content="{{- if $isNoIndexPage -}}
+    noindex,nofollow
+  {{- else -}}
+    index,follow
+  {{- end -}}"
+/>
