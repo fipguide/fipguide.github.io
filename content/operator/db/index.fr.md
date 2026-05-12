@@ -276,11 +276,16 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 {{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" classes.first="6,90 €" classes.second="5,50 €" %}}
 Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+{{% highlight inofficial %}}
+Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
+{{% /highlight %}}
 {{% /booking %}}
 
 ### En gare
 
-{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
+La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
+{{% /booking %}}
 
 ### À bord du train
 
