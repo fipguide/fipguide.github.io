@@ -36,13 +36,13 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 
 | Land                                                                               | Grenzpunkte                                                                                                                                   |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Eurostar](/operator/eurostar)                                                     | Paris, Lille                                                                                                                                  |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 | [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))                            | Bettembourg (fr), Rodange (fr)                                                                                                                |
 | [Deutschland](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                    |
-| [Eurostar](/operator/eurostar)                                                     | Paris, Lille                                                                                                                                  |
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
 | [Italien](/country/italy) ([FS](/operator/fs))                                     | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                     |
 | [Spanien](/country/spain) ([Renfe](/operator/renfe))                               | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                               |
-| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 
 {{% /expander %}}
 
@@ -75,6 +75,10 @@ Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge d
 Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + NE-Zusatzfahrkarte). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
 {{% /highlight %}}
 
+{{% highlight important %}}
+Einige wenige `TGV` Züge verkehren von Freiburg nach Paris und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
+{{% /highlight %}}
+
 Außerdem gibt es verschiedene von DB und SNCF betriebene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
 
 {{% highlight tip %}}
@@ -99,6 +103,16 @@ Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese 
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP 50 Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
 
+### Monaco
+
+Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
+
+[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
 ### Spanien
 
 Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
@@ -111,12 +125,6 @@ Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüb
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
-### Monaco
+### Andorra
 
-Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
-
-[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Frankreich.

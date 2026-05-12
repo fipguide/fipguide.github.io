@@ -148,6 +148,10 @@ A reservation is required for some trains, indicated by an _R_.
 
 {{% booking id="cfr-ticket-office" /%}}
 
+{{% booking id="db-ticket-office" subtitle="For the Vienna – Bucharest night train and InterCity trains" %}}
+At DB Ticket Offices, FIP 50 Tickets and reservations for the Vienna – Bucharest night train can be purchased. Bookings can be made 90 days in advance. Reservations are available for InterCity trains.
+{{% /booking %}}
+
 ### On the Train
 
 FIP-discounted tickets cannot be purchased on the train. Reservations must also be obtained before departure.

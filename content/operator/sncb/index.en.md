@@ -18,6 +18,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 - SNCB accepts FIP Coupons and FIP 50 / FIP 75 Tickets.
 - No reservation required within Belgium.
 - Surcharge for trips to/from Brussels Zaventem Airport.
+- Employees of [NS](/operator/ns) can get an _Unlimited Pass_.
 
 ## Validity of FIP Tickets
 
@@ -25,6 +26,8 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 / FIP 75 ticket or FIP Coupons from both countries must be available.
+
+Employees of [NS](/operator/ns) can get an _Unlimited Pass_, which allows them to use SNCB / NMBS trains in Belgium for the entire year. However, this pass is subject to a charge. [^7]
 
 ## Train Categories and Reservations
 
@@ -225,3 +228,5 @@ The first class in SNCB / NMBS trains is often used with second class tickets. A
 [^5]: [SNCB -- End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
 
 [^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+[^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)

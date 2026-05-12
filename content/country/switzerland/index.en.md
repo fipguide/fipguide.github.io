@@ -37,8 +37,8 @@ Switzerland has one of the densest rail networks in the world. Despite challengi
 | Country                                             | Border Points                                                                                                                       |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Germany](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
-| [Italy](/country/italy) ([FS](/operator/fs))        | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen                                                                                                          |
+| [Italy](/country/italy) ([FS](/operator/fs))        | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [France](/country/france) ([SNCF](/operator/sncf))  | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
@@ -68,15 +68,17 @@ For this short section, it's best to buy a FIP 50 ticket, otherwise the [ÖBB lo
 
 There are also several cross-border regional connections. Switzerland can also be reached by ferries, some of which are FIP eligible.
 
-### France
+### Austria
 
-From France, cross-border TGV trains operate to Zurich via Basel. Within Switzerland, these trains can be used without a reservation with FIP 50 Tickets or FIP Coupons from SBB. For cross-border journeys, a FIP Global Fare must be purchased; see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains").
+Austria and Switzerland have only one real border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich).
 
-There are also various cross-border regional train connections. In Basel, Basel SBB station is the border station, from which SNCF Coupons are valid for trains such as `TER` towards Strasbourg.
+Entry from Austria is also possible via the Buchs SG border crossing through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. Thus, it is possible to have a continuous ticket between Austria and Switzerland with ÖBB and SBB Coupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
 
-In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
+### Liechtenstein
 
-`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF Coupon.[^2]
+Liechtenstein and Switzerland are only connected by a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB Coupons and FIP 50 Tickets are valid up to the border point Buchs SG in Switzerland.
+
+Otherwise, border traffic is mainly handled by buses, where FIP Tickets are not valid.
 
 ### Italy
 
@@ -88,17 +90,15 @@ The surcharge or reservation price for cross-border `EC`/`ECE` trains to Italy i
 For the Milan - Como - Switzerland connection, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates this route and does not accept FIP Tickets. However, tickets can be booked online on Trenord's website and are relatively cheap compared to the required cross-border reservation on Eurocity trains. Changing trains in Chiasso can therefore be a much more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
 {{% /highlight %}}
 
-### Liechtenstein
+### France
 
-Liechtenstein and Switzerland are only connected by a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB Coupons and FIP 50 Tickets are valid up to the border point Buchs SG in Switzerland.
+From France, cross-border TGV trains operate to Zurich via Basel. Within Switzerland, these trains can be used without a reservation with FIP 50 Tickets or FIP Coupons from SBB. For cross-border journeys, a FIP Global Fare must be purchased; see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains").
 
-Otherwise, border traffic is mainly handled by buses, where FIP Tickets are not valid.
+There are also various cross-border regional train connections. In Basel, Basel SBB station is the border station, from which SNCF Coupons are valid for trains such as `TER` towards Strasbourg.
 
-### Austria
+In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
 
-Austria and Switzerland have only one real border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich).
-
-Entry from Austria is also possible via the Buchs SG border crossing through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. Thus, it is possible to have a continuous ticket between Austria and Switzerland with ÖBB and SBB Coupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
+`TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF Coupon.[^2]
 
 ## Sources
 

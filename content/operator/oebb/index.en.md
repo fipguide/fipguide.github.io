@@ -282,7 +282,7 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Free Travel Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
-With children, the ÖBB Vorteilscard Family for € 19 is quickly worthwhile. \
+With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
 [See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
