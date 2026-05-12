@@ -34,6 +34,80 @@
       (max-width: 992px) 720px, (max-width: 1200px) 960px, (max-width: 1400px)
       1140px, 1320px"
     {{- end -}}
+    {{- if and (ne $extension "svg") (ne $extension "gif") -}}
+      {{- if reflect.IsImageResourceWithMeta $image -}}
+        {{- with $image.Meta -}}
+          {{- if gt .Date.Year 1 -}}
+            data-exif-date="{{ .Date.Format "2006-01-02" }}"
+          {{- end -}}
+          {{- if ne .Lat 0 -}}data-exif-lat="{{ .Lat }}"{{- end -}}
+          {{- if ne .Long 0 -}}data-exif-long="{{ .Long }}"{{- end -}}
+          {{- with .Exif -}}
+            {{- with (index . "Make") -}}data-exif-make="{{ . }}"{{- end -}}
+            {{- with (index . "Model") -}}data-exif-model="{{ . }}"{{- end -}}
+            {{- with (or (index . "FNumber") (index . "ApertureValue")) -}}
+              data-exif-aperture="{{ . }}"
+            {{- end -}}
+            {{- with (or (index . "ExposureTime") (index . "ShutterSpeedValue")) -}}
+              data-exif-shutter-speed="{{ . }}"
+            {{- end -}}
+            {{- with (index . "ISO") -}}data-exif-iso="{{ . }}"{{- end -}}
+            {{- with (index . "FocalLength") -}}
+              data-exif-focal-length="{{ . }}"
+            {{- end -}}
+            {{- with (or (index . "LensModel") (index . "LensSpecification")) -}}
+              data-exif-lens="{{ . }}"
+            {{- end -}}
+            {{- with (index . "DateTimeOriginal") -}}
+              data-exif-date-time-original="{{ . }}"
+            {{- end -}}
+            {{- with (index . "Copyright") -}}
+              data-exif-copyright="{{ . }}"
+            {{- end -}}
+          {{- end -}}
+          {{- with .IPTC -}}
+            {{- with (index . "Byline") -}}
+              data-iptc-by-line="{{ . }}"
+            {{- end -}}
+            {{- with (index . "CopyrightNotice") -}}
+              data-iptc-copyright-notice="{{ . }}"
+            {{- end -}}
+            {{- with (index . "Headline") -}}
+              data-iptc-headline="{{ . }}"
+            {{- end -}}
+            {{- with (index . "ObjectName") -}}
+              data-iptc-object-name="{{ . }}"
+            {{- end -}}
+            {{- with (index . "Keywords") -}}
+              data-iptc-keywords="{{ . }}"
+            {{- end -}}
+            {{- with (index . "Caption-Abstract") -}}
+              data-iptc-caption-abstract="{{ . }}"
+            {{- end -}}
+          {{- end -}}
+          {{- with .XMP -}}
+            {{- with (index . "dc:rights") -}}
+              data-xmp-dc-rights="{{ . }}"
+            {{- end -}}
+            {{- with (index . "dc:creator") -}}
+              data-xmp-dc-creator="{{ . }}"
+            {{- end -}}
+            {{- with (index . "dc:title") -}}
+              data-xmp-dc-title="{{ . }}"
+            {{- end -}}
+            {{- with (index . "dc:description") -}}
+              data-xmp-dc-description="{{ . }}"
+            {{- end -}}
+            {{- with (index . "photoshop:Credit") -}}
+              data-xmp-photoshop-credit="{{ . }}"
+            {{- end -}}
+            {{- with (index . " xmp:CreateDate") -}}
+              data-xmp-create-date="{{ . }}"
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
     style="{{ delimit $imgStyles "; " | safeCSS }}"
   />
   {{- if .caption -}}
