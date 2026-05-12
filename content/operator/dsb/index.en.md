@@ -84,6 +84,8 @@ Regional trains provide local connections between various locations. Outside the
 
 {{% highlight confusion %}}
 Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB.
+Trains marked as `RA` are not included in FIP.
+Trains marked as `RE` are usually DSB operated trains.
 {{% /highlight %}}
 
 {{% /train-category %}}
