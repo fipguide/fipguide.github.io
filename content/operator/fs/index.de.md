@@ -276,7 +276,11 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 ### Online
 
-{{% booking id="fs-website" /%}}
+{{% booking id="fs-website" %}}
+{{% highlight inofficial %}}
+Zurzeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen auf der FS Website nicht möglich ist. Uns ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
+{{% /highlight %}}
+{{% /booking %}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
@@ -301,6 +305,9 @@ Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen M�
   classes.second="3 € / 25 €"
   subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
 %}}
+{{% highlight inofficial %}}
+Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen an DB Ticketschaltern nicht möglich ist. Die Buchung ist nur über das alte Verkaufssystem möglich. Soweit möglich können Mitarbeitende im DB Reisezentrum auf dieses wechseln (siehe [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Es ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung, empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
+{{% /highlight %}}
 Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 {{% /booking %}}
 
