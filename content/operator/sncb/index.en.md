@@ -44,7 +44,7 @@ Within Belgium, no reservation is required for SNCB and in many trains, it is no
 
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main). Some trains also run between Germany and Antwerp via Brussels Airport Zaventem or in summer between Germany and the Belgian coast. All ICE trains can also be used within Belgium with FIP Tickets without surcharge.
 
-#### Reservation
+#### Reservations
 
 A reservation is mandatory for cross-border journeys from 26.06 to 16.08.2026.
 

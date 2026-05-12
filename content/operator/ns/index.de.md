@@ -52,7 +52,7 @@ Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
 Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.

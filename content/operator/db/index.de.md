@@ -44,7 +44,7 @@ Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreit
 
 Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten:
@@ -68,7 +68,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich gab es 
 
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 
@@ -130,7 +130,7 @@ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und rese
 - 2\. Klasse: 11 €
   {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark.
 
@@ -147,7 +147,7 @@ Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hoc
 
 Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Polen.
 Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
@@ -172,7 +172,7 @@ Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland 
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
 
-#### Reservierung
+#### Reservierungen
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
 

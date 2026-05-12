@@ -66,7 +66,7 @@ Similaires aux ICL mais avec plus d’arrêts et une vitesse inférieure. Ils de
 
 Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Odense.
 
-#### Réservation
+#### Réservations
 
 Réservation conseillée et généralement obligatoire en été.
 

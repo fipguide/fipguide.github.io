@@ -171,7 +171,7 @@ Trains régionaux accélérés. Les Coupons FIP gratuits ne sont acceptés que s
 
 **Tarif Global FIP (indépendant de la distance) :** 4 € [^5]
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires, sauf sur la ligne Barcelone(-Gérone-Figueres)-Port Bou[^1].
 

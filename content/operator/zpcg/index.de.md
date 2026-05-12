@@ -54,7 +54,7 @@ Diese verkehren auf der Strecke Bar – Podgorica – Bijelo Polje – Belgrad.
 
 Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticketpreise](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf) gewährt.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist verpflichtend. Die Kosten betragen in der ersten und zweiten Klasse 3 € pro Sitzplatz.[^1]
 

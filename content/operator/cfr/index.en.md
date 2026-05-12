@@ -41,7 +41,7 @@ National long-distance trains with few intermediate stops and comparatively high
 `IC` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
@@ -61,7 +61,7 @@ Comparatively fast trains connecting major cities with few intermediate stops. S
 `IR` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
@@ -83,7 +83,7 @@ These trains usually include couchette or sleeper cars, which can be used with a
 `IRN` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is mandatory, either for a seat, couchette or sleeper berth. If the train is fully booked, a standing reservation can be purchased.
 
@@ -107,7 +107,7 @@ These trains often include couchette or sleeper cars, which can be used with a c
 These trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is often mandatory (indicated by an _R_ in the journey planner). If the train is fully booked, a standing reservation can be purchased.
 
@@ -129,7 +129,7 @@ Regional trains that also serve smaller towns. The various trains on a route oft
 `R` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains, indicated by an _R_.
 

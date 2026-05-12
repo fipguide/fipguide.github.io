@@ -83,7 +83,7 @@ La plupart des trains `IC` sur les axes principaux ont été progressivement rem
 Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations sont parfois obligatoires pendant la haute saison (été) pour les liaisons internationales vers l’Allemagne, uniquement pour les trajets transfrontaliers.
 
@@ -135,7 +135,7 @@ Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acc
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
 
-#### Réservation
+#### Réservations
 
 Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au Tarif Global FIP pour tout le trajet.
 

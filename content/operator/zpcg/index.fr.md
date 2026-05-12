@@ -54,7 +54,7 @@ Ces trains circulent sur la ligne Bar - Podgorica - Bijelo Polje - Belgrade.
 
 Sur présentation de la Carte FIP, une réduction de 50 % est accordée sur les [tarifs réguliers](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf).
 
-#### Réservation
+#### Réservations
 
 La réservation est obligatoire. Le coût en première et en deuxième classe est de 3 € par place assise.[^1]
 

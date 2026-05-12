@@ -51,7 +51,7 @@ Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas 
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -74,7 +74,7 @@ Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas 
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -93,7 +93,7 @@ Trains rapides hors lignes à grande vitesse.
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -125,7 +125,7 @@ Bus de correspondance pour les trains à grande vitesse.
 
 Trains rapides principalement hors lignes à grande vitesse.
 
-#### Réservation
+#### Réservations
 
 **Coût :** 3 € (1ère/2ᵉ classe)
 
@@ -144,7 +144,7 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
 Train de nuit national avec voitures couchettes, lits et places assises.
 
-#### Réservation
+#### Réservations
 
 **Coût :** 25 € (1ère/2ᵉ classe, voiture assise)
 
@@ -165,7 +165,7 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP. Po
 
 Trains rapides internationaux vers l’Allemagne, l’Autriche et la Suisse.
 
-#### Réservation
+#### Réservations
 
 **Coût de la réservation** : Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -196,7 +196,7 @@ Les voyages gratuits nationaux pour les employés de la Deutsche Bahn ne sont pa
 
 _Astuce :_ Pour les trajets Allemagne–Italie, utilisez le voyage gratuit national jusqu’à Salzbourg puis prenez le Nightjet pour éviter le Tarif Global FIP.
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 

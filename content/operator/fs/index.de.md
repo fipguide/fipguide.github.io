@@ -51,7 +51,7 @@ Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können je
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
-#### Reservierung
+#### Reservierungen
 
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 
@@ -74,7 +74,7 @@ Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können je
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
-#### Reservierung
+#### Reservierungen
 
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 
@@ -93,7 +93,7 @@ Schnellzug abseits von Hochgeschwindigkeitsstrecken.
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
-#### Reservierung
+#### Reservierungen
 
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 
@@ -125,7 +125,7 @@ Anschlussbusse für Hochgeschwindigkeitszüge.
 
 Schnellzug meist abseits von Hochgeschwindigkeitsstrecken.
 
-#### Reservierung
+#### Reservierungen
 
 **Kosten**: 3 € (1./2. Klasse)
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
@@ -143,7 +143,7 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 
 Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen.
 
-#### Reservierung
+#### Reservierungen
 
 **Kosten**: 25 € (1./2. Klasse) im Sitzwagen
 Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
@@ -163,7 +163,7 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz.
 
-#### Reservierung
+#### Reservierungen
 
 **Kosten für Reservierung**: Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
@@ -195,7 +195,7 @@ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschlan
 
 _Tipp:_ Für Fahrten von Deutschland nach Italien die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
 
-#### Reservierung
+#### Reservierungen
 
 Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
 

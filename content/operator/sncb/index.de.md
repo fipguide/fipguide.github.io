@@ -44,7 +44,7 @@ Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in viele
 
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main). Einzelne Züge verkehren auch zwischen Deutschland und Antwerpen über den Flughafen Brüssel Zaventem und im Sommer zwischen Deutschland und der belgischen Küste. Alle ICE-Züge können auch innerhalb Belgiens mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
 
-#### Reservierung
+#### Reservierungen
 
 Bei grenzüberschreitenden Fahrten ist eine Reservierung vom 26.06. bis 16.08.2026 verpflichtend.
 

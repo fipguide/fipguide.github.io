@@ -44,7 +44,7 @@ Pour les trajets avec différents exploitants en Pologne, un Billet FIP 50 inint
 
 Trains régionaux circulant entre Łódź et Varsovie, ne s’arrêtant qu’à quelques gares en chemin. Certains trains ne s’arrêtent qu’aux gares les plus importantes des deux villes et pas du tout entre les deux. Les trains portent l’abréviation `ŁS` au début dans les systèmes d’information, suivie d’un numéro de train spécifique.
 
-#### Réservation
+#### Réservations
 
 Une réservation gratuite est possible dans ces trains. Cependant, ils peuvent également être utilisés sans réservation. Plus d’informations sur le [site Web de ŁKA en polonais](https://lka.lodzkie.pl/strona-glowna/Nowe-zasady-rezerwacji-miejsc-w-Sprinterach/). Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains ŁKA.
 
