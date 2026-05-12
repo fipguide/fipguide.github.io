@@ -3,6 +3,7 @@ draft: false
 title: "SNCF Voyageurs"
 country:
   - "france"
+  - "germany"
   - "monaco"
   - "italy"
   - "spain"
@@ -292,6 +293,10 @@ Pour les trajets à l’intérieur de la France, les frais de réservation natio
 | National Off-peak | 2 €        | 2 €       |
 | National Peak     | 16 €       | 11 €      |
 | International     | 40 €       | 20 €      |
+
+Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 / FIP 75 pour le trajet à l’intérieur de la France. Cependant, l’utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
+
+Quelques trains `TGV` circulent de Paris à Fribourg-en-Brisgau et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](/country/germany#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
 
 {{% /train-category %}}
 
