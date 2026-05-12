@@ -18,6 +18,7 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 - Reservierung ist grundsätzlich nicht erforderlich.
 - Zuschlag teilweise für Eurocity Direct (`ECD`) und Intercity Direct (`ICD`) erforderlich.
 - Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
+- Mitarbeitende der [SNCB / NMBS](/operator/sncb) können einen _Unlimited Pass_ erhalten.
 
 ## Gültigkeit FIP Tickets
 
@@ -25,6 +26,8 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+
+Mitarbeitende der [SNCB / NMBS](/operator/sncb) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der NS in den Niederlanden nutzen können. [^5]
 
 ## Zugkategorien und Reservierungen
 
@@ -228,3 +231,5 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+
+[^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
