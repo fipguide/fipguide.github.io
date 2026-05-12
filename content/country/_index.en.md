@@ -5,22 +5,22 @@ description: "A clear overview of all countries where FIP benefits are available
 params:
   countriesWithoutFip:
     - Åland Islands
-    - Albania (HSH - Hekurudha Shqiptare)
+    - Albania (HSH – Hekurudha Shqiptare)
     - Andorra
-    - Belarus (BČ - Belaruskaja Tschyhunka)
+    - Belarus (BČ – Belaruskaja Tschyhunka)
     - Cyprus
-    - Estonia (Elron - Eesti Liinirongid)
+    - Estonia (Elron – Eesti Liinirongid)
     - Faroe Islands
-    - Finland (VR - VR-Yhtymä)
+    - Finland (VR – VR-Yhtymä)
     - Iceland
-    - Isle of Man (IoMR - Isle of Man Railways)
+    - Isle of Man (IoMR – Isle of Man Railways)
     - Malta
-    - Moldova (CFM - Calea Ferată din Moldova)
-    - Russia (RZD - Rossiyskie zheleznye dorogi)
+    - Moldova (CFM – Calea Ferată din Moldova)
+    - Russia (RZD – Rossiyskie zheleznye dorogi)
     - San Marino
-    - Sweden (SJ - SJ AB)
-    - Turkey (TCDD - Türkiye Cumhuriyeti Devlet Demiryolları)
-    - Ukraine (UZ - Ukrzaliznytsia)
+    - Sweden (SJ – SJ AB)
+    - Turkey (TCDD – Türkiye Cumhuriyeti Devlet Demiryolları)
+    - Ukraine (UZ – Ukrzaliznytsia)
     - Vatican City
 ---
 

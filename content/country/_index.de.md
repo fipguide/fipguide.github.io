@@ -4,21 +4,21 @@ description: "Übersichtliche Darstellung aller Länder, in denen FIP-Vergünsti
 params:
   countriesWithoutFip:
     - Åland
-    - Albanien (HSH - Hekurudha Shqiptare)
+    - Albanien (HSH – Hekurudha Shqiptare)
     - Andorra
-    - Belarus (BČ - Belaruskaja Tschyhunka)
-    - Estland (Elron - Eesti Liinirongid)
+    - Belarus (BČ – Belaruskaja Tschyhunka)
+    - Estland (Elron – Eesti Liinirongid)
     - Färöer
-    - Finnland (VR - VR-Yhtymä)
-    - Isle of Man (IoMR - Isle of Man Railways)
+    - Finnland (VR – VR-Yhtymä)
+    - Isle of Man (IoMR – Isle of Man Railways)
     - Island
     - Malta
-    - Moldau (CFM - Calea Ferată din Moldova)
-    - Russland (RZD - Rossiyskie zheleznye dorogi)
+    - Moldau (CFM – Calea Ferată din Moldova)
+    - Russland (RZD – Rossiyskie zheleznye dorogi)
     - San Marino
-    - Schweden (SJ - SJ AB)
-    - Türkei (TCDD - Türkiye Cumhuriyeti Devlet Demiryolları)
-    - Ukraine (UZ - Ukrzaliznytsia)
+    - Schweden (SJ – SJ AB)
+    - Türkei (TCDD – Türkiye Cumhuriyeti Devlet Demiryolları)
+    - Ukraine (UZ – Ukrzaliznytsia)
     - Vatikanstadt
     - Zypern
 ---
