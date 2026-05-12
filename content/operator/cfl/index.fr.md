@@ -16,6 +16,7 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 
 - Voyage gratuit également sans FIP en deuxième classe
 - Supplément possible pour la première classe
+- Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_.
 
 ## Validité des Billets FIP
 
@@ -25,6 +26,7 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 {{< highlight important >}}
 Le Luxembourg offre la gratuité des transports publics pour les trajets intérieurs, indépendamment du FIP. Cela inclut tous les trains (sauf TGV), les tramways et les bus. Le voyage avec la CFL est donc gratuit en deuxième classe et aucun billet supplémentaire n’est requis. Le voyage en première classe nécessite un Coupon FIP ou un Billet FIP 50 de première classe. Pour les trajets au-delà du Luxembourg, par exemple vers l’Allemagne ou la Belgique, un billet est nécessaire à partir du point frontière tarifaire. Cela signifie, par exemple, qu’un billet direct, un coupon FIP valide ou une réduction nationale est requis pour voyager jusqu’au pays voisin. Un billet à partir de la première gare après la frontière n’est pas suffisant.
 {{< /highlight >}}
+Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains CFL au Luxembourg toute l’année. Cependant, ce pass est payant pour les agents de NS. [^2]
 
 ## Catégories de trains et réservations
 
@@ -147,3 +149,5 @@ Nous n’avons pas d’informations officielles concernant la validité des réd
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+
+[^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)

@@ -314,6 +314,23 @@ Les enfants de moins de 6 ans voyagent toujours gratuitement et n’ont pas beso
 Dans le Nordhessischer Verkehrsverbund (NVV), aucune réduction pour les employés de la DB n’est reconnue dans le trafic régional. Les réductions FIP ne sont donc pas valables.
 Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) des lignes régionales concernées est disponible.
 
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n'accepte pas les réductions FIP. Cela concerne les lignes suivantes : [^2]
+
+- RE 6 : Tübingen - Stuttgart
+- RE 10a : Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b : Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12 : Tübingen - Stuttgart - Heilbronn
+- RE 17a : Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c : Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18 : Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71 : Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l'opérateur ferroviaire agilis. Aucune réduction FIP n'est donc reconnue sur cette section. [^2]
+
 ### Trajets dans les réseaux de transport
 
 L’Allemagne est divisée en _Verkehrsverbünde_ (structure tarifaire combinée). Ce sont des sociétés publiques qui organisent le trafic local dans la région pour tous les opérateurs. Elles sont aussi responsables de la fixation des prix et tarifs des billets. Les trajets avec réductions FIP dans un seul réseau ne sont généralement pas autorisés. Un voyage doit toujours couvrir au moins deux réseaux, car dans ce cas les tarifs et billets des opérateurs peuvent être proposés. Il peut y avoir des exceptions à demander au réseau ou au guichet local. [^1]
@@ -369,3 +386,5 @@ La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple,
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig : Où ma réduction de voyage est-elle valable](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

@@ -313,6 +313,23 @@ Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.
 Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) der betroffenen Regionalzug-Linien.
 
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (früher SWEG Bahn Stuttgart) akzeptiert keine FIP Vergünstigungen. Dazu zählen die Linien: [^2]
+
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
+
 ### Fahrten in Verkehrsverbünden
 
 Deutschland ist in sogenannte _Verkehrsverbünde_ (kombinierte Tarifstruktur) gegliedert. Diese sind öffentliche Gesellschaften, die den Nahverkehr in der entsprechenden Region übergreifend für alle Betreiber organisieren. Sie sind auch für die Ausgestaltung von Ticketpreisen und Tarifen zuständig. Die Fahrt mit FIP Vergünstigungen in nur einem Verkehrsverbund ist in der Regel nicht zulässig. Eine Reise muss sich immer mindestens über zwei Verkehrsverbünde erstrecken, da in diesem Fall Tarife und Tickets von Betreibern angeboten werden dürfen. Es kann Ausnahmen geben, die beim jeweiligen Verkehrsverbund oder lokalen Ticketschaltern erfragt werden können. [^1]
@@ -372,3 +389,5 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

@@ -16,6 +16,7 @@ CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish
 
 - Free travel also without FIP in second class
 - Surcharge for first class possible
+- Employees of [SNCB / NMBS](/operator/sncb) and [NS](/operator/ns) can get an _Unlimited Pass_.
 
 ## Validity of FIP Tickets
 
@@ -25,6 +26,8 @@ CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish
 {{< highlight important >}}
 Luxembourg offers free public transport for domestic journeys regardless of FIP. This includes all train services (except TGV), trams, and buses. Travel with CFL is therefore free of charge in second class and no additional ticket is required. Travel in first class requires a FIP Coupon or FIP 50 Ticket for first class. For journeys beyond Luxembourg, e.g. towards Germany or Belgium, a ticket from the border point is required. This means that, for example, a through ticket, a valid FIP Coupon, or a national travel concession is needed for journeys to Germany to travel into the neighboring country. A ticket from the first station after the border is not sufficient.
 {{< /highlight >}}
+
+Employees of [SNCB / NMBS](/operator/sncb) and [NS](/operator/ns) can get an _Unlimited Pass_, which allows them to use CFL trains in Luxembourg for the entire year. However, this pass is subject to a charge for NS employees. [^2]
 
 ## Train Categories and Reservations
 
@@ -147,3 +150,5 @@ We have no official information regarding the validity of FIP discounts.
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+
+[^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)

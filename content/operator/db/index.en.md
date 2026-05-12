@@ -314,6 +314,23 @@ Children under 6 years always travel free and do not need their own ticket.
 In the Nordhessischer Verkehrsverbund (NVV), no discounts for DB employees are recognized in regional transport. Therefore, no FIP discounts apply here.
 A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) of the affected regional train lines is available.
 
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (formerly SWEG Bahn Stuttgart) does not accept FIP discounts. These include the following lines: [^2]
+
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
+
 ### Journeys in Transport Associations
 
 Germany is divided into so-called _Verkehrsverbünde_ (combined tariff structure). These are public organizations that organize local transport in the respective region across all operators. They are also responsible for ticket prices and tariffs. Travel with FIP discounts within a single transport association is generally not permitted. A journey must always cover at least two transport associations, as in this case tariffs and tickets from operators may be offered. There may be exceptions, which can be checked with the respective transport association or local ticket offices. [^1]
@@ -373,3 +390,5 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

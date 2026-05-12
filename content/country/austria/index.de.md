@@ -79,7 +79,7 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Slowenien
 
-Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽnotwendig oder FIP 50 Ticket zu buchen.
+Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽ notwendig oder FIP 50 Ticket zu buchen.
 
 ### Italien
 
