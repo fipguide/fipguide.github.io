@@ -5,6 +5,7 @@ country: "slovakia"
 params:
   operators_without_fip:
     - RegioJet
+    - Leo Express
 ---
 
 ## FIP Nutzung
