@@ -74,7 +74,7 @@ In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse g
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 
@@ -102,7 +102,7 @@ Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, alle
 Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit `RJ` gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend.
 {{% /train-category %}}
@@ -138,7 +138,7 @@ Fernverkehrszüge mit hohem Komfort und Halten nur an wichtigeren Bahnhöfen. Te
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
 {{% /train-category %}}
@@ -225,7 +225,7 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
 Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Abhängig von Strecke und Auslastung sowie Wagenkategorie.
 {{% /train-category %}}

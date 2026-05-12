@@ -63,7 +63,7 @@ Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge
 
 - F5: Oslo S – Kongsberg – Kristiansand – Stavanger (Sørlandsbanen)
 
-#### Reservierung
+#### Reservierungen
 
 Auf den Linien F4, F5, F6 und F7 ist eine Reservierung erforderlich:
 
@@ -140,7 +140,7 @@ Der Regiontog verbindet Orte und Städte mit Halten an fast allen Stationen. Tei
 
 - R50: Arendal – Nelaug (Arendalsbanen)
 
-#### Reservierung
+#### Reservierungen
 
 Auf den Linien R60 und R65 ist eine kostenfreie Reservierung erforderlich.
 

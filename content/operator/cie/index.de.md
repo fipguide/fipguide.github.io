@@ -43,7 +43,7 @@ InterCity-Züge verbinden die wichtigsten Städte Irlands, darunter Dublin, Cork
 Die First Class zwischen Dublin und Cork darf nicht mit FIP genutzt werden. Mehr Informationen zu den Klassenkategorien sind [weiter unten](#klassenkategorien) zu finden.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind optional, werden aber für viele Verbindungen kostenfrei ausgegeben und sind daher in der 2. Klasse empfehlenswert.
 

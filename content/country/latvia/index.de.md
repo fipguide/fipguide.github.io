@@ -26,26 +26,26 @@ Lettlands Eisenbahnnetz basiert auf der 1520 mm‑Breitspur. Der Personenverke
 | Land                                                      | Grenzpunkte     |
 | --------------------------------------------------------- | --------------- |
 | Estland                                                   | Valga           |
-| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis        |
-| Belarus/Weißrussland                                      | Grenze gesperrt |
 | Russland                                                  | Grenze gesperrt |
+| Belarus/Weißrussland                                      | Grenze gesperrt |
+| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis        |
 
 {{% /expander %}}
-
-### Belarus / Weißrussland
-
-Es verkehren aktuell keine Züge zwischen den beiden Ländern.
 
 ### Estland
 
 Von Tallin fahren Züge der estnischen Eisenbahngesellschaft Elron bis zum lettisch-estnischen Grenzbahnhof Valga. Von dort besteht Anschluss zu Zügen nach Riga und Vilnius. Sowohl auf der Strecke Riga - Valga als auch in Estland gelten keine FIP-Vergünstigungen.
+
+### Russland
+
+Es verkehren aktuell keine Züge zwischen den beiden Ländern.
+
+### Belarus / Weißrussland
+
+Es verkehren aktuell keine Züge zwischen den beiden Ländern.
 
 ### Litauen
 
 Zwischen Lettland und Litauen besteht erst seit Ende 2023 wieder ein regelmäßiger Zugverkehr. LTG-Link verkehrt morgens von Vilnius über Siaulia und Riga bis zum lettisch-estnischen Grenzbahnhof Valga und abends wieder zurück. Zwischen Vilinus und Riga gelten auch FIP Vergünstigungen von LTG-Link ([siehe Gültigkeit FIP Tickets](/operator/ltg#gültigkeit-fip-tickets)). Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)).
 
 Seit Sommer 2025 wird über eine Weiterführung der Züge Vilnius – Turmantas bis ins lettische Daugavpils verhandelt.
-
-### Russland
-
-Es verkehren aktuell keine Züge zwischen den beiden Ländern.

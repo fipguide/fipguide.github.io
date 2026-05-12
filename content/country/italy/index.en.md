@@ -33,15 +33,24 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 | Country                                                                             | Border Points                                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb))                                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-| [France](/country/france) ([SNCF](/operator/sncf))                                  | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | Slovenia (SŽ)                                                                       | Nova Gorica (fr), Villa Opicina (fr)                                                                |
 | [Greece](/country/greece) ([Attica](/operator/attica))                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
+| [France](/country/france) ([SNCF](/operator/sncf))                                  | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
+| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 
 \
 [>] = Towards (e.g., Domodossola [> Locarno] = Domodossola is the border point towards Locarno)
 
 {{% /expander %}}
+
+### Austria
+
+There are two international routes from Austria to Italy:
+
+- The Brenner railway: With Eurocity trains from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, and S3 trains from Brenner to Innsbruck. From Brenner, regional trains to Bolzano can be used.
+- The route via Tarvisio Boscoverde: With Railjets from Vienna to Venice and some regional trains from Villach to Trieste.
+
+On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian section for long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border. This can be paid directly on the train (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### Slovenia
 
@@ -55,6 +64,18 @@ The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only us
 Booking FIP Tickets or FIP Coupons for the cross-border section between Slovenia and Italy is not possible online. However, very cheap regular tickets for the cross-border section can be purchased via Trenitalia. These are more expensive via SŽ.
 {{% /highlight %}}
 
+### Greece
+
+Ferry services operated by [Attica](/operator/attica) can be used between Italy and Greece.
+
+### France
+
+Between Milan and Paris, cross-border Frecciarossa trains operate. FIP Tickets or FIP Coupons do not apply in France for these trains.
+
+Additionally, competing `TGV` trains of SNCF run between Turin and Paris. These can be used in France with FIP discounts, but FIP Global Fare tickets must be purchased.
+
+Cross-border regional trains of SNCF can be used from Grasse/Cannes/Nice via Monaco to Ventimiglia. FIP Tickets and FIP Coupons of SNCF are valid to Ventimiglia.
+
 ### Switzerland
 
 From Switzerland, both cross-border long-distance and regional trains can be used to travel to Italy. Milan can be reached via Como or Domodossola from the Swiss network. Trains via Como usually come from Zurich, those via Domodossola from Bern and Basel. Both routes have Eurocity connections and regional trains. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a reservation is required, which includes a surcharge. The `ECE` train Frankfurt – Milan and the `EC` trains Zurich – Milan also operate.
@@ -65,23 +86,10 @@ The surcharge or reservation price for cross-border `EC`/`ECE` trains to Italy i
 For the Milan – Como – Switzerland route, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates on this route and does not accept FIP Tickets or FIP Coupons. However, tickets are bookable online on the Trenord website and are comparatively cheap, unlike the required cross-border reservation in Eurocity trains. Changing trains in Chiasso can therefore be a much more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
 {{% /highlight %}}
 
-### Austria
+### Vatican City
 
-There are two international routes from Austria to Italy:
+There are currently no public passenger trains to Vatican City.
 
-- The Brenner railway: With Eurocity trains from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona, and S3 trains from Brenner to Innsbruck. From Brenner, regional trains to Bolzano can be used.
-- The route via Tarvisio Boscoverde: With Railjets from Vienna to Venice and some regional trains from Villach to Trieste.
+### San Marino
 
-On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian section for long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border. This can be paid directly on the train (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
-
-### France
-
-Between Milan and Paris, cross-border Frecciarossa trains operate. FIP Tickets or FIP Coupons do not apply in France for these trains.
-
-Additionally, competing `TGV` trains of SNCF run between Turin and Paris. These can be used in France with FIP discounts, but FIP Global Fare tickets must be purchased.
-
-Cross-border regional trains of SNCF can be used from Grasse/Cannes/Nice via Monaco to Ventimiglia. FIP Tickets and FIP Coupons of SNCF are valid to Ventimiglia.
-
-### Greece
-
-Ferry services operated by [Attica](/operator/attica) can be used between Italy and Greece.
+There is currently no rail connection between San Marino and Italy.

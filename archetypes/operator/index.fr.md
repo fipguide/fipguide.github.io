@@ -86,7 +86,7 @@ Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit 
 D’autres informations importantes peuvent être ajoutées ici.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 <!--
   Description des conditions de réservation pour cette catégorie de train.

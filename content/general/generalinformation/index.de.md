@@ -46,7 +46,11 @@ FIP Vergünstigungen bestehen in verschiedenen Formen, für die Nutzung wird imm
 
 ### FIP Freifahrtscheine
 
-FIP Freifahrtscheine (umgangssprachlich Auslandsfreifahrt) berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden, die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen.
+FIP Freifahrtscheine (umgangssprachlich Auslandsfreifahrt) berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden, die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. Einige Bahngesellschaften haben bei FIP Freifahrtscheinen für ihre eigenen Mitarbeitenden abweichende Regelungen.
+
+{{% highlight tip %}}
+In der Praxis ist die 2-Tagesregelung nicht immer bekannt. Im Zug kann [diese übersetzte Erläuterungstabelle](/en/generalinformation/2-day-rule.pdf) ausgedruckt helfen.
+{{% /highlight %}}
 
 FIP Freifahrtscheine werden im Englischen auch als _FIP Coupons_ bezeichnet. Pro Kalenderjahr ist die Beantragung eines FIP Freifahrtscheins je Betreiber möglich. Einige Bahngesellschaften können für ihre eigenen Mitarbeitenden abweichende Regelungen haben. Das bedeutet, es können in jedem Jahr von beliebig vielen Betreibern je ein FIP Freifahrtschein mit ein bis zu vier Feldern, bestellt werden. Entscheidend für das Kalenderjahr ist das Datum, an dem die Gültigkeit beginnt. Der Antrag der internationalen Freifahrt erfolgt in der Regel über den Personalservice oder das Reisezentrum deines Eisenbahnverkehrsunternehmens. Manche Unternehmen bieten auch Online-Portale an.
 

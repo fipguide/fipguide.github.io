@@ -86,7 +86,7 @@ Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkate
 Hier können weitere wichtige Informationen ergänzt werden.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 <!--
   Beschreibung der Reservierungsbedingung für diese Zugkategorie.

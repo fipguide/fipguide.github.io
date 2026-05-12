@@ -66,7 +66,7 @@ Intercity trains are similar to `ICL` trains but stop more frequently and are sl
 
 Eurocity-Express trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense.
 
-#### Reservation
+#### Reservations
 
 A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer).
 

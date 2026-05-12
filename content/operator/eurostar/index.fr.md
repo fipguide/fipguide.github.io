@@ -241,7 +241,7 @@ Cela garantit une protection en cas de retard d’un train britannique entraîna
 
 Si l’arrivée se fait dans une autre gare terminus de Londres et qu’il est nécessaire d’utiliser le métro pour rejoindre St Pancras, les billets vers London International incluent le trajet en métro.
 
-##### Réservation des billets
+##### Réservations des billets
 
 Les Billets FIP vers London International CIV ne peuvent probablement être achetés qu’au guichet dans les gares britanniques.
 

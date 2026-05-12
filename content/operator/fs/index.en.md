@@ -51,7 +51,7 @@ Trains of the private operator Italo are also marked as AV but cannot be used wi
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -74,7 +74,7 @@ Trains of the private operator Italo are also marked as AV but cannot be used wi
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -93,7 +93,7 @@ Fast trains outside high-speed lines.
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -125,7 +125,7 @@ Connecting buses for high-speed trains.
 
 Fast trains mostly outside high-speed lines.
 
-#### Reservierung
+#### Reservierungen
 
 **Cost:** € 3 (1st/2nd class)
 
@@ -163,7 +163,7 @@ The reservation price always includes a surcharge when using a FIP Coupon. For c
 
 International fast trains to Germany, Austria, and Switzerland.
 
-#### Reservation
+#### Reservations
 
 **Cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -195,7 +195,7 @@ National free travel for Deutsche Bahn staff is not recognized in Germany. If an
 
 _Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP global fare.
 
-#### Reservation
+#### Reservations
 
 The variable reservation price always includes a surcharge when using a FIP Coupon.
 
@@ -276,7 +276,11 @@ Le Frecce long-distance trains have special class categories. [^1]
 
 ### Online
 
-{{% booking id="fs-website" /%}}
+{{% booking id="fs-website" %}}
+{{% highlight inofficial %}}
+We are currently receiving increasing feedback that booking FIP Tickets and reservations on the FS website is not possible. It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
+{{% /highlight %}}
+{{% /booking %}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Only ECE trains from Milan to Germany or EC trains on the Brenner route between Italy and Germany. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss/Austrian and Italian section, for Deutsche Bahn employees."
@@ -300,6 +304,9 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
   classes.first="€ 3 / € 25"
   classes.second="€ 3 / € 25"
 %}}
+{{% highlight inofficial %}}
+We are currently receiving increasing feedback that booking FIP Tickets and reservations at DB ticket offices is not possible. Booking is only possible via the old sales system. Where possible, staff at the DB Reisezentrum can switch to this system (see [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
+{{% /highlight %}}
 The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 {{% /booking %}}
 

@@ -138,98 +138,28 @@ L’« Allianz pro Schiene » récompense chaque année les plus belles gares 
 
 | Pays                                                                           | Points frontière                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                          | Aachen Süd (Gr)                                                                                                                                                                                        |
-| [BSB](/operator/bsb)                                                           | Friedrichshafen, Langenargen, Lindau, Constance, Radolfzell, Schaffhausen, Überlingen                                                                                                                  |
 | [Danemark](/country/denmark) ([DSB](/operator/dsb))                            | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr)                                                                                                                      |
-| [Eurostar](/operator/eurostar)                                                 | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne                                                                                                                                       |
-| [France](/country/france) ([SNCF](/operator/sncf))                             | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr)                                                                                        |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                       | Igel (Gr)                                                                                                                                                                                              |
-| [Pays-Bas](/country/netherlands) ([NS](/operator/ns))                          | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr)                                                                                                      |
-| [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn                                                                                                                     |
+| Suède (SJ)                                                                     | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr)                                                                                                                              |
 | [Pologne](/country/poland) ([PKP](/operator/pkp))                              | Alhlbeck (Gr), Forst (Gr), Francfort (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr)                                                                        |
 | [Tchéquie](/country/czechia) ([ČD](/operator/cd))                              | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
-| Suède (SJ)                                                                     | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr)                                                                                                                              |
+| [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn                                                                                                                     |
+| [BSB](/operator/bsb)                                                           | Friedrichshafen, Langenargen, Lindau, Constance, Radolfzell, Schaffhausen, Überlingen                                                                                                                  |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Constance, Schaffhausen, Waldshut                                                                                                                                                        |
+| [France](/country/france) ([SNCF](/operator/sncf))                             | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr)                                                                                        |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                       | Igel (Gr)                                                                                                                                                                                              |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                          | Aachen Süd (Gr)                                                                                                                                                                                        |
+| [Eurostar](/operator/eurostar)                                                 | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne                                                                                                                                       |
+| [Pays-Bas](/country/netherlands) ([NS](/operator/ns))                          | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr)                                                                                                      |
 
 MS = Mitte See
 
 {{% /expander %}}
-
-### Belgique
-
-#### Grande vitesse
-
-Depuis la Belgique, l’`ICE` transfrontalier vers Francfort, Cologne et Aix-la-Chapelle peut être utilisé. À partir de juin 2026, une liaison en week-end entre Oostende et Cologne sera également proposée. À partir de septembre 2026, une connexion directe entre Anvers et Cologne via l’aéroport de Bruxelles-Zaventem sera introduite.
-
-Pour toutes les liaisons `ICE`, un billet pour la section belge jusqu’à Aachen Süd(Gr) de la SNCB ainsi qu’un billet pour la section allemande à partir de Aachen Süd(Gr) de la DB ou un Billet FIP 50 direct est nécessaire.
-
-Avec Eurostar (anciennement Thalys), le réseau DB est également accessible depuis la Belgique. Un billet FIP spécial Eurostar est requis pour l’ensemble du trajet (y compris en Allemagne) ([voir Eurostar](/operator/eurostar "Eurostar")).
-
-#### Régional
-
-Le S41 exploité par la SNCB circule entre Liège-Saint-Lambert et Aix-la-Chapelle. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^5] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Süd (Gr) et Aachen Hbf, ou si les Coupons FIP de la SNCB sont acceptés jusqu'à Aachen Hbf.
-
-{{% highlight tip %}}
-Nous recommandons d'interroger le personnel du train. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
-{{% /highlight %}}
 
 ### Danemark
 
 Depuis le Danemark, l’`ECE` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
 
 En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni la DSB côté danois ni la DB côté allemand n’y circulent, donc aucune réduction FIP n’est possible sur cet itinéraire. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde.
-
-### France
-
-Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
-
-{{% highlight tip %}}
-Une option économique pour rejoindre l'Allemagne depuis Strasbourg est le tram jusqu'à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l'Ortenau S-Bahn, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, jusqu'à Offenburg. Le FIP n'est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^4] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) le sont.
-{{% /highlight %}}
-
-En plus des grandes lignes, plusieurs liaisons régionales existent. Pour les utiliser sur tout le trajet, il faut des Coupons FIP de la DB et de la SNCF ou un billet FIP 50 valable sur toute la ligne. Exemples : Metz – Sarrebruck ou Wissembourg – Neustadt an der Weinstraße. Les trains Strasbourg – Kehl/Offenburg sont exploités côté allemand par la SWEG, où les Coupons FIP DB ne sont pas valables.
-
-### Luxembourg
-
-Depuis le Luxembourg, des trains régionaux transfrontaliers circulent vers Coblence / Wittlich / Trèves. Pour la section luxembourgeoise en 2e classe, aucun billet n’est requis, le trafic régional étant gratuit. En Allemagne, un Coupon FIP (ou FIP 50) DB est nécessaire.
-Un train direct CFL Luxembourg – Düsseldorf circule une fois par jour. Entre Düsseldorf et Coblence, il est exploité comme train grandes lignes `IC`.
-
-Il existe aussi un bus CFL Luxembourg – Sarrebruck, sans réduction FIP.
-
-### Pays-Bas
-
-Depuis Amsterdam, l’`ICE` transfrontalier vers Francfort / Cologne / Düsseldorf ou Berlin / Hanovre permet de rejoindre le réseau DB. Pour les trajets transfrontaliers, des Coupons FIP NS et DB sont nécessaires.
-
-Il existe aussi divers trains régionaux, mais seuls deux acceptent le FIP :
-
-- Enschede – Dortmund
-- Enschede – Münster
-
-La DB Regio circule sur la section allemande. Avec un billet supplémentaire pour la section NS ou un billet FIP 50 valable sur tout le trajet, tout est couvert.
-
-Sur les `RE` Venlo – Hamm et Arnhem – Düsseldorf, le Deutschlandticket est valable sur tout le trajet. Si vous possédez ce billet, vous pouvez donc aussi entrer en Allemagne.
-
-### Autriche
-
-Entre l’Autriche et l’Allemagne, il existe, outre diverses liaisons régionales, deux grandes lignes :
-
-- Une ligne `ICE` Francfort / Cologne (ou certains trains depuis Berlin) – Nuremberg – Passau – Linz – Vienne.
-- Des `ICE`, `RJ` et `IC` reliant diverses villes autrichiennes à Munich via Salzbourg.
-
-Pour la section autrichienne, un Coupon FIP ÖBB est requis.
-
-Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP ÖBB et DB ou un billet FIP 50 valable sur tout le trajet.
-
-#### Außenfernbahn
-
-Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Pfronten-Steinach via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
-
-- trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
-- trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
-
-Les trajets purement internes à l’Autriche (départ et arrivée en Autriche) sont exclus. Les Coupons FIP de l’ÖBB ne sont valables pour aucun trajet sur cette ligne.
-
-Les règles sont analogues à celles du Deutschlandticket ou de la Bahncard 100. [^2] [^3]
 
 ### Pologne
 
@@ -257,6 +187,28 @@ Même chose pour le point frontière nord Aš. À Furth im Wald, le train régio
 
 Aux points frontières Hrádek nad Nisou (ligne Liberec – Zittau), Varnsdorf (ligne Zittau – Seifhennersdorf), Vejprty (ligne Chomutov – Cranzahl, desservie uniquement en été les week-ends et jours fériés) et Vojtanov (ligne Cheb – Zwickau), le FIP est inutile, car des compagnies privées non FIP circulent des deux côtés.
 
+### Autriche
+
+Entre l’Autriche et l’Allemagne, il existe, outre diverses liaisons régionales, deux grandes lignes :
+
+- Une ligne `ICE` Francfort / Cologne (ou certains trains depuis Berlin) – Nuremberg – Passau – Linz – Vienne.
+- Des `ICE`, `RJ` et `IC` reliant diverses villes autrichiennes à Munich via Salzbourg.
+
+Pour la section autrichienne, un Coupon FIP ÖBB est requis.
+
+Il existe aussi des liaisons régionales nécessitant toujours des Coupons FIP ÖBB et DB ou un billet FIP 50 valable sur tout le trajet.
+
+#### Außenfernbahn
+
+Sur la ligne de l’[Außenfernbahn](https://en.wikipedia.org/wiki/Ausserfern_Railway) entre Garmisch-Partenkirchen et Pfronten-Steinach via Reutte in Tirol, des trains de DB Regio circulent d’Allemagne vers l’Autriche et inversement. Les Coupons FIP de la DB (ainsi que les avantages nationaux pour les employés DB) sont valables pour les trajets suivants :
+
+- trajets directs d’Allemagne via l’Autriche vers l’Allemagne (transit)
+- trajets commençant ou se terminant en Allemagne (trajets transfrontaliers)
+
+Les trajets purement internes à l’Autriche (départ et arrivée en Autriche) sont exclus. Les Coupons FIP de l’ÖBB ne sont valables pour aucun trajet sur cette ligne.
+
+Les règles sont analogues à celles du Deutschlandticket ou de la Bahncard 100. [^2] [^3]
+
 ### Suisse
 
 La Suisse dispose de plusieurs liaisons transfrontalières avec l’Allemagne.
@@ -280,6 +232,60 @@ Pour ce court tronçon, il est préférable d’acheter un billet FIP 50, sinon 
 {{% /highlight %}}
 
 Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est également accessible depuis la Suisse par ferry, certains acceptant le FIP.
+
+### France
+
+Entre la France et l'Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s'agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+
+La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l'obligation de réservation s'applique jusqu'au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l'Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
+
+{{% highlight tip %}}
+Une option économique pour rejoindre l'Allemagne depuis Strasbourg est le tram jusqu'à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l'Ortenau S-Bahn, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, jusqu'à Offenburg. Le FIP n'est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^4] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) le sont.
+{{% /highlight %}}
+
+{{% highlight important %}}
+Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l'exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+{{% /highlight %}}
+
+En plus des grandes lignes, plusieurs liaisons régionales existent. Pour les utiliser sur tout le trajet, il faut des Coupons FIP de la DB et de la SNCF ou un billet FIP 50 valable sur toute la ligne. Exemples : Metz – Sarrebruck ou Wissembourg – Neustadt an der Weinstraße. Les trains Strasbourg – Kehl/Offenburg sont exploités côté allemand par la SWEG, où les Coupons FIP DB ne sont pas valables.
+
+### Luxembourg
+
+Depuis le Luxembourg, des trains régionaux transfrontaliers circulent vers Coblence / Wittlich / Trèves. Pour la section luxembourgeoise en 2e classe, aucun billet n’est requis, le trafic régional étant gratuit. En Allemagne, un Coupon FIP (ou FIP 50) DB est nécessaire.
+Un train direct CFL Luxembourg – Düsseldorf circule une fois par jour. Entre Düsseldorf et Coblence, il est exploité comme train grandes lignes `IC`.
+
+Il existe aussi un bus CFL Luxembourg – Sarrebruck, sans réduction FIP.
+
+### Belgique
+
+#### Grande vitesse
+
+Depuis la Belgique, l’`ICE` transfrontalier vers Francfort, Cologne et Aix-la-Chapelle peut être utilisé. À partir de juin 2026, une liaison en week-end entre Oostende et Cologne sera également proposée. À partir de septembre 2026, une connexion directe entre Anvers et Cologne via l’aéroport de Bruxelles-Zaventem sera introduite.
+
+Pour toutes les liaisons `ICE`, un billet pour la section belge jusqu’à Aachen Süd(Gr) de la SNCB ainsi qu’un billet pour la section allemande à partir de Aachen Süd(Gr) de la DB ou un Billet FIP 50 direct est nécessaire.
+
+Avec Eurostar (anciennement Thalys), le réseau DB est également accessible depuis la Belgique. Un billet FIP spécial Eurostar est requis pour l’ensemble du trajet (y compris en Allemagne) ([voir Eurostar](/operator/eurostar "Eurostar")).
+
+#### Régional
+
+Le S41 exploité par la SNCB circule entre Liège-Saint-Lambert et Aix-la-Chapelle. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^5] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Süd (Gr) et Aachen Hbf, ou si les Coupons FIP de la SNCB sont acceptés jusqu'à Aachen Hbf.
+
+{{% highlight tip %}}
+Nous recommandons d'interroger le personnel du train. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
+{{% /highlight %}}
+
+### Pays-Bas
+
+Depuis Amsterdam, l’`ICE` transfrontalier vers Francfort / Cologne / Düsseldorf ou Berlin / Hanovre permet de rejoindre le réseau DB. Pour les trajets transfrontaliers, des Coupons FIP NS et DB sont nécessaires.
+
+Il existe aussi divers trains régionaux, mais seuls deux acceptent le FIP :
+
+- Enschede – Dortmund
+- Enschede – Münster
+
+La DB Regio circule sur la section allemande. Avec un billet supplémentaire pour la section NS ou un billet FIP 50 valable sur tout le trajet, tout est couvert.
+
+Sur les `RE` Venlo – Hamm et Arnhem – Düsseldorf, le Deutschlandticket est valable sur tout le trajet. Si vous possédez ce billet, vous pouvez donc aussi entrer en Allemagne.
 
 ## Sources
 

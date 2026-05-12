@@ -41,7 +41,7 @@ International trains running between Bucharest in Romania and Sofia or Varna. Th
 
 Some overnight trains also include couchette or sleeper cars, which can be used with a corresponding reservation.
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory in both classes.
 {{% /train-category %}}
@@ -55,7 +55,7 @@ A seat reservation is mandatory in both classes.
 %}}
 Relatively fast trains connecting major cities with few stops. They often use more modern rolling stock, e.g., former DB IC coaches. Overnight trains may include couchette or sleeper cars, which require a reservation.
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains (marked with _R_).
 {{% /train-category %}}
@@ -69,7 +69,7 @@ A reservation is required for some trains (marked with _R_).
 %}}
 National trains connecting cities with few stops.
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains (marked with _R_).
 {{% /train-category %}}

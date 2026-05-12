@@ -44,7 +44,7 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 Regional trains operating between Łódź and Warsaw, stopping at only a few stations along the way. Some trains only stop at the most important stations of the two cities and not at all in between. Trains have the abbreviation `ŁS` at the beginning in journey planners followed by a specific train number.
 
-#### Reservation
+#### Reservations
 
 A free reservation is possible on these trains. However, they can also be used without a reservation. More information on the [ŁKA website in Polish](https://lka.lodzkie.pl/strona-glowna/Nowe-zasady-rezerwacji-miejsc-w-Sprinterach/). Only 2nd class tickets are offered, as there is no 1st class on ŁKA trains.
 

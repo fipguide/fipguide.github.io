@@ -49,7 +49,7 @@ High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, o
 %}}
 High-speed trains from France to Zurich via Basel.
 
-#### Reservation
+#### Reservations
 
 Reservations are mandatory outside Switzerland and for cross-border journeys.
 {{% /train-category %}}
@@ -64,7 +64,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys.
 %}}
 International trains to Germany and Italy.
 
-#### Reservation
+#### Reservations
 
 1st class: €13 \
 2nd class: €11
@@ -94,7 +94,7 @@ Fast national trains stopping only in major cities and transfer stations.
 %}}
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
 
-#### Reservation
+#### Reservations
 
 A reservation is required except in seat cars when operating as Intercity, Eurocity, or regional trains.
 {{% /train-category %}}
@@ -110,7 +110,7 @@ A reservation is required except in seat cars when operating as Intercity, Euroc
 %}}
 SBB Panoramic trains via the classic Gotthard route running mid-April to mid-October. Advertised as a journey in combination with a boat of Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), where SP discounts apply, see [Schweizer Privatbahnen - SGV](/operator/sp#sgv). For travellers doing the full journey by rail and ship between Lugano and Lucerne (and vice versa) a free luggage transfer is offered.
 
-#### Reservation
+#### Reservations
 
 A special reservation for 24 CHF is required.
 

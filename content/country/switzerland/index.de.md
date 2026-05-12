@@ -37,8 +37,8 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 | Land                                                    | Grenzpunkte                                                                                                                         |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Deutschland](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
-| [Italien](/country/italy) ([FS](/operator/fs))          | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb))  | Buchs (SG), St. Margrethen                                                                                                          |
+| [Italien](/country/italy) ([FS](/operator/fs))          | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Frankreich](/country/france) ([SNCF](/operator/sncf))  | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
@@ -68,15 +68,17 @@ Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theore
 
 Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. Auch mit Fähren, die teilweise mit FIP nutzbar sind, kann die Schweiz erreicht werden.
 
-### Frankreich
+### Österreich
 
-Aus Frankreich verkehren grenzüberschreitende TGV Züge nach Zürich über Basel. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge").
+Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
 
-Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
+Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
-Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
+### Liechtenstein
 
-`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
+
+Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
 
 ### Italien
 
@@ -88,17 +90,15 @@ Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `E
 Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere aber teurere Variante bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
 {{% /highlight %}}
 
-### Liechtenstein
+### Frankreich
 
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
+Aus Frankreich verkehren grenzüberschreitende TGV Züge nach Zürich über Basel. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge").
 
-Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
+Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
-### Österreich
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
-Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
-
-Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
+`TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
 
 ## Quellen
 

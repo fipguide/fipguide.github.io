@@ -3,6 +3,7 @@ draft: false
 title: "SNCF Voyageurs"
 country:
   - "france"
+  - "germany"
   - "monaco"
   - "italy"
   - "spain"
@@ -58,7 +59,7 @@ Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedo
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
@@ -97,7 +98,7 @@ Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutsch
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
@@ -120,7 +121,7 @@ Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und m
 
 Auf der [Intercité-Website](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) der SNCF werden Verbindungen mit und ohne Reservierungspflicht aufgelistet. Alternativ kann über die [Zugsuche](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) der SNCF für jede Zugnummer die Reservierungsbedingungen abgerufen werden.
 
-#### Reservierung
+#### Reservierungen
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
 
@@ -140,7 +141,7 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 %}}
 Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindungen per Nightjet sind seit Dezember 2025 eingestellt.
 
-#### Reservierung
+#### Reservierungen
 
 Kosten abhängig von Strecke und Auslastung.
 
@@ -292,6 +293,8 @@ Für Fahrten innerhalb Frankreichs gelten die normalen inländischen `TGV` Reser
 | International                  | 40 €      | 20 €      |
 
 Für die Direktzüge zwischen Frankfurt (Main) und Bordeaux im Juli und August werden von der DB keine FIP 50 / FIP 75 Tickets für die Fahrt innerhalb Frankreichs verkauft. Eine Nutzung mit FIP Freifahrtschein und Reservierung der SNCF ist jedoch möglich. [^5]
+
+Einige wenige `TGV` Züge verkehren von Paris nach Freiburg und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](/country/germany#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
 
 {{% /train-category %}}
 

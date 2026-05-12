@@ -53,7 +53,7 @@ GySEV operates Scarbantia IC trains between Sopron and Budapest.
 In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are only mandatory between Győr and Budapest. For journeys between Sopron and Győr, no reservation is required.
 
