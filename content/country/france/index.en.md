@@ -120,3 +120,7 @@ With [Euskotren](/operator/euskotren), you can travel with the special FIP Ticke
 There are also regional Rodalies de Catalunya trains operated by Renfe with cross-border connections to Cerbère and Latour-de-Carol. FIP Tickets can be purchased directly on the train from the train staff or at Renfe ticket counters in Spain.
 
 Overall, there are very few cross-border connections, which were much better developed a few years ago.
+
+### Andorra
+
+There is currently no rail connection between Andorra and France.
