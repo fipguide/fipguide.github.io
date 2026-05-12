@@ -89,8 +89,8 @@ Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mai
 
 ### Vatikanstadt
 
-Zur Zeit gibt keine öffentlichen Passagierzüge in die Vatikanstadt.
+Zurzeit gibt keine öffentlichen Passagierzüge in die Vatikanstadt.
 
 ### San Marino
 
-Zur Zeit gibt es keine Schieneverbindung zwischen San Marino und Italien.
+Zurzeit gibt es keine Schieneverbindung zwischen San Marino und Italien.

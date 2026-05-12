@@ -123,4 +123,4 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 
 ### Andorra
 
-Zur Zeit gibt es keine Schienenverbindung zwischen Andorra und Frankreich.
+Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Frankreich.

@@ -52,7 +52,7 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 
 ### Andorra
 
-Zur Zeit gibt es keine Schienenverbindung zwischen Andorra und Spanien.
+Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Spanien.
 
 ### Portugal
 

@@ -51,7 +51,7 @@ Zurzeit verkehren leider keine Personenzüge zwischen Griechenland und Bulgarien
 
 ### Nordmazedonien
 
-Es gibt zur Zeit keine Schienenverbindung zwischen Nordmazedonien und Bulgarien.
+Es gibt zurzeit keine Schienenverbindung zwischen Nordmazedonien und Bulgarien.
 
 ### Serbien
 
