@@ -18,6 +18,7 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 - Les réservations ne sont généralement pas nécessaires.
 - Un supplément est partiellement nécessaire pour les trains Eurocity Direct (`ECD`) et Intercity Direct (`ICD`).
 - Avec un Coupon FIP, un coupon d’accès aux portiques est requis pour entrer dans les gares.
+- Les agents de [SNCB / NMBS](/operator/sncb) peuvent obtenir un _Unlimited Pass_.
 
 ## Validité des Billets FIP
 
@@ -25,6 +26,8 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un Billet FIP 50 continu ou des Coupons FIP valables dans les deux pays.
+
+Les agents de [SNCB / NMBS](/operator/sncb) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains NS aux Pays-Bas toute l’année. [^5]
 
 ## Catégories de trains et réservations
 
@@ -229,3 +232,5 @@ NS se distingue par une grande fréquence et des connexions efficaces. Des retar
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+
+[^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)

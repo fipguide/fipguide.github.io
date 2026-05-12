@@ -79,7 +79,7 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 ### Slovenia
 
-From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽis required from the border or a FIP 50 ticket must be booked.
+From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽ is required from the border or a FIP 50 ticket must be booked.
 
 ### Italy
 
