@@ -86,3 +86,11 @@ Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `E
 {{% highlight tip %}}
 Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere, aber teurere Variante, bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
 {{% /highlight %}}
+
+### Vatikanstadt
+
+Zurzeit gibt keine öffentlichen Passagierzüge in die Vatikanstadt.
+
+### San Marino
+
+Zurzeit gibt es keine Schieneverbindung zwischen San Marino und Italien.

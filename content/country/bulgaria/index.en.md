@@ -50,6 +50,10 @@ For the route between Turkey and Bulgaria, tickets can only be purchased at an i
 
 Currently, there are no passenger trains between Greece and Bulgaria.
 
+### North Macedonia
+
+There is currently no rail connection between North Macedonia and Bulgaria.
+
 ### Serbia
 
 Currently, only the private Optima Express runs once a week across the border between Serbia and Bulgaria. This train runs from Villach (Austria) to Turkey and uses some lines that are otherwise not served by passenger trains. Car transport is also possible. FIP is not valid on any part of this route, and disembarking is only possible in Edirne, Turkey. More information is available on the [Optima Express website](https://optimatours.de/en).

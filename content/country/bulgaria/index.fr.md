@@ -50,6 +50,10 @@ Pour la liaison entre la Turquie et la Bulgarie, les billets ne peuvent être ac
 
 Actuellement, aucun train de voyageurs ne circule entre la Grèce et la Bulgarie.
 
+### Macédoine du Nord
+
+Il n’existe actuellement aucune liaison ferroviaire entre la Macédoine du Nord et la Bulgarie.
+
 ### Serbie
 
 Actuellement, seul l’Optima Express privé circule une fois par semaine entre la Serbie et la Bulgarie. Ce train relie Villach (Autriche) à la Turquie et emprunte des lignes qui ne sont plus desservies par des trains de voyageurs. Le transport de voitures est également possible. La FIP n’est valable sur aucune partie de ce trajet, et la descente n’est possible qu’à Edirne, en Turquie. Plus d’informations sur le [site de l’Optima Express](https://optimatours.de/en).

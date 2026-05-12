@@ -85,3 +85,11 @@ The surcharge or reservation price for cross-border `EC`/`ECE` trains to Italy i
 {{% highlight tip %}}
 For the Milan – Como – Switzerland route, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates on this route and does not accept FIP Tickets or FIP Coupons. However, tickets are bookable online on the Trenord website and are comparatively cheap, unlike the required cross-border reservation in Eurocity trains. Changing trains in Chiasso can therefore be a much more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
 {{% /highlight %}}
+
+### Vatican City
+
+There are currently no public passenger trains to Vatican City.
+
+### San Marino
+
+There is currently no rail connection between San Marino and Italy.
