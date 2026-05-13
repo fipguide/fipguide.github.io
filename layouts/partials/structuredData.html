@@ -1,14 +1,16 @@
 {{ $dateMachine := partial "helper/dateMachine" . }}
 {{ $mainEntity := "" }}
+{{ $faqPages := slice }}
+{{ if and .File (eq .File.Dir "general/faq/") }}
+  {{ $faqPages = sort .Pages "Weight" }}
+{{ end }}
 {{ if (or (eq .Page.Type "country") (eq .Page.Type "operator")) }}
   {{ $mainEntity = "Article" }}
 {{ else if eq .Page.Type "news" }}
   {{ $mainEntity = "NewsArticle" }}
-{{ else if eq .Page.Type "generalinformation" }}
+{{ else if gt (len $faqPages) 0 }}
   {{ $mainEntity = "FAQPage" }}
 {{ end }}
-
-{{ $faq := site.GetPage "section" "generalinformation/faq" }}
 
 {{ $image := (partial "helper/contentImage" .).Permalink }}
 
@@ -61,8 +63,8 @@
         "image": {{ $image }},
         {{- if eq $mainEntity "FAQPage" }}
           "mainEntity": [
-            {{- $last := sub (len $faq.Pages) 1 -}}
-            {{- range $i, $item := $faq.Pages }}
+            {{- $last := sub (len $faqPages) 1 -}}
+            {{- range $i, $item := $faqPages }}
               {
                 "@type": "Question",
                 "name": "{{ $item.Title }}",

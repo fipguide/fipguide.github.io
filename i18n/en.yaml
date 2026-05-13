@@ -36,8 +36,8 @@ contact:
       Unfortunately, we are unable to help in this case. We are an independent
       community project and therefore cannot influence the issuance of FIP Cards
       and FIP Coupons. All information we have regarding the application for FIP
-      Cards and FIP Coupons can be found on the [FIP Application](/fip-validity)
-      page.
+      Cards and FIP Coupons can be found on the [FIP
+      Application](/general/fip-validity) page.
 
       For further information, please contact your responsible HR department.
   formAriaLabel: Contact Form
@@ -45,8 +45,8 @@ contact:
     label: General question about using FIP
     note: >-
       We answer general questions on the [General
-      Information](/generalinformation) page. Feel free to use the search for
-      specific terms.
+      Information](/general/generalinformation) page. Feel free to use the
+      search for specific terms.
 
       Detailed information can be found on [country pages](/country) and
       [operator pages](/operator).
@@ -118,14 +118,15 @@ fipValidity:
     First select the issuer of your FIP Card. If you are eligible, you can
     request the FIP Coupons through your employer. Please note that we are
     unable to assist with the issuance of FIP Coupons. You can find an overview
-    of all FIP Coupons in the [FIP Application](/fip-validity).
+    of all FIP Coupons in the [FIP Application](/general/fip-validity).
   fip-global-fare: FIP Global Fare
   fip-reduced-ticket: FIP Reduced Ticket
   fip-reduced-ticket-description: >-
     Railway companies typically offer a discount with FIP, also known as FIP50
     or FIP75. The discount is usually 50 %, sometimes 75 %. To find out what
     discount applies to you, first select the issuer of your FIP Card. You can
-    find an overview of all discounts in the [FIP Application](/fip-validity).
+    find an overview of all discounts in the [FIP
+    Application](/general/fip-validity).
   general: General
   issuer: FIP Card Issuer
   national-discountsHeading: National Discounts (Non-FIP)
@@ -181,6 +182,11 @@ menu:
     dropdown-label: Available countries
     label: Countries
     title: Open Country-Dropdown
+  generalinformation-dropdown:
+    aria-label: Open General dropdown
+    dropdown-label: Available pages in General
+    label: General
+    title: Open General dropdown
   open:
     label: Menu
     title: Open Menu
