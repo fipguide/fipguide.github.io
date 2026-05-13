@@ -43,7 +43,7 @@ Les trains InterCity relient les principales villes d'Irlande, notamment Dublin,
 La First Class entre Dublin et Cork ne peut pas être utilisée avec le FIP. Plus d'informations sur les catégories de classes sont disponibles [ci-dessous](#catégories-de-classes).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations sont facultatives, mais sont délivrées gratuitement pour de nombreuses liaisons et sont donc recommandées en 2e classe.
 

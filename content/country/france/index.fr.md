@@ -75,7 +75,9 @@ Entre la France et l’Allemagne circulent des trains longue distance en coopér
 {{% highlight tip %}}
 Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) sont acceptés. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
 {{% /highlight %}}
-
+{{% highlight important %}}
+Quelques trains `TGV` circulent de Fribourg à Paris et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l'exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+{{% /highlight %}}
 Il existe aussi plusieurs liaisons régionales exploitées par la DB et la SNCF entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Achat de billets et réservations – en ligne").
 
 {{% highlight tip %}}
@@ -121,3 +123,7 @@ Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hen
 Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
 
 Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
+
+### Andorre
+
+Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et la France.

@@ -51,7 +51,7 @@ Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas 
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -74,7 +74,7 @@ Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas 
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -93,7 +93,7 @@ Trains rapides hors lignes à grande vitesse.
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -125,7 +125,7 @@ Bus de correspondance pour les trains à grande vitesse.
 
 Trains rapides principalement hors lignes à grande vitesse.
 
-#### Réservation
+#### Réservations
 
 **Coût :** 3 € (1ère/2ᵉ classe)
 
@@ -144,7 +144,7 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
 Train de nuit national avec voitures couchettes, lits et places assises.
 
-#### Réservation
+#### Réservations
 
 **Coût :** 25 € (1ère/2ᵉ classe, voiture assise)
 
@@ -165,7 +165,7 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP. Po
 
 Trains rapides internationaux vers l’Allemagne, l’Autriche et la Suisse.
 
-#### Réservation
+#### Réservations
 
 **Coût de la réservation** : Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -196,7 +196,7 @@ Les voyages gratuits nationaux pour les employés de la Deutsche Bahn ne sont pa
 
 _Astuce :_ Pour les trajets Allemagne–Italie, utilisez le voyage gratuit national jusqu’à Salzbourg puis prenez le Nightjet pour éviter le Tarif Global FIP.
 
-#### Réservation
+#### Réservations
 
 Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
@@ -277,7 +277,11 @@ Les trains Le Frecce longue distance ont des catégories de classes particulièr
 
 ### En ligne
 
-{{% booking id="fs-website" /%}}
+{{% booking id="fs-website" %}}
+{{% highlight inofficial %}}
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places sur le site Web FS n'est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d'acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+{{% /highlight %}}
+{{% /booking %}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Uniquement trains ECE de Milan vers l’Allemagne ou EC sur la ligne du Brenner entre l’Italie et l’Allemagne. Billets FIP 50 transfrontaliers, avec part de billet uniquement pour la section suisse/autrichienne et italienne, réservé aux employés de la Deutsche Bahn."
@@ -301,6 +305,9 @@ Pour le `ECE` Francfort – Milan ou le `EC` sur la ligne du Brenner entre Munic
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"
 %}}
+{{% highlight inofficial %}}
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places aux guichets DB n’est pas possible. La réservation n’est possible qu’avec l’ancien système de vente. Lorsque cela est possible, le personnel du DB Reisezentrum peut basculer vers ce système (voir [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d’acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+{{% /highlight %}}
 Le supplément ou le prix de la réservation pour les trains internationaux `EC`/`ECE` entre la Suisse et l’Italie coûte seulement 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) au guichet DB Reisezentrum et inclut une réservation de siège (par exemple jusqu’à Francfort).
 {{% /booking %}}
 

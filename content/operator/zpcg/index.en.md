@@ -54,7 +54,7 @@ These run on the route Bar - Podgorica - Bijelo Polje - Belgrade.
 
 Upon presentation of the FIP Card, a 50% discount is granted on [regular ticket prices](https://api.zpcg.me/storage/downloads/Cijene%20karata%20u%20medjunarodnom%20saobracaju.pdf).
 
-#### Reservation
+#### Reservations
 
 A reservation is mandatory. The cost in first and second class is EUR 3 per seat.[^1]
 

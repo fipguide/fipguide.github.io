@@ -110,15 +110,15 @@ general:
     de: |
       Die Beantragung von FIP Freifahrtscheinen für DB Mitarbeitende muss mind. vier Wochen vor Gültigkeitsbeginn über das DB Personalportal erfolgen.
 
-      Freifahrtscheine können mit 1 bis 4 Feldern beantragt werden. Wenn bereits ein Freifahrtschein mit weniger als vier Feldern im gleichen Jahr beantragt wurde, verfallen die weiteren Felder und können nicht erneut beantragt werden. Jedes Feld wird individuell versteuert. Mehr Informationen dazu unter [Versteuerung](/fip-validity#taxation).
+      Freifahrtscheine können mit 1 bis 4 Feldern beantragt werden. Wenn bereits ein Freifahrtschein mit weniger als vier Feldern im gleichen Jahr beantragt wurde, verfallen die weiteren Felder und können nicht erneut beantragt werden. Jedes Feld wird individuell versteuert. Mehr Informationen dazu unter [Versteuerung](/general/fip-validity#taxation).
     en: |
       FIP Coupon requests for DB employees must be submitted via the DB employee portal at least four weeks before the start of validity.
 
-      Coupons can be requested with 1 to 4 fields. If a coupon with fewer than four fields has already been requested in the same year, the remaining fields expire and cannot be requested again. Each field is taxed individually. More information is available under [Taxation](/fip-validity#taxation).
+      Coupons can be requested with 1 to 4 fields. If a coupon with fewer than four fields has already been requested in the same year, the remaining fields expire and cannot be requested again. Each field is taxed individually. More information is available under [Taxation](/general/fip-validity#taxation).
     fr: |
       Les demandes de Coupons FIP pour les employés DB doivent être soumises via le portail des employés DB au moins quatre semaines avant le début de validité.
 
-      Les Coupons peuvent être demandés avec 1 à 4 champs. Si un coupon avec moins de quatre champs a déjà été demandé la même année, les champs restants expirent et ne peuvent pas être redemandés. Chaque champ est imposé individuellement. Plus d’informations sous [Imposition](/fip-validity#taxation).
+      Les Coupons peuvent être demandés avec 1 à 4 champs. Si un coupon avec moins de quatre champs a déjà été demandé la même année, les champs restants expirent et ne peuvent pas être redemandés. Chaque champ est imposé individuellement. Plus d’informations sous [Imposition](/general/fip-validity#taxation).
 sncf:
   fip-coupon:
     active: *coupon-4fields

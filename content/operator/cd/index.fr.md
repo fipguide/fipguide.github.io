@@ -74,7 +74,7 @@ En 1ère classe, les passagers reçoivent une petite collation ; en 2ᵉ classe,
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 La réservation de siège est obligatoire dans les deux classes.
 
@@ -102,7 +102,7 @@ Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une li
 À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n’acceptent pas les Billets FIP.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 La réservation de siège est possible, et obligatoire en Business Class.
 {{% /train-category %}}
@@ -138,7 +138,7 @@ Trains longue distance confortables, ne s’arrêtant qu’aux principales gares
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour certains trains (voir [trains avec réservation obligatoire](#trains-avec-réservation-obligatoire)).
 {{% /train-category %}}
@@ -225,7 +225,7 @@ Pour les Nightjet, les réservations/suppléments pour voitures-lits et couchett
 La gratuité nationale pour les employés de la Deutsche Bahn n’est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Dépend de la ligne, de l’occupation et de la catégorie.
 {{% /train-category %}}

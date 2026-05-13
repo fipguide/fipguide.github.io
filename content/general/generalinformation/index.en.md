@@ -2,6 +2,8 @@
 title: "General Information"
 description: "General information about FIP, the FIP Card (International Discount Card for Railway Staff), and the use of international travel concessions such as FIP 50 Tickets and FIP Coupons (free international travel)."
 toc: true
+aliases:
+  - "/generalinformation/"
 ---
 
 ## General
@@ -32,7 +34,7 @@ To use FIP discounts, you need a valid International Discount Card for Railway S
 
 The validity period of the FIP Card depends on your railway company. The FIP Card is valid starting one month before the printed first year of validity (from December 1st of the previous year) and up to one month after the last year of validity (until January 31th of the following year).
 
-You can find out the validity period of your FIP Card on our [FIP Application](/fip-validity/).
+You can find out the validity period of your FIP Card on our [FIP Application](/general/fip-validity/).
 
 Some railway companies also allow employees to obtain FIP Cards for their dependents, allowing them to purchase FIP 50 Tickets.
 
@@ -44,7 +46,11 @@ FIP discounts come in various forms; a FIP Card is always required to use them.
 
 ### FIP Coupons
 
-FIP Coupons (colloquially known as international free travel passes) entitle you to travel on trains operated by the company indicated on the coupon. An _FIP Coupon_ consists of several _fields_. Each field is valid for two consecutive days. You must enter the first day of validity on the ticket; the ticket is then valid on that day and the following day. The different fields do not have to be used on consecutive days, but the dates must fall within the printed validity period.
+FIP Coupons (colloquially known as international free travel passes) entitle you to travel on trains operated by the company indicated on the coupon. An _FIP Coupon_ consists of several _fields_. Each field is valid for two consecutive days. You must enter the first day of validity on the ticket; the ticket is then valid on that day and the following day. The different fields do not have to be used on consecutive days, but the dates must fall within the printed validity period. Some railway companies have different rules for FIP Coupons for their own employees.
+
+{{% highlight tip %}}
+In practice, the 2-day rule is not always known. On the train, it can help to have [this translated explanatory table](/en/generalinformation/2-day-rule.pdf) printed out.
+{{% /highlight %}}
 
 You can apply for one FIP Coupon per operator per calendar year. Some railway companies may have different rules for their own employees. This means you can order one FIP Coupon with one to four fields from as many operators as you like each year. The relevant calendar year is determined by the date the validity begins. The application for the international free travel pass is usually made through your railway company's personnel service or travel center. Some companies also offer online portals.
 
@@ -70,7 +76,7 @@ On 03.03.2026 I don't travel by train, but I do on 04.03. So I fill in 04.03.202
 To travel by train for longer than eight days in one country or with one operator, you can skip a day without using a coupon and instead purchase an FIP 50 Ticket for that day's journey. These can be purchased at any time independently of a coupon.
 {{% /highlight %}}
 
-![FIP Coupon](./fip-coupon.webp)
+![FIP Coupon](fip-coupon.webp)
 
 ### FIP 50 Tickets
 
@@ -104,7 +110,7 @@ FIP discounts never apply on trains operated by your own railway company. Theref
 
 Traveling with FIP tickets is not always the cheapest option. Discounted FIP tickets typically offer a discount on the flexible ticket price. However, train-bound tickets such as savings fares can still be cheaper.
 
-In addition, some railway companies offer their own employees discounted tickets for cross-border travel into other countries or up to the border. Using these tickets can sometimes be cheaper for travel abroad than using FIP. More information about these offers are available in the [FIP Application](/fip-validity).
+In addition, some railway companies offer their own employees discounted tickets for cross-border travel into other countries or up to the border. Using these tickets can sometimes be cheaper for travel abroad than using FIP. More information about these offers are available in the [FIP Application](/general/fip-validity).
 
 ## Border Points
 
@@ -145,11 +151,11 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 
 For employees of some countries, additional taxation of FIP benefits is necessary, which can result in additional costs.
 
-More information is available in the [FIP Application](/fip-validity).
+More information is available in the [FIP Application](/general/fip-validity).
 
 ## FAQ
 
-{{< faq >}}
+You can find the FAQ on the page [FAQ](/general/faq/).
 
 ## Additional useful resources
 

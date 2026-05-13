@@ -2,6 +2,8 @@
 title: "Informations générales"
 description: "Informations générales sur le FIP, la Carte FIP (Carte Internationale de Réduction pour le Personnel Ferroviaire) ainsi que l’utilisation des avantages de voyage internationaux tels que les Billets FIP 50 et les Coupons FIP (permis FIP)."
 toc: true
+aliases:
+  - "/generalinformation/"
 ---
 
 ## Généralités
@@ -32,7 +34,7 @@ Pour bénéficier des réductions FIP, il est nécessaire de disposer d’une Ca
 
 La durée de validité de la Carte FIP dépend de la compagnie ferroviaire émettrice. En règle générale, la Carte FIP est valable à partir du 1ᵉʳ décembre de l’année précédant la première année de validité imprimée, et jusqu’au 31 janvier de l’année suivant la dernière année de validité.
 
-Vous pouvez consulter la durée de validité de votre Carte FIP sur notre [Demande FIP](/fip-validity/).
+Vous pouvez consulter la durée de validité de votre Carte FIP sur notre [Demande FIP](/general/fip-validity/).
 
 Certaines entreprises ferroviaires permettent également aux employés d’obtenir des Cartes FIP pour leurs ayants droit, leur permettant d’acheter des Billets FIP 50.
 
@@ -44,7 +46,11 @@ Les réductions FIP se présentent sous diverses formes; une Carte FIP est toujo
 
 ### Coupons FIP
 
-Les Coupons FIP (communément appelés « permis FIP ») donnent droit à des voyages sur les trains de l’opérateur indiqué sur le coupon. Un _Coupon FIP_ se compose de plusieurs _cases_. Chaque case est valable pendant deux jours consécutifs. La date du premier jour de validité doit être inscrite sur le coupon ; il est alors valable pour ce jour et le lendemain. Les différents cases n’ont pas besoin d’être utilisés à la suite : les dates choisies doivent simplement se situer dans la période de validité imprimée sur le coupon.
+Les Coupons FIP (communément appelés « permis FIP ») donnent droit à des voyages sur les trains de l’opérateur indiqué sur le coupon. Un _Coupon FIP_ se compose de plusieurs _cases_. Chaque case est valable pendant deux jours consécutifs. La date du premier jour de validité doit être inscrite sur le coupon ; il est alors valable pour ce jour et le lendemain. Les différents cases n’ont pas besoin d’être utilisés à la suite : les dates choisies doivent simplement se situer dans la période de validité imprimée sur le coupon. Certaines entreprises ferroviaires ont des règles différentes pour les Coupons FIP de leurs propres employés.
+
+{{% highlight tip %}}
+Dans la pratique, la règle des 2 jours n’est pas toujours connue. Dans le train, il peut être utile d’avoir [ce tableau explicatif traduit](/en/generalinformation/2-day-rule.pdf) imprimé.
+{{% /highlight %}}
 
 Il est possible de demander un Coupon FIP par opérateur et par année civile. Certaines compagnies ferroviaires peuvent appliquer des règles différentes pour leurs propres employés. Cela signifie qu’il est possible de commander chaque année un Coupon FIP (avec une à quatre cases) auprès de chaque opérateur souhaité. L’année civile prise en compte est celle du début de validité du coupon. La demande de coupon international se fait généralement via le service du personnel ou le centre de voyage de votre entreprise ferroviaire. Certaines entreprises proposent également des portails en ligne.
 
@@ -70,7 +76,7 @@ Le 03.03.2026, je ne voyage pas en train, mais je le fais le 04.03. Je remplis d
 Pour voyager en train pendant plus de huit jours dans un pays ou avec un opérateur, vous pouvez ignorer un jour sans utiliser de coupon et acheter plutôt un Billet FIP 50 pour le voyage de ce jour. Ceux-ci peuvent être achetés à tout moment indépendamment d’un coupon.
 {{% /highlight %}}
 
-![Coupon FIP](./fip-coupon.webp)
+![Coupon FIP](fip-coupon.webp)
 
 ### Billets FIP 50
 
@@ -104,7 +110,7 @@ Les réductions FIP ne s’appliquent jamais sur les trains exploités par votre
 
 Ce n'est pas toujours le voyage avec des billets FIP qui est la solution la moins chère. Les billets FIP réduits accordent généralement une réduction sur le prix du billet flexible. Cependant, les billets liés aux trains, comme les tarifs réduits, peuvent néanmoins être moins chers.
 
-De plus, certaines compagnies ferroviaires accordent à leurs propres employés des billets à tarif réduit pour les trajets transfrontaliers vers l’étranger ou jusqu’à la frontière. L’utilisation de ces billets peut parfois être moins chère que l’utilisation du FIP pour le voyage à l’étranger. Vous trouverez plus d’informations sur ces offres dans la [Demande FIP](/fip-validity).
+De plus, certaines compagnies ferroviaires accordent à leurs propres employés des billets à tarif réduit pour les trajets transfrontaliers vers l’étranger ou jusqu’à la frontière. L’utilisation de ces billets peut parfois être moins chère que l’utilisation du FIP pour le voyage à l’étranger. Vous trouverez plus d’informations sur ces offres dans la [Demande FIP](/general/fip-validity).
 
 ## Points frontières
 
@@ -145,11 +151,11 @@ J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort 
 
 Pour les employés de certains pays, une taxation supplémentaire des avantages FIP est nécessaire, ce qui peut entraîner des coûts supplémentaires.
 
-Vous trouverez plus d’informations dans la [Demande FIP](/fip-validity).
+Vous trouverez plus d’informations dans la [Demande FIP](/general/fip-validity).
 
 ## FAQ
 
-{{< faq >}}
+Vous pouvez trouver la FAQ sur la page [FAQ](/general/faq/).
 
 ## Ressources utiles supplémentaires
 

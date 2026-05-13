@@ -50,6 +50,10 @@ Il existe également des trains régionaux Rodalies de Catalunya de la Renfe ave
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
 
+### Andorre
+
+Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et l’Espagne.
+
 ### Portugal
 
 Les liaisons entre l’Espagne et le Portugal sont actuellement très limitées. Pour voyager de Lisbonne à Madrid, il faut prendre un train régional jusqu’à Badajoz, à la frontière espagnole, puis prendre l’un des rares trains vers Madrid. Cela nécessite un titre FIP ou pass gratuit CP (pour la partie portugaise) et un billet Renfe pour la partie espagnole.

@@ -43,7 +43,7 @@ Réservation obligatoire dans les trains `SC` et `IC`. Les autres trains ZSSK ne
 
 Trains rapides pendulaires (Pendolino) circulant entre Prague (République tchèque) et Košice, avec peu d’arrêts.
 
-#### Réservation
+#### Réservations
 
 **Coût :** à partir de 7 €, selon le trajet et l’occupation (incluant un supplément pour la catégorie de train)
 
@@ -62,7 +62,7 @@ _Actuellement, l’exploitation des trains Intercity est suspendue pour des rais
 
 Trains longue distance transfrontaliers exploités commercialement par ZSSK et CD, généralement entre Prague et Bratislava/Zilina, avec peu d’arrêts et une vitesse moyenne élevée.
 
-#### Réservation
+#### Réservations
 
 **Coût :** à partir de 7 €, selon le trajet et l’occupation (incluant un supplément pour la catégorie de train).
 
@@ -83,7 +83,7 @@ Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autri
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 {{% /train-category %}}
@@ -99,7 +99,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Les `EN` sont des trains de nuit internationaux nécessitant une réservation et offrant la possibilité de payer un supplément pour une couchette ou une place en voiture-lit. Sinon, ils sont similaires aux trains `EC`.
 
-#### Réservation
+#### Réservations
 
 **Coût :** Selon le trajet, l’occupation et la catégorie de voiture (incluant un supplément pour la catégorie de train).
 
@@ -116,7 +116,7 @@ Les `EN` sont des trains de nuit internationaux nécessitant une réservation et
 
 Type de train InterRégional avec moins d’arrêts qu’un train régional, mais plus que, par exemple, les trains `IC`. Ils disposent souvent d’une voiture-restaurant et circulent avec des trains tractés confortables.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 {{% /train-category %}}
@@ -132,7 +132,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Trains régionaux rapides desservant les principales gares de la région, un type d’express régional avec du matériel roulant très varié.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
@@ -149,7 +149,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Trains régionaux standards qui s’arrêtent généralement partout (il existe des exceptions). Surtout sur les lignes secondaires, ils circulent souvent avec du matériel roulant ancien. Ils sont parfois présentés comme des trains S-Bahn, mais sans vraiment respecter une grille S-Bahn.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 

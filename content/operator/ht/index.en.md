@@ -35,7 +35,7 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) operate
 
 These trains connect Athens (Αθήνα) and Thessaloniki (Θεσσαλονίκη) as well as Larisa (Λάρισα) and other major cities. The route is electrified and offers the fastest travel times in the country. FIP is fully accepted, but a free seat reservation is mandatory.
 
-#### Reservation
+#### Reservations
 
 Reservations must be obtained in advance. They can be purchased online or on site.
 

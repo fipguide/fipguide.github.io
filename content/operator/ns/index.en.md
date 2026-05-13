@@ -18,6 +18,7 @@ Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/c
 - Reservations are generally not required.
 - Supplements are partly required for Eurocity Direct (`ECD`) and Intercity Direct (`ICD`).
 - For FIP Coupons, a gate-pass coupon is required for access through station gates.
+- Employees of [SNCB / NMBS](/operator/sncb) can get an _Unlimited Pass_.
 
 ## Validity of FIP Tickets
 
@@ -25,6 +26,8 @@ Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/c
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on NS services. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons for both countries are required.
+
+Employees of [SNCB / NMBS](/operator/sncb) can get an _Unlimited Pass_, which allows them to use NS trains in the Netherlands for the entire year. [^5]
 
 ## Train Categories and Reservations
 
@@ -49,7 +52,7 @@ When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE su
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is required for cross-border journeys during high season.
 In 2026, this will be the case from June 26th to August 16th.
@@ -229,3 +232,5 @@ NS impresses with a dense schedule and good connections. Delays and cancellation
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+
+[^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)

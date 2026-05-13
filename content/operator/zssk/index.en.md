@@ -43,7 +43,7 @@ Reservation required for `SC` and `IC` trains. Other ZSSK trains only require a 
 
 Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops.
 
-#### Reservation
+#### Reservations
 
 **Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
@@ -62,7 +62,7 @@ _Currently, the operation of Intercity trains has been suspended for economic re
 
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed.
 
-#### Reservation
+#### Reservations
 
 **Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
@@ -83,7 +83,7 @@ Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -100,7 +100,7 @@ Reservations are required only in 1st class.
 
 `EN` are international night trains that require reservations and offer the option to pay a surcharge for couchette or sleeper cars. Otherwise, they are similar to `EC` trains.
 
-#### Reservation
+#### Reservations
 
 **Cost:** Depending on route and occupancy as well as car category (including surcharge for train category).
 
@@ -117,7 +117,7 @@ Reservations are required only in 1st class.
 
 A type of InterRegional train with fewer stops than a regional train but more than, for example, `IC` trains. They often have a dining car and run with comfortable locomotive-hauled trains.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -134,7 +134,7 @@ Reservations are required only in 1st class.
 
 Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -151,7 +151,7 @@ Reservations are required only in 1st class.
 
 Standard regional trains that usually stop everywhere (there are exceptions). Especially on branch lines, they often run with outdated rolling stock. They are sometimes marketed as S-Bahn trains, but without really running on an S-Bahn schedule.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 

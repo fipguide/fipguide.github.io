@@ -56,7 +56,7 @@ Polish long-distance trains are partially reservation-required. The reservation 
 High-speed trains with tilting technology (Pendolino), operated by PKP Intercity and mainly running between Gdynia/Gdańsk and Kraków/Katowice via Warsaw, but also occasionally found on other routes.
 In 1st class, small meals and drinks are included at the seat in the ticket price. [^2]
 
-#### Reservation
+#### Reservations
 
 The trains require a surcharge with an increased reservation fee. Tickets and reservations cannot be purchased on board the train.
 
@@ -78,7 +78,7 @@ For reservations not sold at the corresponding price by PKP, payment of a surcha
 Comfortable trains with modernized passenger cars, operated by PKP Intercity and stopping only in the most important cities. Cross-border EICs are also designated as EC in other countries. [^3]
 In 1st and 2nd class, there is a free bottle of water per person.
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/)
 
@@ -97,7 +97,7 @@ Express trains with passenger cars or modern multiple units, operated by PKP Int
 
 Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
 
@@ -116,7 +116,7 @@ Interregional trains operated by PKP Intercity, characterized by particularly af
 
 Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
 
@@ -134,7 +134,7 @@ Some trains require reservations. The reservation requirement can be checked in 
 International night train connections operated by PKP Intercity, running from or to Germany, Czech Republic, Austria, Hungary and Ukraine.
 Night train connections that only run within Poland are operated as `IC` or `TLK`. Connections to Ukraine are marked as `D`.
 
-#### Reservation
+#### Reservations
 
 Reservation is required in sleeping and couchette cars.
 

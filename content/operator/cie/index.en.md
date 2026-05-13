@@ -43,7 +43,7 @@ InterCity trains connect the major cities of Ireland, including Dublin, Cork, Ga
 First Class between Dublin and Cork may not be used with FIP. More information about class categories can be found [below](#class-categories).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are optional, but are issued free of charge for many services and are therefore recommended in 2nd class.
 

@@ -44,7 +44,7 @@ Die ŁKA unterscheidet in zwei Zugkategorien:
 
 Regionalzüge, die zwischen Łódz und Warschau verkehren und dabei unterwegs nur an wenigen Bahnhöfen halten. Teilweise halten die Züge nur an den wichtigsten Bahnhöfen der beiden Städte und dazwischen gar nicht mehr. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁS` und im Anschluss eine konkrete Zugnummer.
 
-#### Reservierung
+#### Reservierungen
 
 Bei diesen Zügen ist eine kostenlose Reservierung möglich. Sie können jedoch auch ohne Reservierung genutzt werden. Weitere Informationen dazu auf der [ŁKA Website auf Polnisch](https://lka.lodzkie.pl/strona-glowna/Nowe-zasady-rezerwacji-miejsc-w-Sprinterach/). Es werden nur Tickets der 2. Klasse angeboten, da es in ŁKA-Zügen keine 1. Klasse gibt.
 

@@ -44,7 +44,7 @@ Il n’existe pas d’obligation de réservation, sauf sur certaines liaisons tr
 
 L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la DB. Il relie les grandes villes allemandes à jusqu’à 300 km/h et circule aussi vers certains pays voisins. Les liaisons particulièrement rapides avec peu d’arrêts sont appelées `ICE Sprinter`.
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
 Obligation de réservation temporaire pour les trajets transfrontaliers:
@@ -68,7 +68,7 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
 
@@ -131,7 +131,7 @@ Les trains vers l’Italie sont soumis à supplément et réservation obligatoir
 
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers l’Italie et pendant la haute saison vers le Danemark.
 
@@ -148,7 +148,7 @@ Réservation obligatoire pour les trajets transfrontaliers vers l’Italie et pe
 
 Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin – Pologne.
 
-#### Réservation
+#### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la Pologne.
 Pour les trajets transfrontaliers en été vers la République tchèque, une obligation de réservation a existé par le passé. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
@@ -173,7 +173,7 @@ Les trajets nationaux gratuits pour les employés de la Deutsche Bahn ne sont pa
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux gratuits jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
 
-#### Réservation
+#### Réservations
 
 Pour les Nightjet, des réservations/suppléments pour les voitures-lits et couchettes peuvent être réservés. Un FIP Coupon pour les pays/compagnies traversés est nécessaire. Sans FIP Coupon, un billet au Tarif Global FIP pour tout le trajet peut être acheté.
 
@@ -266,19 +266,20 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 ### En ligne
 
-{{% booking id="db-website" %}}
-La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
-%}}
-La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
-{{% /booking %}}
+/%}}
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" classes.first="6,90 €" classes.second="5,50 €" %}}
+Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+{{% highlight inofficial %}}
+Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
+{{% /highlight %}}
+{{% /booking %}}
 
 ### En gare
 
@@ -317,6 +318,23 @@ Les enfants de moins de 6 ans voyagent toujours gratuitement et n’ont pas beso
 
 Dans le Nordhessischer Verkehrsverbund (NVV), aucune réduction pour les employés de la DB n’est reconnue dans le trafic régional. Les réductions FIP ne sont donc pas valables.
 Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) des lignes régionales concernées est disponible.
+
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n'accepte pas les réductions FIP. Cela concerne les lignes suivantes : [^2]
+
+- RE 6 : Tübingen - Stuttgart
+- RE 10a : Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b : Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12 : Tübingen - Stuttgart - Heilbronn
+- RE 17a : Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c : Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18 : Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71 : Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l'opérateur ferroviaire agilis. Aucune réduction FIP n'est donc reconnue sur cette section. [^2]
 
 ### Trajets dans les réseaux de transport
 
@@ -373,3 +391,5 @@ La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple,
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig : Où ma réduction de voyage est-elle valable](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

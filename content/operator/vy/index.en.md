@@ -63,7 +63,7 @@ Long-distance trains on the country’s main lines with café. Some trains opera
 
 - F5: Oslo S – Kongsberg – Kristiansand – Stavanger (Sørland Line)
 
-#### Reservation
+#### Reservations
 
 Reservations are compulsory on lines F4, F5, F6 and F7:
 
@@ -140,7 +140,7 @@ Regiontog connects towns and cities with stops at almost all stations. Some trai
 
 - R50: Arendal – Nelaug (Arendal Line)
 
-#### Reservation
+#### Reservations
 
 On lines R60 and R65, a free reservation is required.
 

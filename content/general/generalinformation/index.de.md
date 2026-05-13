@@ -2,6 +2,8 @@
 title: "Übergreifende Infos"
 description: "Übergreifende Informationen zu FIP, FIP Ausweis (Internationale Ermäßigungskarte für Eisenbahnpersonal) sowie der Nutzung Internationaler Fahrvergünstigungen wie FIP 50 und FIP Freifahrtscheinen (Auslandsfreifahrten)."
 toc: true
+aliases:
+  - "/generalinformation/"
 ---
 
 ## Allgemein
@@ -32,7 +34,7 @@ Für die Nutzung von FIP-Vergünstigungen ist eine aktuelle Internationale Ermä
 
 Der FIP Ausweis hat je nach eigener Bahngesellschaft eine unterschiedliche Gültigkeitsdauer. Der FIP Ausweis gilt bereits einen Monat vor dem aufgedruckten ersten Gültigkeitsjahr (01.12. des Vorjahres) sowie einen Monat nach dem letzten Gültigkeitsjahr (31.01 des Folgejahres).
 
-Die Gültigkeitsdauer deines FIP Ausweises kannst du auf der Seite [FIP Beantragung](/fip-validity/) herausfinden.
+Die Gültigkeitsdauer deines FIP Ausweises kannst du auf der Seite [FIP Beantragung](/general/fip-validity/) herausfinden.
 
 Bei einigen Bahngesellschaften können Mitarbeitende auch für ihre Angehörigen FIP Ausweise erhalten und so FIP 50 Tickets erwerben.
 
@@ -44,7 +46,11 @@ FIP Vergünstigungen bestehen in verschiedenen Formen, für die Nutzung wird imm
 
 ### FIP Freifahrtscheine
 
-FIP Freifahrtscheine (umgangssprachlich Auslandsfreifahrt) berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden, die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen.
+FIP Freifahrtscheine (umgangssprachlich Auslandsfreifahrt) berechtigen zur Fahrt mit Zügen des auf dem Freifahrtschein angegebenen Betreibers. Ein _FIP Freifahrtschein_ besteht aus verschiedenen _Feldern_. Jedes Feld ist für zwei aufeinanderfolgende Tage gültig. Auf dem Ticket muss jeweils der erste Gültigkeitstag eingetragen werden. Das Ticket ist dann am eingetragenen und folgenden Tag gültig. Die unterschiedlichen Felder selbst müssen nicht an aufeinanderfolgenden Tagen ausgefüllt werden, die Daten müssen nur im aufgedruckenden Gültigkeitszeitraum liegen. Einige Bahngesellschaften haben bei FIP Freifahrtscheinen für ihre eigenen Mitarbeitenden abweichende Regelungen.
+
+{{% highlight tip %}}
+In der Praxis ist die 2-Tagesregelung nicht immer bekannt. Im Zug kann [diese übersetzte Erläuterungstabelle](/en/generalinformation/2-day-rule.pdf) ausgedruckt helfen.
+{{% /highlight %}}
 
 FIP Freifahrtscheine werden im Englischen auch als _FIP Coupons_ bezeichnet. Pro Kalenderjahr ist die Beantragung eines FIP Freifahrtscheins je Betreiber möglich. Einige Bahngesellschaften können für ihre eigenen Mitarbeitenden abweichende Regelungen haben. Das bedeutet, es können in jedem Jahr von beliebig vielen Betreibern je ein FIP Freifahrtschein mit ein bis zu vier Feldern, bestellt werden. Entscheidend für das Kalenderjahr ist das Datum, an dem die Gültigkeit beginnt. Der Antrag der internationalen Freifahrt erfolgt in der Regel über den Personalservice oder das Reisezentrum deines Eisenbahnverkehrsunternehmens. Manche Unternehmen bieten auch Online-Portale an.
 
@@ -70,7 +76,7 @@ Am 03.03.2026 fahre ich nicht mit dem Zug, dafür wieder am 04.03. Also trage ic
 Um länger als acht Tage in einem Land bzw. bei einem Betreiber Zug fahren zu können, kann auch zwischendrin ein Tag kein Freifahrtschein benutzt werden und z. B. ein FIP 50 Ticket für die Fahrt an diesem Tag gekauft werden. Diese können unabhängig von einem Freifahrtschein jederzeit erworben werden.
 {{% /highlight %}}
 
-![FIP Freifahrtschein](./fip-coupon.webp)
+![FIP Freifahrtschein](fip-coupon.webp)
 
 ### FIP 50 Tickets
 
@@ -104,7 +110,7 @@ FIP Vergünstigungen gelten nicht in Zügen der eigenen Bahngesellschaft. Daher 
 
 Nicht immer ist die Fahrt mit FIP Tickets die günstigste Option. Vergünstigte FIP Tickets gewähren im Regelfall einen Rabatt auf den flexiblen Ticketpreis. Zuggebundene Tickets wie Sparpreise können trotzdem günstiger sein.
 
-Zusätzlich gewähren einige Bahngesellschaften ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten findest du auf der Seite [FIP Beantragung](/fip-validity).
+Zusätzlich gewähren einige Bahngesellschaften ihren eigenen Mitarbeitenden vergünstige Tickets für grenzüberschreitende Fahrten ins Ausland oder bis zur Grenze. Die Nutzung dieser Tickets kann für die Fahrt ins Ausland teilweise günstiger sein, als die Nutzung von FIP. Weitere Informationen zu diesen Angeboten findest du auf der Seite [FIP Beantragung](/general/fip-validity).
 
 ## Grenzpunkte
 
@@ -145,11 +151,11 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 
 Für Mitarbeitende einiger Länder ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursachen kann.
 
-Weitere Informationen findest du auf der Seite [FIP Beantragung](/fip-validity).
+Weitere Informationen findest du auf der Seite [FIP Beantragung](/general/fip-validity).
 
 ## FAQ
 
-{{< faq >}}
+Das FAQ findest du auf der Seite [FAQ](/general/faq/).
 
 ## Zusätzliche nützliche Ressourcen
 
