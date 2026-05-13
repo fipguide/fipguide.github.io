@@ -62,7 +62,7 @@ Il existe aussi différentes liaisons régionales `TER` entre la Belgique et la 
 
 ### Luxembourg
 
-Depuis le Luxembourg, la SNCF exploite des trains internationaux `TGV` vers Paris, Strasbourg, Lyon, Montpellier et Marseille. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe aussi plusieurs liaisons régionales entre le Luxembourg et la France via Rodange ou Bettembourg, accessibles avec FIP. Les Billets FIP 50 et les Coupons FIP CFL sont valables sur le tronçon luxembourgeois, et à partir du point-frontière, les Coupons FIP SNCF sont requis.
+Depuis le Luxembourg, la SNCF exploite des trains internationaux `TGV` vers Paris, Strasbourg, Lyon, Montpellier et Marseille. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe aussi plusieurs liaisons régionales entre le Luxembourg et la France via Rodange ou Bettembourg, accessibles avec FIP. Dans la section luxembourgeoise, les billets FIP 50 et les Coupons FIP CFL sont valables, et du côté français, les billets FIP de la SNCF sont valables jusqu'au point frontière.
 
 Bien que les voyages en 2ᵉ classe au Luxembourg soient gratuits, un billet ou un Coupon FIP est nécessaire à partir du point-frontière pour les voyages transfrontaliers. Cela signifie qu’il faut disposer soit d’un billet continu, soit au minimum d’un Coupon FIP SNCF valable. En 1ʳᵉ classe, ceci est également requis sur le tronçon luxembourgeois.
 

@@ -32,7 +32,7 @@ Depuis Liers, Liège ou Bruxelles, il est possible d’utiliser des trains trans
 
 En 2e classe, un Coupon FIP de la SNCB suffit pour l’ensemble du trajet, car les transports publics sont gratuits en 2e classe au Luxembourg. Pour la 1re classe, un billet FIP de la CFL est également nécessaire.
 
-Lors de l’utilisation de Billets FIP 50, un billet jusqu’au point frontière (Gouvy (fr) ou Sterpenich (fr)) ou jusqu’au premier arrêt au Luxembourg est requis pour les trajets transfrontaliers. Une exception est le voyage via Athus. Ici, le voyage gratuit au Luxembourg s’applique jusqu’à la gare d’Athus en Belgique. Les billets en Belgique ne doivent donc être achetés que jusqu’à/à partir d’ici. En 1re classe, cela s’applique également à la section luxembourgeoise.
+Lors de l’utilisation de Billets FIP 50, un billet jusqu’au point frontière (Gouvy (fr) ou Sterpenich (fr)) ou jusqu’au premier arrêt au Luxembourg est requis pour les trajets transfrontaliers. Une exception est le voyage via Athus. Ici, le voyage gratuit au Luxembourg s’applique jusqu’à la gare d’Athus en Belgique. Les billets en Belgique ne doivent donc être achetés que jusqu’à/à partir d’ici. En 1ʳᵉ classe, un billet pour le tronçon luxembourgeois est requis.
 
 ### Allemagne
 
