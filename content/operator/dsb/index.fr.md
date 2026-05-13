@@ -74,7 +74,7 @@ Réservation conseillée et généralement obligatoire en été.
 
 {{% train-category
     id="regional"
-    title="Train régional (R)"
+    title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
     reservation_possible=false
@@ -83,7 +83,9 @@ Réservation conseillée et généralement obligatoire en été.
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
 
 {{% highlight confusion %}}
-D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB.
+D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
+Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
+Les trains marqués `RE` sont généralement exploités par DSB.
 {{% /highlight %}}
 
 {{% /train-category %}}

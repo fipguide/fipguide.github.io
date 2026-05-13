@@ -74,7 +74,7 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
 
 {{% train-category
     id="regional"
-    title="Regional Train (R)"
+    title="Regional Train (R / RE)"
     type="regional"
     fip_accepted=true
     reservation_possible=false
@@ -83,8 +83,8 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower.
 
 {{% highlight confusion %}}
-Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB.
-Trains marked as `RA` are not included in FIP.
+Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
+Trains marked as `RA` are not operated by DSB and therefore not included in FIP. \
 Trains marked as `RE` are usually DSB operated trains.
 {{% /highlight %}}
 
