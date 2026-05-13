@@ -67,7 +67,11 @@ Wir empfehlen, das Zugpersonal vor Abfahrt anzusprechen. Im Zweifel kann das Tic
 
 ### Luxemburg
 
-Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Brüssel genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Liers, Lüttich oder Brüssel genutzt werden. Auch im Westen des Landes gibt es grenzüberschreitende Verbindungen von Luxemburg nach Arlon über Athus oder Sterpenich (fr).
+
+In der 2. Klasse reicht der FIP Freifahrtschein der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+
+Bei der Nutzung von FIP 50 Tickets wird für grenzüberschreitende Fahrten ein Ticket ab dem Grenzpunkt (Gouvy (fr) bzw. Sterpenich (fr)) oder ab dem letzten Halt in Luxemburg benötigt. Eine Ausnahme bildet hierbei die Fahrt über Athus. Hier gilt die kostenlose Fahrt in Luxemburg ab dem Bahnhof Athus in Belgien. Tickets in Belgien müssen also nur bis/ab hier gekauft werden. In der 1. Klasse wird ein Ticket für den luxemburgischen Abschnitt benötigt.
 
 ### Frankreich
 

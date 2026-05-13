@@ -67,7 +67,11 @@ We recommend speaking to the train staff before departure. If in doubt, the tick
 
 ### Luxembourg
 
-From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 2nd class, the FIP Ticket (Coupon or FIP 50) is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP Ticket for CFL is required.
+From Luxembourg, cross-border SNCB trains to Liers, Liège or Brussels can be used. There are also cross-border connections in the west of the country from Luxembourg to Arlon via Athus or Sterpenich (fr).
+
+In 2nd class, the FIP Coupon of SNCB is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP Ticket for CFL is required.
+
+When using FIP 50 Tickets, a ticket from the border point (Gouvy (fr) or Sterpenich (fr)) or from the last stop in Luxembourg is required for cross-border journeys. An exception is travel via Athus. Here, free travel in Luxembourg applies from the station Athus in Belgium. Tickets in Belgium therefore only need to be purchased until/from here. In 1st class, a ticket is also required in the Luxembourg section.
 
 ### France
 

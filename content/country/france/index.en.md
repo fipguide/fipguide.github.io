@@ -62,10 +62,11 @@ There are also various `TER` regional train connections from Belgium to France t
 
 ### Luxembourg
 
-From Luxembourg, SNCF operates international `TGV` trains to Paris. Expensive FIP Global Fare tickets are required for these. There are also various regional train connections from Luxembourg to France via Rodange or Bettembourg, which can be used with FIP. Standard FIP 50 Tickets and FIP Coupons from CFL are valid in Luxembourg, and from the border point, FIP Coupons from SNCF are valid.
-{{% highlight tip %}}
-Travel within Luxembourg is free in 2nd class, so a CFL Coupon is not strictly necessary. For travel to France, however, a cross-border ticket (e.g., a FIP 50 ticket) is required.
-{{% /highlight %}}
+From Luxembourg, SNCF operates international `TGV` trains to Paris, Strasbourg, Lyon, Montpellier, and Marseille. Expensive FIP Global Fare tickets are required for these trains. There are also various regional train connections from Luxembourg to France via Rodange or Bettembourg, which can be used with FIP. In this regard, FIP 50 tickets and CFL Coupons are valid on the Luxembourgish section, while SNCF FIP tickets are valid on the French side up to the border point.
+
+Even though travel in 2nd class in Luxembourg is free, a ticket or FIP Coupon is required from the border point for cross-border journeys. This means that either a through ticket or at least a valid SNCF FIP Coupon must be available. In 1st class, this is also required in the Luxembourg section.
+
+Travel on the spur lines from Luxembourg to Volmerange-les-Mines and Audun-le-Tiche is fully covered by CFL. No additional ticket is required here (except for 1st class).
 
 ### Germany
 
