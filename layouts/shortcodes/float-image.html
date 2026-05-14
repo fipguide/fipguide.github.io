@@ -18,7 +18,10 @@
 {{- end -}}
 
 
-<div class="m-float-image m-float-image--{{ $position }}" style="--float-image-width: {{ $width }}">
+<div
+  class="m-float-image m-float-image--{{ $position }}"
+  style="--float-image-width: {{ $width }}"
+>
   {{- if gt (len $images) 1 -}}
     <div class="m-float-image__images">
       {{- range $index, $image := $images -}}
