@@ -125,7 +125,7 @@ The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supple
 Holders of an OV-chipkaart can buy a discounted supplement for € 1.92 (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Intercity Direct Network, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
+![Intercity Direct Network](intercity-direct-map.jpg)
 
 {{% /train-category %}}
 
