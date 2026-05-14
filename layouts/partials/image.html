@@ -18,9 +18,8 @@
   {{- $figStyles = $figStyles | append (printf "width: %s" $width) -}}
 {{- end -}}
 
+{{- $metaInformation := false -}}
 {{- $iptcCopyrightNotice := "" -}}
-{{- $iptcHeadline := "" -}}
-{{- $iptcCaptionAbstract := "" -}}
 {{- $artist := "" -}}
 
 {{- if and (ne $extension "svg") (ne $extension "gif") -}}
@@ -29,17 +28,13 @@
       {{- with .IPTC -}}
         {{- with (index . "CopyrightNotice") -}}
           {{- $iptcCopyrightNotice = . -}}
-        {{- end -}}
-        {{- with (index . "Headline") -}}
-          {{- $iptcHeadline = . -}}
-        {{- end -}}
-        {{- with (index . "Caption-Abstract") -}}
-          {{- $iptcCaptionAbstract = . -}}
+          {{ $metaInformation = true -}}
         {{- end -}}
       {{- end -}}
       {{- with .Exif -}}
         {{- with (index . "Artist") -}}
           {{- $artist = . -}}
+          {{ $metaInformation = true -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}
@@ -64,22 +59,24 @@
     {{- end -}}
     style="{{ delimit $imgStyles "; " | safeCSS }}"
   />
-  {{- if or (.caption) ($iptcCopyrightNotice) ($artist) -}}
+  {{- if or (.caption) ($metaInformation) -}}
     <hr aria-hidden="true" />
     <figcaption>
       {{- with .caption -}}
         {{- . -}}
       {{- end -}}
-      {{- if and (.caption) (or ($iptcCopyrightNotice) ($artist)) -}}
+      {{- if and (.caption) ($metaInformation) -}}
         <br aria-hidden="true" />
       {{- end -}}
-      © 
-      {{- with $artist -}}
-        {{ . }}, 
-      {{- end -}}
-      {{- with $iptcCopyrightNotice -}}
-        {{- . | safeHTML -}}
-      {{- end -}}
+      {{- if $metaInformation -}}
+        © 
+        {{- with $artist -}}
+          {{ . }}, 
+        {{- end -}}
+        {{- with $iptcCopyrightNotice -}}
+          {{- . | safeHTML -}}
+        {{- end -}}
+      {{ end }}
     </figcaption>
   {{- end -}}
 </figure>
