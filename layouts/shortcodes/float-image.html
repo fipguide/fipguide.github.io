@@ -1,20 +1,67 @@
-{{- $image := $.Page.Resources.GetMatch (.Get "src") -}}
-{{- $alt := .Get "alt" -}}
-{{- $caption := .Get "caption" -}}
+{{- $srcItems := partial "parse-list-param.html" (.Get "src" | default "") -}}
+{{- $altItems := partial "parse-list-param.html" (.Get "alt" | default "") -}}
+{{- $captionItems := partial "parse-list-param.html" (.Get "caption" | default "") -}}
 {{- $width := .Get "width" | default "50%" -}}
 {{- $position := .Get "position" | default "right" -}}
 
+{{- if eq (len $srcItems) 0 -}}
+  {{- errorf "float-image: no valid src provided in %s" $.Page.File.Path -}}
+{{- end -}}
 
-<div class="m-float-image m-float-image--{{ $position }}">
-  {{- partial "image"
-    (dict
-    "image" $image
-    "alt" $alt
-    "caption" ($caption | $.Page.RenderString)
-    "width" $width
-    "Page" .Page
-    )
-  -}}
+{{- $images := slice -}}
+{{- range $srcItems -}}
+  {{- $image := $.Page.Resources.GetMatch . -}}
+  {{- if not $image -}}
+    {{- errorf "float-image: image %q not found in %s" . $.Page.File.Path -}}
+  {{- end -}}
+  {{- $images = $images | append $image -}}
+{{- end -}}
+
+
+<div class="m-float-image m-float-image--{{ $position }}" style="--float-image-width: {{ $width }}">
+  {{- if gt (len $images) 1 -}}
+    <div class="m-float-image__images">
+      {{- range $index, $image := $images -}}
+        {{- $currentAlt := "" -}}
+        {{- if gt (len $altItems) $index -}}
+          {{- $currentAlt = index $altItems $index -}}
+        {{- end -}}
+
+        {{- $currentCaption := "" -}}
+        {{- if gt (len $captionItems) $index -}}
+          {{- $currentCaption = index $captionItems $index | $.Page.RenderString -}}
+        {{- end -}}
+
+        {{- partial "image"
+          (dict
+          "image" $image
+          "alt" $currentAlt
+          "caption" $currentCaption
+          "width" "100%"
+          "Page" $.Page
+          )
+        -}}
+      {{- end -}}
+    </div>
+  {{- else -}}
+    {{- $singleAlt := "" -}}
+    {{- if gt (len $altItems) 0 -}}
+      {{- $singleAlt = index $altItems 0 -}}
+    {{- end -}}
+    {{- $singleCaption := "" -}}
+    {{- if gt (len $captionItems) 0 -}}
+      {{- $singleCaption = index $captionItems 0 | $.Page.RenderString -}}
+    {{- end -}}
+    {{- partial "image"
+      (dict
+      "image" (index $images 0)
+      "alt" $singleAlt
+      "caption" $singleCaption
+      "width" $width
+      "Page" .Page
+      )
+    -}}
+  {{- end -}}
   <div class="m-float-image__content">
     {{- .Inner | $.Page.RenderString -}}
   </div>

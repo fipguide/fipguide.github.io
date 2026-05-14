@@ -26,32 +26,11 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechis
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="FIP Gültigkeitskarte Überblick für Tschechien"
-caption="[Überblick FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Verbindungen von der ČD betrieben werden. Teilweise sind Strecken auch zuschlagspflichtig.
 
-Für einen ersten Eindruck, kann die Übersichtskarte für FIP Vergünstigungen in Tschechien genutzt werden.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="FIP Gültigkeitskarte Detail für Tschechien"
-caption="[Detail FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)"
-width="40%"
-position="left" >}}
-Für detaillierte Informartionen kann die Detailkarte für FIP Vergünstigungen genutzt werden.
-
-Weitere Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip) und [ČD kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Weitere Informationen in den [tariflichen Besonderheiten](#tarifliche-besonderheiten) auf dieser Seite.
+{{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
 
@@ -278,11 +257,23 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ## Tarifliche Besonderheiten
 
+Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Verbindungen von der ČD betrieben werden. Teilweise sind Strecken auch zuschlagspflichtig.
+
+Für eine Übersicht der Gültigkeit kann die Übersichtskarte hier verwendet werden. Ausführlichere Informationen finden sich in der Detailkarte und den konkreten Regelungen in den folgenden Abschnitten zu [ČD Kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig) und [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip).
+
+{{< float-image
+src=`["cd-fip-map-overview-26.webp","cd-fip-map-detail-26.webp"]`
+alt=`["FIP Gültigkeitskarte Überblick für Tschechien","FIP Gültigkeitskarte Detail für Tschechien"]`
+caption=`["[Überblick FIP Gültigkeitskarte (Vollbild)](/en/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)","[Detail FIP Gültigkeitskarte (Vollbild)](/en/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)"]`
+width="100%"
+position="left">}}
+{{< /float-image >}}
+
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
 Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC`, `IC` und `R`. [^3]
 
-Als Orientierung können die [FIP Gültigkeitskarten für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
+Als Orientierung können die [FIP Gültigkeitskarten für Tschechien](#tarifliche-besonderheiten) genutzt werden.
 
 Betroffene Verbindungen im Detail:
 
@@ -532,7 +523,7 @@ Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewo
 
 Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie `SP` und `OS`), gilt FIP in einigen Regionen überhaupt nicht.
 
-Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
+Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#tarifliche-besonderheiten) genutzt werden.
 
 Betrofene Regionen im Detail:
 

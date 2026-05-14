@@ -1,0 +1,24 @@
+{{- $raw := strings.TrimSpace (. | default "") -}}
+{{- $items := slice -}}
+{{- if and (hasPrefix $raw "[") (hasSuffix $raw "]") -}}
+  {{- $listRaw := strings.TrimSpace (strings.TrimSuffix "]" (strings.TrimPrefix "[" $raw)) -}}
+  {{- if $listRaw -}}
+    {{- range split $listRaw "," -}}
+      {{- $itemRaw := strings.TrimSpace . -}}
+      {{- $item := $itemRaw -}}
+      {{- if and (hasPrefix $itemRaw "\"") (hasSuffix $itemRaw "\"") -}}
+        {{- $item = strings.TrimSpace (strings.TrimSuffix "\"" (strings.TrimPrefix "\"" $itemRaw)) -}}
+      {{- else if or (hasPrefix $itemRaw "\"") (hasSuffix $itemRaw "\"") -}}
+        {{- errorf "float-image: invalid quoted list item %q" $itemRaw -}}
+      {{- end -}}
+      {{- if $item -}}
+        {{- $items = $items | append $item -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if or (hasPrefix $raw "[") (hasSuffix $raw "]") -}}
+  {{- errorf "float-image: list parameters must use [\"value1\",\"value2\"] syntax" -}}
+{{- else if $raw -}}
+  {{- $items = $items | append $raw -}}
+{{- end -}}
+{{- return $items -}}
