@@ -39,8 +39,6 @@ In der [Onlinefahrplanauskunft der ÖBB](https://fahrplan.oebb.at/) wird nur nac
 
 Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona).
 
-Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterreich, diese wird nicht von den ÖBB betrieben kann aber mit FIP 50 reduziert befahren werden.
-
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
