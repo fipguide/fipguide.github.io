@@ -18,6 +18,10 @@ params:
 
 Aux guichets ČD, il est possible d’acheter des Billets FIP 50 pour voyager en Tchéquie et vers d’autres pays européens.
 
+{{% highlight tip %}}
+La ČD peut aussi vendre des billets vers des points frontières et pas seulement vers des gares réelles. Cela est particulièrement utile pour les trajets vers d’autres pays pour lesquels un Coupon FIP est disponible.
+{{% /highlight %}}
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
