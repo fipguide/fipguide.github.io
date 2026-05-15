@@ -315,10 +315,6 @@ Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
 Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stunden-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
 {{% /highlight %}}
 
-### Schneebergbahn
-
-Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewährt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
-
 ### Motorail
 
 FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Ermäßigung ausgeschlossen.
