@@ -39,8 +39,6 @@ Austria has a dense rail network, mainly consisting of two main lines:
 
 Both lines are well developed, with trains running every half hour between major stations. There are also many scenic main and branch lines, such as the breathtaking Tauern Railway (Salzburg-Villach), Ennstal Railway (Salzburg-Bischofshofen-Schladming-Leoben), or the Brenner Railway (Munich-Innsbruck-Brenner-Bolzano-Verona).
 
-A special highlight is the ride on the Schneebergbahn in Lower Austria, which is not operated by ÖBB but can be used with a FIP 50% reduction.
-
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
