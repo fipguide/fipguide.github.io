@@ -27,6 +27,8 @@ Employees of ÖBB, SBB, and PKP can also book tickets that are only valid for th
 
 Booking is only possible via the [link](https://int.bahn.de/en/buchung/start?KL=2&ET=FIP_SONSTIGE). Discounts do not need to be selected—they are applied automatically.
 
+FIP 50 Tickets are only sold if no _association tickets_ are offered for that connection. See [Journeys in Transport Associations](/operator/db#journeys-in-transport-associations) in Germany.
+
 FIP 50 Tickets can be purchased for the following countries, as long as a section in Germany is included:
 
 <!-- prettier-ignore -->

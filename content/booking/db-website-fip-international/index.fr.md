@@ -27,6 +27,8 @@ Les employés et employées des ÖBB, SBB et PKP peuvent également réserver de
 
 La réservation est uniquement possible via ce [lien](https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE). Il n’est pas nécessaire de sélectionner une réduction : elle s’applique automatiquement.
 
+Les Billets FIP 50 ne sont vendus que si aucun _billet de réseau_ n’est proposé pour cette liaison. Voir [Trajets dans les réseaux de transport](/operator/db#trajets-dans-les-réseaux-de-transport) en Allemagne.
+
 Les Billets FIP 50 peuvent être achetés pour les pays suivants, à condition qu’une partie du trajet se fasse en Allemagne :
 
 <!-- prettier-ignore -->
