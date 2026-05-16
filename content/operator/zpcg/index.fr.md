@@ -87,6 +87,10 @@ Nous ne disposons toutefois pas d’informations officielles sur cette procédur
 
 {{% booking id="zpcg-ticket-office" /%}}
 
+{{% booking id="sv-ticket-office"
+    subtitle="Pour les trains internationaux uniquement"
+/%}}
+
 ### À bord du train
 
 Des billets avec réduction FIP peuvent être achetés à bord du train. Un supplément de 1 € s’applique si le voyage commence dans une gare avec guichet (Bar, Sutomore, Podgorica, Nikšić et Bijelo Polje).[^3]

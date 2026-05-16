@@ -87,6 +87,10 @@ However, we do not have official information on this procedure.
 
 {{% booking id="zpcg-ticket-office" /%}}
 
+{{% booking id="sv-ticket-office"
+    subtitle="For International Trains Only"
+/%}}
+
 ### On the Train
 
 FIP discounted tickets can be purchased on the train. A surcharge of EUR 1 applies if the journey starts at a station with a ticket office (Bar, Sutomore, Podgorica, Nikšić, and Bijelo Polje).[^3]

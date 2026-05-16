@@ -135,6 +135,8 @@ Der SV Kundenservice ist unter der Telefonnummer +381 11 10-20 (oder direkt unte
 
 Fahrscheine und Reservierungen können an den SV Fahrkartenschaltern an den Bahnhöfen erworben werden. Die wichtigsten Bahnhöfe haben dedizierte Fahrkartenschalter mit längeren Öffnungszeiten. [^1]
 
+{{% booking id="sv-ticket-office" /%}}
+
 ### Im Zug
 
 Während der Fahrt können noch Fahrkarten erworben werden, falls diese nicht im Voraus gebucht wurden. Dies ist mit eventuellem Preisaufschlag verbunden. [^1]

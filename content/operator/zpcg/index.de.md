@@ -87,6 +87,10 @@ Offizielle Informationen zu diesem Vorgehen liegen uns jedoch nicht vor.
 
 {{% booking id="zpcg-ticket-office" /%}}
 
+{{% booking id="sv-ticket-office"
+    subtitle="Nur für Internationale Züge"
+/%}}
+
 ### Im Zug
 
 FIP-ermäßigte Fahrkarten können im Zug gekauft werden. Es fällt ein Aufpreis von 1 € an, wenn die Reise an einem Bahnhof mit Ticketschalter beginnt (Bar, Sutomore, Podgorica, Nikšić und Bijelo Polje).[^3]
