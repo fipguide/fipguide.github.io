@@ -4,7 +4,7 @@ title: "Serbien"
 country: "serbia"
 params:
   operators_without_fip:
-    -
+    - Optima Express
 ---
 
 ## FIP Nutzung
@@ -38,23 +38,35 @@ Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet al
 
 ### Ungarn
 
-Aus Ungarn gibt es grenzüberschreitende Verbindungen nach Serbien, insbesondere von Budapest nach Belgrad und Subotica. Diese Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein zusätzliches FIP 50 Ticket oder FIP Freifahrtschein der MÁV benötigt. [^2]
+? Aus Ungarn gibt es grenzüberschreitende Verbindungen nach Serbien, insbesondere von Budapest nach Belgrad und Subotica. Diese Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein zusätzliches FIP 50 Ticket oder FIP Freifahrtschein der MÁV benötigt. [^2]
 
 ### Rumänien
 
-Die Verbindung zwischen Rumänien und Serbien führt hauptsächlich über Vrsac. Für Fahrten von Rumänien nach Serbien wird ein zusätzliches FIP 50 Ticket oder FIP Freifahrtschein der rumänischen Bahn CFR benötigt. [^2]
+Zurzeit verkehren leider keine Personenzüge zwischen Serbien und Rumänien.
 
 ### Bulgarien
 
-Die wichtigste internationale Verbindung mit Bulgarien führt über Dimitrovgrad Richtung Sofia. Diese Verbindung ist Bestandteil der paneuropäischen Verkehrsachse. Bei Nutzung ist ein zusätzliches FIP Ticket der bulgarischen Bahn BDZ erforderlich. [^2] [^3]
+Aktuell verkehrt nur der private Optima Express einmal wöchentlich über die Grenze zwischen Serbien und Bulgarien. Dieser Zug fährt zwischen dem österreichischen Villach bis in die Türkei und befährt dabei einige Strecken, die sonst im Personenverkehr gar nicht mehr bedient werden. Auch die Mitnahme eines Autos ist hier möglich. Mit FIP gibt es hier auf der kompletten Route keinerlei Rabatt, ein Ausstieg ist außerdem ausschließlich in Edirne in der Türkei möglich. Weitere Infos gibt es auf der [Website vom Optima Express](https://optimatours.de/).
+
+### Nordmazedonien
+
+?
+
+### Kosovo
+
+?
 
 ### Montenegro
 
-Die Verbindung nach Montenegro führt über die Bahn zum Hafen Bar und ist eine der landschaftlich reizvollsten Strecken in der Region. Für diese grenzüberschreitende Fahrt wird ein zusätzliches FIP Ticket benötigt, da Montenegro nicht vollständig in das FIP System integriert ist. [^2] [^3]
+Aus Montenegro kann die grenzüberschreitende Verbindung via Bijelo Polje genutzt werden. Hier verkehrt täglich ein Nachtzug sowie saisonale Tagzüge, welche von der montenegrinischen ŽPCG und der serbischen SV betrieben werden.
 
 ### Bosnien und Herzegowina
 
-Es gibt mehrere Verbindungen nach Bosnien und Herzegowina, insbesondere über die Grenzübergänge im Westen Serbiens. Diese Strecken sind teilweise noch in Modernisierung und können unregelmäßige Fahrpläne haben. [^3]
+?Es gibt mehrere Verbindungen nach Bosnien und Herzegowina, insbesondere über die Grenzübergänge im Westen Serbiens. Diese Strecken sind teilweise noch in Modernisierung und können unregelmäßige Fahrpläne haben. [^3]
+
+### Kroatien
+
+?
 
 ## Quellen
 
