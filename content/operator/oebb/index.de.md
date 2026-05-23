@@ -312,7 +312,7 @@ FIP-Fahrscheine werden jedoch auf den von der ÖBB betriebenen Nahverkehrszügen
 Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
 
 {{% highlight tip %}}
-Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stunden-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
+Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten, 24-Stunden-Tickets oder 7-Tages-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
 {{% /highlight %}}
 
 ### Motorail

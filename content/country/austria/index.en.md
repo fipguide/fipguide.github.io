@@ -58,7 +58,7 @@ Both lines are well developed, with trains running every half hour between major
 
 ### Czech Republic
 
-From the Czech Republic, cross-border trains of Ceske Drahy can be used on various routes. An additional FIP 50 ticket or FIP Coupon from Ceske Drahy is required. Cross-border trains operated by RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
+From the Czech Republic, cross-border trains of České dráhy can be used on various routes. An additional FIP 50 ticket or FIP Coupon from České dráhy is required. Cross-border trains operated by RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
 
 ### Slovakia
 
