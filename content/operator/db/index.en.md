@@ -108,6 +108,7 @@ For Railjets to Italy, a surcharge is required from the Italian border onward (s
 
 Intercity trains are an important addition to the ICE network. They run at lower speeds than ICE trains, connect many cities, and also serve many holiday and vacation regions.
 
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -176,6 +177,8 @@ _Tip:_ For journeys from Germany to Italy, use national free travel to Salzburg 
 #### Reservations
 
 For Nightjet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railway companies on the journey is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased.
+
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 
 **Cost:** depends on route, occupancy, and car category.
 

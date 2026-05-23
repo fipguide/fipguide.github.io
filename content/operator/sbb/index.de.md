@@ -82,6 +82,9 @@ Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforde
     reservation_possible=true
 %}}
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
+
+Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -93,6 +96,8 @@ Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegs
     reservation_possible=true
 %}}
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
+
+Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
 
 #### Reservierungen
 
