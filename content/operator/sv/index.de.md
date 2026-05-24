@@ -6,96 +6,129 @@ country:
 operator: "sv"
 ---
 
-Serbische Bahn - Akcionarsko društvo za prevoz putnika (SV) ist die nationale Eisenbahngesellschaft und wichtigste Bahngesellschaft Serbiens. Sie betreiben den Großteil des Personenverkehrs im Land und sind Betreiber der wichtigsten nationalen und internationalen Eisenbahnstrecken. [^1]
+Srbija Voz (Србија Воз) ist die staatliche Einsenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.
 
 ## Zusammenfassung
 
-- SV akzeptiert FIP Freifahrt und FIP 50 Tickets
-- Reservierungen sind auf bestimmten Zügen erforderlich
-- Unterschiedliche Tarife je nach Zugkategorie
-- FIP Gültigkeit auf den meisten nationalem Streckenverkehr
-- Internationale Verbindungen mit zumeist zusätzlichen Ticketanforderungen
+- SV akzeptiert FIP Freifahrtscheine und FIP 50 Tickets.
+- Reservierungen sind auf bestimmten Zügen erforderlich.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SV gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. [^1]
-
-{{% highlight important %}}
-Bei Nutzung von FIP Freifahrtscheinen gelten unterschiedliche Bedingungen je nach Zugkategorie. Reservierungen sind in vielen Fällen erforderlich und können während der Buchung oder bei der Fahrkartenkontrolle im Zug erworben werden. Bei FIP 50 Tickets sind Reservierungen normalerweise im Ticketpreis enthalten.
-{{% /highlight %}}
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SV gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
 {{% train-category
-    id="express"
-    title="Express / Intercity (IC, EX)"
+    id="ic"
+    title="Inter City (COKO)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://srbijavoz.rs/brzi-vozovi/"
+%}}
+
+Unter dem Markennamen COKO bzw. SOKO ("Falke" auf Serbisch) betreibt die SV den Hochgeschwindigkeitsverkehr zwischen Belgrad und Subotica.
+Zum Einsatz kommen moderne Triebzüge der Bauart KISS von Stadler Rail, sowie seit dem 15.04.2026 neue Züge der Bauart Tiger des chinesischen Herstellers CRRC. [^1]
+
+#### Reservierungen
+
+Auf der Strecke sind Reservierungen verpflichtend.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="brzi"
+    title="Brzi voz"
     type="highspeed"
     fip_accepted=true
     reservation_required=true
     reservation_possible=true
 %}}
 
-Schnellzüge der SV, die die wichtigsten Städte Serbiens verbinden. Diese Züge verkehren auf den Hauptstrecken, insbesondere auf der Nord-Süd-Achse zwischen Subotica, Belgrad, Nis und Richtung Süden. Express- und Intercity-Züge sind modern ausgestattet und bieten eine gute Verbindung zwischen den Ballungszentren. [^1]
+Die Zugkategorie "Brzi voz" entspricht klassischen Schnellzügen, sie verkehren bei den SV ausschließlich Richtung Montenegro.
+Ganzjährig verkehrt ein lokbespanntes Zugpaar als klassicher Nachtzug mit Schlaf-, Liege- und Sitzwagen zwischen Belgrad und Bar.
+
+In der Sommersaison wird dieses Zugpaar tagsüber durch ein weiteres Zugpaar ergänzt.
+
+In der Verbindungsauskunft der SV werden die Züge teilweise als [Inter Regio Voz (IR)](#ir) dargestellt.
 
 #### Reservierungen
 
-Reservierungen sind auf Express- und Intercity-Zügen erforderlich und müssen beim Kauf des Fahrkartenscheins oder beim Fahrkartenschalter erworben werden. Mit FIP Freifahrtscheinen können Reservierungen ebenfalls erworben werden. [^1]
+Eine Reservierung ist verpflichtend. Die Kosten betragen in der ersten und zweiten Klasse 3 € pro Sitzplatz.[^2]
 
-#### Strecken im Linienverkehr
+Die [Kosten für Liege- und Schlafwagenreservierungen](https://zpcg.me/en/red-voznje/medjunarodni) (Klick auf eine Fahrt und dort auf "Beds") variieren je nach Wagenklasse.
+Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^3]
 
-- Belgrad - Nis (IC M101/M102)
-- Belgrad - Subotica (IC M105/M106)
-- Belgrad - Pancevo (diverse Verbindungen)
-- Nis - Sofia (Grenzüberschreitend nach Bulgarien)
-- Subotica - Budapest (Grenzüberschreitend nach Ungarn)
-
-https://srbijavoz.rs/ukljucivanje-u-saobracaj-novih-soko-vozova-crrc-tiger-serije-411-419-emv-411-419-na-relaciji-beograd-centar-subotica-beograd-centar/
-
-Ab dem 15. April 2026 werden neue SOKO-Züge des chinesischen Herstellers CRRC Tiger der Baureihe 411/419 (EMV 411/419) mit einer Höchstgeschwindigkeit von 200 km/h auf der Strecke Belgrad Zentrum-Subotica eingesetzt.
+Booking requests for the night train Belgrade – Bar can be made by e-mail or phone 30 days in advance. Reservations must be picked up within 24 hours at bigger stations such as Novi Sad and Beograd Centar. Contact information can be found on the Srbijavoz website. (Quelle: Interrail)
+https://srbijavoz.rs/rezervisanje/
 
 {{% /train-category %}}
 
 {{% train-category
-    id="regional"
-    title="Regionalzüge (R, RJ, REG)"
+    id="ir"
+    title="Inter Regio Voz (IR)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Schnellzüge mit Halten an den wichtigsten Bahnhöfen. Teilweise werden die Züge nur mit Wagen der 2. Klasse betrieben.
+
+#### Reservierungen
+
+Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindungen können diese optional erworben werden. Es empfiehlt sich, die [Verbindungsdetails](https://w3.srbvoz.rs/redvoznje/) vor der Reise zu prüfen.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rex"
+    title="Regio Expres (REx)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 
-Regionalzüge der SV verbinden kleinere Ortschaften mit den Ballungszentren und ermöglichen flexible Reisen durch Serbien. Diese Züge halten an vielen Bahnhöfen und sind mit älteren Fahrzeugen ausgestattet. [^1]
+Züge der Kategorie Regio Expres (REx) bieten wie die IR nur Verkehrshalte in den wichtigsten Städten.
 
 #### Reservierungen
 
-Reservierungen sind auf Regionalzügen normalerweise nicht erforderlich. Bei Bedarf können diese jedoch erworben werden.
-
-#### Strecken im Linienverkehr
-
-- Diverse regionale Strecken im Netz der SV
-- Verbindungen zu Grenzübergängen in Rumänien, Ungarn, Bulgarien und Bosnien und Herzegowina
+Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindungen können diese optional erworben werden. Es empfiehlt sich, die [Verbindungsdetails](https://w3.srbvoz.rs/redvoznje/) vor der Reise zu prüfen.
 
 {{% /train-category %}}
 
 {{% train-category
-    id="international"
-    title="Internationale Schnellzüge"
-    type="highspeed"
+    id="re"
+    title="Regio Voz (Re)"
+    type="regional"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=partially
     reservation_possible=true
 %}}
 
-Internationale Züge verbinden Serbien mit seinen Nachbarländern. Besondere Bedingungen gelten bei grenzüberschreitenden Fahrten. Für die Fahrt in das Nachbarland ist ein zusätzliches FIP Ticket des nachbarländischen Bahnunternehmens erforderlich. [^1]
+Züge der Kategorie Regio Voz (Re) verbinden kleinere Ortschaften mit den Ballungszentren. Diese Züge halten an vielen Bahnhöfen und verkehren in der Regel mit älterem Fahrzeugmaterial.
 
-#### Strecken im Linienverkehr
+#### Reservierungen
 
-- Belgrad - Budapest (grenzüberschreitend nach Ungarn)
-- Belgrad - Bukarest (grenzüberschreitend nach Rumänien)
-- Nis - Sofia (grenzüberschreitend nach Bulgarien)
+Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindungen können diese optional erworben werden. Es empfiehlt sich, die [Verbindungsdetails](https://w3.srbvoz.rs/redvoznje/) vor der Reise zu prüfen.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bgvoz"
+    title="BG:VOZ"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
+Als BG:VOZ betreibt die SV im Ballungsraum Belgrad zwei Linien ähnlich zu einer S-Bahn.
 
 {{% /train-category %}}
 
@@ -103,75 +136,48 @@ Internationale Züge verbinden Serbien mit seinen Nachbarländern. Besondere Bed
     id="bus"
     title="Bus"
     type="bus"
-    fip_accepted=true
-    reservation_possible=false
+    fip_accepted=false
+    reservation_possible=nil
 %}}
 
-https://srbijavoz.rs/novi-red-voznje-besplatnog-autobuskog-prevoza-na-relaciji-petrovaradin-novi-sad-centar-petrovaradin-2/
+FIP Fahrkarten gelten nicht auf von der SV betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^4]
 
-Reisende mit Personenzügen von/nach Subotica, Belgrad Zentrum, Šid, Sremska Mitrovica und Užice, die nach der aktuellen Betriebsordnung bis/von Petrovaradin verkehren, können zusätzlich zum regulären Nahverkehr einen kostenlosen Shuttlebus ab Petrovaradin und Novi Sad nutzen.
+Reisende mit Personenzügen von/nach Subotica, Belgrad Zentrum, Šid, Sremska Mitrovica und Užice, die nach der aktuellen Betriebsordnung bis/von Petrovaradin verkehren, können zusätzlich zum regulären Nahverkehr einen kostenlosen Shuttlebus ab Petrovaradin und Novi Sad nutzen.[^5]
 
 {{% /train-category %}}
 
-## Klassenkategorien
-
-Die SV bietet typischerweise zwei Klassen an: [^1]
-
-**2. Klasse (Standard)**: Einfache, funktionale Ausstattung
-
-**1. Klasse (1. Klasse)**: Erhöhte Komfortstufe mit besseren Sitzplätzen. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
-
 ## Ticket- und Reservierungskauf
-
-### Online
-
-Reservierungen und Fahrscheine können direkt auf der Website www.srbijavoz.rs gebucht werden. Die Website bietet die Möglichkeit, Fahrkarten mit FIP Rabatten zu buchen. Fahrscheine können online über die Website der SV erworben werden, wobei Reservierungen in der Regel im Ticketpreis enthalten sind. [^1]
-
-### Telefon
-
-Der SV Kundenservice ist unter der Telefonnummer +381 11 10-20 (oder direkt unter den regional zuständigen Bahnhöfen) erreichbar. Fahrscheine und Reservierungen können telefonisch gebucht werden. [^1]
 
 ### Vor Ort
 
-Fahrscheine und Reservierungen können an den SV Fahrkartenschaltern an den Bahnhöfen erworben werden. Die wichtigsten Bahnhöfe haben dedizierte Fahrkartenschalter mit längeren Öffnungszeiten. [^1]
-
 {{% booking id="sv-ticket-office" /%}}
-
-### Im Zug
-
-Während der Fahrt können noch Fahrkarten erworben werden, falls diese nicht im Voraus gebucht wurden. Dies ist mit eventuellem Preisaufschlag verbunden. [^1]
 
 ## Ermäßigungen
 
-Die SV bietet verschiedene Ermäßigungen an: [^1]
-
-- **Kinder**: Kinder bis 7 Jahre fahren kostenlos, Kinder von 7-12 Jahren erhalten 50% Ermäßigung
-- **Studierende**: Mit Studentenausweis gibt es Ermäßigungen
-- **Rentner**: Rentner erhalten auf bestimmten Strecken Ermäßigungen
-- **FIP Freifahrtschein**: Mit FIP Freifahrtschein ist ein Zuschlag erforderlich
+Im Inlandsverkehr sowie Fernverkehr nach Montenegro reisen Kinder bis einschließlich sechs Jahre kostenlos, sofern sie keinen eigenen Sitzplatz benötigen und von einem Erwachsenen mit gültiger Fahrkarte begleitet werden. Kinder zwischen sechs und 14 Jahren sowie jüngere Kinder, für die ein eigener Sitzplatz erforderlich ist, erhalten 50 % Ermäßigung auf den regulären Fahrpreis für Erwachsene.[^6]
 
 ## Tarifliche Besonderheiten
 
-### Grenzüberschreitende Fahrten
+### Schienenersatzverkehr
 
-Bei internationalen Verbindungen ist zu beachten, dass separate Fahrkarten oder Zuschläge für den Abschnitt im Nachbarland erforderlich sind. Dies gilt auch für FIP Freifahrtscheine. [^1]
-
-### Saisonale Besonderheiten
-
-Während der Sommersaison können zusätzliche Züge verkehren, besonders auf den touristischen Strecken.
+FIP Fahrkarten gelten nicht auf von der SV betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^4]
 
 ## Empfehlungen
 
-- Buchen Sie internationale Verbindungen möglichst im Voraus
-- Bei FIP Freifahrtscheinen sollten Sie sich vor Reiseantritt über die aktuellen Reservierungsbedingungen informieren
-- Reservierungen sind auf vielen Zügen erforderlich und sollten nicht vernachlässigt werden
-- Die Webseite der SV (www.srbijavoz.rs) bietet umfassende Informationen zu Fahrplänen und Buchungen
-- https://srbijavoz.rs/posebne-ponude/
+Die SV betreibt mehrere Museumsbahnen mit historischen Zugkompositionen. [Weitere Informationen sind hier zu finden.](https://srbijavoz.rs/posebne-ponude/)
+
+Auf der Seite von Rail-Away findet sich ein [lesenswerter Reisebericht zum internationen Verkehr zwischen Serbien und Montenegro (auf englisch)](https://rail-away.com/2019/07/01/belgrade-to-bar/).
 
 ## Quellen
 
-[^1]: [Serbische Bahn - Offizielle Website](https://srbijavoz.rs/)
+[^1]: [SV – Einsatz CRRC](https://srbijavoz.rs/ukljucivanje-u-saobracaj-novih-soko-vozova-crrc-tiger-serije-411-419-emv-411-419-na-relaciji-beograd-centar-subotica-beograd-centar/)
 
-[^2]: [Rail Delivery Group - Serbia FIP Information](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782290-serbia.html)
+[^2]: [ŽPCG - Internationale Ticketpreise](https://zpcg.me/en/medjunarodni-prevoz/cijene)
 
-[^3]: [Wikipedia - Serbische Eisenbahn](https://de.wikipedia.org/wiki/Eisenbahn_in_Serbien)
+[^3]: [Rail Delivery Group – Montenegro](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
+
+[^4]: [Rail Delivery Group – Serbien](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782290-serbia.html)
+
+[^5]: [SV - Bus Shuttle](https://srbijavoz.rs/novi-red-voznje-besplatnog-autobuskog-prevoza-na-relaciji-petrovaradin-novi-sad-centar-petrovaradin-2/)
+
+[^6]: [SV - Ermäßigungen](https://srbijavoz.rs/ponude/#gp)
