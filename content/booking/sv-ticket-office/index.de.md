@@ -6,13 +6,10 @@ description: "Buchungsinformationen für die SV Ticketschalter."
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "XX"
   type: "onsite"
 ---
 
-XX
-https://www.reddit.com/r/Interrail/comments/1mce0b8/comment/n6i32x2/
-https://github.com/fipguide/fipguide.github.io/issues/885
+An internationalen Ticketschaltern (Belgrad, Subotica) können Tickets und Reservierungen für den Nachtzug zwischen Serbien und Montenegro erworben werden.
 
 {{% booking-section "fip_50" %}}
 
