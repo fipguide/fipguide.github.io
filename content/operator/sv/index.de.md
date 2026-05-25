@@ -6,7 +6,7 @@ country:
 operator: "sv"
 ---
 
-Srbija Voz (Србија Воз) ist die staatliche Einsenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.
+Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.
 
 ## Zusammenfassung
 
@@ -32,7 +32,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SV gültig. Be
     additional_information_url="https://srbijavoz.rs/brzi-vozovi/"
 %}}
 
-Unter dem Markennamen COKO bzw. SOKO ("Falke" auf Serbisch) betreibt die SV den Hochgeschwindigkeitsverkehr zwischen Belgrad und Subotica.
+Unter dem Namen COKO bzw. SOKO ("Falke" auf Serbisch) betreibt die SV den Hochgeschwindigkeitsverkehr zwischen Belgrad und Subotica.
 Zum Einsatz kommen moderne Triebzüge der Bauart KISS von Stadler Rail, sowie seit dem 15.04.2026 neue Züge der Bauart Tiger des chinesischen Herstellers CRRC. [^1]
 
 #### Reservierungen
@@ -43,14 +43,14 @@ Auf der Strecke sind Reservierungen verpflichtend.
 
 {{% train-category
     id="brzi"
-    title="Brzi voz"
+    title="Brzi Voz"
     type="highspeed"
     fip_accepted=true
     reservation_required=true
     reservation_possible=true
 %}}
 
-Die Zugkategorie "Brzi voz" entspricht klassischen Schnellzügen, sie verkehren bei den SV ausschließlich Richtung Montenegro.
+Die Zugkategorie "Brzi Voz" entspricht klassischen Schnellzügen, sie verkehren bei der SV ausschließlich Richtung Montenegro.
 Ganzjährig verkehrt ein lokbespanntes Zugpaar als klassicher Nachtzug mit Schlaf-, Liege- und Sitzwagen zwischen Belgrad und Bar.
 
 In der Sommersaison wird dieses Zugpaar tagsüber durch ein weiteres Zugpaar ergänzt.
@@ -64,8 +64,7 @@ Eine Reservierung ist verpflichtend. Die Kosten betragen in der ersten und zweit
 Die [Kosten für Liege- und Schlafwagenreservierungen](https://zpcg.me/en/red-voznje/medjunarodni) (Klick auf eine Fahrt und dort auf "Beds") variieren je nach Wagenklasse.
 Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^3]
 
-Booking requests for the night train Belgrade – Bar can be made by e-mail or phone 30 days in advance. Reservations must be picked up within 24 hours at bigger stations such as Novi Sad and Beograd Centar. Contact information can be found on the Srbijavoz website. (Quelle: Interrail)
-https://srbijavoz.rs/rezervisanje/
+Buchungsanfragen können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof (Belgrad, Subotica) abgeholt werden. Das Reservierungszentrum ist von 9:00 bis 17:00 Uhr erreichbar.[^8]
 
 {{% /train-category %}}
 
@@ -95,7 +94,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     reservation_possible=true
 %}}
 
-Züge der Kategorie Regio Expres (REx) bieten wie die IR nur Verkehrshalte in den wichtigsten Städten.
+Züge der Kategorie Regio Expres (REx) bieten wie die Züge der Kategorie `IR` nur Verkehrshalte in den wichtigsten Städten.
 
 #### Reservierungen
 
@@ -112,7 +111,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     reservation_possible=true
 %}}
 
-Züge der Kategorie Regio Voz (Re) verbinden kleinere Ortschaften mit den Ballungszentren. Diese Züge halten an vielen Bahnhöfen und verkehren in der Regel mit älterem Fahrzeugmaterial.
+Züge der Kategorie Regio Voz (Re) verbinden kleinere Ortschaften mit den Ballungszentren. Diese Züge halten an vielen Bahnhöfen und verkehren in der Regel mit älterem Fahrzeugmaterial. Teilweise werden die Züge nur mit Wagen der 2. Klasse betrieben.
 
 #### Reservierungen
 
@@ -143,10 +142,15 @@ Als BG:VOZ betreibt die SV im Ballungsraum Belgrad zwei Linien ähnlich zu einer
 FIP Fahrkarten gelten nicht auf von der SV betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^4]
 
 Reisende mit Personenzügen von/nach Subotica, Belgrad Zentrum, Šid, Sremska Mitrovica und Užice, die nach der aktuellen Betriebsordnung bis/von Petrovaradin verkehren, können zusätzlich zum regulären Nahverkehr einen kostenlosen Shuttlebus ab Petrovaradin und Novi Sad nutzen.[^5]
+Grund hierfür ist, dass der Bahnhof von Novi Sad aufgrund eines Unfalls derzeit nicht angefahren wird.[^6]
 
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
+
+### Telefon
+
+Buchungsanfragen für [internationale Züge](#brzi) können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof (Belgrad, Subotica) abgeholt werden. Das Reservierungszentrum ist von 9:00 bis 17:00 Uhr erreichbar.[^8]
 
 ### Vor Ort
 
@@ -154,7 +158,7 @@ Reisende mit Personenzügen von/nach Subotica, Belgrad Zentrum, Šid, Sremska Mi
 
 ## Ermäßigungen
 
-Im Inlandsverkehr sowie Fernverkehr nach Montenegro reisen Kinder bis einschließlich sechs Jahre kostenlos, sofern sie keinen eigenen Sitzplatz benötigen und von einem Erwachsenen mit gültiger Fahrkarte begleitet werden. Kinder zwischen sechs und 14 Jahren sowie jüngere Kinder, für die ein eigener Sitzplatz erforderlich ist, erhalten 50 % Ermäßigung auf den regulären Fahrpreis für Erwachsene.[^6]
+Im Inlandsverkehr sowie Fernverkehr nach Montenegro reisen Kinder bis einschließlich sechs Jahre kostenlos, sofern sie keinen eigenen Sitzplatz benötigen und von einem Erwachsenen mit gültiger Fahrkarte begleitet werden. Kinder zwischen sechs und 14 Jahren sowie jüngere Kinder, für die ein eigener Sitzplatz erforderlich ist, erhalten 50 % Ermäßigung auf den regulären Fahrpreis für Erwachsene.[^7]
 
 ## Tarifliche Besonderheiten
 
@@ -180,4 +184,8 @@ Auf der Seite von Rail-Away findet sich ein [lesenswerter Reisebericht zum inter
 
 [^5]: [SV - Bus Shuttle](https://srbijavoz.rs/novi-red-voznje-besplatnog-autobuskog-prevoza-na-relaciji-petrovaradin-novi-sad-centar-petrovaradin-2/)
 
-[^6]: [SV - Ermäßigungen](https://srbijavoz.rs/ponude/#gp)
+[^6]: [Wikipedia – Einsturz Bahnhofsdach](https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse#Aftermath)
+
+[^7]: [SV - Ermäßigungen](https://srbijavoz.rs/ponude/#gp)
+
+[^8]: [SV – Internationale Reservierungen](https://srbijavoz.rs/rezervisanje/)

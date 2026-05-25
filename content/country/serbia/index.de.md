@@ -11,14 +11,16 @@ params:
 
 In Serbien können Züge der [Serbischen Bahn SV](/operator/sv "SV") mit FIP Tickets genutzt werden. Die SV ist eines der wichtigsten Verkehrsmittel und betreibt den Großteil des Personenverkehrs im Land.
 
-{{< identify-operator sources="db-website,vagonweb" >}}
+{{< identify-operator sources="sv-website,db-website,vagonweb" >}}
 {{< /identify-operator >}}
 
 ## Wissenswertes
 
+Serbien besitzt mit ca. 3.700 km Schienennetz ein vergleichsweise ausgedehntes Bahnnetz.
+
 Städtenamen und Bahnhöfe werden in den Fahrplänen und in den Bahnhöfen auf serbisch geschrieben – da das kyrillische Alphabet genutzt wird, kann es zu Herausforderungen bei der Orientierung kommen, insbesondere für Reisende, die mit dem kyrillischen Alphabet nicht vertraut sind. Es ist ratsam, sich vor der Reise mit den kyrillischen Bezeichnungen vertraut zu machen oder eine Übersetzungs-App zu verwenden.
 
-Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet als in Westeuropa. Allerdings gibt es zunehmende Anstrengungen zur Modernisierung und Verbesserung der Infrastruktur. So sind einige Neubaustrecken in Planung und teilweise bereits im Bau – so z. B. die Schnellfahrstrecke zwischen Belgrad und Budapest. Die Pünktlichkeit variiert und die Taktung ist auf den meisten Strecken weniger dicht als in Westeuropa.
+Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet als in Westeuropa. Allerdings gibt es zunehmende Anstrengungen zur Modernisierung und Verbesserung der Infrastruktur. So sind einige Neubaustrecken in Planung und teilweise bereits im Bau – so z. B. die Schnellfahrstrecke zwischen Belgrad und Budapest. Auch einige Neufahrzeuge von Stadler Rail, CRRC und CAF wurden beauftragt. Die Pünktlichkeit der Fahrten variiert und die Taktung ist auf den meisten Strecken weniger dicht als in Westeuropa.
 
 ## Anreise und Grenzpunkte
 
@@ -38,7 +40,7 @@ Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet al
 
 ### Ungarn
 
-Aus Szeged in Ungarn gibt es grenzüberschreitende Verbindungen im Regionalverkehr nach Subotica in Serbien. Von dort kann nach Belgrad umgestiegen werden. Diese Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP 50 Ticket oder FIP Freifahrtschein beider Bahngesellschaften benötigt.
+Von Budapest kommend ist es möglich mit zwei Umstiegen (Szeged und Subotica) nach Belgrad zu gelangen. Der grenzüberschreitende Abschnitt von Szeged in Ungarn nach Subotica in Serbien findet im Regionalverkehr statt. Die Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP 50 Ticket oder FIP Freifahrtschein beider Bahngesellschaften benötigt.
 
 ### Rumänien
 
