@@ -72,7 +72,7 @@ Zusätzlich gibt es einzelne `EC` Verbindungen.
 
 ### Tschechien
 
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
+Von Tschechien aus können grenzüberschreitende Züge der České dráhy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der České dráhy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
 
 ## FIP Bewertung
 

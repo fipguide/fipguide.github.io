@@ -72,7 +72,7 @@ Additionally, there are some individual `EC` connections.
 
 ### Czech Republic
 
-From the Czech Republic, cross-border trains of Ceske Drahy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of Ceske Drahy is required. Cross-border trains of RegioJet cannot be used with FIP.
+From the Czech Republic, cross-border trains of České dráhy or ZSSK can be used on various routes. An additional FIP 50 ticket or FIP Coupon of České dráhy is required. Cross-border trains of RegioJet cannot be used with FIP.
 
 ## FIP Rating
 
