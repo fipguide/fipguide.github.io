@@ -17,6 +17,6 @@ params:
 
 Des réservations gratuites sont disponibles via le service client GWR WhatsApp.
 
-Pour réserver, envoyez un message au numéro WhatsApp [+44 7890608043](https://wa.me/447890608043) avec vos données de voyage (date, heure, gare de départ et d'arrivée) ainsi que le nombre de passagers. Il est recommandé d'envoyer le message en anglais.
+Pour réserver, envoyez un message au numéro WhatsApp [+44 7890608043](https://wa.me/447890608043) avec vos données de voyage (date, heure, gare de départ et d’arrivée) ainsi que le nombre de passagers. Il est recommandé d’envoyer le message en anglais.
 
 {{% /booking-section %}}

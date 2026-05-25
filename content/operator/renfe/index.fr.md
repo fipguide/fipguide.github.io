@@ -190,7 +190,7 @@ Les réservations sont obligatoires, sauf sur la ligne Barcelone(-Gérone-Figuer
 
 Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont valables sans restriction.
 
-À Barcelone, les Cercanías (y compris vers l'aéroport) ne sont accessibles que par des portiques. À un guichet avec du personnel, il est possible de demander un « Bono Gratuit » (pour le Coupon FIP) – un billet gratuit qui ouvre les portiques. Il n'est valable que pour un seul trajet.[^4]
+À Barcelone, les Cercanías (y compris vers l’aéroport) ne sont accessibles que par des portiques. À un guichet avec du personnel, il est possible de demander un « Bono Gratuit » (pour le Coupon FIP) – un billet gratuit qui ouvre les portiques. Il n’est valable que pour un seul trajet.[^4]
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak

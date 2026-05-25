@@ -31,7 +31,7 @@ Les agents de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permet
 
 ## Catégories de trains et réservations
 
-En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains internationaux `ICE` vers l'Allemagne, la réservation est possible et sera obligatoire en été 2026 (uniquement pour les trajets transfrontaliers).
+En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et elle n’est souvent pas possible. Pour les trains internationaux `ICE` vers l’Allemagne, la réservation est possible et sera obligatoire en été 2026 (uniquement pour les trajets transfrontaliers).
 
 {{% train-category
   id="ice"
@@ -76,7 +76,7 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 Train international entre Lelystad, Amsterdam et Bruxelles avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
 {{% highlight important %}}
-Pour les trajets aux Pays-Bas, des règles spéciales s'appliquent, voir [NS ECD](/operator/ns#ecd)
+Pour les trajets aux Pays-Bas, des règles spéciales s’appliquent, voir [NS ECD](/operator/ns#ecd)
 {{% /highlight %}}
 
 ![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
@@ -193,10 +193,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 ### À bord du train
 
 {{% highlight important %}}
-À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à bord de ses trains. Cela concerne également les billets FIP à tarif réduit. Tous les voyageurs devront être en possession d'un billet valable avant de monter à bord. [^5]<sup>, </sup>[^6]
+À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à bord de ses trains. Cela concerne également les billets FIP à tarif réduit. Tous les voyageurs devront être en possession d’un billet valable avant de monter à bord. [^5]<sup>, </sup>[^6]
 {{% /highlight %}}
 
-Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n'est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
+Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
 
 ## Réductions
 

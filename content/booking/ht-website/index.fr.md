@@ -45,7 +45,7 @@ Changez la langue en anglais ou en italien si nécessaire.
 
 **Étape 2**
 
-Sélectionnez une correspondance appropriée. Le prix du billet régulier est d'abord affiché.
+Sélectionnez une correspondance appropriée. Le prix du billet régulier est d’abord affiché.
 Les noms de gares doivent être saisis en anglais.
 
 {{% /float-image %}}
@@ -59,10 +59,10 @@ Les noms de gares doivent être saisis en anglais.
 
 **Étape 3**
 
-À l'étape suivante, sélectionnez « FIP CARD » dans le champ « Offer » et saisissez le numéro de la Carte FIP.
+À l’étape suivante, sélectionnez « FIP CARD » dans le champ « Offer » et saisissez le numéro de la Carte FIP.
 Le prix du billet régulier est alors réduit de 50 %.
 
-Pour les services nécessitant une réservation, une réservation est ajoutée gratuitement. Le siège peut optionnellement être choisi en sélectionnant l'option « Choose seat ».
+Pour les services nécessitant une réservation, une réservation est ajoutée gratuitement. Le siège peut optionnellement être choisi en sélectionnant l’option « Choose seat ».
 
 {{% /float-image %}}
 

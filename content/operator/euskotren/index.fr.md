@@ -21,7 +21,7 @@ Dans le nord de l’[Espagne](/country/spain "Espagne"), Euskotren exploite un r
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50" disable_dialog=true >}}
-{{< fip-validity type="additional" status="valid" text="'Euskotren FIP Ticket' spécial (pour titulaires et accompagnants)" disable_dialog=true >}}
+{{< fip-validity type="additional" status="valid" text="’Euskotren FIP Ticket’ spécial (pour titulaires et accompagnants)" disable_dialog=true >}}
 
 {{% float-image
   src="euskotren_fip_ticket.webp"
@@ -108,7 +108,7 @@ Si vous n’avez pas d’"Euskotren FIP Ticket", le personnel des stations déli
   type="bus"
   fip_accepted=false
 %}}
-Les Billets FIP ne sont pas valables sur les lignes de bus régionales d'Euskotren. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
+Les Billets FIP ne sont pas valables sur les lignes de bus régionales d’Euskotren. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}
 
 ## Catégories de classes

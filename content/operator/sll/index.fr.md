@@ -11,7 +11,7 @@ aliases:
   - /booking/stena-line-limited-phone
 ---
 
-L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. Les liaisons en mer d'Irlande sont assurées par Stena Line Limited (SLL) dans le cadre de l'accord FIP.
+L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. Les liaisons en mer d’Irlande sont assurées par Stena Line Limited (SLL) dans le cadre de l’accord FIP.
 
 Les services de ferry entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) sont assurés par [Stena Line BV (StL)](/operator/stl), un opérateur FIP distinct.
 
@@ -32,7 +32,7 @@ Les services de ferry entre Harwich ([Royaume-Uni](/country/united-kingdom)) et 
     width="40%"
     position="right"
 %}}
-Les ferries assurant la traversée de la mer d'Irlande ne font pas de distinction de catégories. Différents navires, offrant des prestations variées, sont utilisés selon la traversée.
+Les ferries assurant la traversée de la mer d’Irlande ne font pas de distinction de catégories. Différents navires, offrant des prestations variées, sont utilisés selon la traversée.
 
 La licence FIP (Ferrari International Passenger License) est acceptée sur plusieurs lignes :
 
@@ -47,7 +47,7 @@ Vous trouverez la liste des navires utilisés sur le [site web de Stena Line](ht
 ## Catégories de classes
 
 Il n’existe qu’une seule classe à bord des navires pour FIP.
-Selon l'itinéraire et le navire, différentes options de salons et de cabines sont disponibles.
+Selon l’itinéraire et le navire, différentes options de salons et de cabines sont disponibles.
 Aucune remise FIP n’est accordée sur les salons ou les cabines. [^1]
 
 ## Achat de billets et réservations

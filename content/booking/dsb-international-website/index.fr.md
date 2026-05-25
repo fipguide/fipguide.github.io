@@ -19,7 +19,7 @@ params:
 
 Le prix de réservation est calculé par voyage. Ainsi, pour les liaisons avec changement, il suffit de payer une fois le prix pour plusieurs trains.
 
-Sur le site Web de DSB, des réservations de sièges pour des liaisons ferroviaires internationales et transfrontalières peuvent être effectuées. Pour la réservation, l'option _Buy seat ticket only_ doit être spécifiée dans la recherche de connexion.
+Sur le site Web de DSB, des réservations de sièges pour des liaisons ferroviaires internationales et transfrontalières peuvent être effectuées. Pour la réservation, l’option _Buy seat ticket only_ doit être spécifiée dans la recherche de connexion.
 
 Des réservations étrangères pour les pays suivants peuvent être effectuées :
 

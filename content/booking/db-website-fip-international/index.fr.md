@@ -37,7 +37,7 @@ Les Billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 - République tchèque
 - Danemark
 - France \
-  <small>uniquement les trains régionaux entre l'Allemagne et la France</small>
+  <small>uniquement les trains régionaux entre l’Allemagne et la France</small>
 - Allemagne
 - Italie \
   <small>uniquement la ligne du Brenner avec l’Autriche et le ECE Francfort – Milan</small>
@@ -63,5 +63,5 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 {{% /booking-section %}}
 
 {{% highlight "important" %}}
-Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l'opérateur ou utiliser d'autres méthodes de réservation.
+Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l’opérateur ou utiliser d’autres méthodes de réservation.
 {{% /highlight %}}
