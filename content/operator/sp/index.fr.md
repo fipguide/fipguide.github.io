@@ -134,15 +134,15 @@ Tous ces services sont accessibles avec le FIP.
     reservation_required=partially
     reservation_possible=true
 %}}
-Ferrovie Autolinee Regionali Ticinesi (FART) exploite, outre quelques lignes d'autobus, la section suisse de la Centovallibahn de Locarno à Domodossola en Italie, sur laquelle circule également le Treno Panoramico Vigezzo Vision.
+Ferrovie Autolinee Regionali Ticinesi (FART) exploite, outre quelques lignes d’autobus, la section suisse de la Centovallibahn de Locarno à Domodossola en Italie, sur laquelle circule également le Treno Panoramico Vigezzo Vision.
 
-Bien que la Centovallibahn mène en Italie, les billets FIP de SP sont valables sur l'ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre SP du FIP.
+Bien que la Centovallibahn mène en Italie, les billets FIP de SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre SP du FIP.
 
 {{% highlight important %}}
-Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
+Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d’information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
 {{% /highlight %}}
 
-FART exploite également deux petits téléphériques. Il n'est pas connu si le FIP est reconnu sur ceux-ci.
+FART exploite également deux petits téléphériques. Il n’est pas connu si le FIP est reconnu sur ceux-ci.
 
 Dans le transport par bus, le FIP est pleinement reconnu.
 
@@ -150,7 +150,7 @@ Dans le transport par bus, le FIP est pleinement reconnu.
 
 Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
 
-Dans les trains panoramiques, il n'est pas permis de voyager debout pour des raisons de confort.
+Dans les trains panoramiques, il n’est pas permis de voyager debout pour des raisons de confort.
 
 Les réservations de sièges peuvent être achetées [en ligne sur le site de Centovalli](https://prenota.vigezzinacentovalli.com/) pour 4 € par personne et par trajet.
 
@@ -460,7 +460,7 @@ Pour le Glacier Express, des réservations payantes doivent être achetées à l
     reservation_required=false
     reservation_possible=true
 %}}
-La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l'Alpenrhein-Express et l'Aare Linth sont également exploités par la SOB.
+La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l’Alpenrhein-Express et l’Aare Linth sont également exploités par la SOB.
 
 {{% highlight important %}}
 Il est à noter que les Coupons FIP ne sont pas valables sur les lignes où la SOB opère en coopération avec la CFF, par exemple entre Bâle CFF et Arth-Goldau. Sur ces itinéraires, seuls les Coupons FIP de la CFF sont valables. En revanche, les billets FIP 50 sont possibles.
@@ -489,14 +489,14 @@ La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la
 Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
 
 {{% highlight important %}}
-Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
+Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d’information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
 {{% /highlight %}}
 
 #### Réservations
 
 Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
 
-Dans les trains panoramiques, il n'est pas permis de voyager debout pour des raisons de confort.
+Dans les trains panoramiques, il n’est pas permis de voyager debout pour des raisons de confort.
 
 Les réservations de sièges peuvent être achetées [en ligne sur le site de Centovalli](https://prenota.vigezzinacentovalli.com/) pour 4 € par personne et par trajet.
 

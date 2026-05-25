@@ -28,5 +28,5 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 {{% /booking-section %}}
 
 {{% highlight "important" %}}
-Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l'opérateur ou utiliser d'autres méthodes de réservation.
+Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l’opérateur ou utiliser d’autres méthodes de réservation.
 {{% /highlight %}}
