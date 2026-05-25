@@ -348,7 +348,7 @@ Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer 
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandationss
+## Recommandations
 
 {{% highlight tip %}}
 Les Coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière conditionnelle. Si des voyages avec l’EIP sont prévus, ils sont recommandés en raison du confort accru et des collations supplémentaires en 1ère classe. Dans les autres trains, il n’y a parfois que deux compartiments 6 places en 1ère classe, qui sont souvent rapidement complets. Même avec des zones de 1ère classe plus grandes, il arrive parfois que celles-ci soient moins confortables que les zones de 2ᵉ classe dans le même train. Pour les voyages en transport régional, aucune 1ère classe n’est généralement proposée.

@@ -105,7 +105,7 @@ Les interruptions de voyage sont possibles à tout moment et aucune preuve n'est
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandationss
+## Recommandations
 
 {{% highlight tip %}}
 Similaire aux autres sociétés ferroviaires régionales en Pologne qui acceptent le FIP, l'utilisation du FIP chez KŚ est simple et pratique avec peu d'exceptions. La région métropolitaine polonaise autour de Katowice peut ainsi être facilement utilisée pour les transports régionaux. Les fans de la compagnie ferroviaire peuvent également se procurer des articles de fan au centre de voyages de KŚ à la gare de Katowice.

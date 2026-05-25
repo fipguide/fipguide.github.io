@@ -163,7 +163,7 @@ Stena Line propose des billets permettant un voyage combiné train et ferry à p
 [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 {{% /highlight %}}
 
-## Recommandationss
+## Recommandations
 
 {{% highlight important %}}
 Veuillez noter que l'enregistrement n'est possible que jusqu'à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.

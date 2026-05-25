@@ -152,7 +152,7 @@ Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la 
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandationss
+## Recommandations
 
 {{% highlight tip %}}
 Les membres de la famille ne sont parfois pas éligibles aux Coupon FIP des SBB. Cependant, la Coupon FIP des BLS leur permet de découvrir une grande partie de la Suisse.

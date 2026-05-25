@@ -94,7 +94,7 @@ Les interruptions de voyage sont possibles à tout moment et aucune preuve n’e
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandationss
+## Recommandations
 
 {{% highlight tip %}}
 Similaire aux autres sociétés ferroviaires régionales en Pologne qui acceptent le FIP, l’utilisation du FIP chez KW est simple et pratique avec peu d’exceptions. Cependant, sur de nombreuses lignes, des trains de PKP InterCity et Polregio circulent également, ce qui rend un Coupon FIP supplémentaire de PKP très utile lors de l’utilisation d’un Coupon FIP, afin de ne pas être trop limité dans le choix des trains.

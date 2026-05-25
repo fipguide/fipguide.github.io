@@ -665,7 +665,7 @@ La réduction est de 50 % sur le tarif adulte régulier.
 
 {{% /train-category %}}
 
-## Recommandationss
+## Recommandations
 
 Il existe deux grands musées ferroviaires au Royaume-Uni. Le site principal se trouve à côté de la gare de York. Un second site, appelé Locomotion, se trouve à côté de la gare de Shildon. Les deux musées sont gratuits et offrent un bon aperçu de l’histoire du chemin de fer au Royaume-Uni. Plus d’informations sur le [musée ferroviaire de York](https://railwaymuseum.org.uk) et [Locomotion à Shildon](https://locomotion.org.uk).
 

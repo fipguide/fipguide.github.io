@@ -117,7 +117,7 @@ Les interruptions de voyage sont possibles à tout moment et aucune preuve n’e
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandationss
+## Recommandations
 
 {{% highlight tip %}}
 En plus de nombreuses connexions dans la région de Łódź, ŁKA propose également des connexions directes interrégionales de Łódź vers Poznań ou Varsovie. Cela signifie qu’une grande distance en Pologne peut être parcourue avec un Coupon FIP de ŁKA, sans disposer simultanément d’un Coupon FIP de PKP. Il convient toutefois de noter que sur de nombreuses lignes de ŁKA, des trains de PKP InterCity et Polregio circulent également en parallèle.

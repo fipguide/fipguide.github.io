@@ -166,7 +166,7 @@ Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement
 
 Avec les billets FIP 50, une interruption de voyage n'est autorisée qu'une seule fois et pour une durée maximale de 24 heures à compter de l'arrivée à la gare où le voyage est interrompu. Pour cela, le billet doit être composté dans l'heure qui suit l'arrivée.[^1]
 
-## Recommandationss
+## Recommandations
 
 {{% highlight tip %}}
 CFR Călători assure une offre de base solide sur le réseau ferroviaire roumain, en grande partie vieillissant, en particulier sur les axes principaux. Hormis l'obligation de réservation sur la plupart des liaisons, il est relativement simple de parcourir le pays avec la FIP. Les trains internationaux vers l'Europe de l'Ouest constituent un point fort particulier, tout comme les trains bien connus vers la Moldavie et la Turquie, même si ces derniers ne peuvent pas être utilisés avec la FIP sur l'intégralité du trajet.
