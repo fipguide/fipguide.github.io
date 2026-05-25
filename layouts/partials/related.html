@@ -42,7 +42,7 @@
               >{{ .Date | time.Format ":date_long" }}</span
             >
             {{- with .Params.updated }}
-              {{ partial "tag" (dict "Type" "info" "Icon" "update" "RawText" (. | time.Format ":date_long")) }}
+              {{ partial "tag" (dict "Type" "info" "RawText" (print (i18n "news.updated") " " (. | time.Format ":date_long"))) }}
             {{- end }}
           </div>
         {{ end }}

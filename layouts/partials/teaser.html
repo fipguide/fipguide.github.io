@@ -15,7 +15,7 @@
       <div class="m-teaser__dateline">
         <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
         {{- with $page.Params.updated }}
-          {{ partial "tag" (dict "Type" "info" "Icon" "update" "RawText" (. | time.Format ":date_long")) }}
+          {{ partial "tag" (dict "Type" "info" "RawText" (print (i18n "news.updated") " " (. | time.Format ":date_long"))) }}
         {{- end }}
       </div>
       {{ if $listview }}

@@ -26,5 +26,6 @@ L’offre comprend les options suivantes :
 
 N’hésitez pas à nous écrire via notre formulaire de contact si vous avez des retours sur les réductions proposées sur le site.
 
-**Mise à jour 05.11.2025 :** \
+{{% update date="2025-11-05" %}}
 L’option de réservation des billets FIP 50 a depuis été supprimée. Il est désormais uniquement possible de réserver des billets prenant en compte le Coupon FIP.
+{{% /update %}}

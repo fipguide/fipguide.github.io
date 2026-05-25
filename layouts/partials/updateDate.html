@@ -5,7 +5,7 @@
   <div class="o-last-updated" data-pagefind-ignore="all">
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
     {{- with .Params.updated }}
-      {{ partial "tag" (dict "Type" "info" "Icon" "update" "RawText" (. | time.Format ":date_long")) }}
+      {{ partial "tag" (dict "Type" "info" "RawText" (print (i18n "news.updated") " " (. | time.Format ":date_long"))) }}
     {{- end }}
   </div>
 {{ else if .GitInfo }}
