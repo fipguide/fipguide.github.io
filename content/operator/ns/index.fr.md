@@ -4,6 +4,10 @@ title: "NS"
 country:
   - "netherlands"
 operator: "ns"
+
+aliases:
+  - /booking/ns-phone
+  - /booking/ns-ticket-office
 ---
 
 Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pays-Bas](/country/netherlands "Pays-Bas") et assurent la majorité du trafic voyageurs dans le pays.
@@ -14,6 +18,7 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 - Les réservations ne sont généralement pas nécessaires.
 - Un supplément est partiellement nécessaire pour les trains Eurocity Direct (`ECD`) et Intercity Direct (`ICD`).
 - Avec un Coupon FIP, un coupon d’accès aux portiques est requis pour entrer dans les gares.
+- Les agents de [SNCB / NMBS](/operator/sncb) peuvent obtenir un _Unlimited Pass_.
 
 ## Validité des Billets FIP
 
@@ -21,6 +26,8 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un Billet FIP 50 continu ou des Coupons FIP valables dans les deux pays.
+
+Les agents de [SNCB / NMBS](/operator/sncb) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains NS aux Pays-Bas toute l’année. [^5]
 
 ## Catégories de trains et réservations
 
@@ -45,7 +52,7 @@ Lors de l'utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas,
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l'application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s'appliquent pour un billet unique.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour les trajets transfrontaliers en haute saison.
 En 2026, ce sera le cas du 26 juin au 16 août.
@@ -225,3 +232,5 @@ NS se distingue par une grande fréquence et des connexions efficaces. Des retar
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+
+[^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)

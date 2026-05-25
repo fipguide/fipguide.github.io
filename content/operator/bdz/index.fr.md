@@ -4,6 +4,9 @@ title: "BDŽ"
 country:
   - "bulgaria"
 operator: "bdz"
+
+aliases:
+  - /booking/bdz-ticket-office
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de [Bulgarie](/country/bulgaria "Bulgarie") et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.
@@ -38,7 +41,7 @@ Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains 
 
 Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée.
 
-#### Réservation
+#### Réservations
 
 La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
 {{% /train-category %}}
@@ -52,7 +55,7 @@ La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
 %}}
 Trains relativement rapides reliant les grandes villes avec peu d'arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d'anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour certains trains (indiqué par _R_).
 {{% /train-category %}}
@@ -66,7 +69,7 @@ Une réservation est obligatoire pour certains trains (indiqué par _R_).
 %}}
 Trains nationaux reliant des villes avec peu d'arrêts.
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour certains trains (indiqué par _R_).
 {{% /train-category %}}
@@ -126,7 +129,7 @@ Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement
 
 Si vous souhaitez voyager au-delà de la destination réservée, un supplément doit être payé en plus du billet pour la distance supplémentaire. [^1]
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée avec un billet continu.
 

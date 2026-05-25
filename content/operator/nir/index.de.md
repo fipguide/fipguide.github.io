@@ -4,6 +4,10 @@ title: "NIR"
 country:
   - "united-kingdom"
 operator: "nir"
+
+aliases:
+  - /booking/translink-ticket-office
+  - /booking/translink-whatsapp
 ---
 
 Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirland und gehört zu Translink, einem staatlichen Verkehrsunternehmen. Das Zugnetz ist überschaubar und umfasst hauptsächlich Verbindungen von bzw. nach Belfast.
@@ -82,7 +86,7 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind nur erlaubt, um Anschlusszüge zu erreichen.[^1]
 

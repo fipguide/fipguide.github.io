@@ -27,6 +27,8 @@ Mitarbeitende der ÖBB, SBB und PKP können zudem Tickets buchen, die nur Gülti
 
 Die Buchung ist nur über den [Link](https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE) möglich. Vergünstigungen müssen nicht ausgewählt werden, sondern werden automatisch angewendet.
 
+FIP 50 Fahrkarten werden nur verkauft, wenn für diese Verbindung keine _Verbundtickets_ angeboten werden. Siehe [Fahrten in Verkehrsverbünden](/operator/db#fahrten-in-verkehrsverbünden) in Deutschland.
+
 FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ein Teilabschnitt in Deutschland enthalten ist:
 
 <!-- prettier-ignore -->
@@ -59,3 +61,7 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 ![DB Reservierung buchen](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+Falls es während der Buchung von reservierungspflichtigen Zügen zu einem Fehler kommt, kann es sein, dass für die Verbindung noch keine Reservierungen verkauft werden. Bitte beachte entsprechende Vorverkaufsfristen und probiere es in diesem Fall zu einem späteren Zeitpunkt erneut, prüfe die Verbindung auf der entsprechenden Betreiberwebsite oder nutze andere Buchungswege.
+{{% /highlight %}}

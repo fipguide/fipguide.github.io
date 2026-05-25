@@ -39,8 +39,6 @@ In der [Onlinefahrplanauskunft der ÖBB](https://fahrplan.oebb.at/) wird nur nac
 
 Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona).
 
-Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterreich, diese wird nicht von den ÖBB betrieben kann aber mit FIP 50 reduziert befahren werden.
-
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
@@ -48,19 +46,62 @@ Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterrei
 | Land                                                         | Grenzpunkte                                                                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | [Tschechien](/country/czechia) ([ČD](/operator/cd))          | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr),                                     |
+| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                 |
 | Ungarn ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                      |
 | Ungarn (MÁV)                                                 | Hegyshalom (Gr), Sopron                                                                                   |
-| [Deutschland](/country/germany) ([DB](/operator/db))         | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 | Slowenien (SŽ)                                               | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr)                                                        |
-| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                 |
-| [Schweiz](/country/switzerland) ([SBB](/operator/sbb))       | Buchs SG, St. Margrethen                                                                                  |
 | [Italien](/country/italy) ([FS](/operator/fs))               | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                               |
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb))       | Buchs SG, St. Margrethen                                                                                  |
+| [Deutschland](/country/germany) ([DB](/operator/db))         | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
 
 {{% /expander %}}
 
 ### Tschechien
 
 Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brün.
+
+### Slowakei
+
+Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
+
+- Eine Verbindung führt nördlich der Donau vom Hauptbahnhof Bratislava (Bratislava hl.st.) über Marchegg nach Wien.
+- Eine andere Verbindung startet im Süden von Bratislava (Bratislava Petrzalka) und führt über Kittsee nach Wien.
+
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
+
+Zusätzlich gibt es einzelne `EC` Verbindungen.
+
+### Ungarn
+
+Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom wird ein zusätzliches FIP Ticket der MAV ab der Grenze benötigt, in den anderen Fällen wird ein zusätzliches FIP Ticket der GySEV benötigt.
+
+### Slowenien
+
+Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽ notwendig oder FIP 50 Ticket zu buchen.
+
+### Italien
+
+Es zwei internationale Routen von Italien nach Österreich:
+
+- Die Brennerbahn: mit Eurocity-Zügen von Bozen und Veron über den Brennerpass und Innsbruck München sowie Züge der Linie `S3` von Brenner nach Insbruck. Nach Brenner könne Regionalzüge aus Richtung Bozen genutzt werden.
+- Die Strecke über Tarvisio Boscoverde: mit Railjets aus Venedig weiter nach Wien und einzelnen Regionalzügen von Trieste nach Villach
+
+Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen (siehe [Züge nach Italien](/operator/oebb/#züge-nach-italien)).
+
+Außerdem existieren Eurocity Verbindungen aus Triest über Slowenien nach Österreich (`EC` 151/134): \
+Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
+
+### Liechtenstein
+
+Liechtenstein und Österreich sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten in Liechtenstein auch Freifahrten und FIP 50 Tickets der ÖBB.
+
+Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
+
+### Schweiz
+
+Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
+
+Eine Einreise aus der Schweiz ist auch über Buchs SG und Feldkirch durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
 ### Deutschland
 
@@ -83,49 +124,6 @@ Auf der Strecke der [Außenfernbahn](https://de.wikipedia.org/wiki/Au%C3%9Ferfer
 Außgenommen sind Fahrten, die im reinen Binnenverkehr stattfinden (also in Österreich beginnen und enden). FIP Freifahrtscheine der ÖBB gelten für keine Fahrten auf der Strecke.
 
 Die Regeln gelten analog zu den Regeln des Deutschlandtickets oder der Bahncard 100. [^1] [^2]
-
-### Ungarn
-
-Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom wird ein zusätzliches FIP Ticket der MAV ab der Grenze benötigt, in den anderen Fällen wird ein zusätzliches FIP Ticket der GySEV benötigt.
-
-### Schweiz
-
-Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
-
-Eine Einreise aus der Schweiz ist auch über Buchs SG und Feldkirch durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
-
-### Liechtenstein
-
-Liechtenstein und Österreich sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten in Liechtenstein auch Freifahrten und FIP 50 Tickets der ÖBB.
-
-Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
-
-### Italien
-
-Es zwei internationale Routen von Italien nach Österreich:
-
-- Die Brennerbahn: mit Eurocity-Zügen von Bozen und Veron über den Brennerpass und Innsbruck München sowie Züge der Linie `S3` von Brenner nach Insbruck. Nach Brenner könne Regionalzüge aus Richtung Bozen genutzt werden.
-- Die Strecke über Tarvisio Boscoverde: mit Railjets aus Venedig weiter nach Wien und einzelnen Regionalzügen von Trieste nach Villach
-
-Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen (siehe [Züge nach Italien](/operator/oebb/#züge-nach-italien)).
-
-Außerdem existieren Eurocity Verbindungen aus Triest über Slowenien nach Österreich (`EC` 151/134): \
-Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
-
-### Slowakei
-
-Aus der Slowakei ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
-
-- Eine Verbindung führt nördlich der Donau vom Hauptbahnhof Bratislava (Bratislava hl.st.) über Marchegg nach Wien.
-- Eine andere Verbindung startet im Süden von Bratislava (Bratislava Petrzalka) und führt über Kittsee nach Wien.
-
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
-
-Zusätzlich gibt es einzelne `EC` Verbindungen.
-
-### Slowenien
-
-Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽnotwendig oder FIP 50 Ticket zu buchen.
 
 ## FIP Bewertung
 

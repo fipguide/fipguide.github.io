@@ -8,6 +8,10 @@ operator: "oebb"
 
 aliases:
   - obb
+  - /booking/oebb-phone
+  - /booking/oebb-ticket-machine
+  - /booking/oebb-ticket-office
+  - /booking/oebb-website
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
@@ -79,7 +83,7 @@ Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets
 Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Es besteht Reservierungspflicht teilweise in der Hauptsaison (Sommer) auf internationalen Verbindungen nach Deutschland nur für grenzüberschreitende Fahrten.
 
@@ -131,7 +135,7 @@ Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschlan
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
 
-#### Reservierung
+#### Reservierungen
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
 
@@ -214,6 +218,16 @@ Dazu gehören unter anderem:
 
 {{% /train-category %}}
 
+{{% train-category
+    id="oebb-postbus"
+    title="ÖBB Postbus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -259,7 +273,7 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
-Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 19 €. \
+Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
 [Siehe ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -301,14 +315,6 @@ Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
 Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stunden-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
 {{% /highlight %}}
 
-### Schneebergbahn
-
-Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewährt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
-
-### ÖBB Postbus
-
-FIP Fahrkarten sind im ÖBB Postbus nicht gültig, außer bei Schienenersatzverkehren (SEV).
-
 ### Motorail
 
 FIP Fahrkarten gelten in Autoreisezügen der ÖBB. Die Kosten für den Fahrzeugtransport sind zusätzlich zu bezahlen und vom FIP Ermäßigung ausgeschlossen.
@@ -323,13 +329,17 @@ FIP 50 Ermäßigungen sind nicht erhältlich.
 
 Fernzüge der ÖBB verkehren zwischen Salzburg und Kufstein auf dem deutschen Streckennetz ohne Halt. FIP Freifahrtscheine der ÖBB sind hier gültig.
 
+### Unterscheidung zwischen Nah- und Fernverkehr
+
+Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
+
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
 
-### Unterscheidung zwischen Nah- und Fernverkehr
+### Schienenersatzverkehr
 
-Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zwischen Nah- und Fernverkehr statt. Alle Fahrkarten inklusive FIP 50 Tickets sind für alle Züge der ÖBB gültig.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Quellen
 

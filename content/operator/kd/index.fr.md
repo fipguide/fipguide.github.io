@@ -4,6 +4,11 @@ title: "KD"
 country:
   - "pologne"
 operator: "kd"
+
+aliases:
+  - /booking/kd-ticket-machine
+  - /booking/kd-ticket-office
+  - /booking/kd-website
 ---
 
 Koleje Dolnośląskie (KD) est une compagnie ferroviaire polonaise assurant principalement des services régionaux dans la voïvodie de Basse-Silésie. C’est l’une des cinq compagnies différentes de [Pologne](/country/poland) qui proposent le FIP.
@@ -28,6 +33,15 @@ Pour les voyages transfrontaliers, il faut soit un Billet FIP 50 continu, soit d
 ## Catégories de trains et réservations
 
 KD ne distingue pas de catégories de trains différentes. Les trains ont en général un numéro de ligne commençant par "D", mais dans les moteurs de recherche de voyages il n’est souvent indiqué que "KD" et un numéro de train. Certains trains sont commercialisés comme "KD Sprinter" ou "KD Supersprinter", mais restent néanmoins des trains régionaux. Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains KD. Il n’est pas possible de réserver.
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+%}}
+Le FIP est accepté sur toutes les lignes de bus KD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
@@ -88,9 +102,9 @@ En saison estivale, KD propose aussi des trains spéciaux "KD Premium", reliant 
 
 D’ordinaire, les avantages FIP KD ne sont valables qu’en Pologne. Pour les trajets transfrontaliers Zgorzelec (Pologne) – Görlitz (Allemagne), exception : aucun billet supplémentaire n’est exigé entre ces deux gares ; tous les billets valables jusqu’à Zgorzelec sont aussi valables jusqu’à Görlitz et inversement.
 
-### Bus
+### Services de remplacement ferroviaire
 
-Le FIP est accepté sur toutes les lignes de bus KD, qui circulent en général comme remplacement ferroviaire ou en prévision de réouverture future de lignes ferroviaires.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

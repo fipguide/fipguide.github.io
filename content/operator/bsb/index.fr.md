@@ -6,6 +6,9 @@ country:
   - "germany"
   - "switzerland"
 operator: "bsb"
+
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").
@@ -77,7 +80,7 @@ Le billet anniversaire doit être retiré avant le départ aux points de vente.[
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Une interruption de voyage est autorisée sans formalités.[^1]
 

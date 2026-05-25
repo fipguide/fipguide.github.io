@@ -4,6 +4,11 @@ title: "GySEV / Raaberbahn"
 country:
   - "austria"
 operator: "gysev"
+
+aliases:
+  - /booking/mav-ticket-machine
+  - /booking/mav-ticket-office
+  - /booking/mav-website
 ---
 
 The Raab-Oedenburg-Ebenfurter Eisenbahn AG (Hungarian: Győr-Sopron-Ebenfurti Vasút Zrt.), short: GySEV or Raaberbahn, is a private Hungarian railway company that operates regional trains in Hungary and [Austria](/country/austria "Austria"). They primarily operate passenger services south and east of Lake Neusiedl (Western Hungary), partly even on their own infrastructure.
@@ -48,7 +53,7 @@ GySEV operates Scarbantia IC trains between Sopron and Budapest.
 In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are only mandatory between Győr and Budapest. For journeys between Sopron and Győr, no reservation is required.
 
@@ -102,6 +107,15 @@ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP discounts are not valid on GySEV bus connections. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -138,13 +152,13 @@ With public fares, children under 6 travel free of charge. Children up to 15 yea
 
 ## Special Tariff Conditions
 
-### Bus Services
-
-FIP discounts are not valid on GySEV bus connections.
-
-### Break of journey
+### Break of Journey
 
 For a break of journey, the ticket must be stamped at the station where the break should be.
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Sources
 

@@ -34,16 +34,18 @@ Particularly noteworthy are the impressive station buildings of Liège-Guillemin
 
 | Country                                                  | Border Points                                                       |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| [Germany](/country/germany) ([DB](/operator/db))         | Aachen Süd (Gr)                                                     |
 | [Netherlands](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr)                                          |
+| [Germany](/country/germany) ([DB](/operator/db))         | Aachen Süd (Gr)                                                     |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
 | [France](/country/france) ([SNCF](/operator/sncf))       | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
 
 {{% /expander %}}
 
-### Luxembourg
+### Netherlands
 
-From Luxembourg, cross-border SNCB trains to Liège or Brussels can be used. In 2nd class, the FIP Ticket (Coupon or FIP 50) is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP Ticket for CFL is required.
+From the Netherlands, cross-border regional trains (including the `IC`) can be used; for these, an additional FIP Ticket from NS is required. Furthermore, long-distance trains (`ECD` and `EC`) operate, where an extra surcharge may apply on the Dutch section (between Rotterdam and Schiphol).
+
+The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section, including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
 
 ### Germany
 
@@ -63,11 +65,13 @@ The S41 operated by SNCB runs between Aachen and Liège-Saint-Lambert. When usin
 We recommend speaking to the train staff before departure. If in doubt, the ticket for the short German section can be purchased from the train staff at the standard fare of €2.20 (1st & 2nd class, as of March 2026).
 {{% /highlight %}}
 
-### Netherlands
+### Luxembourg
 
-From the Netherlands, cross-border regional trains (including the `IC`) can be used; for these, an additional FIP Ticket from NS is required. Furthermore, long-distance trains (`ECD` and `EC`) operate, where an extra surcharge may apply on the Dutch section (between Rotterdam and Schiphol).
+From Luxembourg, cross-border SNCB trains to Liers, Liège or Brussels can be used. There are also cross-border connections in the west of the country from Luxembourg to Arlon via Athus or Sterpenich (fr).
 
-The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section, including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
+In 2nd class, the FIP Coupon of SNCB is sufficient for the entire route, as public transport in Luxembourg is free in 2nd class. For 1st class, an additional FIP Ticket for CFL is required.
+
+When using FIP 50 Tickets, a ticket from the border point (Gouvy (fr) or Sterpenich (fr)) or from the last stop in Luxembourg is required for cross-border journeys. An exception is travel via Athus. Here, free travel in Luxembourg applies from the station Athus in Belgium. Tickets in Belgium therefore only need to be purchased until/from here. In 1st class, a ticket is also required in the Luxembourg section.
 
 ### France
 

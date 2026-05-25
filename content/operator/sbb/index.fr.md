@@ -3,6 +3,11 @@ draft: false
 title: "SBB CFF FFS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/sbb-ticket-machine
+  - /booking/sbb-ticket-office
+  - /booking/sbb-website
 ---
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
@@ -44,7 +49,7 @@ Trains à grande vitesse en provenance d’Allemagne vers Bâle et parfois jusqu
 %}}
 Trains à grande vitesse en provenance de France vers Zurich via Bâle.
 
-#### Réservation
+#### Réservations
 
 La réservation est obligatoire hors de Suisse et pour les trajets transfrontaliers.
 {{% /train-category %}}
@@ -59,7 +64,7 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 %}}
 Trains internationaux vers l’Allemagne et l’Italie.
 
-#### Réservation
+#### Réservations
 
 1ère classe : 13 € \
 2ᵉ classe : 11 €
@@ -76,6 +81,8 @@ Une réservation et un supplément sont requis pour la section italienne. Il est
     reservation_possible=true
 %}}
 Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gares de correspondance.
+
+Certains services [Nightjet](#nj) sont exploités avec des voitures à sièges `IC`. Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d'information en plus du service Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -88,7 +95,9 @@ Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gar
 %}}
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
 
-#### Réservation
+Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d'information, en plus du service Nightjet.
+
+#### Réservations
 
 Une réservation est requise sauf dans les voitures à places assises lorsqu’ils circulent comme Intercity, Eurocity ou trains régionaux.
 {{% /train-category %}}
@@ -104,7 +113,7 @@ Une réservation est requise sauf dans les voitures à places assises lorsqu’i
 %}}
 Train panoramique des CFF prenant la ligne du Gothard classique de mi-avril à mi-octobre. Promu comme voyage en combinaision avec le bateau da la Société de navigation du lac des Quatre-Cantons (SGV), y étant valable les réductions SP, voir [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Pour les voyageurs faisant le parcours complet avec train et bateau entre Lugano et Lucerne (et vice versa) un transfer de bagages gratuit est offert.
 
-#### Réservation
+#### Réservations
 
 Une réservation spéciale pour 24 CHF est requise.
 
@@ -132,6 +141,15 @@ Trains nationaux s’arrêtant dans les grandes villes.
     reservation_required=false
 %}}
 Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aussi appelés S-Bahn.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -176,10 +194,6 @@ Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéc
 
 ## Conditions tarifaires spéciales
 
-### Bus et substitutions
-
-Les Billets FIP ne sont pas valables sur les lignes de bus des CFF, sauf si elles sont en remplacement ferroviaire (SEV).
-
 ### Reconnaissance mutuelle CFF / BLS
 
 Les compagnies ferroviaires suisses SBB et BLS acceptent partiellement mutuellement les Coupons FIP : [^2]
@@ -202,6 +216,10 @@ Ce supplément (incluant la réservation) est obligatoire, même avec un Coupon 
 - 1ère classe : 13 €
 
 Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandation
 

@@ -5,6 +5,9 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
+
+aliases:
+  - /booking/ltg-website
 ---
 
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochtergesellschaft LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.
@@ -76,7 +79,7 @@ Mit regulären Fahrkarten reisen maximal 2 Kinder bis einschließlich 7 Jahre in
 
 Im Sommer betreibt LTG-Link freitags bis sonntags direkte Züge zwischen Vilnius und der Ostsee („seaside express"), die nur in Kretinga und Klaipeda halten. In Kretinga besteht Bus-Anschluss nach Palanga, in Klaipeda auf die Kurische Nehrung. FIP gilt in diesen Zügen und Anschlussbussen.[^3]
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Fahrtunterbrechung ist nicht vorgesehen, weil für jede Fahrt eine separate Fahrkarte erworben wird.
 

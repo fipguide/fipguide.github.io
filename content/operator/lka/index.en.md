@@ -4,6 +4,10 @@ title: "ŁKA"
 country:
   - "poland"
 operator: "lka"
+
+aliases:
+  - /booking/lka-ticket-machine
+  - /booking/lka-ticket-office
 ---
 
 Łódzka Kolej Aglomeracyjna, short ŁKA, is a Polish railway operator that primarily offers regional transport in the Łódź Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).
@@ -40,7 +44,7 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 Regional trains operating between Łódź and Warsaw, stopping at only a few stations along the way. Some trains only stop at the most important stations of the two cities and not at all in between. Trains have the abbreviation `ŁS` at the beginning in journey planners followed by a specific train number.
 
-#### Reservation
+#### Reservations
 
 A free reservation is possible on these trains. However, they can also be used without a reservation. More information on the [ŁKA website in Polish](https://lka.lodzkie.pl/strona-glowna/Nowe-zasady-rezerwacji-miejsc-w-Sprinterach/). Only 2nd class tickets are offered, as there is no 1st class on ŁKA trains.
 
@@ -57,6 +61,15 @@ A free reservation is possible on these trains. However, they can also be used w
 
 All ŁKA trains that do not operate on the Sprinter route between Łódź and Warsaw. Trains have the abbreviation `ŁKA` at the beginning in journey planners followed by a specific train number. No reservations are possible here. Only 2nd class tickets are offered, as there is no 1st class on ŁKA trains.
 
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=unknown
+%}}
+We currently have no information about the validity of FIP tickets on buses operated by ŁKA. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -100,9 +113,9 @@ FIP tickets are not valid on special trains operated by ŁKA.
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-We currently have no information about the validity of FIP tickets on buses operated by ŁKA. However, we assume that at least the buses that replace a train can be used with FIP benefits.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

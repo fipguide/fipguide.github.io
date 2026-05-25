@@ -4,6 +4,12 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+
+aliases:
+  - /booking/db-ticket-office
+  - /booking/db-website
+  - /booking/db-website-fip-db
+  - /booking/db-website-fip-international
 ---
 
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.
@@ -38,7 +44,7 @@ There is no reservation requirement except for certain cross-border connections 
 
 The `ICE` is a high-speed train and the highest train category of DB. It connects major cities in Germany at up to 300 km/h and also operates to some neighboring countries. Especially fast connections with few stops are called `ICE Sprinter`.
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to France.
 Temporary reservation requirement for cross-border journeys:
@@ -62,7 +68,7 @@ In the past, there was a reservation requirement for cross-border journeys in su
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to France.
 
@@ -102,6 +108,7 @@ For Railjets to Italy, a surcharge is required from the Italian border onward (s
 
 Intercity trains are an important addition to the ICE network. They run at lower speeds than ICE trains, connect many cities, and also serve many holiday and vacation regions.
 
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -125,7 +132,7 @@ Trains to Italy require a surcharge and reservation from the Italian border. It 
 
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to Italy and during the high season to Denmark.
 
@@ -142,7 +149,7 @@ Reservation required for cross-border journeys to Italy and during the high seas
 
 Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland.
 
-#### Reservation
+#### Reservations
 
 Reservation required for cross-border journeys to Poland.
 In the past, there was a reservation requirement for cross-border journeys in summer months to the Czech Republic. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
@@ -167,9 +174,11 @@ National free travel for DB employees is not recognized in Germany. If part of t
 **FIP Global Fare:** yes \
 _Tip:_ For journeys from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP Global Fare.
 
-#### Reservation
+#### Reservations
 
 For Nightjet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railway companies on the journey is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased.
+
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 
 **Cost:** depends on route, occupancy, and car category.
 
@@ -247,23 +256,33 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
 
-{{% booking id="db-website" %}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
-%}}
-Reservation for individual trains without transfer is cheaper via ÖBB.
-{{% /booking %}}
+/%}}
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" /%}}
+{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="€ 6,90" classes.second="€ 5,50" %}}
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+{{% highlight inofficial %}}
+Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
+{{% /highlight %}}
+{{% /booking %}}
 
 ### On-Site
 
@@ -290,7 +309,7 @@ Children traveling free do not need to be related to the accompanying adult.
 
 Up to 3 children can be taken on local trains and up to 4 children on long-distance trains. For FIP 50 Tickets that include a long-distance section, up to 4 children can also be taken on the specified local trains.
 
-Children traveling free do not need to be entered on the ticket. For FIP 50 Tickets, it is still recommended to book them free of charge to avoid problems during ticket inspection.
+Unlike public fares, children traveling free explicitly do not need to be entered on the ticket. They do not need their own ticket.
 
 Children not accompanied by a person over 15 years old with travel entitlement must purchase their own ticket.
 
@@ -302,6 +321,23 @@ Children under 6 years always travel free and do not need their own ticket.
 
 In the Nordhessischer Verkehrsverbund (NVV), no discounts for DB employees are recognized in regional transport. Therefore, no FIP discounts apply here.
 A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) of the affected regional train lines is available.
+
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (formerly SWEG Bahn Stuttgart) does not accept FIP discounts. These include the following lines: [^2]
+
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
 
 ### Journeys in Transport Associations
 
@@ -347,9 +383,9 @@ FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge an
 
 Regionalverkehre Start GmbH is a subsidiary of DB Regio AG but does not accept FIP discounts.
 
-### Buses and Replacement Transport
+### Rail Replacement Services
 
-Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 ## Recommendations
 
@@ -362,3 +398,5 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

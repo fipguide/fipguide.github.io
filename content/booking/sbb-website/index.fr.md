@@ -10,7 +10,7 @@ params:
   fip_50: true
   reservations: true
   booking_link: "https://www.sbb.ch/fr"
-  additional_info_link: "https://www.sbb.ch/fr/billets-offres/billets/billet-parcours-suisse/reservation-de-places.html"
+  additional_info_link: "https://www.sbb.ch/fr/offres/reservation-de-places"
   type: "website"
 
 aliases:

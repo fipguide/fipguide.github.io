@@ -8,6 +8,14 @@ country:
   - "united-kingdom"
   - "france"
 operator: "eurostar"
+
+aliases:
+  - /booking/eurostar-phone
+  - /booking/eurostar-ticket-office
+  - /booking/ffestiniogtravel-email
+  - /booking/ffestiniogtravel-phone
+  - /booking/internationalrail-email
+  - /booking/railtourguide-website
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").
@@ -233,7 +241,7 @@ Cela garantit une protection en cas de retard d’un train britannique entraîna
 
 Si l’arrivée se fait dans une autre gare terminus de Londres et qu’il est nécessaire d’utiliser le métro pour rejoindre St Pancras, les billets vers London International incluent le trajet en métro.
 
-##### Réservation des billets
+##### Réservations des billets
 
 Les Billets FIP vers London International CIV ne peuvent probablement être achetés qu’au guichet dans les gares britanniques.
 

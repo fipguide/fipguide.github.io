@@ -5,6 +5,9 @@ country:
   - "spain"
   - "france"
 operator: "renfe"
+
+aliases:
+  - /booking/renfe-ticket-office
 ---
 
 Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.
@@ -14,7 +17,7 @@ Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "S
 - FIP Coupons are accepted on commuter trains (mainly suburban trains), but not on trains requiring reservations.
 - For trains requiring reservations, tickets can be purchased at the FIP Global Fare (regardless of distance), including the reservation; FIP Coupons are not needed.
 - FIP is not accepted on Avlo trains.
-- For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, the same FIP Global Fares apply as for domestic AVEs.
+- For international AVEs between Madrid and Marseille as well as Lyon and Barcelona, different FIP Global Fares apply for the international section.
 
 ## Validity of FIP Tickets
 
@@ -41,13 +44,15 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
 
-International connections from / to France can be booked at the same conditions as domestic AVEs, although there is no premium category. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain. It should be possible to buy tickets on the train when boarding in France, but there is no practical experience of this yet.
+International connections from / to France have different FIP Global Fares depending on the route section. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain when boarding in Spain. FIP tickets can be purchased on the train when boarding in France; card payment is accepted. [^3]
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
-- € 10 (Elige Estándar)
-- € 13 (Elige Confort)
-- € 23,50 (Premium)
+| Route                                                   | Elige | Elige Confort | Prémium |
+| ------------------------------------------------------- | ----- | ------------- | ------- |
+| Domestic Spanish                                        | € 10  | € 13          | € 23,50 |
+| Domestic French                                         | € 10  | € 13          | –       |
+| International (Spain {{< icon "arrow_range" >}} France) | € 25  | € 28          | –       |
 
 {{% /train-category %}}
 
@@ -73,13 +78,13 @@ Low-cost high-speed trains (up to 300 km/h).
     reservation_possible=true
 %}}
 
-High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are not accepted.
+High-speed trains that can be re-gauged (Figueres {{< icon "arrow_range" >}} Alicante). FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 - € 6,50 (Elige Estándar)
 - € 10 (Elige Confort)
-- € 23,50 (Premium)
+- € 23,50 (Prémium)
 
 {{% /train-category %}}
 
@@ -94,10 +99,11 @@ High-speed trains that can be re-gauged (Figueres <-> Alicante). FIP Coupons are
 
 High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 - € 6,50 (Elige Estándar)
 - € 10 (Elige Confort)
+- € 23,50 (Prémium)
 
 {{% /train-category %}}
 
@@ -112,10 +118,11 @@ High-speed trains that can be re-gauged (up to 250 km/h). FIP Coupons are not ac
 
 Passenger trains between regional and high-speed services (up to 250 km/h). FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):**
+**FIP Global Fare (regardless of distance):**[^5]
 
 - € 6,50 (Elige Estándar)
 - € 10 (Elige Confort)
+- € 23,50 (Prémium)
 
 {{% /train-category %}}
 
@@ -147,7 +154,7 @@ The Celta is an international cooperation train between Renfe and the Portuguese
 
 High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted.
 
-**FIP Global Fare (regardless of distance):** € 4
+**FIP Global Fare (regardless of distance):** € 4 [^5]
 
 {{% /train-category %}}
 
@@ -162,9 +169,9 @@ High-speed trains, travel time < 90 minutes. FIP Coupons are not accepted.
 
 Accelerated regional transport. FIP Coupons are only accepted on trains that do not require reservations. Currently, this is only the case on the Barcelona (Girona-Figueres)-Port Bou route.
 
-**FIP Global Fare (regardless of distance):** € 4
+**FIP Global Fare (regardless of distance):** € 4 [^5]
 
-#### Reservation
+#### Reservations
 
 Reservations are required, except on the Barcelona(-Girona-Figueres)-Port Bou route[^1].
 
@@ -243,7 +250,7 @@ Children under 4 years travel free of charge without their own seat. For childre
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted along the way.[^2]
 
@@ -252,6 +259,8 @@ With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted alon
 FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) between Ferrol and Bilbao in northern Spain.
 
 ## Recommendations
+
+On the Zugpost website, there is a [worth reading travel report about the FEVE network (German only)](https://zugpost.org/feve-schmalspurbahn/).
 
 {{% highlight tip %}}
 Renfe can often be compared more to an airline than to other railway companies. Luggage checks are common on long-distance routes, and there are few trains that allow spontaneous boarding. Therefore, an FIP Coupon is only marginally worthwhile, as it can be used in only a few cases. Due to ticket barriers at many stations, staff must be contacted each time in order to open them with the FIP Coupon. Personal experience shows that especially in the greater Madrid area, the free travel option is sometimes not recognized, and access is consequently denied.
@@ -266,3 +275,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 [^3]: [User feedback: ticket purchase on the train](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^4]: [User feedback: ticket gates in Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)
+
+[^5]: [Renfe FIP prices (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)

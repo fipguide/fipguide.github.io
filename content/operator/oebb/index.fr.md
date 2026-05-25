@@ -8,6 +8,10 @@ operator: "oebb"
 
 aliases:
   - obb
+  - /booking/oebb-phone
+  - /booking/oebb-ticket-machine
+  - /booking/oebb-ticket-office
+  - /booking/oebb-website
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
@@ -79,7 +83,7 @@ La plupart des trains `IC` sur les axes principaux ont été progressivement rem
 Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations sont parfois obligatoires pendant la haute saison (été) pour les liaisons internationales vers l’Allemagne, uniquement pour les trajets transfrontaliers.
 
@@ -131,7 +135,7 @@ Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acc
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
 
-#### Réservation
+#### Réservations
 
 Pour les Nightjet, il est possible de réserver/payer un supplément pour les couchettes et wagons-lits. Un Coupon FIP est requis pour chaque pays traversé. Sans Coupon FIP, il faut acheter un billet au Tarif Global FIP pour tout le trajet.
 
@@ -214,6 +218,16 @@ Exemples :
 
 {{% /train-category %}}
 
+{{% train-category
+    id="oebb-postbus"
+    title="ÖBB Postbus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=false
+%}}
+Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
+
 ## Catégories de classes
 
 Dans les Railjet(Xpress) :
@@ -268,7 +282,7 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 Les enfants de moins de 6 ans voyagent gratuitement ; à partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 
 {{% highlight tip %}}
-La carte ÖBB Vorteilscard Family à 19 € est vite rentabilisée avec enfants. \
+La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants. \
 [Voir sur oebb.at](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -310,14 +324,6 @@ Les guichets ÖBB et `CAT` se trouvent dans le Terminal 3.
 Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, trajets simples ou tickets 24/48/72h via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou les bus Vienna Airport Lines VAL qu’avec le supplément CAT ou VAL dans l’application.
 {{% /highlight %}}
 
-### Schneebergbahn
-
-La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une Carte FIP donne droit à une réduction de 50 % sur les billets.
-
-### ÖBB Postbus
-
-Les Billets FIP ne sont pas valables sur ÖBB Postbus, sauf pour les services de remplacement ferroviaire (SEV).
-
 ### Trains auto
 
 Les Billets FIP sont valables sur les trains auto ÖBB. Les frais de transport du véhicule sont en supplément et exclus de la réduction FIP.
@@ -332,13 +338,17 @@ La réduction FIP 50 n’est pas disponible.
 
 Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le réseau ferroviaire allemand sans arrêt. Les Coupons FIP ÖBB y sont valables.
 
-### Arrêts intermédiaires
-
-Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
-
 ### Distinction entre trains locaux et grandes lignes
 
 À part le supplément pour le Coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les Billets FIP 50, sont valables sur tous les trains ÖBB.
+
+### Possibilité d'interrompre le trajet
+
+Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Sources
 

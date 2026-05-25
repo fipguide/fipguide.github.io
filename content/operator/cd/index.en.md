@@ -4,6 +4,10 @@ title: "ČD"
 country:
   - "czechia"
 operator: "cd"
+
+aliases:
+  - /booking/cd-ticket-office
+  - /booking/cd-website
 ---
 
 České dráhy (ČD) is the state railway company of the [Czech Republic](/country/czechia "Czech Republic") and operates a large part of passenger services on the Czech rail network.
@@ -70,7 +74,7 @@ In 1st class, passengers receive a small refreshment; in 2nd class, a bottle of 
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory in both classes.
 
@@ -98,7 +102,7 @@ The trains feature modern rolling stock in the ÖBB Railjet style, but with blue
 Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP Tickets.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Seat reservations are possible, and mandatory in Business Class.
 {{% /train-category %}}
@@ -134,7 +138,7 @@ Long-distance trains with high comfort, stopping only at major stations. Some ar
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains (see [trains with mandatory reservations](#trains-with-mandatory-reservations)).
 {{% /train-category %}}
@@ -221,9 +225,29 @@ For Nightjet trains, reservations/supplements for sleeping and couchette cars ca
 National free travel for Deutsche Bahn employees is not recognized in Germany. If any part of the Nightjet journey is in Germany (start, end, or transit), DB employees must purchase a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with an FIP Coupon, a reservation/supplement for sleeping and couchette cars is required. The only exception is if the train also operates as an IC or EC on the German section, then this part can be used with DB free travel.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Depends on route, occupancy, and coach category.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+FIP Coupons are not valid on buses operated by ČD. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
+Discounted FIP tickets are available for some bus services:
+
+- Václav Havel Airport Prague – Praha hl. n. (Prague Main Station)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+No FIP discounts apply on other bus services.
+
+A ticket (reservation mandatory) must be purchased at the latest 15 minutes before departure. Tickets with FIP discount are available at ČD ticket offices. Tickets without discount can also be purchased at ticket machines or in the ČD eShop.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -644,19 +668,6 @@ The list is also provided by ČD: [ČD commercial trains 2026 (page 18)](https:/
 
 {{% /dialog %}}
 
-### Buses and Replacement Services
-
-FIP Coupons are not valid on buses operated by ČD, except for rail replacement services.
-
-For some connections, discounted tickets are available:
-
-- Václav Havel Airport Prague – Praha hl. n. (Prague Main Station)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-No FIP discounts apply on other connections.
-
-A ticket (reservation required) must be purchased at least 15 minutes before departure at a ČD ticket office, ticket machine (no FIP available), or in the ČD eShop (no FIP available).
-
 ### Cable Cars
 
 FIP discounts are not valid on cable cars operated by ČD.
@@ -669,9 +680,13 @@ FIP discounts are not valid on special trains and historic services operated by 
 
 FIP Tickets are valid on the through routes 083 and 098 (Děčín – Rumburk via Dolní Žleb and Dolní Poustevna and back) even for journeys that leave and re-enter Czechia. However, boarding or alighting at an international station is not permitted.
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted on domestic journeys up to 100 km. For journeys of 101 km or more, interruption is possible (but not at an international station).
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

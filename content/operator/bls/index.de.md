@@ -3,6 +3,9 @@ draft: false
 title: "BLS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.
@@ -81,10 +84,8 @@ FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Z�
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
 %}}
-FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_.
+FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_ und Bussen des Schienenersatzverkehrs.
 {{% /train-category %}}
 
 {{% train-category
@@ -146,6 +147,10 @@ Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP 
 - Die FIP Freifahrtscheine der BLS werden in Zügen der SBB auf Strecken akzeptiert, auf denen auch Züge der BLS verkehren, also zwischen zwei Bahnhöfen, zwischen denen sowohl Züge der SBB als auch der BLS fahren. Das Liniennetz der BLS ist [online einsehbar](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

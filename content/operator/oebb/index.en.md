@@ -8,6 +8,10 @@ operator: "oebb"
 
 aliases:
   - obb
+  - /booking/oebb-phone
+  - /booking/oebb-ticket-machine
+  - /booking/oebb-ticket-office
+  - /booking/oebb-website
 ---
 
 ÖBB (Austrian Federal Railways) is [Austria](/country/austria "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
@@ -78,7 +82,7 @@ Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` t
 {{% highlight confusion %}}
 Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains.{{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservation is mandatory sometimes in high season (summer) on international routes to Germany, only for cross-border journeys.
 
@@ -213,6 +217,16 @@ Including:
 
 {{% /train-category %}}
 
+{{% train-category
+        id="oebb-postbus"
+        title="ÖBB Postbus"
+        type="bus"
+        fip_accepted=false
+        reservation_possible=false
+%}}
+FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Class Categories
 
 Railjet(Xpress) trains have special class categories:
@@ -268,7 +282,7 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Free Travel Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
-With children, the ÖBB Vorteilscard Family for € 19 is quickly worthwhile. \
+With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
 [See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
 {{% /highlight %}}
 
@@ -310,14 +324,6 @@ Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 If you travel with regular Vienna public transport tickets (e.g., single journeys or 24/48/72-hour tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
 {{% /highlight %}}
 
-### Schneebergbahn
-
-The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
-
-### ÖBB Postbus
-
-FIP Tickets are not valid on ÖBB Postbus, except for rail replacement services (SEV).
-
 ### Motorail
 
 FIP Tickets are valid on ÖBB motorail trains. Vehicle transport costs are extra and excluded from the FIP discount.
@@ -332,13 +338,17 @@ FIP 50 discounts are not available.
 
 ÖBB long-distance trains operate between Salzburg and Kufstein on the German rail network without stopping. ÖBB FIP Coupons are valid on this section.
 
-### Break of journey
-
-Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
-
 ### Distinction Between Local and Long-Distance
 
 Apart from the supplement for the FIP Coupon, there is no distinction between local and long-distance services. All tickets, including FIP 50 Tickets, are valid on all ÖBB trains.
+
+### Break of Journey
+
+Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Sources
 

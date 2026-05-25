@@ -5,6 +5,10 @@ country:
   - "ireland"
   - "united-kingdom"
 operator: "sll"
+
+aliases:
+  - /booking/stena-line-limited-email
+  - /booking/stena-line-limited-phone
 ---
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. Les liaisons en mer d'Irlande sont assurées par Stena Line Limited (SLL) dans le cadre de l'accord FIP.
@@ -96,9 +100,25 @@ position="right"
 
 Après avoir sélectionné toutes les options supplémentaires et cabines souhaitées, vous recevrez un détail des coûts dans la barre latérale. Avec un Coupon FIP, les frais de traversée (indiqués comme Economy ou Flexi) sont fixés à 0, le montant restant demeure. Par conséquent, les frais de traversée peuvent simplement être soustraits pour déterminer le coût avec un Coupon FIP.
 
-Au 25.02.2026, les taxes portuaires s’élèvent à 1,50 £ et les taxes environnementales à 2,00 £ par personne et par traversée. S’y ajoutent les frais de cabine et autres options supplémentaires, facturés au tarif plein.
-
 {{% /float-image %}}
+
+Les taxes portuaires et les taxes environnementales sont ajoutées au tarif conformément aux informations suivantes (état au 09.05.2026) : [^2]
+
+### Taxes portuaires
+
+| Route                | Adulte  | Enfant (4-15 ans) |
+| -------------------- | ------- | ----------------- |
+| Fishguard – Rosslare | 5,00 £  | 3,00 £            |
+| Rosslare – Fishguard | 7,00 €  | 4,00 €            |
+| Holyhead – Dublin    | 5,00 £  | 3,00 £            |
+| Dublin – Holyhead    | 7,00 €  | 4,00 €            |
+| Cairnryan – Belfast  | 5,00 £  | 3,00 £            |
+| Liverpool – Belfast  | 15,00 £ | 13,00 £           |
+| Belfast – Liverpool  | 15,00 £ | 13,00 £           |
+
+### Taxes environnementales
+
+Les taxes environnementales sont de 2,00 £ / 2,00 € pour les passagers, 3,00 £ / 3,00 € pour les véhicules et 1,00 £ / 1,00 € pour les enfants (4-15 ans).
 {{% /expander %}}
 
 ### En ligne
@@ -127,3 +147,5 @@ Stena Line et Irish Ferries proposent des billets permettant un voyage combiné 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-98)
+
+[^2]: [Rail Delivery Group - Staff Travel guides for holders of the Rail Staff Leisure Card - 8.7 Other transport undertakings in Great Britain, including ferries and heritage railways - Stena Line Irish Services](https://www.raildeliverygroup.com/rst/guides.html#tab-8-other-transport-undertakings-in-great-britain-including-ferries-and-heritage-railways)

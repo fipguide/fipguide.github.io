@@ -4,6 +4,11 @@ title: "DSB"
 country:
   - "denmark"
 operator: "dsb"
+
+aliases:
+  - /booking/dsb-international-website
+  - /booking/dsb-ticket-office
+  - /booking/dsb-website
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
@@ -61,7 +66,7 @@ Intercity trains are similar to `ICL` trains but stop more frequently and are sl
 
 Eurocity-Express trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense.
 
-#### Reservation
+#### Reservations
 
 A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer).
 
@@ -69,7 +74,7 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
 
 {{% train-category
     id="regional"
-    title="Regional Train (R)"
+    title="Regional Train (R / RE)"
     type="regional"
     fip_accepted=true
     reservation_possible=false
@@ -78,7 +83,9 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower.
 
 {{% highlight confusion %}}
-Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB.
+Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
+Trains marked as `RA` are not operated by DSB and therefore not included in FIP. \
+Trains marked as `RE` are usually DSB operated trains.
 {{% /highlight %}}
 
 {{% /train-category %}}
@@ -136,7 +143,7 @@ Children under 16 years receive a 50% discount on the adult fare.[^1]
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 With FIP 50 Tickets, the journey can be interrupted, but it must be confirmed by train staff.[^1]
 

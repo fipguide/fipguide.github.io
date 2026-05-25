@@ -4,6 +4,9 @@ title: "CP"
 country:
   - "portugal"
 operator: "cp"
+
+aliases:
+  - /booking/cp-ticket-office
 ---
 
 Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in [Portugal](/country/portugal "Portugal").
@@ -159,11 +162,13 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Passagiere mit einem in Portugal erworbenen FIP-Ermäßigungsticket dürfen ihre Reise nicht unterbrechen. Für außerhalb Portugals erworbene Tickets ist eine Reiseunterbrechung (ggf. mit Reservierung) zulässig. [^1]
 
 ## Empfehlungen
+
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zur portugiesischen Eisenbahn](https://zugpost.org/stippvisite-portugal).
 
 {{% highlight tip %}}
 Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmuseums in Entroncamento an. Besuchende, die mit dem Zug anreisen, erhalten 50% Rabatt auf den Eintrittspreis. [^2]

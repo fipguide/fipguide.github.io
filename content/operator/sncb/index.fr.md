@@ -4,6 +4,11 @@ title: "SNCB / NMBS"
 country:
   - "belgium"
 operator: "sncb"
+
+aliases:
+  - /booking/sncb-phone
+  - /booking/sncb-ticket-office
+  - /booking/sncb-website
 ---
 
 La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maatschappij der Belgische Spoorwegen) est l’opérateur ferroviaire national belge et le plus important de [Belgique](/country/belgium "Belgique").
@@ -13,6 +18,7 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 - La SNCB accepte les Coupons FIP et les Billets FIP 50 / FIP 75.
 - Aucune réservation nécessaire en Belgique.
 - Supplément obligatoire pour les trajets à destination ou en provenance de l’aéroport de Bruxelles-Zaventem.
+- Les agents de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_.
 
 ## Validité des Billets FIP
 
@@ -20,6 +26,8 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 Les Coupons FIP et les Billets FIP 50 / FIP 75 sont valables sur les trains de la SNCB. Pour les trajets transfrontaliers, un Billet FIP 50 / FIP 75 continu ou des Coupons FIP des deux pays concernés sont nécessaires.
+
+Les agents de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains SNCB / NMBS en Belgique toute l’année. Cependant, ce pass est payant. [^7]
 
 ## Catégories de trains et réservations
 
@@ -36,7 +44,7 @@ En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et 
 
 Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main). Certains trains circulent également entre l’Allemagne et Anvers via l’aéroport de Bruxelles-Zaventem ou en été entre l’Allemagne et la côte belge. Tous les trains ICE peuvent également être utilisés en Belgique avec des Billets FIP sans supplément.
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour les trajets transfrontaliers du 26.06 au 16.08.2026.
 
@@ -219,3 +227,5 @@ La 1ère classe dans les trains de la SNCB est souvent utilisée par des passage
 [^5]: [SNCB -- Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
 
 [^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+[^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)

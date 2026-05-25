@@ -4,6 +4,9 @@ title: "BDŽ"
 country:
   - "bulgaria"
 operator: "bdz"
+
+aliases:
+  - /booking/bdz-ticket-office
 ---
 
 Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von [Bulgarien](/country/bulgaria "Bulgarien") und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz.
@@ -38,7 +41,7 @@ Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna v
 
 Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 {{% /train-category %}}
@@ -52,7 +55,7 @@ Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 %}}
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
 {{% /train-category %}}
@@ -66,7 +69,7 @@ Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
 %}}
 Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
 {{% /train-category %}}
@@ -112,7 +115,7 @@ Für reguläre Fahrkarten reisen Kinder unter 7 Jahren kostenlos. Auf nationalen
 
 Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Ticket, das die zusätzliche Distanz abbildet, auch ein Zuschlag gezahlt werden. [^1]
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Fahrtunterbrechung ist bei einem durchgängigen Ticket nicht gestattet.
 

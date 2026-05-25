@@ -33,13 +33,21 @@ Les lignes longeant les Carpates sont particulièrement pittoresques, par exempl
 {{% expander "Points frontières" border %}}
 | Pays | Points frontières |
 | --- | --- |
-| [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgare : Русе), Vidin (fr) |
-| Moldavie (CFM) | Iasi, Ungheni (fr) |
-| Serbie (SV) | Jimbolia (fr) (serbe : Жомбољ), Vršac (fr) (serbe : Вршац) |
 | Ukraine (UZ) | Vicsani (fr) |
+| Moldavie (CFM) | Iasi, Ungheni (fr) |
+| [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgare : Русе), Vidin (fr) |
+| Serbie (SV) | Jimbolia (fr) (serbe : Жомбољ), Vršac (fr) (serbe : Вршац) |
 | Hongrie (MÁV) | Biharkeresztes (fr), Curtici (fr) (hongrois : Kürtös), Nyirábrány (fr), Salonta (fr) (hongrois : Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
+
+### Ukraine
+
+Par le passé, des trains directs ont été proposés de temps à autre via la frontière ukraino-roumaine, mais ceux-ci sont actuellement suspendus. À la place, un train direct circule actuellement entre Kyiv et Bucarest via la Moldavie. Les billets FIP ne peuvent être achetés que pour la section roumaine. Il peut toutefois être plus judicieux d'acheter un billet de train de nuit continu pour l'ensemble du trajet en ligne.
+
+### Moldavie
+
+Un train de nuit circule une fois par jour entre la capitale moldave Chișinău et Bucarest. En Roumanie, il est exploité par la CFR, mais en Moldavie par la CFM. Cette dernière n'étant pas membre de la FIP, les billets FIP ne sont valables qu'en Roumanie. Un billet au tarif normal doit donc être acheté pour la section moldave. Il peut toutefois être plus judicieux d'acheter un billet de train de nuit continu pour l'ensemble du trajet en ligne.
 
 ### Bulgarie
 
@@ -49,17 +57,9 @@ Pour utiliser ces trains transfrontaliers avec la FIP, il faut soit un Coupon FI
 
 Une autre liaison quotidienne entre les deux pays existe via le passage frontalier de Vidin. Un train circule quotidiennement de Vidin en Bulgarie à Craiova en Roumanie. Pour cette liaison, des Coupons FIP pour les deux pays ou un Billet FIP 50 continu suffisent.
 
-### Moldavie
-
-Un train de nuit circule une fois par jour entre la capitale moldave Chișinău et Bucarest. En Roumanie, il est exploité par la CFR, mais en Moldavie par la CFM. Cette dernière n'étant pas membre de la FIP, les billets FIP ne sont valables qu'en Roumanie. Un billet au tarif normal doit donc être acheté pour la section moldave. Il peut toutefois être plus judicieux d'acheter un billet de train de nuit continu pour l'ensemble du trajet en ligne.
-
 ### Serbie
 
 Actuellement, aucun train de voyageurs ne circule entre la Serbie et la Roumanie.
-
-### Ukraine
-
-Par le passé, des trains directs ont été proposés de temps à autre via la frontière ukraino-roumaine, mais ceux-ci sont actuellement suspendus. À la place, un train direct circule actuellement entre Kyiv et Bucarest via la Moldavie. Les billets FIP ne peuvent être achetés que pour la section roumaine. Il peut toutefois être plus judicieux d'acheter un billet de train de nuit continu pour l'ensemble du trajet en ligne.
 
 ### Hongrie
 

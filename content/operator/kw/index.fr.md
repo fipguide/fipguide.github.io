@@ -4,6 +4,11 @@ title: "KW"
 country:
   - "poland"
 operator: "kw"
+
+aliases:
+  - /booking/kw-ticket-machine
+  - /booking/kw-ticket-office
+  - /booking/kw-website
 ---
 
 Koleje Wielkopolskie, abrégées KW, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Grande-Pologne. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).
@@ -28,6 +33,8 @@ Pour les trajets avec différents exploitants en Pologne, un Billet FIP 50 inint
 ## Catégories de trains et réservations
 
 KW ne distingue pas différentes catégories de trains. Les trains portent l’abréviation « KW » au début dans les systèmes d’information, suivie d’un numéro de train spécifique ; les numéros de ligne ne sont pas utilisés. Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains KW. De plus, aucune réservation n’est possible.
+
+Les Billets FIP ne sont généralement pas valables dans les autobus KW. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Achat de billets et réservations
 
@@ -79,13 +86,13 @@ Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous
 
 Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par KW.
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 
-### Autobus
+### Services de remplacement ferroviaire
 
-Les Billets FIP ne sont valides que dans les autobus KW qui assurent un service de remplacement de train.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 

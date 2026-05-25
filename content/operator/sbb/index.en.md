@@ -3,6 +3,11 @@ draft: false
 title: "SBB CFF FFS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/sbb-ticket-machine
+  - /booking/sbb-ticket-office
+  - /booking/sbb-website
 ---
 
 SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
@@ -44,7 +49,7 @@ High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, o
 %}}
 High-speed trains from France to Zurich via Basel.
 
-#### Reservation
+#### Reservations
 
 Reservations are mandatory outside Switzerland and for cross-border journeys.
 {{% /train-category %}}
@@ -59,7 +64,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys.
 %}}
 International trains to Germany and Italy.
 
-#### Reservation
+#### Reservations
 
 1st class: €13 \
 2nd class: €11
@@ -77,6 +82,8 @@ A reservation and surcharge are required for the Italian section. It is cheaper 
     reservation_possible=true
 %}}
 Fast national trains stopping only in major cities and transfer stations.
+
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -89,7 +96,9 @@ Fast national trains stopping only in major cities and transfer stations.
 %}}
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
 
-#### Reservation
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
+
+#### Reservations
 
 A reservation is required except in seat cars when operating as Intercity, Eurocity, or regional trains.
 {{% /train-category %}}
@@ -105,7 +114,7 @@ A reservation is required except in seat cars when operating as Intercity, Euroc
 %}}
 SBB Panoramic trains via the classic Gotthard route running mid-April to mid-October. Advertised as a journey in combination with a boat of Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), where SP discounts apply, see [Schweizer Privatbahnen - SGV](/operator/sp#sgv). For travellers doing the full journey by rail and ship between Lugano and Lucerne (and vice versa) a free luggage transfer is offered.
 
-#### Reservation
+#### Reservations
 
 A special reservation for 24 CHF is required.
 
@@ -133,6 +142,15 @@ National trains stopping in larger cities.
     reservation_required=false
 %}}
 Trains stopping at all stations. In metropolitan areas also called S-Bahn.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -177,10 +195,6 @@ Children travel free on regular journeys (not special trips) up to and including
 
 ## Special Tariff Conditions
 
-### Buses and Rail Replacement Services
-
-FIP Tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
-
 ### Mutual Recognition of SBB and BLS Coupons
 
 The Swiss rail companies SBB and BLS partially accept each other's FIP Coupons: [^2]
@@ -197,6 +211,10 @@ SBB FIP Coupons are valid on some routes of the Schweizerische Südostbahn (SOB)
 ### Cross-border Trains (Italy, France)
 
 For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

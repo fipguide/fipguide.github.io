@@ -4,6 +4,9 @@ title: "Euskotren"
 country:
   - "spain"
 operator: "euskotren"
+
+aliases:
+  - /booking/euskotren-ticket-office
 ---
 
 Im Norden [Spaniens](/country/spain "Spaniens") betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Euskotren gehört der baskische Regionalregierung.
@@ -100,6 +103,15 @@ Wenn du kein "Euskotren FIP Ticket" hast, stellt das Personal an den Stationen b
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Klassenkategorien
 
 Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Klasse genutzt werden kann.
@@ -112,9 +124,9 @@ Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Kla
 
 ## Tarifliche Besonderheiten
 
-### Busse
+### Schienenersatzverkehr
 
-FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

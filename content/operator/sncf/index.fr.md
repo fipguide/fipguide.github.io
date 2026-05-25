@@ -3,12 +3,18 @@ draft: false
 title: "SNCF Voyageurs"
 country:
   - "france"
+  - "germany"
   - "monaco"
   - "italy"
   - "spain"
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+
+aliases:
+  - /booking/sncf-phone
+  - /booking/sncf-ticket-office
+  - /booking/transilien-ticket-office
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en [France](/country/france "France"). Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.
@@ -54,7 +60,7 @@ Des conditions particulières s’appliquent pour les liaisons internationales, 
 
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
@@ -93,7 +99,7 @@ Trains à grande vitesse internationaux exploités par la SNCF en coopération a
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
@@ -118,7 +124,7 @@ Trains Intercités de la SNCF reliant différentes villes françaises, général
 
 Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
 
-#### Réservation
+#### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
 
@@ -138,7 +144,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 %}}
 Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025.
 
-#### Réservation
+#### Réservations
 
 Coût selon la ligne et l’affluence.
 
@@ -173,6 +179,16 @@ Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région
 {{% highlight important %}}
 FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-France](#trains-en-île-de-france)
 {{% /highlight %}}
+{{% /train-category %}}
+
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=partially
+  reservation_possible=false
+%}}
+Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable. [^1]
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -237,7 +253,7 @@ Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratui
 
 ## Conditions tarifaires spéciales
 
-### Réservation obligatoire en TER
+### Réservations obligatoire en TER
 
 Sur certaines lignes `TER`, la réservation est obligatoire. Cette obligation ne concerne que les trajets au départ ou à destination de Paris. Pour tous les autres trajets, il n’y a pas d’obligation de réservation. [^2]
 
@@ -277,6 +293,10 @@ Pour les trajets à l’intérieur de la France, les frais de réservation natio
 | National Off-peak | 2 €        | 2 €       |
 | National Peak     | 16 €       | 11 €      |
 | International     | 40 €       | 20 €      |
+
+Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 / FIP 75 pour le trajet à l’intérieur de la France. Cependant, l’utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
+
+Quelques trains `TGV` circulent de Paris à Fribourg-en-Brisgau et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](/country/germany#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
 
 {{% /train-category %}}
 
@@ -382,9 +402,9 @@ Les Billets FIP à tarif réduit pour `RER` et Transilien peuvent être achetés
 De nombreuses gares équipées de portillons ne sont pas surveillées par du personnel. Il existe des interphones d'assistance, mais ils fonctionnent de manière peu fiable. Sans la _Contremarque de Passage_ (carte d'accès temporaire), il n'est donc souvent pas possible d'accéder aux gares.
 {{% /highlight %}}
 
-### Bus SNCF
+### Services de remplacement ferroviaire
 
-Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). [^1]
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandation
 

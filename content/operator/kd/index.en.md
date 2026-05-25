@@ -4,6 +4,11 @@ title: "KD"
 country:
   - "poland"
 operator: "kd"
+
+aliases:
+  - /booking/kd-ticket-machine
+  - /booking/kd-ticket-office
+  - /booking/kd-website
 ---
 
 Koleje Dolnośląskie (KD) is a Polish railway company offering regional services in the Lower Silesia Province. It is one of five different operators in [Poland](/country/poland) which provide FIP benefits.
@@ -28,6 +33,15 @@ For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from
 ## Train Categories and Reservations
 
 KD does not distinguish different train categories. Its trains usually have a line number beginning with "D". In many journey planners, only "KD" and a train number are given. Some trains are marketed as "KD Sprinter" or "KD Supersprinter" but remain regional trains. Only 2nd class tickets are offered as there is no 1st class on KD trains. There are no reservation facilities.
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+%}}
+FIP is valid on all KD bus routes. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
@@ -88,9 +102,9 @@ In the summer season, KD also operates special "KD Premium" trains running from 
 
 Normally, KD FIP benefits are only valid in Poland. An exception applies for cross-border travel between Zgorzelec (Poland) and Görlitz (Germany). No extra ticket is needed between the two stations; all tickets valid to Zgorzelec are also valid to Görlitz and vice versa.
 
-### Buses
+### Rail Replacement Services
 
-FIP is also valid on all KD bus routes, which usually operate as rail replacement services or as preliminary routes for lines that will soon be reopened for rail traffic.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

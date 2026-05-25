@@ -4,6 +4,9 @@ title: "CFR Călători"
 country:
   - "romania"
 operator: "cfr"
+
+aliases:
+  - /booking/cfr-ticket-office
 ---
 
 The Societatea Natională de Transport Feroviar de Călători "CFR Călători" S.A., or CFR Călători for short, is the state railway company of [Romania](/country/romania "Romania") and operates the majority of passenger services on the Romanian rail network.
@@ -38,7 +41,7 @@ National long-distance trains with few intermediate stops and comparatively high
 `IC` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
@@ -58,7 +61,7 @@ Comparatively fast trains connecting major cities with few intermediate stops. S
 `IR` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
@@ -80,7 +83,7 @@ These trains usually include couchette or sleeper cars, which can be used with a
 `IRN` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is mandatory, either for a seat, couchette or sleeper berth. If the train is fully booked, a standing reservation can be purchased.
 
@@ -104,7 +107,7 @@ These trains often include couchette or sleeper cars, which can be used with a c
 These trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is often mandatory (indicated by an _R_ in the journey planner). If the train is fully booked, a standing reservation can be purchased.
 
@@ -126,7 +129,7 @@ Regional trains that also serve smaller towns. The various trains on a route oft
 `R` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains, indicated by an _R_.
 
@@ -145,6 +148,10 @@ A reservation is required for some trains, indicated by an _R_.
 
 {{% booking id="cfr-ticket-office" /%}}
 
+{{% booking id="db-ticket-office" subtitle="For the Vienna – Bucharest night train and InterCity trains" %}}
+At DB Ticket Offices, FIP 50 Tickets and reservations for the Vienna – Bucharest night train can be purchased. Bookings can be made 90 days in advance. Reservations are available for InterCity trains.
+{{% /booking %}}
+
 ### On the Train
 
 FIP-discounted tickets cannot be purchased on the train. Reservations must also be obtained before departure.
@@ -155,7 +162,7 @@ For regular tickets, children under 5 travel free of charge. Children under 10 r
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 With FIP 50 tickets, a journey interruption is permitted only once and for a maximum of 24 hours from the time of arrival at the station where the journey is interrupted. To qualify, the ticket must be validated within one hour of arrival.[^1]
 

@@ -27,6 +27,8 @@ Les employés et employées des ÖBB, SBB et PKP peuvent également réserver de
 
 La réservation est uniquement possible via ce [lien](https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE). Il n’est pas nécessaire de sélectionner une réduction : elle s’applique automatiquement.
 
+Les Billets FIP 50 ne sont vendus que si aucun _billet de réseau_ n’est proposé pour cette liaison. Voir [Trajets dans les réseaux de transport](/operator/db#trajets-dans-les-réseaux-de-transport) en Allemagne.
+
 Les Billets FIP 50 peuvent être achetés pour les pays suivants, à condition qu’une partie du trajet se fasse en Allemagne :
 
 <!-- prettier-ignore -->
@@ -59,3 +61,7 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 
 ![Réserver une place DB](db_reservation.webp)
 {{% /booking-section %}}
+
+{{% highlight "important" %}}
+Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l'opérateur ou utiliser d'autres méthodes de réservation.
+{{% /highlight %}}

@@ -36,13 +36,13 @@ Ein besonderes Highlight sind Regionalzugverbindungen entlang der Cote d'Azur im
 
 | Land                                                                               | Grenzpunkte                                                                                                                                   |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Eurostar](/operator/eurostar)                                                     | Paris, Lille                                                                                                                                  |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 | [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))                            | Bettembourg (fr), Rodange (fr)                                                                                                                |
 | [Deutschland](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                    |
-| [Eurostar](/operator/eurostar)                                                     | Paris, Lille                                                                                                                                  |
+| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
 | [Italien](/country/italy) ([FS](/operator/fs))                                     | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                     |
 | [Spanien](/country/spain) ([Renfe](/operator/renfe))                               | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                               |
-| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
 
 {{% /expander %}}
 
@@ -62,10 +62,11 @@ Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Belgien nach Fr
 
 ### Luxemburg
 
-Aus Luxemburg betreibt die SNCF internationale `TGV` Züge von Luxemburg nach Paris. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Luxemburg nach Frankreich über Rodange oder Bettembourg, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der CFL im Luxemburger Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF.
-{{% highlight tip %}}
-Innerhalb von Luxemburg ist das Reisen in der 2. Klasse kostenlos, daher ist ein Freifahrtschein der CFL nicht unbedingt erforderlich. Bei der Fahrt nach Frankreich muss aber ein grenzüberschreitendes Ticket (z. B. ein FIP 50 Ticket) vorhanden sein.
-{{% /highlight %}}
+Die SNCF betreibt internationale `TGV` Züge u. a. aus Luxemburg nach Paris, Strasbourg, Lyon, Montpellier oder Marseille. Für diese müssen teure FIP Globalpreistickets gekauft werden. Außerdem gibt es verschiedene Regionalzugverbindungen von Luxemburg nach Frankreich über Rodange oder Bettembourg, die mit FIP genutzt werden können. Hierbei gelten im luxemburgischen Abschnitt FIP 50 Tickets sowie Freifahrtscheine der CFL und auf der französischen Seite FIP Tickets der SNCF bis zum Grenzpunkt.
+
+Auch wenn die Fahrt in der 2. Klasse in Luxemburg kostenlos ist, wird für grenzüberschreitende Fahrten ein Ticket oder Freifahrtschein ab dem Grenzpunkt benötigt. Das bedeutet, dass entweder ein durchgehendes Ticket oder zumindest ein gültiger Freifahrtschein der SNCF vorhanden sein müssen. In der 1. Klasse ist dies auch im luxemburgischen Abschnitt erforderlich.
+
+Die Fahrt auf den Stichstrecken von Luxemburg nach Volmerange-les-Mines und Audun-le-Tiche ist vollständig von der CFL abgedeckt. Ein zusätzlicher Fahrschein (außer für die 1. Klasse) ist hier nicht erforderlich.
 
 ### Deutschland
 
@@ -73,6 +74,10 @@ Zwischen Deutschland und Frankreich verkehren im Fernverkehr Kooperationszüge d
 
 {{% highlight tip %}}
 Eine günstige Option für die Fahrt von Deutschland nach Straßburg besteht mit der Ortenau S-Bahn Linie RS4, betrieben von SWEG Südwestdeutsche Landesverkehrs-GmbH, von Offenburg bis Kehl. Auf dieser gilt kein FIP, aber z. B. das Deutschlandticket und nationale DB-Mitarbeitendenvergünstigungen[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + NE-Zusatzfahrkarte). Ab Kehl verkehrt dann die Straßenbahn nach Straßburg, für welche ein günstiges Tram Ticket erforderlich ist.
+{{% /highlight %}}
+
+{{% highlight important %}}
+Einige wenige `TGV` Züge verkehren von Freiburg nach Paris und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
 {{% /highlight %}}
 
 Außerdem gibt es verschiedene von DB und SNCF betriebene Regionalzugverbindungen von Deutschland nach Frankreich, die mit FIP genutzt werden können. Dabei gelten normale FIP 50 Tickets und FIP Freifahrtscheine der DB im Deutschen Abschnitt und ab dem Grenzpunkt FIP Freifahrtscheine der SNCF. FIP 50 Tickets für diese Verbindungen können Online erworben werden, siehe [Buchungsmöglichkeiten – Online](/operator/sncf#online "Buchungsmöglichkeiten - Online").
@@ -83,7 +88,7 @@ Das Deutschlandticket, das eine günstige Option zur Nutzung im deutschen Region
 
 ### Schweiz
 
-Aus der Schweiz verkehren von Zürich über Basel grenzüberschreitende TGV Züge nach Frankreich. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge").
+Aus der Schweiz verkehren von Zürich über Basel grenzüberschreitende TGV Züge nach Frankreich. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [TGV Lyria Züge in die Schweiz](/operator/sncf#tgv-lyria).
 
 Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
@@ -95,21 +100,9 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léma
 
 Von Mailand verkehren grenzüberschreitende Frecciarossa Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, es müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge").
+Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, es müssen jedoch FIP Globalpreistickets erworben werden, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium).
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP 50 Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
-
-### Spanien
-
-Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
-
-Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge"). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets ab 15 € verfügbar (Stand: Oktober 2025). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. [^1]
-
-Mit [Euskotren](/operator/euskotren) kann mit dem speziellen FIP Ticket bis nach Hendaye an der Atlantikküste gefahren werden.
-
-Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen nach Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal oder am Renfe Ticketschalter in Spanien erworben werden.
-
-Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
 ### Monaco
 
@@ -120,3 +113,19 @@ Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Mon
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
 
 [^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
+### Spanien
+
+Von Barcelona aus verkehren direkte `TGV` Züge der französischen SNCF nach Paris. Auch die Renfe verkehrt grenzüberschreitend zwischen Barcelona und Lyon sowie Madrid und Marseille.
+
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets für 25 € / 28 € verfügbar (Stand: Mai 2026), siehe [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. [^1]
+
+Mit [Euskotren](/operator/euskotren) kann mit dem speziellen FIP Ticket bis nach Hendaye an der Atlantikküste gefahren werden.
+
+Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen nach Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal oder am Renfe Ticketschalter in Spanien erworben werden.
+
+Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
+
+### Andorra
+
+Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Frankreich.

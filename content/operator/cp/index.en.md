@@ -4,6 +4,9 @@ title: "CP"
 country:
   - "portugal"
 operator: "cp"
+
+aliases:
+  - /booking/cp-ticket-office
 ---
 
 CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in [Portugal](/country/portugal "Portugal").
@@ -158,11 +161,13 @@ Children under 4 years travel free without their own seat. Children under 12 yea
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 Passengers holding a FIP discounted ticket purchased in Portugal are not permitted to interrupt their journey. For tickets purchased outside Portugal, a break of journey is allowed (possibly subject to reservation). [^1]
 
 ## Recommendations
+
+On the Zugpost website, there is a [worth reading travel report about Portuguese railways (German only)](https://zugpost.org/stippvisite-portugal).
 
 {{% highlight tip %}}
 

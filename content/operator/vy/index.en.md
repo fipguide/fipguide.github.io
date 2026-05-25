@@ -4,6 +4,11 @@ title: "Vy Group"
 country:
   - "norway"
 operator: "vy"
+
+aliases:
+  - /booking/entur-chat
+  - /booking/entur-phone
+  - /booking/entur-ticket-office
 ---
 
 Vy Group (formerly Norges Statsbaner) is the state railway company in [Norway](/country/norway). Together with its subsidiaries, it operates most of the passenger rail transport in Norway.
@@ -58,7 +63,7 @@ Long-distance trains on the country’s main lines with café. Some trains opera
 
 - F5: Oslo S – Kongsberg – Kristiansand – Stavanger (Sørland Line)
 
-#### Reservation
+#### Reservations
 
 Reservations are compulsory on lines F4, F5, F6 and F7:
 
@@ -135,7 +140,7 @@ Regiontog connects towns and cities with stops at almost all stations. Some trai
 
 - R50: Arendal – Nelaug (Arendal Line)
 
-#### Reservation
+#### Reservations
 
 On lines R60 and R65, a free reservation is required.
 
@@ -265,7 +270,7 @@ On public fares, children up to 6 years travel free of charge, children up to 18
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted.[^2]
 

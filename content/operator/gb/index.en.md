@@ -4,13 +4,18 @@ title: "National Rail"
 country:
   - "united-kingdom"
 operator: "gb"
+
+aliases:
+  - /booking/caledonian-sleeper-website
+  - /booking/lner-website
+  - /booking/national-rail-ticket-office
 ---
 
 There are many different railway companies in [Great Britain](/country/united-kingdom "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
 
 ## Summary
 
-- FIP 50 / FIP 75 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail. Exceptions exist only on certain [Lumo](#lumo) routes.
+- FIP 50 / FIP 75 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail.
 - Reservations are only required on night trains.
 - FIP 50 / FIP 75 Discount mostly applies only to Anytime and Off-Peak Tickets.
 - The London Overground and Elizabeth Line are part of National Rail and can be used with FIP.
@@ -116,6 +121,8 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
 %}}
 
 The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
+
+There are no ticket counters between Abbey Wood and Canary Wharf where FIP 50 Tickets can be purchased.
 
 {{% highlight tip %}}
 Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
@@ -257,7 +264,7 @@ London Overground complements the Underground network as a kind of suburban rail
   id="lumo"
   title="Lumo (LD)"
   type="highspeed"
-  fip_accepted=partially
+  fip_accepted=true
   reservation_possible=true
   reservation_required=false
 %}}
@@ -265,7 +272,7 @@ Lumo operates on two routes in Great Britain:
 
 - On the East Coast Main Line between London King's Cross, Newcastle and Edinburgh. FIP is accepted on these East Coast services.
 
-- On the West Coast Main Line, First Lumo Stirling plans to launch new Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. Currently, FIP is not valid on these services. [^7]
+- On the West Coast Main Line, First Lumo Stirling launches Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. FIP is accepted on these West Coast services. [^7]
 
 {{% /train-category %}}
 
@@ -488,6 +495,8 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
+{{% booking id="gwr-whatsapp" /%}}
+
 ### On-Site
 
 {{% booking id="national-rail-ticket-office" /%}}
@@ -508,13 +517,19 @@ Most transport services in London are operated by Transport for London (TfL). Th
 
 {{% train-category
   id="london-buses-dlr-tram"
-  title="London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats"
+  title="London Buses, Docklands Light Railway (DLR), London Tram, London Cable Car, and River Thames Boats"
   type="bus"
   fip_accepted=false
   reservation_required=false
 %}}
 
-London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats are operated by TfL and do not accept FIP discounts. [^1]
+The following services do not accept FIP: [^1]
+
+- London Buses
+- Docklands Light Railway (DLR)
+- London Tram
+- London Cable Car (previously IFS Cloud Cable Car / Emirates Air Line)
+- River Thames Boats
 
 {{% /train-category %}}
 
@@ -662,7 +677,7 @@ Great Britain can also be explored by night trains:
 
 ## Sources
 
-[^1]: [Rail Delivery Group Guide for visitors to Britain using FIP](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
+[^1]: [Rail Delivery Group Guide for visitors to Britain using FIP](https://www.raildeliverygroup.com/doclink/d7431aa-guide-for-visitors-to-britain-using-fip-facilities-v11-2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkNzQzMWFhLWd1aWRlLWZvci12aXNpdG9ycy10by1icml0YWluLXVzaW5nLWZpcC1mYWNpbGl0aWVzLXYxMS0yIiwiaWF0IjoxNzc2MjU3MDY4LCJleHAiOjE3NzYzNDM0Njh9.7NUnbQlUsO30LWptEoRrFN49dwxKSxAqAgMCpL-Ngzk)
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
@@ -674,4 +689,4 @@ Great Britain can also be explored by night trains:
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)

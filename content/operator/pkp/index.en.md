@@ -4,6 +4,12 @@ title: "PKP"
 country:
   - "poland"
 operator: "pkp"
+
+aliases:
+  - /booking/pkp-ticket-machine
+  - /booking/pkp-ticket-office
+  - /booking/pkp-website
+  - /booking/koleo-website
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").
@@ -50,7 +56,7 @@ Polish long-distance trains are partially reservation-required. The reservation 
 High-speed trains with tilting technology (Pendolino), operated by PKP Intercity and mainly running between Gdynia/Gdańsk and Kraków/Katowice via Warsaw, but also occasionally found on other routes.
 In 1st class, small meals and drinks are included at the seat in the ticket price. [^2]
 
-#### Reservation
+#### Reservations
 
 The trains require a surcharge with an increased reservation fee. Tickets and reservations cannot be purchased on board the train.
 
@@ -72,7 +78,7 @@ For reservations not sold at the corresponding price by PKP, payment of a surcha
 Comfortable trains with modernized passenger cars, operated by PKP Intercity and stopping only in the most important cities. Cross-border EICs are also designated as EC in other countries. [^3]
 In 1st and 2nd class, there is a free bottle of water per person.
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/)
 
@@ -91,7 +97,7 @@ Express trains with passenger cars or modern multiple units, operated by PKP Int
 
 Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
 
@@ -110,7 +116,7 @@ Interregional trains operated by PKP Intercity, characterized by particularly af
 
 Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
 
@@ -128,7 +134,7 @@ Some trains require reservations. The reservation requirement can be checked in 
 International night train connections operated by PKP Intercity, running from or to Germany, Czech Republic, Austria, Hungary and Ukraine.
 Night train connections that only run within Poland are operated as `IC` or `TLK`. Connections to Ukraine are marked as `D`.
 
-#### Reservation
+#### Reservations
 
 Reservation is required in sleeping and couchette cars.
 
@@ -184,6 +190,15 @@ Direct trains between Łódź and Warsaw, operated by Polregio and in a higher f
 
 Interregional trains operated by Polregio and equipped with higher comfort than normal regional trains.
 
+{{% /train-category %}}
+
+{{% train-category
+    id="warsaw-modlin-bus"
+    title="Warsaw Modlin Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -294,7 +309,7 @@ The validity of tickets depends on the distance:
 - 51 km to 100 km: 6 hours from the date and time of issue or at the passenger's choice,
 - from 101 km: 1 day (one day is valid from 00:01 to 24:00).
 
-### Break of journey
+### Break of Journey
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
@@ -324,21 +339,17 @@ FIP Tickets of both KŚ and PKP are valid on the following KŚ routes:
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Warsaw Modlin Buses
-
-FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
-
 ### Słoneczny Special Trains
 
 FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/Gdynia).
 
-### Buses and Replacement Services
-
-FIP Tickets are also valid on rail replacement services (buses) operated by PKP.
-
 ### Cable Cars and Rack Railways
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

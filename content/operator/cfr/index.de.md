@@ -4,6 +4,9 @@ title: "CFR Călători"
 country:
   - "romania"
 operator: "cfr"
+
+aliases:
+  - /booking/cfr-ticket-office
 ---
 
 Die Societatea Natională de Transport Feroviar de Călători “CFR Călători” S.A., kurz CFR Călători ist die staatliche Eisenbahngesellschaft von [Rumänien](/country/romania "Rumänien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem rumänischen Schienennetz.
@@ -38,7 +41,7 @@ Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise 
 Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -58,7 +61,7 @@ Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwisc
 Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -80,7 +83,7 @@ Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer
 Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schlafplatz. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -104,7 +107,7 @@ Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer e
 Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindungsauskunft). Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
@@ -126,7 +129,7 @@ Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedene
 Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
 
@@ -145,6 +148,10 @@ Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennz
 
 {{% booking id="cfr-ticket-office" /%}}
 
+{{% booking id="db-ticket-office" subtitle="Für den Nachtzug Wien – Bukarest und InterCitys" %}}
+Im DB Reisezentrum können FIP 50 Tickets und Reservierungen für den Nachtzug Wien – Bukarest erworben werden. Die Buchung ist 90 Tage im Voraus möglich. Für InterCitys sind Reservierungen erhältlich.
+{{% /booking %}}
+
 ### Im Zug
 
 Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierungen müssen bereits vor Abfahrt vorhanden sein.
@@ -155,7 +162,7 @@ Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 1
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Reiseunterbrechung ist bei FIP 50 Tickets nur einmal und für maximal 24 Stunden ab Ankunft am Bahnhof, an dem die Reise unterbrochen wird, zulässig. Die Fahrkarte muss dafür innerhalb einer Stunde nach Ankunft abgestempelt werden.[^1]
 

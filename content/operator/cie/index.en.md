@@ -4,6 +4,10 @@ title: "CIE"
 country:
   - "ireland"
 operator: "cie"
+
+aliases:
+  - /booking/irish-rail-ticket-office
+  - /booking/irish-rail-website
 ---
 
 Córas Iompair Éireann (CIE) is the state railway company of [Ireland](/country/ireland) and the parent company of Irish Rail (Iarnród Éireann). The subsidiary operates the majority of rail services in the Republic of Ireland, including the main routes between Dublin, Cork, Galway and Limerick, as well as regional connections in the Dublin and Cork areas.
@@ -39,7 +43,7 @@ InterCity trains connect the major cities of Ireland, including Dublin, Cork, Ga
 First Class between Dublin and Cork may not be used with FIP. More information about class categories can be found [below](#class-categories).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are optional, but are issued free of charge for many services and are therefore recommended in 2nd class.
 
@@ -78,7 +82,6 @@ DART (Dublin Area Rapid Transit) is a suburban rail network connecting Dublin's 
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -91,7 +94,6 @@ FIP is not valid on Bus Éireann bus services.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 

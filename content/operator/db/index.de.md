@@ -4,6 +4,12 @@ title: "DB"
 country:
   - "germany"
 operator: "db"
+
+aliases:
+  - /booking/db-ticket-office
+  - /booking/db-website
+  - /booking/db-website-fip-db
+  - /booking/db-website-fip-international
 ---
 
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.
@@ -38,7 +44,7 @@ Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreit
 
 Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten:
@@ -62,7 +68,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich gab es 
 
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 
@@ -102,6 +108,8 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
 
 Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit geringerer Geschwindigkeit als ICE-Züge, verbinden zahlreiche Städte und bedienen auch viele Urlaubs- und Ferienregionen.
 
+Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -124,7 +132,7 @@ Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und rese
 - 2\. Klasse: 11 €
   {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark.
 
@@ -141,7 +149,7 @@ Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hoc
 
 Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Polen.
 Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
@@ -153,7 +161,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=partially
     reservation_possible=true
 %}}
 
@@ -166,9 +174,11 @@ Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland 
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
 
-#### Reservierung
+#### Reservierungen
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
+
+Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
 
 **Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
 
@@ -246,23 +256,33 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-{{% booking id="db-website" %}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-international"
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
-%}}
-Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
-{{% /booking %}}
+/%}}
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" %}}
+Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
+{{% highlight inofficial %}}
+Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
+{{% /highlight %}}
+{{% /booking %}}
 
 ### Vor Ort
 
@@ -289,7 +309,7 @@ Die kostenlos mitreisenden Kinder müssen nicht mit dem begleitenden Erwachsenen
 
 In Nahverkehrszügen können bis zu 3 Kinder mitgenommen werden und in Fernverkehszügen bis zu 4 Kinder. Bei FIP 50 Tickets, die einen Abschnitt im Fernverkehr haben, können auch in den angegebenen Nahverkehrszügen bis zu 4 Kinder mitgenommen werden.
 
-Kostenlos mitreisende Kinder müssen nicht auf dem Ticket eingetragen werden. Bei FIP 50 Tickets empfiehlt es sich trotzdem, diese kostenlos mitzubuchen, um Probleme bei der Fahrtkartenkontrolle zu vermeiden.
+Kostenlos mitreisende Kinder müssen im Gegensatz zu öffentlichen Tarifen explizit nicht auf dem Ticket eingetragen werden. Sie benötigen kein eigenes Ticket.
 
 Kinder, die nicht von einer über 15 Jahre alten Person mit Reiseberechtigung begleitet werden, müssen ein eigenes Ticket kaufen.
 
@@ -301,6 +321,23 @@ Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.
 Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) der betroffenen Regionalzug-Linien.
+
+### DB Regio Stuttgart
+
+DB Regio Stuttgart (früher SWEG Bahn Stuttgart) akzeptiert keine FIP Vergünstigungen. Dazu zählen die Linien: [^2]
+
+- RE 6: Tübingen - Stuttgart
+- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
+- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
+- RE 12: Tübingen - Stuttgart - Heilbronn
+- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
+- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
+- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
+- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
+
+### DB Regio Bayern
+
+Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
 
 ### Fahrten in Verkehrsverbünden
 
@@ -346,9 +383,9 @@ FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wange
 
 Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
 
-### Busse und Ersatzverkehr
+### Schienenersatzverkehr
 
-Busse sind ausgeschlossen von FIP-Vergünstigungen, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
 
 ## Empfehlungen
 
@@ -361,3 +398,5 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

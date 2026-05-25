@@ -3,6 +3,11 @@ draft: false
 title: "SBB CFF FFS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/sbb-ticket-machine
+  - /booking/sbb-ticket-office
+  - /booking/sbb-website
 ---
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
@@ -44,7 +49,7 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
 %}}
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
 
-#### Reservierung
+#### Reservierungen
 
 Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig.
 {{% /train-category %}}
@@ -59,7 +64,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
 %}}
 Internationale Züge Richtung Deutschland und Italien.
 
-#### Reservierung
+#### Reservierungen
 
 1\. Klasse: 13€ \
 2\. Klasse: 11€
@@ -77,6 +82,9 @@ Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforde
     reservation_possible=true
 %}}
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
+
+Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -89,7 +97,9 @@ Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegs
 %}}
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
 
-#### Reservierung
+Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
+#### Reservierungen
 
 Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity und Regionalzügen.
 {{% /train-category %}}
@@ -105,7 +115,7 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
 %}}
 Panoramazüge der SBB über die Gotthardbergstrecke von Mitte April bis Mitte Oktober. Beworben wird eine Fahrt in Kombination mit dem Schiff der Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), dort gelten die Fahrvergünstigungen SP, siehe [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Für Reisende auf der Gesamtstrecke mit Zug und Schiff zwischen Lugano und Luzern (und umgekehrt) wird ein kostenloser Gepäcktransport angeboten.
 
-#### Reservierung
+#### Reservierungen
 
 Eine besondere Reservierung für 24 CHF ist erforderlich.
 
@@ -133,6 +143,15 @@ Nationale Züge mit Halten in größeren Städten.
     reservation_required=false
 %}}
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -177,10 +196,6 @@ Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 J
 
 ## Tarifliche Besonderheiten
 
-### Busse und Schienenersatzverkehr
-
-FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
-
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
 Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP Freifahrtscheine: [^2]
@@ -197,6 +212,10 @@ Auf einigen Routen der Schweizerischen Südostbahn (SOB) gelten FIP Freifahrtsch
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien](/country/switzerland#italien "Einreise Italien")
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

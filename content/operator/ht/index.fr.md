@@ -4,6 +4,10 @@ title: "Hellenic Train"
 country:
   - "greece"
 operator: "ht"
+
+aliases:
+  - /booking/ht-ticket-office
+  - /booking/ht-website
 ---
 
 Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploite l'ensemble du transport de voyageurs de l'État sur le réseau grec à voie normale. L'entreprise exploite des services grandes lignes, régionaux et de banlieue (« Proastiakos »). Depuis 2017, elle est une filiale à 100 % des chemins de fer italiens Ferrovie dello Stato Italiane (FS).
@@ -31,7 +35,7 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploit
 
 Ces trains relient Athènes (Αθήνα) et Thessalonique (Θεσσαλονίκη) ainsi que Larisa (Λάρισα) et d'autres grandes villes. La ligne est électrifiée et offre les temps de trajet les plus courts du pays. Le FIP est pleinement accepté, mais une réservation de siège gratuite est obligatoire.
 
-#### Réservation
+#### Réservations
 
 Les réservations doivent être obtenues à l'avance. Elles peuvent être achetées en ligne ou en gare.
 
@@ -125,7 +129,7 @@ Aux tarifs publics, les enfants jusqu'à 4 ans voyagent gratuitement, les enfant
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d'interrompre le trajet
 
 L'interruption de voyage n'est pas autorisée.[^1]
 

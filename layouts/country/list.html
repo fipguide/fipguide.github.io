@@ -10,7 +10,8 @@
             {{ range .Pages }}
               <li class="o-list__list-item o-list__list-item--country">
                 <a href="{{ .RelPermalink }}" class="o-list__link">
-                  <div class="o-list__picture">
+                  <!-- Exclude flags from Pagefind so this overview page does not show misleading country flag thumbnails in search results. -->
+                  <div class="o-list__picture" data-pagefind-ignore="all">
                     {{ partial "flag" (dict "country" .File.ContentBaseName) }}
                   </div>
                   <div>
@@ -31,9 +32,13 @@
             {{ end }}
           </ul>
         </div>
+        <!-- Only show Countries/Operators without FIP to avoid displaying this page to users who would like to find an operator page -->
         <div data-pagefind-body>
           <h2 id="countries-without-fip">{{ T "countries.without-fip" }}</h2>
-          <ul class="o-list__list" aria-labelledby="countries-without-fip">
+          <ul
+            class="o-list__list o-list__list--single-column"
+            aria-labelledby="countries-without-fip"
+          >
             {{ range .Params.countriesWithoutFip }}
               <li>{{ . }}</li>
             {{ end }}

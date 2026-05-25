@@ -3,6 +3,9 @@ draft: false
 title: "BLS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.
@@ -81,10 +84,8 @@ FIP is not valid on these trains, but the parallel running trains of the `RE 1` 
         title="Bus"
         type="bus"
         fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
 %}}
-FIP is valid on all BLS buses, including those of _Busland AG_.
+FIP is valid on all BLS buses, including those of _Busland AG_ and buses used for rail replacement services.
 {{% /train-category %}}
 
 {{% train-category
@@ -146,6 +147,10 @@ The Swiss railway companies SBB and BLS partially accept each other's FIP Coupon
 - The FIP Coupons of the BLS are accepted on SBB trains on routes where BLS trains also run, i.e. between two stations where both SBB and BLS trains operate. The BLS network is [available online](https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-bls-bahn.pdf).
 
 However, the SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses that primarily operate in the Emmental.
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 

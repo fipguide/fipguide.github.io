@@ -34,16 +34,18 @@ Sur les autres lignes, la vitesse est moyenne mais les trains circulent généra
 
 | Pays                                                     | Points frontières                                                   |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| [Allemagne](/country/germany) ([DB](/operator/db))       | Aachen Süd (Gr)                                                     |
 | [Pays-Bas](/country/netherlands) ([NS](/operator/ns))    | Roosendaal (fr), Visé (fr)                                          |
+| [Allemagne](/country/germany) ([DB](/operator/db))       | Aachen Süd (Gr)                                                     |
+| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
 | [France](/country/france) ([SNCF](/operator/sncf))       | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
 
 {{% /expander %}}
 
-### Luxembourg
+### Pays-Bas
 
-Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liège ou Bruxelles peuvent être utilisés. En 2ᵉ classe, un Billet FIP (coupon ou FIP 50) suffit pour tout le trajet, car le transport public est gratuit en 2ᵉ classe au Luxembourg. En 1ʳᵉ classe, un Billet FIP supplémentaire pour le CFL est requis.
+Depuis les Pays-Bas, il est possible d’utiliser les trains régionaux transfrontaliers (y compris l’`IC`) ; pour ceux-ci, un Billet FIP supplémentaire de la NS est requis. De plus, des trains longue distance (`ECD` et `EC`) circulent, où un supplément peut s’appliquer sur la section néerlandaise (entre Rotterdam et Schiphol).
+
+L’Eurostar (anciennement Thalys) peut également être utilisé depuis les Pays-Bas pour rejoindre le réseau SNCB. Dans ce cas, un Billet FIP spécial Eurostar est nécessaire pour l’ensemble du trajet, y compris en Belgique. ([voir Eurostar](/operator/eurostar "Eurostar"))
 
 ### Allemagne
 
@@ -57,17 +59,19 @@ L’Eurostar (anciennement Thalys) peut également être utilisé depuis l’All
 
 #### Régional
 
-Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
+Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l’utilisation du S41, il n’est actuellement pas clairement réglementé si un changement tarifaire d’opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
 
 {{% highlight tip %}}
-Nous recommandons d'interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
+Nous recommandons d’interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
 {{% /highlight %}}
 
-### Pays-Bas
+### Luxembourg
 
-Depuis les Pays-Bas, il est possible d’utiliser les trains régionaux transfrontaliers (y compris l’`IC`) ; pour ceux-ci, un Billet FIP supplémentaire de la NS est requis. De plus, des trains longue distance (`ECD` et `EC`) circulent, où un supplément peut s’appliquer sur la section néerlandaise (entre Rotterdam et Schiphol).
+Depuis le Luxembourg, les trains transfrontaliers de la SNCB vers Liers, Liège ou Bruxelles peuvent être utilisés. Il existe également des liaisons transfrontalières à l’ouest du pays, de Luxembourg vers Arlon via Athus ou Sterpenich (fr).
 
-L’Eurostar (anciennement Thalys) peut également être utilisé depuis les Pays-Bas pour rejoindre le réseau SNCB. Dans ce cas, un Billet FIP spécial Eurostar est nécessaire pour l’ensemble du trajet, y compris en Belgique. ([voir Eurostar](/operator/eurostar "Eurostar"))
+En 2ᵉ classe, un Coupon FIP de la SNCB suffit pour tout le trajet, car le transport public est gratuit en 2ᵉ classe au Luxembourg. En 1ʳᵉ classe, un Billet FIP supplémentaire pour la CFL est requis.
+
+Lors de l’utilisation de Billets FIP 50, un billet à partir du point frontière (Gouvy (fr) ou Sterpenich (fr)) ou à partir du dernier arrêt au Luxembourg est requis pour les trajets transfrontaliers. Une exception est le voyage via Athus. Ici, le voyage gratuit au Luxembourg s’applique à partir de la gare d’Athus en Belgique. Les billets en Belgique ne doivent donc être achetés que jusqu’à/à partir d’ici. En 1ʳᵉ classe, un billet pour le tronçon luxembourgeois est requis.
 
 ### France
 

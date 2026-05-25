@@ -5,6 +5,7 @@ country: "slovakia"
 params:
   operators_without_fip:
     - RegioJet
+    - Leo Express
 ---
 
 ## Informations FIP
@@ -34,28 +35,11 @@ Un point fort est le voyage dans les Hautes Tatras à bord de la Tatranská žel
 
 | Pays                                              | Points frontières                                                                                           |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [Tchéquie](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 | Hongrie ([GySEV](/operator/gysev))                | Rajka (Gr)                                                                                                  |
 | Hongrie (MÁV)                                     | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                       |
+| [Tchéquie](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 
 {{% /expander %}}
-
-### République tchèque
-
-Depuis la Tchéquie, les trains transfrontaliers de České dráhy (ČD) ou ZSSK sont utilisables sur plusieurs lignes. Un Billet FIP 50 ou un Coupon FIP ČD est requis. Les trains de RegioJet ne sont pas utilisables avec FIP.
-
-### Autriche
-
-Depuis l’Autriche, il existe deux liaisons régionales possibles pour rejoindre la Slovaquie :
-
-- Une liaison traverse le nord du Danube depuis Vienne via Marchegg jusqu’à la gare principale de Bratislava (Bratislava hl.st.)
-- Une autre liaison part de Vienne via Kittsee vers le sud de Bratislava (Bratislava Petrzalka)
-
-Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") est requis pour la section slovaque.
-
-Il existe également quelques liaisons `EC` supplémentaires.
-
-Depuis la Hongrie, des trains régionaux transfrontaliers et EuroCity sont disponibles. Sur la ligne Bratislava – Hegyeshalom via Rajka, un Billet FIP GySEV est requis. Sur les autres lignes, un Billet FIP MAV-Start est nécessaire.
 
 ### Pologne
 
@@ -70,6 +54,25 @@ D’autres liaisons transfrontalières, uniquement saisonnières, existent égal
 Depuis Košice, des trains régionaux circulent vers Chop et Mukachevo. Le FIP n’est pas valable en Ukraine, un billet standard est requis à partir de la frontière.
 
 Les billets transfrontaliers sans réduction FIP peuvent être achetés sur le site de la ZSSK. Si le train s’arrête à Čierna nad Tisou, il est possible d’acheter un billet normal depuis cette gare. Pour des billets moins chers, il est recommandé de demander directement au guichet ZSSK.
+
+### Hongrie
+
+Depuis la Hongrie, des trains régionaux transfrontaliers et EuroCity sont disponibles. Sur la ligne Bratislava – Hegyeshalom via Rajka, un Billet FIP GySEV est requis. Sur les autres lignes, un Billet FIP MAV-Start est nécessaire.
+
+### Autriche
+
+Depuis l’Autriche, il existe deux liaisons régionales possibles pour rejoindre la Slovaquie :
+
+- Une liaison traverse le nord du Danube depuis Vienne via Marchegg jusqu’à la gare principale de Bratislava (Bratislava hl.st.)
+- Une autre liaison part de Vienne via Kittsee vers le sud de Bratislava (Bratislava Petrzalka)
+
+Pour les deux liaisons, un Billet FIP 50 de la [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") est requis pour la section slovaque.
+
+Il existe également quelques liaisons `EC` supplémentaires.
+
+### République tchèque
+
+Depuis la Tchéquie, les trains transfrontaliers de České dráhy (ČD) ou ZSSK sont utilisables sur plusieurs lignes. Un Billet FIP 50 ou un Coupon FIP ČD est requis. Les trains de RegioJet ne sont pas utilisables avec FIP.
 
 ## Évaluation FIP
 
