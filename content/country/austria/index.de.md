@@ -58,7 +58,7 @@ Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen de
 
 ### Tschechien
 
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brün.
+Von Tschechien aus können grenzüberschreitende Züge der České dráhy über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der České dráhy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brünn.
 
 ### Slowakei
 

@@ -279,7 +279,7 @@ Les trains Le Frecce longue distance ont des catégories de classes particulièr
 
 {{% booking id="fs-website" %}}
 {{% highlight inofficial %}}
-Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places sur le site Web FS n'est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d'acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places sur le site Web FS n’est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d’acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
 {{% /highlight %}}
 {{% /booking %}}
 
@@ -378,7 +378,7 @@ La mention "prenotabile" dans les informations du train :
   width="60%"
   position="right"
 %}}
-L'intitulé du billet "Prenotazione – Ordinaria" :
+L’intitulé du billet "Prenotazione – Ordinaria" :
 {{% /float-image %}}
 
 **Non lié à un train :** \
@@ -399,7 +399,7 @@ La mention "non prenotabile" dans les informations du train :
   width="60%"
   position="right"
 %}}
-L'intitulé du billet "Ordinaria" :
+L’intitulé du billet "Ordinaria" :
 {{% /float-image %}}
 
 {{% /expander %}}
@@ -408,7 +408,7 @@ L'intitulé du billet "Ordinaria" :
 
 Les billets pour les trains régionaux non liés à un train (_non prenotabile_) doivent être validés sur le quai (obliteratrici).
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée dans les trains longue distance. Dans les trains régionaux, elle est possible sans formalités, sauf pour les Billets FIP 50 liés à un train spécifique avec numéro de train imprimé (voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)).
 

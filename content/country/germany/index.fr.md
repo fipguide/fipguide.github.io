@@ -235,16 +235,16 @@ Il existe aussi des liaisons régionales transfrontalières. L’Allemagne est �
 
 ### France
 
-Entre la France et l'Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s'agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+Entre la France et l’Allemagne, des trains grandes lignes en coopération SNCF et DB circulent. Il s’agit de `TGV` ou `ICE` reliant Paris à Munich ou Karlsruhe, Mannheim et Francfort (Main) via Strasbourg ou Sarrebruck. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
 
-La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l'obligation de réservation s'applique jusqu'au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l'Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
+La réservation est obligatoire uniquement en France. En Allemagne, ces trains peuvent être utilisés sans réservation. Comme l’obligation de réservation s’applique jusqu’au point frontière Kehl (Gr) sur la route via Strasbourg et Karlsruhe, une réservation est également nécessaire pour les trajets entre Strasbourg et l’Allemagne. Ces billets FIP transfrontaliers peuvent être achetés en ligne par les agents DB, voir [Achat en ligne](/operator/sncf#online "Achat en ligne").
 
 {{% highlight tip %}}
-Une option économique pour rejoindre l'Allemagne depuis Strasbourg est le tram jusqu'à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l'Ortenau S-Bahn, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, jusqu'à Offenburg. Le FIP n'est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^4] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) le sont.
+Une option économique pour rejoindre l’Allemagne depuis Strasbourg est le tram jusqu’à Kehl, nécessitant un simple billet de tram. À Kehl, correspondance avec la ligne RS4 de l’Ortenau S-Bahn, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, jusqu’à Offenburg. Le FIP n’est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^4] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) le sont.
 {{% /highlight %}}
 
 {{% highlight important %}}
-Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l'exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
 {{% /highlight %}}
 
 En plus des grandes lignes, plusieurs liaisons régionales existent. Pour les utiliser sur tout le trajet, il faut des Coupons FIP de la DB et de la SNCF ou un billet FIP 50 valable sur toute la ligne. Exemples : Metz – Sarrebruck ou Wissembourg – Neustadt an der Weinstraße. Les trains Strasbourg – Kehl/Offenburg sont exploités côté allemand par la SWEG, où les Coupons FIP DB ne sont pas valables.
@@ -268,10 +268,10 @@ Avec Eurostar (anciennement Thalys), le réseau DB est également accessible dep
 
 #### Régional
 
-Le S41 exploité par la SNCB circule entre Liège-Saint-Lambert et Aix-la-Chapelle. Lors de l'utilisation du S41, il n'est actuellement pas clairement réglementé si un changement tarifaire d'opérateur a lieu à Aachen Süd(Gr).[^5] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Süd (Gr) et Aachen Hbf, ou si les Coupons FIP de la SNCB sont acceptés jusqu'à Aachen Hbf.
+Le S41 exploité par la SNCB circule entre Liège-Saint-Lambert et Aix-la-Chapelle. Lors de l’utilisation du S41, il n’est actuellement pas clairement réglementé si un changement tarifaire d’opérateur a lieu à Aachen Süd(Gr).[^5] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Süd (Gr) et Aachen Hbf, ou si les Coupons FIP de la SNCB sont acceptés jusqu’à Aachen Hbf.
 
 {{% highlight tip %}}
-Nous recommandons d'interroger le personnel du train. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
+Nous recommandons d’interroger le personnel du train. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
 {{% /highlight %}}
 
 ### Pays-Bas
@@ -295,6 +295,6 @@ Sur les `RE` Venlo – Hamm et Arnhem – Düsseldorf, le Deutschlandticket est 
 
 [^3]: [Retour d’expérience Außenfernbahn](https://github.com/fipguide/fipguide.github.io/issues/606)
 
-[^4]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+[^4]: [DB Mobidig - Où ma réduction de voyage s’applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
 
-[^5]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)
+[^5]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)
