@@ -26,8 +26,6 @@ Les réservations de cabine sont disponibles et obligatoires pour les trajets de
 
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [Demande par e-mail de l’équipe FIP Guide à Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
 
 [^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1433789686039707688/1491886477347651764)

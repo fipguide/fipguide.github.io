@@ -1,0 +1,20 @@
+{{- $id := replaceRE `-[0-9]+$` "" .Anchor -}}
+{{- with index .Attributes "prefix" -}}
+  {{- $id = print . ":" $id -}}
+{{- end -}}
+{{- $heading := print `<h` .Level ` id="` $id `">` .Text `</h` .Level `>` -}}
+{{- if eq .Level 2 -}}
+  {{- partial "intersector" -}}
+  <span class="a-anchorlink">
+    {{- $heading | safeHTML -}}
+    <button
+      data-anchor="#{{ $id }}"
+      class="a-anchorlink__link"
+      title="{{ T "anchorLink.copy" }}"
+    >
+      {{- partial "icon" "link" -}}
+    </button>
+  </span>
+{{- else -}}
+  {{- $heading | safeHTML -}}
+{{- end -}}
