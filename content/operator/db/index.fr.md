@@ -108,6 +108,7 @@ Pour les Railjets à destination de l’Italie, un supplément est requis à par
 
 Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances.
 
+Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information en plus du service Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -176,6 +177,8 @@ _Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux g
 #### Réservations
 
 Pour les Nightjet, des réservations/suppléments pour les voitures-lits et couchettes peuvent être réservés. Un FIP Coupon pour les pays/compagnies traversés est nécessaire. Sans FIP Coupon, un billet au Tarif Global FIP pour tout le trajet peut être acheté.
+
+Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information, en plus du service Nightjet.
 
 **Coût :** Selon le trajet, la fréquentation et la catégorie de voiture.
 
@@ -321,7 +324,7 @@ Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Li
 
 ### DB Regio Stuttgart
 
-DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n'accepte pas les réductions FIP. Cela concerne les lignes suivantes : [^2]
+DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n’accepte pas les réductions FIP. Cela concerne les lignes suivantes : [^2]
 
 - RE 6 : Tübingen - Stuttgart
 - RE 10a : Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
@@ -334,7 +337,7 @@ DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n'accepte pas les réducti
 
 ### DB Regio Bayern
 
-Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l'opérateur ferroviaire agilis. Aucune réduction FIP n'est donc reconnue sur cette section. [^2]
+Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. [^2]
 
 ### Trajets dans les réseaux de transport
 

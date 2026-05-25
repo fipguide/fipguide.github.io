@@ -80,7 +80,7 @@ Le billet anniversaire doit être retiré avant le départ aux points de vente.[
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Une interruption de voyage est autorisée sans formalités.[^1]
 
@@ -91,7 +91,7 @@ Aucune réduction n’est accordée pour les véhicules entre Friedrichshafen et
 
 ### zellerSEEticket (zSEEt)
 
-Titulaires de la carte FIP bénéficient d'une réduction de 50 % sur le zellerSEEticket (zSEEt). Aucune autre réduction n'est acceptée.[^3]
+Titulaires de la carte FIP bénéficient d’une réduction de 50 % sur le zellerSEEticket (zSEEt). Aucune autre réduction n’est acceptée.[^3]
 
 ## Sources
 

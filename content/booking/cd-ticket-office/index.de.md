@@ -19,6 +19,10 @@ params:
 
 An ČD Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Tschechiens und in andere europäische Länder erworben werden.
 
+{{% highlight tip %}}
+Die ČD kann auch Tickets zu Grenzpunkten und nicht nur echten Bahnhöfen verkaufen. Das ist besonders hilfreich für Fahrten in andere Länder für die ein Freifahrtschein vorliegt.
+{{% /highlight %}}
+
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

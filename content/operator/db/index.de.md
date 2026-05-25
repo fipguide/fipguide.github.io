@@ -108,6 +108,8 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
 
 Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit geringerer Geschwindigkeit als ICE-Züge, verbinden zahlreiche Städte und bedienen auch viele Urlaubs- und Ferienregionen.
 
+Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -159,7 +161,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=partially
     reservation_possible=true
 %}}
 
@@ -175,6 +177,8 @@ _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bi
 #### Reservierungen
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
+
+Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
 
 **Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
 

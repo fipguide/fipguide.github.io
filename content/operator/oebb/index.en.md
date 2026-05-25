@@ -321,12 +321,8 @@ FIP Coupons are accepted on ÖBB-operated local trains of S-Bahn line S7.
 Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 
 {{% highlight tip %}}
-If you travel with regular Vienna public transport tickets (e.g., single journeys or 24/48/72-hour tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
+If you travel with regular Vienna public transport tickets (e.g., Single journeys, 24-hour tickets or 7-day tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
 {{% /highlight %}}
-
-### Schneebergbahn
-
-The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
 
 ### Motorail
 
