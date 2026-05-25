@@ -23,11 +23,6 @@
 
   @include focus-indicator(0.3rem);
 
-  .a-icon {
-    font-size: 2.4rem;
-    margin-top: 1rem;
-  }
-
   @media print {
     box-shadow: none;
     border: 1px solid black;
@@ -98,6 +93,11 @@
 .m-teaser__dateline {
   font-size: 1.4rem;
   color: var(--link-special);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.4rem;
 }
 
 .m-teaser__headline {
@@ -106,11 +106,15 @@
 
 .m-teaser__content {
   padding: 1.4rem;
+  padding-top: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 
   > .a-icon {
+    font-size: 2.4rem;
+    margin-top: 1rem;
+
     @media print {
       display: none;
     }

@@ -1,7 +1,8 @@
 ---
-date: "2026-05-02"
+date: "2026-04-09"
+updated: "2026-05-02"
 draft: false
-title: "Update: Belgium: SNCB Ends On-Board Ticket Sales from 1 July 2026"
+title: "Belgium: SNCB Ends On-Board Ticket Sales from 1 July 2026"
 description: "Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects the purchase of FIP discounted tickets."
 country:
   - belgium

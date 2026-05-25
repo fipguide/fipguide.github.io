@@ -4,6 +4,9 @@
 {{ if eq .Type "news" }}
   <div class="o-last-updated" data-pagefind-ignore="all">
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    {{- with .Params.updated }}
+      {{ partial "tag" (dict "Type" "info" "Icon" "update" "RawText" (. | time.Format ":date_long")) }}
+    {{- end }}
   </div>
 {{ else if .GitInfo }}
   {{ $href := print .Site.Params.gitHubUrl "/commits/" .GitInfo.Hash "/content/" .File.Path }}

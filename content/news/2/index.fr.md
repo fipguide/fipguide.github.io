@@ -1,5 +1,6 @@
 ---
 date: "2025-02-16"
+updated: "2025-11-05"
 draft: false
 author: "Willy"
 title: "Billets FIP transfrontaliers de la SNCB"

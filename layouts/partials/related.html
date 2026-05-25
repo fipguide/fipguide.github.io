@@ -37,9 +37,14 @@
         }}
 
         {{ if eq .Page.Type "news" }}
-          <span class="o-related__date"
-            >{{ .Date | time.Format ":date_long" }}</span
-          >
+          <div class="o-related__meta">
+            <span class="o-related__date"
+              >{{ .Date | time.Format ":date_long" }}</span
+            >
+            {{- with .Params.updated }}
+              {{ partial "tag" (dict "Type" "info" "Icon" "update" "RawText" (. | time.Format ":date_long")) }}
+            {{- end }}
+          </div>
         {{ end }}
       </li>
     {{ end }}

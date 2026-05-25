@@ -12,9 +12,12 @@
       </div>
     {{ end }}
     <div class="m-teaser__content">
-      <time class="m-teaser__dateline" datetime="{{ $dateMachine }}"
-        >{{ $dateHuman }}</time
-      >
+      <div class="m-teaser__dateline">
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        {{- with $page.Params.updated }}
+          {{ partial "tag" (dict "Type" "info" "Icon" "update" "RawText" (. | time.Format ":date_long")) }}
+        {{- end }}
+      </div>
       {{ if $listview }}
         <h2 class="m-teaser__headline">{{ $page.Title }}</h2>
       {{ else }}
