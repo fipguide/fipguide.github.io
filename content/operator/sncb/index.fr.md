@@ -211,7 +211,7 @@ Un supplément de 6,70 € est requis pour les trajets à destination ou en prov
 ## Recommandation
 
 {{% highlight tip %}}
-La 1ère classe dans les trains de la SNCB est souvent utilisée par des passagers sans billet valide, et son confort est rarement supérieur à la 2ᵉ classe. Il n’est donc pas toujours rentable d’y voyager avec un coupon de 1ʳᵉ classe.
+La 1ère classe dans les trains de la SNCB est souvent utilisée avec des billets de 2ᵉ classe, et son confort est rarement supérieur à la 2ᵉ classe. Il n’est donc pas toujours rentable d’y voyager avec un coupon de 1ʳᵉ classe.
 {{% /highlight %}}
 
 ## Sources
