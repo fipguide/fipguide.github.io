@@ -61,7 +61,7 @@ Nach Rückkehr ins Bahnnetz des Heimatlandes ist innerhalb der Geltungsdauer des
 {{% /highlight %}}
 
 {{% highlight tip %}}
-Offiziell muss der _FIP Ausweis_ bei der Nutzung von _FIP Freifahrtsscheinen_ im Zug nicht vorgezeigt werden. Jedoch fordern Zugbegleiter ihn in der Praxis trotzdem teilweise ein. Um Probleme zu vermeiden, sollte er also auch bei der Nutzung von _FIP Freifahrtscheinen_ vorgezeigt werden können.
+Offiziell muss der _FIP Ausweis_ bei der Nutzung von _FIP Freifahrtscheinen_ im Zug nicht vorgezeigt werden. Jedoch fordern Zugbegleiter ihn in der Praxis trotzdem teilweise ein. Um Probleme zu vermeiden, sollte er also auch bei der Nutzung von _FIP Freifahrtscheinen_ vorgezeigt werden können.
 {{% /highlight %}}
 
 {{% expander "Beispiel für die Nutzung eines FIP Freifahrtscheins" info %}}
