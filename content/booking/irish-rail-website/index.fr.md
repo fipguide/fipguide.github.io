@@ -17,7 +17,7 @@ params:
 
 ## Réservations
 
-Les réservations pour la 2e classe peuvent être achetées en ligne. Pour ce faire, il faut d'abord sélectionner l'option passager :
+Les réservations pour la 2e classe peuvent être achetées en ligne. Pour ce faire, il faut d’abord sélectionner l’option passager :
 
 ![Ouvrir les options passager](./reservation-step-1.png)
 
@@ -28,7 +28,7 @@ Les réservations pour la 2e classe peuvent être achetées en ligne. Pour ce fa
   position="left"
 %}}
 
-Ensuite, la sélection « Adults » peut être désactivée et l'option « Free Travel Pass » sélectionnée.
+Ensuite, la sélection « Adults » peut être désactivée et l’option « Free Travel Pass » sélectionnée.
 
 {{% /float-image %}}
 
@@ -39,7 +39,7 @@ Les prix affichés pour la Premier Class incluent la différence de prix entre l
 Les réservations pour les Coupons FIP de 1re classe ne peuvent pas être effectuées en ligne via Irish Rail.
 
 {{% highlight tip %}}
-En Irlande, le nom des passagers est en principe affiché sur les afficheurs de réservations dans les trains. Si cela n'est pas souhaité, il est possible d'indiquer lors de la réservation que le numéro de billet soit affiché à la place.
+En Irlande, le nom des passagers est en principe affiché sur les afficheurs de réservations dans les trains. Si cela n’est pas souhaité, il est possible d’indiquer lors de la réservation que le numéro de billet soit affiché à la place.
 {{% /highlight %}}
 
 {{% /booking-section %}}

@@ -166,7 +166,7 @@ Stena Line propose des billets permettant un voyage combiné train et ferry à p
 ## Recommandations
 
 {{% highlight important %}}
-Veuillez noter que l'enregistrement n'est possible que jusqu'à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.
+Veuillez noter que l’enregistrement n’est possible que jusqu’à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.
 {{% /highlight %}}
 
 L’accès à la station _Hoek van Holland Haven_ se fait généralement par la ligne de métro B depuis Rotterdam et Schiedam.

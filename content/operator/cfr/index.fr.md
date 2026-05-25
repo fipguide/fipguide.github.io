@@ -26,7 +26,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services de CFR Căl
 
 ## Catégories de trains et réservations
 
-Les catégories de trains sont en partie également utilisées par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
+Les catégories de trains sont en partie également utilisées par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 
 {{% train-category
     id="ic"
@@ -35,10 +35,10 @@ Les catégories de trains sont en partie également utilisées par d'autres opé
     fip_accepted=true
     reservation_required=true
 %}}
-Trains nationaux longue distance avec peu d'arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
+Trains nationaux longue distance avec peu d’arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
 
 {{% highlight confusion %}}
-Les trains `IC` sont en partie également exploités par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
+Les trains `IC` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{% /highlight %}}
 
 #### Réservations
@@ -55,10 +55,10 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     fip_accepted=true
     reservation_required=true
 %}}
-Trains relativement rapides reliant les grandes villes du pays avec peu d'arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
+Trains relativement rapides reliant les grandes villes du pays avec peu d’arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
 
 {{% highlight confusion %}}
-Les trains `IR` sont en partie également exploités par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
+Les trains `IR` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{% /highlight %}}
 
 #### Réservations
@@ -75,12 +75,12 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     fip_accepted=true
     reservation_required=true
 %}}
-Trains principalement internationaux circulant de nuit. Ils sont aussi parfois référencés comme `D` dans les recherches de correspondances d'autres fournisseurs.
+Trains principalement internationaux circulant de nuit. Ils sont aussi parfois référencés comme `D` dans les recherches de correspondances d’autres fournisseurs.
 
 Ces trains comprennent généralement des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
 
 {{% highlight confusion %}}
-Les trains `IRN` sont en partie également exploités par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
+Les trains `IRN` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{% /highlight %}}
 
 #### Réservations
@@ -89,7 +89,7 @@ Une réservation est obligatoire, soit pour une place assise, en couchette ou en
 
 **Coût de la réservation :** 5 RON pour les places assises et debout sur les relations nationales
 
-Pour les voitures-couchettes et voitures-lits, les tarifs suivants s'appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
 
 {{% train-category
@@ -99,12 +99,12 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s'appliquent 
     fip_accepted=true
     reservation_required=partially
 %}}
-Les trains internationaux vers la Bulgarie, la Moldavie et l'Ukraine circulent sans catégorie de train spécifique et n'ont qu'un numéro de train.
+Les trains internationaux vers la Bulgarie, la Moldavie et l’Ukraine circulent sans catégorie de train spécifique et n’ont qu’un numéro de train.
 
 Ces trains comprennent souvent des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
 
 {{% highlight confusion %}}
-Ces trains sont en partie également exploités par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
+Ces trains sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{% /highlight %}}
 
 #### Réservations
@@ -113,7 +113,7 @@ Une réservation est souvent obligatoire (reconnaissable par un _R_ dans la rech
 
 **Coût de la réservation :** 5 RON pour les places assises et debout sur les relations nationales
 
-Pour les voitures-couchettes et voitures-lits, les tarifs suivants s'appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
 
 {{% train-category
@@ -123,10 +123,10 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s'appliquent 
     fip_accepted=true
     reservation_required=partially
 %}}
-Trains régionaux desservant également les petites localités. Les différents trains sur une même ligne n'ont souvent pas de schéma d'arrêt fixe, ce qui signifie que les petits arrêts ne sont desservis que par certains trains `R`.
+Trains régionaux desservant également les petites localités. Les différents trains sur une même ligne n’ont souvent pas de schéma d’arrêt fixe, ce qui signifie que les petits arrêts ne sont desservis que par certains trains `R`.
 
 {{% highlight confusion %}}
-Les trains `R` sont en partie également exploités par d'autres opérateurs en Roumanie. Pour l'utilisation de la FIP, il est important de vérifier que l'opérateur est CFR Călători.
+Les trains `R` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{% /highlight %}}
 
 #### Réservations
@@ -149,27 +149,27 @@ Une réservation est nécessaire pour certains trains, indiqués par un _R_.
 {{% booking id="cfr-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" subtitle="Pour le train de nuit Vienne – Bucarest et les InterCity" %}}
-Au guichet DB, des Billets FIP 50 et des réservations pour le train de nuit Vienne – Bucarest peuvent être achetés. Les réservations peuvent être effectuées 90 jours à l'avance. Des réservations sont disponibles pour les InterCity.
+Au guichet DB, des Billets FIP 50 et des réservations pour le train de nuit Vienne – Bucarest peuvent être achetés. Les réservations peuvent être effectuées 90 jours à l’avance. Des réservations sont disponibles pour les InterCity.
 {{% /booking %}}
 
 ### À bord du train
 
-Il n'est pas possible d'acheter des billets à tarif réduit FIP à bord du train. Les réservations doivent également être obtenues avant le départ.
+Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du train. Les réservations doivent également être obtenues avant le départ.
 
 ## Réductions
 
-Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement. Les enfants de moins de 10 ans bénéficient d'une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le plein tarif adulte.[^1]
+Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement. Les enfants de moins de 10 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le plein tarif adulte.[^1]
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
-Avec les billets FIP 50, une interruption de voyage n'est autorisée qu'une seule fois et pour une durée maximale de 24 heures à compter de l'arrivée à la gare où le voyage est interrompu. Pour cela, le billet doit être composté dans l'heure qui suit l'arrivée.[^1]
+Avec les billets FIP 50, une interruption de voyage n’est autorisée qu’une seule fois et pour une durée maximale de 24 heures à compter de l’arrivée à la gare où le voyage est interrompu. Pour cela, le billet doit être composté dans l’heure qui suit l’arrivée.[^1]
 
 ## Recommandations
 
 {{% highlight tip %}}
-CFR Călători assure une offre de base solide sur le réseau ferroviaire roumain, en grande partie vieillissant, en particulier sur les axes principaux. Hormis l'obligation de réservation sur la plupart des liaisons, il est relativement simple de parcourir le pays avec la FIP. Les trains internationaux vers l'Europe de l'Ouest constituent un point fort particulier, tout comme les trains bien connus vers la Moldavie et la Turquie, même si ces derniers ne peuvent pas être utilisés avec la FIP sur l'intégralité du trajet.
+CFR Călători assure une offre de base solide sur le réseau ferroviaire roumain, en grande partie vieillissant, en particulier sur les axes principaux. Hormis l’obligation de réservation sur la plupart des liaisons, il est relativement simple de parcourir le pays avec la FIP. Les trains internationaux vers l’Europe de l’Ouest constituent un point fort particulier, tout comme les trains bien connus vers la Moldavie et la Turquie, même si ces derniers ne peuvent pas être utilisés avec la FIP sur l’intégralité du trajet.
 {{% /highlight %}}
 
 ## Sources

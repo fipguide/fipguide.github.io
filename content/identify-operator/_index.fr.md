@@ -1,5 +1,5 @@
 ---
-title: "Identifier l'opérateur"
+title: "Identifier l’opérateur"
 
 cascade:
   - build:

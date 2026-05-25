@@ -86,7 +86,7 @@ Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous
 
 Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par KW.
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 

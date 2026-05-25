@@ -109,7 +109,7 @@ Les billets sont émis exclusivement sous forme numérique (email requis).
 
 ### En ligne
 
-Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
+Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
 {{% booking id="railtourguide-website"
     fip_50=nil
@@ -187,13 +187,13 @@ Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’au
 
 ### Modifications & Annulations
 
-Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu'à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
+Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
 
-En principe, il n'est possible de rebooker que sur d'autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d'une modification, il est également possible de passer d'Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d'Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
+En principe, il n’est possible de rebooker que sur d’autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d’une modification, il est également possible de passer d’Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d’Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
 
-En cas d'annulation, le prix total des Billets FIP est remboursé. Les éventuels frais de réservation facturés par des prestataires externes ne sont pas remboursés.
+En cas d’annulation, le prix total des Billets FIP est remboursé. Les éventuels frais de réservation facturés par des prestataires externes ne sont pas remboursés.
 
-La modification, l'annulation et le passage à une classe supérieure sont possibles avec le numéro de réservation via le [site Eurostar](https://www.eurostar.com/customer-dashboard/en/get-booking).
+La modification, l’annulation et le passage à une classe supérieure sont possibles avec le numéro de réservation via le [site Eurostar](https://www.eurostar.com/customer-dashboard/en/get-booking).
 
 ### Quotas de billets
 
@@ -212,11 +212,11 @@ La vérification des contingents de billets disponibles est possible via les sit
 
 #### HOTNAT (Correspondance à Bruxelles, Cologne, Paris)
 
-Pour Eurostar, l'achat de billets directs n'est pas possible. Cependant, pour garantir la correspondance lors d'un changement, il est possible d'utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
+Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, pour garantir la correspondance lors d’un changement, il est possible d’utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
 
-Si la correspondance entre deux trains à grande vitesse est manquée en raison d'un retard ou d'une suppression, il est possible d'emprunter le prochain train disponible du même opérateur ou d'un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
+Si la correspondance entre deux trains à grande vitesse est manquée en raison d’un retard ou d’une suppression, il est possible d’emprunter le prochain train disponible du même opérateur ou d’un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
 
-HOTNAT s'applique uniquement lors d'une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L'utilisation dépend du taux d'occupation des trains.
+HOTNAT s’applique uniquement lors d’une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L’utilisation dépend du taux d’occupation des trains.
 
 #### London International CIV (Correspondance à Londres)
 
