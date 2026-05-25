@@ -81,6 +81,8 @@ Une réservation et un supplément sont requis pour la section italienne. Il est
     reservation_possible=true
 %}}
 Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gares de correspondance.
+
+Certains services [Nightjet](#nj) sont exploités avec des voitures à sièges `IC`. Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d'information en plus du service Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -92,6 +94,8 @@ Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gar
     reservation_possible=true
 %}}
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
+
+Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d'information, en plus du service Nightjet.
 
 #### Réservations
 

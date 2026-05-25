@@ -108,6 +108,7 @@ Pour les Railjets à destination de l’Italie, un supplément est requis à par
 
 Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances.
 
+Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d'information en plus du service Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -176,6 +177,8 @@ _Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux g
 #### Réservations
 
 Pour les Nightjet, des réservations/suppléments pour les voitures-lits et couchettes peuvent être réservés. Un FIP Coupon pour les pays/compagnies traversés est nécessaire. Sans FIP Coupon, un billet au Tarif Global FIP pour tout le trajet peut être acheté.
+
+Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d'information, en plus du service Nightjet.
 
 **Coût :** Selon le trajet, la fréquentation et la catégorie de voiture.
 
