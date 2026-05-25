@@ -38,7 +38,7 @@ You use the "Euskotren FIP Ticket" to pass through platform barriers. After expi
 {{% /float-image %}}
 
 {{% highlight tip %}}
-Some train operators also issue FIP Coupones for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
+Some train operators also issue FIP Coupons for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
 {{% /highlight %}}
 
 ## Train Categories and Reservations
