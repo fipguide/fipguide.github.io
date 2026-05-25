@@ -5,7 +5,7 @@ description: "Informations de réservation pour la réservation par téléphone 
 params:
   fip_50: true
   fip_global_fare: nil
-  reservations: false
+  reservations: true
   type: "phone"
 ---
 
