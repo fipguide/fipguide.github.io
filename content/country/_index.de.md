@@ -12,6 +12,7 @@ params:
     - Finnland (VR – VR-Yhtymä)
     - Isle of Man (IoMR – Isle of Man Railways)
     - Island
+    - Kosovo (Trainkos)
     - Malta
     - Moldau (CFM – Calea Ferată din Moldova)
     - Russland (RZD – Rossiyskie zheleznye dorogi)

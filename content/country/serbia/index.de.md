@@ -26,15 +26,15 @@ Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet al
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                                                       | Grenzpunkte                                                                                                                                      |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ungarn (MÁV)                                               | Röszke (Gr), Subotica (Gr)                                                                                                                       |
-| [Rumänien](/country/romania) ([CFR](/operator/cfr))        | Jimbolia (fr), Vršac (fr)                                                                                                                        |
-| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))      | Dimitrovgrad (fr)                                                                                                                                |
-| Nordmazedonien (ŽRSM)                                      | Ðjeneral Jankovic (fr) (now Han Elat. Serbian: Ђенерал Јанковић, Albanian: Han i Elezit), Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |
-| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                                                                                                                |
-| Bosnien und Herzegowina (ZRS/ZFBH)                         | Savski Brežovljani, Zvornik                                                                                                                      |
-| Kroatien (HŽ)                                              | Erdut (Gr) (Serbian: Ердут), Šid (Gr) (Serbian: Шид)                                                                                             |
+| Land                                                       | Grenzpunkte                                              |
+| ---------------------------------------------------------- | -------------------------------------------------------- |
+| Ungarn (MÁV)                                               | Röszke (Gr), Subotica (Gr)                               |
+| [Rumänien](/country/romania) ([CFR](/operator/cfr))        | Jimbolia (fr), Vršac (fr)                                |
+| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))      | Dimitrovgrad (fr)                                        |
+| Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
+| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                        |
+| Bosnien und Herzegowina (ZRS/ZFBH)                         | Savski Brežovljani, Zvornik                              |
+| Kroatien (HŽ)                                              | Erdut (Gr) (Serbian: Ердут), Šid (Gr) (Serbian: Шид)     |
 
 {{% /expander %}}
 
@@ -57,6 +57,8 @@ Zurzeit verkehren keine Personenzüge zwischen Serbien und Nordmazedonien.
 ### Kosovo
 
 Zurzeit verkehren keine Personenzüge zwischen Serbien und dem Kosovo.
+
+**Hinweis:** Kosovo wird von Serbien nicht als unabhängiger Staat anerkannt, daher beansprucht Serbien auch noch das Schiennetz im Kosovo für sich. Da aufgrund der politischen Lage keine grenzüberschreitenden Verbindungen zwischen Serbien und dem Kosovo existieren, besteht daher im Kontext von FIP keine Relevanz.
 
 ### Montenegro
 
