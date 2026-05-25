@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Guichet SV"
-description: "Informations de réservation pour les guichets SV."
+title: "Guichet Srbija Voz"
+description: "Informations de réservation pour les guichets Srbija Voz."
 
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "XX"
   type: "onsite"
 ---
 
@@ -16,7 +15,7 @@ XX
 
 ## Billets FIP 50
 
-Les Billets FIP 50 peuvent être achetés aux guichets SV.
+Les Billets FIP 50 peuvent être achetés aux guichets Srbija Voz.
 
 {{% /booking-section %}}
 
@@ -24,6 +23,6 @@ Les Billets FIP 50 peuvent être achetés aux guichets SV.
 
 ## Réservations
 
-Les réservations peuvent être achetées aux guichets SV.
+Les réservations peuvent être achetées aux guichets Srbija Voz.
 
 {{% /booking-section %}}

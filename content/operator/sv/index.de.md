@@ -64,8 +64,7 @@ Eine Reservierung ist verpflichtend. Die Kosten betragen in der ersten und zweit
 Die [Kosten für Liege- und Schlafwagenreservierungen](https://zpcg.me/en/red-voznje/medjunarodni) (Klick auf eine Fahrt und dort auf "Beds") variieren je nach Wagenklasse.
 Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^3]
 
-Buchungsanfragen können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof (Belgrad, Subotica) abgeholt werden. Das Reservierungszentrum ist von 9:00 bis 17:00 Uhr erreichbar.[^8]
-
+Reservierungen können [via Telefon](#telefon) vorgenommen werden.
 {{% /train-category %}}
 
 {{% train-category
@@ -150,7 +149,10 @@ Grund hierfür ist, dass der Bahnhof von Novi Sad aufgrund eines Unfalls derzeit
 
 ### Telefon
 
-Buchungsanfragen für [internationale Züge](#brzi) können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof (Belgrad, Subotica) abgeholt werden. Das Reservierungszentrum ist von 9:00 bis 17:00 Uhr erreichbar.[^8]
+{{% booking
+    id="sv-phone"
+    subtitle="Reservierung von internationalen Fahrten zwischen Serbien und Montenegro"
+/%}}
 
 ### Vor Ort
 
@@ -187,5 +189,3 @@ Auf der Seite von Rail-Away findet sich ein [lesenswerter Reisebericht zum inter
 [^6]: [Wikipedia – Einsturz Bahnhofsdach](https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse#Aftermath)
 
 [^7]: [SV – Ermäßigungen](https://srbijavoz.rs/ponude/#gp)
-
-[^8]: [SV – Internationale Reservierungen](https://srbijavoz.rs/rezervisanje/)

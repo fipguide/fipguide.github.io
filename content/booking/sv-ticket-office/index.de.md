@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "SV Ticketschalter"
-description: "Buchungsinformationen für die SV Ticketschalter."
+title: "Srbija Voz Ticketschalter"
+description: "Buchungsinformationen für die Srbija Voz Ticketschalter."
 
 params:
   fip_50: true
@@ -15,7 +15,7 @@ An internationalen Ticketschaltern (Belgrad, Subotica) können Tickets und Reser
 
 ## FIP 50 Fahrkarten
 
-An SV Ticketschaltern können FIP 50 Fahrkarten erworben werden.
+An Srbija Voz Ticketschaltern können FIP 50 Fahrkarten erworben werden.
 
 {{% /booking-section %}}
 
@@ -23,6 +23,6 @@ An SV Ticketschaltern können FIP 50 Fahrkarten erworben werden.
 
 ## Reservierungen
 
-An SV Ticketschaltern können Reservierungen erworben werden.
+An Srbija Voz Ticketschaltern können Reservierungen erworben werden.
 
 {{% /booking-section %}}

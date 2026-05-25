@@ -68,4 +68,4 @@ Zurzeit verkehren keine Personenzüge zwischen Serbien und Bosnien und Herzegowi
 
 ### Kroatien
 
-Zurzeit verkehren aufgrund von Infrastrukturarbeiten keine Personenzüge zwischen Serbien und Kroatien.
+Zurzeit verkehren keine Personenzüge zwischen Serbien und Kroatien.

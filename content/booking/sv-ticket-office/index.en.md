@@ -1,22 +1,19 @@
 ---
 draft: false
-title: "SV Ticket Office"
-description: "Booking information for SV ticket offices."
+title: "Srbija Voz Ticket Office"
+description: "Booking information for Srbija Voz ticket offices."
 
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "XX"
   type: "onsite"
 ---
-
-XX
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets can be purchased at SV ticket offices.
+FIP 50 Tickets can be purchased at Srbija Voz ticket offices.
 
 {{% /booking-section %}}
 
@@ -24,6 +21,6 @@ FIP 50 Tickets can be purchased at SV ticket offices.
 
 ## Reservations
 
-Reservations can be purchased at SV ticket offices.
+Reservations can be purchased at Srbija Voz ticket offices.
 
 {{% /booking-section %}}
