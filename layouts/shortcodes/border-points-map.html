@@ -1,0 +1,37 @@
+{{ with .Page.Params.border_points_map }}
+  <div
+    class="o-border-points-map"
+    data-border-points-map
+    data-points="{{ . | jsonify | safeHTMLAttr }}"
+  >
+    <div class="o-border-points-map__frame">
+      <div
+        class="o-border-points-map__map"
+        data-border-points-map-container
+      ></div>
+      <div class="o-border-points-map__consent" data-border-points-map-consent>
+        <div class="o-border-points-map__consent-content">
+          <p class="o-border-points-map__consent-title">
+            {{ T "borderPointsMap.consent.title" }}
+          </p>
+          <p>{{ T "borderPointsMap.consent.text" }}</p>
+          <button
+            type="button"
+            class="a-button a-button__internal"
+            data-border-points-map-accept
+          >
+            {{ T "borderPointsMap.consent.accept" }}
+          </button>
+        </div>
+      </div>
+    </div>
+    <button
+      type="button"
+      class="a-button a-button__internal o-border-points-map__opt-out"
+      data-border-points-map-optout
+      hidden
+    >
+      {{ T "borderPointsMap.optOut" }}
+    </button>
+  </div>
+{{ end }}

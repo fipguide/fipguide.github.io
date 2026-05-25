@@ -10,6 +10,70 @@ params:
     - Gondelbahn Grindelwald – Männlichen (GGM)
     - Seilbahn Mürren – Allmendhubel (SMA)
     - Luftseilbahn Stechelberg (Mürren – Schilthorn) (LSMS)
+  border_points_map:
+    - name: Basel Bad Bf
+      lat: 47.5674616
+      lng: 7.6073096
+    - name: Konstanz
+      lat: 47.6588689
+      lng: 9.1772175
+    - name: Schaffhausen
+      lat: 47.6981052
+      lng: 8.6326837
+    - name: Waldshut
+      lat: 47.6212145
+      lng: 8.2195188
+    - name: Buchs (SG)
+      lat: 47.1687116
+      lng: 9.4787656
+    - name: St. Margrethen
+      lat: 47.4531468
+      lng: 9.6382298
+    - name: Chiasso
+      lat: 45.8322299
+      lng: 9.0314153
+    - name: Domodossola
+      lat: 46.1154217
+      lng: 8.2964016
+    - name: Iselle di Trasquera [> Domodossola]
+      lat: 46.2070874
+      lng: 8.2070479
+    - name: Locarno [> Domodossola]
+      lat: 46.1723153
+      lng: 8.8013509
+    - name: Lugano [> Porto Ceresio]
+      lat: 46.0054989
+      lng: 8.9468486
+    - name: Pino transito
+      lat: 46.0986592
+      lng: 8.7370481
+    - name: Tirano
+      lat: 46.215738
+      lng: 10.1666093
+    - name: Basel SBB
+      lat: 47.5476225
+      lng: 7.5896417
+    - name: Delle
+      lat: 47.5055161
+      lng: 7.0099855
+    - name: Genève [> Bellegarde]
+      lat: 46.2102288
+      lng: 6.1426218
+    - name: Annemasse
+      lat: 46.1995889
+      lng: 6.2371108
+    - name: Le Châtelard-Frontière (fr)
+      lat: 46.0532873
+      lng: 6.9502321
+    - name: Le Locle-Col-des-Roches
+      lat: 47.0499315
+      lng: 6.7261101
+    - name: Pontarlier
+      lat: 46.9008879
+      lng: 6.35338
+    - name: Vallorbe
+      lat: 46.7122861
+      lng: 6.3706406
 ---
 
 ## Informations FIP
@@ -33,6 +97,8 @@ La Suisse possède l’un des réseaux ferroviaires les plus denses au monde. Ma
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}
+
+{{< border-points-map >}}
 
 | Pays                                                  | Points frontières                                                                                                                   |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
