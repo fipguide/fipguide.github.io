@@ -2,36 +2,13 @@
   display: flow-root;
   margin-bottom: 1rem;
 
-  &__images {
-    display: flex;
-    gap: 1rem;
-    width: var(--float-image-width, 50%);
-  }
-
-  &__images > figure {
-    flex: 1;
-    min-width: 0;
-    margin: 0;
-  }
-
-  &--right > figure,
-  &--right > .m-float-image__images {
+  &--right > figure {
     float: right;
     margin-left: 2rem;
   }
 
-  &--left > figure,
-  &--left > .m-float-image__images {
+  &--left > figure {
     float: left;
     margin-right: 2rem;
-  }
-
-  @media (max-width: $breakpoint-md) {
-    &__images {
-      flex-direction: column;
-      float: none;
-      margin: 0 0 1rem;
-      width: 100%;
-    }
   }
 }
