@@ -87,7 +87,7 @@ Une interruption de voyage n’est pas prévue, car un billet distinct doit êtr
 
 Le transport de vélos est possible dans tous les trains. Dans les trains avec réservation obligatoire, cela s’applique également aux vélos. Le transport de vélos coûte 45 % du tarif normal et dépend de la classe du billet (2e ou 3e classe). Les passagers de 1re classe ne peuvent pas transporter de vélo (cette option reste toutefois disponible en ligne, état : 12/2025).
 
-## Recommandations
+## Recommandationss
 
 À Vilnius, LTG-Link exploite le seul salon. L’accès est gratuit pour les passagers de 1re classe lors de l’achat d’un billet pour un trajet de plus d’une heure, et payant pour les autres classes. Les boissons, etc. dans le salon doivent toutefois être payées aux distributeurs automatiques.
 

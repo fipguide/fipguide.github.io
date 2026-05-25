@@ -84,7 +84,7 @@ Il n’existe qu’une seule classe à bord des navires pour FIP.
 Lors de la réservation d’une cabine, il est possible de choisir entre Standard, Supérieure et Deluxe. [^3]
 Aucune remise FIP n’est accordée sur les cabines. [^2]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 Les billets FIP doivent être achetés avant le voyage. L’achat à bord des navires n’est pas possible.
 FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplémentaires sont facturées au tarif plein. Cela inclut notamment les frais de réservation de cabine, le transport de véhicules ainsi que les taxes portuaires et environnementales.
@@ -163,7 +163,7 @@ Stena Line propose des billets permettant un voyage combiné train et ferry à p
 [Informations chez Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 {{% /highlight %}}
 
-## Recommandations
+## Recommandationss
 
 {{% highlight important %}}
 Veuillez noter que l'enregistrement n'est possible que jusqu'à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.

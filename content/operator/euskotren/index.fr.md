@@ -117,7 +117,7 @@ Il existe une classe uniforme qui peut être utilisée avec les cartes FIP de 1�
 
 ## Achat de billets et réservations
 
-### Sur place
+### En gare
 
 {{% booking id="euskotren-ticket-office" /%}}
 
@@ -127,7 +127,7 @@ Il existe une classe uniforme qui peut être utilisée avec les cartes FIP de 1�
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandations
+## Recommandationss
 
 Sur le site de Zugpost, il y a un [récit de voyage intéressant sur Euskotren (uniquement en allemand)](https://zugpost.org/euskotren-baskenland/).
 

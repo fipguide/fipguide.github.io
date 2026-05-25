@@ -896,7 +896,7 @@ La Pilatusbahn n’est pas membre du FIP, mais propose actuellement une réducti
 
 Cette offre spéciale peut être retirée à tout moment par la Pilatusbahn.
 
-## Recommandations
+## Recommandationss
 
 {{% highlight tip %}}
 Avec les réductions FIP SP, de nombreux trains internationalement connus en Suisse et parfois au-delà peuvent être empruntés. Même si certaines compagnies présentent quelques restrictions ou règles spéciales, le Coupon y est particulièrement intéressant. Sont notamment recommandées les lignes des Chemins de fer rhétiques (RhB), par exemple vers St-Moritz, ou le GoldenPass Panoramic de la MOB. Pour des panoramas de montagne particulièrement impressionnants, les Rigi Bahnen (RB), qui montent jusqu’au sommet du Rigi, ou la Matterhorn Gotthard Bahn (MGB), depuis laquelle on admire particulièrement bien le Cervin, sont idéales.

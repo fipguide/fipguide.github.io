@@ -165,7 +165,7 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Les enfa
 
 Les passagers titulaires d’un billet de réduction FIP acheté au Portugal ne sont pas autorisés à interrompre leur voyage. Pour les billets achetés en dehors du Portugal, une interruption de voyage est autorisée (éventuellement sous réserve de réservation). [^1]
 
-## Recommandations
+## Recommandationss
 
 Sur le site de Zugpost, il y a un [récit de voyage intéressant sur les chemins de fer portugais (uniquement en allemand)](https://zugpost.org/stippvisite-portugal).
 

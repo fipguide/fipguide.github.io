@@ -57,7 +57,7 @@ Nous ne disposons actuellement d'aucune information concernant les réductions.
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandations
+## Recommandationss
 
 {{% highlight tip %}}
 Le nouveau membre FIP KMŁ est un excellent complément pour les trajets sur le réseau ferroviaire polonais. Même si peu d'informations sont encore disponibles sur l'utilisation de la FIP, celle-ci devrait être aussi simple et pratique que chez les autres compagnies ferroviaires régionales du pays. Sur certaines lignes, des trains de PKP InterCity et Polregio circulent également en parallèle, de sorte qu'en utilisant un Coupon FIP, un Coupon FIP supplémentaire de la PKP est très utile pour ne pas être trop limité dans le choix des trains.

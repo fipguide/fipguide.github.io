@@ -688,7 +688,7 @@ L’interruption de voyage n’est pas autorisée pour les trajets intérieurs j
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandations
+## Recommandationss
 
 Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent être utilisés avec un Billet FIP 50 ou un Coupon FIP de première classe. Ils sont également accessibles avec un billet de seconde classe accompagné d’une réservation de siège. [^2]
 

@@ -22,7 +22,7 @@ Auf ihrer Website bietet die KŚ eine [Übersichtskarte der Strecken](https://ww
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 - Einzelne Routen sind auch mit PKP Freifahrtscheinen nutzbar.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}

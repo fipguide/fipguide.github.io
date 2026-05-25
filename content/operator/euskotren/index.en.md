@@ -118,7 +118,7 @@ There is a uniform class that can be used with both 1st and 2nd class FIP Cards.
 
 ## Ticket and Reservation Purchase
 
-### On Site
+### On-Site
 
 {{% booking id="euskotren-ticket-office" /%}}
 

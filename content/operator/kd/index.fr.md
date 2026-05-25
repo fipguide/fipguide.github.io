@@ -106,7 +106,7 @@ D’ordinaire, les avantages FIP KD ne sont valables qu’en Pologne. Pour les t
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandations
+## Recommandationss
 
 {{% highlight tip %}}
 L’utilisation du FIP chez KD est simple et pratique, avec très peu d’exceptions. La Basse-Silésie se laisse parcourir aisément en train régional. Ces dernières années, KD a déjà réactivé plusieurs lignes fermées, leur assurant un avenir durable. Par exemple, la ligne de Karpacz dans les Monts des Géants, rouverte en été 2025 après 25 ans d’arrêt. D’autres réouvertures sont prévues. Les trains sont très modernes et confortables sur les lignes électrifiées. Sur les lignes non électrifiées, ils peuvent être très pleins car de petits automoteurs sont utilisés.

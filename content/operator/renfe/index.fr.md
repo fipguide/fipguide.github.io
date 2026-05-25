@@ -248,7 +248,7 @@ Les billets pour les trains `AVE` internationaux peuvent être achetés à bord 
 
 Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les enfants de moins de 12 ans, une réduction de 40 % s’applique. À partir de 12 ans, le plein tarif est facturé.
 
-## Conditions tarifaires spécifiques
+## Conditions tarifaires spéciales
 
 ### Possibilité d’interrompre le trajet
 
@@ -258,7 +258,7 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l’Espagne.
 
-## Recommandations
+## Recommandationss
 
 Sur le site de Zugpost, il y a un [récit de voyage intéressant sur le réseau FEVE (uniquement en allemand)](https://zugpost.org/feve-schmalspurbahn/).
 

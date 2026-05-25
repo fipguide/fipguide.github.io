@@ -223,7 +223,7 @@ It is not possible to book reservations, FIP Global Fare or FIP 50 online.
 
 It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hotline asks you to use the on-site ticket counters.
 
-### On-site
+### On-Site
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
@@ -238,7 +238,7 @@ Tickets for trains requiring reservations can be sold at DB Reisezentrum (ticket
 
 {{% booking id="renfe-ticket-office" /%}}
 
-### On the train
+### On the Train
 
 If there is no Renfe sales outlet at the departure station, tickets can be purchased on the train.
 

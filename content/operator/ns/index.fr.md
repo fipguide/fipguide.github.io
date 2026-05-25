@@ -217,7 +217,7 @@ Ce n’est pas un billet, mais un badge d’accès, valable :
 
 Si nécessaire, un nouveau coupon d’accès peut être demandé au guichet NS.
 
-## Recommandations
+## Recommandationss
 
 {{% highlight tip %}}
 NS se distingue par une grande fréquence et des connexions efficaces. Des retards et annulations peuvent survenir, mais ils sont souvent compensés par des fréquences élevées. Évitez de planifier des correspondances serrées, car les trains n’attendent généralement pas. La 1ʳᵉ classe NS offre peu de différences par rapport à la 2ᵉ classe.

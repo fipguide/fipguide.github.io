@@ -161,7 +161,7 @@ Les Billets FIP 50 ne peuvent pas être émis pour des trajets uniquement intern
 Selon certaines sources, les Billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
 {{% /highlight %}}
 
-## Recommandations
+## Recommandationss
 
 {{% highlight tip %}}
 La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, parfois petit-déjeuner le matin, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]

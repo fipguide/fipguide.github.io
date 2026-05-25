@@ -185,13 +185,13 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncb-phone" /%}}
 
-### On-site
+### On-Site
 
 {{% booking id="sncb-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" /%}}
 
-### On the train
+### On the Train
 
 {{% highlight important %}}
 Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects FIP discounted tickets. All passengers must have a valid ticket before boarding. [^5]<sup>, </sup>[^6]

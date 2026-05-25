@@ -416,7 +416,7 @@ L’interruption de voyage n’est pas autorisée dans les trains longue distanc
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandation
+## Recommandations
 
 {{% highlight tip %}}
 Pour les trajets longue distance, le Coupon FIP n’est rentable que dans une certaine mesure, car la différence de prix entre FIP 50 et Coupon pour les trains longue distance est minime. Seule exception : les trains `IC`, dont la réservation est généralement bien moins chère. Dans les trains régionaux, le Coupon peut être pleinement utilisé. Comme la 1ère classe est rarement disponible dans ces trains, le Coupon 1ère classe n’est généralement pas rentable.

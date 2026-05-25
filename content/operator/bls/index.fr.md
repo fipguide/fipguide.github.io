@@ -119,13 +119,13 @@ Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour ce
 Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
 {{% /booking %}}
 
-### Sur place
+### En gare
 
 {{% booking id="bls-ticket-office"/%}}
 
 {{% booking id="sbb-ticket-office"/%}}
 
-### Dans le train
+### À bord du train
 
 L'achat de billets FIP dans le train n'est pas possible. Des frais de pénalité sont appliqués aux passagers sans billets.
 
@@ -133,7 +133,7 @@ L'achat de billets FIP dans le train n'est pas possible. Des frais de pénalité
 
 Pour les trajets réguliers, les enfants jusqu'à 5 ans inclus voyagent gratuitement. Les enfants jusqu'à 15 ans inclus bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.[^1]
 
-## Conditions tarifaires particulières
+## Conditions tarifaires spéciales
 
 ### Téléphériques
 
@@ -152,7 +152,7 @@ Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la 
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandations
+## Recommandationss
 
 {{% highlight tip %}}
 Les membres de la famille ne sont parfois pas éligibles aux Coupon FIP des SBB. Cependant, la Coupon FIP des BLS leur permet de découvrir une grande partie de la Suisse.
