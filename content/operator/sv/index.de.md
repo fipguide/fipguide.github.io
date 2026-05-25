@@ -176,16 +176,16 @@ Auf der Seite von Rail-Away findet sich ein [lesenswerter Reisebericht zum inter
 
 [^1]: [SV – Einsatz CRRC](https://srbijavoz.rs/ukljucivanje-u-saobracaj-novih-soko-vozova-crrc-tiger-serije-411-419-emv-411-419-na-relaciji-beograd-centar-subotica-beograd-centar/)
 
-[^2]: [ŽPCG - Internationale Ticketpreise](https://zpcg.me/en/medjunarodni-prevoz/cijene)
+[^2]: [ŽPCG – Internationale Ticketpreise](https://zpcg.me/en/medjunarodni-prevoz/cijene)
 
 [^3]: [Rail Delivery Group – Montenegro](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
 
 [^4]: [Rail Delivery Group – Serbien](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782290-serbia.html)
 
-[^5]: [SV - Bus Shuttle](https://srbijavoz.rs/novi-red-voznje-besplatnog-autobuskog-prevoza-na-relaciji-petrovaradin-novi-sad-centar-petrovaradin-2/)
+[^5]: [SV – Bus Shuttle](https://srbijavoz.rs/novi-red-voznje-besplatnog-autobuskog-prevoza-na-relaciji-petrovaradin-novi-sad-centar-petrovaradin-2/)
 
 [^6]: [Wikipedia – Einsturz Bahnhofsdach](https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse#Aftermath)
 
-[^7]: [SV - Ermäßigungen](https://srbijavoz.rs/ponude/#gp)
+[^7]: [SV – Ermäßigungen](https://srbijavoz.rs/ponude/#gp)
 
 [^8]: [SV – Internationale Reservierungen](https://srbijavoz.rs/rezervisanje/)
