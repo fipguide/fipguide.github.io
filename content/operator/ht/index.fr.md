@@ -10,7 +10,7 @@ aliases:
   - /booking/ht-website
 ---
 
-Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploite l'ensemble du transport de voyageurs de l'État sur le réseau grec à voie normale. L'entreprise exploite des services grandes lignes, régionaux et de banlieue (« Proastiakos »). Depuis 2017, elle est une filiale à 100 % des chemins de fer italiens Ferrovie dello Stato Italiane (FS).
+Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploite l’ensemble du transport de voyageurs de l’État sur le réseau grec à voie normale. L’entreprise exploite des services grandes lignes, régionaux et de banlieue (« Proastiakos »). Depuis 2017, elle est une filiale à 100 % des chemins de fer italiens Ferrovie dello Stato Italiane (FS).
 
 ## Résumé
 
@@ -33,17 +33,17 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploit
     reservation_possible=true
 %}}
 
-Ces trains relient Athènes (Αθήνα) et Thessalonique (Θεσσαλονίκη) ainsi que Larisa (Λάρισα) et d'autres grandes villes. La ligne est électrifiée et offre les temps de trajet les plus courts du pays. Le FIP est pleinement accepté, mais une réservation de siège gratuite est obligatoire.
+Ces trains relient Athènes (Αθήνα) et Thessalonique (Θεσσαλονίκη) ainsi que Larisa (Λάρισα) et d’autres grandes villes. La ligne est électrifiée et offre les temps de trajet les plus courts du pays. Le FIP est pleinement accepté, mais une réservation de siège gratuite est obligatoire.
 
 #### Réservations
 
-Les réservations doivent être obtenues à l'avance. Elles peuvent être achetées en ligne ou en gare.
+Les réservations doivent être obtenues à l’avance. Elles peuvent être achetées en ligne ou en gare.
 
 {{% highlight tip %}}
-Les trains IC sont souvent complets quelques jours à l'avance. Il est conseillé de s'occuper de la réservation suffisamment tôt.
+Les trains IC sont souvent complets quelques jours à l’avance. Il est conseillé de s’occuper de la réservation suffisamment tôt.
 
 Astuce pour les voyageurs avec un Coupon FIP :
-Comme les réservations individuelles ne sont pas disponibles en ligne, réservez d'abord un Billet FIP 50. Celui-ci peut être annulé gratuitement. Sur place, vous pouvez vérifier si des réservations sont encore disponibles. Si oui, annulez le Billet FIP 50 ; sinon, voyagez avec le Billet FIP 50.
+Comme les réservations individuelles ne sont pas disponibles en ligne, réservez d’abord un Billet FIP 50. Celui-ci peut être annulé gratuitement. Sur place, vous pouvez vérifier si des réservations sont encore disponibles. Si oui, annulez le Billet FIP 50 ; sinon, voyagez avec le Billet FIP 50.
 {{% /highlight %}}
 
 {{% /train-category %}}
@@ -56,12 +56,12 @@ Comme les réservations individuelles ne sont pas disponibles en ligne, réserve
     reservation_required=false
 %}}
 
-Les trains régionaux relient les villes et régions en dehors de l'axe principal.
+Les trains régionaux relient les villes et régions en dehors de l’axe principal.
 
 Certains trains sont désignés sous le nom de Proastiakos ou Suburban Railway, ce qui est comparable à un S-Bahn. Dans le planificateur de voyage, ces services apparaissent également comme trains régionaux `REG`.
 
 {{% highlight confusion %}}
-Les services touristiques comme le Pelion Train sont également indiqués comme `REG` dans le planificateur de voyage, mais le FIP n'y est pas valable.
+Les services touristiques comme le Pelion Train sont également indiqués comme `REG` dans le planificateur de voyage, mais le FIP n’y est pas valable.
 {{% /highlight %}}
 
 {{% /train-category %}}
@@ -85,14 +85,14 @@ Les bus exploités par Hellenic Train acceptent les avantages FIP.[^1]
     fip_accepted=false
 %}}
 
-Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques sur lesquelles le FIP n'est pas accepté.[^1]
+Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques sur lesquelles le FIP n’est pas accepté.[^1]
 
-- Pelion Train d'Ano Lechonia (Άνω Λεχώνια) à Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
+- Pelion Train d’Ano Lechonia (Άνω Λεχώνια) à Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
 - Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympie (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
 {{< highlight info >}}
-Selon des retours d'expérience, le chemin de fer à crémaillère entre Diakopto et Kalavryta peut être utilisé avec un Coupon FIP et une réservation gratuite disponible sur place. Nous ne sommes actuellement pas en mesure de vérifier l'utilisation avec le FIP 50, car l'exploitation a été temporairement suspendue.[^3]
+Selon des retours d’expérience, le chemin de fer à crémaillère entre Diakopto et Kalavryta peut être utilisé avec un Coupon FIP et une réservation gratuite disponible sur place. Nous ne sommes actuellement pas en mesure de vérifier l’utilisation avec le FIP 50, car l’exploitation a été temporairement suspendue.[^3]
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -121,28 +121,28 @@ Selon des retours d'expérience, le chemin de fer à crémaillère entre Diakopt
 ### À bord du train
 
 Les réservations ne sont pas disponibles à bord du train.
-Si le voyage commence dans une gare où le guichet n'est pas occupé, les billets peuvent être achetés à bord du train.[^2]
+Si le voyage commence dans une gare où le guichet n’est pas occupé, les billets peuvent être achetés à bord du train.[^2]
 
 ## Réductions
 
-Aux tarifs publics, les enfants jusqu'à 4 ans voyagent gratuitement, les enfants jusqu'à 12 ans bénéficient d'une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte régulier s'applique.[^1]
+Aux tarifs publics, les enfants jusqu’à 4 ans voyagent gratuitement, les enfants jusqu’à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte régulier s’applique.[^1]
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
-L'interruption de voyage n'est pas autorisée.[^1]
+L’interruption de voyage n’est pas autorisée.[^1]
 
 ### Modifications et annulations de Billets FIP 50
 
-Avant le début du voyage, les billets peuvent être annulés jusqu'à 10 minutes avant le départ prévu.[^5]
+Avant le début du voyage, les billets peuvent être annulés jusqu’à 10 minutes avant le départ prévu.[^5]
 
-- Pour une annulation jusqu'à 48 heures avant l'heure de départ prévue de la gare de départ, 100 % de la valeur nominale du billet original est remboursé.
-- Pour une annulation entre 48 et 2 heures avant l'heure de départ prévue de la gare de départ, 80 % de la valeur nominale du billet original est remboursé.
-- Pour une annulation moins de 2 heures avant l'heure de départ prévue de la gare de départ et jusqu'à la fermeture du système de vente, 50 % de la valeur nominale du billet original est remboursé.
+- Pour une annulation jusqu’à 48 heures avant l’heure de départ prévue de la gare de départ, 100 % de la valeur nominale du billet original est remboursé.
+- Pour une annulation entre 48 et 2 heures avant l’heure de départ prévue de la gare de départ, 80 % de la valeur nominale du billet original est remboursé.
+- Pour une annulation moins de 2 heures avant l’heure de départ prévue de la gare de départ et jusqu’à la fermeture du système de vente, 50 % de la valeur nominale du billet original est remboursé.
 
-Pour annuler un billet acheté au guichet, le billet doit être présenté. Le remboursement du prix du billet s'effectue via le moyen de paiement initialement choisi.
-Un billet acheté en ligne peut être annulé au guichet ou via la [ligne téléphonique](https://www.hellenictrain.gr/en/contact-us) en indiquant le numéro du billet. Le remboursement du prix du billet s'effectue via le moyen de paiement choisi. Les utilisateurs enregistrés peuvent annuler le billet eux-mêmes via la gestion des billets dans le menu « My Trips ».
+Pour annuler un billet acheté au guichet, le billet doit être présenté. Le remboursement du prix du billet s’effectue via le moyen de paiement initialement choisi.
+Un billet acheté en ligne peut être annulé au guichet ou via la [ligne téléphonique](https://www.hellenictrain.gr/en/contact-us) en indiquant le numéro du billet. Le remboursement du prix du billet s’effectue via le moyen de paiement choisi. Les utilisateurs enregistrés peuvent annuler le billet eux-mêmes via la gestion des billets dans le menu « My Trips ».
 
 ## Sources
 

@@ -8,7 +8,7 @@ params:
   type: "phone"
 ---
 
-Attica propose une ligne de réservation téléphonique permettant d'acheter des Billets FIP 50. Le FIP doit être explicitement mentionné.
+Attica propose une ligne de réservation téléphonique permettant d’acheter des Billets FIP 50. Le FIP doit être explicitement mentionné.
 
 [+30 (0) 2108919 800](tel:+302108919800)
 

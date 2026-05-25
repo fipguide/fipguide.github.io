@@ -42,7 +42,7 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des Tarifs Globaux FIP sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
 
-Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV vers l'Italie, l'Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium)). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à 25 € / 28 € (à jour : mai 2026), voir [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d’acheter ces billets à bord : il faut alors s’adresser au personnel du train, qui accepte le paiement par carte. [^1]
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV vers l’Italie, l’Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium)). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à 25 € / 28 € (à jour : mai 2026), voir [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d’acheter ces billets à bord : il faut alors s’adresser au personnel du train, qui accepte le paiement par carte. [^1]
 
 Avec [Euskotren](/operator/euskotren), il est possible de voyager depuis Hendaye avec le Billet FIP spécial.
 
