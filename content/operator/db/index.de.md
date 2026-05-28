@@ -379,6 +379,10 @@ Die DB betreibt den Autoreisezug _Syltshuttle_, welcher von Niebüll Autoverladu
 
 FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wangerooge und Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
 
+### S-Bahn Mitteldeutschland (S5/X)
+
+Im Rahmen eines Probebetriebs bei der S-Bahn Mitteldeutschland im Zeitraum vom 14.06. bis 12.12.2026 werden FIP Vergünstigungen auch in Zügen von „Die Länderbahn“ auf der Linie S5/X (Halle (Saale) – Leipzig – Zwickau) anerkannt.
+
 ### Regionalverkehre Start GmbH
 
 Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.

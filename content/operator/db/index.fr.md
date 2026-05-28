@@ -379,6 +379,10 @@ La DB exploite le train auto Syltshuttle, qui circule entre Niebüll et Westerla
 
 Les Coupons FIP sont valables sur la liaison par ferry entre Harlesiel et Wangerooge ainsi que sur le train de l’île de Wangerooge. Les billets FIP 50 ne sont pas disponibles.
 
+### S-Bahn Mitteldeutschland (S5/X)
+
+Dans le cadre d’un service d’essai sur la S-Bahn Mitteldeutschland du 14.06. au 12.12.2026, les réductions FIP sont également reconnues dans les trains exploités par « Die Länderbahn » sur la ligne S5/X (Halle (Saale) – Leipzig – Zwickau).
+
 ### Regionalverkehre Start GmbH
 
 Regionalverkehre Start GmbH est une filiale de DB Regio AG, mais n’accepte pas les réductions FIP.
