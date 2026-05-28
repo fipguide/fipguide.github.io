@@ -222,7 +222,7 @@ Domestic journeys unfortunately cannot be purchased online.
     classes.second="€ 2 / € 11"
 /%}}
 
-### On Site
+### On-Site
 
 {{% booking id="sncf-ticket-office" /%}}
 

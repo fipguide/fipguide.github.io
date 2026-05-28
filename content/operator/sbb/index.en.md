@@ -177,7 +177,7 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan rou
 
 {{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
 
-### On Site
+### On-Site
 
 {{% booking id="sbb-ticket-office"/%}}
 

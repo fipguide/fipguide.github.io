@@ -60,7 +60,7 @@ Les réductions FIP ne sont pas acceptées sur le ferry SBS entre Altnau-Hagnau 
 
 Il existe une classe unique, accessible avec les Cartes FIP de 1ère et 2ème classe.[^1]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 ### En gare
 

@@ -117,7 +117,7 @@ Il existe une classe uniforme qui peut être utilisée avec les cartes FIP de 1�
 
 ## Achat de billets et réservations
 
-### Sur place
+### En gare
 
 {{% booking id="euskotren-ticket-office" /%}}
 
