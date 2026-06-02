@@ -122,7 +122,7 @@ Due to the booking fee, it may be worthwhile to purchase a regular first class t
 
 {{% /booking %}}
 
-### On-site
+### On-Site
 
 {{% booking id="cfl-ticket-office" /%}}
 

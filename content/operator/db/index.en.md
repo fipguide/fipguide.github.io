@@ -373,7 +373,7 @@ The following product classes exist:
 
 ### DB Syltshuttle
 
-DB operates the car train _Syltshuttle_, which runs from Niebüll car loading to Westerland (Sylt) car loading. Travel is only possible with a vehicle (car, caravan, motorhome) and requires a [separate ticket](https://ticket.syltshuttle.de/). FIP discounts are not recognized.
+DB operates the Motorail train _Syltshuttle_, which runs from Niebüll car loading to Westerland (Sylt) car loading. Travel is only possible with a vehicle (car, caravan, motorhome) and requires a [separate ticket](https://ticket.syltshuttle.de/). FIP discounts are not recognized.
 
 ### Shipping and Wangerooge Island Railway
 

@@ -406,7 +406,7 @@ De nombreuses gares équipées de portillons ne sont pas surveillées par du per
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandation
+## Recommandations
 
 {{% highlight tip %}}
 La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent acheter des réservations. Il est conseillé de planifier les voyages quelques jours à l’avance, car les trains peuvent être complets. La SNCF est cependant réputée pour ses liaisons rapides au départ de Paris, par exemple le trajet de 406 km entre Paris et Strasbourg ne prend qu’environ 1 h 45.
