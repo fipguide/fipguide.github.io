@@ -24,6 +24,11 @@ Wir informieren, sobald weitere Details bekannt werden. In der Zwischenzeit find
 **Update 02.05.2026:** \
 Es wurde bestätigt, dass weder FIP 50 noch FIP 75 Tickets am SNCB Fahrkartenautomaten erhältlich sein werden.
 
+**Update 02.06.2026:** \
+In der FIP-Guide-Community wurde berichtet, dass FIP 50 Tickets nun am SNCB Fahrkartenautomaten erhältlich sind. FIP 75 Tickets sind weiterhin nicht an Fahrkartenautomaten verfügbar. [^8]
+
+[^8]: [FIP Guide Community: SNCB Fahrkartenautomat](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
+
 ### Weitere Informationen:
 
 [SNCB: Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)

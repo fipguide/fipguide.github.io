@@ -187,6 +187,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncb-ticket-office" /%}}
 
+{{% booking id="sncb-ticket-machine"
+    subtitle="Nur für nationale Verbindungen"
+/%}}
+
 {{% booking id="db-ticket-office" /%}}
 
 ### Im Zug
@@ -194,8 +198,6 @@ Nationale Verbindungen können online leider nicht erworben werden.
 {{% highlight important %}}
 Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das betrifft auch FIP reduzierte Tickets. Alle Reisenden müssen vor dem Einsteigen ein gültiges Ticket besitzen. [^5]<sup>, </sup>[^6]
 {{% /highlight %}}
-
-FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet, da die Tickets nicht an Ticketautomaten verfügbar sind. [^2]<sup>, </sup>[^4]
 
 ## Ermäßigungen
 
@@ -205,7 +207,7 @@ Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Perso
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen. [^1]
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. [^1] Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen, sofern das Ticket nicht am Fahrkartenautomaten erworben wurde. [^2]
 
 ## Empfehlungen
 
@@ -217,11 +219,9 @@ Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets 
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [FIP Guide Community: SNCB Flughafenzuschlag am Fahrkartenautomaten](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
 [^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)
-
-[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
 
 [^5]: [SNCB -- Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)
 
