@@ -381,7 +381,7 @@ Les Coupons FIP sont valables sur la liaison par ferry entre Harlesiel et Wanger
 
 ### S-Bahn Mitteldeutschland (S5/X)
 
-Dans le cadre d’un service d’essai sur la S-Bahn Mitteldeutschland du 14.06. au 12.12.2026, les réductions FIP sont également reconnues dans les trains exploités par « Die Länderbahn » sur la ligne S5/X (Halle (Saale) – Leipzig – Zwickau).
+Dans le cadre d’un service d’essai sur la S-Bahn Mitteldeutschland du 14.06. au 12.12.2026, les réductions FIP sont également reconnues dans les trains exploités par « Die Länderbahn » sur la ligne S5 / S5X (Halle (Saale) – Leipzig – Zwickau).
 
 ### Regionalverkehre Start GmbH
 

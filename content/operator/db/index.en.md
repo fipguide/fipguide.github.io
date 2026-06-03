@@ -381,7 +381,7 @@ FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge an
 
 ### S-Bahn Mitteldeutschland (S5/X)
 
-As part of a trial service on the S-Bahn Mitteldeutschland from 14.06. to 12.12.2026, FIP discounts are also recognized on trains operated by "Die Länderbahn" on line S5/X (Halle (Saale) – Leipzig – Zwickau).
+As part of a trial service on the S-Bahn Mitteldeutschland from 14.06. to 12.12.2026, FIP discounts are also recognized on trains operated by "Die Länderbahn" on line S5 / S5X (Halle (Saale) – Leipzig – Zwickau).
 
 ### Regionalverkehre Start GmbH
 

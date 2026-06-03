@@ -381,7 +381,7 @@ FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wange
 
 ### S-Bahn Mitteldeutschland (S5/X)
 
-Im Rahmen eines Probebetriebs bei der S-Bahn Mitteldeutschland im Zeitraum vom 14.06. bis 12.12.2026 werden FIP Vergünstigungen auch in Zügen von „Die Länderbahn“ auf der Linie S5/X (Halle (Saale) – Leipzig – Zwickau) anerkannt.
+Im Rahmen eines Probebetriebs bei der S-Bahn Mitteldeutschland im Zeitraum vom 14.06. bis 12.12.2026 werden FIP Vergünstigungen auch in Zügen von „Die Länderbahn“ auf der Linie S5 / S5X (Halle (Saale) – Leipzig – Zwickau) anerkannt.
 
 ### Regionalverkehre Start GmbH
 
