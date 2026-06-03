@@ -18,4 +18,6 @@ operator:
 L’annonce a depuis été retirée du site de la Rail Delivery Group. Il n’est pas clair si l’augmentation de prix sera maintenue ou annulée. Nous continuerons à suivre la situation et à fournir des mises à jour dès qu’il y aura des nouvelles. Actuellement, il est encore possible de réserver aux anciens tarifs.
 {{% /update %}}
 
+## Sources
+
 [^1]: [Rail Delivery Group News](https://www.raildeliverygroup.com/rst/stop-press.html#Surchares)

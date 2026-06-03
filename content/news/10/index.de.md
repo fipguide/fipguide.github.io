@@ -29,10 +29,12 @@ Es wurde bestätigt, dass weder FIP 50 noch FIP 75 Tickets am SNCB Fahrkartenaut
 In der FIP-Guide-Community wurde berichtet, dass FIP 50 Tickets nun am SNCB Fahrkartenautomaten erhältlich sind. FIP 75 Tickets sind weiterhin nicht an Fahrkartenautomaten verfügbar. [^8]
 {{% /update %}}
 
-[^8]: [FIP Guide Community: SNCB Fahrkartenautomat](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
-
 ### Weitere Informationen:
 
 [SNCB: Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)
 
 [Rail Delivery Group: Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+## Quellen
+
+[^8]: [FIP Guide Community: SNCB Fahrkartenautomat](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)

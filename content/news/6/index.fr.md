@@ -30,4 +30,6 @@ Les réductions FIP ne sont **pas** valables sur les lignes suivantes [^1] :
 
 Une option économique pour les enfants est aussi le [Carte journalière enfant des CFF](https://www.sbb.ch/fr/billets-offres/billets/cartes-journalieres/carte-journaliere-enfant.html).
 
+## Sources
+
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

@@ -29,10 +29,12 @@ Il a été confirmé que ni les Billets FIP 50 ni les Billets FIP 75 ne seront d
 Il a été signalé dans la communauté FIP Guide que les Billets FIP 50 sont désormais disponibles aux distributeurs automatiques de la SNCB. Les Billets FIP 75 restent indisponibles aux distributeurs automatiques. [^8]
 {{% /update %}}
 
-[^8]: [FIP Guide Community: Distributeurs de billets SNCB](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
-
 ### Informations complémentaires :
 
 [SNCB: Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
 
 [Rail Delivery Group: Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+## Sources
+
+[^8]: [FIP Guide Community: Distributeurs de billets SNCB](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)

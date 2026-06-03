@@ -29,10 +29,12 @@ It has been confirmed that neither FIP 50 nor FIP 75 Tickets will be available f
 It has been reported in the FIP Guide community that FIP 50 Tickets are now available at SNCB ticket machines. FIP 75 Tickets remain unavailable at ticket machines. [^8]
 {{% /update %}}
 
-[^8]: [FIP Guide Community: SNCB Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
-
 ### Further Information:
 
 [SNCB: End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
 
 [Rail Delivery Group: Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+## Sources
+
+[^8]: [FIP Guide Community: SNCB Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
