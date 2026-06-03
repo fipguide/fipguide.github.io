@@ -1,4 +1,5 @@
 {{ $date := .Get "date" | time.AsTime }}
+{{ .Page.Store.Set "updated" $date }}
 <div class="m-text-highlight m-text-highlight--default">
   <div class="m-text-highlight__roofline">
     {{- partial "icon" "update" -}}

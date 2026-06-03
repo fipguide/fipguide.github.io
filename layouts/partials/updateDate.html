@@ -4,7 +4,7 @@
 {{ if eq .Type "news" }}
   <div class="o-last-updated" data-pagefind-ignore="all">
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    {{- with .Params.updated }}
+    {{- with .Store.Get "updated" }}
       {{ partial "tag" (dict "Type" "info" "RawText" (print (i18n "news.updated") " " (. | time.Format ":date_long"))) }}
     {{- end }}
   </div>

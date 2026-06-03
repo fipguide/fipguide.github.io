@@ -1,6 +1,5 @@
 ---
 date: "2026-04-09"
-updated: "2026-05-02"
 draft: false
 title: "Belgium: SNCB Ends On-Board Ticket Sales from 1 July 2026"
 description: "Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects the purchase of FIP discounted tickets."
@@ -26,8 +25,9 @@ We will keep you informed as more details become available. In the meantime, che
 It has been confirmed that neither FIP 50 nor FIP 75 Tickets will be available from SNCB ticket machines.
 {{% /update %}}
 
-**Update 02.06.2026:** \
+{{% update date="2026-06-02" %}}
 It has been reported in the FIP Guide community that FIP 50 Tickets are now available at SNCB ticket machines. FIP 75 Tickets remain unavailable at ticket machines. [^8]
+{{% /update %}}
 
 [^8]: [FIP Guide Community: SNCB Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
 

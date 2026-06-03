@@ -1,6 +1,5 @@
 ---
 date: "2025-05-16"
-updated: "2025-06-17"
 draft: false
 title: "Augmentation des prix Eurostar"
 description: "À partir du 1er mai 2025, Eurostar augmente les prix des Billets FIP de 5 €/£5. On ne sait pas si le changement est permanent – restez informé."

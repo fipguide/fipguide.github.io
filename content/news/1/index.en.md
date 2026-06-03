@@ -1,6 +1,5 @@
 ---
 date: "2025-01-01"
-updated: "2026-01-08"
 draft: false
 author: "Lennart"
 title: "New FIP Member: LTG Link (Lithuania)"

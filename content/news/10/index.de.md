@@ -1,6 +1,5 @@
 ---
 date: "2026-04-09"
-updated: "2026-05-02"
 draft: false
 title: "Belgien: SNCB beendet Ticketverkauf im Zug ab 1. Juli 2026"
 description: "Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das betrifft auch den Kauf von FIP reduzierten Tickets."
@@ -26,8 +25,9 @@ Wir informieren, sobald weitere Details bekannt werden. In der Zwischenzeit find
 Es wurde bestätigt, dass weder FIP 50 noch FIP 75 Tickets am SNCB Fahrkartenautomaten erhältlich sein werden.
 {{% /update %}}
 
-**Update 02.06.2026:** \
+{{% update date="2026-06-02" %}}
 In der FIP-Guide-Community wurde berichtet, dass FIP 50 Tickets nun am SNCB Fahrkartenautomaten erhältlich sind. FIP 75 Tickets sind weiterhin nicht an Fahrkartenautomaten verfügbar. [^8]
+{{% /update %}}
 
 [^8]: [FIP Guide Community: SNCB Fahrkartenautomat](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
 

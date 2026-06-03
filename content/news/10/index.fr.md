@@ -1,6 +1,5 @@
 ---
 date: "2026-04-09"
-updated: "2026-05-02"
 draft: false
 title: "Belgique : la SNCB met fin à la vente de billets à bord à partir du 1er juillet 2026"
 description: "À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à bord de ses trains. Cela concerne également l’achat de billets FIP à tarif réduit."
@@ -26,8 +25,9 @@ Nous vous tiendrons informés dès que de plus amples détails seront disponible
 Il a été confirmé que ni les Billets FIP 50 ni les Billets FIP 75 ne seront disponibles aux distributeurs automatiques de la SNCB.
 {{% /update %}}
 
-**Mise à jour 02.06.2026 :** \
+{{% update date="2026-06-02" %}}
 Il a été signalé dans la communauté FIP Guide que les Billets FIP 50 sont désormais disponibles aux distributeurs automatiques de la SNCB. Les Billets FIP 75 restent indisponibles aux distributeurs automatiques. [^8]
+{{% /update %}}
 
 [^8]: [FIP Guide Community: Distributeurs de billets SNCB](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)
 
