@@ -25,6 +25,6 @@ FIP 50 Tickets können vor Ort gebucht werden.
 
 ## Reservierungen
 
-Kostenfreie Reservierungen für IC-Züge sind vor Ort erhältlich.
+Kostenfreie Reservierungen für SEV-Busse und IC-Züge sind vor Ort erhältlich. Wichtig ist, dass der Tarif "FIP Ticket" ausgewählt wird, nicht "FIP Card".
 
 {{% /booking-section %}}

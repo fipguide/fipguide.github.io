@@ -22,7 +22,7 @@ Sur demande, le personnel établit l’offre adaptée au voyage :
 
 ## Tarif Global FIP
 
-Des billets Eurostar peuvent être achetés via Ffestiniog Travel. Des frais de réservation de 5 £ s’appliquent.
+Des billets Eurostar peuvent être achetés via Ffestiniog Travel.
 
 {{% /booking-section %}}
 
