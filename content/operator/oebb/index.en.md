@@ -259,7 +259,7 @@ Reservations for direct trains are cheaper via ÖBB.
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-### Phone
+### Telephone
 
 {{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
 
@@ -273,13 +273,13 @@ Reservations for direct trains are cheaper via ÖBB.
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-### On the train
+### On the Train
 
 Tickets can be purchased on board if you immediately contact the conductor. However, they are usually more expensive than tickets bought in advance. On S-Bahn routes, tickets must be purchased before boarding.
 
 ## Discounts
 
-Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Free Travel Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
+Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \

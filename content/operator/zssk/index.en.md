@@ -178,7 +178,7 @@ Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts 
     subtitle="Excluding IC & SC"
 /%}}
 
-### On site
+### On-Site
 
 {{% booking id="zssk-ticket-office" /%}}
 
@@ -186,7 +186,7 @@ Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts 
     subtitle="Excluding IC & SC"
 /%}}
 
-### On the train
+### On the Train
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
 
