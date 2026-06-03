@@ -266,6 +266,10 @@ Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes 
 
 ### Par téléphone
 
+{{% booking id="db-phone-fip-db"
+subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="cd-ticket-office" /%}}

@@ -121,6 +121,12 @@ Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour ce
 
 ### Par téléphone
 
+{{% booking id="db-phone-fip-db"
+        subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux collaborateurs de la Deutsche Bahn."
+%}}
+Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="bls-ticket-office"/%}}
