@@ -295,6 +295,8 @@ Pour le `ECE` Francfort – Milan, des Billets FIP 50 directs jusqu’à Milan p
 Pour le `ECE` Francfort – Milan ou le `EC` sur la ligne du Brenner entre Munich et l’Italie, des Billets FIP 50 directs jusqu’à Milan peuvent être réservés.
 {{% /booking %}}
 
+### Par téléphone
+
 ### En gare
 
 {{% booking id="fs-ticket-machine" /%}}

@@ -268,6 +268,12 @@ A ticket (reservation mandatory) must be purchased at the latest 15 minutes befo
 
 {{% booking id="cd-ticket-office" /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Czechia, with ticket portion only for the Czech section. For Deutsche Bahn employees only."
+/%}}
+
 ### On the Train
 
 FIP-discounted tickets can only be purchased on the train if departure is from a station where the ticket office is closed.

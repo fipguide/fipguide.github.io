@@ -231,6 +231,12 @@ Alternatively, you can also book directly through the [Polregio website](https:/
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+/%}}
+
 ### On-Site
 
 {{% booking id="pkp-ticket-office" /%}}

@@ -119,6 +119,8 @@ Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour ce
 Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
 {{% /booking %}}
 
+### Par téléphone
+
 ### En gare
 
 {{% booking id="bls-ticket-office"/%}}

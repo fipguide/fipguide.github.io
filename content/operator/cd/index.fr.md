@@ -264,6 +264,8 @@ Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes 
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
 ### En gare
 
 {{% booking id="cd-ticket-office" /%}}

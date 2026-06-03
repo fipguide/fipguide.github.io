@@ -264,6 +264,12 @@ Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt 
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="cd-ticket-office" /%}}

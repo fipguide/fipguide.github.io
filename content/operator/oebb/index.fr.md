@@ -263,6 +263,11 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 {{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="oebb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
