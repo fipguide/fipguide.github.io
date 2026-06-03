@@ -188,6 +188,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncb-ticket-office" /%}}
 
+{{% booking id="sncb-ticket-machine"
+    subtitle="Uniquement pour les trajets intérieurs"
+/%}}
+
 {{% booking id="db-ticket-office" /%}}
 
 ### À bord du train
@@ -195,8 +199,6 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 {{% highlight important %}}
 À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à bord de ses trains. Cela concerne également les billets FIP à tarif réduit. Tous les voyageurs devront être en possession d’un billet valable avant de monter à bord. [^5]<sup>, </sup>[^6]
 {{% /highlight %}}
-
-Les billets FIP à tarif réduit peuvent en principe être achetés à bord des trains. Le supplément SNCB habituel pour les ventes à bord n’est pas facturé, car ces billets ne sont pas disponibles aux distributeurs automatiques. [^2]<sup>, </sup>[^4]
 
 ## Réductions
 
@@ -206,23 +208,15 @@ Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils 
 
 ### Aéroport de Bruxelles-Zaventem
 
-Un supplément de 7,10 € est requis pour les trajets à destination ou en provenance de l’aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. Ce supplément est inclus dans le prix d’un Billet FIP 50 / FIP 75. [^1] [Plus d’infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
-
-## Recommandations
-
-{{% highlight tip %}}
-La 1ère classe dans les trains de la SNCB est souvent utilisée par des passagers sans billet valide, et son confort est rarement supérieur à la 2ᵉ classe. Il n’est donc pas toujours rentable d’y voyager avec un coupon de 1ʳᵉ classe.
-{{% /highlight %}}
+Un supplément de 7,10 € est requis pour les trajets à destination ou en provenance de l’aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. [^1] Ce supplément est inclus dans le prix d’un Billet FIP 50 / FIP 75, sauf si le billet a été acheté à un distributeur automatique. [^2] [Plus d’infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [Retours d’expérience SNCB](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [FIP Guide Community: Supplément aéroport SNCB au distributeur automatique](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
 [^3]: [Politique enfants SNCB](https://www.belgiantrain.be/fr/products/child)
-
-[^4]: [Site Web SNCB](https://www.belgiantrain.be/en/products/supplements/onboard)
 
 [^5]: [SNCB -- Fin de la vente de billets dans les trains](https://www.belgiantrain.be/fr/news/end-of-on-board-fare)
 

@@ -62,7 +62,7 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz de
 Zwischen Aachen und Liège-Saint-Lambert verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^3] Daher ist es unklar, ob zwischen Aachen Hbf und Aachen Süd (Gr) ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB ab Aachen Hbf anerkannt werden.
 
 {{% highlight tip %}}
-Wir empfehlen, das Zugpersonal vor Abfahrt anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
+Wir empfehlen, das Zugpersonal vor Abfahrt anzusprechen.
 {{% /highlight %}}
 
 ### Luxemburg

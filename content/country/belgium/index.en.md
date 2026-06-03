@@ -62,7 +62,7 @@ The Eurostar (formerly Thalys) can also be used from Germany to reach the SNCB n
 The S41 operated by SNCB runs between Aachen and Liège-Saint-Lambert. When using the S41, it is currently not clearly regulated whether a tariff operator change takes place at Aachen Süd(Gr).[^3] Therefore, it is unclear whether a DB ticket (e.g. DB FIP Coupon, national travel benefit for DB employees, or FIP 50 Ticket) is required between Aachen Hbf and Aachen Süd (Gr), or whether FIP Coupons from SNCB are accepted from Aachen Hbf onwards.
 
 {{% highlight tip %}}
-We recommend speaking to the train staff before departure. If in doubt, the ticket for the short German section can be purchased from the train staff at the standard fare of €2.20 (1st & 2nd class, as of March 2026).
+We recommend speaking to the train staff before departure.
 {{% /highlight %}}
 
 ### Luxembourg
