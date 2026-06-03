@@ -379,6 +379,10 @@ DB operates the Motorail train _Syltshuttle_, which runs from Niebüll car loadi
 
 FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge and Wangerooge Island Railway. FIP 50 Tickets cannot be booked.
 
+### S-Bahn Mitteldeutschland (S5/X)
+
+As part of a trial service on the S-Bahn Mitteldeutschland from 14.06. to 12.12.2026, FIP discounts are also recognized on trains operated by "Die Länderbahn" on line S5 / S5X (Halle (Saale) – Leipzig – Zwickau).
+
 ### Regionalverkehre Start GmbH
 
 Regionalverkehre Start GmbH is a subsidiary of DB Regio AG but does not accept FIP discounts.
