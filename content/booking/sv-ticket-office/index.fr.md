@@ -9,7 +9,7 @@ params:
   type: "onsite"
 ---
 
-XX
+Les billets et réservations pour le train de nuit entre la Serbie et le Monténégro peuvent être achetés aux guichets internationaux (Belgrade, Subotica).
 
 {{% booking-section "fip_50" %}}
 

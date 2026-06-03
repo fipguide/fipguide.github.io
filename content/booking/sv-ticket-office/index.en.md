@@ -9,6 +9,8 @@ params:
   type: "onsite"
 ---
 
+Tickets and reservations for the night train between Serbia and Montenegro can be purchased at international ticket offices (Belgrade, Subotica).
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

@@ -6,177 +6,186 @@ country:
 operator: "sv"
 ---
 
-<!-- Supprimez ce message si la page est complète -->
-
-{{< wip >}}
-
-<!--
-  Brève description de la compagnie ferroviaire. Par exemple, le nom complet dans la langue locale, les noms alternatifs, et si c’est une compagnie privée ou publique.
--->
+Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbie et exploite la majeure partie du trafic voyageurs dans le pays.
 
 ## Résumé
 
-<!--
-  Liste à puces des principales caractéristiques / règles FIP de la compagnie ferroviaire.
-  Par exemple :
-  - Les Billets FIP 50 et les Coupons FIP sont-ils acceptés ?
-  - Y a-t-il une obligation de réservation ?
-  - Existe-t-il d’autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
--->
+- SV accepte les Coupons FIP et les Billets FIP 50.
+- Les réservations sont obligatoires dans certains trains.
 
 ## Validité des Billets FIP
 
-<!--
-  Les catégories de billets peuvent varier selon l’opérateur.
--->
-
-<!--
-  Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
-  - `type` : fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status` : valid, invalid, unknown
-  - `text` : Texte personnalisé optionnel à afficher
-  - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
--->
-
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-<!--
-  Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
--->
+Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pour les trajets transfrontaliers, il faut disposer soit d’un Billet FIP 50 direct, soit de Coupons FIP des deux pays.
 
 ## Catégories de trains et réservations
 
-<!--
-  Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant. Les paramètres suivants peuvent être utilisés :
-  - `id` : Abréviation en minuscules avec traits d'union de la catégorie de train (par ex. "ice", "tgv-inoui")
-  - `title` : Titre de la catégorie de train
-  - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` ou `ship`
-  - `fip_accepted` : true, false, partially
-  - `reservation_required` : true, false, partially
-  - `reservation_possible` : true, false, partially (défaut false, peut être omis si reservation_required est true)
-  - `route_overview_url` : Lien vers une page avec un aperçu des lignes de cette catégorie (peut être omis si non disponible)
-  - `additional_information_url` : Lien vers une page avec des informations supplémentaires sur cette catégorie (peut être omis si non disponible)
--->
-
 {{% train-category
-    id="expander-id"
-    title="titre"
+    id="ic"
+    title="Inter City (COKO)"
     type="highspeed"
     fip_accepted=true
     reservation_required=true
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    additional_information_url="https://srbijavoz.rs/brzi-vozovi/"
 %}}
 
-<!--
-  Une description de la catégorie de train peut être ajoutée ici.
--->
-
-{{% highlight confusion %}}
-Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit confondue avec une autre.
-{{% /highlight %}}
-
-{{% highlight important %}}
-D’autres informations importantes peuvent être ajoutées ici.
-{{% /highlight %}}
+Sous les noms COKO et SOKO (« faucon » en serbe), SV exploite les services à grande vitesse entre Belgrade et Subotica.
+Des automotrices modernes KISS de Stadler Rail sont utilisées, ainsi que depuis le 15.04.2026 de nouveaux trains Tiger du constructeur chinois CRRC.[^1]
 
 #### Réservations
 
-<!--
-  Description des conditions de réservation pour cette catégorie de train.
--->
-
-#### Lignes régulières
-
-<!--
-  Liste de toutes les lignes de cette catégorie de train en service régulier.
-
-  Pour une validité FIP partielle, les sous-titres suivants peuvent être utilisés :
--->
-
-<!--
-##### Lignes avec validité FIP
-
-- Ligne 1
-- Ligne 2
-
-##### Lignes sans validité FIP
-
-- Ligne 3
-- Ligne 4
--->
+Les réservations sont obligatoires sur cette ligne.
 
 {{% /train-category %}}
 
-## Catégories de classes
+{{% train-category
+    id="brzi"
+    title="Brzi Voz"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
 
-<!--
-  Si les catégories de classes incluent des classes supplémentaires/différentes au-delà de la 1ère et 2ème classe, elles peuvent être décrites ici. Sinon, cette section peut être supprimée.
--->
+La catégorie de train « Brzi Voz » correspond aux trains rapides classiques ; chez SV, ils circulent exclusivement en direction du Monténégro.
+Toute l’année, une paire de trains tractés par locomotive circule comme train de nuit classique avec voitures-lits, voitures-couchettes et voitures assises entre Belgrade et Bar.
 
-<!--
-**Standard** : Comparable à la 2ème classe. \
-**Plus** : 1ère classe sans restauration. Un pass FIP pour la 1ère classe est requis. \
-**Premium** : 1ère classe avec restauration. Non réservable avec FIP.
--->
+En saison estivale, cette paire de trains est complétée en journée par une autre paire de trains.
+
+Dans les informations de correspondance de SV, ces trains sont parfois affichés comme [Inter Regio Voz (IR)](#ir).
+
+#### Réservations
+
+La réservation est obligatoire. Le coût est de 3 € par place assise en première et en deuxième classe.[^2]
+
+Les [coûts des réservations en voiture-couchettes et en voiture-lits](https://zpcg.me/en/red-voznje/medjunarodni) (cliquer sur un trajet puis sur « Beds ») varient selon la catégorie de voiture.
+Pour les réservations en voiture-couchettes / voiture-lits, des frais de service supplémentaires de 10 % s’appliquent.[^3]
+
+Les réservations peuvent être effectuées [par téléphone](#par-téléphone).
+{{% /train-category %}}
+
+{{% train-category
+    id="ir"
+    title="Inter Regio Voz (IR)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Trains rapides avec arrêts dans les gares les plus importantes. Certains trains sont exploités uniquement avec des voitures de deuxième classe.
+
+#### Réservations
+
+Sur certaines relations, les réservations sont obligatoires ; sur d’autres relations, elles peuvent être achetées de manière facultative. Il est recommandé de vérifier les [détails de la liaison](https://w3.srbvoz.rs/redvoznje/) avant le voyage.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rex"
+    title="Regio Expres (REx)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Les trains de la catégorie Regio Expres (REx), comme les trains de la catégorie `IR`, ne desservent que les villes les plus importantes.
+
+#### Réservations
+
+Sur certaines relations, les réservations sont obligatoires ; sur d’autres relations, elles peuvent être achetées de manière facultative. Il est recommandé de vérifier les [détails de la liaison](https://w3.srbvoz.rs/redvoznje/) avant le voyage.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="re"
+    title="Regio Voz (Re)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Les trains de la catégorie Regio Voz (Re) relient les petites localités aux centres urbains. Ces trains s’arrêtent dans de nombreuses gares et circulent en règle générale avec du matériel roulant plus ancien. Certains trains sont exploités uniquement avec des voitures de deuxième classe.
+
+#### Réservations
+
+Sur certaines relations, les réservations sont obligatoires ; sur d’autres relations, elles peuvent être achetées de manière facultative. Il est recommandé de vérifier les [détails de la liaison](https://w3.srbvoz.rs/redvoznje/) avant le voyage.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bgvoz"
+    title="BG:VOZ"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+
+Sous la marque BG:VOZ, SV exploite deux lignes dans l’agglomération de Belgrade, comparables à un S-Bahn.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=nil
+%}}
+
+Les billets FIP ne sont pas valables sur les lignes de bus exploitées par SV, sauf s’il s’agit d’un service de remplacement ferroviaire.[^4]
+
+Les voyageurs utilisant des trains de voyageurs vers / depuis Subotica, Belgrade Centre, Šid, Sremska Mitrovica et Užice qui, selon le règlement d’exploitation actuel, circulent jusqu’à / depuis Petrovaradin, peuvent en plus du trafic local régulier utiliser un bus navette gratuit au départ de Petrovaradin et Novi Sad.[^5]
+La raison en est que la gare de Novi Sad n’est actuellement pas desservie à la suite d’un accident.[^6]
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
-### En ligne
-
-<!--
-  Intégrez ici les informations d’une plateforme de réservation définie.
-
-  Vous pouvez remplacer individuellement les paramètres de réservation listés ci-dessous, mais ce n’est pas obligatoire.
-  Si vous omettez certains paramètres, les valeurs par défaut de la plateforme de réservation seront utilisées.
-
-  Pour plus d’informations sur la définition d’une plateforme de réservation, consultez l’archetype de réservation.
--->
-
 ### Par téléphone
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
--->
+{{% booking
+    id="sv-phone"
+    subtitle="Réservation de voyages internationaux entre la Serbie et le Monténégro"
+/%}}
 
 ### En gare
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation en gare.
--->
-
-### À bord du train
-
-<!--
-  Les billets avec réduction FIP peuvent-ils encore être achetés à bord du train ? Si oui, comment et y a-t-il un supplément ?
--->
+{{% booking id="sv-ticket-office" /%}}
 
 ## Réductions
 
-<!--
-  Quelles réductions les enfants peuvent-ils obtenir et dans quelles circonstances ?
-  Quelles autres réductions peuvent exister ?
--->
+Dans le trafic intérieur ainsi que dans le trafic grandes lignes vers le Monténégro, les enfants jusqu’à six ans inclus voyagent gratuitement, à condition qu’ils n’aient pas besoin de leur propre place assise et qu’ils soient accompagnés d’un adulte muni d’un billet valable. Les enfants entre six et 14 ans ainsi que les enfants plus jeunes pour lesquels une place assise propre est nécessaire bénéficient d’une réduction de 50 % sur le tarif adulte régulier.[^7]
 
 ## Conditions tarifaires spéciales
 
-### <Trajet ou nom>
+### Services de remplacement ferroviaire
 
-<!--
-  Description de la condition spéciale, s’il existe des réglementations particulières sur certains trajets.
--->
+Les billets FIP ne sont pas valables sur les lignes de bus exploitées par SV, sauf s’il s’agit d’un service de remplacement ferroviaire.[^4]
 
 ## Recommandations
 
-<!--
-  Recommandations personnelles et conseils particuliers pour le voyage.
--->
+SV exploite plusieurs chemins de fer musées avec des compositions historiques. [Vous trouverez plus d’informations ici.](https://srbijavoz.rs/posebne-ponude/)
+
+Sur le site Rail-Away se trouve un [récit de voyage intéressant sur le trafic international entre la Serbie et le Monténégro (en anglais)](https://rail-away.com/2019/07/01/belgrade-to-bar/).
 
 ## Sources
 
-[^1]: [<Nom de la source 1>](Lien)
+[^1]: [SV – Mise en service des trains CRRC](https://srbijavoz.rs/ukljucivanje-u-saobracaj-novih-soko-vozova-crrc-tiger-serije-411-419-emv-411-419-na-relaciji-beograd-centar-subotica-beograd-centar/)
 
-[^2]: [<Nom de la source 2>](Lien)
+[^2]: [ŽPCG – Prix des billets internationaux](https://zpcg.me/en/medjunarodni-prevoz/cijene)
+
+[^3]: [Rail Delivery Group – Monténégro](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782282-montenegro.html)
+
+[^4]: [Rail Delivery Group – Serbie](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782290-serbia.html)
+
+[^5]: [SV – Bus navette](https://srbijavoz.rs/novi-red-voznje-besplatnog-autobuskog-prevoza-na-relaciji-petrovaradin-novi-sad-centar-petrovaradin-2/)
+
+[^6]: [Wikipedia – Effondrement de l’auvent de la gare](https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse#Aftermath)
+
+[^7]: [SV – Réductions](https://srbijavoz.rs/ponude/#gp)

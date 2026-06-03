@@ -11,10 +11,14 @@ params:
 
 {{% booking-section "reservations" %}}
 
-## Reservierungen
+## Réservations
 
-Buchungsanfragen für [internationale Züge](#brzi) können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof (Belgrad, Subotica) abgeholt werden. Das Reservierungszentrum ist von 9:00 bis 17:00 Uhr erreichbar.[^8]
+Les demandes de réservation pour les trains internationaux entre la Serbie et le Monténégro peuvent être effectuées par [téléphone](tel:+381113602899) jusqu’à 30 jours à l’avance. Les réservations doivent être retirées en gare en Serbie (Belgrade, Subotica) dans les 24 heures. Le centre de réservation est joignable de 9 h 00 à 17 h 00.[^1]
 
 {{% /booking-section %}}
 
 {{% satellite /%}}
+
+## Sources
+
+[^1]: [SV – Réservations internationales](https://srbijavoz.rs/rezervisanje/)
