@@ -1,0 +1,11 @@
+{{- $newsPages := where site.RegularPages "Section" "news" -}}
+{{- $dated := slice -}}
+{{- range $newsPages -}}
+  {{- $key := .Store.Get "updated" | default .Date -}}
+  {{- $dated = $dated | append (dict "key" $key "page" .) -}}
+{{- end -}}
+{{- $sorted := slice -}}
+{{- range sort $dated "key" "desc" -}}
+  {{- $sorted = $sorted | append .page -}}
+{{- end -}}
+{{- return $sorted -}}
