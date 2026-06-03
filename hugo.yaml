@@ -5,12 +5,18 @@ defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 languages:
   en:
+    label: "English"
+    locale: "en"
     weight: 1
     title: "FIP Guide – Fast. Clear. Community-based."
   de:
+    label: "Deutsch"
+    locale: "de"
     weight: 2
     title: "FIP Guide – Schnell. Übersichtlich. Community-basiert."
   fr:
+    label: "Français"
+    locale: "fr"
     weight: 3
     title: "FIP Guide – Rapide. Clair. Basé sur le partage."
 
