@@ -25,6 +25,6 @@ Les Billets FIP 50 peuvent être achetés en gare.
 
 ## Réservations
 
-Des réservations gratuites pour les trains IC sont disponibles en gare.
+Des réservations gratuites pour les bus de remplacement et les trains IC sont disponibles en gare. Il est important de choisir le tarif « FIP Ticket » et non la « FIP Card ».
 
 {{% /booking-section %}}
