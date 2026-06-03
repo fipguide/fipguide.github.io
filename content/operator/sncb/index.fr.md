@@ -210,12 +210,6 @@ Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils 
 
 Un supplément de 7,10 € est requis pour les trajets à destination ou en provenance de l’aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. [^1] Ce supplément est inclus dans le prix d’un Billet FIP 50 / FIP 75, sauf si le billet a été acheté à un distributeur automatique. [^2] [Plus d’infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
-## Recommandations
-
-{{% highlight tip %}}
-La 1ère classe dans les trains de la SNCB est souvent utilisée par des passagers sans billet valide, et son confort est rarement supérieur à la 2ᵉ classe. Il n’est donc pas toujours rentable d’y voyager avec un coupon de 1ʳᵉ classe.
-{{% /highlight %}}
-
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)

@@ -209,12 +209,6 @@ Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Perso
 
 Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. [^1] Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen, sofern das Ticket nicht am Fahrkartenautomaten erworben wurde. [^2]
 
-## Empfehlungen
-
-{{% highlight tip %}}
-Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets benutzt. Auch ist die 1. Klasse meist nicht viel komfortabler als die 2. Klasse. Anders als in anderen Ländern lohnt sich daher ein Kauf von 1. Klasse Tickets, um hier mehr Platz und Ruhe zu haben, nur bedingt.
-{{% /highlight %}}
-
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
