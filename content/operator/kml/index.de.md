@@ -18,7 +18,7 @@ Auf der Website bietet die KMŁ eine [Übersicht der betriebenen Linien](https:/
 - KMŁ akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Nur 2. Klasse in den Zügen vorhanden und keine Reservierungen möglich.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}

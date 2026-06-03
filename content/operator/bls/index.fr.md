@@ -119,13 +119,13 @@ Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour ce
 Pour la BLS, des billets FIP 50 continus ne peuvent être réservés que pour certaines connexions sélectionnées.
 {{% /booking %}}
 
-### Sur place
+### En gare
 
 {{% booking id="bls-ticket-office"/%}}
 
 {{% booking id="sbb-ticket-office"/%}}
 
-### Dans le train
+### À bord du train
 
 L’achat de billets FIP dans le train n’est pas possible. Des frais de pénalité sont appliqués aux passagers sans billets.
 
@@ -133,7 +133,7 @@ L’achat de billets FIP dans le train n’est pas possible. Des frais de pénal
 
 Pour les trajets réguliers, les enfants jusqu’à 5 ans inclus voyagent gratuitement. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.[^1]
 
-## Conditions tarifaires particulières
+## Conditions tarifaires spéciales
 
 ### Téléphériques
 

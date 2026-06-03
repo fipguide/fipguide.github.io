@@ -125,7 +125,7 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
 
 {{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
 
-### Phone
+### Telephone
 
 {{% booking id="eurostar-phone"
     subtitle="Only Eurostar Red"
@@ -149,7 +149,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     fip_global_fare=true
 /%}}
 
-### On-site
+### On-Site
 
 {{% booking id="eurostar-ticket-office" /%}}
 

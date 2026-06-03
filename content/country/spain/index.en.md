@@ -17,7 +17,7 @@ In Spain, using FIP is not always straightforward, as simply boarding and riding
 
 {{< identify-operator sources="renfe-website,renfe-commuter-website,euskotren-website,db-website" />}}
 
-## Insteresting
+## Interesting
 
 Spain does not have a particularly dense rail network; instead, it mainly consists of new high-speed standard gauge lines and older regional lines in Iberian broad gauge.
 
@@ -56,7 +56,7 @@ There is currently no rail connection between Andorra and Spain.
 
 ### Portugal
 
-Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP Tickets or Coupones from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section.
+Connections between Spain and Portugal are currently very limited. For example, to travel from Lisbon to Madrid, one must change trains and take a long regional journey to the Spanish border at Badajoz, where one of the few trains to Madrid can be caught. This requires FIP Tickets or Coupons from Portuguese rail operator CP, as well as a Renfe ticket for the Spanish section.
 
 Additionally, there is the Celta connection from Porto to Vigo, although this does not extend further into Spain. A FIP Global Fare is valid for the entire route ([See Renfe – Celta](/operator/renfe#long-distance "Renfe")).
 

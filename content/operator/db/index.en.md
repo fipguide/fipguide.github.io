@@ -373,11 +373,15 @@ The following product classes exist:
 
 ### DB Syltshuttle
 
-DB operates the car train _Syltshuttle_, which runs from Niebüll car loading to Westerland (Sylt) car loading. Travel is only possible with a vehicle (car, caravan, motorhome) and requires a [separate ticket](https://ticket.syltshuttle.de/). FIP discounts are not recognized.
+DB operates the Motorail train _Syltshuttle_, which runs from Niebüll car loading to Westerland (Sylt) car loading. Travel is only possible with a vehicle (car, caravan, motorhome) and requires a [separate ticket](https://ticket.syltshuttle.de/). FIP discounts are not recognized.
 
 ### Shipping and Wangerooge Island Railway
 
 FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge and Wangerooge Island Railway. FIP 50 Tickets cannot be booked.
+
+### S-Bahn Mitteldeutschland (S5/X)
+
+As part of a trial service on the S-Bahn Mitteldeutschland from 14.06. to 12.12.2026, FIP discounts are also recognized on trains operated by "Die Länderbahn" on line S5 / S5X (Halle (Saale) – Leipzig – Zwickau).
 
 ### Regionalverkehre Start GmbH
 

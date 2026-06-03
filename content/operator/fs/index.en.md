@@ -294,7 +294,7 @@ For the `ECE` Frankfurt – Milan, through FIP 50 Tickets to Milan can be booked
 For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munich and Italy, through FIP 50 Tickets to Milan can be booked.
 {{% /booking %}}
 
-### On-site
+### On-Site
 
 {{% booking id="fs-ticket-machine" /%}}
 
@@ -310,7 +310,7 @@ We are currently receiving increasing feedback that booking FIP Tickets and rese
 The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 {{% /booking %}}
 
-### On the train
+### On the Train
 
 If supplements are not purchased before travel, an additional on-board surcharge is applied (except where no sales points or ticket machines are available at the departure station).
 

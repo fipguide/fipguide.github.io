@@ -69,7 +69,7 @@ Additionally, there is a [ferry connection from Stena Line BV](/operator/stl) fr
 
 From Paris Nord, Lille Europe, and Brussels Midi, [Eurostar trains](/operator/eurostar "Eurostar page") run to London St. Pancras International. These trains require reservations and FIP Global Fare tickets must be purchased.
 
-From Calais, there is also the LeShuttle car train through the Eurotunnel, but no FIP discount is granted. Additionally, there are various ferry connections between France/Belgium and Great Britain, but no FIP discount is granted on these.
+From Calais, there is also the LeShuttle Motorail train through the Eurotunnel, but no FIP discount is granted. Additionally, there are various ferry connections between France/Belgium and Great Britain, but no FIP discount is granted on these.
 
 ### Ireland
 

@@ -50,7 +50,7 @@ Il n’existe qu’une seule classe à bord des navires pour FIP.
 Selon l’itinéraire et le navire, différentes options de salons et de cabines sont disponibles.
 Aucune remise FIP n’est accordée sur les salons ou les cabines. [^1]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 Les billets FIP doivent être achetés avant le voyage. L’achat à bord des navires n’est pas possible.
 FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplémentaires sont facturées au tarif plein. Cela inclut notamment les frais de réservation de cabine, le transport de véhicules ainsi que les taxes portuaires et environnementales.

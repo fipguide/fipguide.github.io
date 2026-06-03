@@ -221,7 +221,7 @@ Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie)
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandation
+## Recommandations
 
 {{% highlight tip %}}
 Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de restrictions, et peu de besoin de réservation. La 1ère classe est recommandée pour son confort supérieur, surtout dans les trains Giruno.

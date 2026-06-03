@@ -15,7 +15,7 @@ The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/
 ## Summary
 
 - BLS accepts FIP Coupon and FIP 50 Tickets.
-- The use of all trains (except for car trains), buses, and ships with FIP is possible.
+- The use of all trains (except for Motorail trains), buses, and ships with FIP is possible.
 - No reservation is required.
 
 ## Validity of FIP Tickets
