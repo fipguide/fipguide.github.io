@@ -1,6 +1,6 @@
 enableRobotsTXT: true
 enableGitInfo: true
-ignoreLogs: ['warning-rendershortcodes-in-html']
+ignoreLogs: ["warning-rendershortcodes-in-html"]
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
@@ -31,6 +31,10 @@ module:
       target: "static/css/@fontsource"
     - source: "node_modules/@material-symbols/svg-700/rounded"
       target: "static/icons/material-symbols-rounded"
+    - source: "node_modules/decap-cms/dist"
+      target: "static/admin/decap-cms"
+    - source: "node_modules/netlify-identity-widget/build"
+      target: "static/admin/netlify-identity-widget"
   hugoVersion:
     min: "0.160.1"
 

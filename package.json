@@ -21,6 +21,8 @@
     "@fontsource/sansita": "^5.2.8",
     "@material-symbols/svg-700": "^0.43.0",
     "@panzoom/panzoom": "^4.6.1",
+    "decap-cms": "^3.13.0",
+    "netlify-identity-widget": "^2.0.3",
     "pagefind": "^1.5.2"
   },
   "devDependencies": {
