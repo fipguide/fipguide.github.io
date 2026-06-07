@@ -33,8 +33,6 @@ module:
       target: "static/icons/material-symbols-rounded"
     - source: "node_modules/decap-cms/dist"
       target: "static/admin/decap-cms"
-    - source: "node_modules/netlify-identity-widget/build"
-      target: "static/admin/netlify-identity-widget"
   hugoVersion:
     min: "0.160.1"
 
