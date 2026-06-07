@@ -14,7 +14,11 @@
 
   function shortcodePattern(name) {
     return new RegExp(
-      "\\{\\{[%<] " + name + "([\\s\\S]*?)[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" + name + " [%>]\\}\\}"
+      "\\{\\{[%<] " +
+        name +
+        "([\\s\\S]*?)[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
+        name +
+        " [%>]\\}\\}",
     );
   }
 
@@ -35,10 +39,22 @@
       return { type: match[1].trim(), body: match[2].trim() };
     },
     toBlock: function (data) {
-      return "{{% highlight " + data.type + " %}}\n" + data.body + "\n{{% /highlight %}}";
+      return (
+        "{{% highlight " +
+        data.type +
+        " %}}\n" +
+        data.body +
+        "\n{{% /highlight %}}"
+      );
     },
     toPreview: function (data) {
-      return "<blockquote><strong>[" + data.type + "]</strong> " + data.body + "</blockquote>";
+      return (
+        "<blockquote><strong>[" +
+        data.type +
+        "]</strong> " +
+        data.body +
+        "</blockquote>"
+      );
     },
   });
 
@@ -69,11 +85,21 @@
     },
     toBlock: function (data) {
       var tag =
-        '{{% expander "' + data.title + '"' + (data.variant ? " " + data.variant : "") + " %}}";
+        '{{% expander "' +
+        data.title +
+        '"' +
+        (data.variant ? " " + data.variant : "") +
+        " %}}";
       return tag + "\n" + data.body + "\n{{% /expander %}}";
     },
     toPreview: function (data) {
-      return "<details><summary>" + data.title + "</summary>" + data.body + "</details>";
+      return (
+        "<details><summary>" +
+        data.title +
+        "</summary>" +
+        data.body +
+        "</details>"
+      );
     },
   });
 
@@ -93,8 +119,18 @@
         widget: "select",
         options: ["valid", "invalid"],
       },
-      { name: "subtitle", label: "Subtitle", widget: "string", required: false },
-      { name: "text", label: "Additional Text", widget: "string", required: false },
+      {
+        name: "subtitle",
+        label: "Subtitle",
+        widget: "string",
+        required: false,
+      },
+      {
+        name: "text",
+        label: "Additional Text",
+        widget: "string",
+        required: false,
+      },
       {
         name: "disable_dialog",
         label: "Disable info dialog",
@@ -145,7 +181,12 @@
         widget: "select",
         options: ["highspeed", "regional", "sleeper", "bus"],
       },
-      { name: "fip_accepted", label: "FIP accepted", widget: "boolean", default: true },
+      {
+        name: "fip_accepted",
+        label: "FIP accepted",
+        widget: "boolean",
+        default: true,
+      },
       {
         name: "reservation_required",
         label: "Reservation required",
@@ -209,7 +250,11 @@
       if (data.route_overview_url)
         lines.push('    route_overview_url="' + data.route_overview_url + '"');
       if (data.additional_information_url)
-        lines.push('    additional_information_url="' + data.additional_information_url + '"');
+        lines.push(
+          '    additional_information_url="' +
+            data.additional_information_url +
+            '"',
+        );
       lines.push("%}}");
       lines.push(data.body);
       lines.push("{{% /train-category %}}");
@@ -235,7 +280,12 @@
     label: "Booking",
     fields: [
       { name: "id", label: "Booking page ID", widget: "string" },
-      { name: "subtitle", label: "Subtitle", widget: "string", required: false },
+      {
+        name: "subtitle",
+        label: "Subtitle",
+        widget: "string",
+        required: false,
+      },
       {
         name: "body",
         label: "Additional info (optional)",
@@ -243,7 +293,8 @@
         required: false,
       },
     ],
-    pattern: /\{\{% booking ([\s\S]*?)(?:\/%\}\}|%\}\}([\s\S]*?)\{\{% \/booking %\}\})/,
+    pattern:
+      /\{\{% booking ([\s\S]*?)(?:\/%\}\}|%\}\}([\s\S]*?)\{\{% \/booking %\}\})/,
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
       return {
@@ -256,13 +307,18 @@
       var params = 'id="' + data.id + '"';
       if (data.subtitle) params += ' subtitle="' + data.subtitle + '"';
       if (data.body && data.body.trim()) {
-        return "{{% booking " + params + " %}}\n" + data.body + "\n{{% /booking %}}";
+        return (
+          "{{% booking " + params + " %}}\n" + data.body + "\n{{% /booking %}}"
+        );
       }
       return "{{% booking " + params + " /%}}";
     },
     toPreview: function (data) {
       return (
-        "<div>[Booking: " + data.id + (data.subtitle ? " \u2014 " + data.subtitle : "") + "]</div>"
+        "<div>[Booking: " +
+        data.id +
+        (data.subtitle ? " \u2014 " + data.subtitle : "") +
+        "]</div>"
       );
     },
   });
@@ -282,7 +338,10 @@
     pattern: shortcodePattern("booking-section"),
     fromBlock: function (match) {
       var sectionMatch = match[1].match(/"(\w+)"/);
-      return { section: sectionMatch ? sectionMatch[1] : "", body: match[2].trim() };
+      return {
+        section: sectionMatch ? sectionMatch[1] : "",
+        body: match[2].trim(),
+      };
     },
     toBlock: function (data) {
       return (
@@ -295,7 +354,11 @@
     },
     toPreview: function (data) {
       return (
-        "<div><strong>[Booking Section: " + data.section + "]</strong><br>" + data.body + "</div>"
+        "<div><strong>[Booking Section: " +
+        data.section +
+        "]</strong><br>" +
+        data.body +
+        "</div>"
       );
     },
   });
@@ -310,10 +373,19 @@
     pattern: /\{\{< button ([\s\S]*?)>\}\}/,
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
-      return { destination: String(p.destination || ""), text: String(p.text || "") };
+      return {
+        destination: String(p.destination || ""),
+        text: String(p.text || ""),
+      };
     },
     toBlock: function (data) {
-      return '{{< button destination="' + data.destination + '" text="' + data.text + '" >}}';
+      return (
+        '{{< button destination="' +
+        data.destination +
+        '" text="' +
+        data.text +
+        '" >}}'
+      );
     },
     toPreview: function (data) {
       return '<a href="' + data.destination + '">' + data.text + "</a>";
@@ -342,7 +414,11 @@
       return "{{< identify-operator />}}";
     },
     toPreview: function (data) {
-      return "<div>[Identify Operator" + (data.sources ? ": " + data.sources : "") + "]</div>";
+      return (
+        "<div>[Identify Operator" +
+        (data.sources ? ": " + data.sources : "") +
+        "]</div>"
+      );
     },
   });
 
@@ -357,7 +433,8 @@
         required: false,
       },
     ],
-    pattern: /\{\{% satellite(?:\s*\/%\}\}|\s*%\}\}([\s\S]*?)\{\{% \/satellite %\}\})/,
+    pattern:
+      /\{\{% satellite(?:\s*\/%\}\}|\s*%\}\}([\s\S]*?)\{\{% \/satellite %\}\})/,
     fromBlock: function (match) {
       return { body: match[1] ? match[1].trim() : "" };
     },
@@ -368,7 +445,11 @@
       return "{{% satellite /%}}";
     },
     toPreview: function (data) {
-      return "<div>[Satellite Notice" + (data.body ? ": " + data.body : "") + "]</div>";
+      return (
+        "<div>[Satellite Notice" +
+        (data.body ? ": " + data.body : "") +
+        "]</div>"
+      );
     },
   });
 
@@ -383,7 +464,11 @@
     pattern: shortcodePattern("dialog"),
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
-      return { id: String(p.id || ""), title: String(p.title || ""), body: match[2].trim() };
+      return {
+        id: String(p.id || ""),
+        title: String(p.title || ""),
+        body: match[2].trim(),
+      };
     },
     toBlock: function (data) {
       return (
@@ -397,7 +482,13 @@
       );
     },
     toPreview: function (data) {
-      return "<details><summary>" + data.title + "</summary>" + data.body + "</details>";
+      return (
+        "<details><summary>" +
+        data.title +
+        "</summary>" +
+        data.body +
+        "</details>"
+      );
     },
   });
 
@@ -408,7 +499,13 @@
       { name: "src", label: "Image filename", widget: "string" },
       { name: "alt", label: "Alt text", widget: "string" },
       { name: "caption", label: "Caption", widget: "string", required: false },
-      { name: "width", label: "Width (CSS)", widget: "string", default: "50%", required: false },
+      {
+        name: "width",
+        label: "Width (CSS)",
+        widget: "string",
+        default: "50%",
+        required: false,
+      },
       {
         name: "position",
         label: "Position",
@@ -416,7 +513,12 @@
         options: ["right", "left"],
         default: "right",
       },
-      { name: "body", label: "Surrounding text", widget: "markdown", required: false },
+      {
+        name: "body",
+        label: "Surrounding text",
+        widget: "markdown",
+        required: false,
+      },
     ],
     pattern: shortcodePattern("float-image"),
     fromBlock: function (match) {
@@ -431,7 +533,11 @@
       };
     },
     toBlock: function (data) {
-      var lines = ["{{% float-image", '  src="' + data.src + '"', '  alt="' + data.alt + '"'];
+      var lines = [
+        "{{% float-image",
+        '  src="' + data.src + '"',
+        '  alt="' + data.alt + '"',
+      ];
       if (data.caption) lines.push('  caption="' + data.caption + '"');
       if (data.width) lines.push('  width="' + data.width + '"');
       if (data.position) lines.push('  position="' + data.position + '"');
