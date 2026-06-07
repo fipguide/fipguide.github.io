@@ -4,7 +4,6 @@ backend:
   branch: main
   auth_scope: repo
   open_authoring: true
-  site_domain: fipguide-test.netlify.app
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
