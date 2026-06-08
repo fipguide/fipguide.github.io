@@ -40,7 +40,21 @@ collections:
           required: false,
           i18n: true,
         }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "button",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+          ]
 
   - name: "country"
     label: "Countries"
@@ -55,7 +69,22 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Country", name: "country", widget: "string", i18n: duplicate }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "button",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+            "identify-operator",
+          ]
 
   - name: "operator"
     label: "Operators"
@@ -74,7 +103,25 @@ collections:
           i18n: duplicate,
         }
       - { label: "Countries", name: "country", widget: "list", i18n: true }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "fip-validity",
+            "train-category",
+            "booking",
+            "button",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+            "fip-validity-comparison",
+          ]
 
   - name: "booking"
     label: "Booking Platforms"
@@ -160,7 +207,23 @@ collections:
                   required: false,
                   i18n: duplicate,
                 }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "booking-section",
+            "button",
+            "satellite",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+          ]
 
   - name: "general"
     label: "General Pages"
@@ -181,7 +244,60 @@ collections:
           required: false,
           i18n: true,
         }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "button",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+          ]
+
+  - name: "identify-operator"
+    label: "Identify Operator"
+    folder: "content/identify-operator"
+    path: "{{slug}}/index"
+    publish: false
+    create: true
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - name: params
+        label: "Parameters"
+        widget: object
+        i18n: true
+        fields:
+          - {
+              label: "URL",
+              name: url,
+              widget: string,
+              required: false,
+              i18n: duplicate,
+            }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "button",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+          ]
 
   - name: "faq"
     label: "FAQ"
@@ -201,4 +317,18 @@ collections:
           required: false,
           i18n: duplicate,
         }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          [
+            "image",
+            "highlight",
+            "expander",
+            "button",
+            "dialog",
+            "float-image",
+            "icon",
+            "wip",
+          ]
