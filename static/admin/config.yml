@@ -13,6 +13,7 @@ media_folder: assets/images
 public_folder: /images
 issue_reports:
   url: https://github.com/fipguide/fipguide.github.io/issues/new
+display_url: https://fipguide.org/
 
 i18n:
   structure: multiple_files
@@ -22,6 +23,7 @@ i18n:
 collections:
   - name: "news"
     label: "News"
+    label_singular: "News Article"
     folder: "content/news"
     path: "{{slug}}/index"
     publish: false
@@ -63,6 +65,7 @@ collections:
 
   - name: "country"
     label: "Countries"
+    label_singular: "Country"
     folder: "content/country"
     path: "{{slug}}/index"
     create: false
@@ -93,6 +96,7 @@ collections:
 
   - name: "operator"
     label: "Operators"
+    label_singular: "Operator"
     folder: "content/operator"
     path: "{{slug}}/index"
     publish: false
@@ -130,6 +134,7 @@ collections:
 
   - name: "booking"
     label: "Booking Platforms"
+    label_singular: "Booking Platform"
     folder: "content/booking"
     path: "{{slug}}/index"
     publish: false
@@ -232,6 +237,7 @@ collections:
 
   - name: "general"
     label: "General Pages"
+    label_singular: "General Page"
     folder: "content/general"
     path: "{{slug}}/index"
     create: false
@@ -267,6 +273,7 @@ collections:
 
   - name: "identify-operator"
     label: "Identify Operator"
+    label_singular: "Identify Operator"
     folder: "content/identify-operator"
     path: "{{slug}}/index"
     publish: false
@@ -306,6 +313,7 @@ collections:
 
   - name: "faq"
     label: "FAQ"
+    label_singular: "FAQ Entry"
     folder: "content/general/faq"
     path: "{{slug}}/_index"
     publish: false
