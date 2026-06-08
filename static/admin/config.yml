@@ -53,7 +53,7 @@ collections:
         i18n: true
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"
@@ -86,7 +86,7 @@ collections:
         i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"
@@ -130,7 +130,7 @@ collections:
         hint: "List of countries the operator operates in."
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"
@@ -220,7 +220,7 @@ collections:
                 i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"
@@ -256,7 +256,7 @@ collections:
         i18n: true
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"
@@ -295,7 +295,7 @@ collections:
             i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"
@@ -329,7 +329,7 @@ collections:
         i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "richtext"
+        widget: "markdown"
         i18n: true
         editor_components:
           - "image"

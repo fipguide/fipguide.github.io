@@ -49,7 +49,7 @@
       {
         name: "body",
         label: "Content",
-        widget: "richtext",
+        widget: "markdown",
         editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
@@ -92,7 +92,7 @@
       {
         name: "body",
         label: "Content",
-        widget: "richtext",
+        widget: "markdown",
         editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
@@ -257,7 +257,7 @@
       {
         name: "body",
         label: "Description",
-        widget: "richtext",
+        widget: "markdown",
         editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
@@ -410,7 +410,7 @@
       {
         name: "body",
         label: "Additional info",
-        widget: "richtext",
+        widget: "markdown",
         required: false,
         editor_components: ["button", "float-image", "highlight", "image"],
       },
@@ -492,7 +492,7 @@
       {
         name: "body",
         label: "Content",
-        widget: "richtext",
+        widget: "markdown",
         editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
@@ -571,7 +571,7 @@
       {
         name: "body",
         label: "Additional info",
-        widget: "richtext",
+        widget: "markdown",
         required: false,
         editor_components: ["button", "float-image", "highlight", "image"],
       },
@@ -625,7 +625,7 @@
       {
         name: "body",
         label: "Additional info",
-        widget: "richtext",
+        widget: "markdown",
         required: false,
         editor_components: ["button", "float-image", "highlight", "image"],
       },
@@ -658,7 +658,7 @@
       {
         name: "body",
         label: "Content",
-        widget: "richtext",
+        widget: "markdown",
         editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
@@ -717,7 +717,7 @@
       {
         name: "body",
         label: "Surrounding text",
-        widget: "richtext",
+        widget: "markdown",
         required: false,
         editor_components: ["button", "float-image", "highlight", "image"],
       },
