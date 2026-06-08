@@ -279,7 +279,15 @@
     id: "booking",
     label: "Booking",
     fields: [
-      { name: "id", label: "Booking page ID", widget: "string" },
+      {
+        name: "id",
+        label: "Booking Platform",
+        widget: "relation",
+        collection: "booking",
+        search_fields: ["title"],
+        value_field: "{{slug}}",
+        display_fields: ["title"],
+      },
       {
         name: "subtitle",
         label: "Subtitle",
@@ -298,13 +306,13 @@
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
       return {
-        id: String(p.id || ""),
+        id: p.id ? String(p.id) + "/index" : "",
         subtitle: String(p.subtitle || ""),
         body: match[2] ? match[2].trim() : "",
       };
     },
     toBlock: function (data) {
-      var params = 'id="' + data.id + '"';
+      var params = 'id="' + (data.id || "").replace(/\/index$/, "") + '"';
       if (data.subtitle) params += ' subtitle="' + data.subtitle + '"';
       if (data.body && data.body.trim()) {
         return (
@@ -398,26 +406,49 @@
     fields: [
       {
         name: "sources",
-        label: "Sources (comma-separated IDs)",
-        widget: "string",
+        label: "Sources",
+        widget: "relation",
+        collection: "identify-operator",
+        search_fields: ["title"],
+        value_field: "{{slug}}",
+        display_fields: ["title"],
+        multiple: true,
         required: false,
       },
     ],
     pattern: /\{\{< identify-operator(?:\s+sources="([^"]*)")?\s*\/?>\}\}/,
     fromBlock: function (match) {
-      return { sources: match[1] || "" };
+      return {
+        sources: match[1]
+          ? match[1].split(",").map(function (s) {
+              return s.trim() + "/index";
+            })
+          : [],
+      };
     },
     toBlock: function (data) {
-      if (data.sources) {
-        return '{{< identify-operator sources="' + data.sources + '" />}}';
+      var sources = Array.isArray(data.sources)
+        ? data.sources
+            .map(function (s) {
+              return String(s).replace(/\/index$/, "");
+            })
+            .join(",")
+        : String(data.sources || "").replace(/\/index$/, "");
+      if (sources) {
+        return '{{< identify-operator sources="' + sources + '" />}}';
       }
       return "{{< identify-operator />}}";
     },
     toPreview: function (data) {
+      var sources = Array.isArray(data.sources)
+        ? data.sources
+            .map(function (s) {
+              return String(s).replace(/\/index$/, "");
+            })
+            .join(", ")
+        : String(data.sources || "").replace(/\/index$/, "");
       return (
-        "<div>[Identify Operator" +
-        (data.sources ? ": " + data.sources : "") +
-        "]</div>"
+        "<div>[Identify Operator" + (sources ? ": " + sources : "") + "]</div>"
       );
     },
   });
@@ -496,7 +527,7 @@
     id: "float-image",
     label: "Float Image",
     fields: [
-      { name: "src", label: "Image filename", widget: "string" },
+      { name: "src", label: "Image", widget: "image" },
       { name: "alt", label: "Alt text", widget: "string" },
       { name: "caption", label: "Caption", widget: "string", required: false },
       {
@@ -611,4 +642,6 @@
       return "<div>[FIP Validity Comparison Table]</div>";
     },
   });
+
+  CMS.registerRemarkPlugin({ settings: { bullet: "-" } });
 })();
