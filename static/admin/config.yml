@@ -28,40 +28,41 @@ collections:
     path: "{{slug}}/index"
     publish: false
     create: true
+    delete: false
     i18n: true
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          i18n: duplicate,
-        }
-      - { label: "Author", name: "author", widget: "string", i18n: duplicate }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "string",
-          required: false,
-          i18n: true,
-        }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        i18n: duplicate
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        i18n: duplicate
+        required: false
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+        i18n: true
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "button",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
 
   - name: "country"
     label: "Countries"
@@ -75,24 +76,27 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Country", name: "country", widget: "string", i18n: duplicate }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Country"
+        name: "country"
+        widget: "string"
+        i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "button",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-            "identify-operator",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "identify-operator"
 
   - name: "operator"
     label: "Operators"
@@ -100,37 +104,46 @@ collections:
     folder: "content/operator"
     path: "{{slug}}/index"
     publish: false
+    delete: false
     i18n: true
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - {
-          label: "Operator",
-          name: "operator",
-          widget: "string",
-          i18n: duplicate,
-        }
-      - { label: "Countries", name: "country", widget: "list", i18n: true }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Operator"
+        name: "operator"
+        widget: "string"
+        i18n: duplicate
+        hint: A unique identifier of the operator (slug).
+      - label: "Countries"
+        name: "country"
+        widget: "relation"
+        collection: "country"
+        search_fields: ["title"]
+        value_field: "country"
+        display_fields: ["title"]
+        multiple: true
+        i18n: duplicate
+        hint: "List of countries the operator operates in."
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "fip-validity",
-            "train-category",
-            "booking",
-            "button",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-            "fip-validity-comparison",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "fip-validity"
+          - "train-category"
+          - "booking"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "fip-validity-comparison"
 
   - name: "booking"
     label: "Booking Platforms"
@@ -139,18 +152,20 @@ collections:
     path: "{{slug}}/index"
     publish: false
     create: true
+    delete: false
     i18n: true
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "string",
-          required: false,
-          i18n: true,
-        }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+        i18n: true
       - name: params
         label: "Parameters"
         widget: object
@@ -161,79 +176,62 @@ collections:
             widget: select
             options: [website, onsite, phone, email, socialmedia, machine]
             i18n: duplicate
-          - {
-              label: "FIP 50",
-              name: fip_50,
-              widget: boolean,
-              default: false,
-              i18n: duplicate,
-            }
-          - {
-              label: "FIP Global Fare",
-              name: fip_global_fare,
-              widget: boolean,
-              default: false,
-              required: false,
-              i18n: duplicate,
-            }
-          - {
-              label: "Reservations",
-              name: reservations,
-              widget: boolean,
-              default: false,
-              i18n: duplicate,
-            }
-          - {
-              label: "Booking Link",
-              name: booking_link,
-              widget: string,
-              required: false,
-              i18n: duplicate,
-            }
-          - {
-              label: "Additional Info Link",
-              name: additional_info_link,
-              widget: string,
-              required: false,
-              i18n: duplicate,
-            }
+          - label: "FIP 50"
+            name: fip_50
+            widget: boolean
+            default: false
+            i18n: duplicate
+          - label: "FIP Global Fare"
+            name: fip_global_fare
+            widget: boolean
+            default: false
+            required: false
+            i18n: duplicate
+          - label: "Reservations"
+            name: reservations
+            widget: boolean
+            default: false
+            i18n: duplicate
+          - label: "Booking Link"
+            name: booking_link
+            widget: string
+            required: false
+            i18n: duplicate
+          - label: "Additional Info Link"
+            name: additional_info_link
+            widget: string
+            required: false
+            i18n: duplicate
           - name: classes
             label: "Classes"
             widget: object
             required: false
             i18n: true
             fields:
-              - {
-                  label: "First Class",
-                  name: first,
-                  widget: string,
-                  required: false,
-                  i18n: duplicate,
-                }
-              - {
-                  label: "Second Class",
-                  name: second,
-                  widget: string,
-                  required: false,
-                  i18n: duplicate,
-                }
+              - label: "First Class"
+                name: first
+                widget: string
+                required: false
+                i18n: duplicate
+              - label: "Second Class"
+                name: second
+                widget: string
+                required: false
+                i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "booking-section",
-            "button",
-            "satellite",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "booking-section"
+          - "button"
+          - "satellite"
+          - "dialog"
+          - "float-image"
+          - "wip"
 
   - name: "general"
     label: "General Pages"
@@ -247,29 +245,27 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "string",
-          required: false,
-          i18n: true,
-        }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+        i18n: true
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "button",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
 
   - name: "identify-operator"
     label: "Identify Operator"
@@ -278,38 +274,37 @@ collections:
     path: "{{slug}}/index"
     publish: false
     create: true
+    delete: false
     i18n: true
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
       - name: params
         label: "Parameters"
         widget: object
         i18n: true
         fields:
-          - {
-              label: "URL",
-              name: url,
-              widget: string,
-              required: false,
-              i18n: duplicate,
-            }
+          - label: "URL"
+            name: url
+            widget: string
+            required: false
+            i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "button",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
 
   - name: "faq"
     label: "FAQ"
@@ -318,30 +313,29 @@ collections:
     path: "{{slug}}/_index"
     publish: false
     create: true
+    delete: false
     i18n: true
     editor:
       preview: false
     fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - {
-          label: "Weight",
-          name: "weight",
-          widget: "number",
-          required: false,
-          i18n: duplicate,
-        }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        required: false
+        i18n: duplicate
       - label: "Body"
         name: "body"
-        widget: "markdown"
+        widget: "richtext"
         i18n: true
         editor_components:
-          [
-            "image",
-            "highlight",
-            "expander",
-            "button",
-            "dialog",
-            "float-image",
-            "icon",
-            "wip",
-          ]
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
