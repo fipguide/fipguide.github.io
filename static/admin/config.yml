@@ -6,8 +6,13 @@ backend:
   open_authoring: true
   site_domain: fipguide-test.netlify.app
 publish_mode: editorial_workflow
-media_folder: static/img
-public_folder: /img
+logo:
+  src: /images/logo.svg
+  show_in_header: true
+media_folder: assets/images
+public_folder: /images
+issue_reports:
+  url: https://github.com/fipguide/fipguide.github.io/issues/new
 
 i18n:
   structure: multiple_files
