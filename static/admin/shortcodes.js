@@ -22,6 +22,20 @@
     );
   }
 
+  function selfClosingPattern(name) {
+    return new RegExp("\\{\\{[%<] " + name + "([\\s\\S]*?)[%>/]\\}\\}");
+  }
+
+  function dualFormPattern(name) {
+    return new RegExp(
+      "\\{\\{[%<] " +
+        name +
+        "([\\s\\S]*?)(?:\\/[%>]\\}\\}|[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
+        name +
+        " [%>]\\}\\})",
+    );
+  }
+
   CMS.registerEditorComponent({
     id: "highlight",
     label: "Highlight",
@@ -32,7 +46,12 @@
         widget: "select",
         options: ["important", "tip", "confusion", "inofficial"],
       },
-      { name: "body", label: "Content", widget: "markdown" },
+      {
+        name: "body",
+        label: "Content",
+        widget: "richtext",
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
     pattern: shortcodePattern("highlight"),
     fromBlock: function (match) {
@@ -70,7 +89,12 @@
         options: [{ label: "None", value: "" }, "border", "info"],
         required: false,
       },
-      { name: "body", label: "Content", widget: "markdown" },
+      {
+        name: "body",
+        label: "Content",
+        widget: "richtext",
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
     pattern: shortcodePattern("expander"),
     fromBlock: function (match) {
@@ -90,7 +114,7 @@
         '"' +
         (data.variant ? " " + data.variant : "") +
         " %}}";
-      return tag + "\n" + data.body + "\n{{% /expander %}}";
+      return tag + "\n\n" + data.body + "\n\n{{% /expander %}}";
     },
     toPreview: function (data) {
       return (
@@ -139,7 +163,7 @@
         required: false,
       },
     ],
-    pattern: /\{\{< fip-validity ([\s\S]*?)>\}\}/,
+    pattern: selfClosingPattern("fip-validity"),
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
       return {
@@ -179,7 +203,16 @@
         name: "type",
         label: "Type",
         widget: "select",
-        options: ["highspeed", "regional", "sleeper", "bus"],
+        options: [
+          "highspeed",
+          "regional",
+          "subway",
+          "sleeper",
+          "funicular",
+          "bus",
+          "ship",
+          "tram",
+        ],
       },
       {
         name: "fip_accepted",
@@ -201,8 +234,13 @@
       {
         name: "reservation_possible",
         label: "Reservation possible",
-        widget: "boolean",
-        default: false,
+        widget: "select",
+        options: [
+          { label: "No", value: "false" },
+          { label: "Yes", value: "true" },
+          { label: "Partially", value: "partially" },
+        ],
+        default: "false",
       },
       {
         name: "route_overview_url",
@@ -216,7 +254,12 @@
         widget: "string",
         required: false,
       },
-      { name: "body", label: "Description", widget: "markdown" },
+      {
+        name: "body",
+        label: "Description",
+        widget: "richtext",
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
     pattern: shortcodePattern("train-category"),
     fromBlock: function (match) {
@@ -225,13 +268,17 @@
       if (rr === true) rr = "true";
       else if (rr === false) rr = "false";
       else rr = String(rr || "false");
+      var rp = p.reservation_possible;
+      if (rp === true) rp = "true";
+      else if (rp === false) rp = "false";
+      else rp = String(rp || "false");
       return {
         id: String(p.id || ""),
         title: String(p.title || ""),
         type: String(p.type || "regional"),
         fip_accepted: p.fip_accepted !== false,
         reservation_required: rr,
-        reservation_possible: p.reservation_possible === true,
+        reservation_possible: rp,
         route_overview_url: String(p.route_overview_url || ""),
         additional_information_url: String(p.additional_information_url || ""),
         body: match[2].trim(),
@@ -256,7 +303,9 @@
             '"',
         );
       lines.push("%}}");
+      lines.push("");
       lines.push(data.body);
+      lines.push("");
       lines.push("{{% /train-category %}}");
       return lines.join("\n");
     },
@@ -295,25 +344,124 @@
         required: false,
       },
       {
-        name: "body",
-        label: "Additional info (optional)",
-        widget: "markdown",
+        name: "classes_first",
+        label: "1st class reservation costs (overwrite)",
+        widget: "string",
         required: false,
       },
+      {
+        name: "classes_second",
+        label: "2nd class reservation costs (overwrite)",
+        widget: "string",
+        required: false,
+      },
+      {
+        name: "fip_50",
+        label: "FIP 50 (override)",
+        widget: "select",
+        required: false,
+        options: [
+          { label: "Default", value: "" },
+          { label: "Hide", value: "nil" },
+          { label: "Yes", value: "true" },
+          { label: "No", value: "false" },
+        ],
+        default: "",
+      },
+      {
+        name: "fip_75",
+        label: "FIP 75 (override)",
+        widget: "select",
+        required: false,
+        options: [
+          { label: "Default", value: "" },
+          { label: "Hide", value: "nil" },
+          { label: "Yes", value: "true" },
+          { label: "No", value: "false" },
+        ],
+        default: "",
+      },
+      {
+        name: "fip_global_fare",
+        label: "FIP Global Fare (override)",
+        widget: "select",
+        required: false,
+        options: [
+          { label: "Default", value: "" },
+          { label: "Hide", value: "nil" },
+          { label: "Yes", value: "true" },
+          { label: "No", value: "false" },
+        ],
+        default: "",
+      },
+      {
+        name: "reservations",
+        label: "Reservations (override)",
+        widget: "select",
+        required: false,
+        options: [
+          { label: "Default", value: "" },
+          { label: "Hide", value: "nil" },
+          { label: "Yes", value: "true" },
+          { label: "No", value: "false" },
+        ],
+        default: "",
+      },
+      {
+        name: "body",
+        label: "Additional info",
+        widget: "richtext",
+        required: false,
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
-    pattern:
-      /\{\{% booking ([\s\S]*?)(?:\/%\}\}|%\}\}([\s\S]*?)\{\{% \/booking %\}\})/,
+    pattern: dualFormPattern("booking"),
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
       return {
         id: p.id ? String(p.id) + "/index" : "",
         subtitle: String(p.subtitle || ""),
+        classes_first: String(p["classes.first"] || ""),
+        classes_second: String(p["classes.second"] || ""),
+        fip_50:
+          p.fip_50 === true
+            ? "true"
+            : p.fip_50 === false
+              ? "false"
+              : String(p.fip_50 || ""),
+        fip_75:
+          p.fip_75 === true
+            ? "true"
+            : p.fip_75 === false
+              ? "false"
+              : String(p.fip_75 || ""),
+        fip_global_fare:
+          p.fip_global_fare === true
+            ? "true"
+            : p.fip_global_fare === false
+              ? "false"
+              : String(p.fip_global_fare || ""),
+        reservations:
+          p.reservations === true
+            ? "true"
+            : p.reservations === false
+              ? "false"
+              : String(p.reservations || ""),
         body: match[2] ? match[2].trim() : "",
       };
     },
     toBlock: function (data) {
       var params = 'id="' + (data.id || "").replace(/\/index$/, "") + '"';
       if (data.subtitle) params += ' subtitle="' + data.subtitle + '"';
+      if (data.classes_first)
+        params += ' classes.first="' + data.classes_first + '"';
+      if (data.classes_second)
+        params += ' classes.second="' + data.classes_second + '"';
+      if (data.fip_50) params += " fip_50=" + data.fip_50;
+      if (data.fip_75) params += " fip_75=" + data.fip_75;
+      if (data.fip_global_fare)
+        params += " fip_global_fare=" + data.fip_global_fare;
+      if (data.reservations) params += " reservations=" + data.reservations;
       if (data.body && data.body.trim()) {
         return (
           "{{% booking " + params + " %}}\n" + data.body + "\n{{% /booking %}}"
@@ -341,7 +489,12 @@
         widget: "select",
         options: ["fip_50", "fip_global_fare", "reservations"],
       },
-      { name: "body", label: "Content", widget: "markdown" },
+      {
+        name: "body",
+        label: "Content",
+        widget: "richtext",
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
     pattern: shortcodePattern("booking-section"),
     fromBlock: function (match) {
@@ -378,7 +531,7 @@
       { name: "destination", label: "URL", widget: "string" },
       { name: "text", label: "Button text", widget: "string" },
     ],
-    pattern: /\{\{< button ([\s\S]*?)>\}\}/,
+    pattern: selfClosingPattern("button"),
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
       return {
@@ -415,15 +568,24 @@
         multiple: true,
         required: false,
       },
+      {
+        name: "body",
+        label: "Additional info",
+        widget: "richtext",
+        required: false,
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
-    pattern: /\{\{< identify-operator(?:\s+sources="([^"]*)")?\s*\/?>\}\}/,
+    pattern: dualFormPattern("identify-operator"),
     fromBlock: function (match) {
+      var p = parseHugoParams(match[1] || "");
       return {
-        sources: match[1]
-          ? match[1].split(",").map(function (s) {
+        sources: p.sources
+          ? p.sources.split(",").map(function (s) {
               return s.trim() + "/index";
             })
           : [],
+        body: match[2] ? match[2].trim() : "",
       };
     },
     toBlock: function (data) {
@@ -434,10 +596,13 @@
             })
             .join(",")
         : String(data.sources || "").replace(/\/index$/, "");
-      if (sources) {
-        return '{{< identify-operator sources="' + sources + '" />}}';
+      var open = sources
+        ? '{{< identify-operator sources="' + sources + '"'
+        : "{{< identify-operator";
+      if (data.body && data.body.trim()) {
+        return open + " >}}\n" + data.body + "\n{{< /identify-operator >}}";
       }
-      return "{{< identify-operator />}}";
+      return open + " />}}";
     },
     toPreview: function (data) {
       var sources = Array.isArray(data.sources)
@@ -459,15 +624,15 @@
     fields: [
       {
         name: "body",
-        label: "Additional info (optional)",
-        widget: "markdown",
+        label: "Additional info",
+        widget: "richtext",
         required: false,
+        editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
-    pattern:
-      /\{\{% satellite(?:\s*\/%\}\}|\s*%\}\}([\s\S]*?)\{\{% \/satellite %\}\})/,
+    pattern: dualFormPattern("satellite"),
     fromBlock: function (match) {
-      return { body: match[1] ? match[1].trim() : "" };
+      return { body: match[2] ? match[2].trim() : "" };
     },
     toBlock: function (data) {
       if (data.body && data.body.trim()) {
@@ -490,7 +655,12 @@
     fields: [
       { name: "id", label: "Dialog ID (anchor)", widget: "string" },
       { name: "title", label: "Title", widget: "string" },
-      { name: "body", label: "Content", widget: "markdown" },
+      {
+        name: "body",
+        label: "Content",
+        widget: "richtext",
+        editor_components: ["button", "float-image", "highlight", "image"],
+      },
     ],
     pattern: shortcodePattern("dialog"),
     fromBlock: function (match) {
@@ -547,8 +717,9 @@
       {
         name: "body",
         label: "Surrounding text",
-        widget: "markdown",
+        widget: "richtext",
         required: false,
+        editor_components: ["button", "float-image", "highlight", "image"],
       },
     ],
     pattern: shortcodePattern("float-image"),
@@ -596,26 +767,10 @@
   });
 
   CMS.registerEditorComponent({
-    id: "icon",
-    label: "Icon",
-    fields: [{ name: "name", label: "Icon name", widget: "string" }],
-    pattern: /\{\{[<%] icon "([^"]*)" [%>]\}\}/,
-    fromBlock: function (match) {
-      return { name: match[1] };
-    },
-    toBlock: function (data) {
-      return '{{< icon "' + data.name + '" >}}';
-    },
-    toPreview: function (data) {
-      return "<span>[icon: " + data.name + "]</span>";
-    },
-  });
-
-  CMS.registerEditorComponent({
     id: "wip",
     label: "Work in Progress",
     fields: [],
-    pattern: /\{\{< wip >\}\}/,
+    pattern: selfClosingPattern("wip"),
     fromBlock: function () {
       return {};
     },
@@ -631,7 +786,7 @@
     id: "fip-validity-comparison",
     label: "FIP Validity Comparison",
     fields: [],
-    pattern: /\{\{< fip-validity-comparison >\}\}/,
+    pattern: selfClosingPattern("fip-validity-comparison"),
     fromBlock: function () {
       return {};
     },
@@ -643,5 +798,5 @@
     },
   });
 
-  CMS.registerRemarkPlugin({ settings: { bullet: "-" } });
+  CMS.registerRemarkPlugin({ settings: { bullet: "-", emphasis: "_" } });
 })();
