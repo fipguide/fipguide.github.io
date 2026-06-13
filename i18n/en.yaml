@@ -13,6 +13,8 @@ booking:
   not-bookable: not bookable
   reservation: Reservation
   reservation-costs: Reservation Costs
+  send-mail-fip-50-ticket: Send email (FIP 50 Ticket)
+  send-mail-reservation: Send email (Reservation)
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
 contact:
