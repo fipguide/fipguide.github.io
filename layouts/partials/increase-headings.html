@@ -1,10 +1,22 @@
 {{- $content := .content -}}
 {{- $offset := .offset | default 1 -}}
 
+{{- $dialogs := slice -}}
+{{- range $i, $match := findRE `(?s)<dialog[\s>].*?</dialog>` $content -}}
+  {{- $dialogs = $dialogs | append $match -}}
+  {{- $placeholder := printf "%%DIALOG_PLACEHOLDER_%d%%" $i -}}
+  {{- $content = replace $content $match $placeholder -}}
+{{- end -}}
+
 {{- range $level := (seq 4 1) -}}
   {{- $newLevel := add $level $offset -}}
   {{- $content = $content | replaceRE (printf `<h%d(\s[^>]*)?>` $level) (printf `<h%d${1}>` $newLevel) -}}
   {{- $content = $content | replaceRE (printf `</h%d>` $level) (printf `</h%d>` $newLevel) -}}
+{{- end -}}
+
+{{- range $i, $match := $dialogs -}}
+  {{- $placeholder := printf "%%DIALOG_PLACEHOLDER_%d%%" $i -}}
+  {{- $content = replace $content $placeholder $match -}}
 {{- end -}}
 
 {{- return $content -}}

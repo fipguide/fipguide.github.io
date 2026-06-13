@@ -1,0 +1,12 @@
+{{- $image := "" -}}
+{{- if .Page -}}
+  {{- with .Page.Resources.Get .Destination -}}
+    {{- $image = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- with resources.Get .Destination -}}
+    {{- $image = . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $image -}}

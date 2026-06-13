@@ -1,3 +1,5 @@
+import { addClickListener } from "./panZoom.js";
+
 function getCloseButton(dialog) {
   return dialog.querySelector(".o-dialog__header > .a-button");
 }
@@ -26,10 +28,9 @@ function openDialogOnHash() {
 
 function initDialogs() {
   document.querySelectorAll("dialog").forEach((dialog) => {
-    dialog.addEventListener("click", (e) => {
-      if (e.target === dialog) {
-        dialog.close();
-      }
+    addClickListener(dialog, (e) => {
+      if (e.target !== dialog) return;
+      dialog.close();
     });
 
     const closeButton = getCloseButton(dialog);

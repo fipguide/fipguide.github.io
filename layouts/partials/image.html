@@ -18,6 +18,11 @@
   {{- $figStyles = $figStyles | append (printf "width: %s" $width) -}}
 {{- end -}}
 
+{{- $lightboxID := "" -}}
+{{- if .alt -}}
+  {{- $lightboxID = printf "lightbox-%s" ($image.RelPermalink | sha1) -}}
+{{- end -}}
+
 
 <figure style="{{ delimit $figStyles "; " | safeCSS }}">
   <img
@@ -35,6 +40,10 @@
       1140px, 1320px"
     {{- end -}}
     style="{{ delimit $imgStyles "; " | safeCSS }}"
+    {{- with $lightboxID }}
+      class="o-lightbox__trigger" role="button" tabindex="0"
+      aria-label="{{ i18n "lightbox.open" }}" data-dialog-trigger="{{ . }}"
+    {{- end -}}
   />
   {{- if .caption -}}
     <hr aria-hidden="true" />
@@ -43,3 +52,6 @@
     </figcaption>
   {{- end -}}
 </figure>
+{{- with $lightboxID -}}
+  {{- partial "lightbox" (dict "ID" . "Image" $image "Alt" $.alt) -}}
+{{- end -}}

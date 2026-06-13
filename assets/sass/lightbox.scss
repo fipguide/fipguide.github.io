@@ -1,0 +1,29 @@
+.o-lightbox__trigger {
+  cursor: zoom-in;
+
+  @include focus-indicator(0.1rem);
+  &:focus-visible {
+    z-index: 1;
+  }
+}
+
+.o-dialog__wrapper--lightbox {
+  .o-dialog__wrapper {
+    max-width: 90dvh;
+  }
+
+  .o-dialog {
+    max-height: unset;
+  }
+
+  .o-dialog__body {
+    padding: 0;
+    overflow: hidden;
+    flex: 1;
+    display: flex;
+  }
+
+  .o-pan-zoom__wrapper {
+    flex: 1;
+  }
+}
