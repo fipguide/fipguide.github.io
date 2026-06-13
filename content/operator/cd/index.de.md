@@ -263,12 +263,12 @@ Für eine Übersicht der Gültigkeit kann die Übersichtskarte hier verwendet we
 
 <div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
   <figure style="flex:1; margin:0;">
-    <img src="cd-fip-map-overview-26.webp" alt="FIP Gültigkeitskarte Überblick für Tschechien" style="width:100%; height:auto; display:block;" />
+    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="FIP Gültigkeitskarte Überblick für Tschechien" style="width:100%; height:auto; display:block;" />
     <hr aria-hidden="true" />
     <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Überblick FIP Gültigkeitskarte (Vollbild)</a> für Tschechien (© Petr Duda)</figcaption>
   </figure>
   <figure style="flex:1; margin:0;">
-    <img src="cd-fip-map-detail-26.webp" alt="FIP Gültigkeitskarte Detail für Tschechien" style="width:100%; height:auto; display:block;" />
+    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="FIP Gültigkeitskarte Detail für Tschechien" style="width:100%; height:auto; display:block;" />
     <hr aria-hidden="true" />
     <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Detail FIP Gültigkeitskarte (Vollbild)</a> für Tschechien (© Petr Duda)</figcaption>
   </figure>
