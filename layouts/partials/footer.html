@@ -1,7 +1,7 @@
 <div class="o-footer__line">
   <div
     aria-label="{{ T "footer-love.aria-label" }}"
-    {{ if and (ne site.Language.LanguageCode "fr") (ne site.Language.LanguageCode "en") }}
+    {{ if and (ne site.Language.Locale "fr") (ne site.Language.Locale "en") }}
       lang="en"
     {{ end }}
   >
@@ -57,7 +57,7 @@
       aria-label="{{ T "language-switcher.aria-label" }}"
     >
       {{ partial "icon" "translate" }}
-      <div>{{ $.Site.Language.LanguageName }}</div>
+      <div>{{ $.Site.Language.Label }}</div>
       <div class="o-dropdown__icon">
         {{ partial "icon" "keyboard_arrow_up" }}
       </div>
@@ -79,7 +79,7 @@
             href="{{ .Permalink }}"
             {{ if eq $.Site.Language .Language }}aria-current="page"{{ end }}
           >
-            {{ .Language.LanguageName }}
+            {{ .Language.Label }}
           </a>
         </li>
       {{ end }}

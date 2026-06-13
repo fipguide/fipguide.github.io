@@ -25,6 +25,6 @@ FIP 50 Tickets can be purchased on site.
 
 ## Reservations
 
-Free reservations for IC trains are available on site.
+Free reservations for rail replacement buses and IC trains are available on site. It is important to select the "FIP Ticket" fare, not "FIP Card."
 
 {{% /booking-section %}}
