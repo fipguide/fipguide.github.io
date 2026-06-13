@@ -70,6 +70,13 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour toute la trajectoire (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="kd-ticket-office"/%}}

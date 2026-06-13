@@ -178,6 +178,12 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 {{% booking id="oebb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="sbb-ticket-office"/%}}

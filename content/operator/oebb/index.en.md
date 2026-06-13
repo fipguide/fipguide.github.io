@@ -263,6 +263,12 @@ Reservations for direct trains are cheaper via ÖBB.
 
 {{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
 
+{{% booking id="db-phone-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Austria, with ticket portion only for the Austrian section. For employees of Deutsche Bahn only."
+%}}
+Reservations for direct trains are cheaper via ÖBB.
+{{% /booking %}}
+
 ### On-Site
 
 {{% booking id="oebb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}

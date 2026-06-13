@@ -176,6 +176,12 @@ Avec les Billets FIP 50, il est possible de réserver des trajets continus sur l
 
 {{% booking id="oebb-phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux employés de la Deutsche Bahn."
+%}}
+Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort – Milan jusqu’à Milan.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="sbb-ticket-office" /%}}
