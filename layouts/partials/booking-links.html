@@ -1,9 +1,4 @@
-{{- $mailTemplates := .Params.mail_templates -}}
-{{- $fip50Mail := and $mailTemplates (index $mailTemplates "fip_50") -}}
-{{- $reservationMail := and $mailTemplates (index $mailTemplates "reservations") -}}
-{{- $showFip50MailButton := and (eq .Params.type "email") (eq .Params.fip_50 true) $fip50Mail $fip50Mail.to $fip50Mail.subject $fip50Mail.body -}}
-{{- $showReservationMailButton := and (eq .Params.type "email") (eq .Params.reservations true) $reservationMail $reservationMail.to $reservationMail.subject $reservationMail.body -}}
-{{- if or .Params.booking_link .Params.additional_info_link $showFip50MailButton $showReservationMailButton -}}
+{{- if or .Params.booking_link .Params.additional_info_link -}}
   <div class="o-booking__links">
     {{- if .Params.booking_link -}}
       {{- partial "button"
@@ -18,22 +13,6 @@
         (dict
         "Destination" .Params.additional_info_link
         "Text" (T "booking.visit-additional-information-website")
-        )
-      -}}
-    {{- end -}}
-    {{- if $showFip50MailButton -}}
-      {{- partial "button"
-        (dict
-        "Destination" (printf "mailto:%s?subject=%s&body=%s" $fip50Mail.to (replace ($fip50Mail.subject | urlquery) "+" "%20") (replace ($fip50Mail.body | urlquery) "+" "%20"))
-        "Text" (T "booking.send-mail-fip-50-ticket")
-        )
-      -}}
-    {{- end -}}
-    {{- if $showReservationMailButton -}}
-      {{- partial "button"
-        (dict
-        "Destination" (printf "mailto:%s?subject=%s&body=%s" $reservationMail.to (replace ($reservationMail.subject | urlquery) "+" "%20") (replace ($reservationMail.body | urlquery) "+" "%20"))
-        "Text" (T "booking.send-mail-reservation")
         )
       -}}
     {{- end -}}

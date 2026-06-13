@@ -7,70 +7,6 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
-  mail_templates:
-    fip_50:
-      to: "contact.nl@stenaline.com"
-      subject: "FIP 50 Ticket booking request"
-      body: |-
-        Hello,
-
-        I would like to book a FIP 50 Ticket.
-        Please find my details below:
-
-        Travel date: [Travel date]
-        Travel time: [Travel time]
-        Number of passengers: [Number of passengers]
-        Cabin type: [Cabin type (Standard, Superior or Deluxe)]
-        Passengers:
-          Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
-          Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
-          [... Add or remove passengers if needed]
-        Additional information: [Additional information]
-
-        Copy/copies of the FIP Card(s) (front and back) for all travelers are attached.
-
-        [Attach copy/copies of the FIP Card(s) (front and back) for all travelers]
-
-        Thank you in advance.
-        Kind regards,
-
-        [Your name]
-    reservations:
-      to: "contact.nl@stenaline.com"
-      subject: "Reservation booking request"
-      body: |-
-        Hello,
-
-        I would like to book a reservation.
-        Please find my details below:
-
-        Travel date: [Travel date]
-        Travel time: [Travel time]
-        Number of passengers: [Number of passengers]
-        Cabin type: [Cabin type (Standard, Superior or Deluxe)]
-        Passengers:
-          Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
-          Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
-          [... Add or remove passengers if needed]
-        FIP Coupon number(s): [Stena Line BV FIP Coupon number(s) used for the journey]
-        Additional information: [Additional information]
-
-        Thank you in advance.
-        Kind regards,
-
-        [Your name]
 
 aliases:
   - stena-line-email
@@ -84,7 +20,7 @@ The email must contain the following information:
 - Cabin type (Standard, Superior or Deluxe)
 - Name of travellers as stated on their passports
 - Passport number and expiry date
-- **Only for FIP 50 Tickets:** Copy/copies of the FIP Card(s) (front and back) for all travelers
+- **Only for FIP 50 Tickets:** Copy of FIP Card (front and back)
 - **Only for reservations with FIP Coupon:** Number of the Stena Line BV FIP Coupon to be used for the journey
 
 You will usually receive two reply emails from Stena Line. The first email confirms your booking request. The second email provides you with a payment option via pay per link. You will then need to enter your credit card details.
