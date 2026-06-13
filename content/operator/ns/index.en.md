@@ -189,6 +189,10 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="ns-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands, with ticket portion only for the Dutch section. For Deutsche Bahn employees only."
+/%}}
+
 ### On-Site
 
 {{% booking id="ns-ticket-office" /%}}

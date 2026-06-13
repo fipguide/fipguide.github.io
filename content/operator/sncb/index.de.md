@@ -183,6 +183,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncb-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien, mit Ticketanteil nur für den belgischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="sncb-ticket-office" /%}}

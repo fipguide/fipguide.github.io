@@ -224,6 +224,13 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
     classes.second="2 € / 11 €"
 /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+  reservations="nil"
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
 ### En gare
 
 {{% booking id="sncf-ticket-office" /%}}
