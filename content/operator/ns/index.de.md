@@ -124,7 +124,7 @@ Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
 {{< /highlight >}}
 
-![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
+![Intercity Direct Netz](intercity-direct-map.jpg)
 
 {{% /train-category %}}
 
