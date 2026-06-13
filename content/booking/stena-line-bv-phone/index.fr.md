@@ -23,7 +23,7 @@ Les informations suivantes doivent être préparées:
 - Type de cabine (Standard, Supérieure et Deluxe)
 - Nom de voyageurs tel qu’il figure sur leur passeport
 - Numéro et date d’expiration du passeport
-- **Uniquement pour les Billets FIP 50:** Copie de la Carte FIP (recto et verso)
+- **Uniquement pour les Billets FIP 50:** Photo de la Carte FIP (recto et verso)
 - **Uniquement pour les réservations avec Coupon FIP:** Numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage
 
 {{% booking-section "fip_50" %}}

@@ -20,7 +20,7 @@ In der Mail sind folgende Daten anzugeben:
 - Kabinentyp (Standard, Superior oder Deluxe)
 - Name der Reisenden wie auf dem Reisepass
 - Reisepassnummer und Gültigkeitsdatum
-- **Nur für FIP 50 Tickets:** Kopie des FIP-Ausweises (Vorder- und Rückseite)
+- **Nur für FIP 50 Tickets:** Foto des FIP-Ausweises (Vorder- und Rückseite)
 - **Nur für Reservierungen mit FIP Freifahrtschein:** Nummer des Stena Line BV FIP Freifahrtscheins, der bei der Fahrt genutzt werden soll
 
 Von Stena Line erhält man in der Regel zwei Antwortmails. In der ersten Mail wird die Buchungsanfrage bestätigt. In der zweiten Mail erhält man eine Bezahloption über pay per link. Hier sind dann die Kreditkartendaten zu hinterlegen.
