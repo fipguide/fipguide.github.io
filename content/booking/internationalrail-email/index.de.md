@@ -9,6 +9,37 @@ params:
   fip_75: true
   type: "email"
   fee: 10 £
+  mail_templates:
+    fip_50:
+      to: "uktravel@bookmyrst.co.uk"
+      subject: "FIP 50 Ticket booking request"
+      body: |-
+        Hello,
+
+        I would like to request an offer for a FIP 50 Ticket.
+
+        Travel date: [Reisedatum]
+        Preferred departure time: [Gewünschte Abfahrtszeit]
+        Departure station: [Abfahrtsbahnhof]
+        Destination station: [Zielbahnhof]
+        Number of passengers: [Anzahl Reisende]
+        Passengers:
+          Passenger 1:
+            Name: [Name (as in passport)]
+          Passenger 2:
+            Name: [Name (as in passport)]
+          [... Add or remove passengers if needed]
+        Class (according to FIP Card entitlement): [Klasse (laut FIP-Ausweisberechtigung)]
+        Additional information: [Zusätzliche Angaben]
+
+        Photo(s) of the FIP Card(s) for all travelers are attached.
+
+        [Foto(s) der FIP-Ausweise aller Reisenden als Anhang beifügen]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Dein Name]
 
 aliases:
   - uk_mail
