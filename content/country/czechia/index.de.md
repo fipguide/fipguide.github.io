@@ -5,10 +5,11 @@ country: "czechia"
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
+    - AŽD Praha s.r.o.
     - GW Train Regio
+    - Jindřichohradecké místní dráhy (JHMD)
     - Leo Express
     - RegioJet
-    - Jindřichohradecké místní dráhy (JHMD)
     - Trilex / Die Länderbahn
 ---
 
