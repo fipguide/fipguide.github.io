@@ -1,11 +1,16 @@
 {{- if .Destination -}}
+  {{- $isExternal := and (strings.HasPrefix .Destination "http") (not (strings.HasPrefix .Destination site.BaseURL)) -}}
+  {{- $isMailto := strings.HasPrefix .Destination "mailto:" -}}
   <a
     href="{{ .Destination }}"
-    target="_blank"
-    rel="noopener noreferrer"
+    {{- if $isExternal }}target="_blank" rel="noopener noreferrer"{{- end }}
     class="a-button a-button__external o-link__external"
   >
-    {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
+    {{- if $isMailto }}
+      {{- partial "icon" "mail" -}}
+    {{- end -}}{{- .Text -}}{{- if $isExternal }}
+      {{- partial "icon" "arrow_outward" -}}
+    {{- end -}}
   </a>
 {{- else -}}
   <button

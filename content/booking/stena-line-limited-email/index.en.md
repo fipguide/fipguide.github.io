@@ -7,6 +7,62 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
+  mail_templates:
+    fip_50:
+      to: "info.cherbourg@stenaline.com"
+      subject: "FIP 50 Ticket booking request"
+      body: |-
+        Hello,
+
+        I would like to book a FIP 50 Ticket.
+        Please find my details below:
+
+        Travel date: [Travel date]
+        Travel route: [Travel route]
+        Number of passengers: [Number of passengers]
+        Class: [Class]
+        Passengers:
+          Passenger 1:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+          Passenger 2:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+          [... Add or remove passengers if needed]
+        Additional information: [Additional information]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Your name]
+    reservations:
+      to: "info.cherbourg@stenaline.com"
+      subject: "Reservation booking request"
+      body: |-
+        Hello,
+
+        I would like to book a reservation.
+        Please find my details below:
+
+        Travel date: [Travel date]
+        Travel time: [Travel time]
+        Travel route: [Travel route]
+        Number of passengers: [Number of passengers]
+        Class: [Class]
+        Passengers:
+          Passenger 1:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+          Passenger 2:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+          [... Add or remove passengers if needed]
+        Additional information: [Additional information]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Your name]
 ---
 
 Booking with Stena Line is easily possible via email. To do so, send an email to [info.cherbourg@stenaline.com](mailto:info.cherbourg@stenaline.com).[^1]

@@ -7,6 +7,70 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
+  mail_templates:
+    fip_50:
+      to: "contact.nl@stenaline.com"
+      subject: "FIP 50 Ticket booking request"
+      body: |-
+        Hello,
+
+        I would like to book a FIP 50 Ticket.
+        Please find my details below:
+
+        Travel date: [Reisedatum]
+        Travel time: [Uhrzeit]
+        Number of passengers: [Anzahl Reisende]
+        Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
+        Passengers:
+          Passenger 1:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+            Passport number and expiry date: [Passport number and expiry date]
+          Passenger 2:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+            Passport number and expiry date: [Passport number and expiry date]
+          [... Add or remove passengers if needed]
+        Additional information: [Zusätzliche Informationen]
+
+        Copy/copies of the FIP Card(s) (front and back) for all travelers are attached.
+
+        [Kopie(n) der FIP-Ausweise (Vorder- und Rückseite) aller Reisenden als Anhang beifügen]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Dein Name]
+    reservations:
+      to: "contact.nl@stenaline.com"
+      subject: "Reservation booking request"
+      body: |-
+        Hello,
+
+        I would like to book a reservation.
+        Please find my details below:
+
+        Travel date: [Reisedatum]
+        Travel time: [Uhrzeit]
+        Number of passengers: [Anzahl Reisende]
+        Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
+        Passengers:
+          Passenger 1:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+            Passport number and expiry date: [Passport number and expiry date]
+          Passenger 2:
+            Name: [Name (as in passport)]
+            Date of birth: [Date of birth]
+            Passport number and expiry date: [Passport number and expiry date]
+          [... Add or remove passengers if needed]
+        FIP Coupon number(s): [Nummer(n) des Stena Line BV FIP Freifahrtscheins, der/die bei der Fahrt genutzt werden soll(en)]
+        Additional information: [Zusätzliche Informationen]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Dein Name]
 
 aliases:
   - stena-line-email
@@ -20,11 +84,11 @@ In der Mail sind folgende Daten anzugeben:
 - Kabinentyp (Standard, Superior oder Deluxe)
 - Name der Reisenden wie auf dem Reisepass
 - Reisepassnummer und Gültigkeitsdatum
-- **Nur für FIP 50 Tickets:** Kopie des FIP-Ausweises (Vorder- und Rückseite)
+- **Nur für FIP 50 Tickets:** Kopie(n) der FIP-Ausweise (Vorder- und Rückseite) aller Reisenden
 - **Nur für Reservierungen mit FIP Freifahrtschein:** Nummer des Stena Line BV FIP Freifahrtscheins, der bei der Fahrt genutzt werden soll
 
 Von Stena Line erhält man in der Regel zwei Antwortmails. In der ersten Mail wird die Buchungsanfrage bestätigt. In der zweiten Mail erhält man eine Bezahloption über pay per link. Hier sind dann die Kreditkartendaten zu hinterlegen.
-Nach Bezahlung bekommst du eine Mail mit der Resevierungsbestätigung, die auch als Ticket gilt - die FIP Fahrkarten sind natürlich mitzuführen.
+Nach Bezahlung bekommst du eine Mail mit der Reservierungsbestätigung, die auch als Ticket gilt - die FIP Fahrkarten sind natürlich mitzuführen.
 
 {{% highlight important %}}
 Die Bezahlung über pay per link ist nur am selben Tag möglich, an dem die entsprechende Mail zur Zahlungsaufforderung erhalten wurde. Der Link verliert um Mitternacht seine Gültigkeit. Sollte dem so sein, ist erneut Kontakt zu Stena Line aufzunehmen.
@@ -45,7 +109,7 @@ FIP 50 Tickets können gebucht werden.
 Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
 {{% highlight warning %}}
-Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobal der FIP Freifahrtschein vorliegt.
+Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
 {{% /highlight %}}
 
 {{% /booking-section %}}
