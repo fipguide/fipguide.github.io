@@ -70,6 +70,13 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour toute la trajectoire (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="kd-ticket-office"/%}}
@@ -80,7 +87,7 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
 
 ### À bord du train
 
-Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l'embarquement. En cas d'embarquement aux gares disposant également d'un guichet ou d'un distributeur de billets, des frais de délivrance à bord peuvent s'ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
+Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l’embarquement. En cas d’embarquement aux gares disposant également d’un guichet ou d’un distributeur de billets, des frais de délivrance à bord peuvent s’ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
 
 ## Réductions
 

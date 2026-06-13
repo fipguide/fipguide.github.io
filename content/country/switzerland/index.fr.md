@@ -104,4 +104,4 @@ Les trains `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève a
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
 
-[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+[^2]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

@@ -22,7 +22,7 @@ Auf ihrer Website bietet die KŚ eine [Übersichtskarte der Strecken](https://ww
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 - Einzelne Routen sind auch mit PKP Freifahrtscheinen nutzbar.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
@@ -61,6 +61,13 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% booking id="db-website-fip-international"
     reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+/%}}
+
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort

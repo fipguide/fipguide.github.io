@@ -259,9 +259,15 @@ Reservations for direct trains are cheaper via ÖBB.
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-### Phone
+### Telephone
 
 {{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
+
+{{% booking id="db-phone-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Austria, with ticket portion only for the Austrian section. For employees of Deutsche Bahn only."
+%}}
+Reservations for direct trains are cheaper via ÖBB.
+{{% /booking %}}
 
 ### On-Site
 
@@ -273,13 +279,13 @@ Reservations for direct trains are cheaper via ÖBB.
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-### On the train
+### On the Train
 
 Tickets can be purchased on board if you immediately contact the conductor. However, they are usually more expensive than tickets bought in advance. On S-Bahn routes, tickets must be purchased before boarding.
 
 ## Discounts
 
-Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Free Travel Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
+Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
@@ -321,12 +327,8 @@ FIP Coupons are accepted on ÖBB-operated local trains of S-Bahn line S7.
 Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 
 {{% highlight tip %}}
-If you travel with regular Vienna public transport tickets (e.g., single journeys or 24/48/72-hour tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
+If you travel with regular Vienna public transport tickets (e.g., Single journeys, 24-hour tickets or 7-day tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
 {{% /highlight %}}
-
-### Schneebergbahn
-
-The Schneebergbahn is not part of ÖBB or FIP, but showing a FIP ID gives a 50% discount on tickets.
 
 ### Motorail
 

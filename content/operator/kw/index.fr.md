@@ -60,6 +60,13 @@ Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valable dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="kw-ticket-machine"/%}}
@@ -86,7 +93,7 @@ Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous
 
 Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par KW.
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 

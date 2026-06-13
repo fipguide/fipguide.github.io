@@ -185,9 +185,13 @@ Domestic journeys unfortunately cannot be purchased online.
     subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
-### Phone
+### Telephone
 
 {{% booking id="ns-phone" /%}}
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands, with ticket portion only for the Dutch section. For Deutsche Bahn employees only."
+/%}}
 
 ### On-Site
 

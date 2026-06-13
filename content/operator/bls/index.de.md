@@ -119,6 +119,14 @@ Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tick
 Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
 {{% /booking %}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="bls-ticket-office"/%}}

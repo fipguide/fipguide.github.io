@@ -108,6 +108,7 @@ For Railjets to Italy, a surcharge is required from the Italian border onward (s
 
 Intercity trains are an important addition to the ICE network. They run at lower speeds than ICE trains, connect many cities, and also serve many holiday and vacation regions.
 
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -176,6 +177,8 @@ _Tip:_ For journeys from Germany to Italy, use national free travel to Salzburg 
 #### Reservations
 
 For Nightjet trains, reservations/surcharges for sleeper and couchette cars can be booked. A FIP Coupon for the countries/railway companies on the journey is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased.
+
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 
 **Cost:** depends on route, occupancy, and car category.
 
@@ -370,11 +373,15 @@ The following product classes exist:
 
 ### DB Syltshuttle
 
-DB operates the car train _Syltshuttle_, which runs from Niebüll car loading to Westerland (Sylt) car loading. Travel is only possible with a vehicle (car, caravan, motorhome) and requires a [separate ticket](https://ticket.syltshuttle.de/). FIP discounts are not recognized.
+DB operates the Motorail train _Syltshuttle_, which runs from Niebüll car loading to Westerland (Sylt) car loading. Travel is only possible with a vehicle (car, caravan, motorhome) and requires a [separate ticket](https://ticket.syltshuttle.de/). FIP discounts are not recognized.
 
 ### Shipping and Wangerooge Island Railway
 
 FIP Coupons are valid on Ferry services between Harlesiel pier and Wangerooge and Wangerooge Island Railway. FIP 50 Tickets cannot be booked.
+
+### S-Bahn Mitteldeutschland (S5/X)
+
+As part of a trial service on the S-Bahn Mitteldeutschland from 14.06. to 12.12.2026, FIP discounts are also recognized on trains operated by "Die Länderbahn" on line S5 / S5X (Halle (Saale) – Leipzig – Zwickau).
 
 ### Regionalverkehre Start GmbH
 

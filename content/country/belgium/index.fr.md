@@ -62,7 +62,7 @@ L’Eurostar (anciennement Thalys) peut également être utilisé depuis l’All
 Le S41 exploité par la SNCB circule entre Aix-la-Chapelle et Liège-Saint-Lambert. Lors de l’utilisation du S41, il n’est actuellement pas clairement réglementé si un changement tarifaire d’opérateur a lieu à Aachen Süd(Gr).[^3] Il est donc incertain si un billet DB (par ex. Coupon FIP DB, avantage tarifaire national pour les employés DB ou Billet FIP 50) est nécessaire entre Aachen Hbf et Aachen Süd (Gr), ou si les Coupons FIP de la SNCB sont acceptés depuis Aachen Hbf.
 
 {{% highlight tip %}}
-Nous recommandons d’interroger le personnel du train avant le départ. En cas de doute, le billet pour la courte section allemande peut être acheté auprès du personnel du train au tarif normal de 2,20€ (1re & 2e classe, en vigueur en mars 2026).
+Nous recommandons d’interroger le personnel du train avant le départ.
 {{% /highlight %}}
 
 ### Luxembourg

@@ -228,6 +228,12 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec part de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="pkp-ticket-office" /%}}
@@ -306,7 +312,7 @@ La validité des billets dépend de la distance :
 - 51 km à 100 km : 6 heures à partir de la date et de l’heure d’émission ou au choix du voyageur,
 - à partir de 101 km : 1 jour (un jour est valable de 00h01 à 24h00).
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 

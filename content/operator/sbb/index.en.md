@@ -82,6 +82,8 @@ A reservation and surcharge are required for the Italian section. It is cheaper 
     reservation_possible=true
 %}}
 Fast national trains stopping only in major cities and transfer stations.
+
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -93,6 +95,8 @@ Fast national trains stopping only in major cities and transfer stations.
     reservation_possible=true
 %}}
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
+
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 
 #### Reservations
 
@@ -173,7 +177,13 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan rou
 
 {{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
 
-### On Site
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
+%}}
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
+{{% /booking %}}
+
+### On-Site
 
 {{% booking id="sbb-ticket-office"/%}}
 

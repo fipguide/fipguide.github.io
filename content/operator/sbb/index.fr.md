@@ -69,7 +69,7 @@ Trains internationaux vers l’Allemagne et l’Italie.
 1ère classe : 13 € \
 2ᵉ classe : 11 €
 
-Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l'Italie en changeant de train à Chiasso ([Voir Voyage vers l'Italie](/country/switzerland#italie "Voyage vers l'Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
+Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l’Italie en changeant de train à Chiasso ([Voir Voyage vers l’Italie](/country/switzerland#italie "Voyage vers l’Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
 {{% /train-category %}}
 
 {{% train-category
@@ -81,6 +81,8 @@ Une réservation et un supplément sont requis pour la section italienne. Il est
     reservation_possible=true
 %}}
 Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gares de correspondance.
+
+Certains services [Nightjet](#nj) sont exploités avec des voitures à sièges `IC`. Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information en plus du service Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -92,6 +94,8 @@ Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gar
     reservation_possible=true
 %}}
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
+
+Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information, en plus du service Nightjet.
 
 #### Réservations
 
@@ -172,6 +176,12 @@ Avec les Billets FIP 50, il est possible de réserver des trajets continus sur l
 
 {{% booking id="oebb-phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux employés de la Deutsche Bahn."
+%}}
+Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort – Milan jusqu’à Milan.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="sbb-ticket-office" /%}}
@@ -217,7 +227,7 @@ Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie)
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandation
+## Recommandations
 
 {{% highlight tip %}}
 Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de restrictions, et peu de besoin de réservation. La 1ère classe est recommandée pour son confort supérieur, surtout dans les trains Giruno.

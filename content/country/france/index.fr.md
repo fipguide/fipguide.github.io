@@ -62,7 +62,7 @@ Il existe aussi différentes liaisons régionales `TER` entre la Belgique et la 
 
 ### Luxembourg
 
-Depuis le Luxembourg, la SNCF exploite des trains internationaux `TGV` vers Paris, Strasbourg, Lyon, Montpellier et Marseille. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe aussi plusieurs liaisons régionales entre le Luxembourg et la France via Rodange ou Bettembourg, accessibles avec FIP. Dans la section luxembourgeoise, les billets FIP 50 et les Coupons FIP CFL sont valables, et du côté français, les billets FIP de la SNCF sont valables jusqu'au point frontière.
+Depuis le Luxembourg, la SNCF exploite des trains internationaux `TGV` vers Paris, Strasbourg, Lyon, Montpellier et Marseille. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe aussi plusieurs liaisons régionales entre le Luxembourg et la France via Rodange ou Bettembourg, accessibles avec FIP. Dans la section luxembourgeoise, les billets FIP 50 et les Coupons FIP CFL sont valables, et du côté français, les billets FIP de la SNCF sont valables jusqu’au point frontière.
 
 Bien que les voyages en 2ᵉ classe au Luxembourg soient gratuits, un billet ou un Coupon FIP est nécessaire à partir du point-frontière pour les voyages transfrontaliers. Cela signifie qu’il faut disposer soit d’un billet continu, soit au minimum d’un Coupon FIP SNCF valable. En 1ʳᵉ classe, ceci est également requis sur le tronçon luxembourgeois.
 
@@ -76,7 +76,7 @@ Entre la France et l’Allemagne circulent des trains longue distance en coopér
 Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) sont acceptés. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
 {{% /highlight %}}
 {{% highlight important %}}
-Quelques trains `TGV` circulent de Fribourg à Paris et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l'exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+Quelques trains `TGV` circulent de Fribourg à Paris et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
 {{% /highlight %}}
 Il existe aussi plusieurs liaisons régionales exploitées par la DB et la SNCF entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Achat de billets et réservations – en ligne").
 

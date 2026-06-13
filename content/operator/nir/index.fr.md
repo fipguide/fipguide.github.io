@@ -10,7 +10,7 @@ aliases:
   - /booking/translink-whatsapp
 ---
 
-Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d'Irlande du Nord et fait partie de Translink, une entreprise de transport public. Le réseau ferroviaire est compact et comprend principalement des liaisons à destination et en provenance de Belfast.
+Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d’Irlande du Nord et fait partie de Translink, une entreprise de transport public. Le réseau ferroviaire est compact et comprend principalement des liaisons à destination et en provenance de Belfast.
 
 ## Résumé
 
@@ -78,15 +78,15 @@ Les Billets FIP 50 / FIP 75 ne peuvent pas être achetés en ligne.
 
 ### À bord du train
 
-Les Billets FIP 50 / FIP 75 doivent être achetés avant le départ. Sur le service Enterprise, il est possible d'acheter le supplément entre la 1re et la 2e classe à bord du train.
+Les Billets FIP 50 / FIP 75 doivent être achetés avant le départ. Sur le service Enterprise, il est possible d’acheter le supplément entre la 1re et la 2e classe à bord du train.
 
 ## Réductions
 
-Les enfants jusqu'à 5 ans voyagent gratuitement. Les jeunes jusqu'à 16 ans bénéficient d'une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^1]
+Les enfants jusqu’à 5 ans voyagent gratuitement. Les jeunes jusqu’à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^1]
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage ne sont autorisées que pour prendre des trains de correspondance.[^1]
 
