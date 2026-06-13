@@ -26,32 +26,11 @@ aliases:
 
 FIP Coupons and FIP 50 Tickets are valid on ČD services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="FIP validity map overview for Czechia"
-caption="[Overview FIP validity map](/en/operator/cd/cd-fip-map-overview-26.webp) for Czechia (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 On some routes and in some regions, FIP benefits are not valid, even if the services are operated by ČD. Some routes also require a surcharge.
 
-For a first impression, the overview map for FIP benefits in Czechia can be used.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="FIP validity map detail for Czechia"
-caption="[Detailed FIP validity map](/en/operator/cd/cd-fip-map-detail-26.webp) for Czechia (© Petr Duda)"
-width="40%"
-position="left" >}}
-For detailed information, the detailed map for FIP benefits can be used.
-
-Further information: [ČD services without FIP](#čd-services-without-fip) and [ČD commercial services (surcharge required)](#čd-commercial-services-surcharge-required)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Further information in the [Special Tariff Conditions](#special-tariff-conditions) on this page.
+{{% /highlight %}}
 
 ## Train Categories and Reservations
 
@@ -284,11 +263,28 @@ For regular tickets, children up to 6 years travel free in 2nd class. Children u
 
 ## Special Tariff Conditions
 
+On some routes and in some regions, FIP benefits are not valid, even if the services are operated by ČD. Some routes also require a surcharge.
+
+For an overview of validity, the overview map can be used here. More detailed information can be found in the detailed map and the specific rules in the following sections on [ČD Commercial Services (Surcharge Required)](#čd-commercial-services-surcharge-required) and [ČD Services Without FIP](#čd-services-without-fip).
+
+<div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
+  <figure style="flex:1; margin:0;">
+    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="FIP validity map overview for Czechia" style="width:100%; height:auto; display:block;" />
+    <hr aria-hidden="true" />
+    <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Overview FIP validity map (full view)</a> for Czechia (© Petr Duda)</figcaption>
+  </figure>
+  <figure style="flex:1; margin:0;">
+    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="FIP validity map detail for Czechia" style="width:100%; height:auto; display:block;" />
+    <hr aria-hidden="true" />
+    <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Detailed FIP validity map (full view)</a> for Czechia (© Petr Duda)</figcaption>
+  </figure>
+</div>
+
 ### ČD Commercial Services (Surcharge Required)
 
 On so-called _commercial_ services operated by ČD, a surcharge must be purchased. These usually include only certain trains in the `SC`, `EC`, `IC`, and `R` categories. [^3]
 
-The [FIP validity maps for Czechia](#validity-of-fip-tickets) can be used as a guide.
+The [FIP validity maps for Czechia](#special-tariff-conditions) can be used as a guide.
 
 Affected services in detail:
 
@@ -538,7 +534,7 @@ In principle, FIP is not valid on any ČD trains that operate under public tende
 
 For services contracted by regional authorities (trains in the `SP` and `OS` categories), FIP is not valid at all in some regions.
 
-The [FIP validity map for Czechia](#validity-of-fip-tickets) can be used as a guide.
+The [FIP validity map for Czechia](#special-tariff-conditions) can be used as a guide.
 
 Affected regions in detail:
 
