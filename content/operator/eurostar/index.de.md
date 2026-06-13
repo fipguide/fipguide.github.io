@@ -205,7 +205,7 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 - [Interrail Website](https://www.interrail.eu/de/book-reservations) \
   Nur zum Prüfen von Reservierungskontingenten. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
 - [Traivelling](https://traivelling.com/home) \
-  Angabe der Vergünstigung _FIP 50%_. Hier werden auch Tickets verkauft, zur Legitimität dieses Angebots können wir jedoch keine Aussage treffen.
+  Angabe der Vergünstigung _FIP 50%_ (bei "Bahnkarten auswählen", Land: Österreich). Hier werden auch Tickets verkauft, zur Legitimität dieses Angebots können wir jedoch keine Aussage treffen. Nutzende unserer Seite berichten davon, dass Buchungen erfolgreich durchgeführt wurden.
 
 ### Anschlüsse
 
