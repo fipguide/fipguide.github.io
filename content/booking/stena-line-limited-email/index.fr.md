@@ -23,11 +23,11 @@ params:
         Class: [Classe]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
           [... Ajouter ou supprimer des voyageurs si nécessaire]
         Additional information: [Informations complémentaires]
 
@@ -51,11 +51,11 @@ params:
         Class: [Classe]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
           [... Ajouter ou supprimer des voyageurs si nécessaire]
         Additional information: [Informations complémentaires]
 

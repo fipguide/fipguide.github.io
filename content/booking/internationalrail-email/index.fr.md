@@ -41,9 +41,9 @@ params:
         Number of passengers: [Nombre de voyageurs]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
+            Name: [Nom (tel qu’il figure sur le passeport)]
           Passenger 2:
-            Name: [Name (as in passport)]
+            Name: [Nom (tel qu’il figure sur le passeport)]
           [... Ajouter ou supprimer des voyageurs si nécessaire]
         Class (according to FIP Card entitlement): [Classe (selon les droits de la Carte FIP)]
         Additional information: [Informations complémentaires]

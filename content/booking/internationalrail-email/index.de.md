@@ -41,9 +41,9 @@ params:
         Number of passengers: [Anzahl Reisende]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
+            Name: [Name (wie im Reisepass)]
           Passenger 2:
-            Name: [Name (as in passport)]
+            Name: [Name (wie im Reisepass)]
           [... Reisende bei Bedarf hinzufügen oder entfernen]
         Class (according to FIP Card entitlement): [Klasse (laut FIP-Ausweisberechtigung)]
         Additional information: [Zusätzliche Angaben]

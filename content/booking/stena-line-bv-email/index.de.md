@@ -24,13 +24,13 @@ params:
         Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
+            Passport number and expiry date: [Reisepassnummer und Gültigkeitsdatum]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
+            Passport number and expiry date: [Reisepassnummer und Gültigkeitsdatum]
           [... Reisende bei Bedarf hinzufügen oder entfernen]
         Additional information: [Zusätzliche Informationen]
 
@@ -58,13 +58,13 @@ params:
         Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
+            Passport number and expiry date: [Reisepassnummer und Gültigkeitsdatum]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
+            Passport number and expiry date: [Reisepassnummer und Gültigkeitsdatum]
           [... Reisende bei Bedarf hinzufügen oder entfernen]
         FIP Coupon number(s): [Nummer(n) des Stena Line BV FIP Freifahrtscheins, der/die bei der Fahrt genutzt werden soll(en)]
         Additional information: [Zusätzliche Informationen]

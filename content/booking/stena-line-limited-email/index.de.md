@@ -23,11 +23,11 @@ params:
         Class: [Klasse]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
           [... Reisende bei Bedarf hinzufügen oder entfernen]
         Additional information: [Zusätzliche Angaben]
 
@@ -51,11 +51,11 @@ params:
         Class: [Klasse]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
+            Name: [Name (wie im Reisepass)]
+            Date of birth: [Geburtsdatum]
           [... Reisende bei Bedarf hinzufügen oder entfernen]
         Additional information: [Zusätzliche Angaben]
 

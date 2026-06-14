@@ -24,13 +24,13 @@ params:
         Cabin type: [Type de cabine (Standard, Superior or Deluxe)]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
           [... Ajouter ou supprimer des voyageurs si nécessaire]
         Additional information: [Informations complémentaires]
 
@@ -58,13 +58,13 @@ params:
         Cabin type: [Type de cabine (Standard, Superior or Deluxe)]
         Passengers:
           Passenger 1:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
           Passenger 2:
-            Name: [Name (as in passport)]
-            Date of birth: [Date of birth]
-            Passport number and expiry date: [Passport number and expiry date]
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
           [... Ajouter ou supprimer des voyageurs si nécessaire]
         FIP Coupon number(s): [Numéro(s) du/des Coupon(s) FIP Stena Line BV utilisé(s) pour le voyage]
         Additional information: [Informations complémentaires]
