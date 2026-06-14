@@ -2,9 +2,9 @@
   display: flex;
   align-items: flex-start;
   gap: 0.4rem;
-  padding: 0.4rem 0.8rem;
+  padding: 0.4rem 0.6rem;
   border-radius: var(--border-radius-s);
-  font-size: 0.7em;
+  font-size: 0.9em;
   font-weight: 500;
 
   @each $name, $color in $tag-colors {
@@ -13,5 +13,9 @@
       color: var(--tag-#{$name}-color);
       border: 0.1rem solid var(--tag-#{$name}-color);
     }
+  }
+
+  &__text {
+    align-self: center;
   }
 }

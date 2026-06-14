@@ -30,4 +30,6 @@ FIP Vergünstigungen gelten **nicht** auf folgenden Stecken [^1]:
 
 Eine günstige Option für Kinder ist auch die [Kinder-Tageskarte der SBB](https://www.sbb.ch/de/billette-angebote/billette/tageskarten/kinder-tageskarte.html).
 
+## Quellen
+
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
