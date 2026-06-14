@@ -185,6 +185,10 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncb-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Belgium, with ticket portion only for the Belgian section. For Deutsche Bahn employees only."
+/%}}
+
 ### On-Site
 
 {{% booking id="sncb-ticket-office" /%}}

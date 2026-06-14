@@ -230,6 +230,12 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="pkp-ticket-office" /%}}

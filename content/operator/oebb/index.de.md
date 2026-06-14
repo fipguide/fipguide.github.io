@@ -254,6 +254,12 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 {{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}

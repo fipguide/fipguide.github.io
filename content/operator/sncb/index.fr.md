@@ -184,6 +184,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncb-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Belgique, avec part de billet uniquement pour la section belge. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="sncb-ticket-office" /%}}

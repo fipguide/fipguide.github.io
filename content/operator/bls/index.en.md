@@ -119,6 +119,14 @@ For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 {{% /booking %}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
+%}}
+For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
+{{% /booking %}}
+
 ### On-Site
 
 {{% booking id="bls-ticket-office"/%}}

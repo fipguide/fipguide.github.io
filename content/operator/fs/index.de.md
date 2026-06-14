@@ -294,6 +294,14 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen München und Italien können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
+%}}
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden. Für die `EC` im Brennerverkehr zwischen München und Italien kann dies ebenfalls gemacht werden. Beide haben jeweils keine Gültigkeit im deutschen Abschnitt.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="fs-ticket-machine" /%}}

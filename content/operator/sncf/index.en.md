@@ -222,6 +222,13 @@ Domestic journeys unfortunately cannot be purchased online.
     classes.second="€ 2 / € 11"
 /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
 ### On-Site
 
 {{% booking id="sncf-ticket-office" /%}}

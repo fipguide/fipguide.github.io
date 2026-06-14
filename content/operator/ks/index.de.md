@@ -63,6 +63,13 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="ks-ticket-machine"/%}}

@@ -26,32 +26,11 @@ aliases:
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="Carte de validité FIP vue d’ensemble pour la Tchéquie"
-caption="[Carte de validité FIP vue d’ensemble](/en/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 Sur certaines lignes et dans certaines régions, les avantages FIP ne sont pas valables, même si les trains sont exploités par ČD. Certaines lignes nécessitent également un supplément.
 
-Pour un premier aperçu, la carte de validité FIP pour la Tchéquie peut être consultée.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="Carte de validité FIP détaillée pour la Tchéquie"
-caption="[Carte de validité FIP détaillée](/en/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)"
-width="40%"
-position="left" >}}
-Pour des informations détaillées, la carte détaillée de validité FIP peut être consultée.
-
-Plus d’informations : [Services ČD sans FIP](#services-čd-sans-fip) et [Liaisons commerciales ČD (supplément obligatoire)](#liaisons-commerciales-čd-supplément-obligatoire)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Plus d’informations dans les [Conditions tarifaires spéciales](#conditions-tarifaires-spéciales) sur cette page.
+{{% /highlight %}}
 
 ## Catégories de trains et réservations
 
@@ -264,6 +243,12 @@ Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes 
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="cd-ticket-office" /%}}
@@ -278,11 +263,28 @@ Pour les billets ordinaires, les enfants jusqu’à 6 ans voyagent gratuitement 
 
 ## Conditions tarifaires spéciales
 
+Sur certaines lignes et dans certaines régions, les avantages FIP ne sont pas valables, même si les trains sont exploités par ČD. Certaines lignes nécessitent également un supplément.
+
+Pour un aperçu de la validité, la carte de vue d’ensemble peut être consultée ici. Des informations plus détaillées sont disponibles dans la carte détaillée et les règles spécifiques dans les sections suivantes sur les [Liaisons commerciales ČD (supplément obligatoire)](#liaisons-commerciales-čd-supplément-obligatoire) et les [Services ČD sans FIP](#services-čd-sans-fip).
+
+<div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
+  <figure style="flex:1; margin:0;">
+    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="Carte de validité FIP vue d’ensemble pour la Tchéquie" style="width:100%; height:auto; display:block;" />
+    <hr aria-hidden="true" />
+    <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Carte de validité FIP vue d’ensemble (vue complète)</a> pour la Tchéquie (© Petr Duda)</figcaption>
+  </figure>
+  <figure style="flex:1; margin:0;">
+    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="Carte de validité FIP détaillée pour la Tchéquie" style="width:100%; height:auto; display:block;" />
+    <hr aria-hidden="true" />
+    <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Carte de validité FIP détaillée (vue complète)</a> pour la Tchéquie (© Petr Duda)</figcaption>
+  </figure>
+</div>
+
 ### Liaisons commerciales ČD (supplément obligatoire)
 
 Sur les liaisons dites _commerciales_ de ČD, un supplément doit être acheté. Cela concerne généralement uniquement certains trains des catégories `SC`, `EC`, `IC` et `R`. [^3]
 
-Les [cartes de validité FIP pour la Tchéquie](#validité-des-billets-fip) peuvent servir d’orientation.
+Les [cartes de validité FIP pour la Tchéquie](#conditions-tarifaires-spéciales) peuvent servir d’orientation.
 
 Liaisons concernées en détail :
 
@@ -532,7 +534,7 @@ En principe, le FIP n’est pas valable dans les trains ČD exploités dans le c
 
 Pour les services attribués par des collectivités régionales (trains des catégories `SP` et `OS`), le FIP n’est pas du tout valable dans certaines régions.
 
-La [carte de validité FIP pour la Tchéquie](#validité-des-billets-fip) peut servir d’orientation.
+La [carte de validité FIP pour la Tchéquie](#conditions-tarifaires-spéciales) peut servir d’orientation.
 
 Régions concernées en détail :
 
