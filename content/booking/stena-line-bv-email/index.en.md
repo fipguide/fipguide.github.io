@@ -44,7 +44,7 @@ FIP 50 Tickets can be booked.
 
 Cabin reservations are available and mandatory for overnight journeys.
 
-{{% highlight warning %}}
+{{% highlight important %}}
 For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
 {{% /highlight %}}
 

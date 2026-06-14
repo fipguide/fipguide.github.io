@@ -44,8 +44,8 @@ FIP 50 Tickets können gebucht werden.
 
 Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
-{{% highlight warning %}}
-Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobal der FIP Freifahrtschein vorliegt.
+{{% highlight important %}}
+Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
 {{% /highlight %}}
 
 {{% /booking-section %}}
