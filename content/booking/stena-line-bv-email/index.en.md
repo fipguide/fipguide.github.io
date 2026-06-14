@@ -20,7 +20,7 @@ The email must contain the following information:
 - Cabin type (Standard, Superior or Deluxe)
 - Name of travellers as stated on their passports
 - Passport number and expiry date
-- **Only for FIP 50 Tickets:** Photo of FIP Card (front and back)
+- **Only for FIP 50 Tickets:** FIP Card
 - **Only for reservations with FIP Coupon:** Number of the Stena Line BV FIP Coupon to be used for the journey
 
 You will usually receive two reply emails from Stena Line. The first email confirms your booking request. The second email provides you with a payment option via pay per link. You will then need to enter your credit card details.

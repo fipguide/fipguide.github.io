@@ -23,7 +23,7 @@ The following details should be kept ready:
 - Cabin type (Standard, Superior or Deluxe)
 - Name of travellers as stated on their passports
 - Passport number and expiry date
-- **Only for FIP 50 Tickets:** Photo of FIP Card (front and back)
+- **Only for FIP 50 Tickets:** FIP Card
 - **Only for reservations with FIP Coupon:** Number of the Stena Line BV FIP Coupon to be used for the journey
 
 {{% booking-section "fip_50" %}}
