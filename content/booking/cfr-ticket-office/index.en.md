@@ -4,8 +4,8 @@ title: "CFR Călători Ticket Office"
 description: "Booking information for the CFR Călători Ticket Office."
 params:
   classes:
-    first: "RON 6,5 / RON 4,5"
-    second: "RON 6,5 / RON 4,5"
+    first: "RON 6.5 / RON 4.5"
+    second: "RON 6.5 / RON 4.5"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.cfrcalatori.ro/en/services-major-railstations/"
