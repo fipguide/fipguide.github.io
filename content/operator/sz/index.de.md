@@ -6,131 +6,152 @@ country:
 operator: "sz"
 ---
 
-SŽ Die Societatea Natională de Transport Feroviar de Călători “CFR Călători” S.A., kurz CFR Călători ist die staatliche Eisenbahngesellschaft von [Rumänien](/country/romania "Rumänien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem rumänischen Schienennetz.
+Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slowenien](/country/slovenia "Slowenien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem slowenischen Schienennetz.
 
 ## Zusammenfassung
 
-- FIP 50 und FIP Freifahrtscheine werden akzeptiert
-- Reservierungspflicht in den meisten Fernverkehrszügen sowie teilweise auch im Regionalverkehr
-- Eingeschränkte Buchungsmöglichkeit
+- FIP ermäßigte Tickets und FIP Freifahrtscheine werden akzeptiert
+- Reservierungen und/oder Aufschläge für viele Zugkategorien verpflichtend
+- Kein Online-Verkauf von FIP-Tickets
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CFR Călători gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SŽ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
+{{% highlight important %}}
+Die Zugkategorien werden bei der SŽ wie unten beschrieben in der Reiseauskunft angezeigt. In anderen Reiseauskünften weichen die Bezeichnungen dagegen teilweise deutlich ab. Regionalzüge werden beispielsweise oft einfach als `R` angegeben. Im Zweifel sollte die Zugnummer mit der Verbindungsauskunft der SŽ abgeglichen werden.
+{{% /highlight %}}
 
-Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genutzt. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
+{{% train-category
+    id="ics"
+    title="InterCity Slovenia (ICS)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+%}}
+
+Nationale Fernzüge, die mit dem [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) Zug gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzeren Reisezeiten und wenig Zwischenhalten aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
+
+
+#### Reservierung
+
+Beim `ÌCS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verpflichtend zu erwerben. Der Aufschlag kostet aktuell 3 € und muss sowohl bei FIP rabattierten Tickets als auch bei der Nutzung von Freifahrtscheinen gezahlt werden.[^1]
+{{% /train-category %}}
 
 {{% train-category
     id="ic"
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=false
+    reservation_possible=true
 %}}
-Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise höherem Komfort. Sie fahren hauptsächlich von Bukarest aus in die verschiedenen Richtungen des Landes.
-
-{{% highlight confusion %}}
-Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+Fernverkehrszüge, die mit wenigen Zwischenhalten größere Städte miteinander verbinden. Meistens verkehren sie nur innerhalb Slowenies, die internationalen Züge nach Budapest über Österreich werden jedoch ebenfalls zumindest auf Teilabschnitten als `IC` bezeichnet.
 
 #### Reservierung
 
-Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
-
-**Kosten für Reservierung:** 5 RON
+Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets ein Aufschlag von aktuell 1,50 € fällig. Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.[^1]
 {{% /train-category %}}
 
 {{% train-category
-    id="ir"
-    title="InterRegio (IR)"
+    id="ec"
+    title="EuroCity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Vergleichsweise schnelle internationale Fernzüge, die Slowenien mit Österreich oder Kroatien verbinden.
+
+#### Reservierung
+
+Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets ein Aufschlag von aktuell 1,50 € fällig. Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.[^1]
+{{% /train-category %}}
+
+{{% train-category
+    id="regional"
+    title="Mednarodni vlaki (MV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+Internationale Züge, die ohne Umweg über Österreich zwischen Slowenien und Ungarn verkehren. Sie verkehren mit wenig Zwischenhalten.
+
+#### Reservierung
+
+Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets ein Aufschlag von aktuell 1,50 € fällig, wenn nur innerhalb Sloweniens gefahren wird.[^2] Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.
+{{% /train-category %}}
+
+{{% train-category
+    id="en"
+    title="EuroNight (EN)"
     type="highspeed"
     fip_accepted=true
     reservation_required=true
 %}}
-Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Teilweise verkehren sie auch grenzüberschreitend, insbesondere nach Ungarn.
 
-{{% highlight confusion %}}
-Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+Internationale Nachtzüge nach Kroatien, Österreich und Deutschland. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
 
 #### Reservierung
 
-Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
+Für Euronight Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
 
-**Kosten für Reservierung:** 5 RON bei nationalen Relationen
+**Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
+
+Bei Fahrten ausschließlich im Inlandsverkehr von Slowenien wird ein Aufschlag von 1,50 € fällig für FIP rabattierte Tickets.[^2] Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.
 {{% /train-category %}}
 
 {{% train-category
-    id="irn"
-    title="InterRegio Noapte (IRN)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=true
-%}}
-Meist internationale Züge, die über Nacht verkehren. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `D` gekennzeichnet.
-
-Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
-
-{{% highlight confusion %}}
-Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
-
-#### Reservierung
-
-Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schlafplatz. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
-
-**Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
-
-Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
-{{% /train-category %}}
-
-{{% train-category
-    id="other"
-    title="Andere internationale Züge"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=partially
-%}}
-Internationale Züge nach Bulgarien, Moldau und der Ukraine verkehren ohne eigene Zugkategorie und haben lediglich eine Zugnummer.
-
-Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
-
-{{% highlight confusion %}}
-Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
-
-#### Reservierung
-
-Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindungsauskunft). Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
-
-**Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
-
-Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
-{{% /train-category %}}
-
-{{% train-category
-    id="r"
-    title="Regio (R)"
+    id="lpv"
+    title="Lokalni potniški vlaki (LP oder LPV)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
+    reservation_possible=false
 %}}
-Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedenen Züge auf einer Strecke oft kein festes Halteschema, d. h. die kleineren Halte werden nur von manchen `R` Zügen angefahren.
+Nationale Regionalzüge, die meist auch an kleineren Bahnhöfen halten.
+{{% /train-category %}}
 
-{{% highlight confusion %}}
-Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{% train-category
+    id="rg"
+    title="Regionalni (RG)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+Nationale Regionalzüge, genauso wie LP/LPV.
+{{% /train-category %}}
 
-#### Reservierung
+{{% train-category
+    id="MO"
+    title="Maloobmejnia (MO)"
+    type="regional"
+    fip_accepted=true
+    reservation_possible=false
+%}}
+Regionalzüge, die grenzüberschreitend verkehren.
+{{% /train-category %}}
 
-Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
+{{% train-category
+    id="AVT"
+    title="Avtovlak (AVT)"
+    type="highspeed"
+    fip_accepted=false
+%}}
+Autozüge, die durch den längsten Eisenbahntunnel Sloweniens (Bohinj Tunnel) verkehren. FIP ist hier nicht gültig.
+{{% /train-category %}}
 
-**Kosten für Reservierung:** 1 RON
+{{% train-category
+    id="bus"
+    title="Busse"
+    type="regional"
+    fip_accepted=false
+%}}
+Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schienenersatzverkehr.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -138,33 +159,43 @@ Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennz
 ### Online
 
 {{% booking id="db-website"
-    subtitle="Nur Sitzplätze für einzelne Züge von/nach Ungarn"
+    subtitle="Nur Sitzplatzreservierungen für einzelne Züge (keine ICS)"
 /%}}
 
 ### Vor Ort
 
-{{% booking id="cfr-ticket-office" /%}}
+{{% booking id="sz-ticket-office" /%}}
 
 ### Im Zug
 
-Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierungen müssen bereits vor Abfahrt vorhanden sein.
+Nationale FIP Tickets können auch im Zug erworben werden, dies gilt auch bei Einreise nach Slowenien mit einem Ticket, dass nur bis zur slowenischen Grenze Gültigkeit hat.[^1]
+Fahrgäste, die an Bahnhöfen mit Fahrkartenschalter zusteigen und nicht nachweisen können, dass sie dort kein Ticket kaufen konnten, müssen zusätzlich zum Fahrpreis ein Zuschlagsentgelt zahlen.[^2]
+
+Die Aufschläge für die Zugkategorien ICS, IC, MV, EC und EN können immer zum Festpreis hier noch erworben werden.[^2] Reservierungen sollten vor Abfahrt vorhanden sein.
+
+Es kann im Zug nur bar in Euro gezahlt werden.
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 10 Jahren erhalten eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
+Für reguläre Fahrkarten reisen Kinder unter 6 Jahren kostenlos. Kinder unter 12 Jahren erhalten unabhängig von FIP eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
 
 ## Tarifliche Besonderheiten
 
 ### Fahrtunterbrechungen
 
-Eine Reiseunterbrechung ist bei FIP 50 Tickets nur einmal und für maximal 24 Stunden ab Ankunft am Bahnhof, an dem die Reise unterbrochen wird, zulässig. Die Fahrkarte muss dafür innerhalb einer Stunde nach Ankunft abgestempelt werden.[^1]
+Eine Reiseunterbrechung ist jederzeit innerhalb des Gültigkeitszeitraums des Tickets möglich.[^1]
+
+### Ersatzverkehr
+
+FIP-Fahrkarten gelten auch auf von der SŽ betriebenen Schienenersatzverkehren (Busse).
 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die CFR Călători stellt auf dem größtenteils in die Jahre gekommenen Schienennetz von Rumänien ein solides Grundangebot, insbesondere auf den Hauptachsen, sicher. Bis auf die Reservierungspflicht auf den meisten Verbindungen kann hier mit FIP relativ einfach das Land bereist werden. Besonderes Highlight sind dabei auch die internationalen Züge in Richtung Westeuropa sowie die bekannten Züge Richtung Moldau und Türkei, auch wenn die letzteren nicht auf dem kompletten Abschnitt mit FIP genutzt werden können.
+Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr und am Wochenende verkehren deutlich weniger Züge als unter der Woche. Daher ist gute Planung wichtig. Dafür wurden in den letzten Jahren die Verbindungen nach Österreich deutlich ausgebaut, während nach Italien und Ungarn dafür sehr wenig Züge verkehren und nach Kroatien ein solides Grundangebot vorhanden ist. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich, ein paar Kenntnisse in der Landessprache kann aber gerade auf der Fahrt in Regionalzügen hilfreich sein. 
 {{% /highlight %}}
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782292-slovenia.html)
+[^2]: [SŽ Aufschlagsauskunft](https://potniski.sz.si/en/tickets/supplements-to-the-ticket-price/)
