@@ -7,7 +7,7 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
-  mail_templates:
+  email_templates:
     fip_50:
       to: "info.cherbourg@stenaline.com"
       subject: "FIP 50 Ticket booking request"
@@ -28,7 +28,7 @@ params:
           Passenger 2:
             Name: [Name (as in passport)]
             Date of birth: [Date of birth]
-          [... Add or remove passengers if needed]
+          [... Reisende bei Bedarf hinzufügen oder entfernen]
         Additional information: [Zusätzliche Angaben]
 
         Thank you in advance.
@@ -56,7 +56,7 @@ params:
           Passenger 2:
             Name: [Name (as in passport)]
             Date of birth: [Date of birth]
-          [... Add or remove passengers if needed]
+          [... Reisende bei Bedarf hinzufügen oder entfernen]
         Additional information: [Zusätzliche Angaben]
 
         Thank you in advance.

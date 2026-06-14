@@ -6,7 +6,7 @@ params:
   fip_50: true
   reservations: false
   type: "email"
-  mail_templates:
+  email_templates:
     fip_50:
       to: "helpdesk@attica-group.com"
       subject: "FIP 50 Ticket booking request"
@@ -21,7 +21,7 @@ params:
             Name: [Name (as in passport)]
           Passenger 2:
             Name: [Name (as in passport)]
-          [... Add or remove passengers if needed]
+          [... Ajouter ou supprimer des voyageurs si nécessaire]
 
         [Joindre le formulaire de réservation FIP complété]
 

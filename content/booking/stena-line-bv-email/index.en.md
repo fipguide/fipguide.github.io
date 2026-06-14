@@ -7,7 +7,7 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
-  mail_templates:
+  email_templates:
     fip_50:
       to: "contact.nl@stenaline.com"
       subject: "FIP 50 Ticket booking request"
@@ -19,6 +19,7 @@ params:
 
         Travel date: [Travel date]
         Travel time: [Travel time]
+        Travel direction: [Travel direction (Harwich -> Hoek van Holland or Hoek van Holland -> Harwich)]
         Number of passengers: [Number of passengers]
         Cabin type: [Cabin type (Standard, Superior or Deluxe)]
         Passengers:
@@ -52,6 +53,7 @@ params:
 
         Travel date: [Travel date]
         Travel time: [Travel time]
+        Travel direction: [Travel direction (Harwich -> Hoek van Holland or Hoek van Holland -> Harwich)]
         Number of passengers: [Number of passengers]
         Cabin type: [Cabin type (Standard, Superior or Deluxe)]
         Passengers:

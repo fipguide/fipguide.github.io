@@ -9,7 +9,22 @@ params:
   fip_75: true
   type: "email"
   fee: £ 10
-  mail_templates:
+  email_templates:
+    fip_global_fare:
+      to: "uktravel@bookmyrst.co.uk"
+      subject: "FIP Global Fare booking request"
+      body: |-
+        Hello,
+
+        I would like to request an offer for a FIP Global Fare ticket.
+
+        Travel date: [Travel date]
+        Preferred departure time: [Preferred departure time]
+        Departure station: [Departure station]
+        Destination station: [Destination station]
+        Travel direction: [Travel direction]
+        Number of passengers: [Number of passengers]
+
     fip_50:
       to: "uktravel@bookmyrst.co.uk"
       subject: "FIP 50 Ticket booking request"
@@ -22,6 +37,7 @@ params:
         Preferred departure time: [Preferred departure time]
         Departure station: [Departure station]
         Destination station: [Destination station]
+        Travel direction: [Travel direction]
         Number of passengers: [Number of passengers]
         Passengers:
           Passenger 1:

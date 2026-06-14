@@ -7,7 +7,7 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
-  mail_templates:
+  email_templates:
     fip_50:
       to: "contact.nl@stenaline.com"
       subject: "FIP 50 Ticket booking request"
@@ -19,6 +19,7 @@ params:
 
         Travel date: [Reisedatum]
         Travel time: [Uhrzeit]
+        Travel direction: [Fahrtrichtung (Harwich -> Hoek van Holland oder Hoek van Holland -> Harwich)]
         Number of passengers: [Anzahl Reisende]
         Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
         Passengers:
@@ -30,7 +31,7 @@ params:
             Name: [Name (as in passport)]
             Date of birth: [Date of birth]
             Passport number and expiry date: [Passport number and expiry date]
-          [... Add or remove passengers if needed]
+          [... Reisende bei Bedarf hinzufügen oder entfernen]
         Additional information: [Zusätzliche Informationen]
 
         Copy/copies of the FIP Card(s) (front and back) for all travelers are attached.
@@ -52,6 +53,7 @@ params:
 
         Travel date: [Reisedatum]
         Travel time: [Uhrzeit]
+        Travel direction: [Fahrtrichtung (Harwich -> Hoek van Holland oder Hoek van Holland -> Harwich)]
         Number of passengers: [Anzahl Reisende]
         Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
         Passengers:
@@ -63,7 +65,7 @@ params:
             Name: [Name (as in passport)]
             Date of birth: [Date of birth]
             Passport number and expiry date: [Passport number and expiry date]
-          [... Add or remove passengers if needed]
+          [... Reisende bei Bedarf hinzufügen oder entfernen]
         FIP Coupon number(s): [Nummer(n) des Stena Line BV FIP Freifahrtscheins, der/die bei der Fahrt genutzt werden soll(en)]
         Additional information: [Zusätzliche Informationen]
 

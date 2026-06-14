@@ -7,19 +7,20 @@ params:
   fip_50: true
   fip_global_fare: true
   type: "email"
-  mail_templates:
-    fip_50:
+  email_templates:
+    fip_global_fare:
       to: "rail@ffestiniogtravel.co.uk"
-      subject: "FIP 50 Ticket booking request"
+      subject: "FIP Global Fare booking request"
       body: |-
         Hello,
 
-        I would like to request an offer for a FIP 50 Ticket.
+        I would like to request an offer for a FIP Global Fare ticket.
 
         Travel date: [Travel date]
         Preferred departure time: [Preferred departure time]
         Departure station: [Departure station]
         Destination station: [Destination station]
+        Travel direction: [Travel direction]
         Number of passengers: [Number of passengers]
         Passengers:
           Passenger 1:

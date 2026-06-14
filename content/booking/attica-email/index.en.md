@@ -6,7 +6,7 @@ params:
   fip_50: true
   reservations: false
   type: "email"
-  mail_templates:
+  email_templates:
     fip_50:
       to: "helpdesk@attica-group.com"
       subject: "FIP 50 Ticket booking request"

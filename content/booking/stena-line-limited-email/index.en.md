@@ -7,7 +7,7 @@ params:
   fip_global_fare: nil
   reservations: true
   type: "email"
-  mail_templates:
+  email_templates:
     fip_50:
       to: "info.cherbourg@stenaline.com"
       subject: "FIP 50 Ticket booking request"
