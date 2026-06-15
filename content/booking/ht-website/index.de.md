@@ -8,7 +8,7 @@ params:
     second: "kostenlos"
   fip_50: true
   fip_global_fare: false
-  reservations: false
+  reservations: true
   booking_link: "https://newtickets.hellenictrain.gr/"
   type: "website"
 ---
@@ -65,6 +65,18 @@ Der reguläre Ticketpreis wird dann um 50 % reduziert.
 Bei reservierungspflichtigen Angeboten wird eine Reservierung kostenfrei hinzugefügt. Optional kann der Sitzplatz ausgewählt werden, wenn die Option "Choose seat" ausgewählt wird.
 
 {{% /float-image %}}
+
+{{% highlight inofficial %}}
+Beim Kauf eines Tickets über die Hellenic Train-App kann folgende Meldung erscheinen:
+
+_„Der Kauf wurde erfolgreich abgeschlossen, jedoch ist beim Versand der E-Mail ein Fehler aufgetreten. Sie können Ihr Ticket abrufen, indem Sie Ihren Kundenbereich aufrufen oder – falls Sie den Kauf ohne Anmeldung getätigt haben – über die Funktion ‚Ticket abrufen‘ unter Verwendung von PNR/Ticketcode und E-Mail-Adresse bzw. PNR und CP.“_
+
+Dieser Fehler tritt unabhängig davon auf, ob der Nutzer angemeldet ist oder nicht – in beiden Fällen wird keine Bestätigungs-E-Mail zugestellt. Im angemeldeten Zustand erscheint das Ticket zwar weiterhin unter „Meine Reisen“ in der App, es werden jedoch weder PNR noch Wiederherstellungscode angezeigt. Erfolgt der Kauf ohne Benutzerkonto, gilt das Ticket faktisch als verloren.
+
+Zur Lösung dieses Problems gibt es ein inoffizelles Tool, welches die Ticketinformationen anzeigt. Es ist auf GitHub verfügbar unter:
+
+https://github.com/MartinLangbecker/bookmarklets/tree/main/hellenic_train
+{{% /highlight %}}
 
 {{% /booking-section %}}
 

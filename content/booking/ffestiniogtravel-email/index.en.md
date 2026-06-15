@@ -22,7 +22,7 @@ On request, staff create a suitable offer for the journey:
 
 ## FIP Global Fare
 
-Eurostar tickets can be purchased via Ffestiniog Travel. A booking fee of £5 applies.
+Eurostar tickets can be purchased via Ffestiniog Travel.
 
 {{% /booking-section %}}
 

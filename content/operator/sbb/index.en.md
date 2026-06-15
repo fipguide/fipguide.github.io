@@ -177,7 +177,13 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan rou
 
 {{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
 
-### On Site
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
+%}}
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
+{{% /booking %}}
+
+### On-Site
 
 {{% booking id="sbb-ticket-office"/%}}
 

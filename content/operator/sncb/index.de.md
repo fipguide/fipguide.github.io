@@ -183,9 +183,17 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncb-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien, mit Ticketanteil nur für den belgischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="sncb-ticket-office" /%}}
+
+{{% booking id="sncb-ticket-machine"
+    subtitle="Nur für nationale Verbindungen"
+/%}}
 
 {{% booking id="db-ticket-office" /%}}
 
@@ -195,8 +203,6 @@ Nationale Verbindungen können online leider nicht erworben werden.
 Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das betrifft auch FIP reduzierte Tickets. Alle Reisenden müssen vor dem Einsteigen ein gültiges Ticket besitzen. [^5]<sup>, </sup>[^6]
 {{% /highlight %}}
 
-FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet, da die Tickets nicht an Ticketautomaten verfügbar sind. [^2]<sup>, </sup>[^4]
-
 ## Ermäßigungen
 
 Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 / FIP 75 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
@@ -205,23 +211,15 @@ Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Perso
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen. [^1]
-
-## Empfehlungen
-
-{{% highlight tip %}}
-Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets benutzt. Auch ist die 1. Klasse meist nicht viel komfortabler als die 2. Klasse. Anders als in anderen Ländern lohnt sich daher ein Kauf von 1. Klasse Tickets, um hier mehr Platz und Ruhe zu haben, nur bedingt.
-{{% /highlight %}}
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. [^1] Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen, sofern das Ticket nicht am Fahrkartenautomaten erworben wurde. [^2]
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [FIP Guide Community: SNCB Flughafenzuschlag am Fahrkartenautomaten](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
 [^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)
-
-[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
 
 [^5]: [SNCB -- Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)
 

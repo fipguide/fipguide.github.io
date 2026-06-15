@@ -122,7 +122,7 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 {{% booking id="mav-website" /%}}
 
-### Phone
+### Telephone
 
 {{% booking id="oebb-phone" reservations=nil /%}}
 
@@ -134,7 +134,7 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 {{% booking id="oebb-ticket-office" reservations=nil /%}}
 
-### On the train
+### On the Train
 
 Tickets with FIP discount cannot be purchased on board. [^1]
 

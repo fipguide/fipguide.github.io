@@ -109,7 +109,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 | En France Peak     | 16 €       | 11 €      |
 | International      | 40 €       | 20 €      |
 
-Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 / FIP 75 pour le trajet à l'intérieur de la France. Cependant, l'utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
+Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, la DB ne vend pas de Billets FIP 50 / FIP 75 pour le trajet à l’intérieur de la France. Cependant, l’utilisation avec un Coupon FIP et une réservation SNCF est possible. [^5]
 
 {{% /train-category %}}
 
@@ -222,6 +222,13 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 {{% booking id="ns-phone"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="db-phone-fip-db"
+  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+  reservations="nil"
+  classes.first="nil"
+  classes.second="nil"
 /%}}
 
 ### En gare
@@ -361,7 +368,7 @@ Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont vala
 
 Attention : pour les trajets entre Gare du Nord et Châtelet – Les Halles, seule la ligne RER D exploitée par la SNCF est valable. Les réductions FIP ne sont pas valables sur la ligne RER B exploitée par la RATP sur le même tronçon.
 
-L'accès à certaines gares est limité par des portillons. Lors de l'utilisation de Coupons FIP, un pass d'accès temporaire est nécessaire, voir [Portillons](#portillons).
+L’accès à certaines gares est limité par des portillons. Lors de l’utilisation de Coupons FIP, un pass d’accès temporaire est nécessaire, voir [Portillons](#portillons).
 {{% /train-category %}}
 
 {{% train-category
@@ -373,7 +380,7 @@ L'accès à certaines gares est limité par des portillons. Lors de l'utilisatio
 %}}
 Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N, P, R, U et V.
 
-L'accès à certaines gares est limité par des portillons. Lors de l'utilisation de Coupons FIP, un pass d'accès temporaire est nécessaire, voir [Portillons](#portillons).
+L’accès à certaines gares est limité par des portillons. Lors de l’utilisation de Coupons FIP, un pass d’accès temporaire est nécessaire, voir [Portillons](#portillons).
 {{% /train-category %}}
 
 {{% train-category
@@ -399,14 +406,14 @@ Les Billets FIP à tarif réduit pour `RER` et Transilien peuvent être achetés
 {{% /float-image %}}
 
 {{% highlight important %}}
-De nombreuses gares équipées de portillons ne sont pas surveillées par du personnel. Il existe des interphones d'assistance, mais ils fonctionnent de manière peu fiable. Sans la _Contremarque de Passage_ (carte d'accès temporaire), il n'est donc souvent pas possible d'accéder aux gares.
+De nombreuses gares équipées de portillons ne sont pas surveillées par du personnel. Il existe des interphones d’assistance, mais ils fonctionnent de manière peu fiable. Sans la _Contremarque de Passage_ (carte d’accès temporaire), il n’est donc souvent pas possible d’accéder aux gares.
 {{% /highlight %}}
 
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-## Recommandation
+## Recommandations
 
 {{% highlight tip %}}
 La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent acheter des réservations. Il est conseillé de planifier les voyages quelques jours à l’avance, car les trains peuvent être complets. La SNCF est cependant réputée pour ses liaisons rapides au départ de Paris, par exemple le trajet de 406 km entre Paris et Strasbourg ne prend qu’environ 1 h 45.

@@ -147,7 +147,7 @@ The Celta is an international cooperation service between CP and Renfe from Port
 
 ## Ticket and Reservation Purchase
 
-### On-site
+### On-Site
 
 {{% booking id="cp-ticket-office" /%}}
 

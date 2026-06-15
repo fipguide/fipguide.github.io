@@ -221,6 +221,13 @@ Nationale Verbindungen können online leider nicht erworben werden.
     classes.second="2 € / 11 €"
 /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
 ### Vor Ort
 
 {{% booking id="sncf-ticket-office" /%}}
