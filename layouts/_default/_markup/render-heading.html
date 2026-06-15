@@ -2,7 +2,11 @@
 {{- with index .Attributes "prefix" -}}
   {{- $id = print . ":" $id -}}
 {{- end -}}
-{{- $heading := print `<h` .Level ` id="` $id `">` .Text `</h` .Level `>` -}}
+{{- $attributes := print `id="` $id `"` -}}
+{{- with index .Attributes "data-pagefind-ignore" -}}
+  {{- $attributes = print $attributes ` data-pagefind-ignore="` . `"` -}}
+{{- end -}}
+{{- $heading := print `<h` .Level ` ` $attributes `>` .Text `</h` .Level `>` -}}
 {{- if eq .Level 2 -}}
   {{- partial "intersector" -}}
   <span class="a-anchorlink">
