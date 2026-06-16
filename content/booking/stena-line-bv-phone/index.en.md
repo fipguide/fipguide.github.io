@@ -16,7 +16,15 @@ An individual offer can be requested and booked by telephone: [+44 3447 707070](
 
 Booking is only possible in English.
 A spelling alphabet can help when providing names and other details.
-Travel dates, passport, and FIP Card should be kept ready.
+The following details should be kept ready:
+
+- Travel date and time
+- Date of birth
+- Cabin type (Standard, Superior or Deluxe)
+- Name of travellers as stated on their passports
+- Passport number and expiry date
+- **Only for FIP 50 Tickets:** FIP Card
+- **Only for reservations with FIP Coupon:** Number of the Stena Line BV FIP Coupon to be used for the journey
 
 {{% booking-section "fip_50" %}}
 
@@ -31,6 +39,10 @@ FIP 50 Tickets can be booked.
 ## Reservations
 
 Cabin reservations are available and mandatory for overnight journeys.
+
+{{% highlight important %}}
+For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
+{{% /highlight %}}
 
 {{% /booking-section %}}
 
