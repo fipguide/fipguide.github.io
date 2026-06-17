@@ -568,8 +568,6 @@ Regular child tickets may be cheaper than tickets with FIP discount.
 
 The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The ferry from Kingswear to Dartmouth is included in the price. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
 
-The discount is 75% off the regular adult fare.
-
 {{% /train-category %}}
 
 {{% train-category
