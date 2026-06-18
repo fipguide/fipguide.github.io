@@ -570,8 +570,6 @@ Reguläre Tickets für Kinder können günstiger sein als Tickets mit FIP-Rabatt
 
 Die Dartmouth Steam Railway and River Boat Company betreibt Fahrten mit Dampflokomotiven und historischen Wagen zwischen Paignton und Kingswear entlang der malerischen englischen Riviera. Die Strecke bietet beeindruckende Ausblicke auf die Küste von Devon und den River Dart. Neben dem Zug ist hier auch die Fähre von Kingswear nach Dartmouth mit im Preis inbegriffen. Der nächstgelegene National Rail Bahnhof ist Paignton – von dort sind es nur etwa 1 Minute Fußweg zum Bahnhof der Museumsbahn.
 
-Der Rabatt beträgt 75% auf den regulären Fahrpreis für Erwachsene.
-
 {{% /train-category %}}
 
 {{% train-category
