@@ -104,6 +104,25 @@ Some trains require reservations. The reservation requirement can be checked in 
 {{% /train-category %}}
 
 {{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+The IC Nieśpieszny is a retro-style experience train operated by PKP Intercity, with a focus on consciously relaxed and slow travel in historic restored coaches.
+
+Neither FIP Coupons nor FIP 50 Tickets are valid on this train.
+
+#### Reservations
+
+Reservation is required.
+
+{{% /train-category %}}
+
+{{% train-category
     id="tlk"
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
