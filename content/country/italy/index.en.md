@@ -78,12 +78,12 @@ Cross-border regional trains of SNCF can be used from Grasse/Cannes/Nice via Mon
 
 ### Switzerland
 
-From Switzerland, both cross-border long-distance and regional trains can be used to travel to Italy. Milan can be reached via Como or Domodossola from the Swiss network. Trains via Como usually come from Zurich, those via Domodossola from Bern and Basel. Both routes have Eurocity connections and regional trains. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a reservation is required, which includes a surcharge. The `ECE` train Frankfurt – Milan and the `EC` trains Zurich – Milan also operate.
+From Switzerland, both cross-border long-distance and regional trains can be used to travel to Italy. Milan can be reached via Como or Domodossola from the Swiss network. Trains via Como usually come from Zurich, those via Domodossola from Bern and Basel. Both routes have Eurocity connections and regional trains. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a surcharge and reservation are required. The `ECE` train Frankfurt - Milan and the `EC` trains Zurich - Milan also operate.
 
-The surcharge or reservation price for cross-border `EC`/`ECE` trains to Italy is €20 (1st/2nd class). If booked at a DB travel center, the reservation/surcharge is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+The surcharge for cross-border `EC`/`ECE` trains to Italy is €20 (1st/2nd class). If booked at a DB travel center, the surcharge is only €11 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 
 {{% highlight tip %}}
-For the Milan – Como – Switzerland route, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates on this route and does not accept FIP Tickets or FIP Coupons. However, tickets are bookable online on the Trenord website and are comparatively cheap, unlike the required cross-border reservation in Eurocity trains. Changing trains in Chiasso can therefore be a much more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
+For the Milan – Como – Switzerland route, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates on this route and does not accept FIP Tickets or FIP Coupons. However, tickets are bookable online on the Trenord website and are comparatively cheap, unlike the required cross-border reservation in Eurocity trains. Changing trains in Chiasso can therefore be a more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
 {{% /highlight %}}
 
 ### Vatican City
