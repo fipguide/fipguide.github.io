@@ -11,7 +11,7 @@ operator:
 
 The Dartmouth Steam Railway and River Boat Company in Great Britain no longer grants any FIP discount. Previously, a 75% discount on the regular adult fare was granted when the FIP Card was presented on site. [^1]
 
-The Dartmouth Steam Railway and River Boat Company operates heritage train journeys between Paignton and Kingswear on the English Riviera. The ferry from Kingswear to Dartmouth is also included in the price.
+The Dartmouth Steam Railway and River Boat Company operates heritage train journeys between Paignton and Kingswear on the English Riviera.
 
 The information on the [National Rail](/operator/gb) page has been updated accordingly.
 
