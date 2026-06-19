@@ -11,7 +11,7 @@ operator:
 
 Bei der Dartmouth Steam Railway and River Boat Company in Großbritannien wird keine FIP Vergünstigung mehr gewährt. Zuvor wurde auf den regulären Fahrpreis für Erwachsene ein Rabatt von 75% eingeräumt, wenn der FIP Ausweis vor Ort vorgezeigt wurde. [^1]
 
-Die Dartmouth Steam Railway and River Boat Company betreibt Museumszugfahrten zwischen Paignton und Kingswear an der englischen Riviera. Im Preis ist auch die Fähre von Kingswear nach Dartmouth enthalten.
+Die Dartmouth Steam Railway and River Boat Company betreibt Museumszugfahrten zwischen Paignton und Kingswear an der englischen Riviera.
 
 Die Informationen auf der [National Rail](/operator/gb) Seite wurden entsprechend angepasst.
 
