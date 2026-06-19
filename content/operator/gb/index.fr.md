@@ -569,9 +569,7 @@ Les billets enfants réguliers peuvent être moins chers que les billets avec r�
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
 
-La Dartmouth Steam Railway and River Boat Company propose des trajets en locomotive à vapeur et voitures historiques entre Paignton et Kingswear le long de la pittoresque Riviera anglaise. La ligne offre de superbes vues sur la côte du Devon et la rivière Dart. Le ferry de Kingswear à Dartmouth est inclus dans le prix. La gare National Rail la plus proche est Paignton – à seulement 1 minute à pied de la gare de la ligne historique.
-
-La réduction est de 75 % sur le tarif adulte régulier.
+La Dartmouth Steam Railway and River Boat Company propose des trajets en locomotive à vapeur et voitures historiques entre Paignton et Kingswear le long de la pittoresque Riviera anglaise. La ligne offre de superbes vues sur la côte du Devon et la rivière Dart. La gare National Rail la plus proche est Paignton – à seulement 1 minute à pied de la gare de la ligne historique.
 
 {{% /train-category %}}
 
