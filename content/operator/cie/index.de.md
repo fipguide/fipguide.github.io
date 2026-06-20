@@ -132,7 +132,11 @@ Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 % Ermäßigung auf den Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^2]
+Kinder bis einschließlich 4 Jahre fahren kostenlos, wenn sie von einem Erwachsenen begleitet werden. Sie dürfen keine Plätze einnehmen, die für andere Fahrgäste benötigt werden. Für reservierungspflichtige Züge kann ein Sitzplatz für ein Kind bis einschließlich 4 Jahre gebucht werden, indem die Option „Free Travel Pass or Valid Ticket“ im Reiseplaner ausgewählt wird.[^3]
+
+Jugendliche zwischen 6 und 19 Jahren können ein "Child Ticket" nutzen. Personen von 19 bis 25 Jahren können ein Young Adult/Student-Ticket nutzen, wenn sie im Besitz einer [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch) sind.[^4]
+
+Generell sollte verglichen werden, ob der FIP-Erwachsenentarif oder ein "Child Ticket" / "Young Adult/Student-Ticket" günstiger sind.
 
 ## Tarifliche Besonderheiten
 
@@ -145,3 +149,7 @@ Fahrtunterbrechungen sind mit FIP-Tickets erlaubt, müssen jedoch im Bahnhof, in
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
+
+[^3]: [Irish Rail – Altersanforderungen für Kindertickets](https://www.irishrail.ie/en-ie/faqs/what-are-the-age-requirements-for-child-tickets)
+
+[^4]: [Irish Rail – Rail Tickets Explained](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/tickets-explained)

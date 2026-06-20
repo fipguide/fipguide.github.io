@@ -121,7 +121,7 @@ Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le dé
 
 ## Réductions
 
-Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement. Sur les trajets nationaux, les enfants de moins de 10 ans, et sur les trajets internationaux, les enfants de moins de 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le tarif adulte complet.
+Les enfants jusqu’à 6 ans inclus voyagent gratuitement. À partir de 7 ans, le tarif adulte FIP normal s’applique.[^2]
 
 ## Conditions tarifaires spéciales
 
@@ -142,3 +142,5 @@ La BDŽ propose encore une offre relativement large sur un réseau vieillissant.
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)

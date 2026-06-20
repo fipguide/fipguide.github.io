@@ -144,8 +144,7 @@ subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemar
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren reisen kostenlos. \
-Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
+Zwei Kinder bis einschließlich 11 Jahre reisen kostenlos, wenn sie von einem Erwachsenen mit gültigem Ticket begleitet werden.[^3]
 
 ## Tarifliche Besonderheiten
 
@@ -178,3 +177,5 @@ Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohn
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Dänemark mit dem Zug erkunden](https://www.dsb.dk/en/explore-denmark-by-train/)

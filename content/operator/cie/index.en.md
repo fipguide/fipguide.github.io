@@ -132,7 +132,11 @@ Upgrades from 2nd class to Premier Class can be purchased on the train if no tic
 
 ## Discounts
 
-Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^2]
+Children up to and including 4 years of age travel free of charge when accompanied by an adult. They must not occupy seats required for other passengers. To book a seat on reservable trains for a child up to and including 4 years of age, select the "Free Travel Pass or Valid Ticket" option on the journey planner.[^3]
+
+Children between 6 and 19 years of age can use a "Child Ticket". Persons aged 19 to 25 can use a Young Adult/Student ticket if they hold a [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch).[^4]
+
+In general, it should be compared whether the FIP adult fare or a "Child Ticket" / "Young Adult/Student Ticket" is cheaper.
 
 ## Special Tariff Conditions
 
@@ -145,3 +149,7 @@ Break of journey is permitted with FIP tickets, but must be documented with a no
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
+
+[^3]: [Irish Rail – Child Ticket Age Requirements](https://www.irishrail.ie/en-ie/faqs/what-are-the-age-requirements-for-child-tickets)
+
+[^4]: [Irish Rail – Rail Tickets Explained](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/tickets-explained)

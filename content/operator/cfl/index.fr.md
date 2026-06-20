@@ -131,8 +131,11 @@ Les billets pour voyager en première classe ou pour un surclassement de la deux
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement, les enfants de 6 à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique.[^1]
-En deuxième classe, le voyage est généralement gratuit, ceci ne concerne donc que la première classe.
+En deuxième classe, le voyage est généralement gratuit.
+
+Les enfants de moins de 12 ans bénéficient du transport gratuit en 1ᵉ classe lorsqu’ils sont accompagnés par une personne titulaire d’un billet valable pour la 1ᵉ classe. Le transport gratuit est limité à deux enfants dans ce cas. À partir de 12 ans, le tarif adulte FIP normal s’applique en 1ᵉ classe.[^3]
+
+Les enfants n’ayant pas encore atteint l’âge de 4 ans doivent être accompagnés par une personne âgée d’au moins 12 ans.[^3]
 
 ### Conditions tarifaires spéciales
 
@@ -151,3 +154,5 @@ Nous n’avons pas d’informations officielles concernant la validité des réd
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
+
+[^3]: [CFL – Enfants et jeunes](https://www.cfl.lu/fr-fr/customerservices/detail/enfants-et-jeunes)

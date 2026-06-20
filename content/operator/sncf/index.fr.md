@@ -256,7 +256,7 @@ Les Billets FIP ne peuvent pas être achetés à bord.
 
 ## Réductions
 
-Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratuitement. Les enfants jusqu’à 12 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique.
+Les enfants jusqu’à 4 ans inclus voyagent gratuitement. À partir de 5 ans, le tarif adulte FIP normal s’applique.
 
 ## Conditions tarifaires spéciales
 

@@ -259,7 +259,7 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. Kinder bis 18 Jahre erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 18 Jahren zahlen den vollen Erwachsenentarif.
+Kinder bis einschließlich 5 Jahre reisen in der 2. Klasse kostenlos. Kinder zwischen 6 und 18 Jahren erhalten 50% Ermäßigung auf den regulären Erwachsenentarif in der 2. Klasse, der bei Zügen, die mit FIP aufpreispflichtig ist, gültig als der FIP 50 Tarif sein kann. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^3]
 
 ## Tarifliche Besonderheiten
 
@@ -701,6 +701,8 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^3]: [ČD – Inlandsfahrkarten](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28762/)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 
