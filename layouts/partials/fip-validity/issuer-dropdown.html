@@ -9,6 +9,7 @@
     aria-controls="{{ $id }}-dropdown"
     data-fip-validity-button
     title="{{ T "fipValidity.selectIssuer" }}"
+    style="anchor-name: --{{ $id }}-dropdown"
   >
     <span data-fip-validity-logo></span>
     <span
@@ -26,6 +27,7 @@
     class="o-dropdown__menu o-dropdown__menu--below"
     role="listbox"
     aria-hidden="true"
+    style="position-anchor: --{{ $id }}-dropdown"
   >
     {{- range .issuers -}}
       {{- $slug := .File.ContentBaseName -}}

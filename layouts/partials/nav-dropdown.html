@@ -14,6 +14,7 @@
     aria-controls="{{ $id }}-dropdown"
     title="{{ T (printf "%s.title" $key) }}"
     aria-label="{{ T (printf "%s.aria-label" $key) }}"
+    style="anchor-name: --{{ $id }}"
   >
     <span>{{ T (printf "%s.label" $key) }}</span>
     <div class="o-dropdown__icon">
@@ -28,6 +29,7 @@
     role="listbox"
     aria-hidden="true"
     aria-label="{{ T (printf "%s.dropdown-label" $key) }}"
+    style="position-anchor: --{{ $id }}"
   >
     {{ range $items }}
       {{- $prefix := "" -}}
