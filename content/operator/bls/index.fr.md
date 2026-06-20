@@ -139,7 +139,7 @@ L’achat de billets FIP dans le train n’est pas possible. Des frais de pénal
 
 ## Réductions
 
-Pour les trajets réguliers, les enfants jusqu’à 5 ans inclus voyagent gratuitement. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.[^1]
+Les enfants jusqu’à 5 ans inclus voyagent gratuitement. À partir de 6 ans, le tarif adulte FIP normal s’applique.[^1]
 
 En outre, il est possible d’acheter une _Carte Junior_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des points de vente des transports publics en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
 

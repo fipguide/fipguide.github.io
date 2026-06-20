@@ -158,7 +158,7 @@ Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 50%. Ab 12 Jahren wird der volle Preis berechnet. [^1]
+Kinder bis einschließlich 3 Jahre reisen kostenlos ohne eigenen Sitzplatz. Ab 4 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
 
 ## Tarifliche Besonderheiten
 

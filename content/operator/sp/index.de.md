@@ -871,9 +871,9 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Kinder reisen bis einschließlich 5 Jahre kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.
+Kinder bis einschließlich 5 Jahre reisen kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.
 
-Zusätzlich gibt es die Möglichkeit eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahren zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+Zusätzlich gibt es die Möglichkeit eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahre zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
 
 Alternativ bietet die _Kinder-Tageskarte_ für 19 CHF (2. Klasse) bzw. 33 CHF (1. Klasse) Kindern von 6 bis unter 16 Jahren einen Tag lang unbeschränkte Fahrt im öffentlichen Verkehr. Siehe SBB Website: [Kinder-Tageskarte](https://www.sbb.ch/de/angebote/kinder-tageskarte).
 

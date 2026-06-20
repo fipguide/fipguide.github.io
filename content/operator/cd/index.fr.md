@@ -259,7 +259,7 @@ Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le dé
 
 ## Réductions
 
-Pour les billets ordinaires, les enfants jusqu’à 6 ans voyagent gratuitement en 2ᵉ classe. Les enfants jusqu’à 18 ans bénéficient de 50% de réduction sur le tarif adulte. À partir de 18 ans, le tarif adulte complet s’applique.
+Les enfants jusqu’à 5 ans inclus voyagent gratuitement en 2ᵉ classe. Les enfants entre 6 et 18 ans bénéficient d’une réduction de 50 % sur le tarif adulte régulier en 2ᵉ classe, qui pour les trains avec supplément FIP peut être équivalent au tarif FIP 50. À partir de 6 ans, le tarif adulte FIP normal s’applique.[^3]
 
 ## Conditions tarifaires spéciales
 
@@ -701,6 +701,8 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^3]: [ČD – Billets nationaux](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28762/)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

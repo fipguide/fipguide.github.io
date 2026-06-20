@@ -266,7 +266,7 @@ Im Zug können FIP Vergünstigungen nicht erworben werden.
 
 ## Ermäßigungen
 
-Kinder bis 6 Jahre reisen kostenlos. Kinder von 6 bis einschließlich 17 Jahren erhalten 75 % Ermäßigung auf Single Ticket und Flex Refundable, sodass dies günstiger ist als der FIP-Tarif für Kinder. Ab 18 Jahren gilt der reguläre FIP-Erwachsenenfahrpreis.[^2][^4]
+Kinder bis 6 Jahre reisen kostenlos. Kinder von 6 bis einschließlich 17 Jahre erhalten 75 % Ermäßigung auf Single Ticket und Flex Refundable, sodass dies günstiger ist als der FIP-Tarif für Kinder. Ab 18 Jahren gilt der reguläre FIP-Erwachsenenfahrpreis.[^2][^4]
 
 ## Tarifliche Besonderheiten
 

@@ -181,7 +181,7 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d’un adulte. [^2]
+Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants jusqu’à 11 ans inclus doivent être accompagnés d’un adulte. [^2]
 
 ## Conditions tarifaires spéciales
 

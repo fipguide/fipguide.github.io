@@ -158,7 +158,7 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 10 Jahren erhalten eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
+Kinder bis einschließlich 5 Jahre reisen kostenlos. Ab 5 Jahren gilt der reguläre FIP-Erwachsenentarif.[^2]
 
 ## Tarifliche Besonderheiten
 
@@ -175,3 +175,5 @@ Die CFR Călători stellt auf dem größtenteils in die Jahre gekommenen Schiene
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [CFR Călători – Kinder](https://www.cfrcalatori.ro/en/journey-facilities-children/)

@@ -180,7 +180,7 @@ Tickets müssen vor dem Betreten des Zuges gekauft werden. Ein Verkauf von Ticke
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 3 Jahre reisen kostenfrei, jedoch ohne garantierten Sitzplatz. Es gibt keine weiteren Ermäßigungen für Kinder. Kinder unter 12 Jahren müssen immer von einem Erwachsenen begleitet werden (allein reisende Kinder sind nicht zugelassen). [^2]
+Kinder bis einschließlich 3 Jahre reisen kostenfrei, jedoch ohne garantierten Sitzplatz. Es gibt keine weiteren Ermäßigungen für Kinder. Kinder bis einschließlich 11 Jahre müssen immer von einem Erwachsenen begleitet werden (allein reisende Kinder sind nicht zugelassen). [^2]
 
 ## Tarifliche Besonderheiten
 

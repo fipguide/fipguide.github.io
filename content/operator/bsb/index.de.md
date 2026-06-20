@@ -73,7 +73,9 @@ FIP 50 Fahrkarten können auf der Fähre erworben werden.
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 16 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 16 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
+Kinder bis einschließlich 5 Jahre reisen kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
+
+Die _Bodensee-Kinderkarte_ kostet 10 € pro Tag und erlaubt allen Kindern einer Familie zwischen 6 und 15 Jahren das Mitfahren, wenn mindestens ein Elternteil einen regulären Fahrausweis besitzt und die Fahrt begleitet. Siehe BSB Website: [Bodensee-Kinderkarte](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote).
 
 Alle Geburtstagskinder fahren an ihrem Geburtstag im Linienverkehr bei Vorlage des Personalausweises (im Original) kostenfrei.
 Das Geburtstagsticket ist vor Fahrtantritt an den Verkaufsstellen zu lösen.[^2]
@@ -97,6 +99,6 @@ FIP-Berechtigte erhalten eine Ermäßigung von 50% auf das zellerSEEticket (zSEE
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
 
-[^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+[^2]: [Bodensee-Schiffsbetriebe – Preisangebote](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote)
 
 [^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)
