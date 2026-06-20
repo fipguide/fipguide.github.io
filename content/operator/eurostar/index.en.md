@@ -181,7 +181,11 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 ## Discounts
 
-Children up to and including 3 years old travel free of charge but without a guaranteed seat. There are no further discounts for children. Children under 12 years must always be accompanied by an adult (unaccompanied children are not allowed). [^2]
+Children under 4 travel free of charge without a ticket but must sit on an adult's lap. A separate ticket can be purchased if a separate seat is desired. Children aged 4 and over pay the full FIP adult fare.[^1]
+
+There are no further FIP discounts for children, however, public fares offer a 30 to 50% discount, making a comparison worthwhile.[^2]
+
+Children under 12 must be accompanied by an adult. Children aged 12–15 can travel with a responsible person aged 16 or over, or as an unaccompanied minor with the correct paperwork.[^2]
 
 ## Special Tariff Conditions
 
@@ -251,6 +255,6 @@ Without FIP discount, online booking is possible via [Trainsplit](https://trains
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
 
-[^2]: DB Travel Market
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)
