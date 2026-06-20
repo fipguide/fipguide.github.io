@@ -107,7 +107,7 @@ FIP-discounted tickets can only be purchased on board if departing from a statio
 
 ## Discounts
 
-For regular tickets, children under 7 years travel free. On domestic routes, children under 10 years, and on international routes, children under 12 years, receive a 50% discount on the adult fare. Older children pay the full adult fare.
+Children under 7 years of age travel free of charge. From the age of 7, the regular FIP adult fare applies.[^2]
 
 ## Special Tariff Conditions
 
@@ -128,3 +128,5 @@ BDŽ still offers a relatively wide range of services on an aging rail network. 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+
+[^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)

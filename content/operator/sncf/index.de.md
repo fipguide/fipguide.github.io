@@ -253,7 +253,7 @@ FIP Tickets können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder bis einschließlich 12 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.
+Kinder bis einschließlich 4 Jahre reisen kostenlos. Ab 5 Jahren gilt der reguläre FIP-Erwachsenentarif.
 
 ## Tarifliche Besonderheiten
 

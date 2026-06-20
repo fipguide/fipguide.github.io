@@ -82,7 +82,7 @@ FIP 50 / FIP 75 Tickets müssen vor Fahrtantritt erworben werden. Im Enterprise 
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 % Ermäßigung auf den Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^1]
+Kinder unter 5 Jahren fahren kostenlos. Ab 5 Jahren gilt der FIP-Erwachsenentarif.[^1]
 
 ## Tarifliche Besonderheiten
 

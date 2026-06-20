@@ -200,6 +200,8 @@ Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéc
 
 En outre, il est possible d’acheter une _Carte Junior CFF_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des [points de vente des transports publics](https://www.sbb.ch/fr/informations-voyages/gares/trouver-une-gare.html) en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
 
+Alternativement, la _Carte journalière Enfant_ offre aux enfants de 6 à moins de 16 ans un voyage illimité sur les transports publics pendant une journée pour 19 CHF (2ᵉ classe) ou 33 CHF (1ᵉ classe). Voir le site web des CFF : [Carte journalière Enfant](https://www.sbb.ch/fr/offres/carte-journaliere-enfant).
+
 ## Conditions tarifaires spéciales
 
 ### Reconnaissance mutuelle CFF / BLS

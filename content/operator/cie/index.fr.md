@@ -132,7 +132,7 @@ Les suppléments pour passer de la 2e classe à la Premier Class peuvent être a
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans voyagent gratuitement. Les jeunes jusqu’à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^2]
+Les enfants de moins de 5 ans voyagent gratuitement. À partir de 5 ans, le tarif adulte FIP complet s’applique.[^2]
 
 ## Conditions tarifaires spéciales
 

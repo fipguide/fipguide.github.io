@@ -266,7 +266,7 @@ Im Zug können FIP Vergünstigungen nicht erworben werden.
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder bis 18 Jahren erhalten eine Ermäßigung auf den Erwachsenenpreis. Ab 18 Jahren gilt der reguläre Erwachsenenfahrpreis.[^2]
+Kinder bis 6 Jahre reisen kostenlos. Kinder von 6 bis einschließlich 17 Jahren erhalten 75 % Ermäßigung auf Single Ticket und Flex Refundable, sodass dies günstiger ist als der FIP-Tarif für Kinder. Ab 18 Jahren gilt der reguläre FIP-Erwachsenenfahrpreis.[^2][^4]
 
 ## Tarifliche Besonderheiten
 
@@ -324,3 +324,5 @@ Die Ofotbanen zwischen Narvik und Bjørnfjell ist von FIP Vergünstigungen ausge
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
 
 [^3]: [Feedback: FIP in Norway: R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
+
+[^4]: [Vy – Discounts](https://www.vy.no/en/buy-tickets/train-tickets/discount#item-ec7c80089f44)

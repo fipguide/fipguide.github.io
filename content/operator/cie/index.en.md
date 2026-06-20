@@ -132,7 +132,7 @@ Upgrades from 2nd class to Premier Class can be purchased on the train if no tic
 
 ## Discounts
 
-Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^2]
+Children up to 5 years of age travel free of charge. From the age of 5, the full FIP adult fare applies.[^2]
 
 ## Special Tariff Conditions
 
