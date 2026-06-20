@@ -82,7 +82,7 @@ FIP 50 / FIP 75 Tickets müssen vor Fahrtantritt erworben werden. Im Enterprise 
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren fahren kostenlos. Ab 5 Jahren gilt der FIP-Erwachsenentarif.[^1]
+Kinder bis einschließlich 4 Jahre fahren kostenlos. Ab 5 Jahren gilt der FIP-Erwachsenentarif.[^1]
 
 ## Tarifliche Besonderheiten
 

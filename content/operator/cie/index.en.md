@@ -132,7 +132,7 @@ Upgrades from 2nd class to Premier Class can be purchased on the train if no tic
 
 ## Discounts
 
-Children up to and including 5 years of age travel free of charge when accompanied by an adult. They must not occupy seats required for other passengers. To book a seat on reservable trains for a child under 5 years of age, select the "Free Travel Pass or Valid Ticket" option on the journey planner.[^3]
+Children up to and including 4 years of age travel free of charge when accompanied by an adult. They must not occupy seats required for other passengers. To book a seat on reservable trains for a child up to and including 4 years of age, select the "Free Travel Pass or Valid Ticket" option on the journey planner.[^3]
 
 Children between 6 and 19 years of age can use a "Child Ticket". Persons aged 19 to 25 can use a Young Adult/Student ticket if they hold a [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch).[^4]
 

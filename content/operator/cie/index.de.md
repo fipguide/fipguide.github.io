@@ -132,7 +132,7 @@ Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 5 Jahre fahren kostenlos, wenn sie von einem Erwachsenen begleitet werden. Sie dürfen keine Plätze einnehmen, die für andere Fahrgäste benötigt werden. Für reservierungspflichtige Züge kann ein Sitzplatz für ein Kind unter 5 Jahren gebucht werden, indem die Option „Free Travel Pass or Valid Ticket“ im Reiseplaner ausgewählt wird.[^3]
+Kinder bis einschließlich 4 Jahre fahren kostenlos, wenn sie von einem Erwachsenen begleitet werden. Sie dürfen keine Plätze einnehmen, die für andere Fahrgäste benötigt werden. Für reservierungspflichtige Züge kann ein Sitzplatz für ein Kind bis einschließlich 4 Jahre gebucht werden, indem die Option „Free Travel Pass or Valid Ticket“ im Reiseplaner ausgewählt wird.[^3]
 
 Jugendliche zwischen 6 und 19 Jahren können ein "Child Ticket" nutzen. Personen von 19 bis 25 Jahren können ein Young Adult/Student-Ticket nutzen, wenn sie im Besitz einer [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch) sind.[^4]
 
