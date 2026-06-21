@@ -233,6 +233,10 @@ Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 - Seilbahn Mürren – Allmendhubel (SMA)
 - Luftseilbahn Stechelberg – Mürren – Schilthorn (LSMS)
 
+{{% highlight inofficial %}}
+Uns wurde berichtet, dass die Mitnahme von Wintersportausrüstung (Ski, Snowboard) bei den Jungfraubahnen bei der Nutzung von FIP nicht möglich ist.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category

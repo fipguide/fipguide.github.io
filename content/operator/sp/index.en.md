@@ -233,6 +233,10 @@ No FIP discounts are granted on the following routes:
 - Mürren – Allmendhubel funicular (SMA)
 - Stechelberg – Mürren – Schilthorn aerial cableway (LSMS)
 
+{{% highlight inofficial %}}
+It has been reported to us that the transport of winter sports equipment (skis, snowboards) on the Jungfrau Railways is not possible when using FIP.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
