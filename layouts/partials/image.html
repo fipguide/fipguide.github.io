@@ -18,6 +18,29 @@
   {{- $figStyles = $figStyles | append (printf "width: %s" $width) -}}
 {{- end -}}
 
+{{- $metaInformation := false -}}
+{{- $iptcCopyrightNotice := "" -}}
+{{- $artist := "" -}}
+
+{{- if and (ne $extension "svg") (ne $extension "gif") -}}
+  {{- if reflect.IsImageResourceWithMeta $image -}}
+    {{- with $image.Meta -}}
+      {{- with .IPTC -}}
+        {{- with (index . "CopyrightNotice") -}}
+          {{- $iptcCopyrightNotice = . -}}
+          {{ $metaInformation = true -}}
+        {{- end -}}
+      {{- end -}}
+      {{- with .Exif -}}
+        {{- with (index . "Artist") -}}
+          {{- $artist = . -}}
+          {{ $metaInformation = true -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 
 <figure style="{{ delimit $figStyles "; " | safeCSS }}">
   <img
@@ -36,10 +59,24 @@
     {{- end -}}
     style="{{ delimit $imgStyles "; " | safeCSS }}"
   />
-  {{- if .caption -}}
+  {{- if or (.caption) ($metaInformation) -}}
     <hr aria-hidden="true" />
     <figcaption>
-      {{- .caption -}}
+      {{- with .caption -}}
+        {{- . -}}
+      {{- end -}}
+      {{- if and (.caption) ($metaInformation) -}}
+        <br aria-hidden="true" />
+      {{- end -}}
+      {{- if $metaInformation -}}
+        © 
+        {{- with $artist -}}
+          {{ . }}, 
+        {{- end -}}
+        {{- with $iptcCopyrightNotice -}}
+          {{- . | safeHTML -}}
+        {{- end -}}
+      {{ end }}
     </figcaption>
   {{- end -}}
 </figure>
