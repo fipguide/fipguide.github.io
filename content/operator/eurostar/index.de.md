@@ -248,7 +248,7 @@ Ohne FIP Ermäßigung ist die Buchung Online möglich über [Trainsplit](https:/
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
 [^2]: DB Reisemarkt
 

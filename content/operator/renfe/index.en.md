@@ -270,7 +270,7 @@ Renfe can often be compared more to an airline than to other railway companies. 
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^3]: [User feedback: ticket purchase on the train](https://github.com/fipguide/fipguide.github.io/issues/449)
 
