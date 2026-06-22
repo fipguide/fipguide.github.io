@@ -21,6 +21,14 @@ Travel dates, passport, and FIP Card should be kept ready.
 
 FIP 50 Tickets can be booked.
 
+## Reservations
+
+Cabin reservations are optionally available.
+
+{{% highlight warning %}}
+For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
+{{% /highlight %}}
+
 {{% /booking-section %}}
 
 {{% satellite /%}}

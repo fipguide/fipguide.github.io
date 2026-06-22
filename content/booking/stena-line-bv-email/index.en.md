@@ -19,8 +19,8 @@ params:
 
         Travel date: [Travel date]
         Travel time: [Travel time]
-        Travel direction: [Travel direction (Harwich -> Hoek van Holland or Hoek van Holland -> Harwich)]
-        Number of passengers: [Number of passengers]
+        Departure port: [Departure port]
+        Destination port: [Destination port]
         Cabin type: [Cabin type (Standard, Superior or Deluxe)]
         Passengers:
           Passenger 1:
@@ -53,8 +53,8 @@ params:
 
         Travel date: [Travel date]
         Travel time: [Travel time]
-        Travel direction: [Travel direction (Harwich -> Hoek van Holland or Hoek van Holland -> Harwich)]
-        Number of passengers: [Number of passengers]
+        Departure port: [Departure port]
+        Destination port: [Destination port]
         Cabin type: [Cabin type (Standard, Superior or Deluxe)]
         Passengers:
           Passenger 1:

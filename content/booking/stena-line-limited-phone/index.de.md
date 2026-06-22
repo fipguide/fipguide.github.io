@@ -21,6 +21,14 @@ Die Reisedaten, Reisepass und FIP Ausweis sollten bereitgehalten werden.
 
 FIP 50 Tickets können gebucht werden.
 
+## Reservierungen
+
+Kabinenreservierungen sind optional erhältlich.
+
+{{% highlight warning %}}
+Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
+{{% /highlight %}}
+
 {{% /booking-section %}}
 
 {{% satellite /%}}

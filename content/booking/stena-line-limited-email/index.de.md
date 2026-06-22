@@ -18,9 +18,9 @@ params:
         Please find my details below:
 
         Travel date: [Reisedatum]
-        Travel route: [Reiseroute]
-        Number of passengers: [Anzahl Reisende]
-        Class: [Klasse]
+        Departure port: [Abfahrtshafen]
+        Destination port: [Zielhafen]
+        Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
         Passengers:
           Passenger 1:
             Name: [Name (wie im Reisepass)]
@@ -46,9 +46,9 @@ params:
 
         Travel date: [Reisedatum]
         Travel time: [Reisezeit]
-        Travel route: [Reiseroute]
-        Number of passengers: [Anzahl Reisende]
-        Class: [Klasse]
+        Departure port: [Abfahrtshafen]
+        Destination port: [Zielhafen]
+        Cabin type: [Kabinentyp (Standard, Superior oder Deluxe)]
         Passengers:
           Passenger 1:
             Name: [Name (wie im Reisepass)]
@@ -57,6 +57,7 @@ params:
             Name: [Name (wie im Reisepass)]
             Date of birth: [Geburtsdatum]
           [... Reisende bei Bedarf hinzufügen oder entfernen]
+        FIP Coupon number(s): [Nummer(n) des Stena Line BV FIP Freifahrtscheins, der/die bei der Fahrt genutzt werden soll(en)]
         Additional information: [Zusätzliche Angaben]
 
         Thank you in advance.
@@ -71,8 +72,11 @@ In der Mail sind folgende Daten anzugeben:
 - Vor- und Nachname der Reisenden
 - Geburtsdatum der Reisenden
 - Reisedatum
-- Reiseroute (z.B. Cairnryan – Belfast)
-- Klassenkategorie
+- Abfahrtshafen
+- Zielhafen
+- Kabinentyp (Standard, Superior oder Deluxe)
+- **Nur für FIP 50 Tickets:** Kopie(n) der FIP-Ausweise (Vorder- und Rückseite) aller Reisenden
+- **Nur für Reservierungen mit FIP Freifahrtschein:** Nummer des Stena Line BV FIP Freifahrtscheins, der bei der Fahrt genutzt werden soll
 
 Von Stena Line erhält man in der Regel zwei Antwortmails. In der ersten Mail wird die Buchungsanfrage bestätigt. In der zweiten Mail erhält man eine Bezahloption über pay per link. Hier sind dann die Kreditkartendaten zu hinterlegen.
 Nach Bezahlung bekommst du eine Mail mit der Resevierungsbestätigung, die auch als Ticket gilt – die FIP Fahrkarten sind natürlich mitzuführen.
@@ -84,6 +88,14 @@ Nach Bezahlung bekommst du eine Mail mit der Resevierungsbestätigung, die auch 
 FIP 50 Tickets können gebucht werden.
 
 {{% /booking-section %}}
+
+## Reservierungen
+
+Kabinenreservierungen sind optional erhältlich.
+
+{{% highlight warning %}}
+Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
+{{% /highlight %}}
 
 ## Quellen
 

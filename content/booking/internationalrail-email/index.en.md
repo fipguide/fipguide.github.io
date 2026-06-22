@@ -22,8 +22,6 @@ params:
         Preferred departure time: [Preferred departure time]
         Departure station: [Departure station]
         Destination station: [Destination station]
-        Travel direction: [Travel direction]
-        Number of passengers: [Number of passengers]
         Passengers:
           Passenger 1:
             Name: [Name (as in passport)]
@@ -54,8 +52,6 @@ params:
         Preferred departure time: [Preferred departure time]
         Departure station: [Departure station]
         Destination station: [Destination station]
-        Travel direction: [Travel direction]
-        Number of passengers: [Number of passengers]
         Passengers:
           Passenger 1:
             Name: [Name (as in passport)]

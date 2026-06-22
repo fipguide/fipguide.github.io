@@ -22,8 +22,6 @@ params:
         Preferred departure time: [Heure de départ souhaitée]
         Departure station: [Gare de départ]
         Destination station: [Gare de destination]
-        Travel direction: [Sens du voyage]
-        Number of passengers: [Nombre de voyageurs]
         Passengers:
           Passenger 1:
             Name: [Nom (tel qu’il figure sur le passeport)]
@@ -54,8 +52,6 @@ params:
         Preferred departure time: [Heure de départ souhaitée]
         Departure station: [Gare de départ]
         Destination station: [Gare de destination]
-        Travel direction: [Sens du voyage]
-        Number of passengers: [Nombre de voyageurs]
         Passengers:
           Passenger 1:
             Name: [Nom (tel qu’il figure sur le passeport)]

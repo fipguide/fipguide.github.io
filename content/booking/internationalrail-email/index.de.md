@@ -22,8 +22,6 @@ params:
         Preferred departure time: [Gewünschte Abfahrtszeit]
         Departure station: [Abfahrtsbahnhof]
         Destination station: [Zielbahnhof]
-        Travel direction: [Fahrtrichtung]
-        Number of passengers: [Anzahl Reisende]
         Passengers:
           Passenger 1:
             Name: [Name (wie im Reisepass)]
@@ -54,8 +52,6 @@ params:
         Preferred departure time: [Gewünschte Abfahrtszeit]
         Departure station: [Abfahrtsbahnhof]
         Destination station: [Zielbahnhof]
-        Travel direction: [Fahrtrichtung]
-        Number of passengers: [Anzahl Reisende]
         Passengers:
           Passenger 1:
             Name: [Name (wie im Reisepass)]

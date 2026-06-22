@@ -18,9 +18,9 @@ params:
         Please find my details below:
 
         Travel date: [Date du voyage]
-        Travel route: [Itinéraire du voyage]
-        Number of passengers: [Nombre de voyageurs]
-        Class: [Classe]
+        Departure port: [Port de départ]
+        Destination port: [Port de destination]
+        Cabin type: [Type de cabine (Standard, Superior ou Deluxe)]
         Passengers:
           Passenger 1:
             Name: [Nom (tel qu’il figure sur le passeport)]
@@ -46,9 +46,9 @@ params:
 
         Travel date: [Date du voyage]
         Travel time: [Heure du voyage]
-        Travel route: [Itinéraire du voyage]
-        Number of passengers: [Nombre de voyageurs]
-        Class: [Classe]
+        Departure port: [Port de départ]
+        Destination port: [Port de destination]
+        Cabin type: [Type de cabine (Standard, Superior ou Deluxe)]
         Passengers:
           Passenger 1:
             Name: [Nom (tel qu’il figure sur le passeport)]
@@ -57,6 +57,7 @@ params:
             Name: [Nom (tel qu’il figure sur le passeport)]
             Date of birth: [Date de naissance]
           [... Ajouter ou supprimer des voyageurs si nécessaire]
+        FIP Coupon number(s): [Numéro(s) du/des Coupon(s) FIP Stena Line BV à utiliser pour le voyage]
         Additional information: [Informations complémentaires]
 
         Thank you in advance.
@@ -71,8 +72,11 @@ L’e-mail doit contenir les informations suivantes:
 - Prénom et nom des voyageurs
 - Date de naissance des voyageurs
 - Date du voyage
-- Itinéraire de voyage (p. ex. Cairnryan – Belfast)
-- Catégorie de classe
+- Port de départ
+- Port de destination
+- Type de cabine (Standard, Superior ou Deluxe)
+- **Uniquement pour les Billets FIP 50:** Copie(s) des Cartes FIP (recto et verso) de tous les voyageurs
+- **Uniquement pour les réservations avec Coupon FIP:** Numéro du Coupon FIP Stena Line BV à utiliser pour le voyage
 
 En règle générale, vous recevrez deux e-mails de réponse de Stena Line. Le premier e-mail confirme votre demande de réservation. Le deuxième e-mail vous propose une option de paiement via pay per link. Vous devez alors saisir les données de votre carte de crédit.
 Après le paiement, vous recevez un e-mail avec la confirmation de réservation, qui fait également office de billet. Vous devez bien sûr emporter les billets FIP avec vous.
@@ -84,6 +88,14 @@ Après le paiement, vous recevez un e-mail avec la confirmation de réservation,
 Les billets FIP 50 peuvent être réservés.
 
 {{% /booking-section %}}
+
+## Réservations
+
+Les réservations de cabine sont disponibles en option.
+
+{{% highlight warning %}}
+Pour les réservations, le numéro du Coupon FIP Stena Line BV à utiliser pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
+{{% /highlight %}}
 
 ## Sources
 
