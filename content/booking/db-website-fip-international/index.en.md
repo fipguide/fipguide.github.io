@@ -23,9 +23,11 @@ aliases:
 
 Online FIP 50 Tickets for journeys within Germany and neighboring countries can be booked via Deutsche Bahn. The tickets must include at least one section within Germany. The FIP 50 ticket is issued for the entire route. **The ticket is not valid in the country where the FIP Card was issued**; an additional ticket is required there.
 
-Employees of ÖBB, SBB, and PKP can also book tickets that are only valid for the German section of the route. For the section within their own country, an additional ticket is required, as the ticket price is calculated starting from the German border. **The ticket is not valid in the country where the FIP Card was issued**.
+Employees of CFL, DSB, NS, ÖBB, PKP, and SBB can also book tickets that are only valid for the German section of the route. For the section within their own country, an additional ticket is required, as the ticket price is calculated starting from the German border. **The ticket is not valid in the country where the FIP Card was issued**.
 
 Booking is only possible via the [link](https://int.bahn.de/en/buchung/start?KL=2&ET=FIP_SONSTIGE). Discounts do not need to be selected—they are applied automatically.
+
+FIP 50 Tickets are only sold if no _association tickets_ are offered for that connection. See [Journeys in Transport Associations](/operator/db#journeys-in-transport-associations) in Germany.
 
 FIP 50 Tickets can be purchased for the following countries, as long as a section in Germany is included:
 

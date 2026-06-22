@@ -109,7 +109,7 @@ Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous
 
 Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par ŁKA.
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 
@@ -127,6 +127,6 @@ Sur son site Web, ŁKA propose une [carte en temps réel](https://infoportal.lka
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Vente de billets dans le train](https://lka.lodzkie.pl/obsluga-pociagu/)

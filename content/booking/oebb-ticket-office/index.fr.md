@@ -30,7 +30,7 @@ Les billets (y compris les Billets FIP 50) sont moins chers s’ils sont acheté
 
 ## Réservations
 
-Le tarif de réservation est facturé par trajet. Ainsi, pour les correspondances avec changement, il n'est nécessaire de payer qu'une seule fois pour plusieurs trains.
+Le tarif de réservation est facturé par trajet. Ainsi, pour les correspondances avec changement, il n’est nécessaire de payer qu’une seule fois pour plusieurs trains.
 
 Les réservations de sièges ÖBB peuvent être annulées :
 

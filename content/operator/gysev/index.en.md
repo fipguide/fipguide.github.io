@@ -122,7 +122,7 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 {{% booking id="mav-website" /%}}
 
-### Phone
+### Telephone
 
 {{% booking id="oebb-phone" reservations=nil /%}}
 
@@ -134,7 +134,7 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 {{% booking id="oebb-ticket-office" reservations=nil /%}}
 
-### On the train
+### On the Train
 
 Tickets with FIP discount cannot be purchased on board. [^1]
 
@@ -162,6 +162,6 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)

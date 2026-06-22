@@ -185,19 +185,25 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncb-phone" /%}}
 
-### On-site
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Belgium, with ticket portion only for the Belgian section. For Deutsche Bahn employees only."
+/%}}
+
+### On-Site
 
 {{% booking id="sncb-ticket-office" /%}}
 
+{{% booking id="sncb-ticket-machine"
+    subtitle="For domestic journeys only"
+/%}}
+
 {{% booking id="db-ticket-office" /%}}
 
-### On the train
+### On the Train
 
 {{% highlight important %}}
 Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects FIP discounted tickets. All passengers must have a valid ticket before boarding. [^5]<sup>, </sup>[^6]
 {{% /highlight %}}
-
-FIP discounted tickets can generally be purchased on board the trains. The usual SNCB surcharge for on-board sales is not charged, as the tickets are not available at ticket machines. [^2]<sup>, </sup>[^4]
 
 ## Discounts
 
@@ -207,23 +213,15 @@ Up to four children under the age of 12 travel for free when accompanied by an a
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 6.70 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. For FIP 50 / FIP 75 Tickets, this is already included in the price. [^1]
-
-## Recommendations
-
-{{% highlight tip %}}
-The first class in SNCB / NMBS trains is often used with second class tickets. Also, the 1st class is usually not much more comfortable than the second class. Unlike in other countries, buying first class tickets to have more space and quiet is only worthwhile to a limited extent.
-{{% /highlight %}}
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 7.10 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. [^1] For FIP 50 / FIP 75 Tickets, this is already included in the price, unless the ticket was purchased at a ticket machine. [^2]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
-[^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [FIP Guide Community: SNCB Airport Supplement at Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
 [^3]: [SNCB Child Policy](https://www.belgiantrain.be/en/products/child)
-
-[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
 
 [^5]: [SNCB -- End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
 

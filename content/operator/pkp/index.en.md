@@ -104,6 +104,25 @@ Some trains require reservations. The reservation requirement can be checked in 
 {{% /train-category %}}
 
 {{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+The IC Nieśpieszny is a retro-style experience train operated by PKP Intercity, with a focus on consciously relaxed and slow travel in historic restored coaches.
+
+Neither FIP Coupons nor FIP 50 Tickets are valid on this train.
+
+#### Reservations
+
+Reservation is required.
+
+{{% /train-category %}}
+
+{{% train-category
     id="tlk"
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
@@ -231,7 +250,13 @@ Alternatively, you can also book directly through the [Polregio website](https:/
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
-### On Site
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+/%}}
+
+### On-Site
 
 {{% booking id="pkp-ticket-office" /%}}
 
@@ -359,7 +384,7 @@ FIP Coupons for 1st class are only conditionally worthwhile with PKP. If journey
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

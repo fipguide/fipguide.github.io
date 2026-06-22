@@ -78,12 +78,12 @@ Les trains régionaux transfrontaliers de la SNCF peuvent être utilisés depuis
 
 ### Suisse
 
-Depuis la Suisse, on peut voyager en Italie aussi bien par des trains longue distance que régionaux. Milan est accessible via Côme ou Domodossola depuis le réseau suisse. Les trains via Côme viennent généralement de Zurich, ceux via Domodossola de Berne et Bâle. Les deux itinéraires proposent des liaisons Eurocity et des trains régionaux. Les autres passages frontaliers ne sont accessibles que par trains régionaux. Pour les Eurocity transfrontaliers, une réservation est obligatoire, incluant un supplément. Le train `ECE` Francfort – Milan et les trains `EC` Zurich – Milan circulent également.
+Depuis la Suisse, on peut voyager en Italie aussi bien par des trains longue distance que régionaux. Milan est accessible via Côme ou Domodossola depuis le réseau suisse. Les trains via Côme viennent généralement de Zurich, ceux via Domodossola de Berne et Bâle. Les deux itinéraires proposent des liaisons Eurocity et des trains régionaux. Les autres passages frontaliers ne sont accessibles que par trains régionaux. Pour les Eurocity transfrontaliers, un supplément ainsi qu’une réservation sont obligatoires. Le train `ECE` Francfort - Milan et les trains `EC` Zurich - Milan circulent également.
 
-Le supplément ou le prix de la réservation pour les trains transfrontaliers `EC`/`ECE` vers l’Italie est de 20 € (1ʳᵉ/2ᵉ classe). Si la réservation est effectuée dans un centre DB, le supplément n’est que de 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
+Le supplément pour les trains transfrontaliers `EC`/`ECE` vers l’Italie est de 20 € (1ʳᵉ/2ᵉ classe). Si la réservation est effectuée dans un centre DB, le supplément n’est que de 11 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
 
 {{% highlight tip %}}
-Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option beaucoup plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
+Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
 {{% /highlight %}}
 
 ### Vatican

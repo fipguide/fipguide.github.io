@@ -39,8 +39,6 @@ L’Autriche dispose d’un réseau ferroviaire dense, structuré autour de deux
 
 Ces deux lignes sont bien développées, avec une fréquence d’un train toutes les 30 minutes entre les grandes gares. On y trouve aussi de nombreuses lignes secondaires ou pittoresques : la spectaculaire ligne du Tauern (Salzbourg–Villach), ligne de l’Ennstal (Salzbourg–Schladming–Leoben), ou la ligne du Brenner (Munich–Innsbruck–Bolzano–Vérone).
 
-Un coup de cœur est la Schneebergbahn en Basse-Autriche. Elle n’est pas exploitée par l’ÖBB, mais est accessible avec une réduction FIP 50 %.
-
 ## Arrivée et points frontières
 
 {{% expander "Points frontières" border %}}

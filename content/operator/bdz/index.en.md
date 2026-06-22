@@ -97,7 +97,7 @@ Regional trains in domestic traffic stopping at most stations, often running mor
 
 ## Ticket and Reservation Purchase
 
-### On Site
+### On-Site
 
 {{% booking id="bdz-ticket-office" /%}}
 
@@ -127,4 +127,4 @@ BDŽ still offers a relatively wide range of services on an aging rail network. 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)

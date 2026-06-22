@@ -130,6 +130,12 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark pour l’ensemble du trajet (pas de validité dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="dsb-ticket-office" /%}}
@@ -169,6 +175,6 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1’](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

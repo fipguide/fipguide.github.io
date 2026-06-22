@@ -27,7 +27,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour 
 ## Catégories de trains et réservations
 
 {{% highlight important %}}
-Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d'autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
+Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d’autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
 {{% /highlight %}}
 
 {{% train-category
@@ -37,7 +37,7 @@ Les catégories de trains sont affichées dans les horaires BDŽ comme décrit c
     fip_accepted=true
     reservation_required=true
 %}}
-Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu'en été ; sinon, une correspondance à Ruse est nécessaire. Dans d'autres horaires, ils peuvent aussi être indiqués comme `IR`.
+Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu’en été ; sinon, une correspondance à Ruse est nécessaire. Dans d’autres horaires, ils peuvent aussi être indiqués comme `IR`.
 
 Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée.
 
@@ -53,7 +53,7 @@ La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
     fip_accepted=true
     reservation_required=partially
 %}}
-Trains relativement rapides reliant les grandes villes avec peu d'arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d'anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
+Trains relativement rapides reliant les grandes villes avec peu d’arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d’anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
 
 #### Réservations
 
@@ -67,7 +67,7 @@ Une réservation est obligatoire pour certains trains (indiqué par _R_).
     fip_accepted=true
     reservation_required=partially
 %}}
-Trains nationaux reliant des villes avec peu d'arrêts.
+Trains nationaux reliant des villes avec peu d’arrêts.
 
 #### Réservations
 
@@ -129,7 +129,7 @@ Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement
 
 Si vous souhaitez voyager au-delà de la destination réservée, un supplément doit être payé en plus du billet pour la distance supplémentaire. [^1]
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée avec un billet continu.
 
@@ -141,4 +141,4 @@ La BDŽ propose encore une offre relativement large sur un réseau vieillissant.
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)

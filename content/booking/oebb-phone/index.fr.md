@@ -40,7 +40,7 @@ Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant l
 
 ## Réservations
 
-Le tarif de réservation est facturé par trajet. Ainsi, pour les correspondances avec changement, il n'est nécessaire de payer qu'une seule fois pour plusieurs trains.
+Le tarif de réservation est facturé par trajet. Ainsi, pour les correspondances avec changement, il n’est nécessaire de payer qu’une seule fois pour plusieurs trains.
 
 Les réservations de sièges ÖBB peuvent être annulées :
 

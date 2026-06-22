@@ -60,7 +60,7 @@ Les réductions FIP ne sont pas acceptées sur le ferry SBS entre Altnau-Hagnau 
 
 Il existe une classe unique, accessible avec les Cartes FIP de 1ère et 2ème classe.[^1]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 ### En gare
 
@@ -80,7 +80,7 @@ Le billet anniversaire doit être retiré avant le départ aux points de vente.[
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Une interruption de voyage est autorisée sans formalités.[^1]
 
@@ -91,11 +91,11 @@ Aucune réduction n’est accordée pour les véhicules entre Friedrichshafen et
 
 ### zellerSEEticket (zSEEt)
 
-Titulaires de la carte FIP bénéficient d'une réduction de 50 % sur le zellerSEEticket (zSEEt). Aucune autre réduction n'est acceptée.[^3]
+Titulaires de la carte FIP bénéficient d’une réduction de 50 % sur le zellerSEEticket (zSEEt). Aucune autre réduction n’est acceptée.[^3]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
 [^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
 

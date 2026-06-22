@@ -147,7 +147,7 @@ The Celta is an international cooperation service between CP and Renfe from Port
 
 ## Ticket and Reservation Purchase
 
-### On-site
+### On-Site
 
 {{% booking id="cp-ticket-office" /%}}
 
@@ -187,6 +187,6 @@ CP operates occasional trips with the "Presidential Train" — a luxurious histo
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

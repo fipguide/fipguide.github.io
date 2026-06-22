@@ -148,6 +148,6 @@ Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und FÃ
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-98)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#SLL)
 
 [^2]: [Rail Delivery Group - Staff Travel guides for holders of the Rail Staff Leisure Card - 8.7 Other transport undertakings in Great Britain, including ferries and heritage railways - Stena Line Irish Services](https://www.raildeliverygroup.com/rst/guides.html#tab-8-other-transport-undertakings-in-great-britain-including-ferries-and-heritage-railways)

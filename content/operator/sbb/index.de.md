@@ -82,6 +82,9 @@ Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforde
     reservation_possible=true
 %}}
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
+
+Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -93,6 +96,8 @@ Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegs
     reservation_possible=true
 %}}
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
+
+Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
 
 #### Reservierungen
 
@@ -173,6 +178,12 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 {{% booking id="oebb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="sbb-ticket-office"/%}}
@@ -188,6 +199,8 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 ## Ermäßigungen
 
 Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
+
+Zusätzlich gibt es die Möglichkeit eine _SBB Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahren zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an [Verkaufsstellen des öffentlichen Verkehrs](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/bahnhof-finden.html) in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
 
 ## Tarifliche Besonderheiten
 
@@ -220,6 +233,6 @@ Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit w
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

@@ -39,8 +39,6 @@ In der [Onlinefahrplanauskunft der ÖBB](https://fahrplan.oebb.at/) wird nur nac
 
 Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen den größeren Bahnhöfen oft halbstündlich. Darüber hinaus gibt es eine Menge schöner Haupt- und Nebenstrecken, bsp. die atemberaubende Tauernbahn (Salzburg-Villach), Ennstalbahn (Salzburg-Bischofshofen-Schladming-Leoben) oder die Brennerbahn (München-Innsbruck-Brenner-Bozen-Verona).
 
-Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterreich, diese wird nicht von den ÖBB betrieben kann aber mit FIP 50 reduziert befahren werden.
-
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
@@ -60,7 +58,7 @@ Ein besonderes Highlight ist die Fahrt mit der Schneebergbahn in Niederösterrei
 
 ### Tschechien
 
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brün.
+Von Tschechien aus können grenzüberschreitende Züge der České dráhy über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der České dráhy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brünn.
 
 ### Slowakei
 

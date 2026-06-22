@@ -243,6 +243,12 @@ Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt 
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="cd-ticket-office" /%}}
@@ -690,7 +696,7 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

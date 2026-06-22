@@ -222,7 +222,14 @@ Domestic journeys unfortunately cannot be purchased online.
     classes.second="€ 2 / € 11"
 /%}}
 
-### On Site
+{{% booking id="db-phone-fip-db"
+  subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
+### On-Site
 
 {{% booking id="sncf-ticket-office" /%}}
 
@@ -412,7 +419,7 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 

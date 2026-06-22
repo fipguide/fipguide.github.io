@@ -24,7 +24,7 @@ La hotline est joignable tous les jours de 7h à 23h.
 
 ## Billets FIP 50
 
-Les billets FIP 50 peuvent être achetés pour les Pays-Bas et d'autres pays.
+Les billets FIP 50 peuvent être achetés pour les Pays-Bas et d’autres pays.
 
 {{% /booking-section %}}
 
@@ -32,6 +32,6 @@ Les billets FIP 50 peuvent être achetés pour les Pays-Bas et d'autres pays.
 
 ## Réservations
 
-Les réservations peuvent être effectuées pour les Pays-Bas et d'autres pays comme la Belgique, l'Allemagne et la France.
+Les réservations peuvent être effectuées pour les Pays-Bas et d’autres pays comme la Belgique, l’Allemagne et la France.
 
 {{% /booking-section %}}

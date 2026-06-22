@@ -185,9 +185,13 @@ Domestic journeys unfortunately cannot be purchased online.
     subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
-### Phone
+### Telephone
 
 {{% booking id="ns-phone" /%}}
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and the Netherlands, with ticket portion only for the Dutch section. For Deutsche Bahn employees only."
+/%}}
 
 ### On-Site
 
@@ -225,7 +229,7 @@ NS impresses with a dense schedule and good connections. Delays and cancellation
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782283-netherlands.html)
 
 [^2]: [FIP Guide Community ICD / ECD Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1470087243040428176)
 

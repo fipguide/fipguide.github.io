@@ -20,7 +20,7 @@ Auf ihrer Website bietet die ŁKA eine [Übersichtskarte der Strecken](https://l
 - Nur 2. Klasse in den Zügen vorhanden, Reservierungen sind nur in den Sprinterzügen möglich.
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
@@ -127,6 +127,6 @@ Auf ihrer Website bietet die ŁKA eine [Live-Karte](https://infoportal.lka.lodzk
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Ticketverkauf im Zug](https://lka.lodzkie.pl/obsluga-pociagu/)

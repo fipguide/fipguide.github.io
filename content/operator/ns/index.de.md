@@ -188,6 +188,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="ns-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden, mit Ticketanteil nur für den niederländischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="ns-ticket-office" /%}}
@@ -224,7 +228,7 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782283-netherlands.html)
 
 [^2]: [FIP Guide Community ICD / ECD Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1470087243040428176)
 

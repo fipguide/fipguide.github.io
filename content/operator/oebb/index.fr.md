@@ -263,6 +263,11 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 {{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="oebb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
@@ -321,12 +326,8 @@ Les Coupons FIP sont acceptés sur les trains locaux ÖBB de la ligne S-Bahn S7.
 Les guichets ÖBB et `CAT` se trouvent dans le Terminal 3.
 
 {{% highlight tip %}}
-Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, trajets simples ou tickets 24/48/72h via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou les bus Vienna Airport Lines VAL qu’avec le supplément CAT ou VAL dans l’application.
+Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, Tickets simples, tickets 24 heures ou tickets 7 jours via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou les bus Vienna Airport Lines VAL qu’avec le supplément CAT ou VAL dans l’application.
 {{% /highlight %}}
-
-### Schneebergbahn
-
-La Schneebergbahn ne fait pas partie de l’ÖBB ou du FIP, mais la présentation d’une Carte FIP donne droit à une réduction de 50 % sur les billets.
 
 ### Trains auto
 
@@ -346,7 +347,7 @@ Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le rés
 
 À part le supplément pour le Coupon FIP, il n’y a pas de distinction entre les trains locaux et grandes lignes. Tous les billets, y compris les Billets FIP 50, sont valables sur tous les trains ÖBB.
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
 
@@ -356,4 +357,4 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 
 ## Sources
 
-[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)

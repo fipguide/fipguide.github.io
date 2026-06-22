@@ -90,7 +90,7 @@ Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme
 
 {{% /train-category %}}
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 L’achat de billets n’est pertinent que pour la première classe.
 
@@ -148,6 +148,6 @@ Nous n’avons pas d’informations officielles concernant la validité des réd
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)

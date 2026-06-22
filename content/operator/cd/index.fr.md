@@ -243,6 +243,12 @@ Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes 
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="cd-ticket-office" /%}}
@@ -503,7 +509,7 @@ La signification des numéros d’itinéraire est disponible sur le [réseau fer
 
 Pour les trains à réservation obligatoire figurant dans la liste, des règles particulières s’appliquent, voir [Trains avec réservation obligatoire](#trains-avec-réservation-obligatoire).
 
-Le supplément coûte 250 CZK (à partir de février 2026) et peut être acheté avant le départ au Guichet ČD, à bord du train (veuillez contacter directement le personnel du train) ou sur Internet. La validité du supplément correspond à la même durée que la case actuelle du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3] L'achat en ligne est uniquement possible sur la site de la [ČD en tchèque ici](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) (_Jednorázový příplatek na komerční vlaky a vybrané linky_, choisir la date et sur la prochaine page après avoir cliqué sur _Koupit_ on peut rechanger la langue en anglais).
+Le supplément coûte 250 CZK (à partir de février 2026) et peut être acheté avant le départ au Guichet ČD, à bord du train (veuillez contacter directement le personnel du train) ou sur Internet. La validité du supplément correspond à la même durée que la case actuelle du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3] L’achat en ligne est uniquement possible sur la site de la [ČD en tchèque ici](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) (_Jednorázový příplatek na komerční vlaky a vybrané linky_, choisir la date et sur la prochaine page après avoir cliqué sur _Koupit_ on peut rechanger la langue en anglais).
 
 Les remboursements de suppléments sont possibles jusqu’à 23h59 la veille du premier jour de validité (sans retenue) ou dans les 15 minutes suivant l’achat (sans retenue). Si un supplément inutilisé est restitué avant 8h00 le premier jour de validité, des frais de traitement de 100 CZK sont appliqués. Dans tous les autres cas, aucun remboursement n’est possible. [^1]
 
@@ -672,7 +678,7 @@ Les Réductions FIP ne sont pas valables sur les trains spéciaux et historiques
 
 Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n’est pas autorisée.
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée pour les trajets intérieurs jusqu’à 100 km. Pour les trajets de 101 km ou plus, l’interruption est possible (mais pas en gare internationale).
 
@@ -690,7 +696,7 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

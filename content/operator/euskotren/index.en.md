@@ -38,7 +38,7 @@ You use the "Euskotren FIP Ticket" to pass through platform barriers. After expi
 {{% /float-image %}}
 
 {{% highlight tip %}}
-Some train operators also issue FIP Coupones for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
+Some train operators also issue FIP Coupons for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
 {{% /highlight %}}
 
 ## Train Categories and Reservations
@@ -118,7 +118,7 @@ There is a uniform class that can be used with both 1st and 2nd class FIP Cards.
 
 ## Ticket and Reservation Purchase
 
-### On Site
+### On-Site
 
 {{% booking id="euskotren-ticket-office" /%}}
 
@@ -138,7 +138,7 @@ Euskotren also operates the Basque Railway Museum in Azpeitia, which is accessib
 
 ## Sources
 
-[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
 

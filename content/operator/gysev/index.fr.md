@@ -113,7 +113,7 @@ Certains trains Személyvonat sont également exploités par MÁV où les Billet
     type="bus"
     fip_accepted=false
 %}}
-Les réductions FIP ne sont pas valables sur les liaisons d'autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
+Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -152,16 +152,16 @@ Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Le
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
-Pour un arrêt intermédiaire, le billet doit être composté à la gare où l'arrêt doit avoir lieu.
+Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
 
 ### Services de remplacement ferroviaire
 
-Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu'ils remplacent un train dans lequel le FIP aurait été valable.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV service client Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)

@@ -161,7 +161,7 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Les enfa
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Les passagers titulaires d’un billet de réduction FIP acheté au Portugal ne sont pas autorisés à interrompre leur voyage. Pour les billets achetés en dehors du Portugal, une interruption de voyage est autorisée (éventuellement sous réserve de réservation). [^1]
 
@@ -187,6 +187,6 @@ La CP propose régulièrement des trajets avec le "Presidential Train" — un tr
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

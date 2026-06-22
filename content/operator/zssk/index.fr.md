@@ -161,10 +161,10 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     type="bus"
     fip_accepted=false
 %}}
-Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s'appliquent lorsqu'ils remplacent un train sur lequel le FIP aurait été valable.[^1]
+Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s’appliquent lorsqu’ils remplacent un train sur lequel le FIP aurait été valable.[^1]
 {{% /train-category %}}
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 ### En ligne
 
@@ -206,7 +206,7 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 
 ## Conditions tarifaires spéciales
 
-### Possibilité d'interrompre le trajet
+### Possibilité d’interrompre le trajet
 
 Possible uniquement pour les trajets de 101 km ou plus.
 
@@ -216,6 +216,6 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)

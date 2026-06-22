@@ -84,7 +84,7 @@ Il n’existe qu’une seule classe à bord des navires pour FIP.
 Lors de la réservation d’une cabine, il est possible de choisir entre Standard, Supérieure et Deluxe. [^3]
 Aucune remise FIP n’est accordée sur les cabines. [^2]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 Les billets FIP doivent être achetés avant le voyage. L’achat à bord des navires n’est pas possible.
 FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplémentaires sont facturées au tarif plein. Cela inclut notamment les frais de réservation de cabine, le transport de véhicules ainsi que les taxes portuaires et environnementales.
@@ -166,7 +166,7 @@ Stena Line propose des billets permettant un voyage combiné train et ferry à p
 ## Recommandations
 
 {{% highlight important %}}
-Veuillez noter que l'enregistrement n'est possible que jusqu'à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.
+Veuillez noter que l’enregistrement n’est possible que jusqu’à 45 minutes avant le départ. Prévoyez donc suffisamment de temps pour votre arrivée.
 {{% /highlight %}}
 
 L’accès à la station _Hoek van Holland Haven_ se fait généralement par la ligne de métro B depuis Rotterdam et Schiedam.
@@ -188,7 +188,7 @@ Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si
 
 ## Sources
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#StenaBV)
 
 [^3]: [Site Web Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 

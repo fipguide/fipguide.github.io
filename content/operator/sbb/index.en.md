@@ -82,6 +82,8 @@ A reservation and surcharge are required for the Italian section. It is cheaper 
     reservation_possible=true
 %}}
 Fast national trains stopping only in major cities and transfer stations.
+
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -93,6 +95,8 @@ Fast national trains stopping only in major cities and transfer stations.
     reservation_possible=true
 %}}
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
+
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 
 #### Reservations
 
@@ -173,7 +177,13 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan rou
 
 {{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
 
-### On Site
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
+%}}
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
+{{% /booking %}}
+
+### On-Site
 
 {{% booking id="sbb-ticket-office"/%}}
 
@@ -188,6 +198,8 @@ FIP Tickets cannot be purchased on the train. A penalty fee is charged for passe
 ## Discounts
 
 Children travel free on regular journeys (not special trips) up to and including 5 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
+
+In addition, there is the option to purchase an _SBB Junior Travelcard_ for CHF 30. This allows your own children up to and including 15 years of age to travel when accompanied by a parent. The accompanying parent must hold their own valid ticket for the journey (e.g. FIP Coupon or FIP 50 Ticket). The Junior Travelcard can be purchased on-site at [public transport points of sale](https://www.sbb.ch/en/travel-information/stations/find-station.html) in Switzerland. See the SBB website: [Junior Travelcard](https://www.sbb.ch/en/offers/junior-travelcard).
 
 ## Special Tariff Conditions
 
@@ -220,6 +232,6 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

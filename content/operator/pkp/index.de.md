@@ -20,7 +20,7 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 - Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen.
 - Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Śląskie (KŚ).
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
@@ -100,6 +100,25 @@ Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN
 #### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Der IC Nieśpieszny ist ein Erlebniszug im Retro-Stil von PKP Intercity mit einem Fokus auf bewusst entspanntes und langsames Reisen in historischen restaurierten Wagen.
+
+Sowohl FIP Freifahrtscheine als auch FIP 50 Tickets sind in diesem Zug nicht gültig.
+
+#### Reservierungen
+
+Eine Reservierung ist erforderlich.
 
 {{% /train-category %}}
 
@@ -230,6 +249,12 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="pkp-ticket-office" /%}}
@@ -358,7 +383,7 @@ FIP-Freifahrtscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sin
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

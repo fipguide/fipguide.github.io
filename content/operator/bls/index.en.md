@@ -15,7 +15,7 @@ The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/
 ## Summary
 
 - BLS accepts FIP Coupon and FIP 50 Tickets.
-- The use of all trains (except for car trains), buses, and ships with FIP is possible.
+- The use of all trains (except for Motorail trains), buses, and ships with FIP is possible.
 - No reservation is required.
 
 ## Validity of FIP Tickets
@@ -119,6 +119,14 @@ For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 {{% /booking %}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
+%}}
+For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
+{{% /booking %}}
+
 ### On-Site
 
 {{% booking id="bls-ticket-office"/%}}
@@ -160,6 +168,6 @@ At some operators, family members are not entitled to FIP Coupons from SBB. With
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

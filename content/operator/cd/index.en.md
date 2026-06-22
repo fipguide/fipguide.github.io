@@ -247,6 +247,12 @@ A ticket (reservation mandatory) must be purchased at the latest 15 minutes befo
 
 {{% booking id="cd-ticket-office" /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Czechia, with ticket portion only for the Czech section. For Deutsche Bahn employees only."
+/%}}
+
 ### On the Train
 
 FIP-discounted tickets can only be purchased on the train if departure is from a station where the ticket office is closed.
@@ -690,7 +696,7 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

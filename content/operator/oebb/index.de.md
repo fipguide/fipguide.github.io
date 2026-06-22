@@ -254,6 +254,12 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 {{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
@@ -312,12 +318,8 @@ FIP-Fahrscheine werden jedoch auf den von der ÖBB betriebenen Nahverkehrszügen
 Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
 
 {{% highlight tip %}}
-Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten oder 24/48/72-Stunden-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
+Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten, 24-Stunden-Tickets oder 7-Tages-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
 {{% /highlight %}}
-
-### Schneebergbahn
-
-Die Schneebergbahn ist zwar kein Teil der ÖBB oder FIP gewährt jedoch bei Vorlage des FIP Ausweises 50% Rabatt auf Tickets.
 
 ### Motorail
 
@@ -347,4 +349,4 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
