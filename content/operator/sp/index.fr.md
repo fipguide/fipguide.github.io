@@ -233,6 +233,10 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 - Funiculaire Mürren – Allmendhubel (SMA)
 - Téléphérique Stechelberg – Mürren – Schilthorn (LSMS)
 
+{{% highlight inofficial %}}
+Il nous a été signalé que le transport d'équipements de sports d'hiver (ski, snowboard) sur les Jungfraubahn n'est pas possible lors de l'utilisation du FIP.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
