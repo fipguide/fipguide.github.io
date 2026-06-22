@@ -181,7 +181,11 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d’un adulte. [^2]
+Les enfants de moins de 4 ans voyagent gratuitement sans billet mais doivent être assis sur les genoux d’un adulte. Un billet séparé peut être acheté si une place séparée est souhaitée. Les enfants dès 4 ans paient le tarif adulte FIP complet.[^1]
+
+Il n’y a pas d’autre réduction FIP pour les enfants, cependant les tarifs publics offrent une réduction de 30 à 50 %, ce qui rend une comparaison judicieuse.[^2]
+
+Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enfants de 12 à 15 ans peuvent voyager avec une personne responsable de 16 ans ou plus, ou comme mineur non accompagné muni des documents requis.[^2]
 
 ## Conditions tarifaires spéciales
 
@@ -251,6 +255,6 @@ Sans réduction FIP, la réservation en ligne est possible via [Trainsplit](http
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
-[^2]: DB Travel Market
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)

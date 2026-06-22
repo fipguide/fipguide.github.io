@@ -180,7 +180,11 @@ Tickets müssen vor dem Betreten des Zuges gekauft werden. Ein Verkauf von Ticke
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 3 Jahre reisen kostenfrei, jedoch ohne garantierten Sitzplatz. Es gibt keine weiteren Ermäßigungen für Kinder. Kinder unter 12 Jahren müssen immer von einem Erwachsenen begleitet werden (allein reisende Kinder sind nicht zugelassen). [^2]
+Kinder unter 4 Jahren reisen kostenfrei ohne Ticket, müssen aber auf dem Schoß eines Erwachsenen sitzen. Ein eigenes Ticket kann erworben werden, wenn ein eigener Sitzplatz gewünscht ist. Kinder ab 4 Jahren zahlen den vollen FIP-Erwachsenenpreis.[^1]
+
+Mit FIP gibt keine weiteren Ermäßigungen für Kinder, bei öffentlichen Tarifen wird jedoch ein Rabatt von 30 bis 50 % angeboten, sodass ein Vergleich sinnvoll ist.[^2]
+
+Kinder unter 12 Jahren müssen von einem Erwachsenen begleitet werden. Kinder zwischen 12 und 15 Jahren können mit einer Begleitperson ab 16 Jahren reisen oder mit den entsprechenden Dokumenten als unbegleitete Minderjährige reisen.[^2]
 
 ## Tarifliche Besonderheiten
 
@@ -250,6 +254,6 @@ Ohne FIP Ermäßigung ist die Buchung Online möglich über [Trainsplit](https:/
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
-[^2]: DB Reisemarkt
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm#buy-a-ticket-to-london-international-civ)
