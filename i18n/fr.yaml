@@ -13,9 +13,7 @@ booking:
   not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
-  send-mail-fip-50-ticket: Envoyer un e-mail (Billet FIP 50)
-  send-mail-fip-global-fare: Envoyer un e-mail (Tarif Global FIP)
-  send-mail-reservation: Envoyer un e-mail (Réservation)
+  send-mail: Envoyer un e-mail
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
 contact:

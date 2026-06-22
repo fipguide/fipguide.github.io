@@ -1,4 +1,10 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
+{{- $metaFields := slice
+  (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
+  (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
+  (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
+  (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
+-}}
 <summary class="o-expander__summary o-expander__summary--booking">
   <div class="o-booking__header-content">
     <div class="o-booking__title-wrapper">
@@ -12,12 +18,6 @@
         </div>
       {{- end }}
       <div class="o-booking__meta">
-        {{- $metaFields := slice
-          (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
-          (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
-          (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
-          (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
-        -}}
         {{- range $metaFields -}}
           {{- if ne .value "nil" -}}
             {{- if .value -}}
@@ -71,5 +71,5 @@
     {{- $content | safeHTML -}}
   </div>
 
-  {{ partial "booking-links" .page }}
+  {{- partial "booking-links" (dict "params" .page.Params "metaFields" $metaFields) -}}
 </div>

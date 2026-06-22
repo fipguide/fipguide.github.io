@@ -1,51 +1,49 @@
-{{- $emailTemplates := .Params.email_templates -}}
-{{- $fip50Email := and $emailTemplates (index $emailTemplates "fip_50") -}}
-{{- $globalFareEmail := and $emailTemplates (index $emailTemplates "fip_global_fare") -}}
-{{- $reservationEmail := and $emailTemplates (index $emailTemplates "reservations") -}}
-{{- $showGlobalFareEmailButton := and (eq .Params.type "email") (eq .Params.fip_global_fare true) $globalFareEmail $globalFareEmail.to $globalFareEmail.subject $globalFareEmail.body -}}
-{{- $showFip50EmailButton := and (eq .Params.type "email") (eq .Params.fip_50 true) $fip50Email $fip50Email.to $fip50Email.subject $fip50Email.body -}}
-{{- $showReservationEmailButton := and (eq .Params.type "email") (eq .Params.reservations true) $reservationEmail $reservationEmail.to $reservationEmail.subject $reservationEmail.body -}}
-{{- if or .Params.booking_link .Params.additional_info_link $showGlobalFareEmailButton $showFip50EmailButton $showReservationEmailButton -}}
+{{- $params := .params -}}
+{{- $emailTemplates := $params.email_templates -}}
+{{- $emailTypes := slice "fip_50" "fip_75" "fip_global_fare" "reservations" -}}
+{{- $emailButtons := slice -}}
+{{- range $emailType := $emailTypes -}}
+  {{- $metaMatches := where $.metaFields "key" $emailType -}}
+  {{- $metaValue := false -}}
+  {{- $metaLabel := "" -}}
+  {{- if gt (len $metaMatches) 0 -}}
+    {{- $metaValue = (index $metaMatches 0).value -}}
+    {{- $metaLabel = (index $metaMatches 0).label -}}
+  {{- end -}}
+  {{- $template := and $emailTemplates (index $emailTemplates $emailType) -}}
+  {{- $showEmailButton := and (eq $params.type "email") (eq $metaValue true) $template $template.to $template.subject $template.body -}}
+  {{- if $showEmailButton -}}
+    {{- $buttonText := T "booking.send-mail" -}}
+    {{- if $metaLabel -}}
+      {{- $buttonText = printf "%s (%s)" (T "booking.send-mail") (T $metaLabel) -}}
+    {{- end -}}
+    {{- $emailButtons = $emailButtons | append (dict
+      "Destination" (printf "mailto:%s?subject=%s&body=%s" $template.to (replace ($template.subject | urlquery) "+" "%20") (replace ($template.body | urlquery) "+" "%20"))
+      "Text" $buttonText
+      )
+    -}}
+  {{- end -}}
+{{- end -}}
+{{- if or $params.booking_link $params.additional_info_link (gt (len $emailButtons) 0) -}}
   <div class="o-booking__links">
-    {{- if .Params.booking_link -}}
+    {{- if $params.booking_link -}}
       {{- partial "button"
         (dict
-        "Destination" .Params.booking_link
+        "Destination" $params.booking_link
         "Text" (T "booking.visit-booking-website")
         )
       -}}
     {{- end -}}
-    {{- if .Params.additional_info_link -}}
+    {{- if $params.additional_info_link -}}
       {{- partial "button"
         (dict
-        "Destination" .Params.additional_info_link
+        "Destination" $params.additional_info_link
         "Text" (T "booking.visit-additional-information-website")
         )
       -}}
     {{- end -}}
-    {{- if $showGlobalFareEmailButton -}}
-      {{- partial "button"
-        (dict
-        "Destination" (printf "mailto:%s?subject=%s&body=%s" $globalFareEmail.to (replace ($globalFareEmail.subject | urlquery) "+" "%20") (replace ($globalFareEmail.body | urlquery) "+" "%20"))
-        "Text" (T "booking.send-mail-fip-global-fare")
-        )
-      -}}
-    {{- end -}}
-    {{- if $showFip50EmailButton -}}
-      {{- partial "button"
-        (dict
-        "Destination" (printf "mailto:%s?subject=%s&body=%s" $fip50Email.to (replace ($fip50Email.subject | urlquery) "+" "%20") (replace ($fip50Email.body | urlquery) "+" "%20"))
-        "Text" (T "booking.send-mail-fip-50-ticket")
-        )
-      -}}
-    {{- end -}}
-    {{- if $showReservationEmailButton -}}
-      {{- partial "button"
-        (dict
-        "Destination" (printf "mailto:%s?subject=%s&body=%s" $reservationEmail.to (replace ($reservationEmail.subject | urlquery) "+" "%20") (replace ($reservationEmail.body | urlquery) "+" "%20"))
-        "Text" (T "booking.send-mail-reservation")
-        )
-      -}}
+    {{- range $emailButtons -}}
+      {{- partial "button" . -}}
     {{- end -}}
   </div>
 {{- end -}}
