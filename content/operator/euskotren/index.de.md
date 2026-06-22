@@ -138,7 +138,7 @@ Euskotren betreibt auch das baskische Eisenbahnmuseum in Azpeitia, das mit dem B
 
 ## Quellen
 
-[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
 
