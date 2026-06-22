@@ -92,4 +92,4 @@ Fahrtunterbrechungen sind nur erlaubt, um Anschlusszüge zu erreichen.[^1]
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-143)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)

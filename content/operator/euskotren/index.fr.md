@@ -137,7 +137,7 @@ Euskotren exploite également le musée ferroviaire basque d’Azpeitia, accessi
 
 ## Sources
 
-[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
 

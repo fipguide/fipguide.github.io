@@ -127,6 +127,6 @@ On its website, ŁKA offers a [live map](https://infoportal.lka.lodzkie.pl/#!/) 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Ticket sales on the train](https://lka.lodzkie.pl/obsluga-pociagu/)

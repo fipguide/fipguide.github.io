@@ -249,7 +249,7 @@ Without FIP discount, online booking is possible via [Trainsplit](https://trains
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
 [^2]: DB Travel Market
 

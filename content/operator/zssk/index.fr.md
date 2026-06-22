@@ -216,6 +216,6 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)

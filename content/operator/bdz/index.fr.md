@@ -141,4 +141,4 @@ La BDŽ propose encore une offre relativement large sur un réseau vieillissant.
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)
