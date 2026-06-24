@@ -123,10 +123,6 @@ Die Umweltgebühren betragen 2,00 £ / 2,00 € für Fahrgäste, 3,00 £ / 3,00 
 
 {{% /expander %}}
 
-### Online
-
-{{% booking id="stena-line-limited-email" /%}}
-
 ### Telefon
 
 {{% booking id="stena-line-limited-phone" /%}}
