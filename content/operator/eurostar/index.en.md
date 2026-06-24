@@ -143,7 +143,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     reservations=nil
 /%}}
 
-{{% booking id="ffestiniogtravel-email"
+{{% booking id="ffestiniogtravel-phone"
     fip_50=nil
     fip_75=nil
     fip_global_fare=true
