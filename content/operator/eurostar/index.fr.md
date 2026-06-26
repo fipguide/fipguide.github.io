@@ -75,8 +75,8 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne.
 | Trajet                   | Standard       | Plus           |
 | ------------------------ | -------------- | -------------- |
 | Trajet dans un seul pays | Non disponible | Non disponible |
-| Trajet entre 2 pays      | 18 €           | 35 €           |
-| Trajet entre 3 pays      | 20 €           | 40 €           |
+| Trajet entre 2 pays      | 18 € / 15,50 £ | 35 € / 30,50 £ |
+| Trajet entre 3 pays      | 20 € / 17,50 £ | 40 € / 35 £    |
 
 {{% /train-category %}}
 
