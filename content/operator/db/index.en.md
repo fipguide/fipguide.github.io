@@ -401,6 +401,6 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

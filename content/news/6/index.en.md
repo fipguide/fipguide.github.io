@@ -30,6 +30,4 @@ FIP benefits are **not** valid on the following routes [^1]:
 
 A cost-effective option for children is also the [SBB Day Pass Children](https://www.sbb.ch/en/tickets-offers/tickets/day-passes/day-pass-children.html).
 
-## Sources
-
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)

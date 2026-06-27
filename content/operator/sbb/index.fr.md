@@ -198,6 +198,8 @@ Les Billets FIP ne peuvent pas être achetés à bord du train. Un supplément e
 
 Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéciaux) jusqu’à l’âge de 5 ans inclus. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans, le tarif adulte s’applique.
 
+En outre, il est possible d’acheter une _Carte Junior CFF_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des [points de vente des transports publics](https://www.sbb.ch/fr/informations-voyages/gares/trouver-une-gare.html) en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
+
 ## Conditions tarifaires spéciales
 
 ### Reconnaissance mutuelle CFF / BLS
@@ -235,6 +237,6 @@ Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Communauté FIP Guide — Commentaires](https://discord.com/channels/1250522473188032512/1448243039398264893)

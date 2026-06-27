@@ -381,7 +381,7 @@ Les Coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

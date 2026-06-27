@@ -401,6 +401,6 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
