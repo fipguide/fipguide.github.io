@@ -190,7 +190,7 @@ Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres
 
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
-In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken erreichbar. An einem personenbesetzten Ticketschalter kann ein „Bono Gratuit" (für den FIP Freifahrtschein) angefordert werden – ein kostenloses Ticket, das die Schranken öffnet. Es ist nur für eine einzelne Fahrt gültig.[^4]
+In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken erreichbar. Vor Ort muss das Personal angesprochen werden, um durch die Zugangsschranken zu gelangen.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -273,7 +273,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^4]: [Nutzerfeedback: Zugangsschranken Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)
 
 [^5]: [Renfe FIP-Preise (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
