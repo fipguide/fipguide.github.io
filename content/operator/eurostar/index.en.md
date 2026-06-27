@@ -72,11 +72,11 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 
 **FIP Global Fare:**
 
-| Route                      | Standard | Plus   |
-| -------------------------- | -------- | ------ |
-| Travel within one country  | No FIP   | No FIP |
-| Travel between 2 countries | € 18     | € 35   |
-| Travel between 3 countries | € 20     | € 40   |
+| Route                      | Standard       | Plus           |
+| -------------------------- | -------------- | -------------- |
+| Travel within one country  | No FIP         | No FIP         |
+| Travel between 2 countries | € 18 / £ 15.50 | € 35 / £ 30.50 |
+| Travel between 3 countries | € 20 / £ 17.50 | € 40 / £ 35    |
 
 {{% /train-category %}}
 
@@ -143,7 +143,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     reservations=nil
 /%}}
 
-{{% booking id="ffestiniogtravel-email"
+{{% booking id="ffestiniogtravel-phone"
     fip_50=nil
     fip_75=nil
     fip_global_fare=true

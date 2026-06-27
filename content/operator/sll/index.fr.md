@@ -121,10 +121,6 @@ Les taxes portuaires et les taxes environnementales sont ajoutées au tarif conf
 Les taxes environnementales sont de 2,00 £ / 2,00 € pour les passagers, 3,00 £ / 3,00 € pour les véhicules et 1,00 £ / 1,00 € pour les enfants (4-15 ans).
 {{% /expander %}}
 
-### En ligne
-
-{{% booking id="stena-line-limited-email" /%}}
-
 ### Par téléphone
 
 {{% booking id="stena-line-limited-phone" /%}}
