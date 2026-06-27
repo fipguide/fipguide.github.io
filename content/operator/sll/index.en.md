@@ -123,10 +123,6 @@ Environmental charges are £ 2,00 / € 2,00 for passengers, £ 3,00 / € 3,00 
 
 {{% /expander %}}
 
-### Online
-
-{{% booking id="stena-line-limited-email" /%}}
-
 ### Telephone
 
 {{% booking id="stena-line-limited-phone" /%}}
