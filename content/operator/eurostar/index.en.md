@@ -72,11 +72,11 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 
 **FIP Global Fare:**
 
-| Route                      | Standard | Plus   |
-| -------------------------- | -------- | ------ |
-| Travel within one country  | No FIP   | No FIP |
-| Travel between 2 countries | € 18     | € 35   |
-| Travel between 3 countries | € 20     | € 40   |
+| Route                      | Standard       | Plus           |
+| -------------------------- | -------------- | -------------- |
+| Travel within one country  | No FIP         | No FIP         |
+| Travel between 2 countries | € 18 / £ 15.50 | € 35 / £ 30.50 |
+| Travel between 3 countries | € 20 / £ 17.50 | € 40 / £ 35    |
 
 {{% /train-category %}}
 
