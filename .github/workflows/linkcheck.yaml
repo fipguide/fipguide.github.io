@@ -53,9 +53,10 @@ jobs:
             --exclude "www.trenitalia.fr"
       - uses: actions/checkout@v3
         if: failure()
-      - uses: JasonEtco/create-an-issue@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          filename: ${{ env.ISSUE_TEMPLATE }}
+      - name: Reopen issue and add comment
         if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue reopen 1001 || true
+          gh issue comment 1001 --body-file $ISSUE_TEMPLATE
