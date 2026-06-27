@@ -67,4 +67,4 @@ Parmi les destinations phares avec la KMŁ, on trouve notamment le célèbre par
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

@@ -217,7 +217,7 @@ For connections to and from Brussels Zaventem Airport, a surcharge must be paid 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
 [^2]: [FIP Guide Community: SNCB Airport Supplement at Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 

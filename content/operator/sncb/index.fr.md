@@ -216,7 +216,7 @@ Un supplément de 7,10 € est requis pour les trajets à destination ou en prov
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
 [^2]: [FIP Guide Community: Supplément aéroport SNCB au distributeur automatique](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
