@@ -72,11 +72,11 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
 
 **FIP Globalpreis:**
 
-| Relation                 | Standard | Plus     |
-| ------------------------ | -------- | -------- |
-| Fahrt in einem Land      | Kein FIP | Kein FIP |
-| Fahrt zwischen 2 Ländern | 18 €     | 35 €     |
-| Fahrt zwischen 3 Ländern | 20 €     | 40 €     |
+| Relation                 | Standard       | Plus           |
+| ------------------------ | -------------- | -------------- |
+| Fahrt in einem Land      | Kein FIP       | Kein FIP       |
+| Fahrt zwischen 2 Ländern | 18 € / 15,50 £ | 35 € / 30,50 £ |
+| Fahrt zwischen 3 Ländern | 20 € / 17,50 £ | 40 € / 35 £    |
 
 {{% /train-category %}}
 
