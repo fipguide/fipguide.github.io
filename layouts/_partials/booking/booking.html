@@ -1,8 +1,11 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
+<h4 style="display: none" id="{{ .id }}">
+  {{- .page.Title -}}
+</h4>
 <summary class="o-expander__summary o-expander__summary--booking">
   <div class="o-booking__header-content">
     <div class="o-booking__title-wrapper">
-      <div class="o-booking__title">
+      <div class="o-booking__title" data-pagefind-ignore>
         {{- partial "icon" (index $iconMapping .page.Params.type) -}}
         <span class="o-booking__title-text">{{- .page.Title -}}</span>
       </div>
@@ -11,7 +14,7 @@
           {{- .subtitle -}}
         </div>
       {{- end }}
-      <div class="o-booking__meta">
+      <div class="o-booking__meta" data-pagefind-ignore>
         {{- $metaFields := slice
           (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
           (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
@@ -33,7 +36,7 @@
       </div>
     </div>
     {{- if and (ne .reservations "nil") (ne .reservations false) .classes -}}
-      <div class="o-booking__classes">
+      <div class="o-booking__classes" data-pagefind-ignore>
         <span class="o-booking__classes-title"
           >{{ T "booking.reservation-costs" }}:</span
         >
@@ -48,28 +51,19 @@
   {{- partial "icon" "keyboard_arrow_down" -}}
 </summary>
 <hr aria-hidden="true" />
-<div class="o-expander__content">
+<div class="o-expander__content o-booking__content">
   {{- if .info -}}
     <div class="o-booking__info">
       {{- .info | .original_page.RenderString -}}
     </div>
   {{- end -}}
-  {{- $contentClasses := slice "o-single__content" "o-booking__section" -}}
-  {{- if or (eq .fip_50 false) (eq .fip_50 "nil") }}
-    {{- $contentClasses = $contentClasses | append "o-booking__section-fip_50--hidden" -}}
-  {{- end -}}
-  {{- if or (eq .fip_global_fare false) (eq .fip_global_fare "nil") }}
-    {{- $contentClasses = $contentClasses | append "o-booking__section-fip_global_fare--hidden" -}}
-  {{- end -}}
-  {{- if or (eq .reservations false) (eq .reservations "nil") }}
-    {{- $contentClasses = $contentClasses | append "o-booking__section-reservations--hidden" -}}
-  {{- end -}}
-  <div class="{{ delimit $contentClasses " " }}">
-    {{- $content := partial "increase-headings" (dict "content" .page.Content "offset" 2) -}}
-    {{- $content := partial "prefix-footnotes" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
-    {{- $content := partial "prefix-heading-ids" (dict "content" $content "prefix" .page.File.ContentBaseName) -}}
+  <div class="o-single__content o-booking__sections">
+    {{- $content := .page.RenderShortcodes -}}
+    {{- $content = partial "transformations/increase-headings" (dict "content" $content "offset" 3) -}}
+    {{- $content = partial "transformations/transform-expander-headings" (dict "content" $content "id" .id) -}}
+    {{- $content = partial "transformations/prefix-footnotes" (dict "content" $content "id" .id) -}}
+    {{- $content = partial "transformations/resolve-images" (dict "content" $content "page" .page) -}}
     {{- $content | safeHTML -}}
   </div>
-
-  {{ partial "booking-links" .page }}
+  {{ partial "booking/links" (dict "page" .page "id" .id) }}
 </div>

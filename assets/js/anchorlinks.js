@@ -1,5 +1,7 @@
 function initAnchorlinkEventListener() {
-  const anchorLinks = document.querySelectorAll(".a-anchorlink__link");
+  const anchorLinks = document.querySelectorAll(
+    ".a-anchorlink__link, .a-anchorlink__button",
+  );
   const snackbar = document.getElementById("snackbar");
   const snackbarButton = document.getElementById("snackbar-button");
 
@@ -38,12 +40,18 @@ function closeSnackbar() {
 }
 
 if (document.readyState === "interactive") {
-  if (document.querySelectorAll(".a-anchorlink__link").length) {
+  if (
+    document.querySelectorAll(".a-anchorlink__link, .a-anchorlink__button")
+      .length
+  ) {
     initAnchorlinkEventListener();
   }
 } else {
   window.addEventListener("DOMContentLoaded", () => {
-    if (document.querySelectorAll(".a-anchorlink__link").length) {
+    if (
+      document.querySelectorAll(".a-anchorlink__link, .a-anchorlink__button")
+        .length
+    ) {
       initAnchorlinkEventListener();
     }
   });

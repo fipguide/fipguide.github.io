@@ -70,6 +70,12 @@
   }
 }
 
+.a-anchorlink__button {
+  @media print {
+    display: none;
+  }
+}
+
 .a-snackbar {
   position: fixed;
   bottom: 0;
