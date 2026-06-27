@@ -267,18 +267,14 @@ Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Ve
 
 Für eine Übersicht der Gültigkeit kann die Übersichtskarte hier verwendet werden. Ausführlichere Informationen finden sich in der Detailkarte und den konkreten Regelungen in den folgenden Abschnitten zu [ČD Kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig) und [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip).
 
-<div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="FIP Gültigkeitskarte Überblick für Tschechien" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Überblick FIP Gültigkeitskarte (Vollbild)</a> für Tschechien (© Petr Duda)</figcaption>
-  </figure>
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="FIP Gültigkeitskarte Detail für Tschechien" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Detail FIP Gültigkeitskarte (Vollbild)</a> für Tschechien (© Petr Duda)</figcaption>
-  </figure>
-</div>
+{{% columns %}}
+{{% column width="50%" %}}
+![[Überblick FIP Gültigkeitskarte (Vollbild)](/de/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Detail FIP Gültigkeitskarte (Vollbild)](/de/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
 
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
@@ -700,7 +696,7 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

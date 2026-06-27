@@ -284,6 +284,20 @@ figure {
   }
 }
 
+.o-columns {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+
+  @media (max-width: #{$breakpoint-md}) {
+    flex-direction: column;
+
+    > .o-columns__column {
+      flex-basis: 100% !important;
+    }
+  }
+}
+
 .o-single {
   padding: 2rem;
   background-color: var(--bg-default);
