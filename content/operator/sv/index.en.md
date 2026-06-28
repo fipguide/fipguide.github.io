@@ -18,7 +18,7 @@ Srbija Voz (Србија Воз) is the state railway company in Serbia and oper
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-FIP Coupons and FIP 50 Tickets are valid on SV services. For cross-border travel, either a through FIP 50 Ticket or FIP Coupons for both countries must be available.
+FIP Coupons and FIP 50 Tickets are valid on SV services. For cross-border travel, either a through FIP discounted ticket or FIP Coupons of both countries must be available.
 
 ## Train Categories and Reservations
 
@@ -33,7 +33,7 @@ FIP Coupons and FIP 50 Tickets are valid on SV services. For cross-border travel
 %}}
 
 Under the names COKO and SOKO (“falcon” in Serbian), SV operates high-speed services between Belgrade and Subotica.
-Modern Stadler Rail KISS multiple units are used, and since 15 April 2026 also new Tiger trains from the Chinese manufacturer CRRC.[^1]
+Modern Stadler Rail KISS multiple units are used, and since April 2026 also new Tiger trains from the Chinese manufacturer CRRC.[^1]
 
 #### Reservations
 
@@ -62,7 +62,7 @@ In SV’s journey planner, these trains are sometimes shown as [Inter Regio Voz 
 Reservations are mandatory. The cost is €3 per seat in both first and second class.[^2]
 
 The [costs for couchette and sleeper reservations](https://zpcg.me/en/red-voznje/medjunarodni) (click on a journey and then on “Beds”) vary depending on the coach category.
-For couchette/sleeper reservations, an additional 10% service fee applies.[^3]
+For couchette or sleeper reservations, an additional 10% service fee applies.[^3]
 
 Reservations can be made [by telephone](#telephone).
 {{% /train-category %}}
@@ -140,8 +140,7 @@ As BG:VOZ, SV operates two lines in the Belgrade metropolitan area similar to an
 
 FIP Tickets are not valid on bus lines operated by SV, unless they are rail replacement services.[^4]
 
-Passengers travelling by passenger train to/from Subotica, Belgrade Centre, Šid, Sremska Mitrovica and Užice that, according to the current operating plan, run to/from Petrovaradin can additionally use a free shuttle bus from Petrovaradin and Novi Sad in addition to regular local transport.[^5]
-The reason for this is that Novi Sad station is currently not served due to an accident.[^6]
+Currently, however, a shuttle bus between Novi Sad and Petrovaradin can be used free of charge, see [Traffic between Novi Sad and Petrovaradin](#traffic-between-novi-sad-and-petrovaradin).
 
 {{% /train-category %}}
 
@@ -163,6 +162,11 @@ The reason for this is that Novi Sad station is currently not served due to an a
 In domestic traffic as well as long-distance traffic to Montenegro, children up to and including six years travel free of charge, provided they do not require their own seat and are accompanied by an adult with a valid ticket. Children between six and 14 years as well as younger children for whom their own seat is required receive a 50% discount on the regular adult fare.[^7]
 
 ## Special Tariff Conditions
+
+### Traffic between Novi Sad and Petrovaradin
+
+Rail passengers to/from Subotica, Beograd Centar, Šid, Sremska Mitrovica and Užice can currently use a free shuttle bus between Petrovaradin and Novi Sad. Regular local transport is also currently free on this route.[^5]
+The reason for this is that Novi Sad station has not been served since November 2024 due to an accident.[^6]
 
 ### Rail Replacement Services
 

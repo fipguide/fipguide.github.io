@@ -18,7 +18,7 @@ Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbi
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pour les trajets transfrontaliers, il faut disposer soit d’un Billet FIP 50 direct, soit de Coupons FIP des deux pays.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pour les trajets transfrontaliers, il faut disposer soit d’un billet FIP à tarif réduit direct, soit de Coupons FIP des deux pays.
 
 ## Catégories de trains et réservations
 
@@ -33,7 +33,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pou
 %}}
 
 Sous les noms COKO et SOKO (« faucon » en serbe), SV exploite les services à grande vitesse entre Belgrade et Subotica.
-Des automotrices modernes KISS de Stadler Rail sont utilisées, ainsi que depuis le 15.04.2026 de nouveaux trains Tiger du constructeur chinois CRRC.[^1]
+Des automotrices modernes KISS de Stadler Rail sont utilisées, ainsi que depuis avril 2026 de nouveaux trains Tiger du constructeur chinois CRRC.[^1]
 
 #### Réservations
 
@@ -62,7 +62,7 @@ Dans les informations de correspondance de SV, ces trains sont parfois affichés
 La réservation est obligatoire. Le coût est de 3 € par place assise en première et en deuxième classe.[^2]
 
 Les [coûts des réservations en voiture-couchettes et en voiture-lits](https://zpcg.me/en/red-voznje/medjunarodni) (cliquer sur un trajet puis sur « Beds ») varient selon la catégorie de voiture.
-Pour les réservations en voiture-couchettes / voiture-lits, des frais de service supplémentaires de 10 % s’appliquent.[^3]
+Pour les réservations en voiture-couchettes ou en voiture-lits, des frais de service supplémentaires de 10 % s’appliquent.[^3]
 
 Les réservations peuvent être effectuées [par téléphone](#par-téléphone).
 {{% /train-category %}}
@@ -140,8 +140,7 @@ Sous la marque BG:VOZ, SV exploite deux lignes dans l’agglomération de Belgra
 
 Les billets FIP ne sont pas valables sur les lignes de bus exploitées par SV, sauf s’il s’agit d’un service de remplacement ferroviaire.[^4]
 
-Les voyageurs utilisant des trains de voyageurs vers / depuis Subotica, Belgrade Centre, Šid, Sremska Mitrovica et Užice qui, selon le règlement d’exploitation actuel, circulent jusqu’à / depuis Petrovaradin, peuvent en plus du trafic local régulier utiliser un bus navette gratuit au départ de Petrovaradin et Novi Sad.[^5]
-La raison en est que la gare de Novi Sad n’est actuellement pas desservie à la suite d’un accident.[^6]
+Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être utilisé gratuitement, voir [Trafic entre Novi Sad et Petrovaradin](#trafic-entre-novi-sad-et-petrovaradin).
 
 {{% /train-category %}}
 
@@ -163,6 +162,11 @@ La raison en est que la gare de Novi Sad n’est actuellement pas desservie à l
 Dans le trafic intérieur ainsi que dans le trafic grandes lignes vers le Monténégro, les enfants jusqu’à six ans inclus voyagent gratuitement, à condition qu’ils n’aient pas besoin de leur propre place assise et qu’ils soient accompagnés d’un adulte muni d’un billet valable. Les enfants entre six et 14 ans ainsi que les enfants plus jeunes pour lesquels une place assise propre est nécessaire bénéficient d’une réduction de 50 % sur le tarif adulte régulier.[^7]
 
 ## Conditions tarifaires spéciales
+
+### Trafic entre Novi Sad et Petrovaradin
+
+Les voyageurs ferroviaires vers/depuis Subotica, Beograd Centar, Šid, Sremska Mitrovica et Užice peuvent actuellement utiliser un bus navette gratuit entre Petrovaradin et Novi Sad. Le trafic local régulier est également gratuit sur cette relation.[^5]
+La raison en est que la gare de Novi Sad ne peut être desservie depuis novembre 2024 suite à un accident.[^6]
 
 ### Services de remplacement ferroviaire
 
