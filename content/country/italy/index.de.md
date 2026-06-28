@@ -45,10 +45,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 
 ### Slowenien
 
-Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP 50 Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
-
-Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
-Dabei gilt im italienischen Abschnitt (Villa Opicina – Trieste) der ÖBB FIP Coupon, wobei hier ein geringer Fernverkehrszuschlag zu zahlen ist. Dieser ist aber deutlich niedriger als die typischen FS Fernverkehrszuschläge.
+Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
 
 Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
 

@@ -80,7 +80,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     reservation_required=false
     reservation_possible=true
 %}}
-Internationale Züge, die ohne Umweg über Österreich zwischen Slowenien und Ungarn verkehren. Sie verkehren mit wenig Zwischenhalten.
+Internationale Züge, die zwischen Slowenien und Österreich, Ungarn oder Kroatien verkehren. Sie verkehren mit wenig Zwischenhalten.
 
 #### Reservierung
 

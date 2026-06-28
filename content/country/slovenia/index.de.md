@@ -1,66 +1,64 @@
 ---
 draft: false
-title: "Rumänien"
-country: "romania"
+title: "Slowenien"
+country: "slovenia"
 params:
   operators_without_fip:
-    - Astra Trains Carpatic (ATC)
-    - IRC (InterRegional Călători)
-    - RC (Regio Călători)
-    - SFTRA (Softrans)
-    - TFC (Transferoviar Călători)
-    - TFI (Ferotrans)
+  - Optima Express
 ---
 
 ## FIP Nutzung
 
-Rumänien lässt sich mit FIP insgesamt gut bereisen. Auf den Hauptrouten fährt größtenteils die rumänische Staatsbahn [CFR Călători](/operator/cfr "CFR"), bei der FIP Freifahrtscheine und FIP 50 Tickets genutzt werden können. Zu beachten ist, dass auf einigen Routen auch parallel andere Anbieter verkehren, die keine FIP-Vergünstigungen akzeptieren.
+Slowenien ist ein relativ einfaches Land für die Nutzung von FIP. Grund dafür ist, dass alle Bahnstrecken im Land von der slowenischen Staatsbahn [Slovenske železnice](/operator/sz "SŽ") betrieben werden. Dort können FIP Freifahrtscheine und FIP 50 Tickets genutzt werden können.
 
-Reservierungen sind auf den meisten Routen verpflichtend, diese sind jedoch vergleichsweise günstig. Für FIP 50 Tickets und Reservierungen ist oft der stationäre Fahrkartenschalter der einzige Ort, an dem diese erworben werden können. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten an speziell dafür ausgelegten Fahrkartenschaltern an größeren Bahnhöfen.
+Reservierungen sind bei einigen Zukgategorien verpflichtend, diese sind vor Ort jedoch vergleichsweise günstig zu erwerben. Für bestimmte Zugkategorien werden zudem Aufschläge fällig, die jedoch auch im Zug noch gekauft werden können. FIP rabattierte Tickets und Reservierungen werden an Schaltern vor Ort verkauft. Wenn der Bahnhof keinen Schalter hat, ist auch ein aufschlagsfreier Kauf im Zug möglich. Bei internationalen Verbindungen gibt es die entsprechend benötigten Fahrkarten an speziell dafür ausgelegten Fahrkartenschaltern an größeren Bahnhöfen.
 
-{{< identify-operator sources="cfr-website,cfr-international-website,db-website,vagonweb" />}}
+{{< identify-operator sources="sz-website,db-website,vagonweb" />}}
 
 ## Wissenswertes
 
-Das Schienennetz in Rumänien ist etwa 10.000 Kilometer lang und verbindet die wichtigsten Städte miteinander. Eine der wichtigsten Routen stellt die aus Ungarn kommende West-Ost-Verbindung bis nach Constanța am Schwarzen Meer dar. Der größte Bahnhof des Landes ist București Nord in der Hauptstadt Bukarest. Von dort bestehen Verbindungen in alle Richtung, inkl. internationale Verbindungen nach Ungarn, Bulgarien, Moldau und in die Ukraine.
+Das Schienennetz von Slowenien umfasst gerade einmal etwas über 1.200 Kilometer, verbindet jedoch trotzdem viele wichtige Orte und Sehenswürdigkeiten miteinander. Die Ost-West-Achse von der zweitgrößten Stadt Maribor über Ljubljana bis an die italienische Grenze bzw. an die Adriaküste ist zusammen mit der Nord-Süd-Verbindung von der österreichischen Grenze über die Hauptstadt bis an die kroatische Grenze die wichtigste Strecke des Landes. Auf vielen elektrifizierten Strecken werden im Regionalverkehr moderne Stadler-Züge eingesetzt. Auf den Nebenbahnen sind dagegen meist deutlich ältere Dieseltriebzüge zu finden.
 
-Das größtenteils in die Jahre gekommene rumänische Netz wird derzeit in Teilen zukunftsfähig und für höhere Geschwindigkeiten ausgebaut. Die bisher schnellste Strecke ist zwischen Bukarest und Constanța, auf der 160 km/h möglich sind. Es gibt oft keine wirklichen Taktverkehre, aber zumindest auf den Hauptstrecken trotzdem über den Tag verteilt einige Verbindungen.
+Die Reisegeschwindigkeiten sind eher langsam. Am schnellsten ist die Verbindung zwischen der Hauptstadt Ljublana und Maribor, auf der bis zu 160 km/h gefahren werden können. Wirkliche Taktverkehre gibt es selten, es verkehren jedoch meist einige Züge pro Tag auf den einzelnen Strecken. Unter der Woche ist dabei die Anzahl höher als am Wochenende, einzelne Bahnhöfe werden auch nur zwischen Montag und Freitag bedient. 
 
-Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwischen Ploiești und Brașov. Der auf dieser Strecke liegende Bahnhof Sinaia ist auch ein beliebter Ort für Videodrehs. Beispielsweise wurde dort eine Szene für die US-Serie Wednesday gedreht.
+Die schönste Bahnstrecke des Landes ist die Wocheinerbahn von Jesenice nach Nova Gorica, die landschaftlich spektakulär durch Berge und Täler führt. Sie führt auch an Bled vorbei, das eines der touristischen Highlights des Landes darstellt. Auch auf der Bahnstrecke zwischen Ljubljana und der italienischen Grenze liegen mit Postojna und Divača zwei der wichtigsten touristischen Orte.
 
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
-| Moldau (CFM) | Iasi, Ungheni (fr) |
-| Serbien (SV) | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац) |
-| Ukraine (UZ) | Vicsani (fr) |
-| Ungarn (MÁV) | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
+| [Italien](/country/italy) (FS) | Nova Gorica (fr), Villa-Opicina (fr) (Sloweenisch: Opčine, Triestisch: Opcina) |
+| Kroatien (HŽ) | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
+| [Österreich](/country/austria) (ÖBB) | Bleiburg (Gr) (Slowenisch: Pliberk), Jesenice (Gr) (Deutsch: Assling), Spielfeld (Gr) (Slowenisch: Špilje) |
+| Ungarn (MÁV) | Hodoš (Gr) (auch Őrihodos genannt) |
 
 {{% /expander %}}
 
-### Bulgarien
+### Italien
 
-Zwischen Rumänien und Bulgarien verkehren täglich wenige Züge. Vor allem in der Sommersaison haben diese Züge Relevanz, da es dann ein durchgängiges Zugpaar pro Tag zwischen den beiden Hauptstädten Bukarest und Sofia bzw. per Kurswagen ans schwarze Meer nach Varna und sogar über Nacht ins türkische Istanbul gibt. Außerhalb der Saison verkehrt dieses Zugpaar nur zwischen Bukarest und Ruse, dem ersten Halt in Bulgarien. Dort ist ein Umstieg nötig.
+Aus Italien kann mit Regionalzügen von Villa Opicina ins slowenische Sezana eingereist werden. Früher waren die Züge aus Triest durchgebunden, dies ist jedoch nicht mehr der Fall. Auch gibt es hier aktuell nur noch sehr wenige Verbindungen pro Tag. Für den grenzüberschreitenden Abschnitt werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt.
 
-Um mit FIP diese grenzüberschreitenden Züge zu nutzen, wird entweder ein FIP Freifahrtschein beider Länder oder ein durchgängiges FIP 50 Ticket benötigt. Darüber hinaus ist eine durchgängige Reservierung verpflichtend. Außerhalb der Sommersaison reicht diese für den bulgarischen Abschnitt ab Ruse. Für den Nachtzug kann darüber hinaus auch ein aufpreispflichtiger Platz im Liege- oder Schlafwagen reserviert werden.
+Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren. Stattdessen kann dieser Abschnitt aber zu Fuß oder mit Bus absolviert werden.
 
-Eine weitere tägliche Verbindung zwischen den beiden Ländern existiert über den Grenzübergang Vidin. Hier wird täglich vom bulgarischen Vidin ins rumänische Craiova gefahren. Auf dieser Verbindung reichen FIP Freifahrtscheine beider Länder bzw. ein durchgängiges FIP 50 Ticket aus.
+{{% highlight tip %}}
+Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen Slowenien und Italien ist online nicht möglich. Über die Trenitalia können jedoch sehr günstige grenzüberschreitende Normalpreistickets erworben werden. Diese sind bei der SŽ teurer.
+{{% /highlight %}}
 
-### Moldau
+### Kroatien
 
-Zwischen der moldawischen Hauptstadt Chişinău und Bukarest verkehrt einmal täglich ein Nachtzug. Innerhalb von Rumänien wird dieser von der CFR betrieben, in Moldau jedoch von der CFM. Da letztere kein FIP-Mitglied ist, gelten FIP-Tickets nur innerhalb von Rumänien. Für den moldawischen Abschnitt muss demnach ein Normalpreisticket gekauft werden. Es kann jedoch auch sinnvoller sein, ein durchgängiges Nachtzugticket für die ganze Strecke online zu kaufen.
+Von Kroatien aus existieren zwar diverse Strecken nach Slowenien, nicht alle werden jedoch regelmäßig befahren. Die wichtigste Verbindung geht von Zagreb aus und führt über den Grenzübergang Dobova (meist mit Ziel Ljubljana oder sogar darüber hinaus, z. B. nach Österreich). Hier verkehren über den Tag verteilt eine höhere einstellige Zahl an Zügen pro Richtung. 
 
-### Serbien
+Dobova: Zagreb - Ljubljana
+Šapjane: Rijeka - Ljubljana
+Buzet: Pula - Ljubljana
+Cakovec: Regionalverbindung, nur knapp über Grenze
+Kumrovec: Nix
+Metlika: Nix
+Mursko Središće: Nix
+Rogatec: Einzelne Regionalzüge
 
-Zurzeit verkehren leider keine Personenzüge zwischen Serbien und Rumänien.
-
-### Ukraine
-
-Es wurden in der Vergangenheit immer mal wieder direkte Züge über die ukrainisch-rumänische Grenze angeboten, diese sind jedoch aktuell eingestellt. Stattdessen führt derzeit ein Direktzug zwischen Kiew und Bukarest über Moldau. FIP-Tickets können nur für den rumänischen Abschnitt erworben werden. Es kann jedoch auch sinnvoller sein, ein durchgängiges Nachtzugticket für die ganze Strecke online zu kaufen.
+### Österreich
 
 ### Ungarn
 
-Die meisten internationalen Verbindungen nach Rumänien kommen aus Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte _Dacia_, der vom österreichischen Wien kommend über Budapest nach Bukarest fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV vorhanden sein (wenn aus Österreich gefahren wird ist auch noch ein Ticket für den Abschnitt der ÖBB notwendig).
