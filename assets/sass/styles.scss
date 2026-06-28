@@ -49,12 +49,6 @@ ol {
   }
 }
 
-button {
-  font-size: 1.8rem;
-  border-radius: var(--border-radius-s);
-  @include focus-indicator(0.2rem);
-}
-
 a,
 .o-link {
   color: var(--link-default);
@@ -393,10 +387,6 @@ figure {
   height: 1.3em;
   width: auto;
   aspect-ratio: 1 / 1;
-}
-
-button:not(:disabled) {
-  cursor: pointer;
 }
 
 hr {

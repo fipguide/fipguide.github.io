@@ -148,11 +148,6 @@ menu > li > menu {
     }
     color: var(--link-hovered);
   }
-}
-
-.o-nav__close-button,
-.o-nav__menu-button {
-  display: flex;
 
   @media (min-width: #{$breakpoint-md}) {
     display: none;
@@ -252,6 +247,7 @@ menu > li > menu {
   color: var(--color-body);
   transition: color 0.3s ease;
   height: fit-content;
+  line-height: normal;
 
   &:hover {
     color: var(--link-hovered);
