@@ -267,18 +267,14 @@ On some routes and in some regions, FIP benefits are not valid, even if the serv
 
 For an overview of validity, the overview map can be used here. More detailed information can be found in the detailed map and the specific rules in the following sections on [ČD Commercial Services (Surcharge Required)](#čd-commercial-services-surcharge-required) and [ČD Services Without FIP](#čd-services-without-fip).
 
-<div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="FIP validity map overview for Czechia" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Overview FIP validity map (full view)</a> for Czechia (© Petr Duda)</figcaption>
-  </figure>
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="FIP validity map detail for Czechia" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Detailed FIP validity map (full view)</a> for Czechia (© Petr Duda)</figcaption>
-  </figure>
-</div>
+{{% columns %}}
+{{% column width="50%" %}}
+![[Overview FIP validity map (full view)](/en/operator/cd/cd-fip-map-overview-26.webp) for Czechia (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Detailed FIP validity map (full view)](/en/operator/cd/cd-fip-map-detail-26.webp) for Czechia (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
 
 ### ČD Commercial Services (Surcharge Required)
 
@@ -700,7 +696,7 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

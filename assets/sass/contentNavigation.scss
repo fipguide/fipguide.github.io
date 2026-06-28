@@ -189,8 +189,8 @@
     &__header {
       display: flex;
       align-items: center;
+      justify-content: space-between;
       flex-direction: column;
-      gap: 1.5rem;
       width: 100%;
       border-top: var(--border);
       border-bottom: 1px solid #3d444d;

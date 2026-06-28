@@ -357,4 +357,4 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 
 ## Sources
 
-[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)

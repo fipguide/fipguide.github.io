@@ -121,4 +121,4 @@ Die Nutzung von FIP bei der KD ist durch sehr wenige Ausnahmen einfach und beque
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

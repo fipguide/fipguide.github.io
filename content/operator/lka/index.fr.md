@@ -127,6 +127,6 @@ Sur son site Web, ŁKA propose une [carte en temps réel](https://infoportal.lka
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Vente de billets dans le train](https://lka.lodzkie.pl/obsluga-pociagu/)
