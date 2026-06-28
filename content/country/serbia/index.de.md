@@ -36,7 +36,7 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 | Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
 | [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                        |
 | Bosnien und Herzegowina (ZRS/ZFBH)                         | Savski Brežovljani, Zvornik                              |
-| Kroatien (HŽ)                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)     |
+| Kroatien (HŽ)                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
 
 {{% /expander %}}
 
