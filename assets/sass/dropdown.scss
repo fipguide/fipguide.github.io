@@ -117,7 +117,9 @@
   &__menu {
     z-index: 20;
     display: none;
-    position: absolute;
+    position: fixed;
+    left: anchor(left);
+    position-try-fallbacks: --dropdown-align-right;
     background: var(--bg-default);
     border-radius: var(--border-radius-m);
     list-style: none;
@@ -132,20 +134,15 @@
     overflow-y: auto;
 
     &--above {
-      position: fixed;
       bottom: anchor(top);
-      left: anchor(left);
       animation-name: dropdown-open-above;
       margin-bottom: 0.5rem;
     }
 
     &--below {
-      position: fixed;
       top: anchor(bottom);
-      left: anchor(left);
       animation-name: dropdown-open-below;
       margin-top: 0.5rem;
-      position-try-fallbacks: --dropdown-align-right;
     }
 
     &--right {
