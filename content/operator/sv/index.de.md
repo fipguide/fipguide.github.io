@@ -163,9 +163,9 @@ Im Inlandsverkehr sowie Fernverkehr nach Montenegro reisen Kinder bis einschlie�
 
 ## Tarifliche Besonderheiten
 
-### Verkehr zwischen Novi Sad und Petrovaradin 
+### Verkehr zwischen Novi Sad und Petrovaradin
 
-Bahnreisende von/nach Subotica, Beograd Centar, Šid, Sremska Mitrovica und Užice  können derzeit einen kostenlosen Shuttlebus zwischen Petrovaradin und Novi Sad nutzen. Auch der reguläre Nahverkehr ist auf dieser Relation aktuell kostenlos.[^5]
+Bahnreisende von/nach Subotica, Beograd Centar, Šid, Sremska Mitrovica und Užice können derzeit einen kostenlosen Shuttlebus zwischen Petrovaradin und Novi Sad nutzen. Auch der reguläre Nahverkehr ist auf dieser Relation aktuell kostenlos.[^5]
 Grund hierfür ist, dass der Bahnhof von Novi Sad aufgrund eines Unfalls seit November 2024 nicht angefahren werden kann.[^6]
 
 ### Schienenersatzverkehr
