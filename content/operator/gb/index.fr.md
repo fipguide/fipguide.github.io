@@ -490,7 +490,13 @@ Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’ach
 
 ### En ligne
 
-{{% booking id="caledonian-sleeper-website" subtitle="Uniquement Caledonian Sleeper" /%}}
+{{% booking id="gwr-website"
+    subtitle="Tous les services nationaux"
+/%}}
+
+{{% booking id="gwr-whatsapp"
+    subtitle="Tous les services nationaux"
+/%}}
 
 {{% booking id="lner-website"
     subtitle="Uniquement services LNER"
@@ -498,7 +504,7 @@ Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’ach
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
-{{% booking id="gwr-whatsapp" /%}}
+{{% booking id="caledonian-sleeper-website" subtitle="Uniquement Caledonian Sleeper" /%}}
 
 ### En gare
 
