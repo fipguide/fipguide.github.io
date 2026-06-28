@@ -9,7 +9,9 @@ params:
 
 ## FIP Nutzung
 
-In Serbien können Züge der [Serbischen Bahn SV](/operator/sv "SV") mit FIP Tickets genutzt werden. Die SV ist eines der wichtigsten Verkehrsmittel und betreibt den Großteil des Personenverkehrs im Land.
+In Serbien können Züge der Staatsbahn [Srbija Voz](/operator/sv "SV") mit FIP Tickets genutzt werden. Sie ist nahezu das einzige Eisenbahnverkehrsunternehmen im Land und betreibt daher den Großteil des Schienenersonenverkehrs. Bis auf die Reservierungspflicht bei einzelnen Zugkategorien bzw. Verbindungen ist die Nutzung von FIP relativ einfach.
+
+Der Kosovo wird zwar von Serbien als Teil des Landes beansprucht, allerdings verkehren dort ausschließlich Züge vom Betreiber Trainkos, bei dem FIP keine Gültigkeit hat. Kosovo ist damit nicht mit FIP-Rabatten befahrbar.
 
 {{< identify-operator sources="sv-website,db-website,vagonweb" >}}
 {{< /identify-operator >}}
@@ -18,9 +20,9 @@ In Serbien können Züge der [Serbischen Bahn SV](/operator/sv "SV") mit FIP Tic
 
 Serbien besitzt mit ca. 3.700 km Schienennetz ein vergleichsweise ausgedehntes Bahnnetz.
 
-Städtenamen und Bahnhöfe werden in den Fahrplänen und in den Bahnhöfen auf serbisch geschrieben – da das kyrillische Alphabet genutzt wird, kann es zu Herausforderungen bei der Orientierung kommen, insbesondere für Reisende, die mit dem kyrillischen Alphabet nicht vertraut sind. Es ist ratsam, sich vor der Reise mit den kyrillischen Bezeichnungen vertraut zu machen oder eine Übersetzungs-App zu verwenden.
+Städtenamen und Bahnhöfe werden in den Fahrplänen und in den Bahnhöfen auf serbisch geschrieben. Da das kyrillische Alphabet genutzt wird, kann es zu Herausforderungen bei der Orientierung kommen. Es ist ratsam, sich vor der Reise mit den kyrillischen Bezeichnungen vertraut zu machen oder eine Übersetzungs-App zu verwenden.
 
-Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet als in Westeuropa. Allerdings gibt es zunehmende Anstrengungen zur Modernisierung und Verbesserung der Infrastruktur. So sind einige Neubaustrecken in Planung und teilweise bereits im Bau – so z. B. die Schnellfahrstrecke zwischen Belgrad und Budapest. Auch einige Neufahrzeuge von Stadler Rail, CRRC und CAF wurden beauftragt. Die Pünktlichkeit der Fahrten variiert und die Taktung ist auf den meisten Strecken weniger dicht als in Westeuropa.
+Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und weniger modern ausgestattet. Auf der Strecke von Belgrad nach Subotica verkehren dagegen im Inter City Verkehr moderne Triebzüge im Taktverkehr. Auch bei der Infrastruktur gibt es zunehmende Anstrengungen zur Modernisierung und Verbesserung. So sind einige Neubaustrecken in Planung. Quasi fertig, aber noch ohne durchgängigen Personenverkehr ist die Schnellfahrstrecke zwischen Belgrad und Budapest. Auch einige Neufahrzeuge von Stadler Rail, CRRC und CAF wurden beauftragt. Die Pünktlichkeit der Fahrten variiert und auf vielen Strecken verkehren nur wenige Züge pro Tag.
 
 ## Anreise und Grenzpunkte
 
@@ -34,13 +36,13 @@ Die Züge in Serbien sind überwiegend älter und weniger modern ausgestattet al
 | Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
 | [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                        |
 | Bosnien und Herzegowina (ZRS/ZFBH)                         | Savski Brežovljani, Zvornik                              |
-| Kroatien (HŽ)                                              | Erdut (Gr) (Serbian: Ердут), Šid (Gr) (Serbian: Шид)     |
+| Kroatien (HŽ)                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)     |
 
 {{% /expander %}}
 
 ### Ungarn
 
-Von Budapest kommend ist es möglich mit zwei Umstiegen (Szeged und Subotica) nach Belgrad zu gelangen. Der grenzüberschreitende Abschnitt von Szeged in Ungarn nach Subotica in Serbien findet im Regionalverkehr statt. Die Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP 50 Ticket oder FIP Freifahrtschein beider Bahngesellschaften benötigt.
+Von Budapest kommend ist es möglich mit zwei Umstiegen (Szeged und Subotica) nach Belgrad zu gelangen. Der grenzüberschreitende Abschnitt von Szeged in Ungarn nach Subotica in Serbien findet im Regionalverkehr statt. Die Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Bahngesellschaften benötigt. Auf der Schnellfahrstrecke zwischen Budapest und Belgrad sollen zukünftig durchgängige Züge, teilweise sogar aus Wien kommend, verkehren.
 
 ### Rumänien
 
@@ -58,7 +60,7 @@ Zurzeit verkehren keine Personenzüge zwischen Serbien und Nordmazedonien.
 
 Zurzeit verkehren keine Personenzüge zwischen Serbien und dem Kosovo.
 
-**Hinweis:** Kosovo wird von Serbien nicht als unabhängiger Staat anerkannt, daher beansprucht Serbien auch noch das Schiennetz im Kosovo für sich. Da aufgrund der politischen Lage keine grenzüberschreitenden Verbindungen zwischen Serbien und dem Kosovo existieren, besteht daher im Kontext von FIP keine Relevanz.
+**Hinweis:** Kosovo wird von Serbien nicht als unabhängiger Staat anerkannt, allerdings verkehren dort ausschließlich Züge von Trainkos (kein FIP-Mitglied) und es gibt keine grenzüberschreitenden Züge. Im Kontext von FIP hat dies daher keine Relevanz.
 
 ### Montenegro
 
@@ -66,7 +68,7 @@ Aus Montenegro kann die grenzüberschreitende Verbindung via Bijelo Polje genutz
 
 ### Bosnien und Herzegowina
 
-Zurzeit verkehren keine Personenzüge zwischen Serbien und Bosnien und Herzegowina.
+Der Bahnhof Štrpci ist derzeit der einzige Bahnhof in Bosnien und Herzegowina, von dem es eine grenzüberschreitende Verbindung nach Serbien gibt. Der Bahnhof im äußersten Osten des Landes ist Teil der innerserbischen Strecke von Belgrad nach Pirjepolje Teretna (teilweise weiter nach Montenegro) und führt nur ganz kurz über bosnisches Gebiet. Auf Grenzkontrollen wird hier in der Regel verzichtet. Ein FIP-Freifahrtschein oder FIP-ermäßigtes Ticket von SV ist hier ausreichend, da der Betreiber für den kurzen grenzüberschreitenden Abschnitt nicht wechselt.
 
 ### Kroatien
 

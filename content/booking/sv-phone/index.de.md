@@ -13,7 +13,7 @@ params:
 
 ## Reservierungen
 
-Buchungsanfragen für internationale Züge zwischen Serbien und Montenegro können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof in Serbien (Belgrad, Subotica) abgeholt werden. Das Reservierungszentrum ist von 9:00 bis 17:00 Uhr erreichbar.[^1]
+Buchungsanfragen für internationale Züge zwischen Serbien und Montenegro können bis zu 30 Tage im Voraus via [Telefon](tel:+381113602899) unter der Nummer +381113602899 erfolgen. Innerhalb von 24 Stunden müssen die Reservierungen am Bahnhof in Serbien (Belgrad, Subotica) abgeholt werden. Die Hotline für Reservierungen ist zwischen 9:00 und 17:00 Uhr erreichbar.[^1]
 
 {{% /booking-section %}}
 
