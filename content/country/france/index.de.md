@@ -24,7 +24,7 @@ Auf internationalen Verbindungen können [Eurostar](/operator/eurostar "Eurostar
 
 Frankreich hat ein gutes ausgebautes Bahnnetz, ist aber insbesondere für die schnellen und häufigen TGV Verbindungen zwischen Paris und den anderen großen Städten des Landes bekannt. Das Netz ist stark auf Paris als Zentrum ausgerichtet, sodass viele Verbindungen über die Hauptstadt führen. Beim Umstieg in Paris sollte eine ausreichende Umstiegszeit eingeplant werden, da oftmals der Bahnhof mit der Metro (keine Gültigkeit von FIP) gewechselt werden muss. Zusätzlich schließen im Fernverkehr die Türen für eine pünktliche Abfahrt meist schon zwei Minuten vorher.
 
-Bei der SNCF gibt es außerdem [Gepäckbeschränkungen](https://www.sncf-voyageurs.com/en/travel-with-us/in-france/tgv-inoui/your-luggage-and-lockers/) und alle Geppäckstücke müssen mit einem Gepäckanhänger versehen sein. Diese sind kostenlos an größeren Bahnhöfen erhältlich oder können online heruntergeladen und ausgedruckt werden.
+Bei der SNCF gibt es außerdem [Gepäckbeschränkungen](https://www.sncf-voyageurs.com/en/travel-with-us/in-france/tgv-inoui/your-luggage-and-lockers/) und alle Gepäckstücke müssen mit einem Gepäckanhänger versehen sein. Diese sind kostenlos an größeren Bahnhöfen erhältlich oder können online heruntergeladen und ausgedruckt werden.
 
 Auf den Regionalverbindungen gibt es meist keine Takte und ein überwiegend unregelmäßiges Angebot. Auf einigen Routen fahren manchmal nur wenige Züge am Tag, während auf anderen Strecken mehrere Züge stündlich verkehren.
 
