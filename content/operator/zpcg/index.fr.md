@@ -83,9 +83,20 @@ Apparemment, les billets et réservations peuvent aussi être réservés par e-m
 Nous ne disposons toutefois pas d’informations officielles sur cette procédure.
 {{% /highlight %}}
 
+### Par téléphone
+
+{{% booking
+    id="sv-phone"
+    subtitle="Réservation de voyages internationaux entre la Serbie et le Monténégro"
+/%}}
+
 ### En gare
 
 {{% booking id="zpcg-ticket-office" /%}}
+
+{{% booking id="sv-ticket-office"
+    subtitle="Pour les trains internationaux uniquement"
+/%}}
 
 ### À bord du train
 
