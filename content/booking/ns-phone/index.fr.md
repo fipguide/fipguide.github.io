@@ -16,7 +16,7 @@ La NS propose une hotline de réservation pour les billets et les réservations 
 
 Pour la réservation, une carte de crédit est requise, le paiement se fait par un lien envoyé par e-mail.
 
-La hotline est joignable tous les jours de 7h à 23h.
+La hotline est joignable du lundi au vendredi de 7 h à 19 h, et le samedi et le dimanche de 8 h 30 à 17 h.
 
 {{% satellite /%}}
 

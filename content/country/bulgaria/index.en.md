@@ -30,7 +30,7 @@ The route highlights include, on the one hand, the north–south lines running t
 | [Romania](/country/romania) ([CFR](/operator/cfr))         | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                  |
 | Turkey (TCDD)                                              | Kapikule (fr)                                                            |
 | [Greece](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
-| Serbia (SV)                                                | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)                       |
+| [Serbia](/country/serbia) ([SV](/operator/sv))             | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)                       |
 
 {{% /expander %}}
 
