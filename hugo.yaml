@@ -30,6 +30,8 @@ module:
       target: "static/css/@fontsource"
     - source: "node_modules/@material-symbols/svg-700/rounded"
       target: "static/icons/material-symbols-rounded"
+  hugoVersion:
+    min: "0.160.1"
 
 related:
   includeNewer: true
