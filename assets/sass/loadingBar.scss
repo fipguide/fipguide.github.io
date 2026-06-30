@@ -1,0 +1,14 @@
+.o-loading-bar {
+  position: absolute;
+  bottom: -0.3rem;
+  left: 0;
+  width: 0;
+  height: 0.3rem;
+  background-color: var(--link-default);
+  pointer-events: none;
+
+  &--active {
+    transition: width 8s cubic-bezier(0.1, 0.5, 0.2, 1);
+    width: 100%;
+  }
+}
