@@ -49,7 +49,7 @@ Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen de
 | [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                 |
 | Ungarn ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                      |
 | Ungarn (MÁV)                                                 | Hegyshalom (Gr), Sopron                                                                                   |
-| Slowenien (SŽ)                                               | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr)                                                        |
+| [Slowenien](/country/slovenia) ([SŽ](/operator/sz))          | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr)                                                        |
 | [Italien](/country/italy) ([FS](/operator/fs))               | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                               |
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb))       | Buchs SG, St. Margrethen                                                                                  |
 | [Deutschland](/country/germany) ([DB](/operator/db))         | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |

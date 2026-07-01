@@ -49,7 +49,7 @@ Both lines are well developed, with trains running every half hour between major
 | [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                       |
 | Hungary ([GySEV](/operator/gysev))                           | Pamhagen (Gr), Szentgotthárd, Sopron                                                                            |
 | Hungary (MÁV)                                                | Hegyshalom (Gr), Sopron                                                                                         |
-| Slovenia (SŽ)                                                | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr)                                                               |
+| [Slovenia](/country/slovenia) ([SŽ](/operator/sz))           | Bleiburg(Gr), Spielfeld-Strass(Gr), Rosenbach(Gr)                                                               |
 | [Italy](/country/italy) ([FS](/operator/fs))                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                                     |
 | [Switzerland](/country/switzerland) ([SBB](/operator/sbb))   | Buchs SG, St. Margrethen                                                                                        |
 | [Germany](/country/germany) ([DB](/operator/db))             | Passau, Salzburg (local trains to Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
