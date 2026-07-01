@@ -47,18 +47,12 @@ Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen S
 
 ### Kroatien
 
-Von Kroatien aus existieren zwar diverse Strecken nach Slowenien, nicht alle werden jedoch regelmäßig befahren. Die wichtigste Verbindung geht von Zagreb aus und führt über den Grenzübergang Dobova (meist mit Ziel Ljubljana oder sogar darüber hinaus, z. B. nach Österreich). Hier verkehren über den Tag verteilt eine höhere einstellige Zahl an Zügen pro Richtung. 
-
-Dobova: Zagreb - Ljubljana
-Šapjane: Rijeka - Ljubljana
-Buzet: Pula - Ljubljana
-Cakovec: Regionalverbindung, nur knapp über Grenze
-Kumrovec: Nix
-Metlika: Nix
-Mursko Središće: Nix
-Rogatec: Einzelne Regionalzüge
+Von Kroatien aus existieren zwar diverse Strecken nach Slowenien, nicht alle werden jedoch regelmäßig befahren. Die wichtigste Verbindung geht von Zagreb aus und führt über den Grenzübergang Dobova (meist mit Ziel Ljubljana oder sogar darüber hinaus, z. B. nach Österreich). Hier verkehren über den Tag verteilt eine höhere einstellige Zahl an Zügen pro Richtung. Darunter ist auch ein Nachtzug, der von Kroatien über Slowenien weiter nach Westeuropa fährt. Auch von Rijeka aus gibt es einzelne Verbindungen in Richtung Ljubljana. Die anderen Grenzübergänge haben aktuell deutlich weniger Bedeutung. Hier muss besonders gut geplant werden, wenn z. B. von Pula nach Ljubljana gefahren werden soll. Auf allen Verbindungen gilt, dass für grenzüberschreitende Fahrten FIP Freifahrtscheine der SŽ und kroatischen HŽ oder ein durchgängiges FIP ermäßigtes Ticket vorhanden sein muss.
 
 ### Österreich
 
+Aus Österreich werden alle drei vorhanden Grenzübergänge im Schienenverkehr mehrmals täglich befahren. Aus Villach kann über Jesenice in Richtung Ljubljana und teilweise weiter Richtung Kroatien gefahren werden. Die Verbindungen bestehen meist mindestens alle zwei Stunden. Von Graz aus kann sogar stündlich Maribor direkt mit Fern- und Regionalzügen erreicht werden über Spielfeld-Straß. Seltener und nur im Regionalverkehr bedient wird die Verbindung zwischen dem österreichischen Bleiburg und Maribor. Auf allen Verbindungen sind FIP-Freifahrtscheine der ÖBB und SŽ oder ein durchgängiges FIP ermäßigtes Ticket nötig.
+
 ### Ungarn
 
+Ungarn und Slowenien sind nur über den Grenzübergang Hodoš im Schienenverkehr direkt verbunden. Hierüber fahren ein bis zwei Fernzüge pro Tag Budapest nach Ljubljana und teilweise weiter bis an die Adriaküste nach Koper. Sie werden auf ungarischer Seite von der MÁV und auf dem slowenischen Abschnitt von der SŽ betrieben. Für eine durchgängige Fahrt ist entweder ein FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Gesellschaften nötig. Wichtig ist dabei vorher zu schauen, dass die Züge auch wirklich über Hodoš fahren, da es von Ungarn auch die Möglichkeit gibt per Direktzug über Österreich nach Slowenien zu fahren. In diesem Fall wäre bei der Nutzung von Freifahrtscheinen zusätzlich ein ÖBB Freifahrtschein erforderlich. Darüber hinaus existieren vom ungarischen Zalaegerszeg ins slowenische Hodoš noch Regionalzüge, die von GySEV und SŽ betrieben werden. Hier ist also anders als bei den beschriebenen Fernzügen für den ungarischen Abschnitt ein Freifahrtschein der GySEV nötig.
