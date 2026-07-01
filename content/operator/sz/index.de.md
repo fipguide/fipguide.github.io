@@ -22,6 +22,7 @@ Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slo
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SŽ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
+
 {{% highlight important %}}
 Die Zugkategorien werden bei der SŽ wie unten beschrieben in der Reiseauskunft angezeigt. In anderen Reiseauskünften weichen die Bezeichnungen dagegen teilweise deutlich ab. Regionalzüge werden beispielsweise oft einfach als `R` angegeben. Im Zweifel sollte die Zugnummer mit der Verbindungsauskunft der SŽ abgeglichen werden.
 {{% /highlight %}}
@@ -35,7 +36,6 @@ Die Zugkategorien werden bei der SŽ wie unten beschrieben in der Reiseauskunft 
 %}}
 
 Nationale Fernzüge, die mit dem [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) Zug gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzeren Reisezeiten und wenig Zwischenhalten aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
-
 
 #### Reservierung
 
@@ -192,10 +192,11 @@ FIP-Fahrkarten gelten auch auf von der SŽ betriebenen Schienenersatzverkehren (
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr und am Wochenende verkehren deutlich weniger Züge als unter der Woche. Daher ist gute Planung wichtig. Dafür wurden in den letzten Jahren die Verbindungen nach Österreich deutlich ausgebaut, während nach Italien und Ungarn dafür sehr wenig Züge verkehren und nach Kroatien ein solides Grundangebot vorhanden ist. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich, ein paar Kenntnisse in der Landessprache kann aber gerade auf der Fahrt in Regionalzügen hilfreich sein. 
+Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr und am Wochenende verkehren deutlich weniger Züge als unter der Woche. Daher ist gute Planung wichtig. Dafür wurden in den letzten Jahren die Verbindungen nach Österreich deutlich ausgebaut, während nach Italien und Ungarn dafür sehr wenig Züge verkehren und nach Kroatien ein solides Grundangebot vorhanden ist. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich, ein paar Kenntnisse in der Landessprache kann aber gerade auf der Fahrt in Regionalzügen hilfreich sein.
 {{% /highlight %}}
 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782292-slovenia.html)
+
 [^2]: [SŽ Aufschlagsauskunft](https://potniski.sz.si/en/tickets/supplements-to-the-ticket-price/)

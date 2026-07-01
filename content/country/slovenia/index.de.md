@@ -4,7 +4,7 @@ title: "Slowenien"
 country: "slovenia"
 params:
   operators_without_fip:
-  - Optima Express
+    - Optima Express
 ---
 
 ## FIP Nutzung
@@ -19,7 +19,7 @@ Reservierungen sind bei einigen Zukgategorien verpflichtend, diese sind vor Ort 
 
 Das Schienennetz von Slowenien umfasst gerade einmal etwas über 1.200 Kilometer, verbindet jedoch trotzdem viele wichtige Orte und Sehenswürdigkeiten miteinander. Die Ost-West-Achse von der zweitgrößten Stadt Maribor über Ljubljana bis an die italienische Grenze bzw. an die Adriaküste ist zusammen mit der Nord-Süd-Verbindung von der österreichischen Grenze über die Hauptstadt bis an die kroatische Grenze die wichtigste Strecke des Landes. Auf vielen elektrifizierten Strecken werden im Regionalverkehr moderne Stadler-Züge eingesetzt. Auf den Nebenbahnen sind dagegen meist deutlich ältere Dieseltriebzüge zu finden.
 
-Die Reisegeschwindigkeiten sind eher langsam. Am schnellsten ist die Verbindung zwischen der Hauptstadt Ljublana und Maribor, auf der bis zu 160 km/h gefahren werden können. Wirkliche Taktverkehre gibt es selten, es verkehren jedoch meist einige Züge pro Tag auf den einzelnen Strecken. Unter der Woche ist dabei die Anzahl höher als am Wochenende, einzelne Bahnhöfe werden auch nur zwischen Montag und Freitag bedient. 
+Die Reisegeschwindigkeiten sind eher langsam. Am schnellsten ist die Verbindung zwischen der Hauptstadt Ljublana und Maribor, auf der bis zu 160 km/h gefahren werden können. Wirkliche Taktverkehre gibt es selten, es verkehren jedoch meist einige Züge pro Tag auf den einzelnen Strecken. Unter der Woche ist dabei die Anzahl höher als am Wochenende, einzelne Bahnhöfe werden auch nur zwischen Montag und Freitag bedient.
 
 Die schönste Bahnstrecke des Landes ist die Wocheinerbahn von Jesenice nach Nova Gorica, die landschaftlich spektakulär durch Berge und Täler führt. Sie führt auch an Bled vorbei, das eines der touristischen Highlights des Landes darstellt. Auch auf der Bahnstrecke zwischen Ljubljana und der italienischen Grenze liegen mit Postojna und Divača zwei der wichtigsten touristischen Orte.
 
