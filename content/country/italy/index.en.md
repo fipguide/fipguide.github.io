@@ -56,8 +56,6 @@ On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian 
 
 From Slovenia, regional trains can be used to enter Italy via Villa Opicina. FIP Tickets or FIP Coupons of both countries (FS and SŽ) or a through FIP Ticket (FIP 50) are required. These trains run infrequently, so planning is recommended.
 
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (Villa Opicina – Trieste), the ÖBB FIP Coupon is valid, but a small long-distance surcharge must be paid, which is much lower than typical FS long-distance surcharges.
-
 The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger traffic on special occasions.
 
 {{% highlight tip %}}

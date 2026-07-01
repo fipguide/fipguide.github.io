@@ -77,7 +77,7 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 ### Slovenia
 
-From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Trieste and Zagreb. For these, a FIP Coupon from SŽ is required from the border or a FIP 50 ticket must be booked.
+From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Zagreb. For these, a FIP Coupon from SŽ is required from the border or a FIP 50 ticket must be booked.
 
 ### Italy
 
@@ -87,9 +87,6 @@ Besides regional train connections, there are two international routes from Aust
 - Railjets via Tarvisio Boscoverde to Venice.
 
 On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
-
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134): \
-On the Italian section (V. Opicina-Trieste), the ÖBB FIP Coupon is valid, but a small surcharge applies (see [Trains to Italy](/operator/oebb/#trains-to-italy)).
 
 ### Liechtenstein
 

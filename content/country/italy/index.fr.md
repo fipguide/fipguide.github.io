@@ -56,8 +56,6 @@ Sur ces itinéraires, le Billet FIP ou le Coupon FIP ÖBB est également valable
 
 Depuis la Slovénie, il est possible d’entrer en Italie par des trains régionaux via Villa Opicina. Les Billets FIP ou Coupons FIP des deux pays (FS et SŽ) ou un Billet FIP 50 direct sont nécessaires. Ces trains circulent rarement, il est donc conseillé de bien planifier son voyage.
 
-Il existe aussi des liaisons Eurocity depuis l’Autriche via la Slovénie vers Trieste (`EC` 151/134). Sur le tronçon italien (Villa Opicina – Trieste), le Coupon FIP ÖBB est valable, mais un petit supplément longue distance doit être payé, nettement inférieur aux suppléments habituels de la FS.
-
 Le passage frontalier de Nova Gorica (ligne Gorizia Centrale – Nova Gorica) n’est utilisé en trafic voyageurs qu’à des occasions particulières.
 
 {{% highlight tip %}}

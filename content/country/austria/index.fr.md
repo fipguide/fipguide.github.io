@@ -78,7 +78,7 @@ Sinon, un Billet FIP GySEV est requis pour les lignes GySEV.
 
 ### Slovénie
 
-Des liaisons longues distances et régionales existent entre Vienne/Graz et Ljubljana/Maribor via Spielfeld-Strass (Gr), ainsi que vers Trieste et Zagreb. Un Coupon FIP SŽ ou un Billet FIP 50 est requis depuis la frontière.
+Des liaisons longues distances et régionales existent entre Vienne/Graz et Ljubljana/Maribor via Spielfeld-Strass (Gr), ainsi que vers Zagreb. Un Coupon FIP SŽ ou un Billet FIP 50 est requis depuis la frontière.
 
 ### Italie
 
@@ -88,9 +88,6 @@ Outre les liaisons régionales, il existe deux itinéraires internationaux entre
 - Les Railjets via Tarvisio Boscoverde vers Venise.
 
 Sur ces trajets, les Coupons FIP ÖBB sont valables en Italie, mais un supplément est requis côté italien.
-
-Il existe aussi des EuroCity via la Slovénie vers Trieste (`EC` 151/134) : \
-entre Villa Opicina et Trieste, le Coupon FIP ÖBB est valable, mais un petit supplément s’applique (voir [Trains vers l’Italie](/operator/oebb/#trains-vers-litalie)).
 
 ### Liechtenstein
 
