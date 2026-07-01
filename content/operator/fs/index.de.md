@@ -315,6 +315,11 @@ Bei FIP 50 Tickets setzt sich der Preis ebenfalls aus dem Zuschlag und 50 % Raba
 | `ICN` InterCity Notte | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio            | Combio Servizio Notte      |
 | Nahverkehr            | 50 % Tariffa Regionale                   | Kein Aufpreis erforderlich | Kein Aufpreis erforderlich |
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website-fip-db"

@@ -1,0 +1,50 @@
+.o-booking-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.a-booking-filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: var(--border-radius-l);
+  border: var(--border-visible);
+  background-color: transparent;
+  color: var(--color-body);
+  font-family: var(--font-family);
+  font-size: 1.4rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+  user-select: none;
+
+  &:hover {
+    background-color: var(--bg-neutral);
+  }
+
+  &:focus-visible {
+    outline: var(--outline-focus-indicator) solid 2px;
+    outline-offset: 2px;
+  }
+
+  &[aria-pressed="true"] {
+    background-color: var(--link-default);
+    border-color: var(--link-default);
+    color: #ffffff;
+
+    &:hover {
+      background-color: var(--link-hovered);
+      border-color: var(--link-hovered);
+    }
+  }
+
+  > .a-icon {
+    font-size: 1.6rem;
+  }
+}

@@ -154,6 +154,11 @@ Une réservation est nécessaire pour certains trains, indiqués par un _R_.
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="db-website"

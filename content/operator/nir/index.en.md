@@ -61,6 +61,12 @@ NIR operates various regional train services from Belfast. Regional trains canno
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### Online
 
 FIP 50 / FIP 75 Tickets cannot be purchased online.

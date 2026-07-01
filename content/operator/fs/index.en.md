@@ -302,8 +302,6 @@ Le Frecce long-distance trains have special class categories. [^1]
 
 ## Ticket and Reservation Purchase
 
-When using long-distance trains with a FIP Coupon, a _Biglietti gratuiti FS_ supplement (calculated by the tariff _CAMBIO SERVIZIO_) must be purchased.
-
 For FIP 50 Tickets, the price is likewise made up of the supplement and a 50% discount on the regional train fare. With Trenitalia, _CAMBIO SERVIZIO_ is usually calculated based on the difference between the long-distance and the regional train fare. [^4]
 
 | Train category        | FIP 50                                  | FIP Coupon             | FIP duty travel           |
@@ -314,6 +312,12 @@ For FIP 50 Tickets, the price is likewise made up of the supplement and a 50% di
 | `IC` InterCity        | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Diritto Ammissione (€ 3)  |
 | `ICN` InterCity Notte | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Combio Servizio Notte     |
 | Regional              | 50% Tariffa Regionale                   | No supplement required | No supplement required    |
+
+When using long-distance trains with a FIP Coupon, a _Biglietti gratuiti FS_ supplement (calculated by the tariff _CAMBIO SERVIZIO_) must be purchased.
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
 
 ### Online
 

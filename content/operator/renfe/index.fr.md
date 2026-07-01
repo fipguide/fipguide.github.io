@@ -223,6 +223,11 @@ Renfe met actuellement en place un nouveau système de billetterie. Cela a égal
 Vous pouvez suivre les prochaines mises à jour dans la [communauté FIP Guide](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424).
 {{% /highlight %}}
 
+{{% booking-filters
+  fip_global_fare=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 Les Billets FIP Global et FIP 50 ne peuvent pas être achetés en ligne.

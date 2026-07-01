@@ -61,6 +61,12 @@ NIR exploite diverses liaisons de trains régionaux au départ de Belfast. Les t
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### En ligne
 
 Les Billets FIP 50 / FIP 75 ne peuvent pas être achetés en ligne.

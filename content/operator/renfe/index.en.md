@@ -223,6 +223,11 @@ Renfe is currently introducing a new ticketing system. This also affects the boo
 You can follow further updates in the [FIP Guide Community](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424).
 {{% /highlight %}}
 
+{{% booking-filters
+  fip_global_fare=true
+  fip_50=true
+%}}
+
 ### Online
 
 It is not possible to book reservations, FIP Global Fare or FIP 50 online.

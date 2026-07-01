@@ -12,3 +12,4 @@ import "./dialog.js";
 import "./fipValidityComparison.js";
 import "./search.js";
 import "./imageGallery.js";
+import "./bookingFilters.js";

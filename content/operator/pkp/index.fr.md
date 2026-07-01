@@ -224,6 +224,11 @@ Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéropo
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="pkp-website"

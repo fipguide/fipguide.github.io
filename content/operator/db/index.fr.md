@@ -325,6 +325,11 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être annulés gratuitement jusqu’avant le 1er jour de validité du billet. Ensuite, des frais s’appliquent. Les réservations ne peuvent être annulées que de manière limitée peu après l’achat. Plus d’informations sur l’annulation sur le [site de la Deutsche Bahn](https://int.bahn.de/fr/informations-reservation/echange-remboursement).
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="db-website" /%}}

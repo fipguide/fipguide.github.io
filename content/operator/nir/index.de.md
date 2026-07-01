@@ -61,6 +61,12 @@ NIR betreibt verschiedene Regionalzugverbindungen ausgehend von Belfast. Die Reg
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### Online
 
 FIP 50 / FIP 75 Tickets lassen sich online nicht erwerben.

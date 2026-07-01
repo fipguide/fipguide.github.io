@@ -215,6 +215,11 @@ In the NS journey planner, the services are marked as `R-net NS Sprinter`. Not t
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 Domestic journeys unfortunately cannot be purchased online.
