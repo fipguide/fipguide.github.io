@@ -426,6 +426,12 @@ West Midlands Trains operates local and regional services under two brands: Lond
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 Great Britain distinguishes between different ticket categories. FIP 50 / FIP 75 Discount is not granted on all tickets. The [BR Fares website](https://www.brfares.com/) allows you to search for fares on a route by adding "FIP Discount 50%" or "FIP Discount 75%" as discount.
 
 - **Anytime Tickets:** \

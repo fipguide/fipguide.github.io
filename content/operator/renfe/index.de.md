@@ -215,6 +215,11 @@ In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  fip_global_fare=true
+  fip_50=true
+%}}
+
 ### Online
 
 Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.

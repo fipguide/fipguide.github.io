@@ -851,6 +851,11 @@ Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="sbb-website"

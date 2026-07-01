@@ -274,6 +274,11 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="fs-website" %}}

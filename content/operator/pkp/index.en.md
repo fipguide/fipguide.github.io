@@ -222,6 +222,11 @@ FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="pkp-website"

@@ -215,6 +215,11 @@ In Barcelona, Cercanías services (including to the airport) are only accessible
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  fip_global_fare=true
+  fip_50=true
+%}}
+
 ### Online
 
 It is not possible to book reservations, FIP Global Fare or FIP 50 online.

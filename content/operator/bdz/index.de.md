@@ -97,6 +97,11 @@ Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, d
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Vor Ort
 
 {{% booking id="bdz-ticket-office" /%}}

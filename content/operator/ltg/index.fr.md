@@ -59,6 +59,11 @@ Les trains comportent des voitures de 1re, 2e et 3e classe. À l’exception de 
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="ltg-website" /%}}

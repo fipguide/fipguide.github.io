@@ -267,6 +267,11 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website" /%}}

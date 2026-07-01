@@ -168,6 +168,11 @@ Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts 
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="zssk-website"

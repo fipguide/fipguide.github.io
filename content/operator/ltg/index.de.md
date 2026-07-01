@@ -59,6 +59,11 @@ Die Züge führen Wagen der 1., 2. und 3. Klasse. Mit Ausnahme einiger Saisonzü
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="ltg-website" /%}}

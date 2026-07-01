@@ -93,6 +93,11 @@ The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchan
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 Ticket purchase is only relevant for first class.
 
 {{% highlight tip %}}

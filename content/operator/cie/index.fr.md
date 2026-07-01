@@ -115,6 +115,12 @@ Le FIP n’est pas valable sur les liaisons en bus de Dublin Bus.
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### En ligne
 
 Les Billets FIP 50 / FIP 75 ne peuvent pas être réservés en ligne.

@@ -138,6 +138,11 @@ A reservation is required for some trains, indicated by an _R_.
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website"

@@ -118,6 +118,11 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="mav-website" /%}}

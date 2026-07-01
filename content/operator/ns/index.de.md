@@ -164,6 +164,11 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 Nationale Verbindungen können online leider nicht erworben werden.

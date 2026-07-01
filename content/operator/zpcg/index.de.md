@@ -77,6 +77,11 @@ FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 {{% highlight inofficial %}}
 Anscheinend können Tickets und Reservierungen auch via E-Mail an [info@zpcg.me](mailto:info@zpcg.me) gebucht und an einem [ŽPCG Ticketschalter](#vor-ort) abgeholt werden. Da dieses Vorgehen für Interrail funktioniert, sollte es auch mit FIP möglich sein. [^5]
 

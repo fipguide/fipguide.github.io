@@ -146,6 +146,11 @@ Aktuell ist jedoch ein Shuttle Bus zwischen Novi Sad und Petrovaradin kostenlos 
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Telefon
 
 {{% booking

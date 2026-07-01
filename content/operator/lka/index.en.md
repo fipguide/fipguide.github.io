@@ -74,6 +74,11 @@ We currently have no information about the validity of FIP tickets on buses oper
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="koleo-website"
