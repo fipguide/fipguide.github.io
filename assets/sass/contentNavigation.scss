@@ -118,9 +118,12 @@
     }
   }
 
-  &__date {
+  &__meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
     margin-left: 2.8rem;
-    position: relative;
   }
 
   p {
