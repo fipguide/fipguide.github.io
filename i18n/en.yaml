@@ -15,6 +15,14 @@ booking:
   reservation-costs: Reservation Costs
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+borderPointsMap:
+  consent:
+    accept: Load map
+    text: >-
+      This map is loaded from OpenRailwayMap and OpenStreetMap. Loading it will
+      send your IP address to their servers.
+    title: Load border points map
+  optOut: Disable map
 contact:
   accessibility:
     label: 'Website Feedback: Accessibility'
