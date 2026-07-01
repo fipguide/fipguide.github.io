@@ -73,7 +73,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
 {{% /train-category %}}
 
 {{% train-category
-    id="regional"
+    id="mv"
     title="Mednarodni vlaki (MV)"
     type="highspeed"
     fip_accepted=true
@@ -127,7 +127,7 @@ Nationale Regionalzüge, genauso wie [LP/LPV](#lpv).
 {{% /train-category %}}
 
 {{% train-category
-    id="MO"
+    id="mo"
     title="Maloobmejnia (MO)"
     type="regional"
     fip_accepted=true
@@ -137,7 +137,7 @@ Regionalzüge, die grenzüberschreitend verkehren.
 {{% /train-category %}}
 
 {{% train-category
-    id="AVT"
+    id="avt"
     title="Avtovlak (AVT)"
     type="highspeed"
     fip_accepted=false
@@ -148,7 +148,7 @@ Autozüge, die durch den längsten Eisenbahntunnel Sloweniens (Bohinj Tunnel) ve
 {{% train-category
     id="bus"
     title="Busse"
-    type="regional"
+    type="bus"
     fip_accepted=false
 %}}
 Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schienenersatzverkehr.
