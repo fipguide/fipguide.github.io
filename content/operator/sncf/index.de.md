@@ -257,6 +257,18 @@ Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+{{% hotnat /%}}
+
+#### AJC
+
+{{% ajc /%}}
+
 ### Reservierungspflicht im Regionalverkehr
 
 Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Auf allen anderen Fahrten gibt es keine Reservierungspflicht. [^2]

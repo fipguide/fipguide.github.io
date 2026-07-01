@@ -209,6 +209,10 @@ Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internation
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse – AJC
+
+{{% ajc /%}}
+
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.

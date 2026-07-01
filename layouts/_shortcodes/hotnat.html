@@ -1,0 +1,10 @@
+{{ $content := T "hotnat.content" }}
+{{ with .Inner }}
+  {{ $content = printf "%s\n\n%s" $content . }}
+{{ end }}
+
+{{ partial "highlight"
+  (dict
+  "Content" ($content | .Page.RenderString)
+  )
+}}

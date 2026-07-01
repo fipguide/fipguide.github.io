@@ -304,6 +304,10 @@ Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, da
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse – AJC
+
+{{% ajc /%}}
+
 ### Gültigkeitsdauer im Nahverkehr
 
 #### Polregio

@@ -209,6 +209,18 @@ Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Perso
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+{{% hotnat /%}}
+
+#### AJC
+
+{{% ajc /%}}
+
 ### Flughafen Brüssel Zaventem
 
 Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. [^1] Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen, sofern das Ticket nicht am Fahrkartenautomaten erworben wurde. [^2]

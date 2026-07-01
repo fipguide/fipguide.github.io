@@ -204,6 +204,18 @@ Zusätzlich gibt es die Möglichkeit eine _SBB Junior-Karte_ für 30 CHF zu erwe
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+{{% hotnat /%}}
+
+#### AJC
+
+{{% ajc /%}}
+
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
 Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP Freifahrtscheine: [^2]
