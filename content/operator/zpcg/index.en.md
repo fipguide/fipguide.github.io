@@ -77,6 +77,11 @@ FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail 
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 {{% highlight inofficial %}}
 Apparently, tickets and reservations can also be booked by email via [info@zpcg.me](mailto:info@zpcg.me) and collected at a [ŽPCG Ticket Office](#on-site). Since this works for Interrail, it should also be possible with FIP. [^5]
 

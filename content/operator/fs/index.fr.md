@@ -275,6 +275,11 @@ Les trains Le Frecce longue distance ont des catégories de classes particulièr
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="fs-website" %}}

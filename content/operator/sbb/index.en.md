@@ -155,6 +155,11 @@ FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, 
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="sbb-website"/%}}

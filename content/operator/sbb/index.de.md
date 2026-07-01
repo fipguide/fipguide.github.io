@@ -156,6 +156,11 @@ FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="sbb-website"/%}}

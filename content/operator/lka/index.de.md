@@ -74,6 +74,11 @@ Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warsc
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="koleo-website"

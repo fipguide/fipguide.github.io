@@ -146,6 +146,11 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Par téléphone
 
 {{% booking

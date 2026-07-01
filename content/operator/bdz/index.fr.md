@@ -111,6 +111,11 @@ Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En gare
 
 {{% booking id="bdz-ticket-office" /%}}

@@ -115,6 +115,12 @@ FIP is not valid on Dublin Bus bus services.
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### Online
 
 FIP 50 / FIP 75 Tickets cannot be booked online.

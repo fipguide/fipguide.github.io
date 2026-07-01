@@ -104,6 +104,11 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="dsb-website"

@@ -239,6 +239,11 @@ Mit einem FIP-Ausweis / FIP Freifahrtschein für die 2. Klasse können Fahrten i
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 FIP Tickets und Reservierungen können nicht als Self-Service gebucht werden, aber via Chat, Telefon-Hotline oder an den Ticketschaltern der Bahnhöfe.
 
 Für die Reservierung im Sitz-, Liege- oder Schlafwagen ist unabhängig von der Wagenklasse eine Reservierungsgebühr zu entrichten.

@@ -165,6 +165,11 @@ Regional trains for short connections, stopping at every station along the route
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 Domestic journeys unfortunately cannot be purchased online.

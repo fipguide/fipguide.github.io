@@ -850,6 +850,11 @@ Transfer points where you can change between rail and ship are:
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="sbb-website"

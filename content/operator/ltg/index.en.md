@@ -59,6 +59,11 @@ Trains have 1st, 2nd, and 3rd class coaches. Except for some seasonal trains bet
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="ltg-website" /%}}

@@ -193,6 +193,12 @@ Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sau
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### En ligne
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.

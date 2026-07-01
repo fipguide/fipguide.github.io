@@ -165,6 +165,11 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.

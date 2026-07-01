@@ -77,6 +77,11 @@ Les billets FIP ne sont pas valables sur les lignes de bus exploitées par ŽPCG
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 {{% highlight inofficial %}}
 Apparemment, les billets et réservations peuvent aussi être réservés par e-mail via [info@zpcg.me](mailto:info@zpcg.me) et retirés à un [guichet ŽPCG](#en-gare). Étant donné que cette procédure fonctionne pour Interrail, elle devrait aussi être possible avec FIP. [^5]
 

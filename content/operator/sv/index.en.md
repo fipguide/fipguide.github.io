@@ -146,6 +146,11 @@ Currently, however, a shuttle bus between Novi Sad and Petrovaradin can be used 
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Telephone
 
 {{% booking

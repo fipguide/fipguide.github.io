@@ -267,6 +267,11 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="db-website" /%}}

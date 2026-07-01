@@ -104,6 +104,11 @@ Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mi
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="ht-website"

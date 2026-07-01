@@ -118,6 +118,11 @@ FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="mav-website" /%}}

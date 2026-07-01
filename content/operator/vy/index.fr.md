@@ -239,6 +239,11 @@ Avec une Carte FIP / un Coupon FIP de 2ᵉ classe, les voyages en 1ʳᵉ classe 
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 Les Billets FIP et les réservations ne peuvent pas être réservés en libre-service, mais via le chat, la hotline téléphonique ou aux guichets des gares.
 
 Pour la réservation en voiture assise, couchette ou voiture-lits, un frais de réservation doit être payé indépendamment de la classe de voiture.

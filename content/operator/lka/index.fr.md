@@ -74,6 +74,11 @@ Nous ne disposons actuellement d’aucune information sur la validité des Bille
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="koleo-website"
