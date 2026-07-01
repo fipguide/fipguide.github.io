@@ -10,9 +10,9 @@ Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slo
 
 ## Zusammenfassung
 
-- FIP ermäßigte Tickets und FIP Freifahrtscheine werden akzeptiert
-- Reservierungen und/oder Aufschläge für viele Zugkategorien verpflichtend
-- Kein Online-Verkauf von FIP-Tickets
+- FIP ermäßigte Tickets und FIP Freifahrtscheine werden akzeptiert.
+- Reservierungen und/oder Aufschläge sind für viele Zugkategorien verpflichtend.
+- Kein Online-Verkauf von FIP-Tickets.
 
 ## Gültigkeit FIP Tickets
 
@@ -35,7 +35,7 @@ Die Zugkategorien werden bei der SŽ wie unten beschrieben in der Reiseauskunft 
     reservation_required=true
 %}}
 
-Nationale Fernzüge, die mit dem [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) Zug gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzeren Reisezeiten und wenig Zwischenhalten aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
+Nationale Fernzüge, die mit dem Zugtyp [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzere Reisezeiten und wenige Zwischenhalte aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
 
 #### Reservierung
 
@@ -50,7 +50,7 @@ Beim `ÌCS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verp
     reservation_required=false
     reservation_possible=true
 %}}
-Fernverkehrszüge, die mit wenigen Zwischenhalten größere Städte miteinander verbinden. Meistens verkehren sie nur innerhalb Slowenies, die internationalen Züge nach Budapest über Österreich werden jedoch ebenfalls zumindest auf Teilabschnitten als `IC` bezeichnet.
+Fernverkehrszüge, die mit wenigen Zwischenhalten größere Städte miteinander verbinden. Meistens verkehren sie nur innerhalb Sloweniens; die internationalen Züge nach Budapest über Österreich werden jedoch ebenfalls, zumindest auf Teilabschnitten, als `IC` bezeichnet.
 
 #### Reservierung
 
@@ -80,7 +80,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     reservation_required=false
     reservation_possible=true
 %}}
-Internationale Züge, die zwischen Slowenien und Österreich, Ungarn oder Kroatien verkehren. Sie verkehren mit wenig Zwischenhalten.
+Internationale Züge, die zwischen Slowenien und Österreich, Ungarn oder Kroatien verkehren. Sie verkehren mit wenigen Zwischenhalten.
 
 #### Reservierung
 
@@ -90,7 +90,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
 {{% train-category
     id="en"
     title="EuroNight (EN)"
-    type="highspeed"
+    type="sleeper"
     fip_accepted=true
     reservation_required=true
 %}}
@@ -99,11 +99,11 @@ Internationale Nachtzüge nach Kroatien, Österreich und Deutschland. Die Züge 
 
 #### Reservierung
 
-Für Euronight Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
+Für EuroNight-Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
 
 **Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
 
-Bei Fahrten ausschließlich im Inlandsverkehr von Slowenien wird ein Aufschlag von 1,50 € fällig für FIP rabattierte Tickets.[^2] Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.
+Bei Fahrten ausschließlich im Inlandsverkehr von Slowenien wird ein Aufschlag von 1,50 € für FIP rabattierte Tickets fällig.[^2] Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.
 {{% /train-category %}}
 
 {{% train-category
@@ -123,7 +123,7 @@ Nationale Regionalzüge, die meist auch an kleineren Bahnhöfen halten.
     fip_accepted=true
     reservation_possible=false
 %}}
-Nationale Regionalzüge, genauso wie LP/LPV.
+Nationale Regionalzüge, genauso wie [LP/LPV](#lpv).
 {{% /train-category %}}
 
 {{% train-category
@@ -159,7 +159,7 @@ Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schie
 ### Online
 
 {{% booking id="db-website"
-    subtitle="Nur Sitzplatzreservierungen für einzelne Züge (keine ICS)"
+    subtitle="Nur Sitzplatzreservierungen für einzelne Züge (außer ICS)"
 /%}}
 
 ### Vor Ort
@@ -168,12 +168,12 @@ Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schie
 
 ### Im Zug
 
-Nationale FIP Tickets können auch im Zug erworben werden, dies gilt auch bei Einreise nach Slowenien mit einem Ticket, dass nur bis zur slowenischen Grenze Gültigkeit hat.[^1]
+Nationale FIP Tickets können auch im Zug erworben werden, dies gilt auch bei Einreise nach Slowenien mit einem Ticket, welches nur bis zur slowenischen Grenze Gültigkeit hat.[^1]
 Fahrgäste, die an Bahnhöfen mit Fahrkartenschalter zusteigen und nicht nachweisen können, dass sie dort kein Ticket kaufen konnten, müssen zusätzlich zum Fahrpreis ein Zuschlagsentgelt zahlen.[^2]
 
 Die Aufschläge für die Zugkategorien ICS, IC, MV, EC und EN können immer zum Festpreis hier noch erworben werden.[^2] Reservierungen sollten vor Abfahrt vorhanden sein.
 
-Es kann im Zug nur bar in Euro gezahlt werden.
+Im Zug kann ausschließlich mit Bargeld in Euro gezahlt werden.
 
 ## Ermäßigungen
 
@@ -185,14 +185,14 @@ Für reguläre Fahrkarten reisen Kinder unter 6 Jahren kostenlos. Kinder unter 1
 
 Eine Reiseunterbrechung ist jederzeit innerhalb des Gültigkeitszeitraums des Tickets möglich.[^1]
 
-### Ersatzverkehr
+### Schienenersatzverkehr
 
-FIP-Fahrkarten gelten auch auf von der SŽ betriebenen Schienenersatzverkehren (Busse).
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr und am Wochenende verkehren deutlich weniger Züge als unter der Woche. Daher ist gute Planung wichtig. Dafür wurden in den letzten Jahren die Verbindungen nach Österreich deutlich ausgebaut, während nach Italien und Ungarn dafür sehr wenig Züge verkehren und nach Kroatien ein solides Grundangebot vorhanden ist. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich, ein paar Kenntnisse in der Landessprache kann aber gerade auf der Fahrt in Regionalzügen hilfreich sein.
+Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr und am Wochenende verkehren deutlich weniger Züge als unter der Woche. Daher ist gute Planung wichtig. Dafür wurden in den letzten Jahren die Verbindungen nach Österreich deutlich ausgebaut, während nach Italien und Ungarn dafür sehr wenig Züge verkehren und nach Kroatien ein solides Grundangebot vorhanden ist. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich, ein paar Kenntnisse in der Landessprache können aber gerade auf der Fahrt in Regionalzügen hilfreich sein.
 {{% /highlight %}}
 
 ## Quellen
