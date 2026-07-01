@@ -250,6 +250,10 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse – AJC
+
+{{% ajc /%}}
+
 ### Fahrtunterberchungen
 
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]

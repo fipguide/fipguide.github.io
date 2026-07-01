@@ -10,6 +10,4 @@ Es kann vorkommen, dass du deinen Anschlusszug verpasst. In diesem Fall gibt es 
 
 {{% hotnat /%}}
 
-### Was ist AJC?
-
-Lorem Ipsum
+{{% ajc /%}}

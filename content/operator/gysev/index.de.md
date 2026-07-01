@@ -152,6 +152,10 @@ Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Ja
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse – AJC
+
+{{% ajc /%}}
+
 ### Fahrtunterbrechung
 
 Im Falle einer Fahrtunterbrechung muss das Ticket an dem Bahnhof, an dem die Unterbrechung erfolgt, abgestempelt werden.

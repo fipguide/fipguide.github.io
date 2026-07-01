@@ -267,7 +267,7 @@ Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel 
 
 #### AJC
 
-Lorem Ipsum
+{{% ajc /%}}
 
 ### Reservierungspflicht im Regionalverkehr
 

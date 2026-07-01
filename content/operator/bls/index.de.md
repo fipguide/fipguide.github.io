@@ -143,6 +143,10 @@ Für reguläre Fahrten reisen Kinder bis einschließlich 5 Jahre kostenlos. Kind
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse – AJC
+
+{{% ajc /%}}
+
 ### Seilbahnen
 
 FIP ist nicht gültig in Seilbahnen und Standseilbahnen, die von der BLS betrieben werden. [^1]

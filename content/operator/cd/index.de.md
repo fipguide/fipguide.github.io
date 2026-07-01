@@ -678,13 +678,17 @@ FIP Ermäßigungen gelten nicht in Spezialzügen und bei historischen Fahrten, d
 
 FIP Tickets sind auf den durchgehenden Strecken 083 und 098 (Děčín – Rumburk über Dolní Žleb und Dolní Poustevna und zurück) auch für Fahrten gültig, bei denen Tschechien verlassen und wieder betreten wird. Allerdings darf ein Aus- oder Einstieg dann nicht an einem internationalen Bahnhof erfolgen.
 
-### Fahrtunterberchungen
+### Fahrtunterbrechungen
 
 Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfernung von bis zu 100 km nicht gestattet. Bei Reiseentfernungen ab 101 km ist eine Fahrtunterbrechung möglich (allerdings nicht an einem internationalen Bahnhof).
 
 ### Schienenersatzverkehr
 
 In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
+### Anschlüsse – AJC
+
+{{% ajc /%}}
 
 ## Empfehlungen
 
