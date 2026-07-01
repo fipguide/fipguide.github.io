@@ -317,6 +317,18 @@ Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+{{% hotnat /%}}
+
+#### AJC
+
+Lorem Ipsum
+
 ### Nordhessischer Verkehrsverbund (NVV)
 
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.

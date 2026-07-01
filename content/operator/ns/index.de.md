@@ -208,6 +208,18 @@ Kinder unter 4 Jahren reisen kostenlos. Kinder zwischen 4 und einschließlich 11
 
 ## Tarifliche Besonderheiten
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+{{% hotnat /%}}
+
+#### AJC
+
+Lorem Ipsum
+
 ### Ticket Schranken im Bahnhof
 
 Mit einem FIP-Coupon erhältst du einen NS-Zugangscoupon mit Barcode, um die Bahnhofsschranken zu öffnen. \

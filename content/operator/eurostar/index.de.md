@@ -215,11 +215,9 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 
 #### HOTNAT (Umstieg in Brüssel, Köln, Paris)
 
-Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
+Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch HOTNAT genutzt werden.
 
-Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers oder eines anderen Railteam Mitglieds ausgewichen werden. Dazu muss am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
-
-HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
+{{% hotnat /%}}
 
 #### London International CIV (Umstieg in London)
 
