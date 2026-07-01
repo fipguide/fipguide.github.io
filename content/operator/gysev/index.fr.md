@@ -4,6 +4,11 @@ title: "GySEV / Raaberbahn"
 country:
   - "austria"
 operator: "gysev"
+
+aliases:
+  - /booking/mav-ticket-machine
+  - /booking/mav-ticket-office
+  - /booking/mav-website
 ---
 
 La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Vasút Zrt.), abrégée GySEV ou Raaberbahn, est une compagnie ferroviaire privée hongroise qui exploite des trains régionaux en Hongrie et en [Autriche](/country/austria "Autriche"). Elle assure principalement le transport de voyageurs au sud et à l’est du lac de Neusiedl (ouest de la Hongrie), parfois même sur sa propre infrastructure.
@@ -17,7 +22,7 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
 La FIP est valable sur toutes les lignes GySEV en Hongrie. Cependant, le Coupon FIP GySEV est principalement destiné à la Hongrie et n’est valable sur les lignes GySEV en Autriche qu’avec des restrictions.
@@ -48,7 +53,7 @@ GySEV exploite des trains Scarbantia `IC` entre Sopron et Budapest.
 En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise MÁV circulent également.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les trajets entre Sopron et Győr, aucune réservation n’est requise.
 
@@ -102,6 +107,15 @@ Certains trains Személyvonat sont également exploités par MÁV où les Billet
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -138,16 +152,16 @@ Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Le
 
 ## Conditions tarifaires spéciales
 
-### Services d’autobus
-
-Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV.
-
-### Arrêts intermédiaires
+### Possibilité d’interrompre le trajet
 
 Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
 
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV service client Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)

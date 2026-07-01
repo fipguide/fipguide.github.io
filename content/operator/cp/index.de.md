@@ -4,6 +4,9 @@ title: "CP"
 country:
   - "portugal"
 operator: "cp"
+
+aliases:
+  - /booking/cp-ticket-office
 ---
 
 Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in [Portugal](/country/portugal "Portugal").
@@ -16,7 +19,7 @@ Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigs
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="nur Celta Zug" disable_dialog=true >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CP gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -159,11 +162,13 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Passagiere mit einem in Portugal erworbenen FIP-Ermäßigungsticket dürfen ihre Reise nicht unterbrechen. Für außerhalb Portugals erworbene Tickets ist eine Reiseunterbrechung (ggf. mit Reservierung) zulässig. [^1]
 
 ## Empfehlungen
+
+Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zur portugiesischen Eisenbahn](https://zugpost.org/stippvisite-portugal).
 
 {{% highlight tip %}}
 Bei einer Reise durch Portugal bietet sich ein Besuch des Nationalen Eisenbahnmuseums in Entroncamento an. Besuchende, die mit dem Zug anreisen, erhalten 50% Rabatt auf den Eintrittspreis. [^2]
@@ -179,6 +184,6 @@ Die CP bietet regelmäßige Fahrten mit dem "Presidential Train" an. Dies ist ei
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

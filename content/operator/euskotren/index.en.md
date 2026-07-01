@@ -4,6 +4,9 @@ title: "Euskotren"
 country:
   - "spain"
 operator: "euskotren"
+
+aliases:
+  - /booking/euskotren-ticket-office
 ---
 
 In northern [Spain](/country/spain "Spain"), Euskotren operates a Basque railway network that connects the picturesque coastal towns and mountainous hinterland between the French border at Hendaye and the metropolis of Bilbao. Euskotren is owned by the Basque regional government.
@@ -17,7 +20,7 @@ In northern [Spain](/country/spain "Spain"), Euskotren operates a Basque railway
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50" disable_dialog=true >}}
 {{< fip-validity type="additional" status="valid" text="Special 'Euskotren FIP Ticket' (for holders & relatives)" disable_dialog=true >}}
 
 {{% float-image
@@ -35,7 +38,7 @@ You use the "Euskotren FIP Ticket" to pass through platform barriers. After expi
 {{% /float-image %}}
 
 {{% highlight tip %}}
-Some train operators also issue FIP Coupones for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
+Some train operators also issue FIP Coupons for Euskotren. According to our information, these have no use, as platform barriers cannot be passed with them. Instead, we recommend having the ticket issued on site.
 {{% /highlight %}}
 
 ## Train Categories and Reservations
@@ -100,23 +103,34 @@ If you don't have an "Euskotren FIP Ticket", the staff at the stations will issu
 
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+    title="Bus"
+  type="bus"
+  fip_accepted=false
+%}}
+FIP Tickets are not valid on Euskotren's regional bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+{{% /train-category %}}
+
 ## Class Categories
 
 There is a uniform class that can be used with both 1st and 2nd class FIP Cards.
 
 ## Ticket and Reservation Purchase
 
-### On Site
+### On-Site
 
 {{% booking id="euskotren-ticket-office" /%}}
 
 ## Special Tariff Conditions
 
-### Buses
+### Rail Replacement Services
 
-FIP Tickets are not valid on Euskotren's regional bus lines.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
+
+On the Zugpost website, there is a [worth reading travel report about Euskotren (German only)](https://zugpost.org/euskotren-baskenland/).
 
 ### Railway Museum in Azpeitia
 
@@ -124,7 +138,7 @@ Euskotren also operates the Basque Railway Museum in Azpeitia, which is accessib
 
 ## Sources
 
-[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-99)
+[^1]: [Rail Delivery Guide](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^2]: [Museumswebsite Euskotren](https://euskotren.euskadi.eus/museoa/en/plan-your-visit/)
 

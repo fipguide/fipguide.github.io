@@ -4,6 +4,12 @@ title: "PKP"
 country:
   - "poland"
 operator: "pkp"
+
+aliases:
+  - /booking/pkp-ticket-machine
+  - /booking/pkp-ticket-office
+  - /booking/pkp-website
+  - /booking/koleo-website
 ---
 
 Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des Schienenpersonenverkehrs in [Polen](/country/poland "Polen").
@@ -14,10 +20,10 @@ Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Toch
 - Reservierungspflicht für `EIP` und `EIC` sowie teilweise in `IC` und `TLK` Zügen.
 - Gültigkeit der PKP FIP-Tickets auch im S-Bahn System von Danzig (Dreistadt), bei der Warszawska Kolej Dojazdowa (WKD), der Koleje Mazowieckie (KM) sowie einigen Strecken der Koleje Śląskie (KŚ).
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der PKP gültig. Dazu gehören:
 
@@ -50,7 +56,7 @@ Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspfli
 Hochgeschwindigkeitszüge mit Neigetechnik (Pendolino), die von PKP Intercity betrieben werden und hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind.
 In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inkludiert. [^2]
 
-#### Reservierung
+#### Reservierungen
 
 Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
 
@@ -72,7 +78,7 @@ Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkau
 Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3]
 In der 1. und 2. Klasse gibt es eine kostenlose Flasche Wasser pro Person.
 
-#### Reservierung
+#### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
 
@@ -91,9 +97,28 @@ Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity 
 
 Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN"](#en)).
 
-#### Reservierung
+#### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://ebilet.intercity.pl/) geprüft werden.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Der IC Nieśpieszny ist ein Erlebniszug im Retro-Stil von PKP Intercity mit einem Fokus auf bewusst entspanntes und langsames Reisen in historischen restaurierten Wagen.
+
+Sowohl FIP Freifahrtscheine als auch FIP 50 Tickets sind in diesem Zug nicht gültig.
+
+#### Reservierungen
+
+Eine Reservierung ist erforderlich.
 
 {{% /train-category %}}
 
@@ -110,7 +135,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
 
 Teilweise fahren die Züge auch mit Schlaf- und Liegewagen (siehe [Kategorie "EN"](#en)).
 
-#### Reservierung
+#### Reservierungen
 
 Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [Reiseauskunft der PKP](https://www.intercity.pl/en/) geprüft werden.
 
@@ -128,7 +153,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
 Internationale Nachtzugverbindungen, betrieben von PKP Intercity, die aus oder in Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine verkehren.
 Nachtzugverbindungen, die nur innerhalb von Polen fahren, werden als `IC` oder `TLK` geführt. Verbindungen in die Ukraine sind als `D` gekennzeichnet.
 
-#### Reservierung
+#### Reservierungen
 
 Es besteht Reservierungspflicht in Schlaf- und Liegewagen.
 
@@ -185,6 +210,15 @@ Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden un
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus-warschau-modlin"
+    title="Bus Warschau Modlin"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modlin nicht gültig.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -213,6 +247,12 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+/%}}
+
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort
@@ -323,21 +363,17 @@ Auf folgenden Routen der [KŚ](/operator/ks) sind sowohl FIP-Tickets der KŚ als
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Busse Warschau Modlin
-
-FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modlin nicht gültig.
-
 ### Sonderzüge Słoneczny
 
 FIP Fahrkarten sind im Słoneczny Sonderzug der KM (Warschau nach Danzig/Gdingen) nicht gültig.
 
-### Busse und Ersatzverkehr
-
-FIP-Fahrkarten gelten auch auf von der PKP betriebenen Schienenersatzverkehren (Busse).
-
 ### Seilbahnen und Zahnradbahnen
 
 FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
@@ -347,7 +383,7 @@ FIP-Freifahrtscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sin
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

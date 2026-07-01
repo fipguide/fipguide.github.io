@@ -16,10 +16,12 @@ Booking Stena Line is easy via email. Simply send an email in English or Dutch t
 The email must contain the following information:
 
 - Travel date and time
+- Date of birth
 - Cabin type (Standard, Superior or Deluxe)
 - Name of travellers as stated on their passports
 - Passport number and expiry date
-- Copy of FIP Card (front and back)
+- **Only for FIP 50 Tickets:** FIP Card
+- **Only for reservations with FIP Coupon:** Number of the Stena Line BV FIP Coupon to be used for the journey
 
 You will usually receive two reply emails from Stena Line. The first email confirms your booking request. The second email provides you with a payment option via pay per link. You will then need to enter your credit card details.
 After payment, you will receive an email with your booking confirmation, which also serves as your ticket – you must of course bring your FIP tickets with you.
@@ -40,6 +42,10 @@ FIP 50 Tickets can be booked.
 
 ## Reservations
 
-For overnight journeys, cabin reservation is mandatory.
+Cabin reservations are available and mandatory for overnight journeys.
+
+{{% highlight important %}}
+For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
+{{% /highlight %}}
 
 {{% /booking-section %}}

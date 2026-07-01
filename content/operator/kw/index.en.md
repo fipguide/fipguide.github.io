@@ -4,6 +4,11 @@ title: "KW"
 country:
   - "poland"
 operator: "kw"
+
+aliases:
+  - /booking/kw-ticket-machine
+  - /booking/kw-ticket-office
+  - /booking/kw-website
 ---
 
 Koleje Wielkopolskie, short KW, is a Polish railway operator that primarily offers regional transport in the Greater Poland Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).
@@ -28,6 +33,8 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 ## Train Categories and Reservations
 
 KW does not distinguish between different train categories. Trains have the abbreviation "KW" at the beginning in journey planners followed by a specific train number; line numbers are not used. Only 2nd class tickets are offered, as there is no 1st class on KW trains. Additionally, no reservations are possible.
+
+FIP tickets are generally not valid on KW buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Ticket and Reservation Purchase
 
@@ -61,6 +68,13 @@ FIP 50 Tickets are available for domestic and international connections. For int
 
 {{% booking id="db-ticket-office" reservations=nil /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+/%}}
+
 ### On the Train
 
 FIP 50 Tickets can also be purchased directly on the train. To do this, you must contact the train staff immediately after boarding. When boarding at stations that also have a ticket office or ticket machine, a surcharge for issuing the ticket on the train may be added to the ticket price. Tickets can be paid for in cash or by contactless credit card. Payment is only possible in the local currency, zloty.
@@ -83,9 +97,9 @@ FIP tickets are not valid on special trains operated by KW.
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-FIP tickets are only valid on KW buses that operate as a replacement service for a train.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -95,4 +109,4 @@ Similar to other regional railway companies in Poland that accept FIP, using FIP
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

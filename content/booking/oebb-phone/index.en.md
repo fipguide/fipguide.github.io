@@ -25,6 +25,8 @@ A credit card and email address are required for booking.
 ÖBB does not charge any additional fees for the booking process.
 
 {{% satellite %}}
+Since Satellite [blocks](https://help.satellite.me/mit-satellite-telefonieren/telefonie/welche-laender-sind-mit-satellite-erreichbar "Which countries can I call with satellite?") the +43517 number range, first call the ÖBB switchboard at [+43 (0) 1 930 000](tel:+431930000) and then ask to be transferred to the telephone ticket booking service.
+{{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
 
@@ -40,9 +42,9 @@ Tickets are cheaper if purchased in advance (1 day before travel or 15 days befo
 
 ## Reservations
 
-The reservation price is charged per train. For journeys with multiple trains, it may be cheaper to book via the ([Deutsche Bahn](/booking/db-website "Deutsche Bahn")).
+The reservation price is charged per journey. This means for connections with a transfer, only one price needs to be paid for multiple trains.
 
-However, seat reservations made with ÖBB can be cancelled:
+ÖBB seat reservations can be cancelled:
 
 - 180 days to 15 days before departure: 100% refund of the reservation price
 - 14 days to 1 day before departure: 50% refund of the reservation price

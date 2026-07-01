@@ -6,6 +6,8 @@ country:
 operator: "zssk"
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Železničná spoločnosť Slovensko) sont les chemins de fer nationaux slovaques et constituent l’opérateur ferroviaire principal du [Slovaquie](/country/slovakia "Slovaquie").
@@ -20,7 +22,7 @@ La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Ž
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s’appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.
 
@@ -41,7 +43,7 @@ Réservation obligatoire dans les trains `SC` et `IC`. Les autres trains ZSSK ne
 
 Trains rapides pendulaires (Pendolino) circulant entre Prague (République tchèque) et Košice, avec peu d’arrêts.
 
-#### Réservation
+#### Réservations
 
 **Coût :** à partir de 7 €, selon le trajet et l’occupation (incluant un supplément pour la catégorie de train)
 
@@ -60,7 +62,7 @@ _Actuellement, l’exploitation des trains Intercity est suspendue pour des rais
 
 Trains longue distance transfrontaliers exploités commercialement par ZSSK et CD, généralement entre Prague et Bratislava/Zilina, avec peu d’arrêts et une vitesse moyenne élevée.
 
-#### Réservation
+#### Réservations
 
 **Coût :** à partir de 7 €, selon le trajet et l’occupation (incluant un supplément pour la catégorie de train).
 
@@ -81,7 +83,7 @@ Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autri
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 {{% /train-category %}}
@@ -97,7 +99,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Les `EN` sont des trains de nuit internationaux nécessitant une réservation et offrant la possibilité de payer un supplément pour une couchette ou une place en voiture-lit. Sinon, ils sont similaires aux trains `EC`.
 
-#### Réservation
+#### Réservations
 
 **Coût :** Selon le trajet, l’occupation et la catégorie de voiture (incluant un supplément pour la catégorie de train).
 
@@ -114,7 +116,7 @@ Les `EN` sont des trains de nuit internationaux nécessitant une réservation et
 
 Type de train InterRégional avec moins d’arrêts qu’un train régional, mais plus que, par exemple, les trains `IC`. Ils disposent souvent d’une voiture-restaurant et circulent avec des trains tractés confortables.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 {{% /train-category %}}
@@ -130,7 +132,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Trains régionaux rapides desservant les principales gares de la région, un type d’express régional avec du matériel roulant très varié.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
@@ -147,13 +149,22 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Trains régionaux standards qui s’arrêtent généralement partout (il existe des exceptions). Surtout sur les lignes secondaires, ils circulent souvent avec du matériel roulant ancien. Ils sont parfois présentés comme des trains S-Bahn, mais sans vraiment respecter une grille S-Bahn.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 {{% /train-category %}}
 
-## Achat de billets et de réservations
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s’appliquent lorsqu’ils remplacent un train sur lequel le FIP aurait été valable.[^1]
+{{% /train-category %}}
+
+## Achat de billets et réservations
 
 ### En ligne
 
@@ -195,16 +206,16 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 
 ## Conditions tarifaires spéciales
 
-### Interruption de trajet
+### Possibilité d’interrompre le trajet
 
 Possible uniquement pour les trajets de 101 km ou plus.
 
-### Bus et remplacements
+### Services de remplacement ferroviaire
 
-Les bus ne sont pas valables avec FIP\*\*, sauf s’ils remplacent un train éligible FIP (service de substitution). [^1]
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)

@@ -4,37 +4,49 @@ title: "SNCB / NMBS"
 country:
   - "belgium"
 operator: "sncb"
+
+aliases:
+  - /booking/sncb-phone
+  - /booking/sncb-ticket-office
+  - /booking/sncb-website
 ---
 
 Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in [Belgien](/country/belgium "Belgien").
 
 ## Zusammenfassung
 
-- SNCB akzeptiert FIP Freifahrt und FIP 50 Tickets.
-- Keine Reservierungspflicht.
+- SNCB akzeptiert FIP Freifahrt und FIP 50 / FIP 75 Tickets.
+- Keine Reservierungspflicht innerhalb Belgiens.
 - Aufschlag für Fahrten von/zum Flughafen Brüssel Zaventem.
+- Mitarbeitende der [NS](/operator/ns) können einen _Unlimited Pass_ erhalten.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+
+Mitarbeitende der [NS](/operator/ns) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der SNCB / NMBS in Belgien nutzen können. Dieser ist jedoch kostenpflichtig. [^7]
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden `ICE` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 {{% train-category
     id="ice"
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main). Einzelne Züge verkehren auch zwischen Deutschland und Antwerpen über den Flughafen Brüssel Zaventem und im Sommer zwischen Deutschland und der belgischen Küste. Alle ICE-Züge können auch innerhalb Belgiens mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
+
+#### Reservierungen
+
+Bei grenzüberschreitenden Fahrten ist eine Reservierung vom 26.06. bis 16.08.2026 verpflichtend.
 
 {{% /train-category %}}
 
@@ -164,44 +176,53 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    fip_75=false
 /%}}
 
 ### Telefon
 
 {{% booking id="sncb-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien, mit Ticketanteil nur für den belgischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="sncb-ticket-office" /%}}
+
+{{% booking id="sncb-ticket-machine"
+    subtitle="Nur für nationale Verbindungen"
+/%}}
 
 {{% booking id="db-ticket-office" /%}}
 
 ### Im Zug
 
-FIP reduzierte Tickets können grundsätzlich an Bord der Züge gekauft werden. Der übliche Aufschlag der SNCB für den Bordverkauf wird hierbei nicht berechnet, da die Tickets nicht an Ticketautomaten verfügbar sind. [^2]<sup>, </sup>[^4]
+{{% highlight important %}}
+Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das betrifft auch FIP reduzierte Tickets. Alle Reisenden müssen vor dem Einsteigen ein gültiges Ticket besitzen. [^5]<sup>, </sup>[^6]
+{{% /highlight %}}
 
 ## Ermäßigungen
 
-Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
+Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 / FIP 75 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
 
 ## Tarifliche Besonderheiten
 
 ### Flughafen Brüssel Zaventem
 
-Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,90 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. Bei FIP 50 Tickets ist dieser bereits im Preis inbegriffen. [^1]
-
-## Empfehlungen
-
-{{% highlight tip %}}
-Die 1. Klasse in den Zügen der SNCB / NMBS wird oft auch mit 2. Klasse Tickets benutzt. Auch ist die 1. Klasse meist nicht viel komfortabler als die 2. Klasse. Anders als in anderen Ländern lohnt sich daher ein Kauf von 1. Klasse Tickets, um hier mehr Platz und Ruhe zu haben, nur bedingt.
-{{% /highlight %}}
+Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. [^1] Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen, sofern das Ticket nicht am Fahrkartenautomaten erworben wurde. [^2]
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
-[^2]: [SNCB Nutzer Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [FIP Guide Community: SNCB Flughafenzuschlag am Fahrkartenautomaten](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
 [^3]: [SNCB Kinderregelung](https://www.belgiantrain.be/de/products/child)
 
-[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
+[^5]: [SNCB -- Ende des Ticketverkaufs in den Zügen](https://www.belgiantrain.be/de/news/end-of-on-board-fare)
+
+[^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+[^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)

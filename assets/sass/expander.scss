@@ -39,7 +39,7 @@
     }
   }
 
-  > .material-symbols-rounded {
+  > .a-icon {
     transition: transform 0.2s;
 
     @media print {
@@ -133,7 +133,7 @@ details {
   }
 }
 
-details[open] > .o-expander__summary > .material-symbols-rounded {
+details[open] > .o-expander__summary > .a-icon {
   transform: rotate(180deg);
 }
 

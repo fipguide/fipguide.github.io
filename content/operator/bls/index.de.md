@@ -3,6 +3,9 @@ draft: false
 title: "BLS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.
@@ -18,7 +21,7 @@ Auf ihrer Website bietet die BLS eine [Übersichtskarte der Strecken](https://ww
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Zugkategorien und Reservierungen
 
@@ -81,10 +84,8 @@ FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Z�
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
 %}}
-FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_.
+FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_ und Bussen des Schienenersatzverkehrs.
 {{% /train-category %}}
 
 {{% train-category
@@ -118,6 +119,14 @@ Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tick
 Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
 {{% /booking %}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="bls-ticket-office"/%}}
@@ -147,6 +156,10 @@ Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP 
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -155,6 +168,6 @@ Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB.
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

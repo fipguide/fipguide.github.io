@@ -16,10 +16,12 @@ Die Buchung der Stena Line ist per E-Mail unkompliziert möglich. Hierzu ist ein
 In der Mail sind folgende Daten anzugeben:
 
 - Reisedatum und Uhrzeit
+- Geburtsdatum
 - Kabinentyp (Standard, Superior oder Deluxe)
 - Name der Reisenden wie auf dem Reisepass
-- Pass-Nummer und Gültigkeitsdatum
-- Kopie vom FIP-Ausweis (Vorder- und Rückseite)
+- Reisepassnummer und Gültigkeitsdatum
+- **Nur für FIP 50 Tickets:** FIP-Ausweis
+- **Nur für Reservierungen mit FIP Freifahrtschein:** Nummer des Stena Line BV FIP Freifahrtscheins, der bei der Fahrt genutzt werden soll
 
 Von Stena Line erhält man in der Regel zwei Antwortmails. In der ersten Mail wird die Buchungsanfrage bestätigt. In der zweiten Mail erhält man eine Bezahloption über pay per link. Hier sind dann die Kreditkartendaten zu hinterlegen.
 Nach Bezahlung bekommst du eine Mail mit der Resevierungsbestätigung, die auch als Ticket gilt - die FIP Fahrkarten sind natürlich mitzuführen.
@@ -40,6 +42,10 @@ FIP 50 Tickets können gebucht werden.
 
 ## Reservierungen
 
-Für Übernachtungsfahrten ist die Kabinenreservierung obligatorisch.
+Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
+
+{{% highlight important %}}
+Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
+{{% /highlight %}}
 
 {{% /booking-section %}}

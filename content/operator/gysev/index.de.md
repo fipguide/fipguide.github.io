@@ -4,6 +4,11 @@ title: "GySEV / Raaberbahn"
 country:
   - "austria"
 operator: "gysev"
+
+aliases:
+  - /booking/mav-ticket-machine
+  - /booking/mav-ticket-office
+  - /booking/mav-website
 ---
 
 Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vasút Zrt.), kurz GySEV oder Raaberbahn ist ein privates ungarisches Eisenbahnunternehmen, welches Regionalzüge in Ungarn und [Österreich](/country/austria "Österreich") betreibt. Die Züge verkehren hauptsächlich südlich und östlich des Neusiedlersees (Westungarn), teilweise sind sie sogar auf eigener Infrastruktur unterwegs.
@@ -17,7 +22,7 @@ Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vas
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
 FIP gilt auf allen Strecken der GySEV in Ungarn. Der FIP Freifahrtschein der GySEV ist jedoch primär für Ungarn gedacht und gilt auf den Strecken der GySEV in Österreich nur eingeschränkt.
@@ -48,7 +53,7 @@ Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
 In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten zwischen Sopron und Győr ist keine Reservierung erforderlich.
 
@@ -102,6 +107,15 @@ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtk
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -138,16 +152,16 @@ Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Ja
 
 ## Tarifliche Besonderheiten
 
-### Busverkehr
-
-FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV.
-
 ### Fahrtunterbrechung
 
 Im Falle einer Fahrtunterbrechung muss das Ticket an dem Bahnhof, an dem die Unterbrechung erfolgt, abgestempelt werden.
 
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)

@@ -7,6 +7,8 @@ operator: "zssk"
 
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der [Slowakei](/country/slovakia "Slowakei").
@@ -21,7 +23,7 @@ Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
@@ -42,7 +44,7 @@ Reservierungspflicht für `SC` und `IC` Züge. Andere ZSSK Züge erfordern nur e
 
 Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren.
 
-#### Reservierung
+#### Reservierungen
 
 **Kosten:** Ab 7 €, abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
@@ -61,7 +63,7 @@ _Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen ein
 
 Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erbracht werden und meist zwischen Prag und Bratislava/Zilina mit wenigen Halten und schneller Durchschnittsgeschwindigkeit verkehren.
 
-#### Reservierung
+#### Reservierungen
 
 **Kosten:** Ab 7 €, abhängig von Strecke und Auslastung (inkl. Aufschlag für Zugkategorie)
 
@@ -82,7 +84,7 @@ Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich od
 `RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht nur in der 1. Klasse.
 
@@ -99,7 +101,7 @@ Reservierungspflicht nur in der 1. Klasse.
 
 `EN` sind internationale Nachtzüge, bei denen Reservierungspflicht besteht und die Möglichkeit einen Aufpreis für Liege- oder Schlafwagen zu zahlen. Sonst sind sie ähnlich wie die `EC`.
 
-#### Reservierung
+#### Reservierungen
 
 **Kosten:** Abhängig von Strecke und Auslastung sowie Wagenkategorie (inkl. Aufschlag für Zugkategorie)
 
@@ -116,7 +118,7 @@ Reservierungspflicht nur in der 1. Klasse.
 
 Eine Art InterRegio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den `IC`. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht nur in der 1. Klasse.
 
@@ -133,7 +135,7 @@ Reservierungspflicht nur in der 1. Klasse.
 
 Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, eine Art Regionalexpress mit sehr unterschiedlichem Wagenmaterial.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht nur in der 1. Klasse.
 
@@ -150,10 +152,19 @@ Reservierungspflicht nur in der 1. Klasse.
 
 Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Gerade auf Nebenstrecken verkehren sie oft mit veralteten Wagenmaterial. Teilweise werden sie auch als S-Bahnen vermarktet, ohne jedoch wirklich in einem S-Bahn-Takt zu fahren.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungspflicht nur in der 1. Klasse.
 
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -202,12 +213,12 @@ Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internation
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
 
-### Busse und Ersatzverkehr
+### Schienenersatzverkehr
 
-Busse sind ausgeschlossen von FIP-Rabatten, außer sie ersetzen einen Zug, in dem FIP anerkannt worden wäre (Schienenersatzverkehr).[^1]
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

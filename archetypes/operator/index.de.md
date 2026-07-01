@@ -42,7 +42,7 @@ operator: "{{ .File.ContentBaseName }}"
 -->
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
@@ -86,7 +86,7 @@ Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkate
 Hier können weitere wichtige Informationen ergänzt werden.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 <!--
   Beschreibung der Reservierungsbedingung für diese Zugkategorie.

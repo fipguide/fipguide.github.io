@@ -3,6 +3,11 @@ draft: false
 title: "SBB CFF FFS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/sbb-ticket-machine
+  - /booking/sbb-ticket-office
+  - /booking/sbb-website
 ---
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.
@@ -17,7 +22,7 @@ Les CFF mettent à disposition une [carte de synthèse de leurs lignes](https://
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sans restriction sur les trains des CFF. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
@@ -44,7 +49,7 @@ Trains à grande vitesse en provenance d’Allemagne vers Bâle et parfois jusqu
 %}}
 Trains à grande vitesse en provenance de France vers Zurich via Bâle.
 
-#### Réservation
+#### Réservations
 
 La réservation est obligatoire hors de Suisse et pour les trajets transfrontaliers.
 {{% /train-category %}}
@@ -59,12 +64,12 @@ La réservation est obligatoire hors de Suisse et pour les trajets transfrontali
 %}}
 Trains internationaux vers l’Allemagne et l’Italie.
 
-#### Réservation
+#### Réservations
 
 1ère classe : 13 € \
 2ᵉ classe : 11 €
 
-Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l'Italie en changeant de train à Chiasso ([Voir Voyage vers l'Italie](/country/switzerland#italie "Voyage vers l'Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
+Une réservation et un supplément sont requis pour la section italienne. Il est moins cher de voyager vers l’Italie en changeant de train à Chiasso ([Voir Voyage vers l’Italie](/country/switzerland#italie "Voyage vers l’Italie")). Le supplément peut être acheté au guichet CFF ou à bord du train.
 {{% /train-category %}}
 
 {{% train-category
@@ -76,6 +81,8 @@ Une réservation et un supplément sont requis pour la section italienne. Il est
     reservation_possible=true
 %}}
 Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gares de correspondance.
+
+Certains services [Nightjet](#nj) sont exploités avec des voitures à sièges `IC`. Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information en plus du service Nightjet.
 {{% /train-category %}}
 
 {{% train-category
@@ -88,9 +95,31 @@ Trains rapides nationaux ne s’arrêtant que dans les grandes villes et les gar
 %}}
 Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
 
-#### Réservation
+Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information, en plus du service Nightjet.
+
+#### Réservations
 
 Une réservation est requise sauf dans les voitures à places assises lorsqu’ils circulent comme Intercity, Eurocity ou trains régionaux.
+{{% /train-category %}}
+
+{{% train-category
+    id="pe"
+    title="Panorama Express (PE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://www.sbb.ch/fr/loisirs-vacances/trains-bateaux/voyages-panoramiques/gotthard-panorama-express.html"
+%}}
+Train panoramique des CFF prenant la ligne du Gothard classique de mi-avril à mi-octobre. Promu comme voyage en combinaision avec le bateau da la Société de navigation du lac des Quatre-Cantons (SGV), y étant valable les réductions SP, voir [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Pour les voyageurs faisant le parcours complet avec train et bateau entre Lugano et Lucerne (et vice versa) un transfer de bagages gratuit est offert.
+
+#### Réservations
+
+Une réservation spéciale pour 24 CHF est requise.
+
+{{% highlight important %}}
+Les trains ne sont composés que des voitures 1ère classe. Avec un permis FIP en 2ᵉ un surclassement est nécessaire. Avec une carte FIP en 2ᵉ aucune réduction est disponible.
+{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -112,6 +141,15 @@ Trains nationaux s’arrêtant dans les grandes villes.
     reservation_required=false
 %}}
 Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aussi appelés S-Bahn.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -138,6 +176,12 @@ Avec les Billets FIP 50, il est possible de réserver des trajets continus sur l
 
 {{% booking id="oebb-phone" subtitle="Réservation Nightjet" fip_50=nil /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Suisse, avec part de billet uniquement pour la section suisse. Réservé aux employés de la Deutsche Bahn."
+%}}
+Avec les Billets FIP 50, il est possible de réserver des trajets continus sur la ligne `ECE` Francfort – Milan jusqu’à Milan.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="sbb-ticket-office" /%}}
@@ -154,11 +198,9 @@ Les Billets FIP ne peuvent pas être achetés à bord du train. Un supplément e
 
 Les enfants voyagent gratuitement sur les trajets réguliers (hors trajets spéciaux) jusqu’à l’âge de 5 ans inclus. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans, le tarif adulte s’applique.
 
+En outre, il est possible d’acheter une _Carte Junior CFF_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des [points de vente des transports publics](https://www.sbb.ch/fr/informations-voyages/gares/trouver-une-gare.html) en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
+
 ## Conditions tarifaires spéciales
-
-### Bus et substitutions
-
-Les Billets FIP ne sont pas valables sur les lignes de bus des CFF, sauf si elles sont en remplacement ferroviaire (SEV).
 
 ### Reconnaissance mutuelle CFF / BLS
 
@@ -183,7 +225,11 @@ Ce supplément (incluant la réservation) est obligatoire, même avec un Coupon 
 
 Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
 
-## Recommandation
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
+## Recommandations
 
 {{% highlight tip %}}
 Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de restrictions, et peu de besoin de réservation. La 1ère classe est recommandée pour son confort supérieur, surtout dans les trains Giruno.
@@ -191,6 +237,6 @@ Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Communauté FIP Guide — Commentaires](https://discord.com/channels/1250522473188032512/1448243039398264893)

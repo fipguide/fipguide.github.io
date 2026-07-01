@@ -23,4 +23,4 @@ FIP 50 Tickets can be booked.
 
 {{% /booking-section %}}
 
-{{% satellite %}}
+{{% satellite /%}}

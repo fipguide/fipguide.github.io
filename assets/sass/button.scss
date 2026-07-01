@@ -1,3 +1,12 @@
+button {
+  border-radius: var(--border-radius-s);
+  @include focus-indicator(0.2rem);
+
+  &:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
 .a-button {
   padding: 1rem;
   display: inline-flex;
@@ -12,6 +21,7 @@
     color 0.2s;
   background: transparent;
   color: var(--body-color);
+  width: fit-content;
 
   &:hover,
   &:focus {

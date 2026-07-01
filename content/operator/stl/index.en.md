@@ -5,6 +5,11 @@ country:
   - "netherlands"
   - "united-kingdom"
 operator: "stl"
+
+aliases:
+  - /booking/stena-line-bv-email
+  - /booking/stena-line-bv-phone
+  - /booking/stena-line-bv-ticket-office
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek van Holland ([Netherlands](/country/netherlands)) is referred to as Stena Line BV (StL) in the context of FIP.
@@ -20,7 +25,7 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Ship Categories and Reservations
 
@@ -146,7 +151,7 @@ As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10
 
 ### On-Site
 
-On the day of travel, bookings can be made on-site, subject to availability. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Purchase on board the ships is not possible.
 
@@ -170,9 +175,11 @@ Arrival at the station _Hoek van Holland Haven_ is usually via Metro Line B from
 
 - Station _Schiedam Centrum_: direct transfer to `IC` and `RE` trains of NS.
 - Station _Rotterdam Centraal_: transfer options to NS trains. To reach Hoek van Holland, change from Metro Line D at station _Beurs_.
+- Station _Rotterdam Alexander_: direct transfer to NS trains to the main Dutch rail interchange _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. does not accept FIP, so a regular ticket must be purchased for the metro ride. This also works contactless and with ApplePay.
+Due to Hoek van Holland being far from central Rotterdam it can be cheaper to buy a 2 hour ticket depending on your destination (€5.50 as of 2026). To the main interchanges currently the kilometric fare is only cheaper to _Schiedam Centrum_ (€5.28), the biggest saving can be had for _Rotterdam Centraal_ (€8.28).
 {{% /highlight %}}
 
 In Harwich, there is a connection at _Harwich International_ station to Greater Anglia trains to/from London.
@@ -183,7 +190,7 @@ Stena Line offers a great way to be in London before 10 am if you invest a littl
 
 ## Sources
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#StenaBV)
 
 [^3]: [Stena Line Website](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 

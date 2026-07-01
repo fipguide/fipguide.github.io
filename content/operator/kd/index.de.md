@@ -4,6 +4,11 @@ title: "KD"
 country:
   - "poland"
 operator: "kd"
+
+aliases:
+  - /booking/kd-ticket-machine
+  - /booking/kd-ticket-office
+  - /booking/kd-website
 ---
 
 Die Koleje Dolnośląskie, kurz KD, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Niederschlesien anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
@@ -16,10 +21,10 @@ Auf ihrer Website bietet die KD eine [Übersichtskarte der Strecken](https://kol
 - Nur 2. Klasse in den Zügen vorhanden und keine Reservierungen möglich.
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KD gültig.
 
@@ -28,6 +33,15 @@ Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticke
 ## Zugkategorien und Reservierungen
 
 Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben meist eine Liniennummer mit "D" beginnend, die jedoch in den Auskunftsmedien oft nicht mit ausgegeben wird (hier steht oft einfach "KD" und dann eine Zugnummer). Zur Vermarktung werden manche Züge als "KD Sprinter" oder "KD Supersprinter" bezeichnet, es bleiben jedoch Regionalzüge. Es werden nur Tickets der 2. Klasse angeboten, da es in KD-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+%}}
+Auf allen Buslinien der KD ist FIP gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+{{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
@@ -54,6 +68,13 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% booking id="db-website-fip-international"
     reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+/%}}
+
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort
@@ -88,9 +109,9 @@ Die KD bietet zudem in der Sommersaison spezielle "KD Premium" Züge an, die wei
 
 FIP-Vergünstigungen der KD gelten im Regelfall nur für die Abschnitte innerhalb von Polen. Eine Ausnahme stellen die grenzüberschreitenden Fahrten zwischen Polen und Deutschland auf dem Abschnitt Zgorzelec – Görlitz dar. Hier wird kein zusätzliches Ticket zwischen den beiden Bahnhöfen benötigt. Alle aus Polen kommenden bis Zgorzelec gültigen Tickets gelten auch bis zum Bahnhof Görlitz, andersrum genauso.
 
-### Busse
+### Schienenersatzverkehr
 
-Auf allen Buslinien der KD ist FIP auch gültig. Diese fahren meist im Schienenersatzverkehr oder als vorbereitender Verkehr für eine bald reaktivierte Bahnstrecke.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
@@ -100,4 +121,4 @@ Die Nutzung von FIP bei der KD ist durch sehr wenige Ausnahmen einfach und beque
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

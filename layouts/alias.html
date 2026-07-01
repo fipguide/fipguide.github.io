@@ -9,7 +9,7 @@
     </noscript>
     <script>
       (() => {
-        const supportedLanguages = [{{ range site.Languages }}"{{ .Lang }}",{{ end }}];
+        const supportedLanguages = [{{ range hugo.Sites }}"{{ .Language.Lang }}",{{ end }}];
         const defaultLanguage = "en";
 
         const getTargetLanguage = () => {

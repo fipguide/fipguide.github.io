@@ -4,11 +4,16 @@ title: "KW"
 country:
   - "poland"
 operator: "kw"
+
+aliases:
+  - /booking/kw-ticket-machine
+  - /booking/kw-ticket-office
+  - /booking/kw-website
 ---
 
 Die Koleje Wielkopolskie, kurz KW, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Großpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
 
-Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecken](https://koleje-wielkopolskie.com.pl/rozklad-jazdy/liniowe-rozklady-jazdy/) der KW eingesehen werden. Dabei ist zu beachten, dass die Strecken oft auch durch andere Betreiber parallel bedient wird.
+Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecken](https://koleje-wielkopolskie.com.pl/rozklad-jazdy/liniowe-rozklady-jazdy/) der KW eingesehen werden. Dabei ist zu beachten, dass die Strecken oft auch durch andere Betreiber parallel bedient werden.
 
 ## Zusammenfassung
 
@@ -16,7 +21,7 @@ Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecke
 - Nur 2. Klasse in den Zügen vorhanden und keine Reservierungen möglich.
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
@@ -28,6 +33,8 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 ## Zugkategorien und Reservierungen
 
 Die KW unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KW" und im Anschluss eine konkrete Zugnummer, Liniennummern werden nicht genutzt. Es werden nur Tickets der 2. Klasse angeboten, da es in KW-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
+
+FIP-Fahrkarten sind in Bussen der KW grundsätzlich nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Ticket- und Reservierungskauf
 
@@ -51,6 +58,13 @@ FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen 
 {{% booking id="db-website-fip-international"
     reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+/%}}
+
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort
@@ -79,13 +93,13 @@ Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, da
 
 In von der KW betriebenen Sonderzügen sind FIP-Fahrkarten nicht gültig.
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind jederzeit möglich, es werden dafür keinerlei Nachweise benötigt.
 
-### Busse
+### Schienenersatzverkehr
 
-FIP-Fahrkarten sind nur in Bussen der KW gültig, die als Ersatz für einen Zug verkehren.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
@@ -95,4 +109,4 @@ FIP-Fahrkarten sind nur in Bussen der KW gültig, die als Ersatz für einen Zug 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

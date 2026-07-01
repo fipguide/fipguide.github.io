@@ -5,6 +5,7 @@ country: "slovakia"
 params:
   operators_without_fip:
     - RegioJet
+    - Leo Express
 ---
 
 ## FIP Nutzung
@@ -34,30 +35,11 @@ Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská že
 
 | Land                                                | Grenzpunkte                                                                                                 |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 | Ungarn ([GySEV](/operator/gysev))                   | Rajka (Gr)                                                                                                  |
 | Ungarn (MÁV)                                        | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                       |
+| [Tschechien](/country/czechia) ([ČD](/operator/cd)) | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 
 {{% /expander %}}
-
-### Tschechien
-
-Von Tschechien aus können grenzüberschreitende Züge der Ceske Drahy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der Ceske Drahy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
-
-### Österreich
-
-Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
-
-- Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
-- Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
-
-Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
-
-Zusätzlich gibt es einzelne `EC` Verbindungen.
-
-### Ungarn
-
-Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP Ticket der MAV-Start benötigt.
 
 ### Polen
 
@@ -72,6 +54,25 @@ Weitere grenzüberschreitende Strecken, die jedoch nur saisonal bedient werden, 
 Von Košice aus fahren grenzüberschreitende Regionalzüge nach Chop und Mukacheve. Da in der Ukraine FIP nicht gültig sind, wird ein reguläres Ticket mindestens ab dem Grenzpunkt benötigt.
 
 Bei der ZSSK Seite kann ein grenzüberschreitendes Ticket nur ohne FIP-Rabatt gekauft werden. Wenn der Zug einen Zwischenhalt in Cierna nad Tisou hat, wäre es möglich ab diesem Bahnhof ein reguläres Ticket über die Website zu kaufen. Falls nach einem günstigeren Ticket gesucht wird, am besten hier an einem Schalter der ZSSK nachfragen, ob es noch bessere Möglichkeiten gibt.
+
+### Ungarn
+
+Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge genutzt werden. Auf der Verbindung von Bratislava nach Süden über den Grenzübergang Rajka nach Hegyeshalom wird ein zusätzliches FIP Ticket der GySEV benötigt, in den anderen Fällen wird ein zusätzliches FIP Ticket der MAV-Start benötigt.
+
+### Österreich
+
+Aus Österreich ist die Anreise über zwei verschiedene Nahverkehrsverbindungen möglich:
+
+- Eine Verbindung führt nördlich der Donau von Wien über Marchegg zum Hauptbahnhof Bratislava (Bratislava hl.st.).
+- Eine andere Verbindung fährt von Wien aus über Kittsee in den Süden von Bratislava (Bratislava Petrzalka).
+
+Für beide Verbindungen wird im slowakischen Abschnitt ein FIP 50 Ticket der [ŽSR / ZSSK](/operator/zssk "ŽSR / ZSSK") benötigt.
+
+Zusätzlich gibt es einzelne `EC` Verbindungen.
+
+### Tschechien
+
+Von Tschechien aus können grenzüberschreitende Züge der České dráhy bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der České dráhy benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
 
 ## FIP Bewertung
 

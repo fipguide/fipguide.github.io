@@ -4,6 +4,11 @@ title: "KD"
 country:
   - "pologne"
 operator: "kd"
+
+aliases:
+  - /booking/kd-ticket-machine
+  - /booking/kd-ticket-office
+  - /booking/kd-website
 ---
 
 Koleje Dolnośląskie (KD) est une compagnie ferroviaire polonaise assurant principalement des services régionaux dans la voïvodie de Basse-Silésie. C’est l’une des cinq compagnies différentes de [Pologne](/country/poland) qui proposent le FIP.
@@ -19,7 +24,7 @@ Sur son site Web, KD propose une [carte d’ensemble des lignes](https://kolejed
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont acceptés chez KD.
 
@@ -28,6 +33,15 @@ Pour les voyages transfrontaliers, il faut soit un Billet FIP 50 continu, soit d
 ## Catégories de trains et réservations
 
 KD ne distingue pas de catégories de trains différentes. Les trains ont en général un numéro de ligne commençant par "D", mais dans les moteurs de recherche de voyages il n’est souvent indiqué que "KD" et un numéro de train. Certains trains sont commercialisés comme "KD Sprinter" ou "KD Supersprinter", mais restent néanmoins des trains régionaux. Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains KD. Il n’est pas possible de réserver.
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+%}}
+Le FIP est accepté sur toutes les lignes de bus KD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
@@ -56,6 +70,13 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour toute la trajectoire (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="kd-ticket-office"/%}}
@@ -66,7 +87,7 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
 
 ### À bord du train
 
-Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l'embarquement. En cas d'embarquement aux gares disposant également d'un guichet ou d'un distributeur de billets, des frais de délivrance à bord peuvent s'ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
+Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l’embarquement. En cas d’embarquement aux gares disposant également d’un guichet ou d’un distributeur de billets, des frais de délivrance à bord peuvent s’ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
 
 ## Réductions
 
@@ -88,9 +109,9 @@ En saison estivale, KD propose aussi des trains spéciaux "KD Premium", reliant 
 
 D’ordinaire, les avantages FIP KD ne sont valables qu’en Pologne. Pour les trajets transfrontaliers Zgorzelec (Pologne) – Görlitz (Allemagne), exception : aucun billet supplémentaire n’est exigé entre ces deux gares ; tous les billets valables jusqu’à Zgorzelec sont aussi valables jusqu’à Görlitz et inversement.
 
-### Bus
+### Services de remplacement ferroviaire
 
-Le FIP est accepté sur toutes les lignes de bus KD, qui circulent en général comme remplacement ferroviaire ou en prévision de réouverture future de lignes ferroviaires.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 
@@ -100,4 +121,4 @@ L’utilisation du FIP chez KD est simple et pratique, avec très peu d’except
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

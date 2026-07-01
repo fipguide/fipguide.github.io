@@ -33,13 +33,21 @@ Particularly scenic are the routes along the Carpathians, for example between Pl
 {{% expander "Border Points" border %}}
 | Country | Border Points |
 | --- | --- |
-| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr) |
-| Moldova (CFM) | Iasi, Ungheni (fr) |
-| Serbia (SV) | Jimbolia (fr) (Serbian: Жомбољ), Vršac (fr) (Serbian: Вршац) |
 | Ukraine (UZ) | Vicsani (fr) |
+| Moldova (CFM) | Iasi, Ungheni (fr) |
+| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr) |
+| [Serbia](/country/serbia) ([SV](/operator/sv)) | Jimbolia (fr) (Serbian: Жомбољ), Vršac (fr) (Serbian: Вршац) |
 | Hungary (MÁV) | Biharkeresztes (fr), Curtici (fr) (Hungarian: Kürtös), Nyirábrány (fr), Salonta (fr) (Hungarian: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
+
+### Ukraine
+
+In the past, direct trains across the Ukrainian-Romanian border have been offered from time to time, but these are currently suspended. Instead, a direct train currently runs between Kyiv and Bucharest via Moldova. FIP tickets can only be purchased for the Romanian section. However, it may also be more practical to buy a through night train ticket for the entire route online.
+
+### Moldova
+
+A night train runs once daily between the Moldovan capital Chișinău and Bucharest. Within Romania, it is operated by CFR, but in Moldova by CFM. Since the latter is not a FIP member, FIP tickets are only valid within Romania. A regular-price ticket must therefore be purchased for the Moldovan section. However, it may also be more practical to buy a through night train ticket for the entire route online.
 
 ### Bulgaria
 
@@ -49,17 +57,9 @@ To use these cross-border trains with FIP, you need either FIP Coupons for both 
 
 Another daily connection between the two countries exists via the Vidin border crossing. A daily train runs from Vidin in Bulgaria to Craiova in Romania. For this route, FIP Coupons for both countries or a continuous FIP 50 Ticket are sufficient.
 
-### Moldova
-
-A night train runs once daily between the Moldovan capital Chișinău and Bucharest. Within Romania, it is operated by CFR, but in Moldova by CFM. Since the latter is not a FIP member, FIP tickets are only valid within Romania. A regular-price ticket must therefore be purchased for the Moldovan section. However, it may also be more practical to buy a through night train ticket for the entire route online.
-
 ### Serbia
 
 Currently, there are no passenger trains between Serbia and Romania.
-
-### Ukraine
-
-In the past, direct trains across the Ukrainian-Romanian border have been offered from time to time, but these are currently suspended. Instead, a direct train currently runs between Kyiv and Bucharest via Moldova. FIP tickets can only be purchased for the Romanian section. However, it may also be more practical to buy a through night train ticket for the entire route online.
 
 ### Hungary
 

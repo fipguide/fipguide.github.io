@@ -4,6 +4,11 @@ title: "KŚ"
 country:
   - "poland"
 operator: "ks"
+
+aliases:
+  - /booking/ks-ticket-machine
+  - /booking/ks-ticket-office
+  - /booking/ks-website
 ---
 
 Die Koleje Śląskie, kurz KŚ, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Schlesien anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
@@ -17,7 +22,7 @@ Auf ihrer Website bietet die KŚ eine [Übersichtskarte der Strecken](https://ww
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 - Einzelne Routen sind auch mit PKP Freifahrtscheinen nutzbar.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
@@ -29,6 +34,8 @@ Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticke
 ## Zugkategorien und Reservierungen
 
 Die KŚ unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben meist eine Liniennummer mit "S" beginnend, die jedoch in den Auskunftsmedien oft nicht mit ausgegeben wird (hier steht oft einfach "KŚ" und dann eine Zugnummer). Es werden nur Tickets der 2. Klasse angeboten, da es in KŚ-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
+
+FIP-Fahrkarten sind in Bussen der KŚ grundsätzlich nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Ticket- und Reservierungskauf
 
@@ -54,6 +61,13 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% booking id="db-website-fip-international"
     reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+/%}}
+
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort
@@ -94,9 +108,9 @@ Auf folgenden Routen der KŚ sind sowohl FIP-Tickets der KŚ als auch der PKP g�
 
 Fahrtunterbrechungen sind jederzeit möglich, es werden dafür keinerlei Nachweise benötigt.
 
-### Busse
+### Schienenersatzverkehr
 
-FIP-Fahrkarten sind nur in Bussen der KŚ gültig, die als Ersatz für einen Zug verkehren.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
@@ -106,4 +120,4 @@ FIP-Fahrkarten sind nur in Bussen der KŚ gültig, die als Ersatz für einen Zug
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

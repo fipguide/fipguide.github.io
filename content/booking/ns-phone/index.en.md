@@ -16,9 +16,9 @@ NS offers a booking hotline for tickets and reservations:
 
 A credit card is required for booking. Payment is made via a link sent by email.
 
-The hotline is available daily from 7 a.m. to 11 p.m.
+The hotline is available on Monday through Friday from 7 a.m. to 7 p.m, and Saturday and Sunday from 8:30 a.m. to 5 p.m.
 
-{{% satellite %}}
+{{% satellite /%}}
 
 {{% booking-section "fip_50" %}}
 

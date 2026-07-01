@@ -25,18 +25,14 @@ The route highlights include, on the one hand, the north–south lines running t
 
 {{% expander "Border Points" border %}}
 
-| Country                                            | Border Points                                                            |
-| -------------------------------------------------- | ------------------------------------------------------------------------ |
-| Greece (TrainOSE)                                  | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
-| [Romania](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                  |
-| Serbia (SV)                                        | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)                       |
-| Turkey (TCDD)                                      | Kapikule (fr)                                                            |
+| Country                                                    | Border Points                                                            |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Romania](/country/romania) ([CFR](/operator/cfr))         | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                  |
+| Turkey (TCDD)                                              | Kapikule (fr)                                                            |
+| [Greece](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
+| [Serbia](/country/serbia) ([SV](/operator/sv))             | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)                       |
 
 {{% /expander %}}
-
-### Greece
-
-Currently, there are no passenger trains between Greece and Bulgaria.
 
 ### Romania
 
@@ -44,12 +40,20 @@ There are a few daily trains between Romania and Bulgaria, which are the most im
 
 Another daily connection exists via the Vidin border crossing, with a train from Craiova (Romania) to Vidin (Bulgaria). For this route, FIP Coupons for both countries or a continuous FIP 50 Ticket are sufficient.
 
-### Serbia
-
-Currently, only the private Optima Express runs once a week across the border between Serbia and Bulgaria. This train runs from Villach (Austria) to Turkey and uses some lines that are otherwise not served by passenger trains. Car transport is also possible. FIP is not valid on any part of this route, and disembarking is only possible in Edirne, Turkey. More information is available on the [Optima Express website](https://optimatours.de/en).
-
 ### Turkey
 
 During the summer season, a night train runs between Istanbul Halkali and various destinations in Bulgaria, including Sofia and Plovdiv, or via Ruse north to Bucharest, Romania. Since FIP is not valid in Turkey, you can only use a FIP 50 Ticket or FIP Coupon for the Bulgarian or Romanian section. For through journeys, it may be easier to buy a full-price ticket including a berth or sleeper.
 
 For the route between Turkey and Bulgaria, tickets can only be purchased at an international ticket counter on site. If Romania is the start or end point, tickets can also be bought via the [Romanian State Railways CFR](https://bileteinternationale.cfrcalatori.ro/en/). The private Optima Express also runs on this route, but FIP is not valid ([see Serbia](#serbia)).
+
+### Greece
+
+Currently, there are no passenger trains between Greece and Bulgaria.
+
+### North Macedonia
+
+There is currently no rail connection between North Macedonia and Bulgaria.
+
+### Serbia
+
+Currently, only the private Optima Express runs once a week across the border between Serbia and Bulgaria. This train runs from Villach (Austria) to Turkey and uses some lines that are otherwise not served by passenger trains. Car transport is also possible. FIP is not valid on any part of this route, and disembarking is only possible in Edirne, Turkey. More information is available on the [Optima Express website](https://optimatours.de/en).

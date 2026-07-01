@@ -37,8 +37,8 @@ Switzerland has one of the densest rail networks in the world. Despite challengi
 | Country                                             | Border Points                                                                                                                       |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Germany](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
-| [Italy](/country/italy) ([FS](/operator/fs))        | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Buchs (SG), St. Margrethen                                                                                                          |
+| [Italy](/country/italy) ([FS](/operator/fs))        | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [France](/country/france) ([SNCF](/operator/sncf))  | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
@@ -68,6 +68,28 @@ For this short section, it's best to buy a FIP 50 ticket, otherwise the [ÖBB lo
 
 There are also several cross-border regional connections. Switzerland can also be reached by ferries, some of which are FIP eligible.
 
+### Austria
+
+Austria and Switzerland have only one real border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich).
+
+Entry from Austria is also possible via the Buchs SG border crossing through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. Thus, it is possible to have a continuous ticket between Austria and Switzerland with ÖBB and SBB Coupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
+
+### Liechtenstein
+
+Liechtenstein and Switzerland are only connected by a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB Coupons and FIP 50 Tickets are valid up to the border point Buchs SG in Switzerland.
+
+Otherwise, border traffic is mainly handled by buses, where FIP Tickets are not valid.
+
+### Italy
+
+From Italy, both long-distance and regional trains cross into Switzerland. From Milan, you can reach the Swiss network via Como or Domodossola. Trains via Como usually continue to Zurich, those via Domodossola to Bern and Basel. Both Eurocity and regional trains run on these routes. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a surcharge and reservation are required. Additionally, the `ECE` train Frankfurt – Milan and the `EC` trains Zurich – Milan operate.
+
+The surcharge for cross-border `EC`/`ECE` trains to Italy is €20 (1st/2nd class). If booked at a DB travel center, the surcharge is only €11 (2nd class) or €13 (1st class) and includes a seat reservation (e.g. to Frankfurt).
+
+{{% highlight tip %}}
+For the Milan - Como - Switzerland connection, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates this route and does not accept FIP Tickets. However, tickets can be booked online on Trenord's website and are relatively cheap compared to the required cross-border reservation on Eurocity trains. Changing trains in Chiasso can therefore be a more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
+{{% /highlight %}}
+
 ### France
 
 From France, cross-border TGV trains operate to Zurich via Basel. Within Switzerland, these trains can be used without a reservation with FIP 50 Tickets or FIP Coupons from SBB. For cross-border journeys, a FIP Global Fare must be purchased; see [Cross-border TGV inOui / ICE trains](/operator/sncf#international-tgv-inoui--ice-trains "Cross-border TGV inOui / ICE trains").
@@ -77,28 +99,6 @@ There are also various cross-border regional train connections. In Basel, Basel 
 In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
 
 `TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF Coupon.[^2]
-
-### Italy
-
-From Italy, both long-distance and regional trains cross into Switzerland. From Milan, you can reach the Swiss network via Como or Domodossola. Trains via Como usually continue to Zurich, those via Domodossola to Bern and Basel. Both Eurocity and regional trains run on these routes. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a reservation with surcharge is required. Additionally, the `ECE` train Frankfurt - Milan and the `EC` trains Zurich - Milan operate.
-
-The surcharge or reservation price for cross-border `EC`/`ECE` trains to Italy is €20 (1st/2nd class). If booked at a DB travel center, the reservation/surcharge is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g. to Frankfurt).
-
-{{% highlight tip %}}
-For the Milan - Como - Switzerland connection, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates this route and does not accept FIP Tickets. However, tickets can be booked online on Trenord's website and are relatively cheap compared to the required cross-border reservation on Eurocity trains. Changing trains in Chiasso can therefore be a much more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
-{{% /highlight %}}
-
-### Liechtenstein
-
-Liechtenstein and Switzerland are only connected by a few trains during the week. These cross-border S-Bahn trains run only during peak hours and are operated by the [Austrian Federal Railways (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Therefore, ÖBB Coupons and FIP 50 Tickets are valid up to the border point Buchs SG in Switzerland.
-
-Otherwise, border traffic is mainly handled by buses, where FIP Tickets are not valid.
-
-### Austria
-
-Austria and Switzerland have only one real border crossing, at St. Margrethen. Mainly regional trains run here, but also Eurocity trains, which in Austria only stop in Bregenz and otherwise come from Germany (Munich).
-
-Entry from Austria is also possible via the Buchs SG border crossing through Liechtenstein. In Liechtenstein, [ÖBB FIP Tickets](/operator/oebb#liechtenstein "ÖBB") are valid. Thus, it is possible to have a continuous ticket between Austria and Switzerland with ÖBB and SBB Coupons. This is also the main route between the two countries, with Austrian Railjet and Eurocity trains running between Vienna / Graz and Zurich, as well as regional trains.
 
 ## Sources
 

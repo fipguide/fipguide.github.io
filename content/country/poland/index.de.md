@@ -8,8 +8,8 @@ params:
     - Leo Express
     - RegioJet
     - Szybka Kolej Miejska w Warszawie
-    - Koleje Małopolskie (KML)
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
+    - Warszawska Kolej Dojazdowa (WKD)
 ---
 
 ## FIP Nutzung
@@ -19,11 +19,12 @@ Polen ist das Land mit den meisten unterschiedlichen Bahngesellschaften, die FIP
 Folgende regional verkehrende Bahngesellschaften bieten davon gesondert FIP an:
 
 - [Koleje Dolnośląskie (KD)](/operator/kd)
+- [Koleje Małopolskie (KMŁ)](/operator/kml)
 - [Koleje Śląskie (KŚ)](/operator/ks)
 - [Koleje Wielkopolskie (KW)](/operator/kw)
 - [Łódzka Kolej Aglomeracyjna (ŁKA)](/operator/lka)
 
-Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit FIP genutzt werden. Sie wird genauso wie die in Danzig mit SKM abgekürzt. Auch in den Zügen der Koleje Małopolskie (KML) wird FIP nicht akzeptiert. Die Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) kann mit FIP nicht genutzt werden, außer sie fährt im Auftrag für Bahngesellschaften, die FIP akzeptieren.
+Die S-Bahn in Warschau (Szybka Kolej Miejska w Warszawie) kann dagegen nicht mit FIP genutzt werden. Sie wird genauso wie die in Danzig mit SKM abgekürzt. Die Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL) kann mit FIP nicht genutzt werden, außer sie fährt im Auftrag für Bahngesellschaften, die FIP akzeptieren.
 
 Abgesehen von dieser ist die FIP-Abdeckung in Polen sehr hoch. Im Fernverkehr sind bei PKP InterCity teilweise Reservierungen nötig und auch allgemein empfehlenswert, da die Züge oft sehr gut ausgelastet sind. Im Regionalverkehr wird grundsätzlich nur die 2. Klasse angeboten.
 
@@ -41,37 +42,33 @@ Der Zustand, die Dichte und Taktung der Bahnstrecken sind oft sehr abhängig von
 
 | Land                                                         | Grenzpunkte                                                                                                       |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Belarus / Weißrussland (BC)                                  | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
-| [Tschechien](/country/czechia) ([ČD](/operator/cd))          | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
-| [Deutschland](/country/germany) ([DB AG](/operator/db))      | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg))    | Mockava (Gr)                                                                                                      |
 | Russland (RZD)                                               | Braniewo (Gr)                                                                                                     |
+| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg))    | Mockava (Gr)                                                                                                      |
+| Belarus / Weißrussland (BC)                                  | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
 | Ukraine (UZ)                                                 | Jagodin (Gr) (Yahodyn, Yagodyn oder Ягодин), Medyka (Gr)                                                          |
 | [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
+| [Tschechien](/country/czechia) ([ČD](/operator/cd))          | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
+| [Deutschland](/country/germany) ([DB AG](/operator/db))      | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
 
 {{% /expander %}}
 
-### Belarus / Weißrussland
+### Russland
 
-Aktuell verkehren keine Züge zwischen Belarus / Weißrussland und Polen.
-
-### Deutschland
-
-Von Deutschland aus kann über mehrere Wege das polnische Netz erreicht werden. Der meistgenutzte Grenzübergang ist in Frankfurt (Oder). Über diesen verkehren Eurocity-Züge zwischen Berlin und Warschau tagsüber alle 2 Stunden. Darüber hinaus sind hier auch Einzelleistungen zwischen Berlin und Gdingen (Gdynia) / Krakau / Przemysl im Fahrplan zu finden.
-
-Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können.
-
-Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt befahren werden.
-
-Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein.
-
-Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
+Aktuell verkehren keine Züge zwischen Russland und Polen.
 
 ### Litauen
 
 Es verkehren nur sehr wenige grenzüberschreitende Züge zwischen Polen und Litauen. Ein Zugpaar fährt dabei von Krakau über Warschau bis nach Vilnius. Am Grenzbahnhof Mockava muss hier zwar umgestiegen werden, der Zug wird jedoch durchgehend verkauft. Der Umstieg ist dabei entweder bahnsteiggleich oder über einen höhengleichen Übergang zum Nachbarbahnsteig. In Mockava wird auf verspätete Anschlusszüge gewartet. Tickets und Reservierungen können online erworben werden ([siehe Ticketkauf](/operator/ltg#online)). Bei grenzüberschreitenden Fahrten nach/von Polen müssen entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Seit Dezember 2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
+
+### Belarus / Weißrussland
+
+Aktuell verkehren keine Züge zwischen Belarus / Weißrussland und Polen.
+
+### Ukraine
+
+Aus der Ukraine kommend kann entweder über die Route Kiew / Kyjiw - Chełm oder über Kiew / Kyjiw - Lwiw - Przemyśl nach Polen gefahren werden. Auf beiden Relationen verkehren Fernzüge, die von Ukrsalisnyzja im ukrainischen Abschnitt und PKP Intercity auf dem polnischen Abschnitt betrieben werden. Durchgängige FIP-Tickets sind nicht möglich, da die Ukrsalisnyzja kein FIP-Mitglied ist. Es kann also höchstens probiert werden, für den polnischen Teilabschnitt ein Rabatt zu bekommen, da dieser aber sehr klein ist, ist es wahrscheinlich sinnvoller einfach ein Ticket zum Normalpreis zu kaufen.
 
 ### Slowakei
 
@@ -91,10 +88,14 @@ Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kur
 
 Weitere grenzüberschreitende Regionalzugverbindungen können nur auf polnischer Seite mit FIP genutzt werden.
 
-### Ukraine
+### Deutschland
 
-Aus der Ukraine kommend kann entweder über die Route Kiew / Kyjiw - Chełm oder über Kiew / Kyjiw - Lwiw - Przemyśl nach Polen gefahren werden. Auf beiden Relationen verkehren Fernzüge, die von Ukrsalisnyzja im ukrainischen Abschnitt und PKP Intercity auf dem polnischen Abschnitt betrieben werden. Durchgängige FIP-Tickets sind nicht möglich, da die Ukrsalisnyzja kein FIP-Mitglied ist. Es kann also höchstens probiert werden, für den polnischen Teilabschnitt ein Rabatt zu bekommen, da dieser aber sehr klein ist, ist es wahrscheinlich sinnvoller einfach ein Ticket zum Normalpreis zu kaufen.
+Von Deutschland aus kann über mehrere Wege das polnische Netz erreicht werden. Der meistgenutzte Grenzübergang ist in Frankfurt (Oder). Über diesen verkehren Eurocity-Züge zwischen Berlin und Warschau tagsüber alle 2 Stunden. Darüber hinaus sind hier auch Einzelleistungen zwischen Berlin und Gdingen (Gdynia) / Krakau / Przemysl im Fahrplan zu finden.
 
-### Russland
+Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können.
 
-Aktuell verkehren keine Züge zwischen Russland und Polen.
+Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt befahren werden.
+
+Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein.
+
+Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.

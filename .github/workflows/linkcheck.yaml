@@ -38,12 +38,25 @@ jobs:
             --exclude "www.ter.sncf.com" \
             --exclude "www.fmnf.pt" \
             --exclude "www.linkedin.com" \
+            --exclude "www.bdz.bg" \
+            --exclude "www.superfast.com" \
+            --exclude "www.bluestarferries.com" \
+            --exclude "www.lner.co.uk" \
+            --exclude "www.greateranglia.co.uk" \
+            --exclude "www.crosscountrytrains.co.uk" \
+            --exclude "www.railtourguide.com" \
+            --exclude "www.translink.co.uk" \
+            --exclude "www.vy.no" \
+            --exclude "www.sj.no" \
+            --exclude "www.go-aheadnordic.no" \
+            --exclude "www.github.com" \
             --exclude "www.trenitalia.fr"
       - uses: actions/checkout@v3
         if: failure()
-      - uses: JasonEtco/create-an-issue@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          filename: ${{ env.ISSUE_TEMPLATE }}
+      - name: Reopen issue and add comment
         if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue reopen 1001 || true
+          gh issue comment 1001 --body-file $ISSUE_TEMPLATE

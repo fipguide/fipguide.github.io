@@ -42,13 +42,17 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 Depuis Paris, des `TGV` directs opérés par la SNCF rejoignent Barcelone. La Renfe propose également des liaisons transfrontalières entre Lyon et Barcelone, ainsi que Marseille et Madrid. Des Tarifs Globaux FIP sont disponibles chez les deux opérateurs, mais les prix SNCF sont souvent très élevés.
 
-Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux](/operator/sncf#trains-tgv-inoui--ice-internationaux "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d’acheter ces billets à bord : il faut alors s’adresser au personnel du train, qui accepte le paiement par carte. [^1]
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV vers l’Italie, l’Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium)). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à 25 € / 28 € (à jour : mai 2026), voir [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Ces billets peuvent être achetés aux guichets Renfe en Espagne. Pour les trajets en provenance de France, il est également possible d’acheter ces billets à bord : il faut alors s’adresser au personnel du train, qui accepte le paiement par carte. [^1]
 
-Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec le Billet FIP spécial.
+Avec [Euskotren](/operator/euskotren), il est possible de voyager depuis Hendaye avec le Billet FIP spécial.
 
 Il existe également des trains régionaux Rodalies de Catalunya de la Renfe avec des liaisons transfrontalières depuis Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train.
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
+
+### Andorre
+
+Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et l’Espagne.
 
 ### Portugal
 

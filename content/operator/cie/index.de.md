@@ -4,6 +4,10 @@ title: "CIE"
 country:
   - "ireland"
 operator: "cie"
+
+aliases:
+  - /booking/irish-rail-ticket-office
+  - /booking/irish-rail-website
 ---
 
 Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/country/ireland) und das Mutterunternehmen von Irish Rail (Iarnród Éireann). Die Tochtergesellschaft betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.
@@ -14,12 +18,12 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 
 - FIP wird auf allen Zugverbindungen von Irish Rail akzeptiert.
 - Die First Class darf nicht mit FIP genutzt werden.
-- FIP 50 Tickets sind nur noch schwierig buchbar und oftmals teurer als öffentlich verfügbare "Low Fare Tickets", die jedoch im Vorhinein gebucht werden müssen.
+- FIP 50 / FIP 75 Tickets sind nur noch schwierig buchbar und oftmals teurer als öffentlich verfügbare "Low Fare Tickets", die jedoch im Vorhinein gebucht werden müssen.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Zugkategorien und Reservierungen
 
@@ -39,7 +43,7 @@ InterCity-Züge verbinden die wichtigsten Städte Irlands, darunter Dublin, Cork
 Die First Class zwischen Dublin und Cork darf nicht mit FIP genutzt werden. Mehr Informationen zu den Klassenkategorien sind [weiter unten](#klassenkategorien) zu finden.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind optional, werden aber für viele Verbindungen kostenfrei ausgegeben und sind daher in der 2. Klasse empfehlenswert.
 
@@ -78,7 +82,6 @@ DART (Dublin Area Rapid Transit) ist ein Vorortbahnnetz, das die Vororte von Dub
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -91,7 +94,6 @@ FIP ist auf Busverbindungen von Bus Éireann nicht gültig.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -101,7 +103,7 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
 
 ## Klassenkategorien
 
-- **Second Class**: Standardklasse, die mit FIP 50 Tickets und FIP Freifahrtscheinen der ersten und zweiten Klasse genutzt werden kann.
+- **Second Class**: Standardklasse, die mit FIP 50 / FIP 75 Tickets und FIP Freifahrtscheinen der ersten und zweiten Klasse genutzt werden kann.
 - **Premier Class**: Wird auf der Strecke Dublin – Tralee und auf der Verbindung Dublin – Cork angeboten. Sie kann mit FIP Freifahrtscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Freifahrtscheinen der 2. Klasse. **Wichtig**: Zu den Hauptverkehrszeiten wird statt der Premier Class die "First Class" eingesetzt, die nicht mit FIP genutzt werden kann.
 - **First Class**: Wird nur zwischen Dublin und Cork zu den Hauptverkehrszeiten angeboten und auch als City Gold bezeichnet. Die First Class bietet einen Onboard-Service und elektronisch verstellbare Sitze. Sie kann nicht mit FIP genutzt werden.[^2] Stand März 2026 werden alle Verbindungen zwischen Dublin und Cork _außer_ folgender Verbindungen mit der First Class bedient[^1]:
   - Dublin – Cork Premier Class Verbindungen: 10:00 Uhr (Montag – Samstag), 12:00 Uhr (Montag – Freitag) und 14:00 Uhr (Montag – Freitag)
@@ -115,7 +117,7 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
 
 ### Online
 
-FIP 50 Tickets sind online nicht buchbar.
+FIP 50 / FIP 75 Tickets sind online nicht buchbar.
 
 {{% booking id="irish-rail-website" /%}}
 
@@ -125,7 +127,7 @@ FIP 50 Tickets sind online nicht buchbar.
 
 ### Im Zug
 
-FIP 50 Tickets müssen vor Fahrtantritt erworben werden.
+FIP 50 / FIP 75 Tickets müssen vor Fahrtantritt erworben werden.
 Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden, wenn kein Schalter am Bahnhof verfügbar ist.[^2]
 
 ## Ermäßigungen
@@ -134,7 +136,7 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind mit FIP-Tickets erlaubt, müssen jedoch im Bahnhof, in dem die Fahrt unterbrochen wurde, durch einen Vermerk dokumentiert werden.
 
@@ -142,4 +144,4 @@ Fahrtunterbrechungen sind mit FIP-Tickets erlaubt, müssen jedoch im Bahnhof, in
 
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782276-ireland.html)

@@ -4,37 +4,49 @@ title: "SNCB / NMBS"
 country:
   - "belgium"
 operator: "sncb"
+
+aliases:
+  - /booking/sncb-phone
+  - /booking/sncb-ticket-office
+  - /booking/sncb-website
 ---
 
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in [Belgium](/country/belgium "Belgium").
 
 ## Summary
 
-- SNCB accepts FIP Coupons and FIP 50 Tickets.
-- No reservation required.
+- SNCB accepts FIP Coupons and FIP 50 / FIP 75 Tickets.
+- No reservation required within Belgium.
 - Surcharge for trips to/from Brussels Zaventem Airport.
+- Employees of [NS](/operator/ns) can get an _Unlimited Pass_.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
-FIP Coupons and FIP 50 Tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
+FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 / FIP 75 ticket or FIP Coupons from both countries must be available.
+
+Employees of [NS](/operator/ns) can get an _Unlimited Pass_, which allows them to use SNCB / NMBS trains in Belgium for the entire year. However, this pass is subject to a charge. [^7]
 
 ## Train Categories and Reservations
 
-Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For the cross-border ICE to Germany, a reservation is possible and was mandatory in summer 2024 (only for cross-border journeys).
+Within Belgium, no reservation is required for SNCB and in many trains, it is not possible. For cross-border `ICE` trains to Germany, reservations are possible and, for example, mandatory in summer 2026 (only for cross-border journeys).
 
 {{% train-category
     id="ice"
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
+    reservation_required=partially
     reservation_possible=true
 %}}
 
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main). Some trains also run between Germany and Antwerp via Brussels Airport Zaventem or in summer between Germany and the Belgian coast. All ICE trains can also be used within Belgium with FIP Tickets without surcharge.
+
+#### Reservations
+
+A reservation is mandatory for cross-border journeys from 26.06 to 16.08.2026.
 
 {{% /train-category %}}
 
@@ -166,44 +178,53 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="db-website-fip-international"
     subtitle="Cross-border FIP 50 Tickets between Germany and Belgium for the entire route (not valid in the issuing country of the FIP Card)"
+    fip_75=false
 /%}}
 
 ### Telephone
 
 {{% booking id="sncb-phone" /%}}
 
-### On-site
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Belgium, with ticket portion only for the Belgian section. For Deutsche Bahn employees only."
+/%}}
+
+### On-Site
 
 {{% booking id="sncb-ticket-office" /%}}
 
+{{% booking id="sncb-ticket-machine"
+    subtitle="For domestic journeys only"
+/%}}
+
 {{% booking id="db-ticket-office" /%}}
 
-### On the train
+### On the Train
 
-FIP discounted tickets can generally be purchased on board the trains. The usual SNCB surcharge for on-board sales is not charged, as the tickets are not available at ticket machines. [^2]<sup>, </sup>[^4]
+{{% highlight important %}}
+Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains. This also affects FIP discounted tickets. All passengers must have a valid ticket before boarding. [^5]<sup>, </sup>[^6]
+{{% /highlight %}}
 
 ## Discounts
 
-Up to four children under the age of 12 travel for free when accompanied by an adult (a person aged 12 or over in possession of a valid ticket) and do not need a ticket. If all children belong to the same household, more than four children may travel for free. A valid official document (identity card or passport) proving the child's age is required for the journey. If a child is travelling alone or the limit of four free children per adult is exceeded, a ticket must be purchased at the Youth rate, which is 40% less than the Standard rate. If the children are FIP eligible, they receive a 50% discount on the Standard rate with the FIP 50 Ticket. [^3]
+Up to four children under the age of 12 travel for free when accompanied by an adult (a person aged 12 or over in possession of a valid ticket) and do not need a ticket. If all children belong to the same household, more than four children may travel for free. A valid official document (identity card or passport) proving the child's age is required for the journey. If a child is travelling alone or the limit of four free children per adult is exceeded, a ticket must be purchased at the Youth rate, which is 40% less than the Standard rate. If the children are FIP eligible, they receive a 50% discount on the Standard rate with the FIP 50 / FIP 75 Ticket. [^3]
 
 ## Special Tariff Conditions
 
 ### Brussels Zaventem Airport
 
-For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 6.70 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. For FIP 50 Tickets, this is already included in the price. [^1]
-
-## Recommendations
-
-{{% highlight tip %}}
-The first class in SNCB / NMBS trains is often used with second class tickets. Also, the 1st class is usually not much more comfortable than the second class. Unlike in other countries, buying first class tickets to have more space and quiet is only worthwhile to a limited extent.
-{{% /highlight %}}
+For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 7.10 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. [^1] For FIP 50 / FIP 75 Tickets, this is already included in the price, unless the ticket was purchased at a ticket machine. [^2]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
-[^2]: [SNCB User Feedback](https://github.com/fipguide/fipguide.github.io/issues/275)
+[^2]: [FIP Guide Community: SNCB Airport Supplement at Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
 [^3]: [SNCB Child Policy](https://www.belgiantrain.be/en/products/child)
 
-[^4]: [SNCB Website](https://www.belgiantrain.be/en/products/supplements/onboard)
+[^5]: [SNCB -- End of Ticket Sales on Trains](https://www.belgiantrain.be/en/news/end-of-on-board-fare)
+
+[^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
+
+[^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)

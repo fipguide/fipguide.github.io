@@ -6,6 +6,9 @@ country:
   - "germany"
   - "switzerland"
 operator: "bsb"
+
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").
@@ -19,13 +22,13 @@ Les remises FIP sont valables auprès des opérateurs suivants :
 
 ## Résumé
 
-- Les Billets FIP 50 et les Coupons FIP sont acceptés
-- Achat possible au guichet et à bord du ferry
+- Les Billets FIP 50 et les Coupons FIP sont acceptés.
+- Achat possible au guichet et à bord du ferry.
 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
 
@@ -33,7 +36,7 @@ Les remises FIP sont valables auprès des opérateurs suivants :
   id="ferry"
   title="Fähre"
   type="ship"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
   route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
@@ -47,13 +50,17 @@ Sur les itinéraires suivants, il est possible d’embarquer des voitures :
 
 Certains navires disposent d’un restaurant ou proposent des snacks et des boissons.
 
+{{< highlight important >}}
+Les réductions FIP ne sont pas acceptées sur le ferry SBS entre Altnau-Hagnau et Immenstaad.[^3]
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 ## Catégories de classes
 
 Il existe une classe unique, accessible avec les Cartes FIP de 1ère et 2ème classe.[^1]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 ### En gare
 
@@ -73,7 +80,7 @@ Le billet anniversaire doit être retiré avant le départ aux points de vente.[
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 Une interruption de voyage est autorisée sans formalités.[^1]
 
@@ -82,8 +89,14 @@ Une interruption de voyage est autorisée sans formalités.[^1]
 Le tarif plein s’applique pour les vélos.
 Aucune réduction n’est accordée pour les véhicules entre Friedrichshafen et Romanshorn.
 
+### zellerSEEticket (zSEEt)
+
+Titulaires de la carte FIP bénéficient d’une réduction de 50 % sur le zellerSEEticket (zSEEt). Aucune autre réduction n’est acceptée.[^3]
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
 [^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+
+[^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)

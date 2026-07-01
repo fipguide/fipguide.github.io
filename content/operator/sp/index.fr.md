@@ -19,7 +19,7 @@ En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [S
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Billets FIP 50 sont valables auprès de toutes les entreprises ferroviaires listées, voir [Opérateurs ferroviaires et d’autobus](#operateurs-ferroviaires-et-dautobus), ainsi qu’auprès des [opérateurs de bateaux](#operateurs-de-bateaux). Les Coupons FIP sont également valables presque partout, à quelques exceptions près.
 
@@ -134,23 +134,23 @@ Tous ces services sont accessibles avec le FIP.
     reservation_required=partially
     reservation_possible=true
 %}}
-Ferrovie Autolinee Regionali Ticinesi (FART) exploite, outre quelques lignes d'autobus, la section suisse de la Centovallibahn de Locarno à Domodossola en Italie, sur laquelle circule également le Treno Panoramico Vigezzo Vision.
+Ferrovie Autolinee Regionali Ticinesi (FART) exploite, outre quelques lignes d’autobus, la section suisse de la Centovallibahn de Locarno à Domodossola en Italie, sur laquelle circule également le Treno Panoramico Vigezzo Vision.
 
-Bien que la Centovallibahn mène en Italie, les billets FIP de SP sont valables sur l'ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre SP du FIP.
+Bien que la Centovallibahn mène en Italie, les billets FIP de SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre SP du FIP.
 
 {{% highlight important %}}
-Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
+Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d’information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
 {{% /highlight %}}
 
-FART exploite également deux petits téléphériques. Il n'est pas connu si le FIP est reconnu sur ceux-ci.
+FART exploite également deux petits téléphériques. Il n’est pas connu si le FIP est reconnu sur ceux-ci.
 
 Dans le transport par bus, le FIP est pleinement reconnu.
 
-#### Réservation
+#### Réservations
 
 Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
 
-Dans les trains panoramiques, il n'est pas permis de voyager debout pour des raisons de confort.
+Dans les trains panoramiques, il n’est pas permis de voyager debout pour des raisons de confort.
 
 Les réservations de sièges peuvent être achetées [en ligne sur le site de Centovalli](https://prenota.vigezzinacentovalli.com/) pour 4 € par personne et par trajet.
 
@@ -233,6 +233,10 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 - Funiculaire Mürren – Allmendhubel (SMA)
 - Téléphérique Stechelberg – Mürren – Schilthorn (LSMS)
 
+{{% highlight inofficial %}}
+Il nous a été signalé que le transport d'équipements de sports d'hiver (ski, snowboard) sur les Jungfraubahn n'est pas possible lors de l'utilisation du FIP.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -263,7 +267,7 @@ Les bus et trains à voie étroite sont accessibles avec le FIP ; pour le funicu
 %}}
 La Matterhorn Gotthard Bahn dispose d’un réseau de 144 km dans les cantons du Valais, d’Uri et des Grisons. Si toutes les réductions FIP sont reconnues sur certaines lignes, ce n’est pas le cas entre Zermatt et Gornergrat, où seuls les Billets FIP 50 sont acceptés. Le transport auto par le tunnel de la Furka est totalement exclu du FIP. Le FIP est entièrement accepté sur les lignes d’autobus.
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour le Glacier Express, exploité conjointement par MGB et les Chemins de fer rhétiques (RhB) ; voir la [section dédiée](#glacier-express).
 
@@ -273,16 +277,6 @@ Une réservation est obligatoire pour le Glacier Express, exploité conjointemen
 - Brig – Disentis
 - Andermatt – Göschenen
 
-{{% /train-category %}}
-
-{{% train-category
-    id="mib"
-    title="Meiringen–Innertkirchen (MIB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-La Meiringen–Innertkirchen-Bahn (MIB) est une ligne à voie métrique dans le canton de Berne. Elle est désormais exploitée par la Zentralbahn ; voir la section « Zentralbahn (ZB) » pour les détails.
 {{% /train-category %}}
 
 {{% train-category
@@ -299,7 +293,7 @@ Elle est également l’entreprise exploitante sur les lignes des Transports Mon
 
 Le FIP est valable sur l’ensemble des itinéraires de la MOB indiqués ci-dessous. Entre Zweisimmen et Interlaken Ost, les trains sont toutefois exploités par BLS SA. Cela signifie que des Coupons FIP tant pour SP que pour BLS sont nécessaires pour parcourir l’intégralité de la ligne. Les Billets FIP 50 peuvent être réservés de bout en bout.
 
-#### Réservation
+#### Réservations
 
 Pour le GoldenPass Express (trains directs de Montreux à Interlaken Ost) et le GoldenPass Panoramic (trains entre Montreux et Zweisimmen), tous deux indiqués `PE` dans les horaires, le voyage sans réservation de siège n’est possible que s’il reste des places disponibles. Sinon, une réservation payante peut être achetée via le [site de la MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). Pour certains wagons panoramiques du GoldenPass Panoramic, un supplément peut être perçu sur place.
 
@@ -445,7 +439,7 @@ Les Chemins de fer rhétiques exploitent principalement des lignes dans le canto
 
 Le FIP est valable sur presque toutes les liaisons. Aucune réduction ne s’applique aux navettes auto par les tunnels de l’Albula et de la Vereina.
 
-#### Réservation
+#### Réservations
 
 Pour le Glacier Express, des réservations payantes doivent être achetées à l’avance ; voir la [section dédiée](#glacier-express). Pour le Bernina Express, circulant entre Coire et Tirano et indiqué `PE`, un supplément doit être payé en plus de la réservation ; voir la [section dédiée](#bernina-express).
 
@@ -470,7 +464,7 @@ Pour le Glacier Express, des réservations payantes doivent être achetées à l
     reservation_required=false
     reservation_possible=true
 %}}
-La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l'Alpenrhein-Express et l'Aare Linth sont également exploités par la SOB.
+La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l’Alpenrhein-Express et l’Aare Linth sont également exploités par la SOB.
 
 {{% highlight important %}}
 Il est à noter que les Coupons FIP ne sont pas valables sur les lignes où la SOB opère en coopération avec la CFF, par exemple entre Bâle CFF et Arth-Goldau. Sur ces itinéraires, seuls les Coupons FIP de la CFF sont valables. En revanche, les billets FIP 50 sont possibles.
@@ -499,14 +493,14 @@ La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la
 Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
 
 {{% highlight important %}}
-Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d'information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
+Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d’information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Les réservations ne sont nécessaires que pendant les marchés de Noël et le Raduno degli Spazzacamini (la rencontre internationale des ramoneurs) à Santa Maria Maggiore.
 
-Dans les trains panoramiques, il n'est pas permis de voyager debout pour des raisons de confort.
+Dans les trains panoramiques, il n’est pas permis de voyager debout pour des raisons de confort.
 
 Les réservations de sièges peuvent être achetées [en ligne sur le site de Centovalli](https://prenota.vigezzinacentovalli.com/) pour 4 € par personne et par trajet.
 
@@ -551,7 +545,7 @@ La SZU exploite les deux lignes S-Bahn S4 et S10 du RER de Zurich. Elles relient
 %}}
 Thurbo AG est une entreprise ferroviaire en Suisse orientale ainsi qu’en trafic transfrontalier avec l’Allemagne et l’Autriche. Elle exploite diverses lignes du RER de Saint-Gall et du RER de Zurich, ainsi que quelques liaisons `RE`.
 
-Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections internationales sont exploitées en Allemagne par SBB GmbH et en Autriche par ÖBB. Vers l’Autriche, un Coupon ÖBB supplémentaire est donc nécessaire ; les lignes vers l’Allemagne ne sont pas utilisables avec le FIP. Exception : le trajet de la Suisse jusqu’à Constance, car Constance est considérée comme gare frontière. Les Billets FIP 50 peuvent être achetés pour toutes les lignes en Suisse ainsi que vers l’Autriche et Constance.
+Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections internationales sont exploitées en Allemagne par SBB GmbH et en Autriche par ÖBB. Vers l’Autriche, un Coupon ÖBB supplémentaire est donc nécessaire ; les lignes vers l’Allemagne ne sont pas utilisables avec le FIP. Exceptions : les trajets de la Suisse jusqu’à Constance et jusqu’à Waldshut, car ces gares sont considérées comme gares frontières. Les Billets FIP 50 peuvent être achetés pour toutes les lignes en Suisse ainsi que vers l’Autriche, Constance et Waldshut.
 
 #### Lignes régulières
 
@@ -559,16 +553,17 @@ Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections inte
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
-- Weinfelden – St. Gallen – St. Margarethen (S5)
-- Weinfelden – Romanshorn – St. Margarethen (– Bregenz) (S7)
+- Weinfelden – St. Gallen (– St. Margrethen) (S5)
+- Weinfelden – Romanshorn (– Rorschach) (certains trains : – St. Margrethen – Lindau-Insel) (S7)
 - Wil – Wattwil (S9)
 - Wil – Romanshorn (S10)
 - Sargans – Chur (S12)
 - Weinfelden – Konstanz (S14 et S44)
-- St. Gallen – Herisau (S81)
 - St. Gallen – Wittenbach (S82)
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
+
+La S5 circule une fois par heure seulement jusqu’à St. Margrethen, sinon elle a son terminus à St. Gallen. La S7 circule une fois par heure entre Weinfelden et Rorschach et est ponctuellement prolongée via St. Margrethen jusqu’à Lindau-Insel. À partir de St. Margrethen (gare frontière), des Coupons FIP de l’ÖBB sont nécessaires.
 
 ##### Lignes dans la région de Zurich
 
@@ -576,10 +571,12 @@ Les Coupons FIP sont valables sur toutes les lignes en Suisse. Les sections inte
 - Winterthur – Stein am Rhein (S29)
 - Winterthur – Weinfelden (S30)
 - Winterthur – Wil (S35)
-- Bülach – Koblenz (CH) (S36)
+- Bülach – Koblenz(CH) – Waldshut(D) (S36)
 - Winterthur – Bülach (S41)
 
 Il existe également des lignes de nuit dans les deux régions, remplaçant les lignes RER habituelles pendant les heures nocturnes, également utilisables avec le FIP.
+
+À partir du changement d’horaire de décembre 2026, le S5 deviendra S3 et circulera toutes les heures sur la ligne Weinfelden – St. Gallen – St. Margrethen – Bregenz.
 {{% /train-category %}}
 
 {{% train-category
@@ -596,7 +593,7 @@ Les réductions FIP sont valables entre Martigny et Le Châtelard-Frontière sur
 
 Sur les lignes d’autobus, les réductions FIP SP s’appliquent à toutes les lignes, sauf sur Salvan – La Creusaz – Van-d’en-Haut et Finhaut – Lac d’Emosson.
 
-#### Réservation
+#### Réservations
 
 Les trains après 23 h sont soumis à réservation, à effectuer au moins 30 minutes avant le départ et gratuitement via le [site officiel](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
 
@@ -716,11 +713,11 @@ La WSB fait désormais partie d’Aargau Verkehr AG (AVA). Voir la section dédi
     reservation_required=false
     reservation_possible=partially
 %}}
-La Zentralbahn exploite un réseau à voie métrique constitué de la ligne du Brünig (Lucerne – Interlaken Ost), du chemin de fer Lucerne–Stans–Engelberg et de la ligne Meiringen–Innertkirchen.
+La Zentralbahn exploite un réseau à voie métrique constitué de la ligne du Brünig (Lucerne – Interlaken Ost), du chemin de fer Lucerne–Stans–Engelberg et de la ligne Meiringen–Innertkirchen (MIB).
 
 Les réductions FIP SP sont valables sur les trois lignes. Les trains indiqués `PE` entre Lucerne et Interlaken Ost peuvent être utilisés sans supplément.
 
-#### Réservation
+#### Réservations
 
 Une réservation pour le `PE` entre Lucerne et Interlaken Ost peut être achetée contre paiement via le [site officiel](https://shop.luzern.com/de/stories/luzern-interlaken-express), mais elle n’est pas obligatoire.
 
@@ -913,6 +910,6 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

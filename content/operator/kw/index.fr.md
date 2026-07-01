@@ -4,6 +4,11 @@ title: "KW"
 country:
   - "poland"
 operator: "kw"
+
+aliases:
+  - /booking/kw-ticket-machine
+  - /booking/kw-ticket-office
+  - /booking/kw-website
 ---
 
 Koleje Wielkopolskie, abrégées KW, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Grande-Pologne. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).
@@ -29,6 +34,8 @@ Pour les trajets avec différents exploitants en Pologne, un Billet FIP 50 inint
 
 KW ne distingue pas différentes catégories de trains. Les trains portent l’abréviation « KW » au début dans les systèmes d’information, suivie d’un numéro de train spécifique ; les numéros de ligne ne sont pas utilisés. Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains KW. De plus, aucune réservation n’est possible.
 
+Les Billets FIP ne sont généralement pas valables dans les autobus KW. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -51,6 +58,13 @@ Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux
 {{% booking id="db-website-fip-international"
     reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valable dans le pays d’émission de la Carte FIP)"
+/%}}
+
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 ### En gare
@@ -79,13 +93,13 @@ Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous
 
 Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par KW.
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 
-### Autobus
+### Services de remplacement ferroviaire
 
-Les Billets FIP ne sont valides que dans les autobus KW qui assurent un service de remplacement de train.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 
@@ -95,4 +109,4 @@ Similaire aux autres sociétés ferroviaires régionales en Pologne qui accepten
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

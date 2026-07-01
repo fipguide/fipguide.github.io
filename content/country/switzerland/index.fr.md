@@ -37,8 +37,8 @@ La Suisse possède l’un des réseaux ferroviaires les plus denses au monde. Ma
 | Pays                                                  | Points frontières                                                                                                                   |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Allemagne](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
-| [Italie](/country/italy) ([FS](/operator/fs))         | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Autriche](/country/austria) ([ÖBB](/operator/oebb))  | Buchs (SG), St. Margrethen                                                                                                          |
+| [Italie](/country/italy) ([FS](/operator/fs))         | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [France](/country/france) ([SNCF](/operator/sncf))    | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
@@ -68,6 +68,28 @@ Pour ce court tronçon, il est préférable d’acheter un Billet FIP 50, sinon 
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. La Suisse est également accessible par des ferries, dont certains sont utilisables avec FIP.
 
+### Autriche
+
+L’Autriche et la Suisse n’ont qu’un seul véritable point frontière, à St. Margrethen. Principalement des trains régionaux y circulent, mais aussi des Eurocity qui, en Autriche, ne s’arrêtent qu’à Bregenz et viennent d’Allemagne (Munich).
+
+Il est aussi possible d’entrer en Suisse depuis l’Autriche via Buchs SG en passant par le Liechtenstein. Au Liechtenstein, les [Billets FIP de l’ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables. Il est donc possible d’avoir un billet continu entre l’Autriche et la Suisse avec des Coupons FIP ÖBB et SBB. C’est aussi la principale ligne entre les deux pays, avec des Railjet autrichiens et des Eurocity entre Vienne / Graz et Zurich, ainsi que des trains régionaux.
+
+### Liechtenstein
+
+Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP et FIP 50 de l’ÖBB sont donc valables jusqu’au point frontière Buchs SG en Suisse.
+
+Sinon, le trafic frontalier est principalement assuré par des bus, où les Billets FIP ne sont pas valables.
+
+### Italie
+
+Depuis l’Italie, on peut rejoindre la Suisse en trains longue distance ou régionaux. Depuis Milan, on peut passer par Côme ou Domodossola. Les trains via Côme vont généralement vers Zurich, ceux via Domodossola vers Berne et Bâle. Les deux itinéraires proposent des Eurocity et des trains régionaux. D’autres points frontières ne sont accessibles qu’en train régional. Pour les Eurocity transfrontaliers, un supplément ainsi qu’une réservation sont obligatoires. Il existe aussi le train `ECE` Francfort – Milan et les trains `EC` Zurich – Milan.
+
+Le supplément pour les trains `EC`/`ECE` transfrontaliers vers l’Italie est de 20€ (1ère/2ème classe). Si la réservation est faite au guichet DB, le supplément coûte seulement 11€ (2ème classe) ou 13€ (1ère classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
+
+{{% highlight tip %}}
+Pour le trajet Milan - Côme - Suisse, il peut être avantageux de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Sur cette ligne, Trenord n’accepte pas les Billets FIP. Cependant, le billet est disponible en ligne sur le site de Trenord et est relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option plus économique. Les trains `EC` et `ECE` restent l’option la plus confortable mais plus chère.
+{{% /highlight %}}
+
 ### France
 
 Depuis la France, des trains TGV transfrontaliers circulent vers Zurich via Bâle. En Suisse, ces trains peuvent être utilisés sans réservation avec des Billets FIP 50 ou un Coupon FIP de la SBB. Pour les liaisons transfrontalières, il est nécessaire d’acheter un FIP Global Fare, voir [Trains TGV inOui / ICE transfrontaliers](/operator/sncf#trains-tgv-inoui--ice-internationaux "Trains TGV inOui / ICE internationaux").
@@ -78,30 +100,8 @@ Dans la région de Genève, des trains régionaux transfrontaliers circulent sou
 
 Les trains `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP de la SNCF.[^2]
 
-### Italie
-
-Depuis l’Italie, on peut rejoindre la Suisse en trains longue distance ou régionaux. Depuis Milan, on peut passer par Côme ou Domodossola. Les trains via Côme vont généralement vers Zurich, ceux via Domodossola vers Berne et Bâle. Les deux itinéraires proposent des Eurocity et des trains régionaux. D’autres points frontières ne sont accessibles qu’en train régional. Pour les Eurocity transfrontaliers, une réservation avec supplément est obligatoire. Il existe aussi le train `ECE` Francfort - Milan et les trains `EC` Zurich - Milan.
-
-Le supplément ou le prix de la réservation pour les trains `EC`/`ECE` transfrontaliers vers l’Italie est de 20€ (1ère/2ème classe). Si la réservation est faite au guichet DB, elle coûte seulement 10€ (2ème classe) ou 13€ (1ère classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
-
-{{% highlight tip %}}
-Pour le trajet Milan - Côme - Suisse, il peut être avantageux de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Sur cette ligne, Trenord n’accepte pas les Billets FIP. Cependant, le billet est disponible en ligne sur le site de Trenord et est relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option beaucoup plus économique. Les trains `EC` et `ECE` restent l’option la plus confortable mais plus chère.
-{{% /highlight %}}
-
-### Liechtenstein
-
-Le Liechtenstein et la Suisse ne sont reliés que par quelques trains en semaine. Ces S-Bahn transfrontaliers circulent uniquement aux heures de pointe et sont exploités par les [Chemins de fer fédéraux autrichiens (ÖBB)](/operator/oebb#liechtenstein "ÖBB"). Les Coupons FIP et FIP 50 de l’ÖBB sont donc valables jusqu’au point frontière Buchs SG en Suisse.
-
-Sinon, le trafic frontalier est principalement assuré par des bus, où les Billets FIP ne sont pas valables.
-
-### Autriche
-
-L’Autriche et la Suisse n’ont qu’un seul véritable point frontière, à St. Margrethen. Principalement des trains régionaux y circulent, mais aussi des Eurocity qui, en Autriche, ne s’arrêtent qu’à Bregenz et viennent d’Allemagne (Munich).
-
-Il est aussi possible d’entrer en Suisse depuis l’Autriche via Buchs SG en passant par le Liechtenstein. Au Liechtenstein, les [Billets FIP de l’ÖBB](/operator/oebb#liechtenstein "ÖBB") sont valables. Il est donc possible d’avoir un billet continu entre l’Autriche et la Suisse avec des Coupons FIP ÖBB et SBB. C’est aussi la principale ligne entre les deux pays, avec des Railjet autrichiens et des Eurocity entre Vienne / Graz et Zurich, ainsi que des trains régionaux.
-
 ## Sources
 
 [^1]: [SBB Deutschlandticket](https://www.sbb-deutschland.de/gilt-das-deutschlandticket-auf-unseren-strecken/)
 
-[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+[^2]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)

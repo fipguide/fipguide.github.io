@@ -4,6 +4,11 @@ title: "DSB"
 country:
   - "denmark"
 operator: "dsb"
+
+aliases:
+  - /booking/dsb-international-website
+  - /booking/dsb-ticket-office
+  - /booking/dsb-website
 ---
 
 La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.
@@ -16,7 +21,7 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un Billet FIP 50 couvrant l’ensemble du trajet ou des Coupons FIP valables dans les deux pays sont requis.
 
@@ -61,7 +66,7 @@ Similaires aux ICL mais avec plus d’arrêts et une vitesse inférieure. Ils de
 
 Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Odense.
 
-#### Réservation
+#### Réservations
 
 Réservation conseillée et généralement obligatoire en été.
 
@@ -69,7 +74,7 @@ Réservation conseillée et généralement obligatoire en été.
 
 {{% train-category
     id="regional"
-    title="Train régional (R)"
+    title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
     reservation_possible=false
@@ -78,7 +83,9 @@ Réservation conseillée et généralement obligatoire en été.
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
 
 {{% highlight confusion %}}
-D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB.
+D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
+Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
+Les trains marqués `RE` sont généralement exploités par DSB.
 {{% /highlight %}}
 
 {{% /train-category %}}
@@ -112,7 +119,7 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 /%}}
 
 {{% booking id="oebb-website"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen"
+    subtitle="Pour les trajets nationaux et transfrontaliers"
 /%}}
 
 {{% booking id="db-website-fip-db"
@@ -121,6 +128,12 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark pour l’ensemble du trajet (pas de validité dans le pays d’émission de la Carte FIP)"
+/%}}
+
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 ### En gare
@@ -136,7 +149,7 @@ Les enfants de moins de 16 ans bénéficient d’une réduction de 50 % sur le t
 
 ## Conditions tarifaires spéciales
 
-### Arrêts intermédiaires
+### Possibilité d’interrompre le trajet
 
 Avec un Billet FIP 50, le trajet peut être interrompu, mais cela doit être validé par le personnel du train.[^1]
 
@@ -162,6 +175,6 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1’](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

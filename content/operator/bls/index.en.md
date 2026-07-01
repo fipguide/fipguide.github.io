@@ -3,6 +3,9 @@ draft: false
 title: "BLS"
 country:
   - "switzerland"
+
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.
@@ -12,13 +15,13 @@ The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/
 ## Summary
 
 - BLS accepts FIP Coupon and FIP 50 Tickets.
-- The use of all trains (except for car trains), buses, and ships with FIP is possible.
+- The use of all trains (except for Motorail trains), buses, and ships with FIP is possible.
 - No reservation is required.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Train Categories and Reservations
 
@@ -81,10 +84,8 @@ FIP is not valid on these trains, but the parallel running trains of the `RE 1` 
         title="Bus"
         type="bus"
         fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
 %}}
-FIP is valid on all BLS buses, including those of _Busland AG_.
+FIP is valid on all BLS buses, including those of _Busland AG_ and buses used for rail replacement services.
 {{% /train-category %}}
 
 {{% train-category
@@ -118,6 +119,14 @@ For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 {{% /booking %}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
+%}}
+For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
+{{% /booking %}}
+
 ### On-Site
 
 {{% booking id="bls-ticket-office"/%}}
@@ -147,6 +156,10 @@ The Swiss railway companies SBB and BLS partially accept each other's FIP Coupon
 
 However, the SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses that primarily operate in the Emmental.
 
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 ## Recommendations
 
 {{% highlight tip %}}
@@ -155,6 +168,6 @@ At some operators, family members are not entitled to FIP Coupons from SBB. With
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

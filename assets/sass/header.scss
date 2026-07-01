@@ -92,11 +92,6 @@
   z-index: 6;
 }
 
-#header:has(.overlay--search),
-.overlay--search {
-  z-index: 10;
-}
-
 #header:has(.overlay--mobileMenu),
 .overlay--mobileMenu {
   z-index: 14;

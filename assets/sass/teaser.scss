@@ -23,7 +23,7 @@
 
   @include focus-indicator(0.3rem);
 
-  .material-symbols-rounded::before {
+  .a-icon {
     font-size: 2.4rem;
     margin-top: 1rem;
   }
@@ -110,7 +110,7 @@
   flex-direction: column;
   justify-content: space-between;
 
-  > .material-symbols-rounded {
+  > .a-icon {
     @media print {
       display: none;
     }

@@ -3,12 +3,18 @@ draft: false
 title: "SNCF Voyageurs"
 country:
   - "france"
+  - "germany"
   - "monaco"
   - "italy"
   - "spain"
   - "belgium"
   - "luxembourg"
 operator: "sncf"
+
+aliases:
+  - /booking/sncf-phone
+  - /booking/sncf-ticket-office
+  - /booking/transilien-ticket-office
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.
@@ -24,14 +30,14 @@ SNCF (Société Nationale des Chemins de fer Français) is the French national r
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="For international `TGV` trains" disable_dialog=true >}}
 
-FIP Coupons and FIP 50 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
+FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCF services. For cross-border journeys on local trains, either a continuous FIP 50 / FIP 75 Ticket or FIP Coupons for both countries are required. For international long-distance services (`TGV` or `ICE`), global fares apply (see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains)).
 
 ## Train Categories and Reservations
 
-Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OUIGO trains. For trains requiring reservations, the FIP 50 Ticket price always includes a reservation.
+Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OUIGO trains. For trains requiring reservations, the FIP 50 / FIP 75 Ticket price always includes a reservation.
 
 ### Long-distance
 
@@ -54,7 +60,7 @@ Special conditions apply for international connections, see [International TGV i
 
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -93,7 +99,7 @@ International high-speed trains operated by SNCF in cooperation with Deutsche Ba
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -116,7 +122,7 @@ Intercity trains operated by SNCF, connecting various cities in France, mostly r
 
 On the [Intercités website](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) of SNCF, you can find a list of routes with and without mandatory reservations. Alternatively, you can use the [train search](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) on the SNCF website to check the reservation requirements for each train number.
 
-#### Reservation
+#### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
 
@@ -136,7 +142,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 %}}
 SNCF night trains within France. International Nightjet connections ended in December 2025.
 
-#### Reservation
+#### Reservations
 
 Cost depends on route and occupancy.
 
@@ -173,6 +179,16 @@ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in
 {{% /highlight %}}
 {{% /train-category %}}
 
+{{% train-category
+  id="bus"
+  title="Bus"
+  type="bus"
+  fip_accepted=partially
+  reservation_possible=false
+%}}
+FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid. [^1]
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -206,7 +222,14 @@ Domestic journeys unfortunately cannot be purchased online.
     classes.second="€ 2 / € 11"
 /%}}
 
-### On Site
+{{% booking id="db-phone-fip-db"
+  subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
+### On-Site
 
 {{% booking id="sncf-ticket-office" /%}}
 
@@ -235,7 +258,7 @@ With regular tickets, children up to and including 4 years travel free. Children
 
 ## Special Tariff Conditions
 
-### Reservation requirement in regional trains
+### Reservations requirement in regional trains
 
 On some `TER` regional train lines there is a reservation requirement. This applies only to journeys to or from Paris. There is no reservation requirement for all other journeys. [^2]
 
@@ -277,7 +300,9 @@ For journeys within France, the standard domestic `TGV` reservation fees apply. 
 | Within France Peak     | €16       | €11       |
 | International          | €40       | €20       |
 
-For the direct trains between Frankfurt (Main) and Bordeaux in July and August, DB does not sell FIP 50 Tickets for the journey within France. However, using them with an FIP Coupon and an SNCF reservation is possible. [^5]
+For the direct trains between Frankfurt (Main) and Bordeaux in July and August, DB does not sell FIP 50 / FIP 75 Tickets for the journey within France. However, using them with an FIP Coupon and an SNCF reservation is possible. [^5]
+
+Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, including within Germany. Only SNCF is listed as the operator for these trains, see [Identify train operators and search connections](/country/germany#fip-information). On these trains, DB Coupons and national travel concessions for DB employees are not valid in Germany. Instead, SNCF FIP Global Fare tickets can be purchased.
 
 {{% /train-category %}}
 
@@ -382,9 +407,9 @@ Discounted FIP tickets for `RER` and Transilien trains can be purchased at Trans
 Many stations with ticket barriers are not staffed. While there are help intercoms, they work unreliably. Without the _Contremarque de Passage_ (temporary access card), there is often no way to gain access to the stations.
 {{% /highlight %}}
 
-### Bus Services
+### Rail Replacement Buses
 
-FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). [^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -394,7 +419,7 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 

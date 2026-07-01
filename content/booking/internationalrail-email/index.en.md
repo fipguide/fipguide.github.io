@@ -6,6 +6,7 @@ description: "Booking information for booking by email with International Rail L
 params:
   fip_global_fare: true
   fip_50: true
+  fip_75: true
   type: "email"
   fee: £ 10
 

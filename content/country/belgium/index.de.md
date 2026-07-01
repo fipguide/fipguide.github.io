@@ -34,16 +34,18 @@ Besonders erwähnenswert sind die beeindruckenden Bahnhofsgebäude von Liège-Gu
 
 | Land                                                     | Grenzpunkte                                                         |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))  | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| [Deutschland](/country/germany) ([DB](/operator/db))     | Aachen Süd (Gr)                                                     |
 | [Niederlande](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr)                                          |
+| [Deutschland](/country/germany) ([DB](/operator/db))     | Aachen Süd (Gr)                                                     |
+| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))  | Athus, Gouvy (fr), Sterpenich (fr)                                  |
 | [Frankreich](/country/france) ([SNCF](/operator/sncf))   | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
 
 {{% /expander %}}
 
-### Luxemburg
+### Niederlande
 
-Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Lüttich oder Brüssel genutzt werden. In der 2. Klasse reicht hier das FIP Ticket (Freifahrtschein oder FIP 50) für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der `IC`) genutzt werden, dafür wird ein zusätzliches FIP Ticket der NS benötigt. Darüber hinaus verkehren Fernzüge (`ECD` und `EC`), bei denen auf dem niederländischen Abschnitt (zwischen Rotterdam und Schiphol) ein zusätzlicher Aufschlag dazukommen kann.
+
+Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))
 
 ### Deutschland
 
@@ -60,14 +62,16 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von Deutschland aus das Netz de
 Zwischen Aachen und Liège-Saint-Lambert verkehrt die S41 von SNCB. Bei Nutzung der S41 ist derzeit nicht klar geregelt, ob ein tariflicher Betreiberwechsel in Aachen Süd(Gr) stattfindet.[^3] Daher ist es unklar, ob zwischen Aachen Hbf und Aachen Süd (Gr) ein Ticket der DB (z. B. DB FIP Freifahrtschein, nationale Fahrvergünstigung für DB Mitarbeitende oder FIP 50 Ticket) notwendig ist oder Freifahrtscheine der SNCB ab Aachen Hbf anerkannt werden.
 
 {{% highlight tip %}}
-Wir empfehlen, das Zugpersonal vor Abfahrt anzusprechen. Im Zweifel kann das Ticket für den kurzen deutschen Abschnitt beim Zugpersonal zum Normalpreis für 2,20€ (1. & 2. Klasse, Stand März 2026) gekauft werden.
+Wir empfehlen, das Zugpersonal vor Abfahrt anzusprechen.
 {{% /highlight %}}
 
-### Niederlande
+### Luxemburg
 
-Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehört hier auch der `IC`) genutzt werden, dafür wird ein zusätzliches FIP Ticket der NS benötigt. Darüber hinaus verkehren Fernzüge (`ECD` und `EC`), bei denen auf dem niederländischen Abschnitt (zwischen Rotterdam und Schiphol) ein zusätzlicher Aufschlag dazukommen kann.
+Von Luxemburg aus können grenzüberschreitende SNCB-Züge nach Liers, Lüttich oder Brüssel genutzt werden. Auch im Westen des Landes gibt es grenzüberschreitende Verbindungen von Luxemburg nach Arlon über Athus oder Sterpenich (fr).
 
-Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))
+In der 2. Klasse reicht der FIP Freifahrtschein der SNCB für die komplette Strecke aus, da in Luxemburg der ÖPNV in der 2. Klasse kostenlos ist. Für die 1. Klasse wird zusätzlich ein FIP Ticket für die CFL benötigt.
+
+Bei der Nutzung von FIP 50 Tickets wird für grenzüberschreitende Fahrten ein Ticket ab dem Grenzpunkt (Gouvy (fr) bzw. Sterpenich (fr)) oder ab dem letzten Halt in Luxemburg benötigt. Eine Ausnahme bildet hierbei die Fahrt über Athus. Hier gilt die kostenlose Fahrt in Luxemburg ab dem Bahnhof Athus in Belgien. Tickets in Belgien müssen also nur bis/ab hier gekauft werden. In der 1. Klasse wird ein Ticket für den luxemburgischen Abschnitt benötigt.
 
 ### Frankreich
 

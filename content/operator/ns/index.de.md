@@ -4,6 +4,10 @@ title: "NS"
 country:
   - "netherlands"
 operator: "ns"
+
+aliases:
+  - /booking/ns-phone
+  - /booking/ns-ticket-office
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande](/country/netherlands "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.
@@ -14,17 +18,20 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 - Reservierung ist grundsätzlich nicht erforderlich.
 - Zuschlag teilweise für Eurocity Direct (`ECD`) und Intercity Direct (`ICD`) erforderlich.
 - Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
+- Mitarbeitende der [SNCB / NMBS](/operator/sncb) können einen _Unlimited Pass_ erhalten.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
+Mitarbeitende der [SNCB / NMBS](/operator/sncb) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der NS in den Niederlanden nutzen können. [^5]
+
 ## Zugkategorien und Reservierungen
 
-Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gezahlt werden.
 
@@ -45,10 +52,10 @@ Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
-
+Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
 {{% /train-category %}}
 
 {{% train-category
@@ -181,6 +188,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="ns-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden, mit Ticketanteil nur für den niederländischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="ns-ticket-office" /%}}
@@ -217,10 +228,12 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782283-netherlands.html)
 
 [^2]: [FIP Guide Community ICD / ECD Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1470087243040428176)
 
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+
+[^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)

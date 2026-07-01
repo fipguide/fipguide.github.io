@@ -24,6 +24,8 @@ aliases:
 Une carte bancaire et une adresse e-mail sont nécessaires pour effectuer une réservation. Aucun frais supplémentaire n’est facturé par ÖBB pour la réservation.
 
 {{% satellite %}}
+Comme Satellite [bloque](https://help.satellite.me/mit-satellite-telefonieren/telefonie/welche-laender-sind-mit-satellite-erreichbar "Dans quels pays puis-je appeler avec satellite ?") la plage de numéros +43517, appelez d’abord le centre d’appel de l’ÖBB au [+43 (0) 1 930 000](tel:+431930000), puis demandez à être mis en relation avec le service de réservation de billets par téléphone.
+{{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
 
@@ -38,9 +40,9 @@ Les billets sont moins chers s’ils sont achetés à l’avance (1 jour avant l
 
 ## Réservations
 
-Le tarif de réservation est facturé par train. Pour les trajets avec plusieurs trains, il peut être plus économique de réserver via la [Deutsche Bahn](/booking/db-website "Deutsche Bahn").
+Le tarif de réservation est facturé par trajet. Ainsi, pour les correspondances avec changement, il n’est nécessaire de payer qu’une seule fois pour plusieurs trains.
 
-Cependant, les réservations de sièges effectuées auprès de l’ÖBB sont annulables:
+Les réservations de sièges ÖBB peuvent être annulées :
 
 - De 180 à 15 jours avant le départ : remboursement de 100 % du prix de la réservation
 - De 14 à 1 jour avant le départ : remboursement de 50 % du prix de la réservation

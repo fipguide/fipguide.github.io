@@ -33,13 +33,21 @@ Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwis
 {{% expander "Grenzpunkte" border %}}
 | Land | Grenzpunkte |
 | --- | --- |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
-| Moldau (CFM) | Iasi, Ungheni (fr) |
-| Serbien (SV) | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац) |
 | Ukraine (UZ) | Vicsani (fr) |
+| Moldau (CFM) | Iasi, Ungheni (fr) |
+| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
+| [Serbien](/country/serbia) ([SV](/operator/sv)) | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац) |
 | Ungarn (MÁV) | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
+
+### Ukraine
+
+Es wurden in der Vergangenheit immer mal wieder direkte Züge über die ukrainisch-rumänische Grenze angeboten, diese sind jedoch aktuell eingestellt. Stattdessen führt derzeit ein Direktzug zwischen Kiew und Bukarest über Moldau. FIP-Tickets können nur für den rumänischen Abschnitt erworben werden. Es kann jedoch auch sinnvoller sein, ein durchgängiges Nachtzugticket für die ganze Strecke online zu kaufen.
+
+### Moldau
+
+Zwischen der moldawischen Hauptstadt Chişinău und Bukarest verkehrt einmal täglich ein Nachtzug. Innerhalb von Rumänien wird dieser von der CFR betrieben, in Moldau jedoch von der CFM. Da letztere kein FIP-Mitglied ist, gelten FIP-Tickets nur innerhalb von Rumänien. Für den moldawischen Abschnitt muss demnach ein Normalpreisticket gekauft werden. Es kann jedoch auch sinnvoller sein, ein durchgängiges Nachtzugticket für die ganze Strecke online zu kaufen.
 
 ### Bulgarien
 
@@ -49,17 +57,9 @@ Um mit FIP diese grenzüberschreitenden Züge zu nutzen, wird entweder ein FIP F
 
 Eine weitere tägliche Verbindung zwischen den beiden Ländern existiert über den Grenzübergang Vidin. Hier wird täglich vom bulgarischen Vidin ins rumänische Craiova gefahren. Auf dieser Verbindung reichen FIP Freifahrtscheine beider Länder bzw. ein durchgängiges FIP 50 Ticket aus.
 
-### Moldau
-
-Zwischen der moldawischen Hauptstadt Chişinău und Bukarest verkehrt einmal täglich ein Nachtzug. Innerhalb von Rumänien wird dieser von der CFR betrieben, in Moldau jedoch von der CFM. Da letztere kein FIP-Mitglied ist, gelten FIP-Tickets nur innerhalb von Rumänien. Für den moldawischen Abschnitt muss demnach ein Normalpreisticket gekauft werden. Es kann jedoch auch sinnvoller sein, ein durchgängiges Nachtzugticket für die ganze Strecke online zu kaufen.
-
 ### Serbien
 
 Zurzeit verkehren leider keine Personenzüge zwischen Serbien und Rumänien.
-
-### Ukraine
-
-Es wurden in der Vergangenheit immer mal wieder direkte Züge über die ukrainisch-rumänische Grenze angeboten, diese sind jedoch aktuell eingestellt. Stattdessen führt derzeit ein Direktzug zwischen Kiew und Bukarest über Moldau. FIP-Tickets können nur für den rumänischen Abschnitt erworben werden. Es kann jedoch auch sinnvoller sein, ein durchgängiges Nachtzugticket für die ganze Strecke online zu kaufen.
 
 ### Ungarn
 

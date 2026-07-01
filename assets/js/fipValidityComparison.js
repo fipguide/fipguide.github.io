@@ -33,10 +33,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
       function selectOption(slug, text, { sync = true } = {}) {
         options.forEach(function (option) {
-          option.setAttribute(
-            "aria-selected",
-            option.dataset.fipOption === slug ? "true" : "false",
-          );
+          option
+            .closest("li")
+            .setAttribute(
+              "aria-selected",
+              option.dataset.fipOption === slug ? "true" : "false",
+            );
         });
         label.textContent = text;
         const operatorLogo = scope

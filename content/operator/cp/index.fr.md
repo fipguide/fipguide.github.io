@@ -4,6 +4,9 @@ title: "CP"
 country:
   - "portugal"
 operator: "cp"
+
+aliases:
+  - /booking/cp-ticket-office
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au [Portugal](/country/portugal "Portugal").
@@ -16,7 +19,7 @@ La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise e
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="uniquement pour le train Celta" disable_dialog=true >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services de la CP. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables pour les deux pays sont requis lorsque cela s’applique.
@@ -158,11 +161,13 @@ Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Les enfa
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 Les passagers titulaires d’un billet de réduction FIP acheté au Portugal ne sont pas autorisés à interrompre leur voyage. Pour les billets achetés en dehors du Portugal, une interruption de voyage est autorisée (éventuellement sous réserve de réservation). [^1]
 
 ## Recommandations
+
+Sur le site de Zugpost, il y a un [récit de voyage intéressant sur les chemins de fer portugais (uniquement en allemand)](https://zugpost.org/stippvisite-portugal).
 
 {{% highlight tip %}}
 
@@ -182,6 +187,6 @@ La CP propose régulièrement des trajets avec le "Presidential Train" — un tr
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

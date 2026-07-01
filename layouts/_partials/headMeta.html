@@ -1,0 +1,48 @@
+{{- $description := "" -}}
+{{- if .Description -}}
+  {{- $description = .Description -}}
+{{- else if eq .Type "operator" -}}
+  {{- $description = printf (T "operators.descriptionTemplate") .Title -}}
+{{- else if eq .Type "country" -}}
+  {{- $description = printf (T "countries.descriptionTemplate") .Title -}}
+{{- end -}}
+<meta charset="utf-8" />
+<meta name="description" content="{{ $description }}" />
+<meta name="dc.relation" content="{{ .Site.BaseURL }}" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover, interactive-widget=resizes-content"
+/>
+<meta name="theme-color" content="#BA3D12" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ site.Title }}" />
+<meta
+  property="og:title"
+  content="{{- if .IsHome -}}
+    {{- site.Title -}}
+  {{- else -}}
+    {{- printf "%s | %s" .Title site.Title -}}
+  {{ end }}"
+/>
+<meta property="og:description" content="{{ $description }}" />
+<meta
+  property="og:type"
+  content="{{- if .IsPage -}}
+    article
+  {{- else -}}
+    website
+  {{- end -}}"
+/>
+<meta property="og:image" content="{{ .Site.BaseURL }}og-image.jpg" />
+<meta property="og:image:type" content="image/jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+{{- $isNoIndexPage := or (in .RelPermalink "/privacy/") (in .RelPermalink "/imprint/") (eq .RelPermalink "/404.html") (in .RelPermalink "/404/") -}}
+<meta
+  name="robots"
+  content="{{- if $isNoIndexPage -}}
+    noindex,nofollow
+  {{- else -}}
+    index,follow
+  {{- end -}}"
+/>

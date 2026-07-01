@@ -4,6 +4,9 @@ title: "CP"
 country:
   - "portugal"
 operator: "cp"
+
+aliases:
+  - /booking/cp-ticket-office
 ---
 
 CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in [Portugal](/country/portugal "Portugal").
@@ -16,7 +19,7 @@ CP (Comboios de Portugal) is the Portuguese state railway and the main railway c
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 {{< fip-validity type="fip-global-fare" status="valid" text="Celta train only" disable_dialog=true >}}
 
 FIP Coupons and FIP 50 Tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
@@ -144,7 +147,7 @@ The Celta is an international cooperation service between CP and Renfe from Port
 
 ## Ticket and Reservation Purchase
 
-### On-site
+### On-Site
 
 {{% booking id="cp-ticket-office" /%}}
 
@@ -158,11 +161,13 @@ Children under 4 years travel free without their own seat. Children under 12 yea
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 Passengers holding a FIP discounted ticket purchased in Portugal are not permitted to interrupt their journey. For tickets purchased outside Portugal, a break of journey is allowed (possibly subject to reservation). [^1]
 
 ## Recommendations
+
+On the Zugpost website, there is a [worth reading travel report about Portuguese railways (German only)](https://zugpost.org/stippvisite-portugal).
 
 {{% highlight tip %}}
 
@@ -182,6 +187,6 @@ CP operates occasional trips with the "Presidential Train" — a luxurious histo
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

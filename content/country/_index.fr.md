@@ -3,23 +3,24 @@ title: "Liste des pays"
 description: "Un aperçu clair de tous les pays où les avantages du FIP peuvent être utilisés. Découvrez dans quels pays les billets FIP 50 et Coupons FIP sont valables."
 params:
   countriesWithoutFip:
-    - Albanie
+    - Albanie (HSH – Hekurudha Shqiptare)
     - Andorre
-    - Belarus
+    - Belarus (BČ – Belaruskaja Tschyhunka)
     - Chypre
-    - Estonie
-    - Finlande
+    - Estonie (Elron – Eesti Liinirongid)
+    - Finlande (VR – VR-Yhtymä)
     - Islande
-    - Île de Man
+    - Île de Man (IoMR – Isle of Man Railways)
     - Îles Féroé
     - Îles Åland
+    - Kosovo (Trainkos)
     - Malte
-    - Moldavie
-    - Russie
+    - Moldavie (CFM – Calea Ferată din Moldova)
+    - Russie (RZD – Rossiyskie zheleznye dorogi)
     - Saint-Marin
-    - Suède
-    - Turquie
-    - Ukraine
+    - Suède (SJ – SJ AB)
+    - Turquie (TCDD – Türkiye Cumhuriyeti Devlet Demiryolları)
+    - Ukraine (UZ – Ukrzaliznytsia)
     - Vatican
 ---
 

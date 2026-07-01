@@ -5,6 +5,9 @@ country:
   - "lithuania"
   - "latvia"
 operator: "ltg"
+
+aliases:
+  - /booking/ltg-website
 ---
 
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochtergesellschaft LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.
@@ -20,7 +23,7 @@ LTG-Link veröffentlicht online eine [Übersicht des Streckennetzes](https://ltg
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
 Bei allen Fahrten mit einem FIP Freifahrtschein muss vor jeder Fahrt ein kostenloses Ticket bzw. Reservierung erworben werden ([siehe Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen)).
@@ -74,9 +77,9 @@ Mit regulären Fahrkarten reisen maximal 2 Kinder bis einschließlich 7 Jahre in
 
 ### Spezialzüge und historische Fahrten
 
-Im Sommer betreibt LTG-Link freitags bis sonntags direkte Züge zwischen Vilnius und der Ostsee („seaside express"), die nur in Kretinga und Klaipeda halten. Uns liegt derzeit keine Information vor, ob FIP in diesen Zügen akzeptiert wird. In Kretinga besteht Bus-Anschluss nach Palanga, in Klaipeda auf die Kurische Nehrung.
+Im Sommer betreibt LTG-Link freitags bis sonntags direkte Züge zwischen Vilnius und der Ostsee („seaside express"), die nur in Kretinga und Klaipeda halten. In Kretinga besteht Bus-Anschluss nach Palanga, in Klaipeda auf die Kurische Nehrung. FIP gilt in diesen Zügen und Anschlussbussen.[^3]
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Fahrtunterbrechung ist nicht vorgesehen, weil für jede Fahrt eine separate Fahrkarte erworben wird.
 
@@ -93,3 +96,5 @@ In Vilnius betreibt LTG-Link die einzige Lounge. Den Zugang erhält man bereits 
 [^1]: [LTG-Link Mail Feedback Strecke Vilnius – Riga](https://github.com/fipguide/fipguide.github.io/issues/517)
 
 [^2]: [LTG-Link Mail Feedback Verpflichtende Reservierung](https://github.com/fipguide/fipguide.github.io/issues/553)
+
+[^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)

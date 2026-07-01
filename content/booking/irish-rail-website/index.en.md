@@ -7,6 +7,7 @@ params:
     first: "-"
     second: "0 € / 2.50 €"
   fip_50: false
+  fip_75: false
   reservations: true
   booking_link: "https://www.irishrail.ie/en-ie/"
   type: "website"

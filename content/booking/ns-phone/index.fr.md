@@ -16,15 +16,15 @@ La NS propose une hotline de réservation pour les billets et les réservations 
 
 Pour la réservation, une carte de crédit est requise, le paiement se fait par un lien envoyé par e-mail.
 
-La hotline est joignable tous les jours de 7h à 23h.
+La hotline est joignable du lundi au vendredi de 7 h à 19 h, et le samedi et le dimanche de 8 h 30 à 17 h.
 
-{{% satellite %}}
+{{% satellite /%}}
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-Les billets FIP 50 peuvent être achetés pour les Pays-Bas et d'autres pays.
+Les billets FIP 50 peuvent être achetés pour les Pays-Bas et d’autres pays.
 
 {{% /booking-section %}}
 
@@ -32,6 +32,6 @@ Les billets FIP 50 peuvent être achetés pour les Pays-Bas et d'autres pays.
 
 ## Réservations
 
-Les réservations peuvent être effectuées pour les Pays-Bas et d'autres pays comme la Belgique, l'Allemagne et la France.
+Les réservations peuvent être effectuées pour les Pays-Bas et d’autres pays comme la Belgique, l’Allemagne et la France.
 
 {{% /booking-section %}}

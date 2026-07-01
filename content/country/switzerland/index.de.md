@@ -37,8 +37,8 @@ Die Schweiz verfügt über eines der dichtesten Bahnnetze der Welt. Trotz der to
 | Land                                                    | Grenzpunkte                                                                                                                         |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Deutschland](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
-| [Italien](/country/italy) ([FS](/operator/fs))          | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb))  | Buchs (SG), St. Margrethen                                                                                                          |
+| [Italien](/country/italy) ([FS](/operator/fs))          | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
 | [Frankreich](/country/france) ([SNCF](/operator/sncf))  | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
 
 \
@@ -68,6 +68,28 @@ Für diesen kurzen Abschnitt am besten ein FIP 50 Ticket kaufen, da sonst theore
 
 Dazu kommen noch einige grenzüberschreitende Verbindungen im Regionalverkehr. Auch mit Fähren, die teilweise mit FIP nutzbar sind, kann die Schweiz erreicht werden.
 
+### Österreich
+
+Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
+
+Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
+
+### Liechtenstein
+
+Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
+
+Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
+
+### Italien
+
+Aus Italien kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen in die Schweiz gereist werden. Von Mailand kann sowohl über Como als auch über Domodossola das Schweizer Netz erreicht werden. Die Züge über Como fahren meist weiter in Richtung Zürich, die über Domodossola nach Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist ein Aufpreis sowie eine Reservierung nötig. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt - Mailand sowie die `EC` Züge Zürich - Mailand.
+
+Der Aufpreis für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet der Aufpreis nur 11 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
+
+{{% highlight tip %}}
+Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine kostengünstigere Option sein. Die komfortablere aber teurere Variante bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
+{{% /highlight %}}
+
 ### Frankreich
 
 Aus Frankreich verkehren grenzüberschreitende TGV Züge nach Zürich über Basel. Diese sind in der Schweiz ohne Reservierung mit FIP 50 Tickets oder FIP Freifahrtschein der SBB nutzbar. Für grenzüberschreitende Verbindungen muss ein FIP Globalpreis erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge").
@@ -77,28 +99,6 @@ Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen.
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
 
 `TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
-
-### Italien
-
-Aus Italien kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen in die Schweiz gereist werden. Von Mailand kann sowohl über Como als auch über Domodossola das Schweizer Netz erreicht werden. Die Züge über Como fahren meist weiter in Richtung Zürich, die über Domodossola nach Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist eine Reservierung nötig, die einen Aufschlag beinhaltet. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt - Mailand sowie die `EC` Züge Zürich - Mailand.
-
-Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
-
-{{% highlight tip %}}
-Bei der Verbindung Mailand - Como - Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere aber teurere Variante bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
-{{% /highlight %}}
-
-### Liechtenstein
-
-Liechtenstein und die Schweiz sind nur durch wenige Züge unter der Woche miteinander verbunden. Diese grenzüberschreitenden S-Bahnen verkehren nur in der Hauptverkehrszeit und werden von den [Österrischen Bundesbahnen (ÖBB)](/operator/oebb#liechtenstein "ÖBB") betrieben. Demnach gelten hier bis zum Grenzpunkt Buchs SG in der Schweiz auch Freifahrtscheine und FIP 50 Tickets der ÖBB.
-
-Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei denen FIP-Tickets nicht gültig sind.
-
-### Österreich
-
-Österreich und die Schweiz haben nur einen richtigen Grenzübergang, in St. Margrethen. Über diesen verkehren hauptsächlich Regionalzüge, jedoch auch Eurocity-Züge, die in Österreich nur in Bregenz halten und ansonsten aus Deutschland (München) verkehren.
-
-Eine Einreise aus Österreich ist auch über den Grenzübergang Buchs SG durch Liechtenstein möglich. In Liechtenstein gelten die [FIP-Tickets der ÖBB](/operator/oebb#liechtenstein "ÖBB"). Es ist somit möglich, mit FIP-Freifahrtscheinen der ÖBB und SBB ein durchgängiges Ticket zwischen Österreich und der Schweiz zu haben. Hier befindet sich auch die Hauptstrecke zwischen den beiden Ländern, so verkehren hier u. a. österreichische Railjet-Züge und Eurocity-Züge zwischen Wien / Graz und Zürich. Dazu kommt noch der Regionalverkehr.
 
 ## Quellen
 

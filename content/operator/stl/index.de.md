@@ -5,6 +5,11 @@ country:
   - "netherlands"
   - "united-kingdom"
 operator: "stl"
+
+aliases:
+  - /booking/stena-line-bv-email
+  - /booking/stena-line-bv-phone
+  - /booking/stena-line-bv-ticket-office
 ---
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich ([Vereinigtes Königreich](/country/united-kingdom)) und Hoek van Holland ([Niederlande](/country/netherlands)) wird im Kontext von FIP als Stena Line BV (StL) genannt.
@@ -20,7 +25,7 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Schiffskategorien und Reservierungen
 
@@ -146,7 +151,7 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 ### Vor Ort
 
-Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügbarkeit. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Der Kauf an Bord der Schiffe ist nicht möglich.
 
@@ -170,9 +175,11 @@ Die Anreise zur Station _Hoek van Holland Haven_ erfolgt in der Regel mit der Me
 
 - Station _Schiedam Centrum_: direkte Umsteigemöglichkeit zu `IC`- und `RE`-Zügen der NS.
 - Station _Rotterdam Centraal_: Umsteigemöglichkeiten zu Zügen der NS. Nach Hoek van Holland muss von Metro-Linie D an der Station _Beurs_ umgestiegen werden.
+- Station _Rotterdam Alexander_: direkte Umsteigemöglichkeit zu Zügen der NS zum zentralen niederländischen Bahnknoten _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. akzeptiert kein FIP, sodass für die Metro-Fahrt ein reguläres Ticket erworben werden muss. Dies funktioniert auch kontaktlos und mit ApplePay.
+Da Hoek van Holland weit vom Zentrum Rotterdams entfernt ist, ist es je nach Ziel günstiger ein 2-Stundenticket zu erwerben (5,50 € Stand 2026), zu den üblichen Umstiegshaltestellen ist derzeit nur nach _Schiedam Centrum_ der Kilometertarif günstiger (5,28 €), am größten ist die Ersparnis bei _Rotterdam Centraal_ (8,28 €).
 {{% /highlight %}}
 
 In Harwich besteht an der Station _Harwich International_ Anschluss an Züge von Greater Anglia aus / in Richtung London.
@@ -183,7 +190,7 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 
 ## Quellen
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#StenaBV)
 
 [^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 

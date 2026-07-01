@@ -6,6 +6,8 @@ country:
 operator: "zssk"
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").
@@ -20,7 +22,7 @@ The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSS
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
 
@@ -41,7 +43,7 @@ Reservation required for `SC` and `IC` trains. Other ZSSK trains only require a 
 
 Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops.
 
-#### Reservation
+#### Reservations
 
 **Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
@@ -60,7 +62,7 @@ _Currently, the operation of Intercity trains has been suspended for economic re
 
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed.
 
-#### Reservation
+#### Reservations
 
 **Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
@@ -81,7 +83,7 @@ Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -98,7 +100,7 @@ Reservations are required only in 1st class.
 
 `EN` are international night trains that require reservations and offer the option to pay a surcharge for couchette or sleeper cars. Otherwise, they are similar to `EC` trains.
 
-#### Reservation
+#### Reservations
 
 **Cost:** Depending on route and occupancy as well as car category (including surcharge for train category).
 
@@ -115,7 +117,7 @@ Reservations are required only in 1st class.
 
 A type of InterRegional train with fewer stops than a regional train but more than, for example, `IC` trains. They often have a dining car and run with comfortable locomotive-hauled trains.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -132,7 +134,7 @@ Reservations are required only in 1st class.
 
 Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -149,10 +151,19 @@ Reservations are required only in 1st class.
 
 Standard regional trains that usually stop everywhere (there are exceptions). Especially on branch lines, they often run with outdated rolling stock. They are sometimes marketed as S-Bahn trains, but without really running on an S-Bahn schedule.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+%}}
+Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -167,7 +178,7 @@ Reservations are required only in 1st class.
     subtitle="Excluding IC & SC"
 /%}}
 
-### On site
+### On-Site
 
 {{% booking id="zssk-ticket-office" /%}}
 
@@ -175,7 +186,7 @@ Reservations are required only in 1st class.
     subtitle="Excluding IC & SC"
 /%}}
 
-### On the train
+### On the Train
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
 
@@ -201,12 +212,12 @@ Students under 26 years old and seniors aged 62 and over from the EU, as well as
 
 A break in the journey is only possible for distances of 101 km and more.
 
-### Busses and replacement services
+### Rail Replacement Services
 
-Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)

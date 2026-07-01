@@ -19,7 +19,7 @@ In [Switzerland](/country/switzerland "Switzerland"), in addition to the nationa
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP 50 Tickets are valid with all listed railway companies, see [Rail and Bus Operators](#rail-and-bus-operators), as well as with the [ship operators](#ship-operators). FIP Coupons are also valid almost everywhere, with a few exceptions.
 
@@ -233,6 +233,10 @@ No FIP discounts are granted on the following routes:
 - Mürren – Allmendhubel funicular (SMA)
 - Stechelberg – Mürren – Schilthorn aerial cableway (LSMS)
 
+{{% highlight inofficial %}}
+It has been reported to us that the transport of winter sports equipment (skis, snowboards) on the Jungfrau Railways is not possible when using FIP.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -263,7 +267,7 @@ The buses and narrow-gauge railways can be used with FIP; for the funicular it i
 %}}
 The Matterhorn Gotthard Bahn has a 144-kilometre network in the cantons of Valais, Uri, and Grisons. While all FIP discounts are recognized on some lines, this is not the case on the section between Zermatt and Gornergrat, where only FIP 50 Tickets can be used. The car shuttle through the Furka Tunnel is completely excluded from FIP. FIP is fully accepted on bus routes.
 
-#### Reservation
+#### Reservations
 
 A reservation is required for the Glacier Express, which is jointly operated by MGB and the Rhaetian Railway (RhB); see the [dedicated section](#glacier-express).
 
@@ -273,16 +277,6 @@ A reservation is required for the Glacier Express, which is jointly operated by 
 - Brig – Disentis
 - Andermatt – Göschenen
 
-{{% /train-category %}}
-
-{{% train-category
-    id="mib"
-    title="Meiringen–Innertkirchen Railway (MIB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-The Meiringen–Innertkirchen Railway (MIB) is a metre-gauge railway in the canton of Bern. It is now operated by Zentralbahn; see the section "Zentralbahn (ZB)" for details.
 {{% /train-category %}}
 
 {{% train-category
@@ -299,7 +293,7 @@ It is also the operating railway company on the Transports Montreux–Vevey–Ri
 
 FIP is valid on all the MOB routes listed below. Between Zweisimmen and Interlaken Ost, however, the trains are operated by BLS AG. This means that Coupons for both SP and BLS are required to travel the entire route. FIP 50 Tickets can be booked continuously throughout.
 
-#### Reservation
+#### Reservations
 
 For the GoldenPass Express (through trains from Montreux to Interlaken Ost) and GoldenPass Panoramic (trains between Montreux and Zweisimmen), both marked as `PE` in timetables, travel without a seat reservation is only possible if seats are still available. Otherwise, a paid reservation can be purchased via the [MOB website](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets). For certain panoramic coaches on the GoldenPass Panoramic, an additional surcharge may be levied on site.
 
@@ -445,7 +439,7 @@ The Rhaetian Railway operates mainly in the canton of Grisons but also runs into
 
 FIP is valid on almost all services. No discounts apply on the car shuttles through the Albula and Vereina tunnels.
 
-#### Reservation
+#### Reservations
 
 A reservation is required for the Glacier Express; see the [dedicated section](#glacier-express). For the Bernina Express, operating on the route Chur – Tirano and marked as `PE`, a surcharge must be paid in addition to the reservation; see the [dedicated section](#bernina-express).
 
@@ -502,7 +496,7 @@ SP FIP tickets are valid on the entire route, including the Swiss section, as th
 In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Reservations are only required during the Christmas markets and the Raduno degli Spazzacamini (the international chimney sweep meeting) in Santa Maria Maggiore.
 
@@ -551,7 +545,7 @@ SZU operates the two Zurich S-Bahn lines S4 and S10. These run from Zürich HB t
 %}}
 Thurbo AG is a railway company in Eastern Switzerland and in cross-border traffic with Germany and Austria. It operates various lines of the St. Gallen S-Bahn and Zurich S-Bahn, plus some `RE` services.
 
-FIP Coupons are valid on all routes within Switzerland. The international sections are operated in Germany by SBB GmbH and in Austria by ÖBB. For Austria, an additional ÖBB Coupon is required; routes into Germany are not usable with FIP. An exception is travel from Switzerland to Konstanz, as Konstanz counts as a border station. FIP 50 Tickets can be purchased for all routes within Switzerland as well as the routes to Austria and to Konstanz.
+FIP Coupons are valid on all routes within Switzerland. The international sections are operated in Germany by SBB GmbH and in Austria by ÖBB. For Austria, an additional ÖBB Coupon is required; routes into Germany are not usable with FIP. Exceptions are travel from Switzerland to Konstanz and to Waldshut, as these count as border stations. FIP 50 Tickets can be purchased for all routes within Switzerland as well as the routes to Austria, to Konstanz and to Waldshut.
 
 #### Scheduled routes
 
@@ -559,16 +553,17 @@ FIP Coupons are valid on all routes within Switzerland. The international sectio
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
-- Weinfelden – St. Gallen – St. Margarethen (S5)
-- Weinfelden – Romanshorn – St. Margarethen (– Bregenz) (S7)
+- Weinfelden – St. Gallen (– St. Margrethen) (S5)
+- Weinfelden – Romanshorn (– Rorschach) (selected trains: – St. Margrethen – Lindau-Insel) (S7)
 - Wil – Wattwil (S9)
 - Wil – Romanshorn (S10)
 - Sargans – Chur (S12)
 - Weinfelden – Konstanz (S14 and S44)
-- St. Gallen – Herisau (S81)
 - St. Gallen – Wittenbach (S82)
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
+
+The S5 runs only hourly to St. Margrethen; otherwise it terminates in St. Gallen. The S7 runs hourly between Weinfelden and Rorschach and is occasionally extended via St. Margrethen to Lindau-Insel. From St. Margrethen (Border Point), ÖBB FIP Coupons are required.
 
 ##### Lines in the Zurich area
 
@@ -576,10 +571,12 @@ FIP Coupons are valid on all routes within Switzerland. The international sectio
 - Winterthur – Stein am Rhein (S29)
 - Winterthur – Weinfelden (S30)
 - Winterthur – Wil (S35)
-- Bülach – Koblenz (CH) (S36)
+- Bülach – Koblenz(CH) – Waldshut(D) (S36)
 - Winterthur – Bülach (S41)
 
 There are also night lines in both regions, replacing regular S-Bahn lines during night hours, which can also be used with FIP.
+
+From the timetable change in December 2026, the S5 will become S3 and run hourly on the route Weinfelden – St. Gallen – St. Margrethen – Bregenz.
 {{% /train-category %}}
 
 {{% train-category
@@ -596,7 +593,7 @@ FIP discounts are valid between Martigny and Le Châtelard-Frontière on the Mon
 
 On bus routes, SP FIP discounts apply to all routes except the lines Salvan – La Creusaz – Van-d'en-Haut and Finhaut – Lac d'Emosson.
 
-#### Reservation
+#### Reservations
 
 Trains after 23:00 require a reservation, which must be made at least 30 minutes before departure free of charge via the [official website](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441).
 
@@ -716,11 +713,11 @@ WSB is now part of Aargau Verkehr AG (AVA). See the dedicated section for detail
     reservation_required=false
     reservation_possible=partially
 %}}
-Zentralbahn operates a metre-gauge network consisting of the Brünig line (Lucerne – Interlaken Ost), the Luzern–Stans–Engelberg Railway, and the Meiringen–Innertkirchen Railway.
+Zentralbahn operates a metre-gauge network consisting of the Brünig line (Lucerne – Interlaken Ost), the Luzern–Stans–Engelberg Railway, and the Meiringen–Innertkirchen Railway (MIB).
 
 SP FIP discounts are valid on all three lines. The trains marked `PE` between Lucerne and Interlaken Ost can be used without surcharge.
 
-#### Reservation
+#### Reservations
 
 A reservation for the `PE` between Lucerne and Interlaken Ost can be purchased for a fee via the [official website](https://shop.luzern.com/de/stories/luzern-interlaken-express) but is not mandatory.
 
@@ -913,6 +910,6 @@ When traveling with a Coupon, it is advisable, if possible, also to have the Cou
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

@@ -49,7 +49,7 @@
 
   @include focus-indicator(0.1rem);
 
-  > .material-symbols-rounded {
+  > .a-icon {
     align-self: flex-start;
     margin-top: 0.1rem;
   }
@@ -106,21 +106,33 @@
     list-style-type: none;
     list-style-position: outside;
     padding-left: 0;
+
+    @media print {
+      list-style-type: disc !important;
+      display: block !important;
+      padding-left: 20px !important;
+
+      .a-operator-logo {
+        display: none;
+      }
+    }
   }
 
-  &-date {
-    padding-left: 2.5rem;
+  &__date {
+    margin-left: 2.8rem;
+    position: relative;
   }
 
   p {
     margin-bottom: 0;
   }
-}
 
-.o-related__item figure {
-  border-radius: var(--border-radius-s);
+  &__item {
+    figure {
+      border-radius: var(--border-radius-s);
+    }
+  }
 }
-
 @media (max-width: #{$breakpoint-lg}) {
   .o-aside {
     position: fixed;
@@ -177,8 +189,8 @@
     &__header {
       display: flex;
       align-items: center;
+      justify-content: space-between;
       flex-direction: column;
-      gap: 1.5rem;
       width: 100%;
       border-top: var(--border);
       border-bottom: 1px solid #3d444d;
@@ -213,6 +225,7 @@
     display: flex;
     transform: unset;
     box-shadow: unset;
+    max-height: unset;
   }
 
   main.o-newspage .o-aside {

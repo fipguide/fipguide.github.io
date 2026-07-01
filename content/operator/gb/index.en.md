@@ -4,24 +4,29 @@ title: "National Rail"
 country:
   - "united-kingdom"
 operator: "gb"
+
+aliases:
+  - /booking/caledonian-sleeper-website
+  - /booking/lner-website
+  - /booking/national-rail-ticket-office
 ---
 
 There are many different railway companies in [Great Britain](/country/united-kingdom "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
 
 ## Summary
 
-- FIP 50 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail. Exceptions exist only on certain [Lumo](#lumo) routes.
+- FIP 50 / FIP 75 Tickets and FIP Coupon are valid with all [railway operators](#train-categories-and-reservations) integrated into National Rail.
 - Reservations are only required on night trains.
-- FIP 50 Discount mostly applies only to Anytime and Off-Peak Tickets.
+- FIP 50 / FIP 75 Discount mostly applies only to Anytime and Off-Peak Tickets.
 - The London Overground and Elizabeth Line are part of National Rail and can be used with FIP.
 - Some heritage railways offer FIP discounts.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
-FIP Coupons and FIP 50 Tickets are valid with all listed railway companies, see [Train Categories and Reservations](#train-categories-and-reservations).
+FIP Coupons and FIP 50 / FIP 75 Tickets are valid with all listed railway companies, see [Train Categories and Reservations](#train-categories-and-reservations).
 
 ## Train Categories and Reservations
 
@@ -38,7 +43,7 @@ There are no classic train categories in Great Britain. Instead, services are op
 
 Avanti West Coast offers fast long-distance connections along the West Coast of Great Britain, including London, Manchester, and Glasgow.
 
-In First Class, snacks, meals, and (alcoholic) drinks are served.
+In First Class, snacks, meals, and (alcoholic) drinks are served. [More information about the offer can be found here.](https://www.avantiwestcoast.co.uk/travel-information/onboard/food-and-drinks/first-class-service). On shorter routes, service may be limited – drinks are available, but the full menu may not be available due to time constraints.
 
 {{% /train-category %}}
 
@@ -90,7 +95,7 @@ Chiltern Railways offers regional connections between London Marylebone, Birming
 
 CrossCountry offers long-distance connections between northeast, central, and southwest England, as well as Scotland and Wales. Trains connect cities such as Aberdeen, Birmingham, Bristol, Cardiff, Manchester, and Penzance, serving many regions beyond the main lines.
 
-In First Class, snacks, meals, and (alcoholic) drinks are sometimes served.
+In First Class, snacks, meals, and (alcoholic) drinks are sometimes served. [More information about the offer can be found here.](https://www.crosscountrytrains.co.uk/travel-information/on-board/first-class-food-and-drink)
 
 {{% /train-category %}}
 
@@ -116,6 +121,8 @@ East Midlands Railway connects London with the East Midlands and Yorkshire in re
 %}}
 
 The Elizabeth Line offers continuous suburban connections from east to west London, complementing the city's public transport network. The Elizabeth Line is part of National Rail and can be used with FIP discounts. It is a good way to travel across the city with FIP. [^1]
+
+There are no ticket counters between Abbey Wood and Canary Wharf where FIP 50 Tickets can be purchased.
 
 {{% highlight tip %}}
 Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
@@ -146,7 +153,7 @@ Gatwick Express is a fast direct connection between London Victoria and Gatwick 
 
 Grand Central offers direct connections between London King’s Cross, Yorkshire, and northeast England, including Sunderland, Bradford, and York.
 
-In First Class, snacks and drinks are served.
+In First Class, snacks and drinks are served. [More information about the offer can be found here.](https://www.grandcentralrail.com/tickets/ticket-types/first-class-and-business-travel)
 
 {{% /train-category %}}
 
@@ -187,7 +194,7 @@ On the mainline route between Norwich and London, first class passengers can col
 
 Great Western Railway connects London Paddington with southwest England, South Wales, and Bristol in long-distance and regional services.
 
-In First Class, snacks and drinks are served.
+In First Class, snacks and drinks are served. [More information about the offer can be found here.](https://www.gwr.com/travelling-with-us/first-class/food-and-drink)
 
 GWR also operates a night train from London to Penzance – the Night Riviera Sleeper, which requires a reservation. FIP Coupons only need to be valid for the day of arrival.[^1]
 
@@ -207,7 +214,7 @@ Reservations are required for the Night Riviera Sleeper.
   reservation_possible=false
 %}}
 
-Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. FIP Coupons and FIP 50 (or FIP 75) Tickets are accepted.
+Heathrow Express offers a fast nonstop connection between London Paddington and Heathrow Airport in about 15 minutes. FIP Coupons and FIP 50 / FIP 75 Tickets are accepted.
 
 At Heathrow, tickets with FIP Discount can be purchased directly at the ticket barriers from the staff. [Return tickets](#ticket-and-reservation-purchase) with FIP Discount may be cheaper than two single journeys with the [Elizabeth Line](#elizabeth-line). The prices are 50% (or 75%) of the single or return fares published on the [Heathrow Express website](https://www.heathrowexpress.com/ticket-fares). [^4]
 
@@ -237,7 +244,7 @@ Hull Trains offers direct connections between London King’s Cross and major ci
 
 LNER operates long-distance trains along the East Coast from London to Edinburgh and York.
 
-In First Class, snacks, meals, and (alcoholic) drinks are served.
+In First Class, snacks, meals, and (alcoholic) drinks are served. [More information about the offer can be found here.](https://www.lner.co.uk/first-class-travel/menu/)
 
 {{% /train-category %}}
 
@@ -257,7 +264,7 @@ London Overground complements the Underground network as a kind of suburban rail
   id="lumo"
   title="Lumo (LD)"
   type="highspeed"
-  fip_accepted=partially
+  fip_accepted=true
   reservation_possible=true
   reservation_required=false
 %}}
@@ -265,7 +272,7 @@ Lumo operates on two routes in Great Britain:
 
 - On the East Coast Main Line between London King's Cross, Newcastle and Edinburgh. FIP is accepted on these East Coast services.
 
-- On the West Coast Main Line, First Lumo Stirling plans to launch new Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. Currently, FIP is not valid on these services. [^7]
+- On the West Coast Main Line, First Lumo Stirling launches Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. FIP is accepted on these West Coast services. [^7]
 
 {{% /train-category %}}
 
@@ -389,7 +396,7 @@ Thameslink offers continuous north-south connections through London, linking cit
 
 TransPennine Express connects northwest and northeast England as well as Scotland via the Pennines.
 
-In First Class, snacks, meals, and (alcoholic) drinks are sometimes served.
+In First Class, snacks, meals, and (alcoholic) drinks are sometimes served. [More information about the offer can be found here.](https://www.tpexpress.co.uk/travelling-with-us/first-class)
 
 {{% /train-category %}}
 
@@ -419,16 +426,16 @@ West Midlands Trains operates local and regional services under two brands: Lond
 
 ## Ticket and Reservation Purchase
 
-Great Britain distinguishes between different ticket categories. FIP 50 Discount is not granted on all tickets. The [BR Fares website](https://www.brfares.com/) allows you to search for fares on a route by adding "FIP Discount 50%" or "FIP Discount 75%" as discount.
+Great Britain distinguishes between different ticket categories. FIP 50 / FIP 75 Discount is not granted on all tickets. The [BR Fares website](https://www.brfares.com/) allows you to search for fares on a route by adding "FIP Discount 50%" or "FIP Discount 75%" as discount.
 
 - **Anytime Tickets:** \
-  These tickets are flexible and can be used at any time of day. The price is constant and not quota-based. FIP 50 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is possible.
+  These tickets are flexible and can be used at any time of day. The price is constant and not quota-based. FIP 50 / FIP 75 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is possible.
 - **Off-Peak Tickets:** \
-  These tickets are cheaper than Anytime Tickets but can only be used at restricted times. Usually, the morning peak is excluded, but exact restrictions vary by ticket and are stated in the ticket conditions. FIP 50 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is not possible.
+  These tickets are cheaper than Anytime Tickets but can only be used at restricted times. Usually, the morning peak is excluded, but exact restrictions vary by ticket and are stated in the ticket conditions. FIP 50 / FIP 75 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is not possible.
 - **Advance Tickets:** \
-  These tickets are heavily discounted but only valid for the selected train. Tickets can be purchased up to 10 minutes before departure. FIP 50 Discount does not apply to these tickets.
+  These tickets are heavily discounted but only valid for the selected train. Tickets can be purchased up to 10 minutes before departure. FIP 50 / FIP 75 Discount does not apply to these tickets.
 - **Rovers:** \
-  Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 Discount is only granted on request.
+  Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 / FIP 75 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 / FIP 75 Discount is only granted on request.
 
   [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
@@ -470,23 +477,31 @@ Great Britain distinguishes between different ticket categories. FIP 50 Discount
   {{% /expander %}}
 
 - **Season Tickets and London Tickets:** \
-  Unlimited travel between two stations for a set period or within specified London zones for a set period. FIP 50 Discount is not available.
+  Unlimited travel between two stations for a set period or within specified London zones for a set period. FIP 50 / FIP 75 Discount is not available.
 
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}
-Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 Tickets and FIP Coupons in Second Class. [^5]
+Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 / FIP 75 Tickets and FIP Coupons in Second Class. [^5]
 {{% /highlight %}}
 
 ### Online
 
-{{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
+{{% booking id="gwr-website"
+    subtitle="All national services"
+/%}}
+
+{{% booking id="gwr-whatsapp"
+    subtitle="All national services"
+/%}}
 
 {{% booking id="lner-website"
     subtitle="LNER services only"
 /%}}
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
+
+{{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
 
 ### On-Site
 
@@ -495,10 +510,6 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 ### On the Train
 
 FIP-discounted tickets are not issued on trains, except in certain rural areas where tickets are generally only issued on trains (_Pay-Trains_).
-
-## Discounts
-
-Active and retired employees of SNCB/NMBS (Belgium), SNCF (France), Irish Rail ([CIE](/operator/cie)), and Northern Ireland Railways ([NIR](/operator/nir)), as well as their spouses and dependent children, receive a 75% discount on the ticket price upon presentation of the FIP Card (instead of the usual 50% for FIP 50 Tickets). [^1]
 
 ## Special Tariff Conditions
 
@@ -512,13 +523,19 @@ Most transport services in London are operated by Transport for London (TfL). Th
 
 {{% train-category
   id="london-buses-dlr-tram"
-  title="London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats"
+  title="London Buses, Docklands Light Railway (DLR), London Tram, London Cable Car, and River Thames Boats"
   type="bus"
   fip_accepted=false
   reservation_required=false
 %}}
 
-London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cable Car, and River Thames Boats are operated by TfL and do not accept FIP discounts. [^1]
+The following services do not accept FIP: [^1]
+
+- London Buses
+- Docklands Light Railway (DLR)
+- London Tram
+- London Cable Car (previously IFS Cloud Cable Car / Emirates Air Line)
+- River Thames Boats
 
 {{% /train-category %}}
 
@@ -533,7 +550,7 @@ London Buses, Docklands Light Railway (DLR), London Tram, Emirates Air Line, Cab
 The London Underground is operated by TfL and does not accept FIP discounts.
 
 {{< highlight important >}}
-With FIP 50 National Rail Tickets requiring a transfer between London stations, the Underground may be used exclusively for the connection between these stations. Break of journey in the Underground is not permitted. Tickets valid for this transfer are marked with ✠ (Maltese cross) or † (dagger). [^1]
+With FIP 50 / FIP 75 National Rail Tickets requiring a transfer between London stations, the Underground may be used exclusively for the connection between these stations. Break of journey in the Underground is not permitted. Tickets valid for this transfer are marked with ✠ (Maltese cross) or † (dagger). [^1]
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -550,14 +567,12 @@ Regular child tickets may be cheaper than tickets with FIP discount.
   id="dartmouth-steam-railway"
   title="Dartmouth Steam Railway and River Boat Company"
   type="regional"
-  fip_accepted=partially
+  fip_accepted=false
   reservation_possible=nil
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
 
-The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The ferry from Kingswear to Dartmouth is included in the price. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
-
-The discount is 75% off the regular adult fare.
+The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
 
 {{% /train-category %}}
 
@@ -656,7 +671,7 @@ The discount is 50% off the regular adult fare.
 There are two major railway museums in Great Britain. The main site is next to York station. A second site is next to Shildon station and is called Locomotion. Both museums are free and offer a good insight into the history of railways in Great Britain. More information on the [Railway Museum in York](https://railwaymuseum.org.uk) and [Locomotion in Shildon](https://locomotion.org.uk).
 
 {{% highlight tip %}}
-Long-distance trains in Great Britain often offer particularly good service in First Class, including snacks, meals, and (alcoholic) drinks. Notably, Avanti on the West Coast Main Line and LNER on the East Coast Main Line. Larger stations often have lounges accessible with a FIP Coupon or FIP 50 Ticket for First Class. These also offer snacks, meals, and (alcoholic) drinks depending on the operator. A First Class FIP Coupon is especially worthwhile in Great Britain.
+Long-distance trains in Great Britain often offer particularly good service in First Class, including snacks, meals, and (alcoholic) drinks. Notably, Avanti on the West Coast Main Line and LNER on the East Coast Main Line. Larger stations often have lounges accessible with a FIP Coupon or FIP 50 / FIP 75 Ticket for First Class. These also offer snacks, meals, and (alcoholic) drinks depending on the operator. A First Class FIP Coupon is especially worthwhile in Great Britain.
 {{% /highlight %}}
 
 Great Britain can also be explored by night trains:
@@ -666,7 +681,7 @@ Great Britain can also be explored by night trains:
 
 ## Sources
 
-[^1]: [Rail Delivery Group Guide for visitors to Britain using FIP](https://www.raildeliverygroup.com/images/RST/RST_Guide_for_visitors_to_Britain_using_FIP_v9.pdf)
+[^1]: [Rail Delivery Group Guide for visitors to Britain using FIP](https://www.raildeliverygroup.com/doclink/d7431aa-guide-for-visitors-to-britain-using-fip-facilities-v11-2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkNzQzMWFhLWd1aWRlLWZvci12aXNpdG9ycy10by1icml0YWluLXVzaW5nLWZpcC1mYWNpbGl0aWVzLXYxMS0yIiwiaWF0IjoxNzc2MjU3MDY4LCJleHAiOjE3NzYzNDM0Njh9.7NUnbQlUsO30LWptEoRrFN49dwxKSxAqAgMCpL-Ngzk)
 
 [^2]: [Caledonian Sleeper - Before your trip](https://www.sleeper.scot/help-support/before-your-trip/#2)
 
@@ -678,4 +693,4 @@ Great Britain can also be explored by night trains:
 
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
-[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469781759-first-lumo-stirling-services.html)
+[^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)

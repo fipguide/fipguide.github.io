@@ -4,6 +4,10 @@ title: "NIR"
 country:
   - "united-kingdom"
 operator: "nir"
+
+aliases:
+  - /booking/translink-ticket-office
+  - /booking/translink-whatsapp
 ---
 
 Northern Ireland Railways (NIR) is the state railway company in Northern Ireland and is part of Translink, a state transport company. The rail network is compact and mainly consists of connections to and from Belfast.
@@ -15,7 +19,7 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Train Categories and Reservations
 
@@ -46,7 +50,7 @@ NIR operates the Enterprise Service between Dublin and Belfast together with [CI
 
 ## Class Categories
 
-- **Second Class**: Standard class, usable with FIP 50 Tickets and FIP Coupons of both first and second class.
+- **Second Class**: Standard class, usable with FIP 50 / FIP 75 Tickets and FIP Coupons of both first and second class.
 
 - **Enterprise Plus**: First class on the Dublin – Belfast connection. Can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons.
 
@@ -54,7 +58,7 @@ NIR operates the Enterprise Service between Dublin and Belfast together with [CI
 
 ### Online
 
-FIP 50 Tickets cannot be purchased online.
+FIP 50 / FIP 75 Tickets cannot be purchased online.
 
 {{% booking id="irish-rail-website"
     subtitle="Reservations (2nd class) for the Enterprise Service (Dublin – Belfast)."
@@ -69,12 +73,12 @@ FIP 50 Tickets cannot be purchased online.
 {{% booking id="translink-ticket-office" /%}}
 
 {{% booking id="irish-rail-ticket-office"
-    subtitle="Reservations and FIP 50 Tickets for the Enterprise Service (Dublin – Belfast)."
+    subtitle="Reservations and FIP 50 / FIP 75 Tickets for the Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### On the Train
 
-FIP 50 Tickets must be purchased before boarding. On the Enterprise Service, it is possible to purchase the upgrade between 1st and 2nd class on the train.
+FIP 50 / FIP 75 Tickets must be purchased before boarding. On the Enterprise Service, it is possible to purchase the upgrade between 1st and 2nd class on the train.
 
 ## Discounts
 
@@ -88,4 +92,4 @@ Break of journey is only permitted in order to catch connecting trains.[^1]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-143)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)

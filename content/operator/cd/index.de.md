@@ -4,6 +4,10 @@ title: "ČD"
 country:
   - "czechia"
 operator: "cd"
+
+aliases:
+  - /booking/cd-ticket-office
+  - /booking/cd-website
 ---
 
 Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechischen Republik](/country/czechia "Tschechischen Republik") und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.
@@ -18,36 +22,15 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechis
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="FIP Gültigkeitskarte Überblick für Tschechien"
-caption="[Überblick FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Verbindungen von der ČD betrieben werden. Teilweise sind Strecken auch zuschlagspflichtig.
 
-Für einen ersten Eindruck, kann die Übersichtskarte für FIP Vergünstigungen in Tschechien genutzt werden.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="FIP Gültigkeitskarte Detail für Tschechien"
-caption="[Detail FIP Gültigkeitskarte](/en/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)"
-width="40%"
-position="left" >}}
-Für detaillierte Informartionen kann die Detailkarte für FIP Vergünstigungen genutzt werden.
-
-Weitere Informationen: [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip) und [ČD kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Weitere Informationen in den [tariflichen Besonderheiten](#tarifliche-besonderheiten) auf dieser Seite.
+{{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
 
@@ -70,7 +53,7 @@ In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse g
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 
@@ -98,7 +81,7 @@ Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, alle
 Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit `RJ` gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend.
 {{% /train-category %}}
@@ -134,7 +117,7 @@ Fernverkehrszüge mit hohem Komfort und Halten nur an wichtigeren Bahnhöfen. Te
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
 {{% /train-category %}}
@@ -221,9 +204,29 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
 Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Abhängig von Strecke und Auslastung sowie Wagenkategorie.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
+Für einige Busverbindungen sind vergünstigte FIP Tickets verfügbar:
+
+- Václav Havel Airport Prague (Prag Flughafen) – Praha hl. n. (Prag Hauptbahnhof)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+Auf anderen Busverbindungen gelten keine FIP Ermäßigungen.
+
+Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt erworben werden. Ticket mit FIP Rabatt sind an ČD Ticketschalter erhältlich. Tickets ohne Rabatt können auch an Fahrkartenautomaten oder im ČD-eShop gekauft werden.
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -240,6 +243,12 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="cd-ticket-office" /%}}
@@ -254,13 +263,26 @@ Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. 
 
 ## Tarifliche Besonderheiten
 
+Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Verbindungen von der ČD betrieben werden. Teilweise sind Strecken auch zuschlagspflichtig.
+
+Für eine Übersicht der Gültigkeit kann die Übersichtskarte hier verwendet werden. Ausführlichere Informationen finden sich in der Detailkarte und den konkreten Regelungen in den folgenden Abschnitten zu [ČD Kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig) und [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip).
+
+{{% columns %}}
+{{% column width="50%" %}}
+![[Überblick FIP Gültigkeitskarte (Vollbild)](/de/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Detail FIP Gültigkeitskarte (Vollbild)](/de/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
+
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
 Auf sogenannten _kommerziellen_ Verbindungen der ČD muss ein Zuschlag gekauft werden. Diese umfassen in der Regel nur bestimmte Züge der Zugkategorien `SC`, `EC`, `IC` und `R`. [^3]
 
-Als Orientierung können die [FIP Gültigkeitskarten für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
+Als Orientierung können die [FIP Gültigkeitskarten für Tschechien](#tarifliche-besonderheiten) genutzt werden.
 
-Betrofene Verbindungen im Detail:
+Betroffene Verbindungen im Detail:
 
 **Fernzüge (EC, IC, SC, EN, NJ, R):**
 
@@ -487,7 +509,7 @@ Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazel
 
 Für reservierungspflichtige Zugverbindungen in der Liste gelten besondere Regeln, siehe [Züge mit Reservierungspflicht](#züge-mit-reservierungspflicht).
 
-Der Zuschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter oder im Zug (bitte das Zugpersonal direkt aufsuchen) gekauft werden. Die Gültigkeit des Zuschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3]
+Der Zuschlag kostet 250 CZK (Stand Februar 2026) und kann vor Fahrtantritt am ČD Ticketschalter, im Zug (bitte das Zugpersonal direkt aufsuchen) oder online gekauft werden. Die Gültigkeit des Zuschlags entspricht der gleichen Dauer wie das aktuelle Feld auf dem FIP Freifahrtschein (2 Tage) und ist bei allen kommerziellen Verbindungen gültig. [^3] Der Onlinekauf ist auf der Webseite der [ČD auf Tschechisch hier](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) möglich (_Jednorázový příplatek na komerční vlaky a vybrané linky_ und das Datum auswählen, auf der nächsten Seite nach dem Klick auf _Koupit_ kann die Webseite wieder auf Englisch gestellt werden).
 
 Rückerstattungen von Aufschlägen sind bis 23:59 Uhr am Tag vor dem ersten Gültigkeitstag möglich (ohne Abzug) oder innerhalb von 15 Minuten nach dem Kauf (ohne Abzug). Wird ein unbenutzter Zuschlag bis 08:00 Uhr am ersten Gültigkeitstag zurückgegeben, wird eine Bearbeitungsgebühr von 100 CZK erhoben. In allen anderen Fällen ist keine Rückerstattung möglich. [^1]
 
@@ -508,7 +530,7 @@ Grundsätzlich gilt FIP theoretisch in keinen ČD Zügen, die im Rahmen von gewo
 
 Für Verkehre, die von regionalen Gemeinden vergeben werden (Züge der Kategorie `SP` und `OS`), gilt FIP in einigen Regionen überhaupt nicht.
 
-Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#gültigkeit-fip-tickets) genutzt werden.
+Als Orientierung kann die [FIP Gültigkeitekarte für Tschechien](#tarifliche-besonderheiten) genutzt werden.
 
 Betrofene Regionen im Detail:
 
@@ -644,19 +666,6 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
 
 {{% /dialog %}}
 
-### Busse und Ersatzverkehr
-
-FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden, ausgenommen davon sind Schienenersatzverkehre.
-
-Für einige Verbindungen sind jedoch vergünstigte Tickets verfügbar:
-
-- Václav Havel Airport Prague (Prag Flughafen) – Praha hl. n. (Prag Hauptbahnhof)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-Auf anderen Verbindungen gelten keine FIP Ermäßigungen.
-
-Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt an einem ČD Ticketschalter, Fahrkartenautomaten (kein FIP verfügbar) oder im ČD-eShop (kein FIP verfügbar) gekauft werden.
-
 ### Seilbahnen
 
 FIP Ermäßigungen gelten nicht in Seilbahnen, die von der ČD betrieben werden.
@@ -673,6 +682,10 @@ FIP Tickets sind auf den durchgehenden Strecken 083 und 098 (Děčín – Rumbur
 
 Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfernung von bis zu 100 km nicht gestattet. Bei Reiseentfernungen ab 101 km ist eine Fahrtunterbrechung möglich (allerdings nicht an einem internationalen Bahnhof).
 
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 ## Empfehlungen
 
 Die ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav und Brno hl. n. können mit einem FIP 50 Ticket oder FIP Freifahrtschein der 1. Klasse genutzt werden. Dies ist auch mit Fahrkarten der 2. Klasse in Kombination mit einer Sitzplatzreservierung möglich. [^2]
@@ -683,7 +696,7 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

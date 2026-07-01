@@ -4,6 +4,10 @@ title: "ČD"
 country:
   - "czechia"
 operator: "cd"
+
+aliases:
+  - /booking/cd-ticket-office
+  - /booking/cd-website
 ---
 
 České dráhy (ČD) is the state railway company of the [Czech Republic](/country/czechia "Czech Republic") and operates a large part of passenger services on the Czech rail network.
@@ -18,36 +22,15 @@ operator: "cd"
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ČD services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="FIP validity map overview for Czechia"
-caption="[Overview FIP validity map](/en/operator/cd/cd-fip-map-overview-26.webp) for Czechia (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 On some routes and in some regions, FIP benefits are not valid, even if the services are operated by ČD. Some routes also require a surcharge.
 
-For a first impression, the overview map for FIP benefits in Czechia can be used.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="FIP validity map detail for Czechia"
-caption="[Detailed FIP validity map](/en/operator/cd/cd-fip-map-detail-26.webp) for Czechia (© Petr Duda)"
-width="40%"
-position="left" >}}
-For detailed information, the detailed map for FIP benefits can be used.
-
-Further information: [ČD services without FIP](#čd-services-without-fip) and [ČD commercial services (surcharge required)](#čd-commercial-services-surcharge-required)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Further information in the [Special Tariff Conditions](#special-tariff-conditions) on this page.
+{{% /highlight %}}
 
 ## Train Categories and Reservations
 
@@ -70,7 +53,7 @@ In 1st class, passengers receive a small refreshment; in 2nd class, a bottle of 
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory in both classes.
 
@@ -98,7 +81,7 @@ The trains feature modern rolling stock in the ÖBB Railjet style, but with blue
 Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP Tickets.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Seat reservations are possible, and mandatory in Business Class.
 {{% /train-category %}}
@@ -134,7 +117,7 @@ Long-distance trains with high comfort, stopping only at major stations. Some ar
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains (see [trains with mandatory reservations](#trains-with-mandatory-reservations)).
 {{% /train-category %}}
@@ -221,9 +204,29 @@ For Nightjet trains, reservations/supplements for sleeping and couchette cars ca
 National free travel for Deutsche Bahn employees is not recognized in Germany. If any part of the Nightjet journey is in Germany (start, end, or transit), DB employees must purchase a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with an FIP Coupon, a reservation/supplement for sleeping and couchette cars is required. The only exception is if the train also operates as an IC or EC on the German section, then this part can be used with DB free travel.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 Depends on route, occupancy, and coach category.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+FIP Coupons are not valid on buses operated by ČD. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
+Discounted FIP tickets are available for some bus services:
+
+- Václav Havel Airport Prague – Praha hl. n. (Prague Main Station)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+No FIP discounts apply on other bus services.
+
+A ticket (reservation mandatory) must be purchased at the latest 15 minutes before departure. Tickets with FIP discount are available at ČD ticket offices. Tickets without discount can also be purchased at ticket machines or in the ČD eShop.
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -244,6 +247,12 @@ Depends on route, occupancy, and coach category.
 
 {{% booking id="cd-ticket-office" /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Czechia, with ticket portion only for the Czech section. For Deutsche Bahn employees only."
+/%}}
+
 ### On the Train
 
 FIP-discounted tickets can only be purchased on the train if departure is from a station where the ticket office is closed.
@@ -254,11 +263,24 @@ For regular tickets, children up to 6 years travel free in 2nd class. Children u
 
 ## Special Tariff Conditions
 
+On some routes and in some regions, FIP benefits are not valid, even if the services are operated by ČD. Some routes also require a surcharge.
+
+For an overview of validity, the overview map can be used here. More detailed information can be found in the detailed map and the specific rules in the following sections on [ČD Commercial Services (Surcharge Required)](#čd-commercial-services-surcharge-required) and [ČD Services Without FIP](#čd-services-without-fip).
+
+{{% columns %}}
+{{% column width="50%" %}}
+![[Overview FIP validity map (full view)](/en/operator/cd/cd-fip-map-overview-26.webp) for Czechia (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Detailed FIP validity map (full view)](/en/operator/cd/cd-fip-map-detail-26.webp) for Czechia (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
+
 ### ČD Commercial Services (Surcharge Required)
 
 On so-called _commercial_ services operated by ČD, a surcharge must be purchased. These usually include only certain trains in the `SC`, `EC`, `IC`, and `R` categories. [^3]
 
-The [FIP validity maps for Czechia](#validity-of-fip-tickets) can be used as a guide.
+The [FIP validity maps for Czechia](#special-tariff-conditions) can be used as a guide.
 
 Affected services in detail:
 
@@ -487,7 +509,7 @@ Meanings of route numbers can be found in the [ČD route network](https://www.sp
 
 For trains with mandatory reservations listed there, special rules apply—see [Trains with Mandatory Reservations](#trains-with-mandatory-reservations).
 
-The surcharge costs 250 CZK (as of February 2026) and can be purchased before departure at a ČD Ticket Office or on board (please contact the train staff directly). The validity of the surcharge matches the current field on the FIP Coupon (2 days) and is valid on all commercial services. [^3]
+The surcharge costs 250 CZK (as of February 2026) and can be purchased before departure at a ČD Ticket Office, on board (please contact the train staff directly) or online. The validity of the surcharge matches the current field on the FIP Coupon (2 days) and is valid on all commercial services. [^3] Online purchases are possible only on the [ČD website in Czech here](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) (_Jednorázový příplatek na komerční vlaky a vybrané linky_, choose the date and on the next page after clicking _Koupit_ the website can be switched to English again).
 
 Refunds for surcharges are possible until 23:59 on the day before the first day of validity (no deduction) or within 15 minutes of purchase (no deduction). If an unused surcharge is returned by 08:00 on the first day of validity, a handling fee of 100 CZK is charged. In all other cases, no refund is possible. [^1]
 
@@ -508,7 +530,7 @@ In principle, FIP is not valid on any ČD trains that operate under public tende
 
 For services contracted by regional authorities (trains in the `SP` and `OS` categories), FIP is not valid at all in some regions.
 
-The [FIP validity map for Czechia](#validity-of-fip-tickets) can be used as a guide.
+The [FIP validity map for Czechia](#special-tariff-conditions) can be used as a guide.
 
 Affected regions in detail:
 
@@ -644,19 +666,6 @@ The list is also provided by ČD: [ČD commercial trains 2026 (page 18)](https:/
 
 {{% /dialog %}}
 
-### Buses and Replacement Services
-
-FIP Coupons are not valid on buses operated by ČD, except for rail replacement services.
-
-For some connections, discounted tickets are available:
-
-- Václav Havel Airport Prague – Praha hl. n. (Prague Main Station)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-No FIP discounts apply on other connections.
-
-A ticket (reservation required) must be purchased at least 15 minutes before departure at a ČD ticket office, ticket machine (no FIP available), or in the ČD eShop (no FIP available).
-
 ### Cable Cars
 
 FIP discounts are not valid on cable cars operated by ČD.
@@ -669,9 +678,13 @@ FIP discounts are not valid on special trains and historic services operated by 
 
 FIP Tickets are valid on the through routes 083 and 098 (Děčín – Rumburk via Dolní Žleb and Dolní Poustevna and back) even for journeys that leave and re-enter Czechia. However, boarding or alighting at an international station is not permitted.
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted on domestic journeys up to 100 km. For journeys of 101 km or more, interruption is possible (but not at an international station).
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -683,7 +696,7 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

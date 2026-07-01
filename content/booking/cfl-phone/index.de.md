@@ -20,4 +20,4 @@ Zur Authentifizierung der FIP-Berechtigung muss ein Foto der Innenseite des FIP-
 
 **Die CFL erhebt eine Buchungsgebühr von 5 € pro Buchung.**
 
-{{% satellite %}}
+{{% satellite /%}}

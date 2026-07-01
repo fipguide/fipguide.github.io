@@ -19,7 +19,7 @@ In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [S
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zug- und Busbetreiber](#zug--und-busbetreiber), sowie bei den [Schiffbetreibern](#betreiber-von-schiffen). FIP Freifahrtscheine gelten mit wenigen Ausnahmen auch überall.
 
@@ -146,7 +146,7 @@ Außerdem werden von FART zwei Kleinseilbahnen betrieben. Bei diesen ist nicht b
 
 Im Busverkehr wird FIP vollständig anerkannt.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind nur während der Weihnachtsmärkte und dem Raduno degli Spazzacamini (dem internationalen Kaminfegertreffen) in Santa Maria Maggiore erforderlich.
 
@@ -233,6 +233,10 @@ Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 - Seilbahn Mürren – Allmendhubel (SMA)
 - Luftseilbahn Stechelberg – Mürren – Schilthorn (LSMS)
 
+{{% highlight inofficial %}}
+Uns wurde berichtet, dass die Mitnahme von Wintersportausrüstung (Ski, Snowboard) bei den Jungfraubahnen bei der Nutzung von FIP nicht möglich ist.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -263,7 +267,7 @@ Die Busse und Schmalspurbahnen können mit FIP genutzt werden, bei der Standseil
 %}}
 Die Matterhorn Gotthard Bahn besitzt ein 144 Kilometer langes Streckennetz in den Kantonen Wallis, Uri und Graubünden. Während auf einigen Strecken alle FIP Vergünstigungen anerkannt werden, ist dies auf der Strecke zwischen Zermatt und Gornergrat nicht der Fall. Dort können lediglich FIP 50 Tickets genutzt werden. Der Autotransport durch den Furka Tunnel ist komplett von FIP ausgenommen. Auf den Buslinien wird FIP komplett anerkannt.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist erforderlich beim Glacier Express, der von MGB und der Rhätischen Bahn (RhB) gemeinsam betrieben wird, siehe [eigener Abschnitt](#glacier-express).
 
@@ -273,16 +277,6 @@ Eine Reservierung ist erforderlich beim Glacier Express, der von MGB und der Rh�
 - Brig – Disentis
 - Andermatt – Göschenen
 
-{{% /train-category %}}
-
-{{% train-category
-    id="mib"
-    title="Meiringen-Innertkirchen Bahn (MIB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-%}}
-Die Meiringen-Innertkirchen-Bahn, abgekürzt MIB, ist eine meterspurige Schmalspurbahn im Kanton Bern. Sie wird in der Zwischenzeit von der Zentralbahn betrieben, alle Details sind daher unter "Zentralbahn (ZB)" zu finden.
 {{% /train-category %}}
 
 {{% train-category
@@ -299,7 +293,7 @@ Daneben ist sie auch das betreibende Eisenbahnverkehrsunternehmen auf den Streck
 
 FIP ist gültig auf den kompletten unten genannten Routen der MOB. Zwischen Zweisimmen und Interlaken Ost werden die Züge jedoch durch die BLS AG betrieben. Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sein müssen, um die komplette Strecke zu befahren. FIP 50 Tickets können durchgehend gebucht werden.
 
-#### Reservierung
+#### Reservierungen
 
 Für den GoldenPass Express (Durchgehende Züge von Montreux bis Interlaken Ost) und GoldenPass Panoramic (Züge zwischen Montreux und Zweisimmen), die beide in der Verbindungsauskunft als `PE` gekennzeichnet werden, ist eine Mitfahrt ohne Sitzplatzreservierung nur möglich, wenn noch Plätze frei sind. Ansonsten kann über die [Website der MOB](https://www.mob.ch/de/routing/routing-goldenpass-panoramic/tickets) eine kostenpflichtige Reservierung erworben werden. Für bestimmte Panoramawagen beim GoldenPass Panoramic kann zusätzlich vor Ort ein Zuschlag erhoben werden.
 
@@ -445,7 +439,7 @@ Die Rhätische Bahn ist ein Eisenbahnverkehrsunternehmen, das hauptsächlich im 
 
 FIP ist fast auf allen Verbindungen gültig. Keine Vergünstigungen bestehen auf den Autozügen durch die Albula und Vereina Tunnel.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Abschnitt](#glacier-express). Für den Bernina Express, verkehrt auf der Strecke Chur – Tirano als `PE`, muss neben der Reservierung ein Aufschlag gezahlt werden, siehe [eigener Abschnitt](#bernina-express).
 
@@ -503,7 +497,7 @@ FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweiz
 In einigen Zügen ist ein Panoramaaufschlag in Höhe von 1,50 € zu zahlen. Die betroffenen Zugverbindungen sind nur [Online auf der Centovalli Website](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) und nicht über die Verbindungsauskunft einsehbar. Der Zuschlag kann [online](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) oder vor Ort im Zug erworben werden.
 {{% /highlight %}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind nur während der Weihnachtsmärkte und dem Raduno degli Spazzacamini (dem internationalen Kaminfegertreffen) in Santa Maria Maggiore erforderlich.
 
@@ -552,7 +546,7 @@ Die SZU betreibt die beiden S-Bahn Linien S4 und S10 der S-Bahn Zürich. Diese f
 %}}
 Die Thurbo AG ist eine Eisenbahngesellschaft in der Ostschweiz sowie im grenzüberschreitenden Verkehr mit Deutschland und Österreich. Sie betreibt diverse S-Bahn Linien der S-Bahn St. Gallen sowie der S-Bahn Zürich. Dazu kommen noch einzelne `RE` Verbindungen.
 
-FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die internationalen Abschnitte werden dagegen in Deutschland von der SBB GmbH und in Österreich von der ÖBB übernommen. Nach Österreich wird daher zusätzlich ein Freifahrtschein der ÖBB benötigt, die Strecken nach Deutschland sind mit FIP nicht nutzbar. Eine Ausnahme stellt die Fahrt von der Schweiz bis Konstanz dar, da Konstanz als Grenzbahnhof gilt. FIP 50 Tickets können für alle Strecken innerhalb der Schweiz sowie den Strecken nach Österreich und nach Konstanz erworben werden.
+FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die internationalen Abschnitte werden dagegen in Deutschland von der SBB GmbH und in Österreich von der ÖBB übernommen. Nach Österreich wird daher zusätzlich ein Freifahrtschein der ÖBB benötigt, die Strecken nach Deutschland sind mit FIP nicht nutzbar. Ausnahmen stellen die Fahrten von der Schweiz bis Konstanz und bis Waldshut dar, da diese als Grenzbahnhöfe gelten. FIP 50 Tickets können für alle Strecken innerhalb der Schweiz sowie den Strecken nach Österreich, nach Konstanz und nach Waldshut erworben werden.
 
 #### Strecken im Linienverkehr
 
@@ -560,16 +554,17 @@ FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die 
 
 - Wil – St. Gallen – Schaffhausen (S1)
 - Nesslau-Neu St. Johann – St. Gallen – Altstätten (S2)
-- Weinfelden – St. Gallen – St. Margarethen (S5)
-- Weinfelden – Romanshorn – St. Margarethen (– Bregenz) (S7)
+- Weinfelden – St. Gallen (– St. Margrethen) (S5)
+- Weinfelden – Romanshorn (– Rorschach) (einzelne Züge: – St. Margrethen – Lindau-Insel) (S7)
 - Wil – Wattwil (S9)
 - Wil – Romanshorn (S10)
 - Sargans – Chur (S12)
 - Weinfelden – Konstanz (S14 und S44)
-- St. Gallen – Herisau (S81)
 - St. Gallen – Wittenbach (S82)
 - Herisau – St. Gallen – Konstanz (RE 1)
 - St. Gallen – Buchs SG – Sargans (RE 13)
+
+Die S5 fährt nur stündlich bis St. Margrethen, ansonsten endet sie in St. Gallen. Die S7 verkehrt stündlich zwischen Weinfelden und Rorschach und wird vereinzelt über St. Margrethen bis Lindau-Insel verlängert. Ab St. Margrethen (Grenzbahnhof) sind FIP Freifahrtscheine der ÖBB erforderlich.
 
 ##### Linien im Raum Zürich
 
@@ -577,10 +572,12 @@ FIP-Freifahrtscheine sind auf allen Strecken innerhalb der Schweiz gültig. Die 
 - Winterthur – Stein am Rhein (S29)
 - Winterthur – Weinfelden (S30)
 - Winterthur – Wil (S35)
-- Bülach – Koblenz(CH) (S36)
+- Bülach – Koblenz(CH) – Waldshut(D) (S36)
 - Winterthur – Bülach (S41)
 
 Dazu kommen noch Nachtlinien in beiden Regionen, die die normalen S-Bahn Linien in den nächtlichen Stunden ersetzen, die auch mit FIP genutzt werden können.
+
+Ab dem Fahrplanwechsel im Dezember 2026 wird die S5 zur S3 und verkehrt stündlich auf der Strecke Weinfelden – St. Gallen – St. Margrethen – Bregenz.
 {{% /train-category %}}
 
 {{% train-category
@@ -597,7 +594,7 @@ FIP-Vergünstigungen sind zwischen Martigny und Le Châtelard-Frontière auf dem
 
 Im Busverkehr gelten FIP-Vergünstigungen der SP auf allen Routen, außer auf den Strecken Salvan – La Creusaz – Van-d'en-Haut sowie Finhaut – Lac d'Emosson.
 
-#### Reservierung
+#### Reservierungen
 
 Die Züge nach 23 Uhr sind reservierungspflichtig und müssen mindestens 30 Minuten vor Abfahrt kostenlos über die [offizielle Website](https://www.mont-blanc-express.ch/de/reservierung-mont-blanc-express-fp441) getätigt werden.
 
@@ -717,11 +714,11 @@ Die WSB ist mittlerweile Teil der Aargau Verkehr AG (AVA). Alle Infos dazu siehe
     reservation_required=false
     reservation_possible=partially
 %}}
-Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – Interlaken Ost), der Luzern-Stans-Engelberg-Bahn und aus der Meiringen-Innertkirchen-Bahn besteht.
+Die Zentralbahn betreibt ein Meterspurnetz, das aus der Brünigbahn (Luzern – Interlaken Ost), der Luzern-Stans-Engelberg-Bahn und aus der Meiringen-Innertkirchen-Bahn (MIB) besteht.
 
 FIP-Vergünstigungen der SP sind auf allen drei Strecken gültig. Auch die mit `PE` gekennzeichneten Züge zwischen Luzern und Interlaken Ost sind ohne Aufschlag nutzbar.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung für den `PE` zwischen Luzern und Interlaken Ost kann über die [offizielle Website](https://shop.luzern.com/de/stories/luzern-interlaken-express) kostenpflichtig erworben werden, ist jedoch keine Pflicht.
 
@@ -914,6 +911,6 @@ Bei Fahrt mit einem Freifahrtschein ist es empfehlenswert, falls möglich auch d
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

@@ -1,5 +1,3 @@
-baseURL: "https://www.fipguide.org/"
-
 enableRobotsTXT: true
 enableGitInfo: true
 
@@ -7,18 +5,18 @@ defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 languages:
   en:
-    languageName: "English"
-    languageCode: en
+    label: "English"
+    locale: "en"
     weight: 1
     title: "FIP Guide – Fast. Clear. Community-based."
   de:
-    languageName: "Deutsch"
-    languageCode: de
+    label: "Deutsch"
+    locale: "de"
     weight: 2
     title: "FIP Guide – Schnell. Übersichtlich. Community-basiert."
   fr:
-    languageName: "Français"
-    languageCode: fr
+    label: "Français"
+    locale: "fr"
     weight: 3
     title: "FIP Guide – Rapide. Clair. Basé sur le partage."
 
@@ -30,6 +28,10 @@ module:
       target: "static"
     - source: "node_modules/@fontsource"
       target: "static/css/@fontsource"
+    - source: "node_modules/@material-symbols/svg-700/rounded"
+      target: "static/icons/material-symbols-rounded"
+  hugoVersion:
+    min: "0.160.1"
 
 related:
   includeNewer: true

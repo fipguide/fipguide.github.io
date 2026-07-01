@@ -4,6 +4,7 @@ title: "Site Web Caledonian Sleeper"
 description: "Informations de réservation pour le site web Caledonian Sleeper."
 params:
   fip_50: false
+  fip_75: false
   reservations: true
   booking_link: "https://www.sleeper.scot/"
   additional_info_link: "https://www.sleeper.scot/help-support/room-supplements/"

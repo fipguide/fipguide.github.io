@@ -4,6 +4,10 @@ title: "ČD"
 country:
   - "czechia"
 operator: "cd"
+
+aliases:
+  - /booking/cd-ticket-office
+  - /booking/cd-website
 ---
 
 České dráhy (ČD) est la compagnie ferroviaire nationale de la [République tchèque](/country/czechia "République tchèque") et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.
@@ -18,36 +22,15 @@ operator: "cd"
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="Carte de validité FIP vue d’ensemble pour la Tchéquie"
-caption="[Carte de validité FIP vue d’ensemble](/en/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 Sur certaines lignes et dans certaines régions, les avantages FIP ne sont pas valables, même si les trains sont exploités par ČD. Certaines lignes nécessitent également un supplément.
 
-Pour un premier aperçu, la carte de validité FIP pour la Tchéquie peut être consultée.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="Carte de validité FIP détaillée pour la Tchéquie"
-caption="[Carte de validité FIP détaillée](/en/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)"
-width="40%"
-position="left" >}}
-Pour des informations détaillées, la carte détaillée de validité FIP peut être consultée.
-
-Plus d’informations : [Services ČD sans FIP](#services-čd-sans-fip) et [Liaisons commerciales ČD (supplément obligatoire)](#liaisons-commerciales-čd-supplément-obligatoire)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Plus d’informations dans les [Conditions tarifaires spéciales](#conditions-tarifaires-spéciales) sur cette page.
+{{% /highlight %}}
 
 ## Catégories de trains et réservations
 
@@ -70,7 +53,7 @@ En 1ère classe, les passagers reçoivent une petite collation ; en 2ᵉ classe,
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 La réservation de siège est obligatoire dans les deux classes.
 
@@ -98,7 +81,7 @@ Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une li
 À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n’acceptent pas les Billets FIP.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 La réservation de siège est possible, et obligatoire en Business Class.
 {{% /train-category %}}
@@ -134,7 +117,7 @@ Trains longue distance confortables, ne s’arrêtant qu’aux principales gares
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Une réservation est obligatoire pour certains trains (voir [trains avec réservation obligatoire](#trains-avec-réservation-obligatoire)).
 {{% /train-category %}}
@@ -221,9 +204,29 @@ Pour les Nightjet, les réservations/suppléments pour voitures-lits et couchett
 La gratuité nationale pour les employés de la Deutsche Bahn n’est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 Dépend de la ligne, de l’occupation et de la catégorie.
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
+%}}
+Les Coupons FIP ne sont pas valables dans les bus exploités par ČD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
+Des Billets FIP à tarif réduit sont disponibles pour certaines liaisons en bus :
+
+- Václav Havel Airport Prague (aéroport de Prague) – Praha hl. n. (gare principale de Prague)
+- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
+
+Aucune réduction FIP n’est valable sur les autres liaisons en bus.
+
+Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes avant le départ. Les billets avec réduction FIP sont disponibles aux guichets de la ČD. Les billets sans réduction peuvent également être achetés aux automates ou via le ČD-eShop.
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -240,6 +243,12 @@ Dépend de la ligne, de l’occupation et de la catégorie.
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="cd-ticket-office" /%}}
@@ -254,11 +263,24 @@ Pour les billets ordinaires, les enfants jusqu’à 6 ans voyagent gratuitement 
 
 ## Conditions tarifaires spéciales
 
+Sur certaines lignes et dans certaines régions, les avantages FIP ne sont pas valables, même si les trains sont exploités par ČD. Certaines lignes nécessitent également un supplément.
+
+Pour un aperçu de la validité, la carte de vue d’ensemble peut être consultée ici. Des informations plus détaillées sont disponibles dans la carte détaillée et les règles spécifiques dans les sections suivantes sur les [Liaisons commerciales ČD (supplément obligatoire)](#liaisons-commerciales-čd-supplément-obligatoire) et les [Services ČD sans FIP](#services-čd-sans-fip).
+
+{{% columns %}}
+{{% column width="50%" %}}
+![[Carte de validité FIP vue d’ensemble (vue complète)](/fr/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Carte de validité FIP détaillée (vue complète)](/fr/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
+
 ### Liaisons commerciales ČD (supplément obligatoire)
 
 Sur les liaisons dites _commerciales_ de ČD, un supplément doit être acheté. Cela concerne généralement uniquement certains trains des catégories `SC`, `EC`, `IC` et `R`. [^3]
 
-Les [cartes de validité FIP pour la Tchéquie](#validité-des-billets-fip) peuvent servir d’orientation.
+Les [cartes de validité FIP pour la Tchéquie](#conditions-tarifaires-spéciales) peuvent servir d’orientation.
 
 Liaisons concernées en détail :
 
@@ -487,7 +509,7 @@ La signification des numéros d’itinéraire est disponible sur le [réseau fer
 
 Pour les trains à réservation obligatoire figurant dans la liste, des règles particulières s’appliquent, voir [Trains avec réservation obligatoire](#trains-avec-réservation-obligatoire).
 
-Le supplément coûte 250 CZK (à partir de février 2026) et peut être acheté avant le départ au Guichet ČD ou à bord du train (veuillez contacter directement le personnel du train). La validité du supplément correspond à la même durée que la case actuelle du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3]
+Le supplément coûte 250 CZK (à partir de février 2026) et peut être acheté avant le départ au Guichet ČD, à bord du train (veuillez contacter directement le personnel du train) ou sur Internet. La validité du supplément correspond à la même durée que la case actuelle du Coupon FIP (2 jours) et il est valable sur toutes les liaisons commerciales. [^3] L’achat en ligne est uniquement possible sur la site de la [ČD en tchèque ici](https://www.cd.cz/e-shop/in-karta/drzitel-zeleznicni-prukazky/default.htm) (_Jednorázový příplatek na komerční vlaky a vybrané linky_, choisir la date et sur la prochaine page après avoir cliqué sur _Koupit_ on peut rechanger la langue en anglais).
 
 Les remboursements de suppléments sont possibles jusqu’à 23h59 la veille du premier jour de validité (sans retenue) ou dans les 15 minutes suivant l’achat (sans retenue). Si un supplément inutilisé est restitué avant 8h00 le premier jour de validité, des frais de traitement de 100 CZK sont appliqués. Dans tous les autres cas, aucun remboursement n’est possible. [^1]
 
@@ -508,7 +530,7 @@ En principe, le FIP n’est pas valable dans les trains ČD exploités dans le c
 
 Pour les services attribués par des collectivités régionales (trains des catégories `SP` et `OS`), le FIP n’est pas du tout valable dans certaines régions.
 
-La [carte de validité FIP pour la Tchéquie](#validité-des-billets-fip) peut servir d’orientation.
+La [carte de validité FIP pour la Tchéquie](#conditions-tarifaires-spéciales) peut servir d’orientation.
 
 Régions concernées en détail :
 
@@ -644,19 +666,6 @@ La liste est également fournie par ČD : [Trains commerciaux ČD 2026 (page 18)
 
 {{% /dialog %}}
 
-### Bus et services de remplacement
-
-Les Coupons FIP ne sont pas valables dans les bus exploités par ČD, sauf pour les services de remplacement ferroviaire.
-
-Pour certaines liaisons, des billets à tarif réduit sont disponibles :
-
-- Aéroport Václav Havel Prague – Praha hl. n. (gare principale de Prague)
-- Hranice na Moravĕ – Nový Jičin – Příbor – Frýdek-Místek
-
-Aucune Réduction FIP sur les autres liaisons.
-
-Un billet (réservation obligatoire) doit être acheté au moins 15 minutes avant le départ au Guichet ČD, au distributeur (pas de FIP) ou sur l’eShop ČD (pas de FIP).
-
 ### Téléphériques
 
 Les Réductions FIP ne sont pas valables sur les téléphériques exploités par ČD.
@@ -669,9 +678,13 @@ Les Réductions FIP ne sont pas valables sur les trains spéciaux et historiques
 
 Les Billets FIP sont valables sur les lignes directes 083 et 098 (Děčín – Rumburk via Dolní Žleb et Dolní Poustevna et retour), même pour des trajets quittant puis revenant en Tchéquie. Toutefois, la montée/descente dans une gare internationale n’est pas autorisée.
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée pour les trajets intérieurs jusqu’à 100 km. Pour les trajets de 101 km ou plus, l’interruption est possible (mais pas en gare internationale).
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 
@@ -683,7 +696,7 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

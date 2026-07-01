@@ -8,6 +8,14 @@ country:
   - "united-kingdom"
   - "france"
 operator: "eurostar"
+
+aliases:
+  - /booking/eurostar-phone
+  - /booking/eurostar-ticket-office
+  - /booking/ffestiniogtravel-email
+  - /booking/ffestiniogtravel-phone
+  - /booking/internationalrail-email
+  - /booking/railtourguide-website
 ---
 
 Eurostar is an operator of high-speed trains in Western Europe. Originally, only the blue trains between London and Paris/Brussels/Amsterdam through the Eurotunnel were referred to as Eurostar. After the merger between Thalys and Eurostar, the red Thalys trains are now also referred to as Eurostar (Red). Eurostar operates in [Germany](/country/germany "Germany"), [France](/country/france "France"), the [United Kingdom](/country/united-kingdom "United Kingdom"), [Belgium](/country/belgium "Belgium"), and the [Netherlands](/country/netherlands "Netherlands").
@@ -20,7 +28,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" status="invalid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
@@ -64,11 +72,11 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 
 **FIP Global Fare:**
 
-| Route                      | Standard | Plus   |
-| -------------------------- | -------- | ------ |
-| Travel within one country  | No FIP   | No FIP |
-| Travel between 2 countries | € 18     | € 35   |
-| Travel between 3 countries | € 20     | € 40   |
+| Route                      | Standard       | Plus           |
+| -------------------------- | -------------- | -------------- |
+| Travel within one country  | No FIP         | No FIP         |
+| Travel between 2 countries | € 18 / £ 15.50 | € 35 / £ 30.50 |
+| Travel between 3 countries | € 20 / £ 17.50 | € 40 / £ 35    |
 
 {{% /train-category %}}
 
@@ -101,13 +109,23 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 ### Online
 
-Online booking of tickets is currently not possible. However, checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations)
+Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
+{{% booking id="railtourguide-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
-{{% booking id="internationalrail-email" fip_50=nil /%}}
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
-### Phone
+{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+
+### Telephone
 
 {{% booking id="eurostar-phone"
     subtitle="Only Eurostar Red"
@@ -125,7 +143,13 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     reservations=nil
 /%}}
 
-### On-site
+{{% booking id="ffestiniogtravel-phone"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
+
+### On-Site
 
 {{% booking id="eurostar-ticket-office" /%}}
 
@@ -157,7 +181,11 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 ## Discounts
 
-Children up to and including 3 years old travel free of charge but without a guaranteed seat. There are no further discounts for children. Children under 12 years must always be accompanied by an adult (unaccompanied children are not allowed). [^2]
+Children under 4 travel free of charge without a ticket but must sit on an adult's lap. A separate ticket can be purchased if a separate seat is desired. Children aged 4 and over pay the full FIP adult fare.[^1]
+
+There are no further FIP discounts for children, however, public fares offer a 30 to 50% discount, making a comparison worthwhile.[^2]
+
+Children under 12 must be accompanied by an adult. Children aged 12–15 can travel with a responsible person aged 16 or over, or as an unaccompanied minor with the correct paperwork.[^2]
 
 ## Special Tariff Conditions
 
@@ -225,8 +253,8 @@ Without FIP discount, online booking is possible via [Trainsplit](https://trains
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
-[^2]: DB Travel Market
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)

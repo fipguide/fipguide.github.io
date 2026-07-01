@@ -6,6 +6,9 @@ country:
   - "germany"
   - "switzerland"
 operator: "bsb"
+
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").
@@ -19,13 +22,13 @@ FIP discounts apply with the following operators:
 
 ## Summary
 
-- FIP 50 Tickets and FIP Coupons are accepted
-- Booking options at the Ticket Office and on the ferry
+- FIP 50 Tickets and FIP Coupons are accepted.
+- Booking options at the Ticket Office and on the ferry.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Train Categories and Reservations
 
@@ -33,7 +36,7 @@ FIP discounts apply with the following operators:
   id="ferry"
   title="Fähre"
   type="ship"
-  fip_accepted=true
+  fip_accepted=partially
   reservation_possible=false
   route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
@@ -46,6 +49,10 @@ On the following routes, cars can be transported:
 - Friedrichshafen – Romanshorn
 
 Some ships offer a restaurant or snacks and drinks.
+
+{{< highlight important >}}
+FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -73,7 +80,7 @@ The birthday ticket must be obtained at the sales points before departure.[^2]
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 A break of journey is permitted without formalities.[^1]
 
@@ -82,8 +89,14 @@ A break of journey is permitted without formalities.[^1]
 The full regular fare applies for bicycles.
 There is no discount for vehicles between Friedrichshafen and Romanshorn.
 
+### zellerSEEticket (zSEEt)
+
+FIP Card Holders receive a 50% discount on the zellerSEEticket (zSEEt). No other discounts are accepted.[^3]
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
 [^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+
+[^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)

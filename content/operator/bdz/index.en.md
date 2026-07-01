@@ -4,6 +4,9 @@ title: "BDŽ"
 country:
   - "bulgaria"
 operator: "bdz"
+
+aliases:
+  - /booking/bdz-ticket-office
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) is the state railway company of [Bulgaria](/country/bulgaria "Bulgaria") and currently operates almost all passenger services on the Bulgarian rail network.
@@ -17,7 +20,7 @@ Balgarski Darschawni Schelesnizi (BDŽ) is the state railway company of [Bulgari
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on BDŽ services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
 
@@ -38,7 +41,7 @@ International trains running between Bucharest in Romania and Sofia or Varna. Th
 
 Some overnight trains also include couchette or sleeper cars, which can be used with a corresponding reservation.
 
-#### Reservation
+#### Reservations
 
 A seat reservation is mandatory in both classes.
 {{% /train-category %}}
@@ -52,7 +55,7 @@ A seat reservation is mandatory in both classes.
 %}}
 Relatively fast trains connecting major cities with few stops. They often use more modern rolling stock, e.g., former DB IC coaches. Overnight trains may include couchette or sleeper cars, which require a reservation.
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains (marked with _R_).
 {{% /train-category %}}
@@ -66,7 +69,7 @@ A reservation is required for some trains (marked with _R_).
 %}}
 National trains connecting cities with few stops.
 
-#### Reservation
+#### Reservations
 
 A reservation is required for some trains (marked with _R_).
 {{% /train-category %}}
@@ -94,7 +97,7 @@ Regional trains in domestic traffic stopping at most stations, often running mor
 
 ## Ticket and Reservation Purchase
 
-### On Site
+### On-Site
 
 {{% booking id="bdz-ticket-office" /%}}
 
@@ -112,7 +115,7 @@ For regular tickets, children under 7 years travel free. On domestic routes, chi
 
 If you wish to travel beyond the booked destination, you must pay a surcharge in addition to the ticket for the extra distance. [^1]
 
-### Break of journey
+### Break of Journey
 
 A break of journey is not permitted with a continuous ticket.
 
@@ -124,4 +127,4 @@ BDŽ still offers a relatively wide range of services on an aging rail network. 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)

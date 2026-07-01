@@ -3,24 +3,25 @@ title: "Übersicht der Länder"
 description: "Übersichtliche Darstellung aller Länder, in denen FIP-Vergünstigungen genutzt werden können. Erfahre, in welchen Ländern FIP 50 Tickets und internationale Freifahrten genutzt werden können."
 params:
   countriesWithoutFip:
-    - Albanien
+    - Åland
+    - Albanien (HSH – Hekurudha Shqiptare)
     - Andorra
-    - Belarus
-    - Estland
+    - Belarus (BČ – Belaruskaja Tschyhunka)
+    - Estland (Elron – Eesti Liinirongid)
     - Färöer
-    - Finnland
-    - Isle of Man
+    - Finnland (VR – VR-Yhtymä)
+    - Isle of Man (IoMR – Isle of Man Railways)
     - Island
+    - Kosovo (Trainkos)
     - Malta
-    - Moldau
-    - Russland
+    - Moldau (CFM – Calea Ferată din Moldova)
+    - Russland (RZD – Rossiyskie zheleznye dorogi)
     - San Marino
-    - Schweden
-    - Türkei
-    - Ukraine
+    - Schweden (SJ – SJ AB)
+    - Türkei (TCDD – Türkiye Cumhuriyeti Devlet Demiryolları)
+    - Ukraine (UZ – Ukrzaliznytsia)
     - Vatikanstadt
     - Zypern
-    - Åland
 ---
 
 Finde auf den nachfolgenden Seiten die FIP-Regelungen für Dein Reiseziel.

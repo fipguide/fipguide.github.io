@@ -4,6 +4,10 @@ title: "CFL"
 country:
   - "luxembourg"
 operator: "cfl"
+
+aliases:
+  - /booking/cfl-phone
+  - /booking/cfl-ticket-office
 ---
 
 La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie ferroviaire nationale du [Luxembourg](/country/luxembourg "Luxembourg") et la principale société ferroviaire du pays.
@@ -12,15 +16,17 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 
 - Voyage gratuit également sans FIP en deuxième classe
 - Supplément possible pour la première classe
+- Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_.
 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{< highlight important >}}
 Le Luxembourg offre la gratuité des transports publics pour les trajets intérieurs, indépendamment du FIP. Cela inclut tous les trains (sauf TGV), les tramways et les bus. Le voyage avec la CFL est donc gratuit en deuxième classe et aucun billet supplémentaire n’est requis. Le voyage en première classe nécessite un Coupon FIP ou un Billet FIP 50 de première classe. Pour les trajets au-delà du Luxembourg, par exemple vers l’Allemagne ou la Belgique, un billet est nécessaire à partir du point frontière tarifaire. Cela signifie, par exemple, qu’un billet direct, un coupon FIP valide ou une réduction nationale est requis pour voyager jusqu’au pays voisin. Un billet à partir de la première gare après la frontière n’est pas suffisant.
 {{< /highlight >}}
+Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains CFL au Luxembourg toute l’année. Cependant, ce pass est payant pour les agents de NS. [^2]
 
 ## Catégories de trains et réservations
 
@@ -66,7 +72,6 @@ Trains avec arrêt dans toutes les gares.
   title="Bus"
   type="bus"
   fip_accepted=false
-  reservation_possible=false
 %}}
 
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.
@@ -85,7 +90,7 @@ Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme
 
 {{% /train-category %}}
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 L’achat de billets n’est pertinent que pour la première classe.
 
@@ -143,4 +148,6 @@ Nous n’avons pas d’informations officielles concernant la validité des réd
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
+
+[^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)

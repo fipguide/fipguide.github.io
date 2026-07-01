@@ -42,7 +42,7 @@ operator: "{{ .File.ContentBaseName }}"
 -->
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
 
 <!--
@@ -86,7 +86,7 @@ This highlight can be added if there is a risk that the train category could be 
 Further important information can be added here.
 {{% /highlight %}}
 
-#### Reservation
+#### Reservations
 
 <!--
   Description of the reservation conditions for this train category.

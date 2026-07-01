@@ -5,10 +5,11 @@ country: "czechia"
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
+    - AŽD Praha s.r.o.
     - GW Train Regio
+    - Jindřichohradecké místní dráhy (JHMD)
     - Leo Express
     - RegioJet
-    - Jindřichohradecké místní dráhy (JHMD)
     - Trilex / Die Länderbahn
 ---
 
@@ -36,12 +37,28 @@ Die Pünktlichkeit ist solide, oft warten Anschlusszüge auch, jedoch nicht in g
 
 | Land                                                         | Grenzpunkte                                                                                                                                                                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Deutschland](/country/germany) ([DB AG](/operator/db))      | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb))       | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr)                                                                                                                                                        |
 | [Polen](/country/poland) ([PKP](/operator/pkp), KD, KŚ)      | Bohumín (Gr), Český Těšín (Gr), Głuchołazy (Gr) (Hlucholazy), Lichkov (Gr) (Plhy City), Zebrzydowice (Gr), Schlesische Woiwodschaft (Silesian Voivodeship)                                                |
 | [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Čadca (Gr), Hodonín (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr)                                                                                               |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb))       | Břeclav (Gr), Gmünd (Gr), Summerau (Gr), Retz (Gr)                                                                                                                                                        |
+| [Deutschland](/country/germany) ([DB AG](/operator/db))      | Aš (Gr), Bayerisch Eisenstein (Bavorská Železná ruda), Cheb (Gr), Dolní Poustevna (Gr), Furth Im Wald (Gr), Hrádek nad Nisou (Gr), Potůčky (Gr), Schöna (Gr), Varnsdorf (Gr), Vejprty (Gr), Vojtanov (Gr) |
 
 {{% /expander %}}
+
+### Polen
+
+Zwischen Polen und Tschechien werden regelmäßige Züge sowohl im Fern- als auch Regionalverkehr angeboten. Über Zebrzydowice und Bohumin verkehren Eurocity-Züge zwischen Krakau oder Warschau nach Ostrava (teilweise weiter bis Wien). Diese können mit FIP-Tickets der PKP und ČD plus Reservierung genutzt werden. Regionalzüge über diese beiden Grenzübergange werden sowohl teilweise von der PKP als auch der KŚ betrieben. Über Cesky Tesin verkehren Regionalzüge ins polnische Cieszyn, die auf tschechischer Seite von der ČD betrieben werden, wer diese in Polen betreibt ist uns aktuell nicht bekannt.
+
+Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kurzen Abstecher nach Polen machen und in Głuchołazy halten. Einfacher ist hier der Grenzübergang Harrachov, über den Regionalzüge zwischen Szklarska Poreba und Liberec verkehren. Diese Züge werden auf polnischer Seite von der KD und auf tschechischer Seite von der ČD betrieben.
+
+Über Lichkov fahren `EC` Züge zwischen Breslau (teilweise aus Gdingen kommend) und Prag, für die Tickets von der PKP und ČD plus Reservierung benötigt werden. Regionalzüge werden auf polnischer Seite von der KD und auf der tschechischen Seite von LEO Express betrieben. Somit sind FIP Vergünstigungen im tschechischen Abschnitt nicht gültig.
+
+### Slowakei
+
+Von der Slowakei aus können grenzüberschreitende Züge der ČD bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ŽSR benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.
+
+### Österreich
+
+Von Österreich aus können grenzüberschreitende Züge der ÖBB über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ÖBB benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brünn.
 
 ### Deutschland
 
@@ -58,19 +75,3 @@ Bei Cheb können die grenzüberschreitenden Züge der DB Regio mit FIP-Freifahrt
 Das gleiche gilt für den nördlichen Grenzübergang Aš. Ähnlich sieht es bei Furth im Wald aus, dort kann der grenzüberschreitende Regionalexpress, der in Tschechien ein EC ist, im tschechischen Abschnitt mit FIP-Ticket der ČD genutzt werden, im deutschen Abschnitt braucht es dagegen ein normales Ticket.
 
 Bei den Grenzübergängen Hrádek nad Nisou (Strecke Zittau – Liberec), Varnsdorf (Strecke Seifhennersdorf – Zittau), Vejprty (Strecke Cranzahl – Chomutov, wird nur im Sommer an Wochenenden und Feiertagen bedient) und Vojtanov (Strecke Zwickau – Cheb) ist FIP derweil nutzlos, da auf beiden Seiten der Grenze die Züge von Privatbahnen, die kein FIP akzeptieren, betrieben werden.
-
-### Österreich
-
-Von Österreich aus können grenzüberschreitende Züge der ÖBB über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ÖBB benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden. Fernverkehrsverbindungen existieren von Linz nach Prag sowie Railjets von Wien nach Prag über Brünn.
-
-### Polen
-
-Zwischen Polen und Tschechien werden regelmäßige Züge sowohl im Fern- als auch Regionalverkehr angeboten. Über Zebrzydowice und Bohumin verkehren Eurocity-Züge zwischen Krakau oder Warschau nach Ostrava (teilweise weiter bis Wien). Diese können mit FIP-Tickets der PKP und ČD plus Reservierung genutzt werden. Regionalzüge über diese beiden Grenzübergange werden sowohl teilweise von der PKP als auch der KŚ betrieben. Über Cesky Tesin verkehren Regionalzüge ins polnische Cieszyn, die auf tschechischer Seite von der ČD betrieben werden, wer diese in Polen betreibt ist uns aktuell nicht bekannt.
-
-Das Gleiche gilt für Regionalzüge zwischen Mikulovice und Krnov, die einen kurzen Abstecher nach Polen machen und in Głuchołazy halten. Einfacher ist hier der Grenzübergang Harrachov, über den Regionalzüge zwischen Szklarska Poreba und Liberec verkehren. Diese Züge werden auf polnischer Seite von der KD und auf tschechischer Seite von der ČD betrieben.
-
-Über Lichkov fahren `EC` Züge zwischen Breslau (teilweise aus Gdingen kommend) und Prag, für die Tickets von der PKP und ČD plus Reservierung benötigt werden. Regionalzüge werden auf polnischer Seite von der KD und auf der tschechischen Seite von LEO Express betrieben. Somit sind FIP Vergünstigungen im tschechischen Abschnitt nicht gültig.
-
-### Slowakei
-
-Von der Slowakei aus können grenzüberschreitende Züge der ČD bzw. ZSSK über verschiedene Strecken genutzt werden. Es wird zusätzlich ein FIP 50 Ticket oder FIP Freifahrtschein der ŽSR benötigt. Grenzüberschreitende Züge von RegioJet können nicht mit FIP genutzt werden.

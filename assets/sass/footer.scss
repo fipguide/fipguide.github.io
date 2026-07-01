@@ -41,11 +41,16 @@
 }
 
 #language-switcher-button {
-  padding-left: 0;
+  border: var(--border-visible);
+  border-radius: var(--border-radius-m);
 
   @media print {
     display: none;
   }
+}
+
+#language-switcher-dropdown .o-dropdown__item a {
+  padding: 0.8rem 3rem;
 }
 
 .footnote-backref {

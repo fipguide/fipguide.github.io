@@ -25,6 +25,8 @@ Für die Buchung ist eine Kreditkarte und Mailadresse erforderlich.
 Die ÖBB erhebt keine zusätzlichen Kosten für den Buchungsprozess.
 
 {{% satellite %}}
+Da Satellite den Rufnummernbereich +43517 [sperrt](https://help.satellite.me/mit-satellite-telefonieren/telefonie/welche-laender-sind-mit-satellite-erreichbar "Welche Länder sind mit satellite erreichbar?"), ist zunächst die Telefonzentrale der ÖBB unter [+43 (0) 1 930 000](tel:+431930000) zu wählen und anschließend nach einer Weiterleitung zur Telefonischen Buchung von Fahrkarten zu bitten.
+{{% /satellite %}}
 
 {{% booking-section "fip_50" %}}
 
@@ -40,9 +42,9 @@ Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor 
 
 ## Reservierungen
 
-Der Reservierungspreis wird pro Zug berechnet. Für Strecken mit mehreren Zügen kann es daher günstiger sein über die [Deutsche Bahn](/booking/db-website "Deutsche Bahn") zu reservieren.
+Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
 
-Dafür können bei der ÖBB Sitzplatzreservierungen jedoch storniert werden:
+ÖBB Sitzplatzreservierungen können storniert werden:
 
 - 180 Tage bis 15 Tage vor Abfahrt: 100% Erstattung des Reservierungspreises
 - 14 Tage bis 1 Tag vor Abfahrt: 50% Erstattung des Reservierungspreises
