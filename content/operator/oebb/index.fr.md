@@ -305,10 +305,6 @@ Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `E
 
 Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
-#### Eurocity Trieste
-
-Les Coupons FIP ÖBB, **mais pas FS**, sont valables dans la section italienne jusqu’à Trieste. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 2,60 € en 2ᵉ classe et 4,60 € en 1ʳᵉ classe est à payer. Pour la section slovène, un Coupon FIP SŽ ou un Billet FIP 50 est requis.
-
 ### Ligne REX63 (Pamhagen – Neusiedl am See)
 
 Sur la ligne REX63 entre Pamhagen et Neusiedl am See, les Billets FIP ÖBB et GySEV sont acceptés.

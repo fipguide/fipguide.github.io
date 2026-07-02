@@ -33,7 +33,7 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 | Country                                                                             | Border Points                                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb))                                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slovenia (SŽ)                                                                       | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Slovenia](/country/slovenia) ([SŽ](/operator/sz))                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
 | [Greece](/country/greece) ([Attica](/operator/attica))                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [France](/country/france) ([SNCF](/operator/sncf))                                  | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
@@ -55,8 +55,6 @@ On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian 
 ### Slovenia
 
 From Slovenia, regional trains can be used to enter Italy via Villa Opicina. FIP Tickets or FIP Coupons of both countries (FS and SŽ) or a through FIP Ticket (FIP 50) are required. These trains run infrequently, so planning is recommended.
-
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (Villa Opicina – Trieste), the ÖBB FIP Coupon is valid, but a small long-distance surcharge must be paid, which is much lower than typical FS long-distance surcharges.
 
 The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger traffic on special occasions.
 

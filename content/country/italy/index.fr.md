@@ -33,8 +33,8 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 | Pays                                                                           | Points frontières                                                                                   |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slovénie (SŽ)                                                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
-| [Grèce](/country/greece) (Attica)                                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
+| [Slovénie](/country/slovenia) ([SŽ](/operator/sz))                             | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Grèce](/country/greece) ([Attica](/operator/attica))                          | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [France](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 
@@ -55,8 +55,6 @@ Sur ces itinéraires, le Billet FIP ou le Coupon FIP ÖBB est également valable
 ### Slovénie
 
 Depuis la Slovénie, il est possible d’entrer en Italie par des trains régionaux via Villa Opicina. Les Billets FIP ou Coupons FIP des deux pays (FS et SŽ) ou un Billet FIP 50 direct sont nécessaires. Ces trains circulent rarement, il est donc conseillé de bien planifier son voyage.
-
-Il existe aussi des liaisons Eurocity depuis l’Autriche via la Slovénie vers Trieste (`EC` 151/134). Sur le tronçon italien (Villa Opicina – Trieste), le Coupon FIP ÖBB est valable, mais un petit supplément longue distance doit être payé, nettement inférieur aux suppléments habituels de la FS.
 
 Le passage frontalier de Nova Gorica (ligne Gorizia Centrale – Nova Gorica) n’est utilisé en trafic voyageurs qu’à des occasions particulières.
 
