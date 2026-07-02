@@ -2,7 +2,7 @@
 draft: false
 title: "Hrvatske željeznice"
 country:
-  - "greece"
+  - "croatia"
 operator: "hz"
 
 aliases:
@@ -41,7 +41,6 @@ Les trains InterCity relient les principales villes croates comme Zagreb, Split,
 
 Une réservation est obligatoire sur les trains InterCity. Les billets peuvent être achetés aux guichets des gares ou auprès du personnel en train lorsqu’aucun guichet n’est disponible.
 
-{{% /highlight %}}
 
 {{% /train-category %}}
 

@@ -11,7 +11,7 @@ params:
 
 En Croatie, la FIP est acceptée sur le réseau des Hrvatske željeznice (HŽ), la compagnie ferroviaire nationale. Les Billets FIP 50, offrant une réduction de 50 % sur le plein tarif, peuvent être achetés aux guichets HŽ ou directement dans le train lorsqu'aucun guichet n'est disponible en gare. Les réservations sont obligatoires pour les trains InterCity (IC) ainsi que pour les trains internationaux EuroCity (EC) et EuroNight (EN). Des suppléments s'appliquent sur certains trains internationaux et sur les trains de nuit. Pour les trajets internationaux, il est recommandé de s'adresser aux guichets des principales gares, où sont également proposés certains tarifs promotionnels, tels que City-Star ou Ljubljana Special.
 
-{{< identify-operator sources="bdz-website,db-website,vagonweb" />}}
+{{< identify-operator sources="hz-website" />}}
 
 ## Informations générales
 
