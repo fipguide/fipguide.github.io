@@ -183,9 +183,8 @@ hotnat:
     genannt.</p><p>Zur Nutzung von HOTNAT muss am Service Schalter vor Ort die
     Umbuchung auf den nächsten Zug erfolgen. HOTNAT gilt nur für den Umstieg von
     Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB,
-    SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel
-    und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge
-    abhängig.</p>
+    SNCB, SNCF, ÖBB) an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und
+    Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.</p>
 identify-operator:
   learn-more: Zur Website
   title: Zugbetreiber identifizieren und Verbindungen suchen
