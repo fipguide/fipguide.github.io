@@ -5,8 +5,8 @@ description: "Booking information for FIP Tickets at SBB Website."
 
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: "CHF 5"
+    second: "CHF 5"
   fip_50: true
   reservations: true
   booking_link: "https://www.sbb.ch/en"
