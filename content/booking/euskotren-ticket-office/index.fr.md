@@ -11,10 +11,16 @@ params:
 
 Sur présentation de la Carte FIP, un billet valable 7 jours est délivré dans les points de vente suivants.
 
-- **Bilbao** : Gare Zazpikaleak ([Google Maps](https://maps.app.goo.gl/hvwrJBTd35r4j2eP8))
+- **Bilbao** :
+  - Gare Zazpikaleak ([Google Maps](https://maps.app.goo.gl/hvwrJBTd35r4j2eP8))
+  - Gare Matiko-Bilbao ([Google Maps](https://maps.app.goo.gl/edtRXCTbHB2FMcrc6)) [^2]
 - **Donostia – San Sebastián** : Gare Amara-Donostia ([Google Maps](https://maps.app.goo.gl/er4tJougg2do4kqC9))
 - **Gernika** – Gare Gernika ([Google Maps](https://maps.app.goo.gl/BvsrXzc7Y2s8bnx57))
 - **Durango** – Gare Durango ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))
 - **Hendaye** – Gare Hendaye ([Google Maps](https://maps.app.goo.gl/YZV2uBX66KpiyCjZ7)) [^1]
 
+## Sources
+
 [^1]: [Euskotren vend des Billets FIP 50 à Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)
+
+[^2]: [FIP Guide Community – Feedback](https://discord.com/channels/1250522473188032512/1433789686039707688/1521975127938433277)
