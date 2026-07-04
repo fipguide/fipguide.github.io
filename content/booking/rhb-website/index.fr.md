@@ -5,8 +5,8 @@ description: "Informations sur la réservation de Billets FIP via le site web de
 
 params:
   classes:
-	first: "5 CHF"
-	second: "5 CHF"
+    first: "5 CHF"
+    second: "5 CHF"
   fip_50: true
   reservations: true
   booking_link: "https://tickets.rhb.ch/en/routing"
