@@ -37,7 +37,7 @@ Particularly scenic are the routes along the Carpathians, for example between Pl
 | Moldova (CFM) | Iasi, Ungheni (fr) |
 | [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr) |
 | [Serbia](/country/serbia) ([SV](/operator/sv)) | Jimbolia (fr) (Serbian: Жомбољ), Vršac (fr) (Serbian: Вршац) |
-| Hungary (MÁV) | Biharkeresztes (fr), Curtici (fr) (Hungarian: Kürtös), Nyirábrány (fr), Salonta (fr) (Hungarian: Nagyszalonta, Szalonta) |
+| [Hungary](/country/hungary) ([MÁV](/operator/mav)) | Biharkeresztes (fr), Curtici (fr) (Hungarian: Kürtös), Nyirábrány (fr), Salonta (fr) (Hungarian: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
 

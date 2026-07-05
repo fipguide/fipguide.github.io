@@ -14,6 +14,8 @@ params:
 
 Auf der Buchungswebsite der MÁV werden FIP 50 Tickets und Reservierungen für Verbindungen der MÁV und GySEV verkauft.
 
+Die MÁV bietet auch eine [App](https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/mav-applikacio) an, über welche FIP 50 Tickets und Reservierungen gekauft werden können.
+
 ![MÁV Website Übersicht](mav-website-overview.webp)
 
 {{% booking-section "fip_50" %}}

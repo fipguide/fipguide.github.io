@@ -30,7 +30,7 @@ The trains in Serbia are mostly older and less modern, away from the main routes
 
 | Country                                                    | Border Points                                          |
 | ---------------------------------------------------------- | ------------------------------------------------------ |
-| Hungary (MÁV)                                              | Röszke (Gr), Subotica (Gr)                             |
+| [Hungary](/country/hungary) ([MÁV](/operator/mav))         | Röszke (Gr), Subotica (Gr)                             |
 | [Romania](/country/romania) ([CFR](/operator/cfr))         | Jimbolia (fr), Vršac (fr)                              |
 | [Bulgaria](/country/bulgaria) ([BDZ](/operator/bdz))       | Dimitrovgrad (fr)                                      |
 | North Macedonia (ŽRSM)                                     | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |

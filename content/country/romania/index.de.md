@@ -37,7 +37,7 @@ Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwis
 | Moldau (CFM) | Iasi, Ungheni (fr) |
 | [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
 | [Serbien](/country/serbia) ([SV](/operator/sv)) | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац) |
-| Ungarn (MÁV) | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
+| [Ungarn](/country/hungary) ([MÁV](/operator/mav)) | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
 
