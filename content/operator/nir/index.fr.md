@@ -56,6 +56,12 @@ NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [C
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### En ligne
 
 Les Billets FIP 50 / FIP 75 ne peuvent pas être achetés en ligne.

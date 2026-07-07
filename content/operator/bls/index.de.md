@@ -101,6 +101,11 @@ FIP ist auf den Schiffen der BLS auf dem Thunersee und Brienzersee gültig.
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="sbb-website"/%}}

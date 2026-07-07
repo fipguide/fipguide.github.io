@@ -182,6 +182,11 @@ Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.

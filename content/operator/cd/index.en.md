@@ -233,6 +233,11 @@ A ticket (reservation mandatory) must be purchased at the latest 15 minutes befo
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="cd-website" /%}}

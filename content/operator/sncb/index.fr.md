@@ -163,6 +163,12 @@ Trains supplémentaires vers certaines destinations touristiques, souvent simple
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### En ligne
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.

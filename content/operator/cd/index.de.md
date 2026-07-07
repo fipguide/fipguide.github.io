@@ -233,6 +233,11 @@ Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt 
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="cd-website" /%}}

@@ -1,0 +1,32 @@
+{{- $filters := slice -}}
+{{- $filterConfig := dict
+  "reservations" "booking.reservation"
+  "fip_global_fare" "booking.fip-global-fare"
+  "fip_50" "booking.fip-50"
+  "fip_75" "booking.fip-75"
+-}}
+{{- range $key, $label := $filterConfig -}}
+  {{- $param := $.Get $key -}}
+  {{- if or (eq $param true) (eq $param "true") -}}
+    {{- $filters = $filters | append $key -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $filters) 0 -}}
+  <div
+    class="o-booking-filters"
+    role="group"
+    aria-label="{{ T "booking.filter-label" }}"
+  >
+    {{- range $filters -}}
+      <button
+        class="a-booking-filter-chip"
+        type="button"
+        data-filter="{{ . }}"
+        aria-pressed="false"
+      >
+        {{- partial "icon" "filter_list" -}}
+        <span>{{ T (index $filterConfig .) }}</span>
+      </button>
+    {{- end -}}
+  </div>
+{{- end -}}

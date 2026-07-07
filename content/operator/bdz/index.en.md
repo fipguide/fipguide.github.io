@@ -97,6 +97,11 @@ Regional trains in domestic traffic stopping at most stations, often running mor
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### On-Site
 
 {{% booking id="bdz-ticket-office" /%}}

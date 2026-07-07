@@ -53,6 +53,11 @@ Auf Lounges und Kabinen wird kein FIP-Rabatt gewährt. [^1]
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 FIP-Tickets müssen vor Reiseantritt erworben werden. Der Kauf an Bord von Schiffen ist nicht möglich.
 FIP gewährt lediglich einen Rabatt auf den Fahrpreis, alle zusätzlichen Leistungen werden zum vollen Preis berechnet. Hierzu gehören unter anderem die Reservierungskosten für Kabinen, Mitnahme von Fahrzeugen sowie zu entrichtende Hafengebühren und Umweltabgaben.
 Mit einem FIP Freifahrtschein ist der Fahrpreis kostenlos.

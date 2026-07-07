@@ -92,6 +92,11 @@ Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 L’achat de billets n’est pertinent que pour la première classe.
 
 {{% highlight tip %}}

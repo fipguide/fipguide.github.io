@@ -233,6 +233,11 @@ Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes 
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="cd-website" /%}}

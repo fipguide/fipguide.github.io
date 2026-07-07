@@ -230,6 +230,11 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzv
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="oebb-website" /%}}

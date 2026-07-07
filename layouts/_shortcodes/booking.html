@@ -23,6 +23,12 @@
 -}}
 
 
-<details class="o-expander o-expander--booking">
+<details
+  class="o-expander o-expander--booking"
+  data-booking-reservations="{{ $params.reservations }}"
+  data-booking-fip_50="{{ $params.fip_50 }}"
+  data-booking-fip_75="{{ $params.fip_75 }}"
+  data-booking-fip_global_fare="{{ $params.fip_global_fare }}"
+>
   {{- partial "booking" $params -}}
 </details>

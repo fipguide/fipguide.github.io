@@ -104,6 +104,11 @@ Selon des retours d’expérience, le chemin de fer à crémaillère entre Diako
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="ht-website"

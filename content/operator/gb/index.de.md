@@ -426,6 +426,12 @@ West Midlands Trains betreibt Nah- und Regionalverkehr unter zwei Marken: London
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht auf alle Tickets wird ein FIP 50 / FIP 75 Rabatt gewährt. Die [BR Fares Website](https://www.brfares.com/) ermöglicht es, nach Tarifen auf einer Strecke zu suchen, indem man "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigung hinzufügt.
 
 - **Anytime Tickets:** \

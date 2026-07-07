@@ -118,6 +118,11 @@ Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dan
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="mav-website" /%}}

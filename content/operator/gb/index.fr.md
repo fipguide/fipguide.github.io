@@ -426,6 +426,12 @@ West Midlands Trains exploite des liaisons locales et régionales sous deux marq
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP 50 / FIP 75 n’est pas accordée sur tous les billets. Le [site BR Fares](https://www.brfares.com/) permet de rechercher des tarifs sur une ligne en ajoutant "FIP Discount 50%" ou "FIP Discount 75%" comme réduction.
 
 - **Billets Anytime :** \

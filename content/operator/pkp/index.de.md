@@ -221,6 +221,11 @@ FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modl
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="pkp-website"

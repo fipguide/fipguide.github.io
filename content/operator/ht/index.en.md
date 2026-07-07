@@ -104,6 +104,11 @@ According to experience reports, the rack railway between Diakopto and Kalavryta
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="ht-website"

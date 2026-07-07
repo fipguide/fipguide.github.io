@@ -101,6 +101,11 @@ Le FIP est valable sur les bateaux de la BLS sur le lac de Thoune et le lac de B
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="sbb-website"/%}}

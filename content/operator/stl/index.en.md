@@ -86,6 +86,11 @@ No FIP discount is granted on cabins. [^2]
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 FIP tickets must be purchased before the journey. Purchase on board the ships is not possible.
 FIP only grants a discount on the fare; all additional services are charged at full price. These include, among others, cabin reservation costs, vehicle transport, as well as port fees and environmental charges.
 With a FIP Coupon, the fare is free of charge.

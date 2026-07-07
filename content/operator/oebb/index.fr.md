@@ -240,6 +240,11 @@ Dans les Railjet(Xpress) :
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="oebb-website" /%}}

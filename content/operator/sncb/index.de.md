@@ -162,6 +162,12 @@ Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` 
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### Online
 
 Nationale Verbindungen können online leider nicht erworben werden.

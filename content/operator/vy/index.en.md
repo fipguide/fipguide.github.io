@@ -239,6 +239,11 @@ With a 2nd class FIP Card / FIP Coupon, journeys in 1st class can be booked for 
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 FIP Tickets and reservations cannot be booked as self-service, but can be obtained via chat, telephone hotline or at the station ticket offices.
 
 For reservations in seat, couchette or sleeper cars, a reservation fee must be paid regardless of the carriage class.

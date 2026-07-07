@@ -215,6 +215,11 @@ Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont 
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  fip_global_fare=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 Les Billets FIP Global et FIP 50 ne peuvent pas être achetés en ligne.

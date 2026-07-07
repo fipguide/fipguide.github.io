@@ -164,6 +164,12 @@ Additional trains to certain tourist destinations, often simply referred to as `
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+  fip_75=true
+%}}
+
 ### Online
 
 Domestic journeys unfortunately cannot be purchased online.

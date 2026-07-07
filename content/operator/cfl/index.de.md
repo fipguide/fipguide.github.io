@@ -93,6 +93,11 @@ Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Um
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 Der Ticketkauf ist nur für die erste Klasse relevant.
 
 {{% highlight tip %}}

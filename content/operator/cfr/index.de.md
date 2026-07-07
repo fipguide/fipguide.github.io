@@ -138,6 +138,11 @@ Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennz
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website"

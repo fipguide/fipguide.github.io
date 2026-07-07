@@ -101,6 +101,11 @@ FIP is valid on BLS ships on Lake Thun and Lake Brienz.
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="sbb-website"/%}}

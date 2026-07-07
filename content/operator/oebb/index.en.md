@@ -239,6 +239,11 @@ Railjet(Xpress) trains have special class categories:
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="oebb-website" /%}}
