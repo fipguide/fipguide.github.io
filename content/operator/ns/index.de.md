@@ -162,6 +162,23 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 {{% /train-category %}}
 
+{{% train-category
+    id="r-net"
+    title="R-net NS Sprinter"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
+
+{{% highlight confusion %}}
+R-net (Randstadnet) ist ein Verkehrskonzept in der Metropolregion Randstad, welches von mehreren Betreibern in einheitlichem rot-grauem Fahrzeug-Branding betrieben wird. Es umfasst Züge, U-Bahnen, Straßenbahnen und Busse. Mit FIP ist ausschließlich die R-net Verbindung von Alphen aan den Rijn nach Gouda nutzbar, die von der NS betrieben wird. Alle anderen R-net Verbindungen sind mit FIP nicht nutzbar.
+
+In der Verbindungsauskunft der NS werden die Verbindungen als `R-net NS Sprinter` gekennzeichnet. In anderen Auskunftsmedien, z. B. der DB, wird die Verbindung gegebenenfalls nur als `RE` des Betreibers "R-net" angegeben.
+{{% /highlight %}}
+
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online

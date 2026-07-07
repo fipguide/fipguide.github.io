@@ -31,7 +31,7 @@ Les agents de [SNCB / NMBS](/operator/sncb) peuvent obtenir un _Unlimited Pass_ 
 
 ## Catégories de trains et réservations
 
-Aucune réservation n’est requise pour les trains NS aux Pays-Bas, et elle n’est généralement pas possible. Pour les trains internationaux `ICE` vers l’Allemagne, la réservation est possible et sera obligatoire en été 2025 (uniquement pour les trajets transfrontaliers).
+Aucune réservation n’est requise pour les trains NS aux Pays-Bas, et elle n’est généralement pas possible. Pour les trains internationaux `ICE` vers l’Allemagne, la réservation est possible et sera obligatoire en été 2026 (uniquement pour les trajets transfrontaliers).
 
 Un supplément est partiellement nécessaire pour les trains Eurocity Direct et Intercity Direct.
 
@@ -161,6 +161,23 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
     reservation_required=false
 %}}
 Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares du parcours.
+{{% /train-category %}}
+
+{{% train-category
+    id="r-net"
+    title="R-net NS Sprinter"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Trains régionaux avec le branding R-net rouge-gris sur la ligne d’Alphen aan den Rijn à Gouda.
+
+{{% highlight confusion %}}
+R-net (Randstadnet) est un concept de transport dans la région métropolitaine de la Randstad, exploité par plusieurs opérateurs avec un branding uniforme rouge-gris des véhicules. Il comprend des trains, métros, tramways et bus. Avec le FIP, seule la liaison R-net d’Alphen aan den Rijn à Gouda, exploitée par NS, peut être utilisée. Toutes les autres liaisons R-net ne peuvent pas être utilisées avec le FIP.
+
+Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `R-net NS Sprinter`. Dans d’autres systèmes d’information, par exemple celui de la DB, la liaison peut éventuellement être indiquée seulement comme `RE` de l’opérateur « R-net ».
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
