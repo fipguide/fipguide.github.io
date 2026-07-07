@@ -83,7 +83,14 @@ Réservation obligatoire pour les trajets transfrontaliers vers la France.
     reservation_possible=true
 %}}
 
-Trains internationaux de la catégorie la plus élevée de l’ÖBB/ČD en coopération avec la DB entre Hambourg, Berlin, Dresde et Prague ainsi que Munich, l’Autriche et l’Italie ou la Hongrie. Les Railjets avec moins d’arrêts sont commercialisés comme Railjet Xpress. Les trains disposent d’un bistro.
+Trains internationaux de la catégorie la plus élevée.
+
+Ils sont exploités par
+
+- l’ÖBB en coopération avec la DB sur la liaison entre Munich, l’Autriche et l’Italie ou la Hongrie.
+- les ČD en coopération avec la DB entre Hambourg, Berlin, Dresde et Prague. Certains trains sont prolongés jusqu’à Copenhague et circulent en plus en coopération avec la DSB.
+
+Les Railjets avec moins d’arrêts sont commercialisés comme Railjet Xpress. Les trains disposent d’un bistro.
 
 Il existe trois classes de voitures :
 
