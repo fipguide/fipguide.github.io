@@ -172,11 +172,11 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 %}}
 Trains régionaux avec le branding R-net rouge-gris sur la ligne d’Alphen aan den Rijn à Gouda.
 
-{{% highlight confusion %}}
-R-net (Randstadnet) est un concept de transport dans la région métropolitaine de la Randstad, exploité par plusieurs opérateurs avec un branding uniforme rouge-gris des véhicules. Il comprend des trains, métros, tramways et bus. Avec le FIP, seule la liaison R-net d’Alphen aan den Rijn à Gouda, exploitée par NS, peut être utilisée. Toutes les autres liaisons R-net ne peuvent pas être utilisées avec le FIP.
+{{< highlight confusion >}}
+R-net (Randstadnet) est un concept de transport dans la région métropolitaine de la Randstad, exploité par plusieurs opérateurs avec un branding uniforme rouge-gris des véhicules. Il comprend des trains, métros, tramways et bus. Avec le FIP, seule la liaison R-net d’Alphen aan den Rijn à Gouda, exploitée par NS, peut être utilisée. [^6] Toutes les autres liaisons R-net, en particulier la ligne Geldermalsen - Dordrecht (Qbuzz Stoptrein), ne peuvent pas être utilisées avec le FIP.
 
-Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `R-net NS Sprinter`. Dans d’autres systèmes d’information, par exemple celui de la DB, la liaison peut éventuellement être indiquée seulement comme `RE` de l’opérateur « R-net ».
-{{% /highlight %}}
+Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `R-net NS Sprinter`. Ne pas confondre avec le `R-net Qbuzz Stoptrein`, qui ne peut pas être utilisé avec le FIP. Dans d’autres systèmes d’information, par exemple celui de la DB, la liaison peut éventuellement être indiquée seulement comme `RE` de l’opérateur « R-net ». Ici, une distinction avec le R-net Qbuzz Stoptrein n’est possible que sur la base de la ligne !
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -255,3 +255,5 @@ NS se distingue par une grande fréquence et des connexions efficaces. Des retar
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
 
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
+
+[^6]: [FIP Guide Community: R-net NS Sprinter](https://discord.com/channels/1250522473188032512/1518627741459677204/1519419404272668733)
