@@ -4,9 +4,6 @@ title: "Hrvatske željeznice"
 country:
   - "croatia"
 operator: "hz"
-
-aliases:
-  - https://www.hzpp.hr/en
 ---
 
 Hrvatske željeznice (HŽ) est la compagnie ferroviaire nationale de Croatie et l’opérateur principal du transport de voyageurs sur l’ensemble du réseau national. Elle exploite les services régionaux, les trains rapides ainsi que les relations InterCity reliant les principales villes du pays telles que Zagreb, Split, Rijeka et Osijek.
@@ -41,7 +38,6 @@ Les trains InterCity relient les principales villes croates comme Zagreb, Split,
 
 Une réservation est obligatoire sur les trains InterCity. Les billets peuvent être achetés aux guichets des gares ou auprès du personnel en train lorsqu’aucun guichet n’est disponible.
 
-
 {{% /train-category %}}
 
 {{% train-category
@@ -69,7 +65,6 @@ Les trains EuroCity et EuroNight assurent les liaisons internationales depuis la
 Une réservation est obligatoire, ainsi que le paiement de suppléments pour les trains de nuit et certaines catégories de places.
 
 {{% /train-category %}}
-
 
 ## Catégories de classes
 
