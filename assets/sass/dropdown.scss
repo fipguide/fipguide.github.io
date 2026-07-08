@@ -118,7 +118,6 @@
     z-index: 20;
     display: none;
     position: fixed;
-    left: anchor(left);
     position-try-fallbacks: --dropdown-align-right;
     background: var(--bg-default);
     border-radius: var(--border-radius-m);
@@ -148,6 +147,11 @@
     &--right {
       right: anchor(right);
       left: auto;
+    }
+
+    &--left {
+      left: anchor(left);
+      right: auto;
     }
   }
 }
