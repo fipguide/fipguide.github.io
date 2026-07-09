@@ -1,0 +1,192 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url(https://back-on-track.eu/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+#bot-map {
+  margin: 0;
+}
+
+#bot-map text {
+  font-family: 'Montserrat', 'Arial', 'sans-serif';
+}
+
+#NIGHTTRAINS {
+  cursor: pointer;
+}
+
+.zoomed #BORDERS,
+.zoomed #CONTINENT,
+.zoomed #GRID {
+  display: none;
+}
+
+.zoomed #Rectangle-Background {
+  fill: #20456d;
+}
+
+.traininfo-overlay {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  margin: 0 !important;
+
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+
+  display: none;
+}
+
+.traininfo-overlay.active {
+  display: flex;
+}
+
+.traininfo-overlay .text-content {
+  width: 100%;
+  min-height: calc(100vh - 100vw * 1.44);
+  padding: 10px 10px 0 10px;
+  background: #fff;
+  z-index: 200;
+  overflow: scroll;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.traininfo-overlay h6 {
+  margin: 0;
+  font-size: 1.4em;
+}
+
+.traininfo-overlay .buttons {
+  margin: 10px 0;
+}
+
+.traininfo-overlay .buttons .button {
+  padding-top: 12px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  line-height: 1;
+}
+
+.traininfo-overlay .close {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  z-index: 2;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  gap: 10px;
+  margin: 0;
+}
+
+.traininfo-overlay .details {
+  margin: 10px 0;
+}
+
+.traininfo-overlay .details .button {
+  margin: 10px 0;
+}
+
+.traininfo-overlay p {
+  margin: 0;
+}
+
+.traininfo-overlay .row {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.traininfo-overlay .column {
+  margin: 6px 0;
+  width: 100%;
+}
+
+.traininfo-overlay .title {
+  font-size: 1.4em
+}
+
+.traininfo-overlay .title .agency,
+.traininfo-overlay .shortname {
+  font-weight: bold;
+  color: #2271b3;
+}
+.traininfo-overlay .itinerary {
+  padding-top: 1.5em;
+}
+.traininfo-overlay .note:not(:empty) {
+  margin-top: 10px;
+  color: #ee0000;
+}
+
+.traininfo-overlay .trainlist p {
+  margin-bottom: 4px;
+}
+
+.traininfo-overlay .trainlist a {
+  display: inline;
+}
+
+.traininfo-overlay .miniline {
+  display: inline-block;
+  width: 24px;
+  height: 6px;
+  margin: 0 6px 1px 0;
+}
+
+/* landscape format (e.g. desktop or rotated mobile) */
+@media (min-aspect-ratio: 1) {
+  .traininfo-overlay {
+    width: calc(min(33%, max(25%, 400px)));
+    height: 100%;
+  }
+  .traininfo-overlay .text-content {
+    height: 100%;
+  }
+  .traininfo-overlay h6 {
+    margin: 1.2em 0 0.6em 0;
+  }
+  .traininfo-overlay .close {
+    position: relative;
+    text-align: right;
+    margin: 0 -10px 0 0;
+  }
+  .traininfo-overlay .details {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* larger screen landscape format (e.g. desktop) */
+@media (min-aspect-ratio: 1) and (min-height: 600px) {
+  .traininfo-overlay .text-content {
+    padding: 20px;
+    font-size: 15px;
+  }
+  .traininfo-overlay .buttons .button {
+    font-size: 15px;
+    padding-top: 16px;
+    padding-bottom: 13px;
+  }
+  .traininfo-overlay .close {
+    margin: 0 -15px 0 0;
+  }
+  .traininfo-overlay .details {
+    margin: 2em 0 10px 0;
+  }
+  .traininfo-overlay p {
+    margin: 0.6em 0;
+  }
+  .traininfo-overlay .trainlist a {
+    display: block;
+  }
+  .traininfo-overlay .miniline {
+    margin-bottom: 2px;
+  }
+}

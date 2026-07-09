@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="/nighttrains/map.css" />
+
+<div id="bot-map">
+  {{ readFile "static/nighttrains/map.svg" | safeHTML }}
+</div>
+
+<div class="traininfo-overlay">
+  <div class="text-content"></div>
+</div>
+
+<script src="/nighttrains/d3.min.js"></script>
+<script src="/nighttrains/map.js"></script>
