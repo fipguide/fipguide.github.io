@@ -270,6 +270,8 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
+{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich" /%}}
+
 ### Im Zug
 
 Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufgesucht wird. Jedoch sind sie der Regel teurer als Tickets, die vorab über andere Verkaufsstellen erworben werden. Auf S-Bahn-Strecken ist der Ticketkauf vor dem Einsteigen verpflichtend.

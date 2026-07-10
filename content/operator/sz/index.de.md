@@ -39,7 +39,7 @@ Nationale Fernzüge, die mit dem Zugtyp [SŽ 310 “Pendolino”](https://potnis
 
 #### Reservierung
 
-Beim `ÌCS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verpflichtend zu erwerben. Der Aufschlag kostet aktuell 3 € und muss sowohl bei FIP rabattierten Tickets als auch bei der Nutzung von Freifahrtscheinen gezahlt werden.[^1]
+Beim `ICS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verpflichtend zu erwerben. Der Aufschlag kostet aktuell 3 € und muss sowohl bei FIP rabattierten Tickets als auch bei der Nutzung von Freifahrtscheinen gezahlt werden.[^1]
 {{% /train-category %}}
 
 {{% train-category
@@ -171,7 +171,7 @@ Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schie
 Nationale FIP Tickets können auch im Zug erworben werden, dies gilt auch bei Einreise nach Slowenien mit einem Ticket, welches nur bis zur slowenischen Grenze Gültigkeit hat.[^1]
 Fahrgäste, die an Bahnhöfen mit Fahrkartenschalter zusteigen und nicht nachweisen können, dass sie dort kein Ticket kaufen konnten, müssen zusätzlich zum Fahrpreis ein Zuschlagsentgelt zahlen.[^2]
 
-Die Aufschläge für die Zugkategorien ICS, IC, MV, EC und EN können immer zum Festpreis hier noch erworben werden.[^2] Reservierungen sollten vor Abfahrt vorhanden sein.
+Die Aufschläge für die Zugkategorien ICS, IC, MV, EC und EN können immer zum Festpreis im Zug noch erworben werden, auch wenn am Bahnhof ein Fahrtkartenschalter vorhanden ist.[^2] Reservierungen sollten vor Abfahrt vorhanden sein.
 
 Im Zug kann ausschließlich mit Bargeld in Euro gezahlt werden.
 
@@ -192,7 +192,7 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr und am Wochenende verkehren deutlich weniger Züge als unter der Woche. Daher ist gute Planung wichtig. Dafür wurden in den letzten Jahren die Verbindungen nach Österreich deutlich ausgebaut, während nach Italien und Ungarn dafür sehr wenig Züge verkehren und nach Kroatien ein solides Grundangebot vorhanden ist. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich, ein paar Kenntnisse in der Landessprache können aber gerade auf der Fahrt in Regionalzügen hilfreich sein.
+Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Durch umfangreiche Bauarbeiten zur Modernisierung und eingleisigen Abschnitten, kommt es jedoch teilweise zu Verspätungen. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr. Daher ist gute Planung wichtig. Während die Verbindungen nach Österreich in den letzten Jahren deutlich ausgebaut wurden, verkehren nach Italien und Ungarn dafür sehr wenig Züge. Nach Kroatien ist ein solides Grundangebot vorhanden. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich und spricht oftmals Englisch.
 {{% /highlight %}}
 
 ## Quellen
