@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Guichet ZOU !"
+title: "Guichet ZOU!"
 description: "Informations de réservation pour les guichets ZOU !."
 
 params:
@@ -14,7 +14,7 @@ params:
   type: "onsite"
 ---
 
-Aux guichets ZOU !, il est possible d'acheter des billets à tarif réduit FIP et de faire des réservations.[^1] Les conditions devraient être les mêmes qu'aux guichets SNCF.
+ZOU! est la marque du réseau tarifaire de la région PACA (Provence-Alpes-Côte d’Azur) dans le sud-est de la France. Aux guichets ZOU !, il est possible d'acheter des billets à tarif réduit FIP et de faire des réservations.[^1] Les conditions devraient être les mêmes qu'aux guichets SNCF.
 
 ## Sources
 

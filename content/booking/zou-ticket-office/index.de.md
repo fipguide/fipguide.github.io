@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ZOU ! Ticketschalter"
+title: "ZOU! Ticketschalter"
 description: "Buchungsinformationen für die ZOU ! Ticketschalter."
 
 params:
@@ -14,8 +14,8 @@ params:
   type: "onsite"
 ---
 
-An ZOU ! Ticketschaltern ist der Kauf von FIP rabattierten Fahrkarten und Reservierungen möglich.[^1] Die Konditionen sollten hierbei jenen der SNCF Ticketschalter entsprechen.
+ZOU! ist die Marke des Tarifverbunds in der PACA‑Region (Provence‑Alpes‑Côte d’Azur) in Südost‑Frankreich. An ZOU! Ticketschaltern ist der Kauf von FIP rabattierten Fahrkarten und Reservierungen möglich.[^1] Die Konditionen sollten hierbei jenen der SNCF Ticketschalter entsprechen.
 
 ## Quellen
 
-[^1]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1513265822477455571/1513265822477455571)
+[^1]: [FIP Guide Community – Feedback](https://discord.com/channels/1250522473188032512/1513265822477455571/1513265822477455571)

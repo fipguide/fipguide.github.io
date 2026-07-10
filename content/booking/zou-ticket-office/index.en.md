@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "ZOU ! Ticket Office"
+title: "ZOU! Ticket Office"
 description: "Booking information for ZOU ! ticket offices."
 
 params:
@@ -14,8 +14,8 @@ params:
   type: "onsite"
 ---
 
-Tickets and reservations with the FIP discount can be purchased at ZOU! ticket counters.[^1] The terms and conditions should correspond to those at SNCF ticket counters.
+ZOU! is the brand of the fare network in the PACA region (Provence-Alpes-Côte d’Azur) in southeastern France. Tickets and reservations with the FIP discount can be purchased at ZOU! ticket counters.[^1] The terms and conditions should correspond to those at SNCF ticket counters.
 
-## Quellen
+## Sources
 
-[^1]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1513265822477455571/1513265822477455571)
+[^1]: [FIP Guide Community – Feedback](https://discord.com/channels/1250522473188032512/1513265822477455571/1513265822477455571)
