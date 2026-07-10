@@ -17,7 +17,7 @@ Bei Vorlage des FIP-Ausweises wird in den folgenden Ausgabestellen ein Ticket mi
 - **Donostia – San Sebastián**: Bahnhof Amara-Donostia ([Google Maps](https://maps.app.goo.gl/er4tJougg2do4kqC9))
 - **Gernika**: Bahnhof Gernika ([Google Maps](https://maps.app.goo.gl/BvsrXzc7Y2s8bnx57))
 - **Durango**: Bahnhof Durango ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))
-- **Hendaye**: Bahnhof Hendaye ([Google Maps](https://maps.app.goo.gl/YjRpZmDKUAwB3ZZA7)) [^1]
+- **Hendaye**: Bahnhof Hendaye ([Google Maps](https://maps.app.goo.gl/YZV2uBX66KpiyCjZ7)) [^1]
 
 ## Quellen
 
