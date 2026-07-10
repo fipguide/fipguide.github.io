@@ -177,6 +177,7 @@ Vorortzüge in der Region Budapest.
 
 - https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/hev-menetrendek
 - https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
+- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
   {{% /train-category %}}
 
 {{% train-category
@@ -190,6 +191,7 @@ Vorortzüge in der Region Budapest.
 Vorortzüge in der Region Budapest.
 
 - https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
+- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
   {{% /train-category %}}
 
 {{% train-category
@@ -203,6 +205,7 @@ Vorortzüge in der Region Budapest.
 Vorortzüge in der Region Budapest.
 
 - https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
+- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
   {{% /train-category %}}
 
 {{% train-category
@@ -216,6 +219,7 @@ Vorortzüge in der Region Budapest.
 Vorortzüge in der Region Budapest.
 
 - https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
+- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
   {{% /train-category %}}
 
 ### Sonstiges
