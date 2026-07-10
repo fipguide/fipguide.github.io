@@ -73,6 +73,25 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
 {{% /train-category %}}
 
 {{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Railjet-Züge verkehren grenzüberschreitend auf der Strecke zwischen Kopenhagen und Prag via Hamburg und Berlin.
+
+In der Verbindungsauskunft der DSB werden diese Züge als `RAIL JET` angezeigt, in anderen Auskunftssystemen wie z. B. der DB als `RJ`.
+
+#### Reservierungen
+
+Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend.
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional"
     title="Regionalzug (R / RE)"
     type="regional"

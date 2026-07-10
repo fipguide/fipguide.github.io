@@ -13,6 +13,7 @@ params:
     - Île de Man (IoMR – Isle of Man Railways)
     - Îles Féroé
     - Îles Åland
+    - Kosovo (Trainkos)
     - Malte
     - Moldavie (CFM – Calea Ferată din Moldova)
     - Russie (RZD – Rossiyskie zheleznye dorogi)

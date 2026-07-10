@@ -83,7 +83,14 @@ Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
     reservation_possible=true
 %}}
 
-Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden und Prag sowie München, Österreich und Italien oder Ungarn. Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
+Internationale Schnellzüge der höchsten Kategorie.
+
+Sie werden betrieben von
+
+- der ÖBB in Kooperation mit der DB auf der Strecke zwischen München, Österreich und Italien oder Ungarn.
+- der ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden sowie Prag. Teilweise werden die Züge bis Kopenhagen verlängert und verkehren zusätzlich in Kooperation mit der DSB.
+
+Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
 
 Es gibt drei Wagenklassen:
 

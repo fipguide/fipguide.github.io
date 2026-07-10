@@ -36,7 +36,7 @@ Les lignes longeant les Carpates sont particulièrement pittoresques, par exempl
 | Ukraine (UZ) | Vicsani (fr) |
 | Moldavie (CFM) | Iasi, Ungheni (fr) |
 | [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgare : Русе), Vidin (fr) |
-| Serbie (SV) | Jimbolia (fr) (serbe : Жомбољ), Vršac (fr) (serbe : Вршац) |
+| [Serbie](/country/serbia) ([SV](/operator/sv)) | Jimbolia (fr) (serbe : Жомбољ), Vršac (fr) (serbe : Вршац) |
 | Hongrie (MÁV) | Biharkeresztes (fr), Curtici (fr) (hongrois : Kürtös), Nyirábrány (fr), Salonta (fr) (hongrois : Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
