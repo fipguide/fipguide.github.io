@@ -73,6 +73,25 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
 {{% /train-category %}}
 
 {{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Railjet trains operate cross-border on the route between Copenhagen and Prague via Hamburg and Berlin.
+
+In the DSB journey planner, these trains are shown as `RAIL JET`; in other journey planners such as DB, they are shown as `RJ`.
+
+#### Reservations
+
+A reservation is recommended for cross-border journeys and usually mandatory in the peak season (summer).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional"
     title="Regional Train (R / RE)"
     type="regional"

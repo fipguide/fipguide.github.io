@@ -73,6 +73,25 @@ Réservation conseillée et généralement obligatoire en été.
 {{% /train-category %}}
 
 {{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Les trains Railjet circulent en trafic transfrontalier sur la liaison entre Copenhague et Prague via Hambourg et Berlin.
+
+Dans la recherche d’itinéraire de la DSB, ces trains sont affichés comme `RAIL JET`, dans d’autres systèmes d’information comme celui de la DB ils sont affichés comme `RJ`.
+
+#### Réservations
+
+Une réservation est recommandée pour les trajets transfrontaliers et généralement obligatoire en haute saison (été).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional"
     title="Train régional (R / RE)"
     type="regional"
