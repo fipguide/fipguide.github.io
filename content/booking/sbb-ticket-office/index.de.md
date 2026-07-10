@@ -32,4 +32,4 @@ Reservierungen können für die Schweiz, aber auch für einen Großteil an Züge
 
 {{% /booking-section %}}
 
-Um Wartezeiten zu vermeiden, kann vorab online ein persönlicher Beratungstermin vereinbart werden: [Beratungstermin buchen](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/weitere-services/weitere-sbb-services/beratung-reisezentrum.html?stepId=1.1)
+Um Wartezeiten zu vermeiden, kann vorab online ein persönlicher Beratungstermin vereinbart werden: [Beratungstermin buchen](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/weitere-services/weitere-sbb-services/beratung-reisezentrum.html)
