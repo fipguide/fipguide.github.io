@@ -855,6 +855,9 @@ Transfer points where you can change between rail and ship are:
 {{% booking id="sbb-website"
   subtitle="Many SP journeys can also be booked via the SBB website."/%}}
 
+{{% booking id="rhb-website"
+    subtitle="Only for the Berninabahn (Tirano – St. Moritz)"/%}}
+
 {{% booking id="db-website"
   subtitle="Reservations can be purchased for selected SP connections."/%}}
 

@@ -855,6 +855,9 @@ Points de correspondance train-bateau :
 {{% booking id="sbb-website"
     subtitle="Le site des CFF permet aussi de réserver de nombreux trajets SP."/%}}
 
+{{% booking id="rhb-website"
+    subtitle="Uniquement pour la Berninabahn (Tirano – St. Moritz)"/%}}
+
 {{% booking id="db-website"
     subtitle="Des réservations peuvent être achetées pour certaines liaisons SP."/%}}
 

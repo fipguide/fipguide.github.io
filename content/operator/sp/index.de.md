@@ -856,6 +856,9 @@ Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 {{% booking id="sbb-website"
     subtitle="Über die SBB Website können auch viele SP-Fahrten gebucht werden."/%}}
 
+{{% booking id="rhb-website"
+    subtitle="Nur für die Berninabahn (Tirano – St. Moritz)"/%}}
+
 {{% booking id="db-website"
     subtitle="Für einzelne SP-Verbindungen können Reservierungen erworben werden."/%}}
 
