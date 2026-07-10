@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Magyar Államvasutak"
+title: "MÁV"
 country:
   - "hungary"
 operator: "mav"
@@ -35,8 +35,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. 
     reservation_required=partially
     reservation_possible=true
 %}}
-Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Budapest.
-Meist wird ein Speisewagen mitgeführt.
+Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Budapest. Meist wird ein Speisewagen mitgeführt.
 
 {{% highlight confusion %}}
 `RJ` kann auch für RegioJet stehen. In RegioJet-Zügen gelten keine MÁV-FIP-Fahrkarten.
@@ -44,7 +43,7 @@ Meist wird ein Speisewagen mitgeführt.
 
 #### Reservierungen
 
-Je nach Verbindung und Reisetag kann eine Reservierung erforderlich oder empfehlenswert sein. Reservierungen sind über die MÁV-Vertriebskanäle möglich.[^2]
+Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
 
 {{% /train-category %}}
 
@@ -56,9 +55,7 @@ Je nach Verbindung und Reisetag kann eine Reservierung erforderlich oder empfehl
     reservation_required=true
     reservation_possible=true
 %}}
-Nationale Schnellzüge mit Reisezugwagen. Eine Reservierung ist verpflichtend.
-
-Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
+Nationale Schnellzüge mit Reisezugwagen. Eine Reservierung ist verpflichtend. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
 
 {{% /train-category %}}
 
@@ -75,7 +72,7 @@ Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszal
 
 #### Reservierungen
 
-Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden.
+Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
 
 {{% /train-category %}}
 
@@ -125,7 +122,7 @@ Györsvonat sind Schnellzüge, die auf vielen Haupststrecken zum Einsatz kommen,
 Zum Einsatz kommen meist ältere, aber modernisierte Abteilwagen. Ein Fahrrad kann meist mitgeführt werden.
 Moderne, klimatisierte Triebwagen sind zwischen Budapest und Eger bzw. Veszprem im Einsatz.
 
-In anderen Auskünften werden die Züge ggf. als `IC` angegeben.
+In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. als `IC` angegeben.
 {{% /train-category %}}
 
 ### Nahverkehr
@@ -163,64 +160,52 @@ Schnellzüge, welche sowohl den Nahverkehr als auch den Fernverkehr bedienen. Si
 Regionalzüge auf der Strecke Győr – Hegyeshalom – Bruck an der Leitha (– Wien).
 {{% /train-category %}}
 
-### Budapest Vorort-Züge
-
 {{% train-category
-    id="h"
-    title="H"
+    id="bhev"
+    title="Budapesti Helyiérdekű Vasút (BHÉV)"
     type="regional"
     fip_accepted=true
     reservation_required=false
     reservation_possible=false
 %}}
-Vorortzüge in der Region Budapest.
+Als BHÉV oder kurz HÉV werden die Linien bezeichnet, welche Budapest mit den Vororten im Umland verbindet. Man erkennt sie am Buchstaben H, gefolgt von der Liniennummer (H5 – H9).
+{{% /train-category %}}
 
-- https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/hev-menetrendek
-- https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
-- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
-  {{% /train-category %}}
+### S-Bahn Budapest
 
 {{% train-category
     id="s"
-    title="S"
+    title="Személyvonat (S)"
     type="regional"
     fip_accepted=true
     reservation_required=false
     reservation_possible=false
 %}}
-Vorortzüge in der Region Budapest.
-
-- https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
-- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
-  {{% /train-category %}}
+S-Züge gehören zur S-Bahn Budapest und sind die langsamsten Züge. Man erkennt sie am Buchstaben S, gefolgt von der Liniennummer.
+{{% /train-category %}}
 
 {{% train-category
     id="g"
-    title="G"
+    title="Gyorsított személy (G)"
     type="regional"
     fip_accepted=true
     reservation_required=false
     reservation_possible=false
 %}}
-Vorortzüge in der Region Budapest.
-
-- https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
-- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
-  {{% /train-category %}}
+G-Züge gehören zur S-Bahn Budapest und beschleunigte Züge, d. h. sie halten nicht an allen Bahnhöfen. Man erkennt sie am Buchstaben G, gefolgt von der Liniennummer.
+{{% /train-category %}}
 
 {{% train-category
     id="z"
-    title="Z"
+    title="Zónázó személy (Z)"
     type="regional"
     fip_accepted=true
     reservation_required=false
     reservation_possible=false
 %}}
-Vorortzüge in der Region Budapest.
+Z-Züge gehören zur S-Bahn Budapest und sind Zonenzüge, d.h. sie halten im Stadtgebiet von Budapest nur die wichtigsten Stationen und danach ausgewählte größere Vorortstationen. Man erkennt sie am Buchstaben Z, gefolgt von der Liniennummer.
 
-- https://de.wikipedia.org/wiki/Budapesti_Helyi%C3%A9rdek%C5%B1_Vas%C3%BAt
-- https://en.wikipedia.org/wiki/Suburban_trains_in_Budapest
-  {{% /train-category %}}
+{{% /train-category %}}
 
 ### Sonstiges
 
@@ -257,10 +242,9 @@ FIP-Fahrkarten sind in MÁV-Bussen nicht gültig. In Bussen des Schienenersatzve
 
 ## Klassenkategorien
 
-- **2. Klasse**: Standardkategorie in den meisten nationalen Verbindungen.
-- **1. Klasse**: Nutzung mit entsprechender FIP-Berechtigung möglich.
-- **Premium-/Spezialbereiche**: In einzelnen Zügen können zusätzliche Zuschläge gelten.[^1]
-- [Premium- und Spezialbereiche](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/premium-osztaly)
+- **2. Klasse**: Standardkategorie in den meisten nationalen Verbindungen, nutzbar mit FIP-Berechtigung der zweiten Klasse.
+- **1. Klasse**: Gehobene Kategorie in manchen Verbindungen, nutzbar mit FIP-Berechtigung der ersten Klasse.
+- **Premiumklasse (1+)**: Premiumkategorie auf den wichtigsten InterCity-Strecken, welche einen höheren Standard als die 1. Klasse bietet. Für die Nutzung ist ein Aufpreis zu zahlen.[^1] [Weitere Informationen zu der Premiumklasse findet sich auf der Website der MÁV.](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/premium-osztaly)
 
 ## Ticket- und Reservierungskauf
 
@@ -286,7 +270,9 @@ Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung ei
 
 ## Tarifliche Besonderheiten
 
-Lounge: https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge
+### Premium Lounge in Budapest-Keleti
+
+In Budapest-Keleti kann mit manchen Tickets die Lounge genutzt werden. Die genauen Bedingungen sowie weitere Informationen sind auf der [Informationsseite zur Lounge](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge) zu finden.
 
 ### Fahrtunterbrechung
 
@@ -302,8 +288,4 @@ Für Fernverkehrsfahrten lohnt sich eine frühe Buchung von Reservierungen, beso
 
 ## Quellen
 
-[^1]: [Rail Delivery Group - Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)
-
-[^2]: [MÁV Ticketing Website](https://jegy.mav.hu/?lang=en)
-
-[^3]: [MÁV-START / MÁV Csoport](https://www.mavcsoport.hu/en)
+[^1]: [Rail Delivery Group – Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)
