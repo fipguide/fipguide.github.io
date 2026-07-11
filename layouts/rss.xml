@@ -1,4 +1,4 @@
-{{ "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>" | safeHTML }}
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
         <title>{{ .Site.Title }}</title>
@@ -13,7 +13,8 @@
             {{ $cleanedHTML := .Summary | plainify | transform.XMLEscape | safeHTML }}
             <description>{{ $cleanedHTML }}</description>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-            <enclosure url="{{ (partial "helper/contentImage" . ).Permalink }}" />
+            {{ $image := partial "helper/contentImage" . }}
+            <enclosure url="{{ $image.Permalink }}" />
         </item>
         {{ end }}
     </channel>
