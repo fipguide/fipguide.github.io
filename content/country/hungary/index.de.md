@@ -40,10 +40,6 @@ Die Infrastruktur wird laufend modernisiert, gleichzeitig gibt es weiterhin Stre
 
 {{% /expander %}}
 
-### Österreich
-
-Von Österreich aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Fernzug-Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom werden FIP Tickets der ÖBB und MÁV benötigt. Auf allen grenzüberschreitenden Regionalverbindungen fährt der Betreiber GySEV, womit FIP Tickets der ÖBB und GySEV erforderlich sind. Zudem besteht die Möglichkeit, die Nachtzugverbindung _Dacia_ aus Wien zu nutzen. Hierfür muss ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der ÖBB und MÁV vorhanden sein.
-
 ### Slowakei
 
 Zwischen Bratislava und Budapest verkehren Fernzüge der MÁV über Szob. Zusätzlich gibt es grenzüberschreitende Regionalzugverbindungen zwischen Košice und Budapest-Keleti über die Grenze Čaňa (derzeit im SEV). Hier ist jeweils ein durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine von ŽSR / ZSSK und MÁV notwendig.
@@ -57,3 +53,15 @@ Die meisten internationalen Verbindungen aus Rumänien fahren nach Ungarn. Darun
 ### Serbien
 
 Von Belgrad aus kann Budapest mit zwei Umstiegen (Subotica und Szeged) erreicht werden. Der grenzüberschreitende Abschnitt von Subotica in Serbien nach Szeged in Ungarn findet im Regionalverkehr statt. Die Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Bahngesellschaften benötigt. Auf der Schnellfahrstrecke zwischen Belgrad und Budapest sollen zukünftig durchgängige Züge, teilweise sogar bis nach Wien, verkehren.
+
+### Kroatien
+
+[//]: # "TODO: explain arrival from croatia"
+
+### Slowenien
+
+[//]: # "TODO: explain arrival from slovenia"
+
+### Österreich
+
+Von Österreich aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Fernzug-Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom werden FIP Tickets der ÖBB und MÁV benötigt. Auf allen grenzüberschreitenden Regionalverbindungen fährt der Betreiber GySEV, womit FIP Tickets der ÖBB und GySEV erforderlich sind. Zudem besteht die Möglichkeit, die Nachtzugverbindung _Dacia_ aus Wien zu nutzen. Hierfür muss ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der ÖBB und MÁV vorhanden sein.

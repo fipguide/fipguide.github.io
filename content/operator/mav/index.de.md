@@ -35,7 +35,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. 
     reservation_required=partially
     reservation_possible=true
 %}}
-Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Budapest. Meist wird ein Speisewagen mitgeführt.
+Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Bratislava – Budapest. Es ist eine erste und zweite Klasse vorhanden. Es wird ein [Speisewagen der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) bzw. [Speisewagen der ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) mitgeführt.
 
 {{% highlight confusion %}}
 `RJ` kann auch für RegioJet stehen. In RegioJet-Zügen gelten keine MÁV-FIP-Fahrkarten.
@@ -52,10 +52,14 @@ Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im inte
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=partially
     reservation_possible=true
 %}}
-Nationale Schnellzüge mit Reisezugwagen. Eine Reservierung ist verpflichtend. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
+Nationale Schnellzüge mit Reisezugwagen der zweiten Klasse, teilweise auch mit Wagen der ersten Klasse und der Premiumklasse 1+. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und/oder [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
+
+#### Reservierungen
+
+Eine Reservierung ist teilweise verpflichtend. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
 
 {{% /train-category %}}
 
@@ -67,8 +71,8 @@ Nationale Schnellzüge mit Reisezugwagen. Eine Reservierung ist verpflichtend. T
     reservation_required=partially
     reservation_possible=true
 %}}
-Eurocity sind internationale Schnellzüge auf den Routen von Budapest nach Bratislava, Prag, Berlin und Warschau. Die meisten Züge bestehen aus Wagen der Tschechischen Bahn, während der Zug nach Berlin aus ungarischen Wagen, der Zug nach Warschau aus polnischen Wagen gebildet wird.
-Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) mitgeführt.
+EuroCity sind internationale Schnellzüge auf den Routen zwischen Budapest und Bratislava, Prag, Berlin oder Warschau. Die meisten Züge bestehen aus Wagen der Tschechischen Bahn, während der Zug von/nach Berlin aus ungarischen Wagen und der Zug von/nach Warschau aus polnischen Wagen gebildet wird.
+Teilweise wird ein [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) mitgeführt.
 
 #### Reservierungen
 
@@ -85,7 +89,11 @@ Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im inte
     reservation_possible=true
     additional_information_url="https://www.mavcsoport.hu/en/mav-szemelyszallitas/international-travels/travel-night-trains"
 %}}
-Nachtzüge in Kooperation mit Partnerbahnen, welche von/nach Budapest verkehren. Die Züge bestehen in der Regel aus Schlaf-, Liege- und Sitzwagen.
+Nachtzüge in Kooperation mit Partnerbahnen, welche von/nach Budapest verkehren. Die Züge bestehen in der Regel aus Schlaf-, Liege- und Sitzwagen. Teilweise werden Restaurant-/Bistro-Wagen mitgeführt.
+
+#### Reservierungen
+
+Reservierungen sind verpflichtend.
 {{% /train-category %}}
 
 {{% train-category
@@ -94,9 +102,9 @@ Nachtzüge in Kooperation mit Partnerbahnen, welche von/nach Budapest verkehren.
     type="highspeed"
     fip_accepted=true
     reservation_required=false
-    reservation_possible=partially
+    reservation_possible=false
 %}}
-InterRegio-Verbindungen sind Schnellzüge im Inlandsverkehr und bilden den Grundtakt außerhalb der internationalen Korridore.
+InterRegio-Verbindungen sind Schnellzüge im Inlandsverkehr und bilden den Grundtakt außerhalb der internationalen Korridore. Meistens wird nur eine zweite Klasse angeboten.
 {{% /train-category %}}
 
 {{% train-category
@@ -108,6 +116,13 @@ InterRegio-Verbindungen sind Schnellzüge im Inlandsverkehr und bilden den Grund
     reservation_possible=true
 %}}
 Schnellzüge, die meist nur an Wochenenden und in den Ferien fahren. Es kommen verschiedene Wagentypen zum Einsatz und die meisten Züge haben eine 2. und 1. Klasse.
+
+In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. mit einer anderen Zugkategorie angegeben.
+
+#### Reservierungen
+
+Eine Reservierung ist teilweise verpflichtend. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -118,11 +133,11 @@ Schnellzüge, die meist nur an Wochenenden und in den Ferien fahren. Es kommen v
     reservation_required=false
     reservation_possible=false
 %}}
-Györsvonat sind Schnellzüge, die auf vielen Haupststrecken zum Einsatz kommen, in erster Linie dort, wo keine Intercity verkehren. Die Züge halten in mittelgroßen und größeren Städten.
-Zum Einsatz kommen meist ältere, aber modernisierte Abteilwagen. Ein Fahrrad kann meist mitgeführt werden.
-Moderne, klimatisierte Triebwagen sind zwischen Budapest und Eger bzw. Veszprem im Einsatz.
+Schnellzüge, die auf vielen Haupststrecken zum Einsatz kommen – in erster Linie dort, wo keine InterCity verkehren. Die Züge halten in mittelgroßen und größeren Städten.
+Zum Einsatz kommen meist ältere, aber modernisierte Abteilwagen.
 
 In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. als `IC` angegeben.
+
 {{% /train-category %}}
 
 ### Nahverkehr
@@ -147,6 +162,11 @@ Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
     reservation_possible=false
 %}}
 Schnellzüge, welche sowohl den Nahverkehr als auch den Fernverkehr bedienen. Sie halten daher in manchen Streckenabschnitten fast überall, während sie bspw. in der Nähe von Budapest nur an den wichtigsten Bahnhöfen halten.
+
+{{% highlight confusion %}}
+Die S-Bahn-Züge in der Region Budapest werden ebenfalls mit `S` abgekürzt, wobei diese immer von einer Liniennummer gefolgt sind.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -182,6 +202,10 @@ Als BHÉV oder kurz HÉV werden die Linien bezeichnet, welche Budapest mit den V
     reservation_possible=false
 %}}
 S-Züge gehören zur S-Bahn Budapest und sind die langsamsten Züge. Man erkennt sie am Buchstaben S, gefolgt von der Liniennummer.
+
+{{% highlight confusion %}}
+Die Schnellzüge _Sebesvonat_ der MÁV werden ebenfalls mit `S` abgekürzt, wobei diese nicht von einer Liniennummer gefolgt werden.
+{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -192,7 +216,7 @@ S-Züge gehören zur S-Bahn Budapest und sind die langsamsten Züge. Man erkennt
     reservation_required=false
     reservation_possible=false
 %}}
-G-Züge gehören zur S-Bahn Budapest und beschleunigte Züge, d. h. sie halten nicht an allen Bahnhöfen. Man erkennt sie am Buchstaben G, gefolgt von der Liniennummer.
+G-Züge gehören zur S-Bahn Budapest und sind beschleunigte Züge, d. h. sie halten nicht an allen Bahnhöfen. Man erkennt sie am Buchstaben G, gefolgt von der Liniennummer.
 {{% /train-category %}}
 
 {{% train-category
@@ -203,7 +227,7 @@ G-Züge gehören zur S-Bahn Budapest und beschleunigte Züge, d. h. sie halten n
     reservation_required=false
     reservation_possible=false
 %}}
-Z-Züge gehören zur S-Bahn Budapest und sind Zonenzüge, d.h. sie halten im Stadtgebiet von Budapest nur die wichtigsten Stationen und danach ausgewählte größere Vorortstationen. Man erkennt sie am Buchstaben Z, gefolgt von der Liniennummer.
+Z-Züge gehören zur S-Bahn Budapest und sind Zonenzüge, d. h. sie halten im Stadtgebiet von Budapest nur an den wichtigsten Stationen und danach an ausgewählten größeren Vorortstationen. Man erkennt sie am Buchstaben Z, gefolgt von der Liniennummer.
 
 {{% /train-category %}}
 
