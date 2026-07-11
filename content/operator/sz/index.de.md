@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Slovenske železnice"
+title: "SŽ"
 country:
   - "slovenia"
 operator: "sz"
@@ -11,7 +11,7 @@ Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slo
 ## Zusammenfassung
 
 - FIP ermäßigte Tickets und FIP Freifahrtscheine werden akzeptiert.
-- Reservierungen und/oder Aufschläge sind für viele Zugkategorien verpflichtend.
+- Reservierungen und/oder Aufschläge sind für viele Zugkategorien mit FIP 50 Ticket verpflichtend.
 - Kein Online-Verkauf von FIP-Tickets.
 
 ## Gültigkeit FIP Tickets
@@ -25,6 +25,8 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SŽ gültig. B
 
 {{% highlight important %}}
 Die Zugkategorien werden bei der SŽ wie unten beschrieben in der Reiseauskunft angezeigt. In anderen Reiseauskünften weichen die Bezeichnungen dagegen teilweise deutlich ab. Regionalzüge werden beispielsweise oft einfach als `R` angegeben. Im Zweifel sollte die Zugnummer mit der Verbindungsauskunft der SŽ abgeglichen werden.
+
+Außerdem werden in der Onlineauskunft der SŽ grenzüberschreitende Verbindungen teilweise nur bis zur Grenze angezeigt.
 {{% /highlight %}}
 
 {{% train-category
@@ -177,7 +179,7 @@ Im Zug kann ausschließlich mit Bargeld in Euro gezahlt werden.
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 6 Jahren kostenlos. Kinder unter 12 Jahren erhalten unabhängig von FIP eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
+Kinder bis einschließlich 5 Jahren reisen kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
 
 ## Tarifliche Besonderheiten
 
@@ -192,7 +194,9 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Durch umfangreiche Bauarbeiten zur Modernisierung und eingleisigen Abschnitten, kommt es jedoch teilweise zu Verspätungen. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar. Es gibt keinen wirklichen Taktverkehr. Daher ist gute Planung wichtig. Während die Verbindungen nach Österreich in den letzten Jahren deutlich ausgebaut wurden, verkehren nach Italien und Ungarn dafür sehr wenig Züge. Nach Kroatien ist ein solides Grundangebot vorhanden. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich und spricht oftmals Englisch.
+Die SŽ betreibt ein relativ zuverlässiges Zugangebot durch das ganze Land. Durch umfangreiche Bauarbeiten zur Modernisierung und eingleisigen Abschnitten, kommt es jedoch teilweise zu Verspätungen. Die größten Städte sowie die meisten bekannten Touristenattraktionen sind auf der Schiene erreichbar.
+
+Es gibt keinen wirklichen Taktverkehr. Daher ist gute Planung wichtig. Während die Verbindungen nach Österreich in den letzten Jahren deutlich ausgebaut wurden, verkehren nach Italien und Ungarn dafür sehr wenig Züge. Nach Kroatien ist ein solides Grundangebot vorhanden. Die Nutzung von FIP ist bis auf die zu zahlenden Aufschläge und Reservierungen ziemlich einfach. Das Personal ist meistens sehr freundlich und spricht oftmals Englisch.
 {{% /highlight %}}
 
 ## Quellen

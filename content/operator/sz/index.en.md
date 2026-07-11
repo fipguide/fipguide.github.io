@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Slovenske železnice"
+title: "SŽ"
 country:
   - "slovenia"
 operator: "sz"

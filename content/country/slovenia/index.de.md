@@ -17,7 +17,7 @@ Reservierungen sind bei einigen Zugkategorien verpflichtend, diese sind vor Ort 
 
 ## Wissenswertes
 
-Das Schienennetz von Slowenien umfasst gerade einmal etwas über 1.200 Kilometer, verbindet jedoch trotzdem viele wichtige Orte und Sehenswürdigkeiten miteinander. Die Ost-West-Achse von der zweitgrößten Stadt Maribor über Ljubljana bis an die italienische Grenze bzw. an die Adriaküste ist zusammen mit der Nord-Süd-Verbindung von der österreichischen Grenze über die Hauptstadt bis an die kroatische Grenze die wichtigste Strecke des Landes. Auf vielen elektrifizierten Strecken werden im Regionalverkehr moderne Stadler-Züge eingesetzt. Auf den Nebenbahnen sind dagegen meist deutlich ältere Dieseltriebzüge zu finden.
+Das Schienennetz von Slowenien umfasst gerade einmal etwas über 1.200 Kilometer, verbindet jedoch trotzdem viele wichtige Orte und Sehenswürdigkeiten miteinander. Die Ost-West-Achse von der zweitgrößten Stadt Maribor über Ljubljana bis an die italienische Grenze bzw. an die Adriaküste ist zusammen mit der Nord-Süd-Verbindung von der österreichischen Grenze über die Hauptstadt bis an die kroatische Grenze die wichtigste Strecke des Landes. Auf vielen elektrifizierten Strecken werden im Regionalverkehr moderne Stadler-Züge eingesetzt. Auf den Nebenbahnen sind dagegen neben modernen auch ältere Dieseltriebzüge zu finden.
 
 Die Reisegeschwindigkeiten sind eher langsam. Am schnellsten ist die Verbindung zwischen der Hauptstadt Ljublana und Maribor, auf der bis zu 160 km/h gefahren werden können. Wirkliche Taktverkehre gibt es selten, es verkehren jedoch meist einige Züge pro Tag auf den einzelnen Strecken. Unter der Woche ist dabei die Anzahl höher als am Wochenende, einzelne Bahnhöfe werden auch nur zwischen Montag und Freitag bedient.
 
@@ -31,13 +31,13 @@ Die schönste Bahnstrecke des Landes ist die Wocheinerbahn von Jesenice nach Nov
 | [Italien](/country/italy) ([FS](/operator/fs)) | Nova Gorica (fr), Villa-Opicina (fr) (Sloweenisch: Opčine, Triestisch: Opcina) |
 | Kroatien (HŽ) | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slowenisch: Pliberk), Jesenice (Gr) (Deutsch: Assling), Spielfeld (Gr) (Slowenisch: Špilje) |
-| Ungarn (MÁV) | Hodoš (Gr) (auch Őrihodos genannt) |
+| Ungarn (MÁV, [GySEV](/operator/gysev)) | Hodoš (Gr) (auch Őrihodos genannt) |
 
 {{% /expander %}}
 
 ### Italien
 
-Aus Italien kann mit Regionalzügen von Triest ins slowenische Sezana und weiter nach Ljubljana eingereist werden. Täglich gibt es zwei Regionalzüge pro Richtung, wobei einer davon bereits in Udine startet (Stand 2026). In Villa Opicina müssen Fahrgäste aus dem Zug der FS in den der SZ wechseln. In Fahrplänen und Verbindungssuchen ist diese Route nicht immer vollständig hinterlegt. Beispielsweise kennt die FS diese Verbindung nur bis und die SZ ab Villa Opicina. Teilweise werden die Züge jedoch auch als durchgehend angezeigt. Für den grenzüberschreitenden Abschnitt werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt.
+Aus Italien kann mit Regionalzügen von Triest ins slowenische Sezana und weiter nach Ljubljana eingereist werden. Täglich gibt es zwei Regionalzüge pro Richtung, wobei einer davon bereits in Udine startet (Stand 2026). In Villa Opicina müssen Fahrgäste aus dem Zug der FS in den der SŽ wechseln. In Fahrplänen und Verbindungssuchen ist diese Route nicht immer vollständig hinterlegt. Beispielsweise kennt die FS diese Verbindung nur bis und die SŽ ab Villa Opicina. Teilweise werden die Züge jedoch auch als durchgehend angezeigt. Für den grenzüberschreitenden Abschnitt werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt.
 
 Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren. Stattdessen kann dieser Abschnitt aber zu Fuß oder mit dem Bus absolviert werden.
 
