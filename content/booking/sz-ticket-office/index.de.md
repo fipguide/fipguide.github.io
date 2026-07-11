@@ -12,6 +12,8 @@ params:
   type: "onsite"
 ---
 
+Fahrkartenschalter der SŽ sind mittlerweile nur noch an größeren Bahnhöfen zu finden.
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
