@@ -16,6 +16,4 @@ params:
 
 ZOU! est la marque du réseau tarifaire de la région PACA (Provence-Alpes-Côte d’Azur) dans le sud-est de la France. Aux guichets ZOU !, il est possible d'acheter des billets à tarif réduit FIP et de faire des réservations.[^1] Les conditions devraient être les mêmes qu'aux guichets SNCF.
 
-## Sources
-
 [^1]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1513265822477455571/1513265822477455571)
