@@ -56,11 +56,15 @@ Von Belgrad aus kann Budapest mit zwei Umstiegen (Subotica und Szeged) erreicht 
 
 ### Kroatien
 
-[//]: # "TODO: explain arrival from croatia"
+Über die Grenzübergänge Gyékényes und Letenye ist Ungarn aus Kroatien mit dem Zug erreichbar. Diese Züge verbinden insbesondere Zagreb mit Budapest und stellen eine wichtige Verbindung zwischen den beiden Ländern dar.
+
+Für die Nutzung mit FIP auf diesen Strecken werden entweder ein FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Gesellschaften nötig. Für internationale Züge, insbesondere InterCity- und EuroCity-Verbindungen, ist in der Regel eine Reservierung erforderlich.
 
 ### Slowenien
 
-[//]: # "TODO: explain arrival from slovenia"
+Ungarn und Slowenien sind nur über den Grenzübergang Hodoš im Schienenverkehr direkt verbunden. Über den Grenzübergang verkehren täglich ein bis zwei Fernzüge von Ljubljana nach Budapest, teils starten diese bereits an der Adriaküste in Koper. Sie werden auf dem slowenischen Abschnitt von der SŽ und auf der ungarischen Seite von der MÁV betrieben.
+
+Für eine durchgängige Fahrt ist entweder ein FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Gesellschaften nötig. Wichtig ist zuvor zu prüfen, ob die Züge tatsächlich über Hodoš fahren, da es von Slowenien auch Direktverbindungen über Österreich nach Ungarn gibt. In diesem Fall wäre bei der Nutzung von Freifahrtscheinen zusätzlich ein ÖBB‑Freifahrtschein erforderlich. Darüber hinaus existieren vom slowenischen Hodoš ins ungarische Zalaegerszeg noch Regionalzüge, die von GySEV und SŽ betrieben werden. Hier ist also anders als bei den beschriebenen Fernzügen für den ungarischen Abschnitt ein Freifahrtschein der GySEV nötig.
 
 ### Österreich
 
