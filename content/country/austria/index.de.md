@@ -77,7 +77,9 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Slowenien
 
-Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽ notwendig oder ein FIP 50 Ticket zu buchen.
+Aus Slowenien werden alle drei vorhanden Grenzübergänge im Schienenverkehr mehrmals täglich befahren. Von Ljubljana und teilweise sogar ab Kroatioen kann über Jesenice nach Villach gefahren werden. Die Verbindungen bestehen meist mindestens alle zwei Stunden.
+
+Aus Maribor erreicht man mit Fern- und Regionalzügen Graz sogar stündlich und direkt über Spielfeld‑Straß. Seltener und nur im Regionalverkehr wird die Verbindung zwischen dem österreichischen Bleiburg und Maribor bedient. Auf allen Verbindungen sind FIP-Freifahrtscheine der ÖBB und SŽ oder ein durchgängiges FIP ermäßigtes Ticket nötig.
 
 ### Italien
 

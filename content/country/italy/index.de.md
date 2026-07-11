@@ -54,9 +54,9 @@ Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abs
 
 ### Slowenien
 
-Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
+Aus Slowenien kann mit Regionalzügen von Ljubljana über Sezana nach Triest eingereist werden. Täglich gibt es zwei Regionalzüge pro Richtung, wobei einer davon bereits in Udine startet (Stand 2026). In Villa Opicina müssen Fahrgäste aus dem Zug der SZ in den der FS wechseln. In Fahrplänen und Verbindungssuchen ist diese Route nicht immer vollständig hinterlegt. Beispielsweise kennt die SZ diese Verbindung nur bis und die FS ab Villa Opicina. Teilweise werden die Züge jedoch auch als durchgehend angezeigt. Für den grenzüberschreitenden Abschnitt werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt.
 
-Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
+Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren. Stattdessen kann dieser Abschnitt aber zu Fuß oder mit dem Bus absolviert werden.
 
 {{% highlight tip %}}
 Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen Slowenien und Italien ist online nicht möglich. Über die Trenitalia können jedoch sehr günstige grenzüberschreitende Normalpreistickets erworben werden. Diese sind bei der SŽ teurer.
