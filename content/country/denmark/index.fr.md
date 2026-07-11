@@ -58,7 +58,7 @@ Cependant, les réductions FIP ne sont pas valables en Suède, et la liaison de 
 
 ### Allemagne
 
-Depuis l’Allemagne, l’ `EC` direct Hambourg – Copenhague est disponible plusieurs fois par jour (toutes les 2h en haute saison). Ces trains sont souvent très fréquentés, il est donc conseillé de réserver à l’avance.
+Depuis l’Allemagne, l’`ECE` direct Hambourg – Copenhague est disponible plusieurs fois par jour (toutes les 2h en haute saison). Certains trains circulent en tant que `RJ` sur l’itinéraire Prague – Berlin – Hambourg – Copenhague. Ces trains sont souvent très fréquentés, il est donc conseillé de réserver à l’avance.
 
 Alternativement, plusieurs trains `IC` relient Flensburg à Fredericia, avec bonnes correspondances vers Aarhus, Aalborg et Copenhague.
 
