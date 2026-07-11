@@ -278,6 +278,8 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
+{{% booking id="sz-ticket-office" subtitle="Pour les trains transfrontaliers entre la Slovénie et l’Autriche" /%}}
+
 ### À bord du train
 
 L’achat de billets à bord du train est possible si vous contactez immédiatement le contrôleur. Cependant, ces billets sont généralement plus chers que ceux achetés à l’avance dans d’autres points de vente. Sur les lignes S-Bahn, l’achat du billet avant l’embarquement est obligatoire.

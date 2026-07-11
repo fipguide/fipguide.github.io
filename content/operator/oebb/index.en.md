@@ -279,6 +279,8 @@ Reservations for direct trains are cheaper via ÖBB.
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
+{{% booking id="sz-ticket-office" subtitle="For cross-border trains between Slovenia and Austria" /%}}
+
 ### On the Train
 
 Tickets can be purchased on board if you immediately contact the conductor. However, they are usually more expensive than tickets bought in advance. On S-Bahn routes, tickets must be purchased before boarding.

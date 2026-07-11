@@ -78,16 +78,18 @@ Sinon, un Billet FIP GySEV est requis pour les lignes GySEV.
 
 ### Slovénie
 
-Des liaisons longues distances et régionales existent entre Vienne/Graz et Ljubljana/Maribor via Spielfeld-Strass (Gr), ainsi que vers Zagreb. Un Coupon FIP SŽ ou un Billet FIP 50 est requis depuis la frontière.
+Les trois points de passage ferroviaires existants depuis la Slovénie sont desservis plusieurs fois par jour. Depuis Ljubljana et parfois même depuis la Croatie, on peut voyager via Jesenice jusqu’à Villach. Les liaisons sont généralement au moins toutes les deux heures.
+
+Depuis Maribor, Graz est accessible directement et chaque heure en trains grandes lignes et régionaux via Spielfeld-Strass. Plus rarement, et uniquement en trafic régional, la liaison entre Bleiburg (Autriche) et Maribor est assurée. Sur toutes ces lignes, les Coupons FIP ÖBB et SŽ ou un Billet FIP 50 continu sont nécessaires.
 
 ### Italie
 
-Outre les liaisons régionales, il existe deux itinéraires internationaux entre l’Autriche et l’Italie :
+Il existe deux itinéraires internationaux entre l’Italie et l’Autriche :
 
-- La ligne du Brenner : Munich – Innsbruck – Bolzano – Vérone.
-- Les Railjets via Tarvisio Boscoverde vers Venise.
+- La ligne du Brenner : avec des EuroCity de Bolzano et Vérone via le col du Brenner et Innsbruck jusqu’à Munich, ainsi que des trains S3 de Brenner à Innsbruck. Des trains régionaux depuis Bolzano peuvent également être utilisés jusqu’au Brenner.
+- La route via Tarvisio Boscoverde : avec des Railjets depuis Venise à destination de Vienne et quelques trains régionaux depuis Trieste jusqu’à Villach.
 
-Sur ces trajets, les Coupons FIP ÖBB sont valables en Italie, mais un supplément est requis côté italien.
+Sur ces itinéraires, le Coupon FIP ÖBB est valable en Italie pour les trains grandes lignes (`EC` et `RJ`), mais un supplément est à payer à partir de la frontière italienne sur ces deux liaisons.
 
 ### Liechtenstein
 

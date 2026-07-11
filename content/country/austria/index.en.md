@@ -77,16 +77,18 @@ From Hungary, both cross-border regional trains and Eurocity/Railjet trains can 
 
 ### Slovenia
 
-From Vienna/Graz to Ljubljana/Maribor via Spielfeld-Strass (Gr) there are long-distance and local trains, as well as direct connections to Zagreb. For these, a FIP Coupon from SŽ is required from the border or a FIP 50 ticket must be booked.
+All three existing rail border crossings from Slovenia are served several times a day. From Ljubljana and in some cases even from Croatia, trains can travel via Jesenice to Villach. The connections usually run at least every two hours.
+
+From Maribor, Graz can be reached directly and hourly with long-distance and regional trains via Spielfeld-Strass. Less frequently, and only in regional traffic, the connection between Austrian Bleiburg and Maribor is served. On all routes, ÖBB and SŽ FIP Coupons or a continuous FIP 50 Ticket are required.
 
 ### Italy
 
-Besides regional train connections, there are two international routes from Austria to Italy:
+There are two international routes from Italy to Austria:
 
-- the Brenner Railway: from Munich via Innsbruck and the Brenner Pass to Bolzano and Verona,
-- Railjets via Tarvisio Boscoverde to Venice.
+- The Brenner Railway: with Eurocity trains from Bolzano and Verona via the Brenner Pass and Innsbruck to Munich, as well as S3 trains from Brenner to Innsbruck. Regional trains from Bolzano can also be used to reach Brenner.
+- The route via Tarvisio Boscoverde: with Railjets from Venice continuing to Vienna and some regional trains from Trieste to Villach.
 
-On these routes, the ÖBB FIP Coupon is valid in Italy, but a surcharge must be paid in the Italian section.
+When using these routes, the ÖBB FIP Coupon is valid in the Italian section on long-distance trains (`EC` and `RJ`), but a surcharge must be paid from the Italian border on both routes (see [Trains to Italy](/operator/oebb/#züge-nach-italien)).
 
 ### Liechtenstein
 

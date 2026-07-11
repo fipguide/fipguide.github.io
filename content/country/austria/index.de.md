@@ -83,7 +83,7 @@ Aus Maribor erreicht man mit Fern- und Regionalzügen Graz sogar stündlich und 
 
 ### Italien
 
-Es zwei internationale Routen von Italien nach Österreich:
+Es gibt zwei internationale Routen von Italien nach Österreich:
 
 - Die Brennerbahn: mit Eurocity-Zügen von Bozen und Veron über den Brennerpass und Innsbruck München sowie Züge der Linie `S3` von Brenner nach Insbruck. Nach Brenner könne Regionalzüge aus Richtung Bozen genutzt werden.
 - Die Strecke über Tarvisio Boscoverde: mit Railjets aus Venedig weiter nach Wien und einzelnen Regionalzügen von Trieste nach Villach
