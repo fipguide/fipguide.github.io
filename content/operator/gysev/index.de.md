@@ -52,7 +52,7 @@ Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den
 Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
 
 {{% highlight confusion %}}
-In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV.
+In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn [MÁV](/operator/mav#ic).
 {{% /highlight %}}
 
 #### Reservierungen
@@ -104,7 +104,7 @@ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrka
 Nahverkehrszug mit Halten an den meisten Stationen.
 
 {{% highlight confusion %}}
-Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
+Személyvonat werden teilweise auch von der [MÁV](/operator/mav#sz) betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 {{% /highlight %}}
 
 {{% /train-category %}}

@@ -8,7 +8,7 @@ operator: "mav"
 
 Die MÁV (Magyar Államvasutak, ungarische Staatsbahnen) ist die wichtigste Bahngesellschaft in [Ungarn](/country/hungary) und betreibt den Großteil des Fern- und Regionalverkehrs.
 
-Einen Überblick über die angebotenen Verkehre bietet die [Streckennetzkarte der MÁV](https://www.mavcsoport.hu/sites/default/files/upload/page/trkp_mav_palyahalozat_2023_a0_1211_web.pdf).
+Einen Überblick über die angebotenen Verkehre bieten die [Streckennetzkarte von Ungarn](https://www.mavcsoport.hu/sites/default/files/upload/page/trkp_mav_palyahalozat_2023_a0_1211_web.pdf) sowie die [Linienkarte der MÁV](https://www.mavcsoport.hu/sites/default/files/res/vasuthalozat_trkp_hu_2022_a3_0701_web.pdf).
 
 ## Zusammenfassung
 
@@ -56,6 +56,16 @@ Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im inte
     reservation_possible=true
 %}}
 Nationale Schnellzüge mit Reisezugwagen der zweiten Klasse, teilweise auch mit Wagen der ersten Klasse und der Premiumklasse 1+. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und/oder [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
+
+{{% highlight confusion %}}
+`IC` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#ic) betrieben.
+{{% /highlight %}}
+
+Es gibt teilweise bis zu drei Wagenklassen:
+
+- **2. Klasse**: Standardkategorie in den meisten nationalen Verbindungen, nutzbar mit FIP-Berechtigung der zweiten Klasse.
+- **1. Klasse**: Gehobene Kategorie in manchen Verbindungen, nutzbar mit FIP-Berechtigung der ersten Klasse.
+- **Premiumklasse (1+)**: Premiumkategorie auf den wichtigsten InterCity-Strecken, welche einen höheren Standard als die 1. Klasse bietet. Für die Nutzung ist ein Aufpreis zu zahlen.[^1] [Weitere Informationen zu der Premiumklasse findet sich auf der Website der MÁV.](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/premium-osztaly)
 
 #### Reservierungen
 
@@ -151,6 +161,10 @@ In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. als `IC
     reservation_possible=false
 %}}
 Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
+
+{{% highlight confusion %}}
+`SZ` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#sz) betrieben.
+{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -163,9 +177,7 @@ Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
 %}}
 Schnellzüge, welche sowohl den Nahverkehr als auch den Fernverkehr bedienen. Sie halten daher in manchen Streckenabschnitten fast überall, während sie bspw. in der Nähe von Budapest nur an den wichtigsten Bahnhöfen halten.
 
-{{% highlight confusion %}}
 Die S-Bahn-Züge in der Region Budapest werden ebenfalls mit `S` abgekürzt, wobei diese immer von einer Liniennummer gefolgt sind.
-{{% /highlight %}}
 
 {{% /train-category %}}
 
@@ -203,9 +215,7 @@ Als BHÉV oder kurz HÉV werden die Linien bezeichnet, welche Budapest mit den V
 %}}
 S-Züge gehören zur S-Bahn Budapest und sind die langsamsten Züge. Man erkennt sie am Buchstaben S, gefolgt von der Liniennummer.
 
-{{% highlight confusion %}}
 Die Schnellzüge _Sebesvonat_ der MÁV werden ebenfalls mit `S` abgekürzt, wobei diese nicht von einer Liniennummer gefolgt werden.
-{{% /highlight %}}
 {{% /train-category %}}
 
 {{% train-category
@@ -264,12 +274,6 @@ Die Schmalspurbahn von Balatonfenyves nach Somogyszentpál und Csisztafürdő am
 FIP-Fahrkarten sind in MÁV-Bussen nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP-Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
 {{% /train-category %}}
 
-## Klassenkategorien
-
-- **2. Klasse**: Standardkategorie in den meisten nationalen Verbindungen, nutzbar mit FIP-Berechtigung der zweiten Klasse.
-- **1. Klasse**: Gehobene Kategorie in manchen Verbindungen, nutzbar mit FIP-Berechtigung der ersten Klasse.
-- **Premiumklasse (1+)**: Premiumkategorie auf den wichtigsten InterCity-Strecken, welche einen höheren Standard als die 1. Klasse bietet. Für die Nutzung ist ein Aufpreis zu zahlen.[^1] [Weitere Informationen zu der Premiumklasse findet sich auf der Website der MÁV.](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/premium-osztaly)
-
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -288,7 +292,7 @@ Beim Kauf von FIP-ermäßigten Tickets oder beim Klassenwechsel von der zweiten 
 
 ## Ermäßigungen
 
-Bei öffentlichen Tarifen reisen Kinder bis 6 Jahre kostenlos, Kinder bis 14 Jahre erhalten 50 % Ermäßigung. Ab 14 Jahren gilt der Erwachsenenfahrpreis.[^1]
+Kinder bis einschließlich 13 Jahre reisen kostenlos. Ab 14 Jahren gilt der reguläre FIP-Erwachsenentarif.
 
 Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung eines Erwachsenen reisen. Kinder ab 10 Jahren müssen eine unterschriebene [Elternerklärung](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) mitführen. MÁV übernimmt keine Verantwortung für allein reisende Kinder. Eltern haften für alle Schäden, die durch das Kind verursacht werden. Wenn ein Kind ohne Begleitung eines Erwachsenen und ohne Elternerklärung angetroffen wird, werden die Behörden informiert.[^1]
 
@@ -297,6 +301,10 @@ Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung ei
 ### Premium Lounge in Budapest-Keleti
 
 In Budapest-Keleti kann mit manchen Tickets die Lounge genutzt werden. Die genauen Bedingungen sowie weitere Informationen sind auf der [Informationsseite zur Lounge](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge) zu finden.
+
+{{% highlight inofficial %}}
+Ob FIP Freifahrtscheine und FIP 50 Tickets zur Loungenutzung brechtigen ist uns nicht bekannt.
+{{% /highlight %}}
 
 ### Fahrtunterbrechung
 
@@ -313,3 +321,5 @@ Für Fernverkehrsfahrten lohnt sich eine frühe Buchung von Reservierungen, beso
 ## Quellen
 
 [^1]: [Rail Delivery Group – Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)
+
+[^2]: [MÁV Domestic Travel - Prices and discounts](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/faq-domestic-travel)
