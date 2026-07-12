@@ -58,6 +58,8 @@ menu > li > menu {
         margin-bottom: 1rem;
         border-radius: 0;
         border: none;
+        max-height: none;
+        overflow-y: visible;
       }
 
       &__button,
@@ -85,15 +87,12 @@ menu > li > menu {
         padding: 0.4rem;
         justify-items: flex-start;
         z-index: 14;
+        max-height: calc(100dvh - 7.6rem);
 
         display: grid;
         grid-auto-flow: row;
         grid-template-rows: auto;
         grid-template-columns: 1fr 1fr 1fr;
-
-        @media (max-width: #{$breakpoint-lg}) {
-          grid-template-columns: 1fr 1fr;
-        }
 
         &--vertical {
           grid-template-columns: auto;
@@ -148,11 +147,6 @@ menu > li > menu {
     }
     color: var(--link-hovered);
   }
-}
-
-.o-nav__close-button,
-.o-nav__menu-button {
-  display: flex;
 
   @media (min-width: #{$breakpoint-md}) {
     display: none;
@@ -252,6 +246,7 @@ menu > li > menu {
   color: var(--color-body);
   transition: color 0.3s ease;
   height: fit-content;
+  line-height: normal;
 
   &:hover {
     color: var(--link-hovered);

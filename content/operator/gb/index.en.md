@@ -487,7 +487,13 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 ### Online
 
-{{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
+{{% booking id="gwr-website"
+    subtitle="All national services"
+/%}}
+
+{{% booking id="gwr-whatsapp"
+    subtitle="All national services"
+/%}}
 
 {{% booking id="lner-website"
     subtitle="LNER services only"
@@ -495,7 +501,7 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
-{{% booking id="gwr-whatsapp" /%}}
+{{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
 
 ### On-Site
 

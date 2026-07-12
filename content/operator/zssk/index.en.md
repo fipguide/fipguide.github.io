@@ -163,7 +163,9 @@ Reservations are required only in 1st class.
     type="bus"
     fip_accepted=false
 %}}
+
 Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase

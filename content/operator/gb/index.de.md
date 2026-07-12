@@ -488,7 +488,13 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 ### Online
 
-{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
+{{% booking id="gwr-website"
+    subtitle="Alle nationalen Verbindungen"
+/%}}
+
+{{% booking id="gwr-whatsapp"
+    subtitle="Alle nationalen Verbindungen"
+/%}}
 
 {{% booking id="lner-website"
     subtitle="Nur LNER-Verbindungen"
@@ -496,7 +502,7 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
-{{% booking id="gwr-whatsapp" /%}}
+{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
 ### Vor Ort
 

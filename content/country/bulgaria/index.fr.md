@@ -30,7 +30,7 @@ Les points forts de la ligne sont, d’une part, les itinéraires nord–sud tra
 | [Roumanie](/country/romania) ([CFR](/operator/cfr))       | Ruse (fr) (bulgare : Русе), Vidin (fr)                                 |
 | Turquie (TCDD)                                            | Kapikule (fr)                                                          |
 | [Grèce](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (bulgare : Кулата), Svilengrad (fr) (bulgare : Свиленград) |
-| Serbie (SV)                                               | Dimitrovgrad (fr) (bulgare : Цариброд, Tsaribrod)                      |
+| [Serbie](/country/serbia) ([SV](/operator/sv))            | Dimitrovgrad (fr) (bulgare : Цариброд, Tsaribrod)                      |
 
 {{% /expander %}}
 
