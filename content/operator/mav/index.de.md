@@ -21,7 +21,7 @@ Einen Überblick über die angebotenen Verkehre bieten die [Streckennetzkarte vo
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtschein beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
@@ -99,7 +99,7 @@ Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im inte
     reservation_possible=true
     additional_information_url="https://www.mavcsoport.hu/en/mav-szemelyszallitas/international-travels/travel-night-trains"
 %}}
-Nachtzüge in Kooperation mit Partnerbahnen, welche von/nach Budapest verkehren. Die Züge bestehen in der Regel aus Schlaf-, Liege- und Sitzwagen. Teilweise werden Restaurant-/Bistro-Wagen mitgeführt.
+Nachtzüge in Kooperation mit Partnerbahnen, welche entweder in Budapest starten/enden oder über die Hauptstadt verkehren (z. B. der `EN` zwischen Wien und Bukarest). Die Züge bestehen in der Regel aus Schlaf-, Liege- und Sitzwagen. Teilweise werden Restaurant-/Bistro-Wagen mitgeführt.
 
 #### Reservierungen
 

@@ -33,5 +33,5 @@ Auf der Buchungswebsite der MÁV werden FIP 50 Tickets für Verbindungen der MÁ
 
 ## Reservierungen
 
-Reservierungen für Züge der MÁV sowie GySEV können Online zu einem Preis von 990 HUF erworben werden. Dazu muss in der Verbindungssuche die Option _I only need seat reservation_ ausgewählt werden.
+Reservierungen für Züge der MÁV sowie GySEV können Online zu einem Preis von 990 HUF erworben werden. Dazu muss in der Verbindungssuche die Option _I only need seat reservation_ ausgewählt werden. Bei FIP 50 Tickets werden sie bei reservierungspflichtigen Zügen automatisch ergänzt und mit berechnet.
 {{% /booking-section %}}

@@ -6,7 +6,6 @@ params:
   operators_without_fip:
     - RegioJet
     - BKV Zrt. (Budapesti Közlekedési Zártkörűen Működő Részvénytársaság)
-    - Optima Express
 ---
 
 ## FIP Nutzung
@@ -19,7 +18,7 @@ Neben MÁV und GySEV verkehren auch private Betreiber wie RegioJet in Ungarn, be
 
 ## Wissenswertes
 
-Ungarn verfügt über ein dichtes Schienennetz mit klarem Knoten in Budapest. Wichtige internationale Achsen bestehen Richtung Wien, Bratislava, Kosice, Cluj-Napoca und Belgrad. Im Fernverkehr dominieren InterCity-, EuroCity- und Railjet-Verbindungen; im Regionalverkehr ist das Angebot je nach Region unterschiedlich dicht.
+Ungarn verfügt über ein dichtes Schienennetz mit klarem Knoten in Budapest. Wichtige internationale Achsen bestehen Richtung Wien, Bratislava, Kosice, Bukarest und Belgrad. Im Fernverkehr dominieren InterCity-, EuroCity- und Railjet-Verbindungen; im Regionalverkehr ist das Angebot je nach Region unterschiedlich dicht.
 
 Die Infrastruktur wird teilweise modernisiert, gleichzeitig gibt es weiterhin Strecken mit älterem Fahrzeugmaterial und längeren Fahrzeiten. Für landschaftlich attraktive Fahrten ist unter anderem die Region am Balaton interessant, wo sowohl Fern- als auch Regionalzüge verkehren.
 
@@ -45,11 +44,11 @@ Die Infrastruktur wird teilweise modernisiert, gleichzeitig gibt es weiterhin St
 
 Zwischen Bratislava und Budapest verkehren Fernzüge der MÁV über Szob. Zusätzlich gibt es grenzüberschreitende Regionalzugverbindungen zwischen Košice und Budapest-Keleti über die Grenze Čaňa (derzeit im SEV). Hier ist jeweils ein durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine von ŽSR / ZSSK und MÁV notwendig.
 
-Auf der Relation Bratislava – Hegyeshalom verkehren außerdem Regionalzüge der GySEV über den Grenzübergang Rajka, auf denen FIP Ticket der GySEV und ŽSR / ZSSK benötigt werden.
+Auf der Relation Hegyeshalom - Bratislava verkehren außerdem Regionalzüge der ŽSR / ZSSK über den Grenzübergang Rajka, die im ungarischen Abschnitt von der MÁV betrieben werden. Hier werden FIP Tickets der MÁV und ŽSR / ZSSK benötigt.
 
 ### Rumänien
 
-Die meisten internationalen Verbindungen aus Rumänien fahren nach Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte _Dacia_, der zwischen dem rumänischen Bukarest über Budapest nach Wien in Österreich fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV vorhanden sein.
+Die meisten internationalen Verbindungen aus Rumänien fahren nach Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte _Dacia_, der zwischen dem rumänischen Bukarest über Budapest nach Wien in Österreich fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV (bei Weiterfahrt nach Österreich zusätzlich ein Freifahrtschein der ÖBB) vorhanden sein.
 
 ### Serbien
 
@@ -59,7 +58,7 @@ Von Belgrad aus kann Budapest mit zwei Umstiegen (Subotica und Szeged) erreicht 
 
 Über die Grenzübergänge Gyékényes und Letenye ist Ungarn aus Kroatien mit dem Zug erreichbar. Diese Züge verbinden insbesondere Zagreb mit Budapest und stellen eine wichtige Verbindung zwischen den beiden Ländern dar.
 
-Für die Nutzung mit FIP auf diesen Strecken werden entweder ein FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Gesellschaften nötig. Für internationale Züge, insbesondere InterCity- und EuroCity-Verbindungen, ist in der Regel eine Reservierung erforderlich.
+Für die Nutzung mit FIP auf diesen Strecken werden entweder ein FIP ermäßigtes Ticket oder FIP Freifahrtscheine der MÁV und HŽ nötig. Für internationale Züge, insbesondere InterCity- und EuroCity-Verbindungen, ist in der Regel eine Reservierung erforderlich.
 
 ### Slowenien
 

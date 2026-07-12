@@ -13,7 +13,7 @@ params:
 
 An Ticketschaltern der MÁV wird zwischen nationalen und internationalen Ticketschaltern unterschieden. In der Regel spricht das Personal an den internationalen Ticketschaltern Fremdsprachen wie Englisch oder Deutsch.
 
-Zahlungen in bar werden auf den nächsten 5 Forint (HUF) gerundet.[^1]
+Zahlungen in bar werden auf die nächsten 5 Forint (HUF) gerundet.[^1]
 
 Änderungen (Rückerstattung und Verkauf neuer Fahrkarten) bei internationalen Fahrkarten, die an Fahrkartenschaltern in Ungarn gekauft wurden, können nur am Tag des Kaufs und am selben Bahnhof vorgenommen werden.[^1]
 
