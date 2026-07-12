@@ -15,6 +15,18 @@
     }
   }
 
+  &--newsUpdate {
+    background: #ffffff;
+    color: #414141;
+    border: 0.1rem solid #414141;
+    border-radius: var(--border-radius-m);
+    padding: 0.3rem 0.4rem;
+
+    .a-tag__text {
+      text-box-trim: trim-both;
+    }
+  }
+
   &__text {
     align-self: center;
   }
