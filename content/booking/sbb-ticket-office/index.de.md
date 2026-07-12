@@ -31,3 +31,5 @@ In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweiz 
 Reservierungen können für die Schweiz, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
 
 {{% /booking-section %}}
+
+Um Wartezeiten zu vermeiden, kann vorab online ein persönlicher Beratungstermin vereinbart werden: [Beratungstermin buchen](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/weitere-services/weitere-sbb-services/beratung-reisezentrum.html)

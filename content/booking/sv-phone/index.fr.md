@@ -17,6 +17,4 @@ Les demandes de réservation pour les trains internationaux entre la Serbie et l
 
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [SV – Réservations internationales](https://srbijavoz.rs/rezervisanje/)

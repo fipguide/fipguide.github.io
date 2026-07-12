@@ -188,7 +188,9 @@ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-F
   fip_accepted=partially
   reservation_possible=false
 %}}
+
 Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable. [^1]
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -234,6 +236,8 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 ### En gare
 
 {{% booking id="sncf-ticket-office" /%}}
+
+{{% booking id="zou-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office" subtitle="Pour trains en Île-de-France" /%}}
 
@@ -390,7 +394,9 @@ L’accès à certaines gares est limité par des portillons. Lors de l’utilis
   fip_accepted=false
   reservation_possible=nil
 %}}
+
 Les réductions FIP ne sont pas valables dans les tramways de la région parisienne.[^3]
+
 {{% /train-category %}}
 
 #### Portillons

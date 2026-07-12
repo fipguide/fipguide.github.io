@@ -163,6 +163,23 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 Regional trains for short connections, stopping at every station along the route.
 {{% /train-category %}}
 
+{{% train-category
+    id="r-net"
+    title="R-net NS Sprinter"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Regional trains with red-grey R-net branding on the route from Alphen aan den Rijn to Gouda.
+
+{{< highlight confusion >}}
+R-net (Randstadnet) is a transport concept in the Randstad metropolitan region, operated by several companies with uniform red-grey vehicle branding. It includes trains, metros, trams, and buses. Only the R-net connection from Alphen aan den Rijn to Gouda, operated by NS, can be used with FIP. [^6] All other R-net connections, in particular the Geldermalsen - Dordrecht line (Qbuzz Stoptrein), cannot be used with FIP.
+
+In the NS journey planner, the services are marked as `R-net NS Sprinter`. Not to be confused with the `R-net Qbuzz Stoptrein`, which may not be used with FIP. In other journey planners, such as DB, the service may only be shown as `RE` operated by "R-net". Here, a distinction from the R-net Qbuzz Stoptrein is only possible based on the line!
+{{< /highlight >}}
+
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -238,3 +255,5 @@ NS impresses with a dense schedule and good connections. Delays and cancellation
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
 
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
+
+[^6]: [FIP Guide Community: R-net NS Sprinter](https://discord.com/channels/1250522473188032512/1518627741459677204/1519419404272668733)

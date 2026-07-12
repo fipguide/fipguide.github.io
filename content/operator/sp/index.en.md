@@ -409,6 +409,7 @@ FIP is only partially valid on the routes listed below; on the other routes neit
     fip_accepted=partially
     reservation_required=false
 %}}
+
 RBS is a regional transport company and operates four metre-gauge railway lines in the cantons of Bern and Solothurn. These are partly integrated into the Bern S-Bahn. FIP is recognized on all routes, except for the S9 and tram line 6. In addition, RBS also operates bus lines on which FIP is fully recognized. [^2]
 
 #### Scheduled routes
@@ -854,6 +855,9 @@ Transfer points where you can change between rail and ship are:
 
 {{% booking id="sbb-website"
   subtitle="Many SP journeys can also be booked via the SBB website."/%}}
+
+{{% booking id="rhb-website"
+    subtitle="Only for the Berninabahn (Tirano – St. Moritz)"/%}}
 
 {{% booking id="db-website"
   subtitle="Reservations can be purchased for selected SP connections."/%}}

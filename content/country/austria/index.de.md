@@ -49,7 +49,7 @@ Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen de
 | [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                 |
 | Ungarn ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                      |
 | Ungarn (MÁV)                                                 | Hegyshalom (Gr), Sopron                                                                                   |
-| Slowenien (SŽ)                                               | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr)                                                        |
+| [Slowenien](/country/slovenia) ([SŽ](/operator/sz))          | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr)                                                        |
 | [Italien](/country/italy) ([FS](/operator/fs))               | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                               |
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb))       | Buchs SG, St. Margrethen                                                                                  |
 | [Deutschland](/country/germany) ([DB](/operator/db))         | Passau, Salzburg (im NV bis Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
@@ -77,19 +77,18 @@ Von Ungarn aus können sowohl grenzüberschreitende Regionalzüge als auch Euroc
 
 ### Slowenien
 
-Von Wien/Graz nach Ljubljana/Maribor via Spielfeld-Strass (Gr) gibt es Fern- und Nahverkehr, sowie Fahrten direkt weiter nach Trieste und Zagreb. Dafür ist ab der Grenze eine FIP Freifahrt der SŽ notwendig oder FIP 50 Ticket zu buchen.
+Aus Slowenien werden alle drei vorhanden Grenzübergänge im Schienenverkehr mehrmals täglich befahren. Von Ljubljana und teilweise sogar ab Kroatioen kann über Jesenice nach Villach gefahren werden. Die Verbindungen bestehen meist mindestens alle zwei Stunden.
+
+Aus Maribor erreicht man mit Fern- und Regionalzügen Graz sogar stündlich und direkt über Spielfeld‑Straß. Seltener und nur im Regionalverkehr wird die Verbindung zwischen dem österreichischen Bleiburg und Maribor bedient. Auf allen Verbindungen sind FIP-Freifahrtscheine der ÖBB und SŽ oder ein durchgängiges FIP ermäßigtes Ticket nötig.
 
 ### Italien
 
-Es zwei internationale Routen von Italien nach Österreich:
+Es gibt zwei internationale Routen von Italien nach Österreich:
 
 - Die Brennerbahn: mit Eurocity-Zügen von Bozen und Veron über den Brennerpass und Innsbruck München sowie Züge der Linie `S3` von Brenner nach Insbruck. Nach Brenner könne Regionalzüge aus Richtung Bozen genutzt werden.
 - Die Strecke über Tarvisio Boscoverde: mit Railjets aus Venedig weiter nach Wien und einzelnen Regionalzügen von Trieste nach Villach
 
 Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abschnitt bei Fernverkehrszügen (`EC` und `RJ`), allerdings ist auf beiden Verbindungen ein Zuschlag ab der italienischen Grenze zu zahlen (siehe [Züge nach Italien](/operator/oebb/#züge-nach-italien)).
-
-Außerdem existieren Eurocity Verbindungen aus Triest über Slowenien nach Österreich (`EC` 151/134): \
-Dabei gilt im italienischen Abschnitt (V. Opicina-Trieste) der ÖBB FIP Coupon, wobei auch hier ein geringerer Zuschlag zu zahlen ist.
 
 ### Liechtenstein
 
