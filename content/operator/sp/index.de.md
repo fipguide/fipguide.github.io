@@ -409,6 +409,7 @@ FIP ist hier nur teilweise auf den im Folgenden genannten Strecken gültig, auf 
     fip_accepted=partially
     reservation_required=false
 %}}
+
 Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahnstrecken in den Kantonen Bern und Solothurn. Diese sind auch zum Teil in die S-Bahn Bern integriert. FIP wird auf allen Strecken anerkannt, außer der S9 und Tramlinie 6. Zusätzlich betreibt die RBS auch Buslinien, auf denen FIP vollständig anerkannt wird. [^2]
 
 #### Strecken im Linienverkehr
