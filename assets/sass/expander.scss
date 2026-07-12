@@ -27,6 +27,7 @@
   .o-expander__title-text {
     font-weight: 700;
     margin-bottom: 0;
+    width: 100%;
   }
 
   @include focus-indicator(0.2rem);
