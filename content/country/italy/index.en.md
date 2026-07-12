@@ -33,7 +33,7 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 | Country                                                                             | Border Points                                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb))                                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slovenia (SŽ)                                                                       | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Slovenia](/country/slovenia) ([SŽ](/operator/sz))                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
 | [Greece](/country/greece) ([Attica](/operator/attica))                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [France](/country/france) ([SNCF](/operator/sncf))                                  | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
@@ -54,11 +54,11 @@ On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian 
 
 ### Slovenia
 
-From Slovenia, regional trains can be used to enter Italy via Villa Opicina. FIP Tickets or FIP Coupons of both countries (FS and SŽ) or a through FIP Ticket (FIP 50) are required. These trains run infrequently, so planning is recommended.
+From Slovenia, regional trains can be used to enter Italy from Ljubljana via Sežana to Trieste. There are two regional trains per day in each direction, with one of them already starting in Udine (as of 2026). At Villa Opicina, passengers must change from the SŽ train to the FS train. In timetables and journey planners, this route is not always fully shown. For example, SŽ may only know the connection up to Villa Opicina and FS only from Villa Opicina. Sometimes the trains are displayed as through services.
 
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (Villa Opicina – Trieste), the ÖBB FIP Coupon is valid, but a small long-distance surcharge must be paid, which is much lower than typical FS long-distance surcharges.
+For the cross-border section, FIP Coupons from both countries (FS and SŽ) or a continuous FIP 50 Ticket are required.
 
-The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger traffic on special occasions.
+The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger services on special occasions. Instead, this section can be covered on foot or by bus.
 
 {{% highlight tip %}}
 Booking FIP Tickets or FIP Coupons for the cross-border section between Slovenia and Italy is not possible online. However, very cheap regular tickets for the cross-border section can be purchased via Trenitalia. These are more expensive via SŽ.

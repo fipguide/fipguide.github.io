@@ -32,4 +32,4 @@ Reservations can be made for Switzerland as well as for most trains throughout E
 
 {{% /booking-section %}}
 
-To avoid waiting times, a personal consultation appointment can be booked online in advance: [Book appointment](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/weitere-services/weitere-sbb-services/beratung-reisezentrum.html)
+To avoid waiting times, a personal consultation appointment can be booked online in advance: [Book appointment](https://www.sbb.ch/en/help-and-contact/products-services/additional-services/other-sbb-services/consultation-appointment-travel-centre.html)

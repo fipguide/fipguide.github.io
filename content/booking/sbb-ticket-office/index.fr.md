@@ -30,4 +30,4 @@ Les Billets FIP 50 pour des trajets en Suisse ainsi que vers de nombreux pays eu
 Des réservations peuvent être effectuées pour la Suisse ainsi que pour la plupart des trains en Europe.
 {{% /booking-section %}}
 
-Pour éviter les temps d'attente, un rendez-vous de conseil personnel peut être pris en ligne à l'avance : [Prendre rendez-vous](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/weitere-services/weitere-sbb-services/beratung-reisezentrum.html)
+Pour éviter les temps d'attente, un rendez-vous de conseil personnel peut être pris en ligne à l'avance : [Prendre rendez-vous](https://www.sbb.ch/fr/aide-et-contact/produits-services/plus-de-services/autres-services-cff/entretien-conseil-centre-voyageurs.html)
