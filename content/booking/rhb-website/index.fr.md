@@ -34,6 +34,4 @@ Les réservations peuvent être achetées sur le site web de RhB. Dans le proces
 Si seule une réservation sans billet est souhaitée, l'option « Ce voyageur a besoin d'une réservation de place uniquement. » peut être sélectionnée lors de la saisie des voyageurs.
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [Retour via e-mail](https://github.com/fipguide/fipguide.github.io/issues/1035)

@@ -19,8 +19,6 @@ Bei Vorlage des FIP-Ausweises wird in den folgenden Ausgabestellen ein Ticket mi
 - **Durango**: Bahnhof Durango ([Google Maps](https://maps.app.goo.gl/KwxrPWcvahWCS664A))
 - **Hendaye**: Bahnhof Hendaye ([Google Maps](https://maps.app.goo.gl/YZV2uBX66KpiyCjZ7)) [^1]
 
-## Quellen
-
 [^1]: [Euskotren verkauft FIP 50 Tickets in Hendaye](https://github.com/fipguide/fipguide.github.io/issues/431)
 
 [^2]: [FIP Guide Community – Feedback](https://discord.com/channels/1250522473188032512/1433789686039707688/1521975127938433277)
