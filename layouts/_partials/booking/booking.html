@@ -1,13 +1,12 @@
 {{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
-<h4 style="display: none" id="{{ .id }}">
-  {{- .page.Title -}}
-</h4>
-<summary class="o-expander__summary o-expander__summary--booking">
+<summary class="o-expander__summary">
   <div class="o-booking__header-content">
     <div class="o-booking__title-wrapper">
       <div class="o-booking__title" data-pagefind-ignore>
         {{- partial "icon" (index $iconMapping .page.Params.type) -}}
-        <span class="o-booking__title-text">{{- .page.Title -}}</span>
+        <h4 id="{{ .id }}" class="o-expander__title-text">
+          {{- .page.Title -}}
+        </h4>
       </div>
       {{- if .subtitle }}
         <div class="o-booking__subtitle">

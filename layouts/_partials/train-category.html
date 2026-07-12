@@ -1,15 +1,9 @@
 <details
-  class="o-expander o-expander--train-category"
+  class="o-expander o-train-category"
   name="train-category"
   id="{{ .id }}"
 >
-  <h3 style="display: none" id="{{ .id }}">
-    {{- .title -}}
-  </h3>
-  <summary
-    class="o-expander__summary o-expander__summary--train-category"
-    data-pagefind-ignore
-  >
+  <summary class="o-expander__summary" data-pagefind-ignore>
     <div class="o-train-category__header">
       <div class="o-train-category__title">
         {{ $iconMapping := dict
@@ -24,7 +18,9 @@
           "ship" "directions_boat"
           }}
         {{- partial "icon" (index $iconMapping .type) -}}
-        <span class="o-train-category__title-text">{{- .title -}}</span>
+        <h4 id="{{ .id }}" class="o-expander__title-text">
+          {{- .title -}}
+        </h4>
       </div>
       <div class="o-train-category__tags">
         {{- if eq .fip_accepted true -}}
