@@ -55,7 +55,6 @@ Aucune remise FIP n’est accordée sur les salons ou les cabines. [^1]
 Les billets FIP doivent être achetés avant le voyage. L’achat à bord des navires n’est pas possible.
 FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplémentaires sont facturées au tarif plein. Cela inclut notamment les frais de réservation de cabine, le transport de véhicules ainsi que les taxes portuaires et environnementales.
 Avec un Coupon FIP, la traversée est gratuite.
-En général, la traversée de nuit est plus chère que celle de jour, car le tarif est plus élevé la nuit et la réservation d’une cabine est obligatoire.[^4]
 
 {{% expander "Vérifier les prix en ligne" info %}}
 {{% float-image
