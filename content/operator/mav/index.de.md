@@ -316,7 +316,9 @@ In Bussen des Schienenersatzverkehrs gelten FIP-Vergünstigungen, wenn sie einen
 
 ## Empfehlungen
 
-Für Fernverkehrsfahrten lohnt sich eine frühe Buchung von Reservierungen, besonders auf den internationalen Achsen nach Wien, Bratislava und Rumänien. Für regionale Erkundungen in Westungarn kann die Kombination aus MÁV- und GySEV-Verbindungen die flexibelste Lösung sein.
+{{% highlight tip %}}
+Für Fernverkehrsfahrten lohnt sich eine frühe Buchung von Reservierungen, besonders auf den internationalen Achsen nach Wien, Bratislava (und weiter nach Prag) und Rumänien. Für regionale Ausflüge in Westungarn kann die Kombination aus MÁV- und GySEV-Verbindungen die flexibelste Lösung sein. Das Wagenmaterial der MÁV ist sehr unterschiedlich. Es kommen sowohl moderne Reisezugwagen im Fernverkehr und Stadler-Triebzüge auf Regionalverbindungen zum Einsatz, als auch ziemlich in die Jahre gekommenes Wagenmaterial ohne Klimaanlage, dafür aber mit Fenstern, die sich öffnen lassen. Die Fernzüge mit Speisewagen sind besonders zu empfehlen, da hier teilweise frisch gekocht wird und die Speisekarte eine große Auswahl zu bieten hat.
+{{% /highlight %}}
 
 ## Quellen
 

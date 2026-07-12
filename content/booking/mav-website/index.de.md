@@ -22,7 +22,7 @@ Die MÁV bietet auch eine [App](https://www.mavcsoport.hu/mav-szemelyszallitas/b
 
 ## FIP 50 Fahrkarten
 
-Auf der Buchungswebsite der MÁV werden FIP 50 Tickets für Verbindungen der MÁV und GySEV verkauft. Um den FIP 50 Rabatt hinzuzufügen, muss auf der Startseite der Verbindungssuche unter _Passengers and Discounts_ die Übersicht der Reisenden geöffnet werden. Erst nachdem das Geburtsdatum eingegeben wurde, kann mit _Add Discounts_ die FIP 50 Ermäßigung hinzugefügt werden. Dabei wird zwischen FIP 50 1. Klasse und 2. Klasse unterschieden. Die Klasse bezieht sich hierbei noch nicht auf die gewünschte Klasse des Tickets, sondern der Berechtigung.
+Auf der Buchungswebsite der MÁV werden FIP 50 Tickets für Verbindungen der MÁV und GySEV verkauft. Um den FIP 50 Rabatt hinzuzufügen, muss auf der Startseite der Verbindungssuche unter _Passengers and Discounts_ die Übersicht der Reisenden geöffnet werden. Erst nachdem das Geburtsdatum eingegeben wurde, kann mit _Add Discounts_ die FIP 50 Ermäßigung hinzugefügt werden. Dabei wird zwischen FIP 50 1. Klasse und 2. Klasse unterschieden. Die Klasse bezieht sich hierbei noch nicht auf die gewünschte Klasse des Tickets, sondern der Berechtigung. Bei internationalen Fahrten ist zu beachten, dass der FIP 50 Rabatt nur auf den ungarischen Teil angewandt wird.
 
 ![MÁV Geburtsdatum](mav-website-birthday.webp)
 

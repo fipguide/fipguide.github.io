@@ -20,7 +20,7 @@ Neben MÁV und GySEV verkehren auch private Betreiber wie RegioJet in Ungarn, be
 
 Ungarn verfügt über ein dichtes Schienennetz mit klarem Knoten in Budapest. Wichtige internationale Achsen bestehen Richtung Wien, Bratislava, Kosice, Bukarest und Belgrad. Im Fernverkehr dominieren InterCity-, EuroCity- und Railjet-Verbindungen; im Regionalverkehr ist das Angebot je nach Region unterschiedlich dicht.
 
-Die Infrastruktur wird teilweise modernisiert, gleichzeitig gibt es weiterhin Strecken mit älterem Fahrzeugmaterial und längeren Fahrzeiten. Für landschaftlich attraktive Fahrten ist unter anderem die Region am Balaton interessant, wo sowohl Fern- als auch Regionalzüge verkehren.
+Die Infrastruktur wird teilweise modernisiert, gleichzeitig gibt es weiterhin Strecken mit älterem Fahrzeugmaterial und längeren Fahrzeiten. Für landschaftlich attraktive Fahrten ist unter anderem die Region am Balaton interessant, wo sowohl Fern- als auch Regionalzüge verkehren. Neben Budapest lassen sich per Zug auch schöne Städte wie Győr oder Eger gut erreichen.
 
 ## Anreise und Grenzpunkte
 
@@ -68,4 +68,4 @@ Für eine durchgängige Fahrt ist entweder ein FIP ermäßigtes Ticket oder FIP 
 
 ### Österreich
 
-Von Österreich aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Fernzug-Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom werden FIP Tickets der ÖBB und MÁV benötigt. Auf allen grenzüberschreitenden Regionalverbindungen fährt der Betreiber GySEV, womit FIP Tickets der ÖBB und GySEV erforderlich sind. Zudem besteht die Möglichkeit, die Nachtzugverbindung _Dacia_ aus Wien zu nutzen. Hierfür muss ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der ÖBB und MÁV vorhanden sein.
+Von Österreich aus können sowohl grenzüberschreitende Regionalzüge als auch Eurocity-Züge / Railjets genutzt werden. Auf der Fernzug-Verbindung von Wien nach Budapest über den Grenzübergang Hegyeshalom werden FIP Tickets der ÖBB und MÁV benötigt. Auf allen grenzüberschreitenden Regionalverbindungen fährt der Betreiber GySEV, womit FIP Tickets der ÖBB und GySEV erforderlich sind. Zudem besteht die Möglichkeit, die Nachtzugverbindung _Dacia_ aus Wien zu nutzen. Hierfür muss ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der ÖBB und MÁV plus Reservierung vorhanden sein.

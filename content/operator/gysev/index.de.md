@@ -4,7 +4,6 @@ title: "GySEV / Raaberbahn"
 country:
   - "austria"
   - "hungary"
-  - "slovakia"
 operator: "gysev"
 
 aliases:
