@@ -292,7 +292,7 @@ Beim Kauf von FIP-ermäßigten Tickets oder beim Klassenwechsel von der zweiten 
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 13 Jahre reisen kostenlos. Ab 14 Jahren gilt der reguläre FIP-Erwachsenentarif.
+Kinder bis einschließlich 13 Jahre reisen kostenlos. Ab 14 Jahren gilt der reguläre FIP-Erwachsenentarif.[^2]
 
 Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung eines Erwachsenen reisen. Kinder ab 10 Jahren müssen eine unterschriebene [Elternerklärung](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) mitführen. MÁV übernimmt keine Verantwortung für allein reisende Kinder. Eltern haften für alle Schäden, die durch das Kind verursacht werden. Wenn ein Kind ohne Begleitung eines Erwachsenen und ohne Elternerklärung angetroffen wird, werden die Behörden informiert.[^1]
 
