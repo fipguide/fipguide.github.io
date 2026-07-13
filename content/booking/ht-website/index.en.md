@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Hellenic Train Website"
-description: "Booking information for the Hellenic Train website."
+title: "Hellenic Train Website / App"
+description: "Booking information for the Hellenic Train website and app."
 params:
   classes:
     first: "free"
@@ -10,18 +10,18 @@ params:
   fip_global_fare: false
   reservations: true
   booking_link: "https://newtickets.hellenictrain.gr/"
-  type: "website"
+  type: "online"
 ---
+
+Hellenic Train also offers an [app](https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app) through which FIP 50 Tickets can be booked.
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets can be booked on the website.
+FIP 50 Tickets can be booked on the website and in the app.
 
-Hellenic Train also offers an [app](https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app) through which FIP 50 Tickets can be booked.
-
-## Booking process
+## Booking process website
 
 {{% float-image
     src="step-1.webp"
