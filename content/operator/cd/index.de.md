@@ -690,7 +690,7 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 ### Anschlüsse – AJC
 
-{{% ajc /%}}
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ## Empfehlungen
 

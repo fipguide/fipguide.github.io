@@ -204,18 +204,6 @@ Zusätzlich gibt es die Möglichkeit eine _SBB Junior-Karte_ für 30 CHF zu erwe
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse
-
-#### HOTNAT
-
-Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
-
-{{% hotnat /%}}
-
-#### AJC
-
-{{% ajc /%}}
-
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
 Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP Freifahrtscheine: [^2]
@@ -232,6 +220,18 @@ Auf einigen Routen der Schweizerischen Südostbahn (SOB) gelten FIP Freifahrtsch
 ### Grenzüberschreitende Züge (Italien, Frankreich)
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien](/country/switzerland#italien "Einreise Italien")
+
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

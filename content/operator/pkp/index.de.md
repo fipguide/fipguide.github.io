@@ -304,10 +304,6 @@ Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, da
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse – AJC
-
-{{% ajc /%}}
-
 ### Gültigkeitsdauer im Nahverkehr
 
 #### Polregio
@@ -374,6 +370,10 @@ FIP Fahrkarten sind im Słoneczny Sonderzug der KM (Warschau nach Danzig/Gdingen
 ### Seilbahnen und Zahnradbahnen
 
 FIP-Fahrkarten gelten nicht auf von der PKP betriebenen Seil- und Zahnradbahnen.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

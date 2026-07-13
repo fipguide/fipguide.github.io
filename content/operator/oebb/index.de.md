@@ -287,18 +287,6 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse
-
-#### HOTNAT
-
-Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
-
-{{% hotnat /%}}
-
-#### AJC
-
-{{% ajc /%}}
-
 ### Züge nach Italien
 
 Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
@@ -352,6 +340,18 @@ Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zw
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
+
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

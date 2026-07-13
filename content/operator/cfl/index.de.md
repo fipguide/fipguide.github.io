@@ -137,14 +137,14 @@ In der zweiten Klasse ist die Fahrt generell kostenfrei möglich, daher ist dies
 
 ### Tarifliche Besonderheiten
 
-### Anschlüsse – AJC
-
-{{% ajc /%}}
-
 ### CFL Bus Luxemburg - Saarbrücken
 
 Im Expressbus der CFL zwischen Luxemburg und Saarbrücken ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/saarbrueckenexpress/1000) eingesehen werden. \
 Es gibt auf dieser Verbindung keine weiteren FIP-Vergünstigungen.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### CFL Bus Lorraine Express
 

@@ -9,13 +9,9 @@ Solltest du ein flexibles Ticket besitzen und der nächste Zug ist nicht reservi
 
 Wenn das Anschlussticket zuggebunden ist und du kein durchgängiges Ticket besitzt, gibt es in diesem Fall zwei Möglichkeiten zur Weiterreise:
 
-- HOTNAT
-- AJC
+- HOTNAT ([Weitere Informationen](#hotnat))
+- AJC ([Weitere Informationen](#ajc))
 
-HOTNAT noch AJC sind Regelungen zur Weiterreise mit einem Zug und sehen keine Übernahme von Kosten für Hostel- oder Taxikosten vor.
+HOTNAT noch AJC sind Regelungen zur Weiterreise mit einem Zug und sehen keine Übernahme von Kosten für Hotel- oder Taxikosten vor.
 
 Neben den genannten Möglichkeiten stehen dir zudem die [gesetzlichen Fahrgastrechte](https://europa.eu/youreurope/citizens/travel/passenger-rights/rail/index_en.htm) zu, sofern es sich um ein gemeinsamen Beförderungsvertrag handelt (z. B. ein durchgängiges FIP reduziertes Ticket oder ein Umstieg innerhalb des Geltungsbereich eines FIP Freifahrtscheins).
-
-{{% hotnat /%}}
-
-{{% ajc /%}}

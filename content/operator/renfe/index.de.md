@@ -250,10 +250,6 @@ Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse – AJC
-
-{{% ajc /%}}
-
 ### Fahrtunterberchungen
 
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
@@ -261,6 +257,10 @@ Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unt
 ### Renfe Feve
 
 FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) zwischen Ferrol und Bilbao in Nordspanien.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ## Empfehlungen
 

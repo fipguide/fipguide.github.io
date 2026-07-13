@@ -1,17 +1,3 @@
-ajc:
-  content: >-
-    <b>Was ist AJC?</b><p>Das [Abkommen über die Weiterreise (Agreement on
-    Journey Continuation –
-    AJC)](https://www.cit-rail.org/media/files/civ-products-april-2025/ajc_leaflet_2025-12-14_de.pdf)
-    ermöglicht Passagieren im internationalen Zugverkehr die Weiterreise in dem
-    nächsten verfügbaren Zug, falls sie ihren Anschlusszug verpasst haben. Dies
-    erfolgt ohne zusätzliche Kosten. Wichtig ist, dass bei der ursprünglichen
-    Buchung eine ausreichende Umsteigezeit eingeplant wurde.</p><p>Wende dich
-    für eine Inanspruchnahme an den Ticketschalter des Bahnhofs, in dem du in
-    den internationalen Zug einsteigen wolltest, den du verpasst hast. AJC gilt
-    bei den folgenden beteiligten Betreibern: BLS, CD, CFL, DB, DSB, Eurostar,
-    GySEV, HZPP, MAV-Start, NS, ÖBB, PKP, Renfe, SJ, SBB, SNCB-NMBS, SNCF, SZ,
-    FS und ZSSK.</p>
 anchorLink:
   copied: Link wurde in die Zwischenablage kopiert
   copy: Link zu diesem Abschnitt kopieren
@@ -172,19 +158,6 @@ highlight:
   inofficial: Inoffizielle Information
   tip: Persönlicher Tipp
 home-page-text: FIP Guide Startseite
-hotnat:
-  content: >-
-    <b>Was ist HOTNAT?</b><p>Wenn beim Umstieg zwischen zwei
-    Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss
-    verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers
-    oder eines anderen Railteam Mitglieds ausgewichen werden. Diese Vereinbarung
-    wird [HOTNAT (Hop on the next available
-    train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/)
-    genannt.</p><p>Zur Nutzung von HOTNAT muss am Service Schalter vor Ort die
-    Umbuchung auf den nächsten Zug erfolgen. HOTNAT gilt nur für den Umstieg von
-    Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB,
-    SNCB, SNCF, ÖBB) an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und
-    Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.</p>
 identify-operator:
   learn-more: Zur Website
   title: Zugbetreiber identifizieren und Verbindungen suchen

@@ -168,10 +168,6 @@ Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse – AJC
-
-{{% ajc /%}}
-
 ### Fahrtunterberchungen
 
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]
@@ -189,6 +185,10 @@ FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im
 {{% highlight inofficial %}}
 Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
 {{% /highlight %}}
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ## Empfehlungen
 

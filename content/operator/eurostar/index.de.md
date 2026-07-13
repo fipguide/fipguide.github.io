@@ -217,7 +217,7 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 
 Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch HOTNAT genutzt werden.
 
-{{% hotnat /%}}
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Umstieg in London)
 

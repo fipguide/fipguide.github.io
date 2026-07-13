@@ -261,18 +261,6 @@ Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse
-
-#### HOTNAT
-
-Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
-
-{{% hotnat /%}}
-
-#### AJC
-
-{{% ajc /%}}
-
 ### Reservierungspflicht im Regionalverkehr
 
 Auf einigen `TER` Regionalzug-Linien gibt es eine Reservierungspflicht. Diese besteht nur für Fahrten von oder nach Paris. Auf allen anderen Fahrten gibt es keine Reservierungspflicht. [^2]
@@ -423,6 +411,18 @@ Vergünstigte FIP Tickets für `RER` und Transilien-Züge können an Transilien 
 {{% highlight important %}}
 Viele Stationen mit Ticketschranken sind nicht mit Personal besetzt. Es gibt zwar Hilfssprechanlagen, diese funktionieren aber unzuverlässig. Ohne die _Contremarque de Passage_ (Temporäre Zugangskarte) besteht daher oft keine Möglichkeit, Zugang zu den Stationen zu erhalten.
 {{% /highlight %}}
+
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

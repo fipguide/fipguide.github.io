@@ -331,10 +331,6 @@ Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahren kostenlos. 
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse – AJC
-
-{{% ajc /%}}
-
 ### Verkehr nach Österreich
 
 In internationalen Fernzügen von Italien nach Österreich werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag (wie im restlichen italienischen Fernverkehr) zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
@@ -425,6 +421,10 @@ Tickets für nicht zuggebundene Regionalzüge (_non prenotabile_) müssen am Bah
 ### Fahrtunterbrechnung
 
 Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne Ankündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets mit aufgedruckter Zugnummer (siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)).
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

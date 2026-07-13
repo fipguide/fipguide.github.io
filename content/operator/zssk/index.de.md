@@ -211,13 +211,13 @@ Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internation
 
 ## Tarifliche Besonderheiten
 
-### Anschlüsse – AJC
-
-{{% ajc /%}}
-
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 
