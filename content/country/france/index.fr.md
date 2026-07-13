@@ -8,9 +8,9 @@ params:
     - ’[Frecciarossa (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris "Frecciarossa (Trenitalia)")’
     - Getlink (Eurotunnel LeShuttle)
     - GoVolta
+    - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
     - RATP
     - Transdev
-    - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
 ---
 
 ## Informations FIP
