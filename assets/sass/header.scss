@@ -78,6 +78,10 @@
   @media print {
     display: none;
   }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 }
 
 #overlay.overlay--show {
