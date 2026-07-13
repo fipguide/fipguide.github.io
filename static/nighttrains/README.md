@@ -30,6 +30,29 @@ In `map.js`, coordinate conversion for mobile/touch selection was adjusted:
 
 Reason: In this Hugo site, the map is rendered inside the regular content container and is not positioned like the original full-width page. Without offset correction, touch points were shifted, so nearby routes were often not detected correctly. This especially affected the mobile behavior where the train list overlay (`.row.trainlist`) should appear when tapping near multiple lines.
 
+### 3) Added local FIP link button in map overlay
+
+In `map.js`, the single-train overlay now renders an additional button next to "More Details":
+
+- label: `map_i18n.fipInformation` (configured as "FIP Informations")
+- behavior: scroll to the matching local FIP expander and open it
+
+Technical details:
+
+- added `getFipDetailsTarget(route_id)` that resolves route IDs against `window.nighttrainsFipByRouteId`
+- added `scrollToFipDetails(route_id)` that opens `<details>` and runs `scrollIntoView`
+- added conditional overlay button in `showSingleTrainOverlay(id)` only if a mapping exists
+
+The route-to-expander mapping is generated in Hugo (not hardcoded in JS):
+
+- `layouts/_shortcodes/nighttrains-fip-details.html` builds a dictionary from each entry's `source_route_ids` to its local expander `id`
+- this dictionary is exposed as `window.nighttrainsFipByRouteId`
+
+Translations for map overlay labels are injected before loading `map.js`:
+
+- `layouts/_shortcodes/nighttrains-map.html` sets `window.map_i18n` using i18n keys
+- keys currently used: `nightTrains.back`, `dialog.close`, `nightTrains.runs`, `nightTrains.moreDetails`, `nightTrains.fipInformationButton`, `nightTrains.selectLine`
+
 ## Reproduction steps
 
 1. Refresh assets from source if needed:
@@ -48,3 +71,5 @@ Reason: In this Hugo site, the map is rendered inside the regular content contai
 - Single route tap opens route detail overlay.
 - Mobile taps near route clusters can open train list overlay (`.row.trainlist`).
 - Overlay detail button and route metadata are loaded from local JSON.
+- Overlay shows "FIP Informations" when route ID is mapped.
+- Clicking "FIP Informations" scrolls to the correct expander and opens it.

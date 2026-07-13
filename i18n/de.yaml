@@ -208,6 +208,18 @@ news:
   all: Alle News
   further: Weitere News
   headline: Was gibt's Neues?
+nightTrains:
+  back: Zurueck
+  bookingOptions: Buchungswege
+  detailsHeading: Detailinformationen zu Nachtzuegen
+  fipInformationButton: FIP Informationen
+  missingBooking: Fehlender Buchungsweg
+  moreDetails: Mehr Details
+  'no': Nein
+  runs: Faehrt
+  selectLine: Linie auswaehlen
+  sourceRouteIds: Zugeordnete Strecken-IDs
+  'yes': Ja
 operators:
   descriptionTemplate: >-
     Informationen über die FIP-Bedingungen bei %s: Gültigkeit, Ticket- und

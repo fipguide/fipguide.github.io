@@ -213,6 +213,18 @@ news:
   all: Toutes les actualités
   further: Autres actualités
   headline: Quoi de neuf ?
+nightTrains:
+  back: Retour
+  bookingOptions: Canaux de reservation
+  detailsHeading: Informations detaillees sur les trains de nuit
+  fipInformationButton: Informations FIP
+  missingBooking: Canal de reservation manquant
+  moreDetails: Plus de details
+  'no': Non
+  runs: Circule
+  selectLine: Selectionner une ligne
+  sourceRouteIds: IDs de lignes associees
+  'yes': Oui
 operators:
   descriptionTemplate: >-
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et

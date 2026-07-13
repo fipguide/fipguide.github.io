@@ -12,6 +12,7 @@ if (typeof map_i18n !== "object") {
     close: "Close",
     runs: "Runs",
     details: "More Details",
+    fipInformation: "FIP Informations",
     selectline: "Select a line",
   };
 }
@@ -19,6 +20,26 @@ if (typeof map_i18n !== "object") {
 var map_div = document.querySelector("#bot-map");
 var map_svg = document.querySelector("#bot-map svg");
 var map_viewbox = map_svg.viewBox.baseVal;
+
+function getFipDetailsTarget(route_id) {
+  if (!window.nighttrainsFipByRouteId) {
+    return null;
+  }
+  return window.nighttrainsFipByRouteId[String(route_id)] || null;
+}
+
+function scrollToFipDetails(route_id) {
+  var target_id = getFipDetailsTarget(route_id);
+  if (!target_id) {
+    return;
+  }
+  var target = document.getElementById(target_id);
+  if (!target) {
+    return;
+  }
+  target.open = true;
+  target.scrollIntoView({ behavior: "smooth", block: "start" });
+}
 
 function handleZoom(e) {
   d3.select("#bot-map > svg > g").attr("transform", e.transform);
@@ -126,6 +147,10 @@ function showSingleTrainOverlay(id, x_position = null) {
     `${view_ontd_map[id].agency_id}</strong></span> ` +
     `${view_ontd_map[id].route_long_name}`;
   const stroke = getStrokeColor(id);
+  var fip_button = "";
+  if (getFipDetailsTarget(id)) {
+    fip_button = `<a href="javascript:void(0)" onclick="scrollToFipDetails('${id}')" class="button">${map_i18n.fipInformation}</a>`;
+  }
 
   const text = `
 <div class="row singletrain">
@@ -157,6 +182,7 @@ ${view_ontd_map[id].trip_short_name_1}
 <div class="column">
 <div class="buttons details">
 <a href="https://back-on-track.eu/nighttrains/?route_id=${id}" target="_blank" class="button button-primary primary">${map_i18n.details}</a>
+${fip_button}
 </div>
 </div>
 

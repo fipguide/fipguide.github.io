@@ -204,6 +204,18 @@ news:
   all: All News
   further: Other News
   headline: What's new?
+nightTrains:
+  back: Back
+  bookingOptions: Booking options
+  detailsHeading: Night train details
+  fipInformationButton: FIP Informations
+  missingBooking: Missing booking option
+  moreDetails: More Details
+  'no': 'No'
+  runs: Runs
+  selectLine: Select a line
+  sourceRouteIds: Mapped route IDs
+  'yes': 'Yes'
 operators:
   descriptionTemplate: >-
     Information about FIP conditions at %s: validity, ticket and reservation

@@ -7,4 +7,6 @@ Hier findest du die Nachtzugkarte von Back-on-Track als lokale Kopie in unserem 
 
 {{< nighttrains-map >}}
 
+{{< nighttrains-fip-details >}}
+
 Quelle: [Back-on-Track Nachtzugkarte](https://back-on-track.eu/de/nachtzugkarte/)

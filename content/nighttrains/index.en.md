@@ -7,4 +7,6 @@ Here you can find the Back-on-Track night train map as a local copy in our proje
 
 {{< nighttrains-map >}}
 
+{{< nighttrains-fip-details >}}
+
 Source: [Back-on-Track Night Train Map](https://back-on-track.eu/night-train-map/)
