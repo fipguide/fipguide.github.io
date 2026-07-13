@@ -17,8 +17,6 @@ Sur le site Web de Koleje Wielkopolskie, disponible uniquement en polonais, des 
 
 ![Site Web KW Réservation FIP 50](kw-fip50.webp)
 
-## Sources
+{{% /booking-section %}}
 
 [^1]: [PKP FIP information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
-
-{{% /booking-section %}}

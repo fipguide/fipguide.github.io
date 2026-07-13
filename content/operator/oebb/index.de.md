@@ -270,6 +270,8 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
+{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich" /%}}
+
 ### Im Zug
 
 Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufgesucht wird. Jedoch sind sie der Regel teurer als Tickets, die vorab über andere Verkaufsstellen erworben werden. Auf S-Bahn-Strecken ist der Ticketkauf vor dem Einsteigen verpflichtend.
@@ -308,10 +310,6 @@ FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` 
 #### Railjet Tarvisio Boscoverde – Venedig
 
 FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](/operator/oebb#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
-
-#### Eurocity Triest
-
-FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60 € für die 2. Klasse und 4,60 € für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
 ### REX63 (Pamhagen – Neusiedl am See)
 

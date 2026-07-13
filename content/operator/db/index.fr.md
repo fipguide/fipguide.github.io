@@ -83,7 +83,14 @@ Réservation obligatoire pour les trajets transfrontaliers vers la France.
     reservation_possible=true
 %}}
 
-Trains internationaux de la catégorie la plus élevée de l’ÖBB/ČD en coopération avec la DB entre Hambourg, Berlin, Dresde et Prague ainsi que Munich, l’Autriche et l’Italie ou la Hongrie. Les Railjets avec moins d’arrêts sont commercialisés comme Railjet Xpress. Les trains disposent d’un bistro.
+Trains internationaux de la catégorie la plus élevée.
+
+Ils sont exploités par
+
+- l’ÖBB en coopération avec la DB sur la liaison entre Munich, l’Autriche et l’Italie ou la Hongrie.
+- les ČD en coopération avec la DB entre Hambourg, Berlin, Dresde et Prague. Certains trains sont prolongés jusqu’à Copenhague et circulent en plus en coopération avec la DSB.
+
+Les Railjets avec moins d’arrêts sont commercialisés comme Railjet Xpress. Les trains disposent d’un bistro.
 
 Il existe trois classes de voitures :
 
@@ -262,7 +269,9 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
     type="bus"
     fip_accepted=false
 %}}
+
 Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations

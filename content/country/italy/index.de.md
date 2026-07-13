@@ -33,7 +33,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | Land                                                                               | Grenzpunkte                                                                                         |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb))                             | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slowenien (SŽ)                                                                     | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Slowenien](/country/slovenia) ([SŽ](/operator/sz))                                | Nova Gorica (fr), Villa Opicina (fr)                                                                |
 | [Griechenland](/country/greece) ([Attica](/operator/attica))                       | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [Frankreich](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
@@ -54,12 +54,9 @@ Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abs
 
 ### Slowenien
 
-Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP 50 Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
+Aus Slowenien kann mit Regionalzügen von Ljubljana über Sezana nach Triest eingereist werden. Täglich gibt es zwei Regionalzüge pro Richtung, wobei einer davon bereits in Udine startet (Stand 2026). In Villa Opicina müssen Fahrgäste aus dem Zug der SŽ in den der FS wechseln. In Fahrplänen und Verbindungssuchen ist diese Route nicht immer vollständig hinterlegt. Beispielsweise kennt die SŽ diese Verbindung nur bis und die FS ab Villa Opicina. Teilweise werden die Züge jedoch auch als durchgehend angezeigt. Für den grenzüberschreitenden Abschnitt werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt.
 
-Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
-Dabei gilt im italienischen Abschnitt (Villa Opicina – Trieste) der ÖBB FIP Coupon, wobei hier ein geringer Fernverkehrszuschlag zu zahlen ist. Dieser ist aber deutlich niedriger als die typischen FS Fernverkehrszuschläge.
-
-Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
+Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren. Stattdessen kann dieser Abschnitt aber zu Fuß oder mit dem Bus absolviert werden.
 
 {{% highlight tip %}}
 Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen Slowenien und Italien ist online nicht möglich. Über die Trenitalia können jedoch sehr günstige grenzüberschreitende Normalpreistickets erworben werden. Diese sind bei der SŽ teurer.

@@ -69,11 +69,13 @@ Reservation prices are variable (see [trains with mandatory reservations](#train
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
 %}}
-Railjet trains connect Brno and Prague quickly and comfortably and also offer a direct connection via Břeclav to Vienna and Graz. They stop only at major stations. From December 2025, international ComfortJet trains between Prague and Germany/Denmark will also fall under this category. There are usually three classes:
+Railjet trains connect Brno and Prague quickly and comfortably and also offer a direct connection via Břeclav to Vienna and Graz. They stop only at major stations. International ComfortJet trains between Prague and Germany or Denmark also fall under this category.
 
-**Economy**: Comparable to 2nd class. \
-**First Class**: Comparable to 1st class. An FIP pass for 1st class is required. \
-**Business**: 1st class with welcome drink and private compartments. Not usable with FIP Coupon (even with surcharge).
+There are usually three classes:
+
+- **Economy**: Comparable to 2nd class.
+- **First Class**: Comparable to 1st class. An FIP pass for 1st class is required.
+- **Business**: 1st class with welcome drink and private compartments. Not usable with FIP Coupon (even with surcharge).
 
 The trains feature modern rolling stock in the ÖBB Railjet style, but with blue exterior. Bicycles, prams, and other bulky luggage can be taken on board. Food and drinks are available in the restaurant car or via at-seat service. In 1st class, passengers receive a free bottle of water and a newspaper; in Business Class, additionally a welcome drink and a 50 CZK voucher for the restaurant (within Czechia only). For children, there is a dedicated children's cinema.
 

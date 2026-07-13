@@ -46,10 +46,6 @@
   font-weight: 600;
 }
 
-.o-booking__title-text {
-  line-height: 1.1;
-}
-
 .o-booking__subtitle {
   font-weight: 400;
   font-size: 1.4rem;
@@ -60,6 +56,10 @@
   flex-wrap: wrap;
   gap: 0.6rem;
   margin-top: 0.4rem;
+
+  &:empty {
+    margin-top: 0;
+  }
 
   @media (max-width: #{$breakpoint-md}) {
     &:empty {
@@ -86,18 +86,24 @@
   }
 }
 
-@mixin booking_section($name) {
-  &-#{$name}--hidden &-#{$name} {
-    display: none;
-  }
-}
-
-.o-booking__section {
-  @include booking_section("fip_50");
-  @include booking_section("fip_global_fare");
-  @include booking_section("reservations");
-}
-
 .o-booking__info {
   margin-bottom: 1.5rem;
+}
+
+.o-booking__sections > .o-booking__section:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.o-booking__content {
+  h4 {
+    @extend %h3;
+  }
+
+  h5 {
+    @extend %h4;
+  }
+
+  h6 {
+    @extend %h5;
+  }
 }
