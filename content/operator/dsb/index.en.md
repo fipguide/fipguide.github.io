@@ -186,6 +186,10 @@ FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen
 Allegedly, FIP 50 Tickets are valid on Scandlines ferries in connection with a train journey through Denmark. However, this has not yet been confirmed by us. [^1]
 {{% /highlight %}}
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
 {{% highlight tip %}}
