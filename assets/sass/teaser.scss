@@ -80,6 +80,10 @@
     transition:
       background 0.2s,
       color 0.2s;
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
   }
 }
 
