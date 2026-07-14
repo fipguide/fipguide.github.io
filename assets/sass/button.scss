@@ -36,6 +36,10 @@ button {
     display: block;
   }
 
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+
   &__internal {
     border: none;
   }
