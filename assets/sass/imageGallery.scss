@@ -23,16 +23,16 @@
     @media (prefers-reduced-motion: reduce) {
       transition: none;
     }
-  }
 
-  &::scroll-button(*):hover,
-  &::scroll-button(*):focus {
-    color: var(--link-hovered);
-  }
+    &:hover,
+    &:focus {
+      color: var(--link-hovered);
+    }
 
-  &::scroll-button(*):disabled {
-    opacity: 0.2;
-    cursor: unset;
+    &:disabled {
+      opacity: 0.2;
+      cursor: unset;
+    }
   }
 
   &::scroll-button(left) {
@@ -43,7 +43,6 @@
 
   &::scroll-button(right) {
     content: "";
-
     mask: url(/icons/material-symbols-rounded/keyboard_arrow_right.svg)
       no-repeat center / contain;
   }
