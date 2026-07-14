@@ -258,6 +258,10 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l’Espagne.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
 Sur le site de Zugpost, il y a un [récit de voyage intéressant sur le réseau FEVE (uniquement en allemand)](https://zugpost.org/feve-schmalspurbahn/).

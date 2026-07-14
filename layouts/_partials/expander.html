@@ -5,7 +5,11 @@
   <summary class="o-expander__summary">
     <div class="o-expander__summary-title">
       {{- partial "icon" (index $iconMapping .Variant) -}}
-      <span class="o-expander__title-text">{{ .Title }}</span>
+      <span
+        class="o-expander__title-text"
+        {{ with .Id }}id="{{ . }}"{{ end }}
+        >{{ .Title }}</span
+      >
     </div>
     {{ partial "icon" "keyboard_arrow_down" }}
   </summary>

@@ -147,6 +147,10 @@ There are no further FIP discounts on this connection.
 CFL operates an express bus between Luxembourg and _Lorraine TGV_ station in France as a TGV feeder. Free travel is not generally possible on this bus. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/internationaldetail/gare-lorraine). The buses require a reservation and a ticket can be purchased up to 2.5 hours before departure. \
 We have no official information regarding the validity of FIP discounts.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
