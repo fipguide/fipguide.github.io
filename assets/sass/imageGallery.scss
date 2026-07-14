@@ -7,6 +7,46 @@
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   list-style: none;
+
+  &::scroll-button(*) {
+    border: 0;
+    background: none;
+    background-color: currentColor;
+    color: var(--link-default);
+    cursor: pointer;
+    width: 3.2rem;
+    height: 3.2rem;
+    aspect-ratio: 1 / 1;
+    line-height: 1;
+    transition: color 0.3s ease;
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
+  }
+
+  &::scroll-button(*):hover,
+  &::scroll-button(*):focus {
+    color: var(--link-hovered);
+  }
+
+  &::scroll-button(*):disabled {
+    opacity: 0.2;
+    cursor: unset;
+  }
+
+  &::scroll-button(left) {
+    content: "";
+    mask: url(/icons/material-symbols-rounded/keyboard_arrow_left.svg) no-repeat
+      center / contain;
+  }
+
+  &::scroll-button(right) {
+    content: "";
+
+    mask: url(/icons/material-symbols-rounded/keyboard_arrow_right.svg)
+      no-repeat center / contain;
+  }
 }
 
 .m-image-gallery__item {
@@ -15,9 +55,9 @@
   list-style: none;
 }
 
+// TODO: we should use the same aspect ratio for all images, so we don’t need this ones.
+
 .m-image-gallery__item > figure {
-  flex: 1;
-  min-height: 0;
   height: 100%;
 }
 
