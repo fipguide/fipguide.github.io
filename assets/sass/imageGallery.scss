@@ -1,0 +1,27 @@
+.m-image-gallery {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  list-style: none;
+}
+
+.m-image-gallery__item {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  list-style: none;
+}
+
+.m-image-gallery__item > figure {
+  flex: 1;
+  min-height: 0;
+  height: 100%;
+}
+
+.m-image-gallery__item > figure > img {
+  height: 100%;
+  object-fit: cover;
+}

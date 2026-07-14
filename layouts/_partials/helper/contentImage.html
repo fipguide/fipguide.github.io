@@ -1,6 +1,8 @@
-{{ $contentImage := .Page.Resources.GetMatch "image.webp" }}
-{{ if not $contentImage }}
-  {{ $contentImage = resources.Get "images/default.webp" }}
+{{ $contentImages := .Page.Resources.ByType "image" }}
+{{ if not $contentImages }}
+  {{ $contentImages = slice (resources.Get "images/default.webp") }}
 {{ end }}
 
-{{ return dict "image" $contentImage }}
+{{ $firstImage := index $contentImages 0 }}
+
+{{ return dict "image" $firstImage "firstImage" $firstImage "images" $contentImages }}

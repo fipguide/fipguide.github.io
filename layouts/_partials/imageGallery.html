@@ -1,0 +1,7 @@
+<ul class="m-image-gallery">
+  {{- range .images -}}
+    <li class="m-image-gallery__item">
+      {{ partial "image" (dict "image" .) }}
+    </li>
+  {{- end -}}
+</ul>
