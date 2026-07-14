@@ -3,6 +3,7 @@
     "Title" .Title
     "Variant" "faq"
     "Name" "faq"
+    "Id" (printf "%s" (.File.Dir | path.Base | anchorize))
     "Content" .Content
     )
   }}

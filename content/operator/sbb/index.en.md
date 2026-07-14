@@ -220,6 +220,18 @@ SBB FIP Coupons are valid on some routes of the Schweizerische Südostbahn (SOB)
 
 For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.

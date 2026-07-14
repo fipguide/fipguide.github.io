@@ -178,6 +178,10 @@ menu > li > menu {
     transform: translateX(100%);
     transition: transform 0.3s ease-in-out;
 
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
+
     > menu {
       margin-top: 4rem;
       padding-bottom: 1rem;
@@ -247,6 +251,10 @@ menu > li > menu {
   transition: color 0.3s ease;
   height: fit-content;
   line-height: normal;
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 
   &:hover {
     color: var(--link-hovered);
