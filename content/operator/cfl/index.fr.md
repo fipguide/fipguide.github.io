@@ -35,8 +35,7 @@ Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obt
   title="InterCity (IC)"
   type="highspeed"
   fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+  reservation_possible=false
 %}}
 
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
@@ -104,17 +103,18 @@ Aux [Guichets CFL](#en-gare), les billets de première classe sont disponibles a
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Luxembourg pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Uniquement pour les liaisons transfrontalières depuis/vers la Belgique"
+    subtitle="Uniquement pour les liaisons transfrontalières depuis/vers la Belgique"
 /%}}
 
 ### Par téléphone
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_global_fare=nil
+    fip_50=true
 %}}
 
 En raison des frais de réservation, il peut être avantageux d’acheter un billet de première classe régulier via l’application CFL ou un distributeur automatique.
