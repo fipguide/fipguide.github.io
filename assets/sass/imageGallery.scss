@@ -6,7 +6,12 @@
   gap: 1.5rem;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
   list-style: none;
+
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
 
   &::scroll-button(*) {
     border: 0;
