@@ -7,7 +7,7 @@
       {{- partial "icon" (index $iconMapping .Variant) -}}
       <span
         class="o-expander__title-text"
-        {{ with .Id }}id="{{ . }}"{{ end }}
+        {{- with .Id -}}id="{{ . }}"{{- end -}}
         >{{ .Title }}</span
       >
     </div>
