@@ -69,3 +69,14 @@
   height: 100%;
   object-fit: cover;
 }
+
+.m-image-gallery__controls {
+  display: flex;
+  gap: 1rem;
+  align-self: center;
+  margin-bottom: 1rem;
+
+  .a-button:disabled {
+    opacity: 0.35;
+  }
+}

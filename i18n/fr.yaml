@@ -156,6 +156,10 @@ fipValidity:
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
+gallery:
+  aria-live: Image {{ . }} sur {{ .Total }}
+  next: Image suivante
+  previous: Image précédente
 general: Général
 highlight:
   confusion: Risque de confusion

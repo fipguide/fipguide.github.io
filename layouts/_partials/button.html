@@ -3,6 +3,7 @@
     href="{{ .Destination }}"
     target="_blank"
     rel="noopener noreferrer"
+    {{- with .ID }}id="{{ . }}"{{- end -}}
     class="a-button a-button__external o-link__external"
   >
     {{- .Text -}}{{- partial "icon" "arrow_outward" -}}
@@ -10,6 +11,7 @@
 {{- else -}}
   <button
     class="a-button a-button__internal"
+    {{- with .ID }}id="{{ . }}"{{- end -}}
     {{- with .Title }}title="{{ . }}"{{- end -}}
   >
     {{- .Text -}}
