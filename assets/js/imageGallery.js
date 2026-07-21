@@ -6,7 +6,7 @@ const prevButton = gallery.querySelector("#prev");
 
 const getItemWidth = () =>
   galleryPictures.children[0]?.getBoundingClientRect().width ??
-  galleryPictures.clientWidth;
+  galleryPictures.clientWidth + 15;
 
 const updateButtonState = () => {
   console.log("updateButtonState");
