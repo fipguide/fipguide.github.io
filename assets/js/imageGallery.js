@@ -19,11 +19,15 @@ const updateButtonState = () => {
 };
 
 nextButton.addEventListener("click", () => {
+  console.log(galleryPictures.scrollLeft, getItemWidth());
   galleryPictures.scrollBy({ left: getItemWidth(), behavior: "smooth" });
+  console.log(galleryPictures.scrollLeft, getItemWidth());
 });
 
 prevButton.addEventListener("click", () => {
+  console.log(galleryPictures.scrollLeft, -getItemWidth());
   galleryPictures.scrollBy({ left: -getItemWidth(), behavior: "smooth" });
+  console.log(galleryPictures.scrollLeft, -getItemWidth());
 });
 
 galleryPictures.addEventListener("scroll", updateButtonState, {
