@@ -153,7 +153,7 @@ footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
 gallery:
-  aria-live: Bild {{ . }} von {{ .Total }}
+  aria-label: Bildgalerie
   next: Nächstes Bild
   previous: Vorheriges Bild
 highlight:

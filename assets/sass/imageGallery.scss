@@ -13,10 +13,13 @@
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
   list-style: none;
+  border-radius: var(--border-radius-l);
 
   @media (prefers-reduced-motion: reduce) {
     scroll-behavior: auto;
   }
+
+  @include focus-indicator(0.2rem);
 }
 
 .m-image-gallery__item {

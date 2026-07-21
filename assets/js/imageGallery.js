@@ -4,6 +4,9 @@ const galleryPictures = gallery.querySelector(".m-image-gallery__pictures");
 const nextButton = gallery.querySelector("#next");
 const prevButton = gallery.querySelector("#prev");
 
+// There is an problem with the scroll-snap on mobile devices, so we need to add the gap between the items when scrolling to make it work properly.
+const galleryGap = 15;
+
 const getItemWidth = () =>
   galleryPictures.children[0]?.getBoundingClientRect().width ??
   galleryPictures.clientWidth;
@@ -12,28 +15,23 @@ const updateButtonState = () => {
   console.log("updateButtonState");
   const maxScrollLeft =
     galleryPictures.scrollWidth - galleryPictures.clientWidth;
-  const threshold = 2;
 
-  prevButton.disabled = galleryPictures.scrollLeft <= threshold;
-  nextButton.disabled = galleryPictures.scrollLeft >= maxScrollLeft - threshold;
+  prevButton.disabled = galleryPictures.scrollLeft === 0;
+  nextButton.disabled = galleryPictures.scrollLeft >= maxScrollLeft;
 };
 
 nextButton.addEventListener("click", () => {
-  console.log(galleryPictures.scrollLeft, getItemWidth());
   galleryPictures.scrollTo({
-    left: galleryPictures.scrollLeft + getItemWidth() + 15,
+    left: galleryPictures.scrollLeft + getItemWidth() + galleryGap,
     behavior: "smooth",
   });
-  console.log(galleryPictures.scrollLeft, getItemWidth());
 });
 
 prevButton.addEventListener("click", () => {
-  console.log(galleryPictures.scrollLeft, -getItemWidth());
   galleryPictures.scrollTo({
-    left: galleryPictures.scrollLeft - getItemWidth() - 15,
+    left: galleryPictures.scrollLeft - getItemWidth() - galleryGap,
     behavior: "smooth",
   });
-  console.log(galleryPictures.scrollLeft, -getItemWidth());
 });
 
 galleryPictures.addEventListener("scroll", updateButtonState, {

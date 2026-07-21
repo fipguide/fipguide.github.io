@@ -1,5 +1,8 @@
 <div class="m-image-gallery">
-  <ul class="m-image-gallery__pictures">
+  <ul
+    class="m-image-gallery__pictures"
+    aria-label="{{ i18n "gallery.aria-label" }}"
+  >
     {{- range .images -}}
       <li class="m-image-gallery__item">
         {{ partial "image" (dict "image" .) }}
