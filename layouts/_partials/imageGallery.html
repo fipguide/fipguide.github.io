@@ -1,11 +1,13 @@
-<ul class="m-image-gallery">
-  {{- range .images -}}
-    <li class="m-image-gallery__item">
-      {{ partial "image" (dict "image" .) }}
-    </li>
-  {{- end -}}
-</ul>
-<div class="m-image-gallery__controls">
-  {{- partial "button" (dict "Text" (partial "icon" "keyboard_arrow_left") "Title" (i18n "gallery.previous") "ID" "prev") -}}
-  {{- partial "button" (dict "Text" (partial "icon" "keyboard_arrow_right") "Title" (i18n "gallery.next") "ID" "next") -}}
+<div class="m-image-gallery">
+  <ul class="m-image-gallery__pictures">
+    {{- range .images -}}
+      <li class="m-image-gallery__item">
+        {{ partial "image" (dict "image" .) }}
+      </li>
+    {{- end -}}
+  </ul>
+  <div class="m-image-gallery__controls">
+    {{- partial "button" (dict "Text" (partial "icon" "keyboard_arrow_left") "Title" (i18n "gallery.previous") "ID" "prev") -}}
+    {{- partial "button" (dict "Text" (partial "icon" "keyboard_arrow_right") "Title" (i18n "gallery.next") "ID" "next") -}}
+  </div>
 </div>

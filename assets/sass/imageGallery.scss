@@ -1,8 +1,13 @@
 .m-image-gallery {
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.m-image-gallery__pictures {
+  display: flex;
   margin: 0;
   padding: 0;
-  display: flex;
   gap: 1.5rem;
   overflow-x: auto;
   scroll-snap-type: x mandatory;

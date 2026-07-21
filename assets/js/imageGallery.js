@@ -1,43 +1,34 @@
-const galleries = document.querySelectorAll(".m-image-gallery");
+const gallery = document.querySelector(".m-image-gallery");
+const galleryPictures = gallery.querySelector(".m-image-gallery__pictures");
 
-galleries.forEach((gallery) => {
-  const controls = gallery.nextElementSibling;
+const nextButton = gallery.querySelector("#next");
+const prevButton = gallery.querySelector("#prev");
 
-  if (!controls || !controls.classList.contains("m-image-gallery__controls")) {
-    return;
-  }
+const getItemWidth = () =>
+  galleryPictures.children[0]?.getBoundingClientRect().width ??
+  galleryPictures.clientWidth;
 
-  const nextButton = controls.querySelector("#next");
-  const prevButton = controls.querySelector("#prev");
+const updateButtonState = () => {
+  console.log("updateButtonState");
+  const maxScrollLeft =
+    galleryPictures.scrollWidth - galleryPictures.clientWidth;
+  const threshold = 2;
 
-  if (
-    !(nextButton instanceof HTMLButtonElement) ||
-    !(prevButton instanceof HTMLButtonElement)
-  ) {
-    return;
-  }
+  prevButton.disabled = galleryPictures.scrollLeft <= threshold;
+  nextButton.disabled = galleryPictures.scrollLeft >= maxScrollLeft - threshold;
+};
 
-  const getItemWidth = () =>
-    gallery.children[0]?.getBoundingClientRect().width ?? gallery.clientWidth;
-
-  const updateButtonState = () => {
-    const maxScrollLeft = gallery.scrollWidth - gallery.clientWidth;
-    const threshold = 2;
-
-    prevButton.disabled = gallery.scrollLeft <= threshold;
-    nextButton.disabled = gallery.scrollLeft >= maxScrollLeft - threshold;
-  };
-
-  nextButton.addEventListener("click", () => {
-    gallery.scrollBy({ left: getItemWidth(), behavior: "smooth" });
-  });
-
-  prevButton.addEventListener("click", () => {
-    gallery.scrollBy({ left: -getItemWidth(), behavior: "smooth" });
-  });
-
-  gallery.addEventListener("scroll", updateButtonState, { passive: true });
-  window.addEventListener("resize", updateButtonState);
-
-  updateButtonState();
+nextButton.addEventListener("click", () => {
+  galleryPictures.scrollBy({ left: getItemWidth(), behavior: "smooth" });
 });
+
+prevButton.addEventListener("click", () => {
+  galleryPictures.scrollBy({ left: -getItemWidth(), behavior: "smooth" });
+});
+
+galleryPictures.addEventListener("scroll", updateButtonState, {
+  passive: true,
+});
+window.addEventListener("resize", updateButtonState);
+
+updateButtonState();
