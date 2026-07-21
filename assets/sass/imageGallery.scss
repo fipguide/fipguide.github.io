@@ -28,17 +28,6 @@
   list-style: none;
 }
 
-// TODO: we should use the same aspect ratio for all images, so we don’t need this ones.
-
-.m-image-gallery__item > figure {
-  height: 100%;
-}
-
-.m-image-gallery__item > figure > img {
-  height: 100%;
-  object-fit: cover;
-}
-
 .m-image-gallery__controls {
   display: flex;
   gap: 1rem;
