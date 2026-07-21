@@ -1,4 +1,5 @@
 {{ define "main" }}
+  {{ $contentImage := partial "helper/contentImage" . }}
   <article class="o-single o-single--with-sidemenu">
     {{ partial "contentNavigation" . }}
     <div class="o-single__content-wrapper">
@@ -18,7 +19,11 @@
           {{ partial "content" . }}
         </div>
       </div>
-      {{ partial "image" (partial "helper/contentImage" .) }}
+      {{ if gt (len $contentImage.images) 1 }}
+        {{ partial "imageGallery" (dict "images" $contentImage.images) }}
+      {{ else }}
+        {{ partial "image" $contentImage }}
+      {{ end }}
     </div>
   </article>
 {{ end }}

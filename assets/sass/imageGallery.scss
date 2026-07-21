@@ -1,0 +1,40 @@
+.m-image-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.m-image-gallery__pictures {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  list-style: none;
+  border-radius: var(--border-radius-l);
+
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+
+  @include focus-indicator(0.2rem);
+}
+
+.m-image-gallery__item {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  list-style: none;
+}
+
+.m-image-gallery__controls {
+  display: flex;
+  gap: 1rem;
+  align-self: center;
+  margin-bottom: 1rem;
+
+  .a-button:disabled {
+    opacity: 0.35;
+  }
+}
