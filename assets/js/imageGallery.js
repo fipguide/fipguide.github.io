@@ -6,7 +6,7 @@ const prevButton = gallery.querySelector("#prev");
 
 const getItemWidth = () =>
   galleryPictures.children[0]?.getBoundingClientRect().width ??
-  galleryPictures.clientWidth + 15;
+  galleryPictures.clientWidth;
 
 const updateButtonState = () => {
   console.log("updateButtonState");
@@ -20,13 +20,19 @@ const updateButtonState = () => {
 
 nextButton.addEventListener("click", () => {
   console.log(galleryPictures.scrollLeft, getItemWidth());
-  galleryPictures.scrollBy({ left: getItemWidth(), behavior: "smooth" });
+  galleryPictures.scrollTo({
+    left: galleryPictures.scrollLeft + getItemWidth() + 15,
+    behavior: "smooth",
+  });
   console.log(galleryPictures.scrollLeft, getItemWidth());
 });
 
 prevButton.addEventListener("click", () => {
   console.log(galleryPictures.scrollLeft, -getItemWidth());
-  galleryPictures.scrollBy({ left: -getItemWidth(), behavior: "smooth" });
+  galleryPictures.scrollTo({
+    left: galleryPictures.scrollLeft - getItemWidth() - 15,
+    behavior: "smooth",
+  });
   console.log(galleryPictures.scrollLeft, -getItemWidth());
 });
 
