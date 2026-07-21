@@ -1,4 +1,11 @@
-{{ $contentImages := .Page.Resources.ByType "image" }}
+{{ $allImages := .Page.Resources.ByType "image" }}
+{{ $contentImages := slice }}
+{{ range $allImages }}
+  {{ $name := lower .Name }}
+  {{ if and (in $name "image") (eq (lower .MediaType.SubType) "webp") }}
+    {{ $contentImages = $contentImages | append . }}
+  {{ end }}
+{{ end }}
 {{ if not $contentImages }}
   {{ $contentImages = slice (resources.Get "images/default.webp") }}
 {{ end }}
