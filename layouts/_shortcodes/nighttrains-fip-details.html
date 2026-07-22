@@ -1,0 +1,89 @@
+{{- $lang := .Page.Language.Lang -}}
+{{- $langData := index hugo.Data.nighttrains $lang -}}
+{{- $fallbackData := index hugo.Data.nighttrains "en" -}}
+{{- $items := cond (and $langData $langData.fip_details) $langData.fip_details $fallbackData.fip_details -}}
+
+{{- if $items -}}
+  {{- $fipMap := dict -}}
+  {{- range $item := $items -}}
+    {{- range $routeId := $item.source_route_ids -}}
+      {{- $fipMap = merge $fipMap (dict (printf "%v" $routeId) $item.id) -}}
+    {{- end -}}
+  {{- end -}}
+
+  <script>
+    window.nighttrainsFipByRouteId = {{ $fipMap | jsonify | safeJS }};
+  </script>
+
+  <h2>{{ T "nightTrains.detailsHeading" }}</h2>
+
+  {{- range $item := $items -}}
+    <details
+      class="o-expander"
+      name="nighttrains-fip-details"
+      id="{{ $item.id }}"
+    >
+      <summary class="o-expander__summary">
+        <div class="o-expander__summary-title">
+          {{- partial "icon" "hotel" -}}
+          <span class="o-expander__summary-text">{{ $item.title }}</span>
+        </div>
+        {{ partial "icon" "keyboard_arrow_down" }}
+      </summary>
+
+      <hr aria-hidden="true" />
+
+      <div class="o-expander__content">
+        <p>{{ $item.description }}</p>
+
+        <div>
+          {{- partial "tag" (dict
+            "Icon" (cond $item.fip_global_fare "check_circle" "cancel")
+            "Type" (cond $item.fip_global_fare "success" "error")
+            "RawText" (print (T "fipValidity.fip-global-fare") ": " (T (cond $item.fip_global_fare "nightTrains.yes" "nightTrains.no")))
+            )
+          -}}
+          {{- partial "tag" (dict
+            "Icon" (cond $item.fip_coupon "check_circle" "cancel")
+            "Type" (cond $item.fip_coupon "success" "error")
+            "RawText" (print (T "fipValidity.fip-coupon") ": " (T (cond $item.fip_coupon "nightTrains.yes" "nightTrains.no")))
+            )
+          -}}
+          {{- partial "tag" (dict
+            "Icon" (cond $item.fip_50 "check_circle" "cancel")
+            "Type" (cond $item.fip_50 "success" "error")
+            "RawText" (print "FIP 50: " (T (cond $item.fip_50 "nightTrains.yes" "nightTrains.no")))
+            )
+          -}}
+        </div>
+
+        {{- if gt (len $item.booking_options) 0 -}}
+          <h3>{{ T "nightTrains.bookingOptions" }}</h3>
+          <div>
+            {{- range $bookingId := $item.booking_options -}}
+              {{- $bookingPage := site.GetPage (print "booking/" $bookingId) -}}
+              {{- if $bookingPage -}}
+                {{- partial "button" (dict
+                  "Destination" $bookingPage.RelPermalink
+                  "Text" $bookingPage.Title
+                  )
+                -}}
+              {{- else -}}
+                <p>
+                  {{ T "nightTrains.missingBooking" }}:
+                  <code>{{ $bookingId }}</code>
+                </p>
+              {{- end -}}
+            {{- end -}}
+          </div>
+        {{- end -}}
+
+
+        <p>
+          <strong>{{ T "nightTrains.sourceRouteIds" }}:</strong>
+          {{ delimit $item.source_route_ids ", " }}
+        </p>
+      </div>
+    </details>
+  {{- end -}}
+{{- end -}}

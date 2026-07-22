@@ -1,0 +1,656 @@
+[
+  {
+    "id": "oebb-nightjet",
+    "source_route_ids": [
+      "1",
+      "2",
+      "5",
+      "17",
+      "18",
+      "44",
+      "45",
+      "46",
+      "49",
+      "50",
+      "53",
+      "115"
+    ],
+    "title": "Nightjet (OEBB)",
+    "description": "Nachtzugverbindungen von OEBB im Nightjet-Netz inklusive ausgewaehlter grenzueberschreitender Linien.",
+    "fip_global_fare": true,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": [
+      "oebb-website",
+      "oebb-phone",
+      "oebb-ticket-office"
+    ]
+  },
+  {
+    "id": "sncf-intercites-nuit",
+    "source_route_ids": [
+      "107",
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "119",
+      "262",
+      "264"
+    ],
+    "title": "Intercites de Nuit (SNCF)",
+    "description": "Nachtzuege der SNCF innerhalb Frankreichs mit saisonalen und ganzjaehrigen Linien.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": [
+      "sncf-ticket-office",
+      "sncf-phone"
+    ]
+  },
+  {
+    "id": "fs-intercity-notte",
+    "source_route_ids": [
+      "76",
+      "83",
+      "84",
+      "85",
+      "86",
+      "96",
+      "97",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "126",
+      "128"
+    ],
+    "title": "Intercity Notte (FS)",
+    "description": "Nachtverbindungen von Trenitalia in Italien inklusive Linien mit Kurswagen fuer Sizilien.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": [
+      "fs-website",
+      "fs-ticket-office"
+    ]
+  },
+  {
+    "id": "sj-night-trains",
+    "source_route_ids": [
+      "62",
+      "63",
+      "81"
+    ],
+    "title": "Nachtzuege Schweden (SJ)",
+    "description": "Fernverbindungen mit Schlafwagen in Schweden zwischen Stockholm, Duved, Malmoe und Lulea.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": []
+  },
+  {
+    "id": "vr-night-trains",
+    "source_route_ids": [
+      "68",
+      "72",
+      "90",
+      "91",
+      "98"
+    ],
+    "title": "Nachtzuege Finnland (VR)",
+    "description": "Nachtzuege in Finnland zwischen Helsinki, Turku und Lappland, teilweise mit Kurswagenkonzept.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uz",
+    "source_route_ids": [
+      "140",
+      "141",
+      "147",
+      "149",
+      "150",
+      "151",
+      "152",
+      "153",
+      "154",
+      "155",
+      "156",
+      "158",
+      "161",
+      "162",
+      "164",
+      "166",
+      "167",
+      "168",
+      "170",
+      "172",
+      "173",
+      "174",
+      "175",
+      "177",
+      "178",
+      "180",
+      "181",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "189",
+      "190",
+      "191",
+      "196",
+      "197",
+      "198",
+      "199",
+      "200",
+      "201",
+      "203",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212",
+      "213",
+      "218",
+      "219",
+      "220",
+      "221",
+      "222",
+      "227",
+      "258",
+      "259",
+      "263",
+      "269"
+    ],
+    "title": "Nachtzuege UZ",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfr",
+    "source_route_ids": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "19",
+      "20",
+      "21",
+      "23",
+      "25",
+      "26",
+      "249",
+      "250"
+    ],
+    "title": "Nachtzuege CFR",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-pkp",
+    "source_route_ids": [
+      "10",
+      "113",
+      "121",
+      "122",
+      "125",
+      "129",
+      "136",
+      "137",
+      "138",
+      "267",
+      "268"
+    ],
+    "title": "Nachtzuege PKP",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-pkp-cd",
+    "source_route_ids": [
+      "8",
+      "9",
+      "116",
+      "118",
+      "124",
+      "265",
+      "266"
+    ],
+    "title": "Nachtzuege PKP/CD",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-tcdd",
+    "source_route_ids": [
+      "30",
+      "31",
+      "243",
+      "245",
+      "246",
+      "247",
+      "248"
+    ],
+    "title": "Nachtzuege TCDD",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uex",
+    "source_route_ids": [
+      "252",
+      "253",
+      "254",
+      "255",
+      "256",
+      "257"
+    ],
+    "title": "Nachtzuege UEX",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-bdz",
+    "source_route_ids": [
+      "131",
+      "133",
+      "134",
+      "135",
+      "142"
+    ],
+    "title": "Nachtzuege BDZ",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cs",
+    "source_route_ids": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "title": "Nachtzuege CS",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-es",
+    "source_route_ids": [
+      "237",
+      "238",
+      "239",
+      "240"
+    ],
+    "title": "Nachtzuege ES",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-mav",
+    "source_route_ids": [
+      "58",
+      "223",
+      "224",
+      "225"
+    ],
+    "title": "Nachtzuege MAV",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-st",
+    "source_route_ids": [
+      "73",
+      "77",
+      "79",
+      "80"
+    ],
+    "title": "Nachtzuege ST",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-oebb",
+    "source_route_ids": [
+      "229",
+      "232",
+      "233",
+      "235"
+    ],
+    "title": "Nachtzuege OEBB",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfr-mav",
+    "source_route_ids": [
+      "16",
+      "67"
+    ],
+    "title": "Nachtzuege CFR/MAV",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-fs",
+    "source_route_ids": [
+      "105",
+      "106"
+    ],
+    "title": "Nachtzuege FS",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-hzpp",
+    "source_route_ids": [
+      "3",
+      "48"
+    ],
+    "title": "Nachtzuege HZPP",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-hzpp-oebb",
+    "source_route_ids": [
+      "57",
+      "117"
+    ],
+    "title": "Nachtzuege HZPP/OEBB",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-mav-oebb",
+    "source_route_ids": [
+      "54",
+      "74"
+    ],
+    "title": "Nachtzuege MAV/OEBB",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-rj",
+    "source_route_ids": [
+      "7",
+      "261"
+    ],
+    "title": "Nachtzuege RJ",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-sjn",
+    "source_route_ids": [
+      "70",
+      "71"
+    ],
+    "title": "Nachtzuege SJN",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cd",
+    "source_route_ids": [
+      "6",
+      "120"
+    ],
+    "title": "Nachtzuege CD",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-atc",
+    "source_route_ids": [
+      "24"
+    ],
+    "title": "Nachtzuege ATC",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfm-cfr",
+    "source_route_ids": [
+      "22"
+    ],
+    "title": "Nachtzuege CFM/CFR",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfr-mav-oebb",
+    "source_route_ids": [
+      "59"
+    ],
+    "title": "Nachtzuege CFR/MAV/OEBB",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-ga",
+    "source_route_ids": [
+      "65"
+    ],
+    "title": "Nachtzuege GA",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-gwr",
+    "source_route_ids": [
+      "42"
+    ],
+    "title": "Nachtzuege GWR",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-mav-pkp",
+    "source_route_ids": [
+      "127"
+    ],
+    "title": "Nachtzuege MAV/PKP",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-ote",
+    "source_route_ids": [
+      "114"
+    ],
+    "title": "Nachtzuege OTE",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-rdc-sj",
+    "source_route_ids": [
+      "78"
+    ],
+    "title": "Nachtzuege RDC/SJ",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-tcdd-bdz",
+    "source_route_ids": [
+      "27"
+    ],
+    "title": "Nachtzuege TCDD/BDZ",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-tcdd-bdz-cfr",
+    "source_route_ids": [
+      "28"
+    ],
+    "title": "Nachtzuege TCDD/BDZ/CFR",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uz-cfm",
+    "source_route_ids": [
+      "195"
+    ],
+    "title": "Nachtzuege UZ/CFM",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uz-oebb",
+    "source_route_ids": [
+      "60"
+    ],
+    "title": "Nachtzuege UZ/OEBB",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-vy",
+    "source_route_ids": [
+      "69"
+    ],
+    "title": "Nachtzuege VY",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-zssk",
+    "source_route_ids": [
+      "123"
+    ],
+    "title": "Nachtzuege ZSSK",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-zs-zpcg",
+    "source_route_ids": [
+      "130"
+    ],
+    "title": "Nachtzuege ZS/ZPCG",
+    "description": "FIP Informationen fuer diese Nachtzuggruppe sind noch nicht gepflegt. Bitte pruefe zusaetzlich die Betreiberseite.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  }
+]

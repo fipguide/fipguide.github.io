@@ -1,0 +1,656 @@
+[
+  {
+    "id": "oebb-nightjet",
+    "source_route_ids": [
+      "1",
+      "2",
+      "5",
+      "17",
+      "18",
+      "44",
+      "45",
+      "46",
+      "49",
+      "50",
+      "53",
+      "115"
+    ],
+    "title": "Nightjet (OEBB)",
+    "description": "Relations de nuit exploitees par OEBB dans le reseau Nightjet, y compris certaines liaisons transfrontalieres.",
+    "fip_global_fare": true,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": [
+      "oebb-website",
+      "oebb-phone",
+      "oebb-ticket-office"
+    ]
+  },
+  {
+    "id": "sncf-intercites-nuit",
+    "source_route_ids": [
+      "107",
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "119",
+      "262",
+      "264"
+    ],
+    "title": "Intercites de Nuit (SNCF)",
+    "description": "Services de nuit SNCF en France avec des liaisons saisonnieres et annuelles.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": [
+      "sncf-ticket-office",
+      "sncf-phone"
+    ]
+  },
+  {
+    "id": "fs-intercity-notte",
+    "source_route_ids": [
+      "76",
+      "83",
+      "84",
+      "85",
+      "86",
+      "96",
+      "97",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "126",
+      "128"
+    ],
+    "title": "Intercity Notte (FS)",
+    "description": "Services de nuit de Trenitalia en Italie, y compris des relations avec voitures directes vers la Sicile.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": [
+      "fs-website",
+      "fs-ticket-office"
+    ]
+  },
+  {
+    "id": "sj-night-trains",
+    "source_route_ids": [
+      "62",
+      "63",
+      "81"
+    ],
+    "title": "Trains de nuit Suede (SJ)",
+    "description": "Trains de nuit longue distance en Suede entre Stockholm, Duved, Malmo et Lulea.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": []
+  },
+  {
+    "id": "vr-night-trains",
+    "source_route_ids": [
+      "68",
+      "72",
+      "90",
+      "91",
+      "98"
+    ],
+    "title": "Trains de nuit Finlande (VR)",
+    "description": "Relations de nuit en Finlande entre Helsinki, Turku et la Laponie, partiellement avec concept de voitures directes.",
+    "fip_global_fare": false,
+    "fip_coupon": true,
+    "fip_50": true,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uz",
+    "source_route_ids": [
+      "140",
+      "141",
+      "147",
+      "149",
+      "150",
+      "151",
+      "152",
+      "153",
+      "154",
+      "155",
+      "156",
+      "158",
+      "161",
+      "162",
+      "164",
+      "166",
+      "167",
+      "168",
+      "170",
+      "172",
+      "173",
+      "174",
+      "175",
+      "177",
+      "178",
+      "180",
+      "181",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "189",
+      "190",
+      "191",
+      "196",
+      "197",
+      "198",
+      "199",
+      "200",
+      "201",
+      "203",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212",
+      "213",
+      "218",
+      "219",
+      "220",
+      "221",
+      "222",
+      "227",
+      "258",
+      "259",
+      "263",
+      "269"
+    ],
+    "title": "Trains de nuit UZ",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfr",
+    "source_route_ids": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "19",
+      "20",
+      "21",
+      "23",
+      "25",
+      "26",
+      "249",
+      "250"
+    ],
+    "title": "Trains de nuit CFR",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-pkp",
+    "source_route_ids": [
+      "10",
+      "113",
+      "121",
+      "122",
+      "125",
+      "129",
+      "136",
+      "137",
+      "138",
+      "267",
+      "268"
+    ],
+    "title": "Trains de nuit PKP",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-pkp-cd",
+    "source_route_ids": [
+      "8",
+      "9",
+      "116",
+      "118",
+      "124",
+      "265",
+      "266"
+    ],
+    "title": "Trains de nuit PKP/CD",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-tcdd",
+    "source_route_ids": [
+      "30",
+      "31",
+      "243",
+      "245",
+      "246",
+      "247",
+      "248"
+    ],
+    "title": "Trains de nuit TCDD",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uex",
+    "source_route_ids": [
+      "252",
+      "253",
+      "254",
+      "255",
+      "256",
+      "257"
+    ],
+    "title": "Trains de nuit UEX",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-bdz",
+    "source_route_ids": [
+      "131",
+      "133",
+      "134",
+      "135",
+      "142"
+    ],
+    "title": "Trains de nuit BDZ",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cs",
+    "source_route_ids": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "title": "Trains de nuit CS",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-es",
+    "source_route_ids": [
+      "237",
+      "238",
+      "239",
+      "240"
+    ],
+    "title": "Trains de nuit ES",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-mav",
+    "source_route_ids": [
+      "58",
+      "223",
+      "224",
+      "225"
+    ],
+    "title": "Trains de nuit MAV",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-st",
+    "source_route_ids": [
+      "73",
+      "77",
+      "79",
+      "80"
+    ],
+    "title": "Trains de nuit ST",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-oebb",
+    "source_route_ids": [
+      "229",
+      "232",
+      "233",
+      "235"
+    ],
+    "title": "Trains de nuit OEBB",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfr-mav",
+    "source_route_ids": [
+      "16",
+      "67"
+    ],
+    "title": "Trains de nuit CFR/MAV",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-fs",
+    "source_route_ids": [
+      "105",
+      "106"
+    ],
+    "title": "Trains de nuit FS",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-hzpp",
+    "source_route_ids": [
+      "3",
+      "48"
+    ],
+    "title": "Trains de nuit HZPP",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-hzpp-oebb",
+    "source_route_ids": [
+      "57",
+      "117"
+    ],
+    "title": "Trains de nuit HZPP/OEBB",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-mav-oebb",
+    "source_route_ids": [
+      "54",
+      "74"
+    ],
+    "title": "Trains de nuit MAV/OEBB",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-rj",
+    "source_route_ids": [
+      "7",
+      "261"
+    ],
+    "title": "Trains de nuit RJ",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-sjn",
+    "source_route_ids": [
+      "70",
+      "71"
+    ],
+    "title": "Trains de nuit SJN",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cd",
+    "source_route_ids": [
+      "6",
+      "120"
+    ],
+    "title": "Trains de nuit CD",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-atc",
+    "source_route_ids": [
+      "24"
+    ],
+    "title": "Trains de nuit ATC",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfm-cfr",
+    "source_route_ids": [
+      "22"
+    ],
+    "title": "Trains de nuit CFM/CFR",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-cfr-mav-oebb",
+    "source_route_ids": [
+      "59"
+    ],
+    "title": "Trains de nuit CFR/MAV/OEBB",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-ga",
+    "source_route_ids": [
+      "65"
+    ],
+    "title": "Trains de nuit GA",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-gwr",
+    "source_route_ids": [
+      "42"
+    ],
+    "title": "Trains de nuit GWR",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-mav-pkp",
+    "source_route_ids": [
+      "127"
+    ],
+    "title": "Trains de nuit MAV/PKP",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-ote",
+    "source_route_ids": [
+      "114"
+    ],
+    "title": "Trains de nuit OTE",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-rdc-sj",
+    "source_route_ids": [
+      "78"
+    ],
+    "title": "Trains de nuit RDC/SJ",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-tcdd-bdz",
+    "source_route_ids": [
+      "27"
+    ],
+    "title": "Trains de nuit TCDD/BDZ",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-tcdd-bdz-cfr",
+    "source_route_ids": [
+      "28"
+    ],
+    "title": "Trains de nuit TCDD/BDZ/CFR",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uz-cfm",
+    "source_route_ids": [
+      "195"
+    ],
+    "title": "Trains de nuit UZ/CFM",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-uz-oebb",
+    "source_route_ids": [
+      "60"
+    ],
+    "title": "Trains de nuit UZ/OEBB",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-vy",
+    "source_route_ids": [
+      "69"
+    ],
+    "title": "Trains de nuit VY",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-zssk",
+    "source_route_ids": [
+      "123"
+    ],
+    "title": "Trains de nuit ZSSK",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  },
+  {
+    "id": "placeholder-zs-zpcg",
+    "source_route_ids": [
+      "130"
+    ],
+    "title": "Trains de nuit ZS/ZPCG",
+    "description": "Les informations FIP pour ce groupe de trains de nuit ne sont pas encore maintenues. Veuillez verifier aussi la page de l operateur.",
+    "fip_global_fare": false,
+    "fip_coupon": false,
+    "fip_50": false,
+    "booking_options": []
+  }
+]

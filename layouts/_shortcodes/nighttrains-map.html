@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="/nighttrains/map.css" />
+
+<div id="bot-map">
+  {{ readFile "static/nighttrains/map.svg" | safeHTML }}
+</div>
+
+<div class="traininfo-overlay">
+  <div class="text-content"></div>
+</div>
+
+<script src="/nighttrains/d3.min.js"></script>
+<script>
+  window.map_i18n = {
+    back: {{ T "nightTrains.back" | jsonify | safeJS }},
+    close: {{ T "dialog.close" | jsonify | safeJS }},
+    runs: {{ T "nightTrains.runs" | jsonify | safeJS }},
+    details: {{ T "nightTrains.moreDetails" | jsonify | safeJS }},
+    fipInformation: {{ T "nightTrains.fipInformationButton" | jsonify | safeJS }},
+    selectline: {{ T "nightTrains.selectLine" | jsonify | safeJS }}
+  };
+</script>
+<script src="/nighttrains/map.js"></script>
