@@ -36,8 +36,7 @@ Employees of [SNCB / NMBS](/operator/sncb) and [NS](/operator/ns) can get an _Un
   title="InterCity (IC)"
   type="highspeed"
   fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+  reservation_possible=false
 %}}
 
 InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
@@ -105,17 +104,18 @@ At [CFL Ticket Offices](#on-site), first class tickets are available with a 50% 
 
 {{% booking id="db-website-fip-international"
     subtitle="Cross-border FIP 50 Tickets between Germany and Luxembourg for the entire route (not valid in the issuing country of the FIP Card)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Only for cross-border connections to/from Belgium"
+    subtitle="Only for cross-border connections to/from Belgium"
 /%}}
 
 ### Telephone
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_global_fare=nil
+    fip_50=true
 %}}
 
 Due to the booking fee, it may be worthwhile to purchase a regular first class ticket via the CFL app or ticket machine.

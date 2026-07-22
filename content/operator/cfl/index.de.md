@@ -36,8 +36,7 @@ Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können e
   title="InterCity (IC)"
   type="highspeed"
   fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+  reservation_possible=false
 %}}
 
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
@@ -105,17 +104,18 @@ An [CFL-Ticketschaltern](#vor-ort) sind die erste Klasse Tickets bei Vorlage des
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Luxemburg für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
+    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
 /%}}
 
 ### Telefon
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_global_fare=nil
+    fip_50=true
 %}}
 
 Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulären erste Klasse Fahrkarte via CFL-App oder Fahrkartenautomat.
