@@ -369,6 +369,10 @@ Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Va
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

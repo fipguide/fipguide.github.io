@@ -688,6 +688,10 @@ A break of journey is not permitted on domestic journeys up to 100 km. For journ
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
 The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can be used with a first-class FIP 50 Ticket or a FIP Coupon. They can also be accessed with a second-class ticket in combination with a seat reservation. [^2]

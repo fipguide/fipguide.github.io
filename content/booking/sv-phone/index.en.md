@@ -17,6 +17,4 @@ Booking requests for international trains between Serbia and Montenegro can be m
 
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [SV – International reservations](https://srbijavoz.rs/rezervisanje/)

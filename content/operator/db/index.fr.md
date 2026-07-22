@@ -269,7 +269,9 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
     type="bus"
     fip_accepted=false
 %}}
+
 Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations

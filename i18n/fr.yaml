@@ -5,7 +5,7 @@ booking:
   bookable: réservable
   classes:
     first: 1re classe
-    second: 2nd classe
+    second: 2re classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-75: Billets FIP 75

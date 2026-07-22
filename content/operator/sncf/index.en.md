@@ -186,7 +186,9 @@ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in
   fip_accepted=partially
   reservation_possible=false
 %}}
+
 FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid. [^1]
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -391,7 +393,9 @@ Access to some stations is restricted by ticket barriers. When using FIP Coupons
   fip_accepted=false
   reservation_possible=nil
 %}}
+
 FIP discounts do not apply on trams in Greater Paris.[^3]
+
 {{% /train-category %}}
 
 #### Ticket barriers

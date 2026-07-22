@@ -115,6 +115,10 @@ pagefind-modal-trigger {
   transition:
     background 0.2s,
     color 0.2s !important;
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 }
 
 :is(
