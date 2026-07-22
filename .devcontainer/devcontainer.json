@@ -1,0 +1,15 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:resolute",
+	"features": {
+		"ghcr.io/stu-bell/devcontainer-features/homebrew:1": {
+			"brewPackage": "hugo"
+		},
+		"ghcr.io/devcontainers/features/git-lfs:1": {},
+		"ghcr.io/stu-bell/devcontainer-features/node:0": {
+			"min_node_version": "22.12"
+		},
+		"ghcr.io/devcontainers/features/python:1": {}
+	},
+	"postCreateCommand": "npm install && brew install prek && prek install -f"
+}
