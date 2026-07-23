@@ -217,7 +217,7 @@ operators:
   descriptionTemplate: >-
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et
     réservations, Conditions tarifaires spéciales
-  listTitle: Opérateurs prenant en charge la FIP
+  listTitle: Opérateurs acceptant FIP
   withoutFIP: Opérateurs sans FIP
 related:
   booking: Utilisable avec ces opérateurs

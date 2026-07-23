@@ -208,7 +208,7 @@ operators:
   descriptionTemplate: >-
     Information about FIP conditions at %s: validity, ticket and reservation
     purchase, special tariff conditions
-  listTitle: Operators supporting FIP
+  listTitle: Operators accepting FIP
   withoutFIP: Operators without FIP
 related:
   booking: Usable with these operators
