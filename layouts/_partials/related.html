@@ -37,9 +37,18 @@
         }}
 
         {{ if eq .Page.Type "news" }}
-          <span class="o-related__date"
-            >{{ .Date | time.Format ":date_long" }}</span
-          >
+          {{- $_ := .Content -}}
+          <div class="o-related__meta">
+            <span class="o-related__date"
+              >{{ .Date | time.Format ":date_long" }}</span
+            >
+            {{- with .Store.Get "updated" }}
+              –<span>
+                {{ i18n "news.updated" }}
+                {{ . | time.Format ":date_long" }}</span
+              >
+            {{- end }}
+          </div>
         {{ end }}
       </li>
     {{ end }}

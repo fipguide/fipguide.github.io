@@ -4,7 +4,7 @@
       <h1>{{ .Title }}</h1>
       {{ .Content }}
       <div>
-        {{ range .Pages }}
+        {{ range partial "helper/sortedNews" . }}
           {{ partial "teaser" (dict "listview" "true" "page" .) }}
         {{ end }}
       </div>
