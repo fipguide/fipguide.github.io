@@ -70,6 +70,13 @@ Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour toute la trajectoire (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="kd-ticket-office"/%}}
@@ -114,4 +121,4 @@ L’utilisation du FIP chez KD est simple et pratique, avec très peu d’except
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

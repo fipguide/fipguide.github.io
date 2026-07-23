@@ -184,6 +184,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncb-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Belgique, avec part de billet uniquement pour la section belge. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="sncb-ticket-office" /%}}
@@ -210,9 +214,21 @@ Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils 
 
 Un supplément de 7,10 € est requis pour les trajets à destination ou en provenance de l’aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. [^1] Ce supplément est inclus dans le prix d’un Billet FIP 50 / FIP 75, sauf si le billet a été acheté à un distributeur automatique. [^2] [Plus d’infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
 [^2]: [FIP Guide Community: Supplément aéroport SNCB au distributeur automatique](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 

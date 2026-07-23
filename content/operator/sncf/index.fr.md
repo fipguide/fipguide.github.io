@@ -188,7 +188,9 @@ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-F
   fip_accepted=partially
   reservation_possible=false
 %}}
+
 Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable. [^1]
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -224,9 +226,18 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
     classes.second="2 € / 11 €"
 /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+  reservations="nil"
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
 ### En gare
 
 {{% booking id="sncf-ticket-office" /%}}
+
+{{% booking id="zou-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office" subtitle="Pour trains en Île-de-France" /%}}
 
@@ -383,7 +394,9 @@ L’accès à certaines gares est limité par des portillons. Lors de l’utilis
   fip_accepted=false
   reservation_possible=nil
 %}}
+
 Les réductions FIP ne sont pas valables dans les tramways de la région parisienne.[^3]
+
 {{% /train-category %}}
 
 #### Portillons
@@ -414,7 +427,7 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 

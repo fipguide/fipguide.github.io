@@ -119,6 +119,14 @@ Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tick
 Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
 {{% /booking %}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="bls-ticket-office"/%}}
@@ -148,6 +156,10 @@ Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP 
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ### Schienenersatzverkehr
 
 In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
@@ -160,6 +172,6 @@ Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB.
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

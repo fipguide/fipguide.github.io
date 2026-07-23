@@ -34,6 +34,10 @@
       fill: var(--link-default) !important;
       transition: all 0.2s ease;
       cursor: pointer;
+
+      @media (prefers-reduced-motion: reduce) {
+        transition: none;
+      }
     }
 
     &:hover path,
@@ -48,6 +52,10 @@
       fill: var(--bg-neutral) !important;
       transition: all 0.2s ease;
       cursor: not-allowed;
+
+      @media (prefers-reduced-motion: reduce) {
+        transition: none;
+      }
     }
   }
 
@@ -73,6 +81,10 @@
     }
 
     @include focus-indicator(0.2rem);
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
   }
 
   &__legend {

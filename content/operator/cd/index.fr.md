@@ -26,32 +26,11 @@ aliases:
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services ČD. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
 
-{{< highlight important >}}
-
-{{< float-image
-src="cd-fip-map-overview-26.webp"
-alt="Carte de validité FIP vue d’ensemble pour la Tchéquie"
-caption="[Carte de validité FIP vue d’ensemble](/en/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)"
-width="40%"
-position="left" >}}
-
+{{% highlight important %}}
 Sur certaines lignes et dans certaines régions, les avantages FIP ne sont pas valables, même si les trains sont exploités par ČD. Certaines lignes nécessitent également un supplément.
 
-Pour un premier aperçu, la carte de validité FIP pour la Tchéquie peut être consultée.
-{{< /float-image >}}
-
-{{< float-image
-src="cd-fip-map-detail-26.webp"
-alt="Carte de validité FIP détaillée pour la Tchéquie"
-caption="[Carte de validité FIP détaillée](/en/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)"
-width="40%"
-position="left" >}}
-Pour des informations détaillées, la carte détaillée de validité FIP peut être consultée.
-
-Plus d’informations : [Services ČD sans FIP](#services-čd-sans-fip) et [Liaisons commerciales ČD (supplément obligatoire)](#liaisons-commerciales-čd-supplément-obligatoire)
-{{< /float-image >}}
-
-{{< /highlight >}}
+Plus d’informations dans les [Conditions tarifaires spéciales](#conditions-tarifaires-spéciales) sur cette page.
+{{% /highlight %}}
 
 ## Catégories de trains et réservations
 
@@ -90,11 +69,13 @@ Le prix de la réservation est variable (voir [trains avec réservation obligato
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
 %}}
-Les trains Railjet relient Brno et Prague rapidement et confortablement, et offrent aussi une liaison directe via Břeclav vers Vienne et Graz. Ils ne s’arrêtent qu’aux principales gares. À partir de décembre 2025, les trains internationaux ComfortJet entre Prague et l’Allemagne/Danemark seront également inclus dans cette catégorie. Il existe généralement trois classes :
+Les trains Railjet relient Brno et Prague rapidement et confortablement, et offrent aussi une liaison directe via Břeclav vers Vienne et Graz. Ils ne s’arrêtent qu’aux principales gares. Les trains internationaux ComfortJet entre Prague et l’Allemagne ou le Danemark relèvent également de cette catégorie.
 
-**Economy** : Comparable à la 2ᵉ classe. \
-**First Class** : Comparable à la 1ère classe. Un Coupon FIP 1ère classe est nécessaire. \
-**Business** : 1ère classe avec boisson de bienvenue et compartiments privés. Non accessible avec un Coupon FIP (même avec supplément).
+Il existe généralement trois classes :
+
+- **Economy** : Comparable à la 2ᵉ classe.
+- **First Class** : Comparable à la 1ère classe. Un Coupon FIP 1ère classe est nécessaire.
+- **Business** : 1ère classe avec boisson de bienvenue et compartiments privés. Non accessible avec un Coupon FIP (même avec supplément).
 
 Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une livrée bleue. Les vélos, poussettes et bagages encombrants sont acceptés. Restauration disponible au wagon-restaurant ou service à la place. En 1ère classe, une bouteille d’eau et un journal sont offerts ; en Business, une boisson de bienvenue et un bon de 50 CZK pour le restaurant (valable uniquement en Tchéquie). Un cinéma pour enfants est disponible.
 
@@ -264,6 +245,12 @@ Un billet (réservation obligatoire) doit être acheté au plus tard 15 minutes 
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Tchéquie, avec part de billet uniquement pour la section tchèque. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="cd-ticket-office" /%}}
@@ -278,11 +265,24 @@ Pour les billets ordinaires, les enfants jusqu’à 6 ans voyagent gratuitement 
 
 ## Conditions tarifaires spéciales
 
+Sur certaines lignes et dans certaines régions, les avantages FIP ne sont pas valables, même si les trains sont exploités par ČD. Certaines lignes nécessitent également un supplément.
+
+Pour un aperçu de la validité, la carte de vue d’ensemble peut être consultée ici. Des informations plus détaillées sont disponibles dans la carte détaillée et les règles spécifiques dans les sections suivantes sur les [Liaisons commerciales ČD (supplément obligatoire)](#liaisons-commerciales-čd-supplément-obligatoire) et les [Services ČD sans FIP](#services-čd-sans-fip).
+
+{{% columns %}}
+{{% column width="50%" %}}
+![[Carte de validité FIP vue d’ensemble (vue complète)](/fr/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Carte de validité FIP détaillée (vue complète)](/fr/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
+
 ### Liaisons commerciales ČD (supplément obligatoire)
 
 Sur les liaisons dites _commerciales_ de ČD, un supplément doit être acheté. Cela concerne généralement uniquement certains trains des catégories `SC`, `EC`, `IC` et `R`. [^3]
 
-Les [cartes de validité FIP pour la Tchéquie](#validité-des-billets-fip) peuvent servir d’orientation.
+Les [cartes de validité FIP pour la Tchéquie](#conditions-tarifaires-spéciales) peuvent servir d’orientation.
 
 Liaisons concernées en détail :
 
@@ -532,7 +532,7 @@ En principe, le FIP n’est pas valable dans les trains ČD exploités dans le c
 
 Pour les services attribués par des collectivités régionales (trains des catégories `SP` et `OS`), le FIP n’est pas du tout valable dans certaines régions.
 
-La [carte de validité FIP pour la Tchéquie](#validité-des-billets-fip) peut servir d’orientation.
+La [carte de validité FIP pour la Tchéquie](#conditions-tarifaires-spéciales) peut servir d’orientation.
 
 Régions concernées en détail :
 
@@ -688,6 +688,10 @@ L’interruption de voyage n’est pas autorisée pour les trajets intérieurs j
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
 Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent être utilisés avec un Billet FIP 50 ou un Coupon FIP de première classe. Ils sont également accessibles avec un billet de seconde classe accompagné d’une réservation de siège. [^2]
@@ -698,7 +702,7 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

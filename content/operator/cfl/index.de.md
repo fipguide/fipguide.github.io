@@ -36,8 +36,7 @@ Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können e
   title="InterCity (IC)"
   type="highspeed"
   fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+  reservation_possible=false
 %}}
 
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
@@ -105,17 +104,18 @@ An [CFL-Ticketschaltern](#vor-ort) sind die erste Klasse Tickets bei Vorlage des
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Luxemburg für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
+    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
 /%}}
 
 ### Telefon
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_global_fare=nil
+    fip_50=true
 %}}
 
 Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulären erste Klasse Fahrkarte via CFL-App oder Fahrkartenautomat.
@@ -147,8 +147,12 @@ Es gibt auf dieser Verbindung keine weiteren FIP-Vergünstigungen.
 Die CFL betreibt einen Expressbus zwischen Luxemburg und dem Bahnhof _Lorraine TGV_ in Frankreich als `TGV` Zubringer. In diesem Bus ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/gare-lorraine) eingesehen werden. Die Busse sind reservierungspflichtig und ein Ticket kann bis zu 2,5 Stunden vor Abfahrt des Busses erworben werden. \
 Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informationen bekannt.
 
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)

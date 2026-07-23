@@ -45,7 +45,7 @@ Les trains `IC` sont en partie également exploités par d’autres opérateurs 
 
 Une réservation de place assise est obligatoire. Si le train est complet, une réservation pour une place debout peut être achetée.
 
-**Coût de la réservation :** 5 RON
+**Coût de la réservation :** 6,5 RON
 {{% /train-category %}}
 
 {{% train-category
@@ -65,7 +65,7 @@ Les trains `IR` sont en partie également exploités par d’autres opérateurs 
 
 Une réservation de place assise est obligatoire. Si le train est complet, une réservation pour une place debout peut être achetée.
 
-**Coût de la réservation :** 5 RON pour les relations nationales
+**Coût de la réservation :** 6,5 RON pour les relations nationales
 {{% /train-category %}}
 
 {{% train-category
@@ -87,7 +87,7 @@ Les trains `IRN` sont en partie également exploités par d’autres opérateurs
 
 Une réservation est obligatoire, soit pour une place assise, en couchette ou en voiture-lit. Si le train est complet, une réservation pour une place debout peut être achetée.
 
-**Coût de la réservation :** 5 RON pour les places assises et debout sur les relations nationales
+**Coût de la réservation :** 6,5 RON pour les places assises et debout sur les relations nationales
 
 Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
@@ -111,7 +111,7 @@ Ces trains sont en partie également exploités par d’autres opérateurs en Ro
 
 Une réservation est souvent obligatoire (reconnaissable par un _R_ dans la recherche de correspondances). Si le train est complet, une réservation pour une place debout peut être achetée.
 
-**Coût de la réservation :** 5 RON pour les places assises et debout sur les relations nationales
+**Coût de la réservation :** 6,5 RON pour les places assises et debout sur les relations nationales
 
 Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
@@ -133,7 +133,7 @@ Les trains `R` sont en partie également exploités par d’autres opérateurs e
 
 Une réservation est nécessaire pour certains trains, indiqués par un _R_.
 
-**Coût de la réservation :** 1 RON
+**Coût de la réservation :** 4,5 RON
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -174,4 +174,4 @@ CFR Călători assure une offre de base solide sur le réseau ferroviaire roumai
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)

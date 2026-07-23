@@ -294,11 +294,21 @@ For the `ECE` Frankfurt – Milan, through FIP 50 Tickets to Milan can be booked
 For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munich and Italy, through FIP 50 Tickets to Milan can be booked.
 {{% /booking %}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+  subtitle="Only ECE trains from Milan to Germany or EC trains on the Brenner route between Italy and Germany. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss/Austrian and Italian section, for Deutsche Bahn employees."
+%}}
+For the `ECE` Frankfurt – Milan, through FIP 50 Tickets to Milan can be booked. For the `EC` on the Brenner route between Munich and Italy, this is also possible. Both have no validity in the German section.
+{{% /booking %}}
+
 ### On-Site
 
 {{% booking id="fs-ticket-machine" /%}}
 
 {{% booking id="fs-ticket-office" /%}}
+
+{{% booking id="sz-ticket-office" subtitle="For cross-border trains between Slovenia and Italy" /%}}
 
 {{% booking id="db-ticket-office"
   classes.first="€ 3 / € 25"

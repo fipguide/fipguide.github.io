@@ -263,6 +263,12 @@ Reservations for direct trains are cheaper via ÖBB.
 
 {{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
 
+{{% booking id="db-phone-fip-db"
+        subtitle="Cross-border FIP 50 Tickets between Germany and Austria, with ticket portion only for the Austrian section. For employees of Deutsche Bahn only."
+%}}
+Reservations for direct trains are cheaper via ÖBB.
+{{% /booking %}}
+
 ### On-Site
 
 {{% booking id="oebb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
@@ -272,6 +278,8 @@ Reservations for direct trains are cheaper via ÖBB.
 {{% booking id="db-ticket-office" subtitle="Incl. Nightjet Booking" %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
+
+{{% booking id="sz-ticket-office" subtitle="For cross-border trains between Slovenia and Austria" /%}}
 
 ### On the Train
 
@@ -299,10 +307,6 @@ On international long-distance services from Austria to Italy, ÖBB FIP Coupons 
 #### Railjet Tarvisio Boscoverde – Venice
 
 ÖBB or FS FIP Coupons are valid in the Italian section on `RJ` trains. For trips to/from Italy or entirely within Italy, a supplement of € 10 (2nd class) or € 15 (1st class) must be paid. The [ÖBB supplement](/operator/oebb#validity-of-fip-tickets) is not charged on Brenner services.
-
-#### Eurocity Trieste
-
-ÖBB FIP Coupons, **but not FS**, are valid in the Italian section up to Trieste. For journeys to/from Italy or entirely within Italy, a supplement of € 2.60 for 2nd class and € 4.60 for 1st class is payable. For the Slovenian section, a SŽ FIP Coupon or FIP 50 Ticket is required.
 
 ### REX63 (Pamhagen – Neusiedl am See)
 
@@ -352,4 +356,4 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)

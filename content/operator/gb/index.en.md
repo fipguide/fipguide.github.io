@@ -487,7 +487,13 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 ### Online
 
-{{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
+{{% booking id="gwr-website"
+    subtitle="All national services"
+/%}}
+
+{{% booking id="gwr-whatsapp"
+    subtitle="All national services"
+/%}}
 
 {{% booking id="lner-website"
     subtitle="LNER services only"
@@ -495,7 +501,7 @@ Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
-{{% booking id="gwr-whatsapp" /%}}
+{{% booking id="caledonian-sleeper-website" subtitle="Caledonian Sleeper only" /%}}
 
 ### On-Site
 
@@ -566,9 +572,7 @@ Regular child tickets may be cheaper than tickets with FIP discount.
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
 
-The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The ferry from Kingswear to Dartmouth is included in the price. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
-
-The discount is 75% off the regular adult fare.
+The Dartmouth Steam Railway and River Boat Company operates steam locomotive and historic carriage journeys between Paignton and Kingswear along the picturesque English Riviera. The route offers impressive views of the Devon coast and River Dart. The nearest National Rail station is Paignton – only about 1 minute walk to the heritage railway station.
 
 {{% /train-category %}}
 

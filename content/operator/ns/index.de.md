@@ -162,6 +162,23 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 {{% /train-category %}}
 
+{{% train-category
+    id="r-net"
+    title="R-net NS Sprinter"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+%}}
+Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
+
+{{< highlight confusion >}}
+R-net (Randstadnet) ist ein Verkehrskonzept in der Metropolregion Randstad, welches von mehreren Betreibern in einheitlichem rot-grauem Fahrzeug-Branding betrieben wird. Es umfasst Züge, U-Bahnen, Straßenbahnen und Busse. Mit FIP ist ausschließlich die R-net Verbindung von Alphen aan den Rijn nach Gouda nutzbar, die von der NS betrieben wird. [^6] Alle anderen R-net Verbindungen, insbesondere die Linie Geldermalsen - Dordrecht (Qbuzz Stoptrein), sind mit FIP nicht nutzbar.
+
+In der Verbindungsauskunft der NS werden die Verbindungen als `R-net NS Sprinter` gekennzeichnet. Nicht zu verwechseln mit dem `R-net Qbuzz Stoptrein`, der nicht mit FIP genutzt werden darf. In anderen Auskunftsmedien, z. B. der DB, wird die Verbindung gegebenenfalls nur als `RE` des Betreibers "R-net" angegeben. Hier ist eine Unterscheidung zum R-net Qbuzz Stoptrein nur anhand der Linie möglich!
+{{< /highlight >}}
+
+{{% /train-category %}}
+
 ## Ticket- und Reservierungskauf
 
 ### Online
@@ -187,6 +204,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 ### Telefon
 
 {{% booking id="ns-phone" /%}}
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden, mit Ticketanteil nur für den niederländischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
 
 ### Vor Ort
 
@@ -216,6 +237,18 @@ Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
 Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -224,7 +257,7 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782283-netherlands.html)
 
 [^2]: [FIP Guide Community ICD / ECD Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1470087243040428176)
 
@@ -233,3 +266,5 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
 
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
+
+[^6]: [FIP Guide Community: R-net NS Sprinter](https://discord.com/channels/1250522473188032512/1518627741459677204/1519419404272668733)

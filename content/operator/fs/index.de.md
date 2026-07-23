@@ -294,6 +294,14 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen München und Italien können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
 {{% /booking %}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
+%}}
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden. Für die `EC` im Brennerverkehr zwischen München und Italien kann dies ebenfalls gemacht werden. Beide haben jeweils keine Gültigkeit im deutschen Abschnitt.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="fs-ticket-machine" /%}}
@@ -310,6 +318,8 @@ Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets un
 {{% /highlight %}}
 Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 {{% /booking %}}
+
+{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
 
 ### Im Zug
 
@@ -411,6 +421,10 @@ Tickets für nicht zuggebundene Regionalzüge (_non prenotabile_) müssen am Bah
 ### Fahrtunterbrechnung
 
 Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne Ankündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets mit aufgedruckter Zugnummer (siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)).
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

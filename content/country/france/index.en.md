@@ -7,9 +7,10 @@ params:
     - CFC (Chemins de fer de la Corse / Railways in Corsica)
     - '[Frecciarossa (Trenitalia)](/operator/fs/#international-frecciarossa-trains-to-paris "Frecciarossa (Trenitalia)")'
     - Getlink (Eurotunnel LeShuttle)
+    - GoVolta
+    - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
     - RATP
     - Transdev
-    - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
 ---
 
 ## FIP Information

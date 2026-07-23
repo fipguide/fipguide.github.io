@@ -233,6 +233,10 @@ Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 - Seilbahn Mürren – Allmendhubel (SMA)
 - Luftseilbahn Stechelberg – Mürren – Schilthorn (LSMS)
 
+{{% highlight inofficial %}}
+Uns wurde berichtet, dass die Mitnahme von Wintersportausrüstung (Ski, Snowboard) bei den Jungfraubahnen bei der Nutzung von FIP nicht möglich ist.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -405,6 +409,7 @@ FIP ist hier nur teilweise auf den im Folgenden genannten Strecken gültig, auf 
     fip_accepted=partially
     reservation_required=false
 %}}
+
 Die RBS ist ein Regionalverkehrsunternehmen und betreibt vier meterspurige Bahnstrecken in den Kantonen Bern und Solothurn. Diese sind auch zum Teil in die S-Bahn Bern integriert. FIP wird auf allen Strecken anerkannt, außer der S9 und Tramlinie 6. Zusätzlich betreibt die RBS auch Buslinien, auf denen FIP vollständig anerkannt wird. [^2]
 
 #### Strecken im Linienverkehr
@@ -852,6 +857,9 @@ Transitpunkte, an denen zwischen Bahn und Schiff gewechselt werden kann, sind:
 {{% booking id="sbb-website"
     subtitle="Über die SBB Website können auch viele SP-Fahrten gebucht werden."/%}}
 
+{{% booking id="rhb-website"
+    subtitle="Nur für die Berninabahn (Tirano – St. Moritz)"/%}}
+
 {{% booking id="db-website"
     subtitle="Für einzelne SP-Verbindungen können Reservierungen erworben werden."/%}}
 
@@ -907,6 +915,6 @@ Bei Fahrt mit einem Freifahrtschein ist es empfehlenswert, falls möglich auch d
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

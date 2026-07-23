@@ -263,6 +263,11 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 {{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
+La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
+{{% /booking %}}
+
 ### En gare
 
 {{% booking id="oebb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
@@ -272,6 +277,8 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
+
+{{% booking id="sz-ticket-office" subtitle="Pour les trains transfrontaliers entre la Slovénie et l’Autriche" /%}}
 
 ### À bord du train
 
@@ -299,10 +306,6 @@ Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `E
 #### Railjet Tarvisio Boscoverde – Venise
 
 Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
-
-#### Eurocity Trieste
-
-Les Coupons FIP ÖBB, **mais pas FS**, sont valables dans la section italienne jusqu’à Trieste. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 2,60 € en 2ᵉ classe et 4,60 € en 1ʳᵉ classe est à payer. Pour la section slovène, un Coupon FIP SŽ ou un Billet FIP 50 est requis.
 
 ### Ligne REX63 (Pamhagen – Neusiedl am See)
 
@@ -352,4 +355,4 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 
 ## Sources
 
-[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)

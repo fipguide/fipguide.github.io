@@ -153,6 +153,10 @@
       display: none;
     }
 
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
+
     &--open {
       transform: translateY(0);
     }
@@ -183,14 +187,18 @@
 
       * {
         transition: opacity 0.3s ease-in-out;
+
+        @media (prefers-reduced-motion: reduce) {
+          transition: none;
+        }
       }
     }
 
     &__header {
       display: flex;
       align-items: center;
+      justify-content: space-between;
       flex-direction: column;
-      gap: 1.5rem;
       width: 100%;
       border-top: var(--border);
       border-bottom: 1px solid #3d444d;

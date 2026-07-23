@@ -83,7 +83,14 @@ Reservation required for cross-border journeys to France.
     reservation_possible=true
 %}}
 
-International high-speed trains of the highest category of ÖBB/ČD in cooperation with DB between Hamburg, Berlin, Dresden, and Prague as well as Munich, Austria, and Italy or Hungary. Railjets with fewer stops are marketed as Railjet Xpress. The trains have a bistro.
+International high-speed trains of the highest category.
+
+They are operated by
+
+- ÖBB in cooperation with DB on the route between Munich, Austria, and Italy or Hungary.
+- ČD in cooperation with DB between Hamburg, Berlin, Dresden, and Prague. Some trains are extended to Copenhagen and additionally operate in cooperation with DSB.
+
+Railjets with fewer stops are marketed as Railjet Xpress. The trains have a bistro.
 
 There are three classes:
 
@@ -262,7 +269,9 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
     type="bus"
     fip_accepted=false
 %}}
+
 FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -401,6 +410,6 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

@@ -104,6 +104,25 @@ Certains trains nécessitent une réservation. L’obligation de réservation pe
 {{% /train-category %}}
 
 {{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+L’IC Nieśpieszny est un train d’expérience de style rétro exploité par PKP Intercity, axé sur des voyages délibérément détendus et lents dans des voitures historiques restaurées.
+
+Ni les Coupons FIP ni les Billets FIP 50 ne sont valables dans ce train.
+
+#### Réservations
+
+Une réservation est obligatoire.
+
+{{% /train-category %}}
+
+{{% train-category
     id="tlk"
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
@@ -228,6 +247,12 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec part de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="pkp-ticket-office" /%}}
@@ -344,6 +369,10 @@ Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Va
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
@@ -356,7 +385,7 @@ Les Coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

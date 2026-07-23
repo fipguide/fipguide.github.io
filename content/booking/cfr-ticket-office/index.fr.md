@@ -4,8 +4,8 @@ title: "Guichet CFR Călători"
 description: "Informations de réservation pour le Guichet CFR Călători."
 params:
   classes:
-    first: "5 RON / 1 RON"
-    second: "5 RON / 1 RON"
+    first: "6,5 RON / 4,5 RON"
+    second: "6,5 RON / 4,5 RON"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.cfrcalatori.ro/en/services-major-railstations/"
@@ -25,7 +25,7 @@ Un aperçu des guichets internationaux est disponible sur le [Site Web CFR Căl�
 
 ## Réservations
 
-Des réservations de places assises et debout pour les relations nationales peuvent être achetées en gare au prix de 5 RON pour les trains longue distance et 1 RON pour les trains `R`. Lors de l’utilisation d’un Coupon FIP, celui-ci doit être présenté. Le numéro du Coupon FIP sera alors imprimé sur le billet.
+Des réservations de places assises et debout pour les relations nationales peuvent être achetées en gare au prix de 6,5 RON pour les trains longue distance et 4,5 RON pour les trains `R`. Lors de l’utilisation d’un Coupon FIP, celui-ci doit être présenté. Le numéro du Coupon FIP sera alors imprimé sur le billet.
 
 Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /booking-section %}}

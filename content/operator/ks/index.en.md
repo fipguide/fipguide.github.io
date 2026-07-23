@@ -63,6 +63,13 @@ FIP 50 Tickets can only be sold for domestic connections.
         subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire journey (not valid in the country of issue of the FIP Card)"
 /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+        reservations=nil
+        subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+/%}}
+
 ### On-Site
 
 {{% booking id="ks-ticket-machine"/%}}
@@ -113,4 +120,4 @@ Similar to other regional railway companies in Poland that accept FIP, using FIP
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

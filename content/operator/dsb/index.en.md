@@ -73,6 +73,25 @@ A reservation is recommended for cross-border journeys and usually mandatory dur
 {{% /train-category %}}
 
 {{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Railjet trains operate cross-border on the route between Copenhagen and Prague via Hamburg and Berlin.
+
+In the DSB journey planner, these trains are shown as `RAIL JET`; in other journey planners such as DB, they are shown as `RJ`.
+
+#### Reservations
+
+A reservation is recommended for cross-border journeys and usually mandatory in the peak season (summer).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional"
     title="Regional Train (R / RE)"
     type="regional"
@@ -130,6 +149,12 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
     subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only."
+/%}}
+
 ### On-Site
 
 {{% booking id="dsb-ticket-office" /%}}
@@ -161,6 +186,10 @@ FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen
 Allegedly, FIP 50 Tickets are valid on Scandlines ferries in connection with a train journey through Denmark. However, this has not yet been confirmed by us. [^1]
 {{% /highlight %}}
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
 {{% highlight tip %}}
@@ -169,6 +198,6 @@ DSB offers reliable and comfortable service. The 1st class is particularly worth
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

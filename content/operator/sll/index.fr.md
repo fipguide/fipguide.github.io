@@ -55,7 +55,6 @@ Aucune remise FIP n’est accordée sur les salons ou les cabines. [^1]
 Les billets FIP doivent être achetés avant le voyage. L’achat à bord des navires n’est pas possible.
 FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplémentaires sont facturées au tarif plein. Cela inclut notamment les frais de réservation de cabine, le transport de véhicules ainsi que les taxes portuaires et environnementales.
 Avec un Coupon FIP, la traversée est gratuite.
-En général, la traversée de nuit est plus chère que celle de jour, car le tarif est plus élevé la nuit et la réservation d’une cabine est obligatoire.[^4]
 
 {{% expander "Vérifier les prix en ligne" info %}}
 {{% float-image
@@ -121,10 +120,6 @@ Les taxes portuaires et les taxes environnementales sont ajoutées au tarif conf
 Les taxes environnementales sont de 2,00 £ / 2,00 € pour les passagers, 3,00 £ / 3,00 € pour les véhicules et 1,00 £ / 1,00 € pour les enfants (4-15 ans).
 {{% /expander %}}
 
-### En ligne
-
-{{% booking id="stena-line-limited-email" /%}}
-
 ### Par téléphone
 
 {{% booking id="stena-line-limited-phone" /%}}
@@ -146,6 +141,6 @@ Stena Line et Irish Ferries proposent des billets permettant un voyage combiné 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-98)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#SLL)
 
 [^2]: [Rail Delivery Group - Staff Travel guides for holders of the Rail Staff Leisure Card - 8.7 Other transport undertakings in Great Britain, including ferries and heritage railways - Stena Line Irish Services](https://www.raildeliverygroup.com/rst/guides.html#tab-8-other-transport-undertakings-in-great-britain-including-ferries-and-heritage-railways)

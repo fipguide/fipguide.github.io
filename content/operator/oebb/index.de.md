@@ -254,6 +254,12 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 {{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
+{{% /booking %}}
+
 ### Vor Ort
 
 {{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
@@ -263,6 +269,8 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 {{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
+
+{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich" /%}}
 
 ### Im Zug
 
@@ -290,10 +298,6 @@ FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `EC` 
 #### Railjet Tarvisio Boscoverde – Venedig
 
 FIP Freifahrtscheine der ÖBB oder FS gelten im italienischen Abschnitt in `RJ` Zügen. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 10 € für die 2. Klasse und 15 € für die 1. Klasse zu zahlen. Der [ÖBB Zuschlag](/operator/oebb#gültigkeit-fip-tickets) wird im Brennerverkehr nicht erhoben.
-
-#### Eurocity Triest
-
-FIP Freifahrtscheine der ÖBB, **jedoch nicht der FS**, gelten im italienischen Abschnitt bis Triest. Für Fahrten von/nach Italien oder komplett im italienischen Abschnitt ist ein Zuschlag in Höhe von 2,60 € für die 2. Klasse und 4,60 € für die 1. Klasse zu zahlen. Für den slowenischen Abschnitt ist ein FIP Freifahrtschein der SŽ bzw. FIP 50 Ticket erforderlich.
 
 ### REX63 (Pamhagen – Neusiedl am See)
 
@@ -337,10 +341,22 @@ Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zw
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ### Schienenersatzverkehr
 
 In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)

@@ -15,35 +15,36 @@
     padding: 0.6rem;
   }
 
-  &:not(.o-expander__summary--booking) {
-    font-weight: 700;
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
   }
 
   &:hover,
   &:focus {
-    .o-expander__summary-text {
+    .o-expander__title-text {
       text-decoration: underline;
     }
 
     background: rgba($link-hovered, 0.15);
   }
 
-  @include focus-indicator(0.2rem);
-
-  &--booking {
-    &:hover,
-    &:focus {
-      .o-booking__title-text {
-        text-decoration: underline;
-      }
-    }
+  .o-expander__title-text {
+    font-weight: 700;
+    margin-bottom: 0;
+    width: 100%;
   }
+
+  @include focus-indicator(0.2rem);
 
   > .a-icon {
     transition: transform 0.2s;
 
     @media print {
       display: none;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
     }
   }
 
@@ -135,8 +136,4 @@ details {
 
 details[open] > .o-expander__summary > .a-icon {
   transform: rotate(180deg);
-}
-
-details[open] > .o-expander__summary:not(.o-expander__summary--booking) {
-  font-weight: 700;
 }

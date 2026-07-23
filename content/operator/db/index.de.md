@@ -83,7 +83,14 @@ Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
     reservation_possible=true
 %}}
 
-Internationale Schnellzüge der höchsten Kategorie der ÖBB/ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden und Prag sowie München, Österreich und Italien oder Ungarn. Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
+Internationale Schnellzüge der höchsten Kategorie.
+
+Sie werden betrieben von
+
+- der ÖBB in Kooperation mit der DB auf der Strecke zwischen München, Österreich und Italien oder Ungarn.
+- der ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden sowie Prag. Teilweise werden die Züge bis Kopenhagen verlängert und verkehren zusätzlich in Kooperation mit der DSB.
+
+Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
 
 Es gibt drei Wagenklassen:
 
@@ -262,7 +269,9 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
   type="bus"
   fip_accepted=false
 %}}
+
 FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -387,6 +396,18 @@ Im Rahmen eines Probebetriebs bei der S-Bahn Mitteldeutschland im Zeitraum vom 1
 
 Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ### Schienenersatzverkehr
 
 In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
@@ -401,6 +422,6 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)

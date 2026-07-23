@@ -186,7 +186,9 @@ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in
   fip_accepted=partially
   reservation_possible=false
 %}}
+
 FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid. [^1]
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -222,9 +224,18 @@ Domestic journeys unfortunately cannot be purchased online.
     classes.second="€ 2 / € 11"
 /%}}
 
+{{% booking id="db-phone-fip-db"
+  subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
+  reservations=false
+  classes.first="nil"
+  classes.second="nil"
+/%}}
+
 ### On-Site
 
 {{% booking id="sncf-ticket-office" /%}}
+
+{{% booking id="zou-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office" subtitle="For trains in Greater Paris" /%}}
 
@@ -382,7 +393,9 @@ Access to some stations is restricted by ticket barriers. When using FIP Coupons
   fip_accepted=false
   reservation_possible=nil
 %}}
+
 FIP discounts do not apply on trams in Greater Paris.[^3]
+
 {{% /train-category %}}
 
 #### Ticket barriers
@@ -412,7 +425,7 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 

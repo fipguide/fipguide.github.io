@@ -73,6 +73,25 @@ Réservation conseillée et généralement obligatoire en été.
 {{% /train-category %}}
 
 {{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Les trains Railjet circulent en trafic transfrontalier sur la liaison entre Copenhague et Prague via Hambourg et Berlin.
+
+Dans la recherche d’itinéraire de la DSB, ces trains sont affichés comme `RAIL JET`, dans d’autres systèmes d’information comme celui de la DB ils sont affichés comme `RJ`.
+
+#### Réservations
+
+Une réservation est recommandée pour les trajets transfrontaliers et généralement obligatoire en haute saison (été).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional"
     title="Train régional (R / RE)"
     type="regional"
@@ -130,6 +149,12 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark pour l’ensemble du trajet (pas de validité dans le pays d’émission de la Carte FIP)"
 /%}}
 
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Danemark, avec part de billet uniquement pour la section danoise. Réservé aux employés de la Deutsche Bahn."
+/%}}
+
 ### En gare
 
 {{% booking id="dsb-ticket-office" /%}}
@@ -161,6 +186,10 @@ Les Billets FIP 50 ne peuvent pas être émis pour des trajets uniquement intern
 Selon certaines sources, les Billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
 {{% /highlight %}}
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
 {{% highlight tip %}}
@@ -169,6 +198,6 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1’](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)

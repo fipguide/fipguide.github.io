@@ -1,0 +1,10 @@
+{{ range sort .Page.Pages "Weight" }}
+  {{ partial "expander" (dict
+    "Title" .Title
+    "Variant" "faq"
+    "Name" "faq"
+    "Id" (printf "%s" (.File.Dir | path.Base | anchorize))
+    "Content" .Content
+    )
+  }}
+{{ end }}

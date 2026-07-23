@@ -68,6 +68,13 @@ FIP 50 Tickets are available for domestic and international connections. For int
 
 {{% booking id="db-ticket-office" reservations=nil /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    reservations=nil
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+/%}}
+
 ### On the Train
 
 FIP 50 Tickets can also be purchased directly on the train. To do this, you must contact the train staff immediately after boarding. When boarding at stations that also have a ticket office or ticket machine, a surcharge for issuing the ticket on the train may be added to the ticket price. Tickets can be paid for in cash or by contactless credit card. Payment is only possible in the local currency, zloty.
@@ -102,4 +109,4 @@ Similar to other regional railway companies in Poland that accept FIP, using FIP
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

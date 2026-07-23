@@ -75,8 +75,8 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne.
 | Trajet                   | Standard       | Plus           |
 | ------------------------ | -------------- | -------------- |
 | Trajet dans un seul pays | Non disponible | Non disponible |
-| Trajet entre 2 pays      | 18 €           | 35 €           |
-| Trajet entre 3 pays      | 20 €           | 40 €           |
+| Trajet entre 2 pays      | 18 € / 15,50 £ | 35 € / 30,50 £ |
+| Trajet entre 3 pays      | 20 € / 17,50 £ | 40 € / 35 £    |
 
 {{% /train-category %}}
 
@@ -150,7 +150,7 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     reservations=nil
 /%}}
 
-{{% booking id="ffestiniogtravel-email"
+{{% booking id="ffestiniogtravel-phone"
     fip_50=nil
     fip_75=nil
     fip_global_fare=true
@@ -188,7 +188,11 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d’un adulte. [^2]
+Les enfants de moins de 4 ans voyagent gratuitement sans billet mais doivent être assis sur les genoux d’un adulte. Un billet séparé peut être acheté si une place séparée est souhaitée. Les enfants dès 4 ans paient le tarif adulte FIP complet.[^1]
+
+Il n’y a pas d’autre réduction FIP pour les enfants, cependant les tarifs publics offrent une réduction de 30 à 50 %, ce qui rend une comparaison judicieuse.[^2]
+
+Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enfants de 12 à 15 ans peuvent voyager avec une personne responsable de 16 ans ou plus, ou comme mineur non accompagné muni des documents requis.[^2]
 
 ## Conditions tarifaires spéciales
 
@@ -219,11 +223,7 @@ La vérification des contingents de billets disponibles est possible via les sit
 
 #### HOTNAT (Correspondance à Bruxelles, Cologne, Paris)
 
-Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, pour garantir la correspondance lors d’un changement, il est possible d’utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
-
-Si la correspondance entre deux trains à grande vitesse est manquée en raison d’un retard ou d’une suppression, il est possible d’emprunter le prochain train disponible du même opérateur ou d’un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
-
-HOTNAT s’applique uniquement lors d’une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L’utilisation dépend du taux d’occupation des trains.
+Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, HOTNAT (Hop on the Next Available Train) peut être utilisé pour sécuriser la correspondance lors d’un changement. [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Correspondance à Londres)
 
@@ -256,8 +256,8 @@ Sans réduction FIP, la réservation en ligne est possible via [Trainsplit](http
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
-[^2]: DB Travel Market
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)
