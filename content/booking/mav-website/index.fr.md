@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Site Web MÁV"
-description: "Informations de réservation pour le site Web de réservation MÁV."
+description: "Informations de réservation pour le site Web / application de réservation MÁV."
 params:
   classes:
     first: "990 HUF"
@@ -9,7 +9,7 @@ params:
   fip_50: true
   reservations: true
   booking_link: "https://jegy.mav.hu/?lang=en"
-  type: "website"
+  type: "online"
 ---
 
 Les billets FIP 50 et les réservations pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV.
