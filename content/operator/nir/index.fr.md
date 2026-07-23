@@ -8,6 +8,10 @@ operator: "nir"
 aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp
+params:
+  transitous_mapping:
+    - query: agencyName == "Translink NI Railways"
+    - query: agencyName == "Northern Ireland Railways"
 ---
 
 Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d’Irlande du Nord et fait partie de Translink, une entreprise de transport public. Le réseau ferroviaire est compact et comprend principalement des liaisons à destination et en provenance de Belfast.

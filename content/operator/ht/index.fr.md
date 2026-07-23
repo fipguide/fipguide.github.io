@@ -8,6 +8,10 @@ operator: "ht"
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
+params:
+  transitous_mapping:
+    - query: agencyName == "HŽ Putnički prijevoz"
+    - query: agencyName == "HŽ"
 ---
 
 Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploite l’ensemble du transport de voyageurs de l’État sur le réseau grec à voie normale. L’entreprise exploite des services grandes lignes, régionaux et de banlieue (« Proastiakos »). Depuis 2017, elle est une filiale à 100 % des chemins de fer italiens Ferrovie dello Stato Italiane (FS).

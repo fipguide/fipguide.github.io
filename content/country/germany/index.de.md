@@ -4,88 +4,170 @@ title: "Deutschland"
 country: "germany"
 params:
   operators_without_fip:
-    - Abellio Rail Mitteldeutschland GmbH
-    - agilis – ag
-    - AKN Eisenbahn GmbH – AKN
-    - Albtal-Vekehrs-Gesellschaft mbH
-    - alex - Die Länderbahn GmbH DLB
-    - Arriva Danmark A/S
-    - Arriva Nederland
-    - Arverio Baden-Württemberg
-    - Arverio Bayern
-    - BahnTouristikExpress GmbH – BTE
-    - Bayerische Regiobahn – BRB
-    - Bayerische Zugspitzbahn Bergbahn AG
-    - Bentheimer Eisenbahn – BE
-    - Bodensee-Oberschwaben-Bahn
-    - Borkumer Kleinbahn- und Dampfschiffahrt GmbH
-    - Brohltal Schmalspureisenbahn Betriebs GmbH – P
-    - cantus Verkehrsgesellschaft
-    - City-Bahn Chemnitz – CB
-    - Daadetalbahn – Dab
-    - Dessau-Wörlitzer Eisenbahn – DWE
-    - Erfurter Bahn GmbH
-    - erixx – erx
-    - eurobahn
-    - European Sleeper – ES
-    - EVB ELBE-WESER GmbH – EVB
-    - FlixTrain GmbH – FLX
-    - Förderverein Mainschleifenbahn e.V. – MSB
-    - Freiberger Eisenbahngesellschaft mbH – FEG
-    - GoVolta
-    - Hamburger Hochbahn
-    - Hanseatische Eisenbahn GmbH
-    - Harzer Schmalspurbahn – HSB
-    - HLB Hessenbahn GmbH – HLB
-    - Kandertalbahn – KTB
-    - Kasbachtalbahn – P
-    - Leo Express
-    - Mecklenburgische Bäderbahn Molli – MBB
-    - metronom – ME
-    - Mitteldeutsche Regiobahn – MRB
-    - Mittelrheinbahn – MRB
-    - National Express – NX
-    - NEB Niederbarnimer Eisenbahn
-    - neg Niebüll GmbH – neg
-    - nordbahn – NBE
-    - NordWestBahn – NWB
-    - oberpfalzbahn - Die Länderbahn GmbH DLB
-    - Öchsle-Bahn Betriebsgesellschaft mbH – ÖBA
-    - Ostdeutsche Eisenbahn GmbH
-    - Pressnitztalbahn – PRE
-    - RDC Autozug Sylt GmbH – AS
-    - RDC Deutschland GmbH
-    - REGIOBAHN
-    - Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
-    - Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
-    - Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
-    - Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
-    - RegioTram – RT
-    - Rhein-Neckar-Verkehr GmbH
-    - RheinRuhrBahn (Transdev) – RRB
-    - Rurtalbahn – RTB
-    - Saarbahn
-    - Sächsisch-Oberlausitzer Eisenbahngesellschaft – SOE
-    - S-Bahn Hannover (Transdev)
-    - SBB GmbH – SBB
-    - Schienenverkehrsgesellschaft mbH (SVG)
-    - Schwäbische Alb-Bahn – SAB
-    - SDG Sächsische Dampfeisenbahngesellschaft mbH – SDG
-    - Snältågget – D
-    - Süd-Thüringen-Bahn GmbH
-    - SWEG Südwestdeutsche Landesverkehrs-GmbH – SWE
-    - Touristik-Eisenbahn Lüneburger Heide GmbH – TEL
-    - trilex - Die Länderbahn GmbH DLB – TL
-    - trilex-Express - Die Länderbahn GmbH DLB – TLX
-    - TRI Train Rental GmbH – TRI
-    - VIAS GmbH – VIA
-    - VIAS Rail GmbH – VIA
-    - vlexx
-    - vogtlandbahn - Die Länderbahn GmbH DLB – VBG
-    - waldbahn - Die Länderbahn GmbH DLB
-    - WESTbahn – WB
-    - WestfalenBahn – WFB
-    - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+    - name: Abellio Rail Mitteldeutschland GmbH
+      query:
+    - name: agilis – ag
+      query:
+    - name: AKN Eisenbahn GmbH – AKN
+      query:
+    - name: Albtal-Vekehrs-Gesellschaft mbH
+      query:
+    - name: alex - Die Länderbahn GmbH DLB
+      query:
+    - name: Arriva Danmark A/S
+      query:
+    - name: Arriva Nederland
+      query:
+    - name: Arverio Baden-Württemberg
+      query:
+    - name: Arverio Bayern
+      query:
+    - name: BahnTouristikExpress GmbH – BTE
+      query:
+    - name: Bayerische Regiobahn – BRB
+      query:
+    - name: Bayerische Zugspitzbahn Bergbahn AG
+      query:
+    - name: Bentheimer Eisenbahn – BE
+      query:
+    - name: Bodensee-Oberschwaben-Bahn
+      query:
+    - name: Borkumer Kleinbahn- und Dampfschiffahrt GmbH
+      query:
+    - name: Brohltal Schmalspureisenbahn Betriebs GmbH – P
+      query:
+    - name: cantus Verkehrsgesellschaft
+      query:
+    - name: City-Bahn Chemnitz – CB
+      query:
+    - name: Daadetalbahn – Dab
+      query:
+    - name: Dessau-Wörlitzer Eisenbahn – DWE
+      query:
+    - name: Erfurter Bahn GmbH
+      query:
+    - name: erixx – erx
+      query:
+    - name: eurobahn
+      query:
+    - name: European Sleeper – ES
+      query:
+    - name: EVB ELBE-WESER GmbH – EVB
+      query:
+    - name: FlixTrain GmbH – FLX
+      query:
+    - name: Förderverein Mainschleifenbahn e.V. – MSB
+      query:
+    - name: Freiberger Eisenbahngesellschaft mbH – FEG
+      query:
+    - name: GoVolta
+      query:
+    - name: Hamburger Hochbahn
+      query:
+    - name: Hanseatische Eisenbahn GmbH
+      query:
+    - name: Harzer Schmalspurbahn – HSB
+      query:
+    - name: HLB Hessenbahn GmbH – HLB
+      query:
+    - name: Kandertalbahn – KTB
+      query:
+    - name: Kasbachtalbahn – P
+      query:
+    - name: Leo Express
+      query:
+    - name: Mecklenburgische Bäderbahn Molli – MBB
+      query:
+    - name: metronom – ME
+      query:
+    - name: Mitteldeutsche Regiobahn – MRB
+      query:
+    - name: Mittelrheinbahn – MRB
+      query:
+    - name: National Express – NX
+      query: agencyName == "National Express"
+    - name: NEB Niederbarnimer Eisenbahn
+      query:
+    - name: neg Niebüll GmbH – neg
+      query:
+    - name: nordbahn – NBE
+      query:
+    - name: NordWestBahn – NWB
+      query:
+    - name: oberpfalzbahn - Die Länderbahn GmbH DLB
+      query:
+    - name: Öchsle-Bahn Betriebsgesellschaft mbH – ÖBA
+      query:
+    - name: Ostdeutsche Eisenbahn GmbH
+      query:
+    - name: Pressnitztalbahn – PRE
+      query:
+    - name: RDC Autozug Sylt GmbH – AS
+      query:
+    - name: RDC Deutschland GmbH
+      query:
+    - name: REGIOBAHN
+      query:
+    - name: Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
+      query:
+    - name: Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
+      query:
+    - name: Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
+      query:
+    - name: Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
+      query:
+    - name: RegioTram – RT
+      query:
+    - name: Rhein-Neckar-Verkehr GmbH
+      query:
+    - name: RheinRuhrBahn (Transdev) – RRB
+      query:
+    - name: Rurtalbahn – RTB
+      query:
+    - name: Saarbahn
+      query:
+    - name: Sächsisch-Oberlausitzer Eisenbahngesellschaft – SOE
+      query:
+    - name: S-Bahn Hannover (Transdev)
+      query:
+    - name: SBB GmbH – SBB
+      query:
+    - name: Schienenverkehrsgesellschaft mbH (SVG)
+      query:
+    - name: Schwäbische Alb-Bahn – SAB
+      query:
+    - name: SDG Sächsische Dampfeisenbahngesellschaft mbH – SDG
+      query:
+    - name: Snältågget – D
+      query:
+    - name: Süd-Thüringen-Bahn GmbH
+      query:
+    - name: SWEG Südwestdeutsche Landesverkehrs-GmbH – SWE
+      query:
+    - name: Touristik-Eisenbahn Lüneburger Heide GmbH – TEL
+      query:
+    - name: trilex - Die Länderbahn GmbH DLB – TL
+      query:
+    - name: trilex-Express - Die Länderbahn GmbH DLB – TLX
+      query:
+    - name: TRI Train Rental GmbH – TRI
+      query:
+    - name: VIAS GmbH – VIA
+      query:
+    - name: VIAS Rail GmbH – VIA
+      query:
+    - name: vlexx
+      query:
+    - name: vogtlandbahn - Die Länderbahn GmbH DLB – VBG
+      query:
+    - name: waldbahn - Die Länderbahn GmbH DLB
+      query:
+    - name: WESTbahn – WB
+      query:
+    - name: WestfalenBahn – WFB
+      query:
+    - name: Württembergische Eisenbahn-Gesellschaft mbH – WEG
+      query:
 ---
 
 ## FIP Nutzung

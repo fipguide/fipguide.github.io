@@ -1,0 +1,128 @@
+{{ define "main" }}
+  <article class="o-single o-route-planner" data-pagefind-ignore="all">
+    <div class="o-single__content-wrapper">
+      <div class="o-single__container">
+        <div class="o-single__content-header">
+          <div class="o-single__content-header-title">
+            <h1>{{ .Title }}</h1>
+          </div>
+        </div>
+
+        <div class="o-route-planner__form m-form">
+          <div class="o-route-planner__fields">
+            <div class="o-route-planner__field-group">
+              <label for="route-planner-from"
+                >{{ T "routePlanner.from" }}</label
+              >
+              <div class="o-route-planner__autocomplete-wrapper">
+                <input
+                  type="text"
+                  id="route-planner-from"
+                  name="from"
+                  autocomplete="off"
+                  placeholder="{{ T "routePlanner.fromPlaceholder" }}"
+                  aria-autocomplete="list"
+                  aria-controls="route-planner-from-suggestions"
+                  aria-expanded="false"
+                />
+                <ul
+                  id="route-planner-from-suggestions"
+                  class="o-route-planner__suggestions"
+                  role="listbox"
+                  hidden
+                ></ul>
+              </div>
+            </div>
+
+            <button
+              type="button"
+              class="o-route-planner__swap a-button a-button__internal"
+              id="route-planner-swap"
+              aria-label="{{ T "routePlanner.swap" }}"
+            >
+              {{ partial "icon" "swap_vert" }}
+            </button>
+
+            <div class="o-route-planner__field-group">
+              <label for="route-planner-to">{{ T "routePlanner.to" }}</label>
+              <div class="o-route-planner__autocomplete-wrapper">
+                <input
+                  type="text"
+                  id="route-planner-to"
+                  name="to"
+                  autocomplete="off"
+                  placeholder="{{ T "routePlanner.toPlaceholder" }}"
+                  aria-autocomplete="list"
+                  aria-controls="route-planner-to-suggestions"
+                  aria-expanded="false"
+                />
+                <ul
+                  id="route-planner-to-suggestions"
+                  class="o-route-planner__suggestions"
+                  role="listbox"
+                  hidden
+                ></ul>
+              </div>
+            </div>
+
+            <div class="o-route-planner__field-group">
+              <label for="route-planner-time"
+                >{{ T "routePlanner.departureTime" }}</label
+              >
+              <input
+                type="datetime-local"
+                id="route-planner-time"
+                name="time"
+              />
+            </div>
+
+            <button type="button" class="a-button" id="route-planner-search">
+              {{ partial "icon" "search" }}
+              {{ T "routePlanner.search" }}
+            </button>
+          </div>
+        </div>
+
+        <div id="route-planner-results" class="o-route-planner__results" hidden>
+          <div
+            id="route-planner-loading"
+            class="o-route-planner__loading"
+            hidden
+          >
+            <span class="o-route-planner__spinner"></span>
+            {{ T "routePlanner.loading" }}
+          </div>
+          <div
+            id="route-planner-error"
+            class="o-route-planner__error"
+            hidden
+          ></div>
+          <div id="route-planner-itineraries"></div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <script>
+    window.routePlannerConfig = {
+      lang: "{{ .Language.Lang }}",
+      baseUrl: "{{ T "routePlanner.operatorBaseUrl" }}",
+      labels: {
+        walk: "{{ T "routePlanner.walk" }}",
+        fipAccepted: "{{ T "routePlanner.fipAccepted" }}",
+        fipPartial: "{{ T "routePlanner.fipPartial" }}",
+        fipNotAccepted: "{{ T "routePlanner.fipNotAccepted" }}",
+        fipUnknown: "{{ T "routePlanner.fipUnknown" }}",
+        operatorNotInFipGuide: "{{ T "routePlanner.operatorNotInFipGuide" }}",
+        viewInFipGuide: "{{ T "routePlanner.viewInFipGuide" }}",
+        transfer: "{{ T "routePlanner.transfer" }}",
+        departure: "{{ T "routePlanner.departure" }}",
+        arrival: "{{ T "routePlanner.arrival" }}",
+        duration: "{{ T "routePlanner.duration" }}",
+        platform: "{{ T "routePlanner.platform" }}",
+        noResults: "{{ T "routePlanner.noResults" }}",
+        errorGeneric: "{{ T "routePlanner.errorGeneric" }}"
+      }
+    };
+  </script>
+{{ end }}

@@ -9,6 +9,9 @@ aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "DSB"
 ---
 
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.

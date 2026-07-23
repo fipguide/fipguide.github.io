@@ -4,7 +4,8 @@ title: "{{ .File.ContentBaseName | title }}" # Ändere den Name auf den deutsche
 country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
-    -  # Liste Betreiber, die kein FIP akzeptieren
+    - name: # Betreibername
+      query: # z.B. agencyName == "Betreibername"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

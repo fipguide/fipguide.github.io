@@ -4,7 +4,8 @@ title: "Lituanie"
 country: "lithuania"
 params:
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (chemin de fer musée)"
+    - name: "Aukštaitijos siaurasis geležinkelis (chemin de fer musée)"
+      query:
 ---
 
 ## Informations FIP

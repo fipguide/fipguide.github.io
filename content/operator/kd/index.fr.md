@@ -9,6 +9,9 @@ aliases:
   - /booking/kd-ticket-machine
   - /booking/kd-ticket-office
   - /booking/kd-website
+params:
+  transitous_mapping:
+    - query: agencyName == "Koleje Dolnośląskie"
 ---
 
 Koleje Dolnośląskie (KD) est une compagnie ferroviaire polonaise assurant principalement des services régionaux dans la voïvodie de Basse-Silésie. C’est l’une des cinq compagnies différentes de [Pologne](/country/poland) qui proposent le FIP.

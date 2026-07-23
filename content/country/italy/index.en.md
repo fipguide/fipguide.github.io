@@ -4,14 +4,22 @@ title: "Italy"
 country: "italy"
 params:
   operators_without_fip:
-    - Azienda Regionale Sarda Trasporti
-    - Circumflegrea
-    - Circumvesuviana
-    - Cumana
-    - European Sleeper
-    - '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud Est")'
-    - Italo / NTV
-    - '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'
+    - name: Azienda Regionale Sarda Trasporti
+      query:
+    - name: Circumflegrea
+      query:
+    - name: Circumvesuviana
+      query:
+    - name: Cumana
+      query:
+    - name: European Sleeper
+      query:
+    - name: '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud Est")'
+      query:
+    - name: Italo / NTV
+      query:
+    - name: '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'
+      query:
 ---
 
 ## FIP Information

@@ -4,7 +4,8 @@ title: "Lettland"
 country: "latvia"
 params:
   operators_without_fip:
-    - "Latvijas dzelzceļš (LDz)"
+    - name: "Latvijas dzelzceļš (LDz)"
+      query:
 ---
 
 ## FIP Nutzung

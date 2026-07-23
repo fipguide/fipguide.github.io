@@ -4,6 +4,9 @@ title: "ŽPCG"
 country:
   - "montenegro"
 operator: "zpcg"
+params:
+  transitous_mapping:
+    - query: agencyName == "ŽPCG"
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) is the national passenger transport operator in Montenegro.

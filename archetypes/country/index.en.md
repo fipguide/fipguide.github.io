@@ -4,7 +4,8 @@ title: "{{ .File.ContentBaseName | title }}" # Change the name to the English co
 country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
-    -  # List operators without FIP here
+    - name: # Operator name
+      query: # e.g. agencyName == "Operator Name"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

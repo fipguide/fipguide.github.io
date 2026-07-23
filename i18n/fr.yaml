@@ -226,6 +226,30 @@ related:
   operators: Opérateurs associés
   operators-nearby: Opérateurs voisins
 reportError: Signaler une erreur
+routePlanner:
+  arrival: Arrivée
+  departure: Départ
+  departureTime: Heure de départ
+  duration: Durée
+  errorGeneric: Une erreur s'est produite. Veuillez réessayer.
+  fipAccepted: FIP accepté
+  fipNotAccepted: FIP non accepté
+  fipPartial: FIP partiellement accepté
+  fipUnknown: Statut FIP inconnu
+  from: De
+  fromPlaceholder: ex. Bruxelles-Midi
+  loading: Recherche de connexions…
+  noResults: Aucune connexion trouvée.
+  operatorBaseUrl: /fr
+  operatorNotInFipGuide: Opérateur absent du FIP Guide
+  platform: Voie
+  search: Rechercher
+  swap: Échanger l'origine et la destination
+  to: Vers
+  toPlaceholder: ex. Vienne Hbf
+  transfer: correspondance(s)
+  viewInFipGuide: Voir dans le FIP Guide
+  walk: À pied
 satellite:
   content: >-
     Pour éviter des frais supplémentaires lors d'appels à l'étranger, vous

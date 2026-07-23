@@ -8,6 +8,12 @@ aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
   - /booking/sbb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "SBB"
+    - query: agencyName == "CFF"
+    - query: agencyName == "FFS"
+    - query: agencyName == "SBB CFF FFS"
 ---
 
 SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.

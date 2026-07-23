@@ -4,8 +4,10 @@ title: "Belgien"
 country: "belgium"
 params:
   operators_without_fip:
-    - European Sleeper
-    - OUIGO
+    - name: European Sleeper
+      query:
+    - name: OUIGO
+      query:
 ---
 
 ## FIP Nutzung

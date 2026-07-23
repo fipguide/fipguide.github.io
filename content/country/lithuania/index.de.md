@@ -4,7 +4,8 @@ title: "Litauen"
 country: "lithuania"
 params:
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
+    - name: "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
+      query:
 ---
 
 ## FIP Nutzung

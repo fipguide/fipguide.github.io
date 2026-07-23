@@ -9,6 +9,9 @@ aliases:
   - /booking/ks-ticket-machine
   - /booking/ks-ticket-office
   - /booking/ks-website
+params:
+  transitous_mapping:
+    - query: agencyName == "Koleje Śląskie"
 ---
 
 Koleje Śląskie, short KŚ, is a Polish railway operator that primarily offers regional transport in the Silesian Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).

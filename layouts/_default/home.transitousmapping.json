@@ -1,0 +1,38 @@
+{{- $operators := where (where site.Pages "Type" "operator") "IsPage" true -}}
+{{- $result := slice -}}
+{{- range $operators -}}
+  {{- $mapping := .Params.transitous_mapping -}}
+  {{- if $mapping -}}
+    {{- $trainCategories := .Store.Get "train_categories" | default slice -}}
+    {{- $entries := slice -}}
+    {{- range $mapping -}}
+      {{- $entry := dict "query" .query -}}
+      {{- if .category -}}
+        {{- $entry = merge $entry (dict "category" .category) -}}
+        {{- $catId := .category -}}
+        {{- range $trainCategories -}}
+          {{- if eq .id $catId -}}
+            {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $entries = $entries | append $entry -}}
+    {{- end -}}
+    {{- $op := dict "operator" .File.ContentBaseName "mapping" $entries -}}
+    {{- $result = $result | append $op -}}
+  {{- end -}}
+{{- end -}}
+{{- $noFipEntries := slice -}}
+{{- $countries := where (where site.Pages "Type" "country") "IsPage" true -}}
+{{- range $countries -}}
+  {{- $countrySlug := .File.ContentBaseName -}}
+  {{- range .Params.operators_without_fip -}}
+    {{- if .query -}}
+      {{- $noFipEntries = $noFipEntries | append (dict "query" .query "fipAccepted" false "country" $countrySlug) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $noFipEntries -}}
+  {{- $result = $result | append (dict "operator" "no-fip" "mapping" $noFipEntries) -}}
+{{- end -}}
+{{- $result | jsonify (dict "indent" "  ") -}}

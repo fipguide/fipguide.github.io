@@ -4,6 +4,9 @@ title: "SV"
 country:
   - "serbia"
 operator: "sv"
+params:
+  transitous_mapping:
+    - query: agencyName == "Srbija Voz"
 ---
 
 Srbija Voz (Србија Воз) is the state railway company in Serbia and operates the majority of passenger traffic in the country.

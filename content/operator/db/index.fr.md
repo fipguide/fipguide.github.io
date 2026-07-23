@@ -10,6 +10,26 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
+params:
+  transitous_mapping:
+    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE")
+      category: ice
+    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("TGV")
+      category: tgv
+    - query: agencyName == "DB Fernverkehr AG" && (displayName.startsWith("RJ") || displayName.startsWith("RJX"))
+      category: rj
+    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ECE")
+      category: ece
+    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("EC")
+      category: ec
+    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("IC")
+      category: ic
+    - query: (agencyName == "DB Regio AG NRW" || agencyName == "DB Regio AG Bayern" || agencyName == "DB Regio AG Mitte" || agencyName == "DB Regio AG Süd" || agencyName == "DB Regio AG Nord") && routeShortName.startsWith("RE")
+      category: re
+    - query: (agencyName == "DB Regio AG NRW" || agencyName == "DB Regio AG Bayern" || agencyName == "DB Regio AG Mitte" || agencyName == "DB Regio AG Süd" || agencyName == "DB Regio AG Nord") && routeShortName.startsWith("RB")
+      category: rb
+    - query: (agencyName == "DB Regio AG NRW" || agencyName == "DB Regio AG Bayern" || agencyName == "DB Regio AG Mitte" || agencyName == "DB Regio AG Süd" || agencyName == "DB Regio AG Nord") && mode == "SUBURBAN"
+      category: s
 ---
 
 La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.

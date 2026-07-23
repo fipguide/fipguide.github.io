@@ -16,6 +16,18 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
+params:
+  transitous_mapping:
+    - query: agencyId == "EUROSTAR_CHANNEL"
+      category: eurostar-blue
+    - query: agencyId == "EUROSTAR_CONTINENTAL"
+      category: eurostar-red
+    - query: agencyName == "NS Int" && routeShortName == "Eurostar"
+      category: eurostar-red
+    - query: agencyName == "SNCF" && routeShortName == "THA"
+      category: eurostar-red
+    - query: agencyId == "EUROSTAR_SNOW"
+      category: eurostar-snow
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").

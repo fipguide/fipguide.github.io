@@ -4,10 +4,14 @@ title: "Norway"
 country: "norway"
 params:
   operators_without_fip:
-    - Arctic Train
-    - Flåm Railway
-    - Flytoget Airport Express
-    - SJ Sverige
+    - name: Arctic Train
+      query:
+    - name: Flåm Railway
+      query:
+    - name: Flytoget Airport Express
+      query:
+    - name: SJ Sverige
+      query:
 ---
 
 ## FIP Information

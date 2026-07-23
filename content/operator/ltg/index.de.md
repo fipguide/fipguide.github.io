@@ -8,6 +8,9 @@ operator: "ltg"
 
 aliases:
   - /booking/ltg-website
+params:
+  transitous_mapping:
+    - query: agencyName == "LTG Link"
 ---
 
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochtergesellschaft LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.

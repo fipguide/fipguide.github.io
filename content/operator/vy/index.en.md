@@ -9,6 +9,12 @@ aliases:
   - /booking/entur-chat
   - /booking/entur-phone
   - /booking/entur-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "Vy"
+    - query: agencyName == "Vy Tog"
+    - query: agencyName == "SJ Nord"
+    - query: agencyName == "Go-Ahead Nordic"
 ---
 
 Vy Group (formerly Norges Statsbaner) is the state railway company in [Norway](/country/norway). Together with its subsidiaries, it operates most of the passenger rail transport in Norway.

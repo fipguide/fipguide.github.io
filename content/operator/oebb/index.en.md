@@ -12,6 +12,11 @@ aliases:
   - /booking/oebb-ticket-machine
   - /booking/oebb-ticket-office
   - /booking/oebb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "OEBB Personenverkehr AG Kundenservice"
+    - query: agencyName == "ÖBB-Personenverkehr AG"
+    - query: agencyName == "ÖBB"
 ---
 
 ÖBB (Austrian Federal Railways) is [Austria](/country/austria "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.

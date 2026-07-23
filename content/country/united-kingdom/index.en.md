@@ -4,21 +4,36 @@ title: "United Kingdom"
 country: "united-kingdom"
 params:
   operators_without_fip:
-    - Blackpool Tramway
-    - Caledonian MacBrayne Ferries
-    - Docklands Light Railway
-    - Edinburgh Tramway
-    - Getlink (Eurotunnel LeShuttle)
-    - Glasgow Subway
-    - Hovertravel (Portsmouth to Ryde on the Isle of Wight)
-    - '[London Underground](/operator/gb#verkehr-in-london "London Underground")'
-    - Midland Metro (Birmingham to Wolverhampton)
-    - Nottingham Express Transit
-    - Sheffield Supertram
-    - London Trams (formerly Croydon Tramlink)
-    - Transport for Greater Manchester
-    - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle of Wight)
+    - name: Blackpool Tramway
+      query:
+    - name: Caledonian MacBrayne Ferries
+      query:
+    - name: Docklands Light Railway
+      query:
+    - name: Edinburgh Tramway
+      query:
+    - name: Getlink (Eurotunnel LeShuttle)
+      query:
+    - name: Glasgow Subway
+      query:
+    - name: Hovertravel (Portsmouth to Ryde on the Isle of Wight)
+      query:
+    - name: '[London Underground](/operator/gb#verkehr-in-london "London Underground")'
+      query:
+    - name: Midland Metro (Birmingham to Wolverhampton)
+      query:
+    - name: Nottingham Express Transit
+      query:
+    - name: Sheffield Supertram
+      query:
+    - name: London Trams (formerly Croydon Tramlink)
+      query:
+    - name: Transport for Greater Manchester
+      query:
+    - name: Tyne and Wear Metro
+      query:
+    - name: Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle of Wight)
+      query:
 ---
 
 <!-- The UK is a bit different. There are no train categories, but many operators, so you have to check where FIP is valid. It makes sense to list other operators without FIP, even if they are often trams and subways. Otherwise, it's hard for users to understand why FIP is valid on the Elizabeth Line but not on other Underground lines. -->

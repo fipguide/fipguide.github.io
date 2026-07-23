@@ -4,7 +4,8 @@ title: "Serbia"
 country: "serbia"
 params:
   operators_without_fip:
-    - Optima Express
+    - name: Optima Express
+      query:
 ---
 
 ## FIP Information

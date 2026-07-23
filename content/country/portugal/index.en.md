@@ -4,7 +4,8 @@ title: "Portugal"
 country: "portugal"
 params:
   operators_without_fip:
-    - Fertagus
+    - name: Fertagus
+      query:
 ---
 
 ## FIP Information

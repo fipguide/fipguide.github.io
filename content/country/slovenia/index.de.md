@@ -4,7 +4,8 @@ title: "Slowenien"
 country: "slovenia"
 params:
   operators_without_fip:
-    - Optima Express
+    - name: Optima Express
+      query:
 ---
 
 ## FIP Nutzung

@@ -4,8 +4,10 @@ title: "Greece"
 country: "greece"
 params:
   operators_without_fip:
-    - STASY (Urban Rail Transport S.A.)
-    - THEMA S.A. – Thessaloniki Metro
+    - name: STASY (Urban Rail Transport S.A.)
+      query:
+    - name: THEMA S.A. – Thessaloniki Metro
+      query:
 ---
 
 ## FIP Information

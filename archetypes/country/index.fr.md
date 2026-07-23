@@ -4,7 +4,8 @@ title: "{{ .File.ContentBaseName | title }}" # Change le nom par le nom du pays 
 country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
-    -  # Listez ici les opérateurs ne participant pas au FIP
+    - name: # Nom de l'opérateur
+      query: # p.ex. agencyName == "Nom de l'opérateur"
 ---
 
 <!-- Supprimez ce message si la page est complète -->

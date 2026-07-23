@@ -4,21 +4,36 @@ title: "Royaume-Uni"
 country: "united-kingdom"
 params:
   operators_without_fip:
-    - Blackpool Tramway
-    - Caledonian MacBrayne Ferries
-    - Docklands Light Railway
-    - Edinburgh Tramway
-    - Getlink (Eurotunnel LeShuttle)
-    - Glasgow Subway
-    - Hovertravel (Portsmouth à Ryde sur l’île de Wight)
-    - ’[London Underground](/operator/gb#verkehr-in-london "London Underground")’
-    - Midland Metro (Birmingham à Wolverhampton)
-    - Nottingham Express Transit
-    - Sheffield Supertram
-    - London Trams (anciennement Croydon Tramlink)
-    - Transport for Greater Manchester
-    - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour à Ryde Pier Head station sur l’île de Wight)
+    - name: Blackpool Tramway
+      query:
+    - name: Caledonian MacBrayne Ferries
+      query:
+    - name: Docklands Light Railway
+      query:
+    - name: Edinburgh Tramway
+      query:
+    - name: Getlink (Eurotunnel LeShuttle)
+      query:
+    - name: Glasgow Subway
+      query:
+    - name: Hovertravel (Portsmouth à Ryde sur l’île de Wight)
+      query:
+    - name: ’[London Underground](/operator/gb#verkehr-in-london "London Underground")’
+      query:
+    - name: Midland Metro (Birmingham à Wolverhampton)
+      query:
+    - name: Nottingham Express Transit
+      query:
+    - name: Sheffield Supertram
+      query:
+    - name: London Trams (anciennement Croydon Tramlink)
+      query:
+    - name: Transport for Greater Manchester
+      query:
+    - name: Tyne and Wear Metro
+      query:
+    - name: Wightlink ferry (Portsmouth Harbour à Ryde Pier Head station sur l’île de Wight)
+      query:
 ---
 
 <!-- Le Royaume-Uni est un peu différent. Il n’y a pas de catégories de trains, mais de nombreux opérateurs, il faut donc vérifier où le FIP est valable. Il est donc utile de lister aussi les autres opérateurs sans FIP, même s’il s’agit souvent de tramways ou de métros. Sinon, il est difficile pour l’utilisateur de comprendre pourquoi le FIP est valable sur la Elizabeth Line mais pas sur d’autres lignes du métro. -->

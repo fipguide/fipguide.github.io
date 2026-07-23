@@ -4,7 +4,8 @@ title: "Ireland"
 country: "ireland"
 params:
   operators_without_fip:
-    - Transdev (Luas - Dublin Tram)
+    - name: Transdev (Luas - Dublin Tram)
+      query:
 ---
 
 ## FIP Information

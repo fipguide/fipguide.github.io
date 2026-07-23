@@ -4,8 +4,10 @@ title: "Slovaquie"
 country: "slovakia"
 params:
   operators_without_fip:
-    - RegioJet
-    - Leo Express
+    - name: RegioJet
+      query:
+    - name: Leo Express
+      query:
 ---
 
 ## Informations FIP

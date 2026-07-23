@@ -8,6 +8,11 @@ operator: "ns"
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "NS"
+    - query: agencyName == "NS Int"
+    - query: agencyName == "Nederlandse Spoorwegen"
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande](/country/netherlands "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.

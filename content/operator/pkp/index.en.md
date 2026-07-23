@@ -10,6 +10,10 @@ aliases:
   - /booking/pkp-ticket-office
   - /booking/pkp-website
   - /booking/koleo-website
+params:
+  transitous_mapping:
+    - query: agencyName == "PKP Intercity"
+    - query: agencyName == "Polregio"
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").
