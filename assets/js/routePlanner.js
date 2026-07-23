@@ -73,6 +73,7 @@ function matchLeg(leg) {
           operatorSlug: op.operator,
           categoryId: entry.category || null,
           fipAccepted: entry.fipAccepted ?? null,
+          reservationRequired: entry.reservationRequired ?? null,
           matchedQuery: entry.query,
           country: entry.country || null,
         };
@@ -115,6 +116,7 @@ function getFipStatus(leg) {
     operatorSlug,
     categoryId,
     fipAccepted: matchedFipAccepted,
+    reservationRequired,
     country,
   } = match;
   const isNoFip = operatorSlug === "no-fip";
@@ -133,6 +135,7 @@ function getFipStatus(leg) {
       label: cfg.labels.fipNotAccepted,
       categoryUrl,
       operatorSlug,
+      reservationRequired,
       debug,
     };
   }
@@ -142,6 +145,7 @@ function getFipStatus(leg) {
       label: cfg.labels.fipPartial,
       categoryUrl,
       operatorSlug,
+      reservationRequired,
       debug,
     };
   }
@@ -151,6 +155,7 @@ function getFipStatus(leg) {
       label: cfg.labels.fipAccepted,
       categoryUrl,
       operatorSlug,
+      reservationRequired,
       debug,
     };
   }
@@ -159,6 +164,7 @@ function getFipStatus(leg) {
     label: cfg.labels.fipUnknown,
     categoryUrl,
     operatorSlug,
+    reservationRequired,
     debug,
   };
 }
@@ -193,7 +199,16 @@ function renderFipBadge(fipStatus) {
       <table class="o-route-planner__fip-debug-table"><tbody>${rows}</tbody></table>
     </div>`;
 
-  let badgeHtml = `<span class="o-route-planner__fip-badge o-route-planner__fip-badge--${fipStatus.status}">${fipStatus.label}</span>`;
+  let reservationBadge = "";
+  if (
+    fipStatus.reservationRequired === true ||
+    fipStatus.reservationRequired === "true"
+  ) {
+    reservationBadge = ` <span class="o-route-planner__fip-badge o-route-planner__fip-badge--reservation-required">${cfg.labels.reservationRequired}</span>`;
+  } else if (fipStatus.reservationRequired === "partially") {
+    reservationBadge = ` <span class="o-route-planner__fip-badge o-route-planner__fip-badge--reservation-partial">${cfg.labels.reservationPartiallyRequired}</span>`;
+  }
+  let badgeHtml = `<span class="o-route-planner__fip-badge o-route-planner__fip-badge--${fipStatus.status}">${fipStatus.label}</span>${reservationBadge}`;
   badgeHtml += ` <button type="button" class="o-route-planner__fip-info" popovertarget="${popoverId}" aria-label="Debug info"><span class="a-icon" aria-hidden="true" style="--icon-url: url('/icons/material-symbols-rounded/bug_report.svg');"></span></button>${popoverHtml}`;
   if (fipStatus.categoryUrl) {
     badgeHtml += ` <a href="${fipStatus.categoryUrl}" class="o-route-planner__fip-link">${cfg.labels.viewInFipGuide}</a>`;

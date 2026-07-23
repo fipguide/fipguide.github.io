@@ -234,6 +234,8 @@ routePlanner:
   operatorBaseUrl: /en
   operatorNotInFipGuide: Operator not in FIP Guide
   platform: Platform
+  reservationPartiallyRequired: Reservation partially required
+  reservationRequired: Reservation required
   search: Search
   swap: Swap origin and destination
   to: To

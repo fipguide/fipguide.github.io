@@ -330,6 +330,26 @@
         background: rgba(map-get($tag-colors-dark, info), 0.1);
       }
     }
+
+    &--reservation-required {
+      color: map-get($tag-colors, error);
+      background: rgba(map-get($tag-colors, error), 0.08);
+
+      [data-theme="dark"] & {
+        color: map-get($tag-colors-dark, error);
+        background: rgba(map-get($tag-colors-dark, error), 0.1);
+      }
+    }
+
+    &--reservation-partial {
+      color: map-get($tag-colors, warning);
+      background: rgba(map-get($tag-colors, warning), 0.08);
+
+      [data-theme="dark"] & {
+        color: map-get($tag-colors-dark, warning);
+        background: rgba(map-get($tag-colors-dark, warning), 0.1);
+      }
+    }
   }
 
   &__fip-link {

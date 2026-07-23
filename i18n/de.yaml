@@ -241,6 +241,8 @@ routePlanner:
   operatorBaseUrl: /de
   operatorNotInFipGuide: Betreiber nicht im FIP Guide
   platform: Gleis
+  reservationPartiallyRequired: Reservierung teilweise erforderlich
+  reservationRequired: Reservierung erforderlich
   search: Suchen
   swap: Abfahrts- und Ankunftsort tauschen
   to: Nach

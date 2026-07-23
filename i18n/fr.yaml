@@ -243,6 +243,8 @@ routePlanner:
   operatorBaseUrl: /fr
   operatorNotInFipGuide: Opérateur absent du FIP Guide
   platform: Voie
+  reservationPartiallyRequired: Réservation partiellement obligatoire
+  reservationRequired: Réservation obligatoire
   search: Rechercher
   swap: Échanger l'origine et la destination
   to: Vers

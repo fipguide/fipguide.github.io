@@ -12,7 +12,7 @@
         {{- $catId := .category -}}
         {{- range $trainCategories -}}
           {{- if eq .id $catId -}}
-            {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted) -}}
+            {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted "reservationRequired" .reservation_required) -}}
           {{- end -}}
         {{- end -}}
       {{- end -}}
