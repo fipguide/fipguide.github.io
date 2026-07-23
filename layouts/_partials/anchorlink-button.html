@@ -1,7 +1,7 @@
 <button
-  class="a-button a-anchorlink__button"
-  data-anchor="#{{ .id }}"
+  class="a-anchorlink__link"
+  data-anchor="#{{ . }}"
   title="{{ T "anchorLink.copy" }}"
 >
-  {{- partial "icon" "link" -}}{{- T "anchorLink.copy" -}}
+  {{- partial "icon" "link" -}}
 </button>
