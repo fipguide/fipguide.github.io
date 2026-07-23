@@ -111,6 +111,13 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
+{{% booking id="traivelling-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -210,7 +217,7 @@ Checking available ticket quotas is possible via the following websites:
 - [Interrail Website](https://www.interrail.eu/en/book-reservations) \
    Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
 - [Traivelling](https://traivelling.com/home) \
-   Select the _FIP 50%_ discount. Tickets are also sold here, but we cannot comment on the legitimacy of this offer.
+   More information in the [corresponding booking section](#traivelling-website).
 
 ### Connections
 
