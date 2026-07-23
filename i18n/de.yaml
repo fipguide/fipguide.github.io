@@ -15,6 +15,14 @@ booking:
   reservation-costs: Reservierungskosten
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+borderPointsMap:
+  consent:
+    accept: Karte laden
+    text: >-
+      Diese Karte wird von OpenRailwayMap und OpenStreetMap geladen. Beim Laden
+      wird deine IP-Adresse an deren Server übertragen.
+    title: Grenzpunktekarte laden
+  optOut: Karte deaktivieren
 contact:
   accessibility:
     label: 'Feedback zur Website: Barrierefreiheit'
