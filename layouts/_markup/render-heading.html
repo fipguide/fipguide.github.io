@@ -11,13 +11,7 @@
   {{- partial "intersector" -}}
   <span class="a-anchorlink">
     {{- $heading | safeHTML -}}
-    <button
-      data-anchor="#{{ $id }}"
-      class="a-anchorlink__link"
-      title="{{ T "anchorLink.copy" }}"
-    >
-      {{- partial "icon" "link" -}}
-    </button>
+    {{- partial "anchorlink-button" $id -}}
   </span>
 {{- else -}}
   {{- $heading | safeHTML -}}
