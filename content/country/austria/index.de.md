@@ -3,6 +3,7 @@ draft: false
 title: "Österreich"
 country: "austria"
 params:
+  iso_code: AT
   operators_without_fip:
     - name: Achenseebahn
       query:

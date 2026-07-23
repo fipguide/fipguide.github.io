@@ -3,6 +3,7 @@ draft: false
 title: "Litauen"
 country: "lithuania"
 params:
+  iso_code: LT
   operators_without_fip:
     - name: "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
       query:

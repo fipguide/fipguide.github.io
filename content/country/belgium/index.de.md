@@ -3,6 +3,7 @@ draft: false
 title: "Belgien"
 country: "belgium"
 params:
+  iso_code: BE
   operators_without_fip:
     - name: European Sleeper
       query:

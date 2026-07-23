@@ -3,6 +3,7 @@ draft: false
 title: "Czechia"
 country: "czechia"
 params:
+  iso_code: CZ
   operators_without_fip:
     - name: ARRIVA vlaky s. r. o.
       query:

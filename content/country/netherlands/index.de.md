@@ -3,6 +3,7 @@ draft: false
 title: "Niederlande"
 country: "netherlands"
 params:
+  iso_code: NL
   operators_without_fip:
     - name: Arriva Nederland
       query:

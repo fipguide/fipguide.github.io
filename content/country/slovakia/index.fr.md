@@ -3,6 +3,7 @@ draft: false
 title: "Slovaquie"
 country: "slovakia"
 params:
+  iso_code: SK
   operators_without_fip:
     - name: RegioJet
       query:

@@ -3,6 +3,7 @@ draft: false
 title: "Italy"
 country: "italy"
 params:
+  iso_code: IT
   operators_without_fip:
     - name: Azienda Regionale Sarda Trasporti
       query:

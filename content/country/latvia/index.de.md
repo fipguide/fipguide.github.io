@@ -3,6 +3,7 @@ draft: false
 title: "Lettland"
 country: "latvia"
 params:
+  iso_code: LV
   operators_without_fip:
     - name: "Latvijas dzelzceļš (LDz)"
       query:

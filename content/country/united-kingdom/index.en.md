@@ -3,6 +3,7 @@ draft: false
 title: "United Kingdom"
 country: "united-kingdom"
 params:
+  iso_code: GB
   operators_without_fip:
     - name: Blackpool Tramway
       query:

@@ -3,6 +3,7 @@ draft: false
 title: "Norway"
 country: "norway"
 params:
+  iso_code: NO
   operators_without_fip:
     - name: Arctic Train
       query:

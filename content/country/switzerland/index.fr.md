@@ -3,6 +3,7 @@ draft: false
 title: "Suisse"
 country: "switzerland"
 params:
+  iso_code: CH
   operators_without_fip:
     - name: European Sleeper
       query:

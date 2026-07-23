@@ -3,6 +3,7 @@ draft: false
 title: "Espagne"
 country: "spain"
 params:
+  iso_code: ES
   operators_without_fip:
     - name: Iryo
       query:

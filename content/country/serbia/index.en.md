@@ -3,6 +3,7 @@ draft: false
 title: "Serbia"
 country: "serbia"
 params:
+  iso_code: RS
   operators_without_fip:
     - name: Optima Express
       query:

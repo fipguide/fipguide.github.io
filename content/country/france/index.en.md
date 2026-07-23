@@ -3,6 +3,7 @@ draft: false
 title: "France"
 country: "france"
 params:
+  iso_code: FR
   operators_without_fip:
     - name: CFC (Chemins de fer de la Corse / Railways in Corsica)
       query:

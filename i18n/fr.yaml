@@ -238,6 +238,9 @@ routePlanner:
   fipUnknown: Statut FIP inconnu
   from: De
   fromPlaceholder: ex. Bruxelles-Midi
+  internationalJourney: >-
+    Trajet international ! Veuillez vérifier les points frontières sur les pages
+    des pays :
   loading: Recherche de connexions…
   noResults: Aucune connexion trouvée.
   operatorBaseUrl: /fr

@@ -356,6 +356,28 @@
     font-size: 1.3rem;
   }
 
+  &__international-warning {
+    font-size: 1.3rem;
+    margin-top: 0.4rem;
+    margin-bottom: 0.6rem;
+    padding: 0.4rem 0.75rem;
+    border-radius: var(--border-radius-s);
+    border-left: 3px solid map-get($tag-colors, warning);
+    background: rgba(map-get($tag-colors, warning), 0.08);
+    color: map-get($tag-colors, warning);
+
+    [data-theme="dark"] & {
+      border-left-color: map-get($tag-colors-dark, warning);
+      background: rgba(map-get($tag-colors-dark, warning), 0.1);
+      color: map-get($tag-colors-dark, warning);
+    }
+
+    a {
+      color: inherit;
+      font-weight: 600;
+    }
+  }
+
   &__fip-info {
     display: inline-flex;
     align-items: center;

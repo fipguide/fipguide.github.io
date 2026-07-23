@@ -3,6 +3,7 @@ draft: false
 title: "Bulgaria"
 country: "bulgaria"
 params:
+  iso_code: BG
   operators_without_fip:
     - name: Optima Express
       query:

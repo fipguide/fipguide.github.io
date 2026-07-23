@@ -3,6 +3,7 @@ draft: false
 title: "Germany"
 country: "germany"
 params:
+  iso_code: DE
   operators_without_fip:
     - name: Abellio Rail Mitteldeutschland GmbH
       query:

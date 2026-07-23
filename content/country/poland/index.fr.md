@@ -3,6 +3,7 @@ draft: false
 title: "Pologne"
 country: "poland"
 params:
+  iso_code: PL
   operators_without_fip:
     - name: Arriva
       query:

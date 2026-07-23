@@ -3,6 +3,7 @@ draft: false
 title: "Slovenia"
 country: "slovenia"
 params:
+  iso_code: SI
   operators_without_fip:
     - name: Optima Express
       query:

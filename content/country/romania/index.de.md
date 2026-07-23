@@ -3,6 +3,7 @@ draft: false
 title: "Rumänien"
 country: "romania"
 params:
+  iso_code: RO
   operators_without_fip:
     - name: Astra Trains Carpatic (ATC)
       query:

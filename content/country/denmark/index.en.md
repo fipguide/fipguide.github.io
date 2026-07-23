@@ -3,6 +3,7 @@ draft: false
 title: "Denmark"
 country: "denmark"
 params:
+  iso_code: DK
   operators_without_fip:
     - name: GoCollective (ehemals Arriva Danmark)
       query:

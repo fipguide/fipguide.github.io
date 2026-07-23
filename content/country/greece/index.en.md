@@ -3,6 +3,7 @@ draft: false
 title: "Greece"
 country: "greece"
 params:
+  iso_code: GR
   operators_without_fip:
     - name: STASY (Urban Rail Transport S.A.)
       query:

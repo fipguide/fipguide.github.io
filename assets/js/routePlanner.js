@@ -1,4 +1,25 @@
-import { client, geocode, plan } from "@motis-project/motis-client";
+import {
+  client,
+  geocode,
+  plan,
+  reverseGeocode,
+} from "@motis-project/motis-client";
+
+const countryCache = new Map();
+
+async function getCountryForPlace(place) {
+  if (!place?.lat || !place?.lon) return null;
+  const key = `${place.lat},${place.lon}`;
+  if (countryCache.has(key)) return countryCache.get(key);
+  try {
+    const res = await reverseGeocode({ query: { place: key, numResults: 1 } });
+    const country = res.data?.[0]?.country || null;
+    countryCache.set(key, country);
+    return country;
+  } catch {
+    return null;
+  }
+}
 
 client.setConfig({
   baseUrl: "https://api.transitous.org",
@@ -87,7 +108,9 @@ function getFipStatus(leg) {
   const cfg = window.routePlannerConfig;
   const debug = {
     from: leg.from?.name || null,
+    fromId: leg.from?.stopId || leg.from?.id || null,
     to: leg.to?.name || null,
+    toId: leg.to?.stopId || leg.to?.id || null,
     startTime: leg.startTime ? new Date(leg.startTime).toLocaleString() : null,
     endTime: leg.endTime ? new Date(leg.endTime).toLocaleString() : null,
     agencyId: leg.agencyId || null,
@@ -183,6 +206,23 @@ function formatDuration(seconds) {
 }
 
 let fipDebugCounter = 0;
+let legWarningCounter = 0;
+
+function renderInternationalWarning(fromCode, toCode) {
+  const cfg = window.routePlannerConfig;
+  if (!fromCode || !toCode || fromCode === toCode) return "";
+
+  const countries = [...new Set([fromCode, toCode])]
+    .map((code) => {
+      const entry = cfg.countryCodeMap[code];
+      if (!entry) return null;
+      return `<a href="/${cfg.lang}/country/${entry.slug}/#arrival-and-border-points">${entry.name}</a>`;
+    })
+    .filter(Boolean);
+
+  if (countries.length === 0) return "";
+  return `<div class="o-route-planner__international-warning">${cfg.labels.internationalJourney} ${countries.join(", ")}</div>`;
+}
 
 function renderFipBadge(fipStatus) {
   const cfg = window.routePlannerConfig;
@@ -247,6 +287,14 @@ function renderLeg(leg) {
     ? ` <span class="o-route-planner__platform">${cfg.labels.platform} ${leg.to.platformCode}</span>`
     : "";
 
+  const warningId = ++legWarningCounter;
+  getCountryForPlace(leg.from).then((fromCode) => {
+    getCountryForPlace(leg.to).then((toCode) => {
+      const el = document.getElementById(`leg-warning-${warningId}`);
+      if (el) el.outerHTML = renderInternationalWarning(fromCode, toCode);
+    });
+  });
+
   return `
     <div class="o-route-planner__leg o-route-planner__leg--transit">
       <div class="o-route-planner__leg-line" style="--leg-color: ${routeColor}; --leg-text-color: ${textColor};">
@@ -262,6 +310,7 @@ function renderLeg(leg) {
           <span class="o-route-planner__leg-duration">${formatDuration(leg.duration)}</span>
           <span>${arrTime} ${leg.to?.name || ""}${toPlatform}</span>
         </div>
+        <div id="leg-warning-${warningId}"></div>
         <div class="o-route-planner__leg-fip">
           ${renderFipBadge(fipStatus)}
         </div>

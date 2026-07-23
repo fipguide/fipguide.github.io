@@ -229,6 +229,7 @@ routePlanner:
   fipUnknown: FIP status unknown
   from: From
   fromPlaceholder: e.g. Brussels-Midi
+  internationalJourney: 'International journey! Please check the border points on the country pages:'
   loading: Searching for connections…
   noResults: No connections found.
   operatorBaseUrl: /en
