@@ -3,6 +3,7 @@ draft: false
 title: "GySEV / Raaberbahn"
 country:
   - "austria"
+  - "hungary"
 operator: "gysev"
 
 aliases:
