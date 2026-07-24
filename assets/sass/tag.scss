@@ -16,11 +16,11 @@
   }
 
   &--newsUpdate {
-    background: #ffffff;
-    color: #414141;
-    border: 0.1rem solid #414141;
-    border-radius: var(--border-radius-m);
-    padding: 0.3rem 0.4rem;
+    background: var(--tag-newsUpdate-bg);
+    color: var(--tag-newsUpdate-color);
+    border: 0.1rem solid var(--tag-newsUpdate-color);
+    border-radius: var(--border-radius-l);
+    padding: 0.2rem 0.4rem;
 
     .a-tag__text {
       text-box-trim: trim-both;
