@@ -24,7 +24,7 @@ Traivelling verkauft FIP Tickets für Eurostar Blue und Eurostar Red auf ihrer W
     position="right"
 %}}
 
-In Schritt 1 wählst du zunächst die Verbindung und gibt die Anzahl der Reisenden an. Für jeden Reisenden muss die Ermäßigungskarte einzeln hinterlegt werden.
+In Schritt 1 wählst du zunächst die Verbindung und gibst die Anzahl der Reisenden an. Für jeden Reisenden muss die Ermäßigungskarte einzeln hinterlegt werden.
 
 {{% /float-image %}}
 
@@ -35,7 +35,7 @@ In Schritt 1 wählst du zunächst die Verbindung und gibt die Anzahl der Reisend
     position="right"
 %}}
 
-In Schritt 2 suchst du nach "FIP" im Suchfeld und findest in der Sektion "Österreich" die Option "FIP International Reduced Rate Card" (falls Website auf Englisch) oder "FIP 50%" (für alle anderen Sprachen).
+In Schritt 2 suchst du nach "FIP" im Suchfeld und wählst in der Sektion "Österreich" die Option "FIP International Reduced Rate Card" (falls Website auf Englisch) oder "FIP 50%" (für alle anderen Sprachen).
 
 {{% /float-image %}}
 

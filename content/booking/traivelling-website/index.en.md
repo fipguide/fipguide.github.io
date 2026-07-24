@@ -35,7 +35,7 @@ In step 1, first select the connection and enter the number of travellers. The d
     position="right"
 %}}
 
-In step 2, search for "FIP" in the search field and find the option "FIP International Reduced Rate Card" (if the website is in English) or "FIP 50%" (for all other languages) in the "Austria" section.
+In step 2, search for "FIP" in the search field and select the option "FIP International Reduced Rate Card" (if the website is in English) or "FIP 50%" (for all other languages) in the "Austria" section.
 
 {{% /float-image %}}
 
