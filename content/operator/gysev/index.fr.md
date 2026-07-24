@@ -103,7 +103,7 @@ Certains trains régionaux sont également exploités par les ÖBB où les Bille
 Train régional avec arrêts dans la plupart des gares.
 
 {{% highlight confusion %}}
-Certains trains Személyvonat sont également exploités par MÁV où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
+Certains trains Személyvonat sont également exploités par [MÁV](/operator/mav#sz) où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 {{% /highlight %}}
 
 {{% /train-category %}}
