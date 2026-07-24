@@ -35,7 +35,9 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. 
     reservation_required=partially
     reservation_possible=true
 %}}
-Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Bratislava – Budapest. Es ist eine erste und zweite Klasse vorhanden. Es wird ein [Speisewagen der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) bzw. [Speisewagen der ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) mitgeführt.
+Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Bratislava – Budapest. Es ist eine Economy Class (2. Klasse), First Class (1. Klasse) sowie Business Class vorhanden. Es wird ein [Speisewagen der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) bzw. [Speisewagen der ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) mitgeführt.
+
+Die Business Class ist für nationale Fahrten in Ungarn nicht verfügbar. Bei internationalen Fahrten ist die Business Class als Aufschlag auf die First Class buchbar.
 
 {{% highlight confusion %}}
 `RJ` kann auch für RegioJet stehen. In RegioJet-Zügen gelten keine MÁV-FIP-Fahrkarten.
@@ -43,7 +45,7 @@ Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbah
 
 #### Reservierungen
 
-Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
+Im Inlandsverkehr ist die Sitzplatzreservierung verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden.
 
 {{% /train-category %}}
 
@@ -52,7 +54,7 @@ Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im inte
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
+    reservation_required=true
     reservation_possible=true
 %}}
 Nationale Schnellzüge mit Reisezugwagen der zweiten Klasse, teilweise auch mit Wagen der ersten Klasse und der Premiumklasse 1+. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und/oder [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
@@ -69,7 +71,7 @@ Es gibt teilweise bis zu drei Wagenklassen:
 
 #### Reservierungen
 
-Eine Reservierung ist teilweise verpflichtend. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
+Eine Reservierung ist verpflichtend.
 
 {{% /train-category %}}
 
@@ -86,7 +88,7 @@ Teilweise wird ein [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelysz
 
 #### Reservierungen
 
-Im Inlandsverkehr ist die Sitzplatzreservierung teilweise verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
+Im Inlandsverkehr ist die Sitzplatzreservierung verpflichtend, im internationalen Verkehr kann eine Sitzplatzreservierung vorgenommen werden.
 
 {{% /train-category %}}
 
@@ -122,7 +124,7 @@ InterRegio-Verbindungen sind Schnellzüge im Inlandsverkehr und bilden den Grund
     title="Expresszug (EX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
+    reservation_required=true
     reservation_possible=true
 %}}
 Schnellzüge, die meist nur an Wochenenden und in den Ferien fahren. Es kommen verschiedene Wagentypen zum Einsatz und die meisten Züge haben eine 2. und 1. Klasse.
@@ -131,7 +133,7 @@ In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. mit ein
 
 #### Reservierungen
 
-Eine Reservierung ist teilweise verpflichtend. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
+Eine Reservierung ist verpflichtend.
 
 {{% /train-category %}}
 
@@ -297,6 +299,10 @@ Kinder bis einschließlich 13 Jahre reisen kostenlos. Ab 14 Jahren gilt der regu
 Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung eines Erwachsenen reisen. Kinder ab 10 Jahren müssen eine unterschriebene [Elternerklärung](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) mitführen. MÁV übernimmt keine Verantwortung für allein reisende Kinder. Eltern haften für alle Schäden, die durch das Kind verursacht werden. Wenn ein Kind ohne Begleitung eines Erwachsenen und ohne Elternerklärung angetroffen wird, werden die Behörden informiert.[^1]
 
 ## Tarifliche Besonderheiten
+
+### Keine Reservierungspflicht zwischen Budapest-Keleti und Budapest-Kelenföld
+
+In RJ, RJX, IC, EC und EX-Zügen ist eine Reservierung im Inlandsverkehr grundsätzlich verpflichtend. Die Relation Budapest-Keleti – Budapest-Kelenföld ist hiervon ausgenommen. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
 
 ### Premium Lounge in Budapest-Keleti
 
