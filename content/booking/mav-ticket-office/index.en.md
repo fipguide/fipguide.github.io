@@ -31,6 +31,4 @@ FIP 50 tickets can be purchased at MÁV ticket offices for travel within Hungary
 Reservations for MÁV and GySEV trains can be purchased on-site for HUF 990.
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [Rail Delivery Group - Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)

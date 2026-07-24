@@ -31,6 +31,4 @@ Am MÁV Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Ungarns f
 Reservierungen für Züge der MÁV sowie GySEV können vor Ort zu einem Preis von 990 HUF erworben werden.
 {{% /booking-section %}}
 
-## Quellen
-
 [^1]: [Rail Delivery Group - Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)
