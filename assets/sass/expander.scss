@@ -15,6 +15,10 @@
     padding: 0.6rem;
   }
 
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+
   &:hover,
   &:focus {
     .o-expander__title-text {
@@ -37,6 +41,10 @@
 
     @media print {
       display: none;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
     }
   }
 

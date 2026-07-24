@@ -215,6 +215,18 @@ Up to four children under the age of 12 travel for free when accompanied by an a
 
 For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 7.10 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. [^1] For FIP 50 / FIP 75 Tickets, this is already included in the price, unless the ticket was purchased at a ticket machine. [^2]
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)

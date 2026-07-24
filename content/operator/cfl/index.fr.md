@@ -35,8 +35,7 @@ Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obt
   title="InterCity (IC)"
   type="highspeed"
   fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+  reservation_possible=false
 %}}
 
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
@@ -104,17 +103,18 @@ Aux [Guichets CFL](#en-gare), les billets de première classe sont disponibles a
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Luxembourg pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Uniquement pour les liaisons transfrontalières depuis/vers la Belgique"
+    subtitle="Uniquement pour les liaisons transfrontalières depuis/vers la Belgique"
 /%}}
 
 ### Par téléphone
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_global_fare=nil
+    fip_50=true
 %}}
 
 En raison des frais de réservation, il peut être avantageux d’acheter un billet de première classe régulier via l’application CFL ou un distributeur automatique.
@@ -145,6 +145,10 @@ Il n’y a pas d’autres réductions FIP sur cette liaison.
 
 La CFL exploite un bus express entre Luxembourg et la gare _Lorraine TGV_ en France comme correspondance TGV. Dans ce bus, le voyage gratuit n’est pas possible. Les tarifs sont disponibles sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/internationaldetail/gare-lorraine). Les bus sont soumis à réservation obligatoire et un billet peut être acheté jusqu’à 2,5 heures avant le départ du bus. \
 Nous n’avons pas d’informations officielles concernant la validité des réductions FIP sur cette liaison.
+
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ## Sources
 

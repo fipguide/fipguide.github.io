@@ -216,11 +216,7 @@ La vérification des contingents de billets disponibles est possible via les sit
 
 #### HOTNAT (Correspondance à Bruxelles, Cologne, Paris)
 
-Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, pour garantir la correspondance lors d’un changement, il est possible d’utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
-
-Si la correspondance entre deux trains à grande vitesse est manquée en raison d’un retard ou d’une suppression, il est possible d’emprunter le prochain train disponible du même opérateur ou d’un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
-
-HOTNAT s’applique uniquement lors d’une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L’utilisation dépend du taux d’occupation des trains.
+Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, HOTNAT (Hop on the Next Available Train) peut être utilisé pour sécuriser la correspondance lors d’un changement. [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Correspondance à Londres)
 
