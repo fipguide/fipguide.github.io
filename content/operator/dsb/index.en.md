@@ -9,6 +9,9 @@ aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "DSB"
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.

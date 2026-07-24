@@ -3,10 +3,14 @@ draft: false
 title: "Spanien"
 country: "spain"
 params:
+  iso_code: ES
   operators_without_fip:
-    - Iryo
-    - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
-    - '[Avlo](/operator/renfe#langstrecke "Avlo")'
+    - name: Iryo
+      query:
+    - name: '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
+      query:
+    - name: '[Avlo](/operator/renfe#langstrecke "Avlo")'
+      query:
 ---
 
 ## FIP Nutzung

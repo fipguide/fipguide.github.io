@@ -3,8 +3,10 @@ draft: false
 title: "Bulgarien"
 country: "bulgaria"
 params:
+  iso_code: BG
   operators_without_fip:
-    - Optima Express
+    - name: Optima Express
+      query:
 ---
 
 ## FIP Nutzung

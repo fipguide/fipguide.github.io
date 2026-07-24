@@ -3,19 +3,32 @@ draft: false
 title: "Austria"
 country: "austria"
 params:
+  iso_code: AT
   operators_without_fip:
-    - Achenseebahn
-    - '[CAT (City Airport Train) Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
-    - Graz–Köflacher Bahn (GKB)
-    - Montafonerbahn
-    - NÖVOG
-    - Pinzgauer Lokalbahn
-    - RegioJet
-    - Salzburger Lokalbahn
-    - Steiermärkische Landesbahnen
-    - WESTbahn
-    - Wiener Lokalbahn (Badner Bahn)
-    - Zillertalbahn
+    - name: Achenseebahn
+      query:
+    - name: '[CAT (City Airport Train) Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
+      query:
+    - name: Graz–Köflacher Bahn (GKB)
+      query:
+    - name: Montafonerbahn
+      query:
+    - name: NÖVOG
+      query:
+    - name: Pinzgauer Lokalbahn
+      query:
+    - name: RegioJet
+      query:
+    - name: Salzburger Lokalbahn
+      query:
+    - name: Steiermärkische Landesbahnen
+      query:
+    - name: WESTbahn
+      query:
+    - name: Wiener Lokalbahn (Badner Bahn)
+      query:
+    - name: Zillertalbahn
+      query:
 ---
 
 ## FIP Information

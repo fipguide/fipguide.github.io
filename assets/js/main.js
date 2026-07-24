@@ -11,3 +11,4 @@ import "./expander.js";
 import "./dialog.js";
 import "./fipValidityComparison.js";
 import "./search.js";
+import "./routePlanner.js";

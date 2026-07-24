@@ -8,6 +8,9 @@ operator: "lka"
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "Łódzka Kolej Aglomeracyjna"
 ---
 
 Łódzka Kolej Aglomeracyjna, abrégées ŁKA, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Łódź. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).

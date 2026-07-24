@@ -12,6 +12,11 @@ aliases:
   - /booking/oebb-ticket-machine
   - /booking/oebb-ticket-office
   - /booking/oebb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "OEBB Personenverkehr AG Kundenservice"
+    - query: agencyName == "ÖBB-Personenverkehr AG"
+    - query: agencyName == "ÖBB"
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.

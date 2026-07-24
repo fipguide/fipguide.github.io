@@ -4,6 +4,10 @@ title: "SŽ"
 country:
   - "slovenia"
 operator: "sz"
+params:
+  transitous_mapping:
+    - query: agencyName == "Slovenske železnice"
+    - query: agencyName == "SŽ"
 ---
 
 Les Slovenske železnice (SŽ) sont la compagnie ferroviaire nationale de [Slovénie](/country/slovenia "Slovénie") et exploitent la majorité des services de voyageurs sur le réseau ferroviaire slovène.

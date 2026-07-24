@@ -8,3 +8,4 @@ Sur ces pages, vous trouverez des informations générales et utiles concernant 
 - [Informations générales](general/generalinformation)
 - [Demande FIP](general/fip-validity)
 - [FAQ](general/faq)
+- [Planificateur d'itinéraire](general/route-planner)

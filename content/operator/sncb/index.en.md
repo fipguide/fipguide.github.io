@@ -9,6 +9,10 @@ aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
   - /booking/sncb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "SNCB"
+    - query: agencyName == "NMBS"
 ---
 
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in [Belgium](/country/belgium "Belgium").

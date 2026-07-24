@@ -8,6 +8,10 @@ operator: "cie"
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
+params:
+  transitous_mapping:
+    - query: agencyName == "Irish Rail"
+    - query: agencyName == "Iarnród Éireann"
 ---
 
 Córas Iompair Éireann (CIE) is the state railway company of [Ireland](/country/ireland) and the parent company of Irish Rail (Iarnród Éireann). The subsidiary operates the majority of rail services in the Republic of Ireland, including the main routes between Dublin, Cork, Galway and Limerick, as well as regional connections in the Dublin and Cork areas.

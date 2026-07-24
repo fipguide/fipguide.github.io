@@ -9,6 +9,9 @@ aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
+params:
+  transitous_mapping:
+    - query: agencyName == "DSB"
 ---
 
 La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.

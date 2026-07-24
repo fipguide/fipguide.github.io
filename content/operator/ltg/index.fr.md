@@ -8,6 +8,9 @@ operator: "ltg"
 
 aliases:
   - /booking/ltg-website
+params:
+  transitous_mapping:
+    - query: agencyName == "LTG Link"
 ---
 
 LTG est la compagnie ferroviaire nationale de la République de Lituanie et, avec sa filiale LTG-Link, exploite toutes les liaisons de transport de passagers sur le réseau ferroviaire lituanien ainsi qu’à l’étranger.

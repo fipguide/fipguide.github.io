@@ -3,8 +3,10 @@ draft: false
 title: "Slowenien"
 country: "slovenia"
 params:
+  iso_code: SI
   operators_without_fip:
-    - Optima Express
+    - name: Optima Express
+      query:
 ---
 
 ## FIP Nutzung

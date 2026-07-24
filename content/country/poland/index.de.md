@@ -3,13 +3,20 @@ draft: false
 title: Polen
 country: "poland"
 params:
+  iso_code: PL
   operators_without_fip:
-    - Arriva
-    - Leo Express
-    - RegioJet
-    - Szybka Kolej Miejska w Warszawie
-    - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
-    - Warszawska Kolej Dojazdowa (WKD)
+    - name: Arriva
+      query:
+    - name: Leo Express
+      query:
+    - name: RegioJet
+      query:
+    - name: Szybka Kolej Miejska w Warszawie
+      query:
+    - name: Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
+      query:
+    - name: Warszawska Kolej Dojazdowa (WKD)
+      query:
 ---
 
 ## FIP Nutzung

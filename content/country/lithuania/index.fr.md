@@ -3,8 +3,10 @@ draft: false
 title: "Lituanie"
 country: "lithuania"
 params:
+  iso_code: LT
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (chemin de fer musée)"
+    - name: "Aukštaitijos siaurasis geležinkelis (chemin de fer musée)"
+      query:
 ---
 
 ## Informations FIP

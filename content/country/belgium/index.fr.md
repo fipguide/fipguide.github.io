@@ -3,9 +3,12 @@ draft: false
 title: "Belgique"
 country: "belgium"
 params:
+  iso_code: BE
   operators_without_fip:
-    - European Sleeper
-    - OUIGO
+    - name: European Sleeper
+      query:
+    - name: OUIGO
+      query:
 ---
 
 ## Informations FIP

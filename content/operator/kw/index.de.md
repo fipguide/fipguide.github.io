@@ -9,6 +9,9 @@ aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office
   - /booking/kw-website
+params:
+  transitous_mapping:
+    - query: agencyName == "Koleje Wielkopolskie"
 ---
 
 Die Koleje Wielkopolskie, kurz KW, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Großpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.

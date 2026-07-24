@@ -8,6 +8,14 @@ operator: "renfe"
 
 aliases:
   - /booking/renfe-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "RENFE OPERADORA" && routeShortName == "AVE"
+      category: ave
+    - query: agencyName == "Renfe"
+    - query: agencyName == "Renfe Operadora"
+    - query: agencyName == "RENFE"
+    - query: agencyName == "RENFE OPERADORA"
 ---
 
 Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/spain "Spanien"). Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.

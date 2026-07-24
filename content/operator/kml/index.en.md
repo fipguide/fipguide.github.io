@@ -7,6 +7,9 @@ operator: "kml"
 
 aliases:
   - /booking/kml-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "Koleje Małopolskie"
 ---
 
 Koleje Małopolskie, abbreviated KMŁ, is a Polish railway company that mainly provides regional services in the Lesser Poland Voivodeship. It is one of five different companies offering FIP in [Poland](/country/poland).

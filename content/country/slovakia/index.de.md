@@ -3,9 +3,12 @@ draft: false
 title: "Slowakei"
 country: "slovakia"
 params:
+  iso_code: SK
   operators_without_fip:
-    - RegioJet
-    - Leo Express
+    - name: RegioJet
+      query:
+    - name: Leo Express
+      query:
 ---
 
 ## FIP Nutzung

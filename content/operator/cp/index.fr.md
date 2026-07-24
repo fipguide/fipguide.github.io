@@ -7,6 +7,10 @@ operator: "cp"
 
 aliases:
   - /booking/cp-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "CP - Comboios de Portugal"
+    - query: agencyName == "Comboios de Portugal"
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au [Portugal](/country/portugal "Portugal").

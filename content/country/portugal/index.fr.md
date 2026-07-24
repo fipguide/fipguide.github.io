@@ -3,8 +3,10 @@ draft: false
 title: "Portugal"
 country: "portugal"
 params:
+  iso_code: PT
   operators_without_fip:
-    - Fertagus
+    - name: Fertagus
+      query:
 ---
 
 ## Informations FIP

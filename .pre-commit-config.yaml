@@ -15,6 +15,7 @@ repos:
       - id: check-case-conflict
       - id: check-executables-have-shebangs
       - id: check-json
+        exclude: "layouts/_default/home.transitousmapping.json$"
       - id: check-merge-conflict
       - id: check-shebang-scripts-are-executable
       - id: check-symlinks

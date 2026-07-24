@@ -9,6 +9,9 @@ aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
   - /booking/fs-website
+params:
+  transitous_mapping:
+    - query: agencyName == "Trenitalia"
 ---
 
 Ferrovie dello Stato Italiane (FS) is the Italian state railway. FIP discounts only apply to its subsidiary Trenitalia in [Italy](/country/italy "Italy").

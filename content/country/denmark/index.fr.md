@@ -3,14 +3,22 @@ draft: false
 title: "Danemark"
 country: "denmark"
 params:
+  iso_code: DK
   operators_without_fip:
-    - GoCollective (anciennement Arriva Danmark)
-    - Lokaltog
-    - Øresundståg
-    - Midtjyske Jernbaner
-    - Nordjyske Jernbaner
-    - SJ
-    - Snälltåget
+    - name: GoCollective (anciennement Arriva Danmark)
+      query:
+    - name: Lokaltog
+      query:
+    - name: Øresundståg
+      query:
+    - name: Midtjyske Jernbaner
+      query:
+    - name: Nordjyske Jernbaner
+      query:
+    - name: SJ
+      query:
+    - name: Snälltåget
+      query:
 ---
 
 ## Informations FIP

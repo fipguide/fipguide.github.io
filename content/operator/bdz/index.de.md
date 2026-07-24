@@ -7,6 +7,9 @@ operator: "bdz"
 
 aliases:
   - /booking/bdz-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "BDZ"
 ---
 
 Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von [Bulgarien](/country/bulgaria "Bulgarien") und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz.

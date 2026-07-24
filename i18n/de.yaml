@@ -224,6 +224,33 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
+routePlanner:
+  arrival: Ankunft
+  departure: Abfahrt
+  departureTime: Abfahrtszeit
+  duration: Dauer
+  errorGeneric: Ein Fehler ist aufgetreten. Bitte versuche es erneut.
+  fipAccepted: FIP akzeptiert
+  fipNotAccepted: FIP nicht akzeptiert
+  fipPartial: FIP teilweise akzeptiert
+  fipUnknown: FIP-Status unbekannt
+  from: Von
+  fromPlaceholder: z. B. Brüssel-Midi
+  internationalJourney: 'Internationale Fahrt! Bitte prüfe die Grenzpunkte auf den Länderseiten:'
+  loading: Verbindungen werden gesucht…
+  noResults: Keine Verbindungen gefunden.
+  operatorBaseUrl: /de
+  operatorNotInFipGuide: Betreiber nicht im FIP Guide
+  platform: Gleis
+  reservationPartiallyRequired: Reservierung teilweise erforderlich
+  reservationRequired: Reservierung erforderlich
+  search: Suchen
+  swap: Abfahrts- und Ankunftsort tauschen
+  to: Nach
+  toPlaceholder: z. B. Wien Hbf
+  transfer: Umstieg(e)
+  viewInFipGuide: Im FIP Guide ansehen
+  walk: Fußweg
 satellite:
   content: >-
     Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App

@@ -12,4 +12,8 @@
   "content" (.Inner)
 -}}
 
+{{- $existing := .Page.Store.Get "train_categories" | default slice -}}
+{{- $entry := dict "id" $data.id "fip_accepted" $data.fip_accepted "reservation_required" $data.reservation_required -}}
+{{- .Page.Store.Set "train_categories" ($existing | append $entry) -}}
+
 {{- partial "train-category" $data -}}

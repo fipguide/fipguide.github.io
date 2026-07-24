@@ -10,6 +10,10 @@ aliases:
   - /booking/pkp-ticket-office
   - /booking/pkp-website
   - /booking/koleo-website
+params:
+  transitous_mapping:
+    - query: agencyName == "PKP Intercity"
+    - query: agencyName == "Polregio"
 ---
 
 Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en [Pologne](/country/poland "Pologne").

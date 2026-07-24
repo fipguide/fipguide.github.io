@@ -8,6 +8,10 @@ operator: "cd"
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
+params:
+  transitous_mapping:
+    - query: agencyName == "České dráhy"
+    - query: agencyName == "ČD"
 ---
 
 Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechischen Republik](/country/czechia "Tschechischen Republik") und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.

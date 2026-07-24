@@ -3,8 +3,10 @@ draft: false
 title: "Irlande"
 country: "ireland"
 params:
+  iso_code: IE
   operators_without_fip:
-    - Transdev (Luas - Tramway de Dublin)
+    - name: Transdev (Luas - Tramway de Dublin)
+      query:
 ---
 
 ## Informations FIP

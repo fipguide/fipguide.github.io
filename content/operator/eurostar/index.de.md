@@ -16,6 +16,19 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
+
+params:
+  transitous_mapping:
+    - query: agencyId == "EUROSTAR_CHANNEL"
+      category: eurostar-blue
+    - query: agencyId == "EUROSTAR_CONTINENTAL"
+      category: eurostar-red
+    - query: agencyName == "NS Int" && routeShortName == "Eurostar"
+      category: eurostar-red
+    - query: agencyName == "SNCF" && routeShortName == "THA"
+      category: eurostar-red
+    - query: agencyId == "EUROSTAR_SNOW"
+      category: eurostar-snow
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet. Eurostar verkehrt in [Deutschland](/country/germany "Deutschland"), [Frankreich](/country/france "Frankreich"), dem [Vereinigten Königreich](/country/united-kingdom "Vereinigtes Königreich"), [Belgien](/country/belgium "Belgien") und den [Niederlanden](/country/netherlands "Niederlande").

@@ -3,13 +3,20 @@ draft: false
 title: "Roumanie"
 country: "romania"
 params:
+  iso_code: RO
   operators_without_fip:
-    - Astra Trains Carpatic (ATC)
-    - IRC (InterRegional Călători)
-    - RC (Regio Călători)
-    - SFTRA (Softrans)
-    - TFC (Transferoviar Călători)
-    - TFI (Ferotrans)
+    - name: Astra Trains Carpatic (ATC)
+      query:
+    - name: IRC (InterRegional Călători)
+      query:
+    - name: RC (Regio Călători)
+      query:
+    - name: SFTRA (Softrans)
+      query:
+    - name: TFC (Transferoviar Călători)
+      query:
+    - name: TFI (Ferotrans)
+      query:
 ---
 
 ## Informations FIP

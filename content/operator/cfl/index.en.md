@@ -8,6 +8,9 @@ operator: "cfl"
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
+params:
+  transitous_mapping:
+    - query: agencyName == "CFL"
 ---
 
 CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish state railway and the main railway company in [Luxembourg](/country/luxembourg "Luxembourg").

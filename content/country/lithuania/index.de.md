@@ -3,8 +3,10 @@ draft: false
 title: "Litauen"
 country: "lithuania"
 params:
+  iso_code: LT
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
+    - name: "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
+      query:
 ---
 
 ## FIP Nutzung

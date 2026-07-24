@@ -9,6 +9,9 @@ aliases:
   - zsr
   - /booking/zssk-ticket-office
   - /booking/zssk-website
+params:
+  transitous_mapping:
+    - query: agencyName == "ZSSK"
 ---
 
 Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber ZSSK (Železničná spoločnosť Slovensko) ist die slowakische Staatsbahn und die wichtigste Bahngesellschaft in der [Slowakei](/country/slovakia "Slowakei").

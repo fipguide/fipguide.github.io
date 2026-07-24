@@ -8,6 +8,10 @@ operator: "ht"
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
+params:
+  transitous_mapping:
+    - query: agencyName == "HŽ Putnički prijevoz"
+    - query: agencyName == "HŽ"
 ---
 
 Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) operates all state passenger services on the Greek standard-gauge network. The company runs long-distance, regional and suburban services ("Proastiakos"). Since 2017, it has been a wholly owned subsidiary of the Italian state railway Ferrovie dello Stato Italiane (FS).
