@@ -109,8 +109,10 @@ function getFipStatus(leg) {
   const debug = {
     from: leg.from?.name || null,
     fromId: leg.from?.stopId || leg.from?.id || null,
+    fromCountry: null,
     to: leg.to?.name || null,
     toId: leg.to?.stopId || leg.to?.id || null,
+    toCountry: null,
     startTime: leg.startTime ? new Date(leg.startTime).toLocaleString() : null,
     endTime: leg.endTime ? new Date(leg.endTime).toLocaleString() : null,
     agencyId: leg.agencyId || null,
@@ -224,14 +226,14 @@ function renderInternationalWarning(fromCode, toCode) {
   return `<div class="o-route-planner__international-warning">${cfg.labels.internationalJourney} ${countries.join(", ")}</div>`;
 }
 
-function renderFipBadge(fipStatus) {
+function renderFipBadge(fipStatus, popoverId) {
   const cfg = window.routePlannerConfig;
-  const popoverId = `fip-debug-${++fipDebugCounter}`;
+  if (!popoverId) popoverId = `fip-debug-${++fipDebugCounter}`;
 
   const rows = Object.entries(fipStatus.debug)
     .map(
       ([k, v]) =>
-        `<tr><td class="o-route-planner__fip-debug-key">${k}</td><td class="o-route-planner__fip-debug-val">${v !== null ? v : "—"}</td></tr>`,
+        `<tr><td class="o-route-planner__fip-debug-key">${k}</td><td class="o-route-planner__fip-debug-val" data-debug-key="${k}">${v !== null ? v : "—"}</td></tr>`,
     )
     .join("");
   const popoverHtml = `
@@ -288,12 +290,24 @@ function renderLeg(leg) {
     : "";
 
   const warningId = ++legWarningCounter;
-  getCountryForPlace(leg.from).then((fromCode) => {
-    getCountryForPlace(leg.to).then((toCode) => {
-      const el = document.getElementById(`leg-warning-${warningId}`);
-      if (el) el.outerHTML = renderInternationalWarning(fromCode, toCode);
-    });
-  });
+  const popoverId = `fip-debug-${++fipDebugCounter}`;
+  Promise.all([getCountryForPlace(leg.from), getCountryForPlace(leg.to)]).then(
+    ([fromCode, toCode]) => {
+      setTimeout(() => {
+        const el = document.getElementById(`leg-warning-${warningId}`);
+        if (el) el.outerHTML = renderInternationalWarning(fromCode, toCode);
+        const popover = document.getElementById(popoverId);
+        if (popover) {
+          const update = (key, val) => {
+            const cell = popover.querySelector(`[data-debug-key="${key}"]`);
+            if (cell) cell.textContent = val !== null ? val : "—";
+          };
+          update("fromCountry", fromCode);
+          update("toCountry", toCode);
+        }
+      }, 0);
+    },
+  );
 
   return `
     <div class="o-route-planner__leg o-route-planner__leg--transit">
@@ -312,7 +326,7 @@ function renderLeg(leg) {
         </div>
         <div id="leg-warning-${warningId}"></div>
         <div class="o-route-planner__leg-fip">
-          ${renderFipBadge(fipStatus)}
+          ${renderFipBadge(fipStatus, popoverId)}
         </div>
       </div>
     </div>`;

@@ -107,7 +107,7 @@
     window.routePlannerConfig = {
       lang: "{{ .Language.Lang }}",
       baseUrl: "{{ T "routePlanner.operatorBaseUrl" }}",
-      countryCodeMap: {{ $map := dict }}{{ range where (where site.Pages "Type" "country") "IsPage" true }}{{ $slug := .File.ContentBaseName }}{{ $name := .Title }}{{ with .Params.iso_code }}{{ $map = merge $map (dict . (dict "slug" $slug "name" $name)) }}{{ end }}{{ end }}{{ $map | jsonify }},
+      countryCodeMap: JSON.parse('{{ $map := dict }}{{ range where (where site.Pages "Type" "country") "IsPage" true }}{{ $slug := .File.ContentBaseName }}{{ $name := .Title }}{{ with .Params.iso_code }}{{ $map = merge $map (dict . (dict "slug" $slug "name" $name)) }}{{ end }}{{ end }}{{ $map | jsonify }}'),
       labels: {
         walk: "{{ T "routePlanner.walk" }}",
         fipAccepted: "{{ T "routePlanner.fipAccepted" }}",
