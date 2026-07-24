@@ -123,9 +123,8 @@
     {{- $content := partial "transformations/increase-headings" (dict "content" .content "offset" 1) -}}
     {{- $content := partial "transformations/transform-expander-headings" (dict "content" $content "id" .id) -}}
     {{- $content | safeHTML -}}
-
-    {{- if or .route_overview_url .additional_information_url -}}
-      <div data-pagefind-ignore>
+    <div class="o-expander__actions">
+      {{- if or .route_overview_url .additional_information_url -}}
         {{- if .route_overview_url -}}
           {{- partial "button"
             (dict
@@ -142,7 +141,8 @@
             )
           -}}
         {{- end -}}
-      </div>
-    {{- end -}}
+      {{- end -}}
+      {{- partial "anchorlink-button" .id -}}
+    </div>
   </div>
 </details>

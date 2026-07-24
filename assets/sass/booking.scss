@@ -68,24 +68,6 @@
   }
 }
 
-.o-booking__links {
-  margin-top: 1.5rem;
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-
-  @media print {
-    > a {
-      flex-wrap: wrap;
-      font-weight: bold;
-
-      &::after {
-        font-weight: normal;
-      }
-    }
-  }
-}
-
 .o-booking__info {
   margin-bottom: 1.5rem;
 }
