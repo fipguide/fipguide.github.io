@@ -1,5 +1,6 @@
 enableRobotsTXT: true
 enableGitInfo: true
+ignoreLogs: ['warning-rendershortcodes-in-html']
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true

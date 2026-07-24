@@ -1,0 +1,24 @@
+{{- $id := replaceRE `-[0-9]+$` "" .Anchor -}}
+{{- with index .Attributes "prefix" -}}
+  {{- $id = print . ":" $id -}}
+{{- end -}}
+{{- $attributes := print `id="` $id `"` -}}
+{{- with index .Attributes "data-pagefind-ignore" -}}
+  {{- $attributes = print $attributes ` data-pagefind-ignore="` . `"` -}}
+{{- end -}}
+{{- $heading := print `<h` .Level ` ` $attributes `>` .Text `</h` .Level `>` -}}
+{{- if eq .Level 2 -}}
+  {{- partial "intersector" -}}
+  <span class="a-anchorlink">
+    {{- $heading | safeHTML -}}
+    <button
+      data-anchor="#{{ $id }}"
+      class="a-anchorlink__link"
+      title="{{ T "anchorLink.copy" }}"
+    >
+      {{- partial "icon" "link" -}}
+    </button>
+  </span>
+{{- else -}}
+  {{- $heading | safeHTML -}}
+{{- end -}}

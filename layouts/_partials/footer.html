@@ -55,6 +55,7 @@
       aria-controls="language-switcher-dropdown"
       title="{{ T "language-switcher.aria-label" }}"
       aria-label="{{ T "language-switcher.aria-label" }}"
+      style="anchor-name: --language-switcher"
     >
       {{ partial "icon" "translate" }}
       <div>{{ $.Site.Language.Label }}</div>
@@ -68,6 +69,7 @@
       role="listbox"
       aria-hidden="true"
       aria-label="{{ T "language-switcher.dropdown-label" }}"
+      style="position-anchor: --language-switcher"
     >
       {{ range .AllTranslations }}
         <li

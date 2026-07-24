@@ -185,7 +185,9 @@ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#z
   fip_accepted=partially
   reservation_possible=false
 %}}
+
 FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. Ausgenommen davon sind reine Fernbusverbindungen (z. B. BlaBlaCar Bus). In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre. [^1]
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -390,7 +392,9 @@ Der Zugang zu einigen Stationen wird durch Ticketbarrieren eingeschränkt. Bei N
   fip_accepted=false
   reservation_possible=nil
 %}}
+
 FIP Vergünstigungen gelten nicht in Straßenbahnen im Großraum Paris.[^3]
+
 {{% /train-category %}}
 
 #### Ticketschranken
@@ -407,6 +411,18 @@ Vergünstigte FIP Tickets für `RER` und Transilien-Züge können an Transilien 
 {{% highlight important %}}
 Viele Stationen mit Ticketschranken sind nicht mit Personal besetzt. Es gibt zwar Hilfssprechanlagen, diese funktionieren aber unzuverlässig. Ohne die _Contremarque de Passage_ (Temporäre Zugangskarte) besteht daher oft keine Möglichkeit, Zugang zu den Stationen zu erhalten.
 {{% /highlight %}}
+
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

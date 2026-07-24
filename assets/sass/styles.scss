@@ -4,6 +4,12 @@ html {
   scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
 body {
   color: var(--color-body);
   background-color: var(--bg-neutral);
@@ -66,6 +72,10 @@ a,
   }
 
   @include focus-indicator(0.2rem);
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 
   @media print {
     text-decoration: none;

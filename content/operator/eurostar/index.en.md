@@ -111,6 +111,13 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
+{{% booking id="traivelling-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -210,17 +217,13 @@ Checking available ticket quotas is possible via the following websites:
 - [Interrail Website](https://www.interrail.eu/en/book-reservations) \
    Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
 - [Traivelling](https://traivelling.com/home) \
-   Select the _FIP 50%_ discount. Tickets are also sold here, but we cannot comment on the legitimacy of this offer.
+   More information in the [corresponding booking section](#traivelling-website).
 
 ### Connections
 
 #### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
-Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/en/am-i-eligible-for-hotnat/) can be used.
-
-If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
-
-HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
+Through tickets cannot be purchased for Eurostar. However, HOTNAT (Hop on the Next Available Train) can be used to protect connections during transfers. [More information in the FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Transfer in London)
 

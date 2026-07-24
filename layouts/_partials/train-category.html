@@ -1,9 +1,5 @@
-<details
-  class="o-expander o-expander--train-category"
-  name="train-category"
-  id="{{ .id }}"
->
-  <summary class="o-expander__summary o-expander__summary--train-category">
+<details class="o-expander o-train-category" name="train-category">
+  <summary class="o-expander__summary">
     <div class="o-train-category__header">
       <div class="o-train-category__title">
         {{ $iconMapping := dict
@@ -18,9 +14,11 @@
           "ship" "directions_boat"
           }}
         {{- partial "icon" (index $iconMapping .type) -}}
-        <span class="o-train-category__title-text">{{- .title -}}</span>
+        <h4 id="{{ .id }}" class="o-expander__title-text">
+          {{- .title -}}
+        </h4>
       </div>
-      <div class="o-train-category__tags">
+      <div class="o-train-category__tags" data-pagefind-ignore>
         {{- if eq .fip_accepted true -}}
           {{ partial "tag" (
             dict
@@ -122,9 +120,12 @@
   </summary>
   <hr aria-hidden="true" />
   <div class="o-expander__content o-train-category__content">
-    {{ .content }}
+    {{- $content := partial "transformations/increase-headings" (dict "content" .content "offset" 1) -}}
+    {{- $content := partial "transformations/transform-expander-headings" (dict "content" $content "id" .id) -}}
+    {{- $content | safeHTML -}}
+
     {{- if or .route_overview_url .additional_information_url -}}
-      <div>
+      <div data-pagefind-ignore>
         {{- if .route_overview_url -}}
           {{- partial "button"
             (dict

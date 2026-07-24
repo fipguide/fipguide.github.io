@@ -56,4 +56,4 @@ Sur les itinéraires via Halden et Kongsvinger, le FIP n’est valable que sur l
 
 ## Sources
 
-[^1] : [Retour sur le FIP en Norvège : R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
+[^1]: [Retour sur le FIP en Norvège : R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)

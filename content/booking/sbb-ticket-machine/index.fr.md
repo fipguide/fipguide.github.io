@@ -24,6 +24,4 @@ Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des t
 
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

@@ -7,6 +7,7 @@
     aria-controls="{{ .id }}-dropdown"
     title="{{ T (printf "%s.title" .key) }}"
     aria-label="{{ T (printf "%s.aria-label" .key) }}"
+    style="anchor-name: --{{ .id }}"
   >
     <span>{{ T (printf "%s.label" .key) }}</span>
     <div class="o-dropdown__icon">
@@ -15,12 +16,13 @@
   </button>
   <menu
     id="{{ .id }}-dropdown"
-    class="o-dropdown__menu o-dropdown__menu--below {{ if .vertical }}
+    class="o-dropdown__menu o-dropdown__menu--below o-dropdown__menu--left {{ if .vertical }}
       o-dropdown__menu--vertical
     {{ end }}"
     role="listbox"
     aria-hidden="true"
     aria-label="{{ T (printf "%s.dropdown-label" .key) }}"
+    style="position-anchor: --{{ .id }}"
   >
     {{ range .items }}
       {{- $prefix := "" -}}

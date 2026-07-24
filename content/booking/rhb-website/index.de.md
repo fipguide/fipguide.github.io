@@ -34,6 +34,4 @@ Reservierungen können auf der Website der RhB erworben werden. Im Buchungsverla
 Falls nur eine Reservierung ohne Ticket gewünscht ist, kann bei der Eingabe der Reisenden die Option "Diese Person braucht nur eine Sitzplatzreservierung." ausgewählt werden.
 {{% /booking-section %}}
 
-## Quellen
-
 [^1]: [Feedback via E-Mail](https://github.com/fipguide/fipguide.github.io/issues/1035)

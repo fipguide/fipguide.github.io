@@ -34,6 +34,4 @@ Reservations can be purchased on the RhB website. During the booking process, th
 If only a reservation without a ticket is required, the option "This passenger only needs a seat reservation." can be selected when entering the passengers.
 {{% /booking-section %}}
 
-## Sources
-
 [^1]: [Feedback via email](https://github.com/fipguide/fipguide.github.io/issues/1035)

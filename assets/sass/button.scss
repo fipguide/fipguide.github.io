@@ -22,6 +22,7 @@ button {
   background: transparent;
   color: var(--body-color);
   width: fit-content;
+  border: 0.2rem solid var(--link-default);
 
   &:hover,
   &:focus {
@@ -35,8 +36,8 @@ button {
     display: block;
   }
 
-  &__external {
-    border: 0.2rem solid var(--link-default);
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
   }
 
   &__internal {

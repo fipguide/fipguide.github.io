@@ -111,6 +111,13 @@ Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die B
 
 Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen). Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
+{{% booking id="traivelling-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -209,17 +216,13 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 - [Interrail Website](https://www.interrail.eu/de/book-reservations) \
   Nur zum Prüfen von Reservierungskontingenten. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
 - [Traivelling](https://traivelling.com/home) \
-  Angabe der Vergünstigung _FIP 50%_. Hier werden auch Tickets verkauft, zur Legitimität dieses Angebots können wir jedoch keine Aussage treffen.
+  Mehr Informationen im [entsprechenden Buchungsabschnitt](#traivelling-website).
 
 ### Anschlüsse
 
 #### HOTNAT (Umstieg in Brüssel, Köln, Paris)
 
-Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
-
-Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers oder eines anderen Railteam Mitglieds ausgewichen werden. Dazu muss am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
-
-HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
+Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch HOTNAT (Hop on the Next Available Train) genutzt werden. [Weitere Informationen im FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Umstieg in London)
 
