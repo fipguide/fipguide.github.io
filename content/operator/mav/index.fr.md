@@ -254,7 +254,9 @@ Les trains Z font partie du S-Bahn de Budapest et sont des trains de zone, c'est
     reservation_possible=false
     additional_information_url="https://www.stadlerrail.com/de/loesungen/referenzen/citylink-mav"
 %}}
+
 Le TramTrain entre Szeged et Hódmezővásárhely peut être utilisé avec FIP.[^1] Des véhicules modernes Stadler Citylink sont utilisés.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -264,7 +266,9 @@ Le TramTrain entre Szeged et Hódmezővásárhely peut être utilisé avec FIP.[
     fip_accepted=true
     additional_information_url="https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/balatonfenyvesi-kisvasut"
 %}}
+
 Le chemin de fer à voie étroite de Balatonfenyves à Somogyszentpál et Csisztafürdő sur la rive sud du Lac Balaton est le dernier chemin de fer à voie étroite exploité par MÁV. Il peut être utilisé avec FIP.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -273,7 +277,9 @@ Le chemin de fer à voie étroite de Balatonfenyves à Somogyszentpál et Csiszt
     type="bus"
     fip_accepted=false
 %}}
+
 Les billets FIP ne sont pas valables sur les bus MÁV. Sur les bus en service de substitution ferroviaire, les avantages FIP s'appliquent s'ils remplacent un train sur lequel FIP aurait été valable.[^1]
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
