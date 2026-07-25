@@ -225,6 +225,18 @@ Ce supplément (incluant la réservation) est obligatoire, même avec un Coupon 
 
 Le supplément peut être acheté au guichet (en Suisse, en France ou en Italie). Dans les trains EC vers l’Italie, il est également possible de l’acheter à bord.
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

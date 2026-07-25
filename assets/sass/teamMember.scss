@@ -18,6 +18,10 @@
   border-radius: var(--border-radius-m);
   transition: transform 0.2s ease;
 
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+
   &__image {
     width: 8rem;
     height: 8rem;

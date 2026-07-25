@@ -186,6 +186,10 @@ Les Billets FIP 50 ne peuvent pas être émis pour des trajets uniquement intern
 Selon certaines sources, les Billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
 {{% /highlight %}}
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
 {{% highlight tip %}}

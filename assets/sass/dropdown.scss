@@ -47,6 +47,10 @@
       & > :not(.a-icon) {
         text-decoration: underline;
       }
+
+      @media (prefers-reduced-motion: reduce) {
+        transition: none;
+      }
     }
   }
 
@@ -87,6 +91,10 @@
         background 0.2s,
         color 0.2s;
 
+      @media (prefers-reduced-motion: reduce) {
+        transition: none;
+      }
+
       &:hover,
       &:focus {
         color: var(--link-hovered);
@@ -112,6 +120,10 @@
 
   .o-dropdown__icon .a-icon {
     transition: transform 0.2s;
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
   }
 
   &__menu {
@@ -131,6 +143,10 @@
     animation-timing-function: ease;
     max-height: 20rem;
     overflow-y: auto;
+
+    @media (prefers-reduced-motion: reduce) {
+      animation: none;
+    }
 
     &--above {
       bottom: anchor(top);

@@ -258,6 +258,10 @@ Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unt
 
 FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) zwischen Ferrol und Bilbao in Nordspanien.
 
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ## Empfehlungen
 
 Auf der Seite der Zugpost findet sich ein [lesenswerter Reisebericht zum FEVE-Netz](https://zugpost.org/feve-schmalspurbahn/).
