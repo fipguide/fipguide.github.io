@@ -20,5 +20,6 @@ L’adhésion au FIP marque l’intégration de LTG dans le réseau ferroviaire 
 
 Les informations sur l’utilisation des réductions FIP en Lituanie seront bientôt disponibles sur ce site.
 
-**Mise à jour 17.06.2025 :** \
+{{% update date="2026-01-08" %}}
 Des informations sur l’utilisation des avantages de voyage FIP en [Lituanie](/country/lithuania) et avec [LTG Link](/operator/ltg) sont désormais disponibles ici dans le FIP Guide.
+{{% /update %}}
