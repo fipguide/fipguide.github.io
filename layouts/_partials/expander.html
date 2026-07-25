@@ -18,5 +18,10 @@
 
   <div class="o-expander__content">
     {{ .Content }}
+    {{- with .Id -}}
+      <div class="o-expander__actions">
+        {{- partial "anchorlink-button" . -}}
+      </div>
+    {{- end -}}
   </div>
 </details>
