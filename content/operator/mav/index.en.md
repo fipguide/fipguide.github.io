@@ -37,7 +37,7 @@ FIP Coupons and FIP 50 Tickets are valid on MÁV connections. For cross-border j
 %}}
 International long-distance trains in cooperation with ÖBB and other partner railways, for example on the Vienna – Budapest axis and Prague – Bratislava – Budapest. Economy Class (2nd class), First Class (1st class) and Business Class are available. A [dining car from ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) or [dining car from ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) is carried.
 
-Business Class is not available for domestic journeys in Hungary. For international journeys, Business Class can be booked as a surcharge to First Class.
+Business Class is not available for domestic journeys within Hungary. For international journeys, Business Class can be used with a 1st-class FIP Coupon pass or FIP 50 ticket; a supplement of € 22 applies.
 
 {{% highlight confusion %}}
 `RJ` can also stand for RegioJet. FIP tickets for MÁV are not valid on RegioJet trains.
@@ -300,17 +300,22 @@ On international journeys, children under 10 years of age may not travel unaccom
 
 ## Special Tariff Conditions
 
+### 1st Class and 1+ Class
+
+Since the 2024 fare reform, 1st Class travel in Hungary is available only on trains requiring a seat reservation. The surcharge for upgrading from 2nd to 1st Class is a flat rate of 1,000 HUF.
+A seat reservation costs HUF 990 in 2nd Class and HUF 1,990 in 1st Class, unless the passenger holds a 1st Class FIP card; in that case, the 1st Class reservation costs HUF 990.
+
+Reservations for 1+ Class cost HUF 3,990 and can be booked regardless of whether the passenger holds a 2nd Class or 1st Class FIP card. The reservation fee already includes the class upgrade surcharge, meaning it can also be purchased in conjunction with a 2nd Class FIP Coupon or FIP 50 ticket.
+
 ### No Reservation Requirement between Budapest-Keleti and Budapest-Kelenföld
 
 On RJ, RJX, IC, EC and EX trains, a reservation is generally mandatory for domestic traffic. The Budapest-Keleti – Budapest-Kelenföld relation is exempted from this rule. The regulations for the respective train should be checked in MÁV's connection information before traveling.
 
 ### Premium Lounge in Budapest-Keleti
 
-In Budapest-Keleti, the lounge can be used with some tickets. The exact conditions and further information can be found on the [information page for the lounge](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge).
+At Budapest-Keleti, the lounge is accessible to passengers holding sleeper reservations (Single, Double, Triple), including those traveling with FIP. Access is available for a duration of two hours, both prior to departure and upon arrival.
 
-{{% highlight inofficial %}}
-Whether FIP Coupons and FIP 50 Tickets entitle you to use the lounge is unknown to us.
-{{% /highlight %}}
+Full details and further information can be found on the [lounge information page](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge).
 
 ### Break of Journey
 

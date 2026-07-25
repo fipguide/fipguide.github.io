@@ -37,7 +37,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. 
 %}}
 Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Bratislava – Budapest. Es ist eine Economy Class (2. Klasse), First Class (1. Klasse) sowie Business Class vorhanden. Es wird ein [Speisewagen der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) bzw. [Speisewagen der ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) mitgeführt.
 
-Die Business Class ist für nationale Fahrten in Ungarn nicht verfügbar. Bei internationalen Fahrten ist die Business Class als Aufschlag auf die First Class buchbar.
+Die Business Class ist für nationale Fahrten in Ungarn nicht verfügbar. Bei internationalen Fahrten kann die Business Class mit einem FIP Freifahrtschein oder FIP 50 Ticket der 1. Klasse genutzt werden. Es ist ein Aufschlag von 22 € zu zahlen.
 
 {{% highlight confusion %}}
 `RJ` kann auch für RegioJet stehen. In RegioJet-Zügen gelten keine MÁV-FIP-Fahrkarten.
@@ -300,17 +300,22 @@ Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung ei
 
 ## Tarifliche Besonderheiten
 
+### 1. Klasse und 1+ Klasse
+
+Seit der Fahrkartenreform 2024 gibt es die 1. Klasse in Ungarn nur noch in Zügen mit Reservierungspflicht. Der Zuschlag von der 2. in die 1. Klasse hat einen Festpreis von 1.000 HUF.
+Eine Sitzplatzreservierung kostet in der 2. Klasse 990 HUF und in der 1. Klasse 1.990 HUG, außer man ist im Besitu eines FIP-Ausweises für die 1. Klasse. In dem Fall kostet die Reservierung in der 1. Klasse 990 HUF.
+
+Reservierungen für die 1+ Klasse kosten 3.990 HUF und können unabhängig davon, ob man im Besitz eines FIP-Ausweises für die 2. oder 1. Klasse, gebucht werden. Die Reservierung beinhaltet bereits den Klassenzuschlag, sodass sie auch in Verbindung mit einem FIP Freifahrtschein oder FIP 50 Ticket für die 2. Klasse erworben werden kann.
+
 ### Keine Reservierungspflicht zwischen Budapest-Keleti und Budapest-Kelenföld
 
 In RJ, RJX, IC, EC und EX-Zügen ist eine Reservierung im Inlandsverkehr grundsätzlich verpflichtend. Die Relation Budapest-Keleti – Budapest-Kelenföld ist hiervon ausgenommen. Die Regelung für den jeweiligen Zug sollte vor Fahrtantritt in der Verbindungsauskunft der MÁV geprüft werden.
 
 ### Premium Lounge in Budapest-Keleti
 
-In Budapest-Keleti kann mit manchen Tickets die Lounge genutzt werden. Die genauen Bedingungen sowie weitere Informationen sind auf der [Informationsseite zur Lounge](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge) zu finden.
+In Budapest-Keleti kann mit Schlafwagen-Reservierungen (Single, Double, Triple), auch im Kontext von FIP, die Lounge genutzt werden. Dies gilt vor der Abfahrt als auch bei Ankunft für eine Dauer von zwei Stunden.
 
-{{% highlight inofficial %}}
-Ob FIP Freifahrtscheine und FIP 50 Tickets zur Loungenutzung brechtigen ist uns nicht bekannt.
-{{% /highlight %}}
+Die genauen Bedingungen sowie weitere Informationen sind auf der [Informationsseite zur Lounge](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge) zu finden.
 
 ### Fahrtunterbrechung
 

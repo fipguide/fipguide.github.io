@@ -37,7 +37,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les connexions MÁV. Pou
 %}}
 Trains internationaux longue distance en coopération avec ÖBB et d'autres chemins de fer partenaires, par exemple sur l'axe Vienne – Budapest et Prague – Bratislava – Budapest. La classe Économique (2e classe), la Première Classe (1ère classe) et la Classe Affaires sont disponibles. Une [voiture restaurant d'ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) ou [voiture restaurant de ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) est transportée.
 
-La Classe Affaires n'est pas disponible pour les trajets intérieurs en Hongrie. Pour les trajets internationaux, la Classe Affaires peut être réservée en tant que supplément à la Première Classe.
+La classe affaires n'est pas disponible pour les vols intérieurs en Hongrie. Pour les vols internationaux, elle peut être réservée avec un coupon FIP 1re classe ou un billet FIP 50 ; un supplément de 22 € est appliqué.
 
 {{% highlight confusion %}}
 `RJ` peut aussi signifier RegioJet. Les billets FIP pour MÁV ne sont pas valables sur les trains RegioJet.
@@ -300,17 +300,23 @@ Pour les voyages internationaux, les enfants de moins de 10 ans ne peuvent pas v
 
 ## Conditions tarifaires spéciales
 
+### 1re et 1+ Classe
+
+Depuis la réforme tarifaire de 2024, la 1re classe en Hongrie est uniquement disponible sur les trains où la réservation est obligatoire. Le surclassement de la 2e à la 1re classe coûte 1.000 HUF.
+
+Une réservation de siège coûte 990 HUF en 2e classe et 1.990 HUF en 1re classe, sauf si vous possédez une carte FIP pour la 1re classe. Dans ce cas, la réservation en 1re classe coûte 990 HUF.
+
+Les réservations pour la 1+ classe coûtent 3.990 HUF et peuvent être effectuées que vous possédiez une carte FIP de 2e ou de 1re classe. La réservation inclut déjà le supplément de classe ; elle peut donc être achetée avec un coupon FIP de 2e classe ou un billet FIP 50.
+
 ### Pas d'exigence de réservation entre Budapest-Keleti et Budapest-Kelenföld
 
 Sur les trains RJ, RJX, IC, EC et EX, une réservation est généralement obligatoire pour le trafic intérieur. La relation Budapest-Keleti – Budapest-Kelenföld est exemptée de cette règle. Les réglementations pour le train respectif doivent être vérifiées dans l'information de connexion de MÁV avant de voyager.
 
 ### Lounge Premium à Budapest-Keleti
 
-À Budapest-Keleti, le salon peut être utilisé avec certains billets. Les conditions exactes et autres informations peuvent être trouvées sur la [page d'informations pour le salon](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge).
+À Budapest-Keleti, l'accès au salon est possible avec les réservations de wagons-lits (Single, Double, Triple), également dans le contexte de la FIP. Cet accès est valable avant le départ et à l'arrivée, pour une durée de deux heures.
 
-{{% highlight inofficial %}}
-Nous ne savons pas si les Coupons FIP et les Billets FIP 50 vous donnent le droit d'utiliser le salon.
-{{% /highlight %}}
+Pour connaître les conditions générales et obtenir des informations complémentaires, veuillez consulter la [page d'information du Lounge Premium](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/premium-lounge).
 
 ### Possibilité d'interrompre le trajet
 
