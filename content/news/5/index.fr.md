@@ -18,4 +18,6 @@ De plus, les prix des réservations de sièges augmenteront :
 
 Les informations sur les réservations sont disponibles [ici](/booking/db-website "Réservation DB Website").
 
+## Sources
+
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)
