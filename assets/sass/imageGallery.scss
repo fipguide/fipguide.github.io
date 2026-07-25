@@ -15,6 +15,13 @@
   list-style: none;
   border-radius: var(--border-radius-l);
 
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
   @media (prefers-reduced-motion: reduce) {
     scroll-behavior: auto;
   }
