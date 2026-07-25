@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "PKP Intercity Website"
-description: "Booking information for the PKP Intercity website."
+title: "PKP Intercity Website / App"
+description: "Booking information for the PKP Intercity website and app."
 
 params:
   fip_50: true
@@ -11,8 +11,10 @@ params:
     second: "3 PLN"
   booking_link: "https://ebilet.intercity.pl/"
   additional_info_link: "https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html"
-  type: "website"
+  type: "online"
 ---
+
+PKP Intercity also offers an [app](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/ic-mobile-navigator.html) through which FIP 50 Tickets can be booked.
 
 {{% booking-section "fip_50" %}}
 
