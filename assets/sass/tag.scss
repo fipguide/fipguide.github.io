@@ -2,9 +2,9 @@
   display: flex;
   align-items: flex-start;
   gap: 0.4rem;
-  padding: 0.4rem 0.6rem;
+  padding: 0.4rem 0.8rem;
   border-radius: var(--border-radius-s);
-  font-size: 0.9em;
+  font-size: 0.7em;
   font-weight: 500;
 
   @each $name, $color in $tag-colors {
@@ -21,6 +21,7 @@
     border: 0.1rem solid var(--tag-newsUpdate-color);
     border-radius: var(--border-radius-l);
     padding: 0.2rem 0.4rem;
+    font-size: 0.9em;
 
     .a-tag__text {
       text-box-trim: trim-both;
