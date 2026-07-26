@@ -1,0 +1,63 @@
+{{- $lang := .Page.Language.Lang -}}
+{{- $base := "https://fipguide.github.io/taxation-app/" -}}
+{{- $src := printf "%s?lang=%s" $base $lang -}}
+
+
+<div class="o-taxation-embed">
+  <iframe
+    id="taxation-embed-frame"
+    class="o-taxation-embed__frame"
+    src="{{ $src }}"
+    title="{{ T "taxation.calculator" (dict "Year" "") }}"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    sandbox="allow-scripts allow-same-origin allow-forms"
+  ></iframe>
+</div>
+
+<script>
+  (function () {
+    var frame = document.getElementById("taxation-embed-frame");
+    if (!frame) return;
+
+    function getSavedTheme() {
+      return localStorage.getItem("fipguide-theme") || "auto";
+    }
+
+    function getEffectiveTheme(theme) {
+      if (theme === "dark") return "dark";
+      if (theme === "light") return "light";
+      return window.matchMedia("(prefers-color-scheme: dark)").matches
+        ? "dark"
+        : "light";
+    }
+
+    function sendThemeToIframe() {
+      var payload = {
+        type: "fipguide-theme",
+        theme: getEffectiveTheme(getSavedTheme()),
+      };
+      if (frame.contentWindow) {
+        frame.contentWindow.postMessage(payload, "*");
+      }
+    }
+
+    frame.addEventListener("load", sendThemeToIframe);
+
+    var observer = new MutationObserver(function () {
+      sendThemeToIframe();
+    });
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-theme"],
+    });
+
+    window
+      .matchMedia("(prefers-color-scheme: dark)")
+      .addEventListener("change", function () {
+        if (getSavedTheme() === "auto") {
+          sendThemeToIframe();
+        }
+      });
+  })();
+</script>

@@ -1,0 +1,11 @@
+.o-taxation-embed {
+  margin-top: 1rem;
+
+  &__frame {
+    width: 100%;
+    min-height: 80vh;
+    border: 0;
+    border-radius: var(--border-radius-m);
+    background: var(--bg-default);
+  }
+}

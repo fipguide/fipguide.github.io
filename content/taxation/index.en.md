@@ -5,4 +5,4 @@ title: "Taxation"
 
 {{< taxation-info >}}
 
-{{< taxation-calculator >}}
+{{< taxation-embed >}}
