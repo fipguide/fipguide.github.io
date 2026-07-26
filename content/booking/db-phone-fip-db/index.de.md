@@ -9,7 +9,7 @@ params:
     second: "5,50 €"
   fip_50: true
   reservations: true
-  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
+  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/wissenswertes/ansprechpartner_db_ermaessigung-8140844"
   additional_info_link: "https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung"
   type: "phone"
 ---
