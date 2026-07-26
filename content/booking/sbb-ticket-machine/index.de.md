@@ -24,6 +24,4 @@ Unter anderem in städtischen Gebieten kann eine Fahrkarte mit Halbtax Rabatt au
 
 {{% /booking-section %}}
 
-## Quellen
-
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

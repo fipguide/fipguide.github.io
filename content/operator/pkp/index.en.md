@@ -104,6 +104,25 @@ Some trains require reservations. The reservation requirement can be checked in 
 {{% /train-category %}}
 
 {{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+The IC Nieśpieszny is a retro-style experience train operated by PKP Intercity, with a focus on consciously relaxed and slow travel in historic restored coaches.
+
+Neither FIP Coupons nor FIP 50 Tickets are valid on this train.
+
+#### Reservations
+
+Reservation is required.
+
+{{% /train-category %}}
+
+{{% train-category
     id="tlk"
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
@@ -353,6 +372,10 @@ FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/G
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
@@ -365,7 +388,7 @@ FIP Coupons for 1st class are only conditionally worthwhile with PKP. If journey
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

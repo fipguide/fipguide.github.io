@@ -2,7 +2,6 @@
 draft: false
 title: "FIP Beantragung"
 pagefind_ignore: true
-layout: "list"
 aliases:
   - "/fip-validity/"
 ---

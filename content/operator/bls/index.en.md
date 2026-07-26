@@ -156,6 +156,10 @@ The Swiss railway companies SBB and BLS partially accept each other's FIP Coupon
 
 However, the SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses that primarily operate in the Emmental.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
@@ -168,6 +172,6 @@ At some operators, family members are not entitled to FIP Coupons from SBB. With
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

@@ -123,6 +123,6 @@ Un surclassement de si√®ge vers toute cabine (sauf LUX) est possible avec une r√
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)

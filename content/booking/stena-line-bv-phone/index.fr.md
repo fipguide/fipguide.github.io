@@ -23,7 +23,7 @@ Les informations suivantes doivent être préparées:
 - Type de cabine (Standard, Supérieure et Deluxe)
 - Nom de voyageurs tel qu’il figure sur leur passeport
 - Numéro et date d’expiration du passeport
-- **Uniquement pour les Billets FIP 50:** Copie de la Carte FIP (recto et verso)
+- **Uniquement pour les Billets FIP 50:** Carte FIP
 - **Uniquement pour les réservations avec Coupon FIP:** Numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage
 
 {{% booking-section "fip_50" %}}
@@ -40,7 +40,7 @@ Les billets FIP 50 peuvent être réservés.
 
 Les réservations de cabine sont disponibles et obligatoires pour les traversées de nuit.
 
-{{% highlight warning %}}
+{{% highlight important %}}
 Pour les réservations, le numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
 {{% /highlight %}}
 

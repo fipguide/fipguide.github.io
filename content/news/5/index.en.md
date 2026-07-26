@@ -18,4 +18,6 @@ Additionally, the prices for seat reservations will increase:
 
 Information about reservations can be found [here](/booking/db-website "DB Website Booking").
 
+## Sources
+
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)

@@ -156,6 +156,10 @@ Les entreprises ferroviaires suisses SBB et BLS acceptent partiellement les Coup
 
 Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
@@ -168,6 +172,6 @@ Les membres de la famille ne sont parfois pas éligibles aux Coupon FIP des SBB.
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)

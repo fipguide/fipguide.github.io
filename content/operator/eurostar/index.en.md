@@ -72,11 +72,11 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 
 **FIP Global Fare:**
 
-| Route                      | Standard | Plus   |
-| -------------------------- | -------- | ------ |
-| Travel within one country  | No FIP   | No FIP |
-| Travel between 2 countries | € 18     | € 35   |
-| Travel between 3 countries | € 20     | € 40   |
+| Route                      | Standard       | Plus           |
+| -------------------------- | -------------- | -------------- |
+| Travel within one country  | No FIP         | No FIP         |
+| Travel between 2 countries | € 18 / £ 15.50 | € 35 / £ 30.50 |
+| Travel between 3 countries | € 20 / £ 17.50 | € 40 / £ 35    |
 
 {{% /train-category %}}
 
@@ -111,6 +111,13 @@ Tickets are issued exclusively as online tickets, so an email address is require
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
+{{% booking id="traivelling-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
+
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -143,7 +150,7 @@ Booking FIP Tickets to or from London (Eurostar Blue) is not possible via the ho
     reservations=nil
 /%}}
 
-{{% booking id="ffestiniogtravel-email"
+{{% booking id="ffestiniogtravel-phone"
     fip_50=nil
     fip_75=nil
     fip_global_fare=true
@@ -181,7 +188,11 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 ## Discounts
 
-Children up to and including 3 years old travel free of charge but without a guaranteed seat. There are no further discounts for children. Children under 12 years must always be accompanied by an adult (unaccompanied children are not allowed). [^2]
+Children under 4 travel free of charge without a ticket but must sit on an adult's lap. A separate ticket can be purchased if a separate seat is desired. Children aged 4 and over pay the full FIP adult fare.[^1]
+
+There are no further FIP discounts for children, however, public fares offer a 30 to 50% discount, making a comparison worthwhile.[^2]
+
+Children under 12 must be accompanied by an adult. Children aged 12–15 can travel with a responsible person aged 16 or over, or as an unaccompanied minor with the correct paperwork.[^2]
 
 ## Special Tariff Conditions
 
@@ -206,17 +217,13 @@ Checking available ticket quotas is possible via the following websites:
 - [Interrail Website](https://www.interrail.eu/en/book-reservations) \
    Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
 - [Traivelling](https://traivelling.com/home) \
-   Select the _FIP 50%_ discount. Tickets are also sold here, but we cannot comment on the legitimacy of this offer.
+   More information in the [corresponding booking section](#traivelling-website).
 
 ### Connections
 
 #### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
-Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/en/am-i-eligible-for-hotnat/) can be used.
-
-If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
-
-HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
+Through tickets cannot be purchased for Eurostar. However, HOTNAT (Hop on the Next Available Train) can be used to protect connections during transfers. [More information in the FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Transfer in London)
 
@@ -249,8 +256,8 @@ Without FIP discount, online booking is possible via [Trainsplit](https://trains
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
-[^2]: DB Travel Market
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)

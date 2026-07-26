@@ -70,7 +70,7 @@ params:
         [Dein Name]
 ---
 
-Ffestiniog Travel hat direkten Zugriff auf die Buchungssysteme vieler Bahnbetreiber und kann Tickets für viele Züge in Europa anbieten.
+Ffestiniog Travel hat direkten Zugriff auf die Buchungssysteme vieler Bahnbetreiber und kann Tickets für viele Züge in Europa anbieten.[^1]
 Ausnahmen sind Frankreich (SNCF) und Norwegen (Vy Group).
 
 Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
@@ -87,6 +87,4 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 
 {{% /booking-section %}}
 
-## Quellen
-
-[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+[^1]: [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)

@@ -308,6 +308,8 @@ For the `ECE` Frankfurt – Milan, through FIP 50 Tickets to Milan can be booked
 
 {{% booking id="fs-ticket-office" /%}}
 
+{{% booking id="sz-ticket-office" subtitle="For cross-border trains between Slovenia and Italy" /%}}
+
 {{% booking id="db-ticket-office"
   classes.first="€ 3 / € 25"
   classes.second="€ 3 / € 25"

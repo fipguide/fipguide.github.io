@@ -4,8 +4,8 @@ title: "CFR Călători Ticketschalter"
 description: "Buchungsinformationen für die CFR Călători Ticketschalter."
 params:
   classes:
-    first: "5 RON / 1 RON"
-    second: "5 RON / 1 RON"
+    first: "6,5 RON / 4,5 RON"
+    second: "6,5 RON / 4,5 RON"
   fip_50: true
   reservations: true
   additional_info_link: "https://www.cfrcalatori.ro/en/services-major-railstations/"
@@ -25,7 +25,7 @@ Eine Übersicht der internationalen Ticketschalter ist auf der [CFR Călători W
 
 ## Reservierungen
 
-Sitz- und Stehplatzreservierungen für nationale Relationen können vor Ort zu einem Preis von 5 RON auf Fern- bzw. 1 RON für `R` Züge erworben werden. Bei Nutzung eines FIP Freifahrtscheins muss dieser dafür vorgelegt werden. Die Nummer des Freifahrtscheins wird dann mit auf das Ticket gedruckt.
+Sitz- und Stehplatzreservierungen für nationale Relationen können vor Ort zu einem Preis von 6,5 RON auf Fern- bzw. 4,5 RON für `R` Züge erworben werden. Bei Nutzung eines FIP Freifahrtscheins muss dieser dafür vorgelegt werden. Die Nummer des Freifahrtscheins wird dann mit auf das Ticket gedruckt.
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /booking-section %}}

@@ -22,9 +22,9 @@ The connection from Podgorica to Shkoder (Albania) exists, but is currently only
 
 {{% expander "Border Points" border %}}
 
-| Country     | Border Points     |
-| ----------- | ----------------- |
-| Serbia (SV) | Bijelo Polje (Gr) |
+| Country                                        | Border Points     |
+| ---------------------------------------------- | ----------------- |
+| [Serbia](/country/serbia) ([SV](/operator/sv)) | Bijelo Polje (Gr) |
 
 {{% /expander %}}
 

@@ -72,4 +72,4 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 
 {{% satellite /%}}
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)

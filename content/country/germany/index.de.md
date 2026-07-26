@@ -161,7 +161,7 @@ MS = Mitte See
 
 ### Dänemark
 
-Von Dänemark aus kann der durchgängige `ECE` Kopenhagen – Hamburg genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich `IC` Züge von Fredericia bis Flensburg.
+Von Dänemark aus kann der durchgängige `ECE` Kopenhagen – Hamburg genutzt werden, der mehrfach täglich (in der Hauptsaison alle 2 Stunden) verkehrt. Teilweise verkehrt dieser als `RJ` auf der Strecke Kopenhagen – Hamburg – Berlin – Prag. Diese Züge sind immer sehr stark ausgelastet, daher ist eine frühzeitige Buchung einer Reservierung dafür empfehlenswert. Alternativ gibt es mehrfach täglich `IC` Züge von Fredericia bis Flensburg.
 
 Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DSB auf dänischer Seite noch die DB auf deutscher Seite fährt, sind FIP-Ermäßigungen auf dieser Route nicht möglich. Alternativ gibt es die Möglichkeit, per Fähre nach Puttgarden oder Warnemünde einzureisen.
 

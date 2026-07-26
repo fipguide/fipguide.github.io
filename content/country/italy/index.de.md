@@ -33,7 +33,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 | Land                                                                               | Grenzpunkte                                                                                         |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb))                             | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slowenien (SŽ)                                                                     | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Slowenien](/country/slovenia) ([SŽ](/operator/sz))                                | Nova Gorica (fr), Villa Opicina (fr)                                                                |
 | [Griechenland](/country/greece) ([Attica](/operator/attica))                       | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [Frankreich](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
@@ -54,12 +54,9 @@ Bei Nutzung dieser Routen gilt die ÖBB Freifahrt zwar auch im italienischen Abs
 
 ### Slowenien
 
-Aus Slowenien kann mit Regionalzügen über Villa Opicina eingereist werden. Dafür werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP 50 Ticket benötigt. Die Anreise sollte jedoch gut geplant sein, da diese Züge nur selten fahren.
+Aus Slowenien kann mit Regionalzügen von Ljubljana über Sezana nach Triest eingereist werden. Täglich gibt es zwei Regionalzüge pro Richtung, wobei einer davon bereits in Udine startet (Stand 2026). In Villa Opicina müssen Fahrgäste aus dem Zug der SŽ in den der FS wechseln. In Fahrplänen und Verbindungssuchen ist diese Route nicht immer vollständig hinterlegt. Beispielsweise kennt die SŽ diese Verbindung nur bis und die FS ab Villa Opicina. Teilweise werden die Züge jedoch auch als durchgehend angezeigt. Für den grenzüberschreitenden Abschnitt werden FIP Freifahrtscheine beider Länder (FS und SŽ) oder ein durchgehendes FIP rabattiertes Ticket benötigt.
 
-Außerdem existieren Eurocity Verbindungen aus Österreich über Slowenien nach Triest (`EC` 151/134): \
-Dabei gilt im italienischen Abschnitt (Villa Opicina – Trieste) der ÖBB FIP Coupon, wobei hier ein geringer Fernverkehrszuschlag zu zahlen ist. Dieser ist aber deutlich niedriger als die typischen FS Fernverkehrszuschläge.
-
-Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren.
+Der Grenzübergang Nova Gorica (Strecke Gorizia Centrale – Nova Gorica) wird nur zu besonderen Anlässen im Personenverkehr befahren. Stattdessen kann dieser Abschnitt aber zu Fuß oder mit dem Bus absolviert werden.
 
 {{% highlight tip %}}
 Die Buchung von FIP Tickets für den grenzüberschreitenden Abschnitt zwischen Slowenien und Italien ist online nicht möglich. Über die Trenitalia können jedoch sehr günstige grenzüberschreitende Normalpreistickets erworben werden. Diese sind bei der SŽ teurer.
@@ -79,12 +76,12 @@ Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza übe
 
 ### Schweiz
 
-Aus der Schweiz kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen nach Italien gereist werden. Mailand kann sowohl über Como als auch über Domodossola aus dem Schweizer Netz erreicht werden. Die Züge über Como kommen meist aus Richtung Zürich, die über Domodossola aus Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist eine Reservierung nötig, die einen Aufschlag beinhaltet. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt – Mailand sowie die `EC` Züge Zürich – Mailand.
+Aus der Schweiz kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen nach Italien gereist werden. Mailand kann sowohl über Como als auch über Domodossola aus dem Schweizer Netz erreicht werden. Die Züge über Como kommen meist aus Richtung Zürich, die über Domodossola aus Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist ein Aufpreis sowie eine Reservierung nötig. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt - Mailand sowie die `EC` Züge Zürich - Mailand.
 
-Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet die Reservierung bzw. Aufpreis nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
+Der Aufpreis für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet der Aufpreis nur 11 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 
 {{% highlight tip %}}
-Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine sehr viel kostengünstigere Option sein. Die komfortablere, aber teurere Variante, bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
+Bei der Verbindung Mailand – Como – Schweiz kann es sich lohnen zwischen Mailand und Chiasso (erster Bahnhof in der Schweiz) mit dem Regionalverkehr (`RE` 80) zu fahren. Auf der Strecke verkehrt Trenord, die keine FIP-Tickets anerkennen. Jedoch ist das Ticket online auf der Seite der Trenord buchbar und vergleichsweise günstig, im Gegensatz zu der benötigten grenzüberschreitenden Reservierung in den Eurocity-Zügen. Ein Umstieg in Chiasso kann daher eine kostengünstigere Option sein. Die komfortablere, aber teurere Variante, bleiben jedoch die durchgehenden `EC` und `ECE` Züge.
 {{% /highlight %}}
 
 ### Vatikanstadt

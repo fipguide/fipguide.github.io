@@ -45,7 +45,7 @@ Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieb
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
-**Kosten für Reservierung:** 5 RON
+**Kosten für Reservierung:** 6,5 RON
 {{% /train-category %}}
 
 {{% train-category
@@ -65,7 +65,7 @@ Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieb
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
-**Kosten für Reservierung:** 5 RON bei nationalen Relationen
+**Kosten für Reservierung:** 6,5 RON bei nationalen Relationen
 {{% /train-category %}}
 
 {{% train-category
@@ -87,7 +87,7 @@ Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrie
 
 Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schlafplatz. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
-**Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
+**Kosten für Reservierung:** 6,5 RON für Sitz- und Stehplätze auf nationalen Relationen
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
@@ -111,7 +111,7 @@ Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. F
 
 Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindungsauskunft). Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
-**Kosten für Reservierung:** 5 RON für Sitz- und Stehplätze auf nationalen Relationen
+**Kosten für Reservierung:** 6,5 RON für Sitz- und Stehplätze auf nationalen Relationen
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
 {{% /train-category %}}
@@ -133,7 +133,7 @@ Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betriebe
 
 Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
 
-**Kosten für Reservierung:** 1 RON
+**Kosten für Reservierung:** 4,5 RON
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -174,4 +174,4 @@ Die CFR Călători stellt auf dem größtenteils in die Jahre gekommenen Schiene
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)

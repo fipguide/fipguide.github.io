@@ -319,6 +319,8 @@ Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets un
 Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 {{% /booking %}}
 
+{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
+
 ### Im Zug
 
 Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bordzuschlag erhoben (außer in Fällen, in denen es am Abfahrtsbahnhof keine Verkaufsstellen oder Fahrkartenautomaten gibt).
@@ -419,6 +421,10 @@ Tickets für nicht zuggebundene Regionalzüge (_non prenotabile_) müssen am Bah
 ### Fahrtunterbrechnung
 
 Eine Unterbrechung der Fahrt ist in Fernzügen nicht gestattet. In Regionalzügen ist eine Fahrtunterbrechnung ohne Ankündigung oder Formalitäten möglich, außer es handelt sich um zuggebundene FIP 50 Tickets mit aufgedruckter Zugnummer (siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)).
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

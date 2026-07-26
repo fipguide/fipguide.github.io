@@ -127,6 +127,6 @@ Auf ihrer Website bietet die ŁKA eine [Live-Karte](https://infoportal.lka.lodzk
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Ticketverkauf im Zug](https://lka.lodzkie.pl/obsluga-pociagu/)

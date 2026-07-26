@@ -72,4 +72,4 @@ Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, 
 
 {{% satellite /%}}
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)

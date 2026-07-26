@@ -233,6 +233,10 @@ No FIP discounts are granted on the following routes:
 - Mürren – Allmendhubel funicular (SMA)
 - Stechelberg – Mürren – Schilthorn aerial cableway (LSMS)
 
+{{% highlight inofficial %}}
+It has been reported to us that the transport of winter sports equipment (skis, snowboards) on the Jungfrau Railways is not possible when using FIP.
+{{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -405,6 +409,7 @@ FIP is only partially valid on the routes listed below; on the other routes neit
     fip_accepted=partially
     reservation_required=false
 %}}
+
 RBS is a regional transport company and operates four metre-gauge railway lines in the cantons of Bern and Solothurn. These are partly integrated into the Bern S-Bahn. FIP is recognized on all routes, except for the S9 and tram line 6. In addition, RBS also operates bus lines on which FIP is fully recognized. [^2]
 
 #### Scheduled routes
@@ -851,6 +856,9 @@ Transfer points where you can change between rail and ship are:
 {{% booking id="sbb-website"
   subtitle="Many SP journeys can also be booked via the SBB website."/%}}
 
+{{% booking id="rhb-website"
+    subtitle="Only for the Berninabahn (Tirano – St. Moritz)"/%}}
+
 {{% booking id="db-website"
   subtitle="Reservations can be purchased for selected SP connections."/%}}
 
@@ -906,6 +914,6 @@ When traveling with a Coupon, it is advisable, if possible, also to have the Cou
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)

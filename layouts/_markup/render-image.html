@@ -1,0 +1,25 @@
+{{- $page := .Page -}}
+{{- with .Attributes.page -}}
+  {{- with site.GetPage . -}}
+    {{- $page = . -}}
+  {{- end -}}
+{{- end -}}
+
+
+<!-- Local picture with image processing -->
+{{- $image := "" -}}
+<!-- Check the page context first -->
+{{- with $page.Resources.Get .Destination -}}
+  {{- $image = . -}}
+{{- else -}}
+  <!-- Otherwise look for the image in the static folders -->
+  {{- with resources.Get .Destination -}}
+    {{- $image = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $image -}}
+  {{- partial "image" (dict "image" $image "caption" .Text) -}}
+{{- else -}}
+  {{- warnf "Image resource '%s' could not be found. Used in '%s'" .Destination $page.File.Path -}}
+{{- end -}}

@@ -67,4 +67,4 @@ Reisehighlights mit der KMŁ sind u. a. zum bekannten Freizeitpark Energylandia 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

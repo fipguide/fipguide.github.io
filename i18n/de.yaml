@@ -209,6 +209,7 @@ news:
   all: Alle News
   further: Weitere News
   headline: Was gibt's Neues?
+  updated: Aktualisiert am
 operators:
   descriptionTemplate: >-
     Informationen über die FIP-Bedingungen bei %s: Gültigkeit, Ticket- und

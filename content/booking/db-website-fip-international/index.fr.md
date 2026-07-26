@@ -23,7 +23,7 @@ aliases:
 
 Des Billets FIP 50 pour des trajets en Allemagne et vers les pays voisins peuvent être réservés en ligne via la Deutsche Bahn. Le billet doit obligatoirement inclure au moins une section en Allemagne. Le Billet FIP 50 est émis pour l’ensemble du trajet. Il **n’est pas valable dans le pays où la Carte FIP a été délivrée** — un billet supplémentaire est requis pour cette partie.
 
-Les employés et employées des ÖBB, SBB et PKP peuvent également réserver des billets qui ne sont valables que pour la section allemande du trajet. Pour la section du trajet dans leur propre pays, un billet supplémentaire est requis, car le prix du billet est calculé uniquement à partir de la frontière allemande. **Le billet n’est pas valable dans le pays d’émission de la Carte FIP**.
+Les employés et employées des CFL, DSB, NS, ÖBB, PKP et SBB peuvent également réserver des billets qui ne sont valables que pour la section allemande du trajet. Pour la section du trajet dans leur propre pays, un billet supplémentaire est requis, car le prix du billet est calculé uniquement à partir de la frontière allemande. **Le billet n’est pas valable dans le pays d’émission de la Carte FIP**.
 
 La réservation est uniquement possible via ce [lien](https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE). Il n’est pas nécessaire de sélectionner une réduction : elle s’applique automatiquement.
 

@@ -146,7 +146,7 @@ A ticket purchased online can be cancelled at the ticket office or via the [tele
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
 

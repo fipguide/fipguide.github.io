@@ -33,8 +33,8 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 | Pays                                                                           | Points frontières                                                                                   |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slovénie (SŽ)                                                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
-| [Grèce](/country/greece) (Attica)                                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
+| [Slovénie](/country/slovenia) ([SŽ](/operator/sz))                             | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Grèce](/country/greece) ([Attica](/operator/attica))                          | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [France](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
 
@@ -54,11 +54,11 @@ Sur ces itinéraires, le Billet FIP ou le Coupon FIP ÖBB est également valable
 
 ### Slovénie
 
-Depuis la Slovénie, il est possible d’entrer en Italie par des trains régionaux via Villa Opicina. Les Billets FIP ou Coupons FIP des deux pays (FS et SŽ) ou un Billet FIP 50 direct sont nécessaires. Ces trains circulent rarement, il est donc conseillé de bien planifier son voyage.
+Depuis la Slovénie, des trains régionaux permettent d’entrer en Italie depuis Ljubljana via Sežana jusqu’à Trieste. Il y a deux trains régionaux par jour et par sens, dont l’un part déjà d’Udine (à partir de 2026). À Villa Opicina, les passagers doivent changer de train, du train SŽ au train FS. Dans les horaires et les planificateurs de trajet, cet itinéraire n’est pas toujours entièrement affiché. Par exemple, la SŽ ne connaît parfois la liaison que jusqu’à Villa Opicina et FS seulement à partir de Villa Opicina. Parfois, les trains sont toutefois affichés comme directs.
 
-Il existe aussi des liaisons Eurocity depuis l’Autriche via la Slovénie vers Trieste (`EC` 151/134). Sur le tronçon italien (Villa Opicina – Trieste), le Coupon FIP ÖBB est valable, mais un petit supplément longue distance doit être payé, nettement inférieur aux suppléments habituels de la FS.
+Pour la section transfrontalière, un Coupon FIP des deux pays (FS et SŽ) ou un Billet FIP 50 continu est nécessaire.
 
-Le passage frontalier de Nova Gorica (ligne Gorizia Centrale – Nova Gorica) n’est utilisé en trafic voyageurs qu’à des occasions particulières.
+Le passage frontalier de Nova Gorica (Gorizia Centrale – Nova Gorica) n’est utilisé en trafic voyageurs qu’à des occasions particulières. Il est possible de parcourir cette section à pied ou en bus.
 
 {{% highlight tip %}}
 La réservation de Billets FIP ou Coupons FIP pour le tronçon transfrontalier entre la Slovénie et l’Italie n’est pas possible en ligne. Cependant, il est possible d’acheter des billets ordinaires très bon marché pour ce tronçon via Trenitalia. Ils sont plus chers via la SŽ.
@@ -78,12 +78,12 @@ Les trains régionaux transfrontaliers de la SNCF peuvent être utilisés depuis
 
 ### Suisse
 
-Depuis la Suisse, on peut voyager en Italie aussi bien par des trains longue distance que régionaux. Milan est accessible via Côme ou Domodossola depuis le réseau suisse. Les trains via Côme viennent généralement de Zurich, ceux via Domodossola de Berne et Bâle. Les deux itinéraires proposent des liaisons Eurocity et des trains régionaux. Les autres passages frontaliers ne sont accessibles que par trains régionaux. Pour les Eurocity transfrontaliers, une réservation est obligatoire, incluant un supplément. Le train `ECE` Francfort – Milan et les trains `EC` Zurich – Milan circulent également.
+Depuis la Suisse, on peut voyager en Italie aussi bien par des trains longue distance que régionaux. Milan est accessible via Côme ou Domodossola depuis le réseau suisse. Les trains via Côme viennent généralement de Zurich, ceux via Domodossola de Berne et Bâle. Les deux itinéraires proposent des liaisons Eurocity et des trains régionaux. Les autres passages frontaliers ne sont accessibles que par trains régionaux. Pour les Eurocity transfrontaliers, un supplément ainsi qu’une réservation sont obligatoires. Le train `ECE` Francfort - Milan et les trains `EC` Zurich - Milan circulent également.
 
-Le supplément ou le prix de la réservation pour les trains transfrontaliers `EC`/`ECE` vers l’Italie est de 20 € (1ʳᵉ/2ᵉ classe). Si la réservation est effectuée dans un centre DB, le supplément n’est que de 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
+Le supplément pour les trains transfrontaliers `EC`/`ECE` vers l’Italie est de 20 € (1ʳᵉ/2ᵉ classe). Si la réservation est effectuée dans un centre DB, le supplément n’est que de 11 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) et inclut une réservation de siège (par exemple jusqu’à Francfort).
 
 {{% highlight tip %}}
-Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option beaucoup plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
+Pour la liaison Milan – Côme – Suisse, il peut être intéressant de voyager entre Milan et Chiasso (première gare en Suisse) en train régional (`RE` 80). Trenord exploite cette ligne et n’accepte pas les Billets FIP ou Coupons FIP. Cependant, les billets sont disponibles en ligne sur le site de Trenord et sont relativement bon marché, contrairement à la réservation transfrontalière obligatoire dans les Eurocity. Un changement à Chiasso peut donc être une option plus économique. L’option plus confortable mais plus chère reste les trains directs `EC` et `ECE`.
 {{% /highlight %}}
 
 ### Vatican

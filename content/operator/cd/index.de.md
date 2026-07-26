@@ -69,11 +69,13 @@ Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Z
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
 %}}
-Die Railjet-Züge verbinden Brno und Prag schnell und komfortabel und bieten zudem eine Direktverbindung über Břeclav nach Wien und Graz. Sie halten nur an den wichtigsten Bahnhöfen. Auch die internationalen ComfortJet-Züge zwischen Prag und Deutschland bzw. Dänemark fallen ab Dezember 2025 unter diese Kategorie. Es gibt meist drei Wagenklassen:
+Die Railjet-Züge verbinden Brno und Prag schnell und komfortabel und bieten zudem eine Direktverbindung über Břeclav nach Wien und Graz. Sie halten nur an den wichtigsten Bahnhöfen. Auch die internationalen ComfortJet-Züge zwischen Prag und Deutschland bzw. Dänemark fallen unter diese Kategorie.
 
-**Economy**: Vergleichbar mit der 2. Klasse. \
-**First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
-**Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
+Es gibt meist drei Wagenklassen:
+
+- **Economy**: Vergleichbar mit der 2. Klasse.
+- **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt.
+- **Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
 
 Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, allerdings mit blauer Außengestaltung. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden. Speisen und Getränke sind im Bordrestaurant oder per Am-Platz-Service erhältlich. In der 1. Klasse erhalten Fahrgäste kostenlos eine Flasche Wasser und eine Tageszeitung, in der Business Class zusätzlich ein Begrüßungsgetränk sowie einen Gutschein im Wert von 50 CZK für das Restaurantangebot (nur innerhalb Tschechiens). Für Kinder gibt es ein eigenes Kinderkino mit speziellen Programmen.
 
@@ -267,18 +269,14 @@ Auf einigen Routen und Regionen gelten keine FIP Vergünstigungen, obwohl die Ve
 
 Für eine Übersicht der Gültigkeit kann die Übersichtskarte hier verwendet werden. Ausführlichere Informationen finden sich in der Detailkarte und den konkreten Regelungen in den folgenden Abschnitten zu [ČD Kommerzielle Verbindungen (zuschlagspflichtig)](#čd-kommerzielle-verbindungen-zuschlagspflichtig) und [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip).
 
-<div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="FIP Gültigkeitskarte Überblick für Tschechien" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Überblick FIP Gültigkeitskarte (Vollbild)</a> für Tschechien (© Petr Duda)</figcaption>
-  </figure>
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="FIP Gültigkeitskarte Detail für Tschechien" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Detail FIP Gültigkeitskarte (Vollbild)</a> für Tschechien (© Petr Duda)</figcaption>
-  </figure>
-</div>
+{{% columns %}}
+{{% column width="50%" %}}
+![[Überblick FIP Gültigkeitskarte (Vollbild)](/de/operator/cd/cd-fip-map-overview-26.webp) für Tschechien (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Detail FIP Gültigkeitskarte (Vollbild)](/de/operator/cd/cd-fip-map-detail-26.webp) für Tschechien (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
 
 ### ČD Kommerzielle Verbindungen (zuschlagspflichtig)
 
@@ -682,13 +680,17 @@ FIP Ermäßigungen gelten nicht in Spezialzügen und bei historischen Fahrten, d
 
 FIP Tickets sind auf den durchgehenden Strecken 083 und 098 (Děčín – Rumburk über Dolní Žleb und Dolní Poustevna und zurück) auch für Fahrten gültig, bei denen Tschechien verlassen und wieder betreten wird. Allerdings darf ein Aus- oder Einstieg dann nicht an einem internationalen Bahnhof erfolgen.
 
-### Fahrtunterberchungen
+### Fahrtunterbrechungen
 
 Eine Fahrtunterbrechung ist bei inländischen Verbindungen mit einer Reiseentfernung von bis zu 100 km nicht gestattet. Bei Reiseentfernungen ab 101 km ist eine Fahrtunterbrechung möglich (allerdings nicht an einem internationalen Bahnhof).
 
 ### Schienenersatzverkehr
 
 In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ## Empfehlungen
 
@@ -700,7 +702,7 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

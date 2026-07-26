@@ -86,7 +86,7 @@ Les informations suivantes doivent être indiquées dans l’e-mail:
 - Type de cabine (Standard, Supérieure et Deluxe)
 - Nom de voyageurs tel qu’il figure sur leur passeport
 - Numéro et date d’expiration du passeport
-- **Uniquement pour les Billets FIP 50:** Copie(s) des Cartes FIP (recto et verso) de tous les voyageurs
+- **Uniquement pour les Billets FIP 50:** Carte FIP
 - **Uniquement pour les réservations avec Coupon FIP:** Numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage
 
 En règle générale, Stena Line vous envoie deux e-mails de réponse. Le premier e-mail confirme la demande de réservation. Le deuxième e-mail vous propose une option de paiement via pay per link. Vous devez alors saisir les données de votre carte de crédit.
@@ -110,7 +110,7 @@ Les billets FIP 50 peuvent être réservés.
 
 Les réservations de cabine sont disponibles et obligatoires pour les traversées de nuit.
 
-{{% highlight warning %}}
+{{% highlight important %}}
 Pour les réservations, le numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
 {{% /highlight %}}
 

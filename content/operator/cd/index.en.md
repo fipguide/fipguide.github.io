@@ -69,11 +69,13 @@ Reservation prices are variable (see [trains with mandatory reservations](#train
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
 %}}
-Railjet trains connect Brno and Prague quickly and comfortably and also offer a direct connection via Břeclav to Vienna and Graz. They stop only at major stations. From December 2025, international ComfortJet trains between Prague and Germany/Denmark will also fall under this category. There are usually three classes:
+Railjet trains connect Brno and Prague quickly and comfortably and also offer a direct connection via Břeclav to Vienna and Graz. They stop only at major stations. International ComfortJet trains between Prague and Germany or Denmark also fall under this category.
 
-**Economy**: Comparable to 2nd class. \
-**First Class**: Comparable to 1st class. An FIP pass for 1st class is required. \
-**Business**: 1st class with welcome drink and private compartments. Not usable with FIP Coupon (even with surcharge).
+There are usually three classes:
+
+- **Economy**: Comparable to 2nd class.
+- **First Class**: Comparable to 1st class. An FIP pass for 1st class is required.
+- **Business**: 1st class with welcome drink and private compartments. Not usable with FIP Coupon (even with surcharge).
 
 The trains feature modern rolling stock in the ÖBB Railjet style, but with blue exterior. Bicycles, prams, and other bulky luggage can be taken on board. Food and drinks are available in the restaurant car or via at-seat service. In 1st class, passengers receive a free bottle of water and a newspaper; in Business Class, additionally a welcome drink and a 50 CZK voucher for the restaurant (within Czechia only). For children, there is a dedicated children's cinema.
 
@@ -267,18 +269,14 @@ On some routes and in some regions, FIP benefits are not valid, even if the serv
 
 For an overview of validity, the overview map can be used here. More detailed information can be found in the detailed map and the specific rules in the following sections on [ČD Commercial Services (Surcharge Required)](#čd-commercial-services-surcharge-required) and [ČD Services Without FIP](#čd-services-without-fip).
 
-<div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-overview-26.webp" alt="FIP validity map overview for Czechia" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-overview-26.webp">Overview FIP validity map (full view)</a> for Czechia (© Petr Duda)</figcaption>
-  </figure>
-  <figure style="flex:1; margin:0;">
-    <img src="/en/operator/cd/cd-fip-map-detail-26.webp" alt="FIP validity map detail for Czechia" style="width:100%; height:auto; display:block;" />
-    <hr aria-hidden="true" />
-    <figcaption><a href="/en/operator/cd/cd-fip-map-detail-26.webp">Detailed FIP validity map (full view)</a> for Czechia (© Petr Duda)</figcaption>
-  </figure>
-</div>
+{{% columns %}}
+{{% column width="50%" %}}
+![[Overview FIP validity map (full view)](/en/operator/cd/cd-fip-map-overview-26.webp) for Czechia (© Petr Duda)](cd-fip-map-overview-26.webp)
+{{% /column %}}
+{{% column width="50%" %}}
+![[Detailed FIP validity map (full view)](/en/operator/cd/cd-fip-map-detail-26.webp) for Czechia (© Petr Duda)](cd-fip-map-detail-26.webp)
+{{% /column %}}
+{{% /columns %}}
 
 ### ČD Commercial Services (Surcharge Required)
 
@@ -690,6 +688,10 @@ A break of journey is not permitted on domestic journeys up to 100 km. For journ
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
 The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can be used with a first-class FIP 50 Ticket or a FIP Coupon. They can also be accessed with a second-class ticket in combination with a seat reservation. [^2]
@@ -700,7 +702,7 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

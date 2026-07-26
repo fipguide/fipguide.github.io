@@ -190,7 +190,7 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 
 ## Quellen
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#StenaBV)
 
 [^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 

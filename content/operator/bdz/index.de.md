@@ -127,4 +127,4 @@ Die BDŽ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)

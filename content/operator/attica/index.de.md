@@ -123,6 +123,6 @@ Ein Sitzplatz-Upgrade für jede Kabine (außer LUX) ist mit einem Rabatt von 25 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)

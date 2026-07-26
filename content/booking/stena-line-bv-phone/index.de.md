@@ -23,7 +23,7 @@ Die folgenden Daten sollten bereitgehalten werden:
 - Kabinentyp (Standard, Superior oder Deluxe)
 - Name der Reisenden wie auf dem Reisepass
 - Reisepassnummer und Gültigkeitsdatum
-- **Nur für FIP 50 Tickets:** Kopie des FIP-Ausweises (Vorder- und Rückseite)
+- **Nur für FIP 50 Tickets:** FIP-Ausweis
 - **Nur für Reservierungen mit FIP Freifahrtschein:** Nummer des Stena Line BV FIP Freifahrtscheins, der bei der Fahrt genutzt werden soll
 
 {{% booking-section "fip_50" %}}
@@ -40,7 +40,7 @@ FIP 50 Tickets können gebucht werden.
 
 Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
-{{% highlight warning %}}
+{{% highlight important %}}
 Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobal der FIP Freifahrtschein vorliegt.
 {{% /highlight %}}
 

@@ -309,6 +309,8 @@ Pour le `ECE` Francfort – Milan, des Billets FIP 50 directs jusqu’à Milan p
 
 {{% booking id="fs-ticket-office" /%}}
 
+{{% booking id="sz-ticket-office" subtitle="Pour les trains transfrontaliers entre la Slovénie et l’Italie" /%}}
+
 {{% booking id="db-ticket-office"
   classes.first="3 € / 25 €"
   classes.second="3 € / 25 €"

@@ -33,7 +33,7 @@ Italy has an extensive rail network. The fast and high-quality long-distance con
 | Country                                                                             | Border Points                                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb))                                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| Slovenia (SŽ)                                                                       | Nova Gorica (fr), Villa Opicina (fr)                                                                |
+| [Slovenia](/country/slovenia) ([SŽ](/operator/sz))                                  | Nova Gorica (fr), Villa Opicina (fr)                                                                |
 | [Greece](/country/greece) ([Attica](/operator/attica))                              | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
 | [France](/country/france) ([SNCF](/operator/sncf))                                  | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
 | [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
@@ -54,11 +54,11 @@ On these routes, the ÖBB FIP Ticket or FIP Coupon is also valid on the Italian 
 
 ### Slovenia
 
-From Slovenia, regional trains can be used to enter Italy via Villa Opicina. FIP Tickets or FIP Coupons of both countries (FS and SŽ) or a through FIP Ticket (FIP 50) are required. These trains run infrequently, so planning is recommended.
+From Slovenia, regional trains can be used to enter Italy from Ljubljana via Sežana to Trieste. There are two regional trains per day in each direction, with one of them already starting in Udine (as of 2026). At Villa Opicina, passengers must change from the SŽ train to the FS train. In timetables and journey planners, this route is not always fully shown. For example, SŽ may only know the connection up to Villa Opicina and FS only from Villa Opicina. Sometimes the trains are displayed as through services.
 
-There are also Eurocity connections from Austria via Slovenia to Trieste (`EC` 151/134). On the Italian section (Villa Opicina – Trieste), the ÖBB FIP Coupon is valid, but a small long-distance surcharge must be paid, which is much lower than typical FS long-distance surcharges.
+For the cross-border section, FIP Coupons from both countries (FS and SŽ) or a continuous FIP 50 Ticket are required.
 
-The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger traffic on special occasions.
+The border crossing at Nova Gorica (Gorizia Centrale – Nova Gorica) is only used for passenger services on special occasions. Instead, this section can be covered on foot or by bus.
 
 {{% highlight tip %}}
 Booking FIP Tickets or FIP Coupons for the cross-border section between Slovenia and Italy is not possible online. However, very cheap regular tickets for the cross-border section can be purchased via Trenitalia. These are more expensive via SŽ.
@@ -78,12 +78,12 @@ Cross-border regional trains of SNCF can be used from Grasse/Cannes/Nice via Mon
 
 ### Switzerland
 
-From Switzerland, both cross-border long-distance and regional trains can be used to travel to Italy. Milan can be reached via Como or Domodossola from the Swiss network. Trains via Como usually come from Zurich, those via Domodossola from Bern and Basel. Both routes have Eurocity connections and regional trains. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a reservation is required, which includes a surcharge. The `ECE` train Frankfurt – Milan and the `EC` trains Zurich – Milan also operate.
+From Switzerland, both cross-border long-distance and regional trains can be used to travel to Italy. Milan can be reached via Como or Domodossola from the Swiss network. Trains via Como usually come from Zurich, those via Domodossola from Bern and Basel. Both routes have Eurocity connections and regional trains. Other border crossings can only be crossed by regional trains. For cross-border Eurocity trains, a surcharge and reservation are required. The `ECE` train Frankfurt - Milan and the `EC` trains Zurich - Milan also operate.
 
-The surcharge or reservation price for cross-border `EC`/`ECE` trains to Italy is €20 (1st/2nd class). If booked at a DB travel center, the reservation/surcharge is only €10 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+The surcharge for cross-border `EC`/`ECE` trains to Italy is €20 (1st/2nd class). If booked at a DB travel center, the surcharge is only €11 (2nd class) or €13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
 
 {{% highlight tip %}}
-For the Milan – Como – Switzerland route, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates on this route and does not accept FIP Tickets or FIP Coupons. However, tickets are bookable online on the Trenord website and are comparatively cheap, unlike the required cross-border reservation in Eurocity trains. Changing trains in Chiasso can therefore be a much more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
+For the Milan – Como – Switzerland route, it may be worthwhile to travel between Milan and Chiasso (first station in Switzerland) by regional train (`RE` 80). Trenord operates on this route and does not accept FIP Tickets or FIP Coupons. However, tickets are bookable online on the Trenord website and are comparatively cheap, unlike the required cross-border reservation in Eurocity trains. Changing trains in Chiasso can therefore be a more cost-effective option. The more comfortable but expensive option remains the direct `EC` and `ECE` trains.
 {{% /highlight %}}
 
 ### Vatican City

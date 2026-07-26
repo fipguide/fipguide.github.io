@@ -22,9 +22,9 @@ La liaison de Podgorica vers Shkoder (Albanie) existe, mais elle est actuellemen
 
 {{% expander "Points frontières" border %}}
 
-| Pays        | Points frontières |
-| ----------- | ----------------- |
-| Serbie (SV) | Bijelo Polje (Gr) |
+| Pays                                           | Points frontières |
+| ---------------------------------------------- | ----------------- |
+| [Serbie](/country/serbia) ([SV](/operator/sv)) | Bijelo Polje (Gr) |
 
 {{% /expander %}}
 

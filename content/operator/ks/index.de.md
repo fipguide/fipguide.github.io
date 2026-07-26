@@ -120,4 +120,4 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

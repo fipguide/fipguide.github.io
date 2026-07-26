@@ -184,6 +184,6 @@ Die CP bietet regelmäßige Fahrten mit dem "Presidential Train" an. Dies ist ei
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-89)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)

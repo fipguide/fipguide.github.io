@@ -38,6 +38,4 @@ Einzelne nationale Reservierungen können bei der SBB online erworben werden. Da
 ![SBB Reservierung buchen](sbb_reservation.webp)
 {{% /booking-section %}}
 
-## Quellen
-
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

@@ -4,6 +4,12 @@ html {
   scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
 body {
   color: var(--color-body);
   background-color: var(--bg-neutral);
@@ -49,12 +55,6 @@ ol {
   }
 }
 
-button {
-  font-size: 1.8rem;
-  border-radius: var(--border-radius-s);
-  @include focus-indicator(0.2rem);
-}
-
 a,
 .o-link {
   color: var(--link-default);
@@ -72,6 +72,10 @@ a,
   }
 
   @include focus-indicator(0.2rem);
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 
   @media print {
     text-decoration: none;
@@ -284,6 +288,20 @@ figure {
   }
 }
 
+.o-columns {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+
+  @media (max-width: #{$breakpoint-md}) {
+    flex-direction: column;
+
+    > .o-columns__column {
+      flex-basis: 100% !important;
+    }
+  }
+}
+
 .o-single {
   padding: 2rem;
   background-color: var(--bg-default);
@@ -379,10 +397,6 @@ figure {
   height: 1.3em;
   width: auto;
   aspect-ratio: 1 / 1;
-}
-
-button:not(:disabled) {
-  cursor: pointer;
 }
 
 hr {

@@ -83,9 +83,20 @@ Apparently, tickets and reservations can also be booked by email via [info@zpcg.
 However, we do not have official information on this procedure.
 {{% /highlight %}}
 
+### Telephone
+
+{{% booking
+    id="sv-phone"
+    subtitle="Reservation of international trips between Serbia and Montenegro"
+/%}}
+
 ### On-Site
 
 {{% booking id="zpcg-ticket-office" /%}}
+
+{{% booking id="sv-ticket-office"
+    subtitle="For International Trains Only"
+/%}}
 
 ### On the Train
 

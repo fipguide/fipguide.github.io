@@ -488,7 +488,13 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 ### Online
 
-{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
+{{% booking id="gwr-website"
+    subtitle="Alle nationalen Verbindungen"
+/%}}
+
+{{% booking id="gwr-whatsapp"
+    subtitle="Alle nationalen Verbindungen"
+/%}}
 
 {{% booking id="lner-website"
     subtitle="Nur LNER-Verbindungen"
@@ -496,7 +502,7 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 {{% booking id="internationalrail-email" fip_global_fare=nil /%}}
 
-{{% booking id="gwr-whatsapp" /%}}
+{{% booking id="caledonian-sleeper-website" subtitle="Nur Caledonian Sleeper" /%}}
 
 ### Vor Ort
 
@@ -568,9 +574,7 @@ Reguläre Tickets für Kinder können günstiger sein als Tickets mit FIP-Rabatt
   additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
 
-Die Dartmouth Steam Railway and River Boat Company betreibt Fahrten mit Dampflokomotiven und historischen Wagen zwischen Paignton und Kingswear entlang der malerischen englischen Riviera. Die Strecke bietet beeindruckende Ausblicke auf die Küste von Devon und den River Dart. Neben dem Zug ist hier auch die Fähre von Kingswear nach Dartmouth mit im Preis inbegriffen. Der nächstgelegene National Rail Bahnhof ist Paignton – von dort sind es nur etwa 1 Minute Fußweg zum Bahnhof der Museumsbahn.
-
-Der Rabatt beträgt 75% auf den regulären Fahrpreis für Erwachsene.
+Die Dartmouth Steam Railway and River Boat Company betreibt Fahrten mit Dampflokomotiven und historischen Wagen zwischen Paignton und Kingswear entlang der malerischen englischen Riviera. Die Strecke bietet beeindruckende Ausblicke auf die Küste von Devon und den River Dart. Der nächstgelegene National Rail Bahnhof ist Paignton – von dort sind es nur etwa 1 Minute Fußweg zum Bahnhof der Museumsbahn.
 
 {{% /train-category %}}
 

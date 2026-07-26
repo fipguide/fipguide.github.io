@@ -23,7 +23,7 @@ The following details should be kept ready:
 - Cabin type (Standard, Superior or Deluxe)
 - Name of travellers as stated on their passports
 - Passport number and expiry date
-- **Only for FIP 50 Tickets:** Copy of FIP Card (front and back)
+- **Only for FIP 50 Tickets:** FIP Card
 - **Only for reservations with FIP Coupon:** Number of the Stena Line BV FIP Coupon to be used for the journey
 
 {{% booking-section "fip_50" %}}
@@ -40,7 +40,7 @@ FIP 50 Tickets can be booked.
 
 Cabin reservations are available and mandatory for overnight journeys.
 
-{{% highlight warning %}}
+{{% highlight important %}}
 For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
 {{% /highlight %}}
 

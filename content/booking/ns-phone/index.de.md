@@ -16,7 +16,7 @@ Die NS bietet eine Buchungshotline für Tickets und Reservierungen an:
 
 Für die Buchung ist eine Kreditkarte erforderlich, die Bezahlung erfolgt per Link, welcher per E-Mail zugesandt wird.
 
-Die Hotline ist täglich von 7 Uhr bis 23 Uhr erreichbar.
+Die Hotline ist montags bis freitags von 7 Uhr bis 19 Uhr und samstags und sonntags von 8:30 Uhr bis 17 Uhr erreichbar.
 
 {{% satellite /%}}
 

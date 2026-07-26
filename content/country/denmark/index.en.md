@@ -58,7 +58,7 @@ Since FIP discounts do not apply in Sweden and the Øresund route is operated by
 
 ### Germany
 
-From Germany, the direct `EC` Hamburg - Copenhagen can be used, operating multiple times daily (every 2 hours during the peak season). These trains are always very crowded, so early reservation booking is recommended.
+From Germany, the direct `ECE` Hamburg - Copenhagen can be used, operating multiple times daily (every 2 hours during the peak season). Some services operate as `RJ` on the Prague - Berlin - Hamburg - Copenhagen route. These trains are always very crowded, so early reservation booking is recommended.
 
 Alternatively, there are multiple daily `IC` trains from Flensburg to Fredericia, with good connections to Aarhus/Aalborg and Copenhagen.
 

@@ -95,7 +95,7 @@ Titulaires de la carte FIP bénéficient d’une réduction de 50 % sur le zelle
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
 [^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
 
