@@ -71,5 +71,6 @@
     {{- $content | safeHTML -}}
   </div>
 
-  {{- partial "booking-links" (dict "params" .page.Params "metaFields" $metaFields) -}}
+  {{ partial "booking-links" .page }}
+  {{- partial "booking-links-email-templates" (dict "params" .page.Params "metaFields" $metaFields) -}}
 </div>
