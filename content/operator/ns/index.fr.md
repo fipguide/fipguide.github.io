@@ -149,7 +149,9 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
 
 {{% highlight confusion %}}
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
+Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
+
+Une exception s’applique au Train des Trois Pays (Liège-Guillemins – Maastricht – Heerlen – Aix-la-Chapelle) : entre Maastricht et Liège-Guillemins, le train est exploité pour le compte de la NS et de la SNCB, et les billets NS/SNCB incluant le FIP restent valables. Entre Maastricht et Aix-la-Chapelle (via Heerlen), le train est exploité par Arriva et le FIP n’est pas valable.
 {{% /highlight %}}
 {{% /train-category %}}
 

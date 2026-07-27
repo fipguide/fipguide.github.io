@@ -48,6 +48,14 @@ Von den Niederlanden aus können grenzüberschreitende Regionalzüge (dazu gehö
 
 Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Netz der SNCB erreicht werden. Hier wird ein spezielles FIP Ticket von Eurostar auf dem kompletten Abschnitt (auch innerhalb von Belgien) benötigt. ([siehe Eurostar](/operator/eurostar "Eurostar"))
 
+#### Dreiländerzug (Liège – Maastricht – Heerlen – Aachen)
+
+Seit Juni 2024 betreibt Arriva den Dreiländerzug zwischen Aachen (Deutschland), Heerlen (Niederlande), Maastricht (Niederlande) und Liège-Guillemins (Belgien). Auf dem Abschnitt zwischen Liège-Guillemins und Maastricht wird der Zug im Auftrag der SNCB (belgischer Abschnitt) und der NS (niederländischer Abschnitt bis Maastricht) betrieben. SNCB- und NS-Tickets, einschließlich FIP, bleiben auf diesem Abschnitt gültig.[^4]
+
+{{% highlight important %}}
+FIP ist zwischen Liège-Guillemins und Maastricht gültig. Jenseits von Maastricht in Richtung Heerlen und Aachen wird der Zug von Arriva betrieben und FIP ist auf diesem Abschnitt nicht gültig.
+{{% /highlight %}}
+
 ### Deutschland
 
 #### Fernverkehr
@@ -89,3 +97,5 @@ Außerdem gibt es verschiedene `TER` Regionalzugverbindungen von Frankreich nach
 [^2]: [DB Presse: ICE zum Flughafen Brüssel](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)
 
 [^3]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)
+
+[^4]: [Arriva Dreiländerzug](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)
