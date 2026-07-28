@@ -53,7 +53,7 @@ Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
@@ -76,7 +76,7 @@ Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
@@ -95,7 +95,7 @@ Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
@@ -127,9 +127,7 @@ Fast trains mostly outside high-speed lines.
 
 #### Reservierungen
 
-**Cost:** € 3 (1st/2nd class)
-
-The reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
@@ -144,9 +142,7 @@ The reservation price always includes a surcharge when using a FIP Coupon.
 
 National night train with sleeper, couchette, and seat cars.
 
-**Cost:** € 25 (1st/2nd class, seat car)
-
-The reservation price always includes a surcharge when using a FIP Coupon. For couchette or sleeper, an additional supplement applies.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices. For couchette or sleeper, an additional supplement applies.
 
 {{% /train-category %}}
 
@@ -164,8 +160,6 @@ The reservation price always includes a surcharge when using a FIP Coupon. For c
 International fast trains to Germany, Austria, and Switzerland.
 
 #### Reservations
-
-**Cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 Different costs for Brenner route (Brenner supplement):
 
@@ -276,12 +270,6 @@ Le Frecce long-distance trains have special class categories. [^1]
 
 ### Online
 
-{{% booking id="fs-website" %}}
-{{% highlight inofficial %}}
-We are currently receiving increasing feedback that booking FIP Tickets and reservations on the FS website is not possible. It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
-{{% /highlight %}}
-{{% /booking %}}
-
 {{% booking id="db-website-fip-db"
     subtitle="Only ECE trains from Milan to Germany or EC trains on the Brenner route between Italy and Germany. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss/Austrian and Italian section, for Deutsche Bahn employees."
 %}}
@@ -304,20 +292,27 @@ For the `ECE` Frankfurt – Milan, through FIP 50 Tickets to Milan can be booked
 
 ### On-Site
 
-{{% booking id="fs-ticket-machine" /%}}
-
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="sz-ticket-office" subtitle="For cross-border trains between Slovenia and Italy" /%}}
 
 {{% booking id="db-ticket-office"
-  classes.first="€ 3 / € 25"
-  classes.second="€ 3 / € 25"
+    subtitle="Additional cheaper options for cross-border trains between Switzerland and Italy"
 %}}
 {{% highlight inofficial %}}
 We are currently receiving increasing feedback that booking FIP Tickets and reservations at DB ticket offices is not possible. Booking is only possible via the old sales system. Where possible, staff at the DB Reisezentrum can switch to this system (see [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
 {{% /highlight %}}
 The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+
+{{% highlight inofficial %}}
+National long-distance tickets are issued with the _DIRITTO AMMISSIONE_ supplement. This supplement is cheaper than the _CAMBIO SERVIZIO_ supplement and is officially only valid for duty travel, but we are not aware of any issues during ticket inspections when using these tickets for private travel.
+
+**Prices for _DIRITTO AMMISSIONE_:**
+
+Le Frecce (FR, FA, FB): € 25 (1st/2nd class) \
+InterCity (IC): € 3 (1st/2nd class) \
+InterCity Notte (ICN): € 25 (1st/2nd class, seat car)
+{{% /highlight %}}
 {{% /booking %}}
 
 ### On the Train

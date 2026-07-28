@@ -14,11 +14,7 @@ params:
 
 ## FIP 50 Fahrkarten
 
-An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden.
-
-{{% highlight inofficial %}}
-Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgestellt, daher können sich die Preise unterscheiden. Daraus resultierende Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
-{{% /highlight %}}
+An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden. Grundsätzlich wird ein Rabatt von 50 % auf den Tarif _TARIFFA REGIONALE_ gewährt. Bei Fernverkehrszügen wird zusätzlich der Aufschlag _CAMBIO SERVIZIO_ fällig.
 
 {{% /booking-section %}}
 
@@ -26,22 +22,17 @@ Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgest
 
 ## Reservierungen
 
-{{% float-image
-  src="bigliettigratuiti.webp"
-  alt="FS Biglietti Gratuiti"
-  width="50%"
-  position="right"
-%}}
+Der Aufschlag _CAMBIO SERVIZIO_ für Fernverkehrszüge kann ausschließlich vor Ort an Trenitalia Ticketschaltern erworben werden.
 
-Teilweise wird der Tarif _DIRITTO AMMISSIONE_ verkauft. Dieser bezieht sich zwar nicht explizit auf FIP, wird aber akzeptiert. Für die Nutzung ist zusätzlich ein FIP Freifahrtschein erforderlich. Die Nutzung der Bussiness und Executive Klassen ist mit FIP nicht erlaubt. Der korrekte Tarif wäre _Biglietti Gratuiti FS 1/2 Classe_ und bezieht sich auf die Preisdifferenz zwischen Nah- und Fernverkehr. Dieser ist in der Regel auch teurer als _DIRITTO AMMISSIONE_.
+{{% highlight inofficial %}}
+Teilweise wird der Aufschlag _DIRITTO AMMISSIONE_ verkauft. Dieser Aufschlag ist günstiger als _CAMBIO SERVIZIO_ und offiziell nur für Dienstfahrten gültig, uns sind jedoch keine Probleme bei der Ticketkontrolle bekannt, wenn diese Tickets für Privatreisen verwendet werden.
 
 **Preise für _DIRITTO AMMISSIONE_:**
 
-Le Frecce: 25€ (1./2. Klasse) \
-InterCity: 3€ (1./2. Klasse) \
-Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20€ Chiasso – Milano (`ECE`/`EC`)
-
-{{% /float-image %}}
+Le Frecce (FR, FA, FB): 25 € (1./2. Klasse) \
+InterCity (IC): 3 € (1./2. Klasse) \
+InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
+{{% /highlight %}}
 
 {{% /booking-section %}}
 

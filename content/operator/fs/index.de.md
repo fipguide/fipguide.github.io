@@ -53,7 +53,7 @@ Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 #### Reservierungen
 
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
 
 {{% /train-category %}}
 
@@ -76,7 +76,7 @@ Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 #### Reservierungen
 
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
 
 {{% /train-category %}}
 
@@ -95,7 +95,7 @@ Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 #### Reservierungen
 
-Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
 
 {{% /train-category %}}
 
@@ -127,8 +127,7 @@ Schnellzug meist abseits von Hochgeschwindigkeitsstrecken.
 
 #### Reservierungen
 
-**Kosten**: 3 € (1./2. Klasse)
-Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein.
+Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
 
 {{% /train-category %}}
 
@@ -145,8 +144,7 @@ Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen.
 
 #### Reservierungen
 
-**Kosten**: 25 € (1./2. Klasse) im Sitzwagen
-Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifahrtschein. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
+Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
 
 {{% /train-category %}}
 
@@ -164,8 +162,6 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz.
 
 #### Reservierungen
-
-**Kosten für Reservierung**: Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 Abweichende Kosten im Brennerverkehr (Brennerzuschlag):
 
@@ -276,12 +272,6 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 ### Online
 
-{{% booking id="fs-website" %}}
-{{% highlight inofficial %}}
-Zurzeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen auf der FS Website nicht möglich ist. Uns ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
-{{% /highlight %}}
-{{% /booking %}}
-
 {{% booking id="db-website-fip-db"
     subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
 %}}
@@ -304,22 +294,28 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 ### Vor Ort
 
-{{% booking id="fs-ticket-machine" /%}}
-
 {{% booking id="fs-ticket-office" /%}}
 
+{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
+
 {{% booking id="db-ticket-office"
-  classes.first="3 € / 25 €"
-  classes.second="3 € / 25 €"
   subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
 %}}
 {{% highlight inofficial %}}
 Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen an DB Ticketschaltern nicht möglich ist. Die Buchung ist nur über das alte Verkaufssystem möglich. Soweit möglich können Mitarbeitende im DB Reisezentrum auf dieses wechseln (siehe [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Es ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung, empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
 {{% /highlight %}}
 Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
-{{% /booking %}}
 
-{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
+{{% highlight inofficial %}}
+Nationale Fernverkehrstickets werden mit dem Aufschlag _DIRITTO AMMISSIONE_ ausgestellt. Dieser Aufschlag ist günstiger als der _CAMBIO SERVIZIO_ Aufschlag und offiziell nur für Dienstfahrten gültig, uns sind jedoch keine Probleme bei der Ticketkontrolle bekannt, wenn diese Tickets für Privatreisen verwendet werden.
+
+**Preise für _DIRITTO AMMISSIONE_:**
+
+Le Frecce (FR, FA, FB): 25 € (1./2. Klasse) \
+InterCity (IC): 3 € (1./2. Klasse) \
+InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
+{{% /highlight %}}
+{{% /booking %}}
 
 ### Im Zug
 
