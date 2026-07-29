@@ -213,6 +213,7 @@ news:
   all: Toutes les actualités
   further: Autres actualités
   headline: Quoi de neuf ?
+  updated: Mis à jour le
 operators:
   descriptionTemplate: >-
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et

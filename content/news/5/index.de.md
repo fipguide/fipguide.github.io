@@ -18,4 +18,6 @@ Außerdem steigen die Preise für Sitzplatzreservierungen:
 
 Informationen zur Reservierungen sind [hier](/booking/db-website "DB Website Buchung") zu finden.
 
+## Quellen
+
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)

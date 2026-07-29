@@ -35,7 +35,7 @@ Traivelling vend des Billets FIP pour Eurostar Blue et Eurostar Red sur son site
     position="right"
 %}}
 
-À l'étape 2, recherchez « FIP » dans le champ de recherche et trouvez dans la section « Autriche » l'option « FIP International Reduced Rate Card » (si le site est en anglais) ou « FIP 50% » (pour toutes les autres langues).
+À l'étape 2, recherchez « FIP » dans le champ de recherche et choisissez dans la section « Autriche » l'option « FIP International Reduced Rate Card » (si le site est en anglais) ou « FIP 50% » (pour toutes les autres langues).
 
 {{% /float-image %}}
 

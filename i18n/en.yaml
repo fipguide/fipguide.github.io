@@ -204,6 +204,7 @@ news:
   all: All News
   further: Other News
   headline: What's new?
+  updated: Updated on
 operators:
   descriptionTemplate: >-
     Information about FIP conditions at %s: validity, ticket and reservation

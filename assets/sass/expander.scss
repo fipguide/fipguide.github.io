@@ -82,6 +82,29 @@ details[open] > .o-expander__summary {
   }
 }
 
+.o-expander__actions {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+
+  > .a-anchorlink__link {
+    margin-left: auto;
+  }
+
+  @media print {
+    > a {
+      flex-wrap: wrap;
+      font-weight: bold;
+
+      &::after {
+        font-weight: normal;
+      }
+    }
+  }
+}
+
 details {
   position: relative;
   background-color: var(--bg-neutral);
