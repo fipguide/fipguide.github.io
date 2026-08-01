@@ -394,7 +394,7 @@ As part of a trial service on the S-Bahn Mitteldeutschland from 14.06. to 12.12.
 
 ### Regionalverkehre Start GmbH
 
-Regionalverkehre Start GmbH is a subsidiary of DB Regio AG but does not accept FIP discounts.
+On August 1, 2026, Regionalverkehre Start GmbH was integrated into DB Regio AG. From that date onwards, FIP concessions are accepted on these routes, even if the vehicles still bear the old livery.
 
 ### Rail Replacement Services
 
