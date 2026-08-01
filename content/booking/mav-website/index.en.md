@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "MÁV Website"
-description: "Booking information for MÁV booking website."
+description: "Booking information for MÁV booking website and app."
 params:
   classes:
     first: "HUF 990"
@@ -9,7 +9,7 @@ params:
   fip_50: true
   reservations: true
   booking_link: "https://jegy.mav.hu/?lang=en"
-  type: "website"
+  type: "online"
 ---
 
 FIP 50 Tickets and reservations for MÁV and GySEV connections are sold on the MÁV booking website.
