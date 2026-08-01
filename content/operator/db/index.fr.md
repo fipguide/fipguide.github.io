@@ -394,7 +394,7 @@ Dans le cadre d’un service d’essai sur la S-Bahn Mitteldeutschland du 14.06.
 
 ### Regionalverkehre Start GmbH
 
-Regionalverkehre Start GmbH est une filiale de DB Regio AG, mais n’accepte pas les réductions FIP.
+Le 1er août 2026, Regionalverkehre Start GmbH a été intégrée à DB Regio AG. À compter de cette date, les remises FIP seront acceptées sur les services même si les véhicules arborent encore l'ancienne livrée.
 
 ### Services de remplacement ferroviaire
 

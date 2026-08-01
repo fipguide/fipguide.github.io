@@ -394,7 +394,7 @@ Im Rahmen eines Probebetriebs bei der S-Bahn Mitteldeutschland im Zeitraum vom 1
 
 ### Regionalverkehre Start GmbH
 
-Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
+Am 01.08.2026 wurde die Regionalverkehre Start GmbH in die DB Regio AG integriert. Ab diesem Zeitpunkt werden FIP-Vergünstigungen auf den Verbindungen akzeptiert, auch wenn die Fahrzeuge noch die alte Beklebung haben sollten.
 
 ### Anschlüsse
 

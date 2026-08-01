@@ -30,7 +30,7 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 
 | Land                                                       | Grenzpunkte                                              |
 | ---------------------------------------------------------- | -------------------------------------------------------- |
-| Ungarn (MÁV)                                               | Röszke (Gr), Subotica (Gr)                               |
+| [Ungarn](/country/hungary) ([MÁV](/operator/mav))          | Röszke (Gr), Subotica (Gr)                               |
 | [Rumänien](/country/romania) ([CFR](/operator/cfr))        | Jimbolia (fr), Vršac (fr)                                |
 | [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))      | Dimitrovgrad (fr)                                        |
 | Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
