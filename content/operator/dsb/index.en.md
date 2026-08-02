@@ -27,7 +27,8 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 
 ## Train Categories and Reservations
 
-Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the `ECE` trains Hamburg – Copenhagen are usually reservation-required during the summer.
+Within Denmark, reservations are possible but not mandatory. In summer, the cross-border `ECE` und `RJ` trains Copenhagen – Hamburg may only be used by travellers to and from Germany, seat reservations are compulsory. If a reservation is bought on the train, an on-board surcharge of 50 DKK per reservation will be levied.
+
 
 {{% train-category
     id="intercity-lyn"
@@ -193,7 +194,7 @@ This operator is part of AJC (Agreement on Journey Continuation). [More informat
 ## Recommendations
 
 {{% highlight tip %}}
-DSB offers reliable and comfortable service. The 1st class is particularly worthwhile for FIP journeys in Denmark, as it provides complimentary tea, coffee, water, and snacks at all times, and often a small breakfast in the morning. It also grants access to the DSB Lounge in Copenhagen, Odense, and Aarhus. Additionally, a free drink (coffee, tea, water) can be obtained at 7/11 at the station. [^2]
+DSB offers reliable and comfortable service. The 1st class is particularly worthwhile for FIP journeys in Denmark, as it provides complimentary tea, coffee, water, and snacks at all times, a small breakfast is served in the morning between 5.00 am and 9.30 am. It also grants access to the DSB Lounge in Copenhagen, Odense, and Aarhus. Additionally, a free drink (coffee, tea, water) can be obtained at 7/11 at the station. [^2]
 {{% /highlight %}}
 
 ## Sources
