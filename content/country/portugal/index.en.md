@@ -6,7 +6,7 @@ params:
   iso_code: PT
   operators_without_fip:
     - name: Fertagus
-      query:
+      query: agencyId == "15" # agencyName: "Fertagus"
 ---
 
 ## FIP Information

@@ -22,13 +22,13 @@ params:
       category: ece
     - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("EC")
       category: ec
-    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("IC")
+    - query: (agencyName == "DB Fernverkehr AG" || agencyId == "10918") && displayName.startsWith("IC")
       category: ic
-    - query: (agencyName == "DB Regio AG NRW" || agencyName == "DB Regio AG Bayern" || agencyName == "DB Regio AG Mitte" || agencyName == "DB Regio AG Süd" || agencyName == "DB Regio AG Nord") && routeShortName.startsWith("RE")
+    - query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RE")
       category: re
-    - query: (agencyName == "DB Regio AG NRW" || agencyName == "DB Regio AG Bayern" || agencyName == "DB Regio AG Mitte" || agencyName == "DB Regio AG Süd" || agencyName == "DB Regio AG Nord") && routeShortName.startsWith("RB")
+    - query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RB")
       category: rb
-    - query: (agencyName == "DB Regio AG NRW" || agencyName == "DB Regio AG Bayern" || agencyName == "DB Regio AG Mitte" || agencyName == "DB Regio AG Süd" || agencyName == "DB Regio AG Nord") && mode == "SUBURBAN"
+    - query: agencyName.startsWith("DB Regio") && mode == "SUBURBAN"
       category: s
 ---
 

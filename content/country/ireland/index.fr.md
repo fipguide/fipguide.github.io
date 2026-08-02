@@ -6,7 +6,7 @@ params:
   iso_code: IE
   operators_without_fip:
     - name: Transdev (Luas - Tramway de Dublin)
-      query:
+      query: agencyId == "10000" # agencyName: "LUAS"
 ---
 
 ## Informations FIP
