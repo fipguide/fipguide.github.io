@@ -27,7 +27,7 @@ Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les tra
 
 ## Catégories de trains et réservations
 
-Au Danemark, les réservations sont possibles mais non obligatoires. Sur les trajets transfrontaliers avec l’Allemagne, notamment les `ECE` Hambourg — Copenhague, la réservation est souvent obligatoire en été.
+Au Danemark, les réservations sont possibles mais non obligatoires. En été, les trains transfrontaliers  `ECE` et `RJ` Hambourg — Copenhague ne peuvent être empruntés que par les voyageurs à destination ou en provenance d'Allemagne ; la réservation de place est alors obligatoire. Si la réservation est effectuée à bord du train, un supplément de 50 DKK par réservation sera perçu.
 
 {{% train-category
     id="intercity-lyn"
@@ -193,7 +193,7 @@ Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus
 ## Recommandations
 
 {{% highlight tip %}}
-La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, parfois petit-déjeuner le matin, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]
+La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, petit-déjeuner le matin entre 5 h et 9 h 30, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]
 {{% /highlight %}}
 
 ## Sources
