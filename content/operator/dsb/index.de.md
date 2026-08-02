@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die `ECE` Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig.
+Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Im Sommer sind die grenzüberschreitenden `ECE` und `RJ` Züge Kopenhagen – Hamburg Reisenden von und nach Deutschland vorenthalten, es gilt eine Reservationspflicht. Wird eine Reservierung erst im Zug gekauft, wird ein Bordzuschlag von 50 DKK pro Reservierung erhoben.
 
 {{% train-category
     id="intercity-lyn"
@@ -168,7 +168,7 @@ Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterberchungen
+### Fahrtunterbrechungen
 
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]
 
@@ -193,7 +193,7 @@ Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere 
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch oft ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]
+Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens zwischen 05.00 und 09.30 Uhr ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht am Bahnhof bei 7/11 die Möglichkeit, ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]
 {{% /highlight %}}
 
 ## Quellen
