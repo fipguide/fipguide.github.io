@@ -75,9 +75,13 @@ taxation:
     
     {{% highlight important %}}
     Für Mitarbeitende der DB Fernverkehr AG, der DB InfraGO AG, der DB Bahnbau Gruppe GmbH oder der DB Energie GmbH gilt für das TagesTicket M Fern die Versteuerung als Rabattfreibetrag.
+    
     Betreffende Mitarbeiter haben einen gewissen Freibetrag (1.080 € in 2026), der nicht versteuert wird. Wird dieser überschritten, gilt für zusätzlichen Sachbezugswert erneut die monatliche Freigrenze, in die auch die internationalen Fahrvergünstigungen fallen.
+    
     Beispiel:
+    
     Bis November 2026 habe ich einen Sachbezugswert von 1.047 € an TagesTickets M Fern eingelöst. Im November löse ich ein neues TagesTicket M Fern F der 2. Klasse ein, so steigt der Betrag auf 1.097 €, 17 € werden also der Freigrenze zugerechnet.
+    
     Für den November habe ich aber auch ein Feld für die SNCF in der 1. Klasse bestellt, Wert: 35 €. Somit beträgt der gesamte Wert nun bei 17 € + 35 € = 52 €, liegt somit über 50 € und der gesamte Betrag wird dem Einkommen angerechnet und entsprechend versteuert.
     {{% /highlight %}}
   en: |
