@@ -398,34 +398,6 @@
     }
   }
 
-  &__fip-debug-popover {
-    position: fixed;
-    margin: auto;
-    padding: 0.75rem 1rem;
-    border: 1px solid var(--border-default, #ccc);
-    border-radius: 0.5rem;
-    background: var(--bg-default, #fff);
-    color: var(--text-default, #000);
-    font-size: 1.3rem;
-    max-width: 480px;
-    width: 90vw;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
-
-    [data-theme="dark"] & {
-      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
-    }
-  }
-
-  &__fip-debug-table {
-    border-collapse: collapse;
-    width: 100%;
-
-    td {
-      padding: 0.2rem 0.4rem;
-      vertical-align: top;
-    }
-  }
-
   &__fip-debug-key {
     font-weight: 600;
     white-space: nowrap;

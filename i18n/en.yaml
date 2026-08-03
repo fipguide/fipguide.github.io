@@ -219,6 +219,7 @@ related:
 reportError: Report an error
 routePlanner:
   arrival: Arrival
+  debugTitle: Debug Information
   departure: Departure
   departureTime: Departure time
   duration: Duration

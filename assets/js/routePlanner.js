@@ -4,6 +4,7 @@ import {
   plan,
   reverseGeocode,
 } from "@motis-project/motis-client";
+import { bindDialog, bindDialogTrigger } from "./dialog.js";
 
 const countryCache = new Map();
 
@@ -263,9 +264,9 @@ function renderInternationalWarning(fromCode, toCode) {
   return `<div class="o-route-planner__international-warning">${cfg.labels.internationalJourney} ${countries.join(", ")}</div>`;
 }
 
-function renderFipBadge(fipStatus, popoverId) {
+function renderFipBadge(fipStatus, dialogId) {
   const cfg = window.routePlannerConfig;
-  if (!popoverId) popoverId = `fip-debug-${++fipDebugCounter}`;
+  if (!dialogId) dialogId = `fip-debug-${++fipDebugCounter}`;
 
   const rows = Object.entries(fipStatus.debug)
     .map(
@@ -273,10 +274,20 @@ function renderFipBadge(fipStatus, popoverId) {
         `<tr><td class="o-route-planner__fip-debug-key">${k}</td><td class="o-route-planner__fip-debug-val" data-debug-key="${k}">${v !== null ? v : "—"}</td></tr>`,
     )
     .join("");
-  const popoverHtml = `
-    <div id="${popoverId}" popover class="o-route-planner__fip-debug-popover">
-      <table class="o-route-planner__fip-debug-table"><tbody>${rows}</tbody></table>
-    </div>`;
+  const dialogHtml = `
+    <dialog id="${dialogId}" class="o-dialog__wrapper" aria-labelledby="${dialogId}-title">
+      <div class="o-dialog o-container">
+        <header class="o-dialog__header">
+          <h1 id="${dialogId}-title" class="o-dialog__title">${cfg.labels.debugTitle}</h1>
+          <button type="button" class="a-button a-button__internal" title="${cfg.labels.close}" aria-label="${cfg.labels.close}">
+            <span class="a-icon" aria-hidden="true" style="--icon-url: url('/icons/material-symbols-rounded/close.svg');"></span>
+          </button>
+        </header>
+        <div class="o-dialog__body">
+          <table><tbody>${rows}</tbody></table>
+        </div>
+      </div>
+    </dialog>`;
 
   let reservationBadge = "";
   if (
@@ -288,7 +299,7 @@ function renderFipBadge(fipStatus, popoverId) {
     reservationBadge = ` <span class="o-route-planner__fip-badge o-route-planner__fip-badge--reservation-partial">${cfg.labels.reservationPartiallyRequired}</span>`;
   }
   let badgeHtml = `<span class="o-route-planner__fip-badge o-route-planner__fip-badge--${fipStatus.status}">${fipStatus.label}</span>${reservationBadge}`;
-  badgeHtml += ` <button type="button" class="o-route-planner__fip-info" popovertarget="${popoverId}" aria-label="Debug info"><span class="a-icon" aria-hidden="true" style="--icon-url: url('/icons/material-symbols-rounded/bug_report.svg');"></span></button>${popoverHtml}`;
+  badgeHtml += ` <button type="button" class="o-route-planner__fip-info" data-dialog-trigger="${dialogId}" aria-haspopup="dialog" aria-label="${cfg.labels.debugTitle}"><span class="a-icon" aria-hidden="true" style="--icon-url: url('/icons/material-symbols-rounded/bug_report.svg');"></span></button>${dialogHtml}`;
   if (fipStatus.categoryUrl) {
     badgeHtml += ` <a href="${fipStatus.categoryUrl}" class="o-route-planner__fip-link">${cfg.labels.viewInFipGuide}</a>`;
   }
@@ -327,16 +338,16 @@ function renderLeg(leg) {
     : "";
 
   const warningId = ++legWarningCounter;
-  const popoverId = `fip-debug-${++fipDebugCounter}`;
+  const dialogId = `fip-debug-${++fipDebugCounter}`;
   Promise.all([getCountryForPlace(leg.from), getCountryForPlace(leg.to)]).then(
     ([fromCode, toCode]) => {
       setTimeout(() => {
         const el = document.getElementById(`leg-warning-${warningId}`);
         if (el) el.outerHTML = renderInternationalWarning(fromCode, toCode);
-        const popover = document.getElementById(popoverId);
-        if (popover) {
+        const dialog = document.getElementById(dialogId);
+        if (dialog) {
           const update = (key, val) => {
-            const cell = popover.querySelector(`[data-debug-key="${key}"]`);
+            const cell = dialog.querySelector(`[data-debug-key="${key}"]`);
             if (cell) cell.textContent = val !== null ? val : "—";
           };
           update("fromCountry", fromCode);
@@ -364,7 +375,7 @@ function renderLeg(leg) {
         <div id="leg-warning-${warningId}"></div>
         ${fipStatus.message ? `<div class="o-route-planner__international-warning">${fipStatus.message}</div>` : ""}
         <div class="o-route-planner__leg-fip">
-          ${renderFipBadge(fipStatus, popoverId)}
+          ${renderFipBadge(fipStatus, dialogId)}
         </div>
       </div>
     </div>`;
@@ -466,6 +477,12 @@ async function search() {
     itinerariesEl.innerHTML = itineraries
       .map((it, i) => renderItinerary(it, i))
       .join("");
+    itinerariesEl
+      .querySelectorAll("dialog")
+      .forEach((dialog) => bindDialog(dialog));
+    itinerariesEl
+      .querySelectorAll("[data-dialog-trigger]")
+      .forEach((trigger) => bindDialogTrigger(trigger));
   } catch (err) {
     errorEl.textContent = cfg.labels.errorGeneric;
     errorEl.hidden = false;

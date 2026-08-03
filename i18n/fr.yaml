@@ -228,6 +228,7 @@ related:
 reportError: Signaler une erreur
 routePlanner:
   arrival: Arrivée
+  debugTitle: Informations de débogage
   departure: Départ
   departureTime: Heure de départ
   duration: Durée

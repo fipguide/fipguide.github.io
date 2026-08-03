@@ -226,6 +226,7 @@ related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
 routePlanner:
   arrival: Ankunft
+  debugTitle: Debug-Informationen
   departure: Abfahrt
   departureTime: Abfahrtszeit
   duration: Dauer
