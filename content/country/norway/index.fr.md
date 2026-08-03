@@ -5,14 +5,10 @@ country: "norway"
 params:
   iso_code: NO
   operators_without_fip:
-    - name: Arctic Train
-      query:
-    - name: Chemin de fer de Flåm
-      query:
-    - name: Flytoget Airport Express
-      query:
-    - name: SJ Sverige
-      query:
+    - Arctic Train
+    - Chemin de fer de Flåm
+    - Flytoget Airport Express
+    - SJ Sverige
 ---
 
 ## Informations FIP

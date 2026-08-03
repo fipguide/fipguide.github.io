@@ -5,8 +5,7 @@ country: "lithuania"
 params:
   iso_code: LT
   operators_without_fip:
-    - name: "Aukštaitijos siaurasis geležinkelis (chemin de fer musée)"
-      query:
+    - Aukštaitijos siaurasis geležinkelis (chemin de fer musée)
 ---
 
 ## Informations FIP

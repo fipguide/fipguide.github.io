@@ -5,22 +5,14 @@ country: "netherlands"
 params:
   iso_code: NL
   operators_without_fip:
-    - name: Arriva Nederland
-      query:
-    - name: Breng
-      query:
-    - name: Connexxion
-      query:
-    - name: European Sleeper
-      query:
-    - name: GoVolta
-      query:
-    - name: Keolis Nederland
-      query:
-    - name: Qbuzz
-      query:
-    - name: VIAS Rail
-      query:
+    - Arriva Nederland
+    - Breng
+    - Connexxion
+    - European Sleeper
+    - GoVolta
+    - Keolis Nederland
+    - Qbuzz
+    - VIAS Rail
 ---
 
 ## FIP Nutzung

@@ -5,8 +5,7 @@ country: "ireland"
 params:
   iso_code: IE
   operators_without_fip:
-    - name: Transdev (Luas - Tramway de Dublin)
-      query: agencyId == "10000" # agencyName: "LUAS"
+    - Transdev (Luas - Tramway de Dublin)
 ---
 
 ## Informations FIP

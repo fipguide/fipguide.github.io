@@ -1,0 +1,2 @@
+- query: agencyName == "Slovenske železnice"
+- query: agencyName == "SŽ"

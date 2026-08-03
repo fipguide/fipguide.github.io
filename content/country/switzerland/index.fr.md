@@ -5,18 +5,12 @@ country: "switzerland"
 params:
   iso_code: CH
   operators_without_fip:
-    - name: European Sleeper
-      query:
-    - name: Heimwehfluhbahn (Interlaken – Heimwehfluh)
-      query:
-    - name: Luftseilbahn Wengen – Männlichen
-      query:
-    - name: Gondelbahn Grindelwald – Männlichen (GGM)
-      query:
-    - name: Seilbahn Mürren – Allmendhubel (SMA)
-      query:
-    - name: Luftseilbahn Stechelberg (Mürren – Schilthorn) (LSMS)
-      query:
+    - European Sleeper
+    - Heimwehfluhbahn (Interlaken – Heimwehfluh)
+    - Luftseilbahn Wengen – Männlichen
+    - Gondelbahn Grindelwald – Männlichen (GGM)
+    - Seilbahn Mürren – Allmendhubel (SMA)
+    - Luftseilbahn Stechelberg (Mürren – Schilthorn) (LSMS)
 ---
 
 ## Informations FIP

@@ -8,6 +8,12 @@
           </div>
         </div>
 
+        {{ $icon := partial "icon" "bug_report" }}
+        {{ $rendered := T "routePlanner.experimental" | .RenderString }}
+        {{ $text := replace $rendered "ICON_BUG_REPORT" $icon | safeHTML }}
+        {{ partial "highlight" (dict "Type" "important" "Content" $text) }}
+
+
         <div class="o-route-planner__form m-form">
           <div class="o-route-planner__fields">
             <div class="o-route-planner__field-group">

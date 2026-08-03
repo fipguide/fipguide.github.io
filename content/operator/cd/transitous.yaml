@@ -1,0 +1,2 @@
+- query: agencyName == "České dráhy"
+- query: agencyName == "ČD"

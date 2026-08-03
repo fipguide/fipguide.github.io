@@ -5,8 +5,7 @@ country: "{{ .File.ContentBaseName }}"
 params:
   iso_code: # ISO 3166-1 alpha-2 code, e.g. DE
   operators_without_fip:
-    - name: # Operator name
-      query: # e.g. agencyName == "Operator Name"
+    -  # Operator name
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

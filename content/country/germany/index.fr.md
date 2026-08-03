@@ -5,170 +5,88 @@ country: "germany"
 params:
   iso_code: DE
   operators_without_fip:
-    - name: Abellio Rail Mitteldeutschland GmbH
-      query: agencyId == "11961" # agencyName: "Abellio Rail Mitteldeutschland GmbH"
-    - name: agilis – ag
-      query: agencyId == "10838" || agencyId == "10940" # agencyName: "agilis" / "agilis-Schnellzug"
-    - name: AKN Eisenbahn GmbH – AKN
-      query: agencyId == "10833" # agencyName: "AKN Eisenbahn AG"
-    - name: Albtal-Vekehrs-Gesellschaft mbH
-      query: agencyId == "10836" # agencyName: "Albtal-Verkehrs-Gesellschaft"
-    - name: alex - Die Länderbahn GmbH DLB
-      query: agencyId == "10837" # agencyName: "alex - Die Länderbahn GmbH DLB"
-    - name: Arriva Danmark A/S
-      query:
-    - name: Arriva Nederland
-      query: agencyId == "IFF:ARRIVA" # agencyName: "Arriva" (NL cross-border trains)
-    - name: Arverio Baden-Württemberg
-      query: agencyId == "15251" # agencyName: "Arverio Baden-Württemberg GmbH"
-    - name: Arverio Bayern
-      query: agencyId == "15250" # agencyName: "Arverio Bayern GmbH"
-    - name: BahnTouristikExpress GmbH – BTE
-      query:
-    - name: Bayerische Regiobahn – BRB
-      query: agencyId == "10969" # agencyName: "Bayerische Regiobahn"
-    - name: Bayerische Zugspitzbahn Bergbahn AG
-      query: agencyId == "10971" # agencyName: "Bayerische Zugspitzbahn"
-    - name: Bentheimer Eisenbahn – BE
-      query: agencyId == "10847" || agencyId == "1249" # agencyName: "Bentheimer Eisenbahn"
-    - name: Bodensee-Oberschwaben-Bahn
-      query: agencyId == "10867" # agencyName: "Bodensee-Oberschwaben-Bahn"
-    - name: Borkumer Kleinbahn- und Dampfschiffahrt GmbH
-      query:
-    - name: Brohltal Schmalspureisenbahn Betriebs GmbH – P
-      query: agencyId == "10845" # agencyName: "Brohltalbahn"
-    - name: cantus Verkehrsgesellschaft
-      query: agencyId == "10907" || agencyId == "608" # agencyName: "cantus Verkehrsgesellschaft"
-    - name: City-Bahn Chemnitz – CB
-      query: agencyId == "10851" # agencyName: "City-Bahn Chemnitz"
-    - name: Daadetalbahn – Dab
-      query: agencyId == "10959" # agencyName: "Daadetalbahn"
-    - name: Dessau-Wörlitzer Eisenbahn – DWE
-      query: agencyId == "10358" # agencyName: "Dessauer Verkehrs- und Eisenbahngesellschaft" (routeShortName: DWE)
-    - name: Erfurter Bahn GmbH
-      query: agencyId == "8654" # agencyName: "Erfurter Bahn"
-    - name: erixx – erx
-      query: agencyId == "10966" # agencyName: "erixx"
-    - name: eurobahn
-      query: agencyId == "2155" || agencyId == "11049" # agencyName: "eurobahn" / "Eurobahn"
-    - name: European Sleeper – ES
-      query: agencyId == "es" # agencyName: "European Sleeper"
-    - name: EVB ELBE-WESER GmbH – EVB
-      query: agencyId == "10861" # agencyName: "EVB ELBE-WESER GmbH"
-    - name: FlixTrain GmbH – FLX
-      query: agencyId == "13796" || agencyId == "FLIXTRAIN-eu" # agencyName: "FlixTrain-de" / "FlixTrain-eu"
-    - name: Förderverein Mainschleifenbahn e.V. – MSB
-      query: agencyId == "10899" # agencyName: "Mainschleifenbahn"
-    - name: Freiberger Eisenbahngesellschaft mbH – FEG
-      query:
-    - name: GoVolta
-      query: agencyId == "IFF:GV" # agencyName: "GoVolta"
-    - name: Hamburger Hochbahn
-      query:
-    - name: Hanseatische Eisenbahn GmbH
-      query: agencyId == "10927" || agencyId == "751" # agencyName: "Hanseatische Eisenbahn GmbH"
-    - name: Harzer Schmalspurbahn – HSB
-      query: agencyId == "10875" || agencyId == "8875" # agencyName: "Harzer Schmalspurbahn" / "Harzer Schmalspurbahnen"
-    - name: HLB Hessenbahn GmbH – HLB
-      query: agencyId == "11046" # agencyName: "Hessische Landesbahn GmbH"
-    - name: Kandertalbahn – KTB
-      query: agencyId == "10848" # agencyName: "Kandertalbahn"
-    - name: Kasbachtalbahn – P
-      query: agencyId == "10862" # agencyName: "Kasbachtalbahn"
-    - name: Leo Express
-      query: agencyId == "10385" # agencyName: "LEO Express"
-    - name: Mecklenburgische Bäderbahn Molli – MBB
-      query: agencyId == "10904" # agencyName: "Mecklenburgische Bäderbahn Molli"
-    - name: metronom – ME
-      query: agencyId == "10931" || agencyId == "606" # agencyName: "metronom" / "metronom Eisenbahngesellschaft mbH"
-    - name: Mitteldeutsche Regiobahn – MRB
-      query: agencyId == "10853" || agencyId == "856" # agencyName: "Mitteldeutsche Regiobahn"
-    - name: Mittelrheinbahn – MRB
-      query: agencyId == "10946" # agencyName: "MittelrheinBahn (Trans Regio)"
-    - name: National Express – NX
-      query: agencyName == "National Express"
-    - name: NEB Niederbarnimer Eisenbahn
-      query: agencyId == "10912" # agencyName: "NEB Niederbarnimer Eisenbahn"
-    - name: neg Niebüll GmbH – neg
-      query: agencyId == "10905" # agencyName: "Norddeutsche Eisenbahn Gesellschaft"
-    - name: nordbahn – NBE
-      query: agencyId == "10919" # agencyName: "Nordbahn Eisenbahngesellschaft"
-    - name: NordWestBahn – NWB
-      query: agencyId == "12638" || agencyId == "605" # agencyName: "NordWestBahn"
-    - name: oberpfalzbahn - Die Länderbahn GmbH DLB
-      query: agencyId == "10923" # agencyName: "oberpfalzbahn - Die Länderbahn GmbH DLB"
-    - name: Öchsle-Bahn Betriebsgesellschaft mbH – ÖBA
-      query:
-    - name: Ostdeutsche Eisenbahn GmbH
-      query: agencyId == "7882" || agencyId == "731" # agencyName: "Ostdeutsche Eisenbahn GmbH" / "ODEG Ostdeutsche Eisenbahn GmbH"
-    - name: Pressnitztalbahn – PRE
-      query: agencyId == "10937" # agencyName: "Pressnitztalbahn"
-    - name: RDC Autozug Sylt GmbH – AS
-      query:
-    - name: RDC Deutschland GmbH
-      query:
-    - name: REGIOBAHN
-      query: agencyId == "10894" # agencyName: "REGIOBAHN"
-    - name: Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
-      query: agencyId == "12521" # agencyName: "Regionalverkehre Start Deutschland GmbH Mitteldeutschland"
-    - name: Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
-      query: agencyId == "14872" || agencyId == "2505" # agencyName: "Regionalverkehre Start Deutschland GmbH Niedersachsen-Mitte"
-    - name: Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
-      query: agencyId == "14174" # agencyName: "Regionalverkehre Start Deutschland GmbH Taunus"
-    - name: Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
-      query: agencyId == "12683" # agencyName: "Regionalverkehre Start Deutschland GmbH Unterelbe"
-    - name: RegioTram – RT
-      query:
-    - name: Rhein-Neckar-Verkehr GmbH
-      query:
-    - name: RheinRuhrBahn (Transdev) – RRB
-      query: agencyId == "14173" # agencyName: "RheinRuhrBahn"
-    - name: Rurtalbahn – RTB
-      query: agencyId == "10858" # agencyName: "Rurtalbahn"
-    - name: Saarbahn
-      query: agencyId == "8931" # agencyName: "Saarbahn GmbH"
-    - name: Sächsisch-Oberlausitzer Eisenbahngesellschaft – SOE
-      query: agencyId == "10924" # agencyName: "Sächsisch-Oberlausitzer Eisenbahngesellschaft"
-    - name: S-Bahn Hannover (Transdev)
-      query: agencyId == "2506" # agencyName: "S-Bahn Hannover (Transdev)"
-    - name: SBB GmbH – SBB
-      query: agencyId == "351" || agencyId == "L7____" # agencyName: "SBB GmbH (Grenzverkehr)" / "SBB GmbH"
-    - name: Schienenverkehrsgesellschaft mbH (SVG)
-      query: agencyId == "10918" # agencyName: "DB Fernverkehr (Codesharing)" (IC services operated by SVG on behalf of DB Fernverkehr)
-    - name: Schwäbische Alb-Bahn – SAB
-      query: agencyId == "12894" # agencyName: "Schwäbische Alb-Bahn"
-    - name: SDG Sächsische Dampfeisenbahngesellschaft mbH – SDG
-      query: agencyId == "10846" # agencyName: "SDG Sächsische Dampfeisenbahngesellschaft mbH"
-    - name: Snältågget – D
-      query:
-    - name: Süd-Thüringen-Bahn GmbH
-      query: agencyId == "10942" # agencyName: "Süd-Thüringen-Bahn"
-    - name: SWEG Südwestdeutsche Landesverkehrs-GmbH – SWE
-      query: agencyId == "10939" # agencyName: "Südwestdeutsche Verkehrs-AG" (SWEG operates under this brand)
-    - name: Touristik-Eisenbahn Lüneburger Heide GmbH – TEL
-      query:
-    - name: trilex - Die Länderbahn GmbH DLB – TL
-      query: agencyId == "10892" # agencyName: "trilex - Die Länderbahn GmbH DLB"
-    - name: trilex-Express - Die Länderbahn GmbH DLB – TLX
-      query: agencyId == "10890" # agencyName: "trilex-express - Die Länderbahn GmbH DLB"
-    - name: TRI Train Rental GmbH – TRI
-      query: agencyId == "13122" # agencyName: "TRI Train Rental GmbH"
-    - name: VIAS GmbH – VIA
-      query: agencyId == "10932" # agencyName: "VIAS GmbH"
-    - name: VIAS Rail GmbH – VIA
-      query: agencyId == "10933" # agencyName: "VIAS Rail GmbH"
-    - name: vlexx
-      query: agencyId == "10951" || agencyId == "10952" # agencyName: "vlexx" / "vlexx1"
-    - name: vogtlandbahn - Die Länderbahn GmbH DLB – VBG
-      query: agencyId == "10382" # agencyName: "vogtlandbahn - Die Länderbahn GmbH DLB"
-    - name: waldbahn - Die Länderbahn GmbH DLB
-      query: agencyId == "10964" # agencyName: "waldbahn - Die Länderbahn GmbH DLB"
-    - name: WESTbahn – WB
-      query: agencyId == "02" || agencyId == "10383" # agencyName: "WESTbahn Management GmbH" / "WESTbahn"
-    - name: WestfalenBahn – WFB
-      query: agencyId == "13291" || agencyId == "810" # agencyName: "WestfalenBahn"
-    - name: Württembergische Eisenbahn-Gesellschaft mbH – WEG
-      query:
+    - Abellio Rail Mitteldeutschland GmbH
+    - agilis – ag
+    - AKN Eisenbahn GmbH – AKN
+    - Albtal-Vekehrs-Gesellschaft mbH
+    - alex - Die Länderbahn GmbH DLB
+    - Arriva Danmark A/S
+    - Arriva Nederland
+    - Arverio Baden-Württemberg
+    - Arverio Bayern
+    - BahnTouristikExpress GmbH – BTE
+    - Bayerische Regiobahn – BRB
+    - Bayerische Zugspitzbahn Bergbahn AG
+    - Bentheimer Eisenbahn – BE
+    - Bodensee-Oberschwaben-Bahn
+    - Borkumer Kleinbahn- und Dampfschiffahrt GmbH
+    - Brohltal Schmalspureisenbahn Betriebs GmbH – P
+    - cantus Verkehrsgesellschaft
+    - City-Bahn Chemnitz – CB
+    - Daadetalbahn – Dab
+    - Dessau-Wörlitzer Eisenbahn – DWE
+    - Erfurter Bahn GmbH
+    - erixx – erx
+    - eurobahn
+    - European Sleeper – ES
+    - EVB ELBE-WESER GmbH – EVB
+    - FlixTrain GmbH – FLX
+    - Förderverein Mainschleifenbahn e.V. – MSB
+    - Freiberger Eisenbahngesellschaft mbH – FEG
+    - GoVolta
+    - Hamburger Hochbahn
+    - Hanseatische Eisenbahn GmbH
+    - Harzer Schmalspurbahn – HSB
+    - HLB Hessenbahn GmbH – HLB
+    - Kandertalbahn – KTB
+    - Kasbachtalbahn – P
+    - Leo Express
+    - Mecklenburgische Bäderbahn Molli – MBB
+    - metronom – ME
+    - Mitteldeutsche Regiobahn – MRB
+    - Mittelrheinbahn – MRB
+    - National Express – NX
+    - NEB Niederbarnimer Eisenbahn
+    - neg Niebüll GmbH – neg
+    - nordbahn – NBE
+    - NordWestBahn – NWB
+    - oberpfalzbahn - Die Länderbahn GmbH DLB
+    - Öchsle-Bahn Betriebsgesellschaft mbH – ÖBA
+    - Ostdeutsche Eisenbahn GmbH
+    - Pressnitztalbahn – PRE
+    - RDC Autozug Sylt GmbH – AS
+    - RDC Deutschland GmbH
+    - REGIOBAHN
+    - Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
+    - Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
+    - Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
+    - Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
+    - RegioTram – RT
+    - Rhein-Neckar-Verkehr GmbH
+    - RheinRuhrBahn (Transdev) – RRB
+    - Rurtalbahn – RTB
+    - Saarbahn
+    - Sächsisch-Oberlausitzer Eisenbahngesellschaft – SOE
+    - S-Bahn Hannover (Transdev)
+    - SBB GmbH – SBB
+    - Schienenverkehrsgesellschaft mbH (SVG)
+    - Schwäbische Alb-Bahn – SAB
+    - SDG Sächsische Dampfeisenbahngesellschaft mbH – SDG
+    - Snältågget – D
+    - Süd-Thüringen-Bahn GmbH
+    - SWEG Südwestdeutsche Landesverkehrs-GmbH – SWE
+    - Touristik-Eisenbahn Lüneburger Heide GmbH – TEL
+    - trilex - Die Länderbahn GmbH DLB – TL
+    - trilex-Express - Die Länderbahn GmbH DLB – TLX
+    - TRI Train Rental GmbH – TRI
+    - VIAS GmbH – VIA
+    - VIAS Rail GmbH – VIA
+    - vlexx
+    - vogtlandbahn - Die Länderbahn GmbH DLB – VBG
+    - waldbahn - Die Länderbahn GmbH DLB
+    - WESTbahn – WB
+    - WestfalenBahn – WFB
+    - Württembergische Eisenbahn-Gesellschaft mbH – WEG
 ---
 
 ## Informations FIP

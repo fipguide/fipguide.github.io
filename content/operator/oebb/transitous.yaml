@@ -1,0 +1,3 @@
+- query: agencyName == "OEBB Personenverkehr AG Kundenservice"
+- query: agencyName == "ÖBB-Personenverkehr AG"
+- query: agencyName == "ÖBB"

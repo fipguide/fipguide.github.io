@@ -232,6 +232,14 @@ routePlanner:
   departureTime: Heure de départ
   duration: Durée
   errorGeneric: Une erreur s'est produite. Veuillez réessayer.
+  experimental: >-
+    Le planificateur d'itinéraire est encore expérimental. Il contient encore
+    des erreurs, c'est pourquoi nous avons besoin de votre aide. Si vous trouvez
+    des informations erronées, veuillez les signaler via l'icône ICON_BUG_REPORT
+    pour chaque tronçon dans le résultat de l'itinéraire. Les informations
+    d'itinéraire sont basées sur l'[API Transitous](https://transitous.org/).
+    Veuillez vérifier les informations sur les pages des opérateurs
+    correspondants dans le FIP Guide avant de voyager.
   fipAccepted: FIP accepté
   fipNotAccepted: FIP non accepté
   fipPartial: FIP partiellement accepté

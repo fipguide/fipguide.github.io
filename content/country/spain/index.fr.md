@@ -5,12 +5,9 @@ country: "spain"
 params:
   iso_code: ES
   operators_without_fip:
-    - name: Iryo
-      query:
-    - name: OUIGO
-      query:
-    - name: ’[Avlo](/operator/renfe#longue-distance "Avlo")’
-      query:
+    - Iryo
+    - OUIGO
+    - ’[Avlo](/operator/renfe#longue-distance "Avlo")’
 ---
 
 ## Informations FIP

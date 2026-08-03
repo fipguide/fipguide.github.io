@@ -5,20 +5,13 @@ country: "czechia"
 params:
   iso_code: CZ
   operators_without_fip:
-    - name: ARRIVA vlaky s. r. o.
-      query:
-    - name: AŽD Praha s.r.o.
-      query:
-    - name: GW Train Regio
-      query:
-    - name: Jindřichohradecké místní dráhy (JHMD)
-      query:
-    - name: Leo Express
-      query:
-    - name: RegioJet
-      query:
-    - name: Trilex / Die Länderbahn
-      query:
+    - ARRIVA vlaky s. r. o.
+    - AŽD Praha s.r.o.
+    - GW Train Regio
+    - Jindřichohradecké místní dráhy (JHMD)
+    - Leo Express
+    - RegioJet
+    - Trilex / Die Länderbahn
 ---
 
 ## FIP Nutzung

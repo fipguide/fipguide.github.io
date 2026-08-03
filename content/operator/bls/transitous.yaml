@@ -1,0 +1,2 @@
+- query: agencyName == "BLS AG"
+- query: agencyName == "BLS"

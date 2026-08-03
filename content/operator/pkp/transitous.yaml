@@ -1,0 +1,2 @@
+- query: agencyName == "PKP Intercity"
+- query: agencyName == "Polregio"

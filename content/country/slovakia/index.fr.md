@@ -5,10 +5,8 @@ country: "slovakia"
 params:
   iso_code: SK
   operators_without_fip:
-    - name: RegioJet
-      query:
-    - name: Leo Express
-      query:
+    - RegioJet
+    - Leo Express
 ---
 
 ## Informations FIP

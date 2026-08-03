@@ -1,0 +1,3 @@
+- query: agencyName == "NS"
+- query: agencyName == "NS Int"
+- query: agencyName == "Nederlandse Spoorwegen"

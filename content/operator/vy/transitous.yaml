@@ -1,0 +1,4 @@
+- query: agencyName == "Vy"
+- query: agencyName == "Vy Tog"
+- query: agencyName == "SJ Nord"
+- query: agencyName == "Go-Ahead Nordic"

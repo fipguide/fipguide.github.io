@@ -4,9 +4,6 @@ title: "SV"
 country:
   - "serbia"
 operator: "sv"
-params:
-  transitous_mapping:
-    - query: agencyName == "Srbija Voz"
 ---
 
 Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.

@@ -5,20 +5,13 @@ country: "denmark"
 params:
   iso_code: DK
   operators_without_fip:
-    - name: GoCollective (ehemals Arriva Danmark)
-      query: agencyId == "471" # agencyName: "GoCollective"
-    - name: Lokaltog
-      query: agencyId == "316" # agencyName: "Lokaltog A/S"
-    - name: Øresundståg
-      query: agencyId == "300" # agencyName: "Öresundståg"
-    - name: Midtjyske Jernbaner
-      query: agencyId == "281" && mode == "REGIONAL_RAIL" # agencyName: "Midttrafik" (line 92 Holstebro–Vemb run by Midtjyske Jernbaner but attributed to the Midttrafik PTA in the feed)
-    - name: Nordjyske Jernbaner
-      query: agencyId == "206" # agencyName: "NT" (Nordjyske Jernbaner)
-    - name: SJ
-      query: agencyId == "74" # agencyName: "SJ"
-    - name: Snälltåget
-      query: agencyId == "451" # agencyName: "Snälltåget AB"
+    - GoCollective (ehemals Arriva Danmark)
+    - Lokaltog
+    - Øresundståg
+    - Midtjyske Jernbaner
+    - Nordjyske Jernbaner
+    - SJ
+    - Snälltåget
 ---
 
 ## FIP Information

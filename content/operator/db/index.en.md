@@ -10,26 +10,6 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
-params:
-  transitous_mapping:
-    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE")
-      category: ice
-    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("TGV")
-      category: tgv
-    - query: agencyName == "DB Fernverkehr AG" && (displayName.startsWith("RJ") || displayName.startsWith("RJX"))
-      category: rj
-    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ECE")
-      category: ece
-    - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("EC")
-      category: ec
-    - query: (agencyName == "DB Fernverkehr AG" || agencyId == "10918") && displayName.startsWith("IC")
-      category: ic
-    - query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RE")
-      category: re
-    - query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RB")
-      category: rb
-    - query: agencyName.startsWith("DB Regio") && mode == "SUBURBAN"
-      category: s
 ---
 
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.

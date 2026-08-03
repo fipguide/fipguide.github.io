@@ -5,8 +5,7 @@ country: "lithuania"
 params:
   iso_code: LT
   operators_without_fip:
-    - name: "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
-      query:
+    - Aukštaitijos siaurasis geležinkelis (Museumsbahn)
 ---
 
 ## FIP Nutzung

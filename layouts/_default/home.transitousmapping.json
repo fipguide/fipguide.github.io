@@ -1,9 +1,10 @@
 {{- $operators := where (where site.Pages "Type" "operator") "IsPage" true -}}
 {{- $result := slice -}}
 {{- range $operators -}}
-  {{- $mapping := .Params.transitous_mapping -}}
-  {{- if $mapping -}}
-    {{- $trainCategories := .Store.Get "train_categories" | default slice -}}
+  {{- $page := . -}}
+  {{- with .Resources.GetMatch "transitous.yaml" -}}
+    {{- $mapping := . | transform.Unmarshal -}}
+    {{- $trainCategories := $page.Store.Get "train_categories" | default slice -}}
     {{- $entries := slice -}}
     {{- range $mapping -}}
       {{- $entry := dict "query" .query -}}
@@ -18,7 +19,7 @@
       {{- end -}}
       {{- $entries = $entries | append $entry -}}
     {{- end -}}
-    {{- $op := dict "operator" .File.ContentBaseName "mapping" $entries -}}
+    {{- $op := dict "operator" $page.File.ContentBaseName "mapping" $entries -}}
     {{- $result = $result | append $op -}}
   {{- end -}}
 {{- end -}}
@@ -26,9 +27,12 @@
 {{- $countries := where (where site.Pages "Type" "country") "IsPage" true -}}
 {{- range $countries -}}
   {{- $countrySlug := .File.ContentBaseName -}}
-  {{- range .Params.operators_without_fip -}}
-    {{- if .query -}}
-      {{- $noFipEntries = $noFipEntries | append (dict "query" .query "fipAccepted" false "country" $countrySlug) -}}
+  {{- with .Resources.GetMatch "transitous.yaml" -}}
+    {{- $entries := . | transform.Unmarshal -}}
+    {{- range $entries -}}
+      {{- if .query -}}
+        {{- $noFipEntries = $noFipEntries | append (dict "query" .query "fipAccepted" false "country" $countrySlug) -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

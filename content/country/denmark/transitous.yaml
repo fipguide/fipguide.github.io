@@ -1,0 +1,7 @@
+- query: agencyId == "471" # agencyName: "GoCollective"
+- query: agencyId == "316" # agencyName: "Lokaltog A/S"
+- query: agencyId == "300" # agencyName: "Öresundståg"
+- query: agencyId == "281" && mode == "REGIONAL_RAIL" # agencyName: "Midttrafik" (line 92 Holstebro–Vemb run by Midtjyske Jernbaner but attributed to the Midttrafik PTA in the feed)
+- query: agencyId == "206" # agencyName: "NT" (Nordjyske Jernbaner)
+- query: agencyId == "74" # agencyName: "SJ"
+- query: agencyId == "451" # agencyName: "Snälltåget AB"

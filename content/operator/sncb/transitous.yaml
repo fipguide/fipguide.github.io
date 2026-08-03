@@ -1,0 +1,2 @@
+- query: agencyName == "SNCB"
+- query: agencyName == "NMBS"

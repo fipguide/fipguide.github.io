@@ -5,10 +5,8 @@ country: "belgium"
 params:
   iso_code: BE
   operators_without_fip:
-    - name: European Sleeper
-      query:
-    - name: OUIGO
-      query:
+    - European Sleeper
+    - OUIGO
 ---
 
 ## FIP Information

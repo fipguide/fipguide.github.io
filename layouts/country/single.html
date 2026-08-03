@@ -36,7 +36,7 @@
           </h3>
           <ul aria-labelledby="operators-without-fip-title">
             {{ range . }}
-              <li>{{ .name | markdownify }}</li>
+              <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
         {{ end }}

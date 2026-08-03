@@ -1,0 +1,2 @@
+- query: agencyName == "SNCF"
+- query: agencyName == "SNCF Voyageurs"
