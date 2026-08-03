@@ -38,7 +38,7 @@ There is a direct train connection between Northern Ireland and the Republic of 
 
 Besides the Enterprise Service, there are no other cross-border train connections.
 
-From Dublin and Rosslare, Irish Ferries and Stena Line Limited ferries operate to Holyhead and Fishguard in Wales. The ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line Limited FIP Coupons or FIP 50 Tickets.
+From Dublin, Irish Ferries and [Stena Line Limited](/operator/sll) operate ferries to Holyhead in Wales. From Rosslare, Irish Ferries operates ferries to Pembroke in Wales and [Stena Line Limited](/operator/sll) operates ferries to Fishguard in Wales. The ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line Limited FIP Coupons or FIP 50 Tickets.
 
 {{% highlight tip %}}
 Stena Line Limited and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.

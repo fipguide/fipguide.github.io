@@ -73,7 +73,7 @@ Depuis Calais, il existe également le train auto LeShuttle via le tunnel sous l
 
 ### Irlande
 
-Depuis Dublin et Rosslare, des ferries Irish Ferries et Stena Line Limited relient Holyhead et Fishguard au Pays de Galles. Les liaisons par ferry de [Stena Line Limited](/operator/sll) sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
+Depuis Dublin, Irish Ferries et [Stena Line Limited](/operator/sll) relient Holyhead au Pays de Galles. Depuis Rosslare, Irish Ferries relie Pembroke au Pays de Galles et [Stena Line Limited](/operator/sll) relie Fishguard au Pays de Galles. Les liaisons par ferry de [Stena Line Limited](/operator/sll) sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
 
 {{% highlight tip %}}
 Stena Line Limited et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
