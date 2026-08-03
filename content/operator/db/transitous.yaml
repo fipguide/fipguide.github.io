@@ -14,9 +14,9 @@
   category: ec
 - query: (agencyName == "DB Fernverkehr AG" || agencyId == "10918") && displayName.startsWith("IC")
   category: ic
-- query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RE")
+- query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RE") && fromCountry == "DE" && toCountry == "DE"
   category: re
-- query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RB")
+- query: agencyName.startsWith("DB Regio") && routeShortName.startsWith("RB") && fromCountry == "DE" && toCountry == "DE"
   category: rb
-- query: agencyName.startsWith("DB Regio") && mode == "SUBURBAN"
+- query: agencyName.startsWith("DB Regio") && mode == "SUBURBAN" && fromCountry == "DE" && toCountry == "DE"
   category: s
