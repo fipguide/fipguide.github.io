@@ -103,6 +103,7 @@ function matchLeg(leg) {
         reservationRequired: entry.reservationRequired ?? null,
         matchedQuery: entry.query,
         country: entry.country || null,
+        message: entry.message || null,
       };
     }
   }
@@ -148,6 +149,7 @@ function getFipStatus(leg) {
     fipAccepted: matchedFipAccepted,
     reservationRequired,
     country,
+    message,
   } = match;
   const isNoFip = operatorSlug === "no-fip";
   const operatorUrl = isNoFip ? null : `/${cfg.lang}/operator/${operatorSlug}/`;
@@ -166,6 +168,7 @@ function getFipStatus(leg) {
       categoryUrl,
       operatorSlug,
       reservationRequired,
+      message,
       debug,
     };
   }
@@ -176,6 +179,7 @@ function getFipStatus(leg) {
       categoryUrl,
       operatorSlug,
       reservationRequired,
+      message,
       debug,
     };
   }
@@ -186,6 +190,7 @@ function getFipStatus(leg) {
       categoryUrl,
       operatorSlug,
       reservationRequired,
+      message,
       debug,
     };
   }
@@ -195,6 +200,7 @@ function getFipStatus(leg) {
     categoryUrl,
     operatorSlug,
     reservationRequired,
+    message,
     debug,
   };
 }
@@ -330,6 +336,7 @@ function renderLeg(leg) {
           <span>${arrTime} ${leg.to?.name || ""}${toPlatform}</span>
         </div>
         <div id="leg-warning-${warningId}"></div>
+        ${fipStatus.message ? `<div class="o-route-planner__international-warning">${fipStatus.message}</div>` : ""}
         <div class="o-route-planner__leg-fip">
           ${renderFipBadge(fipStatus, popoverId)}
         </div>

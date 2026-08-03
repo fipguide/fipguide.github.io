@@ -9,6 +9,12 @@
     {{- range $mapping -}}
       {{- $priority := .priority | default 0 -}}
       {{- $entry := dict "query" .query "priority" $priority -}}
+      {{- with .message -}}
+        {{- $msg := index . $page.Language.Lang -}}
+        {{- if $msg -}}
+          {{- $entry = merge $entry (dict "message" $msg) -}}
+        {{- end -}}
+      {{- end -}}
       {{- if .category -}}
         {{- $entry = merge $entry (dict "category" .category) -}}
         {{- $catId := .category -}}
@@ -17,6 +23,12 @@
             {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted "reservationRequired" .reservation_required) -}}
           {{- end -}}
         {{- end -}}
+      {{- end -}}
+      {{- if isset . "fip_accepted" -}}
+        {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted) -}}
+      {{- end -}}
+      {{- if isset . "reservation_required" -}}
+        {{- $entry = merge $entry (dict "reservationRequired" .reservation_required) -}}
       {{- end -}}
       {{- $entries = $entries | append $entry -}}
     {{- end -}}
@@ -28,13 +40,21 @@
 {{- $noFipEntries := slice -}}
 {{- $countries := where (where site.Pages "Type" "country") "IsPage" true -}}
 {{- range $countries -}}
+  {{- $countryPage := . -}}
   {{- $countrySlug := .File.ContentBaseName -}}
   {{- with .Resources.GetMatch "transitous.yaml" -}}
     {{- $entries := . | transform.Unmarshal -}}
     {{- range $entries -}}
       {{- if .query -}}
         {{- $priority := .priority | default 0 -}}
-        {{- $noFipEntries = $noFipEntries | append (dict "query" .query "fipAccepted" false "country" $countrySlug "priority" $priority) -}}
+        {{- $noFipEntry := dict "query" .query "fipAccepted" false "country" $countrySlug "priority" $priority -}}
+        {{- with .message -}}
+          {{- $msg := index . $countryPage.Language.Lang -}}
+          {{- if $msg -}}
+            {{- $noFipEntry = merge $noFipEntry (dict "message" $msg) -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $noFipEntries = $noFipEntries | append $noFipEntry -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
