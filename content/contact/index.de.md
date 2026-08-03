@@ -11,8 +11,6 @@ Die FIP Guide Community ist über die Online-Plattform _Discord_ erreichbar und 
 
 {{< button destination="https://discord.gg/5nWS9Eu9zz" text="Zur FIP Guide Community" >}}
 
-{{< intersector >}}
-
 ## Mail
 
 Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen und Anmerkungen erreichbar und freuen uns auf deinen Inhaltsbeitrag.
