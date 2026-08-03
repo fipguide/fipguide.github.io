@@ -3,7 +3,7 @@
 - query: agencyId == "10833" # agencyName: "AKN Eisenbahn AG"
 - query: agencyId == "10836" # agencyName: "Albtal-Verkehrs-Gesellschaft"
 - query: agencyId == "10837" # agencyName: "alex - Die Länderbahn GmbH DLB"
-- query: agencyId == "IFF:ARRIVA" # agencyName: "Arriva" (NL cross-border trains)
+- query: agencyId == "IFF:ARRIVA" || agencyId == "ARR" # agencyName: "Arriva" (NL cross-border trains + Buses)
 - query: agencyId == "15251" # agencyName: "Arverio Baden-Württemberg GmbH"
 - query: agencyId == "15250" # agencyName: "Arverio Bayern GmbH"
 - query: agencyId == "10969" # agencyName: "Bayerische Regiobahn"

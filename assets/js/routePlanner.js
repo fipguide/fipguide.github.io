@@ -87,18 +87,23 @@ function evalQuery(query, leg) {
 
 function matchLeg(leg) {
   if (!transitousMapping) return null;
+  const allEntries = [];
   for (const op of transitousMapping) {
     for (const entry of op.mapping) {
-      if (evalQuery(entry.query, leg)) {
-        return {
-          operatorSlug: op.operator,
-          categoryId: entry.category || null,
-          fipAccepted: entry.fipAccepted ?? null,
-          reservationRequired: entry.reservationRequired ?? null,
-          matchedQuery: entry.query,
-          country: entry.country || null,
-        };
-      }
+      allEntries.push({ ...entry, operatorSlug: op.operator });
+    }
+  }
+  allEntries.sort((a, b) => (b.priority || 0) - (a.priority || 0));
+  for (const entry of allEntries) {
+    if (evalQuery(entry.query, leg)) {
+      return {
+        operatorSlug: entry.operatorSlug,
+        categoryId: entry.category || null,
+        fipAccepted: entry.fipAccepted ?? null,
+        reservationRequired: entry.reservationRequired ?? null,
+        matchedQuery: entry.query,
+        country: entry.country || null,
+      };
     }
   }
   return null;
