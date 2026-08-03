@@ -11,8 +11,6 @@ The FIP Guide Community is available on the online platform _Discord_ and suppor
 
 {{< button destination="https://discord.gg/5nWS9Eu9zz" text="Join the FIP Guide Community" >}}
 
-{{< intersector >}}
-
 ## Mail
 
 Contact the team behind the FIP Guide – we are here for questions and comments and look forward to your content contribution.
