@@ -147,8 +147,12 @@ function getFipStatus(leg) {
     to: leg.to?.name || null,
     toId: leg.to?.stopId || leg.to?.id || null,
     toCountry: null,
-    startTime: leg.startTime ? new Date(leg.startTime).toLocaleString() : null,
-    endTime: leg.endTime ? new Date(leg.endTime).toLocaleString() : null,
+    startTime: leg.scheduledStartTime
+      ? new Date(leg.scheduledStartTime).toLocaleString()
+      : null,
+    endTime: leg.scheduledEndTime
+      ? new Date(leg.scheduledEndTime).toLocaleString()
+      : null,
     agencyId: leg.agencyId || null,
     agencyName: leg.agencyName || null,
     routeShortName: leg.routeShortName || null,
@@ -372,8 +376,8 @@ function renderLeg(leg) {
   const agencyName = leg.agencyName || "";
   const fipStatus = getFipStatus(leg);
   const legLabel = leg.displayName || leg.routeShortName || "";
-  const depTime = formatTime(leg.startTime);
-  const arrTime = formatTime(leg.endTime);
+  const depTime = formatTime(leg.scheduledStartTime);
+  const arrTime = formatTime(leg.scheduledEndTime);
   const headsign = leg.headsign ? ` → ${leg.headsign}` : "";
   const routeColor = leg.routeColor
     ? `#${leg.routeColor}`
@@ -432,13 +436,19 @@ function renderLeg(leg) {
 
 function renderItinerary(itinerary, index) {
   const cfg = window.routePlannerConfig;
-  const depTime = formatTime(
-    itinerary.startTime || itinerary.legs?.[0]?.startTime,
-  );
-  const arrTime = formatTime(
-    itinerary.endTime || itinerary.legs?.[itinerary.legs.length - 1]?.endTime,
-  );
-  const duration = formatDuration(itinerary.duration);
+  const scheduledStart = itinerary.legs?.[0]?.scheduledStartTime;
+  const scheduledEnd =
+    itinerary.legs?.[itinerary.legs.length - 1]?.scheduledEndTime;
+  const depTime = formatTime(scheduledStart);
+  const arrTime = formatTime(scheduledEnd);
+  const duration =
+    scheduledStart && scheduledEnd
+      ? formatDuration(
+          (new Date(scheduledEnd).getTime() -
+            new Date(scheduledStart).getTime()) /
+            1000,
+        )
+      : formatDuration(itinerary.duration);
 
   const transitLegs =
     itinerary.legs?.filter((l) => l.mode !== "WALK" && l.mode !== "FOOT") || [];
@@ -500,7 +510,6 @@ async function search() {
           "RAIL",
           "FUNICULAR",
           "AERIAL_LIFT",
-          "OTHER",
         ],
       },
     });
