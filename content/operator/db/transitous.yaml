@@ -1,3 +1,7 @@
+- query: (agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") || agencyId == "IFF:NS_INT" && routeShortName == "ICE") && fromCountry == "DE" && toCountry == "DE"
+  category: ice
+  reservation_required: false
+  priority: 1
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE")
   category: ice
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("TGV")

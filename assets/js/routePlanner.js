@@ -66,6 +66,16 @@ function evalQuery(query, leg) {
     const toStopId = leg.to?.stopId || leg.to?.id || "";
     const fromName = leg.from?.name || "";
     const toName = leg.to?.name || "";
+    const fromCountry =
+      (leg.from?.lat &&
+        leg.from?.lon &&
+        countryCache.get(`${leg.from.lat},${leg.from.lon}`)) ||
+      "";
+    const toCountry =
+      (leg.to?.lat &&
+        leg.to?.lon &&
+        countryCache.get(`${leg.to.lat},${leg.to.lon}`)) ||
+      "";
     return Function(
       "agencyId",
       "agencyName",
@@ -78,6 +88,8 @@ function evalQuery(query, leg) {
       "toStopId",
       "fromName",
       "toName",
+      "fromCountry",
+      "toCountry",
       `"use strict"; return (${query});`,
     )(
       agencyId,
@@ -91,6 +103,8 @@ function evalQuery(query, leg) {
       toStopId,
       fromName,
       toName,
+      fromCountry,
+      toCountry,
     );
   } catch {
     return false;
@@ -442,6 +456,12 @@ async function search() {
       itinerariesEl.innerHTML = `<p class="o-route-planner__no-results">${cfg.labels.noResults}</p>`;
       return;
     }
+
+    const allPlaces = itineraries.flatMap(
+      (it) =>
+        it.legs?.flatMap((leg) => [leg.from, leg.to].filter(Boolean)) || [],
+    );
+    await Promise.all(allPlaces.map((p) => getCountryForPlace(p)));
 
     itinerariesEl.innerHTML = itineraries
       .map((it, i) => renderItinerary(it, i))

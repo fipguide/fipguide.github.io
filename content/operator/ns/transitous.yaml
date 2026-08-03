@@ -44,6 +44,3 @@
       Le FIP est valable entre Liège-Guillemins et Maastricht. Au-delà de
       Maastricht vers Heerlen et Aix-la-Chapelle, le train est exploité par
       Arriva et le FIP n'est pas valable sur ce tronçon.
-- query: agencyName == "NS"
-- query: agencyName == "NS Int"
-- query: agencyName == "Nederlandse Spoorwegen"
