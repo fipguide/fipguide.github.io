@@ -5,6 +5,7 @@ import {
   reverseGeocode,
 } from "@motis-project/motis-client";
 import { bindDialog, bindDialogTrigger } from "./dialog.js";
+import { showSnackbar } from "./anchorlinks.js";
 
 const countryCache = new Map();
 
@@ -284,7 +285,18 @@ function renderFipBadge(fipStatus, dialogId) {
           </button>
         </header>
         <div class="o-dialog__body">
+          <p class="o-route-planner__fip-debug-hint">${cfg.labels.debugHint}</p>
           <table><tbody>${rows}</tbody></table>
+          <div class="o-route-planner__fip-debug-actions">
+            <button type="button" class="a-button a-button__internal" data-debug-action="copy">
+              <span class="a-icon" aria-hidden="true" style="--icon-url: url('/icons/material-symbols-rounded/content_copy.svg');"></span>
+              ${cfg.labels.copyToClipboard}
+            </button>
+            <button type="button" class="a-button a-button__internal" data-debug-action="github">
+              <span class="a-icon" aria-hidden="true" style="--icon-url: url('/icons/material-symbols-rounded/bug_report.svg');"></span>
+              ${cfg.labels.openGitHubIssue}
+            </button>
+          </div>
         </div>
       </div>
     </dialog>`;
@@ -304,6 +316,43 @@ function renderFipBadge(fipStatus, dialogId) {
     badgeHtml += ` <a href="${fipStatus.categoryUrl}" class="o-route-planner__fip-link">${cfg.labels.viewInFipGuide}</a>`;
   }
   return badgeHtml;
+}
+
+function buildDebugText(dialog) {
+  const rows = dialog.querySelectorAll(".o-route-planner__fip-debug-key");
+  return Array.from(rows)
+    .map((keyCell) => {
+      const key = keyCell.textContent;
+      const valCell = keyCell.nextElementSibling;
+      return `${key}: ${valCell ? valCell.textContent : "—"}`;
+    })
+    .join("\n");
+}
+
+function buildGitHubIssueUrl(dialog) {
+  const cfg = window.routePlannerConfig;
+  const body = buildDebugText(dialog);
+  return `${cfg.gitHubUrl}/issues/new?title=Route+planner+issue&labels=content,route-planner&body=${encodeURIComponent("```yaml\n" + body + "\n```")}`;
+}
+
+function bindDebugActions(dialog) {
+  const copyButton = dialog.querySelector('[data-debug-action="copy"]');
+  const githubButton = dialog.querySelector('[data-debug-action="github"]');
+
+  if (copyButton) {
+    copyButton.addEventListener("click", () => {
+      const text = buildDebugText(dialog);
+      navigator.clipboard.writeText(text).then(() => {
+        showSnackbar();
+      });
+    });
+  }
+
+  if (githubButton) {
+    githubButton.addEventListener("click", () => {
+      window.open(buildGitHubIssueUrl(dialog), "_blank", "noopener,noreferrer");
+    });
+  }
 }
 
 function renderLeg(leg) {
@@ -477,9 +526,10 @@ async function search() {
     itinerariesEl.innerHTML = itineraries
       .map((it, i) => renderItinerary(it, i))
       .join("");
-    itinerariesEl
-      .querySelectorAll("dialog")
-      .forEach((dialog) => bindDialog(dialog));
+    itinerariesEl.querySelectorAll("dialog").forEach((dialog) => {
+      bindDialog(dialog);
+      bindDebugActions(dialog);
+    });
     itinerariesEl
       .querySelectorAll("[data-dialog-trigger]")
       .forEach((trigger) => bindDialogTrigger(trigger));

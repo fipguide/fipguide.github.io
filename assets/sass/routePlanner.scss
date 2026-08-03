@@ -398,6 +398,10 @@
     }
   }
 
+  &__fip-debug-hint {
+    margin-bottom: 1.5rem;
+  }
+
   &__fip-debug-key {
     font-weight: 600;
     white-space: nowrap;
@@ -407,6 +411,17 @@
   &__fip-debug-val {
     font-family: monospace;
     word-break: break-all;
+  }
+
+  &__fip-debug-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1.5rem;
+
+    .a-icon {
+      font-size: 1.6rem;
+    }
   }
 }
 

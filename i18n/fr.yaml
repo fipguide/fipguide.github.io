@@ -228,6 +228,10 @@ related:
 reportError: Signaler une erreur
 routePlanner:
   arrival: Arrivée
+  copyToClipboard: Copier dans le presse-papiers
+  debugHint: >-
+    Cette information est incorrecte ou incomplète ? Merci de nous signaler
+    l’erreur et de joindre les informations suivantes :
   debugTitle: Informations de débogage
   departure: Départ
   departureTime: Heure de départ
@@ -252,6 +256,7 @@ routePlanner:
     des pays :
   loading: Recherche de connexions…
   noResults: Aucune connexion trouvée.
+  openGitHubIssue: Ouvrir un ticket GitHub
   operatorBaseUrl: /fr
   operatorNotInFipGuide: Opérateur absent du FIP Guide
   platform: Voie

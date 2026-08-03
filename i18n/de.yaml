@@ -226,6 +226,10 @@ related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
 routePlanner:
   arrival: Ankunft
+  copyToClipboard: In die Zwischenablage kopieren
+  debugHint: >-
+    Die Information ist nicht korrekt oder es fehlen Informationen? Bitte melde
+    uns den Fehler und hänge die folgenden Informationen an:
   debugTitle: Debug-Informationen
   departure: Abfahrt
   departureTime: Abfahrtszeit
@@ -247,6 +251,7 @@ routePlanner:
   internationalJourney: 'Internationale Fahrt! Bitte prüfe die Grenzpunkte auf den Länderseiten:'
   loading: Verbindungen werden gesucht…
   noResults: Keine Verbindungen gefunden.
+  openGitHubIssue: GitHub-Issue öffnen
   operatorBaseUrl: /de
   operatorNotInFipGuide: Betreiber nicht im FIP Guide
   platform: Gleis

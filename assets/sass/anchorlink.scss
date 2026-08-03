@@ -76,11 +76,13 @@
 
 .a-snackbar {
   position: fixed;
+  inset: auto auto 0 auto;
   bottom: 0;
   background-color: var(--bg-accent);
   color: var(--color-onLight);
   padding: 1.6rem;
   border-radius: var(--border-radius-s);
+  border: none;
   opacity: 0;
   visibility: hidden;
   transform: translateY(2rem);

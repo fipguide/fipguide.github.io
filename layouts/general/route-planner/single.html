@@ -113,6 +113,7 @@
     window.routePlannerConfig = {
       lang: "{{ .Language.Lang }}",
       baseUrl: "{{ T "routePlanner.operatorBaseUrl" }}",
+      gitHubUrl: "{{ .Site.Params.gitHubUrl }}",
       countryCodeMap: JSON.parse('{{ $map := dict }}{{ range where (where site.Pages "Type" "country") "IsPage" true }}{{ $slug := .File.ContentBaseName }}{{ $name := .Title }}{{ with .Params.iso_code }}{{ $map = merge $map (dict . (dict "slug" $slug "name" $name)) }}{{ end }}{{ end }}{{ $map | jsonify }}'),
       labels: {
         walk: "{{ T "routePlanner.walk" }}",
@@ -132,6 +133,9 @@
         noResults: "{{ T "routePlanner.noResults" }}",
         errorGeneric: "{{ T "routePlanner.errorGeneric" }}",
         debugTitle: "{{ T "routePlanner.debugTitle" }}",
+        debugHint: "{{ T "routePlanner.debugHint" }}",
+        copyToClipboard: "{{ T "routePlanner.copyToClipboard" }}",
+        openGitHubIssue: "{{ T "routePlanner.openGitHubIssue" }}",
         close: "{{ T "dialog.close" }}",
         internationalJourney: "{{ T "routePlanner.internationalJourney" }}"
       }

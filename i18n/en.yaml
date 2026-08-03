@@ -219,6 +219,10 @@ related:
 reportError: Report an error
 routePlanner:
   arrival: Arrival
+  copyToClipboard: Copy to clipboard
+  debugHint: >-
+    Is this information incorrect or missing? Please report the error to us and
+    attach the following information:
   debugTitle: Debug Information
   departure: Departure
   departureTime: Departure time
@@ -240,6 +244,7 @@ routePlanner:
   internationalJourney: 'International journey! Please check the border points on the country pages:'
   loading: Searching for connections…
   noResults: No connections found.
+  openGitHubIssue: Open GitHub issue
   operatorBaseUrl: /en
   operatorNotInFipGuide: Operator not in FIP Guide
   platform: Platform
