@@ -62,6 +62,10 @@ function evalQuery(query, leg) {
       routeId,
       tripShortName,
     } = leg;
+    const fromStopId = leg.from?.stopId || leg.from?.id || "";
+    const toStopId = leg.to?.stopId || leg.to?.id || "";
+    const fromName = leg.from?.name || "";
+    const toName = leg.to?.name || "";
     return Function(
       "agencyId",
       "agencyName",
@@ -70,6 +74,10 @@ function evalQuery(query, leg) {
       "mode",
       "routeId",
       "tripShortName",
+      "fromStopId",
+      "toStopId",
+      "fromName",
+      "toName",
       `"use strict"; return (${query});`,
     )(
       agencyId,
@@ -79,6 +87,10 @@ function evalQuery(query, leg) {
       mode,
       routeId,
       tripShortName,
+      fromStopId,
+      toStopId,
+      fromName,
+      toName,
     );
   } catch {
     return false;
