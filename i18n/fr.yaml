@@ -209,6 +209,9 @@ taxation:
   first-class: 1re classe
   general-heading: Général
   increase: Augmenter
+  intranet-only-warning: >-
+    Le calculateur d’imposition n’est accessible que depuis l’intranet de la
+    Deutsche Bahn.
   missing-info: Nous ne disposons actuellement d’aucune information sur l’imposition.
   no-first-class: 2nd classe uniquement
   optimization-month: Mois

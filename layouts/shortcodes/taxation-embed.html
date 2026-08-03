@@ -1,63 +1,162 @@
 {{- $lang := .Page.Language.Lang -}}
-{{- $base := "https://fipguide.github.io/taxation-app/" -}}
-{{- $src := printf "%s?lang=%s" $base $lang -}}
+{{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
+{{- $warning := T "taxation.intranet-only-warning" -}}
 
 
-<div class="o-taxation-embed">
-  <iframe
-    id="taxation-embed-frame"
-    class="o-taxation-embed__frame"
-    src="{{ $src }}"
-    title="{{ T "taxation.calculator" (dict "Year" "") }}"
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    sandbox="allow-scripts allow-same-origin allow-forms"
-  ></iframe>
+<div
+  class="o-taxation-embed"
+  data-taxation-remote-root
+  data-taxation-remote-base-url="{{ $base }}"
+  data-taxation-remote-lang="{{ $lang }}"
+  data-taxation-remote-warning="{{ $warning }}"
+>
+  <div class="o-taxation-embed__loading">Loading...</div>
 </div>
 
 <script>
   (function () {
-    var frame = document.getElementById("taxation-embed-frame");
-    if (!frame) return;
+    var root = document.querySelector("[data-taxation-remote-root]");
+    if (!root) return;
 
-    function getSavedTheme() {
-      return localStorage.getItem("fipguide-theme") || "auto";
+    function normalizeBaseUrl(rawUrl) {
+      var trimmed = String(rawUrl || "").trim();
+      if (!trimmed) return "";
+      return trimmed.endsWith("/") ? trimmed : trimmed + "/";
     }
 
-    function getEffectiveTheme(theme) {
-      if (theme === "dark") return "dark";
-      if (theme === "light") return "light";
-      return window.matchMedia("(prefers-color-scheme: dark)").matches
-        ? "dark"
-        : "light";
+    function renderWarning() {
+      var warningText = root.getAttribute("data-taxation-remote-warning") || "";
+      root.innerHTML = "";
+      var warning = document.createElement("div");
+      warning.className = "m-text-highlight m-text-highlight--important";
+      var content = document.createElement("div");
+      content.textContent = warningText;
+      warning.appendChild(content);
+      root.appendChild(warning);
     }
 
-    function sendThemeToIframe() {
-      var payload = {
-        type: "fipguide-theme",
-        theme: getEffectiveTheme(getSavedTheme()),
-      };
-      if (frame.contentWindow) {
-        frame.contentWindow.postMessage(payload, "*");
+    function loadModule(src, id) {
+      return new Promise(function (resolve, reject) {
+        var existing = document.getElementById(id);
+        if (existing) {
+          resolve();
+          return;
+        }
+        var script = document.createElement("script");
+        script.id = id;
+        script.type = "module";
+        script.src = src;
+        script.crossOrigin = "anonymous";
+        script.onload = function () {
+          resolve();
+        };
+        script.onerror = function () {
+          reject(new Error("module-load-failed"));
+        };
+        document.head.appendChild(script);
+      });
+    }
+
+    async function loadCss(baseUrl) {
+      var cssUrl = baseUrl + "css/styles.min.css";
+      var cssResponse = await fetch(cssUrl, {
+        method: "GET",
+        cache: "no-store",
+        credentials: "omit",
+      });
+      if (!cssResponse.ok) {
+        throw new Error("style-load-failed");
+      }
+      var cssText = await cssResponse.text();
+      var rewritten = String(cssText)
+        .replace(
+          /url\((['"]?)\/icons\//g,
+          "url($1" + window.location.origin + "/icons/",
+        )
+        .replace(
+          /url\((['"]?)\/css\//g,
+          "url($1" + window.location.origin + "/css/",
+        );
+
+      var style = document.getElementById("taxation-remote-style");
+      if (!style) {
+        style = document.createElement("style");
+        style.id = "taxation-remote-style";
+        document.head.appendChild(style);
+      }
+      style.textContent = rewritten;
+    }
+
+    function renderShell() {
+      root.innerHTML =
+        '<div class="o-taxation-embed__calculator" data-taxation-calculator-host></div>';
+    }
+
+    function getSelectedIssuerSlug() {
+      return localStorage.getItem("fipguide-issuer") || "";
+    }
+
+    async function init() {
+      var baseUrl = normalizeBaseUrl(
+        root.getAttribute("data-taxation-remote-base-url"),
+      );
+      if (!baseUrl) {
+        renderWarning();
+        return;
+      }
+
+      var lang = root.getAttribute("data-taxation-remote-lang") || "en";
+      var issuer = getSelectedIssuerSlug();
+      if (!issuer) {
+        root.innerHTML = "";
+        return;
+      }
+
+      try {
+        var checkResponse = await fetch(baseUrl + "data/index.json", {
+          method: "GET",
+          cache: "no-store",
+          credentials: "omit",
+        });
+        if (!checkResponse.ok) {
+          throw new Error("remote-unreachable");
+        }
+
+        await loadCss(baseUrl);
+        await loadModule(
+          baseUrl + "js/calculatorEmbed.js",
+          "taxation-remote-module",
+        );
+
+        renderShell();
+        var host = root.querySelector("[data-taxation-calculator-host]");
+        if (!host || !window.mountTaxationCalculator) {
+          throw new Error("calculator-mount-unavailable");
+        }
+
+        await window.mountTaxationCalculator({
+          host: host,
+          remoteBaseUrl: baseUrl,
+          iconBaseUrl: "/icons/material-symbols-rounded/",
+          lang: lang,
+          issuer: issuer,
+        });
+      } catch (_error) {
+        renderWarning();
       }
     }
 
-    frame.addEventListener("load", sendThemeToIframe);
-
-    var observer = new MutationObserver(function () {
-      sendThemeToIframe();
+    document.addEventListener("fip-issuer-selected", function (event) {
+      if (
+        !event ||
+        !event.detail ||
+        event.detail.dropdownId !== "taxation-issuer"
+      ) {
+        return;
+      }
+      init();
     });
-    observer.observe(document.documentElement, {
-      attributes: true,
-      attributeFilter: ["data-theme"],
-    });
 
-    window
-      .matchMedia("(prefers-color-scheme: dark)")
-      .addEventListener("change", function () {
-        if (getSavedTheme() === "auto") {
-          sendThemeToIframe();
-        }
-      });
+    init();
   })();
 </script>

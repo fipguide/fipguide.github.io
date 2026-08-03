@@ -1,11 +1,14 @@
 .o-taxation-embed {
   margin-top: 1rem;
 
-  &__frame {
-    width: 100%;
-    min-height: 80vh;
-    border: 0;
+  &__loading {
+    padding: 1rem 1.2rem;
     border-radius: var(--border-radius-m);
-    background: var(--bg-default);
+    background: var(--bg-neutral);
+    color: var(--color-body);
+  }
+
+  .m-text-highlight {
+    margin-top: 0;
   }
 }

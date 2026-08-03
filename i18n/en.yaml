@@ -199,6 +199,7 @@ taxation:
   first-class: 1st Class
   general-heading: General
   increase: Increase
+  intranet-only-warning: The tax calculator is only accessible from Deutsche Bahn’s intranet.
   missing-info: We currently do not have information on taxation.
   no-first-class: 2nd Class only
   optimization-month: Month

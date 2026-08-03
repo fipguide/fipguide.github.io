@@ -207,6 +207,7 @@ taxation:
   first-class: 1. Klasse
   general-heading: Allgemein
   increase: Erhöhen
+  intranet-only-warning: Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.
   missing-info: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   no-first-class: Nur 2. Klasse
   optimization-month: Monat

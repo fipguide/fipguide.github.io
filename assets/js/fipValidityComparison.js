@@ -51,6 +51,14 @@ document.addEventListener("DOMContentLoaded", function () {
         showIssuer(slug);
         closeDropdown(dropdownId);
         localStorage.setItem(ISSUER_KEY, slug);
+        document.dispatchEvent(
+          new CustomEvent("fip-issuer-selected", {
+            detail: {
+              slug,
+              dropdownId,
+            },
+          }),
+        );
         if (sync) {
           restoreFns.forEach(function (fn) {
             if (fn !== restore) fn();
