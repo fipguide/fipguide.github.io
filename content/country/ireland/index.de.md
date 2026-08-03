@@ -38,7 +38,7 @@ Zwischen Nordirland und der Republik Irland gibt es eine direkte Zugverbindung z
 
 Neben dem Enterprise Service gibt es keine weiteren grenzüberschreitenden Zugverbindungen.
 
-Von Dublin und Rosslare verkehren Irish Ferries und Stena Line Limited Fähren nach Holyhead und Fishguard in Wales. Die Fährverbindungen von [Stena Line Limited](/operator/sll) sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar.
+Von Dublin verkehren Irish Ferries und [Stena Line Limited](/operator/sll) Fähren nach Holyhead in Wales. Von Rosslare verkehren Irish Ferries Fähren nach Pembroke in Wales und [Stena Line Limited](/operator/sll) Fähren nach Fishguard in Wales. Die Fährverbindungen von [Stena Line Limited](/operator/sll) sind mit eigenen FIP Freifahrtscheinen von Stena Line bzw. FIP 50 Tickets vergünstigt nutzbar.
 
 {{% highlight tip %}}
 Stena Line Limited und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
