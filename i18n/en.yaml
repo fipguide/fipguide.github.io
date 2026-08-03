@@ -90,6 +90,7 @@ highlight:
   confusion: Risk of Confusion
   important: Important Information
   inofficial: Unofficial Information
+  success: Successful
   tip: Personal Tip
 home-page-text: FIP Guide Home Page
 identify-operator:
@@ -173,6 +174,7 @@ taxation:
   add-month: Add month
   add-national: Add national discount
   add-operator: Add operator
+  add-other: Add taxable benefit
   calculator: Tax Calculator {{ .Year }}
   calculator-description: >-
     The tax calculator helps you determine the taxable non-cash benefit value of
@@ -200,6 +202,7 @@ taxation:
   general-heading: General
   increase: Increase
   intranet-only-warning: The tax calculator is only accessible from Deutsche Bahn’s intranet.
+  lock: Set assignment
   missing-info: We currently do not have information on taxation.
   no-first-class: 2nd Class only
   optimization-month: Month

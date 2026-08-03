@@ -93,6 +93,7 @@ highlight:
   confusion: Verwechslungsgefahr
   important: Wichtige Information
   inofficial: Inoffizielle Information
+  success: Erfolgreich
   tip: Persönlicher Tipp
 home-page-text: FIP Guide Startseite
 identify-operator:
@@ -181,6 +182,7 @@ taxation:
   add-month: Monat hinzufügen
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
+  add-other: Sachbezug hinzufügen
   calculator: Steuerrechner {{ .Year }}
   calculator-description: >-
     Hier kannst du den Sachbezugswert deiner Fahrvergünstigungen berechnen.
@@ -208,6 +210,7 @@ taxation:
   general-heading: Allgemein
   increase: Erhöhen
   intranet-only-warning: Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.
+  lock: Zuordnung festlegen
   missing-info: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   no-first-class: Nur 2. Klasse
   optimization-month: Monat

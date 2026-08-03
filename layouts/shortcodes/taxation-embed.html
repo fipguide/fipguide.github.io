@@ -1,6 +1,61 @@
 {{- $lang := .Page.Language.Lang -}}
 {{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
 {{- $warning := T "taxation.intranet-only-warning" -}}
+{{- $headingYear := "" -}}
+{{- range where .Site.RegularPages "Type" "operator" -}}
+  {{- if eq $headingYear "" -}}
+    {{- $taxationRes := .Resources.Get "taxation.yaml" -}}
+    {{- if $taxationRes -}}
+      {{- $taxation := $taxationRes | transform.Unmarshal -}}
+      {{- with $taxation.year -}}
+        {{- $headingYear = printf "%v" . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $i18nTaxation := dict
+  "first-class" (T "taxation.first-class")
+  "second-class" (T "taxation.second-class")
+  "no-first-class" (T "taxation.no-first-class")
+  "add-operator" (T "taxation.add-operator")
+  "add-national" (T "taxation.add-national")
+  "add-other" (T "taxation.add-other")
+  "remove" (T "taxation.remove")
+  "increase" (T "taxation.increase")
+  "decrease" (T "taxation.decrease")
+  "category-other" (T "taxation.category-other")
+  "other-placeholder" (T "taxation.other-placeholder")
+  "person-limit" (T "taxation.person-limit")
+  "planning" (T "taxation.planning")
+  "planning-description" (T "taxation.planning-description")
+  "planning-focus" (T "taxation.planning-focus")
+  "optimize" (T "taxation.optimize")
+  "add-month" (T "taxation.add-month")
+  "optimization-month" (T "taxation.optimization-month")
+  "unassigned" (T "taxation.unassigned")
+  "person" (T "taxation.person")
+  "person-one" (T "taxation.person-one")
+  "person-other" (T "taxation.person-other")
+  "lock" (T "taxation.lock")
+  "unlock" (T "taxation.unlock")
+  "person-limit-not-supported-warning" (T "taxation.person-limit-not-supported-warning")
+  "summary-under-limit" (T "taxation.summary-under-limit" (dict "Threshold" "__THRESHOLD__"))
+  "summary-over-limit-unassigned" (T "taxation.summary-over-limit-unassigned" (dict "Threshold" "__THRESHOLD__"))
+  "summary-all-assigned-ok" (T "taxation.summary-all-assigned-ok" (dict "Threshold" "__THRESHOLD__"))
+  "summary-all-assigned-over-month" (T "taxation.summary-all-assigned-over-month" (dict "Threshold" "__THRESHOLD__"))
+  "category-international" (T "taxation.category-international")
+  "category-national" (T "taxation.category-national")
+  "sum" (T "taxation.sum")
+  "reset" (T "taxation.reset")
+  "calculator-description" (T "taxation.calculator-description")
+-}}
+{{- $i18nPayload := dict
+  "taxation" $i18nTaxation
+  "highlight" (dict
+  "important" (T "highlight.important")
+  "success" (T "highlight.success")
+  )
+-}}
 
 
 <div
@@ -9,14 +64,30 @@
   data-taxation-remote-base-url="{{ $base }}"
   data-taxation-remote-lang="{{ $lang }}"
   data-taxation-remote-warning="{{ $warning }}"
+  data-taxation-remote-i18n="{{ $i18nPayload | jsonify }}"
 >
+  <h2 id="calculator">
+    {{ T "taxation.calculator" (dict "Year" $headingYear) }}
+  </h2>
   <div class="o-taxation-embed__loading">Loading...</div>
+  <template data-taxation-remote-warning-template>
+    {{ partial "highlight" (dict
+      "Type" "important"
+      "Content" $warning
+      )
+    }}
+  </template>
 </div>
 
 <script>
   (function () {
     var root = document.querySelector("[data-taxation-remote-root]");
     if (!root) return;
+    var warningTemplate = root.querySelector(
+      "[data-taxation-remote-warning-template]",
+    );
+    var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
+    var headingHtml = '<h2 id="calculator">{{ T "taxation.calculator" (dict "Year" $headingYear) }}</h2>';
 
     function normalizeBaseUrl(rawUrl) {
       var trimmed = String(rawUrl || "").trim();
@@ -25,14 +96,11 @@
     }
 
     function renderWarning() {
-      var warningText = root.getAttribute("data-taxation-remote-warning") || "";
       root.innerHTML = "";
-      var warning = document.createElement("div");
-      warning.className = "m-text-highlight m-text-highlight--important";
-      var content = document.createElement("div");
-      content.textContent = warningText;
-      warning.appendChild(content);
-      root.appendChild(warning);
+      root.insertAdjacentHTML("beforeend", headingHtml);
+      if (warningHtml) {
+        root.insertAdjacentHTML("beforeend", warningHtml);
+      }
     }
 
     function loadModule(src, id) {
@@ -89,6 +157,7 @@
 
     function renderShell() {
       root.innerHTML =
+        headingHtml +
         '<div class="o-taxation-embed__calculator" data-taxation-calculator-host></div>';
     }
 
@@ -96,7 +165,20 @@
       return localStorage.getItem("fipguide-issuer") || "";
     }
 
-    async function init() {
+    async function mountFromCurrentSelection() {
+      if (mountFromCurrentSelection.loading) {
+        return;
+      }
+      mountFromCurrentSelection.loading = true;
+      try {
+        await initOnce();
+      } finally {
+        mountFromCurrentSelection.loading = false;
+      }
+    }
+    mountFromCurrentSelection.loading = false;
+
+    async function initOnce() {
       var baseUrl = normalizeBaseUrl(
         root.getAttribute("data-taxation-remote-base-url"),
       );
@@ -107,6 +189,8 @@
 
       var lang = root.getAttribute("data-taxation-remote-lang") || "en";
       var issuer = getSelectedIssuerSlug();
+      var i18nPayload = root.getAttribute("data-taxation-remote-i18n") || "{}";
+      var i18n = JSON.parse(i18nPayload);
       if (!issuer) {
         root.innerHTML = "";
         return;
@@ -140,6 +224,7 @@
           iconBaseUrl: "/icons/material-symbols-rounded/",
           lang: lang,
           issuer: issuer,
+          i18n: i18n,
         });
       } catch (_error) {
         renderWarning();
@@ -154,9 +239,15 @@
       ) {
         return;
       }
-      init();
+      mountFromCurrentSelection();
     });
 
-    init();
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", mountFromCurrentSelection, {
+        once: true,
+      });
+    } else {
+      mountFromCurrentSelection();
+    }
   })();
 </script>
