@@ -10,7 +10,7 @@ Die finnische Staatsbahn VR hat angekündigt, zum Ende 2025 aus dem FIP-Programm
 Ursache dafür könnte der Austritt der VR aus der UIC (Union Internationale des Chemins de fer – internationaler Verband von Eisenbahnunternehmen) darstellen, um Mitgliedsbeiträge einzusparen. Offizielle Stellungnahmen seitens der VR gibt es bisher nicht. Weitere Informationen sind in [finnischen Eisenbahnforen zu finden](https://vaunut.org/keskustelut/index.php?topic=15586.0).
 
 {{% update date="2026-08-03" %}}
-Nach Informationen der finnischen Staatsbahn VR wird teilweise weiterhin versucht, FIP-Vergünstigungen wie FIP 50 Tickets oder FIP Freifahrtscheine zu nutzen.
+Nach Informationen der finnischen Staatsbahn VR wird teilweise weiterhin versucht, FIP 50 Tickets zu erwerben.
 
 Wir möchten daran erinnern, dass die Nutzung von FIP-Vergünstigungen in Zügen der VR in Finnland nicht mehr möglich ist.
 {{% /update %}}

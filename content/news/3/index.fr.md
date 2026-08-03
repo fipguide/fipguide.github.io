@@ -10,7 +10,7 @@ Les chemins de fer finlandais VR ont annoncé leur retrait du programme FIP à l
 La raison pourrait être le retrait de VR de l’UIC (Union Internationale des Chemins de fer) afin d’économiser les frais d’adhésion. Il n’y a pas encore de déclaration officielle de VR. Plus d’informations sont disponibles sur les [forums ferroviaires finlandais](https://vaunut.org/keskustelut/index.php?topic=15586.0).
 
 {{% update date="2026-08-03" %}}
-Selon les informations des chemins de fer finlandais VR, des tentatives d’utiliser des réductions FIP telles que les Billets FIP 50 ou les Coupons FIP continuent parfois d’être faites.
+Selon les informations de la compagnie ferroviaire d'État finlandaise VR, des tentatives sont partiellement poursuivies pour l'acquisition de Billets FIP 50.
 
 Nous souhaitons rappeler que l’utilisation des réductions FIP dans les trains de VR en Finlande n’est plus possible.
 {{% /update %}}
