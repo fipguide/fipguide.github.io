@@ -12,7 +12,7 @@
       {{- with .message -}}
         {{- $msg := index . $page.Language.Lang -}}
         {{- if $msg -}}
-          {{- $entry = merge $entry (dict "message" $msg) -}}
+          {{- $entry = merge $entry (dict "message" ($msg | $page.RenderString)) -}}
         {{- end -}}
       {{- end -}}
       {{- if .category -}}
@@ -51,7 +51,7 @@
         {{- with .message -}}
           {{- $msg := index . $countryPage.Language.Lang -}}
           {{- if $msg -}}
-            {{- $noFipEntry = merge $noFipEntry (dict "message" $msg) -}}
+            {{- $noFipEntry = merge $noFipEntry (dict "message" ($msg | $countryPage.RenderString)) -}}
           {{- end -}}
         {{- end -}}
         {{- $noFipEntries = $noFipEntries | append $noFipEntry -}}
