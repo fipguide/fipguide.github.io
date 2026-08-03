@@ -8,3 +8,9 @@ description: "Finnish Railways VR will leave the FIP program on January 1, 2026.
 The Finnish State Railways VR has announced its withdrawal from the FIP program by the end of 2025. The withdrawal was originally planned for 2024 but was postponed by one year. As of 01.01.2026, FIP travel discounts for VR will no longer be available.
 
 The reason for this could be VR's withdrawal from the UIC (Union Internationale des Chemins de fer – International Union of Railways) to save membership fees. There have been no official statements from VR so far. More information can be found in [Finnish railway forums](https://vaunut.org/keskustelut/index.php?topic=15586.0).
+
+{{% update date="2026-08-03" %}}
+According to information from the Finnish State Railways VR, there are still occasional attempts to use FIP discounts such as FIP 50 Tickets or FIP Coupons.
+
+We would like to remind you that the use of FIP discounts on VR trains in Finland is no longer possible.
+{{% /update %}}
