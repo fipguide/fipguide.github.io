@@ -50,3 +50,16 @@
       Maastricht vers Heerlen et Aix-la-Chapelle, le train est exploité par
       Arriva et le FIP n'est pas valable sur ce tronçon.
       [Plus d'informations](/country/netherlands/#train-des-trois-pays-liège--maastricht--heerlen--aix-la-chapelle)
+- query: agencyId == "IFF:NS_INT" && routeShortName == "ICE" && ((fromCountry == "DE" && toCountry == "NL") || (fromCountry == "NL" && toCountry == "DE")) && new Date(startTime) >= new Date("2026-06-26T00:00:00+02:00") && new Date(startTime) < new Date("2026-08-17T00:00:00+02:00")
+  category: ice
+  reservation_required: true
+  border_point: "Emmerich (Gr), Bad Bentheim (Gr)"
+  priority: 1
+  message:
+    en: "Temporary reservation requirement for cross-border journeys to/from Germany: 26.06 – 16.08.2026."
+    de: "Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten von/nach Deutschland: 26.06. – 16.08.2026."
+    fr: "Obligation de réservation temporaire pour les trajets transfrontaliers vers/depuis l’Allemagne: 26.06 – 16.08.2026."
+- query: agencyId == "IFF:NS_INT" && routeShortName == "ICE" && ((fromCountry == "DE" && toCountry == "NL") || (fromCountry == "NL" && toCountry == "DE"))
+  category: ice
+  reservation_required: false
+  border_point: "Emmerich (Gr), Bad Bentheim (Gr)"
