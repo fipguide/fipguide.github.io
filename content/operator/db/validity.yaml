@@ -67,17 +67,29 @@ taxation:
 
     Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im DB Reisemarkt oder DB Personalportal verfügbar.
 
-    Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2025) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
+    Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2026) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
 
     FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden dem Mitarbeitenden angerechnet.
 
     Für FIP 50 Tickets wird kein Geldwerter Vorteil berechnet.
+    
+    {{% highlight important %}}
+    Für Mitarbeitende der DB Fernverkehr AG, der DB InfraGO AG, der DB Bahnbau Gruppe GmbH oder der DB Energie GmbH gilt für das TagesTicket M Fern die Versteuerung als Rabattfreibetrag.
+    
+    Betreffende Mitarbeiter haben einen gewissen Freibetrag (1.080 € in 2026), der nicht versteuert wird. Wird dieser überschritten, gilt für zusätzlichen Sachbezugswert erneut die monatliche Freigrenze, in die auch die internationalen Fahrvergünstigungen fallen.
+    
+    Beispiel:
+    
+    Bis November 2026 habe ich einen Sachbezugswert von 1.047 € an TagesTickets M Fern eingelöst. Im November löse ich ein neues TagesTicket M Fern F der 2. Klasse ein, so steigt der Betrag auf 1.097 €, 17 € werden also der Freigrenze zugerechnet.
+    
+    Für den November habe ich aber auch ein Feld für die SNCF in der 1. Klasse bestellt, Wert: 35 €. Somit beträgt der gesamte Wert nun bei 17 € + 35 € = 52 €, liegt somit über 50 € und der gesamte Betrag wird dem Einkommen angerechnet und entsprechend versteuert.
+    {{% /highlight %}}
   en: |
     FIP Coupons for employees in Germany are considered _non-monetary compensation_ subject to § 8 of the German Income Tax Act (EStG). FIP Coupons are therefore subject to income tax and social security contributions.
 
     The assessed value differs depending on the network length that can be covered with the respective coupon and is updated annually. A list of the current amounts is available in the DB Reisemarkt or DB employee portal.
 
-    Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds a certain threshold (€50 in 2025), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
+    Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds a certain threshold (€50 in 2026), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
 
     FIP Coupons and national travel discounts of dependents are counted toward the employee.
 
@@ -87,7 +99,7 @@ taxation:
 
     La valeur évaluée varie selon la longueur du réseau qui peut être couverte avec le coupon respectif et est mise à jour annuellement. Une liste des montants actuels est disponible sur le marché des voyages DB ou le portail des employés DB.
 
-    Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse un certain seuil (50 € en 2025), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
+    Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse un certain seuil (50 € en 2026), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
 
     Les Coupons FIP et les réductions FIP de voyage nationales des ayants droit sont comptabilisés auprès de l’employé.
 
